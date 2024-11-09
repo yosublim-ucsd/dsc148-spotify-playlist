@@ -2140,7 +2140,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 452682,
       "name": "Dialogue",
       "url": "https://open.spotify.com/track/52jhw6Sfp5ED2ilnikRyhP"
@@ -4830,7 +4830,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 191570,
       "name": "In The Dust",
       "url": "https://open.spotify.com/track/47MCbUMo5YM8hgLC3flMZ7"
@@ -7192,7 +7192,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 159458,
       "name": "Over Again",
       "url": "https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz"
@@ -9904,6 +9904,24 @@
       "duration_ms": 234312,
       "name": "Tighter (feat. Jalja) - CamelPhat Remix",
       "url": "https://open.spotify.com/track/3PGvcGU10IzjiSA96A2GcO"
+    },
+    {
+      "album": {
+        "name": "Tigra",
+        "url": "https://open.spotify.com/album/6rtyAl9LvS3cTp8b5nkj6X"
+      },
+      "artists": [
+        {
+          "name": "Maxim Lany",
+          "url": "https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182670,
+      "name": "Tigra",
+      "url": "https://open.spotify.com/track/4Wj8NO7sE9mHXCRcIxP2ED"
     },
     {
       "album": {

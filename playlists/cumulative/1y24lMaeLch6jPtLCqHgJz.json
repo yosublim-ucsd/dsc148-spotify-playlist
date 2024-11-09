@@ -2705,6 +2705,32 @@
     },
     {
       "album": {
+        "name": "Fields Of Gold",
+        "url": "https://open.spotify.com/album/4YVhrXkAX7LB66tG62TsC6"
+      },
+      "artists": [
+        {
+          "name": "Mydn",
+          "url": "https://open.spotify.com/artist/7codSMNNqXVVHJ6zIuUo6g"
+        },
+        {
+          "name": "okafuwa",
+          "url": "https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj"
+        },
+        {
+          "name": "Protocol Lab",
+          "url": "https://open.spotify.com/artist/06JAfjaLQglgC2iiRBSkKr"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184186,
+      "name": "Fields Of Gold",
+      "url": "https://open.spotify.com/track/4qBai1uujncH1mSGRGFsT8"
+    },
+    {
+      "album": {
         "name": "Filthy Rich",
         "url": "https://open.spotify.com/album/6cFccsLrrlJreLTA23pVzc"
       },
@@ -5698,6 +5724,24 @@
     {
       "album": {
         "name": "Reality",
+        "url": "https://open.spotify.com/album/4VVZ1mVS2f9erPqAQhVoXh"
+      },
+      "artists": [
+        {
+          "name": "HUTS",
+          "url": "https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139300,
+      "name": "Reality",
+      "url": "https://open.spotify.com/track/5FDLBL5PJKSXdMsMIU7FRw"
+    },
+    {
+      "album": {
+        "name": "Reality",
         "url": "https://open.spotify.com/album/3waoqzcmu9L04AUQa3koe2"
       },
       "artists": [
@@ -5756,7 +5800,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 192608,
       "name": "Realm Of Acid",
       "url": "https://open.spotify.com/track/57KoTEm1naOkOYawTJq0Qx"
@@ -6638,7 +6682,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 170625,
       "name": "Stuck In My Head",
       "url": "https://open.spotify.com/track/4VPQnCLWAshumFZc3iQWKS"

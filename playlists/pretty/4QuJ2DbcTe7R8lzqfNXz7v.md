@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 
 ### [LOVE SONGS & CHILL \| TOP 100 SONGS](https://open.spotify.com/playlist/4QuJ2DbcTe7R8lzqfNXz7v)
 
-> The top 100 best love songs\. Dream away with the best love songs \. ❤️
+> From heartfelt ballads to mellow beats, this playlist is all about love, chill and relaxation.❤️
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 495,068 likes - 100 songs - 6 hr 33 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 495,053 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 | 99 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 |
 | 100 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 |
 
-Snapshot ID: `AAASUBidXdznINXhtR4Hblg6OduCBOLe`
+Snapshot ID: `AAASUXCF4p8MS09WwB9ZmfcJnY2PMrMs`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "boom bap renasce todo dia. Foto: Kamau",
+  "description": "boom bap renasce todo dia. Foto: Murica",
   "name": "Boom Rap",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 90000,
       "name": "#SV 04 - Sain / RJ \u00e9 trincheira",
       "url": "https://open.spotify.com/track/3ZeZ2lv3q4LIA31xgqzsb4"
@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 172666,
       "name": "Ant\u00eddoto (Under Sesh #2)",
       "url": "https://open.spotify.com/track/6kDnG7JhjLinHFfp54MSZg"
@@ -2035,6 +2035,24 @@
     },
     {
       "album": {
+        "name": "Talvez o Problema N\u00e3o Seja Eu",
+        "url": "https://open.spotify.com/album/1x5rINyDxsPajkMSd4iTP4"
+      },
+      "artists": [
+        {
+          "name": "Chiocki",
+          "url": "https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143340,
+      "name": "Bronze",
+      "url": "https://open.spotify.com/track/0lHz3l4rDghESJj6rSGQAn"
+    },
+    {
+      "album": {
         "name": "Buenos Aires",
         "url": "https://open.spotify.com/album/10UeldDAt6YQ5E1KZgLN6k"
       },
@@ -2224,7 +2242,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 249243,
       "name": "Carta Aberta",
       "url": "https://open.spotify.com/track/7bYemOhOuShzPq4BAje0XI"
@@ -3173,6 +3191,32 @@
     },
     {
       "album": {
+        "name": "Dadin",
+        "url": "https://open.spotify.com/album/1MqXXDMEMP5wRZUN2nnaRn"
+      },
+      "artists": [
+        {
+          "name": "Raro",
+          "url": "https://open.spotify.com/artist/5wXsXDVGZodNGVVwSlYsSP"
+        },
+        {
+          "name": "CRIS.",
+          "url": "https://open.spotify.com/artist/2SEAqU27M6X0s1FljqkX99"
+        },
+        {
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242702,
+      "name": "Dadin",
+      "url": "https://open.spotify.com/track/711ui8o5SFRdaykxnSB9CN"
+    },
+    {
+      "album": {
         "name": "Dai a Cesar o Que \u00c9 de Cesar",
         "url": "https://open.spotify.com/album/54gZAkXRSRi7kmetAOBlux"
       },
@@ -3394,7 +3438,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 214111,
       "name": "Desabafo",
       "url": "https://open.spotify.com/track/6GXRVlKXYDCQWQ8GQIpBKM"
@@ -4606,7 +4650,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 227000,
       "name": "Filme",
       "url": "https://open.spotify.com/track/6ANURLQZufu3HpCA6AVQh9"
@@ -6713,6 +6757,46 @@
     },
     {
       "album": {
+        "name": "Marcas e Cicatrizes",
+        "url": "https://open.spotify.com/album/5vl0K6L48dog6SwpKrqrZx"
+      },
+      "artists": [
+        {
+          "name": "Brasileiro",
+          "url": "https://open.spotify.com/artist/5d2tthD9fxDS7G9C4fiDM4"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198387,
+      "name": "Marcas e Cicatrizes",
+      "url": "https://open.spotify.com/track/4myL1zIgBFFTz4V2UliSqW"
+    },
+    {
+      "album": {
+        "name": "Garoto Oceano",
+        "url": "https://open.spotify.com/album/3aIlFTEGEnKQAaTSPHKmA4"
+      },
+      "artists": [
+        {
+          "name": "Caio Ocean",
+          "url": "https://open.spotify.com/artist/4vSK6DNj480ABpDaCwrn4Q"
+        },
+        {
+          "name": "OrdinaryJoe",
+          "url": "https://open.spotify.com/artist/5YXq4N2hgx1FyPkhbRZAxN"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Margem",
+      "url": "https://open.spotify.com/track/5yo7JXGV8wjHbXRrufcz9R"
+    },
+    {
+      "album": {
         "name": "O Pirata e o Jaganata",
         "url": "https://open.spotify.com/album/4GbfEc8SKMhkFuHnDECzLb"
       },
@@ -7350,6 +7434,28 @@
       "duration_ms": 161222,
       "name": "Mudei de canal",
       "url": "https://open.spotify.com/track/6LtyW5r1Yis3zNc3fDZKXx"
+    },
+    {
+      "album": {
+        "name": "Muito Alto",
+        "url": "https://open.spotify.com/album/1grJk6do3fkq1s75HRZZHy"
+      },
+      "artists": [
+        {
+          "name": "Freitera",
+          "url": "https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW"
+        },
+        {
+          "name": "Miliano",
+          "url": "https://open.spotify.com/artist/2Ck6D0bMK3wkXWAQo8IyaJ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261713,
+      "name": "Muito Alto",
+      "url": "https://open.spotify.com/track/41wDc5HjSmlwDcxjLEgK8s"
     },
     {
       "album": {
@@ -9145,6 +9251,28 @@
     },
     {
       "album": {
+        "name": "Pistache",
+        "url": "https://open.spotify.com/album/26dTIq5SV7iuc61mhqq1zr"
+      },
+      "artists": [
+        {
+          "name": "Murica",
+          "url": "https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1"
+        },
+        {
+          "name": "Dario Beats",
+          "url": "https://open.spotify.com/artist/4Dma3KMepzSKhe0LJIzZwr"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142921,
+      "name": "Pistache",
+      "url": "https://open.spotify.com/track/4MWI2cYBs61h8CBYNPSaX3"
+    },
+    {
+      "album": {
         "name": "Nativo",
         "url": "https://open.spotify.com/album/2FGqHsA9CM6A1mPnu53g0k"
       },
@@ -10434,7 +10562,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 216137,
       "name": "Rosa 2",
       "url": "https://open.spotify.com/track/7tLira8Usnv3wXnMAboV8J"
@@ -10910,7 +11038,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 156853,
       "name": "Sem Carona pra Jack",
       "url": "https://open.spotify.com/track/0C8zUJbEmFjUoKaDCjfT6g"
@@ -13328,6 +13456,24 @@
       "duration_ms": 301125,
       "name": "\u00c9 Ela",
       "url": "https://open.spotify.com/track/45UQBcxnYpnBDXgjBBIVam"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Normal Amar",
+        "url": "https://open.spotify.com/album/6NpxhE8BqH69TzJ1tutIqs"
+      },
+      "artists": [
+        {
+          "name": "Sid",
+          "url": "https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204024,
+      "name": "\u00c9 Normal Amar",
+      "url": "https://open.spotify.com/track/4zRAL7q9r8L8jFlAiilM1X"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7DCJxqVk5NA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7DCJxqVk5NA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7DCJxqVk5NA)
 
-### [I Love My HBCU](https://open.spotify.com/playlist/37i9dQZF1DX7DCJxqVk5NA)
+### [I Love My HBCU \(Howard University\)](https://open.spotify.com/playlist/37i9dQZF1DX7DCJxqVk5NA)
 
 > HBCU Anthems! Curated by Howard University's own <a href="spotify:artist:44qqbgojo0P8r68CuRbSN4">Lady London</a>
 

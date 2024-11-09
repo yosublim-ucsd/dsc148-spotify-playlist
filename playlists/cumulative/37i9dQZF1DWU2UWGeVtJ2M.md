@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-344 songs - 19 hr 18 min
+345 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Blinded](https://open.spotify.com/track/7wMAiWj80CLKSleeDbWMOw) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Blinded](https://open.spotify.com/album/0J54MemwRGGvGEsxagUx2v) | 3:32 | 2022-06-06 | 2023-01-07 |
 | [Blue](https://open.spotify.com/track/0DeERXbSE5amnnFx5MSycO) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Blue](https://open.spotify.com/album/2V5sPS4x8LB3H7q3Q00Cjn) | 3:29 | 2023-03-06 | 2023-03-14 |
 | [body](https://open.spotify.com/track/6EFlWDyNzOQZjoo8dIuYGb) | [Dom Guyot](https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0) | [body](https://open.spotify.com/album/2duD8w8XxzQ2NKmeIDe5QN) | 3:17 | 2024-04-22 | 2024-05-26 |
+| [Boyfriend](https://open.spotify.com/track/03i1lou4BzpQ7BnxpBUSCp) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [FITS](https://open.spotify.com/album/2hRJXpOoqZ44PGurfbka6g) | 2:18 | 2024-11-09 |  |
 | [Break Me.](https://open.spotify.com/track/3XmIJ09BsBdqeDPxYcu3m3) | [Mood.](https://open.spotify.com/artist/3C6yGCM7b8QAjs1fTrEguw) | [Break Me.](https://open.spotify.com/album/7uuSPVQe5FKPQruNG9sClB) | 3:05 | 2022-07-11 | 2022-07-17 |
 | [Breakup Season](https://open.spotify.com/track/7xPOV2FPzi7zaYBZnQytOW) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Breakup Season](https://open.spotify.com/album/0WsZKzfU4cICg8uDILDqIY) | 3:12 | 2022-09-26 | 2024-04-19 |
 | [Breakup Season \(feat\. Samm Henshaw\)](https://open.spotify.com/track/5b0AY8ZEWEzePJolcjsBWA) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Breakup Season \(feat\. Samm Henshaw\)](https://open.spotify.com/album/2F1NcprbTMK4hoSHwfi1Dz) | 3:12 | 2022-06-06 | 2022-09-20 |
@@ -66,7 +67,7 @@
 | [Chill](https://open.spotify.com/track/6o0PuBbbFNdnkKVJEQ3G6Y) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Chill](https://open.spotify.com/album/6eDc1WXXQhsyvRgb3DduaR) | 4:03 | 2022-06-06 | 2024-09-17 |
 | [Chilly](https://open.spotify.com/track/2WrZX7qILvKZkw0tldzkmP) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Chilly](https://open.spotify.com/album/0uxUV7HJLD9xFD0Zh0ZAhA) | 3:50 | 2024-01-22 | 2024-04-19 |
 | [Chilly](https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Chilly](https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni) | 3:50 | 2022-07-25 | 2024-01-24 |
-| [Cinema](https://open.spotify.com/track/6ejBx2l9eJr5n1V7t0WpCC) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Cinema](https://open.spotify.com/album/0T57uRN9WnBm3J5V0qA4M9) | 2:59 | 2023-12-04 |  |
+| [Cinema](https://open.spotify.com/track/6ejBx2l9eJr5n1V7t0WpCC) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Cinema](https://open.spotify.com/album/0T57uRN9WnBm3J5V0qA4M9) | 2:59 | 2023-12-04 | 2024-11-09 |
 | [circle of feelings](https://open.spotify.com/track/0Zr57tyrXXfbnjejbNWwfg) | [g y l s](https://open.spotify.com/artist/5P9ZfGxqKllKQuq3xBfWSk) | [circle of feelings](https://open.spotify.com/album/3PvBRlnbO6mZSD4WwsV4c8) | 3:03 | 2022-06-06 | 2022-07-26 |
 | [Close To Me](https://open.spotify.com/track/4uqrNjosNZKTxtsEUpjkIm) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Close To Me](https://open.spotify.com/album/5OOea733uhyneBGd5UKDRS) | 3:29 | 2024-03-22 | 2024-04-01 |
 | [Closer to Hell](https://open.spotify.com/track/4eFQHYCWctyJr4dwymVbAI) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Closer to Hell](https://open.spotify.com/album/6sq7O63sKs2NPbK3bPqZJg) | 2:45 | 2024-06-24 | 2024-07-23 |

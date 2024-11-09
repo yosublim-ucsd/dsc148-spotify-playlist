@@ -2,9 +2,9 @@
 
 ### [Pop Latin Hits](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
-> The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: GALE &amp; LAGOS
+> The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Arthur Hanlon &amp; Ana Barbara
 
-844 songs - 1 day 21 hr 4 min
+845 songs - 1 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Déjame Ser](https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Déjame Ser](https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz) | 3:08 | 2023-02-10 | 2023-06-01 |
 | [Déjame Surfear](https://open.spotify.com/track/4j0lL2pGuThsRY4NQZiryv) | [Oliva](https://open.spotify.com/artist/1gBHZ6j8W5Xs3t9gmvedJw), [Flavor Colectivo](https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl) | [Déjame Surfear](https://open.spotify.com/album/3s0Puyyof5yHGKvo8BkVHz) | 2:44 | 2023-05-19 | 2023-06-01 |
 | [E Agora](https://open.spotify.com/track/6b83CJAjIXSk2cUjabJBlm) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Raizes](https://open.spotify.com/album/25DPDXZ8q1GtW8WUeX6w9I) | 3:05 | 2023-04-19 | 2023-06-01 |
+| [EGOÍSTA](https://open.spotify.com/track/5LMfmkEjc926jnu45GLJj4) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [EGOÍSTA](https://open.spotify.com/album/1bIEDgIs61l1UPgKkD0l1R) | 2:59 | 2024-11-08 |  |
 | [El Bobo](https://open.spotify.com/track/5E0kv8h5M71Nk1z52QzYVc) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [El Bobo](https://open.spotify.com/album/4tps9duBVvnbgAkWTohF8O) | 4:08 | 2022-02-02 | 2023-05-26 |
 | [El carro Ford](https://open.spotify.com/track/3xyz9QMAjvWC0muckkitYp) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Escalona Nunca Se Había Grabado Así](https://open.spotify.com/album/7kNLI2jHSLoCzMdvs1ZQhz) | 2:59 | 2023-04-24 | 2023-06-01 |
 | [El Chamaquito](https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [El Chamaquito](https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp) | 2:19 | 2022-12-16 | 2023-06-01 |

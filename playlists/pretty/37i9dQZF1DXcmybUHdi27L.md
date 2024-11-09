@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcmybUHdi27L.md) - [plain]
 
 > The soundtrack to your summer featuring the iconic City Splash 2024 line up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,180 likes - 51 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,181 likes - 51 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcmybUHdi27L.md) - [plain]
 | 10 | [Monalisa](https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Monalisa](https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll) | 3:32 |
 | 11 | [Stay So](https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Parts Of The Puzzle](https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx) | 3:40 |
 | 12 | [No Love Dubplate](https://open.spotify.com/track/4gYzTrDZdiPPu6gWVnFOE2) | [Queen Omega](https://open.spotify.com/artist/0NZQTozgPtlt5iN3hmANhy), [Little Lion Sound](https://open.spotify.com/artist/5BEAZRLV2yIHmrh41l3dKj) | [No Love Dubplate](https://open.spotify.com/album/32zw90ZSl2h1GvTqZqGz8E) | 2:35 |
-| 13 | [That Day Will Come](https://open.spotify.com/track/6chKRJFe2qXIFHZKBDWqtw) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Universal Message Vol\. 3](https://open.spotify.com/album/24Be7w6AnOelK8QRfvVMPX) | 4:03 |
+| 13 | [That Day Will Come](https://open.spotify.com/track/6chKRJFe2qXIFHZKBDWqtw) | [Capleton](https://open.spotify.com/artist/51NQpT3pOQtu5jHhXyUFlh) | [Universal Message Vol\. 3](https://open.spotify.com/album/24Be7w6AnOelK8QRfvVMPX) | 4:03 |
 | 14 | [Girls Dem Sugar](https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Art And Life](https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF) | 4:17 |
 | 15 | [Bad Man Forward](https://open.spotify.com/track/1KW6PVabkLbthK4y0sPX5a) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Bad Man Forward, Bad Man Pull Up](https://open.spotify.com/album/4pWeMGhrk1bvKE3Od3jePT) | 3:15 |
 | 16 | [Original Nuttah 25](https://open.spotify.com/track/55K24vPjLgAX8yLAq8fErj) | [Uk Apache](https://open.spotify.com/artist/0YE17nrGKTk37bcKpKVUvi), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j) | [Original Nuttah 25](https://open.spotify.com/album/3CDghMhp5uTwVQVZ9vBVm5) | 3:51 |

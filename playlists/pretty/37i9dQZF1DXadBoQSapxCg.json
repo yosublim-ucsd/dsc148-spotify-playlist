@@ -919,22 +919,6 @@
     {
       "added_at": "2024-10-11 21:13:28",
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/3Bv66xBV6gxCjKFGl32aOJ"
-      },
-      "artists": [
-        {
-          "name": "Bruna Griphao",
-          "url": "https://open.spotify.com/artist/3zBh63FeLXKl7X4M7Axqjo"
-        }
-      ],
-      "duration_ms": 140596,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/4Diwn4chKkEFT1c7XifxSl"
-    },
-    {
-      "added_at": "2024-10-11 21:13:28",
-      "album": {
         "name": "Dona do Rol\u00ea",
         "url": "https://open.spotify.com/album/4RyMPAOzowymsswvzetDwU"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 160444,
       "name": "Dona do Rol\u00ea",
       "url": "https://open.spotify.com/track/5PIppheInDGkAo5W68w1ow"
+    },
+    {
+      "added_at": "2024-10-11 21:13:28",
+      "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/3Bv66xBV6gxCjKFGl32aOJ"
+      },
+      "artists": [
+        {
+          "name": "Bruna Griphao",
+          "url": "https://open.spotify.com/artist/3zBh63FeLXKl7X4M7Axqjo"
+        }
+      ],
+      "duration_ms": 140596,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/4Diwn4chKkEFT1c7XifxSl"
     },
     {
       "added_at": "2024-10-11 21:13:28",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-10-11 21:13:28",
       "album": {
-        "name": "1 em 100",
-        "url": "https://open.spotify.com/album/0KoCTcxxhSOwdrqD6j5hnq"
-      },
-      "artists": [
-        {
-          "name": "Cammie",
-          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
-        }
-      ],
-      "duration_ms": 189071,
-      "name": "1 em 100",
-      "url": "https://open.spotify.com/track/78rRWqZIwDD7f9yjsEHpD1"
-    },
-    {
-      "added_at": "2024-10-11 21:13:28",
-      "album": {
         "name": "Paga pra Ver",
         "url": "https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 132571,
       "name": "Paga pra Ver",
       "url": "https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD"
+    },
+    {
+      "added_at": "2024-10-11 21:13:28",
+      "album": {
+        "name": "1 em 100",
+        "url": "https://open.spotify.com/album/0KoCTcxxhSOwdrqD6j5hnq"
+      },
+      "artists": [
+        {
+          "name": "Cammie",
+          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
+        }
+      ],
+      "duration_ms": 189071,
+      "name": "1 em 100",
+      "url": "https://open.spotify.com/track/78rRWqZIwDD7f9yjsEHpD1"
     },
     {
       "added_at": "2024-10-11 21:13:28",
@@ -1183,18 +1183,22 @@
     {
       "added_at": "2024-10-11 21:13:28",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/18WNVbLIVw09redTOkfpO0"
+        "name": "S\u00f3 Mais Uma",
+        "url": "https://open.spotify.com/album/4U6UA1n5SnOH8xE5YiViEF"
       },
       "artists": [
         {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+          "name": "Davi Sabbag",
+          "url": "https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8"
+        },
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
         }
       ],
-      "duration_ms": 193191,
-      "name": "Blues",
-      "url": "https://open.spotify.com/track/2ruShEBiopKBFINEu2Vo1C"
+      "duration_ms": 179031,
+      "name": "S\u00f3 Mais Uma",
+      "url": "https://open.spotify.com/track/0NtDg9vRn4ksaVKBz6qbma"
     }
   ],
   "unique_name": "Rala e Rola",

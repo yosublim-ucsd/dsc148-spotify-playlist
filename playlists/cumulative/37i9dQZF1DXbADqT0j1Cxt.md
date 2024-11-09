@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-677 songs - 20 hr 36 min
+681 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [From Me to You](https://open.spotify.com/track/3twIESjUSaC1Y1fHJ32XBd) | [Isaac Trager](https://open.spotify.com/artist/06Ae73UENmF3flHQXpumU8) | [From Me to You](https://open.spotify.com/album/5A668ds1ZyzDbia8J2WllT) | 2:01 | 2024-06-07 |  |
 | [Fun Adventure](https://open.spotify.com/track/3LwAe77XnL0B49uC6jDVTh) | [Daisy Day](https://open.spotify.com/artist/2zqel9OQCR3eMNSOXMj0Mb) | [Fun Adventure](https://open.spotify.com/album/4r7cP73njueNrU9a95TVhT) | 2:26 | 2023-12-08 |  |
 | [Fuzzy Blanket](https://open.spotify.com/track/2OfEkQFc3cpm3t3a4ztUrj) | [Victoria Kane](https://open.spotify.com/artist/5PiuZN8Y36VoBqEvLuqiuQ) | [Fuzzy Blanket](https://open.spotify.com/album/7bCYGWUWkA1BT8C1m2UH7F) | 1:32 | 2023-09-22 |  |
-| [Før du falder i søvn](https://open.spotify.com/track/0tZHT47w9bjBgTahJRk71l) | [Demi Rasmussen](https://open.spotify.com/artist/6bYwWlhCzdXNlqFmwyZOTD) | [Før du falder i søvn](https://open.spotify.com/album/3ttAkCUdxoeVpNl5bWYKuL) | 1:27 | 2021-10-07 |  |
+| [Før du falder i søvn](https://open.spotify.com/track/0tZHT47w9bjBgTahJRk71l) | [Demi Rasmussen](https://open.spotify.com/artist/6bYwWlhCzdXNlqFmwyZOTD) | [Før du falder i søvn](https://open.spotify.com/album/3ttAkCUdxoeVpNl5bWYKuL) | 1:27 | 2021-10-07 | 2024-11-09 |
 | [Gabby Goldfish](https://open.spotify.com/track/7DBZniWi3JF3iAHY7AmqKU) | [Haleema Andrews](https://open.spotify.com/artist/2NfeYG57SY7w0whb8XUXcm) | [Gabby Goldfish](https://open.spotify.com/album/1GhnGptvUiNQoefVrfxvW0) | 1:34 | 2022-01-21 |  |
 | [Garden Roses](https://open.spotify.com/track/1Hk5HsgILlZxv8hTDHjAFZ) | [Eden Parks](https://open.spotify.com/artist/4s4Bb2TBJLW89tZOV5pz8G) | [Songs from the valley](https://open.spotify.com/album/0WIBmu22RxfRMvqASl8MyA) | 2:29 | 2021-10-07 | 2022-12-24 |
 | [Gentle Dreams](https://open.spotify.com/track/1kETBJfZROZUl3nngNRVRu) | [Mary Monroe](https://open.spotify.com/artist/34r7GYfCBgI8AHhKuazmtc) | [Gentle Dreams](https://open.spotify.com/album/4f3WGJ9z4RtE9S8015k7pq) | 2:18 | 2021-10-07 | 2024-04-19 |
@@ -250,6 +250,7 @@
 | [Holding Hands](https://open.spotify.com/track/6hzlEcgzqLW9UbLsUZMTVP) | [Junie Graziano](https://open.spotify.com/artist/3X2b9Hkj2Rk6gnPq8Lv9QT) | [Holding Hands](https://open.spotify.com/album/3sMHlbyicRDFi4n57C0HTc) | 1:39 | 2023-02-10 |  |
 | [Home On The Range](https://open.spotify.com/track/6bYGIgGhnbb6yEppV4ztWE) | [Danny Tanners](https://open.spotify.com/artist/6FVDjERbUK3UMQuuKPAWwL) | [Home On The Range](https://open.spotify.com/album/54xe53ksw9Y9Us3wBLM4Aw) | 3:49 | 2021-10-07 | 2022-07-01 |
 | [Home Sweet Home](https://open.spotify.com/track/6nOJUgNCKLCbd29mc2ONrh) | [Joelle O'Connor](https://open.spotify.com/artist/7oyDtkckEvUfpxwot9O3xn) | [Home Sweet Home](https://open.spotify.com/album/5ZQpQWyS5DFKvLBGCxwEFy) | 1:53 | 2021-10-07 | 2024-03-29 |
+| [Home Sweet Home](https://open.spotify.com/track/7zi4cejvZlNOJ4L3zShTpk) | [Ogden Enqvist](https://open.spotify.com/artist/3pml5NZSx75ZmuwnWW3JXO) | [Home Sweet Home](https://open.spotify.com/album/7uueMgRzpjlLUdzcLqWoLF) | 1:30 | 2024-11-08 |  |
 | [Hot Cross Buns](https://open.spotify.com/track/5EvSBms5sdJTxdyFMRGscp) | [Serge Charlesbois](https://open.spotify.com/artist/58V4mpAIaMxa7yoCHnO24S) | [Hot Cross Buns](https://open.spotify.com/album/6JPA3A5DMco7CTzky0JXtO) | 1:04 | 2021-10-07 | 2023-02-10 |
 | [Hot Crossed Buns](https://open.spotify.com/track/4YRARpkUow9hauMEKnCtPF) | [Isabella Williamson](https://open.spotify.com/artist/1LUTewDZjAIhrRTDYaQTmt) | [Hot Crossed Buns](https://open.spotify.com/album/7myac7QFp8VcJ4xDt7pdE6) | 1:29 | 2021-10-07 | 2023-01-13 |
 | [How Much Is That Doggie In The Window?](https://open.spotify.com/track/3r2L8VNe1f2zrob401d6K1) | [Tom Abott](https://open.spotify.com/artist/4Mxad1PBRHlkgCRhpKhTbf) | [How Much Is That Doggie In The Window?](https://open.spotify.com/album/5Lb6JFr7virY0Pp3nROzbo) | 2:08 | 2024-03-01 |  |
@@ -368,6 +369,7 @@
 | [Mitt lilla barn](https://open.spotify.com/track/0jN75qBVKAWZqhxOXKyQB5) | [Jody Riley](https://open.spotify.com/artist/36ySKo3dExC8VT1j1quEr7) | [Mitt lilla barn](https://open.spotify.com/album/3J1K85VQ4M2qKZpmBxwxuY) | 1:19 | 2023-02-10 |  |
 | [Molly Magnolia](https://open.spotify.com/track/5ZGhoByLt6UbmZkX34kGEK) | [Dana McGowen](https://open.spotify.com/artist/4VsnumFuiW1YdUCHgENYUB) | [Molly Magnolia](https://open.spotify.com/album/2mZp0lrSzb6sdTKgRXs9fm) | 1:42 | 2021-10-07 | 2024-04-19 |
 | [Mommy Turn the Daylight On](https://open.spotify.com/track/4BnTacOCGVq0PLgiIR4O2C) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Waltz for My Darling](https://open.spotify.com/album/5GwKf7p20Cqoj93J7OXSHw) | 1:36 | 2022-10-28 |  |
+| [Moonbeam Melodies](https://open.spotify.com/track/244rZYVyOy9bVUbfPZ3fWE) | [Oscar Z](https://open.spotify.com/artist/1w43xgEFebGecoNDH6lTkt) | [Moonbeam Melodies](https://open.spotify.com/album/0ZXnmVyXbG5HVkQMXUe0G8) | 1:26 | 2024-11-08 |  |
 | [Moonflight](https://open.spotify.com/track/3s9zIXife8Pdx8SjMg07Ju) | [Georgia Faingold](https://open.spotify.com/artist/2OynITaK8BC9oXr5Q7vd7V) | [Moonflight](https://open.spotify.com/album/1vjAiGVrTiGoYUNbhBMoi2) | 1:40 | 2023-08-10 |  |
 | [Moonlight Song](https://open.spotify.com/track/1Yc2Y64xHLpc6tQ1UFphI1) | [Maria Mangasson](https://open.spotify.com/artist/3Da8Sq3XlYqKsjuXfzImiJ) | [Moonlight Song](https://open.spotify.com/album/3IxrV08Irf96q0d7FL9W7d) | 1:46 | 2023-08-24 |  |
 | [Moonlit Cradle](https://open.spotify.com/track/7JJ8VKdFWMD14OYxishmdi) | [Arlo Fry](https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs) | [Rainbow Sky](https://open.spotify.com/album/3e9Nts6SRxn1htmBr06L3n) | 1:42 | 2023-03-17 |  |
@@ -557,6 +559,7 @@
 | [Tell Me Tomorrow](https://open.spotify.com/track/0uSaKxMuMKIxksSDvNTiY9) | [Ruben Lemay](https://open.spotify.com/artist/3kVgDlYpszYo5w9bM3tzmk) | [Tell Me Tomorrow](https://open.spotify.com/album/7tKk2NxPOHBQTcLdV3jTUu) | 2:03 | 2022-10-07 | 2023-04-09 |
 | [Ten Green Bottles](https://open.spotify.com/track/6Rkc5D8xSpK7D6wHM3cAfv) | [Jouni Holkeri](https://open.spotify.com/artist/4ibMmdzDdJ22R2ERJTXSOL) | [Ten Green Bottles](https://open.spotify.com/album/1gQPqDSW3aYwXmDxdZhGkR) | 1:33 | 2021-10-07 | 2022-10-29 |
 | [Ten in the bed](https://open.spotify.com/track/3Y2LAlMBk0PFpexfYNduuE) | [Sophie Eichmann](https://open.spotify.com/artist/2kzsfr4PAIwyoSPrBq9Xdx) | [The farmer in the dell](https://open.spotify.com/album/6odz7oeiLNgklTnDTx0psg) | 1:15 | 2021-10-07 | 2022-04-20 |
+| [Tender Love](https://open.spotify.com/track/1Sj9j66afjsxGjB2sshX0f) | [Greg Lattimore](https://open.spotify.com/artist/2qmcE76xWoCFGJy7fzPcx6) | [Tender Love](https://open.spotify.com/album/1dzNzILrstf1UJv9DEXDoA) | 2:12 | 2024-11-08 |  |
 | [Tendresse](https://open.spotify.com/track/3svNTKcNl6YVGsVh0W4qoQ) | [Nils Miv](https://open.spotify.com/artist/1rmQBX2EmH7FRjyEK6oHMs) | [Tendresse](https://open.spotify.com/album/4BmxOWPHCPquVK6ZlTtKQM) | 2:53 | 2024-09-30 |  |
 | [Ternura](https://open.spotify.com/track/0HWpEuoUq3ZwnDum8Xi0ng) | [Line Tromse](https://open.spotify.com/artist/6Jo2zwheonzrtoiXhTUTcI) | [Ternura](https://open.spotify.com/album/4gZmQmgQuFek9w9ujlFuJd) | 2:38 | 2024-09-30 |  |
 | [The Apple Of My Eye](https://open.spotify.com/track/7AnxXHYrL5oWZLMKnkY8oc) | [Kyrene Hartley](https://open.spotify.com/artist/7pcp9DUQWx7VFXfH3sq7gZ) | [The Apple Of My Eye](https://open.spotify.com/album/4mygNYRtvltYNghngBWx4q) | 1:55 | 2022-04-19 |  |
@@ -587,6 +590,7 @@
 | [The Rabbit and The Sparrow](https://open.spotify.com/track/6nsgW7nE2R8b0XkzAgWf4i) | [Jenny Sarah](https://open.spotify.com/artist/42KXtMN44AvCxbW3NFxJHl) | [The Rabbit and The Sparrow](https://open.spotify.com/album/3GbHYS7cr3dGKOBf4gvTlc) | 1:51 | 2022-08-10 | 2023-06-09 |
 | [The Rooster](https://open.spotify.com/track/7JiAg8jIQkAzSy0lEap7Zg) | [Lanny Peck](https://open.spotify.com/artist/02tsxaTHlK3q64g9iSXaSq) | [The Rooster](https://open.spotify.com/album/4h9R9eY5y1mcLmtmWYoyLb) | 1:26 | 2021-10-07 | 2024-05-24 |
 | [The Sky is Smiling](https://open.spotify.com/track/1ufUQRuEPV4m0c4eWeKsOc) | [Norton Lamb](https://open.spotify.com/artist/6utcrNkoGuFBgRTGffKOSr) | [The Sky is Smiling](https://open.spotify.com/album/1zdFJYcJDloOSwS6jFFude) | 1:16 | 2021-10-07 |  |
+| [The Sleepy Star](https://open.spotify.com/track/4IpWKogzTDB2jrZCToKJrk) | [Jordan Mitchell\-Haines](https://open.spotify.com/artist/5xyZwXBV8D9F63Kiocws8R) | [The Sleepy Star](https://open.spotify.com/album/2mhuAMHFtV3MPuQr2E19xz) | 1:51 | 2024-11-08 |  |
 | [The Sunset Song](https://open.spotify.com/track/5coSsftpWxzGkTmyrE7K4P) | [Månljus](https://open.spotify.com/artist/4pqWBYMZqqD9zWiqTKrWTk) | [The Sunset Song](https://open.spotify.com/album/6lbTcfCTJQrui8k5TJZDh4) | 1:49 | 2023-02-24 |  |
 | [The Sweetest Dream](https://open.spotify.com/track/67Vd6Jkvz7xzAfqqjw1Fvy) | [Mirela Rubio](https://open.spotify.com/artist/5IQ0vabudI7APVrHXfEsCA) | [The Sweetest Dream](https://open.spotify.com/album/2HW02tpcHyD9OoNoG3Up1t) | 1:57 | 2021-10-07 | 2024-05-24 |
 | [The Trolley and the Tree](https://open.spotify.com/track/12YCRrewMeC6B6NuRAFk2a) | [Kim Akvileja](https://open.spotify.com/artist/7hSks32NbjUq855ksjMlMg) | [The Trolley and the Tree](https://open.spotify.com/album/5jozRmoOMXeJHN2t18EZ8E) | 1:59 | 2024-02-09 |  |

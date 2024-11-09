@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! BNLX ambassador: <a href="spotify:artist:4hj9dun9KpnBukLv7Hgfkr">Rikki \(RONDÉ\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,747 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,751 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 58 | [Millennial Sadness](https://open.spotify.com/track/3wUaVyxvIaYOH9hz7ctwxD) | [Lov3less](https://open.spotify.com/artist/35uSH8tDlmVMM4Z4RpcxY8) | [Millennial Sadness](https://open.spotify.com/album/2UVVudHDFhF6NbjdB4jzNy) | 3:28 |
 | 59 | [yk, i'm good](https://open.spotify.com/track/7dR6jPtEZHqmDGa8jqznUY) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp) | [yk, i'm good](https://open.spotify.com/album/3zRyy8Y3Dp2HSVpxm4Xklt) | 2:49 |
 | 60 | [a craving](https://open.spotify.com/track/2vKehcuTw3lNaP2Q2wvNWr) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [a craving](https://open.spotify.com/album/4QNr6M9uj3a15zz8RigvjB) | 3:14 |
-| 61 | [HIGHER](https://open.spotify.com/track/1PqvFkb8ui6dkMFXUky8Sv) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw), [Pforreal](https://open.spotify.com/artist/2K4wyEAMW9SCWcvDILQTHc) | [HIGHER](https://open.spotify.com/album/1mAwkzV51N4Z9CbaIncD5T) | 3:01 |
+| 61 | [HIGHER](https://open.spotify.com/track/1PqvFkb8ui6dkMFXUky8Sv) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw) | [HIGHER](https://open.spotify.com/album/1mAwkzV51N4Z9CbaIncD5T) | 3:01 |
 | 62 | [Happier Song](https://open.spotify.com/track/176QZKsUDHCf2Vp8wUZeI9) | [Elif Dame](https://open.spotify.com/artist/0SxhCRUBtbMq1EdVV257PO), [ATLouis](https://open.spotify.com/artist/2y2lLr1nFfcyDCSwNIZtWa) | [Happier Song](https://open.spotify.com/album/0Xvx3N7EyvkQCdo41XVk7w) | 2:24 |
 | 63 | [Rainbow In The Sky](https://open.spotify.com/track/6QyflfLdFxfQ3EKNwpGuj7) | [Mara Julia](https://open.spotify.com/artist/3okS5Y55TTdCWEWyH07GZJ) | [Rainbow In The Sky](https://open.spotify.com/album/3cbP4uwLi5HxPWjRQv4UZk) | 2:21 |
 | 64 | [Spoor 13](https://open.spotify.com/track/6gojWTD4RNciXahzu8zJ6c) | [Laura Heijgen](https://open.spotify.com/artist/6ByAkaup3Ff0fo6kUjXmAA) | [Spoor 13](https://open.spotify.com/album/18cvUPhwiaaoA8cOYiVHpK) | 2:31 |

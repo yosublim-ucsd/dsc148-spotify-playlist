@@ -4,12 +4,12 @@
 
 > Hip\-Hop and Happy Holidays!
 
-81 songs - 4 hr 34 min
+82 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#1HappyHoliday](https://open.spotify.com/track/5pUHIx5GuvTyM5u9dmZ4DZ) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [\#1HappyHoliday](https://open.spotify.com/album/5GgEdbWST6YXBgwFz9O2RQ) | 3:00 | 2019-12-20 |  |
-| [12 Days Of Bhristmas \(with OMB Bloodbath & WESTSIDE BOOGIE\)](https://open.spotify.com/track/6rRzIoA5r8yK8BgFvXWlE2) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [OMB Bloodbath](https://open.spotify.com/artist/791JV2CttYVOeGa9F6Kdu3), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Home For The Holidays](https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4) | 2:13 | 2022-11-29 |  |
+| [12 Days Of Bhristmas \(with OMB Bloodbath & WESTSIDE BOOGIE\)](https://open.spotify.com/track/6rRzIoA5r8yK8BgFvXWlE2) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [OMB Bloodbath](https://open.spotify.com/artist/791JV2CttYVOeGa9F6Kdu3), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Home For The Holidays](https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4) | 2:13 | 2022-11-29 | 2024-11-09 |
 | [12 Days of Christmas](https://open.spotify.com/track/6bE3npRCJW3wmy4NV44ZS2) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [East Atlanta Santa 3](https://open.spotify.com/album/41Mzki3Yox73btDc51evLi) | 1:52 | 2019-12-20 |  |
 | [3 Kings](https://open.spotify.com/track/2awA4tHY7SFlJZrvgWfdSP) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [A Very ROC Christmas](https://open.spotify.com/album/55mrxLIpf5AzhIEN43MSCh) | 2:55 | 2019-12-20 |  |
 | [A Christmas Fucking Miracle](https://open.spotify.com/track/54DmhgFHvYxqBEnOwklDml) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Run the Jewels](https://open.spotify.com/album/7BUlAwJBzKyllRuDTKV8Ae) | 4:21 | 2019-12-20 | 2022-07-29 |
@@ -53,6 +53,7 @@
 | [Ho Ho Ho \- Dirty Christmas](https://open.spotify.com/track/4n3HlzRZxEwxqHXADt758Y) | [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [Ho Ho Ho \(Dirty Christmas\)](https://open.spotify.com/album/7A35Sr7YgnUhANiQ6QYhUq) | 3:14 | 2019-12-20 |  |
 | [Hustlaz Holiday](https://open.spotify.com/track/0GWLNSnKmzKcmTL2AGqeCb) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Church In These Streets](https://open.spotify.com/album/5RHakS5UXhhnyT96maP8ic) | 3:27 | 2019-12-20 |  |
 | [I Am the Grinch \(feat\. Fletcher Jones\)](https://open.spotify.com/track/5TVQdlY5H99BSAciKixBSt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Fletcher Jones](https://open.spotify.com/artist/1p0uWG26qtUg2nNxIIk10x) | [Dr\. Seuss' The Grinch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u40K47aUMjeNrPGmQrodQ) | 2:37 | 2019-12-20 |  |
+| [I Want You This Christmas](https://open.spotify.com/track/1JHsB2E0FWEEBVdFV2W6w8) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Dear Big Santa](https://open.spotify.com/album/2HaS5g0VjsXf93yy7TNf6c) | 2:55 | 2024-11-08 |  |
 | [I Wish](https://open.spotify.com/track/0xm4ONa9AnzwVRAO1gIu4v) | [Tha Dogg Pound](https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT) | [Christmas On Death Row](https://open.spotify.com/album/2t6GxVRo0HhWuMFm0XWvL2) | 4:56 | 2019-12-20 | 2022-11-30 |
 | [Intro](https://open.spotify.com/track/19yDsmC7MexMWIRjXlsuF4) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [A Tribute To Bad Santa Starring Mike Epps](https://open.spotify.com/album/4fitTiYqga0BtCinAsfmtf) | 3:13 | 2019-12-20 |  |
 | [Intro](https://open.spotify.com/track/0c7J4CTS8FzWWMgWkGKTAe) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Skull Gang](https://open.spotify.com/artist/6R4blCfeFM693nL3QeCeAH) | [Jim Jones Presents: Bad Santa \- Starring Mike Epps](https://open.spotify.com/album/73AXIjZmQDJ29hZdt9y28Q) | 3:13 | 2022-09-26 | 2023-12-23 |

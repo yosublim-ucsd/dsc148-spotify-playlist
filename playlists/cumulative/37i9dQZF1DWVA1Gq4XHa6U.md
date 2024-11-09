@@ -2,9 +2,9 @@
 
 ### [Gold School](https://open.spotify.com/playlist/37i9dQZF1DWVA1Gq4XHa6U)
 
-> Taking it way back! Cover: Mos Def
+> Taking it way back! Cover: Lil Wayne
 
-308 songs - 22 hr 16 min
+309 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Bound 2](https://open.spotify.com/track/3sNVsP50132BTNlImLx70i) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:49 | 2023-06-02 | 2023-07-29 |
 | [Breakadawn](https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Buhloone Mindstate](https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd) | 4:15 | 2023-09-15 | 2024-03-02 |
 | [Breathe](https://open.spotify.com/track/7fuoqve1SOEBmhc2PoQTF0) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Real Talk \(123\)](https://open.spotify.com/album/0852dsZQyLOGmvotlvOvoA) | 4:28 | 2022-03-30 | 2022-05-11 |
-| [Bring It Back](https://open.spotify.com/track/3Eu9XFVhLlcF0DpVYzONFk) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Mannie Fresh](https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1) | [Tha Carter](https://open.spotify.com/album/5POcKy926GgzFHZpGptJac) | 4:21 | 2024-05-31 |  |
+| [Bring It Back](https://open.spotify.com/track/3Eu9XFVhLlcF0DpVYzONFk) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Mannie Fresh](https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1) | [Tha Carter](https://open.spotify.com/album/5POcKy926GgzFHZpGptJac) | 4:21 | 2024-05-31 | 2024-11-09 |
 | [Brooklyn's Finest](https://open.spotify.com/track/68WCiBa9dfDU5PBhTl6MYe) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Reasonable Doubt](https://open.spotify.com/album/3YPK0bNOuayhmSrs0sIIBR) | 4:35 | 2021-06-28 | 2022-02-12 |
 | [Bucktown](https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6) | [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Dah Shinin'](https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM) | 3:57 | 2022-09-29 | 2023-02-02 |
 | [C U When U Get There](https://open.spotify.com/track/6uWez0py1zc17F7hjp7jIt) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [40 Thevz](https://open.spotify.com/artist/20GRegBvsJnKjeK587myg9) | [My Soul](https://open.spotify.com/album/2JHP97iEYtvOar1lUQOcQe) | 5:11 | 2022-10-04 | 2023-01-19 |
@@ -269,6 +269,7 @@
 | [Swimming Pools \(Drank\) \- Extended Version](https://open.spotify.com/track/5ujh1I7NZH5agbwf7Hp8Hc) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:13 | 2022-10-20 | 2023-02-02 |
 | [Takeover](https://open.spotify.com/track/135lkyQRwFlWfmHjJTxtld) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint \(Explicit Version\)](https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl) | 5:13 | 2024-04-25 | 2024-05-04 |
 | [Ten Crack Commandments \- 2014 Remaster](https://open.spotify.com/track/1Z7C8ClE8UEaH70jCCeJH2) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 3:24 | 2021-03-05 | 2022-02-12 |
+| [Tha Block Is Hot](https://open.spotify.com/track/6wCbHb0QEEdka3ymfImn4l) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Block Is Hot](https://open.spotify.com/album/75s3OxagI6DX8OKLKymPLN) | 4:12 | 2024-11-08 |  |
 | [That Girl](https://open.spotify.com/track/1Vl4ESWb6U7gKSPfK4qenq) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 4:01 | 2022-02-11 | 2022-03-14 |
 | [The Choice Is Yours \(Revisited\)](https://open.spotify.com/track/4k9EkhkFZY8Bk41Qi0Ob7P) | [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf) | [A Wolf In Sheep's Clothing](https://open.spotify.com/album/4tIQR0m3PPwybQ32P256IO) | 4:03 | 2023-04-28 | 2023-07-29 |
 | [The Jump Off](https://open.spotify.com/track/6UZS3KgNc0NF13bbtQTzD6) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [La Bella Mafia](https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE) | 3:54 | 2023-03-10 | 2024-01-13 |

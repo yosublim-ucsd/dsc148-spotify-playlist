@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: HVDES \\m/
 
-463 songs - 1 day 2 hr 11 min
+464 songs - 1 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Blame It On Me](https://open.spotify.com/track/4v7GciNsOxRYSgkEsaFjn7) | [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Blame It On Me](https://open.spotify.com/album/7iJ9URmWTk2Yy6DG941ZY5) | 2:53 | 2022-09-02 | 2022-10-16 |
 | [Blocked Up](https://open.spotify.com/track/0NEvAF25ReDYyBfh2NwZ7V) | [Lit Lords](https://open.spotify.com/artist/3epW3XPRivDLEECq50MXCi) | [Blocked Up](https://open.spotify.com/album/3MnwJe5dFSJ1aGKthkUgsv) | 2:31 | 2024-05-10 |  |
 | [Blood // Water](https://open.spotify.com/track/7clyJIrLkEbXUDwj1tC9zz) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:34 | 2021-12-10 | 2022-02-26 |
-| [Bloodsucker](https://open.spotify.com/track/3jI15dUbd7QdjffANtYetx) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Bloodsucker](https://open.spotify.com/album/44pb7yDe2yfXP4G89ZBmz3) | 3:34 | 2024-09-20 |  |
+| [Bloodsucker](https://open.spotify.com/track/3jI15dUbd7QdjffANtYetx) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Bloodsucker](https://open.spotify.com/album/44pb7yDe2yfXP4G89ZBmz3) | 3:34 | 2024-09-20 | 2024-11-09 |
 | [Blue Monday \- Synth Riders Version](https://open.spotify.com/track/0wR44usvM0qPk1TiLkjovX) | [Zardonic](https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n), [REEBZ](https://open.spotify.com/artist/2cUSgme8otbeKGRDl6xm1t) | [Superstars](https://open.spotify.com/album/0d0hlFmmPN2ez86f5jgzBJ) | 4:29 | 2023-07-21 | 2023-10-06 |
 | [BLVCK](https://open.spotify.com/track/41klTnnqKeBmhwqgbIuTOA) | [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N), [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU) | [BLVCK](https://open.spotify.com/album/2Av1p0DEnZTPnteLzJ2YKF) | 2:53 | 2021-12-10 | 2022-06-25 |
 | [Bodies](https://open.spotify.com/track/2WAlZZSQ9WQQQLPS4oVHEH) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Qoiet](https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo) | [Bodies](https://open.spotify.com/album/6CvJxJUhIWV4f40OCi5D3g) | 3:12 | 2024-08-19 |  |
@@ -218,6 +218,7 @@
 | [i'm FINE](https://open.spotify.com/track/3RYE5stoVTlYmqjVrKFoJ8) | [Qoiet](https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [i'm FINE](https://open.spotify.com/album/6KayznQ5nE5s454TAffoMX) | 2:43 | 2024-05-10 | 2024-11-05 |
 | [I'm Just A Monster Underneath, My Darling](https://open.spotify.com/track/5CkicabyzDs7F7Froa503f) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [I'm Just A Monster Underneath, My Darling](https://open.spotify.com/album/1TILMmAAKEWArxesHlrqOU) | 4:10 | 2022-01-28 | 2023-07-09 |
 | [I'm Losing Myself](https://open.spotify.com/track/1iPBZhlxcsMnkdXBiAs1VS) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3) | [Prock House](https://open.spotify.com/album/6WmVszxhoZlftm89rz5FFq) | 2:47 | 2021-12-10 | 2022-04-21 |
+| [Icarus \- Shockone Remix](https://open.spotify.com/track/4ZlQBzmVQ1n8qAdIN1enMV) | [PhaseOne](https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk), [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX), [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH) | [Icarus \- Shockone Remix](https://open.spotify.com/album/2Bw07TP2W63OU9lbYHquGc) | 2:53 | 2024-11-08 |  |
 | [Immortal](https://open.spotify.com/track/4CtHOVGGI0CXmow1DnhaVL) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Immortal](https://open.spotify.com/album/31sFjiahDnYKKsPdDcqCSv) | 4:08 | 2023-01-30 | 2023-09-09 |
 | [Immortal](https://open.spotify.com/track/4j3LxTzYF8IY5Y3h80dl8v) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Immortal](https://open.spotify.com/album/7xnzTKq48BTxKQ3JABpFxN) | 4:08 | 2023-09-08 | 2024-04-19 |
 | [In The Dark](https://open.spotify.com/track/1IkiWXaS68JIK4ZdNLtHe8) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [In The Dark](https://open.spotify.com/album/1lvLwsaQXClUnNEICZaV7p) | 3:22 | 2024-06-28 |  |

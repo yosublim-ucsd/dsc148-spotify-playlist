@@ -1,13 +1,29 @@
 {
-  "description": "Underground indie rock gems. Cover: urika's bedroom",
-  "num_followers": 297855,
+  "description": "Underground indie rock gems. Cover: Asha Jefferies",
+  "num_followers": 297870,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyRSQAAAAAB8KY4LHba+EXWEKICyQtiD",
+  "snapshot_id": "Zy4mBwAAAACRBroMEmBIuNqmbjgGP0ji",
   "tracks": [
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "cold medicine (deluxe edition)",
+        "url": "https://open.spotify.com/album/0iT0luHBNd77yShh5cpLaD"
+      },
+      "artists": [
+        {
+          "name": "tiffi",
+          "url": "https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4"
+        }
+      ],
+      "duration_ms": 197615,
+      "name": "beach house",
+      "url": "https://open.spotify.com/track/2328jc95SrmfZPaf95M7i1"
+    },
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
@@ -23,6 +39,70 @@
       "duration_ms": 227640,
       "name": "Metalhead",
       "url": "https://open.spotify.com/track/6vBlEMm5JlUVZok4pfVjlu"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Headache",
+        "url": "https://open.spotify.com/album/6baKpbxBMBisqqThtQ1TyZ"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 240826,
+      "name": "I'm So Sorry",
+      "url": "https://open.spotify.com/track/66UdYj3MIsMI8WryDpRZwb"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Ego Ride (Route Extended)",
+        "url": "https://open.spotify.com/album/4uaFh3PlHIZWmnooYKvbyV"
+      },
+      "artists": [
+        {
+          "name": "Asha Jefferies",
+          "url": "https://open.spotify.com/artist/4XUmpHj581ooyS5rJuCBJg"
+        }
+      ],
+      "duration_ms": 345339,
+      "name": "Whatever You Like",
+      "url": "https://open.spotify.com/track/63PMcLkb5D3YciqbHDYScI"
+    },
+    {
+      "added_at": "2024-11-08 14:53:59",
+      "album": {
+        "name": "Mudglimmer",
+        "url": "https://open.spotify.com/album/6do71LE89y6Uqs4hVXbFH3"
+      },
+      "artists": [
+        {
+          "name": "The Slaps",
+          "url": "https://open.spotify.com/artist/4nNxZ9weXMeokvs9ohcmZl"
+        }
+      ],
+      "duration_ms": 296413,
+      "name": "Mudglimmer",
+      "url": "https://open.spotify.com/track/4LMmg4NHeDMyiQ8IV4rU2e"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Eazy Peazy",
+        "url": "https://open.spotify.com/album/2L4YcqjnpyyDPnIn8GqJfV"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "duration_ms": 150035,
+      "name": "Sports Day",
+      "url": "https://open.spotify.com/track/6hKwzsBblYMfifCLTp5Gn4"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -55,6 +135,22 @@
       "duration_ms": 178083,
       "name": "Love90",
       "url": "https://open.spotify.com/track/6UKPGUV7Qt7PfDR1H3lRN7"
+    },
+    {
+      "added_at": "2024-11-08 14:49:18",
+      "album": {
+        "name": "The Good Kind",
+        "url": "https://open.spotify.com/album/5BR3ZvZOLMdzTK4BymlH7S"
+      },
+      "artists": [
+        {
+          "name": "Our Girl",
+          "url": "https://open.spotify.com/artist/09Lrr4vGyWxxsuo3lrZW7f"
+        }
+      ],
+      "duration_ms": 239906,
+      "name": "Who Do You Love",
+      "url": "https://open.spotify.com/track/0YW7n18t21ZWYMAei1KmH6"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -883,22 +979,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "YOYOTTA",
-        "url": "https://open.spotify.com/album/2UI9xc0QpD3SC2lQOLbaFp"
-      },
-      "artists": [
-        {
-          "name": "Molly Payton",
-          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "You're On Your Own This Time, Again",
-      "url": "https://open.spotify.com/track/6refloGDPQzdncMkazz7ED"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/5S4K4P92cYvJWFpXo1aaQS"
       },
@@ -1331,22 +1411,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Inside the Marble",
-        "url": "https://open.spotify.com/album/6Tifn26BUT16VlQ3WG2khN"
-      },
-      "artists": [
-        {
-          "name": "Margaux",
-          "url": "https://open.spotify.com/artist/2ycbMlovjNV5gks2r8Vtsp"
-        }
-      ],
-      "duration_ms": 186253,
-      "name": "Dissolve / Resolve",
-      "url": "https://open.spotify.com/track/1PziOPbOgzoCNuPrZ1Xz5i"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "words fell out",
         "url": "https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7"
       },
@@ -1375,22 +1439,6 @@
       "duration_ms": 246026,
       "name": "The Good Ship Lifestyle",
       "url": "https://open.spotify.com/track/5QaqxJwyibItiNL2d1iKd3"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Cockpit",
-        "url": "https://open.spotify.com/album/0gkzzfLU4VvSrpakV6IM8i"
-      },
-      "artists": [
-        {
-          "name": "Sex Week",
-          "url": "https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "Cockpit",
-      "url": "https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R"
     },
     {
       "added_at": "2024-07-05 18:20:03",
@@ -1551,70 +1599,6 @@
       "duration_ms": 211093,
       "name": "Picture It",
       "url": "https://open.spotify.com/track/4kqo78GnFFHu4zccofhUGa"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Live At Narcissus",
-        "url": "https://open.spotify.com/album/5CV2tpSgGgDj7OhcLfRLM1"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 338760,
-      "name": "Skin Parade / Fade Into You - Live At Narcissus",
-      "url": "https://open.spotify.com/track/2FsPY6AAXMDqU9EsN8Gs0t"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "One Million Love Songs",
-        "url": "https://open.spotify.com/album/6ktuNkWlfl4kh4Nf6GLBDP"
-      },
-      "artists": [
-        {
-          "name": "Bnny",
-          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
-        }
-      ],
-      "duration_ms": 148506,
-      "name": "Get It Right",
-      "url": "https://open.spotify.com/track/2CO04OO1MMV1z8zY5N1pyD"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Twice Around the Sun",
-        "url": "https://open.spotify.com/album/3wzMjiyIQ2zDv3suwSHxpp"
-      },
-      "artists": [
-        {
-          "name": "Ugly (UK)",
-          "url": "https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf"
-        }
-      ],
-      "duration_ms": 408950,
-      "name": "Icy Windy Sky",
-      "url": "https://open.spotify.com/track/66U7274Oapr417BNqeQLoS"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Lighthouse",
-        "url": "https://open.spotify.com/album/386OkomCq7KFjusVqI1E78"
-      },
-      "artists": [
-        {
-          "name": "Francis of Delirium",
-          "url": "https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif"
-        }
-      ],
-      "duration_ms": 197133,
-      "name": "Who You Are",
-      "url": "https://open.spotify.com/track/1aDt9pruckWVn6lllJtVgc"
     },
     {
       "added_at": "2024-03-15 04:00:00",

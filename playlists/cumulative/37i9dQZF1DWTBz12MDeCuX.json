@@ -29274,7 +29274,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 143804,
       "name": "Oh man",
       "url": "https://open.spotify.com/track/54idR8y69xUnLlRbsquSzk"
@@ -39087,6 +39087,24 @@
     },
     {
       "album": {
+        "name": "TikTok Sportlich",
+        "url": "https://open.spotify.com/album/6M32YCYXGR3rQbSEfjFlt4"
+      },
+      "artists": [
+        {
+          "name": "ZAH1DE",
+          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101954,
+      "name": "TikTok Sportlich",
+      "url": "https://open.spotify.com/track/6pGsdnKTuOgOR7CC9JGyLn"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/2mUzGjNHiXbXP87UbXhJAK"
       },
@@ -41330,7 +41348,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 153500,
-      "name": "Vernetzt (feat. Big Pat)",
+      "name": "Vernetzt",
       "url": "https://open.spotify.com/track/3WquCmFXrhti6cLBeXn6CS"
     },
     {

@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Ruthie Foster
 
-408 songs - 1 day 1 hr 35 min
+409 songs - 1 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [King Bee](https://open.spotify.com/track/6efvpN45pRby2dC0ayfSU7) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [I Hear You Knocking](https://open.spotify.com/album/7oo5eTB3LyjpbPzxINbvBK) | 3:50 | 2021-12-17 | 2022-06-11 |
 | [Knew The Day Was Comin'](https://open.spotify.com/track/2ozeYfDCDYipVRTENpgCnT) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 2:10 | 2022-07-26 | 2022-09-26 |
 | [L'hotel Serein](https://open.spotify.com/track/2VO0kA8zIwG14cTDfPOGIH) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [L'hotel Serein](https://open.spotify.com/album/7pMl0sRjNchXQX7fb6HUQL) | 4:12 | 2022-06-24 | 2024-08-03 |
+| [Leaning On The Altar](https://open.spotify.com/track/7MoKznrE12IEinL9CtE8V3) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Leaning On The Altar](https://open.spotify.com/album/7m4eR6wscTSsBwHuUvvBmI) | 3:19 | 2024-11-08 |  |
 | [Leave the Light On](https://open.spotify.com/track/4smQ0i6j6gH4Yly2qUcuqZ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Leave The Light On](https://open.spotify.com/album/0XzophZTU9CMVqTudEZVWo) | 3:19 | 2024-05-03 | 2024-08-10 |
 | [Let It Burn](https://open.spotify.com/track/4kVg423IrwssKhqQF8p97a) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Beneath the Neon Glow](https://open.spotify.com/album/4a2bNYxBEDfmgecp9elbxs) | 4:48 | 2024-08-09 |  |
 | [Let It Slide](https://open.spotify.com/track/7Hs5OmNf7BqPEnwVA9tRFr) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [The Big Bottle of Joy](https://open.spotify.com/album/22OpQW9aiVdxXlzYm4wZE4) | 3:34 | 2023-03-10 | 2024-08-31 |
@@ -253,7 +254,7 @@
 | [No Wrong](https://open.spotify.com/track/6j3ltnb3g4RQRt8azR7Yf5) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Earthtones](https://open.spotify.com/album/5Pe4lj6pfNgR0ZXeZ1altv) | 3:49 | 2021-12-17 | 2022-04-16 |
 | [Nobody's Wrong](https://open.spotify.com/track/5OPwCl6o8mJUOAti1sz1Ac) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Nobody's Wrong](https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp) | 3:55 | 2022-03-11 | 2024-05-01 |
 | [Not Bad](https://open.spotify.com/track/2V6eMMkl8FvFfqztA37UmC) | [Dolly Parton & Family](https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR), [Shelley Rena](https://open.spotify.com/artist/3uv1vlPPWpXtv6qCpqT9JQ), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Not Bad](https://open.spotify.com/album/2iApN2bz8aHffvQX5Rh4mm) | 3:05 | 2024-10-18 |  |
-| [Not Ready To Let Go](https://open.spotify.com/track/4nXIogA01ib6VLHPPKZPxt) | [BAYWUD](https://open.spotify.com/artist/3dDdngfjnuthfO2OPYRZqz) | [Not Ready To Let Go](https://open.spotify.com/album/1q1jyVZyIQwzq3DG8z9qVR) | 3:58 | 2022-10-28 |  |
+| [Not Ready To Let Go](https://open.spotify.com/track/4nXIogA01ib6VLHPPKZPxt) | [BAYWUD](https://open.spotify.com/artist/3dDdngfjnuthfO2OPYRZqz) | [Not Ready To Let Go](https://open.spotify.com/album/1q1jyVZyIQwzq3DG8z9qVR) | 3:58 | 2022-10-28 | 2024-11-09 |
 | [Nothing Without You](https://open.spotify.com/track/4tWTkbx3mO8izydaLLh4oR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU), [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [The Night Owl and The Lark](https://open.spotify.com/album/5fEek3kbOzbwDtKLKlJCR7) | 3:25 | 2024-02-09 | 2024-04-06 |
 | [Nothing's Gonna Stop Me Feeling Good](https://open.spotify.com/track/3578ilBVTJbZFgJH8z8lxn) | [The Gulls](https://open.spotify.com/artist/2n0FlGHc3OxI0x2WI39BEc) | [Nothing's Gonna Stop Me Feeling Good](https://open.spotify.com/album/3vgjJRc8CkEp5LbCwYdfVf) | 3:00 | 2023-06-23 |  |
 | [Nothing's Gonna Stop Me Feeling Good](https://open.spotify.com/track/4rmOzQCwbGIiukTKmpRHlC) | [The Gulls](https://open.spotify.com/artist/2n0FlGHc3OxI0x2WI39BEc) | [Nothing's Gonna Stop Me Feeling Good](https://open.spotify.com/album/1JHZ601aiZH8AexrDLnxbp) | 3:00 | 2023-10-06 | 2024-04-19 |

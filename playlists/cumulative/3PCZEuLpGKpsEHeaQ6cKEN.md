@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:   Will Clarke
 
-1,209 songs - 2 day 16 hr 48 min
+1,210 songs - 2 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Disco Balls](https://open.spotify.com/track/3WlPMcLbxJWnaYIwni6K5a) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [MAJUSCULE](https://open.spotify.com/artist/2Yj2toOduPsB4L8F2RN4dH) | [Disco Balls](https://open.spotify.com/album/7brvMnAIiyf0YBWf9IMgZM) | 3:20 | 2024-03-07 | 2024-10-04 |
 | [Discohopping \- Anna Tur Remix](https://open.spotify.com/track/1W0cld7fMBFPttUhZy10NM) | [Klubbheads](https://open.spotify.com/artist/2j9KNQNo5B2mQ1isoa0eIe), [Anna Tur](https://open.spotify.com/artist/3AV9wkRe9dDJjE1vk6ZwdH) | [Armada Music \- 20 Years \(Remixed\)](https://open.spotify.com/album/4OD3z2wuOlBanqCItlGtsb) | 2:41 | 2023-12-07 | 2024-06-08 |
 | [Discohopping \- Anna Tur Remix](https://open.spotify.com/track/6d6eKUWERn9U2G3NQDPrCt) | [Klubbheads](https://open.spotify.com/artist/2j9KNQNo5B2mQ1isoa0eIe), [Anna Tur](https://open.spotify.com/artist/3AV9wkRe9dDJjE1vk6ZwdH) | [Discohopping \(Anna Tur Remix\)](https://open.spotify.com/album/56oV0JSJ4UJJ4nUToj1bwn) | 2:41 | 2023-09-21 | 2023-12-14 |
+| [Divine](https://open.spotify.com/track/3HFQRcE25gUw5jiGrJPsRc) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Divine](https://open.spotify.com/album/5XPhK0D2fEjX3oK3GPgalf) | 2:17 | 2024-11-08 |  |
 | [Do It Again](https://open.spotify.com/track/0isQofkWN5jjRmWVvBPk0d) | [Joris Delacroix](https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Do It Again](https://open.spotify.com/album/28XU2AY0g1yMnVE9Cs7V85) | 3:33 | 2023-12-07 | 2024-04-26 |
 | [Do It Like This](https://open.spotify.com/track/0T7rY2sXT0BJ7XpinOd6xt) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Do It Like This](https://open.spotify.com/album/3DjKXKeMukozWmQPXd9cft) | 3:32 | 2024-10-03 |  |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2022-06-09 | 2023-01-20 |

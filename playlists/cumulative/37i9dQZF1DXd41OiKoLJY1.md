@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Leah Halili Artwork: Isu Kim
 
-2,889 songs - 7 day 1 hr 26 min
+2,890 songs - 7 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2848,6 +2848,7 @@
 | [Worth](https://open.spotify.com/track/2cxz6HWqSC0VWBEQKI92V1) | [Rene Aiko](https://open.spotify.com/artist/2ySOqjP80i6FS1SiPrT7a4) | [Worth](https://open.spotify.com/album/6VXa6sEtEhsnG7j3CU2HWH) | 3:17 | 2024-01-18 | 2024-02-16 |
 | [Worthwhile](https://open.spotify.com/track/6aYYP3Zgaj6p0sTqvKn3fE) | [felhony](https://open.spotify.com/artist/3E5iZBzhKO8WXDZzdTxE0m) | [Worthwhile](https://open.spotify.com/album/1zzxiCFRjpKia6LV0hvTfC) | 3:12 | 2024-03-21 | 2024-05-03 |
 | [WOULD YOU BE THERE?](https://open.spotify.com/track/1SuFaSXntHWfeiwnGlG34x) | [YP](https://open.spotify.com/artist/317sYdaoNPU4HAZMiUArvF), [Joseph Raqueño](https://open.spotify.com/artist/4zQUsLle4CQgawnOoxGLJO) | [WOULD YOU BE THERE?](https://open.spotify.com/album/649j2X5FwAzhYOcMtCXqNZ) | 2:50 | 2023-11-16 | 2024-02-02 |
+| [WYA?](https://open.spotify.com/track/5GPkMFq3aiNSCm3iRXCg52) | [Alpha Phia](https://open.spotify.com/artist/3bkrGwgkizjF6f5XnBY5PX), [FRNC$](https://open.spotify.com/artist/3HV8wp2Ojvxp2hkUm0bZ1K) | [WYA?](https://open.spotify.com/album/3H9YWzWCf6T93CZpCDGRHH) | 3:26 | 2024-11-07 |  |
 | [wyd?](https://open.spotify.com/track/1CXWPOylRpwYB1X07HM4Kc) | [Ian Diokno](https://open.spotify.com/artist/3z3W9kUHoV3stenERtAbsr) | [wyd?](https://open.spotify.com/album/0AdYHPvx5bi3LyZV2qJgij) | 3:08 | 2023-03-09 | 2023-03-25 |
 | [X](https://open.spotify.com/track/3d4xPcsdl4yuK49erxKwXP) | [IMELDA](https://open.spotify.com/artist/4oEhLoaLoDM2VWNAmiwV6J) | [Halo Halo](https://open.spotify.com/album/33zdt8dng8iInR35YNXGB0) | 3:05 | 2023-05-04 | 2023-05-26 |
 | [XNLY TRUST](https://open.spotify.com/track/60yXTlrOXe5O9l1f4ewSzb) | [IVNFIL](https://open.spotify.com/artist/3Fy24YWLYJu5Zqd2pgt5eg) | [CRXSSED OUT](https://open.spotify.com/album/7lS0J4URPg5nXoL06cE8uo) | 3:40 | 2022-09-08 | 2022-11-25 |

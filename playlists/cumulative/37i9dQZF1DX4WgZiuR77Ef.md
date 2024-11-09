@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-233 songs - 16 hr 24 min
+234 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Cool \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/2NV8520xo3iYrpD8wv4Sxy) | [Verdine White](https://open.spotify.com/artist/4tMJliVd96wXoMVNdcOBHp) | [Cool \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/0CnL6CPos3VkeqKRaR9Uwp) | 2:54 | 2022-07-01 |  |
 | [Cosmic Day \- 2020 Remaster](https://open.spotify.com/track/5C0ntapk5jYYNBYkRiUWBB) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign O' The Times \(Super Deluxe Edition\)](https://open.spotify.com/album/0TQG9HCLZGushGzSwvtxC1) | 5:39 | 2020-10-30 | 2023-06-24 |
 | [Cosmic Day \- 2020 Remaster](https://open.spotify.com/track/5PaBbJtAzd7dl3RMk6ezer) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Witness 4 The Prosecution \(Version 2\) \[2020 Remaster\]](https://open.spotify.com/album/6ZkYNos93hJHHdpaZfTJPL) | 5:39 | 2020-10-30 | 2022-07-29 |
-| [Cross The Track](https://open.spotify.com/track/0E02hR1cBcwaGhZBKboKts) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Cross The Track](https://open.spotify.com/album/4H9YUJMatjxYWbfypAosLU) | 5:05 | 2020-10-30 |  |
+| [Cross The Track](https://open.spotify.com/track/0E02hR1cBcwaGhZBKboKts) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Cross The Track](https://open.spotify.com/album/4H9YUJMatjxYWbfypAosLU) | 5:05 | 2020-10-30 | 2024-11-09 |
 | [Cross The Track](https://open.spotify.com/track/5GpVsLkTn20sUOjiFKKlCT) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Soul Food: Cooking With Maceo](https://open.spotify.com/album/5Gov2tT73ooJR5WQienGoH) | 5:05 | 2020-10-30 | 2024-04-19 |
 | [D.R.E.A.D](https://open.spotify.com/track/3uQjXCAXuSAZIduWjU5mY8) | [Tom McGuire & the Brassholes](https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp) | [D.R.E.A.D](https://open.spotify.com/album/6sy0hfa6qSNN0REHDiHhR5) | 5:47 | 2022-02-25 |  |
 | [Dance Like This](https://open.spotify.com/track/4KeZ70RzWqbcplRkOfrku9) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [XX](https://open.spotify.com/album/3B6JmsgFu4k50ctzvjQ414) | 4:41 | 2020-10-30 |  |
@@ -139,6 +139,7 @@
 | [Little Orphan Boy](https://open.spotify.com/track/0gn6Qb2WC279QfiOIVZzhN) | [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU) | [Little Orphan Boy](https://open.spotify.com/album/4yhhKYu4vNtJVWeh9dneMo) | 3:25 | 2022-05-06 |  |
 | [Look in My Eyes](https://open.spotify.com/track/3xq9srnNN0LBvha15ZWpTU) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Step Up](https://open.spotify.com/album/3iiNHgr5Pl3fmoqQdSTWlr) | 3:44 | 2020-10-30 |  |
 | [Love Somebody](https://open.spotify.com/track/0R3eQDXzFLPdC9Q9Toj1ys) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Love Somebody](https://open.spotify.com/album/2VIaLN4IxLM3u7U7TInMGk) | 2:49 | 2021-09-03 |  |
+| [Make Me Move](https://open.spotify.com/track/0oP0QY4hep9CCwZJ9jRwZd) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [Down In The Dirt](https://open.spotify.com/album/1VHJw1hxKnCopNKcK2M8z0) | 1:00 | 2024-11-08 |  |
 | [Make Way for the Funk Parade](https://open.spotify.com/track/3LtAdAaM6njXeGzmCdkXc9) | [Jordan John](https://open.spotify.com/artist/7GPNa53BeLP2ALe8eoueU0) | [Funk Parade](https://open.spotify.com/album/2gEOnDhIu7txjkJLUtUdFu) | 5:32 | 2020-10-30 | 2022-04-09 |
 | [Maybe Your Baby](https://open.spotify.com/track/6pAiW3roW6efliDgLgaBog) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Realistic Orchestra](https://open.spotify.com/artist/69WRExBLLX7B6gUHt0MaoL), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Chris McGee](https://open.spotify.com/artist/3hFZkF8EDtWcCLTeKgoo1n) | [Maybe Your Baby](https://open.spotify.com/album/3HHFmNSg0aQ5oYgk2KhunF) | 5:27 | 2022-05-13 |  |
 | [Melody Feels Right \- Single Version](https://open.spotify.com/track/1WNwV1V2lDYw5oEFjaQhNx) | [Kc Roberts & the Live Revolution](https://open.spotify.com/artist/1YZOBH70YX0MgjDSUQ1hTO) | [Melody Feels Right](https://open.spotify.com/album/7eM7dX0GpqjHa1djdNRFzI) | 4:19 | 2022-06-10 |  |

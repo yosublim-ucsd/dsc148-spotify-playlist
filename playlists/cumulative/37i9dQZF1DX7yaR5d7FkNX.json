@@ -721,6 +721,32 @@
     },
     {
       "album": {
+        "name": "Brillas (en vivo desde el Palacio de los Deportes)",
+        "url": "https://open.spotify.com/album/78iEzoHKyUuqoQUk58PNLD"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        },
+        {
+          "name": "Meme del Real",
+          "url": "https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB"
+        },
+        {
+          "name": "Quique Rangel",
+          "url": "https://open.spotify.com/artist/58ifdyw0QkM58ZOADGxOhH"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258853,
+      "name": "Brillas - en vivo desde el Palacio de los Deportes",
+      "url": "https://open.spotify.com/track/57ajYJFvqlETyvd666WqPB"
+    },
+    {
+      "album": {
         "name": "Brindis",
         "url": "https://open.spotify.com/album/5tBWuTGdWhv5yziqu0wt4h"
       },
@@ -732,7 +758,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 186581,
       "name": "Brindis",
       "url": "https://open.spotify.com/track/3b1VxAMookNRGSKSWnghJ8"
@@ -870,6 +896,24 @@
       "duration_ms": 283963,
       "name": "Cerca",
       "url": "https://open.spotify.com/track/2qZ146aMtXEx3mQ4qLijol"
+    },
+    {
+      "album": {
+        "name": "Chispa Roja",
+        "url": "https://open.spotify.com/album/4YzuHCvwT5mz6Ga7GccbWn"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211085,
+      "name": "Chispa Roja",
+      "url": "https://open.spotify.com/track/5XHks592LnELvf20Ny43EZ"
     },
     {
       "album": {
@@ -1868,7 +1912,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 247080,
       "name": "Fake News",
       "url": "https://open.spotify.com/track/6mzfxrGB40oY442Pc5SW6t"
@@ -1922,7 +1966,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 218813,
       "name": "F\u00f3rmula",
       "url": "https://open.spotify.com/track/0WRaVLb74H6OqumreUs1mz"
@@ -2252,6 +2296,24 @@
       "duration_ms": 199996,
       "name": "Ignis",
       "url": "https://open.spotify.com/track/7cdjVBrIyoRxjbKbCLFWDx"
+    },
+    {
+      "album": {
+        "name": "Imit\u00e1ndote",
+        "url": "https://open.spotify.com/album/1vIOTSqcNOHM6OEhcGpfsf"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174123,
+      "name": "Imit\u00e1ndote",
+      "url": "https://open.spotify.com/track/3DyTHxOyaqFyVma3LUJYMn"
     },
     {
       "album": {
@@ -2605,6 +2667,24 @@
     },
     {
       "album": {
+        "name": "Ll\u00e9vame al infierno",
+        "url": "https://open.spotify.com/album/3zn4wWZmqrlZMtBvT1tb42"
+      },
+      "artists": [
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249272,
+      "name": "Ll\u00e9vame al infierno",
+      "url": "https://open.spotify.com/track/5RKRAJkq3ZdD01N4qMEg7A"
+    },
+    {
+      "album": {
         "name": "Am\u00e9rica Supers\u00f3nica",
         "url": "https://open.spotify.com/album/1nn6tjn1aqYGHkgEHejfb0"
       },
@@ -2670,7 +2750,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 166493,
       "name": "LOTO",
       "url": "https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv"
@@ -2750,6 +2830,28 @@
       "duration_ms": 228000,
       "name": "Manto",
       "url": "https://open.spotify.com/track/0gk7X9k5hXZnpy32IHoU6H"
+    },
+    {
+      "album": {
+        "name": "Marea",
+        "url": "https://open.spotify.com/album/0O69TYjXVjDbS5o9WWdv5i"
+      },
+      "artists": [
+        {
+          "name": "Sue\u00f1o A Marte",
+          "url": "https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN"
+        },
+        {
+          "name": "Denise Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239076,
+      "name": "Marea",
+      "url": "https://open.spotify.com/track/2yoSFkWsRSXdIhcix9JfMI"
     },
     {
       "album": {
@@ -3274,7 +3376,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 247741,
       "name": "No Digas Nada",
       "url": "https://open.spotify.com/track/6YiWdUMnMUJ84Ik9JUG7NL"
@@ -3368,7 +3470,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 183609,
       "name": "Nunca Es Tarde",
       "url": "https://open.spotify.com/track/4FHBc6Z61kNSrXVYFYDEwb"
@@ -3762,6 +3864,24 @@
       "duration_ms": 169786,
       "name": "Por Un Amor",
       "url": "https://open.spotify.com/track/30V5WvVaHmvbKnpPm31hjr"
+    },
+    {
+      "album": {
+        "name": "Porque Hoy ...",
+        "url": "https://open.spotify.com/album/7vK12glfVMhK4ufFPu116r"
+      },
+      "artists": [
+        {
+          "name": "Azul de Viena",
+          "url": "https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235781,
+      "name": "Porque Hoy ...",
+      "url": "https://open.spotify.com/track/5t7sFHlkDaJCPIPV8ZYnrU"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Pátria Rock](https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT)
 
-> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Zimbra
+> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Raimundos
 
-509 songs - 1 day 4 hr 26 min
+510 songs - 1 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Malandragem \- Ao Vivo](https://open.spotify.com/track/2AnFF6VJTemksxNOuqrtV4) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Malandragem \(Ao Vivo\)](https://open.spotify.com/album/4nOyvI1MmLYEFmh31m95Ne) | 3:51 | 2024-07-12 |  |
 | [Manifesto!](https://open.spotify.com/track/22avKr5ZtQYEmW12bpY2Zf) | [Banda Go Home](https://open.spotify.com/artist/55xvUppAG19F1CErLfAvZI), [Bloco do Caos](https://open.spotify.com/artist/44nuOAoL0OIc2QmKfO0nnl) | [Manifesto!](https://open.spotify.com/album/0uct3MaZximvUmUiEtqU0h) | 3:51 | 2022-04-15 | 2022-05-14 |
 | [Maremotos \- Ao Vivo Quando A Terra Era Redonda](https://open.spotify.com/track/6PuDWQvcwl55r3yVJRjgMF) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Maremotos \(Ao Vivo Quando A Terra Era Redonda\)](https://open.spotify.com/album/4iK4k80Au5YG4NIEHPZs43) | 3:28 | 2022-01-14 | 2022-02-05 |
+| [Maria Bonita](https://open.spotify.com/track/3ladrTlwblEkzdn5CUcU0U) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Maria Bonita](https://open.spotify.com/album/1ZD6tVGWTAoG2wJblWiMhY) | 2:35 | 2024-11-08 |  |
 | [Marte](https://open.spotify.com/track/7vt1i1MX517hwX58FRJ34c) | [The Mönic](https://open.spotify.com/artist/2buQ8nJN9tUVl6ExZC965q) | [Marte](https://open.spotify.com/album/7LsdId0PlRzRoA1QeDBvTg) | 2:40 | 2024-05-17 |  |
 | [Me Abraça](https://open.spotify.com/track/1e8JXEWfUfWXIMbf8enKOd) | [Os Bartira](https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w) | [Me Abraça](https://open.spotify.com/album/12K7FgfBnoMW5CnzH5CIRA) | 3:07 | 2022-02-18 | 2023-07-01 |
 | [Me Acostumei](https://open.spotify.com/track/35ygjxl5CfGGK1mwLeoavC) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [IMUNE](https://open.spotify.com/artist/6w4ghJ9ppw3VdusbNWsSmc) | [Me Acostumei](https://open.spotify.com/album/5zRgNpF0eJ0J4hQ2Mwfa3n) | 4:05 | 2023-02-24 | 2023-07-22 |
@@ -291,7 +292,7 @@
 | [Nada Se Compara](https://open.spotify.com/track/6a7Gp9ZZxJPS5fbt5AOnX3) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Ao Vivo Em Paranavaí](https://open.spotify.com/album/5nkSPHjYCHACWayk7NhYmd) | 3:16 | 2023-11-24 | 2023-12-09 |
 | [Nada Se Compara](https://open.spotify.com/track/6ez3XirMlH7Hjo87z8M43P) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Ao Vivo Em Paranavaí \- Vol\. 2](https://open.spotify.com/album/1NnA13zzShAeTleK4sU1OY) | 3:16 | 2023-06-23 | 2023-12-06 |
 | [Nada Voltará a Ser](https://open.spotify.com/track/53LY3OhPy0fbKqkOZZQ70Y) | [SÖMA](https://open.spotify.com/artist/7gdkQxIeATNsxEnbYYzSEc), [Clemente Tadeu](https://open.spotify.com/artist/6j16i15qN0X51i8afDnEFk) | [Nada Voltará a Ser](https://open.spotify.com/album/3RGpCejGAh93zSjAh88knx) | 3:41 | 2023-01-20 | 2023-07-01 |
-| [Nada É Maior Que A Verdade \- Versão Rádio](https://open.spotify.com/track/3MANLV05PY4ZSLKG0Gesgf) | [RPM](https://open.spotify.com/artist/7lfmakKFOeQWdUrbmVK6EQ) | [Nada É Maior Que A Verdade](https://open.spotify.com/album/7FaTAwyrdLDIE4r6xBzvKs) | 4:52 | 2024-04-26 |  |
+| [Nada É Maior Que A Verdade \- Versão Rádio](https://open.spotify.com/track/3MANLV05PY4ZSLKG0Gesgf) | [RPM](https://open.spotify.com/artist/7lfmakKFOeQWdUrbmVK6EQ) | [Nada É Maior Que A Verdade](https://open.spotify.com/album/7FaTAwyrdLDIE4r6xBzvKs) | 4:52 | 2024-04-26 | 2024-11-09 |
 | [Namorade](https://open.spotify.com/track/41kJiYsXVP6po4yrkfbc3K) | [Velhas Virgens](https://open.spotify.com/artist/1NG0y4OWAFilBtNB2Ey9jK) | [Namorade](https://open.spotify.com/album/0bm7sKgv6UxeAoYGlS3LtS) | 2:12 | 2022-06-03 | 2022-06-11 |
 | [Narciso](https://open.spotify.com/track/5enX4FkpRF6nRBl3Z8eKe6) | [Wander B.](https://open.spotify.com/artist/5ZFZFNtxUpjBuLM2u2Tayu) | [Narciso](https://open.spotify.com/album/4FLsDOobhQ9xRjNgyYHcFd) | 2:43 | 2023-05-26 | 2023-08-19 |
 | [Nas Canções de Amor \- Ao vivo](https://open.spotify.com/track/3cnY1LQ6bVGBH2DvvJqc4w) | [Rogério Skylab](https://open.spotify.com/artist/7nz8OOo3qPb9jvUp4WiTe8), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Rogerio Skylab no Estúdio Showlivre, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/0v1RGRcSjtKWJBk35jnnVS) | 8:49 | 2023-05-19 | 2023-09-30 |

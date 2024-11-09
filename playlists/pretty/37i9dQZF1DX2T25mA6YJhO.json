@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Mediapunta.",
-  "num_followers": 21398,
+  "num_followers": 21422,
   "original_name": "Rock 2024",
   "owner": {
     "name": "Spotify",
@@ -687,18 +687,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "La gran renuncia",
-        "url": "https://open.spotify.com/album/4UTY5ZCz3QWi9I9oMQOJ8O"
+        "name": "Ponzano",
+        "url": "https://open.spotify.com/album/2D8aKvsIkr6fUI6mws07Mu"
       },
       "artists": [
         {
-          "name": "Biznaga",
-          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
         }
       ],
-      "duration_ms": 146132,
-      "name": "La gran renuncia",
-      "url": "https://open.spotify.com/track/11CA4TGaCv8VuOpQ81CZGO"
+      "duration_ms": 144308,
+      "name": "Ponzano",
+      "url": "https://open.spotify.com/track/1p0XAa0dykeG6vnbIhAzs5"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -723,34 +723,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Ponzano",
-        "url": "https://open.spotify.com/album/2D8aKvsIkr6fUI6mws07Mu"
+        "name": "La gran renuncia",
+        "url": "https://open.spotify.com/album/4UTY5ZCz3QWi9I9oMQOJ8O"
       },
       "artists": [
         {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+          "name": "Biznaga",
+          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
         }
       ],
-      "duration_ms": 144308,
-      "name": "Ponzano",
-      "url": "https://open.spotify.com/track/1p0XAa0dykeG6vnbIhAzs5"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Pastillas",
-        "url": "https://open.spotify.com/album/5EdatqgVdyGGIlEp0wdOSs"
-      },
-      "artists": [
-        {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
-        }
-      ],
-      "duration_ms": 150820,
-      "name": "Pastillas",
-      "url": "https://open.spotify.com/track/36mMs8JprenzdxI1FYa08k"
+      "duration_ms": 146132,
+      "name": "La gran renuncia",
+      "url": "https://open.spotify.com/track/11CA4TGaCv8VuOpQ81CZGO"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -767,6 +751,22 @@
       "duration_ms": 207124,
       "name": "4 Impulsos M\u00e1s",
       "url": "https://open.spotify.com/track/2UEWhrxIRlZJeObLrwhhE2"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Pastillas",
+        "url": "https://open.spotify.com/album/5EdatqgVdyGGIlEp0wdOSs"
+      },
+      "artists": [
+        {
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+        }
+      ],
+      "duration_ms": 150820,
+      "name": "Pastillas",
+      "url": "https://open.spotify.com/track/36mMs8JprenzdxI1FYa08k"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "En Forma",
-        "url": "https://open.spotify.com/album/0fzciua8WczmJgoztuyqjq"
+        "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
+        "url": "https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj"
       },
       "artists": [
         {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
         }
       ],
-      "duration_ms": 228251,
-      "name": "En Forma",
-      "url": "https://open.spotify.com/track/0XYCice34pKdrfOPSByAaw"
+      "duration_ms": 193423,
+      "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
+      "url": "https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "En Forma",
+        "url": "https://open.spotify.com/album/0fzciua8WczmJgoztuyqjq"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "duration_ms": 228251,
+      "name": "En Forma",
+      "url": "https://open.spotify.com/track/0XYCice34pKdrfOPSByAaw"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Ya decidir\u00e9 ma\u00f1ana",
         "url": "https://open.spotify.com/album/2PAgSFHOvDwQzHxAbX0zgM"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 139733,
       "name": "No quiero verte",
       "url": "https://open.spotify.com/track/2NOPXflMMHUDA1jcwcQbTe"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
-        "url": "https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj"
-      },
-      "artists": [
-        {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
-        }
-      ],
-      "duration_ms": 193423,
-      "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
-      "url": "https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Pitbull",
-        "url": "https://open.spotify.com/album/5zYMSBCpGIxNYNNHij1YPw"
+        "name": "El Final",
+        "url": "https://open.spotify.com/album/09Ea8QMbl8c88ddxsaN0dd"
       },
       "artists": [
         {
-          "name": "Venturi",
-          "url": "https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE"
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
         }
       ],
-      "duration_ms": 175859,
-      "name": "Pitbull",
-      "url": "https://open.spotify.com/track/23qWMsNit3DECls7rX1ueT"
+      "duration_ms": 196629,
+      "name": "El Final",
+      "url": "https://open.spotify.com/track/3qcDuXsK4lYgRMm8yK7Y8F"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Pitbull",
+        "url": "https://open.spotify.com/album/5zYMSBCpGIxNYNNHij1YPw"
+      },
+      "artists": [
+        {
+          "name": "Venturi",
+          "url": "https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE"
+        }
+      ],
+      "duration_ms": 175859,
+      "name": "Pitbull",
+      "url": "https://open.spotify.com/track/23qWMsNit3DECls7rX1ueT"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "De aqu\u00ed a un mes",
         "url": "https://open.spotify.com/album/12kOvGvaUrqMDE3Gnygj3w"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 141023,
       "name": "De aqu\u00ed a un mes",
       "url": "https://open.spotify.com/track/0e8H6wIJ5o7OoSMGH9I2iL"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "El Final",
-        "url": "https://open.spotify.com/album/09Ea8QMbl8c88ddxsaN0dd"
-      },
-      "artists": [
-        {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
-        }
-      ],
-      "duration_ms": 196629,
-      "name": "El Final",
-      "url": "https://open.spotify.com/track/3qcDuXsK4lYgRMm8yK7Y8F"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Perdiendo el tiempo",
-        "url": "https://open.spotify.com/album/6wl55GMGjbBCxabteJo17c"
-      },
-      "artists": [
-        {
-          "name": "Las Dianas",
-          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
-        }
-      ],
-      "duration_ms": 166528,
-      "name": "Perdiendo el tiempo",
-      "url": "https://open.spotify.com/track/0Aotvy8CxQXOc8FlXEoPBt"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Plan de Mierda",
         "url": "https://open.spotify.com/album/2ExZDAeYu4RF6tgYGigJl4"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Perdiendo el tiempo",
+        "url": "https://open.spotify.com/album/6wl55GMGjbBCxabteJo17c"
+      },
+      "artists": [
+        {
+          "name": "Las Dianas",
+          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
+        }
+      ],
+      "duration_ms": 166528,
+      "name": "Perdiendo el tiempo",
+      "url": "https://open.spotify.com/track/0Aotvy8CxQXOc8FlXEoPBt"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Desde Flores y Entra\u00f1as",
         "url": "https://open.spotify.com/album/7wXKA4oPHORyBu6jTE2oQm"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 206026,
       "name": "Las Victorias y Derrotas",
       "url": "https://open.spotify.com/track/0ZnNvpU4h5Se9bm301yOv0"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Mercer\u00edas las justas",
+        "url": "https://open.spotify.com/album/0wEyMh8gXEv9F9eWn0zLBE"
+      },
+      "artists": [
+        {
+          "name": "Las Petunias",
+          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
+        }
+      ],
+      "duration_ms": 193979,
+      "name": "Mercer\u00edas las justas",
+      "url": "https://open.spotify.com/track/1QJguXsnk8xBaGNA4ScnRA"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1151,22 +1167,6 @@
       "duration_ms": 207181,
       "name": "Medalla De Oro A La Mejor Canci\u00f3n de Amor",
       "url": "https://open.spotify.com/track/5sRbPtGGRrkrtJdRU1p6G3"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Mercer\u00edas las justas",
-        "url": "https://open.spotify.com/album/0wEyMh8gXEv9F9eWn0zLBE"
-      },
-      "artists": [
-        {
-          "name": "Las Petunias",
-          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
-        }
-      ],
-      "duration_ms": 193979,
-      "name": "Mercer\u00edas las justas",
-      "url": "https://open.spotify.com/track/1QJguXsnk8xBaGNA4ScnRA"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Rob Gordon",
-        "url": "https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR"
-      },
-      "artists": [
-        {
-          "name": "Becarios",
-          "url": "https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU"
-        }
-      ],
-      "duration_ms": 123309,
-      "name": "Rob Gordon",
-      "url": "https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "COMERTE",
         "url": "https://open.spotify.com/album/0ifKdGsvgwtMl1bPWSOvxz"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 158400,
       "name": "COMERTE",
       "url": "https://open.spotify.com/track/6qpU83yEgdtwboavDokkyO"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Rob Gordon",
+        "url": "https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR"
+      },
+      "artists": [
+        {
+          "name": "Becarios",
+          "url": "https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU"
+        }
+      ],
+      "duration_ms": 123309,
+      "name": "Rob Gordon",
+      "url": "https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Entre las nubes",
+        "url": "https://open.spotify.com/album/2gNrMDx4aVs2XNolOvcRJJ"
+      },
+      "artists": [
+        {
+          "name": "Hiperg\u00e9minis",
+          "url": "https://open.spotify.com/artist/3lhTUYtRWfoqod7U1L10kn"
+        }
+      ],
+      "duration_ms": 155592,
+      "name": "Entre las nubes",
+      "url": "https://open.spotify.com/track/2ad3cLYt2XljALj2OQ1iii"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Intemperie",
         "url": "https://open.spotify.com/album/3QOjC4R4QSRi9bEOmRflxM"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 171428,
       "name": "Intemperie",
       "url": "https://open.spotify.com/track/0wqtlNXoCnQLD8xTCJCJf1"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Entre las nubes",
-        "url": "https://open.spotify.com/album/2gNrMDx4aVs2XNolOvcRJJ"
-      },
-      "artists": [
-        {
-          "name": "Hiperg\u00e9minis",
-          "url": "https://open.spotify.com/artist/3lhTUYtRWfoqod7U1L10kn"
-        }
-      ],
-      "duration_ms": 155592,
-      "name": "Entre las nubes",
-      "url": "https://open.spotify.com/track/2ad3cLYt2XljALj2OQ1iii"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Parkour",
-        "url": "https://open.spotify.com/album/5oCu0OJRikvXXLaWRKE0Z8"
-      },
-      "artists": [
-        {
-          "name": "Kokoshca",
-          "url": "https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "Parkour",
-      "url": "https://open.spotify.com/track/1ow2OEydv1F9ljW62daTH5"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Vacaciones Permanentes",
         "url": "https://open.spotify.com/album/7xwr9Ae7irZnMLH4zJMQp3"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 188525,
       "name": "Vampiros",
       "url": "https://open.spotify.com/track/5SqHFepXDGG1IHvlkhQc8q"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Parkour",
+        "url": "https://open.spotify.com/album/5oCu0OJRikvXXLaWRKE0Z8"
+      },
+      "artists": [
+        {
+          "name": "Kokoshca",
+          "url": "https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK"
+        }
+      ],
+      "duration_ms": 184293,
+      "name": "Parkour",
+      "url": "https://open.spotify.com/track/1ow2OEydv1F9ljW62daTH5"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Casper",
-        "url": "https://open.spotify.com/album/4YWhShgiu8jh4aYgBssxTX"
-      },
-      "artists": [
-        {
-          "name": "Santa Engracia",
-          "url": "https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Casper",
-      "url": "https://open.spotify.com/track/1QFIGt5aDUuXL5Aqk1dRXO"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Adelante",
         "url": "https://open.spotify.com/album/4TGfWV8k3nPN3DFbjNplCJ"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 240031,
       "name": "Adelante",
       "url": "https://open.spotify.com/track/5NvqDMHAL38UTfNQFizEWm"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Casper",
+        "url": "https://open.spotify.com/album/4YWhShgiu8jh4aYgBssxTX"
+      },
+      "artists": [
+        {
+          "name": "Santa Engracia",
+          "url": "https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Casper",
+      "url": "https://open.spotify.com/track/1QFIGt5aDUuXL5Aqk1dRXO"
     },
     {
       "added_at": "2024-11-07 23:00:00",

@@ -82,7 +82,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 154794,
       "name": "+Q1 Jenner",
       "url": "https://open.spotify.com/track/3aXtPQQ4xp8MSWPcHSRo6r"
@@ -5376,7 +5376,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 167691,
       "name": "Enrolar",
       "url": "https://open.spotify.com/track/6kINKNCezsxA0wQFxSP2Aa"
@@ -7358,7 +7358,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 161147,
       "name": "HUMO",
       "url": "https://open.spotify.com/track/4bA1ZneUUkju4rwP8sDOqi"
@@ -10745,6 +10745,28 @@
     },
     {
       "album": {
+        "name": "Mi Nena",
+        "url": "https://open.spotify.com/album/7pmsyrEvI324FMei87BbQ7"
+      },
+      "artists": [
+        {
+          "name": "Nes",
+          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155201,
+      "name": "Mi Nena",
+      "url": "https://open.spotify.com/track/7mXCrLeenoAdef6RDhDJRc"
+    },
+    {
+      "album": {
         "name": "Mi Ni\u00f1ita",
         "url": "https://open.spotify.com/album/2rI5dq88GXeK9f2VPzXTE4"
       },
@@ -10812,7 +10834,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 227052,
       "name": "Mi Princesa",
       "url": "https://open.spotify.com/track/1IBw9WZCcGIare1KtPhrtq"
@@ -15793,6 +15815,28 @@
     },
     {
       "album": {
+        "name": "SATIROLOG\u00cdA",
+        "url": "https://open.spotify.com/album/2Lf8I2Wbfk8OLxslZtH9ya"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Dysbit",
+          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154721,
+      "name": "SATIROLOG\u00cdA",
+      "url": "https://open.spotify.com/track/3l6CjeIBGZuoCxNS88APlI"
+    },
+    {
+      "album": {
         "name": "SCARFACE",
         "url": "https://open.spotify.com/album/1oRMWVZdvBpyiOB5N4UDEm"
       },
@@ -17366,6 +17410,24 @@
       "duration_ms": 176700,
       "name": "Tas Texteandome",
       "url": "https://open.spotify.com/track/7spAR93xvPOfkxIeTGbpPf"
+    },
+    {
+      "album": {
+        "name": "Dando un Voltio, Vol. 1",
+        "url": "https://open.spotify.com/album/5qPByNL8M6fGTaDvvVOK9e"
+      },
+      "artists": [
+        {
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207157,
+      "name": "Tat\u00faate Mi Nombre",
+      "url": "https://open.spotify.com/track/1qTWL2kgKCQVCdDaom3paK"
     },
     {
       "album": {

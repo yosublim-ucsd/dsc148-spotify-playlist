@@ -1,6 +1,6 @@
 {
   "description": "Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.",
-  "num_followers": 133849,
+  "num_followers": 134048,
   "original_name": "Cancionero Joan Sebastian",
   "owner": {
     "name": "Spotify",
@@ -635,26 +635,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Soy Como Quiero Ser (Deluxe)",
-        "url": "https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        },
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 183768,
-      "name": "Bandido de Amores",
-      "url": "https://open.spotify.com/track/3Vqdfo6gPXVRdU5WdQi2VT"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Thalia En Primera Fila",
         "url": "https://open.spotify.com/album/07yVsJaLRxqakz0Fyyx7pR"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 196306,
       "name": "Con La Duda (with Joan Sebastian) - Live Version",
       "url": "https://open.spotify.com/track/5EGVCUlZ4ympyqdQVm6ttR"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Soy Como Quiero Ser (Deluxe)",
+        "url": "https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 183768,
+      "name": "Bandido de Amores",
+      "url": "https://open.spotify.com/track/3Vqdfo6gPXVRdU5WdQi2VT"
     },
     {
       "added_at": "2024-07-12 06:00:00",

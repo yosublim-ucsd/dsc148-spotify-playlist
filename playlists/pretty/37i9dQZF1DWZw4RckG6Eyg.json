@@ -1,6 +1,6 @@
 {
   "description": "All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party",
-  "num_followers": 18783,
+  "num_followers": 18781,
   "original_name": "Indie songs from 2023 you may have missed",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "from here on out",
-        "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
-      },
-      "artists": [
-        {
-          "name": "lighthearted",
-          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
-        }
-      ],
-      "duration_ms": 271421,
-      "name": "from here on out",
-      "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Momentary Sweetheart",
         "url": "https://open.spotify.com/album/2YIWehCNIisLAgGJ9i4M6W"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 182400,
       "name": "Momentary Sweetheart",
       "url": "https://open.spotify.com/track/5GKs69j8y4MajGkizLNFCK"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "from here on out",
+        "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
+      },
+      "artists": [
+        {
+          "name": "lighthearted",
+          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
+        }
+      ],
+      "duration_ms": 271421,
+      "name": "from here on out",
+      "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Det l\u00e4cker",
-        "url": "https://open.spotify.com/album/3kEotfrHH6NPyySBFaxsaL"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 259646,
-      "name": "Det l\u00e4cker",
-      "url": "https://open.spotify.com/track/6GffMzseDk8LgpRNFW9Hca"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "tainted in our memories",
         "url": "https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 160089,
       "name": "blame",
       "url": "https://open.spotify.com/track/0S86k4AVVcmFqXglEgReVk"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Det l\u00e4cker",
+        "url": "https://open.spotify.com/album/3kEotfrHH6NPyySBFaxsaL"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 259646,
+      "name": "Det l\u00e4cker",
+      "url": "https://open.spotify.com/track/6GffMzseDk8LgpRNFW9Hca"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Spirit World Tour",
-        "url": "https://open.spotify.com/album/47mGdZRog8LOGSdYzlVSO2"
-      },
-      "artists": [
-        {
-          "name": "Sword II",
-          "url": "https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi"
-        }
-      ],
-      "duration_ms": 207618,
-      "name": "First Rule of the Bug",
-      "url": "https://open.spotify.com/track/5s7umUpjJT7yBAN94jMxiC"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Smalltown Stardust",
         "url": "https://open.spotify.com/album/6tvYZyoxDRTIOVUwWH6ttG"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Everyone's Crushed",
-        "url": "https://open.spotify.com/album/0IzgQa9rNXzaEdj0bmHvpr"
+        "name": "Spirit World Tour",
+        "url": "https://open.spotify.com/album/47mGdZRog8LOGSdYzlVSO2"
       },
       "artists": [
         {
-          "name": "Water From Your Eyes",
-          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
+          "name": "Sword II",
+          "url": "https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi"
         }
       ],
-      "duration_ms": 209021,
-      "name": "Barley",
-      "url": "https://open.spotify.com/track/1kccKNibPNlyCVqhdg8NYE"
+      "duration_ms": 207618,
+      "name": "First Rule of the Bug",
+      "url": "https://open.spotify.com/track/5s7umUpjJT7yBAN94jMxiC"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -807,6 +791,22 @@
       "duration_ms": 162000,
       "name": "As Sure As I\u2019m Speaking",
       "url": "https://open.spotify.com/track/33BAnSQF1eYV3uP2sB47sm"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Everyone's Crushed",
+        "url": "https://open.spotify.com/album/0IzgQa9rNXzaEdj0bmHvpr"
+      },
+      "artists": [
+        {
+          "name": "Water From Your Eyes",
+          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
+        }
+      ],
+      "duration_ms": 209021,
+      "name": "Barley",
+      "url": "https://open.spotify.com/track/1kccKNibPNlyCVqhdg8NYE"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Around Around Around",
-        "url": "https://open.spotify.com/album/2MYklOw9nV8QDGB3AZM51P"
-      },
-      "artists": [
-        {
-          "name": "chokecherry",
-          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
-        }
-      ],
-      "duration_ms": 321460,
-      "name": "Around Around Around",
-      "url": "https://open.spotify.com/track/7zOeMbT1C2YmJ37Hlyzp2p"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Suddenly My Mind Is Blank",
         "url": "https://open.spotify.com/album/4XvzxNhPgvjdO3h28A9wzb"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 236324,
       "name": "Why'd You Leave Me in the Red?",
       "url": "https://open.spotify.com/track/4yoG9e4BQ5nWYD738dzxEC"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Around Around Around",
+        "url": "https://open.spotify.com/album/2MYklOw9nV8QDGB3AZM51P"
+      },
+      "artists": [
+        {
+          "name": "chokecherry",
+          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
+        }
+      ],
+      "duration_ms": 321460,
+      "name": "Around Around Around",
+      "url": "https://open.spotify.com/track/7zOeMbT1C2YmJ37Hlyzp2p"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "you, green",
-        "url": "https://open.spotify.com/album/3n22PGmZoD2DTEr9AuBws4"
-      },
-      "artists": [
-        {
-          "name": "Sfven",
-          "url": "https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb"
-        }
-      ],
-      "duration_ms": 167078,
-      "name": "sideline, red wine lover",
-      "url": "https://open.spotify.com/track/4tCwtpj5QR1FLpCevAuGx3"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Purple Moon",
         "url": "https://open.spotify.com/album/52aESqgK1s1SwCZ91iA6u4"
       },
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "ifshitfuq",
-        "url": "https://open.spotify.com/album/4rpHu4Ca3tl9ju3UYzodja"
+        "name": "you, green",
+        "url": "https://open.spotify.com/album/3n22PGmZoD2DTEr9AuBws4"
       },
       "artists": [
         {
-          "name": "meg elsier",
-          "url": "https://open.spotify.com/artist/4rkAMhebcdsLwZKBriNerT"
+          "name": "Sfven",
+          "url": "https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb"
         }
       ],
-      "duration_ms": 230136,
-      "name": "ifshitfuq",
-      "url": "https://open.spotify.com/track/73YDopbDooUCO4WUKwI4zL"
+      "duration_ms": 167078,
+      "name": "sideline, red wine lover",
+      "url": "https://open.spotify.com/track/4tCwtpj5QR1FLpCevAuGx3"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1643,6 +1627,22 @@
       "duration_ms": 177313,
       "name": "Bleed",
       "url": "https://open.spotify.com/track/6rv9youaC5GcRiag510DL7"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "ifshitfuq",
+        "url": "https://open.spotify.com/album/4rpHu4Ca3tl9ju3UYzodja"
+      },
+      "artists": [
+        {
+          "name": "meg elsier",
+          "url": "https://open.spotify.com/artist/4rkAMhebcdsLwZKBriNerT"
+        }
+      ],
+      "duration_ms": 230136,
+      "name": "ifshitfuq",
+      "url": "https://open.spotify.com/track/73YDopbDooUCO4WUKwI4zL"
     },
     {
       "added_at": "2023-11-29 16:17:10",

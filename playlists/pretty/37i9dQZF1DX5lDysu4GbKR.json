@@ -1,13 +1,45 @@
 {
-  "description": "Relax to these acoustic soul songs. Cover: Teddy Swims",
-  "num_followers": 605477,
+  "description": "Relax to these acoustic soul songs. Cover: Mac Ayres",
+  "num_followers": 605543,
   "original_name": "Acoustic Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyRSQAAAAAAJNboHMqw+DNDfpjgdoC5z",
+  "snapshot_id": "Zy4zJQAAAAB2A3yE6u/5kJ9tnnOrWuVa",
   "tracks": [
+    {
+      "added_at": "2024-11-08 15:49:57",
+      "album": {
+        "name": "cloudy",
+        "url": "https://open.spotify.com/album/07qAkNgFlbkUpIJzT3jtTf"
+      },
+      "artists": [
+        {
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+        }
+      ],
+      "duration_ms": 266704,
+      "name": "somebody new",
+      "url": "https://open.spotify.com/track/5hiKumtJTCHaaWwgxdpnoD"
+    },
+    {
+      "added_at": "2024-11-08 15:49:57",
+      "album": {
+        "name": "Anyway I Can",
+        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 155986,
+      "name": "Until It's Dust",
+      "url": "https://open.spotify.com/track/616o0X9kcvy732UKKnL68j"
+    },
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
@@ -57,6 +89,22 @@
       "url": "https://open.spotify.com/track/63NSw9j4bMYEK14ZP73eJE"
     },
     {
+      "added_at": "2024-11-08 15:49:57",
+      "album": {
+        "name": "Loving You / Don't Let Me Go",
+        "url": "https://open.spotify.com/album/5TLHp7Q9XE0hYTo6qF4g3H"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 244032,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/5TIHT94tJufZuni8d4RSlP"
+    },
+    {
       "added_at": "2024-10-19 23:34:48",
       "album": {
         "name": "Outside The Gate",
@@ -93,20 +141,36 @@
       "url": "https://open.spotify.com/track/7nT6RNdexQaPonsiV4pWNH"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-11-08 15:49:57",
       "album": {
-        "name": "Check (Acoustic)",
-        "url": "https://open.spotify.com/album/0V9CTdJq5vJak95mYxUpZr"
+        "name": "Give Up The Fear",
+        "url": "https://open.spotify.com/album/4PfN0s5linXQvTPlHpJ7De"
       },
       "artists": [
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
         }
       ],
-      "duration_ms": 182666,
-      "name": "Check - Acoustic",
-      "url": "https://open.spotify.com/track/7x72giFAlEjZUKt06VjeUk"
+      "duration_ms": 234986,
+      "name": "Reckless Soul - demo",
+      "url": "https://open.spotify.com/track/7yO88YQ8NjN7ib9x6bBq6G"
+    },
+    {
+      "added_at": "2024-11-08 15:49:57",
+      "album": {
+        "name": "Heal U / Out My Hair",
+        "url": "https://open.spotify.com/album/6w3SEOFS1XYWBKn4WKfg4J"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "duration_ms": 99417,
+      "name": "Heal U",
+      "url": "https://open.spotify.com/track/41l95qoyybdbcWm0mvMjzX"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -139,6 +203,38 @@
       "duration_ms": 124000,
       "name": "EITHER OR",
       "url": "https://open.spotify.com/track/6OAhcUEjnuZwkgaRhimayn"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Check (Acoustic)",
+        "url": "https://open.spotify.com/album/0V9CTdJq5vJak95mYxUpZr"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Check - Acoustic",
+      "url": "https://open.spotify.com/track/7x72giFAlEjZUKt06VjeUk"
+    },
+    {
+      "added_at": "2024-11-08 15:49:57",
+      "album": {
+        "name": "YOU (Live)",
+        "url": "https://open.spotify.com/album/1asr3WiGnqxr2bwuyPjmx4"
+      },
+      "artists": [
+        {
+          "name": "Journey Montana",
+          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
+        }
+      ],
+      "duration_ms": 204434,
+      "name": "YOU - Live",
+      "url": "https://open.spotify.com/track/7MM899Zw7uVEWwWpSUOLUJ"
     },
     {
       "added_at": "2024-03-21 23:00:00",

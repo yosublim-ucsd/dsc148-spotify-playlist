@@ -595,6 +595,28 @@
     },
     {
       "album": {
+        "name": "Albadi",
+        "url": "https://open.spotify.com/album/68Ozb8xeoNVMrQbcTJXzrc"
+      },
+      "artists": [
+        {
+          "name": "Candy Sheoran",
+          "url": "https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY"
+        },
+        {
+          "name": "Ydv Shiva",
+          "url": "https://open.spotify.com/artist/7JD04tYGDogAbVe0kRDZby"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187272,
+      "name": "Albadi",
+      "url": "https://open.spotify.com/track/3eHmoKgaiYymX3DODm5u38"
+    },
+    {
+      "album": {
         "name": "All Bout Me",
         "url": "https://open.spotify.com/album/1arumypsUacYzUOyoL7yrv"
       },
@@ -1478,6 +1500,24 @@
       "duration_ms": 184000,
       "name": "Bhussi",
       "url": "https://open.spotify.com/track/4jwC6DDNc7zhe6f6g4yqAd"
+    },
+    {
+      "album": {
+        "name": "HOTWIRE",
+        "url": "https://open.spotify.com/album/2WkKWOqGDHOqlVwrXJusxn"
+      },
+      "artists": [
+        {
+          "name": "NseeB",
+          "url": "https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152217,
+      "name": "Big Burrah",
+      "url": "https://open.spotify.com/track/39smImvUMvCpPqGY7WntwC"
     },
     {
       "album": {
@@ -3631,6 +3671,24 @@
     },
     {
       "album": {
+        "name": "HOTWIRE",
+        "url": "https://open.spotify.com/album/2WkKWOqGDHOqlVwrXJusxn"
+      },
+      "artists": [
+        {
+          "name": "NseeB",
+          "url": "https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182067,
+      "name": "Frontline",
+      "url": "https://open.spotify.com/track/1JCYIqHeyFZ2TLrfoGLAlH"
+    },
+    {
+      "album": {
         "name": "Fuck love",
         "url": "https://open.spotify.com/album/0BkTHnJA6BPpuadVswHXQd"
       },
@@ -4491,6 +4549,24 @@
     },
     {
       "album": {
+        "name": "Hisaab",
+        "url": "https://open.spotify.com/album/0hXW8tsA0l1sKV0AipKsCo"
+      },
+      "artists": [
+        {
+          "name": "ZelliX",
+          "url": "https://open.spotify.com/artist/5CJ8Xtvv57oEiRKIy6OjJt"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Hisaab",
+      "url": "https://open.spotify.com/track/3uazrFItw6UZCAWjJuhdn3"
+    },
+    {
+      "album": {
         "name": "FAR FROM OVER",
         "url": "https://open.spotify.com/album/4013u1RNEHieH8NwnN0vNh"
       },
@@ -4614,7 +4690,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 195000,
       "name": "Hood Poetry",
       "url": "https://open.spotify.com/track/12BbD4eFxsNdbJpkmd3p7g"
@@ -4688,6 +4764,32 @@
       "duration_ms": 180000,
       "name": "Humnasheen",
       "url": "https://open.spotify.com/track/0fr7aoYFseuvPN6q2FfFWV"
+    },
+    {
+      "album": {
+        "name": "HUNDO",
+        "url": "https://open.spotify.com/album/0vJ4vgqMg9DXt6zsnXaVRN"
+      },
+      "artists": [
+        {
+          "name": "Chani Nattan",
+          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
+        },
+        {
+          "name": "Sukha",
+          "url": "https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG"
+        },
+        {
+          "name": "Inderpal Moga",
+          "url": "https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143545,
+      "name": "HUNDO",
+      "url": "https://open.spotify.com/track/7yz7n00FMO8AUxgvBHXZab"
     },
     {
       "album": {
@@ -4782,7 +4884,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 162696,
       "name": "Ijazat",
       "url": "https://open.spotify.com/track/7FJwzVwMMCkifT8Av9b2YE"
@@ -5850,7 +5952,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 165198,
       "name": "Koi Nai.",
       "url": "https://open.spotify.com/track/0f78UzAFN1RrjGnw2KFlqO"
@@ -6406,7 +6508,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 100556,
       "name": "Lyrical Exercise",
       "url": "https://open.spotify.com/track/6CZ0hoJxvEWR8CtYtNZCrB"
@@ -7516,7 +7618,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 242654,
       "name": "Naina Barse",
       "url": "https://open.spotify.com/track/56PNjQUwtxUN8XosS7x4RL"
@@ -7822,6 +7924,24 @@
       "duration_ms": 159600,
       "name": "No ID",
       "url": "https://open.spotify.com/track/7EHRSYq5H4yJrhnOND4V4O"
+    },
+    {
+      "album": {
+        "name": "No Idea",
+        "url": "https://open.spotify.com/album/1iVNFwFko3LRHRnP78O0on"
+      },
+      "artists": [
+        {
+          "name": "Star Shah",
+          "url": "https://open.spotify.com/artist/7GJ4wHYYwqqM8wnNtk8H1E"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172631,
+      "name": "No Idea",
+      "url": "https://open.spotify.com/track/3BPvdcvsczva4nGlIOgj40"
     },
     {
       "album": {
@@ -8654,7 +8774,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 249056,
       "name": "Regret",
       "url": "https://open.spotify.com/track/3LaUpvYmlVkxaQSNTKDDfK"
@@ -8750,7 +8870,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 198048,
       "name": "Ring of Life",
       "url": "https://open.spotify.com/track/1fL80UZLhFb7dD6budso69"
@@ -9156,6 +9276,24 @@
       "duration_ms": 196000,
       "name": "Shoishob",
       "url": "https://open.spotify.com/track/7HaFX8zgAZYOrBrj7GNFlw"
+    },
+    {
+      "album": {
+        "name": "HOTWIRE",
+        "url": "https://open.spotify.com/album/2WkKWOqGDHOqlVwrXJusxn"
+      },
+      "artists": [
+        {
+          "name": "NseeB",
+          "url": "https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157194,
+      "name": "Singh Is King",
+      "url": "https://open.spotify.com/track/0qTYupCls68B1NdbSH8ZA0"
     },
     {
       "album": {
@@ -9656,7 +9794,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 174084,
       "name": "Tanha",
       "url": "https://open.spotify.com/track/7ICp5MEa790kyI3OYN5EAI"
@@ -10250,7 +10388,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 161560,
       "name": "Tujhya Aaichi Gaand",
       "url": "https://open.spotify.com/track/2Q3Ayar9nWdG7Jxh670huf"

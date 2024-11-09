@@ -1245,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "The Very Best of Mediapunta",
+        "url": "https://open.spotify.com/album/79NKwxLkELvPJ0GB3uX8mZ"
+      },
+      "artists": [
+        {
+          "name": "Mediapunta",
+          "url": "https://open.spotify.com/artist/5xY6SlOCuhGk2SW4Zx2dkx"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141664,
+      "name": "C\u00fac\u00fa",
+      "url": "https://open.spotify.com/track/3b3E5M5gouQX1ttI6XBNsD"
+    },
+    {
+      "album": {
         "name": "Dandole Vueltas",
         "url": "https://open.spotify.com/album/6wkXLgzdYjRdyRhNnhiKlj"
       },
@@ -4528,6 +4546,24 @@
       "duration_ms": 163400,
       "name": "QUI SOC JO",
       "url": "https://open.spotify.com/track/38QHlcrUHt3jdTPzTyDCOv"
+    },
+    {
+      "album": {
+        "name": "Quickie",
+        "url": "https://open.spotify.com/album/3AKEIh80EKaMB0rswBiDU1"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123673,
+      "name": "Quickie",
+      "url": "https://open.spotify.com/track/1KBVkz8PGjKlMwqCmuKSGN"
     },
     {
       "album": {

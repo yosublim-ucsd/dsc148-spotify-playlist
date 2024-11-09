@@ -1,12 +1,12 @@
 {
   "description": "Estas son las grandes voces del Hip Hop. Foto: Tres Coronas",
-  "num_followers": 21422,
+  "num_followers": 21428,
   "original_name": "Los Gallos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxGpIwAAAAAOjpmz3jjpyV1YxfuNKMiB",
+  "snapshot_id": "Zy2f+AAAAAClRY+mdVkXzrMaRwBAGOH5",
   "tracks": [
     {
       "added_at": "2024-10-04 03:55:44",
@@ -67,6 +67,30 @@
       "duration_ms": 169652,
       "name": "Qu\u00e9 Mentira Tan Perfecta",
       "url": "https://open.spotify.com/track/5JANca2cKP0GEUH0YORHAN"
+    },
+    {
+      "added_at": "2024-11-08 05:22:00",
+      "album": {
+        "name": "Juntas y Revueltas",
+        "url": "https://open.spotify.com/album/0tho8q03ovJdFZZ1n72JQO"
+      },
+      "artists": [
+        {
+          "name": "Lianna",
+          "url": "https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa"
+        },
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        },
+        {
+          "name": "El Arkeologo",
+          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Juntas y Revueltas",
+      "url": "https://open.spotify.com/track/6fUunh7NpHXcOcpUmmPlOO"
     },
     {
       "added_at": "2024-10-11 05:28:28",

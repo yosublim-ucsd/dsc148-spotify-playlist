@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: OG Eastbull,  NOUA UNSPE",
-  "num_followers": 19238,
+  "num_followers": 19255,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -391,26 +391,6 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
-        "name": "Meditez",
-        "url": "https://open.spotify.com/album/4WS4dyqzhQfQBoA94OHsfm"
-      },
-      "artists": [
-        {
-          "name": "Marko Glass",
-          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
-        },
-        {
-          "name": "Cruz",
-          "url": "https://open.spotify.com/artist/4EWzcAe7ZkhBJXL3f6b18f"
-        }
-      ],
-      "duration_ms": 149100,
-      "name": "Meditez",
-      "url": "https://open.spotify.com/track/22Sol4wqPwnl0DdSQWw3P7"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
         "name": "Lini\u0219te",
         "url": "https://open.spotify.com/album/0lARoFbtkq99Cadi5EOKKC"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 190263,
       "name": "Lini\u0219te",
       "url": "https://open.spotify.com/track/5XukVaJajfZiNivEYWNOiv"
+    },
+    {
+      "added_at": "2024-11-07 22:00:00",
+      "album": {
+        "name": "Meditez",
+        "url": "https://open.spotify.com/album/4WS4dyqzhQfQBoA94OHsfm"
+      },
+      "artists": [
+        {
+          "name": "Marko Glass",
+          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
+        },
+        {
+          "name": "Cruz",
+          "url": "https://open.spotify.com/artist/4EWzcAe7ZkhBJXL3f6b18f"
+        }
+      ],
+      "duration_ms": 149100,
+      "name": "Meditez",
+      "url": "https://open.spotify.com/track/22Sol4wqPwnl0DdSQWw3P7"
     },
     {
       "added_at": "2024-11-07 22:00:00",

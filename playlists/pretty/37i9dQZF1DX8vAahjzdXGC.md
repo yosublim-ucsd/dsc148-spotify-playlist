@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Geisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,366 likes - 90 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,426 likes - 91 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,17 +86,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 76 | [Pull The Trigger](https://open.spotify.com/track/7tjUniE32n551Jr9Ok5Pxq) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Pull The Trigger](https://open.spotify.com/album/3H0Rg7tKM2kzmIHiSeQ9qI) | 3:37 |
 | 77 | [Innocent Money \- Edit](https://open.spotify.com/track/2vjqlZE7rVhHL6m1psgJRV) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Come Ahead](https://open.spotify.com/album/69oeXCLAa7NA3CfrCRFHlT) | 3:33 |
 | 78 | [Sucker \(from the series Arcane League of Legends\)](https://open.spotify.com/track/540k1IRl5UPMhVhpu1LRQ3) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Sucker \(from the series Arcane League of Legends\)](https://open.spotify.com/album/7hQaRZQoy3R7ni0PzKajXT) | 3:44 |
-| 79 | [IYKYK](https://open.spotify.com/track/27jwZgJ6STvpzEGgfCVxtX) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [IYKYK](https://open.spotify.com/album/2sRGfYNbBeVkEMKVgaK84P) | 2:58 |
-| 80 | [worst critic](https://open.spotify.com/track/7bgYjXDyJ6oIXPX7H36ciz) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [worst critic](https://open.spotify.com/album/5ncjiTVdovGDVikrz5Oz7L) | 3:11 |
-| 81 | [Mindset](https://open.spotify.com/track/5XJm3lWxrPPYI6NrjYik5G) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Mindset](https://open.spotify.com/album/1jyQeLQXGX3RI1WRMKUhMR) | 3:10 |
-| 82 | [My Nova](https://open.spotify.com/track/1fFWrnl1bQo21CCLWlbSxF) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [My Nova](https://open.spotify.com/album/1hodUKU2mT3eqTaHvgdCzW) | 4:29 |
-| 83 | [i can’t sleep, i’m too caffeinated](https://open.spotify.com/track/6cF0htmDolevZLpfYrTlsF) | [SHN](https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq) | [i can’t sleep, i’m too caffeinated](https://open.spotify.com/album/3o8JByw1fmeqRD8bVSCUZc) | 3:06 |
-| 84 | [ONLY WE CAN SEE](https://open.spotify.com/track/6iR7pv7tkBT3vh9MPj9kBE) | [Coconut Sunday](https://open.spotify.com/artist/3eaueBHZTLZyyZs6vbmmbP), [Tsubasa Mori](https://open.spotify.com/artist/66UoonlNCjF9n9hYfvRfJ1) | [ONLY WE CAN SEE](https://open.spotify.com/album/4jbbccv59Kzs9uAwGsCG0o) | 3:45 |
-| 85 | [Mock\-Grown Man](https://open.spotify.com/track/2jadlxUYFNP2w8OAkUCKKE) | [PANNAGUS](https://open.spotify.com/artist/3hKi4HjosQk2QDyG3VF5CG) | [Mock\-Grown Man](https://open.spotify.com/album/0gCZGTv7p7bIGPJW3ofyhf) | 3:36 |
-| 86 | [Easy Lover](https://open.spotify.com/track/2cophDf3nptn000MZhUDom) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) | [Easy Lover](https://open.spotify.com/album/4cbUi5xZ4St7XOMNsLYd3j) | 2:41 |
-| 87 | [Better](https://open.spotify.com/track/1dLu4XKg0dXeyFs8b13x3U) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Harmless](https://open.spotify.com/album/7q3jfk5qZ0CQI81eJT2Y3b) | 2:41 |
-| 88 | [Menyala](https://open.spotify.com/track/3jW9BV1LqhddkaYrFA2MCy) | [Stacy](https://open.spotify.com/artist/6nuWJJNVyTzEiwG8gWFtuX) | [Menyala](https://open.spotify.com/album/6XTZRKGyQEXUdboMDCMOE1) | 3:45 |
-| 89 | [Ceritakan Padaku](https://open.spotify.com/track/5ECBD0z9K1JYWB2wrbeR8b) | [jsprgry](https://open.spotify.com/artist/7pYYetUDUpIKmVMHd0WIe0) | [Nari Januari \(Kesudahannya\)](https://open.spotify.com/album/1qdUrKLEcuFyqYbrsu8XpR) | 4:49 |
-| 90 | [Kau OK?](https://open.spotify.com/track/2TPURz2VZ3TBmVN7NcdqeZ) | [Ana Raffali](https://open.spotify.com/artist/0iIljLl6TqIxwed5kAjF9p) | [Kau OK?](https://open.spotify.com/album/0cPz8OZvpVDeQ41nhPeJBc) | 4:16 |
+| 79 | [Mikael](https://open.spotify.com/track/3DOq3iCt2I1X9cPAWdWGXB) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [Mikael](https://open.spotify.com/album/0bYXowGjv2zW5QN2nyvuO0) | 4:25 |
+| 80 | [IYKYK](https://open.spotify.com/track/27jwZgJ6STvpzEGgfCVxtX) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [IYKYK](https://open.spotify.com/album/2sRGfYNbBeVkEMKVgaK84P) | 2:58 |
+| 81 | [worst critic](https://open.spotify.com/track/7bgYjXDyJ6oIXPX7H36ciz) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [worst critic](https://open.spotify.com/album/5ncjiTVdovGDVikrz5Oz7L) | 3:11 |
+| 82 | [Mindset](https://open.spotify.com/track/5XJm3lWxrPPYI6NrjYik5G) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Mindset](https://open.spotify.com/album/1jyQeLQXGX3RI1WRMKUhMR) | 3:10 |
+| 83 | [My Nova](https://open.spotify.com/track/1fFWrnl1bQo21CCLWlbSxF) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [My Nova](https://open.spotify.com/album/1hodUKU2mT3eqTaHvgdCzW) | 4:29 |
+| 84 | [i can’t sleep, i’m too caffeinated](https://open.spotify.com/track/6cF0htmDolevZLpfYrTlsF) | [SHN](https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq) | [i can’t sleep, i’m too caffeinated](https://open.spotify.com/album/3o8JByw1fmeqRD8bVSCUZc) | 3:06 |
+| 85 | [ONLY WE CAN SEE](https://open.spotify.com/track/6iR7pv7tkBT3vh9MPj9kBE) | [Coconut Sunday](https://open.spotify.com/artist/3eaueBHZTLZyyZs6vbmmbP), [Tsubasa Mori](https://open.spotify.com/artist/66UoonlNCjF9n9hYfvRfJ1) | [ONLY WE CAN SEE](https://open.spotify.com/album/4jbbccv59Kzs9uAwGsCG0o) | 3:45 |
+| 86 | [Mock\-Grown Man](https://open.spotify.com/track/2jadlxUYFNP2w8OAkUCKKE) | [PANNAGUS](https://open.spotify.com/artist/3hKi4HjosQk2QDyG3VF5CG) | [Mock\-Grown Man](https://open.spotify.com/album/0gCZGTv7p7bIGPJW3ofyhf) | 3:36 |
+| 87 | [Easy Lover](https://open.spotify.com/track/2cophDf3nptn000MZhUDom) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) | [Easy Lover](https://open.spotify.com/album/4cbUi5xZ4St7XOMNsLYd3j) | 2:41 |
+| 88 | [Better](https://open.spotify.com/track/1dLu4XKg0dXeyFs8b13x3U) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Harmless](https://open.spotify.com/album/7q3jfk5qZ0CQI81eJT2Y3b) | 2:41 |
+| 89 | [Menyala](https://open.spotify.com/track/3jW9BV1LqhddkaYrFA2MCy) | [Stacy](https://open.spotify.com/artist/6nuWJJNVyTzEiwG8gWFtuX) | [Menyala](https://open.spotify.com/album/6XTZRKGyQEXUdboMDCMOE1) | 3:45 |
+| 90 | [Ceritakan Padaku](https://open.spotify.com/track/5ECBD0z9K1JYWB2wrbeR8b) | [jsprgry](https://open.spotify.com/artist/7pYYetUDUpIKmVMHd0WIe0) | [Nari Januari \(Kesudahannya\)](https://open.spotify.com/album/1qdUrKLEcuFyqYbrsu8XpR) | 4:49 |
+| 91 | [Kau OK?](https://open.spotify.com/track/2TPURz2VZ3TBmVN7NcdqeZ) | [Ana Raffali](https://open.spotify.com/artist/0iIljLl6TqIxwed5kAjF9p) | [Kau OK?](https://open.spotify.com/album/0cPz8OZvpVDeQ41nhPeJBc) | 4:16 |
 
 Snapshot ID: `ZyzyQAAAAAB5BI/F9s/6m094Td1blAYQ`

@@ -1,12 +1,12 @@
 {
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
-  "num_followers": 731966,
+  "num_followers": 731940,
   "original_name": "NCS Releases",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "AAAX7LoU8CVgMC0yFYdm3ObZJXjfCtre",
+  "snapshot_id": "AAAX77jQTmxa4fevWsySrhiiME4WUT9S",
   "tracks": [
     {
       "added_at": "2024-10-03 16:19:19",
@@ -165,28 +165,20 @@
       "url": "https://open.spotify.com/track/7f4Gk0qPZ3kOYLE1Nngilx"
     },
     {
-      "added_at": "2024-11-01 12:49:06",
+      "added_at": "2024-11-08 15:28:08",
       "album": {
-        "name": "Perfection",
-        "url": "https://open.spotify.com/album/1SIzNOI2xtlOmv4MsdpwVw"
+        "name": "Back on Dash",
+        "url": "https://open.spotify.com/album/3uOH80WiPsBfObjNAzXm32"
       },
       "artists": [
         {
-          "name": "Mangoo",
-          "url": "https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3"
-        },
-        {
-          "name": "B3nte",
-          "url": "https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl"
-        },
-        {
-          "name": "Derek Cate",
-          "url": "https://open.spotify.com/artist/6obanUFiN0hVgGy3Nng7FQ"
+          "name": "DJVI",
+          "url": "https://open.spotify.com/artist/5rn3BUzOWjGGWkCSHQsADZ"
         }
       ],
-      "duration_ms": 163636,
-      "name": "Perfection",
-      "url": "https://open.spotify.com/track/35uYMUD5cEofl6Z7g2T5x6"
+      "duration_ms": 186299,
+      "name": "Back on Dash",
+      "url": "https://open.spotify.com/track/66i7MyCc1Tq4iGZxxHOCej"
     },
     {
       "added_at": "2024-10-03 16:19:19",
@@ -403,6 +395,30 @@
       "duration_ms": 180000,
       "name": "Happier Now",
       "url": "https://open.spotify.com/track/6aDhxjsjRJ9yys2g7Dm8qW"
+    },
+    {
+      "added_at": "2024-11-01 12:49:06",
+      "album": {
+        "name": "Perfection",
+        "url": "https://open.spotify.com/album/1SIzNOI2xtlOmv4MsdpwVw"
+      },
+      "artists": [
+        {
+          "name": "Mangoo",
+          "url": "https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3"
+        },
+        {
+          "name": "B3nte",
+          "url": "https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl"
+        },
+        {
+          "name": "Derek Cate",
+          "url": "https://open.spotify.com/artist/6obanUFiN0hVgGy3Nng7FQ"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Perfection",
+      "url": "https://open.spotify.com/track/35uYMUD5cEofl6Z7g2T5x6"
     },
     {
       "added_at": "2024-10-04 15:23:22",

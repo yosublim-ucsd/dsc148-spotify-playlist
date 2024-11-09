@@ -2171,6 +2171,24 @@
     },
     {
       "album": {
+        "name": "Marilag",
+        "url": "https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157692,
+      "name": "Marilag",
+      "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
+    },
+    {
+      "album": {
         "name": "Mariposa",
         "url": "https://open.spotify.com/album/6dSj3xF4g0MqpNAF7QBeAk"
       },
@@ -3370,6 +3388,28 @@
       "duration_ms": 238610,
       "name": "Sway",
       "url": "https://open.spotify.com/track/5xvZKZKmaO1wmicwNL273v"
+    },
+    {
+      "album": {
+        "name": "Sweet Nothings (Chapter 2)",
+        "url": "https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        },
+        {
+          "name": "Jay R",
+          "url": "https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159250,
+      "name": "sweet nothings",
+      "url": "https://open.spotify.com/track/5aC91iyzOTL31zeZOHsmip"
     },
     {
       "album": {

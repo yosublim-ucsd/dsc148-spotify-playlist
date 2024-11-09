@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op maandag met deze zachte popliedjes.
 
-215 songs - 12 hr 53 min
+216 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Shine](https://open.spotify.com/track/40N7Wlb7vjw5XRIo6XhlDr) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm \(Deluxe Version\)](https://open.spotify.com/album/1eS5FLI6q24t4wONeOzrj5) | 3:02 | 2017-12-03 | 2023-11-09 |
 | [Shine](https://open.spotify.com/track/1z7ipCbtUKz3Nepd2r39bc) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before The Snowstorm](https://open.spotify.com/album/6X4lsAafU2WXiThVoO9kF4) | 3:02 | 2017-12-03 | 2024-04-19 |
 | [Slow Dance With The Devil](https://open.spotify.com/track/5gnqu97deHhh3MBfeJXXev) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [The Temple EP](https://open.spotify.com/album/6mFi7ayKBXA3tz9ucQ9mb9) | 3:27 | 2017-12-03 |  |
+| [Slow Down](https://open.spotify.com/track/1Ku0rcSxsvFDpzE6hW597H) | [Marle Thomson](https://open.spotify.com/artist/0QQXt83k6HdOLRfGmiAZwY) | [Slow Down](https://open.spotify.com/album/35WNLrZQLucMaXJ8x0GMYm) | 2:38 | 2024-11-08 |  |
 | [So They Say](https://open.spotify.com/track/17O598wcIrissGHCqGuMM0) | [RUKHSANA](https://open.spotify.com/artist/51WveHy70ZoLyFjZVgM9bn) | [September Songs](https://open.spotify.com/album/0dyGgvBAKPW2mOXlfrNR9M) | 2:56 | 2017-12-03 |  |
 | [So They Say](https://open.spotify.com/track/10RB3ZCBIKde2FAn0ba5wJ) | [Rukhsana Merrise](https://open.spotify.com/artist/51WveHy70ZoLyFjZVgM9bn) | [September Songs](https://open.spotify.com/album/5BAypjSQ8ggV9snAKmHInQ) | 2:56 | 2017-12-03 | 2024-04-19 |
 | [Soldier On](https://open.spotify.com/track/5ciRElWhvA0LuG2hQi90Ie) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Soldier On](https://open.spotify.com/album/1h86JSDcGsMsWgPFpoZ0Aj) | 3:27 | 2020-07-29 |  |

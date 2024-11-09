@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Pierre Lapointe",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Jay Sc\u00f8tt",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 179866,
       "name": "48H",
       "url": "https://open.spotify.com/track/3cYZm8Opme14PnSlJe7Fvw"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 173080,
       "name": "Coup de poing",
       "url": "https://open.spotify.com/track/1LaRRI4KI5mp68FvI2OBMv"
@@ -451,6 +451,46 @@
     },
     {
       "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/6UtBF8mZYbiL0lhmHvl13u"
+      },
+      "artists": [
+        {
+          "name": "Caroline Savoie",
+          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/0fwqRA13Is4S1HCDW5NeuS"
+    },
+    {
+      "album": {
+        "name": "Aliocha Schneider (Deluxe)",
+        "url": "https://open.spotify.com/album/7zI1sbxIUXolMmJMRt37OZ"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        },
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Ensemble (feat. Charlotte Cardin)",
+      "url": "https://open.spotify.com/track/49LdsRKerqExlBslaCA8qw"
+    },
+    {
+      "album": {
         "name": "Ensemble (Radio Edit)",
         "url": "https://open.spotify.com/album/0KAc9578FWtoMFmv78oZKu"
       },
@@ -516,7 +556,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 195000,
       "name": "Feu de paille",
       "url": "https://open.spotify.com/track/0Uryfi1AWwgD4eNhKmTVRo"
@@ -880,6 +920,24 @@
       "duration_ms": 135500,
       "name": "La protagoniste",
       "url": "https://open.spotify.com/track/3WClLiQH8U19rNzxTPIAnA"
+    },
+    {
+      "album": {
+        "name": "Testament",
+        "url": "https://open.spotify.com/album/0zRtuGqoJR41mwDLRBOMk0"
+      },
+      "artists": [
+        {
+          "name": "Rick et les Bons Moments",
+          "url": "https://open.spotify.com/artist/3ZTHWlS8bpAA446rY8ntVQ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218773,
+      "name": "La t\u00eate ailleurs",
+      "url": "https://open.spotify.com/track/2YvxF2qQruCoBtWcOfzwZP"
     },
     {
       "album": {
@@ -1534,7 +1592,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 185893,
       "name": "Quitter la ville",
       "url": "https://open.spotify.com/track/2P27FSOybu4OXzkLkyCH4u"
@@ -2018,6 +2076,24 @@
       "duration_ms": 164503,
       "name": "\u00c0 l'envers",
       "url": "https://open.spotify.com/track/0f3acPxu7bt8ukIWqUZJAE"
+    },
+    {
+      "album": {
+        "name": "Perro del amor",
+        "url": "https://open.spotify.com/album/458c5LdX8nbbNR3qtyQzBc"
+      },
+      "artists": [
+        {
+          "name": "Yann Perreau",
+          "url": "https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173993,
+      "name": "\u00c0 la bonne place au bon moment",
+      "url": "https://open.spotify.com/track/2kEcw9Ek5Knk1qL8iyypqL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-102 songs - 5 hr 43 min
+103 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Puntos Suspensivos](https://open.spotify.com/track/2ySUUTXVJkPqOfN2jmPeAW) | [Latam Sonora](https://open.spotify.com/artist/4AxOu00BxKnsEKsDf4lfpa) | [Puntos Suspensivos](https://open.spotify.com/album/0QyB4CmC5FdWCtdJiZ9h3K) | 2:50 | 2022-05-06 |  |
 | [Que No Quede Huella](https://open.spotify.com/track/130fvcSaaPEqqwVAvaHfQK) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Que No Quede Huella](https://open.spotify.com/album/2okjeW5I1Bsox3nHC8hXtb) | 3:49 | 2022-05-06 |  |
 | [Reggaeton Lento](https://open.spotify.com/track/5pT4ZI8pghpB294iQOds0E) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [Lemonchamp](https://open.spotify.com/album/4Ie3Z2Ss3MPXX0OVjAnT9y) | 2:36 | 2022-05-06 | 2024-04-19 |
+| [Reggaetón Lento](https://open.spotify.com/track/26AffL6B6Mey5rRnv0gZbh) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [LemonChamp](https://open.spotify.com/album/1w5qPpAeRL2vq8WBKOgIMz) | 2:36 | 2022-05-06 |  |
 | [Sabes A Chocolate](https://open.spotify.com/track/3avKbg8OWkwFhucGI7WE22) | [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Pee Wee Gonzalez](https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB) | [Los Remixes 2.0](https://open.spotify.com/album/1GeqhGpn2rbPNQP1SqRwpK) | 3:46 | 2022-05-06 |  |
 | [Sabes A Chocolate](https://open.spotify.com/track/1JxRbEr1CKM16m4ovHg2hz) | [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Pee Wee Gonzalez](https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB) | [THE BEST OF](https://open.spotify.com/album/4gqN1u9QLecW2piklO69l0) | 3:47 | 2022-05-06 | 2024-04-19 |
 | [Sexo en Fuego](https://open.spotify.com/track/2R77a6R33wXYmqGkzcnnyV) | [Los Master Plus](https://open.spotify.com/artist/5mrBEGdNTaiavWCmaNet6z) | [Puro Cumbión Legendario](https://open.spotify.com/album/3axQ66u4Yd3mcv3OUS1Ru2) | 3:05 | 2022-05-06 |  |
@@ -100,7 +101,7 @@
 | [Tu sin mi](https://open.spotify.com/track/0rbBqsCqIfFhRtiFoNhtcL) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [Cumbia villera \- La Champions Liga](https://open.spotify.com/album/6pAKn3tYHVyPVjZzKwVruh) | 3:50 | 2022-05-06 |  |
 | [Tápenme Porque Me Encuero](https://open.spotify.com/track/0vHdWjSdo7FgtbxJtQJmUw) | [El Conjunto Nueva Ola](https://open.spotify.com/artist/5FPtuYKcBuI5ot70T8c8U1) | [Mitotem](https://open.spotify.com/album/4uKx91dx0xrW3JYhxKTb1e) | 3:45 | 2022-05-06 |  |
 | [Una Lady Como Tú](https://open.spotify.com/track/4cnac0Hd5P4nDPCB18yFUw) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [Lemonchamp](https://open.spotify.com/album/4ZefritY8dZnuOMWbIgt1T) | 2:20 | 2022-05-06 | 2024-04-19 |
-| [Una Lady Como Tú](https://open.spotify.com/track/3pMbfN9l3T4gfUH3UPGPvE) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [LemonChamp](https://open.spotify.com/album/1iJB7BkodWrNTwQDmmdsAm) | 2:20 | 2022-05-06 |  |
+| [Una Lady Como Tú](https://open.spotify.com/track/3pMbfN9l3T4gfUH3UPGPvE) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [LemonChamp](https://open.spotify.com/album/1iJB7BkodWrNTwQDmmdsAm) | 2:20 | 2022-05-06 | 2024-11-09 |
 | [Y como es el](https://open.spotify.com/track/1yBWVlFXC1AJ24UwuL147W) | [Sonora Skandalo](https://open.spotify.com/artist/60El5gpHTkzTCmrNz0VG7i) | [Grandes Exitos](https://open.spotify.com/album/2C4CoZHH6lJfkS347Rhnov) | 3:16 | 2022-05-06 | 2024-10-28 |
 | [Y Como Es Él](https://open.spotify.com/track/0KCwPtLRb2aGxAQ4qjTRdK) | [Sonora Skandalo](https://open.spotify.com/artist/60El5gpHTkzTCmrNz0VG7i) | [Éxitos de Oro](https://open.spotify.com/album/6BnHNHGHD9QCcUcpJFZn6A) | 3:16 | 2022-05-06 | 2024-04-19 |
 | [Ya Me Enteré](https://open.spotify.com/track/4G79YmEkyEbAzo5NsDRhC4) | [Grupo Los Kiero de Edgar Zacary](https://open.spotify.com/artist/0Dp5uzlISYu38jwPXsGPqF) | [Ya Me Enteré](https://open.spotify.com/album/7klSaA9WznpL3G4xvmLjPk) | 3:06 | 2022-05-06 |  |

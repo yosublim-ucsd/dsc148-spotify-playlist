@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "guitarras ag\u00fcitadas pa' cantarle al amor y al desamor \ud83d\udc94\ud83d\ude41 Yahritza y su Esencia en portada. ",
+  "description": "guitarras ag\u00fcitadas pa' cantarle al amor y al desamor \ud83d\udc94\ud83d\ude41 Jasiel Nu\u00f1ez en portada. ",
   "name": "sad sierre\u00f1o",
   "tracks": [
     {
@@ -1664,6 +1664,28 @@
       "duration_ms": 196832,
       "name": "Elvira",
       "url": "https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2"
+    },
+    {
+      "album": {
+        "name": "LA ODISEA",
+        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307565,
+      "name": "EN MI MUNDO",
+      "url": "https://open.spotify.com/track/0lQogzZgV4XwuUTasz3nPL"
     },
     {
       "album": {
@@ -3554,7 +3576,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 265561,
       "name": "Modelo",
       "url": "https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ"
@@ -3801,6 +3823,24 @@
     },
     {
       "album": {
+        "name": "NO HAY AMOR",
+        "url": "https://open.spotify.com/album/28yrmTeEqYWhZ8OfFB43j0"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "NO HAY AMOR",
+      "url": "https://open.spotify.com/track/64XlRJwJ9cfmhpIrr1oGo5"
+    },
+    {
+      "album": {
         "name": "No Hay Nadie Mas",
         "url": "https://open.spotify.com/album/68stO76KyOkmVTvhYjwDHu"
       },
@@ -3954,6 +3994,46 @@
       "duration_ms": 155279,
       "name": "No Tengo Escape",
       "url": "https://open.spotify.com/track/7vHICHFIVRi5lTMaAOPEoB"
+    },
+    {
+      "album": {
+        "name": "LA ODISEA",
+        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226568,
+      "name": "NO VOY A ODIARTE",
+      "url": "https://open.spotify.com/track/24pZpHXiVFiTdd3lNYUhiU"
+    },
+    {
+      "album": {
+        "name": "LA ODISEA",
+        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232263,
+      "name": "NOCHES FR\u00cdAS",
+      "url": "https://open.spotify.com/track/4YVLgx6LURPo1VNeaqBT5x"
     },
     {
       "album": {
@@ -4728,7 +4808,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 179861,
       "name": "Quedate",
       "url": "https://open.spotify.com/track/14aiUh6meCZGssiU45aFdr"
@@ -6006,7 +6086,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 189800,
       "name": "Torre Infiel",
       "url": "https://open.spotify.com/track/7qtE7Ib7SIRDDZnRVEqjts"
@@ -6692,7 +6772,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 187132,
       "name": "XLAS NUBES",
       "url": "https://open.spotify.com/track/2iTbYFnbVC7JjwncdGizIW"
@@ -6815,6 +6895,24 @@
     },
     {
       "album": {
+        "name": "Ya Le Dijiste",
+        "url": "https://open.spotify.com/album/2LiqsNx82tEQXsIAehBzY0"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7fDr7tMkSGgH1KZCCybxzf"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Ya Le Dijiste",
+      "url": "https://open.spotify.com/track/1AGVkZeo2M4Svtcruwy2oN"
+    },
+    {
+      "album": {
         "name": "Ya No Estoy Dolido",
         "url": "https://open.spotify.com/album/2nngUrtFjoEjByLvyaHS9g"
       },
@@ -6852,7 +6950,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 180555,
       "name": "YA NO ME HABLES BB",
       "url": "https://open.spotify.com/track/4iK2IJiT6Nsi59RZYWiKAV"

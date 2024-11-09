@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,227 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,274 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 79 | [Luz de Cumbia](https://open.spotify.com/track/0HItkk1upCaJ3CIkug0cF3) | [Anibal Velasquez](https://open.spotify.com/artist/0wTrWHg7n7oL5UGT0I3VqE), [José Velásquez](https://open.spotify.com/artist/6tgbHKkvt86JIm5cc3EHJg) | [Historia Musical de Aníbal Velásquez](https://open.spotify.com/album/5EsZaXFKjzsUMgFYmaaAkk) | 2:50 |
 | 80 | [Cachondea](https://open.spotify.com/track/1k8dsltxoZuZNtHFO5nfy8) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Historia Musical de Fruko: Éxitos](https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB) | 4:57 |
 | 81 | [Charanga Campesina](https://open.spotify.com/track/7kgjH9TT0cZOUI4mHA1CNI) | [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Historia Musical de Calixto Ochoa: 40 Éxitos](https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE) | 2:38 |
-| 82 | [Bocachico Sinuano](https://open.spotify.com/track/67dqgjkrOKmwyXFInRGCDa) | [La Sonora Cordobesa](https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK) | [Historia Musical de la Sonora Cordobesa](https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0) | 2:40 |
-| 83 | [Adiós](https://open.spotify.com/track/1prFNlcD5OYRNPJKqs8n2c) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo), [Rochy](https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf) | [Sonido Digital Bailables](https://open.spotify.com/album/2jWWVfRu7kY8yq48Cd7nN2) | 3:29 |
+| 82 | [Adiós](https://open.spotify.com/track/1prFNlcD5OYRNPJKqs8n2c) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo), [Rochy](https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf) | [Sonido Digital Bailables](https://open.spotify.com/album/2jWWVfRu7kY8yq48Cd7nN2) | 3:29 |
+| 83 | [Bocachico Sinuano](https://open.spotify.com/track/67dqgjkrOKmwyXFInRGCDa) | [La Sonora Cordobesa](https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK) | [Historia Musical de la Sonora Cordobesa](https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0) | 2:40 |
 | 84 | [La Marcha del Pato](https://open.spotify.com/track/7kvgk6wxb1o9sB2Vkr7UQd) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Historia Musical de Afrosound: 40 Éxitos](https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM) | 4:08 |
 | 85 | [Dame Tu Querer](https://open.spotify.com/track/1Yc1LJO98ivNjwB94AfODf) | [Los Ocho De Colombia](https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO) | [Historia Musical de los Ocho de Colombia](https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq) | 4:07 |
 | 86 | [Mi Amor Es Grande](https://open.spotify.com/track/2hjosXarCRUTxxIexYV9v1) | [El Tropicombo](https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM) | [Historia Musical de el Tropicombo](https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx) | 3:59 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 94 | [Quiéreme, Quiéreme](https://open.spotify.com/track/3QHHdtpkiTicUcixCw7A22) | [Chico Cervantes Y Su Banda](https://open.spotify.com/artist/1TayRnurziz0kiOlY1itt8), [Pacho Tobío y Chico](https://open.spotify.com/artist/0UlIHCZFLktB5yGPFwQudm) | [Historia Musical 14 Cañonazos \(1971 \- 1980\)](https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx) | 5:42 |
 | 95 | [Oye](https://open.spotify.com/track/0RgkYy8cFIFju90PGSMg45) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Historia Musical de la Sonora Dinamita: 40 Éxitos](https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD) | 3:09 |
 | 96 | [Bacano](https://open.spotify.com/track/5OQxj4awrNDYMnvNAzwSjQ) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 3:29 |
-| 97 | [Te Están Matando los Años](https://open.spotify.com/track/6ofpm7g9hRfIDuP2VDY4u5) | [Lucho Cuadros](https://open.spotify.com/artist/4mJGHbUaO9nCMEU1uSascK), [Eliecer Ochoa](https://open.spotify.com/artist/1Wp7AgwEYs4sKtPCjvChwP) | [Historia Musical 14 Cañonazos \(1971 \- 1980\)](https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx) | 3:34 |
+| 97 | [El Viejo Baúl](https://open.spotify.com/track/2xVpum8zwiaElEHB889JtU) | [Ismael Rudas](https://open.spotify.com/artist/1Q9t63kYBZgRHiasXyNpo8) | [Historia Musical 14 Cañonazos \(1971 \- 1980\)](https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx) | 2:58 |
 | 98 | [El Ausente](https://open.spotify.com/track/01iowdZND8PTDZ5r8dQclR) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Historia Musical de Fruko: Éxitos](https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB) | 4:02 |
-| 99 | [El Viejo Baúl](https://open.spotify.com/track/2xVpum8zwiaElEHB889JtU) | [Ismael Rudas](https://open.spotify.com/artist/1Q9t63kYBZgRHiasXyNpo8) | [Historia Musical 14 Cañonazos \(1971 \- 1980\)](https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx) | 2:58 |
+| 99 | [Te Están Matando los Años](https://open.spotify.com/track/6ofpm7g9hRfIDuP2VDY4u5) | [Lucho Cuadros](https://open.spotify.com/artist/4mJGHbUaO9nCMEU1uSascK), [Eliecer Ochoa](https://open.spotify.com/artist/1Wp7AgwEYs4sKtPCjvChwP) | [Historia Musical 14 Cañonazos \(1971 \- 1980\)](https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx) | 3:34 |
 | 100 | [El Escorpión](https://open.spotify.com/track/5CKWokUI2JIgROo61Rhh4Q) | [Víctor Salamanca](https://open.spotify.com/artist/5MMzd4zFRwCc1gyTaWPhiI) | [Costa Alegre](https://open.spotify.com/album/6nkQ2IWo8ftFhbionv8sdo) | 2:43 |
 
 Snapshot ID: `ZpG4gwAAAADGjuFP1IBgyurFFy0Luo3q`

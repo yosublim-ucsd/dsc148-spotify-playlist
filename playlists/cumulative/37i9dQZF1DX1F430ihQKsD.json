@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Hildegard (Helena Deland x Ouri) ",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Mon Doux Saigneur",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -4484,7 +4484,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 184546,
       "name": "Je suis entr\u00e9",
       "url": "https://open.spotify.com/track/1ZoQwSE1hr3JdzXxvcgGgm"
@@ -4676,6 +4676,24 @@
       "duration_ms": 178720,
       "name": "L'Habitude",
       "url": "https://open.spotify.com/track/3bNgr5gy1gY3yoGRuVo5Wk"
+    },
+    {
+      "album": {
+        "name": "Tout va bien",
+        "url": "https://open.spotify.com/album/6E9sPaFsaf2Fv7UI8M6jn2"
+      },
+      "artists": [
+        {
+          "name": "Minou",
+          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198422,
+      "name": "L'ordre naturel des choses",
+      "url": "https://open.spotify.com/track/0ZZKJhvDHSHawdSKJkxPpC"
     },
     {
       "album": {

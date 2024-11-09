@@ -9331,6 +9331,28 @@
     },
     {
       "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/0WrkTANWeyR7klt1HRoRW6"
+      },
+      "artists": [
+        {
+          "name": "Edez",
+          "url": "https://open.spotify.com/artist/5xKwjfZZfX18r0Lq0TA5QE"
+        },
+        {
+          "name": "DOTTi The Deity",
+          "url": "https://open.spotify.com/artist/1APmyJUpl7Z2JeJ2M7iMsR"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207890,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/0YzxXvJEokptYlZ50ppKsO"
+    },
+    {
+      "album": {
         "name": "Can't bring me down",
         "url": "https://open.spotify.com/album/4KfexmbacYUuffHJA2w98l"
       },
@@ -18213,7 +18235,7 @@
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 505776,
+      "duration_ms": 507857,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/2EiWrz9GFeka1rdT8redKn"
     },
@@ -39925,6 +39947,24 @@
     },
     {
       "album": {
+        "name": "Look In My Eyes",
+        "url": "https://open.spotify.com/album/3vdFgPx9x0ua8CWdrWFFGG"
+      },
+      "artists": [
+        {
+          "name": "Yingi Mao",
+          "url": "https://open.spotify.com/artist/7KEhvVXDNzDx5LU6e043lu"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181132,
+      "name": "Look In My Eyes",
+      "url": "https://open.spotify.com/track/2AGV0QN8xVB85HT3aqyTrx"
+    },
+    {
+      "album": {
         "name": "Lord Arise (Let The Enemy Be Scattered)",
         "url": "https://open.spotify.com/album/2zN6oelCzl8mNjZ4cBM7DT"
       },
@@ -51850,6 +51890,28 @@
       "duration_ms": 288418,
       "name": "On My Side",
       "url": "https://open.spotify.com/track/6cD4ZYiVBG8SY5RkYNp1hb"
+    },
+    {
+      "album": {
+        "name": "On My Side",
+        "url": "https://open.spotify.com/album/3iNEVE1IXcfnZAqXMJctwf"
+      },
+      "artists": [
+        {
+          "name": "Ko'rale",
+          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
+        },
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214193,
+      "name": "On My Side",
+      "url": "https://open.spotify.com/track/6fmmsEzjNRec8f4migh50T"
     },
     {
       "album": {

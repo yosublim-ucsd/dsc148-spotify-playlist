@@ -4,7 +4,7 @@
 
 > Only the hottest Hip Hop from Usimamane, DJ Slique, Tyler, The Creator, and more...
 
-336 songs - 18 hr 10 min
+337 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Extravagant](https://open.spotify.com/track/2s2OJc3jYCGPIkA2nWkkn0) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Case\-Klowzed](https://open.spotify.com/artist/7gVgCsUONh0i70WAvyOlkG) | [Ivyson Army Tour Mixtape](https://open.spotify.com/album/0K1Kj60U6juaomxBtPoaS4) | 3:39 | 2022-09-29 | 2023-01-24 |
 | [Fact \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/5ht9obvnnWeW4eoRtPAoQD) | [Ghostluvme](https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Fact \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/4lpOnXYfA4BRnZzx54EhqX) | 2:54 | 2023-03-10 | 2023-05-06 |
 | [FAN](https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FAN](https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK) | 2:36 | 2023-09-22 | 2024-07-19 |
+| [Fast Lane](https://open.spotify.com/track/4FqnxUO1rxOrIDnpYqllls) | [Jolly B](https://open.spotify.com/artist/2OgOlMcLNRmEAjnBJE9NFG), [Mochen](https://open.spotify.com/artist/7DkwT8IpIAjcquKnCwyFRg), [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt) | [Fast Lane](https://open.spotify.com/album/0rx9einNKykZUWhkFd5tOi) | 3:11 | 2024-11-08 |  |
 | [Favorite Song \(with Khalid\) \[Remix\]](https://open.spotify.com/track/5f2pD2WaRRe1rmsyzQDcpl) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Favorite Song \(with Khalid\) \[Remix\]](https://open.spotify.com/album/6aq5eEl7b51s5OUYV8ve6b) | 3:43 | 2023-05-05 | 2024-02-09 |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2024-02-08 | 2024-03-16 |
 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 | 2023-10-06 | 2024-09-13 |

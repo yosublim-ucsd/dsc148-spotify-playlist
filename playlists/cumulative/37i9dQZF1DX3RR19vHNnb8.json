@@ -732,7 +732,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 152558,
       "name": "Breaking News",
       "url": "https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 241567,
       "name": "CHAKIDO",
       "url": "https://open.spotify.com/track/42UMrOmFMabE0zT2lSvtuF"
@@ -874,7 +874,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 170041,
       "name": "Clowns In A Circus",
       "url": "https://open.spotify.com/track/4myCPEv2AGuG2myeEerx9G"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 197746,
       "name": "Don't Pressure Me (feat. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/2gCSM7hC0VH4qJYenhkK7g"
@@ -1477,6 +1477,28 @@
     },
     {
       "album": {
+        "name": "Gun Shots",
+        "url": "https://open.spotify.com/album/6G1SBdqcOQSsLbNmK4qzff"
+      },
+      "artists": [
+        {
+          "name": "Ziggy4x",
+          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158784,
+      "name": "Gun Shots",
+      "url": "https://open.spotify.com/track/6hQkNoz2hhSxdRXSc7lHto"
+    },
+    {
+      "album": {
         "name": "Guy Man",
         "url": "https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD"
       },
@@ -1558,6 +1580,28 @@
       "duration_ms": 199322,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG"
+    },
+    {
+      "album": {
+        "name": "Hello Habibi",
+        "url": "https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194661,
+      "name": "Hello Habibi",
+      "url": "https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY"
     },
     {
       "album": {
@@ -2278,7 +2322,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 227256,
       "name": "LIKE",
       "url": "https://open.spotify.com/track/68te6KLnaeYkrAsAlzGGlD"
@@ -2500,7 +2544,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 107412,
       "name": "MC OLUOMO",
       "url": "https://open.spotify.com/track/7d0wP4hqtVIQ23H5uEnqBm"
@@ -2872,7 +2916,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 161436,
       "name": "Ojugom Isi",
       "url": "https://open.spotify.com/track/2bi2kMSivzY1iGdUsbErkj"
@@ -4292,7 +4336,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-29",
+      "date_removed": null,
       "duration_ms": 235520,
       "name": "Will Be",
       "url": "https://open.spotify.com/track/3e9rQOdiIk8LP3mFZbzmaS"

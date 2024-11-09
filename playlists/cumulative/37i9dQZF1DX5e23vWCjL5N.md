@@ -2,9 +2,9 @@
 
 ### [Liricisti](https://open.spotify.com/playlist/37i9dQZF1DX5e23vWCjL5N)
 
-> Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Cosang
+> Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Nayt
 
-199 songs - 10 hr 29 min
+200 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,12 +50,13 @@
 | [CATTIVE INTENZIONI \(feat\. Salmo\)](https://open.spotify.com/track/0OmnpUgUBVcCnKdS7o9P03) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [IO NON HO PAURA](https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ) | 2:48 | 2022-12-06 | 2023-05-05 |
 | [CATTIVE INTENZIONI \(feat\. Salmo\)](https://open.spotify.com/track/1qeKaa5Cyw1Xi6PzoNpen5) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 2:48 | 2022-11-17 | 2022-12-08 |
 | [Cchiù tiempo \(feat\. Club Dogo\)](https://open.spotify.com/track/7H7NBg9NjyEy2eV8nQ22TR) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 3:23 | 2024-08-29 |  |
+| [Certe bugie](https://open.spotify.com/track/5AajFA0IrhC8Qp4wFS0IjV) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Certe bugie](https://open.spotify.com/album/5lgdyo1ZiB1N7eNMyhcxZ3) | 3:06 | 2024-11-08 |  |
 | [Chic](https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Fenice](https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I) | 3:32 | 2022-04-15 |  |
 | [Ciao Bella](https://open.spotify.com/track/5JuidT91MdTPOEDHL4u3fp) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:06 | 2023-11-17 |  |
 | [Cicatrici \(feat\. Tedua\)](https://open.spotify.com/track/4tnNQ9nSgMCj0xjE2Q4spX) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:12 | 2022-11-24 | 2023-04-28 |
 | [Città del Fumo PT.2 \(feat\. Vale Pain\)](https://open.spotify.com/track/3hhrUjXOFIR4VqtZjj6dy0) | [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN), [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [Città del Fumo PT.2 \(feat\. Vale Pain\)](https://open.spotify.com/album/5o6USQtnT18kqF3eIEQ2VW) | 2:21 | 2024-10-17 |  |
 | [Cocaine](https://open.spotify.com/track/5xIlm5Scz7D2UFo6RyMMQE) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 3:05 | 2022-04-15 |  |
-| [COL CUORE IN GOLA \- lords of dogtown](https://open.spotify.com/track/2ypcWaliFPJ9c3JeWMqi1w) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 3:08 | 2023-05-18 |  |
+| [COL CUORE IN GOLA \- lords of dogtown](https://open.spotify.com/track/2ypcWaliFPJ9c3JeWMqi1w) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 3:08 | 2023-05-18 | 2024-11-09 |
 | [Complicato](https://open.spotify.com/track/6d7BZ0WMfu6OlgA3hIh58P) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:13 | 2023-11-17 |  |
 | [COOLIN BREAK \(feat\. Nitro & Enzo Dong\)](https://open.spotify.com/track/5nt0lVfzmmuiU1Zk6PbWbM) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [INVISIBILI](https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL) | 3:00 | 2023-09-14 | 2023-11-03 |
 | [Cosa resterà di noi](https://open.spotify.com/track/4hfuteAlDAbNMbz0EsBTpZ) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [9K](https://open.spotify.com/album/1JTbdGtXi6D1y4o9s0SSUW) | 2:31 | 2024-10-09 |  |

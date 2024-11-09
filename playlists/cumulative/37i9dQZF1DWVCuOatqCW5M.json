@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from your fav I-Pop artists. Cover- Kanika Kapoor",
+  "description": "Latest music from your fav I-Pop artists. Cover- Amit Trivedi & Neha Kakkar",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -4497,6 +4497,28 @@
     },
     {
       "album": {
+        "name": "Azaad Collab",
+        "url": "https://open.spotify.com/album/1p3mGK6FO2Mcs4NSqqlPRK"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177434,
+      "name": "Channa Di Yaariyaan",
+      "url": "https://open.spotify.com/track/2q7ja4gKxiDK8d6sBWPRHq"
+    },
+    {
+      "album": {
         "name": "Charcha Parcha",
         "url": "https://open.spotify.com/album/7CGFsP0GS7bhLXo106MzKp"
       },
@@ -4732,7 +4754,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 197912,
       "name": "Children Of The Sun",
       "url": "https://open.spotify.com/track/1lFwnQLQJB04aKRkeiQ0ZU"
@@ -4858,7 +4880,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 185409,
       "name": "Chunaree (From \"Bhoomi 2024\")",
       "url": "https://open.spotify.com/track/015RPKVEPfY1QKoD3L3NMj"
@@ -4906,7 +4928,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 151846,
       "name": "Cigi",
       "url": "https://open.spotify.com/track/2JcCJSB9DjakrV1HFzNW4K"
@@ -5750,7 +5772,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 174857,
       "name": "Dhinna Dhinna",
       "url": "https://open.spotify.com/track/701EaiUHWyxJ3R9cGbNXc4"
@@ -6196,6 +6218,36 @@
       "duration_ms": 171428,
       "name": "Dil Ko Thug Liya",
       "url": "https://open.spotify.com/track/2X46Dfw7j1NSsihSnFtkDb"
+    },
+    {
+      "album": {
+        "name": "Dil Kuch Hor Ni Mangda",
+        "url": "https://open.spotify.com/album/1liP2ae3tnMF5SrwSUljJq"
+      },
+      "artists": [
+        {
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        },
+        {
+          "name": "Ikka",
+          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        },
+        {
+          "name": "Rooh Sandhu",
+          "url": "https://open.spotify.com/artist/54E3dYx7RpaGZaDVXJTWjr"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215178,
+      "name": "Dil Kuch Hor Ni Mangda",
+      "url": "https://open.spotify.com/track/4h0eadqwYscU7J8YWcq86c"
     },
     {
       "album": {
@@ -6883,6 +6935,36 @@
     },
     {
       "album": {
+        "name": "Doob Rahe",
+        "url": "https://open.spotify.com/album/0KILWgIiuzqtP99zanSeFB"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        },
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        },
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143111,
+      "name": "Doob Rahe",
+      "url": "https://open.spotify.com/track/1WRDp1AySdILhmOmMNx20r"
+    },
+    {
+      "album": {
         "name": "Door",
         "url": "https://open.spotify.com/album/7kO2smNzWwRLhlTdBM1d2T"
       },
@@ -7424,7 +7506,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 233641,
       "name": "Ek Sheher",
       "url": "https://open.spotify.com/track/6u5YoYzSZNXLmmm1ioeUGF"
@@ -10197,6 +10279,32 @@
     },
     {
       "album": {
+        "name": "Ishq Ho Jaane Do",
+        "url": "https://open.spotify.com/album/6BjedZFO41pDpGSVou0T3w"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "TUSHAR JOSHI",
+          "url": "https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH"
+        },
+        {
+          "name": "Sagnik Kolay",
+          "url": "https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191371,
+      "name": "Ishq Ho Jaane Do",
+      "url": "https://open.spotify.com/track/4oDOTGCw3zyhoOjUK0V9q5"
+    },
+    {
+      "album": {
         "name": "Ishq Hua",
         "url": "https://open.spotify.com/album/1g6kfQ2yhhYMSrQInEYKuR"
       },
@@ -10434,6 +10542,32 @@
       "duration_ms": 225748,
       "name": "Ishq Tera",
       "url": "https://open.spotify.com/track/7yMPFsn3NGCXUZes3n1BWq"
+    },
+    {
+      "album": {
+        "name": "Ishqa Ve",
+        "url": "https://open.spotify.com/album/6Zm1VqqnmYOWj5lEQK3b33"
+      },
+      "artists": [
+        {
+          "name": "Rahul Mishra",
+          "url": "https://open.spotify.com/artist/5wTLUHTynSSD53c7S9XEdr"
+        },
+        {
+          "name": "Sanah Moidutty",
+          "url": "https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC"
+        },
+        {
+          "name": "Rangon",
+          "url": "https://open.spotify.com/artist/2kUDFnmCVtN7dQ1lJze2Gp"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Ishqa Ve",
+      "url": "https://open.spotify.com/track/4i94Yt2WZmAIEqHe3jNF6H"
     },
     {
       "album": {
@@ -10742,7 +10876,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 227142,
       "name": "Jaam",
       "url": "https://open.spotify.com/track/3gZNr53Usg9GVA1NqoNUP1"
@@ -13230,6 +13364,24 @@
       "duration_ms": 218636,
       "name": "Khabar",
       "url": "https://open.spotify.com/track/56dhkwFTzbq3AS54dguEEH"
+    },
+    {
+      "album": {
+        "name": "Khairiyat",
+        "url": "https://open.spotify.com/album/3I8eE3WzY7aUbAu2ZsyCY7"
+      },
+      "artists": [
+        {
+          "name": "Anmol Malik",
+          "url": "https://open.spotify.com/artist/1NuyYLdcAzg9EmaLxMkKZE"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162320,
+      "name": "Khairiyat",
+      "url": "https://open.spotify.com/track/5WX6LftcFyXe4N7Xj9mYg9"
     },
     {
       "album": {
@@ -21523,6 +21675,32 @@
     },
     {
       "album": {
+        "name": "Azaad Collab",
+        "url": "https://open.spotify.com/album/1p3mGK6FO2Mcs4NSqqlPRK"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Akanksha Sethi",
+          "url": "https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195193,
+      "name": "Sajaniya",
+      "url": "https://open.spotify.com/track/12kUQe8uMERj3XBNl84ESz"
+    },
+    {
+      "album": {
         "name": "Sajaunga Lutkar Bhi - Single",
         "url": "https://open.spotify.com/album/6msVTEPZ8646JKzoEXNCVb"
       },
@@ -21670,7 +21848,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 166026,
       "name": "Sajna Ji",
       "url": "https://open.spotify.com/track/6EPOO1ZrbkqslMwHse1BJ1"
@@ -24695,6 +24873,24 @@
     },
     {
       "album": {
+        "name": "Thukraaya Kyun",
+        "url": "https://open.spotify.com/album/1GNdYqeJ4d4IUcNVxgdDgJ"
+      },
+      "artists": [
+        {
+          "name": "Aditi Singh Sharma",
+          "url": "https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209376,
+      "name": "Thukraaya Kyun",
+      "url": "https://open.spotify.com/track/7gwUQpTcZHmWItPqDraji0"
+    },
+    {
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/0tUfjUbeHxRQ6JtihqkXoH"
       },
@@ -27604,7 +27800,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 159782,
       "name": "Zamaana",
       "url": "https://open.spotify.com/track/6lsm8EHNoxB4AbhindOSub"

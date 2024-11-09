@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: MAMIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,776 likes - 55 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,782 likes - 55 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [แค่อยากเจอ \(About Fate\)](https://open.spotify.com/track/2HHwVSMuBB8GnI1QjVndzk) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [แค่อยากเจอ \(About Fate\) \- Single](https://open.spotify.com/album/2kZY8JWpqJQ00zYE8faOmj) | 4:41 |
-| 2 | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/track/4Miqyv9ecik7CkUjoCQSj7) | [vavava](https://open.spotify.com/artist/6506cUJ2eosNoizZbvDRFu) | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/album/4F6w0JDPOzEBmsZfZDhshe) | 7:24 |
-| 3 | [ตอนจบ \(The End\)](https://open.spotify.com/track/6lryBvGRXzKnBnAqFo5TBh) | [MAMIO](https://open.spotify.com/artist/3QZuZCQ3xF6bfUUD8or3vU) | [ตอนจบ \(The End\)](https://open.spotify.com/album/10LYLoV3aPCuFF6EQngRJd) | 4:29 |
-| 4 | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/track/2lNN1td6q6EBa05iof1zFl) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/album/6R9NfMpZdUfTQZnQn60UWS) | 4:20 |
-| 5 | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/track/2DO84xSr9XGDGAIwWbHCnd) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/album/2FPO1LZVbyoTU9zr52EWkR) | 4:24 |
-| 6 | [ถ้าพบกัน ขอให้วันนั้นเราโตพอที่จะไม่ทิ้งกันอีก](https://open.spotify.com/track/6oX1bzufZSJR5Tb1lYRebA) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ถ้าพบกัน ขอให้วันนั้นเราโตพอที่จะไม่ทิ้งกันอีก](https://open.spotify.com/album/74z2Q1arMBR1Z8HgNtsySL) | 3:56 |
-| 7 | [กลับคืนสู่ดาว](https://open.spotify.com/track/0SxPaNX1mNDFeEln7bqXFP) | [GOODMORNING](https://open.spotify.com/artist/5qpHMe5u9Cf9QNQiyFcqMf) | [กลับคืนสู่ดาว](https://open.spotify.com/album/2kRy63omANUfg60l5WiHJl) | 3:37 |
-| 8 | [ความสวยงาม](https://open.spotify.com/track/3ToiAXUfifY3rxIZ01AjYb) | [The Publish](https://open.spotify.com/artist/1dkiRgFFVF7XmX4vo0NEEh) | [ความสวยงาม](https://open.spotify.com/album/3qFFLMsfrlGZKP4ggBC8iq) | 3:58 |
-| 9 | [Black Bag](https://open.spotify.com/track/4DRH6lJ77B6P8ltsRxYNBN) | [Yooze](https://open.spotify.com/artist/0O7J0KNxwF39xS3cEwDfPk) | [Octave](https://open.spotify.com/album/45J3m1slIni8nJNFHoQfiy) | 4:25 |
-| 10 | [หาย \(Disconnect\)](https://open.spotify.com/track/0Gd5NAjYf85OU9FfSfFbhK) | [242](https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA) | [หาย \(Disconnect\)](https://open.spotify.com/album/0Cf6AY1Bjz8DlfdHNs90Uk) | 3:05 |
-| 11 | [เพียงรู้สึก](https://open.spotify.com/track/4Je6mCTC25kHFAGDRIasSX) | [VELIKA](https://open.spotify.com/artist/1s5OUEKobcxAqQaDKQnRAi) | [เพียงรู้สึก](https://open.spotify.com/album/1UTNXUb4lh0piWGAwp19ok) | 4:01 |
-| 12 | [เจ็บเจียนตาย](https://open.spotify.com/track/6zohPB1L4PuKKa6R12KzXs) | [WORRX](https://open.spotify.com/artist/50VGLmwFlxj5vehNFmMc9l) | [เจ็บเจียนตาย](https://open.spotify.com/album/5bMYyPH1NNjjIndYf1xL7r) | 4:10 |
-| 13 | [โลกอาจเหวี่ยงเรามาพบกัน](https://open.spotify.com/track/2FV8l4rRoN4bYpVpfqOvpB) | [Youth Brush](https://open.spotify.com/artist/6U3028szvZMKXaRSRoiSbR) | [โลกอาจเหวี่ยงเรามาพบกัน](https://open.spotify.com/album/5jsCmjKzmKt26gm3krBC0C) | 4:21 |
-| 14 | [วันนี้เธอต้องบอกลา](https://open.spotify.com/track/0KH1V9wxZyUBfnfvGehLRf) | [52Hz.](https://open.spotify.com/artist/644n4DLEJHnmnAgoVv6oTE) | [วันนี้เธอต้องบอกลา](https://open.spotify.com/album/0setFdD9Lf4YhuS3EogbAp) | 4:29 |
-| 15 | [พาฉันออกไป \(Lend Me a Good Night\)](https://open.spotify.com/track/3XuguUkJSa3cOaocap8NUt) | [YEP MAY YEP](https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga) | [พาฉันออกไป \(Lend Me a Good Night\)](https://open.spotify.com/album/50H4bORP6RiAEihMwrYPFp) | 3:06 |
-| 16 | [ขอบคุณ](https://open.spotify.com/track/5o6fmz0Ur2R0URdDjs4t0u) | [Chaoding](https://open.spotify.com/artist/46aXWUEonRAlGQF6eGNxdD) | [ขอบคุณ](https://open.spotify.com/album/7iQug1qY7HQ10iGAMB1vAa) | 5:58 |
-| 17 | [ในวันและเวลาที่ฉัน \(My World\)](https://open.spotify.com/track/2zO2DASDL0sxQsFXY7xIq8) | [pOd](https://open.spotify.com/artist/3ZEGtVa1KqQuV0KfZJYnyQ) | [ในวันและเวลาที่ฉัน](https://open.spotify.com/album/0gRpXkp9LssvvjdC7hq8H0) | 4:33 |
+| 1 | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/track/2lNN1td6q6EBa05iof1zFl) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/album/6R9NfMpZdUfTQZnQn60UWS) | 4:20 |
+| 2 | [ถ้าพบกัน ขอให้วันนั้นเราโตพอที่จะไม่ทิ้งกันอีก](https://open.spotify.com/track/6oX1bzufZSJR5Tb1lYRebA) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ถ้าพบกัน ขอให้วันนั้นเราโตพอที่จะไม่ทิ้งกันอีก](https://open.spotify.com/album/74z2Q1arMBR1Z8HgNtsySL) | 3:56 |
+| 3 | [Skuna](https://open.spotify.com/track/12kAcs5wwsuylTkcATgMCY) | [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [Skuna](https://open.spotify.com/album/3Yo2BYDn62l0lkhKWczMjg) | 3:47 |
+| 4 | [แค่อยากเจอ \(About Fate\)](https://open.spotify.com/track/2HHwVSMuBB8GnI1QjVndzk) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [แค่อยากเจอ \(About Fate\) \- Single](https://open.spotify.com/album/2kZY8JWpqJQ00zYE8faOmj) | 4:41 |
+| 5 | [Only Love \(feat\. NOTEP\)](https://open.spotify.com/track/5ITpMOVPxbZkAczlEwB3wD) | [Venn](https://open.spotify.com/artist/33fZW25rYAC3XsuAul1RuQ), [NOTEP](https://open.spotify.com/artist/1ka1gR7aUmYayVLNPr3PYs) | [Only Love \(feat\. NOTEP\)](https://open.spotify.com/album/5W4ZTAjJerxiETzUnOfaid) | 4:36 |
+| 6 | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/track/4Miqyv9ecik7CkUjoCQSj7) | [vavava](https://open.spotify.com/artist/6506cUJ2eosNoizZbvDRFu) | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/album/4F6w0JDPOzEBmsZfZDhshe) | 7:24 |
+| 7 | [เพลงรักที่เธอไม่เอา และเพลงเศร้าที่เขาไม่อิน](https://open.spotify.com/track/2uKpuyzGp90yYdSv7A1w2C) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [เพลงรักที่เธอไม่เอา และเพลงเศร้าที่เขาไม่อิน](https://open.spotify.com/album/4LjGYqkzwWWLB75UK82Gat) | 3:40 |
+| 8 | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/track/2DO84xSr9XGDGAIwWbHCnd) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/album/2FPO1LZVbyoTU9zr52EWkR) | 4:24 |
+| 9 | [ตอนจบ \(The End\)](https://open.spotify.com/track/6lryBvGRXzKnBnAqFo5TBh) | [MAMIO](https://open.spotify.com/artist/3QZuZCQ3xF6bfUUD8or3vU) | [ตอนจบ \(The End\)](https://open.spotify.com/album/10LYLoV3aPCuFF6EQngRJd) | 4:29 |
+| 10 | [ความสวยงาม](https://open.spotify.com/track/3ToiAXUfifY3rxIZ01AjYb) | [The Publish](https://open.spotify.com/artist/1dkiRgFFVF7XmX4vo0NEEh) | [ความสวยงาม](https://open.spotify.com/album/3qFFLMsfrlGZKP4ggBC8iq) | 3:58 |
+| 11 | [Black Bag](https://open.spotify.com/track/4DRH6lJ77B6P8ltsRxYNBN) | [Yooze](https://open.spotify.com/artist/0O7J0KNxwF39xS3cEwDfPk) | [Octave](https://open.spotify.com/album/45J3m1slIni8nJNFHoQfiy) | 4:25 |
+| 12 | [เพียงรู้สึก](https://open.spotify.com/track/4Je6mCTC25kHFAGDRIasSX) | [VELIKA](https://open.spotify.com/artist/1s5OUEKobcxAqQaDKQnRAi) | [เพียงรู้สึก](https://open.spotify.com/album/1UTNXUb4lh0piWGAwp19ok) | 4:01 |
+| 13 | [เจ็บเจียนตาย](https://open.spotify.com/track/6zohPB1L4PuKKa6R12KzXs) | [WORRX](https://open.spotify.com/artist/50VGLmwFlxj5vehNFmMc9l) | [เจ็บเจียนตาย](https://open.spotify.com/album/5bMYyPH1NNjjIndYf1xL7r) | 4:10 |
+| 14 | [โลกอาจเหวี่ยงเรามาพบกัน](https://open.spotify.com/track/2FV8l4rRoN4bYpVpfqOvpB) | [Youth Brush](https://open.spotify.com/artist/6U3028szvZMKXaRSRoiSbR) | [โลกอาจเหวี่ยงเรามาพบกัน](https://open.spotify.com/album/5jsCmjKzmKt26gm3krBC0C) | 4:21 |
+| 15 | [วันนี้เธอต้องบอกลา](https://open.spotify.com/track/0KH1V9wxZyUBfnfvGehLRf) | [52Hz.](https://open.spotify.com/artist/644n4DLEJHnmnAgoVv6oTE) | [วันนี้เธอต้องบอกลา](https://open.spotify.com/album/0setFdD9Lf4YhuS3EogbAp) | 4:29 |
+| 16 | [พาฉันออกไป \(Lend Me a Good Night\)](https://open.spotify.com/track/3XuguUkJSa3cOaocap8NUt) | [YEP MAY YEP](https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga) | [พาฉันออกไป \(Lend Me a Good Night\)](https://open.spotify.com/album/50H4bORP6RiAEihMwrYPFp) | 3:06 |
+| 17 | [ขอบคุณ](https://open.spotify.com/track/5o6fmz0Ur2R0URdDjs4t0u) | [Chaoding](https://open.spotify.com/artist/46aXWUEonRAlGQF6eGNxdD) | [ขอบคุณ](https://open.spotify.com/album/7iQug1qY7HQ10iGAMB1vAa) | 5:58 |
 | 18 | [รูปที่ไม่เคยทิ้ง](https://open.spotify.com/track/6NxfzvGM8l0yINzmQxGft4) | [Yacht](https://open.spotify.com/artist/41AuZ5SgqlI1HR78GPn2Zr) | [รูปที่ไม่เคยทิ้ง](https://open.spotify.com/album/4JRWZJ9Aif3RXwGdwNGtxJ) | 3:45 |
 | 19 | [หากเวลายังมีความหมาย \(Disposable\)](https://open.spotify.com/track/39mU3qyvw9veZvQkzk5UJi) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [หากเวลายังมีความหมาย \(Disposable\)](https://open.spotify.com/album/0aHAfD1PG1pfU8iJKdubdS) | 3:51 |
 | 20 | [วันวานยังหวานอยู่](https://open.spotify.com/track/2d78c1cdCYSZx8jdh3sAuH) | [nearbychair](https://open.spotify.com/artist/52THB7FifPvAgjfk4JOqdG) | [วันวานยังหวานอยู่](https://open.spotify.com/album/1LHO0EMowXhPkRj5H6q9aq) | 5:10 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 54 | [Night Drive](https://open.spotify.com/track/7ayIUc03E8IinoiUDG2j6c) | [mints](https://open.spotify.com/artist/6mehI8OceoNGRHfevtc4l0) | [Night Drive](https://open.spotify.com/album/1TM1qazICftPwAhrhgeQtm) | 2:42 |
 | 55 | [UNIVERSE](https://open.spotify.com/track/5HQORp1f3Or6GZlnjZCjJI) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [UNIVERSE](https://open.spotify.com/album/6Q2X4utZSZjSV0suqWmESx) | 4:57 |
 
-Snapshot ID: `ZyTO1QAAAAC2uryJtSGhWrxHDTcFfqW1`
+Snapshot ID: `Zy3sCAAAAAAUnQfB7kKdpCLdNdZbSZ3s`

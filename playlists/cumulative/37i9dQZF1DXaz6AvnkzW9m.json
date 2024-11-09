@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Arsenal Efectivo en portada.",
+  "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Justin Morales en portada.",
   "name": "Trap Corridos",
   "tracks": [
     {
@@ -554,6 +554,24 @@
       "duration_ms": 158613,
       "name": "Bendiciones",
       "url": "https://open.spotify.com/track/6HtWP5RHvO8AWB4xsEKB1w"
+    },
+    {
+      "album": {
+        "name": "Bien Fiera",
+        "url": "https://open.spotify.com/album/6iBx8IT3YViImP16CUGnrM"
+      },
+      "artists": [
+        {
+          "name": "Justin Morales",
+          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176448,
+      "name": "Bien Fiera",
+      "url": "https://open.spotify.com/track/7piJenEBEYdLhkflIdfGxG"
     },
     {
       "album": {
@@ -2586,7 +2604,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 238116,
       "name": "Eternamente",
       "url": "https://open.spotify.com/track/6Bf9ctV7C75vDSq5Ob7zYg"
@@ -4637,6 +4655,28 @@
     },
     {
       "album": {
+        "name": "Plebada Loca",
+        "url": "https://open.spotify.com/album/3TV9brEMwmGIOjiAb6dC3z"
+      },
+      "artists": [
+        {
+          "name": "Claudio Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/2RBlM1EXaDmWBEw4Ygdoxl"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135093,
+      "name": "Plebada Loca",
+      "url": "https://open.spotify.com/track/5iBCkhRZtBxh3Q9a0zljqd"
+    },
+    {
+      "album": {
         "name": "PLOMO",
         "url": "https://open.spotify.com/album/18J9vWonbcXXBYFa9bF88S"
       },
@@ -4674,7 +4714,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 177647,
       "name": "Plush",
       "url": "https://open.spotify.com/track/3iOYS9G3ABuHK36IT8f9es"
@@ -5076,6 +5116,24 @@
       "duration_ms": 167130,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/50KucaDoVIZ6Uhyt52gNbQ"
+    },
+    {
+      "album": {
+        "name": "Rolen Bro",
+        "url": "https://open.spotify.com/album/3Q7LgCZx9W8h3gnJjf6ooj"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133230,
+      "name": "Rolen Bro",
+      "url": "https://open.spotify.com/track/0sRNB0H8zPkYNA4597vlzv"
     },
     {
       "album": {
@@ -5684,7 +5742,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 191829,
       "name": "Te Vas As\u00ed",
       "url": "https://open.spotify.com/track/1pmal0R4yXBQw7LxEKkGL9"

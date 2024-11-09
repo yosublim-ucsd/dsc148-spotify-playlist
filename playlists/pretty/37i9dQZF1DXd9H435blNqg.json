@@ -1,13 +1,29 @@
 {
   "description": "A different shade of the blues. Cover: Dan Auerbach",
-  "num_followers": 56658,
+  "num_followers": 56680,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxsXwAAAAACSxC94ROnZtarZ6fu2EyzC",
+  "snapshot_id": "Zy2a0AAAAACJQgG5DQrRqmNr2c/fwIpN",
   "tracks": [
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Sitting Pretty",
+        "url": "https://open.spotify.com/album/0IcEBv7AWszk2qa2Zp3xWd"
+      },
+      "artists": [
+        {
+          "name": "William The Conqueror",
+          "url": "https://open.spotify.com/artist/1r3usFuloWo113ldctoDnX"
+        }
+      ],
+      "duration_ms": 220173,
+      "name": "Sitting Pretty",
+      "url": "https://open.spotify.com/track/4s7P2fvRasD6A0jNd8dga2"
+    },
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
@@ -191,22 +207,6 @@
       "duration_ms": 189813,
       "name": "Loud And Clear",
       "url": "https://open.spotify.com/track/2c4ZAjhZluqa2toXdydyxl"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Come on Now (Take From Me)",
-        "url": "https://open.spotify.com/album/2xDs9g1yb4bs0nTsztRmoH"
-      },
-      "artists": [
-        {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
-        }
-      ],
-      "duration_ms": 212309,
-      "name": "Come on Now (Take From Me)",
-      "url": "https://open.spotify.com/track/2IXKXOsEJNTuKvs0eq5h3H"
     },
     {
       "added_at": "2023-09-08 04:01:00",

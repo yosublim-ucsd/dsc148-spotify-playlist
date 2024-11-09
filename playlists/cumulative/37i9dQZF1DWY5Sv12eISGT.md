@@ -4,7 +4,7 @@
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-61 songs - 3 hr 15 min
+62 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Love Riddim \- Acoustic](https://open.spotify.com/track/0AfMCPjNR3eNmgvSQUFkFz) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Unplugged Sessions](https://open.spotify.com/album/77ja6H1LpEba345VgBT9DO) | 3:10 | 2024-02-16 |  |
 | [Love Song \(Acoustic\)](https://open.spotify.com/track/4zrBLtNTCb5uja4KZGHBDt) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Happiness](https://open.spotify.com/album/5BVFDRZkkG8R3hgRdu5o3n) | 4:22 | 2024-02-16 |  |
 | [My kind Of Woman](https://open.spotify.com/track/5zG9GwLqHaA51EzVkbHxio) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [The Prince I Became](https://open.spotify.com/album/0wCcVlx3DNajtnqVSnFthH) | 3:18 | 2024-02-16 |  |
+| [Nakupenda \- Acoustic](https://open.spotify.com/track/02Vc86Z6TX22oJPvxjY9hq) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Nakupenda \(Acoustic\)](https://open.spotify.com/album/3lFdnM707BShGHW5DidZpo) | 3:19 | 2024-11-07 |  |
 | [nobody knows](https://open.spotify.com/track/1Bnm5dUpWfYNqeeqFlhEl1) | [malosh](https://open.spotify.com/artist/5Cg5h5rAVMPxZyc4TWNNDu) | [nobody knows](https://open.spotify.com/album/3tur9lSjtET194Kd5AZOfe) | 3:14 | 2024-02-16 |  |
 | [Peru \- Acoustic](https://open.spotify.com/track/6RAFf0mJ498F0GzrFZ1ZsS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru \(Acoustic\)](https://open.spotify.com/album/636MfmRIE3pXhXzk8rVsFC) | 2:52 | 2024-02-16 |  |
 | [Pounds & Dollars \- Acoustic](https://open.spotify.com/track/4ef8LKtDwxS6HlCQenuUoR) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Pounds & Dollars \(Live\)](https://open.spotify.com/album/4y7GWjEodnSJhhsEvGeN9N) | 2:41 | 2024-02-16 |  |

@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/1de4vKqbK34mIEKKaYmKNF"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Crimaco",
+          "url": "https://open.spotify.com/artist/28N6QAD7lW1W9hwYsiip0V"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/20goyJgmFDZzaekF59lmyT"
+    },
+    {
+      "album": {
         "name": "Fireflies",
         "url": "https://open.spotify.com/album/69QjgE7z9DJy6xPmwi86Ig"
       },
@@ -1655,6 +1673,24 @@
     },
     {
       "album": {
+        "name": "Loiste",
+        "url": "https://open.spotify.com/album/2M4uM2dAm17xuLzVJkz31X"
+      },
+      "artists": [
+        {
+          "name": "A. Blomqvist",
+          "url": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185506,
+      "name": "Loiste",
+      "url": "https://open.spotify.com/track/0QnFEI5XPIXcBdTXglZ6Za"
+    },
+    {
+      "album": {
         "name": "Look Inside Yourself",
         "url": "https://open.spotify.com/album/30RisILwJC85OO8yOOlxRs"
       },
@@ -2019,6 +2055,24 @@
     },
     {
       "album": {
+        "name": "Moon talking to Sun",
+        "url": "https://open.spotify.com/album/2C0ntJ1fGt27YLQbesNmO7"
+      },
+      "artists": [
+        {
+          "name": "Meredi",
+          "url": "https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132160,
+      "name": "Moon talking to Sun",
+      "url": "https://open.spotify.com/track/30SIBMFvaJLG7Y5CrffmiU"
+    },
+    {
+      "album": {
         "name": "Naar Huis",
         "url": "https://open.spotify.com/album/5GCcOcKxh1IyCvSvMQKkzv"
       },
@@ -2346,6 +2400,24 @@
       "duration_ms": 145869,
       "name": "oku",
       "url": "https://open.spotify.com/track/0dh69TWktsQtq1JWheVpHZ"
+    },
+    {
+      "album": {
+        "name": "On the Nature of Daylight (Piano Version)",
+        "url": "https://open.spotify.com/album/59iPxpMcIyBldU0R169koT"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357106,
+      "name": "On the Nature of Daylight - Piano Version",
+      "url": "https://open.spotify.com/track/65gmwDiFrJhzKD2lJviFIb"
     },
     {
       "album": {
@@ -3039,6 +3111,36 @@
     },
     {
       "album": {
+        "name": "Intercosmia Vol. 1",
+        "url": "https://open.spotify.com/album/3y5tT5o4of6SEyndkccXMI"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "John Metcalfe",
+          "url": "https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd"
+        },
+        {
+          "name": "Louisa Fuller",
+          "url": "https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ"
+        },
+        {
+          "name": "Chris Worsey",
+          "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214250,
+      "name": "Solomeo",
+      "url": "https://open.spotify.com/track/1FWA5vw5kvSjnOPS1fPZTD"
+    },
+    {
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/1pvK662Ezwrn0ofOxHZOcP"
       },
@@ -3256,6 +3358,24 @@
       "duration_ms": 91880,
       "name": "That Feeling, Though",
       "url": "https://open.spotify.com/track/5W7cnjrNZcv1ITMv3xyvkV"
+    },
+    {
+      "album": {
+        "name": "Urban Impressionism",
+        "url": "https://open.spotify.com/album/2HwoFNovpqusvem2csYBU4"
+      },
+      "artists": [
+        {
+          "name": "Dardust",
+          "url": "https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249905,
+      "name": "The Art of Falling",
+      "url": "https://open.spotify.com/track/4xmWnJpazNxLLxDJcCKgeG"
     },
     {
       "album": {

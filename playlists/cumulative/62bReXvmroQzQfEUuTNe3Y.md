@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance to in 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-454 songs - 1 day 1 hr 35 min
+455 songs - 1 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,7 @@
 | [Nothing Compares](https://open.spotify.com/track/5uK5imfy8JK9LNRLax5hwT) | [Mark F\. Angelo](https://open.spotify.com/artist/6e5TFHHFWLHjX82Vwacq6g), [Thomas Sykes](https://open.spotify.com/artist/5YMczOrhIIwKHbOVV6VpNf) | [Nothing Compares](https://open.spotify.com/album/2nVYXhKU2ivwctV3TULWLC) | 2:40 | 2021-12-10 |  |
 | [Numb](https://open.spotify.com/track/2cdCC1aCXbvz9tXFOR6CxR) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Why Do We Shake In The Cold?](https://open.spotify.com/album/5DmT0aBDQe90fxAiP3pDwO) | 3:50 | 2021-03-06 | 2022-02-19 |
 | [Numb](https://open.spotify.com/track/7rBpjxstrSsuOLqnuOC028) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Numb](https://open.spotify.com/album/0wM4Ss4GefFaHkJsaAEzLK) | 3:50 | 2020-09-13\* | 2021-03-06 |
-| [Off My Mind](https://open.spotify.com/track/5vYHf0DY2jhfl8MFiNuVXv) | [Mallin](https://open.spotify.com/artist/4iPnnExHNrbrRTIJkcqEfv) | [Off My Mind](https://open.spotify.com/album/2EH3bMjoWwEh3OtYoaIxsr) | 3:01 | 2024-02-23 |  |
+| [Off My Mind](https://open.spotify.com/track/5vYHf0DY2jhfl8MFiNuVXv) | [Mallin](https://open.spotify.com/artist/4iPnnExHNrbrRTIJkcqEfv) | [Off My Mind](https://open.spotify.com/album/2EH3bMjoWwEh3OtYoaIxsr) | 3:01 | 2024-02-23 | 2024-11-09 |
 | [Oh Love](https://open.spotify.com/track/22Chkkf5Ki3SrU38HQpwbU) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Nobody Cares](https://open.spotify.com/artist/2hdGv0wq4FVf5hmgie74oy) | [Oh Love](https://open.spotify.com/album/4pSYkhyW9nBxQt6yyo2jSZ) | 2:43 | 2021-01-23 | 2021-03-06 |
 | [One By One \(feat\. Elderbrook & Andhim\)](https://open.spotify.com/track/3053QmnOijQFGshvpAikky) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [One By One \(feat\. Elderbrook & Andhim\)](https://open.spotify.com/album/4gbp4gRykVbPsJm61qu6Tn) | 3:00 | 2021-05-11 | 2021-06-19 |
 | [Only For A Moment](https://open.spotify.com/track/0PpRPtxo4NFFQCrsnLdDni) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Only For A Moment](https://open.spotify.com/album/5iJ6aK5fHpQfyG7MqYIZRp) | 3:45 | 2024-02-23 | 2024-07-13 |
@@ -457,6 +457,7 @@
 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2024-01-12 |  |
 | [You Broke My Heart Again](https://open.spotify.com/track/1sZbECWOoO8s87SC2gUanm) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [Deep Joy](https://open.spotify.com/album/7szw19RC6wXNQXrPTGdFUW) | 2:29 | 2021-08-21 | 2021-09-04 |
 | [You Got Me](https://open.spotify.com/track/6n1ILqlcKA0ZCBt246Oeox) | [Yoru](https://open.spotify.com/artist/3I3wprdeNltqVwBiUsXazy) | [You Got Me](https://open.spotify.com/album/0tsQoNKyXTnzHFrJr9XE2C) | 3:40 | 2020-09-13\* | 2021-09-18 |
+| [You Know](https://open.spotify.com/track/2VGn8OmbvdSarXJV0PBauj) | [Benji \(UK\)](https://open.spotify.com/artist/2rktaPoxmpCqSnjH8sG9Dq), [Julio Ade](https://open.spotify.com/artist/0aBK6w9ueJgetANKMYQvrd) | [You Know](https://open.spotify.com/album/787Fe2sF7ApgAtMfu7O30C) | 3:37 | 2024-11-08 |  |
 | [You Were Right](https://open.spotify.com/track/1JLz1mQiVFcXq40rd5d7ww) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/6EGK4tLQTEj8mnfTh0nqa5) | 3:59 | 2021-04-30 | 2021-10-02 |
 | [You're so High](https://open.spotify.com/track/7J7cNv9fl9nbofKMpPng4J) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Illusions](https://open.spotify.com/album/5fF4GeXKiNGjgFkxoxlyHa) | 5:25 | 2020-09-13\* | 2022-07-30 |
 | [Young Forever](https://open.spotify.com/track/2VveodsDiyIi3zcYMDgRx1) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Young Forever](https://open.spotify.com/album/4tUfK3lJ9ss49U0CwuDnDo) | 3:38 | 2021-03-14 | 2021-04-24 |

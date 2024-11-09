@@ -1,12 +1,12 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 173251,
+  "num_followers": 173294,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyqxgAAAAAC7zph7Sw4PfUyFdYm7qr0+",
+  "snapshot_id": "ZywDAAAAAAC4JzwJPaOlJPlXM6N+iIFU",
   "tracks": [
     {
       "added_at": null,
@@ -484,25 +484,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 168160,
-      "name": "Vete Con El",
-      "url": "https://open.spotify.com/track/6UV3lfi399R9Gp9RvWCBbE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Flor De Naranjo",
-        "url": "https://open.spotify.com/album/5phLi5dStR0wTk1hGYC2Q3"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 150973,
-      "name": "El Amor De Nosotros",
-      "url": "https://open.spotify.com/track/2APZe1mAUx8lMfFVP2f7AA"
+      "duration_ms": 186173,
+      "name": "Distancia Maldita",
+      "url": "https://open.spotify.com/track/3RhNtiTs0FwK9RpZpP7Xf8"
     },
     {
       "added_at": null,
@@ -519,6 +503,22 @@
       "duration_ms": 187466,
       "name": "Coraz\u00f3n De Oro",
       "url": "https://open.spotify.com/track/3hEDujdXlHpKEv8pW7SxBz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Flor De Naranjo",
+        "url": "https://open.spotify.com/album/5phLi5dStR0wTk1hGYC2Q3"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 150973,
+      "name": "El Amor De Nosotros",
+      "url": "https://open.spotify.com/track/2APZe1mAUx8lMfFVP2f7AA"
     },
     {
       "added_at": null,
@@ -548,25 +548,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 186173,
-      "name": "Distancia Maldita",
-      "url": "https://open.spotify.com/track/3RhNtiTs0FwK9RpZpP7Xf8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos De Pegue",
-        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "El Subteniente Linares",
-      "url": "https://open.spotify.com/track/2BYl5gcl27mUpslIRy8MUX"
+      "duration_ms": 168160,
+      "name": "Vete Con El",
+      "url": "https://open.spotify.com/track/6UV3lfi399R9Gp9RvWCBbE"
     },
     {
       "added_at": null,
@@ -583,6 +567,22 @@
       "duration_ms": 196306,
       "name": "Me Refiero A T\u00ed",
       "url": "https://open.spotify.com/track/5bbF1SdFGSqK7hKNAunuyc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "El Subteniente Linares",
+      "url": "https://open.spotify.com/track/2BYl5gcl27mUpslIRy8MUX"
     },
     {
       "added_at": null,

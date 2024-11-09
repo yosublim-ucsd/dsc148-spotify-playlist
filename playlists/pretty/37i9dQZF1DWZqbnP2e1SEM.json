@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 321019,
+  "num_followers": 321012,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -419,26 +419,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "PICK UP THE PHONE (feat. Nate Dogg)",
-        "url": "https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 224124,
-      "name": "PICK UP THE PHONE (feat. Nate Dogg)",
-      "url": "https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "It's That Time (FISHER Remix)",
         "url": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 171717,
       "name": "It's That Time - FISHER Remix",
       "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "PICK UP THE PHONE (feat. Nate Dogg)",
+        "url": "https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 224124,
+      "name": "PICK UP THE PHONE (feat. Nate Dogg)",
+      "url": "https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -583,26 +583,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Couldn't Care Less (feat. Gia Koka)",
-        "url": "https://open.spotify.com/album/5uALiucSFQTU1ZG1Z8pRwQ"
-      },
-      "artists": [
-        {
-          "name": "ALT\u00c9GO",
-          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
-        },
-        {
-          "name": "Gia Koka",
-          "url": "https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz"
-        }
-      ],
-      "duration_ms": 145946,
-      "name": "Couldn't Care Less (feat. Gia Koka)",
-      "url": "https://open.spotify.com/track/4I1cbxHQdui27mPGHPXXMO"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Boost Up",
         "url": "https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 211899,
       "name": "Boost Up",
       "url": "https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Couldn't Care Less (feat. Gia Koka)",
+        "url": "https://open.spotify.com/album/5uALiucSFQTU1ZG1Z8pRwQ"
+      },
+      "artists": [
+        {
+          "name": "ALT\u00c9GO",
+          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
+        },
+        {
+          "name": "Gia Koka",
+          "url": "https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz"
+        }
+      ],
+      "duration_ms": 145946,
+      "name": "Couldn't Care Less (feat. Gia Koka)",
+      "url": "https://open.spotify.com/track/4I1cbxHQdui27mPGHPXXMO"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Pretty Green Eyes (Sunset Ibiza Mix)",
+        "url": "https://open.spotify.com/album/5jAnfBukpgxAPJPtrAgLgN"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "duration_ms": 258682,
+      "name": "Pretty Green Eyes (Sunset Ibiza Mix)",
+      "url": "https://open.spotify.com/track/6iGMRy5RDMiAdTpuMB5gAm"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Why I Love You So",
         "url": "https://open.spotify.com/album/4JF0zqoAl589waMex3Y1nx"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 173996,
       "name": "Why I Love You So",
       "url": "https://open.spotify.com/track/7dnBSJEnqpf8dK5fKQevqi"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Pretty Green Eyes (Sunset Ibiza Mix)",
-        "url": "https://open.spotify.com/album/5jAnfBukpgxAPJPtrAgLgN"
-      },
-      "artists": [
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        }
-      ],
-      "duration_ms": 258682,
-      "name": "Pretty Green Eyes (Sunset Ibiza Mix)",
-      "url": "https://open.spotify.com/track/6iGMRy5RDMiAdTpuMB5gAm"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Make Up",
-        "url": "https://open.spotify.com/album/6DfanlPWlL7jCWIUIISj8R"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 151764,
-      "name": "Make Up",
-      "url": "https://open.spotify.com/track/5huDOE63jdNZTiBODndFc1"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Something To Me",
         "url": "https://open.spotify.com/album/6kbGkFNoQrF3EWaQxky9sO"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 225466,
       "name": "Something To Me",
       "url": "https://open.spotify.com/track/2oCShkda3AnUzwPzZPvQyf"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Make Up",
+        "url": "https://open.spotify.com/album/6DfanlPWlL7jCWIUIISj8R"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 151764,
+      "name": "Make Up",
+      "url": "https://open.spotify.com/track/5huDOE63jdNZTiBODndFc1"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Hella Good",
-        "url": "https://open.spotify.com/album/7r5MlpWk6gQ2fCRDWjUIzn"
-      },
-      "artists": [
-        {
-          "name": "Niko The Kid",
-          "url": "https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X"
-        },
-        {
-          "name": "Benson",
-          "url": "https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY"
-        }
-      ],
-      "duration_ms": 175757,
-      "name": "Hella Good",
-      "url": "https://open.spotify.com/track/1ck6fXDzbKiWKCVSfqxsUB"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Dance To The Beat (Pitchin')",
         "url": "https://open.spotify.com/album/53GJ4zDB6gG6jm61tCO7aJ"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 161029,
       "name": "Dance To The Beat (Pitchin')",
       "url": "https://open.spotify.com/track/5swGONEYPfI5mEG7clVsRj"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Hella Good",
+        "url": "https://open.spotify.com/album/7r5MlpWk6gQ2fCRDWjUIzn"
+      },
+      "artists": [
+        {
+          "name": "Niko The Kid",
+          "url": "https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X"
+        },
+        {
+          "name": "Benson",
+          "url": "https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY"
+        }
+      ],
+      "duration_ms": 175757,
+      "name": "Hella Good",
+      "url": "https://open.spotify.com/track/1ck6fXDzbKiWKCVSfqxsUB"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "All That You Need (feat. Caroline Byrne)",
-        "url": "https://open.spotify.com/album/7jrTX2qU8wtMghbkLSpezV"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "Caroline Byrne",
-          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
-        }
-      ],
-      "duration_ms": 178132,
-      "name": "All That You Need (feat. Caroline Byrne)",
-      "url": "https://open.spotify.com/track/5Bux5dq6CHM7pJLlrx8R3f"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Dominator",
         "url": "https://open.spotify.com/album/0d24GMCqZ7kyl5Q9xtJfaH"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 171883,
       "name": "Dominator",
       "url": "https://open.spotify.com/track/5ht7wW7dzpou0SuO2zraHA"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "All That You Need (feat. Caroline Byrne)",
+        "url": "https://open.spotify.com/album/7jrTX2qU8wtMghbkLSpezV"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        }
+      ],
+      "duration_ms": 178132,
+      "name": "All That You Need (feat. Caroline Byrne)",
+      "url": "https://open.spotify.com/track/5Bux5dq6CHM7pJLlrx8R3f"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Sugar Baby",
-        "url": "https://open.spotify.com/album/1zxHxvKGt6z1FZwtYfBTr5"
-      },
-      "artists": [
-        {
-          "name": "LYOD",
-          "url": "https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq"
-        }
-      ],
-      "duration_ms": 156363,
-      "name": "Sugar Baby",
-      "url": "https://open.spotify.com/track/5PTZJWka2Y6esj5u9AvldQ"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "At Night EP",
         "url": "https://open.spotify.com/album/1EjlFbnAJYYxw9n3YurTPA"
       },
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Sugar Baby",
+        "url": "https://open.spotify.com/album/1zxHxvKGt6z1FZwtYfBTr5"
+      },
+      "artists": [
+        {
+          "name": "LYOD",
+          "url": "https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq"
+        }
+      ],
+      "duration_ms": 156363,
+      "name": "Sugar Baby",
+      "url": "https://open.spotify.com/track/5PTZJWka2Y6esj5u9AvldQ"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Bota Bota",
         "url": "https://open.spotify.com/album/3rDua1ydCeXjqOfO0pR2BV"
       },
@@ -1515,22 +1515,6 @@
       "duration_ms": 192923,
       "name": "Bota Bota",
       "url": "https://open.spotify.com/track/6btglV5XNwzpOtDmOclBwI"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/7uvfTF4M6SslT5AqJ7GVun"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 187883,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/1VNZtpJBPdyhW5EOOhLw7r"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/7uvfTF4M6SslT5AqJ7GVun"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 187883,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/1VNZtpJBPdyhW5EOOhLw7r"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "EYAH (You'll Be Alright)",
         "url": "https://open.spotify.com/album/3ZFctsaDV84rcejIEOHhOv"
       },
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "SAVE ME",
-        "url": "https://open.spotify.com/album/4IHs5K9AlUPG2jNNlNR84l"
-      },
-      "artists": [
-        {
-          "name": "Boston Bun",
-          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
-        },
-        {
-          "name": "Bag Raiders",
-          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "SAVE ME",
-      "url": "https://open.spotify.com/track/0TsJzxDrjLNs6szBrho1dG"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Sweet Devotion",
         "url": "https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 207895,
       "name": "Sweet Devotion - Edit",
       "url": "https://open.spotify.com/track/7FSgGyCg0kBU3iUKSMbxNd"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "SAVE ME",
+        "url": "https://open.spotify.com/album/4IHs5K9AlUPG2jNNlNR84l"
+      },
+      "artists": [
+        {
+          "name": "Boston Bun",
+          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
+        },
+        {
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "SAVE ME",
+      "url": "https://open.spotify.com/track/0TsJzxDrjLNs6szBrho1dG"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "System Overload",
+        "url": "https://open.spotify.com/album/0GOZ1Ykr3wnlcZar9J39C9"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Curtiba",
+          "url": "https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3"
+        }
+      ],
+      "duration_ms": 169545,
+      "name": "System Overload",
+      "url": "https://open.spotify.com/track/0kT99suSJSWK3Imob3PPib"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "Earth Move Edit",
         "url": "https://open.spotify.com/album/0P83Z68LJURLvfQHEDZU9O"
       },
@@ -1755,26 +1775,6 @@
       "duration_ms": 210000,
       "name": "The Miracle Makers - Edit",
       "url": "https://open.spotify.com/track/0sqnuQkjkWjHjC5j7bgPo1"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "System Overload",
-        "url": "https://open.spotify.com/album/0GOZ1Ykr3wnlcZar9J39C9"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        },
-        {
-          "name": "Curtiba",
-          "url": "https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3"
-        }
-      ],
-      "duration_ms": 169545,
-      "name": "System Overload",
-      "url": "https://open.spotify.com/track/0kT99suSJSWK3Imob3PPib"
     },
     {
       "added_at": "2024-09-19 23:00:00",

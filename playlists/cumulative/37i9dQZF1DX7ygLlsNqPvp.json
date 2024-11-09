@@ -1123,6 +1123,28 @@
     },
     {
       "album": {
+        "name": "Can't Complain",
+        "url": "https://open.spotify.com/album/1wjzFkD0baa2bDPSJP1dNI"
+      },
+      "artists": [
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        },
+        {
+          "name": "Kojo Trilla",
+          "url": "https://open.spotify.com/artist/7mmtBuQzPDjAzgiyYFJO55"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196154,
+      "name": "Can't Complain",
+      "url": "https://open.spotify.com/track/2ORUrWWJCkVXNSAfcYJNnM"
+    },
+    {
+      "album": {
         "name": "Straight Outta Kumerica 2",
         "url": "https://open.spotify.com/album/6C628yJ57EmOF3m06i0dQv"
       },
@@ -1608,7 +1630,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 211200,
       "name": "Duna Agbo",
       "url": "https://open.spotify.com/track/0JVS2gEkmnfBw4m63hl8H0"
@@ -2718,7 +2740,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 179154,
       "name": "Last Laugh",
       "url": "https://open.spotify.com/track/20WmTjQrBqDLvsSaLG6bKi"
@@ -3608,6 +3630,40 @@
       "duration_ms": 182783,
       "name": "Odo",
       "url": "https://open.spotify.com/track/08nMjhiq9eafvysZ4P5LU4"
+    },
+    {
+      "album": {
+        "name": "OH HOW",
+        "url": "https://open.spotify.com/album/66cyRHCZZYq6FkSh7YGmcF"
+      },
+      "artists": [
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188108,
+      "name": "OH HOW",
+      "url": "https://open.spotify.com/track/0APdb44ONhoc4cEV5ZfLyu"
     },
     {
       "album": {

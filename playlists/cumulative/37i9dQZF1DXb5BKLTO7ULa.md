@@ -4,7 +4,7 @@
 
 > De beste nieuwe releases van de week! Cover: Ronnie Flex, Yade Lauren & Mula B
 
-8,599 songs - 18 day 18 hr 30 min
+8,600 songs - 18 day 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2838,6 +2838,7 @@
 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 | 2024-06-06 | 2024-06-14 |
 | [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 | 2024-06-27 | 2024-07-05 |
 | [GIRLS GONE WILD](https://open.spotify.com/track/5nRyvWHWIb2F0CzIQfbaUr) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [GIRLS GONE WILD](https://open.spotify.com/album/7q2C8SwFYTyWCspWExMsZN) | 2:21 | 2024-08-22 | 2024-08-30 |
+| [Girls Like Sade \(feat\. Nana Fofie\)](https://open.spotify.com/track/4p5ZGsDB5bqdFMIRoLEslq) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Girls Like Sade \(feat\. Nana Fofie\)](https://open.spotify.com/album/4ImiW1Ird44f8ddYRcZxbr) | 2:43 | 2024-11-07 |  |
 | [Girls Wanna Have Fun](https://open.spotify.com/track/2Zu4Eg1f9xPjPYusZceHvo) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Girls Wanna Have Fun](https://open.spotify.com/album/7I10Tjo8NKUvesJtUrpBof) | 3:28 | 2024-07-11 | 2024-07-19 |
 | [GIRLZ](https://open.spotify.com/track/7EAbixDAOVcSb73tEKTqyU) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GIRLZ](https://open.spotify.com/album/7Fxsz7rwI2gzGDEXCdvsCR) | 2:21 | 2024-08-16 | 2024-08-23 |
 | [Gister](https://open.spotify.com/track/0k2gDcDT5yrSEj3qYO4KK4) | [Lies & Saar](https://open.spotify.com/artist/3SFS0v6YEcCuNq8y69iyXR) | [Gister](https://open.spotify.com/album/3DwyHb4Cj1NUkqqsg7YtmC) | 3:41 | 2024-04-04 | 2024-04-12 |
@@ -3734,7 +3735,7 @@
 | [Imaan](https://open.spotify.com/track/1ydE5C1KehuCQI8EM3qXrQ) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/671HQwwWo7sivjgFb4Qf1P) | 3:34 | 2024-03-07 | 2024-03-15 |
 | [IMAN \(Two Of Us\)](https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [IMAN \(Two Of Us\)](https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb) | 2:02 | 2024-05-16 | 2024-05-24 |
 | [Imaranma](https://open.spotify.com/track/0NFNiWzFvNjJDSRlMbI9lC) | [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Imaranma](https://open.spotify.com/album/48uIaP1oyoy7X5DqMc8SYq) | 3:22 | 2024-03-28 | 2024-04-05 |
-| [IMMA CALL UP CURTIS](https://open.spotify.com/track/5A3kjAigPDr48wudS8u53S) | [SiNNiWAVi](https://open.spotify.com/artist/0Tkppz8pEg4PE4NuqpTcgC) | [IMMA CALL UP CURTIS](https://open.spotify.com/album/5swlg3nLfbDmuv6g2CSXoO) | 3:02 | 2024-11-07 |  |
+| [IMMA CALL UP CURTIS](https://open.spotify.com/track/5A3kjAigPDr48wudS8u53S) | [Sinclair](https://open.spotify.com/artist/0IbWNNqUJWp6qjQePARgTp) | [IMMA CALL UP CURTIS](https://open.spotify.com/album/5swlg3nLfbDmuv6g2CSXoO) | 3:02 | 2024-11-07 |  |
 | [Immortal](https://open.spotify.com/track/0nzVN0Ln1nnN5eSSUSmztb) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Visions, Vol\. 1](https://open.spotify.com/album/4u118aJAyUdQmQAmyTdSyb) | 3:30 | 2023-10-05 | 2023-10-13 |
 | [Immortal Queen \(feat\. Chaka Khan\)](https://open.spotify.com/track/3L5AK36OlaswwPI0WduBJg) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:19 | 2024-05-02 | 2024-05-10 |
 | [Imposter Syndrome](https://open.spotify.com/track/2rM2dih5BTtMvVRLrcpLIW) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Star Potential](https://open.spotify.com/album/4fuT39LI3YOcS3dQXNA1IS) | 3:36 | 2023-08-03 | 2023-08-11 |
@@ -5512,7 +5513,7 @@
 | [ONE MORE TIME](https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:28 | 2023-09-21 | 2023-09-29 |
 | [One Nation](https://open.spotify.com/track/0oUDnuGOTU0rW6tkQOr0yj) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V) | [One Nation](https://open.spotify.com/album/3JaFOAoAOI0eEGCrJw5FYY) | 2:56 | 2023-10-20 | 2023-10-27 |
 | [One Night/All Night](https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [One Night/All Night](https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK) | 4:36 | 2024-01-25 | 2024-02-02 |
-| [One Of Them](https://open.spotify.com/track/6NLQOu4ScjSpun8yFJyJMo) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [One Of Them](https://open.spotify.com/album/5fEKE5MtAGoi4z6bEe8Rmo) | 3:39 | 2024-11-07 |  |
+| [One Of Them](https://open.spotify.com/track/6NLQOu4ScjSpun8yFJyJMo) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [One Of Them](https://open.spotify.com/album/5fEKE5MtAGoi4z6bEe8Rmo) | 3:06 | 2024-11-07 |  |
 | [One Of These Days](https://open.spotify.com/track/5zjzsY78zfZnwfux1ZPV8K) | [Queen's Pleasure](https://open.spotify.com/artist/6S0O3eQiVrw78LG1z2EE4h) | [One Of These Days](https://open.spotify.com/album/4loECPFJ5Zg1TQiwLHB68T) | 3:35 | 2023-05-19 | 2023-05-26 |
 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 | 2023-10-12 | 2023-10-21 |
 | [One Road](https://open.spotify.com/track/7xu9iP2QwyQpCzzXJWSDDi) | [Moving](https://open.spotify.com/artist/0ljaE4oR1VX0U2fAlfzS18) | [One Road](https://open.spotify.com/album/2IUiRb9UwnkalcgfZrqgWG) | 4:23 | 2023-11-16 | 2023-11-25 |

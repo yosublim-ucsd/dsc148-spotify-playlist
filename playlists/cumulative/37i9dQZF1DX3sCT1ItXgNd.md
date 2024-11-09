@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español\. Foto: Kapo, Manuel Turizo
 
-587 songs - 1 day 5 hr 25 min
+588 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [COBARDE](https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [COBARDE](https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6) | 2:46 | 2023-10-16 | 2024-09-18 |
 | [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 | 2023-06-12 | 2023-09-26 |
 | [Cohete](https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:52 | 2024-03-22 | 2024-04-09 |
-| [Como Amigos](https://open.spotify.com/track/3G6AGojyBobTlHNibQ4W48) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Como Amigos](https://open.spotify.com/album/12HWcD77wVcteb98k8svgJ) | 2:11 | 2024-11-04 |  |
+| [Como Amigos](https://open.spotify.com/track/3G6AGojyBobTlHNibQ4W48) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Como Amigos](https://open.spotify.com/album/12HWcD77wVcteb98k8svgJ) | 2:11 | 2024-11-04 | 2024-11-09 |
 | [Como Ayer](https://open.spotify.com/track/3MWReEPNS9G3tFp8wN9aNY) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Como Ayer](https://open.spotify.com/album/2H7jkIiLaVmNeKYqMHyJYe) | 2:37 | 2023-08-01 | 2024-01-09 |
 | [Como Britney](https://open.spotify.com/track/14yDqU3ws3GLze48U2NSKu) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Como Britney](https://open.spotify.com/album/3xIJe5jvUSsXaLgEyuSxiQ) | 2:41 | 2024-04-23 | 2024-05-07 |
 | [Como en un Drama Italiano](https://open.spotify.com/track/2LOujJBGzFkGS7ptJJ2giQ) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [Como en un Drama Italiano](https://open.spotify.com/album/1QWvS9hwm2kJtlE6PG1Mo3) | 2:45 | 2024-06-28 | 2024-07-10 |
@@ -225,6 +225,7 @@
 | [GALGO](https://open.spotify.com/track/5zfUKIkOzlbzPNOsQD9VGC) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [GALGO](https://open.spotify.com/album/6XWYIRTIA3FwVWPMCQpiBi) | 2:52 | 2023-03-13 | 2023-03-22 |
 | [GARITO EN MALASAÑA](https://open.spotify.com/track/44KlWlxTCSrKqGG5Clm0CS) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [GARITO EN MALASAÑA](https://open.spotify.com/album/75dBKoirf2XBeXZHsMHsSV) | 2:35 | 2024-07-09 | 2024-10-15 |
 | [Gigante](https://open.spotify.com/track/0wGjhr72nOAN4UHTTtEEVA) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Gigante](https://open.spotify.com/album/3ZSEujqEgBhdkqTLtH3Izs) | 2:44 | 2024-03-04 | 2024-03-19 |
+| [GOLFO X DESPECHO](https://open.spotify.com/track/3mOP0148Z2lExKw4Jv8oZT) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [GOLFO X DESPECHO](https://open.spotify.com/album/5UwU3YKha4a2MPrz4Qo7Zf) | 2:49 | 2024-11-08 |  |
 | [GOOD DAY \(feat\. Camidoh\)](https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [GOOD DAY \(feat\. Camidoh\)](https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk) | 2:44 | 2023-10-27 | 2024-07-31 |
 | [GTA.mp3](https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [GTA.mp3](https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2) | 2:31 | 2023-09-07 | 2023-09-26 |
 | [Guerrero.mp3](https://open.spotify.com/track/7AxKYTuOktAVkEFGS9Szjd) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Guerrero.mp3](https://open.spotify.com/album/3uc7ga2MobwRoS020sRZ4E) | 3:58 | 2023-06-20 | 2023-07-05 |

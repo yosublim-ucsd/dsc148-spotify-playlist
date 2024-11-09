@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 81217,
+  "num_followers": 81249,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -299,7 +299,7 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Mr. Sandman",
+        "name": "MR. SANDMAN",
         "url": "https://open.spotify.com/album/5DGMidRNgao4B4iJNW6gAb"
       },
       "artists": [
@@ -309,7 +309,7 @@
         }
       ],
       "duration_ms": 145454,
-      "name": "Mr. Sandman",
+      "name": "MR. SANDMAN",
       "url": "https://open.spotify.com/track/1Y2eoRAhwsjCKcdNnrZOzV"
     },
     {
@@ -535,26 +535,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "TEMPORARY FRIENDS",
-        "url": "https://open.spotify.com/album/2R3qN6uUOOw5BVSN2ry0b2"
-      },
-      "artists": [
-        {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "TEMPORARY FRIENDS",
-      "url": "https://open.spotify.com/track/4zWvbhGE9Kbm5y1HbX4Ev7"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/5LVD82K4oc2aL5dP4rSiRI"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 188307,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1Rndhv6jSNOtPMddRd0AGT"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "TEMPORARY FRIENDS",
+        "url": "https://open.spotify.com/album/2R3qN6uUOOw5BVSN2ry0b2"
+      },
+      "artists": [
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "TEMPORARY FRIENDS",
+      "url": "https://open.spotify.com/track/4zWvbhGE9Kbm5y1HbX4Ev7"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -735,26 +735,18 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Ready Or Not",
-        "url": "https://open.spotify.com/album/27SYRZqfSCwaoQfi2waO8n"
+        "name": "Tunes Since '89",
+        "url": "https://open.spotify.com/album/0AsDiRYtn1RhcM2ahzg8La"
       },
       "artists": [
         {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        },
-        {
-          "name": "Hilts",
-          "url": "https://open.spotify.com/artist/2UvkNW59ABnaOlkGXCGxot"
-        },
-        {
-          "name": "Jianbo",
-          "url": "https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft"
+          "name": "KING BOOO!",
+          "url": "https://open.spotify.com/artist/4Qazcx4lvMEqKhOspj4Mb9"
         }
       ],
-      "duration_ms": 226902,
-      "name": "Ready Or Not",
-      "url": "https://open.spotify.com/track/0kH9yoRO3LYUW4oxOvTMNT"
+      "duration_ms": 220164,
+      "name": "Tunes Since '89",
+      "url": "https://open.spotify.com/track/2Xzgc9BFT2oONrZcD4EW1Y"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -779,18 +771,26 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Tunes Since '89",
-        "url": "https://open.spotify.com/album/0AsDiRYtn1RhcM2ahzg8La"
+        "name": "Ready Or Not",
+        "url": "https://open.spotify.com/album/27SYRZqfSCwaoQfi2waO8n"
       },
       "artists": [
         {
-          "name": "KING BOOO!",
-          "url": "https://open.spotify.com/artist/4Qazcx4lvMEqKhOspj4Mb9"
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        },
+        {
+          "name": "Hilts",
+          "url": "https://open.spotify.com/artist/2UvkNW59ABnaOlkGXCGxot"
+        },
+        {
+          "name": "Jianbo",
+          "url": "https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft"
         }
       ],
-      "duration_ms": 220164,
-      "name": "Tunes Since '89",
-      "url": "https://open.spotify.com/track/2Xzgc9BFT2oONrZcD4EW1Y"
+      "duration_ms": 226902,
+      "name": "Ready Or Not",
+      "url": "https://open.spotify.com/track/0kH9yoRO3LYUW4oxOvTMNT"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1039,6 +1039,62 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "Party All Night",
+        "url": "https://open.spotify.com/album/543kDqeC6kaabDwc8my2QP"
+      },
+      "artists": [
+        {
+          "name": "Star.One",
+          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
+        },
+        {
+          "name": "Jamie Hai",
+          "url": "https://open.spotify.com/artist/47wEVywYRzex59hogE2iEJ"
+        }
+      ],
+      "duration_ms": 152888,
+      "name": "Party All Night",
+      "url": "https://open.spotify.com/track/2VaHrBmW5BqfcHVzFs2QQL"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Run It",
+        "url": "https://open.spotify.com/album/5fFXKg8OVAbYZirJ8StkPF"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 211714,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Ooh",
+        "url": "https://open.spotify.com/album/14OnuCvu5a5GWrXurrCgjV"
+      },
+      "artists": [
+        {
+          "name": "Dan be",
+          "url": "https://open.spotify.com/artist/7fLE3YVL4L4KWxAFU0EyGL"
+        },
+        {
+          "name": "Alex Bone",
+          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
+        }
+      ],
+      "duration_ms": 192724,
+      "name": "Ooh",
+      "url": "https://open.spotify.com/track/6Sa9DuLZEgeyXRCRs2oTbW"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "take your vibes and go (Preditah Remix)",
         "url": "https://open.spotify.com/album/7txO1TuDHbNsctilDUW6ZN"
       },
@@ -1067,62 +1123,6 @@
       "duration_ms": 292001,
       "name": "take your vibes and go - Preditah Remix",
       "url": "https://open.spotify.com/track/1Wg0s1GBUaWzdIcdC1nRA8"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Run It",
-        "url": "https://open.spotify.com/album/5fFXKg8OVAbYZirJ8StkPF"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 211714,
-      "name": "Run It",
-      "url": "https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Party All Night",
-        "url": "https://open.spotify.com/album/543kDqeC6kaabDwc8my2QP"
-      },
-      "artists": [
-        {
-          "name": "Star.One",
-          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
-        },
-        {
-          "name": "Jamie Hai",
-          "url": "https://open.spotify.com/artist/47wEVywYRzex59hogE2iEJ"
-        }
-      ],
-      "duration_ms": 152888,
-      "name": "Party All Night",
-      "url": "https://open.spotify.com/track/2VaHrBmW5BqfcHVzFs2QQL"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Ooh",
-        "url": "https://open.spotify.com/album/14OnuCvu5a5GWrXurrCgjV"
-      },
-      "artists": [
-        {
-          "name": "Dan be",
-          "url": "https://open.spotify.com/artist/7fLE3YVL4L4KWxAFU0EyGL"
-        },
-        {
-          "name": "Alex Bone",
-          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
-        }
-      ],
-      "duration_ms": 192724,
-      "name": "Ooh",
-      "url": "https://open.spotify.com/track/6Sa9DuLZEgeyXRCRs2oTbW"
     },
     {
       "added_at": "2024-10-24 23:00:00",

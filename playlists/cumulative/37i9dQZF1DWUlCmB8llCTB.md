@@ -2,9 +2,9 @@
 
 ### [Perreo City](https://open.spotify.com/playlist/37i9dQZF1DWUlCmB8llCTB)
 
-> Perreando toda la noche con el La Joaqui & Yeri Mua.
+> Perreando toda la noche con el La Trinidad \(El Malilla, El Bogueto y Eme MalaFe\)
 
-916 songs - 2 day 0 hr 56 min
+917 songs - 2 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,6 +420,7 @@
 | [La Manzana](https://open.spotify.com/track/5zn3YmZvi0SYMgGPLc8R93) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [La Manzana](https://open.spotify.com/album/5JD5l71JvRRd1BB4ksdU5s) | 3:16 | 2023-10-13 | 2024-06-01 |
 | [La Matrícula](https://open.spotify.com/track/5AdaO2kBKuqgId3ibkRJf3) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E) | [La Matrícula](https://open.spotify.com/album/3J8kBsavA60Uzu0WsFiztC) | 2:46 | 2024-02-16 | 2024-04-19 |
 | [LA MISIÓN](https://open.spotify.com/track/3dyo3TI5QpPi1mkgEBB9oK) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [La Misión](https://open.spotify.com/album/1ePhu33yby4C7qx1ypRrSS) | 3:34 | 2024-05-03 |  |
+| [La Motora](https://open.spotify.com/track/7wH57Wibq1vdVr6QmlLL5c) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [La Motora](https://open.spotify.com/album/3zH5JHBP0CD2gh8h1cV2U8) | 3:23 | 2024-11-08 |  |
 | [La Máquina](https://open.spotify.com/track/35ns1WEurw3MVlHJjHwNWQ) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 4:56 | 2022-12-09 | 2023-04-22 |
 | [La Más Real de las Bebes](https://open.spotify.com/track/1e8yaOoBX0z7xHLB9nWsrY) | [Bby Lean](https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [La Más Real de las Bebes](https://open.spotify.com/album/0uf3t8QwZIiU0abasFPvK1) | 2:30 | 2024-02-23 | 2024-04-13 |
 | [LA NENA](https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [LA NENA](https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw) | 3:20 | 2024-04-12 |  |

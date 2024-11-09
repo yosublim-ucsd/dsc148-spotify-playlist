@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,441 likes - 61 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,453 likes - 61 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 12 | [all i can do is miss you](https://open.spotify.com/track/7j6B7MBoV6JOcWFL0VYNFT) | [Mosey](https://open.spotify.com/artist/3HzwQ0PpRbsyKSzFMXobLJ), [Lowgo](https://open.spotify.com/artist/3KqP7d4TwVfuAZIeRMxen4) | [all i can do is miss you](https://open.spotify.com/album/4tNxWMShCxtaPR1ELqjOLJ) | 3:00 |
 | 13 | [Something Beautiful \- Montmartre Remix](https://open.spotify.com/track/1VKqsNsQvM0oCJKzUtWD2H) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Something Beautiful \(Montmartre Remix\)](https://open.spotify.com/album/7esdyxRkAxwT0EaPxPdMWB) | 3:19 |
 | 14 | [Open Road \(feat\. Nate VanDeusen\)](https://open.spotify.com/track/6GTdNhWfd1klaioOmyleJ8) | [EyeMad](https://open.spotify.com/artist/2C15mEsXxAqiKWKG4skXHY), [Beatmad](https://open.spotify.com/artist/2radibWvmOFH2EvH38zyOK), [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU) | [Open Road \(feat\. Nate VanDeusen\)](https://open.spotify.com/album/0IaYkArWMwpfHgzZcBLd19) | 2:40 |
-| 15 | [She Said \(Big Jet Plane\)](https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [She Said \(Big Jet Plane\)](https://open.spotify.com/album/06glmgu7XVm60LyphpYQxc) | 2:53 |
+| 15 | [She Said \(Big Jet Plane\)](https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Queen D](https://open.spotify.com/artist/6DP0yD9AqeiK3V57URKt4W) | [She Said \(Big Jet Plane\)](https://open.spotify.com/album/06glmgu7XVm60LyphpYQxc) | 2:53 |
 | 16 | [Disco en Egypte](https://open.spotify.com/track/1KIZY1WtXrL5Hf8aoPy1PG) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Disco en Egypte](https://open.spotify.com/album/2pWoLCL2ATNgxXONtIzyAx) | 3:46 |
 | 17 | [Havana](https://open.spotify.com/track/2TMkbettqxII64hN78QemR) | [Sunwaves](https://open.spotify.com/artist/6KcoE2oco22TIP1YOQmgBm) | [Havana](https://open.spotify.com/album/1VPkd0jllnBLNs6GOq7474) | 2:56 |
 | 18 | [Plein air](https://open.spotify.com/track/41dazLpdMmO7Kr0yQCotfn) | [Sara Costa](https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49), [Hannah Young](https://open.spotify.com/artist/02Vjcy8yd6eHu8QMYNMIAf) | [Plein air](https://open.spotify.com/album/5Z2vbeJm4nv74ZctGS0HyS) | 2:45 |

@@ -1,13 +1,29 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Ruthie Foster",
-  "num_followers": 451313,
+  "num_followers": 451361,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxsX/AAAAAA2H1ccZ1iru53R/+xx3Msk",
+  "snapshot_id": "Zy2a0AAAAACGsRjzcvOtRbyPXHaphqsr",
   "tracks": [
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Leaning On The Altar",
+        "url": "https://open.spotify.com/album/7m4eR6wscTSsBwHuUvvBmI"
+      },
+      "artists": [
+        {
+          "name": "Phillip-Michael Scales",
+          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
+        }
+      ],
+      "duration_ms": 199185,
+      "name": "Leaning On The Altar",
+      "url": "https://open.spotify.com/track/7MoKznrE12IEinL9CtE8V3"
+    },
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
@@ -1655,22 +1671,6 @@
       "duration_ms": 209475,
       "name": "Mood",
       "url": "https://open.spotify.com/track/0W5jMo5MpHvLTGVnAN8c1R"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Not Ready To Let Go",
-        "url": "https://open.spotify.com/album/1q1jyVZyIQwzq3DG8z9qVR"
-      },
-      "artists": [
-        {
-          "name": "BAYWUD",
-          "url": "https://open.spotify.com/artist/3dDdngfjnuthfO2OPYRZqz"
-        }
-      ],
-      "duration_ms": 238455,
-      "name": "Not Ready To Let Go",
-      "url": "https://open.spotify.com/track/4nXIogA01ib6VLHPPKZPxt"
     },
     {
       "added_at": "2023-10-06 04:00:00",

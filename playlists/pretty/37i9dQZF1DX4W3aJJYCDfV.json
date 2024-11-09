@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Myles Smith (pictured), Griff, Zach Bryan and more!",
-  "num_followers": 864429,
+  "num_followers": 864564,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy1UgAAAAAB9kp8kMLLLgrek/gIblsjO",
+  "snapshot_id": "Zy3zhAAAAABXpH62H0M59xCnKIE+QxHO",
   "tracks": [
     {
       "added_at": "2024-11-08 00:00:00",
@@ -704,7 +704,7 @@
           "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
         }
       ],
-      "duration_ms": 219685,
+      "duration_ms": 186491,
       "name": "One Of Them",
       "url": "https://open.spotify.com/track/6NLQOu4ScjSpun8yFJyJMo"
     },
@@ -743,6 +743,26 @@
       "duration_ms": 189960,
       "name": "This Rhythm (feat. RAHH)",
       "url": "https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT"
+    },
+    {
+      "added_at": "2024-11-08 11:18:28",
+      "album": {
+        "name": "DAROLD",
+        "url": "https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 186858,
+      "name": "French Tips (feat. Coco Jones)",
+      "url": "https://open.spotify.com/track/3pPlFiN3TLqHd5uXnRr4Cv"
     },
     {
       "added_at": "2024-11-08 00:00:00",

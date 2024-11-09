@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Mk.Gee
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,297 likes - 156 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,309 likes - 156 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

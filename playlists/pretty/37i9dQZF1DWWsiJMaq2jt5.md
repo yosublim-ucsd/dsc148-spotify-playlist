@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:2t3aJxThQrMWaNJgqjMcU8">Lanberry</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,191 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,207 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cyrk](https://open.spotify.com/track/1e8Lx51hxlh88uaA3IumUR) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [Cyrk](https://open.spotify.com/album/3LnfdUm50X2HVIUadHJ6Nf) | 3:06 |
-| 2 | [PSYCHO](https://open.spotify.com/track/4mzarp4qJVXipOOpzs5MB5) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PSYCHO](https://open.spotify.com/album/6d4okERqK0BiadzjBBOsEL) | 3:06 |
+| 1 | [Ratuj się kto może](https://open.spotify.com/track/3ngO8Qzh9c5PIE9s6IwjSu) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [Heca](https://open.spotify.com/album/6zLgFeNNs1JxPHawGEkU90) | 3:53 |
+| 2 | [SALTY](https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PLAYHOUSE](https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO) | 3:11 |
 | 3 | [Papier](https://open.spotify.com/track/22lktt8sfUnZUdH80afFZT) | [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1) | [Atmosfera](https://open.spotify.com/album/1Yd6DzgcvcArPaLN9R0Zlb) | 2:51 |
 | 4 | [HAPI](https://open.spotify.com/track/4DTYjZ5dWFa39MKY4dv7k8) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx), [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [HAPI](https://open.spotify.com/album/4QiBRzQmuzi1fSl9QeMMRQ) | 2:58 |
 | 5 | [Ściany](https://open.spotify.com/track/4oThaUYLnKs3ikaDpMUMt1) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 4:31 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 59 | [O co chodzi z nią](https://open.spotify.com/track/0dzbHMKNajQHkORS4OoSzu) | [Asia Nawojska](https://open.spotify.com/artist/5GymgO2A0NDEhmRk5RwCi3) | [O co chodzi z nią](https://open.spotify.com/album/59UdZ4ua3JLgEkOUaq8kKK) | 3:40 |
 | 60 | [Czułe Słówka](https://open.spotify.com/track/1tS7Lrzv09BhDshHTi4ZiO) | [Karolina Błońska](https://open.spotify.com/artist/4GgX4COV1BbwlWIE8kdtlW) | [Czułe Słówka](https://open.spotify.com/album/4ktTIMgoFlnsqzuawumCgu) | 3:21 |
 
-Snapshot ID: `ZyqjcAAAAAB8h4wD/Fceb63RMN4j22XE`
+Snapshot ID: `Zy4JOwAAAAC7cazb/rUMXDnksxDYuZwL`

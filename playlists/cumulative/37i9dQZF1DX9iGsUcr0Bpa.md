@@ -2,7 +2,7 @@
 
 ### [Door Knockers](https://open.spotify.com/playlist/37i9dQZF1DX9iGsUcr0Bpa)
 
-> Classics from trailblazing women in hip\-hop\. Cover: Shawnna
+> Classics from trailblazing women in hip\-hop\. Cover: Queen Latifah
 
 87 songs - 5 hr 55 min
 
@@ -46,7 +46,7 @@
 | [Itty Bitty Piggy](https://open.spotify.com/track/1uYxHHZBRliM9cNzCxq93g) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 4:06 | 2021-09-03 |  |
 | [Juicy Gotcha Krazy](https://open.spotify.com/track/44ITnrJGmworH1pes1UpTK) | [Oaktown's 3.5.7](https://open.spotify.com/artist/7CPOqMWRI31Z2oLHvILOtR) | [Wild & Loose](https://open.spotify.com/album/7E9HbLKsscEa9drEBbtW7w) | 4:23 | 2024-03-01 | 2024-04-16 |
 | [Just Another Day...](https://open.spotify.com/track/48FC4RXepyOHJFTyFuQkm0) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:28 | 2021-09-03 |  |
-| [Ladies First](https://open.spotify.com/track/3MN82VctKXwosPol8bzyDM) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu) | [All Hail the Queen](https://open.spotify.com/album/2Z3NjmSSynmCMjPyBtd8Ss) | 3:58 | 2021-01-29 | 2022-07-18 |
+| [Ladies First](https://open.spotify.com/track/3MN82VctKXwosPol8bzyDM) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu) | [All Hail the Queen](https://open.spotify.com/album/2Z3NjmSSynmCMjPyBtd8Ss) | 3:58 | 2021-01-29 |  |
 | [Ladies First](https://open.spotify.com/track/76eqlAukVuAvxovEbCK3uh) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Monie Love](https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu) | [All Hail the Queen](https://open.spotify.com/album/6Agl4DVuihiDPuxuN1L8Jv) | 3:58 | 2023-01-06 | 2023-03-07 |
 | [Let Me Blow Ya Mind](https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Scorpion](https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw) | 3:50 | 2021-01-29 |  |
 | [Let's Talk About Sex](https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Blacks' Magic](https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR) | 3:33 | 2021-01-29 |  |
@@ -71,7 +71,7 @@
 | [Roxanne's Revenge](https://open.spotify.com/track/2sftlrkrHgbmUa577QsOMm) | [Roxanne Shante](https://open.spotify.com/artist/3r7n7y3j0nYgkPePO4p3QC) | [The Ol' Skool Flava of...Nia](https://open.spotify.com/album/6MQ4yq30QEdWLtQdzCHGGE) | 5:09 | 2021-01-29 | 2022-07-23 |
 | [Ruffneck](https://open.spotify.com/track/5BC50dLe7dZKVc3gPvJRx9) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [Ain't No Other](https://open.spotify.com/album/15RwfepdW9BunN0NjfEKYD) | 3:57 | 2021-01-29 | 2023-08-28 |
 | [Satisfaction](https://open.spotify.com/track/0klzutEUO6IX3QSmtRDFrq) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Eve\-Olution](https://open.spotify.com/album/4hnjhj3GcyzUDatpKFHQVR) | 4:18 | 2021-01-29 |  |
-| [Shake Dat Sh\*\*](https://open.spotify.com/track/5BSIpWY8xzjZSXmeWL8OYL) | [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Worth Tha Weight](https://open.spotify.com/album/1HgNMKdHdLed9wxujHytYf) | 3:55 | 2024-10-11 |  |
+| [Shake Dat Sh\*\*](https://open.spotify.com/track/5BSIpWY8xzjZSXmeWL8OYL) | [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Worth Tha Weight](https://open.spotify.com/album/1HgNMKdHdLed9wxujHytYf) | 3:55 | 2024-10-11 | 2024-11-09 |
 | [Shoop](https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Very Necessary](https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g) | 4:08 | 2021-01-29 |  |
 | [Stand Up \(Featuring Ghostface Killah\) \(feat\. Ghostface Killah\)](https://open.spotify.com/track/1OthLEsS1Qc4zwEjJ2E2Xx) | [Charli Baltimore](https://open.spotify.com/artist/6xzdpjZ5OURzMdpjCFW008), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Cold As Ice](https://open.spotify.com/album/6MZesTNMkraV9NpJ7ipFw8) | 4:44 | 2021-01-29 | 2022-07-24 |
 | [Supersonic](https://open.spotify.com/track/3G3lahQSMk4BHnap1i853u) | [J.J\. Fad](https://open.spotify.com/artist/2eynOGnZLqDuEJwbRHlHN1) | [Supersonic The Album](https://open.spotify.com/album/0iYRcCHvNapsAaN15ChZOH) | 3:52 | 2023-08-07 |  |

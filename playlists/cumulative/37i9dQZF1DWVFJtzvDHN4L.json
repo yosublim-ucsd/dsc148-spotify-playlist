@@ -805,6 +805,24 @@
     },
     {
       "album": {
+        "name": "Now We Are Free (From \"Gladiator\" - Piano Version)",
+        "url": "https://open.spotify.com/album/4HbvuYFVhbwrCiVUMDFu0Z"
+      },
+      "artists": [
+        {
+          "name": "Tony Ann",
+          "url": "https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165343,
+      "name": "Now We Are Free - From \"Gladiator\" - Piano Version",
+      "url": "https://open.spotify.com/track/3fC4rRqg5oLATBWmsLRl46"
+    },
+    {
+      "album": {
         "name": "Survival of the Thickest (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/5hcI02FOnGSFlOTO5zZiLy"
       },

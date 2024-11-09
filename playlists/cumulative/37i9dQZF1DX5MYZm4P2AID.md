@@ -4,7 +4,7 @@
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-330 songs - 20 hr 16 min
+332 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Down the River](https://open.spotify.com/track/5yZKbsxGXIkcHsu18qoiVX) | [Lord Cobra](https://open.spotify.com/artist/594DYT1aiPPrHBCOAs8c3t) | [Lord Cobra and the Caribbean Boys](https://open.spotify.com/album/6SOICPZu3czgwWCGvIKNC9) | 3:17 | 2021-10-26 |  |
 | [Drip Too Hard \(Lil Baby & Gunna\)](https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 2:25 | 2023-02-03 |  |
 | [Duel in the Dust](https://open.spotify.com/track/1Phs2DbD67760vXozfXnw3) | [Tommy Guerrero](https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7) | [No Mans Land](https://open.spotify.com/album/6mv6jWzf1Z3NsOEAHrh2ze) | 2:47 | 2021-10-26 |  |
+| [Déjalo Para Después](https://open.spotify.com/track/0TECPOQtaT09lwiyhjZpMX) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [Déjalo Para Después](https://open.spotify.com/album/5PFIWIbEeVuOOHI1DgLtov) | 3:35 | 2024-11-08 |  |
 | [Ebah](https://open.spotify.com/track/49mDpACUMi8Lg4G8N73SEd) | [Invisible System](https://open.spotify.com/artist/6fIPkQOFMfe9CGZ6BfRoiE) | [Dance to the Full Moon](https://open.spotify.com/album/7HSZULj9bBrOvFlVEJjlWN) | 6:05 | 2024-11-07 |  |
 | [El EscorpIón](https://open.spotify.com/track/4MDVdobxifP7UxxuiaLWpQ) | [Dan Ubick](https://open.spotify.com/artist/2NhKz10yxJXx3PeNdiaGYy) | [Magnetic Fields](https://open.spotify.com/album/7Hij9egukaPrU8R3OXQNqd) | 1:28 | 2024-10-10 |  |
 | [Esperanza](https://open.spotify.com/track/43iNZgahOKELvSYR0G6Yj4) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Esperanza](https://open.spotify.com/album/4PtPHfnj1DZZIkVNlVjpyq) | 5:28 | 2023-02-23 |  |
@@ -103,6 +104,7 @@
 | [Fling It Gimme](https://open.spotify.com/track/6qpx9v0sA5swFO4GmliUcB) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Serious Thing](https://open.spotify.com/album/3U862CH7CqULRbPLV3ADvH) | 3:00 | 2024-10-10 |  |
 | [Foaming](https://open.spotify.com/track/0HeEz3p1yVoAIOjAULJzrD) | [Day We Ran](https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS) | [Foaming](https://open.spotify.com/album/3Hwz49I44rdxZfJ07yZD4d) | 3:13 | 2024-11-07 |  |
 | [Freedom](https://open.spotify.com/track/0DyBgo5cgpW5xcvgrMFNUy) | [Dub Specialist](https://open.spotify.com/artist/2Z6eWhLfvDVcgULunQskjk) | [DUB](https://open.spotify.com/album/5GSYK58IsWCLqMYKHENDK1) | 3:09 | 2024-10-10 |  |
+| [FUGA!](https://open.spotify.com/track/2TnHB1SGVY1kEDjkao4aJv) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [FUGA!](https://open.spotify.com/album/6PSSO3uIAFk8Nuic9XYfM8) | 2:45 | 2024-11-08 |  |
 | [Fun](https://open.spotify.com/track/4v7prkc928rArBPIwxGJKa) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Fragments](https://open.spotify.com/album/0sr9FWHQ3ckzVkFYk3NPrL) | 3:17 | 2021-10-26 |  |
 | [Funky Fire](https://open.spotify.com/track/23ocdrkMsbIT8Y5zYYFGLR) | [The Aggrolites](https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM) | [The Aggrolites](https://open.spotify.com/album/6kvCoBX2EuVuDtyAdslFUu) | 4:10 | 2024-10-10 |  |
 | [Get Back](https://open.spotify.com/track/2zqowf7raYe9riQ6IoimUG) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp) | [Accumulator](https://open.spotify.com/album/6NNTa7v6CjkrzZ1rKn1Gwf) | 2:58 | 2024-10-10 |  |

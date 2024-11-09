@@ -132,7 +132,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 204447,
       "name": "AAA",
       "url": "https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 249142,
       "name": "as our world begins to die",
       "url": "https://open.spotify.com/track/5x9z0OoeuD7VPuOQ35rLxN"
@@ -953,6 +953,24 @@
     },
     {
       "album": {
+        "name": "December 25th",
+        "url": "https://open.spotify.com/album/76xK4t4mW2HvVtA09CLcN6"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231245,
+      "name": "December 25th",
+      "url": "https://open.spotify.com/track/1QNPTNaw67BanVtwXKIX1a"
+    },
+    {
+      "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
       },
@@ -1008,7 +1026,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 229997,
       "name": "Disease",
       "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 171607,
       "name": "Heart of Gold",
       "url": "https://open.spotify.com/track/1VQfrKbnGSZnEFoGpfVnS8"
@@ -1842,6 +1860,24 @@
       "duration_ms": 234600,
       "name": "Heatstroke",
       "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
+    },
+    {
+      "album": {
+        "name": "Heaven II",
+        "url": "https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147461,
+      "name": "Heaven II",
+      "url": "https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN"
     },
     {
       "album": {
@@ -1968,7 +2004,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 151153,
       "name": "Honey Shot",
       "url": "https://open.spotify.com/track/6i3WbJ4RX4wc3SCZggQJ87"
@@ -2297,6 +2333,24 @@
     },
     {
       "album": {
+        "name": "last night's mascara",
+        "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177350,
+      "name": "last night's mascara",
+      "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
+    },
+    {
+      "album": {
         "name": "lavender",
         "url": "https://open.spotify.com/album/3RlYqLXyEamZbjnZBIxwdi"
       },
@@ -2431,6 +2485,24 @@
     },
     {
       "album": {
+        "name": "Long Showers",
+        "url": "https://open.spotify.com/album/1cRvi0fnHNZ1g29at4aDr5"
+      },
+      "artists": [
+        {
+          "name": "BRIGHT",
+          "url": "https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207165,
+      "name": "Long Showers",
+      "url": "https://open.spotify.com/track/0qPzW9Iw83pOTlC8mgwxkT"
+    },
+    {
+      "album": {
         "name": "Lose",
         "url": "https://open.spotify.com/album/2kT21TGSjQnwZtitE5BoJs"
       },
@@ -2496,10 +2568,32 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 211733,
       "name": "Love U Like That",
       "url": "https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg"
+    },
+    {
+      "album": {
+        "name": "Loving You / Don't Let Me Go",
+        "url": "https://open.spotify.com/album/4AT8IOeR5ZntLmTOeCj75j"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152610,
+      "name": "Loving You (feat. Maverick Sabre)",
+      "url": "https://open.spotify.com/track/3Jx1s38DVgJJwuoxAGi7kh"
     },
     {
       "album": {
@@ -2742,6 +2836,24 @@
       "duration_ms": 215908,
       "name": "missed",
       "url": "https://open.spotify.com/track/0wqpaCtHajCrbmHvwxDCtH"
+    },
+    {
+      "album": {
+        "name": "Mock-Grown Man",
+        "url": "https://open.spotify.com/album/0gCZGTv7p7bIGPJW3ofyhf"
+      },
+      "artists": [
+        {
+          "name": "PANNAGUS",
+          "url": "https://open.spotify.com/artist/3hKi4HjosQk2QDyG3VF5CG"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Mock-Grown Man",
+      "url": "https://open.spotify.com/track/2jadlxUYFNP2w8OAkUCKKE"
     },
     {
       "album": {
@@ -3020,6 +3132,24 @@
       "duration_ms": 154255,
       "name": "next to you",
       "url": "https://open.spotify.com/track/1GmZgx9giHMoqXqYBqbtw7"
+    },
+    {
+      "album": {
+        "name": "A Minute...",
+        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Nice To Meet You",
+      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
     },
     {
       "album": {
@@ -4286,7 +4416,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
@@ -4308,7 +4438,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 167066,
       "name": "Take Me to the Beach (feat. Jungeli)",
       "url": "https://open.spotify.com/track/299bs3nx4r3zcmLD8tRPi3"
@@ -4334,6 +4464,24 @@
       "duration_ms": 173076,
       "name": "Talk talk featuring troye sivan",
       "url": "https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW"
+    },
+    {
+      "album": {
+        "name": "talk to me",
+        "url": "https://open.spotify.com/album/1IVucKXEFoi7YTwrBNBA9b"
+      },
+      "artists": [
+        {
+          "name": "starfall",
+          "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160629,
+      "name": "talk to me",
+      "url": "https://open.spotify.com/track/4m1Qw2bLggqiXjasXVp28N"
     },
     {
       "album": {
@@ -4994,7 +5142,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
@@ -5510,6 +5658,24 @@
       "duration_ms": 163000,
       "name": "WOMAN\u2019S WORLD",
       "url": "https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW"
+    },
+    {
+      "album": {
+        "name": "worst critic",
+        "url": "https://open.spotify.com/album/5ncjiTVdovGDVikrz5Oz7L"
+      },
+      "artists": [
+        {
+          "name": "Cupnoodle",
+          "url": "https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "worst critic",
+      "url": "https://open.spotify.com/track/7bgYjXDyJ6oIXPX7H36ciz"
     },
     {
       "album": {

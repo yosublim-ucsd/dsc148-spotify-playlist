@@ -1093,6 +1093,28 @@
     },
     {
       "album": {
+        "name": "Quiero Llorar",
+        "url": "https://open.spotify.com/album/5hRIZ1HQpBJIuU1x0FQPJP"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201722,
+      "name": "Quiero Llorar",
+      "url": "https://open.spotify.com/track/2GYNtFzTPxPDvDGpaaRrQs"
+    },
+    {
+      "album": {
         "name": "SI PUDIERA",
         "url": "https://open.spotify.com/album/2FtFBDN2k0j4uuYfBtOHIO"
       },

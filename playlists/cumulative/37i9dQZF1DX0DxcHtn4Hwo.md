@@ -4,7 +4,7 @@
 
 > Soothing instrumental music for sleepy babies.
 
-910 songs - 1 day 3 hr 23 min
+915 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Carousel](https://open.spotify.com/track/3Str3BD63DaBdOC4iRExM5) | [Miso Miso](https://open.spotify.com/artist/7yN9ZD8Kb1D8yt5LWTz4yD) | [Make Your Wish](https://open.spotify.com/album/1z1qPrQOWQt1zHAlDsM6cK) | 4:02 | 2022-07-27 | 2023-03-25 |
 | [Carrots and Potatoes](https://open.spotify.com/track/44pBUG6up02bqv0OkTEvOx) | [Violet Pettiwinkle](https://open.spotify.com/artist/7uyQbB96gsWTpe6iKxwduK) | [Baby Steps](https://open.spotify.com/album/647QO9JMOZzLfJVcyOK5Xz) | 2:01 | 2021-10-05 | 2023-02-18 |
 | [Children's song](https://open.spotify.com/track/1pnAa2nKBeG005ypwBGGb7) | [Beverly Eldon](https://open.spotify.com/artist/06BB8F56CNXYbq4Cd1Lttv) | [Children's song](https://open.spotify.com/album/2tPEtXxHqmX54mPlpaDyQI) | 1:20 | 2021-10-05 | 2023-01-06 |
+| [Climbing Trees](https://open.spotify.com/track/0yUEfvpYxCG8YrOdhA8PLV) | [John B\. Lund](https://open.spotify.com/artist/7aeRsfmuN284l1Hs1eyVbW) | [Climbing Trees](https://open.spotify.com/album/2HQKpUUwGZylKnklviOhk2) | 1:32 | 2024-11-08 |  |
 | [Climbing up the Cherry Tree](https://open.spotify.com/track/5H9V1JXysWfc13oIsmczPw) | [Cassandra Roy](https://open.spotify.com/artist/0kJJwbVkys4qWzyVo2ZF7a) | [Climbing up the Cherry Tree](https://open.spotify.com/album/7euUiVAe0vMsGBc9ajArX1) | 2:00 | 2023-09-22 |  |
 | [Close Your Eyes](https://open.spotify.com/track/0jknHi5QgVuDqLObjmp6Cl) | [Emma Moore](https://open.spotify.com/artist/79IbuSBovH7gT9twZJWBna) | [Close Your Eyes](https://open.spotify.com/album/7sSoybM4HPswmtO5a0bLUX) | 1:18 | 2022-04-20 | 2023-01-27 |
 | [Cloud Whispers](https://open.spotify.com/track/011EP2EJhf3OpDID1LKeOV) | [Sheryl Moon](https://open.spotify.com/artist/2vQaPHOC1lysgsm8UBiE4o) | [Cloud Whispers](https://open.spotify.com/album/1vYq4jlk4QBQLktVHe2x3z) | 2:10 | 2021-10-05 | 2022-10-29 |
@@ -242,6 +243,7 @@
 | [Floating on Dream Clouds](https://open.spotify.com/track/4R6GM2uA7b7m0ylSTl6u8G) | [Blu Finnegan](https://open.spotify.com/artist/3vYwVvWXz2FhcrC8vimx4m) | [The Sweetest Child](https://open.spotify.com/album/1BQRLMTHAnSRTMAvtQP8EU) | 1:54 | 2021-10-05 | 2023-01-27 |
 | [Fluff & The Stars](https://open.spotify.com/track/7gqJ0no0EH3gM5iCzwn8J7) | [Heloiza Parker](https://open.spotify.com/artist/4YbX63mGu2M59K9wqtijdy) | [Fluff & The Stars](https://open.spotify.com/album/6uSNruEfjckZdy3aLZ2541) | 1:43 | 2023-12-08 | 2024-02-09 |
 | [Flufftail](https://open.spotify.com/track/6jer7vbiRBAlFfphQd3cE9) | [The Stories We Tell](https://open.spotify.com/artist/0KZ1jg7xT2z2zrMCY2iAlB) | [Flufftail](https://open.spotify.com/album/57Mdn2loSZLD3CJdfTM8k0) | 1:43 | 2024-04-16 |  |
+| [Fluffy Clouds](https://open.spotify.com/track/570YAvZqRXoLzOzY92bHv7) | [Ken Silverstar](https://open.spotify.com/artist/07QZAzZO63SuP912Ef5WPG) | [Fluffy Clouds](https://open.spotify.com/album/5RrdEzonIsTj1PbR8uvQ2l) | 2:18 | 2024-11-08 |  |
 | [Fly On The Dreams](https://open.spotify.com/track/24AcnlnWcb7FAys29aqFky) | [Irvin Tatton](https://open.spotify.com/artist/2HawA0EZAHFCNaWVJ3hoX4) | [Fly On The Dreams](https://open.spotify.com/album/1etT1csdIKAp4WP79WZegD) | 1:17 | 2022-11-18 |  |
 | [Flyin' over](https://open.spotify.com/track/4MS2m7qUoTZKdPQ43Cavrb) | [Ned Conner](https://open.spotify.com/artist/17CIEaoWlKKUrHeldDwBu6) | [Flyin' over](https://open.spotify.com/album/3fQk6kiVP5vfcD2MfJeU3j) | 1:23 | 2021-10-05 | 2022-12-16 |
 | [Flying](https://open.spotify.com/track/5cGRutxZnYtcwjJW8GYshL) | [Ora Peel](https://open.spotify.com/artist/4jp2rmHOOcHd5CgPVn7pH7) | [Flying](https://open.spotify.com/album/6y5q8NPGUWFkzx4yCPdj2u) | 1:29 | 2021-10-05 | 2024-05-24 |
@@ -343,6 +345,7 @@
 | [Här kommer Pippi Långstrump](https://open.spotify.com/track/6pPKsXco1LF5kG9BGaXocm) | [Jessica Primrose](https://open.spotify.com/artist/6ANAnwnt0JgsbXKwXCe4rk) | [Pilutta\-visan](https://open.spotify.com/album/015ygZpYacjZXLczKCrOla) | 1:23 | 2022-10-28 | 2023-06-03 |
 | [I Am A Tree](https://open.spotify.com/track/0k1SFEKCVR8kjNNpkaWelN) | [Alice Greye](https://open.spotify.com/artist/4RdZNnJK1W6fJNOr9KrKpn) | [I Am A Tree](https://open.spotify.com/album/2jXeI0F6ayYXySHl7DLZq4) | 1:15 | 2024-03-01 |  |
 | [I am longing for tomorrow](https://open.spotify.com/track/0qA9hUwwGzKPToFpAWqPQv) | [Lanna Carroll](https://open.spotify.com/artist/0VDUO8LL09SYxcqoMdiJyq) | [I am longing for tomorrow](https://open.spotify.com/album/15vMLMmgmrasbDb3trDF6V) | 1:41 | 2021-10-05 | 2022-11-19 |
+| [I Am the Captain](https://open.spotify.com/track/4jUZM2I3o2TcfZjZQe1cms) | [Peyton Malloye](https://open.spotify.com/artist/6jEf6RIwSbHVnBM8dWxCVx) | [I Am the Captain](https://open.spotify.com/album/01hhqEPnOMtMX6wgJ5hYu3) | 1:39 | 2024-11-08 |  |
 | [I Believe In Magic](https://open.spotify.com/track/04nJrprLfKlFCjBLGZ9URD) | [Nettie Vincent](https://open.spotify.com/artist/45l3luMqRH9aEYSBGtoDjf) | [I Believe In Magic](https://open.spotify.com/album/1p1lfNNmpKyYZngelTy1cy) | 1:35 | 2022-10-28 | 2024-04-17 |
 | [I Can Be Anything](https://open.spotify.com/track/6V7vHsYdvyV1wZWI036aBO) | [Jo Nichols](https://open.spotify.com/artist/3XZOOG3V4fB9wCDBUUZlzq) | [I Can Be Anything](https://open.spotify.com/album/5uWxf0Kb5RVKtpzKY2WztB) | 1:38 | 2024-10-18 |  |
 | [I can wiggle my ears](https://open.spotify.com/track/2YB76HdRtdgSftyN6cdwYv) | [Wiktoria Bogan](https://open.spotify.com/artist/42UDhH9oqDNTdKwdgpQXfu) | [I can wiggle my ears](https://open.spotify.com/album/7jkfbhSayhgSbBFzubblUs) | 1:29 | 2023-01-06 |  |
@@ -557,6 +560,7 @@
 | [Ocean Lullaby](https://open.spotify.com/track/0n1Q3owF4MjejYHI95LjHU) | [Myrna Maguire](https://open.spotify.com/artist/0Hfs99lRGuzu8SRwQ0qWrB) | [Ocean Lullaby](https://open.spotify.com/album/1adRvl9STHysdmmtpGMxPN) | 1:53 | 2021-10-05 | 2022-11-19 |
 | [Ode to Joy](https://open.spotify.com/track/25tRQuOg6OMbxUp7u78lBV) | [Anna Moen](https://open.spotify.com/artist/0hVrDDe8JyOHhFLvO3iPuI) | [Ode to Joy](https://open.spotify.com/album/1vn3NrQ9bwV2aGirQBf9ul) | 2:08 | 2024-02-09 |  |
 | [Oh Where, Oh Where Has My Little Dog Gone](https://open.spotify.com/track/2aEw7nghP2iiHroWPNnbi2) | [Rita James](https://open.spotify.com/artist/1RvUEvUmNBz3SouH9hSzXK) | [Oh Dear! What Can the Matter Be?](https://open.spotify.com/album/0peN7BB75NgNr1AOZP2Gmj) | 1:38 | 2022-06-30 | 2023-02-18 |
+| [Oh! Susannah](https://open.spotify.com/track/1oYLLFMgzYkUt5iAz9R8oy) | [Fukuro III](https://open.spotify.com/artist/3TBOE0UjXKefc1CTMLqH6V) | [Oh! Susannah](https://open.spotify.com/album/0C68bf4qK5ymJe3ebAkUgD) | 1:31 | 2024-11-08 |  |
 | [Old Macdonald Had A Farm](https://open.spotify.com/track/75apuD4FSexqsVIVE6czFc) | [Maverick Selby](https://open.spotify.com/artist/70qivo8pTGpQqrjHgWYvqO) | [Old Macdonald Had A Farm](https://open.spotify.com/album/2EGM0gLcMaipzCOQLx7Jg3) | 1:38 | 2021-10-05 |  |
 | [Old Man Noah](https://open.spotify.com/track/7HOloYI5cDOpgFMKt3rpPC) | [Elia McWey](https://open.spotify.com/artist/0po0EvPeTYz8RX8UgYl7ZV) | [Old Man Noah](https://open.spotify.com/album/28sCXiNr7RPhKDAmBrA51n) | 2:24 | 2024-08-09 |  |
 | [Old Mother Hubbard](https://open.spotify.com/track/2sV9N58OhX1y1qH7au3W6Q) | [Gerjanne van Hooft](https://open.spotify.com/artist/0xLqKgame6hEOFHOldu391) | [My Favourite Day](https://open.spotify.com/album/2woibxWffNpImqTSwb0Ynh) | 1:27 | 2021-10-05 | 2022-10-29 |
@@ -644,6 +648,7 @@
 | [See See My Playmate](https://open.spotify.com/track/3YYusyuLbe5SI3J0adBAFD) | [Miki Broberg](https://open.spotify.com/artist/39z4lXEyRlhUkriGDZ8vhE) | [See See My Playmate](https://open.spotify.com/album/4hPY5HoT79O4rofZSgCiLJ) | 1:45 | 2021-10-05 | 2022-10-08 |
 | [Sesame Street Theme](https://open.spotify.com/track/5awcvowsa7bvzMjHvrj8G4) | [Rita James](https://open.spotify.com/artist/1RvUEvUmNBz3SouH9hSzXK) | [Polly Wolly Doodle](https://open.spotify.com/album/1D47jzEsc7QTZ1p3cWVspp) | 2:29 | 2022-07-27 | 2023-01-27 |
 | [Sharky's Toothbrush](https://open.spotify.com/track/69kYnUzPX39WrqgKejQIaD) | [Danielle Rogard](https://open.spotify.com/artist/7oH6mUa9mfdEz5EbouH8uu) | [Sharky's Toothbrush](https://open.spotify.com/album/5T42GEONHpXZO02VkBfSS9) | 2:09 | 2024-01-05 | 2024-07-19 |
+| [Shoo Fly Don't Bother Me](https://open.spotify.com/track/5ngVWKy8Cb4QEDb4wBi5JW) | [Carey Martin](https://open.spotify.com/artist/6Y1dXG8aEWh4fXVAmFkjhF) | [Shoo Fly Don't Bother Me](https://open.spotify.com/album/7LHlwRtafpZRvUIBycFHrq) | 2:45 | 2024-11-08 |  |
 | [Shoo Fly, Don't Bother Me](https://open.spotify.com/track/3aUC3hwhufBQOUJTH5i0U6) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Shoo Fly, Don't Bother Me](https://open.spotify.com/album/01G4wHweu6BTyuPAdwCEr2) | 1:25 | 2022-07-27 | 2023-10-06 |
 | [Simple Song](https://open.spotify.com/track/4l8mUzW5vgUwwI0jRnVTJL) | [Amos Green](https://open.spotify.com/artist/3krCByMqEQnYRWPZMCE5IY) | [Simple Song](https://open.spotify.com/album/4sTRGynpclFnCcoEgbd0P1) | 1:58 | 2024-08-23 |  |
 | [Sing And Swing](https://open.spotify.com/track/1g27egm6LvcdLAaGP3rveX) | [Catherine Finch](https://open.spotify.com/artist/2PPbLifiSbhXZZwfjtr4Kk) | [Sing And Swing](https://open.spotify.com/album/2KevLEuoAxDq8SQffxVh8i) | 1:44 | 2024-06-21 |  |

@@ -1,15 +1,35 @@
 {
-  "description": "A Danada Me Ligando  e os funks mais \ud83d\udd11 do Brasil. Foto: Mc Cebezinho, DJ Oreia, Mc Tuto, Mc Kako",
-  "num_followers": 6385561,
+  "description": "Barbie e os funks mais \ud83d\udd11 do Brasil. Foto: Mc Tuto, DJ Glenner",
+  "num_followers": 6386638,
   "original_name": "Funk Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxsKZAAAAABOSd3i0tpYzIMnRKgi8JbH",
+  "snapshot_id": "Zy1/ZAAAAABdHMyUjNyl0jZOQ6i1pek2",
   "tracks": [
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
+      "album": {
+        "name": "Barbie",
+        "url": "https://open.spotify.com/album/6MNtIXqAF51SJfAyETEtjL"
+      },
+      "artists": [
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        }
+      ],
+      "duration_ms": 192755,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/6s1kzj4EbhFLXbuAGJbhbn"
+    },
+    {
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "A Danada Me Ligando",
         "url": "https://open.spotify.com/album/5JSy0y2EhIpd2duve74FqE"
@@ -41,27 +61,7 @@
       "url": "https://open.spotify.com/track/3H7eBmcTJyuEMStfmKuLmG"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
-      "album": {
-        "name": "Barbie",
-        "url": "https://open.spotify.com/album/6MNtIXqAF51SJfAyETEtjL"
-      },
-      "artists": [
-        {
-          "name": "MC Tuto",
-          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        }
-      ],
-      "duration_ms": 192755,
-      "name": "Barbie",
-      "url": "https://open.spotify.com/track/6s1kzj4EbhFLXbuAGJbhbn"
-    },
-    {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "MTG PASSA PASSA PRA EU SARRAR",
         "url": "https://open.spotify.com/album/0oIoNUs6nCleWflBj6tSPY"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/5G0kKNRYFCoORvJ2VzwvrY"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Clack Bum",
         "url": "https://open.spotify.com/album/5u1yWj74PxP12ZqVUcn78H"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/5DrDpWyvharQkhsloNTN9W"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "M\u00f3 Fita",
         "url": "https://open.spotify.com/album/7ws4sJauck3uVokJ7T2JEr"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/3IjUrdmAjmjiSY7LUbYXVd"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Menino Maluquinho",
         "url": "https://open.spotify.com/album/2sYKQv22lrZBp1BwWT2cKr"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/1lflD04lIdgV10sCMwFYOu"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "300 no 7",
         "url": "https://open.spotify.com/album/5CHFMrb9SUSjeBiqParhYB"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/3ODUgIaqdpkMXXlsH1kDLh"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "\u00c9 Que Eu Te Sarrei",
         "url": "https://open.spotify.com/album/4RgsivVOT7p5GMQ8M6L8ow"
@@ -217,7 +217,43 @@
       "url": "https://open.spotify.com/track/7uPInsxTeMbyrJkDQaRwPh"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
+      "album": {
+        "name": "365 Dias (Vida Mansa)",
+        "url": "https://open.spotify.com/album/49TkAXV7QtwIAHwJ6Xusjt"
+      },
+      "artists": [
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "MC Bruno MS",
+          "url": "https://open.spotify.com/artist/7IOSPo9oGCLWtDEZtmxgTi"
+        },
+        {
+          "name": "Mc Magal",
+          "url": "https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr"
+        },
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        }
+      ],
+      "duration_ms": 527220,
+      "name": "365 Dias (Vida Mansa)",
+      "url": "https://open.spotify.com/track/2drZGdAOxfE2KoMGTkidmq"
+    },
+    {
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Do Jeito Que Voc\u00ea Mete",
         "url": "https://open.spotify.com/album/3CrUjWfFQTKOJLm84bETqM"
@@ -237,7 +273,7 @@
       "url": "https://open.spotify.com/track/5CtXR89REICvEZljUEK8r1"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "THE BOX MEDLEY FUNK 2",
         "url": "https://open.spotify.com/album/0dW6ozKchun19vdN4BSIUy"
@@ -273,7 +309,7 @@
       "url": "https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Mtg Forr\u00f3 e Desmantelo",
         "url": "https://open.spotify.com/album/4Vc4te8jSlWfMOnJVcGbdc"
@@ -297,47 +333,7 @@
       "url": "https://open.spotify.com/track/106SKHXoytRADjpxHBkJpV"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
-      "album": {
-        "name": "365 Dias",
-        "url": "https://open.spotify.com/album/531yrQRB8MaHyBIDg6IWpF"
-      },
-      "artists": [
-        {
-          "name": "Dj Victor",
-          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
-        },
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Mc Kanhoto",
-          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
-        },
-        {
-          "name": "MC G10",
-          "url": "https://open.spotify.com/artist/4OS9OnPH5DQm26wPTvrzoG"
-        },
-        {
-          "name": "Mc Lele JP",
-          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
-        },
-        {
-          "name": "MC Vine7",
-          "url": "https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP"
-        },
-        {
-          "name": "MC Menor da VG",
-          "url": "https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR"
-        }
-      ],
-      "duration_ms": 521958,
-      "name": "365 Dias",
-      "url": "https://open.spotify.com/track/0Y7k2ihn4ojGCbJkH1fR77"
-    },
-    {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Vida de Artista",
         "url": "https://open.spotify.com/album/2gMhGYe4x6O1vDG9AUjIwW"
@@ -361,35 +357,7 @@
       "url": "https://open.spotify.com/track/7BLjPZwgbxQSLZ4rWbboJY"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
-      "album": {
-        "name": "Funktroit",
-        "url": "https://open.spotify.com/album/7LFxfEV4nuomiNyOATUHsU"
-      },
-      "artists": [
-        {
-          "name": "MC Saci",
-          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
-        },
-        {
-          "name": "Complexo dos Hits",
-          "url": "https://open.spotify.com/artist/3ymF57lFWXJswhYvjC9O6G"
-        },
-        {
-          "name": "DJ Sammer",
-          "url": "https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs"
-        },
-        {
-          "name": "Mc Pretchako",
-          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
-        }
-      ],
-      "duration_ms": 116307,
-      "name": "Aquariano Nato",
-      "url": "https://open.spotify.com/track/3hfCle1QRfbwIpQ1B746lV"
-    },
-    {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Sorriso no Rosto",
         "url": "https://open.spotify.com/album/7uA5fxR9xIiO5rXx4pkchd"
@@ -413,7 +381,7 @@
       "url": "https://open.spotify.com/track/3kBYuWrGtx1tSHjzr0vlZh"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Eu sou Cantor N\u00e3o Sou Bandido",
         "url": "https://open.spotify.com/album/2hP5V6Xu71tHrg7bmlSS89"
@@ -441,71 +409,7 @@
       "url": "https://open.spotify.com/track/2wXqRqVGiGB2fyy9eoPJbP"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
-      "album": {
-        "name": "Bad Boys",
-        "url": "https://open.spotify.com/album/5seVWzVgUasO5YUeaQ7oaL"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        },
-        {
-          "name": "DJ Negret",
-          "url": "https://open.spotify.com/artist/2QjuiqjrRDISMbPYSNKRna"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Nois J\u00e1 T\u00e1 Rico",
-      "url": "https://open.spotify.com/track/2i3MSMA7vSXPeVS6Zyb4wy"
-    },
-    {
-      "added_at": "2024-10-25 03:03:00",
-      "album": {
-        "name": "Ritmada Interestelar",
-        "url": "https://open.spotify.com/album/4yGwZSJLoBPCKQNn5zMjWR"
-      },
-      "artists": [
-        {
-          "name": "DJ DUARTE",
-          "url": "https://open.spotify.com/artist/76JV5kzmRyAtP4cmMgjMZi"
-        },
-        {
-          "name": "DJ Kayo Original",
-          "url": "https://open.spotify.com/artist/3XbTjpdGElxdiHzbCGn8G7"
-        },
-        {
-          "name": "MC Lipivox",
-          "url": "https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY"
-        },
-        {
-          "name": "MC Rondom",
-          "url": "https://open.spotify.com/artist/2QfGTGoOWDlLmRxUvHllCc"
-        },
-        {
-          "name": "Prime Funk",
-          "url": "https://open.spotify.com/artist/0REr9s0EudwoJnxfgN3F1x"
-        }
-      ],
-      "duration_ms": 192461,
-      "name": "Ritmada Interestelar",
-      "url": "https://open.spotify.com/track/2i3HnfXvFT371Hbk4oZsfA"
-    },
-    {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "E A\u00ed Como Que T\u00e1 ?",
         "url": "https://open.spotify.com/album/5BRiXvVnDXU9lMuLKG4Msd"
@@ -525,7 +429,7 @@
       "url": "https://open.spotify.com/track/32L3KPUr7J2qIVGZpaFjsJ"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "MTG QUEM N\u00c3O QUER SOU EU",
         "url": "https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC"
@@ -553,7 +457,7 @@
       "url": "https://open.spotify.com/track/6RjSXi9cPGroetXeNsWFGL"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Rol\u00e9 na Favela de Nave",
         "url": "https://open.spotify.com/album/1m42RnQb6QKdchutofb4mH"
@@ -589,7 +493,7 @@
       "url": "https://open.spotify.com/track/1m5nbZiPpCIi9J2irLNoxh"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Baby Eu Tava na Rua da \u00c1gua",
         "url": "https://open.spotify.com/album/6HIPvZhnf9Pb6rFLQb7vmD"
@@ -613,7 +517,7 @@
       "url": "https://open.spotify.com/track/4sAoshwHCmh4IHMQxZHwRD"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "A Dan\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/2P09EUuvJ4OvfUS1fXR7Rg"
@@ -633,7 +537,7 @@
       "url": "https://open.spotify.com/track/3i1JavmShRKVqPKBUja1PG"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Ritmista 1.0",
         "url": "https://open.spotify.com/album/3WGjmOFzUrvNmkiiqevMbJ"
@@ -693,7 +597,39 @@
       "url": "https://open.spotify.com/track/3ZNjlT5zR0jkEVzSSZCQeJ"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
+      "album": {
+        "name": "Coisas Que Eu J\u00e1 Devia Ter Dito H\u00e1 Um Tempo",
+        "url": "https://open.spotify.com/album/43MpvvtxbsNWjH4pm0gVrL"
+      },
+      "artists": [
+        {
+          "name": "Mc Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        },
+        {
+          "name": "DJ JR No Beat",
+          "url": "https://open.spotify.com/artist/7eFJ773gGquYX3tKYa6ZUb"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 357966,
+      "name": "3 Palito",
+      "url": "https://open.spotify.com/track/1arnspMJ66M3Uye8frIZVW"
+    },
+    {
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "QUERO VER SE VOC\u00ca TEM ATITUDE",
         "url": "https://open.spotify.com/album/7ouR6mhMMrCZuv5qCv6ooT"
@@ -709,7 +645,7 @@
       "url": "https://open.spotify.com/track/4PDw1XpsurgUnN7YSZmh1Q"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "LAST NIGHT VERS\u00c3O BH",
         "url": "https://open.spotify.com/album/5o5M4Hk6KFea2jddrE8EFR"
@@ -741,27 +677,7 @@
       "url": "https://open.spotify.com/track/3fYzMA9OWy0lgOUv79alde"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
-      "album": {
-        "name": "Eu So Comi Ela uma Vez",
-        "url": "https://open.spotify.com/album/3Wt4fIdsPcbuOHpQvASMkQ"
-      },
-      "artists": [
-        {
-          "name": "Dj VN Maestro",
-          "url": "https://open.spotify.com/artist/31r6lIoq94Bww3TKIPQ01L"
-        },
-        {
-          "name": "MC G DS",
-          "url": "https://open.spotify.com/artist/1xIma0CABaifVU5xJAqAAs"
-        }
-      ],
-      "duration_ms": 107102,
-      "name": "Eu So Comi Ela uma Vez",
-      "url": "https://open.spotify.com/track/7eoRm37Ta1jvGMiMRfOQoa"
-    },
-    {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Baile do Bruxo (DELUXE)",
         "url": "https://open.spotify.com/album/0S3pM5Z9LfLBU6IdYFJxiA"
@@ -793,7 +709,55 @@
       "url": "https://open.spotify.com/track/24R0oyjvhV4HIFFvoK3XkP"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
+      "album": {
+        "name": "Quem Contou, Contou",
+        "url": "https://open.spotify.com/album/39hH50wo72weYxCYBcQPfL"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "MC Nego Micha",
+          "url": "https://open.spotify.com/artist/6SsSYKLEsf8EfDbFAi5GET"
+        },
+        {
+          "name": "Mc Menor Kau",
+          "url": "https://open.spotify.com/artist/7yt6f5WRDxTRv2clFM9OWd"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Mc Leh",
+          "url": "https://open.spotify.com/artist/4JTs3kffe8YHh5sjlJh3jK"
+        },
+        {
+          "name": "Mc Luki",
+          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
+        },
+        {
+          "name": "DJ Hyago",
+          "url": "https://open.spotify.com/artist/0QywoHqU6vOuwNwCgapgPf"
+        },
+        {
+          "name": "Mc Neguinho PRT",
+          "url": "https://open.spotify.com/artist/5UN3G2aFCOyez0SBlRkRZt"
+        }
+      ],
+      "duration_ms": 496410,
+      "name": "Quem Contou, Contou",
+      "url": "https://open.spotify.com/track/0s8vHahEw7KxNSbJPaYRJP"
+    },
+    {
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "A Internet \u00c9 Toxica",
         "url": "https://open.spotify.com/album/3PZQ1JYIh7M5QuyoK6rLYM"
@@ -825,7 +789,7 @@
       "url": "https://open.spotify.com/track/6Gn8SHd3RIWjOermcidCJk"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Desacato",
         "url": "https://open.spotify.com/album/0pJN3wcy6eveGD29QGBJt8"
@@ -865,7 +829,7 @@
       "url": "https://open.spotify.com/track/1fzaUKQv7sgGW0udQVghSW"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Samba de Malandro",
         "url": "https://open.spotify.com/album/45IHFpwPgHPvjQHsZHURSu"
@@ -905,7 +869,7 @@
       "url": "https://open.spotify.com/track/5u7Xi0QhfkYy3qETJJ5lae"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "De 10 Mulher 11 \u00c9 Maluca",
         "url": "https://open.spotify.com/album/5geYQEhBL2t9iqTsBKgkPe"
@@ -933,7 +897,7 @@
       "url": "https://open.spotify.com/track/1jN0ysNJ2d9VZwVdlgspjr"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Faz um Vuk Vuk (Teto Espelhado)",
         "url": "https://open.spotify.com/album/59qldBzRiQutEYO1hqxw7H"
@@ -957,7 +921,27 @@
       "url": "https://open.spotify.com/track/64CovjRwInpOJW4PiGMprY"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
+      "album": {
+        "name": "Judas",
+        "url": "https://open.spotify.com/album/7wxIOfMJIdPhyCSinj0pDf"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "DJ BOY",
+          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Judas",
+      "url": "https://open.spotify.com/track/06WzOusi75IJ2Ew8fnRjHd"
+    },
+    {
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Let's Go 4",
         "url": "https://open.spotify.com/album/5bL1JfGehas80YH7qoCyBL"
@@ -1013,7 +997,7 @@
       "url": "https://open.spotify.com/track/2InS5VWKJQbsFBKOsf1cJB"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Sempre na Simplicidade",
         "url": "https://open.spotify.com/album/28vY5m1Agyk9IdbgWacYow"
@@ -1045,7 +1029,7 @@
       "url": "https://open.spotify.com/track/4XaLEsmrRGSDkgd7qpn4Nl"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "ENTRA NA DEFENDER",
         "url": "https://open.spotify.com/album/3QqoDKJiiYzJhlwhpcszsO"
@@ -1065,7 +1049,7 @@
       "url": "https://open.spotify.com/track/6P1mkNAmgihFwFRBhpaev3"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Filha do Deputado",
         "url": "https://open.spotify.com/album/5qFj8svsT6jtBq7X4dMY7Z"
@@ -1097,7 +1081,7 @@
       "url": "https://open.spotify.com/track/5Qqpplbu8ROd71c0brQxyy"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Vamo de Pagodin",
         "url": "https://open.spotify.com/album/5Fn3Y1kin9K4bEv71S728q"
@@ -1121,7 +1105,7 @@
       "url": "https://open.spotify.com/track/6FllOXq1UDCFDt1V4YvN3K"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Eletrofunk Raiz",
         "url": "https://open.spotify.com/album/34GleyRUWxC5I2pn6rgmwr"
@@ -1141,7 +1125,7 @@
       "url": "https://open.spotify.com/track/4t4V2ptzeV94uXjUS1X18F"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Set Dj Gm 6.0",
         "url": "https://open.spotify.com/album/3PJWTYXjCCatdpiSKNUY9N"
@@ -1209,7 +1193,7 @@
       "url": "https://open.spotify.com/track/4WXVqLSRHF4ypdiBngbcqU"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Todo Mundo Odeia o IG",
         "url": "https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4"
@@ -1237,7 +1221,7 @@
       "url": "https://open.spotify.com/track/6xW61JP2f3hcsbOwn7dzi5"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Senta Pro Bruto",
         "url": "https://open.spotify.com/album/4KyWHPjJZzYfGqM4NbnOyC"
@@ -1257,7 +1241,7 @@
       "url": "https://open.spotify.com/track/2hloKDkwGLjtYvAoqn39gV"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Os Bico T\u00e3o Se Perguntando (Let\u2019s Go 3)",
         "url": "https://open.spotify.com/album/7bdWZHUJyzQAzV0qbBrZ4J"
@@ -1273,7 +1257,7 @@
       "url": "https://open.spotify.com/track/156LKAN2oh16qflL5oz4tO"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Conselho da Minha Ex",
         "url": "https://open.spotify.com/album/0FCr0p4rgWqFOGWfTJJ8qw"
@@ -1305,7 +1289,39 @@
       "url": "https://open.spotify.com/track/4eOZLlPpkrnvm8EmU20IqM"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
+      "album": {
+        "name": "Bad Boys",
+        "url": "https://open.spotify.com/album/5seVWzVgUasO5YUeaQ7oaL"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        },
+        {
+          "name": "DJ Negret",
+          "url": "https://open.spotify.com/artist/2QjuiqjrRDISMbPYSNKRna"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Nois J\u00e1 T\u00e1 Rico",
+      "url": "https://open.spotify.com/track/2i3MSMA7vSXPeVS6Zyb4wy"
+    },
+    {
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Alcateia",
         "url": "https://open.spotify.com/album/5ds061BRZCKGmFLpq1Cwok"
@@ -1325,7 +1341,7 @@
       "url": "https://open.spotify.com/track/4F3XVx6fmZvWLBqmBG1gxg"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Gol Bolinha, Gol Quadrado 2",
         "url": "https://open.spotify.com/album/4TYCCK3qrAyMY5soBMCNyO"
@@ -1345,7 +1361,7 @@
       "url": "https://open.spotify.com/track/0U9CZWq6umZsN432nh3WWT"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "A Culpa N\u00e3o \u00c9 Minha",
         "url": "https://open.spotify.com/album/5ILsdU09Tv2lw6X7LFLxg2"
@@ -1365,7 +1381,7 @@
       "url": "https://open.spotify.com/track/6RqEGo7zvc8g31ZyG1Mm6Q"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Set Dj Boy 3.0",
         "url": "https://open.spotify.com/album/6IoCwCs6YhWNicGqXKwTdA"
@@ -1409,7 +1425,7 @@
       "url": "https://open.spotify.com/track/2xs2TwrlfamtW0DQqId0M5"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Set Final de Ano",
         "url": "https://open.spotify.com/album/3pBhYZe8hfAyYTAgA0FjNC"
@@ -1433,7 +1449,7 @@
       "url": "https://open.spotify.com/track/3syxcxgRLd25yPYfG8qsot"
     },
     {
-      "added_at": "2024-10-25 03:03:00",
+      "added_at": "2024-11-08 03:03:00",
       "album": {
         "name": "Pagodeiro",
         "url": "https://open.spotify.com/album/2SMhhX9Z0TUVdpON3nyrBR"

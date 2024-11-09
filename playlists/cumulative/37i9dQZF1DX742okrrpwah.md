@@ -4,7 +4,7 @@
 
 > Jungeli, Dadju au top des nouveautés de la semaine !
 
-2,404 songs - 5 day 6 hr 16 min
+2,406 songs - 5 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1206,6 +1206,7 @@
 | [Left My Keys](https://open.spotify.com/track/072iV9rOzp5h5hE5rfktPY) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Left My Keys](https://open.spotify.com/album/5FY04fjGmEzuFTofmNIa93) | 3:17 | 2024-06-06 | 2024-06-14 |
 | [Lemon](https://open.spotify.com/track/2anSEDAqaZ8CTi9YNGV3xS) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lemon](https://open.spotify.com/album/4UjGNWCVeNpTjYNCtHNx96) | 3:50 | 2024-06-20 | 2024-06-28 |
 | [Lento](https://open.spotify.com/track/7Fzu22wAv7NTHUeT3CjdnG) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lento](https://open.spotify.com/album/0clIAjaELdNGYWu89nemOB) | 3:03 | 2024-09-19 | 2024-09-27 |
+| [Les Anges](https://open.spotify.com/track/5qftMKQEhmvZTeP1zWXs1d) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/1ttdXNBRHGq9ASHdeA36cI) | 2:38 | 2024-11-08 |  |
 | [Les Armes](https://open.spotify.com/track/2WEexWKjumCknzB41qU2UV) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Les Armes](https://open.spotify.com/album/7lWeyEno9C9MCDlOEFeGq1) | 3:07 | 2024-04-25 | 2024-05-03 |
 | [Les bonbons](https://open.spotify.com/track/2KQRtOnkcFpPM7f6P761Oe) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Les bonbons](https://open.spotify.com/album/6NAzRGJOPpOUs24BLpzdsI) | 2:51 | 2024-05-16 | 2024-05-24 |
 | [Les choses défendues](https://open.spotify.com/track/3E7uokyjF1v719vjNCKsLO) | [Cali](https://open.spotify.com/artist/1ULXG4gd6YSvdjuFBJ6sAA), [Pascal Obispo](https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS) | [20 Ans d'Amour Parfait \(Edition Deluxe\)](https://open.spotify.com/album/5F1eDs8YMC2EJRy4ZoL64h) | 3:55 | 2024-06-06 | 2024-06-14 |
@@ -1489,6 +1490,7 @@
 | [Nice To Meet Me](https://open.spotify.com/track/5xA9Y5MQ3UdHOthViOVg2K) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Nice To Meet Me](https://open.spotify.com/album/0UkpkkacCX6qmSNsAEOZrv) | 3:04 | 2024-10-24 | 2024-11-01 |
 | [NICE TO MEET YA \(feat\. Flyana Boss\)](https://open.spotify.com/track/0Tv1YRY8Lm8OFcn6dJCF0e) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [NICE TO MEET YA \(feat\. Flyana Boss\)](https://open.spotify.com/album/7xWp3QwYJ2myisipllWCVa) | 3:03 | 2024-07-11 | 2024-07-19 |
 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-05-23 | 2024-06-01 |
+| [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-08 |  |
 | [Nightcall](https://open.spotify.com/track/2KejCKgm7l3uefW9cFt8cH) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Nightcall](https://open.spotify.com/album/05OLq8nG4L5WYZXTfXVYM7) | 2:59 | 2024-09-19 | 2024-09-27 |
 | [Nique le champagne](https://open.spotify.com/track/6ZmJ0qoGH9doeb9z8Ziyl9) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [Nique le champagne](https://open.spotify.com/album/3aOAxYXLucWSIfUhdAdt3Z) | 2:24 | 2024-07-11 | 2024-07-19 |
 | [NO](https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [NO](https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc) | 2:28 | 2024-08-29 | 2024-09-06 |
@@ -1577,7 +1579,7 @@
 | [One Eye Open](https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [One Eye Open](https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck) | 3:32 | 2024-10-24 | 2024-11-01 |
 | [One Last Dance \(From "Venom: The Last Dance"\)](https://open.spotify.com/track/4vJk5lD1Lk89jgBOk8E7zK) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [One Last Dance \(From "Venom: The Last Dance"\)](https://open.spotify.com/album/1jpbeJtRIMU4zgnZfh48rz) | 2:30 | 2024-10-24 | 2024-11-01 |
 | [One Of The Pack](https://open.spotify.com/track/6yluvonzmFUjHMpcbTzBej) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [One Of The Pack](https://open.spotify.com/album/5brmo3bAoy48mBJhm3JiKE) | 3:17 | 2024-04-25 | 2024-05-03 |
-| [One Of Them](https://open.spotify.com/track/6NLQOu4ScjSpun8yFJyJMo) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [One Of Them](https://open.spotify.com/album/5fEKE5MtAGoi4z6bEe8Rmo) | 3:39 | 2024-11-07 |  |
+| [One Of Them](https://open.spotify.com/track/6NLQOu4ScjSpun8yFJyJMo) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [One Of Them](https://open.spotify.com/album/5fEKE5MtAGoi4z6bEe8Rmo) | 3:06 | 2024-11-07 |  |
 | [one of wun](https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:24 | 2024-05-09 | 2024-05-17 |
 | [Onions](https://open.spotify.com/track/3XxZzksa9YpoYJX27YbggN) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [To the Ghosts](https://open.spotify.com/album/41L2pfxvjyMRse8MVyRX7j) | 4:10 | 2024-07-25 | 2024-08-02 |
 | [Only You](https://open.spotify.com/track/5147NKHUT2KvPhmQBp4PHp) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Only You](https://open.spotify.com/album/4mBg8H35g1bajfKDR0AlOy) | 3:29 | 2024-08-15 | 2024-08-23 |

@@ -21473,6 +21473,24 @@
     },
     {
       "album": {
+        "name": "MOLLY",
+        "url": "https://open.spotify.com/album/508PdlAqwptvHS6IuII1H7"
+      },
+      "artists": [
+        {
+          "name": "Zuloo",
+          "url": "https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104163,
+      "name": "MOLLY",
+      "url": "https://open.spotify.com/track/4XmuzEhU6LPRL4fdWqt6LU"
+    },
+    {
+      "album": {
         "name": "Essentiels",
         "url": "https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx"
       },
@@ -29920,7 +29938,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
@@ -32366,7 +32384,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 248160,
       "name": "Udenfor S\u00e6sonen",
       "url": "https://open.spotify.com/track/44OfLc9xebeUK8qvxkezXA"
@@ -33976,6 +33994,24 @@
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
+    },
+    {
+      "album": {
+        "name": "When I Cry",
+        "url": "https://open.spotify.com/album/5bvDFOJI8XRLhegZtwlyQn"
+      },
+      "artists": [
+        {
+          "name": "BONAD",
+          "url": "https://open.spotify.com/artist/5gmxvdlOJJ134PXgoaIppb"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191637,
+      "name": "When I Cry",
+      "url": "https://open.spotify.com/track/4PcB3sBYDhWuGcsWH9GWvH"
     },
     {
       "album": {

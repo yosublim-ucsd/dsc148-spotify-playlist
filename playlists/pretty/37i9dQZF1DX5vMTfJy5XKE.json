@@ -1,12 +1,12 @@
 {
   "description": "'Tis the season! All new holiday releases. Cover: Laufey",
-  "num_followers": 240091,
+  "num_followers": 240340,
   "original_name": "New Music Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyjsDAAAAADKh83B6lGisOjgWla6zAet",
+  "snapshot_id": "Zy2a0AAAAACF7AuthCBxSdxujFdosgkv",
   "tracks": [
     {
       "added_at": "2024-11-04 15:45:16",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/45fY77CtQcaLXPSzuDgIV0"
     },
     {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "December 25th",
+        "url": "https://open.spotify.com/album/76xK4t4mW2HvVtA09CLcN6"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 231245,
+      "name": "December 25th",
+      "url": "https://open.spotify.com/track/1QNPTNaw67BanVtwXKIX1a"
+    },
+    {
       "added_at": "2024-11-04 15:45:16",
       "album": {
         "name": "1 Wish",
@@ -39,6 +55,62 @@
       "duration_ms": 167105,
       "name": "1 Wish",
       "url": "https://open.spotify.com/track/1knrvScmRb6ZCPPsBzDHcy"
+    },
+    {
+      "added_at": "2024-11-04 15:45:16",
+      "album": {
+        "name": "Blue Christmas ...duh",
+        "url": "https://open.spotify.com/album/2jAxdB4oHVxoEnqoEYbcOl"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 197319,
+      "name": "All I Want for Christmas is a Cowboy",
+      "url": "https://open.spotify.com/track/3LelA67J3InQRCvUnyHomd"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Maybe This Christmas",
+        "url": "https://open.spotify.com/album/2qYTW0LqowMq5aE40Vs7qt"
+      },
+      "artists": [
+        {
+          "name": "The Philly Specials",
+          "url": "https://open.spotify.com/artist/4JPJvxDtfBlQAiNm8dd7vX"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Jason Kelce",
+          "url": "https://open.spotify.com/artist/11RtainpIFozRURWgPJxFL"
+        }
+      ],
+      "duration_ms": 133200,
+      "name": "Maybe This Christmas",
+      "url": "https://open.spotify.com/track/1DmhtmFxQZRrkydMPUaZwi"
+    },
+    {
+      "added_at": "2024-10-15 13:52:46",
+      "album": {
+        "name": "Run Rudolph Run - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/1pSxnWkixgHxo9jnGK66nb"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 155846,
+      "name": "Run Rudolph Run - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/6pheMGrfMwwnypqafU7d4k"
     },
     {
       "added_at": "2024-10-15 13:52:46",
@@ -73,6 +145,22 @@
       "url": "https://open.spotify.com/track/0JnT4HGgwKZspTP55W7EaN"
     },
     {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Carols and Candlelight",
+        "url": "https://open.spotify.com/album/4IQwHKLuo1hdsNtK37aRRg"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 223424,
+      "name": "Mary, Did You Know?",
+      "url": "https://open.spotify.com/track/4zp9Qh3HoED30pcl9bVIOI"
+    },
+    {
       "added_at": "2024-11-04 15:45:16",
       "album": {
         "name": "Meet Me Next Christmas",
@@ -87,6 +175,22 @@
       "duration_ms": 163922,
       "name": "Meet Me Next Christmas",
       "url": "https://open.spotify.com/track/71c1qn8GR6xhx7pFjWWcks"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "The Christmas Waltz",
+        "url": "https://open.spotify.com/album/4GZSL3tphAIbf4AS2fbz96"
+      },
+      "artists": [
+        {
+          "name": "Ruelle",
+          "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
+        }
+      ],
+      "duration_ms": 156210,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/4p7s4zLiVJPG1raTM8Pq6t"
     },
     {
       "added_at": "2024-11-04 15:45:16",
@@ -109,36 +213,24 @@
       "url": "https://open.spotify.com/track/2GwlfJ7w8UeicKIxTClmyW"
     },
     {
-      "added_at": "2024-10-15 13:52:46",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Run Rudolph Run - Spotify Singles Holiday",
-        "url": "https://open.spotify.com/album/1pSxnWkixgHxo9jnGK66nb"
+        "name": "The Season 3",
+        "url": "https://open.spotify.com/album/19WHVFUxoC46P4c2GxypNw"
       },
       "artists": [
         {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 155846,
-      "name": "Run Rudolph Run - Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/6pheMGrfMwwnypqafU7d4k"
-    },
-    {
-      "added_at": "2024-11-04 15:45:16",
-      "album": {
-        "name": "Blue Christmas ...duh",
-        "url": "https://open.spotify.com/album/2jAxdB4oHVxoEnqoEYbcOl"
-      },
-      "artists": [
+          "name": "Steve Perry",
+          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
+        },
         {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+          "name": "Ray Perry",
+          "url": "https://open.spotify.com/artist/7Mf5asPyqcl5ZrFxScutTw"
         }
       ],
-      "duration_ms": 197319,
-      "name": "All I Want for Christmas is a Cowboy",
-      "url": "https://open.spotify.com/track/3LelA67J3InQRCvUnyHomd"
+      "duration_ms": 184894,
+      "name": "Call Me Irresponsible (feat. Ray Perry)",
+      "url": "https://open.spotify.com/track/6yWv7SxgX1JfxsGBilIwXt"
     },
     {
       "added_at": "2024-11-04 15:45:16",
@@ -171,6 +263,22 @@
       "duration_ms": 203097,
       "name": "Santa For Someone",
       "url": "https://open.spotify.com/track/41131KEQzYOtJiYxOcXyxp"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Christmas Song",
+        "url": "https://open.spotify.com/album/5quVgcpx3RfW2FBa2Mb5U5"
+      },
+      "artists": [
+        {
+          "name": "Finn Askew",
+          "url": "https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X"
+        }
+      ],
+      "duration_ms": 204132,
+      "name": "Christmas Song",
+      "url": "https://open.spotify.com/track/6s1zYjpPYcDUHK3i8nia3W"
     },
     {
       "added_at": "2024-11-04 15:45:16",
@@ -209,6 +317,22 @@
       "url": "https://open.spotify.com/track/1JHsB2E0FWEEBVdFV2W6w8"
     },
     {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Ms. Claus",
+        "url": "https://open.spotify.com/album/43l4qX8YiR76NDicCYHFNl"
+      },
+      "artists": [
+        {
+          "name": "Jillian Rossi",
+          "url": "https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "Ms. Claus",
+      "url": "https://open.spotify.com/track/575XnV6Ia5LSe5AQmPTTbY"
+    },
+    {
       "added_at": "2024-11-04 15:45:16",
       "album": {
         "name": "Holiday Seasoning",
@@ -227,6 +351,26 @@
       "duration_ms": 183695,
       "name": "Holiday (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/5tsAOJprlHSVMhuw2bCnqS"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "A Brand New Christmas",
+        "url": "https://open.spotify.com/album/2UCPpJaHjs9QQnt5Fj9ab2"
+      },
+      "artists": [
+        {
+          "name": "Joey McIntyre",
+          "url": "https://open.spotify.com/artist/3SIW6eVIZSz9V05WsaKIr3"
+        },
+        {
+          "name": "Shoshana Bean",
+          "url": "https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5"
+        }
+      ],
+      "duration_ms": 217344,
+      "name": "A Brand New Christmas",
+      "url": "https://open.spotify.com/track/3CEdBozIQeXcLL8CpXuAeo"
     },
     {
       "added_at": "2024-10-15 13:52:46",
@@ -281,6 +425,22 @@
       "url": "https://open.spotify.com/track/69k7hEpxYF96lUmkDethQ2"
     },
     {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Christmas Is Love",
+        "url": "https://open.spotify.com/album/4lBaCss8rJp4wYGv7B1N8d"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 358600,
+      "name": "Christmas Is Love",
+      "url": "https://open.spotify.com/track/7c6fEs9S4cQY9kJQ1pDIGh"
+    },
+    {
       "added_at": "2024-11-04 15:45:16",
       "album": {
         "name": "In December",
@@ -333,6 +493,22 @@
       "url": "https://open.spotify.com/track/0jPnNZS9IJ0awbpFLZr3EY"
     },
     {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Tonight Is Christmas Eve",
+        "url": "https://open.spotify.com/album/67GFy7WThZqCX0TlMR36I3"
+      },
+      "artists": [
+        {
+          "name": "Girl Named Tom",
+          "url": "https://open.spotify.com/artist/25kFdVpw2IAddoCoBvGFOr"
+        }
+      ],
+      "duration_ms": 210316,
+      "name": "Tonight Is Christmas Eve",
+      "url": "https://open.spotify.com/track/1qBM24Mj19CDeytdj0blpS"
+    },
+    {
       "added_at": "2024-11-04 15:45:16",
       "album": {
         "name": "Single Bells",
@@ -379,6 +555,22 @@
       "duration_ms": 142245,
       "name": "Lost In New York",
       "url": "https://open.spotify.com/track/0f0CiWj56hGp15U4oAK96C"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Top Of My Wish List",
+        "url": "https://open.spotify.com/album/52O1mjO2ZictYL8AgUs2I5"
+      },
+      "artists": [
+        {
+          "name": "Eden xo",
+          "url": "https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "Top Of My Wish List",
+      "url": "https://open.spotify.com/track/0NXOC50ScoFtjoD1ZYFRAs"
     },
     {
       "added_at": "2024-11-04 15:45:16",
@@ -433,6 +625,26 @@
       "url": "https://open.spotify.com/track/6gLlky9cJnppnVKGhvIs90"
     },
     {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "All Through The Night (Reimagined)",
+        "url": "https://open.spotify.com/album/5DSjb1u7aacVCpUjssa9nv"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "All Through The Night - Reimagined",
+      "url": "https://open.spotify.com/track/6BsZ7G5BxkP39S7dE8b5NT"
+    },
+    {
       "added_at": "2024-10-11 16:41:18",
       "album": {
         "name": "Silent Night (Rewrapped)",
@@ -463,6 +675,22 @@
       "duration_ms": 189753,
       "name": "santa doesn\u2019t know you like i do",
       "url": "https://open.spotify.com/track/3s5bNa5UJK4zSZwxy6K5qg"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "I Wish It Could Be Christmas Everyday",
+        "url": "https://open.spotify.com/album/2MXb7jT3PBcoM5tJRwbfMC"
+      },
+      "artists": [
+        {
+          "name": "A*Teens",
+          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "I Wish It Could Be Christmas Everyday",
+      "url": "https://open.spotify.com/track/04gzJ3A3kLV6CfDyxCwDsG"
     },
     {
       "added_at": "2024-11-04 15:45:16",
@@ -1215,22 +1443,6 @@
       "duration_ms": 163925,
       "name": "Red Christmas - From \"Descendants: The Rise of Red\"",
       "url": "https://open.spotify.com/track/6PB4cjXAxH1YxXHzug7i7L"
-    },
-    {
-      "added_at": "2024-08-30 16:49:56",
-      "album": {
-        "name": "Honor The Light",
-        "url": "https://open.spotify.com/album/6NXHxEZBAedotZFvYiXOhI"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 102066,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/6ADnHfEQ3Bc9HqdFMlkFZM"
     },
     {
       "added_at": "2024-09-13 04:00:00",

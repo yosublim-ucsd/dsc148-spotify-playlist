@@ -2,13 +2,13 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Joé Dwèt Filé
+> Les hits zouk du moment\. Photo : Lycinaïs Jean
 
 183 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [4 Kampé](https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [4 Kampé](https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88) | 3:34 | 2024-10-24 |  |
+| [4 Kampé](https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [4 Kampé](https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88) | 3:34 | 2024-10-24 | 2024-11-09 |
 | [6:45](https://open.spotify.com/track/6LH1KKXEw1K8UEKMK75qyz) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [6:45](https://open.spotify.com/album/0LifwlCqALAbqvSx2fRSXR) | 3:22 | 2024-04-18 | 2024-06-28 |
 | [A GOU A\-W](https://open.spotify.com/track/4CsbuoqSMIlxMzquvFPxws) | [Tronixx](https://open.spotify.com/artist/6RO2UXynldo4GeiBvccA5M), [Fécat'jy](https://open.spotify.com/artist/6El92u2iCNwzyOQPXpparK) | [A GOU A\-W](https://open.spotify.com/album/6DojCUM0aZVwBzq021MUt8) | 3:29 | 2024-01-18 | 2024-02-09 |
 | [Alchimie](https://open.spotify.com/track/24LZjnwdJ7jn8aiW3Ym70D) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L), [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [Alchimie](https://open.spotify.com/album/0KUAKOJFUlocgmrwGwvV07) | 3:11 | 2024-04-04 |  |

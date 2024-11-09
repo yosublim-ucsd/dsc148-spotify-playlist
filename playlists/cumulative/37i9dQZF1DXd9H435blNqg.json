@@ -554,7 +554,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 212309,
       "name": "Come on Now (Take From Me)",
       "url": "https://open.spotify.com/track/2IXKXOsEJNTuKvs0eq5h3H"
@@ -2244,6 +2244,24 @@
       "duration_ms": 193914,
       "name": "Shot Down",
       "url": "https://open.spotify.com/track/6fqeBYpDjHcCTtIfZ4L9i0"
+    },
+    {
+      "album": {
+        "name": "Sitting Pretty",
+        "url": "https://open.spotify.com/album/0IcEBv7AWszk2qa2Zp3xWd"
+      },
+      "artists": [
+        {
+          "name": "William The Conqueror",
+          "url": "https://open.spotify.com/artist/1r3usFuloWo113ldctoDnX"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220173,
+      "name": "Sitting Pretty",
+      "url": "https://open.spotify.com/track/4s7P2fvRasD6A0jNd8dga2"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  <a href=\"spotify:artist:6piIAIurGAryW5h1rqQC16\">Passion</a>",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  <a href=\"spotify:artist:26T4yOaOoFJvUvxR87Y9HO\">Bethel Music</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -2177,6 +2177,28 @@
     },
     {
       "album": {
+        "name": "Center (Live)",
+        "url": "https://open.spotify.com/album/14twTxZEfFwCDuKXmajio1"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465379,
+      "name": "Center - Live",
+      "url": "https://open.spotify.com/track/4UYRVsS5vkpuBZXtpHU6iF"
+    },
+    {
+      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/42cHDu5hVDctyXV4fAe9UB"
       },
@@ -2338,7 +2360,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 297493,
       "name": "Christ The Perfect Sacrifice",
       "url": "https://open.spotify.com/track/2j7DfUnigXg0Gg4culnOxx"
@@ -3073,6 +3095,24 @@
     },
     {
       "album": {
+        "name": "Dry Ground",
+        "url": "https://open.spotify.com/album/5jyQwvIZSQozXT1GHEMhZo"
+      },
+      "artists": [
+        {
+          "name": "Church of the City",
+          "url": "https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305772,
+      "name": "Dry Ground",
+      "url": "https://open.spotify.com/track/2rN3VHilUMtGh7CVmCVUqs"
+    },
+    {
+      "album": {
         "name": "Growing Pains",
         "url": "https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG"
       },
@@ -3216,7 +3256,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 437655,
       "name": "Even Though I Walk - Live",
       "url": "https://open.spotify.com/track/2VfTW8FhSpyxUXSyIE7TfR"
@@ -4890,6 +4930,24 @@
       "duration_ms": 339109,
       "name": "Here I Am (feat. Ashley Hess)",
       "url": "https://open.spotify.com/track/3fXb7uR4CDGALrfKMkdIy3"
+    },
+    {
+      "album": {
+        "name": "Here I Am To Worship (Live)",
+        "url": "https://open.spotify.com/album/7qCZMe5IJGHyxGqr1HVW2M"
+      },
+      "artists": [
+        {
+          "name": "For All Seasons",
+          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349800,
+      "name": "Here I Am To Worship - Live",
+      "url": "https://open.spotify.com/track/6SdVwKFpXreK1gfBvIoheg"
     },
     {
       "album": {
@@ -9987,6 +10045,36 @@
     },
     {
       "album": {
+        "name": "Chapter 1",
+        "url": "https://open.spotify.com/album/2xI7LBeYPzK52a5VdiJGvj"
+      },
+      "artists": [
+        {
+          "name": "CXMMXNS",
+          "url": "https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa"
+        },
+        {
+          "name": "Reuben Morgan",
+          "url": "https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05"
+        },
+        {
+          "name": "Ben Fielding",
+          "url": "https://open.spotify.com/artist/33u16EyDkCbsyvh66ujJiO"
+        },
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275769,
+      "name": "Praise Belongs",
+      "url": "https://open.spotify.com/track/0XnzsPCKJ2xuifNoGiG29V"
+    },
+    {
+      "album": {
         "name": "Praise Forever (feat. Brennley Brown) - Live",
         "url": "https://open.spotify.com/album/159bA8TgD2NL5YyzxbHmbF"
       },
@@ -10668,6 +10756,24 @@
       "duration_ms": 561041,
       "name": "Rise And Shine - Live",
       "url": "https://open.spotify.com/track/1hUPaZqEBm2w5G64GLtHSH"
+    },
+    {
+      "album": {
+        "name": "Rooftops (Live from Cape Town)",
+        "url": "https://open.spotify.com/album/7Me2jNq1CQRVQwAAHfzcxN"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441600,
+      "name": "Rooftops - Live from Cape Town",
+      "url": "https://open.spotify.com/track/4t7wh7XNKuSBcpCv6qqQsR"
     },
     {
       "album": {
@@ -13338,7 +13444,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 229367,
       "name": "Trample (with Jon Reddick)",
       "url": "https://open.spotify.com/track/1oBAvcjcsTqi56hg5E0woo"
@@ -13474,7 +13580,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 362114,
       "name": "Tu Presencia",
       "url": "https://open.spotify.com/track/3EfCDNfMcfNfIYLIJTAdjC"
@@ -14198,7 +14304,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 340708,
       "name": "Who Is Like You",
       "url": "https://open.spotify.com/track/3Gr7zPy6KiLaa6vfK4SYOR"
@@ -14549,6 +14655,32 @@
     },
     {
       "album": {
+        "name": "Yahweh Holy (Church Version)",
+        "url": "https://open.spotify.com/album/6J1M9NzFnelE6HM4cdKYyq"
+      },
+      "artists": [
+        {
+          "name": "Homecoming",
+          "url": "https://open.spotify.com/artist/3j75QaSe0OJNGFMY6J0CfX"
+        },
+        {
+          "name": "May Angeles",
+          "url": "https://open.spotify.com/artist/3QnnsnDjUGYX8cYQuub0eh"
+        },
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311001,
+      "name": "Yahweh Holy - Church Version",
+      "url": "https://open.spotify.com/track/4Wmh6RbHEhx2q7VjMPP5q7"
+    },
+    {
+      "album": {
         "name": "Yahweh Holy (Live)",
         "url": "https://open.spotify.com/album/6wXBDvFESZQZVvSwUqBqub"
       },
@@ -14568,7 +14700,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 365352,
       "name": "Yahweh Holy - Live",
       "url": "https://open.spotify.com/track/3BbpZCCPtdg7lDsM0H6hjf"

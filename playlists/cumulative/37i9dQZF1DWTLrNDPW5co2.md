@@ -2,9 +2,9 @@
 
 ### [Club Resistance](https://open.spotify.com/playlist/37i9dQZF1DWTLrNDPW5co2)
 
-> Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: SOPHIE
+> Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: horsegiirL
 
-302 songs - 19 hr 49 min
+303 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Miasto](https://open.spotify.com/track/0weYBSmvIBpSgwfNECBjzn) | [Baasch](https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga) | [Noc](https://open.spotify.com/album/4VRsOPNYWyOBqaG02BDVEf) | 4:12 | 2024-06-01 | 2024-06-15 |
 | [Mine](https://open.spotify.com/track/2hPA6eCXmilws9KXeKwOGN) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Mine](https://open.spotify.com/album/0ugHcuARkUFmlZTRIpN00U) | 3:41 | 2024-06-28 | 2024-10-12 |
 | [Moodboard](https://open.spotify.com/track/6fpqzhSCpzGQthHJGA3j6u) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Moodboard](https://open.spotify.com/album/2e2Y4XowuTP4qR48PBvHZA) | 2:12 | 2024-09-06 |  |
+| [Moved 2 LA](https://open.spotify.com/track/1rGEWjkvYitclorCMdraGf) | [Ty Sunderland](https://open.spotify.com/artist/31JqNN8V3p95rXgJ7WjeOI), [Queen Of Melrose](https://open.spotify.com/artist/4D4TS44nU8GMC5wPNZcs8J) | [Moved 2 LA](https://open.spotify.com/album/2noiCSRSTjX22GVq3lTtSD) | 2:33 | 2024-11-08 |  |
 | [Moving On](https://open.spotify.com/track/1euCA1MoW3E2D1HijdBDlc) | [Will Watt](https://open.spotify.com/artist/01GObtyNNir2fl1CBUMwyq), [MIMI](https://open.spotify.com/artist/2CVsdM6ChnaL6fO64E3a5n) | [Moving On](https://open.spotify.com/album/3T7wgI4sXr14kZrv1Qrsk7) | 3:26 | 2024-10-25 |  |
 | [mr useless](https://open.spotify.com/track/1Ar2McJ98hNvgsHlxLTPQc) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [Club Shy \(extended\)](https://open.spotify.com/album/1ojjeSCH0gg7T5StxFJx7g) | 2:29 | 2024-08-02 |  |
 | [mr useless \- extended](https://open.spotify.com/track/19VejRf86Fmrdj7HZyAQ3U) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [Club Shy \(extended\)](https://open.spotify.com/album/1ojjeSCH0gg7T5StxFJx7g) | 3:29 | 2024-06-14 | 2024-08-03 |
@@ -216,7 +217,7 @@
 | [OMG](https://open.spotify.com/track/6u9c5pxX79yzvshvYqwXKK) | [Comanavago](https://open.spotify.com/artist/2UC2VMVP6wuURHTgns8OoP) | [OMG](https://open.spotify.com/album/4JmaNINxnJbRSEGWtr2MhM) | 2:48 | 2024-09-20 |  |
 | [On Your Face](https://open.spotify.com/track/57KwSEAm0ac9yiM0KZUo98) | [Kid Souf](https://open.spotify.com/artist/17rbyZT27xNTQPcC0kVERe) | [On Your Face](https://open.spotify.com/album/2DZMDdhph6yewYvBpufFQ0) | 3:20 | 2024-06-21 | 2024-08-27 |
 | [One Touch](https://open.spotify.com/track/3g4wkFSYsU7Qc7bPjaJEGV) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/21lJDSVSuhyKBqkzxn9gAE) | 3:00 | 2023-06-20 | 2023-06-24 |
-| [Overthinking Out Loud](https://open.spotify.com/track/7FTPvEPzdt8M4IFYv94KYB) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Overthinking Out Loud](https://open.spotify.com/album/6vMQtPXgfor4WgBWgNmelU) | 3:31 | 2024-06-21 |  |
+| [Overthinking Out Loud](https://open.spotify.com/track/7FTPvEPzdt8M4IFYv94KYB) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Overthinking Out Loud](https://open.spotify.com/album/6vMQtPXgfor4WgBWgNmelU) | 3:31 | 2024-06-21 | 2024-11-09 |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-08-30 | 2024-07-13 |
 | [Padam Padam](https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 2:46 | 2023-10-13 | 2024-04-19 |
 | [Party Girl](https://open.spotify.com/track/6GWc48keF18hgbfWimJhRA) | [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Party Girl](https://open.spotify.com/album/15gqZCOktgECtbzEM8ObBc) | 2:13 | 2024-06-07 |  |

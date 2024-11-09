@@ -250,10 +250,32 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 237594,
       "name": "A SOLAS 2",
       "url": "https://open.spotify.com/track/7bH6YEVzuyrWM1Qk4ymWEp"
+    },
+    {
+      "album": {
+        "name": "A Veces A Besos (Remix)",
+        "url": "https://open.spotify.com/album/6GQ6dTqETHVhICdGUoFbjf"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216146,
+      "name": "A Veces A Besos - Remix",
+      "url": "https://open.spotify.com/track/5s6wqK03tr6rzkT9qMFB1D"
     },
     {
       "album": {
@@ -1156,7 +1178,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 144428,
       "name": "Bemaste",
       "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
@@ -2523,6 +2545,28 @@
     },
     {
       "album": {
+        "name": "El Cuarto de Abajo",
+        "url": "https://open.spotify.com/album/1aF6u7FrlKsGWSVRADk6ta"
+      },
+      "artists": [
+        {
+          "name": "FREEKIDS",
+          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
+        },
+        {
+          "name": "Thega Diaz",
+          "url": "https://open.spotify.com/artist/5IikrGLvqxeVqr1Sco72eG"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175800,
+      "name": "El Cuarto de Abajo",
+      "url": "https://open.spotify.com/track/0A8YlIbR3u1pLF7e7TctVU"
+    },
+    {
+      "album": {
         "name": "EL ED\u00c9N (feat. Irepelusa) [Remix]",
         "url": "https://open.spotify.com/album/6xVYd0Q4mAuitNhpIEzdno"
       },
@@ -3198,6 +3242,28 @@
       "duration_ms": 118773,
       "name": "Guaro",
       "url": "https://open.spotify.com/track/57sG0muDy6txXqYFBlcA6y"
+    },
+    {
+      "album": {
+        "name": "GVNG",
+        "url": "https://open.spotify.com/album/5HLx7W9K35nPxxWno8c0wZ"
+      },
+      "artists": [
+        {
+          "name": "GeezLy",
+          "url": "https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151309,
+      "name": "GVNG",
+      "url": "https://open.spotify.com/track/5uaCUNfo4nx9IEPvE1Nv6F"
     },
     {
       "album": {
@@ -5314,6 +5380,24 @@
       "duration_ms": 235546,
       "name": "Natural",
       "url": "https://open.spotify.com/track/0XmqDfgllvVd6QV7xojof3"
+    },
+    {
+      "album": {
+        "name": "Ni Hao Beb\u00e9 \u0295\u2022\u1d25\u2022\u0294",
+        "url": "https://open.spotify.com/album/2XBQpAtjg2DKL11znyB5rz"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114339,
+      "name": "Ni Hao Beb\u00e9 \u0295\u2022\u1d25\u2022\u0294",
+      "url": "https://open.spotify.com/track/0IdweC7pnHJ6WBCxV021Va"
     },
     {
       "album": {
@@ -8354,7 +8438,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 132124,
       "name": "VINUQUI ROSE",
       "url": "https://open.spotify.com/track/1Lb3mDgPABZr4rLRkx13uZ"
@@ -8562,7 +8646,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 179400,
       "name": "Zoom",
       "url": "https://open.spotify.com/track/4XB0vg8h372nFERT8F9Gu6"

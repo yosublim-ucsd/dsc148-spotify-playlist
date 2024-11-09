@@ -6,7 +6,7 @@
     "name": "Zeds Dead",
     "url": "https://open.spotify.com/user/zedsdeadofficial"
   },
-  "snapshot_id": "AAAXMK35LHuZMoj19uZmQ/fePk+C9gQ3",
+  "snapshot_id": "AAAXMT662ItJ8RSSOGKn2GcbaNwhwvjZ",
   "tracks": [
     {
       "added_at": "2024-08-23 12:47:48",
@@ -415,6 +415,26 @@
       "duration_ms": 211142,
       "name": "Fever",
       "url": "https://open.spotify.com/track/52g6ivLTMXxAn2vvX4772J"
+    },
+    {
+      "added_at": "2024-11-08 12:22:26",
+      "album": {
+        "name": "Digital Night Drive",
+        "url": "https://open.spotify.com/album/0jvggA0QufnaIbh4S0as91"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        },
+        {
+          "name": "Mersiv",
+          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
+        }
+      ],
+      "duration_ms": 268941,
+      "name": "Digital Night Drive",
+      "url": "https://open.spotify.com/track/4NTkICndpBrjwZLwNofVBQ"
     }
   ],
   "unique_name": "Zeds Dead's Deadbeats",

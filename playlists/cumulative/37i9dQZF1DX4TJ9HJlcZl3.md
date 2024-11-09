@@ -4,7 +4,7 @@
 
 > Still yachting\. Cover: Yacht Rock Revue
 
-116 songs - 7 hr 14 min
+117 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Coffee's on Me](https://open.spotify.com/track/3P2bJaakq9DyvGCco9Ddhx) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Coffee's on Me](https://open.spotify.com/album/0dFsQp0ZUhABhxJX0eeBeD) | 3:43 | 2022-10-21 | 2024-10-19 |
 | [Coffee's on Me](https://open.spotify.com/track/3t4mslZa0wJYrj2UjlsyPX) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Coffee's on Me](https://open.spotify.com/album/4BE9UzrvSYUrtwj3pIoczL) | 3:43 | 2022-10-21 | 2024-04-19 |
 | [Day & Night](https://open.spotify.com/track/09iktHjNiTzCX6YT5XKScx) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Intimate Fonk](https://open.spotify.com/album/2KMTKEk9FZccRGCWhehiKV) | 3:36 | 2022-10-21 | 2023-12-09 |
+| [Diamond Eyes](https://open.spotify.com/track/69LWzGUpt3oe1URUCvjVbt) | [Tom Noble](https://open.spotify.com/artist/2ImZW6kUWVOAKvK4f7CElF), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [Diamond Eyes](https://open.spotify.com/album/1TJiqXwjAVzyGtTjxXq6WM) | 6:42 | 2024-11-08 |  |
 | [Distant Calls](https://open.spotify.com/track/2QU1bg22cuTuNXUpQl389b) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [Flore Benguigui](https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw) | [Close to Your Heart](https://open.spotify.com/album/2BbAWGyJvddLWwzpzhA6lp) | 2:44 | 2022-10-21 |  |
 | [drive ME crazy!](https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:49 | 2023-01-27 |  |
 | [Emily](https://open.spotify.com/track/0gAvRZbaMrnUsH8bmo8eg8) | [State Cows](https://open.spotify.com/artist/5O1GkdCKBSYzioJb4Jysiv), [Fredrik Lundgren](https://open.spotify.com/artist/5yRJ7bDOd8MvTsM8kaaWNz) | [High and Dry](https://open.spotify.com/album/6msgsUb3ZihJbdWcaSc7fd) | 3:54 | 2022-10-21 | 2023-08-12 |
@@ -118,7 +119,7 @@
 | [Wherever I Go \(feat\. Lawrence & Michael McDonald\)](https://open.spotify.com/track/77PlrIDSmmWwCj7vgNQiR4) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Wherever I Go \(feat\. Lawrence & Michael McDonald\)](https://open.spotify.com/album/3urTyQXxwNAcuNmQa5Xho3) | 2:46 | 2024-03-01 | 2024-04-06 |
 | [Who You Are](https://open.spotify.com/track/7olFqYuOkisFHqudWw4pVZ) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [The Moongirls](https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm) | [Who You Are](https://open.spotify.com/album/7i8waz2ojMre9Ix47n1nGJ) | 3:56 | 2023-01-13 |  |
 | [Why I Came To California](https://open.spotify.com/track/1uRf4FaOO13JB4GNUXBk4A) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Why I Came To California](https://open.spotify.com/album/1FMPS7GufT7lpzGFbVsuks) | 4:39 | 2022-10-21 | 2024-04-19 |
-| [Why I Came To California](https://open.spotify.com/track/6Cspj0PvUy7ItIGrmrun3u) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Why I Came To California](https://open.spotify.com/album/2CC8WIGTkXQRTwmetCjp22) | 4:39 | 2022-10-21 |  |
+| [Why I Came To California](https://open.spotify.com/track/6Cspj0PvUy7ItIGrmrun3u) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Why I Came To California](https://open.spotify.com/album/2CC8WIGTkXQRTwmetCjp22) | 4:39 | 2022-10-21 | 2024-11-09 |
 | [Withorwithout](https://open.spotify.com/track/1Avnd5xLg7HmaNofmYk7RQ) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 3:25 | 2022-10-21 | 2023-04-09 |
 | [Without Sun](https://open.spotify.com/track/6lnZykjqn6BVvd3aBHHkXh) | [Swim Mountain](https://open.spotify.com/artist/0k03iT1wmiddzXpZD2spn7) | [If \(Deluxe Edition\)](https://open.spotify.com/album/3jf8VD6LvB13HzkQ3R4evy) | 4:22 | 2022-10-21 | 2023-09-02 |
 | [Without You](https://open.spotify.com/track/28SHB4LMHD9ExTETbQIZfY) | [Brady Watt](https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Without You](https://open.spotify.com/album/3gAlDfcCFS4LEYtNTndsCx) | 3:10 | 2023-08-11 |  |

@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Sarah Farias, Kailane Frauches
 
-227 songs - 19 hr 31 min
+228 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Jesus](https://open.spotify.com/track/4XAGi5RuyzMmYZlYJbkWo0) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Jesus](https://open.spotify.com/album/41ZgEI0zgu6729X0uGtRxc) | 5:10 | 2023-02-25 | 2023-06-24 |
 | [Jesus Está no Barco](https://open.spotify.com/track/3mxEWCqhceAJ5n4AaKA98e) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Jesus Está no Barco](https://open.spotify.com/album/7tGaiyNhMietbCVSNm7Qjs) | 4:18 | 2022-09-09 | 2023-02-25 |
 | [Jesus Está Voltando](https://open.spotify.com/track/6mKw97QldrDJP2zKC3z81M) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Jesus Está Voltando](https://open.spotify.com/album/6e9jddQLI7pVkV3oeZDAfi) | 4:28 | 2022-10-28 | 2023-10-07 |
+| [Josué \- Ao Vivo em São Paulo](https://open.spotify.com/track/6qKBjyYHoqG1GnOFGNKayy) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Josué \- Ao Vivo em São Paulo](https://open.spotify.com/album/6iKSabr7xNMOehMy9VWZg6) | 4:12 | 2024-11-08 |  |
 | [Limite \(Ao Vivo\)](https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Limite \(Ao Vivo\)](https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC) | 4:38 | 2023-03-03 |  |
 | [Logo Eu](https://open.spotify.com/track/2OjumT4ZsBo16OglQftYSh) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt) | [Logo Eu](https://open.spotify.com/album/4s7hyXfQYCxPM4T5P9LQbj) | 4:49 | 2023-01-13 | 2023-03-04 |
 | [Maior Esperança](https://open.spotify.com/track/1ZRnMbEWclfT2LNCFQbdSO) | [Alugiana](https://open.spotify.com/artist/6JWO2kpkeZtMHP4fQxPCaV) | [Maior Esperança](https://open.spotify.com/album/0aacsowIPdD2jIMkO2t3cd) | 6:23 | 2022-09-09 | 2023-03-18 |
@@ -193,7 +194,7 @@
 | [Solução](https://open.spotify.com/track/1brqBqEOkQOZwky1l2NgeB) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT), [Mattos Nascimento](https://open.spotify.com/artist/3koufmP8p8wNLARHjlyAmk) | [Solução](https://open.spotify.com/album/50KjFXqBwuEhlXspZUsqZp) | 4:09 | 2023-07-07 | 2023-09-16 |
 | [Sorrir de Novo \- Ao Vivo](https://open.spotify.com/track/3U3raybFpZft0rT58YSPFe) | [Dalete Hungria](https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Sorrir de Novo \(Ao Vivo\)](https://open.spotify.com/album/0qyXyrFRqldlBhK7XZVrIN) | 8:15 | 2023-11-03 |  |
 | [Sou Deus](https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv) | [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Sou Deus](https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb) | 4:15 | 2022-10-15 |  |
-| [Sou Deus \- Ao Vivo](https://open.spotify.com/track/5I224cXQeTACSg99DDFBj9) | [Flávia Almeida](https://open.spotify.com/artist/2d8HyFtrAaLLsLbSBplAhU) | [Sou Deus \(Ao Vivo\)](https://open.spotify.com/album/6rkJ1vaNRCSbEAUSsDFEDl) | 6:49 | 2023-09-08 |  |
+| [Sou Deus \- Ao Vivo](https://open.spotify.com/track/5I224cXQeTACSg99DDFBj9) | [Flávia Almeida](https://open.spotify.com/artist/2d8HyFtrAaLLsLbSBplAhU) | [Sou Deus \(Ao Vivo\)](https://open.spotify.com/album/6rkJ1vaNRCSbEAUSsDFEDl) | 6:49 | 2023-09-08 | 2024-11-09 |
 | [Sou Eu](https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 5:12 | 2023-06-23 | 2024-04-19 |
 | [Sou Eu](https://open.spotify.com/track/6PNsCb1JZdLEP6iMzHj485) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Sou Eu](https://open.spotify.com/album/0l28uzspNaUlumLdGBDJ6L) | 5:12 | 2022-09-09 | 2024-04-20 |
 | [Sou Eu](https://open.spotify.com/track/3Jxxzv0FEqlL9rYaETaccs) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo) | [Sou Eu](https://open.spotify.com/album/0o8HSd47qb6yQxh8VKkFtz) | 5:06 | 2022-10-28 | 2023-02-25 |

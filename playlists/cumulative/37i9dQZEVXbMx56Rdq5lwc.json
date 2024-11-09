@@ -1516,7 +1516,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 290616,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
@@ -5080,7 +5080,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 198960,
       "name": "Cigarettes out the Window",
       "url": "https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO"
@@ -8796,6 +8796,24 @@
       "duration_ms": 155154,
       "name": "Fear Of Heights",
       "url": "https://open.spotify.com/track/53KaP77tkliz36LPxWGlWK"
+    },
+    {
+      "album": {
+        "name": "Feel You Now",
+        "url": "https://open.spotify.com/album/7d2gF2EPx7SNi0IhuKnub5"
+      },
+      "artists": [
+        {
+          "name": "Jonah Wright",
+          "url": "https://open.spotify.com/artist/7nqncAurs2sCTA7oosyysD"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193888,
+      "name": "Feel You Now",
+      "url": "https://open.spotify.com/track/5GeN0gpPteAFIlFFJRN9HI"
     },
     {
       "album": {
@@ -16240,7 +16258,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 278014,
       "name": "Like Him (feat. Lola Young)",
       "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
@@ -20858,7 +20876,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 221538,
       "name": "Nugal\u0117jau",
       "url": "https://open.spotify.com/track/1QQh28V0mXIl6GkXfFGs1P"
@@ -23181,6 +23199,24 @@
     },
     {
       "album": {
+        "name": "Po man\u0119s tik gyvenimas",
+        "url": "https://open.spotify.com/album/5auNT5bkWasv6v5xi4kC2y"
+      },
+      "artists": [
+        {
+          "name": "Justinas Jarutis",
+          "url": "https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140035,
+      "name": "Po man\u0119s tik gyvenimas",
+      "url": "https://open.spotify.com/track/09GXv3EvWDeNTPw2N9hjVf"
+    },
+    {
+      "album": {
         "name": "The Fame",
         "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
       },
@@ -24150,7 +24186,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 165412,
       "name": "Rah Tah Tah",
       "url": "https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK"
@@ -25884,7 +25920,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
@@ -28506,7 +28542,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -28524,7 +28560,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -28678,6 +28714,24 @@
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
+    },
+    {
+      "album": {
+        "name": "S\u00e5dan Det Er",
+        "url": "https://open.spotify.com/album/1ZzjsCWrI8MKOxBJjcQ509"
+      },
+      "artists": [
+        {
+          "name": "Alexander Oscar",
+          "url": "https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168024,
+      "name": "S\u00e5dan Det Er",
+      "url": "https://open.spotify.com/track/5t1Jflrz9QAeKYSbRcmO2n"
     },
     {
       "album": {
@@ -29774,7 +29828,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"

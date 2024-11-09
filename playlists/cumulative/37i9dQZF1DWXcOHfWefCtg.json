@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Soulful takes on all your Holiday favorites. Cover: John Legend",
+  "description": "Soulful takes on all your Holiday favorites. Cover: Devon Gilfillian",
   "name": "Soulful Christmas",
   "tracks": [
     {
@@ -236,6 +236,24 @@
       "duration_ms": 148346,
       "name": "Christmas Groove",
       "url": "https://open.spotify.com/track/0H925kYkEofwvF8g2oIos1"
+    },
+    {
+      "album": {
+        "name": "Christmas Is Love",
+        "url": "https://open.spotify.com/album/4lBaCss8rJp4wYGv7B1N8d"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358600,
+      "name": "Christmas Is Love",
+      "url": "https://open.spotify.com/track/7c6fEs9S4cQY9kJQ1pDIGh"
     },
     {
       "album": {

@@ -1393,6 +1393,32 @@
     },
     {
       "album": {
+        "name": "Aggelos Sti Gi",
+        "url": "https://open.spotify.com/album/23ozNzbhjBuuWTyisaxkgP"
+      },
+      "artists": [
+        {
+          "name": "Yolte",
+          "url": "https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm"
+        },
+        {
+          "name": "Lava",
+          "url": "https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O"
+        },
+        {
+          "name": "Paris Kalpos",
+          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163252,
+      "name": "Aggelos Sti Gi",
+      "url": "https://open.spotify.com/track/1DCCtsrcogyKEW567delN1"
+    },
+    {
+      "album": {
         "name": "Kyrios Nekrikos Part I",
         "url": "https://open.spotify.com/album/0Is0VPWEV0FhVMfAp0vqwZ"
       },
@@ -1474,7 +1500,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 184666,
       "name": "AIORA",
       "url": "https://open.spotify.com/track/67GZhMIBqNdPbwmcQGO7eF"
@@ -17440,7 +17466,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 155166,
       "name": "KAPOTE",
       "url": "https://open.spotify.com/track/5URFlr95zjPSDpKdZTpTBi"
@@ -33588,7 +33614,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-02",
+      "date_removed": null,
       "duration_ms": 145788,
       "name": "Superstars",
       "url": "https://open.spotify.com/track/4j9wksjhBvSuRq1ibXUfAK"

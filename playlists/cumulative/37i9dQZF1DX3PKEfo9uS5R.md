@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-261 songs - 13 hr 1 min
+263 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Biting](https://open.spotify.com/track/3VR8hpmEvOMxW3nM4TNoBM) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Biting](https://open.spotify.com/album/3wo2lUtYASfyHEQbYxEosQ) | 2:46 | 2023-03-24 |  |
 | [Blink Of An Eye](https://open.spotify.com/track/7bwF8qvBd0DAquB1DVNSfV) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Blink Of An Eye](https://open.spotify.com/album/3k5r1aVVzWQVjufWyUMhYn) | 2:28 | 2021-11-11 | 2023-09-23 |
 | [Blissful Drift](https://open.spotify.com/track/069eAD3fJhtbAnkEEIb72E) | [MayDance](https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4) | [Blissful Drift](https://open.spotify.com/album/5QUuc1SEcM5tAx44E0eH85) | 2:06 | 2024-04-09 |  |
+| [blue dream](https://open.spotify.com/track/5B6k1fdtwUqKbFcKKV8Sd1) | [citron love](https://open.spotify.com/artist/6a24frzzG1wS3gvqsvbjyQ) | [blue dream](https://open.spotify.com/album/4cMErHCYjeeKYujC9Ey6QX) | 2:25 | 2024-11-08 |  |
 | [Blue Gold](https://open.spotify.com/track/2TU4uc1YAQrWV57fJ7TPk4) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Blue Gold](https://open.spotify.com/album/2eRVCECu1ZfOApQApR9opm) | 3:44 | 2021-11-11 |  |
 | [Body & Mind](https://open.spotify.com/track/66g8tZeyTA6RK4eZhq8VHn) | [Lou Kil](https://open.spotify.com/artist/1vxHeyltNjjNC7OSS573mh) | [Body & Mind](https://open.spotify.com/album/74WLWBBSOIoQh3Xbzv631P) | 2:11 | 2024-03-26 |  |
 | [bonny](https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [bonny](https://open.spotify.com/album/0wpoLN0R9XzLL5oD9YaEF0) | 2:48 | 2021-11-11 | 2023-03-10 |
@@ -43,6 +44,7 @@
 | [candy colored life](https://open.spotify.com/track/25E2rEL9cHcEeiTz7cD9pe) | [Sunset\-buff](https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W) | [candy colored life](https://open.spotify.com/album/3ql9iK1tUbJrpEy4cRo6ja) | 3:08 | 2024-02-22 |  |
 | [Cannonball](https://open.spotify.com/track/7f1ZpHuGeGQOzD5qumBg5F) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [Monty Hall](https://open.spotify.com/album/4MPyqq00qt7THWrpiHwRa7) | 3:41 | 2021-11-11 | 2022-04-06 |
 | [capri](https://open.spotify.com/track/70Tx222qN8fC4BLyQiQELH) | [Greene Labyrinth](https://open.spotify.com/artist/6oiYRGIhDRfbtZmzsfziUR) | [capri](https://open.spotify.com/album/7t5kCVKdnJrq0MunUefvLq) | 2:32 | 2024-07-14 |  |
+| [capri life](https://open.spotify.com/track/3VeubLbmekGe6flz2XKMC5) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [capri life](https://open.spotify.com/album/2eqWINVuY8aBLUS68C27Ue) | 3:43 | 2024-11-08 |  |
 | [Castles in The Air](https://open.spotify.com/track/3XSr3AQ6smXdcDGlkslcER) | [Luke Lavelle](https://open.spotify.com/artist/4MbsAtsT8KlRa27ATT0YQ3) | [Castles in the Air](https://open.spotify.com/album/443uJl497U7M7fYWhw1Lpg) | 3:49 | 2021-11-11 |  |
 | [Channels](https://open.spotify.com/track/7f7VEawSbmKCkDpWpxcd7N) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Channels](https://open.spotify.com/album/236zd3ADvrLVkUqSzJzzNf) | 2:06 | 2022-07-01 |  |
 | [Chateau \- Holmsey Remix](https://open.spotify.com/track/1J2IGKsTJZDRy1MO3DJPsG) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr), [Holmsey](https://open.spotify.com/artist/1MLYmLwA6D9xQUwsHdDYKI) | [Chateau \(Holmsey Remix\)](https://open.spotify.com/album/4RdQAts3q3WmEJmZKNjdUK) | 4:00 | 2021-11-11 | 2022-01-22 |

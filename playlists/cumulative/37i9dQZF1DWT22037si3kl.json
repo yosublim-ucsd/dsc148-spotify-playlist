@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Caio Luccas",
+  "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Dudu",
   "name": "O Drip",
   "tracks": [
     {
@@ -910,7 +910,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 191861,
       "name": "BBB",
       "url": "https://open.spotify.com/track/25nbGiHS68J0Lps0zixJ6E"
@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 185071,
       "name": "Camo",
       "url": "https://open.spotify.com/track/2tqqvqj54JWq8hBGweG0nx"
@@ -6379,6 +6379,36 @@
     },
     {
       "album": {
+        "name": "Escolhas e Reflexos",
+        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213994,
+      "name": "Mundo da Fama",
+      "url": "https://open.spotify.com/track/6vqHCFSzYNzg96n8NoKxHt"
+    },
+    {
+      "album": {
         "name": "Mundo L\u00e1 Fora",
         "url": "https://open.spotify.com/album/60nU4rQhETC4JDB8Gsirht"
       },
@@ -7589,6 +7619,32 @@
     },
     {
       "album": {
+        "name": "TRAP BRASILEIRO",
+        "url": "https://open.spotify.com/album/0fNbQSIWEf9B57wx8YSPw3"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "cassin",
+          "url": "https://open.spotify.com/artist/6xDCwcvY3oPM9xtKbYJzhk"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306316,
+      "name": "PARIS FASHION WEEK",
+      "url": "https://open.spotify.com/track/2UvUig2X7KLsBNSgmWcpPH"
+    },
+    {
+      "album": {
         "name": "Passo de Piet",
         "url": "https://open.spotify.com/album/4zxOwhte3u716LoZJVisfY"
       },
@@ -8112,6 +8168,32 @@
       "duration_ms": 162782,
       "name": "Posturad\u00e3o",
       "url": "https://open.spotify.com/track/0ToPj749UPF7MGE6KDyrIp"
+    },
+    {
+      "album": {
+        "name": "Escolhas e Reflexos",
+        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Pra Se Entorpecer",
+      "url": "https://open.spotify.com/track/7ytjb8ZvBX7hViPXKBJp95"
     },
     {
       "album": {
@@ -9264,7 +9346,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 147000,
       "name": "TAMBOR",
       "url": "https://open.spotify.com/track/6lUV4vN68pfhLI4k0NSBYP"

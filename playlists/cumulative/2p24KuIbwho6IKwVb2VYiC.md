@@ -2,9 +2,9 @@
 
 ### [New Dance Hits 2024](https://open.spotify.com/playlist/2p24KuIbwho6IKwVb2VYiC)
 
-> The best Dance and EDM tracks right now! Cover: Ryan Shepherd
+> The best Dance and EDM tracks right now! Cover: MEDUZA
 
-245 songs - 12 hr 56 min
+246 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Sunshine \(My Girl\)](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Sunshine \(My Girl\)](https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As) | 2:11 | 2024-02-20 |  |
 | [Supercharger](https://open.spotify.com/track/3tRJxF5eqEQnc47P1zLgRn) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [1996Montana](https://open.spotify.com/artist/1teoHuJcr4hgFFeC3FOPqD) | [The Sun Comes Up](https://open.spotify.com/album/63se0MtSWVuGqFLXvSJGmO) | 2:51 | 2024-09-24 |  |
 | [Take My Soul](https://open.spotify.com/track/2Qe6S4Xy5rS2Vidoaxp6b0) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Days Before Grace](https://open.spotify.com/album/6Hkf54OpfrK7PGlab7OB1J) | 5:01 | 2023-10-27 | 2024-05-13 |
+| [Tantalizing](https://open.spotify.com/track/799db91cR00On6N158VLHS) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Soaky Siren](https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC) | [Tantalizing](https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C) | 2:26 | 2024-11-08 |  |
 | [Tearing Up My Heart \(feat\. Sofia Quinn\)](https://open.spotify.com/track/7sHvEINPFk8n45mMFl7cR7) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Tearing Up My Heart \(feat\. Sofia Quinn\)](https://open.spotify.com/album/2H3ydFTmEuRxYfDjGZVHh0) | 2:32 | 2023-10-27 | 2024-02-27 |
 | [Tears \(with Paige Cavell\)](https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 3:56 | 2024-07-12 |  |
 | [Teka \(with Peso Pluma\)](https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Teka \(with Peso Pluma\)](https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu) | 2:43 | 2024-04-19 |  |

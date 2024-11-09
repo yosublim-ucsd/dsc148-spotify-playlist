@@ -834,7 +834,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 157413,
       "name": "En Las Buenas y En Las Malas",
       "url": "https://open.spotify.com/track/5gWkxqIv20eagfDWUeok2N"
@@ -1096,6 +1096,28 @@
       "duration_ms": 173529,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/65oSp7rdpLddlRGUgogU24"
+    },
+    {
+      "album": {
+        "name": "Imag\u00ednate",
+        "url": "https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170365,
+      "name": "Imag\u00ednate",
+      "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
     },
     {
       "album": {
@@ -1429,6 +1451,36 @@
     },
     {
       "album": {
+        "name": "Lo Que Te Duele",
+        "url": "https://open.spotify.com/album/62H6UbGqOJgy4Y5p5SyciX"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "Lo Que Te Duele",
+      "url": "https://open.spotify.com/track/1TULvV3j3R0KSmBvcksYfZ"
+    },
+    {
+      "album": {
         "name": "Lo que yo a ti te dije",
         "url": "https://open.spotify.com/album/2MWMgssz1mdG1sSQ38Anl0"
       },
@@ -1742,7 +1794,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 239529,
       "name": "N4 (feat. FineSound Music)",
       "url": "https://open.spotify.com/track/2OhbqzXIRpLUeczY9ZAMIM"

@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 50111,
+  "num_followers": 50125,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyqxgAAAAACAhRc+KcaPgJWdBe4o1l/M",
+  "snapshot_id": "ZywDAAAAAABcVaWP6J0sETxqR4JwODLD",
   "tracks": [
     {
       "added_at": null,
@@ -527,6 +527,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Buenas Vibras",
+        "url": "https://open.spotify.com/album/5lgKDYGS1i8aA4EKutIWjs"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "duration_ms": 132843,
+      "name": "Buenas Vibras",
+      "url": "https://open.spotify.com/track/6NitwyL3pVexKaktxYneNf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Bruta (En Vivo)",
         "url": "https://open.spotify.com/album/583SjEIDcYrSXrOYWa0V3Z"
       },
@@ -627,42 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buenas Vibras",
-        "url": "https://open.spotify.com/album/5lgKDYGS1i8aA4EKutIWjs"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        }
-      ],
-      "duration_ms": 132843,
-      "name": "Buenas Vibras",
-      "url": "https://open.spotify.com/track/6NitwyL3pVexKaktxYneNf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 141589,
-      "name": "La Hungara - En Vivo",
-      "url": "https://open.spotify.com/track/5dwb7j5AzP2w15YIEzEKQ8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ"
       },
@@ -679,22 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dar\u00eda Todo Por Ti",
-        "url": "https://open.spotify.com/album/3mvFCw4U3GRlGEfljcgZWw"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
       },
       "artists": [
-        {
-          "name": "La Adixi\u00f3n",
-          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
-        },
         {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 174911,
-      "name": "Dar\u00eda Todo Por Ti",
-      "url": "https://open.spotify.com/track/1LRLWF1pMWCboN4u4xIBOv"
+      "duration_ms": 141589,
+      "name": "La Hungara - En Vivo",
+      "url": "https://open.spotify.com/track/5dwb7j5AzP2w15YIEzEKQ8"
     },
     {
       "added_at": null,
@@ -727,6 +707,26 @@
       "duration_ms": 174863,
       "name": "Mi Ranchito - En Vivo",
       "url": "https://open.spotify.com/track/46rZ3cUjOuzxpJqI9lCaHP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dar\u00eda Todo Por Ti",
+        "url": "https://open.spotify.com/album/3mvFCw4U3GRlGEfljcgZWw"
+      },
+      "artists": [
+        {
+          "name": "La Adixi\u00f3n",
+          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 174911,
+      "name": "Dar\u00eda Todo Por Ti",
+      "url": "https://open.spotify.com/track/1LRLWF1pMWCboN4u4xIBOv"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sesi\u00f3n Ac\u00fastica",
-        "url": "https://open.spotify.com/album/1DmVpertYtEh2c3YPqnVak"
-      },
-      "artists": [
-        {
-          "name": "Dariel Ramirez Y Sus Perdidos",
-          "url": "https://open.spotify.com/artist/3acX5lZj9MKXR1NcWyMeNU"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 254880,
-      "name": "Una Pregunta Obvia",
-      "url": "https://open.spotify.com/track/7iiOtyfWI3IJqVIV7CaEfi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuidala (En Vivo)",
         "url": "https://open.spotify.com/album/4cUZuVBzhtfyHKrVxcMALF"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 198314,
       "name": "Cuidala (En Vivo)",
       "url": "https://open.spotify.com/track/1im5XPyQaApqcc37320tvU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sesi\u00f3n Ac\u00fastica",
+        "url": "https://open.spotify.com/album/1DmVpertYtEh2c3YPqnVak"
+      },
+      "artists": [
+        {
+          "name": "Dariel Ramirez Y Sus Perdidos",
+          "url": "https://open.spotify.com/artist/3acX5lZj9MKXR1NcWyMeNU"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 254880,
+      "name": "Una Pregunta Obvia",
+      "url": "https://open.spotify.com/track/7iiOtyfWI3IJqVIV7CaEfi"
     },
     {
       "added_at": null,

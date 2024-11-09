@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: King Stingray
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,566 likes - 83 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,627 likes - 83 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 25 | [MeloDub \(828\)](https://open.spotify.com/track/6Oso2KmxBSa1D6PozQMQ7z) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Hyan](https://open.spotify.com/artist/6vuDNxdLvvXkOoAL9rZJBU), [Caru](https://open.spotify.com/artist/2W3HtoJXnap6BDGYr8PRuv) | [MeloDub \(828\)](https://open.spotify.com/album/6CX3i8a1BXWTcq6BjteDXZ) | 2:40 |
 | 26 | [New High](https://open.spotify.com/track/48ZHyBju731LtrATqM3LhQ) | [dust](https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA) | [New High](https://open.spotify.com/album/2YCEnnEB1dUwaLBvhfkK75) | 3:41 |
 | 27 | [I Got You](https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [I Got You](https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX) | 3:12 |
-| 28 | [One Of Them](https://open.spotify.com/track/6NLQOu4ScjSpun8yFJyJMo) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [One Of Them](https://open.spotify.com/album/5fEKE5MtAGoi4z6bEe8Rmo) | 3:39 |
+| 28 | [One Of Them](https://open.spotify.com/track/6NLQOu4ScjSpun8yFJyJMo) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [One Of Them](https://open.spotify.com/album/5fEKE5MtAGoi4z6bEe8Rmo) | 3:06 |
 | 29 | [Move Your Body](https://open.spotify.com/track/5Xzbul8gOmnFaXOGkboLwW) | [Hotham](https://open.spotify.com/artist/3ygKK0BEUFKnjfhjzIMNSx) | [Move Your Body](https://open.spotify.com/album/2yi5KKO07WqvhfXTzA3itG) | 3:35 |
 | 30 | [What Do You Want Me To Be](https://open.spotify.com/track/4xlJuoRCEH8hSDaPa1eoxw) | [Bukowski](https://open.spotify.com/artist/68HpOv7DefjopAabpaQZjR) | [What Do You Want Me To Be](https://open.spotify.com/album/4tLhz3AEweejJo8C3MPVC0) | 3:05 |
 | 31 | [G.G](https://open.spotify.com/track/676GVkM9HlPXXscJqEvlog) | [Scribe](https://open.spotify.com/artist/1cUNRt3Ha4lnnNvPTJAIa8) | [G.G](https://open.spotify.com/album/4rnqt9VbBy6GwVK3z7esu3) | 2:23 |

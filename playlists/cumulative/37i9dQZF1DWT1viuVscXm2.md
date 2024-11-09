@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-341 songs - 19 hr 36 min
+342 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [De un Tiempo a Esta Parte](https://open.spotify.com/track/5Iyp4ikp4LdVXDnb45lstv) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Javier Ortega](https://open.spotify.com/artist/6jGIY0FDKLEWixfXTgh8wI) | [De un Tiempo a Esta Parte](https://open.spotify.com/album/62t8oGmohX5zc3gzgDZN2R) | 4:44 | 2021-12-24 | 2024-01-24 |
 | [Debería Odiarte](https://open.spotify.com/track/5VhWTN08ZA9rPNBGmCuu6N) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Desnudos](https://open.spotify.com/album/3bPO3lMoj5AdStRso5Q2bH) | 3:28 | 2021-12-24 | 2022-12-03 |
 | [Deja de Llorar \- Remix](https://open.spotify.com/track/213XnJpTBY7pkumgiaR15m) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Deja de Llorar \(Remix\)](https://open.spotify.com/album/3ZCFRZG7ZPYRhbMrid7BR5) | 3:17 | 2024-07-19 | 2024-10-12 |
+| [Dice Que No Le Importa](https://open.spotify.com/track/4McnZ79xYqcGw1Hse3wBlc) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Dice Que No Le Importa](https://open.spotify.com/album/209YdplhoRJepgB73P2W0b) | 4:05 | 2024-11-08 |  |
 | [Dime si eres feliz](https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [La Champions Liga](https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm) | 2:07 | 2023-09-04 |  |
 | [DOCTOR](https://open.spotify.com/track/5DSMm0BZXlSvqArsTX00Ge) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [DOCTOR](https://open.spotify.com/album/3Z9VnhuHM0BmsNUVPWMd7y) | 2:24 | 2024-09-05 |  |
 | [Duetos De Etiqueta \#1 \- Roto Corazón](https://open.spotify.com/track/1yKxctyjh6CdDmJd9LaRNb) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [CUMBIALANDIA](https://open.spotify.com/artist/6NLMDsPCHLd5s6BEGBYCIP) | [Duetos De Etiqueta \#1 \- Roto Corazón](https://open.spotify.com/album/4JtNGqrJtfeIquW3svl1bh) | 3:06 | 2022-10-22 | 2023-07-29 |

@@ -641,6 +641,40 @@
     },
     {
       "album": {
+        "name": "Dey (Gaudi & Don Letts Remix)",
+        "url": "https://open.spotify.com/album/7FL1cdLCr6TyduBxMIWHj7"
+      },
+      "artists": [
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        },
+        {
+          "name": "Egypt 80",
+          "url": "https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        },
+        {
+          "name": "Gaudi",
+          "url": "https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP"
+        },
+        {
+          "name": "Don Letts",
+          "url": "https://open.spotify.com/artist/79UXgdUqtyrIIAzgGzGkAa"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267528,
+      "name": "Dey - Gaudi & Don Letts Remix",
+      "url": "https://open.spotify.com/track/3GNgqub6dNJbkrAmiiW6Qz"
+    },
+    {
+      "album": {
         "name": "Introducing Amadou Diagne",
         "url": "https://open.spotify.com/album/644Vjdi1p02r5nekPzVgAV"
       },
@@ -1502,7 +1536,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 350840,
       "name": "Kabu",
       "url": "https://open.spotify.com/track/2e9PnNBQeIC1O9l6SLGGvH"
@@ -2949,6 +2983,24 @@
     },
     {
       "album": {
+        "name": "Oy\u00e8 woss\u00f4",
+        "url": "https://open.spotify.com/album/4f1y5VHQ0XcbiWAQHYEJ0W"
+      },
+      "artists": [
+        {
+          "name": "wordsofAzia",
+          "url": "https://open.spotify.com/artist/663EtY2EOQrh6XYQGYIdK7"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Oy\u00e8 woss\u00f4",
+      "url": "https://open.spotify.com/track/3QEoayp2Sme1pVhWJTGawQ"
+    },
+    {
+      "album": {
         "name": "People Talk Too Much",
         "url": "https://open.spotify.com/album/2wO8hF43Nb42TrlaDGgSHE"
       },
@@ -3014,7 +3066,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 202000,
       "name": "Pieteron",
       "url": "https://open.spotify.com/track/2hT7SV5QUhbO0p8T1dkHS6"

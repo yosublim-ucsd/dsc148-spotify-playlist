@@ -3023,6 +3023,24 @@
     },
     {
       "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/1jlXyBiS1igy6FKg6GCdci"
+      },
+      "artists": [
+        {
+          "name": "White Whale",
+          "url": "https://open.spotify.com/artist/7iJ8iFAOikb11EdAAP4H5B"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185299,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/1HacAMT0gWQWqytCIHsCEZ"
+    },
+    {
+      "album": {
         "name": "Let The Music Play",
         "url": "https://open.spotify.com/album/0MenbU7UQ1dNGsJy8GB9eK"
       },

@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 18561,
+  "num_followers": 18570,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -769,6 +769,22 @@
       "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
     },
     {
+      "added_at": "2024-10-25 00:01:00",
+      "album": {
+        "name": "God Is",
+        "url": "https://open.spotify.com/album/2k67eSgSx7uPEe4WeUKwkl"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        }
+      ],
+      "duration_ms": 185999,
+      "name": "God Is",
+      "url": "https://open.spotify.com/track/4QLiTL83ZMf4lt2qqgkOrO"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Big God",
@@ -787,22 +803,6 @@
       "duration_ms": 150000,
       "name": "Big God",
       "url": "https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS"
-    },
-    {
-      "added_at": "2024-10-25 00:01:00",
-      "album": {
-        "name": "God Is",
-        "url": "https://open.spotify.com/album/2k67eSgSx7uPEe4WeUKwkl"
-      },
-      "artists": [
-        {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
-        }
-      ],
-      "duration_ms": 185999,
-      "name": "God Is",
-      "url": "https://open.spotify.com/track/4QLiTL83ZMf4lt2qqgkOrO"
     },
     {
       "added_at": "2024-10-25 00:01:00",
@@ -989,20 +989,24 @@
       "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
     },
     {
-      "added_at": "2024-08-02 00:01:00",
+      "added_at": "2024-11-01 00:01:00",
       "album": {
-        "name": "Definitely",
-        "url": "https://open.spotify.com/album/1N3vhfw1XG6hRVvrJsDRYV"
+        "name": "Young & Chosen (Power Pack)",
+        "url": "https://open.spotify.com/album/4tDlxe4KC1YJI2nV4owRn6"
       },
       "artists": [
         {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
         }
       ],
-      "duration_ms": 228893,
-      "name": "Definitely",
-      "url": "https://open.spotify.com/track/6UeeHWPfpgo6wArO2H9KQL"
+      "duration_ms": 144059,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/5Z0U7FBU5g3et5lbGK8n33"
     },
     {
       "added_at": "2024-01-26 00:01:00",

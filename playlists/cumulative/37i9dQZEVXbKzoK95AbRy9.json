@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "4 Enganados",
+        "url": "https://open.spotify.com/album/09zcQhcgqwXwTaZUmWXNQt"
+      },
+      "artists": [
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170009,
+      "name": "4 Enganados",
+      "url": "https://open.spotify.com/track/51K1IJUjukRNYOqTqo596Z"
+    },
+    {
+      "album": {
         "name": "Ningu\u00e9m T\u00e1 Puro!",
         "url": "https://open.spotify.com/album/0JDZhfDT24lh3OYX0NKU9I"
       },
@@ -1007,6 +1025,28 @@
     },
     {
       "album": {
+        "name": "Cora\u00e7\u00e3o de Ouro",
+        "url": "https://open.spotify.com/album/06JmpvXoHG2dFMvmIGRvi1"
+      },
+      "artists": [
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "DJ JR No Beat",
+          "url": "https://open.spotify.com/artist/7eFJ773gGquYX3tKYa6ZUb"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186165,
+      "name": "Calculista",
+      "url": "https://open.spotify.com/track/5mPn4ueXc1oua018FDvknz"
+    },
+    {
+      "album": {
         "name": "Sofr\u00eancia Ou Fuleragem? (Ao Vivo / Parte 2)",
         "url": "https://open.spotify.com/album/54W7v0wwVhbrc4HfwtsutS"
       },
@@ -1446,6 +1486,24 @@
       "duration_ms": 165301,
       "name": "Cron\u00f4metro - Ao Vivo",
       "url": "https://open.spotify.com/track/7pkpWcko6KEZANj0xKsCsu"
+    },
+    {
+      "album": {
+        "name": "Obrigado Deus",
+        "url": "https://open.spotify.com/album/1jUaMGClL6BGdKqbyw0sjX"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159480,
+      "name": "C\u00f3pia Proibida",
+      "url": "https://open.spotify.com/track/2TMbgCaKPhrzSQgmvlrrxd"
     },
     {
       "album": {
@@ -1902,7 +1960,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 229997,
       "name": "Disease",
       "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
@@ -2266,7 +2324,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 190276,
       "name": "Entregador de Flor - Ao Vivo em Bras\u00edlia",
       "url": "https://open.spotify.com/track/5aMgTcyBPH90hWHhbNKTwR"
@@ -3147,6 +3205,24 @@
     },
     {
       "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233478,
+      "name": "Locked out of Heaven",
+      "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
+    },
+    {
+      "album": {
         "name": "Funk Generation",
         "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
       },
@@ -3600,7 +3676,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 142026,
       "name": "Maturidade",
       "url": "https://open.spotify.com/track/5RHOhXxMVhpEaBcG6hIydA"
@@ -4154,6 +4230,28 @@
       "duration_ms": 161920,
       "name": "Nem a Pau (feat. Simone Mendes) - Ao Vivo",
       "url": "https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa"
+    },
+    {
+      "album": {
+        "name": "Nem Ligo Pro Amor",
+        "url": "https://open.spotify.com/album/4aDHZ1X3DFmHBVV4RkNNaN"
+      },
+      "artists": [
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "Oldilla",
+          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Nem Ligo Pro Amor",
+      "url": "https://open.spotify.com/track/5rIv8Ya5G1bLQoXwIKTn80"
     },
     {
       "album": {
@@ -5618,7 +5716,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 172091,
       "name": "SE ARREPENDIMENTO MATASSE - Ao Vivo",
       "url": "https://open.spotify.com/track/5pmQRsVD9qPoF4VXoITPUC"
@@ -5688,7 +5786,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 300000,
       "name": "Sempre na Simplicidade",
       "url": "https://open.spotify.com/track/4XaLEsmrRGSDkgd7qpn4Nl"
@@ -5772,7 +5870,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 160885,
       "name": "Sombra Desconhecida - Ao Vivo",
       "url": "https://open.spotify.com/track/3Na9gwLmFdEJH2l54AYwpk"
@@ -5884,6 +5982,28 @@
       "duration_ms": 187153,
       "name": "Sou Musa do Ver\u00e3o",
       "url": "https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc"
+    },
+    {
+      "album": {
+        "name": "S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301623,
+      "name": "S\u00e3o Paulo (feat. Anitta)",
+      "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
     },
     {
       "album": {

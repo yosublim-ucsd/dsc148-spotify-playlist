@@ -1,6 +1,6 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: Poppy",
-  "num_followers": 703016,
+  "num_followers": 703311,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,26 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
+        "name": "WITCH",
+        "url": "https://open.spotify.com/album/0zECxYD8vdnOWX6FJ7cPXJ"
+      },
+      "artists": [
+        {
+          "name": "Delilah Bon",
+          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+        },
+        {
+          "name": "ALT BLK ERA",
+          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
+        }
+      ],
+      "duration_ms": 234111,
+      "name": "WITCH",
+      "url": "https://open.spotify.com/track/6L3L8S4nkmJl9nDE7bXnFL"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
         "name": "Cry (feat. Grimes)",
         "url": "https://open.spotify.com/album/0osHesMrCdavp471L78uwu"
       },
@@ -699,22 +719,18 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "WITCH",
-        "url": "https://open.spotify.com/album/0zECxYD8vdnOWX6FJ7cPXJ"
+        "name": "Rest In Peace",
+        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
       },
       "artists": [
         {
-          "name": "Delilah Bon",
-          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
-        },
-        {
-          "name": "ALT BLK ERA",
-          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
         }
       ],
-      "duration_ms": 234111,
-      "name": "WITCH",
-      "url": "https://open.spotify.com/track/6L3L8S4nkmJl9nDE7bXnFL"
+      "duration_ms": 217327,
+      "name": "Rest In Peace",
+      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -731,22 +747,6 @@
       "duration_ms": 145735,
       "name": "KILL[H]ER",
       "url": "https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
-        "name": "Rest In Peace",
-        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Rest In Peace",
-      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Sonic Jihad",
-        "url": "https://open.spotify.com/album/393lg8s4V5bOSXosvsNANq"
-      },
-      "artists": [
-        {
-          "name": "Snake River Conspiracy",
-          "url": "https://open.spotify.com/artist/4D9z4fup1x9lkmrPTOWw8A"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Lovesong",
-      "url": "https://open.spotify.com/track/4seT68ahatRnkpnlkADLWy"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "86",
         "url": "https://open.spotify.com/album/5TIa1cNM3wXt1eLNIGuS4w"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 288867,
       "name": "Orphan Soul",
       "url": "https://open.spotify.com/track/17yKsz2dbVEMuIt3M5OcxL"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Sonic Jihad",
+        "url": "https://open.spotify.com/album/393lg8s4V5bOSXosvsNANq"
+      },
+      "artists": [
+        {
+          "name": "Snake River Conspiracy",
+          "url": "https://open.spotify.com/artist/4D9z4fup1x9lkmrPTOWw8A"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/4seT68ahatRnkpnlkADLWy"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 147664,
-      "name": "Play The Greatest Hits",
-      "url": "https://open.spotify.com/track/671gFjeiyqUEIgXfLKj956"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "Smash The Control Machine",
         "url": "https://open.spotify.com/album/4VeNh83UPws5QEfyfZSUZU"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 239200,
       "name": "Rise, Rebel, Resist",
       "url": "https://open.spotify.com/track/3mMxXlSR8l73NOlPshFxLm"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 147664,
+      "name": "Play The Greatest Hits",
+      "url": "https://open.spotify.com/track/671gFjeiyqUEIgXfLKj956"
     },
     {
       "added_at": "2024-07-19 14:26:43",

@@ -1,29 +1,13 @@
 {
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Denny Caknan",
-  "num_followers": 202738,
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Mala Agatha",
+  "num_followers": 202801,
   "original_name": "Boso Jowo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zyz39wAAAAAZbDzCSKz0CtjNagNA/2Ze",
+  "snapshot_id": "Zy2JvAAAAABH4EG6sLD10yKo0e/sP6RF",
   "tracks": [
-    {
-      "added_at": "2024-11-07 17:25:11",
-      "album": {
-        "name": "Denny Caknan: Live at ZEPP Kuala Lumpur",
-        "url": "https://open.spotify.com/album/3ghdTfXuLekdikteuBPK1f"
-      },
-      "artists": [
-        {
-          "name": "Denny Caknan",
-          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
-        }
-      ],
-      "duration_ms": 413000,
-      "name": "Wirang",
-      "url": "https://open.spotify.com/track/5KVwLJPyIo62vSmMC01osE"
-    },
     {
       "added_at": "2024-11-07 17:25:11",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 347307,
       "name": "Penipu Alus",
       "url": "https://open.spotify.com/track/0RVSJkjr28qzTOiMKm1Tpl"
+    },
+    {
+      "added_at": "2024-11-07 17:25:11",
+      "album": {
+        "name": "Denny Caknan: Live at ZEPP Kuala Lumpur",
+        "url": "https://open.spotify.com/album/3ghdTfXuLekdikteuBPK1f"
+      },
+      "artists": [
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        }
+      ],
+      "duration_ms": 413000,
+      "name": "Wirang",
+      "url": "https://open.spotify.com/track/5KVwLJPyIo62vSmMC01osE"
     },
     {
       "added_at": "2024-11-07 17:25:11",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-11-07 17:25:11",
       "album": {
-        "name": "Gusti, Matur Nuwun (From \"Sekawan Limo\")",
-        "url": "https://open.spotify.com/album/5yvvb7IJERbQsVrbX4tp4L"
-      },
-      "artists": [
-        {
-          "name": "Bayu Skak",
-          "url": "https://open.spotify.com/artist/0jq1309CGlj9Do3jtNOTCq"
-        }
-      ],
-      "duration_ms": 198939,
-      "name": "Gusti, Matur Nuwun - From \"Sekawan Limo\"",
-      "url": "https://open.spotify.com/track/5XzyLKl7lwmuBXNJLJMyB0"
-    },
-    {
-      "added_at": "2024-11-07 17:25:11",
-      "album": {
         "name": "Ngemis",
         "url": "https://open.spotify.com/album/16e2jR9gWRsCZjfe7TIfKJ"
       },
@@ -1415,22 +1399,6 @@
       "duration_ms": 339744,
       "name": "Lamunan",
       "url": "https://open.spotify.com/track/1iY32hEqhRWFvgu1WokDmo"
-    },
-    {
-      "added_at": "2024-11-07 17:25:11",
-      "album": {
-        "name": "Aku Cah Kerjo",
-        "url": "https://open.spotify.com/album/7A3k2QXTZ1508elgdkOY53"
-      },
-      "artists": [
-        {
-          "name": "Vita Alvia",
-          "url": "https://open.spotify.com/artist/5zkv5DNu55fRGWGd7HGQka"
-        }
-      ],
-      "duration_ms": 347142,
-      "name": "Aku Cah Kerjo",
-      "url": "https://open.spotify.com/track/5ai8gNOjnpz4RNCHoqRt9U"
     },
     {
       "added_at": "2024-11-07 17:25:11",

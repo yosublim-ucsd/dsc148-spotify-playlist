@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Jordana B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,993 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,994 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 47 | [Amapiola](https://open.spotify.com/track/5qbQH9J0JEuihAkDeDRzBm) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN), [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Llanto de Secano](https://open.spotify.com/album/0FypKBYPqPO59hA4unLmGc) | 3:59 |
 | 48 | [ARTIFICIAL](https://open.spotify.com/track/5V6pQMM8bgFnocNxK5zPoI) | [FADES](https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO) | [METALLIX](https://open.spotify.com/album/72wMkN2RP0FGtmsgJ874xH) | 2:26 |
 | 49 | [iLUSÃO II](https://open.spotify.com/track/2ltTdQRvLbRaD5KxVWwEVe) | [Lua de Santana](https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam), [nusar3000](https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex) | [GINGA](https://open.spotify.com/album/57iM0Ss6kTZ1SxAzPR1K8Z) | 2:37 |
-| 50 | [Por España \- Banda Sonora Original de la Película ¡Cortén!](https://open.spotify.com/track/3l3Ea4AyUl64PJ15tLcKCM) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Papa Topo](https://open.spotify.com/artist/5bj2pIzyYR99GUinn9fKAN) | [Por España \(Banda Sonora Original de la Película ¡Cortén!\)](https://open.spotify.com/album/46FkNDxYkjXvDxB5VeoHOo) | 4:25 |
+| 50 | [A Japón](https://open.spotify.com/track/0DbvZpbDwdXCWdPbPzTBGh) | [Janire](https://open.spotify.com/artist/4sD4ggYulUsZmOxGyQK0Sj) | [A Japón](https://open.spotify.com/album/27GSkS0XQsdiwRJePKngZA) | 2:51 |
 
 Snapshot ID: `ZyqjcAAAAAAFtBF1kwVlB15hOWoGazZ/`

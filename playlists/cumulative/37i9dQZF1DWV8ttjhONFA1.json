@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Santiago Alonso y Camila Buch",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Mica Sotera",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "a tu tiempo",
+        "url": "https://open.spotify.com/album/2ybjJSFBzWlkWDbLmOiCzr"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "a tu tiempo",
+      "url": "https://open.spotify.com/track/3oVwlG8IixKr8JKLBN9Kvs"
+    },
+    {
+      "album": {
         "name": "Las Ligas Menores",
         "url": "https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g"
       },
@@ -160,7 +178,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 203470,
       "name": "Acuerdo",
       "url": "https://open.spotify.com/track/2rn1YQ19QkhAWB9oYEb4ue"
@@ -272,7 +290,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 239216,
       "name": "algo",
       "url": "https://open.spotify.com/track/06SVhMGDGuw7pbWyM01AUd"
@@ -508,6 +526,24 @@
       "duration_ms": 201386,
       "name": "Avistaje",
       "url": "https://open.spotify.com/track/0n2d6pc9NFZeIg6qQAKc8g"
+    },
+    {
+      "album": {
+        "name": "Ayer",
+        "url": "https://open.spotify.com/album/0ZzhqBRCjl0GyQR9ZoAXpn"
+      },
+      "artists": [
+        {
+          "name": "LUAS\u00d3",
+          "url": "https://open.spotify.com/artist/1KzX3Ca3tJTAcaj7bbWqM7"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213085,
+      "name": "Ayer",
+      "url": "https://open.spotify.com/track/3xhPGomtecEzMqEnHSA5qz"
     },
     {
       "album": {
@@ -1323,6 +1359,28 @@
     },
     {
       "album": {
+        "name": "Cuentos de Hadas",
+        "url": "https://open.spotify.com/album/42YdWleChKhMQoMJI7st48"
+      },
+      "artists": [
+        {
+          "name": "Joven Breakfast",
+          "url": "https://open.spotify.com/artist/5kWpJQ4Bvmm1RcibWmx5tT"
+        },
+        {
+          "name": "Dumelefant",
+          "url": "https://open.spotify.com/artist/6Yaka3hMhE4DvmtSgxVgA2"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190143,
+      "name": "Cuentos de Hadas",
+      "url": "https://open.spotify.com/track/4vrEU9yR2WfaygWRcjo34L"
+    },
+    {
+      "album": {
         "name": "cuidar el mango",
         "url": "https://open.spotify.com/album/4SUdavkGS6dTcKCCr2IIQp"
       },
@@ -1798,7 +1856,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 209045,
       "name": "droga del momento",
       "url": "https://open.spotify.com/track/1wTy0rpYciXNPl2ApruK3A"
@@ -2106,7 +2164,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 268998,
       "name": "El Riesgo",
       "url": "https://open.spotify.com/track/7E6ljIUVDjlka1cNGnVg1F"
@@ -2789,6 +2847,28 @@
     },
     {
       "album": {
+        "name": "JE NE SAIS QUOI",
+        "url": "https://open.spotify.com/album/3iNCBXsKMQ4SBKXu3Exb0s"
+      },
+      "artists": [
+        {
+          "name": "Mica Sotera",
+          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
+        },
+        {
+          "name": "Ariza",
+          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179589,
+      "name": "JE NE SAIS QUOI",
+      "url": "https://open.spotify.com/track/4tUn9uj21MoT5FppBWvE74"
+    },
+    {
+      "album": {
         "name": "la barrera",
         "url": "https://open.spotify.com/album/403S7pC3epOSAZsi8iccLH"
       },
@@ -3100,6 +3180,24 @@
       "duration_ms": 215947,
       "name": "Libros y Gente",
       "url": "https://open.spotify.com/track/0NVvNt05tdDca2BO80gHMy"
+    },
+    {
+      "album": {
+        "name": "ZONA CERO",
+        "url": "https://open.spotify.com/album/6jVb93RDOvcxcov098RAfE"
+      },
+      "artists": [
+        {
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285517,
+      "name": "LO QUE DIGA HOY",
+      "url": "https://open.spotify.com/track/7FkFhyOgUqQPt6wlv07zt0"
     },
     {
       "album": {
@@ -3937,6 +4035,24 @@
     },
     {
       "album": {
+        "name": "No Te Olvidar\u00e1s de M\u00ed",
+        "url": "https://open.spotify.com/album/1tXtQSNP3Pxa4uzFnyvHrr"
+      },
+      "artists": [
+        {
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160660,
+      "name": "No Te Olvidaras De Mi",
+      "url": "https://open.spotify.com/track/6HsaOUdhk1j8Na70BI4Iyh"
+    },
+    {
+      "album": {
         "name": "no te suelto",
         "url": "https://open.spotify.com/album/0ObPGkq7o2XU6n38Mnh2aS"
       },
@@ -3952,7 +4068,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 180000,
       "name": "no te suelto",
       "url": "https://open.spotify.com/track/3Q8vjtUXxkpCivLrRm84wf"
@@ -4104,7 +4220,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 228073,
       "name": "OTRA VEZ CASUALIDAD",
       "url": "https://open.spotify.com/track/1aoTb7gh2k9Bi1mDGQbJq1"
@@ -4390,7 +4506,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 142801,
       "name": "Pesadillas",
       "url": "https://open.spotify.com/track/1CD1rmHm8SsjewjqjqjGzW"
@@ -5180,6 +5296,24 @@
       "duration_ms": 213127,
       "name": "Tarde o Temprano",
       "url": "https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde"
+    },
+    {
+      "album": {
+        "name": "tatetiii",
+        "url": "https://open.spotify.com/album/1wHWs2Vneb9h1vUVntX0X4"
+      },
+      "artists": [
+        {
+          "name": "Santi Muk",
+          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114729,
+      "name": "tatetiii",
+      "url": "https://open.spotify.com/track/51Nm5uWx6W7wdPh0recZfy"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "Showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Soccer Mommy",
+  "description": "Showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Menno Versteeg",
   "name": "Chill Indie Music",
   "tracks": [
     {
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 239394,
       "name": "Dive",
       "url": "https://open.spotify.com/track/5WMA8AmXGff8wo450I3Ecn"
@@ -2799,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "Practice",
+        "url": "https://open.spotify.com/album/4wWEslwP97WLcGQqbSk4Wh"
+      },
+      "artists": [
+        {
+          "name": "NIA NADURATA",
+          "url": "https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197025,
+      "name": "Practice",
+      "url": "https://open.spotify.com/track/34GzR0SBIwmqjgaGPdBWVv"
+    },
+    {
+      "album": {
         "name": "Prescription",
         "url": "https://open.spotify.com/album/2wIRcj57SrX5Xz7CsJxnsp"
       },
@@ -3240,7 +3258,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 214282,
       "name": "Skin",
       "url": "https://open.spotify.com/track/5WwV3sbkt2F95hVAEs7SgZ"
@@ -3338,6 +3356,28 @@
       "duration_ms": 236291,
       "name": "Somebody Like Me",
       "url": "https://open.spotify.com/track/4Pta1RInQ95Al4Dj0qicmk"
+    },
+    {
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/4ePPG76qeRNo0VifEH6P6b"
+      },
+      "artists": [
+        {
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+        },
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200487,
+      "name": "Songs",
+      "url": "https://open.spotify.com/track/39GSMevjvCjRjO4FRVjFCf"
     },
     {
       "album": {

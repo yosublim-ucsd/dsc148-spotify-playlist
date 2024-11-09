@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Rebecca Black
 
-813 songs - 1 day 13 hr 28 min
+815 songs - 1 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,6 +419,7 @@
 | [lava](https://open.spotify.com/track/5wn3o3cfK1cq740KQFEN1n) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [lava](https://open.spotify.com/album/28svVdd3XPgkmtoy1UbL9j) | 2:18 | 2022-03-25 | 2022-05-28 |
 | [leave me for dead](https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [leave me for dead](https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO) | 2:56 | 2023-08-25 | 2024-02-17 |
 | [Lego Blocks](https://open.spotify.com/track/01RJQlTi0aR0syDcSFLzTv) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Lego Blocks](https://open.spotify.com/album/1z6yLxp8En102543kFdidP) | 2:39 | 2022-05-27 | 2023-07-08 |
+| [LET THE WORLD BURN \(with G\-Eazy & Ari Abdul\) \- Remix](https://open.spotify.com/track/5wNDRMkoysXZGiW4ja5Tik) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [LET THE WORLD BURN \(with G\-Eazy & Ari Abdul\) \[Remix\]](https://open.spotify.com/album/1hLsMn21FEUQoPoc05hXw8) | 2:45 | 2024-11-08 |  |
 | [Lethal Woman](https://open.spotify.com/track/4GnjXzJfmPcVEt0S7zIS9L) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Lethal Woman](https://open.spotify.com/album/25JZaVPcasGATDbLqizABZ) | 2:06 | 2023-10-20 | 2023-12-09 |
 | [LEVITATE](https://open.spotify.com/track/1CTtPSqqZEGXOi42FFb736) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [LEVITATE](https://open.spotify.com/album/0D8oXXB0uBxGCsjUeLmkay) | 3:03 | 2022-01-14 | 2022-02-26 |
 | [Liar Liar](https://open.spotify.com/track/3Or3mHW0EXc2AyJyWKn5h0) | [Ceara Cavalieri](https://open.spotify.com/artist/6XvSaXZ60xom2pTtvVOwLW) | [Liar Liar](https://open.spotify.com/album/6KZ3DtRuWlTlCY0SKsTRyR) | 2:48 | 2022-09-30 | 2022-12-10 |
@@ -811,6 +812,7 @@
 | [Woah!! \(feat\. kets4eki\)](https://open.spotify.com/track/3EgRznELSayrCj19aGYRic) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG) | [Woah!! \(feat\. kets4eki\)](https://open.spotify.com/album/0vCm9yXPMOX7BpLtuB0YjC) | 2:57 | 2024-05-10 | 2024-06-29 |
 | [Women Don't Owe You Sh\*t](https://open.spotify.com/track/6HoZUmprRfFWO1CaqkiBUP) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof) | [Women Don't Owe You Sh\*t](https://open.spotify.com/album/2S1oHdSgzillUEO1juCGaX) | 3:32 | 2022-01-28 | 2022-10-08 |
 | [Worship](https://open.spotify.com/track/6TURPlJoVlJBtTwFZo0RUr) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Worship](https://open.spotify.com/album/6vX3fRpUBbJ5KD9ipuiIeZ) | 3:07 | 2023-06-30 | 2023-09-16 |
+| [WYA](https://open.spotify.com/track/19d6ySq61vARL7hayVuoWZ) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [WYA](https://open.spotify.com/album/2R0ZoawSIxeykFOJqAmqrs) | 2:11 | 2024-11-08 |  |
 | [yellow tape](https://open.spotify.com/track/6XAzStbS0JfyN17D6vNv2L) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [yellow tape](https://open.spotify.com/album/3Xl7pPxG692nUmLdRsePHE) | 2:20 | 2023-10-20 | 2024-01-20 |
 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 | 2022-02-18 | 2022-09-24 |
 | [Yes No Okay](https://open.spotify.com/track/6GQzzmWX9hUV23fyhbFNm7) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BOTTOMS \(Original Motion Picture Score\)](https://open.spotify.com/album/48ZXLW2ZEThXeScpsxelMa) | 3:04 | 2023-09-03 | 2023-09-23 |

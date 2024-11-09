@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 472476,
+  "num_followers": 472535,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -1327,6 +1327,30 @@
     {
       "added_at": "2024-09-20 03:03:00",
       "album": {
+        "name": "Carla (Remix)",
+        "url": "https://open.spotify.com/album/2ZBMQ8LmhC17Ft6aeg6Dyh"
+      },
+      "artists": [
+        {
+          "name": "GUDI",
+          "url": "https://open.spotify.com/artist/6IOnGfED9G9QWwZUTlUUH9"
+        },
+        {
+          "name": "Marcus Menna",
+          "url": "https://open.spotify.com/artist/2cPdLtSkPjN7QrMUuHOodV"
+        },
+        {
+          "name": "Ga Salvia",
+          "url": "https://open.spotify.com/artist/0wvWFvGrETy0NFbXLrWPMY"
+        }
+      ],
+      "duration_ms": 194905,
+      "name": "Carla - Remix",
+      "url": "https://open.spotify.com/track/4P4e4EyMLqYq2XACkIhMny"
+    },
+    {
+      "added_at": "2024-09-20 03:03:00",
+      "album": {
         "name": "Que Dia",
         "url": "https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl"
       },
@@ -1387,30 +1411,6 @@
       "duration_ms": 164879,
       "name": "In The End - Remix",
       "url": "https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ"
-    },
-    {
-      "added_at": "2024-09-20 03:03:00",
-      "album": {
-        "name": "Carla (Remix)",
-        "url": "https://open.spotify.com/album/2ZBMQ8LmhC17Ft6aeg6Dyh"
-      },
-      "artists": [
-        {
-          "name": "GUDI",
-          "url": "https://open.spotify.com/artist/6IOnGfED9G9QWwZUTlUUH9"
-        },
-        {
-          "name": "Marcus Menna",
-          "url": "https://open.spotify.com/artist/2cPdLtSkPjN7QrMUuHOodV"
-        },
-        {
-          "name": "Ga Salvia",
-          "url": "https://open.spotify.com/artist/0wvWFvGrETy0NFbXLrWPMY"
-        }
-      ],
-      "duration_ms": 194905,
-      "name": "Carla - Remix",
-      "url": "https://open.spotify.com/track/4P4e4EyMLqYq2XACkIhMny"
     },
     {
       "added_at": "2024-09-20 03:03:00",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2024-09-20 03:03:00",
       "album": {
+        "name": "Foreplay (Radio Edit)",
+        "url": "https://open.spotify.com/album/4ZgMwbe1DsUSI23WrtzVra"
+      },
+      "artists": [
+        {
+          "name": "Flowavez",
+          "url": "https://open.spotify.com/artist/1sLWizVPX3xJrFzGuTcNSe"
+        },
+        {
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+        }
+      ],
+      "duration_ms": 177633,
+      "name": "Foreplay - Radio Edit",
+      "url": "https://open.spotify.com/track/0ONK2veMuvNNHpaKBTiTnA"
+    },
+    {
+      "added_at": "2024-09-20 03:03:00",
+      "album": {
         "name": "Se Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
       },
@@ -1503,26 +1523,6 @@
       "duration_ms": 174219,
       "name": "Se Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb"
-    },
-    {
-      "added_at": "2024-09-20 03:03:00",
-      "album": {
-        "name": "Foreplay (Radio Edit)",
-        "url": "https://open.spotify.com/album/4ZgMwbe1DsUSI23WrtzVra"
-      },
-      "artists": [
-        {
-          "name": "Flowavez",
-          "url": "https://open.spotify.com/artist/1sLWizVPX3xJrFzGuTcNSe"
-        },
-        {
-          "name": "Vitor Bueno",
-          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
-        }
-      ],
-      "duration_ms": 177633,
-      "name": "Foreplay - Radio Edit",
-      "url": "https://open.spotify.com/track/0ONK2veMuvNNHpaKBTiTnA"
     }
   ],
   "unique_name": "Festa na Praia",

@@ -4,7 +4,7 @@
 
 > Best of DHH\. Cover:  Karan Aujla
 
-337 songs - 19 hr 12 min
+338 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Drinks On Me](https://open.spotify.com/track/6mt8Bt9aHHCfbTBJMAcceJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 2:56 | 2024-08-09 | 2024-10-22 |
 | [Drippy](https://open.spotify.com/track/4fnIORP0QTYTOMPqMKpJtF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Drippy](https://open.spotify.com/album/7xlh4JhUD65QX1HzN2guSX) | 3:15 | 2024-03-21 |  |
 | [Droptop](https://open.spotify.com/track/7AW4g4I9fPfUIyqtbsuAkM) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Droptop](https://open.spotify.com/album/2rKEiYOlxGLQHbw1ZzFdXD) | 2:21 | 2021-12-03 | 2024-01-06 |
-| [Dupatta Drill](https://open.spotify.com/track/6wwwaMSY04xYhDpU7IKzz3) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Dupatta Drill](https://open.spotify.com/album/545u6lIVWOfi58QE5I3feD) | 2:30 | 2024-10-09 |  |
+| [Dupatta Drill](https://open.spotify.com/track/6wwwaMSY04xYhDpU7IKzz3) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Dupatta Drill](https://open.spotify.com/album/545u6lIVWOfi58QE5I3feD) | 2:30 | 2024-10-09 | 2024-11-09 |
 | [Ek Din](https://open.spotify.com/track/3nOefpWyZos25ipFr6LCEK) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Ek Din](https://open.spotify.com/album/2wEgS4V318gie8SJW7knRr) | 4:49 | 2021-12-03 | 2023-01-13 |
 | [Ek Din Pyaar](https://open.spotify.com/track/0uk9sQ7MjK0CdAUinD4xBV) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Tadipaar](https://open.spotify.com/album/7e8kTENVFU4Klbpxos631b) | 3:06 | 2024-06-28 |  |
 | [Ektarfa](https://open.spotify.com/track/70wFZWY6cKFxp3Qcq8uxH4) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Ektarfa](https://open.spotify.com/album/1iNdJOekTl1JSgPQqIYvDS) | 3:50 | 2024-06-28 |  |
@@ -148,6 +148,7 @@
 | [House Of Lies](https://open.spotify.com/track/7avo2LpNFXrgUgRtl9OsAL) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [House Of Lies](https://open.spotify.com/album/58U6KMHr9ApwuTXeKXIGa9) | 2:59 | 2024-06-28 | 2024-08-10 |
 | [How to Hate](https://open.spotify.com/track/3gxD26Cuw9VXdmAGLO5Ezh) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Insaan](https://open.spotify.com/album/5Xrj5h7GQkxcjXRWJAtNvF) | 3:25 | 2022-02-21 | 2022-04-08 |
 | [Hukam](https://open.spotify.com/track/3CslTKRGmBGgEsCUnCfn67) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Hukam](https://open.spotify.com/album/1ljKOIBhak9Howa3dSDsGF) | 3:50 | 2021-12-03 | 2023-05-26 |
+| [HUNDO](https://open.spotify.com/track/7yz7n00FMO8AUxgvBHXZab) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [HUNDO](https://open.spotify.com/album/0vJ4vgqMg9DXt6zsnXaVRN) | 2:23 | 2024-11-08 |  |
 | [I Guess](https://open.spotify.com/track/0OxG3hlJNNzXcSrNVXEu8f) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [I Guess](https://open.spotify.com/album/7eDGcL0rxILbzih7x51fMk) | 3:06 | 2024-01-05 |  |
 | [INAAYAT](https://open.spotify.com/track/6GfUrun4yWEpEF5EwzMSh0) | [MC INSANE](https://open.spotify.com/artist/7vlghc3VSBc7oPg2a2FRSq), [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc) | [INAAYAT](https://open.spotify.com/album/1YgUVdtmKoRXp4uYgU9cdf) | 3:00 | 2024-01-05 | 2024-03-22 |
 | [Introduction](https://open.spotify.com/track/62NkzAFZKNOe6arO1lSFm0) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [Introduction](https://open.spotify.com/album/0AhoKlF1bTECpWf8RUAys5) | 1:56 | 2021-12-03 |  |

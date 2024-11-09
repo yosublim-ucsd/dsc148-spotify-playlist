@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 36952,
+  "num_followers": 36966,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyqxgAAAAADpMGCHjRdxWjPxR32y2tyq",
+  "snapshot_id": "ZywDAAAAAABT8tJ0j4cT/g+ZDpFgonqW",
   "tracks": [
     {
       "added_at": null,
@@ -483,7 +483,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUALIDAD (feat. Esteman)",
+        "name": "DUALIDAD",
         "url": "https://open.spotify.com/album/1vR1AMrmkMaD9oDzflWAGl"
       },
       "artists": [
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 235466,
+      "name": "Burkina Faso",
+      "url": "https://open.spotify.com/track/0oYlFcq0DgLXMzzBSZuPfR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ANSIED\u00c1",
         "url": "https://open.spotify.com/album/5RugI8qVcl0Fu1Xr2A2fWv"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 156482,
       "name": "ANSIED\u00c1",
       "url": "https://open.spotify.com/track/1U9EdGWeTlw1qoaJ0GoMxH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 235466,
-      "name": "Burkina Faso",
-      "url": "https://open.spotify.com/track/0oYlFcq0DgLXMzzBSZuPfR"
     },
     {
       "added_at": null,

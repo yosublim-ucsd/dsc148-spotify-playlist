@@ -1239,6 +1239,28 @@
     },
     {
       "album": {
+        "name": "Surullinen tapaus \u2013 sellaista on vapaus",
+        "url": "https://open.spotify.com/album/55JvF5GgYdLTN7RwyfmcIB"
+      },
+      "artists": [
+        {
+          "name": "L\u00c4HI\u00d6BOTOX",
+          "url": "https://open.spotify.com/artist/2DQUFoAlTM6TbSOabVRumg"
+        },
+        {
+          "name": "Jodahe",
+          "url": "https://open.spotify.com/artist/47bHkMN3v678TKL5Tku7mF"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171208,
+      "name": "Mit\u00e4 j\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/3J4YG4PfgimicYyeJHzq2G"
+    },
+    {
+      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/4Yo4Cc6YbANSJjb6BEb87g"
       },

@@ -1,13 +1,29 @@
 {
   "description": "These songs are the player favorites that gamers have listened to the most over the past three decades.",
-  "num_followers": 29476,
+  "num_followers": 29487,
   "original_name": "PlayStation 30th Anniversary Player Favorites",
   "owner": {
     "name": "PlayStation\u00ae\ufe0f",
     "url": "https://open.spotify.com/user/playstation_music"
   },
-  "snapshot_id": "AAABaCJNR9vgakbZ1zN51zdroHwV83p4",
+  "snapshot_id": "AAABaZ5/ALXhaf6WQ91Fs44Tlm5D9XQH",
   "tracks": [
+    {
+      "added_at": "2024-11-08 16:21:40",
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 284363,
+      "name": "Noid",
+      "url": "https://open.spotify.com/track/1YdtGoSYDvVQKoUqSDXX41"
+    },
     {
       "added_at": "2024-08-28 20:27:49",
       "album": {
@@ -427,7 +443,7 @@
     {
       "added_at": "2024-08-28 20:58:07",
       "album": {
-        "name": "7 EP",
+        "name": "7",
         "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
       },
       "artists": [

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Mad Clip, Billy Sio
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,152 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,174 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 3 | [Mesanyxta](https://open.spotify.com/track/7k1NpTv7vNWaZbIU3UxGol) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [Mesanyxta](https://open.spotify.com/album/1cn6aLJqqHF4jZtLwOsTR6) | 3:02 |
 | 4 | [Kodikas](https://open.spotify.com/track/6jJ0iqIH1CBZgvGnzsFryX) | [Tsaki](https://open.spotify.com/artist/2S6IpjPbMmKLJMhUJCIFMB), [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw) | [Year Two](https://open.spotify.com/album/4oCdW1vRbsriiVhOHZL17t) | 2:44 |
 | 5 | [Lebron](https://open.spotify.com/track/5LveNwV4aDPCWAclJpaLBg) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Lebron](https://open.spotify.com/album/3vtNYVA89ySfe7X1ZPzVZW) | 2:57 |
-| 6 | [Aggelos Sti Gi](https://open.spotify.com/track/1DCCtsrcogyKEW567delN1) | [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O), [Yolte](https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [Aggelos Sti Gi](https://open.spotify.com/album/23ozNzbhjBuuWTyisaxkgP) | 2:43 |
+| 6 | [Aggelos Sti Gi](https://open.spotify.com/track/1DCCtsrcogyKEW567delN1) | [Yolte](https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm), [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [Aggelos Sti Gi](https://open.spotify.com/album/23ozNzbhjBuuWTyisaxkgP) | 2:43 |
 | 7 | [Frena](https://open.spotify.com/track/1sk1gRQHhySVQvLKEheGmm) | [Roi 6/12](https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm) | [Frena](https://open.spotify.com/album/0atM4r99hBpMjA5uJE3vPk) | 2:55 |
 | 8 | [Dromologia](https://open.spotify.com/track/4cVAtNCerpw4Q0sKR1AEtQ) | [HGEMONA$](https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm) | [Dromologia](https://open.spotify.com/album/2WGjTURDR7QaMdbhOemVxq) | 2:14 |
 | 9 | [POIOTHTA](https://open.spotify.com/track/0W8MQTfKYsEFGzfB8kIjJS) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Billy Sio](https://open.spotify.com/artist/29Bl0nvClztM0dpgY2vvcc) | [POIOTHTA](https://open.spotify.com/album/46zFf3W5CZEE2fsFDiO1dS) | 2:18 |

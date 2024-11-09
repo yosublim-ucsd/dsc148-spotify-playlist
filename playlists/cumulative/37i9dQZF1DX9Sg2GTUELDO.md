@@ -4,7 +4,7 @@
 
 > 感受超級女聲力量。Cover: Jasmine Yen
 
-407 songs - 1 day 0 hr 21 min
+410 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [You are so cool](https://open.spotify.com/track/4LwnEq7QgBuskLjTZOhCeN) | [THAIMAY](https://open.spotify.com/artist/74gW37tnBQlQyfXeFog8eC) | [You are so cool](https://open.spotify.com/album/4VK0Xxn8kfPHbuSylIv92P) | 2:33 | 2024-09-19 |  |
 | [You took my breath away](https://open.spotify.com/track/3IYJXbKHHbTzJzIfZllkOz) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [You took my breath away](https://open.spotify.com/album/0dui9mfkjI8PQShouA7VNz) | 3:04 | 2024-06-27 |  |
 | [You'll Never Know](https://open.spotify.com/track/7ENDlCsI5teuC6MLXsbRo1) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [You'll Never Know](https://open.spotify.com/album/6B3rJyoegOOnDPjnighssL) | 4:29 | 2024-06-27 |  |
+| [㪐㩿（電影《寄了一整個春天》主題曲）](https://open.spotify.com/track/3f4XfQbyaNY3DfNIMixANQ) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [㪐㩿（電影《寄了一整個春天》主題曲）](https://open.spotify.com/album/6bAd8xJX1Q9hDmnumoQ55Y) | 4:15 | 2024-11-07 |  |
 | [一人之下](https://open.spotify.com/track/5lLE94LzoxV3jhu5FIeLsx) | [J.Arie](https://open.spotify.com/artist/1XtqhbH2mw54S87c4d4v2v) | [一人之下](https://open.spotify.com/album/1JdM7k7tnI7zHsQTcO2FrF) | 4:34 | 2024-08-01 |  |
 | [一個人行街](https://open.spotify.com/track/2KzcB6TDErJlVTrVnqSBb6) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [自游生物](https://open.spotify.com/album/3KaebcGpZuDfN7WGVqXGFy) | 3:17 | 2024-08-29 |  |
 | [一個人走走\(電影《1人婚禮》原創主題曲\)](https://open.spotify.com/track/5BwzJ7QTFD6z0i91ORbdsR) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [一個人走走\(電影《1人婚禮》原創主題曲\)](https://open.spotify.com/album/1isihOJr9Ilh7kmT1hXBgG) | 3:30 | 2024-06-27 |  |
@@ -345,7 +346,9 @@
 | [焦慮型依戀](https://open.spotify.com/track/1P3Tlw0AgrMSW3LlIjidxd) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [焦慮型依戀](https://open.spotify.com/album/0fUtOlileN8mI2HKZqHAZN) | 3:37 | 2024-06-27 |  |
 | [煙草](https://open.spotify.com/track/0BKtrm5b1wvbDDs5IumsJs) | [譚杏藍](https://open.spotify.com/artist/7bpjzYP4ylb6iAHOWOJTmO) | [煙草](https://open.spotify.com/album/45rCoEI3PQE6SgMgaTados) | 4:20 | 2024-09-26 |  |
 | [物無類聚](https://open.spotify.com/track/1kf2gjFvJ7m9mTXcyedsqm) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [物無類聚](https://open.spotify.com/album/7osatkOGfOD1zXMUp0SavU) | 4:48 | 2024-06-27 |  |
+| [玉 \-《埋班作樂III》作品](https://open.spotify.com/track/7Hgb87niQgijwR2OaEZyBS) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [玉 \-《埋班作樂III》作品](https://open.spotify.com/album/49wmL0nUCgiBywc5SUaeqp) | 3:31 | 2024-11-07 |  |
 | [現在](https://open.spotify.com/track/4CTVrNDMw4XSHOcJfrJEAA) | [林愷鈴](https://open.spotify.com/artist/2tOQ6qYoc0Zzi7n6aSeUaa) | [現在](https://open.spotify.com/album/0YNkXpH1oD9NE2aWKyKzrX) | 3:48 | 2024-06-27 |  |
+| [現在完成式 \-《埋班作樂III》作品](https://open.spotify.com/track/6RDqaD81dAIfCrv7F3colg) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [現在完成式 \-《埋班作樂III》作品](https://open.spotify.com/album/6VTFAGdAxbg52JY7idaBHq) | 4:01 | 2024-11-07 |  |
 | [甜蜜在十點五十九分前](https://open.spotify.com/track/3cbv2A9wr4n5100gxnHmUO) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [甜蜜在十點五十九分前](https://open.spotify.com/album/17Qb9AM8uSoKcvIWyOffGb) | 2:29 | 2024-06-27 |  |
 | [當兵的自我修養](https://open.spotify.com/track/6ipUXVKisMDnAiQP8GmBik) | [J.Arie](https://open.spotify.com/artist/1XtqhbH2mw54S87c4d4v2v) | [當兵的自我修養](https://open.spotify.com/album/1X5cen2hFfI6V1Ul9COBBa) | 2:51 | 2024-10-17 |  |
 | [痴根鐵粉](https://open.spotify.com/track/25GXAivtvnqjrd9HxtUo4F) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [痴根鐵粉](https://open.spotify.com/album/2K2fG8bNgZws9A266d6Uue) | 2:48 | 2024-10-03 |  |

@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Man/Woman/Chainsaw
 
-1,696 songs - 3 day 21 hr 35 min
+1,697 songs - 3 day 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1354,6 +1354,7 @@
 | [Something In The Water](https://open.spotify.com/track/699fWFRaJXJeb0zSI8YdNU) | [Cut Your Losses](https://open.spotify.com/artist/5W1LmT1urRaRm1Ogmnzfy5) | [Something In The Water](https://open.spotify.com/album/5xGGeVszTESHMH6mBtSS1v) | 4:01 | 2023-04-26 | 2023-07-20 |
 | [Something New](https://open.spotify.com/track/4sQG4ljmx8u49zLGMw7ppf) | [CLAMM](https://open.spotify.com/artist/2QYx4UUKqLe1OUWFkjclqH) | [Something New](https://open.spotify.com/album/09yrH196XEEGVpwhoL5pOq) | 3:39 | 2022-08-03 | 2022-09-29 |
 | [Something Unspoken](https://open.spotify.com/track/7wHdG950FZvGmnGlZEVnTy) | [AA Sessions](https://open.spotify.com/artist/3es9ZPSueOk506VqhIGx9b), [paperflag](https://open.spotify.com/artist/3p4P0Hd8XG19gXm1LJCTzP), [CLT DRP](https://open.spotify.com/artist/0y7VykZdOB8wIsAQfr2S4M) | [Something Unspoken](https://open.spotify.com/album/3T6Ffd30LQHHUcjLx5YYbG) | 3:11 | 2021-12-01 | 2022-01-27 |
+| [Somewhere In America](https://open.spotify.com/track/4G34UotQuAdapqzv3HGQvk) | [Teddy at Night](https://open.spotify.com/artist/7dKFysAbvsEh0XaG8B3j1v) | [Somewhere In America](https://open.spotify.com/album/3n0R2z0pN83OSY8bPlLwaD) | 3:27 | 2024-11-08 |  |
 | [Songs of Love](https://open.spotify.com/track/1Xdc2qkxnV6oZ2Gf3PeGxN) | [Island of Love](https://open.spotify.com/artist/6Owu7hgXQkNtgcVMo7UYqn) | [Songs of Love](https://open.spotify.com/album/1o0RcnUh2J4bSLKBQElOJk) | 4:12 | 2022-02-16 | 2023-01-12 |
 | [Soonish...](https://open.spotify.com/track/6MmhdrCkQt8hL78DiY2Q6m) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Free Energy](https://open.spotify.com/album/65xYYnCJh3cuM2OWFlKrN3) | 3:12 | 2024-09-11 |  |
 | [Sophie](https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [Sophie](https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I) | 3:14 | 2023-11-08 | 2024-03-07 |

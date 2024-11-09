@@ -1,12 +1,12 @@
 {
   "description": "The best songs from the new shows and the buzziest hits. Cover: Romeo + Juliet",
-  "num_followers": 110835,
+  "num_followers": 110904,
   "original_name": "Broadway Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxsXwAAAAABwBFtrB6IELnSVy9Dehhd4",
+  "snapshot_id": "Zy2MwAAAAADkWDjR30XZraybJ/RZH/qp",
   "tracks": [
     {
       "added_at": "2024-10-25 04:00:00",
@@ -163,30 +163,6 @@
       "duration_ms": 122373,
       "name": "London Song",
       "url": "https://open.spotify.com/track/7A3PjOKKA6oOwjvwrOFoiB"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Hydrogen / Crazy",
-        "url": "https://open.spotify.com/album/2G26we8qI9rtz4MkpcDAUz"
-      },
-      "artists": [
-        {
-          "name": "Andrew Lloyd Webber",
-          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
-        },
-        {
-          "name": "Starlight Express",
-          "url": "https://open.spotify.com/artist/0tU5mIMhY8VA85lj88bVRn"
-        },
-        {
-          "name": "Jaydon Vijn",
-          "url": "https://open.spotify.com/artist/0GvETYvpytrlCdO23rntCK"
-        }
-      ],
-      "duration_ms": 184635,
-      "name": "Hydrogen",
-      "url": "https://open.spotify.com/track/5QMJKsWHB14nPhMhw30G8v"
     },
     {
       "added_at": "2024-06-28 04:27:17",

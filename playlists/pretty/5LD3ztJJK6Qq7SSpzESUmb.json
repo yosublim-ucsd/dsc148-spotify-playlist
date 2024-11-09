@@ -1,344 +1,352 @@
 {
   "description": "The hottest new songs rocking Kerrang!'s world, updated every Friday!",
-  "num_followers": 6329,
+  "num_followers": 6333,
   "original_name": "Kerrang! Chart",
   "owner": {
     "name": "Kerrang!",
     "url": "https://open.spotify.com/user/kerrangmagazine"
   },
-  "snapshot_id": "AAAMiEffETL3zTQM3UcgbzG+cMGboT6a",
+  "snapshot_id": "AAAMi4qfDtCT+pDnqZsGo1sSkXkob94P",
   "tracks": [
     {
-      "added_at": "2024-11-01 07:56:05",
+      "added_at": "2024-11-08 12:00:41",
       "album": {
-        "name": "Fangtasy",
-        "url": "https://open.spotify.com/album/78ZyKHkzcr5qauqnxNCyw6"
+        "name": "Trenches",
+        "url": "https://open.spotify.com/album/0K2gvxHs9aFSRgcdFKlamt"
       },
       "artists": [
         {
-          "name": "Bambie Thug",
-          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
         }
       ],
-      "duration_ms": 172965,
-      "name": "Fangtasy",
-      "url": "https://open.spotify.com/track/2ws9oLOmP7FfiKnj29BPZ5"
+      "duration_ms": 196715,
+      "name": "Trenches",
+      "url": "https://open.spotify.com/track/6R2iQXWS7CfK2TPjtlfI0c"
     },
     {
-      "added_at": "2024-11-01 07:56:05",
+      "added_at": "2024-11-08 12:00:41",
       "album": {
-        "name": "What If...?",
-        "url": "https://open.spotify.com/album/2iE4nia3tEAoQKRex8rElL"
+        "name": "Face-Splitting Madness",
+        "url": "https://open.spotify.com/album/6MFlQK82c6L00NRRfeDPoB"
       },
       "artists": [
         {
-          "name": "HIMALAYAS",
-          "url": "https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x"
+          "name": "NECKBREAKKER",
+          "url": "https://open.spotify.com/artist/4bEKeZm7yf8aOqam6RI4cJ"
         }
       ],
-      "duration_ms": 215773,
-      "name": "What If...?",
-      "url": "https://open.spotify.com/track/4NDXISXlmXBF1bQIjULijY"
+      "duration_ms": 338613,
+      "name": "Face-Splitting Madness",
+      "url": "https://open.spotify.com/track/7H7gOl0s1ovp0xR0RfBbUL"
     },
     {
-      "added_at": "2024-11-01 07:56:05",
+      "added_at": "2024-11-08 12:00:41",
       "album": {
-        "name": "Reliks",
-        "url": "https://open.spotify.com/album/1clDtdR9QVuAmljFDSTTFN"
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/7seWR9BS10N3K8FOyaIuUF"
       },
       "artists": [
         {
-          "name": "Cwfen",
-          "url": "https://open.spotify.com/artist/2osrICe2kgcit3D086z3Lo"
+          "name": "Whispers",
+          "url": "https://open.spotify.com/artist/62tqJaaK7ys8tATtp4334R"
         }
       ],
-      "duration_ms": 346960,
-      "name": "Reliks - Single Version",
-      "url": "https://open.spotify.com/track/0dloVNchxVzIgPRkHbnS8E"
+      "duration_ms": 176360,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/7sxNMD1pJTmGDx5xftYZZL"
     },
     {
-      "added_at": "2024-11-01 07:56:05",
+      "added_at": "2024-11-08 12:00:41",
       "album": {
-        "name": "ONE NATION",
-        "url": "https://open.spotify.com/album/5JJ4MejqGy8oAdPevTNi3Q"
+        "name": "Heaven Let Them Die",
+        "url": "https://open.spotify.com/album/5pdSJTWNlQj6RJbYPgTFGZ"
       },
       "artists": [
         {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
         }
       ],
-      "duration_ms": 183000,
-      "name": "ONE NATION",
-      "url": "https://open.spotify.com/track/7oZn1w8pspTBu7Bps6WRfj"
+      "duration_ms": 220933,
+      "name": "A Martyr Left Alive",
+      "url": "https://open.spotify.com/track/6ajfXivkRaEKfnDWBYnN2D"
     },
     {
-      "added_at": "2024-11-01 07:56:05",
+      "added_at": "2024-11-08 12:00:41",
       "album": {
-        "name": "We Could Be Heaven",
-        "url": "https://open.spotify.com/album/6olZb6eZFBI9xpmPDAwqOR"
+        "name": "The Reaping",
+        "url": "https://open.spotify.com/album/6UuOIfc4Zt4ktoWKcluneU"
       },
       "artists": [
         {
-          "name": "Blood Command",
-          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
         }
       ],
-      "duration_ms": 168227,
-      "name": "We Could Be Heaven",
-      "url": "https://open.spotify.com/track/7qsCOBgSNp8SOOV9UfHnJD"
+      "duration_ms": 227959,
+      "name": "The Reaping",
+      "url": "https://open.spotify.com/track/17ZxFTe5wxNTdQpXiMWwGL"
     },
     {
-      "added_at": "2024-11-01 07:56:05",
+      "added_at": "2024-11-08 12:00:41",
       "album": {
-        "name": "Kafka",
-        "url": "https://open.spotify.com/album/0uJFNqFFYx7SyBqN2qPdm6"
+        "name": "Pitch Black",
+        "url": "https://open.spotify.com/album/4VxwwXBy1q2a7JJwDz4EqS"
       },
       "artists": [
         {
-          "name": "Jinjer",
-          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
         }
       ],
-      "duration_ms": 249285,
-      "name": "Kafka",
-      "url": "https://open.spotify.com/track/5xA7brxtQFDNQBJDyOHHWc"
+      "duration_ms": 265188,
+      "name": "Pitch Black",
+      "url": "https://open.spotify.com/track/667WclCD8TE4oLsoWkRoNy"
     },
     {
-      "added_at": "2024-11-01 07:56:05",
+      "added_at": "2024-11-08 12:00:41",
       "album": {
-        "name": "Vertebrate",
-        "url": "https://open.spotify.com/album/4og9w5F3CcS08j6qeQNiex"
+        "name": "Born To Destroy",
+        "url": "https://open.spotify.com/album/32gSVXUOeD1nvgQldat1KT"
       },
       "artists": [
         {
-          "name": "Every Hell",
-          "url": "https://open.spotify.com/artist/34BJjZdVWcznR0qlook0nY"
+          "name": "Harpy",
+          "url": "https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX"
         }
       ],
-      "duration_ms": 191338,
-      "name": "Bad Cop",
-      "url": "https://open.spotify.com/track/1OK4rGEWLa9Xp0XFwfLEmR"
+      "duration_ms": 140108,
+      "name": "Born To Destroy",
+      "url": "https://open.spotify.com/track/2TDZzciUBjVhjLEro3qYhc"
     },
     {
-      "added_at": "2024-11-01 07:56:05",
+      "added_at": "2024-11-08 12:00:41",
       "album": {
-        "name": "Gnaw",
-        "url": "https://open.spotify.com/album/59tciOXf0HmNMhHXquSng8"
+        "name": "Fire To Burn",
+        "url": "https://open.spotify.com/album/19Gkc7bPSfdkRtRITYCJv6"
       },
       "artists": [
         {
-          "name": "Grief Ritual",
-          "url": "https://open.spotify.com/artist/7hM17EMsGXmMzxfKJVPUwK"
+          "name": "Slung",
+          "url": "https://open.spotify.com/artist/7EEluFWhabUJwqInW2J654"
         }
       ],
-      "duration_ms": 238426,
-      "name": "Gnaw",
-      "url": "https://open.spotify.com/track/2zJMAvAXdZLF5QScpaksyT"
+      "duration_ms": 255220,
+      "name": "Fire to Burn",
+      "url": "https://open.spotify.com/track/6rFwLSiUCSBg0b0wYkHCdI"
     },
     {
-      "added_at": "2024-11-01 07:56:05",
+      "added_at": "2024-11-08 12:00:41",
       "album": {
-        "name": "STILL IN THE PAINT (with LAZER DIM 700 & Bktherula)",
-        "url": "https://open.spotify.com/album/2xOT5KaLwXnsOVBZbyordn"
+        "name": "State Champs",
+        "url": "https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v"
       },
       "artists": [
         {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        }
+      ],
+      "duration_ms": 203719,
+      "name": "The Constant",
+      "url": "https://open.spotify.com/track/1J7ziZHUNgITzcKEWPWkxw"
+    },
+    {
+      "added_at": "2024-11-08 12:00:41",
+      "album": {
+        "name": "Self Sabotage (feat. Down And Out)",
+        "url": "https://open.spotify.com/album/0JPXhtGlodWjU3H47VxT2K"
+      },
+      "artists": [
+        {
+          "name": "Comastatic",
+          "url": "https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF"
         },
         {
-          "name": "LAZER DIM 700",
-          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+          "name": "Down And Out",
+          "url": "https://open.spotify.com/artist/7EfK0VXLHjPEysgWDnAyYH"
+        }
+      ],
+      "duration_ms": 167611,
+      "name": "Self Sabotage (feat. Down And Out)",
+      "url": "https://open.spotify.com/track/3jhoLy0PX091ZnsIE0cQCL"
+    },
+    {
+      "added_at": "2024-11-08 12:00:41",
+      "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/1YyIQsF7te1vM4EBz2h1Bg"
+      },
+      "artists": [
+        {
+          "name": "Tayne",
+          "url": "https://open.spotify.com/artist/0YhYfoCTZKEw5VwaC7dasF"
         },
         {
-          "name": "Bktherula",
-          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
-        }
-      ],
-      "duration_ms": 233085,
-      "name": "STILL IN THE PAINT (with LAZER DIM 700 & Bktherula)",
-      "url": "https://open.spotify.com/track/16yFuOEn0CrjQR7SZotv8B"
-    },
-    {
-      "added_at": "2024-11-01 07:56:05",
-      "album": {
-        "name": "Born With a Broken Heart",
-        "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 208956,
-      "name": "Born With a Broken Heart",
-      "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
-    },
-    {
-      "added_at": "2024-11-01 07:56:05",
-      "album": {
-        "name": "Lion Rumpus",
-        "url": "https://open.spotify.com/album/5CffI957GY9pVRSJMfiTjF"
-      },
-      "artists": [
-        {
-          "name": "Mogwai",
-          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
-        }
-      ],
-      "duration_ms": 213049,
-      "name": "Lion Rumpus",
-      "url": "https://open.spotify.com/track/6leXbezOWAJVyCveOLAwuU"
-    },
-    {
-      "added_at": "2024-11-01 07:56:05",
-      "album": {
-        "name": "A Fever To Defeat",
-        "url": "https://open.spotify.com/album/5BXWiL5tHjMa2vkKdrJ1XN"
-      },
-      "artists": [
-        {
-          "name": "Paradise Slaves",
-          "url": "https://open.spotify.com/artist/1EuNDbf2DWqsa9cSgHT1Mm"
-        }
-      ],
-      "duration_ms": 301333,
-      "name": "A Fever To Defeat",
-      "url": "https://open.spotify.com/track/2wsYBaiPOzABiGteh5IWGW"
-    },
-    {
-      "added_at": "2024-11-01 07:56:05",
-      "album": {
-        "name": "Less Meaning",
-        "url": "https://open.spotify.com/album/6K6YYlBwDMg1keTDkmAs8A"
-      },
-      "artists": [
-        {
-          "name": "The Body",
-          "url": "https://open.spotify.com/artist/1VFYpTpgmp7ANXqok2dTg3"
-        }
-      ],
-      "duration_ms": 249413,
-      "name": "Less Meaning",
-      "url": "https://open.spotify.com/track/0LtSvKtqYdctjddw6PQa1j"
-    },
-    {
-      "added_at": "2024-11-01 07:56:05",
-      "album": {
-        "name": "Leash",
-        "url": "https://open.spotify.com/album/5tHmNfayluyrPItdzJV8nw"
-      },
-      "artists": [
-        {
-          "name": "Arimea",
-          "url": "https://open.spotify.com/artist/6qNHuzJVAGJ8h2D0qo6wAh"
-        }
-      ],
-      "duration_ms": 245361,
-      "name": "Leash",
-      "url": "https://open.spotify.com/track/4DF1oibtK3MkjUS7FWr3D4"
-    },
-    {
-      "added_at": "2024-11-01 07:56:05",
-      "album": {
-        "name": "MOTH KIDS",
-        "url": "https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs"
-      },
-      "artists": [
-        {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
-        }
-      ],
-      "duration_ms": 219035,
-      "name": "MOTH KIDS",
-      "url": "https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU"
-    },
-    {
-      "added_at": "2024-11-01 07:56:05",
-      "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/2Bm13FR7F0QrvQEqeg2nEb"
-      },
-      "artists": [
-        {
-          "name": "Sleep Theory",
-          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
-        }
-      ],
-      "duration_ms": 206425,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/0Ve1dre3NWquRzDge8hyyD"
-    },
-    {
-      "added_at": "2024-11-01 07:56:05",
-      "album": {
-        "name": "White Smoke",
-        "url": "https://open.spotify.com/album/2mudL2znAny2DJWtl8XFUP"
-      },
-      "artists": [
-        {
-          "name": "Black Pope",
-          "url": "https://open.spotify.com/artist/6735msKWBms5KwdGFmqSsT"
-        }
-      ],
-      "duration_ms": 173204,
-      "name": "She's Alive",
-      "url": "https://open.spotify.com/track/0oCl7rgVAcEkkXrvHrFb15"
-    },
-    {
-      "added_at": "2024-11-01 07:56:05",
-      "album": {
-        "name": "The Needle And The Spoon (Feat. Neil Fallon)",
-        "url": "https://open.spotify.com/album/6F4z9SAqBN8FIaBCmyRf6u"
-      },
-      "artists": [
-        {
-          "name": "Mark Morton",
-          "url": "https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF"
+          "name": "Rolo Tomassi",
+          "url": "https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI"
         },
         {
-          "name": "Neil Fallon",
-          "url": "https://open.spotify.com/artist/1PvBXGOTvO3zrbDtL5mKEB"
+          "name": "James Spence",
+          "url": "https://open.spotify.com/artist/5o7HNIYhhCd8MNNvcV6gw2"
         }
       ],
-      "duration_ms": 230434,
-      "name": "The Needle And The Spoon - feat. Neil Fallon",
-      "url": "https://open.spotify.com/track/65Do1Pd6ijUc4O5onfJNcM"
+      "duration_ms": 232320,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/4Sly8l7P3M4jyItnrCszeB"
     },
     {
-      "added_at": "2024-11-01 07:56:05",
+      "added_at": "2024-11-08 12:00:41",
       "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/465MzJZJBH3FbtkGkfnT6R"
+        "name": "Precious Stones",
+        "url": "https://open.spotify.com/album/05xagHaffji9fwoDPWDT3a"
       },
       "artists": [
         {
-          "name": "HRTLSS",
-          "url": "https://open.spotify.com/artist/3weTDlYKpF9A55JH0XAKkD"
+          "name": "SPLIT DOGS",
+          "url": "https://open.spotify.com/artist/2knguAkuatcKmqXZkBxaLs"
         }
       ],
-      "duration_ms": 213913,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/0gnNKgvu9Yob50ywxpNpRb"
+      "duration_ms": 124028,
+      "name": "Precious Stones",
+      "url": "https://open.spotify.com/track/0aK0yLy1dJFig1m1vfv4z2"
     },
     {
-      "added_at": "2024-11-01 07:56:05",
+      "added_at": "2024-11-08 12:00:41",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/3jIXM6JwItR5LJ37kIfmUl"
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/6Q4VflHDUpPMObnGDrA67m"
       },
       "artists": [
         {
-          "name": "AVOID",
-          "url": "https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU"
+          "name": "Out Of Love",
+          "url": "https://open.spotify.com/artist/405LgUfDn2WLYkBJaLSaDe"
+        },
+        {
+          "name": "Wade Macneil",
+          "url": "https://open.spotify.com/artist/7FkwgNGMt64MpnIYoXnhK1"
         }
       ],
-      "duration_ms": 183000,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/2AhIsvwpkE3CI2cNefp7au"
+      "duration_ms": 116821,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/7rVC99NBBSpGPEtxv0M93e"
+    },
+    {
+      "added_at": "2024-11-08 12:00:41",
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/2puzzIlQUXYVjCMw82HhKJ"
+      },
+      "artists": [
+        {
+          "name": "The Gates Of Slumber",
+          "url": "https://open.spotify.com/artist/30ZFCxaQeisDgihIZyjOlj"
+        }
+      ],
+      "duration_ms": 312479,
+      "name": "Full Moon Fever",
+      "url": "https://open.spotify.com/track/28XXimooM8Pe0D66Tx55AD"
+    },
+    {
+      "added_at": "2024-11-08 12:00:41",
+      "album": {
+        "name": "Slip Away",
+        "url": "https://open.spotify.com/album/2dngiB9GK0ye0Fa7fviVgl"
+      },
+      "artists": [
+        {
+          "name": "The Dark",
+          "url": "https://open.spotify.com/artist/4w9QOKrn9Rzx8KiYgjIhZ6"
+        }
+      ],
+      "duration_ms": 184438,
+      "name": "Slip Away",
+      "url": "https://open.spotify.com/track/31BioejtceWRxtWruG01MG"
+    },
+    {
+      "added_at": "2024-11-08 12:00:41",
+      "album": {
+        "name": "WIERSZALIN IV",
+        "url": "https://open.spotify.com/album/6MRIksLAlqz0DDu4jV6P6R"
+      },
+      "artists": [
+        {
+          "name": "PATRIARKH",
+          "url": "https://open.spotify.com/artist/15LsRgSmN0t8VLcsUFYW5J"
+        }
+      ],
+      "duration_ms": 329253,
+      "name": "WIERSZALIN IV",
+      "url": "https://open.spotify.com/track/3ffow0Xo092ICuUxwRpGAp"
+    },
+    {
+      "added_at": "2024-11-08 12:00:41",
+      "album": {
+        "name": "Angry Cry",
+        "url": "https://open.spotify.com/album/0Pm7zqgIXzwlBzvT8Px466"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Angry Cry",
+      "url": "https://open.spotify.com/track/3ge4mUDuQFneD2ykjguj3D"
+    },
+    {
+      "added_at": "2024-11-08 12:00:41",
+      "album": {
+        "name": "The Spell Of The Skull",
+        "url": "https://open.spotify.com/album/34rRQDYlMUUS7KN9ZAe77k"
+      },
+      "artists": [
+        {
+          "name": "Burning Witches",
+          "url": "https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8"
+        }
+      ],
+      "duration_ms": 296341,
+      "name": "The Spell Of The Skull",
+      "url": "https://open.spotify.com/track/3ksWNrEyL6G6T3i74YWUlN"
+    },
+    {
+      "added_at": "2024-11-08 12:00:41",
+      "album": {
+        "name": "My Blood On Your Hands",
+        "url": "https://open.spotify.com/album/1II7VOGQ8g5fHv9Cqa59VD"
+      },
+      "artists": [
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        }
+      ],
+      "duration_ms": 100430,
+      "name": "My Blood On Your Hands",
+      "url": "https://open.spotify.com/track/2gU9kJyilPyNg9V63tr40l"
+    },
+    {
+      "added_at": "2024-11-08 12:00:41",
+      "album": {
+        "name": "All For One None For All",
+        "url": "https://open.spotify.com/album/1Vjhwm2hYvHKIEcKS70tIo"
+      },
+      "artists": [
+        {
+          "name": "RED METHOD",
+          "url": "https://open.spotify.com/artist/0GziaiWv5ifydV7CMykbKk"
+        },
+        {
+          "name": "Bloodywood",
+          "url": "https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9"
+        }
+      ],
+      "duration_ms": 323120,
+      "name": "All For One None For All",
+      "url": "https://open.spotify.com/track/36HuSFoHRp89tM8pNTxPWp"
     }
   ],
   "unique_name": "Kerrang! Chart",

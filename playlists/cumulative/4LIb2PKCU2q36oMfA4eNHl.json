@@ -433,6 +433,28 @@
     },
     {
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/5ZNkTEY37Og8IqVZGYZCjD"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217392,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4BzaG97pk6iZ5Wev2tKKgD"
+    },
+    {
+      "album": {
         "name": "Luminescence EP",
         "url": "https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY"
       },
@@ -516,7 +538,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 418859,
       "name": "Butterfly In A Jar (II-IV)",
       "url": "https://open.spotify.com/track/0l8zN8ActPHjTikyG2zZOc"
@@ -596,7 +618,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 220000,
       "name": "Circle 26 - Tom Ashbrook Rework",
       "url": "https://open.spotify.com/track/4j8p9TcazKNPKka3SD43Tt"
@@ -2199,6 +2221,28 @@
     },
     {
       "album": {
+        "name": "O-Ama",
+        "url": "https://open.spotify.com/album/71O6WEaBbQWg7ExBIAU5Ml"
+      },
+      "artists": [
+        {
+          "name": "Esteble",
+          "url": "https://open.spotify.com/artist/6XCUjUrPIwKX1GJWoKm5Zp"
+        },
+        {
+          "name": "Joram Feitsma",
+          "url": "https://open.spotify.com/artist/51CfbHl45dy3Q7wIBGtWeu"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241028,
+      "name": "O-Ama",
+      "url": "https://open.spotify.com/track/51UE2RCA3ocC5DAAIYL2yG"
+    },
+    {
+      "album": {
         "name": "Trauma",
         "url": "https://open.spotify.com/album/4SWTeikAx2dal9TSdfbSxy"
       },
@@ -2494,7 +2538,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 270996,
       "name": "Second Chance",
       "url": "https://open.spotify.com/track/0IdaAvLilaPpPp4IDOpUud"
@@ -2678,7 +2722,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 214296,
       "name": "Softness II",
       "url": "https://open.spotify.com/track/1JVpCuDd3FVoaGlbPQV3lW"

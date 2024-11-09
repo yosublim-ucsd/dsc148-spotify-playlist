@@ -4,7 +4,7 @@
 
 > 2hollis\. Born and raised on the internet.
 
-1,078 songs - 1 day 19 hr 52 min
+1,079 songs - 1 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -881,6 +881,7 @@
 | [Sloppy Seconds \(Ick Pt\. 2\)](https://open.spotify.com/track/00WnaHagi3KLsrbs20OFVt) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Sloppy Seconds \(Ick Pt\. 2\)](https://open.spotify.com/album/4tl8geDZIbp8ZZNTwpwzDc) | 2:42 | 2023-11-24 | 2023-12-22 |
 | [Slow It Down](https://open.spotify.com/track/0jRiVMnGBnuyXQsIVwbDSK) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw) | [Slow It Down](https://open.spotify.com/album/5FoMKRPTtYoi072HZqy88d) | 2:14 | 2023-10-20 | 2023-11-18 |
 | [Slow It Down \(feat\. 310babii\) \- Remix](https://open.spotify.com/track/4ZBAIrRUGcRnTWWNEVlnWi) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Slow It Down \(feat\. 310babii\) \[Remix\]](https://open.spotify.com/album/07nA13Tm7sd6fnjQtcUWHM) | 2:51 | 2023-11-17 | 2024-08-04 |
+| [Snapchat/Act bad](https://open.spotify.com/track/1smaWyA8oWvFZLtVl0Mx40) | [Lil Surf](https://open.spotify.com/artist/6fqeTBtr5R6lamzkF7RkYd) | [Snapchat/Act bad](https://open.spotify.com/album/4vYnwP3wwQMKhYewUL9Lm4) | 2:23 | 2024-11-08 |  |
 | [Sneaky Link 2.0](https://open.spotify.com/track/79fkjl9VtiLUl36ye9tMDP) | [HXLLYWOOD](https://open.spotify.com/artist/7xlLJW6mWTYxZVLYkSGPjJ), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT) | [Sneaky Link 2.0](https://open.spotify.com/album/3C4pz3mQxUAD5gFPTb1xWZ) | 2:32 | 2021-10-22 | 2022-02-23 |
 | [Sneaky Link Shemix](https://open.spotify.com/track/2tc16SiowJOcfHRHBwH9F1) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Sneaky Link Shemix](https://open.spotify.com/album/6yjODlGE0dgBbsNUSrfrnb) | 1:38 | 2022-02-04 | 2022-02-19 |
 | [so silly !](https://open.spotify.com/track/4AAU9Fg5uQqq8OkmhxSxIm) | [Koto.](https://open.spotify.com/artist/7BhOIxOt4a0uyyIu6zJYef) | [so silly !](https://open.spotify.com/album/1Rudga8yVbJbBsFkuKF2YI) | 1:43 | 2022-05-13 | 2022-10-15 |

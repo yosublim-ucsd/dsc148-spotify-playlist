@@ -2111,6 +2111,32 @@
     },
     {
       "album": {
+        "name": "Nomvula (feat. Nia Pearl & Bontle Smith)",
+        "url": "https://open.spotify.com/album/7kvszdC2oRoR9eQzlKT8DM"
+      },
+      "artists": [
+        {
+          "name": "Citizen Deep",
+          "url": "https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM"
+        },
+        {
+          "name": "Nia Pearl",
+          "url": "https://open.spotify.com/artist/7kIugQ8wJXbh4k72hgMuyK"
+        },
+        {
+          "name": "Bontle Smith",
+          "url": "https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262379,
+      "name": "Nomvula (feat. Nia Pearl & Bontle Smith)",
+      "url": "https://open.spotify.com/track/43yHwDUgHXuRx4Ntur15dL"
+    },
+    {
+      "album": {
         "name": "Ntinga Ntaka",
         "url": "https://open.spotify.com/album/6sOndSTzqdFQtNm4MBEKLa"
       },

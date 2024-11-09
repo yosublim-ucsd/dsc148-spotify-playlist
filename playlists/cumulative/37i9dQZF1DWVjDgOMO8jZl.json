@@ -595,6 +595,24 @@
     },
     {
       "album": {
+        "name": "Cerchio",
+        "url": "https://open.spotify.com/album/44vHEKMkpA4Bnz8SRFP5AS"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Cerchio",
+      "url": "https://open.spotify.com/track/7ziLqtC6tXHbzu8tWVtC2M"
+    },
+    {
+      "album": {
         "name": "CITYCAR (Abbronzatissima) [feat. Edoardo Vianello]",
         "url": "https://open.spotify.com/album/1alfnxle69VfWlGBm9POGf"
       },
@@ -956,6 +974,28 @@
       "duration_ms": 171839,
       "name": "EGO",
       "url": "https://open.spotify.com/track/0tn0i6zH7uEhRDrT0Yticv"
+    },
+    {
+      "album": {
+        "name": "Etc (feat. Nardo Wick)",
+        "url": "https://open.spotify.com/album/1gHHbM7rsEjkl4P6eQ7CKp"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128450,
+      "name": "Etc (feat. Nardo Wick)",
+      "url": "https://open.spotify.com/track/7onFHCj8W40kYT3MFCotVG"
     },
     {
       "album": {

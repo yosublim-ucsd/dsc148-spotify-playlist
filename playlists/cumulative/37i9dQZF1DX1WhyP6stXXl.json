@@ -5329,6 +5329,24 @@
     },
     {
       "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/66jmQLa1ALLwEfp9axy0dk"
+      },
+      "artists": [
+        {
+          "name": "Levent Geiger",
+          "url": "https://open.spotify.com/artist/7JSBgXyCDzX24iZCHJofIG"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140372,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/1sk5k0JRthaPJXBVxAK1fE"
+    },
+    {
+      "album": {
         "name": "Love Me Better",
         "url": "https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H"
       },

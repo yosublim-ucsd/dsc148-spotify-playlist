@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The rock songs you need to know. Turn it  \u2b06\ufe0f Cover: Amira Elfeky",
+  "description": "The rock songs you need to know. Turn it  \u2b06\ufe0f Cover: Breaking Benjamin",
   "name": "VOLUME",
   "tracks": [
     {
@@ -2074,7 +2074,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 267877,
       "name": "Been Here Before",
       "url": "https://open.spotify.com/track/2KlAdT5Y6515sZdOPka8sA"
@@ -8904,7 +8904,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 260885,
       "name": "Goodbye For Now (feat. Julien Baker)",
       "url": "https://open.spotify.com/track/0lPwT1JHuNFeXtIV6i6Eg2"
@@ -9972,7 +9972,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 195770,
       "name": "Honey - Single Version",
       "url": "https://open.spotify.com/track/7JplJCCUuo2o6emhE3f3SK"
@@ -10870,7 +10870,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 279880,
       "name": "In The Night (feat. Underoath)",
       "url": "https://open.spotify.com/track/3N7XPzpAbWmMCxLbcp54KD"
@@ -11392,6 +11392,24 @@
       "duration_ms": 204676,
       "name": "Just Pretend",
       "url": "https://open.spotify.com/track/3zb8S65LhiPPPH4vov8yV2"
+    },
+    {
+      "album": {
+        "name": "Just Too Much",
+        "url": "https://open.spotify.com/album/1XtvMNpkxT9bfImjXVawnu"
+      },
+      "artists": [
+        {
+          "name": "Tremonti",
+          "url": "https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226846,
+      "name": "Just Too Much",
+      "url": "https://open.spotify.com/track/50jAagbs3gaicU3gxWbkkU"
     },
     {
       "album": {
@@ -16624,7 +16642,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 198748,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/4KgI52UdIGZC5YdMpVYAOS"
@@ -18086,7 +18104,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 213580,
       "name": "Say What You Will",
       "url": "https://open.spotify.com/track/6Q47FSXfau9Adh1qmFFmyb"
@@ -19206,6 +19224,24 @@
       "duration_ms": 214775,
       "name": "Soul Revolution",
       "url": "https://open.spotify.com/track/3OMaAVh09E6AgvevhWybRP"
+    },
+    {
+      "album": {
+        "name": "Vol. 3",
+        "url": "https://open.spotify.com/album/0BWnYKF4PdH5ehk7oQU9W5"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217830,
+      "name": "Spare Me",
+      "url": "https://open.spotify.com/track/04NfX1qK7HBIzejYQhj6qn"
     },
     {
       "album": {
@@ -25050,7 +25086,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 276076,
       "name": "Zombie (Wild Coming Out)",
       "url": "https://open.spotify.com/track/21k6owSOcKiNOwzmq69wTn"

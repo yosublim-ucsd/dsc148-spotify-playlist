@@ -1,6 +1,6 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1322,
+  "num_followers": 1324,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
@@ -363,46 +363,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "King Kong",
-        "url": "https://open.spotify.com/album/42INLd6X6znuImjQc0jw2R"
-      },
-      "artists": [
-        {
-          "name": "Fik Fameica",
-          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
-        },
-        {
-          "name": "Geosteady1",
-          "url": "https://open.spotify.com/artist/2RlWVKmzxjwaq6wMR1QUNu"
-        }
-      ],
-      "duration_ms": 217704,
-      "name": "Izulu",
-      "url": "https://open.spotify.com/track/6bnLZdjBcPr02eVoQDUbRq"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Gemazima",
-        "url": "https://open.spotify.com/album/02QbNNia59RV4jwu00khDg"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Teslah",
-          "url": "https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u"
-        }
-      ],
-      "duration_ms": 181342,
-      "name": "Gemazima",
-      "url": "https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "We Can",
         "url": "https://open.spotify.com/album/1woz3iK06NUsrX18WrhgpC"
       },
@@ -427,6 +387,46 @@
       "duration_ms": 220408,
       "name": "Born To Love You - 2020 Remix",
       "url": "https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Gemazima",
+        "url": "https://open.spotify.com/album/02QbNNia59RV4jwu00khDg"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Teslah",
+          "url": "https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u"
+        }
+      ],
+      "duration_ms": 181342,
+      "name": "Gemazima",
+      "url": "https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/42INLd6X6znuImjQc0jw2R"
+      },
+      "artists": [
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+        },
+        {
+          "name": "Geosteady1",
+          "url": "https://open.spotify.com/artist/2RlWVKmzxjwaq6wMR1QUNu"
+        }
+      ],
+      "duration_ms": 217704,
+      "name": "Izulu",
+      "url": "https://open.spotify.com/track/6bnLZdjBcPr02eVoQDUbRq"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "LIFIST",
-        "url": "https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO"
-      },
-      "artists": [
-        {
-          "name": "Fik Fameica",
-          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
-        }
-      ],
-      "duration_ms": 214729,
-      "name": "LIFIST",
-      "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Basheshe",
         "url": "https://open.spotify.com/album/56rn1q7WdgSdLnxOQw21to"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 193859,
       "name": "Doctor",
       "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "LIFIST",
+        "url": "https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO"
+      },
+      "artists": [
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+        }
+      ],
+      "duration_ms": 214729,
+      "name": "LIFIST",
+      "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -799,8 +799,8 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Kiziniro",
-        "url": "https://open.spotify.com/album/5dtu1dkZGbl2a89dQ6yjtc"
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/5uovEJCYYLl53i8Wryc1e9"
       },
       "artists": [
         {
@@ -808,21 +808,13 @@
           "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
         },
         {
-          "name": "Topic Kasente",
-          "url": "https://open.spotify.com/artist/6rQqiqoFBtVRNqa3v23gJ4"
-        },
-        {
-          "name": "Lil Pazzo",
-          "url": "https://open.spotify.com/artist/64bHQYMGZ4WsdZSb0WxBeY"
-        },
-        {
-          "name": "Tip Swizzy",
-          "url": "https://open.spotify.com/artist/15istpId4Lt4aLVfcXiBbv"
+          "name": "Sama Sojah",
+          "url": "https://open.spotify.com/artist/6Cu8b2RnzlfjEWxuKrg9Bk"
         }
       ],
-      "duration_ms": 222599,
-      "name": "Kiziniro",
-      "url": "https://open.spotify.com/track/28SmtKCVqNzejIZyFGDaqd"
+      "duration_ms": 184995,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/0c3TjkmUKWDDi5WHM2qmPy"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -851,22 +843,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "My Woman",
-        "url": "https://open.spotify.com/album/5is3qhNCcJMaAY60deK5io"
-      },
-      "artists": [
-        {
-          "name": "Vian Music",
-          "url": "https://open.spotify.com/artist/4ypzQUeTPb3HIRRriCEGmm"
-        }
-      ],
-      "duration_ms": 193541,
-      "name": "My Woman",
-      "url": "https://open.spotify.com/track/2blpLXK920nbgZZSs3Kjlx"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Bakuwe",
         "url": "https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ"
       },
@@ -883,6 +859,22 @@
       "duration_ms": 186000,
       "name": "Bakuwe",
       "url": "https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "My Woman",
+        "url": "https://open.spotify.com/album/5is3qhNCcJMaAY60deK5io"
+      },
+      "artists": [
+        {
+          "name": "Vian Music",
+          "url": "https://open.spotify.com/artist/4ypzQUeTPb3HIRRriCEGmm"
+        }
+      ],
+      "duration_ms": 193541,
+      "name": "My Woman",
+      "url": "https://open.spotify.com/track/2blpLXK920nbgZZSs3Kjlx"
     },
     {
       "added_at": "2024-03-01 12:07:08",

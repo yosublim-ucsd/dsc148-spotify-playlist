@@ -1927,6 +1927,28 @@
     },
     {
       "album": {
+        "name": "grandiose delusional disorder",
+        "url": "https://open.spotify.com/album/1rEyG4IBWmeh12JCjDxq79"
+      },
+      "artists": [
+        {
+          "name": "$werve",
+          "url": "https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj"
+        },
+        {
+          "name": "Boy Destroy",
+          "url": "https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134138,
+      "name": "grandiose delusional disorder",
+      "url": "https://open.spotify.com/track/4v26UmNahA9G5yk5ku0FNp"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1fCKaE5RLL5N26iReqbVPp"
       },
@@ -2883,6 +2905,24 @@
     },
     {
       "album": {
+        "name": "Life Strobe",
+        "url": "https://open.spotify.com/album/0bYCZhpi0D56yPE3Vk9YYa"
+      },
+      "artists": [
+        {
+          "name": "Rick Farin",
+          "url": "https://open.spotify.com/artist/6WYlrffcUamfajl6Js0poA"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192761,
+      "name": "Life Strobe",
+      "url": "https://open.spotify.com/track/4qSrPcAaCo1AH9qlmxFpuS"
+    },
+    {
+      "album": {
         "name": "LIGHTS OFF TONIGHT",
         "url": "https://open.spotify.com/album/6kRe9HpzXBzHU4Pah1DZ1v"
       },
@@ -3480,7 +3520,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 123808,
       "name": "OMG XD",
       "url": "https://open.spotify.com/track/4Lk7ZslBj20EgyMlC6VJph"

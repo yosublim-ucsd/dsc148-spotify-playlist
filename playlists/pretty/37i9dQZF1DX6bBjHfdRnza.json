@@ -1,12 +1,12 @@
 {
   "description": "The best new dance & electronic by independent artists and labels. Cover: Andre Zimmer. Artwork by Rewina Beshue.",
-  "num_followers": 186747,
+  "num_followers": 186785,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zyu7oQAAAAA4wR8aa8gkt4iJnboKUaYX",
+  "snapshot_id": "Zy5nsQAAAACVtZ0h1LZele18SzAFlTh9",
   "tracks": [
     {
       "added_at": "2024-11-06 18:55:29",
@@ -23,6 +23,38 @@
       "duration_ms": 292727,
       "name": "Let It Burn",
       "url": "https://open.spotify.com/track/5U6Og9OE4rpXyX9Ira4O4d"
+    },
+    {
+      "added_at": "2024-11-08 19:34:09",
+      "album": {
+        "name": "Back 2 Me",
+        "url": "https://open.spotify.com/album/1G5zOiwudBZj9NdVsGjnXi"
+      },
+      "artists": [
+        {
+          "name": "Malachiii",
+          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
+        }
+      ],
+      "duration_ms": 161622,
+      "name": "Back 2 Me",
+      "url": "https://open.spotify.com/track/4ZWwOIi4ZaXe3abTVLkedj"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Bring The Beat",
+        "url": "https://open.spotify.com/album/0Pz6LyhxGTMtuSbTRl5UVy"
+      },
+      "artists": [
+        {
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN"
+        }
+      ],
+      "duration_ms": 150468,
+      "name": "Bring The Beat",
+      "url": "https://open.spotify.com/track/7f4xsa2uGFACKGXpZ7W2kt"
     },
     {
       "added_at": "2024-10-23 16:55:20",
@@ -55,38 +87,6 @@
       "duration_ms": 155917,
       "name": "The Booth",
       "url": "https://open.spotify.com/track/6VvCjNeAYmxNJfAy1826Qz"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Bring The Beat",
-        "url": "https://open.spotify.com/album/0Pz6LyhxGTMtuSbTRl5UVy"
-      },
-      "artists": [
-        {
-          "name": "VASA",
-          "url": "https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN"
-        }
-      ],
-      "duration_ms": 150468,
-      "name": "Bring The Beat",
-      "url": "https://open.spotify.com/track/7f4xsa2uGFACKGXpZ7W2kt"
-    },
-    {
-      "added_at": "2024-11-06 18:55:29",
-      "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/4NblX5K1sl9J8F4b42YDIz"
-      },
-      "artists": [
-        {
-          "name": "Stresshead",
-          "url": "https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs"
-        }
-      ],
-      "duration_ms": 155678,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/3nGUY4SuZphDBet6JmbMCj"
     },
     {
       "added_at": "2024-11-06 18:55:29",
@@ -157,6 +157,38 @@
       "url": "https://open.spotify.com/track/2k5FAxgu8aIazgH66dYqbn"
     },
     {
+      "added_at": "2024-11-08 19:34:09",
+      "album": {
+        "name": "Pulsion",
+        "url": "https://open.spotify.com/album/2UdbQfdmzrwULw2UVnV6Wt"
+      },
+      "artists": [
+        {
+          "name": "AMNES",
+          "url": "https://open.spotify.com/artist/1NWWdL1ttPLXOnDwqJFrbJ"
+        }
+      ],
+      "duration_ms": 145490,
+      "name": "Pulsion",
+      "url": "https://open.spotify.com/track/3qbWjVhtY2DEqoCQETqNLA"
+    },
+    {
+      "added_at": "2024-11-06 18:55:29",
+      "album": {
+        "name": "WANT U TO FEEL",
+        "url": "https://open.spotify.com/album/78zDTwZbOlE9G09HsYcCMD"
+      },
+      "artists": [
+        {
+          "name": "So Dope",
+          "url": "https://open.spotify.com/artist/3xEKrMqS4pDGqGvxf7zwSY"
+        }
+      ],
+      "duration_ms": 151764,
+      "name": "WANT U TO FEEL",
+      "url": "https://open.spotify.com/track/5CSZFETFcuFuuLyBCqP3mt"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Baby",
@@ -189,20 +221,20 @@
       "url": "https://open.spotify.com/track/19MsxQkRPQWqu5ixq8h1Fc"
     },
     {
-      "added_at": "2024-11-06 18:55:29",
+      "added_at": "2024-11-08 19:34:09",
       "album": {
-        "name": "WANT U TO FEEL",
-        "url": "https://open.spotify.com/album/78zDTwZbOlE9G09HsYcCMD"
+        "name": "Toi",
+        "url": "https://open.spotify.com/album/4fMMMFsAWQowEOtdOdX33b"
       },
       "artists": [
         {
-          "name": "So Dope",
-          "url": "https://open.spotify.com/artist/3xEKrMqS4pDGqGvxf7zwSY"
+          "name": "VAPA",
+          "url": "https://open.spotify.com/artist/6RgqlEYDVX9kAnsujuG7H7"
         }
       ],
-      "duration_ms": 151764,
-      "name": "WANT U TO FEEL",
-      "url": "https://open.spotify.com/track/5CSZFETFcuFuuLyBCqP3mt"
+      "duration_ms": 243697,
+      "name": "Toi",
+      "url": "https://open.spotify.com/track/2Jh8qK5Pkaz7tKvh51iLUk"
     },
     {
       "added_at": "2024-11-06 18:55:29",
@@ -271,6 +303,22 @@
     {
       "added_at": "2024-11-06 18:55:29",
       "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/4NblX5K1sl9J8F4b42YDIz"
+      },
+      "artists": [
+        {
+          "name": "Stresshead",
+          "url": "https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs"
+        }
+      ],
+      "duration_ms": 155678,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3nGUY4SuZphDBet6JmbMCj"
+    },
+    {
+      "added_at": "2024-11-06 18:55:29",
+      "album": {
         "name": "Chase The Sun",
         "url": "https://open.spotify.com/album/2Rvu0U87UkAIV2npJGNfNy"
       },
@@ -315,6 +363,22 @@
       "duration_ms": 201526,
       "name": "Cherry Vanilla - Radio Mix",
       "url": "https://open.spotify.com/track/0Ls4JT450IMyDbxs14abmV"
+    },
+    {
+      "added_at": "2024-11-08 19:34:09",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/2m06bkOopa7O0bFUz7ba7Z"
+      },
+      "artists": [
+        {
+          "name": "BAN DELLO",
+          "url": "https://open.spotify.com/artist/4BrGkYYLoyb06i8FeuXV8v"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/1Hu5RNkiSLE4ntYZcwfzUr"
     },
     {
       "added_at": "2024-10-02 18:02:38",
@@ -1537,22 +1601,6 @@
       "url": "https://open.spotify.com/track/305Ji055GbtNECtcBig3Fc"
     },
     {
-      "added_at": "2024-09-18 17:42:41",
-      "album": {
-        "name": "Hardjoy21",
-        "url": "https://open.spotify.com/album/3EpAx4kkUAGRu8OBofssmK"
-      },
-      "artists": [
-        {
-          "name": "McAleer",
-          "url": "https://open.spotify.com/artist/2eVrunrCs1fhwrFtof5ISo"
-        }
-      ],
-      "duration_ms": 198597,
-      "name": "Hardjoy21",
-      "url": "https://open.spotify.com/track/2Y8fCPahMT5uuWuBI75iIE"
-    },
-    {
       "added_at": "2024-08-07 16:28:20",
       "album": {
         "name": "Up To No Good",
@@ -1617,38 +1665,6 @@
       "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Affection",
-        "url": "https://open.spotify.com/album/01J98dwPpA63Vw1tX9Qiqy"
-      },
-      "artists": [
-        {
-          "name": "The Latenites",
-          "url": "https://open.spotify.com/artist/1RTNdrrEeA08zSItuqbn1r"
-        }
-      ],
-      "duration_ms": 232319,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/2LXmCjncKHHcNxXBorMxEV"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/03aIi0ntic2DQaI2U37oS3"
-      },
-      "artists": [
-        {
-          "name": "1111",
-          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
-        }
-      ],
-      "duration_ms": 213890,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/5IdCgUmwofSaQr049J075O"
-    },
-    {
       "added_at": "2024-08-28 16:35:01",
       "album": {
         "name": "FRONT LEFT SPEAKER / FTDJ (Thank God)",
@@ -1679,22 +1695,6 @@
       "duration_ms": 179750,
       "name": "Touch",
       "url": "https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf"
-    },
-    {
-      "added_at": "2024-07-24 17:53:28",
-      "album": {
-        "name": "HERE WE GO",
-        "url": "https://open.spotify.com/album/4I98MShyUAObVPwcHeEEYd"
-      },
-      "artists": [
-        {
-          "name": "H.LLS",
-          "url": "https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD"
-        }
-      ],
-      "duration_ms": 180897,
-      "name": "HERE WE GO",
-      "url": "https://open.spotify.com/track/3q0O02k68i5oaBgFKGij1j"
     },
     {
       "added_at": "2024-09-13 04:00:00",

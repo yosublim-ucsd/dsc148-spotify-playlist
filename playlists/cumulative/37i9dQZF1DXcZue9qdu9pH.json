@@ -871,6 +871,24 @@
     },
     {
       "album": {
+        "name": "coin: the demos",
+        "url": "https://open.spotify.com/album/3J2gVa7T19KVltAhyrh8wh"
+      },
+      "artists": [
+        {
+          "name": "Iyanah",
+          "url": "https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "like a song",
+      "url": "https://open.spotify.com/track/0af1OVgLy93iYimy79u0lS"
+    },
+    {
+      "album": {
         "name": "TIGERS AND LIONESSES",
         "url": "https://open.spotify.com/album/08QPNsMshzzo23hsYT4t84"
       },
@@ -1358,7 +1376,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 189250,
       "name": "Rich",
       "url": "https://open.spotify.com/track/1QDWNbbh4Ey69IUjsa44GB"

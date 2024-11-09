@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> La scène musicale montréalaise au premier plan\. Photo: Hildegard \(Helena Deland x Ouri\)
+> La scène musicale montréalaise au premier plan\. Photo: Mon Doux Saigneur
 
-537 songs - 1 day 6 hr 55 min
+538 songs - 1 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [JD](https://open.spotify.com/track/4rODIAkyRLz9tYFN6YGHhI) | [Amki](https://open.spotify.com/artist/5xKr6yXoMkJVDj8NUt2KW1) | [JD](https://open.spotify.com/album/29UvcSPfJphjgNqgFLL9wr) | 3:46 | 2022-08-12 | 2023-03-25 |
 | [Je n'habite pas chez moi](https://open.spotify.com/track/7q9auzxcNfbzqRwILxqNVF) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Je n'habite pas chez moi](https://open.spotify.com/album/20iT6YJYJD0d7ushv8mQHv) | 3:24 | 2023-03-17 | 2024-03-30 |
 | [JE RESPIRE](https://open.spotify.com/track/204PfCzQ6FbveeJH7RoxgU) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [JE RESPIRE](https://open.spotify.com/album/7MyrxRdDBg56H8TXlgUjRs) | 3:11 | 2022-06-03 | 2023-05-20 |
-| [Je suis entré](https://open.spotify.com/track/1ZoQwSE1hr3JdzXxvcgGgm) | [Minou](https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM) | [Je suis entré](https://open.spotify.com/album/4aYwIxO2q1kubup7rs3hlX) | 3:04 | 2024-06-07 |  |
+| [Je suis entré](https://open.spotify.com/track/1ZoQwSE1hr3JdzXxvcgGgm) | [Minou](https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM) | [Je suis entré](https://open.spotify.com/album/4aYwIxO2q1kubup7rs3hlX) | 3:04 | 2024-06-07 | 2024-11-09 |
 | [Juillet](https://open.spotify.com/track/0rAmw31b9kQLSbOAF7ElaP) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Juillet](https://open.spotify.com/album/78WQi9nKw7KivHbgVwF61a) | 3:04 | 2023-01-06 | 2023-04-15 |
 | [Jump Cut](https://open.spotify.com/track/0jRBEROpKjbjhqqLol11NF) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Jump Cut](https://open.spotify.com/album/5T25MocYOo34A7pzzduOLS) | 3:53 | 2024-04-26 |  |
 | [June](https://open.spotify.com/track/6Vo5ENxOavBnY9xANmMqi7) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [June](https://open.spotify.com/album/3RTNMOpBYxZqtdlU64gMIa) | 2:18 | 2024-09-13 |  |
@@ -253,6 +253,7 @@
 | [Kiss Me on the Floor](https://open.spotify.com/track/5wIBA1lYaBIrycozAWCqyI) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Kiss Me on the Floor](https://open.spotify.com/album/4X7CbXtYH209XThPd3sdSr) | 2:54 | 2023-11-10 |  |
 | [L'Ami idéal](https://open.spotify.com/track/0QMtHqmvPe1URDTdsa3tGt) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [L'Ami idéal](https://open.spotify.com/album/5aGfT3NgFxOwGxumgvrapE) | 3:14 | 2023-11-17 | 2024-01-20 |
 | [L'Habitude](https://open.spotify.com/track/3bNgr5gy1gY3yoGRuVo5Wk) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [L'Habitude](https://open.spotify.com/album/1EIrvNHQ1MM1nI5N1zMicz) | 2:58 | 2023-09-15 | 2024-03-30 |
+| [L'ordre naturel des choses](https://open.spotify.com/track/0ZZKJhvDHSHawdSKJkxPpC) | [Minou](https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM) | [Tout va bien](https://open.spotify.com/album/6E9sPaFsaf2Fv7UI8M6jn2) | 3:18 | 2024-11-08 |  |
 | [L'énorme chien très gentil](https://open.spotify.com/track/6svpIJIzxKMSpb7oieyN6p) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [L'énorme chien très gentil](https://open.spotify.com/album/0H7KQjMqQ9IBJg6Wdupr3C) | 2:59 | 2023-02-03 | 2024-04-27 |
 | [L'évadé](https://open.spotify.com/track/54IB5XhD35uEsApRWc7Rq4) | [En Stéréo](https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm) | [L'évadé](https://open.spotify.com/album/2CFik6eV2jcB6H9LEP4y3U) | 4:03 | 2023-10-27 | 2024-02-10 |
 | [L'île aux bleuets](https://open.spotify.com/track/4QkVqjrBrvoGemP2vnQbNV) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [L'île aux bleuets](https://open.spotify.com/album/2qGx04164PdegOfarPyxvP) | 3:25 | 2024-03-01 | 2024-04-06 |

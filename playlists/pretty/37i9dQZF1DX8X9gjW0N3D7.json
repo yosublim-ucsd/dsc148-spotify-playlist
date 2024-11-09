@@ -1,63 +1,15 @@
 {
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Pierre Lapointe",
-  "num_followers": 67744,
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Jay Sc\u00f8tt",
+  "num_followers": 67753,
   "original_name": "Qu\u00e9b\u00e9cois Contemporain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxvmbgAAAADD+LgPiEsf+UevkopwnSP+",
+  "snapshot_id": "Zy2a0AAAAABsjICPJz117bOlEsevyFTE",
   "tracks": [
     {
-      "added_at": "2024-10-25 18:41:50",
-      "album": {
-        "name": "Comme les pigeons d'argile",
-        "url": "https://open.spotify.com/album/6uZEfZaWRYOZxHMwkNnOdE"
-      },
-      "artists": [
-        {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
-        }
-      ],
-      "duration_ms": 253973,
-      "name": "Comme les pigeons d'argile",
-      "url": "https://open.spotify.com/track/4fCENMUKSgBffOnSDGI1M2"
-    },
-    {
-      "added_at": "2024-10-25 18:41:50",
-      "album": {
-        "name": "Feu de paille",
-        "url": "https://open.spotify.com/album/6BRYJkvN7L16RK79er9TPL"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Feu de paille",
-      "url": "https://open.spotify.com/track/0Uryfi1AWwgD4eNhKmTVRo"
-    },
-    {
-      "added_at": "2024-10-25 18:41:50",
-      "album": {
-        "name": "Je t'aimais, je t'aime, je t'aimerai",
-        "url": "https://open.spotify.com/album/03qYkWL3NxKrDLVjtmqYAf"
-      },
-      "artists": [
-        {
-          "name": "Marilou",
-          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
-        }
-      ],
-      "duration_ms": 221500,
-      "name": "Je t'aimais, je t'aime, je t'aimerai",
-      "url": "https://open.spotify.com/track/6dlGymd4InomupjnbFOoH5"
-    },
-    {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "T'\u00e9tais o\u00f9?",
         "url": "https://open.spotify.com/album/3jpSPJWhOLagabhCI7h2C5"
@@ -73,7 +25,59 @@
       "url": "https://open.spotify.com/track/4XeX8X5VtMMevrWaiKqEzq"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Aliocha Schneider (Deluxe)",
+        "url": "https://open.spotify.com/album/7zI1sbxIUXolMmJMRt37OZ"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        },
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Ensemble (feat. Charlotte Cardin)",
+      "url": "https://open.spotify.com/track/49LdsRKerqExlBslaCA8qw"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Je t'aimais, je t'aime, je t'aimerai",
+        "url": "https://open.spotify.com/album/03qYkWL3NxKrDLVjtmqYAf"
+      },
+      "artists": [
+        {
+          "name": "Marilou",
+          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
+        }
+      ],
+      "duration_ms": 221500,
+      "name": "Je t'aimais, je t'aime, je t'aimerai",
+      "url": "https://open.spotify.com/track/6dlGymd4InomupjnbFOoH5"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Comme les pigeons d'argile",
+        "url": "https://open.spotify.com/album/6uZEfZaWRYOZxHMwkNnOdE"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "duration_ms": 253973,
+      "name": "Comme les pigeons d'argile",
+      "url": "https://open.spotify.com/track/4fCENMUKSgBffOnSDGI1M2"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "La plus belle fille du moshpit",
         "url": "https://open.spotify.com/album/0prLo3kYXuKpH1JavYa0Vz"
@@ -89,7 +93,7 @@
       "url": "https://open.spotify.com/track/3Lsgo4IPjVYp6jh93y473Y"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Pub Royal",
         "url": "https://open.spotify.com/album/2aQeozGyIhuzJo1q0RHF6U"
@@ -105,7 +109,7 @@
       "url": "https://open.spotify.com/track/5UrNvwWNKGhpfuI6c1kH58"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Moi je t'aime",
         "url": "https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx"
@@ -121,7 +125,7 @@
       "url": "https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Fake Friends",
         "url": "https://open.spotify.com/album/4PCTm05PE1ULKyzKJGiNfO"
@@ -137,7 +141,7 @@
       "url": "https://open.spotify.com/track/6uMWNX0hKdWr1hJckauIub"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Rien ne m'\u00e9tonne",
         "url": "https://open.spotify.com/album/1MDSUK1ZTD1OaYWLgWODtv"
@@ -153,7 +157,7 @@
       "url": "https://open.spotify.com/track/1sdGOuBBQpl4JJ3OuWo3JM"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Une semaine \u00e0 Paris",
         "url": "https://open.spotify.com/album/3O7RvFFEcxYUrXy49GqDCl"
@@ -169,71 +173,7 @@
       "url": "https://open.spotify.com/track/0lqVTiEJlebBVu6EFl8V0r"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
-      "album": {
-        "name": "Le go\u00fbt des mangues",
-        "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
-      },
-      "artists": [
-        {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
-        }
-      ],
-      "duration_ms": 132560,
-      "name": "Le go\u00fbt des mangues",
-      "url": "https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D"
-    },
-    {
-      "added_at": "2024-10-25 18:41:50",
-      "album": {
-        "name": "Je t'ai cherch\u00e9",
-        "url": "https://open.spotify.com/album/5T8ZZkWPCZQaNPZmrFr25O"
-      },
-      "artists": [
-        {
-          "name": "Lara Fabian",
-          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
-        }
-      ],
-      "duration_ms": 216159,
-      "name": "Je t'ai cherch\u00e9",
-      "url": "https://open.spotify.com/track/28gYJXShLPmWRq9Zn9jGma"
-    },
-    {
-      "added_at": "2024-10-25 18:41:50",
-      "album": {
-        "name": "Gazon mouill\u00e9",
-        "url": "https://open.spotify.com/album/327lifZqWkPWWyljcw7Gwj"
-      },
-      "artists": [
-        {
-          "name": "Kinkead",
-          "url": "https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o"
-        }
-      ],
-      "duration_ms": 185360,
-      "name": "Gazon mouill\u00e9",
-      "url": "https://open.spotify.com/track/1jNwKEYRmB2mAKwe4bVhPw"
-    },
-    {
-      "added_at": "2024-10-25 18:41:50",
-      "album": {
-        "name": "Gagner ma cause",
-        "url": "https://open.spotify.com/album/5JFQecaxwkh6VCBAP2SVZj"
-      },
-      "artists": [
-        {
-          "name": "Cl\u00e9ment Jacques",
-          "url": "https://open.spotify.com/artist/14nCwwni6uqZyDrhqRmwSM"
-        }
-      ],
-      "duration_ms": 166126,
-      "name": "Gagner ma cause",
-      "url": "https://open.spotify.com/track/3DN2jMQC18voS7AHGtVHGy"
-    },
-    {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Lala",
         "url": "https://open.spotify.com/album/6nkfWpygPTF1j2OgSBf9Ca"
@@ -253,7 +193,7 @@
       "url": "https://open.spotify.com/track/1FCva9S8VQYi6DWZxeDU7A"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Submerg\u00e9",
         "url": "https://open.spotify.com/album/1VFQdOkNGpV8kYZ9xESRv4"
@@ -269,7 +209,7 @@
       "url": "https://open.spotify.com/track/5RAOn9UuZ1mHdh8eZBtnIh"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Fais-moi r\u00eaver",
         "url": "https://open.spotify.com/album/53aO4Ze0Jp2MtnCgmbDs5Q"
@@ -285,7 +225,7 @@
       "url": "https://open.spotify.com/track/5M7URPl2QApuwqFUQkpRuK"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Last in Line (2024 Edit)",
         "url": "https://open.spotify.com/album/0B4LvuTigDiwzuWRnuQNIb"
@@ -301,7 +241,7 @@
       "url": "https://open.spotify.com/track/1pVzuj2JaCUDdK57ls4VGV"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Inuktitut",
         "url": "https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP"
@@ -317,7 +257,7 @@
       "url": "https://open.spotify.com/track/4GgQWuxZL8qbZUHHA0wWuI"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Le ciel est beau regarde les nuages",
         "url": "https://open.spotify.com/album/5uCWa2yqZmpgJNdOJNhK81"
@@ -333,7 +273,23 @@
       "url": "https://open.spotify.com/track/0m0UzHmi1csduQT0cNCJEA"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Perro del amor",
+        "url": "https://open.spotify.com/album/458c5LdX8nbbNR3qtyQzBc"
+      },
+      "artists": [
+        {
+          "name": "Yann Perreau",
+          "url": "https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V"
+        }
+      ],
+      "duration_ms": 173993,
+      "name": "\u00c0 la bonne place au bon moment",
+      "url": "https://open.spotify.com/track/2kEcw9Ek5Knk1qL8iyypqL"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Notre p'tit refrain",
         "url": "https://open.spotify.com/album/4QuHgOVVO7FMFTMnfDtoUw"
@@ -349,7 +305,7 @@
       "url": "https://open.spotify.com/track/3IETeJZYbBCT9NIXuIBJ14"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Le reste du temps",
         "url": "https://open.spotify.com/album/6mQG6GKJVdB70oYwl60Yzw"
@@ -365,7 +321,7 @@
       "url": "https://open.spotify.com/track/3W5N7Yzq14iQ3Zxy1gJPM7"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "L'autre h\u00e9misph\u00e8re",
         "url": "https://open.spotify.com/album/7FMTj5WXP0mLjPAiJIXluH"
@@ -381,7 +337,7 @@
       "url": "https://open.spotify.com/track/7irvZlBqN7beslyn6EYJ3q"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Dynastie",
         "url": "https://open.spotify.com/album/7iQA80BCQhFCWe0In1PRp0"
@@ -397,7 +353,7 @@
       "url": "https://open.spotify.com/track/48I7QLC2SNkoLIF5mEqO1j"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "tout est cass\u00e9",
         "url": "https://open.spotify.com/album/4LnEn1Qx2lMUn7UtvmEpU6"
@@ -413,7 +369,7 @@
       "url": "https://open.spotify.com/track/0FnsVIxosu1M4yIecwQMPB"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Demain il fera beau",
         "url": "https://open.spotify.com/album/74gQAViAPXnavitK5BTOmv"
@@ -429,7 +385,87 @@
       "url": "https://open.spotify.com/track/4CLliCkjzI04eoHKXMI68H"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Le go\u00fbt des mangues",
+        "url": "https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK"
+      },
+      "artists": [
+        {
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+        }
+      ],
+      "duration_ms": 132560,
+      "name": "Le go\u00fbt des mangues",
+      "url": "https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/6UtBF8mZYbiL0lhmHvl13u"
+      },
+      "artists": [
+        {
+          "name": "Caroline Savoie",
+          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/0fwqRA13Is4S1HCDW5NeuS"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Je t'ai cherch\u00e9",
+        "url": "https://open.spotify.com/album/5T8ZZkWPCZQaNPZmrFr25O"
+      },
+      "artists": [
+        {
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+        }
+      ],
+      "duration_ms": 216159,
+      "name": "Je t'ai cherch\u00e9",
+      "url": "https://open.spotify.com/track/28gYJXShLPmWRq9Zn9jGma"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Gazon mouill\u00e9",
+        "url": "https://open.spotify.com/album/327lifZqWkPWWyljcw7Gwj"
+      },
+      "artists": [
+        {
+          "name": "Kinkead",
+          "url": "https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o"
+        }
+      ],
+      "duration_ms": 185360,
+      "name": "Gazon mouill\u00e9",
+      "url": "https://open.spotify.com/track/1jNwKEYRmB2mAKwe4bVhPw"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Gagner ma cause",
+        "url": "https://open.spotify.com/album/5JFQecaxwkh6VCBAP2SVZj"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e9ment Jacques",
+          "url": "https://open.spotify.com/artist/14nCwwni6uqZyDrhqRmwSM"
+        }
+      ],
+      "duration_ms": 166126,
+      "name": "Gagner ma cause",
+      "url": "https://open.spotify.com/track/3DN2jMQC18voS7AHGtVHGy"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "L\u00e9o",
         "url": "https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag"
@@ -445,7 +481,7 @@
       "url": "https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "N\u00e9vrose (Radio Edit)",
         "url": "https://open.spotify.com/album/6B2N4pA6JHfbwpAArzxjje"
@@ -461,7 +497,7 @@
       "url": "https://open.spotify.com/track/2DJwnSFTpk2H59G0ahMgWb"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Ta bouche",
         "url": "https://open.spotify.com/album/33TW5PYMySDjISn4HDpbbE"
@@ -477,23 +513,7 @@
       "url": "https://open.spotify.com/track/5pGcX4EhocWxqwVw1QR8RY"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
-      "album": {
-        "name": "Coup de poing",
-        "url": "https://open.spotify.com/album/0xc3PJIrmlTk8WHEkM7Agf"
-      },
-      "artists": [
-        {
-          "name": "Guillaume Lafond",
-          "url": "https://open.spotify.com/artist/0EgXmvNo92tl6qSXPehQWG"
-        }
-      ],
-      "duration_ms": 173080,
-      "name": "Coup de poing",
-      "url": "https://open.spotify.com/track/1LaRRI4KI5mp68FvI2OBMv"
-    },
-    {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Pomme",
         "url": "https://open.spotify.com/album/7I2rduDJv8Np37F3cQuupC"
@@ -513,7 +533,7 @@
       "url": "https://open.spotify.com/track/26s7UGEzE0vfIK7BxvWb8q"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "minable",
         "url": "https://open.spotify.com/album/3UlDYwWkphGpLlyfmGxSsh"
@@ -529,7 +549,7 @@
       "url": "https://open.spotify.com/track/5OQfQjHdIyAcgQNnC8YQnR"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Quelque part",
         "url": "https://open.spotify.com/album/1vfVX1lxSPPWOyNFtJE0qe"
@@ -545,7 +565,23 @@
       "url": "https://open.spotify.com/track/0UHRWEgyy2q6VrF97datxO"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Testament",
+        "url": "https://open.spotify.com/album/0zRtuGqoJR41mwDLRBOMk0"
+      },
+      "artists": [
+        {
+          "name": "Rick et les Bons Moments",
+          "url": "https://open.spotify.com/artist/3ZTHWlS8bpAA446rY8ntVQ"
+        }
+      ],
+      "duration_ms": 218773,
+      "name": "La t\u00eate ailleurs",
+      "url": "https://open.spotify.com/track/2YvxF2qQruCoBtWcOfzwZP"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "BTDT",
         "url": "https://open.spotify.com/album/6eWpV9tyWqUzpIHxPPNgIF"
@@ -561,7 +597,7 @@
       "url": "https://open.spotify.com/track/1WpuopwHKPAb2dnOxLtjqP"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Se laisser aller",
         "url": "https://open.spotify.com/album/0Jd1mE56AkhMcPGZNAmJZX"
@@ -577,7 +613,7 @@
       "url": "https://open.spotify.com/track/5Hs56ulIld86EdBtPHp7JM"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Parano\u00efa etc.",
         "url": "https://open.spotify.com/album/4wNsmCPiKKiyqXmYgIIx37"
@@ -593,7 +629,7 @@
       "url": "https://open.spotify.com/track/44sGbp0IOD4JgnFN9Oq7IS"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Ami imaginaire",
         "url": "https://open.spotify.com/album/3TcehQS7pt30xsNWbLFKKZ"
@@ -609,7 +645,7 @@
       "url": "https://open.spotify.com/track/5fy9vWmI4x38nkNZIf67eR"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Danser la nuit",
         "url": "https://open.spotify.com/album/2Isdr3D3UD0Bj97Z6QcLHB"
@@ -625,7 +661,7 @@
       "url": "https://open.spotify.com/track/1VID3HWSIYV3y5v87ESX1K"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "L'\u00e9cho des perles",
         "url": "https://open.spotify.com/album/0P2xHJhtnbVC90itxc3XDN"
@@ -645,7 +681,7 @@
       "url": "https://open.spotify.com/track/0VskpD8acEn3VPp0dGOBoa"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Ma main au feu - ACTE I",
         "url": "https://open.spotify.com/album/5WY0VNlI4MDKXHskwjKR1q"
@@ -661,7 +697,7 @@
       "url": "https://open.spotify.com/track/4VJxp5oheMQcURrcbWLKAA"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Dans mon sang",
         "url": "https://open.spotify.com/album/3XTWYuUSlmVNAEpbte9wGY"
@@ -677,7 +713,7 @@
       "url": "https://open.spotify.com/track/1ph5JAU5YiAtZQuClSBVec"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Jouer pour jouer",
         "url": "https://open.spotify.com/album/2PLDtWbg3zLz92lGHwOpYq"
@@ -693,7 +729,7 @@
       "url": "https://open.spotify.com/track/1P1W8f5D0BXyw4GzwkfSCY"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "R\u00e9pondre aux oiseaux",
         "url": "https://open.spotify.com/album/0iTsz5DhBS1FXuUJNq6Yjq"
@@ -709,7 +745,7 @@
       "url": "https://open.spotify.com/track/0jSeM1z5vSzWujlPPiLipt"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Leela",
         "url": "https://open.spotify.com/album/7yLXm3F5E50rIqAiqsRKZi"
@@ -733,7 +769,7 @@
       "url": "https://open.spotify.com/track/4ZXYe1nSGi6sxutBi1xApf"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Si je rampe",
         "url": "https://open.spotify.com/album/6juYcRp6bkkorf1MwbI7ss"
@@ -749,7 +785,7 @@
       "url": "https://open.spotify.com/track/0URJzuHMZC8sywrbSYXVAn"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Mes secrets",
         "url": "https://open.spotify.com/album/3JFLbwf4FVFSL7HsKu97MU"
@@ -765,7 +801,7 @@
       "url": "https://open.spotify.com/track/7FCRbMKICwFrdkv0xbfyrU"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "M\u00e2cher tes bottes",
         "url": "https://open.spotify.com/album/7z0TPSAbjN7fSaDu63j4Rz"
@@ -781,7 +817,7 @@
       "url": "https://open.spotify.com/track/6m10tqV7JardUKNPItH94C"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "\u00c9milie",
         "url": "https://open.spotify.com/album/424mxIsdHG2whDWhOqpatI"
@@ -797,7 +833,7 @@
       "url": "https://open.spotify.com/track/6YlZeS5VwVPSiRs1ChEms0"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Les nouveaux infinis",
         "url": "https://open.spotify.com/album/3p359s7FAMTjo50xzFlHt4"
@@ -813,7 +849,7 @@
       "url": "https://open.spotify.com/track/6tq1i5M92NGSSQSgt7B088"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "\u00c0 l'envers",
         "url": "https://open.spotify.com/album/4jMPq40oVFbvtZIl5GWoRT"
@@ -829,7 +865,7 @@
       "url": "https://open.spotify.com/track/0f3acPxu7bt8ukIWqUZJAE"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Dormir debout",
         "url": "https://open.spotify.com/album/76H8rGTRDxbvgKYysZRMth"
@@ -845,7 +881,7 @@
       "url": "https://open.spotify.com/track/1A1vZMoDiY6ulyevbW1M9c"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "C'est pire et c'est mieux",
         "url": "https://open.spotify.com/album/1gs9QEyRSZHgDr3edcKzD8"
@@ -865,7 +901,7 @@
       "url": "https://open.spotify.com/track/2nQSmjPsB6EmGUSTGf5AlF"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Pr\u00e9sence d'esprit",
         "url": "https://open.spotify.com/album/2l642fbBnGoi2872LHn9Yl"
@@ -881,7 +917,7 @@
       "url": "https://open.spotify.com/track/6g7nJF5VdDBAO2yAT4KN4V"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "La f\u00eate (Radio Edit)",
         "url": "https://open.spotify.com/album/24B7vQZAv39Un5u163PsZS"
@@ -897,7 +933,7 @@
       "url": "https://open.spotify.com/track/1Jbmi0xYUQ01AzNCPfrmR2"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "L'\u00cele",
         "url": "https://open.spotify.com/album/2iIdujFNCekpvcm8AwJkfy"
@@ -913,7 +949,7 @@
       "url": "https://open.spotify.com/track/3ec6Motizvu2yJ6jrE6Bxc"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Pour tout vous dire",
         "url": "https://open.spotify.com/album/454SzvRzOmrfSyRP16HYFa"
@@ -929,7 +965,7 @@
       "url": "https://open.spotify.com/track/4v62HH8H1avGk8ZTF11hKD"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "St. Denis",
         "url": "https://open.spotify.com/album/4xUWVo4dSPdGxnH2pe1joh"
@@ -949,7 +985,7 @@
       "url": "https://open.spotify.com/track/6ISDvrYhDFXJfvG4uk4b1n"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Marina",
         "url": "https://open.spotify.com/album/5PYSl1Sz2fypzb21zyZItp"
@@ -965,23 +1001,7 @@
       "url": "https://open.spotify.com/track/2cGaXCes4TAZUgahO9bqdD"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
-      "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/57YHJnI0jgOmfoCMnJtkoy"
-      },
-      "artists": [
-        {
-          "name": "Rick Pagano",
-          "url": "https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ"
-        }
-      ],
-      "duration_ms": 179866,
-      "name": "48H",
-      "url": "https://open.spotify.com/track/3cYZm8Opme14PnSlJe7Fvw"
-    },
-    {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "J'ai beau essayer mais \u00e7a s'passe moyen",
         "url": "https://open.spotify.com/album/6s7BXT6Pxzl0OmRJIlVxoT"
@@ -997,7 +1017,7 @@
       "url": "https://open.spotify.com/track/5j3QWbTOp2zmtCKkDm6HPv"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "NOIR SUR NOIR",
         "url": "https://open.spotify.com/album/5cEHUk4f4t9c09ME7LxOC8"
@@ -1013,7 +1033,7 @@
       "url": "https://open.spotify.com/track/4bUc91EU8ziCfoEkniWG1z"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Shalala",
         "url": "https://open.spotify.com/album/46aFUJDVycrvzzrdXdEbZt"
@@ -1029,7 +1049,7 @@
       "url": "https://open.spotify.com/track/5xvpBqznG7UWA7f8yAWTuE"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Te laisser des mots",
         "url": "https://open.spotify.com/album/3URQg0WGqKUHWueRYx3vs7"
@@ -1045,7 +1065,7 @@
       "url": "https://open.spotify.com/track/6SBNQ5uSrr07iOngFUy0mT"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Balle Courbe",
         "url": "https://open.spotify.com/album/3lIkAxv5KylJhSBoPXk5Dq"
@@ -1061,7 +1081,7 @@
       "url": "https://open.spotify.com/track/0HBQUemZHQZdW3npRpKREc"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Quand il s'en va",
         "url": "https://open.spotify.com/album/6VJAhUbwVq3WCOlxDGgVH9"
@@ -1081,7 +1101,7 @@
       "url": "https://open.spotify.com/track/7wkfNPTnFYIuyZvE2i3ZFo"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Tshitatau",
         "url": "https://open.spotify.com/album/7sxmyo17HxVqeZ65RSOS5t"
@@ -1097,7 +1117,7 @@
       "url": "https://open.spotify.com/track/0gmHSJcLLllg525W2tPeNo"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Etienne Dufresne fait des efforts",
         "url": "https://open.spotify.com/album/7dj1HTKL7SwjUO74p7iqwO"
@@ -1113,7 +1133,7 @@
       "url": "https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Je te dirai tout",
         "url": "https://open.spotify.com/album/03IRytXE6d67O40ixx6Xa2"
@@ -1129,27 +1149,7 @@
       "url": "https://open.spotify.com/track/7u6H9XrZXYVaRa09dnyhkK"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
-      "album": {
-        "name": "Quitter la ville",
-        "url": "https://open.spotify.com/album/4TuUgN6lJSQueUpDtjvBjG"
-      },
-      "artists": [
-        {
-          "name": "Miro",
-          "url": "https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj"
-        },
-        {
-          "name": "Ariane Moffatt",
-          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
-        }
-      ],
-      "duration_ms": 185893,
-      "name": "Quitter la ville",
-      "url": "https://open.spotify.com/track/2P27FSOybu4OXzkLkyCH4u"
-    },
-    {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "n'as-tu jamais vu d'oiseaux",
         "url": "https://open.spotify.com/album/1Uuhiqy8PR0lSu5Yp3z2fK"
@@ -1165,7 +1165,7 @@
       "url": "https://open.spotify.com/track/7zxEFmvPTSEPpkSY6FL264"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Derri\u00e8re le jour",
         "url": "https://open.spotify.com/album/3voXYeH3wpX4b1UDzo5rhu"
@@ -1185,7 +1185,7 @@
       "url": "https://open.spotify.com/track/0Va586bS36sGEjVZWhvZ0l"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "La somme des \u00eatres aim\u00e9s",
         "url": "https://open.spotify.com/album/0eIFLsN3C2p8uYfrGIah1Z"
@@ -1201,7 +1201,7 @@
       "url": "https://open.spotify.com/track/4VqutfvLnQYhNn9rPWZ67J"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Tous ces doutes",
         "url": "https://open.spotify.com/album/2U2YWU5XqLs3ocRxswF1wD"
@@ -1221,7 +1221,7 @@
       "url": "https://open.spotify.com/track/6wCGMrL57mOUNEMjxiZP3y"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Quatorze",
         "url": "https://open.spotify.com/album/3xyvKLl5f6FvmM3JjwOl4m"
@@ -1237,7 +1237,7 @@
       "url": "https://open.spotify.com/track/3yniAyLXkezWkXNKP2lW4O"
     },
     {
-      "added_at": "2024-10-25 18:41:50",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
         "name": "Chasing Sunsets (V.F)",
         "url": "https://open.spotify.com/album/44t8sMpi3uiGbK7E9z22tu"

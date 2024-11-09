@@ -1,12 +1,12 @@
 {
   "description": "music from the underworld\n",
-  "num_followers": 573766,
+  "num_followers": 574239,
   "original_name": "hexxed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxF/3gAAAAAuqJ3MYpBVaImXw73Dlfrf",
+  "snapshot_id": "Zy5dbgAAAADMFK3WTKCo/y0p6iJSWcjR",
   "tracks": [
     {
       "added_at": "2024-10-17 21:21:34",
@@ -45,20 +45,24 @@
       "url": "https://open.spotify.com/track/5X1sglbu3MB4Uz5xFXKFu8"
     },
     {
-      "added_at": "2024-09-18 21:19:13",
+      "added_at": "2024-11-08 18:46:03",
       "album": {
-        "name": "OMG XD",
-        "url": "https://open.spotify.com/album/7DgcZ9qyCA51DHvyYlG5GK"
+        "name": "grandiose delusional disorder",
+        "url": "https://open.spotify.com/album/1rEyG4IBWmeh12JCjDxq79"
       },
       "artists": [
         {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+          "name": "$werve",
+          "url": "https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj"
+        },
+        {
+          "name": "Boy Destroy",
+          "url": "https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g"
         }
       ],
-      "duration_ms": 123808,
-      "name": "OMG XD",
-      "url": "https://open.spotify.com/track/4Lk7ZslBj20EgyMlC6VJph"
+      "duration_ms": 134138,
+      "name": "grandiose delusional disorder",
+      "url": "https://open.spotify.com/track/4v26UmNahA9G5yk5ku0FNp"
     },
     {
       "added_at": "2024-07-19 20:53:15",
@@ -1043,6 +1047,22 @@
       "duration_ms": 203007,
       "name": "VULTURES.",
       "url": "https://open.spotify.com/track/60bQWITZcbMHlKkXwmAEeD"
+    },
+    {
+      "added_at": "2024-11-08 18:50:22",
+      "album": {
+        "name": "Life Strobe",
+        "url": "https://open.spotify.com/album/0bYCZhpi0D56yPE3Vk9YYa"
+      },
+      "artists": [
+        {
+          "name": "Rick Farin",
+          "url": "https://open.spotify.com/artist/6WYlrffcUamfajl6Js0poA"
+        }
+      ],
+      "duration_ms": 192761,
+      "name": "Life Strobe",
+      "url": "https://open.spotify.com/track/4qSrPcAaCo1AH9qlmxFpuS"
     },
     {
       "added_at": "2024-04-19 05:00:00",

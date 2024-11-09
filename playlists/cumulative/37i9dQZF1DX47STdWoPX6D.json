@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "The latest and the greatest of CHH!  Cover: <a href=\"spotify:artist:7r3HxO330lmabOprT2MMFK\">Aklesso</a>",
+  "description": "The latest and the greatest of CHH!  Cover: <a href=\"spotify:artist:2d8NsBa8O4C6bgQatFP5V4\">nobigdyl.</a>",
   "name": "The Blaze",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 109715,
       "name": "10 DAYS",
       "url": "https://open.spotify.com/track/1kELcneMhZUiVxYII09PFT"
@@ -459,6 +459,28 @@
     },
     {
       "album": {
+        "name": "Big Man",
+        "url": "https://open.spotify.com/album/0AmUjPOJUFn5YqeNTby90H"
+      },
+      "artists": [
+        {
+          "name": "Xay Hill",
+          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
+        },
+        {
+          "name": "Big Yeet",
+          "url": "https://open.spotify.com/artist/1gOj2mSVypJfiSULPlC7Sn"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165608,
+      "name": "Big Man",
+      "url": "https://open.spotify.com/track/4urxRgbNQ0iAW41Gm2yK77"
+    },
+    {
+      "album": {
         "name": "BLESSED",
         "url": "https://open.spotify.com/album/3BePNExIOm54F4e5h40r86"
       },
@@ -642,7 +664,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 128054,
       "name": "Buzzin",
       "url": "https://open.spotify.com/track/2Evckj4oPcf3jGtTgrTQmN"
@@ -660,7 +682,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 150857,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/4uwOkXCBFDH97PtULxv44X"
@@ -872,10 +894,32 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 171467,
       "name": "Dead Ends",
       "url": "https://open.spotify.com/track/3EEDnY1HPdTwhkqav3roZ1"
+    },
+    {
+      "album": {
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/6Z6xdOaMwfu4aql7WwO1D7"
+      },
+      "artists": [
+        {
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+        },
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233369,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/21I4CyXu9X3YeB8E7KJG9z"
     },
     {
       "album": {
@@ -974,6 +1018,32 @@
       "duration_ms": 114380,
       "name": "DNA",
       "url": "https://open.spotify.com/track/1suyyv8oQ2TxG3jnalWImm"
+    },
+    {
+      "album": {
+        "name": "Drop It",
+        "url": "https://open.spotify.com/album/4FrbZnllU4wYKY0W7w8RbY"
+      },
+      "artists": [
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "CJ Emulous",
+          "url": "https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ"
+        },
+        {
+          "name": "Tommy Zuko",
+          "url": "https://open.spotify.com/artist/6GEZnFo9mFSItpAWzswBpT"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Drop It",
+      "url": "https://open.spotify.com/track/2KmB83eDao5pjXlylVLdHB"
     },
     {
       "album": {
@@ -1357,6 +1427,44 @@
     },
     {
       "album": {
+        "name": "BODEGA 2!",
+        "url": "https://open.spotify.com/album/5gjFi7iEKKnSkI0kqKJGpO"
+      },
+      "artists": [
+        {
+          "name": "DJ Mykael V",
+          "url": "https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt"
+        },
+        {
+          "name": "1995",
+          "url": "https://open.spotify.com/artist/5JbYUdjaOALZLyhYRI79K2"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "am.sunday",
+          "url": "https://open.spotify.com/artist/1a0L3rVz3uFSXGxKAw9dvY"
+        },
+        {
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
+        },
+        {
+          "name": "350",
+          "url": "https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "FVLL OF ROME",
+      "url": "https://open.spotify.com/track/2K7XbkWjPD7lYPti7d5UCn"
+    },
+    {
+      "album": {
         "name": "Crooked",
         "url": "https://open.spotify.com/album/0DzwXN6eBlVAU3qCslDgv4"
       },
@@ -1698,7 +1806,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 181313,
       "name": "Goes Around",
       "url": "https://open.spotify.com/track/2QClJYt4tyrhUE19sPkk1Y"
@@ -1716,7 +1824,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 197077,
       "name": "GOON VS. GOD",
       "url": "https://open.spotify.com/track/5Ls3lHfSr5cR6hbWj8f8q3"
@@ -1836,6 +1944,28 @@
       "duration_ms": 174506,
       "name": "Hear Your Voice",
       "url": "https://open.spotify.com/track/6mEBhbkFKixjsI9OVd8qex"
+    },
+    {
+      "album": {
+        "name": "CHILD OF GOD (DELUXE)",
+        "url": "https://open.spotify.com/album/1SOb5xLXI8XRdTw6uQ5MrL"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185273,
+      "name": "HEAVEN ON THIS EARTH",
+      "url": "https://open.spotify.com/track/5ulRjYlYIqhTH8YzSIy0FY"
     },
     {
       "album": {
@@ -1976,7 +2106,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 134300,
       "name": "Holy Stepper",
       "url": "https://open.spotify.com/track/4zfn2LNoR0fI0OEhGkLufZ"
@@ -2002,6 +2132,46 @@
       "duration_ms": 169764,
       "name": "I'm Blessed",
       "url": "https://open.spotify.com/track/7v4H9T5hP9EhzK2Z8ZoVkw"
+    },
+    {
+      "album": {
+        "name": "I'm Still Here",
+        "url": "https://open.spotify.com/album/5RlL9a5k5iUGzzUnWoeC0W"
+      },
+      "artists": [
+        {
+          "name": "Lathan Warlick",
+          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162515,
+      "name": "I'm Still Here",
+      "url": "https://open.spotify.com/track/2elXTplCEmHhdtOcASlbfT"
+    },
+    {
+      "album": {
+        "name": "I.S.W.I.S",
+        "url": "https://open.spotify.com/album/5oZEGGHgjIP0l6QKkO75nn"
+      },
+      "artists": [
+        {
+          "name": "Kelo",
+          "url": "https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv"
+        },
+        {
+          "name": "Tr3 $ebiv",
+          "url": "https://open.spotify.com/artist/4BMKBIYxP2Yk34TvpPwhVP"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157857,
+      "name": "I.S.W.I.S",
+      "url": "https://open.spotify.com/track/3YhFGcDcV2hInkTLaAyVRQ"
     },
     {
       "album": {
@@ -2370,7 +2540,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 120000,
       "name": "Like David",
       "url": "https://open.spotify.com/track/0kFpKOsHn5G7gZPocxDOpK"
@@ -2450,7 +2620,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 176766,
       "name": "Look!",
       "url": "https://open.spotify.com/track/1LxRUnVsyUu1aHFgi4wuSh"
@@ -2954,7 +3124,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 111664,
       "name": "NLT",
       "url": "https://open.spotify.com/track/3eByQ8MPBesS0jYEOlCUsr"
@@ -3460,7 +3630,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 126928,
       "name": "Raise Your Shoulder Up",
       "url": "https://open.spotify.com/track/0jqF0kugHjpAsRjAdVdqZN"
@@ -3701,6 +3871,24 @@
     },
     {
       "album": {
+        "name": "ARE YOU FOLLOWING JESUS CHRIST?",
+        "url": "https://open.spotify.com/album/2uegDhJNlGhnADFcTGx61N"
+      },
+      "artists": [
+        {
+          "name": "Hyper Fenton",
+          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/22qdtq7W3LxW6Lhvp7neCd"
+    },
+    {
+      "album": {
         "name": "315",
         "url": "https://open.spotify.com/album/7Lb2IJnejDb4dUgJLVV5w7"
       },
@@ -3898,7 +4086,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 120211,
       "name": "STILL OVERCOME",
       "url": "https://open.spotify.com/track/73witymOvkOOWQYAuKHbpI"
@@ -4079,6 +4267,24 @@
     },
     {
       "album": {
+        "name": "EVEN LOWER",
+        "url": "https://open.spotify.com/album/7s6cG4MDvQY8OoITIeyrBd"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107461,
+      "name": "TEXACO",
+      "url": "https://open.spotify.com/track/5J6FINTOPdvY07nRHfKThd"
+    },
+    {
+      "album": {
         "name": "THANK YOU",
         "url": "https://open.spotify.com/album/61tH4Ft23yKx6k1IzIuVQc"
       },
@@ -4138,6 +4344,24 @@
       "duration_ms": 133351,
       "name": "The Answer",
       "url": "https://open.spotify.com/track/1bXkl5GuVNbVVaRcSsyr8I"
+    },
+    {
+      "album": {
+        "name": "THE BLOOD",
+        "url": "https://open.spotify.com/album/71CmUrcZwNMaAaOQBbEH4w"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158709,
+      "name": "THE BLOOD",
+      "url": "https://open.spotify.com/track/2CuGFsODuNNGSdnR7nGAUe"
     },
     {
       "album": {
@@ -4296,6 +4520,32 @@
       "duration_ms": 187272,
       "name": "Theme Music",
       "url": "https://open.spotify.com/track/51ItXztk5BlHYMP7As4nmp"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/4JRWfun2JhoVhcYu9rGqpq"
+      },
+      "artists": [
+        {
+          "name": "Nu Tone",
+          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
+        },
+        {
+          "name": "Thi'sl",
+          "url": "https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp"
+        },
+        {
+          "name": "Tds Cam",
+          "url": "https://open.spotify.com/artist/5q4hnN0uz6odNPqIs40XbT"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/6BN9UHl3oe8Gfq6ogJVNPw"
     },
     {
       "album": {
@@ -4464,6 +4714,24 @@
       "duration_ms": 92598,
       "name": "We Need Jesus",
       "url": "https://open.spotify.com/track/4ZIRQ5S97jx8jzn51gnVNE"
+    },
+    {
+      "album": {
+        "name": "we the light",
+        "url": "https://open.spotify.com/album/4oaH3uqCP3Z55pzG6JsHmF"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181600,
+      "name": "we the light",
+      "url": "https://open.spotify.com/track/0mORO3SyxeVkdGzWT6dNm3"
     },
     {
       "album": {
@@ -4674,6 +4942,24 @@
       "duration_ms": 176470,
       "name": "Working it out",
       "url": "https://open.spotify.com/track/7ntAFhTGZ8DLdM26HDHrHc"
+    },
+    {
+      "album": {
+        "name": "Worship Forreal",
+        "url": "https://open.spotify.com/album/0S9Sll9VC2QDlYDiOdqQmA"
+      },
+      "artists": [
+        {
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Worship Forreal",
+      "url": "https://open.spotify.com/track/32GiKCXdkBsBLWON3pkYUw"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Darko US.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Counterparts.
 
-834 songs - 2 day 4 hr 30 min
+839 songs - 2 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [A Form of Protest](https://open.spotify.com/track/1LDQFdGTEXOnycDC8CJ5p1) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [A Form of Protest](https://open.spotify.com/album/7sPoZ4Nxv34iSFIwmbUCrA) | 3:09 | 2022-05-20 | 2023-07-15 |
 | [a kiss for every hornet](https://open.spotify.com/track/4zjoNVLpEHz2SYlNhtxsMb) | [.gif from god](https://open.spotify.com/artist/4qVaCnGWlXCy5IP1nNVlT5) | [a kiss for every hornet](https://open.spotify.com/album/6C8roo7XUDgyfBS0RQrU8Y) | 3:34 | 2023-02-03 | 2024-02-03 |
 | [A Love Letter](https://open.spotify.com/track/00tjbl5vqZ1STRSkj0PJ6R) | [KEN Mode](https://open.spotify.com/artist/3I33pakU01BuYZ5UyQ2A0i) | [A Love Letter](https://open.spotify.com/album/0I8Yv6gRPKHeRZzBIB2mXf) | 5:47 | 2022-06-10 | 2023-07-15 |
+| [A Martyr Left Alive](https://open.spotify.com/track/6ajfXivkRaEKfnDWBYnN2D) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Heaven Let Them Die](https://open.spotify.com/album/5pdSJTWNlQj6RJbYPgTFGZ) | 3:40 | 2024-11-08 |  |
 | [A New Responsibility](https://open.spotify.com/track/3zbxWnJmnyx21pNE480g6G) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [A New Responsibility](https://open.spotify.com/album/4GSurokfXPeI3CJTvh0r5W) | 3:06 | 2022-04-08 | 2023-07-15 |
 | [A White Horse Covered In Blood](https://open.spotify.com/track/3xeSkrhiTFfQv47lyUPe3W) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [A White Horse Covered In Blood](https://open.spotify.com/album/02Pd6DWZUq8pUETRO8NleY) | 3:18 | 2024-08-02 |  |
 | [A Work of Art](https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [SHAVO](https://open.spotify.com/artist/3db7IWyJRHjZEViTutNdUR) | [A Work of Art \(feat\. Shavo of System of a Down\)](https://open.spotify.com/album/4iCfWNu1o6eNEadgJQa4hp) | 3:58 | 2024-10-11 |  |
@@ -391,6 +392,7 @@
 | [Last Word](https://open.spotify.com/track/0MAVD0SfEWpODVQkvuTw98) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Last Word](https://open.spotify.com/album/5tABXu8g3m8wa54PnN0No5) | 6:17 | 2023-06-23 | 2024-02-03 |
 | [Leech](https://open.spotify.com/track/21xcGKZuN8jF4rzio4LrdM) | [Street Power](https://open.spotify.com/artist/0MRYZGQXTt3HN6u34YtEYr), [Instigate](https://open.spotify.com/artist/0zgXtH4JPojjU14vp2B6sp) | [Threads of Hate](https://open.spotify.com/album/3dWQcNgpTi538c4gKpnJ9e) | 2:09 | 2023-09-01 | 2024-02-03 |
 | [Let Go](https://open.spotify.com/track/2iHdiDAIYBPOqnNxVrNBYO) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Let Go](https://open.spotify.com/album/0rEiAGXHPJUbsNsKP9TfkH) | 3:50 | 2023-03-03 | 2024-02-03 |
+| [Let His Servants Starve](https://open.spotify.com/track/5uYgjQ7DTWxVNkvXXGkoFZ) | [Tribal Gaze](https://open.spotify.com/artist/0pm9kmowFxxE4hWYM04MxH) | [Let His Servants Starve](https://open.spotify.com/album/6x95rzZNKpRasmGwaVDSWw) | 3:57 | 2024-11-08 |  |
 | [Liar](https://open.spotify.com/track/09j7RIpXYTfic5Uds4CHsa) | [Brutus](https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom) | [Liar](https://open.spotify.com/album/0TMn3YSFvsM1sVl5COdjVO) | 3:22 | 2022-07-29 | 2023-07-15 |
 | [Life Sentence](https://open.spotify.com/track/6qdNvTHQJe7PLjVxnqWZr7) | [Bite Down](https://open.spotify.com/artist/0v6hSqiiT4b6n0sEVQY41l) | [Life Sentence](https://open.spotify.com/album/3aZzHYlm07x71wGE4mjNKX) | 3:08 | 2024-11-01 |  |
 | [Life Unknown](https://open.spotify.com/track/0trsDMSa16iKVLvGuwoee2) | [Praise](https://open.spotify.com/artist/5pBjhwqwoCpxGm4igqvgCi) | [Life Unknown](https://open.spotify.com/album/2OHDTjpGe1QosiQiy7UVwe) | 3:37 | 2022-04-22 | 2023-07-15 |
@@ -483,6 +485,7 @@
 | [Off The Meter](https://open.spotify.com/track/48hV9HJP3fb8t3MG8m4hRH) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [Off The Meter](https://open.spotify.com/album/7IstdpmV2yAv798ZL9MxzI) | 2:49 | 2024-06-28 |  |
 | [Off The Rails](https://open.spotify.com/track/1xo36G1V6K3C6ZCwkA3TVd) | [Jerry Cantrell](https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP) | [I Want Blood](https://open.spotify.com/album/1clodpcGPsGi0DAwIUHh8L) | 5:26 | 2024-10-18 |  |
 | [Omens](https://open.spotify.com/track/1sA4cTWNcQMwzrqYG0hCci) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/5RxhsziRI0iPIkywazWTXO) | 3:47 | 2022-07-29 | 2023-07-15 |
+| [On The Brink](https://open.spotify.com/track/3pZkECxp728z1JKMG9nHYK) | [SPY](https://open.spotify.com/artist/7vCI1d19vrokQuRkiAhwMC) | [On The Brink](https://open.spotify.com/album/39bVJ3bstQjSHazht9mNct) | 1:48 | 2024-11-08 |  |
 | [On The Run](https://open.spotify.com/track/3JKWw3L65jWdQWxQxonf4R) | [Exhibition](https://open.spotify.com/artist/3PXIpUyxwTbRam0fB84BKD) | [On the Run](https://open.spotify.com/album/5GztBxPsWCj87c7m9L5TEH) | 2:23 | 2023-01-20 | 2024-02-03 |
 | [One Blood We Bleed](https://open.spotify.com/track/7K1WsCumamKoTiLSnZStKD) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [One Blood We Bleed](https://open.spotify.com/album/0wIamqS45lRSLLf8TluZcr) | 2:25 | 2022-11-18 | 2023-07-15 |
 | [One by One](https://open.spotify.com/track/3UEeuZJjE4ftR7zkq7IVaK) | [VOWWS](https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb) | [One by One](https://open.spotify.com/album/3J7NZbEojkhk997nA5UhkD) | 3:05 | 2022-02-18 | 2023-07-15 |
@@ -745,6 +748,7 @@
 | [Toxic](https://open.spotify.com/track/0xAXV7X5Gl7GPNTVmLNWhT) | [Kerry King](https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH) | [From Hell I Rise](https://open.spotify.com/album/4ckLWU4gnRz63E4raWVEFF) | 3:54 | 2024-05-17 |  |
 | [Transcend to Wet](https://open.spotify.com/track/5Hr6hBX1TkiQ892YhTdqO4) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Transcend to Wet](https://open.spotify.com/album/3SyLGYfzoslxD8Ri6saEF1) | 1:50 | 2022-05-27 | 2023-07-15 |
 | [Treacle & Revenge](https://open.spotify.com/track/5HsdXoHYE7z1WZWlUnm7FX) | [Frayle](https://open.spotify.com/artist/0qsMpawuC9W6kQlbu1mbo1) | [Treacle & Revenge](https://open.spotify.com/album/0AaHmJ9VQx66VztOV5k94s) | 3:52 | 2022-05-27 | 2023-07-15 |
+| [Trenches](https://open.spotify.com/track/6R2iQXWS7CfK2TPjtlfI0c) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Trenches](https://open.spotify.com/album/0K2gvxHs9aFSRgcdFKlamt) | 3:16 | 2024-11-08 |  |
 | [Trepanation](https://open.spotify.com/track/2qohTQsfJbWHdXDsj2SaY8) | [Wristmeetrazor](https://open.spotify.com/artist/2d75DTub8rPPrm6veUsyf6) | [Trepanation](https://open.spotify.com/album/7C9jZu04hoVqLeUMlHJbE3) | 2:28 | 2024-02-16 |  |
 | [Trial By Fire](https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Trial By Fire](https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi) | 4:21 | 2023-11-17 | 2024-02-03 |
 | [Tsunami](https://open.spotify.com/track/0gmYPQH9XpNeuQoBLgoS9W) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Tsunami](https://open.spotify.com/album/6TfNPrsQuGXEGuY3stlPRD) | 3:44 | 2024-08-09 |  |
@@ -802,6 +806,7 @@
 | [We Love You](https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [We Love You](https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC) | 6:15 | 2023-05-12 | 2024-02-03 |
 | [We Share Blood \(Not Love\)](https://open.spotify.com/track/5GaBRiiXjAGvhfiVCs1U5W) | [Splitknuckle](https://open.spotify.com/artist/4IEv1LeXgymlFLG41BS4Kk), [Pest Control](https://open.spotify.com/artist/06NrwSBss5Imv1Se0Hlv5Y) | [Breathing Through The Wound](https://open.spotify.com/album/4N1QBT0JUgvZLEHQ5foSqQ) | 6:22 | 2024-01-12 |  |
 | [We Won't Sleep](https://open.spotify.com/track/4JQHxicFrjTMTfI6UQwtfw) | [Polar](https://open.spotify.com/artist/6eby39yemH7FjGVwJID1Tw) | [We Won't Sleep](https://open.spotify.com/album/1YxPve8eDSgqlXqyDaOTz7) | 3:33 | 2024-05-17 |  |
+| [Welcome to the Industry \- From Fretless \- The Wrath of Riffson](https://open.spotify.com/track/7tQJYcSnoUfDQnHbMjpp0q) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Welcome to the Industry \(From Fretless \- The Wrath of Riffson\)](https://open.spotify.com/album/0VBT2ouqnWfL43FPwH7NeZ) | 4:36 | 2024-11-08 |  |
 | [We’ll Be Back](https://open.spotify.com/track/4SsN1B9ZaSOFmBb4wVu1WB) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [We’ll Be Back](https://open.spotify.com/album/2aeNfVklb5vG8aThJMIQ69) | 4:29 | 2022-06-24 | 2023-07-15 |
 | [We’re All Gonna Die](https://open.spotify.com/track/6rvFwsNhcd7Q2RdsEvUEbC) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:19 | 2022-01-14 | 2023-07-15 |
 | [What Is Delicious? Who Swarms?](https://open.spotify.com/track/4zyPbDKebdwbahJsaQs57a) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [What Is Delicious? Who Swarms?](https://open.spotify.com/album/5Z9n0CXvfI0fsvXC0PLHO2) | 3:16 | 2022-06-03 | 2023-07-15 |

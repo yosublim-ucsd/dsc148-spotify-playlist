@@ -1,266 +1,366 @@
 {
-  "description": "A free space for Indigenous creators. Currently curated by Snotty Nose Rez Kids.",
-  "num_followers": 57962,
+  "description": "A free space for Indigenous creators. Currently curated by Carsen Gray.",
+  "num_followers": 57976,
   "original_name": "Indigenous",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwX/wAAAAAABQfIlbIpP/qzeUVMv2fsu",
+  "snapshot_id": "Zy2a0AAAAACWgDnq82mCjMDG8RlrcGw/",
   "tracks": [
     {
-      "added_at": "2024-10-09 04:00:00",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "KALEIDOSCOPE (feat. Travis Thompson)",
-        "url": "https://open.spotify.com/album/01tOQrm12lW4OXCHuPsGEO"
+        "name": "Haida Village Songs",
+        "url": "https://open.spotify.com/album/6Iw39BB47TOzEwow5Iwi5Z"
       },
       "artists": [
         {
-          "name": "Snotty Nose Rez Kids",
-          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+          "name": "Donnie Edenshaw",
+          "url": "https://open.spotify.com/artist/5eCia9T7dtaiMrwJN3Ag85"
+        }
+      ],
+      "duration_ms": 189474,
+      "name": "Spirit Song",
+      "url": "https://open.spotify.com/track/2ma7MpPtxPIXjFDzznsqXi"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Gospel First Nation",
+        "url": "https://open.spotify.com/album/4KIuBgv4c9uyGS1F3EE328"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "duration_ms": 202419,
+      "name": "All His Children",
+      "url": "https://open.spotify.com/track/05BsiLPBwtc1M0rt6z7BJw"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Pathways",
+        "url": "https://open.spotify.com/album/3K1pEVfbFF5QbmXUpTH1WS"
+      },
+      "artists": [
+        {
+          "name": "Julian Taylor",
+          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
+        }
+      ],
+      "duration_ms": 191893,
+      "name": "Into the Waves",
+      "url": "https://open.spotify.com/track/1g0nQxIeW066WS9hVsEJim"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Holy, Holy, Holy",
+        "url": "https://open.spotify.com/album/5KGnK6K4IGRKbSHqDtoeHb"
+      },
+      "artists": [
+        {
+          "name": "Carsen Gray",
+          "url": "https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs"
+        }
+      ],
+      "duration_ms": 227152,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/49kVazEBbeFATXJKAwG37P"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Modern Warriors",
+        "url": "https://open.spotify.com/album/7fsV92wYBsjOiP3I52m7or"
+      },
+      "artists": [
+        {
+          "name": "Joey Stylez",
+          "url": "https://open.spotify.com/artist/5SEUHl3YJL3a5aQGuMDETE"
         },
         {
-          "name": "Travis Thompson",
-          "url": "https://open.spotify.com/artist/6WZfEqqsYujHTUDuNd5Lbc"
+          "name": "Joel Wood",
+          "url": "https://open.spotify.com/artist/2LCxG1teJ4wVU5lQazmadd"
         }
       ],
-      "duration_ms": 233267,
-      "name": "KALEIDOSCOPE (feat. Travis Thompson)",
-      "url": "https://open.spotify.com/track/3eSElYs735MuCi85mRzItQ"
+      "duration_ms": 197702,
+      "name": "Modern Warriors",
+      "url": "https://open.spotify.com/track/1kF0C7V7ON2zWFR17Ryu9Q"
     },
     {
-      "added_at": "2024-10-09 04:00:00",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Rez Ball (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/1EtlTCulJqpIJtkGYEpR8A"
+        "name": "Willow",
+        "url": "https://open.spotify.com/album/3j52tsXT3dB8pB36xSCOvV"
       },
       "artists": [
         {
-          "name": "Travis Thompson",
-          "url": "https://open.spotify.com/artist/6WZfEqqsYujHTUDuNd5Lbc"
+          "name": "Mimi O'Bonsawin",
+          "url": "https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt"
         }
       ],
-      "duration_ms": 148443,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/2OiOmEpi56bXb6o00zMdzf"
+      "duration_ms": 166372,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/230G4ZyOvwor5nK3Pkon6m"
     },
     {
-      "added_at": "2024-10-09 04:00:00",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih"
+        "name": "When the Magic Hits",
+        "url": "https://open.spotify.com/album/5VcEQHvnipMBirRWhE2DqL"
       },
       "artists": [
         {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+          "name": "Adrian Sutherland",
+          "url": "https://open.spotify.com/artist/6kLy0FIyVxqDVuvivOiuPZ"
         }
       ],
-      "duration_ms": 207813,
-      "name": "Diva",
-      "url": "https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66"
+      "duration_ms": 277144,
+      "name": "Walk with Me",
+      "url": "https://open.spotify.com/track/4Ay5RD0wqjQ8DWQcEcVmOx"
     },
     {
-      "added_at": "2024-10-09 04:00:00",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Good Day$ (7 Nightz)",
-        "url": "https://open.spotify.com/album/30omYMPO7lA2MrFRBZgukO"
+        "name": "Iskwewak - Songs of Indigenous Womanhood",
+        "url": "https://open.spotify.com/album/4kxpjT2AC25hLcLisNWRHj"
       },
       "artists": [
         {
-          "name": "NorthSideBaby",
-          "url": "https://open.spotify.com/artist/0l9tQsNc6OdBFexHhjrI23"
+          "name": "Fawn Wood",
+          "url": "https://open.spotify.com/artist/7HrK2HP1tJfnMW2HFDw4kb"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Good Day$ (7 Nightz)",
-      "url": "https://open.spotify.com/track/2FloWetdZhAaMWFDRiXP4l"
+      "duration_ms": 197973,
+      "name": "Mommy's Little Guy",
+      "url": "https://open.spotify.com/track/2AC1GkkUrcpGZeSPhcDA3S"
     },
     {
-      "added_at": "2024-10-09 04:00:00",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "RED FUTURE",
-        "url": "https://open.spotify.com/album/7445IRz5iyAR4DLwkZJD5a"
+        "name": "Spirit Home",
+        "url": "https://open.spotify.com/album/6eOQzTsiPZlcciO6VDpVlh"
       },
       "artists": [
         {
-          "name": "Snotty Nose Rez Kids",
-          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+          "name": "Okema",
+          "url": "https://open.spotify.com/artist/7mitKpwBFwe4LhYTij1lZY"
+        }
+      ],
+      "duration_ms": 250481,
+      "name": "Spirit Home",
+      "url": "https://open.spotify.com/track/776VStqCzFnxE4c7m3kl28"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/2KBli2cmRK63zT0SuCd6iU"
+      },
+      "artists": [
+        {
+          "name": "Biz Nico",
+          "url": "https://open.spotify.com/artist/1k5ciLXWMrjhP3LmJrKYTN"
+        }
+      ],
+      "duration_ms": 175864,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4FErP0bgSkNP282nc5PQhe"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "This Little Light",
+        "url": "https://open.spotify.com/album/0uwNyqu5fmJNpWc9oq1T9L"
+      },
+      "artists": [
+        {
+          "name": "Carsen Gray",
+          "url": "https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs"
+        }
+      ],
+      "duration_ms": 237727,
+      "name": "This Little Light",
+      "url": "https://open.spotify.com/track/4QPw5vMjdmmTbyLGxUOOI4"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/1RVbtVMv41GhhwsjJYKVoT"
+      },
+      "artists": [
+        {
+          "name": "Joey Stylez",
+          "url": "https://open.spotify.com/artist/5SEUHl3YJL3a5aQGuMDETE"
         },
         {
-          "name": "Aysanabee",
-          "url": "https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5"
+          "name": "Pete Sands",
+          "url": "https://open.spotify.com/artist/1zpo2FDXdRO2UU94TWjkYI"
+        }
+      ],
+      "duration_ms": 189795,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/389zatpWi23vsG6wbEAZVO"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Fool Under Water",
+        "url": "https://open.spotify.com/album/3qlV7Y4btMh5tfC1F39f8g"
+      },
+      "artists": [
+        {
+          "name": "Ila Barker",
+          "url": "https://open.spotify.com/artist/6V5NP1pPpYLvS3hhyyUOAF"
+        }
+      ],
+      "duration_ms": 211965,
+      "name": "Intuition",
+      "url": "https://open.spotify.com/track/6evHTeZnv784MePmGVMzi3"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Night Vision",
+        "url": "https://open.spotify.com/album/3FOunLXwRSnYQ4WjioOirD"
+      },
+      "artists": [
+        {
+          "name": "Drives the Common Man",
+          "url": "https://open.spotify.com/artist/2wcZTsK9T9ANPCLWDHtFIZ"
+        }
+      ],
+      "duration_ms": 187354,
+      "name": "Night Vision",
+      "url": "https://open.spotify.com/track/1AlsstnhmK0Of1G8iQQYsJ"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "My Body Is a Temple",
+        "url": "https://open.spotify.com/album/1jdGTjL8KmkJN0efyzncyW"
+      },
+      "artists": [
+        {
+          "name": "LILI",
+          "url": "https://open.spotify.com/artist/64iV2Hd3282sisWcTp9VnP"
+        }
+      ],
+      "duration_ms": 185700,
+      "name": "My Body Is a Temple",
+      "url": "https://open.spotify.com/track/6bYtQSiPvtugxl2KAZ94ZV"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Heal (Radio Edit)",
+        "url": "https://open.spotify.com/album/4A67nTu0LoolDrcFIN3vwa"
+      },
+      "artists": [
+        {
+          "name": "Nige B",
+          "url": "https://open.spotify.com/artist/1dCfgYdsukydrb2xMjy268"
         },
         {
-          "name": "Drezus",
-          "url": "https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ"
-        },
-        {
-          "name": "Chief Rueben George",
-          "url": "https://open.spotify.com/artist/6dRQUz3KSfxPIDqZcbBbYI"
+          "name": "Artifice, the Visionary",
+          "url": "https://open.spotify.com/artist/262409Z083qcSqzEsva32n"
         }
       ],
-      "duration_ms": 268064,
-      "name": "FREE (feat. Aysanabee, Drezus & Chief Rueben George)",
-      "url": "https://open.spotify.com/track/1w0Db8dEYlzMaPVD0MqF4j"
+      "duration_ms": 190588,
+      "name": "Heal - Radio Edit",
+      "url": "https://open.spotify.com/track/2klTfwVlwZxoY0Qb17HmZ8"
     },
     {
-      "added_at": "2024-10-09 04:00:00",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/475WKj7pnoZ1bjU9JLwcla"
+        "name": "Gospel First Nation",
+        "url": "https://open.spotify.com/album/4KIuBgv4c9uyGS1F3EE328"
       },
       "artists": [
         {
-          "name": "Aysanabee",
-          "url": "https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5"
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
         }
       ],
-      "duration_ms": 173808,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/7oPx8sHqaifEvFlqQ48CB2"
+      "duration_ms": 217348,
+      "name": "Higher Power",
+      "url": "https://open.spotify.com/track/2zkRWP2Vd0RQ50JEU559TO"
     },
     {
-      "added_at": "2024-10-09 04:00:00",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Pretty Red Bird",
-        "url": "https://open.spotify.com/album/4CVvKdcEb3rkac230DsOQB"
+        "name": "K\u00eey\u00e2naw",
+        "url": "https://open.spotify.com/album/3PBiikS9cGxuLGyANF6ggA"
       },
       "artists": [
         {
-          "name": "Tia Wood",
-          "url": "https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC"
+          "name": "Burnstick",
+          "url": "https://open.spotify.com/artist/0dbsbN4GmkykhylRBqDQaL"
         }
       ],
-      "duration_ms": 160192,
-      "name": "Plastic Trees",
-      "url": "https://open.spotify.com/track/39hfc0plEP0VxvduMz9oXZ"
+      "duration_ms": 243066,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/6tSz0G5eyqnbY3yvhq2OHi"
     },
     {
-      "added_at": "2024-10-09 04:00:00",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Motewolonuwok",
-        "url": "https://open.spotify.com/album/0GSKrVvb8FZlMfsBpTLFjL"
+        "name": "Praise Sah'Laana",
+        "url": "https://open.spotify.com/album/0tRBCHj38VbZWCEbI3wTDw"
       },
       "artists": [
         {
-          "name": "Jeremy Dutcher",
-          "url": "https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f"
+          "name": "Carsen Gray",
+          "url": "https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs"
         }
       ],
-      "duration_ms": 222215,
-      "name": "Pomawsuwinuwok Wonakiyawolotuwok",
-      "url": "https://open.spotify.com/track/7vjh9C0Dd2E9gm58AzWBy0"
+      "duration_ms": 136941,
+      "name": "Doxology",
+      "url": "https://open.spotify.com/track/2jQiosH4YGEQpVxHtooekf"
     },
     {
-      "added_at": "2024-10-09 04:00:00",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "One Milkali (One Blood)",
-        "url": "https://open.spotify.com/album/5gmCSsc0MTQaKSQNWswUao"
-      },
-      "artists": [
-        {
-          "name": "Electric Fields",
-          "url": "https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5"
-        }
-      ],
-      "duration_ms": 176883,
-      "name": "One Milkali (One Blood)",
-      "url": "https://open.spotify.com/track/74mWVYv6xPilcalOxrQa5Y"
-    },
-    {
-      "added_at": "2024-10-09 04:00:00",
-      "album": {
-        "name": "Careful",
-        "url": "https://open.spotify.com/album/04VFFojdprYvBx2zwPWVe8"
-      },
-      "artists": [
-        {
-          "name": "Xiuhtezcatl",
-          "url": "https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE"
-        }
-      ],
-      "duration_ms": 175549,
-      "name": "Careful",
-      "url": "https://open.spotify.com/track/1YvTt3yF1Nr6a1cUoLNwlF"
-    },
-    {
-      "added_at": "2024-10-09 04:00:00",
-      "album": {
-        "name": "RED FUTURE",
-        "url": "https://open.spotify.com/album/7445IRz5iyAR4DLwkZJD5a"
-      },
-      "artists": [
-        {
-          "name": "Snotty Nose Rez Kids",
-          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
-        },
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
-        }
-      ],
-      "duration_ms": 216010,
-      "name": "PEACHES (feat. Princess Nokia)",
-      "url": "https://open.spotify.com/track/31kbfYh14g4xOjXtQUWXvM"
-    },
-    {
-      "added_at": "2024-10-09 04:00:00",
-      "album": {
-        "name": "Big Tidda",
-        "url": "https://open.spotify.com/album/5RtZSqc8hYnrzhhq0wMKhI"
-      },
-      "artists": [
-        {
-          "name": "Barkaa",
-          "url": "https://open.spotify.com/artist/7gGAAZB2j1TmXBwQYOQLwr"
-        }
-      ],
-      "duration_ms": 215897,
-      "name": "T.I.D.D.A Freestyle",
-      "url": "https://open.spotify.com/track/78J6cCTiUd1NCDjI7S9OS7"
-    },
-    {
-      "added_at": "2024-10-09 04:00:00",
-      "album": {
-        "name": "Real One",
-        "url": "https://open.spotify.com/album/06pSzIbKEFnSlDJkDprG4u"
-      },
-      "artists": [
-        {
-          "name": "Stella Standingbear",
-          "url": "https://open.spotify.com/artist/5AyaQq63U3Zym36xcT7120"
-        }
-      ],
-      "duration_ms": 168459,
-      "name": "Real One",
-      "url": "https://open.spotify.com/track/179BvAEOBo5B6j1w0Ow2Op"
-    },
-    {
-      "added_at": "2024-10-09 04:00:00",
-      "album": {
-        "name": "Cousins",
-        "url": "https://open.spotify.com/album/1wnZuVgCUAAbVjqbiK8zkM"
+        "name": "Buffalo",
+        "url": "https://open.spotify.com/album/1ouIlIuyJt0ieW6FxEPdTK"
       },
       "artists": [
         {
           "name": "Boogey the Beat",
           "url": "https://open.spotify.com/artist/0Kc8I2nrf9po7TU4VH3lnK"
-        },
-        {
-          "name": "Snotty Nose Rez Kids",
-          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
         }
       ],
-      "duration_ms": 181712,
-      "name": "Run for Cover",
-      "url": "https://open.spotify.com/track/43kZmT655a87D1YQwIF8Q2"
+      "duration_ms": 249519,
+      "name": "Buffalo",
+      "url": "https://open.spotify.com/track/5QLRneRLedCtUSxuI8Ty5z"
     },
     {
-      "added_at": "2024-10-09 04:00:00",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "All Eyes On Us",
-        "url": "https://open.spotify.com/album/2e56iyUPW6P0yJ9QxFtZnw"
+        "name": "Dreamweaver",
+        "url": "https://open.spotify.com/album/39gvn7LqSbcAVjl3nbvVWZ"
+      },
+      "artists": [
+        {
+          "name": "Anachnid",
+          "url": "https://open.spotify.com/artist/3InHKoRqLAoPvPfH5T6WEO"
+        }
+      ],
+      "duration_ms": 195752,
+      "name": "Sky Woman",
+      "url": "https://open.spotify.com/track/3AW9ClASkmfyZvG0ZHMUbA"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Rez (Remix)",
+        "url": "https://open.spotify.com/album/02yVU33mtZP7Ag3ABtzCLf"
       },
       "artists": [
         {
@@ -268,175 +368,47 @@
           "url": "https://open.spotify.com/artist/2wn3YMzruUNJ2Ee1z6xnjY"
         },
         {
-          "name": "Rezcoast Grizz",
-          "url": "https://open.spotify.com/artist/4H2c41FCNwfcPZWK4ln889"
-        }
-      ],
-      "duration_ms": 161270,
-      "name": "Broken Glass",
-      "url": "https://open.spotify.com/track/1Zd62s5N4ejVehIwf1Gqca"
-    },
-    {
-      "added_at": "2024-10-09 04:00:00",
-      "album": {
-        "name": "Cover My Shoulders",
-        "url": "https://open.spotify.com/album/2S3dYVzu1aZsc6b38HT2wR"
-      },
-      "artists": [
-        {
-          "name": "Drezus",
-          "url": "https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ"
-        }
-      ],
-      "duration_ms": 145160,
-      "name": "Cover My Shoulders",
-      "url": "https://open.spotify.com/track/18kuriPV1L1yXHdnwj3CoA"
-    },
-    {
-      "added_at": "2024-10-09 04:00:00",
-      "album": {
-        "name": "Weekend Act",
-        "url": "https://open.spotify.com/album/2t0thQR4HuvxX032r5ZQcc"
-      },
-      "artists": [
-        {
-          "name": "J-Tek",
-          "url": "https://open.spotify.com/artist/1lSGNvxefF3baOOG9mQtUj"
+          "name": "Dakota Bear",
+          "url": "https://open.spotify.com/artist/25MEoFUjbq3v7Tc66YHv48"
         },
         {
-          "name": "Rezcoast Grizz",
-          "url": "https://open.spotify.com/artist/4H2c41FCNwfcPZWK4ln889"
+          "name": "Okema",
+          "url": "https://open.spotify.com/artist/7mitKpwBFwe4LhYTij1lZY"
         }
       ],
-      "duration_ms": 133397,
-      "name": "Weekend Act",
-      "url": "https://open.spotify.com/track/1Ijg52SgGJNr98Fll0YkSj"
+      "duration_ms": 264471,
+      "name": "Rez - Remix",
+      "url": "https://open.spotify.com/track/0fVsyiWDpscYVpOeMxZ35q"
     },
     {
-      "added_at": "2024-10-09 04:00:00",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/6nAuCtVKkuaFTu0MbrtTsA"
+        "name": "Lone Wolf",
+        "url": "https://open.spotify.com/album/2tVWI7aRKJ63RZFUVLkBJb"
       },
       "artists": [
         {
-          "name": "Quanah Style",
-          "url": "https://open.spotify.com/artist/5GatFB9bB4HBbcQdsIOOQH"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Glow",
-      "url": "https://open.spotify.com/track/4VcKvcroMYlQ4QCcRHugVi"
-    },
-    {
-      "added_at": "2024-10-09 04:00:00",
-      "album": {
-        "name": "Voices Through Rubble",
-        "url": "https://open.spotify.com/album/1JdG5jW3jPr8xrtDNHqriF"
-      },
-      "artists": [
-        {
-          "name": "The Halluci Nation",
-          "url": "https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z"
+          "name": "Tirrell Thomas",
+          "url": "https://open.spotify.com/artist/2uzhtMAP5M016lQXodWbDp"
         },
         {
-          "name": "Saul Williams",
-          "url": "https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm"
+          "name": "One8Tea",
+          "url": "https://open.spotify.com/artist/1sgIz4NcRSFQ5X0lVhzWiF"
         },
         {
-          "name": "NARCY",
-          "url": "https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg"
+          "name": "Fresh IE",
+          "url": "https://open.spotify.com/artist/5cxgY8wa4cYuez4CqimbsK"
         }
       ],
-      "duration_ms": 195509,
-      "name": "Voices Through Rubble",
-      "url": "https://open.spotify.com/track/1TFzATnG9MXI3LpxuKEyyS"
+      "duration_ms": 186857,
+      "name": "Catch Me",
+      "url": "https://open.spotify.com/track/0CtifxdZdPKQaMbHdlz6wz"
     },
     {
-      "added_at": "2024-10-09 04:00:00",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Warriors & Storytellers",
-        "url": "https://open.spotify.com/album/1m0xrNgyNrmY45Xt5eDRIm"
-      },
-      "artists": [
-        {
-          "name": "Kobie Dee",
-          "url": "https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO"
-        }
-      ],
-      "duration_ms": 192628,
-      "name": "Warriors & Storytellers",
-      "url": "https://open.spotify.com/track/7576a1TJ554JQGmvch8fzq"
-    },
-    {
-      "added_at": "2024-10-09 04:00:00",
-      "album": {
-        "name": "Brown Man",
-        "url": "https://open.spotify.com/album/2tnaYm67AnMon2NL2M1Y1O"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Gaskin",
-          "url": "https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za"
-        }
-      ],
-      "duration_ms": 192929,
-      "name": "Brown Man",
-      "url": "https://open.spotify.com/track/5cJyYDtFcRrGWUHDx8FHlv"
-    },
-    {
-      "added_at": "2024-10-09 04:00:00",
-      "album": {
-        "name": "LOOKIN'",
-        "url": "https://open.spotify.com/album/7HLa0BykoRebZvGusVlTed"
-      },
-      "artists": [
-        {
-          "name": "Jessa Sky",
-          "url": "https://open.spotify.com/artist/2s3owRsjkaanegjOOxmCC8"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "LOOKIN'",
-      "url": "https://open.spotify.com/track/2zMy6txMkOwhlwPkALHHYf"
-    },
-    {
-      "added_at": "2024-10-09 04:00:00",
-      "album": {
-        "name": "Time Machine",
-        "url": "https://open.spotify.com/album/4Kmm0FqBA7pcyCjzozMZkQ"
-      },
-      "artists": [
-        {
-          "name": "Leonard Sumner",
-          "url": "https://open.spotify.com/artist/0MYSpdiE9Jp6GBTsNvlZQ5"
-        }
-      ],
-      "duration_ms": 226165,
-      "name": "Time Machine",
-      "url": "https://open.spotify.com/track/62sJZ428laihaSvyU6xjNJ"
-    },
-    {
-      "added_at": "2024-10-09 04:00:00",
-      "album": {
-        "name": "Light of the Moon",
-        "url": "https://open.spotify.com/album/3Se6SFj9pGjgJ2j27BFKNH"
-      },
-      "artists": [
-        {
-          "name": "Celeigh Cardinal",
-          "url": "https://open.spotify.com/artist/7HAq3UBI3pb8ok9k7dkdGR"
-        }
-      ],
-      "duration_ms": 201534,
-      "name": "Light of the Moon",
-      "url": "https://open.spotify.com/track/74dmKWgT6SNsY2mxPwcBP6"
-    },
-    {
-      "added_at": "2024-10-09 04:00:00",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/5JOKTDNwoOiai5YOfmoF59"
+        "name": "Halulu",
+        "url": "https://open.spotify.com/album/16WDVwNM1Sgcsnl2qsQ22z"
       },
       "artists": [
         {
@@ -444,13 +416,137 @@
           "url": "https://open.spotify.com/artist/3oz5416NViDyRVxarOd9Fz"
         },
         {
-          "name": "Jeremy Parkin",
-          "url": "https://open.spotify.com/artist/5m4xrkVmJeWV97JpTXkra8"
+          "name": "HK Higher Knowledge",
+          "url": "https://open.spotify.com/artist/3O4n8bVzigjJR0UXLE8UwG"
         }
       ],
-      "duration_ms": 162141,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/78pS6tyVVJjRfHOWiNX0R2"
+      "duration_ms": 248986,
+      "name": "Ride the Waves",
+      "url": "https://open.spotify.com/track/1MGVRYvlMdqLHQWO582Zno"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "We Were Here (DJ Shub Remix)",
+        "url": "https://open.spotify.com/album/0IWrDV94T8olys3q7nIkTD"
+      },
+      "artists": [
+        {
+          "name": "Aysanabee",
+          "url": "https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5"
+        },
+        {
+          "name": "DJ Shub",
+          "url": "https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A"
+        },
+        {
+          "name": "Dan General",
+          "url": "https://open.spotify.com/artist/27CGrUzGjboqmLMGhUbKTw"
+        }
+      ],
+      "duration_ms": 289034,
+      "name": "We Were Here - DJ Shub Remix",
+      "url": "https://open.spotify.com/track/5h4H1kECsGYdxMQPiUtaHY"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "If I Wanted You Boy",
+        "url": "https://open.spotify.com/album/74GRo1ML7Cylk45WzxylC8"
+      },
+      "artists": [
+        {
+          "name": "Natasha Fisher",
+          "url": "https://open.spotify.com/artist/644igyu4xfNmbD8r0SJmGJ"
+        }
+      ],
+      "duration_ms": 89874,
+      "name": "If I Wanted You Boy",
+      "url": "https://open.spotify.com/track/3k7UiaPjmtJWxjQOZTWBQv"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/2EBnf41jLKUV8XwIHLPu9p"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Gaskin",
+          "url": "https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za"
+        }
+      ],
+      "duration_ms": 211868,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/0mQ9bUpYTMTLnFt1chc7Ak"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "A Light in the Attic",
+        "url": "https://open.spotify.com/album/5YivX6MADAUSfCEdDQpVk6"
+      },
+      "artists": [
+        {
+          "name": "Logan Staats",
+          "url": "https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P"
+        }
+      ],
+      "duration_ms": 224584,
+      "name": "Deadman",
+      "url": "https://open.spotify.com/track/30fLbJvDKHjP079STO4VZK"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Spirit of Hip Hop",
+        "url": "https://open.spotify.com/album/7zZe66cl3DdsQAcTe5QkC3"
+      },
+      "artists": [
+        {
+          "name": "David Strickland",
+          "url": "https://open.spotify.com/artist/3uiLDKuZbSyPRh7wdzT56G"
+        },
+        {
+          "name": "Supaman",
+          "url": "https://open.spotify.com/artist/0GBYlnXBzFnCGiaH6dLb6j"
+        },
+        {
+          "name": "Artson",
+          "url": "https://open.spotify.com/artist/7Dzu0aRbGc5HeuinVd5dMW"
+        },
+        {
+          "name": "Spade",
+          "url": "https://open.spotify.com/artist/4HQRRPsZ2GjBkF0VHk3iiO"
+        },
+        {
+          "name": "JRDN",
+          "url": "https://open.spotify.com/artist/5v44WEYTAsI7rnuxsfJBly"
+        },
+        {
+          "name": "Whitey Don",
+          "url": "https://open.spotify.com/artist/2iYf0bMHFlBAseIQ6tgMZD"
+        }
+      ],
+      "duration_ms": 273724,
+      "name": "Turtle Island",
+      "url": "https://open.spotify.com/track/6IKdfnT4mCKAxVLATqFcU6"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Nikumoon",
+        "url": "https://open.spotify.com/album/2SDpvNWyquIfvczgJiXX5R"
+      },
+      "artists": [
+        {
+          "name": "Rhonda Head",
+          "url": "https://open.spotify.com/artist/3TM5QL6rMaRf3b4ktSrX8N"
+        }
+      ],
+      "duration_ms": 143282,
+      "name": "The Creator",
+      "url": "https://open.spotify.com/track/4EdmupTydFCm7YnkK671Io"
     }
   ],
   "unique_name": "Indigenous",

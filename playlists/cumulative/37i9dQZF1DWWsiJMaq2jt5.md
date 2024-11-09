@@ -4,7 +4,7 @@
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:2t3aJxThQrMWaNJgqjMcU8">Lanberry</a>
 
-1,929 songs - 4 day 6 hr 58 min
+1,931 songs - 4 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [Cute](https://open.spotify.com/track/2XgoXR9DaWtgqC2Id1F3jq) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [ID](https://open.spotify.com/album/3pGrDlPfSP60CkQUctqoWS) | 2:44 | 2023-01-03 | 2023-02-01 |
 | [Cyberelfy](https://open.spotify.com/track/0BaFNzVuho8vlfE0VsCFDF) | [NANGA](https://open.spotify.com/artist/3wBGonHcTaPDylffjRWwGR) | [Cyberelfy](https://open.spotify.com/album/2Lw9yy4WauMZlZHAnSvMs2) | 3:42 | 2023-04-04 | 2023-05-03 |
 | [Cynamon](https://open.spotify.com/track/2tb1pdx4G4RuVv9UZ7uE3F) | [Sandra Czuraj](https://open.spotify.com/artist/3qQDvGPGR4wGp6EcTVD3uV) | [Cynamon](https://open.spotify.com/album/0XflPivGZ3wQednM2xiftT) | 2:38 | 2022-01-04 | 2022-02-02 |
-| [Cyrk](https://open.spotify.com/track/1e8Lx51hxlh88uaA3IumUR) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [Cyrk](https://open.spotify.com/album/3LnfdUm50X2HVIUadHJ6Nf) | 3:06 | 2024-10-01 |  |
+| [Cyrk](https://open.spotify.com/track/1e8Lx51hxlh88uaA3IumUR) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [Cyrk](https://open.spotify.com/album/3LnfdUm50X2HVIUadHJ6Nf) | 3:06 | 2024-10-01 | 2024-11-09 |
 | [czarno\-białe sny](https://open.spotify.com/track/6inPDUhEEzK2kXY42YGdcq) | [Magda Bereda](https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d) | [czarno\-białe sny](https://open.spotify.com/album/7xLyeyHbIvo8YvbTvPPlSC) | 2:53 | 2024-08-06 | 2024-09-04 |
 | [Czarny Kot](https://open.spotify.com/track/37vuLvkZ7p8pT53JRV925m) | [Monika Fortuniak](https://open.spotify.com/artist/01ncc1B50xOY2nYOgyJqI2), [Bisz](https://open.spotify.com/artist/4PpHZwqxdYMMnLkYJ83vUJ) | [Czarny Kot](https://open.spotify.com/album/4uPUpaNscy163I6hsaDWRN) | 3:54 | 2022-03-07 | 2022-04-06 |
 | [Czarny Las](https://open.spotify.com/track/2XYd9MFEweLIjhb2UtqO5b) | [K\-Leah](https://open.spotify.com/artist/4r801h4kBtZLPBUeBkuzHa), [JangaBeatz](https://open.spotify.com/artist/77GjJNMlu1lepvLgXztSlx) | [Czarny Las](https://open.spotify.com/album/2UfMKKIxhSCCbQSPVdgYDu) | 3:46 | 2024-07-02 | 2024-08-07 |
@@ -1335,7 +1335,7 @@
 | [przytulam siebie](https://open.spotify.com/track/71IyzTE5RHeahNODdRcXGp) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Pierwsza Płyta](https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ) | 2:34 | 2024-11-05 |  |
 | [Pstro](https://open.spotify.com/track/3bHLIjbedh28CzDhR2p1kf) | [Iksy](https://open.spotify.com/artist/7BoxZhjxvf3CPFFJvN0M5R) | [Pstro](https://open.spotify.com/album/3fzsZEH0wZFEeBitHDcI0t) | 3:57 | 2022-05-03 | 2022-06-01 |
 | [Psuj](https://open.spotify.com/track/5iFO02Dqx82O4VooVmXTeZ) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [Psuj](https://open.spotify.com/album/0VJrG1gtrOYBC3dAeFtKKG) | 2:27 | 2022-11-08 | 2022-12-01 |
-| [PSYCHO](https://open.spotify.com/track/4mzarp4qJVXipOOpzs5MB5) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PSYCHO](https://open.spotify.com/album/6d4okERqK0BiadzjBBOsEL) | 3:06 | 2024-11-05 |  |
+| [PSYCHO](https://open.spotify.com/track/4mzarp4qJVXipOOpzs5MB5) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PSYCHO](https://open.spotify.com/album/6d4okERqK0BiadzjBBOsEL) | 3:06 | 2024-11-05 | 2024-11-09 |
 | [Pu$$ycat Dollz](https://open.spotify.com/track/1b4l2qmMY6LvAzRF7Kf9Lf) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Pu$$ycat Dollz](https://open.spotify.com/album/17aJCoSv1jz8QALI1m4HQm) | 2:05 | 2024-01-09 | 2024-02-07 |
 | [pusto](https://open.spotify.com/track/74my4eJfRDdLbMhHtKJTFb) | [Lija](https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5) | [pusto](https://open.spotify.com/album/1sWqNnlZgwUm0FZ5UzxOeD) | 4:34 | 2023-01-03 | 2023-02-01 |
 | [Pusty dom](https://open.spotify.com/track/21Iyi3kSACdntSb76cF78O) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Pusty dom](https://open.spotify.com/album/7eHWJ8w13NFamgPC6HXUUr) | 3:26 | 2023-08-01 | 2023-09-06 |
@@ -1357,6 +1357,7 @@
 | [Randomowe noce](https://open.spotify.com/track/2cnLvmsaqXJ46GVbtd6qtR) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Randomowe noce](https://open.spotify.com/album/5nMxp5U3ENlLByqe6vWNTv) | 2:16 | 2024-03-05 | 2024-04-03 |
 | [Rany](https://open.spotify.com/track/2sljntsgtfVA7hyG6Ty0CO) | [Iza Iprzeciw](https://open.spotify.com/artist/3raVcdcIJSBZXirctZ2Ooq) | [Rany](https://open.spotify.com/album/0zeydfAAubv8FX6the5A6q) | 2:53 | 2022-05-03 | 2022-06-01 |
 | [RASTA](https://open.spotify.com/track/0eIGpaZ6HcS9k2Nt9nMnJJ) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [RASTA](https://open.spotify.com/album/4DlPSU1YXt8zKWMgTaWoos) | 3:11 | 2022-10-04 | 2022-11-09 |
+| [Ratuj się kto może](https://open.spotify.com/track/3ngO8Qzh9c5PIE9s6IwjSu) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [Heca](https://open.spotify.com/album/6zLgFeNNs1JxPHawGEkU90) | 3:53 | 2024-11-08 |  |
 | [Raz dwa trzy](https://open.spotify.com/track/5CgXHs7YtY3SnudJBSVlDV) | [Julia Kamińska](https://open.spotify.com/artist/4jFzWphpCeC923MojgEp7V) | [Raz dwa trzy](https://open.spotify.com/album/6DKyFdjuuw2BisnoNA3DbV) | 4:03 | 2024-04-02 | 2024-05-02 |
 | [Recepta](https://open.spotify.com/track/4j4lPKlEUgkOHlt6ZwPwtE) | [Honorata Skarbek](https://open.spotify.com/artist/05Fgqq7GfWeNol1TR5H3og) | [Recepta](https://open.spotify.com/album/0bRNKC3oN1LCON0SR6YTAK) | 3:02 | 2022-01-04 | 2022-02-02 |
 | [Refleksje na temat przełamywania lodów przy nawiązywaniu stosunków towarzyskich](https://open.spotify.com/track/3KAvbPQebWNVFQQZeFC3Iv) | [Anna Jurksztowicz](https://open.spotify.com/artist/5Pnb9eXuGqSHlUsneXSdco) | [Refleksje na temat przełamywania lodów przy nawiązywaniu stosunków towarzyskich](https://open.spotify.com/album/7eW3wi47SE1ZSw1lJrmtgM) | 3:46 | 2022-07-05 | 2022-08-03 |
@@ -1387,6 +1388,7 @@
 | [Sad](https://open.spotify.com/track/6IK1BSHwa0g6qF6JiguZLO) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Kaprysy](https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY) | 2:57 | 2024-07-02 | 2024-08-07 |
 | [Sadza](https://open.spotify.com/track/4VxvgNErr7vIVr55P3oSSH) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Sadza](https://open.spotify.com/album/0sXkfj6h49u6e4XJrD3KGw) | 3:29 | 2022-07-05 | 2022-08-03 |
 | [Salad Story](https://open.spotify.com/track/0l9P4gKEEFyTikeeGMPGeT) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Salad Story](https://open.spotify.com/album/5J7XkFwdgVU22p7xmy6BcQ) | 2:43 | 2023-10-03 | 2023-11-08 |
+| [SALTY](https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PLAYHOUSE](https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO) | 3:11 | 2024-11-08 |  |
 | [Sam](https://open.spotify.com/track/5Bwim2mqwp7ySmhPSwtg5N) | [Klaudia Marzec](https://open.spotify.com/artist/2SlZJko0OpkOSKoZzoMkta) | [Sam](https://open.spotify.com/album/3rqao6o66SSXnIPFyc8jbR) | 4:11 | 2023-07-04 | 2023-08-02 |
 | [Sam na sam](https://open.spotify.com/track/5YUdIz5rosabeWO4wTWS2l) | [Pola Chobot & Adam Baran](https://open.spotify.com/artist/3rAJTu78f8RNNNTN8LqnVk), [Magda Kluz](https://open.spotify.com/artist/0yKPpbp3T6JTB9ApDMv9SZ) | [Sam na sam](https://open.spotify.com/album/37pznpHCuxArO05VV6oUsT) | 3:58 | 2022-04-05 | 2022-05-04 |
 | [SAMA](https://open.spotify.com/track/4xgKomKmHShyjERRdsGUbE) | [Marien](https://open.spotify.com/artist/3OJV0xQWTH0mrMRmfNxqGk) | [SAMA](https://open.spotify.com/album/5kDCC5r4Egjs5lXWvZc1hs) | 2:23 | 2022-03-07 | 2022-04-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。XG, MISAMO, imase, Myles Smith, Primal Scream and more! cover: XG
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,074 likes - 76 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,112 likes - 76 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 39 | [TURN YOUR HEART AROUND](https://open.spotify.com/track/3VVNugqkWk3NqCfTfv0N4C) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [TURN YOUR HEART AROUND](https://open.spotify.com/album/1HGSs2zPelvBSJ6TCvyUMw) | 2:52 |
 | 40 | [Ai Que Calor](https://open.spotify.com/track/4T8ox558vnY7tCdWvdOhan) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 2:24 |
 | 41 | [Feelings Never Die](https://open.spotify.com/track/3rkuBuf0QhxlSLzvzrjVTU) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Feelings Never Die](https://open.spotify.com/album/71JOXHFVRlGJ6MoHCMddFI) | 3:42 |
-| 42 | [All We Have feat\. Masato\(cordrain\)](https://open.spotify.com/track/2Ie1vfWEVt63G0FIGETwe0) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb), [Masato\(coldrain\)](https://open.spotify.com/artist/4f9hD6gIbmsHoQw9MFMnP8) | [All We Have feat\. Masato\(cordrain\)](https://open.spotify.com/album/04qhwj8qQxCjnqUtDpgXM8) | 4:16 |
+| 42 | [All We Have feat\. Masato\(coldrain\)](https://open.spotify.com/track/2Ie1vfWEVt63G0FIGETwe0) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb), [Masato\(coldrain\)](https://open.spotify.com/artist/4f9hD6gIbmsHoQw9MFMnP8) | [All We Have feat\. Masato\(coldrain\)](https://open.spotify.com/album/04qhwj8qQxCjnqUtDpgXM8) | 4:16 |
 | 43 | [再会](https://open.spotify.com/track/3iOAudgfuv8F61xgE1nvws) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [再会](https://open.spotify.com/album/2VOnqcBzypWwUAd6enWkGg) | 4:32 |
 | 44 | [まずは今日から](https://open.spotify.com/track/4cl8Y9jslA4jVYezBGZVAj) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [まずは今日から](https://open.spotify.com/album/0nncGUnUSR7PKsGubVMhxw) | 3:50 |
 | 45 | [Happiness Music](https://open.spotify.com/track/6GWHduNUqmAebZxm4X8P5H) | [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [Happiness Music](https://open.spotify.com/album/1ErGAm3H6h8vBOb4DPossx) | 3:55 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 60 | [Rewind](https://open.spotify.com/track/6wzMevey2rDXo0e1POZ67m) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Rewind](https://open.spotify.com/album/5o3lrb6NCyEJT65AnSmV3N) | 3:30 |
 | 61 | [yoyo](https://open.spotify.com/track/6DNVY8fSGfbK28aO0qhIbG) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [about dancing](https://open.spotify.com/album/3w7vFCsg2T4ft0HjvoDTdy) | 2:37 |
 | 62 | [Night Time \- Bad Milk Remix](https://open.spotify.com/track/4NFRVdkss14n6jEJ40fUKZ) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa), [Bad Milk](https://open.spotify.com/artist/68pfAx9ScJhEfTjrEmiM8X) | [Night Time \(Bad Milk Remix\)](https://open.spotify.com/album/5egZEVizf7vaTBvW3hpjny) | 2:16 |
-| 63 | [Heaven In My Hands](https://open.spotify.com/track/77Urs5XQD97xIZJpM2CAvH) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Heaven In My Hands](https://open.spotify.com/album/63P266OfrTRSAuKmgttjkl) | 2:47 |
+| 63 | [Heaven In My Hands](https://open.spotify.com/track/77Urs5XQD97xIZJpM2CAvH) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Heaven In My Hands](https://open.spotify.com/album/63P266OfrTRSAuKmgttjkl) | 2:53 |
 | 64 | [BOOTS](https://open.spotify.com/track/4bucHejFAjKuMAQ4bU8fqg) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [BOOTS](https://open.spotify.com/album/0h2VDVB4yE4JTdTKeUL7Bu) | 3:19 |
 | 65 | [Long Showers](https://open.spotify.com/track/0qPzW9Iw83pOTlC8mgwxkT) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt) | [Long Showers](https://open.spotify.com/album/1cRvi0fnHNZ1g29at4aDr5) | 3:27 |
 | 66 | [Niji No Mukou E](https://open.spotify.com/track/178leBHkT0XYyjzQRwc6Jp) | [Ayaka Hirahara](https://open.spotify.com/artist/0AzJGufY9eXWy5wHZWQ71H) | [Niji No Mukou E](https://open.spotify.com/album/5DFWKAdSU5FoYg86y2znUB) | 3:44 |

@@ -4,7 +4,7 @@
 
 > \#SadCuhHour gems 🥀🥹
 
-416 songs - 23 hr 44 min
+417 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Eres Tu / </3](https://open.spotify.com/track/1gmsRzmvvfstrm9etnz1HL) | [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Eres Tu / </3](https://open.spotify.com/album/5cvzSX2TePn1YKX4UGDUFx) | 3:25 | 2022-02-04 | 2023-09-21 |
 | [Eres Tu / </3](https://open.spotify.com/track/4dhPazu6qCoo50c7bqq6IT) | [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Eres Tu / </3](https://open.spotify.com/album/6jnwwwk6qIVOmLRG6aCvDC) | 3:25 | 2023-07-28 | 2024-04-19 |
 | [Es Diferente](https://open.spotify.com/track/2jNBVmei23ag6hYbxiZr8A) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Es Diferente](https://open.spotify.com/album/1G4PFNNCrqMyZfkEynA0PG) | 4:03 | 2022-01-01 |  |
-| [Es Evidente](https://open.spotify.com/track/5rHZ4n6XYINvM87eXuYnQr) | [whathedgar](https://open.spotify.com/artist/5tO4Hf0EVv8MRtvJHgANcB), [Mauro](https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD) | [Es Evidente](https://open.spotify.com/album/1H61Sr61REYNpldH81EUaY) | 3:02 | 2024-05-06 |  |
+| [Es Evidente](https://open.spotify.com/track/5rHZ4n6XYINvM87eXuYnQr) | [whathedgar](https://open.spotify.com/artist/5tO4Hf0EVv8MRtvJHgANcB), [Mauro](https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD) | [Es Evidente](https://open.spotify.com/album/1H61Sr61REYNpldH81EUaY) | 3:02 | 2024-05-06 | 2024-11-09 |
 | [Esperame](https://open.spotify.com/track/4JZ6TlJAHOAVhhvUypHbAp) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Esperame](https://open.spotify.com/album/32HFOEzM0W03ARo1WJglEg) | 3:00 | 2022-07-22 |  |
 | [Esta noche](https://open.spotify.com/track/1nXvx83hxoYItv0S5ZGeNP) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 3:18 | 2022-01-01 |  |
 | [Esta Noche](https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:09 | 2022-07-22 |  |
@@ -234,6 +234,7 @@
 | [No Eres La Oficial](https://open.spotify.com/track/7qWvY6pXosRyh86pGKhXr5) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU) | [No Eres La Oficial](https://open.spotify.com/album/7AjLQs5QZBduKDXxb8lYwh) | 3:20 | 2022-07-22 | 2024-04-19 |
 | [No Está Funcionando](https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [No Está Funcionando](https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU) | 2:41 | 2024-04-12 |  |
 | [No Fuimos Nada](https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [No Fuimos Nada](https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz) | 3:02 | 2023-01-25 | 2023-02-28 |
+| [No Funcionó](https://open.spotify.com/track/7xJ1pW2V2Cj4dLl3iTvm1F) | [Mauricio Flores](https://open.spotify.com/artist/1TrsOYuLoKesPD9T231y35) | [No Funcionó](https://open.spotify.com/album/3XKKQTOH2a7tahTJSetqYJ) | 3:03 | 2024-11-08 |  |
 | [No Me Buscas](https://open.spotify.com/track/7Jgh8una8MqHfVe0qGpYZX) | [Designó](https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4) | [Innovando](https://open.spotify.com/album/7AJch1i0acEtyN5mFnqjc6) | 3:03 | 2022-01-01 | 2022-07-22 |
 | [No Me Quise Ir](https://open.spotify.com/track/2JltnZUDzrxKuwNjkK5N6Q) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:30 | 2022-07-22 | 2023-05-02 |
 | [NO SE VA](https://open.spotify.com/track/15zTvIhkmoEiCJU1dcagkd) | [juanitoo2x](https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf) | [NO SE VA](https://open.spotify.com/album/5z76Ks0UDPdGBXNwDbd3X4) | 4:11 | 2023-02-24 |  |

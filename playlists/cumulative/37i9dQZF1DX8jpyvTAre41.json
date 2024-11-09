@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best rock songs of the moment. Cover: Linkin Park",
+  "description": "The best rock songs of the moment. Cover: EKKSTACY",
   "name": "Rock Now",
   "tracks": [
     {
@@ -32,6 +32,24 @@
       "duration_ms": 200093,
       "name": "$20",
       "url": "https://open.spotify.com/track/6KHYVC9avWQMH40pidRtcG"
+    },
+    {
+      "album": {
+        "name": "100 Degrees",
+        "url": "https://open.spotify.com/album/1Yx2NorrAg3auH9tYe2um3"
+      },
+      "artists": [
+        {
+          "name": "Texas King",
+          "url": "https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203561,
+      "name": "100 Degrees",
+      "url": "https://open.spotify.com/track/773oqlClXHqiUUYNLSfnmD"
     },
     {
       "album": {
@@ -2322,7 +2340,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 163453,
       "name": "breakdown.",
       "url": "https://open.spotify.com/track/3a4PdwwaddhYbZnp0lxqyz"
@@ -2434,6 +2452,24 @@
       "duration_ms": 201533,
       "name": "Broken Man",
       "url": "https://open.spotify.com/track/1kgLXgHrXecZyRCDROfAPb"
+    },
+    {
+      "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/2u7rEzuOyVV1QOPFxxFqnA"
+      },
+      "artists": [
+        {
+          "name": "Flycatcher",
+          "url": "https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176981,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5"
     },
     {
       "album": {
@@ -7300,7 +7336,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 156780,
       "name": "Hook Me Up",
       "url": "https://open.spotify.com/track/2nfEfck7QjgGw0ZmR6W7BB"
@@ -8879,7 +8915,7 @@
       "artists": [
         {
           "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "url": "https://open.spotify.com/artist/0MosRqpk3OZXYV91A1vSEn"
         },
         {
           "name": "Declan McKenna",
@@ -10852,7 +10888,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 132533,
       "name": "mr. mole",
       "url": "https://open.spotify.com/track/4cM821CD4u0mHo0mWTWiYQ"
@@ -12282,7 +12318,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 172500,
       "name": "Outta My Head",
       "url": "https://open.spotify.com/track/3NcheXileql4RI8n6sLumL"
@@ -13130,6 +13166,24 @@
       "duration_ms": 151881,
       "name": "Push and Shove",
       "url": "https://open.spotify.com/track/2YK8RnQAEHgpgNk8yXi1VC"
+    },
+    {
+      "album": {
+        "name": "Up To Here (Deluxe)",
+        "url": "https://open.spotify.com/album/5548ROx9ZxjJ2iXCq9DLI6"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215060,
+      "name": "Rain, Hearts And Fire",
+      "url": "https://open.spotify.com/track/7p1npRNbFIXcYcNc02K2rm"
     },
     {
       "album": {
@@ -14076,6 +14130,24 @@
       "duration_ms": 172339,
       "name": "Serial Killer",
       "url": "https://open.spotify.com/track/5WymYiS89VAeXdzMmHwcLa"
+    },
+    {
+      "album": {
+        "name": "seventeen",
+        "url": "https://open.spotify.com/album/1tzd5ftXur0C44WJA86auY"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219266,
+      "name": "seventeen",
+      "url": "https://open.spotify.com/track/1wJUVM97tEquQtyuwmAE9B"
     },
     {
       "album": {
@@ -16769,6 +16841,24 @@
     },
     {
       "album": {
+        "name": "Thinkin' Bout Love",
+        "url": "https://open.spotify.com/album/6jRK3mBWECxXDaXP2fgrS9"
+      },
+      "artists": [
+        {
+          "name": "Harm & Ease",
+          "url": "https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171384,
+      "name": "Thinkin' Bout Love",
+      "url": "https://open.spotify.com/track/53M1YXcWQVLtEyCcaR5dkN"
+    },
+    {
+      "album": {
         "name": "This Is Why",
         "url": "https://open.spotify.com/album/1BDj5lr0KVcSQpSNdyqJct"
       },
@@ -17676,7 +17766,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 249994,
       "name": "Wait So Long",
       "url": "https://open.spotify.com/track/4hi07BHBhWkgDNws5Kbbq8"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The home for heavy music. Cover: Split Chain",
+  "description": "The home for heavy music. Cover: Malevolence",
   "name": "The Pit",
   "tracks": [
     {
@@ -158,6 +158,24 @@
       "duration_ms": 211485,
       "name": "A Kiss for the Whole World x",
       "url": "https://open.spotify.com/track/1LAuVHMWdVkdbNmSVXWw2K"
+    },
+    {
+      "album": {
+        "name": "Heaven Let Them Die",
+        "url": "https://open.spotify.com/album/6Z0M0d8DCy1RjO0G91zrr7"
+      },
+      "artists": [
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220933,
+      "name": "A Martyr Left Alive",
+      "url": "https://open.spotify.com/track/5qKd0ISYELSquDcuD0DDxf"
     },
     {
       "album": {
@@ -2010,6 +2028,24 @@
       "duration_ms": 165557,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt"
+    },
+    {
+      "album": {
+        "name": "Shadowlight",
+        "url": "https://open.spotify.com/album/68dh3KwPvAvRVpuG0Jx7u4"
+      },
+      "artists": [
+        {
+          "name": "Defences",
+          "url": "https://open.spotify.com/artist/6M3IxScP80lP27UNxjrMJv"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217669,
+      "name": "Ego (Maniac)",
+      "url": "https://open.spotify.com/track/4FpAkBPkcL2U2jvdnQwUdL"
     },
     {
       "album": {
@@ -4225,6 +4261,48 @@
     },
     {
       "album": {
+        "name": "Loosely Aware",
+        "url": "https://open.spotify.com/album/45QoTWB2NlZpMrrpLSjuy8"
+      },
+      "artists": [
+        {
+          "name": "Sol Invicto",
+          "url": "https://open.spotify.com/artist/5dyPWLr4wOvR1d6tSSVgrv"
+        },
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/5g6MeOHOenBIm8tyVjRfwQ"
+        },
+        {
+          "name": "SikTh",
+          "url": "https://open.spotify.com/artist/03mz3G1gu1GPNgAWY4qR2w"
+        },
+        {
+          "name": "Stephen Carpenter (of Deftones)",
+          "url": "https://open.spotify.com/artist/1culxorWJ7asjQIHf9RSzs"
+        },
+        {
+          "name": "Technical Itch",
+          "url": "https://open.spotify.com/artist/0KRqdhJSmE5uVSJ2SyDpRZ"
+        },
+        {
+          "name": "Richie Londres",
+          "url": "https://open.spotify.com/artist/38ZoSddjoRbcCcEXyqdWIj"
+        },
+        {
+          "name": "Plague To Pyres",
+          "url": "https://open.spotify.com/artist/3UEuTog3sQ7Dt3mTv0bsEo"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307974,
+      "name": "Lost In Translation",
+      "url": "https://open.spotify.com/track/4H78441VLOCuzkSHldIgJN"
+    },
+    {
+      "album": {
         "name": "Sanguivore Special Edition",
         "url": "https://open.spotify.com/album/6Jqw7LKE3lEkc5GTEFrjNf"
       },
@@ -4346,6 +4424,46 @@
       "duration_ms": 200500,
       "name": "Lye solution (feat. Loathe, BVDLVD & Hail The Sun)",
       "url": "https://open.spotify.com/track/7tRZ9xUlwdpEkRyew9Sk5v"
+    },
+    {
+      "album": {
+        "name": "M.O.N.S.T.E.R",
+        "url": "https://open.spotify.com/album/2JGSSMxecWt7iAVsAN9asn"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216116,
+      "name": "M.O.N.S.T.E.R",
+      "url": "https://open.spotify.com/track/4LGn1Irqotkdak6ZoRuTHt"
+    },
+    {
+      "album": {
+        "name": "MAD (feat. Ice Nine Kills)",
+        "url": "https://open.spotify.com/album/1cq46UBmCPIp95rPFpW82j"
+      },
+      "artists": [
+        {
+          "name": "TX2",
+          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198393,
+      "name": "MAD (feat. Ice Nine Kills)",
+      "url": "https://open.spotify.com/track/7EP3LwGH0bAhDuupm4xspD"
     },
     {
       "album": {
@@ -6319,6 +6437,24 @@
     },
     {
       "album": {
+        "name": "Vol. 3",
+        "url": "https://open.spotify.com/album/0BWnYKF4PdH5ehk7oQU9W5"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217830,
+      "name": "Spare Me",
+      "url": "https://open.spotify.com/track/04NfX1qK7HBIzejYQhj6qn"
+    },
+    {
+      "album": {
         "name": "Speech Patterns",
         "url": "https://open.spotify.com/album/6TZzdquYz6LlNEiF5SlCAJ"
       },
@@ -7499,6 +7635,24 @@
     },
     {
       "album": {
+        "name": "Trenches",
+        "url": "https://open.spotify.com/album/0K2gvxHs9aFSRgcdFKlamt"
+      },
+      "artists": [
+        {
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196715,
+      "name": "Trenches",
+      "url": "https://open.spotify.com/track/6R2iQXWS7CfK2TPjtlfI0c"
+    },
+    {
+      "album": {
         "name": "Turn It Up (Keyboard Warriors Social Club)",
         "url": "https://open.spotify.com/album/4NFy4DOMmDAdtoW3Ep5EtO"
       },
@@ -7669,6 +7823,24 @@
     },
     {
       "album": {
+        "name": "Victim",
+        "url": "https://open.spotify.com/album/57iJrD3IJIynpbTsYLS44t"
+      },
+      "artists": [
+        {
+          "name": "Fellowship",
+          "url": "https://open.spotify.com/artist/3WDqn7WBcRoRE1IpEWNf3E"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323253,
+      "name": "Victim",
+      "url": "https://open.spotify.com/track/0v7DR3z9EBY3KklX1BfKbj"
+    },
+    {
+      "album": {
         "name": "Villain Arc",
         "url": "https://open.spotify.com/album/4jIawPzpjpvNP1si80d0C8"
       },
@@ -7828,6 +8000,24 @@
       "duration_ms": 182449,
       "name": "We Are The Rest",
       "url": "https://open.spotify.com/track/1c206nIhscBrNMXM2b5Jfw"
+    },
+    {
+      "album": {
+        "name": "We Could Be Heaven",
+        "url": "https://open.spotify.com/album/6olZb6eZFBI9xpmPDAwqOR"
+      },
+      "artists": [
+        {
+          "name": "Blood Command",
+          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168227,
+      "name": "We Could Be Heaven",
+      "url": "https://open.spotify.com/track/7qsCOBgSNp8SOOV9UfHnJD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA
 
-505 songs - 1 day 1 hr 55 min
+506 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [counting houses](https://open.spotify.com/track/6MFZUAPmeiF9cm8tSspED7) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [counting houses](https://open.spotify.com/album/1BuceFtRvKhtzYfteVYEV5) | 3:20 | 2022-03-25 | 2022-04-02 |
 | [Cry About It Later \(feat\. Luísa Sonza & Bruno Martini\)](https://open.spotify.com/track/43WYPxyEfIxlIjNlxQGYzc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Cry About It Later \(feat\. Luísa Sonza & Bruno Martini\)](https://open.spotify.com/album/6a74WD13saUvUB52D62NV0) | 2:39 | 2022-02-18 | 2022-07-29 |
 | [Cry Over Boys](https://open.spotify.com/track/218q4fCmVERKhXEZDr6g4P) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Cry Over Boys](https://open.spotify.com/album/6hEdISwurRTZlHPsyQhYy6) | 2:50 | 2022-04-08 | 2022-04-15 |
+| [Curva da Ladeira](https://open.spotify.com/track/3b105vnZSjoCfyTgkWam4Z) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Curva da Ladeira](https://open.spotify.com/album/64Y6u9TmfUEhsBzWI2p6TP) | 3:00 | 2024-11-08 |  |
 | [CWJBHN](https://open.spotify.com/track/7tDaK0PgfzxD9TbCYCqU5Z) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV), [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [CWJBHN](https://open.spotify.com/album/3uWFyZKHePC51jpZCRGPqw) | 3:13 | 2022-03-25 | 2022-04-20 |
 | [Da Boca pra Dentro](https://open.spotify.com/track/3GceWIQyfaQijR7RvmYiXs) | [Marco Vilane](https://open.spotify.com/artist/2GtaJVqceVA6xEcFcUQAMD), [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Da Boca pra Dentro](https://open.spotify.com/album/57Qjw3ggl4NTPmDpqekUXY) | 3:45 | 2022-03-14 | 2022-07-29 |
 | [Daddy \(feat\. Quinn XCII\)](https://open.spotify.com/track/4pJzUvwU5ufYr8rLdQ6aYK) | [Tiny Meat Gang](https://open.spotify.com/artist/072QZuLtCqlAesYnOGY7lN), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Daddy \(feat\. Quinn XCII\)](https://open.spotify.com/album/4fRHBAVYfRzVkd9fBqoJLk) | 2:45 | 2022-03-25 | 2022-04-21 |
@@ -462,7 +463,7 @@
 | [Time I Love To Waste](https://open.spotify.com/track/0yQj6jvxjDYWkjZor9UezX) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Time I Love To Waste](https://open.spotify.com/album/6xS2tk8vwMQeCGZ8s8VJdV) | 3:17 | 2022-04-04 | 2022-04-11 |
 | [Time Machine](https://open.spotify.com/track/4vP1DbZq2mVdP5y3lI886c) | [AREA21](https://open.spotify.com/artist/76YIoWHp3Ri3q1ocOPtFzp) | [Greatest Hits Vol\. 1](https://open.spotify.com/album/30WNa86MJsrzTlki1YHI6A) | 2:46 | 2022-03-25 | 2022-04-19 |
 | [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 | 2022-03-25 | 2023-03-10 |
-| [Together](https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Together](https://open.spotify.com/album/4TM7wmWEakp4xk1ZffVkL8) | 3:25 | 2022-02-18 |  |
+| [Together](https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Together](https://open.spotify.com/album/4TM7wmWEakp4xk1ZffVkL8) | 3:25 | 2022-02-18 | 2024-11-09 |
 | [Tonight Tonight](https://open.spotify.com/track/1lk1AQ4NL2F5INzLcCWa1u) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 3:39 | 2022-04-04 | 2022-04-14 |
 | [Too Bad](https://open.spotify.com/track/1tghjqMyvWDXux1sBTZOXP) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [Too Bad](https://open.spotify.com/album/0V3Esite79c3ETQrSgIRZD) | 3:18 | 2022-02-18 | 2022-07-29 |
 | [Too Good To Lose](https://open.spotify.com/track/2bVFUcvr9QqZrywPZ3gHWu) | [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Too Good To Lose](https://open.spotify.com/album/607APLajSPnstmjb3kIsHI) | 2:51 | 2022-03-25 | 2022-04-19 |

@@ -1,13 +1,29 @@
 {
-  "description": "The best of today's funk. Cover: MonoNeon",
-  "num_followers": 334604,
+  "description": "The best of today's funk. Cover: Penthouse",
+  "num_followers": 334647,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyRSQAAAAABT14iwOQgghSQpigJE9Dtk",
+  "snapshot_id": "Zy2a0AAAAAAVGHsuNlpdJdybIV3QrrXU",
   "tracks": [
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Laundry",
+        "url": "https://open.spotify.com/album/5d5rFGyfo5zqc0GVfpvAqV"
+      },
+      "artists": [
+        {
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "Taxi to the Moon",
+      "url": "https://open.spotify.com/track/6kIRTIM9J1pxCPoRnZQOmG"
+    },
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
@@ -287,26 +303,6 @@
       "duration_ms": 177737,
       "name": "Vibes Alright",
       "url": "https://open.spotify.com/track/6ZtWV5Xnnj8Mowoc02JWB5"
-    },
-    {
-      "added_at": "2023-03-17 04:01:00",
-      "album": {
-        "name": "Feels This Good",
-        "url": "https://open.spotify.com/album/5r5Ogv4Wh21YmPEWRDIM4v"
-      },
-      "artists": [
-        {
-          "name": "Jon Mero",
-          "url": "https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf"
-        },
-        {
-          "name": "L\u00d2NIS",
-          "url": "https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm"
-        }
-      ],
-      "duration_ms": 132336,
-      "name": "Feels This Good",
-      "url": "https://open.spotify.com/track/14FHeL3ma1NPlSubNAiI61"
     },
     {
       "added_at": "2024-04-26 04:01:00",

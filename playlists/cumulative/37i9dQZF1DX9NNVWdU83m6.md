@@ -4,7 +4,7 @@
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-168 songs - 15 hr 19 min
+169 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Petrichor](https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw) | [St\. Barbe](https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v) | [Shapeless](https://open.spotify.com/album/0105AvGJRPBqCbzwk4pPzq) | 5:48 | 2021-01-29 |  |
 | [Philip](https://open.spotify.com/track/41tqllNwBvxWR4uf7kEnQ1) | [Jameszoo](https://open.spotify.com/artist/5qvYokMeJUfBYTqaUnegE8) | [Blind](https://open.spotify.com/album/6VUfuupSMlz8fQNEp1dO26) | 4:21 | 2022-03-11 |  |
 | [Planetary Prince](https://open.spotify.com/track/0RDPruYI8wmOrFTi3RMx6K) | [Cameron Graves](https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP) | [Planetary Prince](https://open.spotify.com/album/6lJJ95URcncW4mCDW0SEI0) | 8:06 | 2021-01-27 |  |
+| [Pliny the Elder](https://open.spotify.com/track/61sU0AWIRgHnjC1u7qLOtW) | [Spookey Ruben](https://open.spotify.com/artist/7qI2khlNiTuhGMVVaEWzlP), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO) | [Pliny the Elder](https://open.spotify.com/album/73O8SLcuOOT2phJERZnJOE) | 3:56 | 2024-11-08 |  |
 | [Pokemon Shock](https://open.spotify.com/track/7FSYGvZaIxTG30je5uSYGK) | [Ujig](https://open.spotify.com/artist/6bLZsknTPFOSpFJ6GY56rr) | [Ujigami](https://open.spotify.com/album/1jPq9kjKXqz1bpKgsNLkQz) | 5:46 | 2021-08-13 | 2024-04-19 |
 | [Pokémon Shock](https://open.spotify.com/track/2kps9ODbIyKaXAMMf9rNdh) | [Ujig](https://open.spotify.com/artist/6bLZsknTPFOSpFJ6GY56rr) | [Pokémon Shock](https://open.spotify.com/album/4fp0b0F4wKWSKCuAnUbzKO) | 5:44 | 2021-07-30 |  |
 | [Propellerhäst](https://open.spotify.com/track/7mJ6y6rdy1ivTFp4TceFkd) | [Mats/Morgan](https://open.spotify.com/artist/5GnnGx8nwrkvbrrV5rkrL7) | [Thanks for Flying With Us](https://open.spotify.com/album/2ZfTBHRDuwTripKsNZzkKN) | 3:52 | 2022-03-11 | 2024-04-19 |

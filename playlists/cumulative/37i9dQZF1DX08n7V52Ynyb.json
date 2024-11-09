@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 366200,
       "name": "I Loves You, Porgy",
       "url": "https://open.spotify.com/track/0sXqm4fPFlsvQFg7YVzrHE"
@@ -3146,6 +3146,24 @@
       "duration_ms": 285306,
       "name": "Perhaps You'll Wonder Why",
       "url": "https://open.spotify.com/track/3iJDdT5rSv6SAY5W21PHsp"
+    },
+    {
+      "album": {
+        "name": "She's Not Shiny, She\u2019s Not Smooth",
+        "url": "https://open.spotify.com/album/4WBSsRF7rfr2uHzgJoP0JA"
+      },
+      "artists": [
+        {
+          "name": "Vanisha Gould",
+          "url": "https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286533,
+      "name": "Real Estate Agent Love Song",
+      "url": "https://open.spotify.com/track/6yaMzZVhbnfUTZFACcNGSf"
     },
     {
       "album": {

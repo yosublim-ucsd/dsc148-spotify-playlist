@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Joe Bonamassa",
-  "num_followers": 222646,
+  "num_followers": 222719,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxsXwAAAAACgpkH3Ggv5oQEg5ltNpw4e",
+  "snapshot_id": "Zy2a0AAAAAD7Q+Xq/t8zOCDD3dKvbHtF",
   "tracks": [
     {
       "added_at": "2024-10-25 04:00:00",
@@ -23,6 +23,26 @@
       "duration_ms": 246351,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/04GLIP00vRsOHC6m7P6Cps"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Blues Is Still Alive",
+        "url": "https://open.spotify.com/album/3O6B52e8n83PbZAU8CkSWS"
+      },
+      "artists": [
+        {
+          "name": "Will Wilde",
+          "url": "https://open.spotify.com/artist/6fsn6olrgMI77G29E5B0OZ"
+        },
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "duration_ms": 329466,
+      "name": "Blues Is Still Alive",
+      "url": "https://open.spotify.com/track/65JFEj7OsgvyTZ89Y4DiRV"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1459,22 +1479,6 @@
       "duration_ms": 294546,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/4bmA9Hd5F2u9MvnewudhjB"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "A Deeper Cut",
-        "url": "https://open.spotify.com/album/081mWFWjZU1Dyl2RspScxV"
-      },
-      "artists": [
-        {
-          "name": "The Temperance Movement",
-          "url": "https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "Love and Devotion",
-      "url": "https://open.spotify.com/track/4VhujOlgo1NtVfXQkxwPaP"
     },
     {
       "added_at": "2020-10-16 04:02:00",

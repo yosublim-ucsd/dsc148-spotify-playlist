@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: lullaboy, Benjamin Kheng
 
-13,175 songs - 30 day 1 hr 37 min
+13,176 songs - 30 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7023,6 +7023,7 @@
 | [Midnight Train](https://open.spotify.com/track/1AWvfGBiJQ6GV5Va0dS0es) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Henge](https://open.spotify.com/album/0B9BY82cIWo4DjRMkUOeeW) | 3:26 | 2023-07-06 | 2023-07-14 |
 | [MIDORI](https://open.spotify.com/track/5HRo1mxlNXFL3mlATjHvop) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [MIDORI](https://open.spotify.com/album/1V6P2Xzjkdet2ZJVXlBScb) | 2:55 | 2023-10-26 | 2023-11-03 |
 | [Might Ruin Christmas](https://open.spotify.com/track/4ySQAwFvKldxXphT7VdoQt) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Might Ruin Christmas](https://open.spotify.com/album/1hJBU4t7IAFrHRG9qQeLHZ) | 2:39 | 2023-11-16 | 2023-11-24 |
+| [Mikael](https://open.spotify.com/track/3DOq3iCt2I1X9cPAWdWGXB) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [Mikael](https://open.spotify.com/album/0bYXowGjv2zW5QN2nyvuO0) | 4:25 | 2024-11-07 |  |
 | [Mike \(desert island duvet\)](https://open.spotify.com/track/6cqcmtaxNL7YCKKsuYAPJo) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Mike \(desert island duvet\)](https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa) | 4:24 | 2023-03-02 | 2023-03-10 |
 | [Mil Veces](https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Mil Veces](https://open.spotify.com/album/6BTWoZ4XMhTaLD547Mpc7S) | 2:34 | 2023-10-19 | 2023-10-27 |
 | [Mile Away](https://open.spotify.com/track/4ZwJ25jbonqnzlYTB89aQK) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Mile Away](https://open.spotify.com/album/3jWJ0eFI78vTuyZwNpZfrD) | 3:26 | 2024-04-11 | 2024-04-19 |

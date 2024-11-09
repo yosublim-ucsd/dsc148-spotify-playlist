@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: B Young
 
-[Spotify](https://open.spotify.com/user/spotify) - 984,167 likes - 91 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 984,154 likes - 91 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq) | 4:19 |
 | 2 | [Scary Movie](https://open.spotify.com/track/1ZOdwohDI1QsI8EWvhBf63) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Scary Movie](https://open.spotify.com/album/1Bp2KzA4iomlZO9yECfMnA) | 2:55 |
 | 3 | [SOBER](https://open.spotify.com/track/011Ml1UGGO7TxHzklnRTLy) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [ESC](https://open.spotify.com/album/4s0XNRusbQvskdQbu2SHcY) | 2:32 |
-| 4 | [One Of Them](https://open.spotify.com/track/6NLQOu4ScjSpun8yFJyJMo) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [One Of Them](https://open.spotify.com/album/5fEKE5MtAGoi4z6bEe8Rmo) | 3:39 |
+| 4 | [One Of Them](https://open.spotify.com/track/6NLQOu4ScjSpun8yFJyJMo) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [One Of Them](https://open.spotify.com/album/5fEKE5MtAGoi4z6bEe8Rmo) | 3:06 |
 | 5 | [YO](https://open.spotify.com/track/3x6x1N8AXvmmlrTAlqAR83) | [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q) | [YO](https://open.spotify.com/album/3r1nWyM1kvgkl6ePN58pzR) | 2:32 |
 | 6 | [Why Lie?](https://open.spotify.com/track/6NpWosxIza4XEiGk190FAy) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Why Lie?](https://open.spotify.com/album/3RD3gsfCLTxbDN4fsrQJDh) | 3:46 |
 | 7 | [What's Good](https://open.spotify.com/track/0K52iukajhD752PCMppUlj) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [What's Good](https://open.spotify.com/album/4KA3APAR2GLiaJSjAWN748) | 3:02 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: <a href=\"spotify:artist:3qfrrrSO7utFdJkM2tvMRb\"> CeCe Winans </a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: <a href=\"spotify:artist:6y7frW1RUq3XBBXbYowVpk\"> Chandler Moore </a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -818,6 +818,24 @@
       "duration_ms": 503126,
       "name": "Anyway - Live",
       "url": "https://open.spotify.com/track/3ywRNCMXyD0U9ihiDuifMi"
+    },
+    {
+      "album": {
+        "name": "Assurance",
+        "url": "https://open.spotify.com/album/3QW2rj6oQmCKkkTGKHsH6T"
+      },
+      "artists": [
+        {
+          "name": "Every Nation Music",
+          "url": "https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307201,
+      "name": "Assurance",
+      "url": "https://open.spotify.com/track/2c3QXk3TevN8r5MfgvtJhx"
     },
     {
       "album": {
@@ -3976,7 +3994,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 429986,
       "name": "Help Me - Live",
       "url": "https://open.spotify.com/track/2m7eTXWOfC19aMwK1dqUZP"
@@ -6021,6 +6039,24 @@
     },
     {
       "album": {
+        "name": "Chandler Moore: Live in Los Angeles",
+        "url": "https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V"
+      },
+      "artists": [
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461209,
+      "name": "Lead Me On - Live",
+      "url": "https://open.spotify.com/track/1BqBJvGZn8G7buagrQfmJP"
+    },
+    {
+      "album": {
         "name": "Let God In (Radio Edit)",
         "url": "https://open.spotify.com/album/54sNt8MUvMaIBp3lfGfHMS"
       },
@@ -6728,7 +6764,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 181124,
       "name": "MEANT FOR ME",
       "url": "https://open.spotify.com/track/42LGQOQoLCR81i6SRaTFnk"
@@ -7904,7 +7940,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 685340,
       "name": "Omemma - Live",
       "url": "https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59"
@@ -9356,6 +9392,24 @@
       "duration_ms": 347752,
       "name": "Something Has To Break (feat. Karen Clark Sheard)",
       "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
+    },
+    {
+      "album": {
+        "name": "Something Something",
+        "url": "https://open.spotify.com/album/5kWgxijc9fCkRjMSHBvimm"
+      },
+      "artists": [
+        {
+          "name": "RED Hands",
+          "url": "https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164247,
+      "name": "Something Something",
+      "url": "https://open.spotify.com/track/1hiwgBLMLKTBi3Vh1CQKLT"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Today's Indie Rock](https://open.spotify.com/playlist/37i9dQZF1DX30HHrCAl4ZG)
 
-> Explore all things indie rock right now\. Featuring music from Peach Pit
+> Explore all things indie rock right now\. Featuring music from Mk.gee
 
-1,683 songs - 3 day 21 hr 14 min
+1,687 songs - 3 day 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [85 Down PCH](https://open.spotify.com/track/3Jnrl4vtLB92b6DtopKwjY) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Double Superfine](https://open.spotify.com/album/0xdmCxyGcXL1yCbHQcLnwx) | 2:16 | 2022-11-18 | 2022-12-08 |
 | [90 to 99](https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [What's The Point](https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD) | 2:49 | 2024-05-31 | 2024-08-31 |
 | [90s American Superstar](https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [90s American Superstar](https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc) | 2:19 | 2022-04-08 | 2022-07-30 |
+| [A Devil's Bargain](https://open.spotify.com/track/1ys95O32loVP4m9Duxx8eU) | [Camel Power Club](https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG) | [A Devil's Bargain](https://open.spotify.com/album/04tz6gR2GqUuugHoWjJaNu) | 3:25 | 2024-11-08 |  |
 | [a long december](https://open.spotify.com/track/6AJUq174xQvhXvRLbLvFml) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [a long december](https://open.spotify.com/album/4BEcYq7POg39BXzScVb4qE) | 4:11 | 2022-01-28 | 2022-05-29 |
 | [A lot to explain](https://open.spotify.com/track/4ELXy9Lkc6SF9L4ZuzX8aU) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [A lot to explain](https://open.spotify.com/album/12N1jOVHxOp7dw5TnwMvbD) | 2:13 | 2023-03-24 | 2023-06-24 |
 | [A Love International](https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A Love International](https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9) | 4:15 | 2024-01-19 | 2024-02-24 |
@@ -614,6 +615,7 @@
 | [Give It](https://open.spotify.com/track/5gV1v495WPyidjOxgxUQ9x) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9), [Nico Days](https://open.spotify.com/artist/0svVmptxEtCoEJfcPKxCCh) | [Auto Destroy](https://open.spotify.com/album/1m4PS8sFJTSLXJ60FJhlal) | 1:53 | 2023-10-27 | 2024-02-10 |
 | [Give It Back to Me](https://open.spotify.com/track/5XdQJhxNoH6XCKMqjp8ibG) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Give It Back to Me](https://open.spotify.com/album/0YRdgQKM1I5xEThuYDMPq0) | 4:22 | 2024-02-16 | 2024-03-16 |
 | [Give It Up To Love](https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Somebody's Child](https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8) | 3:13 | 2023-02-10 | 2023-04-09 |
+| [Give My Heart](https://open.spotify.com/track/3mjyXZRQIEe6BuarfoJUDK) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Give My Heart](https://open.spotify.com/album/0OX6i6iw4HTmBxfsnAHL7F) | 3:27 | 2024-11-08 |  |
 | [Give Up Baby Go](https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 4:17 | 2022-03-04 | 2023-04-01 |
 | [Giving Up](https://open.spotify.com/track/1MDkdfWPIaV4YZ2vnJyDB7) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Giving Up](https://open.spotify.com/album/6CAtz3dRGq2NS42PdqieCf) | 3:14 | 2024-08-16 | 2024-10-19 |
 | [Glimpse](https://open.spotify.com/track/0aGJkwtYb5DAJjpIAZ8lmZ) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Glimpse](https://open.spotify.com/album/4hsNAPEzpwXvXM8IzpEtmm) | 3:16 | 2024-09-06 |  |
@@ -851,7 +853,7 @@
 | [Ladybird](https://open.spotify.com/track/4GV1kncKBl0pogThe5TQOA) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Ladybird](https://open.spotify.com/album/0octvifCjPh0TfKySJ8UXs) | 4:05 | 2021-10-29 | 2022-06-03 |
 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 | 2021-06-07 | 2022-04-15 |
 | [last july](https://open.spotify.com/track/3u2WHtkxMtqkzLK5y9jmlv) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [last july](https://open.spotify.com/album/79q3dWxhazRzgefiXmDY5v) | 3:46 | 2022-01-28 | 2022-04-20 |
-| [Late To The Party \(feat\. Declan McKenna\)](https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Late To The Party \(feat\. Declan McKenna\)](https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY) | 3:35 | 2024-08-30 |  |
+| [Late To The Party \(feat\. Declan McKenna\)](https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0) | [Orla Gartland](https://open.spotify.com/artist/0MosRqpk3OZXYV91A1vSEn), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Late To The Party \(feat\. Declan McKenna\)](https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY) | 3:35 | 2024-08-30 |  |
 | [Lately](https://open.spotify.com/track/6iw3NfFyPpp9sQuuHhRhls) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Lately](https://open.spotify.com/album/1xnvzjGkz4iR6x8KOad9mM) | 2:28 | 2021-08-27 | 2022-04-21 |
 | [Laugh](https://open.spotify.com/track/1KFiQ4QHDouaNd0Yo5Qq7S) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [Live Laugh Love](https://open.spotify.com/album/4YnYmg51rAmk9HVjTkg8yx) | 5:15 | 2024-03-29 | 2024-06-29 |
 | [Laura \(feat\. Remo Drive\)](https://open.spotify.com/track/641GXCVvbYOfstD2mJRQa3) | [Wormy](https://open.spotify.com/artist/7tdmyWI7sZC48UZmOity9Z), [Remo Drive](https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv) | [Laura \(feat\. Remo Drive\)](https://open.spotify.com/album/0fsIKo7CKxRxzR34aDeQhS) | 3:54 | 2022-03-22 | 2022-04-29 |
@@ -949,6 +951,7 @@
 | [Marvelous](https://open.spotify.com/track/5wkEdciZkVGiasumRPReSV) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Tell Me That It’s Over](https://open.spotify.com/album/5L6fAzbz2x5oF8l0qluSKm) | 2:22 | 2022-03-22 | 2023-09-30 |
 | [Mass Appeal](https://open.spotify.com/track/2xj5J9KdJbFmm5xBB3XjNa) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Mass Appeal](https://open.spotify.com/album/7dBolAe90rVym89PAg9iWm) | 3:23 | 2022-04-01 | 2022-04-19 |
 | [Matador](https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Matador](https://open.spotify.com/album/1ADdB9S5nwi0sM35WYzIGi) | 3:16 | 2022-10-07 | 2022-11-12 |
+| [matter](https://open.spotify.com/track/4iDxcTqrjvAZVzJQp6Vhov) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [the side\-effects of living in a fantasy](https://open.spotify.com/album/0ng21MzkTevZ3JfDUiehKh) | 3:05 | 2024-11-08 |  |
 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 | 2024-02-23 | 2024-04-06 |
 | [Maybe](https://open.spotify.com/track/2WharvxRQJWtEF8dcf7qkz) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Maybe](https://open.spotify.com/album/2XtDVJNzLpqWD1KpzgePzb) | 3:00 | 2021-10-22 | 2022-06-11 |
 | [Maybe Love](https://open.spotify.com/track/4chYGJ4RxKLpW5DqrYu93f) | [Maz](https://open.spotify.com/artist/0Co1iSj5JPAHPnyPBynYpr) | [Maybe Love](https://open.spotify.com/album/4YSQjDdAxbWbuZNwU36BUT) | 2:38 | 2022-11-18 | 2022-12-13 |
@@ -1216,7 +1219,7 @@
 | [Rockaway](https://open.spotify.com/track/3Mc1wHPrWcXiLeokUZ3Oab) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Five Easy Hot Dogs](https://open.spotify.com/album/2Ao4brMpPgMyyuh9dPK4oK) | 2:06 | 2023-01-20 | 2023-04-01 |
 | [Rocket Ship](https://open.spotify.com/track/3PMX4mU6uGEVtdEufrChcQ) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Rocket Ship](https://open.spotify.com/album/7xytf2QWXPKWqI0FhAAUSW) | 1:43 | 2023-04-14 | 2023-07-01 |
 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 | 2024-10-18 |  |
-| [Rodeo Clown](https://open.spotify.com/track/1x1z2qHf13S4nD4ozEEH02) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Rodeo Clown](https://open.spotify.com/album/6YNY1oQOY3NjjKHvKM5wIm) | 3:21 | 2024-09-27 |  |
+| [Rodeo Clown](https://open.spotify.com/track/1x1z2qHf13S4nD4ozEEH02) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Rodeo Clown](https://open.spotify.com/album/6YNY1oQOY3NjjKHvKM5wIm) | 3:21 | 2024-09-27 | 2024-11-09 |
 | [Roly Poly](https://open.spotify.com/track/7uqvt9TCztQgtyQZoQdjrF) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 2:36 | 2023-07-21 | 2023-12-02 |
 | [rom com 2004](https://open.spotify.com/track/3q49241UYPoz4kfG2czJno) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [rom com 2004](https://open.spotify.com/album/3q1oMpbkdldxAeiuNc74lq) | 2:53 | 2021-07-19 | 2022-04-10 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-23 | 2023-03-04 |
@@ -1683,6 +1686,7 @@
 | [you don't think about me](https://open.spotify.com/track/7zYgEjgM8wp0m1e3qsFFDS) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [you don't think about me](https://open.spotify.com/album/1kRSZ6Zcq9hNba4h7PWwMi) | 3:33 | 2023-03-31 | 2023-06-10 |
 | [You Know What You’ve Done](https://open.spotify.com/track/1QfSvXdSRc57B7eYGeYL3O) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [You Know What You’ve Done](https://open.spotify.com/album/0uNeiIPK89sNKkleeuljRp) | 3:11 | 2024-01-19 | 2024-01-27 |
 | [You Lose!](https://open.spotify.com/track/6b39rpIiepKunZyFHwugZQ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [You Lose!](https://open.spotify.com/album/2G1sZOFy7ReEHTLgpY5wzh) | 3:24 | 2021-09-17 | 2022-01-22 |
+| [You Resemble Everything](https://open.spotify.com/track/6F8bla4C7O8JvA2J0OuSt7) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [You Resemble Everything](https://open.spotify.com/album/7KMmDgFmwClaHFUugRQdx5) | 3:44 | 2024-11-08 |  |
 | [You Won't](https://open.spotify.com/track/2G8oGywOTdmVsxq7BEJWU6) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:59 | 2021-06-07 | 2022-02-11 |
 | [Your Desire in Food](https://open.spotify.com/track/22DaMb0Q6nde3ozb2qMDYl) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Your Desire in Food](https://open.spotify.com/album/4D3NdHKmSqcO1aOrt3UgoT) | 4:23 | 2024-04-19 | 2024-05-18 |
 | [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 | 2021-06-11 | 2022-04-14 |

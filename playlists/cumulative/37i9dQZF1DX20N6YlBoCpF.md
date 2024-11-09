@@ -4,7 +4,7 @@
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ?si=wUNYIxQUS9OVGCr6nIqucw">Jemma Catherine</a>
 
-1,321 songs - 3 day 1 hr 54 min
+1,322 songs - 3 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1222,6 +1222,7 @@
 | [Vir Ewig](https://open.spotify.com/track/4duchzNuzguXiPND75nVGr) | [William Wolf](https://open.spotify.com/artist/3QwFyw3JPeW3U1TJrtadaY) | [Vir Ewig](https://open.spotify.com/album/6vFklUu7QaerJHZdwOjpXZ) | 3:54 | 2023-08-31 | 2023-09-15 |
 | [Vir Ewig \- Demo](https://open.spotify.com/track/7dbPVcEE62FWLewWZydaNm) | [William Wolf](https://open.spotify.com/artist/3QwFyw3JPeW3U1TJrtadaY) | [Vir Ewig \(Demo\)](https://open.spotify.com/album/0Y1j9EweWRg5iuXOsd7akd) | 4:06 | 2023-11-30 | 2023-12-15 |
 | [Vir Ewig \- Remix](https://open.spotify.com/track/5DtLn9gPXBFIaioasGsQ69) | [Pretorius](https://open.spotify.com/artist/6OlAKyXaSPw7M5ivaVpC5G), [Van Pletzen](https://open.spotify.com/artist/6MEX9825O6QZ1EwYG4j9re), [Janie Bay](https://open.spotify.com/artist/2CO7XVIVjUidXIkBHfz3XM) | [Vir Ewig \(Remix\)](https://open.spotify.com/album/00N2OuAA8OypfaEYUptmys) | 3:13 | 2024-04-11 | 2024-06-01 |
+| [Vir Ewig By My](https://open.spotify.com/track/2WipXfRRJFA2PBYetGDfjn) | [Ou Tekkies](https://open.spotify.com/artist/2uUXZoTBe7AQhZ9kVAaPOb) | [Vir Ewig By My](https://open.spotify.com/album/7rlrN7DJE7Kssp61osifP6) | 3:36 | 2024-11-08 |  |
 | [Vir Ewig en Altyd](https://open.spotify.com/track/6WhpIgEboxa7JfKDS3swnl) | [Triveno](https://open.spotify.com/artist/3EpSGApcaLz4JbTrDNyyYV) | [Vir Ewig en Altyd](https://open.spotify.com/album/5s7BYP7FWFjjHghDOsgVxe) | 2:53 | 2024-08-01 | 2024-08-09 |
 | [Vir Jou, Oor Jou](https://open.spotify.com/track/0f8ss3ShpCofmMfByQM52e) | [Tino](https://open.spotify.com/artist/2WPBTmVoNyQTylZiz2zu36) | [Vir Jou, Oor Jou](https://open.spotify.com/album/3C6tIq3KJKQg11RdmTdTSV) | 4:11 | 2024-05-30 | 2024-09-27 |
 | [Vir Mekaar](https://open.spotify.com/track/6Ux5WDXiQbUgjN4bTsAmp5) | [Christiaan Baartman](https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ) | [Vir Mekaar](https://open.spotify.com/album/167uib7ckxEtvGvyLo5H2s) | 3:48 | 2023-11-09 | 2023-11-24 |

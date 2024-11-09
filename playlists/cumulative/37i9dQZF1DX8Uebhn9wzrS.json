@@ -1722,7 +1722,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 145781,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/45jbQ3dPOPRXrUfUnRwnCN"
@@ -10344,7 +10344,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 154838,
       "name": "elevate",
       "url": "https://open.spotify.com/track/116YArgZMwSpTDCahpTkx1"
@@ -11418,7 +11418,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 111546,
       "name": "Far Far Away",
       "url": "https://open.spotify.com/track/6SMu9pzCeYtNd5JBdmycQr"
@@ -18812,7 +18812,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 138196,
       "name": "Leaves Fallin'",
       "url": "https://open.spotify.com/track/5UcQZ8I3N17Yx8SkeHMcUG"
@@ -18866,7 +18866,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 158117,
       "name": "Lemon Gardens",
       "url": "https://open.spotify.com/track/3VChI6nBTxw1Jk7f5QRoGU"
@@ -20518,7 +20518,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 132263,
       "name": "lucid air",
       "url": "https://open.spotify.com/track/6suiglC9EEWunpmOkJagzj"
@@ -21388,7 +21388,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 113942,
       "name": "Matsuoka",
       "url": "https://open.spotify.com/track/4De868i8w6YZp48DsBLyCN"
@@ -21688,7 +21688,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 200052,
       "name": "Melted Sidewalk",
       "url": "https://open.spotify.com/track/0d4ZPBFr0vTDQcKj8sAVwt"
@@ -23520,7 +23520,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Nattchill",
       "url": "https://open.spotify.com/track/3fHa2jk3OL2KtLTAFk2qst"
@@ -24134,7 +24134,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 188000,
       "name": "nights go by",
       "url": "https://open.spotify.com/track/5TC2wrYzGhhr1wO7BSsGOA"
@@ -31008,7 +31008,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 92142,
       "name": "Since When",
       "url": "https://open.spotify.com/track/7d7y2JnDs6YyEF7615uW7E"
@@ -32807,6 +32807,24 @@
     },
     {
       "album": {
+        "name": "Stairs",
+        "url": "https://open.spotify.com/album/6QYTiFrXdW5rjyZqy2iJ7z"
+      },
+      "artists": [
+        {
+          "name": "only jo",
+          "url": "https://open.spotify.com/artist/5Pjr520HlwNPHWV0XRwmzP"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143835,
+      "name": "Stairs",
+      "url": "https://open.spotify.com/track/4D0cuc4SuRRv5v1tnoiesI"
+    },
+    {
+      "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/0UgvF75eu3fN9Gbp1RZ0IG"
       },
@@ -33712,7 +33730,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-31",
+      "date_removed": null,
       "duration_ms": 144093,
       "name": "Sunday (Nichiyoubi)",
       "url": "https://open.spotify.com/track/5LUlMNS5g88rz2SfAvG4ht"
@@ -34110,7 +34128,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 164166,
       "name": "sunset",
       "url": "https://open.spotify.com/track/1hYG93eKWeFzJlIZTOAVX9"
@@ -37324,7 +37342,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 108458,
       "name": "two be ok",
       "url": "https://open.spotify.com/track/3nX5fCaHebcf2Ct5LM80e0"
@@ -38154,7 +38172,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 170109,
       "name": "waiting",
       "url": "https://open.spotify.com/track/3gF4gVrbTHmkOYv5pi3YMU"

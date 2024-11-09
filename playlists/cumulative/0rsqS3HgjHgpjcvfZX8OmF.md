@@ -2,19 +2,20 @@
 
 ### [New Rock Music](https://open.spotify.com/playlist/0rsqS3HgjHgpjcvfZX8OmF)
 
-> The best and latest rock and alternative\. Cover: The Cure
+> The best and latest rock and alternative\. Cover: The Tragically Hip
 
-223 songs - 13 hr 6 min
+225 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$20](https://open.spotify.com/track/6KHYVC9avWQMH40pidRtcG) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:20 | 2023-11-03 | 2024-02-24 |
+| [100 Degrees](https://open.spotify.com/track/5xcDzy5JCRUlATPxZQJdvL) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [100 Degrees](https://open.spotify.com/album/4zxVx8GFAhFstTMEKa4jaq) | 3:23 | 2024-11-08 |  |
 | [17250](https://open.spotify.com/track/4RRHEpkrrYa0TkTEyTPUv7) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i care so much that i dont care at all](https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC) | 2:31 | 2023-11-03 | 2024-06-02 |
 | [A Fragile Thing](https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [A Fragile Thing](https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l) | 4:43 | 2024-10-18 |  |
 | [A Tear in Space \(Airlock\)](https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [A Tear in Space \(Airlock\)](https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J) | 3:23 | 2024-06-07 |  |
 | [About Me](https://open.spotify.com/track/51XoldrreNOGQzUshH9rxh) | [Ash Molloy](https://open.spotify.com/artist/7r9idpCLiq7S2KS1n5Fp7J) | [About Me](https://open.spotify.com/album/5nkdy20Ch1Y9tiUG7epzLd) | 3:22 | 2024-07-19 | 2024-08-03 |
 | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 | 2024-03-29 |  |
-| [Addicted to the Wicked & Twisted](https://open.spotify.com/track/0zGDTGavhrr5ADw7jt1uXV) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Death or Glory](https://open.spotify.com/album/0d057DHZkVhYZCDRrr1p5f) | 3:32 | 2024-09-03 |  |
+| [Addicted to the Wicked & Twisted](https://open.spotify.com/track/0zGDTGavhrr5ADw7jt1uXV) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Death or Glory](https://open.spotify.com/album/0d057DHZkVhYZCDRrr1p5f) | 3:32 | 2024-09-03 | 2024-11-09 |
 | [Afterlife](https://open.spotify.com/track/0mxw4ASEKtasJM6cSGPpmr) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [The Adventures Of Ben Blank](https://open.spotify.com/album/5RF39fpchz6q2u2l3DlXkS) | 3:33 | 2024-01-26 |  |
 | [All I Do](https://open.spotify.com/track/67wOIdJG6ErtSqsJ6gSvnN) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 3:41 | 2023-11-03 | 2024-04-20 |
 | [All I Ever Am](https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 5:21 | 2024-11-01 |  |
@@ -156,6 +157,7 @@
 | [Pretty Vicious](https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8) | 5:10 | 2024-01-26 | 2024-11-02 |
 | [Projection](https://open.spotify.com/track/3gCdkpqpaY4rxjKzViYjE7) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [Projection](https://open.spotify.com/album/7LU5eT7MANlvTJ1EDm8sey) | 3:48 | 2023-11-03 | 2024-01-27 |
 | [PSYCHO](https://open.spotify.com/track/1CwXFT3pDiMCPmvv3Ohfli) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [PSYCHO](https://open.spotify.com/album/453RlEBiL47ArcRDW2PwUd) | 3:18 | 2024-05-17 | 2024-07-13 |
+| [Rain, Hearts And Fire](https://open.spotify.com/track/7p1npRNbFIXcYcNc02K2rm) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Up To Here \(Deluxe\)](https://open.spotify.com/album/5548ROx9ZxjJ2iXCq9DLI6) | 3:35 | 2024-11-08 |  |
 | [Red Light](https://open.spotify.com/track/7n4rC8cbUnTl19y2L31Y7U) | [Basement Revolver](https://open.spotify.com/artist/2xaBaFw60ET6GJVxFLOc4s) | [Red Light](https://open.spotify.com/album/5vNtKyUbvXRy6BbZbxe3FS) | 2:39 | 2024-03-01 | 2024-06-08 |
 | [Ricochet](https://open.spotify.com/track/0JlqCj8qRtUSUsrMvVpszW) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [Ricochet](https://open.spotify.com/album/6DxrVhCsvW24hSrP94FZLQ) | 2:57 | 2023-11-03 | 2023-12-09 |
 | [rot in love](https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [why aren't you laughing?](https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh) | 4:13 | 2023-12-08 | 2024-04-27 |
@@ -214,7 +216,7 @@
 | [Under Your Wings](https://open.spotify.com/track/60jDBihAe1INnFWRCFgjUS) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:51 | 2024-02-02 | 2024-06-29 |
 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Up All Night](https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s) | 3:23 | 2024-11-01 |  |
 | [Vegas Strip](https://open.spotify.com/track/0OHPMrQooY9uyPDdO4HdSj) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Phantom Power \(Deluxe\)](https://open.spotify.com/album/1HSX49MRRoXiT8DCN2xTet) | 4:25 | 2023-11-03 | 2024-01-27 |
-| [Wait So Long](https://open.spotify.com/track/4hi07BHBhWkgDNws5Kbbq8) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Wait So Long](https://open.spotify.com/album/5h65lEQMzM7KNXChpEqeC4) | 4:09 | 2024-09-20 |  |
+| [Wait So Long](https://open.spotify.com/track/4hi07BHBhWkgDNws5Kbbq8) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Wait So Long](https://open.spotify.com/album/5h65lEQMzM7KNXChpEqeC4) | 4:09 | 2024-09-20 | 2024-11-09 |
 | [Wake Up](https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 2:46 | 2024-06-28 |  |
 | [Walken](https://open.spotify.com/track/4qjmZvHQCU5fK0xpi3ikG0) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Walken](https://open.spotify.com/album/7sj9BQ8nIuGIMeZrKBuStx) | 3:44 | 2023-11-12 | 2024-02-17 |
 | [Wasteland](https://open.spotify.com/track/7qiMle24h8ZpMlM1MJz6bE) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Wasteland](https://open.spotify.com/album/4JcEWdNgAifwRcjqLpTY5o) | 2:53 | 2023-11-03 | 2024-07-13 |

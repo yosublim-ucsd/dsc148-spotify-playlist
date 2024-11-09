@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Sevdaliza y Karol G
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,608 likes - 91 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,647 likes - 91 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Grace Enger
+> Discover the next wave of talent writing their own songs\. Cover: Maeve Zamuner
 
-761 songs - 1 day 16 hr 32 min
+765 songs - 1 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [A Tree Falls](https://open.spotify.com/track/5PofUbJQ2EZcsjXqzKMLxv) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [A Tree Falls](https://open.spotify.com/album/7oqXzoFOo6w5mUCFKPV6Gn) | 3:13 | 2024-08-02 | 2024-09-07 |
 | [A Woman's World](https://open.spotify.com/track/5jLw9MlAjLGVDFVx3739eQ) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [A Woman's World](https://open.spotify.com/album/6FARllTFyAyPTIhowt7GlX) | 2:38 | 2022-01-14 | 2022-02-12 |
 | [afraid of heights](https://open.spotify.com/track/1NBH8vdNQ2qG7U8VMntBLg) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [afraid of heights](https://open.spotify.com/album/5x6BZ6XJ2YVcwE6l26yy6p) | 2:34 | 2023-09-03 | 2023-12-14 |
-| [After Dark](https://open.spotify.com/track/26b2184K8AbuALqmkfznSl) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [After Dark](https://open.spotify.com/album/6JyxbY1JEmqBkLdxr1UdxY) | 3:27 | 2024-06-08 |  |
+| [After Dark](https://open.spotify.com/track/26b2184K8AbuALqmkfznSl) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [After Dark](https://open.spotify.com/album/6JyxbY1JEmqBkLdxr1UdxY) | 3:27 | 2024-06-08 | 2024-11-09 |
 | [After You](https://open.spotify.com/track/3VpSYpjB9JwFU6y3X5LcVi) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [After You](https://open.spotify.com/album/5gmMAhYtbJG8oEbrpdLhdL) | 3:23 | 2023-12-08 | 2024-04-27 |
 | [Again and Again](https://open.spotify.com/track/2ZvlfOqzdSDPpXFJL6ETNj) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Again and Again](https://open.spotify.com/album/3wxJOOmjsc7CMeCHnjo20b) | 3:27 | 2023-08-11 | 2023-12-14 |
 | [Age Of Depression](https://open.spotify.com/track/1oIFiHEu2tmfA99YrcdgZ2) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW), [Tyson](https://open.spotify.com/artist/3sKkrLMcWTAzg5SFw7DkT7) | [Die in LA](https://open.spotify.com/album/6KEkHT3JThHci5q284JqYk) | 2:52 | 2023-06-12 | 2023-12-14 |
@@ -88,7 +88,7 @@
 | [birthday alone](https://open.spotify.com/track/4JrxkAArwiHvo3ZvtXmnoy) | [Sage Charmaine](https://open.spotify.com/artist/7Gm2KFPebqb5rGV3XrLqGn) | [birthday alone](https://open.spotify.com/album/2i3bzoH7SD600b3SKm0F8u) | 3:14 | 2022-09-30 | 2022-12-24 |
 | [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-02-04 | 2022-07-09 |
 | [Birthday Song](https://open.spotify.com/track/72neMcbRmFNHmr97Qz8dOw) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Birthday Song](https://open.spotify.com/album/3ZZlsJFtAzMAZ1xti6HAtB) | 4:23 | 2024-08-30 |  |
-| [Bittersweet](https://open.spotify.com/track/2tmzXjrJMBrbDfZJ8g9mcF) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Bittersweet](https://open.spotify.com/album/3OvQIzuh1gb6NiTMkkMAas) | 2:58 | 2024-03-22 |  |
+| [Bittersweet](https://open.spotify.com/track/2tmzXjrJMBrbDfZJ8g9mcF) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Bittersweet](https://open.spotify.com/album/3OvQIzuh1gb6NiTMkkMAas) | 2:58 | 2024-03-22 | 2024-11-09 |
 | [Black Swan](https://open.spotify.com/track/0Z20yeDEotfT3LX8e6kSpk) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [WELL WELL](https://open.spotify.com/album/3Nwh1LOn4xwCyxvx9Yxwdc) | 3:09 | 2023-08-18 | 2023-12-14 |
 | [Bleeding Me Dry](https://open.spotify.com/track/6ldJ3AUfPvRX2gCB4IMpBG) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Bleeding Me Dry](https://open.spotify.com/album/4jMPCb1lQSBO6rjgMDxoVi) | 3:27 | 2024-05-31 |  |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-08 | 2022-08-13 |
@@ -228,7 +228,7 @@
 | [Fat Funny Friend](https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend](https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0) | 3:19 | 2022-02-04 | 2022-06-23 |
 | [Favorite Color](https://open.spotify.com/track/6YiNvXwlNsyCkGv5IDNcon) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Favorite Color](https://open.spotify.com/album/034vrNtnZQYiIvnM9xcJbn) | 3:04 | 2023-11-10 | 2023-12-14 |
 | [favorite crime](https://open.spotify.com/track/61W7tEpxEfmizp6V5ZRN10) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/7bYichzvtYHdjF8HF69dyA) | 2:32 | 2022-01-14 | 2022-04-29 |
-| [Fear of the Unknown](https://open.spotify.com/track/4qHxxlwDjEvanNtKeG6DCy) | [Peyton McMahon](https://open.spotify.com/artist/7HYMKelR2o8mJ9qk8KF1CJ) | [Fear of the Unknown](https://open.spotify.com/album/60olbifny6PT6tQ67u0k89) | 3:43 | 2024-05-31 |  |
+| [Fear of the Unknown](https://open.spotify.com/track/4qHxxlwDjEvanNtKeG6DCy) | [Peyton McMahon](https://open.spotify.com/artist/7HYMKelR2o8mJ9qk8KF1CJ) | [Fear of the Unknown](https://open.spotify.com/album/60olbifny6PT6tQ67u0k89) | 3:43 | 2024-05-31 | 2024-11-09 |
 | [Feels Like Magic](https://open.spotify.com/track/4OQAl1UeO0DF6aP3XgXp6F) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Feels Like Magic](https://open.spotify.com/album/15alEIqBgadwC3kR7xq99y) | 3:07 | 2022-03-04 | 2022-08-06 |
 | [Feminine Feelings](https://open.spotify.com/track/6dRMBfMGMhic99nXASMFFR) | [Chrissy](https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f) | [Feminine Feelings](https://open.spotify.com/album/70g3gCOQaftdAXcK3owCP9) | 3:09 | 2023-07-14 | 2023-12-14 |
 | [Fifth](https://open.spotify.com/track/5DNpSTHMlVO4OdiQJ1uG8v) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Fifth](https://open.spotify.com/album/0cxSW85kPAIUEk6UIejvPD) | 2:35 | 2023-07-14 | 2023-12-14 |
@@ -294,7 +294,7 @@
 | [Headlights](https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Headlights](https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z) | 2:53 | 2022-09-02 | 2023-01-21 |
 | [Hear Me Now](https://open.spotify.com/track/5cXcykFgbrLw1nwpSYjVJF) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Lucky](https://open.spotify.com/album/7BXf5VfNpYVYHMc4bz0tzo) | 3:44 | 2023-09-01 | 2023-12-14 |
 | [Heartbreak In Heaven](https://open.spotify.com/track/3i3I7HyCJ3UxdJTY5LTaWs) | [Gabi Sklar](https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj) | [Heartbreak In Heaven](https://open.spotify.com/album/4SUAVzKxDfY7XcoZ5BPMC3) | 2:21 | 2024-03-08 | 2024-08-31 |
-| [Heathrow](https://open.spotify.com/track/0iNlcioLpaFNEpL0OkN2oa) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Heathrow](https://open.spotify.com/album/4RGF1g5xJjfcd809OFyN4F) | 3:55 | 2024-09-13 |  |
+| [Heathrow](https://open.spotify.com/track/0iNlcioLpaFNEpL0OkN2oa) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Heathrow](https://open.spotify.com/album/4RGF1g5xJjfcd809OFyN4F) | 3:55 | 2024-09-13 | 2024-11-09 |
 | [hell yeah](https://open.spotify.com/track/254mJnXam0VoBPKY4toiM3) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [hell yeah](https://open.spotify.com/album/4qXrPD4TRtgX0CKdRpBRMN) | 2:39 | 2022-09-09 | 2022-11-12 |
 | [Hello Florence, How Are You?](https://open.spotify.com/track/0WII8HWOY0oYYpVNscWPDo) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Hello Florence, How Are You?](https://open.spotify.com/album/3GVON6N4X0E395w9Ai1cbc) | 4:15 | 2023-01-20 | 2023-05-13 |
 | [her](https://open.spotify.com/track/3gBF1gc9Fo6SatKWAOoGjY) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [inhale \- the complete story](https://open.spotify.com/album/4NyjSQ5VF9sSd39Jg2g3vz) | 3:45 | 2023-12-22 | 2024-08-17 |
@@ -535,7 +535,9 @@
 | [poison](https://open.spotify.com/track/6ot4Zf5bWG6NL6NfEAIicP) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [poison](https://open.spotify.com/album/7H2fiL5ulsAjU5BDC5Th4F) | 2:48 | 2023-07-14 | 2023-11-11 |
 | [Pools and Palm Trees](https://open.spotify.com/track/5D5sk1frNM4Ypsgvxa8SaB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Pools and Palm Trees](https://open.spotify.com/album/357UpZKMD6Ar47ULSVhYpi) | 3:06 | 2023-08-11 | 2023-12-23 |
 | [Porn Star](https://open.spotify.com/track/3gb6mXrHtMgHV6XDgFXb60) | [Sydney Ross Mitchell](https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr) | [Porn Star](https://open.spotify.com/album/50sODBepKvtl2xsK5ni7wU) | 2:34 | 2024-01-05 | 2024-08-10 |
+| [Portland](https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Portland](https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf) | 2:52 | 2024-11-08 |  |
 | [Potential](https://open.spotify.com/track/2OaQb7rx7kkbeDU48ImPyy) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Potential](https://open.spotify.com/album/6E7of8enDnsOuZVFD0oYmK) | 3:26 | 2023-05-26 | 2023-06-24 |
+| [Practice](https://open.spotify.com/track/34GzR0SBIwmqjgaGPdBWVv) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [Practice](https://open.spotify.com/album/4wWEslwP97WLcGQqbSk4Wh) | 3:17 | 2024-11-08 |  |
 | [Praying for July \- Spotify Singles](https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Praying for July \- Spotify Singles](https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C) | 3:06 | 2022-05-27 | 2022-06-23 |
 | [Pretty \- Acoustic](https://open.spotify.com/track/0B2BvSv3O4tQJnwv7YYJMb) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Pretty \(Acoustic\)](https://open.spotify.com/album/1hseSqtG2xlzQ1DWwx2Xl3) | 2:41 | 2022-01-14 | 2022-02-19 |
 | [Pretty Baby](https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Pretty Baby](https://open.spotify.com/album/3r1xlXd5nl8DgO9RGJWZZO) | 3:23 | 2024-07-12 | 2024-08-03 |
@@ -555,6 +557,7 @@
 | [Rearview Mirror](https://open.spotify.com/track/2SSgYTvesgv4JbLtb6pMD9) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Rearview Mirror](https://open.spotify.com/album/6Yjc1ormevTi3c5lZb4rqF) | 2:33 | 2024-05-17 | 2024-11-02 |
 | [reckless driving \(feat\. Ben Kessler\)](https://open.spotify.com/track/3rX7jCeMKpyHH6bFohXcWd) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [reckless driving \(feat\. Ben Kessler\)](https://open.spotify.com/album/3L9UO9abdjQko3suZnjDdr) | 3:09 | 2022-02-25 | 2022-04-09 |
 | [RECOVER](https://open.spotify.com/track/1xM16w1mELJud010Pu69Vw) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [RECOVER](https://open.spotify.com/album/3erra5YLQlS35zS8U3BNr1) | 2:41 | 2023-11-10 | 2024-02-10 |
+| [Red Bandana](https://open.spotify.com/track/2VIOg87P7QCmIyYBEwEgvy) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Red Bandana](https://open.spotify.com/album/6ftosjsIUxKZWrxCVEWrI0) | 3:47 | 2024-11-08 |  |
 | [Remember me Happy](https://open.spotify.com/track/6LmgJRJKksk4FlSWBBLWpw) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Remember me Happy](https://open.spotify.com/album/1mtobYhOLhqQzk9V5zSxKj) | 2:21 | 2022-01-14 | 2022-09-03 |
 | [remind me](https://open.spotify.com/track/1pEqRNNm1wqEOVKpXe5Am8) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [remind me](https://open.spotify.com/album/0SPF8x1JgBFsfxO64ARLKC) | 2:17 | 2023-04-07 | 2023-05-20 |
 | [rest in peace](https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [rest in peace](https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE) | 3:11 | 2022-05-20 | 2022-10-08 |
@@ -607,6 +610,7 @@
 | [Small Talk](https://open.spotify.com/track/5J17jC78SZXMPfcoCvs0Uk) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Small Talk](https://open.spotify.com/album/7iuROt2yxUMHIrFFni6pyh) | 3:08 | 2022-07-01 | 2022-08-31 |
 | [Small Things](https://open.spotify.com/track/2kKGKGT7YySUdJ9s6SFzwD) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Small Things](https://open.spotify.com/album/33WitbRUYLqnDU2EYxAY4Z) | 2:57 | 2022-03-18 | 2022-06-04 |
 | [Snow Angel](https://open.spotify.com/track/4rcpsw8Sls6xWrmTvNtS0K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/5oAVKxhmwzPo9uTsUDGw8n) | 3:35 | 2023-06-12 | 2023-07-15 |
+| [Snow In July](https://open.spotify.com/track/1S8CwXd5wfmnxXgz3U9nEi) | [Maeve Zamuner](https://open.spotify.com/artist/6gPhmpiEhFK9kFHbEqA9UF) | [Snow In July](https://open.spotify.com/album/2l65rFNkyX0f0k2mIO707h) | 4:02 | 2024-11-08 |  |
 | [so fast](https://open.spotify.com/track/2fcixmEODeToeEAVE5ct3f) | [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0) | [so fast](https://open.spotify.com/album/6djywrn8aN9dvRVS1uz8TH) | 4:09 | 2022-12-16 | 2023-02-25 |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-02-18 | 2022-07-23 |
 | [Soft Boy](https://open.spotify.com/track/6rrbZTkpzaV7CaBoSogKHi) | [Wilbur Music](https://open.spotify.com/artist/3ZHaki4MMPDvFsEE4apthg) | [Soft Boy](https://open.spotify.com/album/004syik0RCJkwKCwVX5fpe) | 2:25 | 2022-09-27 | 2022-12-24 |

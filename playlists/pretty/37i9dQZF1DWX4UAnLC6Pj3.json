@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Luis \u00c1ngel \"El Flaco\" en portada.",
-  "num_followers": 1236309,
+  "num_followers": 1236625,
   "original_name": "Banda 2024",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,18 @@
     {
       "added_at": "2024-10-31 18:57:32",
       "album": {
-        "name": "Qu\u00e9 Onda Perdida",
-        "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
+        "name": "24 Kilates de Corridos",
+        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 239637,
-      "name": "Qu\u00e9 Onda Perdida",
-      "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
+      "duration_ms": 190413,
+      "name": "Juan Martha",
+      "url": "https://open.spotify.com/track/0FG2BidxWdYecUegaWAnST"
     },
     {
       "added_at": "2024-10-31 18:57:32",
@@ -523,18 +519,22 @@
     {
       "added_at": "2024-10-31 18:57:32",
       "album": {
-        "name": "24 Kilates de Corridos",
-        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
+        "name": "Qu\u00e9 Onda Perdida",
+        "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
       },
       "artists": [
         {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 190413,
-      "name": "Juan Martha",
-      "url": "https://open.spotify.com/track/0FG2BidxWdYecUegaWAnST"
+      "duration_ms": 239637,
+      "name": "Qu\u00e9 Onda Perdida",
+      "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
     },
     {
       "added_at": "2024-10-31 18:57:32",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-10-31 18:57:32",
       "album": {
-        "name": "Se Cans\u00f3 (En Vivo)",
-        "url": "https://open.spotify.com/album/0DU8thSB2OYqVcDGWVBNgM"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 194634,
-      "name": "Se Cans\u00f3 - En Vivo",
-      "url": "https://open.spotify.com/track/7I3u4wFME9L4Wbva3coJHA"
-    },
-    {
-      "added_at": "2024-10-31 18:57:32",
-      "album": {
         "name": "Un Tabaco (En Vivo)",
         "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 207625,
       "name": "Un Tabaco - En Vivo",
       "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
+    },
+    {
+      "added_at": "2024-10-31 18:57:32",
+      "album": {
+        "name": "Se Cans\u00f3 (En Vivo)",
+        "url": "https://open.spotify.com/album/0DU8thSB2OYqVcDGWVBNgM"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 194634,
+      "name": "Se Cans\u00f3 - En Vivo",
+      "url": "https://open.spotify.com/track/7I3u4wFME9L4Wbva3coJHA"
     },
     {
       "added_at": "2024-10-31 18:57:32",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-10-31 18:57:32",
       "album": {
-        "name": "Es Amor",
-        "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Es Amor",
-      "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
-    },
-    {
-      "added_at": "2024-10-31 18:57:32",
-      "album": {
         "name": "No Llega El Olvido (En Vivo)",
         "url": "https://open.spotify.com/album/72quJ2zGWeKnLmipKNZTUZ"
       },
@@ -1443,70 +1427,18 @@
     {
       "added_at": "2024-10-31 18:57:32",
       "album": {
-        "name": "S Cool...ito",
-        "url": "https://open.spotify.com/album/4w8BHpxUYiFrMnwlCyk6L1"
+        "name": "Es Amor",
+        "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
       },
       "artists": [
         {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 148760,
-      "name": "S Cool...ito",
-      "url": "https://open.spotify.com/track/5Ru0MfnGGTxpSsLLLpG4mR"
-    },
-    {
-      "added_at": "2024-10-31 18:57:32",
-      "album": {
-        "name": "El Caballo Y El Carro",
-        "url": "https://open.spotify.com/album/75EWNBFkYJwiNgFXiEC63e"
-      },
-      "artists": [
-        {
-          "name": "Diego Herrera",
-          "url": "https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi"
-        },
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 149851,
-      "name": "El Caballo Y El Carro",
-      "url": "https://open.spotify.com/track/3oFr64S7iJyZ8khHAwXW0P"
-    },
-    {
-      "added_at": "2024-10-31 18:57:32",
-      "album": {
-        "name": "Rancheras & Adictivas",
-        "url": "https://open.spotify.com/album/3yTfG82CulQc6ShTGD1j0m"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 200004,
-      "name": "El Caminante",
-      "url": "https://open.spotify.com/track/3Hv6acH4mKhpohJ7fKOX5v"
-    },
-    {
-      "added_at": "2024-10-31 18:57:32",
-      "album": {
-        "name": "La Propina",
-        "url": "https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 142013,
-      "name": "La Propina",
-      "url": "https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie"
+      "duration_ms": 164933,
+      "name": "Es Amor",
+      "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
     },
     {
       "added_at": "2024-10-31 18:57:32",
@@ -1543,6 +1475,74 @@
       "duration_ms": 215303,
       "name": "Sigues Siendo Tu - En vivo",
       "url": "https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3"
+    },
+    {
+      "added_at": "2024-10-31 18:57:32",
+      "album": {
+        "name": "Rancheras & Adictivas",
+        "url": "https://open.spotify.com/album/3yTfG82CulQc6ShTGD1j0m"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 200004,
+      "name": "El Caminante",
+      "url": "https://open.spotify.com/track/3Hv6acH4mKhpohJ7fKOX5v"
+    },
+    {
+      "added_at": "2024-10-31 18:57:32",
+      "album": {
+        "name": "El Caballo Y El Carro",
+        "url": "https://open.spotify.com/album/75EWNBFkYJwiNgFXiEC63e"
+      },
+      "artists": [
+        {
+          "name": "Diego Herrera",
+          "url": "https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi"
+        },
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 149851,
+      "name": "El Caballo Y El Carro",
+      "url": "https://open.spotify.com/track/3oFr64S7iJyZ8khHAwXW0P"
+    },
+    {
+      "added_at": "2024-10-31 18:57:32",
+      "album": {
+        "name": "La Propina",
+        "url": "https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 142013,
+      "name": "La Propina",
+      "url": "https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie"
+    },
+    {
+      "added_at": "2024-10-31 18:57:32",
+      "album": {
+        "name": "S Cool...ito",
+        "url": "https://open.spotify.com/album/4w8BHpxUYiFrMnwlCyk6L1"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 148760,
+      "name": "S Cool...ito",
+      "url": "https://open.spotify.com/track/5Ru0MfnGGTxpSsLLLpG4mR"
     },
     {
       "added_at": "2024-10-31 18:57:32",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-10-31 18:57:32",
       "album": {
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 245183,
+      "name": "Due\u00f1o De Ti - En vivo",
+      "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
+    },
+    {
+      "added_at": "2024-10-31 18:57:32",
+      "album": {
         "name": "El Humo De Mi Gallo",
         "url": "https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 140063,
       "name": "No Es Cierto Que Nunca Te Quise",
       "url": "https://open.spotify.com/track/7zA3aIGMcvxEtW45H12w0E"
-    },
-    {
-      "added_at": "2024-10-31 18:57:32",
-      "album": {
-        "name": "Las Preferidas, Vol. 5 (En vivo)",
-        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 245183,
-      "name": "Due\u00f1o De Ti - En vivo",
-      "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
     },
     {
       "added_at": "2024-10-31 18:57:32",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-10-31 18:57:32",
       "album": {
-        "name": "Y \u00bfQu\u00e9 Tiene?",
-        "url": "https://open.spotify.com/album/6iwrrlySAjumvNTDAs0HeE"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Olv\u00eddalo Conmigo",
-      "url": "https://open.spotify.com/track/6BqlfnLy0eivSsWtGZMKAm"
-    },
-    {
-      "added_at": "2024-10-31 18:57:32",
-      "album": {
         "name": "El Profeta",
         "url": "https://open.spotify.com/album/0DF4R8iyOcRQVD5zs7CUNx"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 217434,
       "name": "El Profeta",
       "url": "https://open.spotify.com/track/45mpsyfgiBOCuYD49KHLZs"
+    },
+    {
+      "added_at": "2024-10-31 18:57:32",
+      "album": {
+        "name": "Y \u00bfQu\u00e9 Tiene?",
+        "url": "https://open.spotify.com/album/6iwrrlySAjumvNTDAs0HeE"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 178133,
+      "name": "Olv\u00eddalo Conmigo",
+      "url": "https://open.spotify.com/track/6BqlfnLy0eivSsWtGZMKAm"
     },
     {
       "added_at": "2024-10-31 18:57:32",
@@ -1775,34 +1775,18 @@
     {
       "added_at": "2024-10-31 18:57:32",
       "album": {
-        "name": "Angel Perdido",
-        "url": "https://open.spotify.com/album/1CeEMvyWBAL4SObCiwOHke"
+        "name": "Aqui",
+        "url": "https://open.spotify.com/album/6acAPwFF5O4Ia6H67Qz5lm"
       },
       "artists": [
         {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+          "name": "Hermanos Vega Jr.",
+          "url": "https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm"
         }
       ],
-      "duration_ms": 149636,
-      "name": "Angel Perdido",
-      "url": "https://open.spotify.com/track/0mdpls0Ist6KgYDSJj63TC"
-    },
-    {
-      "added_at": "2024-10-31 18:57:32",
-      "album": {
-        "name": "Te Dar\u00e9",
-        "url": "https://open.spotify.com/album/3xsdglb6MZVFSOWqqTDetC"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 179960,
-      "name": "Te Dar\u00e9",
-      "url": "https://open.spotify.com/track/4HzyiVGDxeFvyKgIqmkCr3"
+      "duration_ms": 148212,
+      "name": "Aqui",
+      "url": "https://open.spotify.com/track/6KujS6JWvxGDmG4tGIoxCB"
     },
     {
       "added_at": "2024-10-31 18:57:32",
@@ -1831,6 +1815,22 @@
     {
       "added_at": "2024-10-31 18:57:32",
       "album": {
+        "name": "Angel Perdido",
+        "url": "https://open.spotify.com/album/1CeEMvyWBAL4SObCiwOHke"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 149636,
+      "name": "Angel Perdido",
+      "url": "https://open.spotify.com/track/0mdpls0Ist6KgYDSJj63TC"
+    },
+    {
+      "added_at": "2024-10-31 18:57:32",
+      "album": {
         "name": "Soltero Para Rato",
         "url": "https://open.spotify.com/album/12LwolaVdtNRJfUpXU84RZ"
       },
@@ -1847,18 +1847,18 @@
     {
       "added_at": "2024-10-31 18:57:32",
       "album": {
-        "name": "Aqui",
-        "url": "https://open.spotify.com/album/6acAPwFF5O4Ia6H67Qz5lm"
+        "name": "Te Dar\u00e9",
+        "url": "https://open.spotify.com/album/3xsdglb6MZVFSOWqqTDetC"
       },
       "artists": [
         {
-          "name": "Hermanos Vega Jr.",
-          "url": "https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm"
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         }
       ],
-      "duration_ms": 148212,
-      "name": "Aqui",
-      "url": "https://open.spotify.com/track/6KujS6JWvxGDmG4tGIoxCB"
+      "duration_ms": 179960,
+      "name": "Te Dar\u00e9",
+      "url": "https://open.spotify.com/track/4HzyiVGDxeFvyKgIqmkCr3"
     },
     {
       "added_at": "2024-10-31 18:57:32",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-10-31 18:57:32",
       "album": {
-        "name": "Qu\u00e9 Te Hizo Olvidarme",
-        "url": "https://open.spotify.com/album/2zJQukcDjypgLJkVyORLYv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 152250,
-      "name": "Qu\u00e9 Te Hizo Olvidarme",
-      "url": "https://open.spotify.com/track/3a96vICHOEdw3rsthLW24A"
-    },
-    {
-      "added_at": "2024-10-31 18:57:32",
-      "album": {
         "name": "Hola Coraz\u00f3n (En Vivo)",
         "url": "https://open.spotify.com/album/5Ivz9kr0rUtT7o3pQN1jq8"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 185514,
       "name": "Hola Coraz\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/0rXTfXgC4OIWytvMsq8Ls2"
+    },
+    {
+      "added_at": "2024-10-31 18:57:32",
+      "album": {
+        "name": "Qu\u00e9 Te Hizo Olvidarme",
+        "url": "https://open.spotify.com/album/2zJQukcDjypgLJkVyORLYv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 152250,
+      "name": "Qu\u00e9 Te Hizo Olvidarme",
+      "url": "https://open.spotify.com/track/3a96vICHOEdw3rsthLW24A"
     },
     {
       "added_at": "2024-10-31 18:57:32",
@@ -1951,22 +1951,6 @@
       "duration_ms": 175090,
       "name": "24/7 Dolido",
       "url": "https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO"
-    },
-    {
-      "added_at": "2024-10-31 18:57:32",
-      "album": {
-        "name": "Mis Gustos Mis Canciones (En Vivo)",
-        "url": "https://open.spotify.com/album/713vIeHuBR3osul4JUkdS2"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 163978,
-      "name": "Fruta Prohibida (En Vivo)",
-      "url": "https://open.spotify.com/track/7LePdYin7ESpRVRURBx16C"
     },
     {
       "added_at": "2024-10-31 18:57:32",
@@ -2019,6 +2003,22 @@
       "duration_ms": 132253,
       "name": "Sabor a Michelada",
       "url": "https://open.spotify.com/track/1sAl1GcuDozSu5kDjYN5s5"
+    },
+    {
+      "added_at": "2024-10-31 18:57:32",
+      "album": {
+        "name": "Mis Gustos Mis Canciones (En Vivo)",
+        "url": "https://open.spotify.com/album/713vIeHuBR3osul4JUkdS2"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 163978,
+      "name": "Fruta Prohibida (En Vivo)",
+      "url": "https://open.spotify.com/track/7LePdYin7ESpRVRURBx16C"
     },
     {
       "added_at": "2024-10-31 18:57:32",

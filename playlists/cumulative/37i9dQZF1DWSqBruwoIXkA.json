@@ -582,7 +582,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 204206,
       "name": "all the time",
       "url": "https://open.spotify.com/track/5fSztmwA3e7iYSWvnB4zPv"
@@ -9102,6 +9102,24 @@
       "duration_ms": 200040,
       "name": "Me Against My Head",
       "url": "https://open.spotify.com/track/7CDQfxlivFpECBbv240tAw"
+    },
+    {
+      "album": {
+        "name": "Me, Myself & You",
+        "url": "https://open.spotify.com/album/7cczplDsPconF6IdWikvOd"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155957,
+      "name": "Me, Myself & You",
+      "url": "https://open.spotify.com/track/4dsgZlMA69Hb2VppaZyfSN"
     },
     {
       "album": {

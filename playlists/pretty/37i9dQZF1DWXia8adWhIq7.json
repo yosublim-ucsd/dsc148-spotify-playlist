@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Jos\u00e9 Jr",
-  "num_followers": 100098,
+  "num_followers": 100142,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -207,18 +207,18 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "Ele Pode Fazer",
-        "url": "https://open.spotify.com/album/4nC5v3UYIyGFMeT1LwZ67V"
+        "name": "Teu Esconderijo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ZcBftGYZh4v5munER2GNj"
       },
       "artists": [
         {
-          "name": "Lorhann",
-          "url": "https://open.spotify.com/artist/2JzXhnel5dnhOOjYAmTgjJ"
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
         }
       ],
-      "duration_ms": 150510,
-      "name": "Ele Pode Fazer",
-      "url": "https://open.spotify.com/track/1FJ4xull5V00YfAR7S2wxX"
+      "duration_ms": 349928,
+      "name": "Teu Esconderijo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6xcMSxDWVG5mNJPlyI5anc"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -243,18 +243,18 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "Teu Esconderijo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2ZcBftGYZh4v5munER2GNj"
+        "name": "Ele Pode Fazer",
+        "url": "https://open.spotify.com/album/4nC5v3UYIyGFMeT1LwZ67V"
       },
       "artists": [
         {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+          "name": "Lorhann",
+          "url": "https://open.spotify.com/artist/2JzXhnel5dnhOOjYAmTgjJ"
         }
       ],
-      "duration_ms": 349928,
-      "name": "Teu Esconderijo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6xcMSxDWVG5mNJPlyI5anc"
+      "duration_ms": 150510,
+      "name": "Ele Pode Fazer",
+      "url": "https://open.spotify.com/track/1FJ4xull5V00YfAR7S2wxX"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -339,38 +339,6 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "Vida Leve",
-        "url": "https://open.spotify.com/album/08ujgEoWflIBTXaf0T5XUl"
-      },
-      "artists": [
-        {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
-        }
-      ],
-      "duration_ms": 176417,
-      "name": "Vida Leve",
-      "url": "https://open.spotify.com/track/7jb65juKqmYcQg5qXhJSVw"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
-        "name": "Me Ensina a Viver",
-        "url": "https://open.spotify.com/album/1sqdI1xPDGAJxlYLg2pI8w"
-      },
-      "artists": [
-        {
-          "name": "Clovis",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
-        }
-      ],
-      "duration_ms": 310312,
-      "name": "Me Ensina a Viver",
-      "url": "https://open.spotify.com/track/0S5t0T4YV3pHs4LH0mtasp"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
         "name": "Poetizar 1 - \u00daltima Chance",
         "url": "https://open.spotify.com/album/0hyrTjFAgW8BFIBPXPB9Hc"
       },
@@ -407,6 +375,38 @@
       "duration_ms": 331843,
       "name": "Poetizar 1 - \u00daltima Chance",
       "url": "https://open.spotify.com/track/4ToHXRMWxxiYnCf411hSW0"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
+        "name": "Vida Leve",
+        "url": "https://open.spotify.com/album/08ujgEoWflIBTXaf0T5XUl"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 176417,
+      "name": "Vida Leve",
+      "url": "https://open.spotify.com/track/7jb65juKqmYcQg5qXhJSVw"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
+        "name": "Me Ensina a Viver",
+        "url": "https://open.spotify.com/album/1sqdI1xPDGAJxlYLg2pI8w"
+      },
+      "artists": [
+        {
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+        }
+      ],
+      "duration_ms": 310312,
+      "name": "Me Ensina a Viver",
+      "url": "https://open.spotify.com/track/0S5t0T4YV3pHs4LH0mtasp"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
+        "name": "Dia de Festa",
+        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 298213,
+      "name": "Dia de Festa",
+      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
         "name": "Esperarei com Paci\u00eancia",
         "url": "https://open.spotify.com/album/53C192EeqK9cTA0dohXePM"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 329500,
       "name": "Esperarei Com Paci\u00eancia",
       "url": "https://open.spotify.com/track/1QPj2hLuGuxqU8bHlUoUNS"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
-        "name": "Dia de Festa",
-        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 298213,
-      "name": "Dia de Festa",
-      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -547,26 +547,6 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "Sonhar",
-        "url": "https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK"
-      },
-      "artists": [
-        {
-          "name": "Matheus Balo",
-          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
-        },
-        {
-          "name": "Filipe Lancaster",
-          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
-        }
-      ],
-      "duration_ms": 138080,
-      "name": "Sonhar",
-      "url": "https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
         "name": "Deixar para Tr\u00e1s",
         "url": "https://open.spotify.com/album/3hr6fsLFfPQprq1u4uibdZ"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 168461,
       "name": "Deixar para Tr\u00e1s",
       "url": "https://open.spotify.com/track/7ufGcPQPvEPstuBOyxUiWt"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
+        "name": "Sonhar",
+        "url": "https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK"
+      },
+      "artists": [
+        {
+          "name": "Matheus Balo",
+          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
+        },
+        {
+          "name": "Filipe Lancaster",
+          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
+        }
+      ],
+      "duration_ms": 138080,
+      "name": "Sonhar",
+      "url": "https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -675,26 +675,6 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "Levanto um Aleluia",
-        "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
-      },
-      "artists": [
-        {
-          "name": "Anna Fernandes",
-          "url": "https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H"
-        },
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 233261,
-      "name": "Levanto um Aleluia",
-      "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
         "name": "Tudo Novo",
         "url": "https://open.spotify.com/album/51e8mw5vBRkEqljx5DUkZN"
       },
@@ -719,6 +699,26 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
+        "name": "Levanto um Aleluia",
+        "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
+      },
+      "artists": [
+        {
+          "name": "Anna Fernandes",
+          "url": "https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H"
+        },
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 233261,
+      "name": "Levanto um Aleluia",
+      "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
         "name": "Teu Amor Me Consome",
         "url": "https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 226187,
       "name": "Teu Amor Me Consome",
       "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
-        "name": "\u00c9 de Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
-      },
-      "artists": [
-        {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "\u00c9 de Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -767,6 +751,22 @@
       "duration_ms": 207667,
       "name": "A Chave",
       "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
+        "name": "\u00c9 de Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
+      },
+      "artists": [
+        {
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "\u00c9 de Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -971,6 +971,26 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
+        "name": "Faltava Voc\u00ea",
+        "url": "https://open.spotify.com/album/2VRthZpnrLNcoM9gvy5717"
+      },
+      "artists": [
+        {
+          "name": "Samuell Villart",
+          "url": "https://open.spotify.com/artist/08zKcI2XOBGSNknqvANstc"
+        },
+        {
+          "name": "Rafael Caff",
+          "url": "https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw"
+        }
+      ],
+      "duration_ms": 194643,
+      "name": "Faltava Voc\u00ea",
+      "url": "https://open.spotify.com/track/2p9hwoULyrP14ccQmIMqFO"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
         "name": "Tudo Novo (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3gWsO95tq0c0qTAyogPlHk"
       },
@@ -995,26 +1015,6 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "Faltava Voc\u00ea",
-        "url": "https://open.spotify.com/album/2VRthZpnrLNcoM9gvy5717"
-      },
-      "artists": [
-        {
-          "name": "Samuell Villart",
-          "url": "https://open.spotify.com/artist/08zKcI2XOBGSNknqvANstc"
-        },
-        {
-          "name": "Rafael Caff",
-          "url": "https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw"
-        }
-      ],
-      "duration_ms": 194643,
-      "name": "Faltava Voc\u00ea",
-      "url": "https://open.spotify.com/track/2p9hwoULyrP14ccQmIMqFO"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
         "name": "At\u00e9 Sermos Um",
         "url": "https://open.spotify.com/album/24PZIfsN50tPldnbkdBnlG"
       },
@@ -1027,6 +1027,22 @@
       "duration_ms": 178446,
       "name": "At\u00e9 Sermos Um",
       "url": "https://open.spotify.com/track/4zlRBI3oN4CcqjS0LJnn41"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
+        "name": "Pai Nosso",
+        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
+      },
+      "artists": [
+        {
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "Pai Nosso - Our Father",
+      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -1051,38 +1067,6 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "Nossa Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1B7HOGs2P2xSPQA92dYox6"
-      },
-      "artists": [
-        {
-          "name": "Cord\u00e3o de Tr\u00eas",
-          "url": "https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88"
-        }
-      ],
-      "duration_ms": 189154,
-      "name": "Nossa Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5Xy8zMqDbpkWd9vmPen5mt"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
-        "name": "Pai Nosso",
-        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
-      },
-      "artists": [
-        {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "Pai Nosso - Our Father",
-      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
         "name": "Neste Lugar",
         "url": "https://open.spotify.com/album/5pIGdmHVVKLTNIZ6pCAyA0"
       },
@@ -1103,22 +1087,18 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "Amor de Deus",
-        "url": "https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw"
+        "name": "Nossa Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1B7HOGs2P2xSPQA92dYox6"
       },
       "artists": [
         {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        },
-        {
-          "name": "Sulset Music",
-          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+          "name": "Cord\u00e3o de Tr\u00eas",
+          "url": "https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Amor de Deus",
-      "url": "https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3"
+      "duration_ms": 189154,
+      "name": "Nossa Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5Xy8zMqDbpkWd9vmPen5mt"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -1135,6 +1115,26 @@
       "duration_ms": 250186,
       "name": "Selo do Perd\u00e3o (Legado)",
       "url": "https://open.spotify.com/track/4CPCxW7WZUUKyOrMNfERFA"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
+        "name": "Amor de Deus",
+        "url": "https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Amor de Deus",
+      "url": "https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -1211,22 +1211,18 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "Pra Onde Vou Correr",
-        "url": "https://open.spotify.com/album/0RQmuhQgvKDgqlHsGLLcmq"
+        "name": "Testemunho",
+        "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
       },
       "artists": [
         {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        },
-        {
-          "name": "Sulset Music",
-          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+          "name": "Avipa",
+          "url": "https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq"
         }
       ],
-      "duration_ms": 215125,
-      "name": "Pra Onde Vou Correr",
-      "url": "https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE"
+      "duration_ms": 139000,
+      "name": "Testemunho",
+      "url": "https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -1247,22 +1243,6 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "Testemunho",
-        "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
-      },
-      "artists": [
-        {
-          "name": "Avipa",
-          "url": "https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Testemunho",
-      "url": "https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
         "name": "Me Chamar de Filho",
         "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 187565,
       "name": "Me Chamar de Filho",
       "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
+        "name": "Pra Onde Vou Correr",
+        "url": "https://open.spotify.com/album/0RQmuhQgvKDgqlHsGLLcmq"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        }
+      ],
+      "duration_ms": 215125,
+      "name": "Pra Onde Vou Correr",
+      "url": "https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE"
     },
     {
       "added_at": "2024-10-25 15:00:24",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-10-25 15:00:24",
       "album": {
-        "name": "Deixa Esse Medo",
-        "url": "https://open.spotify.com/album/6E2eSQG04ZY7zep1UAicvN"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        }
-      ],
-      "duration_ms": 125890,
-      "name": "Deixa Esse Medo",
-      "url": "https://open.spotify.com/track/7fKi87WxPP93vIVPxBfX4u"
-    },
-    {
-      "added_at": "2024-10-25 15:00:24",
-      "album": {
         "name": "Fui Liberto",
         "url": "https://open.spotify.com/album/7lCvaQSTaQluCslUV5UKL3"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 245019,
       "name": "Escrevi (Legado)",
       "url": "https://open.spotify.com/track/5PbMhRZgOKvlJjDOIytCup"
+    },
+    {
+      "added_at": "2024-10-25 15:00:24",
+      "album": {
+        "name": "Deixa Esse Medo",
+        "url": "https://open.spotify.com/album/6E2eSQG04ZY7zep1UAicvN"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        }
+      ],
+      "duration_ms": 125890,
+      "name": "Deixa Esse Medo",
+      "url": "https://open.spotify.com/track/7fKi87WxPP93vIVPxBfX4u"
     },
     {
       "added_at": "2024-10-25 15:00:24",

@@ -2562,7 +2562,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 243950,
       "name": "OMG (oiseau)",
       "url": "https://open.spotify.com/track/6TqUAXAPivrpuJcmJDzeqD"
@@ -3764,6 +3764,24 @@
       "duration_ms": 249072,
       "name": "Witness Protection",
       "url": "https://open.spotify.com/track/25c2s6RdpSQN27iPc8Exps"
+    },
+    {
+      "album": {
+        "name": "Y a pu d'poude dans poude",
+        "url": "https://open.spotify.com/album/3zDjZy9W8RVjSrruCLrJ7j"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me 50",
+          "url": "https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168851,
+      "name": "Y a pu d'poude dans poude",
+      "url": "https://open.spotify.com/track/7yqBu5Err3V56zeg4bLdMB"
     },
     {
       "album": {

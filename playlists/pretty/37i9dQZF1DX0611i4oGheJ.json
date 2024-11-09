@@ -1,6 +1,6 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 462553,
+  "num_followers": 462681,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
@@ -391,8 +391,8 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "I have more than enough",
-        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
+        "name": "martingale",
+        "url": "https://open.spotify.com/album/61Hkj6ooUZ0SXaHjrkS4R9"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
         }
       ],
-      "duration_ms": 328098,
-      "name": "I have more than enough",
-      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
+      "duration_ms": 257851,
+      "name": "martingale",
+      "url": "https://open.spotify.com/track/01ATDIJlGtEbk2KbzJdk1e"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -479,8 +479,8 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "martingale",
-        "url": "https://open.spotify.com/album/61Hkj6ooUZ0SXaHjrkS4R9"
+        "name": "I have more than enough",
+        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
         }
       ],
-      "duration_ms": 257851,
-      "name": "martingale",
-      "url": "https://open.spotify.com/track/01ATDIJlGtEbk2KbzJdk1e"
+      "duration_ms": 328098,
+      "name": "I have more than enough",
+      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "Here in the Pitch",
-        "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Life Is",
-      "url": "https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
         "name": "Mudroom",
         "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 239895,
       "name": "Mudroom",
       "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
+        "name": "Here in the Pitch",
+        "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Life Is",
+      "url": "https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 153850,
-      "name": "Buffalo Replaced - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
         "name": "Light That Match",
         "url": "https://open.spotify.com/album/7kgdul3E3sTCCS3hLU01vx"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 182386,
       "name": "Light That Match",
       "url": "https://open.spotify.com/track/5iiXIpA0AGJekS2sOsMBUf"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 153850,
+      "name": "Buffalo Replaced - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "To Learn",
-        "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 137060,
-      "name": "To Learn",
-      "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
         "name": "Palace (Cover) / Diane",
         "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 229496,
       "name": "Palace - Cover",
       "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
+        "name": "To Learn",
+        "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 137060,
+      "name": "To Learn",
+      "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "Dead & Born & Grown",
-        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 246413,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
         "name": "Sleepless in Seattle",
         "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "God",
-        "url": "https://open.spotify.com/album/3li9CStMM1QmEd5A35ImP7"
+        "name": "Dead & Born & Grown",
+        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
       },
       "artists": [
         {
-          "name": "Genevieve Stokes",
-          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 212964,
-      "name": "God",
-      "url": "https://open.spotify.com/track/7hzkt0Vdmqo1xAADVseb3y"
+      "duration_ms": 246413,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -1083,6 +1067,22 @@
       "duration_ms": 202466,
       "name": "Tragic Magic",
       "url": "https://open.spotify.com/track/6Dq4pM4zQWfqRxZxtZOFyt"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
+        "name": "God",
+        "url": "https://open.spotify.com/album/3li9CStMM1QmEd5A35ImP7"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+        }
+      ],
+      "duration_ms": 212964,
+      "name": "God",
+      "url": "https://open.spotify.com/track/7hzkt0Vdmqo1xAADVseb3y"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "The Tree of Forgiveness",
-        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+        "name": "The Meetings of the Waters",
+        "url": "https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA"
       },
       "artists": [
         {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
         }
       ],
-      "duration_ms": 209047,
-      "name": "Summer's End",
-      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
+      "duration_ms": 300277,
+      "name": "The Meetings of the Waters",
+      "url": "https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "The Meetings of the Waters",
-        "url": "https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA"
-      },
-      "artists": [
-        {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
-        }
-      ],
-      "duration_ms": 300277,
-      "name": "The Meetings of the Waters",
-      "url": "https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
         "name": "Silicone Heart",
         "url": "https://open.spotify.com/album/2NbquPo8J4VCEqkrDyV9KR"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 193361,
       "name": "Silicone Heart",
       "url": "https://open.spotify.com/track/18YdjxKgfyjcaIKRrfpndh"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 209047,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "The Only Ones",
-        "url": "https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 144946,
-      "name": "I'll Be Gone",
-      "url": "https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
         "name": "Cobwebs",
         "url": "https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "A Running Start",
-        "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
+        "name": "The Only Ones",
+        "url": "https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
         }
       ],
-      "duration_ms": 261165,
-      "name": "A Running Start",
-      "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
+      "duration_ms": 144946,
+      "name": "I'll Be Gone",
+      "url": "https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -1291,6 +1275,22 @@
       "duration_ms": 252580,
       "name": "Unveiled",
       "url": "https://open.spotify.com/track/1JGsfgp6yMzTqTQvDTtXos"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
+        "name": "A Running Start",
+        "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 261165,
+      "name": "A Running Start",
+      "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "Wildflowers In The Sky",
-        "url": "https://open.spotify.com/album/2fpUu11yj5MzI7UEpM40Mm"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 162099,
-      "name": "Wildflowers In The Sky",
-      "url": "https://open.spotify.com/track/4tyFfJLi2tstBiMc1KiduB"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
         "name": "Front Porch",
         "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 175293,
       "name": "No Place Like You",
       "url": "https://open.spotify.com/track/2ZcVl0rG4CFi7KHNeUxvFa"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
+        "name": "Wildflowers In The Sky",
+        "url": "https://open.spotify.com/album/2fpUu11yj5MzI7UEpM40Mm"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 162099,
+      "name": "Wildflowers In The Sky",
+      "url": "https://open.spotify.com/track/4tyFfJLi2tstBiMc1KiduB"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "Wait Up",
-        "url": "https://open.spotify.com/album/1vodStDlRmay0I5Wbfdjng"
-      },
-      "artists": [
-        {
-          "name": "Neffy",
-          "url": "https://open.spotify.com/artist/75Qz8WXumn9ghkXDwpj34N"
-        }
-      ],
-      "duration_ms": 191700,
-      "name": "Wait Up",
-      "url": "https://open.spotify.com/track/464vzE6yinrOYJU0pba5HY"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 313296,
       "name": "Golden",
       "url": "https://open.spotify.com/track/77EOVfDhyUX5nSzzc4ZEGX"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
+        "name": "Wait Up",
+        "url": "https://open.spotify.com/album/1vodStDlRmay0I5Wbfdjng"
+      },
+      "artists": [
+        {
+          "name": "Neffy",
+          "url": "https://open.spotify.com/artist/75Qz8WXumn9ghkXDwpj34N"
+        }
+      ],
+      "duration_ms": 191700,
+      "name": "Wait Up",
+      "url": "https://open.spotify.com/track/464vzE6yinrOYJU0pba5HY"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/1moTvG9SmxZ59rYEpitQ64"
-      },
-      "artists": [
-        {
-          "name": "Jesse Jo Stark",
-          "url": "https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0"
-        }
-      ],
-      "duration_ms": 231131,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/359hAVmBw0503I81ATOcaJ"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
         "name": "Collateral",
         "url": "https://open.spotify.com/album/4rDtkcswamhTIK6xOEgbWF"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 179188,
       "name": "Collateral",
       "url": "https://open.spotify.com/track/0WwBPTz2wuv3A8qLIklg6y"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/1moTvG9SmxZ59rYEpitQ64"
+      },
+      "artists": [
+        {
+          "name": "Jesse Jo Stark",
+          "url": "https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0"
+        }
+      ],
+      "duration_ms": 231131,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/359hAVmBw0503I81ATOcaJ"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "How Did It Seem To You?",
-        "url": "https://open.spotify.com/album/7JJ4Iz9RUdXMzaakBCnlwA"
-      },
-      "artists": [
-        {
-          "name": "Odie Leigh",
-          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "A Month Or Two",
-      "url": "https://open.spotify.com/track/5jZ58MSH3B5fEciHveMDx4"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
         "name": "Violets as Camouflage",
         "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
       },
@@ -1811,6 +1795,22 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
+        "name": "How Did It Seem To You?",
+        "url": "https://open.spotify.com/album/7JJ4Iz9RUdXMzaakBCnlwA"
+      },
+      "artists": [
+        {
+          "name": "Odie Leigh",
+          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "A Month Or Two",
+      "url": "https://open.spotify.com/track/5jZ58MSH3B5fEciHveMDx4"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
         "name": "Restless Minds",
         "url": "https://open.spotify.com/album/5wIJ5KSFs23rMjn3JDoTR7"
       },
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Deeper Well",
-      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
         "name": "Reliance",
         "url": "https://open.spotify.com/album/2tTLL49vo53UoDXLcDjPgS"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 219245,
       "name": "Reliance",
       "url": "https://open.spotify.com/track/2rNlmDqduDNkj8W9D1O7KM"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
     },
     {
       "added_at": "2024-08-26 14:21:45",

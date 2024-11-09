@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-176 songs - 8 hr 48 min
+177 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Esperare](https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Esperare](https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX) | 2:10 | 2022-03-03 | 2022-07-09 |
 | [Esta Tarde Vi Llover](https://open.spotify.com/track/56jakCjFeneCQMMq8aNFyt) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Esta Tarde Vi Llover](https://open.spotify.com/album/6HR4q9Dz5DpbZ4VxBuvGOb) | 2:23 | 2022-03-03 | 2022-07-22 |
 | [Estanys de Baiau](https://open.spotify.com/track/6JbPD7lazbivEBZbBiI9U0) | [Andreas Borkental](https://open.spotify.com/artist/39r4N8Uojn27VzGTVjYfdV) | [Abendrot](https://open.spotify.com/album/45UIG5yVX62bS76ybHXrG5) | 2:28 | 2022-03-03 |  |
+| [Estrella del Alba](https://open.spotify.com/track/75MArQvQxnXcf1eihuGMIj) | [Mirta Alvarez](https://open.spotify.com/artist/4zEFyJWmosnx8lZKfy8EkZ) | [Estrella del Alba](https://open.spotify.com/album/1tPzlsbmcvftBFrSJtamoG) | 2:57 | 2024-11-08 |  |
 | [Eterna Saudade](https://open.spotify.com/track/4gpGRoXsgyNoC5V91LRM0r) | [Michael Marc](https://open.spotify.com/artist/3fcQI5iYhwISYHwUf3G4Ok) | [Eterna Saudade](https://open.spotify.com/album/3EJga8fieg3iJktxWBVA2k) | 4:49 | 2022-06-24 | 2023-09-01 |
 | [Etude in B Minor Op 35, No\. 22](https://open.spotify.com/track/1bXlPJ4imn61Wgp07VxNeT) | [Barry O'sullivan](https://open.spotify.com/artist/3vjTXSmiHkMA1EpHccmuW2), [Fernando Sor](https://open.spotify.com/artist/4KAvqco7JE80QdRlEjvyrd) | [Etude in B Minor Op 35, No\. 22](https://open.spotify.com/album/6lRwu0g0mCOzTryQHoLnux) | 1:42 | 2022-10-07 | 2023-09-15 |
 | [Etude Number 3 Op.60](https://open.spotify.com/track/3JvAVOKhKA7HwhzZTPwTtN) | [Pepe Ramos](https://open.spotify.com/artist/5CaB4jiKGfHTpuwao1OA0C) | [Etude Number 3 Op.60](https://open.spotify.com/album/4g1mD9iy0ptAjFz7sgmzI8) | 2:31 | 2022-03-03 | 2022-07-15 |
@@ -104,7 +105,7 @@
 | [María Elena](https://open.spotify.com/track/10uj4OUMAm6uSylGheBhfp) | [Las Guitarras Románticas](https://open.spotify.com/artist/1ujwlcR6oyT856VONw14pD) | [Guitarras Mágicas \(En El Sonido De Los Indios Cabajaras\)](https://open.spotify.com/album/0ryTLVrwIMFxpUjNl3eDNG) | 2:40 | 2022-03-03 | 2022-07-15 |
 | [Mazurka en Sol](https://open.spotify.com/track/74tqpoVLJW87YTF9ImkzAW) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Javier Van Velthoven](https://open.spotify.com/artist/4rUmg0lEB3QIm4OpxiTxoZ) | [Mazurka en Sol](https://open.spotify.com/album/62PWT934twLzR93hxVb5VM) | 3:55 | 2022-09-09 | 2024-07-18 |
 | [Me Dijeron Que Estas Bien](https://open.spotify.com/track/4giwucadmCriq0zubRnUNg) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Me Dijeron Que Estas Bien](https://open.spotify.com/album/1szujtJwnISWuBBCSqSR53) | 2:27 | 2022-03-03 | 2023-09-01 |
-| [Me Muero Sin Tus Besos](https://open.spotify.com/track/5A1XB9lNEvGHWNu1hkOpKT) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:25 | 2022-03-03 | 2022-07-09 |
+| [Me Muero Sin Tus Besos](https://open.spotify.com/track/5A1XB9lNEvGHWNu1hkOpKT) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:25 | 2022-03-03 |  |
 | [Memory of Our Love](https://open.spotify.com/track/73eHmfSGBggIkcySlR3y5G) | [Ulrich Steier](https://open.spotify.com/artist/53d66ja0O9INgwNvA4dIIY) | [Memory of Our Love](https://open.spotify.com/album/1lvDTXaytSSq0TZYmDA6gy) | 3:26 | 2022-07-15 | 2022-07-22 |
 | [Merula](https://open.spotify.com/track/28rRAAV0wy18FNxLgH46WQ) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Merula](https://open.spotify.com/album/3L05XKpAW8M2i9j7z1BbeN) | 4:09 | 2022-03-03 |  |
 | [Meyehualco](https://open.spotify.com/track/60TA1wktj8y67xnmyH0ISC) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Meyehualco](https://open.spotify.com/album/5JO6noENoD4vyFxpfUWWZA) | 4:13 | 2022-03-03 |  |

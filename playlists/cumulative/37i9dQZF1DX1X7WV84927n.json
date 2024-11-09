@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For full-volume lovers. Cover: VOLA",
+  "description": "For full-volume lovers. Cover: The Plot In You",
   "name": "Hard Rock",
   "tracks": [
     {
@@ -592,7 +592,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 278013,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/3EHJOZe6u7piShrCp3y7KD"
@@ -1616,7 +1616,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 267877,
       "name": "Been Here Before",
       "url": "https://open.spotify.com/track/2KlAdT5Y6515sZdOPka8sA"
@@ -3242,7 +3242,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 184311,
       "name": "CONTROL",
       "url": "https://open.spotify.com/track/4acG72pZiM3tSkqbf19xdB"
@@ -3720,7 +3720,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 181565,
       "name": "Dead Water",
       "url": "https://open.spotify.com/track/2BYtcrwFlIUwqvwFPssSQG"
@@ -4004,7 +4004,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 192676,
       "name": "DESERT RAP",
       "url": "https://open.spotify.com/track/3AJS1eZLyHUSUFq4RU2Jan"
@@ -4666,6 +4666,24 @@
       "duration_ms": 189897,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/4WVcTxy8lZqrz3wp0Mp1DF"
+    },
+    {
+      "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/2oJJxFn3IOAlbvdX6cS2BH"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277201,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/7jJ5zfsqNO1o85PlepGLxm"
     },
     {
       "album": {
@@ -5470,7 +5488,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 230909,
       "name": "Feel Me Now",
       "url": "https://open.spotify.com/track/0Qc7UYagLJkUM8xZ3b7gKJ"
@@ -5550,7 +5568,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 235770,
       "name": "Filthy Animals",
       "url": "https://open.spotify.com/track/2HQXLsU8j3chLoxIDxq3Vu"
@@ -5804,6 +5822,24 @@
       "duration_ms": 246479,
       "name": "Forever and a Day",
       "url": "https://open.spotify.com/track/6mcpRkHj2dBOFa2Dmc7TvU"
+    },
+    {
+      "album": {
+        "name": "Forever Cold",
+        "url": "https://open.spotify.com/album/4WmIS78V0gBBoYpKvXSZtc"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283714,
+      "name": "Forever Cold",
+      "url": "https://open.spotify.com/track/3uhvjTmAuHRlpgEAfj6SGY"
     },
     {
       "album": {
@@ -8366,7 +8402,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 167867,
       "name": "Infection",
       "url": "https://open.spotify.com/track/3uvVPu3tNJsAdH2ZzwflRz"
@@ -9290,7 +9326,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 233797,
       "name": "Let's Go Psycho!",
       "url": "https://open.spotify.com/track/77Kj1Y4KzxeqbtSPc9M92k"
@@ -9815,6 +9851,48 @@
     },
     {
       "album": {
+        "name": "Loosely Aware",
+        "url": "https://open.spotify.com/album/45QoTWB2NlZpMrrpLSjuy8"
+      },
+      "artists": [
+        {
+          "name": "Sol Invicto",
+          "url": "https://open.spotify.com/artist/5dyPWLr4wOvR1d6tSSVgrv"
+        },
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/5g6MeOHOenBIm8tyVjRfwQ"
+        },
+        {
+          "name": "SikTh",
+          "url": "https://open.spotify.com/artist/03mz3G1gu1GPNgAWY4qR2w"
+        },
+        {
+          "name": "Stephen Carpenter (of Deftones)",
+          "url": "https://open.spotify.com/artist/1culxorWJ7asjQIHf9RSzs"
+        },
+        {
+          "name": "Technical Itch",
+          "url": "https://open.spotify.com/artist/0KRqdhJSmE5uVSJ2SyDpRZ"
+        },
+        {
+          "name": "Richie Londres",
+          "url": "https://open.spotify.com/artist/38ZoSddjoRbcCcEXyqdWIj"
+        },
+        {
+          "name": "Plague To Pyres",
+          "url": "https://open.spotify.com/artist/3UEuTog3sQ7Dt3mTv0bsEo"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307974,
+      "name": "Lost In Translation",
+      "url": "https://open.spotify.com/track/4H78441VLOCuzkSHldIgJN"
+    },
+    {
+      "album": {
         "name": "Dream Machine (The Lucid Edition)",
         "url": "https://open.spotify.com/album/0aiL7SU1RkbrkjGydi2Q4F"
       },
@@ -10234,7 +10312,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 165868,
       "name": "MEDZ",
       "url": "https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ"
@@ -12172,7 +12250,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 181402,
       "name": "Over Me",
       "url": "https://open.spotify.com/track/4xGudlD8tKwVOZyevYyljd"
@@ -12660,7 +12738,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-01",
+      "date_removed": null,
       "duration_ms": 230270,
       "name": "Pieces Back Together",
       "url": "https://open.spotify.com/track/3VWGMEuzWZYLwA2MnpDI1d"
@@ -12772,7 +12850,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 185346,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/3pTCy3GDllLC0wHXtMSVZh"
@@ -14330,7 +14408,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 209952,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7"
@@ -14943,6 +15021,24 @@
     },
     {
       "album": {
+        "name": "Vol. 3",
+        "url": "https://open.spotify.com/album/0BWnYKF4PdH5ehk7oQU9W5"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217830,
+      "name": "Spare Me",
+      "url": "https://open.spotify.com/track/04NfX1qK7HBIzejYQhj6qn"
+    },
+    {
+      "album": {
         "name": "Speaking of the Devil",
         "url": "https://open.spotify.com/album/2vaWy2D9cVuzWBJPNcCgOX"
       },
@@ -15308,7 +15404,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 197546,
       "name": "Stuck In My Head",
       "url": "https://open.spotify.com/track/35N9LmzkCjMd2ZmAATzG6U"
@@ -15732,7 +15828,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 151426,
       "name": "Tell Us How It Ends",
       "url": "https://open.spotify.com/track/7lNQosc51yAoM8q36i6BiS"
@@ -16244,7 +16340,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 211333,
       "name": "The Great Escape",
       "url": "https://open.spotify.com/track/0s2hMxWDYLJ3JdVE8EznKF"
@@ -16334,7 +16430,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 237533,
       "name": "The Joke",
       "url": "https://open.spotify.com/track/2rJXSza2JQaOajEZBUhQbJ"
@@ -17134,7 +17230,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 143995,
       "name": "Those Were The Days",
       "url": "https://open.spotify.com/track/4QUpenmTaYWx0HCq2zx060"
@@ -18288,7 +18384,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 237378,
       "name": "Voodoo Doll (feat. Eva Under Fire)",
       "url": "https://open.spotify.com/track/5NcvwkdGZCJ8CgJTXSI2Jt"

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-355 songs - 21 hr 5 min
+356 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Gone](https://open.spotify.com/track/2dPT9UxyHm71quNyj3C4YE) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Gone](https://open.spotify.com/album/6ZHedelUpByxH6pYV3tCok) | 3:25 | 2022-09-30 | 2022-12-03 |
 | [Gone](https://open.spotify.com/track/6sHxpnCerm9M6A5zaFFNfs) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Gone](https://open.spotify.com/album/6o34olfBCXjvDTckpxl09t) | 3:25 | 2021-12-03 | 2022-10-13 |
 | [Gone](https://open.spotify.com/track/5TSYawMYDnedU0UAR4ajrS) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Not Since When](https://open.spotify.com/album/1nRMvOYyqvCfcVEo1rz4Id) | 3:09 | 2023-01-06 | 2024-04-27 |
+| [GONNA GET THRU](https://open.spotify.com/track/3XWwNfOWrALIGDFYVPVv4o) | [LUV HRTS](https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8) | [GONNA GET THRU](https://open.spotify.com/album/1xaU4SLIkG4xZUWw6jjNEo) | 3:20 | 2024-11-08 |  |
 | [Good Enough](https://open.spotify.com/track/1OlNYBgxkEL41GqBnN1X68) | [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [Good Enough](https://open.spotify.com/album/1FBX7KlwpLpKMeYG23xRDu) | 3:30 | 2023-08-04 |  |
 | [Good Together](https://open.spotify.com/track/0HNCtRy85eByDaQI2K92Xn) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Magical Thinking](https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ) | 3:57 | 2021-12-03 |  |
 | [Goodbye](https://open.spotify.com/track/1B0JPbHveYeKoEfOYep3Ja) | [SAINT](https://open.spotify.com/artist/5PoQmMLwwzA0lnmnhbip2n) | [Goodbye](https://open.spotify.com/album/40e19DXM4NgcsO1RenWOzI) | 4:30 | 2023-02-11 |  |

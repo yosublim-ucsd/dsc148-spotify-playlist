@@ -1,32 +1,128 @@
 {
-  "description": "featuring HARU NEMURI and Frost Children",
-  "num_followers": 464824,
+  "description": "featuring new music from Babymorocco & Frost Children",
+  "num_followers": 464849,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwiiwAAAAAB1dEFGGpXdDad36UQzzKti",
+  "snapshot_id": "Zy5e3gAAAAAOKdJxC6HJ1RfDdIcKNVBS",
   "tracks": [
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-11-08 18:47:26",
       "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+        "name": "Bikinis and Trackies (feat. Frost Children)",
+        "url": "https://open.spotify.com/album/0kknMhut1ToMI0xpBAfnCl"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Babymorocco",
+          "url": "https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe"
         },
         {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
         }
       ],
-      "duration_ms": 279227,
-      "name": "So I featuring a. g. cook",
-      "url": "https://open.spotify.com/track/03kw5kVvTjfZ4BAUU4Txx3"
+      "duration_ms": 163200,
+      "name": "Bikinis and Trackies (feat. Frost Children)",
+      "url": "https://open.spotify.com/track/3UtjaTgFZxKN38AkoJ5tED"
+    },
+    {
+      "added_at": "2024-11-08 18:47:26",
+      "album": {
+        "name": "kutna hora",
+        "url": "https://open.spotify.com/album/1CgVNjezGLgBw2wg9Le5fK"
+      },
+      "artists": [
+        {
+          "name": "food house",
+          "url": "https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g"
+        },
+        {
+          "name": "Gupi",
+          "url": "https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx"
+        },
+        {
+          "name": "Fraxiom",
+          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
+        }
+      ],
+      "duration_ms": 182505,
+      "name": "kutna hora",
+      "url": "https://open.spotify.com/track/312w1yQem0YU0WBDn8RR4q"
+    },
+    {
+      "added_at": "2024-11-08 18:48:33",
+      "album": {
+        "name": "if u cant change i wont either",
+        "url": "https://open.spotify.com/album/6cbERduaeaqMJhr8VdLhPm"
+      },
+      "artists": [
+        {
+          "name": "kuru",
+          "url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
+        }
+      ],
+      "duration_ms": 137165,
+      "name": "if u cant change i wont either",
+      "url": "https://open.spotify.com/track/3ytrBMN8PMbHeT7VEcvKlv"
+    },
+    {
+      "added_at": "2024-11-08 18:47:26",
+      "album": {
+        "name": "BACKSTABBER",
+        "url": "https://open.spotify.com/album/0fbtesLIKCnxirweAZDhVs"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "duration_ms": 192096,
+      "name": "BACKSTABBER",
+      "url": "https://open.spotify.com/track/6b0eb25qUlz5M5ogTKZqbI"
+    },
+    {
+      "added_at": "2024-11-08 18:47:26",
+      "album": {
+        "name": "Matter of Time",
+        "url": "https://open.spotify.com/album/24Bj3qVvgd26GPoen6cPOy"
+      },
+      "artists": [
+        {
+          "name": "umru",
+          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
+        },
+        {
+          "name": "Warpstr",
+          "url": "https://open.spotify.com/artist/3DosMG14ckPgT9iagZbcVc"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Matter of Time",
+      "url": "https://open.spotify.com/track/1vU5cy9TLV4Vd8uUURhWHq"
+    },
+    {
+      "added_at": "2024-11-08 18:47:26",
+      "album": {
+        "name": "NUMA NUMA MIKU HARDSYLE",
+        "url": "https://open.spotify.com/album/6Hck3QSdZcx6pyhL9S2Af5"
+      },
+      "artists": [
+        {
+          "name": "\u4e5dGANG",
+          "url": "https://open.spotify.com/artist/6Ug0gyqVnBzx4BoP7r3m46"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 177463,
+      "name": "NUMA NUMA MIKU HARDSYLE",
+      "url": "https://open.spotify.com/track/4dl64UyUWHugKLFzVTRpjQ"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -43,6 +139,26 @@
       "duration_ms": 126988,
       "name": "gold",
       "url": "https://open.spotify.com/track/74PYQHEdWRBPtLcJh5tzJj"
+    },
+    {
+      "added_at": "2024-11-08 18:47:26",
+      "album": {
+        "name": "NO WAY",
+        "url": "https://open.spotify.com/album/2U0dqlryDhAx7Lubl5vdsO"
+      },
+      "artists": [
+        {
+          "name": "brynzzaa",
+          "url": "https://open.spotify.com/artist/4PAm9RQGYBTorxma00G20E"
+        },
+        {
+          "name": "DIGITAL REY",
+          "url": "https://open.spotify.com/artist/0anUkBIQnpCcSiTa7vbOaS"
+        }
+      ],
+      "duration_ms": 117464,
+      "name": "NO WAY",
+      "url": "https://open.spotify.com/track/2HgGl2AsqaeGnFKtWTJzvR"
     },
     {
       "added_at": "2024-10-04 05:00:00",
@@ -63,6 +179,94 @@
       "duration_ms": 207146,
       "name": "Burn",
       "url": "https://open.spotify.com/track/2rGmDOHWb9zLND3x8gegMy"
+    },
+    {
+      "added_at": "2024-11-08 18:47:26",
+      "album": {
+        "name": "abandon",
+        "url": "https://open.spotify.com/album/1ZWi6kgNEeQWDQIsK5OB9R"
+      },
+      "artists": [
+        {
+          "name": "kylanonline",
+          "url": "https://open.spotify.com/artist/6WVi47Cyv8UBohLsXkgjdL"
+        },
+        {
+          "name": "heavn0nevaeh",
+          "url": "https://open.spotify.com/artist/6BPYSz8JH5FPU2yVAUqXKh"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "abandon",
+      "url": "https://open.spotify.com/track/1f495HskURAOHqW7e0PVoz"
+    },
+    {
+      "added_at": "2024-11-08 18:47:26",
+      "album": {
+        "name": "CAVALE! CAVALE!",
+        "url": "https://open.spotify.com/album/68AEssE8c18RfEo7e8XTMZ"
+      },
+      "artists": [
+        {
+          "name": "TH\u00c9A",
+          "url": "https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL"
+        }
+      ],
+      "duration_ms": 149840,
+      "name": "CAVALE! CAVALE!",
+      "url": "https://open.spotify.com/track/0ZQLRkRyn3300WyapdPoWT"
+    },
+    {
+      "added_at": "2024-11-08 18:51:21",
+      "album": {
+        "name": "circles",
+        "url": "https://open.spotify.com/album/1azKkMeLHkL5Terhetx7UN"
+      },
+      "artists": [
+        {
+          "name": "xxsagexx",
+          "url": "https://open.spotify.com/artist/4g1ExmNRjpmwlalG0VzAbH"
+        }
+      ],
+      "duration_ms": 125142,
+      "name": "circles",
+      "url": "https://open.spotify.com/track/5P5D7On19S3GJkWxdjnkD2"
+    },
+    {
+      "added_at": "2024-11-08 18:52:37",
+      "album": {
+        "name": "Go Get Your Lover",
+        "url": "https://open.spotify.com/album/6jxIUKriOnFD9FAz9Csfiw"
+      },
+      "artists": [
+        {
+          "name": "hhunter",
+          "url": "https://open.spotify.com/artist/5KH7MeHHmovSJL3Muoeqiw"
+        }
+      ],
+      "duration_ms": 131119,
+      "name": "Go Get Your Lover",
+      "url": "https://open.spotify.com/track/1AvMJcmPRnOzaqVv1ZloHA"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "duration_ms": 279227,
+      "name": "So I featuring a. g. cook",
+      "url": "https://open.spotify.com/track/03kw5kVvTjfZ4BAUU4Txx3"
     },
     {
       "added_at": "2024-10-03 18:36:45",
@@ -283,26 +487,6 @@
       "duration_ms": 107817,
       "name": "LET ME IN",
       "url": "https://open.spotify.com/track/3BH1bCV8rKSRLRtXr7B7CT"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "disappear",
-        "url": "https://open.spotify.com/album/2EqoCT71kjey7k2B3HSPGk"
-      },
-      "artists": [
-        {
-          "name": "adore",
-          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
-        },
-        {
-          "name": "Bibi Babydoll",
-          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
-        }
-      ],
-      "duration_ms": 116818,
-      "name": "disappear",
-      "url": "https://open.spotify.com/track/01JWBNFFeULob6w6SrDSAn"
     },
     {
       "added_at": "2024-09-20 22:37:50",

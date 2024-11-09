@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Angelia
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,636 likes - 83 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,637 likes - 83 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 10 | [Ini Tak Biasa](https://open.spotify.com/track/7tMd2JdpmRT0JmvYpfZGf5) | [Mirelle G Edith](https://open.spotify.com/artist/6IaBHU1Mw5RA8Ye6syJRo8) | [Ini Tak Biasa](https://open.spotify.com/album/7iGN3HT4VL5u2zPyM4ph2j) | 3:59 |
 | 11 | [Seribu](https://open.spotify.com/track/637Y2mXp050dDcE0Qugz4O) | [JI3](https://open.spotify.com/artist/3gvr9kE47UQfJhRBjSQCvL) | [Seribu](https://open.spotify.com/album/6HC5xpHgKwcDQ4IkHIW0wg) | 3:35 |
 | 12 | [180](https://open.spotify.com/track/6R9aKbKEIRGKjO9dLqfg51) | [Michael Rickard](https://open.spotify.com/artist/45Ci3JIPLftPkHA30hEH1b) | [180](https://open.spotify.com/album/2ZOvjxVcIqCyy4aOiuAfFJ) | 4:07 |
-| 13 | [Masterpiece](https://open.spotify.com/track/4VMkZPGDRUJ6eb8k5c39Ll) | [FLI](https://open.spotify.com/artist/5xTztTzgKws0k8F4Kj9GX3), [Nik Freak](https://open.spotify.com/artist/0blHB6j3hi15LvzWlCyPcc), [Viori](https://open.spotify.com/artist/7AdCCyCMKObmfPMOrSuP31), [he\-sa](https://open.spotify.com/artist/4gG8KZFvQuyiT30MiKBG3D), [REJECTED\(M\)ONEY](https://open.spotify.com/artist/0eMIGDq2eDoLZZ5932oZ5a), [Catty Beilschmidt](https://open.spotify.com/artist/3tejR7yxjqunhwtbvIFuaX), [B'Cozy](https://open.spotify.com/artist/2t3tKDy04oq11uv4HxwzS2), [Luqman Ski](https://open.spotify.com/artist/2S9iUTOIFxNOP5Ye8Ge5U2), [Decaak](https://open.spotify.com/artist/7jHYRqNivq1asMOwwyOE8F) | [Masterpiece](https://open.spotify.com/album/3VEfkIvtk6WmzVPdyXP7f0) | 5:27 |
+| 13 | [Masterpiece](https://open.spotify.com/track/4VMkZPGDRUJ6eb8k5c39Ll) | [FLI](https://open.spotify.com/artist/5xTztTzgKws0k8F4Kj9GX3), [Nik Freak](https://open.spotify.com/artist/0blHB6j3hi15LvzWlCyPcc), [Viori](https://open.spotify.com/artist/7AdCCyCMKObmfPMOrSuP31), [he\-sa](https://open.spotify.com/artist/4gG8KZFvQuyiT30MiKBG3D), [REJECTED\(M\)ONEY](https://open.spotify.com/artist/0eMIGDq2eDoLZZ5932oZ5a), [Catty Beilschmidt](https://open.spotify.com/artist/2pnH9oPGlto9JU17K8idOc), [B'Cozy](https://open.spotify.com/artist/05chi8kkhWwXT89ePGnWVx), [Luqman Ski](https://open.spotify.com/artist/2S9iUTOIFxNOP5Ye8Ge5U2), [Decaak](https://open.spotify.com/artist/7jHYRqNivq1asMOwwyOE8F) | [Masterpiece](https://open.spotify.com/album/3VEfkIvtk6WmzVPdyXP7f0) | 5:27 |
 | 14 | [Stretch](https://open.spotify.com/track/0J6v4qW2Ms9HWDWneTPF5k) | [Quest\*](https://open.spotify.com/artist/1ANrMVKvNeUO7S4uHBTtLS) | [Stretch](https://open.spotify.com/album/6SsYW6LLpJGimo8WEqIcMf) | 2:21 |
 | 15 | [What’s With That?](https://open.spotify.com/track/4aVX54MusK4LObVV2w6Fzy) | [Kinder Bloomen](https://open.spotify.com/artist/6Myz6IelnH81UoSa6rvd7K) | [What’s With That?](https://open.spotify.com/album/7zHTQ7NzNNG1075y8fnrLl) | 5:07 |
 | 16 | [Tolak Bala](https://open.spotify.com/track/1NCfymjAmBMl8mZoYLobEy) | [LMS](https://open.spotify.com/artist/3lur6xL7StKKB9TJ1UzXb7) | [GUNAGUNA](https://open.spotify.com/album/2GQPvUpOj2BbtJqc1JMXnE) | 4:36 |

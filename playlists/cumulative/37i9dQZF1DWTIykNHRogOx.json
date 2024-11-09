@@ -985,6 +985,24 @@
     },
     {
       "album": {
+        "name": "Aliocha Schneider (Deluxe)",
+        "url": "https://open.spotify.com/album/1ttdXNBRHGq9ASHdeA36cI"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Les Anges",
+      "url": "https://open.spotify.com/track/5qftMKQEhmvZTeP1zWXs1d"
+    },
+    {
+      "album": {
         "name": "Les ann\u00e9es lumi\u00e8re",
         "url": "https://open.spotify.com/album/7nvZv8TiBjGjl6hJRckc5W"
       },

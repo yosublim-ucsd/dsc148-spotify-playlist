@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Sam Barber",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Hudson Westbrook",
   "name": "New Boots",
   "tracks": [
     {
@@ -2703,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "PATTERNS",
+        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152813,
+      "name": "Baggage",
+      "url": "https://open.spotify.com/track/1ubHDF8Y9eM6ptjsNROEJa"
+    },
+    {
+      "album": {
         "name": "Heartache Medication (Deluxe Version)",
         "url": "https://open.spotify.com/album/79374TlgGM42y0R0z5LDxv"
       },
@@ -3628,6 +3646,24 @@
       "duration_ms": 197215,
       "name": "Better Than We Found It",
       "url": "https://open.spotify.com/track/6IVLDX1miNBy1BOWebnMP2"
+    },
+    {
+      "album": {
+        "name": "PUZZLED",
+        "url": "https://open.spotify.com/album/3pxSPXoAtymp2WjtmdgSyo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Schneider",
+          "url": "https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175080,
+      "name": "Better Than You Left Me",
+      "url": "https://open.spotify.com/track/545YitlCTuEg7C3DU27n6H"
     },
     {
       "album": {
@@ -5514,7 +5550,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 145373,
       "name": "Carhartt",
       "url": "https://open.spotify.com/track/6tLiTqiNM9qw5cqySd2FD9"
@@ -6542,7 +6578,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 168841,
       "name": "Couldn't Be Me",
       "url": "https://open.spotify.com/track/56wsU1rsd1bpIlzbe036yA"
@@ -7934,7 +7970,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 168271,
       "name": "DESERVE YOU",
       "url": "https://open.spotify.com/track/3lpuOZo3btK6Q2hWGDNo2K"
@@ -9774,7 +9810,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 269830,
       "name": "Ends of the Earth",
       "url": "https://open.spotify.com/track/30rU9CBF5cwiexNHJffkLS"
@@ -10481,6 +10517,24 @@
     },
     {
       "album": {
+        "name": "Father in a Bible",
+        "url": "https://open.spotify.com/album/26lP4nrMKZjuJlMOJUz9K8"
+      },
+      "artists": [
+        {
+          "name": "Jonas Conner",
+          "url": "https://open.spotify.com/artist/6C0TXBe9hNjH6NG8RkZMLv"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158833,
+      "name": "Father in a Bible",
+      "url": "https://open.spotify.com/track/3Z4QzgjewJHpiZEk2puD4D"
+    },
+    {
+      "album": {
         "name": "Fearless (The Echo)",
         "url": "https://open.spotify.com/album/5P0hRYIH6ZpS92LjqyRXuh"
       },
@@ -10926,7 +10980,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 223213,
       "name": "First Rodeo",
       "url": "https://open.spotify.com/track/42fu93ICEK8n1oJeu3syXk"
@@ -16692,7 +16746,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 202290,
       "name": "House Again",
       "url": "https://open.spotify.com/track/4OG8nSaGmiATo0y59bvehc"
@@ -29064,7 +29118,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 197400,
       "name": "Reel Problems",
       "url": "https://open.spotify.com/track/6GIQCOTlVMCn1XEcO3tUiG"
@@ -36423,6 +36477,24 @@
     },
     {
       "album": {
+        "name": "This World's A Giant",
+        "url": "https://open.spotify.com/album/1g6H1fp7COGdwnYGfLEG2D"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216160,
+      "name": "This World's A Giant",
+      "url": "https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8"
+    },
+    {
+      "album": {
         "name": "Thought of You",
         "url": "https://open.spotify.com/album/4BjMK8qsmHLXBHZOyDiiaX"
       },
@@ -37622,7 +37694,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 215746,
       "name": "Two Things",
       "url": "https://open.spotify.com/track/13zH3KnJYNaPbF8R0tfHPW"
@@ -38812,7 +38884,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 193666,
       "name": "weren't for the wind",
       "url": "https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl"

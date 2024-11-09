@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-573 songs - 1 day 18 hr 10 min
+574 songs - 1 day 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Desde Que O Samba E Samba](https://open.spotify.com/track/1SL9baz3WrN29MAkeyvaHn) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [A Bossa De Caetano](https://open.spotify.com/album/4PVqfWHbgxXs9IElHBCMFy) | 5:08 | 2024-03-08 | 2024-06-25 |
 | [Desde Que O Samba E Samba](https://open.spotify.com/track/6juNy6ewMDMU38YRpgcWR3) | [Caetano Veloso e Gilberto Gil](https://open.spotify.com/artist/0de6Qb2zkptulmWKNMlaSl) | [Tropicalia 2](https://open.spotify.com/album/2ybYLHauxa3H7MdxQmCDIg) | 5:11 | 2023-07-10 | 2024-04-19 |
 | [Desierto](https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM) | [Simah](https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L) | [Desierto](https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE) | 2:53 | 2023-07-10 |  |
-| [Dheem Thana Thana Nana](https://open.spotify.com/track/0wK8iikO9ePSrawtqKqmGq) | [Vijaya Anand](https://open.spotify.com/artist/1URKxHireD4bwhkGQWbKYX) | [Asia Classics I \- Dance Raja Dance](https://open.spotify.com/album/4Tz0EVpAZ8JZjnpIMrFpQ8) | 4:20 | 2024-03-08 |  |
+| [Dheem Thana Thana Nana](https://open.spotify.com/track/0wK8iikO9ePSrawtqKqmGq) | [Vijaya Anand](https://open.spotify.com/artist/1URKxHireD4bwhkGQWbKYX) | [Asia Classics I \- Dance Raja Dance](https://open.spotify.com/album/4Tz0EVpAZ8JZjnpIMrFpQ8) | 4:20 | 2024-03-08 | 2024-11-09 |
 | [Diablada](https://open.spotify.com/track/38PqAh2V5rVEjMrMcKW0KU) | [Alessio Arena](https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc) | [Diablada](https://open.spotify.com/album/73UznSereFOIS7Szoz6wxp) | 4:14 | 2024-03-08 |  |
 | [Diosa Luolaien](https://open.spotify.com/track/4uOtn5tM08iQvzL4N3EIBH) | [Ana Alcaide](https://open.spotify.com/artist/0kd6wWqc6KIbwHGZBGUdMN) | [Leyenda](https://open.spotify.com/album/3FlkqKCP2xJ9zcutzwZqAa) | 3:49 | 2024-03-08 |  |
 | [Disability](https://open.spotify.com/track/7xtwZcsB2NFZrpbaLc049v) | [Tanzania Albinism Collective](https://open.spotify.com/artist/1imqcUZSgrDXfGOwsgzCZV) | [Our Skin May Be Different, But Our Blood Is the Same](https://open.spotify.com/album/1THePggLcKULibBceBunYz) | 1:29 | 2024-03-08 |  |
@@ -581,5 +581,6 @@
 | [Zara Sa Jhoom Loon Main](https://open.spotify.com/track/4AfLtSXcvG8AkfQjDR0gJ1) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Dilwale Dulhania Le Jayenge \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0B8uilns8kvIsnfyCgXsrj) | 5:53 | 2023-07-10 | 2024-04-19 |
 | [Zare](https://open.spotify.com/track/32MRvyFmRSgfx8LEfgQvqj) | [Minyeshu](https://open.spotify.com/artist/3ntsRdTDNao8vYPk3aMmPQ) | [Black Ink](https://open.spotify.com/album/2xejEjBkZU0YYBdG2MBzcZ) | 4:30 | 2024-03-08 |  |
 | [Zvichapera](https://open.spotify.com/track/0EB6LdcMyj0SHhCAR45CRi) | [Chiwoniso](https://open.spotify.com/artist/5wDUccrtIJwwjOtqed0FrW) | [Zvichapera](https://open.spotify.com/album/6iMCoa8WkNpHSnRdDuMWlA) | 4:05 | 2023-07-10 |  |
+| [¡Juegue!](https://open.spotify.com/track/1oZT85apwCX0CBsDnKE88S) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Poética Bailable Vol\. 1](https://open.spotify.com/album/0WX90YTp6QsEVOHG5Qij3e) | 3:05 | 2024-11-08 |  |
 
 \*This playlist was first scraped on 2023-08-09. Prior content cannot be recovered.

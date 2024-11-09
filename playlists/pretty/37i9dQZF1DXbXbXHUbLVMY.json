@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 28369,
+  "num_followers": 28366,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/30pPojWH2mqVN5aXmocwRY"
+        "name": "HBB",
+        "url": "https://open.spotify.com/album/6dK27azNJ8Qu32xTC6G8HF"
       },
       "artists": [
         {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+          "name": "Robin Kadir",
+          "url": "https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2"
         },
         {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
         }
       ],
-      "duration_ms": 148373,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/21RCoKctRVVVG8nt8r5dsU"
+      "duration_ms": 146750,
+      "name": "HBB",
+      "url": "https://open.spotify.com/track/7v687tQvwWBKDe3f7uIP5L"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -159,22 +159,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "HBB",
-        "url": "https://open.spotify.com/album/6dK27azNJ8Qu32xTC6G8HF"
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/30pPojWH2mqVN5aXmocwRY"
       },
       "artists": [
         {
-          "name": "Robin Kadir",
-          "url": "https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2"
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
         },
         {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
         }
       ],
-      "duration_ms": 146750,
-      "name": "HBB",
-      "url": "https://open.spotify.com/track/7v687tQvwWBKDe3f7uIP5L"
+      "duration_ms": 148373,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/21RCoKctRVVVG8nt8r5dsU"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Norge Elsker Rap",
+        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 160106,
+      "name": "Tenke Sj\u00e6l",
+      "url": "https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "KrissyB",
         "url": "https://open.spotify.com/album/5Ye9jBwvEjQhl71G7Er6mK"
       },
@@ -439,18 +455,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Norge Elsker Rap",
-        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
+        "name": "Big Steppa",
+        "url": "https://open.spotify.com/album/28xty25VaSYUpXBQwFKYEf"
       },
       "artists": [
         {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
         }
       ],
-      "duration_ms": 160106,
-      "name": "Tenke Sj\u00e6l",
-      "url": "https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb"
+      "duration_ms": 136082,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/43MYhAw47PmHz31xY3mdrI"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -519,22 +535,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Big Steppa",
-        "url": "https://open.spotify.com/album/28xty25VaSYUpXBQwFKYEf"
-      },
-      "artists": [
-        {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
-        }
-      ],
-      "duration_ms": 136082,
-      "name": "Big Steppa",
-      "url": "https://open.spotify.com/track/43MYhAw47PmHz31xY3mdrI"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Hj\u00e4rta",
         "url": "https://open.spotify.com/album/2bZBvHKMCyYt3VdTSa8kPH"
       },
@@ -567,26 +567,6 @@
       "duration_ms": 160634,
       "name": "Aktiv",
       "url": "https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Tenk Inte",
-        "url": "https://open.spotify.com/album/76PgNeucZNboWgBKHP25kB"
-      },
-      "artists": [
-        {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        },
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Tenk Inte",
-      "url": "https://open.spotify.com/track/2pqQRRFqx4N2vgUpyNCjeZ"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -647,6 +627,26 @@
       "duration_ms": 151693,
       "name": "players (feat. Ari Bajgora)",
       "url": "https://open.spotify.com/track/5E76BN3Mzf66NPmiACqUi6"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Tenk Inte",
+        "url": "https://open.spotify.com/album/76PgNeucZNboWgBKHP25kB"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        },
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Tenk Inte",
+      "url": "https://open.spotify.com/track/2pqQRRFqx4N2vgUpyNCjeZ"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1099,34 +1099,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "MIDDELS DEPPA MILLION\u00c6R",
-        "url": "https://open.spotify.com/album/1C7J7JOEbNr8mtQxypHB6y"
+        "name": "Takket v\u00e6re livet",
+        "url": "https://open.spotify.com/album/0FpElBecf0GKSZh1ZV2XZC"
       },
       "artists": [
         {
-          "name": "Blackie",
-          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
-        }
-      ],
-      "duration_ms": 146053,
-      "name": "MIDDELS DEPPA MILLION\u00c6R",
-      "url": "https://open.spotify.com/track/14HAQu50AX51cSSmk6zsS5"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Norge Elsker Rap",
-        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
-      },
-      "artists": [
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+        },
         {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
         }
       ],
-      "duration_ms": 179480,
-      "name": "Beige",
-      "url": "https://open.spotify.com/track/37oQFO7hlyXvgZ0qQwrGsj"
+      "duration_ms": 210453,
+      "name": "555",
+      "url": "https://open.spotify.com/track/4s8kJv5M6vIXPciohYgMHN"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1147,22 +1135,50 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Takket v\u00e6re livet",
-        "url": "https://open.spotify.com/album/0FpElBecf0GKSZh1ZV2XZC"
+        "name": "Norge Elsker Rap",
+        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
       },
       "artists": [
         {
-          "name": "Jonas Benyoub",
-          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
-        },
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
         }
       ],
-      "duration_ms": 210453,
-      "name": "555",
-      "url": "https://open.spotify.com/track/4s8kJv5M6vIXPciohYgMHN"
+      "duration_ms": 179480,
+      "name": "Beige",
+      "url": "https://open.spotify.com/track/37oQFO7hlyXvgZ0qQwrGsj"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "MIDDELS DEPPA MILLION\u00c6R",
+        "url": "https://open.spotify.com/album/1C7J7JOEbNr8mtQxypHB6y"
+      },
+      "artists": [
+        {
+          "name": "Blackie",
+          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
+        }
+      ],
+      "duration_ms": 146053,
+      "name": "MIDDELS DEPPA MILLION\u00c6R",
+      "url": "https://open.spotify.com/track/14HAQu50AX51cSSmk6zsS5"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Back It Up",
+        "url": "https://open.spotify.com/album/1tdaOMAQN2wuvnScz3m2eK"
+      },
+      "artists": [
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        }
+      ],
+      "duration_ms": 138754,
+      "name": "Back It Up",
+      "url": "https://open.spotify.com/track/1Y23sm3HjBKm0FZ48KQAL8"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1195,22 +1211,6 @@
       "duration_ms": 194526,
       "name": "Ment for hverandre",
       "url": "https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Back It Up",
-        "url": "https://open.spotify.com/album/1tdaOMAQN2wuvnScz3m2eK"
-      },
-      "artists": [
-        {
-          "name": "Rambow",
-          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
-        }
-      ],
-      "duration_ms": 138754,
-      "name": "Back It Up",
-      "url": "https://open.spotify.com/track/1Y23sm3HjBKm0FZ48KQAL8"
     },
     {
       "added_at": "2024-11-07 23:00:00",

@@ -2,9 +2,9 @@
 
 ### [Soulful Christmas](https://open.spotify.com/playlist/37i9dQZF1DWXcOHfWefCtg)
 
-> Soulful takes on all your Holiday favorites\. Cover: John Legend
+> Soulful takes on all your Holiday favorites\. Cover: Devon Gilfillian
 
-79 songs - 4 hr 25 min
+80 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Christmas Gift](https://open.spotify.com/track/51vwJCC1qjBSdWp47n2ARR) | [Margie Joseph](https://open.spotify.com/artist/5pq13QK3UcktjZaDw6dJEc) | [Christmas Hits \(The Best Christmas Pop\)](https://open.spotify.com/album/2dW3GTKO9preTfMDTkWv9N) | 3:28 | 2022-12-06 |  |
 | [Christmas Gift](https://open.spotify.com/track/54LItSE1N9MSjF8bIdwuYY) | [Margie Joseph](https://open.spotify.com/artist/5pq13QK3UcktjZaDw6dJEc) | [Músicas de Natal](https://open.spotify.com/album/1RHO8o29AWNh6TmUPANc46) | 3:28 | 2022-12-06 | 2024-04-19 |
 | [Christmas Groove](https://open.spotify.com/track/0H925kYkEofwvF8g2oIos1) | [Vernon Garrett](https://open.spotify.com/artist/40QepulV493VVhpCsBL6Uu) | [Merry Christmas Baby](https://open.spotify.com/album/6cVHfWKMVcKKc3VChVI9C6) | 2:28 | 2022-12-06 |  |
+| [Christmas Is Love](https://open.spotify.com/track/7c6fEs9S4cQY9kJQ1pDIGh) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Christmas Is Love](https://open.spotify.com/album/4lBaCss8rJp4wYGv7B1N8d) | 5:58 | 2024-11-08 |  |
 | [Christmas Kisses](https://open.spotify.com/track/6kkS5mv7VCMBFjMYRP6iJu) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Christmas Kisses](https://open.spotify.com/album/3nowY3FIVGxnVxZqVqN3ki) | 3:31 | 2023-11-03 |  |
 | [Christmas Love](https://open.spotify.com/track/2vETTjXh0QRlkUETTlcbOg) | [Rotary Connection](https://open.spotify.com/artist/3dGTi4MZZo4zXdQaKAS1va) | [Peace](https://open.spotify.com/album/4Qa0c8WVupl3IL22pAZDdW) | 3:11 | 2021-11-12 |  |
 | [Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/6KVKod5NIBFqoKsgXfI6cz) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Voyage To India \- Special Edition](https://open.spotify.com/album/5gnsCHk9Y77xaVARBD0vwf) | 2:39 | 2021-11-12 | 2024-04-19 |

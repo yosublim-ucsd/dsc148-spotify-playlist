@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Joema Lauriano",
+  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Denise Julia",
   "name": "OPM Rising",
   "tracks": [
     {
@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 196000,
       "name": "Baggages",
       "url": "https://open.spotify.com/track/5CdRKbPYKe0V2bgNrQfRcd"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 262191,
       "name": "Balang Araw Ay Mapapangiti ft. Zel Bautista of December Avenue",
       "url": "https://open.spotify.com/track/6JDitV6kw2qY4RSYiFDNG2"
@@ -474,7 +474,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 175461,
       "name": "Cherry On Top",
       "url": "https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07"
@@ -680,7 +680,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 176520,
       "name": "EL CHAPO",
       "url": "https://open.spotify.com/track/2DbrW7nxlnFEPTPB1rEsbr"
@@ -839,6 +839,24 @@
     },
     {
       "album": {
+        "name": "Ganda Gandahan",
+        "url": "https://open.spotify.com/album/2ks1JP6W8xJugERaZa4vYU"
+      },
+      "artists": [
+        {
+          "name": "dia mat\u00e9",
+          "url": "https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216020,
+      "name": "Ganda Gandahan",
+      "url": "https://open.spotify.com/track/257uKMQiyZ4audCBnYOeHc"
+    },
+    {
+      "album": {
         "name": "GG",
         "url": "https://open.spotify.com/album/4pJKueoWBiN6xMcIEYke3q"
       },
@@ -868,7 +886,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 282031,
       "name": "Gitna",
       "url": "https://open.spotify.com/track/673iq8PwHzUQCSlbCtzPcq"
@@ -1274,7 +1292,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 246522,
       "name": "Kaakit-akit",
       "url": "https://open.spotify.com/track/6GPfKhdih8hhpC0MJXDu6G"
@@ -1292,7 +1310,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 213409,
       "name": "Kahit Saglit",
       "url": "https://open.spotify.com/track/7GtJ65ONCbbcDYizn9T4lE"
@@ -1310,7 +1328,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 206584,
       "name": "kaibigan",
       "url": "https://open.spotify.com/track/3rwioq6hSNjwynK8rVPCma"
@@ -1332,6 +1350,24 @@
       "duration_ms": 228707,
       "name": "KAMEHAMEHA",
       "url": "https://open.spotify.com/track/4vt5xae70yXSP9jwy42q9e"
+    },
+    {
+      "album": {
+        "name": "Method Adaptor",
+        "url": "https://open.spotify.com/album/7hsFUqyMvYNWcjMLfi1oUp"
+      },
+      "artists": [
+        {
+          "name": "Ely Buendia",
+          "url": "https://open.spotify.com/artist/5C8exBHLifsjZxzVErjRpn"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255013,
+      "name": "Kandarapa",
+      "url": "https://open.spotify.com/track/6nHOthPB3o6MCXNZ0Fa6ta"
     },
     {
       "album": {
@@ -1408,10 +1444,28 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 250800,
       "name": "Kasayaw",
       "url": "https://open.spotify.com/track/5ocqqw7odUNJXBdnGUJCQa"
+    },
+    {
+      "album": {
+        "name": "kiss",
+        "url": "https://open.spotify.com/album/00soTzV3z8l97RY0Z26l69"
+      },
+      "artists": [
+        {
+          "name": "rhodessa",
+          "url": "https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160891,
+      "name": "kiss",
+      "url": "https://open.spotify.com/track/4WoFk6eYCFzln1TlbmY9kB"
     },
     {
       "album": {
@@ -1487,6 +1541,24 @@
     },
     {
       "album": {
+        "name": "Lagi Na Lang",
+        "url": "https://open.spotify.com/album/294o3fzYUe4vxWDfaMIcOf"
+      },
+      "artists": [
+        {
+          "name": "Sugarcane",
+          "url": "https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249725,
+      "name": "Lagi Na Lang",
+      "url": "https://open.spotify.com/track/3PweW0iw8tbD3bGHbKvteg"
+    },
+    {
+      "album": {
         "name": "Lalim",
         "url": "https://open.spotify.com/album/2XmT37yNkFXpdOtLGoynNP"
       },
@@ -1552,10 +1624,32 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 260191,
       "name": "Lia",
       "url": "https://open.spotify.com/track/6uHHGyKxMg5MOUbXsqVgxL"
+    },
+    {
+      "album": {
+        "name": "Ligaw Na Bullet",
+        "url": "https://open.spotify.com/album/3sY1lY0ihlyzHLYSqVbHMI"
+      },
+      "artists": [
+        {
+          "name": "Denise Laurel",
+          "url": "https://open.spotify.com/artist/0t4whsA8hlWvd5heJSlKln"
+        },
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167400,
+      "name": "Ligaw Na Bullet",
+      "url": "https://open.spotify.com/track/2BL9FaDzqMagOViRAKjJCY"
     },
     {
       "album": {
@@ -1606,7 +1700,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 198538,
       "name": "Like That",
       "url": "https://open.spotify.com/track/6nVpxxlFvLi3KdG6ZBYokr"
@@ -1624,7 +1718,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 228000,
       "name": "Lila",
       "url": "https://open.spotify.com/track/14Edofhd6KHcuO51WitSLV"
@@ -1678,7 +1772,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 232409,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/2SABOK9LGZ68jM5TPPHBvD"
@@ -1714,7 +1808,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 154127,
       "name": "Mad",
       "url": "https://open.spotify.com/track/12bFyPA8NKbNKrK6jjCoW6"
@@ -1732,7 +1826,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 187433,
       "name": "Mahal Na Yata Kita",
       "url": "https://open.spotify.com/track/0lE7yCSaySzXOAYESodkJQ"
@@ -1837,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "Marilag",
+        "url": "https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157692,
+      "name": "Marilag",
+      "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
+    },
+    {
+      "album": {
         "name": "Mas Gusto Kita",
         "url": "https://open.spotify.com/album/1Tqdtyo89IGVfIQA5fCMDB"
       },
@@ -1870,7 +1982,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 253521,
       "name": "Medyo Ako (feat. Moira Dela Torre)",
       "url": "https://open.spotify.com/track/2iVloJhXpLh5eMat9VDMLG"
@@ -1924,7 +2036,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 217987,
       "name": "Miss",
       "url": "https://open.spotify.com/track/42Ca18hBHZyFIdw0JCL51j"
@@ -1942,7 +2054,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 268831,
       "name": "miss na kita",
       "url": "https://open.spotify.com/track/0p6FNNJvTSSMLrLewHbLvv"
@@ -2076,7 +2188,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 178250,
       "name": "Naliligaw",
       "url": "https://open.spotify.com/track/5NtXzPfin1HBrIp8gsCxnn"
@@ -2134,7 +2246,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 200725,
       "name": "Nandito Na Ako",
       "url": "https://open.spotify.com/track/6Af7cKFcnabaS0WAILVS5g"
@@ -2242,7 +2354,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 204051,
       "name": "Oksihina",
       "url": "https://open.spotify.com/track/06VwVWrnYSTIikz801hGwD"
@@ -2297,6 +2409,28 @@
     },
     {
       "album": {
+        "name": "Pag-asa",
+        "url": "https://open.spotify.com/album/47DWeKvWujInh8xiR4MFWq"
+      },
+      "artists": [
+        {
+          "name": "Guddhist Gunatita",
+          "url": "https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL"
+        },
+        {
+          "name": "LOIR",
+          "url": "https://open.spotify.com/artist/2wNzD7tmG11cqjFBbzo7Qn"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213975,
+      "name": "Pag-asa",
+      "url": "https://open.spotify.com/track/6R7rgKajdeEl3SRL5sUCXo"
+    },
+    {
+      "album": {
         "name": "Pagbigyan",
         "url": "https://open.spotify.com/album/35FpOjf15ugBMGuf3Bem3w"
       },
@@ -2308,7 +2442,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 284658,
       "name": "Pagbigyan",
       "url": "https://open.spotify.com/track/6hHyv6Lw3z6wlQO8f8unOC"
@@ -2402,7 +2536,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 162050,
       "name": "panalangin",
       "url": "https://open.spotify.com/track/68doFzNBmManicbD9yfRoA"
@@ -2514,7 +2648,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 191341,
       "name": "Pinaglaban",
       "url": "https://open.spotify.com/track/4Kt8WjjUi3ot5GBAPFDB3X"
@@ -2568,7 +2702,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 241785,
       "name": "prinsesa",
       "url": "https://open.spotify.com/track/6N7A3JFbsVOUcfiT6ltjrq"
@@ -2688,7 +2822,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 180000,
       "name": "Sabado Night",
       "url": "https://open.spotify.com/track/5RtqAvmQOp8gD6enenvW6Y"
@@ -2760,7 +2894,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 250989,
       "name": "Salbabida",
       "url": "https://open.spotify.com/track/1VpidxmlCDlPGd17KffCEA"
@@ -3169,6 +3303,28 @@
     },
     {
       "album": {
+        "name": "Sweet Nothings (Chapter 2)",
+        "url": "https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        },
+        {
+          "name": "Jay R",
+          "url": "https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159250,
+      "name": "sweet nothings",
+      "url": "https://open.spotify.com/track/5aC91iyzOTL31zeZOHsmip"
+    },
+    {
+      "album": {
         "name": "Tagpi-Tagping Piraso",
         "url": "https://open.spotify.com/album/1sZHJjzmRCPByEp5LvqOqq"
       },
@@ -3234,7 +3390,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 212564,
       "name": "Teka Muna (Sandali)",
       "url": "https://open.spotify.com/track/3x92F7d3W7q0VEkMSNyMZC"
@@ -3408,7 +3564,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 173000,
       "name": "twin flames",
       "url": "https://open.spotify.com/track/0Ik9LPqXs0DYConyjqvEFR"
@@ -3444,7 +3600,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 204003,
       "name": "Walang Humpay",
       "url": "https://open.spotify.com/track/1ViEbFEyP4VLQ9cBGOeGuj"
@@ -3484,6 +3640,28 @@
       "duration_ms": 168544,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/7HtYsjAAc4KRKSr6L5rZTS"
+    },
+    {
+      "album": {
+        "name": "When This Is Over",
+        "url": "https://open.spotify.com/album/5jVbIiCW8adtS2s1JB1upv"
+      },
+      "artists": [
+        {
+          "name": "Elise Huang",
+          "url": "https://open.spotify.com/artist/7BpTHJjMVI0B2WFeO2UYTi"
+        },
+        {
+          "name": "barb.",
+          "url": "https://open.spotify.com/artist/3c97nGqpNhVKMhxn8zEB33"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210402,
+      "name": "When This Is Over",
+      "url": "https://open.spotify.com/track/72ezguRtLrIJmYmKDlfwqU"
     },
     {
       "album": {
@@ -3592,7 +3770,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 258359,
       "name": "\u2018Di Ko Masabi",
       "url": "https://open.spotify.com/track/3JEE0hhTI6u9CEZCZWalKe"

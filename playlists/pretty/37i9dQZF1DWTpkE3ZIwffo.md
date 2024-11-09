@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpkE3ZIwffo.md) - [plain]
 
 > Te portaste mal\. Foto: BM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,013 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,087 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpkE3ZIwffo.md) - [plain]
 | 20 | [Me Escapé](https://open.spotify.com/track/0iVcmJx7r74F7mTf7M6s0v) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [Me Escapé](https://open.spotify.com/album/2ypjhfhKCKTtyvB5IW5ZcU) | 2:56 |
 | 21 | [¿Y pa la Wacha Loca? \(con Salastkbron\) \- Remix](https://open.spotify.com/track/4IkSOwB9JRhq7oScl4pCW9) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [¿Y pa la Wacha Loca? \(con Salastkbron\) \[Remix\]](https://open.spotify.com/album/4Pg9HfkoILc1bvEUSUfv1J) | 3:49 |
 | 22 | [Sesión \- 6](https://open.spotify.com/track/5sMcmy7UVizJoSm9YNZFyZ) | [Axel Caram](https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [Sesión \- 6](https://open.spotify.com/album/3qa4N8Y6qDAuBGUJHtCgei) | 2:30 |
-| 23 | [La Chispa Es Una](https://open.spotify.com/track/7lLc3W3Yb2vGOrkuK0N0XH) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [La Chispa Es Una](https://open.spotify.com/album/1NJUBPeIi31tnYEOBtsSnr) | 2:51 |
+| 23 | [La Chispa Es Una](https://open.spotify.com/track/7lLc3W3Yb2vGOrkuK0N0XH) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Alejo Isakk](https://open.spotify.com/artist/1e1IR2nfSPsCbCxZaYTulK), [Gusty dj](https://open.spotify.com/artist/6A6qNFh1bOIg8mYkz1IgNx) | [La Chispa Es Una](https://open.spotify.com/album/1NJUBPeIi31tnYEOBtsSnr) | 2:51 |
 | 24 | [Pal Party](https://open.spotify.com/track/3sWXB7x9mwNkrHD2lFtept) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [Pal Party](https://open.spotify.com/album/3J0jOvR1gVCShYy6YLWLFC) | 2:16 |
 | 25 | [BM \| Mission 18](https://open.spotify.com/track/2UIiJWTPP2BLPZKHbe4nhP) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [BM \| Mission 18](https://open.spotify.com/album/16jEh2XoL253AFYGCjzN16) | 2:57 |
 | 26 | [CALLEJERO FINO \| DJ TAO Turreo Sessions \#723](https://open.spotify.com/track/3fUZbg31mIJKIxuv8nUcGg) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [CALLEJERO FINO \| DJ TAO Turreo Sessions \#723](https://open.spotify.com/album/3QH6xfxFEoQNVUdtlyHpup) | 2:43 |

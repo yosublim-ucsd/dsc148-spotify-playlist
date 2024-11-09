@@ -1979,6 +1979,24 @@
     },
     {
       "album": {
+        "name": "Anglia",
+        "url": "https://open.spotify.com/album/2vFVsOSAxzVKJlQRI0DuHR"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131977,
+      "name": "Anglia",
+      "url": "https://open.spotify.com/track/5sFEhVXljNz3VPW404UHey"
+    },
+    {
+      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
@@ -6434,7 +6452,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 198837,
       "name": "Cine N-a Gresit Vreodata",
       "url": "https://open.spotify.com/track/7Lt9GmQADKBkE5ch07n8fY"
@@ -6962,7 +6980,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 201230,
       "name": "Combin Rom",
       "url": "https://open.spotify.com/track/2w1L0bFNsy6fDEX7KiQ62S"
@@ -8952,7 +8970,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 145040,
       "name": "Diss Music Romania",
       "url": "https://open.spotify.com/track/00h0W7OACncGvIWVhwGhPX"
@@ -12858,7 +12876,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-05",
+      "date_removed": null,
       "duration_ms": 188355,
       "name": "Gipsy Style",
       "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
@@ -27344,7 +27362,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 162461,
       "name": "RUPE-TE MAMI",
       "url": "https://open.spotify.com/track/4Uj8pdbro2QZmWpAbpdgI0"

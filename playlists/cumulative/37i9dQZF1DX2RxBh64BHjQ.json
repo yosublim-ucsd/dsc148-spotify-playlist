@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:6qxpnaukVayrQn6ViNvu9I\">BigXthaPlug</a>",
+  "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:1K15GRZZATsCJyGJ4bYiEz\">Luh Tyler</a>",
   "name": "Most Necessary",
   "tracks": [
     {
@@ -7481,6 +7481,24 @@
     },
     {
       "album": {
+        "name": "Richey Rich",
+        "url": "https://open.spotify.com/album/2P2kHr1m4bZUN9fNn7eyYB"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Come Outside (So Sick)",
+      "url": "https://open.spotify.com/track/6ueIEZa5Gbu6n9jLdFUyh9"
+    },
+    {
+      "album": {
         "name": "Come Over (feat. 2 Chainz & Mike WiLL Made-It)",
         "url": "https://open.spotify.com/album/5eJiWlOOfkcbQsnYweD0wf"
       },
@@ -8369,6 +8387,28 @@
     },
     {
       "album": {
+        "name": "Dallas",
+        "url": "https://open.spotify.com/album/2ett4tFMejclvi2k8in5J4"
+      },
+      "artists": [
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176105,
+      "name": "Dallas",
+      "url": "https://open.spotify.com/track/0ZC12m6kUhU0gWGXD5VkVs"
+    },
+    {
+      "album": {
         "name": "DAMN HOMIE (feat. Lil Yachty)",
         "url": "https://open.spotify.com/album/2XNIXSvuuUUdC7I9zsSRvW"
       },
@@ -8882,7 +8922,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 131274,
       "name": "delusional",
       "url": "https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU"
@@ -10372,7 +10412,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 127894,
       "name": "Drive Da Boat (feat. BabyChiefDoit)",
       "url": "https://open.spotify.com/track/5uzUq9JgKWzcLuf0FBQD3a"
@@ -12442,10 +12482,32 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 104886,
       "name": "For Me",
       "url": "https://open.spotify.com/track/3blAqiAP9f44Kt3R7pQabP"
+    },
+    {
+      "album": {
+        "name": "Nardy World",
+        "url": "https://open.spotify.com/album/546FvdeuoSf9FA2o6RMpOy"
+      },
+      "artists": [
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203624,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/2mo4wJKJJR2lQCZYnTaI4Y"
     },
     {
       "album": {
@@ -15122,7 +15184,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 189937,
       "name": "HAHA",
       "url": "https://open.spotify.com/track/6QKsXlPrbg39EHLGoXGRsr"
@@ -18567,6 +18629,24 @@
     },
     {
       "album": {
+        "name": "Jwett",
+        "url": "https://open.spotify.com/album/4nva8ngqJypVALqkcZSPOG"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164606,
+      "name": "Jwett",
+      "url": "https://open.spotify.com/track/6kEMoHRKZWc0JZKLijIjVh"
+    },
+    {
+      "album": {
         "name": "K Toven",
         "url": "https://open.spotify.com/album/5vj3vuWumdZW2kOsBc9oXA"
       },
@@ -20630,6 +20710,28 @@
       "duration_ms": 112200,
       "name": "Linktree",
       "url": "https://open.spotify.com/track/3l3X3oX0OOBAODEwlGD8Gh"
+    },
+    {
+      "album": {
+        "name": "Tronicles",
+        "url": "https://open.spotify.com/album/4QIlVSCxe19PuTpd3OAbKd"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        },
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201665,
+      "name": "Lion's Den (feat. LAZER DIM 700)",
+      "url": "https://open.spotify.com/track/2f451diVdJbaG01Q1yClKW"
     },
     {
       "album": {
@@ -23611,6 +23713,24 @@
     },
     {
       "album": {
+        "name": "ANIMALS ONLY (ICE COLD)",
+        "url": "https://open.spotify.com/album/44YtWCi7ahAV8wvmreYKaO"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172106,
+      "name": "Nachos",
+      "url": "https://open.spotify.com/track/1lo4xyLFWHNRVJKLbKi4FZ"
+    },
+    {
+      "album": {
         "name": "Naked (feat. Latto)",
         "url": "https://open.spotify.com/album/28TW8LGKtoq5vu9h8UYcLM"
       },
@@ -24244,7 +24364,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 156238,
       "name": "Nightmare On Yo Street",
       "url": "https://open.spotify.com/track/1kN8soMYCBGxmCpim1oiMm"
@@ -26100,7 +26220,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 179266,
       "name": "One By One",
       "url": "https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx"
@@ -30972,7 +31092,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 139989,
       "name": "Rottweiler",
       "url": "https://open.spotify.com/track/2qRg52SDWzUNeSYRxBnMEV"
@@ -37996,6 +38116,28 @@
       "duration_ms": 117481,
       "name": "Vanish Mode",
       "url": "https://open.spotify.com/track/4xBooY8kGQA098b2vXCBXl"
+    },
+    {
+      "album": {
+        "name": "Very Demure (feat. NLE Choppa)",
+        "url": "https://open.spotify.com/album/416CEavuvizR7lBjaFXvSd"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Very Demure (feat. NLE Choppa)",
+      "url": "https://open.spotify.com/track/2KGVhsXYpwnjrwJDCgjR1B"
     },
     {
       "album": {

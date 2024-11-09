@@ -229,6 +229,32 @@
     },
     {
       "album": {
+        "name": "Bad Karma (Tech Panda & Kenzani Remix)",
+        "url": "https://open.spotify.com/album/6uRSaX4UtGPNgT3Hkxt8ta"
+      },
+      "artists": [
+        {
+          "name": "Axel Thesleff",
+          "url": "https://open.spotify.com/artist/1OpHMC7Qo3lY1sVYaTUQrG"
+        },
+        {
+          "name": "Tech Panda",
+          "url": "https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X"
+        },
+        {
+          "name": "Kenzani",
+          "url": "https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132449,
+      "name": "Bad Karma - Tech Panda & Kenzani Remix",
+      "url": "https://open.spotify.com/track/1U64rW3qxnTQuJmtez2r8m"
+    },
+    {
+      "album": {
         "name": "Balajori",
         "url": "https://open.spotify.com/album/0eR8Fv90kdJDljQeonMe2K"
       },
@@ -538,6 +564,28 @@
       "duration_ms": 247000,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/0OsuHhPPArdFzJGuIAacnN"
+    },
+    {
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/0WB3sFy1ECO0zB6frvz7Mm"
+      },
+      "artists": [
+        {
+          "name": "Shandy",
+          "url": "https://open.spotify.com/artist/7wzxTwUmgKL0KAILr32BvJ"
+        },
+        {
+          "name": "Osmani Soundz",
+          "url": "https://open.spotify.com/artist/2P1ss5dKw6GmppjdHCqAk4"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249815,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/0zcd6H60u8K1ETOW1N7OQh"
     },
     {
       "album": {
@@ -2460,6 +2508,24 @@
       "duration_ms": 102000,
       "name": "Samadhi",
       "url": "https://open.spotify.com/track/551ERD7f1t97rlc0DDBmdv"
+    },
+    {
+      "album": {
+        "name": "Samjhawan",
+        "url": "https://open.spotify.com/album/2dnIa9RvCHMZl2L7Brlfa5"
+      },
+      "artists": [
+        {
+          "name": "Zaira Ali",
+          "url": "https://open.spotify.com/artist/1FooeGICOzdQGc2rT7fFJ6"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163235,
+      "name": "Samjhawan",
+      "url": "https://open.spotify.com/track/1hiA4BK8Bu9Yjv9HRlVWfj"
     },
     {
       "album": {

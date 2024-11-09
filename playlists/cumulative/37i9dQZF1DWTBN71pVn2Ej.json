@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The shape of noise to come with Late 90s (pictured), trauma ray, Day Saints, Flycatcher and more.",
+  "description": "The shape of noise to come with enumclaw (pictured), Touch\u00e9 Amor\u00e9, trauma ray, Flycatcher and more.",
   "name": "adrenaline",
   "tracks": [
     {
@@ -622,7 +622,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 196516,
       "name": "Arm's Length",
       "url": "https://open.spotify.com/track/105jZxama5Oejv8AiN1k0N"
@@ -3996,7 +3996,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 243706,
       "name": "Enjoy",
       "url": "https://open.spotify.com/track/12sB4k4JIOvvlKqJzEHt3U"
@@ -6878,7 +6878,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 259000,
       "name": "Learned To Breathe",
       "url": "https://open.spotify.com/track/7puOt1aWPRXs4ikDsM64U9"
@@ -9032,6 +9032,24 @@
       "duration_ms": 245506,
       "name": "Positive Charge",
       "url": "https://open.spotify.com/track/0hfEJ8ls6bsD4mE1xLVaJO"
+    },
+    {
+      "album": {
+        "name": "Promise I Won't Call",
+        "url": "https://open.spotify.com/album/1mJag5irafu9HhIx664bwk"
+      },
+      "artists": [
+        {
+          "name": "Tarnish",
+          "url": "https://open.spotify.com/artist/2THrbWtOoqb3LNA0fiBfnW"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177280,
+      "name": "Promise I Won't Call",
+      "url": "https://open.spotify.com/track/7yhAfc9GtlztCMYF8fuZcc"
     },
     {
       "album": {
@@ -11377,6 +11395,24 @@
     },
     {
       "album": {
+        "name": "The Apollo Programme Was A Hoax",
+        "url": "https://open.spotify.com/album/2VfpzHUHKc4Ni26qeaD70D"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191400,
+      "name": "The Apollo Programme Was A Hoax",
+      "url": "https://open.spotify.com/track/0sXsOeBuEEPQPmJpPQhISe"
+    },
+    {
+      "album": {
         "name": "Horizons / East",
         "url": "https://open.spotify.com/album/6JLTZPPzQDKjv6zkenbZnc"
       },
@@ -11854,6 +11890,24 @@
       "duration_ms": 200872,
       "name": "Tired",
       "url": "https://open.spotify.com/track/6Vu4gc4ABD2KIBMLXgKSJn"
+    },
+    {
+      "album": {
+        "name": "Tired Eyes",
+        "url": "https://open.spotify.com/album/5Eiy3yNtWvmWH0WFwYPYeq"
+      },
+      "artists": [
+        {
+          "name": "Futureheaven",
+          "url": "https://open.spotify.com/artist/1ISFYRGSoDBgHUmARPMoiB"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "Tired Eyes",
+      "url": "https://open.spotify.com/track/4mDfcifrz9yvE4qwWl5onA"
     },
     {
       "album": {

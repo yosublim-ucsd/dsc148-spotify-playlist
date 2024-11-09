@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,262 songs - 2 day 16 hr 57 min
+1,264 songs - 2 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [27](https://open.spotify.com/track/6sx5BR9JRCw9pI1lRUiOeG) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [27](https://open.spotify.com/album/09fZmgDfFYSFQgQ2mc3lAg) | 3:18 | 2024-01-12 | 2024-04-19 |
 | [2725](https://open.spotify.com/track/5qYP2Jpli9QkYdgqAy5DEV) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Permanent Maniac](https://open.spotify.com/album/4beiEpxAm9hGTRYGgdOdyS) | 3:21 | 2020-10-29\* | 2021-02-20 |
 | [2b happy](https://open.spotify.com/track/0RXWN2VmORaPRzklOjz3B9) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [2b happy](https://open.spotify.com/album/2QHx8NdsnaTnczm9F51TQh) | 1:40 | 2020-10-29\* | 2020-11-03 |
+| [2DK](https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [2DK](https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv) | 3:16 | 2024-11-08 |  |
 | [3am in nyc](https://open.spotify.com/track/1qk8eEUJaGK2xWHhq8QZD5) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [IT'S OKAY, WE'RE DREAMING II: don't worry, i'll be fine](https://open.spotify.com/album/4aI8eV2NI3p6HdNMk43pcq) | 3:09 | 2022-08-26 | 2023-05-06 |
 | [3am in nyc](https://open.spotify.com/track/6gyTRWKIQ9XFjZrxrslFsg) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [3am in nyc](https://open.spotify.com/album/24eFlf4LVYWjP2ytw8CC8M) | 3:09 | 2022-08-19 | 2022-08-27 |
 | [4045](https://open.spotify.com/track/0dDXbcBI2DJW12FSWpSjgq) | [Ethan Surman](https://open.spotify.com/artist/12o3BOYKBwjbsjrW0Fm7iu) | [4045](https://open.spotify.com/album/2McpGRmdq0KRfDOfASZf2F) | 4:01 | 2022-09-23 | 2024-03-02 |
@@ -133,7 +134,7 @@
 | [Body And Mind](https://open.spotify.com/track/2dAHKe37uyUrB0v0PJrDDj) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/6EWTSpE0fh1tqRkajIZ2Tp) | 3:06 | 2021-05-03 | 2021-09-18 |
 | [Bodybag](https://open.spotify.com/track/3XlrbYlaUFnDYGfRcdoYRU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 2:38 | 2021-05-08 | 2021-07-17 |
 | [bon iver](https://open.spotify.com/track/2A6GfKINLJ2oN4sjUWj0g2) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/6oCFVNkKjrFRmieVbpQa3s) | 3:16 | 2020-10-29\* | 2020-11-07 |
-| [boo hoo](https://open.spotify.com/track/42Dvo910Rj43IijSxDFQTy) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [boo hoo](https://open.spotify.com/album/6IbJjpmcM4ewdqYjiSHCJM) | 2:46 | 2024-06-21 |  |
+| [boo hoo](https://open.spotify.com/track/42Dvo910Rj43IijSxDFQTy) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [boo hoo](https://open.spotify.com/album/6IbJjpmcM4ewdqYjiSHCJM) | 2:46 | 2024-06-21 | 2024-11-09 |
 | [Booty Call](https://open.spotify.com/track/7fTa1znarT0UvbtvLCAPxE) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Booty Call](https://open.spotify.com/album/4btdT0MHZpeqLNqY32VuKB) | 3:14 | 2022-04-15 | 2022-10-01 |
 | [Borders](https://open.spotify.com/track/1b6QfSPa8s05XgiTiPriVi) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Borders](https://open.spotify.com/album/32Bhy8Nr7QJHhL0dvvOSqs) | 2:42 | 2022-06-03 | 2022-07-09 |
 | [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2021-10-02 | 2022-01-22 |
@@ -868,6 +869,7 @@
 | [Pluto](https://open.spotify.com/track/1yZ5C5664QgxBtmdOtX0V5) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Pluto](https://open.spotify.com/album/7ouFPNHH7wa7kqHaLD2GIm) | 3:39 | 2023-01-20 | 2024-06-08 |
 | [Pool Party](https://open.spotify.com/track/15mEZWV8zsXtlQuq3fnv5C) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/3fecplOGKGwnaQLDkuywd4) | 2:58 | 2023-05-05 | 2023-10-07 |
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2022-01-07 | 2022-03-15 |
+| [Practice](https://open.spotify.com/track/34GzR0SBIwmqjgaGPdBWVv) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [Practice](https://open.spotify.com/album/4wWEslwP97WLcGQqbSk4Wh) | 3:17 | 2024-11-08 |  |
 | [predictable](https://open.spotify.com/track/5TrHE548MWLnVaUNdlUNTl) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [predictable](https://open.spotify.com/album/0Ia2tyRAn9W9gU50HTP8to) | 2:55 | 2022-01-07 | 2022-05-07 |
 | [pretty](https://open.spotify.com/track/5BCaPnsHqowMxitUiMZZF2) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [pretty](https://open.spotify.com/album/0Saa8EmKCUN2EUnCy4szRc) | 2:40 | 2024-03-29 |  |
 | [Pretty Blue Jeans & Me](https://open.spotify.com/track/5jgEDq4DihrSZV8u4igfIV) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Pretty Blue Jeans & Me](https://open.spotify.com/album/3lzJBYA6Yc7FcjJG1hf1vO) | 2:51 | 2021-10-02 | 2022-01-29 |
@@ -1041,7 +1043,7 @@
 | [Struggling](https://open.spotify.com/track/1BNw6qj11GrixmBUfFshVn) | [Liya Bombardier](https://open.spotify.com/artist/5Mpu0Q3NtAKnagP9pUJrxk) | [Struggling](https://open.spotify.com/album/7rwx5F4Q7MraUYAJSkSmDy) | 3:39 | 2021-11-13 | 2022-03-05 |
 | [Stuck Here Without You](https://open.spotify.com/track/2KmjwOAUJUs7UG1Z1zzoOy) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Stuck Here Without You](https://open.spotify.com/album/1oXM6adtUwiPaKbvHmgqZ2) | 2:07 | 2021-01-30 | 2021-02-13 |
 | [Stuck in the Middle](https://open.spotify.com/track/2HQPOVBAOU2EBTy1nBGRiW) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Stuck in the Middle](https://open.spotify.com/album/19udHG59Ov2Vjv1wn7as3q) | 3:16 | 2020-10-29\* | 2021-05-22 |
-| [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 | 2023-06-02 |  |
+| [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 | 2023-06-02 | 2024-11-09 |
 | [Studying Your Door](https://open.spotify.com/track/2pAbcnRMvygn1WPqGQX7dS) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Studying Your Door](https://open.spotify.com/album/2D1sSDYQrKkXfDrJArdubC) | 3:20 | 2022-04-08 | 2022-05-07 |
 | [Stupid](https://open.spotify.com/track/42c7aUxtj89o7CxXO6bJo5) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Stupid](https://open.spotify.com/album/4nZL6dJ1pZk81IA7sPkpWz) | 2:38 | 2022-03-04 | 2022-06-04 |
 | [Stupid 4 U](https://open.spotify.com/track/0XudTjuk5umhu2Q8KYEZDU) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Dizzy](https://open.spotify.com/album/18B8EjYaDsWbukaC6dXyvc) | 3:56 | 2023-08-18 | 2024-04-19 |

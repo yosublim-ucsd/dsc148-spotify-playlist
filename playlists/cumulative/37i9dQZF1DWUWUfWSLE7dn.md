@@ -4,7 +4,7 @@
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-173 songs - 8 hr 14 min
+174 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [To The Stars \- Dragonheart/Soundtrack Version](https://open.spotify.com/track/5LeCbkjJuhtqQhwXziPgUn) | [Randy Edelman](https://open.spotify.com/artist/3shMd6Vll0mOcviQ3hrk8m) | [Dragonheart](https://open.spotify.com/album/5Xdpw2hXUfkx7YCUwkD38X) | 3:14 | 2022-11-08 |  |
 | [Touchless](https://open.spotify.com/track/71D7iylmSl5mbsJUIrtqYV) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Touchless](https://open.spotify.com/album/6wridSsSkC6PXi9MZRj0Yk) | 2:53 | 2022-03-09 | 2022-11-09 |
 | [Tsimtsum](https://open.spotify.com/track/1RxaEvQCmT36nIZFYjpk5F) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Life of Pi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ogV7CBV00ONXAVx4tm0gk) | 2:49 | 2022-03-09 |  |
+| [Túndra](https://open.spotify.com/track/7l4zfFpyo8a1zKNsevVcDT) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Túndra](https://open.spotify.com/album/7wZskJqToFDU8RmWXLzUXi) | 2:23 | 2024-11-08 |  |
 | [Veo Tus Ojos](https://open.spotify.com/track/6Oqa6085qLYJbi6v9X2DEe) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Veo Tus Ojos](https://open.spotify.com/album/23kCmRZjRZIfvM7Pi2xRvz) | 3:06 | 2022-07-08 | 2022-11-09 |
 | [Vesper](https://open.spotify.com/track/38K2V3O8SKYvjY0T9v43Hg) | [David Arnold](https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE) | [Casino Royale \[International Version\]](https://open.spotify.com/album/5PUTv2vFUEOHRDHl2cCGCO) | 1:44 | 2023-12-21 |  |
 | [Vesper](https://open.spotify.com/track/5XNXEhNaj04CgXy8JvYiIL) | [David Arnold](https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE) | [Casino Royale](https://open.spotify.com/album/4GWyNknKDbVB8Lg1IiTy5k) | 1:44 | 2022-11-08 | 2024-04-19 |

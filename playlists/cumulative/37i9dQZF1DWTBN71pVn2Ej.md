@@ -2,9 +2,9 @@
 
 ### [adrenaline](https://open.spotify.com/playlist/37i9dQZF1DWTBN71pVn2Ej)
 
-> The shape of noise to come with Late 90s \(pictured\), trauma ray, Day Saints, Flycatcher and more.
+> The shape of noise to come with enumclaw \(pictured\), Touché Amoré, trauma ray, Flycatcher and more.
 
-716 songs - 1 day 16 hr 48 min
+719 songs - 1 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [anymore](https://open.spotify.com/track/3Aflrqauh1RdjS1X7c7brw) | [bellweather](https://open.spotify.com/artist/3loNiTR9fCtWsXqA80k9Ox) | [pass the noise](https://open.spotify.com/album/4ZbDms787OdObHT2e3D2FH) | 4:32 | 2024-08-23 |  |
 | [Applause](https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Applause](https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4) | 2:44 | 2022-12-15 | 2023-03-18 |
 | [Application For Release From The Dream](https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Application For Release From The Dream](https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw) | 4:29 | 2024-04-12 | 2024-09-06 |
-| [Arm's Length](https://open.spotify.com/track/105jZxama5Oejv8AiN1k0N) | [Leaving Time](https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y) | [Arm's Length](https://open.spotify.com/album/0hm9iq0ZEGYFyDVsAMmAzH) | 3:16 | 2024-10-18 |  |
+| [Arm's Length](https://open.spotify.com/track/105jZxama5Oejv8AiN1k0N) | [Leaving Time](https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y) | [Arm's Length](https://open.spotify.com/album/0hm9iq0ZEGYFyDVsAMmAzH) | 3:16 | 2024-10-18 | 2024-11-09 |
 | [asuka](https://open.spotify.com/track/0iYp1IQm4xoBTvHbJ0H53i) | [Futureheaven](https://open.spotify.com/artist/1ISFYRGSoDBgHUmARPMoiB) | [Colourwaves](https://open.spotify.com/album/4Ostle1eqw1kYAmJ8PTp22) | 3:33 | 2023-06-02 | 2023-09-09 |
 | [Attention](https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Attention](https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH) | 4:11 | 2024-03-01 | 2024-05-08 |
 | [Aubrey Plaza](https://open.spotify.com/track/4RRhVadj4ZUfxosBavoJlF) | [Lozenge](https://open.spotify.com/artist/2BspV2SDRrNTAChw5vlDIi) | [Blink Into Nothing](https://open.spotify.com/album/7IpgHM07oXxUJh8fNbqr77) | 4:12 | 2024-05-31 | 2024-10-05 |
@@ -226,7 +226,7 @@
 | [Eleven the Fair](https://open.spotify.com/track/1LffL6iYYSPCwKzbX9tRId) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [HLA\-11TF](https://open.spotify.com/album/5dX2zMk3Uxw7HNnqFTaVEj) | 4:16 | 2022-04-14 | 2022-09-07 |
 | [Emteevee](https://open.spotify.com/track/7nkkaFxgDNEWYwDVm8A42L) | [Indigo Blaze](https://open.spotify.com/artist/0hCmNM3Zwz6gYb8fdaxIcf) | [Emteevee](https://open.spotify.com/album/4HvMajvIdrVQJGWpxKRJFD) | 2:49 | 2022-11-11 | 2022-12-16 |
 | [Engage](https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr) | [Rain Check](https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj) | [Engage](https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f) | 3:06 | 2024-01-19 | 2024-07-27 |
-| [Enjoy](https://open.spotify.com/track/12sB4k4JIOvvlKqJzEHt3U) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Enjoy](https://open.spotify.com/album/7pKWkydV4yy6huq1W4EGKf) | 4:03 | 2024-09-13 |  |
+| [Enjoy](https://open.spotify.com/track/12sB4k4JIOvvlKqJzEHt3U) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Enjoy](https://open.spotify.com/album/7pKWkydV4yy6huq1W4EGKf) | 4:03 | 2024-09-13 | 2024-11-09 |
 | [Esruc](https://open.spotify.com/track/6vH3omqh1aRKVGtpbD4PT0) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [All You Embrace](https://open.spotify.com/album/5fXeDBzHjkgwYod1kt4EUL) | 2:16 | 2024-05-17 |  |
 | [Evergreen](https://open.spotify.com/track/0B2x5WZe10wZwQymjH4cKL) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Evergreen](https://open.spotify.com/album/6Vn4TX8VdT2zXsMPGj2LrX) | 3:07 | 2024-10-04 |  |
 | [Everything Blu](https://open.spotify.com/track/6VHRK7snwupgniSGeORQCt) | [Day Aches](https://open.spotify.com/artist/6fKJtGQ4ACpLgs1cqOMx3H) | [Everything Blu](https://open.spotify.com/album/0CWPNy15VAmkYMX8BpnR1R) | 3:05 | 2023-08-31 | 2024-03-28 |
@@ -385,7 +385,7 @@
 | [Lava Lamp Pisco](https://open.spotify.com/track/142WFjtY5Pww6AmoLpLCNE) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Lava Lamp Pisco](https://open.spotify.com/album/6OxduyVLmp55HliX26j59W) | 4:01 | 2021-12-16 | 2022-02-04 |
 | [Lean Into It](https://open.spotify.com/track/6jXiMMb5Hvz1NwITFVblZV) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [Lean Into It](https://open.spotify.com/album/5fduGd0WmVCmD3O9w2EcbS) | 4:09 | 2023-11-10 | 2024-03-02 |
 | [Leap Years](https://open.spotify.com/track/5VaWu5KxCmOdp7RDLodofW) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Leap Years](https://open.spotify.com/album/4wzM7nTc1gGCQheDLFRRqo) | 2:39 | 2024-03-01 | 2024-03-23 |
-| [Learned To Breathe](https://open.spotify.com/track/7puOt1aWPRXs4ikDsM64U9) | [Dosser](https://open.spotify.com/artist/4docLaOEimvNmjei3CLOzB) | [Learned To Breathe](https://open.spotify.com/album/2pTPcFK0uPiEeSZNf5TLA1) | 4:19 | 2024-10-11 |  |
+| [Learned To Breathe](https://open.spotify.com/track/7puOt1aWPRXs4ikDsM64U9) | [Dosser](https://open.spotify.com/artist/4docLaOEimvNmjei3CLOzB) | [Learned To Breathe](https://open.spotify.com/album/2pTPcFK0uPiEeSZNf5TLA1) | 4:19 | 2024-10-11 | 2024-11-09 |
 | [Leash](https://open.spotify.com/track/3jV6xQbRfeYUgwCZEsz1sJ) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Pollen](https://open.spotify.com/album/74nbOeJlCrxhAkyPdjqrXj) | 3:13 | 2021-12-16 | 2022-02-11 |
 | [Leave Me Be](https://open.spotify.com/track/3KaMmABQSuoGCtmpOcRzPh) | [Giveaway](https://open.spotify.com/artist/4kwtZRR88YHWOMWhvb5M5A) | [Leave Me Be](https://open.spotify.com/album/1XfyZCM5UPmYfpreFU7S9h) | 3:48 | 2023-05-26 | 2023-09-01 |
 | [Leave This Place](https://open.spotify.com/track/6NAjfD8F26BcBP3E9D6VY5) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Leave This Place](https://open.spotify.com/album/4ilfyeO8iIQGWMO4Dqd20u) | 3:26 | 2023-03-10 | 2023-06-24 |
@@ -505,6 +505,7 @@
 | [Playing With Fire](https://open.spotify.com/track/6Du6wbMKta7bWKuFeT2dVi) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Playing With Fire / ELF](https://open.spotify.com/album/5S0CnSM5Ni9l7W7xhdhhqF) | 3:23 | 2023-10-13 | 2023-11-24 |
 | [Port Allan](https://open.spotify.com/track/1yFjgcnb3i78OhsDl1SCzN) | [Semantics](https://open.spotify.com/artist/3ulcHuTU6eBcORZBJDhG6m) | [Port Allan](https://open.spotify.com/album/6QT6q5wk57T4mEud5tgEqL) | 3:55 | 2024-08-16 | 2024-10-19 |
 | [Positive Charge](https://open.spotify.com/track/0hfEJ8ls6bsD4mE1xLVaJO) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Positive Charge](https://open.spotify.com/album/65tqECce0kcEihRHm8QDmR) | 4:05 | 2023-05-19 | 2023-07-21 |
+| [Promise I Won't Call](https://open.spotify.com/track/7yhAfc9GtlztCMYF8fuZcc) | [Tarnish](https://open.spotify.com/artist/2THrbWtOoqb3LNA0fiBfnW) | [Promise I Won't Call](https://open.spotify.com/album/1mJag5irafu9HhIx664bwk) | 2:57 | 2024-11-08 |  |
 | [Proud Of You](https://open.spotify.com/track/0PAyt2UZAFlt8IxUm6bVSS) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [Proud Of You](https://open.spotify.com/album/2b8gPyA3J0k2XqD0QdcNEg) | 3:56 | 2023-08-31 | 2023-10-21 |
 | [Pull a Little Closer](https://open.spotify.com/track/0dP6zvd8GGgicv6bYnzBlR) | [Bleach](https://open.spotify.com/artist/6BKGabg962snvdMW6BywXW) | [Pull a Little Closer](https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw) | 4:02 | 2021-12-16 | 2022-06-24 |
 | [Pulling Teeth](https://open.spotify.com/track/4a3nl8VK9ookqco7tAB2h5) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Pulling Teeth](https://open.spotify.com/album/2lZr3iSgftGuE3AqAs9l1x) | 3:31 | 2024-03-15 | 2024-11-02 |
@@ -634,6 +635,7 @@
 | [Telepath](https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Telepath](https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s) | 3:38 | 2023-06-09 | 2023-10-14 |
 | [That Day](https://open.spotify.com/track/5jzBUYBQ32KhiNZwNIzfOh) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [That Day](https://open.spotify.com/album/0GaS3ctTC11J1Yq9YczkgC) | 2:04 | 2023-06-02 | 2023-07-29 |
 | [That Dress](https://open.spotify.com/track/2Ymkbl3dvodVlGeGOnCSYU) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [That Dress](https://open.spotify.com/album/5Fbw95kqHBu32sv9Y8ghWi) | 3:20 | 2021-12-16 | 2022-02-04 |
+| [The Apollo Programme Was A Hoax](https://open.spotify.com/track/0sXsOeBuEEPQPmJpPQhISe) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [The Apollo Programme Was A Hoax](https://open.spotify.com/album/2VfpzHUHKc4Ni26qeaD70D) | 3:11 | 2024-11-08 |  |
 | [The Dreamer](https://open.spotify.com/track/0llc2RbbO9ncQfhcQX5ydh) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Horizons / East](https://open.spotify.com/album/6JLTZPPzQDKjv6zkenbZnc) | 3:56 | 2021-12-16 | 2022-02-25 |
 | [The Drugs](https://open.spotify.com/track/728FZzHPZ0vt6biYQYOOCz) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [The Drugs](https://open.spotify.com/album/2RsqX9br4REyvqsuFGDqRb) | 1:58 | 2022-10-21 | 2023-02-03 |
 | [The Gift](https://open.spotify.com/track/5FxKVfinImnMlhSBGnXuTc) | [cursetheknife](https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA) | [The Gift](https://open.spotify.com/album/0e8GLQRItYsatUrr4BuB2H) | 3:27 | 2023-05-03 | 2023-06-24 |
@@ -660,6 +662,7 @@
 | [Tightrope \(Walking on a Wire\)](https://open.spotify.com/track/49LcaMiwb4jRwkhLjsxcgD) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [More Than This](https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm) | 3:23 | 2023-03-10 | 2023-07-15 |
 | [Time Won't Wait](https://open.spotify.com/track/2mw4vltQ8uDvLo6cbYvRt7) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [All The Rage](https://open.spotify.com/album/3pp1n3C4QILVIX1DDyOXCV) | 3:43 | 2021-12-16 | 2022-02-04 |
 | [Tired](https://open.spotify.com/track/6Vu4gc4ABD2KIBMLXgKSJn) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [Tired](https://open.spotify.com/album/795D24YUGoF1H1VuHVEGlk) | 3:20 | 2021-12-16 | 2022-01-14 |
+| [Tired Eyes](https://open.spotify.com/track/4mDfcifrz9yvE4qwWl5onA) | [Futureheaven](https://open.spotify.com/artist/1ISFYRGSoDBgHUmARPMoiB) | [Tired Eyes](https://open.spotify.com/album/5Eiy3yNtWvmWH0WFwYPYeq) | 3:04 | 2024-11-08 |  |
 | [Title Track](https://open.spotify.com/track/6IOm2HdES3uec7DIdy3oBJ) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [Title Track](https://open.spotify.com/album/1yP0qGCiMHxTX8eo3LqVO4) | 3:47 | 2022-10-21 | 2022-11-05 |
 | [TNT](https://open.spotify.com/track/41rglBViSOxBlWVyH6YtL4) | [Heart to Gold](https://open.spotify.com/artist/0vLOlcZV1lvUZEawqLrXez) | [TNT](https://open.spotify.com/album/1roHtRGrqUxxo2XJXZRgcI) | 2:55 | 2024-08-02 | 2024-11-02 |
 | [to me](https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [to me](https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE) | 4:03 | 2023-04-14 | 2024-03-09 |

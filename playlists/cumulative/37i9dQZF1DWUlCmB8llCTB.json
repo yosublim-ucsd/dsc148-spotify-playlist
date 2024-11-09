@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Perreando toda la noche con el La Joaqui & Yeri Mua.",
+  "description": "Perreando toda la noche con el La Trinidad (El Malilla, El Bogueto y Eme MalaFe)",
   "name": "Perreo City",
   "tracks": [
     {
@@ -9150,6 +9150,32 @@
       "duration_ms": 214736,
       "name": "LA MISI\u00d3N",
       "url": "https://open.spotify.com/track/3dyo3TI5QpPi1mkgEBB9oK"
+    },
+    {
+      "album": {
+        "name": "La Motora",
+        "url": "https://open.spotify.com/album/3zH5JHBP0CD2gh8h1cV2U8"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203750,
+      "name": "La Motora",
+      "url": "https://open.spotify.com/track/7wH57Wibq1vdVr6QmlLL5c"
     },
     {
       "album": {

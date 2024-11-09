@@ -499,6 +499,28 @@
     },
     {
       "album": {
+        "name": "Esp\u00edrito, Enche a Minha Vida",
+        "url": "https://open.spotify.com/album/4qhBI2wJM9qlIoMsGLAuJU"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Jessica Dias",
+          "url": "https://open.spotify.com/artist/6nCdSWwlMM1cUfAWrHrnvD"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248623,
+      "name": "Esp\u00edrito, Enche a Minha Vida",
+      "url": "https://open.spotify.com/track/6R1M5uAD1qsv5T8MIZVnFy"
+    },
+    {
+      "album": {
         "name": "Eterno",
         "url": "https://open.spotify.com/album/1jHh5nD1NQp3yxQjti4vlZ"
       },
@@ -1490,7 +1512,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 289879,
       "name": "Ver Al\u00e9m",
       "url": "https://open.spotify.com/track/32qzPIhyvl0astlQIsDNui"

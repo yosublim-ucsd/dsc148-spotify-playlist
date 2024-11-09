@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/2ybMUQuyia7YtgEjyFHIxi"
+      },
+      "artists": [
+        {
+          "name": "Unsecret String Quartet",
+          "url": "https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw"
+        },
+        {
+          "name": "UNSECRET",
+          "url": "https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172277,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/7lz548Cc4yXHl2shw1C7oo"
+    },
+    {
+      "album": {
         "name": "Uncharted",
         "url": "https://open.spotify.com/album/6nNCnm0zCnx2CF033KpEVd"
       },
@@ -930,6 +952,24 @@
       "duration_ms": 220670,
       "name": "Daylight - Instrumental",
       "url": "https://open.spotify.com/track/0nA0BTzf0GpQp2CJ7LLQoA"
+    },
+    {
+      "album": {
+        "name": "Defying Gravity (Arr. Piano) [from \"Wicked\"]",
+        "url": "https://open.spotify.com/album/3F4Uiv9uOdJaRKgzH6B9Z1"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166528,
+      "name": "Defying Gravity (Arr. Piano) - from \"Wicked\"",
+      "url": "https://open.spotify.com/track/2z1Ei4i5Oub3L9xLFViN3h"
     },
     {
       "album": {
@@ -3814,6 +3854,24 @@
       "duration_ms": 221612,
       "name": "Vampire",
       "url": "https://open.spotify.com/track/5y4aQFRElzXJCJi0T6ol6C"
+    },
+    {
+      "album": {
+        "name": "Vampire (Scary String Quartet Version)",
+        "url": "https://open.spotify.com/album/3HEO526E82jR3GyMGf5Mzz"
+      },
+      "artists": [
+        {
+          "name": "Zymphonica",
+          "url": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220687,
+      "name": "Vampire - Scary String Quartet Version",
+      "url": "https://open.spotify.com/track/2KpLqvnKKlmw0tatXBBcsX"
     },
     {
       "album": {

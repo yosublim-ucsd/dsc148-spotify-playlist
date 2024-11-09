@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Where your new favourite bands are discovered. Cover: Esme Emerson",
+  "description": "Where your new favourite bands are discovered. Cover: Man/Woman/Chainsaw",
   "name": "Hot New Bands",
   "tracks": [
     {
@@ -556,7 +556,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 164440,
       "name": "Falling Behind",
       "url": "https://open.spotify.com/track/1AyUGXtjYH8MBvMsEE86Bs"
@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/197quPK4bQaP9EsUu6DT7D"
+      },
+      "artists": [
+        {
+          "name": "Prima Queen",
+          "url": "https://open.spotify.com/artist/52fhNGn51RhUvjlapHT5T2"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221560,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/6DaynHhcQWm02ABPIeyuyA"
+    },
+    {
+      "album": {
         "name": "Butter Wouldn't Melt",
         "url": "https://open.spotify.com/album/1boGE1Y6CfBS2s6JjRZ7BM"
       },
@@ -646,7 +664,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 244691,
       "name": "Frog",
       "url": "https://open.spotify.com/track/1NRYR8oEWf17e3wcEbG06O"
@@ -668,6 +686,24 @@
       "duration_ms": 251821,
       "name": "From the Night",
       "url": "https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh"
+    },
+    {
+      "album": {
+        "name": "Getting Good",
+        "url": "https://open.spotify.com/album/6vdXlGyH1FuAbrkIeQ75iH"
+      },
+      "artists": [
+        {
+          "name": "Lazy Day",
+          "url": "https://open.spotify.com/artist/0F9wD0Nf2Hm0iiFJUqsHLy"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158097,
+      "name": "Getting Good",
+      "url": "https://open.spotify.com/track/4y3KiwLcKLaKPHf6tH4s7F"
     },
     {
       "album": {
@@ -808,7 +844,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 213298,
       "name": "I Always Wish You Were Here (With Me)",
       "url": "https://open.spotify.com/track/7Jkgg3tdU7IRaDYi9acimW"
@@ -1024,10 +1060,28 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 286860,
       "name": "King Cnut",
       "url": "https://open.spotify.com/track/4m0cUQ0fKhdHA0iBx9XCuk"
+    },
+    {
+      "album": {
+        "name": "Heaven's A Lonely Place",
+        "url": "https://open.spotify.com/album/14bpn72iaC3QTtva2PYoQm"
+      },
+      "artists": [
+        {
+          "name": "Koteri",
+          "url": "https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160908,
+      "name": "Know It All",
+      "url": "https://open.spotify.com/track/6T1mTUx2LKIw1INNOwFFhG"
     },
     {
       "album": {
@@ -1067,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "Man Of Ill Repute",
+        "url": "https://open.spotify.com/album/5wqrQL1wdxlOrB5Sxuu8Tc"
+      },
+      "artists": [
+        {
+          "name": "My First Time",
+          "url": "https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206478,
+      "name": "Man Of Ill Repute",
+      "url": "https://open.spotify.com/track/5YUJszTDZObtNi9exv7eVm"
+    },
+    {
+      "album": {
         "name": "MEASURE ME",
         "url": "https://open.spotify.com/album/5L8bwluc0aeraI6sjNR7VU"
       },
@@ -1082,7 +1154,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 248906,
       "name": "MEASURE ME",
       "url": "https://open.spotify.com/track/0YmbGL8wGTW9nJ538LEqnF"
@@ -1449,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "Eazy Peazy",
+        "url": "https://open.spotify.com/album/2L4YcqjnpyyDPnIn8GqJfV"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150035,
+      "name": "Sports Day",
+      "url": "https://open.spotify.com/track/6hKwzsBblYMfifCLTp5Gn4"
+    },
+    {
+      "album": {
         "name": "Stop And Think It Over",
         "url": "https://open.spotify.com/album/74fsyVodrliDB7LAAgSebd"
       },
@@ -1622,7 +1712,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 178782,
       "name": "The Boss",
       "url": "https://open.spotify.com/track/1CcInJMJvGVozu3AaDKTz6"
@@ -1752,6 +1842,24 @@
       "duration_ms": 270344,
       "name": "Tired Boy",
       "url": "https://open.spotify.com/track/1eaRpdsgUxH5AY0W9W3Mcc"
+    },
+    {
+      "album": {
+        "name": "TORMENTOR",
+        "url": "https://open.spotify.com/album/2RqLDB8NYtRMd0MoALQzEc"
+      },
+      "artists": [
+        {
+          "name": "HONESTY",
+          "url": "https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310680,
+      "name": "TORMENTOR",
+      "url": "https://open.spotify.com/track/4FcQeSZNS22TDJbjm5qw3I"
     },
     {
       "album": {

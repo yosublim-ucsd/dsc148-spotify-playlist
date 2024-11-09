@@ -4,7 +4,7 @@
 
 > STE in cover di RADAR Italia, la playlist dedicata agli artisti che Spotify ha scelto come emergenti dell'anno.
 
-166 songs - 8 hr 1 min
+168 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Carta Stagnola](https://open.spotify.com/track/61Dg2SAvlHQbdDJmPs1VQk) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Carta Stagnola](https://open.spotify.com/album/2kYztqurm6GZd0VAQL7LkR) | 2:55 | 2023-01-24 | 2023-04-12 |
 | [CATENE](https://open.spotify.com/track/1Ro7tQgsq9qcoDdr1npPwA) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [CATENE](https://open.spotify.com/album/5cu1didsjiJlzmKOYNCiju) | 3:23 | 2024-04-23 |  |
 | [Cattiva](https://open.spotify.com/track/0Pb8FIL8fecpxJCVgSxdWL) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Cattiva](https://open.spotify.com/album/4PWXnJIUU11RbIHnDIv9LL) | 3:18 | 2023-04-11 | 2024-04-24 |
+| [Cerchio](https://open.spotify.com/track/7ziLqtC6tXHbzu8tWVtC2M) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Cerchio](https://open.spotify.com/album/44vHEKMkpA4Bnz8SRFP5AS) | 2:08 | 2024-11-08 |  |
 | [CITYCAR \(Abbronzatissima\) \[feat\. Edoardo Vianello\]](https://open.spotify.com/track/00H5jLi7wHrDLyHDpZKvtY) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Mr Pallotta](https://open.spotify.com/artist/4tEI46zAJnSywDwnTFFCAJ), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF), [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo) | [CITYCAR \(Abbronzatissima\) \[feat\. Edoardo Vianello\]](https://open.spotify.com/album/1alfnxle69VfWlGBm9POGf) | 2:36 | 2023-06-08 | 2024-02-20 |
 | [Cliché](https://open.spotify.com/track/7feAP0q0KS4DW0blbHK7Pn) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Cliché](https://open.spotify.com/album/6bYA5jFVkSwtq3cFpGCvOz) | 3:12 | 2022-08-31 | 2023-04-12 |
 | [Come i Grandi](https://open.spotify.com/track/1DOajHZ9LD7MlNVHz8NMup) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Come i Grandi](https://open.spotify.com/album/61zWMNozdieRSJKQw1nzyR) | 3:07 | 2022-08-31 | 2023-04-12 |
@@ -57,6 +58,7 @@
 | [dove non posso guardare](https://open.spotify.com/track/1n0P0etFhPJqCKz6oK3zEw) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa), [Bdope](https://open.spotify.com/artist/3SGb7Dlm2pmV7qIQHUzRtB) | [dove non posso guardare](https://open.spotify.com/album/0gdCbk9bYB24atLxIHuak1) | 3:08 | 2024-04-23 |  |
 | [Due anni fa](https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Due anni fa](https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7) | 2:40 | 2022-08-31 | 2023-04-12 |
 | [EGO](https://open.spotify.com/track/0tn0i6zH7uEhRDrT0Yticv) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w) | 2:51 | 2023-04-11 | 2024-04-24 |
+| [Etc \(feat\. Nardo Wick\)](https://open.spotify.com/track/7onFHCj8W40kYT3MFCotVG) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Etc \(feat\. Nardo Wick\)](https://open.spotify.com/album/1gHHbM7rsEjkl4P6eQ7CKp) | 2:08 | 2024-11-08 |  |
 | [Figlie della Luna](https://open.spotify.com/track/2e0EbWEyOvWaeoopakkZWn) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Figlie della Luna](https://open.spotify.com/album/1giRCe6gmKUv65zEkREofg) | 2:48 | 2023-05-04 | 2024-04-24 |
 | [Fine Settembre](https://open.spotify.com/track/6hzdvxKpOM6Ot7CEPvfa9a) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza \(Deluxe\)](https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q) | 3:31 | 2023-09-28 | 2024-04-24 |
 | [Flora](https://open.spotify.com/track/1JoU93qhttHC3wBXWAdPLR) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Flora](https://open.spotify.com/album/2GJ2PdGfXMM1w4Y68djdGt) | 3:16 | 2023-04-11 | 2024-04-24 |

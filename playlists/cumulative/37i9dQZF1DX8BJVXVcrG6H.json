@@ -2059,6 +2059,32 @@
     },
     {
       "album": {
+        "name": "VAINA",
+        "url": "https://open.spotify.com/album/4epK4uNXbwPpQ0qmCGxTOW"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        },
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        },
+        {
+          "name": "Bruno Camm\u00e1",
+          "url": "https://open.spotify.com/artist/6TMLl5HJtRsq3RcU932WJE"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176655,
+      "name": "VAINA",
+      "url": "https://open.spotify.com/track/7y9cb4xdAEjFERx0Nav9JU"
+    },
+    {
+      "album": {
         "name": "L\u00e1zaro",
         "url": "https://open.spotify.com/album/7jnbMGDFvFfegFs3Z46en1"
       },

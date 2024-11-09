@@ -4,7 +4,7 @@
 
 > Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/0w2p769eAX32IMb6u5v1eP?si=fOL1gQL5SqCK9OBbh\_O3sw">HENNYBELIT</a>
 
-871 songs - 1 day 22 hr 46 min
+872 songs - 1 day 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Fallen Angel](https://open.spotify.com/track/1T6m8bY04csDL3rvRlUlk1) | [THEBOYNAMEDSIMBA](https://open.spotify.com/artist/08l9goiuSlE8E5NVuhZPv1) | [Fallen Angel](https://open.spotify.com/album/1fitDUEXQQCVDg6IxwS30g) | 2:13 | 2022-04-14 | 2022-04-23 |
 | [fame](https://open.spotify.com/track/1ec7ZBFPtVFQsi9mLryik0) | [Amarii](https://open.spotify.com/artist/3gKOKbH38pzUAC6c0ybcCY) | [From Bremersdorp With Love](https://open.spotify.com/album/4szU6hyRM7HVQnIgxRhcjT) | 2:46 | 2023-12-14 | 2024-05-10 |
 | [Far Away \- Jazzuelle Spectral Ensemble](https://open.spotify.com/track/2KFXzPgCouY6hDsVoR7gXv) | [Jazzuelle](https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu), [C\-Moody](https://open.spotify.com/artist/54OOXOPVCHZ2wkppPBXaal), [Sfundo](https://open.spotify.com/artist/0op0566RVAkuZQQ76RWxLG) | [Far Away](https://open.spotify.com/album/2KfQkK10oZubNZRaMJ9OdT) | 5:51 | 2022-02-17 | 2022-03-18 |
+| [Fast Lane](https://open.spotify.com/track/4FqnxUO1rxOrIDnpYqllls) | [Jolly B](https://open.spotify.com/artist/2OgOlMcLNRmEAjnBJE9NFG), [Mochen](https://open.spotify.com/artist/7DkwT8IpIAjcquKnCwyFRg), [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt) | [Fast Lane](https://open.spotify.com/album/0rx9einNKykZUWhkFd5tOi) | 3:11 | 2024-11-08 |  |
 | [Fast Life](https://open.spotify.com/track/6JamoJiQgVMeHCcU6bJGt9) | [Frank Casino](https://open.spotify.com/artist/4wVM2SOjXuCEUuTi7lln9x), [30 Turo](https://open.spotify.com/artist/1I6TkI7q2q9lzSimz6T2Db), [Ney](https://open.spotify.com/artist/67KPAwywwB3tMXvmNJXPeL) | [Fast Life](https://open.spotify.com/album/7drmsf41QcVBBiIJj8gIoA) | 3:27 | 2024-10-04 |  |
 | [Fede sho](https://open.spotify.com/track/44XEtWri9ZNRBbReamzZLK) | [Bigstar Johnson](https://open.spotify.com/artist/3qpREhld4ZetBAKhVZuwf2), [Stino Le Thwenny](https://open.spotify.com/artist/5kicxKGLnJF6uG0pgb0F3m), [Caask Asid](https://open.spotify.com/artist/1mfp5cTzPUaPI2BqCOAkSl) | [Fede Sho](https://open.spotify.com/album/3jUDSA3LWZ5AtzFMjlBVb1) | 3:02 | 2024-02-01 | 2024-05-10 |
 | [Feelings](https://open.spotify.com/track/0S9oITZcpAPcBnaqCvqIWj) | [SiphoMjita](https://open.spotify.com/artist/1ayQ3pCAsxGc9TzRGMn3YL), [Blue Pappi](https://open.spotify.com/artist/0j2GLFoYprLmIPZ1SZkJZt), [MhlonishwaNuz](https://open.spotify.com/artist/7IiF3J7RgpYa2cIGRlb60j), [Master M](https://open.spotify.com/artist/3Qd0YhX2npI1UFtTUKUlTC) | [Feelings](https://open.spotify.com/album/04IMl4OvRndYKMee52DFFp) | 3:07 | 2024-05-09 | 2024-06-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Sarah Farias, Kailane Frauches
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,293 likes - 85 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,404 likes - 85 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 9 | [Canta](https://open.spotify.com/track/4jLM5rqH7f4sLDgUEB32nW) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Canta](https://open.spotify.com/album/6UaxqMu4afpNyU81hk9kfi) | 4:58 |
 | 10 | [Dias de Guerra](https://open.spotify.com/track/3p82xqXALhgwEc7Jt84nE1) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Dias de Guerra](https://open.spotify.com/album/2wqbreN7kz4c9tgI6ERntq) | 4:54 |
 | 11 | [Cenário Favorável \- Ao Vivo](https://open.spotify.com/track/3hHUmc9hNW9YspTVcymE7q) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [Cenário Favorável \(Ao Vivo\)](https://open.spotify.com/album/4rMG5v18LdEJeZgwcNFFFc) | 5:42 |
-| 12 | [Eu Sou Mistério](https://open.spotify.com/track/2rcELfYmKTFtit6Gv1ZEqF) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Eu Sou Mistério](https://open.spotify.com/album/4SpmYh0CjxUxtXzxXE32Is) | 4:28 |
-| 13 | [Te Adorar é Só o Começo \(Ao Vivo\)](https://open.spotify.com/track/5FrDgqU4hBwuP16NBXZMp8) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Te Adorar é Só o Começo \(Ao Vivo\)](https://open.spotify.com/album/4rRm5M9L3BAkeeaLXVauHG) | 5:42 |
+| 12 | [Te Adorar é Só o Começo \(Ao Vivo\)](https://open.spotify.com/track/5FrDgqU4hBwuP16NBXZMp8) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Te Adorar é Só o Começo \(Ao Vivo\)](https://open.spotify.com/album/4rRm5M9L3BAkeeaLXVauHG) | 5:42 |
+| 13 | [Eu Sou Mistério](https://open.spotify.com/track/2rcELfYmKTFtit6Gv1ZEqF) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Eu Sou Mistério](https://open.spotify.com/album/4SpmYh0CjxUxtXzxXE32Is) | 4:28 |
 | 14 | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ) | 6:42 |
 | 15 | [Se O Mar Não Se Abrir / Citação: Firme Nas Promessas \(Ao Vivo\)](https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Se O Mar Não Se Abrir \(Ao Vivo\)](https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7) | 5:58 |
 | 16 | [1 Coríntios 13](https://open.spotify.com/track/0Re0Xx7XqRJqXyjQStX48Y) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Firme Fundamento](https://open.spotify.com/album/02HmXXgKPXyy7IrKpNQ5bI) | 4:57 |
@@ -85,13 +85,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 75 | [Meu Deus É Grande](https://open.spotify.com/track/1T1hRHr86C3AkhwZoghk4f) | [Conceição Cabral](https://open.spotify.com/artist/261lMqvy7n9kYVHrAUTOqF) | [Meu Deus É Grande](https://open.spotify.com/album/5cEE4XjAdOvf8rIiRDSHJa) | 5:34 |
 | 76 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/2dU1myKI3jBTUL7qihW36S) | [Polyana Martins](https://open.spotify.com/artist/7ECTf4oBo2jD5mRpL6Ik8x), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/album/1PNy00WY2GINNmKOrMBQEw) | 5:03 |
 | 77 | [Existe Um Deus](https://open.spotify.com/track/3PzPF5JZsGSYfhegiexh2i) | [Larissa Santos](https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk) | [Existe Um Deus](https://open.spotify.com/album/6bnQQHr5AXnX0JjIuEmYtS) | 4:42 |
-| 78 | [Sou Deus \- Ao Vivo](https://open.spotify.com/track/5I224cXQeTACSg99DDFBj9) | [Flávia Almeida](https://open.spotify.com/artist/2d8HyFtrAaLLsLbSBplAhU) | [Sou Deus \(Ao Vivo\)](https://open.spotify.com/album/6rkJ1vaNRCSbEAUSsDFEDl) | 6:49 |
+| 78 | [A Batalha](https://open.spotify.com/track/2R8zOv33KngElmmWy2XAYF) | [Miriam dos Passos](https://open.spotify.com/artist/3PXIlnaU0gOLh7x0jIXvnt) | [A Batalha](https://open.spotify.com/album/4N7Pqiuu7sm4AmXUIzsYRu) | 5:33 |
 | 79 | [Águas Purificadoras \- Ao Vivo](https://open.spotify.com/track/1MFs9xeuKZlp74cV7OmeSu) | [Momento Solene](https://open.spotify.com/artist/54zL5JenxhZlJS9kHdSlwu), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [Juliana Kontopp](https://open.spotify.com/artist/4wI3Jgf2m5qf5Zb76UzP0J) | [Momento Solene \- Vol 1 \(Ao Vivo\)](https://open.spotify.com/album/2lJ8G5FVkvDpKCd2Xi5OTD) | 8:30 |
 | 80 | [Minha Adoração](https://open.spotify.com/track/1uLGapMMnKlayfxgcMWMKH) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Minha Adoração](https://open.spotify.com/album/27KiQW9c0B3oUD8lgzwQeo) | 3:50 |
-| 81 | [A Batalha](https://open.spotify.com/track/2R8zOv33KngElmmWy2XAYF) | [Miriam dos Passos](https://open.spotify.com/artist/3PXIlnaU0gOLh7x0jIXvnt) | [A Batalha](https://open.spotify.com/album/4N7Pqiuu7sm4AmXUIzsYRu) | 5:33 |
-| 82 | [Faraó ou Deus?](https://open.spotify.com/track/1GSp1E5hAAexbPRN6joj1b) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Faraó ou Deus?](https://open.spotify.com/album/07X2Gi0OJ21k1zJ0GCreok) | 4:55 |
+| 81 | [Faraó ou Deus?](https://open.spotify.com/track/1GSp1E5hAAexbPRN6joj1b) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Faraó ou Deus?](https://open.spotify.com/album/07X2Gi0OJ21k1zJ0GCreok) | 4:55 |
+| 82 | [Josué \- Ao Vivo em São Paulo](https://open.spotify.com/track/6qKBjyYHoqG1GnOFGNKayy) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Josué \- Ao Vivo em São Paulo](https://open.spotify.com/album/6iKSabr7xNMOehMy9VWZg6) | 4:12 |
 | 83 | [O Noivo Virá](https://open.spotify.com/track/4H5tuVx6j0UqcWVAaJt9qu) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Noivo Virá](https://open.spotify.com/album/6W6VSlerbFI3dvGgiOX7pE) | 6:29 |
 | 84 | [A Sós Com o Pai \(Ao Vivo\)](https://open.spotify.com/track/0Pl3uZPJ8VrW1lEND7ANVf) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [A Sós Com o Pai \(Ao Vivo\)](https://open.spotify.com/album/2wylWPmdA8IISMAk2JDWl8) | 5:37 |
 | 85 | [Como Não Te Adorar \- Ao Vivo](https://open.spotify.com/track/0Wd7GcT9YDAKddGR2nz72n) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Como Não Te Adorar \(Ao Vivo\)](https://open.spotify.com/album/4uYjlQQM5rZiobFQS8tXM3) | 6:20 |
 
-Snapshot ID: `Zxuw9AAAAABU3eASGRorvPDCvwAr26NJ`
+Snapshot ID: `Zy1+7AAAAACwzyAMd/3WzAsvvX6mTTR1`

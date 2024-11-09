@@ -737,6 +737,24 @@
     },
     {
       "album": {
+        "name": "Nakupenda (Acoustic)",
+        "url": "https://open.spotify.com/album/3lFdnM707BShGHW5DidZpo"
+      },
+      "artists": [
+        {
+          "name": "Beka Flavour",
+          "url": "https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199090,
+      "name": "Nakupenda - Acoustic",
+      "url": "https://open.spotify.com/track/02Vc86Z6TX22oJPvxjY9hq"
+    },
+    {
+      "album": {
         "name": "nobody knows",
         "url": "https://open.spotify.com/album/3tur9lSjtET194Kd5AZOfe"
       },

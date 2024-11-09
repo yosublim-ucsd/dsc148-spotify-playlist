@@ -1509,6 +1509,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9jalo Para Despu\u00e9s",
+        "url": "https://open.spotify.com/album/5PFIWIbEeVuOOHI1DgLtov"
+      },
+      "artists": [
+        {
+          "name": "Sgt. Papers",
+          "url": "https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215594,
+      "name": "D\u00e9jalo Para Despu\u00e9s",
+      "url": "https://open.spotify.com/track/0TECPOQtaT09lwiyhjZpMX"
+    },
+    {
+      "album": {
         "name": "Dance to the Full Moon",
         "url": "https://open.spotify.com/album/7HSZULj9bBrOvFlVEJjlWN"
       },
@@ -1740,6 +1758,24 @@
       "duration_ms": 189493,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/0DyBgo5cgpW5xcvgrMFNUy"
+    },
+    {
+      "album": {
+        "name": "FUGA!",
+        "url": "https://open.spotify.com/album/6PSSO3uIAFk8Nuic9XYfM8"
+      },
+      "artists": [
+        {
+          "name": "Sgt. Papers",
+          "url": "https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165568,
+      "name": "FUGA!",
+      "url": "https://open.spotify.com/track/2TnHB1SGVY1kEDjkao4aJv"
     },
     {
       "album": {

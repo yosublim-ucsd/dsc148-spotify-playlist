@@ -1,6 +1,6 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 200879,
+  "num_followers": 200948,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Almismotiempo",
-        "url": "https://open.spotify.com/album/0DdeLpEFBKlHGUT72nyxAQ"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 222432,
-      "name": "Millones",
-      "url": "https://open.spotify.com/track/6EYVI4zwxzP3EnViyiI5x0"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Ej\u00e9rcito de Paz",
         "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 225053,
       "name": "Abajo y a la Izquierda",
       "url": "https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Almismotiempo",
+        "url": "https://open.spotify.com/album/0DdeLpEFBKlHGUT72nyxAQ"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 222432,
+      "name": "Millones",
+      "url": "https://open.spotify.com/track/6EYVI4zwxzP3EnViyiI5x0"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "que lo que",
-        "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 124448,
-      "name": "que lo que",
-      "url": "https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "M\u00fasica Guerrera",
         "url": "https://open.spotify.com/album/0kOxkSeQ6cmmCHdTq52JSK"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 186000,
       "name": "M\u00fasica Guerrera",
       "url": "https://open.spotify.com/track/7no56lxy8LQY6zHWNmGqIG"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "que lo que",
+        "url": "https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 124448,
+      "name": "que lo que",
+      "url": "https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1291,6 +1291,30 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "De Vuelta a Casa: Ayotzinapa Somos Todxs",
+        "url": "https://open.spotify.com/album/3qx8RpeMgbrukkOSRwoLPx"
+      },
+      "artists": [
+        {
+          "name": "Belafonte Sensacional",
+          "url": "https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06"
+        },
+        {
+          "name": "Paulina Lasa",
+          "url": "https://open.spotify.com/artist/1FGlGdkJCdp7XbeZfnigMo"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 182439,
+      "name": "Verte Regresar",
+      "url": "https://open.spotify.com/track/1Bkjsd1xAsXd2aUcfgSAns"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Yo No Quiero Volverme Tan Loco (En Vivo)",
         "url": "https://open.spotify.com/album/3w5AZnbgckUFu8kcH79DAr"
       },
@@ -1303,22 +1327,6 @@
       "duration_ms": 257666,
       "name": "Canci\u00f3n De Alicia En El Pa\u00eds - En Vivo",
       "url": "https://open.spotify.com/track/26RdRBgT6NBI3higAhwUfU"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "La Nueva Cancion Chilena, Vol. 1",
-        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
-      },
-      "artists": [
-        {
-          "name": "Rolando Alarcon",
-          "url": "https://open.spotify.com/artist/1zVfOfIieOhrYPFXa6oMEt"
-        }
-      ],
-      "duration_ms": 123333,
-      "name": "Si Somos Americanos",
-      "url": "https://open.spotify.com/track/5kScKNyugdcqoEPKWPpBq1"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1339,6 +1347,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "La Nueva Cancion Chilena, Vol. 1",
+        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
+      },
+      "artists": [
+        {
+          "name": "Rolando Alarcon",
+          "url": "https://open.spotify.com/artist/1zVfOfIieOhrYPFXa6oMEt"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "Si Somos Americanos",
+      "url": "https://open.spotify.com/track/5kScKNyugdcqoEPKWPpBq1"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Hurbanistorias",
         "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
       },
@@ -1355,22 +1379,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/0y9Oz2HQSp0zUEcHN0TguN"
-      },
-      "artists": [
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        }
-      ],
-      "duration_ms": 193933,
-      "name": "Plegaria A Un Labrador",
-      "url": "https://open.spotify.com/track/6RrcBK5hXE6q11tkjbdQ4Z"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "15 A\u00f1os De Mi",
         "url": "https://open.spotify.com/album/2724ObvOvyi3CjgkBVIxlY"
       },
@@ -1383,6 +1391,22 @@
       "duration_ms": 254186,
       "name": "Cinco Siglos Igual",
       "url": "https://open.spotify.com/track/6CIjy70IxwaCi1uEx07TyY"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/0y9Oz2HQSp0zUEcHN0TguN"
+      },
+      "artists": [
+        {
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+        }
+      ],
+      "duration_ms": 193933,
+      "name": "Plegaria A Un Labrador",
+      "url": "https://open.spotify.com/track/6RrcBK5hXE6q11tkjbdQ4Z"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1415,22 +1439,6 @@
       "duration_ms": 430853,
       "name": "La Casita",
       "url": "https://open.spotify.com/track/7cT1pgrHFuUBgBEzvefusg"
-    },
-    {
-      "added_at": "2024-07-04 18:12:03",
-      "album": {
-        "name": "PASARELA",
-        "url": "https://open.spotify.com/album/31TBz22wU0tj6LmyeeAuti"
-      },
-      "artists": [
-        {
-          "name": "\u00c7antamarta",
-          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
-        }
-      ],
-      "duration_ms": 164534,
-      "name": "PASARELA",
-      "url": "https://open.spotify.com/track/6wXP0oiJk3gZXGfFNrKQaz"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1489,6 +1497,22 @@
       "url": "https://open.spotify.com/track/1TenrgmXbei6eyBQQdcnYK"
     },
     {
+      "added_at": "2024-07-04 18:12:03",
+      "album": {
+        "name": "PASARELA",
+        "url": "https://open.spotify.com/album/31TBz22wU0tj6LmyeeAuti"
+      },
+      "artists": [
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        }
+      ],
+      "duration_ms": 164534,
+      "name": "PASARELA",
+      "url": "https://open.spotify.com/track/6wXP0oiJk3gZXGfFNrKQaz"
+    },
+    {
       "added_at": "2024-05-10 03:00:00",
       "album": {
         "name": "Somos Hermanas",
@@ -1503,46 +1527,6 @@
       "duration_ms": 230877,
       "name": "Somos Hermanas",
       "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "De Vuelta a Casa: Ayotzinapa Somos Todxs",
-        "url": "https://open.spotify.com/album/3qx8RpeMgbrukkOSRwoLPx"
-      },
-      "artists": [
-        {
-          "name": "Belafonte Sensacional",
-          "url": "https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06"
-        },
-        {
-          "name": "Paulina Lasa",
-          "url": "https://open.spotify.com/artist/1FGlGdkJCdp7XbeZfnigMo"
-        },
-        {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 182439,
-      "name": "Verte Regresar",
-      "url": "https://open.spotify.com/track/1Bkjsd1xAsXd2aUcfgSAns"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Bella Ciao",
-        "url": "https://open.spotify.com/album/5KHRo5czZnhlAfQ2e4840e"
-      },
-      "artists": [
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        }
-      ],
-      "duration_ms": 122436,
-      "name": "Bella Ciao",
-      "url": "https://open.spotify.com/track/6Jb5YWfJNHqadAeeSijMEU"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1563,6 +1547,22 @@
       "duration_ms": 284413,
       "name": "Ellas",
       "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Bella Ciao",
+        "url": "https://open.spotify.com/album/5KHRo5czZnhlAfQ2e4840e"
+      },
+      "artists": [
+        {
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+        }
+      ],
+      "duration_ms": 122436,
+      "name": "Bella Ciao",
+      "url": "https://open.spotify.com/track/6Jb5YWfJNHqadAeeSijMEU"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1623,22 +1623,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Un Canto por M\u00e9xico - El Musical",
-        "url": "https://open.spotify.com/album/5KgUgn1TWwmPjAqX69XaFD"
+        "name": "La Dieta del Lagarto",
+        "url": "https://open.spotify.com/album/2TBrmbIm2ks1iQ6XExMyMw"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Los Cojolites",
-          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
+          "name": "Chancho En Piedra",
+          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
         }
       ],
-      "duration_ms": 114781,
-      "name": "Nada Es Verdad (Finale) / Spoken Words",
-      "url": "https://open.spotify.com/track/0WJY4uPMOZZtpKWW6cxr99"
+      "duration_ms": 194986,
+      "name": "Empresaurio",
+      "url": "https://open.spotify.com/track/2nnHeIo6kBeSWqj41EmC2x"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1659,18 +1655,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "La Dieta del Lagarto",
-        "url": "https://open.spotify.com/album/2TBrmbIm2ks1iQ6XExMyMw"
+        "name": "Un Canto por M\u00e9xico - El Musical",
+        "url": "https://open.spotify.com/album/5KgUgn1TWwmPjAqX69XaFD"
       },
       "artists": [
         {
-          "name": "Chancho En Piedra",
-          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Cojolites",
+          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
         }
       ],
-      "duration_ms": 194986,
-      "name": "Empresaurio",
-      "url": "https://open.spotify.com/track/2nnHeIo6kBeSWqj41EmC2x"
+      "duration_ms": 114781,
+      "name": "Nada Es Verdad (Finale) / Spoken Words",
+      "url": "https://open.spotify.com/track/0WJY4uPMOZZtpKWW6cxr99"
     },
     {
       "added_at": "2024-05-10 03:00:00",

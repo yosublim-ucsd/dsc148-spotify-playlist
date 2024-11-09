@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 448217,
+  "num_followers": 448219,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,34 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
+        "name": "Jolie Fille (feat. Layefa)",
+        "url": "https://open.spotify.com/album/2B7azjSRe8rJHfCBTJGzlV"
+      },
+      "artists": [
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        },
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Layefa",
+          "url": "https://open.spotify.com/artist/7MkQpNkd549FwPBbgkGyE8"
+        }
+      ],
+      "duration_ms": 194442,
+      "name": "Jolie Fille (feat. Layefa)",
+      "url": "https://open.spotify.com/track/4sOLtnLeIFwO4YUUSV5DM5"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
         "name": "WAHALA (FEAT. OLAMIDE)",
         "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
       },
@@ -855,34 +883,6 @@
       "duration_ms": 202013,
       "name": "No Letting Go",
       "url": "https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
-        "name": "Jolie Fille (feat. Layefa)",
-        "url": "https://open.spotify.com/album/2B7azjSRe8rJHfCBTJGzlV"
-      },
-      "artists": [
-        {
-          "name": "Maz",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
-        },
-        {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
-        },
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "Layefa",
-          "url": "https://open.spotify.com/artist/7MkQpNkd549FwPBbgkGyE8"
-        }
-      ],
-      "duration_ms": 194442,
-      "name": "Jolie Fille (feat. Layefa)",
-      "url": "https://open.spotify.com/track/4sOLtnLeIFwO4YUUSV5DM5"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "Bobo",
-        "url": "https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 187873,
-      "name": "Bobo",
-      "url": "https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 240000,
       "name": "Fall",
       "url": "https://open.spotify.com/track/1hEXElwyPez2z7m5dZ56Mc"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
+        "name": "Bobo",
+        "url": "https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 187873,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -2075,26 +2075,6 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "Yoga",
-        "url": "https://open.spotify.com/album/6omQIxCXmNM3GCq6ZWUu5B"
-      },
-      "artists": [
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        },
-        {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
-        }
-      ],
-      "duration_ms": 181045,
-      "name": "Yoga",
-      "url": "https://open.spotify.com/track/0Aq0eNmYx73fNgD9QIVzGJ"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
         "name": "Tigini (Remix)",
         "url": "https://open.spotify.com/album/5Z0OHKESY25HeRWOjEUrKp"
       },
@@ -2111,6 +2091,26 @@
       "duration_ms": 196033,
       "name": "Tigini - Remix",
       "url": "https://open.spotify.com/track/5UrCA7KEkxjCQQEvCohIAn"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
+        "name": "Yoga",
+        "url": "https://open.spotify.com/album/6omQIxCXmNM3GCq6ZWUu5B"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "duration_ms": 181045,
+      "name": "Yoga",
+      "url": "https://open.spotify.com/track/0Aq0eNmYx73fNgD9QIVzGJ"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/0HpwLRomUn6DGADacaO0id"
-      },
-      "artists": [
-        {
-          "name": "Kidda",
-          "url": "https://open.spotify.com/artist/4OtcoXGM3abQUnErfCczaj"
-        }
-      ],
-      "duration_ms": 194558,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/67PSXs0ixoOUD03BL6UfVQ"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
         "name": "Likkle Riddim",
         "url": "https://open.spotify.com/album/7MqW36qjIreNVJ5Vf659uJ"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 164400,
       "name": "Likkle Riddim",
       "url": "https://open.spotify.com/track/3weAbRf5cn9SiCYxqZedot"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/0HpwLRomUn6DGADacaO0id"
+      },
+      "artists": [
+        {
+          "name": "Kidda",
+          "url": "https://open.spotify.com/artist/4OtcoXGM3abQUnErfCczaj"
+        }
+      ],
+      "duration_ms": 194558,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/67PSXs0ixoOUD03BL6UfVQ"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -2843,22 +2843,6 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "PINK SUMMER",
-        "url": "https://open.spotify.com/album/4j33fN2BPocBEJTsguqRPl"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 208471,
-      "name": "GIRLS WANNA HAVE FUN",
-      "url": "https://open.spotify.com/track/2vjiaAgTaB32W1PNYYaFdZ"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
         "name": "Nobody Knows",
         "url": "https://open.spotify.com/album/2mUXHcpiEOi8c2CVO3qC2G"
       },
@@ -2887,6 +2871,22 @@
       "duration_ms": 146279,
       "name": "Habri Porta",
       "url": "https://open.spotify.com/track/4JCRG0LXlKiifVhAMJDnR9"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
+        "name": "PINK SUMMER",
+        "url": "https://open.spotify.com/album/4j33fN2BPocBEJTsguqRPl"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 208471,
+      "name": "GIRLS WANNA HAVE FUN",
+      "url": "https://open.spotify.com/track/2vjiaAgTaB32W1PNYYaFdZ"
     },
     {
       "added_at": "2024-10-24 12:33:20",

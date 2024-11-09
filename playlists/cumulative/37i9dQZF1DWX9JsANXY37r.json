@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 228406,
       "name": "3am",
       "url": "https://open.spotify.com/track/1WH96QFPIhxlnATR0K90KX"
@@ -3084,6 +3084,24 @@
       "duration_ms": 219332,
       "name": "Make It Better (feat. Smokey Robinson)",
       "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
+    },
+    {
+      "album": {
+        "name": "Mercen\u00e1rios do Amor",
+        "url": "https://open.spotify.com/album/3TVKYDgwKsGYieOkoLZebp"
+      },
+      "artists": [
+        {
+          "name": "Doce Delix",
+          "url": "https://open.spotify.com/artist/5oMThBB837MjaAjmCu3K8j"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187105,
+      "name": "Mercen\u00e1rios do Amor",
+      "url": "https://open.spotify.com/track/3Y37i0rehRTNUoUOXjKnFm"
     },
     {
       "album": {

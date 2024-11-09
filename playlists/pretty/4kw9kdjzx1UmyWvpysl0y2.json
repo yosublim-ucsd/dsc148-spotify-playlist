@@ -6,8 +6,28 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATR6ESFOjveFOHtIfOV3O2aLxygR4n",
+  "snapshot_id": "AAATSRHX7zgb+3KxG1d1Jju/bvgwndA9",
   "tracks": [
+    {
+      "added_at": "2024-11-08 18:13:48",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/3J3ajVI0IhBSG8B1p0kwu7"
+      },
+      "artists": [
+        {
+          "name": "Bensley",
+          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
+        },
+        {
+          "name": "Voicians",
+          "url": "https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/0LSo5akCIlPEZdRp7nRP4d"
+    },
     {
       "added_at": "2024-11-07 16:14:49",
       "album": {
@@ -1131,30 +1151,6 @@
       "duration_ms": 198500,
       "name": "Around Me",
       "url": "https://open.spotify.com/track/6US34V1ml2fkN33kPzu5Ut"
-    },
-    {
-      "added_at": "2024-08-19 14:42:57",
-      "album": {
-        "name": "Brain On Drugs",
-        "url": "https://open.spotify.com/album/6sJSCStldFAJWG0EHtLxYz"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "No/Me",
-          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
-        }
-      ],
-      "duration_ms": 214326,
-      "name": "Brain On Drugs",
-      "url": "https://open.spotify.com/track/2VivO71UvJ6hrMEIJqQZ4Y"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

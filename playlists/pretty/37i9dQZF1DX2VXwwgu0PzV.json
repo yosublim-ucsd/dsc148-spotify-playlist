@@ -1,12 +1,12 @@
 {
   "description": "Music for when you've got your Jesus on and your swag up . \nCover:  <a href=https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE?si=bKcXAFHYRMGLelW52bpIww>Chizie</a>",
-  "num_followers": 40577,
+  "num_followers": 40881,
   "original_name": "Youth Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy1UvAAAAACgdro4Pu4cJ8ZfqiV1tzvE",
+  "snapshot_id": "Zy4aewAAAABTsuqFcYn6wzxtaxD8E+St",
   "tracks": [
     {
       "added_at": "2023-12-11 00:01:00",
@@ -279,6 +279,26 @@
       "duration_ms": 209403,
       "name": "ZOE",
       "url": "https://open.spotify.com/track/5hIs8axd88ghEVcfagZRqv"
+    },
+    {
+      "added_at": "2024-11-08 14:04:43",
+      "album": {
+        "name": "On My Side",
+        "url": "https://open.spotify.com/album/3iNEVE1IXcfnZAqXMJctwf"
+      },
+      "artists": [
+        {
+          "name": "Ko'rale",
+          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
+        },
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        }
+      ],
+      "duration_ms": 214193,
+      "name": "On My Side",
+      "url": "https://open.spotify.com/track/6fmmsEzjNRec8f4migh50T"
     },
     {
       "added_at": "2024-10-18 00:01:00",
@@ -567,6 +587,26 @@
       "duration_ms": 150500,
       "name": "Onyeoma",
       "url": "https://open.spotify.com/track/5NyAEi2WfqOc1MikRm3YSF"
+    },
+    {
+      "added_at": "2024-11-08 08:49:28",
+      "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/0WrkTANWeyR7klt1HRoRW6"
+      },
+      "artists": [
+        {
+          "name": "Edez",
+          "url": "https://open.spotify.com/artist/5xKwjfZZfX18r0Lq0TA5QE"
+        },
+        {
+          "name": "DOTTi The Deity",
+          "url": "https://open.spotify.com/artist/1APmyJUpl7Z2JeJ2M7iMsR"
+        }
+      ],
+      "duration_ms": 207890,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/0YzxXvJEokptYlZ50ppKsO"
     },
     {
       "added_at": "2024-10-18 00:01:00",

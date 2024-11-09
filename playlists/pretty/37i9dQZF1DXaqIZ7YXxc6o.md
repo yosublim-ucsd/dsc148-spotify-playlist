@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: BL3SS
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,956 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,969 likes - 99 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 29 | [SO TRU](https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [3AM \(LA LA LA\)](https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj) | 2:53 |
 | 30 | [Lonely Heart](https://open.spotify.com/track/3yWFV3cSt4w2R6btVPcc6T) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [John Alto](https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj) | [Lonely Heart](https://open.spotify.com/album/1r5dyhOBbZbiu8zs3AhVsH) | 2:43 |
 | 31 | [Breathe](https://open.spotify.com/track/5j90IWDNHSJpCzPpzB58pz) | [STÜM](https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd) | [Breathe](https://open.spotify.com/album/0ssw8apRnRhrY2TW3lyUtu) | 3:28 |
-| 32 | [Heaven In My Hands](https://open.spotify.com/track/77Urs5XQD97xIZJpM2CAvH) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Heaven In My Hands](https://open.spotify.com/album/63P266OfrTRSAuKmgttjkl) | 2:47 |
+| 32 | [Heaven In My Hands](https://open.spotify.com/track/77Urs5XQD97xIZJpM2CAvH) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Heaven In My Hands](https://open.spotify.com/album/63P266OfrTRSAuKmgttjkl) | 2:53 |
 | 33 | [NOW IT'S GONE](https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7) | [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H) | [NOW IT'S GONE](https://open.spotify.com/album/3OgPt2ujG9tWWoltAU4lbo) | 2:23 |
 | 34 | [Forever Young](https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Forever Young](https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J) | 2:36 |
 | 35 | [You're A Star](https://open.spotify.com/track/5TWdpFagB4JnDssY7knBHT) | [Ella Monnery](https://open.spotify.com/artist/1FD0AA37DenDFODrf9zovI) | [You're A Star](https://open.spotify.com/album/3Pv5YyTF0ZUNqRLAaJNGJr) | 3:29 |

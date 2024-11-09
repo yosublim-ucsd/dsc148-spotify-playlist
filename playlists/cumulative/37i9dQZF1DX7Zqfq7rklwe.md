@@ -4,7 +4,7 @@
 
 > Suomen suurin ja paras rock\-soittolista ☠️ Kannessa AC/DC.
 
-129 songs - 8 hr 37 min
+130 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [MelancHoly](https://open.spotify.com/track/2rXBCOwW1bm7og7BnDHybT) | [Swallow The Sun](https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ) | [MelancHoly](https://open.spotify.com/album/2xenPEQcPvRA4fyc08E4cf) | 3:38 | 2024-09-19 |  |
 | [Michael, the Knight](https://open.spotify.com/track/4pZNDJqmNB68cFlTE3VCrz) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Michael, the Knight](https://open.spotify.com/album/54RkiHxYAKpisnJnAtBr25) | 3:30 | 2024-09-11 | 2024-10-25 |
 | [Minus Celsius](https://open.spotify.com/track/5CTc5YCNKT5FGe9dWvJZFd) | [Backyard Babies](https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN) | [Stockholm Syndrome](https://open.spotify.com/album/3uMfXWCv23mz4DB5wTcvw1) | 3:34 | 2024-09-11 |  |
+| [Mitä jää](https://open.spotify.com/track/3J4YG4PfgimicYyeJHzq2G) | [LÄHIÖBOTOX](https://open.spotify.com/artist/2DQUFoAlTM6TbSOabVRumg), [Jodahe](https://open.spotify.com/artist/47bHkMN3v678TKL5Tku7mF) | [Surullinen tapaus – sellaista on vapaus](https://open.spotify.com/album/55JvF5GgYdLTN7RwyfmcIB) | 2:51 | 2024-11-08 |  |
 | [Monsters](https://open.spotify.com/track/747GeWvELWeEc7VFFIo7eJ) | [Fear Of Domination](https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq) | [Monsters](https://open.spotify.com/album/4Yo4Cc6YbANSJjb6BEb87g) | 4:22 | 2024-09-11 |  |
 | [Neon Noir](https://open.spotify.com/track/4jW6TlrmCQUGnNcbEdr8Ui) | [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Neon Noir](https://open.spotify.com/album/1F9QDVhcJCUz0BHcjdmqvX) | 4:56 | 2024-09-11 |  |
 | [NO](https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [NO](https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc) | 2:28 | 2024-09-11 |  |

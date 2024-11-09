@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Cover: Chucho Valdés
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,237 likes - 100 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,261 likes - 100 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 21 | [Day Tripper](https://open.spotify.com/track/5J3R2eEHlD2ng4cwh6Tlnz) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [Greatest Hits](https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P) | 3:08 |
 | 22 | [Palabras](https://open.spotify.com/track/6F93ygd6pZO7gD3PJWozCy) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG) | [Palabras](https://open.spotify.com/album/1GwVQQYncZKZDTdE7yN0Ef) | 4:04 |
 | 23 | [My One And Only Love](https://open.spotify.com/track/21WlpZiXLelHjdoMUhHfrm) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq), [Malcolm Addey](https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH) | [The Best Of Chick Corea](https://open.spotify.com/album/42yiUOGntY4V5W3rf7Glus) | 3:36 |
-| 24 | [Batida diferente](https://open.spotify.com/track/6IdTeV8TfNABByZ3bUEUV6) | [Herbie Mann](https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo) | [Latin Fever](https://open.spotify.com/album/5LLQl89oz0vptV3tQefJv2) | 5:14 |
-| 25 | [Un Telegrama](https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754) | [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [La Marisoul & The Love Notes Orchestra \(Vol\. 1\)](https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO) | 2:42 |
+| 24 | [Un Telegrama](https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754) | [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [La Marisoul & The Love Notes Orchestra \(Vol\. 1\)](https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO) | 2:42 |
+| 25 | [Batida diferente](https://open.spotify.com/track/6IdTeV8TfNABByZ3bUEUV6) | [Herbie Mann](https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo) | [Latin Fever](https://open.spotify.com/album/5LLQl89oz0vptV3tQefJv2) | 5:14 |
 | 26 | [Como Traigo La Yuca \- Live](https://open.spotify.com/track/4ZMlEw8pXvHuwQwem5kpGF) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Live At The Village Vanguard](https://open.spotify.com/album/2S1w7Sc9NukidqKfpylJDX) | 6:36 |
 | 27 | [After All](https://open.spotify.com/track/579OSusZBmVE5rNDWhPUwk) | [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ), [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Ultimate Duets](https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A) | 4:59 |
 | 28 | [El Cervatillo](https://open.spotify.com/track/6vAoXRdls7zSYTQFoK0qaa) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [El Cervatillo](https://open.spotify.com/album/2qCzPfroFLBsxrZaPT7hlG) | 5:07 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 92 | [Papo Final](https://open.spotify.com/track/1uyZTB0xrmqxwbxxvstFZp) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [A Arte de Viver](https://open.spotify.com/album/5EUo3iiVNR2uCHIgeyHeay) | 2:33 |
 | 93 | [Martinez](https://open.spotify.com/track/44re98tanNL8atNuJtRCYC) | [Ray Mantilla](https://open.spotify.com/artist/2RoFymB5k9pWkAtFIaMl7I) | [Rebirth](https://open.spotify.com/album/5M0nR871JA8z3cQyCJKa4u) | 4:05 |
 | 94 | [Guarajazz](https://open.spotify.com/track/1skp5PmXkbwb9uUHI3mPSg) | [Carlos Henriquez](https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI) | [The Bronx Pyramid](https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw) | 5:44 |
-| 95 | [La Gitana](https://open.spotify.com/track/6lzEHfCfIodmHLU5IRVTHP) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Listen Here](https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi) | 7:15 |
-| 96 | [El Negro Bembón](https://open.spotify.com/track/4lksEid3JeMWn2OGkKdAda) | [Miguel Zenón](https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj) | [Sonero: The Music of Ismael Rivera](https://open.spotify.com/album/2xgt6RLEol1akzCP2OnyzP) | 8:16 |
+| 95 | [El Negro Bembón](https://open.spotify.com/track/4lksEid3JeMWn2OGkKdAda) | [Miguel Zenón](https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj) | [Sonero: The Music of Ismael Rivera](https://open.spotify.com/album/2xgt6RLEol1akzCP2OnyzP) | 8:16 |
+| 96 | [La Gitana](https://open.spotify.com/track/6lzEHfCfIodmHLU5IRVTHP) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Listen Here](https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi) | 7:15 |
 | 97 | [Chamber Timba](https://open.spotify.com/track/6by7enSlSy1OqK8x1830sN) | [Manuel Valera](https://open.spotify.com/artist/76RyqtLsvbJFynRIu9dXJ8), [New Cuban Express](https://open.spotify.com/artist/5k6qmrXBpYXDFA6rOJqYy5) | [Expectativas](https://open.spotify.com/album/5QYiiHRn4G7IhUEskK3ctZ) | 4:16 |
 | 98 | [I'll Call You Later](https://open.spotify.com/track/6s8PZTZXFqIxwnhf1RA1fn) | [Hilton Ruiz](https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1) | [Enchantment](https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY) | 4:29 |
 | 99 | [My Father's Eyes](https://open.spotify.com/track/4j44KbgdZjKygQlGoDZaPc) | [Pedrito Martinez](https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Acertijos](https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF) | 5:11 |

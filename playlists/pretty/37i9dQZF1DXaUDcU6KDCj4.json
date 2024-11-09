@@ -1,13 +1,261 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover:  Haley Heynderickx",
-  "num_followers": 814200,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover:  Sarah Julia",
+  "num_followers": 814461,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyRSQAAAAABXzTQ3LIS2dvUn6ayhvaI2",
+  "snapshot_id": "Zy2a0AAAAAC19IktKi+EVGVrgeKIgB2L",
   "tracks": [
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "This World's A Giant",
+        "url": "https://open.spotify.com/album/1g6H1fp7COGdwnYGfLEG2D"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "This World's A Giant",
+      "url": "https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Game of Pretend",
+        "url": "https://open.spotify.com/album/4XJdTyFjkq9hcngkIDSMmM"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 259568,
+      "name": "Game of Pretend",
+      "url": "https://open.spotify.com/track/0CUUFKKSFn4xoDHAnS8AFL"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Days On End",
+        "url": "https://open.spotify.com/album/3fsJkD4GuO8IAQBzxMr0cV"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "duration_ms": 208476,
+      "name": "Days On End",
+      "url": "https://open.spotify.com/track/0jCeblxsZemjNoHAvYD5iU"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "me, without you",
+        "url": "https://open.spotify.com/album/6TxuZYNlI2jjG72rEAjeJU"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        }
+      ],
+      "duration_ms": 197055,
+      "name": "me, without you",
+      "url": "https://open.spotify.com/track/3MbCvDJj9O42q2FINIUYn4"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "ellipsis",
+        "url": "https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "duration_ms": 243314,
+      "name": "ellipsis",
+      "url": "https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Red Bandana",
+        "url": "https://open.spotify.com/album/6ftosjsIUxKZWrxCVEWrI0"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "duration_ms": 227492,
+      "name": "Red Bandana",
+      "url": "https://open.spotify.com/track/2VIOg87P7QCmIyYBEwEgvy"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Flatland Forever",
+        "url": "https://open.spotify.com/album/6hsLVJIMa6eZ0eo0sEeVbg"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 203793,
+      "name": "Chasing A Feeling",
+      "url": "https://open.spotify.com/track/4UJiJf6bPw5V3HLU462WFR"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Portland",
+        "url": "https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf"
+      },
+      "artists": [
+        {
+          "name": "Rhys",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "duration_ms": 172872,
+      "name": "Portland",
+      "url": "https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "All These Words",
+        "url": "https://open.spotify.com/album/4wrthrHVWtj4TJAabueOA2"
+      },
+      "artists": [
+        {
+          "name": "Lucy Clearwater",
+          "url": "https://open.spotify.com/artist/6UmyuelV4DRx79BFPMWNPj"
+        },
+        {
+          "name": "Lemony Rug",
+          "url": "https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY"
+        }
+      ],
+      "duration_ms": 213270,
+      "name": "All These Words",
+      "url": "https://open.spotify.com/track/6Go7V9gIpYg8ksusOZylON"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Divorce Song",
+        "url": "https://open.spotify.com/album/7Ajl9s0boZJhwuGFCbiSGF"
+      },
+      "artists": [
+        {
+          "name": "Zach Oliver",
+          "url": "https://open.spotify.com/artist/3mUGzseAIqVvSM5m3vJ4GX"
+        }
+      ],
+      "duration_ms": 178309,
+      "name": "Divorce Song",
+      "url": "https://open.spotify.com/track/6qusQrl60zqnTrRnWV7v7p"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Happening Lately",
+        "url": "https://open.spotify.com/album/7KJaETONnBiT2eejZoPYIc"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 176607,
+      "name": "Happening Lately",
+      "url": "https://open.spotify.com/track/0u7nzVO1ZA9wffIfyNmucT"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Six Figures of Solitude - EP",
+        "url": "https://open.spotify.com/album/2TAp5QS9eYIUZiRKhDKoVV"
+      },
+      "artists": [
+        {
+          "name": "Oscar Blue",
+          "url": "https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Six Figures of Solitude",
+      "url": "https://open.spotify.com/track/3ffzx36vqh2RMr9JWlQHoZ"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Rosemary",
+        "url": "https://open.spotify.com/album/6cNNKLuexZr4KIY9n9NsVc"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "duration_ms": 49757,
+      "name": "Rosemary",
+      "url": "https://open.spotify.com/track/2EON159zr2wtni0KlO9Z79"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "this is me now",
+        "url": "https://open.spotify.com/album/0scdYf8gP2F8HDNMLt2lvh"
+      },
+      "artists": [
+        {
+          "name": "Martin Luke Brown",
+          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "this is me now",
+      "url": "https://open.spotify.com/track/3ZXgBDt3B8JAU8pGdbnvqt"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Bound For Heartache",
+        "url": "https://open.spotify.com/album/33lxbElTy2k3z1GctwYmhr"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rowland",
+          "url": "https://open.spotify.com/artist/4naDocJqN0cECeajJwWdu1"
+        },
+        {
+          "name": "harf.",
+          "url": "https://open.spotify.com/artist/12dcW7121xWHkU7xCBvyUX"
+        }
+      ],
+      "duration_ms": 189357,
+      "name": "Bound For Heartache",
+      "url": "https://open.spotify.com/track/3ziRcU9EmB67NgevAvO56Z"
+    },
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
@@ -2267,270 +2515,6 @@
       "duration_ms": 170586,
       "name": "Whiskey Angel",
       "url": "https://open.spotify.com/track/4dkJAQlRswrkaapPJcOfys"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "I\u2019D MISS THE BIRDS",
-        "url": "https://open.spotify.com/album/4HzZEBP0zL6DKUg85QtfkW"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 189859,
-      "name": "I\u2019D MISS THE BIRDS",
-      "url": "https://open.spotify.com/track/2uIsTZsypUTHzRunshIcNd"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Light Sides",
-        "url": "https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 243087,
-      "name": "Beginner",
-      "url": "https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        },
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 206463,
-      "name": "You (feat. Hermanos Guti\u00e9rrez)",
-      "url": "https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "For Beginners: The Best of M. Ward",
-        "url": "https://open.spotify.com/album/6rT2YTOXezUtNSJXQvOngT"
-      },
-      "artists": [
-        {
-          "name": "M. Ward",
-          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
-        },
-        {
-          "name": "Folk Bitch Trio",
-          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
-        }
-      ],
-      "duration_ms": 210293,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/1K824XJGMAAKsg9VowjenF"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "No Way To Relax When You Are On Fire",
-        "url": "https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "Debbie Darling",
-      "url": "https://open.spotify.com/track/1T13ZqrqIEppYk5zEMh2Lc"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Anything For You",
-        "url": "https://open.spotify.com/album/0j0SSAXrwFQBxI9Jhldf0u"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 264889,
-      "name": "Anything For You",
-      "url": "https://open.spotify.com/track/6JvHxvfCf0741MWTExGMAm"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Highway Queen (feat. Maren Morris)",
-        "url": "https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 211485,
-      "name": "Highway Queen (feat. Maren Morris)",
-      "url": "https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Nobody Knows",
-        "url": "https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 152239,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Roosevelt Ave",
-        "url": "https://open.spotify.com/album/2J6QucBwqS11tapLKJvxaT"
-      },
-      "artists": [
-        {
-          "name": "Allegra Krieger",
-          "url": "https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39"
-        }
-      ],
-      "duration_ms": 96553,
-      "name": "Roosevelt Ave",
-      "url": "https://open.spotify.com/track/6ZTjtqs0G5sYrGeZmYoIUp"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Josephine",
-        "url": "https://open.spotify.com/album/4uOsx4KUO4ziKOeKQOZhpH"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        },
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 223241,
-      "name": "Josephine",
-      "url": "https://open.spotify.com/track/57KEhRQ7WjjYHjTIMBL8t0"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/0rjGmvPz2Bs8kMyDkM6YHt"
-      },
-      "artists": [
-        {
-          "name": "Baerd",
-          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
-        }
-      ],
-      "duration_ms": 169304,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/6yjTNRzjxUgzu5kG7jxb8I"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/1musv26Iw54F0A0zS0IM6I"
-      },
-      "artists": [
-        {
-          "name": "Willie Watson",
-          "url": "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
-        }
-      ],
-      "duration_ms": 252728,
-      "name": "Already Gone",
-      "url": "https://open.spotify.com/track/3EmVjPH82YDPoKPY7HLgvk"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Vienna",
-        "url": "https://open.spotify.com/album/2bwdorPshB0LVOU12zUbWE"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        },
-        {
-          "name": "Lily Lyons",
-          "url": "https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX"
-        }
-      ],
-      "duration_ms": 289480,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/2kPkWtXXFwvNqsdjbIuIvv"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Scared To Love Again",
-        "url": "https://open.spotify.com/album/7o0OCzWlZR3pyOOsRWzdAc"
-      },
-      "artists": [
-        {
-          "name": "Evan Honer",
-          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
-        }
-      ],
-      "duration_ms": 253620,
-      "name": "Scared To Love Again",
-      "url": "https://open.spotify.com/track/6uVbSAvKzTRgWj0IQ094En"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Too Stoned To Cry [Feat. Billy Strings]",
-        "url": "https://open.spotify.com/album/0ZRuxP2CWBV3FPAcejLg3b"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 220608,
-      "name": "Too Stoned To Cry [Feat. Billy Strings]",
-      "url": "https://open.spotify.com/track/1PcMQHHrQCNgGwEXB4QIQj"
     }
   ],
   "unique_name": "Fresh Folk",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Masked Wolf\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,584 likes - 99 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,591 likes - 99 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 21 | [Hide It \(feat\. Don Toliver\)](https://open.spotify.com/track/2NXGMnNU6nctSmcKWjfdCS) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hide It \(feat\. Don Toliver\)](https://open.spotify.com/album/4sAQkEB9HwmyKAd9JNZ7ee) | 3:27 |
 | 22 | [Mbappé](https://open.spotify.com/track/37JNNALNVizqHTzclhBz8V) | [Zambug](https://open.spotify.com/artist/698QM0vyNkViI1jrJlBQg5) | [Mbappé](https://open.spotify.com/album/7opW9daFNBmqC8Kx7MwEui) | 2:19 |
 | 23 | [Nachos](https://open.spotify.com/track/1lo4xyLFWHNRVJKLbKi4FZ) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [ANIMALS ONLY \(ICE COLD\)](https://open.spotify.com/album/44YtWCi7ahAV8wvmreYKaO) | 2:52 |
-| 24 | [Hoodrat](https://open.spotify.com/track/4XQxY73r8Mo65rDZI3htCJ) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Hoodrat](https://open.spotify.com/album/4XWwHApX8SOxSPv59uAaTm) | 2:28 |
+| 24 | [HOODRAT](https://open.spotify.com/track/4XQxY73r8Mo65rDZI3htCJ) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [HOODRAT](https://open.spotify.com/album/4XWwHApX8SOxSPv59uAaTm) | 2:28 |
 | 25 | [High Grade](https://open.spotify.com/track/47NlsGQqiKHdMVAWxj8o6N) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx) | [High Grade](https://open.spotify.com/album/2KcvTP6pttZaeMcf7TSXzD) | 2:08 |
 | 26 | [It](https://open.spotify.com/track/5ASiVfpSYoK5OQajNiNuJP) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [It](https://open.spotify.com/album/22p2prq9HNF6RNB7S4nKjt) | 3:15 |
 | 27 | [I LIKE HOES](https://open.spotify.com/track/33hiUOCaTAxgKbQyHNCQh5) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [steven shaeffer](https://open.spotify.com/artist/0sPHi4SXo7KmY1PcmlcEp2) | [Lvl 1: At Least It Was Fun](https://open.spotify.com/album/67vlxarO0ZAD65EHgg06ip) | 2:39 |

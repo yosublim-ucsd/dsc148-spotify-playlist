@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "444",
+        "url": "https://open.spotify.com/album/64GNZmjJa3CAYjAQR3koe4"
+      },
+      "artists": [
+        {
+          "name": "Crippled Black Phoenix",
+          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443146,
+      "name": "444",
+      "url": "https://open.spotify.com/track/0kYKQAOi4Ph6r9YBt8YoOF"
+    },
+    {
+      "album": {
         "name": "The Boat",
         "url": "https://open.spotify.com/album/4ByWNHMb230SG31OpNl4HD"
       },
@@ -845,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Last To Run",
+        "url": "https://open.spotify.com/album/7wa7TrHHHyDaQYOxB7Xfg4"
+      },
+      "artists": [
+        {
+          "name": "The Pineapple Thief",
+          "url": "https://open.spotify.com/artist/4lrBMUSk8PiNnCEZfsmPAk"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255225,
+      "name": "Election Day",
+      "url": "https://open.spotify.com/track/4v68ZvqTJOecZNW8boGFOR"
+    },
+    {
+      "album": {
         "name": "THE FUTURE BITES",
         "url": "https://open.spotify.com/album/76hVw7WdMkDylaMlW0X8Ol"
       },
@@ -1242,7 +1278,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 209916,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/03IY1x0GbOXI6yVLQwfIJF"
@@ -2400,7 +2436,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 266972,
       "name": "Pleasant Valley/Milner Field (with Cory Wells)",
       "url": "https://open.spotify.com/track/3UyLM2TScJQTGAF8VvfN73"
@@ -2544,7 +2580,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 75130,
       "name": "Rei Theme - From \"Hokuto No Ken\"",
       "url": "https://open.spotify.com/track/0dQxrhzwpQ1qMUNJFDYCYb"
@@ -3400,6 +3436,24 @@
       "duration_ms": 418807,
       "name": "The Great Pretender",
       "url": "https://open.spotify.com/track/1M0efSydvXC2nvnuom88OB"
+    },
+    {
+      "album": {
+        "name": "Instant Rewards",
+        "url": "https://open.spotify.com/album/54n8MiXmukz3tjTs9294Bm"
+      },
+      "artists": [
+        {
+          "name": "Tides From Nebula",
+          "url": "https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450720,
+      "name": "The Great Survey",
+      "url": "https://open.spotify.com/track/2IYAnNjwqYDXfe9Fl5IMIN"
     },
     {
       "album": {

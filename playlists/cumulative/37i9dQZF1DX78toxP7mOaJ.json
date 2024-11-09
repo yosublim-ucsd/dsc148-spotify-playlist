@@ -24461,6 +24461,24 @@
     },
     {
       "album": {
+        "name": "Somewhere In America",
+        "url": "https://open.spotify.com/album/3n0R2z0pN83OSY8bPlLwaD"
+      },
+      "artists": [
+        {
+          "name": "Teddy at Night",
+          "url": "https://open.spotify.com/artist/7dKFysAbvsEh0XaG8B3j1v"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "Somewhere In America",
+      "url": "https://open.spotify.com/track/4G34UotQuAdapqzv3HGQvk"
+    },
+    {
+      "album": {
         "name": "Songs of Love",
         "url": "https://open.spotify.com/album/1o0RcnUh2J4bSLKBQElOJk"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Drake \ud83e\udd89 ",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Clairmont The Second",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -1225,6 +1225,24 @@
     },
     {
       "album": {
+        "name": "ACTIVATED",
+        "url": "https://open.spotify.com/album/2RzzmKEPpmLCVJXZA51zul"
+      },
+      "artists": [
+        {
+          "name": "Rochester",
+          "url": "https://open.spotify.com/artist/15eHvU7URb8COOYNM35fZK"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189387,
+      "name": "ACTIVATED",
+      "url": "https://open.spotify.com/track/3ZL6UDvVe2ewbiQJGpFtPu"
+    },
+    {
+      "album": {
         "name": "Add Up",
         "url": "https://open.spotify.com/album/2KuQEtRo8I5995jjTHdqdB"
       },
@@ -1604,7 +1622,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 179366,
       "name": "ALICE.",
       "url": "https://open.spotify.com/track/2dVmZ5FPuBsZY8XwK7CRSc"
@@ -3038,7 +3056,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 245803,
       "name": "bbhur",
       "url": "https://open.spotify.com/track/6rq7UM6Wwgo7NFm73NP2vD"
@@ -4423,6 +4441,24 @@
     },
     {
       "album": {
+        "name": "Body On Me",
+        "url": "https://open.spotify.com/album/6jYEGMUJCFDUR34PVv4vuR"
+      },
+      "artists": [
+        {
+          "name": "TAAYLEE G",
+          "url": "https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Body On Me",
+      "url": "https://open.spotify.com/track/3L2BmKgrMV0sNvWw7RPU9k"
+    },
+    {
+      "album": {
         "name": "Nimrod",
         "url": "https://open.spotify.com/album/32ER4R9kdJ2to4rWCdACwN"
       },
@@ -4666,7 +4702,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 120029,
       "name": "BREAK BREAD",
       "url": "https://open.spotify.com/track/1BEMiV33Zy3htKqppm6pKU"
@@ -5382,7 +5418,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 163468,
       "name": "Carri\u00e8re",
       "url": "https://open.spotify.com/track/7zjvUiy1onyYgKwuNRlxpP"
@@ -6746,7 +6782,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 248329,
       "name": "Counted Me Out",
       "url": "https://open.spotify.com/track/0tbVyp0MS6ZPCFWIHg5umU"
@@ -8176,7 +8212,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 150000,
       "name": "DONE WITH THAT...",
       "url": "https://open.spotify.com/track/5YrYQqnbxoxlc6fPdTdK78"
@@ -12936,7 +12972,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 120025,
       "name": "Heater",
       "url": "https://open.spotify.com/track/7vXeuaxwd028BFWm54YxuR"
@@ -13754,6 +13790,32 @@
       "duration_ms": 183884,
       "name": "Huh",
       "url": "https://open.spotify.com/track/0WwULq4T2uJSPFxHgs90su"
+    },
+    {
+      "album": {
+        "name": "HUNDO",
+        "url": "https://open.spotify.com/album/0vJ4vgqMg9DXt6zsnXaVRN"
+      },
+      "artists": [
+        {
+          "name": "Chani Nattan",
+          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
+        },
+        {
+          "name": "Sukha",
+          "url": "https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG"
+        },
+        {
+          "name": "Inderpal Moga",
+          "url": "https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143545,
+      "name": "HUNDO",
+      "url": "https://open.spotify.com/track/7yz7n00FMO8AUxgvBHXZab"
     },
     {
       "album": {
@@ -14910,7 +14972,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 278000,
       "name": "It's Up (feat. Young Thug & 21 Savage)",
       "url": "https://open.spotify.com/track/4VQO1UdVIecQqB49PlANHz"
@@ -15906,6 +15968,28 @@
       "duration_ms": 125989,
       "name": "Knock Knock - SlimeBag",
       "url": "https://open.spotify.com/track/7nDmhet3z2l2xq4II2tuGs"
+    },
+    {
+      "album": {
+        "name": "KNOCKOUT",
+        "url": "https://open.spotify.com/album/1kdb3QXpdYyyV8zeZRJNMM"
+      },
+      "artists": [
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Dibia$E",
+          "url": "https://open.spotify.com/artist/21H0kHbS41lECHguMnjGpb"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141131,
+      "name": "KNOCK YA SONIC RINGS",
+      "url": "https://open.spotify.com/track/4sTEZtYcTYGsVgie9Qatkh"
     },
     {
       "album": {
@@ -19783,6 +19867,32 @@
     },
     {
       "album": {
+        "name": "Nice Try",
+        "url": "https://open.spotify.com/album/3oXse1JR6Dojo837PMJwq2"
+      },
+      "artists": [
+        {
+          "name": "Cadence Weapon",
+          "url": "https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS"
+        },
+        {
+          "name": "Super Duty Tough Work",
+          "url": "https://open.spotify.com/artist/62C2Sg9LJoWfSw8K8EuX3u"
+        },
+        {
+          "name": "Junia-T",
+          "url": "https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Nice Try",
+      "url": "https://open.spotify.com/track/7EoNOAy3DaoYhaH847XYVK"
+    },
+    {
+      "album": {
         "name": "Nicky Nine Door",
         "url": "https://open.spotify.com/album/4xdOcLPursBFxoEArmUPPa"
       },
@@ -21544,7 +21654,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 142500,
       "name": "ON THE RUN",
       "url": "https://open.spotify.com/track/4gnSwKoqucAP7ZeYSFniNd"
@@ -28116,7 +28226,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 216245,
       "name": "Sunday Dinner (feat. Quake Matthews)",
       "url": "https://open.spotify.com/track/6OnP5zN0jEzxqIUzkrXC2m"
@@ -28752,6 +28862,24 @@
       "duration_ms": 192000,
       "name": "Tennis Chains",
       "url": "https://open.spotify.com/track/5TQkSGkqRWZ6SU7EUlYi6M"
+    },
+    {
+      "album": {
+        "name": "NOCHE",
+        "url": "https://open.spotify.com/album/4elNnriocyEa75OIRSLZKK"
+      },
+      "artists": [
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192128,
+      "name": "TEQUILA",
+      "url": "https://open.spotify.com/track/5z5TCdZd6PDUuC54TOFlRH"
     },
     {
       "album": {
@@ -29416,6 +29544,32 @@
       "duration_ms": 156279,
       "name": "THE ONE",
       "url": "https://open.spotify.com/track/6F0qiz4hWEs1ONj2q0WcbO"
+    },
+    {
+      "album": {
+        "name": "Still Queen of the 6ix",
+        "url": "https://open.spotify.com/album/5IYOxwLAyGDJSQTiUiE6cz"
+      },
+      "artists": [
+        {
+          "name": "Paris Richards",
+          "url": "https://open.spotify.com/artist/2QKgfzDlgGJCv1hkfOovKH"
+        },
+        {
+          "name": "Dub J",
+          "url": "https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE"
+        },
+        {
+          "name": "Maestro Fresh Wes",
+          "url": "https://open.spotify.com/artist/1dwKQTuExr4n8IwmXzyN2K"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186628,
+      "name": "The One (feat. Maestro Fresh Wes)",
+      "url": "https://open.spotify.com/track/31VPHjirgKqd91Ti87GHPt"
     },
     {
       "album": {
@@ -31024,6 +31178,24 @@
       "duration_ms": 124459,
       "name": "Un seul roi",
       "url": "https://open.spotify.com/track/5DUEh6jFq13rek2tknux7u"
+    },
+    {
+      "album": {
+        "name": "Under the Rug",
+        "url": "https://open.spotify.com/album/525F6fCEMOmeziECAN0ldZ"
+      },
+      "artists": [
+        {
+          "name": "Friyie",
+          "url": "https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106329,
+      "name": "Under the Rug",
+      "url": "https://open.spotify.com/track/7ulGOXpTEBTcLROuPDdBYP"
     },
     {
       "album": {
@@ -33534,6 +33706,28 @@
       "duration_ms": 175609,
       "name": "Young & Dumb",
       "url": "https://open.spotify.com/track/389M82vPjkGjQOxOmjElvP"
+    },
+    {
+      "album": {
+        "name": "YOUNG SAIYAN FREESTYLE",
+        "url": "https://open.spotify.com/album/5RrJLi92lXnxc46yFHipCG"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        },
+        {
+          "name": "Hunna G",
+          "url": "https://open.spotify.com/artist/3K1jwN2afVgJiqwgoT38GP"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110666,
+      "name": "YOUNG SAIYAN FREESTYLE",
+      "url": "https://open.spotify.com/track/1PcIh8JN2j60CFLdveNIQE"
     },
     {
       "album": {

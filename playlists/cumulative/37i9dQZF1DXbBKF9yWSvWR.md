@@ -4,7 +4,7 @@
 
 > All new music with an Indie twist\. Cover: la loye
 
-174 songs - 10 hr 3 min
+175 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [BREAK FREE](https://open.spotify.com/track/4EcUyeRtr22NsLpmAv7rFo) | [Jean Valery](https://open.spotify.com/artist/3nKZLWQbRQ57Tj4ZfeGEek), [Alioth](https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF), [Nadir](https://open.spotify.com/artist/6FYvssfLHul082VsjnVfKB), [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [BREAK FREE](https://open.spotify.com/album/2F89HRSxDaJiBhRi0mKp7G) | 4:20 | 2024-08-30 | 2024-11-07 |
 | [Brick Houses](https://open.spotify.com/track/29ewkYh7Tw1hWthUUxjxho) | [Few Bits](https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc) | [Brick Houses](https://open.spotify.com/album/4ZgDC3RMyDFX65CVjYWz23) | 3:19 | 2024-10-03 |  |
 | [Busy Doing Nothing](https://open.spotify.com/track/3lDmfwvKqwyDiZUSGNCUHY) | [Mickie](https://open.spotify.com/artist/1fhrWRji66FUx7jES5tMJX) | [Busy Doing Nothing](https://open.spotify.com/album/4RXMH98NmrxMkInHxnp4mS) | 3:08 | 2024-07-11 | 2024-09-14 |
+| [Butterfly](https://open.spotify.com/track/0BUXcwQFldJNJHNGoPT2Ng) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7) | 3:09 | 2024-11-08 |  |
 | [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 | 2024-06-24 | 2024-07-10 |
 | [Cake for Dinner](https://open.spotify.com/track/4QvBSHosNhkteUbnqkyzHK) | [Galine](https://open.spotify.com/artist/1DFbUtrAHgEHrZOnptv03D) | [Cake for Dinner](https://open.spotify.com/album/7IWXAJ8AlDb2mCxwpemrot) | 3:22 | 2024-09-05 |  |
 | [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 | 2024-06-24 | 2024-07-12 |

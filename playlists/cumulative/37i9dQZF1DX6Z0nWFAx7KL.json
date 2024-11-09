@@ -291,6 +291,32 @@
     },
     {
       "album": {
+        "name": "Alone With You",
+        "url": "https://open.spotify.com/album/7Jq86ZKuOyQSRTEI0UzAhe"
+      },
+      "artists": [
+        {
+          "name": "Andrew Nagy",
+          "url": "https://open.spotify.com/artist/62gVQJQGs9WNqDjBfuDING"
+        },
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        },
+        {
+          "name": "Gaby Gerlis",
+          "url": "https://open.spotify.com/artist/2RhLnPONe3TYeSQRl8WHZv"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/61C23J1jduYNQVe69XBupp"
+    },
+    {
+      "album": {
         "name": "Anybody",
         "url": "https://open.spotify.com/album/0dz8Kbj6OD0DKrxiY1PxtI"
       },
@@ -580,7 +606,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 155705,
       "name": "Better Than This",
       "url": "https://open.spotify.com/track/3rYcMu9SX9ezp9vmcQ9z5j"
@@ -1126,6 +1152,28 @@
       "duration_ms": 220000,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/3h0tEwAyOCQDa4X8NEcy0Q"
+    },
+    {
+      "album": {
+        "name": "Dance Of Love",
+        "url": "https://open.spotify.com/album/0kyhxzepypEjLQhIepG07h"
+      },
+      "artists": [
+        {
+          "name": "LU2VYK",
+          "url": "https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L"
+        },
+        {
+          "name": "Wave94",
+          "url": "https://open.spotify.com/artist/2bppX7eLqQw6bWhFD1eaQO"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147272,
+      "name": "Dance Of Love",
+      "url": "https://open.spotify.com/track/2CqmLoGaMIwHHgf3A1AjF6"
     },
     {
       "album": {
@@ -3376,7 +3424,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 158031,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
@@ -3694,7 +3742,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 179969,
       "name": "No Color (Reimagined)",
       "url": "https://open.spotify.com/track/3j7JyIQECpvg3UB6LAwu4m"
@@ -4378,7 +4426,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 208548,
       "name": "Scent of Wood (Bound to Divide Remix)",
       "url": "https://open.spotify.com/track/10ziUOuysPmpB3mNtCpNTA"
@@ -4660,6 +4708,32 @@
       "duration_ms": 162782,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK"
+    },
+    {
+      "album": {
+        "name": "Start a Thing",
+        "url": "https://open.spotify.com/album/08sC2eGNObmoeIfRYUgOD1"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176585,
+      "name": "Start a Thing",
+      "url": "https://open.spotify.com/track/2qkq4Trq4Sqd7JdrAhhmfi"
     },
     {
       "album": {
@@ -5030,6 +5104,24 @@
       "duration_ms": 132742,
       "name": "Tell Me How",
       "url": "https://open.spotify.com/track/0d2yUkzvqA85zHqiKA9IuE"
+    },
+    {
+      "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/7eYa0dcRtYtxiHKsj7Af43"
+      },
+      "artists": [
+        {
+          "name": "Eden Prince",
+          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189193,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/3wqBSBa92YjumaxGO9SH3U"
     },
     {
       "album": {

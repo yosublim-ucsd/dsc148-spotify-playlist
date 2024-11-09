@@ -1,13 +1,61 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from Peach Pit",
-  "num_followers": 833924,
+  "description": "Explore all things indie rock right now. Featuring music from Mk.gee",
+  "num_followers": 833958,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyRSQAAAAAAVidcaD1jXBPLX3oIUsCJQ",
+  "snapshot_id": "Zy2a0AAAAAAP+NEyPDE3ngOn2QMD+3f2",
   "tracks": [
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "ROCKMAN",
+        "url": "https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 179370,
+      "name": "ROCKMAN",
+      "url": "https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "A Devil's Bargain",
+        "url": "https://open.spotify.com/album/04tz6gR2GqUuugHoWjJaNu"
+      },
+      "artists": [
+        {
+          "name": "Camel Power Club",
+          "url": "https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "A Devil's Bargain",
+      "url": "https://open.spotify.com/track/1ys95O32loVP4m9Duxx8eU"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "You Resemble Everything",
+        "url": "https://open.spotify.com/album/7KMmDgFmwClaHFUugRQdx5"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "duration_ms": 224226,
+      "name": "You Resemble Everything",
+      "url": "https://open.spotify.com/track/6F8bla4C7O8JvA2J0OuSt7"
+    },
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
@@ -25,6 +73,38 @@
       "url": "https://open.spotify.com/track/6deZayR6kkANHzaEaAvQqe"
     },
     {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Give My Heart",
+        "url": "https://open.spotify.com/album/0OX6i6iw4HTmBxfsnAHL7F"
+      },
+      "artists": [
+        {
+          "name": "Junior Varsity",
+          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
+        }
+      ],
+      "duration_ms": 207695,
+      "name": "Give My Heart",
+      "url": "https://open.spotify.com/track/3mjyXZRQIEe6BuarfoJUDK"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "the side-effects of living in a fantasy",
+        "url": "https://open.spotify.com/album/0ng21MzkTevZ3JfDUiehKh"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "duration_ms": 185480,
+      "name": "matter",
+      "url": "https://open.spotify.com/track/4iDxcTqrjvAZVzJQp6Vhov"
+    },
+    {
       "added_at": "2024-11-01 04:00:00",
       "album": {
         "name": "Slowly",
@@ -39,22 +119,6 @@
       "duration_ms": 198250,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/1bMV1Dw8B2feFudpLAdZQ8"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "ROCKMAN",
-        "url": "https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 179370,
-      "name": "ROCKMAN",
-      "url": "https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -87,6 +151,22 @@
       "duration_ms": 254375,
       "name": "Am I Your Girl",
       "url": "https://open.spotify.com/track/6P3BLSxIWbcWF8cNkimmLy"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Just A Western",
+        "url": "https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 269473,
+      "name": "Just A Western",
+      "url": "https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -295,22 +375,6 @@
       "duration_ms": 231885,
       "name": "Tormenta",
       "url": "https://open.spotify.com/track/2a9Rtd2qgzq4A5TTJteuBI"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Just A Western",
-        "url": "https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 269473,
-      "name": "Just A Western",
-      "url": "https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -603,22 +667,6 @@
       "duration_ms": 182330,
       "name": "It\u2019s Gonna\u2019 Cost You",
       "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Rodeo Clown",
-        "url": "https://open.spotify.com/album/6YNY1oQOY3NjjKHvKM5wIm"
-      },
-      "artists": [
-        {
-          "name": "flipturn",
-          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
-        }
-      ],
-      "duration_ms": 201255,
-      "name": "Rodeo Clown",
-      "url": "https://open.spotify.com/track/1x1z2qHf13S4nD4ozEEH02"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1073,7 +1121,7 @@
       "artists": [
         {
           "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "url": "https://open.spotify.com/artist/0MosRqpk3OZXYV91A1vSEn"
         },
         {
           "name": "Declan McKenna",

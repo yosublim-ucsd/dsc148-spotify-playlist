@@ -4,7 +4,7 @@
 
 > Sangre fresca en las escenas del indie y el rock\. El Cuarteto de Nos en Portada.
 
-538 songs - 1 day 7 hr 43 min
+541 songs - 1 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [El Universo](https://open.spotify.com/track/2JMbzzP96kNdlqTkC0AH1H) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Universo](https://open.spotify.com/album/1el0RylfiPTbyyQaafzNEy) | 2:16 | 2023-06-09 | 2023-07-10 |
 | [El Universo](https://open.spotify.com/track/3c9QxMLyZu53C2PBoanbyV) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 2:16 | 2023-07-07 | 2023-10-21 |
 | [Elige Tu Propia Aventura](https://open.spotify.com/track/4dybzNXwNmsIAUndPYYnSF) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Elige Tu Propia Aventura](https://open.spotify.com/album/29SEZNngHLMnb0VclU7Y1p) | 2:51 | 2024-05-24 | 2024-10-05 |
+| [Ella Usó Mi cabeza Como Un Revólver \- Spotify Singles](https://open.spotify.com/track/046TaHr9EePc6M8NQX9vfw) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Spotify Singles](https://open.spotify.com/album/6ueXz9Wyd8wud5fBFOe6NT) | 4:19 | 2024-11-08 |  |
 | [Empezar de Cero](https://open.spotify.com/track/7vAkNCHHwY6rJzWzde1QDW) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Empezar de Cero](https://open.spotify.com/album/6YTctBcS8WvoeqiU6C6UCh) | 4:30 | 2021-12-17 | 2024-04-06 |
 | [En Años Luz](https://open.spotify.com/track/2HtmGWcpIJBgO8GVpjfbl2) | [Rock And Lovers](https://open.spotify.com/artist/18f0fAWI5vioFhhwzz3UEF) | [En Años Luz](https://open.spotify.com/album/1FELRgnG6G1igkp59ooXEe) | 3:45 | 2022-03-18 | 2022-07-21 |
 | [En Tu Orilla](https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Tu Orilla](https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0) | 3:25 | 2022-08-19 | 2024-02-03 |
@@ -244,6 +245,7 @@
 | [la marea nunca te la va a devolver](https://open.spotify.com/track/1s3mjJnz5zFrXjqEYWrJlJ) | [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi) | [Salsa Valentina](https://open.spotify.com/album/6MTD0YxcIA0jHwNZT64f9m) | 2:07 | 2023-05-12 | 2023-06-24 |
 | [La Mochila del Mundo](https://open.spotify.com/track/2tch5wBhdrdAkZYuJlAdhb) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Algo Tiene Que Cambiar](https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi) | 3:06 | 2023-05-19 | 2023-06-24 |
 | [La Novedad](https://open.spotify.com/track/2upHYVNdcEuk7pnTPsPfDN) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH), [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [La Novedad](https://open.spotify.com/album/1GMQ07qxd5Sxjb1ga4c1sW) | 3:31 | 2024-10-18 |  |
+| [LA NUBE EN EL JARDÍN](https://open.spotify.com/track/26SAoKWE9LyFHDfAkDzN0i) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [LA NUBE EN EL JARDÍN](https://open.spotify.com/album/2eBqNcxUvgWhj6GfpoaFSW) | 53:49 | 2024-11-08 |  |
 | [La Orilla](https://open.spotify.com/track/3dFqQse30uPsmAWjw67dql) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [La Orilla](https://open.spotify.com/album/7bwz4aqT6xHJs7x2UiXNhP) | 3:19 | 2024-04-19 | 2024-09-07 |
 | [La Persiana](https://open.spotify.com/track/5aOMpTOHYx1omSlIATG1XO) | [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [La Persiana](https://open.spotify.com/album/6I0BwhwKpTxhMLIZFf8ejU) | 2:06 | 2023-06-16 | 2023-06-24 |
 | [La sangre en el cuerpo \- En Vivo](https://open.spotify.com/track/6AnVTLDZWEiY7zu3JnpNQe) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [La sangre en el cuerpo \(En Vivo\)](https://open.spotify.com/album/1VwqVC3ohbh3Xtxtwu3z5J) | 4:50 | 2023-04-14 | 2023-05-18 |
@@ -459,6 +461,7 @@
 | [Su Nombre Es el Tuyo](https://open.spotify.com/track/21bbADKE5VtWFDe3xhW7fi) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Su Nombre Es el Tuyo](https://open.spotify.com/album/4PIBAHP1GHhqSLGn5c5yFh) | 4:47 | 2023-07-21 | 2023-09-30 |
 | [Su Nombre Es el Tuyo](https://open.spotify.com/track/56a8JTiYUoF6UtCdCT1sc6) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Rizoma](https://open.spotify.com/album/51ABCq7no09mPcnuPY7kP2) | 4:47 | 2023-09-29 | 2024-04-13 |
 | [Su Nombre Es el Tuyo](https://open.spotify.com/track/7ku1ivhaXvoDYKuQ4Bm16q) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Su Nombre Es el Tuyo](https://open.spotify.com/album/2JNSg5A2vNrOp145sYxcJR) | 4:47 | 2023-09-29 | 2023-10-03 |
+| [Suaves son los Días](https://open.spotify.com/track/4eXD6eLWhEv87ZAYBXADPW) | [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [No para siempre](https://open.spotify.com/artist/2oxeLuG3ieRRYlHqQjqixS), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [Suaves son los Días](https://open.spotify.com/album/4QPB6sLJPK1VU9mJ0mepji) | 3:21 | 2024-11-08 |  |
 | [Suburbios](https://open.spotify.com/track/1EwMmSJe5rk0Nd0DiD8v6w) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt) | 4:19 | 2022-04-01 | 2022-07-16 |
 | [Sue Me](https://open.spotify.com/track/4IKMHHkFZqRbSqQKPMwQcy) | [Base Stereo Club](https://open.spotify.com/artist/4WCxqglOLB9kHPSsTNap7q) | [Velvet Station](https://open.spotify.com/album/3RNcC6GLcijGOKZW8ogABN) | 2:50 | 2022-09-03 | 2022-09-28 |
 | [Sueños De Verano \- Con David Summers](https://open.spotify.com/track/1ADiQifm2PPYrziK3VPv80) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p), [David Summers](https://open.spotify.com/artist/38DCnAQ5QAcMW9TSnsgYGt) | [Sueños de Verano \(Con David Summers\)](https://open.spotify.com/album/2zL5YTPMw9TIH6TGHKknOI) | 3:08 | 2024-09-20 |  |

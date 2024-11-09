@@ -1225,6 +1225,36 @@
     },
     {
       "album": {
+        "name": "Suaves son los D\u00edas",
+        "url": "https://open.spotify.com/album/4QPB6sLJPK1VU9mJ0mepji"
+      },
+      "artists": [
+        {
+          "name": "Belafonte Sensacional",
+          "url": "https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "No para siempre",
+          "url": "https://open.spotify.com/artist/2oxeLuG3ieRRYlHqQjqixS"
+        },
+        {
+          "name": "Joaquina Mertz",
+          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201336,
+      "name": "Suaves son los D\u00edas",
+      "url": "https://open.spotify.com/track/4eXD6eLWhEv87ZAYBXADPW"
+    },
+    {
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
       },

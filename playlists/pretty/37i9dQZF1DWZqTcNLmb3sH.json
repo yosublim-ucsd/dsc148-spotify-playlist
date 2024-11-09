@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Bhairathi Ranagal",
-  "num_followers": 60067,
+  "num_followers": 60091,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zyy64gAAAADR8H/8kp0QxmTbvxwmjJae",
+  "snapshot_id": "Zy4PMwAAAAAdli1U4wzvnThW+ZqEKm5K",
   "tracks": [
     {
       "added_at": "2024-11-07 07:34:58",
@@ -123,6 +123,30 @@
       "duration_ms": 316875,
       "name": "Mannisu (From \"Kanguva\") (Kannada)",
       "url": "https://open.spotify.com/track/4eUjuiWAWWOfXgF5bAuLHF"
+    },
+    {
+      "added_at": "2024-11-08 13:16:35",
+      "album": {
+        "name": "Lay Lay Raja (From \"Matka\")(Kannada)",
+        "url": "https://open.spotify.com/album/2wKAURGfqgBgL5LigzsyTe"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "LN. Surya",
+          "url": "https://open.spotify.com/artist/0njPpkEpftProSoKUNXGkn"
+        },
+        {
+          "name": "Meghana Haliyal",
+          "url": "https://open.spotify.com/artist/2IVFHDXsOnIyrfA2BQ4f9i"
+        }
+      ],
+      "duration_ms": 246714,
+      "name": "Lay Lay Raja (From \"Matka\")(Kannada)",
+      "url": "https://open.spotify.com/track/1MkH3RhgeE7x5CXpU5z3r4"
     },
     {
       "added_at": "2024-11-07 13:04:34",
@@ -1078,6 +1102,10 @@
         {
           "name": "Sangeetha Ravindranath",
           "url": "https://open.spotify.com/artist/7jgOOSGT9VG1PSH90uFx43"
+        },
+        {
+          "name": "Judah Sandhy",
+          "url": "https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V"
         }
       ],
       "duration_ms": 226976,
@@ -1767,50 +1795,6 @@
       "duration_ms": 176474,
       "name": "Aadi Baa Magane Bheema (From \"Bheema\")",
       "url": "https://open.spotify.com/track/2ViwIwFqOzQu3DONknuz3l"
-    },
-    {
-      "added_at": "2024-08-12 04:23:22",
-      "album": {
-        "name": "Radhe (From \"Ibbani Tabbida Ileyali\")",
-        "url": "https://open.spotify.com/album/0V2JZ4rVbWDbAL3VXGTlBo"
-      },
-      "artists": [
-        {
-          "name": "Gagan Baderiya",
-          "url": "https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq"
-        },
-        {
-          "name": "Chandrajith Belliappa",
-          "url": "https://open.spotify.com/artist/3vfIXwJAxZWk8Copg77ByO"
-        },
-        {
-          "name": "Srilakshmi Belmannu",
-          "url": "https://open.spotify.com/artist/0N0WEDkRmqtpjlRYtBLoya"
-        }
-      ],
-      "duration_ms": 285290,
-      "name": "Radhe (From \"Ibbani Tabbida Ileyali\")",
-      "url": "https://open.spotify.com/track/2XRvBbbNQmy9I1AHOmILvo"
-    },
-    {
-      "added_at": "2024-08-12 04:24:17",
-      "album": {
-        "name": "Bhairathi Ranagal Title Song (From \"Bhairathi Ranagal\")",
-        "url": "https://open.spotify.com/album/0qO4aYHQFBzFWqjTiAre6m"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Venky",
-          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
-        },
-        {
-          "name": "Ravi Basrur",
-          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
-        }
-      ],
-      "duration_ms": 218991,
-      "name": "Bhairathi Ranagal Title Song (From \"Bhairathi Ranagal\")",
-      "url": "https://open.spotify.com/track/398zdqDWPOdmg7oGqffH8k"
     },
     {
       "added_at": "2024-08-06 12:20:09",

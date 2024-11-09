@@ -1,12 +1,12 @@
 {
   "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 197138,
+  "num_followers": 197183,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyqxgAAAAAB/D7xDOsJfNVuMuHATAImg",
+  "snapshot_id": "ZywDAAAAAAD1kPgQgtsjNe6zz6EDyHOK",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cerca De Ti",
-        "url": "https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Esperar En Ti - En Vivo",
-      "url": "https://open.spotify.com/track/0u8VsRafqJ4kXcdl8iDtBi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sencillos",
         "url": "https://open.spotify.com/album/5GafkqDsApJB9fSB0IkrX5"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 279466,
       "name": "Princesas M\u00e1gicas",
       "url": "https://open.spotify.com/track/4N3sG9h9pnbmIy8MaxcTxG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cerca De Ti",
+        "url": "https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Esperar En Ti - En Vivo",
+      "url": "https://open.spotify.com/track/0u8VsRafqJ4kXcdl8iDtBi"
     },
     {
       "added_at": null,

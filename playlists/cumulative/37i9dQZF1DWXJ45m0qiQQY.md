@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXJ45m0qiQQY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXJ45m0qiQQY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXJ45m0qiQQY)
 
-### [👻 spooky halloween lofi 🎃](https://open.spotify.com/playlist/37i9dQZF1DWXJ45m0qiQQY)
+### [spooky lofi 👻](https://open.spotify.com/playlist/37i9dQZF1DWXJ45m0qiQQY)
 
-> chilling beats for haunted halloween vibes.
+> chilling beats for haunted vibes.
 
 77 songs - 2 hr 38 min
 
@@ -14,7 +14,7 @@
 | [Bones!?](https://open.spotify.com/track/1AM4Gm7epCk3FB7GlXz5uf) | [Spaniel Mac](https://open.spotify.com/artist/3mwsqk2Ccx0YemdC8FSz30), [mochadoodle](https://open.spotify.com/artist/0LhSq19nmNoAIkECCc5wpT) | [Campfire Stories](https://open.spotify.com/album/1PpPjVWUfdzpdzzRdMjZsp) | 2:14 | 2024-10-18 |  |
 | [Campfire Stories](https://open.spotify.com/track/3dFWYvUPs2jpU1CZkwWNRb) | [Spaniel Mac](https://open.spotify.com/artist/3mwsqk2Ccx0YemdC8FSz30), [mochadoodle](https://open.spotify.com/artist/0LhSq19nmNoAIkECCc5wpT) | [Campfire Stories](https://open.spotify.com/album/1PpPjVWUfdzpdzzRdMjZsp) | 1:49 | 2024-10-18 |  |
 | [Carnival of Lost Souls](https://open.spotify.com/track/1UrOa5hQBSHZSxgoUGvcLc) | [Veilphonic](https://open.spotify.com/artist/4Xoed9XnRfjYW7lQu6GfFg) | [Carnival of Lost Souls](https://open.spotify.com/album/49uCJT5xqB3Ub7i0nfepVc) | 2:23 | 2024-11-06 |  |
-| [Casper's Labyrinth](https://open.spotify.com/track/41oorJfIEU9RnB9rE9xr2V) | [Yuforia](https://open.spotify.com/artist/189g0zKErUGH3VvDsgLSfd) | [Casper's Labyrinth](https://open.spotify.com/album/5kFRGjRqJjQ1OtzEvZouo5) | 2:17 | 2024-10-18 |  |
+| [Casper's Labyrinth](https://open.spotify.com/track/41oorJfIEU9RnB9rE9xr2V) | [Yuforia](https://open.spotify.com/artist/189g0zKErUGH3VvDsgLSfd) | [Casper's Labyrinth](https://open.spotify.com/album/5kFRGjRqJjQ1OtzEvZouo5) | 2:17 | 2024-10-18 | 2024-11-09 |
 | [Casper's Labyrinth](https://open.spotify.com/track/7reiBbBG2c1BZEirO0Wo3h) | [Yuforia](https://open.spotify.com/artist/189g0zKErUGH3VvDsgLSfd) | [Trick or Treat?](https://open.spotify.com/album/3XPbg1KbHdfJS6klfUgE6i) | 2:17 | 2024-10-18 |  |
 | [Coffin Break](https://open.spotify.com/track/3ahSMFA5UU7pUyuIIXCFyu) | [Rook & Reverie](https://open.spotify.com/artist/0G28qJWixkARiT2Nwz3VF4) | [Coffin Break](https://open.spotify.com/album/7jBQcytg4cJF7s78sVPlMc) | 2:00 | 2024-11-06 |  |
 | [Crackling](https://open.spotify.com/track/3ih5XZhO7lwIpYhlvfbGYq) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Haunted Castle](https://open.spotify.com/album/5vCLiCBjKuMTdPW9mdjXg0) | 2:15 | 2024-10-18 |  |
@@ -28,7 +28,7 @@
 | [Fright](https://open.spotify.com/track/7wRIVUCYY1rT3HmGWErkZL) | [jaspurrr](https://open.spotify.com/artist/5KL8P2XqxDI8tMI90FEkOG) | [A Symphony of Screams Vol.1](https://open.spotify.com/album/1Un1x4VOQ8qdQ6UevBkuHS) | 2:29 | 2024-10-18 |  |
 | [Ghost in a Pumpkin](https://open.spotify.com/track/75Sl5RkAfPPCgu5Mxkyc9Q) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [Spooky Tunes \- Halloween 2024](https://open.spotify.com/album/6hMFYn2AX8mHJ8oXzOVMr6) | 1:47 | 2024-10-18 |  |
 | [Ghost Mansion](https://open.spotify.com/track/5vTo4xb9vIQlTrt0gzgkiM) | [Lucie Cravero](https://open.spotify.com/artist/2e0eTUckm1xVdKFHmjSlrT), [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [A Lofi Chill Halloween](https://open.spotify.com/album/6qGsZqAsyOerkRALDUlE9U) | 2:03 | 2024-10-18 |  |
-| [Ghost Mansion](https://open.spotify.com/track/6i04SN92egHRDriXz2I29h) | [Lucie Cravero](https://open.spotify.com/artist/2e0eTUckm1xVdKFHmjSlrT), [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Ghost Mansion](https://open.spotify.com/album/5f8pyMh90P8C86DqIFJNAO) | 2:03 | 2024-10-18 |  |
+| [Ghost Mansion](https://open.spotify.com/track/6i04SN92egHRDriXz2I29h) | [Lucie Cravero](https://open.spotify.com/artist/2e0eTUckm1xVdKFHmjSlrT), [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Ghost Mansion](https://open.spotify.com/album/5f8pyMh90P8C86DqIFJNAO) | 2:03 | 2024-10-18 | 2024-11-09 |
 | [Ghost Sanctuary](https://open.spotify.com/track/18qoREx4xQReEaoFsELBpt) | [Lucie Cravero](https://open.spotify.com/artist/2e0eTUckm1xVdKFHmjSlrT), [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Ghost Sanctuary](https://open.spotify.com/album/2SRvl76PUgWKsDigCQR7D5) | 1:48 | 2024-10-18 |  |
 | [ghost stories](https://open.spotify.com/track/12mph9wgvnSUAkY03QUG9H) | [Astro Loud](https://open.spotify.com/artist/1zGuGkz7fYY1h4KBYTLuaz), [Paxkalito](https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f) | [Trick or Treat: Spooky Paws on Halloween](https://open.spotify.com/album/6mrwz2uQjclwyMTAXHesGM) | 2:11 | 2024-10-18 |  |
 | [Ghost Town](https://open.spotify.com/track/0KHzbBCmalKbNEBUJsDIU2) | [Trix.](https://open.spotify.com/artist/6sX3XCMLJp33YwlYcm5SNF), [Kanisan](https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO) | [Trick or Treat?](https://open.spotify.com/album/3XPbg1KbHdfJS6klfUgE6i) | 1:40 | 2024-10-18 |  |

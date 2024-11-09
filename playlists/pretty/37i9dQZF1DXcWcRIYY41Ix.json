@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: Lhasa de Sela.",
-  "num_followers": 126238,
+  "num_followers": 126269,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,18 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "LLORAR",
-        "url": "https://open.spotify.com/album/6TO1yAkdzT3CRVhJ32BZ3M"
+        "name": "Las Curanderas",
+        "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
       },
       "artists": [
         {
-          "name": "Magdalena Matthey",
-          "url": "https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Laura Murcia",
+          "url": "https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K"
         }
       ],
-      "duration_ms": 238266,
-      "name": "LLORAR",
-      "url": "https://open.spotify.com/track/3CHdlTAY8Lf7ldc0pJeIEf"
+      "duration_ms": 206061,
+      "name": "Las Curanderas",
+      "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -547,18 +543,22 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "Las Curanderas",
-        "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
+        "name": "LLORAR",
+        "url": "https://open.spotify.com/album/6TO1yAkdzT3CRVhJ32BZ3M"
       },
       "artists": [
         {
-          "name": "Laura Murcia",
-          "url": "https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K"
+          "name": "Magdalena Matthey",
+          "url": "https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 206061,
-      "name": "Las Curanderas",
-      "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
+      "duration_ms": 238266,
+      "name": "LLORAR",
+      "url": "https://open.spotify.com/track/3CHdlTAY8Lf7ldc0pJeIEf"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
+        "name": "No tenemos tiempo",
+        "url": "https://open.spotify.com/album/72dfrCR0XLcPuRgV2G5oKu"
+      },
+      "artists": [
+        {
+          "name": "Lia",
+          "url": "https://open.spotify.com/artist/6eGEvxkkLYybfvt5B8CAfA"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "No tenemos tiempo",
+      "url": "https://open.spotify.com/track/427KEmOZhZr2CgC43LtPEE"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
         "name": "Ser\u00e9 Guitarra",
         "url": "https://open.spotify.com/album/2hhNWokFRsUeqDkQ3MOzv5"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 303699,
       "name": "La Cultura del Miedo",
       "url": "https://open.spotify.com/track/2nSqBmRIDOlsBeiM2jdsup"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
-        "name": "No tenemos tiempo",
-        "url": "https://open.spotify.com/album/72dfrCR0XLcPuRgV2G5oKu"
-      },
-      "artists": [
-        {
-          "name": "Lia",
-          "url": "https://open.spotify.com/artist/6eGEvxkkLYybfvt5B8CAfA"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "No tenemos tiempo",
-      "url": "https://open.spotify.com/track/427KEmOZhZr2CgC43LtPEE"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1083,18 +1083,22 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "Casi tierra",
-        "url": "https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY"
+        "name": "La Despedida (feat. Valeria Castro)",
+        "url": "https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm"
       },
       "artists": [
         {
-          "name": "Vicente Navarro",
-          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
+          "name": "Colectivo Panamera",
+          "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
+        },
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 188405,
-      "name": "En el r\u00edo",
-      "url": "https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY"
+      "duration_ms": 218028,
+      "name": "La Despedida (feat. Valeria Castro)",
+      "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1119,22 +1123,18 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "La Despedida (feat. Valeria Castro)",
-        "url": "https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm"
+        "name": "Casi tierra",
+        "url": "https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY"
       },
       "artists": [
         {
-          "name": "Colectivo Panamera",
-          "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
-        },
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+          "name": "Vicente Navarro",
+          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
         }
       ],
-      "duration_ms": 218028,
-      "name": "La Despedida (feat. Valeria Castro)",
-      "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
+      "duration_ms": 188405,
+      "name": "En el r\u00edo",
+      "url": "https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "Una carta con tu nombre",
-        "url": "https://open.spotify.com/album/3IZWZ0sMl8VMLUwd9e8vBa"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Mart\u00edn",
-          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
-        }
-      ],
-      "duration_ms": 235075,
-      "name": "Una carta con tu nombre",
-      "url": "https://open.spotify.com/track/5rgb2Vl3iWofqOURoCELoq"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
         "name": "L'Escorp\u00ed",
         "url": "https://open.spotify.com/album/0SEHeoV1rWFYKSqJwn9STH"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 117355,
       "name": "L'Escorp\u00ed",
       "url": "https://open.spotify.com/track/6D6R8JmXNdkViagLFj2z7d"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
+        "name": "Una carta con tu nombre",
+        "url": "https://open.spotify.com/album/3IZWZ0sMl8VMLUwd9e8vBa"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Mart\u00edn",
+          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
+        }
+      ],
+      "duration_ms": 235075,
+      "name": "Una carta con tu nombre",
+      "url": "https://open.spotify.com/track/5rgb2Vl3iWofqOURoCELoq"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "El hombre de la habitaci\u00f3n de al lado",
-        "url": "https://open.spotify.com/album/7EqHXkO34eYZLPco3EpGZC"
-      },
-      "artists": [
-        {
-          "name": "Pez Mago",
-          "url": "https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY"
-        }
-      ],
-      "duration_ms": 234933,
-      "name": "El hombre de la habitaci\u00f3n de al lado",
-      "url": "https://open.spotify.com/track/0O8cglYEjO4csK9xHbKqp0"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
         "name": "A volar (feat. Lido Pimienta)",
         "url": "https://open.spotify.com/album/39dGTpmBPRDjT0NRpnyoOO"
       },
@@ -1355,6 +1339,38 @@
       "duration_ms": 217253,
       "name": "A volar (feat. Lido Pimienta)",
       "url": "https://open.spotify.com/track/5KnFKXycHFZhchoOjFASU1"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
+        "name": "El hombre de la habitaci\u00f3n de al lado",
+        "url": "https://open.spotify.com/album/7EqHXkO34eYZLPco3EpGZC"
+      },
+      "artists": [
+        {
+          "name": "Pez Mago",
+          "url": "https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY"
+        }
+      ],
+      "duration_ms": 234933,
+      "name": "El hombre de la habitaci\u00f3n de al lado",
+      "url": "https://open.spotify.com/track/0O8cglYEjO4csK9xHbKqp0"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
+        "name": "El chico de Andratx",
+        "url": "https://open.spotify.com/album/0SFoBg3E3UFCvv2PWCPUBU"
+      },
+      "artists": [
+        {
+          "name": "Bruno Sotos",
+          "url": "https://open.spotify.com/artist/5VtAP0zOz2mBVP7x4I6cT8"
+        }
+      ],
+      "duration_ms": 153492,
+      "name": "El cielo de tu boca",
+      "url": "https://open.spotify.com/track/01HKKccj72pbBARrkUI8YN"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "El chico de Andratx",
-        "url": "https://open.spotify.com/album/0SFoBg3E3UFCvv2PWCPUBU"
-      },
-      "artists": [
-        {
-          "name": "Bruno Sotos",
-          "url": "https://open.spotify.com/artist/5VtAP0zOz2mBVP7x4I6cT8"
-        }
-      ],
-      "duration_ms": 153492,
-      "name": "El cielo de tu boca",
-      "url": "https://open.spotify.com/track/01HKKccj72pbBARrkUI8YN"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
         "name": "S\u20acR\u20acNATA",
         "url": "https://open.spotify.com/album/3RU9SZ2PmXjmE88AuZRdzi"
       },
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "Parade & Nacho Casado",
-        "url": "https://open.spotify.com/album/44w7etmPnXkSB4qnJ4p9ZY"
-      },
-      "artists": [
-        {
-          "name": "Parade",
-          "url": "https://open.spotify.com/artist/1peNOv8TAlb3Lu1IqaNf56"
-        },
-        {
-          "name": "Nacho Casado",
-          "url": "https://open.spotify.com/artist/3Kk2OzzEbuWFgWdZy2cy5N"
-        }
-      ],
-      "duration_ms": 194816,
-      "name": "El Primero",
-      "url": "https://open.spotify.com/track/3etMSQSq1ynkQ4Vb9QO99U"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
         "name": "Deshielo",
         "url": "https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ"
       },
@@ -1483,18 +1463,22 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "ENCORE",
-        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
+        "name": "Parade & Nacho Casado",
+        "url": "https://open.spotify.com/album/44w7etmPnXkSB4qnJ4p9ZY"
       },
       "artists": [
         {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+          "name": "Parade",
+          "url": "https://open.spotify.com/artist/1peNOv8TAlb3Lu1IqaNf56"
+        },
+        {
+          "name": "Nacho Casado",
+          "url": "https://open.spotify.com/artist/3Kk2OzzEbuWFgWdZy2cy5N"
         }
       ],
-      "duration_ms": 252668,
-      "name": "REMOLINO",
-      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
+      "duration_ms": 194816,
+      "name": "El Primero",
+      "url": "https://open.spotify.com/track/3etMSQSq1ynkQ4Vb9QO99U"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1511,6 +1495,22 @@
       "duration_ms": 175905,
       "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
       "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
+      },
+      "artists": [
+        {
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+        }
+      ],
+      "duration_ms": 252668,
+      "name": "REMOLINO",
+      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
+        "name": "Vidrieritas",
+        "url": "https://open.spotify.com/album/7coLrKNPKAPDZfgLotJ1VW"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda de la Flor",
+          "url": "https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3"
+        }
+      ],
+      "duration_ms": 215786,
+      "name": "Vidrieritas",
+      "url": "https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
         "name": "Hoy no tengo nada que hacer",
         "url": "https://open.spotify.com/album/7beLtij36C7qfuqwwdoqhQ"
       },
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "Vidrieritas",
-        "url": "https://open.spotify.com/album/7coLrKNPKAPDZfgLotJ1VW"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda de la Flor",
-          "url": "https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3"
-        }
-      ],
-      "duration_ms": 215786,
-      "name": "Vidrieritas",
-      "url": "https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
         "name": "Mareas",
         "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
       },
@@ -1583,22 +1583,6 @@
       "duration_ms": 229901,
       "name": "Mareas",
       "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
-        "name": "Caribe boreal",
-        "url": "https://open.spotify.com/album/1GKOEFTSAzTAgu0B6RM9My"
-      },
-      "artists": [
-        {
-          "name": "Pacoenlaluna",
-          "url": "https://open.spotify.com/artist/69AwGjfFeu3lurlo1xwOkz"
-        }
-      ],
-      "duration_ms": 229871,
-      "name": "Caribe boreal",
-      "url": "https://open.spotify.com/track/2AoqZCkpCuDbLwEq9nh5pw"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1619,6 +1603,22 @@
       "duration_ms": 245426,
       "name": "Noviembre",
       "url": "https://open.spotify.com/track/5Rns0JAdfVtIVPvBBvPbXF"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
+        "name": "Caribe boreal",
+        "url": "https://open.spotify.com/album/1GKOEFTSAzTAgu0B6RM9My"
+      },
+      "artists": [
+        {
+          "name": "Pacoenlaluna",
+          "url": "https://open.spotify.com/artist/69AwGjfFeu3lurlo1xwOkz"
+        }
+      ],
+      "duration_ms": 229871,
+      "name": "Caribe boreal",
+      "url": "https://open.spotify.com/track/2AoqZCkpCuDbLwEq9nh5pw"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
+        "name": "Lobo",
+        "url": "https://open.spotify.com/album/4d3I9khxaMn5J7RxbpBkJk"
+      },
+      "artists": [
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        }
+      ],
+      "duration_ms": 186181,
+      "name": "Lobo",
+      "url": "https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
         "name": "Sendero",
         "url": "https://open.spotify.com/album/5rxlC79Jn0KgMI3OjSvlZ9"
       },
@@ -1687,22 +1703,6 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "Lobo",
-        "url": "https://open.spotify.com/album/4d3I9khxaMn5J7RxbpBkJk"
-      },
-      "artists": [
-        {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
-        }
-      ],
-      "duration_ms": 186181,
-      "name": "Lobo",
-      "url": "https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
         "name": "Una mica m\u00e9s",
         "url": "https://open.spotify.com/album/0fHKuUkKOvyToHlqg5Dj4l"
       },
@@ -1719,6 +1719,22 @@
       "duration_ms": 261775,
       "name": "Una mica m\u00e9s",
       "url": "https://open.spotify.com/track/6C36Pk2VkTCwEJ6LB3JMen"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
+        "name": "Migas",
+        "url": "https://open.spotify.com/album/0z8Py2L5re037O71sy22q9"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9Canela",
+          "url": "https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0"
+        }
+      ],
+      "duration_ms": 333409,
+      "name": "Migas",
+      "url": "https://open.spotify.com/track/3LzLD8MNdZ2IpLO2aKiQj6"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1743,22 +1759,6 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "Migas",
-        "url": "https://open.spotify.com/album/0z8Py2L5re037O71sy22q9"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9Canela",
-          "url": "https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0"
-        }
-      ],
-      "duration_ms": 333409,
-      "name": "Migas",
-      "url": "https://open.spotify.com/track/3LzLD8MNdZ2IpLO2aKiQj6"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
         "name": "Cantar\u00eda",
         "url": "https://open.spotify.com/album/6VrDcrxU9nMX9kg0bqv7sh"
       },
@@ -1771,22 +1771,6 @@
       "duration_ms": 240115,
       "name": "Cantar\u00eda",
       "url": "https://open.spotify.com/track/20HCtD3crDnUe2Hc4aKPbs"
-    },
-    {
-      "added_at": "2024-10-25 09:00:34",
-      "album": {
-        "name": "C/ VIEJOS",
-        "url": "https://open.spotify.com/album/4sncZPHkQoPYhBBSwnFi6a"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Yfeu",
-          "url": "https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B"
-        }
-      ],
-      "duration_ms": 180279,
-      "name": "C/ VIEJOS",
-      "url": "https://open.spotify.com/track/4hhMoM1eaLHBosahwhNGkw"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1811,22 +1795,18 @@
     {
       "added_at": "2024-10-25 09:00:34",
       "album": {
-        "name": "Para la Pena No",
-        "url": "https://open.spotify.com/album/7czoUPcYZGaVjeWlMDK4ez"
+        "name": "C/ VIEJOS",
+        "url": "https://open.spotify.com/album/4sncZPHkQoPYhBBSwnFi6a"
       },
       "artists": [
         {
-          "name": "Chinoy",
-          "url": "https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g"
-        },
-        {
-          "name": "Nano Stern",
-          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
+          "name": "Mar\u00eda Yfeu",
+          "url": "https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B"
         }
       ],
-      "duration_ms": 225287,
-      "name": "Para la Pena No",
-      "url": "https://open.spotify.com/track/0dEr4JTpdsy1sAwHM6RGHF"
+      "duration_ms": 180279,
+      "name": "C/ VIEJOS",
+      "url": "https://open.spotify.com/track/4hhMoM1eaLHBosahwhNGkw"
     },
     {
       "added_at": "2024-10-25 09:00:34",
@@ -1875,6 +1855,26 @@
       "duration_ms": 282990,
       "name": "Pecho Jard\u00edn",
       "url": "https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7"
+    },
+    {
+      "added_at": "2024-10-25 09:00:34",
+      "album": {
+        "name": "Para la Pena No",
+        "url": "https://open.spotify.com/album/7czoUPcYZGaVjeWlMDK4ez"
+      },
+      "artists": [
+        {
+          "name": "Chinoy",
+          "url": "https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g"
+        },
+        {
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
+        }
+      ],
+      "duration_ms": 225287,
+      "name": "Para la Pena No",
+      "url": "https://open.spotify.com/track/0dEr4JTpdsy1sAwHM6RGHF"
     }
   ],
   "unique_name": "Cancionistas",

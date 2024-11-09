@@ -838,7 +838,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 143110,
       "name": "Lo Noto",
       "url": "https://open.spotify.com/track/7dMw6z0WWyqpBu7kmln399"
@@ -1153,6 +1153,24 @@
     },
     {
       "album": {
+        "name": "Modus Operandi - Antolog\u00eda",
+        "url": "https://open.spotify.com/album/6fkHr4XjKCGdG5Lphdbp0f"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187327,
+      "name": "Obsesi\u00f3n - Alternate Version",
+      "url": "https://open.spotify.com/track/7aPGHZSUf4QAg00Ybuh6Ju"
+    },
+    {
+      "album": {
         "name": "Perd\u00f3name",
         "url": "https://open.spotify.com/album/0cBmNrY7sXXQRE1REBcJvF"
       },
@@ -1248,7 +1266,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 176543,
       "name": "Qui\u00e9reme O \u00c1ndate",
       "url": "https://open.spotify.com/track/6fjujdixgZgzrjKDDHETbY"
@@ -1310,6 +1328,24 @@
       "duration_ms": 237852,
       "name": "Ribbon",
       "url": "https://open.spotify.com/track/6XuTr7IAJzqeYRGpH921as"
+    },
+    {
+      "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3solPVVHmhUzprYGKnscdO"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186678,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/6vxMc5SYWEGgytAujpabyO"
     },
     {
       "album": {
@@ -1754,7 +1790,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 225476,
       "name": "Viejitos",
       "url": "https://open.spotify.com/track/7J3XQI8chcgDIL9rqmvNFA"
@@ -1888,6 +1924,24 @@
       "duration_ms": 251093,
       "name": "\u00bfQu\u00e9 vas a saber?",
       "url": "https://open.spotify.com/track/38V0tYzvhjYghBvlES5oef"
+    },
+    {
+      "album": {
+        "name": "Tofu",
+        "url": "https://open.spotify.com/album/71vi2JGeiJNNjmNy1Ua31r"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174813,
+      "name": "\u00daltimo D\u00eda",
+      "url": "https://open.spotify.com/track/7gQo36dSDAtrtosHRuV6E0"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXayjeC0C6R14"

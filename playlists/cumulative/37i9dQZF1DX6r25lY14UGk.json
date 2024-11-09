@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "New releases for the kids. Cover: The Wiggles",
+  "description": "New releases for the kids. Cover: Laurie Berkner",
   "name": "New Kids Music",
   "tracks": [
     {
@@ -919,6 +919,32 @@
     },
     {
       "album": {
+        "name": "Beyond (End Credit Version) [From \"Moana 2\"]",
+        "url": "https://open.spotify.com/album/6uCyNThgUieE9elUSd4SuP"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Te Vaka",
+          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196306,
+      "name": "Beyond (End Credit Version) - From \"Moana 2\"",
+      "url": "https://open.spotify.com/track/3fzqWttckvSJS7KPGPiWAg"
+    },
+    {
+      "album": {
         "name": "Elephant Show Stoppers! (Extended Version)",
         "url": "https://open.spotify.com/album/1MUwiq9MEdA7ekkpV9z2pW"
       },
@@ -1413,6 +1439,52 @@
     },
     {
       "album": {
+        "name": "Bubbles Everywhere",
+        "url": "https://open.spotify.com/album/1rkdZYCLDEEhrz7vCHN3BF"
+      },
+      "artists": [
+        {
+          "name": "Rosita",
+          "url": "https://open.spotify.com/artist/2wxve9scaPJQnUUKE3Q4Sf"
+        },
+        {
+          "name": "Zo\u00eb",
+          "url": "https://open.spotify.com/artist/5uFSdSPi2EWoMfS5GeJIJr"
+        },
+        {
+          "name": "Sesame Street\u2019s Charlie",
+          "url": "https://open.spotify.com/artist/4bfEr94LI5n6CTxlWRA6fX"
+        },
+        {
+          "name": "Sesame Street\u2019s Alan",
+          "url": "https://open.spotify.com/artist/1vyD0pSb8LF7tHsKQ8fUgC"
+        },
+        {
+          "name": "Sesame Street\u2019s Chris",
+          "url": "https://open.spotify.com/artist/6WBDv5HWvcuZV9F5H4O93O"
+        },
+        {
+          "name": "Sesame Street's Nina",
+          "url": "https://open.spotify.com/artist/7fogFx1w3SiLDqHnODpLCL"
+        },
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72002,
+      "name": "Bubbles Everywhere",
+      "url": "https://open.spotify.com/track/1WUJuH92wHK8Zfsvd4myl4"
+    },
+    {
+      "album": {
         "name": "A Day Out with Bob The Train, Vol. 2",
         "url": "https://open.spotify.com/album/4s2FUJZ3jp3KTovHgEEhwV"
       },
@@ -1652,6 +1724,24 @@
       "duration_ms": 197323,
       "name": "Caterpillar Butterfly Thing",
       "url": "https://open.spotify.com/track/4GOTafQ00sRUqRmMhrTrU0"
+    },
+    {
+      "album": {
+        "name": "Cherish In The Dark",
+        "url": "https://open.spotify.com/album/5Nwi6iHE0TTMhtZRKdeVC1"
+      },
+      "artists": [
+        {
+          "name": "CG5",
+          "url": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205776,
+      "name": "Cherish In The Dark",
+      "url": "https://open.spotify.com/track/5f3rHcLiOVXgdHSNBsq9cV"
     },
     {
       "album": {
@@ -2216,6 +2306,24 @@
       "duration_ms": 140704,
       "name": "Dem Bones (The Skeleton Song)",
       "url": "https://open.spotify.com/track/2CByDfanNXrPwv6KRihe83"
+    },
+    {
+      "album": {
+        "name": "DIG DIG DIG ALL DAY LONG",
+        "url": "https://open.spotify.com/album/5xrNaz8lOAN7PwpiWqIffS"
+      },
+      "artists": [
+        {
+          "name": "The Little Mouse Production",
+          "url": "https://open.spotify.com/artist/6Kb3W2eeJN6YNriqvdLNNE"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198710,
+      "name": "DIG DIG DIG ALL DAY LONG",
+      "url": "https://open.spotify.com/track/5fYuwA1cqr5DuaHoL9NjlJ"
     },
     {
       "album": {
@@ -2862,6 +2970,24 @@
       "duration_ms": 131327,
       "name": "Everyone is Special (In Their Own Way)",
       "url": "https://open.spotify.com/track/16kM1crKdpOAASMln1WPWT"
+    },
+    {
+      "album": {
+        "name": "Songs About Stuff Vol. 1",
+        "url": "https://open.spotify.com/album/3InqVjhnEyfdzcHBBmnsWf"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134320,
+      "name": "Everything Song",
+      "url": "https://open.spotify.com/track/6kSrWKD0yDZ39QT1WOEjB1"
     },
     {
       "album": {
@@ -3656,6 +3782,28 @@
       "duration_ms": 169525,
       "name": "GOAT",
       "url": "https://open.spotify.com/track/5pdExwm51qWeFrP6WPmCyt"
+    },
+    {
+      "album": {
+        "name": "Chowtown: Music With A Flair For Flavor",
+        "url": "https://open.spotify.com/album/1KL7yu3pAhJBlbTHpybX6U"
+      },
+      "artists": [
+        {
+          "name": "GoNoodle",
+          "url": "https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f"
+        },
+        {
+          "name": "Moose Tube",
+          "url": "https://open.spotify.com/artist/1OPaMKFqNqlj4VKjPPMIOa"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161514,
+      "name": "Gobble Gobble Burp - Live",
+      "url": "https://open.spotify.com/track/2X7EQQB0gafoVKDUMLiTjo"
     },
     {
       "album": {
@@ -5370,6 +5518,24 @@
       "duration_ms": 121010,
       "name": "If You Want a Song",
       "url": "https://open.spotify.com/track/7m3kQphnCskJCwKhjUayBd"
+    },
+    {
+      "album": {
+        "name": "I'm a Bee",
+        "url": "https://open.spotify.com/album/6UlbR7nskSRuV7L9cS0tnY"
+      },
+      "artists": [
+        {
+          "name": "Imitator Tots",
+          "url": "https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146980,
+      "name": "Im a Bee",
+      "url": "https://open.spotify.com/track/02YNzLnyUgizmbZywyGq2C"
     },
     {
       "album": {
@@ -8521,6 +8687,24 @@
     },
     {
       "album": {
+        "name": "Pinkfong & Hogi Mini-Movie: The Tricky Three Cars",
+        "url": "https://open.spotify.com/album/1QFl4tzNcrps2eeTviv1os"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99601,
+      "name": "Run, Brave Hogi!",
+      "url": "https://open.spotify.com/track/08fzWQ7eMifZoALQuNkh0P"
+    },
+    {
+      "album": {
         "name": "S-N-O-W",
         "url": "https://open.spotify.com/album/0RfEjJs8Z6B19L7nrwczGP"
       },
@@ -8916,6 +9100,24 @@
       "duration_ms": 160569,
       "name": "Sloth Song",
       "url": "https://open.spotify.com/track/4sub7oxrLD24rxycmqH3c6"
+    },
+    {
+      "album": {
+        "name": "Smile and Roar",
+        "url": "https://open.spotify.com/album/7teO541Mbi2wT6TrIUadwS"
+      },
+      "artists": [
+        {
+          "name": "D.I.N.O.",
+          "url": "https://open.spotify.com/artist/4sZ3HWBA7p8ijTBLIwbJ0j"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100631,
+      "name": "Smile and Roar",
+      "url": "https://open.spotify.com/track/1LOcWc29BlHNEGrWSHHMfH"
     },
     {
       "album": {
@@ -9839,6 +10041,28 @@
     },
     {
       "album": {
+        "name": "The Burp Song And More Funny Songs",
+        "url": "https://open.spotify.com/album/5qTF2PuXGygTxUCqPZpSPh"
+      },
+      "artists": [
+        {
+          "name": "Madeiro Kids",
+          "url": "https://open.spotify.com/artist/4cAvLdFdL2Hjl4MrR154Sa"
+        },
+        {
+          "name": "Canticuentos",
+          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114461,
+      "name": "The Burp Song And More Funny Songs",
+      "url": "https://open.spotify.com/track/17HyKnBHg7AUTVOvI4rrsr"
+    },
+    {
+      "album": {
         "name": "The Champs-\u00c9lys\u00e9es",
         "url": "https://open.spotify.com/album/6SdjCxyB05gFPOcN5aAJCA"
       },
@@ -10268,6 +10492,24 @@
       "duration_ms": 186904,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/0uHYIeqpt6VvjdG8oozms3"
+    },
+    {
+      "album": {
+        "name": "The People in My Family",
+        "url": "https://open.spotify.com/album/4fvKJxqRLX58tTUt4yv7VS"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140645,
+      "name": "The People in My Family",
+      "url": "https://open.spotify.com/track/0xTBpgabw9HXyrsm2ZImoN"
     },
     {
       "album": {
@@ -11019,6 +11261,24 @@
     },
     {
       "album": {
+        "name": "Wake Up From Your Nap and Other Circle Time Songs",
+        "url": "https://open.spotify.com/album/0iLSa8xXBV3iXHZ41oy1Ti"
+      },
+      "artists": [
+        {
+          "name": "Kids Imagine Nation",
+          "url": "https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137821,
+      "name": "Wake Up From Your Nap",
+      "url": "https://open.spotify.com/track/0FSxDMjcKBYwUJWPf2xWxj"
+    },
+    {
+      "album": {
         "name": "Nature Sings",
         "url": "https://open.spotify.com/album/7vXEXhvVDVX3LIcPY9dI9s"
       },
@@ -11060,6 +11320,24 @@
       "duration_ms": 247313,
       "name": "Walking In the Forest",
       "url": "https://open.spotify.com/track/59UpwCwlTYtgPlo82NhPFd"
+    },
+    {
+      "album": {
+        "name": "Walking With The Penguins",
+        "url": "https://open.spotify.com/album/1G76RUTKx1TLeRxYv8UkBq"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146520,
+      "name": "Walking With The Penguins",
+      "url": "https://open.spotify.com/track/3ujmAdUSlSDYnMRvmeuXak"
     },
     {
       "album": {

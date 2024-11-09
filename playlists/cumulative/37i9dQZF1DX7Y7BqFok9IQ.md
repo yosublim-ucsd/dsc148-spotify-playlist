@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Joe Bonamassa
 
-342 songs - 22 hr 7 min
+343 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Blow Wind Blow](https://open.spotify.com/track/0offIBJWGuYFQ0vZ9tgFcW) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Blow Wind Blow](https://open.spotify.com/album/1rQr3i5EBvvfaDhSG4rnRs) | 3:28 | 2024-06-21 | 2024-09-07 |
 | [Blue Sky](https://open.spotify.com/track/0hYTpOC7TJOZXbwB6ICKw3) | [Aranda](https://open.spotify.com/artist/6l0DPGloCYFvs6dM7Y8Wmw) | [Blue Sky](https://open.spotify.com/album/2KUwhFMUmvRLG1muibvI4r) | 3:31 | 2021-10-22 |  |
 | [Bluephoria](https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bluephoria](https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB) | 4:32 | 2024-07-12 | 2024-09-21 |
+| [Blues Is Still Alive](https://open.spotify.com/track/65JFEj7OsgvyTZ89Y4DiRV) | [Will Wilde](https://open.spotify.com/artist/6fsn6olrgMI77G29E5B0OZ), [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Blues Is Still Alive](https://open.spotify.com/album/3O6B52e8n83PbZAU8CkSWS) | 5:29 | 2024-11-08 |  |
 | [Bomb Through the Breeze](https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 2:44 | 2020-10-16 |  |
 | [Bomb Through The Breeze](https://open.spotify.com/track/7gLgvdBxycylxnP9iwdvuD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund and the Steppin Stones](https://open.spotify.com/album/6kP0lrd4sA5I698Z6Z5ug1) | 2:44 | 2020-10-16 | 2024-04-19 |
 | [Boom Boom Boom](https://open.spotify.com/track/0ATlimBBLb05G6wiPOGwaw) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Chasing Lights](https://open.spotify.com/album/2r4tgvfY6ypsADN4Ptu5Fw) | 3:10 | 2020-10-16 | 2022-07-28 |
@@ -180,7 +181,7 @@
 | [Louder](https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Louder](https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd) | 2:45 | 2022-10-14 |  |
 | [Love & Peace](https://open.spotify.com/track/7qqRahwHKrtbNSLgu6Wtg9) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Love & Peace](https://open.spotify.com/album/7IWzUoiQj0lYIiq97ChEzo) | 5:59 | 2020-10-16 | 2023-06-03 |
 | [Love and Devotion](https://open.spotify.com/track/1BvKwd2VSY9sVBPSDLSlbt) | [The Temperance Movement](https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss) | [A Deeper Cut](https://open.spotify.com/album/2e7bq5SqrPdfcT5tPl6luP) | 3:23 | 2020-10-16 | 2024-04-19 |
-| [Love and Devotion](https://open.spotify.com/track/4VhujOlgo1NtVfXQkxwPaP) | [The Temperance Movement](https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss) | [A Deeper Cut](https://open.spotify.com/album/081mWFWjZU1Dyl2RspScxV) | 3:23 | 2020-10-16 |  |
+| [Love and Devotion](https://open.spotify.com/track/4VhujOlgo1NtVfXQkxwPaP) | [The Temperance Movement](https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss) | [A Deeper Cut](https://open.spotify.com/album/081mWFWjZU1Dyl2RspScxV) | 3:23 | 2020-10-16 | 2024-11-09 |
 | [Love In Vain](https://open.spotify.com/track/4GNEqWXhKEoMyL3k5wF0r7) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:19 | 2024-05-24 | 2024-07-06 |
 | [Love out of Lemons](https://open.spotify.com/track/2GXzTdHHiguNECDsp3hW0W) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Love out of Lemons](https://open.spotify.com/album/0jsAmlf5wVis6otmdokfsA) | 3:32 | 2024-07-12 |  |
 | [Low Down Rolling Stone](https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 4:18 | 2020-10-16 | 2024-03-23 |

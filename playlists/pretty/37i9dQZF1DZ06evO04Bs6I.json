@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 110483,
+  "num_followers": 110507,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyqxgAAAAABspQUSBwZoIGllfVfN/AZR",
+  "snapshot_id": "ZywDAAAAAAAQ5W3cxlk5VSmfk0uZyNv+",
   "tracks": [
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Resultado",
+        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Resultado",
+      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu \u00c9s Santo",
         "url": "https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 220066,
       "name": "Tu \u00c9s Santo",
       "url": "https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resultado",
-        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "Resultado",
-      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
-        "url": "https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
-      "url": "https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meu Filho (Ao Vivo)",
         "url": "https://open.spotify.com/album/6ZxR3j2JnEtbfDXe8aA9qN"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 402811,
       "name": "Meu Filho - Ao Vivo",
       "url": "https://open.spotify.com/track/5QOPKg8YWh3bF1hWjOTDwm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
+        "url": "https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 193453,
+      "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
+      "url": "https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1"
     },
     {
       "added_at": null,

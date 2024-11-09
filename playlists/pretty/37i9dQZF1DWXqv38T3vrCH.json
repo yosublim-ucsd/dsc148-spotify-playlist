@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 344765,
+  "num_followers": 344706,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "Dead!",
+      "url": "https://open.spotify.com/track/0uukw2CgEIApv4IWAjXrBC"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
         "name": "The Rocky Horror Picture Show - Original Soundtrack",
         "url": "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 199366,
       "name": "Time Warp",
       "url": "https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "Dead!",
-      "url": "https://open.spotify.com/track/0uukw2CgEIApv4IWAjXrBC"
     },
     {
       "added_at": "2024-10-11 19:37:59",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "Devils",
-        "url": "https://open.spotify.com/album/2upv5guRDK6ThUT4CzrDIc"
+        "name": "Disguise",
+        "url": "https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00"
       },
       "artists": [
         {
-          "name": "The 69 Eyes",
-          "url": "https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b"
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
         }
       ],
-      "duration_ms": 203186,
-      "name": "Lost Boys",
-      "url": "https://open.spotify.com/track/687klRjBy7iqdzCBtQwcQf"
+      "duration_ms": 273666,
+      "name": "Undead Ahead 2: The Tale of the Midnight Ride",
+      "url": "https://open.spotify.com/track/4DQPKxM9mp70Nxz0FH051A"
     },
     {
       "added_at": "2024-10-11 19:37:59",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "Disguise",
-        "url": "https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00"
+        "name": "Devils",
+        "url": "https://open.spotify.com/album/2upv5guRDK6ThUT4CzrDIc"
       },
       "artists": [
         {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+          "name": "The 69 Eyes",
+          "url": "https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b"
         }
       ],
-      "duration_ms": 273666,
-      "name": "Undead Ahead 2: The Tale of the Midnight Ride",
-      "url": "https://open.spotify.com/track/4DQPKxM9mp70Nxz0FH051A"
+      "duration_ms": 203186,
+      "name": "Lost Boys",
+      "url": "https://open.spotify.com/track/687klRjBy7iqdzCBtQwcQf"
     },
     {
       "added_at": "2024-10-11 19:37:59",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
+        "name": "Nightmares",
+        "url": "https://open.spotify.com/album/1li5K1UxlRdD4rtcwBQQbS"
+      },
+      "artists": [
+        {
+          "name": "Huxlxy",
+          "url": "https://open.spotify.com/artist/2hPnGJ5lirFEwDW38GM2eS"
+        }
+      ],
+      "duration_ms": 236689,
+      "name": "Nightmares",
+      "url": "https://open.spotify.com/track/2SYcSMSO1F6aLirqRxHBpu"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
         "name": "Once More 'Round the Sun",
         "url": "https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5"
       },
@@ -1177,22 +1193,6 @@
       "url": "https://open.spotify.com/track/3sR5MqlhE1pYtrZyCJNIuO"
     },
     {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
-        "name": "Nightmares",
-        "url": "https://open.spotify.com/album/1li5K1UxlRdD4rtcwBQQbS"
-      },
-      "artists": [
-        {
-          "name": "Huxlxy",
-          "url": "https://open.spotify.com/artist/2hPnGJ5lirFEwDW38GM2eS"
-        }
-      ],
-      "duration_ms": 236689,
-      "name": "Nightmares",
-      "url": "https://open.spotify.com/track/2SYcSMSO1F6aLirqRxHBpu"
-    },
-    {
       "added_at": "2024-10-14 17:11:38",
       "album": {
         "name": "This Heathen Land",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "Halloween's Gravest Hits",
-        "url": "https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "I Was A Teenage Werewolf - Remastered 1989",
-      "url": "https://open.spotify.com/track/2WAyob28woJ33khnZ2VI4Z"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
         "name": "Billion Dollar Babies (Deluxe Reissue)",
         "url": "https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 307226,
       "name": "I Love the Dead",
       "url": "https://open.spotify.com/track/1nwkxjOS104dWwNgrhYkEo"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
+        "name": "Halloween's Gravest Hits",
+        "url": "https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "I Was A Teenage Werewolf - Remastered 1989",
+      "url": "https://open.spotify.com/track/2WAyob28woJ33khnZ2VI4Z"
     },
     {
       "added_at": "2024-10-11 19:37:59",

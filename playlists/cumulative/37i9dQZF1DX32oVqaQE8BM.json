@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 171187,
       "name": "12am",
       "url": "https://open.spotify.com/track/0BsZBFtJj64wr7ii2179vX"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 138352,
       "name": "A Few Hours",
       "url": "https://open.spotify.com/track/20rCllouidVPzTggWjTYoS"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 151071,
       "name": "Ananda",
       "url": "https://open.spotify.com/track/3kuNaA6jumKfLKfX7GbLGl"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 123428,
       "name": "Atotoztli",
       "url": "https://open.spotify.com/track/48dZLnPkYNhuUZHl36A24f"
@@ -756,6 +756,24 @@
       "duration_ms": 128848,
       "name": "BBQ",
       "url": "https://open.spotify.com/track/5nj8Y2IWfRGbIlgu6vVBO6"
+    },
+    {
+      "album": {
+        "name": "Be Kind To Yourself",
+        "url": "https://open.spotify.com/album/0mr0AFvjTiJCml6k5KWQwI"
+      },
+      "artists": [
+        {
+          "name": "PRFCT BLU3",
+          "url": "https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154090,
+      "name": "Be Kind To Yourself",
+      "url": "https://open.spotify.com/track/0OF4LmsOwbrPsWHiC0vPh8"
     },
     {
       "album": {
@@ -1030,6 +1048,24 @@
       "duration_ms": 158058,
       "name": "blue beach",
       "url": "https://open.spotify.com/track/5eBeSATSSfCHgkh00kZa4Y"
+    },
+    {
+      "album": {
+        "name": "blue dream",
+        "url": "https://open.spotify.com/album/4cMErHCYjeeKYujC9Ey6QX"
+      },
+      "artists": [
+        {
+          "name": "citron love",
+          "url": "https://open.spotify.com/artist/6a24frzzG1wS3gvqsvbjyQ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145294,
+      "name": "blue dream",
+      "url": "https://open.spotify.com/track/5B6k1fdtwUqKbFcKKV8Sd1"
     },
     {
       "album": {
@@ -1402,7 +1438,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 136666,
       "name": "Cancelling Plans",
       "url": "https://open.spotify.com/track/54djx2u1kdBBi8agW4FffU"
@@ -1474,7 +1510,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 153600,
       "name": "Cellar Breeze",
       "url": "https://open.spotify.com/track/7pqX7mk8X9zEYtKKR9oalS"
@@ -1654,7 +1690,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 139662,
       "name": "closer to the sun",
       "url": "https://open.spotify.com/track/3wEHw5omffhjUdt6XJh3Lq"
@@ -4742,7 +4778,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 122769,
       "name": "Itaparica",
       "url": "https://open.spotify.com/track/4V1UVFLxP0dM5IkwS3XVNR"
@@ -5336,7 +5372,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 172904,
       "name": "lipshells",
       "url": "https://open.spotify.com/track/2nfYoMN2329hAlwbPhVJuf"
@@ -5480,7 +5516,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 218360,
       "name": "lovers bet",
       "url": "https://open.spotify.com/track/70G9uFPJNLMjEZh6rVgn0Q"
@@ -6028,6 +6064,24 @@
       "duration_ms": 117732,
       "name": "midnight slushee",
       "url": "https://open.spotify.com/track/6aPaDaf5QBxN3wBg4abYNx"
+    },
+    {
+      "album": {
+        "name": "Midnight Whispers",
+        "url": "https://open.spotify.com/album/50M9p3t1xmGfREcddhnPdo"
+      },
+      "artists": [
+        {
+          "name": "Etherie",
+          "url": "https://open.spotify.com/artist/6aclglY5Cid8YcgE5MheS3"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132972,
+      "name": "Midnight Whispers",
+      "url": "https://open.spotify.com/track/0s1MJ4pgiXZtBA3yEtXpJV"
     },
     {
       "album": {
@@ -7308,7 +7362,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 178500,
       "name": "Pina Colada",
       "url": "https://open.spotify.com/track/5kdAsrSLFycGMkziF7vgNT"
@@ -7848,7 +7902,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 161571,
       "name": "Restored",
       "url": "https://open.spotify.com/track/1nCp6nbwwhm1DLEL7KT9Li"
@@ -9762,7 +9816,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 186937,
       "name": "The Simplest Things",
       "url": "https://open.spotify.com/track/3Ze6UW8ab1IpF7W7BieBgC"

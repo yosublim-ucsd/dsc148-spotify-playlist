@@ -1,8 +1,42 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "A Danada Me Ligando  e os funks mais \ud83d\udd11 do Brasil. Foto: Mc Cebezinho, DJ Oreia, Mc Tuto, Mc Kako",
+  "description": "Barbie e os funks mais \ud83d\udd11 do Brasil. Foto: Mc Tuto, DJ Glenner",
   "name": "Funk Hits",
   "tracks": [
+    {
+      "album": {
+        "name": "Coisas Que Eu J\u00e1 Devia Ter Dito H\u00e1 Um Tempo",
+        "url": "https://open.spotify.com/album/43MpvvtxbsNWjH4pm0gVrL"
+      },
+      "artists": [
+        {
+          "name": "Mc Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        },
+        {
+          "name": "DJ JR No Beat",
+          "url": "https://open.spotify.com/artist/7eFJ773gGquYX3tKYa6ZUb"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357966,
+      "name": "3 Palito",
+      "url": "https://open.spotify.com/track/1arnspMJ66M3Uye8frIZVW"
+    },
     {
       "album": {
         "name": "300 no 7",
@@ -70,10 +104,48 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 521958,
       "name": "365 Dias",
       "url": "https://open.spotify.com/track/0Y7k2ihn4ojGCbJkH1fR77"
+    },
+    {
+      "album": {
+        "name": "365 Dias (Vida Mansa)",
+        "url": "https://open.spotify.com/album/49TkAXV7QtwIAHwJ6Xusjt"
+      },
+      "artists": [
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "MC Bruno MS",
+          "url": "https://open.spotify.com/artist/7IOSPo9oGCLWtDEZtmxgTi"
+        },
+        {
+          "name": "Mc Magal",
+          "url": "https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr"
+        },
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527220,
+      "name": "365 Dias (Vida Mansa)",
+      "url": "https://open.spotify.com/track/2drZGdAOxfE2KoMGTkidmq"
     },
     {
       "album": {
@@ -486,7 +558,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 116307,
       "name": "Aquariano Nato",
       "url": "https://open.spotify.com/track/3hfCle1QRfbwIpQ1B746lV"
@@ -2776,7 +2848,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 107102,
       "name": "Eu So Comi Ela uma Vez",
       "url": "https://open.spotify.com/track/7eoRm37Ta1jvGMiMRfOQoa"
@@ -3726,6 +3798,28 @@
       "duration_ms": 191320,
       "name": "Jovens Milion\u00e1rios (Let's Go 2)",
       "url": "https://open.spotify.com/track/6LSza8vBsCd7xLk13cYhIv"
+    },
+    {
+      "album": {
+        "name": "Judas",
+        "url": "https://open.spotify.com/album/7wxIOfMJIdPhyCSinj0pDf"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "DJ BOY",
+          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Judas",
+      "url": "https://open.spotify.com/track/06WzOusi75IJ2Ew8fnRjHd"
     },
     {
       "album": {
@@ -6081,6 +6175,56 @@
     },
     {
       "album": {
+        "name": "Quem Contou, Contou",
+        "url": "https://open.spotify.com/album/39hH50wo72weYxCYBcQPfL"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "MC Nego Micha",
+          "url": "https://open.spotify.com/artist/6SsSYKLEsf8EfDbFAi5GET"
+        },
+        {
+          "name": "Mc Menor Kau",
+          "url": "https://open.spotify.com/artist/7yt6f5WRDxTRv2clFM9OWd"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Mc Leh",
+          "url": "https://open.spotify.com/artist/4JTs3kffe8YHh5sjlJh3jK"
+        },
+        {
+          "name": "Mc Luki",
+          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
+        },
+        {
+          "name": "DJ Hyago",
+          "url": "https://open.spotify.com/artist/0QywoHqU6vOuwNwCgapgPf"
+        },
+        {
+          "name": "Mc Neguinho PRT",
+          "url": "https://open.spotify.com/artist/5UN3G2aFCOyez0SBlRkRZt"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496410,
+      "name": "Quem Contou, Contou",
+      "url": "https://open.spotify.com/track/0s8vHahEw7KxNSbJPaYRJP"
+    },
+    {
+      "album": {
         "name": "Quem N\u00e3o Conhece T\u00e1 Sem Internet",
         "url": "https://open.spotify.com/album/5NHD24GC7W9uH2fdLzteGB"
       },
@@ -6270,7 +6414,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 192461,
       "name": "Ritmada Interestelar",
       "url": "https://open.spotify.com/track/2i3HnfXvFT371Hbk4oZsfA"

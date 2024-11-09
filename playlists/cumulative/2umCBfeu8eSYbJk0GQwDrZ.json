@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "2DK",
+        "url": "https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196343,
+      "name": "2DK",
+      "url": "https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT"
+    },
+    {
+      "album": {
         "name": "6am to Paris",
         "url": "https://open.spotify.com/album/1DtHbdjnqLild4y0PnlbF1"
       },
@@ -2028,7 +2046,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 154295,
       "name": "Deadbeat Blues (feat. BEL)",
       "url": "https://open.spotify.com/track/6oSypjQTWeNzH9rmojTuXW"
@@ -2500,7 +2518,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 170489,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/7hltDDKkXw4dp6zQosSGak"
@@ -3972,7 +3990,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 201153,
       "name": "Higher",
       "url": "https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT"
@@ -3994,6 +4012,24 @@
       "duration_ms": 218665,
       "name": "History Repeating",
       "url": "https://open.spotify.com/track/6Sxu3yHQkn27qn6HdWC81f"
+    },
+    {
+      "album": {
+        "name": "HLYTW",
+        "url": "https://open.spotify.com/album/5jqnnvVT2ETofdjd0qD7mz"
+      },
+      "artists": [
+        {
+          "name": "Zackery",
+          "url": "https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183920,
+      "name": "HLYTW",
+      "url": "https://open.spotify.com/track/4wbe7z56dPMnPr36yCWkG2"
     },
     {
       "album": {
@@ -5720,7 +5756,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 211020,
       "name": "Midnight Cowboy",
       "url": "https://open.spotify.com/track/7tDTUhuVLAmc9L8Lrs85tm"
@@ -5760,6 +5796,24 @@
       "duration_ms": 313357,
       "name": "Modern Drugs",
       "url": "https://open.spotify.com/track/5gocWRuqMWndCOS6FLK270"
+    },
+    {
+      "album": {
+        "name": "Mom's Old Car (Acoustic Version)",
+        "url": "https://open.spotify.com/album/7LFdRy7ScLruRrvmtH2Hd8"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160513,
+      "name": "Mom's Old Car - Acoustic Version",
+      "url": "https://open.spotify.com/track/4JiMmOmXenhbGR6ZduRA7i"
     },
     {
       "album": {
@@ -6092,6 +6146,24 @@
       "duration_ms": 172213,
       "name": "Next to You",
       "url": "https://open.spotify.com/track/57reeqpImanYb0RBFICHMY"
+    },
+    {
+      "album": {
+        "name": "A Minute...",
+        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Nice To Meet You",
+      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
     },
     {
       "album": {
@@ -6870,7 +6942,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 234076,
       "name": "Pushing It Down and Praying",
       "url": "https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce"
@@ -7354,7 +7426,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 127226,
       "name": "SHE'S THE WHOLE WORLD",
       "url": "https://open.spotify.com/track/1Vl7Xo7kT4MEXSQyNdGDOd"
@@ -7484,6 +7556,24 @@
       "duration_ms": 182062,
       "name": "Sleep it Off",
       "url": "https://open.spotify.com/track/1slsHonIGXvJZZWPoNxYXW"
+    },
+    {
+      "album": {
+        "name": "Horsie (Deluxe)",
+        "url": "https://open.spotify.com/album/1FbGD1gSQpSBVVW3C1CHRW"
+      },
+      "artists": [
+        {
+          "name": "HOMESHAKE",
+          "url": "https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378375,
+      "name": "Sliverado",
+      "url": "https://open.spotify.com/track/2sNZotEI4Y4ieSgAc3GPY0"
     },
     {
       "album": {
@@ -7671,6 +7761,24 @@
     },
     {
       "album": {
+        "name": "For The Dreams",
+        "url": "https://open.spotify.com/album/408SgNp6BOa0lUetUrnkT1"
+      },
+      "artists": [
+        {
+          "name": "King Stingray",
+          "url": "https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225198,
+      "name": "Southerly",
+      "url": "https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv"
+    },
+    {
+      "album": {
         "name": "History Books",
         "url": "https://open.spotify.com/album/1GxcyEReAOxieTKZZcivlJ"
       },
@@ -7704,6 +7812,24 @@
       "duration_ms": 224444,
       "name": "Spiralling Out",
       "url": "https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd"
+    },
+    {
+      "album": {
+        "name": "SPJ",
+        "url": "https://open.spotify.com/album/3MFVcbp3tgK5fcVXRqvpal"
+      },
+      "artists": [
+        {
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210308,
+      "name": "SPJ",
+      "url": "https://open.spotify.com/track/0DcUSjMBZFzqy37knKFm0m"
     },
     {
       "album": {
@@ -8978,10 +9104,28 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 201533,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
+    },
+    {
+      "album": {
+        "name": "Wait for You",
+        "url": "https://open.spotify.com/album/380fF4fHuokiOb0dzCkUYI"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Wait for You",
+      "url": "https://open.spotify.com/track/4u6ao48bnPvWpEyEyBnhVF"
     },
     {
       "album": {
@@ -9068,7 +9212,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 235724,
       "name": "Water Running",
       "url": "https://open.spotify.com/track/1M7OIUPCi2htd1LuoGZBZ3"

@@ -179,6 +179,28 @@
     },
     {
       "album": {
+        "name": "Only Love (feat. NOTEP)",
+        "url": "https://open.spotify.com/album/5W4ZTAjJerxiETzUnOfaid"
+      },
+      "artists": [
+        {
+          "name": "Venn",
+          "url": "https://open.spotify.com/artist/33fZW25rYAC3XsuAul1RuQ"
+        },
+        {
+          "name": "NOTEP",
+          "url": "https://open.spotify.com/artist/1ka1gR7aUmYayVLNPr3PYs"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276705,
+      "name": "Only Love (feat. NOTEP)",
+      "url": "https://open.spotify.com/track/5ITpMOVPxbZkAczlEwB3wD"
+    },
+    {
+      "album": {
         "name": "Parfum",
         "url": "https://open.spotify.com/album/16wUkQkUk0NWmcqd9OXnMT"
       },
@@ -212,6 +234,24 @@
       "duration_ms": 230994,
       "name": "River",
       "url": "https://open.spotify.com/track/0V1DGS7GNqUAHInaU7b7Db"
+    },
+    {
+      "album": {
+        "name": "Skuna",
+        "url": "https://open.spotify.com/album/3Yo2BYDn62l0lkhKWczMjg"
+      },
+      "artists": [
+        {
+          "name": "LAILIN",
+          "url": "https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227276,
+      "name": "Skuna",
+      "url": "https://open.spotify.com/track/12kAcs5wwsuylTkcATgMCY"
     },
     {
       "album": {
@@ -298,7 +338,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 217537,
       "name": "\u0e01\u0e25\u0e31\u0e1a\u0e04\u0e37\u0e19\u0e2a\u0e39\u0e48\u0e14\u0e32\u0e27",
       "url": "https://open.spotify.com/track/0SxPaNX1mNDFeEln7bqXFP"
@@ -1408,7 +1448,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 185263,
       "name": "\u0e2b\u0e32\u0e22 (Disconnect)",
       "url": "https://open.spotify.com/track/0Gd5NAjYf85OU9FfSfFbhK"
@@ -1556,6 +1596,24 @@
       "duration_ms": 223548,
       "name": "\u0e40\u0e18\u0e2d\u0e21\u0e2d\u0e07\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32",
       "url": "https://open.spotify.com/track/2giiZU3ufvysvV6Pltqkv8"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e40\u0e2d\u0e32 \u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e40\u0e28\u0e23\u0e49\u0e32\u0e17\u0e35\u0e48\u0e40\u0e02\u0e32\u0e44\u0e21\u0e48\u0e2d\u0e34\u0e19",
+        "url": "https://open.spotify.com/album/4LjGYqkzwWWLB75UK82Gat"
+      },
+      "artists": [
+        {
+          "name": "Romancerr",
+          "url": "https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e40\u0e2d\u0e32 \u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e40\u0e28\u0e23\u0e49\u0e32\u0e17\u0e35\u0e48\u0e40\u0e02\u0e32\u0e44\u0e21\u0e48\u0e2d\u0e34\u0e19",
+      "url": "https://open.spotify.com/track/2uKpuyzGp90yYdSv7A1w2C"
     },
     {
       "album": {
@@ -1938,7 +1996,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 273114,
       "name": "\u0e43\u0e19\u0e27\u0e31\u0e19\u0e41\u0e25\u0e30\u0e40\u0e27\u0e25\u0e32\u0e17\u0e35\u0e48\u0e09\u0e31\u0e19 (My World)",
       "url": "https://open.spotify.com/track/2zO2DASDL0sxQsFXY7xIq8"

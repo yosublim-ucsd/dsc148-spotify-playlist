@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-25",
-  "description": "Catch the queens of Punjabi Pop. Cover: Sunanda Sharma",
+  "description": "Catch the queens of Punjabi Pop. Cover: Jasmine Sandlas",
   "name": "Women of Punjabi Pop",
   "tracks": [
     {
@@ -362,7 +362,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 149702,
       "name": "Bajre Da Sitta",
       "url": "https://open.spotify.com/track/3eTu6nWvilfwbFDtH1F7eH"
@@ -955,6 +955,32 @@
     },
     {
       "album": {
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/4z0wc9Wpum3oktGA25O5uJ"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Mofusion",
+          "url": "https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166857,
+      "name": "HEAT",
+      "url": "https://open.spotify.com/track/0oApJqZXwdXlySDFrtYver"
+    },
+    {
+      "album": {
         "name": "Horse Stick",
         "url": "https://open.spotify.com/album/4JzQWrQ5woDnrNGyCJ6wxy"
       },
@@ -1094,6 +1120,36 @@
       "duration_ms": 226582,
       "name": "Jaan",
       "url": "https://open.spotify.com/track/3WYzyafR47qwO5w2UtzFv9"
+    },
+    {
+      "album": {
+        "name": "Jamanat Pakki",
+        "url": "https://open.spotify.com/album/5SwyGRbynubS2miE9RhCRd"
+      },
+      "artists": [
+        {
+          "name": "Deepak Dhillon",
+          "url": "https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY"
+        },
+        {
+          "name": "Gill Raunta",
+          "url": "https://open.spotify.com/artist/6kz3taYAGtHb9kDWvzQm9k"
+        },
+        {
+          "name": "IRIS Music",
+          "url": "https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q"
+        },
+        {
+          "name": "Bhana Sidhu",
+          "url": "https://open.spotify.com/artist/3JXtvUVyycGu7AItCpMKYT"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154306,
+      "name": "Jamanat Pakki",
+      "url": "https://open.spotify.com/track/6ipe1JZXmL2iFV9iEBMHxM"
     },
     {
       "album": {
@@ -2842,7 +2898,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 238723,
       "name": "Trouble Maker",
       "url": "https://open.spotify.com/track/0oNW0SEIgjvKB6DWqRysA4"

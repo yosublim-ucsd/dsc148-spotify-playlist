@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2024 \| The latest and greatest of today's best Worship music for Worship Nights, Sunday Mornings and everyday worship! Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-537 songs - 2 day 4 hr 12 min
+539 songs - 2 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Another In The Fire \- Live](https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Chris Davenport](https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 6:33 | 2022-02-17 | 2023-01-05 |
 | [Another In The Fire \- Studio](https://open.spotify.com/track/4HP7ZEPa8nCVhKsGK9gzKM) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [People \(Live\)](https://open.spotify.com/album/4l1CgmeovuVdf2iVmPxeV6) | 4:25 | 2024-01-12 | 2024-03-02 |
 | [Anyway](https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Anyway](https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW) | 5:13 | 2022-05-13 | 2023-04-15 |
+| [Approach, My Soul \- Live](https://open.spotify.com/track/2nu5HBCBD1CKFm1C1WfBWc) | [Jordan Kauflin](https://open.spotify.com/artist/693dfM3T8ebvdxPrqLAjqt), [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6), [Sing!](https://open.spotify.com/artist/4yLrqCnweM5i52DkFUkTl9) | [Approach, My Soul \(Live\)](https://open.spotify.com/album/0BVakc8Mop6j54yEX97OTF) | 3:52 | 2024-11-08 |  |
 | [As You Can \- Live](https://open.spotify.com/track/4vguRbzcA2Ewj7tai8jerX) | [Jesus People](https://open.spotify.com/artist/35UBfTl4RQiyBsrZTbIBmp), [Adam Smucker](https://open.spotify.com/artist/414BovAUSONHbIcZIlfnDr) | [As You Can \(Live\)](https://open.spotify.com/album/4CM3QMzL3U0zhxTflYL0dF) | 10:19 | 2022-05-27 | 2023-01-05 |
 | [Ask Seek Pray](https://open.spotify.com/track/4vDSU4Cjulz9YMncj20TgZ) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV), [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Faith in Our Time \(Deluxe LP\)](https://open.spotify.com/album/0TsUGpX2YPmsuUBUoDyrhh) | 6:54 | 2022-10-13 | 2023-04-05 |
 | [At The Altar \- Live](https://open.spotify.com/track/7AWOgmBzKuoPOpwhhLe8Fh) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Church \(Live\)](https://open.spotify.com/album/41shdA7VJJmH5uJTzbH9Lc) | 4:00 | 2023-12-01 |  |
@@ -114,6 +115,7 @@
 | [Different \- Live at Mosaic, Los Angeles, 2023](https://open.spotify.com/track/3tSN0n75qQRw3SyCo6u0P9) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Different \(Live at Mosaic, Los Angeles, 2023\)](https://open.spotify.com/album/28geG9hJyX8JtkEqDLTyow) | 6:45 | 2023-12-01 |  |
 | [Do It Again](https://open.spotify.com/track/3IVoTSr3MHv8gClp6wGmQi) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 5:33 | 2022-02-17 | 2022-03-16 |
 | [Do What Only You Can Do \- Live](https://open.spotify.com/track/1o1qv2DZbINBcp06exDGqo) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK) | [Shout! \(Live\)](https://open.spotify.com/album/7jumyFfTD3fQChNSk2DzaL) | 7:10 | 2022-09-23 | 2023-12-14 |
+| [Dry Ground](https://open.spotify.com/track/2rN3VHilUMtGh7CVmCVUqs) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw) | [Dry Ground](https://open.spotify.com/album/5jyQwvIZSQozXT1GHEMhZo) | 5:05 | 2024-11-08 |  |
 | [Easter Song](https://open.spotify.com/track/5MUsiIncUIN6VY5vusxz87) | [Keith Green](https://open.spotify.com/artist/0sA93wBoY7nJUE8dSrOZay) | [For Him Who Has Ears](https://open.spotify.com/album/7yNwVrfU8PuZcfnCy0cft9) | 3:56 | 2022-04-05 | 2022-06-10 |
 | [Eden \(Isn't It Just Like You?\)](https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Eden \(Isn't It Just Like You?\)](https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN) | 4:35 | 2022-09-23 | 2023-12-14 |
 | [El Precio](https://open.spotify.com/track/5IiBg8ch9Jm81laYlN9rQW) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Monty](https://open.spotify.com/artist/3fAIB8ufLO83gjm8BK4UcV) | [Holy Ground](https://open.spotify.com/album/2SZGr3sHy7EwrVFKjJ44j6) | 4:27 | 2022-04-05 | 2022-06-10 |

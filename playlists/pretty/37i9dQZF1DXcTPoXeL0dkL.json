@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 205652,
+  "num_followers": 205718,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
+        "name": "Historia Musical de Los Embajadores Vallenatos",
+        "url": "https://open.spotify.com/album/1ttEZHvwYpa4eUwpSg1PaS"
+      },
+      "artists": [
+        {
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+        }
+      ],
+      "duration_ms": 258218,
+      "name": "Se Le Moja la Canoa (La Canoa)",
+      "url": "https://open.spotify.com/track/5M7HcDhJzZzhB2JaLQGbRl"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
         "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
         "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
       },
@@ -487,22 +503,6 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 292224,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
         "name": "El Original",
         "url": "https://open.spotify.com/album/5mAgr3vB1Ma8mmpUDKRo4P"
       },
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "Rafael Orozco... Vive",
-        "url": "https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r"
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
       },
       "artists": [
         {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 231066,
-      "name": "Esa",
-      "url": "https://open.spotify.com/track/03Z88hoXdp1QinkHGmkSLn"
+      "duration_ms": 292224,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
+        "name": "Rafael Orozco... Vive",
+        "url": "https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "Esa",
+      "url": "https://open.spotify.com/track/03Z88hoXdp1QinkHGmkSLn"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
         "name": "Homenaje",
         "url": "https://open.spotify.com/album/4iOAopfjsHSqsqpw5jbRVQ"
       },
@@ -619,26 +635,6 @@
       "duration_ms": 278691,
       "name": "Muero por Verla",
       "url": "https://open.spotify.com/track/1FziCEBLETrUuDEQfIyID6"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
-        "name": "Para Nunca Olvidar",
-        "url": "https://open.spotify.com/album/3WdWIE9n2ZKWsNUHffAtqD"
-      },
-      "artists": [
-        {
-          "name": "Farid Ortiz",
-          "url": "https://open.spotify.com/artist/5OG4S2qn54NS8AAw5dCbgN"
-        },
-        {
-          "name": "Negrito Osorio",
-          "url": "https://open.spotify.com/artist/5rqa30CMYcRjwQttr5HlSl"
-        }
-      ],
-      "duration_ms": 280426,
-      "name": "Preg\u00fantele a Su Hija",
-      "url": "https://open.spotify.com/track/6ZL4R6iFvVd3R6a6OuPbKv"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -675,6 +671,26 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
+        "name": "Para Nunca Olvidar",
+        "url": "https://open.spotify.com/album/3WdWIE9n2ZKWsNUHffAtqD"
+      },
+      "artists": [
+        {
+          "name": "Farid Ortiz",
+          "url": "https://open.spotify.com/artist/5OG4S2qn54NS8AAw5dCbgN"
+        },
+        {
+          "name": "Negrito Osorio",
+          "url": "https://open.spotify.com/artist/5rqa30CMYcRjwQttr5HlSl"
+        }
+      ],
+      "duration_ms": 280426,
+      "name": "Preg\u00fantele a Su Hija",
+      "url": "https://open.spotify.com/track/6ZL4R6iFvVd3R6a6OuPbKv"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
         "name": "Rafael Orozco... Vive",
         "url": "https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 257640,
       "name": "No Le Temas al Amor",
       "url": "https://open.spotify.com/track/0WTm21amOR7KQNh67GA1OP"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
-        "name": "Historia Musical de Los Embajadores Vallenatos",
-        "url": "https://open.spotify.com/album/1ttEZHvwYpa4eUwpSg1PaS"
-      },
-      "artists": [
-        {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
-        }
-      ],
-      "duration_ms": 258218,
-      "name": "Se Le Moja la Canoa (La Canoa)",
-      "url": "https://open.spotify.com/track/5M7HcDhJzZzhB2JaLQGbRl"
     },
     {
       "added_at": "2024-07-12 22:13:52",

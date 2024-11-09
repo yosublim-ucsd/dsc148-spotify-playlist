@@ -810,7 +810,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 173538,
       "name": "8 Days - Wuki Remix",
       "url": "https://open.spotify.com/track/4lY3nqqbiBpK9LM59EWJTb"
@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 171026,
       "name": "Aguas da Amazonia: Negro River",
       "url": "https://open.spotify.com/track/2fNiWwBYCqIef8NDVcJB8x"
@@ -3152,7 +3152,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 171105,
       "name": "Beat the Bass up",
       "url": "https://open.spotify.com/track/0VlL5Cr6q7c9vptbS8A5lB"
@@ -3320,7 +3320,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 206346,
       "name": "Berceuse, Op. 16",
       "url": "https://open.spotify.com/track/4FwIwI5NGVUP4DrPwrweMz"
@@ -3708,7 +3708,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 282217,
       "name": "Black Batman",
       "url": "https://open.spotify.com/track/720jHxQyhubRRlWEC9gLaE"
@@ -6619,6 +6619,32 @@
     },
     {
       "album": {
+        "name": "Cold Blues",
+        "url": "https://open.spotify.com/album/5wfExUobMq1CxYzn0CPyRQ"
+      },
+      "artists": [
+        {
+          "name": "Monteasy",
+          "url": "https://open.spotify.com/artist/3zg6hqPCTaZvJ5z2XvWaRR"
+        },
+        {
+          "name": "CT Fletcher",
+          "url": "https://open.spotify.com/artist/7nQKsOwNp5gENU4Ckw9ddD"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189361,
+      "name": "Cold Blues",
+      "url": "https://open.spotify.com/track/3QoJ02vaV1LL2za9yIWDhV"
+    },
+    {
+      "album": {
         "name": "THE HEADACHE",
         "url": "https://open.spotify.com/album/6gT9XERfciXvK4k39OUX0c"
       },
@@ -7296,6 +7322,28 @@
       "duration_ms": 1596670,
       "name": "Dark Star (Live at RFK Stadium, Washington, DC, 6/10/73)",
       "url": "https://open.spotify.com/track/7ursvTTSnu6i3S5ZKqtynG"
+    },
+    {
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253834,
+      "name": "Darling, I (feat. Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk"
     },
     {
       "album": {
@@ -9980,10 +10028,36 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 195427,
       "name": "EAST TO THE WEST",
       "url": "https://open.spotify.com/track/5wlV1N4hOZbK8OPCjJdEQA"
+    },
+    {
+      "album": {
+        "name": "Ego Maniacs",
+        "url": "https://open.spotify.com/album/0Ox81bEz1Hjj6KPiI65yjB"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218111,
+      "name": "Ego Maniacs",
+      "url": "https://open.spotify.com/track/55qnnjyxq5LuXq6WyZd9Er"
     },
     {
       "album": {
@@ -14377,6 +14451,28 @@
     },
     {
       "album": {
+        "name": "IAMFUNK!",
+        "url": "https://open.spotify.com/album/0X2RC4BA6Bs6GTj9zicPUz"
+      },
+      "artists": [
+        {
+          "name": "Young Molz",
+          "url": "https://open.spotify.com/artist/0xnQjx6t9qfEFpE6zQed1K"
+        },
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388965,
+      "name": "GP TO NW (feat. Ghost)",
+      "url": "https://open.spotify.com/track/7ElblGSZpvZaXTgiLy0j3g"
+    },
+    {
+      "album": {
         "name": "Evenings At The Village Gate: John Coltrane with Eric Dolphy (Live)",
         "url": "https://open.spotify.com/album/7AleWm3WG8Ko8AJjfaa3oW"
       },
@@ -16448,7 +16544,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 300000,
       "name": "I Send a Message - Vocal Remixed Version",
       "url": "https://open.spotify.com/track/1EX0ypIZAyVIFOq7syrewU"
@@ -24281,6 +24377,28 @@
     },
     {
       "album": {
+        "name": "Never Be (Hold Of Me)",
+        "url": "https://open.spotify.com/album/3ai2PcaTP9sZDkLGLzEwdZ"
+      },
+      "artists": [
+        {
+          "name": "K.E.F",
+          "url": "https://open.spotify.com/artist/29vtxkqKcEYzya1LvRUHan"
+        },
+        {
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210120,
+      "name": "Never Be (Hold Of Me)",
+      "url": "https://open.spotify.com/track/4Vd56qPvULa5ayS47c9cDO"
+    },
+    {
+      "album": {
         "name": "Never Be Yours",
         "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
       },
@@ -26345,6 +26463,28 @@
     },
     {
       "album": {
+        "name": "Original Sin (Ian Green Mix)",
+        "url": "https://open.spotify.com/album/52jGl1pgFvPWpLL5jU7s3w"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        },
+        {
+          "name": "Ian Green",
+          "url": "https://open.spotify.com/artist/5HnoheFb1wDJa7xQfnfJ4Y"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253560,
+      "name": "Original Sin - Ian Green Mix",
+      "url": "https://open.spotify.com/track/06ASk70s5oxs646Qm5uasj"
+    },
+    {
+      "album": {
         "name": "Ornella",
         "url": "https://open.spotify.com/album/6EU09JlL1i3zUd9N575vDr"
       },
@@ -26938,7 +27078,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 147961,
       "name": "Passenger Princess (feat. Smino)",
       "url": "https://open.spotify.com/track/2umsnslJOVbg2BHwi42H39"
@@ -27636,6 +27776,28 @@
       "duration_ms": 205424,
       "name": "Please Take a Step Back",
       "url": "https://open.spotify.com/track/2MSa8kf0unz5ZYoDwKSvNn"
+    },
+    {
+      "album": {
+        "name": "Poeira Cosmica",
+        "url": "https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253482,
+      "name": "Poeira Cosmica",
+      "url": "https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR"
     },
     {
       "album": {
@@ -28600,6 +28762,32 @@
       "duration_ms": 154368,
       "name": "Pusha Man",
       "url": "https://open.spotify.com/track/5K5GXyTEzjsB8RbMC1UZhb"
+    },
+    {
+      "album": {
+        "name": "Quatri\u00e8me mur",
+        "url": "https://open.spotify.com/album/1VTQXXcGF3m5V4PcxUFpfr"
+      },
+      "artists": [
+        {
+          "name": "Scylla",
+          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+        },
+        {
+          "name": "M\u00e9dine",
+          "url": "https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV"
+        },
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311070,
+      "name": "Quatri\u00e8me mur",
+      "url": "https://open.spotify.com/track/329U1mHCtj33O1ntN86Pph"
     },
     {
       "album": {
@@ -30532,7 +30720,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 256285,
       "name": "SCYLLA - 2nd Round",
       "url": "https://open.spotify.com/track/1xVjbg3E9n6SnN4RaGb11R"
@@ -31152,7 +31340,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 254500,
       "name": "SI NO ES CONTIGO - REMIX",
       "url": "https://open.spotify.com/track/4MAv7MqIlcaTBHGiUXIWiw"
@@ -31614,7 +31802,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 183193,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/6Z0yKCHpLXoDVqFSlWh9OM"
@@ -31640,7 +31828,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 194783,
       "name": "Smoke Stain's, Pt.2",
       "url": "https://open.spotify.com/track/1ezZkIEV8P5tjNtOXPKlSN"
@@ -32931,6 +33119,24 @@
     },
     {
       "album": {
+        "name": "Miles in France 1963 & 1964 - Miles Davis Quintet: The Bootleg Series, Vol. 8",
+        "url": "https://open.spotify.com/album/69IMyjpYKbsVfVWJXQDYRo"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 663217,
+      "name": "Stella By Starlight - Live at Paris, Salle Pleyel, France - October 1, 1964 [1st Concert]",
+      "url": "https://open.spotify.com/track/25osSBdShXOwws7vJAwplJ"
+    },
+    {
+      "album": {
         "name": "Step",
         "url": "https://open.spotify.com/album/2ZgwNJaq7UwUnNlCjJ3wuu"
       },
@@ -33662,7 +33868,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 256328,
       "name": "Survive The Night",
       "url": "https://open.spotify.com/track/25YJpVrQBDAh6Zu8frDwgp"
@@ -33704,7 +33910,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 256328,
       "name": "Survive The Night",
       "url": "https://open.spotify.com/track/2JEbS9uVCddQeneqbhqUJH"
@@ -34534,7 +34740,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 219189,
       "name": "Te'Kill'Ya",
       "url": "https://open.spotify.com/track/2FY3V309Dc0X6VS8OWFxC9"
@@ -34564,6 +34770,24 @@
       "duration_ms": 222600,
       "name": "Tech N9ne Presents: NNUTTHOWZE - The Siqnal",
       "url": "https://open.spotify.com/track/02TKQCqn07U3oCpsqFzk7f"
+    },
+    {
+      "album": {
+        "name": "Warm Beers",
+        "url": "https://open.spotify.com/album/00L7SMZVEF6kj8QyLIe82E"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207261,
+      "name": "Television of Memories",
+      "url": "https://open.spotify.com/track/1jVFm68uQxsE6kUl9MlTec"
     },
     {
       "album": {
@@ -36072,6 +36296,28 @@
       "duration_ms": 218881,
       "name": "The Return of Tony Stark",
       "url": "https://open.spotify.com/track/6odwEcHNM5h2CUjnmiP9xV"
+    },
+    {
+      "album": {
+        "name": "TECH:Vol. 1",
+        "url": "https://open.spotify.com/album/1gquUtwrMw5oGUFYg4umkA"
+      },
+      "artists": [
+        {
+          "name": "MC Technique",
+          "url": "https://open.spotify.com/artist/4ZZ7wbrkdBhU8RJLWDo9y7"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156553,
+      "name": "THE RHYTHM",
+      "url": "https://open.spotify.com/track/6dNsYZysUU6KhKONae4SNc"
     },
     {
       "album": {
@@ -39100,7 +39346,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 216067,
       "name": "Warm Beers",
       "url": "https://open.spotify.com/track/2TeZBRA9l5ueios4jpCbf6"
@@ -40733,6 +40979,28 @@
     },
     {
       "album": {
+        "name": "Merci, Non Merci",
+        "url": "https://open.spotify.com/album/5VTOqmPJrJw9M3Ykvwyf7q"
+      },
+      "artists": [
+        {
+          "name": "El Cousteau",
+          "url": "https://open.spotify.com/artist/6jas9NK79dEF6hU1LvmfHB"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136874,
+      "name": "Words2LiveBy (feat. Earl Sweatshirt)",
+      "url": "https://open.spotify.com/track/22YySOeu9uwkYPEwabYoi7"
+    },
+    {
+      "album": {
         "name": "Words2LiveBy (feat. Earl Sweatshirt)",
         "url": "https://open.spotify.com/album/7BKRDai83KpPU96CA586gV"
       },
@@ -40748,7 +41016,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 136874,
       "name": "Words2LiveBy (feat. Earl Sweatshirt)",
       "url": "https://open.spotify.com/track/6legbS59rPTHhNRrVdABTk"
@@ -41162,7 +41430,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 186506,
       "name": "X",
       "url": "https://open.spotify.com/track/5LfSEltyBQ0o10ravNgvLM"

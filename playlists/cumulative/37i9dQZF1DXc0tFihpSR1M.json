@@ -818,7 +818,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 217232,
       "name": "For Cryin' Out Loud!",
       "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
@@ -2588,6 +2588,24 @@
       "duration_ms": 217783,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
+    },
+    {
+      "album": {
+        "name": "TIME TO GO",
+        "url": "https://open.spotify.com/album/520ZEhZtTivehjdQswHoyF"
+      },
+      "artists": [
+        {
+          "name": "Martine Farstad",
+          "url": "https://open.spotify.com/artist/1IfVdzvb1iqVh4ZKceC3PC"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156610,
+      "name": "TIME TO GO",
+      "url": "https://open.spotify.com/track/32He7V1I86jo3oWGzlxwov"
     },
     {
       "album": {

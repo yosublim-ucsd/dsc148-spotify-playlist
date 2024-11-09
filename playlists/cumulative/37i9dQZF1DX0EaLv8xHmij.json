@@ -1164,7 +1164,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 139130,
       "name": "BBL",
       "url": "https://open.spotify.com/track/1MZwq8W2FUnfss15aJEv5z"
@@ -1911,6 +1911,32 @@
     },
     {
       "album": {
+        "name": "CONDUTA",
+        "url": "https://open.spotify.com/album/6ZKuKvs1NFScCDmW4DKU46"
+      },
+      "artists": [
+        {
+          "name": "DEH.",
+          "url": "https://open.spotify.com/artist/24QBXmQdL8Mitbs4tSvXmv"
+        },
+        {
+          "name": "LIT UP",
+          "url": "https://open.spotify.com/artist/048eLqPGxqWk7PblwFmXgE"
+        },
+        {
+          "name": "Bra\u00e3o",
+          "url": "https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "CONDUTA",
+      "url": "https://open.spotify.com/track/1TEg5pNsMnthX1rpehPcAy"
+    },
+    {
+      "album": {
         "name": "Confronto",
         "url": "https://open.spotify.com/album/5FPovaISsbqW32pxy852rw"
       },
@@ -2138,6 +2164,32 @@
       "duration_ms": 152957,
       "name": "Cria da \u00c1rea",
       "url": "https://open.spotify.com/track/5B4EIRR6mhtULEwQDFQ3sM"
+    },
+    {
+      "album": {
+        "name": "O Que N\u00e3o Te Contaram Sobre as Ruas",
+        "url": "https://open.spotify.com/album/41anB0huK1hbpvJEr9c7f6"
+      },
+      "artists": [
+        {
+          "name": "Nochica",
+          "url": "https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "CHF",
+          "url": "https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142344,
+      "name": "Criado por Duas Mulheres",
+      "url": "https://open.spotify.com/track/3zU7qutRtIalOQeV2S73r5"
     },
     {
       "album": {
@@ -3406,7 +3458,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 164571,
       "name": "Faz Parte do Meu Show",
       "url": "https://open.spotify.com/track/6GyVOob3kIqFeVrSQvqTDB"
@@ -3620,6 +3672,24 @@
       "duration_ms": 127144,
       "name": "Freestyle 01",
       "url": "https://open.spotify.com/track/1sW0BCO3lnzCx7aYnPzV6K"
+    },
+    {
+      "album": {
+        "name": "Freestyle 03",
+        "url": "https://open.spotify.com/album/0YBtQACylOjMHjYR5QCyEf"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115973,
+      "name": "Freestyle 03",
+      "url": "https://open.spotify.com/track/2U8ogfw2aVxpVyuNVKjUDj"
     },
     {
       "album": {
@@ -5480,7 +5550,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 166400,
       "name": "Nos Embalos de Jersey a Noite",
       "url": "https://open.spotify.com/track/6spunQxxCbEoXCVcQtaY2N"
@@ -5738,6 +5808,36 @@
       "duration_ms": 112984,
       "name": "Palpite",
       "url": "https://open.spotify.com/track/5tJi3MH0b90iHb8NWR9Hj1"
+    },
+    {
+      "album": {
+        "name": "NO EMBALO DE UMA SEXTA-NOITE, VOL. 2",
+        "url": "https://open.spotify.com/album/7Jgo8ynamUZuvY1FqKXJJg"
+      },
+      "artists": [
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "MELI",
+          "url": "https://open.spotify.com/artist/49oqWQXT56gZaO0wfpUhXl"
+        },
+        {
+          "name": "Bradockdan",
+          "url": "https://open.spotify.com/artist/79oTF8wB34af3vzzBLCqPJ"
+        },
+        {
+          "name": "Dj P\u00e9tala",
+          "url": "https://open.spotify.com/artist/2IXUVwGsRjKGbeniuDJEpT"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188444,
+      "name": "PAPUM",
+      "url": "https://open.spotify.com/track/35GMNuzPZi0i20fJfgBcF0"
     },
     {
       "album": {
@@ -6232,7 +6332,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 171482,
       "name": "Predestinado",
       "url": "https://open.spotify.com/track/3cZMea5EGc3W0d7UHIAnwm"
@@ -7809,6 +7909,36 @@
     },
     {
       "album": {
+        "name": "Nunca Foi Sorte",
+        "url": "https://open.spotify.com/album/08UroWWdsjAgraYexnmtDx"
+      },
+      "artists": [
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "Bradockdan",
+          "url": "https://open.spotify.com/artist/79oTF8wB34af3vzzBLCqPJ"
+        },
+        {
+          "name": "GDM",
+          "url": "https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139285,
+      "name": "To de Volta",
+      "url": "https://open.spotify.com/track/2s7vtyL03FsuzbR2CXWIsc"
+    },
+    {
+      "album": {
         "name": "Top Boy",
         "url": "https://open.spotify.com/album/1tXxT5sTCot3j5Ploh5kkC"
       },
@@ -8320,7 +8450,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 147650,
       "name": "Vim do Bristol",
       "url": "https://open.spotify.com/track/5q21frmkShlupe2Pv2Jcu7"

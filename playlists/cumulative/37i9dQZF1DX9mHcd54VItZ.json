@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 240489,
       "name": "Alleen - Remastered 2024",
       "url": "https://open.spotify.com/track/5US58PJyctlJoImyWqsyvZ"
@@ -1808,7 +1808,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 182589,
       "name": "Dans Deur Die Donker",
       "url": "https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6"
@@ -3385,6 +3385,24 @@
     },
     {
       "album": {
+        "name": "Good Time EP",
+        "url": "https://open.spotify.com/album/1JEKznqz12lnw3FEhjPJiA"
+      },
+      "artists": [
+        {
+          "name": "Phillip Taylor",
+          "url": "https://open.spotify.com/artist/1YYmkWArjQ9gVGDq4BLyVw"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171827,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/3a0WSCG2YeMNPcAl97ZRJC"
+    },
+    {
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/1tFi3RKIVQU9ZQVHXF4POS"
       },
@@ -3780,6 +3798,24 @@
       "duration_ms": 243498,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/629X30psE0HDVwMflpkOKm"
+    },
+    {
+      "album": {
+        "name": "Holy Rollers",
+        "url": "https://open.spotify.com/album/37jMpkKSPlixwTqTXDrCOg"
+      },
+      "artists": [
+        {
+          "name": "Scream In Colours",
+          "url": "https://open.spotify.com/artist/2ua0EC6QA0j2zsvhS0ZTSb"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171812,
+      "name": "Holy Rollers",
+      "url": "https://open.spotify.com/track/07lvzlEPEPskQMVbePhE9u"
     },
     {
       "album": {
@@ -4526,7 +4562,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 172549,
       "name": "Kiss Me Hard",
       "url": "https://open.spotify.com/track/1Pd0c4a7vii97gOE0vzxNL"
@@ -6171,6 +6207,24 @@
     },
     {
       "album": {
+        "name": "Oor Jou",
+        "url": "https://open.spotify.com/album/0GKkRhtRDRjjj10Poa4bQi"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238112,
+      "name": "Oor Jou",
+      "url": "https://open.spotify.com/track/2y2Fx9kG3SBmAwSDNrZE0o"
+    },
+    {
+      "album": {
         "name": "Oud Geword",
         "url": "https://open.spotify.com/album/70VkQsYTEX51832qXP82U1"
       },
@@ -6478,7 +6532,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 245866,
       "name": "Picture Perfect",
       "url": "https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP"
@@ -7868,6 +7922,24 @@
       "duration_ms": 199986,
       "name": "Story of the year",
       "url": "https://open.spotify.com/track/0YhlYDi66P9L6QaLib1h6t"
+    },
+    {
+      "album": {
+        "name": "Stray Kids",
+        "url": "https://open.spotify.com/album/7qvbJJJZ5YDXP2dxyJkLZI"
+      },
+      "artists": [
+        {
+          "name": "Venus and the Snake",
+          "url": "https://open.spotify.com/artist/2Mhmgm1OYvVjqOBTLdar9O"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233818,
+      "name": "Stray Kids",
+      "url": "https://open.spotify.com/track/0BB4pCXURF1l4Knji1e5ad"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,272 songs - 6 day 19 hr 0 min
+4,273 songs - 6 day 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2705,7 +2705,7 @@
 | [oscarto](https://open.spotify.com/track/1CEEgJrmLuKDSm6pt7sXok) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow Vol\. 5](https://open.spotify.com/album/1jbN4bYY8ZX7FpkBn49FlG) | 1:36 | 2021-01-17 | 2021-03-14 |
 | [Osloer Straße \- Instrumental](https://open.spotify.com/track/3ESyOoe4nT5sEBGiKHOROZ) | [Galv](https://open.spotify.com/artist/7mbdcJkkgnyrlLvFBg32U6), [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW) | [Shigeo \- Instrumentals](https://open.spotify.com/album/7sNPCxItzNTviUXCiGQymE) | 1:56 | 2019-08-10 | 2019-11-15 |
 | [othello](https://open.spotify.com/track/5cB5hyrP15gtkFp0JVeiNd) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP), [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F) | [othello](https://open.spotify.com/album/6cV8TkMfuzCKFOOYkjIvhi) | 3:01 | 2020-04-24 | 2020-07-01 |
-| [Otters](https://open.spotify.com/track/3wXlfGmKCqG30LxBj0zERw) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Otters](https://open.spotify.com/album/72CicGuIXlZpVJUIkcTNPE) | 1:53 | 2023-09-14 |  |
+| [Otters](https://open.spotify.com/track/3wXlfGmKCqG30LxBj0zERw) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Otters](https://open.spotify.com/album/72CicGuIXlZpVJUIkcTNPE) | 1:53 | 2023-09-14 | 2024-11-09 |
 | [Oubaitori](https://open.spotify.com/track/3asgEGGEtFvd26PjI5Gcid) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [marsquake](https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i) | [Oubaitori](https://open.spotify.com/album/104jNYlkCdhntS39zfhVvZ) | 2:26 | 2024-07-04 | 2024-07-27 |
 | [Our Little Dilemma](https://open.spotify.com/track/56hqH6z2CU6G8NbVvVXAb2) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84) | [Our Little Dilemma](https://open.spotify.com/album/1oG7Rrh028vORF4dYs0GRI) | 3:22 | 2021-03-14 | 2021-05-21 |
 | [Out for a Stroll](https://open.spotify.com/track/36Foss260ItalU4rLJhYks) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Journey](https://open.spotify.com/album/0Y89JuEUKr68HwH9XDEmFA) | 3:42 | 2022-11-17 | 2022-12-24 |
@@ -3312,6 +3312,7 @@
 | [So Lonely \(Devaloop Remix\)](https://open.spotify.com/track/1DxysigyMyIVr8Tk3jsuEU) | [Chris Cross](https://open.spotify.com/artist/0FbvvGVjcfuHRa6BywhbHn), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [So Lonely \(Devaloop Remix\)](https://open.spotify.com/album/2ogy79YI5aNr5vO4n8f3F0) | 2:40 | 2020-03-04 | 2020-05-01 |
 | [So They Say](https://open.spotify.com/track/74lV5FmHUsOobeO2LhvK2R) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [So They Say](https://open.spotify.com/album/0QfciNzmUbcv769u2mP1pO) | 2:18 | 2019-06-14 | 2019-11-29 |
 | [So Too](https://open.spotify.com/track/6bwSDvu5okIMvESH2A3iEi) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [So Too](https://open.spotify.com/album/7s4jhWI0A5wr3tjDRcWefh) | 2:14 | 2023-10-19 | 2024-10-06 |
+| [Soak](https://open.spotify.com/track/3kVmGpo20j1ucJLmvRJtka) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Soak](https://open.spotify.com/album/7poWEMMznoSUCHkHjfaA7o) | 1:57 | 2024-10-24 |  |
 | [Soaring Anticipation](https://open.spotify.com/track/3uEg8h7ZvNbUOSO8Er0Cjf) | [Hydrogenii](https://open.spotify.com/artist/00RdKm1RuV3yg0hd79ZcPF), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Soaring Anticipation](https://open.spotify.com/album/0RKoDZUssXKqMYSVmumcNj) | 3:26 | 2023-04-13 | 2023-10-06 |
 | [Sofa Stories](https://open.spotify.com/track/4qv0hnIWqV1k1AksEY52RP) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Sofa Stories](https://open.spotify.com/album/5jlOjNbY9NJqofKxnKwPi3) | 3:09 | 2019-12-20 | 2020-04-24 |
 | [Sofia](https://open.spotify.com/track/5Pwe8Gg1tdlrprxer7s7gV) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [Sofia](https://open.spotify.com/album/2MZCrHPJ4WJVrhH3NCWItd) | 2:40 | 2021-02-14 | 2021-03-26 |

@@ -4,7 +4,7 @@
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-156 songs - 8 hr 36 min
+157 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/track/4CYl5j3ugKHnfuzilmMxge) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Click Click Domino](https://open.spotify.com/album/4jZkftndOfxPCNaUyeUQfq) | 3:23 | 2022-08-31 | 2023-10-08 |
 | [Come On](https://open.spotify.com/track/5pqBru8D3AFDmbTiCCLdDi) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Fading Away](https://open.spotify.com/album/0Y2F59RRop0f41p7rTFwQS) | 3:45 | 2022-08-31 | 2024-04-19 |
 | [Come On](https://open.spotify.com/track/7m1a5EhEx1qA4fWSqRLvaO) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Come On](https://open.spotify.com/album/5UItOyIYBjcLlCESGf9fDX) | 3:45 | 2021-02-12 |  |
-| [Come on Now \(Take From Me\)](https://open.spotify.com/track/2IXKXOsEJNTuKvs0eq5h3H) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Come on Now \(Take From Me\)](https://open.spotify.com/album/2xDs9g1yb4bs0nTsztRmoH) | 3:32 | 2023-10-06 |  |
+| [Come on Now \(Take From Me\)](https://open.spotify.com/track/2IXKXOsEJNTuKvs0eq5h3H) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Come on Now \(Take From Me\)](https://open.spotify.com/album/2xDs9g1yb4bs0nTsztRmoH) | 3:32 | 2023-10-06 | 2024-11-09 |
 | [Come on Now \(Take From Me\)](https://open.spotify.com/track/2z1bmLCyQY03sIAPgCU5s8) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Get By \(Good Enough\)](https://open.spotify.com/album/1cjS4Dg6yv2uUD2YqgEYyZ) | 3:32 | 2023-10-06 | 2024-04-19 |
 | [Dandy Little Day](https://open.spotify.com/track/5HnCJp1xyqBUE69QG1JTd6) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Dandy Little Day](https://open.spotify.com/album/3tCzBYcHu00sdT3DZ8iAKJ) | 3:08 | 2021-02-12 |  |
 | [Deal With the Devil \(You'll Get Yours\)](https://open.spotify.com/track/0Mj8ijetNi0BccnaDAlYYF) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Ain't Nobody \(Pain\)](https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW) | 2:50 | 2023-05-19 | 2023-09-10 |
@@ -127,6 +127,7 @@
 | [Searching for Captain Save a Hoe](https://open.spotify.com/track/2Q2QaeGLf2TC3czLKwv2P9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Have You Lost Your Mind yet?](https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy) | 3:45 | 2021-02-12 | 2024-03-23 |
 | [Shot Down](https://open.spotify.com/track/42vMIdruxaoslgfiyYBuwh) | [Vinny Virgo](https://open.spotify.com/artist/6ltRvKGrFYQoDwAmgYIB3B) | [Shot Down](https://open.spotify.com/album/4RWPMWMElW4byNmBLINBsL) | 3:13 | 2022-08-31 | 2024-04-19 |
 | [Shot Down](https://open.spotify.com/track/6fqeBYpDjHcCTtIfZ4L9i0) | [Vinny Virgo](https://open.spotify.com/artist/6ltRvKGrFYQoDwAmgYIB3B) | [Shot Down](https://open.spotify.com/album/3GSGs4142RQMnWYEmGGHBd) | 3:13 | 2021-02-12 |  |
+| [Sitting Pretty](https://open.spotify.com/track/4s7P2fvRasD6A0jNd8dga2) | [William The Conqueror](https://open.spotify.com/artist/1r3usFuloWo113ldctoDnX) | [Sitting Pretty](https://open.spotify.com/album/0IcEBv7AWszk2qa2Zp3xWd) | 3:40 | 2024-11-08 |  |
 | [Slow Down \(No Need to Worry\)](https://open.spotify.com/track/4Lfsre3Eip6TADVeduK1VW) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Get By \(With Me\)](https://open.spotify.com/album/798myu49T30x19CgMckKis) | 4:01 | 2024-08-23 |  |
 | [Somebody to Love \(Trust\)](https://open.spotify.com/track/7otWVTT2kHVAKkToJJaOJn) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Somebody to Love \(Trust\)](https://open.spotify.com/album/4V9uqHkiHQfMpt8gYDaGWg) | 3:02 | 2024-05-31 | 2024-10-26 |
 | [South Gotta Change](https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [South Gotta Change](https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ) | 3:45 | 2021-02-12 |  |

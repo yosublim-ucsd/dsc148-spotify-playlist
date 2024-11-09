@@ -2,7 +2,7 @@
 
 ### [LOVE SONGS & CHILL \| TOP 100 SONGS](https://open.spotify.com/playlist/4QuJ2DbcTe7R8lzqfNXz7v)
 
-> The top 100 best love songs\. Dream away with the best love songs \. ❤️
+> From heartfelt ballads to mellow beats, this playlist is all about love, chill and relaxation.❤️
 
 208 songs - 12 hr 59 min
 

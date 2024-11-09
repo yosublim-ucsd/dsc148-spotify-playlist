@@ -999,6 +999,24 @@
     },
     {
       "album": {
+        "name": "Estrella del Alba",
+        "url": "https://open.spotify.com/album/1tPzlsbmcvftBFrSJtamoG"
+      },
+      "artists": [
+        {
+          "name": "Mirta Alvarez",
+          "url": "https://open.spotify.com/artist/4zEFyJWmosnx8lZKfy8EkZ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177493,
+      "name": "Estrella del Alba",
+      "url": "https://open.spotify.com/track/75MArQvQxnXcf1eihuGMIj"
+    },
+    {
+      "album": {
         "name": "Eterna Saudade",
         "url": "https://open.spotify.com/album/3EJga8fieg3iJktxWBVA2k"
       },
@@ -1840,7 +1858,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 145125,
       "name": "Me Muero Sin Tus Besos",
       "url": "https://open.spotify.com/track/5A1XB9lNEvGHWNu1hkOpKT"

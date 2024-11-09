@@ -1,12 +1,12 @@
 {
   "description": "This is Def Leppard. The essential tracks, all in one playlist.",
-  "num_followers": 277951,
+  "num_followers": 277956,
   "original_name": "This Is Def Leppard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyqxgAAAAAB4xLibFm80EAcI5QbU5kPk",
+  "snapshot_id": "ZywDAAAAAAAUUcLQOj0QaC6Rj/sUCz4/",
   "tracks": [
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slang (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7"
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 267084,
-      "name": "Blood Runs Cold",
-      "url": "https://open.spotify.com/track/4CobZvJtESkkrHcC0QUVlx"
+      "duration_ms": 217799,
+      "name": "Tear It Down",
+      "url": "https://open.spotify.com/track/3pH9Vu1LNBXMUptZbmipFF"
     }
   ],
   "unique_name": "This Is Def Leppard",

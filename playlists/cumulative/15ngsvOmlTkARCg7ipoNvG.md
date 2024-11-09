@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,833 songs - 1 day 13 hr 38 min
+1,834 songs - 1 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -732,6 +732,7 @@
 | [Going Home](https://open.spotify.com/track/2Hus16RfZ3pJNoM2IsP7Aw) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Homeward Bound](https://open.spotify.com/album/2hNoqAr3GbLHwASZS5mmTU) | 1:01 | 2022-04-16 |  |
 | [Going North](https://open.spotify.com/track/08XFH7UTaVpmhK38MguwUM) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Going North](https://open.spotify.com/album/0QdsSUZTUScziIFasuagEg) | 1:01 | 2023-04-19 | 2024-02-13 |
 | [Going North Arr\. For Strings](https://open.spotify.com/track/2dPfWJvImcjVpdRjYVhQCI) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Going North](https://open.spotify.com/album/0QdsSUZTUScziIFasuagEg) | 1:01 | 2024-02-09 | 2024-02-13 |
+| [Golden Night](https://open.spotify.com/track/3rLYIOa93a8cSYKVLsELpW) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Golden Night](https://open.spotify.com/album/6RF7vEnzwtlWvhTJM0NYGQ) | 1:00 | 2024-11-08 |  |
 | [Golden Skies \- Cello Version](https://open.spotify.com/track/3tizcaa245wERO7soneRVw) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Golden Skies](https://open.spotify.com/album/2P4HJJDnetceOGwG86WP19) | 1:05 | 2024-02-09 | 2024-02-13 |
 | [Goodbye My Love](https://open.spotify.com/track/0vHN2y7LkBqi15TGzeERMm) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Soft Trios](https://open.spotify.com/album/17mbDwX7iIecxsazzN15oF) | 1:03 | 2024-02-09 | 2024-02-13 |
 | [Goodness](https://open.spotify.com/track/2UOpRmjNLkg9LmRydkIckC) | [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [Goodness](https://open.spotify.com/album/3FPdizOPFtG7h2zmIO6rFz) | 3:00 | 2022-02-17 | 2024-02-13 |

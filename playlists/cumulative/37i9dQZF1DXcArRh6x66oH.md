@@ -2,7 +2,7 @@
 
 ### [homegrown](https://open.spotify.com/playlist/37i9dQZF1DXcArRh6x66oH)
 
-> built for the climb with the red clay strays
+> they can watch us chase those dreams they never even dared
 
 337 songs - 20 hr 15 min
 

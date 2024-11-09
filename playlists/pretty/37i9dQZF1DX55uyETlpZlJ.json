@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Sanjith Hegde,  Sonu Nigam",
-  "num_followers": 23636,
+  "num_followers": 23652,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZytorQAAAACUJ6J8lk0OOlgRNNV/h2MR",
+  "snapshot_id": "Zy4P0AAAAADEarVFblzg+P/ARzUG8sWf",
   "tracks": [
     {
       "added_at": "2024-11-06 13:00:45",
@@ -28,7 +28,7 @@
           "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
         }
       ],
-      "duration_ms": 258125,
+      "duration_ms": 258750,
       "name": "Mayavi (From \"Bhoomi 2024\")",
       "url": "https://open.spotify.com/track/5FpUYrZWcFcuQMX4lDQqrf"
     },
@@ -83,6 +83,50 @@
       "duration_ms": 208000,
       "name": "Nanna Tumba Neene",
       "url": "https://open.spotify.com/track/6kOL7AlmbPX1uGI6jG2QqL"
+    },
+    {
+      "added_at": "2024-11-08 13:17:53",
+      "album": {
+        "name": "Love You Appa",
+        "url": "https://open.spotify.com/album/0FZd4X3RtrndvGTKd8JQ0H"
+      },
+      "artists": [
+        {
+          "name": "Manu Sangolli",
+          "url": "https://open.spotify.com/artist/12ZR4TMf5V2fOVymcCUeJY"
+        },
+        {
+          "name": "Deepu Gowda S",
+          "url": "https://open.spotify.com/artist/3w7IOfIkKmpVMpL5XYJvKX"
+        },
+        {
+          "name": "Yashwanth Bhupathi",
+          "url": "https://open.spotify.com/artist/2pO1ahdhpA7V2l0JItxTFp"
+        }
+      ],
+      "duration_ms": 207167,
+      "name": "Love You Appa",
+      "url": "https://open.spotify.com/track/5mr3rb3qVTLtJNPjizsqNI"
+    },
+    {
+      "added_at": "2024-11-08 13:19:12",
+      "album": {
+        "name": "Ninnindale",
+        "url": "https://open.spotify.com/album/0d6Tg4unwqjwxFKP4RkXw8"
+      },
+      "artists": [
+        {
+          "name": "Surabhi Bharadwaj",
+          "url": "https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr"
+        },
+        {
+          "name": "Shashank shetty",
+          "url": "https://open.spotify.com/artist/022NSbvjt2BPMhkVffP9CA"
+        }
+      ],
+      "duration_ms": 225284,
+      "name": "Ninnindale",
+      "url": "https://open.spotify.com/track/3mL8ySikFxmXJeoh5epDAF"
     },
     {
       "added_at": "2024-09-30 06:53:41",
@@ -1371,38 +1415,6 @@
       "duration_ms": 183641,
       "name": "Ah Sanjeyu",
       "url": "https://open.spotify.com/track/0FmAL5404C59bgZ0NReIjR"
-    },
-    {
-      "added_at": "2024-05-20 09:51:15",
-      "album": {
-        "name": "Shambo Shiva Shankara",
-        "url": "https://open.spotify.com/album/75rglwOtnPh1RwGEcTqaQD"
-      },
-      "artists": [
-        {
-          "name": "Paluz45",
-          "url": "https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "Shambo Shiva Shankara",
-      "url": "https://open.spotify.com/track/0g4QRe3yNIB9Ld0HOImBYp"
-    },
-    {
-      "added_at": "2024-05-21 05:40:37",
-      "album": {
-        "name": "Oo Jeevave",
-        "url": "https://open.spotify.com/album/5qfB377p8oXyR0yDG9RRwA"
-      },
-      "artists": [
-        {
-          "name": "Girish Prabhu",
-          "url": "https://open.spotify.com/artist/3gwJq0GldUL2tNtdeaG7gN"
-        }
-      ],
-      "duration_ms": 186186,
-      "name": "Oo Jeevave",
-      "url": "https://open.spotify.com/track/3oVtDUiXOdiJNeZ9GdkE7Q"
     },
     {
       "added_at": "2024-05-13 06:23:59",

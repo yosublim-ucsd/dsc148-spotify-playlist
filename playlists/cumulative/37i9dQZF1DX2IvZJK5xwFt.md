@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Linkin Park
 
-652 songs - 1 day 16 hr 32 min
+654 songs - 1 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Drummer](https://open.spotify.com/track/2vYAKa9MpnFSpEPyPSfaNh) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Drummer](https://open.spotify.com/album/1zPtKycZi8zpHwurCQoDxp) | 3:32 | 2024-09-07 | 2024-11-02 |
 | [dumb \(feat\. Tom The Mail Man\)](https://open.spotify.com/track/1q5ooychN0b2PkpHQ2aQsq) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:44 | 2022-05-06 | 2022-05-20 |
 | [Dystopia](https://open.spotify.com/track/4WVcTxy8lZqrz3wp0Mp1DF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Dystopia](https://open.spotify.com/album/6hhxNNO0GccTgRk5pBPfAQ) | 3:09 | 2024-10-25 |  |
+| [Dystopia](https://open.spotify.com/track/7jJ5zfsqNO1o85PlepGLxm) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Dystopia](https://open.spotify.com/album/2oJJxFn3IOAlbvdX6cS2BH) | 4:37 | 2024-11-08 |  |
 | [Easy Now](https://open.spotify.com/track/5uXWyJvnSIot8vVu8M4GGj) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Easy Now](https://open.spotify.com/album/02bVPxzxY5E5yCmCuupRQT) | 3:53 | 2023-01-20 | 2023-02-10 |
 | [Echolocate Your Love](https://open.spotify.com/track/0CLIYzcWpfAkEutSfa8HxA) | [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Neon Noir](https://open.spotify.com/album/1F9QDVhcJCUz0BHcjdmqvX) | 3:24 | 2023-01-16 | 2023-02-10 |
 | [Eddie](https://open.spotify.com/track/5GWrhVfgP4szBtCOXbSki8) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Eddie](https://open.spotify.com/album/6DUWfrmH8uTH33wMFOBJDu) | 5:41 | 2022-09-22 | 2023-02-17 |
@@ -187,6 +188,7 @@
 | [Fallout](https://open.spotify.com/track/07GYummphjTwkCjNfJvIca) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/63xLdGlrDV5QJuwtQlGqL4) | 3:14 | 2022-05-06 | 2022-07-29 |
 | [Fallout](https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h) | 3:14 | 2022-07-07 | 2022-08-26 |
 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 | 2023-10-16 | 2024-09-06 |
+| [Fighting For](https://open.spotify.com/track/6K7PFQKztExvMosbnlpOQD) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Last Legends](https://open.spotify.com/album/6v2mSLE5CO0qXmxdIEAnLq) | 2:29 | 2024-11-08 |  |
 | [Fighting Myself](https://open.spotify.com/track/2ipYQ6pcabz1NovVrr9LKH) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:21 | 2023-04-20 | 2023-07-28 |
 | [Fighting Myself](https://open.spotify.com/track/5CVZeK7bOC9QxYcZ9gJ5X2) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Fighting Myself](https://open.spotify.com/album/0S1tvjDaar0S6LaRJAFcWF) | 3:21 | 2023-03-23 | 2023-04-24 |
 | [find my way](https://open.spotify.com/track/3c522rqTXOm2gSK2OrxsTh) | [mididuck](https://open.spotify.com/artist/6mpI54w7dPsRHzMAvXPe5W), [blindboy](https://open.spotify.com/artist/4iU4uZYn7WL00OQ23Ikj6t), [Sofuu](https://open.spotify.com/artist/11cmY8UiaG76EOdH7d37Mo) | [find my way](https://open.spotify.com/album/3Z33HPLgGhnOdPIxMf07NX) | 3:20 | 2022-09-29 | 2022-12-03 |
@@ -430,7 +432,7 @@
 | [Perhaps](https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Perhaps](https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb) | 3:48 | 2023-08-17 | 2024-03-01 |
 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 | 2022-08-25 | 2023-02-17 |
 | [Phantom](https://open.spotify.com/track/14wSiOY3ZjskXuFj4xiEAD) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Phantom](https://open.spotify.com/album/4wJcxxuS21izYigHCM58gr) | 4:25 | 2022-08-25 | 2022-09-16 |
-| [Phantom Island](https://open.spotify.com/track/4nLZhCmYLNN4rAHdXomhjp) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Phantom Island](https://open.spotify.com/album/0PFSE0ufsMJPTM7bDTv5Rc) | 5:16 | 2024-11-01 |  |
+| [Phantom Island](https://open.spotify.com/track/4nLZhCmYLNN4rAHdXomhjp) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Phantom Island](https://open.spotify.com/album/0PFSE0ufsMJPTM7bDTv5Rc) | 5:16 | 2024-11-01 | 2024-11-09 |
 | [Phantom Of The Opera](https://open.spotify.com/track/4KNuTxGlUSb9hFm8asqWuZ) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Phantom Of The Opera](https://open.spotify.com/album/3LZ9bieXF4luLjfeIE9zqb) | 7:23 | 2023-05-18 | 2023-07-21 |
 | [Piano For A Stripper \- Demo](https://open.spotify.com/track/1dDWwIr9UuoJx1n3fJ1Vyf) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Have A Nice Day](https://open.spotify.com/album/6ylfafY4MVUj7FLu2WSfC8) | 3:42 | 2024-09-19 | 2024-10-12 |
 | [Pieces](https://open.spotify.com/track/4T5tvbFPk4pqxQYT78cADG) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Pieces](https://open.spotify.com/album/7xJmAVR7LCKfvQXt6uSMYM) | 4:04 | 2024-03-21 | 2024-06-07 |
@@ -470,7 +472,7 @@
 | [Sad Song \- Mauldeth Road West Demo, Nov' 92](https://open.spotify.com/track/0dABTXRfWoMmWD43T66KZI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Sad Song \(Mauldeth Road West Demo, Nov' 92\)](https://open.spotify.com/album/4t3hIBsq1eZB5FVVw1Ti9W) | 4:34 | 2024-08-29 |  |
 | [SAME OLD STORY](https://open.spotify.com/track/4jkx0tfBe1GZhO2JnXOvTP) | [GAI 荄](https://open.spotify.com/artist/4UxSNn8D7I6mwc4ugD0Org) | [SAME OLD STORY](https://open.spotify.com/album/0ZLIOevLNgalNMQxMc28Fx) | 3:28 | 2024-05-12 | 2024-06-14 |
 | [San Quentin](https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [San Quentin](https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ) | 3:31 | 2022-09-08 | 2023-06-02 |
-| [Save It For Later](https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Save It For Later](https://open.spotify.com/album/5hLsl7NOCJPMDy4GAwaT54) | 4:21 | 2024-06-27 |  |
+| [Save It For Later](https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Save It For Later](https://open.spotify.com/album/5hLsl7NOCJPMDy4GAwaT54) | 4:21 | 2024-06-27 | 2024-11-09 |
 | [Save Yourself \- Japanese Version](https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 | 2022-06-23 | 2022-07-08 |
 | [Scarlette](https://open.spotify.com/track/1OtgC9xZIw2aSOWGHiAOgX) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7), [Valiant Hearts](https://open.spotify.com/artist/23JfHao7GdCfsGkXw4jJl8) | [Scarlette](https://open.spotify.com/album/5R48HkJTMQLaN3DthQCD7D) | 4:30 | 2022-05-06 | 2022-09-02 |
 | [scream!](https://open.spotify.com/track/4ns5zRv5YXKZTfiGx3qEE0) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [scream!](https://open.spotify.com/album/2sCqph9s39xDKrZBZVtlHY) | 3:19 | 2022-05-06 | 2022-05-16 |

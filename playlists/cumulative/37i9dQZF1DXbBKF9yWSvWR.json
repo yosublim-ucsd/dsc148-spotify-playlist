@@ -483,6 +483,24 @@
     },
     {
       "album": {
+        "name": "Comic Trip",
+        "url": "https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7"
+      },
+      "artists": [
+        {
+          "name": "Sylvie Kreusch",
+          "url": "https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189169,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/0BUXcwQFldJNJHNGoPT2Ng"
+    },
+    {
+      "album": {
         "name": "Cairngorms",
         "url": "https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3"
       },

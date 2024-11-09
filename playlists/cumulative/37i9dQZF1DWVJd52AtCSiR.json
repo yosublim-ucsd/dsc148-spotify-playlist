@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "The Chillest Disney, Vol. 4",
+        "url": "https://open.spotify.com/album/3Tb24yt0hEn1mFfJEZe4EZ"
+      },
+      "artists": [
+        {
+          "name": "The Chillest",
+          "url": "https://open.spotify.com/artist/2qlvTZS8OkFRZi30S0D9E7"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212371,
+      "name": "Be Our Guest - Piano Version",
+      "url": "https://open.spotify.com/track/5XHxKg7OF1GHFP4BsOviP3"
+    },
+    {
+      "album": {
         "name": "The Disney Book (Deluxe Edition)",
         "url": "https://open.spotify.com/album/54Hs4q30gaGKCznUPPRI0I"
       },

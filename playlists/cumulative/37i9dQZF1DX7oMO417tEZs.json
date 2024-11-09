@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "gems from artists carving their own path. cover: Fievel Is Glauque",
+  "description": "gems from artists carving their own path. cover: Babymorocco",
   "name": "outliers",
   "tracks": [
     {
@@ -1836,7 +1836,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 115611,
       "name": "Babestation",
       "url": "https://open.spotify.com/track/7nT8JIqqQeWQDO9CVgqXb5"
@@ -2670,10 +2670,32 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 185798,
       "name": "Bikini",
       "url": "https://open.spotify.com/track/7KZa2q92Dwbjrx2zo4obgw"
+    },
+    {
+      "album": {
+        "name": "Bikinis and Trackies (feat. Frost Children)",
+        "url": "https://open.spotify.com/album/0kknMhut1ToMI0xpBAfnCl"
+      },
+      "artists": [
+        {
+          "name": "Babymorocco",
+          "url": "https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe"
+        },
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Bikinis and Trackies (feat. Frost Children)",
+      "url": "https://open.spotify.com/track/3UtjaTgFZxKN38AkoJ5tED"
     },
     {
       "album": {
@@ -3911,6 +3933,24 @@
     },
     {
       "album": {
+        "name": "Cash Now",
+        "url": "https://open.spotify.com/album/1HjzwfyDcg1OHv9yAa3BQA"
+      },
+      "artists": [
+        {
+          "name": "Ev Bird",
+          "url": "https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205365,
+      "name": "Cash Now",
+      "url": "https://open.spotify.com/track/0IfL7mZXy9sgnbxgDewezW"
+    },
+    {
+      "album": {
         "name": "What Once Was Will Never Be",
         "url": "https://open.spotify.com/album/0wM8y1WFSTHI3yYCXpJfl0"
       },
@@ -4670,6 +4710,24 @@
       "duration_ms": 187508,
       "name": "Clusterfunk",
       "url": "https://open.spotify.com/track/72XBKleAwVl37YC6m17jAe"
+    },
+    {
+      "album": {
+        "name": "Pleasure Is Everything",
+        "url": "https://open.spotify.com/album/6gzbL250qiTrGwsqvKw1O7"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167231,
+      "name": "Cold Paris Vogue",
+      "url": "https://open.spotify.com/track/0ZquXqzUdelOil2nV3APqN"
     },
     {
       "album": {
@@ -8132,7 +8190,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 129860,
       "name": "Faye",
       "url": "https://open.spotify.com/track/47ym2apEPQYsntkjeFUiQp"
@@ -9894,6 +9952,24 @@
       "duration_ms": 136888,
       "name": "Gyal Clown",
       "url": "https://open.spotify.com/track/4KGBCy1x03LIG3YG07JhuP"
+    },
+    {
+      "album": {
+        "name": "Hacker",
+        "url": "https://open.spotify.com/album/0S7e6QKCfYDmvIVujOC9S8"
+      },
+      "artists": [
+        {
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179081,
+      "name": "Hacker",
+      "url": "https://open.spotify.com/track/7yokdvwHVF5Ejp5iqP4FhY"
     },
     {
       "album": {
@@ -12250,7 +12326,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 229999,
       "name": "In The Night (feat. Jorja Smith & Amaarae)",
       "url": "https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc"
@@ -18595,6 +18671,28 @@
     },
     {
       "album": {
+        "name": "Poeira Cosmica",
+        "url": "https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253482,
+      "name": "Poeira Cosmica",
+      "url": "https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR"
+    },
+    {
+      "album": {
         "name": "Nostalgia Death Act 1",
         "url": "https://open.spotify.com/album/0acxAAviwwXk9mHYTmljnw"
       },
@@ -18606,7 +18704,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 229338,
       "name": "Poems",
       "url": "https://open.spotify.com/track/3widoECpAaVEUrTrVcFllW"
@@ -19046,7 +19144,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 130856,
       "name": "Ps and Qs",
       "url": "https://open.spotify.com/track/49c3ghupXboG64IVbVuIp2"
@@ -20717,6 +20815,24 @@
     },
     {
       "album": {
+        "name": "seventeen",
+        "url": "https://open.spotify.com/album/1tzd5ftXur0C44WJA86auY"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219266,
+      "name": "seventeen",
+      "url": "https://open.spotify.com/track/1wJUVM97tEquQtyuwmAE9B"
+    },
+    {
+      "album": {
         "name": "Sex & Candy",
         "url": "https://open.spotify.com/album/4ScRDKEIRM9HlNyZHIgpkm"
       },
@@ -22100,7 +22216,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 156572,
       "name": "Spit (feat. BEAM & Lady Lykez)",
       "url": "https://open.spotify.com/track/6mTnBa2d0DLbXKckEh7fM8"
@@ -26798,6 +26914,24 @@
       "duration_ms": 111718,
       "name": "X-8",
       "url": "https://open.spotify.com/track/6svSVekX57s5RFxt4qDWg3"
+    },
+    {
+      "album": {
+        "name": "x-ray eyes",
+        "url": "https://open.spotify.com/album/0NXggkTAhL1M8NOz7tfzAt"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291506,
+      "name": "x-ray eyes",
+      "url": "https://open.spotify.com/track/6vitrLyJKoMUUC87JsgIAY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di  Skinny e Rkomi, DrefGold, Nayt, Glocky, CoCo e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,719 likes - 85 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,753 likes - 85 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 16 | [X FINTA](https://open.spotify.com/track/79KLQClhxMvptdes5wM4LQ) | [GASP](https://open.spotify.com/artist/0COQtfqPkt0MtSB4f5D97V), [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [Ed Mars](https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3), [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr) | [X FINTA](https://open.spotify.com/album/1PPUp8p3mCqr36vwsfBj80) | 3:18 |
 | 17 | [Frigo Vuoto](https://open.spotify.com/track/0VPnOu0TC1M8eAw0LA17x8) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [Glocky vs Kiddo](https://open.spotify.com/album/53DRh8HCYyMHCyMF7HbHJe) | 2:40 |
 | 18 | [Diamanti](https://open.spotify.com/track/68tghM91J6WrAgdPQFRc7A) | [rooc lee](https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8) | [Diamanti](https://open.spotify.com/album/1N0zVJplRyHIrTF1ivMoOg) | 1:53 |
-| 19 | [GODDAMN \(feat\. Nitro\)](https://open.spotify.com/track/4TMo5mUYtvBJ3bhhAan5As) | [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [GRIS GRIS](https://open.spotify.com/album/5vjzxGIdEWAmaKLmmmnUBi) | 2:30 |
+| 19 | [GODDAMN \(feat\. Nitro\)](https://open.spotify.com/track/4TMo5mUYtvBJ3bhhAan5As) | [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [GRIS GRIS](https://open.spotify.com/album/5vjzxGIdEWAmaKLmmmnUBi) | 2:29 |
 | 20 | [HEETS \(feat\. Geolier\)](https://open.spotify.com/track/7heTgNdtbRD4n0Vg8rGYXo) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dele](https://open.spotify.com/artist/58bdmuoVnCLzq3gqATaLLB), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [CON I MIEI OCCHI](https://open.spotify.com/album/6JWyzXSxNZzmJzBBAviLcR) | 2:57 |
 | 21 | [Così Non Va Bene \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/5eRy8OYaPS3XB5DCzDolks) | [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [No Pressure, No Diamonds](https://open.spotify.com/album/5gRvTwwvyRN2vYNBM9hmQu) | 2:42 |
 | 22 | [Donna](https://open.spotify.com/track/5t0pLWfUeP5fYVxKaMB2MD) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Donna](https://open.spotify.com/album/0yugiV59QadnQxtXExqjXb) | 2:59 |

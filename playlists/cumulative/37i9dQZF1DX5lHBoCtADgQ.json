@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 124456,
       "name": "Madhaniya",
       "url": "https://open.spotify.com/track/7JhqIABcX6GZLbVRbbKsKZ"
@@ -1451,6 +1451,24 @@
     },
     {
       "album": {
+        "name": "Modern Punjab",
+        "url": "https://open.spotify.com/album/162CAUtuQUzTo9HLPunr1R"
+      },
+      "artists": [
+        {
+          "name": "Hari & Sukhmani",
+          "url": "https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285181,
+      "name": "Mirza Saiba",
+      "url": "https://open.spotify.com/track/6gveVm22PaA21mFIYZNaJb"
+    },
+    {
+      "album": {
         "name": "Mombattiye (Folk Recreation)",
         "url": "https://open.spotify.com/album/71Q135Dh7bT8eNXVz2VQYM"
       },
@@ -1488,6 +1506,24 @@
       "duration_ms": 197468,
       "name": "Munda Sakhiyo Ni",
       "url": "https://open.spotify.com/track/09Gy3xqh13lw2UoiGQTI9s"
+    },
+    {
+      "album": {
+        "name": "Modern Punjab",
+        "url": "https://open.spotify.com/album/162CAUtuQUzTo9HLPunr1R"
+      },
+      "artists": [
+        {
+          "name": "Hari & Sukhmani",
+          "url": "https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197623,
+      "name": "Paranda",
+      "url": "https://open.spotify.com/track/2xJXOMdulvKC5NFoF0kHZ4"
     },
     {
       "album": {
@@ -1596,7 +1632,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 157609,
       "name": "Ranjhana",
       "url": "https://open.spotify.com/track/1upV3GcdtYBdoDwOzUjo60"

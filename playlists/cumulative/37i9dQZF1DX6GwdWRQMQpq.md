@@ -2,9 +2,9 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Megan Thee Stallion
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: GloRilla
 
-605 songs - 1 day 3 hr 16 min
+606 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 | 2022-07-01 | 2023-03-25 |
 | [Hottie \(feat\. BabyFace Ray\)](https://open.spotify.com/track/14I77qsasVr6M6XxbxvcxJ) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 3:01 | 2022-07-22 | 2022-10-15 |
 | [HOW I LOOK \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5JeRMplL0U8IWbC3ZTaxLX) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 1:58 | 2024-10-11 | 2024-10-26 |
+| [How The Game Go](https://open.spotify.com/track/5EjrqJ7xSEmxDDV7C9Eata) | [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [How The Game Go](https://open.spotify.com/album/4S3Im6hAc21J1IvLjVzTLr) | 2:01 | 2024-11-08 |  |
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2022-01-08 | 2022-04-23 |
 | [I <3 My N\*\*\*a](https://open.spotify.com/track/1CYqi8NwMa9BsD65hQuMci) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [I <3 My N\*\*\*a](https://open.spotify.com/album/5hRRLQ9KdFuPxfgq41jXel) | 2:32 | 2023-08-21 | 2023-09-23 |
 | [I Admit It](https://open.spotify.com/track/1maxWYnkqlo64OVdtkPZQn) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [I Admit It](https://open.spotify.com/album/0qS3rNh4aSrYtU9Kibqqet) | 2:22 | 2022-11-11 | 2023-03-25 |
@@ -494,7 +495,7 @@
 | [Shutcho \(feat\. The Joy\)](https://open.spotify.com/track/6AZLjrFI5qh6IsMHzvyrIi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Scarlet 2 CLAUDE](https://open.spotify.com/album/5ho4S2bnJJdF0uwT8YiQsw) | 4:30 | 2024-05-17 | 2024-06-01 |
 | [Sideways](https://open.spotify.com/track/5FwhprNsUarRkLXqBE8tK8) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Sideways](https://open.spotify.com/album/5epUQc2VXbfbSuzjWHWyjQ) | 2:04 | 2024-02-02 | 2024-06-29 |
 | [Sike \(feat\. Queendom Come\)](https://open.spotify.com/track/0yfBE11LMkFcyfEEjG0gQB) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4), [Queendom Come](https://open.spotify.com/artist/0tFnayGz6sZxgRf1YS5VmI) | [THE LIZ 2](https://open.spotify.com/album/1dqLryXYQroTAyTfGfb6F0) | 2:53 | 2022-10-21 | 2022-11-19 |
-| [Sinner](https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Sinner](https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU) | 3:03 | 2024-10-11 |  |
+| [Sinner](https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Sinner](https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU) | 3:03 | 2024-10-11 | 2024-11-09 |
 | [SIXTEEN](https://open.spotify.com/track/1RswhD0IRNMRqo1WDpNhtl) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [SIXTEEN](https://open.spotify.com/album/24H345wgzm6udXQ6Es10VN) | 2:32 | 2023-03-03 | 2023-04-01 |
 | [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 | 2023-06-09 | 2023-12-02 |
 | [Sl\*t Him Out](https://open.spotify.com/track/03AgMO71u7FXf2SV32oP76) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 2:52 | 2022-02-18 | 2022-03-05 |

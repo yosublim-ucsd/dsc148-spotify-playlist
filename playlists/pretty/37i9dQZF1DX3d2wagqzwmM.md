@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Blasterjaxx & Timmy Trumpet
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,481 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,803 likes - 80 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 77 | [Rave](https://open.spotify.com/track/3lILyitCtmjMkETndYeukU) | [Aurelios](https://open.spotify.com/artist/3hYxIpjaE52Bn3EZ8hDSxa), [Funk D](https://open.spotify.com/artist/7hNmGpSTmHpCWP377St0bk) | [Revealed Recordings presents ADE Sampler 2024](https://open.spotify.com/album/3LiwLvDPjDYg9qw4j23zn0) | 2:10 |
 | 78 | [Our House](https://open.spotify.com/track/4OIZob7JDiTYBh5GZCKUgH) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Our House](https://open.spotify.com/album/5OwBxi1qtoiCQZnBd9jkCs) | 3:12 |
 | 79 | [Welcome To The Weekend](https://open.spotify.com/track/16TlP5h8EAcM3umJfAV5jT) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [Welcome To The Weekend](https://open.spotify.com/album/1ySr3refuNS1FVvYTxwIO9) | 2:54 |
-| 80 | [Viking's Call](https://open.spotify.com/track/3S3dgnsXeYoAeP2hmYRmzU) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Viking's Call](https://open.spotify.com/album/5u0FU98Bk1EX4cfXH6h8Gu) | 3:41 |
+| 80 | [Aria](https://open.spotify.com/track/48FWcTAUppLh7yPkkkKtJK) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Aria](https://open.spotify.com/album/7CRPqwHZ8H8264OBRhUAEy) | 2:44 |
 
 Snapshot ID: `Zy1GcAAAAAAFtwf6o4g8vKlJpefjph+Z`

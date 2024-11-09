@@ -4571,6 +4571,28 @@
     },
     {
       "album": {
+        "name": "Ronin",
+        "url": "https://open.spotify.com/album/1g7i1JwbtgmFPbYq8091vz"
+      },
+      "artists": [
+        {
+          "name": "Lobo Estepario",
+          "url": "https://open.spotify.com/artist/3mqPl8mavq0P24IIbbgYnI"
+        },
+        {
+          "name": "Pech Beef",
+          "url": "https://open.spotify.com/artist/7wJ1mS4ZV1OiBhHE06Dbq6"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179367,
+      "name": "Fake Flows",
+      "url": "https://open.spotify.com/track/1EbNU6pC2uVNFSx3vaRlYa"
+    },
+    {
+      "album": {
         "name": "Fe",
         "url": "https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP"
       },
@@ -4612,6 +4634,24 @@
       "duration_ms": 194100,
       "name": "Feria en el Sobre",
       "url": "https://open.spotify.com/track/5npAbr2v6wRL75IHWp2Noi"
+    },
+    {
+      "album": {
+        "name": "FISG\u00d3N",
+        "url": "https://open.spotify.com/album/2oum3uiNJMHA1zKRpgbhlM"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184948,
+      "name": "FISG\u00d3N",
+      "url": "https://open.spotify.com/track/7uzY1pb6g0xJSIAd8Hps9D"
     },
     {
       "album": {
@@ -5802,7 +5842,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 207843,
       "name": "La Calle de la Amargura",
       "url": "https://open.spotify.com/track/1Bxw4awfHwKbYbdOv2X8pd"
@@ -6078,7 +6118,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 293325,
       "name": "La Misi\u00f3n (Episodio 4)",
       "url": "https://open.spotify.com/track/3TAzpSBGCZvFe3XuHevWoW"
@@ -7784,7 +7824,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 151755,
       "name": "Miss Diablo",
       "url": "https://open.spotify.com/track/0Hurh6a4KCZ7MuCPgYIwP8"
@@ -8980,6 +9020,24 @@
       "duration_ms": 235140,
       "name": "Pecadores",
       "url": "https://open.spotify.com/track/4cFYUfJV8SWacdsQaxhrTo"
+    },
+    {
+      "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/607jKfiVK9YiIFPNdYRTDB"
+      },
+      "artists": [
+        {
+          "name": "Sauceda SM",
+          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Peligro",
+      "url": "https://open.spotify.com/track/2Prv9miT3gsQNty90Sy2k0"
     },
     {
       "album": {

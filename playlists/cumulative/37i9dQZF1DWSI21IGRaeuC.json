@@ -2115,6 +2115,24 @@
     },
     {
       "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/0fjUU58wr2qCeR7FaamUhY"
+      },
+      "artists": [
+        {
+          "name": "Cole Knight",
+          "url": "https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204710,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/46NW8BuqZoSoEAWpCU7JQB"
+    },
+    {
+      "album": {
         "name": "FREAK IN THE SHEETS",
         "url": "https://open.spotify.com/album/3PMAjP3YdPhzk30gWIVEWi"
       },
@@ -2452,7 +2470,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 219534,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/4QRHDjBu4J6LBHmMriV12P"
@@ -4163,6 +4181,24 @@
     },
     {
       "album": {
+        "name": "Misleading",
+        "url": "https://open.spotify.com/album/4a47UgngMFU3wHG12oPQN5"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187365,
+      "name": "Misleading",
+      "url": "https://open.spotify.com/track/6yozk84rHLypCWk50d5mTE"
+    },
+    {
+      "album": {
         "name": "Miss B",
         "url": "https://open.spotify.com/album/0v8hyn2w4hBJ3nAy7zDQ5w"
       },
@@ -5772,7 +5808,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 199384,
       "name": "Seeder",
       "url": "https://open.spotify.com/track/4f6daDw6qcTuk2VFFDIltN"

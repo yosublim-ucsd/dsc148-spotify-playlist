@@ -1,12 +1,12 @@
 {
   "description": "This is Guns N' Roses. The essential tracks, all in one playlist.",
-  "num_followers": 1493231,
+  "num_followers": 1493383,
   "original_name": "This Is Guns N' Roses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyqxgAAAAACyByIPop1Dzy93qoLjrpnM",
+  "snapshot_id": "ZywDAAAAAAAcAQ33HbBiwzDbpcz0cpJR",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Appetite For Destruction (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
+        "name": "The Spaghetti Incident?",
+        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 192666,
-      "name": "Used To Love Her",
-      "url": "https://open.spotify.com/track/67q0QsfLcTa2SqhP2wQbia"
+      "duration_ms": 259906,
+      "name": "Since I Don't Have You",
+      "url": "https://open.spotify.com/track/5sVf9kN90ScddiT3SdT9Qh"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Spaghetti Incident?",
-        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
+        "name": "Appetite For Destruction (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 259906,
-      "name": "Since I Don't Have You",
-      "url": "https://open.spotify.com/track/5sVf9kN90ScddiT3SdT9Qh"
+      "duration_ms": 192666,
+      "name": "Used To Love Her",
+      "url": "https://open.spotify.com/track/67q0QsfLcTa2SqhP2wQbia"
     },
     {
       "added_at": null,

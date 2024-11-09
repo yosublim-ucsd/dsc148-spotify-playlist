@@ -1,6 +1,6 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 378966,
+  "num_followers": 378983,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "Down Every Road 1962-1994",
-        "url": "https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 164106,
-      "name": "Okie From Muskogee",
-      "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
         "name": "Flowers On The Wall: The Essential Statler Brothers 1964-1969",
         "url": "https://open.spotify.com/album/0OrV6t1YYdWXmiOD4ot2iD"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 138800,
       "name": "Flowers On the Wall",
       "url": "https://open.spotify.com/track/7ledv9CTjqdwnvHgRmETyZ"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
+        "name": "Down Every Road 1962-1994",
+        "url": "https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "Okie From Muskogee",
+      "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
-      },
-      "artists": [
-        {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
-        }
-      ],
-      "duration_ms": 196400,
-      "name": "Me And Bobby McGee",
-      "url": "https://open.spotify.com/track/3i5bJFIAkgoZqJoRAQqAKO"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
         "name": "The Essential Don Gibson",
         "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 151773,
       "name": "Sea of Heartbreak",
       "url": "https://open.spotify.com/track/5M7otrtSBGd61OqS99RWm0"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
+      },
+      "artists": [
+        {
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+        }
+      ],
+      "duration_ms": 196400,
+      "name": "Me And Bobby McGee",
+      "url": "https://open.spotify.com/track/3i5bJFIAkgoZqJoRAQqAKO"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "The Essential Porter Wagoner",
-        "url": "https://open.spotify.com/album/1OIGVkIdVSz2t0vIYnuA7S"
+        "name": "Right Or Wrong",
+        "url": "https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX"
       },
       "artists": [
         {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+          "name": "Wanda Jackson",
+          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
         }
       ],
-      "duration_ms": 169200,
-      "name": "The Carroll County Accident",
-      "url": "https://open.spotify.com/track/5b3Bvd2m81gEQRWrShNkx2"
+      "duration_ms": 136293,
+      "name": "Stupid Cupid",
+      "url": "https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -775,18 +775,18 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "Right Or Wrong",
-        "url": "https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX"
+        "name": "The Essential Porter Wagoner",
+        "url": "https://open.spotify.com/album/1OIGVkIdVSz2t0vIYnuA7S"
       },
       "artists": [
         {
-          "name": "Wanda Jackson",
-          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
         }
       ],
-      "duration_ms": 136293,
-      "name": "Stupid Cupid",
-      "url": "https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl"
+      "duration_ms": 169200,
+      "name": "The Carroll County Accident",
+      "url": "https://open.spotify.com/track/5b3Bvd2m81gEQRWrShNkx2"
     },
     {
       "added_at": "2024-07-05 21:22:46",

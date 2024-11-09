@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Patrick Watson, November Ultra",
+  "description": "A laid-back trip in the folk scene. Cover: Zach Bryan",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -322,7 +322,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 345765,
       "name": "Aey Nehin",
       "url": "https://open.spotify.com/track/7xFvweaPGFCrpQGqsSVKnk"
@@ -1552,7 +1552,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 212466,
       "name": "Better Days (feat. John Mayer)",
       "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
@@ -5306,7 +5306,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 195000,
       "name": "Feu de paille",
       "url": "https://open.spotify.com/track/59i1gjr6bOdrdKF3eP2LWe"
@@ -9105,6 +9105,24 @@
     },
     {
       "album": {
+        "name": "Aliocha Schneider (Deluxe)",
+        "url": "https://open.spotify.com/album/7zI1sbxIUXolMmJMRt37OZ"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "La Chambre",
+      "url": "https://open.spotify.com/track/7Km4PvGzWrjEE1p5etb2h7"
+    },
+    {
+      "album": {
         "name": "labour",
         "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
       },
@@ -12658,6 +12676,24 @@
       "duration_ms": 229504,
       "name": "Pools",
       "url": "https://open.spotify.com/track/1A98z5gHfk228AzC6YGDbc"
+    },
+    {
+      "album": {
+        "name": "Portland",
+        "url": "https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf"
+      },
+      "artists": [
+        {
+          "name": "Rhys",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172872,
+      "name": "Portland",
+      "url": "https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB"
     },
     {
       "album": {
@@ -16314,6 +16350,24 @@
       "duration_ms": 127058,
       "name": "this town is a little less mine",
       "url": "https://open.spotify.com/track/4NtxiZ0LM2IWZecXKhY4MK"
+    },
+    {
+      "album": {
+        "name": "This World's A Giant",
+        "url": "https://open.spotify.com/album/1g6H1fp7COGdwnYGfLEG2D"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216160,
+      "name": "This World's A Giant",
+      "url": "https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8"
     },
     {
       "album": {

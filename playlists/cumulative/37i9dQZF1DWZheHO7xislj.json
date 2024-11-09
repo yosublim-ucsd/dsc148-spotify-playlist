@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "45",
+        "url": "https://open.spotify.com/album/7BAwI46JKFpaoFYXa5ay3P"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dybdahl",
+          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183275,
+      "name": "45",
+      "url": "https://open.spotify.com/track/7f6wpGdjJVwNZaQTw90DYG"
+    },
+    {
+      "album": {
         "name": "The Best Of Gwen McCrae",
         "url": "https://open.spotify.com/album/5lQbk0FmNLk0JpP8JPz0Hq"
       },
@@ -178,7 +196,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 191160,
       "name": "A Change Is Gonna Come",
       "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
@@ -882,7 +900,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-01",
+      "date_removed": null,
       "duration_ms": 183560,
       "name": "Beware",
       "url": "https://open.spotify.com/track/3M0OsLCcAqbVl9obHq2UxO"
@@ -8198,7 +8216,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 228173,
       "name": "What's Going On",
       "url": "https://open.spotify.com/track/0IUTOvJZ6brXtvMZWipush"

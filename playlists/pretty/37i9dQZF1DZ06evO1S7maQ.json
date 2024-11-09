@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 631645,
+  "num_followers": 631711,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyqxgAAAAACeGresG7KUDwpLXrCltOaC",
+  "snapshot_id": "ZywDAAAAAACsCMWNeWj0nProho/N1jw4",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 236653,
+      "name": "Atlantic City",
+      "url": "https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Rising",
         "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 177733,
       "name": "If I Should Fall Behind",
       "url": "https://open.spotify.com/track/2mOGLiSTUeki1l9t1BBNRQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nebraska",
-        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 236653,
-      "name": "Atlantic City",
-      "url": "https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12"
     },
     {
       "added_at": null,
@@ -695,22 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "She Don't Love Me Now",
-        "url": "https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn"
+        "name": "Letter To You",
+        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
       },
       "artists": [
-        {
-          "name": "Jesse Malin",
-          "url": "https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls"
-        },
         {
           "name": "Bruce Springsteen",
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 207160,
-      "name": "She Don't Love Me Now",
-      "url": "https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R"
+      "duration_ms": 245840,
+      "name": "Last Man Standing",
+      "url": "https://open.spotify.com/track/1LQDe2LxhReHitq7sdgLcN"
     },
     {
       "added_at": null,
@@ -731,18 +727,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Letter To You",
-        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
+        "name": "She Don't Love Me Now",
+        "url": "https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn"
       },
       "artists": [
+        {
+          "name": "Jesse Malin",
+          "url": "https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls"
+        },
         {
           "name": "Bruce Springsteen",
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 245840,
-      "name": "Last Man Standing",
-      "url": "https://open.spotify.com/track/1LQDe2LxhReHitq7sdgLcN"
+      "duration_ms": 207160,
+      "name": "She Don't Love Me Now",
+      "url": "https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R"
     },
     {
       "added_at": null,

@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 390572,
       "name": "Humelela",
       "url": "https://open.spotify.com/track/5QfxioU6IeNNBlGof94u4T"
@@ -4528,6 +4528,32 @@
       "duration_ms": 208000,
       "name": "Spell-Dial",
       "url": "https://open.spotify.com/track/4M3FV9igDRJPm062z10edS"
+    },
+    {
+      "album": {
+        "name": "Spheres",
+        "url": "https://open.spotify.com/album/2I8Mjgw47gc9gBWLZQcOly"
+      },
+      "artists": [
+        {
+          "name": "Shane Cooper",
+          "url": "https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ"
+        },
+        {
+          "name": "Bokani Dyer",
+          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
+        },
+        {
+          "name": "Outeniqua",
+          "url": "https://open.spotify.com/artist/3wKzi1cig0h6Vmxw0PJsml"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230431,
+      "name": "Spheres",
+      "url": "https://open.spotify.com/track/7bYXCCtVFwaiRyoUP1uD3n"
     },
     {
       "album": {

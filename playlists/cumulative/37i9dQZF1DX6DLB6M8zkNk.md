@@ -4,7 +4,7 @@
 
 > POV: you're the main character in a romance novel.
 
-77 songs - 4 hr 41 min
+80 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,9 @@
 | [I Waited for You](https://open.spotify.com/track/3sVFj8qVKJAFgZvD77xsau) | [Aaron Zigman](https://open.spotify.com/artist/74M3iphMpn1MA2YUe2Iigb) | [The Best of Me \(Original Motion Picture Score\)](https://open.spotify.com/album/2TRHx1axpzpqApnQgS8TU1) | 1:30 | 2022-02-14 |  |
 | [ICARUS](https://open.spotify.com/track/7aTuZWl7qYNYBAHDOurXOx) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [AWAKENING](https://open.spotify.com/album/0mdrZ04JRhto7XX1HYmCwU) | 3:19 | 2024-02-01 |  |
 | [Into The Sea](https://open.spotify.com/track/6gywoZQXz6atqEGt7hponB) | [Stuart Earl](https://open.spotify.com/artist/54T53xiM58rmjU9dbA2Lu8) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv) | 1:39 | 2024-09-06 |  |
+| [Jasmine](https://open.spotify.com/track/5rbbq5uwbmTFeyVWUjIZaX) | [Julian Lloyd Webber](https://open.spotify.com/artist/1U4pv151m4SgVMg8fXROYp), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Jasmine](https://open.spotify.com/album/4tVjwFeG1tOas8WmMqZjxP) | 2:39 | 2024-11-08 |  |
 | [Kiss the Rain](https://open.spotify.com/track/0fwAkzz0qALiz4QnQKC7pN) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s) | [Kiss the Rain](https://open.spotify.com/album/4BjtKMRsRy69raeSHuhb8X) | 4:24 | 2024-02-09 |  |
+| [La fille aux cheveux de lin](https://open.spotify.com/track/2McoMylVClF4w6HQOUnFrD) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jeneba Kanneh\-Mason](https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ) | [La fille aux cheveux de lin](https://open.spotify.com/album/1ZjcrrdQb3pvhCAqWh62vy) | 2:39 | 2024-11-08 |  |
 | [leaves and trees](https://open.spotify.com/track/17Cv0iBOjWabaeLqAMAxQf) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/5t97v94T6a45YYBBQ7I21a) | 5:57 | 2022-02-14 |  |
 | [leaves and trees](https://open.spotify.com/track/4fm8QxhBYRmmxU3Kp1pi3p) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/4yhyBrxpfFUjazK1rVgzzO) | 5:57 | 2022-07-04 | 2024-04-19 |
 | [leaves and trees](https://open.spotify.com/track/7zFGjpozrCWREmakIErLxx) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [leaves and trees](https://open.spotify.com/album/7F3CyaNx0b18PxiajqfyjS) | 5:58 | 2022-10-07 | 2022-11-13 |
@@ -48,6 +50,7 @@
 | [Movement, Before All Flowers \- Edit](https://open.spotify.com/track/0v9LuPahZH8PHN86gxRHTU) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Movement, Before All Flowers](https://open.spotify.com/album/1HrFsljwk4wUHrPPOGkSbN) | 3:39 | 2024-05-31 |  |
 | [My Father's Favourite](https://open.spotify.com/track/0LrA0EtiJsr4tDHIGw82OW) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ), [Tony Hymas](https://open.spotify.com/artist/6A479xP05787vKnE5MtLSG), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [Sense & Sensibility \- Original Motion Picture Soundtrack](https://open.spotify.com/album/5cdzYLI2HbFMJsqyt028Gq) | 5:27 | 2022-02-14 |  |
 | [New Start \- From BBC Series "North & South"](https://open.spotify.com/track/50MGKn5CGI8es0itdbs851) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Aftermath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xqXGJJjt1fyaJzHnpoqF9) | 3:41 | 2022-02-14 |  |
+| [Now We Are Free \- From "Gladiator" \- Piano Version](https://open.spotify.com/track/3fC4rRqg5oLATBWmsLRl46) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [Now We Are Free \(From "Gladiator" \- Piano Version\)](https://open.spotify.com/album/4HbvuYFVhbwrCiVUMDFu0Z) | 2:45 | 2024-11-08 |  |
 | [Opening](https://open.spotify.com/track/0x1rnXl24iJl8xZFMkoyNv) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 4:39 | 2022-02-14 |  |
 | [Pavane, Op\. 50 \(Version for Piano\)](https://open.spotify.com/track/2mNQl3DEWtkrwKllwYpxi0) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Jorge Federico Osorio](https://open.spotify.com/artist/1Tt4CRnh4VCWn6UymYP057) | [The French Album](https://open.spotify.com/album/4QYFeRjBgVCv8Vrb3cK7wI) | 5:59 | 2022-02-14 |  |
 | [Peter \- Finding Neverland/Soundtrack Version](https://open.spotify.com/track/5yrUw3CtVT8BQuhsDdniW1) | [Jan A.P\. Kaczmarek](https://open.spotify.com/artist/6ajp0mepNWwjGZ9ivlqqaT), [Nick Ingman](https://open.spotify.com/artist/2fJCHSiF0CwzZ2vuYWtt2p) | [Finding Neverland](https://open.spotify.com/album/04J43Yr17N9A9uNcFVSTKx) | 2:20 | 2022-02-14 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music City must-hears. Cover: Jenna Davis",
+  "description": "Music City must-hears. Cover: Halle Kearns",
   "name": "Next From Nashville",
   "tracks": [
     {
@@ -1639,6 +1639,24 @@
     },
     {
       "album": {
+        "name": "All the Small Things",
+        "url": "https://open.spotify.com/album/0nGBaopA0BHPtyTitsv2Gu"
+      },
+      "artists": [
+        {
+          "name": "Tyler Rich",
+          "url": "https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199933,
+      "name": "All the Small Things",
+      "url": "https://open.spotify.com/track/5QF6dBZYF4zDmpDeM8qbZ4"
+    },
+    {
+      "album": {
         "name": "All The Way To Memphis",
         "url": "https://open.spotify.com/album/0J8VAVTnnlDdu4pvBwQLDZ"
       },
@@ -2984,7 +3002,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 183724,
       "name": "Backroads Of My Mind",
       "url": "https://open.spotify.com/track/2hmo0pkJbar4dSYj1hfFaj"
@@ -4164,7 +4182,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 175080,
       "name": "Better Than You Left Me",
       "url": "https://open.spotify.com/track/545YitlCTuEg7C3DU27n6H"
@@ -6834,6 +6852,24 @@
       "duration_ms": 199586,
       "name": "Chasin' a Feeling",
       "url": "https://open.spotify.com/track/1P3Ymylx917eE0uTuvPtbD"
+    },
+    {
+      "album": {
+        "name": "Flatland Forever",
+        "url": "https://open.spotify.com/album/6hsLVJIMa6eZ0eo0sEeVbg"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203793,
+      "name": "Chasing A Feeling",
+      "url": "https://open.spotify.com/track/4UJiJf6bPw5V3HLU462WFR"
     },
     {
       "album": {
@@ -11957,6 +11993,24 @@
     },
     {
       "album": {
+        "name": "Fall This Way",
+        "url": "https://open.spotify.com/album/5fezVdpvGi5luATJVA19B5"
+      },
+      "artists": [
+        {
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Fall This Way",
+      "url": "https://open.spotify.com/track/5AeR3j18cKWueAh42yKkFE"
+    },
+    {
+      "album": {
         "name": "Falling Out Of Love",
         "url": "https://open.spotify.com/album/6ZAnWDNvLToLEP1MusduC4"
       },
@@ -12134,7 +12188,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 158833,
       "name": "Father in a Bible",
       "url": "https://open.spotify.com/track/3Z4QzgjewJHpiZEk2puD4D"
@@ -12816,7 +12870,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 227322,
       "name": "Flower Tattoos",
       "url": "https://open.spotify.com/track/64M1eOWdGnNTlkF4vKUmJ5"
@@ -21837,6 +21891,24 @@
     },
     {
       "album": {
+        "name": "Just Like Me",
+        "url": "https://open.spotify.com/album/4sUU64UBqJvfwPAZSu5Nb0"
+      },
+      "artists": [
+        {
+          "name": "Mike Parker",
+          "url": "https://open.spotify.com/artist/3hzCzAwJH36Ia5R5MIaW8m"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168181,
+      "name": "Just Like Me",
+      "url": "https://open.spotify.com/track/6vappVdqiYniLQ1xUJv9zX"
+    },
+    {
+      "album": {
         "name": "Just Like Us",
         "url": "https://open.spotify.com/album/1GTIsu7qhVmm2j07hpaCnH"
       },
@@ -23180,6 +23252,24 @@
       "duration_ms": 174000,
       "name": "Let It Slide",
       "url": "https://open.spotify.com/track/070COw4EEG0Tp2jSv4NLc2"
+    },
+    {
+      "album": {
+        "name": "Let Me Feel Alone",
+        "url": "https://open.spotify.com/album/2F8C47l23tTg3OSI4R4dd8"
+      },
+      "artists": [
+        {
+          "name": "Crowe Boys",
+          "url": "https://open.spotify.com/artist/5k7X7qq43uKpB09FSYS5id"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206335,
+      "name": "Let Me Feel Alone",
+      "url": "https://open.spotify.com/track/16iKopeYMJdnND9LTbscFF"
     },
     {
       "album": {
@@ -24947,6 +25037,24 @@
     },
     {
       "album": {
+        "name": "Love You Back",
+        "url": "https://open.spotify.com/album/7rlz4vK3CQTV6MKRDJGARe"
+      },
+      "artists": [
+        {
+          "name": "Halle Kearns",
+          "url": "https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170600,
+      "name": "Love You Back",
+      "url": "https://open.spotify.com/track/5NknJEYLIjzQvoER6qLAuo"
+    },
+    {
+      "album": {
         "name": "Love You On My Mind",
         "url": "https://open.spotify.com/album/2vJXNRwoT32G0ltZruD40a"
       },
@@ -26485,6 +26593,24 @@
     },
     {
       "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
+    },
+    {
+      "album": {
         "name": "Meet My Maker",
         "url": "https://open.spotify.com/album/2gAiRQzI62xYl1qrTRh3fI"
       },
@@ -27046,6 +27172,24 @@
       "duration_ms": 199373,
       "name": "Missed the Boat",
       "url": "https://open.spotify.com/track/3DQi4r0z82AD5cQgVQYkTP"
+    },
+    {
+      "album": {
+        "name": "Missin' Me Missin' You",
+        "url": "https://open.spotify.com/album/2l4JHk7D0lEV0Re533bzMe"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160774,
+      "name": "Missin' Me Missin' You",
+      "url": "https://open.spotify.com/track/6ioFnr4tVGy4kHhyK2fOAw"
     },
     {
       "album": {
@@ -32488,6 +32632,24 @@
       "duration_ms": 195706,
       "name": "Reason For Leaving",
       "url": "https://open.spotify.com/track/2K3HTRLY0nnpoKbXDY1Nnv"
+    },
+    {
+      "album": {
+        "name": "Red Bandana",
+        "url": "https://open.spotify.com/album/6ftosjsIUxKZWrxCVEWrI0"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227492,
+      "name": "Red Bandana",
+      "url": "https://open.spotify.com/track/2VIOg87P7QCmIyYBEwEgvy"
     },
     {
       "album": {

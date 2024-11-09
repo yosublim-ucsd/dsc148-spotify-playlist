@@ -2,9 +2,9 @@
 
 ### [Folk & Friends](https://open.spotify.com/playlist/37i9dQZF1DWWv6MSZULLBi)
 
-> A laid\-back trip in the folk scene\. Cover: Patrick Watson, November Ultra
+> A laid\-back trip in the folk scene\. Cover: Zach Bryan
 
-1,002 songs - 2 day 12 hr 29 min
+1,005 songs - 2 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [A Running Start](https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [A Running Start](https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG) | 4:21 | 2023-10-06 | 2024-03-23 |
 | [Acre of Land](https://open.spotify.com/track/13IhhvCRSMREyJyAsLtDM2) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Past Dawn](https://open.spotify.com/album/61qIRfEjwnm1g80saLhf7T) | 3:59 | 2022-05-13 | 2022-10-01 |
 | [Adelina](https://open.spotify.com/track/5ybwIzlIAoHVDG3O1JyQd3) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Adelina](https://open.spotify.com/album/65habTsYwb8G5hO4wZeKxM) | 3:05 | 2024-08-09 | 2024-09-21 |
-| [Aey Nehin](https://open.spotify.com/track/7xFvweaPGFCrpQGqsSVKnk) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Night Reign](https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf) | 5:45 | 2024-05-31 |  |
+| [Aey Nehin](https://open.spotify.com/track/7xFvweaPGFCrpQGqsSVKnk) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Night Reign](https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf) | 5:45 | 2024-05-31 | 2024-11-09 |
 | [Afraid](https://open.spotify.com/track/6EWVIxPbH2i5sdzYkAvpp6) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Afraid](https://open.spotify.com/album/5XEB2cwnwp8SFSmHgql9yV) | 4:04 | 2024-05-03 | 2024-06-22 |
 | [After a While](https://open.spotify.com/track/0JYGgU278Yz2b3jx0Pzobq) | [Michael Bernard Fitzgerald](https://open.spotify.com/artist/7qugSH6OA23DE6I5v4kpdv) | [After a While](https://open.spotify.com/album/7l49o80bqAzmIiZDmC6psZ) | 3:04 | 2024-05-17 | 2024-06-01 |
 | [After All This Time](https://open.spotify.com/track/6pHL3CLFfkXqYGJZBk4l2c) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [After All This Time](https://open.spotify.com/album/3noFWYo0GT5o7RbsVPo9az) | 2:50 | 2023-02-03 | 2023-03-11 |
@@ -92,7 +92,7 @@
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-03-15 | 2024-06-29 |
 | [Better](https://open.spotify.com/track/0JHKOlL6X1BG2nigAlfI45) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Better](https://open.spotify.com/album/0lEAuFnxxO1j2umUmgrz5h) | 2:35 | 2022-09-02 | 2023-04-01 |
 | [Better Days](https://open.spotify.com/track/1uMazr2OwFSC4SHqfkoY7h) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [If This Is The End](https://open.spotify.com/album/0PnDs1aZvcco3PihWmrQ9n) | 6:02 | 2023-09-08 | 2024-02-03 |
-| [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 | 2024-07-05 |  |
+| [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 | 2024-07-05 | 2024-11-09 |
 | [Better Part of Me](https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Better Part of Me](https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw) | 3:46 | 2022-11-25 | 2023-01-06 |
 | [Better Somehow](https://open.spotify.com/track/2XOiVanXYsxeYy9eYtb9nX) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Better Somehow](https://open.spotify.com/album/2PB1n9ej3Ib53qDVmVpeXT) | 3:58 | 2023-06-02 | 2023-07-08 |
 | [Bird Without Wings](https://open.spotify.com/track/04anQtHIm8VdSINRrpijHq) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Rarities](https://open.spotify.com/album/7dHICPrlwTqefBtmCIkwpv) | 4:01 | 2022-11-25 | 2022-12-10 |
@@ -293,7 +293,7 @@
 | [Feel This Way Too](https://open.spotify.com/track/3RO7i5x4x7iPsm0o1AKzBU) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Feel This Way Too](https://open.spotify.com/album/21gSKSi1yQ1dSXDembzlpe) | 4:32 | 2023-08-25 | 2023-10-14 |
 | [Feel This Way Too](https://open.spotify.com/track/4pjo6uHUuP2FgoBfphagOd) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Reasons Why](https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh) | 4:32 | 2023-10-13 | 2024-01-27 |
 | [fetishizing struggle](https://open.spotify.com/track/24cn0KF3x38uSQ9NOMSuPQ) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [fetishizing struggle](https://open.spotify.com/album/4eTyK0eoBFOF86ItFBKCtV) | 2:55 | 2022-05-13 | 2022-06-04 |
-| [Feu de paille](https://open.spotify.com/track/59i1gjr6bOdrdKF3eP2LWe) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Feu de paille](https://open.spotify.com/album/6WiPXlkyl9kTvlG37IMCM6) | 3:15 | 2024-10-11 |  |
+| [Feu de paille](https://open.spotify.com/track/59i1gjr6bOdrdKF3eP2LWe) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Feu de paille](https://open.spotify.com/album/6WiPXlkyl9kTvlG37IMCM6) | 3:15 | 2024-10-11 | 2024-11-09 |
 | [Fever Dreaming](https://open.spotify.com/track/6GDerqtqIkEDw42eThPpin) | [Madeleine Roger](https://open.spotify.com/artist/4ByHOwI0KSWMjrb4Wz5zvw) | [Fever Dreaming](https://open.spotify.com/album/2Y8eVdsHGpTfnutRepl81f) | 3:26 | 2024-07-26 | 2024-09-21 |
 | [Find My Way To You](https://open.spotify.com/track/1uTWuhwyZVLHxrBwn732FN) | [Daniel James McFadyen](https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9), [Darragh Jessome](https://open.spotify.com/artist/7LigDCKoNF0Kj04CEjy7MR) | [Find My Way To You](https://open.spotify.com/album/3zy6kw77C553MbA4EUO6JA) | 2:58 | 2023-08-11 | 2024-01-20 |
 | [Fireball Whiskey](https://open.spotify.com/track/4G2EXo1ZY5ql0XcViRrXF6) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Fireball Whiskey](https://open.spotify.com/album/54He2QNHwh79iYkkgAfQTO) | 3:29 | 2023-08-25 | 2023-10-28 |
@@ -498,6 +498,7 @@
 | [Knock The Wind](https://open.spotify.com/track/72elIQIbmE6rLBvXXsknK5) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Dizzy](https://open.spotify.com/album/18B8EjYaDsWbukaC6dXyvc) | 2:45 | 2023-08-18 | 2023-11-11 |
 | [Know the Night](https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Know the Night](https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm) | 3:10 | 2023-11-24 | 2024-04-19 |
 | [Knowing U Exist](https://open.spotify.com/track/2d8kfISfGgiksl9Bl8kEXH) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Knowing U Exist](https://open.spotify.com/album/50e9zfmHABJ6zaAK8HcIZm) | 2:23 | 2024-03-15 | 2024-07-27 |
+| [La Chambre](https://open.spotify.com/track/7Km4PvGzWrjEE1p5etb2h7) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/7zI1sbxIUXolMmJMRt37OZ) | 2:06 | 2024-11-08 |  |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-03-24 | 2023-07-01 |
 | [lagunas](https://open.spotify.com/track/4lB3bD59ItctK9ii4Thy3y) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [lagunas](https://open.spotify.com/album/1pCNxr8UOeAaWuJ67ZFsfx) | 3:39 | 2023-12-22 | 2024-04-06 |
 | [last woman on earth](https://open.spotify.com/track/79UlPlMXGqCHfxDUJ4dPB2) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 4:19 | 2024-08-30 |  |
@@ -692,6 +693,7 @@
 | [Pocket Full of Rain](https://open.spotify.com/track/4eUnqT2pBqi6t2PHy3l3R2) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 3:50 | 2023-09-01 | 2024-01-27 |
 | [Pools](https://open.spotify.com/track/10InixTBQl9PbBSpcWw3bL) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [Pools](https://open.spotify.com/album/5CfxWwzHgJCjGhxweCDeNn) | 3:49 | 2022-09-09 | 2022-10-14 |
 | [Pools](https://open.spotify.com/track/1A98z5gHfk228AzC6YGDbc) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [Pools](https://open.spotify.com/album/1clKYzpwHKlkkq4pBu6IFK) | 3:49 | 2022-10-07 | 2022-11-19 |
+| [Portland](https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Portland](https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf) | 2:52 | 2024-11-08 |  |
 | [Praying For Something Good](https://open.spotify.com/track/5qpDDtkdATvsChnQPpi3iP) | [Jay Feelbender](https://open.spotify.com/artist/0Ty4IlR2mjFlt3dBdvlHlI) | [Praying For Something Good](https://open.spotify.com/album/3CmPQyoofzPXClBqCVVMzo) | 2:25 | 2023-05-19 | 2023-06-24 |
 | [Problem Child](https://open.spotify.com/track/6EFCZDhBYd12DBzvrJZXMl) | [Shirley Hurt](https://open.spotify.com/artist/0yVyy0jaHPJex2snbCJj0B) | [Problem Child](https://open.spotify.com/album/7LNrFvPGv94exp02DZ14kC) | 3:42 | 2022-10-07 | 2022-12-03 |
 | [Provincetown](https://open.spotify.com/track/5i9Ir9R83xVrIh5PNYmDl8) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 4:10 | 2022-05-13 | 2022-09-10 |
@@ -890,6 +892,7 @@
 | [This Is How We Move](https://open.spotify.com/track/0EPvfQyCSDzywcFOF9H6Gt) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [This Is How We Move](https://open.spotify.com/album/2RaeZMQcqgAxuGEhVdSstZ) | 3:06 | 2023-01-20 | 2023-03-11 |
 | [This Thread Is a Green Street](https://open.spotify.com/track/2xLcz4DvDu1fkcVMxU95JS) | [The Innocence Mission](https://open.spotify.com/artist/4VcTmgGKGuJn56Ac2zNhiH) | [This Thread Is a Green Street](https://open.spotify.com/album/5AyGGS1u38DRV0lM403nfJ) | 3:46 | 2024-09-13 |  |
 | [this town is a little less mine](https://open.spotify.com/track/4NtxiZ0LM2IWZecXKhY4MK) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [this town is a little less mine](https://open.spotify.com/album/7Gr5p3X05a1cnlX5UI8oIT) | 2:07 | 2022-09-02 | 2023-03-18 |
+| [This World's A Giant](https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [This World's A Giant](https://open.spotify.com/album/1g6H1fp7COGdwnYGfLEG2D) | 3:36 | 2024-11-08 |  |
 | [Through It All](https://open.spotify.com/track/4JaI6sVVEujyLZ1fbS9iGE) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936) | [Through It All](https://open.spotify.com/album/4WaiXDtlc3rQcLMmpUG4QC) | 4:14 | 2024-06-21 |  |
 | [Thunderhead](https://open.spotify.com/track/3woo6ubZdBV8T1bnGJo88Z) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Thunderhead](https://open.spotify.com/album/48gkRDpI0se4nXmqxjT4Kp) | 4:33 | 2023-02-24 | 2023-05-06 |
 | [Thérèse](https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Thérèse](https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT) | 3:27 | 2022-07-22 | 2023-03-04 |

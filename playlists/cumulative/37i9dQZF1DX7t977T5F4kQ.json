@@ -968,7 +968,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 274800,
       "name": "Auntie Ama",
       "url": "https://open.spotify.com/track/4Kt1qclcbspAr5ENFhBcPR"
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 130608,
       "name": "Blacklist (feat. Olivetheboy & M.I.K)",
       "url": "https://open.spotify.com/track/7pArOCRhx7l9CkNvXO9Kuc"
@@ -3010,7 +3010,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 200689,
       "name": "Fiona (feat. Lasmid) - Remix",
       "url": "https://open.spotify.com/track/6lcbqARFc6XYGYkHfRUrwo"
@@ -3605,6 +3605,24 @@
     },
     {
       "album": {
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/55aVLKNu4SXkHLgiEFBUAb"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204611,
+      "name": "HEAT",
+      "url": "https://open.spotify.com/track/2y2624vyJUEGPI7Z7ID9mE"
+    },
+    {
+      "album": {
         "name": "HELLO (INDABA)",
         "url": "https://open.spotify.com/album/7zRsheLhd0omAZFSl6PqFY"
       },
@@ -3778,6 +3796,24 @@
       "duration_ms": 216946,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/6FHrYFvLQF44jPGnCbY5kS"
+    },
+    {
+      "album": {
+        "name": "I Am Aware",
+        "url": "https://open.spotify.com/album/2bop6myDfaClJxDnisq1xM"
+      },
+      "artists": [
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "I Am Aware",
+      "url": "https://open.spotify.com/track/1ccMiMKN9IuomcCgoq1awJ"
     },
     {
       "album": {
@@ -6893,6 +6929,28 @@
     },
     {
       "album": {
+        "name": "Rugged 2.0 (with Olivetheboy)",
+        "url": "https://open.spotify.com/album/0YLqst6MXpMNNyVtZKJPQb"
+      },
+      "artists": [
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148909,
+      "name": "Rugged 2.0 (with Olivetheboy)",
+      "url": "https://open.spotify.com/track/5Tw21JAJVcNkpMtQd8cB5r"
+    },
+    {
+      "album": {
         "name": "5th Dimension",
         "url": "https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4"
       },
@@ -7984,6 +8042,24 @@
       "duration_ms": 148672,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/4F1qhy14MdQoYcgrJUGt3a"
+    },
+    {
+      "album": {
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/7mQQiuo6jLbmE3aZeSaXaR"
+      },
+      "artists": [
+        {
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194181,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh"
     },
     {
       "album": {

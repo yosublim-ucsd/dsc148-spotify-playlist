@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Griff
 
-528 songs - 1 day 2 hr 46 min
+529 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Look Mom I Can Fly](https://open.spotify.com/track/1yMwQ6ELSs25SrByyhrUP4) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Look Mom I Can Fly](https://open.spotify.com/album/0o3f7b60eTbTl45rnpXSO8) | 2:39 | 2024-10-03 | 2024-11-01 |
 | [Look Who's Laughing Now](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Look Who's Laughing Now](https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3) | 2:54 | 2024-06-28 | 2024-07-12 |
 | [Lotus Eater](https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Lotus Eater](https://open.spotify.com/album/494g1fkelfoloDvUuqdAED) | 3:51 | 2024-10-03 | 2024-10-25 |
+| [Love Me](https://open.spotify.com/track/1sk5k0JRthaPJXBVxAK1fE) | [Levent Geiger](https://open.spotify.com/artist/7JSBgXyCDzX24iZCHJofIG) | [Love Me](https://open.spotify.com/album/66jmQLa1ALLwEfp9axy0dk) | 2:20 | 2024-11-08 |  |
 | [Love Me Better](https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Love Me Better](https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H) | 2:13 | 2024-08-15 | 2024-09-13 |
 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 | 2024-10-17 |  |
 | [Love You Right](https://open.spotify.com/track/3XUsGyO1emW5HizPPRoKnP) | [Chanin](https://open.spotify.com/artist/4FRgokXij5IuiufM05094s) | [Love You Right](https://open.spotify.com/album/6tlFJwOsoSMQ4bfdDprw3y) | 2:39 | 2024-08-08 | 2024-09-06 |

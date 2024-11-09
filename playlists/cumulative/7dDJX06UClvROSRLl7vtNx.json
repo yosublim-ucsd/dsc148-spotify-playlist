@@ -2483,6 +2483,36 @@
     },
     {
       "album": {
+        "name": "Defender",
+        "url": "https://open.spotify.com/album/5z0CQijrCQkI9ze10dxlrg"
+      },
+      "artists": [
+        {
+          "name": "\u00c6j",
+          "url": "https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41"
+        },
+        {
+          "name": "Abraham Colona",
+          "url": "https://open.spotify.com/artist/1SC74Ya2mEkFoUzpr8hIev"
+        },
+        {
+          "name": "Corey Angel",
+          "url": "https://open.spotify.com/artist/6ZIOb4jMYb5YeQq9pWhuJx"
+        },
+        {
+          "name": "Eirik N\u00e6ss",
+          "url": "https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144959,
+      "name": "Defender",
+      "url": "https://open.spotify.com/track/0aEGr7B1y5OVGdIXxQVnMS"
+    },
+    {
+      "album": {
         "name": "Diamond",
         "url": "https://open.spotify.com/album/3erd0qo4WEOBvDmsltDaPz"
       },
@@ -12746,6 +12776,24 @@
       "duration_ms": 136800,
       "name": "Vision",
       "url": "https://open.spotify.com/track/1IW0NLlWr9y9UmwovDkusx"
+    },
+    {
+      "album": {
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/5XFXTv8s2KTfLMGUmIK1ef"
+      },
+      "artists": [
+        {
+          "name": "\u00d8dyssey",
+          "url": "https://open.spotify.com/artist/6qLB9SoM25z2JDFBcgvJ8G"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165224,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/2zctpVRHCcEcSjh9RpASl4"
     },
     {
       "album": {

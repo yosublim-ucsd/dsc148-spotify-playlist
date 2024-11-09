@@ -4,7 +4,7 @@
 
 > Endelig fredag og masse ny musikk! 🎵
 
-3,026 songs - 6 day 13 hr 16 min
+3,028 songs - 6 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -950,6 +950,7 @@
 | [Freestyler \(Rock The Microphone\)](https://open.spotify.com/track/5Axl2Rjg3wOC3JHju1Gess) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bomfunk MC's](https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS) | [Freestyler \(Rock The Microphone\)](https://open.spotify.com/album/3hO7kTl82pnO2bhc4TFICc) | 2:54 | 2024-09-19 | 2024-09-27 |
 | [Frels oss](https://open.spotify.com/track/6j8QPKJrxYBakuGrmbuPit) | [Sie Gubba](https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6) | [Frels oss](https://open.spotify.com/album/2ZPPZNR1JVaiaF6ZCLojR9) | 3:20 | 2024-05-09 | 2024-05-17 |
 | [Fremtiden Min](https://open.spotify.com/track/340RW8mhl2aEcN5TdZ9A4J) | [GVS](https://open.spotify.com/artist/5YBmrH6m3u35atql4Xtfe8) | [Fremtiden Min](https://open.spotify.com/album/1DuUMuvyJXrL5Y9ADhH2O8) | 3:26 | 2024-08-15 | 2024-08-23 |
+| [French Tips \(feat\. Coco Jones\)](https://open.spotify.com/track/3pPlFiN3TLqHd5uXnRr4Cv) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [DAROLD](https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0) | 3:06 | 2024-11-08 |  |
 | [FREYJA](https://open.spotify.com/track/3vuMoXoJPEUkFMOPYni3UB) | [BABYLUCIFA](https://open.spotify.com/artist/6Xa9I7nKRo9ZjU65jG55k4), [WERTAN](https://open.spotify.com/artist/0N6OLliY38oLWMDiuiUUXh) | [FREYJA](https://open.spotify.com/album/29pgQzCyIMyGiHhh2sybFD) | 2:18 | 2024-08-22 | 2024-08-30 |
 | [FRIDA ELLER IDA?](https://open.spotify.com/track/5BOAagKbXNYEbTiObXfnA2) | [FISKERN](https://open.spotify.com/artist/5XUjkAYySdCwhURGYY4edG) | [FRIDA ELLER IDA?](https://open.spotify.com/album/5pesP3JM2JsXNYkyDmjxnx) | 2:11 | 2024-08-09 | 2024-08-16 |
 | [Friday](https://open.spotify.com/track/03bOA3BAjZiqJOGyFmWYFz) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Friday](https://open.spotify.com/album/7syOKNR2x90o9MzqJI91hQ) | 3:28 | 2024-04-26 | 2024-05-03 |
@@ -1145,7 +1146,7 @@
 | [Heaven](https://open.spotify.com/track/3R0iA3AlPcpvfwYIoUTVRx) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Heaven](https://open.spotify.com/album/3lve8evv61lFzAtZcdGZPk) | 4:17 | 2024-05-16 | 2024-05-24 |
 | [Heaven \(feat\. Marlene\)](https://open.spotify.com/track/0JpPjzoVsd8Zi4yiowKQK6) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI), [Marlene](https://open.spotify.com/artist/0pAV5GaO9ak8wk1NnF37Cl) | [Heaven \(feat\. Marlene\)](https://open.spotify.com/album/2nHfdDZe6Kt8ovaDij2i4K) | 2:35 | 2024-04-26 | 2024-05-03 |
 | [Heaven II](https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Heaven II](https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ) | 2:27 | 2024-11-07 |  |
-| [Heaven In My Hands](https://open.spotify.com/track/77Urs5XQD97xIZJpM2CAvH) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Heaven In My Hands](https://open.spotify.com/album/63P266OfrTRSAuKmgttjkl) | 2:47 | 2024-11-07 |  |
+| [Heaven In My Hands](https://open.spotify.com/track/77Urs5XQD97xIZJpM2CAvH) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Heaven In My Hands](https://open.spotify.com/album/63P266OfrTRSAuKmgttjkl) | 2:53 | 2024-11-07 |  |
 | [heaven.](https://open.spotify.com/track/50STXEAdHW7RT11f4WSoZv) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [heaven.](https://open.spotify.com/album/5FzsE1ZyPBVnCze6q6pQCP) | 2:56 | 2024-11-07 |  |
 | [Heavenly Hell \(ft\. Ne\-Yo\)](https://open.spotify.com/track/37lbQkTnqNQ2H3mGvhh7AE) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Paragon](https://open.spotify.com/album/49HNGYy1UK8mHp5HgqYOhI) | 3:20 | 2024-06-27 | 2024-07-05 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 | 2024-10-04 |
@@ -1747,6 +1748,7 @@
 | [Mazda 1985](https://open.spotify.com/track/3L8PECEhjLjYir9vsogIPB) | [Marie Klåpbakken](https://open.spotify.com/artist/2qHlT3DfJoJNI4I8IzQmky), [Sver](https://open.spotify.com/artist/7dQDM46xbOVp16wbN6SpiQ) | [Mazda 1985](https://open.spotify.com/album/5bHsXUOXMVZRbnRM5nJK3G) | 3:24 | 2024-06-13 | 2024-06-21 |
 | [Me & Ms\. Ray](https://open.spotify.com/track/4ghAjJTWL5YGCMABrpRytI) | [New Ro](https://open.spotify.com/artist/2jiSoFLrMAKlWl6bAc2kfu) | [Me & Ms\. Ray](https://open.spotify.com/album/12jmAJW0N0P2jtei6F9S74) | 3:45 | 2024-04-26 | 2024-05-03 |
 | [Me Before You](https://open.spotify.com/track/1S4sLPFxkgMTOui1W4GN72) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Me Before You](https://open.spotify.com/album/4hElKzCyDVbddwxZe4f9jb) | 3:35 | 2024-06-13 | 2024-06-21 |
+| [Me, Myself & You](https://open.spotify.com/track/4dsgZlMA69Hb2VppaZyfSN) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Me, Myself & You](https://open.spotify.com/album/7cczplDsPconF6IdWikvOd) | 2:35 | 2024-11-08 |  |
 | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt), [Marina Viotti](https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4), [Victor Le Masne](https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI) | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT) | 2:53 | 2024-08-30 | 2024-09-06 |
 | [meant to be](https://open.spotify.com/track/7jkFQSEaJGfteJFj3UdGop) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [meant to be](https://open.spotify.com/album/5Y97acfZ6ZxXQ1WNw2Sivp) | 2:50 | 2024-10-24 | 2024-11-01 |
 | [Medicine](https://open.spotify.com/track/5jZTLZkeONALbec9ituzlw) | [MELLA](https://open.spotify.com/artist/4y7r8NNpPFEKar9dD6zSoL) | [Medicine](https://open.spotify.com/album/3viUhwb3VohNRIiVVJNcli) | 3:10 | 2024-10-17 | 2024-10-25 |

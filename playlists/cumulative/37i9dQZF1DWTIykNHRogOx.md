@@ -4,7 +4,7 @@
 
 > Le meilleur de la chanson française actuelle\. Photo : Hélène Sio
 
-94 songs - 5 hr 15 min
+95 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Le sais\-tu ¿ \(feat\. Marguerite Thiam\)](https://open.spotify.com/track/1Hyyaf12M5APsTxHilyZ8U) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf), [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [Le sais\-tu ¿ \(feat\. Marguerite Thiam\)](https://open.spotify.com/album/0dRTUlOrE2Ak042ebFuowC) | 4:00 | 2024-06-27 | 2024-11-08 |
 | [Le sud](https://open.spotify.com/track/2lVCyz2QzwLu3bcDzROnpY) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Le sud](https://open.spotify.com/album/3OvJOR3zCO335aro2CEPwW) | 3:45 | 2024-06-27 | 2024-08-30 |
 | [Le temps qui passe sans moi \- Version symphonique](https://open.spotify.com/track/4d4QtDnYE7wwiAHQcYDylg) | [Dominique A](https://open.spotify.com/artist/6IoS9ojtxKCL1tW5VL1buI) | [Le temps qui passe sans moi \- Version symphonique](https://open.spotify.com/album/4tlu9XTFmBkk10T2ZoLa1E) | 3:56 | 2024-06-27 | 2024-09-20 |
+| [Les Anges](https://open.spotify.com/track/5qftMKQEhmvZTeP1zWXs1d) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/1ttdXNBRHGq9ASHdeA36cI) | 2:38 | 2024-11-08 |  |
 | [Les années lumière](https://open.spotify.com/track/0rhFDz2X2OG5QLHi4SvrS1) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63), [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Les années lumière](https://open.spotify.com/album/7nvZv8TiBjGjl6hJRckc5W) | 5:06 | 2024-10-03 |  |
 | [Les astres](https://open.spotify.com/track/0hohLgH1EscBU1JDi60o8G) | [Laura Cahen](https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F) | [Les astres](https://open.spotify.com/album/1Thifz0MQKV9J6uqpz7Tbg) | 4:00 | 2024-09-26 | 2024-10-11 |
 | [Les battements du cœur](https://open.spotify.com/track/3TJb4Bi0FFec1NSf3SWQz6) | [Louis Chedid](https://open.spotify.com/artist/2rBb2WwvpcIHNiofmw22vn) | [Les battements du cœur](https://open.spotify.com/album/7i5WbGyIr7aqoGL5g673kv) | 3:14 | 2024-10-17 | 2024-10-23 |

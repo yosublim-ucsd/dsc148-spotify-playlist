@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Hollie Kenniff",
-  "num_followers": 43173,
+  "num_followers": 43243,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
-        "name": "Continuum 1",
-        "url": "https://open.spotify.com/album/30FyWqYnR3TP5RbadU28e4"
-      },
-      "artists": [
-        {
-          "name": "Nala Sinephro",
-          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
-        }
-      ],
-      "duration_ms": 433750,
-      "name": "Continuum 1",
-      "url": "https://open.spotify.com/track/2HwPbhzKbOT0Tfa5QAXSER"
-    },
-    {
-      "added_at": "2024-10-22 11:05:55",
-      "album": {
         "name": "Amare",
         "url": "https://open.spotify.com/album/3oxivy9SmR7lht1flomM6f"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 226613,
       "name": "Amare",
       "url": "https://open.spotify.com/track/2gb81DReTCiQpzl7L6wMph"
+    },
+    {
+      "added_at": "2024-10-22 11:05:55",
+      "album": {
+        "name": "Continuum 1",
+        "url": "https://open.spotify.com/album/30FyWqYnR3TP5RbadU28e4"
+      },
+      "artists": [
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+        }
+      ],
+      "duration_ms": 433750,
+      "name": "Continuum 1",
+      "url": "https://open.spotify.com/track/2HwPbhzKbOT0Tfa5QAXSER"
     },
     {
       "added_at": "2024-10-22 11:05:55",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
-        "name": "Kali",
-        "url": "https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Kali",
-      "url": "https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k"
-    },
-    {
-      "added_at": "2024-10-22 11:05:55",
-      "album": {
         "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
         "url": "https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 288693,
       "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
+    },
+    {
+      "added_at": "2024-10-22 11:05:55",
+      "album": {
+        "name": "Kali",
+        "url": "https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "Kali",
+      "url": "https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k"
     },
     {
       "added_at": "2024-10-22 11:05:55",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
-        "name": "Keep the Ocean Inside",
-        "url": "https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2"
-      },
-      "artists": [
-        {
-          "name": "The Seven Fields Of Aphelion",
-          "url": "https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ"
-        }
-      ],
-      "duration_ms": 291026,
-      "name": "Divining (naming of the Lost)",
-      "url": "https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk"
-    },
-    {
-      "added_at": "2024-10-22 11:05:55",
-      "album": {
         "name": "Possessed (Original Score)",
         "url": "https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 387268,
       "name": "Hyphae",
       "url": "https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g"
+    },
+    {
+      "added_at": "2024-10-22 11:05:55",
+      "album": {
+        "name": "Keep the Ocean Inside",
+        "url": "https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2"
+      },
+      "artists": [
+        {
+          "name": "The Seven Fields Of Aphelion",
+          "url": "https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ"
+        }
+      ],
+      "duration_ms": 291026,
+      "name": "Divining (naming of the Lost)",
+      "url": "https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk"
     },
     {
       "added_at": "2024-10-22 11:05:55",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
-        "name": "Fur & Feather",
-        "url": "https://open.spotify.com/album/3W3F4kQNM2E2bUeN7JJIJr"
-      },
-      "artists": [
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "Fur & Feather",
-      "url": "https://open.spotify.com/track/0Zo1Fja4huhQ3fAMVuyCUx"
-    },
-    {
-      "added_at": "2024-10-22 11:05:55",
-      "album": {
         "name": "When This World Sleeps",
         "url": "https://open.spotify.com/album/10ejf7X34wj0usEtGA65cQ"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 194004,
       "name": "Dark green",
       "url": "https://open.spotify.com/track/1T9URTwhBOEiQM5atg0jbz"
+    },
+    {
+      "added_at": "2024-10-22 11:05:55",
+      "album": {
+        "name": "Fur & Feather",
+        "url": "https://open.spotify.com/album/3W3F4kQNM2E2bUeN7JJIJr"
+      },
+      "artists": [
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        }
+      ],
+      "duration_ms": 184973,
+      "name": "Fur & Feather",
+      "url": "https://open.spotify.com/track/0Zo1Fja4huhQ3fAMVuyCUx"
     },
     {
       "added_at": "2024-10-22 11:05:55",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
+        "name": "Mary, You Were Wrong",
+        "url": "https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 298061,
+      "name": "Mary, You Were Wrong",
+      "url": "https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH"
+    },
+    {
+      "added_at": "2024-10-22 11:05:55",
+      "album": {
         "name": "Patterns Of Consciousness",
         "url": "https://open.spotify.com/album/4fKVh0mSM2hkQnEFpivPjm"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 570000,
       "name": "SOTRS",
       "url": "https://open.spotify.com/track/3AFGqSmaHEOYZlNVqAjPo7"
-    },
-    {
-      "added_at": "2024-10-22 11:05:55",
-      "album": {
-        "name": "Space 1.8",
-        "url": "https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm"
-      },
-      "artists": [
-        {
-          "name": "Nala Sinephro",
-          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Space 1",
-      "url": "https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL"
     },
     {
       "added_at": "2024-10-22 11:05:55",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
-        "name": "Mary, You Were Wrong",
-        "url": "https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7"
+        "name": "Space 1.8",
+        "url": "https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm"
       },
       "artists": [
         {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
         }
       ],
-      "duration_ms": 298061,
-      "name": "Mary, You Were Wrong",
-      "url": "https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH"
+      "duration_ms": 248000,
+      "name": "Space 1",
+      "url": "https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL"
     },
     {
       "added_at": "2024-10-22 11:05:55",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Tyler, The Creator, Megan Thee Stallion, Gunna and more.",
+  "description": "Today's Hip-Hop with Lil Uzi Vert, Future, Travis Scott and more.",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -2926,7 +2926,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 126315,
       "name": "Billion Streams Freestyle",
       "url": "https://open.spotify.com/track/3rxRWyJrdt6QoWxtFBDiPp"
@@ -4549,6 +4549,24 @@
     },
     {
       "album": {
+        "name": "Eternal Atake 2",
+        "url": "https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138323,
+      "name": "Chill Bae",
+      "url": "https://open.spotify.com/track/4ppKM7xnkSAwSyKqD4QTY4"
+    },
+    {
+      "album": {
         "name": "Only Built For Infinity Links",
         "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
       },
@@ -5117,6 +5135,28 @@
     },
     {
       "album": {
+        "name": "Crazier",
+        "url": "https://open.spotify.com/album/1Arbdb9aoP2xwTRymKSqRI"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169464,
+      "name": "Crazier",
+      "url": "https://open.spotify.com/track/32MRzH8knxhm1pXeBzHA0F"
+    },
+    {
+      "album": {
         "name": "Creepers",
         "url": "https://open.spotify.com/album/1MkTOfJ6KeXotp6u2QRqzt"
       },
@@ -5646,7 +5686,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 164573,
       "name": "Did It",
       "url": "https://open.spotify.com/track/0GVm96bQVgjUEcEm5C7NNH"
@@ -6228,7 +6268,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 186046,
       "name": "Double The Fun",
       "url": "https://open.spotify.com/track/3qTvr3GcWm7iVIojVEbFBo"
@@ -7014,6 +7054,24 @@
       "duration_ms": 124558,
       "name": "Face 2 Face",
       "url": "https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM"
+    },
+    {
+      "album": {
+        "name": "Tate Tuesday, Vol. 1",
+        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178344,
+      "name": "Face The World",
+      "url": "https://open.spotify.com/track/1yJBqUwbi23dbGDyB0IqjV"
     },
     {
       "album": {
@@ -11626,7 +11684,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 278000,
       "name": "It's Up (feat. Young Thug & 21 Savage)",
       "url": "https://open.spotify.com/track/4VQO1UdVIecQqB49PlANHz"
@@ -12742,7 +12800,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 241363,
       "name": "LET YA HAIR DOWN (feat. Drezus)",
       "url": "https://open.spotify.com/track/5J6TeC1lAeFviV6SjN05qG"
@@ -13575,7 +13633,7 @@
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 222501,
+      "duration_ms": 222306,
       "name": "Mad as F*ck",
       "url": "https://open.spotify.com/track/3hpB20yL4LC0EfUflmnMEa"
     },
@@ -15642,7 +15700,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 284363,
       "name": "Noid",
       "url": "https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5"
@@ -16346,6 +16404,24 @@
       "duration_ms": 159720,
       "name": "On Wat U On (with GloRilla)",
       "url": "https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p"
+    },
+    {
+      "album": {
+        "name": "One By One",
+        "url": "https://open.spotify.com/album/4MCfG6iC1dGk3ZghC5op0K"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179266,
+      "name": "One By One",
+      "url": "https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx"
     },
     {
       "album": {
@@ -19556,7 +19632,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 150870,
       "name": "Send Her Home (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/3lmTQobz9kKkqb5kszxIXV"
@@ -20443,6 +20519,28 @@
     },
     {
       "album": {
+        "name": "MIXTAPE PLUTO",
+        "url": "https://open.spotify.com/album/5IcsHifVLGG0emBPlMZacj"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183919,
+      "name": "SOUTH OF FRANCE - REMIX",
+      "url": "https://open.spotify.com/track/5BjYmIIW8NIwItLPGjqKqP"
+    },
+    {
+      "album": {
         "name": "Southside of the Moon",
         "url": "https://open.spotify.com/album/1XwEzmmjXdpagvWiffOBAe"
       },
@@ -20538,7 +20636,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 155999,
       "name": "Spill The Tea",
       "url": "https://open.spotify.com/track/1iguChASZXHGVIpf96tb3B"
@@ -20774,6 +20872,36 @@
       "duration_ms": 309322,
       "name": "Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes)",
       "url": "https://open.spotify.com/track/1BzXvBpIFWJgu0P8P6xmP4"
+    },
+    {
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255915,
+      "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+      "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
     },
     {
       "album": {
@@ -22948,7 +23076,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 205730,
       "name": "TOO FAST",
       "url": "https://open.spotify.com/track/0DhCbTQZfWD8P8pOlg3jv9"
@@ -23709,6 +23837,24 @@
     },
     {
       "album": {
+        "name": "Understand",
+        "url": "https://open.spotify.com/album/2tihzsOg9XnrmkCQ5LLDnY"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156666,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/5L32IjZD1VIyuF7Rw9Xmio"
+    },
+    {
+      "album": {
         "name": "Unfollow Me",
         "url": "https://open.spotify.com/album/0gjIVN0S5uQ5sDZZYKAMIQ"
       },
@@ -24344,6 +24490,24 @@
       "duration_ms": 255188,
       "name": "We Go Up (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/3zQ61IRdlSbEyYQlwQZZxS"
+    },
+    {
+      "album": {
+        "name": "Eternal Atake 2",
+        "url": "https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "We Good",
+      "url": "https://open.spotify.com/track/0F60WLPs6Oz2slHomvLt9U"
     },
     {
       "album": {

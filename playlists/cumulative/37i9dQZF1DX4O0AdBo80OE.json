@@ -498,7 +498,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 228211,
       "name": "Archivo Mudo",
       "url": "https://open.spotify.com/track/6xeCfbpfr1ZlAkNEVUf03b"
@@ -873,6 +873,24 @@
     },
     {
       "album": {
+        "name": "Caf\u00e9 Sin Ti",
+        "url": "https://open.spotify.com/album/4qFWn0BM4XX3VPM55tnrPq"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169966,
+      "name": "Caf\u00e9 Sin Ti",
+      "url": "https://open.spotify.com/track/07EuPEAzZrSJ1HsmjQsiAw"
+    },
+    {
+      "album": {
         "name": "Capuccino",
         "url": "https://open.spotify.com/album/6SvKDk59wgaSM9tVWVA6n3"
       },
@@ -992,7 +1010,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 244992,
       "name": "Coastin' (with Alem\u00e1n)",
       "url": "https://open.spotify.com/track/3UCyLYeUJUrt7aE1yzqjqf"
@@ -1250,6 +1268,32 @@
       "duration_ms": 159007,
       "name": "Duele",
       "url": "https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E"
+    },
+    {
+      "album": {
+        "name": "Ef\u00edmero",
+        "url": "https://open.spotify.com/album/7rOEIGOgasINOSzG5qYi6c"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        },
+        {
+          "name": "FineSound Music",
+          "url": "https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Ef\u00edmero",
+      "url": "https://open.spotify.com/track/7t407aCWIaRzkOu6YnaNkg"
     },
     {
       "album": {
@@ -1728,7 +1772,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 130942,
       "name": "Ilegal",
       "url": "https://open.spotify.com/track/7noUi6BJ2QBfBHxzAWXk6n"
@@ -2349,6 +2393,24 @@
     },
     {
       "album": {
+        "name": "Menta",
+        "url": "https://open.spotify.com/album/44uTgxAh3bq2uPhyjyOWPC"
+      },
+      "artists": [
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Menta",
+      "url": "https://open.spotify.com/track/4T1qPAjWETNKODV57IulPl"
+    },
+    {
+      "album": {
         "name": "El Morroeste",
         "url": "https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe"
       },
@@ -2440,6 +2502,28 @@
       "duration_ms": 179524,
       "name": "Mi Versi\u00f3n De Ti",
       "url": "https://open.spotify.com/track/66tvAhNMsIrbIFos4P3VaN"
+    },
+    {
+      "album": {
+        "name": "Mijo\u2026 \u00bfy la novia?",
+        "url": "https://open.spotify.com/album/4EXuUB10jPvlUnmQ28Iv2u"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188855,
+      "name": "Mijo\u2026 \u00bfy la novia?",
+      "url": "https://open.spotify.com/track/27Qf1TpvAk59kURJkoOuJB"
     },
     {
       "album": {
@@ -2796,7 +2880,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 202000,
       "name": "No Te Apures",
       "url": "https://open.spotify.com/track/3txD9phequal7R6apqVm57"
@@ -2832,7 +2916,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 201743,
       "name": "Nube",
       "url": "https://open.spotify.com/track/7h6VrJgt5JNcA082pEucfe"
@@ -4126,6 +4210,28 @@
       "duration_ms": 252534,
       "name": "Torpe",
       "url": "https://open.spotify.com/track/7K1fAw9P8R73Sc6CpgIgJH"
+    },
+    {
+      "album": {
+        "name": "Ana Laura",
+        "url": "https://open.spotify.com/album/7ElrHS1x1dUl6cXtxXAXbN"
+      },
+      "artists": [
+        {
+          "name": "Castellano",
+          "url": "https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91"
+        },
+        {
+          "name": "Samtwenty",
+          "url": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208050,
+      "name": "Track 2 (Abrazo)",
+      "url": "https://open.spotify.com/track/5ooKijzW2e21nSSComr3mI"
     },
     {
       "album": {

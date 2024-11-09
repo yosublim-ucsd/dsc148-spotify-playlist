@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,423 likes - 78 songs - 3 hr 50 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,422 likes - 79 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,5 +86,6 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 76 | [Forget About Me](https://open.spotify.com/track/637iOVZwfu5BZhE5kAkWFQ) | [Constantin](https://open.spotify.com/artist/1bW3e15ewZUHeQkIpgXoxg), [Alka & Feiv](https://open.spotify.com/artist/47kNyPbq5TrXPrbyjI5E2t) | [Forget About Me](https://open.spotify.com/album/3G3DVkSjcGiM7DgmfwImkp) | 2:36 |
 | 77 | [Toca's Miracle](https://open.spotify.com/track/3bcfuk7hCaST9Bapjbatf8) | [Fappe & Bru](https://open.spotify.com/artist/0cQWPaFUVBhwMCkRaCm4bX), [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ) | [Toca's Miracle](https://open.spotify.com/album/4Sj4vFxsEiz85oypqhL3qZ) | 2:51 |
 | 78 | [Still My Baby](https://open.spotify.com/track/5B5onCeur5UE2jbTCCkUiK) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79) | [Still My Baby](https://open.spotify.com/album/6EVF8CNSpbv235ZGEh2NRn) | 3:11 |
+| 79 | [Let Me Go](https://open.spotify.com/track/1HacAMT0gWQWqytCIHsCEZ) | [White Whale](https://open.spotify.com/artist/7iJ8iFAOikb11EdAAP4H5B) | [Let Me Go](https://open.spotify.com/album/1jlXyBiS1igy6FKg6GCdci) | 3:05 |
 
-Snapshot ID: `AAAKFshzo5R5l0tsh5z2XHu0IbniRlbk`
+Snapshot ID: `AAAKF4JI+Z9SXOB5ISprp+iQadH3fAWF`

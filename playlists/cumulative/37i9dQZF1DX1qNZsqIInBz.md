@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-212 songs - 9 hr 21 min
+213 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Desolation 2](https://open.spotify.com/track/5YQV3dcbq48zCmofyOSzcJ) | [CREEPYMANE](https://open.spotify.com/artist/4iS0O9GXC7newvIHGqgaEz) | [Desolation 2](https://open.spotify.com/album/0xMdm6pqSb4FKXUhI6iAa1) | 1:32 | 2022-10-10 |  |
 | [DETROIT](https://open.spotify.com/track/5w3OUOof6tX2j6X89x0D7R) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or), [HOSPICEMANE](https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm), [Jmilton](https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz) | [DETROIT](https://open.spotify.com/album/7CXdMJp09lC15ESOZlHxbX) | 1:49 | 2024-04-19 |  |
 | [DIFFERENT NOISE](https://open.spotify.com/track/7trpmghODldJXyjV7uQJT9) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l) | [DIFFERENT NOISE](https://open.spotify.com/album/7h9E0lJnkFzjSllB4zp1Uy) | 2:43 | 2022-12-30 |  |
-| [DREAM ABOUT YOU](https://open.spotify.com/track/69Jde9lxc16qGyG5iYncuW) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or), [GTM](https://open.spotify.com/artist/2U79YzoLgxZrBbxzrg5l1S) | [DREAM ABOUT YOU](https://open.spotify.com/album/7sYf0ltOhxs3Zy9uMn7cb5) | 2:48 | 2022-10-10 |  |
+| [DREAM ABOUT YOU](https://open.spotify.com/track/69Jde9lxc16qGyG5iYncuW) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or), [GTM](https://open.spotify.com/artist/2U79YzoLgxZrBbxzrg5l1S) | [DREAM ABOUT YOU](https://open.spotify.com/album/7sYf0ltOhxs3Zy9uMn7cb5) | 2:48 | 2022-10-10 | 2024-11-09 |
 | [Dream Road](https://open.spotify.com/track/006xxgBdSswgtgXOks59u4) | [81an](https://open.spotify.com/artist/2jQ3SyqsblMmflFJCRr5dn), [ALan](https://open.spotify.com/artist/4nDKlmTjgg1o8PriTk0Wma), [ISHNLV](https://open.spotify.com/artist/5qZzS4qbriUwGeqoj8U1p3) | [Dream Road](https://open.spotify.com/album/0tpavY1s1hchFwtCC93tHN) | 3:03 | 2022-11-18 | 2023-05-06 |
 | [Dream Space](https://open.spotify.com/track/4wHkfOTO5XpTrVn1bHxR18) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Dream Space](https://open.spotify.com/album/0jGdCBBF1Khors1eyML58X) | 2:51 | 2022-10-10 |  |
 | [DREAMLAND](https://open.spotify.com/track/5L28ADW32Zq2KwfjUOJNZ4) | [OXXXIDE](https://open.spotify.com/artist/3pAEadIxg8RlAQoDmpNqKS) | [DREAMLAND](https://open.spotify.com/album/3R3oRdJ0Ixu7KAte4O6aBz) | 2:00 | 2023-06-09 | 2023-10-14 |
@@ -175,6 +175,7 @@
 | [RENEGADE](https://open.spotify.com/track/6Yap10AMYjIDgRXLUcH1pt) | [Send 1](https://open.spotify.com/artist/1f4j1E8XNo0m6EsMbGDjRV) | [RENEGADE](https://open.spotify.com/album/5N93SkOr64iOa2bwsf5oyr) | 3:28 | 2022-10-10 | 2022-12-17 |
 | [Ridge Crest](https://open.spotify.com/track/4wQG1yyeTSoDCppLzBXJ9m) | [dxprxsslve](https://open.spotify.com/artist/61QWo0cPeQFZt2U1gEjyl9) | [Ridge Crest](https://open.spotify.com/album/4Rp8x8ZeJjVX0aQAnCGYNy) | 2:52 | 2022-12-23 | 2024-04-20 |
 | [Rinse Repeat](https://open.spotify.com/track/5A3TRHr2EAYgsJOOmlYaxe) | [Elisabeth Brownlow](https://open.spotify.com/artist/4AhXblXPAw9O9c0a56tvD7) | [Rinse Repeat](https://open.spotify.com/album/46rjHo1V4l5DseiDqWj2UN) | 2:19 | 2023-09-22 |  |
+| [RITMO CÓSMICO](https://open.spotify.com/track/7pZNXdNDsTy5F2msNILaMl) | [LILAAX](https://open.spotify.com/artist/3mKJdXTKRUXdNj8f8GrsLz), [NTPV](https://open.spotify.com/artist/4ln235vY1WKuyeLoGJSdwZ) | [RITMO CÓSMICO](https://open.spotify.com/album/6JLYdAbw7vXTnHNZ8MIWYG) | 2:21 | 2024-11-08 |  |
 | [SADNESS](https://open.spotify.com/track/48XqhTBkKOpI8iBBoF4sdK) | [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6) | [SADNESS](https://open.spotify.com/album/5ysSvnyvTyQotyrc0qKiw3) | 1:49 | 2024-03-29 |  |
 | [seaside](https://open.spotify.com/track/3Cj5VVbQnLRknyj2NriPJu) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Tokyomane](https://open.spotify.com/artist/2GaIPa6dUUQBlVNYeEF6PH) | [seaside](https://open.spotify.com/album/385VMmkSq2CVCIOTCtTdts) | 2:39 | 2022-10-10 |  |
 | [See U](https://open.spotify.com/track/54vyxEzMvLexzEgEBzIUNQ) | [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9) | [See U](https://open.spotify.com/album/7C6ieOxP5402mZPtra25P0) | 2:50 | 2022-10-10 |  |

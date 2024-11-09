@@ -22837,6 +22837,24 @@
     },
     {
       "album": {
+        "name": "Vir Ewig By My",
+        "url": "https://open.spotify.com/album/7rlrN7DJE7Kssp61osifP6"
+      },
+      "artists": [
+        {
+          "name": "Ou Tekkies",
+          "url": "https://open.spotify.com/artist/2uUXZoTBe7AQhZ9kVAaPOb"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Vir Ewig By My",
+      "url": "https://open.spotify.com/track/2WipXfRRJFA2PBYetGDfjn"
+    },
+    {
+      "album": {
         "name": "Vir Ewig en Altyd",
         "url": "https://open.spotify.com/album/5s7BYP7FWFjjHghDOsgVxe"
       },

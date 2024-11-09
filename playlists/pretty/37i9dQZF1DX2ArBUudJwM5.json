@@ -107,22 +107,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "PURA",
-        "url": "https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl"
-      },
-      "artists": [
-        {
-          "name": "BB ASUL",
-          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
-        }
-      ],
-      "duration_ms": 111994,
-      "name": "Breaking Bad",
-      "url": "https://open.spotify.com/track/51lUwiop70vQfBtif5sFsW"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "V13",
         "url": "https://open.spotify.com/album/3nVZrraklAxaq0VlJSdmLZ"
       },
@@ -143,6 +127,22 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
+        "name": "ME FUI DE LA FIESTA",
+        "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 158934,
+      "name": "ME FUI DE LA FIESTA",
+      "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/5TMl7Qr7UBoBAFqbiH39zG"
       },
@@ -159,18 +159,18 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "ME FUI DE LA FIESTA",
-        "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
+        "name": "PURA",
+        "url": "https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl"
       },
       "artists": [
         {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+          "name": "BB ASUL",
+          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
         }
       ],
-      "duration_ms": 158934,
-      "name": "ME FUI DE LA FIESTA",
-      "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
+      "duration_ms": 111994,
+      "name": "Breaking Bad",
+      "url": "https://open.spotify.com/track/51lUwiop70vQfBtif5sFsW"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 209732,
-      "name": "Pedazo de Cielo",
-      "url": "https://open.spotify.com/track/4XnRvw9vNKN9tGolXFDZrR"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "los ausentes",
         "url": "https://open.spotify.com/album/1EtqdQBg0c3m1iVJNctVF9"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 179635,
       "name": "los ausentes",
       "url": "https://open.spotify.com/track/5JgHXc7awzk6q5WoYUjSJj"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 209732,
+      "name": "Pedazo de Cielo",
+      "url": "https://open.spotify.com/track/4XnRvw9vNKN9tGolXFDZrR"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "LOS VIEJOS CON GUITA",
-        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
-      },
-      "artists": [
-        {
-          "name": "cata carpena",
-          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
-        }
-      ],
-      "duration_ms": 244195,
-      "name": "DOSMILUNO",
-      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "el cielo es un lugar hostil",
         "url": "https://open.spotify.com/album/7d0B1NueHTKNW7j5hvl80V"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 219881,
       "name": "Lpm",
       "url": "https://open.spotify.com/track/5OtpeR63kiTwWHq8y1A0jJ"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
+        "name": "LOS VIEJOS CON GUITA",
+        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
+      },
+      "artists": [
+        {
+          "name": "cata carpena",
+          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
+        }
+      ],
+      "duration_ms": 244195,
+      "name": "DOSMILUNO",
+      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -443,26 +443,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "Vladi",
-        "url": "https://open.spotify.com/album/7fu4kjCZwX5r2ZheVRSiDQ"
-      },
-      "artists": [
-        {
-          "name": "Juana Rozas",
-          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
-        },
-        {
-          "name": "mailo",
-          "url": "https://open.spotify.com/artist/4aWstdI7ruPKad46HEI98Q"
-        }
-      ],
-      "duration_ms": 133194,
-      "name": "Hola Mami",
-      "url": "https://open.spotify.com/track/1IqA39UMIRcP7iwHRijjrU"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "OTRA MANERA",
         "url": "https://open.spotify.com/album/3EbAvw4gcs1kaZ0esTQDSo"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 219647,
       "name": "En una",
       "url": "https://open.spotify.com/track/0riyx1sdujDzzDaHghveJN"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
+        "name": "Vladi",
+        "url": "https://open.spotify.com/album/7fu4kjCZwX5r2ZheVRSiDQ"
+      },
+      "artists": [
+        {
+          "name": "Juana Rozas",
+          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+        },
+        {
+          "name": "mailo",
+          "url": "https://open.spotify.com/artist/4aWstdI7ruPKad46HEI98Q"
+        }
+      ],
+      "duration_ms": 133194,
+      "name": "Hola Mami",
+      "url": "https://open.spotify.com/track/1IqA39UMIRcP7iwHRijjrU"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "GUSTAS DE M\u00cd",
-        "url": "https://open.spotify.com/album/0Hal3GsMFyELKC5Wiypu2I"
-      },
-      "artists": [
-        {
-          "name": "CATALINA",
-          "url": "https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2"
-        }
-      ],
-      "duration_ms": 181821,
-      "name": "GUSTAS DE M\u00cd",
-      "url": "https://open.spotify.com/track/5KEKdWpFrDCldRhQvL4aOR"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "NIN",
         "url": "https://open.spotify.com/album/6vraibd368ICpLQ0x88Wsu"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 160500,
       "name": "NIN",
       "url": "https://open.spotify.com/track/37Unqns2P5SqF1wbIqFBsJ"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
+        "name": "GUSTAS DE M\u00cd",
+        "url": "https://open.spotify.com/album/0Hal3GsMFyELKC5Wiypu2I"
+      },
+      "artists": [
+        {
+          "name": "CATALINA",
+          "url": "https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2"
+        }
+      ],
+      "duration_ms": 181821,
+      "name": "GUSTAS DE M\u00cd",
+      "url": "https://open.spotify.com/track/5KEKdWpFrDCldRhQvL4aOR"
     },
     {
       "added_at": "2024-11-07 03:00:00",

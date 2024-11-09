@@ -4,7 +4,7 @@
 
 > Perfect music for perfect food.
 
-478 songs - 1 day 6 hr 53 min
+479 songs - 1 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,9 @@
 | [100 Yard Dash](https://open.spotify.com/track/7jFwAShOiIVSva2rrXbzpr) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [The Way I See It](https://open.spotify.com/album/5iFIpmGqLp9pebNUpQLdzU) | 2:18 | 2024-04-16 |  |
 | [1612](https://open.spotify.com/track/39rHfrVqCX6A55GF7uOZSC) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Fugue State](https://open.spotify.com/album/3DiHrdZ5z0AqW6JTpLAKxG) | 3:19 | 2023-06-27 |  |
 | [45](https://open.spotify.com/track/33tsDNAc6GeNXidKLCHhfz) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n) | [FEVER](https://open.spotify.com/album/2QcXOk9Jd26gGzg8jTg3Ck) | 3:03 | 2023-06-27 | 2024-04-19 |
+| [45](https://open.spotify.com/track/7f6wpGdjJVwNZaQTw90DYG) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n) | [45](https://open.spotify.com/album/7BAwI46JKFpaoFYXa5ay3P) | 3:03 | 2024-10-25 |  |
 | [90% of Me Is You](https://open.spotify.com/track/4dz8fFVtr8dPMqGThk5Cbs) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [The Best Of Gwen McCrae](https://open.spotify.com/album/5lQbk0FmNLk0JpP8JPz0Hq) | 2:54 | 2024-04-16 |  |
-| [A Change Is Gonna Come](https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 3:11 | 2023-06-27 |  |
+| [A Change Is Gonna Come](https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 3:11 | 2023-06-27 | 2024-11-09 |
 | [A Long Time](https://open.spotify.com/track/6BPg9G2eIbVYPP5aFRvosy) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [How Do You Do](https://open.spotify.com/album/5pFEKvjZm4W8NSAS5VzmiR) | 3:41 | 2023-06-27 |  |
 | [A Nickel And A Nail](https://open.spotify.com/track/7y7r4FS4Uw5T0IfTraNlnE) | [O.V\. Wright](https://open.spotify.com/artist/2eRG04xbRiI1AzY8uTCySk) | [A Nickel And A Nail And Ace Of Spades](https://open.spotify.com/album/1RF1M8KE0XofOsRutwqLmK) | 3:42 | 2023-01-09 |  |
 | [A Sunday Kind Of Love](https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:16 | 2023-06-27 | 2024-10-05 |
@@ -55,7 +56,7 @@
 | [Betcha by Golly Wow \(Live\)](https://open.spotify.com/track/0w6qnStMvC77oV25dTSiYg) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Betcha by Golly Wow \(Live\)](https://open.spotify.com/album/2jzAgNkPisnXoD5SEOw3Ws) | 4:13 | 2023-01-09 | 2023-06-28 |
 | [Better Be Home Soon](https://open.spotify.com/track/3b68h9ti9sdMo4rTrEvijZ) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE), [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Better Be Home Soon](https://open.spotify.com/album/2QPGw53TKSAFkCRjFG7CnJ) | 3:00 | 2024-04-11 |  |
 | [Between the Sheets](https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between the Sheets](https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu) | 5:40 | 2023-01-09 | 2023-06-28 |
-| [Beware](https://open.spotify.com/track/3M0OsLCcAqbVl9obHq2UxO) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [Ann Peebles Greatest Hits](https://open.spotify.com/album/1EsCY7YEm37qBsNiKwImbj) | 3:03 | 2024-10-25 | 2024-11-01 |
+| [Beware](https://open.spotify.com/track/3M0OsLCcAqbVl9obHq2UxO) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [Ann Peebles Greatest Hits](https://open.spotify.com/album/1EsCY7YEm37qBsNiKwImbj) | 3:03 | 2024-10-25 |  |
 | [Beware](https://open.spotify.com/track/5j4DOzCdYv62mueHs6kezI) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [Tellin' It](https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ) | 3:09 | 2023-06-27 | 2024-04-19 |
 | [Biggest Part of Me](https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [One Eighty](https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH) | 5:24 | 2023-01-09 |  |
 | [Black Gold](https://open.spotify.com/track/0Y1qnAow1UCOZuVfK47sPl) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5), [Algebra Blessett](https://open.spotify.com/artist/0ffXbLm7KIcfu3M1ee0UkP), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Radio Music Society](https://open.spotify.com/album/50ZGiAqYPxQpDVs7QT2ys8) | 5:16 | 2024-04-16 |  |
@@ -451,7 +452,7 @@
 | [We're in This Love Together](https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Breakin' Away](https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X) | 3:46 | 2023-01-09 |  |
 | [What Does It Take](https://open.spotify.com/track/2yn8BJ5Iy6A2SzMeehFHVW) | [William DeVaughn](https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU) | [William Devaughn EP](https://open.spotify.com/album/65w5dNsN0Dgi2JH7iiHAjy) | 3:18 | 2023-01-09 | 2023-06-28 |
 | [What Will It Be?](https://open.spotify.com/track/5Z6Y7HWyIQJ1Y5DaepehAp) | [Room Eleven](https://open.spotify.com/artist/1fnqrUzStcFzRdTybhaOdT) | [Mmm..\. Gumbo? \[ International Version \]](https://open.spotify.com/album/2GhhKuE8coVyF5us5Glbe2) | 3:59 | 2024-04-16 |  |
-| [What's Going On](https://open.spotify.com/track/0IUTOvJZ6brXtvMZWipush) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [The Best Of Marvin Gaye](https://open.spotify.com/album/1qTM6Za6nPUuEshVSmlZnO) | 3:48 | 2024-07-08 |  |
+| [What's Going On](https://open.spotify.com/track/0IUTOvJZ6brXtvMZWipush) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [The Best Of Marvin Gaye](https://open.spotify.com/album/1qTM6Za6nPUuEshVSmlZnO) | 3:48 | 2024-07-08 | 2024-11-09 |
 | [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 | 2023-01-09 | 2024-04-19 |
 | [What's Going On \- Live at the Troubador, Los Angeles, CA](https://open.spotify.com/track/1zSgozTCF928FD2IKThfMf) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 5:23 | 2024-04-16 | 2024-10-06 |
 | [Whatcha See Is Whatcha Get](https://open.spotify.com/track/5lYpHO6ZO4Shys3GD8rav6) | [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [The Very Best Of The Dramatics](https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7) | 3:34 | 2023-01-09 | 2023-06-28 |

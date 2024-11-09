@@ -1,13 +1,29 @@
 {
   "description": "All live, all jazz. Cover: Nat King Cole",
-  "num_followers": 13452,
+  "num_followers": 13459,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv9oQAAAAADuq9dohzSepeGlcTDfy6qQ",
+  "snapshot_id": "Zy2gPwAAAABSpDbrVKThbJlkCSTYIC8h",
   "tracks": [
+    {
+      "added_at": "2024-11-08 05:23:11",
+      "album": {
+        "name": "Miles in France 1963 & 1964 - Miles Davis Quintet: The Bootleg Series, Vol. 8",
+        "url": "https://open.spotify.com/album/69IMyjpYKbsVfVWJXQDYRo"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 663217,
+      "name": "Stella By Starlight - Live at Paris, Salle Pleyel, France - October 1, 1964 [1st Concert]",
+      "url": "https://open.spotify.com/track/25osSBdShXOwws7vJAwplJ"
+    },
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
@@ -555,22 +571,6 @@
       "duration_ms": 518093,
       "name": "Sierre - Live",
       "url": "https://open.spotify.com/track/0na21NgHCDoPzS5Mjl9gMz"
-    },
-    {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "What It Is (Live In Montreal - July 7, 1983)",
-        "url": "https://open.spotify.com/album/5iNscjGQmMygfbiWXJlpkx"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 405425,
-      "name": "What It Is - Live In Montreal - July 7, 1983",
-      "url": "https://open.spotify.com/track/5daKUVUo5FVbXv6TF6Ic5D"
     },
     {
       "added_at": "2022-08-12 04:02:00",

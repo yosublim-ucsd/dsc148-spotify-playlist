@@ -1,6 +1,6 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Parkineos",
-  "num_followers": 215661,
+  "num_followers": 215653,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "HARAKIRI",
-        "url": "https://open.spotify.com/album/5tndicOFZ6DlGE5twFvzIX"
-      },
-      "artists": [
-        {
-          "name": "LUNA KI",
-          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "HARAKIRI",
-      "url": "https://open.spotify.com/track/6Rc2Mbj3V8xMQOqucCTsjh"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "LA MANO",
         "url": "https://open.spotify.com/album/5bCKTho60Tv0HFkXpos0MN"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 183750,
       "name": "LA MANO",
       "url": "https://open.spotify.com/track/69vuRjKOEnszQRw6xjflW7"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "HARAKIRI",
+        "url": "https://open.spotify.com/album/5tndicOFZ6DlGE5twFvzIX"
+      },
+      "artists": [
+        {
+          "name": "LUNA KI",
+          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "HARAKIRI",
+      "url": "https://open.spotify.com/track/6Rc2Mbj3V8xMQOqucCTsjh"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "LA BABY ES MALA",
-        "url": "https://open.spotify.com/album/5g7ChyJQXO3OuI5dMiFodf"
-      },
-      "artists": [
-        {
-          "name": "Fran Laoren",
-          "url": "https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4"
-        }
-      ],
-      "duration_ms": 152572,
-      "name": "LA BABY ES MALA",
-      "url": "https://open.spotify.com/track/2HrGfzBvWetERJ4oc4c7yx"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "QU\u00c9 M\u00c1S DA",
         "url": "https://open.spotify.com/album/0vPxyGWwFapgN1VLV65Wsi"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 153333,
       "name": "QU\u00c9 M\u00c1S DA",
       "url": "https://open.spotify.com/track/3ytTVQxppgPBANgAdYv3bs"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "LA BABY ES MALA",
+        "url": "https://open.spotify.com/album/5g7ChyJQXO3OuI5dMiFodf"
+      },
+      "artists": [
+        {
+          "name": "Fran Laoren",
+          "url": "https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4"
+        }
+      ],
+      "duration_ms": 152572,
+      "name": "LA BABY ES MALA",
+      "url": "https://open.spotify.com/track/2HrGfzBvWetERJ4oc4c7yx"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -927,30 +927,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Lo Que Dijiste",
-        "url": "https://open.spotify.com/album/4SFnQz1uY6X5wJzrGrPwIl"
-      },
-      "artists": [
-        {
-          "name": "Vanity Vercetti",
-          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
-        },
-        {
-          "name": "DRAAH",
-          "url": "https://open.spotify.com/artist/1gSCLldOtzjxpMdYx29pXZ"
-        },
-        {
-          "name": "Prxfanity",
-          "url": "https://open.spotify.com/artist/2x7Zj3YMeXnttrMbXQ9BVy"
-        }
-      ],
-      "duration_ms": 208182,
-      "name": "Lo Que Dijiste",
-      "url": "https://open.spotify.com/track/3xDPpinMbfjZOo00OAyZhD"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "ANGELES - \u20b3",
         "url": "https://open.spotify.com/album/1y3D3CbU4nsp4FYoza4CM1"
       },
@@ -991,6 +967,30 @@
       "duration_ms": 226789,
       "name": "Me rodean (feat. Orslok)",
       "url": "https://open.spotify.com/track/08KAerPtahxPaEFN6ydLUC"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "Lo Que Dijiste",
+        "url": "https://open.spotify.com/album/4SFnQz1uY6X5wJzrGrPwIl"
+      },
+      "artists": [
+        {
+          "name": "Vanity Vercetti",
+          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
+        },
+        {
+          "name": "DRAAH",
+          "url": "https://open.spotify.com/artist/1gSCLldOtzjxpMdYx29pXZ"
+        },
+        {
+          "name": "Prxfanity",
+          "url": "https://open.spotify.com/artist/2x7Zj3YMeXnttrMbXQ9BVy"
+        }
+      ],
+      "duration_ms": 208182,
+      "name": "Lo Que Dijiste",
+      "url": "https://open.spotify.com/track/3xDPpinMbfjZOo00OAyZhD"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "FFANTAS\u00cdAAX2",
-        "url": "https://open.spotify.com/album/5pGOgHSECYJdvvHIPKEPcB"
-      },
-      "artists": [
-        {
-          "name": "dieglitter",
-          "url": "https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg"
-        },
-        {
-          "name": "TURIAN BOY",
-          "url": "https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb"
-        }
-      ],
-      "duration_ms": 172020,
-      "name": "FFANTAS\u00cdAAX2",
-      "url": "https://open.spotify.com/track/1puTWgQhPd0HPVCXddVqaG"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "Como Misa y Kira",
         "url": "https://open.spotify.com/album/0nHMCY2HK6i8LfXK5uIH2t"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 250857,
       "name": "Como Misa y Kira",
       "url": "https://open.spotify.com/track/1wmLjDZkC1i2Wmqjj4KlOQ"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "FFANTAS\u00cdAAX2",
+        "url": "https://open.spotify.com/album/5pGOgHSECYJdvvHIPKEPcB"
+      },
+      "artists": [
+        {
+          "name": "dieglitter",
+          "url": "https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg"
+        },
+        {
+          "name": "TURIAN BOY",
+          "url": "https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb"
+        }
+      ],
+      "duration_ms": 172020,
+      "name": "FFANTAS\u00cdAAX2",
+      "url": "https://open.spotify.com/track/1puTWgQhPd0HPVCXddVqaG"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
+        "name": "teeec",
+        "url": "https://open.spotify.com/album/4mmqEcQ8JmpJYIajuPOYFz"
+      },
+      "artists": [
+        {
+          "name": "fuchi",
+          "url": "https://open.spotify.com/artist/2RoM55NaaJktLPzgcPNGHE"
+        }
+      ],
+      "duration_ms": 128032,
+      "name": "te espero en el club Pt. 1",
+      "url": "https://open.spotify.com/track/1Tv2x6g2zoAy2HYo1845tM"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
         "name": "mverdeme^^",
         "url": "https://open.spotify.com/album/5G4Ms7zrknpfzkYQJBKkYT"
       },
@@ -1411,18 +1427,22 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "teeec",
-        "url": "https://open.spotify.com/album/4mmqEcQ8JmpJYIajuPOYFz"
+        "name": "Ying Yang",
+        "url": "https://open.spotify.com/album/2OpQgfCYSUYtcG61uZZQxs"
       },
       "artists": [
         {
-          "name": "fuchi",
-          "url": "https://open.spotify.com/artist/2RoM55NaaJktLPzgcPNGHE"
+          "name": "grauu",
+          "url": "https://open.spotify.com/artist/6pVpIXqlFUCl0DjA5WOIvH"
+        },
+        {
+          "name": "Chini Tacchini",
+          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
         }
       ],
-      "duration_ms": 128032,
-      "name": "te espero en el club Pt. 1",
-      "url": "https://open.spotify.com/track/1Tv2x6g2zoAy2HYo1845tM"
+      "duration_ms": 139200,
+      "name": "Ying Yang",
+      "url": "https://open.spotify.com/track/23o9L9sJybYutV5O8TQKLL"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1443,26 +1463,6 @@
       "duration_ms": 142151,
       "name": "Sed",
       "url": "https://open.spotify.com/track/1vUjjjIFNHmcD7IBBAGM6e"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Ying Yang",
-        "url": "https://open.spotify.com/album/2OpQgfCYSUYtcG61uZZQxs"
-      },
-      "artists": [
-        {
-          "name": "grauu",
-          "url": "https://open.spotify.com/artist/6pVpIXqlFUCl0DjA5WOIvH"
-        },
-        {
-          "name": "Chini Tacchini",
-          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Ying Yang",
-      "url": "https://open.spotify.com/track/23o9L9sJybYutV5O8TQKLL"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "GUSTARLE A TU ABUELA",
-        "url": "https://open.spotify.com/album/51TWL63ENVfXT37Re745gH"
-      },
-      "artists": [
-        {
-          "name": "pobre lucca",
-          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
-        },
-        {
-          "name": "Talla",
-          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
-        }
-      ],
-      "duration_ms": 132903,
-      "name": "GUSTARLE A TU ABUELA",
-      "url": "https://open.spotify.com/track/17VZpzOsVTDEU0z5YV21WK"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "2005 a. A.",
         "url": "https://open.spotify.com/album/6XvEWWwGd7grI27bFKMDcu"
       },
@@ -1547,22 +1527,22 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "OTRA MANERA",
-        "url": "https://open.spotify.com/album/2kcQwmHV0CsYDdN43wJshu"
+        "name": "GUSTARLE A TU ABUELA",
+        "url": "https://open.spotify.com/album/51TWL63ENVfXT37Re745gH"
       },
       "artists": [
         {
-          "name": "Alberto BLUE",
-          "url": "https://open.spotify.com/artist/6TgGyBWdmcQrdFEIN8o5KJ"
+          "name": "pobre lucca",
+          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
         },
         {
-          "name": "Disson",
-          "url": "https://open.spotify.com/artist/5fWmHn9OoM4xO9sCDFaFFh"
+          "name": "Talla",
+          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
         }
       ],
-      "duration_ms": 150769,
-      "name": "OTRA MANERA",
-      "url": "https://open.spotify.com/track/445QdAXedQct8b77lg3Der"
+      "duration_ms": 132903,
+      "name": "GUSTARLE A TU ABUELA",
+      "url": "https://open.spotify.com/track/17VZpzOsVTDEU0z5YV21WK"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1579,6 +1559,26 @@
       "duration_ms": 178219,
       "name": "Hello Moto",
       "url": "https://open.spotify.com/track/7ihPpGUZmbrTX0CRI1VXbY"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "OTRA MANERA",
+        "url": "https://open.spotify.com/album/2kcQwmHV0CsYDdN43wJshu"
+      },
+      "artists": [
+        {
+          "name": "Alberto BLUE",
+          "url": "https://open.spotify.com/artist/6TgGyBWdmcQrdFEIN8o5KJ"
+        },
+        {
+          "name": "Disson",
+          "url": "https://open.spotify.com/artist/5fWmHn9OoM4xO9sCDFaFFh"
+        }
+      ],
+      "duration_ms": 150769,
+      "name": "OTRA MANERA",
+      "url": "https://open.spotify.com/track/445QdAXedQct8b77lg3Der"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "rez\u00e1ndole a dios",
-        "url": "https://open.spotify.com/album/5hbndvSUgEj71m7Ujaxqui"
-      },
-      "artists": [
-        {
-          "name": "solopepe",
-          "url": "https://open.spotify.com/artist/6Bzp5cHR93uKQpbHTUVSF0"
-        },
-        {
-          "name": "catculator",
-          "url": "https://open.spotify.com/artist/4rATlgc18rtJ0xKhFci8Wi"
-        }
-      ],
-      "duration_ms": 101470,
-      "name": "rez\u00e1ndole a dios",
-      "url": "https://open.spotify.com/track/6evXLYfdQM7fgrIAeVyaoL"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "Cocky!",
         "url": "https://open.spotify.com/album/5lPf8HroyP3XL7hrMSOUkr"
       },
@@ -1743,6 +1723,26 @@
       "duration_ms": 139750,
       "name": "Hype",
       "url": "https://open.spotify.com/track/7ewxh9iOUDtjnvRZtRs5pq"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "rez\u00e1ndole a dios",
+        "url": "https://open.spotify.com/album/5hbndvSUgEj71m7Ujaxqui"
+      },
+      "artists": [
+        {
+          "name": "solopepe",
+          "url": "https://open.spotify.com/artist/6Bzp5cHR93uKQpbHTUVSF0"
+        },
+        {
+          "name": "catculator",
+          "url": "https://open.spotify.com/artist/4rATlgc18rtJ0xKhFci8Wi"
+        }
+      ],
+      "duration_ms": 101470,
+      "name": "rez\u00e1ndole a dios",
+      "url": "https://open.spotify.com/track/6evXLYfdQM7fgrIAeVyaoL"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1799,26 +1799,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "<3",
-        "url": "https://open.spotify.com/album/6cEMr3FM14TSi6zxpI3LpU"
-      },
-      "artists": [
-        {
-          "name": "Yanzzy",
-          "url": "https://open.spotify.com/artist/0VLCbsJSSF7F7cqWOWbkxG"
-        },
-        {
-          "name": "Marcos Naide",
-          "url": "https://open.spotify.com/artist/0w2oYmjQYOPqe74dZ5LuwF"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "<3",
-      "url": "https://open.spotify.com/track/2SSAzbb4MAUr1UAy9qZpKl"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "No Hab\u00eda Choice",
         "url": "https://open.spotify.com/album/3BxvaH2NoNQJcybK9fQzOM"
       },
@@ -1839,18 +1819,22 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/4tyqDEepS16cNO2fRAgZPE"
+        "name": "<3",
+        "url": "https://open.spotify.com/album/6cEMr3FM14TSi6zxpI3LpU"
       },
       "artists": [
         {
-          "name": "Lil Zhark",
-          "url": "https://open.spotify.com/artist/3FI7NS91eeSjBP3V0znDuB"
+          "name": "Yanzzy",
+          "url": "https://open.spotify.com/artist/0VLCbsJSSF7F7cqWOWbkxG"
+        },
+        {
+          "name": "Marcos Naide",
+          "url": "https://open.spotify.com/artist/0w2oYmjQYOPqe74dZ5LuwF"
         }
       ],
-      "duration_ms": 111000,
-      "name": "cartas a cupido",
-      "url": "https://open.spotify.com/track/0uxvK5viTt9zowB5vfBMQi"
+      "duration_ms": 148000,
+      "name": "<3",
+      "url": "https://open.spotify.com/track/2SSAzbb4MAUr1UAy9qZpKl"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1867,6 +1851,22 @@
       "duration_ms": 116742,
       "name": "PRST1",
       "url": "https://open.spotify.com/track/3I3535V3GtAK1XQ5VQOUR8"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/4tyqDEepS16cNO2fRAgZPE"
+      },
+      "artists": [
+        {
+          "name": "Lil Zhark",
+          "url": "https://open.spotify.com/artist/3FI7NS91eeSjBP3V0znDuB"
+        }
+      ],
+      "duration_ms": 111000,
+      "name": "cartas a cupido",
+      "url": "https://open.spotify.com/track/0uxvK5viTt9zowB5vfBMQi"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1907,18 +1907,18 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "un lugar en m\u00ed",
-        "url": "https://open.spotify.com/album/7cBuPo5L2D1pRRHhiYZyXz"
+        "name": "Peke\u00f1o",
+        "url": "https://open.spotify.com/album/6wa8pd2HULtIvq2P7pOgvH"
       },
       "artists": [
         {
-          "name": "Carlo Frio",
-          "url": "https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc"
+          "name": "Coffee",
+          "url": "https://open.spotify.com/artist/0Mgm5yjGlLHp1s8NK0oZKg"
         }
       ],
-      "duration_ms": 109322,
-      "name": "un lugar en m\u00ed",
-      "url": "https://open.spotify.com/track/1TzNUQFB5UXQJgEKiVdD4v"
+      "duration_ms": 138677,
+      "name": "Secret0-0",
+      "url": "https://open.spotify.com/track/2Mp2VEaZmn7Gr6ltKKLFYl"
     }
   ],
   "unique_name": "helium",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Celebrating women at the centre of innovation in electronic music. Cover: Charlotte de Witte",
+  "description": "Celebrating women at the centre of innovation in electronic music. Cover: Qrion",
   "name": "Women of Electronic",
   "tracks": [
     {
@@ -3408,7 +3408,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 230243,
       "name": "Heart Made Of Glass",
       "url": "https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb"
@@ -4094,7 +4094,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 198170,
       "name": "IDK",
       "url": "https://open.spotify.com/track/1lbioiuFVq2Dqp1bCK6K1A"
@@ -4379,6 +4379,24 @@
     },
     {
       "album": {
+        "name": "Keep On Moving Up",
+        "url": "https://open.spotify.com/album/5Wbi8QUhBMmpwUbEjnN7KX"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185099,
+      "name": "Keep On Moving Up",
+      "url": "https://open.spotify.com/track/0eO5J4bjVgjSLDB579BlkE"
+    },
+    {
+      "album": {
         "name": "KILLA",
         "url": "https://open.spotify.com/album/39kj5b04Kr5vRmSM6Z20FP"
       },
@@ -4416,6 +4434,28 @@
       "duration_ms": 194055,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN"
+    },
+    {
+      "album": {
+        "name": "Kryptonite",
+        "url": "https://open.spotify.com/album/1YCMJ0UdvYrn1MNWavg0lM"
+      },
+      "artists": [
+        {
+          "name": "DEELA",
+          "url": "https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4"
+        },
+        {
+          "name": "Genio Bambino",
+          "url": "https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125179,
+      "name": "Kryptonite",
+      "url": "https://open.spotify.com/track/1bLbTYBSL9CPYHHGQhS5VJ"
     },
     {
       "album": {
@@ -5275,7 +5315,7 @@
     },
     {
       "album": {
-        "name": "Mr. Sandman",
+        "name": "MR. SANDMAN",
         "url": "https://open.spotify.com/album/5DGMidRNgao4B4iJNW6gAb"
       },
       "artists": [
@@ -5288,7 +5328,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 145454,
-      "name": "Mr. Sandman",
+      "name": "MR. SANDMAN",
       "url": "https://open.spotify.com/track/1Y2eoRAhwsjCKcdNnrZOzV"
     },
     {

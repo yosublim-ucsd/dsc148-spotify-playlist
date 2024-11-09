@@ -1181,6 +1181,24 @@
     },
     {
       "album": {
+        "name": "P.A",
+        "url": "https://open.spotify.com/album/6awgqrCDHx1lLGEeZ5vwEV"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178062,
+      "name": "CALCINHA COR DE ROSA",
+      "url": "https://open.spotify.com/track/4QbXJLdiECLdJkyqQdH9QW"
+    },
+    {
+      "album": {
         "name": "Caliente",
         "url": "https://open.spotify.com/album/471NgpzD2kDXp1azqDOO4t"
       },
@@ -4868,6 +4886,36 @@
       "duration_ms": 177792,
       "name": "Quando a noite cai",
       "url": "https://open.spotify.com/track/2goVwcY2cuJcNW2k4oOyse"
+    },
+    {
+      "album": {
+        "name": "Revolta",
+        "url": "https://open.spotify.com/album/2PRUId7L5EGK4g1VOm6bsu"
+      },
+      "artists": [
+        {
+          "name": "X Sem Peita",
+          "url": "https://open.spotify.com/artist/082vDMJAfkNZ3U13mjBYfY"
+        },
+        {
+          "name": "Akira Presidente",
+          "url": "https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG"
+        },
+        {
+          "name": "Luiz Brazil",
+          "url": "https://open.spotify.com/artist/4eVBI7aLNfxuynEDNki3wk"
+        },
+        {
+          "name": "Weeze Cooker",
+          "url": "https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277279,
+      "name": "Quando Ela Partir",
+      "url": "https://open.spotify.com/track/6Bu38bPgOGQ21VCNZzf5QS"
     },
     {
       "album": {

@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Thee Sacred Souls
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,633 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,690 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [My Heart is Drowning](https://open.spotify.com/track/3ULdoOEdHUrfoi7D1B4IC5) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [My Heart is Drowning](https://open.spotify.com/album/27MkfKfFf4AONvPedCeBrX) | 2:43 |
-| 2 | [Waiting](https://open.spotify.com/track/7maKDsx5c9pGH82gqTwiOf) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Waiting](https://open.spotify.com/album/6HdBhsYLgnb9IQICF8zxgW) | 3:06 |
-| 3 | [Count Me Out](https://open.spotify.com/track/603Rg2nBs2opRZqiueHQnn) | [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [A Lover Was Born](https://open.spotify.com/album/7jgxifgu2gP2BKSEKXkdjV) | 3:46 |
-| 4 | [Love Moves Slow](https://open.spotify.com/track/7Dtm1JGVXnXksAhyx3bPhV) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [Love Moves Slow](https://open.spotify.com/album/3MIhVa0KSPskdm8ZxgZRhN) | 3:29 |
-| 5 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 |
-| 6 | [Nobody Knows](https://open.spotify.com/track/3wtwBpc3DAlbPtvSdKl73f) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Micayla Rivera](https://open.spotify.com/artist/3Sz03iUdsJZy5ucOO1ptYE) | [Nobody Knows](https://open.spotify.com/album/6pAdeErcUZeVFa4L7K3gV1) | 2:55 |
-| 7 | [Like a Woman](https://open.spotify.com/track/2vcdWcbA3d7y4AFDmFnO24) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Slang Spirituals](https://open.spotify.com/album/1sPGKewgVhu3Iwfqq1XZwa) | 4:26 |
-| 8 | [Say My Name](https://open.spotify.com/track/5r92CCNN1VZp9fDlTWdDS6) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Say My Name](https://open.spotify.com/album/1Dvj1PeulldxrKfaET94Tg) | 4:00 |
+| 2 | [I Got You](https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [I Got You](https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX) | 3:12 |
+| 3 | [Waiting](https://open.spotify.com/track/7maKDsx5c9pGH82gqTwiOf) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Waiting](https://open.spotify.com/album/6HdBhsYLgnb9IQICF8zxgW) | 3:06 |
+| 4 | [Count Me Out](https://open.spotify.com/track/603Rg2nBs2opRZqiueHQnn) | [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [A Lover Was Born](https://open.spotify.com/album/7jgxifgu2gP2BKSEKXkdjV) | 3:46 |
+| 5 | [Love Moves Slow](https://open.spotify.com/track/7Dtm1JGVXnXksAhyx3bPhV) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [Love Moves Slow](https://open.spotify.com/album/3MIhVa0KSPskdm8ZxgZRhN) | 3:29 |
+| 6 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 |
+| 7 | [Nobody Knows](https://open.spotify.com/track/3wtwBpc3DAlbPtvSdKl73f) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Micayla Rivera](https://open.spotify.com/artist/3Sz03iUdsJZy5ucOO1ptYE) | [Nobody Knows](https://open.spotify.com/album/6pAdeErcUZeVFa4L7K3gV1) | 2:55 |
+| 8 | [Like a Woman](https://open.spotify.com/track/2vcdWcbA3d7y4AFDmFnO24) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Slang Spirituals](https://open.spotify.com/album/1sPGKewgVhu3Iwfqq1XZwa) | 4:26 |
 | 9 | [It's Time](https://open.spotify.com/track/0J682N2n8YoOFq3z02ItvK) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa), [Wildman](https://open.spotify.com/artist/3cKiY3udEXBzVYO2Ce1PrQ) | [It's Time](https://open.spotify.com/album/1vAppHpW6mUSUIP4MbQUOv) | 2:50 |
 | 10 | [Take A Chance](https://open.spotify.com/track/0iWw7j4fBQ95Q4SpPLkrAL) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quinones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Can't Call Me Baby / Take A Chance](https://open.spotify.com/album/2QGqQ0lPmPyiTTFW3pUZHG) | 3:47 |
 | 11 | [Your Team](https://open.spotify.com/track/5pIlwtkgYsmgDJ3RCJiUOD) | [Nia Wyn](https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH) | [Your Team](https://open.spotify.com/album/6R0Q1JubcgsOYoCnlZeUZX) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 99 | [You Can Count On Me](https://open.spotify.com/track/63zB2o0u28X046oIFO2ou1) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Waiting on the Sidelines](https://open.spotify.com/album/5kABgENIqXOEWtN3o6rcPn) | 4:09 |
 | 100 | [Great Wind](https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \(Deluxe\)](https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2) | 3:59 |
 
-Snapshot ID: `ZxsX/AAAAABq/qODs14iciDIqkfovhBV`
+Snapshot ID: `Zy2a0AAAAABhGYLVLb3P2/57xRSylzYu`

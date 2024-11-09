@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Dillaz",
+  "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Van Zee, Bispo,",
   "name": "Rap Tuga Hits",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 211460,
       "name": "2 da Matina",
       "url": "https://open.spotify.com/track/2Nxl2DRXsj7jkRBQ66GUJv"
@@ -815,6 +815,32 @@
     },
     {
       "album": {
+        "name": "B\u00ean\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0qh2Oll4rfSc8I3tO1fYv0"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205934,
+      "name": "B\u00ean\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1hdWqiFAy5hNRxyVpDy81P"
+    },
+    {
+      "album": {
         "name": "B\u00fassola",
         "url": "https://open.spotify.com/album/0iPTEOxwY2UxHaICodmx55"
       },
@@ -1099,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "Como \u00c9 Que 'T\u00e1s",
+        "url": "https://open.spotify.com/album/0Ttu6SVIqBpNUhZSAyeSpW"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119886,
+      "name": "Como \u00c9 Que 'T\u00e1s",
+      "url": "https://open.spotify.com/track/1XVH3Zq8adITMSEOA1d3Ia"
+    },
+    {
+      "album": {
         "name": "Conclus\u00e3o",
         "url": "https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE"
       },
@@ -1150,6 +1194,28 @@
       "duration_ms": 247200,
       "name": "Conto Bafiento",
       "url": "https://open.spotify.com/track/6oPbtUaYxVvQaRDwm61Sg8"
+    },
+    {
+      "album": {
+        "name": "Contra Probabilidades",
+        "url": "https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203082,
+      "name": "Contra Probabilidades",
+      "url": "https://open.spotify.com/track/5nYYQ85x9DwEiEpETQNlNC"
     },
     {
       "album": {
@@ -1276,7 +1342,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 293748,
       "name": "Devia Ir",
       "url": "https://open.spotify.com/track/1ftBvRj542ol7LT1A0EtL7"
@@ -1381,6 +1447,24 @@
     },
     {
       "album": {
+        "name": "El Chapo",
+        "url": "https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241813,
+      "name": "El Chapo",
+      "url": "https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH"
+    },
+    {
+      "album": {
         "name": "MINA D'OURO",
         "url": "https://open.spotify.com/album/7uTknfX0WjeP7j1ucunTrF"
       },
@@ -1466,7 +1550,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 217715,
       "name": "ES7\u00c1DIO",
       "url": "https://open.spotify.com/track/430EuoJ6KwzO0fFuCwu6am"
@@ -1558,6 +1642,32 @@
       "duration_ms": 216800,
       "name": "EUROPA (feat. Gson)",
       "url": "https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq"
+    },
+    {
+      "album": {
+        "name": "IT WILL HURT BOTH WAYS",
+        "url": "https://open.spotify.com/album/4GeL7dcG2LxnYTsypnE9MJ"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        },
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "FRANKIEONTHEGUITAR",
+          "url": "https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187869,
+      "name": "Even",
+      "url": "https://open.spotify.com/track/1cTamrfYAUHnoiMf2gpq55"
     },
     {
       "album": {
@@ -2554,6 +2664,24 @@
       "duration_ms": 193501,
       "name": "Lucy Lucy",
       "url": "https://open.spotify.com/track/2TPBDdqlAb6BitW6KC1KjW"
+    },
+    {
+      "album": {
+        "name": "Luxemburgo",
+        "url": "https://open.spotify.com/album/5ZNGmhq2CJJaRGeNKzQGQd"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211860,
+      "name": "Luxemburgo",
+      "url": "https://open.spotify.com/track/1sD1YXeS4R9xPCjc0ze0md"
     },
     {
       "album": {
@@ -4404,7 +4532,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 175204,
       "name": "Teu Eternamente",
       "url": "https://open.spotify.com/track/3klZEB3gNmhKoOTqwVH92G"
@@ -4706,7 +4834,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 260800,
       "name": "Vencedor",
       "url": "https://open.spotify.com/track/4a0H1kKez7UVLveRL5cEgy"
@@ -4844,7 +4972,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 290736,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/2ZHF5RmjHVEbwhFO0TAGBT"

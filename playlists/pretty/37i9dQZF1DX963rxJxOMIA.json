@@ -1,13 +1,57 @@
 {
-  "description": "Fino y elegante, como Maisak y EL FERXXO",
-  "num_followers": 195679,
+  "description": "Fino y elegante, como KAROL G y el combo +57",
+  "num_followers": 195757,
   "original_name": "FINO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyRnHAAAAABBUpCWBRTZ5LmlRBWiDRne",
+  "snapshot_id": "Zy20XAAAAAAgh4nPoWaBNQfrg/zwL2Zm",
   "tracks": [
+    {
+      "added_at": "2024-11-08 06:49:00",
+      "album": {
+        "name": "+57",
+        "url": "https://open.spotify.com/album/5TT8KluomuelzsNF7T1U37"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 298130,
+      "name": "+57",
+      "url": "https://open.spotify.com/track/3mg9jYNC1NihbthlglzrWP"
+    },
     {
       "added_at": "2024-09-06 04:59:00",
       "album": {
@@ -79,26 +123,6 @@
       "duration_ms": 188181,
       "name": "FDSR",
       "url": "https://open.spotify.com/track/3KwYiawBfqngH7eaUHQn2N"
-    },
-    {
-      "added_at": "2024-11-01 05:29:00",
-      "album": {
-        "name": "SORNERO",
-        "url": "https://open.spotify.com/album/2MV34WRwGIClaHGjhZmK1f"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Kris R.",
-          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
-        }
-      ],
-      "duration_ms": 208240,
-      "name": "SORNERO",
-      "url": "https://open.spotify.com/track/1kKhy7DEPN4fUj8OPIJrOk"
     },
     {
       "added_at": "2024-09-06 04:59:00",
@@ -317,6 +341,26 @@
       "url": "https://open.spotify.com/track/4OJ7fRdpcFMKW3sxaCZ22h"
     },
     {
+      "added_at": "2024-11-08 06:49:00",
+      "album": {
+        "name": "Amor De Tu Vida",
+        "url": "https://open.spotify.com/album/6B8mzpVckUHYhhDREGH83e"
+      },
+      "artists": [
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        },
+        {
+          "name": "FineSound Music",
+          "url": "https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh"
+        }
+      ],
+      "duration_ms": 171032,
+      "name": "Amor De Tu Vida",
+      "url": "https://open.spotify.com/track/03QLTFZF6eOocO2k5Hr46b"
+    },
+    {
       "added_at": "2024-09-06 04:59:00",
       "album": {
         "name": "Soltera (W Sound 01)",
@@ -435,26 +479,6 @@
       "duration_ms": 186277,
       "name": "MIONCA",
       "url": "https://open.spotify.com/track/3UxRvZWhEfSJmNDsbEjKOY"
-    },
-    {
-      "added_at": "2024-09-06 04:59:00",
-      "album": {
-        "name": "YA NO VOLVER\u00c1S",
-        "url": "https://open.spotify.com/album/0zDyw2Xv0AH3lx47RwjvdP"
-      },
-      "artists": [
-        {
-          "name": "Cris Valencia",
-          "url": "https://open.spotify.com/artist/7xP0fQcNHEMD9yL5j4ERz1"
-        },
-        {
-          "name": "El High",
-          "url": "https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp"
-        }
-      ],
-      "duration_ms": 160975,
-      "name": "YA NO VOLVER\u00c1S",
-      "url": "https://open.spotify.com/track/57B9XH31E2UYEnQ5mppQdz"
     },
     {
       "added_at": "2024-09-06 04:59:00",

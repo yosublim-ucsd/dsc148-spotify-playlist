@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🍂
 
-480 songs - 1 day 4 hr 39 min
+481 songs - 1 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Au​\-​delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/track/0rqY0DYt2aRwhoWBd89EVZ) | [Amylie](https://open.spotify.com/artist/1zUJUkYOBLMRNyot7fHae5) | [Au​\-​delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/album/0U09K98D8jyU0izVJlxOlH) | 4:07 | 2022-07-08 | 2023-02-24 |
 | [Beauté baroque \- Session live H2T](https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [SESSION LIVE H2T](https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz) | 3:31 | 2022-06-03 |  |
 | [Before the Fall](https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Afternoon Bike Ride](https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT) | 2:59 | 2022-08-30 | 2024-04-19 |
+| [berceuse \(elle veille encore\)](https://open.spotify.com/track/7o2VWOEH0XznJlwW0OllFE) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1), [Mathieu David Gagnon](https://open.spotify.com/artist/4cGEOcEeLrZdOBxVMugZyR) | [elle veille encore](https://open.spotify.com/album/36stZjlUhNpOzaK6MIvV4l) | 3:38 | 2024-11-08 |  |
 | [Birds](https://open.spotify.com/track/08TmRNaaezzsowLSXk9zYO) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Nameless](https://open.spotify.com/album/1jKa3DaEBF3uBSJQ911noU) | 3:41 | 2021-10-09 |  |
 | [Bisous](https://open.spotify.com/track/1ceBIstPnCycyYsMpVwVUF) | [Douance](https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq) | [Monstre](https://open.spotify.com/album/5bCt5WDkmXofNiUcguDSu0) | 3:04 | 2024-04-26 | 2024-06-08 |
 | [Bloc appartement](https://open.spotify.com/track/7cHDCbp1I6oZVwox0fEFcG) | [Olivier Lessard](https://open.spotify.com/artist/475de0iJKSQa7PebOU27Lk) | [En attendant les normales de saison \- EP](https://open.spotify.com/album/4kbWX80pZW3PzuGC7wk679) | 3:36 | 2021-01-17 | 2022-07-23 |
@@ -258,7 +259,7 @@
 | [Les pommiers envahis](https://open.spotify.com/track/0iYZ8hkEx9POpr0TlS87pl) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Pays](https://open.spotify.com/album/6qNk4o8WSwbaT95aJuoW1n) | 4:59 | 2022-07-08 | 2023-06-17 |
 | [Les pommiers envahis](https://open.spotify.com/track/2NKZj5P2qpPZAH98ERdWc8) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Les pommiers envahis](https://open.spotify.com/album/6lJg8jJu2VKZOqAFTzQ4Ux) | 4:59 | 2021-01-15 | 2022-07-29 |
 | [Les salades de l'amour](https://open.spotify.com/track/1CuzE9zBtKzfsDvxR4moPf) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [Les salades de l'amour](https://open.spotify.com/album/2uZv8Yba51eLH2sP4a8WoG) | 3:20 | 2021-02-12 | 2022-07-29 |
-| [Les travaux](https://open.spotify.com/track/47jqIQwhKPUJNm6WEW8ULZ) | [Conifère](https://open.spotify.com/artist/2dp3ze9ayQS05io3tAkcA2) | [Conifère](https://open.spotify.com/album/3dapBvQalwo70bWX9eWzBv) | 3:50 | 2021-02-27 |  |
+| [Les travaux](https://open.spotify.com/track/47jqIQwhKPUJNm6WEW8ULZ) | [Conifère](https://open.spotify.com/artist/2dp3ze9ayQS05io3tAkcA2) | [Conifère](https://open.spotify.com/album/3dapBvQalwo70bWX9eWzBv) | 3:50 | 2021-02-27 | 2024-11-09 |
 | [Les vents aimants](https://open.spotify.com/track/7hknXKrXWA2l4DKO1L9W31) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD) | [Les vents aimants](https://open.spotify.com/album/5DJaV9O0iPbyFgueY0WgV8) | 2:21 | 2021-03-17 | 2022-07-24 |
 | [Les épousailles](https://open.spotify.com/track/3YBtUOXgW8FwxkAzphFAzx) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Petite plage](https://open.spotify.com/album/2YH5Fvzzf55VORIDHcTqmc) | 2:38 | 2021-01-15 | 2022-07-29 |
 | [Les épousailles](https://open.spotify.com/track/6t5R6YTK8d6n7wxjZI3JLp) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Petite plage](https://open.spotify.com/album/6GjRQbVrTgjbdNlSs7Plor) | 2:38 | 2022-07-08 | 2024-04-19 |

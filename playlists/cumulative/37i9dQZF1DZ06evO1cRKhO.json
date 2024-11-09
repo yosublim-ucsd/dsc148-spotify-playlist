@@ -224,7 +224,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 412294,
       "name": "All Creatures Get It",
       "url": "https://open.spotify.com/track/175dH359woZbiN6qTMQdwR"
@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 164853,
       "name": "Do We Deserve Dubya?",
       "url": "https://open.spotify.com/track/15ECrvrsvrKipUbC6o6st3"
@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 1207293,
       "name": "Four Meditations for Orchestra",
       "url": "https://open.spotify.com/track/7GwBblLn7dZizslSDypRKT"
@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 129065,
       "name": "Gravity Wins",
       "url": "https://open.spotify.com/track/52QnTntelHXZDUCfDAZskY"
@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 510040,
       "name": "Inner",
       "url": "https://open.spotify.com/track/3e5PMQtJGdnDv0BEbePBHX"
@@ -2094,7 +2094,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-21",
+      "date_removed": null,
       "duration_ms": 654386,
       "name": "Maritime Rites: Rattlesnake Mountain",
       "url": "https://open.spotify.com/track/3Eg7ej0MOufgqKkFZFAu1V"
@@ -3096,7 +3096,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 284673,
       "name": "Room At the Inn",
       "url": "https://open.spotify.com/track/6ngAUMaLLjcje2iU17j4Wp"
@@ -4606,6 +4606,36 @@
       "duration_ms": 688425,
       "name": "Untitled #270",
       "url": "https://open.spotify.com/track/55ZG1nvyNx0sqNCNhA0KMq"
+    },
+    {
+      "album": {
+        "name": "Quartet for the End of Space",
+        "url": "https://open.spotify.com/album/4DSd4Pw1IvrFzUw7FxUrts"
+      },
+      "artists": [
+        {
+          "name": "Doug Van Nort",
+          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
+        },
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Francisco L\u00f3pez",
+          "url": "https://open.spotify.com/artist/2NIo9CSlxx2pArdKee4hes"
+        },
+        {
+          "name": "Jonas Braasch",
+          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 688426,
+      "name": "Untitled #270",
+      "url": "https://open.spotify.com/track/3SaY5rt49Cz8xM7ivScaX3"
     },
     {
       "album": {

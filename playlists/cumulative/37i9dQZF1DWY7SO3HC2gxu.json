@@ -298,7 +298,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 198400,
       "name": "Crystal Castles",
       "url": "https://open.spotify.com/track/03ECbB4w8kzV5AuQZIAcQk"
@@ -446,6 +446,32 @@
       "duration_ms": 198693,
       "name": "Dogoke wav",
       "url": "https://open.spotify.com/track/7iZPiZOj75D762FRnTyPrv"
+    },
+    {
+      "album": {
+        "name": "Don't Let Go",
+        "url": "https://open.spotify.com/album/59YZQNSocGg8Fbv9a0Zw81"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Mazzari",
+          "url": "https://open.spotify.com/artist/1kXqhN6V2njWd5Eok3rHWv"
+        },
+        {
+          "name": "Firevibe",
+          "url": "https://open.spotify.com/artist/2CkqcLoo2rhbO8GLRVZika"
+        },
+        {
+          "name": "HiMoxY",
+          "url": "https://open.spotify.com/artist/6spQCFcVwS8scHKhmI0e9s"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151475,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/2DDmqQcKCEi9IcuGJOo6zd"
     },
     {
       "album": {
@@ -1985,6 +2011,28 @@
     },
     {
       "album": {
+        "name": "Muthamaki",
+        "url": "https://open.spotify.com/album/5LhMRPtw3T2MtZDlmiZfIx"
+      },
+      "artists": [
+        {
+          "name": "LiloCox",
+          "url": "https://open.spotify.com/artist/72PekNwjrVD4vIpnA6Kxy4"
+        },
+        {
+          "name": "Tina Ardor",
+          "url": "https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202622,
+      "name": "Muthamaki",
+      "url": "https://open.spotify.com/track/1mNH1ohty21BGlVNQvTKP8"
+    },
+    {
+      "album": {
         "name": "SURRENDER",
         "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
       },
@@ -2474,7 +2522,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 184917,
       "name": "Oya Baba!",
       "url": "https://open.spotify.com/track/3mXVxman5bPyqOrpkf9AgR"
@@ -2732,7 +2780,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 188226,
       "name": "Rotation",
       "url": "https://open.spotify.com/track/28Vb0LHg2szAiFIPbR95uT"
@@ -3178,6 +3226,24 @@
       "duration_ms": 147426,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/0VKmRGnrho53kJpvW5DJHO"
+    },
+    {
+      "album": {
+        "name": "The Room",
+        "url": "https://open.spotify.com/album/29pSkpxHDrb2TKMnjSaKVw"
+      },
+      "artists": [
+        {
+          "name": "Jack Rooster",
+          "url": "https://open.spotify.com/artist/6eOFtqlRygKBcvT4VBKXHP"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245760,
+      "name": "The Room",
+      "url": "https://open.spotify.com/track/51CZN7nGw0TQyk8nmGJk0T"
     },
     {
       "album": {

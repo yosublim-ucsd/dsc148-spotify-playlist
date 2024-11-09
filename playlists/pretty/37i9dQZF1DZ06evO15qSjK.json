@@ -1,12 +1,12 @@
 {
   "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
-  "num_followers": 173338,
+  "num_followers": 173326,
   "original_name": "This Is Kidz Bop Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyqxgAAAAADXlqtkS+Mk8WYlAAht1MOY",
+  "snapshot_id": "ZywDAAAAAADvY71/Y/pLYfxJQHAGWPAA",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2021",
-        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 170239,
-      "name": "Savage Love",
-      "url": "https://open.spotify.com/track/5NZcKD2lKDVZiCFADvAyfh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kidz Bop 28",
         "url": "https://open.spotify.com/album/2Vh73FD6YV5afi2SVJ8qkB"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 224133,
       "name": "Uptown Funk",
       "url": "https://open.spotify.com/track/0Gpu8A8uTQ0CZFHRhzqBst"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 170239,
+      "name": "Savage Love",
+      "url": "https://open.spotify.com/track/5NZcKD2lKDVZiCFADvAyfh"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/4mlUohsTRlocyVik8trXIs"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 216228,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/5QNPIe0ROSkymWH1j5cDMh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP Super POP!",
         "url": "https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK"
       },
@@ -555,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/4mlUohsTRlocyVik8trXIs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 216228,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/5QNPIe0ROSkymWH1j5cDMh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIDZ BOP 2021",
         "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
       },
@@ -567,22 +567,6 @@
       "duration_ms": 146233,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIDZ BOP 38",
-        "url": "https://open.spotify.com/album/45kCF1eONbksVLaWkorZLF"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/02hItgiP8fFBLHCJ4fhhUy"
     },
     {
       "added_at": null,
@@ -603,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/2CmK9RwQuLkYSkMFz4vzGC"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 183930,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/4KegIoLXt4cv3MgU4G0GYe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 34",
         "url": "https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7"
       },
@@ -631,6 +599,38 @@
       "duration_ms": 176866,
       "name": "24K Magic",
       "url": "https://open.spotify.com/track/0uO8gotUNmO7v5agFzqS7y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 38",
+        "url": "https://open.spotify.com/album/45kCF1eONbksVLaWkorZLF"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/02hItgiP8fFBLHCJ4fhhUy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/2CmK9RwQuLkYSkMFz4vzGC"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 183930,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/4KegIoLXt4cv3MgU4G0GYe"
     },
     {
       "added_at": null,

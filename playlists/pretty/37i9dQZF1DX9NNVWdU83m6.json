@@ -1,13 +1,33 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 55304,
+  "num_followers": 55316,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsgJQAAAAACw32yu5Dyqf/qB3N0Z4vbR",
+  "snapshot_id": "Zy2a0AAAAABN+1jpm9AYhJoIPNRDNc/O",
   "tracks": [
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Pliny the Elder",
+        "url": "https://open.spotify.com/album/73O8SLcuOOT2phJERZnJOE"
+      },
+      "artists": [
+        {
+          "name": "Spookey Ruben",
+          "url": "https://open.spotify.com/artist/7qI2khlNiTuhGMVVaEWzlP"
+        },
+        {
+          "name": "Vinnie Colaiuta",
+          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
+        }
+      ],
+      "duration_ms": 236624,
+      "name": "Pliny the Elder",
+      "url": "https://open.spotify.com/track/61sU0AWIRgHnjC1u7qLOtW"
+    },
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {

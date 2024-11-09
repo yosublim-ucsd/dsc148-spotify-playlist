@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Dadju x Jungeli
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,417 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,698 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 2 | [RESTE\-LÀ](https://open.spotify.com/track/6yg2N05MAebATBiYQytC6N) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 4:02 |
 | 3 | [SALE](https://open.spotify.com/track/6C2ovFhNrKlJRoLbOKmCMJ) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [SALE](https://open.spotify.com/album/5tvPovo3aWrL31HlfBzL1K) | 3:05 |
 | 4 | [Dans les veines](https://open.spotify.com/track/0ewiAClIyaKosExdgSuqew) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Leslie](https://open.spotify.com/artist/4qtpVWf7iBzWhWOoabaixz) | [Dans les veines](https://open.spotify.com/album/5VSzl7ioWGOpoQTV4ZBqWG) | 2:53 |
-| 5 | [Commandante](https://open.spotify.com/track/6rYd1MzEmpmHquYaRLtFQ4) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Love Machine, Pt.2](https://open.spotify.com/album/06NSjZUXswJ1dl3oxDDQur) | 2:40 |
+| 5 | [Commandante](https://open.spotify.com/track/6rYd1MzEmpmHquYaRLtFQ4) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Love Machine](https://open.spotify.com/album/06NSjZUXswJ1dl3oxDDQur) | 2:40 |
 | 6 | [Oublier](https://open.spotify.com/track/4Oz5nbenyDDb9AaeNDzZMw) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [En chemin II](https://open.spotify.com/album/3guI5LNHiG7JE59DuAlyiQ) | 3:06 |
 | 7 | [Rappel](https://open.spotify.com/track/7CjR90qslGmLW5dsnaKZay) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Rappel](https://open.spotify.com/album/5lo9NrxVfWLQLcQ9D8WAaX) | 2:27 |
 | 8 | [TOUT essayer ?](https://open.spotify.com/track/2AtnAly14IUP5I8mPo8QAc) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn) | 3:33 |

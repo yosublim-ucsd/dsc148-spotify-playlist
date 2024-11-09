@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Figure 8 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5EUL6RGTIuVJCaCWGOedan"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91666,
+      "name": "Figure 8",
+      "url": "https://open.spotify.com/track/1giREjHqa76Qs55BGtDebt"
+    },
+    {
+      "album": {
         "name": "New Moon",
         "url": "https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3"
       },

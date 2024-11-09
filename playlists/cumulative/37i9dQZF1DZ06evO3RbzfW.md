@@ -4,7 +4,7 @@
 
 > This is Rammstein\. The essential tracks, all in one playlist.
 
-59 songs - 4 hr 5 min
+60 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Reise, Reise](https://open.spotify.com/track/6bvTzuFABmFnAAmVZ3nlMh) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5) | 4:11 | 2022-05-30 |  |
 | [Rosenrot](https://open.spotify.com/track/50LmbBKCBeDRKYvpR7ApjG) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 3:54 | 2022-05-30 |  |
 | [Schwarz](https://open.spotify.com/track/2UK4qw712yzFh8vYYJGv2B) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 4:18 | 2022-05-30 | 2022-06-01 |
-| [Sehnsucht](https://open.spotify.com/track/3oWFQPp5lL5x907hCcCRa9) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 4:04 | 2022-05-30 |  |
+| [Sehnsucht](https://open.spotify.com/track/7DBW4qp2XCNAbWFMsrqao3) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht \(Anniversary Edition \- Remastered\)](https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP) | 4:03 | 2024-11-09 |  |
+| [Sehnsucht](https://open.spotify.com/track/3oWFQPp5lL5x907hCcCRa9) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 4:04 | 2022-05-30 | 2024-11-09 |
 | [Sonne](https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv) | 4:32 | 2022-05-30 |  |
 | [Spiel mit mir \- 2023 Mix](https://open.spotify.com/track/01jvnYLwnEwdnwGjsZq02E) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Du hast / Spiel mit mir \(2023 Mix\)](https://open.spotify.com/album/2rK1E8ZYaYkKjSMkrbM690) | 4:46 | 2023-05-13 | 2023-07-29 |
 | [Spring](https://open.spotify.com/track/0Z8q59waoxGjcRZDC3ffhH) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 5:24 | 2022-05-30 | 2022-07-25 |

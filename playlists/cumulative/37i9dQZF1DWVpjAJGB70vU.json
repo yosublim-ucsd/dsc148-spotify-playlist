@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The country that made country cool. Cover: George Strait",
+  "description": "We're celebrating 25 years of Faith Hill's timeless album \"Breathe\" on 90s Country! ",
   "name": "90s Country",
   "tracks": [
     {
@@ -2814,7 +2814,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 207226,
       "name": "Ten Thousand Angels",
       "url": "https://open.spotify.com/track/1mhPVHjzfJLGird0TFZxmb"
@@ -2944,6 +2944,24 @@
       "duration_ms": 213333,
       "name": "The Shake",
       "url": "https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG"
+    },
+    {
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186066,
+      "name": "The Way You Love Me",
+      "url": "https://open.spotify.com/track/6vgN6KGstss0GnBbKlMNK9"
     },
     {
       "album": {

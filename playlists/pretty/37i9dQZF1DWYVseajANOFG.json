@@ -1,32 +1,28 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Sech",
-  "num_followers": 122046,
+  "num_followers": 122086,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyRSQAAAAADKsEQ7vLH0zVfHDTFLYIiU",
+  "snapshot_id": "Zy2a0AAAAABRKr1vT5S9xOYebmvXjzh2",
   "tracks": [
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Baby Gangster",
-        "url": "https://open.spotify.com/album/1zSpC8ajqnhTenuxEFTs2g"
+        "name": "BESITOS",
+        "url": "https://open.spotify.com/album/0RktZ73zFuP7yTfkI3yJxX"
       },
       "artists": [
         {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
-        },
-        {
-          "name": "Nerry Money",
-          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
         }
       ],
-      "duration_ms": 239016,
-      "name": "Baby Gangster",
-      "url": "https://open.spotify.com/track/4zf7VxEF3GMizhklbgXYLR"
+      "duration_ms": 148937,
+      "name": "BESITOS",
+      "url": "https://open.spotify.com/track/18D77Y4jjTwk4IASWhzJNP"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -47,6 +43,26 @@
       "duration_ms": 153900,
       "name": "Yo Te Llamo",
       "url": "https://open.spotify.com/track/4lFnfbRhGSpTm17XKGcXs6"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Baby Gangster",
+        "url": "https://open.spotify.com/album/1zSpC8ajqnhTenuxEFTs2g"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        },
+        {
+          "name": "Nerry Money",
+          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
+        }
+      ],
+      "duration_ms": 239016,
+      "name": "Baby Gangster",
+      "url": "https://open.spotify.com/track/4zf7VxEF3GMizhklbgXYLR"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -91,6 +107,26 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
+        "name": "La Ni\u00f1a Consentida",
+        "url": "https://open.spotify.com/album/6HSMFCODetruC7z5k8MalQ"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        },
+        {
+          "name": "Kevin Ice",
+          "url": "https://open.spotify.com/artist/6T7bOrkvmlGkEVPer6rDp3"
+        }
+      ],
+      "duration_ms": 299650,
+      "name": "La Ni\u00f1a Consentida",
+      "url": "https://open.spotify.com/track/2H5lq3Gn1t7FBX5l4as2im"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
         "name": "La Ruta",
         "url": "https://open.spotify.com/album/1sTGqUxkt0vT7S3IN9cVbn"
       },
@@ -115,42 +151,6 @@
       "duration_ms": 221100,
       "name": "La Ruta",
       "url": "https://open.spotify.com/track/5h4mgbGijQ2CXMNuF4c4rW"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "La Ni\u00f1a Consentida",
-        "url": "https://open.spotify.com/album/6HSMFCODetruC7z5k8MalQ"
-      },
-      "artists": [
-        {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
-        },
-        {
-          "name": "Kevin Ice",
-          "url": "https://open.spotify.com/artist/6T7bOrkvmlGkEVPer6rDp3"
-        }
-      ],
-      "duration_ms": 299650,
-      "name": "La Ni\u00f1a Consentida",
-      "url": "https://open.spotify.com/track/2H5lq3Gn1t7FBX5l4as2im"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "BESITOS",
-        "url": "https://open.spotify.com/album/0RktZ73zFuP7yTfkI3yJxX"
-      },
-      "artists": [
-        {
-          "name": "Valentino GRM",
-          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
-        }
-      ],
-      "duration_ms": 148937,
-      "name": "BESITOS",
-      "url": "https://open.spotify.com/track/18D77Y4jjTwk4IASWhzJNP"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -261,32 +261,28 @@
       "url": "https://open.spotify.com/track/2mfuy75A61Qnx3qApmZWMt"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Mi Oveja Perdida (Ft. Kevin Ice)",
-        "url": "https://open.spotify.com/album/6mAMpkkhPa9Lr6qwX9Z2JW"
+        "name": "Me Rindo",
+        "url": "https://open.spotify.com/album/6d95cXygvxvaiRrbhgeBgF"
       },
       "artists": [
         {
-          "name": "Fulo El Yeyo",
-          "url": "https://open.spotify.com/artist/0YUrJpMVgqTxD8UnfPRKEh"
+          "name": "Rik",
+          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
         },
         {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+          "name": "El Doble K",
+          "url": "https://open.spotify.com/artist/4isHbp1LrcVnarUj7o6N6I"
         },
         {
-          "name": "Aldair Productions",
-          "url": "https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN"
-        },
-        {
-          "name": "Kevin Ice",
-          "url": "https://open.spotify.com/artist/5XQ0aNr3aINifZ93L4FUYI"
+          "name": "PABLO STR",
+          "url": "https://open.spotify.com/artist/5HVLO75TZ9L98F1szI5vp4"
         }
       ],
-      "duration_ms": 227813,
-      "name": "Mi Oveja Perdida (Ft. Kevin Ice)",
-      "url": "https://open.spotify.com/track/0sI1eqpAXh6eMMuhp7NMSf"
+      "duration_ms": 134745,
+      "name": "Me Rindo",
+      "url": "https://open.spotify.com/track/3aSsFEE57DoecIbSJalI1z"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -543,6 +539,26 @@
       "duration_ms": 288712,
       "name": "Isabella",
       "url": "https://open.spotify.com/track/5xgj78ymAYJSo6zkfhQCQw"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Probando",
+        "url": "https://open.spotify.com/album/2lcAeu6NTQ4KLd2vaWw51V"
+      },
+      "artists": [
+        {
+          "name": "Lorna",
+          "url": "https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3"
+        },
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "duration_ms": 132383,
+      "name": "Probando",
+      "url": "https://open.spotify.com/track/4l0oY5yBecnsRbpcpYtgLr"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1063,38 +1079,6 @@
       "duration_ms": 226720,
       "name": "Otra Baby",
       "url": "https://open.spotify.com/track/4f2nbpKWfnj7tNyL2Ihj9n"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Tus Demonios",
-        "url": "https://open.spotify.com/album/3mYAT2n6mEDuNi80D2q5Jm"
-      },
-      "artists": [
-        {
-          "name": "Eiby",
-          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
-        },
-        {
-          "name": "Roazter",
-          "url": "https://open.spotify.com/artist/3hncPoEEkUNszgGGwjlxIa"
-        },
-        {
-          "name": "JEYSON",
-          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
-        },
-        {
-          "name": "Mole",
-          "url": "https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq"
-        },
-        {
-          "name": "Real Boss",
-          "url": "https://open.spotify.com/artist/5Tt8mIEodxHYHf4UZPZohf"
-        }
-      ],
-      "duration_ms": 321882,
-      "name": "Tus Demonios",
-      "url": "https://open.spotify.com/track/3ht9J1hwY8fkGo0jZWIEi3"
     }
   ],
   "unique_name": "Flow Panam\u00e1",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollandse hits\. Cover: Rene Froger & Billy Dans
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,963 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,975 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 79 | [Oh Wat Ben Je Mooi](https://open.spotify.com/track/24KzyCCMtR33nQzJFwSa3K) | [Tim Schalkx](https://open.spotify.com/artist/1QW14VwiXvCTlCqqbnOSpG) | [Oh Wat Ben Je Mooi](https://open.spotify.com/album/0r8cS5aNOCuNIG7q0FGfWU) | 2:43 |
 | 80 | [Alleen Voor Jou](https://open.spotify.com/track/6EdPaa3SnUuHRPZz1gsunZ) | [Joeri Plaizier](https://open.spotify.com/artist/5qp7iwZO2wQ3WzHZjvb9w1) | [Alleen Voor Jou](https://open.spotify.com/album/06wadVvM0mzgu4dSvClxy1) | 3:15 |
 
-Snapshot ID: `Zy1GcAAAAACv6NnT7bSRulT7vRwJSUWb`
+Snapshot ID: `Zy3JNwAAAABFw1zWzLHFmmbj12Z13ZGn`

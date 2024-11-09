@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-371 songs - 17 hr 51 min
+372 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Plus 1 \(feat\. Nasty C\)](https://open.spotify.com/track/5Vd61zAJWNiPlj7JLT7Elj) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Twin Palms](https://open.spotify.com/artist/3vLMWHCUvKGdN901ti7ylE) | [Plus 1 \(feat\. Nasty C\)](https://open.spotify.com/album/6JWPlOkQqI3zBheWVemmJP) | 3:09 | 2022-05-06 | 2023-02-18 |
 | [Poison \(feat\. CERES\)](https://open.spotify.com/track/5qjyiw8igGbkVmkPsvN22F) | [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Poison \(feat\. CERES\)](https://open.spotify.com/album/6fZ3oqdKX8vOS7z1BnBNfd) | 2:09 | 2024-09-13 |  |
 | [Pompeii \(feat\. Crooked Bangs\)](https://open.spotify.com/track/1lh1f7hKVPSX70kBb6Uf4v) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Pompeii \(feat\. Crooked Bangs\)](https://open.spotify.com/album/3Y10pwQZ9FUIpOelXxirRx) | 3:20 | 2022-05-13 | 2023-04-09 |
+| [Praise To The Bass](https://open.spotify.com/track/79dJRAdykQcSXlGTKdMThu) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Praise To The Bass](https://open.spotify.com/album/01WXivam8OeD3OrHuYyHFX) | 3:07 | 2024-11-08 |  |
 | [Pulsar](https://open.spotify.com/track/4IeJ9s4ePWA7dZIKfRBdOe) | [NIO](https://open.spotify.com/artist/4I6tYUJc1ywHMJCr3vPfWI) | [Pulsar](https://open.spotify.com/album/5AtZcD5sFFXL0tyCLNaBEb) | 3:02 | 2024-06-04 |  |
 | [Pump It Up](https://open.spotify.com/track/0qmua4YsDzfz9svXRNtOgb) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [The Black & White Brothers](https://open.spotify.com/artist/6xaKognesdbX04PEXszfcv) | [Pump It Up](https://open.spotify.com/album/25iABixZchqQ3DC7dFdR6v) | 2:47 | 2022-11-04 | 2023-12-14 |
 | [Pump It Up](https://open.spotify.com/track/3LBjEgzayDLlB72ItAfFMP) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW) | [Pump It Up](https://open.spotify.com/album/4JG7RhBm4wxPCPG3ZUBl3T) | 2:24 | 2023-07-14 |  |

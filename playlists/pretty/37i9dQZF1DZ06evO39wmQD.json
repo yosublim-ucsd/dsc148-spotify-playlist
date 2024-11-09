@@ -1,13 +1,33 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 2701,
+  "num_followers": 2706,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyqxgAAAAABGnogyaS7GwkFXCT/GwYDy",
+  "snapshot_id": "ZywDAAAAAAAO/izbkP4wJQHpFHvtwZVL",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beyond (End Credit Version) [From \"Vaiana 2\"]",
+        "url": "https://open.spotify.com/album/5NzymxSmwBmqdSsPDQYR6b"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Te Vaka",
+          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Beyond (End Credit Version) - From \"Vaiana 2\"",
+      "url": "https://open.spotify.com/track/5uWxvYWgZPqtlowVViHixH"
+    },
     {
       "added_at": null,
       "album": {

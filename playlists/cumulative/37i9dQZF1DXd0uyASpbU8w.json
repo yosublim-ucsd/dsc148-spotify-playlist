@@ -26727,6 +26727,32 @@
     },
     {
       "album": {
+        "name": "Fast Lane",
+        "url": "https://open.spotify.com/album/0rx9einNKykZUWhkFd5tOi"
+      },
+      "artists": [
+        {
+          "name": "Jolly B",
+          "url": "https://open.spotify.com/artist/2OgOlMcLNRmEAjnBJE9NFG"
+        },
+        {
+          "name": "Mochen",
+          "url": "https://open.spotify.com/artist/7DkwT8IpIAjcquKnCwyFRg"
+        },
+        {
+          "name": "CTT Beats",
+          "url": "https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191399,
+      "name": "Fast Lane",
+      "url": "https://open.spotify.com/track/4FqnxUO1rxOrIDnpYqllls"
+    },
+    {
+      "album": {
         "name": "Fast Life",
         "url": "https://open.spotify.com/album/7drmsf41QcVBBiIJj8gIoA"
       },
@@ -35194,10 +35220,6 @@
         {
           "name": "DTX",
           "url": "https://open.spotify.com/artist/1LbAw7swSIJ3xv0vgyaFws"
-        },
-        {
-          "name": "Sauti Sol",
-          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
         }
       ],
       "date_added": "2024-11-08",
@@ -69425,7 +69447,7 @@
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 219685,
+      "duration_ms": 186491,
       "name": "One Of Them",
       "url": "https://open.spotify.com/track/6NLQOu4ScjSpun8yFJyJMo"
     },

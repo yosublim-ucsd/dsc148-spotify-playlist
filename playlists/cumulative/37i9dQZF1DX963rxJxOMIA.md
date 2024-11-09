@@ -2,13 +2,14 @@
 
 ### [FINO](https://open.spotify.com/playlist/37i9dQZF1DX963rxJxOMIA)
 
-> Fino y elegante, como Maisak y EL FERXXO
+> Fino y elegante, como KAROL G y el combo +57
 
-271 songs - 14 hr 20 min
+272 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+18](https://open.spotify.com/track/51TJh1UIuNYFWyhpSelRGc) | [Seppe & Gama](https://open.spotify.com/artist/0F5CR3Pa9bThSXd4kyedcg), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [+18](https://open.spotify.com/album/4dq0sUyRMMIKzqwbduS3SS) | 3:30 | 2022-09-06 | 2022-09-10 |
+| [+57](https://open.spotify.com/track/3mg9jYNC1NihbthlglzrWP) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [+57](https://open.spotify.com/album/5TT8KluomuelzsNF7T1U37) | 4:58 | 2024-11-08 |  |
 | [10 Am](https://open.spotify.com/track/1jUZ3VfJxo2HuyQkRlLDbM) | [Koora](https://open.spotify.com/artist/3mWID7rld1CKPADQLJnqQI) | [10 Am](https://open.spotify.com/album/5gqfgnOGMlH5KgEZYeZfio) | 2:37 | 2022-10-13 | 2022-10-26 |
 | [10 PM](https://open.spotify.com/track/3a0P7wE7Gv3ztKND45C3jv) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [10 PM](https://open.spotify.com/album/5QP7KzyD4Q78s7hpqVA5Wf) | 3:33 | 2022-09-06 | 2022-10-14 |
 | [14/20](https://open.spotify.com/track/61fxkxoroML09OXhhUfsP4) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [14/20](https://open.spotify.com/album/6vdBr8NQLpiS67TpgMYybx) | 3:15 | 2023-04-21 | 2024-01-27 |
@@ -20,7 +21,7 @@
 | [Alguien Más](https://open.spotify.com/track/5mROvpdGeu1vSbZhZoay5O) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Alguien Más](https://open.spotify.com/album/75hoyFZLUqsTxCAq2JpCGG) | 2:57 | 2022-10-13 | 2023-01-21 |
 | [Almas Gemelas](https://open.spotify.com/track/5Y37PYMXdUxfpCWn9o5r6f) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [12 12](https://open.spotify.com/album/6zSJ3hOlv7MdsBnoTsorpd) | 2:09 | 2023-08-25 | 2023-10-07 |
 | [AMOR DE MI VIDA](https://open.spotify.com/track/2C6eINAA8cO6e5a8PjnWsK) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [INTER SHIBUYA \(FERXXO EDITION\)](https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE) | 3:09 | 2022-09-06 | 2022-10-01 |
-| [Amor De Tu Vida](https://open.spotify.com/track/03QLTFZF6eOocO2k5Hr46b) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh) | [Amor De Tu Vida](https://open.spotify.com/album/6B8mzpVckUHYhhDREGH83e) | 2:51 | 2024-08-16 | 2024-11-02 |
+| [Amor De Tu Vida](https://open.spotify.com/track/03QLTFZF6eOocO2k5Hr46b) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh) | [Amor De Tu Vida](https://open.spotify.com/album/6B8mzpVckUHYhhDREGH83e) | 2:51 | 2024-08-16 |  |
 | [Amor De Una Noche](https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Reggaetonea](https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni) | 3:29 | 2022-09-06 | 2022-10-14 |
 | [Amor Y Sal](https://open.spotify.com/track/3IAsSc2qUCyMHfqj40T3Jh) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Amor Y Sal](https://open.spotify.com/album/0MU1M5rDvhoUlZIw2407nJ) | 2:32 | 2022-09-09 | 2022-10-07 |
 | [AP](https://open.spotify.com/track/44Gd0fsaqfM814xSWqgTe4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv) | [AP](https://open.spotify.com/album/2961gn3NRzleGQPWL0wJf2) | 3:33 | 2023-02-10 | 2023-04-22 |
@@ -242,7 +243,7 @@
 | [SOLA ES MEJOR](https://open.spotify.com/track/6b5LFS96QBt4qJ5Yd3tfqm) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Yandar & Yostin](https://open.spotify.com/artist/3ptY5WTxu77JpAQQnHyxEl) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:20 | 2022-10-13 | 2023-02-25 |
 | [Solitario](https://open.spotify.com/track/2NrpiW6Kc1XPm9AzmvuxEa) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Siempre Blessd](https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4) | 3:25 | 2022-11-03 | 2023-06-30 |
 | [Soltera \- W Sound 01](https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Soltera \(W Sound 01\)](https://open.spotify.com/album/5UQC6N5rRND3GZKzysRdA4) | 2:22 | 2024-08-09 |  |
-| [SORNERO](https://open.spotify.com/track/1kKhy7DEPN4fUj8OPIJrOk) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [SORNERO](https://open.spotify.com/album/2MV34WRwGIClaHGjhZmK1f) | 3:28 | 2024-11-01 |  |
+| [SORNERO](https://open.spotify.com/track/1kKhy7DEPN4fUj8OPIJrOk) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [SORNERO](https://open.spotify.com/album/2MV34WRwGIClaHGjhZmK1f) | 3:28 | 2024-11-01 | 2024-11-09 |
 | [SORRY 4 THAT MUCH](https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SORRY 4 THAT MUCH](https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC) | 3:27 | 2024-06-07 |  |
 | [Stunt Life](https://open.spotify.com/track/7cltqN5aU4QDevKw4nHTTv) | [Teo LB](https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo) | [A Tope](https://open.spotify.com/album/6mSxJETRf3SranFbgFs1QM) | 3:18 | 2023-04-21 | 2023-04-29 |
 | [Sueltas](https://open.spotify.com/track/6PkiSdWbhsuFP9qaFyu3CA) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Sueltas](https://open.spotify.com/album/7owbqoUvVQBJYuoEto3IMe) | 2:43 | 2023-03-17 | 2023-06-24 |
@@ -277,7 +278,7 @@
 | [X 1 BESO](https://open.spotify.com/track/0aLsiURB2GJoiN0mmtEQ5P) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [X 1 BESO](https://open.spotify.com/album/1kUAz9cWiD0B2UOW0lpA6W) | 3:08 | 2023-03-17 | 2023-12-09 |
 | [X Ti Lo Digo](https://open.spotify.com/track/1nT6epkjhga9uBDKrHIWVe) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [X Ti Lo Digo](https://open.spotify.com/album/4ifI86bX1iJP68q2AogGBM) | 3:11 | 2022-09-06 | 2022-10-14 |
 | [XQ Te Pones Así](https://open.spotify.com/track/6JUMswocQ7Hp46kj9kyljT) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 3:38 | 2022-09-14 | 2023-04-22 |
-| [YA NO VOLVERÁS](https://open.spotify.com/track/57B9XH31E2UYEnQ5mppQdz) | [Cris Valencia](https://open.spotify.com/artist/7xP0fQcNHEMD9yL5j4ERz1), [El High](https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp) | [YA NO VOLVERÁS](https://open.spotify.com/album/0zDyw2Xv0AH3lx47RwjvdP) | 2:40 | 2024-07-26 |  |
+| [YA NO VOLVERÁS](https://open.spotify.com/track/57B9XH31E2UYEnQ5mppQdz) | [Cris Valencia](https://open.spotify.com/artist/7xP0fQcNHEMD9yL5j4ERz1), [El High](https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp) | [YA NO VOLVERÁS](https://open.spotify.com/album/0zDyw2Xv0AH3lx47RwjvdP) | 2:40 | 2024-07-26 | 2024-11-09 |
 | [¡Ya no me pregunten por mi ex!](https://open.spotify.com/track/0gmZhxA8E5rDXUSwODW9X7) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [¡Ya no me pregunten por mi ex!](https://open.spotify.com/album/5id7Y3fY4e2ZxP43yquSxK) | 2:10 | 2024-08-16 |  |
 
 \*This playlist was first scraped on 2022-09-07. Prior content cannot be recovered.

@@ -1,13 +1,49 @@
 {
-  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: COBRAH",
-  "num_followers": 193118,
+  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Lady Gaga",
+  "num_followers": 193184,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxsXwAAAAABnUwBiHh9CyjW5JUzjo5f/",
+  "snapshot_id": "Zy2a0AAAAABbhF0e8hX1eSpl9RFF5OTc",
   "tracks": [
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 229997,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "DJ Play A Christmas Song",
+        "url": "https://open.spotify.com/album/6YPrceRYDOvKzxMFwvR31s"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 242533,
+      "name": "DJ Play A Christmas Song",
+      "url": "https://open.spotify.com/track/0ZoBFUJ5ZnFU7K3YZbzNN6"
+    },
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
@@ -25,20 +61,36 @@
       "url": "https://open.spotify.com/track/6FdrYNu0r4XEK2jHTMq6Yx"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
+        "name": "Wet & Wild",
+        "url": "https://open.spotify.com/album/5ZPDn7ez0CHHEQGaqQFDuH"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
         }
       ],
-      "duration_ms": 229997,
-      "name": "Disease",
-      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
+      "duration_ms": 182210,
+      "name": "Wet & Wild",
+      "url": "https://open.spotify.com/track/7bumwccn1j5e52UmdYZ7fG"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "trap door",
+        "url": "https://open.spotify.com/album/52ar9wGQcVsqytxEqkUoPu"
+      },
+      "artists": [
+        {
+          "name": "TEHYA",
+          "url": "https://open.spotify.com/artist/1h6hhwFYj4KZTdqq42pjQw"
+        }
+      ],
+      "duration_ms": 179856,
+      "name": "trap door",
+      "url": "https://open.spotify.com/track/6jd2rg6MMpZ2q7sf1E6MAD"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -57,6 +109,46 @@
       "url": "https://open.spotify.com/track/0VZcRtXhRxJRC8hc8TxpE5"
     },
     {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "about dancing",
+        "url": "https://open.spotify.com/album/3w7vFCsg2T4ft0HjvoDTdy"
+      },
+      "artists": [
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        }
+      ],
+      "duration_ms": 157028,
+      "name": "yoyo",
+      "url": "https://open.spotify.com/track/6DNVY8fSGfbK28aO0qhIbG"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Holiday Road - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 125196,
+      "name": "Holiday Road - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb"
+    },
+    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "TRUST!",
@@ -71,6 +163,22 @@
       "duration_ms": 171433,
       "name": "TRUST!",
       "url": "https://open.spotify.com/track/0bxWdk5xYFcV7cm0tj6Q0R"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Crocodile Tears",
+        "url": "https://open.spotify.com/album/499ZF3XSIOoIvMWSPKCs7J"
+      },
+      "artists": [
+        {
+          "name": "Lauren Mayberry",
+          "url": "https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph"
+        }
+      ],
+      "duration_ms": 203766,
+      "name": "Crocodile Tears",
+      "url": "https://open.spotify.com/track/1N9NFVAs9guuJmgOh5eowj"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -177,6 +285,26 @@
       "url": "https://open.spotify.com/track/0MG5kEZwTRrjKc0RZo9iCA"
     },
     {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "These Walls (feat. Pierre de Maere)",
+        "url": "https://open.spotify.com/album/4FKnJE18DVG0Msk4D3NSYW"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Pierre de Maere",
+          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
+        }
+      ],
+      "duration_ms": 217597,
+      "name": "These Walls (feat. Pierre de Maere)",
+      "url": "https://open.spotify.com/track/67LH2dzXF67Oi80yJaVYd7"
+    },
+    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Tension II",
@@ -255,26 +383,6 @@
       "duration_ms": 176228,
       "name": "10,000 Faces",
       "url": "https://open.spotify.com/track/7aO4ET0kb0cm3fyk7ZBN0l"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 154126,
-      "name": "Sympathy is a knife featuring ariana grande",
-      "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -653,22 +761,6 @@
       "url": "https://open.spotify.com/track/1Usa6cB2gKlOEghLIPF4V8"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Rhetorical Questions",
-        "url": "https://open.spotify.com/album/3j4QdU7FlRNF7eXJTJKUS7"
-      },
-      "artists": [
-        {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "Rhetorical Questions",
-      "url": "https://open.spotify.com/track/4QR8axjkh9dPhey4BxOdpE"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Mine",
@@ -699,22 +791,6 @@
       "duration_ms": 162253,
       "name": "Lights Camera Action",
       "url": "https://open.spotify.com/track/1yICUJxGHVxxTXCUXxS78f"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Moonlit Floor (Kiss Me)",
-        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 155757,
-      "name": "Moonlit Floor (Kiss Me)",
-      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -843,30 +919,6 @@
       "duration_ms": 166956,
       "name": "Alias",
       "url": "https://open.spotify.com/track/6YI3WUU7YmDs8OnLBp77wS"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/1jWcipGHDLJ94RMB2XUhgK"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Lorenz Rhode",
-          "url": "https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF"
-        },
-        {
-          "name": "Jake Shears",
-          "url": "https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1"
-        }
-      ],
-      "duration_ms": 332948,
-      "name": "Dirty Pleasures (feat. Jake Shears)",
-      "url": "https://open.spotify.com/track/3uxsluuL27pxNO2PQz1phW"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1155,22 +1207,6 @@
     {
       "added_at": "2024-08-18 21:26:47",
       "album": {
-        "name": "99% ANGEL",
-        "url": "https://open.spotify.com/album/2zWbHOqxYYHBZLcujr9fGY"
-      },
-      "artists": [
-        {
-          "name": "Sorana",
-          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "99% ANGEL",
-      "url": "https://open.spotify.com/track/5fZlbHpe7bOU0MG2DHM0tB"
-    },
-    {
-      "added_at": "2024-08-18 21:26:47",
-      "album": {
         "name": "Angel Of My Dreams",
         "url": "https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA"
       },
@@ -1199,22 +1235,6 @@
       "duration_ms": 180491,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/5bMdfSrxswyycOunsnHX9s"
-    },
-    {
-      "added_at": "2024-08-18 21:26:47",
-      "album": {
-        "name": "HAUS!",
-        "url": "https://open.spotify.com/album/4Pk05MFV1ps8GzBE2YEVyw"
-      },
-      "artists": [
-        {
-          "name": "Madison Rose",
-          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
-        }
-      ],
-      "duration_ms": 199111,
-      "name": "HAUS!",
-      "url": "https://open.spotify.com/track/3MdDKZ2SoP5WTQ6XPLzdpE"
     },
     {
       "added_at": "2024-08-18 21:26:47",
@@ -1431,22 +1451,6 @@
     {
       "added_at": "2024-08-18 21:26:47",
       "album": {
-        "name": "La_Playlist.mpeg",
-        "url": "https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 149571,
-      "name": "La_Playlist.mpeg",
-      "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
-    },
-    {
-      "added_at": "2024-08-18 21:26:47",
-      "album": {
         "name": "Como en un Drama Italiano",
         "url": "https://open.spotify.com/album/1QWvS9hwm2kJtlE6PG1Mo3"
       },
@@ -1459,26 +1463,6 @@
       "duration_ms": 165384,
       "name": "Como en un Drama Italiano",
       "url": "https://open.spotify.com/track/2LOujJBGzFkGS7ptJJ2giQ"
-    },
-    {
-      "added_at": "2024-08-18 21:26:47",
-      "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/1ZVBWask9JSAT7nbkCvCRK"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 205897,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/5XWwqKNVlQO07sdngDh8iL"
     },
     {
       "added_at": "2024-08-18 21:26:47",
@@ -1551,122 +1535,6 @@
     {
       "added_at": "2024-08-18 21:26:47",
       "album": {
-        "name": "shiversucker (feat. Suzi Wu)",
-        "url": "https://open.spotify.com/album/3v42YrMxArtlJrxEjtRhkT"
-      },
-      "artists": [
-        {
-          "name": "Madge",
-          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
-        },
-        {
-          "name": "Suzi Wu",
-          "url": "https://open.spotify.com/artist/0AZ01mYEHgw7ZwKIbgEjBi"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "shiversucker (feat. Suzi Wu)",
-      "url": "https://open.spotify.com/track/08yQrUffF2D43OJcRExm1m"
-    },
-    {
-      "added_at": "2024-08-18 21:26:47",
-      "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 181481,
-      "name": "One Of Your Girls",
-      "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
-    },
-    {
-      "added_at": "2024-08-18 21:26:47",
-      "album": {
-        "name": "Alibi (with Pabllo Vittar & Yseult)",
-        "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
-      },
-      "artists": [
-        {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 161655,
-      "name": "Alibi (with Pabllo Vittar & Yseult)",
-      "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
-    },
-    {
-      "added_at": "2024-08-18 21:26:47",
-      "album": {
-        "name": "Man In Finance (G6 Trust Fund)",
-        "url": "https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs"
-      },
-      "artists": [
-        {
-          "name": "Girl On Couch",
-          "url": "https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy"
-        },
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
-        }
-      ],
-      "duration_ms": 151405,
-      "name": "Man In Finance (G6 Trust Fund)",
-      "url": "https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP"
-    },
-    {
-      "added_at": "2024-08-18 21:26:47",
-      "album": {
-        "name": "Lost In Space",
-        "url": "https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 258939,
-      "name": "Lost In Space",
-      "url": "https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs"
-    },
-    {
-      "added_at": "2024-08-18 21:26:47",
-      "album": {
-        "name": "Bambola",
-        "url": "https://open.spotify.com/album/4yuvVNeV3g2eavxqmut25m"
-      },
-      "artists": [
-        {
-          "name": "toka",
-          "url": "https://open.spotify.com/artist/4iXfHZIKHblaqytMwQhHua"
-        },
-        {
-          "name": "Alexandra Stan",
-          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Bambola",
-      "url": "https://open.spotify.com/track/5RTtx4D4w29MlufofiIikv"
-    },
-    {
-      "added_at": "2024-08-18 21:26:47",
-      "album": {
         "name": "Cursed Romantics",
         "url": "https://open.spotify.com/album/0JKztCLBEY4jKjVSQBWeGE"
       },
@@ -1695,22 +1563,6 @@
       "duration_ms": 201333,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/27LAUdMw4o2B3nezlmwu3l"
-    },
-    {
-      "added_at": "2024-08-18 21:26:47",
-      "album": {
-        "name": "Shut Up And Dance",
-        "url": "https://open.spotify.com/album/2hF853Cnu1FKZ2D9oiwu8G"
-      },
-      "artists": [
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        }
-      ],
-      "duration_ms": 177268,
-      "name": "Shut Up And Dance",
-      "url": "https://open.spotify.com/track/1cZ3mzkuWrAP1uXSWekuLD"
     },
     {
       "added_at": "2024-08-18 21:26:47",

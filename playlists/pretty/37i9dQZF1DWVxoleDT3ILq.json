@@ -1,6 +1,6 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: pau",
-  "num_followers": 121679,
+  "num_followers": 121677,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,22 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
+        "name": "Fuga",
+        "url": "https://open.spotify.com/album/2WdOxEknOxc3eKdybYjznt"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 181274,
+      "name": "Fuga",
+      "url": "https://open.spotify.com/track/7dzNHNlZpGCWmpubnUkNGj"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
         "name": "T\u00f3tem",
         "url": "https://open.spotify.com/album/1Qev0YLrWPskdmabJ7S9p4"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 242060,
       "name": "Acero Chino",
       "url": "https://open.spotify.com/track/1MHEkxXVPLprosZul7eajB"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
-        "name": "Fuga",
-        "url": "https://open.spotify.com/album/2WdOxEknOxc3eKdybYjznt"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 181274,
-      "name": "Fuga",
-      "url": "https://open.spotify.com/track/7dzNHNlZpGCWmpubnUkNGj"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -215,18 +215,22 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "Volver a Llorar",
-        "url": "https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW"
+        "name": "Respirar",
+        "url": "https://open.spotify.com/album/1Fyv3RDkDtxR7UrF7zXQIw"
       },
       "artists": [
         {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        },
+        {
+          "name": "Mylo B",
+          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
         }
       ],
-      "duration_ms": 160533,
-      "name": "Volver a Llorar",
-      "url": "https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi"
+      "duration_ms": 167457,
+      "name": "Respirar",
+      "url": "https://open.spotify.com/track/3zqFGAAZScGyrsiMuYtMOi"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -251,22 +255,18 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "Respirar",
-        "url": "https://open.spotify.com/album/1Fyv3RDkDtxR7UrF7zXQIw"
+        "name": "Volver a Llorar",
+        "url": "https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW"
       },
       "artists": [
         {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        },
-        {
-          "name": "Mylo B",
-          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
         }
       ],
-      "duration_ms": 167457,
-      "name": "Respirar",
-      "url": "https://open.spotify.com/track/3zqFGAAZScGyrsiMuYtMOi"
+      "duration_ms": 160533,
+      "name": "Volver a Llorar",
+      "url": "https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
+        "name": "Vamos Muchacho",
+        "url": "https://open.spotify.com/album/0KfCleWSlHpNYQc4ouhJcL"
+      },
+      "artists": [
+        {
+          "name": "El C\u00f3modo Silencio De Los Que Hablan Poco",
+          "url": "https://open.spotify.com/artist/3HrR1EoGCQa4Cl2fv2QyTk"
+        }
+      ],
+      "duration_ms": 105315,
+      "name": "Vamos Muchacho",
+      "url": "https://open.spotify.com/track/22FQvFZHnHhbE0fKsX3e8x"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
         "name": "Comida China",
         "url": "https://open.spotify.com/album/5C7cBSWs7ANBAjCdPuv4x5"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 162993,
       "name": "Comida China",
       "url": "https://open.spotify.com/track/5oWz29Lp0mLiA9d0wPJNsG"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
-        "name": "Vamos Muchacho",
-        "url": "https://open.spotify.com/album/0KfCleWSlHpNYQc4ouhJcL"
-      },
-      "artists": [
-        {
-          "name": "El C\u00f3modo Silencio De Los Que Hablan Poco",
-          "url": "https://open.spotify.com/artist/3HrR1EoGCQa4Cl2fv2QyTk"
-        }
-      ],
-      "duration_ms": 105315,
-      "name": "Vamos Muchacho",
-      "url": "https://open.spotify.com/track/22FQvFZHnHhbE0fKsX3e8x"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "Se\u00f1orita (Proux Remix)",
-        "url": "https://open.spotify.com/album/1ZQR6O6yvDGqCtm5qhUk1G"
-      },
-      "artists": [
-        {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
-        },
-        {
-          "name": "Proux",
-          "url": "https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu"
-        }
-      ],
-      "duration_ms": 179743,
-      "name": "Se\u00f1orita - Proux Remix",
-      "url": "https://open.spotify.com/track/3xXdBWoyum0dxoNPEBoXPO"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
         "name": "Tur Blues",
         "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
       },
@@ -903,18 +883,38 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "Decir Amor",
-        "url": "https://open.spotify.com/album/2vFPk48Kx3R91Zr3RwyGTv"
+        "name": "Se\u00f1orita (Proux Remix)",
+        "url": "https://open.spotify.com/album/1ZQR6O6yvDGqCtm5qhUk1G"
       },
       "artists": [
         {
-          "name": "Nando Garc\u00eda",
-          "url": "https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf"
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+        },
+        {
+          "name": "Proux",
+          "url": "https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu"
         }
       ],
-      "duration_ms": 242382,
-      "name": "Prometer algo",
-      "url": "https://open.spotify.com/track/4MVktX0iySLlTxm3xFkOat"
+      "duration_ms": 179743,
+      "name": "Se\u00f1orita - Proux Remix",
+      "url": "https://open.spotify.com/track/3xXdBWoyum0dxoNPEBoXPO"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
+        "name": "Bailar en la Cuerda Floja",
+        "url": "https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 221620,
+      "name": "Bailar en la Cuerda Floja",
+      "url": "https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -955,18 +955,18 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "Bailar en la Cuerda Floja",
-        "url": "https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra"
+        "name": "Decir Amor",
+        "url": "https://open.spotify.com/album/2vFPk48Kx3R91Zr3RwyGTv"
       },
       "artists": [
         {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+          "name": "Nando Garc\u00eda",
+          "url": "https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf"
         }
       ],
-      "duration_ms": 221620,
-      "name": "Bailar en la Cuerda Floja",
-      "url": "https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII"
+      "duration_ms": 242382,
+      "name": "Prometer algo",
+      "url": "https://open.spotify.com/track/4MVktX0iySLlTxm3xFkOat"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
+        "name": "T\u00fa, Yo y Otra Dimensi\u00f3n",
+        "url": "https://open.spotify.com/album/787WYgcOHnslKVi5jXlX9j"
+      },
+      "artists": [
+        {
+          "name": "Autom\u00e1tico",
+          "url": "https://open.spotify.com/artist/0HiaC6yJUDlEjZUj8axdWk"
+        },
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 282060,
+      "name": "T\u00fa, Yo y Otra Dimensi\u00f3n",
+      "url": "https://open.spotify.com/track/1WTSQryXy1H1DpZ9RgjB2a"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
         "name": "Ya No Te Quiero",
         "url": "https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy"
       },
@@ -1075,6 +1095,22 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
+        "name": "Besar",
+        "url": "https://open.spotify.com/album/4yi3wXhft1ZSKwjtcPBBn2"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+        }
+      ],
+      "duration_ms": 205893,
+      "name": "Besar",
+      "url": "https://open.spotify.com/track/6h4TezY1CEQGGJPYyT7RzV"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
         "name": "Fachada Continua",
         "url": "https://open.spotify.com/album/09l1PShMZndBTxjVD2nYMR"
       },
@@ -1091,22 +1127,6 @@
       "duration_ms": 246349,
       "name": "Fachada Continua",
       "url": "https://open.spotify.com/track/0vBmnm1xu5k4j5Yb3S1rCs"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
-        "name": "Besar",
-        "url": "https://open.spotify.com/album/4yi3wXhft1ZSKwjtcPBBn2"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        }
-      ],
-      "duration_ms": 205893,
-      "name": "Besar",
-      "url": "https://open.spotify.com/track/6h4TezY1CEQGGJPYyT7RzV"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -1151,26 +1171,6 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "Zodiac",
-        "url": "https://open.spotify.com/album/4DEeGVOrUD6twDDYbMFfgF"
-      },
-      "artists": [
-        {
-          "name": "Spiral Vortex",
-          "url": "https://open.spotify.com/artist/4bvm188tbbv8vPZvWExXsb"
-        },
-        {
-          "name": "Natalia Spiner",
-          "url": "https://open.spotify.com/artist/1sZOtmJhnHfBgjvkuW7sK6"
-        }
-      ],
-      "duration_ms": 258579,
-      "name": "Zodiac",
-      "url": "https://open.spotify.com/track/1wqRF4XJeKXvVV3BcTyluo"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
         "name": "DIAMANTE",
         "url": "https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD"
       },
@@ -1207,6 +1207,26 @@
       "duration_ms": 178285,
       "name": "aterrizar",
       "url": "https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
+        "name": "Zodiac",
+        "url": "https://open.spotify.com/album/4DEeGVOrUD6twDDYbMFfgF"
+      },
+      "artists": [
+        {
+          "name": "Spiral Vortex",
+          "url": "https://open.spotify.com/artist/4bvm188tbbv8vPZvWExXsb"
+        },
+        {
+          "name": "Natalia Spiner",
+          "url": "https://open.spotify.com/artist/1sZOtmJhnHfBgjvkuW7sK6"
+        }
+      ],
+      "duration_ms": 258579,
+      "name": "Zodiac",
+      "url": "https://open.spotify.com/track/1wqRF4XJeKXvVV3BcTyluo"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -1283,26 +1303,6 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "Vamos para Atr\u00e1s",
-        "url": "https://open.spotify.com/album/664XtuS2twoeyTSwfqKIgE"
-      },
-      "artists": [
-        {
-          "name": "Mec\u00e1nico",
-          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
-        },
-        {
-          "name": "Tati Falco",
-          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
-        }
-      ],
-      "duration_ms": 254285,
-      "name": "Vamos para Atr\u00e1s",
-      "url": "https://open.spotify.com/track/4nDERktPgJp6goDn4u5qtc"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
         "name": "Ella Me Dijo",
         "url": "https://open.spotify.com/album/0Md6dUyqlF0v2i3NpyRYSK"
       },
@@ -1319,18 +1319,22 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "AMOR EVITATIVO",
-        "url": "https://open.spotify.com/album/5WAilTili7KDIEibSjpyk8"
+        "name": "Vamos para Atr\u00e1s",
+        "url": "https://open.spotify.com/album/664XtuS2twoeyTSwfqKIgE"
       },
       "artists": [
         {
-          "name": "Poder Fantasma",
-          "url": "https://open.spotify.com/artist/7BAa5FikfNdBTzy3FNBV0w"
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+        },
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
         }
       ],
-      "duration_ms": 202000,
-      "name": "KAWAII MUY TIERNA",
-      "url": "https://open.spotify.com/track/3OnVUPG7varDTzn8wbyWgT"
+      "duration_ms": 254285,
+      "name": "Vamos para Atr\u00e1s",
+      "url": "https://open.spotify.com/track/4nDERktPgJp6goDn4u5qtc"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -1355,38 +1359,18 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "T\u00fa, Yo y Otra Dimensi\u00f3n",
-        "url": "https://open.spotify.com/album/787WYgcOHnslKVi5jXlX9j"
+        "name": "AMOR EVITATIVO",
+        "url": "https://open.spotify.com/album/5WAilTili7KDIEibSjpyk8"
       },
       "artists": [
         {
-          "name": "Autom\u00e1tico",
-          "url": "https://open.spotify.com/artist/0HiaC6yJUDlEjZUj8axdWk"
-        },
-        {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+          "name": "Poder Fantasma",
+          "url": "https://open.spotify.com/artist/7BAa5FikfNdBTzy3FNBV0w"
         }
       ],
-      "duration_ms": 282060,
-      "name": "T\u00fa, Yo y Otra Dimensi\u00f3n",
-      "url": "https://open.spotify.com/track/1WTSQryXy1H1DpZ9RgjB2a"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
-        "name": "Pangal",
-        "url": "https://open.spotify.com/album/7Jvhy8k5mSE9hiMXCp89Lp"
-      },
-      "artists": [
-        {
-          "name": "Arranquemos del Invierno",
-          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
-        }
-      ],
-      "duration_ms": 174325,
-      "name": "Pangal",
-      "url": "https://open.spotify.com/track/3E739758DB9IJ1dBoRDX2Z"
+      "duration_ms": 202000,
+      "name": "KAWAII MUY TIERNA",
+      "url": "https://open.spotify.com/track/3OnVUPG7varDTzn8wbyWgT"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -1451,18 +1435,18 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "Donde Mueren Todos",
-        "url": "https://open.spotify.com/album/7H9luEo8S8ZrmfTXeBvpgM"
+        "name": "Pangal",
+        "url": "https://open.spotify.com/album/7Jvhy8k5mSE9hiMXCp89Lp"
       },
       "artists": [
         {
-          "name": "Prehist\u00f6ricos",
-          "url": "https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB"
+          "name": "Arranquemos del Invierno",
+          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
         }
       ],
-      "duration_ms": 189416,
-      "name": "Donde Mueren Todos",
-      "url": "https://open.spotify.com/track/44oCQkDKciyv322yWTCOTz"
+      "duration_ms": 174325,
+      "name": "Pangal",
+      "url": "https://open.spotify.com/track/3E739758DB9IJ1dBoRDX2Z"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -1479,6 +1463,22 @@
       "duration_ms": 174526,
       "name": "Sabes",
       "url": "https://open.spotify.com/track/1zvFHmZkxyxUOpAaMRi2qm"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
+        "name": "Donde Mueren Todos",
+        "url": "https://open.spotify.com/album/7H9luEo8S8ZrmfTXeBvpgM"
+      },
+      "artists": [
+        {
+          "name": "Prehist\u00f6ricos",
+          "url": "https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB"
+        }
+      ],
+      "duration_ms": 189416,
+      "name": "Donde Mueren Todos",
+      "url": "https://open.spotify.com/track/44oCQkDKciyv322yWTCOTz"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "PANGAL",
-        "url": "https://open.spotify.com/album/1m4evpITxoGhQN3NNH5vl4"
-      },
-      "artists": [
-        {
-          "name": "Arranquemos del Invierno",
-          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
-        }
-      ],
-      "duration_ms": 164960,
-      "name": "Eres Mi Pena",
-      "url": "https://open.spotify.com/track/4qlLAiasfd3rYojFV7lBza"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/7gNdaydtI1DfL8EB5GJxBn"
       },
@@ -1583,6 +1567,38 @@
       "duration_ms": 277714,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/1CmeVB662WNqknJ78htsuB"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
+        "name": "IKARO",
+        "url": "https://open.spotify.com/album/687jphzyNm4w2mjd2BASOk"
+      },
+      "artists": [
+        {
+          "name": "Planetario",
+          "url": "https://open.spotify.com/artist/4KyZLSFxk5EZnqkceVEvga"
+        }
+      ],
+      "duration_ms": 363750,
+      "name": "Diferente",
+      "url": "https://open.spotify.com/track/5B9czb7Nibn6TP9sANx5xK"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
+        "name": "PANGAL",
+        "url": "https://open.spotify.com/album/1m4evpITxoGhQN3NNH5vl4"
+      },
+      "artists": [
+        {
+          "name": "Arranquemos del Invierno",
+          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
+        }
+      ],
+      "duration_ms": 164960,
+      "name": "Eres Mi Pena",
+      "url": "https://open.spotify.com/track/4qlLAiasfd3rYojFV7lBza"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -1603,22 +1619,6 @@
       "duration_ms": 177309,
       "name": "es caprichoso el azar",
       "url": "https://open.spotify.com/track/2Uunn684ajXS2E7Q9efp6e"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
-        "name": "IKARO",
-        "url": "https://open.spotify.com/album/687jphzyNm4w2mjd2BASOk"
-      },
-      "artists": [
-        {
-          "name": "Planetario",
-          "url": "https://open.spotify.com/artist/4KyZLSFxk5EZnqkceVEvga"
-        }
-      ],
-      "duration_ms": 363750,
-      "name": "Diferente",
-      "url": "https://open.spotify.com/track/5B9czb7Nibn6TP9sANx5xK"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -1659,46 +1659,6 @@
       "duration_ms": 198000,
       "name": "Ganas de Verte",
       "url": "https://open.spotify.com/track/1pZXCADGsAjIlhaCpUlpLz"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
-        "name": "REGIO",
-        "url": "https://open.spotify.com/album/7yhpVJHiKdmCxt87S1G9Mw"
-      },
-      "artists": [
-        {
-          "name": "Filgueira",
-          "url": "https://open.spotify.com/artist/0DQLzv4MaQ0SbXa3lazZjU"
-        },
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "PISCINA OL\u00cdMPICA",
-      "url": "https://open.spotify.com/track/1fYEQiQR1aCFcfQDWw7hwt"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
-        "name": "Tengo una Herida",
-        "url": "https://open.spotify.com/album/2tI5IYvx62iHwjuXpgfJxs"
-      },
-      "artists": [
-        {
-          "name": "El \u00c1rbol Que Contiene Todos Los Tiempos",
-          "url": "https://open.spotify.com/artist/0pgl5ZmedAKmgrz6JgDZYG"
-        },
-        {
-          "name": "Acuario",
-          "url": "https://open.spotify.com/artist/5aKV7icKkyzyLgZaWKoX7j"
-        }
-      ],
-      "duration_ms": 160712,
-      "name": "Tengo una Herida",
-      "url": "https://open.spotify.com/track/24TDfDfRjOk7yIrP8JQaq5"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -1755,6 +1715,46 @@
       "duration_ms": 197881,
       "name": "XAT - Juanita La O Remix",
       "url": "https://open.spotify.com/track/2HFqgimGHdB73kdBoNKAY3"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
+        "name": "Tengo una Herida",
+        "url": "https://open.spotify.com/album/2tI5IYvx62iHwjuXpgfJxs"
+      },
+      "artists": [
+        {
+          "name": "El \u00c1rbol Que Contiene Todos Los Tiempos",
+          "url": "https://open.spotify.com/artist/0pgl5ZmedAKmgrz6JgDZYG"
+        },
+        {
+          "name": "Acuario",
+          "url": "https://open.spotify.com/artist/5aKV7icKkyzyLgZaWKoX7j"
+        }
+      ],
+      "duration_ms": 160712,
+      "name": "Tengo una Herida",
+      "url": "https://open.spotify.com/track/24TDfDfRjOk7yIrP8JQaq5"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
+        "name": "REGIO",
+        "url": "https://open.spotify.com/album/7yhpVJHiKdmCxt87S1G9Mw"
+      },
+      "artists": [
+        {
+          "name": "Filgueira",
+          "url": "https://open.spotify.com/artist/0DQLzv4MaQ0SbXa3lazZjU"
+        },
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "PISCINA OL\u00cdMPICA",
+      "url": "https://open.spotify.com/track/1fYEQiQR1aCFcfQDWw7hwt"
     },
     {
       "added_at": "2024-10-14 19:19:40",

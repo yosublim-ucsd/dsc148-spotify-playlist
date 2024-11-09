@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle piano covers.
 
-424 songs - 22 hr 28 min
+426 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Blackbird](https://open.spotify.com/track/6cexWa8kKUHMvs77YamPPs) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [Blackbird](https://open.spotify.com/album/3EDVscTRdrYrar4GWzCYNI) | 3:22 | 2023-06-22 |  |
 | [Blackbird](https://open.spotify.com/track/4tOBuYNT6MX1r6DaVu7HYC) | [Laszlo Teofil](https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a) | [Blackbird](https://open.spotify.com/album/3nnxWFQF3NRprMU3R3V4P4) | 3:08 | 2022-12-16 | 2023-06-23 |
 | [Blessings](https://open.spotify.com/track/1Li49MRO6HwKVMS5GnjKqZ) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [Blessings](https://open.spotify.com/album/0YVoCMCJAPE1GpUZVtWA0w) | 3:23 | 2023-01-20 |  |
+| [Blinding Lights](https://open.spotify.com/track/0lyj9SQRKOg5hEOUzkmwZd) | [Adrienne Clotard](https://open.spotify.com/artist/48yNGJAgVQrkppL5jK0wn1) | [Blinding Lights](https://open.spotify.com/album/3kUQ3M6Dw3X8bD2aDxlpJg) | 3:08 | 2024-11-08 |  |
 | [Blinding Lights \- Piano Version](https://open.spotify.com/track/0ozyv9adSVDED8Emhd8hfu) | [Flying Fingers](https://open.spotify.com/artist/1jUIOsS9vK91Nc9qYvpEab), [Piano Tribute Players](https://open.spotify.com/artist/4Xx6QMLTWppMwdABkN0Afj) | [Blinding Lights \(Piano Version\)](https://open.spotify.com/album/2ektqBOgstESA5KX3CxdYU) | 2:01 | 2022-08-01 |  |
 | [Blowin' In The Wind](https://open.spotify.com/track/3SHt0uSk2iBR9EPsJV69zK) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Blowin' In The Wind](https://open.spotify.com/album/2QERtfdqgfx5EDBj9WMwUh) | 2:02 | 2024-04-15 |  |
 | [Blue \(Da Ba Dee\)](https://open.spotify.com/track/4JGD5NiVmKVGBjVysCvKIw) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/1oFuXts0JAGBn1OhcWZp2F) | 2:59 | 2023-03-17 |  |
@@ -86,11 +87,12 @@
 | [Dancing Queen](https://open.spotify.com/track/4ZAb57aSLA2sf0YBqkfm29) | [Simone Morelli](https://open.spotify.com/artist/0fwledftqxvzcog7xziwbY) | [Dancing Queen](https://open.spotify.com/album/4yC6ASgRwxZXsPLi7rrRXV) | 3:28 | 2024-06-07 |  |
 | [Dancing With A Stranger](https://open.spotify.com/track/2u2DHwVcSQZjxwYXjUYHgT) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Dancing With A Stranger](https://open.spotify.com/album/1hXPgb69uhDHdFttRkOgBZ) | 3:35 | 2023-02-03 | 2023-05-06 |
 | [Daylight](https://open.spotify.com/track/5rBKVZEtA8PK6nTQ3O0DlN) | [Alexander Gresham](https://open.spotify.com/artist/3oF3p8Hna0Ly0WWrnseRNN) | [Daylight](https://open.spotify.com/album/1bM7suwHGrwnaYMfVz1r6J) | 3:14 | 2023-08-10 |  |
-| [Days go By](https://open.spotify.com/track/0d3EGgegMoXW20DTbrNjL7) | [Brand Nor](https://open.spotify.com/artist/6K82W353kltBs93MJIf2Qq) | [Days go By](https://open.spotify.com/album/3sTJQCVLcCDRpcKlxpaSYW) | 2:32 | 2022-10-28 |  |
+| [Days go By](https://open.spotify.com/track/0d3EGgegMoXW20DTbrNjL7) | [Brand Nor](https://open.spotify.com/artist/6K82W353kltBs93MJIf2Qq) | [Days go By](https://open.spotify.com/album/3sTJQCVLcCDRpcKlxpaSYW) | 2:32 | 2022-10-28 | 2024-11-09 |
 | [Despacito](https://open.spotify.com/track/3UMuJHDp6PkATj3In37sNk) | [Raphaela Esquelas](https://open.spotify.com/artist/7pd3yh8h1rD9x8POMkzkgg) | [Despacito](https://open.spotify.com/album/4Dyo8tr52plK5qVrSlijHE) | 3:22 | 2022-08-01 | 2023-03-18 |
 | [Diamonds](https://open.spotify.com/track/27KOvI2gU9fAMddgSTpQw4) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Diamonds](https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n) | 3:09 | 2023-05-05 |  |
 | [Diamonds and Pearls](https://open.spotify.com/track/3WKpflEjBgrePheA5AzsU1) | [Simon Westman](https://open.spotify.com/artist/5BfaOl251rYEVEU1RCwzSW) | [Diamonds and Pearls](https://open.spotify.com/album/7IBC5tXIczTPEPbSIlUGd1) | 2:57 | 2022-08-01 | 2023-06-23 |
 | [Die 4 Me](https://open.spotify.com/track/6UFkfO4Hn0RCiUoL270dpq) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Die 4 Me](https://open.spotify.com/album/4zluT7uuTQrgz55gESxfZe) | 2:36 | 2023-04-28 |  |
+| [Die With A Smile](https://open.spotify.com/track/3NbO3rVszlJViICwud48IU) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [Die With A Smile](https://open.spotify.com/album/1MttF66Wfhp9pwZTLy26mg) | 3:18 | 2024-11-08 |  |
 | [Does Your Mother Know](https://open.spotify.com/track/6juhT2a3M7NmCA085Kb1w0) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Does Your Mother Know](https://open.spotify.com/album/7LF6CwL6GELbzGZKcchpiK) | 3:18 | 2024-02-09 |  |
 | [Don't Dream It's Over](https://open.spotify.com/track/4OECCOjePxmHXVGo54go9F) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [Don't Dream It's Over](https://open.spotify.com/album/4Tn2th2kFSCl3dbHNFdE3y) | 3:08 | 2023-02-03 | 2024-08-10 |
 | [Don't Know Why](https://open.spotify.com/track/12XFOelqiJscv38MPyMqjf) | [Giorgia Montagner](https://open.spotify.com/artist/5TIL6KAyK9cmkOqiHwj7Yu) | [Don't Know Why](https://open.spotify.com/album/3Ps2GzZx1pI6WgBaEaILrL) | 2:43 | 2022-08-01 |  |

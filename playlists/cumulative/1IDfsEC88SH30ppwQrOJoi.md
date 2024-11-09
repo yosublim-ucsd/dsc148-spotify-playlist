@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-345 songs - 17 hr 53 min
+346 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [LEFT TO RIGHT \- JADED Remix](https://open.spotify.com/track/6SejpzU5kr4Jlw2iZyBRwq) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [LEFT TO RIGHT \(JADED Remix\)](https://open.spotify.com/album/0o1mk3UOSifeAFi46JdHL6) | 2:56 | 2023-03-12 | 2024-03-14 |
 | [Legacy](https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Legacy](https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai) | 3:50 | 2023-10-13 | 2024-08-03 |
 | [Les Gout](https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Les Gout](https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV) | 5:44 | 2023-08-22 | 2024-03-14 |
+| [Let Me Go](https://open.spotify.com/track/1HacAMT0gWQWqytCIHsCEZ) | [White Whale](https://open.spotify.com/artist/7iJ8iFAOikb11EdAAP4H5B) | [Let Me Go](https://open.spotify.com/album/1jlXyBiS1igy6FKg6GCdci) | 3:05 | 2024-11-08 |  |
 | [Let The Music Play](https://open.spotify.com/track/3FINJjWtt1T5cEsUVyQY85) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0), [Eddie Craig](https://open.spotify.com/artist/69IpNz134fIjeb0E6E8M6X) | [Let The Music Play](https://open.spotify.com/album/0MenbU7UQ1dNGsJy8GB9eK) | 2:54 | 2024-08-02 |  |
 | [Let You Down](https://open.spotify.com/track/4furYdIsKWxGZDMbyAKfph) | [Steven Roys](https://open.spotify.com/artist/4GAPAAID8ohZe8QdJ5wEQi), [AstroWilk](https://open.spotify.com/artist/109DXBNtpYRi35I7lQ8QOm) | [Let You Down](https://open.spotify.com/album/12SUcQ8PXVhhsTjz3GPzsg) | 2:36 | 2023-10-30 | 2024-03-14 |
 | [Let You Down \(with Gabry Ponte\)](https://open.spotify.com/track/57BlL9l7O9JmUcD4cFnCH8) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Let You Down \(with Gabry Ponte\)](https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX) | 2:29 | 2024-04-26 |  |

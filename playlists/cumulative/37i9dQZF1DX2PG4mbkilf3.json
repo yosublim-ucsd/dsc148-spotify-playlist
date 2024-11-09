@@ -5489,6 +5489,24 @@
     },
     {
       "album": {
+        "name": "Dreamin",
+        "url": "https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147146,
+      "name": "Dreamin",
+      "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
+    },
+    {
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/7uzN6TOWx3PIKIytVpKMyQ"
       },
@@ -5562,6 +5580,24 @@
       "duration_ms": 169698,
       "name": "Drive All Night",
       "url": "https://open.spotify.com/track/4uQLsq21yvPaSNxTaTo2ou"
+    },
+    {
+      "album": {
+        "name": "Drive Me Crazy",
+        "url": "https://open.spotify.com/album/5cvwR7gP8SrzyOsrdvILr2"
+      },
+      "artists": [
+        {
+          "name": "Myles Lloyd",
+          "url": "https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Drive Me Crazy",
+      "url": "https://open.spotify.com/track/1pPIpBWyQu3gI2FSkyRiz7"
     },
     {
       "album": {
@@ -6090,7 +6126,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 215714,
       "name": "Excited",
       "url": "https://open.spotify.com/track/7rxLhlk79fYQIEe5fBb7NN"
@@ -6496,6 +6532,24 @@
       "duration_ms": 243750,
       "name": "Feel Everything",
       "url": "https://open.spotify.com/track/3cXOJWxmfKenN3fvpRMhS6"
+    },
+    {
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/4a52ADh7ZxITa4FLlk4upM"
+      },
+      "artists": [
+        {
+          "name": "JRDN",
+          "url": "https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178536,
+      "name": "Feel Something",
+      "url": "https://open.spotify.com/track/3yEsmhrcDtWka7T3Kt11Yd"
     },
     {
       "album": {
@@ -7183,6 +7237,24 @@
     },
     {
       "album": {
+        "name": "last laugh",
+        "url": "https://open.spotify.com/album/6mOVk1Ta3sLj2ldsKTOlmI"
+      },
+      "artists": [
+        {
+          "name": "pisceze",
+          "url": "https://open.spotify.com/artist/3DmOaVvd5WgtShwcyetG3n"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148645,
+      "name": "full clip",
+      "url": "https://open.spotify.com/track/2NtIfmkcSzJTyaIa1dkg8G"
+    },
+    {
+      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/7dZEbiYj7YziJFSJWTf6D8"
       },
@@ -7702,7 +7774,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 198247,
       "name": "Groove",
       "url": "https://open.spotify.com/track/0BgCVdM786Ng9PZ9P1zsD8"
@@ -9924,7 +9996,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 195186,
       "name": "JEANS (with Miguel)",
       "url": "https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi"
@@ -12553,6 +12625,28 @@
     },
     {
       "album": {
+        "name": "Honey Brown",
+        "url": "https://open.spotify.com/album/58JkoH1VlxVVgJCEfzlvLX"
+      },
+      "artists": [
+        {
+          "name": "Shann Aberdeen",
+          "url": "https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O"
+        },
+        {
+          "name": "EB the MC",
+          "url": "https://open.spotify.com/artist/3tAUbb5DNApjTGGoYjF5Rw"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224135,
+      "name": "Miss Me",
+      "url": "https://open.spotify.com/track/7cJDkaFU5q9dV17PErHx39"
+    },
+    {
+      "album": {
         "name": "Missing You Feels Right",
         "url": "https://open.spotify.com/album/0Pee6blyLwIG0DNI7kwY9S"
       },
@@ -13792,7 +13886,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 174098,
       "name": "Nothin",
       "url": "https://open.spotify.com/track/4EG0uKrIrcSfsNNygY7zuq"
@@ -20044,10 +20138,28 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 239000,
       "name": "that's how it goes",
       "url": "https://open.spotify.com/track/5qtk6yMO0JXqtEzwEAsREF"
+    },
+    {
+      "album": {
+        "name": "Sounds from Deep Down",
+        "url": "https://open.spotify.com/album/6G7yp96Kdeym4yHFMhsTXV"
+      },
+      "artists": [
+        {
+          "name": "Kubla",
+          "url": "https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240345,
+      "name": "The Art of Chess/The Game of Love",
+      "url": "https://open.spotify.com/track/0aJhaQOHIhYloEugZXgVkF"
     },
     {
       "album": {
@@ -21142,7 +21254,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 197116,
       "name": "Twilight One",
       "url": "https://open.spotify.com/track/2wtcuo2Y0bSIFXsb49ZHG6"

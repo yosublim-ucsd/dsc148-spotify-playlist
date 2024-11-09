@@ -4,7 +4,7 @@
 
 > Rock tranqui para concentrarse.
 
-110 songs - 6 hr 33 min
+111 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Oye Mi Amor](https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby) | [Anabel](https://open.spotify.com/artist/12IF5EUgrWK8dnnlLQaaTx) | [Oye Mi Amor](https://open.spotify.com/album/66PCDbgVKriCpWIEVtP3GY) | 3:15 | 2021-05-13 |  |
 | [Para Siempre Joven](https://open.spotify.com/track/2Uv1xKRSxG7Z5XUoEKAVIt) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP), [Macha](https://open.spotify.com/artist/16QcrGi8KouBjobR8dEIoz) | [Para Siempre Joven](https://open.spotify.com/album/5umvuDuDhHfv6mrfwKtqm7) | 3:21 | 2023-09-01 |  |
 | [Pensamientos Intrusivos](https://open.spotify.com/track/17KcNyZQ0tLSloefQFKskl) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Pensamientos Intrusivos](https://open.spotify.com/album/7hgxTp99yKwlzXDZgV6O8I) | 2:43 | 2024-08-30 |  |
-| [Pobre De Ti](https://open.spotify.com/track/1BfG1GebmxE0OWl0lz1E3l) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Pobre De Ti](https://open.spotify.com/album/2wCNlBIDraaqMYzy6GV4sX) | 3:50 | 2021-05-13 |  |
+| [Pobre De Ti](https://open.spotify.com/track/1BfG1GebmxE0OWl0lz1E3l) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Pobre De Ti](https://open.spotify.com/album/2wCNlBIDraaqMYzy6GV4sX) | 3:50 | 2021-05-13 | 2024-11-09 |
 | [poco a poquito](https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [poco a poquito](https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b) | 2:48 | 2023-09-01 |  |
 | [Polvo De Estrellas](https://open.spotify.com/track/0tjqKnpDhZ7cjj8I0Gd2SX) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Polvo De Estrellas](https://open.spotify.com/album/1dp8qyTLNa95cJE09TBOxR) | 3:59 | 2024-03-04 |  |
 | [Por Un Amor](https://open.spotify.com/track/30V5WvVaHmvbKnpPm31hjr) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Por Un Amor / Melodrama](https://open.spotify.com/album/37hmlwEAzNfuy2KScrXA4W) | 2:49 | 2023-09-08 |  |
@@ -100,7 +100,7 @@
 | [Quiéreme O Ándate](https://open.spotify.com/track/6fjujdixgZgzrjKDDHETbY) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Quiéreme O Ándate](https://open.spotify.com/album/4wlka6GEj5ZpmS4wkE5pO2) | 2:56 | 2024-10-12 |  |
 | [Rayando El Sol](https://open.spotify.com/track/0eh9gAGvtaLI8cIzKsdCgn) | [Jenny Beaujean y Benjamin Garcia](https://open.spotify.com/artist/06izVjPOksdkMjJ3NUDfky) | [Rayando El Sol](https://open.spotify.com/album/7Hbcex3ZqA8hk0kcTq4PLe) | 3:59 | 2021-05-13 |  |
 | [Rubén Darío](https://open.spotify.com/track/1vskUVln9JuRuFGf3rrDdZ) | [Ray Coyote](https://open.spotify.com/artist/37PhbUQE6PD7dg6wnHqFth) | [Ray Coyote II: Ojos De La Sierra](https://open.spotify.com/album/50QIvqQyh7MhRxso4qIqIP) | 3:16 | 2023-02-24 |  |
-| [Se Vale Correr \- Acústico](https://open.spotify.com/track/1viVRIMKYXfpqBRlq10ZTe) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr), [Javier Blake](https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx) | [Se Vale Correr \(Acústico\)](https://open.spotify.com/album/1ER0IuYuMudleK3kB2gmJy) | 4:28 | 2024-10-12 |  |
+| [Se Vale Correr \- Acústico En Vivo](https://open.spotify.com/track/1viVRIMKYXfpqBRlq10ZTe) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr), [Javier Blake](https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx) | [Se Vale Correr \(Acústico En Vivo\)](https://open.spotify.com/album/1ER0IuYuMudleK3kB2gmJy) | 4:28 | 2024-10-12 |  |
 | [Si es que estás ahí](https://open.spotify.com/track/03oIgkJPaVyFokpfa2fLem) | [Paulo Fuerte](https://open.spotify.com/artist/1msYSykwIu05HEXvjN5Xn8) | [Si es que estás ahí](https://open.spotify.com/album/3XyVBfhzIszwjcMorHU4JO) | 3:11 | 2023-05-19 |  |
 | [Silencio](https://open.spotify.com/track/4Ey3GCtvICUIJDM0wUCPd0) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Silencio](https://open.spotify.com/album/3OImMIbnVXy6OV1yJHSYeH) | 5:25 | 2024-06-27 |  |
 | [Somos Dos](https://open.spotify.com/track/4WocUhEaddRdk1jE6mz8A7) | [Pol](https://open.spotify.com/artist/0di3IdbM04Sd886p1steuf) | [Somos Dos](https://open.spotify.com/album/00zkN4hk1vSBNrH3D9b3zl) | 3:00 | 2024-09-20 |  |
@@ -118,5 +118,6 @@
 | [Y entonces te vi \(I just wanna love you\)](https://open.spotify.com/track/340jugUb06Yq0CwiUnZT50) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Y entonces te vi \(I just wanna love you\)](https://open.spotify.com/album/61P20Js8bZj20akjMyHqdY) | 2:49 | 2024-05-03 |  |
 | [Ya No Llores Más](https://open.spotify.com/track/4lOmtrxu0fqqJXoA61zuUa) | [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [Ya No Llores Más](https://open.spotify.com/album/3WF0Dh8UqHVhLOptDetOUE) | 3:00 | 2024-05-03 |  |
 | [¿Qué Ha Sido De Ti?](https://open.spotify.com/track/10DVaINeZkqXwjWCdwNtVh) | [LÚA](https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM) | [¿Qué Ha Sido De Ti?](https://open.spotify.com/album/7yVCek4s4M23xJKENetKQL) | 3:17 | 2023-03-17 |  |
+| [Último Día](https://open.spotify.com/track/7gQo36dSDAtrtosHRuV6E0) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/71vi2JGeiJNNjmNy1Ua31r) | 2:54 | 2024-11-08 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-156 songs - 8 hr 4 min
+157 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Aladdin's Second Wish](https://open.spotify.com/track/4MzHU4LNdG2dmfNo5gytip) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 2:08 | 2021-10-07 | 2022-07-16 |
 | [Almost There \- From "Princess and the Frog"](https://open.spotify.com/track/6x1pCJudgIS8Gak9ONrg82) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Disney Goes Classical](https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg) | 2:26 | 2021-10-07 |  |
 | [Ariel's Goodbye](https://open.spotify.com/track/270OUjwWypMvDPuMX0nTb8) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [The Little Mermaid \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk) | 1:22 | 2023-09-01 |  |
+| [Be Our Guest \- Piano Version](https://open.spotify.com/track/5XHxKg7OF1GHFP4BsOviP3) | [The Chillest](https://open.spotify.com/artist/2qlvTZS8OkFRZi30S0D9E7) | [The Chillest Disney, Vol\. 4](https://open.spotify.com/album/3Tb24yt0hEn1mFfJEZe4EZ) | 3:32 | 2024-11-08 |  |
 | [Beauty and the Beast \- From "Beauty and the Beast"](https://open.spotify.com/track/1kb2eVg63lTZrjxZGyfQAe) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [The Disney Book \(Deluxe Edition\)](https://open.spotify.com/album/54Hs4q30gaGKCznUPPRI0I) | 4:09 | 2023-11-24 |  |
 | [Beauty and the Beast \- From "Beauty and the Beast"](https://open.spotify.com/track/4D8lQriIxEzw7JKboShO2X) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [The Disney Book](https://open.spotify.com/album/6s4Nj1n5yQuyn6ML0Jjk3z) | 4:09 | 2022-09-16 | 2024-04-19 |
 | [Beauty and the Beast \- From "Beauty and the Beast"](https://open.spotify.com/track/13GQAPoUkyZTE8oJV3Uy2L) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Disney Goes Classical](https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg) | 2:46 | 2021-10-07 |  |

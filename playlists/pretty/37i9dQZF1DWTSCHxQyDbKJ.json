@@ -1,6 +1,6 @@
 {
   "description": "Necessities from LGBTQIA+ artists. Cover: George Michael ",
-  "num_followers": 32156,
+  "num_followers": 32166,
   "original_name": "GLOW UK & Ireland ",
   "owner": {
     "name": "Spotify",
@@ -593,7 +593,7 @@
       "artists": [
         {
           "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "url": "https://open.spotify.com/artist/0MosRqpk3OZXYV91A1vSEn"
         },
         {
           "name": "Declan McKenna",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Thank Goodness",
-        "url": "https://open.spotify.com/album/11jnSpOvbJLYh1MyJpU3NT"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 200061,
-      "name": "Thank Goodness",
-      "url": "https://open.spotify.com/track/2mb9wKJz6WMD5Y0baavuIQ"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "SAD B!TCH",
         "url": "https://open.spotify.com/album/1YKrir8bqPzZKr6RyL2GTZ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 132818,
       "name": "Cheerleader",
       "url": "https://open.spotify.com/track/4Bgh6Uv9851EcAMH8IRirR"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "Thank Goodness",
+        "url": "https://open.spotify.com/album/11jnSpOvbJLYh1MyJpU3NT"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 200061,
+      "name": "Thank Goodness",
+      "url": "https://open.spotify.com/track/2mb9wKJz6WMD5Y0baavuIQ"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
+        "name": "God's Country / Body of Mine",
+        "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "duration_ms": 131161,
+      "name": "Body of Mine",
+      "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
         "name": "Glasgow",
         "url": "https://open.spotify.com/album/5luIDZpDnPFdiTpMLLhRYK"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 165068,
       "name": "2 Year Itch",
       "url": "https://open.spotify.com/track/5tIOc6GbyGRnSNCfpTNUPg"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
-        "name": "God's Country / Body of Mine",
-        "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
-      },
-      "artists": [
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
-        }
-      ],
-      "duration_ms": 131161,
-      "name": "Body of Mine",
-      "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1169,7 +1169,7 @@
       "artists": [
         {
           "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "url": "https://open.spotify.com/artist/0MosRqpk3OZXYV91A1vSEn"
         }
       ],
       "duration_ms": 210826,
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Love Second Music First",
-        "url": "https://open.spotify.com/album/0eqsGq1tUB41BqmKLsouDe"
-      },
-      "artists": [
-        {
-          "name": "Self Esteem",
-          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
-        }
-      ],
-      "duration_ms": 245259,
-      "name": "Love Second Music First",
-      "url": "https://open.spotify.com/track/6RbR55jkG3YoK1SeRT5mTN"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
         "name": "Heaven (feat. Tinashe)",
         "url": "https://open.spotify.com/album/6KgSP1vLwIc3xBI7hUTrly"
       },
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/6yvRliUS1i3Dxro7UckrHO"
+        "name": "Love Second Music First",
+        "url": "https://open.spotify.com/album/0eqsGq1tUB41BqmKLsouDe"
       },
       "artists": [
         {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
         }
       ],
-      "duration_ms": 202435,
-      "name": "Got Weird",
-      "url": "https://open.spotify.com/track/3sTZqO3R6OT1SSScoaL1U6"
+      "duration_ms": 245259,
+      "name": "Love Second Music First",
+      "url": "https://open.spotify.com/track/6RbR55jkG3YoK1SeRT5mTN"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1455,6 +1439,22 @@
       "duration_ms": 244000,
       "name": "L.E.E.C.H.E.S",
       "url": "https://open.spotify.com/track/30sAUjr9XR0cp9MuILHNsL"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/6yvRliUS1i3Dxro7UckrHO"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 202435,
+      "name": "Got Weird",
+      "url": "https://open.spotify.com/track/3sTZqO3R6OT1SSScoaL1U6"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "idc",
-        "url": "https://open.spotify.com/album/1JfqJMtr7hhtWZ56o2Amdd"
+        "name": "Just Come Home With Me Tonight (Live at 45)",
+        "url": "https://open.spotify.com/album/6xLZX3BctRo9ETHG0uQh5f"
       },
       "artists": [
         {
-          "name": "Nxdia",
-          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
         }
       ],
-      "duration_ms": 150786,
-      "name": "idc",
-      "url": "https://open.spotify.com/track/3kx5C5gy96hofwSNdHttmu"
+      "duration_ms": 280322,
+      "name": "Just Come Home With Me Tonight - Live at 45",
+      "url": "https://open.spotify.com/track/4m9dFksHdnXQ0UR77VCyeb"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "Just Come Home With Me Tonight (Live at 45)",
-        "url": "https://open.spotify.com/album/6xLZX3BctRo9ETHG0uQh5f"
+        "name": "idc",
+        "url": "https://open.spotify.com/album/1JfqJMtr7hhtWZ56o2Amdd"
       },
       "artists": [
         {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
         }
       ],
-      "duration_ms": 280322,
-      "name": "Just Come Home With Me Tonight - Live at 45",
-      "url": "https://open.spotify.com/track/4m9dFksHdnXQ0UR77VCyeb"
+      "duration_ms": 150786,
+      "name": "idc",
+      "url": "https://open.spotify.com/track/3kx5C5gy96hofwSNdHttmu"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1679,38 +1679,18 @@
     {
       "added_at": "2024-10-07 23:00:00",
       "album": {
-        "name": "One More Time (feat. Popstar)",
-        "url": "https://open.spotify.com/album/48C00vxVerIm0i3hbd4NkW"
+        "name": "Why Am I Like This? / Ipecac",
+        "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
       },
       "artists": [
         {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "Popstar",
-          "url": "https://open.spotify.com/artist/5eyBd6IpSj8pNySFhx9vZy"
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
         }
       ],
-      "duration_ms": 200843,
-      "name": "One More Time (feat. Popstar)",
-      "url": "https://open.spotify.com/track/4PhMG4S7fjl8kSQz2JrC30"
-    },
-    {
-      "added_at": "2024-10-07 23:00:00",
-      "album": {
-        "name": "Dancing star",
-        "url": "https://open.spotify.com/album/1LKkLN3lZykJ53kc4skG21"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 181959,
-      "name": "Dancing star",
-      "url": "https://open.spotify.com/track/1ubYusrYTfwfw7sZnUcwAn"
+      "duration_ms": 146080,
+      "name": "Why Am I Like This?",
+      "url": "https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc"
     },
     {
       "added_at": "2024-10-07 23:00:00",
@@ -1727,6 +1707,22 @@
       "duration_ms": 264446,
       "name": "HENRY'S REVENGE",
       "url": "https://open.spotify.com/track/43ibXIVa1Vz273QcmTtNEU"
+    },
+    {
+      "added_at": "2024-10-07 23:00:00",
+      "album": {
+        "name": "Dancing star",
+        "url": "https://open.spotify.com/album/1LKkLN3lZykJ53kc4skG21"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 181959,
+      "name": "Dancing star",
+      "url": "https://open.spotify.com/track/1ubYusrYTfwfw7sZnUcwAn"
     }
   ],
   "unique_name": "GLOW UK & Ireland ",

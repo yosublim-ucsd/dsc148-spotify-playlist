@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "your cheat sheet for all that's on the rise in rock/alt | Cover: Arcy Drive",
+  "description": "your cheat sheet for all that's on the rise in rock/alt | Cover: Girl Scout",
   "name": "New Noise",
   "tracks": [
     {
@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 177211,
       "name": "ain't it sweet",
       "url": "https://open.spotify.com/track/2TF8s1A5ncPQIREic3gwXn"
@@ -3691,6 +3691,28 @@
     },
     {
       "album": {
+        "name": "Ballerina",
+        "url": "https://open.spotify.com/album/3AxzoUigdPzyJeABdeki41"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        },
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Ballerina (with The Word Alive)",
+      "url": "https://open.spotify.com/track/6I3bYyPJGUxqiKp4pIv4SC"
+    },
+    {
+      "album": {
         "name": "Bandaid",
         "url": "https://open.spotify.com/album/6FOv6s2xRkMWAXwNpL2L36"
       },
@@ -4148,6 +4170,24 @@
       "duration_ms": 163460,
       "name": "Bed Head",
       "url": "https://open.spotify.com/track/5dNxaT34wYwGWv7eqGviBm"
+    },
+    {
+      "album": {
+        "name": "Before It Might Be Gone",
+        "url": "https://open.spotify.com/album/3EVICWZusdGvnKGYkY9AGM"
+      },
+      "artists": [
+        {
+          "name": "The Vices",
+          "url": "https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296885,
+      "name": "Before It Might Be Gone",
+      "url": "https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92"
     },
     {
       "album": {
@@ -7332,7 +7372,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 161640,
       "name": "Can't Pretend To Know",
       "url": "https://open.spotify.com/track/4blFV4d1eU814W3w9Ohyv3"
@@ -11694,7 +11734,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 209680,
       "name": "Disintegrate",
       "url": "https://open.spotify.com/track/2XnbOprkhj1iz8eATZa12l"
@@ -12044,7 +12084,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 252172,
       "name": "Don't Change",
       "url": "https://open.spotify.com/track/1YykS8hWW5fxvRBsjqJzoz"
@@ -16250,7 +16290,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 236257,
       "name": "Fugitive Summer",
       "url": "https://open.spotify.com/track/2q0iZAzSEPeD0YghkHYrdu"
@@ -17502,7 +17542,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 172188,
       "name": "Go Fly Away",
       "url": "https://open.spotify.com/track/7C05XnRPiQeuHUjxvFdzSI"
@@ -20608,7 +20648,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 209000,
       "name": "Honey",
       "url": "https://open.spotify.com/track/7nPwhOarrHj4VICEw9t805"
@@ -22838,6 +22878,24 @@
       "duration_ms": 169823,
       "name": "i'm not crying you're crying",
       "url": "https://open.spotify.com/track/2EEBYFmjdsVLmDhXXGLfZi"
+    },
+    {
+      "album": {
+        "name": "Headache",
+        "url": "https://open.spotify.com/album/6baKpbxBMBisqqThtQ1TyZ"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240826,
+      "name": "I'm So Sorry",
+      "url": "https://open.spotify.com/track/66UdYj3MIsMI8WryDpRZwb"
     },
     {
       "album": {
@@ -27436,7 +27494,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 273337,
       "name": "Living A Lie",
       "url": "https://open.spotify.com/track/60m6nJnTF7AFOztDSmYqMh"
@@ -27898,7 +27956,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 195000,
       "name": "Love Drunk",
       "url": "https://open.spotify.com/track/0Hmr9yk4xHoRnI2Fv4IX7S"
@@ -28328,6 +28386,24 @@
       "duration_ms": 108705,
       "name": "LOVER",
       "url": "https://open.spotify.com/track/55WwPFB9n1cBmd6Kl0qOaI"
+    },
+    {
+      "album": {
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/6efpgIFM4Kw1T4dEKv5QWO"
+      },
+      "artists": [
+        {
+          "name": "Niis",
+          "url": "https://open.spotify.com/artist/6USZzPyoOOFd3eusDLYt9X"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180792,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/0ktKSUk92UVhsz7IRYyuO6"
     },
     {
       "album": {
@@ -35419,6 +35495,24 @@
     },
     {
       "album": {
+        "name": "Pitch Black",
+        "url": "https://open.spotify.com/album/4VxwwXBy1q2a7JJwDz4EqS"
+      },
+      "artists": [
+        {
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265188,
+      "name": "Pitch Black",
+      "url": "https://open.spotify.com/track/667WclCD8TE4oLsoWkRoNy"
+    },
+    {
+      "album": {
         "name": "pity",
         "url": "https://open.spotify.com/album/1MxwPm5Vv9aWl7J3wNI7Sk"
       },
@@ -38965,6 +39059,28 @@
     },
     {
       "album": {
+        "name": "State Champs",
+        "url": "https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        },
+        {
+          "name": "Slope",
+          "url": "https://open.spotify.com/artist/24ExnkYwR4QoLamXGi4sOR"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199811,
+      "name": "Save Face Story",
+      "url": "https://open.spotify.com/track/3OcGET39AhKjyeXAjyxTqi"
+    },
+    {
+      "album": {
         "name": "Save Yourself",
         "url": "https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw"
       },
@@ -39236,6 +39352,24 @@
       "duration_ms": 121292,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/2RDIy0A9tcA4WUiRNuRlJ9"
+    },
+    {
+      "album": {
+        "name": "Say What You Want",
+        "url": "https://open.spotify.com/album/2aJN8Kj5T0zRvgoGbNJbx1"
+      },
+      "artists": [
+        {
+          "name": "Dear Seattle",
+          "url": "https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210243,
+      "name": "Say What You Want",
+      "url": "https://open.spotify.com/track/1fz0JgLEsOgUemAGSEJ674"
     },
     {
       "album": {
@@ -39864,6 +39998,24 @@
       "duration_ms": 220816,
       "name": "Seven White Horses",
       "url": "https://open.spotify.com/track/6GRdjS6T0xO677c0h8rfj6"
+    },
+    {
+      "album": {
+        "name": "seventeen",
+        "url": "https://open.spotify.com/album/1tzd5ftXur0C44WJA86auY"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219266,
+      "name": "seventeen",
+      "url": "https://open.spotify.com/track/1wJUVM97tEquQtyuwmAE9B"
     },
     {
       "album": {
@@ -42753,6 +42905,24 @@
     },
     {
       "album": {
+        "name": "Eazy Peazy",
+        "url": "https://open.spotify.com/album/2L4YcqjnpyyDPnIn8GqJfV"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150035,
+      "name": "Sports Day",
+      "url": "https://open.spotify.com/track/6hKwzsBblYMfifCLTp5Gn4"
+    },
+    {
+      "album": {
         "name": "Squid",
         "url": "https://open.spotify.com/album/0weYSXHoWpA9F7TDJOvT87"
       },
@@ -43803,6 +43973,24 @@
     },
     {
       "album": {
+        "name": "Suck The Cherry",
+        "url": "https://open.spotify.com/album/6HoHlAFjY9X2xpPudaclQk"
+      },
+      "artists": [
+        {
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183246,
+      "name": "Suck The Cherry",
+      "url": "https://open.spotify.com/track/5A0h8ERfGBpChu89c2x6gi"
+    },
+    {
+      "album": {
         "name": "SUCKER",
         "url": "https://open.spotify.com/album/2luQRtBMAKFkGnBwWToNkJ"
       },
@@ -44164,7 +44352,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 242870,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/6Ufcjj9UMY1T2GLOTmvlVW"

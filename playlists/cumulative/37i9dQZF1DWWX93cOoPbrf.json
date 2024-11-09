@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de la cosecha 2024. R\u00e9gulo Caro en portada.",
+  "description": "Lo m\u00e1s fresco de la cosecha 2024. Gustavo Palafox & Martin Castillo en portada.",
   "name": "Corridos 2024",
   "tracks": [
     {
@@ -2284,6 +2284,24 @@
       "duration_ms": 170461,
       "name": "Bien Equipados",
       "url": "https://open.spotify.com/track/58jOk6VlZQxcUADl5RhOEq"
+    },
+    {
+      "album": {
+        "name": "Bien Fiera",
+        "url": "https://open.spotify.com/album/6iBx8IT3YViImP16CUGnrM"
+      },
+      "artists": [
+        {
+          "name": "Justin Morales",
+          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176448,
+      "name": "Bien Fiera",
+      "url": "https://open.spotify.com/track/7piJenEBEYdLhkflIdfGxG"
     },
     {
       "album": {
@@ -5068,7 +5086,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 173105,
       "name": "Dicen Y Dicen",
       "url": "https://open.spotify.com/track/4VLl5U59czwlduQCcJ6Jkp"
@@ -8055,6 +8073,28 @@
     },
     {
       "album": {
+        "name": "El Equipo Del 08",
+        "url": "https://open.spotify.com/album/66OZ2i2kaIuF24PKEwWtzE"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        },
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170078,
+      "name": "El Equipo Del 08",
+      "url": "https://open.spotify.com/track/6ALiOE20fBw7Esx3vE3mRf"
+    },
+    {
+      "album": {
         "name": "El Equipo del Terror",
         "url": "https://open.spotify.com/album/4mEOGnlCRNiXndnBapMCgI"
       },
@@ -9956,7 +9996,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 154352,
       "name": "El Muchacho de la Barba",
       "url": "https://open.spotify.com/track/7fBIGbmh5x4K8tBaBCK5iD"
@@ -9992,7 +10032,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 216575,
       "name": "El Muletas",
       "url": "https://open.spotify.com/track/1K1Y3NUDZulng4vgoRR6hE"
@@ -10764,6 +10804,28 @@
       "duration_ms": 172026,
       "name": "El Que Le Gusta Ayudar",
       "url": "https://open.spotify.com/track/0y3pVKsIFlT32ztCkZg2KY"
+    },
+    {
+      "album": {
+        "name": "El R1",
+        "url": "https://open.spotify.com/album/7dhrNfxgoKNVyo15VFqQCx"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        },
+        {
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248402,
+      "name": "El R1",
+      "url": "https://open.spotify.com/track/02D4KZ5RVrkbLFKWMvPU1R"
     },
     {
       "album": {
@@ -13839,6 +13901,28 @@
     },
     {
       "album": {
+        "name": "LA ODISEA",
+        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220530,
+      "name": "GTA II",
+      "url": "https://open.spotify.com/track/7xoIdflRdcG3794rwJxm0s"
+    },
+    {
+      "album": {
         "name": "Guardi\u00e1n es la Clave",
         "url": "https://open.spotify.com/album/6Ih54aGnyN2pksFFqd4nLS"
       },
@@ -14456,7 +14540,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 152392,
       "name": "Iniciales SV",
       "url": "https://open.spotify.com/track/3cVI9zik0Se9ursMgFBw6R"
@@ -19028,7 +19112,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 259035,
       "name": "Me Dicen Pollito",
       "url": "https://open.spotify.com/track/4YyS1wqUv82TpRFPKfucl0"
@@ -22954,7 +23038,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 235875,
       "name": "Rugrats",
       "url": "https://open.spotify.com/track/5K9DHIEhqVe0S9hSkpePzg"
@@ -24190,6 +24274,28 @@
       "duration_ms": 177805,
       "name": "SOMOS MAYIZA",
       "url": "https://open.spotify.com/track/15owZZmQfaIUBNVU8ZzSQ1"
+    },
+    {
+      "album": {
+        "name": "Son 4 Letras",
+        "url": "https://open.spotify.com/album/5RC2WnPeBAQqVJQPcG1QU4"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        },
+        {
+          "name": "Martin Castillo",
+          "url": "https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173114,
+      "name": "Son 4 Letras",
+      "url": "https://open.spotify.com/track/6nscJz3NrjGywtsRhqunoI"
     },
     {
       "album": {
@@ -25924,6 +26030,28 @@
       "duration_ms": 247080,
       "name": "Vida Loca",
       "url": "https://open.spotify.com/track/7fHq0gNmcwpuqL18pO2W7K"
+    },
+    {
+      "album": {
+        "name": "Vida Loca",
+        "url": "https://open.spotify.com/album/1yUCJZUFNAEeAOASHDq37s"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253609,
+      "name": "Vida Loca",
+      "url": "https://open.spotify.com/track/4GWXPijSq81ZYSqJV9WinC"
     },
     {
       "album": {

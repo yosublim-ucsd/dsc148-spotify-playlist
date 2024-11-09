@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Anuv Jain
 
-326 songs - 18 hr 26 min
+327 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Raaz Tera Mera](https://open.spotify.com/track/4hGHgXcTOD8BzJKMz062ZN) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Raaz Tera Mera](https://open.spotify.com/album/600DUfcwqsdjfnTK15RogK) | 3:28 | 2022-06-20 | 2023-06-16 |
 | [Rahguzar](https://open.spotify.com/track/29aAMNNgGe3g5G4CnwlHuL) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Rahguzar](https://open.spotify.com/album/6fsdSpZ9mIXtePUwsNE4v3) | 3:28 | 2022-05-20 |  |
 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 | 2022-05-20 | 2022-07-16 |
+| [Reborn](https://open.spotify.com/track/7nxmLcB0292ykcISnFHIVG) | [Akshara](https://open.spotify.com/artist/7j6UTsx4e5HxsHMPXCYy7Z), [SVDP](https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb) | [Reborn](https://open.spotify.com/album/5xLCpi7Pzi0e79mdzE3nLF) | 2:22 | 2024-11-08 |  |
 | [Rent Free](https://open.spotify.com/track/33ceEkDXui08r2MswdCBcX) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5), [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA) | [Rent Free](https://open.spotify.com/album/1pPIHSuDOCRs8mJkYqv6xK) | 2:42 | 2022-09-09 | 2023-11-16 |
 | [Right Wali Payal](https://open.spotify.com/track/0y8lqslrswqgJgDKNxd8zo) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [Saiwariya](https://open.spotify.com/artist/34Bsd6kohYGNWw1zvqkVd5) | [Right Wali Payal](https://open.spotify.com/album/3dOjLj8aNk6XbdR1Sfv5Va) | 2:10 | 2022-09-01 | 2023-01-13 |
 | [Rok Na Paya](https://open.spotify.com/track/4YuFsqg0XZdOvsspVcoyeF) | [Swastik The Band](https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V) | [Rok Na Paya](https://open.spotify.com/album/1tWrFRHjlm4O3WOQgZwEXo) | 3:48 | 2024-03-19 |  |

@@ -4,7 +4,7 @@
 
 > Enjoy the folk from Punjab\. Cover: Gurdas Maan
 
-94 songs - 5 hr 51 min
+96 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,19 +78,21 @@
 | [Latthe Di Chadar \- Mahiya](https://open.spotify.com/track/4hvesFus234aJFjiExrWmY) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Punjabi Lok Rang](https://open.spotify.com/album/23QaJYPtM3mYvxyGPYXEBG) | 3:02 | 2021-11-03 |  |
 | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 | 2023-03-18 |  |
 | [Madhaniya](https://open.spotify.com/track/6O43xZgX8jkN4nek5XyP33) | [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Madhaniya](https://open.spotify.com/album/7MWiDSiUTM0gfrwp2rl0mE) | 4:49 | 2024-09-19 | 2024-10-24 |
-| [Madhaniya](https://open.spotify.com/track/7JhqIABcX6GZLbVRbbKsKZ) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Madhaniya](https://open.spotify.com/album/1PxxiGMkxPXAqVNT5IvJX8) | 2:04 | 2021-11-03 |  |
+| [Madhaniya](https://open.spotify.com/track/7JhqIABcX6GZLbVRbbKsKZ) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Madhaniya](https://open.spotify.com/album/1PxxiGMkxPXAqVNT5IvJX8) | 2:04 | 2021-11-03 | 2024-11-09 |
 | [Madhaniya](https://open.spotify.com/track/1X9TM5uBUe8NBeM3CE9pg8) | [Tanuja Kumari](https://open.spotify.com/artist/1VuoDqqpoQ2FE6A4VHLid5), [Gargi Sarkar](https://open.spotify.com/artist/3lAIYCe8WEl7Gjni7XT3v7) | [Mitti \- Folk Vibes Of Punjab](https://open.spotify.com/album/18BOE2bd989ELKLbIcPSnj) | 3:04 | 2023-08-08 | 2023-10-27 |
 | [Majhe Diye Mombattiye](https://open.spotify.com/track/2gP09WRLU9PajUoOgCDYWU) | [Balkar Sidhu](https://open.spotify.com/artist/6uBqTShUAXu6jwhxxvhuhZ) | [Best of Balkar Sidhu](https://open.spotify.com/album/72HqqELNR5MK8wGgPxjOfQ) | 7:31 | 2021-11-03 |  |
 | [Mathe Te Chamkan Vaal \(Live\)](https://open.spotify.com/track/5A3PfcBVxvN06YcWBrAbCU) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Mathe Te Chamkan Vaal \(Live\)](https://open.spotify.com/album/6M5JcBhM7iAJBsO4jDJGPC) | 3:38 | 2023-08-17 | 2024-04-19 |
 | [Mathe Te Chamkan Vaal \- Live](https://open.spotify.com/track/3SkUaDTh5M4BDdQOLzLiol) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Mathe Te Chamkan Vaal / Gidde Vich \(Live\) \- Single](https://open.spotify.com/album/4FMCAGhni2EPuBGxw6Dq9O) | 3:38 | 2021-11-03 |  |
+| [Mirza Saiba](https://open.spotify.com/track/6gveVm22PaA21mFIYZNaJb) | [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Modern Punjab](https://open.spotify.com/album/162CAUtuQUzTo9HLPunr1R) | 4:45 | 2024-11-08 |  |
 | [Mombattiye \- Folk Recreation](https://open.spotify.com/track/7CAKJJmeiQsupcz8pTQjtx) | [Mickey Singh](https://open.spotify.com/artist/4TytLlhbWaVCpuyATg6syY), [Pam Sengh](https://open.spotify.com/artist/5LSheYLF7ZnIulhPQ5aEgx) | [Mombattiye \(Folk Recreation\)](https://open.spotify.com/album/71Q135Dh7bT8eNXVz2VQYM) | 3:25 | 2021-11-03 |  |
 | [Munda Sakhiyo Ni](https://open.spotify.com/track/09Gy3xqh13lw2UoiGQTI9s) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Munda Sakhiyo Ni](https://open.spotify.com/album/4NbRfMn3VX7Xj4nZq9RPgU) | 3:17 | 2021-11-03 |  |
+| [Paranda](https://open.spotify.com/track/2xJXOMdulvKC5NFoF0kHZ4) | [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Modern Punjab](https://open.spotify.com/album/162CAUtuQUzTo9HLPunr1R) | 3:17 | 2024-11-08 |  |
 | [Pher Auna Hai](https://open.spotify.com/track/5acoH9Gwk4YOdGNW7MQsJR) | [Sumira Thakur](https://open.spotify.com/artist/3VH81IpQ87OQBRe2XQpCup) | [Pher Auna Hai](https://open.spotify.com/album/71pz9bZ4703sorThtx4FLN) | 8:26 | 2021-11-03 |  |
 | [Pinda Vichon Pind \- Folk Recreation](https://open.spotify.com/track/1jEzFM4KUY7Zi2X7taKiZ8) | [Mickey Singh](https://open.spotify.com/artist/4TytLlhbWaVCpuyATg6syY) | [Pinda Vichon Pind \(Folk Recreation\)](https://open.spotify.com/album/5yFJPxffYbmIqmSdybpk1A) | 2:17 | 2021-11-03 | 2023-10-11 |
 | [Punjabi Folk Boliyan](https://open.spotify.com/track/4KVJYdubRM0owXUyZabLTR) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Punjabi Folk Boliyan](https://open.spotify.com/album/6tTzfqYgGphqYBAu1y3ijP) | 3:05 | 2022-09-15 |  |
 | [Punjabi Folk Boliyan](https://open.spotify.com/track/76ZQane540KveAtPYr8g3O) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Punjabi Folk Boliyan](https://open.spotify.com/album/3ktqMoWRoAxzCXvuH76B4A) | 3:05 | 2023-12-21 | 2024-04-19 |
 | [Raanjha \- Spotify Singles](https://open.spotify.com/track/2Xi2rN0Awghch9seTfDmge) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Raanjha \- Spotify Singles](https://open.spotify.com/album/644jvb8ZYS8ySgtUrXM8T0) | 2:23 | 2023-03-18 | 2023-06-06 |
-| [Ranjhana](https://open.spotify.com/track/1upV3GcdtYBdoDwOzUjo60) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Ranjhana](https://open.spotify.com/album/5Nt2hF22SqOBga62QCh5bI) | 2:37 | 2021-11-03 |  |
+| [Ranjhana](https://open.spotify.com/track/1upV3GcdtYBdoDwOzUjo60) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Ranjhana](https://open.spotify.com/album/5Nt2hF22SqOBga62QCh5bI) | 2:37 | 2021-11-03 | 2024-11-09 |
 | [Sajna Ve Sajna](https://open.spotify.com/track/4eIOdicpfNZq1CHTD6U2BW) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Gurdas Maan Hits](https://open.spotify.com/album/33JWCJhCr7UJMa3UZbeNeJ) | 6:22 | 2021-11-03 |  |
 | [Sajna Ve Sajna](https://open.spotify.com/track/6xs5hAwj3Quf8TdRov5OaV) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Gurdas Maan Hits](https://open.spotify.com/album/4pB975QwnkBHQ1yptO10T2) | 6:22 | 2022-07-16 | 2024-04-19 |
 | [Sasse Ladeya \(Live\)](https://open.spotify.com/track/61J3Yk08StGFBKAQ3dsInA) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Sasse Ladeya / Saam Kunjiya \(Live\)](https://open.spotify.com/album/53ogb57aAnxhx27Y65bRWY) | 3:33 | 2021-11-03 | 2024-10-11 |

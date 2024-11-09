@@ -2212,7 +2212,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 139561,
       "name": "Capable",
       "url": "https://open.spotify.com/track/3PvqecGPN6xnzit8FNUUgK"
@@ -3355,6 +3355,24 @@
     },
     {
       "album": {
+        "name": "Ebube (Odeshi)",
+        "url": "https://open.spotify.com/album/2RbKSUR3JpZ37oGKqfc4SZ"
+      },
+      "artists": [
+        {
+          "name": "Victor AD",
+          "url": "https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Ebube (Odeshi)",
+      "url": "https://open.spotify.com/track/1sTChGG6y7qro0NOpnUAWA"
+    },
+    {
+      "album": {
         "name": "Eko Ni",
         "url": "https://open.spotify.com/album/6mrcetZewqwWXxdouzKNQL"
       },
@@ -4281,6 +4299,24 @@
     },
     {
       "album": {
+        "name": "Gbegesi Not",
+        "url": "https://open.spotify.com/album/7dKXgMzntyunQEV3Mter3B"
+      },
+      "artists": [
+        {
+          "name": "Damo K",
+          "url": "https://open.spotify.com/artist/2EbTRZdju2hUrMqClX4wyO"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140120,
+      "name": "Gbegesi Not",
+      "url": "https://open.spotify.com/track/4fWhJ16TgW15oi0tBxtJ5r"
+    },
+    {
+      "album": {
         "name": "The Rhapsodies",
         "url": "https://open.spotify.com/album/4Q4Ddw9rw7V1uopq0S7Yqq"
       },
@@ -4592,6 +4628,32 @@
       "duration_ms": 169018,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/10tuqT05957Cs0VIS2GGaZ"
+    },
+    {
+      "album": {
+        "name": "Grind",
+        "url": "https://open.spotify.com/album/0wHZedh3ZIPCG7nEvIdZHO"
+      },
+      "artists": [
+        {
+          "name": "Maxee",
+          "url": "https://open.spotify.com/artist/3ysIdQeVG4Gt8Vw6z00Wfj"
+        },
+        {
+          "name": "Dai Verse",
+          "url": "https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv"
+        },
+        {
+          "name": "Ay.zed",
+          "url": "https://open.spotify.com/artist/4XQAIJv0qZrRF6sYFXZ4Hg"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Grind",
+      "url": "https://open.spotify.com/track/0IuFUw34z1kSdnU8pCzZKX"
     },
     {
       "album": {
@@ -6785,6 +6847,28 @@
     },
     {
       "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/3l3ZbjQCe01SZKSwi1eRB7"
+      },
+      "artists": [
+        {
+          "name": "Dayan Dww",
+          "url": "https://open.spotify.com/artist/7tso6CumywuoEX7c2ZBHUW"
+        },
+        {
+          "name": "Ajesings",
+          "url": "https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174080,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/6dYa2veuV3Kam5Ihxl5Oyj"
+    },
+    {
+      "album": {
         "name": "Liquor (Owo Otedola)",
         "url": "https://open.spotify.com/album/0yQRNpLMcdcmTOJuCKGaxX"
       },
@@ -7570,6 +7654,28 @@
       "duration_ms": 199029,
       "name": "My Ability",
       "url": "https://open.spotify.com/track/3nppDJiBDPiawKKuvDpE5R"
+    },
+    {
+      "album": {
+        "name": "The Hero (\u1eccny\u1ecbk\u1ecd)",
+        "url": "https://open.spotify.com/album/5nBpQRCszNq5ryUIDAxVJh"
+      },
+      "artists": [
+        {
+          "name": "Aguero Banks",
+          "url": "https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/1y9wUxyHyg5moZDwiPVc1j"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158150,
+      "name": "My Brother",
+      "url": "https://open.spotify.com/track/7MXg2JYeYp9RUGhoRbZhTn"
     },
     {
       "album": {
@@ -11236,6 +11342,24 @@
       "duration_ms": 190088,
       "name": "Time No Dey",
       "url": "https://open.spotify.com/track/49I4qCmzTtk4Wp0DH5pEDC"
+    },
+    {
+      "album": {
+        "name": "Time Traveler",
+        "url": "https://open.spotify.com/album/6BS5k06GKg6rsxbkYiVGhS"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166974,
+      "name": "Time Traveler",
+      "url": "https://open.spotify.com/track/2cv0OdZIThSfcPiMsDDQTk"
     },
     {
       "album": {

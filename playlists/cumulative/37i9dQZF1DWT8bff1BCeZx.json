@@ -908,7 +908,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 228893,
       "name": "Definitely",
       "url": "https://open.spotify.com/track/6UeeHWPfpgo6wArO2H9KQL"
@@ -2712,6 +2712,28 @@
       "duration_ms": 142736,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/2bSx2cJHJYUKNdJQgVoHBM"
+    },
+    {
+      "album": {
+        "name": "Young & Chosen (Power Pack)",
+        "url": "https://open.spotify.com/album/4tDlxe4KC1YJI2nV4owRn6"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144059,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/5Z0U7FBU5g3et5lbGK8n33"
     },
     {
       "album": {

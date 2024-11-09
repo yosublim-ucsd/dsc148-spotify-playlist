@@ -1,6 +1,6 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Ana Gabriel en portada.",
-  "num_followers": 158091,
+  "num_followers": 158262,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
-        "name": "Lucha Villa Y Aida",
-        "url": "https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "Ya No Me Interesas",
-      "url": "https://open.spotify.com/track/359vq12J0koGowGV9pxek4"
-    },
-    {
-      "added_at": "2024-09-13 06:02:00",
-      "album": {
         "name": "Me Saludas A La Tuya",
         "url": "https://open.spotify.com/album/19czamPsw1zWGUQon24S8R"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 163932,
       "name": "Me Saludas A La Tuya",
       "url": "https://open.spotify.com/track/17hGgn86Ir7YYtuTnOaKPy"
+    },
+    {
+      "added_at": "2024-09-13 06:02:00",
+      "album": {
+        "name": "Lucha Villa Y Aida",
+        "url": "https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "Ya No Me Interesas",
+      "url": "https://open.spotify.com/track/359vq12J0koGowGV9pxek4"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -387,22 +387,18 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
-        "name": "Mi Rey, Mi Santo",
-        "url": "https://open.spotify.com/album/6Mw6BYuc79mmmSI2uYObYe"
+        "name": "\u00a1 Ora pues !",
+        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
         }
       ],
-      "duration_ms": 164400,
-      "name": "Mi Rey, Mi Santo",
-      "url": "https://open.spotify.com/track/5n4BnFiMplTaN0p4rHxKAf"
+      "duration_ms": 143800,
+      "name": "Las Margaritas",
+      "url": "https://open.spotify.com/track/0CpDKuoEqUWou1jEVoZCeu"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -487,18 +483,22 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
-        "name": "\u00a1 Ora pues !",
-        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+        "name": "Mi Rey, Mi Santo",
+        "url": "https://open.spotify.com/album/6Mw6BYuc79mmmSI2uYObYe"
       },
       "artists": [
         {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 143800,
-      "name": "Las Margaritas",
-      "url": "https://open.spotify.com/track/0CpDKuoEqUWou1jEVoZCeu"
+      "duration_ms": 164400,
+      "name": "Mi Rey, Mi Santo",
+      "url": "https://open.spotify.com/track/5n4BnFiMplTaN0p4rHxKAf"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
+        "name": "\u00a1 Ora pues !",
+        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 190453,
+      "name": "Adios y Bienvenida",
+      "url": "https://open.spotify.com/track/2wAfySktAbT2ho6UTCyv1O"
+    },
+    {
+      "added_at": "2024-09-13 06:02:00",
+      "album": {
         "name": "No Voy A Llorar",
         "url": "https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 197253,
       "name": "No Voy A Llorar",
       "url": "https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt"
-    },
-    {
-      "added_at": "2024-09-13 06:02:00",
-      "album": {
-        "name": "Mejor Que T\u00fa",
-        "url": "https://open.spotify.com/album/6KsEJaXvbGHtwGFVF3gZWI"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 208494,
-      "name": "Mejor Que T\u00fa",
-      "url": "https://open.spotify.com/track/0NTvttKPwlAfHz5RFdXTHi"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
-        "name": "\u00a1 Ora pues !",
-        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 190453,
-      "name": "Adios y Bienvenida",
-      "url": "https://open.spotify.com/track/2wAfySktAbT2ho6UTCyv1O"
-    },
-    {
-      "added_at": "2024-09-13 06:02:00",
-      "album": {
         "name": "Canta Once Grandes Exitos De Juan Gabriel",
         "url": "https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 204866,
       "name": "No Me Vuelvo a Enamorar",
       "url": "https://open.spotify.com/track/1djvcwusUBPg7c8lGR9htm"
+    },
+    {
+      "added_at": "2024-09-13 06:02:00",
+      "album": {
+        "name": "Mejor Que T\u00fa",
+        "url": "https://open.spotify.com/album/6KsEJaXvbGHtwGFVF3gZWI"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 208494,
+      "name": "Mejor Que T\u00fa",
+      "url": "https://open.spotify.com/track/0NTvttKPwlAfHz5RFdXTHi"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
+        "name": "\u00a1 Ora pues !",
+        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 224040,
+      "name": "Potpourr\u00ed ranchero (Copitas de mezcal, La tequilera, La charreada)",
+      "url": "https://open.spotify.com/track/3pTc8iglU79rMrTkI2fS22"
+    },
+    {
+      "added_at": "2024-09-13 06:02:00",
+      "album": {
         "name": "Divas Rancheras",
         "url": "https://open.spotify.com/album/4jNImotbdAKoAebE11pAaM"
       },
@@ -715,34 +731,18 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
-        "name": "Lucha Villa Y Aida",
-        "url": "https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica"
+        "name": "Ojo Por Ojo",
+        "url": "https://open.spotify.com/album/1DupAlEMZXO1evsuZmYYG4"
       },
       "artists": [
         {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 265560,
-      "name": "Resulta",
-      "url": "https://open.spotify.com/track/4fsjK8V9s53YyQx5zTlncb"
-    },
-    {
-      "added_at": "2024-09-13 06:02:00",
-      "album": {
-        "name": "\u00a1 Ora pues !",
-        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 224040,
-      "name": "Potpourr\u00ed ranchero (Copitas de mezcal, La tequilera, La charreada)",
-      "url": "https://open.spotify.com/track/3pTc8iglU79rMrTkI2fS22"
+      "duration_ms": 181614,
+      "name": "Ojo Por Ojo",
+      "url": "https://open.spotify.com/track/2aLFy6p8TtSRwUhi3UYxV4"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
-        "name": "Ojo Por Ojo",
-        "url": "https://open.spotify.com/album/1DupAlEMZXO1evsuZmYYG4"
+        "name": "Lucha Villa Y Aida",
+        "url": "https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica"
       },
       "artists": [
         {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
         }
       ],
-      "duration_ms": 181614,
-      "name": "Ojo Por Ojo",
-      "url": "https://open.spotify.com/track/2aLFy6p8TtSRwUhi3UYxV4"
+      "duration_ms": 265560,
+      "name": "Resulta",
+      "url": "https://open.spotify.com/track/4fsjK8V9s53YyQx5zTlncb"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
+        "name": "16 \u00c9xitos De Oro",
+        "url": "https://open.spotify.com/album/4Y0ngjTprxXbjjjzVw1rDR"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 243186,
+      "name": "Insensible A Ti (Me Pone A Mil)",
+      "url": "https://open.spotify.com/track/7LvhyOWIxkpRHvrOB9YxSk"
+    },
+    {
+      "added_at": "2024-09-13 06:02:00",
+      "album": {
         "name": "Los Exitos De Amalia Mendoza",
         "url": "https://open.spotify.com/album/6nryFiduM55GeJxDc7dzNl"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 195466,
       "name": "Fue Tan Poco Tu Cari\u00f1o",
       "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
-    },
-    {
-      "added_at": "2024-09-13 06:02:00",
-      "album": {
-        "name": "16 \u00c9xitos De Oro",
-        "url": "https://open.spotify.com/album/4Y0ngjTprxXbjjjzVw1rDR"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 243186,
-      "name": "Insensible A Ti (Me Pone A Mil)",
-      "url": "https://open.spotify.com/track/7LvhyOWIxkpRHvrOB9YxSk"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
+        "name": "16 \u00c9xitos De Oro",
+        "url": "https://open.spotify.com/album/4Y0ngjTprxXbjjjzVw1rDR"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 231866,
+      "name": "La Que Baje La Guardia",
+      "url": "https://open.spotify.com/track/0Bns3v6umxVjOxgg0nD5yZ"
+    },
+    {
+      "added_at": "2024-09-13 06:02:00",
+      "album": {
         "name": "La Tari\u00e1curi",
         "url": "https://open.spotify.com/album/5p8WmAnz98OGqYig1OB9iU"
       },
@@ -987,6 +1003,22 @@
       "duration_ms": 176013,
       "name": "Paloma Sin Nido",
       "url": "https://open.spotify.com/track/6u3NpKIbHU7MgFPTIeKGIZ"
+    },
+    {
+      "added_at": "2024-09-13 06:02:00",
+      "album": {
+        "name": "No Me Amenaces",
+        "url": "https://open.spotify.com/album/5PTXa366m9IeBC8bqo9HMh"
+      },
+      "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        }
+      ],
+      "duration_ms": 174671,
+      "name": "No Me Amenaces",
+      "url": "https://open.spotify.com/track/2F9QiR9xVc7HXJ6qPQQxNO"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -1007,22 +1039,6 @@
       "duration_ms": 169489,
       "name": "Jardinera (Caponera) - Musica de la Serie Original \"El Gallo de Oro\" (Versi\u00f3n Dueto)",
       "url": "https://open.spotify.com/track/0kkQsruogh3vbVkxKVye9D"
-    },
-    {
-      "added_at": "2024-09-13 06:02:00",
-      "album": {
-        "name": "No Me Amenaces",
-        "url": "https://open.spotify.com/album/5PTXa366m9IeBC8bqo9HMh"
-      },
-      "artists": [
-        {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        }
-      ],
-      "duration_ms": 174671,
-      "name": "No Me Amenaces",
-      "url": "https://open.spotify.com/track/2F9QiR9xVc7HXJ6qPQQxNO"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -1055,22 +1071,6 @@
       "duration_ms": 203250,
       "name": "No Me Rebajo",
       "url": "https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi"
-    },
-    {
-      "added_at": "2024-09-13 06:02:00",
-      "album": {
-        "name": "16 \u00c9xitos De Oro",
-        "url": "https://open.spotify.com/album/4Y0ngjTprxXbjjjzVw1rDR"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 231866,
-      "name": "La Que Baje La Guardia",
-      "url": "https://open.spotify.com/track/0Bns3v6umxVjOxgg0nD5yZ"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -1308,9 +1308,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 113619,
-      "name": "Amor, Amor de Mis Amores",
-      "url": "https://open.spotify.com/track/4TETxb4ElOE3AtrNgQO6PO"
+      "duration_ms": 207595,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/3WfouFwIhmo4p3tgZMUnXM"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
+        "name": "Que No Se Apague La M\u00fasica",
+        "url": "https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 113619,
+      "name": "Amor, Amor de Mis Amores",
+      "url": "https://open.spotify.com/track/4TETxb4ElOE3AtrNgQO6PO"
+    },
+    {
+      "added_at": "2024-09-13 06:02:00",
+      "album": {
         "name": "Se Disfraz\u00f3",
         "url": "https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 206383,
       "name": "Se Disfraz\u00f3",
       "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
-    },
-    {
-      "added_at": "2024-09-13 06:02:00",
-      "album": {
-        "name": "Que No Se Apague La M\u00fasica",
-        "url": "https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 207595,
-      "name": "Paloma Negra",
-      "url": "https://open.spotify.com/track/3WfouFwIhmo4p3tgZMUnXM"
     },
     {
       "added_at": "2024-09-13 06:02:00",

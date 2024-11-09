@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from Peach Pit",
+  "description": "Explore all things indie rock right now. Featuring music from Mk.gee",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -498,6 +498,24 @@
       "duration_ms": 139400,
       "name": "90s American Superstar",
       "url": "https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5"
+    },
+    {
+      "album": {
+        "name": "A Devil's Bargain",
+        "url": "https://open.spotify.com/album/04tz6gR2GqUuugHoWjJaNu"
+      },
+      "artists": [
+        {
+          "name": "Camel Power Club",
+          "url": "https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205413,
+      "name": "A Devil's Bargain",
+      "url": "https://open.spotify.com/track/1ys95O32loVP4m9Duxx8eU"
     },
     {
       "album": {
@@ -11141,6 +11159,24 @@
     },
     {
       "album": {
+        "name": "Give My Heart",
+        "url": "https://open.spotify.com/album/0OX6i6iw4HTmBxfsnAHL7F"
+      },
+      "artists": [
+        {
+          "name": "Junior Varsity",
+          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207695,
+      "name": "Give My Heart",
+      "url": "https://open.spotify.com/track/3mjyXZRQIEe6BuarfoJUDK"
+    },
+    {
+      "album": {
         "name": "From 2 to 3",
         "url": "https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY"
       },
@@ -15457,7 +15493,7 @@
       "artists": [
         {
           "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "url": "https://open.spotify.com/artist/0MosRqpk3OZXYV91A1vSEn"
         },
         {
           "name": "Declan McKenna",
@@ -17276,6 +17312,24 @@
       "duration_ms": 196964,
       "name": "Matador",
       "url": "https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y"
+    },
+    {
+      "album": {
+        "name": "the side-effects of living in a fantasy",
+        "url": "https://open.spotify.com/album/0ng21MzkTevZ3JfDUiehKh"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185480,
+      "name": "matter",
+      "url": "https://open.spotify.com/track/4iDxcTqrjvAZVzJQp6Vhov"
     },
     {
       "album": {
@@ -22172,7 +22226,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 201255,
       "name": "Rodeo Clown",
       "url": "https://open.spotify.com/track/1x1z2qHf13S4nD4ozEEH02"
@@ -30760,6 +30814,24 @@
       "duration_ms": 204391,
       "name": "You Lose!",
       "url": "https://open.spotify.com/track/6b39rpIiepKunZyFHwugZQ"
+    },
+    {
+      "album": {
+        "name": "You Resemble Everything",
+        "url": "https://open.spotify.com/album/7KMmDgFmwClaHFUugRQdx5"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224226,
+      "name": "You Resemble Everything",
+      "url": "https://open.spotify.com/track/6F8bla4C7O8JvA2J0OuSt7"
     },
     {
       "album": {

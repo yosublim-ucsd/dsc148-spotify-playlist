@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Cryzin
 
-250 songs - 12 hr 50 min
+251 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Milão](https://open.spotify.com/track/4x4Fp6OGsLjIu2T0rZt6d5) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv), [Matheusinho](https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX) | [Milão](https://open.spotify.com/album/710Y3Si18m6WkKMtNrzgMl) | 3:19 | 2024-04-05 |  |
 | [Modo Avião](https://open.spotify.com/track/0WxQNvzeTDOIWi1Y3rsrHN) | [Meraki](https://open.spotify.com/artist/2y8PQh31BuCKxhKVmavWWs), [BlakkStar](https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX) | [Modo Avião](https://open.spotify.com/album/7n4cfdYDKxgjxWeHHyopGG) | 2:47 | 2022-11-18 | 2022-12-03 |
 | [Muito Sou\(L\)](https://open.spotify.com/track/13JrvtgrEvyk5hCXhdHO26) | [Flavia K](https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn), [Rashid](https://open.spotify.com/artist/6MAebUQUc54IEPRoaIv5My) | [Universo Suspenso](https://open.spotify.com/album/7A6eBJTbdBIkLzD21yYskR) | 3:42 | 2023-07-21 | 2023-11-11 |
-| [Mvp](https://open.spotify.com/track/5xmpIZOt1gGKxPJMpfPnre) | [Pedro Stone](https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM) | [Mvp](https://open.spotify.com/album/1ydJFlfIPIJyYpnEuv66AQ) | 3:35 | 2024-10-11 |  |
+| [Mvp](https://open.spotify.com/track/5xmpIZOt1gGKxPJMpfPnre) | [Pedro Stone](https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM) | [Mvp](https://open.spotify.com/album/1ydJFlfIPIJyYpnEuv66AQ) | 3:35 | 2024-10-11 | 2024-11-09 |
 | [Na Cama](https://open.spotify.com/track/3jBUU3sojivff7iNesTd9S) | [LEXY](https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp), [RZ](https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf) | [Na Cama](https://open.spotify.com/album/0NvtbyPCU9bIVdIhTh4fgo) | 3:15 | 2022-11-18 | 2023-01-14 |
 | [Nada Mais](https://open.spotify.com/track/5FU7Bcnvd27SxFstEF8Cp0) | [Yas Werneck](https://open.spotify.com/artist/5TjjSBov2DyArXPihcNWs2) | [Nada Mais](https://open.spotify.com/album/5WXB15pFJ00Wvh3eTPOHku) | 2:57 | 2023-04-23 | 2023-08-26 |
 | [NEGRA COR](https://open.spotify.com/track/342rayf5kBDPfjdGu7Ke0S) | [VÉRTICE](https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm) | [VIVER É SENTIR](https://open.spotify.com/album/21yuQI5C9jyoyN9yf1NLQb) | 3:21 | 2024-08-23 | 2024-11-05 |
@@ -204,6 +204,7 @@
 | [se você quiser](https://open.spotify.com/track/5C8J4qf8MCeOSvS2ugi0SB) | [Murilo Magalhães](https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A), [Mutanx](https://open.spotify.com/artist/7pH4KBMOUOnzAWnbtgDhiM), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [se você quiser](https://open.spotify.com/album/2fih7VtIuRrmh7M16jKulE) | 3:44 | 2023-07-21 | 2024-03-30 |
 | [Sei Lá](https://open.spotify.com/track/2vNRlI7vSMa3D4rJ11aAVx) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Sei Lá](https://open.spotify.com/album/2FBQJcKKxkdnNQsP4qI1CZ) | 2:24 | 2023-04-21 | 2023-08-26 |
 | [SEM BARULHO](https://open.spotify.com/track/3YYKdDw8ah4kVF5zRxDO0M) | [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw) | [SEM BARULHO](https://open.spotify.com/album/3Db57HHFgo2338LhJoP7dh) | 2:42 | 2023-05-12 |  |
+| [Sem Nada](https://open.spotify.com/track/25uqYzPvXS4WqAnWIEcWp4) | [João Loroza](https://open.spotify.com/artist/44ejp0LgYiq7kLEUjXiZzR), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p), [Tabatha Aquino](https://open.spotify.com/artist/1NJmXHZf6n7JSdVEqskl8s) | [SOUL EU](https://open.spotify.com/album/6suwkMw6GYHti1j5F9gFDw) | 3:13 | 2024-11-08 |  |
 | [Sem Tédio](https://open.spotify.com/track/66UjpQNSCcrjLEGDFFSCc1) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [Sem Tédio](https://open.spotify.com/album/1yAh1B0ycaq34ezgRWPIUc) | 3:00 | 2023-06-23 | 2024-02-24 |
 | [Sem Você \(Acústico no Studio F\)](https://open.spotify.com/track/3ShZp3yVmjUFEcNml4MSEt) | [Mariah Nala](https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC) | [Mariah Nala no Studio F \(Acústico\)](https://open.spotify.com/album/4nWfjD2QTrxHt8HOesIj67) | 2:28 | 2022-12-23 | 2023-09-30 |
 | [Sensual](https://open.spotify.com/track/67n8fu0kS4alk55PRvqq70) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Rare G](https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH), [Lotta](https://open.spotify.com/artist/4fpd51wyl42OhrUPK7R5aJ) | [Sensual](https://open.spotify.com/album/3P0v9NCQ7sp9mGjc44q42O) | 2:51 | 2023-04-07 | 2023-07-01 |

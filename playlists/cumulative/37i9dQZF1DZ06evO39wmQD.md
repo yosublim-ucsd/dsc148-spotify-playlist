@@ -4,12 +4,13 @@
 
 > This is Auli'i Cravalho\. The essential tracks, all in one playlist.
 
-28 songs - 1 hr 20 min
+29 songs - 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Cautionary Tale](https://open.spotify.com/track/6JKm5XtUhS2oSl2NRiBXe2) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Jaquel Spivey](https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 1:08 | 2024-01-13 |  |
 | [Apex Predator](https://open.spotify.com/track/7pfQ5U5XO54dlwzKcb47sf) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Jaquel Spivey](https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 3:07 | 2024-01-13 |  |
+| [Beyond \(End Credit Version\) \- From "Vaiana 2"](https://open.spotify.com/track/5uWxvYWgZPqtlowVViHixH) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Beyond \(End Credit Version\) \[From "Vaiana 2"\]](https://open.spotify.com/album/5NzymxSmwBmqdSsPDQYR6b) | 3:16 | 2024-11-09 |  |
 | [Born for This](https://open.spotify.com/track/79ifABR18J1kNepjRhWeCh) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Hailey's On It! \(Original Soundtrack\)](https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF) | 2:47 | 2023-06-10 |  |
 | [Feels Like Home](https://open.spotify.com/track/3o68rA5ozeALCXNt7LbSlS) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [Feels Like Home](https://open.spotify.com/album/0eGPbc8BTRwmiKrYK9Mvlh) | 3:32 | 2023-05-02 |  |
 | [Glorious \- Rise Cast Version](https://open.spotify.com/track/0hasaAKHUsmlAVbeo6jBUt) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Damon J\. Gillespie](https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I) | [Glorious \(Rise Cast Version\)](https://open.spotify.com/album/0pegn0FfZZRbQKSHGaPbcb) | 2:27 | 2023-05-02 |  |

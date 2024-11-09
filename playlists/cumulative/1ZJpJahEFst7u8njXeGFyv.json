@@ -6835,6 +6835,24 @@
     },
     {
       "album": {
+        "name": "Loiste",
+        "url": "https://open.spotify.com/album/2M4uM2dAm17xuLzVJkz31X"
+      },
+      "artists": [
+        {
+          "name": "A. Blomqvist",
+          "url": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185506,
+      "name": "Loiste",
+      "url": "https://open.spotify.com/track/0QnFEI5XPIXcBdTXglZ6Za"
+    },
+    {
+      "album": {
         "name": "Lonely Christmas (After Mendelssohn: Hark! The Herald Angels Sing, Arr. for Piano by Martin Stadtfeld)",
         "url": "https://open.spotify.com/album/4pEbRYuBxCo5pOmGKrut6I"
       },
@@ -7482,6 +7500,32 @@
       "duration_ms": 148320,
       "name": "Mother and Son",
       "url": "https://open.spotify.com/track/6qKl7MJOS2gANptkEnIgDI"
+    },
+    {
+      "album": {
+        "name": "Donau",
+        "url": "https://open.spotify.com/album/1MIckvXYkU0YUVvALN8e5S"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Florian Christl",
+          "url": "https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226106,
+      "name": "Mozart Variation (After Serenade, K. 250 \"Haffner\", IV. Rondo, Arr. for Cello & Piano by Florian Christl)",
+      "url": "https://open.spotify.com/track/2rXH5TICnz91VHpu3Cm7Kv"
     },
     {
       "album": {
@@ -11097,6 +11141,36 @@
     },
     {
       "album": {
+        "name": "Intercosmia Vol. 1",
+        "url": "https://open.spotify.com/album/3y5tT5o4of6SEyndkccXMI"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "John Metcalfe",
+          "url": "https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd"
+        },
+        {
+          "name": "Louisa Fuller",
+          "url": "https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ"
+        },
+        {
+          "name": "Chris Worsey",
+          "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214250,
+      "name": "Solomeo",
+      "url": "https://open.spotify.com/track/1FWA5vw5kvSjnOPS1fPZTD"
+    },
+    {
+      "album": {
         "name": "Sonata in D Minor, BWV 964: III. Andante (Arr. for Two Pianos by Cyril Scott)",
         "url": "https://open.spotify.com/album/0lO0GOBfgkzZX5ocE4Ej3f"
       },
@@ -12184,6 +12258,24 @@
       "duration_ms": 137262,
       "name": "Test Drive (From \"How To Train Your Dragon\") - Midnight Sessions at the Royal Albert Hall",
       "url": "https://open.spotify.com/track/4n6YBDMqrnx7K0ffbbOlex"
+    },
+    {
+      "album": {
+        "name": "Urban Impressionism",
+        "url": "https://open.spotify.com/album/2HwoFNovpqusvem2csYBU4"
+      },
+      "artists": [
+        {
+          "name": "Dardust",
+          "url": "https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249905,
+      "name": "The Art of Falling",
+      "url": "https://open.spotify.com/track/4xmWnJpazNxLLxDJcCKgeG"
     },
     {
       "album": {
@@ -14848,6 +14940,28 @@
       "duration_ms": 233802,
       "name": "Winter Nights",
       "url": "https://open.spotify.com/track/7HOMIxjeA5KKYHUxe9G7yc"
+    },
+    {
+      "album": {
+        "name": "The Waiting Sky",
+        "url": "https://open.spotify.com/album/2LX56aNF93x4uDRR2toxWl"
+      },
+      "artists": [
+        {
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+        },
+        {
+          "name": "The Pembroke College Girls' Choir",
+          "url": "https://open.spotify.com/artist/4RjmJe64qNsx1mZ6rbEfdm"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Winter Time",
+      "url": "https://open.spotify.com/track/2VMTYU4yEW0zxknxONm4nt"
     },
     {
       "album": {

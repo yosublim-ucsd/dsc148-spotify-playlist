@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 283480,
       "name": "Chi more pe' mme",
       "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
@@ -3052,6 +3052,32 @@
       "duration_ms": 174352,
       "name": "Fondo il Metallo",
       "url": "https://open.spotify.com/track/0ZejzvevyBEvbQBdbQKUfg"
+    },
+    {
+      "album": {
+        "name": "Formula (feat. Raige & Ensi)",
+        "url": "https://open.spotify.com/album/6zyTM0pcUTapaLY9Hb3Au4"
+      },
+      "artists": [
+        {
+          "name": "Joelz",
+          "url": "https://open.spotify.com/artist/1xLvoEP0zgupEhWcJLvBPT"
+        },
+        {
+          "name": "Raige",
+          "url": "https://open.spotify.com/artist/2Nsm5iGxbJxHoGZwrsOurY"
+        },
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229629,
+      "name": "Formula (feat. Raige & Ensi)",
+      "url": "https://open.spotify.com/track/6aJuccoMllaZpSdDiWK1O2"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 25576,
+  "num_followers": 25575,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyqxgAAAAABOPSsVbybeTXhcqumf/NDS",
+  "snapshot_id": "ZywDAAAAAABMkvQHcNnGTOHKdYq8vnuS",
   "tracks": [
     {
       "added_at": null,
@@ -811,30 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone II (Deluxe)",
-        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Torey D'Shaun",
-          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 158493,
-      "name": "Baby Mama 2",
-      "url": "https://open.spotify.com/track/0bm8L8NM3TOdtgpVb8hyPM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Belong",
         "url": "https://open.spotify.com/album/2m6yXR1LYIwvoKH4fpdKKS"
       },
@@ -855,6 +831,30 @@
       "duration_ms": 177219,
       "name": "God Speed",
       "url": "https://open.spotify.com/track/4LAXqhv4DfNMICQKEWw8dC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Glory Alone II (Deluxe)",
+        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 158493,
+      "name": "Baby Mama 2",
+      "url": "https://open.spotify.com/track/0bm8L8NM3TOdtgpVb8hyPM"
     },
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IGWT",
-        "url": "https://open.spotify.com/album/79MvjuFzYGvLVXzURjgNsT"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 179233,
-      "name": "IGWT",
-      "url": "https://open.spotify.com/track/13eWduFiVbu83T2Sm5hAIf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHECK",
         "url": "https://open.spotify.com/album/6b6dgDphNvK0ezuuaIwoCN"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 207000,
       "name": "CHECK",
       "url": "https://open.spotify.com/track/7oFYMJwyIYZJyKpPjEjSZK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IGWT",
+        "url": "https://open.spotify.com/album/79MvjuFzYGvLVXzURjgNsT"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 179233,
+      "name": "IGWT",
+      "url": "https://open.spotify.com/track/13eWduFiVbu83T2Sm5hAIf"
     },
     {
       "added_at": null,

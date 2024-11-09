@@ -2,9 +2,9 @@
 
 ### [Acoustic Soul](https://open.spotify.com/playlist/37i9dQZF1DX5lDysu4GbKR)
 
-> Relax to these acoustic soul songs\. Cover: Teddy Swims
+> Relax to these acoustic soul songs\. Cover: Mac Ayres
 
-239 songs - 14 hr 20 min
+245 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Dive Bar \- Demo Version](https://open.spotify.com/track/6uGS5ijqsTxJBopWF2rM7o) | [Caleb Hawley](https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB) | [Love, Drugs, & Decisions \(Acoustic\)](https://open.spotify.com/album/78b0W5qCMxiId6ZGnvm2w4) | 3:57 | 2021-12-09 | 2022-01-26 |
 | [DND \- Acoustic](https://open.spotify.com/track/0y9hUWaHuyIBppaKvcjAXt) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [DND \(Acoustic\)](https://open.spotify.com/album/0plcAlY3I6rYDI4nGaWZlp) | 2:18 | 2024-08-09 |  |
 | [Don't Lay It All On Me](https://open.spotify.com/track/1HRqrNwbigZTSvx4F6zyOb) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [Don't Lay It All On Me](https://open.spotify.com/album/6cXnkR2AXOQyAAnOLe3OfH) | 3:51 | 2022-09-29 |  |
+| [Don't Let Me Go](https://open.spotify.com/track/5TIHT94tJufZuni8d4RSlP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Loving You / Don't Let Me Go](https://open.spotify.com/album/5TLHp7Q9XE0hYTo6qF4g3H) | 4:04 | 2024-11-08 |  |
 | [Don't Walk Ahead](https://open.spotify.com/track/2ZqEojdExixApk1nY1Cib6) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF), [Moira Mack](https://open.spotify.com/artist/3IntPd2VgK6D2JovdxZ47V) | [Don't Walk Ahead](https://open.spotify.com/album/1NF1osQtBrL6U6CAguMqE1) | 3:31 | 2021-12-09 | 2022-07-29 |
 | [Don't Walk Ahead](https://open.spotify.com/track/2fXQU9i2Wvydt9AHa7Uh32) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF), [Moira Mack](https://open.spotify.com/artist/3IntPd2VgK6D2JovdxZ47V), [Joshua Heath](https://open.spotify.com/artist/0EP7WvDUkmtpa4zIN5SAlz), [Lyell Roeder](https://open.spotify.com/artist/21GNV26W7xdaJJfKc0N9S8), [Ankit Suri](https://open.spotify.com/artist/4EEzmnDnnNZCwz3ZfHW5xB), [Evan Hatfield](https://open.spotify.com/artist/3k8qxnliTHOu0KzdKfuS2V) | [Don't Walk Ahead](https://open.spotify.com/album/76uO2WahtkVA65sywYmb8m) | 3:31 | 2022-06-16 | 2023-08-31 |
 | [Eden \- From “Black History Always / Music For the Movement Vol\. 2"](https://open.spotify.com/track/61gjdUMePfAOD5p0gnGvfv) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Eden \(From “Black History Always / Music For the Movement Vol\. 2"\)](https://open.spotify.com/album/4yxSZ0Qm7wPKw5cvREXiyA) | 3:19 | 2021-12-09 | 2024-02-09 |
@@ -86,6 +87,7 @@
 | [Good Things Fall Apart](https://open.spotify.com/track/5dIvHAv8t9d42b6lAO53K5) | [Rhonda](https://open.spotify.com/artist/1pqbZX6kOvaCi5IEd9zFkG) | [Good Things Fall Apart](https://open.spotify.com/album/10PQIbXGnyO4DKajt4iLx3) | 4:08 | 2022-12-15 |  |
 | [Grow \- Live acoustic at Concertgebouw Amsterdam](https://open.spotify.com/track/75vCjMFYcbmTsnXR1zSXVp) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Grow \(Live\)](https://open.spotify.com/album/5lK4gRbDz3bjZTMY8alRZa) | 3:20 | 2021-12-09 | 2023-05-19 |
 | [GTC \(live from my stoop\)](https://open.spotify.com/track/70WqUVvwo39mmW1KNiK050) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Close to the Sun](https://open.spotify.com/album/2wDvlPsHlBWITcHubQ0NZk) | 5:12 | 2023-07-10 |  |
+| [Heal U](https://open.spotify.com/track/41l95qoyybdbcWm0mvMjzX) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Heal U / Out My Hair](https://open.spotify.com/album/6w3SEOFS1XYWBKn4WKfg4J) | 1:39 | 2024-11-08 |  |
 | [Here Before](https://open.spotify.com/track/1GRop5Dgbsq0X0zq9jy3R9) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph) | 4:29 | 2022-06-16 | 2024-02-09 |
 | [Here Before](https://open.spotify.com/track/2G2qENlHGYoYTRvGz7rMiV) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [II](https://open.spotify.com/album/1kuGSLgkcjZV9idGLT4AkQ) | 4:29 | 2021-12-09 | 2022-07-29 |
 | [Here Before](https://open.spotify.com/track/4NVDb2IBFPZaM2YgIaQQKC) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/39MCSCwQlqT6xm28UpGz39) | 4:29 | 2022-11-03 | 2022-11-13 |
@@ -181,6 +183,7 @@
 | [Pulling Away \(acoustic\)](https://open.spotify.com/track/5xif8DSxBw2sYROjNbXYVE) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love \- Acoustic](https://open.spotify.com/album/1lV062Z85zZ8Euv2UFjCJR) | 3:28 | 2021-12-09 | 2023-04-09 |
 | [Radio \- Acoustic](https://open.spotify.com/track/3YCZ87JivLIZK4yqurn0wH) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Sides](https://open.spotify.com/album/5alIr9JGPvOQwPLphm0beJ) | 3:24 | 2022-06-16 | 2023-04-09 |
 | [Radio \- Acoustic](https://open.spotify.com/track/7CVZB9X434DUviZcd8xIEI) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Radio \(Acoustic\)](https://open.spotify.com/album/5Cd59q1EMsF14OVTkkSJVm) | 3:24 | 2021-12-09 | 2022-07-29 |
+| [Reckless Soul \- demo](https://open.spotify.com/track/7yO88YQ8NjN7ib9x6bBq6G) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Give Up The Fear](https://open.spotify.com/album/4PfN0s5linXQvTPlHpJ7De) | 3:54 | 2024-11-08 |  |
 | [Regardless](https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Regardless](https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7) | 3:09 | 2024-08-09 |  |
 | [Remind Me](https://open.spotify.com/track/6QRjpaIoSIssUrKWyYjO8o) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Spotify Singles](https://open.spotify.com/album/5Tl9v8oev0uLTGUqnoVhQX) | 4:56 | 2021-12-09 | 2023-08-31 |
 | [Rent Free \- Acoustic](https://open.spotify.com/track/79lnq17i7L4AeFNfJO9Jaq) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [No More Lonely Nights](https://open.spotify.com/album/6oghy5BL3k36IYHUI3VHV4) | 2:46 | 2024-03-22 |  |
@@ -198,6 +201,7 @@
 | [She](https://open.spotify.com/track/7Hq4pnV88cIVrm8ZSsz0mc) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [I Fkn Love Myself](https://open.spotify.com/album/17AFgJa777rVq5X0wdiD6P) | 3:19 | 2021-12-09 | 2024-02-09 |
 | [Slow Down \(Acoustic\)](https://open.spotify.com/track/4o905HLa1RQPXYBfxeCF16) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [When I Wake up \- Acoustic EP](https://open.spotify.com/album/7HiIZJHO9SNjFqorG8EzdK) | 2:36 | 2021-12-09 | 2022-01-14 |
 | [Socials \- Acoustic](https://open.spotify.com/track/643kFnFHrshqpBVJHPqS45) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [Elvis from Paradise](https://open.spotify.com/artist/199vtJaeoEBE4m4yJoB4wp), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Socials \(Acoustic\)](https://open.spotify.com/album/2HxdLVy8eXluEKfQnbut9l) | 3:04 | 2021-12-09 | 2024-02-09 |
+| [somebody new](https://open.spotify.com/track/5hiKumtJTCHaaWwgxdpnoD) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [cloudy](https://open.spotify.com/album/07qAkNgFlbkUpIJzT3jtTf) | 4:26 | 2024-11-08 |  |
 | [Someday \- Unplugged](https://open.spotify.com/track/34StJdGuwDjG9LSWbWniQB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Someday \(Unplugged\)](https://open.spotify.com/album/705a2Bf3lhKcZ4t7JPs2uf) | 3:12 | 2024-02-01 |  |
 | [SOMEWHERE FAR](https://open.spotify.com/track/0y6DaC0f8sGqzbU5UKoPEb) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7), [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [SOMEWHERE FAR](https://open.spotify.com/album/3unR1FTn8GilyeSvUchaXt) | 2:24 | 2023-11-09 |  |
 | [Sorry \- Acoustic](https://open.spotify.com/track/6YEHDq6g27waFGt9oOtjoh) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Sorry \(Acoustic\)](https://open.spotify.com/album/7vqLcoCPelj0Y4KguIDLAi) | 3:55 | 2021-12-09 |  |
@@ -232,6 +236,7 @@
 | [Unaware](https://open.spotify.com/track/3DYVhEhZRy7srzasM8o2k5) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/7i97vd4smLer2gGBSvfjK6) | 4:36 | 2023-07-10 | 2024-04-19 |
 | [Unaware](https://open.spotify.com/track/3R3xKezI1kvFaomppAiQqg) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/6dqcqprGk1KMEwKJ0P3RdZ) | 4:36 | 2022-06-16 | 2023-07-16 |
 | [Unaware](https://open.spotify.com/track/4JxbEjAkli1L1uppxive32) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/3qBXZkDcgHfptEbAw840wL) | 4:36 | 2021-12-09 |  |
+| [Until It's Dust](https://open.spotify.com/track/616o0X9kcvy732UKKnL68j) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyway I Can](https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17) | 2:35 | 2024-11-08 |  |
 | [Up All Night \- Acoustic Version](https://open.spotify.com/track/0sF9rafYmmI4Kw8PCCRSFo) | [TheColorGrey](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd) | [Up All Night](https://open.spotify.com/album/1RlvoML4BfPSxFOqQCx4Gi) | 3:36 | 2021-12-09 | 2022-05-04 |
 | [Video Game](https://open.spotify.com/track/7HmoOrC8B7YUG3XXPizxRp) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Video Game](https://open.spotify.com/album/4Ts5SXRtH4FJuMo104aZv1) | 2:44 | 2023-08-15 |  |
 | [Wait for You](https://open.spotify.com/track/0jjsLGCJmUzYRu6GKQqlR4) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Wait for You](https://open.spotify.com/album/2zdqd5mCgqHeDh6CR2PYLY) | 4:34 | 2021-12-09 | 2022-01-14 |
@@ -246,6 +251,7 @@
 | [Whoever You Are \- Live at RAK](https://open.spotify.com/track/6kVsawZQt4GPbFXSYS3DsY) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [Live at RAK](https://open.spotify.com/album/2bzinM4FmvifmFBf6XUGZ6) | 7:00 | 2023-11-04 |  |
 | [Wish I Didn't Miss You \- Mahogany Sessions](https://open.spotify.com/track/3K2r8STZHwfN0GhCSNaQuR) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Wish I Didn’t Miss You \(Mahogany Sessions\)](https://open.spotify.com/album/2yR7Hmf7LZ9UicoySKuGMv) | 3:55 | 2022-04-08 |  |
 | [You](https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [You](https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs) | 3:00 | 2021-12-09 | 2023-04-09 |
+| [YOU \- Live](https://open.spotify.com/track/7MM899Zw7uVEWwWpSUOLUJ) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [YOU \(Live\)](https://open.spotify.com/album/1asr3WiGnqxr2bwuyPjmx4) | 3:24 | 2024-11-08 |  |
 | [You Win](https://open.spotify.com/track/5oLHZYHAvYXmIt3AEqm2PE) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [You Win](https://open.spotify.com/album/7AWkXbVuFinaGlItRtCR0o) | 2:39 | 2021-12-09 | 2024-02-09 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

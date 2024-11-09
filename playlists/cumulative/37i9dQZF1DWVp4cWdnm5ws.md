@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon this 2024\. Cover: Denise Julia
 
-215 songs - 13 hr 13 min
+217 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Makasarili Malambing \(feat\. Hev Abi\)](https://open.spotify.com/track/24lbO7qor0IB4u9uu8pDw8) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Makasarili Malambing \(feat\. Hev Abi\)](https://open.spotify.com/album/5nRawGHyy4wk6BEudZx0h4) | 2:01 | 2024-04-02 |  |
 | [Maligayang Pagkunwari](https://open.spotify.com/track/11s7b3qNczlmVO0LT3PPte) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Maligayang Pagkunwari](https://open.spotify.com/album/0NqV5yJbP7ngiQPY91J9dj) | 4:34 | 2022-04-01 | 2023-04-14 |
 | [MAPA](https://open.spotify.com/track/6Fz2TpxUD0YvAPsuG8nDMJ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [MAPA](https://open.spotify.com/album/4Qhx57hNp0CUmUbO2igtAq) | 4:35 | 2021-11-25 | 2023-04-14 |
+| [Marilag](https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Marilag](https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY) | 2:37 | 2024-11-08 |  |
 | [Mariposa](https://open.spotify.com/track/0j452wGGiFFZzGzWWa4cqq) | [Peaceful Gemini](https://open.spotify.com/artist/4AD2SGYmDQVd02vrwH0TaA), [DB Tha Girl](https://open.spotify.com/artist/557z0T9CAn8BAPaTAZpDaG) | [Mariposa](https://open.spotify.com/album/6dSj3xF4g0MqpNAF7QBeAk) | 3:51 | 2021-11-25 | 2022-03-25 |
 | [Mayari](https://open.spotify.com/track/4fYDCIeW8frXcVpifquhxJ) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Mayari](https://open.spotify.com/album/2Vhz5nwKK4Hb5ssC5wBoTn) | 4:30 | 2021-11-25 | 2022-03-25 |
 | [Mind, Body & Soul](https://open.spotify.com/track/0hi5lH7ioy89SP1itoseLt) | [Peaceful Gemini](https://open.spotify.com/artist/4AD2SGYmDQVd02vrwH0TaA) | [Mind, Body & Soul](https://open.spotify.com/album/0tmFpA4feyj6wlpIX7GE0D) | 3:29 | 2021-11-25 | 2022-03-25 |
@@ -186,6 +187,7 @@
 | [Sunday Morning](https://open.spotify.com/track/7iil6fgXBgJcSqbKOKI4dx) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ) | [Sunday Morning](https://open.spotify.com/album/5eQqnyOrLCKl2ptVYevOAL) | 3:44 | 2024-04-05 |  |
 | [Sunny When I'm With You](https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ), [Purplecat](https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN) | [Sunny When I'm With You](https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E) | 3:00 | 2024-05-03 |  |
 | [Sway](https://open.spotify.com/track/5xvZKZKmaO1wmicwNL273v) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Sway](https://open.spotify.com/album/3ZyjJ6WcSzSFtCOk7ysUbV) | 3:58 | 2023-04-13 | 2024-04-03 |
+| [sweet nothings](https://open.spotify.com/track/5aC91iyzOTL31zeZOHsmip) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Sweet Nothings \(Chapter 2\)](https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj) | 2:39 | 2024-11-08 |  |
 | [Tahan Na \(feat\. Arthur Miguel\)](https://open.spotify.com/track/3aNlKhDSguYgew75Vq8ELT) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy), [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Tahan Na \(feat\. Arthur Miguel\)](https://open.spotify.com/album/4TxjAxOvm228chbxndw1RJ) | 4:29 | 2024-04-02 |  |
 | [Tahanan](https://open.spotify.com/track/0R14hunYxRvkNZue5WL4Oc) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/7Jgei0LHq4rhql16x8lsuH) | 4:53 | 2022-03-24 | 2022-07-29 |
 | [Tahanan](https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE) | 4:53 | 2022-03-24 | 2023-04-14 |

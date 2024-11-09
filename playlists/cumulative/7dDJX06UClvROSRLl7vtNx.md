@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-626 songs - 1 day 3 hr 18 min
+628 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Daybreak](https://open.spotify.com/track/7xBjUyTtgihlzEntPsItFA) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [Maynørr](https://open.spotify.com/artist/7hTaKNOFsEi4VlXr0KJMHo), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Daybreak](https://open.spotify.com/album/1tCjtFk6t31cP5pbTp7ft4) | 3:28 | 2024-08-16 |  |
 | [Daydreams](https://open.spotify.com/track/5LsKH0xvpdlKdE0RUR023Q) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Donna Senders](https://open.spotify.com/artist/6an7nK86PPq4I4yTlBd48P), [Cal1](https://open.spotify.com/artist/25dKyXEZPXG55aaNFQFbaJ) | [Daydreams](https://open.spotify.com/album/0c1bUN4b8uF8fTcHB7lzKi) | 2:56 | 2024-05-10 | 2024-08-12 |
 | [Days Go By](https://open.spotify.com/track/23EsgI4ZCW4ONfbFgyVjbl) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Days Go By](https://open.spotify.com/album/1U2nDCVDwxBfq0rZQpI3Ax) | 2:39 | 2024-07-30 |  |
+| [Defender](https://open.spotify.com/track/0aEGr7B1y5OVGdIXxQVnMS) | [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41), [Abraham Colona](https://open.spotify.com/artist/1SC74Ya2mEkFoUzpr8hIev), [Corey Angel](https://open.spotify.com/artist/6ZIOb4jMYb5YeQq9pWhuJx), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Defender](https://open.spotify.com/album/5z0CQijrCQkI9ze10dxlrg) | 2:24 | 2024-11-08 |  |
 | [Diamond](https://open.spotify.com/track/5PCjtggUt1F8mlqJNS6QTl) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Diamond](https://open.spotify.com/album/3erd0qo4WEOBvDmsltDaPz) | 2:16 | 2024-03-18 |  |
 | [Die For Love](https://open.spotify.com/track/0gWjh743qLdbOiAYoetXZi) | [Boostereo](https://open.spotify.com/artist/6SwVPmSTMYlcy2vTWyE3aC), [B Martin](https://open.spotify.com/artist/2qgqyyEyFPuw2KdlYmePgD), [Capri Everitt](https://open.spotify.com/artist/6EFNRnIRbAh7pHV1FgCQaB) | [Die For Love](https://open.spotify.com/album/6TamL3WGQ2f74YiKkSTnMI) | 2:25 | 2024-08-02 | 2024-08-30 |
 | [Distant Paradise](https://open.spotify.com/track/2pLucKV19INlCKaCXGFFPE) | [Chaël](https://open.spotify.com/artist/4qUDi25koBiqMb7uhHEOHk), [TEN TIMES](https://open.spotify.com/artist/3NccRg2H1XTSVekaTZZ3Xd), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Distant Paradise](https://open.spotify.com/album/09xGBhYIX97nVam6N6hfQc) | 2:21 | 2024-06-21 | 2024-07-29 |
@@ -574,6 +575,7 @@
 | [Until We're Together](https://open.spotify.com/track/7gPd8N4YFAXjiQtnnQzRn9) | [just Fede](https://open.spotify.com/artist/7uXJKN6U0eK8uWOdKAUNkP), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Until We're Together](https://open.spotify.com/album/0gerArONKXKkiCm6jdfIGB) | 2:11 | 2024-11-03 |  |
 | [Up At Night](https://open.spotify.com/track/3HMFkGrSmhzEVNatvkfSZj) | [Jeremy Arnold](https://open.spotify.com/artist/7bSNahMBuhzMOwCAn57FB5) | [Up At Night](https://open.spotify.com/album/6DDnONcoqkv97XDFxc59nO) | 2:54 | 2024-07-30 |  |
 | [Vision](https://open.spotify.com/track/1IW0NLlWr9y9UmwovDkusx) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [Vision](https://open.spotify.com/album/3AYdlrrBvgLcdg60bxWaZl) | 2:16 | 2023-09-22 | 2023-12-18 |
+| [Vision](https://open.spotify.com/track/2zctpVRHCcEcSjh9RpASl4) | [Ødyssey](https://open.spotify.com/artist/6qLB9SoM25z2JDFBcgvJ8G) | [Vision](https://open.spotify.com/album/5XFXTv8s2KTfLMGUmIK1ef) | 2:45 | 2024-11-08 |  |
 | [Wait For You](https://open.spotify.com/track/1zIIS0hBZbCNtxzf4DMVEX) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm) | [Wait For You](https://open.spotify.com/album/14mj4pvvf0dfROmnUFy0zk) | 2:58 | 2023-12-17 | 2023-12-30 |
 | [Wait For You](https://open.spotify.com/track/6FpR4RVPTLP7BHVca9Lkve) | [Mateo](https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX) | [Wait For You](https://open.spotify.com/album/31bcOcIkb2tQAXCkMGMn2R) | 2:38 | 2024-05-23 | 2024-07-14 |
 | [Waiting For](https://open.spotify.com/track/6WqVq2NOScKWQVlSwkPVj5) | [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Waiting For](https://open.spotify.com/album/4bs49fjwyDPQDYsPn5Qvji) | 2:24 | 2024-07-19 | 2024-09-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Best of DHH\. Cover:  Karan Aujla
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,909 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,983 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 | 19 | [Living In The City](https://open.spotify.com/track/6f9Fi68sUYdZyG47tYzBVV) | [aleemrk](https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Different Phase](https://open.spotify.com/album/4fXbGkCU7IEQs4Ow4rCQV5) | 3:01 |
 | 20 | [Death Wish](https://open.spotify.com/track/3UxpWx6vH0qx9iTyy8m80I) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Worth The Wait](https://open.spotify.com/album/0exmK0iMT8apkRqNHMJSy5) | 2:37 |
 | 21 | [No Need](https://open.spotify.com/track/4RFJxn4303SGvL3A5AlaJO) | [aleemrk](https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [No Need](https://open.spotify.com/album/70I8PM8TxctVAZWKQ5jtuA) | 2:34 |
-| 22 | [Dupatta Drill](https://open.spotify.com/track/6wwwaMSY04xYhDpU7IKzz3) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Dupatta Drill](https://open.spotify.com/album/545u6lIVWOfi58QE5I3feD) | 2:30 |
+| 22 | [HUNDO](https://open.spotify.com/track/7yz7n00FMO8AUxgvBHXZab) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [HUNDO](https://open.spotify.com/album/0vJ4vgqMg9DXt6zsnXaVRN) | 2:23 |
 | 23 | [Everyone Asks](https://open.spotify.com/track/3nc7YQhWdDfv8CwerxuE3J) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [ALPHA](https://open.spotify.com/album/6xONAWWocgNhYPBvUBjF8f) | 2:49 |
 | 24 | [La Vida](https://open.spotify.com/track/6oScY8qe1DGd6PlrCJ7e44) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [KARAM](https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1) | 2:21 |
 | 25 | [Daaku](https://open.spotify.com/track/32OPGHl98lfojGFca3Ib5O) | [Young Stunners](https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Daaku](https://open.spotify.com/album/515OMGcJFmsPLpVVTFTiEV) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 | 99 | [Role Model](https://open.spotify.com/track/1kwDiS9TToZtBG6nwNOZwD) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [For The Day One$](https://open.spotify.com/album/1OLxqHVU7CIkB90Y13yCzT) | 4:03 |
 | 100 | [Shut Up](https://open.spotify.com/track/3XMZT9cUc54MnyKdDYNiqA) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Subspace](https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl) | [For The Day One$](https://open.spotify.com/album/1OLxqHVU7CIkB90Y13yCzT) | 2:46 |
 
-Snapshot ID: `Zyyf9QAAAABTBr3AJYGZDhcL61QNVpFq`
+Snapshot ID: `Zy2MCgAAAADDsxik4F55WI93A5Yxm23d`

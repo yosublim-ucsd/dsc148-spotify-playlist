@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1puyOVU3elVRRIblfAnQ8Q.md) - [plain]
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,813 likes - 22 songs - 1 hr 14 min
+[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,813 likes - 23 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,5 +30,6 @@ pretty - [cumulative](/playlists/cumulative/1puyOVU3elVRRIblfAnQ8Q.md) - [plain]
 | 20 | [Stank](https://open.spotify.com/track/56asRt7RFwPcXJWdcXlR2Q) | [Abstrakt Sonance](https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp) | [We Are Deadbeats Vol\. 6](https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh) | 3:42 |
 | 21 | [EIN SCHÖNER PLATZ](https://open.spotify.com/track/153FJ3SVsJBZfaX3LORoNk) | [Phace](https://open.spotify.com/artist/3o46xaXZd75wUeb2Zfc4o5), [Affe Maria](https://open.spotify.com/artist/6KSb5SI2YTvZKqhbSlGOfL) | [EVERYDAY](https://open.spotify.com/album/4IvfzUJSdvZY5GBrrQfmEr) | 4:33 |
 | 22 | [Fever](https://open.spotify.com/track/52g6ivLTMXxAn2vvX4772J) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Fever](https://open.spotify.com/album/2PlgEkyn7D04osG3U6iefw) | 3:31 |
+| 23 | [Digital Night Drive](https://open.spotify.com/track/4NTkICndpBrjwZLwNofVBQ) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ), [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf) | [Digital Night Drive](https://open.spotify.com/album/0jvggA0QufnaIbh4S0as91) | 4:28 |
 
-Snapshot ID: `AAAXMK35LHuZMoj19uZmQ/fePk+C9gQ3`
+Snapshot ID: `AAAXMT662ItJ8RSSOGKn2GcbaNwhwvjZ`

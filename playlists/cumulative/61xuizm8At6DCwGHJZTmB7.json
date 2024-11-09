@@ -771,6 +771,32 @@
     },
     {
       "album": {
+        "name": "Approach, My Soul (Live)",
+        "url": "https://open.spotify.com/album/0BVakc8Mop6j54yEX97OTF"
+      },
+      "artists": [
+        {
+          "name": "Jordan Kauflin",
+          "url": "https://open.spotify.com/artist/693dfM3T8ebvdxPrqLAjqt"
+        },
+        {
+          "name": "Laura Story",
+          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
+        },
+        {
+          "name": "Sing!",
+          "url": "https://open.spotify.com/artist/4yLrqCnweM5i52DkFUkTl9"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232669,
+      "name": "Approach, My Soul - Live",
+      "url": "https://open.spotify.com/track/2nu5HBCBD1CKFm1C1WfBWc"
+    },
+    {
+      "album": {
         "name": "As You Can (Live)",
         "url": "https://open.spotify.com/album/4CM3QMzL3U0zhxTflYL0dF"
       },
@@ -2194,6 +2220,24 @@
       "duration_ms": 430400,
       "name": "Do What Only You Can Do - Live",
       "url": "https://open.spotify.com/track/1o1qv2DZbINBcp06exDGqo"
+    },
+    {
+      "album": {
+        "name": "Dry Ground",
+        "url": "https://open.spotify.com/album/5jyQwvIZSQozXT1GHEMhZo"
+      },
+      "artists": [
+        {
+          "name": "Church of the City",
+          "url": "https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305772,
+      "name": "Dry Ground",
+      "url": "https://open.spotify.com/track/2rN3VHilUMtGh7CVmCVUqs"
     },
     {
       "album": {

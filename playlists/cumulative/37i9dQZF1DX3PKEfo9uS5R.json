@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "blue dream",
+        "url": "https://open.spotify.com/album/4cMErHCYjeeKYujC9Ey6QX"
+      },
+      "artists": [
+        {
+          "name": "citron love",
+          "url": "https://open.spotify.com/artist/6a24frzzG1wS3gvqsvbjyQ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145294,
+      "name": "blue dream",
+      "url": "https://open.spotify.com/track/5B6k1fdtwUqKbFcKKV8Sd1"
+    },
+    {
+      "album": {
         "name": "Blue Gold",
         "url": "https://open.spotify.com/album/2eRVCECu1ZfOApQApR9opm"
       },
@@ -632,6 +650,24 @@
       "duration_ms": 152291,
       "name": "capri",
       "url": "https://open.spotify.com/track/70Tx222qN8fC4BLyQiQELH"
+    },
+    {
+      "album": {
+        "name": "capri life",
+        "url": "https://open.spotify.com/album/2eqWINVuY8aBLUS68C27Ue"
+      },
+      "artists": [
+        {
+          "name": "R Y K",
+          "url": "https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "capri life",
+      "url": "https://open.spotify.com/track/3VeubLbmekGe6flz2XKMC5"
     },
     {
       "album": {

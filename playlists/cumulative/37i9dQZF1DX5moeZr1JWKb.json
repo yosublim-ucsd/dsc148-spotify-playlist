@@ -1235,6 +1235,32 @@
     },
     {
       "album": {
+        "name": "Juntas y Revueltas",
+        "url": "https://open.spotify.com/album/0tho8q03ovJdFZZ1n72JQO"
+      },
+      "artists": [
+        {
+          "name": "Lianna",
+          "url": "https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa"
+        },
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        },
+        {
+          "name": "El Arkeologo",
+          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Juntas y Revueltas",
+      "url": "https://open.spotify.com/track/6fUunh7NpHXcOcpUmmPlOO"
+    },
+    {
+      "album": {
         "name": "TOY LOKAZO",
         "url": "https://open.spotify.com/album/5Dqi0yKIDsT7Bds9F3VHIn"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Meet the future of music around the world. Cover: Joaquina.",
+  "description": "Meet the future of music around the world. Cover: Berre.",
   "name": "RADAR Global ",
   "tracks": [
     {
@@ -348,7 +348,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 180673,
       "name": "24 Hours in Paris",
       "url": "https://open.spotify.com/track/669mVgiLz39msLj9dDsGBK"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 151272,
       "name": "4BULLDOG",
       "url": "https://open.spotify.com/track/0o34eUWYUM35IB20gxXqFd"
@@ -6004,7 +6004,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 264319,
       "name": "Daddy's Selling Wine In A Burning House",
       "url": "https://open.spotify.com/track/6jWsP2neKDqX4YWNK46njD"
@@ -6058,7 +6058,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 205901,
       "name": "Dance at the Function",
       "url": "https://open.spotify.com/track/5USEKBiRFiQCeWy4U8AjKW"
@@ -6672,7 +6672,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 156852,
       "name": "devut",
       "url": "https://open.spotify.com/track/69pSgqboXTZjbBZCExlUtB"
@@ -9813,6 +9813,36 @@
     },
     {
       "album": {
+        "name": "Get Loose",
+        "url": "https://open.spotify.com/album/6bPxTPEqF4jd5ugFWShH0A"
+      },
+      "artists": [
+        {
+          "name": "TENGY",
+          "url": "https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK"
+        },
+        {
+          "name": "Khally",
+          "url": "https://open.spotify.com/artist/4PqeHxPLqzI2yCNerkPrES"
+        },
+        {
+          "name": "SoundClout",
+          "url": "https://open.spotify.com/artist/3LcwAiTjlQTT25TtU39kSB"
+        },
+        {
+          "name": "PravOnTheLoose",
+          "url": "https://open.spotify.com/artist/5HvJGgEq2XovGcbdGmWKXg"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195398,
+      "name": "Get Loose",
+      "url": "https://open.spotify.com/track/6HkECn6elRsylPQmDGmDxq"
+    },
+    {
+      "album": {
         "name": "Brightside",
         "url": "https://open.spotify.com/album/41f4EFQKt0oSJjq8KCClJZ"
       },
@@ -10318,7 +10348,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 115764,
       "name": "Good With That",
       "url": "https://open.spotify.com/track/73hmnv8KR7sujKP0hbKEBd"
@@ -11995,6 +12025,24 @@
     },
     {
       "album": {
+        "name": "First of My Kind EP",
+        "url": "https://open.spotify.com/album/3EjU6cq2Y8htvd5ozgkmE1"
+      },
+      "artists": [
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157300,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/2aiwomEGsx1qmyMsj6JFU3"
+    },
+    {
+      "album": {
         "name": "Snow Angel (Deluxe)",
         "url": "https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf"
       },
@@ -12136,7 +12184,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 202623,
       "name": "I Hate The Sun",
       "url": "https://open.spotify.com/track/5Ylf778mAXBMuEw5eJl1fH"
@@ -13658,7 +13706,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 233906,
       "name": "jtm encore",
       "url": "https://open.spotify.com/track/6gfVLs4jU96xCjIRZxNUlo"
@@ -20998,7 +21046,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 125165,
       "name": "poison",
       "url": "https://open.spotify.com/track/708OIcF8K7xaT8Pj7XqSml"
@@ -29296,7 +29344,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 173333,
       "name": "Znak",
       "url": "https://open.spotify.com/track/0lTP9dBVc2QyUu24PfikM3"

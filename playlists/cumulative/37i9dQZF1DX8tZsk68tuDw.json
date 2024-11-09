@@ -418,7 +418,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 180000,
       "name": "24 (Turn It Up) (+6)",
       "url": "https://open.spotify.com/track/0EWG5cpMUT0Jp0Pye9S0Ne"
@@ -3264,7 +3264,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 182068,
       "name": "Angel",
       "url": "https://open.spotify.com/track/5V00ZhzyrSKM6WSBn44gE3"
@@ -4684,6 +4684,24 @@
       "duration_ms": 171208,
       "name": "back 2 love",
       "url": "https://open.spotify.com/track/6ihpgFagnilliKyz2gTqik"
+    },
+    {
+      "album": {
+        "name": "Back 2 Me",
+        "url": "https://open.spotify.com/album/1G5zOiwudBZj9NdVsGjnXi"
+      },
+      "artists": [
+        {
+          "name": "Malachiii",
+          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161622,
+      "name": "Back 2 Me",
+      "url": "https://open.spotify.com/track/4ZWwOIi4ZaXe3abTVLkedj"
     },
     {
       "album": {
@@ -7598,7 +7616,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 132378,
       "name": "Body Type",
       "url": "https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN"
@@ -8678,7 +8696,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 203636,
       "name": "Bump Artist",
       "url": "https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f"
@@ -12485,6 +12503,32 @@
     },
     {
       "album": {
+        "name": "Craving 4 U (feat. bbyclose)",
+        "url": "https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0"
+      },
+      "artists": [
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        },
+        {
+          "name": "CamrinWatsin",
+          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139300,
+      "name": "Craving 4 U (feat. bbyclose)",
+      "url": "https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ"
+    },
+    {
+      "album": {
         "name": "Crawl",
         "url": "https://open.spotify.com/album/1VoQhmlZnudO3RCwhsq93K"
       },
@@ -12708,7 +12752,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 240937,
       "name": "Crown",
       "url": "https://open.spotify.com/track/48HjuSOCti5mGKg6rUjAfB"
@@ -16746,6 +16790,32 @@
       "duration_ms": 154285,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/0NNSpmyyr0I4lrMaXS8Tba"
+    },
+    {
+      "album": {
+        "name": "Electricity",
+        "url": "https://open.spotify.com/album/6rDypUhYCZ0BVacAfSewuZ"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+        },
+        {
+          "name": "Meca",
+          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170390,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/2xPg0pFQD7W4Ds3queL5D9"
     },
     {
       "album": {
@@ -21703,6 +21773,24 @@
     },
     {
       "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/3aKLcv8wpARI12rmt5ZJVC"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187086,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/6tgBOj1W50ssmhorIQOFKX"
+    },
+    {
+      "album": {
         "name": "Gassed Up",
         "url": "https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b"
       },
@@ -22556,6 +22644,28 @@
       "duration_ms": 209341,
       "name": "Glow In The Dark",
       "url": "https://open.spotify.com/track/43QTqbEuSMnofYrZ1fuNwi"
+    },
+    {
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/4Zzp3MGr2M5rMF1oDxZ8mz"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196850,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/1EFyjeVs4hetSVMc28Y9r6"
     },
     {
       "album": {
@@ -26423,6 +26533,28 @@
     },
     {
       "album": {
+        "name": "Keep On Moving Up",
+        "url": "https://open.spotify.com/album/5Wbi8QUhBMmpwUbEjnN7KX"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        },
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176102,
+      "name": "Hush My Heart",
+      "url": "https://open.spotify.com/track/3G1YuvBfSeFBQwE5DEnoaD"
+    },
+    {
+      "album": {
         "name": "Hustla",
         "url": "https://open.spotify.com/album/4oofnyX49L9k555nOKILFI"
       },
@@ -28864,7 +28996,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 214466,
       "name": "In The Shadow",
       "url": "https://open.spotify.com/track/7ylweQjCPCtMvyM21Jqas1"
@@ -29744,7 +29876,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 160973,
       "name": "It Feels So Good",
       "url": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
@@ -29858,6 +29990,24 @@
       "duration_ms": 189223,
       "name": "It's A Feeling",
       "url": "https://open.spotify.com/track/3py9E6Yll3JY9VKQEaZzP8"
+    },
+    {
+      "album": {
+        "name": "It's A Party (PRX002)",
+        "url": "https://open.spotify.com/album/0jfleoc8WwfuA5pP4la7rG"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203250,
+      "name": "It's a Party (PRX002)",
+      "url": "https://open.spotify.com/track/0ECJVVznvRVdzFlmD0HnL9"
     },
     {
       "album": {
@@ -34688,7 +34838,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 199458,
       "name": "Love Come Through",
       "url": "https://open.spotify.com/track/4ly7j7VqnX4RpnXUBBalFz"
@@ -39849,6 +39999,28 @@
     },
     {
       "album": {
+        "name": "NEVER STOPPIN'",
+        "url": "https://open.spotify.com/album/6PlQYo9TonGHnlaWNVQaFg"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "Nouni",
+          "url": "https://open.spotify.com/artist/4QujGIlqVG7lX2MjyJKWww"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143809,
+      "name": "NEVER STOPPIN'",
+      "url": "https://open.spotify.com/track/5KZUcvttKBPePQjLPCl3Rl"
+    },
+    {
+      "album": {
         "name": "Never Surrender (feat. Sarah de Warren)",
         "url": "https://open.spotify.com/album/5RqW9pQeAqQyd2iCWbSvIE"
       },
@@ -40344,7 +40516,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 186857,
       "name": "NIGHTHAWK",
       "url": "https://open.spotify.com/track/78gdoEw0f0uIaOsS2F51lP"
@@ -45312,7 +45484,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 176000,
       "name": "Power (feat. Grabbitz)",
       "url": "https://open.spotify.com/track/3OPcGN44zYI7eg1OwHrSD0"
@@ -47488,6 +47660,24 @@
       "duration_ms": 213318,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/2mEb5O579Ctj4sYqfkJSZd"
+    },
+    {
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/5o3lrb6NCyEJT65AnSmV3N"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210194,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/6wzMevey2rDXo0e1POZ67m"
     },
     {
       "album": {
@@ -51688,7 +51878,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 144840,
       "name": "Smile Boy",
       "url": "https://open.spotify.com/track/686xawmVv1F1Ks5kJRkcVG"
@@ -53489,6 +53679,24 @@
     },
     {
       "album": {
+        "name": "Sthlm In My <3",
+        "url": "https://open.spotify.com/album/4GHkgOqbKjs7YqQ8qADO23"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206865,
+      "name": "Sthlm In My <3",
+      "url": "https://open.spotify.com/track/7HrlxmJTE4B3HGFxPcUy2M"
+    },
+    {
+      "album": {
         "name": "Sticky (feat. Lolo Zoua\u00ef)",
         "url": "https://open.spotify.com/album/2APyxj6pJrqb7H7IHP5Bgd"
       },
@@ -53566,7 +53774,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 151875,
       "name": "Still Into You",
       "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
@@ -55598,6 +55806,28 @@
       "duration_ms": 160645,
       "name": "Tamo Loco",
       "url": "https://open.spotify.com/track/19EwqyuwH4Na6bnOlIe3O0"
+    },
+    {
+      "album": {
+        "name": "Tantalizing",
+        "url": "https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Soaky Siren",
+          "url": "https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146341,
+      "name": "Tantalizing",
+      "url": "https://open.spotify.com/track/799db91cR00On6N158VLHS"
     },
     {
       "album": {
@@ -57974,6 +58204,28 @@
       "duration_ms": 157440,
       "name": "This Love",
       "url": "https://open.spotify.com/track/5wjv0l8FDhufvyFdokJqG1"
+    },
+    {
+      "album": {
+        "name": "This Rhythm (feat. RAHH)",
+        "url": "https://open.spotify.com/album/6byZV4u6nwuuGLFY3TaMzh"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "RAHH",
+          "url": "https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189960,
+      "name": "This Rhythm (feat. RAHH)",
+      "url": "https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT"
     },
     {
       "album": {
@@ -63151,6 +63403,24 @@
     },
     {
       "album": {
+        "name": "AFTERWORK",
+        "url": "https://open.spotify.com/album/6tD3xGS1B0BM3HbtRzVoG4"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174404,
+      "name": "WHEN IT COMES TO YOU",
+      "url": "https://open.spotify.com/track/7E4k65CjSEhmEUZ0y2E47A"
+    },
+    {
+      "album": {
         "name": "When It Rains, It Pours",
         "url": "https://open.spotify.com/album/7gw75X0Cp4ya2yz6tW0Rio"
       },
@@ -63932,7 +64202,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 215172,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"

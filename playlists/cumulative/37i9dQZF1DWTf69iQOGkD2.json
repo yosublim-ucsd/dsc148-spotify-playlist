@@ -1455,6 +1455,28 @@
     },
     {
       "album": {
+        "name": "P.A",
+        "url": "https://open.spotify.com/album/6awgqrCDHx1lLGEeZ5vwEV"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214283,
+      "name": "CAN\u00c7\u00c3O DO FIM DO MUNDO",
+      "url": "https://open.spotify.com/track/29pCtEDtmO4Am1BZbV2Sye"
+    },
+    {
+      "album": {
         "name": "Carta Branca",
         "url": "https://open.spotify.com/album/0Zu9p2cVWWhqbGspECnalU"
       },
@@ -2144,7 +2166,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 132880,
       "name": "fase",
       "url": "https://open.spotify.com/track/1zV8QFCfpK50GpqrNZ1O0N"
@@ -2561,6 +2583,28 @@
     },
     {
       "album": {
+        "name": "Hoje N\u00e3o \u00c9 Mais",
+        "url": "https://open.spotify.com/album/6igSsDxsyQnJe6TWRE9bqn"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246904,
+      "name": "Hoje N\u00e3o \u00c9 Mais",
+      "url": "https://open.spotify.com/track/0VZu05zitf2MV4mcAiL5o6"
+    },
+    {
+      "album": {
         "name": "Hoje Vou A\u00ed Te Ver",
         "url": "https://open.spotify.com/album/7uplrZth3LsGzYYVoo1FCq"
       },
@@ -2940,6 +2984,24 @@
       "duration_ms": 204137,
       "name": "Maria do Olho Verde",
       "url": "https://open.spotify.com/track/6c5AQO3llPWxeAK4b3cAut"
+    },
+    {
+      "album": {
+        "name": "Mary Madalena",
+        "url": "https://open.spotify.com/album/08TqIiclYI5jy7Dbu1bECt"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261670,
+      "name": "Mary Madalena",
+      "url": "https://open.spotify.com/track/2fRo1ftUovGHSqDSVi9YcA"
     },
     {
       "album": {
@@ -4980,7 +5042,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 186297,
       "name": "Pra Praia",
       "url": "https://open.spotify.com/track/53XACfLYaZQ2KccxSLx5kN"
@@ -6450,7 +6512,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 191111,
       "name": "V\u00edrus Love",
       "url": "https://open.spotify.com/track/3GqfiXU4HTfSJ3TL30QrNs"

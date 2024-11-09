@@ -2,7 +2,7 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Denny Caknan
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Mala Agatha
 
 411 songs - 1 day 10 hr 13 min
 
@@ -18,7 +18,7 @@
 | [Akhire Bali](https://open.spotify.com/track/1npk1egEshawzhe82opVMf) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [Akhire Bali](https://open.spotify.com/album/4V61bFywMcCXHqy31ljAzr) | 4:49 | 2024-05-16 |  |
 | [Akhire Lungo](https://open.spotify.com/track/2LbtLp004yRHORSdL1uTwF) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Akhire Lungo](https://open.spotify.com/album/7wMhXRZvERrbp1MBpzcjK4) | 5:13 | 2022-05-26 | 2023-08-11 |
 | [Aku Bukan Jodohnya](https://open.spotify.com/track/6rKydpFW3QTBu172RRFkKS) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Aku Bukan Jodohnya](https://open.spotify.com/album/0Qsx7ZYhN4O64h8rSO1H94) | 5:38 | 2022-05-26 | 2023-08-11 |
-| [Aku Cah Kerjo](https://open.spotify.com/track/5ai8gNOjnpz4RNCHoqRt9U) | [Vita Alvia](https://open.spotify.com/artist/5zkv5DNu55fRGWGd7HGQka) | [Aku Cah Kerjo](https://open.spotify.com/album/7A3k2QXTZ1508elgdkOY53) | 5:47 | 2024-02-16 |  |
+| [Aku Cah Kerjo](https://open.spotify.com/track/5ai8gNOjnpz4RNCHoqRt9U) | [Vita Alvia](https://open.spotify.com/artist/5zkv5DNu55fRGWGd7HGQka) | [Aku Cah Kerjo](https://open.spotify.com/album/7A3k2QXTZ1508elgdkOY53) | 5:47 | 2024-02-16 | 2024-11-09 |
 | [Aku Ra Mundur \(Tepung Kanji\)](https://open.spotify.com/track/2qFc0jWjD602lVz63XfGrm) | [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Aku Ra Mundur \(Tepung Kanji\)](https://open.spotify.com/album/7E4eC0hWBPdYe6017bLNdC) | 4:29 | 2022-05-26 | 2022-11-14 |
 | [Aku Wong Lanang](https://open.spotify.com/track/6375kKoeQhZQmIVVcagW2M) | [Lamunan](https://open.spotify.com/artist/4V21B91KK3Mx2IrDbbDZMf) | [Aku Wong Lanang](https://open.spotify.com/album/6MEYg39MsNs1QAMrVfKV8g) | 3:33 | 2024-03-14 | 2024-08-09 |
 | [All In For You](https://open.spotify.com/track/45fA54TCF3IZfxuJ2mZkbY) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [All In For You](https://open.spotify.com/album/6icTLvbEIwpUAE4if2aOM4) | 6:05 | 2024-08-09 |  |
@@ -104,7 +104,7 @@
 | [Ginio](https://open.spotify.com/track/4EQ14BW8rUd94OZR5ISWMo) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Ginio](https://open.spotify.com/album/5Za62voFdJjkyIe3AtUYhl) | 5:55 | 2023-06-09 | 2023-10-13 |
 | [Golek Upo Tekan Chino](https://open.spotify.com/track/35db0V5J0lg4WJxn61PGpx) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Golek Upo Tekan Chino](https://open.spotify.com/album/2XSeWKbDYZibDhqqyr4xyH) | 3:04 | 2024-10-11 |  |
 | [Gusti Tulung](https://open.spotify.com/track/0qFSr9ujrmarFe1XyXGQiV) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb) | [Gusti Tulung](https://open.spotify.com/album/0fV71kmSAoMBirovaccELT) | 4:48 | 2023-11-09 | 2024-04-05 |
-| [Gusti, Matur Nuwun \- From "Sekawan Limo"](https://open.spotify.com/track/5XzyLKl7lwmuBXNJLJMyB0) | [Bayu Skak](https://open.spotify.com/artist/0jq1309CGlj9Do3jtNOTCq) | [Gusti, Matur Nuwun \(From "Sekawan Limo"\)](https://open.spotify.com/album/5yvvb7IJERbQsVrbX4tp4L) | 3:18 | 2024-07-02 |  |
+| [Gusti, Matur Nuwun \- From "Sekawan Limo"](https://open.spotify.com/track/5XzyLKl7lwmuBXNJLJMyB0) | [Bayu Skak](https://open.spotify.com/artist/0jq1309CGlj9Do3jtNOTCq) | [Gusti, Matur Nuwun \(From "Sekawan Limo"\)](https://open.spotify.com/album/5yvvb7IJERbQsVrbX4tp4L) | 3:18 | 2024-07-02 | 2024-11-09 |
 | [HTS](https://open.spotify.com/track/6qDtRm3pWLFKFW02FoDHVt) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [HTS](https://open.spotify.com/album/3cIn9ze7231HGFB6AD72cU) | 4:15 | 2024-06-13 |  |
 | [HTS \- Accoustic Version](https://open.spotify.com/track/5bKaP8jqatMSdho2W0H7M2) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [HTS \(Accoustic Version\)](https://open.spotify.com/album/7qXDs9zjNnuWRAc3WVHiAm) | 3:44 | 2024-08-29 |  |
 | [Hurung Tekan Sayang](https://open.spotify.com/track/3VfCXmd02ADAH97q2OatUh) | [Northsle](https://open.spotify.com/artist/5keTs7V0jh7RqCfl1RqXJi), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Hurung Tekan Sayang](https://open.spotify.com/album/2kH1eyF8bqz8q0nHnplWov) | 6:36 | 2024-11-07 |  |

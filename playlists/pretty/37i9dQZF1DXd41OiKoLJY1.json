@@ -1,6 +1,6 @@
 {
   "description": "Fresh releases from your future favorite artists. Cover: Leah Halili Artwork: Isu Kim\n",
-  "num_followers": 62370,
+  "num_followers": 62389,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,26 @@
       "duration_ms": 249428,
       "name": "Akin Ka Na Lang",
       "url": "https://open.spotify.com/track/0pJHTDIJDyR1F3kFHTTdM7"
+    },
+    {
+      "added_at": "2024-11-07 16:00:00",
+      "album": {
+        "name": "WYA?",
+        "url": "https://open.spotify.com/album/3H9YWzWCf6T93CZpCDGRHH"
+      },
+      "artists": [
+        {
+          "name": "Alpha Phia",
+          "url": "https://open.spotify.com/artist/3bkrGwgkizjF6f5XnBY5PX"
+        },
+        {
+          "name": "FRNC$",
+          "url": "https://open.spotify.com/artist/3HV8wp2Ojvxp2hkUm0bZ1K"
+        }
+      ],
+      "duration_ms": 206276,
+      "name": "WYA?",
+      "url": "https://open.spotify.com/track/5GPkMFq3aiNSCm3iRXCg52"
     },
     {
       "added_at": "2024-10-31 16:00:00",

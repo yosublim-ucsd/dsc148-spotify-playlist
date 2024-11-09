@@ -1951,6 +1951,32 @@
     },
     {
       "album": {
+        "name": "Fast Lane",
+        "url": "https://open.spotify.com/album/0rx9einNKykZUWhkFd5tOi"
+      },
+      "artists": [
+        {
+          "name": "Jolly B",
+          "url": "https://open.spotify.com/artist/2OgOlMcLNRmEAjnBJE9NFG"
+        },
+        {
+          "name": "Mochen",
+          "url": "https://open.spotify.com/artist/7DkwT8IpIAjcquKnCwyFRg"
+        },
+        {
+          "name": "CTT Beats",
+          "url": "https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191399,
+      "name": "Fast Lane",
+      "url": "https://open.spotify.com/track/4FqnxUO1rxOrIDnpYqllls"
+    },
+    {
+      "album": {
         "name": "Favorite Song (with Khalid) [Remix]",
         "url": "https://open.spotify.com/album/6aq5eEl7b51s5OUYV8ve6b"
       },

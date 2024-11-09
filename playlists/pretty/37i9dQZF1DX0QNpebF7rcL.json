@@ -1,13 +1,33 @@
 {
   "description": "The best in blues right now. Cover: Fantastic Negrito",
-  "num_followers": 59252,
+  "num_followers": 59289,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxHdQAAAAADBfer2LcLrIP4PyuDCrEJz",
+  "snapshot_id": "Zy2a0AAAAAB5EWFjL1oxjeyP7Vx0awMW",
   "tracks": [
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Who Are These Men",
+        "url": "https://open.spotify.com/album/6r1maWifeE8Qa88Ibsqr6l"
+      },
+      "artists": [
+        {
+          "name": "ROZZZQWEEN",
+          "url": "https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5"
+        },
+        {
+          "name": "FunkBuddy Official",
+          "url": "https://open.spotify.com/artist/14pptHoet53ND2ZtGRQBcW"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Who Are These Men",
+      "url": "https://open.spotify.com/track/52l5jET3AK3xJnFKYiQVvr"
+    },
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
@@ -23,6 +43,22 @@
       "duration_ms": 298029,
       "name": "Son of a Broken Man",
       "url": "https://open.spotify.com/track/6sTKa8DhJcS7X53hBi3lrN"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "The Invisible Man",
+        "url": "https://open.spotify.com/album/75jZ7YB5g4bwiA5XAFSMX0"
+      },
+      "artists": [
+        {
+          "name": "Davy Knowles",
+          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
+        }
+      ],
+      "duration_ms": 189346,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/0VDUH9ExYWe5XGRmqu3VHk"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1617,22 +1653,6 @@
       "url": "https://open.spotify.com/track/4ikAAkBStMneLsxfjcoG4E"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Things Happen That Way",
-        "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Holy Water",
-      "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
-    },
-    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "The Question",
@@ -1695,22 +1715,6 @@
       "duration_ms": 251439,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/0A2nLIAI5it1fRJYGJ5Qyp"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Ace Of Spades",
-        "url": "https://open.spotify.com/album/2BcHzSdwa2qEiGPNznEqRK"
-      },
-      "artists": [
-        {
-          "name": "Angela Strehli",
-          "url": "https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35"
-        }
-      ],
-      "duration_ms": 156973,
-      "name": "Ace Of Spades",
-      "url": "https://open.spotify.com/track/2sgbiJ65zw8fUEWEiW9yAH"
     },
     {
       "added_at": "2022-07-15 04:02:00",

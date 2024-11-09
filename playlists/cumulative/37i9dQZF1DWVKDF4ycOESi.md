@@ -4,7 +4,7 @@
 
 > Elodie e Tiziano Ferro in cover + le migliori uscite di questa settimana!
 
-2,483 songs - 5 day 5 hr 42 min
+2,484 songs - 5 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -873,7 +873,7 @@
 | [Gocce di Limone](https://open.spotify.com/track/65CCHElK6emN1k1o2KpEwM) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Gocce di Limone](https://open.spotify.com/album/24gE8Qn8jzKvjvKoymmt99) | 2:37 | 2024-06-20 | 2024-06-28 |
 | [Goccia](https://open.spotify.com/track/1d3Ar2b9vFKIkr7PGZBSDM) | [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY), [DANTE](https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj), [Germo67](https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1) | [Playa Sanguedoro](https://open.spotify.com/album/64thJHuBUy3jnH7K83DCP6) | 2:41 | 2024-06-27 | 2024-07-05 |
 | [God Is A Freak](https://open.spotify.com/track/68QWbifDstt1ocJJeA9XhE) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [God Is A Freak](https://open.spotify.com/album/4BL2UjkLwhp5orBh3VNUe6) | 2:52 | 2024-06-06 | 2024-06-14 |
-| [GODDAMN \(feat\. Nitro\)](https://open.spotify.com/track/4TMo5mUYtvBJ3bhhAan5As) | [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [GRIS GRIS](https://open.spotify.com/album/5vjzxGIdEWAmaKLmmmnUBi) | 2:30 | 2024-11-07 |  |
+| [GODDAMN \(feat\. Nitro\)](https://open.spotify.com/track/4TMo5mUYtvBJ3bhhAan5As) | [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [GRIS GRIS](https://open.spotify.com/album/5vjzxGIdEWAmaKLmmmnUBi) | 2:29 | 2024-11-07 |  |
 | [GODMOTHER \(feat\. Eden Ben Zaken\)](https://open.spotify.com/track/72yhMb8kkkzWxM4UEPywPC) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [GODMOTHER \(feat\. Eden Ben Zaken\)](https://open.spotify.com/album/2epktylpW82pRgLMu0FSHo) | 3:11 | 2024-08-22 | 2024-08-30 |
 | [GODSPEED](https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO \- Magic City Edition](https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm) | 3:36 | 2024-09-05 | 2024-09-13 |
 | [Godspeed \(feat\. DJ E\-Clyps\)](https://open.spotify.com/track/6PADTtmPxErC0MsgZx3Udr) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [DJ E\-Clyps](https://open.spotify.com/artist/4mnSMKXeNuynsdozoCUpcZ) | [Godspeed \(feat\. DJ E\-Clyps\)](https://open.spotify.com/album/2XB5khO6YxUe1LCElGy4NK) | 5:24 | 2024-08-01 | 2024-08-09 |
@@ -1486,6 +1486,7 @@
 | [NGMI](https://open.spotify.com/track/6B22FScIDhTgbwZ4iOasQQ) | [FUCKYOURCLIQUE](https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ) | [NGMI](https://open.spotify.com/album/02JumOFfyMhhR7yeBec2Ek) | 2:10 | 2024-07-25 | 2024-08-02 |
 | [NICE TO MEET YA \(feat\. Flyana Boss\)](https://open.spotify.com/track/0Tv1YRY8Lm8OFcn6dJCF0e) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [NICE TO MEET YA \(feat\. Flyana Boss\)](https://open.spotify.com/album/7xWp3QwYJ2myisipllWCVa) | 3:03 | 2024-07-11 | 2024-07-19 |
 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-05-23 | 2024-06-01 |
+| [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-08 |  |
 | [Niente come te](https://open.spotify.com/track/1UF0avM3gYfFttKAexuKVH) | [MARTINA](https://open.spotify.com/artist/4HdGvAHeQqqez8NI7PmrWx) | [Niente come te](https://open.spotify.com/album/6LmlhLhKeWpDgzzQ6IO2F7) | 2:53 | 2024-05-02 | 2024-05-10 |
 | [Niente di buono](https://open.spotify.com/track/7FiSMFy9h9cik2wK0zqFhK) | [Peripezie](https://open.spotify.com/artist/5d5CRw67pU1hNJDnbPwGHt) | [Niente di buono](https://open.spotify.com/album/0IP7oGpoFblfoOlF4nawjO) | 2:24 | 2024-07-11 | 2024-07-19 |
 | [NIENTE DI MALE](https://open.spotify.com/track/7CZZxHf4DZxiTnrVxeMqOt) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [NIENTE DI MALE](https://open.spotify.com/album/4uZZ29NchGBafGvRaRYVEI) | 3:37 | 2024-10-17 | 2024-10-25 |

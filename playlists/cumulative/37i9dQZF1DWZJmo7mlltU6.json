@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "2DK",
+        "url": "https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196343,
+      "name": "2DK",
+      "url": "https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT"
+    },
+    {
+      "album": {
         "name": "2Gether All Day All Night",
         "url": "https://open.spotify.com/album/4CymHQQtBCVhSctGOiz2qV"
       },
@@ -1270,6 +1288,24 @@
       "duration_ms": 180994,
       "name": "Average Guy (Blame)",
       "url": "https://open.spotify.com/track/1ZJaZDD8D9SqmBNAXehB6H"
+    },
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/2GWUAh0pqsE3N7EwMMDEj2"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257594,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/6L3rzNHhoBAt2yERmplzuU"
     },
     {
       "album": {
@@ -3930,7 +3966,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 232277,
       "name": "Doesn\u2019t Do Me Any Good",
       "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
@@ -4492,6 +4528,32 @@
       "duration_ms": 183678,
       "name": "elle danse toute seule dans sa chambre - Bonus Track",
       "url": "https://open.spotify.com/track/6OCD1mu5f0pipC3NW2jPdE"
+    },
+    {
+      "album": {
+        "name": "Elodie",
+        "url": "https://open.spotify.com/album/21WoJM7qjLMZ4qucvvS3Zb"
+      },
+      "artists": [
+        {
+          "name": "Los Eclipses",
+          "url": "https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "Dan Solo",
+          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224541,
+      "name": "Elodie",
+      "url": "https://open.spotify.com/track/3s30uI7JFk8Mf98zJIoUDm"
     },
     {
       "album": {
@@ -5659,6 +5721,28 @@
     },
     {
       "album": {
+        "name": "forever on my mind",
+        "url": "https://open.spotify.com/album/3PTXIacmqhTYHyO4txzx7p"
+      },
+      "artists": [
+        {
+          "name": "bob junior",
+          "url": "https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne"
+        },
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173812,
+      "name": "forever on my mind",
+      "url": "https://open.spotify.com/track/7Mgl85DExMmXZQK63YoyBJ"
+    },
+    {
+      "album": {
         "name": "BIG WORLD",
         "url": "https://open.spotify.com/album/1n0hYqLgR7wHK8AKi3SaCx"
       },
@@ -6355,6 +6439,24 @@
     },
     {
       "album": {
+        "name": "green light",
+        "url": "https://open.spotify.com/album/6B4obGwSQ7cPstogpuNs2M"
+      },
+      "artists": [
+        {
+          "name": "Ivytide",
+          "url": "https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182148,
+      "name": "green light",
+      "url": "https://open.spotify.com/track/0ctnLcTOOK4yDNxAq48pZQ"
+    },
+    {
+      "album": {
         "name": "Groovy Wonderland",
         "url": "https://open.spotify.com/album/3uGX3xm6PaponuKLdHYNFJ"
       },
@@ -6946,6 +7048,24 @@
       "duration_ms": 168907,
       "name": "I Cavalli",
       "url": "https://open.spotify.com/track/49HjkcNLjLMk4eGbW3k9ib"
+    },
+    {
+      "album": {
+        "name": "I Don\u2019t Want To!",
+        "url": "https://open.spotify.com/album/5WsRz6HtJrqC5g2IPxomv1"
+      },
+      "artists": [
+        {
+          "name": "Min Taka",
+          "url": "https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179565,
+      "name": "I Don\u2019t Want To!",
+      "url": "https://open.spotify.com/track/2XFcfeNnmjYxbKT0lT0cyh"
     },
     {
       "album": {
@@ -7656,7 +7776,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 259539,
       "name": "Just A Game feat. Benny Sings",
       "url": "https://open.spotify.com/track/3Hjrizdjm4Knd5KiVgKW1l"
@@ -7762,6 +7882,24 @@
       "duration_ms": 197466,
       "name": "Karaoke",
       "url": "https://open.spotify.com/track/3RJ8bIJrnekapqvS3JxDkq"
+    },
+    {
+      "album": {
+        "name": "Keep Me Coming Back",
+        "url": "https://open.spotify.com/album/5Zh3oJVYc3WVi02Cj23KvR"
+      },
+      "artists": [
+        {
+          "name": "Leon of Athens",
+          "url": "https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148677,
+      "name": "Keep Me Coming Back",
+      "url": "https://open.spotify.com/track/5oRkaRe10zy58ealrU8rlE"
     },
     {
       "album": {
@@ -8943,6 +9081,28 @@
     },
     {
       "album": {
+        "name": "Love Me Not (feat. Rex Orange County)",
+        "url": "https://open.spotify.com/album/66SYFOZM5lxnGsBot10yqI"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188198,
+      "name": "Love Me Not (feat. Rex Orange County)",
+      "url": "https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq"
+    },
+    {
+      "album": {
         "name": "what\u2019s the name of this EP",
         "url": "https://open.spotify.com/album/3IkpFYAIck2VrAdkRfa9nx"
       },
@@ -9664,6 +9824,24 @@
       "duration_ms": 288624,
       "name": "Mi vida en llamas (feat. Buscabulla)",
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
+    },
+    {
+      "album": {
+        "name": "Midnight Talking",
+        "url": "https://open.spotify.com/album/5RlimGp7a5oKiNeVQJg0Qa"
+      },
+      "artists": [
+        {
+          "name": "Louis Island",
+          "url": "https://open.spotify.com/artist/6rJfoutBvVApGcMV0FNIft"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131774,
+      "name": "Midnight Talking",
+      "url": "https://open.spotify.com/track/0QcAIJg3Fqx4wvpedzGEla"
     },
     {
       "album": {
@@ -14231,6 +14409,24 @@
     },
     {
       "album": {
+        "name": "Stephanie",
+        "url": "https://open.spotify.com/album/1U8hUZLu8VpchpnpQzeomn"
+      },
+      "artists": [
+        {
+          "name": "Nafeesisboujee",
+          "url": "https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126981,
+      "name": "Stephanie",
+      "url": "https://open.spotify.com/track/5CnRBMfpnFB5LAJaFGu6ln"
+    },
+    {
+      "album": {
         "name": "STEPMOM",
         "url": "https://open.spotify.com/album/1qanV3YgwzGcpQxAfAaTrZ"
       },
@@ -14703,6 +14899,28 @@
     },
     {
       "album": {
+        "name": "shhh, it's under my bed",
+        "url": "https://open.spotify.com/album/58L0TIIk2t14KKVSxgjyB2"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        },
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218378,
+      "name": "Swapping Socks",
+      "url": "https://open.spotify.com/track/4gZvom1pzzbkoe6soKRYJL"
+    },
+    {
+      "album": {
         "name": "Boy Toy",
         "url": "https://open.spotify.com/album/4y309EcmaqipImcRdFlX5s"
       },
@@ -14750,7 +14968,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 223051,
       "name": "Swinging at the Stars",
       "url": "https://open.spotify.com/track/0plgpP6pbcptrfbCEHKKcA"
@@ -15353,6 +15571,24 @@
     },
     {
       "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/1HuOAu4VK1usRAUcip0WhY"
+      },
+      "artists": [
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/4XQ3KhcNJ1FYTVMb4honlK"
+    },
+    {
+      "album": {
         "name": "The pillow's calling",
         "url": "https://open.spotify.com/album/7rWuoRvCZQhxaUtGyStiAb"
       },
@@ -15739,6 +15975,24 @@
     },
     {
       "album": {
+        "name": "tommy n ben",
+        "url": "https://open.spotify.com/album/2TWeUZZZ3DIMC8mzIOkA8U"
+      },
+      "artists": [
+        {
+          "name": "mou",
+          "url": "https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148515,
+      "name": "tommy n ben",
+      "url": "https://open.spotify.com/track/3usZUzvx6BYI6u5m1qskqn"
+    },
+    {
+      "album": {
         "name": "is it me, or is it you?",
         "url": "https://open.spotify.com/album/4ZSt8gHnOnfHZz4UMsgMH5"
       },
@@ -15852,7 +16106,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 203333,
       "name": "Tragic Love",
       "url": "https://open.spotify.com/track/1UBwp5S204qFsVS0enwAEo"
@@ -16375,6 +16629,24 @@
     },
     {
       "album": {
+        "name": "Rock Machine",
+        "url": "https://open.spotify.com/album/0DmfmHvNTUhaCXKY3JlceI"
+      },
+      "artists": [
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182760,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/0XVfjgNXQN5TFZM5tODTSk"
+    },
+    {
+      "album": {
         "name": "Fish Bowl",
         "url": "https://open.spotify.com/album/277iuWreJUuseNVEXN5NrA"
       },
@@ -16488,6 +16760,24 @@
       "duration_ms": 190684,
       "name": "Virgin Denim",
       "url": "https://open.spotify.com/track/69g0enFvUbtdKi5e84frgc"
+    },
+    {
+      "album": {
+        "name": "The Pendulum",
+        "url": "https://open.spotify.com/album/5fwCfAtOwiSs4EOAr4mzam"
+      },
+      "artists": [
+        {
+          "name": "Jinan Laetitia",
+          "url": "https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251333,
+      "name": "Visions (from under the rubble)",
+      "url": "https://open.spotify.com/track/1VQbvX2gQXcElkgAMrIgUE"
     },
     {
       "album": {
@@ -17284,6 +17574,24 @@
       "duration_ms": 212750,
       "name": "YKWIM?",
       "url": "https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB"
+    },
+    {
+      "album": {
+        "name": "donde van los perros",
+        "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124365,
+      "name": "yo as\u00ed",
+      "url": "https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG"
     },
     {
       "album": {

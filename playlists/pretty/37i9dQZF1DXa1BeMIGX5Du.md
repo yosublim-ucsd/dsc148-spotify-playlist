@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,269 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,400 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 59 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 |
 | 60 | [Mudroom](https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Mudroom](https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc) | 3:59 |
 | 61 | [Technicolo\(u\)r](https://open.spotify.com/track/2mmckboySxLxoCXQ2zA8tu) | [Chris Lanzon](https://open.spotify.com/artist/42fTI1VyX5axJX1ZlPi7dS) | [Technicolo\(u\)r](https://open.spotify.com/album/6LUFBuayZYRrvm8lwrUAhn) | 3:33 |
-| 62 | [Mine](https://open.spotify.com/track/2RghWVQyQe1jIehgQnD1nD) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Mine](https://open.spotify.com/album/6YnO3WHIIFG4y6SgFqf9CW) | 3:08 |
+| 62 | [Mine](https://open.spotify.com/track/2RghWVQyQe1jIehgQnD1nD) | [Orla Gartland](https://open.spotify.com/artist/0MosRqpk3OZXYV91A1vSEn) | [Mine](https://open.spotify.com/album/6YnO3WHIIFG4y6SgFqf9CW) | 3:08 |
 | 63 | [Outlaw](https://open.spotify.com/track/2udLBb0lhqk0896glynEib) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Outlaw](https://open.spotify.com/album/64vCs9clQBe4ogjQJsrBfq) | 2:22 |
 | 64 | [All These Kinds of Light](https://open.spotify.com/track/2SBsgy6qhRIAmmgwE9DlvL) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [All These Kinds of Light](https://open.spotify.com/album/7ruh7XUbK7vCFMypsykOv5) | 3:20 |
 | 65 | [Don't Run Away From Hurt](https://open.spotify.com/track/4a2lOWOBuXHGsCk34fmZnO) | [Maanyung](https://open.spotify.com/artist/6Dg8fZV2GE2z6caTDzTH5i) | [Don't Run Away From Hurt](https://open.spotify.com/album/5APKvXRcs5YvdLY2AKlSjh) | 3:44 |

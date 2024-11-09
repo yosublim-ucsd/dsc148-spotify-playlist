@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Martino
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,789 likes - 58 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,797 likes - 58 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 14 | [Self Care](https://open.spotify.com/track/2bbhOJTCVkmYh010FsUqQV) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Self Care](https://open.spotify.com/album/4S5XKP7TGVOPAgWjkZDyT1) | 3:56 |
 | 15 | [Shine](https://open.spotify.com/track/7AREqM5cjewY0rO4DyJ4JC) | [Alice Popolo](https://open.spotify.com/artist/0l58OresOxHWt0SK423Upm), [Gransta MSV](https://open.spotify.com/artist/47TJtqEyW7NkvzWaoNWixW) | [Shine](https://open.spotify.com/album/3tpPd7rCJRUSpBWLX2OwBJ) | 3:47 |
 | 16 | [Lost in Translation](https://open.spotify.com/track/7ovAOdTCsmQQ6m2vR4iLGW) | [Feliciana](https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY) | [Mirrored Reflections](https://open.spotify.com/album/7BlXMMC3hQNp5LjwmENOJl) | 3:01 |
-| 17 | [NON SEI SOLA](https://open.spotify.com/track/470koiwdbXdlYlQeiGwlwY) | [Kay](https://open.spotify.com/artist/3Z9p6RyeV3BQbBEtKSvcnk) | [NON SEI SOLA](https://open.spotify.com/album/2W2lFQ7KniQczWaCR15g5k) | 2:35 |
+| 17 | [NON SEI SOLA](https://open.spotify.com/track/470koiwdbXdlYlQeiGwlwY) | [Kay](https://open.spotify.com/artist/6XLj9BXn0pnWlFMVGk1utU) | [NON SEI SOLA](https://open.spotify.com/album/2W2lFQ7KniQczWaCR15g5k) | 2:35 |
 | 18 | [Dazzled Prince](https://open.spotify.com/track/27T3eU2RWpAWu0SdR8jbTz) | [Puka Shell's Bling](https://open.spotify.com/artist/1asNZP2giwLI7reZVQUCSu), [Caio's Hub](https://open.spotify.com/artist/1uEw0nvBRqjakUzj77qH0n) | [Dazzled Prince](https://open.spotify.com/album/7IUOY2xHSaUQj51XbtO4UK) | 4:41 |
 | 19 | [LA GUERRA ✣ \(con Frah Quintale, Venerus\)](https://open.spotify.com/track/2pz8gp5acxEbNxhHJtNvKj) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 3:43 |
 | 20 | [1 secondo](https://open.spotify.com/track/04hZAHzIMGiFfnJiXFm2d5) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J) | [1 secondo](https://open.spotify.com/album/7MTeZ7wPxGZF0zkcfNcL9p) | 2:15 |

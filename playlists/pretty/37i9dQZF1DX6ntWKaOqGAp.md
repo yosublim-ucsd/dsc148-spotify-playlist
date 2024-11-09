@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: go!go!vanillas
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,643 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,682 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 59 | [yesterday](https://open.spotify.com/track/09meCm8RAglUydfbQ5of8w) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [yesterday](https://open.spotify.com/album/5enVYavufYQAqMgsnGWi22) | 3:46 |
 | 60 | [狂詩曲](https://open.spotify.com/track/305CVeZiltZSwVH9EJhwif) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [狂詩曲](https://open.spotify.com/album/26NaRLMvQdxjGhJbFQr2Is) | 4:14 |
 | 61 | [おとずれ](https://open.spotify.com/track/6Fp4d4Rey4Pon8r4UxOKJ5) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [おとずれ](https://open.spotify.com/album/64aKmnM6KUPMr3pgyYQFF5) | 3:48 |
-| 62 | [All We Have feat\. Masato\(cordrain\)](https://open.spotify.com/track/2Ie1vfWEVt63G0FIGETwe0) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb), [Masato\(coldrain\)](https://open.spotify.com/artist/4f9hD6gIbmsHoQw9MFMnP8) | [All We Have feat\. Masato\(cordrain\)](https://open.spotify.com/album/04qhwj8qQxCjnqUtDpgXM8) | 4:16 |
+| 62 | [All We Have feat\. Masato\(coldrain\)](https://open.spotify.com/track/2Ie1vfWEVt63G0FIGETwe0) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb), [Masato\(coldrain\)](https://open.spotify.com/artist/4f9hD6gIbmsHoQw9MFMnP8) | [All We Have feat\. Masato\(coldrain\)](https://open.spotify.com/album/04qhwj8qQxCjnqUtDpgXM8) | 4:16 |
 | 63 | [イルミネーション](https://open.spotify.com/track/70YEIxamMR2PW4dnNqkAxu) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [イルミネーション](https://open.spotify.com/album/5isizPshI9vy57kGIrutp2) | 3:36 |
 | 64 | [Coming\-of\-age Story](https://open.spotify.com/track/5BiR7CY2Bj4s5CmV7HZdKi) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような1週間](https://open.spotify.com/album/0LnARpfUs0NQ94beJ9jAC9) | 3:34 |
 | 65 | [水中少女](https://open.spotify.com/track/1D2Ctp1FFhdStWjWWLQv50) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [Aooo](https://open.spotify.com/album/1MTuizxx88hzJpIL3me9T5) | 3:30 |

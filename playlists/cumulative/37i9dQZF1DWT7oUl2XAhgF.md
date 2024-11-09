@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Thee Sacred Souls
 
-474 songs - 1 day 4 hr 36 min
+475 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [I Can Never Get Enough](https://open.spotify.com/track/33cuVbRvIALN64Dat6U5eV) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [I Can Never Get Enough](https://open.spotify.com/album/07VSGcPb90GbQu67lIr3Kk) | 3:04 | 2024-04-12 |  |
 | [I Do](https://open.spotify.com/track/2ROGRLF59VgUst8a6f6oez) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:00 | 2022-01-28 | 2022-07-29 |
 | [i found a diamond](https://open.spotify.com/track/3oRbkpNDMAIfwaLgWg6yco) | [Alex Cherney](https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd), [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [i found a diamond](https://open.spotify.com/album/2DtOE3ffS4sZakYgD3VMIm) | 4:08 | 2023-06-30 | 2023-07-29 |
+| [I Got You](https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [I Got You](https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX) | 3:12 | 2024-11-08 |  |
 | [I Like the Way You Love Me](https://open.spotify.com/track/1ENu4Hu1Rf45NxIde0X1rr) | [Cota](https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM) | [I Like the Way You Love Me](https://open.spotify.com/album/4xVKAnImpAKsUJ1Z2WGkDR) | 2:26 | 2023-03-17 | 2023-06-24 |
 | [I Miss You \- Radio Edit](https://open.spotify.com/track/3qyZk0hMioN5kEMCPDPxzo) | [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx), [The Black Belts](https://open.spotify.com/artist/0E2ByLJA2G0NMjQg0Dn8ct) | [Free Me](https://open.spotify.com/album/5I6bqE1FN7H0ecfdpz8lTY) | 3:19 | 2023-10-20 |  |
 | [I Miss You Baby, Pt\. 1](https://open.spotify.com/track/3Jf2y674Wnhjz2RwPRsp84) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [I Miss You Baby, Pt\. 1](https://open.spotify.com/album/46INZCbg8BTR4f66KzhzHF) | 4:04 | 2022-08-26 | 2022-09-24 |
@@ -343,7 +344,7 @@
 | [Save Me](https://open.spotify.com/track/302hBUpoWoYQyBgujHfuTy) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Hello, I'm Britti.](https://open.spotify.com/album/09WQABIo1U9D8H8SO7WK0a) | 3:21 | 2024-02-02 |  |
 | [Save Your Tears For Someone New](https://open.spotify.com/track/5akqZJ3JnHRk5aLnfJBbqt) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Sentimental Fool](https://open.spotify.com/album/4YZsaY91O8d2BIVLPgfdUi) | 2:51 | 2022-10-28 | 2022-11-12 |
 | [Save Your Tears For Someone New](https://open.spotify.com/track/6NZZW5KsaurTurkESdixSq) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Sentimental Fool](https://open.spotify.com/album/5pmMftX2kDOQPbzop5G7ie) | 2:51 | 2022-10-28 | 2022-11-03 |
-| [Say My Name](https://open.spotify.com/track/5r92CCNN1VZp9fDlTWdDS6) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Say My Name](https://open.spotify.com/album/1Dvj1PeulldxrKfaET94Tg) | 4:00 | 2024-10-25 |  |
+| [Say My Name](https://open.spotify.com/track/5r92CCNN1VZp9fDlTWdDS6) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Say My Name](https://open.spotify.com/album/1Dvj1PeulldxrKfaET94Tg) | 4:00 | 2024-10-25 | 2024-11-09 |
 | [Say You Love Me](https://open.spotify.com/track/0WLkriErnHl4N4AnPiMn0h) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [Say You Love Me](https://open.spotify.com/album/5NdNmpf1iRQU5NgAitpoqW) | 4:45 | 2024-02-14 |  |
 | [Seasons of Trouble](https://open.spotify.com/track/2J4arL11h4pQBCi4HvzcNY) | [Stereo League](https://open.spotify.com/artist/3iQV9SSzqnUEwlyqUTJLj6) | [Operator, Please / Seasons of Trouble](https://open.spotify.com/album/78iOU4PyWExwlwiTrvzyJF) | 4:52 | 2022-09-09 | 2024-04-19 |
 | [Seasons of Trouble](https://open.spotify.com/track/3zQ2VVEV6UQ9vCAaCQJDVY) | [Stereo League](https://open.spotify.com/artist/3iQV9SSzqnUEwlyqUTJLj6) | [Seasons of Trouble](https://open.spotify.com/album/3Aveciplay1UjQenjdI1HF) | 4:52 | 2022-09-09 | 2024-07-27 |

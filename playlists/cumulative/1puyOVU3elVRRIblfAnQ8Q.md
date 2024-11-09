@@ -4,7 +4,7 @@
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-198 songs - 11 hr 28 min
+199 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Deathwish](https://open.spotify.com/track/2Z85COMAN65p26N55yd32P) | [Tsuruda](https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu) | [Deathwish](https://open.spotify.com/album/288QGoQc8PJsoexl5pFm2T) | 3:06 | 2023-03-07 | 2023-11-09 |
 | [Deep Inside](https://open.spotify.com/track/080ykYdAZJaUaEeu1hnVtF) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Lily Of The Valley](https://open.spotify.com/album/22MhIeIM0sCQ7bJllDMnSZ) | 4:05 | 2024-04-30 | 2024-08-24 |
 | [Defeatist](https://open.spotify.com/track/2faP8OzfXMSE8Fz8DZV0dO) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Defeatist](https://open.spotify.com/album/0hEECMrMTGb1nI8G8i6qeS) | 3:34 | 2024-11-05 |  |
+| [Digital Night Drive](https://open.spotify.com/track/4NTkICndpBrjwZLwNofVBQ) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ), [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf) | [Digital Night Drive](https://open.spotify.com/album/0jvggA0QufnaIbh4S0as91) | 4:28 | 2024-11-08 |  |
 | [Digital Realm](https://open.spotify.com/track/2NxqIXMSwvAPEaZOY3OyRX) | [Skellytn](https://open.spotify.com/artist/2UFoFFh9ayxK6EvW4tZcH3) | [We Are Deadbeats Vol\. 6](https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh) | 3:29 | 2024-08-23 | 2024-09-27 |
 | [Dimension](https://open.spotify.com/track/0LKqkTfXvTB1ZVs1yJexm2) | [SIREN](https://open.spotify.com/artist/5GCrxFLckjsBYwr3FTQWir), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Dimension](https://open.spotify.com/album/0E2uVMZUjikte4Ggzrgrfl) | 3:37 | 2024-11-05 |  |
 | [DIMENSIONS](https://open.spotify.com/track/4msDV8woKgp0ZeF16NcEdU) | [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [DIMENSIONS](https://open.spotify.com/album/6oWwk2twiHE14qLrxOSmyS) | 2:35 | 2024-05-31 |  |

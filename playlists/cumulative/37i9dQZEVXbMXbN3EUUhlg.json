@@ -822,7 +822,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 216710,
       "name": "A Morte do Autotune",
       "url": "https://open.spotify.com/track/4MF0VMffyxHsy3GZwwUnAs"
@@ -5082,7 +5082,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 188487,
       "name": "CERTEZA - Ao Vivo",
       "url": "https://open.spotify.com/track/6Qc9EMIMMBGSJUsyKZYOoR"
@@ -6348,7 +6348,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 163089,
       "name": "De Tr\u00e1s Pra Frente - Ao Vivo",
       "url": "https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG"
@@ -11318,7 +11318,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 171335,
       "name": "Gosta De Rua - Ao Vivo",
       "url": "https://open.spotify.com/track/4VNRWHoiKHZJIoQHPbmJIv"
@@ -11814,6 +11814,28 @@
       "duration_ms": 209032,
       "name": "Hino dos Mlks",
       "url": "https://open.spotify.com/track/3gx9a8ea1nI0Wym9hJpdbJ"
+    },
+    {
+      "album": {
+        "name": "Hoje o Dia T\u00e1 Bonito",
+        "url": "https://open.spotify.com/album/4yhFvEgprV0ERYI7KYBDL8"
+      },
+      "artists": [
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "GringoBeats808",
+          "url": "https://open.spotify.com/artist/5H2zqAv4kVidX9S98sanYa"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109571,
+      "name": "Hoje o Dia T\u00e1 Bonito",
+      "url": "https://open.spotify.com/track/2MHQdlPaIcD49dJXHd6MYI"
     },
     {
       "album": {
@@ -18635,6 +18657,28 @@
     },
     {
       "album": {
+        "name": "Isso \u00e9 CountryBeat",
+        "url": "https://open.spotify.com/album/0qv0bMGZ3iY4K6I4qaoRev"
+      },
+      "artists": [
+        {
+          "name": "CountryBeat",
+          "url": "https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119754,
+      "name": "Pampa",
+      "url": "https://open.spotify.com/track/0prrifDVNELg91qIr1K4p2"
+    },
+    {
+      "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC"
       },
@@ -22204,7 +22248,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 172091,
       "name": "SE ARREPENDIMENTO MATASSE - Ao Vivo",
       "url": "https://open.spotify.com/track/5pmQRsVD9qPoF4VXoITPUC"
@@ -24626,6 +24670,24 @@
       "duration_ms": 235636,
       "name": "TEXAS HOLD 'EM",
       "url": "https://open.spotify.com/track/7AYmToZ5y67fBjq4RLFbuq"
+    },
+    {
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206693,
+      "name": "That's What I Like",
+      "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
     },
     {
       "album": {

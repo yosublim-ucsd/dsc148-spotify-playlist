@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas",
-  "num_followers": 86826,
+  "num_followers": 86835,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/5klM9vIOYtJdi3N8GUTprP"
-      },
-      "artists": [
-        {
-          "name": "Los Maricas",
-          "url": "https://open.spotify.com/artist/0CkSeKpb3BlFQJJcA1kIjy"
-        }
-      ],
-      "duration_ms": 147453,
-      "name": "Ning\u00fan Lugar",
-      "url": "https://open.spotify.com/track/17GFhJg9l7Rm2qLbVuSYhr"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Rock the Casbah",
         "url": "https://open.spotify.com/album/6QdgKWKyU4Ut7MdPynViir"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 210186,
       "name": "Rock the Casbah",
       "url": "https://open.spotify.com/track/2qEd8UUUa8tgqBLKh2ojHh"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/5klM9vIOYtJdi3N8GUTprP"
+      },
+      "artists": [
+        {
+          "name": "Los Maricas",
+          "url": "https://open.spotify.com/artist/0CkSeKpb3BlFQJJcA1kIjy"
+        }
+      ],
+      "duration_ms": 147453,
+      "name": "Ning\u00fan Lugar",
+      "url": "https://open.spotify.com/track/17GFhJg9l7Rm2qLbVuSYhr"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Campesino",
-        "url": "https://open.spotify.com/album/1dr8WuOYOeGk27RgnXImXQ"
-      },
-      "artists": [
-        {
-          "name": "La Doble A",
-          "url": "https://open.spotify.com/artist/3Dhh3KGwP2XmiRdMqDLVhQ"
-        }
-      ],
-      "duration_ms": 278724,
-      "name": "Campesino",
-      "url": "https://open.spotify.com/track/16NjxeQhuY5wQ8xl3gTZXt"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Lockdownska",
         "url": "https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 219506,
       "name": "Lockdownska",
       "url": "https://open.spotify.com/track/3wa8cbyJbGoAoFqaJdzlwA"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Campesino",
+        "url": "https://open.spotify.com/album/1dr8WuOYOeGk27RgnXImXQ"
+      },
+      "artists": [
+        {
+          "name": "La Doble A",
+          "url": "https://open.spotify.com/artist/3Dhh3KGwP2XmiRdMqDLVhQ"
+        }
+      ],
+      "duration_ms": 278724,
+      "name": "Campesino",
+      "url": "https://open.spotify.com/track/16NjxeQhuY5wQ8xl3gTZXt"
     },
     {
       "added_at": "2024-09-20 08:27:00",

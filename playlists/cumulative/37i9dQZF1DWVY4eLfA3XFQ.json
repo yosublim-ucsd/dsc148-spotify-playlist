@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Tech house technicians, featuring Shermanology \ud83d\udc7d\ud83d\udc7d  50% techno, 50% house",
+  "description": "Tech house technicians, featuring Joshwa \ud83d\udc7d\ud83d\udc7d  50% techno, 50% house",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -72,7 +72,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 216874,
       "name": "10 Outta 10",
       "url": "https://open.spotify.com/track/6QKveURtqwxUSX7XUEbEXN"
@@ -378,6 +378,24 @@
       "duration_ms": 92226,
       "name": "7 Seconds (feat. Shamiya Battles) - Radio Edit",
       "url": "https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT"
+    },
+    {
+      "album": {
+        "name": "79 Echoes",
+        "url": "https://open.spotify.com/album/7iRElKEHIGKyqOLy7IwgJy"
+      },
+      "artists": [
+        {
+          "name": "SQWAD",
+          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169687,
+      "name": "79 Echoes",
+      "url": "https://open.spotify.com/track/02FOEvkWHdl2DVZxuhopTg"
     },
     {
       "album": {
@@ -3802,7 +3820,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 182812,
       "name": "Bonkers",
       "url": "https://open.spotify.com/track/3918FzQeHHgmyqKLIMEirA"
@@ -9633,6 +9651,32 @@
     },
     {
       "album": {
+        "name": "Electricity",
+        "url": "https://open.spotify.com/album/6rDypUhYCZ0BVacAfSewuZ"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+        },
+        {
+          "name": "Meca",
+          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170390,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/2xPg0pFQD7W4Ds3queL5D9"
+    },
+    {
+      "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/4Y64zpllDSyHtP6zHv38vC"
       },
@@ -11320,7 +11364,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 184290,
       "name": "Firestarter",
       "url": "https://open.spotify.com/track/40zrIbnQI3a3JRUvlKqoHT"
@@ -11662,7 +11706,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 179076,
       "name": "Freakquency",
       "url": "https://open.spotify.com/track/3Xu8Qppxx1UYyGxAmr14aG"
@@ -11720,7 +11764,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 120930,
       "name": "Freddie's Warmup",
       "url": "https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay"
@@ -14187,6 +14231,24 @@
     },
     {
       "album": {
+        "name": "Hola Venga",
+        "url": "https://open.spotify.com/album/7aq0bsElWGy4XLv0QNckLB"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235238,
+      "name": "Hola Venga",
+      "url": "https://open.spotify.com/track/2wkdtvIHPmdaaK0IeDrg3b"
+    },
+    {
+      "album": {
         "name": "Hold Em",
         "url": "https://open.spotify.com/album/4LOOBhCW754eRwBgXypVfH"
       },
@@ -15016,7 +15078,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 157784,
       "name": "I Can't Take No More",
       "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
@@ -15716,7 +15778,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 182000,
       "name": "IBIZA",
       "url": "https://open.spotify.com/track/2UWGoFGAYstslkTzLnHLXq"
@@ -16818,7 +16880,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 178900,
       "name": "Jump N Twist",
       "url": "https://open.spotify.com/track/2LMIrw0FUxVAuh1DH9pEsO"
@@ -18145,6 +18207,24 @@
     },
     {
       "album": {
+        "name": "Let The Bassline",
+        "url": "https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249478,
+      "name": "Let The Bassline",
+      "url": "https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0"
+    },
+    {
+      "album": {
         "name": "Let Us Pray",
         "url": "https://open.spotify.com/album/0KswFZGl7qQibvbPhu2Kn7"
       },
@@ -19230,7 +19310,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 184259,
       "name": "Lose My Number",
       "url": "https://open.spotify.com/track/4kWh63xFgWo4cO00TG9cYR"
@@ -22216,7 +22296,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 210000,
       "name": "My Type",
       "url": "https://open.spotify.com/track/3DqiRunPZPotBVfLYUsNfT"
@@ -24377,6 +24457,24 @@
     },
     {
       "album": {
+        "name": "Paddling Out",
+        "url": "https://open.spotify.com/album/71hwVURKmGMHxqEOdscSkc"
+      },
+      "artists": [
+        {
+          "name": "SHIFTY",
+          "url": "https://open.spotify.com/artist/4nbgTxHw3R2Lc8P6ytQIU8"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166875,
+      "name": "Paddling Out",
+      "url": "https://open.spotify.com/track/7uUxuvyPhUrb2SeqH46hQZ"
+    },
+    {
+      "album": {
         "name": "Palm Beach Banga",
         "url": "https://open.spotify.com/album/0l5AaZ4KreU86VfsiKoyCu"
       },
@@ -24392,6 +24490,32 @@
       "duration_ms": 233836,
       "name": "Palm Beach Banga",
       "url": "https://open.spotify.com/track/2Q4nScd22kJ70CqQbQqWFD"
+    },
+    {
+      "album": {
+        "name": "palm of my hands (Odd Mob Remix)",
+        "url": "https://open.spotify.com/album/4wAyp0F1m8WNDb7SsuQarq"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "palm of my hands - Odd Mob Remix",
+      "url": "https://open.spotify.com/track/2vxsdAnntt6eGZJJRaLBF6"
     },
     {
       "album": {
@@ -24582,7 +24706,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 135484,
       "name": "Papi",
       "url": "https://open.spotify.com/track/6wVCRqu1nrkt7MdBHOnWqr"
@@ -25570,7 +25694,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 170912,
       "name": "Pretending (feat. rhys from the sticks)",
       "url": "https://open.spotify.com/track/2xx4B1nvaWXFG4fawBkyAg"
@@ -26689,6 +26813,32 @@
     },
     {
       "album": {
+        "name": "Rendezvous",
+        "url": "https://open.spotify.com/album/4um4IpD92LS0Vxbsq7atq0"
+      },
+      "artists": [
+        {
+          "name": "Avilo",
+          "url": "https://open.spotify.com/artist/0vBN46VECxgdkVfeRDJc6E"
+        },
+        {
+          "name": "Housewife",
+          "url": "https://open.spotify.com/artist/2R4ZG5VkLXR87FkJGX5Jrd"
+        },
+        {
+          "name": "Tristan Henry",
+          "url": "https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181511,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/4wPI8GqahFgtikb2YQpDmB"
+    },
+    {
+      "album": {
         "name": "Repeating",
         "url": "https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM"
       },
@@ -26820,7 +26970,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 151874,
       "name": "Rhythm",
       "url": "https://open.spotify.com/track/6CJ9jRRjZiLrtQWziEiptv"
@@ -28186,7 +28336,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 164524,
       "name": "Self Love (feat. Kid Enigma)",
       "url": "https://open.spotify.com/track/1W2dU4oGGpTYctvjdFrUfh"
@@ -28504,7 +28654,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 170078,
       "name": "Shake For Me",
       "url": "https://open.spotify.com/track/5jvDIJbGwaeVZHp4toTr97"
@@ -28544,7 +28694,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 175730,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/5DqY3RLK5Vl6zvTc1vv06A"
@@ -29527,6 +29677,28 @@
     },
     {
       "album": {
+        "name": "Sleepy",
+        "url": "https://open.spotify.com/album/0FapnX0tNRjEqsOelkTq4A"
+      },
+      "artists": [
+        {
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+        },
+        {
+          "name": "Side B",
+          "url": "https://open.spotify.com/artist/3hm9D6w73Erm43Ym0gtmjR"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161953,
+      "name": "Sleepy",
+      "url": "https://open.spotify.com/track/5jdSp3QthmtzUmc0pJtlMB"
+    },
+    {
+      "album": {
         "name": "Slim Shady",
         "url": "https://open.spotify.com/album/4CveQO6BuqOXbUKJboDHaN"
       },
@@ -30030,7 +30202,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 197582,
       "name": "Somedays - Dombresky Remix",
       "url": "https://open.spotify.com/track/751KIBXXbsEoaHGvIVLRRn"
@@ -30386,7 +30558,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 135348,
       "name": "spendthenight.",
       "url": "https://open.spotify.com/track/1KDw0LtXk7O0BKGVVWOk45"
@@ -30616,7 +30788,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 136615,
       "name": "Stolen Dub",
       "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
@@ -33796,6 +33968,24 @@
       "duration_ms": 196535,
       "name": "Time to Burn - Fergie Remix",
       "url": "https://open.spotify.com/track/03FojUPgTRf5tQSc12lZis"
+    },
+    {
+      "album": {
+        "name": "Time To Go",
+        "url": "https://open.spotify.com/album/3ejTqXB3AbW6bGO8iJGmQJ"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202380,
+      "name": "Time To Go",
+      "url": "https://open.spotify.com/track/12hypREWe3wQFb6xgAbwtT"
     },
     {
       "album": {

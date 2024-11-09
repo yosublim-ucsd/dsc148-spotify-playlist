@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-627 songs - 1 day 7 hr 46 min
+628 songs - 1 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Baby Sweet](https://open.spotify.com/track/5jgD38CwcAkTzJOqvQYH42) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Baby Sweet](https://open.spotify.com/album/6qb0k3YKuLker2JeKL7iZG) | 2:53 | 2023-12-13 | 2024-07-19 |
 | [Back & Forth](https://open.spotify.com/track/0MY27k185vk4UoWTg1kwpg) | [MANSHN](https://open.spotify.com/artist/1vskw9iPgYi9HvXcK2rNLG) | [Back & Forth](https://open.spotify.com/album/5CT8ygeSRRS4iQz9cBziP0) | 3:58 | 2024-05-07 |  |
 | [Back For More](https://open.spotify.com/track/2ZNr0akG6bZggKDDI7PZAB) | [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K), [Defunk](https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF) | [Back For More](https://open.spotify.com/album/3FDe6WKhFluZ4qAu0Y90tI) | 3:39 | 2022-06-30 | 2023-04-28 |
+| [Back on Dash](https://open.spotify.com/track/66i7MyCc1Tq4iGZxxHOCej) | [DJVI](https://open.spotify.com/artist/5rn3BUzOWjGGWkCSHQsADZ) | [Back on Dash](https://open.spotify.com/album/3uOH80WiPsBfObjNAzXm32) | 3:06 | 2024-11-08 |  |
 | [Back To You](https://open.spotify.com/track/40ZIBWog1tqU5eaQH4Efdc) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Back To You](https://open.spotify.com/album/4oDFDTpIp2CQorDXd4nFsz) | 3:29 | 2022-11-25 | 2023-08-10 |
 | [Bad Girl](https://open.spotify.com/track/6qmT8OZHUbYvwv1hKRK6Sl) | [LAADS](https://open.spotify.com/artist/4NBJ1qcdssZZRKNiVa1vKP) | [Bad Girl](https://open.spotify.com/album/1250FDbX6wRSmfM8wJk9Wv) | 2:44 | 2023-12-13 | 2024-04-17 |
 | [Bad Habit](https://open.spotify.com/track/39LleyvGIy48hCibZROiWD) | [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Zaug](https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1) | [Bad Habit](https://open.spotify.com/album/3lq84tIwKgWOnx0GNg2w1B) | 2:27 | 2023-03-24 | 2023-08-10 |

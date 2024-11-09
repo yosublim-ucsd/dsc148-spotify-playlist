@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 190434,
       "name": "10PM",
       "url": "https://open.spotify.com/track/69pInUCf67loAdr1DoNeMt"
@@ -670,6 +670,24 @@
       "duration_ms": 197597,
       "name": "Hameda Hereb \u0647\u0627\u0631\u0628",
       "url": "https://open.spotify.com/track/3LE2O2BQi6astoGXBKXe1V"
+    },
+    {
+      "album": {
+        "name": "Happy Hour",
+        "url": "https://open.spotify.com/album/0ljDJIAMsQIUbS2YduqhO3"
+      },
+      "artists": [
+        {
+          "name": "Stou",
+          "url": "https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177679,
+      "name": "Happy Hour",
+      "url": "https://open.spotify.com/track/7cKHVDykmR75pjqJp0KFaR"
     },
     {
       "album": {
@@ -1783,6 +1801,24 @@
     },
     {
       "album": {
+        "name": "YA LATIF",
+        "url": "https://open.spotify.com/album/4xiBtG94NHc23MN6lPZ97j"
+      },
+      "artists": [
+        {
+          "name": "Soldjvt",
+          "url": "https://open.spotify.com/artist/1vLZfHcyqW1vBDy93tdTYV"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174374,
+      "name": "YA LATIF",
+      "url": "https://open.spotify.com/track/5vnEgymA5OFDOf3MOUshFs"
+    },
+    {
+      "album": {
         "name": "Ya Rayah",
         "url": "https://open.spotify.com/album/29MjazlAIq8Jdwh61nQx9t"
       },
@@ -1830,7 +1866,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 157182,
       "name": "Zhar",
       "url": "https://open.spotify.com/track/0pQ1pQ3eBo4iUGfs0wx4MY"

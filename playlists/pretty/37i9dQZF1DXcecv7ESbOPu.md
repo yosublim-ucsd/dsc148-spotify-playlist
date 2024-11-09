@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,091 likes - 107 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,158 likes - 107 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 65 | [Wet & Wild](https://open.spotify.com/track/7bumwccn1j5e52UmdYZ7fG) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Wet & Wild](https://open.spotify.com/album/5ZPDn7ez0CHHEQGaqQFDuH) | 3:02 |
 | 66 | [SALTY](https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PLAYHOUSE](https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO) | 3:11 |
 | 67 | [Baby Girl](https://open.spotify.com/track/1mG0uORgPw42CRBb4OBrkb) | [Natalie Reigo](https://open.spotify.com/artist/7dX07rICvUWZ2wFQPK7jdi) | [Baby Girl](https://open.spotify.com/album/0vV0D6FcnVAGn5GRInHLs5) | 2:41 |
-| 68 | [Heaven In My Hands](https://open.spotify.com/track/77Urs5XQD97xIZJpM2CAvH) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Heaven In My Hands](https://open.spotify.com/album/63P266OfrTRSAuKmgttjkl) | 2:47 |
+| 68 | [Heaven In My Hands](https://open.spotify.com/track/77Urs5XQD97xIZJpM2CAvH) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Heaven In My Hands](https://open.spotify.com/album/63P266OfrTRSAuKmgttjkl) | 2:53 |
 | 69 | [Bad Boys](https://open.spotify.com/track/3fAB50Ai1HwM0ibAAL0iyr) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [TRICKSTAR](https://open.spotify.com/artist/6ZwAfJfUZZObHgUodhLBj5), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Bad Boys](https://open.spotify.com/album/6E8VDqNluihErYla4aeKZX) | 2:13 |
 | 70 | [Get It Together](https://open.spotify.com/track/4elWgFO6RzS8jUe9TCmAcD) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Get It Together](https://open.spotify.com/album/47UxJh0DEKjM4hW7vvvsTE) | 2:38 |
 | 71 | [HOWLING](https://open.spotify.com/track/2uaZaTMbYE5KAk8gbdzBgW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 3:08 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 95 | [You Want My Love](https://open.spotify.com/track/0i6Afe1fh6OxpGgDOjP7Cz) | [Iaco](https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg), [TEN TIMES](https://open.spotify.com/artist/3NccRg2H1XTSVekaTZZ3Xd), [Bjerke](https://open.spotify.com/artist/3I2Ac6BV9dfdOAVjFmWIGX) | [You Want My Love](https://open.spotify.com/album/6KRAL61gzB954VmwP4uxEO) | 2:25 |
 | 96 | [frusen till is](https://open.spotify.com/track/21cAZ3TxDTledmJP2jRLPW) | [Monti Loue](https://open.spotify.com/artist/7j6IX52z6zCgBO7hchaBE2) | [frusen till is](https://open.spotify.com/album/7gciiCz3VcMpMRwr43Mf61) | 2:36 |
 | 97 | [Bär På Djupa Vatten](https://open.spotify.com/track/6J5vmlVkDgUv20uUGqtbZf) | [Mathias Zachrisson](https://open.spotify.com/artist/7ApfSNybOElUqGwRV9w0Oa) | [Vidderna, Så Verkliga](https://open.spotify.com/album/4vZEmsoJySHU1WhFGUrv7g) | 3:06 |
-| 98 | [Glass And Sun](https://open.spotify.com/track/5p9JC0x3SWrseqNwDdBrRU) | [Apocalypse Orchestra](https://open.spotify.com/artist/5McxshLeSMrORjTGNKXLIs) | [Glass And Sun](https://open.spotify.com/album/552BmVjR5LvIHiS3YQLdNU) | 8:14 |
+| 98 | [Glass and Sun](https://open.spotify.com/track/5p9JC0x3SWrseqNwDdBrRU) | [Apocalypse Orchestra](https://open.spotify.com/artist/5McxshLeSMrORjTGNKXLIs) | [Glass and Sun](https://open.spotify.com/album/552BmVjR5LvIHiS3YQLdNU) | 8:14 |
 | 99 | [Falling Apart](https://open.spotify.com/track/29PIXH4ZjJjCXFipjjmfXC) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [The Grand Inferno](https://open.spotify.com/album/2KYCw6rIRRHkYe8pD1loyN) | 3:51 |
 | 100 | [Power Train](https://open.spotify.com/track/5UjjKWE7xUX6KR8prW5FmY) | [Majestica](https://open.spotify.com/artist/52lkxAYfC9ypaPJ2EB22ki) | [Power Train](https://open.spotify.com/album/2eM2BemUYhlWlD55X0SHQa) | 4:04 |
 | 101 | [Diabolic Seer](https://open.spotify.com/track/4dCdk1H4baLxYu8iy79Stu) | [The Hate Project](https://open.spotify.com/artist/00LS9pzopfrTLw1Cv17GHo) | [May Death Come Quickly](https://open.spotify.com/album/4kjWCy4OWwvj4ZFDbca1WX) | 3:00 |

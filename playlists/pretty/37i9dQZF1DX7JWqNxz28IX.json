@@ -1,6 +1,6 @@
 {
   "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, chiello)",
-  "num_followers": 46786,
+  "num_followers": 46796,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "Suffer On",
-        "url": "https://open.spotify.com/album/2xFuWOCqvKkABqxIQReMGX"
-      },
-      "artists": [
-        {
-          "name": "Wicca Phase Springs Eternal",
-          "url": "https://open.spotify.com/artist/70AkqfU43ou9hFxJZTDt7A"
-        }
-      ],
-      "duration_ms": 130692,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/5wz9se6PQr0raxQtmsdBQm"
-    },
-    {
-      "added_at": "2024-10-17 22:01:00",
-      "album": {
         "name": "Come Uccidere Un Usignolo (67 Edition)",
         "url": "https://open.spotify.com/album/3jaseqJUAT1PMLbpYKCUPq"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 222880,
       "name": "Lei No (Il Tradito)",
       "url": "https://open.spotify.com/track/1thFyozce9U4LsdXYpheBl"
+    },
+    {
+      "added_at": "2024-10-17 22:01:00",
+      "album": {
+        "name": "Suffer On",
+        "url": "https://open.spotify.com/album/2xFuWOCqvKkABqxIQReMGX"
+      },
+      "artists": [
+        {
+          "name": "Wicca Phase Springs Eternal",
+          "url": "https://open.spotify.com/artist/70AkqfU43ou9hFxJZTDt7A"
+        }
+      ],
+      "duration_ms": 130692,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/5wz9se6PQr0raxQtmsdBQm"
     },
     {
       "added_at": "2024-10-17 22:01:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
+        "name": "Volevo dirti",
+        "url": "https://open.spotify.com/album/2uHvJYoHJbcC4rwcdqSgZM"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        }
+      ],
+      "duration_ms": 181953,
+      "name": "Volevo dirti",
+      "url": "https://open.spotify.com/track/4DGL38YHhXeoZehaVdoICU"
+    },
+    {
+      "added_at": "2024-10-17 22:01:00",
+      "album": {
         "name": "Resta Vivo",
         "url": "https://open.spotify.com/album/6qJ0unJhVYyebDsqWupNYp"
       },
@@ -843,22 +859,6 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "\u00c8 Andata Cos\u00ec",
-        "url": "https://open.spotify.com/album/7AdlQyoaGhS0pLTYKaBR7B"
-      },
-      "artists": [
-        {
-          "name": "Aiden",
-          "url": "https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "\u00c8 Andata Cos\u00ec",
-      "url": "https://open.spotify.com/track/47jPZoeY2hgKA4Y4Zk3etW"
-    },
-    {
-      "added_at": "2024-10-17 22:01:00",
-      "album": {
         "name": "Tu mi fai bene",
         "url": "https://open.spotify.com/album/55VCDai04r0JFf3mySHac6"
       },
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "Volevo dirti",
-        "url": "https://open.spotify.com/album/2uHvJYoHJbcC4rwcdqSgZM"
+        "name": "\u00c8 Andata Cos\u00ec",
+        "url": "https://open.spotify.com/album/7AdlQyoaGhS0pLTYKaBR7B"
       },
       "artists": [
         {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+          "name": "Aiden",
+          "url": "https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3"
         }
       ],
-      "duration_ms": 181953,
-      "name": "Volevo dirti",
-      "url": "https://open.spotify.com/track/4DGL38YHhXeoZehaVdoICU"
+      "duration_ms": 232800,
+      "name": "\u00c8 Andata Cos\u00ec",
+      "url": "https://open.spotify.com/track/47jPZoeY2hgKA4Y4Zk3etW"
     },
     {
       "added_at": "2024-10-17 22:01:00",
@@ -1035,18 +1035,22 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "Tatuaggi",
-        "url": "https://open.spotify.com/album/5ET4JUKXPJnQb240Ay2yFa"
+        "name": "FOTORICORDO",
+        "url": "https://open.spotify.com/album/2PlhbNve1RMlT0QDJgmixE"
       },
       "artists": [
         {
           "name": "Sol\u00f8",
           "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        },
+        {
+          "name": "Luk3",
+          "url": "https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1"
         }
       ],
-      "duration_ms": 202500,
-      "name": "Tatuaggi",
-      "url": "https://open.spotify.com/track/5tsK5z8zANVWyZ6bfwzeNw"
+      "duration_ms": 149671,
+      "name": "FOTORICORDO",
+      "url": "https://open.spotify.com/track/4CJ53jdJwJLZFHB3LfZpDm"
     },
     {
       "added_at": "2024-10-17 22:01:00",
@@ -1175,22 +1179,34 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "FOTORICORDO",
-        "url": "https://open.spotify.com/album/2PlhbNve1RMlT0QDJgmixE"
+        "name": "Tatuaggi",
+        "url": "https://open.spotify.com/album/5ET4JUKXPJnQb240Ay2yFa"
       },
       "artists": [
         {
           "name": "Sol\u00f8",
           "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        },
-        {
-          "name": "Luk3",
-          "url": "https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1"
         }
       ],
-      "duration_ms": 149671,
-      "name": "FOTORICORDO",
-      "url": "https://open.spotify.com/track/4CJ53jdJwJLZFHB3LfZpDm"
+      "duration_ms": 202500,
+      "name": "Tatuaggi",
+      "url": "https://open.spotify.com/track/5tsK5z8zANVWyZ6bfwzeNw"
+    },
+    {
+      "added_at": "2024-10-17 22:01:00",
+      "album": {
+        "name": "MALA VITA",
+        "url": "https://open.spotify.com/album/6UZxACd7DLXdsYbhcIQSpI"
+      },
+      "artists": [
+        {
+          "name": "Disme",
+          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+        }
+      ],
+      "duration_ms": 179087,
+      "name": "Ti maledir\u00f2",
+      "url": "https://open.spotify.com/track/4X8hvgbVZ8xShUBeqPDwL4"
     },
     {
       "added_at": "2024-10-17 22:01:00",
@@ -1211,22 +1227,6 @@
       "duration_ms": 174720,
       "name": "DOVE SEI",
       "url": "https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB"
-    },
-    {
-      "added_at": "2024-10-17 22:01:00",
-      "album": {
-        "name": "MALA VITA",
-        "url": "https://open.spotify.com/album/6UZxACd7DLXdsYbhcIQSpI"
-      },
-      "artists": [
-        {
-          "name": "Disme",
-          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
-        }
-      ],
-      "duration_ms": 179087,
-      "name": "Ti maledir\u00f2",
-      "url": "https://open.spotify.com/track/4X8hvgbVZ8xShUBeqPDwL4"
     },
     {
       "added_at": "2024-10-17 22:01:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "cloud love",
-        "url": "https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk"
-      },
-      "artists": [
-        {
-          "name": "Anzj",
-          "url": "https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu"
-        }
-      ],
-      "duration_ms": 89832,
-      "name": "sto bene, a volte",
-      "url": "https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu"
-    },
-    {
-      "added_at": "2024-10-17 22:01:00",
-      "album": {
         "name": "Dove sei??",
         "url": "https://open.spotify.com/album/647emruUfFnCax2xaYKh6N"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 181281,
       "name": "Dove sei??",
       "url": "https://open.spotify.com/track/4sDryJaxNbgbucTleahrXE"
+    },
+    {
+      "added_at": "2024-10-17 22:01:00",
+      "album": {
+        "name": "cloud love",
+        "url": "https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk"
+      },
+      "artists": [
+        {
+          "name": "Anzj",
+          "url": "https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu"
+        }
+      ],
+      "duration_ms": 89832,
+      "name": "sto bene, a volte",
+      "url": "https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu"
     },
     {
       "added_at": "2024-10-17 22:01:00",
@@ -1643,18 +1643,22 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "TAXI DRIVER (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
+        "name": "Letto grande",
+        "url": "https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC"
       },
       "artists": [
         {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+          "name": "Bipolar",
+          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
+        },
+        {
+          "name": "Fedesse",
+          "url": "https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC"
         }
       ],
-      "duration_ms": 205358,
-      "name": "APNEA - MTV Unplugged",
-      "url": "https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c"
+      "duration_ms": 211500,
+      "name": "Letto grande",
+      "url": "https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn"
     },
     {
       "added_at": "2024-10-17 22:01:00",
@@ -1679,22 +1683,18 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "Letto grande",
-        "url": "https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC"
+        "name": "TAXI DRIVER (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8"
       },
       "artists": [
         {
-          "name": "Bipolar",
-          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
-        },
-        {
-          "name": "Fedesse",
-          "url": "https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC"
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
         }
       ],
-      "duration_ms": 211500,
-      "name": "Letto grande",
-      "url": "https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn"
+      "duration_ms": 205358,
+      "name": "APNEA - MTV Unplugged",
+      "url": "https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c"
     },
     {
       "added_at": "2024-10-17 22:01:00",
@@ -1719,6 +1719,30 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
+        "name": "MUSICA ALTA E STRESS",
+        "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
+      },
+      "artists": [
+        {
+          "name": "UkuLele",
+          "url": "https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L"
+        },
+        {
+          "name": "Delta",
+          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
+        },
+        {
+          "name": "Close Listen",
+          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "SEMBREREMO DISTANTI",
+      "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
+    },
+    {
+      "added_at": "2024-10-17 22:01:00",
+      "album": {
         "name": "Amelie",
         "url": "https://open.spotify.com/album/6ecOxmrwND7LqAmig5AB0Q"
       },
@@ -1731,26 +1755,6 @@
       "duration_ms": 198857,
       "name": "Amelie",
       "url": "https://open.spotify.com/track/6Avt6Pqv0LPcnzTJ6ertki"
-    },
-    {
-      "added_at": "2024-10-17 22:01:00",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9"
-      },
-      "artists": [
-        {
-          "name": "Elteep",
-          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
-        },
-        {
-          "name": "Lil Sanax",
-          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
-        }
-      ],
-      "duration_ms": 174549,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T"
     }
   ],
   "unique_name": "ragazzo triste",

@@ -2,14 +2,15 @@
 
 ### [Fever](https://open.spotify.com/playlist/37i9dQZF1DX7r3u5HAAB4A)
 
-> The many fruits of Caribbean culture under one tree\. Cover:  <a href="spotify:artist:7ltW5jYRnGOE4O1vcgW2DI">MORGAN</a>
+> The many fruits of Caribbean culture under one tree\. Cover:  <a href="spotify:artist:2FgooFaZzZy6PUyJImk0kG">Jada Kingdom</a>
 
-85 songs - 4 hr 18 min
+90 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ackee](https://open.spotify.com/track/2cEZKqPlouhdWVAQ3qFGFu) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:18 | 2024-10-25 |  |
 | [Agua \(with Naïka\)](https://open.spotify.com/track/1lJsmnUnoQ7ylhWrr8HjQb) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Agua \(with Naïka\)](https://open.spotify.com/album/7fDmXJb3LpyezysooxEbpS) | 2:40 | 2024-08-29 |  |
+| [All Dem Try](https://open.spotify.com/track/7zoSUomkN4Xqgs4XP8JqZD) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [All Dem Try](https://open.spotify.com/album/0II4oqp5kJKf7Cs9UjR7DZ) | 3:32 | 2024-11-08 |  |
 | [ARCH](https://open.spotify.com/track/3bEhYkwhzikzwnTKLqOudB) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [ARCH](https://open.spotify.com/album/0i2e6LS9xQwQ2oSvQfOHUl) | 2:34 | 2024-08-29 |  |
 | [Bam Bam](https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Bam Bam](https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W) | 2:47 | 2024-08-29 | 2024-09-14 |
 | [Big Breeze](https://open.spotify.com/track/47vPEw8FnntQ087qLi2Js9) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Big Breeze](https://open.spotify.com/album/627rVdmoUwqOiVwfuvN4md) | 3:03 | 2024-08-29 |  |
@@ -36,8 +37,10 @@
 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 | 2024-08-29 |  |
 | [Ghetto Gyal Whine](https://open.spotify.com/track/4RYIxOSxrEmUJr8Egy1bVJ) | [Leftside](https://open.spotify.com/artist/187qoiisjzqvj3wsBWLotr), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Ghetto Gyal Whine](https://open.spotify.com/album/4GPWqFdDA1vNS5Dz9owBjj) | 2:55 | 2024-10-25 |  |
 | [Gogo](https://open.spotify.com/track/1bDaEMD1EmC3xQoSq0Hfce) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI) | [Gogo](https://open.spotify.com/album/0KQRMSiOnN7TGZDAqQinYD) | 2:36 | 2024-08-29 |  |
+| [Good Like Jesus](https://open.spotify.com/track/06HHRkb1vkskeKJZq4nNpB) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Good Like Jesus](https://open.spotify.com/album/4rB4Zu1eQrb3MZybj0Uu6a) | 2:40 | 2024-11-08 |  |
 | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5) | 3:41 | 2024-08-29 |  |
 | [Headways](https://open.spotify.com/track/20DjK18TiILB3N61HUQKFc) | [Esron Y\. Spielberg](https://open.spotify.com/artist/119ijPNXC2y426lTSEVn6Q) | [Headways](https://open.spotify.com/album/0V1ynyrP0K0uzidRCqUXI4) | 3:19 | 2024-08-29 | 2024-09-28 |
+| [Higher Life \- Remix](https://open.spotify.com/track/4gbo7YNqeKPM2UnVTTCD5u) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Higher Life \(Remix\)](https://open.spotify.com/album/2LMcKdZNqerzbVa3JOQd4w) | 3:38 | 2024-11-08 |  |
 | [Hit & Run \(feat\. Masicka & Di Genius\)](https://open.spotify.com/track/0ZozwNxlrIRfBAhAibtM4M) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:49 | 2024-08-29 |  |
 | [Holiday](https://open.spotify.com/track/3HhdRHgiGbSH8rcGhJ0PGW) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU), [Jus Jay King](https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V), [Nelieux](https://open.spotify.com/artist/0gMDsodMcZUuum1iXNMVge) | [Black Keys Riddim](https://open.spotify.com/album/22UudBXkxd66PvwCHPLA3g) | 2:17 | 2024-08-29 | 2024-09-18 |
 | [Holy Man](https://open.spotify.com/track/4nwERQVp8OB0h32UsqKpeI) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Holy Man](https://open.spotify.com/album/2xlJNUHy1xHL1xGFRqn390) | 2:13 | 2024-08-29 |  |
@@ -52,6 +55,7 @@
 | [Mad Out](https://open.spotify.com/track/0bTlhD1l36iHX1SUiNa3nL) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Mad Out](https://open.spotify.com/album/6nR7RCfNBtfEHNW7wRVP67) | 2:33 | 2024-08-29 |  |
 | [Mariposa](https://open.spotify.com/track/0bfavASGSsIfAIhVE063eZ) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Where We Come From](https://open.spotify.com/album/15CGM23XyqTGaY1iUhDnDr) | 3:42 | 2024-08-29 |  |
 | [Market](https://open.spotify.com/track/3kJhNQs72SY6jeEAwaS3vl) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Market](https://open.spotify.com/album/5wAkMu3TxTg0GCn05hkAb1) | 3:16 | 2024-08-29 |  |
+| [Mek Eh Bounce](https://open.spotify.com/track/4Jw2rJOeJZvmDbVmcllUcg) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Prettii Prettii](https://open.spotify.com/artist/4w5IDE4fZm2eYAC8NAA03j), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Mek Eh Bounce](https://open.spotify.com/album/7gEliyqk1OYflDl9j4qwNp) | 2:57 | 2024-11-08 |  |
 | [Missbnasty](https://open.spotify.com/track/3TRysxb88dV6F0t37yZjjb) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Missbnasty](https://open.spotify.com/album/59kzETWYbbnNYMhysIA1fy) | 3:32 | 2024-08-29 |  |
 | [My Woman](https://open.spotify.com/track/4T3z9vQCpCqZHJazLXiMfd) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi), [Chambah](https://open.spotify.com/artist/6WKWGcRMN83IBGozupiLhS) | [Guarded \- EP](https://open.spotify.com/album/0HfUgNY3Sj0sZuFLskCP2E) | 3:06 | 2024-08-29 |  |
 | [Nah Lef Eh Game](https://open.spotify.com/track/0dj5HEvwYiVcaSIYjq6HjL) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Nah Lef Eh Game](https://open.spotify.com/album/2YhIc6rtDT2b1MT2VXz2Td) | 2:35 | 2024-08-29 |  |
@@ -74,6 +78,7 @@
 | [Sit Down](https://open.spotify.com/track/2yoSCIiSDgHGj71QRa2bjV) | [Lahrel](https://open.spotify.com/artist/6QLId1xjDwBhWpk9TLfvZ5), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Sit Down](https://open.spotify.com/album/6eTV0xMECRpjVsuDQMe9VN) | 2:38 | 2024-10-25 |  |
 | [Sitt'n Fi Chat](https://open.spotify.com/track/5OwJy5JpsupCWlKtGPKygh) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Sitt'n Fi Chat](https://open.spotify.com/album/4Fgp0m5xTV1gFodrFf2wsc) | 2:46 | 2024-09-13 |  |
 | [SO COMAN](https://open.spotify.com/track/6W0iLz8aOKUzObanCzJj2U) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [SO COMAN](https://open.spotify.com/album/6IsaPEPJsZ4qXbOmdTkq0F) | 2:17 | 2024-08-29 |  |
+| [Somebody Else](https://open.spotify.com/track/73EFvcXi324GMUcE8MpGF3) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Somebody Else](https://open.spotify.com/album/5EuC78gfHomPZZ5ttmqdz3) | 3:11 | 2024-11-08 |  |
 | [Step by Step](https://open.spotify.com/track/4dE2GBJewg2A8HsmrWQk8O) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [Step by Step](https://open.spotify.com/album/6gF4AjZeBsUIHX5LKTASfe) | 3:45 | 2024-08-29 |  |
 | [Sweat \(Part II\)](https://open.spotify.com/track/0GjbPnBfzwJo72FoheuAs9) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Sweat \(Part II\)](https://open.spotify.com/album/2bG3STvDHy9pIxZWN86BtA) | 3:50 | 2024-09-27 |  |
 | [Tables Turn](https://open.spotify.com/track/7fdHAhYi1wd22qHhbU8duq) | [Nhance](https://open.spotify.com/artist/73euxnxC7cjb8Xy1cMzcsb), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Tables Turn](https://open.spotify.com/album/00qcilA2L3sUVDydFfsscS) | 2:59 | 2024-08-29 |  |

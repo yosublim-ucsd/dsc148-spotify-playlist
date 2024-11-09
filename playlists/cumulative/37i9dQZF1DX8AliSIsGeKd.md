@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Goom Gum
 
-4,445 songs - 15 day 22 hr 39 min
+4,446 songs - 15 day 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Alone \- Stephan Jolk Remix](https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Alone \(Stephan Jolk Remix\)](https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs) | 3:32 | 2023-07-14 | 2023-08-04 |
 | [Alone With You](https://open.spotify.com/track/6GpoMwO68bxDCeXCivPqe0) | [Monvol](https://open.spotify.com/artist/3AbpwdjSWkaLmsXyZhmIFl) | [Alone With You](https://open.spotify.com/album/6V7BT0rCnWCeU3dxEc6ApQ) | 8:51 | 2022-09-29 | 2022-10-14 |
 | [Alpe Lusia \- Robag Wruhmes Troi Sdett](https://open.spotify.com/track/3b9JuM2sNs0Fq1DIbyfCd9) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ), [Robag Wruhme](https://open.spotify.com/artist/47UDvjDVedKddLfGWk3keI) | [Robellada.22 EP](https://open.spotify.com/album/4wPDrK8tlVSn5g4GJNQcYH) | 7:42 | 2022-07-14 | 2022-08-05 |
-| [Alphabet Loop \- Christian Smith Remix](https://open.spotify.com/track/3wQubz7cYchWmVeBA7Z6Mn) | [apaull](https://open.spotify.com/artist/5eIGCMgdZlmIvNmhmqSaX8), [Christian Smith](https://open.spotify.com/artist/0Z2EpubIhxnq4B6PV0I8n3) | [Alphabet Loop](https://open.spotify.com/album/2fljBG0cPTcU0HkuxHY2aF) | 5:04 | 2024-10-24 |  |
+| [Alphabet Loop \- Christian Smith Remix](https://open.spotify.com/track/3wQubz7cYchWmVeBA7Z6Mn) | [apaull](https://open.spotify.com/artist/5eIGCMgdZlmIvNmhmqSaX8), [Christian Smith](https://open.spotify.com/artist/0Z2EpubIhxnq4B6PV0I8n3) | [Alphabet Loop](https://open.spotify.com/album/2fljBG0cPTcU0HkuxHY2aF) | 5:04 | 2024-10-24 | 2024-11-09 |
 | [Alright](https://open.spotify.com/track/1ZU33JIKd1rsR8cxPElos1) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Alright](https://open.spotify.com/album/2Ee25kB7a4Jz4IkkClgmaw) | 6:52 | 2023-03-09 | 2023-03-31 |
 | [Alright](https://open.spotify.com/track/032FF7FZ3uyKqY28UHC2fs) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Alright](https://open.spotify.com/album/14Jp6jbWqW1wIzqja3vm27) | 6:49 | 2023-08-31 | 2023-09-22 |
 | [Alright](https://open.spotify.com/track/6PoJMOWf6gzNupRVb47ufp) | [Oriente](https://open.spotify.com/artist/6CGJ7vkQSchCFxDsPeHnVU) | [Alright](https://open.spotify.com/album/7q3deUCt8TYMDxveowPPeC) | 2:32 | 2024-05-23 | 2024-06-14 |
@@ -2441,6 +2441,7 @@
 | [Mankind](https://open.spotify.com/track/521p9zLwWdFrfWwGpgtIbF) | [Mitch De Klein](https://open.spotify.com/artist/7zGEI2pEvhrGrD2Vqrhpwg) | [Mankind](https://open.spotify.com/album/3Q1QrU32ydYQrPMZofU4lZ) | 3:46 | 2022-12-01 | 2022-12-16 |
 | [Mann:Frau](https://open.spotify.com/track/1C1dpAoDKXvrVWO37WpZS5) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [Vulnerability](https://open.spotify.com/album/1IxdSZRUrH7K4w8YrrrjLo) | 3:16 | 2022-10-20 | 2022-11-04 |
 | [Mantra](https://open.spotify.com/track/2FZStCHAHy3l16yWl9ELpe) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Mantra](https://open.spotify.com/album/7ci9mlATFQyvvFIxigMOCH) | 4:21 | 2023-05-19 | 2023-06-09 |
+| [Mantra](https://open.spotify.com/track/5dIDLIH876CTEgSq1OuDeD) | [Techmo](https://open.spotify.com/artist/1yOcHzpmPpgun7xQH8v0Kt), [VEENMOL](https://open.spotify.com/artist/6GRjb9Ki4EMI6WxeWbvBCa), [Bouras](https://open.spotify.com/artist/5Lu7JOTiNvqjQswt0Uyms2) | [Mantra](https://open.spotify.com/album/0V5lhSioN1LUmsrEDXeqgH) | 4:58 | 2024-11-08 |  |
 | [Mantra \- Super Flu Remix](https://open.spotify.com/track/3W6ymZgvxufltyxIgt4chk) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Mantra \(Super Flu Remix\)](https://open.spotify.com/album/3Hb0H6sa11p8gFqfae81SY) | 3:35 | 2023-08-17 | 2023-09-08 |
 | [Manzanita](https://open.spotify.com/track/3ADu5Dhw9m8ggJm2m1LEAP) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Manzanita](https://open.spotify.com/album/0KKp0vor85RZ6qHjA9myx6) | 2:44 | 2023-06-22 | 2023-06-28 |
 | [Manzanita](https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Manzanita](https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt) | 2:44 | 2023-06-23 | 2023-07-14 |

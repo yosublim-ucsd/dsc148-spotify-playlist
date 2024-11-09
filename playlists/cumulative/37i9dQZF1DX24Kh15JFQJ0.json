@@ -3505,6 +3505,24 @@
     },
     {
       "album": {
+        "name": "Midnight Gasoline",
+        "url": "https://open.spotify.com/album/1HmFOh5zrgQLu6BcyIFlOD"
+      },
+      "artists": [
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225613,
+      "name": "Midnight Gasoline",
+      "url": "https://open.spotify.com/track/23dNVoHy5anwKQxC8DQm34"
+    },
+    {
+      "album": {
         "name": "Mozambique / University Of Bourbon Street",
         "url": "https://open.spotify.com/album/1FOgVvIp41RW2dOkdm9Dwj"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Noah Kahan. The essential tracks, all in one playlist.",
-  "num_followers": 298388,
+  "num_followers": 298688,
   "original_name": "This Is Noah Kahan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyqxgAAAAACe2Fz0nz4A/AYCWHHQBKeh",
+  "snapshot_id": "ZywDAAAAAACsFbxFon/qPqC2S+HiKFMo",
   "tracks": [
     {
       "added_at": null,
@@ -811,22 +811,6 @@
       "duration_ms": 178133,
       "name": "Tough (feat. Noah Kahan)",
       "url": "https://open.spotify.com/track/3a1Zmq0P1E6W80x8EOcVNP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/4EJBYk8lfiRQZTHMJEdCtY"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0MFDzxcs2Zk47nLq7ukC4S"
     }
   ],
   "unique_name": "This Is Noah Kahan",

@@ -2845,6 +2845,24 @@
     },
     {
       "album": {
+        "name": "GONNA GET THRU",
+        "url": "https://open.spotify.com/album/1xaU4SLIkG4xZUWw6jjNEo"
+      },
+      "artists": [
+        {
+          "name": "LUV HRTS",
+          "url": "https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200891,
+      "name": "GONNA GET THRU",
+      "url": "https://open.spotify.com/track/3XWwNfOWrALIGDFYVPVv4o"
+    },
+    {
+      "album": {
         "name": "Good Enough",
         "url": "https://open.spotify.com/album/1FBX7KlwpLpKMeYG23xRDu"
       },

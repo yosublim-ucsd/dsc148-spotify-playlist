@@ -1,12 +1,12 @@
 {
   "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ?si=wUNYIxQUS9OVGCr6nIqucw\">Jemma Catherine</a>",
-  "num_followers": 28489,
+  "num_followers": 28530,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy04YAAAAAD48RxCs/AC5pc1eb74igRd",
+  "snapshot_id": "Zy4OKAAAAADMF5wi98K3laQ+AGLDB5XV",
   "tracks": [
     {
       "added_at": "2024-11-07 22:00:00",
@@ -487,6 +487,22 @@
       "duration_ms": 199331,
       "name": "By Die See",
       "url": "https://open.spotify.com/track/5CehcloTKyLuTLbLmSUewD"
+    },
+    {
+      "added_at": "2024-11-08 13:12:08",
+      "album": {
+        "name": "Vir Ewig By My",
+        "url": "https://open.spotify.com/album/7rlrN7DJE7Kssp61osifP6"
+      },
+      "artists": [
+        {
+          "name": "Ou Tekkies",
+          "url": "https://open.spotify.com/artist/2uUXZoTBe7AQhZ9kVAaPOb"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Vir Ewig By My",
+      "url": "https://open.spotify.com/track/2WipXfRRJFA2PBYetGDfjn"
     },
     {
       "added_at": "2024-10-03 22:00:00",

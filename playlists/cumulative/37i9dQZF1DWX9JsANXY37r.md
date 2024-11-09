@@ -4,11 +4,11 @@
 
 > beber gin em casa, nada melhor
 
-244 songs - 15 hr 6 min
+245 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [3am](https://open.spotify.com/track/1WH96QFPIhxlnATR0K90KX) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Gone Are the Days \(Shimokita Import\)](https://open.spotify.com/album/4VYRDmgRCtl3gpDbfD4Agv) | 3:48 | 2022-03-25 |  |
+| [3am](https://open.spotify.com/track/1WH96QFPIhxlnATR0K90KX) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Gone Are the Days \(Shimokita Import\)](https://open.spotify.com/album/4VYRDmgRCtl3gpDbfD4Agv) | 3:48 | 2022-03-25 | 2024-11-09 |
 | [9](https://open.spotify.com/track/3e90JC8EKLsSDUHmPpxkfp) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [3](https://open.spotify.com/album/5cAJxOFxRwXkCihLMQJYtl) | 4:13 | 2022-06-24 | 2024-04-19 |
 | [9](https://open.spotify.com/track/5SZc01rqjwsKhJJthoyNg1) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [3](https://open.spotify.com/album/6GaQi3asDhuxt0n60oNQep) | 4:13 | 2022-03-25 | 2022-04-15 |
 | [A Melhor Saída](https://open.spotify.com/track/6Q4m595vykkZVev0ZHWQsK) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [Pique](https://open.spotify.com/album/0kLSMHP6ziFI70EItEtdZU) | 4:03 | 2024-10-22 |  |
@@ -163,6 +163,7 @@
 | [Loving You More](https://open.spotify.com/track/4nC2OKKEaCp6WsUaZETISE) | [Saux](https://open.spotify.com/artist/14bYCWgayimiNVMbO2HSrN), [Jeffrey James](https://open.spotify.com/artist/0Bm5cFUEv8FGx1wEekHj0D) | [Loving You More](https://open.spotify.com/album/5wPiZ36WbvnLmq2FhXmzSp) | 3:33 | 2022-02-18 | 2022-07-29 |
 | [Magia](https://open.spotify.com/track/4jMHWmtD14blSqbRhq2gjp) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Magia](https://open.spotify.com/album/2cs1QNUdl1o7r9wsZjWtf7) | 3:19 | 2022-03-25 | 2022-05-31 |
 | [Make It Better \(feat\. Smokey Robinson\)](https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:39 | 2022-03-25 |  |
+| [Mercenários do Amor](https://open.spotify.com/track/3Y37i0rehRTNUoUOXjKnFm) | [Doce Delix](https://open.spotify.com/artist/5oMThBB837MjaAjmCu3K8j) | [Mercenários do Amor](https://open.spotify.com/album/3TVKYDgwKsGYieOkoLZebp) | 3:07 | 2024-11-08 |  |
 | [Meu Amor](https://open.spotify.com/track/2fGzMEmoGfQN3XYPCvovaJ) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mahmundi](https://open.spotify.com/album/33ajk7UGoDKpev7Oquk4Ur) | 4:04 | 2022-02-18 | 2022-07-29 |
 | [Midas](https://open.spotify.com/track/6VNooTY5w9A9wg1YUsEbKB) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Portraits](https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1) | 3:38 | 2022-03-25 |  |
 | [Mismo Amor](https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mismo Amor](https://open.spotify.com/album/47TJKNoGstQmn8cITL9AQv) | 3:18 | 2022-03-25 |  |

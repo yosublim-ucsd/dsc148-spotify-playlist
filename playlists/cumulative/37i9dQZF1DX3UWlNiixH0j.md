@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: TOSH
 
-1,968 songs - 5 day 2 hr 21 min
+1,969 songs - 5 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1321,7 +1321,7 @@
 | [さよなら感染対策](https://open.spotify.com/track/1KNS7g79qVxgYrgIXUQoP4) | [ポニーのヒサミツ](https://open.spotify.com/artist/5Jgmn1ZKXTKLR1uxbu0lSg) | [さよなら感染対策](https://open.spotify.com/album/2v19aEF2VPg6pZO2FMUekS) | 2:50 | 2023-08-30 | 2023-09-06 |
 | [さらまっぽ](https://open.spotify.com/track/6f9Fl22sy1UhH788M7BkH3) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [さらまっぽ](https://open.spotify.com/album/0eWUONdRJ4WYpwcoh3D3hA) | 3:19 | 2023-06-27 | 2023-08-02 |
 | [さわやか](https://open.spotify.com/track/7qtGoaMSCb9Zct4ay1A2TS) | [エンヤコーラーズ](https://open.spotify.com/artist/2VmYWki0mkdmHAgbacjdZE) | [さわやか](https://open.spotify.com/album/4ZFdwv0xqA9L6Qjv6w7w0V) | 4:25 | 2024-03-19 | 2024-03-27 |
-| [しとろんの週末](https://open.spotify.com/track/73JuWT6msVqFaYfyFvxEnr) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [しとろんの週末](https://open.spotify.com/album/3zlBk9mRBJHPMQnd6hnCvj) | 3:04 | 2024-09-17 |  |
+| [しとろんの週末](https://open.spotify.com/track/73JuWT6msVqFaYfyFvxEnr) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [しとろんの週末](https://open.spotify.com/album/3zlBk9mRBJHPMQnd6hnCvj) | 3:04 | 2024-09-17 | 2024-11-09 |
 | [しゅー・しゃいん](https://open.spotify.com/track/6BeLbrlUjLp8SRr5K7j99L) | [Saho Terao](https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH) | [しゅー・しゃいん](https://open.spotify.com/album/2GPjMAOMWYOZoMBx5tCXkA) | 3:27 | 2024-08-06 | 2024-09-11 |
 | [しょうもない夜](https://open.spotify.com/track/1mSDhkET9Qecp1EuPWX7Er) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [しょうもない夜](https://open.spotify.com/album/31zPEVkCWiYlzMKJF2FvGc) | 3:32 | 2023-12-21 | 2024-04-03 |
 | [じゃじゃ馬にさせないで](https://open.spotify.com/track/6qV4xNwIt7qF0gO6yW086K) | [the dadadadys](https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL) | [\(茜\)](https://open.spotify.com/album/7EQlFBJV2yiLhi3SDq91vR) | 4:23 | 2024-01-25 | 2024-02-02 |
@@ -1424,6 +1424,7 @@
 | [カウボウイの口癖](https://open.spotify.com/track/4EsBi4kGvP0mpb1hbazGcc) | [井上園子](https://open.spotify.com/artist/1CrUJuV3FPAvDK7do7QQRm) | [カウボウイの口癖](https://open.spotify.com/album/7mIrZufHdh5n2LN6pZQs74) | 5:26 | 2024-07-02 | 2024-07-27 |
 | [カウントダウン・ラグ](https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [インナーダイアログ](https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh) | 5:25 | 2023-04-18 | 2023-04-20 |
 | [カオカオ](https://open.spotify.com/track/7z8KM3HGH6XVWrUWDfaaA3) | [Dannie May](https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7) | [カオカオ](https://open.spotify.com/album/78zz0pYiRTIxMKlQIheY8o) | 3:49 | 2024-03-05 | 2024-04-10 |
+| [カゲロウ](https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [ZERO](https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0) | 3:11 | 2024-11-05 |  |
 | [カルーセル](https://open.spotify.com/track/7rD5OqAfS3PMOFKrB1LcXP) | [Carnation](https://open.spotify.com/artist/5NvPLoJWfBHkEvTsiwmEog) | [Carousel Circle](https://open.spotify.com/album/6mh8zAPG02p3sw6BF9sS7q) | 3:25 | 2023-11-29 | 2023-12-06 |
 | [カレイドスコウプ](https://open.spotify.com/track/4VIQJIfEgvSr2p1AuUVHei) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [カレイドスコウプ](https://open.spotify.com/album/1cM6c96lnb3MLqUOHX5qyM) | 3:28 | 2023-12-19 | 2023-12-21 |
 | [カーテンコール](https://open.spotify.com/track/59IYIoki3Z4UEVBuegE0ZN) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [カーテンコール](https://open.spotify.com/album/7MuNNuwO7FnpHzYJeuom7W) | 2:54 | 2024-09-17 |  |

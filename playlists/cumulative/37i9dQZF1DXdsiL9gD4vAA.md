@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-179 songs - 16 hr 4 min
+180 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Ajnabi Shehar Mein](https://open.spotify.com/track/0uXpXoYmYQJn7wIzP3Kllp) | [Ashok Khosla](https://open.spotify.com/artist/2fIO95bqKqcruVFfBV9fkb) | [Soulful Ghazals](https://open.spotify.com/album/5npeS4QWzh2ONX9p1zOYxe) | 6:33 | 2024-02-07 |  |
 | [Ap Se Mil Ke Hum](https://open.spotify.com/track/2Db2KrPmGAMHuxWRUDusBw) | [Leo Twins](https://open.spotify.com/artist/6pFaaeIt3kbdx8Xrgk0fUP), [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92) | [Ap Se Mil Ke Hum](https://open.spotify.com/album/6zSih1hDqwitiWJ38tbmtZ) | 3:51 | 2024-01-25 | 2024-10-26 |
 | [Awara](https://open.spotify.com/track/5ECnRRG6R0dNL1MpJ9lSeu) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Horizon](https://open.spotify.com/album/0xkgV2gUv5wHBIcM0hZ9Sg) | 6:22 | 2021-12-01 | 2023-07-20 |
+| [Baat Itni Si](https://open.spotify.com/track/4ISPpMP57Se1MYcDobKNnF) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Baat Itni Si](https://open.spotify.com/album/2jMB523HNQd8eMeZsspmhY) | 5:34 | 2024-11-08 |  |
 | [Beete Rishte Talash Karti Hai](https://open.spotify.com/track/6E2BUkw4XCghytulGBrbNI) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Nazm, Vol\. 1 & 2](https://open.spotify.com/album/7zxbbT2rlXgkwOEvyPOEYk) | 0:33 | 2023-09-14 | 2024-04-19 |
 | [Beete Rishte Talash Karti Hai](https://open.spotify.com/track/6cQFfIR4FenzBP1tztktJL) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Gulzars Nazm Vol.2](https://open.spotify.com/album/6mtRHyLK4jWGNjse3byVu1) | 0:33 | 2024-04-18 |  |
 | [Bhej chhana chhan](https://open.spotify.com/track/3ABNBqGrID439kEc347fkD) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [History of Indian Film Music, Volume 5](https://open.spotify.com/album/69LiE5HBfujMW2CtFMf5YC) | 4:03 | 2021-12-01 | 2023-06-06 |

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Lot More Free",
+        "url": "https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198920,
+      "name": "A Lot More Free",
+      "url": "https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p"
+    },
+    {
+      "album": {
         "name": "All Good",
         "url": "https://open.spotify.com/album/5FWV48bFKI7v4vWEPN7x2t"
       },
@@ -248,6 +266,24 @@
       "duration_ms": 215553,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl"
+    },
+    {
+      "album": {
+        "name": "Black Train",
+        "url": "https://open.spotify.com/album/4CZkAnPYSzhYa1eAVNpKt3"
+      },
+      "artists": [
+        {
+          "name": "A Murder in Mississippi",
+          "url": "https://open.spotify.com/artist/3iuF2R8o2xej4ZdbWdiNom"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237586,
+      "name": "Black Train",
+      "url": "https://open.spotify.com/track/689ik4NbmpQeVmm99AjJq2"
     },
     {
       "album": {
@@ -964,7 +1000,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 207154,
       "name": "Gone Forever",
       "url": "https://open.spotify.com/track/0tRQcoSBhl4GUjc2EKs9UG"
@@ -2702,7 +2738,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 230920,
       "name": "The Returner",
       "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
@@ -3252,7 +3288,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 230000,
       "name": "Win My Heart",
       "url": "https://open.spotify.com/track/04vYVXnigtNtKDfHtjLwS4"
@@ -3274,6 +3310,24 @@
       "duration_ms": 213493,
       "name": "You Should Probably Leave",
       "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
+    },
+    {
+      "album": {
+        "name": "Young At Heart",
+        "url": "https://open.spotify.com/album/5wnk5LWQOATrZmAz0x1VUX"
+      },
+      "artists": [
+        {
+          "name": "Johnny & the Dinosaurs",
+          "url": "https://open.spotify.com/artist/3VE3trzA2jZU19LphjsQwS"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323133,
+      "name": "Young At Heart",
+      "url": "https://open.spotify.com/track/1EmCT6WLXdn6WMagoOtsXy"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2YBlcDHuAn5"

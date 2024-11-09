@@ -4,7 +4,7 @@
 
 > New music by the heaviest independent artists every Wednesday\. Cover: Stray View \| Artwork: Nejc Prah
 
-138 songs - 8 hr 15 min
+139 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Can't Stand No One](https://open.spotify.com/track/5d4Zhtc2EXIDp0Hi5cAfLq) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [Can't Stand No One](https://open.spotify.com/album/3dLRTX5OG8U2dfvNC94t9d) | 2:22 | 2024-08-07 | 2024-08-29 |
 | [Chaos Garden](https://open.spotify.com/track/1qgUVeTaGQc5OwupMst5u0) | [DREGG](https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B) | [The Art Of Everything](https://open.spotify.com/album/4aaJ8ggCf9cKIlGUBKvHkq) | 2:48 | 2024-10-25 |  |
 | [Chemicals](https://open.spotify.com/track/3IbMLc7Ku6lYicyycgPkyP) | [The Dark](https://open.spotify.com/artist/4w9QOKrn9Rzx8KiYgjIhZ6) | [Chemicals](https://open.spotify.com/album/3GqTUTV709jg7MJ92jdZjh) | 3:03 | 2024-09-25 |  |
-| [Chokehold](https://open.spotify.com/track/2FzNACyJzijrf96PlErgQp) | [Druid](https://open.spotify.com/artist/1yXkQMMIVLkHxUCwl8RhXC) | [Chokehold](https://open.spotify.com/album/0rlbSWArxZLzNDpfxk05ng) | 3:02 | 2024-10-02 |  |
+| [Chokehold](https://open.spotify.com/track/2FzNACyJzijrf96PlErgQp) | [Druid](https://open.spotify.com/artist/1yXkQMMIVLkHxUCwl8RhXC) | [Chokehold](https://open.spotify.com/album/0rlbSWArxZLzNDpfxk05ng) | 3:02 | 2024-10-02 | 2024-11-09 |
 | [Corrosion](https://open.spotify.com/track/726OXe032q4HQ6r0sGQAsl) | [Vestige](https://open.spotify.com/artist/0EK0zScYBi3NbAs66JRwJN) | [Corrosion](https://open.spotify.com/album/31MEawLocr8OoEDFJyg6aa) | 5:16 | 2024-08-07 | 2024-10-17 |
 | [Crazy One](https://open.spotify.com/track/19nWPTuIPfi0Cel9Gg6oYx) | [Felix Weaver](https://open.spotify.com/artist/1onhmHB21funSEwlwO6B9J) | [Crazy One](https://open.spotify.com/album/1v3ucRyw7ngZ0axpBMq2nj) | 3:21 | 2024-10-25 |  |
 | [Cross To Bear](https://open.spotify.com/track/0VughS6uwUoAmYAfpS2rZP) | [Aversed](https://open.spotify.com/artist/0NnC3YeMSgqiGQtfe5KEkF) | [Cross To Bear](https://open.spotify.com/album/6WVtZ4SyZS3PzfEQl7UNLx) | 4:04 | 2024-10-16 |  |
@@ -119,6 +119,7 @@
 | [Stillborn](https://open.spotify.com/track/30EBMmwhPG0fLU9XQbhigB) | [Hurakan](https://open.spotify.com/artist/5w35Gt5153qhoSwR4MVtEU) | [Stillborn](https://open.spotify.com/album/2UOevlgxWMqnNC6XupoyxB) | 3:26 | 2024-08-07 |  |
 | [Submitted for \(Dis\)Approval](https://open.spotify.com/track/1RTREn11SA1syTUiW4g497) | [Wounded Touch](https://open.spotify.com/artist/31XbVcQ1tPnNZn1qo4Q7p1) | [Submitted for \(Dis\)Approval](https://open.spotify.com/album/3PBlWV3lDbAY5xMqpZjKqC) | 1:34 | 2024-08-07 | 2024-09-12 |
 | [Suffer Eternally](https://open.spotify.com/track/5AHgyKx5cyzo7gXL8FZz3B) | [Zetra](https://open.spotify.com/artist/19OKi91yhqwfQqFyROn06f) | [Suffer Eternally](https://open.spotify.com/album/4108Dqy1reh2T90Y3MkJhJ) | 4:12 | 2024-08-07 |  |
+| [Séance](https://open.spotify.com/track/6xQ8uphGxXzJDUziFapHZZ) | [Speed of Light](https://open.spotify.com/artist/3cNtvAs3DPIj46Z5BOU4fD) | [Séance](https://open.spotify.com/album/0JwzG7MVtzubfIOf0L445q) | 3:55 | 2024-11-08 |  |
 | [TAKE A STEP AWAY](https://open.spotify.com/track/6j9CkpIGMPCpi9NMTVQojT) | [Regional Justice Center](https://open.spotify.com/artist/2jsi0W3bFzL0ITqKU4gVE2) | [FREEDOM](https://open.spotify.com/album/1sSrTdfpu8BUmnKSH56T7d) | 1:04 | 2024-08-21 | 2024-09-26 |
 | [Taste Better](https://open.spotify.com/track/7LKSaTHrzYs8fENotRCj2E) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Taste Better](https://open.spotify.com/album/3CYnVgAzxg49IYGU2hwyXQ) | 2:53 | 2024-08-21 | 2024-10-03 |
 | [Tear The Sky Apart](https://open.spotify.com/track/3YQXvBv68y2IFsBPgZq8xc) | [Kids Don't Float](https://open.spotify.com/artist/7zkrumFBhmI2INqMP5tjNF) | [Into A Sea Of Gloom](https://open.spotify.com/album/1BrvFejgtMjJCe6jvNdXM4) | 2:07 | 2024-08-07 | 2024-10-17 |

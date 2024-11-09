@@ -1,12 +1,12 @@
 {
   "description": "the deep & minimal side of tech house \u26cf\ufe0f\u26cf\ufe0f  with Michael Bibi",
-  "num_followers": 41832,
+  "num_followers": 42006,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyxHSQAAAADLnH6IsJVSsw+v3YAO6deJ",
+  "snapshot_id": "Zy2a0AAAAAAIN8kkLhI5OV8ixtQ+FvkZ",
   "tracks": [
     {
       "added_at": "2024-11-06 22:50:08",
@@ -25,24 +25,20 @@
       "url": "https://open.spotify.com/track/3GKus5g2N6czJ5Eo4oCGpd"
     },
     {
-      "added_at": "2024-11-06 22:50:08",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Searching",
-        "url": "https://open.spotify.com/album/1wtegba6llZ8I6UeKGyFlY"
+        "name": "Misleading",
+        "url": "https://open.spotify.com/album/4a47UgngMFU3wHG12oPQN5"
       },
       "artists": [
         {
-          "name": "East End Dubs",
-          "url": "https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7"
-        },
-        {
-          "name": "Wheats",
-          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
         }
       ],
-      "duration_ms": 247384,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/1n24YdnZ25XwWlizL6iU1I"
+      "duration_ms": 187365,
+      "name": "Misleading",
+      "url": "https://open.spotify.com/track/6yozk84rHLypCWk50d5mTE"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -71,6 +67,26 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/1wtegba6llZ8I6UeKGyFlY"
+      },
+      "artists": [
+        {
+          "name": "East End Dubs",
+          "url": "https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7"
+        },
+        {
+          "name": "Wheats",
+          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
+        }
+      ],
+      "duration_ms": 247384,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/1n24YdnZ25XwWlizL6iU1I"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
         "name": "ENDZ058",
         "url": "https://open.spotify.com/album/05gXFYrarAOFeYOsVMwmWi"
       },
@@ -87,38 +103,18 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "50 INCH WOOFAS",
-        "url": "https://open.spotify.com/album/6MfCmQMFgRkhfkJsGBatyb"
+        "name": "Fascinator EP",
+        "url": "https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR"
       },
       "artists": [
         {
-          "name": "Facu Baez",
-          "url": "https://open.spotify.com/artist/22HYVpPiieQRJsUxZslfBN"
-        },
-        {
-          "name": "Braydon Terzo",
-          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
         }
       ],
-      "duration_ms": 176264,
-      "name": "50 INCH WOOFAS",
-      "url": "https://open.spotify.com/track/2kOP8eEvrgn2L53r4HXRpg"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Mommy",
-        "url": "https://open.spotify.com/album/3PfaelgRiI601wUtYNDXct"
-      },
-      "artists": [
-        {
-          "name": "BRN",
-          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Mommy",
-      "url": "https://open.spotify.com/track/6ChqMdxPeCDn5i6C8j7JZs"
+      "duration_ms": 372923,
+      "name": "Fascinator",
+      "url": "https://open.spotify.com/track/0LLNuq3cKWLH1b1buksOjk"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -139,18 +135,22 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Bad City",
-        "url": "https://open.spotify.com/album/7veg6nivlCOvav8hC99ky0"
+        "name": "50 INCH WOOFAS",
+        "url": "https://open.spotify.com/album/6MfCmQMFgRkhfkJsGBatyb"
       },
       "artists": [
         {
-          "name": "Julian Fijma",
-          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
+          "name": "Facu Baez",
+          "url": "https://open.spotify.com/artist/22HYVpPiieQRJsUxZslfBN"
+        },
+        {
+          "name": "Braydon Terzo",
+          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
         }
       ],
-      "duration_ms": 381821,
-      "name": "Bad City",
-      "url": "https://open.spotify.com/track/4mNCeMeeYSSlHgMmab2PyM"
+      "duration_ms": 176264,
+      "name": "50 INCH WOOFAS",
+      "url": "https://open.spotify.com/track/2kOP8eEvrgn2L53r4HXRpg"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -211,18 +211,18 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Fascinator EP",
-        "url": "https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR"
+        "name": "Mommy",
+        "url": "https://open.spotify.com/album/3PfaelgRiI601wUtYNDXct"
       },
       "artists": [
         {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+          "name": "BRN",
+          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
         }
       ],
-      "duration_ms": 372923,
-      "name": "Fascinator",
-      "url": "https://open.spotify.com/track/0LLNuq3cKWLH1b1buksOjk"
+      "duration_ms": 206769,
+      "name": "Mommy",
+      "url": "https://open.spotify.com/track/6ChqMdxPeCDn5i6C8j7JZs"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -241,20 +241,20 @@
       "url": "https://open.spotify.com/track/5ETOyLlTJHfwmhgcCl4T56"
     },
     {
-      "added_at": "2024-11-06 22:50:08",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Nitty Gritty",
-        "url": "https://open.spotify.com/album/53iJEgg9eViRaJrR3904e4"
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/0fjUU58wr2qCeR7FaamUhY"
       },
       "artists": [
         {
-          "name": "Darius Syrossian",
-          "url": "https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf"
+          "name": "Cole Knight",
+          "url": "https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb"
         }
       ],
-      "duration_ms": 296888,
-      "name": "Nitty Gritty",
-      "url": "https://open.spotify.com/track/4Em5t5GCQ5tBf88NklyfFI"
+      "duration_ms": 204710,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/46NW8BuqZoSoEAWpCU7JQB"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -291,18 +291,18 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Ghetto EP",
-        "url": "https://open.spotify.com/album/0Yk2UyQvhV8Jx2AvvFYtev"
+        "name": "Nitty Gritty",
+        "url": "https://open.spotify.com/album/53iJEgg9eViRaJrR3904e4"
       },
       "artists": [
         {
-          "name": "Hannah Wants",
-          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
+          "name": "Darius Syrossian",
+          "url": "https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf"
         }
       ],
-      "duration_ms": 214389,
-      "name": "Ghetto",
-      "url": "https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1"
+      "duration_ms": 296888,
+      "name": "Nitty Gritty",
+      "url": "https://open.spotify.com/track/4Em5t5GCQ5tBf88NklyfFI"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -375,22 +375,18 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/0xq6Pn3IZ9uv4p9TzKk23t"
+        "name": "Bad City",
+        "url": "https://open.spotify.com/album/7veg6nivlCOvav8hC99ky0"
       },
       "artists": [
         {
-          "name": "Braydon Terzo",
-          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
-        },
-        {
-          "name": "Julio Bravo",
-          "url": "https://open.spotify.com/artist/2xENmdo7oEaFrxPWFin702"
+          "name": "Julian Fijma",
+          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
         }
       ],
-      "duration_ms": 219534,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/4QRHDjBu4J6LBHmMriV12P"
+      "duration_ms": 381821,
+      "name": "Bad City",
+      "url": "https://open.spotify.com/track/4mNCeMeeYSSlHgMmab2PyM"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -899,6 +895,22 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
+        "name": "Jam Is Pumping EP",
+        "url": "https://open.spotify.com/album/7CIfwfDu0SqRHtkt50Krtq"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        }
+      ],
+      "duration_ms": 226976,
+      "name": "Jam Is Pumping",
+      "url": "https://open.spotify.com/track/1tXkSkbltR7XjRxkgMZSNW"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
         "name": "Downstream",
         "url": "https://open.spotify.com/album/0brBvk7cCEKV8merp6uy8Z"
       },
@@ -915,22 +927,6 @@
       "duration_ms": 175179,
       "name": "Downstream",
       "url": "https://open.spotify.com/track/0XfRQzFsLzWuVeJh3iX5Tw"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Jam Is Pumping EP",
-        "url": "https://open.spotify.com/album/7CIfwfDu0SqRHtkt50Krtq"
-      },
-      "artists": [
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        }
-      ],
-      "duration_ms": 226976,
-      "name": "Jam Is Pumping",
-      "url": "https://open.spotify.com/track/1tXkSkbltR7XjRxkgMZSNW"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1051,18 +1047,18 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Flawless",
-        "url": "https://open.spotify.com/album/6rEA4FyIVN0s5pTj8M8d0R"
+        "name": "Ghetto EP",
+        "url": "https://open.spotify.com/album/0Yk2UyQvhV8Jx2AvvFYtev"
       },
       "artists": [
         {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+          "name": "Hannah Wants",
+          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
         }
       ],
-      "duration_ms": 200221,
-      "name": "Flawless",
-      "url": "https://open.spotify.com/track/0I8ZLNl7Hf51kuOSFJvZIC"
+      "duration_ms": 214389,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1079,6 +1075,22 @@
       "duration_ms": 205714,
       "name": "Trip Advisor (Rhythm, Snare, Bass)",
       "url": "https://open.spotify.com/track/5kimJnpTUUYKMs8wccI0w2"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Flawless",
+        "url": "https://open.spotify.com/album/6rEA4FyIVN0s5pTj8M8d0R"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "duration_ms": 200221,
+      "name": "Flawless",
+      "url": "https://open.spotify.com/track/0I8ZLNl7Hf51kuOSFJvZIC"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1167,6 +1179,22 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
+        "name": "Reso Riddim EP",
+        "url": "https://open.spotify.com/album/1uurwcKOxS5fiY464eOmo0"
+      },
+      "artists": [
+        {
+          "name": "Sidney Charles",
+          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+        }
+      ],
+      "duration_ms": 186412,
+      "name": "Reso Riddim",
+      "url": "https://open.spotify.com/track/3gGEy7cLjmQbJuiLP9pHz9"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
         "name": "Locomotiva Ibiza 2099 II",
         "url": "https://open.spotify.com/album/6nIry8iPceW6XDXT8UTSUm"
       },
@@ -1187,18 +1215,18 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Reso Riddim EP",
-        "url": "https://open.spotify.com/album/1uurwcKOxS5fiY464eOmo0"
+        "name": "Unfair",
+        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
       },
       "artists": [
         {
-          "name": "Sidney Charles",
-          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
         }
       ],
-      "duration_ms": 186412,
-      "name": "Reso Riddim",
-      "url": "https://open.spotify.com/track/3gGEy7cLjmQbJuiLP9pHz9"
+      "duration_ms": 247566,
+      "name": "Unfair",
+      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1215,22 +1243,6 @@
       "duration_ms": 432000,
       "name": "Knocking Birds",
       "url": "https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Unfair",
-        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 247566,
-      "name": "Unfair",
-      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1439,6 +1451,22 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
+        "name": "Fascinator EP",
+        "url": "https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        }
+      ],
+      "duration_ms": 369230,
+      "name": "Break It Down",
+      "url": "https://open.spotify.com/track/5o73OVgK6juFXhIZiP4yKf"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
         "name": "venus' secret",
         "url": "https://open.spotify.com/album/5ot2j6evmXMPHQRkVUzNfl"
       },
@@ -1459,22 +1487,22 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Bass Go Boom (Collier Remix)",
-        "url": "https://open.spotify.com/album/7jDzqqtw3O7q33iLA7LhlH"
+        "name": "Nuthin' On EP",
+        "url": "https://open.spotify.com/album/0xHCfboVdtsec7vOiammF5"
       },
       "artists": [
         {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+          "name": "Chicks Luv Us",
+          "url": "https://open.spotify.com/artist/6tb3j9CDb60zsHm1lN8K02"
         },
         {
-          "name": "Collier",
-          "url": "https://open.spotify.com/artist/44KWTN5dWQd0oAzu1p5xCj"
+          "name": "EdiP",
+          "url": "https://open.spotify.com/artist/5LJwuxjm7hqe5ssWMyyQTE"
         }
       ],
-      "duration_ms": 168327,
-      "name": "Bass Go Boom - Collier Remix",
-      "url": "https://open.spotify.com/track/1nTHK6Qln7sWicfmlhMUe7"
+      "duration_ms": 210000,
+      "name": "Nuthin' On",
+      "url": "https://open.spotify.com/track/2iSKzMK0aNxmNAzdBVN6jp"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1491,22 +1519,6 @@
       "duration_ms": 417145,
       "name": "I Am Somebody",
       "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Fascinator EP",
-        "url": "https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR"
-      },
-      "artists": [
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        }
-      ],
-      "duration_ms": 369230,
-      "name": "Break It Down",
-      "url": "https://open.spotify.com/track/5o73OVgK6juFXhIZiP4yKf"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1547,22 +1559,22 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Nuthin' On EP",
-        "url": "https://open.spotify.com/album/0xHCfboVdtsec7vOiammF5"
+        "name": "Bass Go Boom (Collier Remix)",
+        "url": "https://open.spotify.com/album/7jDzqqtw3O7q33iLA7LhlH"
       },
       "artists": [
         {
-          "name": "Chicks Luv Us",
-          "url": "https://open.spotify.com/artist/6tb3j9CDb60zsHm1lN8K02"
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
         },
         {
-          "name": "EdiP",
-          "url": "https://open.spotify.com/artist/5LJwuxjm7hqe5ssWMyyQTE"
+          "name": "Collier",
+          "url": "https://open.spotify.com/artist/44KWTN5dWQd0oAzu1p5xCj"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Nuthin' On",
-      "url": "https://open.spotify.com/track/2iSKzMK0aNxmNAzdBVN6jp"
+      "duration_ms": 168327,
+      "name": "Bass Go Boom - Collier Remix",
+      "url": "https://open.spotify.com/track/1nTHK6Qln7sWicfmlhMUe7"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1615,6 +1627,22 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
+        "name": "Wyle Up",
+        "url": "https://open.spotify.com/album/0ypxGTI46Pk72LJh527jsX"
+      },
+      "artists": [
+        {
+          "name": "ENNE (BR)",
+          "url": "https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP"
+        }
+      ],
+      "duration_ms": 150644,
+      "name": "Wyle Up",
+      "url": "https://open.spotify.com/track/5KhuJU1rzOCbzdw7w8y02W"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/25f1FggBA5ONTSmjJGTvxf"
       },
@@ -1631,22 +1659,6 @@
       "duration_ms": 207000,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/6QtKYHsFWJvBUBmoxHabsD"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Wyle Up",
-        "url": "https://open.spotify.com/album/0ypxGTI46Pk72LJh527jsX"
-      },
-      "artists": [
-        {
-          "name": "ENNE (BR)",
-          "url": "https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP"
-        }
-      ],
-      "duration_ms": 150644,
-      "name": "Wyle Up",
-      "url": "https://open.spotify.com/track/5KhuJU1rzOCbzdw7w8y02W"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1727,22 +1739,6 @@
       "duration_ms": 222923,
       "name": "Cold",
       "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Seeder",
-        "url": "https://open.spotify.com/album/6YAkUQpPCA991mLigg7Dqk"
-      },
-      "artists": [
-        {
-          "name": "Josh Butler",
-          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Seeder",
-      "url": "https://open.spotify.com/track/4f6daDw6qcTuk2VFFDIltN"
     }
   ],
   "unique_name": "Minimal Tech",

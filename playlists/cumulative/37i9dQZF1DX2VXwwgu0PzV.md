@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE?si=bKcXAFHYRMGLelW52bpIww>Chizie</a>
 
-872 songs - 2 day 0 hr 37 min
+874 songs - 2 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [By Your Side](https://open.spotify.com/track/4U4U6n2cLS9KSgZEyRGvUz) | [Phontera](https://open.spotify.com/artist/71Vn1EeivhPQ4vl4XGOHLm), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [By Your Side](https://open.spotify.com/album/1nqyl8x6u2qZgu3C9T7ywr) | 2:39 | 2024-08-30 | 2024-10-18 |
 | [Call Me Blessed](https://open.spotify.com/track/5CyrCBCWC87Ppz6lNomYrB) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Call Me Blessed](https://open.spotify.com/album/7KCjQA1lve605tpDbqzSud) | 2:25 | 2024-02-02 | 2024-04-12 |
 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 | 2023-10-13 |  |
+| [Can You Feel It](https://open.spotify.com/track/0YzxXvJEokptYlZ50ppKsO) | [Edez](https://open.spotify.com/artist/5xKwjfZZfX18r0Lq0TA5QE), [DOTTi The Deity](https://open.spotify.com/artist/1APmyJUpl7Z2JeJ2M7iMsR) | [Can You Feel It](https://open.spotify.com/album/0WrkTANWeyR7klt1HRoRW6) | 3:27 | 2024-11-08 |  |
 | [CAN’T EXPLAIN](https://open.spotify.com/track/53fPdKhyo7IVl0jKBTyqfb) | [Peddygree](https://open.spotify.com/artist/3vqsgMy4R82tEYVwUQN1Zg), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Can’t Explain](https://open.spotify.com/album/5hnys7CwXZ2uTLp0x3nfkC) | 2:50 | 2023-03-23 | 2023-04-28 |
 | [Capable God](https://open.spotify.com/track/25sRKHPOYj8XsDXbxxdx3y) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 3:24 | 2023-12-05 | 2023-12-11 |
 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 | 2023-12-01 | 2024-02-23 |
@@ -623,6 +624,7 @@
 | [ON GOD \(Put it\)](https://open.spotify.com/track/2AKj9LwbvQNmr0TKe5rNFM) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [ON GOD \(Put it\)](https://open.spotify.com/album/2w2BRiiXoqfo9xEgOrR1gJ) | 2:45 | 2024-03-29 | 2024-05-17 |
 | [On My Case](https://open.spotify.com/track/04IQOJLLfOYcoyddANSaiY) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [On My Case](https://open.spotify.com/album/4yCTzq9LQLQ3b6AJ3BprFc) | 2:43 | 2023-05-19 | 2023-09-15 |
 | [On my Mind](https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [On My Mind](https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr) | 3:46 | 2023-06-09 | 2023-07-21 |
+| [On My Side](https://open.spotify.com/track/6fmmsEzjNRec8f4migh50T) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [On My Side](https://open.spotify.com/album/3iNEVE1IXcfnZAqXMJctwf) | 3:34 | 2024-11-08 |  |
 | [On My Side \- Remix](https://open.spotify.com/track/36wdiBQwjv3z30mcwhNxxY) | [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg) | [On My Side \(Remix\)](https://open.spotify.com/album/1VDeXQO6HzzUWqhg56L88d) | 3:12 | 2023-12-01 | 2023-12-30 |
 | [On My Side \- Special Version](https://open.spotify.com/track/2PEMRlrIvROVjJB2teweLU) | [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [Swaggy Jay](https://open.spotify.com/artist/7xF9Cn1qxDwYhvrE4EGRU2), [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg) | [On My Side \(Special Version\)](https://open.spotify.com/album/7qnuW87VF7ec2OEX9B3B2z) | 3:12 | 2023-11-10 | 2023-12-15 |
 | [On Your Mind](https://open.spotify.com/track/04KUwRIhF44larsGftafww) | [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR) | [On Your Mind](https://open.spotify.com/album/4F5o1FzgVFzkld1x0960E8) | 3:27 | 2023-04-28 | 2023-05-26 |

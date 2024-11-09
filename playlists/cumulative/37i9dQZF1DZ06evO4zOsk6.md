@@ -4,7 +4,7 @@
 
 > This is Libido\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 2 min
+53 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Disparar](https://open.spotify.com/track/5h21CIvNQTXy2Xh91hwVY6) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo](https://open.spotify.com/album/5cEeV7MdJVVfr20xKUCuYY) | 2:42 | 2023-08-25 | 2024-07-08 |
 | [En Esta Habitación](https://open.spotify.com/track/1gAB76RAMN8sZl0PjKyqXA) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Hembra](https://open.spotify.com/album/1A9njpmy2SE4Ft9JqiDPmh) | 4:32 | 2023-08-25 |  |
 | [Esther Fe](https://open.spotify.com/track/6hBBssHaBL1h1bmUkkfECc) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb) | 3:52 | 2023-08-25 |  |
-| [Estoy Tan Gris](https://open.spotify.com/track/0I0QleAkiY1kPI8ZKm84EH) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Corazones Blancos](https://open.spotify.com/album/3aJCOemV1UhEtNYBDmpX7N) | 3:48 | 2023-08-25 |  |
+| [Estoy Tan Gris](https://open.spotify.com/track/0I0QleAkiY1kPI8ZKm84EH) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Corazones Blancos](https://open.spotify.com/album/3aJCOemV1UhEtNYBDmpX7N) | 3:48 | 2023-08-25 | 2024-11-09 |
 | [Fantasma](https://open.spotify.com/track/7zVdRFV3Uv2eiHXVcUx3fO) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5vFyCCzJ7ciDElxZisN3vs) | 3:42 | 2023-08-25 | 2024-07-08 |
 | [Fantasma \(En Vivo\)](https://open.spotify.com/track/6nITBK0KfnuoP7RJ8Mmfoi) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5vFyCCzJ7ciDElxZisN3vs) | 3:46 | 2024-07-19 |  |
 | [Frágil](https://open.spotify.com/track/4NkvNThbuHEwQ9elX0xtV9) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb) | 3:38 | 2023-08-25 |  |
@@ -52,7 +52,8 @@
 | [Sentir Que Hoy](https://open.spotify.com/track/689JndbnnR4l3KeVE0dQlR) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/1TCsjLo40mSF7VroxYyWVc) | 3:30 | 2023-08-25 |  |
 | [Sin Rencor](https://open.spotify.com/track/6SSJr60opa48UFAcbUCdGL) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb) | 4:39 | 2023-08-25 |  |
 | [Something](https://open.spotify.com/track/0m76CdizGAfdk7ARAYIqlN) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/1TCsjLo40mSF7VroxYyWVc) | 2:46 | 2023-08-25 |  |
-| [Tan Suave](https://open.spotify.com/track/4zOjJYRwuUBpA58Rzs0Hxs) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Corazones Blancos](https://open.spotify.com/album/3aJCOemV1UhEtNYBDmpX7N) | 3:42 | 2023-08-25 |  |
+| [Tan Suave](https://open.spotify.com/track/4zOjJYRwuUBpA58Rzs0Hxs) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Corazones Blancos](https://open.spotify.com/album/3aJCOemV1UhEtNYBDmpX7N) | 3:42 | 2023-08-25 | 2024-11-09 |
+| [Tan Suave](https://open.spotify.com/track/5W7tO6qnXKcUQAfeHSTZr4) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Rarezas](https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz) | 3:57 | 2024-11-09 |  |
 | [Tiempos Tranquilos](https://open.spotify.com/track/7eUWZNPCCqboNjdOWTidHv) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Hembra](https://open.spotify.com/album/1A9njpmy2SE4Ft9JqiDPmh) | 3:44 | 2023-08-25 |  |
 | [Tres](https://open.spotify.com/track/0cIxbSC4rzseQW4ohhnree) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Hembra](https://open.spotify.com/album/1A9njpmy2SE4Ft9JqiDPmh) | 3:42 | 2023-08-25 |  |
 | [Un Día Nuevo](https://open.spotify.com/track/5VYZqC5272yRi8tUPJXSxu) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/1TCsjLo40mSF7VroxYyWVc) | 4:03 | 2023-08-25 |  |

@@ -4,7 +4,7 @@
 
 > Le cinéma ça s'écoute aussi.
 
-179 songs - 10 hr 22 min
+180 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Amore mio aiutami \- Main Theme](https://open.spotify.com/track/29KwH2LEjfWEtiC2jCrLVw) | [Piero Piccioni](https://open.spotify.com/artist/2WPn0emjr8XPmMOT0bBcPe) | [Amore mio aiutami \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ekkoKz391PScKKZRCmgDF) | 3:54 | 2022-09-07 | 2023-02-25 |
 | [An der schönen blauen Donau, Op\. 314](https://open.spotify.com/track/4igBCsHpFW2GpD1jvyqvsZ) | [Johann Strauss II](https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) | [Waltz of Spring](https://open.spotify.com/album/6kVm63Gx3fSup4hJupOaEH) | 9:53 | 2023-02-24 | 2023-03-27 |
 | [An der schönen blauen Donau, Op.314](https://open.spotify.com/track/5siXMmAafNxDlgcsLsqL9R) | [Johann Strauss II](https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) | [2001 \- A Space Odyssey](https://open.spotify.com/album/3AzJfHje1Uym5QC5vt7WKK) | 10:00 | 2023-02-24 |  |
-| [Anyone Else but You](https://open.spotify.com/track/7mOYvqE4mvNWW0Oe3O9DxG) | [Michael Cera](https://open.spotify.com/artist/4xXQxNcBCtsaz6Gw1IblE3), [Elliot Page](https://open.spotify.com/artist/0P6soo9LS5O854DcUpEtSc) | [Juno \(Music From The Motion Picture\)](https://open.spotify.com/album/5QLWzI3zMjxnI4ry0Wu6IS) | 1:56 | 2023-02-24 |  |
+| [Anyone Else but You](https://open.spotify.com/track/7mOYvqE4mvNWW0Oe3O9DxG) | [Michael Cera](https://open.spotify.com/artist/4xXQxNcBCtsaz6Gw1IblE3), [Elliot Page](https://open.spotify.com/artist/0P6soo9LS5O854DcUpEtSc) | [Juno \(Music From The Motion Picture\)](https://open.spotify.com/album/5QLWzI3zMjxnI4ry0Wu6IS) | 1:56 | 2023-02-24 | 2024-11-09 |
 | [Back To The Future](https://open.spotify.com/track/5F7I0CfdEnVSPlwFabMyIi) | [The Outatime Orchestra](https://open.spotify.com/artist/2taffC19qE4FkJpPPfMzqw) | [Back To The Future \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0jz1nb6dEh9PvRZr9bs387) | 3:17 | 2023-02-24 | 2024-04-19 |
 | [Back To The Future \- From "Back To The Future" Original Score/End Credits](https://open.spotify.com/track/1QV4g4uyxy8Xdl7tk0dnDv) | [The Outatime Orchestra](https://open.spotify.com/artist/2taffC19qE4FkJpPPfMzqw) | [Back To The Future \(Original Motion Picture Soundtrack / Expanded Edition\)](https://open.spotify.com/album/0ljBxAkQyTKVXudfE34wAL) | 3:15 | 2023-02-24 |  |
 | [Balcony Scene \(Tonight\)](https://open.spotify.com/track/63qvbi2vkMATRpLUTiuSdu) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3), [Ansel Elgort](https://open.spotify.com/artist/59mjRp0i1B8oWSSMmGWJlJ) | [West Side Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16oKZSg3msLgn69IK1puzi) | 5:24 | 2022-09-07 | 2022-12-29 |
@@ -57,6 +57,7 @@
 | [End of Line \- From "TRON: Legacy"/Score](https://open.spotify.com/track/72MoCPAnz0UljAVmwHHw3Y) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [TRON: Legacy](https://open.spotify.com/album/4US3nmuLIKELhVZdBPiKxx) | 2:36 | 2022-09-07 | 2023-02-25 |
 | [Everybody Needs Somebody to Love](https://open.spotify.com/track/1CtKHwDqsH3ctcCCI18N0g) | [The Blues Brothers](https://open.spotify.com/artist/1cHFz6lrt7KAsBV8j2Ny1g) | [The Blues Brothers Original Motion Picture Soundtrack](https://open.spotify.com/album/4cO51KBYsdsbmSZleoNEGH) | 3:23 | 2022-09-07 |  |
 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 | 2023-02-24 |  |
+| [Eyes Without A Face](https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:59 | 2024-11-08 |  |
 | [Fame](https://open.spotify.com/track/5CI1FP2Volc9wjz2MBZsGx) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [Fame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dmq3geiHxPk20sTt8sXxy) | 5:16 | 2022-09-07 | 2023-02-25 |
 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 | 2023-02-24 |  |
 | [Fly](https://open.spotify.com/track/2RNSfPATZyTxLUiR2U1COp) | [Bloodwitch](https://open.spotify.com/artist/7zH4MT9tanEBfwulqDiId5) | [I Am Not Okay With This \(Music from the Netflix Original Series\)](https://open.spotify.com/album/62k6nl7RqHgBzXkEwVgIzz) | 4:26 | 2022-09-07 | 2022-12-29 |

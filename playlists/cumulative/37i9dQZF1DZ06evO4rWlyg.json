@@ -2195,6 +2195,24 @@
     },
     {
       "album": {
+        "name": "Bachelorette",
+        "url": "https://open.spotify.com/album/39Fb88UfdYfcWayWsMgfmb"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157426,
+      "name": "Scary",
+      "url": "https://open.spotify.com/track/2O5D1JQwfukgpqTmDmROER"
+    },
+    {
+      "album": {
         "name": "Mount Wittenberg Orca (Expanded Edition)",
         "url": "https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly"
       },

@@ -2665,6 +2665,28 @@
     },
     {
       "album": {
+        "name": "King Of America & Other Realms (Super Deluxe / 2024 Remaster)",
+        "url": "https://open.spotify.com/album/7MkPAc92bB8Narc9jcy7Sf"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        },
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248626,
+      "name": "That's Not The Part Of Him You're Leaving",
+      "url": "https://open.spotify.com/track/4YGHGOsDtXZpWiN6s2Ziag"
+    },
+    {
+      "album": {
         "name": "The Sound of the Ocean Sound",
         "url": "https://open.spotify.com/album/1R7itsLluYqsOGTDVVEeaV"
       },

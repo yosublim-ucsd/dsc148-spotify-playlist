@@ -4,7 +4,7 @@
 
 > Representantes de la rima Charrúa\. Foto: Zeballos.
 
-106 songs - 5 hr 32 min
+107 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Timba Tumba](https://open.spotify.com/track/1eFl4GEGHqTIfo5GCeB8TP) | [Gula](https://open.spotify.com/artist/0z6vMOXncHabKtz4zNC7dB) | [Timba Tumba](https://open.spotify.com/album/5frh243NUmXWp6TjwTLFoN) | 2:29 | 2023-06-16 |  |
 | [Turn Back the Clock \(Hoodíos Latinos\)](https://open.spotify.com/track/7i4F6NvyBrnvGd7ooifIWq) | [Hip Hop Hoodíos](https://open.spotify.com/artist/4XCsXbYymp4llp1QsK5aEm), [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Santi Mostaffa](https://open.spotify.com/artist/3oVa1dCIWhoJ4cTFgrEgWG) | [Turn Back the Clock \(Hoodíos Latinos\)](https://open.spotify.com/album/5u95qNGZqZ11JzmIJF6C7o) | 3:33 | 2023-06-16 |  |
 | [Técnica Obscena \- En Vivo](https://open.spotify.com/track/2Lc7n3K69QSFEPlPNm1sks) | [AFC](https://open.spotify.com/artist/5EOi4iopwT7JCvwft1knJl), [Luciano Supervielle](https://open.spotify.com/artist/0cVBzbJ1qk2pergJG8jbSC) | [Técnica Obscena \(En Vivo\)](https://open.spotify.com/album/7LCqgX5cZIkfk0yWXrO71X) | 3:27 | 2023-06-16 |  |
+| [VAINA](https://open.spotify.com/track/7y9cb4xdAEjFERx0Nav9JU) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ), [Bruno Cammá](https://open.spotify.com/artist/6TMLl5HJtRsq3RcU932WJE) | [VAINA](https://open.spotify.com/album/4epK4uNXbwPpQ0qmCGxTOW) | 2:56 | 2024-11-08 |  |
 | [Vengan a Salvarnos](https://open.spotify.com/track/4aKgj60NDge3F9sM22LNdV) | [Agustin Casulo](https://open.spotify.com/artist/1MIfUzoY2n15mLL9NAfcUR) | [Lázaro](https://open.spotify.com/album/7jnbMGDFvFfegFs3Z46en1) | 2:53 | 2023-06-16 | 2024-04-19 |
 | [Vengan a Salvarnos](https://open.spotify.com/track/2OoycOBXevjGZAYNQa9AG7) | [Agustin Casulo](https://open.spotify.com/artist/1MIfUzoY2n15mLL9NAfcUR), [Gavo](https://open.spotify.com/artist/6a4vjdtgYYdro1VozKKhA1) | [Lazaro](https://open.spotify.com/album/2YGuz2lbiSGypS6D7axqIj) | 2:53 | 2023-10-27 |  |
 | [Viendo el Sol](https://open.spotify.com/track/09wBkuyFrE7TQHjxctzCn8) | [AFTER](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Viendo el Sol](https://open.spotify.com/album/21yMNcPPAvc1Px0ge24ZiH) | 1:37 | 2023-09-08 |  |

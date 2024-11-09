@@ -4,7 +4,7 @@
 
 > Brand new music from Myles Smith \(pictured\), Griff, Zach Bryan and more!
 
-13,322 songs - 29 day 23 hr 15 min
+13,323 songs - 29 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4144,6 +4144,7 @@
 | [Freezing](https://open.spotify.com/track/7reh67rES37v1n9grDX6HO) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:56 | 2023-03-03 | 2023-03-10 |
 | [French Riviera](https://open.spotify.com/track/1narRB8YDs0h77LwNvCDPv) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [French Riviera](https://open.spotify.com/album/3Irs9pckio6dyVVeNt3LQL) | 3:35 | 2024-05-30 | 2024-06-07 |
 | [French Tips](https://open.spotify.com/track/6ydEPFYftZ6q23eZkEuCMs) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [French Tips](https://open.spotify.com/album/7Mf5LhbdykNYBawotafmSP) | 2:12 | 2024-02-16 | 2024-02-23 |
+| [French Tips \(feat\. Coco Jones\)](https://open.spotify.com/track/3pPlFiN3TLqHd5uXnRr4Cv) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [DAROLD](https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0) | 3:06 | 2024-11-08 |  |
 | [FRENEMIES](https://open.spotify.com/track/6I7W8UTxONZaAYfeUb0AzE) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [FRENEMIES](https://open.spotify.com/album/23J0ze8Ram84QML5PlboAz) | 3:10 | 2024-08-01 | 2024-08-09 |
 | [FRESH AND NEW](https://open.spotify.com/track/6jkkBQC3drJYtL03cl6vS3) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [FRESH AND NEW](https://open.spotify.com/album/6y5eGkaWm3HPeuMi8P7fiy) | 2:25 | 2024-07-04 | 2024-07-12 |
 | [Fresh Out The Bank \(feat\. Dave\)](https://open.spotify.com/track/6MmnTuOVSGCcW0qX20nvIv) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Respect The Come Up](https://open.spotify.com/album/1MLRMDDQlOdUPBUcpc7XmB) | 4:15 | 2022-11-18 | 2022-11-25 |
@@ -8582,7 +8583,7 @@
 | [One of a Kind](https://open.spotify.com/track/4SbhFbZdJMEPHABg4igsLn) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [One of a Kind](https://open.spotify.com/album/1dIp8QkzrM97K9JHaTTjnQ) | 2:45 | 2022-12-02 | 2022-12-09 |
 | [One of a Kind](https://open.spotify.com/track/4luxPAHAX8fDU1FEO6vo98) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [One of a Kind](https://open.spotify.com/album/7GAwx0MMqgkrrpOwrCK4Cw) | 2:56 | 2024-09-05 | 2024-09-13 |
 | [One of Them](https://open.spotify.com/track/4f6QyxLjMTnziS5GnQeSy2) | [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [One of Them](https://open.spotify.com/album/2q9KnnQRZdpoviYxTyGKmL) | 3:37 | 2023-09-14 | 2023-09-22 |
-| [One Of Them](https://open.spotify.com/track/6NLQOu4ScjSpun8yFJyJMo) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [One Of Them](https://open.spotify.com/album/5fEKE5MtAGoi4z6bEe8Rmo) | 3:39 | 2024-11-08 |  |
+| [One Of Them](https://open.spotify.com/track/6NLQOu4ScjSpun8yFJyJMo) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [One Of Them](https://open.spotify.com/album/5fEKE5MtAGoi4z6bEe8Rmo) | 3:06 | 2024-11-08 |  |
 | [One Of These Things First](https://open.spotify.com/track/53jAAVSt8qF0yaXdeW4oYq) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [One Of These Things First](https://open.spotify.com/album/1QLnqe0nRy0JkJX3lCa4hq) | 3:39 | 2023-06-15 | 2023-06-23 |
 | [One Of Us](https://open.spotify.com/track/07IKYVGXYta34nMlu6OWit) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [One Of Us](https://open.spotify.com/album/0u59JNRwvPl2rfN5OIY8Zn) | 2:58 | 2023-01-13 | 2023-01-20 |
 | [one of wun](https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:24 | 2024-05-09 | 2024-05-17 |

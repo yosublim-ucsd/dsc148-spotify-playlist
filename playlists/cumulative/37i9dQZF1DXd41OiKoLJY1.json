@@ -54697,6 +54697,28 @@
     },
     {
       "album": {
+        "name": "WYA?",
+        "url": "https://open.spotify.com/album/3H9YWzWCf6T93CZpCDGRHH"
+      },
+      "artists": [
+        {
+          "name": "Alpha Phia",
+          "url": "https://open.spotify.com/artist/3bkrGwgkizjF6f5XnBY5PX"
+        },
+        {
+          "name": "FRNC$",
+          "url": "https://open.spotify.com/artist/3HV8wp2Ojvxp2hkUm0bZ1K"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206276,
+      "name": "WYA?",
+      "url": "https://open.spotify.com/track/5GPkMFq3aiNSCm3iRXCg52"
+    },
+    {
+      "album": {
         "name": "wyd?",
         "url": "https://open.spotify.com/album/0AdYHPvx5bi3LyZV2qJgij"
       },

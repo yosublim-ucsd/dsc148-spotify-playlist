@@ -5799,6 +5799,28 @@
     },
     {
       "album": {
+        "name": "Praise To The Bass",
+        "url": "https://open.spotify.com/album/01WXivam8OeD3OrHuYyHFX"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187008,
+      "name": "Praise To The Bass",
+      "url": "https://open.spotify.com/track/79dJRAdykQcSXlGTKdMThu"
+    },
+    {
+      "album": {
         "name": "Pulsar",
         "url": "https://open.spotify.com/album/5AtZcD5sFFXL0tyCLNaBEb"
       },

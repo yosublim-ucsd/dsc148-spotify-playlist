@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Waxahatchee
+> A new shade of Country\. Cover: Flatland Cavalry
 
-594 songs - 1 day 12 hr 19 min
+596 songs - 1 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-09-08 | 2024-06-15 |
 | [Hey There, Dolly](https://open.spotify.com/track/6iu1XGjLr5xXPPCp0mrxc9) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Hey There, Dolly](https://open.spotify.com/album/0B2CXYIcGPmwblaZvKbueY) | 3:13 | 2024-05-10 | 2024-06-29 |
 | [High Heels](https://open.spotify.com/track/1K2YZyRxCsUSIoqAriiYQj) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [High Heels](https://open.spotify.com/album/6yIGyDzTIV1nkyN6Po3U2u) | 3:22 | 2022-03-04 | 2022-04-02 |
+| [High Road](https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [High Road](https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu) | 3:19 | 2024-11-08 |  |
 | [High School Gym](https://open.spotify.com/track/27PWfmplymTZ5jEQdkhKYf) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [High School Gym](https://open.spotify.com/album/7eOiQEZJn0rl9DzcK7kATJ) | 4:10 | 2022-08-19 | 2023-04-09 |
 | [Highway](https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Highway](https://open.spotify.com/album/28DIYKUAZVKQUeXXT2aiA6) | 4:21 | 2021-12-17 | 2022-05-20 |
 | [Highway 87](https://open.spotify.com/track/5gDmnDXs2Sjcn05lC0HvFV) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Highway 87](https://open.spotify.com/album/3tn7XFpPkbf8z8bNjvXzi0) | 3:20 | 2022-01-21 | 2022-07-29 |
@@ -454,6 +455,7 @@
 | [Sober Sundays](https://open.spotify.com/track/0RINbw97uN5KZ1BFprCNDj) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG), [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Sober Sundays](https://open.spotify.com/album/1UYX5uec1lJJMf01haehiZ) | 4:10 | 2024-07-26 |  |
 | [Social Skills](https://open.spotify.com/track/0O4ydjVdSxl8WeG3w8cltv) | [John Fullbright](https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA) | [Social Skills](https://open.spotify.com/album/6pQ5s6xzxHukAt8yWHxJWr) | 2:24 | 2022-09-16 | 2023-05-27 |
 | [Solitary Road](https://open.spotify.com/track/2nRcwYvF3RPx0rXTmRGHyc) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Solitary Road](https://open.spotify.com/album/4wHGvE8T3rOrUeUuY9iPoM) | 3:31 | 2024-04-05 | 2024-05-08 |
+| [Some Things Never Change](https://open.spotify.com/track/0pP8lCq9MTZh3QDw7nSjpP) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Welcome To Countryland](https://open.spotify.com/album/3eMDuIysSkp3nUlmTrxbfx) | 3:20 | 2024-11-08 |  |
 | [Some Things Never Change](https://open.spotify.com/track/0lGav1fK5Yv0N9dWhUpmKJ) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Some Things Never Change](https://open.spotify.com/album/27P6tqUt8wakV6N9UP8RBW) | 3:20 | 2021-12-17 | 2022-03-26 |
 | [Somebody Just Like Me](https://open.spotify.com/track/3N8P57zfeILMnUP90DZH40) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [BOOTCUT](https://open.spotify.com/album/3tvR5wPT639FKdAfdzPcuC) | 2:33 | 2023-07-14 | 2024-09-07 |
 | [Something About What Happens When We Talk](https://open.spotify.com/track/3UHWekceJvs3fvvFxKeLtU) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Something About What Happens When We Talk](https://open.spotify.com/album/1N7DJFOtSYiQEY4GfFYYH3) | 3:40 | 2022-08-12 | 2023-03-04 |

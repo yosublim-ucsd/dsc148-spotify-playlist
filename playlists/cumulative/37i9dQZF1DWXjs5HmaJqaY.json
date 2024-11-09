@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 383661,
       "name": "A.I.",
       "url": "https://open.spotify.com/track/3Eo8smdiC7vGoglZwHOMt4"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 495468,
       "name": "Acid Mixture",
       "url": "https://open.spotify.com/track/73ll72z97lOW0iPIaZsZvR"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 489448,
       "name": "Black Swan",
       "url": "https://open.spotify.com/track/1j8f8Hbddk4CUFfYQ9wGgL"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 330923,
       "name": "Captivate",
       "url": "https://open.spotify.com/track/27ZKMnicAlGrQDOwERJzk8"
@@ -752,7 +752,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 372960,
       "name": "Connected",
       "url": "https://open.spotify.com/track/3j37H9NKUj6gkE7APkuhyw"
@@ -796,7 +796,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 347826,
       "name": "Cosmic Evolution - DSTRTD SGNL Remix",
       "url": "https://open.spotify.com/track/74PJtZf9qSGmVmZLmLiRFi"
@@ -872,7 +872,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 375618,
       "name": "Dark City Angels",
       "url": "https://open.spotify.com/track/3QLLqEVbSBL2iOfC6oHOZK"
@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 220150,
       "name": "DJ Made My Day",
       "url": "https://open.spotify.com/track/4zbglHXk900LOnyiYjE5E0"
@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 255005,
       "name": "Generation",
       "url": "https://open.spotify.com/track/6IroDQQ1cXenz2vcw7pJGq"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 294222,
       "name": "Genetic",
       "url": "https://open.spotify.com/track/3YZD9YXJbnJpTYm2ZPYRzT"
@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 246042,
       "name": "Give A Little Bit",
       "url": "https://open.spotify.com/track/17mSLidLd8RFDgF2pNge3q"
@@ -1796,7 +1796,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 390977,
       "name": "Hangxiety",
       "url": "https://open.spotify.com/track/28f17VAedyfqKIx1MShnnG"
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 379819,
       "name": "Hurt By Envy Cut By Greed",
       "url": "https://open.spotify.com/track/5nITAkOfYqDYK0CbcSeRCG"
@@ -2543,6 +2543,24 @@
     },
     {
       "album": {
+        "name": "Light & Love",
+        "url": "https://open.spotify.com/album/3ZDGXmGOrPw5yPoH3HgPvJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Wax",
+          "url": "https://open.spotify.com/artist/1b0WGyps7QC5KqSSq57wXX"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144985,
+      "name": "Light & Love - Radio-Edit",
+      "url": "https://open.spotify.com/track/1MlU8ZBhurAeznOmZut8Df"
+    },
+    {
+      "album": {
         "name": "Long Time",
         "url": "https://open.spotify.com/album/4YbNxKeo16NRhviluszpco"
       },
@@ -2740,10 +2758,28 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 346590,
       "name": "Madhouse - Extended MIx",
       "url": "https://open.spotify.com/track/0BZnWPtiZFFRb3SIhmDXgd"
+    },
+    {
+      "album": {
+        "name": "Maera",
+        "url": "https://open.spotify.com/album/1CHF2Xffze5hBN1aR1SzAg"
+      },
+      "artists": [
+        {
+          "name": "Julian Wassermann",
+          "url": "https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234240,
+      "name": "Maera",
+      "url": "https://open.spotify.com/track/0jAZh3fs1PnyXThQQdcs7E"
     },
     {
       "album": {
@@ -2860,7 +2896,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 393120,
       "name": "Maya",
       "url": "https://open.spotify.com/track/22ovEj9S16u6FCOdtgY10i"
@@ -3216,7 +3252,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 394285,
       "name": "On my Mind",
       "url": "https://open.spotify.com/track/1397ffAEnc6cv4jsESZlPj"
@@ -3234,7 +3270,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 547064,
       "name": "On Off",
       "url": "https://open.spotify.com/track/4scUsV40AYlpiXCb4s7UnN"
@@ -3662,7 +3698,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 526226,
       "name": "Red Wedding",
       "url": "https://open.spotify.com/track/6WO56O5QJgoSwDwOTsbIM9"
@@ -3872,7 +3908,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 365901,
       "name": "Sheila - Extended Version",
       "url": "https://open.spotify.com/track/7yZCEalj06thVc4ayPFW5R"
@@ -3912,7 +3948,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 424615,
       "name": "Shift Sequence - Rakom Remix",
       "url": "https://open.spotify.com/track/0rfFvNRcfEYdOCdxL6F2bz"
@@ -3948,10 +3984,28 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 389760,
       "name": "Sign My Way",
       "url": "https://open.spotify.com/track/0Sebfib4HlLwEYR4vgd0Q3"
+    },
+    {
+      "album": {
+        "name": "Me, Myself And I",
+        "url": "https://open.spotify.com/album/7kl6FAfFHL5nWl2njbGM75"
+      },
+      "artists": [
+        {
+          "name": "Loft 15 A",
+          "url": "https://open.spotify.com/artist/3H7elwiXJ63HlIyjOeLhtG"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389760,
+      "name": "Sign My Way",
+      "url": "https://open.spotify.com/track/4VWIVgGe2ZrTMdJtzDPdfz"
     },
     {
       "album": {
@@ -4238,7 +4292,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 386142,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/7LTf0dNnCeXKiAPvmAdQcV"
@@ -4384,7 +4438,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 402280,
       "name": "Stardust and Glitter",
       "url": "https://open.spotify.com/track/6TEAfm3Hh7JYNDHHj6MKHn"
@@ -4644,7 +4698,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 392423,
       "name": "Thought",
       "url": "https://open.spotify.com/track/5fYAIzCmrCEIk2OmooGp0n"
@@ -4706,6 +4760,28 @@
       "duration_ms": 234440,
       "name": "Time Of My Life - Edit",
       "url": "https://open.spotify.com/track/1fuOLh6glZaxNvDxU6vXp4"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/3tP716QSWyI4FK1lItJc4L"
+      },
+      "artists": [
+        {
+          "name": "Al-Faris",
+          "url": "https://open.spotify.com/artist/07LrIMW3EHnuoc5us4AGgm"
+        },
+        {
+          "name": "Andrew Wooden",
+          "url": "https://open.spotify.com/artist/2BcpCh7qQg8YDzAQ7XrxG2"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259500,
+      "name": "Timeless - AL-Faris & Andrew Wooden Preacher Man Vocal Mix",
+      "url": "https://open.spotify.com/track/4pQ5RU98gBPz9DGe5iQ2X3"
     },
     {
       "album": {
@@ -4830,7 +4906,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 182783,
       "name": "Tuvan",
       "url": "https://open.spotify.com/track/2qBJgqzTu3isR9gfh78b0c"
@@ -4906,7 +4982,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 294096,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/3Tnq724aKQ5aVP9lugAMeq"
@@ -5008,6 +5084,24 @@
       "duration_ms": 439188,
       "name": "Voices (feat. Dan Diamond)",
       "url": "https://open.spotify.com/track/1rzg4NUtl1hbo08uqWtAO4"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Discotheque 2024",
+        "url": "https://open.spotify.com/album/4tRr5qdrbGk8kCsAWAJQnT"
+      },
+      "artists": [
+        {
+          "name": "Si Begg",
+          "url": "https://open.spotify.com/artist/7nhc8jNe7dTkmv3UIF5iII"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311250,
+      "name": "Welcome To The Discotheque - Si Begg Total Fusion Remix",
+      "url": "https://open.spotify.com/track/6uA4gn96bLNgFfmm6cvG6G"
     },
     {
       "album": {

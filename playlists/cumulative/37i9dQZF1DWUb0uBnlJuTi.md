@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Skinny Hightower
 
-432 songs - 1 day 8 hr 54 min
+433 songs - 1 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Banana](https://open.spotify.com/track/35bQsQU2V38JJIIajM2khO) | [Basement Membrane](https://open.spotify.com/artist/269m1rza23RVLQ0ZeQApaL) | [Punk Funk](https://open.spotify.com/album/6YoyiensRcFI8eC9ryDPJE) | 4:06 | 2021-10-08 | 2024-04-19 |
 | [Banana](https://open.spotify.com/track/3lWMxUaH99svmD3GnuMZJb) | [Basement Membrane](https://open.spotify.com/artist/269m1rza23RVLQ0ZeQApaL) | [Punk Funk](https://open.spotify.com/album/6GRKvJCdPxrexuUO9nUPAC) | 4:06 | 2021-10-01 |  |
 | [Be on the Lookout](https://open.spotify.com/track/59fbbrUBjuN5H4NWzMi7CI) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Be on the Lookout](https://open.spotify.com/album/2lI3D4qYZkM4u9wAcTXRUA) | 3:13 | 2021-06-04 | 2023-03-11 |
+| [BEEF](https://open.spotify.com/track/3IrwWVOz5YZNuOcilwwzqX) | [Andrew Huang](https://open.spotify.com/artist/7HifubxN0gO1nHbRIqWhrY), [4L3X 4LM1R4LL](https://open.spotify.com/artist/3NZb54JKVDSE7E333Tx39z) | [BEEF](https://open.spotify.com/album/2HAfxkMuf3MSAFrPJaFS4H) | 2:54 | 2024-11-08 |  |
 | [Better Day's Are Coming](https://open.spotify.com/track/6mJlNbnQL5hlwmAVI56nfS) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y), [Mats Öberg](https://open.spotify.com/artist/3LUqfl7mVVnNwfCpE6s4RD) | [Better Day's Are Coming](https://open.spotify.com/album/3qNRh6bl4LpSgMfT4owJSE) | 4:14 | 2022-02-04 |  |
 | [Biff](https://open.spotify.com/track/2BUFIIwxakMPTvQAJTjV8D) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Biff](https://open.spotify.com/album/2AVASYr7bkRFHrlKE4rjjp) | 4:02 | 2023-03-24 | 2024-03-30 |
 | [Big Brother](https://open.spotify.com/track/706lD4ZY9A3uWNLjPYSpaV) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Daniel Wytanis](https://open.spotify.com/artist/59FNzYPBlL9ILle4RZE1ln) | [Big Brother](https://open.spotify.com/album/3wDuX7ZXEZZycoU5XVTg5n) | 6:01 | 2024-03-01 | 2024-03-23 |
@@ -115,7 +116,7 @@
 | [El Jonito](https://open.spotify.com/track/4LvpjpTB9SJEVNINopueyX) | [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV), [Martin Wangermée](https://open.spotify.com/artist/6Cko0OY4MlDWb57nLFMV4q), [Alexis Bourguignon](https://open.spotify.com/artist/3KbkoymkBIQF812bJQYPPE), [Robinson Khoury](https://open.spotify.com/artist/1L0xfJpihhDB3N8GEbmV6J), [Stéphane Guillaume](https://open.spotify.com/artist/2JmUauyONacBoIcYvSggJr), [Lucas Saint\-Cricq](https://open.spotify.com/artist/7AB1iv55p57sSmfa9d7GsI), [Nicolas Folmer](https://open.spotify.com/artist/42oVkAbF0mIgvyFEIfeUUQ), [Adriano Dos Santos Tenorio](https://open.spotify.com/artist/4s4GAWdKDa4sB0wQpA70lS), [Jeremy Bruyere](https://open.spotify.com/artist/27B9cx6PSADN8csmFRU0Tj) | [El Jonito](https://open.spotify.com/album/6ssT3ZX7pn4Ud0V1JWeHuW) | 3:41 | 2022-06-03 |  |
 | [Empire](https://open.spotify.com/track/37IQoTfeVqNx5Q4KtUKgkD) | [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Empire](https://open.spotify.com/album/0JRjksr7Dl8jX1ecE4r3uK) | 4:47 | 2023-10-20 |  |
 | [ENDING CREDITS](https://open.spotify.com/track/3JaYwewAoUnMSQ6KvO6mr0) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [ENDING CREDITS](https://open.spotify.com/album/0PBNwpqu4wNZD5C31H9NJk) | 4:42 | 2024-06-21 | 2024-07-27 |
-| [Everything Is Changing](https://open.spotify.com/track/2plqXe2wauMgMHQLSDwWBD) | [Groove Collective](https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg) | [The Best of Groove Collective](https://open.spotify.com/album/6Z3d1nnm9V24kAb6t5ejuj) | 5:40 | 2020-10-09 |  |
+| [Everything Is Changing](https://open.spotify.com/track/2plqXe2wauMgMHQLSDwWBD) | [Groove Collective](https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg) | [The Best of Groove Collective](https://open.spotify.com/album/6Z3d1nnm9V24kAb6t5ejuj) | 5:40 | 2020-10-09 | 2024-11-09 |
 | [Everything Is Changing](https://open.spotify.com/track/5CB7h8v5ASu05I9oN2AThZ) | [Groove Collective](https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg) | [Declassified](https://open.spotify.com/album/5Qi3Ifed8PIXJjlpGEcsMk) | 5:49 | 2020-10-09 | 2024-04-19 |
 | [Exotic Rose](https://open.spotify.com/track/3uYuaFdOFuqJCPTwUy3K8K) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Exotic Rose](https://open.spotify.com/album/0JsFB9OZbY0lBEnTBxiGNf) | 4:50 | 2024-03-01 |  |
 | [Expansions](https://open.spotify.com/track/1DoWUjcc5sqpRioFPioogU) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK), [The Cosmic Echoes](https://open.spotify.com/artist/1FoHP9nats6BdxFSE3b1sb) | [Expansions](https://open.spotify.com/album/7p96a8I3q2MRN5Ely3WiVm) | 6:06 | 2020-10-09 | 2024-04-19 |

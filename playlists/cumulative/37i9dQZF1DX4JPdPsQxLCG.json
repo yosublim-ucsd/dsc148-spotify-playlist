@@ -1672,7 +1672,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 265413,
       "name": "Darlin' Baby",
       "url": "https://open.spotify.com/track/0vpbwaxy9qlx9u1bvGqTJR"
@@ -2854,6 +2854,24 @@
       "duration_ms": 187280,
       "name": "Heart of Gold",
       "url": "https://open.spotify.com/track/2PtznJ8G7F1fsOABk9pXIr"
+    },
+    {
+      "album": {
+        "name": "Heart of Gold",
+        "url": "https://open.spotify.com/album/1cMeCtprtHWW2XytkPUthL"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171607,
+      "name": "Heart of Gold",
+      "url": "https://open.spotify.com/track/1VQfrKbnGSZnEFoGpfVnS8"
     },
     {
       "album": {
@@ -5348,7 +5366,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 177104,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn"
@@ -6078,6 +6096,24 @@
       "duration_ms": 248960,
       "name": "She-La",
       "url": "https://open.spotify.com/track/3DiLy3nFyiVLoh7weZ6EhR"
+    },
+    {
+      "album": {
+        "name": "SHELL ( OF A MAN )",
+        "url": "https://open.spotify.com/album/7LDJQ920ux5U1bOZvexKX3"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219294,
+      "name": "SHELL ( OF A MAN )",
+      "url": "https://open.spotify.com/track/6dRl26fre0x2OcUCtObfmP"
     },
     {
       "album": {
@@ -7577,6 +7613,24 @@
     },
     {
       "album": {
+        "name": "Things I Do",
+        "url": "https://open.spotify.com/album/5DtMuYQNgVTcKnnBcUIeFe"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147106,
+      "name": "Things I Do",
+      "url": "https://open.spotify.com/track/36E354SbfSrguSDLNUbMXi"
+    },
+    {
+      "album": {
         "name": "Songs to Break Up To",
         "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
       },
@@ -7988,7 +8042,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 218973,
       "name": "Weighty Ghost",
       "url": "https://open.spotify.com/track/1kVEX9FBvKC8531ALTrNfl"

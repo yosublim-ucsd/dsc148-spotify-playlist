@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-210 songs - 15 hr 35 min
+211 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [I Fall In Love Too Easily](https://open.spotify.com/track/5YLwLTd5iacl6v2wVZLDb8) | [Yotam Ishay](https://open.spotify.com/artist/3ABpfCZ60PQjECYhCuXRWs) | [SEED](https://open.spotify.com/album/1VHxkrq4ZeKF0JaeoGvNtg) | 5:28 | 2022-04-13 |  |
 | [I Get Along Without You Very Well](https://open.spotify.com/track/36ijrUpp53t9EBJa31Yus4) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 3:32 | 2022-07-21 | 2024-04-19 |
 | [I Get Along Without You Very Well](https://open.spotify.com/track/5aP8QI1DPbQxrkBpvgszLd) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You should have told me](https://open.spotify.com/album/7r95H4DvXQI3N8Pa0jwPEp) | 3:32 | 2022-04-13 |  |
-| [I Loves You, Porgy](https://open.spotify.com/track/0sXqm4fPFlsvQFg7YVzrHE) | [Norma Winstone](https://open.spotify.com/artist/0CRQWqvYVd26x1RHVzzBy5) | [Like Song, Like Weather](https://open.spotify.com/album/7AdnrCG683BZgTuuoJ2dfg) | 6:06 | 2022-04-13 |  |
+| [I Loves You, Porgy](https://open.spotify.com/track/0sXqm4fPFlsvQFg7YVzrHE) | [Norma Winstone](https://open.spotify.com/artist/0CRQWqvYVd26x1RHVzzBy5) | [Like Song, Like Weather](https://open.spotify.com/album/7AdnrCG683BZgTuuoJ2dfg) | 6:06 | 2022-04-13 | 2024-11-09 |
 | [I Loves You, Porgy](https://open.spotify.com/track/4saZV3enmCs9p3JfdtpCwn) | [Norma Winstone](https://open.spotify.com/artist/0CRQWqvYVd26x1RHVzzBy5) | [Like Song, Like Weather](https://open.spotify.com/album/3GXSmLkrNU89CpYIuv9QD7) | 6:06 | 2022-07-21 | 2023-12-23 |
 | [I Loves You, Porgy](https://open.spotify.com/track/5JuynDUgSFwGcMwI6NLJMj) | [Norma Winstone](https://open.spotify.com/artist/0CRQWqvYVd26x1RHVzzBy5) | [Like Song, Like Weather](https://open.spotify.com/album/2n0R187nSftqJQX2TinKrb) | 6:06 | 2023-12-20 | 2024-04-19 |
 | [I Only Have Eyes For You](https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo) | [Chris Weeks](https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO) | [I Only Have Eyes For You](https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF) | 4:10 | 2023-06-21 |  |
@@ -160,6 +160,7 @@
 | [Peel Me A Grape](https://open.spotify.com/track/5lBhqsWIzC9YtjkDaFsynh) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Scenes](https://open.spotify.com/album/13vOgfmCMpWRzgggSu4Di9) | 5:52 | 2022-04-13 | 2022-07-29 |
 | [Peel Me A Grape](https://open.spotify.com/track/7d78grkC9XhKXKJf44so32) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Scenes](https://open.spotify.com/album/0BY7XVm9kLLwDmQfXFL8G8) | 5:52 | 2022-07-21 | 2022-11-15 |
 | [Perhaps You'll Wonder Why](https://open.spotify.com/track/3iJDdT5rSv6SAY5W21PHsp) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [Perhaps You’ll Wonder Why](https://open.spotify.com/album/5JjlmBr6SE9dY2xAKO1jrr) | 4:45 | 2022-05-05 |  |
+| [Real Estate Agent Love Song](https://open.spotify.com/track/6yaMzZVhbnfUTZFACcNGSf) | [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [She's Not Shiny, She’s Not Smooth](https://open.spotify.com/album/4WBSsRF7rfr2uHzgJoP0JA) | 4:46 | 2024-11-08 |  |
 | [Round Midnight](https://open.spotify.com/track/2xEiuO49zj433EvPjBuf7I) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph) | [Staying in Touch](https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL) | 7:45 | 2022-04-13 |  |
 | [Skylark](https://open.spotify.com/track/7pM1ZCbo5MamKTCVhTKLY0) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Skylark](https://open.spotify.com/album/3eqgxkZCEJ8dlBTMqGhgiF) | 4:34 | 2023-02-16 |  |
 | [Slow Waltz](https://open.spotify.com/track/5pm7RLC2S2Rwdv7O2XdI2l) | [Kristin Berardi](https://open.spotify.com/artist/1EqUnXUwgLiIB4yeITSHLs), [Miro Sprague](https://open.spotify.com/artist/4jyJaO0v3uJ6xPwj6wLpv1), [Marty Jaffe](https://open.spotify.com/artist/77PTPIIjkVSfDVlhaTozgY), [Jerome Jennings](https://open.spotify.com/artist/5VylmyXlKSkixZchRWjx7j), [Sam Anning](https://open.spotify.com/artist/6JIn4P9GnPmLuIhN2JIPJJ) | [The Light and the Dark](https://open.spotify.com/album/1qxPX9S4J6SsD0X97yri3W) | 5:49 | 2023-08-24 |  |

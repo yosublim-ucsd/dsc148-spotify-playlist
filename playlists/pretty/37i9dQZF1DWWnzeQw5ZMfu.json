@@ -1,6 +1,6 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Gracie Abrams",
-  "num_followers": 70081,
+  "num_followers": 70087,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
@@ -443,18 +443,18 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "101 (Live)",
-        "url": "https://open.spotify.com/album/55f8HG5qMzgexZhZdOLs3h"
+        "name": "Cassy O' (EP)",
+        "url": "https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 241293,
-      "name": "Just Can't Get Enough - Live at Rose Bowl, Pasadena, CA - June 18, 1988",
-      "url": "https://open.spotify.com/track/5poxEW2Xw9UDv4jhHdqGCG"
+      "duration_ms": 209306,
+      "name": "Budapest - Live from Spotify Stockholm",
+      "url": "https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Cassy O' (EP)",
-        "url": "https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x"
+        "name": "101 (Live)",
+        "url": "https://open.spotify.com/album/55f8HG5qMzgexZhZdOLs3h"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         }
       ],
-      "duration_ms": 209306,
-      "name": "Budapest - Live from Spotify Stockholm",
-      "url": "https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w"
+      "duration_ms": 241293,
+      "name": "Just Can't Get Enough - Live at Rose Bowl, Pasadena, CA - June 18, 1988",
+      "url": "https://open.spotify.com/track/5poxEW2Xw9UDv4jhHdqGCG"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Pandemonium (Live at the O2 Arena, London - 21 December 2009)",
-        "url": "https://open.spotify.com/album/3ndAvT7Tca2KclpKe9BbbL"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 223226,
-      "name": "Always on My Mind - Live at the O2 Arena, London - 21 December 2009",
-      "url": "https://open.spotify.com/track/78j9FMDQ5hRt0JTDHYEvg3"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "A New Day...Live In Las Vegas",
         "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 256866,
       "name": "I'm Alive - Live at The Colosseum at Caesars Palace, Las Vegas, Nevada - November 2003",
       "url": "https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "Pandemonium (Live at the O2 Arena, London - 21 December 2009)",
+        "url": "https://open.spotify.com/album/3ndAvT7Tca2KclpKe9BbbL"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 223226,
+      "name": "Always on My Mind - Live at the O2 Arena, London - 21 December 2009",
+      "url": "https://open.spotify.com/track/78j9FMDQ5hRt0JTDHYEvg3"
     },
     {
       "added_at": "2024-10-18 19:54:54",

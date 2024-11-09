@@ -4391,6 +4391,32 @@
     },
     {
       "album": {
+        "name": "Me Rindo",
+        "url": "https://open.spotify.com/album/6d95cXygvxvaiRrbhgeBgF"
+      },
+      "artists": [
+        {
+          "name": "Rik",
+          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
+        },
+        {
+          "name": "El Doble K",
+          "url": "https://open.spotify.com/artist/4isHbp1LrcVnarUj7o6N6I"
+        },
+        {
+          "name": "PABLO STR",
+          "url": "https://open.spotify.com/artist/5HVLO75TZ9L98F1szI5vp4"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134745,
+      "name": "Me Rindo",
+      "url": "https://open.spotify.com/track/3aSsFEE57DoecIbSJalI1z"
+    },
+    {
+      "album": {
         "name": "Mexicano",
         "url": "https://open.spotify.com/album/5uwsm1fHlt5xPJp1BRQgyx"
       },
@@ -4502,7 +4528,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 227813,
       "name": "Mi Oveja Perdida (Ft. Kevin Ice)",
       "url": "https://open.spotify.com/track/0sI1eqpAXh6eMMuhp7NMSf"
@@ -6196,6 +6222,28 @@
       "duration_ms": 294901,
       "name": "PRESO Y MOSTROSIAO",
       "url": "https://open.spotify.com/track/3uqDOi2zjDhXH5zMxIquKC"
+    },
+    {
+      "album": {
+        "name": "Probando",
+        "url": "https://open.spotify.com/album/2lcAeu6NTQ4KLd2vaWw51V"
+      },
+      "artists": [
+        {
+          "name": "Lorna",
+          "url": "https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3"
+        },
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132383,
+      "name": "Probando",
+      "url": "https://open.spotify.com/track/4l0oY5yBecnsRbpcpYtgLr"
     },
     {
       "album": {
@@ -7942,7 +7990,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 321882,
       "name": "Tus Demonios",
       "url": "https://open.spotify.com/track/3ht9J1hwY8fkGo0jZWIEi3"

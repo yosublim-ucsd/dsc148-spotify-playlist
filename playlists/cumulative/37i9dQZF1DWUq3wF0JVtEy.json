@@ -622,7 +622,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 146249,
       "name": "Baila Conmigo",
       "url": "https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl"
@@ -662,7 +662,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 144677,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH"
@@ -852,7 +852,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 166363,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR"
@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 168000,
       "name": "Body Movin",
       "url": "https://open.spotify.com/track/1avxb29PtG3NgJrJEg0ZU3"
@@ -2024,7 +2024,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 172067,
       "name": "DELTA",
       "url": "https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U"
@@ -2194,7 +2194,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 137419,
       "name": "Do It All Again",
       "url": "https://open.spotify.com/track/6BwPstqf4RoRMbDidFWNxE"
@@ -2312,6 +2312,24 @@
       "duration_ms": 156190,
       "name": "Don't Step On My Nikes",
       "url": "https://open.spotify.com/track/60rwDygmXmbkD5OVc508y9"
+    },
+    {
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/55vK8u3nIuOGLwg2t2TwmE"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177187,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/1exrUHaSRlgqZspTt4iRpB"
     },
     {
       "album": {
@@ -2724,7 +2742,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 155002,
       "name": "Eye To Eye",
       "url": "https://open.spotify.com/track/6wJJSeYggU23fFSiZoWj4U"
@@ -2768,6 +2786,24 @@
       "duration_ms": 202515,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/1evX3NUBE7QujnSmky2ox4"
+    },
+    {
+      "album": {
+        "name": "Face Off",
+        "url": "https://open.spotify.com/album/4b0zRtK8MecEecbsxIQJMG"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Face Off",
+      "url": "https://open.spotify.com/track/3MMRDkrBFf5hRcFaXxRvIG"
     },
     {
       "album": {
@@ -3048,7 +3084,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 219345,
       "name": "For The People",
       "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
@@ -3848,7 +3884,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 141692,
       "name": "Hello",
       "url": "https://open.spotify.com/track/4Sl7FLTwgrbbBaGYEEJ9ee"
@@ -3968,7 +4004,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 206250,
       "name": "Hooked",
       "url": "https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM"
@@ -4378,7 +4414,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 150234,
       "name": "I'm Drunk (feat. AMY MIY\u00da)",
       "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
@@ -4400,7 +4436,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 180480,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY"
@@ -4426,6 +4462,24 @@
       "duration_ms": 197760,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/2Uk3eji99feKwQWknWUx4P"
+    },
+    {
+      "album": {
+        "name": "BASS RELATED VOL. 1",
+        "url": "https://open.spotify.com/album/6atF5QM5DJdbqtJqFlyLsN"
+      },
+      "artists": [
+        {
+          "name": "Merow",
+          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168281,
+      "name": "ILY",
+      "url": "https://open.spotify.com/track/3vE4BK9rlQRRCnuguRTCuT"
     },
     {
       "album": {
@@ -4476,7 +4530,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 189214,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/77WJjvXF8XVavIPXicIYW2"
@@ -4838,7 +4892,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 182769,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/4x8mvegC6XJG0K9i3EpnxN"
@@ -5514,7 +5568,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 208615,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/44cRgaHpKEq4d2qPqotGIr"
@@ -5832,7 +5886,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 154838,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/2i6FWcstV4Ct72L4ORnfwZ"
@@ -5872,7 +5926,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 247896,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
@@ -5964,6 +6018,24 @@
       "duration_ms": 199384,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/0tjviLADqxF7DtolJgJLf1"
+    },
+    {
+      "album": {
+        "name": "Midnight Trip",
+        "url": "https://open.spotify.com/album/6HNCtwAe16YWpp2i5HKbk6"
+      },
+      "artists": [
+        {
+          "name": "TOYZZ",
+          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194545,
+      "name": "Midnight Trip",
+      "url": "https://open.spotify.com/track/0kcM5HzMLTc3K15an6nZcJ"
     },
     {
       "album": {
@@ -6296,6 +6368,28 @@
       "duration_ms": 156190,
       "name": "Naughty",
       "url": "https://open.spotify.com/track/78mKxouHttqRkAl7IeyRiU"
+    },
+    {
+      "album": {
+        "name": "NEVER STOPPIN'",
+        "url": "https://open.spotify.com/album/6PlQYo9TonGHnlaWNVQaFg"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "Nouni",
+          "url": "https://open.spotify.com/artist/4QujGIlqVG7lX2MjyJKWww"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143809,
+      "name": "NEVER STOPPIN'",
+      "url": "https://open.spotify.com/track/5KZUcvttKBPePQjLPCl3Rl"
     },
     {
       "album": {
@@ -6852,7 +6946,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 220898,
       "name": "NRG",
       "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"
@@ -9244,7 +9338,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 162187,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/29mfJk6aT99UhjzIidSLow"
@@ -9416,7 +9510,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 137204,
       "name": "TikTak",
       "url": "https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc"
@@ -9712,6 +9806,24 @@
       "duration_ms": 238806,
       "name": "U & Me - Vincent Remix",
       "url": "https://open.spotify.com/track/6WvlIbyEEjZqbsxBlGGM7H"
+    },
+    {
+      "album": {
+        "name": "UK?",
+        "url": "https://open.spotify.com/album/5tkfM4N8WjfIRT5ippCaGZ"
+      },
+      "artists": [
+        {
+          "name": "Nico Falla",
+          "url": "https://open.spotify.com/artist/4AkU9yNDom7FVL65WjszS1"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144374,
+      "name": "UK?",
+      "url": "https://open.spotify.com/track/2JaAeQFK8kzwXfjgrZqFZ7"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Billy Porter",
-  "num_followers": 129629,
+  "num_followers": 129665,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxHdQAAAAAB8wNNHErNQ7zxsIsQtPjCp",
+  "snapshot_id": "Zy2a0AAAAABRy46r1xA5OTBd8KjZNuuB",
   "tracks": [
     {
       "added_at": "2024-09-06 04:00:00",
@@ -23,6 +23,34 @@
       "duration_ms": 304488,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/1D7yD0chLEPc1Q73YV1hFt"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Race Of Survival (30 Years Remixes)",
+        "url": "https://open.spotify.com/album/2d6qhcYNHudDEx9itA1gPU"
+      },
+      "artists": [
+        {
+          "name": "Seamus Haji",
+          "url": "https://open.spotify.com/artist/2f6jGbE8VU74rb5AQtOdFz"
+        },
+        {
+          "name": "Stephen Granville",
+          "url": "https://open.spotify.com/artist/38RCcOI88gPD8QFrevbVB2"
+        },
+        {
+          "name": "DJ Spen",
+          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
+        },
+        {
+          "name": "Michele Chiavarini",
+          "url": "https://open.spotify.com/artist/5ec2x41RmuQqBYAKbQ7nhr"
+        }
+      ],
+      "duration_ms": 240975,
+      "name": "Race Of Survival - DJ Spen & Michele Chiavarini Praise Party Mix",
+      "url": "https://open.spotify.com/track/5dMwgQKfoQcSHOzKpNwloJ"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1359,26 +1387,6 @@
       "duration_ms": 264000,
       "name": "Out of Your Mind",
       "url": "https://open.spotify.com/track/6hzfmSXnmXPhOXs6aWH0JC"
-    },
-    {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "About Damn Time (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 218476,
-      "name": "About Damn Time - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
     },
     {
       "added_at": "2023-04-14 04:01:00",

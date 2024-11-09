@@ -201,6 +201,28 @@
     },
     {
       "album": {
+        "name": "Golden Dreams",
+        "url": "https://open.spotify.com/album/4LACHbANnX0DZvUmd1BRmN"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Fanny Azzuro",
+          "url": "https://open.spotify.com/artist/4gimE4iQI4mmItU9MyTH9z"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74520,
+      "name": "24 Preludes, Op. 28: No. 19 in E-Flat Major, Vivace",
+      "url": "https://open.spotify.com/track/62BVl9s6WGLAA6VOZVucdH"
+    },
+    {
+      "album": {
         "name": "24 Pr\u00e9ludes, Op. 28/No. 15 in D-Flat Major \"Raindrop\" - Sostenuto",
         "url": "https://open.spotify.com/album/5wRbHwgKw55R4ZQO6Uqq5d"
       },
@@ -1467,6 +1489,28 @@
     },
     {
       "album": {
+        "name": "Kindness",
+        "url": "https://open.spotify.com/album/0q6TkS6KL7l6gjeyoDHtQQ"
+      },
+      "artists": [
+        {
+          "name": "Karen LeFrak",
+          "url": "https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo"
+        },
+        {
+          "name": "Jacques van Tuinen",
+          "url": "https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69291,
+      "name": "Kindness",
+      "url": "https://open.spotify.com/track/31vbhWL8EkGGQzqqpCJRJP"
+    },
+    {
+      "album": {
         "name": "Schumann : Kreisleriana, Op. 16: IV. Sehr langsam",
         "url": "https://open.spotify.com/album/0aRCmGD4UnHLGP1EsR3Kub"
       },
@@ -2466,6 +2510,28 @@
       "duration_ms": 120416,
       "name": "Verdi La Traviata Variation (From La Traviata: Libiamo ne' lieti calici, Arr. for 2 Pianos by Tim Allhoff)",
       "url": "https://open.spotify.com/track/4p3oHYbeC9arOhFklV1w8h"
+    },
+    {
+      "album": {
+        "name": "Chopin: Waltz in A Minor \u201cFound in New York\u201d (2024 World Premiere Recording)",
+        "url": "https://open.spotify.com/album/6oHqI3Nn30wSBHb9eQksq0"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81080,
+      "name": "Waltz in A Minor \u201cFound in New York\u201d - 2024 World Premiere Recording",
+      "url": "https://open.spotify.com/track/3Pmd3LaITgStVLitSsRAer"
     },
     {
       "album": {

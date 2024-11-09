@@ -879,6 +879,28 @@
     },
     {
       "album": {
+        "name": "Digital Night Drive",
+        "url": "https://open.spotify.com/album/0jvggA0QufnaIbh4S0as91"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        },
+        {
+          "name": "Mersiv",
+          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268941,
+      "name": "Digital Night Drive",
+      "url": "https://open.spotify.com/track/4NTkICndpBrjwZLwNofVBQ"
+    },
+    {
+      "album": {
         "name": "We Are Deadbeats Vol. 6",
         "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
       },

@@ -615,6 +615,28 @@
     },
     {
       "album": {
+        "name": "Weird Faith (Deluxe)",
+        "url": "https://open.spotify.com/album/7tLh0C7KXRxfS3z38zLBIa"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "For Months Now (III)",
+      "url": "https://open.spotify.com/track/2Ux1CJbtrJoAEf5YswahfX"
+    },
+    {
+      "album": {
         "name": "Older (and Wiser)",
         "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
       },

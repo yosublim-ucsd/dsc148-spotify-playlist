@@ -4,7 +4,7 @@
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.
 
-262 songs - 14 hr 33 min
+263 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Small Town Somethin'](https://open.spotify.com/track/2PYiiO6tPLmuCqNH2sV7J6) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Small Town Somethin'](https://open.spotify.com/album/0U1acuLEmKlqtPoiCX7vqU) | 2:32 | 2023-11-03 | 2024-02-03 |
 | [Smooth](https://open.spotify.com/track/334YfRsUNPz8YXKmnOfGdR) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Born Lonely](https://open.spotify.com/album/7000MO2d4WELTAJZdokU3d) | 3:30 | 2024-06-07 | 2024-08-17 |
 | [Sober Thing](https://open.spotify.com/track/6seAvadjjutVTkggYOh1to) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Sober Thing](https://open.spotify.com/album/6EY0avx8oulWJ9vSOB3oUZ) | 4:32 | 2023-12-01 | 2024-03-09 |
+| [Soldier \(feat\. Tom MacDonald\)](https://open.spotify.com/track/3qsO06KpkfyyXdui83McT6) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Tom MacDonald](https://open.spotify.com/artist/6DvlemMOlMH6VD9tB7BPRf) | [Soldier \(feat\. Tom MacDonald\)](https://open.spotify.com/album/2qasd7exvjxrXOpsu7XvOg) | 4:25 | 2024-11-08 |  |
 | [Solitary Road](https://open.spotify.com/track/2nRcwYvF3RPx0rXTmRGHyc) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Solitary Road](https://open.spotify.com/album/4wHGvE8T3rOrUeUuY9iPoM) | 3:31 | 2024-04-05 | 2024-05-04 |
 | [Solitude](https://open.spotify.com/track/534LueCImkuvFriDEIxUiS) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [How To Be Human](https://open.spotify.com/album/7toTchc8ZCYGYP4V05MziV) | 3:33 | 2024-07-02 | 2024-08-17 |
 | [Someone Like You \(with The Travelin' McCourys & Sierra Ferrell\)](https://open.spotify.com/track/0FzCkQZyXg3RAVe8hF3TbA) | [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Someone Like You \(with The Travelin' McCourys & Sierra Ferrell\)](https://open.spotify.com/album/6sAcLktZfPlaSfI6asWalH) | 5:01 | 2024-09-13 |  |
@@ -243,7 +244,7 @@
 | [Town Drunk](https://open.spotify.com/track/5bcMbweQWdLFuZN2oKGQEb) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Town Drunk](https://open.spotify.com/album/66767ZEiqXYKCzeEaL3tir) | 2:41 | 2024-07-26 | 2024-09-14 |
 | [Two Things](https://open.spotify.com/track/13zH3KnJYNaPbF8R0tfHPW) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Two Things](https://open.spotify.com/album/2zsmwdFND80TtWAYkrN6SA) | 3:35 | 2024-09-20 | 2024-10-26 |
 | [Wake Me Up \- The Bluegrass Rendition](https://open.spotify.com/track/71W7aqLRQQmrqnGA7U5mzB) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo), [Jake Vaadeland](https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3) | [Wake Me Up \(The Bluegrass Rendition\)](https://open.spotify.com/album/5nNr9tOefpudgC4QLcwh3g) | 4:23 | 2024-05-24 | 2024-07-20 |
-| [Walked on Water \(feat\. Kesha\)](https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Obsessed](https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib) | 3:20 | 2024-08-16 |  |
+| [Walked on Water \(feat\. Kesha\)](https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Obsessed](https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib) | 3:20 | 2024-08-16 | 2024-11-09 |
 | [Wanna Be Loved](https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wanna Be Loved](https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ) | 3:37 | 2024-05-24 | 2024-08-24 |
 | [weren't for the wind](https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [weren't for the wind](https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN) | 3:13 | 2024-10-04 |  |
 | [What Good Is A Memory](https://open.spotify.com/track/1D2YDvtJMgg8GQmYeAyPQF) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [What Good Is A Memory](https://open.spotify.com/album/1OPUwabpaUsTM3hI7CPcuR) | 2:46 | 2024-08-09 | 2024-09-28 |

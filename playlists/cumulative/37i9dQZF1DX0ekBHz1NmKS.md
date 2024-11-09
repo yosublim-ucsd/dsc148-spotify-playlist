@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,679 songs - 3 day 15 hr 9 min
+1,679 songs - 3 day 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 | 2022-07-28 | 2023-09-21 |
 | [Aniara](https://open.spotify.com/track/2etg8kht5wOz5BBWNCW7pv) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Jag fortsätter glömma](https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW) | 4:49 | 2022-05-30 | 2023-03-25 |
 | [Ansvar \(feat\. Eye N'I\)](https://open.spotify.com/track/04s4HwrYbwCVFGLpUOqQlu) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Eye N'I](https://open.spotify.com/artist/5NnyV6RNHKNEqZcS4tZl4Y) | [Ansvar \(feat\. Eye N'I\)](https://open.spotify.com/album/4eJhP9tP0wiyjV9KPO9sNc) | 2:55 | 2022-06-30 | 2022-11-18 |
-| [Antidote to Heaven](https://open.spotify.com/track/5hRfnPIy63J6k1AlJA3Avp) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw) | [Antidote to Heaven](https://open.spotify.com/album/2Lkj7EcrqwnPOO4nIHf4tD) | 2:37 | 2024-09-26 | 2024-10-19 |
+| [Antidote to Heaven](https://open.spotify.com/track/5hRfnPIy63J6k1AlJA3Avp) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw) | [Antidote to Heaven](https://open.spotify.com/album/2Lkj7EcrqwnPOO4nIHf4tD) | 2:05 | 2024-09-26 |  |
 | [Antikens Under](https://open.spotify.com/track/0NjXIUaR5epf2jmOOUV5fD) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Antikens Under](https://open.spotify.com/album/4JZT3spMaO9JZv83nr3hfy) | 4:05 | 2024-10-24 |  |
 | [Anymore](https://open.spotify.com/track/3K24ijM6H0WiL8mdwNzpib) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Anymore](https://open.spotify.com/album/0ZOLG8MyLqmC3YriQ14my6) | 3:17 | 2024-10-17 |  |
 | [Apple Cider Vinaigrette](https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Apple Cider Vinaigrette](https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg) | 3:44 | 2024-08-29 | 2024-11-08 |
@@ -1563,7 +1563,7 @@
 | [Verktygslådan](https://open.spotify.com/track/6z1PzNtoUQG2SjWpxb6USn) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Verktygslådan](https://open.spotify.com/album/7GSZ8je5bbyUyja0HgZUCs) | 2:47 | 2024-06-13 | 2024-08-16 |
 | [VERTIGO](https://open.spotify.com/track/4V82PgRDvzQwppU72Aapel) | [DREAMDNVR](https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb) | [VERTIGO](https://open.spotify.com/album/7CIVfrjREC95ffpAFKCbCl) | 3:03 | 2022-05-12 | 2022-06-06 |
 | [Vet Hon Om?](https://open.spotify.com/track/0078peqORcMMXbcYEfeLkk) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Vet Hon Om?](https://open.spotify.com/album/0a4tSc39xsFYlKIY1XBB9K) | 3:04 | 2023-01-29 | 2023-10-06 |
-| [Vi](https://open.spotify.com/track/6RiAMPOYq8cCAe4vG7T2D0) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Vi](https://open.spotify.com/album/7obLFqKLmYBdXvtqQTxRWK) | 2:47 | 2024-08-29 |  |
+| [Vi](https://open.spotify.com/track/6RiAMPOYq8cCAe4vG7T2D0) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Vi](https://open.spotify.com/album/7obLFqKLmYBdXvtqQTxRWK) | 2:47 | 2024-08-29 | 2024-11-09 |
 | [Vi har iallafall inte tråkigt](https://open.spotify.com/track/04sCtFgz3Dwl5vZjK1XtSI) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [Vi har iallafall inte tråkigt](https://open.spotify.com/album/3Fxsxgafsz6WFyUTyHHtlY) | 2:40 | 2022-02-20 | 2022-05-09 |
 | [Vi kommer aldrig](https://open.spotify.com/track/7kGS4wTFv3Mzu41Uxbcei8) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F), [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Vi kommer aldrig](https://open.spotify.com/album/5ey4CjvDR571IBBvhyRQew) | 3:13 | 2024-05-30 | 2024-06-28 |
 | [Vi ska aldrig gå hem](https://open.spotify.com/track/7iSuirVvJsBXZ95UEd9vQ0) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [DOM SKA VETA](https://open.spotify.com/album/1ubnXqf93xsAR7EruzPL5L) | 3:15 | 2021-12-16 | 2023-10-06 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "They got next in their regions and beyond. Cover: <a href=\"spotify:artist:4nqQTosM2Mbg7iRjvJU0N0\">Samara Cyn</a> ",
+  "description": "They got next in their regions and beyond. Cover: <a href=\"spotify:artist:1J1pGfTqp5ReVIX8Z1Wzsg\">BabyChiefDoit</a> ",
   "name": "Ripple Effect",
   "tracks": [
     {
@@ -4080,7 +4080,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 178346,
       "name": "Closure (with Cash Cobain)",
       "url": "https://open.spotify.com/track/5RXnHx69EemG0EXsmhtfki"
@@ -4276,6 +4276,24 @@
       "duration_ms": 190653,
       "name": "Come My Way (feat. Krayzie Bone)",
       "url": "https://open.spotify.com/track/774RwZfAI8Ge5RcFu0pzD6"
+    },
+    {
+      "album": {
+        "name": "Richey Rich",
+        "url": "https://open.spotify.com/album/2P2kHr1m4bZUN9fNn7eyYB"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Come Outside (So Sick)",
+      "url": "https://open.spotify.com/track/6ueIEZa5Gbu6n9jLdFUyh9"
     },
     {
       "album": {
@@ -4996,7 +5014,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 196653,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/3eiomYz0vDT53dgoPd5vIX"
@@ -6690,7 +6708,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 192631,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ"
@@ -6966,10 +6984,32 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 104886,
       "name": "For Me",
       "url": "https://open.spotify.com/track/3blAqiAP9f44Kt3R7pQabP"
+    },
+    {
+      "album": {
+        "name": "Nardy World",
+        "url": "https://open.spotify.com/album/546FvdeuoSf9FA2o6RMpOy"
+      },
+      "artists": [
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203624,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/2mo4wJKJJR2lQCZYnTaI4Y"
     },
     {
       "album": {
@@ -7682,7 +7722,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 179413,
       "name": "GLOVES & DRACS (BLACK AF1s)",
       "url": "https://open.spotify.com/track/7hHHAzXHSh37g0PD3RdUbY"
@@ -12235,6 +12275,24 @@
     },
     {
       "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192933,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
+    },
+    {
+      "album": {
         "name": "My Ability",
         "url": "https://open.spotify.com/album/4ksFUZlag8pQV82WLLxivc"
       },
@@ -12392,6 +12450,24 @@
       "duration_ms": 201965,
       "name": "My Way",
       "url": "https://open.spotify.com/track/1yDbyNGxnz7k9IMrrbFnOd"
+    },
+    {
+      "album": {
+        "name": "ANIMALS ONLY (ICE COLD)",
+        "url": "https://open.spotify.com/album/44YtWCi7ahAV8wvmreYKaO"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172106,
+      "name": "Nachos",
+      "url": "https://open.spotify.com/track/1lo4xyLFWHNRVJKLbKi4FZ"
     },
     {
       "album": {
@@ -13116,7 +13192,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "OD CRASHIN",
       "url": "https://open.spotify.com/track/3LrsDFXueqCD3J53HfsLL6"

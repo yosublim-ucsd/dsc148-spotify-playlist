@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 35227,
+  "num_followers": 35274,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de la Sonora Cordobesa",
-        "url": "https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Cordobesa",
-          "url": "https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK"
-        }
-      ],
-      "duration_ms": 160606,
-      "name": "Bocachico Sinuano",
-      "url": "https://open.spotify.com/track/67dqgjkrOKmwyXFInRGCDa"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Sonido Digital Bailables",
         "url": "https://open.spotify.com/album/2jWWVfRu7kY8yq48Cd7nN2"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 209266,
       "name": "Adi\u00f3s",
       "url": "https://open.spotify.com/track/1prFNlcD5OYRNPJKqs8n2c"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de la Sonora Cordobesa",
+        "url": "https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Cordobesa",
+          "url": "https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK"
+        }
+      ],
+      "duration_ms": 160606,
+      "name": "Bocachico Sinuano",
+      "url": "https://open.spotify.com/track/67dqgjkrOKmwyXFInRGCDa"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1664,17 +1664,13 @@
       },
       "artists": [
         {
-          "name": "Lucho Cuadros",
-          "url": "https://open.spotify.com/artist/4mJGHbUaO9nCMEU1uSascK"
-        },
-        {
-          "name": "Eliecer Ochoa",
-          "url": "https://open.spotify.com/artist/1Wp7AgwEYs4sKtPCjvChwP"
+          "name": "Ismael Rudas",
+          "url": "https://open.spotify.com/artist/1Q9t63kYBZgRHiasXyNpo8"
         }
       ],
-      "duration_ms": 214226,
-      "name": "Te Est\u00e1n Matando los A\u00f1os",
-      "url": "https://open.spotify.com/track/6ofpm7g9hRfIDuP2VDY4u5"
+      "duration_ms": 178119,
+      "name": "El Viejo Ba\u00fal",
+      "url": "https://open.spotify.com/track/2xVpum8zwiaElEHB889JtU"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1704,13 +1700,17 @@
       },
       "artists": [
         {
-          "name": "Ismael Rudas",
-          "url": "https://open.spotify.com/artist/1Q9t63kYBZgRHiasXyNpo8"
+          "name": "Lucho Cuadros",
+          "url": "https://open.spotify.com/artist/4mJGHbUaO9nCMEU1uSascK"
+        },
+        {
+          "name": "Eliecer Ochoa",
+          "url": "https://open.spotify.com/artist/1Wp7AgwEYs4sKtPCjvChwP"
         }
       ],
-      "duration_ms": 178119,
-      "name": "El Viejo Ba\u00fal",
-      "url": "https://open.spotify.com/track/2xVpum8zwiaElEHB889JtU"
+      "duration_ms": 214226,
+      "name": "Te Est\u00e1n Matando los A\u00f1os",
+      "url": "https://open.spotify.com/track/6ofpm7g9hRfIDuP2VDY4u5"
     },
     {
       "added_at": "2024-07-12 23:11:55",

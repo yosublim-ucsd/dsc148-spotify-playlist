@@ -4678,7 +4678,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 124241,
       "name": "BEAMER LOVER",
       "url": "https://open.spotify.com/track/06JLGJgOAFRUkqmkvXItrv"
@@ -12228,6 +12228,32 @@
       "duration_ms": 164880,
       "name": "Drug worth doing",
       "url": "https://open.spotify.com/track/09mwvppceQhNgB16PAdqrb"
+    },
+    {
+      "album": {
+        "name": "Drum (feat. Lena Sue)",
+        "url": "https://open.spotify.com/album/0F0sDw76LcnHECLfxr0TUV"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        },
+        {
+          "name": "Lena Sue",
+          "url": "https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169717,
+      "name": "Drum (feat. Lena Sue)",
+      "url": "https://open.spotify.com/track/0PaxddTF3iYgbPBHitXX6V"
     },
     {
       "album": {
@@ -45377,6 +45403,24 @@
     },
     {
       "album": {
+        "name": "TikTok Sportlich",
+        "url": "https://open.spotify.com/album/6M32YCYXGR3rQbSEfjFlt4"
+      },
+      "artists": [
+        {
+          "name": "ZAH1DE",
+          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101954,
+      "name": "TikTok Sportlich",
+      "url": "https://open.spotify.com/track/6pGsdnKTuOgOR7CC9JGyLn"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF"
       },
@@ -47294,7 +47338,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 153500,
-      "name": "Vernetzt (feat. Big Pat)",
+      "name": "Vernetzt",
       "url": "https://open.spotify.com/track/3WquCmFXrhti6cLBeXn6CS"
     },
     {

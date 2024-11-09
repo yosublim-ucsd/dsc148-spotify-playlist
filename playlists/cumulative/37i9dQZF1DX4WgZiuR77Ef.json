@@ -966,7 +966,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 305760,
       "name": "Cross The Track",
       "url": "https://open.spotify.com/track/0E02hR1cBcwaGhZBKboKts"
@@ -2784,6 +2784,24 @@
       "duration_ms": 169810,
       "name": "Love Somebody",
       "url": "https://open.spotify.com/track/0R3eQDXzFLPdC9Q9Toj1ys"
+    },
+    {
+      "album": {
+        "name": "Down In The Dirt",
+        "url": "https://open.spotify.com/album/1VHJw1hxKnCopNKcK2M8z0"
+      },
+      "artists": [
+        {
+          "name": "Papa",
+          "url": "https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "Make Me Move",
+      "url": "https://open.spotify.com/track/0oP0QY4hep9CCwZJ9jRwZd"
     },
     {
       "album": {

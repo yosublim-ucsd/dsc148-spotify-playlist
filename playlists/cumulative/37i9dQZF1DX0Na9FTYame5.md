@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Montez
 
-139 songs - 6 hr 18 min
+140 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Bisou :\*](https://open.spotify.com/track/7dAI9IZpHaA9Lzhd8d60Tp) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Bisou :\*](https://open.spotify.com/album/6Y9pFqdaD1O343Vr9sZuR5) | 2:41 | 2024-06-28 |  |
 | [Bitterkalt](https://open.spotify.com/track/1yBLbvFknx6TPhInLR3bOh) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Bitterkalt](https://open.spotify.com/album/75I9L51LVqoKmZCBWYigsX) | 2:25 | 2024-06-28 | 2024-10-11 |
 | [Breaking your heart](https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Breaking your heart](https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg) | 2:50 | 2024-06-28 |  |
+| [Coming Home](https://open.spotify.com/track/1j0ua1p8vz5pnLwHKcRIeO) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG) | [Coming Home](https://open.spotify.com/album/5txv1AStdjW1j9yhCZIC1s) | 2:44 | 2024-10-24 |  |
 | [Daddy Issues](https://open.spotify.com/track/79MvFIuO9ehGPKzpD3ERWv) | [ANTHI](https://open.spotify.com/artist/6IkHFTRWPXeoJqL5DLcL6u) | [Daddy Issues](https://open.spotify.com/album/6p2zgYa7Su9vIJlmg0GmgB) | 2:35 | 2024-10-24 |  |
 | [Delulu](https://open.spotify.com/track/1KqYUtoOOq34KlgHhP1pSt) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Delulu](https://open.spotify.com/album/22HSiBwgz8V6M323doPvwd) | 1:59 | 2024-06-28 |  |
 | [Die Sonne](https://open.spotify.com/track/1TqC60H8LMZc4Gi4M56t6m) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1) | [Die Hoffnung klaut mir Niemand](https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI) | 2:54 | 2024-06-28 |  |
@@ -127,7 +128,7 @@
 | [Tagebuch](https://open.spotify.com/track/5uLJ84Xbogv04RLgMhJxNq) | [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Tagebuch](https://open.spotify.com/album/1QtK03Y9d4ufaBxbV5VPmn) | 2:18 | 2024-09-16 |  |
 | [tempo](https://open.spotify.com/track/2sTXJinZQxl58tFCTYtEqa) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [tempo](https://open.spotify.com/album/3T77zsspapRdhGH9FXf4A7) | 2:44 | 2024-06-28 |  |
 | [Tinnitus](https://open.spotify.com/track/4SamJ1uIL2OzAFgDGdnhx0) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Glas](https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6) | 3:02 | 2024-06-28 | 2024-10-11 |
-| [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-12 |  |
+| [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-12 | 2024-11-09 |
 | [ufos](https://open.spotify.com/track/2sR8MJNpZ2rucdoWlaAWK1) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [ufos](https://open.spotify.com/album/40wI7xjZ9bsRDtewoLXpTH) | 2:14 | 2024-08-22 |  |
 | [Uludağ und Sorgen](https://open.spotify.com/track/1kQKmatH0qVvnT05kJ0o4d) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Uludağ und Sorgen](https://open.spotify.com/album/3uR9ZiNsj3VU2x1E0VRNgT) | 3:06 | 2024-06-28 |  |
 | [Unsichtbar](https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Unsichtbar](https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi) | 2:23 | 2024-10-10 |  |

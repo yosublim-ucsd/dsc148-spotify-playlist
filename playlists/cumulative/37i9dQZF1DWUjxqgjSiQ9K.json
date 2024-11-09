@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:0rOLLmeuTbBAx7YKcVEECH\">Gabriel EMC</a> y <a href=\"spotify:artist:0WI8OfWCRvK4nGHmKfFQmd\">Alex Zurdo</a>",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:1E2ZsvpZKP4qMPNARv36W5\">Gocho</a>",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -3080,7 +3080,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 209026,
       "name": "Cuando Te Busco",
       "url": "https://open.spotify.com/track/0ZI4ue844ftpgHjaOdANLB"
@@ -8131,6 +8131,28 @@
     },
     {
       "album": {
+        "name": "Genesis (Level 1)",
+        "url": "https://open.spotify.com/album/6CTJC4wePxeLcw5017YfbY"
+      },
+      "artists": [
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214855,
+      "name": "Mi Cita Favorita",
+      "url": "https://open.spotify.com/track/5BAaLXQXVE1SB2xSLwc9QL"
+    },
+    {
+      "album": {
         "name": "Mi Confianza",
         "url": "https://open.spotify.com/album/0clBHCKiqXSQtLq8g87xju"
       },
@@ -9245,6 +9267,24 @@
     },
     {
       "album": {
+        "name": "No Soy El Mismo (Lado C)",
+        "url": "https://open.spotify.com/album/08chYpaWTSopN4t0AR3elu"
+      },
+      "artists": [
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146828,
+      "name": "No Soy El Mismo",
+      "url": "https://open.spotify.com/track/43Cn4CVlpTBOseALvTsjUY"
+    },
+    {
+      "album": {
         "name": "No S\u00e9",
         "url": "https://open.spotify.com/album/6jXL0Nm8MZT6Dv7kq3DLIR"
       },
@@ -9858,7 +9898,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 181774,
       "name": "Poco a Poco",
       "url": "https://open.spotify.com/track/1OMnykDpR1iqD7WycHrVWT"

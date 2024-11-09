@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-517 songs - 21 hr 59 min
+518 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Derinlerde](https://open.spotify.com/track/2FMpTiQVYvsrEfs2ovf8VA) | [Mehemmed Cavadov](https://open.spotify.com/artist/0IDJKadGl4ULmtE9fyEwbx) | [Derinlerde](https://open.spotify.com/album/1WKTBrfd5mr33FvC6ZVHMx) | 4:18 | 2024-06-17 |  |
 | [Des Tempêtes](https://open.spotify.com/track/1mxB3zWrUls8sB127vKThi) | [Dermott Reilly](https://open.spotify.com/artist/4m2y4IV1lkTrGLztYQH452) | [Des Tempêtes](https://open.spotify.com/album/5qCGjUEaXqyYHNFnA1BRSu) | 3:04 | 2024-10-23 |  |
 | [Desolation](https://open.spotify.com/track/2QgtSusCe8TwsoSBvLqtUG) | [Serge Quadrado](https://open.spotify.com/artist/3OE3mY6tzTJI6HUbUlfR0X) | [War Time](https://open.spotify.com/album/7Ls8KgBDSfyWTDDtzRR8uu) | 0:48 | 2023-10-29 | 2024-10-24 |
+| [Distance](https://open.spotify.com/track/1xe4Vl1FQZ4XlfDZEyj51m) | [Luis Sanic](https://open.spotify.com/artist/4WNqAzRi5xAbVB4nQyFU4t) | [Distance](https://open.spotify.com/album/4H8Hoo1mIWderi73JWSFMw) | 2:54 | 2024-11-08 |  |
 | [downward](https://open.spotify.com/track/3JO4cpgjp2bCNQbOYdhQqD) | [laurel green](https://open.spotify.com/artist/0D4IT1f1VhnbLSluIogLkk) | [downward](https://open.spotify.com/album/4jl4XTi0LQKVjerRrClIl4) | 2:23 | 2024-05-02 |  |
 | [Dragonspine Flourishing Past \(Piano\)](https://open.spotify.com/track/2itaD56DZaaR14MA3oAxo5) | [Beside Bed](https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj), [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Genshin Impact Relaxing Beside Bed Collection](https://open.spotify.com/album/2kxtzO6eCq7YwgybnWMyP3) | 2:09 | 2023-10-29 | 2024-05-03 |
 | [Dragonspine Ice Crystal \(Piano\)](https://open.spotify.com/track/40PDgSac63TceR2qfg4Lu7) | [Beside Bed](https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj), [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Genshin Impact Relaxing Beside Bed Collection](https://open.spotify.com/album/2kxtzO6eCq7YwgybnWMyP3) | 1:55 | 2023-10-29 | 2024-02-04 |
@@ -231,8 +232,8 @@
 | [Idea 7](https://open.spotify.com/track/3ko0xsWaiY5JrngiPUo2Wo) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 7 \(Remixes\)](https://open.spotify.com/album/4M2TENEd1JhGfDGVAEL7nU) | 2:30 | 2024-02-14 |  |
 | [Idea 7 \(Slowed + Reverb\)](https://open.spotify.com/track/1TMjYr0cOiVgiDsatvsQPI) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 7 \(Remixes\)](https://open.spotify.com/album/4M2TENEd1JhGfDGVAEL7nU) | 3:03 | 2024-02-14 | 2024-10-24 |
 | [Idea 7 \(Sped Up\)](https://open.spotify.com/track/10c2cDnd14oZQiMQsUksDd) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 7 \(Remixes\)](https://open.spotify.com/album/4M2TENEd1JhGfDGVAEL7nU) | 1:55 | 2024-02-14 | 2024-05-12 |
-| [Idea 9](https://open.spotify.com/track/3TdROUy5JZz1OcBKMZjeux) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 9](https://open.spotify.com/album/2BpRxtAl6IrHI2OQtd60PK) | 2:17 | 2023-10-29 |  |
-| [Idea 9](https://open.spotify.com/track/76OEZ6s2Bhtb7C6iPTkBcq) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 9 \(Slowed + Reverb\)](https://open.spotify.com/album/7MQS5VHSUiNrDy4q4ztXD4) | 2:17 | 2024-02-14 | 2024-10-12 |
+| [Idea 9](https://open.spotify.com/track/3TdROUy5JZz1OcBKMZjeux) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 9](https://open.spotify.com/album/2BpRxtAl6IrHI2OQtd60PK) | 2:17 | 2023-10-29 | 2024-11-09 |
+| [Idea 9](https://open.spotify.com/track/76OEZ6s2Bhtb7C6iPTkBcq) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 9 \(Slowed + Reverb\)](https://open.spotify.com/album/7MQS5VHSUiNrDy4q4ztXD4) | 2:17 | 2024-02-14 |  |
 | [Imagine](https://open.spotify.com/track/2rz92UCbIOP9R07EpL2cVn) | [Julian Byrd](https://open.spotify.com/artist/6xuFoS81N7OFQKHhhCdeVC) | [Imagine](https://open.spotify.com/album/63uupaK2j08GL5Xgf3QK0b) | 2:35 | 2023-10-29 | 2024-10-24 |
 | [Imposter Syndrome](https://open.spotify.com/track/3dJE6NiiWpyxK1W9jG3OHx) | [Dave Lewis](https://open.spotify.com/artist/11oTVF7PmAEYQKcD4HdBQ3) | [Imposter Syndrome](https://open.spotify.com/album/1zCQ0ywJ8iRpkEQMzTp2Xt) | 2:36 | 2023-10-29 |  |
 | [Improv 1](https://open.spotify.com/track/33o64ETPXh0PM3y1CWOqmV) | [Ojong](https://open.spotify.com/artist/4dTZemVIPE7mERe1klU9g0) | [Improv 1](https://open.spotify.com/album/2wJzodewcjz6WVkl7FagqE) | 2:25 | 2024-09-06 |  |

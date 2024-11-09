@@ -4,7 +4,7 @@
 
 > late night vibes – notifications off.
 
-147 songs - 6 hr 51 min
+149 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Intro \(Landmine\)](https://open.spotify.com/track/0LxTBLGeMgCTJZvcX8rI4c) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 1:08 | 2024-05-03 |  |
 | [Jodeci](https://open.spotify.com/track/0TqC5imTnHeNCZuSWn0ei1) | [Young Deji](https://open.spotify.com/artist/1t5tAYJj9NvTlAYjj7wXwX), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Enjoymenting 2](https://open.spotify.com/album/0v0whlimp895NskZy3CPuv) | 3:59 | 2024-06-07 | 2024-06-22 |
 | [L o s e M y M i n d](https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [L o s e M y M i n d](https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI) | 3:03 | 2024-04-12 | 2024-04-27 |
+| [Let it Go](https://open.spotify.com/track/3VRHouNm2rxSWm8IThc5YF) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [Let it Go](https://open.spotify.com/album/670MmC6oFMJXOzKPQyWR7p) | 2:36 | 2024-11-08 |  |
 | [Let Me Go](https://open.spotify.com/track/3KSy31qPrTqOcPXnebceQN) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Let Me Go](https://open.spotify.com/album/27csXPVTW3PLguY6vbGoH7) | 2:20 | 2024-04-19 |  |
 | [Like We Wrote](https://open.spotify.com/track/5kH4MnZQN9Ce4gaBquKInu) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Like We Wrote](https://open.spotify.com/album/2iLcNlQLxFzkWB8VxiJZpo) | 1:58 | 2024-05-31 |  |
 | [LIMERENCE](https://open.spotify.com/track/02NjZRiplUsrBgoa3shbKE) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [LIMERENCE](https://open.spotify.com/album/2dmZ1mL7C0ykfvY14Lpsd2) | 2:26 | 2024-09-27 |  |
@@ -107,6 +108,7 @@
 | [perfect timing](https://open.spotify.com/track/646HOaBSY3LfpbuIAnMrot) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [kame 'n left](https://open.spotify.com/album/0y4FkBE422R6D9C5VWeEh7) | 3:12 | 2024-06-21 |  |
 | [Pray For You](https://open.spotify.com/track/7LzSqk3OR3tsphAFlQOdXE) | [Qiuntellii](https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS) | [Leave You Have My Blessing](https://open.spotify.com/album/68rBZiD0gpBzLIE7P8Zgv7) | 3:00 | 2024-03-29 |  |
 | [PRBLMS](https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [FREE 6LACK](https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi) | 4:06 | 2024-02-02 | 2024-08-03 |
+| [Proper](https://open.spotify.com/track/0kVAuODyktRRJuwoTzulAK) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Proper](https://open.spotify.com/album/6lLjoAo2N8QS79uSbdTy1m) | 2:24 | 2024-11-08 |  |
 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-03-15 |  |
 | [Receipts](https://open.spotify.com/track/2xOjybeL1vGxDldY7IDnsw) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Receipts](https://open.spotify.com/album/5ReTSrbMWIIW8UN8ZCD7IP) | 3:24 | 2024-07-05 |  |
 | [RESET](https://open.spotify.com/track/5cxsqpBAzhPvityPDEFA7u) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [STREETS SAY YOU STILL MISS ME](https://open.spotify.com/album/2V9BmFd3tgAihAwcqb7hMl) | 2:43 | 2024-03-29 |  |

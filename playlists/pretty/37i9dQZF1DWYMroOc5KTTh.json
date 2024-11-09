@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 565643,
+  "num_followers": 566387,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -807,26 +807,6 @@
     {
       "added_at": "2024-11-07 16:40:28",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/08K52DkbBPpPB1YZqEt8yi"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        }
-      ],
-      "duration_ms": 195773,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/2yvPz2K18f1W2PTG8qSTpQ"
-    },
-    {
-      "added_at": "2024-11-07 16:40:28",
-      "album": {
         "name": "Brand New (feat. James Vincent McMorrow and A-Trak)",
         "url": "https://open.spotify.com/album/4DNFg3mPxTEIlGHpPK06Bd"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 308946,
       "name": "Brand New (feat. James Vincent McMorrow and A-Trak)",
       "url": "https://open.spotify.com/track/0gCLVhDXFT8iPC63rABwr4"
+    },
+    {
+      "added_at": "2024-11-07 16:40:28",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/08K52DkbBPpPB1YZqEt8yi"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        }
+      ],
+      "duration_ms": 195773,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2yvPz2K18f1W2PTG8qSTpQ"
     },
     {
       "added_at": "2024-11-07 16:40:28",

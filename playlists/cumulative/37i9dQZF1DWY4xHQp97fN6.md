@@ -2,9 +2,9 @@
 
 ### [Get Turnt](https://open.spotify.com/playlist/37i9dQZF1DWY4xHQp97fN6)
 
-> Mood: Turnt Cover: Playboi Carti
+> Mood: Turnt Cover: Future
 
-902 songs - 1 day 19 hr 31 min
+903 songs - 1 day 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,7 +500,7 @@
 | [Mosh Pit](https://open.spotify.com/track/6THwYdJS5zgKRDSsfoGXzW) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Mosh Pit](https://open.spotify.com/album/6EBvpW15VWYD7qwApsQeor) | 2:25 | 2023-08-25 | 2023-09-30 |
 | [Motion](https://open.spotify.com/track/6excfi52hCKksRlRt55VH2) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Motion](https://open.spotify.com/album/4gQHDKTolva19r36snfw8T) | 2:07 | 2022-11-18 | 2023-04-09 |
 | [Movie \(feat\. Az Chike\)](https://open.spotify.com/track/1X1EwijiXXOmEU5iMqhFT5) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [AzChike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 1:53 | 2024-03-01 | 2024-03-16 |
-| [Mr Chow](https://open.spotify.com/track/4YLizxRQsTqqnvzzYq2VaE) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:57 | 2024-11-01 |  |
+| [Mr Chow](https://open.spotify.com/track/4YLizxRQsTqqnvzzYq2VaE) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:57 | 2024-11-01 | 2024-11-09 |
 | [Mrs\. Davis](https://open.spotify.com/track/3LKd2tQ7VdOf1cENAKZCz0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Mrs\. Davis](https://open.spotify.com/album/6FVfrVKa2otpLyn5bVvHhR) | 3:57 | 2022-06-03 | 2022-11-12 |
 | [Mudbaby \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/4RCQPrRcIH7jFBJ8khMQn3) | [D3szn](https://open.spotify.com/artist/3XUSSPMccIhcVTQ2kOHJPn), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Mudbaby \(feat\. Kalan.FrFr\)](https://open.spotify.com/album/4ZIqCkN9QsLsYUPZKYxhjQ) | 2:24 | 2022-04-29 | 2022-07-16 |
 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 | 2022-09-23 | 2022-10-29 |
@@ -656,6 +656,7 @@
 | [Rich On Grape Street](https://open.spotify.com/track/3F6sLMtMvTeTrREKH2Y1Od) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Rich On Grape Street](https://open.spotify.com/album/1sjghOoEKmHQ9Uucxr012N) | 3:01 | 2023-08-25 | 2023-09-23 |
 | [Rich Spirit](https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:22 | 2022-09-09 | 2023-09-16 |
 | [Rick & Morty](https://open.spotify.com/track/1iAWDVZem3Vx3Pb8fTUTEL) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [Rick & Morty](https://open.spotify.com/album/5qHCL6S0C1jgH2XkxeAuQt) | 2:32 | 2021-11-03\* | 2021-12-04 |
+| [Right Now](https://open.spotify.com/track/1rujAl2i7jyiS3gGmZN7L5) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Right Now](https://open.spotify.com/album/3NnceSjaPrxdNfXAE3TX8f) | 2:47 | 2024-11-08 |  |
 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 | 2022-04-08 | 2022-10-15 |
 | [Ring Ring \(feat\. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign\)](https://open.spotify.com/track/7pFzbZz89oXVsRxhUvO7q2) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Ring Ring \(feat\. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign\)](https://open.spotify.com/album/6Op5Oqgnb443EjcHdAR5eY) | 3:06 | 2023-05-12 | 2023-07-08 |
 | [RNS](https://open.spotify.com/track/4b8zFITxLmN0rIbhuj5wub) | [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [RNS](https://open.spotify.com/album/7CRZBxNtX0t4bD3w5zQY78) | 2:18 | 2024-01-26 | 2024-06-22 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Lova",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Souldia",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -1730,6 +1730,32 @@
       "duration_ms": 179320,
       "name": "Big Boy Things",
       "url": "https://open.spotify.com/track/6N19wBDJfylFojLYJ7hNfe"
+    },
+    {
+      "album": {
+        "name": "BIG BUSINESS",
+        "url": "https://open.spotify.com/album/3ruYrP0e2e5ePa88Yy980D"
+      },
+      "artists": [
+        {
+          "name": "Remastered",
+          "url": "https://open.spotify.com/artist/6uvSVi5xnoa5UyD4E5Ik7r"
+        },
+        {
+          "name": "Baby Neelou",
+          "url": "https://open.spotify.com/artist/5bpO0XTVIGNUnClzfHHQUz"
+        },
+        {
+          "name": "Rosalvo",
+          "url": "https://open.spotify.com/artist/6AWsl1xDv2sVXnWjBPgR7q"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144597,
+      "name": "BIG BUSINESS",
+      "url": "https://open.spotify.com/track/6hul4BXqmAW1YLde5XT37t"
     },
     {
       "album": {
@@ -5298,7 +5324,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 195208,
       "name": "FRIENDS",
       "url": "https://open.spotify.com/track/2Bv2VTYdUFDZbwrxjkaY2s"
@@ -7494,7 +7520,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 178216,
       "name": "La Vie Qu'on M\u00e8ne",
       "url": "https://open.spotify.com/track/7GfY0L7uQV3ECjzbjTG1Re"
@@ -10902,7 +10928,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 153573,
       "name": "POW-WOW",
       "url": "https://open.spotify.com/track/4sgpAJeFKDyC01qLawb1mn"
@@ -13142,6 +13168,24 @@
       "duration_ms": 156774,
       "name": "Tension S",
       "url": "https://open.spotify.com/track/7mlAW4B88oQLCDLJfnMT09"
+    },
+    {
+      "album": {
+        "name": "NOCHE",
+        "url": "https://open.spotify.com/album/4elNnriocyEa75OIRSLZKK"
+      },
+      "artists": [
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192128,
+      "name": "TEQUILA",
+      "url": "https://open.spotify.com/track/5z5TCdZd6PDUuC54TOFlRH"
     },
     {
       "album": {

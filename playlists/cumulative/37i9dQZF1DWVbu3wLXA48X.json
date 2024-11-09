@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Bon Iver",
+  "description": "Current indie tunes from Asia and around the world. Cover: Peach Luffe",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -1216,6 +1216,24 @@
       "duration_ms": 266153,
       "name": "All I Can Say",
       "url": "https://open.spotify.com/track/2hYnHaHGzNcJ7ARh0q0sdp"
+    },
+    {
+      "album": {
+        "name": "Songs Of A Lost World",
+        "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321101,
+      "name": "All I Ever Am",
+      "url": "https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG"
     },
     {
       "album": {
@@ -3207,6 +3225,24 @@
     },
     {
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232290,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v"
+    },
+    {
+      "album": {
         "name": "Better (Edit)",
         "url": "https://open.spotify.com/album/6R34iy63JPKrzmIUxCHnW7"
       },
@@ -3320,6 +3356,24 @@
       "duration_ms": 226546,
       "name": "Better Now (feat. Rae Morris)",
       "url": "https://open.spotify.com/track/0Zu5Nb2llf36AMjYd1as45"
+    },
+    {
+      "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/57fPsISPRRdVmc57pYWY96"
+      },
+      "artists": [
+        {
+          "name": "Peach Luffe",
+          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172437,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/3H4fIfIbtXv0DKCLgl5cgI"
     },
     {
       "album": {
@@ -5868,7 +5922,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 249761,
       "name": "Circle Games",
       "url": "https://open.spotify.com/track/6VZRm4X4getEc5XG1wqDe5"
@@ -6195,6 +6249,32 @@
     },
     {
       "album": {
+        "name": "Coffee Me",
+        "url": "https://open.spotify.com/album/7hU1X0LDWL75KLlEwPSR2Q"
+      },
+      "artists": [
+        {
+          "name": "Doughbaby",
+          "url": "https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T"
+        },
+        {
+          "name": "Peej",
+          "url": "https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP"
+        },
+        {
+          "name": "Rees Gonzales",
+          "url": "https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217625,
+      "name": "Coffee Me",
+      "url": "https://open.spotify.com/track/7MMF2bie9SFZB1DLhUt8pz"
+    },
+    {
+      "album": {
         "name": "Flood",
         "url": "https://open.spotify.com/album/3un2FDbZwuK5JidL4OFaTW"
       },
@@ -6224,7 +6304,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 161389,
       "name": "Colonel",
       "url": "https://open.spotify.com/track/4cH2ISBM5QI1wwJy2HGGbf"
@@ -7976,7 +8056,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 266144,
       "name": "Disinfectant",
       "url": "https://open.spotify.com/track/2mJz2iy5io9WgzMrUrdoUV"
@@ -12806,7 +12886,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 262967,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/6Nhs9AGiApHVmgABL52CP4"
@@ -13989,6 +14069,24 @@
     },
     {
       "album": {
+        "name": "Hopelessly In Love",
+        "url": "https://open.spotify.com/album/6kk6khyB7eI5Rc1VKM0fZv"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166434,
+      "name": "Hopelessly In Love",
+      "url": "https://open.spotify.com/track/6v9aa1FPwDYW34YIbDsDaF"
+    },
+    {
+      "album": {
         "name": "From Capelton Hill",
         "url": "https://open.spotify.com/album/62FBD0LfoeSsvII9n3YeMo"
       },
@@ -14220,7 +14318,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 206500,
       "name": "Human Frailty",
       "url": "https://open.spotify.com/track/0CnWLDcUZgOzZMrYLXsWAI"
@@ -14860,6 +14958,24 @@
       "duration_ms": 190105,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/33bTQa936DdseMAkYG480W"
+    },
+    {
+      "album": {
+        "name": "I remember how your hands felt on mine",
+        "url": "https://open.spotify.com/album/51SGbfwir9zzbgr2N0BxfO"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195968,
+      "name": "I remember how your hands felt on mine",
+      "url": "https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy"
     },
     {
       "album": {
@@ -15572,6 +15688,24 @@
       "duration_ms": 217746,
       "name": "Inner Peace",
       "url": "https://open.spotify.com/track/79D28tx4kK2OVBFcEZHH6l"
+    },
+    {
+      "album": {
+        "name": "Come Ahead",
+        "url": "https://open.spotify.com/album/69oeXCLAa7NA3CfrCRFHlT"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213191,
+      "name": "Innocent Money - Edit",
+      "url": "https://open.spotify.com/track/2vjqlZE7rVhHL6m1psgJRV"
     },
     {
       "album": {
@@ -16638,6 +16772,28 @@
       "duration_ms": 199870,
       "name": "Knife Edge",
       "url": "https://open.spotify.com/track/53rYNxof2dWXRnH0bqKiQ2"
+    },
+    {
+      "album": {
+        "name": "HOSONO HOUSE COVERS",
+        "url": "https://open.spotify.com/album/53yoYgjDvXcd4kJoqyVDEz"
+      },
+      "artists": [
+        {
+          "name": "Pearl & The Oysters",
+          "url": "https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs"
+        },
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172879,
+      "name": "Koi Wa Momoiro",
+      "url": "https://open.spotify.com/track/3a056LkwJ477giSu5jM55R"
     },
     {
       "album": {
@@ -19043,6 +19199,24 @@
     },
     {
       "album": {
+        "name": "Big Smile, Black Mire",
+        "url": "https://open.spotify.com/album/6DPefrgbEGENBJsewlf58u"
+      },
+      "artists": [
+        {
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227640,
+      "name": "Metalhead",
+      "url": "https://open.spotify.com/track/6vBlEMm5JlUVZok4pfVjlu"
+    },
+    {
+      "album": {
         "name": "Meteorite",
         "url": "https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t"
       },
@@ -19742,7 +19916,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 205330,
       "name": "Mountain out of a Molehill",
       "url": "https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb"
@@ -20880,6 +21054,24 @@
       "duration_ms": 221800,
       "name": "NFU",
       "url": "https://open.spotify.com/track/1RG9wGYVd6YyrYDDUqz2LU"
+    },
+    {
+      "album": {
+        "name": "Night Charade",
+        "url": "https://open.spotify.com/album/72bKtxfFJlazTMYbOe1y6Z"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188297,
+      "name": "Night Charade",
+      "url": "https://open.spotify.com/track/7hd8t7SjAaDdcoMjUVAeEN"
     },
     {
       "album": {
@@ -23639,6 +23831,28 @@
     },
     {
       "album": {
+        "name": "Poeira Cosmica",
+        "url": "https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253482,
+      "name": "Poeira Cosmica",
+      "url": "https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR"
+    },
+    {
+      "album": {
         "name": "L\u00dcCY",
         "url": "https://open.spotify.com/album/5GLdc5aIjdvyO0U1U9sJKX"
       },
@@ -24584,7 +24798,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 207133,
       "name": "Ready To Go Home - Edit",
       "url": "https://open.spotify.com/track/68TghJcxcoPps8uJ0FbrKF"
@@ -28470,7 +28684,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 154118,
       "name": "Story of Love - Bonus Track",
       "url": "https://open.spotify.com/track/4I2tsiTax25cnOfHpx1pAN"
@@ -29720,7 +29934,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 127832,
       "name": "Tears In The Typing Pool [Demo]",
       "url": "https://open.spotify.com/track/5Y24MuvUiS86Y8tpCyjkty"
@@ -31179,6 +31393,24 @@
     },
     {
       "album": {
+        "name": "Think of Rain",
+        "url": "https://open.spotify.com/album/75fjl1siUL6gFz06Kn2SGe"
+      },
+      "artists": [
+        {
+          "name": "Pearl & The Oysters",
+          "url": "https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131285,
+      "name": "Think of Rain",
+      "url": "https://open.spotify.com/track/3HmMwP4XqjVrmimFgScrER"
+    },
+    {
+      "album": {
         "name": "thinkaboutyou",
         "url": "https://open.spotify.com/album/5Rk2slHSxlZESDz7sAnR7p"
       },
@@ -31356,7 +31588,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 233125,
       "name": "Tides",
       "url": "https://open.spotify.com/track/3XDKK2CE57XBGbEGMv611V"
@@ -32736,7 +32968,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 260000,
       "name": "V.",
       "url": "https://open.spotify.com/track/0CDs5ETJyRZ40uePXFuNDA"
@@ -33236,7 +33468,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 159200,
       "name": "wanted (feat. kamasi washington)",
       "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
@@ -33730,6 +33962,24 @@
       "duration_ms": 161400,
       "name": "What (I Wish) He Said",
       "url": "https://open.spotify.com/track/4guvT3MyI2ydXSxpW5dxNM"
+    },
+    {
+      "album": {
+        "name": "What Can I Give You",
+        "url": "https://open.spotify.com/album/0hwSDZ8sfpY5FpqV4fuzVV"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145157,
+      "name": "What Can I Give You",
+      "url": "https://open.spotify.com/track/5hY99ez4KP44g1wPbI347d"
     },
     {
       "album": {

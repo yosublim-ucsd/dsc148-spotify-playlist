@@ -4,7 +4,7 @@
 
 > The smoothest jazz for the holiday\. Cover: Kenny G
 
-65 songs - 4 hr 31 min
+66 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Last Christmas](https://open.spotify.com/track/7vsHlEM9jxH2LRdYwRmlz1) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre), [Phillippe Sasse](https://open.spotify.com/artist/55IAL7gU22Ystj2Wg29o2D) | [A Foreign Affair Christmas](https://open.spotify.com/album/5uKAjwwkPSKPh0YHypKwUz) | 3:37 | 2021-11-12 |  |
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/4QyoccZRXcLSXfaBxGi84w) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Faith \- A Holiday Album](https://open.spotify.com/album/4AokESVAm0tGIAQzDMxzMT) | 3:08 | 2021-11-12 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/05P1lzSBqnOmaM4v0VO8CI) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [Christmas With Warren Hill](https://open.spotify.com/album/3r5eeTqZudR44ViR4bkJp4) | 4:16 | 2021-11-12 |  |
+| [Merry Christmas, Happy Holidays](https://open.spotify.com/track/4aZVSeNEq1XBlWj2rXBFYP) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [Merry Christmas, Happy Holidays](https://open.spotify.com/album/1CQ9A1Q9e15qUiUROOVzzk) | 4:13 | 2024-11-08 |  |
 | [My Favorite Things](https://open.spotify.com/track/21BmxWnbnHHqkON6YtZEAD) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf), [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [A Christmas Romance](https://open.spotify.com/album/2RBwYdXvLoyJ6k8YRRBHK6) | 4:06 | 2023-11-24 |  |
 | [My Grown Up Christmas List](https://open.spotify.com/track/2aNQUanNORng6vQCpdPMt3) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Christmas Present](https://open.spotify.com/album/6ZKDifTK1ilxVQ9e83QluU) | 4:43 | 2021-11-12 |  |
 | [O Christmas Tree](https://open.spotify.com/track/2zrUWjXE1h826NNsjpHkAi) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Gift of Christmas](https://open.spotify.com/album/0m9caU6q70zseOKEY2AVAe) | 3:24 | 2021-11-12 |  |
@@ -68,7 +69,7 @@
 | [The Most Wonderful Time of the Year](https://open.spotify.com/track/2YJ7szfmAHgJFvZrNHfL8M) | [The Trippin Allstars](https://open.spotify.com/artist/56HG26zbal3fukId2eJbN4) | [This Christmas](https://open.spotify.com/album/5nYrP2zWbOJRkCCPVMy4Ue) | 4:55 | 2021-11-12 |  |
 | [This Christmas \- Jazz Version](https://open.spotify.com/track/6K5UmRGIxYCvGfubw3Bx86) | [Frank Mccomb](https://open.spotify.com/artist/0wbDq3eOvenJ6l0gYhUNqt) | [Mojazz Christmas Album](https://open.spotify.com/album/3WZKITZhkybyDhLzQ05p0s) | 4:15 | 2021-11-12 |  |
 | [We Three Funky Kings](https://open.spotify.com/track/23KMerawZDbbZtgYS2fgOb) | [Jay Soto](https://open.spotify.com/artist/2OIuUCT4X13OZg9tblSQHf) | [A Smooth Jazz Holiday](https://open.spotify.com/album/1bxW1fhSA1Cyho4K9onGCF) | 3:29 | 2021-11-12 |  |
-| [We Wish You A Merry Christmas](https://open.spotify.com/track/1On6oqZRBlWoGEWl897WyB) | [Dirk K](https://open.spotify.com/artist/38uq9ZZTmlJd5OTkkMdoUd) | [Seasons Greetings](https://open.spotify.com/album/4VmUmVOpGsca8QP6m4MnTp) | 3:21 | 2021-11-12 |  |
+| [We Wish You A Merry Christmas](https://open.spotify.com/track/1On6oqZRBlWoGEWl897WyB) | [Dirk K](https://open.spotify.com/artist/38uq9ZZTmlJd5OTkkMdoUd) | [Seasons Greetings](https://open.spotify.com/album/4VmUmVOpGsca8QP6m4MnTp) | 3:21 | 2021-11-12 | 2024-11-09 |
 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/3BT41D2fpKvZ35416E1iXp) | [Pamela Williams](https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM) | [Christmas With the Saxtress](https://open.spotify.com/album/173m7v4ijnNTiGhKQd99vx) | 3:50 | 2021-11-12 |  |
 | [When You Wish Upon a Star](https://open.spotify.com/track/7lM2Xi6XLuDzP9IYTdRvMl) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [When You Wish Upon a Star](https://open.spotify.com/album/3uFg7fMdpTv19fdWQo8vAI) | 3:37 | 2023-09-08 |  |
 | [White Christmas](https://open.spotify.com/track/3lQg0QWRDZS7ZAiPU1HDJ7) | [Dirk K](https://open.spotify.com/artist/38uq9ZZTmlJd5OTkkMdoUd) | [Seasons Greetings](https://open.spotify.com/album/4VmUmVOpGsca8QP6m4MnTp) | 4:59 | 2021-11-12 |  |

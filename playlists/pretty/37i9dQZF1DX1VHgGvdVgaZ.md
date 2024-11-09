@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 
 > Instrumental selections from the South Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,735 likes - 75 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,761 likes - 75 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 31 | [Raga Alapana \- Version 2](https://open.spotify.com/track/4Zz4Gbt5WwK25hc7Mc19YQ) | [T\. R\. Mahalingam](https://open.spotify.com/artist/3pIIEzoMgZiupDQsu0CucU), [L\. Subramaniam](https://open.spotify.com/artist/3PwzNTwCiUHdV5hWjwaTfD) | [Inde du sud : Anthologie de la musique classique \(South India\)](https://open.spotify.com/album/6iUn6O1aZJaDuoIQ3YeU9E) | 3:06 |
 | 32 | [Vasantha \(Violin Solo\)](https://open.spotify.com/track/1jHkxPfy8qSle6FzOqeZZS) | [Apoorva Krishna](https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv) | [Apoorva Thillanas](https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b) | 5:17 |
 | 33 | [Jagadhanandha karaka \- Nattai \- Adi](https://open.spotify.com/track/7iEG1ZpQ6terq6mTrNdxU4) | [Flute J A Jayant](https://open.spotify.com/artist/2Qu1IdlO5ujiw2YEQdS6KP) | [Pancharatna Kritis \- A Flute Duet](https://open.spotify.com/album/7LA4l7AXFVJmjlqTJoVQVQ) | 9:39 |
-| 34 | [Raagam Keeravani \- Aalapanai](https://open.spotify.com/track/7Br9HxJ06JfKzWQlD3HXJs) | [Akkarai Subhalakshmi](https://open.spotify.com/artist/2SQohb4X5sNjoNZKlXzYnn) | [Keeravani \- Ragam, Thaanam, Pallavai](https://open.spotify.com/album/3iwiBgNFdHZCaPrXDTBLPN) | 19:29 |
+| 34 | [Raghuvamsa Sudha \(Raga: Kathanakuthuhalam; Tala: Adi\)](https://open.spotify.com/track/67bcbaq2XTq9b5vENbqCzl) | [Chitti Babu](https://open.spotify.com/artist/6sN7sUcwhJszUfcDdoJ71Z) | [Raghuvamsa Sudha Vol.1](https://open.spotify.com/album/0Uj4B92OarYR2m4CSetQn7) | 9:11 |
 | 35 | [Manasa Sancharare](https://open.spotify.com/track/4ohq81tYulwCLaKzLagGQ8) | [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [Mood Music \- Cool Carnatic Instrumentals](https://open.spotify.com/album/628oH97rIWa4Zgvuft7aGD) | 6:58 |
-| 36 | [Raghuvamsa Sudha \(Raga: Kathanakuthuhalam; Tala: Adi\)](https://open.spotify.com/track/67bcbaq2XTq9b5vENbqCzl) | [Chitti Babu](https://open.spotify.com/artist/6sN7sUcwhJszUfcDdoJ71Z) | [Raghuvamsa Sudha Vol.1](https://open.spotify.com/album/0Uj4B92OarYR2m4CSetQn7) | 9:11 |
+| 36 | [Raagam Keeravani \- Aalapanai](https://open.spotify.com/track/7Br9HxJ06JfKzWQlD3HXJs) | [Akkarai Subhalakshmi](https://open.spotify.com/artist/2SQohb4X5sNjoNZKlXzYnn) | [Keeravani \- Ragam, Thaanam, Pallavai](https://open.spotify.com/album/3iwiBgNFdHZCaPrXDTBLPN) | 19:29 |
 | 37 | [Ghana Ragamalika Tanam](https://open.spotify.com/track/0QkDTGMqbYEE3tQqpmpWiC) | [Doraiswamy Iyengar](https://open.spotify.com/artist/497X57lLfcatx1iIrTaxZj) | [The Best of Carnatic Instrumental](https://open.spotify.com/album/6rppxMFOu4BttV6Z4QQTjK) | 5:09 |
 | 38 | [Kriti: Padavini with Vina and Mrdangam](https://open.spotify.com/track/62J1F714qiqQtDfaT2Bs1Q) | [Trichy Sankaran](https://open.spotify.com/artist/5pXWGFz6zZwtMctRbOFcUd) | [Laya Vinyas](https://open.spotify.com/album/16lv6BLMgYb0IN5LvFuODn) | 3:53 |
 | 39 | [Vinayaka: Raag Hamsadhwani \- Aadi](https://open.spotify.com/track/5twmdIDcChJG4rmq6Xf1G8) | [Veena Kuppayyar](https://open.spotify.com/artist/02L5MffVcbQM4PDGdUGc5V), [Vikku Vinayakram](https://open.spotify.com/artist/5xA5y17B4ipntbaVqifsoR), [V\. Selvaganesh](https://open.spotify.com/artist/5fHFkjKfYRCErfRi2T3Nzf), [V\. Umashankar](https://open.spotify.com/artist/3AZWYIosqMyjjHjBqTbgcO) | [Together](https://open.spotify.com/album/6EMgr5l82BhwaMhcuwkquD) | 4:55 |

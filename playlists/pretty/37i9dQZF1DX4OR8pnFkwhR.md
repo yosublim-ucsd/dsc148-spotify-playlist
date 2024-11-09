@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Lavt
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,517 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,519 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 43 | [Server Down](https://open.spotify.com/track/4Wr6BagMS3ZYgRkRhwOOsN) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [Server Down](https://open.spotify.com/album/6XnczifFK6aqhY3fxcNleq) | 2:21 |
 | 44 | [最果て](https://open.spotify.com/track/17nUP8mnj3UICzfQHyngbv) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [最果て](https://open.spotify.com/album/5TIpXD4BNmdsl3tupUDZc2) | 2:37 |
 | 45 | [栞 \(feat\. 草田一駿\)](https://open.spotify.com/track/6bpeujh4x2kEYd8FDWZJOx) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9), [草田一駿](https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh) | [栞 \(feat\. 草田一駿\)](https://open.spotify.com/album/1pbbqvubINafcryUI0cuhR) | 4:34 |
-| 46 | [mist](https://open.spotify.com/track/0jhRRMT7EhrMWZV3Qkisbs) | [Meg Bonus](https://open.spotify.com/artist/0BEEpuk86319ft7cb4jxei) | [18PERSONAL](https://open.spotify.com/album/6oICItoCzy52AKxGR0Kw9i) | 2:35 |
-| 47 | [Ice Tea](https://open.spotify.com/track/5RWF3CiBmuyiylM6bIFB2C) | [Chim Chap](https://open.spotify.com/artist/4NRUN1TVYv8HAXY0jsCvM9) | [Ice Tea](https://open.spotify.com/album/71HCnGwOlB7GWWU6PKwI18) | 3:42 |
-| 48 | [Somebody, Somewhere](https://open.spotify.com/track/1UZ39vzyFxP0ESVubuq8mG) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [The Way I See You](https://open.spotify.com/album/6Ye2HzPp6DhXo6kYPcS5XQ) | 3:18 |
-| 49 | [きれいなおじさん](https://open.spotify.com/track/7LvVO2U8Sot0EFyV1bcDsx) | [井上園子](https://open.spotify.com/artist/1CrUJuV3FPAvDK7do7QQRm) | [ほころび](https://open.spotify.com/album/4hI1UKKAgliU95KADRBtiZ) | 7:12 |
-| 50 | [燈「独唱」](https://open.spotify.com/track/5S81ZEgJnL7htOyYRBPaF9) | [まおた](https://open.spotify.com/artist/6IhcIUsBfU3iBMB87ShNTT) | [燈「独唱」](https://open.spotify.com/album/2o0ObU3yAIpgxumW5ewbGN) | 4:55 |
+| 46 | [空とぶ東京](https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:12 |
+| 47 | [mist](https://open.spotify.com/track/0jhRRMT7EhrMWZV3Qkisbs) | [Meg Bonus](https://open.spotify.com/artist/0BEEpuk86319ft7cb4jxei) | [18PERSONAL](https://open.spotify.com/album/6oICItoCzy52AKxGR0Kw9i) | 2:35 |
+| 48 | [Ice Tea](https://open.spotify.com/track/5RWF3CiBmuyiylM6bIFB2C) | [Chim Chap](https://open.spotify.com/artist/4NRUN1TVYv8HAXY0jsCvM9) | [Ice Tea](https://open.spotify.com/album/71HCnGwOlB7GWWU6PKwI18) | 3:42 |
+| 49 | [Somebody, Somewhere](https://open.spotify.com/track/1UZ39vzyFxP0ESVubuq8mG) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [The Way I See You](https://open.spotify.com/album/6Ye2HzPp6DhXo6kYPcS5XQ) | 3:18 |
+| 50 | [きれいなおじさん](https://open.spotify.com/track/7LvVO2U8Sot0EFyV1bcDsx) | [井上園子](https://open.spotify.com/artist/1CrUJuV3FPAvDK7do7QQRm) | [ほころび](https://open.spotify.com/album/4hI1UKKAgliU95KADRBtiZ) | 7:12 |
 | 51 | [ベガとアルタイル](https://open.spotify.com/track/7M9E7w9tskTz1Bf2VrNfKy) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [ベガとアルタイル](https://open.spotify.com/album/005VNX1PTHOlstwc3STv09) | 3:55 |
 | 52 | [夏よ](https://open.spotify.com/track/7IFsYuLbVwgnz0567conyw) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [夏よ](https://open.spotify.com/album/5Z2I4wSUZqzPinSUZWP5ph) | 4:59 |
 | 53 | [High Flying](https://open.spotify.com/track/5Cl7xRJWzFLjyvEUJBIkgV) | [muggy](https://open.spotify.com/artist/1u45bjenzoQUC0YsziuPsQ) | [High Flying](https://open.spotify.com/album/46jJwqWD84Yl4RlWjRFYxm) | 4:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [Feed My Mind](https://open.spotify.com/track/0DGBbmefobtk0K9bMcaENJ) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Feed My Mind](https://open.spotify.com/album/1QqiaVDZ5pvB6jc2Bv6W8A) | 3:31 |
 | 60 | [Kid Blue](https://open.spotify.com/track/57vIAKd39ZR9My3ow9Jwud) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [D.](https://open.spotify.com/album/5DNgFlwjC6lYq7bJIyaa52) | 3:48 |
 
-Snapshot ID: `Zyoy8AAAAAA5uSp3kgHJRoL/VUVBTIlZ`
+Snapshot ID: `Zy3WKgAAAABWCYOVARDaBG/KKqaVsw88`

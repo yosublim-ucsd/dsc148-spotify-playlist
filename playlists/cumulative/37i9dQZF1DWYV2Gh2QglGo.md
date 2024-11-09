@@ -4,7 +4,7 @@
 
 > The home of Canadian country music\. Cover: Tyler Joe Miller
 
-164 songs - 8 hr 59 min
+165 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Love Myself](https://open.spotify.com/track/0A5smlSd60fsk4CDCxICd4) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Love Myself](https://open.spotify.com/album/2VjFqY2ckzWlwpx9OqdzLq) | 3:09 | 2024-09-06 | 2024-09-28 |
 | [Lyin' To Me](https://open.spotify.com/track/6880DZhIYIHOqIvfhSwwkt) | [Parker Graye](https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8) | [Lyin' To Me](https://open.spotify.com/album/34ghDKatJF5Z1Q7dxNtLcJ) | 3:00 | 2024-06-28 | 2024-07-13 |
 | [Make It Out Alive](https://open.spotify.com/track/6eE8YiBqmKK96UnlNYOP8d) | [The Redhill Valleys](https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ) | [Make It Out Alive](https://open.spotify.com/album/4mi9ihXypXaweqvT4NAML7) | 3:55 | 2024-07-05 | 2024-08-31 |
+| [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 | 2024-11-08 |  |
 | [Middle Of The Bed](https://open.spotify.com/track/2SMUoXaTlpbYEg4nJQGziV) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [ONE HOUSE DOWN \(from the girl next door\)](https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU) | 3:21 | 2024-10-11 |  |
 | [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 | 2024-06-28 |  |
 | [Moonshines](https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bruce County](https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp) | 3:44 | 2024-06-28 |  |
@@ -100,7 +101,7 @@
 | [Never Leave](https://open.spotify.com/track/0owyOeTqTln75t7TBUlBud) | [Chase Heaslip](https://open.spotify.com/artist/7LahLe2apuPLTIbZxOHASr) | [Never Leave](https://open.spotify.com/album/2jizXHiMa2KOpVBU7Er4G1) | 3:33 | 2024-07-12 | 2024-09-14 |
 | [Never Not Care](https://open.spotify.com/track/76QLV6Eu2S375hXioGynF5) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Never Not Care](https://open.spotify.com/album/3rpA5VLqSQ1WfrDt050OZv) | 2:35 | 2024-10-25 |  |
 | [New Me](https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [New Me](https://open.spotify.com/album/6iGj13T3EKBX8OSMrHBd5x) | 2:53 | 2024-06-28 | 2024-08-31 |
-| [New Paint](https://open.spotify.com/track/7i5NR1XK1dKR8bUDwoHiuu) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Westerly](https://open.spotify.com/album/6nkTWPOKgd7UakmuaiO1Tj) | 3:13 | 2024-07-12 |  |
+| [New Paint](https://open.spotify.com/track/7i5NR1XK1dKR8bUDwoHiuu) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Westerly](https://open.spotify.com/album/6nkTWPOKgd7UakmuaiO1Tj) | 3:13 | 2024-07-12 | 2024-11-09 |
 | [Next To Me](https://open.spotify.com/track/0hDhVVVJWkT6HfAvZa5DbK) | [Trudy](https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS) | [Next To Me](https://open.spotify.com/album/56EZ3QjVfDtzSUdag8ZHAG) | 2:58 | 2024-11-01 |  |
 | [Nobody Dies Anymore](https://open.spotify.com/track/78xIX4Kt6miLXt3uMzez9W) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Nobody Dies Anymore](https://open.spotify.com/album/7gCbxIpqSafuDrI7ixuMIr) | 3:58 | 2024-07-12 | 2024-09-14 |
 | [Not So Much No More](https://open.spotify.com/track/2FKqYH559u3BIhdKpPRKtE) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Not So Much No More](https://open.spotify.com/album/3yHlZnt3ibKcgWORuu9swz) | 2:58 | 2024-06-28 | 2024-09-14 |

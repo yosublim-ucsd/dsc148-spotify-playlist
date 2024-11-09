@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 6466,
+  "num_followers": 6476,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyqxgAAAAABugRlhbf6yznrXYnoiENAo",
+  "snapshot_id": "ZywDAAAAAADA9tp0tok3Npyf8D0dN9/d",
   "tracks": [
     {
       "added_at": null,
@@ -115,26 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Lejos",
-        "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 188888,
-      "name": "3 AM",
-      "url": "https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Conexi\u00f3n",
         "url": "https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD"
       },
@@ -151,6 +131,26 @@
       "duration_ms": 146659,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor De Lejos",
+        "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 188888,
+      "name": "3 AM",
+      "url": "https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho"
     },
     {
       "added_at": null,
@@ -440,25 +440,9 @@
           "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
         }
       ],
-      "duration_ms": 223874,
-      "name": "Hoy",
-      "url": "https://open.spotify.com/track/6aQgAhpCebGWOqrMdY2VhP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Una Rosa Blanca",
-        "url": "https://open.spotify.com/album/6ZrH3aoxhVjBWZu0Cjj49o"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 200615,
-      "name": "Una Rosa Blanca",
-      "url": "https://open.spotify.com/track/1HWfuahHaDu2JAmqhpNMB5"
+      "duration_ms": 193874,
+      "name": "SATIRO",
+      "url": "https://open.spotify.com/track/00e7R21236OX75ACaT8HH0"
     },
     {
       "added_at": null,
@@ -475,6 +459,22 @@
       "duration_ms": 227213,
       "name": "Soy Aquel",
       "url": "https://open.spotify.com/track/05ADejXF6OzAvOT32K7r7a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Rosa Blanca",
+        "url": "https://open.spotify.com/album/6ZrH3aoxhVjBWZu0Cjj49o"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 200615,
+      "name": "Una Rosa Blanca",
+      "url": "https://open.spotify.com/track/1HWfuahHaDu2JAmqhpNMB5"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
         }
       ],
-      "duration_ms": 193874,
-      "name": "SATIRO",
-      "url": "https://open.spotify.com/track/00e7R21236OX75ACaT8HH0"
+      "duration_ms": 223874,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/6aQgAhpCebGWOqrMdY2VhP"
     },
     {
       "added_at": null,
@@ -619,18 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Capuchino",
-        "url": "https://open.spotify.com/album/49KzaISNOQeZb7YvYASydw"
+        "name": "Dile",
+        "url": "https://open.spotify.com/album/4SyZjya75uUPpzfrKwS2XO"
       },
       "artists": [
+        {
+          "name": "Grupo TMB",
+          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
+        },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 204799,
-      "name": "Capuchino",
-      "url": "https://open.spotify.com/track/0bvE1KpvXwPTieXLaBgVaq"
+      "duration_ms": 233250,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/21vFXhM6whAImWe4p8WwOp"
     },
     {
       "added_at": null,
@@ -651,22 +655,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dile",
-        "url": "https://open.spotify.com/album/4SyZjya75uUPpzfrKwS2XO"
+        "name": "Capuchino",
+        "url": "https://open.spotify.com/album/49KzaISNOQeZb7YvYASydw"
       },
       "artists": [
-        {
-          "name": "Grupo TMB",
-          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
-        },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 233250,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/21vFXhM6whAImWe4p8WwOp"
+      "duration_ms": 204799,
+      "name": "Capuchino",
+      "url": "https://open.spotify.com/track/0bvE1KpvXwPTieXLaBgVaq"
     },
     {
       "added_at": null,

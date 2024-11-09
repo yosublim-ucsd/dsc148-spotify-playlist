@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 171112,
       "name": "1-800-IDONTKNOWYOUANYMORE",
       "url": "https://open.spotify.com/track/3NuJl08m7fVOavmp3THQM0"
@@ -1305,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "Angry Cry",
+        "url": "https://open.spotify.com/album/0Pm7zqgIXzwlBzvT8Px466"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Angry Cry",
+      "url": "https://open.spotify.com/track/3ge4mUDuQFneD2ykjguj3D"
+    },
+    {
+      "album": {
         "name": "Anthem",
         "url": "https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q"
       },
@@ -2498,7 +2516,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 170970,
       "name": "Big Al Dente",
       "url": "https://open.spotify.com/track/09fJxz3rLdV0eWQTRHXzdY"
@@ -3052,7 +3070,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 193250,
       "name": "Brag",
       "url": "https://open.spotify.com/track/0HfLboGEuY82423ar9Bo5c"
@@ -4790,7 +4808,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 161091,
       "name": "Crumble",
       "url": "https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA"
@@ -7856,7 +7874,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 236181,
       "name": "For Katie",
       "url": "https://open.spotify.com/track/26icQ3gcv38DZXWX8euZYj"
@@ -8706,7 +8724,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 242120,
       "name": "goin' for the garbage plate",
       "url": "https://open.spotify.com/track/2mH0I08tBUW5ZdgGrGrMT7"
@@ -10398,7 +10416,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 150186,
       "name": "I Died",
       "url": "https://open.spotify.com/track/0ea8gi7YhQj5M9ooEkUn35"
@@ -10680,6 +10698,24 @@
       "duration_ms": 181333,
       "name": "I Like You Anyway",
       "url": "https://open.spotify.com/track/4vNQyrpwxJJwK6sVmATME1"
+    },
+    {
+      "album": {
+        "name": "I Might Not Get Through All Of This",
+        "url": "https://open.spotify.com/album/0uFj5oXNQNoQDF4lXVPlWH"
+      },
+      "artists": [
+        {
+          "name": "Koyo",
+          "url": "https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245957,
+      "name": "I Might Not Get Through All of This",
+      "url": "https://open.spotify.com/track/6KuJd9Y91kVBKNpH5WSFIf"
     },
     {
       "album": {
@@ -11784,6 +11820,24 @@
       "duration_ms": 217980,
       "name": "Keep Me Up All Night",
       "url": "https://open.spotify.com/track/5sgFUQAbvYZCujpbZfgD0w"
+    },
+    {
+      "album": {
+        "name": "Kept Me Alive",
+        "url": "https://open.spotify.com/album/5LxODVOGMuaLrep0RAGmWs"
+      },
+      "artists": [
+        {
+          "name": "Grayscale",
+          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177083,
+      "name": "Kept Me Alive",
+      "url": "https://open.spotify.com/track/1tmOC0PqokvkmDcPVt3K0r"
     },
     {
       "album": {
@@ -13400,7 +13454,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 210588,
       "name": "Make Your Way Back To Me",
       "url": "https://open.spotify.com/track/4rm0AaSomwKARe8tWmZa8X"
@@ -14064,6 +14118,24 @@
       "duration_ms": 127058,
       "name": "MOSH PIT",
       "url": "https://open.spotify.com/track/1fQlfeG7u0xzRVuzqUwtGA"
+    },
+    {
+      "album": {
+        "name": "MOTH KIDS",
+        "url": "https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219035,
+      "name": "MOTH KIDS",
+      "url": "https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU"
     },
     {
       "album": {
@@ -15245,6 +15317,24 @@
     },
     {
       "album": {
+        "name": "On All Cylinders",
+        "url": "https://open.spotify.com/album/62EFIM3WL4pnbpTXVDC7CU"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171574,
+      "name": "On All Cylinders",
+      "url": "https://open.spotify.com/track/1aTNZs2FoidnysQMbPo3Zo"
+    },
+    {
+      "album": {
         "name": "On and On",
         "url": "https://open.spotify.com/album/6NLYwsuguHKLAwCdeddq7a"
       },
@@ -15386,6 +15476,24 @@
       "duration_ms": 208114,
       "name": "ONE MORE TIME",
       "url": "https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2"
+    },
+    {
+      "album": {
+        "name": "ONE NATION",
+        "url": "https://open.spotify.com/album/5JJ4MejqGy8oAdPevTNi3Q"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "ONE NATION",
+      "url": "https://open.spotify.com/track/7oZn1w8pspTBu7Bps6WRfj"
     },
     {
       "album": {
@@ -15570,7 +15678,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 137229,
       "name": "Over My Dead Body",
       "url": "https://open.spotify.com/track/1ONYGY9f1xHTAVFbN2JkY9"
@@ -17459,6 +17567,28 @@
     },
     {
       "album": {
+        "name": "State Champs",
+        "url": "https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        },
+        {
+          "name": "Slope",
+          "url": "https://open.spotify.com/artist/24ExnkYwR4QoLamXGi4sOR"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199811,
+      "name": "Save Face Story",
+      "url": "https://open.spotify.com/track/3OcGET39AhKjyeXAjyxTqi"
+    },
+    {
+      "album": {
         "name": "Without Warning",
         "url": "https://open.spotify.com/album/3oTze2jMJ1RnSBEyu0BUjy"
       },
@@ -18526,7 +18656,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 188399,
       "name": "Silver Cloud",
       "url": "https://open.spotify.com/track/5AiTSPFGkyasoocwYhdBW2"
@@ -20599,6 +20729,24 @@
     },
     {
       "album": {
+        "name": "The Apology Song",
+        "url": "https://open.spotify.com/album/6dx4YyYQ3umbSapWuf6kGO"
+      },
+      "artists": [
+        {
+          "name": "Good Hangs",
+          "url": "https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175421,
+      "name": "The Apology Song",
+      "url": "https://open.spotify.com/track/2tDjUEHd1yKKkxOww4XOZj"
+    },
+    {
+      "album": {
         "name": "The Awful Truth",
         "url": "https://open.spotify.com/album/0q8RzansKF3z4GvL13MxmW"
       },
@@ -21424,6 +21572,28 @@
       "duration_ms": 204504,
       "name": "This is Forever",
       "url": "https://open.spotify.com/track/1KFMSqJnKQTX7EcaxH67hH"
+    },
+    {
+      "album": {
+        "name": "THIS ISN'T ABOUT DRUGS (I SWEAR) (feat. From First to Last)",
+        "url": "https://open.spotify.com/album/6gLVuiD8o0eA1uAePJ3RyQ"
+      },
+      "artists": [
+        {
+          "name": "TX2",
+          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+        },
+        {
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110571,
+      "name": "THIS ISN'T ABOUT DRUGS (I SWEAR) (feat. From First to Last)",
+      "url": "https://open.spotify.com/track/7Hqml4ujtUYLbmKy3w5oqC"
     },
     {
       "album": {
@@ -23880,6 +24050,24 @@
       "duration_ms": 176200,
       "name": "Wolf Boy",
       "url": "https://open.spotify.com/track/7uv654mZzZWHY7Lj9pnXsl"
+    },
+    {
+      "album": {
+        "name": "Wolf In Sheep's Clothing [REBORN]",
+        "url": "https://open.spotify.com/album/3EAQjK9KBprKYBerEPGxwS"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201939,
+      "name": "Wolf In Sheep's Clothing [REBORN]",
+      "url": "https://open.spotify.com/track/1tpidJ4FBn9TwshePh1bc3"
     },
     {
       "album": {

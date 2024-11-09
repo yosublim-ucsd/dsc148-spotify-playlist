@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illuminating Asian artists everywhere.  Cover: AUDREY NUNA",
+  "description": "Illuminating Asian artists everywhere.  Cover: grentperez",
   "name": "Jasmine",
   "tracks": [
     {
@@ -150,6 +150,24 @@
       "duration_ms": 150000,
       "name": "24/7",
       "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
+    },
+    {
+      "album": {
+        "name": "2DK",
+        "url": "https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196343,
+      "name": "2DK",
+      "url": "https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT"
     },
     {
       "album": {
@@ -1115,6 +1133,28 @@
     },
     {
       "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1"
       },
@@ -1651,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/57fPsISPRRdVmc57pYWY96"
+      },
+      "artists": [
+        {
+          "name": "Peach Luffe",
+          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172437,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/3H4fIfIbtXv0DKCLgl5cgI"
+    },
+    {
+      "album": {
         "name": "better than he does",
         "url": "https://open.spotify.com/album/4FQyEFRe3Wmpm5bY9IxeJF"
       },
@@ -2182,6 +2240,24 @@
       "duration_ms": 189269,
       "name": "Bottled Up",
       "url": "https://open.spotify.com/track/2KUoWQZDFiLtWjCvj5pr8Q"
+    },
+    {
+      "album": {
+        "name": "FITS",
+        "url": "https://open.spotify.com/album/2hRJXpOoqZ44PGurfbka6g"
+      },
+      "artists": [
+        {
+          "name": "FIG",
+          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138030,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/03i1lou4BzpQ7BnxpBUSCp"
     },
     {
       "album": {
@@ -2768,7 +2844,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 175461,
       "name": "Cherry On Top",
       "url": "https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07"
@@ -3000,7 +3076,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 207911,
       "name": "cold medicine",
       "url": "https://open.spotify.com/track/5UgbDqJYYckCKtAjfBtoy2"
@@ -4283,6 +4359,28 @@
     },
     {
       "album": {
+        "name": "Don't Turn Back",
+        "url": "https://open.spotify.com/album/2P3UyvYnyIpXHzMnZpGlFE"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240596,
+      "name": "Don't Turn Back",
+      "url": "https://open.spotify.com/track/6ntkpYujaAiblBWTCwbH92"
+    },
+    {
+      "album": {
         "name": "Done (Let's Get It)",
         "url": "https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO"
       },
@@ -5138,7 +5236,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 167767,
       "name": "Feel Again",
       "url": "https://open.spotify.com/track/0VlT3Jnd2aFdSzSCOHsxD3"
@@ -7427,6 +7525,28 @@
     },
     {
       "album": {
+        "name": "Keep On Moving Up",
+        "url": "https://open.spotify.com/album/5Wbi8QUhBMmpwUbEjnN7KX"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        },
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176102,
+      "name": "Hush My Heart",
+      "url": "https://open.spotify.com/track/3G1YuvBfSeFBQwE5DEnoaD"
+    },
+    {
+      "album": {
         "name": "Lucid",
         "url": "https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg"
       },
@@ -8609,6 +8729,24 @@
     },
     {
       "album": {
+        "name": "KILLER!",
+        "url": "https://open.spotify.com/album/2pmIzzuIMDDT1QoZl98eQU"
+      },
+      "artists": [
+        {
+          "name": "Karina Savage",
+          "url": "https://open.spotify.com/artist/1Omhe6WyATIf4ZurfsumKr"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205779,
+      "name": "KILLER!",
+      "url": "https://open.spotify.com/track/62VMrTv6dQ4YCNP2GNPm8N"
+    },
+    {
+      "album": {
         "name": "Kinda Hate U Kinda Love U",
         "url": "https://open.spotify.com/album/7KM2iRC5ZkdERil3MHJq9y"
       },
@@ -8816,6 +8954,24 @@
       "duration_ms": 174123,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/7qhaA7MaHAkMKaOe5I3TOY"
+    },
+    {
+      "album": {
+        "name": "last night's mascara",
+        "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177350,
+      "name": "last night's mascara",
+      "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
     },
     {
       "album": {
@@ -9308,6 +9464,24 @@
       "duration_ms": 201908,
       "name": "loml",
       "url": "https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK"
+    },
+    {
+      "album": {
+        "name": "Long Showers",
+        "url": "https://open.spotify.com/album/1cRvi0fnHNZ1g29at4aDr5"
+      },
+      "artists": [
+        {
+          "name": "BRIGHT",
+          "url": "https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207165,
+      "name": "Long Showers",
+      "url": "https://open.spotify.com/track/0qPzW9Iw83pOTlC8mgwxkT"
     },
     {
       "album": {
@@ -10804,7 +10978,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -11040,7 +11214,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 179789,
       "name": "New Woman (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
@@ -11300,7 +11474,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 166015,
       "name": "oh, nostalgia",
       "url": "https://open.spotify.com/track/376GrSWvtDruchbQeovbxt"
@@ -12016,6 +12190,24 @@
       "duration_ms": 213360,
       "name": "Pluto",
       "url": "https://open.spotify.com/track/0GdWI9k2h0PzW6x2kAhXeI"
+    },
+    {
+      "album": {
+        "name": "cold medicine (deluxe edition)",
+        "url": "https://open.spotify.com/album/0iT0luHBNd77yShh5cpLaD"
+      },
+      "artists": [
+        {
+          "name": "tiffi",
+          "url": "https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125165,
+      "name": "poison",
+      "url": "https://open.spotify.com/track/55u4CeJTKxORY3rlF4RWDP"
     },
     {
       "album": {
@@ -13436,7 +13628,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 133974,
       "name": "SHOW ME OUT",
       "url": "https://open.spotify.com/track/6h0yJ8bTlpxfwiJ0aXbKxG"
@@ -14480,7 +14672,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 204000,
       "name": "strange",
       "url": "https://open.spotify.com/track/3rMBazPw9A7Of5cyqj0glf"
@@ -14698,7 +14890,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 202001,
       "name": "Sunny Blue",
       "url": "https://open.spotify.com/track/2B7Ue5xy6nCHNPnWUKnl7a"
@@ -15004,6 +15196,24 @@
       "duration_ms": 193137,
       "name": "Takes Me Back Home",
       "url": "https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc"
+    },
+    {
+      "album": {
+        "name": "talk to me",
+        "url": "https://open.spotify.com/album/1IVucKXEFoi7YTwrBNBA9b"
+      },
+      "artists": [
+        {
+          "name": "starfall",
+          "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160629,
+      "name": "talk to me",
+      "url": "https://open.spotify.com/track/4m1Qw2bLggqiXjasXVp28N"
     },
     {
       "album": {
@@ -15502,7 +15712,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 109240,
       "name": "The Man Who Left Too Soon",
       "url": "https://open.spotify.com/track/4xssSk3Jt67ONnLeQMJ7a4"
@@ -16232,7 +16442,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 140000,
       "name": "TRIBAL",
       "url": "https://open.spotify.com/track/3MddmE2BeMcsWPdSBcByVl"
@@ -16936,7 +17146,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 245233,
       "name": "we can't be friends (wait for your love) - Spotify Singles",
       "url": "https://open.spotify.com/track/0eMGIcWRTh8mYD9DNPjdo3"
@@ -17604,6 +17814,24 @@
       "duration_ms": 126312,
       "name": "worldstar money (interlude)",
       "url": "https://open.spotify.com/track/0baNzeUcPQnQSagpe8T0mD"
+    },
+    {
+      "album": {
+        "name": "worst critic",
+        "url": "https://open.spotify.com/album/5ncjiTVdovGDVikrz5Oz7L"
+      },
+      "artists": [
+        {
+          "name": "Cupnoodle",
+          "url": "https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "worst critic",
+      "url": "https://open.spotify.com/track/7bgYjXDyJ6oIXPX7H36ciz"
     },
     {
       "album": {

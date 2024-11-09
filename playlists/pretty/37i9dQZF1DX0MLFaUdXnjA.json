@@ -1,13 +1,45 @@
 {
-  "description": "Sit back and relax to the chillest pop.  Cover: Jeremy Zucker & Chelsea Cutler",
-  "num_followers": 1825001,
+  "description": "Sit back and relax to the chillest pop.  Cover: grentperez",
+  "num_followers": 1824953,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyRSQAAAAADdRHo5mU4ChfFcgabcET4v",
+  "snapshot_id": "Zy2MwAAAAAClxILokOzV13JuSoylBlA3",
   "tracks": [
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "2DK",
+        "url": "https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 196343,
+      "name": "2DK",
+      "url": "https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Heaven II",
+        "url": "https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 147461,
+      "name": "Heaven II",
+      "url": "https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN"
+    },
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
@@ -45,6 +77,22 @@
       "url": "https://open.spotify.com/track/6ejid3XQunJpAaZCFS9rDa"
     },
     {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Me, Myself & You",
+        "url": "https://open.spotify.com/album/7cczplDsPconF6IdWikvOd"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "duration_ms": 155957,
+      "name": "Me, Myself & You",
+      "url": "https://open.spotify.com/track/4dsgZlMA69Hb2VppaZyfSN"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "rain",
@@ -59,6 +107,38 @@
       "duration_ms": 254230,
       "name": "rain",
       "url": "https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/0rmWZhNtY9IK37Fwfl5vXt"
+      },
+      "artists": [
+        {
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
+        }
+      ],
+      "duration_ms": 227792,
+      "name": "El Camino High",
+      "url": "https://open.spotify.com/track/2vcHGq62LLg2quONoXB32B"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
       "added_at": "2024-08-31 03:39:11",
@@ -109,36 +189,24 @@
       "url": "https://open.spotify.com/track/523ZL0kSLxkqPycG7lkTTC"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+        "name": "Loving You / Don't Let Me Go",
+        "url": "https://open.spotify.com/album/5TLHp7Q9XE0hYTo6qF4g3H"
       },
       "artists": [
         {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 284068,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Never Knew",
-        "url": "https://open.spotify.com/album/0QJBhVPWMLTwLu3tOMDTuP"
-      },
-      "artists": [
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
         {
-          "name": "Shaya Zamora",
-          "url": "https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q"
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
         }
       ],
-      "duration_ms": 162461,
-      "name": "Never Knew",
-      "url": "https://open.spotify.com/track/00yBeMYfB9QGKN1GdvtBqQ"
+      "duration_ms": 152610,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/27nj0mfyXhW6OUru2vARIi"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -157,84 +225,52 @@
       "url": "https://open.spotify.com/track/1GmZgx9giHMoqXqYBqbtw7"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
+      "added_at": "2024-08-31 03:39:11",
       "album": {
-        "name": "Two Shades Blonder",
-        "url": "https://open.spotify.com/album/4wsUtKnG1L5Yca5rdL4ZLg"
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
       },
       "artists": [
         {
-          "name": "Devon Cole",
-          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 151345,
-      "name": "All Bad",
-      "url": "https://open.spotify.com/track/4y1HwFNyfu2MPBTR0SKgdr"
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
+      "added_at": "2024-11-08 04:00:00",
       "album": {
-        "name": "U and I (Intertwine)",
-        "url": "https://open.spotify.com/album/0RhDkObdl3kydd4jUIr6CA"
+        "name": "Pretty Face",
+        "url": "https://open.spotify.com/album/01AYACg8rfARq8Z2IyY8vN"
       },
       "artists": [
         {
-          "name": "Nicky Youre",
-          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+          "name": "Ally Salort",
+          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
         }
       ],
-      "duration_ms": 166598,
-      "name": "U and I (Intertwine)",
-      "url": "https://open.spotify.com/track/3m4PhccmoJYS8ei9I1GQEX"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Cats On The Ceiling",
-        "url": "https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "Cats On The Ceiling",
-      "url": "https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P"
+      "duration_ms": 202547,
+      "name": "Pretty Face",
+      "url": "https://open.spotify.com/track/7u6FErol8bEBXOJiqBiayo"
     },
     {
       "added_at": "2024-11-01 04:00:00",
       "album": {
-        "name": "liminal space",
-        "url": "https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h"
+        "name": "Never Knew",
+        "url": "https://open.spotify.com/album/0QJBhVPWMLTwLu3tOMDTuP"
       },
       "artists": [
         {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+          "name": "Shaya Zamora",
+          "url": "https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q"
         }
       ],
-      "duration_ms": 167148,
-      "name": "passenger side",
-      "url": "https://open.spotify.com/track/2jpXlj0HRdK31Jm0ZjGLKU"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Wish I Could Hold You",
-        "url": "https://open.spotify.com/album/68YhnCOjvveRByOAc1w2GR"
-      },
-      "artists": [
-        {
-          "name": "Say Lou Lou",
-          "url": "https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "Wish I Could Hold You",
-      "url": "https://open.spotify.com/track/6oP3Lock2adIgvHb1Sr9wu"
+      "duration_ms": 162461,
+      "name": "Never Knew",
+      "url": "https://open.spotify.com/track/00yBeMYfB9QGKN1GdvtBqQ"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -255,6 +291,182 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Two Shades Blonder",
+        "url": "https://open.spotify.com/album/4wsUtKnG1L5Yca5rdL4ZLg"
+      },
+      "artists": [
+        {
+          "name": "Devon Cole",
+          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
+        }
+      ],
+      "duration_ms": 151345,
+      "name": "All Bad",
+      "url": "https://open.spotify.com/track/4y1HwFNyfu2MPBTR0SKgdr"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Red White and Blue",
+        "url": "https://open.spotify.com/album/3mQKPUtfUbn2E432gqCUGx"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "duration_ms": 234362,
+      "name": "Red White and Blue",
+      "url": "https://open.spotify.com/track/6HZpO5sszbG3zZZSj62Pgt"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 204223,
+      "name": "Soft Spot",
+      "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Season One (Extended)",
+        "url": "https://open.spotify.com/album/6AaU5XwlKXPVr46pPnX1WT"
+      },
+      "artists": [
+        {
+          "name": "Jana Diab",
+          "url": "https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq"
+        }
+      ],
+      "duration_ms": 145178,
+      "name": "9 Lives",
+      "url": "https://open.spotify.com/track/66tq3X5MuLhQienSSv6qQ3"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Cats On The Ceiling",
+        "url": "https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 213080,
+      "name": "Cats On The Ceiling",
+      "url": "https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "U and I (Intertwine)",
+        "url": "https://open.spotify.com/album/0RhDkObdl3kydd4jUIr6CA"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "duration_ms": 166598,
+      "name": "U and I (Intertwine)",
+      "url": "https://open.spotify.com/track/3m4PhccmoJYS8ei9I1GQEX"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "the acoustic tape",
+        "url": "https://open.spotify.com/album/28bOaYq5hguOdjlpmuNwUQ"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 92444,
+      "name": "horror story (acoustic)",
+      "url": "https://open.spotify.com/track/5z84zcIEL2tuL1IWfjm8Zy"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Wish I Could Hold You",
+        "url": "https://open.spotify.com/album/68YhnCOjvveRByOAc1w2GR"
+      },
+      "artists": [
+        {
+          "name": "Say Lou Lou",
+          "url": "https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj"
+        }
+      ],
+      "duration_ms": 232866,
+      "name": "Wish I Could Hold You",
+      "url": "https://open.spotify.com/track/6oP3Lock2adIgvHb1Sr9wu"
+    },
+    {
+      "added_at": "2024-08-31 03:39:11",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 187130,
+      "name": "Picture You",
+      "url": "https://open.spotify.com/track/5KtvumPgVZmt8wg9xONE0T"
+    },
+    {
+      "added_at": "2024-08-31 03:39:11",
+      "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Portland",
+        "url": "https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf"
+      },
+      "artists": [
+        {
+          "name": "Rhys",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "duration_ms": 172872,
+      "name": "Portland",
+      "url": "https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "wasn\u2019t a fighting kid",
         "url": "https://open.spotify.com/album/6VzjjK4yMX1z1dUaOp5K1B"
       },
@@ -267,22 +479,6 @@
       "duration_ms": 192521,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/3gDPvCx5hIoi4hFlJqeRqQ"
-    },
-    {
-      "added_at": "2024-08-31 03:39:11",
-      "album": {
-        "name": "If Only + No One Noticed",
-        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -313,12 +509,28 @@
         },
         {
           "name": "Daniel Saint",
-          "url": "https://open.spotify.com/artist/1mqfwrWO9D3IQvWkwnuCNB"
+          "url": "https://open.spotify.com/artist/6ob3DmfoxKr8WRuEMP2Wm8"
         }
       ],
       "duration_ms": 184864,
       "name": "death bed, Pt. 2",
       "url": "https://open.spotify.com/track/649kk5N2PY67N2TkTBOagZ"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
       "added_at": "2024-10-23 20:58:49",
@@ -367,6 +579,22 @@
       "duration_ms": 179548,
       "name": "That's Life",
       "url": "https://open.spotify.com/track/0aO4pjrueGJ2FRbaudJxf1"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "HLYTW",
+        "url": "https://open.spotify.com/album/5jqnnvVT2ETofdjd0qD7mz"
+      },
+      "artists": [
+        {
+          "name": "Zackery",
+          "url": "https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "HLYTW",
+      "url": "https://open.spotify.com/track/4wbe7z56dPMnPr36yCWkG2"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -449,22 +677,6 @@
       "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 204223,
-      "name": "Soft Spot",
-      "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
-    },
-    {
       "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Thru The Walls",
@@ -495,22 +707,6 @@
       "duration_ms": 183732,
       "name": "You're Always High",
       "url": "https://open.spotify.com/track/6YB79a954f6nzfYCkX8sXB"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 261466,
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
       "added_at": "2024-08-31 03:39:11",
@@ -809,22 +1005,6 @@
       "url": "https://open.spotify.com/track/3dVpXsROb2OtDf7MA1UgVc"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Sick To My Stomach",
-        "url": "https://open.spotify.com/album/1TI2bQeR8meH1imvwWQ2wj"
-      },
-      "artists": [
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 198253,
-      "name": "June",
-      "url": "https://open.spotify.com/track/6xeW7VxuO6X11pcK0rKJhk"
-    },
-    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Senses",
@@ -905,22 +1085,6 @@
       "url": "https://open.spotify.com/track/4OlSaHe8AxKZikrhzf8GnY"
     },
     {
-      "added_at": "2024-08-31 03:39:11",
-      "album": {
-        "name": "Diet Pepsi",
-        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 169697,
-      "name": "Diet Pepsi",
-      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Wallflower",
@@ -937,22 +1101,6 @@
       "url": "https://open.spotify.com/track/4uzPfhoVU3Dp9lANiOZtDu"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "NOTE TO SELF",
-        "url": "https://open.spotify.com/album/3fR9kFhlM5Vdh4Vvjn7Kgc"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Bee",
-          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
-        }
-      ],
-      "duration_ms": 174518,
-      "name": "NOTE TO SELF",
-      "url": "https://open.spotify.com/track/1U1C2tC4E2ASmG5MO61bEm"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "lower",
@@ -967,26 +1115,6 @@
       "duration_ms": 238962,
       "name": "lower",
       "url": "https://open.spotify.com/track/7CXbgSMNes8779tvEkz8Ft"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "I'd Rather Pretend (with d4vd)",
-        "url": "https://open.spotify.com/album/4CDZFVWG65WF44WIMNFw2g"
-      },
-      "artists": [
-        {
-          "name": "Bryant Barnes",
-          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
-        },
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "I'd Rather Pretend (with d4vd)",
-      "url": "https://open.spotify.com/track/1NHflT1W5O7fntEXN9rfe9"
     },
     {
       "added_at": "2024-08-31 03:39:11",
@@ -1161,22 +1289,6 @@
       "url": "https://open.spotify.com/track/5e9DY1HEsK4XrNASmvNUlk"
     },
     {
-      "added_at": "2024-08-31 03:39:11",
-      "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 187130,
-      "name": "Picture You",
-      "url": "https://open.spotify.com/track/5KtvumPgVZmt8wg9xONE0T"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "I'll See You In My Dreams",
@@ -1223,22 +1335,6 @@
       "duration_ms": 180486,
       "name": "First Heartbreak",
       "url": "https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "12 Notes (Deluxe) [16 Notes]",
-        "url": "https://open.spotify.com/album/6ul4W8XzkvOeS1YgPfY3TF"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 169081,
-      "name": "The Plan",
-      "url": "https://open.spotify.com/track/24TBDnrH9ampHrkCGNmHJg"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1291,22 +1387,6 @@
     {
       "added_at": "2024-08-31 03:39:11",
       "album": {
-        "name": "C,XOXO",
-        "url": "https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 180013,
-      "name": "June Gloom",
-      "url": "https://open.spotify.com/track/5fvPYln4Ke77apnrjbbvOo"
-    },
-    {
-      "added_at": "2024-08-31 03:39:11",
-      "album": {
         "name": "Paris / San Francisco",
         "url": "https://open.spotify.com/album/2VFJG91yaQl6TuCWpP95bw"
       },
@@ -1335,26 +1415,6 @@
       "duration_ms": 234600,
       "name": "Heatstroke",
       "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
-    },
-    {
-      "added_at": "2024-08-31 03:39:11",
-      "album": {
-        "name": "Room For You",
-        "url": "https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        },
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "Room For You",
-      "url": "https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA"
     },
     {
       "added_at": "2024-08-31 03:39:11",
@@ -1463,38 +1523,6 @@
     {
       "added_at": "2024-08-31 03:39:11",
       "album": {
-        "name": "Never Be Yours",
-        "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 196025,
-      "name": "Never Be Yours",
-      "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
-    },
-    {
-      "added_at": "2024-08-31 03:39:11",
-      "album": {
-        "name": "sun and moon",
-        "url": "https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc"
-      },
-      "artists": [
-        {
-          "name": "anees",
-          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
-        }
-      ],
-      "duration_ms": 151507,
-      "name": "sun and moon",
-      "url": "https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn"
-    },
-    {
-      "added_at": "2024-08-31 03:39:11",
-      "album": {
         "name": "Bewitched: The Goddess Edition",
         "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
       },
@@ -1507,22 +1535,6 @@
       "duration_ms": 213213,
       "name": "Bored",
       "url": "https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5"
-    },
-    {
-      "added_at": "2024-08-31 03:39:11",
-      "album": {
-        "name": "Stargazing",
-        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 172533,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
     },
     {
       "added_at": "2024-08-31 03:39:11",

@@ -259,6 +259,24 @@
     },
     {
       "album": {
+        "name": "Meet Me Next Christmas (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0PVoECRcbVY10o85e1fq6l"
+      },
+      "artists": [
+        {
+          "name": "Dara Taylor",
+          "url": "https://open.spotify.com/artist/6DXeA5nK5RwxNAs8a3nHLG"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39074,
+      "name": "Back to Brooklyn",
+      "url": "https://open.spotify.com/track/02EM3FStjDy10CIwYe7anc"
+    },
+    {
+      "album": {
         "name": "Disney Goes Classical",
         "url": "https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg"
       },
@@ -480,7 +498,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 26576,
       "name": "Christmas Eve (Intro)",
       "url": "https://open.spotify.com/track/5Myhpwp2T7V837mwZhFa58"
@@ -862,7 +880,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 212533,
       "name": "Flying",
       "url": "https://open.spotify.com/track/2DS7nXQfAFmLzTicXi3riM"
@@ -960,7 +978,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 102928,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/0y0kKBaAY32gZovCXWC0he"
@@ -2396,7 +2414,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 61706,
       "name": "The Snow Fight",
       "url": "https://open.spotify.com/track/5tSkAVJmS0jCFPXvp0MKVY"

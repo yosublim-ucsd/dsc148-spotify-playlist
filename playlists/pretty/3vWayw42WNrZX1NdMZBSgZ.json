@@ -1,13 +1,33 @@
 {
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: GALE &amp; LAGOS",
-  "num_followers": 53590,
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Arthur Hanlon &amp; Ana Barbara",
+  "num_followers": 53591,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAAS6t/G8wIZGgTki+7qMXJUtybqoQVU",
+  "snapshot_id": "AAAS7UiO+Nbx/qLzoYKUDZcRuBgY0sf1",
   "tracks": [
+    {
+      "added_at": "2024-11-08 15:16:52",
+      "album": {
+        "name": "EGO\u00cdSTA",
+        "url": "https://open.spotify.com/album/1bIEDgIs61l1UPgKkD0l1R"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "EGO\u00cdSTA",
+      "url": "https://open.spotify.com/track/5LMfmkEjc926jnu45GLJj4"
+    },
     {
       "added_at": "2024-11-01 15:27:58",
       "album": {

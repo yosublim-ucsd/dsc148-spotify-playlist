@@ -1,12 +1,12 @@
 {
   "description": "Everything Broadway-adjacent. Cover:  Eisa Davis & Lin-Manuel Miranda ",
-  "num_followers": 4080,
+  "num_followers": 4091,
   "original_name": "Off Broadway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyjhMgAAAAAcAV7/epkyTdQ8r1Ahywxt",
+  "snapshot_id": "Zy54WwAAAAADfCTOQ9ZtVALUjY6fOJXs",
   "tracks": [
     {
       "added_at": "2024-10-18 04:04:10",
@@ -55,6 +55,30 @@
       "duration_ms": 187997,
       "name": "Pure Imagination (from \"Wonka\")",
       "url": "https://open.spotify.com/track/1m9TZ1dpYEQnczSsI6z9Ku"
+    },
+    {
+      "added_at": "2024-11-08 20:45:15",
+      "album": {
+        "name": "Beyond (End Credit Version) [From \"Moana 2\"]",
+        "url": "https://open.spotify.com/album/6uCyNThgUieE9elUSd4SuP"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Te Vaka",
+          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Beyond (End Credit Version) - From \"Moana 2\"",
+      "url": "https://open.spotify.com/track/3fzqWttckvSJS7KPGPiWAg"
     },
     {
       "added_at": "2024-10-04 02:32:54",
@@ -1135,22 +1159,6 @@
       "duration_ms": 236996,
       "name": "Drag Is Expensive",
       "url": "https://open.spotify.com/track/6dG6aRB6ldz3XgdCayRBx3"
-    },
-    {
-      "added_at": "2024-07-15 18:36:21",
-      "album": {
-        "name": "Puttin' on the Ritz",
-        "url": "https://open.spotify.com/album/5lfj8Fo7O6MYpODE334Rhi"
-      },
-      "artists": [
-        {
-          "name": "Rufus Wainwright",
-          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
-        }
-      ],
-      "duration_ms": 116520,
-      "name": "Puttin' on the Ritz",
-      "url": "https://open.spotify.com/track/4dWvPb7ZVX98IyRnqkgcM1"
     },
     {
       "added_at": "2024-07-15 18:36:21",

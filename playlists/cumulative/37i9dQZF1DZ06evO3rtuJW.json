@@ -1091,6 +1091,32 @@
     },
     {
       "album": {
+        "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
+        "url": "https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y"
+      },
+      "artists": [
+        {
+          "name": "MudBaby Ru",
+          "url": "https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229035,
+      "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
+      "url": "https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z"
+    },
+    {
+      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
       },
@@ -2254,7 +2280,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 208422,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/4QgtGpNXs1v2UFz1VuCvWB"

@@ -2,9 +2,9 @@
 
 ### [Rap francophone](https://open.spotify.com/playlist/37i9dQZF1DWXVOrABrZKBq)
 
-> Le rap francophone est en forme\. Photo: White\-B
+> Le rap francophone est en forme\. Photo: Damso
 
-206 songs - 10 hr 38 min
+207 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Bonjour](https://open.spotify.com/track/4MAloTk4m4tP1y5gpYYUDw) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Bonjour](https://open.spotify.com/album/3sBZDZM9mAEVN9mV3s8yj7) | 2:16 | 2023-08-18 | 2024-06-29 |
 | [BOOM BOOM](https://open.spotify.com/track/70T34qUA8otqXwxraVSbry) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [iDS](https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm) | [Memory \(Extended Version\)](https://open.spotify.com/album/0TCb7xCgT5JFTl6LnCJZlY) | 1:54 | 2024-04-19 |  |
 | [BUSINESS CLASS](https://open.spotify.com/track/25qdQ9CfExanGHqzeRTwF1) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [HÉRITAGE \(Deluxe\)](https://open.spotify.com/album/5bEAst4zPVbagufynpA9L2) | 2:47 | 2023-12-15 | 2024-07-13 |
-| [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 | 2023-12-08 |  |
+| [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 | 2023-12-08 | 2024-11-09 |
 | [C'est carré le S](https://open.spotify.com/track/5v0MxVbfjFCBrEi3fQ9VHz) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [C'est carré le S](https://open.spotify.com/album/1qDBDmqDsBfiZeWToRTu3Y) | 3:21 | 2023-05-05 | 2024-04-06 |
 | [C'est pas ce que tu penses](https://open.spotify.com/track/0Sbmsr53cUNNl6H2n4k3g2) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX), [Loud Lary Ajust](https://open.spotify.com/artist/2zxjAOpQqLzNsLkRbSNjAN) | [C'est pas ce que tu penses](https://open.spotify.com/album/3PMT5XJmSJbAi47RseEFMg) | 2:16 | 2024-05-17 | 2024-08-28 |
 | [CANADA](https://open.spotify.com/track/6sutxiq0dIw77z0rCB3Ekk) | [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [ARRÊTEZ\-LE ! \(Vol.2\)](https://open.spotify.com/album/12LrwCesY8GRyGtm1cszvy) | 2:59 | 2023-03-03 | 2023-06-24 |
@@ -49,6 +49,7 @@
 | [CHF](https://open.spotify.com/track/6q2RqjaTbyl4foSZmbTl9t) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Di\-Meh](https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y) | [CHF](https://open.spotify.com/album/3CIHZeaAM5E1cC01mJfLGU) | 3:06 | 2023-12-15 | 2024-01-20 |
 | [Chien Mangé Chien](https://open.spotify.com/track/2i0fBPihCnAu4c48PFdgvv) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Chien Mangé Chien](https://open.spotify.com/album/0EfEB9jjLhdhyVYHjPRdCG) | 3:23 | 2023-09-08 | 2023-10-14 |
 | [Chop \- Nouvelle École](https://open.spotify.com/track/1NEL5O5FotR1OyPQyvlMag) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [À l'abri](https://open.spotify.com/album/4KTaJZS0CKodPxaBT2RK53) | 3:15 | 2023-03-03 | 2023-08-26 |
+| [CHROME](https://open.spotify.com/track/0qGy0pxEhbiMsDQhwOKTAg) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [CHROME](https://open.spotify.com/album/6sYnP5m9GmPZTIW4cCFZXX) | 2:35 | 2024-11-08 |  |
 | [Chrome Hearts](https://open.spotify.com/track/6OhaunEHa10FjmOMFuxy38) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 2:49 | 2023-03-03 | 2023-08-19 |
 | [Ciao](https://open.spotify.com/track/7hGyQqjhVw2LbCr2oZ4rUS) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ciao](https://open.spotify.com/album/5gbcnNg4JK4qaR6BYtdUwv) | 3:36 | 2023-03-17 | 2024-03-02 |
 | [Coco](https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Coco](https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua) | 2:28 | 2024-07-19 | 2024-10-26 |

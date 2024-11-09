@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Fat Freddy's Drop",
-  "num_followers": 18586,
+  "num_followers": 18588,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "L.A.B VI",
-        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 254920,
-      "name": "Give Me That Feeling",
-      "url": "https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Eldest Daughter Of An Eldest Daughter",
         "url": "https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 266706,
       "name": "Faery King",
       "url": "https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "L.A.B VI",
+        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 254920,
+      "name": "Give Me That Feeling",
+      "url": "https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "L.A.B VI",
-        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 260088,
-      "name": "Ocean Demon",
-      "url": "https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Meet Me",
         "url": "https://open.spotify.com/album/1aTv29hsfv6RFSTgdiNARV"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 194670,
       "name": "Meet Me",
       "url": "https://open.spotify.com/track/3FrJCNsmxAlrZm20OgMf4x"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "L.A.B VI",
+        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 260088,
+      "name": "Ocean Demon",
+      "url": "https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -483,18 +483,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "pinky boy",
-        "url": "https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9"
+        "name": "Follow (Edit)",
+        "url": "https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy"
       },
       "artists": [
         {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
         }
       ],
-      "duration_ms": 285153,
-      "name": "pinky boy",
-      "url": "https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ"
+      "duration_ms": 157843,
+      "name": "Follow - Edit",
+      "url": "https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -511,6 +511,22 @@
       "duration_ms": 494760,
       "name": "Slo Mo",
       "url": "https://open.spotify.com/track/5ipBnCFuWh1SM6T4SBDNzF"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "pinky boy",
+        "url": "https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 285153,
+      "name": "pinky boy",
+      "url": "https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -555,22 +571,6 @@
       "duration_ms": 159837,
       "name": "I DID IT (w/ Kanii & Anycia)",
       "url": "https://open.spotify.com/track/4EjpTKFTO6MaCK0Lx5Y1hq"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Follow (Edit)",
-        "url": "https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 157843,
-      "name": "Follow - Edit",
-      "url": "https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "A Thousand Years",
-        "url": "https://open.spotify.com/album/2HtUSVtR5RtYmFUrOEzVkv"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 212843,
-      "name": "A Thousand Years",
-      "url": "https://open.spotify.com/track/3X12z8V9io3F2cptQZtLKK"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Catacombs",
         "url": "https://open.spotify.com/album/3lbE1QpGyzIBCzVBBQqp1H"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 175494,
       "name": "Catacombs",
       "url": "https://open.spotify.com/track/5vdEQtEFRwVQhTX2HIVg5k"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "A Thousand Years",
+        "url": "https://open.spotify.com/album/2HtUSVtR5RtYmFUrOEzVkv"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 212843,
+      "name": "A Thousand Years",
+      "url": "https://open.spotify.com/track/3X12z8V9io3F2cptQZtLKK"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "HIRL",
-        "url": "https://open.spotify.com/album/2fTMxrci5X23QyqlObdNz2"
-      },
-      "artists": [
-        {
-          "name": "Marlin's Dreaming",
-          "url": "https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "Country Plaines",
-      "url": "https://open.spotify.com/track/6tRhpEikGam1EEI5RTObqQ"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/4z6z440xRZYzZsQmmkMKWQ"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 214624,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/6gQmQi4GYJWN2Lxr4cArJ2"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "HIRL",
+        "url": "https://open.spotify.com/album/2fTMxrci5X23QyqlObdNz2"
+      },
+      "artists": [
+        {
+          "name": "Marlin's Dreaming",
+          "url": "https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "Country Plaines",
+      "url": "https://open.spotify.com/track/6tRhpEikGam1EEI5RTObqQ"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Run It Back",
-        "url": "https://open.spotify.com/album/58XdVll8nynryYv4602rua"
-      },
-      "artists": [
-        {
-          "name": "Home Brew",
-          "url": "https://open.spotify.com/artist/6pAk8OZVCX1nMiYgtAauSH"
-        }
-      ],
-      "duration_ms": 233413,
-      "name": "Drinking In The Morning",
-      "url": "https://open.spotify.com/track/0HicFSg1HAgkDPTUKFA9nu"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Bigger",
         "url": "https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 198071,
       "name": "Bigger",
       "url": "https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Run It Back",
+        "url": "https://open.spotify.com/album/58XdVll8nynryYv4602rua"
+      },
+      "artists": [
+        {
+          "name": "Home Brew",
+          "url": "https://open.spotify.com/artist/6pAk8OZVCX1nMiYgtAauSH"
+        }
+      ],
+      "duration_ms": 233413,
+      "name": "Drinking In The Morning",
+      "url": "https://open.spotify.com/track/0HicFSg1HAgkDPTUKFA9nu"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "When He Was Mine (Pele Fo'i Mai)",
+        "url": "https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf"
+      },
+      "artists": [
+        {
+          "name": "A.R.T",
+          "url": "https://open.spotify.com/artist/6cJ05UAQ2Yab1UBcf5CrBU"
+        }
+      ],
+      "duration_ms": 156516,
+      "name": "When He Was Mine (Pele Fo'i Mai)",
+      "url": "https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/2TpzrA8WwmRSYYu1v9drok"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 172573,
       "name": "Crush",
       "url": "https://open.spotify.com/track/4V7LChILRB41wjxXAoTYtI"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "When He Was Mine (Pele Fo'i Mai)",
-        "url": "https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf"
-      },
-      "artists": [
-        {
-          "name": "A.R.T",
-          "url": "https://open.spotify.com/artist/6cJ05UAQ2Yab1UBcf5CrBU"
-        }
-      ],
-      "duration_ms": 156516,
-      "name": "When He Was Mine (Pele Fo'i Mai)",
-      "url": "https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "right now, forever",
-        "url": "https://open.spotify.com/album/0hxvUFor8krta7TpudUW1U"
-      },
-      "artists": [
-        {
-          "name": "Lucian Rice",
-          "url": "https://open.spotify.com/artist/2xxHXXg3zOxOsdb3cODhgs"
-        }
-      ],
-      "duration_ms": 204080,
-      "name": "FFS",
-      "url": "https://open.spotify.com/track/4bfWDJBebYt4IttaK1pk3m"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Handyman.",
         "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 161559,
       "name": "Handyman.",
       "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "right now, forever",
+        "url": "https://open.spotify.com/album/0hxvUFor8krta7TpudUW1U"
+      },
+      "artists": [
+        {
+          "name": "Lucian Rice",
+          "url": "https://open.spotify.com/artist/2xxHXXg3zOxOsdb3cODhgs"
+        }
+      ],
+      "duration_ms": 204080,
+      "name": "FFS",
+      "url": "https://open.spotify.com/track/4bfWDJBebYt4IttaK1pk3m"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Baited",
-        "url": "https://open.spotify.com/album/2VfPY2Zw8zio3uhqhryA1s"
-      },
-      "artists": [
-        {
-          "name": "Coast Arcade",
-          "url": "https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC"
-        }
-      ],
-      "duration_ms": 297583,
-      "name": "Baited",
-      "url": "https://open.spotify.com/track/4A8a7KKRvYvwFVPsbR1uFr"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Problem",
         "url": "https://open.spotify.com/album/4eI5jnzb7fizU3FheBlo97"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 192125,
       "name": "Problem",
       "url": "https://open.spotify.com/track/5QQ4DpokrMzJcAKFmN7to6"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Baited",
+        "url": "https://open.spotify.com/album/2VfPY2Zw8zio3uhqhryA1s"
+      },
+      "artists": [
+        {
+          "name": "Coast Arcade",
+          "url": "https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC"
+        }
+      ],
+      "duration_ms": 297583,
+      "name": "Baited",
+      "url": "https://open.spotify.com/track/4A8a7KKRvYvwFVPsbR1uFr"
     }
   ],
   "unique_name": "The Local List Aotearoa",

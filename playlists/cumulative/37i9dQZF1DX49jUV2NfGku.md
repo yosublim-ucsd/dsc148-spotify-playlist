@@ -2,7 +2,7 @@
 
 ### [Rock Solid](https://open.spotify.com/playlist/37i9dQZF1DX49jUV2NfGku)
 
-> Rock & alternative classics and essential new cuts ft\. Rage Against the Machine
+> Rock & alternative classics and essential new cuts ft\. Rage Against The Machine
 
 228 songs - 14 hr 56 min
 

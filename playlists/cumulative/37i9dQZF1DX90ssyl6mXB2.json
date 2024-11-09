@@ -1291,6 +1291,24 @@
     },
     {
       "album": {
+        "name": "Let it Go",
+        "url": "https://open.spotify.com/album/670MmC6oFMJXOzKPQyWR7p"
+      },
+      "artists": [
+        {
+          "name": "Reuben Aziz",
+          "url": "https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156428,
+      "name": "Let it Go",
+      "url": "https://open.spotify.com/track/3VRHouNm2rxSWm8IThc5YF"
+    },
+    {
+      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/27csXPVTW3PLguY6vbGoH7"
       },
@@ -1848,6 +1866,24 @@
       "duration_ms": 246773,
       "name": "PRBLMS",
       "url": "https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt"
+    },
+    {
+      "album": {
+        "name": "Proper",
+        "url": "https://open.spotify.com/album/6lLjoAo2N8QS79uSbdTy1m"
+      },
+      "artists": [
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144750,
+      "name": "Proper",
+      "url": "https://open.spotify.com/track/0kVAuODyktRRJuwoTzulAK"
     },
     {
       "album": {

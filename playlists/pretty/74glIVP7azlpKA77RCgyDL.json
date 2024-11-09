@@ -1,13 +1,93 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Darko US.",
-  "num_followers": 8755,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Counterparts.",
+  "num_followers": 8759,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAM5DmniChxsKA2ZmjHuche/roOvrc/",
+  "snapshot_id": "AAAM68bMpWcJgwh3Tj55MMdmDOg9dxkF",
   "tracks": [
+    {
+      "added_at": "2024-11-08 20:04:04",
+      "album": {
+        "name": "Heaven Let Them Die",
+        "url": "https://open.spotify.com/album/5pdSJTWNlQj6RJbYPgTFGZ"
+      },
+      "artists": [
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+        }
+      ],
+      "duration_ms": 220933,
+      "name": "A Martyr Left Alive",
+      "url": "https://open.spotify.com/track/6ajfXivkRaEKfnDWBYnN2D"
+    },
+    {
+      "added_at": "2024-11-08 20:16:52",
+      "album": {
+        "name": "On The Brink",
+        "url": "https://open.spotify.com/album/39bVJ3bstQjSHazht9mNct"
+      },
+      "artists": [
+        {
+          "name": "SPY",
+          "url": "https://open.spotify.com/artist/7vCI1d19vrokQuRkiAhwMC"
+        }
+      ],
+      "duration_ms": 108913,
+      "name": "On The Brink",
+      "url": "https://open.spotify.com/track/3pZkECxp728z1JKMG9nHYK"
+    },
+    {
+      "added_at": "2024-11-08 20:17:05",
+      "album": {
+        "name": "Trenches",
+        "url": "https://open.spotify.com/album/0K2gvxHs9aFSRgcdFKlamt"
+      },
+      "artists": [
+        {
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+        }
+      ],
+      "duration_ms": 196715,
+      "name": "Trenches",
+      "url": "https://open.spotify.com/track/6R2iQXWS7CfK2TPjtlfI0c"
+    },
+    {
+      "added_at": "2024-11-08 20:17:17",
+      "album": {
+        "name": "Welcome to the Industry (From Fretless - The Wrath of Riffson)",
+        "url": "https://open.spotify.com/album/0VBT2ouqnWfL43FPwH7NeZ"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "duration_ms": 276714,
+      "name": "Welcome to the Industry - From Fretless - The Wrath of Riffson",
+      "url": "https://open.spotify.com/track/7tQJYcSnoUfDQnHbMjpp0q"
+    },
+    {
+      "added_at": "2024-11-08 20:17:28",
+      "album": {
+        "name": "Let His Servants Starve",
+        "url": "https://open.spotify.com/album/6x95rzZNKpRasmGwaVDSWw"
+      },
+      "artists": [
+        {
+          "name": "Tribal Gaze",
+          "url": "https://open.spotify.com/artist/0pm9kmowFxxE4hWYM04MxH"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Let His Servants Starve",
+      "url": "https://open.spotify.com/track/5uYgjQ7DTWxVNkvXXGkoFZ"
+    },
     {
       "added_at": "2024-11-01 19:59:21",
       "album": {

@@ -4,7 +4,7 @@
 
 > This is Passion\. The essential tracks, all in one playlist.
 
-101 songs - 9 hr 38 min
+102 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Better Is One Day \- Live From LIFT: Creative Conference](https://open.spotify.com/track/6f9SjE4sxBxVxlgMVjcsn3) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Jeff Johnson](https://open.spotify.com/artist/3CLYuRxvlNfsdZvWIsnoDQ) | [Live From LIFT: Creative Conference](https://open.spotify.com/album/1es3MMzzi1DrLJ4PmWdYk3) | 4:12 | 2023-08-04 | 2023-10-11 |
 | [Bigger Than I Thought \- Live](https://open.spotify.com/track/1t3AJY56yarBeRWzNnUZXk) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Follow You Anywhere \(Live\)](https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1) | 7:12 | 2023-03-10 |  |
 | [Bless God \- Live From Passion 2024](https://open.spotify.com/track/55891kIDHcEGReUrpD461w) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Bless God](https://open.spotify.com/album/074Y58Kfks4iXnPCGWlo0O) | 5:14 | 2024-04-10 |  |
-| [Breakthrough Miracle Power](https://open.spotify.com/track/7ATRQZwETMu5jFYzXiMjNc) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Breakthrough Miracle Power / You Are The Lord](https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU) | 5:52 | 2023-03-10 |  |
+| [Breakthrough Miracle Power](https://open.spotify.com/track/7ATRQZwETMu5jFYzXiMjNc) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Breakthrough Miracle Power / You Are The Lord](https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU) | 5:52 | 2023-03-10 | 2024-11-09 |
 | [Buen Padre](https://open.spotify.com/track/2CmidRjwtCBIvxUfNAv4Ye) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Glorioso Día](https://open.spotify.com/album/4Xe7CGMiMfH2QG0folDw1i) | 4:20 | 2023-03-10 | 2024-01-05 |
 | [Build My Life \- Live](https://open.spotify.com/track/34plEFbj6nBMG7esY9rzim) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 7:39 | 2023-03-10 |  |
 | [Calvary's Enough \- Live From Passion 2024](https://open.spotify.com/track/0yu0l5Jlg3IFxWDlS9qJcb) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16) | [Call on Heaven \(Live\)](https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP) | 3:15 | 2024-03-04 | 2024-06-01 |
@@ -108,6 +108,7 @@
 | [Who Is Like The Lord \- Live From Passion 2023](https://open.spotify.com/track/0oaafO2efqhUqcLZWH6VSw) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Landon Wolfe](https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp) | 4:19 | 2023-03-17 |  |
 | [Worthy Of Your Name \- Live](https://open.spotify.com/track/1hQEZ8Bm6cXO1mZ7fXZqkU) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 7:00 | 2023-03-10 |  |
 | [Yesterday, Today And Forever \- Live From Passion 2022](https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 5:40 | 2023-03-10 |  |
+| [You Are My King \(Amazing Love\) \- Live/2006 Remastered](https://open.spotify.com/track/6SvW9GN8EBSqfgBJfC3rHA) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Christy Nockels](https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6) | [The Best Of Passion \(So Far\) \[Live\]](https://open.spotify.com/album/4XEkJ32aRYJ85OnaEykBEc) | 5:23 | 2024-11-09 |  |
 | [You Are Our God \- Live From Passion 2023](https://open.spotify.com/track/4p7eD3cKwzDAp9XxM8pTqZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp) | 4:49 | 2023-06-22 | 2023-09-16 |
 
 \*This playlist was first scraped on 2023-03-11. Prior content cannot be recovered.

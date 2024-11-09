@@ -24,7 +24,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 109090,
       "name": "A Lovely Day",
       "url": "https://open.spotify.com/track/4uvjetG9h0f3ctvZsW4DQR"
@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 150220,
       "name": "Anti Wave",
       "url": "https://open.spotify.com/track/28bRH9L22ZKrm6vo8QE9uI"
@@ -288,7 +288,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 157935,
       "name": "clouded",
       "url": "https://open.spotify.com/track/02yaLWrbBD6rjztw6b0cLL"
@@ -382,6 +382,24 @@
       "duration_ms": 102352,
       "name": "Dippin' Toes",
       "url": "https://open.spotify.com/track/7ralH7l4bA0HBkABnmADuS"
+    },
+    {
+      "album": {
+        "name": "downstream memories",
+        "url": "https://open.spotify.com/album/3AA5PeY5bEZKxYY60HsSek"
+      },
+      "artists": [
+        {
+          "name": "Zupa Fitz",
+          "url": "https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152647,
+      "name": "downstream memories",
+      "url": "https://open.spotify.com/track/3bBIcw0sCrz0z3W0UEG29k"
     },
     {
       "album": {
@@ -660,7 +678,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Glowing Tears",
       "url": "https://open.spotify.com/track/32m44mzFzkX6id2ERis5qj"
@@ -1043,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "mirror maze",
+        "url": "https://open.spotify.com/album/7J86EmXsS5IBGNPXzsRENp"
+      },
+      "artists": [
+        {
+          "name": "C-90",
+          "url": "https://open.spotify.com/artist/23TW2SFcDS3yUZOPwMmzIq"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148291,
+      "name": "mirror maze",
+      "url": "https://open.spotify.com/track/1N3CGy4TEPeF7ROJcztkEq"
+    },
+    {
+      "album": {
         "name": "mixture",
         "url": "https://open.spotify.com/album/4dAcetjrb9Z6lCH0BbpWYC"
       },
@@ -1382,7 +1418,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 127741,
       "name": "spirulina",
       "url": "https://open.spotify.com/track/6RTXsP4KJKDhBSATyR4ZSB"
@@ -1418,7 +1454,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 144182,
       "name": "Sueca",
       "url": "https://open.spotify.com/track/51YcG5rNWcsUsOwSQPVqk0"

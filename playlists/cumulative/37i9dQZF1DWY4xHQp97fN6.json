@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-03",
-  "description": "Mood: Turnt Cover: Playboi Carti",
+  "description": "Mood: Turnt Cover: Future",
   "name": "Get Turnt",
   "tracks": [
     {
@@ -10652,7 +10652,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 177273,
       "name": "Mr Chow",
       "url": "https://open.spotify.com/track/4YLizxRQsTqqnvzzYq2VaE"
@@ -13982,6 +13982,24 @@
       "duration_ms": 152137,
       "name": "Rick & Morty",
       "url": "https://open.spotify.com/track/1iAWDVZem3Vx3Pb8fTUTEL"
+    },
+    {
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/3NnceSjaPrxdNfXAE3TX8f"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167560,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/1rujAl2i7jyiS3gGmZN7L5"
     },
     {
       "album": {

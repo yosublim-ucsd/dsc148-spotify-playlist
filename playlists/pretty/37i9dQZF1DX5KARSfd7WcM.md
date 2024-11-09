@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KARSfd7WcM.md) - [plain]
 
 > Fall hard, love harder\. Listen to the music from Heartstopper, new season now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,388 likes - 146 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,553 likes - 146 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KARSfd7WcM.md) - [plain]
 | 83 | [I Think Ur Rlly Cool](https://open.spotify.com/track/3OTQ2hgZINAHBs9QTk7bRk) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [Small and Quiet](https://open.spotify.com/album/7nKFnLp9UONjXQwsBsdESQ) | 3:16 |
 | 84 | [Pair Up](https://open.spotify.com/track/0PvL5Pech6Rry6oUypB8z2) | [Adiescar Chase](https://open.spotify.com/artist/1oI96ZlUXDKA3KCVPJRVYk) | [Heartstopper: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5uQK8mAEhFxwsmV2tHIQiE) | 2:24 |
 | 85 | [Le temps de l'amour](https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Tous les garçons et les filles\)](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 2:24 |
-| 86 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
+| 86 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/0MosRqpk3OZXYV91A1vSEn) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
 | 87 | [foreplay](https://open.spotify.com/track/13sjEgBrQnrjRjJEs99YVe) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [witchpop](https://open.spotify.com/album/0Eh9Wxiz3Jdj4ciWb0MvNC) | 3:04 |
 | 88 | [miss u](https://open.spotify.com/track/4pLIQC7XrkGzKqt6vDtbiI) | [Bad Smith](https://open.spotify.com/artist/5ENi6vIaG2GiuMP9ykUcMw) | [miss u](https://open.spotify.com/album/2JTlvlax10SQwkSVQ4L7PZ) | 3:32 |
 | 89 | [All The Things](https://open.spotify.com/track/0I43APbAcxRZkxYo6yipQj) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [All The Things](https://open.spotify.com/album/5fEDgKojVggsini4nyUhX3) | 3:22 |

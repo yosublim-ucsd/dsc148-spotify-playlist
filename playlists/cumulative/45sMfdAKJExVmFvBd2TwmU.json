@@ -601,6 +601,32 @@
     },
     {
       "album": {
+        "name": "Chale Jaana Phir (Humko Tere Bina)",
+        "url": "https://open.spotify.com/album/72Moe2qRkjV00sSpdvDy1W"
+      },
+      "artists": [
+        {
+          "name": "Denny",
+          "url": "https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA"
+        },
+        {
+          "name": "Rahul Mishra",
+          "url": "https://open.spotify.com/artist/5wTLUHTynSSD53c7S9XEdr"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208933,
+      "name": "Chale Jaana Phir (Humko Tere Bina)",
+      "url": "https://open.spotify.com/track/0ELwxG13ijfCPEWi2pAKrO"
+    },
+    {
+      "album": {
         "name": "Chan Kithan",
         "url": "https://open.spotify.com/album/4BWqJqgYMTHT8SJfIriqzz"
       },
@@ -3536,6 +3562,10 @@
         {
           "name": "Arijit Singh",
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
         }
       ],
       "date_added": "2022-03-24",

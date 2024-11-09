@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Juniper Care
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Luna Is A Bep
 
-1,216 songs - 2 day 20 hr 55 min
+1,223 songs - 2 day 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Can’t Be in Love](https://open.spotify.com/track/4lWSYJQJgraWgmmUXwGwPw) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [Start Again](https://open.spotify.com/album/1aZ1I5N8K8GL23nElQDBuY) | 3:05 | 2023-12-14 | 2024-05-10 |
 | [Can’t Be in Love \(feat\. Gigi Cheung\)](https://open.spotify.com/track/308O6dRqn5M75ew07Q5KpC) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr), [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [Start Again](https://open.spotify.com/album/5bLCbxXWXpCEyImaQriukQ) | 3:05 | 2023-12-15 | 2024-04-19 |
 | [CARE NO MORE](https://open.spotify.com/track/5KkfFiXEGJFvK3h3o5GGVV) | [THAIMAY](https://open.spotify.com/artist/74gW37tnBQlQyfXeFog8eC), [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [CARE NO MORE](https://open.spotify.com/album/1q1TrXApRnt6y4JclX87yP) | 2:58 | 2023-07-20 | 2023-11-03 |
+| [Carolynn](https://open.spotify.com/track/4pGMixKOy71BC5t95onpcb) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [im right by the phone](https://open.spotify.com/album/2cBQFxtvAqax0XAB9dZ8HV) | 2:55 | 2024-11-08 |  |
 | [CASINO](https://open.spotify.com/track/2higxUPagN6pvwiNuw315r) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM), [sahiru](https://open.spotify.com/artist/3nlxic49LYblGALkFbzLsD) | [CASINO](https://open.spotify.com/album/7Az4hTpKVa6ha3dbWOL9Lz) | 2:54 | 2023-04-20 | 2023-07-14 |
 | [Cast a Spell](https://open.spotify.com/track/6yzbKS2v7yhcOxYToR79QN) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Cast a Spell](https://open.spotify.com/album/0jMlL4rQInNkEL7lw5HeTs) | 3:36 | 2024-09-05 |  |
 | [Cate Meridian](https://open.spotify.com/track/7ep6khXTU3kl3QmhFyvFn3) | [Kowloon Cowboy](https://open.spotify.com/artist/4Nd2OyYtobUJmHxRhEblFy) | [Cate Meridian](https://open.spotify.com/album/3mGpDZQCcle4nrNCc5mnFI) | 3:46 | 2023-10-19 | 2024-01-05 |
@@ -367,6 +368,7 @@
 | [It's all just coming back...](https://open.spotify.com/track/74w9yu737MPyC80EspUWni) | [CHRIS KENG](https://open.spotify.com/artist/3DbMgFXRrouUdW92AD9pdu) | [It's all just coming back...](https://open.spotify.com/album/73OvVDkLfASBQBTv5beZOT) | 2:43 | 2024-05-02 |  |
 | [It's Starting to Rain](https://open.spotify.com/track/0EwaVbFSx9crgupRCW5ybI) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [It's Starting to Rain](https://open.spotify.com/album/1z60IEouly3HMUxVRHY5U8) | 3:33 | 2023-05-25 | 2023-07-14 |
 | [It's Starting to Rain](https://open.spotify.com/track/34zi4KYkM2Xh4utbUSk0qE) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [It's Starting to Rain](https://open.spotify.com/album/5lYKLyu7mfLm2sPRVqRUzP) | 3:33 | 2023-04-13 | 2023-06-01 |
+| [IYKYK](https://open.spotify.com/track/27jwZgJ6STvpzEGgfCVxtX) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [IYKYK](https://open.spotify.com/album/2sRGfYNbBeVkEMKVgaK84P) | 2:58 | 2024-11-08 |  |
 | [Jaja](https://open.spotify.com/track/6HNkF6IVPPJXWmABsJxFyN) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Jaja](https://open.spotify.com/album/5vzMIA3cZTuPRiGd4w2rBs) | 4:13 | 2024-02-01 | 2024-05-10 |
 | [Josh Groove](https://open.spotify.com/track/6a1YjzaPhDWqdAp4KUPkXt) | [Timfaye](https://open.spotify.com/artist/7nQa2cROizYQz5dNBypXNt), [Bella World](https://open.spotify.com/artist/3XUDJGDts81L0k83qK4Zft) | [Josh Groove](https://open.spotify.com/album/5kCtNE3X8U3OFFHgujnmK9) | 3:46 | 2023-01-19 | 2023-05-26 |
 | [Juggle \(Chill Out\)](https://open.spotify.com/track/4mzoLDPmmYH0hDSoVLGIKH) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva) | [Juggle \(Chill Out\)](https://open.spotify.com/album/3Z0SJkcxhzDJjuJliHtI1q) | 2:30 | 2024-02-01 | 2024-05-10 |
@@ -752,7 +754,9 @@
 | [Unison](https://open.spotify.com/track/0r9l1wCc53p2QF0n9vlWt8) | [Ragpickers](https://open.spotify.com/artist/5QMXsj4d4MVjUVTTU6SSCj) | [Unison](https://open.spotify.com/album/6kB5MFEb7FbX6g5hsXlgM5) | 4:16 | 2023-02-16 | 2023-07-14 |
 | [Unknown](https://open.spotify.com/track/1l9UUJaLMgJ0gBtSLZW1SF) | [何佩](https://open.spotify.com/artist/3aRY5Cw7kIXQlcEnmSnhTo) | [Unknown](https://open.spotify.com/album/5Jz8oeB9hH55B7tCT2zLVK) | 5:04 | 2022-05-26 | 2022-07-29 |
 | [Unlock](https://open.spotify.com/track/3inRrpZMI0sRk8Ldef8kzu) | [YINJ](https://open.spotify.com/artist/1lo7i3t2LzfZ4GED38acoK), [WingYi](https://open.spotify.com/artist/53IHrm3wBJYrurtW01xGVV) | [Unlock](https://open.spotify.com/album/45qy057WtjUMopdSz1hh4p) | 3:48 | 2022-05-26 | 2022-06-10 |
+| [Unspoken Confessions](https://open.spotify.com/track/6vCWbFp5CSDeiPNrcfo9we) | [NIVKOM](https://open.spotify.com/artist/2BwqjjKkM8McmEUbzDTXpZ) | [Unspoken Confessions](https://open.spotify.com/album/3dwZzfCurSSwjF0OZmBBR0) | 1:38 | 2024-11-08 |  |
 | [Until I'm Alright](https://open.spotify.com/track/5v9QgQcfjOnjzg8rtN72AT) | [The Wavelength](https://open.spotify.com/artist/3yvaG8Q6oLAp95rMecgACr) | [Until I'm Alright](https://open.spotify.com/album/0TMejVAhdRNoiA4r8f9Odt) | 3:16 | 2023-11-23 | 2024-02-02 |
+| [Until you fight it](https://open.spotify.com/track/6y0ksLfBpzwgOSmpB97UKA) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Until you fight it](https://open.spotify.com/album/1sclmlklYw7WJ4lcAvZbyB) | 4:43 | 2024-11-08 |  |
 | [UP IN MY MIND](https://open.spotify.com/track/1qKq8cxDgJzDWibAn7cEK1) | [Kei Valentine](https://open.spotify.com/artist/62N80uNLvKhiVGKX9V7G87) | [UP IN MY MIND](https://open.spotify.com/album/6PDtE4OofONGU9x7rKWCuW) | 2:30 | 2024-02-22 | 2024-05-10 |
 | [USE](https://open.spotify.com/track/7qLc278qge2t34PrvsqhZr) | [Gwyn](https://open.spotify.com/artist/1vqrJaMnLPeWiRp1oabfxR) | [130k across the highway](https://open.spotify.com/album/1Ce0uQijUbWZ130GVqGWif) | 2:34 | 2023-10-05 | 2024-01-05 |
 | [Voodoo](https://open.spotify.com/track/4FXyCbM9p5MG7W77fx8aoP) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw), [Eric Sisco](https://open.spotify.com/artist/3CrVovDwDm5J4T5Ql8ludA), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu) | [Voodoo](https://open.spotify.com/album/7H9iqUhpuBNriCSnYi1yp9) | 2:43 | 2024-10-10 |  |
@@ -812,6 +816,7 @@
 | [You'll Never Know](https://open.spotify.com/track/7ENDlCsI5teuC6MLXsbRo1) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [You'll Never Know](https://open.spotify.com/album/6B3rJyoegOOnDPjnighssL) | 4:29 | 2023-07-06 | 2023-11-03 |
 | [You'll Never Know \(When I Was Younger\)](https://open.spotify.com/track/7kTAJ5Oyd6ODvld30mhNfE) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [You'll Never Know \(When I Was Younger\)](https://open.spotify.com/album/5sLRWgvA5iFxFjqmmrn5AG) | 4:34 | 2023-08-03 | 2023-11-03 |
 | [you'll take it](https://open.spotify.com/track/3nOymPXDH86yh3Wupsr9gc) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [I'll look out for you](https://open.spotify.com/album/7pwnW4RDep7qxE1paDdZ4r) | 2:06 | 2024-09-05 |  |
+| [You're finally in my song](https://open.spotify.com/track/1ccPcBEz1aWdLsRMCVSvEJ) | [Semi L](https://open.spotify.com/artist/7HdZW6br7fJEj9tqbaWCcF) | [You're finally in my song](https://open.spotify.com/album/4jfyGw7DzQwlCZU2qezjuz) | 3:27 | 2024-11-08 |  |
 | [you're not my destiny](https://open.spotify.com/track/0djlNOVXzPTROPhJmpQDRQ) | [Jennifer Tee](https://open.spotify.com/artist/7gVbYtrrCyYLzj48No9W9S) | [you're not my destiny](https://open.spotify.com/album/4iHJ010BXdhkZ6c9LO57eA) | 3:55 | 2024-09-12 |  |
 | [You, Me, Dance](https://open.spotify.com/track/5WpJG1jatsWZZHildSbGSW) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Almond Milk](https://open.spotify.com/album/2wOqA3RVKIFxeZc8WpMlef) | 3:05 | 2023-12-21 | 2024-05-10 |
 | [Youngsta](https://open.spotify.com/track/4582n3nbK1d05mn6rH4dah) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [TXMIYAMA](https://open.spotify.com/artist/725OKiwmqplFRll4H7WHkw) | [Youngsta](https://open.spotify.com/album/6gDyqO7fZP8MbFhAKP9vyk) | 3:12 | 2023-11-23 | 2024-02-02 |
@@ -1175,6 +1180,7 @@
 | [超級勁爆叱咤風雲金曲](https://open.spotify.com/track/6YuNeZj7x1kOsp1XsfMF6a) | [N9](https://open.spotify.com/artist/3POd6Qa84pvklcv3bDWd0J) | [超級勁爆叱咤風雲金曲](https://open.spotify.com/album/5zpdiyBZKn1JiIaasFc7YA) | 2:30 | 2023-06-15 | 2023-09-15 |
 | [蹺蹊](https://open.spotify.com/track/4o3T8OsWSj25ZBujlPapff) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva) | [蹺蹊](https://open.spotify.com/album/3IzhNtnRhc5SbBgLtCpmXJ) | 2:58 | 2022-05-26 | 2022-06-10 |
 | [輕不著地](https://open.spotify.com/track/2mun9hZy8ZOLEHNf0kgJwy) | [before the night ends](https://open.spotify.com/artist/4AGHDyw984Ss54AzrGeTgU) | [輕不著地](https://open.spotify.com/album/2Qp2UULxgZ99HMarRRctbn) | 4:58 | 2022-05-26 | 2022-07-29 |
+| [輪迴德己立街](https://open.spotify.com/track/0GnS1rJNpc8PEfRhIifTO2) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [輪迴德己立街](https://open.spotify.com/album/1hEqBNDQAEZNmDm3y3tsIs) | 3:04 | 2024-11-08 |  |
 | [轆轆 \- World Vision \- Let the Hungry Be Heard 原創歌曲](https://open.spotify.com/track/3Mhzxp8xj5dhRZUNqrl0Lw) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [轆轆 \(World Vision \- Let the Hungry Be Heard 原創歌曲\)](https://open.spotify.com/album/1MdzZQ2Ol5653dDLYxwE3A) | 2:01 | 2023-08-10 | 2023-12-01 |
 | [轉世音](https://open.spotify.com/track/4RGINsTVEOUC0IiHfpHIOh) | [Alexmalism](https://open.spotify.com/artist/2UwJTbVVDgt5KKRK5i94zD) | [轉世音](https://open.spotify.com/album/6Dzbm1npQSJ0PbprRD2Ime) | 4:08 | 2024-04-18 |  |
 | [轉個身擁抱](https://open.spotify.com/track/4Lr6oJWXDw4dH9j6Gx9DKr) | [何佩](https://open.spotify.com/artist/3aRY5Cw7kIXQlcEnmSnhTo) | [轉個身擁抱](https://open.spotify.com/album/4Bxi1DFRqMZ4ZgZup60baS) | 3:57 | 2023-08-10 | 2023-12-01 |
@@ -1213,6 +1219,7 @@
 | [香](https://open.spotify.com/track/1mQs7TBokQ8l85TUcdlGeu) | [Delf](https://open.spotify.com/artist/3ZVZi0IyNLH18rZsmA8SfO), [polun](https://open.spotify.com/artist/64bB4K2Z0AohDMCrnTtypq) | [Geosonics \- A Love Letter](https://open.spotify.com/album/25AEzqbb0RLpOkMnGidwPV) | 1:28 | 2023-12-21 | 2024-05-10 |
 | [香港地pt.2](https://open.spotify.com/track/2q24Khiek5SoCiBMyHO1Kx) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [香港地pt.2](https://open.spotify.com/album/1UB7z3WhjgeyibzaNQkjLu) | 3:35 | 2022-05-26 | 2022-07-29 |
 | [騷](https://open.spotify.com/track/34DwldJDRq2Qi3aQatDTWZ) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [騷](https://open.spotify.com/album/4MRHE6v3nBWgTRMYV1WNbE) | 4:14 | 2022-05-26 | 2022-09-09 |
+| [髮端](https://open.spotify.com/track/7nWyAT4CyWrHKyKlAxjbVH) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68) | [週五狀態](https://open.spotify.com/album/4kMjk7NN45w7WSfz7o5uD4) | 3:12 | 2024-11-08 |  |
 | [鬆](https://open.spotify.com/track/1sM06CdsgQUWAFo8NaQWoZ) | [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [鬆](https://open.spotify.com/album/5JFJ4Lo6knTRUFPW6JoKTl) | 3:02 | 2023-08-10 | 2023-11-03 |
 | [魚蛋燒賣](https://open.spotify.com/track/4lSKRgNrR3x8nnLSTXpFI1) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva), [N\-Free](https://open.spotify.com/artist/0or4a5LZi0qF0shTXnTNvZ) | [魚蛋燒賣](https://open.spotify.com/album/3EMwOR2jUzFD08ncmVCpnw) | 2:35 | 2023-02-23 | 2023-07-14 |
 | [鯉魚門睇海](https://open.spotify.com/track/3Y5iAfwqZBRLEpktR6jQb7) | [老尷工作室](https://open.spotify.com/artist/262xGvvV3B1o5LeiexnPDp) | [鯉魚門睇海](https://open.spotify.com/album/66CYuVthhAzHClKV7EU8Xt) | 4:01 | 2022-12-15 | 2023-03-18 |

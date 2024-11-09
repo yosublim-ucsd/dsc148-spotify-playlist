@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lEmZQJ3oaw.md) - [plain]
 
 > Best of Jazz music from Bollywood\. Cover \- A R Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,702 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,737 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lEmZQJ3oaw.md) - [plain]
 | 15 | [Rehna Tu](https://open.spotify.com/track/5RZbS87YI2wd87SWuO0YAX) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Delhi\-6](https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh) | 6:49 |
 | 16 | [Tu Bole .Main Boloon](https://open.spotify.com/track/73m0ROzv1B86iNvuo8rh8z) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Jaane Tu..\. Ya Jaane Na](https://open.spotify.com/album/7J5iE51Mk97Mf0BjjwYXUZ) | 4:33 |
 | 17 | [Meri Jaan](https://open.spotify.com/track/4iEGv5Ne6HuCkFCjzxdWQK) | [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Gangubai Kathiawadi](https://open.spotify.com/album/1ewtD7ykSg3j31ARf0VN0b) | 3:58 |
-| 18 | [Taarefon Se](https://open.spotify.com/track/2uwZSBvQer73esf6tV1wQG) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Dear Zindagi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW) | 4:38 |
+| 18 | [Taarefon Se](https://open.spotify.com/track/2uwZSBvQer73esf6tV1wQG) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Dear Zindagi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW) | 4:38 |
 | 19 | [Ye Tumhari Meri Baatein](https://open.spotify.com/track/1xaj4bm3GMthtoZHUfepl1) | [Dominique](https://open.spotify.com/artist/4iKhzZlW5dpmbF2LWnNlPr) | [Rock On](https://open.spotify.com/album/43Fh1hMumKDCcax2JOWEmR) | 5:24 |
 | 20 | [Yeh Raat Yeh Chandni \- MTV Unwind](https://open.spotify.com/track/3at3X8kqQ3nxiB6lKgVJts) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Yeh Raat Yeh Chandni \- MTV Unwind](https://open.spotify.com/album/43vmgvDwOPbW7bIKqMWfKi) | 3:50 |
 | 21 | [Babuji Bhole Bhaale](https://open.spotify.com/track/5JUQDfESf88rE9PnzJZ9E5) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Jubilee](https://open.spotify.com/album/6zNa16wfVbFzh03Duij8f9) | 4:05 |

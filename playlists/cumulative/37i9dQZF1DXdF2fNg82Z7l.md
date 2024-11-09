@@ -4,7 +4,7 @@
 
 > a strictly smooth mood...cover: Kehlani
 
-188 songs - 9 hr 41 min
+189 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [9 to 5](https://open.spotify.com/track/5mxyI5JvaxInlaZFgCLr5j) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [9 to 5](https://open.spotify.com/album/4iZ32ii2xQGxj6WRlriOEg) | 2:48 | 2024-10-17 | 2024-11-08 |
 | [911](https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [911](https://open.spotify.com/album/6ttkQSLzTo8hug4JWcBkOa) | 2:07 | 2024-07-29 |  |
 | [A N X I E T Y \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2024-03-14 | 2024-07-30 |
+| [Actually](https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 3:47 | 2024-10-24 |  |
 | [Adolescence \(Ft\. Digga D\)](https://open.spotify.com/track/3ZHGe1GshUNN57bz8khFNf) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Adolescence \(Ft\. Digga D\)](https://open.spotify.com/album/2eYUcSI6kc1sOW7oU5vTu5) | 2:51 | 2024-03-14 | 2024-10-05 |
 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 | 2024-03-14 |  |
 | [All In](https://open.spotify.com/track/3pJsTxvDmY1G9hfh4G72P3) | [SaxONLY](https://open.spotify.com/artist/3wQ96sPHigjP4p78aCoG4y) | [All In](https://open.spotify.com/album/2EaTAB8COSHTCcevxTboLU) | 1:54 | 2024-03-14 | 2024-07-30 |
@@ -187,7 +188,7 @@
 | [Way Back in HS in NY in June](https://open.spotify.com/track/4raEEc2KgXla14KdUlYhUY) | [Prod DR3o](https://open.spotify.com/artist/3yEVDDU45XzlumJuupm1Ul), [nikomanjiro](https://open.spotify.com/artist/40IrCW03DHKkwbAX7tTrfV) | [Way Back in HS in NY in June](https://open.spotify.com/album/00yYlDLwC4OKWuwotpoCw4) | 3:02 | 2024-03-14 | 2024-10-05 |
 | [Weh She Wan](https://open.spotify.com/track/6V335uEK9wyZMkh2id1x3Q) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Weh She Wan](https://open.spotify.com/album/27IuYlhsQN5HSvtGTyvjKi) | 1:54 | 2024-07-29 | 2024-10-05 |
 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 | 2024-07-29 |  |
-| [When He’s Not There \(feat\. Lucky Daye\)](https://open.spotify.com/track/79C5R15cOiFYUvWG4gDL10) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [When He’s Not There \(feat\. Lucky Daye\)](https://open.spotify.com/album/4wbY1m1O17LJx00KoN6oQN) | 4:28 | 2024-10-04 |  |
+| [When He’s Not There \(feat\. Lucky Daye\)](https://open.spotify.com/track/79C5R15cOiFYUvWG4gDL10) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [When He’s Not There \(feat\. Lucky Daye\)](https://open.spotify.com/album/4wbY1m1O17LJx00KoN6oQN) | 4:28 | 2024-10-04 | 2024-11-09 |
 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 | 2024-10-04 |  |
 | [Why Why Why Why Why](https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:58 | 2024-10-04 |  |
 | [Witness](https://open.spotify.com/track/3I4Ay3SjBeJvp0JQCEu6mh) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [Witness](https://open.spotify.com/album/1QpzXe0shTuT75JgxTasJc) | 3:58 | 2024-10-04 | 2024-10-18 |

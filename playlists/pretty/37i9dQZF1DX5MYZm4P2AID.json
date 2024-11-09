@@ -1,13 +1,45 @@
 {
   "description": "Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix. ",
-  "num_followers": 239453,
+  "num_followers": 240021,
   "original_name": "Outer Banks Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyxJUAAAAAAgZLhH3fVgf7T4EC9RlzRD",
+  "snapshot_id": "Zy2a0AAAAAAcI39LwpOZWWkt1Bn4Voj4",
   "tracks": [
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "FUGA!",
+        "url": "https://open.spotify.com/album/6PSSO3uIAFk8Nuic9XYfM8"
+      },
+      "artists": [
+        {
+          "name": "Sgt. Papers",
+          "url": "https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri"
+        }
+      ],
+      "duration_ms": 165568,
+      "name": "FUGA!",
+      "url": "https://open.spotify.com/track/2TnHB1SGVY1kEDjkao4aJv"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "D\u00e9jalo Para Despu\u00e9s",
+        "url": "https://open.spotify.com/album/5PFIWIbEeVuOOHI1DgLtov"
+      },
+      "artists": [
+        {
+          "name": "Sgt. Papers",
+          "url": "https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri"
+        }
+      ],
+      "duration_ms": 215594,
+      "name": "D\u00e9jalo Para Despu\u00e9s",
+      "url": "https://open.spotify.com/track/0TECPOQtaT09lwiyhjZpMX"
+    },
     {
       "added_at": "2024-11-07 05:00:00",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 191600,
       "name": "Haywire",
       "url": "https://open.spotify.com/track/4bompYh7n8EV1SdZxcPobl"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Outer Banks: Season 4 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4GUsqgkNYIx9UA9yxTB3L6"
+      },
+      "artists": [
+        {
+          "name": "Fil Eisler",
+          "url": "https://open.spotify.com/artist/5129CrVkHTSigIoqGiseqj"
+        }
+      ],
+      "duration_ms": 395724,
+      "name": "Pogues Theme (Light Tunnel 2024)",
+      "url": "https://open.spotify.com/track/4ueJvrOxNdtKjUENM9Z1M6"
     },
     {
       "added_at": "2024-11-07 05:00:00",
@@ -55,22 +103,6 @@
       "duration_ms": 130427,
       "name": "Nail It on the First Try",
       "url": "https://open.spotify.com/track/1H7GOLyQ9uV1keAuvEWAdJ"
-    },
-    {
-      "added_at": "2024-11-07 05:00:00",
-      "album": {
-        "name": "Outer Banks: Season 4 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/4GUsqgkNYIx9UA9yxTB3L6"
-      },
-      "artists": [
-        {
-          "name": "Fil Eisler",
-          "url": "https://open.spotify.com/artist/5129CrVkHTSigIoqGiseqj"
-        }
-      ],
-      "duration_ms": 395724,
-      "name": "Pogues Theme (Light Tunnel 2024)",
-      "url": "https://open.spotify.com/track/4ueJvrOxNdtKjUENM9Z1M6"
     },
     {
       "added_at": "2024-11-07 05:00:00",
@@ -287,6 +319,22 @@
     {
       "added_at": "2024-11-07 05:00:00",
       "album": {
+        "name": "Outer Banks: Season 4 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4GUsqgkNYIx9UA9yxTB3L6"
+      },
+      "artists": [
+        {
+          "name": "Fil Eisler",
+          "url": "https://open.spotify.com/artist/5129CrVkHTSigIoqGiseqj"
+        }
+      ],
+      "duration_ms": 125915,
+      "name": "JJ and Kiara's Theme",
+      "url": "https://open.spotify.com/track/70lTMY51W8gVcvFiOyIM4L"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
         "name": "Heroes to Zeros",
         "url": "https://open.spotify.com/album/2VdMOAL684solHzw1XqBnI"
       },
@@ -315,22 +363,6 @@
       "duration_ms": 317760,
       "name": "Can't Find My Way Home",
       "url": "https://open.spotify.com/track/79yHFFrvxBkUL8O8ieGlbR"
-    },
-    {
-      "added_at": "2024-11-07 05:00:00",
-      "album": {
-        "name": "Outer Banks: Season 4 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/4GUsqgkNYIx9UA9yxTB3L6"
-      },
-      "artists": [
-        {
-          "name": "Fil Eisler",
-          "url": "https://open.spotify.com/artist/5129CrVkHTSigIoqGiseqj"
-        }
-      ],
-      "duration_ms": 125915,
-      "name": "JJ and Kiara's Theme",
-      "url": "https://open.spotify.com/track/70lTMY51W8gVcvFiOyIM4L"
     },
     {
       "added_at": "2024-11-07 05:00:00",
@@ -459,6 +491,22 @@
     {
       "added_at": "2024-11-07 05:00:00",
       "album": {
+        "name": "Outer Banks: Season 4 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4GUsqgkNYIx9UA9yxTB3L6"
+      },
+      "artists": [
+        {
+          "name": "Fil Eisler",
+          "url": "https://open.spotify.com/artist/5129CrVkHTSigIoqGiseqj"
+        }
+      ],
+      "duration_ms": 131774,
+      "name": "We've Got To Hurry!",
+      "url": "https://open.spotify.com/track/5vuWiStLFCSj6AXMHsSUCr"
+    },
+    {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
         "name": "Cool Chic",
         "url": "https://open.spotify.com/album/1eyXr9HArH5ClRxef70mu9"
       },
@@ -491,22 +539,6 @@
       "duration_ms": 654026,
       "name": "Jedba",
       "url": "https://open.spotify.com/track/6nSaLFlA8uiAdujLMfHDjg"
-    },
-    {
-      "added_at": "2024-11-07 05:00:00",
-      "album": {
-        "name": "Outer Banks: Season 4 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/4GUsqgkNYIx9UA9yxTB3L6"
-      },
-      "artists": [
-        {
-          "name": "Fil Eisler",
-          "url": "https://open.spotify.com/artist/5129CrVkHTSigIoqGiseqj"
-        }
-      ],
-      "duration_ms": 131774,
-      "name": "We've Got To Hurry!",
-      "url": "https://open.spotify.com/track/5vuWiStLFCSj6AXMHsSUCr"
     },
     {
       "added_at": "2024-11-07 05:00:00",
@@ -781,6 +813,22 @@
       "url": "https://open.spotify.com/track/2rxUnZsfZAIuQ9vKO24Ute"
     },
     {
+      "added_at": "2024-11-07 05:00:00",
+      "album": {
+        "name": "Outer Banks: Season 4 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4GUsqgkNYIx9UA9yxTB3L6"
+      },
+      "artists": [
+        {
+          "name": "Fil Eisler",
+          "url": "https://open.spotify.com/artist/5129CrVkHTSigIoqGiseqj"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "The First Thing Of Funk",
+      "url": "https://open.spotify.com/track/4jyJyEQE1HPsms02NAlLPn"
+    },
+    {
       "added_at": "2024-10-10 07:00:00",
       "album": {
         "name": "Secret Colours",
@@ -811,22 +859,6 @@
       "duration_ms": 191216,
       "name": "Slow Learner",
       "url": "https://open.spotify.com/track/79W8lW8xyYayXfi8TTbtoD"
-    },
-    {
-      "added_at": "2024-11-07 05:00:00",
-      "album": {
-        "name": "Outer Banks: Season 4 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/4GUsqgkNYIx9UA9yxTB3L6"
-      },
-      "artists": [
-        {
-          "name": "Fil Eisler",
-          "url": "https://open.spotify.com/artist/5129CrVkHTSigIoqGiseqj"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "The First Thing Of Funk",
-      "url": "https://open.spotify.com/track/4jyJyEQE1HPsms02NAlLPn"
     },
     {
       "added_at": "2024-10-10 07:00:00",

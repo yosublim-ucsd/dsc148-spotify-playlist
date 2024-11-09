@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> Ethel Cain returns
+> alice phoebe lou <3
 
-3,067 songs - 6 day 22 hr 7 min
+3,071 songs - 6 day 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Best Friend](https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Best Friend](https://open.spotify.com/album/0Yv8BeGMwLuJ4OGMFmnSjW) | 2:43 | 2023-04-05 | 2023-06-02 |
 | [Best of Me](https://open.spotify.com/track/1sDovYD581U1a5hk1QLBcs) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [All The Ways We Are Together](https://open.spotify.com/album/44wiGP3EtCvu6lDACZAvkC) | 2:37 | 2021-04-23 | 2021-07-31 |
 | [Best Thing](https://open.spotify.com/track/4O7N7BLSnvItd2NecWsrV9) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Best Thing](https://open.spotify.com/album/0mBeDTE8w6LE0ZmSEXCqDs) | 2:36 | 2021-04-16 | 2021-06-05 |
+| [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 | 2024-11-08 |  |
 | [better](https://open.spotify.com/track/15rVXXprHKchfNG4kLnIqP) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [better](https://open.spotify.com/album/7lMnNy8LhfkEOIhhXMhFs2) | 2:49 | 2022-04-29 | 2022-06-04 |
 | [better for you](https://open.spotify.com/track/7qpdb7GwgedBMJwWiyTgR6) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [better for you](https://open.spotify.com/album/5jZoOcBo5F78LdlVs3Np2M) | 3:18 | 2020-06-25 | 2020-08-20 |
 | [Better ft\. Cuco](https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Better ft\. Cuco](https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx) | 2:57 | 2024-07-19 | 2024-09-07 |
@@ -1112,7 +1113,7 @@
 | [Gutterball](https://open.spotify.com/track/3qWiLB5CmJBr2KeU1zrgcS) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Gutterball](https://open.spotify.com/album/2BnJnXnhreOk6FRNbdmi93) | 3:32 | 2022-02-04 | 2022-03-11 |
 | [Habit](https://open.spotify.com/track/76ONL66gg6aJeeWXgx1XN4) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lately EP](https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI) | 2:33 | 2020-08-20 | 2020-09-25 |
 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 | 2022-08-18 | 2023-02-18 |
-| [Hacker](https://open.spotify.com/track/7yokdvwHVF5Ejp5iqP4FhY) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Hacker](https://open.spotify.com/album/0S7e6QKCfYDmvIVujOC9S8) | 2:59 | 2024-11-01 |  |
+| [Hacker](https://open.spotify.com/track/7yokdvwHVF5Ejp5iqP4FhY) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Hacker](https://open.spotify.com/album/0S7e6QKCfYDmvIVujOC9S8) | 2:59 | 2024-11-01 | 2024-11-09 |
 | [Haircut](https://open.spotify.com/track/7KbXhJSDA7gl7a3KICExdf) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [Haircut](https://open.spotify.com/album/5Dd6j2AVBkCyfZGHiix7e0) | 2:02 | 2023-07-28 | 2023-08-26 |
 | [Haircut](https://open.spotify.com/track/3UY4s7F4Ard3T6vm7xcJxQ) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Boy in Jeans](https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn) | 3:36 | 2019-07-30\* | 2020-09-17 |
 | [Half Alive](https://open.spotify.com/track/3SgaIF7QF3DgRG3yFLlzVe) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Half Alive](https://open.spotify.com/album/6yKFZg4f9lFfEQ0cPNqFgY) | 3:32 | 2024-10-11 |  |
@@ -1382,6 +1383,7 @@
 | [Impurities](https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Impurities](https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP) | 3:49 | 2023-03-17 | 2023-04-20 |
 | [In & Out of Time](https://open.spotify.com/track/04HUqn66kaoDpNHmgCTUEm) | [Casino Hearts](https://open.spotify.com/artist/131JU4HWYoO1AixJMbcS3z) | [In & Out of Time](https://open.spotify.com/album/6L3Gfeq2jaRbWrzjSiR2MQ) | 5:20 | 2024-08-05 | 2024-09-21 |
 | [In Between Plans](https://open.spotify.com/track/4T59PtRxilhsLFWxWabCEm) | [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [In Between Plans](https://open.spotify.com/album/0YdjMWhmusn8W2QrDYYuAz) | 3:46 | 2019-07-30\* | 2019-10-11 |
+| [IN FEAR, ETC.](https://open.spotify.com/track/1s3I6VvrD1BGGflMFS5NSO) | [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [Since Winona](https://open.spotify.com/album/7D9vZwRiwIzwEXHzsVutdK) | 3:33 | 2024-11-08 |  |
 | [In My Head](https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [In My Head](https://open.spotify.com/album/0fqg8Qb6hM93RnLEMMrINj) | 3:32 | 2023-03-24 | 2023-07-12 |
 | [In My Head](https://open.spotify.com/track/1tT55K6VEyO6XFDxK4lDQe) | [Peter Manos](https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal) | [In My Head](https://open.spotify.com/album/1Ww9Yz5WDGdxBhS5FlVy6Y) | 3:34 | 2019-07-30\* | 2019-10-03 |
 | [In My Mind](https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [In My Mind](https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt) | 2:42 | 2021-09-25 | 2022-02-26 |
@@ -1582,6 +1584,7 @@
 | [Little League](https://open.spotify.com/track/3yJ6oOCpjC1KbGO4uqebRu) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Little League](https://open.spotify.com/album/26WqHeLHlv0Dde7RPYVw9G) | 2:49 | 2022-02-17 | 2022-04-23 |
 | [Little Lies](https://open.spotify.com/track/4skwXbs9do3ViQGGJgsSbW) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Little Lies](https://open.spotify.com/album/3aOupV46npEwhB14PvhJbF) | 3:40 | 2022-02-25 | 2022-06-22 |
 | [Little Lies](https://open.spotify.com/track/6QpZXzHcOgXK41Y3YCx203) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Analogue](https://open.spotify.com/album/1SgtXskC74No0x9a9iDlfw) | 3:40 | 2019-07-30\* | 2020-01-28 |
+| [Little Lies](https://open.spotify.com/track/2Yb4dMnkSdU1czgTKNFrob) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [Little Lies](https://open.spotify.com/album/1OoBJOqOnp31MOSd6Fi8fo) | 3:04 | 2024-11-08 |  |
 | [lived to love](https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk) | 4:15 | 2021-09-25 | 2021-12-02 |
 | [Liz](https://open.spotify.com/track/5wJ9sSG7NItwu34jMnyxqa) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Liz](https://open.spotify.com/album/38WHZJFOzJY6k5INRXigZC) | 2:55 | 2021-06-02 | 2022-04-21 |
 | [LMK](https://open.spotify.com/track/0ZnlOLCEgWytG4MXmOJ8ek) | [Drauve](https://open.spotify.com/artist/3amCA9U9lgity9TZs1MENn) | [LMK](https://open.spotify.com/album/1j30wLUJBclPt1yCmdlaQR) | 2:46 | 2020-08-20 | 2020-09-12 |
@@ -2466,6 +2469,7 @@
 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-11-08 | 2022-12-25 |
 | [Spit Up](https://open.spotify.com/track/0DYIVjRfixT8rHJyBkW3ns) | [lilo](https://open.spotify.com/artist/0UHZYAHCtBGKef12trPQrL) | [I Don't Like My Chances On The Outside](https://open.spotify.com/album/6aD5li3XAl6aT4oTq8bE2M) | 4:40 | 2023-08-11 | 2023-08-26 |
 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:39 | 2024-04-11 | 2024-06-06 |
+| [SPJ](https://open.spotify.com/track/0DcUSjMBZFzqy37knKFm0m) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [SPJ](https://open.spotify.com/album/3MFVcbp3tgK5fcVXRqvpal) | 3:30 | 2024-11-08 |  |
 | [Splendor](https://open.spotify.com/track/5gtBltnNY2bjlAxy0RPlhf) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [She Only Said](https://open.spotify.com/album/0T7eVLYyDDliWwggDLZ9iU) | 4:13 | 2023-10-11 | 2023-11-11 |
 | [Splinter](https://open.spotify.com/track/1oMKYS43XRqNsY1SVuiCoJ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Splinter](https://open.spotify.com/album/41mLVNvRtzAvh8W3Ybhx6K) | 2:28 | 2022-05-20 | 2022-07-19 |
 | [sports](https://open.spotify.com/track/4xp4OChbf94rpxwPe9qA5R) | [Elah Hale](https://open.spotify.com/artist/0EDEUACmghvLBhxLnMpyeU) | [sports](https://open.spotify.com/album/6bxnyq3skEwaXzcauU7FUs) | 3:00 | 2020-09-25 | 2020-10-13 |

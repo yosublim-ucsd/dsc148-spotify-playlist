@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops
 
-422 songs - 1 day 1 hr 28 min
+423 songs - 1 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,13 +344,14 @@
 | [Squarepusher Theme](https://open.spotify.com/track/4edrhanho86qAWRHNfHo5x) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Feed Me Weird Things](https://open.spotify.com/album/7qaIhnjJlxVRWkM8ii0Q8z) | 6:21 | 2021-06-04 |  |
 | [Squarepusher Theme](https://open.spotify.com/track/5A8mxgppIz71mCLz7xAhpn) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Feed Me Weird Things \(Remastered\)](https://open.spotify.com/album/3RJcXXVLIQxLlppvvM6xLR) | 6:21 | 2021-06-04 | 2024-04-19 |
 | [Star People](https://open.spotify.com/track/05e1iH6Hcz8LZUFl0U3kBr) | [Nocatchphraze](https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Octavio N\. Santos](https://open.spotify.com/artist/1zLKXXVKUAPbO55p6tLJZP) | [Star People](https://open.spotify.com/album/7vdh7pMJQXFWj0EGxyghJK) | 3:02 | 2023-02-17 |  |
-| [Strange Habits](https://open.spotify.com/track/0pMI9nxYUcV1GEjNbS5GEA) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [MONODUKE](https://open.spotify.com/artist/7GMURXXNVyc1SXq3cvw197), [kotokid](https://open.spotify.com/artist/5nUYbKvo093YsLndnCppvG) | [Strange Habits](https://open.spotify.com/album/2IILdNlI6l9FO8Sj08Nr1k) | 2:15 | 2022-09-30 |  |
+| [Strange Habits](https://open.spotify.com/track/0pMI9nxYUcV1GEjNbS5GEA) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [MONODUKE](https://open.spotify.com/artist/7GMURXXNVyc1SXq3cvw197), [kotokid](https://open.spotify.com/artist/5nUYbKvo093YsLndnCppvG) | [Strange Habits](https://open.spotify.com/album/2IILdNlI6l9FO8Sj08Nr1k) | 2:15 | 2022-09-30 | 2024-11-09 |
 | [Stranger Than Fiction](https://open.spotify.com/track/26b7DkpsVvOSnHgFnHJ4RV) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Dark Matter](https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW) | 4:54 | 2021-01-29 | 2022-03-08 |
 | [STREET FOOD](https://open.spotify.com/track/54a8NWHfkiTRTDeEnPU80O) | [HUMAN ERROR CLUB](https://open.spotify.com/artist/0Zo06rizILgTDRvKTx2uQO) | [HUMAN ERROR CLUB](https://open.spotify.com/album/5WMgAMhkBFEAbnUd7j2IV1) | 3:22 | 2021-01-29 | 2022-03-26 |
 | [Stuck Inside](https://open.spotify.com/track/4CVqjyE6YMhKaTHccyCxXD) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Stuck Inside](https://open.spotify.com/album/4i20QhqCn7StG4RpqqAybt) | 3:33 | 2022-04-01 |  |
 | [Sunday Kitchen](https://open.spotify.com/track/1pPJdlrXGvyXJSLZ8jHhnK) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [Sunday Kitchen](https://open.spotify.com/album/3NAy0t6DbSOe87qphwWo9x) | 3:05 | 2022-06-10 |  |
 | [Superhero](https://open.spotify.com/track/4anRW820fvN0rzBWcae0B5) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Superhero](https://open.spotify.com/album/1M8MrhnNegMkABPlZTsg8g) | 2:46 | 2021-03-12 |  |
 | [Superhero](https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Between Days](https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X) | 2:46 | 2021-03-12 | 2024-04-19 |
+| [Supra Lux](https://open.spotify.com/track/36ae0EHQ50LPWtKKQsY3YY) | [betahost](https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W) | [Supra Lux](https://open.spotify.com/album/4vwSQ082XHIHb5NIwfVXuN) | 2:43 | 2024-11-08 |  |
 | [SWEAT](https://open.spotify.com/track/51J6zODpdYccdf3wVi6FTM) | [Michael Wilbur](https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n) | [SWEAT](https://open.spotify.com/album/4jgslG0QlEJ49OxaepciB5) | 2:17 | 2023-03-17 | 2023-09-16 |
 | [Sweet Nothings](https://open.spotify.com/track/5y2xnNe1bxYXwpfWyWIiQ1) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Sweet Nothings](https://open.spotify.com/album/0eFa1m5BblZrUWym0SJrpo) | 2:20 | 2023-06-09 | 2023-06-24 |
 | [Sweet Shop](https://open.spotify.com/track/66LXZLB5neVWhdeEx56qjS) | [Kaidi & NK\-OK](https://open.spotify.com/artist/7jDA84G7dkwJAGstQhFbhd), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Sweet Shop](https://open.spotify.com/album/5BN6H5RXllnqNrRmt0cthQ) | 3:50 | 2021-01-29 | 2022-03-26 |

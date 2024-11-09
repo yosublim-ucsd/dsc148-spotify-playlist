@@ -1,388 +1,200 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2410,
+  "num_followers": 2413,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAD5J/wQzdvif0hqtb5QNltCGLcT/CM",
+  "snapshot_id": "AAAD5hSkMYtyIUV3KRtREaV+5DM7eujL",
   "tracks": [
     {
-      "added_at": "2024-11-01 14:27:49",
+      "added_at": "2024-11-08 14:14:02",
       "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/6KppK5Bn3E0bF8BcIjftUo"
+        "name": "Tallulah",
+        "url": "https://open.spotify.com/album/0zVJBPrJMcuD9DuJtFyCLt"
       },
       "artists": [
         {
-          "name": "Jim Jidhed",
-          "url": "https://open.spotify.com/artist/1AnQGGwLF2ERm9hMRuwzFr"
+          "name": "Offthewally",
+          "url": "https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD"
         }
       ],
-      "duration_ms": 220560,
-      "name": "Playing With My Heart",
-      "url": "https://open.spotify.com/track/5k9mI0b7EfaeYlcsZoxd5Q"
+      "duration_ms": 233404,
+      "name": "Tallulah",
+      "url": "https://open.spotify.com/track/4VTjwGmtr5rkubx3i4gLG6"
     },
     {
-      "added_at": "2024-11-01 14:27:49",
+      "added_at": "2024-11-08 14:14:02",
       "album": {
-        "name": "You Tried To Let Me Down",
-        "url": "https://open.spotify.com/album/3BecdLTCmSGfLH4V18yDap"
+        "name": "Closer To God",
+        "url": "https://open.spotify.com/album/1IoBLz8FbhGtbVVTq8YgsZ"
       },
       "artists": [
         {
-          "name": "The Night Parrots",
-          "url": "https://open.spotify.com/artist/1F9tpDnuGk3WaYe4AQyILo"
-        }
-      ],
-      "duration_ms": 167125,
-      "name": "You Tried To Let Me Down",
-      "url": "https://open.spotify.com/track/3lKOH10DUT0h0qFwtYJ7XV"
-    },
-    {
-      "added_at": "2024-11-01 14:27:49",
-      "album": {
-        "name": "N\u00e4ra dig",
-        "url": "https://open.spotify.com/album/08q5a1VhGTeHXWTjrt5Yv7"
-      },
-      "artists": [
-        {
-          "name": "Anders Barsk",
-          "url": "https://open.spotify.com/artist/5BnLGYfNDuNbrQzn3b2bsO"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "N\u00e4ra dig",
-      "url": "https://open.spotify.com/track/1Z6vmLl6klezFkNgF7poxe"
-    },
-    {
-      "added_at": "2024-11-01 14:27:49",
-      "album": {
-        "name": "Someday (For L.A.)",
-        "url": "https://open.spotify.com/album/3Q9qizWK90lQ1ofMaPTFcn"
-      },
-      "artists": [
-        {
-          "name": "Danger Clxse",
-          "url": "https://open.spotify.com/artist/3UgdISKKLWvUbOLLWX4bic"
-        }
-      ],
-      "duration_ms": 339574,
-      "name": "Someday (For L.A.)",
-      "url": "https://open.spotify.com/track/6GqR0kWQtBKEZk1ifX87Do"
-    },
-    {
-      "added_at": "2024-11-01 14:27:49",
-      "album": {
-        "name": "1997",
-        "url": "https://open.spotify.com/album/0pDKrRGPwTIc3fiDqArNDS"
-      },
-      "artists": [
-        {
-          "name": "Peter Edstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5Tl4EyVxzLIOhOgqndnKUL"
+          "name": "The Maze",
+          "url": "https://open.spotify.com/artist/61wBPKlSoRqGn4X2QArndI"
         },
         {
-          "name": "Olivia Govik",
-          "url": "https://open.spotify.com/artist/6d0CXbMHmceBVEcOiAliNx"
+          "name": "Magnus Styr\u00e9n",
+          "url": "https://open.spotify.com/artist/5MQ3zlfGxlUusAmHCBPnG7"
         }
       ],
-      "duration_ms": 240000,
-      "name": "1997",
-      "url": "https://open.spotify.com/track/3iP3UCPYxBzfuQx1BSaYHZ"
+      "duration_ms": 240500,
+      "name": "Closer To God",
+      "url": "https://open.spotify.com/track/0M0MWTzBi9kFh6K6Pl910A"
     },
     {
-      "added_at": "2024-11-01 14:27:49",
+      "added_at": "2024-11-08 14:14:02",
       "album": {
-        "name": "Cigarettes at School",
-        "url": "https://open.spotify.com/album/3yLVwkbvfnHi9s0JuLg3MT"
+        "name": "Stand And Behold",
+        "url": "https://open.spotify.com/album/5OwnXjVVbxbCVifSUk1qf7"
       },
       "artists": [
         {
-          "name": "A BULL",
-          "url": "https://open.spotify.com/artist/1DCksTT1KFw4LBqJkRbKji"
-        }
-      ],
-      "duration_ms": 274586,
-      "name": "I'm Still Here",
-      "url": "https://open.spotify.com/track/18qWGLtbrtmOCyh1ySJ0w4"
-    },
-    {
-      "added_at": "2024-11-01 14:27:49",
-      "album": {
-        "name": "What A Bitch",
-        "url": "https://open.spotify.com/album/0lGLVn6iSzxnz7eNmieE0P"
-      },
-      "artists": [
-        {
-          "name": "Loretta Problem",
-          "url": "https://open.spotify.com/artist/7JSsb7KtqmRuC5Cyicgot4"
-        }
-      ],
-      "duration_ms": 115920,
-      "name": "What A Bitch",
-      "url": "https://open.spotify.com/track/4hbZOElbNXU3xJjpW98j52"
-    },
-    {
-      "added_at": "2024-11-01 14:27:49",
-      "album": {
-        "name": "Beyond The Plaques: Creation is timeless (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6gfY8jkm619es7WJPkbLql"
-      },
-      "artists": [
-        {
-          "name": "Sofia Roubati",
-          "url": "https://open.spotify.com/artist/3kD7L3Abeum38dDh0Rak2n"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Chapter I: Eleanor Coade",
-      "url": "https://open.spotify.com/track/0OS91hjuCiA5IEprEKlq0F"
-    },
-    {
-      "added_at": "2024-11-01 14:27:49",
-      "album": {
-        "name": "Tabula Rasa",
-        "url": "https://open.spotify.com/album/2Lmsq4qVW3Wf8cTXy4yTb3"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Baiz",
-          "url": "https://open.spotify.com/artist/72sfklTDzb5PKbmC69JM5l"
-        }
-      ],
-      "duration_ms": 512857,
-      "name": "Tabula Rasa",
-      "url": "https://open.spotify.com/track/0XB1QkXEWkH0Xxfkzuv081"
-    },
-    {
-      "added_at": "2024-11-01 14:27:49",
-      "album": {
-        "name": "Neon",
-        "url": "https://open.spotify.com/album/3UUHjN1szqs26Js7FG1Mvv"
-      },
-      "artists": [
-        {
-          "name": "Oskar Igeland",
-          "url": "https://open.spotify.com/artist/6XmE4ez17ozaeHWs5gPECZ"
-        }
-      ],
-      "duration_ms": 213304,
-      "name": "Neon",
-      "url": "https://open.spotify.com/track/12Hufkui59f8jXn8MO1R9j"
-    },
-    {
-      "added_at": "2024-11-01 14:27:49",
-      "album": {
-        "name": "Fruit Salad (a compilation)",
-        "url": "https://open.spotify.com/album/0DvswWQzjfYKvVYSDrW1Xy"
-      },
-      "artists": [
-        {
-          "name": "The Fruitfakes",
-          "url": "https://open.spotify.com/artist/4SLHkJfuHK3FDuEqBz4WVN"
-        }
-      ],
-      "duration_ms": 226153,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/3cXzw9DqF3qUjzOokqQ08T"
-    },
-    {
-      "added_at": "2024-11-01 14:27:49",
-      "album": {
-        "name": "East of Shadows",
-        "url": "https://open.spotify.com/album/4u9sHLIHU8Ucyr88vMDOpI"
-      },
-      "artists": [
-        {
-          "name": "LESTOPIAT",
-          "url": "https://open.spotify.com/artist/56QVVacydHoFM9XekY8TeY"
-        }
-      ],
-      "duration_ms": 349470,
-      "name": "Blissful Condemnation",
-      "url": "https://open.spotify.com/track/6XQe0kt3MN6ffuDXz8PX8I"
-    },
-    {
-      "added_at": "2024-11-01 14:27:49",
-      "album": {
-        "name": "Bad Reflections",
-        "url": "https://open.spotify.com/album/2DZAklhCMnIkwYSB2OjcBP"
-      },
-      "artists": [
-        {
-          "name": "Eternality",
-          "url": "https://open.spotify.com/artist/4HzzAvnwtEBT3VgX71sk0r"
-        }
-      ],
-      "duration_ms": 235180,
-      "name": "Bad Reflections",
-      "url": "https://open.spotify.com/track/2WJtZ81i9aAN9yviG1VDQE"
-    },
-    {
-      "added_at": "2024-11-01 14:27:49",
-      "album": {
-        "name": "Double Edged Knife",
-        "url": "https://open.spotify.com/album/1BR7dI7dsxigGbcosLG0w3"
-      },
-      "artists": [
-        {
-          "name": "Outerloop",
-          "url": "https://open.spotify.com/artist/7jdQfMeOmxyVKHbmenM3z2"
-        }
-      ],
-      "duration_ms": 123979,
-      "name": "Double Edged Knife",
-      "url": "https://open.spotify.com/track/3lpPWW6RwJyiphnsfXNldg"
-    },
-    {
-      "added_at": "2024-11-01 14:27:49",
-      "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/6T712wux7Z9NJIyxuc9XHH"
-      },
-      "artists": [
-        {
-          "name": "Stephen Richard Hale",
-          "url": "https://open.spotify.com/artist/16CAaVVyEqI1lHDheoguO8"
-        }
-      ],
-      "duration_ms": 278382,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/03p3GAo0wEHFkZJYLxk9g4"
-    },
-    {
-      "added_at": "2024-11-01 14:27:49",
-      "album": {
-        "name": "Echoes Of Summer",
-        "url": "https://open.spotify.com/album/6hJk5HxDlsIMiQJp5ntckJ"
-      },
-      "artists": [
-        {
-          "name": "Halli Gunnar",
-          "url": "https://open.spotify.com/artist/18dCA1w2QRaKUFfB1iu4zS"
-        }
-      ],
-      "duration_ms": 326666,
-      "name": "Echoes Of Summer",
-      "url": "https://open.spotify.com/track/1HnSPkvuvv344b8c1xqpHq"
-    },
-    {
-      "added_at": "2024-11-01 14:27:49",
-      "album": {
-        "name": "Stumblin\u00b4IN",
-        "url": "https://open.spotify.com/album/4Ao81X3Iz7HQAAu1S6KoLH"
-      },
-      "artists": [
-        {
-          "name": "S\u00f6der Session",
-          "url": "https://open.spotify.com/artist/4N51finL9fTHoEGU7YWKiY"
+          "name": "Marko Kattilakoski",
+          "url": "https://open.spotify.com/artist/6Txkvc6QZf8Qfr3YyEgdnR"
         },
         {
-          "name": "Elliott Weidlitz",
-          "url": "https://open.spotify.com/artist/5mxRWK4yLmszO9DXZyxFz3"
+          "name": "West11",
+          "url": "https://open.spotify.com/artist/70VJLyt1Xs8zZG5Qf0v2LK"
         }
       ],
-      "duration_ms": 173480,
-      "name": "Stumblin\u00b4IN",
-      "url": "https://open.spotify.com/track/4ZcfzkRLmsOag9IZ9ZVGgE"
+      "duration_ms": 263510,
+      "name": "Stand And Behold",
+      "url": "https://open.spotify.com/track/0Venvpz7lvcQblIT877LJD"
     },
     {
-      "added_at": "2024-11-01 14:27:49",
+      "added_at": "2024-11-08 14:14:02",
       "album": {
-        "name": "Dreams of Love",
-        "url": "https://open.spotify.com/album/5HuYxsfUc8334yWGIeApvc"
+        "name": "El\u00e4k\u00f6\u00f6n h\u00e4n!",
+        "url": "https://open.spotify.com/album/6BtpMyBbKScCgCiMQq9GBO"
       },
       "artists": [
         {
-          "name": "Matthew McMurray",
-          "url": "https://open.spotify.com/artist/5b7ozs2bX6nqo9WBflfRjh"
+          "name": "Janne Masalin",
+          "url": "https://open.spotify.com/artist/5rp6LWIIqxqq4swyJNhoJM"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Broken Dreams",
-      "url": "https://open.spotify.com/track/6IwE528liW3zBHSKBpxzjE"
+      "duration_ms": 208693,
+      "name": "El\u00e4k\u00f6\u00f6n h\u00e4n!",
+      "url": "https://open.spotify.com/track/5lgD3SgNkiDEJhyBBSe8AO"
     },
     {
-      "added_at": "2024-11-01 14:27:49",
+      "added_at": "2024-11-08 14:14:02",
       "album": {
-        "name": "Ja",
-        "url": "https://open.spotify.com/album/19FBgDjcooZX8ddseaGwyn"
+        "name": "Control Me",
+        "url": "https://open.spotify.com/album/5k8hBpLypqkMEXHrjMwmPm"
       },
       "artists": [
         {
-          "name": "Ad.03.00.am",
-          "url": "https://open.spotify.com/artist/3UgiNpWgMpsrOFyxlqBb6r"
+          "name": "G.H.T",
+          "url": "https://open.spotify.com/artist/34PbvrclYsNyDya3Obsz3D"
         }
       ],
-      "duration_ms": 178983,
-      "name": "Ja",
-      "url": "https://open.spotify.com/track/0bgG25W1qWglwjaznbLkJi"
+      "duration_ms": 215098,
+      "name": "Control Me",
+      "url": "https://open.spotify.com/track/5marepbYlmggEv84I4Oph2"
     },
     {
-      "added_at": "2024-11-01 14:27:49",
+      "added_at": "2024-11-08 14:14:02",
       "album": {
-        "name": "Amor Y Desamor",
-        "url": "https://open.spotify.com/album/6IxHtnI8kmCPsOTa0MYL5Y"
+        "name": "Who's Gonna Keep Me Holding On",
+        "url": "https://open.spotify.com/album/71ZE2Kh1o3lIlC8Txrw8PQ"
       },
       "artists": [
         {
-          "name": "iShyKid",
-          "url": "https://open.spotify.com/artist/3qdbR2e3KYpAJgUXgr3IdW"
+          "name": "Midnight Housework",
+          "url": "https://open.spotify.com/artist/1JugG6Jq67481f10NXby8r"
         }
       ],
-      "duration_ms": 211382,
-      "name": "Ni\u00f1a Mala",
-      "url": "https://open.spotify.com/track/1I6suOOUJJSpWbHRHdVjLF"
+      "duration_ms": 208000,
+      "name": "Who's Gonna Keep Me Holding On",
+      "url": "https://open.spotify.com/track/1MFiB1Uy4ZKL3DnX47Hvoq"
     },
     {
-      "added_at": "2024-11-01 14:27:49",
+      "added_at": "2024-11-08 14:14:02",
       "album": {
-        "name": "Like a Rich Man",
-        "url": "https://open.spotify.com/album/28QI2OOBmMQ5Ik0qGOvclP"
+        "name": "Power",
+        "url": "https://open.spotify.com/album/6B73bRhIMmccizMZIwBVxB"
       },
       "artists": [
         {
-          "name": "Hot Wires",
-          "url": "https://open.spotify.com/artist/2pkz6z81mIp8l2G7FgpzkY"
+          "name": "MALIS",
+          "url": "https://open.spotify.com/artist/2xvOaZUV91ID0Ykw9iB4cR"
         }
       ],
-      "duration_ms": 185808,
-      "name": "Like a Rich Man",
-      "url": "https://open.spotify.com/track/1ODbOhiKfcjMMfSRzvohCv"
+      "duration_ms": 186325,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/5PohTrnkxewttlmG15KLUO"
     },
     {
-      "added_at": "2024-11-01 14:27:49",
+      "added_at": "2024-11-08 14:14:02",
       "album": {
-        "name": "Telling Lies About Me!",
-        "url": "https://open.spotify.com/album/2KovQZVOGfeXcngkuFU0bH"
+        "name": "Kind of Eye",
+        "url": "https://open.spotify.com/album/54oqMghmKVNdR3UTuy9ygb"
       },
       "artists": [
         {
-          "name": "Hot Wires",
-          "url": "https://open.spotify.com/artist/2pkz6z81mIp8l2G7FgpzkY"
+          "name": "Torbj\u00f6rn Langborn",
+          "url": "https://open.spotify.com/artist/4PwC1M4GYKQflVWEcEN8Hc"
         }
       ],
-      "duration_ms": 234422,
-      "name": "Telling Lies About Me!",
-      "url": "https://open.spotify.com/track/0Gx528cVU3fcxu2aP2tXa9"
+      "duration_ms": 247200,
+      "name": "Big Deal",
+      "url": "https://open.spotify.com/track/3nd6BIo7cAYciFWyvkGVDO"
     },
     {
-      "added_at": "2024-11-01 14:27:49",
+      "added_at": "2024-11-08 14:14:02",
       "album": {
-        "name": "Between Days",
-        "url": "https://open.spotify.com/album/2MSyIoYi33NlHEuRoCOPNX"
+        "name": "Beautiful Stress",
+        "url": "https://open.spotify.com/album/4TvOUPpunyx6ufIiGcCvtk"
       },
       "artists": [
         {
-          "name": "S\u00c4PO",
-          "url": "https://open.spotify.com/artist/6QS2DYGBBDyJ3mig9WPPpJ"
+          "name": "Roel Garcia Serrano",
+          "url": "https://open.spotify.com/artist/4VLrleYEk2oLPeuoYKaR0C"
+        },
+        {
+          "name": "Roel",
+          "url": "https://open.spotify.com/artist/5o8wdPEcPmofWUzO6E3FdV"
         }
       ],
-      "duration_ms": 302142,
-      "name": "Between Days",
-      "url": "https://open.spotify.com/track/2Ny3qfbD8h1zhFzFSbzjWu"
+      "duration_ms": 588288,
+      "name": "Beautiful Stress",
+      "url": "https://open.spotify.com/track/1o542pTeP674fr47E9dcwj"
+    },
+    {
+      "added_at": "2024-11-08 14:14:02",
+      "album": {
+        "name": "Made A Mistake",
+        "url": "https://open.spotify.com/album/5dqTQTkVbAuFfdkEoBqyPZ"
+      },
+      "artists": [
+        {
+          "name": "TheRealDeez",
+          "url": "https://open.spotify.com/artist/1INqmKjV3U8q0KAz2aECU3"
+        }
+      ],
+      "duration_ms": 226634,
+      "name": "Made A Mistake",
+      "url": "https://open.spotify.com/track/0pU4ogzlgvZ7Qen5EFw4pc"
+    },
+    {
+      "added_at": "2024-11-08 14:14:02",
+      "album": {
+        "name": "The Industry",
+        "url": "https://open.spotify.com/album/1HYhPilp0RXEngeYEpYl37"
+      },
+      "artists": [
+        {
+          "name": "TheTrillionMusic",
+          "url": "https://open.spotify.com/artist/1A8YbW7eOnlc6DEdmwdfuq"
+        }
+      ],
+      "duration_ms": 118761,
+      "name": "The Industry",
+      "url": "https://open.spotify.com/track/53fKeadBSqhpLoOqrIZ7fT"
     }
   ],
   "unique_name": "Independent Music Friday",

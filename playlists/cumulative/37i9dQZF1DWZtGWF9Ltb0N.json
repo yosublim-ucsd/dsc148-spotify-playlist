@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 200000,
       "name": "Bleed",
       "url": "https://open.spotify.com/track/6XEL57IMhRLsT9Q4XiCF7W"
@@ -1327,6 +1327,24 @@
     },
     {
       "album": {
+        "name": "Bonker.s",
+        "url": "https://open.spotify.com/album/1e8j0JFqQfRIy36IqPNHtU"
+      },
+      "artists": [
+        {
+          "name": "msft",
+          "url": "https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195208,
+      "name": "Bonker.s",
+      "url": "https://open.spotify.com/track/2JpKHShAfduhwMMU7oJvfx"
+    },
+    {
+      "album": {
         "name": "Boondow Bai",
         "url": "https://open.spotify.com/album/1bgC0CA9FzaT2NRKJ5GOCj"
       },
@@ -1378,7 +1396,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-05",
+      "date_removed": null,
       "duration_ms": 156163,
       "name": "Bright Shadows",
       "url": "https://open.spotify.com/track/3QJEatxNmx1QvARdoqvEzx"
@@ -2045,6 +2063,28 @@
     },
     {
       "album": {
+        "name": "Voices EP (Remixes)",
+        "url": "https://open.spotify.com/album/2tRjQqTw3G4GuvMn7knVTb"
+      },
+      "artists": [
+        {
+          "name": "So Sus",
+          "url": "https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A"
+        },
+        {
+          "name": "Bouhi",
+          "url": "https://open.spotify.com/artist/3ZQUoyYk8mIGWnJBdkabwc"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Cold Waters - So Sus VIP",
+      "url": "https://open.spotify.com/track/6h7AdG6j98SlzCzvPfymL6"
+    },
+    {
+      "album": {
         "name": "Coming Up (Like That)",
         "url": "https://open.spotify.com/album/2W5kLnNnjmo4L3JyWZQEg3"
       },
@@ -2390,7 +2430,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 352653,
       "name": "Cryptic",
       "url": "https://open.spotify.com/track/0EiQqkpqOxGJOEZ1ynRcoi"
@@ -4875,6 +4915,24 @@
     },
     {
       "album": {
+        "name": "Guillotine",
+        "url": "https://open.spotify.com/album/49rHDJGmykyMExYIJRny6j"
+      },
+      "artists": [
+        {
+          "name": "Pigeon Hole",
+          "url": "https://open.spotify.com/artist/50gZGkC4xYd5vJUBEnXwXP"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198394,
+      "name": "Guillotine",
+      "url": "https://open.spotify.com/track/2krGMMejCbz64y2DNr5H5N"
+    },
+    {
+      "album": {
         "name": "Gunman / Caught in a Trip",
         "url": "https://open.spotify.com/album/7rLs4NgB53UMNq1duGteu7"
       },
@@ -6294,7 +6352,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 144000,
       "name": "La La Land",
       "url": "https://open.spotify.com/track/5Z641CoWi3loy6fTCa0eYn"
@@ -7848,7 +7906,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 174857,
       "name": "NEED SOME",
       "url": "https://open.spotify.com/track/5quo3xI25MYfu88V5Yxq0R"
@@ -7906,6 +7964,28 @@
       "duration_ms": 205454,
       "name": "NO",
       "url": "https://open.spotify.com/track/7MWgZYpmaRYEj27TeKCc9X"
+    },
+    {
+      "album": {
+        "name": "No Laughing Matter",
+        "url": "https://open.spotify.com/album/2vNJaIZb95PPsqks8NHvHX"
+      },
+      "artists": [
+        {
+          "name": "Caspa",
+          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
+        },
+        {
+          "name": "EAZYBAKED",
+          "url": "https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "No Laughing Matter",
+      "url": "https://open.spotify.com/track/5pK31mO2YGqgJ4B1vcOgET"
     },
     {
       "album": {
@@ -8206,7 +8286,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 182142,
       "name": "On The Rocks",
       "url": "https://open.spotify.com/track/7ur5EWuxtY92yC8yasYhZg"
@@ -9726,7 +9806,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 260571,
       "name": "Roots Dub",
       "url": "https://open.spotify.com/track/0yrcb1cwkgheJ7jEcTMwsh"
@@ -10860,7 +10940,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 289000,
       "name": "South Street",
       "url": "https://open.spotify.com/track/0R6jR68WZTeSZYvbzOR1on"
@@ -13164,10 +13244,28 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 192000,
       "name": "Wild - Shanghai Doom Remix",
       "url": "https://open.spotify.com/track/7FGomI5iGCQheRzsR6Dahv"
+    },
+    {
+      "album": {
+        "name": "Wild Inside",
+        "url": "https://open.spotify.com/album/6eNWdgYau7HHSTWgAbltSR"
+      },
+      "artists": [
+        {
+          "name": "The Glitch Mob",
+          "url": "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217638,
+      "name": "Wild Inside",
+      "url": "https://open.spotify.com/track/6r8MoYtlJVn9Isd3ieXFGY"
     },
     {
       "album": {

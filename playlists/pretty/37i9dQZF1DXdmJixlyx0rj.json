@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: THE FIX(\ub354 \ud53d\uc2a4))",
-  "num_followers": 26910,
+  "num_followers": 26919,
   "original_name": "Electronii'K",
   "owner": {
     "name": "Spotify",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2024-11-05 10:36:05",
       "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/7dU0vceNngXWT2XZUU4y9W"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "taalthechoi",
-          "url": "https://open.spotify.com/artist/0Wz3NC2nQgeV1titlYTj4C"
-        }
-      ],
-      "duration_ms": 202586,
-      "name": "Breakthrough - taalthechoi Remix",
-      "url": "https://open.spotify.com/track/2qM9XN5Wm4qqfjdfTGEK0Y"
-    },
-    {
-      "added_at": "2024-11-05 10:36:05",
-      "album": {
         "name": "Falling In Love (feat. Natalie Major)",
         "url": "https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 214758,
       "name": "Falling In Love (feat. Natalie Major)",
       "url": "https://open.spotify.com/track/7FIiiND0OckRPn4olaNFEd"
+    },
+    {
+      "added_at": "2024-11-05 10:36:05",
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/7dU0vceNngXWT2XZUU4y9W"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "taalthechoi",
+          "url": "https://open.spotify.com/artist/0Wz3NC2nQgeV1titlYTj4C"
+        }
+      ],
+      "duration_ms": 202586,
+      "name": "Breakthrough - taalthechoi Remix",
+      "url": "https://open.spotify.com/track/2qM9XN5Wm4qqfjdfTGEK0Y"
     },
     {
       "added_at": "2024-11-05 10:36:05",
@@ -1607,30 +1607,6 @@
     {
       "added_at": "2024-11-05 10:36:05",
       "album": {
-        "name": "Homies(Remix)",
-        "url": "https://open.spotify.com/album/40xju0ksMj869kE6Fj3Ua6"
-      },
-      "artists": [
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        },
-        {
-          "name": "Cosmickey",
-          "url": "https://open.spotify.com/artist/2VME6o9EyB1AvDCkUdT7iB"
-        },
-        {
-          "name": "Sky",
-          "url": "https://open.spotify.com/artist/3x3u1bkDrTFD7KtrJyQVNT"
-        }
-      ],
-      "duration_ms": 192727,
-      "name": "NOSAE NOSAE - Remix",
-      "url": "https://open.spotify.com/track/39neTEf3wIhm04a2SE88dA"
-    },
-    {
-      "added_at": "2024-11-05 10:36:05",
-      "album": {
         "name": "Power (Remixes)",
         "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
       },
@@ -1643,42 +1619,6 @@
       "duration_ms": 201931,
       "name": "Power - R3HAB Remix",
       "url": "https://open.spotify.com/track/6Xyq0b0CnpANv9XfsCohn4"
-    },
-    {
-      "added_at": "2024-11-05 10:36:05",
-      "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/1PdPZVN1e0s39JUdd1B4uY"
-      },
-      "artists": [
-        {
-          "name": "ALEPH",
-          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "Vanilla Sundae",
-      "url": "https://open.spotify.com/track/5ynIlEuq3O4PyEqRW3bRlE"
-    },
-    {
-      "added_at": "2024-11-05 10:36:05",
-      "album": {
-        "name": "iScreaM Vol.2 : Ridin' Remixes",
-        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        },
-        {
-          "name": "Minit",
-          "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "BOOM - Minit Remix, Bonus Track",
-      "url": "https://open.spotify.com/track/03YS92LnXaaMSxPiz8ZEiM"
     },
     {
       "added_at": "2024-11-05 10:36:05",
@@ -1703,6 +1643,66 @@
     {
       "added_at": "2024-11-05 10:36:05",
       "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/1PdPZVN1e0s39JUdd1B4uY"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "Vanilla Sundae",
+      "url": "https://open.spotify.com/track/5ynIlEuq3O4PyEqRW3bRlE"
+    },
+    {
+      "added_at": "2024-11-05 10:36:05",
+      "album": {
+        "name": "Homies(Remix)",
+        "url": "https://open.spotify.com/album/40xju0ksMj869kE6Fj3Ua6"
+      },
+      "artists": [
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        },
+        {
+          "name": "Cosmickey",
+          "url": "https://open.spotify.com/artist/2VME6o9EyB1AvDCkUdT7iB"
+        },
+        {
+          "name": "Sky",
+          "url": "https://open.spotify.com/artist/3x3u1bkDrTFD7KtrJyQVNT"
+        }
+      ],
+      "duration_ms": 192727,
+      "name": "NOSAE NOSAE - Remix",
+      "url": "https://open.spotify.com/track/39neTEf3wIhm04a2SE88dA"
+    },
+    {
+      "added_at": "2024-11-05 10:36:05",
+      "album": {
+        "name": "iScreaM Vol.2 : Ridin' Remixes",
+        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        },
+        {
+          "name": "Minit",
+          "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "BOOM - Minit Remix, Bonus Track",
+      "url": "https://open.spotify.com/track/03YS92LnXaaMSxPiz8ZEiM"
+    },
+    {
+      "added_at": "2024-11-05 10:36:05",
+      "album": {
         "name": "MOONLIGHT (MOTi Remix)",
         "url": "https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2"
       },
@@ -1719,26 +1719,6 @@
       "duration_ms": 163500,
       "name": "MOONLIGHT - MOTi Remix",
       "url": "https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW"
-    },
-    {
-      "added_at": "2024-11-05 10:36:05",
-      "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/1z3YUVgVdYbL7TnMIvD1gM"
-      },
-      "artists": [
-        {
-          "name": "Take Note",
-          "url": "https://open.spotify.com/artist/5uaYpqX82XlELErGUfxrJ0"
-        },
-        {
-          "name": "GUILTY PLEASURE",
-          "url": "https://open.spotify.com/artist/6O9RTpNUVUK7uLAiqmfiWP"
-        }
-      ],
-      "duration_ms": 256875,
-      "name": "Motion",
-      "url": "https://open.spotify.com/track/32XcX4loha6c8lxw0K1Fqb"
     },
     {
       "added_at": "2024-11-05 10:36:05",
@@ -1787,46 +1767,6 @@
     {
       "added_at": "2024-11-05 10:36:05",
       "album": {
-        "name": "Virus",
-        "url": "https://open.spotify.com/album/0iK9OCBlrURxG5vs0hUs6I"
-      },
-      "artists": [
-        {
-          "name": "SUNGYOO",
-          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
-        },
-        {
-          "name": "Advanced",
-          "url": "https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY"
-        }
-      ],
-      "duration_ms": 152380,
-      "name": "Virus",
-      "url": "https://open.spotify.com/track/6Z7ZmDWdnrMusQK4fuZggL"
-    },
-    {
-      "added_at": "2024-11-05 10:36:05",
-      "album": {
-        "name": "iScreaM Vol.2 : Ridin' Remixes",
-        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        },
-        {
-          "name": "Will Not Fear",
-          "url": "https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N"
-        }
-      ],
-      "duration_ms": 180200,
-      "name": "Ridin' - Will Not Fear Remix",
-      "url": "https://open.spotify.com/track/4SzTxy50i4bNdqT8FFYWBp"
-    },
-    {
-      "added_at": "2024-11-05 10:36:05",
-      "album": {
         "name": "iScreaM Vol.8 : Bambi Remixes",
         "url": "https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj"
       },
@@ -1871,6 +1811,46 @@
     {
       "added_at": "2024-11-05 10:36:05",
       "album": {
+        "name": "Virus",
+        "url": "https://open.spotify.com/album/0iK9OCBlrURxG5vs0hUs6I"
+      },
+      "artists": [
+        {
+          "name": "SUNGYOO",
+          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
+        },
+        {
+          "name": "Advanced",
+          "url": "https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "Virus",
+      "url": "https://open.spotify.com/track/6Z7ZmDWdnrMusQK4fuZggL"
+    },
+    {
+      "added_at": "2024-11-05 10:36:05",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/1z3YUVgVdYbL7TnMIvD1gM"
+      },
+      "artists": [
+        {
+          "name": "Take Note",
+          "url": "https://open.spotify.com/artist/5uaYpqX82XlELErGUfxrJ0"
+        },
+        {
+          "name": "GUILTY PLEASURE",
+          "url": "https://open.spotify.com/artist/6O9RTpNUVUK7uLAiqmfiWP"
+        }
+      ],
+      "duration_ms": 256875,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/32XcX4loha6c8lxw0K1Fqb"
+    },
+    {
+      "added_at": "2024-11-05 10:36:05",
+      "album": {
         "name": "Safe & Sound",
         "url": "https://open.spotify.com/album/5hLFHhE569P6t5YAotQB9Z"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 162363,
       "name": "Safe & Sound",
       "url": "https://open.spotify.com/track/2KTOYyhh0oZg5o1KNlSi7G"
+    },
+    {
+      "added_at": "2024-11-05 10:36:05",
+      "album": {
+        "name": "iScreaM Vol.2 : Ridin' Remixes",
+        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        },
+        {
+          "name": "Will Not Fear",
+          "url": "https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N"
+        }
+      ],
+      "duration_ms": 180200,
+      "name": "Ridin' - Will Not Fear Remix",
+      "url": "https://open.spotify.com/track/4SzTxy50i4bNdqT8FFYWBp"
     },
     {
       "added_at": "2024-11-05 10:36:05",
@@ -1927,18 +1927,22 @@
     {
       "added_at": "2024-11-05 10:36:05",
       "album": {
-        "name": "GRB02",
-        "url": "https://open.spotify.com/album/7jbVRExKqUqRUtAXFAJeHG"
+        "name": "iScreaM Vol.8 : Bambi Remixes",
+        "url": "https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj"
       },
       "artists": [
         {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        },
+        {
+          "name": "BRLLNT",
+          "url": "https://open.spotify.com/artist/78EdVeIJjaqrSJdEaps9rt"
         }
       ],
-      "duration_ms": 198774,
-      "name": "GROUSE",
-      "url": "https://open.spotify.com/track/2oKZdWw77Di9ZCLI82zkdv"
+      "duration_ms": 171940,
+      "name": "Bambi - BRLLNT Remix",
+      "url": "https://open.spotify.com/track/5vzojJMMU60TkCDAfMyvnR"
     }
   ],
   "unique_name": "Electronii'K",

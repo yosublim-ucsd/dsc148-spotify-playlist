@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sound from Asia. Cover: She Her Her Hers (Japan)",
+  "description": "Hottest indie sound from Asia. Cover: Swellow (Indonesia)",
   "name": ".ORG",
   "tracks": [
     {
@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 269720,
       "name": "Alone in the Sky",
       "url": "https://open.spotify.com/track/14x0Y9WmUG3C82BxJhnR2n"
@@ -1548,7 +1548,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 210634,
       "name": "Anti \u221e Hero",
       "url": "https://open.spotify.com/track/2GO1pRF96wqjB5TKXLQ0vY"
@@ -2737,6 +2737,24 @@
     },
     {
       "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/57fPsISPRRdVmc57pYWY96"
+      },
+      "artists": [
+        {
+          "name": "Peach Luffe",
+          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172437,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/3H4fIfIbtXv0DKCLgl5cgI"
+    },
+    {
+      "album": {
         "name": "Better Than Life",
         "url": "https://open.spotify.com/album/23ja9hIqOtQ70oJCOPFEow"
       },
@@ -2908,7 +2926,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 151026,
       "name": "bite u everywhere!",
       "url": "https://open.spotify.com/track/2f49SAkmGLP79bvMFegkF8"
@@ -3730,6 +3748,24 @@
       "duration_ms": 173333,
       "name": "burn for you",
       "url": "https://open.spotify.com/track/7oydQ62zY3d8alCLxFlUGD"
+    },
+    {
+      "album": {
+        "name": "Balancing Act",
+        "url": "https://open.spotify.com/album/7qxu4XZfchLLdmXKOh84xs"
+      },
+      "artists": [
+        {
+          "name": "Bedchamber",
+          "url": "https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163992,
+      "name": "Burner",
+      "url": "https://open.spotify.com/track/2x2CSutqHcnAGNbewINTy0"
     },
     {
       "album": {
@@ -4862,6 +4898,32 @@
       "duration_ms": 211968,
       "name": "Coeur Kamikaze \u5fc3\u8207\u6d77",
       "url": "https://open.spotify.com/track/1xut6DzmmqwYixQ5xRskZ1"
+    },
+    {
+      "album": {
+        "name": "Coffee Me",
+        "url": "https://open.spotify.com/album/7hU1X0LDWL75KLlEwPSR2Q"
+      },
+      "artists": [
+        {
+          "name": "Doughbaby",
+          "url": "https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T"
+        },
+        {
+          "name": "Peej",
+          "url": "https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP"
+        },
+        {
+          "name": "Rees Gonzales",
+          "url": "https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217625,
+      "name": "Coffee Me",
+      "url": "https://open.spotify.com/track/7MMF2bie9SFZB1DLhUt8pz"
     },
     {
       "album": {
@@ -6181,6 +6243,24 @@
     },
     {
       "album": {
+        "name": "Desire (Horror Version)",
+        "url": "https://open.spotify.com/album/1i7wL3bzNjUuR1QhvZAc96"
+      },
+      "artists": [
+        {
+          "name": "Reality Club",
+          "url": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244459,
+      "name": "Desire - Horror Version",
+      "url": "https://open.spotify.com/track/1WygwHRNwCMg3TDhuB4PJi"
+    },
+    {
+      "album": {
         "name": "Moirai Kiss",
         "url": "https://open.spotify.com/album/2qlvJOqqDFuiZ0WxelwCZJ"
       },
@@ -7416,7 +7496,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 333204,
       "name": "Escaping Encirclements \u51fa\u91cd\u570d",
       "url": "https://open.spotify.com/track/5ZjYlBTBhDFYKWwX509NqQ"
@@ -7560,7 +7640,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 335942,
       "name": "Everything That I Have",
       "url": "https://open.spotify.com/track/3O4ldyHmxEu1dd0rOuJ6J5"
@@ -10695,6 +10775,24 @@
     },
     {
       "album": {
+        "name": "Hopelessly In Love",
+        "url": "https://open.spotify.com/album/6kk6khyB7eI5Rc1VKM0fZv"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166434,
+      "name": "Hopelessly In Love",
+      "url": "https://open.spotify.com/track/6v9aa1FPwDYW34YIbDsDaF"
+    },
+    {
+      "album": {
         "name": "How",
         "url": "https://open.spotify.com/album/3JTNuOXSNm8Se4JKUrDpA4"
       },
@@ -12951,6 +13049,32 @@
     },
     {
       "album": {
+        "name": "pasang",
+        "url": "https://open.spotify.com/album/4rV163NIU4KQjG3xr2Xruk"
+      },
+      "artists": [
+        {
+          "name": "Swellow",
+          "url": "https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2"
+        },
+        {
+          "name": "The Cottons",
+          "url": "https://open.spotify.com/artist/4q6wWCZAcdPF5cjP3AhOBy"
+        },
+        {
+          "name": "Zeke Khaseli",
+          "url": "https://open.spotify.com/artist/3XBY4eyiy1tI1SKwkvWokU"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222560,
+      "name": "kamera",
+      "url": "https://open.spotify.com/track/1xru5ynjXpLsqTSNucwtnr"
+    },
+    {
+      "album": {
         "name": "Kami Khawatir, Kawan",
         "url": "https://open.spotify.com/album/02f1wRPbpqbqiaCKqAuW3P"
       },
@@ -14758,7 +14882,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 195240,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/6jvcP9ivZyOfXHdBKwMX1P"
@@ -14892,7 +15016,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 233099,
       "name": "Manila Bay",
       "url": "https://open.spotify.com/track/4FnCntyvK3yXlhxRD0Kepc"
@@ -15440,6 +15564,24 @@
       "duration_ms": 200347,
       "name": "Midnight Shower",
       "url": "https://open.spotify.com/track/2HAQUaYAb7ZOvB3H4hbm17"
+    },
+    {
+      "album": {
+        "name": "Mikael",
+        "url": "https://open.spotify.com/album/0bYXowGjv2zW5QN2nyvuO0"
+      },
+      "artists": [
+        {
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265258,
+      "name": "Mikael",
+      "url": "https://open.spotify.com/track/3DOq3iCt2I1X9cPAWdWGXB"
     },
     {
       "album": {
@@ -17352,7 +17494,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 240375,
       "name": "OLD BOY",
       "url": "https://open.spotify.com/track/1OxkQkpEzuFKELOHjx9V8W"
@@ -17831,6 +17973,24 @@
     },
     {
       "album": {
+        "name": "Between The Lines",
+        "url": "https://open.spotify.com/album/0xbf1lPIIML3f55LekcOtR"
+      },
+      "artists": [
+        {
+          "name": "Velludo",
+          "url": "https://open.spotify.com/artist/0ZFxspJHmeXIH5ox6XGyHG"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246437,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/7rY5YCE0bMTeju64RVo9is"
+    },
+    {
+      "album": {
         "name": "Overdreamt",
         "url": "https://open.spotify.com/album/5nEuQzotjpH5hfZMMjvWaz"
       },
@@ -17860,7 +18020,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 175179,
       "name": "Overrated!",
       "url": "https://open.spotify.com/track/4VBjsEHRJRs5pnZk1F5RKM"
@@ -18474,7 +18634,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 241926,
       "name": "Phenomenal",
       "url": "https://open.spotify.com/track/5nhrJi2CVXTvDodAkcD05A"
@@ -19476,7 +19636,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 230235,
       "name": "Reunion Song",
       "url": "https://open.spotify.com/track/0vfSaylAxEZV172XA5RfdV"
@@ -19494,7 +19654,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 281449,
       "name": "ribbits",
       "url": "https://open.spotify.com/track/5EmYwA46vsUEvVquOG8fLT"
@@ -21394,6 +21554,24 @@
       "duration_ms": 242300,
       "name": "somewhere",
       "url": "https://open.spotify.com/track/4qb4cUx4aI7xLeKviJaJ8S"
+    },
+    {
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/5OSXSuN2jEjGsFRUR2Qv8S"
+      },
+      "artists": [
+        {
+          "name": "TOSH",
+          "url": "https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227493,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/66Y414GgpGzepfJEsT2D7A"
     },
     {
       "album": {
@@ -23337,6 +23515,28 @@
     },
     {
       "album": {
+        "name": "Tell Me (feat. ikkubaru)",
+        "url": "https://open.spotify.com/album/1GXu9yIAipEhNmkJNU0tzq"
+      },
+      "artists": [
+        {
+          "name": "lightcraft",
+          "url": "https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3"
+        },
+        {
+          "name": "ikkubaru",
+          "url": "https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200926,
+      "name": "Tell Me (feat. ikkubaru)",
+      "url": "https://open.spotify.com/track/0CADqD68QbiDuGkIGBusP4"
+    },
+    {
+      "album": {
         "name": "Nonchalant",
         "url": "https://open.spotify.com/album/4mb7GvBdHZZcZly8NA4fN1"
       },
@@ -24036,6 +24236,28 @@
       "duration_ms": 182646,
       "name": "Thursday Taco Man",
       "url": "https://open.spotify.com/track/4VZioVdtvf3NTW9YDZKJMw"
+    },
+    {
+      "album": {
+        "name": "Tiada Tuhan Selain Pemilik Kapital",
+        "url": "https://open.spotify.com/album/4r9vupTkBSkVrDu3mi7NiK"
+      },
+      "artists": [
+        {
+          "name": "Efek Rumah Kaca",
+          "url": "https://open.spotify.com/artist/3uSvD31crYEsBLuiAFD02b"
+        },
+        {
+          "name": "IKLIM",
+          "url": "https://open.spotify.com/artist/13RkP9NAGg67uIHcFWsdSS"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299621,
+      "name": "Tiada Tuhan Selain Pemilik Kapital",
+      "url": "https://open.spotify.com/track/5wo4rv0llwa3sbv9VbBREc"
     },
     {
       "album": {
@@ -25034,7 +25256,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 206360,
       "name": "Until The Sunrise",
       "url": "https://open.spotify.com/track/0zI17xGlm9qDcwQ65NHotE"
@@ -26222,6 +26444,24 @@
       "duration_ms": 260781,
       "name": "When I Dream of Grapes Turning Blue",
       "url": "https://open.spotify.com/track/1kBZCCJpZGooNNALj2LcKt"
+    },
+    {
+      "album": {
+        "name": "When I Met You",
+        "url": "https://open.spotify.com/album/5BaT2HBQWxaQm3FLuk5HLD"
+      },
+      "artists": [
+        {
+          "name": "Luis Paderes",
+          "url": "https://open.spotify.com/artist/5WVVIHNQk9TY5pwvAVteWP"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "When I Met You",
+      "url": "https://open.spotify.com/track/7ceUQdLh7TJY1BskIhrK15"
     },
     {
       "album": {
@@ -28345,6 +28585,24 @@
     },
     {
       "album": {
+        "name": "\u305f\u307e\u306b\u541b\u306e\u3053\u3068\u3092\u601d\u3044\u51fa\u3057\u3066\u3057\u307e\u3046\u3088\u306a",
+        "url": "https://open.spotify.com/album/39H14bkoydGyDjrQXtEdLl"
+      },
+      "artists": [
+        {
+          "name": "Helsinki Lambda Club",
+          "url": "https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251522,
+      "name": "\u305f\u307e\u306b\u541b\u306e\u3053\u3068\u3092\u601d\u3044\u51fa\u3057\u3066\u3057\u307e\u3046\u3088\u306a",
+      "url": "https://open.spotify.com/track/6y7x5BY5C7kEGEeI6YEHAH"
+    },
+    {
+      "album": {
         "name": "\u3069\u3046\u3057\u3066\u9aed\u3092\uff1f",
         "url": "https://open.spotify.com/album/5fkSBMSaT3TGGdQohMGaX2"
       },
@@ -28526,7 +28784,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 224626,
       "name": "\u30ad\u30ea\u30b3",
       "url": "https://open.spotify.com/track/4GEbfJOxBQjCbTtG9CPZY9"
@@ -30056,6 +30314,24 @@
       "duration_ms": 231210,
       "name": "\u81ea\u8aaa\u81ea\u8a71",
       "url": "https://open.spotify.com/track/7iufo31RxYOcahPUWTkyMT"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u5439\u96ea",
+        "url": "https://open.spotify.com/album/1ZUekUfbjy2Qavhx1MvN7y"
+      },
+      "artists": [
+        {
+          "name": "ROTH BART BARON",
+          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235763,
+      "name": "\u82b1\u5439\u96ea",
+      "url": "https://open.spotify.com/track/2e6IilpmHjfwwwHvpOyy9n"
     },
     {
       "album": {

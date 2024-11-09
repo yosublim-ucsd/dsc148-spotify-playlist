@@ -616,7 +616,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 195750,
       "name": "Amenaza",
       "url": "https://open.spotify.com/track/5741EkmrvuPnlB6OassJ9u"
@@ -2531,6 +2531,46 @@
     },
     {
       "album": {
+        "name": "Curiana",
+        "url": "https://open.spotify.com/album/7fQV9oet5UfsKfbwDUEHne"
+      },
+      "artists": [
+        {
+          "name": "Poeta Callejero",
+          "url": "https://open.spotify.com/artist/1m82A2YUjBaQnLAFi9vjJv"
+        },
+        {
+          "name": "Carlos Coins",
+          "url": "https://open.spotify.com/artist/7e719rcHWonNRRnGvkkpZe"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144166,
+      "name": "Curiana",
+      "url": "https://open.spotify.com/track/3NjH9UJrvi0M0hydvA8h93"
+    },
+    {
+      "album": {
+        "name": "CUTE",
+        "url": "https://open.spotify.com/album/0JHKuqqLr8CtJrAGLGw7BL"
+      },
+      "artists": [
+        {
+          "name": "Tato el X5",
+          "url": "https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137925,
+      "name": "CUTE",
+      "url": "https://open.spotify.com/track/7czFXN8JchsKPcBrG12JMO"
+    },
+    {
+      "album": {
         "name": "Cybertruck",
         "url": "https://open.spotify.com/album/1YOtEJBt5PE7pD4X7kZaGD"
       },
@@ -3335,6 +3375,32 @@
     },
     {
       "album": {
+        "name": "DINERO Y PACA",
+        "url": "https://open.spotify.com/album/4ENs7d8wkOWEcomqd09R2B"
+      },
+      "artists": [
+        {
+          "name": "R.E.A.L",
+          "url": "https://open.spotify.com/artist/2Q7QfdUIxSSnodTdVzm1Lv"
+        },
+        {
+          "name": "El Philippe",
+          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
+        },
+        {
+          "name": "Ricky Webber",
+          "url": "https://open.spotify.com/artist/7oTXI03tSnUMTETGaLc3cN"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261818,
+      "name": "DINERO Y PACA",
+      "url": "https://open.spotify.com/track/3Fdu6yPkOK3fZ3AOgXJJzs"
+    },
+    {
+      "album": {
         "name": "Divino",
         "url": "https://open.spotify.com/album/6DAidc3PnHFfZRcNDCpILu"
       },
@@ -3492,7 +3558,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 137600,
       "name": "Droga, Pistola, Mujeres",
       "url": "https://open.spotify.com/track/3ykcfVOPpjrsmiiqBeo7ka"
@@ -5620,7 +5686,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 99666,
       "name": "JEFE",
       "url": "https://open.spotify.com/track/3XyNwr53iurmNjbfPh0odX"
@@ -5734,6 +5800,32 @@
       "duration_ms": 186572,
       "name": "Klk El Dice",
       "url": "https://open.spotify.com/track/2exlALY8rkH2GyS0ETqfI5"
+    },
+    {
+      "album": {
+        "name": "Klk Tu Dice",
+        "url": "https://open.spotify.com/album/4RQ23Jry2AmdYN9Gum2o3T"
+      },
+      "artists": [
+        {
+          "name": "D\u00b4Flow Aka La Maldad",
+          "url": "https://open.spotify.com/artist/5w84GjBkeOt0pRHp2nEWEG"
+        },
+        {
+          "name": "Chino Produciendo",
+          "url": "https://open.spotify.com/artist/28Zx1A9tmfOMjmm8b7VnEg"
+        },
+        {
+          "name": "Mapa Negro",
+          "url": "https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169911,
+      "name": "Klk Tu Dice",
+      "url": "https://open.spotify.com/track/4msDg5amsLuK0BMKOPuJGV"
     },
     {
       "album": {
@@ -8182,7 +8274,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 154482,
       "name": "Mucha Letra Mucha Clave",
       "url": "https://open.spotify.com/track/35eXKEXBtktSNNyyhiFbe7"
@@ -8793,6 +8885,24 @@
     },
     {
       "album": {
+        "name": "No Te Quilles",
+        "url": "https://open.spotify.com/album/0dvIqaNh2LDH8ZRVqk32u6"
+      },
+      "artists": [
+        {
+          "name": "Jay E",
+          "url": "https://open.spotify.com/artist/4IBpynusvrYJwwFyJSENH9"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "No Te Quilles",
+      "url": "https://open.spotify.com/track/6HYBRarjRP8VKzF6wMeWab"
+    },
+    {
+      "album": {
         "name": "no tienen talento",
         "url": "https://open.spotify.com/album/3daoW1fwUW9uWqMVYNRfbS"
       },
@@ -9060,6 +9170,28 @@
       "duration_ms": 110967,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/6zzw9hWl0UtoJLGrXn5cYx"
+    },
+    {
+      "album": {
+        "name": "P#TA",
+        "url": "https://open.spotify.com/album/0NlOXncpGZnKzMKeFa9bNc"
+      },
+      "artists": [
+        {
+          "name": "Iz BLAKK",
+          "url": "https://open.spotify.com/artist/3gIaXwGvba40FNweun2cOW"
+        },
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147668,
+      "name": "P#TA",
+      "url": "https://open.spotify.com/track/2tyhKsMJdQgbU5K0cp0wvC"
     },
     {
       "album": {
@@ -9543,6 +9675,24 @@
     },
     {
       "album": {
+        "name": "Popola",
+        "url": "https://open.spotify.com/album/4YzGNzNlL6wTULNzsAsTtB"
+      },
+      "artists": [
+        {
+          "name": "Crazy Point",
+          "url": "https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139258,
+      "name": "Popola",
+      "url": "https://open.spotify.com/track/25lTzOPApkS1TriuQWKqkW"
+    },
+    {
+      "album": {
         "name": "Por Poquito",
         "url": "https://open.spotify.com/album/3SAOQMRYPOlpX5P1mZJ0Js"
       },
@@ -9898,7 +10048,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 125209,
       "name": "Reservada",
       "url": "https://open.spotify.com/track/71gnQXCHpf03kk9gROcHro"
@@ -10574,6 +10724,28 @@
       "duration_ms": 148312,
       "name": "Step Up",
       "url": "https://open.spotify.com/track/5adAAB0zz4rxFawwMgSEk8"
+    },
+    {
+      "album": {
+        "name": "Su Bandido",
+        "url": "https://open.spotify.com/album/36MzrOeM6wIzCDnsbDdoH2"
+      },
+      "artists": [
+        {
+          "name": "Laidil",
+          "url": "https://open.spotify.com/artist/6emdh1TTOf1VBsUqAS0ZMU"
+        },
+        {
+          "name": "Arnold Produce",
+          "url": "https://open.spotify.com/artist/3W0p849JsIHjth3mRJVOBJ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151327,
+      "name": "Su Bandido",
+      "url": "https://open.spotify.com/track/1ysNBAWRs8EtZUry2OXrZP"
     },
     {
       "album": {
@@ -12145,6 +12317,32 @@
     },
     {
       "album": {
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/42LLMqEt6FUqwwD4YdNy8n"
+      },
+      "artists": [
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "Sammy The Greatest",
+          "url": "https://open.spotify.com/artist/51NCx9Br54qYPezwKIvIz3"
+        },
+        {
+          "name": "Mapa Negro",
+          "url": "https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124957,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/7BMCt0JsZty7vPlmXyL97q"
+    },
+    {
+      "album": {
         "name": "Urban Rage",
         "url": "https://open.spotify.com/album/5PIkOWSeRYJkcstFSqz7UA"
       },
@@ -12728,6 +12926,36 @@
       "duration_ms": 167168,
       "name": "Zuculento",
       "url": "https://open.spotify.com/track/7zmJxjG9P9if2WRBnNl81o"
+    },
+    {
+      "album": {
+        "name": "\u00bfy tu que?",
+        "url": "https://open.spotify.com/album/4KCocI0kT8YtiqeZZSN9Lx"
+      },
+      "artists": [
+        {
+          "name": "Chelsy",
+          "url": "https://open.spotify.com/artist/2DR4ukJfl3MNXYWPTFMe7D"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "Shelow Shaq",
+          "url": "https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263529,
+      "name": "\u00bfy tu que?",
+      "url": "https://open.spotify.com/track/3X2vszA1WaiKGQTVKfibYS"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZVuIRLEh0tE"

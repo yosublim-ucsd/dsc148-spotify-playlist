@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with RedHook.",
+  "description": "n\u00fc-metal revival is happening here and now with Hollywood Undead.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -114,6 +114,28 @@
       "duration_ms": 210133,
       "name": "A Million Watts",
       "url": "https://open.spotify.com/track/32FJsFEX94WIb5nio2jhnq"
+    },
+    {
+      "album": {
+        "name": "A Work of Art (feat. Shavo of System of a Down)",
+        "url": "https://open.spotify.com/album/4iCfWNu1o6eNEadgJQa4hp"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        },
+        {
+          "name": "SHAVO",
+          "url": "https://open.spotify.com/artist/3db7IWyJRHjZEViTutNdUR"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238143,
+      "name": "A Work of Art",
+      "url": "https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc"
     },
     {
       "album": {
@@ -560,7 +582,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 184311,
       "name": "CONTROL",
       "url": "https://open.spotify.com/track/4acG72pZiM3tSkqbf19xdB"
@@ -1188,7 +1210,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 207358,
       "name": "Flipping",
       "url": "https://open.spotify.com/track/52lsAgUlk6DXQVe43GHw04"
@@ -1350,7 +1372,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 229144,
       "name": "God Complex",
       "url": "https://open.spotify.com/track/18lxHacUb6124MN6ftbT92"
@@ -2007,6 +2029,24 @@
     },
     {
       "album": {
+        "name": "LOTUS",
+        "url": "https://open.spotify.com/album/1xn196oTyd4kH1o2ZYZzPu"
+      },
+      "artists": [
+        {
+          "name": "Deijuvhs",
+          "url": "https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199814,
+      "name": "LOTUS",
+      "url": "https://open.spotify.com/track/2rYj6DXSO7B0H7MajunV07"
+    },
+    {
+      "album": {
         "name": "LV Vest",
         "url": "https://open.spotify.com/album/29MaeaoIkGIcPuN8SdVtNJ"
       },
@@ -2322,6 +2362,24 @@
       "duration_ms": 222153,
       "name": "One Foot In The Grave",
       "url": "https://open.spotify.com/track/54fPJ9UDx68KkayeuskyAJ"
+    },
+    {
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222153,
+      "name": "One Foot In The Grave",
+      "url": "https://open.spotify.com/track/6fkre9qGyleKmufw9ONQPI"
     },
     {
       "album": {
@@ -2652,7 +2710,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 201341,
       "name": "QWERTY",
       "url": "https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B"
@@ -2884,6 +2942,28 @@
       "duration_ms": 279752,
       "name": "SELF HELL",
       "url": "https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm"
+    },
+    {
+      "album": {
+        "name": "Self Sabotage (feat. Down And Out)",
+        "url": "https://open.spotify.com/album/0JPXhtGlodWjU3H47VxT2K"
+      },
+      "artists": [
+        {
+          "name": "Comastatic",
+          "url": "https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF"
+        },
+        {
+          "name": "Down And Out",
+          "url": "https://open.spotify.com/artist/7EfK0VXLHjPEysgWDnAyYH"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167611,
+      "name": "Self Sabotage (feat. Down And Out)",
+      "url": "https://open.spotify.com/track/3jhoLy0PX091ZnsIE0cQCL"
     },
     {
       "album": {

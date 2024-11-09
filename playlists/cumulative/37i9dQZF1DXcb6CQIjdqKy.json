@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: <a href=\"spotify:artist:40LHVA5BTQp9RxHOQ9JPYj\">Lauren Daigle</a>",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: <a href=\"spotify:artist:1bdnGJxkbIIys5Jhk1T74v\">Brandon Lake</a>",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -1380,6 +1380,28 @@
       "duration_ms": 238571,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/2GNV0qwulPbZTDZUb1XR2b"
+    },
+    {
+      "album": {
+        "name": "Colors of Grace",
+        "url": "https://open.spotify.com/album/6Zo1lc8tSnw61EOjjPWcN0"
+      },
+      "artists": [
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Chizie",
+          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145573,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/7j34VbruHObgUOHIaxpMMw"
     },
     {
       "album": {
@@ -5766,6 +5788,24 @@
       "duration_ms": 233129,
       "name": "Happily Hidden (with John Mark McMillan)",
       "url": "https://open.spotify.com/track/1KSbEDEuafGfz2fuioe5uK"
+    },
+    {
+      "album": {
+        "name": "Hard Fought Hallelujah",
+        "url": "https://open.spotify.com/album/2ZRoUKXGiyxc63Q6xLAIh5"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316000,
+      "name": "Hard Fought Hallelujah",
+      "url": "https://open.spotify.com/track/6ye2zG3DhdwDf6VRVyj4jx"
     },
     {
       "album": {
@@ -11068,7 +11108,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 240375,
       "name": "Never Find",
       "url": "https://open.spotify.com/track/5tTMstPDIaJhiJfkT6hICS"
@@ -15269,6 +15309,24 @@
     },
     {
       "album": {
+        "name": "EVEN LOWER",
+        "url": "https://open.spotify.com/album/7s6cG4MDvQY8OoITIeyrBd"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107461,
+      "name": "TEXACO",
+      "url": "https://open.spotify.com/track/5J6FINTOPdvY07nRHfKThd"
+    },
+    {
+      "album": {
         "name": "Thank God For Sunday Morning",
         "url": "https://open.spotify.com/album/4P5Iq9iYYccNJQ9qiAaCnb"
       },
@@ -15508,7 +15566,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 228285,
       "name": "That's Who I Praise",
       "url": "https://open.spotify.com/track/3gVYa5bvsuvBegKEIEY8Mk"
@@ -16874,7 +16932,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 333954,
       "name": "Underwater - Southern Tracks Session",
       "url": "https://open.spotify.com/track/3LKNZSBXH8QkEZQOK5JCe9"
@@ -17670,7 +17728,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 286600,
       "name": "Where The Sidewalk Ends",
       "url": "https://open.spotify.com/track/6XDy9QOVE1RzzM9Ty6iMJt"

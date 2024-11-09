@@ -5668,7 +5668,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 221842,
       "name": "Durma Y\u00fcr\u00fcsene",
       "url": "https://open.spotify.com/track/7DVu7wGni4DHx9P8L1zbIO"
@@ -5704,7 +5704,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 221159,
       "name": "Duydun Mu?",
       "url": "https://open.spotify.com/track/4v8LZr4pYJFo3lnB5BJBAc"
@@ -5722,7 +5722,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 221159,
       "name": "Duydun Mu?",
       "url": "https://open.spotify.com/track/5Jpln46zz6l9KSMw1kLDPP"
@@ -11778,7 +11778,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 139047,
       "name": "La La La",
       "url": "https://open.spotify.com/track/3blRKhNNedjdZFR0b9Wtxw"
@@ -14064,7 +14064,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 217000,
       "name": "Olmazlara Vuruluyorum",
       "url": "https://open.spotify.com/track/72Zc1OvPqpZUqxArlAS0QW"
@@ -18546,6 +18546,24 @@
       "duration_ms": 190270,
       "name": "VUR",
       "url": "https://open.spotify.com/track/2Nt4eocAv9wi1vHshhSdpF"
+    },
+    {
+      "album": {
+        "name": "MONA LISA",
+        "url": "https://open.spotify.com/album/5Gm2EfvHhNu1Nkd1WMMfUW"
+      },
+      "artists": [
+        {
+          "name": "M Lisa",
+          "url": "https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "VURDUM TELLER\u0130NE",
+      "url": "https://open.spotify.com/track/5Y5fFEqazjbtNAgbx9noTF"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,237 likes - 103 songs - 5 hr 15 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,237 likes - 107 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,5 +111,9 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 101 | [Hey DJ \- Joel Corry VIP Mix](https://open.spotify.com/track/20Z0uJ0fP8ENJ3bpMUzgOu) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hey DJ \(The Remixes\)](https://open.spotify.com/album/7GKY1CExwlxN9Cn8HMPyd7) | 2:34 |
 | 102 | [Bad Boy For Life](https://open.spotify.com/track/21svQEALLlrbJNYeRxMeWg) | [Vasovski Live](https://open.spotify.com/artist/2tDYKg6IgydH7HnIdEz0v7) | [Bad Boy for Life](https://open.spotify.com/album/0ffRbCgRegpS6ucR1MBTcE) | 2:08 |
 | 103 | [Deep Down](https://open.spotify.com/track/61k2wuStVOfO1qzFaHW2HL) | [KeinKlang](https://open.spotify.com/artist/60T6JUeMdx8kOBWg3zTxy8) | [Deep Down](https://open.spotify.com/album/4AL45M0AQbhnlJToC0K1ZV) | 2:59 |
+| 104 | [Quiero](https://open.spotify.com/track/5SyULi655B4XZFMfEESzSF) | [Voost](https://open.spotify.com/artist/2Xpq8bhn9z3zWo6WUsdvDO) | [Quiero](https://open.spotify.com/album/4wrIqLlCu1esFlLDsaXt8w) | 3:32 |
+| 105 | [Don't Say](https://open.spotify.com/track/36Xznq3ztcvwfWB0VA1uJe) | [Costax](https://open.spotify.com/artist/3DELE2GHaCG8ljlpp7ZPHk), [Timo Maas](https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q) | [Don't Say EP](https://open.spotify.com/album/579734LSzpjB3af9ZqErsK) | 6:05 |
+| 106 | [Standoff](https://open.spotify.com/track/3sFGcDz2wAweSlYn10USqC) | [Prime Punk](https://open.spotify.com/artist/3hieXs8GqdGwv2X3jYsqlf), [Chester Young](https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e), [Norberto Loco](https://open.spotify.com/artist/55cVmEuppOOdjbgF04iYYO) | [Standoff](https://open.spotify.com/album/1jek94dIOUtwSBKEmgbHbf) | 2:40 |
+| 107 | [Don't Give Up \- Radio Edit](https://open.spotify.com/track/2OftEfDeXQYrBIcA0FgeXW) | [DVPT](https://open.spotify.com/artist/3bWMrcN939FASZlblfpu3L) | [Don't Give Up](https://open.spotify.com/album/03rc5FyoeUqoVWna1A3suQ) | 3:16 |
 
-Snapshot ID: `AAAPjOXk2qKFbux7Au+YEP7dxb6wqeTp`
+Snapshot ID: `AAAPkC7xns5Hf3oTLrk1weYR/7k1eM22`

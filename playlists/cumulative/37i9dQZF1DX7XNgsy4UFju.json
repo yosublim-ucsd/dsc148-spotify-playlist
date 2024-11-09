@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best indie tracks of the moment. Cover: Peach Pit",
+  "description": "The best indie tracks of the moment. Cover: Saya Gray",
   "name": "Indie All Stars",
   "tracks": [
     {
@@ -272,6 +272,24 @@
       "duration_ms": 224178,
       "name": "2am",
       "url": "https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK"
+    },
+    {
+      "album": {
+        "name": "2DK",
+        "url": "https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196343,
+      "name": "2DK",
+      "url": "https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT"
     },
     {
       "album": {
@@ -1622,7 +1640,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 160453,
       "name": "All You Want",
       "url": "https://open.spotify.com/track/1IZBPpla2d744TRmv8AP7i"
@@ -3068,7 +3086,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 222413,
       "name": "Beetlebugs",
       "url": "https://open.spotify.com/track/3nBBFysco3704yXmEhntVl"
@@ -3234,6 +3252,24 @@
       "duration_ms": 135839,
       "name": "Better",
       "url": "https://open.spotify.com/track/7xgp1Vpgy4HGuxyoNMx1Sv"
+    },
+    {
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232290,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v"
     },
     {
       "album": {
@@ -5956,7 +5992,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 195694,
       "name": "Circumnavigating Georgia",
       "url": "https://open.spotify.com/track/6AI0wNKjKkFxk8bxlULhOK"
@@ -11991,6 +12027,24 @@
     },
     {
       "album": {
+        "name": "My Star",
+        "url": "https://open.spotify.com/album/353uBBfNLMFgXDJkTWSpWe"
+      },
+      "artists": [
+        {
+          "name": "Junior Varsity",
+          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207695,
+      "name": "Give My Heart",
+      "url": "https://open.spotify.com/track/6zvVvSdqzxMdRF3qtgYXMl"
+    },
+    {
+      "album": {
         "name": "Glitter",
         "url": "https://open.spotify.com/album/1UO7LLwqK6gixhjlT3qZLO"
       },
@@ -12988,6 +13042,24 @@
       "duration_ms": 138926,
       "name": "gymnasium",
       "url": "https://open.spotify.com/track/5osb6HmhomT6kiHD9LMvAw"
+    },
+    {
+      "album": {
+        "name": "Hacker",
+        "url": "https://open.spotify.com/album/0S7e6QKCfYDmvIVujOC9S8"
+      },
+      "artists": [
+        {
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179081,
+      "name": "Hacker",
+      "url": "https://open.spotify.com/track/7yokdvwHVF5Ejp5iqP4FhY"
     },
     {
       "album": {
@@ -15547,6 +15619,24 @@
     },
     {
       "album": {
+        "name": "Headache",
+        "url": "https://open.spotify.com/album/6baKpbxBMBisqqThtQ1TyZ"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240826,
+      "name": "I'm So Sorry",
+      "url": "https://open.spotify.com/track/66UdYj3MIsMI8WryDpRZwb"
+    },
+    {
+      "album": {
         "name": "I'm Sorry (ft. Lous and The Yakuza)",
         "url": "https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9"
       },
@@ -17450,7 +17540,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 143407,
       "name": "Keep On Calling",
       "url": "https://open.spotify.com/track/1QrxdJdAnMERuHL4pE5WDj"
@@ -18892,7 +18982,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 228278,
       "name": "Look Inside",
       "url": "https://open.spotify.com/track/0j61GOB7FdPNBS71uS0x3T"
@@ -24639,6 +24729,28 @@
     },
     {
       "album": {
+        "name": "Poeira Cosmica",
+        "url": "https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253482,
+      "name": "Poeira Cosmica",
+      "url": "https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR"
+    },
+    {
+      "album": {
         "name": "Poem #2",
         "url": "https://open.spotify.com/album/0bPJLBHHf4CFfTjE1VOwud"
       },
@@ -28015,6 +28127,24 @@
     },
     {
       "album": {
+        "name": "Horsie (Deluxe)",
+        "url": "https://open.spotify.com/album/42GyukMBNZscDOMnXWL786"
+      },
+      "artists": [
+        {
+          "name": "HOMESHAKE",
+          "url": "https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378375,
+      "name": "Silverado",
+      "url": "https://open.spotify.com/track/0oWn3z8ENADo9TKavkRja7"
+    },
+    {
+      "album": {
         "name": "Simple",
         "url": "https://open.spotify.com/album/1VUKjMINincNIU5b2hUqlo"
       },
@@ -30234,7 +30364,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 146486,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/2kV2gzrfWhoxXBumKCeh01"
@@ -31230,7 +31360,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 223929,
       "name": "That's Life",
       "url": "https://open.spotify.com/track/45qWYodQFrF6TJ77NtF4Ke"
@@ -31450,7 +31580,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 148422,
       "name": "The Bed, The Room, The Rain and You",
       "url": "https://open.spotify.com/track/73MkKDeELnYufTdyA3Xj5R"
@@ -31854,6 +31984,24 @@
       "duration_ms": 251600,
       "name": "The Kill",
       "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
+    },
+    {
+      "album": {
+        "name": "The Knife In Me",
+        "url": "https://open.spotify.com/album/1qJwOLRyiuHWBichKictX9"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124649,
+      "name": "The Knife In Me",
+      "url": "https://open.spotify.com/track/58hTRQMC67zlvZV1bb49Me"
     },
     {
       "album": {

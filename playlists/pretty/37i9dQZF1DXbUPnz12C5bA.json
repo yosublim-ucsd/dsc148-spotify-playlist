@@ -1,6 +1,6 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 126680,
+  "num_followers": 126809,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
+        "name": "S\u00f3lo Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/3iKjZoqGQKfJ9zUDBE5Jzr"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 253066,
+      "name": "T\u00fa Vas a Volar",
+      "url": "https://open.spotify.com/track/5jbeMwT4FdbL4X3UgmfluA"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
         "name": "Presente y Futuro",
         "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 300346,
       "name": "Nunca Niegues Que Te Amo",
       "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "Colombia Y Su Folclor Vol I",
-        "url": "https://open.spotify.com/album/03po8Hle2xYu7QWTArhQqa"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        }
-      ],
-      "duration_ms": 270602,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/0AUvqI8gBOxFN3ZxA3SScw"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "S\u00f3lo Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/3iKjZoqGQKfJ9zUDBE5Jzr"
+        "name": "Colombia Y Su Folclor Vol I",
+        "url": "https://open.spotify.com/album/03po8Hle2xYu7QWTArhQqa"
       },
       "artists": [
         {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
         }
       ],
-      "duration_ms": 253066,
-      "name": "T\u00fa Vas a Volar",
-      "url": "https://open.spotify.com/track/5jbeMwT4FdbL4X3UgmfluA"
+      "duration_ms": 270602,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/0AUvqI8gBOxFN3ZxA3SScw"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -803,6 +803,54 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
+        "name": "Historia Musical de Los Embajadores Vallenatos",
+        "url": "https://open.spotify.com/album/1ttEZHvwYpa4eUwpSg1PaS"
+      },
+      "artists": [
+        {
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+        }
+      ],
+      "duration_ms": 258218,
+      "name": "Se Le Moja la Canoa (La Canoa)",
+      "url": "https://open.spotify.com/track/5M7HcDhJzZzhB2JaLQGbRl"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/2YCWN8hMvb8QYUEHkmGqDb"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 300786,
+      "name": "Me Ilusione",
+      "url": "https://open.spotify.com/track/1EiRuVyMKA7uSSeuWgCJiu"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
         "name": "Sue\u00f1os de Colombia",
         "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
       },
@@ -835,24 +883,8 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Dif\u00edcil De Igualar",
-        "url": "https://open.spotify.com/album/2YCWN8hMvb8QYUEHkmGqDb"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 300786,
-      "name": "Me Ilusione",
-      "url": "https://open.spotify.com/track/1EiRuVyMKA7uSSeuWgCJiu"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
+        "name": "Mas Vallenato",
+        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
       },
       "artists": [
         {
@@ -860,9 +892,9 @@
           "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 246506,
-      "name": "Busca Un Confidente",
-      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
+      "duration_ms": 283293,
+      "name": "Cuando Casi Te Olvidaba",
+      "url": "https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -883,42 +915,6 @@
       "duration_ms": 238892,
       "name": "Se\u00f1ora",
       "url": "https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 292224,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "El Caballero Del Vallenato",
-        "url": "https://open.spotify.com/album/3qJ2kc4NkR6UBnbYUsyxeu"
-      },
-      "artists": [
-        {
-          "name": "Peter Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
-        },
-        {
-          "name": "Sergio Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
-        }
-      ],
-      "duration_ms": 280746,
-      "name": "El Caballero",
-      "url": "https://open.spotify.com/track/1Tbp6d23AgMN75hAFvEGLa"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Vallenato",

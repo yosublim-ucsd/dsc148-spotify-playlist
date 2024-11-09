@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Maria Luiza Jobim, Mahmundi",
+  "description": "As belas novidades da MPB. Foto: Leoni, Z\u00e9lia Duncan",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -560,7 +560,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 190626,
       "name": "A R\u00e3",
       "url": "https://open.spotify.com/track/3xSKCmLlSNoZJd7d2tp2yH"
@@ -1898,7 +1898,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 225000,
       "name": "Baiana Baianinha",
       "url": "https://open.spotify.com/track/0hfRYnxJr8tUKBELhkAyXQ"
@@ -3122,6 +3122,24 @@
       "duration_ms": 184500,
       "name": "Caravana",
       "url": "https://open.spotify.com/track/5SPoEc1PJlm7Nf6Gkr7dzq"
+    },
+    {
+      "album": {
+        "name": "Carinhoso",
+        "url": "https://open.spotify.com/album/4HFoIAVMjeCiA69B1NQdX0"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106452,
+      "name": "Carinhoso",
+      "url": "https://open.spotify.com/track/1M2o02mk2R0ltQcsQO7zZR"
     },
     {
       "album": {
@@ -4474,7 +4492,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 209922,
       "name": "Dia Manso",
       "url": "https://open.spotify.com/track/1nqUUPdNzRce8f7Z4SNTNV"
@@ -5768,7 +5786,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 211314,
       "name": "Feira do Rolo",
       "url": "https://open.spotify.com/track/2GRy1TOXHzo0cx8vs1gaZF"
@@ -7635,6 +7653,24 @@
     },
     {
       "album": {
+        "name": "Maluca",
+        "url": "https://open.spotify.com/album/0flQG6Uj5HscyyjSjxYVNP"
+      },
+      "artists": [
+        {
+          "name": "AMANDONA!",
+          "url": "https://open.spotify.com/artist/3QsIywlgq5eS0jprFxuDmd"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Maluca",
+      "url": "https://open.spotify.com/track/1ATEZxO9P0FPZAow7zMxBI"
+    },
+    {
+      "album": {
         "name": "Mal\u00ea",
         "url": "https://open.spotify.com/album/04CejgJc5DS7Oy3r29ofZr"
       },
@@ -8054,7 +8090,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 157846,
       "name": "me chama",
       "url": "https://open.spotify.com/track/5zxmVREF4n8VpCzkSBuvjY"
@@ -8348,6 +8384,24 @@
       "duration_ms": 229426,
       "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
       "url": "https://open.spotify.com/track/73sHSwoXam1tNDWEwEfHWe"
+    },
+    {
+      "album": {
+        "name": "Mercen\u00e1rios do Amor",
+        "url": "https://open.spotify.com/album/3TVKYDgwKsGYieOkoLZebp"
+      },
+      "artists": [
+        {
+          "name": "Doce Delix",
+          "url": "https://open.spotify.com/artist/5oMThBB837MjaAjmCu3K8j"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187105,
+      "name": "Mercen\u00e1rios do Amor",
+      "url": "https://open.spotify.com/track/3Y37i0rehRTNUoUOXjKnFm"
     },
     {
       "album": {
@@ -11861,6 +11915,28 @@
     },
     {
       "album": {
+        "name": "Theodoro Nag\u00f4: We4Sessions",
+        "url": "https://open.spotify.com/album/72Vmu49Zak3jBvyQSm9Qax"
+      },
+      "artists": [
+        {
+          "name": "Theodoro Nag\u00f4",
+          "url": "https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4"
+        },
+        {
+          "name": "WE4Sessions",
+          "url": "https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225789,
+      "name": "Preta Yay\u00e1",
+      "url": "https://open.spotify.com/track/1fAb26jYwDAaw1Mg1hfSro"
+    },
+    {
+      "album": {
         "name": "Chama Viva",
         "url": "https://open.spotify.com/album/43VRFPBvvEXspc3xA0UT2k"
       },
@@ -12276,6 +12352,28 @@
       "duration_ms": 159250,
       "name": "Quem Me Conhece Sabe",
       "url": "https://open.spotify.com/track/6ZtmpgXAicKBwYXnSmFfkW"
+    },
+    {
+      "album": {
+        "name": "Quem Nos Dera",
+        "url": "https://open.spotify.com/album/33QUHk2NTqqRY2E0yHtFkS"
+      },
+      "artists": [
+        {
+          "name": "Leoni",
+          "url": "https://open.spotify.com/artist/30zCgFx32RHel1qUOr7xuL"
+        },
+        {
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140958,
+      "name": "Quem Nos Dera",
+      "url": "https://open.spotify.com/track/7CExS7KbwVINZ1diUiGXE8"
     },
     {
       "album": {
@@ -13922,7 +14020,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 164096,
       "name": "Seu Z\u00e9 e Dona Maria",
       "url": "https://open.spotify.com/track/2i1jPpSftCb9ON4oCseMuP"
@@ -14232,6 +14330,24 @@
       "duration_ms": 230746,
       "name": "Sorte - Ao Vivo",
       "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
+    },
+    {
+      "album": {
+        "name": "Barato Abstrato",
+        "url": "https://open.spotify.com/album/3qB6QdDqzXxpsLuGgWFRSv"
+      },
+      "artists": [
+        {
+          "name": "Tom Karabachian",
+          "url": "https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244806,
+      "name": "Sou Assim At\u00e9 Mudar",
+      "url": "https://open.spotify.com/track/3WvSwNtssCbdCJxzMNIbyp"
     },
     {
       "album": {
@@ -15201,6 +15317,28 @@
     },
     {
       "album": {
+        "name": "Arco",
+        "url": "https://open.spotify.com/album/01M3hK5oyx0PnomcoeZXKh"
+      },
+      "artists": [
+        {
+          "name": "Marcos Sacramento",
+          "url": "https://open.spotify.com/artist/5BVgOKodjXNSYX02BQ1zGQ"
+        },
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200164,
+      "name": "Todo o Amor Que Houver Nessa Vida",
+      "url": "https://open.spotify.com/track/57HsNsO2Up5WlLcoyugpcD"
+    },
+    {
+      "album": {
         "name": "Topo da Minha Cabe\u00e7a",
         "url": "https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0"
       },
@@ -15972,7 +16110,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 150725,
       "name": "Vai",
       "url": "https://open.spotify.com/track/0FMKLCMxjAGeNzOAxH4b9F"

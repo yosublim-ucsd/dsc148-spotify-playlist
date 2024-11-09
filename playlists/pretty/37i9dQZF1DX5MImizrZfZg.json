@@ -1,6 +1,6 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 70226,
+  "num_followers": 70267,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
+        "name": "Just Chillin'",
+        "url": "https://open.spotify.com/album/6UmGaBGKzyZioXZui0KabU"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "I Still Believe",
+      "url": "https://open.spotify.com/track/0uaGecCnDEfCxErLESir5U"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
         "name": "Tequila Moon",
         "url": "https://open.spotify.com/album/5m4EAIIS14jJMOQyhNo3UH"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 250746,
       "name": "Blue Water",
       "url": "https://open.spotify.com/track/0vEHMGB81YJ5QYrIIVExH9"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "Just Chillin'",
-        "url": "https://open.spotify.com/album/6UmGaBGKzyZioXZui0KabU"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 239333,
-      "name": "I Still Believe",
-      "url": "https://open.spotify.com/track/0uaGecCnDEfCxErLESir5U"
     },
     {
       "added_at": "2020-08-19 19:15:51",

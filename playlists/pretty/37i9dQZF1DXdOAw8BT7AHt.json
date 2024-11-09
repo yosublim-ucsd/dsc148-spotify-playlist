@@ -175,22 +175,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "End Eric Sparrow and the Life of Him",
-        "url": "https://open.spotify.com/album/5MSJvNBZTMnt5f7iyvNChi"
-      },
-      "artists": [
-        {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "End Eric Sparrow and the Life of Him",
-      "url": "https://open.spotify.com/track/1zZuJm4FZjGVY9J3Hy5CNP"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "Beg For More",
         "url": "https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 174000,
       "name": "Beg For More",
       "url": "https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "End Eric Sparrow and the Life of Him",
+        "url": "https://open.spotify.com/album/5MSJvNBZTMnt5f7iyvNChi"
+      },
+      "artists": [
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "End Eric Sparrow and the Life of Him",
+      "url": "https://open.spotify.com/track/1zZuJm4FZjGVY9J3Hy5CNP"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "All In My Head",
-        "url": "https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 201187,
-      "name": "All In My Head",
-      "url": "https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "HEAVY JELLY",
         "url": "https://open.spotify.com/album/2oSZ420w1kkEdXMaDaNEbt"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 164773,
       "name": "Isaac Is Typing\u2026",
       "url": "https://open.spotify.com/track/0mIekgyAGvn5vzt0wns4iP"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "All In My Head",
+        "url": "https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 201187,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "PRUDE",
-        "url": "https://open.spotify.com/album/4SiGEjeock157xR33nCQdb"
-      },
-      "artists": [
-        {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Yankee Trails",
-      "url": "https://open.spotify.com/track/560Grf0kkkBF0v0unWmOIC"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "All This Time",
         "url": "https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 168903,
       "name": "All This Time",
       "url": "https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "PRUDE",
+        "url": "https://open.spotify.com/album/4SiGEjeock157xR33nCQdb"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Yankee Trails",
+      "url": "https://open.spotify.com/track/560Grf0kkkBF0v0unWmOIC"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/42D3FszT9XdwpK9zICUBsa"
+      },
+      "artists": [
+        {
+          "name": "GEL",
+          "url": "https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73"
+        }
+      ],
+      "duration_ms": 172687,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/486JaB4ZK017faPW9kNpje"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
         "name": "Nobody\u2019s",
         "url": "https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 148106,
       "name": "You've Got The Nerve",
       "url": "https://open.spotify.com/track/4D27D0dO71irY4ngdUvsjJ"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/42D3FszT9XdwpK9zICUBsa"
-      },
-      "artists": [
-        {
-          "name": "GEL",
-          "url": "https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73"
-        }
-      ],
-      "duration_ms": 172687,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/486JaB4ZK017faPW9kNpje"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Nothing Would Change",
-        "url": "https://open.spotify.com/album/3kQY3Ha4otCRlvzukPPNaH"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 203774,
-      "name": "Nothing Would Change",
-      "url": "https://open.spotify.com/track/3o3f9agMiUxMGm4p60Ni3b"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "DOWN N OUT",
         "url": "https://open.spotify.com/album/6wkmm5YeCDnfIZoKXhLU98"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 143626,
       "name": "DOWN N OUT",
       "url": "https://open.spotify.com/track/3I7bQjEBfbyo7wI3AeF0eg"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Nothing Would Change",
+        "url": "https://open.spotify.com/album/3kQY3Ha4otCRlvzukPPNaH"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 203774,
+      "name": "Nothing Would Change",
+      "url": "https://open.spotify.com/track/3o3f9agMiUxMGm4p60Ni3b"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
+        "name": "Bite Me",
+        "url": "https://open.spotify.com/album/1GhiWvB9ZkwfYakj9PyG0j"
+      },
+      "artists": [
+        {
+          "name": "Beaks",
+          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
+        }
+      ],
+      "duration_ms": 127185,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/0Gs26tFXxFrZNZm2lXQfDg"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
         "name": "GET A JOB!",
         "url": "https://open.spotify.com/album/5Htr73zW5tGvolH7foL7X6"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Bite Me",
-        "url": "https://open.spotify.com/album/1GhiWvB9ZkwfYakj9PyG0j"
-      },
-      "artists": [
-        {
-          "name": "Beaks",
-          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
-        }
-      ],
-      "duration_ms": 127185,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/0Gs26tFXxFrZNZm2lXQfDg"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "5168 Days",
         "url": "https://open.spotify.com/album/54Hh6C6wWiLK9Rn4JKHLqg"
       },
@@ -935,22 +935,6 @@
       "duration_ms": 195553,
       "name": "5168 Days",
       "url": "https://open.spotify.com/track/1H40y4eKv6JsfwMDNkbapx"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
-        "name": "Johnny",
-        "url": "https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r"
-      },
-      "artists": [
-        {
-          "name": "CARR",
-          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
-        }
-      ],
-      "duration_ms": 149786,
-      "name": "Johnny",
-      "url": "https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -971,6 +955,22 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
+        "name": "Johnny",
+        "url": "https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r"
+      },
+      "artists": [
+        {
+          "name": "CARR",
+          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+        }
+      ],
+      "duration_ms": 149786,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
         "name": "No Backbone",
         "url": "https://open.spotify.com/album/1HTERR04ZhV8lRaxlvYBeL"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 137076,
       "name": "No Backbone",
       "url": "https://open.spotify.com/track/4aVYHhJU15iTOK29U4PWIM"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
-        "name": "The Prius Diaries: A Hybrid Story",
-        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
-      },
-      "artists": [
-        {
-          "name": "WALWIN",
-          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
-        }
-      ],
-      "duration_ms": 142538,
-      "name": "Stop Living & Don't Dream",
-      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
+        "name": "The Prius Diaries: A Hybrid Story",
+        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
+      },
+      "artists": [
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        }
+      ],
+      "duration_ms": 142538,
+      "name": "Stop Living & Don't Dream",
+      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
         "name": "3 DAY HEADACHE",
         "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
       },
@@ -1047,38 +1047,6 @@
       "duration_ms": 114284,
       "name": "3 DAY HEADACHE",
       "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
-        "name": "Wretched Trajectory",
-        "url": "https://open.spotify.com/album/7aYIOsUThy6iYQ0XtJkd3Y"
-      },
-      "artists": [
-        {
-          "name": "Origami Angel",
-          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
-        }
-      ],
-      "duration_ms": 166050,
-      "name": "Wretched Trajectory",
-      "url": "https://open.spotify.com/track/607oeYyNz1K55WF6foHzus"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
-        "name": "Elster Stares the Desert Down",
-        "url": "https://open.spotify.com/album/3LehnIMiP8l21O4P7ZFlr3"
-      },
-      "artists": [
-        {
-          "name": "La Dispute",
-          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
-        }
-      ],
-      "duration_ms": 221347,
-      "name": "Elster Stares the Desert Down",
-      "url": "https://open.spotify.com/track/4k8niudrwjId0AvxxhqJVb"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1099,6 +1067,22 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
+        "name": "Elster Stares the Desert Down",
+        "url": "https://open.spotify.com/album/3LehnIMiP8l21O4P7ZFlr3"
+      },
+      "artists": [
+        {
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+        }
+      ],
+      "duration_ms": 221347,
+      "name": "Elster Stares the Desert Down",
+      "url": "https://open.spotify.com/track/4k8niudrwjId0AvxxhqJVb"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
         "name": "Broken Words",
         "url": "https://open.spotify.com/album/0Z0RC0jyicZJDUXtH8goe8"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Mob DLA",
-        "url": "https://open.spotify.com/album/5e13yCtWWb0HlXbExrGWYw"
+        "name": "Wretched Trajectory",
+        "url": "https://open.spotify.com/album/7aYIOsUThy6iYQ0XtJkd3Y"
       },
       "artists": [
         {
-          "name": "High Vis",
-          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
+          "name": "Origami Angel",
+          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
         }
       ],
-      "duration_ms": 149397,
-      "name": "Mob DLA",
-      "url": "https://open.spotify.com/track/2aeOHlYvx9IIdWmyTiQelk"
+      "duration_ms": 166050,
+      "name": "Wretched Trajectory",
+      "url": "https://open.spotify.com/track/607oeYyNz1K55WF6foHzus"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "shut up!",
-        "url": "https://open.spotify.com/album/5wF8Hszo6VWcMrX3m5AspW"
+        "name": "Mob DLA",
+        "url": "https://open.spotify.com/album/5e13yCtWWb0HlXbExrGWYw"
       },
       "artists": [
         {
-          "name": "LIA LIA",
-          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+          "name": "High Vis",
+          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
         }
       ],
-      "duration_ms": 103669,
-      "name": "shut up!",
-      "url": "https://open.spotify.com/track/4ynDEgatB1rZTDN0AxoaVB"
+      "duration_ms": 149397,
+      "name": "Mob DLA",
+      "url": "https://open.spotify.com/track/2aeOHlYvx9IIdWmyTiQelk"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1183,6 +1167,22 @@
       "duration_ms": 184934,
       "name": "Girls!",
       "url": "https://open.spotify.com/track/6mzLKnoN7tFpSa2sZ1ypfx"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "shut up!",
+        "url": "https://open.spotify.com/album/5wF8Hszo6VWcMrX3m5AspW"
+      },
+      "artists": [
+        {
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+        }
+      ],
+      "duration_ms": 103669,
+      "name": "shut up!",
+      "url": "https://open.spotify.com/track/4ynDEgatB1rZTDN0AxoaVB"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "wallflower",
-        "url": "https://open.spotify.com/album/3n1eCljBLZcM6YOBbNevEt"
-      },
-      "artists": [
-        {
-          "name": "Calling All Captains",
-          "url": "https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "wallflower",
-      "url": "https://open.spotify.com/track/1uSCWWZnyo78wKELz8pXlD"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "The Twits",
         "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Self-determined",
-        "url": "https://open.spotify.com/album/6KGuKs29bBrtAipiL8uxXF"
+        "name": "wallflower",
+        "url": "https://open.spotify.com/album/3n1eCljBLZcM6YOBbNevEt"
       },
       "artists": [
         {
-          "name": "Face To Face",
-          "url": "https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd"
+          "name": "Calling All Captains",
+          "url": "https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG"
         }
       ],
-      "duration_ms": 197714,
-      "name": "Self-determined",
-      "url": "https://open.spotify.com/track/7c1bKD3B87FJZNUXGIDH8s"
+      "duration_ms": 190000,
+      "name": "wallflower",
+      "url": "https://open.spotify.com/track/1uSCWWZnyo78wKELz8pXlD"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1279,6 +1263,22 @@
       "duration_ms": 213387,
       "name": "Final Words",
       "url": "https://open.spotify.com/track/1CZpEkQIsrMTBoEfJZsCU8"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Self-determined",
+        "url": "https://open.spotify.com/album/6KGuKs29bBrtAipiL8uxXF"
+      },
+      "artists": [
+        {
+          "name": "Face To Face",
+          "url": "https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd"
+        }
+      ],
+      "duration_ms": 197714,
+      "name": "Self-determined",
+      "url": "https://open.spotify.com/track/7c1bKD3B87FJZNUXGIDH8s"
     },
     {
       "added_at": "2024-10-10 17:06:38",

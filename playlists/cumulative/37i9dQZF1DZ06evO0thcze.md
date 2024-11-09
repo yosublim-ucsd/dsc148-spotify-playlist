@@ -4,7 +4,7 @@
 
 > This is Neto Peña\. The essential tracks, all in one playlist.
 
-67 songs - 4 hr 23 min
+68 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Malvada](https://open.spotify.com/track/3yE70C2cmJ9FcuIEL7u23e) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Malvada](https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I) | 5:21 | 2023-11-10 |  |
 | [Mas Vale Cholo](https://open.spotify.com/track/5ikxVvxiartCefvERWxFNX) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Fobia](https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq) | 3:13 | 2023-11-10 |  |
 | [Me Perdí](https://open.spotify.com/track/1tYBjcreU2WONT4AmhZ7oc) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Jon Jams](https://open.spotify.com/artist/1QmcAReKKTu2A9L97Mofv7) | [Me Perdí](https://open.spotify.com/album/6S2t4FIFbtG9Lov0u4WqGu) | 2:49 | 2024-07-27 |  |
+| [Mirando Al Cielo](https://open.spotify.com/track/6il5X12LCNpY0mJwTuZtzN) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Mirando Al Cielo](https://open.spotify.com/album/4OM0ACFQ6xXyHW136buPYv) | 3:16 | 2024-11-09 |  |
 | [Nada Me Va A Importar](https://open.spotify.com/track/7jd9nQ7JYbcAtB3k3HG7ao) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Fobia](https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq) | 2:42 | 2023-11-10 |  |
 | [Ni Angel Ni Demonio](https://open.spotify.com/track/6v0DLxSpccrL2DtemB0b56) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Gona](https://open.spotify.com/artist/3yrN2y3XifdxgoTVMiTpDB) | [Ni Angel Ni Demonio](https://open.spotify.com/album/2G5u8pyvsts5QZJIfhYvQl) | 3:08 | 2023-11-10 |  |
 | [Ni Rey, Ni Corona](https://open.spotify.com/track/2yNbAet0LRJrpYWenxWi20) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Toques de Queda](https://open.spotify.com/album/6ctiaGPxGEGW8yrYmzDOvQ) | 3:06 | 2023-12-13 |  |

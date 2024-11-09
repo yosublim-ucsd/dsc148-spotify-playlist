@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment \u2728 with Sam Gellaitry",
+  "description": "The best indie dance tracks of the moment \u2728 with ANOTR",
   "name": "metropolis",
   "tracks": [
     {
@@ -2664,7 +2664,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 189947,
       "name": "Been A Minute...",
       "url": "https://open.spotify.com/track/4QRRjCZLbmnqDGtsKNEiOh"
@@ -3573,6 +3573,24 @@
     },
     {
       "album": {
+        "name": "BOOTS",
+        "url": "https://open.spotify.com/album/0h2VDVB4yE4JTdTKeUL7Bu"
+      },
+      "artists": [
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199375,
+      "name": "BOOTS",
+      "url": "https://open.spotify.com/track/4bucHejFAjKuMAQ4bU8fqg"
+    },
+    {
+      "album": {
         "name": "Born Again",
         "url": "https://open.spotify.com/album/4hjC0D3OPw8owtT62LE9LK"
       },
@@ -3894,6 +3912,24 @@
       "duration_ms": 262643,
       "name": "Brooklyn Ballers",
       "url": "https://open.spotify.com/track/5rLvASDpyKgO9pP1tO6LEr"
+    },
+    {
+      "album": {
+        "name": "Bubbles",
+        "url": "https://open.spotify.com/album/2Z9yJRQBIgJMBT0snDlf5n"
+      },
+      "artists": [
+        {
+          "name": "Aksel & Aino",
+          "url": "https://open.spotify.com/artist/4OC2ykcgmaj4XepHY1AEYO"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222419,
+      "name": "Bubbles",
+      "url": "https://open.spotify.com/track/5Oy33SQQuGSYHpsgWoVnYp"
     },
     {
       "album": {
@@ -4326,7 +4362,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 173834,
       "name": "can't stop",
       "url": "https://open.spotify.com/track/0eNXwn6I5GYl1OixYsW1gq"
@@ -5630,7 +5666,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 181893,
       "name": "Coraz\u00f3n / Death by Disco Pt 2",
       "url": "https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt"
@@ -6433,6 +6469,28 @@
     },
     {
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5UcjmnionWq0WqmpxXmfjD"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "Con Cook",
+          "url": "https://open.spotify.com/artist/6akmHflFVzgeDWJtP98n7v"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125084,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/13LojN5HDhICPdgLz6QmIG"
+    },
+    {
+      "album": {
         "name": "Deny It",
         "url": "https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i"
       },
@@ -6582,6 +6640,28 @@
       "duration_ms": 245035,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/3H2PFJYTxPH03IwYygXnlW"
+    },
+    {
+      "album": {
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/7Mj4PdkDSp4beWH8gANGHJ"
+      },
+      "artists": [
+        {
+          "name": "Lemaitre",
+          "url": "https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764"
+        },
+        {
+          "name": "RebMoe",
+          "url": "https://open.spotify.com/artist/1DNFG0VEHD2Vk5ESUEPuOM"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148205,
+      "name": "Died At The Party",
+      "url": "https://open.spotify.com/track/1CDwotYnigEU6QuoyJUSJ0"
     },
     {
       "album": {
@@ -7520,6 +7600,28 @@
       "duration_ms": 210572,
       "name": "Dribble",
       "url": "https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp"
+    },
+    {
+      "album": {
+        "name": "Driving Fast",
+        "url": "https://open.spotify.com/album/1LM3dBanBig1Fqy4IwF0E8"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        },
+        {
+          "name": "Beaux Neptune",
+          "url": "https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Driving Fast",
+      "url": "https://open.spotify.com/track/6bVY1XClQ5LNXZsF9J7uOz"
     },
     {
       "album": {
@@ -10299,6 +10401,24 @@
     },
     {
       "album": {
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/4kHyNDHonchA7wACkVJEq7"
+      },
+      "artists": [
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212325,
+      "name": "Get Lost",
+      "url": "https://open.spotify.com/track/5P2fPoLx8DG10KfUGHI2pp"
+    },
+    {
+      "album": {
         "name": "Get Myself Together",
         "url": "https://open.spotify.com/album/2Fu1yGeLLBPQ7CL7UmC7M9"
       },
@@ -12579,6 +12699,28 @@
     },
     {
       "album": {
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/1gCDS9MZPwEUp4VltJagU4"
+      },
+      "artists": [
+        {
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206837,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/3AGqoV9OBrQqwOFtuWcWki"
+    },
+    {
+      "album": {
         "name": "Hop On By",
         "url": "https://open.spotify.com/album/4xkAdVdypAdO5OOOEsS12v"
       },
@@ -12616,7 +12758,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 180219,
       "name": "Hopecore",
       "url": "https://open.spotify.com/track/4MyREnmB1D6ODsvsGiyKHV"
@@ -12882,7 +13024,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 176102,
       "name": "Hush My Heart",
       "url": "https://open.spotify.com/track/4LkZFI0EJoJ2s08M4otbXY"
@@ -13320,6 +13462,24 @@
       "duration_ms": 226680,
       "name": "I Keep",
       "url": "https://open.spotify.com/track/1572n5ACOGAwWhBX3Ix9jM"
+    },
+    {
+      "album": {
+        "name": "I LOVE YOUR EVERYTHING",
+        "url": "https://open.spotify.com/album/4AjZbblZl8VQMRbPtyMebt"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "I LOVE YOUR EVERYTHING",
+      "url": "https://open.spotify.com/track/5Rc3JYlH5cTPbhxqvCQYJh"
     },
     {
       "album": {
@@ -16356,7 +16516,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 200500,
       "name": "Living It Up",
       "url": "https://open.spotify.com/track/05HfcpAJ4PBRp15enPGv0P"
@@ -19299,6 +19459,24 @@
     },
     {
       "album": {
+        "name": "No Ice",
+        "url": "https://open.spotify.com/album/15qRqrh7YYtKfkqx6VDvDr"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242941,
+      "name": "No Ice",
+      "url": "https://open.spotify.com/track/4v9fdnM2Pez9whcdAn0n7s"
+    },
+    {
+      "album": {
         "name": "NO INTENTION",
         "url": "https://open.spotify.com/album/6ZLNsoZyBz9SlYnTe1syri"
       },
@@ -20060,7 +20238,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 308053,
       "name": "Ohh Baby",
       "url": "https://open.spotify.com/track/4P19q3dSHap2uHkqRsF4YS"
@@ -21492,7 +21670,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 189268,
       "name": "Petit Boy",
       "url": "https://open.spotify.com/track/0MSN9A0nVONYW8E3Ml7k3E"
@@ -23703,6 +23881,24 @@
     },
     {
       "album": {
+        "name": "SET IT ON FIRE",
+        "url": "https://open.spotify.com/album/0KlB5ibm3W9pJwI83HBydh"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229867,
+      "name": "SET IT ON FIRE",
+      "url": "https://open.spotify.com/track/6Pc5eHdzmnruL7zPsRp5UE"
+    },
+    {
+      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/6rHwavFWk3JBy7iZtHR19a"
       },
@@ -24738,7 +24934,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 292697,
       "name": "sol\u00e5m\u00e5ne",
       "url": "https://open.spotify.com/track/4Uhdh4HGhlhhzfFHiTldbY"
@@ -25488,7 +25684,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 212000,
       "name": "Stop The World",
       "url": "https://open.spotify.com/track/7hXWENKVs2XOlIdzgCMws7"
@@ -25692,6 +25888,28 @@
       "duration_ms": 173290,
       "name": "Strike",
       "url": "https://open.spotify.com/track/66mRLX5KLp69nz6oAcvTLQ"
+    },
+    {
+      "album": {
+        "name": "Strong Man",
+        "url": "https://open.spotify.com/album/0qmm6zoMbHDLVdoZDnto80"
+      },
+      "artists": [
+        {
+          "name": "Moon Boots",
+          "url": "https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy"
+        },
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185280,
+      "name": "Strong Man",
+      "url": "https://open.spotify.com/track/1ocb6tS4xBe4XMw6tmFQfj"
     },
     {
       "album": {
@@ -28946,7 +29164,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 188822,
       "name": "Under Water / In Air - feat. Ruth Radelet",
       "url": "https://open.spotify.com/track/3KoRqwC6xGerhN8gwYf0hY"
@@ -29074,7 +29292,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 230198,
       "name": "Until There's Nothing Left",
       "url": "https://open.spotify.com/track/1Mx0bF3jajHH3zvMHfaleV"
@@ -29122,6 +29340,24 @@
       "duration_ms": 188571,
       "name": "UP DOWN BOUNCE",
       "url": "https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y"
+    },
+    {
+      "album": {
+        "name": "V1",
+        "url": "https://open.spotify.com/album/3I566oodqOcYXYT6U5Q3NY"
+      },
+      "artists": [
+        {
+          "name": "Coucheron",
+          "url": "https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165047,
+      "name": "V1",
+      "url": "https://open.spotify.com/track/1EtfVg0YP05kuhSPpCFnsP"
     },
     {
       "album": {
@@ -29632,10 +29868,28 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 177150,
       "name": "WARM NIGHTS",
       "url": "https://open.spotify.com/track/3bwKRxUkoiavDuu088mVOH"
+    },
+    {
+      "album": {
+        "name": "Waste of Time",
+        "url": "https://open.spotify.com/album/3Zbz5gmLEQq5weAJ1HZfns"
+      },
+      "artists": [
+        {
+          "name": "Jex Opolis",
+          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210232,
+      "name": "Waste of Time",
+      "url": "https://open.spotify.com/track/6yj74on8CdNfq76fpIGCPF"
     },
     {
       "album": {
@@ -30616,7 +30870,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 187480,
       "name": "Wise Heart",
       "url": "https://open.spotify.com/track/31mRhTf3yG5kof0V0OvzN5"
@@ -30722,6 +30976,28 @@
       "duration_ms": 243573,
       "name": "Wolf - Sextile Remix",
       "url": "https://open.spotify.com/track/5JVA84RfilAsYOI51MMrXh"
+    },
+    {
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/7edPccZyidsVxW43GpJvXN"
+      },
+      "artists": [
+        {
+          "name": "Josha Daniel",
+          "url": "https://open.spotify.com/artist/3U0iFfS4kjiAkS1oCUOmuN"
+        },
+        {
+          "name": "Quentyn",
+          "url": "https://open.spotify.com/artist/5bYML8xTIbwYZg5e3izzjl"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189268,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/3ZbYyZUNaMmJ8JsiaC3zFp"
     },
     {
       "album": {

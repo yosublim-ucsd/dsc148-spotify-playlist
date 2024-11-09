@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 118475,
+  "num_followers": 118518,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "Qmbia Juan",
-        "url": "https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6"
-      },
-      "artists": [
-        {
-          "name": "Qmbia Juan",
-          "url": "https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx"
-        }
-      ],
-      "duration_ms": 237844,
-      "name": "Ay Que Vida",
-      "url": "https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
         "name": "My Destiny",
         "url": "https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 212591,
       "name": "Mi Mujer",
       "url": "https://open.spotify.com/track/2bTubyDzW1q1Nis5evYgpS"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
+        "name": "Qmbia Juan",
+        "url": "https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6"
+      },
+      "artists": [
+        {
+          "name": "Qmbia Juan",
+          "url": "https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx"
+        }
+      ],
+      "duration_ms": 237844,
+      "name": "Ay Que Vida",
+      "url": "https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe"
     },
     {
       "added_at": "2024-06-13 21:06:26",
@@ -727,6 +727,26 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
+        "name": "Loco Tu Forma de Ser",
+        "url": "https://open.spotify.com/album/2BIuDdc0UhRmwEHHFIgqAc"
+      },
+      "artists": [
+        {
+          "name": "Mama Santa",
+          "url": "https://open.spotify.com/artist/4yfN6I5gIxbvuSCWEgM3SW"
+        },
+        {
+          "name": "Humbertiko",
+          "url": "https://open.spotify.com/artist/4asABLSEV1sp1qVQe7O1Fa"
+        }
+      ],
+      "duration_ms": 201480,
+      "name": "Loco Tu Forma de Ser",
+      "url": "https://open.spotify.com/track/5R2fgpQdSBWBYQIDILkiT9"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
         "name": "Ac\u00fastico en Paraguay (En Vivo)",
         "url": "https://open.spotify.com/album/4yspRKo0YaXP6MwxK1OaFV"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 248164,
       "name": "Si T\u00fa Te Vas - Ac\u00fastico en Vivo",
       "url": "https://open.spotify.com/track/4OTFNviyg8qHuASnJX0O9S"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
-        "name": "Loco Tu Forma de Ser",
-        "url": "https://open.spotify.com/album/2BIuDdc0UhRmwEHHFIgqAc"
-      },
-      "artists": [
-        {
-          "name": "Mama Santa",
-          "url": "https://open.spotify.com/artist/4yfN6I5gIxbvuSCWEgM3SW"
-        },
-        {
-          "name": "Humbertiko",
-          "url": "https://open.spotify.com/artist/4asABLSEV1sp1qVQe7O1Fa"
-        }
-      ],
-      "duration_ms": 201480,
-      "name": "Loco Tu Forma de Ser",
-      "url": "https://open.spotify.com/track/5R2fgpQdSBWBYQIDILkiT9"
     },
     {
       "added_at": "2024-06-13 21:06:26",

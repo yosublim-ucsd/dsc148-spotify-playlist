@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "All Is Ours",
+        "url": "https://open.spotify.com/album/2dzydQ4Kt36UkRZOOZZRUT"
+      },
+      "artists": [
+        {
+          "name": "Davina Michelle",
+          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291008,
+      "name": "All Is Ours - Acoustic Version",
+      "url": "https://open.spotify.com/track/2GiKm519SjcHtETEGsSXwi"
+    },
+    {
+      "album": {
         "name": "Almost Made It",
         "url": "https://open.spotify.com/album/5erOgjYwyCKsY3z48gLOCW"
       },
@@ -690,7 +708,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 268973,
       "name": "Don't Forget About Me",
       "url": "https://open.spotify.com/track/04eXDIDkXFrfZQeJtLERVh"
@@ -1890,7 +1908,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 199484,
       "name": "Little Birds",
       "url": "https://open.spotify.com/track/3mgFa4MC92Q6iaT1fLKJkm"
@@ -2540,7 +2558,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 202062,
       "name": "October, Halfway July",
       "url": "https://open.spotify.com/track/2eD56lWTL92klRLfmgjP9h"
@@ -3041,6 +3059,24 @@
     },
     {
       "album": {
+        "name": "Saturday Silence",
+        "url": "https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl"
+      },
+      "artists": [
+        {
+          "name": "Iskander Moon",
+          "url": "https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175844,
+      "name": "Saturday Silence",
+      "url": "https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9"
+    },
+    {
+      "album": {
         "name": "Five Leaves Left",
         "url": "https://open.spotify.com/album/5zau80zbjOc2uEO5P1olK1"
       },
@@ -3218,6 +3254,24 @@
       "duration_ms": 172182,
       "name": "Slow - live from the van",
       "url": "https://open.spotify.com/track/5MYVjYsBYWWyMzGP628maz"
+    },
+    {
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/35WNLrZQLucMaXJ8x0GMYm"
+      },
+      "artists": [
+        {
+          "name": "Marle Thomson",
+          "url": "https://open.spotify.com/artist/0QQXt83k6HdOLRfGmiAZwY"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158210,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/1Ku0rcSxsvFDpzE6hW597H"
     },
     {
       "album": {

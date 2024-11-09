@@ -1639,6 +1639,24 @@
     },
     {
       "album": {
+        "name": "T\u00fandra",
+        "url": "https://open.spotify.com/album/7wZskJqToFDU8RmWXLzUXi"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143667,
+      "name": "T\u00fandra",
+      "url": "https://open.spotify.com/track/7l4zfFpyo8a1zKNsevVcDT"
+    },
+    {
+      "album": {
         "name": "Vivaldi: Violin Concerto in D Major, RV 211: III. Allegro",
         "url": "https://open.spotify.com/album/2Q5uDlfz5LUnhEpKyWqG2F"
       },

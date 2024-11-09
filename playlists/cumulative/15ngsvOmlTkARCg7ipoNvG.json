@@ -13077,6 +13077,24 @@
     },
     {
       "album": {
+        "name": "Golden Night",
+        "url": "https://open.spotify.com/album/6RF7vEnzwtlWvhTJM0NYGQ"
+      },
+      "artists": [
+        {
+          "name": "Sunset Harmony",
+          "url": "https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60387,
+      "name": "Golden Night",
+      "url": "https://open.spotify.com/track/3rLYIOa93a8cSYKVLsELpW"
+    },
+    {
+      "album": {
         "name": "Golden Skies",
         "url": "https://open.spotify.com/album/2P4HJJDnetceOGwG86WP19"
       },

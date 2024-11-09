@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-376 songs - 20 hr 33 min
+377 songs - 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [FEELING GUD](https://open.spotify.com/track/0suLmBuEbatdochI4tHduq) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Matthew Santos](https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj) | [FEELING GUD](https://open.spotify.com/album/6jd5jHj3j3dakL1cKvzMEC) | 3:10 | 2021-11-19 | 2024-09-21 |
 | [Fever Dream](https://open.spotify.com/track/7nBFYnnuzZdqc6FN0elfl6) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Fever Dream](https://open.spotify.com/album/6Tj0ZOuQ5lxwtLgwQjErfE) | 3:44 | 2021-11-19 | 2022-01-08 |
 | [Fight Back](https://open.spotify.com/track/3vcX4GCAbXAkCJtwNqyeHv) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak), [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8) | [Fight Back](https://open.spotify.com/album/4iTii2lDbEYYnZJBkU9p75) | 3:02 | 2021-11-19 | 2024-04-13 |
+| [Fired Up](https://open.spotify.com/track/69Wvx3nyfr7ggd2C3pCx1m) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Fired Up](https://open.spotify.com/album/7cZSWuOdlkrIdrEfsWgoQe) | 3:08 | 2024-11-08 |  |
 | [Flat Line](https://open.spotify.com/track/2JmbEZudT2eA3kUp5nXGZf) | [Dodge & Fuski](https://open.spotify.com/artist/6SJnjpekgnONgNtxKeMP8m), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [All Killer No Filler EP](https://open.spotify.com/album/7HjEb7HP68bpVclylWutsl) | 2:24 | 2022-05-06 | 2023-01-21 |
 | [Flip It](https://open.spotify.com/track/4NDhaxAmbKXM8LKrOPNxsy) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Flip It](https://open.spotify.com/album/6pdKC8JtPq2fbz8er190xE) | 2:15 | 2023-10-13 | 2024-03-02 |
 | [Flip It \- Tape B Remix](https://open.spotify.com/track/3xE0aFAEDbS3hjtBB5PKLT) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Flip It \(Tape B Remix\)](https://open.spotify.com/album/2NAppK3N8QSMkm1xdVDSBF) | 3:07 | 2024-03-01 |  |
@@ -312,7 +313,7 @@
 | [SONG REQUEST](https://open.spotify.com/track/4ZlcezbAuIfO400BvhlvtD) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [SONG REQUEST](https://open.spotify.com/album/1Wq5lav9Emu0I4cVkHwIFz) | 3:24 | 2024-05-31 |  |
 | [SONG SIX \- CloZee Remix](https://open.spotify.com/track/30rKCglfFE6ta2iJfrwaU1) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [SONG SIX \(CloZee Remix\)](https://open.spotify.com/album/5nw1xSZFsU5Jn4Sphc1I9q) | 3:39 | 2021-11-19 | 2022-01-08 |
 | [Speakerbox \(feat\. Lafa Taylor\)](https://open.spotify.com/track/3NPYT4nilQ6YW1uA8I7orI) | [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i), [Lafa Taylor](https://open.spotify.com/artist/0j0HBDnIuT6rsn840ec18A) | [Into the Sun](https://open.spotify.com/album/4o64zqena2YeCi6q687ekv) | 4:42 | 2022-07-22 | 2024-02-17 |
-| [Spirits Pt\. 2](https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 2:01 | 2022-06-17 |  |
+| [Spirits Pt\. 2](https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 2:01 | 2022-06-17 | 2024-11-09 |
 | [Stallions](https://open.spotify.com/track/7Mgpc7PoSvWV73jhfpmxoE) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Stallions](https://open.spotify.com/album/0I3fZYjDRb5g7VulqKfm1f) | 3:55 | 2021-11-19 | 2022-01-08 |
 | [Status Quo](https://open.spotify.com/track/20nE4m2wJ7a44ZTaorpn5z) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Status Quo](https://open.spotify.com/album/019JaqKPZQvBVL2KcmZjIB) | 2:56 | 2021-11-19 | 2022-10-21 |
 | [Steamroller](https://open.spotify.com/track/6nJydgohLfCuoPr9BbrUMy) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [Steamroller](https://open.spotify.com/album/2CcC9vuinUNRbWTQp0pS0y) | 4:09 | 2024-08-23 | 2024-09-14 |

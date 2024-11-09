@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-213 songs - 18 hr 21 min
+214 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Coup de foudre à Thessalonique](https://open.spotify.com/track/6g7Mf0uuommKD2qyyOmzCd) | [Florian Pellissier Quintet](https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx) | [Bijou voyou caillou](https://open.spotify.com/album/7e6x6o4pHIMPUgHkav3A14) | 4:22 | 2022-06-30 | 2022-08-30 |
 | [Dagen till ära](https://open.spotify.com/track/3Sb7YhLgRrsfYqzcpNxkjJ) | [Julia Strzalek](https://open.spotify.com/artist/1EbW3Q2y5bhyoy0UgzctuB) | [TVÅ](https://open.spotify.com/album/2iEvgN4SWNm6UeR44hPCJe) | 3:51 | 2022-02-10 | 2022-08-30 |
 | [Dardanella](https://open.spotify.com/track/0QTq57fazdnHads8lz3G9G) | [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT) | [Future Stride](https://open.spotify.com/album/6nGurFCYFgfbZvyA7MB3sk) | 5:24 | 2022-06-30 | 2024-04-19 |
-| [Dardanella](https://open.spotify.com/track/6ASQ9b6KAHrwKcfgBIeTQw) | [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT) | [Dardanella](https://open.spotify.com/album/0k7ZC0mA9k5HfPONZzbJTh) | 5:24 | 2021-12-21 |  |
+| [Dardanella](https://open.spotify.com/track/6ASQ9b6KAHrwKcfgBIeTQw) | [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT) | [Dardanella](https://open.spotify.com/album/0k7ZC0mA9k5HfPONZzbJTh) | 5:24 | 2021-12-21 | 2024-11-09 |
 | [Darn That Dream](https://open.spotify.com/track/2nWQ1vNWFScr1w8VCJj1tz) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [Time to Swing](https://open.spotify.com/album/7uc7Ti77VrrqITPsxLR0ue) | 7:30 | 2022-06-30 | 2024-01-18 |
 | [Darn That Dream](https://open.spotify.com/track/2vNIbZxM13wdFtWXYeqQ2F) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [Darn That Dream](https://open.spotify.com/album/6lLoo60kZHwZozXSWSYymx) | 7:30 | 2021-12-21 | 2022-07-29 |
 | [Dave](https://open.spotify.com/track/0NHnOig4DwclyoFDqPjCkh) | [Orrin Evans](https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL) | [Dave](https://open.spotify.com/album/36Oiew8ljfc2W0ZUvLogOC) | 3:43 | 2022-02-10 |  |
@@ -89,6 +89,7 @@
 | [Hopeful Morning](https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD) | [Matt Carmichael](https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0) | [Where Will the River Flow](https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf) | 5:34 | 2021-12-21 |  |
 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz In Stockholm](https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z) | 5:17 | 2021-12-21 |  |
 | [I Didn't Know What Time It Was](https://open.spotify.com/track/753IPE29U6NWJtWOqAin7T) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW) | [StandArt](https://open.spotify.com/album/1j9abB0wpxOjBxSmdeNIbP) | 7:13 | 2022-05-02 | 2022-09-15 |
+| [I Wish You Love](https://open.spotify.com/track/4m7MH411WVmBWq0bagAuTC) | [Jumaane Smith](https://open.spotify.com/artist/1XH2bt9r3GiWNb1C4v73l8) | [Lonely Nights](https://open.spotify.com/album/6ISlh3JpauVe5p08WbUqvB) | 4:39 | 2024-11-08 |  |
 | [I'll Know](https://open.spotify.com/track/7qLzoarYodaUHezJvndAdK) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [I'll Know](https://open.spotify.com/album/3daQUpLhrwncXGrSozlkeT) | 5:12 | 2021-12-21 |  |
 | [In The End](https://open.spotify.com/track/4wZbWbTqS657emJy9xuJ2Q) | [Marcus Bartelt](https://open.spotify.com/artist/0kqhTGbh9RtpgbiUeCHngy), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT), [Martin Gjakonovski](https://open.spotify.com/artist/5v054lI3qAL9w60moMfo61), [Joost Van Schaik](https://open.spotify.com/artist/4MyNpJkDFnYbEJ21DlSuAZ) | [At Ease](https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm) | 7:34 | 2022-09-22 |  |
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc) | 4:30 | 2022-06-23 |  |

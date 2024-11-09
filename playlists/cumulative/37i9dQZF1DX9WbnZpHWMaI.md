@@ -2,9 +2,9 @@
 
 ### [Women of Electronic](https://open.spotify.com/playlist/37i9dQZF1DX9WbnZpHWMaI)
 
-> Celebrating women at the centre of innovation in electronic music\. Cover: Charlotte de Witte
+> Celebrating women at the centre of innovation in electronic music\. Cover: Qrion
 
-460 songs - 1 day 5 hr 20 min
+462 songs - 1 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Hand on my heart \- Miss Jay Remix](https://open.spotify.com/track/7IXQ48modE75hEdnh7BiVS) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Miss Jay](https://open.spotify.com/artist/2282mHW48ronyIbZWsubbn) | [Hand on my heart \(Miss Jay Remix\)](https://open.spotify.com/album/5TpPAntdXWBDBzw26v7xkf) | 3:51 | 2024-07-26 |  |
 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 | 2024-03-01 |  |
 | [Happy Ending \- A.G Remix](https://open.spotify.com/track/5thHJrZUcgxIuDyOP5A68A) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [A.G](https://open.spotify.com/artist/1TTOSCFPyiNJXR5KCsZGqM) | [RAVE:N, The Remixes](https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi) | 3:15 | 2024-03-01 | 2024-03-30 |
-| [Heart Made Of Glass](https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Dreamscapes](https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo) | 3:50 | 2024-09-30 |  |
+| [Heart Made Of Glass](https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Dreamscapes](https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo) | 3:50 | 2024-09-30 | 2024-11-09 |
 | [Heaven](https://open.spotify.com/track/1WkYI0DxUqXKFqTayA8897) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Can You Hear Me Dreaming?](https://open.spotify.com/album/3gi2MFodyrIh2X2r1hbgvx) | 3:42 | 2024-07-12 |  |
 | [Heaven](https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Heaven](https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9) | 3:58 | 2024-05-31 | 2024-09-07 |
 | [Heavyweight](https://open.spotify.com/track/4IUl1cBeu0HI6kob3QZyNX) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Heavyweight](https://open.spotify.com/album/7N3pXrhfs3jHWGNDK57gwJ) | 2:39 | 2024-06-07 |  |
@@ -225,7 +225,7 @@
 | [I'm Not Always Where My Body Is](https://open.spotify.com/track/3XxoiXiNIzsgl45fTDXtKE) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/5dGkXQyNIkLUjmW4VR9uax) | 3:49 | 2023-03-07 | 2024-03-02 |
 | [I'm Not Always Where My Body Is](https://open.spotify.com/track/7v5srkt2hgIUPo9ezpTB5T) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/5Sdp5VRtaUZPSrW5WfwdlV) | 3:49 | 2021-03-01 | 2022-07-29 |
 | [Ice u out](https://open.spotify.com/track/1pprxpl5zMkiUNB3O0ejEZ) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [girl EDM](https://open.spotify.com/album/4QinbF7oFNC9rdcWNiF3Vu) | 3:23 | 2024-05-17 | 2024-07-13 |
-| [IDK](https://open.spotify.com/track/1lbioiuFVq2Dqp1bCK6K1A) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [IDK](https://open.spotify.com/album/5FFOPCk5z8xNWwA2MWboEA) | 3:18 | 2024-08-16 |  |
+| [IDK](https://open.spotify.com/track/1lbioiuFVq2Dqp1bCK6K1A) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [IDK](https://open.spotify.com/album/5FFOPCk5z8xNWwA2MWboEA) | 3:18 | 2024-08-16 | 2024-11-09 |
 | [In a Minute](https://open.spotify.com/track/3ClcSCGqvkUOJCaAf8YNOs) | [Madds](https://open.spotify.com/artist/0Bdyam7rtOjqj4m1PfpeUy) | [In a Minute](https://open.spotify.com/album/4U528FWMuBDHQhUIZPjo9G) | 2:51 | 2024-03-29 | 2024-06-08 |
 | [In The Night](https://open.spotify.com/track/3Xz2ZcQlQRA7rqbj7tYsL3) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sad Girl](https://open.spotify.com/album/5sGYMMmqW6bcKWdmC7Jd2S) | 3:44 | 2024-09-30 |  |
 | [Inner Peace](https://open.spotify.com/track/0KbAf8GrFpAGdDatmTC4MJ) | [Nightwave](https://open.spotify.com/artist/21E32VFyiPAWjbOWWzZBOv) | [Inner Peace](https://open.spotify.com/album/3rFHUVsBf9FLu9q5yhA6Co) | 5:19 | 2021-03-01 | 2023-03-08 |
@@ -241,8 +241,10 @@
 | [Joy](https://open.spotify.com/track/2oKFozpMCSlgRUgzI63TlZ) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE) | [Joy](https://open.spotify.com/album/5yWgQgQfvVzrbd9P7rS00J) | 3:32 | 2024-06-18 |  |
 | [Junge Sein](https://open.spotify.com/track/2xkSrW9JHEqkIqWsEOXSOA) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [La Música Es Dios](https://open.spotify.com/album/1wfK31izFVK0tgw9SIiVLP) | 7:33 | 2021-03-01 | 2024-03-02 |
 | [KarateCat](https://open.spotify.com/track/4ZudaK7D1PiHoBndGMXkmS) | [Manda Moor](https://open.spotify.com/artist/5TkMEJqmPYr0QRgX6uFOhP) | [KarateCat](https://open.spotify.com/album/5lpFoLKyzSM8gsLjlZy00y) | 3:22 | 2024-05-10 | 2024-08-03 |
+| [Keep On Moving Up](https://open.spotify.com/track/0eO5J4bjVgjSLDB579BlkE) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Keep On Moving Up](https://open.spotify.com/album/5Wbi8QUhBMmpwUbEjnN7KX) | 3:05 | 2024-11-08 |  |
 | [KILLA](https://open.spotify.com/track/3MBPOwvBIhpVRTH8BdTogi) | [Alannys Weber](https://open.spotify.com/artist/5vj4CW7CNhPrHbD7zc8SAu) | [KILLA](https://open.spotify.com/album/39kj5b04Kr5vRmSM6Z20FP) | 3:09 | 2024-03-01 | 2024-05-03 |
 | [Killing Me](https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Killing Me](https://open.spotify.com/album/5yeTnVxNU9I1rdfvVN26Fm) | 3:14 | 2024-03-01 | 2024-05-11 |
+| [Kryptonite](https://open.spotify.com/track/1bLbTYBSL9CPYHHGQhS5VJ) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0) | [Kryptonite](https://open.spotify.com/album/1YCMJ0UdvYrn1MNWavg0lM) | 2:05 | 2024-11-08 |  |
 | [La Femme Fantastique \(feat\. Josh Caffe\)](https://open.spotify.com/track/0RdwywlRjjR9G83T6zrsTN) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Josh Caffe](https://open.spotify.com/artist/3JOct1LuzqDQHeCHuHjpM2) | [La Femme Fantastique \(feat\. Josh Caffe\)](https://open.spotify.com/album/5berW6OHaeMB5tidLYZKsL) | 3:08 | 2021-03-01 | 2023-03-08 |
 | [La Perla \- Edit](https://open.spotify.com/track/6CldyxMa4XuHWAhAlaPWmt) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 3:46 | 2021-03-01 | 2024-03-02 |
 | [Last Dance](https://open.spotify.com/track/0qeX1yqGMmsqAYWNWhDPgY) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [Last Dance](https://open.spotify.com/album/2JwrSr2KjW2qOYjyH7NHZD) | 3:37 | 2024-08-23 |  |
@@ -287,7 +289,7 @@
 | [MOVE](https://open.spotify.com/track/7fqonSY5E0ot4r02igxTrn) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [MOVE](https://open.spotify.com/album/77mHoOr31GlywElEi2zucF) | 3:03 | 2024-08-16 | 2024-09-21 |
 | [Movementt](https://open.spotify.com/track/1zYA5cNkQnFyyVOZaY7lqO) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4jZE92oJG0NgpXB6gBKe8K) | 3:33 | 2022-03-08 | 2023-03-08 |
 | [Movementt](https://open.spotify.com/track/41eywgVC3YN7RmdZNmwpyC) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4MnjVFnInqwCgHBqt4e6zN) | 3:33 | 2021-03-01 | 2023-02-02 |
-| [Mr\. Sandman](https://open.spotify.com/track/1Y2eoRAhwsjCKcdNnrZOzV) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [Mr\. Sandman](https://open.spotify.com/album/5DGMidRNgao4B4iJNW6gAb) | 2:25 | 2024-03-01 |  |
+| [MR\. SANDMAN](https://open.spotify.com/track/1Y2eoRAhwsjCKcdNnrZOzV) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [MR\. SANDMAN](https://open.spotify.com/album/5DGMidRNgao4B4iJNW6gAb) | 2:25 | 2024-03-01 |  |
 | [MUSCLE](https://open.spotify.com/track/2feyIPw7iHgdaMYRskMTuK) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MUSCLE](https://open.spotify.com/album/7bzkCKNKQQTlHKbEdEuOBH) | 2:29 | 2024-06-24 | 2024-07-13 |
 | [My Dazed Friend](https://open.spotify.com/track/097wfbHE5h2rHtTA0KWIar) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN), [KLŌ](https://open.spotify.com/artist/04PGhfooPK0YQZPAj3itqo) | [My Dazed Friend](https://open.spotify.com/album/4tpuNsHzxBcuA0ZWuSHM8Y) | 4:56 | 2024-08-23 | 2024-10-05 |
 | [My Reflection](https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [My Reflection](https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT) | 4:17 | 2024-06-24 | 2024-07-25 |

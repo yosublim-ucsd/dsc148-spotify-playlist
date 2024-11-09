@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Tra storytelling e barre affilate, il meglio del rap game italiano. Cover: Cosang",
+  "description": "Tra storytelling e barre affilate, il meglio del rap game italiano. Cover: Nayt",
   "name": "Liricisti",
   "tracks": [
     {
@@ -993,6 +993,24 @@
     },
     {
       "album": {
+        "name": "Certe bugie",
+        "url": "https://open.spotify.com/album/5lgdyo1ZiB1N7eNMyhcxZ3"
+      },
+      "artists": [
+        {
+          "name": "Nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "Certe bugie",
+      "url": "https://open.spotify.com/track/5AajFA0IrhC8Qp4wFS0IjV"
+    },
+    {
+      "album": {
         "name": "Fenice",
         "url": "https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I"
       },
@@ -1114,7 +1132,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 188640,
       "name": "COL CUORE IN GOLA - lords of dogtown",
       "url": "https://open.spotify.com/track/2ypcWaliFPJ9c3JeWMqi1w"

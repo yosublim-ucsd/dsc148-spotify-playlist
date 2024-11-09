@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "\ud83c\uddf5\ud83c\udded vibin' \ud83e\udd76 \ud83d\udd25 Cover: Matthaios",
+  "description": "\ud83c\uddf5\ud83c\udded vibin' \ud83e\udd76 \ud83d\udd25 Cover: kyleaux",
   "name": "Pinas Vibes",
   "tracks": [
     {
@@ -190,7 +190,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 330272,
       "name": "ALAGAAN MO",
       "url": "https://open.spotify.com/track/5WRyALoZev30xHQNijO6gI"
@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 176520,
       "name": "EL CHAPO",
       "url": "https://open.spotify.com/track/2DbrW7nxlnFEPTPB1rEsbr"
@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 185571,
       "name": "Galit",
       "url": "https://open.spotify.com/track/34WoMs2Lg6hG2VoeFehBwS"
@@ -1586,6 +1586,24 @@
       "duration_ms": 148292,
       "name": "Ganon ka rin?",
       "url": "https://open.spotify.com/track/2wgl2AjXAtSv0ZCBMk00lV"
+    },
+    {
+      "album": {
+        "name": "get lost.",
+        "url": "https://open.spotify.com/album/2u9fbDDi10hsJXfuwTOuKE"
+      },
+      "artists": [
+        {
+          "name": "Kristina Dawn",
+          "url": "https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166806,
+      "name": "get lost.",
+      "url": "https://open.spotify.com/track/0pSDzhQRvNWRw2w1mVkqlm"
     },
     {
       "album": {
@@ -1998,7 +2016,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 150034,
       "name": "Hit It Off",
       "url": "https://open.spotify.com/track/1T5aFm4MOFZNQwQCbeMmYA"
@@ -2557,6 +2575,28 @@
     },
     {
       "album": {
+        "name": "walang diyos sa gabi",
+        "url": "https://open.spotify.com/album/35VY5sx3yepu86Cj0dYgQP"
+      },
+      "artists": [
+        {
+          "name": "Allegra",
+          "url": "https://open.spotify.com/artist/4yW3zpc71yAWvetCxsE9nU"
+        },
+        {
+          "name": "KXLE",
+          "url": "https://open.spotify.com/artist/4fBrMkpNH1BKJzprol0cUg"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "is it over?",
+      "url": "https://open.spotify.com/track/2WjlTJqg6suHqqce5EVXFL"
+    },
+    {
+      "album": {
         "name": "It's You",
         "url": "https://open.spotify.com/album/69P3eeSa6ZHsjlpMhVqsNo"
       },
@@ -2706,7 +2746,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 217241,
       "name": "Kuhang-kuha",
       "url": "https://open.spotify.com/track/3FzXMyxc0liTGcajQLVMtb"
@@ -3050,7 +3090,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 195600,
       "name": "Like That",
       "url": "https://open.spotify.com/track/0VrigBxBqXXHARYZiunFe0"
@@ -3166,7 +3206,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 163764,
       "name": "Low Key",
       "url": "https://open.spotify.com/track/6Eik0bvVyGHACEEJWqfFQl"
@@ -3481,6 +3521,24 @@
     },
     {
       "album": {
+        "name": "Marilag",
+        "url": "https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157692,
+      "name": "Marilag",
+      "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
+    },
+    {
+      "album": {
         "name": "HEARTBREAK SZN 3",
         "url": "https://open.spotify.com/album/0OYk10DGvHILpIDDtsk1Ad"
       },
@@ -3768,6 +3826,24 @@
       "duration_ms": 192500,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg"
+    },
+    {
+      "album": {
+        "name": "No Strings",
+        "url": "https://open.spotify.com/album/6d6S7bXx8PvVzB7q9wblpk"
+      },
+      "artists": [
+        {
+          "name": "Thome",
+          "url": "https://open.spotify.com/artist/0TlpoVBa03V0XNXBq7Gjrh"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "No Strings",
+      "url": "https://open.spotify.com/track/1xo8TBulHlTaP1YJIXFu5z"
     },
     {
       "album": {
@@ -4258,7 +4334,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 161327,
       "name": "pati ng ulan",
       "url": "https://open.spotify.com/track/7xDxh11hPnoyFeQ8BMCS60"
@@ -5125,6 +5201,36 @@
     },
     {
       "album": {
+        "name": "Slowjamz",
+        "url": "https://open.spotify.com/album/557oZfHrRQJ7W95KqIxCeQ"
+      },
+      "artists": [
+        {
+          "name": "HOUSEPARTY",
+          "url": "https://open.spotify.com/artist/3EbbNu9GnS76w4KhjULhQ7"
+        },
+        {
+          "name": "Lobo Dolo",
+          "url": "https://open.spotify.com/artist/3Cf0KoJLlqQ6d644E6Hmqw"
+        },
+        {
+          "name": "Ki\u00e9f",
+          "url": "https://open.spotify.com/artist/6mRiRJOn73gL5XXbDQvSuC"
+        },
+        {
+          "name": "Trizzy",
+          "url": "https://open.spotify.com/artist/5dbPgbvyHBcdAjQ02qnDNi"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "Slowjamz",
+      "url": "https://open.spotify.com/track/7jgqRlXROXl7B59Z5zd6lD"
+    },
+    {
+      "album": {
         "name": "Sn\u00ebeky",
         "url": "https://open.spotify.com/album/6ojCnyw5IMjQ11xzqOPTuh"
       },
@@ -5206,6 +5312,24 @@
       "duration_ms": 237857,
       "name": "Stay",
       "url": "https://open.spotify.com/track/7iHFyFiyd2Iebl1Cle2AFi"
+    },
+    {
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0JHhmeAUt9YXvZbpEXnvVc"
+      },
+      "artists": [
+        {
+          "name": "kyleaux",
+          "url": "https://open.spotify.com/artist/0CPN6hsvntQd2izYTDVO7M"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/2vFWFoKYCZnayFsPKuqz86"
     },
     {
       "album": {
@@ -5347,6 +5471,28 @@
     },
     {
       "album": {
+        "name": "Sweet Nothings (Chapter 2)",
+        "url": "https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        },
+        {
+          "name": "Jay R",
+          "url": "https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159250,
+      "name": "sweet nothings",
+      "url": "https://open.spotify.com/track/5aC91iyzOTL31zeZOHsmip"
+    },
+    {
+      "album": {
         "name": "syf",
         "url": "https://open.spotify.com/album/1DQFkQPkf9cLxiIA7fnYAl"
       },
@@ -5438,7 +5584,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 230649,
       "name": "This Na Malambing",
       "url": "https://open.spotify.com/track/5ZIyDMWHtEjIS9YkmUY5zz"
@@ -5646,7 +5792,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 234089,
       "name": "Tulip",
       "url": "https://open.spotify.com/track/52bBI72Y91PaGnCoepZ5x0"
@@ -5748,7 +5894,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 195555,
       "name": "VANISH MODE",
       "url": "https://open.spotify.com/track/3Xm0K8nqzxFesknHEvdprE"

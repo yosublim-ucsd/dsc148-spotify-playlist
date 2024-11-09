@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "The best Dance and EDM tracks right now! Cover: Ryan Shepherd",
+  "description": "The best Dance and EDM tracks right now! Cover: MEDUZA",
   "name": "New Dance Hits 2024",
   "tracks": [
     {
@@ -4824,6 +4824,28 @@
       "duration_ms": 301664,
       "name": "Take My Soul",
       "url": "https://open.spotify.com/track/2Qe6S4Xy5rS2Vidoaxp6b0"
+    },
+    {
+      "album": {
+        "name": "Tantalizing",
+        "url": "https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Soaky Siren",
+          "url": "https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146341,
+      "name": "Tantalizing",
+      "url": "https://open.spotify.com/track/799db91cR00On6N158VLHS"
     },
     {
       "album": {

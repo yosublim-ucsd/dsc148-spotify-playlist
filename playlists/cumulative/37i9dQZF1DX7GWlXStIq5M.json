@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Marcelo Tofani, Marina Sena",
+  "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Hiran",
   "name": "Palco POP",
   "tracks": [
     {
@@ -415,6 +415,24 @@
     },
     {
       "album": {
+        "name": "TEORIA DO CAOS",
+        "url": "https://open.spotify.com/album/6pgrd7YbbHVQAjmQllkFvD"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Klein",
+          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "A GENTE SE FERRA JUNTO",
+      "url": "https://open.spotify.com/track/0jRzWAw83heXTT5gbZarIL"
+    },
+    {
+      "album": {
         "name": "A Gente S\u00f3 Conhece Quando Termina",
         "url": "https://open.spotify.com/album/57G8gYnOCrQnBPWTdsCKYT"
       },
@@ -798,6 +816,28 @@
       "duration_ms": 226000,
       "name": "AGRIDOCE",
       "url": "https://open.spotify.com/track/5paz7s1c2X4P3sYAotEiPW"
+    },
+    {
+      "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144175,
+      "name": "Ai Que Calor",
+      "url": "https://open.spotify.com/track/4T8ox558vnY7tCdWvdOhan"
     },
     {
       "album": {
@@ -2700,7 +2740,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 184942,
       "name": "Boy Lixo",
       "url": "https://open.spotify.com/track/17x9gUciaxWjvR4SVKB1PK"
@@ -4167,6 +4207,24 @@
     },
     {
       "album": {
+        "name": "Curva da Ladeira",
+        "url": "https://open.spotify.com/album/64Y6u9TmfUEhsBzWI2p6TP"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Curva da Ladeira",
+      "url": "https://open.spotify.com/track/3b105vnZSjoCfyTgkWam4Z"
+    },
+    {
+      "album": {
         "name": "METamorFOSE",
         "url": "https://open.spotify.com/album/3zMBfvaDJbLt68YHUO8Exp"
       },
@@ -4712,7 +4770,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 256008,
       "name": "Deusa",
       "url": "https://open.spotify.com/track/1aWTQbZed8uGndsEtFNN5e"
@@ -5159,6 +5217,28 @@
     },
     {
       "album": {
+        "name": "CLIM\u00c3O, VOL. 1",
+        "url": "https://open.spotify.com/album/4BDp2oCN00kLfZEOSf6ftk"
+      },
+      "artists": [
+        {
+          "name": "N\u00eassa",
+          "url": "https://open.spotify.com/artist/2nBhcSkmkP34W4oWJc9pcr"
+        },
+        {
+          "name": "R4",
+          "url": "https://open.spotify.com/artist/7C3jNvSoQGFhzndvhA8qOZ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171130,
+      "name": "DRAMA",
+      "url": "https://open.spotify.com/track/2sMalV6A0ojBHRk4kyRfh1"
+    },
+    {
+      "album": {
         "name": "e se for pra ser sincera:",
         "url": "https://open.spotify.com/album/3T8pak58PgFxme2Iu3mHet"
       },
@@ -5214,6 +5294,24 @@
       "duration_ms": 161281,
       "name": "EGO",
       "url": "https://open.spotify.com/track/35UO2aaT0Ct8nipRfMIKPl"
+    },
+    {
+      "album": {
+        "name": "HOSTIL",
+        "url": "https://open.spotify.com/album/3RD9Pfjgaa7bTIZyHKhZu3"
+      },
+      "artists": [
+        {
+          "name": "Jenni Mosello",
+          "url": "https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138457,
+      "name": "EGOISTA",
+      "url": "https://open.spotify.com/track/1snag2t9jUxPBrMuVGvQWo"
     },
     {
       "album": {
@@ -5698,7 +5796,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 146237,
       "name": "Eu Tenho o Molho",
       "url": "https://open.spotify.com/track/0BJ8mgcL9zVU3JvZCqxtAM"
@@ -6092,7 +6190,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 135993,
       "name": "Fim",
       "url": "https://open.spotify.com/track/3CZomozGtxwo07HstcVNX1"
@@ -7598,7 +7696,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 175522,
       "name": "INDEPENDENTE DO AGORA",
       "url": "https://open.spotify.com/track/2GcHDX5shxbE2BpQT8FhCB"
@@ -9396,7 +9494,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 175000,
       "name": "Me Diz Quando A Gente Vai Se Ver",
       "url": "https://open.spotify.com/track/3V3rR9wRGtdlk5sdvCgqvZ"
@@ -9520,7 +9618,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 189677,
       "name": "Medo De Beijar",
       "url": "https://open.spotify.com/track/3EDvrf8q0U53TAbT9O2TCE"
@@ -9546,6 +9644,24 @@
       "duration_ms": 178857,
       "name": "MEDUSA",
       "url": "https://open.spotify.com/track/6dGgJC9CyiQJXL4dTU6teY"
+    },
+    {
+      "album": {
+        "name": "Meia Luz",
+        "url": "https://open.spotify.com/album/3SgdPPSgAiIJ4LmRmDyvtZ"
+      },
+      "artists": [
+        {
+          "name": "Cammie",
+          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194345,
+      "name": "Meia Luz",
+      "url": "https://open.spotify.com/track/1lGzIH7kcbOpn5AH00dg4a"
     },
     {
       "album": {
@@ -11860,7 +11976,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 290902,
       "name": "Para De Dizer Que N\u00e3o Me Ama - Ao Vivo",
       "url": "https://open.spotify.com/track/3s0RLXyjavjaiZdAhqUHIx"
@@ -13503,6 +13619,24 @@
     },
     {
       "album": {
+        "name": "ANJO",
+        "url": "https://open.spotify.com/album/6qHhupVEPR5We3gEM7tnng"
+      },
+      "artists": [
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167619,
+      "name": "P\u00f3s Love",
+      "url": "https://open.spotify.com/track/29irNwrelJMk8wublGdvXg"
+    },
+    {
+      "album": {
         "name": "Merci \u00a3",
         "url": "https://open.spotify.com/album/6G0Df5ehAcIqnNsZr4N7LI"
       },
@@ -14454,7 +14588,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 184000,
       "name": "Romance",
       "url": "https://open.spotify.com/track/7JqcuxIUQDuLNE8LMoRB7X"
@@ -14560,6 +14694,24 @@
       "duration_ms": 170614,
       "name": "Sad Baile",
       "url": "https://open.spotify.com/track/2ef1I6bGG8K0AHQaqGKiVA"
+    },
+    {
+      "album": {
+        "name": "ANJO",
+        "url": "https://open.spotify.com/album/6qHhupVEPR5We3gEM7tnng"
+      },
+      "artists": [
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122068,
+      "name": "SAFADIN GOXTOZIN",
+      "url": "https://open.spotify.com/track/41cwufPxmSrMMQthgNf9Xf"
     },
     {
       "album": {
@@ -14880,7 +15032,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 142136,
       "name": "Segredos da Vida",
       "url": "https://open.spotify.com/track/3Z3H3L0BMPjnq8Ktsws8tm"
@@ -14902,6 +15054,24 @@
       "duration_ms": 144640,
       "name": "Sei L\u00e1",
       "url": "https://open.spotify.com/track/2vNRlI7vSMa3D4rJ11aAVx"
+    },
+    {
+      "album": {
+        "name": "Rebordosa",
+        "url": "https://open.spotify.com/album/6spETHfCgTYjnmuVLAD3md"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162240,
+      "name": "Sem Ar",
+      "url": "https://open.spotify.com/track/6pPvyR6XrMkJysTugwPos7"
     },
     {
       "album": {
@@ -15766,6 +15936,32 @@
       "duration_ms": 123560,
       "name": "Stuck In A Dream (feat. Gunna)",
       "url": "https://open.spotify.com/track/7iHHxY2NLlJRAmlAmC4ahQ"
+    },
+    {
+      "album": {
+        "name": "Sua Preferida",
+        "url": "https://open.spotify.com/album/4RQvTnJzJbkK0nz6AMKE5O"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151636,
+      "name": "Sua Preferida",
+      "url": "https://open.spotify.com/track/0bREVcSAxXl3WgWsxzjJT1"
     },
     {
       "album": {

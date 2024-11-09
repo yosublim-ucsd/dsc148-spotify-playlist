@@ -4,7 +4,7 @@
 
 > KAROL G, Feid, DFZM, Ovy On The Drums, J Balvin, Maluma, Ryan Castro, Blessd y el resto de novedades más importantes de la semana.
 
-307 songs - 16 hr 0 min
+309 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [CUARTO MILENIO](https://open.spotify.com/track/10WplxQb6jwrrz65q52Azq) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [CUARTO MILENIO](https://open.spotify.com/album/6AryCVrP8lfwTwPZZTPE8Z) | 2:11 | 2024-10-17 | 2024-10-25 |
 | [Cárcel \(Adicción\)](https://open.spotify.com/track/189Lgn7hI1tDTdH0SwcI9Y) | [K1ZA](https://open.spotify.com/artist/4Om3ZoQAy1yw4caBOvMT2F), [Elane](https://open.spotify.com/artist/2eFUnvJtf63hm3BVkh191I), [B CHUCKS](https://open.spotify.com/artist/4zr9ExTmej3a66L4cICv1A) | [Cárcel \(Adicción\)](https://open.spotify.com/album/0vPp9Mds32HMsBfOA2fzRi) | 3:06 | 2024-10-17 | 2024-10-25 |
 | [Cómo Quieres Que Te Quiera](https://open.spotify.com/track/2zG6ktN4xlA40ofiDbe0lb) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Cómo Quieres Que Te Quiera](https://open.spotify.com/album/0OZFVWGu7rRQdV16UNsfBG) | 4:24 | 2024-10-11 | 2024-10-18 |
+| [Cúcú](https://open.spotify.com/track/3b3E5M5gouQX1ttI6XBNsD) | [Mediapunta](https://open.spotify.com/artist/5xY6SlOCuhGk2SW4Zx2dkx) | [The Very Best of Mediapunta](https://open.spotify.com/album/79NKwxLkELvPJ0GB3uX8mZ) | 2:21 | 2024-11-08 |  |
 | [Dandole Vueltas](https://open.spotify.com/track/1iQuK5E25hbhfSOesUp9sf) | [Ori](https://open.spotify.com/artist/0RnfoSCRsR3iHnMlWGlRHF), [Raul Nadal](https://open.spotify.com/artist/74I1LpMHsJjGuTRIna9m7e) | [Dandole Vueltas](https://open.spotify.com/album/6wkXLgzdYjRdyRhNnhiKlj) | 3:06 | 2024-11-01 | 2024-11-08 |
 | [Danza de la muerte](https://open.spotify.com/track/1pAYBMrUtPnCBexIsA7yag) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Danza de la muerte](https://open.spotify.com/album/1YqpMwEqJMPimg5p8O9Upc) | 2:44 | 2024-11-01 | 2024-11-08 |
 | [Darling, I \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 | 2024-11-01 | 2024-11-08 |
@@ -225,6 +226,7 @@
 | [QUEMARLO TODO](https://open.spotify.com/track/4BR7wVkXymTFKcDkYkSTtC) | [Suave](https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [QUEMARLO TODO](https://open.spotify.com/album/2n0iynESypPLAPOVu4GVj9) | 2:30 | 2024-10-11 | 2024-10-18 |
 | [quemasda?](https://open.spotify.com/track/5K9x3a7DxC6tSx0Zf1Zhu1) | [Flavio Rodriguez](https://open.spotify.com/artist/0CqjTpL2gwBuLAxCoubs53), [Pepe y Vizio](https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz) | [BOYBAND Parte I](https://open.spotify.com/album/3vYo4X9mmDWOCpGLb6o1tj) | 3:00 | 2024-10-17 | 2024-10-25 |
 | [QUI SOC JO](https://open.spotify.com/track/38QHlcrUHt3jdTPzTyDCOv) | [Javito](https://open.spotify.com/artist/6xffyYpVcPeMAuWkW3qmUK), [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [QUI SOC JO](https://open.spotify.com/album/3zc5c1jET6AL0J3YJ3QQFx) | 2:43 | 2024-11-08 |  |
+| [Quickie](https://open.spotify.com/track/1KBVkz8PGjKlMwqCmuKSGN) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Quickie](https://open.spotify.com/album/3AKEIh80EKaMB0rswBiDU1) | 2:03 | 2024-11-08 |  |
 | [Quiero Que Perdamos La Cabeza \(Otra Vez\)](https://open.spotify.com/track/3DpbwEMDa3P5rzWJZOzWfj) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Quiero Que Perdamos La Cabeza \(Otra Vez\)](https://open.spotify.com/album/4SQ0OKByzERxsWIkv9oAv5) | 2:14 | 2024-11-01 | 2024-11-08 |
 | [QUÉ CALOR!!!](https://open.spotify.com/track/0qjLrbjNyWnUNyWE3P4B7v) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [QUÉ CALOR!!!](https://open.spotify.com/album/7kNWorTgwAgpDNps1lN587) | 2:25 | 2024-10-11 | 2024-10-18 |
 | [rang€ rov€r \- r€mix](https://open.spotify.com/track/1p0Cp88RdOlevbDhGwbqug) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [blu€s \(d€lux€\)](https://open.spotify.com/album/4cdd2jx9GScUzDETwJ6GEk) | 2:33 | 2024-10-24 | 2024-11-01 |

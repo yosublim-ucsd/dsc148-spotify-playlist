@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Best Sauce",
+        "url": "https://open.spotify.com/album/0lfynNgVw40pQYYGyMshdZ"
+      },
+      "artists": [
+        {
+          "name": "Tyler Greyson",
+          "url": "https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241131,
+      "name": "Best Sauce",
+      "url": "https://open.spotify.com/track/6ctCdHvE8Rdmsn2aA6LlDh"
+    },
+    {
+      "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/4x50U3vN98fEii4vIbLNVA"
       },
@@ -365,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Can We Do This Often?",
+        "url": "https://open.spotify.com/album/2yKGMOQogF2Wy9KusaiJa5"
+      },
+      "artists": [
+        {
+          "name": "Avenue Oce\u00e4n",
+          "url": "https://open.spotify.com/artist/2phbZYVWph9FDtqbbYkjiH"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194754,
+      "name": "Can We Do This Often?",
+      "url": "https://open.spotify.com/track/6vyyAUAKFSvJv3WN5u5oCw"
+    },
+    {
+      "album": {
         "name": "canggu (Edit)",
         "url": "https://open.spotify.com/album/6X8rpYiAaelLkwZK9Vx32k"
       },
@@ -430,7 +466,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 311165,
       "name": "Chapter Two",
       "url": "https://open.spotify.com/track/0LOGcNCFLfCWLh9mzTmaG5"
@@ -520,7 +556,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 160661,
       "name": "Coconut Catch",
       "url": "https://open.spotify.com/track/0Aeg4DXpsdkHx5hEB9dybY"
@@ -794,7 +830,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 199651,
       "name": "DoNe WIth U",
       "url": "https://open.spotify.com/track/0eLSVeBu5fdxT4W0k316OK"
@@ -974,7 +1010,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 180179,
       "name": "Escapism",
       "url": "https://open.spotify.com/track/3pc3At69FqsZtWmvfyMDqQ"
@@ -1291,6 +1327,24 @@
     },
     {
       "album": {
+        "name": "Friday Dance",
+        "url": "https://open.spotify.com/album/3480nh4LEvfEyaD42qgnu6"
+      },
+      "artists": [
+        {
+          "name": "Co Kluin",
+          "url": "https://open.spotify.com/artist/5KHUSgxUWMd7zD4rFtr7h5"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240940,
+      "name": "Friday Dance",
+      "url": "https://open.spotify.com/track/0843KmTdj8NJ2ZQtyE2M9R"
+    },
+    {
+      "album": {
         "name": "From Here To Eternity",
         "url": "https://open.spotify.com/album/5yvourEPzugOQ0Z4RkrFf7"
       },
@@ -1566,6 +1620,24 @@
       "duration_ms": 152903,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/3cBsoWySE5misjwiHXpe4h"
+    },
+    {
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/79JWl1ni9DnLsY4QzAIkQL"
+      },
+      "artists": [
+        {
+          "name": "Jonga",
+          "url": "https://open.spotify.com/artist/0QORWOkQ65NRorXBdirzmy"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/5our2RLygiwe8v1GWseL7Y"
     },
     {
       "album": {
@@ -2592,7 +2664,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 144406,
       "name": "Projectile",
       "url": "https://open.spotify.com/track/4ODWE5SOUACS8xu6aV9ORL"

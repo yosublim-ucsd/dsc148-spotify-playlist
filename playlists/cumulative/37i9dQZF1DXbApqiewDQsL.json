@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "Fresh new music by independent artists and labels, featuring Perla Valenzuela. Updates every Wednesday",
+  "description": "Fresh new music by independent artists and labels, featuring Neto Becerra Updates every Wednesday",
   "name": "Fresh Finds M\u00fasica Mexicana",
   "tracks": [
     {
@@ -245,6 +245,24 @@
     },
     {
       "album": {
+        "name": "Agonia",
+        "url": "https://open.spotify.com/album/1yD2mYg6GN6iCOk8LXXlEV"
+      },
+      "artists": [
+        {
+          "name": "whathedgar",
+          "url": "https://open.spotify.com/artist/5tO4Hf0EVv8MRtvJHgANcB"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212731,
+      "name": "Agonia",
+      "url": "https://open.spotify.com/track/4bUnOWEEgQ5R113pQ0I3oy"
+    },
+    {
+      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ"
       },
@@ -446,6 +464,50 @@
       "duration_ms": 198026,
       "name": "Aquiles Afirmo",
       "url": "https://open.spotify.com/track/5L92JAcxJMVmLlKIWHhLCY"
+    },
+    {
+      "album": {
+        "name": "Aromaterapia",
+        "url": "https://open.spotify.com/album/5q6eU7szQVafuOxrdhVfAQ"
+      },
+      "artists": [
+        {
+          "name": "Proximo Nivel",
+          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
+        },
+        {
+          "name": "Equipo Reforzado",
+          "url": "https://open.spotify.com/artist/79l11SbRoVI27ZHUMZ05Ru"
+        },
+        {
+          "name": "Inoboiz",
+          "url": "https://open.spotify.com/artist/72kfJ36enf8Xj9fHmxWvVJ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Aromaterapia",
+      "url": "https://open.spotify.com/track/7A1CxQf6JtyblxU0Jw5KEO"
+    },
+    {
+      "album": {
+        "name": "Ay ay ay ay",
+        "url": "https://open.spotify.com/album/5GHjQwbu3PxwXvL1y9nGIo"
+      },
+      "artists": [
+        {
+          "name": "Erick MA",
+          "url": "https://open.spotify.com/artist/45zsBiOz69xAwYL3T6Gl1L"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175148,
+      "name": "Ay ay ay ay",
+      "url": "https://open.spotify.com/track/2OuMgu1VHufFQ5O6rlAZp7"
     },
     {
       "album": {
@@ -1470,7 +1532,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 162432,
       "name": "El DF",
       "url": "https://open.spotify.com/track/6tWLWqYXaHbZMMV74Gpelj"
@@ -1558,7 +1620,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 169813,
       "name": "El Pantal\u00f3n Blue Jean",
       "url": "https://open.spotify.com/track/5ssDbtA9UgQz8hBgbA2VTP"
@@ -1860,7 +1922,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 195776,
       "name": "ESPACIO VACIO",
       "url": "https://open.spotify.com/track/1zTgC2K4kB74XjOOTME0f4"
@@ -2268,7 +2330,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 143124,
       "name": "Hannah Montana",
       "url": "https://open.spotify.com/track/2CGH52UvOXmqVs3cLcavu2"
@@ -2544,7 +2606,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 210813,
       "name": "La Gavilaniza",
       "url": "https://open.spotify.com/track/6NwBW2cYcxXINfm4rV3GaS"
@@ -2883,6 +2945,24 @@
     },
     {
       "album": {
+        "name": "LO QUE SO\u00d1E",
+        "url": "https://open.spotify.com/album/5knwvWHV07wy2K25xUkv8m"
+      },
+      "artists": [
+        {
+          "name": "Brian Santin",
+          "url": "https://open.spotify.com/artist/7yqNw1jSOfhiP62pXYggdx"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173089,
+      "name": "LO QUE SO\u00d1E",
+      "url": "https://open.spotify.com/track/2eqeJmVxzb14jRGxV0wRdz"
+    },
+    {
+      "album": {
         "name": "Loko y Malandron",
         "url": "https://open.spotify.com/album/5tkeerNPkWQMc3lMsiDMG4"
       },
@@ -2960,6 +3040,24 @@
       "duration_ms": 180136,
       "name": "Mami",
       "url": "https://open.spotify.com/track/4b5ZoCVJhm6CZFeEwgqTP4"
+    },
+    {
+      "album": {
+        "name": "Mataba y Mor\u00eda",
+        "url": "https://open.spotify.com/album/7xwMrxVJCAHKOvjUbiJDFv"
+      },
+      "artists": [
+        {
+          "name": "Uriel S. V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/4s3ux0QXjgaBei8QhxipQ4"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194073,
+      "name": "Mataba y Mor\u00eda",
+      "url": "https://open.spotify.com/track/2TFgkqSQtSGSQvuhaeLuDt"
     },
     {
       "album": {
@@ -3907,6 +4005,24 @@
     },
     {
       "album": {
+        "name": "Perfecta Eres",
+        "url": "https://open.spotify.com/album/0W9IHzB3npupPNA9NtYjb5"
+      },
+      "artists": [
+        {
+          "name": "Ilusion Eterno",
+          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196977,
+      "name": "Perfecta Eres",
+      "url": "https://open.spotify.com/track/4aE6HwoNS2EHvMYOjxVtwt"
+    },
+    {
+      "album": {
         "name": "Phantom",
         "url": "https://open.spotify.com/album/6AvCG00VKzpSITzXm1LNoS"
       },
@@ -4663,6 +4779,24 @@
     },
     {
       "album": {
+        "name": "Pr\u00f3logo",
+        "url": "https://open.spotify.com/album/5YtoefEnOJIL4d9BftGBKj"
+      },
+      "artists": [
+        {
+          "name": "Neto Becerra",
+          "url": "https://open.spotify.com/artist/0gQDVYLEkyyyhmy06LCxdQ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153759,
+      "name": "Seguramente",
+      "url": "https://open.spotify.com/track/6DLX09yH7HqXBvK1CHcdYy"
+    },
+    {
+      "album": {
         "name": "Seg\u00fan Qui\u00e9n",
         "url": "https://open.spotify.com/album/5Fqjf9AmZPobGPRuyO2fJf"
       },
@@ -4944,7 +5078,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 179333,
       "name": "Su Vicio Favorito",
       "url": "https://open.spotify.com/track/1jXkP0nrd22DOz7hoI4ENi"
@@ -4962,7 +5096,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 161806,
       "name": "Suelas Azules",
       "url": "https://open.spotify.com/track/0DBWO6NmY0uBeNZENpFnWy"
@@ -5140,7 +5274,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 196960,
       "name": "TGDT",
       "url": "https://open.spotify.com/track/0Obo8Q2WUjaioE20pN9WXw"
@@ -5654,6 +5788,24 @@
       "duration_ms": 251633,
       "name": "Y ME BESO",
       "url": "https://open.spotify.com/track/2MrXIbVBVR9U5YvmRpbieH"
+    },
+    {
+      "album": {
+        "name": "Y T\u00fa Te Vas",
+        "url": "https://open.spotify.com/album/4M21Z7NcYDjhJcwJxIkYfp"
+      },
+      "artists": [
+        {
+          "name": "Lalo Cruz",
+          "url": "https://open.spotify.com/artist/63uOMoEQGgKP198ToBeuOG"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264257,
+      "name": "Y T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/1gwL6JCvfvsd1SVKxbxqWh"
     },
     {
       "album": {

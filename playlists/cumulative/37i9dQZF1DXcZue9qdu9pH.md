@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-112 songs - 6 hr 22 min
+113 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Just Another She \- Remix](https://open.spotify.com/track/6UyYrCjFdisFwd0ryUr24g) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY), [Monique Burger](https://open.spotify.com/artist/3GOf6SKBeQM7EQvRtSrBDQ), [Thewrathofsponge](https://open.spotify.com/artist/7Hoj9MRu3nFiYfbWy3Reot) | [Just Another She \(Remix\)](https://open.spotify.com/album/7Bgei9RjJqWYyOr1iK3Ow1) | 3:21 | 2023-09-01 | 2024-04-27 |
 | [Kati Ya Wote](https://open.spotify.com/track/7xNud1xrc6CW1M0mWZdPXY) | [Men of Soul](https://open.spotify.com/artist/5mPJHiCJYwEVxDcuEXwK5n) | [Footprints](https://open.spotify.com/album/1KJ9WZ1twqmPoV5mvbW3is) | 4:33 | 2023-06-30 | 2023-10-24 |
 | [Khartoum](https://open.spotify.com/track/1Kuz7MiQz9rUPVt5ggCMJ7) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Khartoum](https://open.spotify.com/album/1YOKyxfaTIT5rFF8uooQS1) | 3:31 | 2024-03-15 |  |
+| [like a song](https://open.spotify.com/track/0af1OVgLy93iYimy79u0lS) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [coin: the demos](https://open.spotify.com/album/3J2gVa7T19KVltAhyrh8wh) | 3:04 | 2024-11-08 |  |
 | [LIONESS](https://open.spotify.com/track/3m1zUf6uHrmupdHjgvtHYo) | [Earlwin](https://open.spotify.com/artist/4pMDyEwLhqvAo5VFZFNoE0) | [TIGERS AND LIONESSES](https://open.spotify.com/album/08QPNsMshzzo23hsYT4t84) | 3:12 | 2024-03-15 | 2024-04-19 |
 | [LIONESS](https://open.spotify.com/track/3qGTDVclyivXlSUyWhf84A) | [Earlwin](https://open.spotify.com/artist/4pMDyEwLhqvAo5VFZFNoE0) | [TIGERS AND LIONESSES](https://open.spotify.com/album/1LyhGlYSYPkovZnz7X9Iud) | 3:12 | 2023-06-30 | 2024-09-27 |
 | [Lonely Mile](https://open.spotify.com/track/0gaMaXqfAA3Zg4CPhfneRG) | [Eric Wainaina](https://open.spotify.com/artist/5kUd6m1kXPaPjEqqxdNVMz), [Jason Sibi \- Okumu](https://open.spotify.com/artist/5vr0gV08SuOSmr2H6ZUcDA) | [Lonely Mile](https://open.spotify.com/album/2mxnBlqx9oDTmUuI3dQZ5n) | 3:30 | 2023-06-30 | 2023-09-02 |
@@ -75,7 +76,7 @@
 | [Playing With Fire](https://open.spotify.com/track/13ampMIuI5NynkDnUa4CGe) | [Alisha Popat](https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn), [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5) | [Playing With Fire](https://open.spotify.com/album/1tNjqUWWiP4BCd6JotQMEo) | 3:51 | 2023-09-01 |  |
 | [Presha](https://open.spotify.com/track/1OelLLNoOJNYnukzOPYSct) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9) | [Presha](https://open.spotify.com/album/5QlAwtL0kaP0JPEe93PN4A) | 2:56 | 2023-06-30 | 2024-07-16 |
 | [Restore](https://open.spotify.com/track/5I6M34H6mOxG9ulDRZJLIz) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Jay James](https://open.spotify.com/artist/03NiOycjVSDIuglwWSl4BH) | [Restore](https://open.spotify.com/album/0JJ9lKygS0p1pZfLn7Bzc6) | 2:27 | 2024-07-02 |  |
-| [Rich](https://open.spotify.com/track/1QDWNbbh4Ey69IUjsa44GB) | [That Malcolm Guy](https://open.spotify.com/artist/2oNtuWZXcMdCspkoQr97SI), [Denesi](https://open.spotify.com/artist/2j5qvgoDULdbdLaFfb1Ap6) | [Gucci 2 Piece](https://open.spotify.com/album/1Gz3ivlgkmjO4ZHQJKzqv5) | 3:09 | 2024-05-03 |  |
+| [Rich](https://open.spotify.com/track/1QDWNbbh4Ey69IUjsa44GB) | [That Malcolm Guy](https://open.spotify.com/artist/2oNtuWZXcMdCspkoQr97SI), [Denesi](https://open.spotify.com/artist/2j5qvgoDULdbdLaFfb1Ap6) | [Gucci 2 Piece](https://open.spotify.com/album/1Gz3ivlgkmjO4ZHQJKzqv5) | 3:09 | 2024-05-03 | 2024-11-09 |
 | [River](https://open.spotify.com/track/5xLc7raaqvmNZjtZ9KdoHR) | [Cheruu](https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB) | [River](https://open.spotify.com/album/0xqaMa5dhwsrXR589RB561) | 4:24 | 2024-07-15 |  |
 | [Round and Round](https://open.spotify.com/track/6dUfGg8LPOTtsGNDY4q8hT) | [Tetu Shani](https://open.spotify.com/artist/4PATOXrnfnClxoIKMoRSHG) | [Round and Round](https://open.spotify.com/album/5BqzrvY0FQ2n3JT4zu7mgK) | 4:29 | 2023-06-30 | 2024-02-09 |
 | [Run](https://open.spotify.com/track/4pHXSEahOasITwRbwWePta) | [Gathuru Gitema](https://open.spotify.com/artist/0KkdhbWTLEsThAKdRuwZt1) | [Run](https://open.spotify.com/album/3jtUo5zpNxH0Rom0xR0dXX) | 4:11 | 2023-06-30 | 2024-02-23 |

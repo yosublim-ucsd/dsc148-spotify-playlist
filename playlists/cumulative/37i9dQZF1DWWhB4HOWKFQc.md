@@ -2,7 +2,7 @@
 
 ### [Lagi Viral](https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc)
 
-> Kumpulan lagu yang sedang menyebar luas\. Cover: Idgitaf
+> Kumpulan lagu yang sedang menyebar luas\. Cover: ROSÈ, Bruno Mars
 
 817 songs - 2 day 1 hr 15 min
 

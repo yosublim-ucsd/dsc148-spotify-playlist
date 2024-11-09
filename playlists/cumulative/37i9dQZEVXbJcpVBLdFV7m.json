@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 238143,
       "name": "A Work of Art",
       "url": "https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc"
@@ -3252,7 +3252,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 200320,
       "name": "Diva",
       "url": "https://open.spotify.com/track/6GQuF9vzJAVs7fYN9ftBdP"
@@ -3270,7 +3270,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 200613,
       "name": "Diva",
       "url": "https://open.spotify.com/track/5Ssv6DaKrW0HczVqx6zXdl"
@@ -4594,7 +4594,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 232045,
       "name": "Gde je ljubav",
       "url": "https://open.spotify.com/track/0XFuCJGx2nVgq7Ab1FHKHd"
@@ -4872,7 +4872,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 186038,
       "name": "Goo Goo Muck",
       "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
@@ -5010,7 +5010,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 229260,
       "name": "G\u20acI",
       "url": "https://open.spotify.com/track/1clmosq7efJ7NoBDYVht84"
@@ -8396,7 +8396,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 192040,
       "name": "Monster Mash",
       "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
@@ -10936,7 +10936,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 187062,
       "name": "Rupe Rupe Rupe Tot",
       "url": "https://open.spotify.com/track/6vdg09ymGHSJStnteKsMRy"
@@ -12251,6 +12251,24 @@
     },
     {
       "album": {
+        "name": "Big Band Bossa Nova",
+        "url": "https://open.spotify.com/album/1KSOL1jvue2lfcdsNZ7YN8"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166589,
+      "name": "Soul Bossa Nova",
+      "url": "https://open.spotify.com/track/0Jw3cPBXlGnA6DEJrZSTI0"
+    },
+    {
+      "album": {
         "name": "Nu King",
         "url": "https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU"
       },
@@ -13400,7 +13418,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 112171,
       "name": "The Love I Lost",
       "url": "https://open.spotify.com/track/5v2wBVnZ8Wdj1qwIqhcVw2"
@@ -13688,7 +13706,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 196186,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/63y2aL2dT6zzw8FOSLaNrp"
@@ -15008,7 +15026,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 149461,
       "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
@@ -15062,7 +15080,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
@@ -15080,7 +15098,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p"
@@ -16747,6 +16765,24 @@
     },
     {
       "album": {
+        "name": "\u0416\u0438\u0432\u0430",
+        "url": "https://open.spotify.com/album/66eBaKR5mQmVUUuL7dx0cC"
+      },
+      "artists": [
+        {
+          "name": "MONA",
+          "url": "https://open.spotify.com/artist/4J85eGUpDqjLFsQ4NYcnWs"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "\u0416\u0438\u0432\u0430",
+      "url": "https://open.spotify.com/track/3vGSyWD61PIGodkDpvYNDL"
+    },
+    {
+      "album": {
         "name": "\u0417\u0430\u043a\u044a\u0441\u043d\u044f",
         "url": "https://open.spotify.com/album/3IjD58cSODRmxZvOwh2wru"
       },
@@ -17660,7 +17696,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 270440,
       "name": "\u0421\u0438\u043d\u0435\u0432\u0430",
       "url": "https://open.spotify.com/track/0rfCkzAMQ689U47Iz3TOgN"

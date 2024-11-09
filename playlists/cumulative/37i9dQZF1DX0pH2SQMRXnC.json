@@ -538,7 +538,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 179200,
       "name": "Angels & Demons",
       "url": "https://open.spotify.com/track/0YVx5YZIgfYHzlq19hqDeE"
@@ -1990,7 +1990,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "Cambodia - Denox Remix",
       "url": "https://open.spotify.com/track/13iggCttHe1aj0O9wVQxC7"
@@ -2971,7 +2971,7 @@
     },
     {
       "album": {
-        "name": "Crunch",
+        "name": "Crunch (Instrumental Version)",
         "url": "https://open.spotify.com/album/6Ik9MjMnvXaI5y7IBCgQSg"
       },
       "artists": [
@@ -2992,7 +2992,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 98439,
-      "name": "Crunch",
+      "name": "Crunch - Instrumental Version",
       "url": "https://open.spotify.com/track/67ERjTGEze2g1UVNCog2Je"
     },
     {
@@ -4152,7 +4152,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 176051,
       "name": "DYSYLM",
       "url": "https://open.spotify.com/track/4tV6ku4jEYw9L5gZuNpCbP"
@@ -4568,7 +4568,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 242400,
       "name": "Everything is a Lie",
       "url": "https://open.spotify.com/track/5wnp6uV25Z92zoQh8NuMKj"
@@ -6620,7 +6620,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 236800,
       "name": "Harder State Of Mind",
       "url": "https://open.spotify.com/track/3QeEf7TMugwZkmn0hPmXio"
@@ -7138,7 +7138,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 210577,
       "name": "How Far Can You Go",
       "url": "https://open.spotify.com/track/4tlvXAbJi9rEZfbtjevLn5"
@@ -7610,7 +7610,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 244133,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/0mWGz6hPTPuOK3SaETnqCo"
@@ -7694,7 +7694,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 235009,
       "name": "In Hardstyle We Trust - Melody Mix",
       "url": "https://open.spotify.com/track/694DLdlWtk26a6pyaf1vMi"
@@ -8382,7 +8382,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 252549,
       "name": "Keepers Of Our Legacy",
       "url": "https://open.spotify.com/track/7w06cAEK8P7PzQCopSQyuJ"
@@ -9048,10 +9048,28 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 211500,
       "name": "Live For The Hard",
       "url": "https://open.spotify.com/track/5CbzwDqLjODFI9BJBgINrD"
+    },
+    {
+      "album": {
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/7q4GO1xwFZDt9GdgmvSq6S"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210580,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/5DYMuWtQyr1J9Af0SMrDz8"
     },
     {
       "album": {
@@ -9710,10 +9728,6 @@
         {
           "name": "Tuneboy",
           "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
-        },
-        {
-          "name": "TNT",
-          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
         }
       ],
       "date_added": "2021-12-16",
@@ -11500,7 +11514,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 245392,
       "name": "Paper Thin - Headhunterz Remix",
       "url": "https://open.spotify.com/track/0OKHUom3gY9xWago6Y1BKk"
@@ -12634,7 +12648,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 230400,
       "name": "Ride With Me (feat. Kid Ink) - Brennan Heart Remix",
       "url": "https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759"
@@ -12994,7 +13008,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-05",
+      "date_removed": null,
       "duration_ms": 188774,
       "name": "Sandstorm",
       "url": "https://open.spotify.com/track/2yyaTlex3YaCat520CSzti"
@@ -13456,7 +13470,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 215225,
       "name": "Sky Fall",
       "url": "https://open.spotify.com/track/1T5vk1tmGkK8cSCSQFOWcD"
@@ -14029,6 +14043,28 @@
     },
     {
       "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/62ES2BliQ2zIPbEJxLJ7m4"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "NLCK",
+          "url": "https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182015,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/1KtCYs1x2zZB0QXiSY6IN3"
+    },
+    {
+      "album": {
         "name": "Strongest Formation",
         "url": "https://open.spotify.com/album/4uNpIGPZc0fhzXfSG1xjUV"
       },
@@ -14266,7 +14302,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-05",
+      "date_removed": null,
       "duration_ms": 243003,
       "name": "Supercharged (Official Gearbox Supercharged 2024 Anthem)",
       "url": "https://open.spotify.com/track/0ZJW8n6SckfqvyqSZDczIH"
@@ -14384,7 +14420,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 204906,
       "name": "Surrender - Hixxy Remix",
       "url": "https://open.spotify.com/track/7qK0mNHVdVbnqt3Prd26Vs"
@@ -14866,6 +14902,32 @@
       "duration_ms": 212800,
       "name": "The 9th Gate",
       "url": "https://open.spotify.com/track/0jhcGAgbsq1gNfdsDEYCIG"
+    },
+    {
+      "album": {
+        "name": "The Age Of Love (Brennan Heart & ANDY SVGE Remix)",
+        "url": "https://open.spotify.com/album/4pk35uSAFZ7Q2MweAdCWN3"
+      },
+      "artists": [
+        {
+          "name": "Age Of Love",
+          "url": "https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "ANDY SVGE",
+          "url": "https://open.spotify.com/artist/4MciZ3SoIaHGhBecweONHp"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "The Age Of Love - Brennan Heart & ANDY SVGE Remix",
+      "url": "https://open.spotify.com/track/4h1igBodAXxo1IKsbV5h4Q"
     },
     {
       "album": {
@@ -16628,7 +16690,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-05",
+      "date_removed": null,
       "duration_ms": 239034,
       "name": "Vois Sur Ton Chemin - Hardstyle",
       "url": "https://open.spotify.com/track/2mVgDjPX3OzJ0EP1Y5cSWa"
@@ -17206,7 +17268,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-05",
+      "date_removed": null,
       "duration_ms": 210750,
       "name": "Welcome To The Underground",
       "url": "https://open.spotify.com/track/5opy1J4SMBUFrwQ03weuZ4"
@@ -17276,6 +17338,28 @@
       "duration_ms": 212500,
       "name": "When The Gods Call (Defqon.1 Opening Ceremony 2024 OST)",
       "url": "https://open.spotify.com/track/3Mia9gtcznpH1Sh2ZQdwD5"
+    },
+    {
+      "album": {
+        "name": "WHERE DID YOU GO",
+        "url": "https://open.spotify.com/album/6omkRAcLFb68qKKfskT6gq"
+      },
+      "artists": [
+        {
+          "name": "Krowdexx",
+          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
+        },
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204750,
+      "name": "WHERE DID YOU GO",
+      "url": "https://open.spotify.com/track/4sNBmBaD30oS78qxIVmEi0"
     },
     {
       "album": {

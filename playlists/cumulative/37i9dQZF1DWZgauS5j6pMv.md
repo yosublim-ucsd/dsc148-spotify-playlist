@@ -2,9 +2,9 @@
 
 ### [Nu\-Funk](https://open.spotify.com/playlist/37i9dQZF1DWZgauS5j6pMv)
 
-> The best of today's funk\. Cover: MonoNeon
+> The best of today's funk\. Cover: Penthouse
 
-456 songs - 1 day 2 hr 46 min
+457 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Feeling Of Love](https://open.spotify.com/track/08hiTUdlkeFpCFqdxsnjOh) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z) | [Boy](https://open.spotify.com/album/5R4MKy2TupcljTY07AcAWv) | 4:25 | 2022-02-11 | 2022-11-26 |
 | [Feeling Of Love](https://open.spotify.com/track/1a7aRhbDXm9pGxlutnxznU) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z) | [Boy \(Deluxe\)](https://open.spotify.com/album/1a2JGK5R2uRW4UX1mbAwHi) | 4:25 | 2022-02-11 | 2022-11-13 |
 | [Feeling Of Love \(feat\. DāM\-FunK\)](https://open.spotify.com/track/2B4A0vo8Wsu6SZtHx8Qs3I) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z) | [Feeling Of Love](https://open.spotify.com/album/3i2ckvhQzgKThpoiERkG8e) | 4:25 | 2022-02-11 | 2022-07-29 |
-| [Feels This Good](https://open.spotify.com/track/14FHeL3ma1NPlSubNAiI61) | [Jon Mero](https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf), [LÒNIS](https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm) | [Feels This Good](https://open.spotify.com/album/5r5Ogv4Wh21YmPEWRDIM4v) | 2:12 | 2023-03-17 |  |
+| [Feels This Good](https://open.spotify.com/track/14FHeL3ma1NPlSubNAiI61) | [Jon Mero](https://open.spotify.com/artist/6MuZFI7KLPBjhmgkkX5LPf), [LÒNIS](https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm) | [Feels This Good](https://open.spotify.com/album/5r5Ogv4Wh21YmPEWRDIM4v) | 2:12 | 2023-03-17 | 2024-11-09 |
 | [Firebrand](https://open.spotify.com/track/6zOr5n0BW3av1yYCAx3rgQ) | [Horn House](https://open.spotify.com/artist/5HMo9VXm5R91AzkQBqNrlu), [Nathan King](https://open.spotify.com/artist/641lw2Fn5GzaI6RLYRE7X5) | [Human Synths](https://open.spotify.com/album/5c3NrFU57zDZ7rjQQZ7OD4) | 3:56 | 2022-11-11 | 2023-03-18 |
 | [Fist Bump \(feat\. Free Nationals\) \- Radio Edit](https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Fist Bump \(feat\. Free Nationals\) \(Radio Edit\)](https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa) | 3:33 | 2024-05-17 |  |
 | [Fixations](https://open.spotify.com/track/1DPtuwtUxem0qvTRXz2Rzt) | [JOS](https://open.spotify.com/artist/07IupuXv6tNTjb5xBo3P9a), [Ashdown](https://open.spotify.com/artist/0l6pyDkdaojMjTu5lAuJzE), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX) | [Fixations](https://open.spotify.com/album/3zphZDeM17LCk8RwmJV34t) | 3:13 | 2024-01-05 | 2024-10-12 |
@@ -387,6 +387,7 @@
 | [Talk To Me](https://open.spotify.com/track/1vGANe8vFo5A0y3P7XNhFS) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [Talk To Me](https://open.spotify.com/album/2rMfKJjaLsupaBD3kkF78e) | 4:04 | 2024-03-29 |  |
 | [Talking Fast](https://open.spotify.com/track/5Hwrze2uuRlNa4lHOoDeeT) | [En Rie](https://open.spotify.com/artist/3P18mn1T53JU82867PDYbM), [Roboti Niro](https://open.spotify.com/artist/6F6xHCnBygWXQO5VSnSRAS) | [Talking Fast](https://open.spotify.com/album/64XyaoGndTmMnRYAmGtBX9) | 3:47 | 2022-05-27 | 2023-04-29 |
 | [Tasty](https://open.spotify.com/track/64wAH19hAGbzdmrRoBzAcq) | [Daron.](https://open.spotify.com/artist/1VjgVjThC1RxttpTp9kT0i) | [Tasty](https://open.spotify.com/album/2FhDuCjm4ORGS3plmUm8Pv) | 2:55 | 2021-08-06 | 2022-08-13 |
+| [Taxi to the Moon](https://open.spotify.com/track/6kIRTIM9J1pxCPoRnZQOmG) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Laundry](https://open.spotify.com/album/5d5rFGyfo5zqc0GVfpvAqV) | 2:11 | 2024-11-08 |  |
 | [Tell Me](https://open.spotify.com/track/4RqGyEEl4UdiecuoPy8FGk) | [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6), [The Honeynut Horns](https://open.spotify.com/artist/2REx34XFbTKj0O7I36qWUd) | [Tell Me](https://open.spotify.com/album/7eMYlCwVwGdQJG9SxkNgyr) | 3:39 | 2024-03-15 |  |
 | [That's How We Do It](https://open.spotify.com/track/6r3Zr5pxsWdLZMjb9btLze) | [Jonezen](https://open.spotify.com/artist/7D1pMUc7dEMckSNVUo2EnA), [Easy Mccoy](https://open.spotify.com/artist/0V4YVmGQb4essIbj8VMGPS), [City Wolf](https://open.spotify.com/artist/4Zz8OfzUOaNr7B2pQch3do) | [That's How We Do It](https://open.spotify.com/album/5dhsqoaicwEHxZATTzZ4Eh) | 2:28 | 2022-10-21 | 2023-02-25 |
 | [The Best \[Thank Ya\]](https://open.spotify.com/track/0bLitJYSlhJBXKcVU52Ra3) | [Darryl Jordan](https://open.spotify.com/artist/07rLy29kxUhgrXwXL8p7jt), [Audiodidakt](https://open.spotify.com/artist/70A1kkCuxeRQhLDNXxMEUO) | [The Best \[Thank Ya\]](https://open.spotify.com/album/4krcnptk9iREFAMDDUn6uq) | 4:24 | 2021-05-14 | 2022-01-29 |

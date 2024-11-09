@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: SEVENTEEN)",
+  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: IVE, David Guetta)",
   "name": "K-Pop X-Overs",
   "tracks": [
     {
@@ -1542,7 +1542,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 200800,
       "name": "Give Me a Kiss - SHAUN Remix",
       "url": "https://open.spotify.com/track/2kivpDuRbWrULiJtEaCfve"
@@ -3420,6 +3420,28 @@
       "duration_ms": 227677,
       "name": "Supernova (Grimes Remix)",
       "url": "https://open.spotify.com/track/4cebwm6DwAPkyOKbNT6RmL"
+    },
+    {
+      "album": {
+        "name": "Supernova Love",
+        "url": "https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199504,
+      "name": "Supernova Love",
+      "url": "https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n"
     },
     {
       "album": {

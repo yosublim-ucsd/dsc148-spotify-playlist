@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Taking it way back! Cover: Mos Def",
+  "description": "Taking it way back! Cover: Lil Wayne",
   "name": "Gold School",
   "tracks": [
     {
@@ -714,7 +714,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 261213,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/3Eu9XFVhLlcF0DpVYzONFk"
@@ -5464,6 +5464,24 @@
       "duration_ms": 204026,
       "name": "Ten Crack Commandments - 2014 Remaster",
       "url": "https://open.spotify.com/track/1Z7C8ClE8UEaH70jCCeJH2"
+    },
+    {
+      "album": {
+        "name": "Tha Block Is Hot",
+        "url": "https://open.spotify.com/album/75s3OxagI6DX8OKLKymPLN"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252733,
+      "name": "Tha Block Is Hot",
+      "url": "https://open.spotify.com/track/6wCbHb0QEEdka3ymfImn4l"
     },
     {
       "album": {

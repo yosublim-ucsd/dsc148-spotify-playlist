@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: lullaboy, Benjamin Kheng
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,117 likes - 88 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,128 likes - 89 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,13 +88,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 78 | [Pull The Trigger](https://open.spotify.com/track/7tjUniE32n551Jr9Ok5Pxq) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Pull The Trigger](https://open.spotify.com/album/3H0Rg7tKM2kzmIHiSeQ9qI) | 3:37 |
 | 79 | [Innocent Money \- Edit](https://open.spotify.com/track/2vjqlZE7rVhHL6m1psgJRV) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Come Ahead](https://open.spotify.com/album/69oeXCLAa7NA3CfrCRFHlT) | 3:33 |
 | 80 | [Sucker \(from the series Arcane League of Legends\)](https://open.spotify.com/track/540k1IRl5UPMhVhpu1LRQ3) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Sucker \(from the series Arcane League of Legends\)](https://open.spotify.com/album/7hQaRZQoy3R7ni0PzKajXT) | 3:44 |
-| 81 | [IYKYK](https://open.spotify.com/track/27jwZgJ6STvpzEGgfCVxtX) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [IYKYK](https://open.spotify.com/album/2sRGfYNbBeVkEMKVgaK84P) | 2:58 |
-| 82 | [worst critic](https://open.spotify.com/track/7bgYjXDyJ6oIXPX7H36ciz) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [worst critic](https://open.spotify.com/album/5ncjiTVdovGDVikrz5Oz7L) | 3:11 |
-| 83 | [My Nova](https://open.spotify.com/track/1fFWrnl1bQo21CCLWlbSxF) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [My Nova](https://open.spotify.com/album/1hodUKU2mT3eqTaHvgdCzW) | 4:29 |
-| 84 | [If You Let Me \(Cinta Tak Seindah Drama Korea Original Motion Picture Soundtrack\)](https://open.spotify.com/track/1K2t17fCXJVxFleVhJ6t83) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q), [Dea Panendra](https://open.spotify.com/artist/3kv4PpsOBcljrFU6KIQCmN) | [If You Let Me \(Cinta Tak Seindah Drama Korea Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Ez23Xkb9bwDJ2TvswbQii) | 3:59 |
-| 85 | [ONLY WE CAN SEE](https://open.spotify.com/track/6iR7pv7tkBT3vh9MPj9kBE) | [Coconut Sunday](https://open.spotify.com/artist/3eaueBHZTLZyyZs6vbmmbP), [Tsubasa Mori](https://open.spotify.com/artist/66UoonlNCjF9n9hYfvRfJ1) | [ONLY WE CAN SEE](https://open.spotify.com/album/4jbbccv59Kzs9uAwGsCG0o) | 3:45 |
-| 86 | [Mock\-Grown Man](https://open.spotify.com/track/2jadlxUYFNP2w8OAkUCKKE) | [PANNAGUS](https://open.spotify.com/artist/3hKi4HjosQk2QDyG3VF5CG) | [Mock\-Grown Man](https://open.spotify.com/album/0gCZGTv7p7bIGPJW3ofyhf) | 3:36 |
-| 87 | [Easy Lover](https://open.spotify.com/track/2cophDf3nptn000MZhUDom) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) | [Easy Lover](https://open.spotify.com/album/4cbUi5xZ4St7XOMNsLYd3j) | 2:41 |
-| 88 | [Better](https://open.spotify.com/track/1dLu4XKg0dXeyFs8b13x3U) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Harmless](https://open.spotify.com/album/7q3jfk5qZ0CQI81eJT2Y3b) | 2:41 |
+| 81 | [Mikael](https://open.spotify.com/track/3DOq3iCt2I1X9cPAWdWGXB) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [Mikael](https://open.spotify.com/album/0bYXowGjv2zW5QN2nyvuO0) | 4:25 |
+| 82 | [IYKYK](https://open.spotify.com/track/27jwZgJ6STvpzEGgfCVxtX) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [IYKYK](https://open.spotify.com/album/2sRGfYNbBeVkEMKVgaK84P) | 2:58 |
+| 83 | [worst critic](https://open.spotify.com/track/7bgYjXDyJ6oIXPX7H36ciz) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [worst critic](https://open.spotify.com/album/5ncjiTVdovGDVikrz5Oz7L) | 3:11 |
+| 84 | [My Nova](https://open.spotify.com/track/1fFWrnl1bQo21CCLWlbSxF) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [My Nova](https://open.spotify.com/album/1hodUKU2mT3eqTaHvgdCzW) | 4:29 |
+| 85 | [If You Let Me \(Cinta Tak Seindah Drama Korea Original Motion Picture Soundtrack\)](https://open.spotify.com/track/1K2t17fCXJVxFleVhJ6t83) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q), [Dea Panendra](https://open.spotify.com/artist/3kv4PpsOBcljrFU6KIQCmN) | [If You Let Me \(Cinta Tak Seindah Drama Korea Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Ez23Xkb9bwDJ2TvswbQii) | 3:59 |
+| 86 | [ONLY WE CAN SEE](https://open.spotify.com/track/6iR7pv7tkBT3vh9MPj9kBE) | [Coconut Sunday](https://open.spotify.com/artist/3eaueBHZTLZyyZs6vbmmbP), [Tsubasa Mori](https://open.spotify.com/artist/66UoonlNCjF9n9hYfvRfJ1) | [ONLY WE CAN SEE](https://open.spotify.com/album/4jbbccv59Kzs9uAwGsCG0o) | 3:45 |
+| 87 | [Mock\-Grown Man](https://open.spotify.com/track/2jadlxUYFNP2w8OAkUCKKE) | [PANNAGUS](https://open.spotify.com/artist/3hKi4HjosQk2QDyG3VF5CG) | [Mock\-Grown Man](https://open.spotify.com/album/0gCZGTv7p7bIGPJW3ofyhf) | 3:36 |
+| 88 | [Easy Lover](https://open.spotify.com/track/2cophDf3nptn000MZhUDom) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) | [Easy Lover](https://open.spotify.com/album/4cbUi5xZ4St7XOMNsLYd3j) | 2:41 |
+| 89 | [Better](https://open.spotify.com/track/1dLu4XKg0dXeyFs8b13x3U) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Harmless](https://open.spotify.com/album/7q3jfk5qZ0CQI81eJT2Y3b) | 2:41 |
 
 Snapshot ID: `Zy1eXAAAAACQAsNPyd3dX++srSy4hzPH`

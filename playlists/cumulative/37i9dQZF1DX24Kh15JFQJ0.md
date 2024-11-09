@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Dwight Yoakam
 
-301 songs - 17 hr 38 min
+302 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Mama's Boys](https://open.spotify.com/track/1NmdTJi2TBp1FDsNEGmv9R) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Mama's Boys](https://open.spotify.com/album/4plUOdJyu7r2Jb5lNkDHTB) | 2:48 | 2024-10-25 |  |
 | [Memory](https://open.spotify.com/track/40Ny9MMawUKcdNJyERWODH) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Memory](https://open.spotify.com/album/0FbbpxXfPvOVPCjW5UPmWa) | 5:04 | 2021-10-15 | 2022-09-21 |
 | [MIA Down In MIA](https://open.spotify.com/track/05GQWrTY4ntMareQlgnGEB) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [MIA Down In MIA](https://open.spotify.com/album/47nvV9R8dSHmpX4oM9ILmC) | 3:29 | 2024-05-17 |  |
+| [Midnight Gasoline](https://open.spotify.com/track/23dNVoHy5anwKQxC8DQm34) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Midnight Gasoline](https://open.spotify.com/album/1HmFOh5zrgQLu6BcyIFlOD) | 3:45 | 2024-11-08 |  |
 | [Mozambique](https://open.spotify.com/track/4glXMXiiOlJP4ZJmMZ1Yvu) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Mozambique / University Of Bourbon Street](https://open.spotify.com/album/1FOgVvIp41RW2dOkdm9Dwj) | 3:16 | 2023-11-03 |  |
 | [My Maria \- with Thomas Rhett](https://open.spotify.com/track/64vkacv9XtTjAQSosbUbW2) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 3:29 | 2021-10-15 |  |
 | [My Stupid Tattoo](https://open.spotify.com/track/0V25FstJKoZu9EUbMiNDXg) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [My Stupid Tattoo](https://open.spotify.com/album/5kVdDrl6zsidbOyFMwZEHn) | 2:44 | 2024-01-19 |  |

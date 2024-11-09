@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-257 songs - 16 hr 35 min
+258 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Comparison Is A Thief Of Joy](https://open.spotify.com/track/1DlyIPZpwuVT7TZvt96Lgd) | [Fruit Distro Collective](https://open.spotify.com/artist/0vPnsaDFU6zMeXLjRIAPLf) | [Some Kind Of Wisdom](https://open.spotify.com/album/6uAMiLgcbEzp5gGfPuO419) | 2:56 | 2023-10-19 | 2024-02-24 |
 | [Comparison Is A Thief Of Joy](https://open.spotify.com/track/4K1e3kZiNClQgmzqxQrTIE) | [Fruit Distro Collective](https://open.spotify.com/artist/0vPnsaDFU6zMeXLjRIAPLf) | [Comparison Is A Thief Of Joy](https://open.spotify.com/album/0Q4r0UjqH1oZhhQaB1gVE8) | 2:56 | 2022-12-02 | 2023-10-25 |
 | [Crazy](https://open.spotify.com/track/1KxO3MDB1mNUm4AHvxeRPF) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Crazy](https://open.spotify.com/album/2IUqvXtUJG23ozaIffSr28) | 3:15 | 2024-04-11 | 2024-10-26 |
+| [Dance With The Devil](https://open.spotify.com/track/45wa8hJ0kmnoFHe3Q2b7wD) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Dance With The Devil](https://open.spotify.com/album/5G78ENtLhRyWmGjXL2CGTo) | 3:30 | 2024-11-08 |  |
 | [Dancin Like a Fool](https://open.spotify.com/track/4wI11xnaKJAayVFBTHd6LM) | [Souldrippin](https://open.spotify.com/artist/1b0D9jgh2pJtPsKjU1gyS5), [Darius Dante](https://open.spotify.com/artist/1QCRuNTOqoXVN7F39fWxz5), [Hari Loco](https://open.spotify.com/artist/3nPiCfsgxJlJAkdPPVG2hQ) | [Dancin Like a Fool](https://open.spotify.com/album/6MY3TcKo5VPo3ANxeuVM6G) | 3:04 | 2024-04-11 |  |
 | [Deep](https://open.spotify.com/track/7m81yXV1aGr6itme09Rx5k) | [Bryony Jarman\-Pinto](https://open.spotify.com/artist/4qGRPAtF4Dnuy1pZEH8Pgv) | [Below Dawn](https://open.spotify.com/album/6RU8zWSJ6H5QIzQiLRYJYw) | 4:10 | 2024-06-28 |  |
 | [Diamonds in the rough](https://open.spotify.com/track/0DltlSIHRJQR74DKrk9dvB) | [Nathan Badu](https://open.spotify.com/artist/3IjtugjO4uMXKRiNDmyAWY) | [Diamonds in the rough](https://open.spotify.com/album/2KSmHJMcHT22zT4qbXj5nz) | 3:36 | 2023-10-19 |  |
@@ -250,7 +251,7 @@
 | [Wild Animals](https://open.spotify.com/track/3tr8E4dFE9VIuWbIiwiePE) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Wild Animals](https://open.spotify.com/album/5PNDwa8JmKV8m43Y41HD4m) | 3:38 | 2022-12-02 | 2023-02-19 |
 | [Wish The Love Never Died](https://open.spotify.com/track/19Yyk8JtxvHKI4byINCi5J) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Actually, I Can.](https://open.spotify.com/album/0L0JffGJcm2ybbDcd6BJmO) | 3:01 | 2022-10-30 | 2024-01-29 |
 | [Wish The Love Never Died](https://open.spotify.com/track/3eoN5fDD9Dq0dsZ29l51Sf) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Wish The Love Never Died](https://open.spotify.com/album/0jE5Jhr77m6Gq4myLVgC1l) | 3:01 | 2022-10-30 | 2022-11-14 |
-| [Wish The Love Never Died](https://open.spotify.com/track/5yuYE3N0sSIPXLE3L3GbSK) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Wish The Love Never Died](https://open.spotify.com/album/2G7bvknLHIy1f5im8V7NmP) | 3:01 | 2021-12-13 |  |
+| [Wish The Love Never Died](https://open.spotify.com/track/5yuYE3N0sSIPXLE3L3GbSK) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Wish The Love Never Died](https://open.spotify.com/album/2G7bvknLHIy1f5im8V7NmP) | 3:01 | 2021-12-13 | 2024-11-09 |
 | [Wish the Love Never Died](https://open.spotify.com/track/7qn8o7wXmeP6RjpTsruB2q) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Actually, I Can.](https://open.spotify.com/album/4JXNlrGjAQUvx4qFA5Yban) | 3:01 | 2023-12-01 | 2024-04-19 |
 | [With You](https://open.spotify.com/track/3JPFtBDSWygqLCZ07DVsNQ) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Bussin'](https://open.spotify.com/album/5ZOHGWB0OgDwVMojCv2vNR) | 4:07 | 2021-12-13 | 2022-07-06 |
 | [With You](https://open.spotify.com/track/079mLSjKkiSnpcSueMrNtQ) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Velvet Portraits](https://open.spotify.com/album/4PCIOf8X75vWdD1PbLpg3c) | 4:08 | 2021-12-13 | 2022-07-29 |

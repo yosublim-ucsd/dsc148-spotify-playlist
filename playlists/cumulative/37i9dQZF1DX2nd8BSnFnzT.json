@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Zimbra",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Raimundos",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -4805,6 +4805,24 @@
     },
     {
       "album": {
+        "name": "Maria Bonita",
+        "url": "https://open.spotify.com/album/1ZD6tVGWTAoG2wJblWiMhY"
+      },
+      "artists": [
+        {
+          "name": "Raimundos",
+          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155444,
+      "name": "Maria Bonita",
+      "url": "https://open.spotify.com/track/3ladrTlwblEkzdn5CUcU0U"
+    },
+    {
+      "album": {
         "name": "Marte",
         "url": "https://open.spotify.com/album/7LsdId0PlRzRoA1QeDBvTg"
       },
@@ -5430,7 +5448,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-09",
       "duration_ms": 292181,
       "name": "Nada \u00c9 Maior Que A Verdade - Vers\u00e3o R\u00e1dio",
       "url": "https://open.spotify.com/track/3MANLV05PY4ZSLKG0Gesgf"

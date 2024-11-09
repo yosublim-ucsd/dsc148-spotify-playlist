@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Callejo en portada.",
-  "num_followers": 59647,
+  "num_followers": 59657,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -435,26 +435,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "LIV - Spotify Singles",
-        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
-      },
-      "artists": [
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 165248,
-      "name": "LIV - Spotify Singles",
-      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "Como La Flor",
         "url": "https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 174555,
       "name": "Como La Flor",
       "url": "https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "LIV - Spotify Singles",
+        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 165248,
+      "name": "LIV - Spotify Singles",
+      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -515,26 +515,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "G\u00f3zalo (with Deorro)",
-        "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "G\u00f3zalo (with Deorro)",
-      "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "Bien Loco",
         "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 169062,
       "name": "Bien Loco",
       "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "G\u00f3zalo (with Deorro)",
+        "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "G\u00f3zalo (with Deorro)",
+      "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
+        "name": "ADICTO",
+        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "ADICTO",
+      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
         "name": "Not For Resale",
         "url": "https://open.spotify.com/album/71F8ZwPudopYuDWajBYPM0"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 160258,
       "name": "BLING BLING",
       "url": "https://open.spotify.com/track/4xLz1NxtVr8TTr68g6eKTR"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
-        "name": "ADICTO",
-        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "ADICTO",
-      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "Plata",
-        "url": "https://open.spotify.com/album/1SqNO6d7TJI3R4hlUhc40J"
-      },
-      "artists": [
-        {
-          "name": "J. Cross",
-          "url": "https://open.spotify.com/artist/68N3vrc89eDm581F9vqzXd"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 172827,
-      "name": "Plata",
-      "url": "https://open.spotify.com/track/5sxvPLgO5OfHvRi8ZU3BM0"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "NO ESTABA MAL",
         "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
       },
@@ -1115,18 +1095,22 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "CAJETA",
-        "url": "https://open.spotify.com/album/0uYZaczNoETjWCLYFQVhbH"
+        "name": "Plata",
+        "url": "https://open.spotify.com/album/1SqNO6d7TJI3R4hlUhc40J"
       },
       "artists": [
         {
-          "name": "Fend",
-          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
+          "name": "J. Cross",
+          "url": "https://open.spotify.com/artist/68N3vrc89eDm581F9vqzXd"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 146976,
-      "name": "CAJETA",
-      "url": "https://open.spotify.com/track/3gtlrOxwdsrreHMqH1heyw"
+      "duration_ms": 172827,
+      "name": "Plata",
+      "url": "https://open.spotify.com/track/5sxvPLgO5OfHvRi8ZU3BM0"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
+        "name": "CAJETA",
+        "url": "https://open.spotify.com/album/0uYZaczNoETjWCLYFQVhbH"
+      },
+      "artists": [
+        {
+          "name": "Fend",
+          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
+        }
+      ],
+      "duration_ms": 146976,
+      "name": "CAJETA",
+      "url": "https://open.spotify.com/track/3gtlrOxwdsrreHMqH1heyw"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
         "name": "ALINE",
         "url": "https://open.spotify.com/album/5itNfRHfwcRGoOHs31drdx"
       },
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
+        "name": "MENTA",
+        "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 148292,
+      "name": "MENTA",
+      "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
         "name": "DIOSA </3",
         "url": "https://open.spotify.com/album/0VLnBu9H8pdKpHfCEHFQFw"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 164129,
       "name": "DIOSA </3",
       "url": "https://open.spotify.com/track/44kPAikTwJ71hKtsy8zSZN"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
-        "name": "MENTA",
-        "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 148292,
-      "name": "MENTA",
-      "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
+        "name": "M\u00cdRAME",
+        "url": "https://open.spotify.com/album/0dteBc8Nj7CsVW0KUVvHu6"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "M\u00cdRAME",
+      "url": "https://open.spotify.com/track/07uTqdg648didHNLUqpVbc"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
         "name": "Rescue Me (From The Original Television Soundtrack Blade Runner Black Lotus)",
         "url": "https://open.spotify.com/album/5by805i64TKLSsy47zjlP0"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 172320,
       "name": "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus",
       "url": "https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
-        "name": "M\u00cdRAME",
-        "url": "https://open.spotify.com/album/0dteBc8Nj7CsVW0KUVvHu6"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "M\u00cdRAME",
-      "url": "https://open.spotify.com/track/07uTqdg648didHNLUqpVbc"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/4UvYXdtFQOMiFi6AWoOk2l"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        }
-      ],
-      "duration_ms": 141750,
-      "name": "Tiene Espinas El Rosal - Original Mix",
-      "url": "https://open.spotify.com/track/3zHXOedEGQGXYgZNzhZTus"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "Vino Rosa",
         "url": "https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz"
       },
@@ -1363,22 +1347,18 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "Rebote",
-        "url": "https://open.spotify.com/album/3MsAsDJ26pdQFdSusFhS7M"
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/4UvYXdtFQOMiFi6AWoOk2l"
       },
       "artists": [
         {
-          "name": "Brain Hunters",
-          "url": "https://open.spotify.com/artist/1TqRKzGMmqXmrp4qu8Dfl1"
-        },
-        {
-          "name": "El Pinche Mara",
-          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
         }
       ],
-      "duration_ms": 148400,
-      "name": "Rebote",
-      "url": "https://open.spotify.com/track/2aA7KDe4PfgrJ0f3mbA3UH"
+      "duration_ms": 141750,
+      "name": "Tiene Espinas El Rosal - Original Mix",
+      "url": "https://open.spotify.com/track/3zHXOedEGQGXYgZNzhZTus"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1403,6 +1383,26 @@
       "duration_ms": 215294,
       "name": "Franca Barona",
       "url": "https://open.spotify.com/track/29cUhxuaujLL63aQ7yQrtD"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "Rebote",
+        "url": "https://open.spotify.com/album/3MsAsDJ26pdQFdSusFhS7M"
+      },
+      "artists": [
+        {
+          "name": "Brain Hunters",
+          "url": "https://open.spotify.com/artist/1TqRKzGMmqXmrp4qu8Dfl1"
+        },
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        }
+      ],
+      "duration_ms": 148400,
+      "name": "Rebote",
+      "url": "https://open.spotify.com/track/2aA7KDe4PfgrJ0f3mbA3UH"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1699,18 +1699,26 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "MASERATI",
-        "url": "https://open.spotify.com/album/2vuyDqJLFKQIfGS0n4Zu3q"
+        "name": "BOOM SHAKALAKA",
+        "url": "https://open.spotify.com/album/2BKzS0a2D1tzeXlS2H6TA5"
       },
       "artists": [
         {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        },
+        {
+          "name": "Freebot",
+          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
+        },
+        {
+          "name": "Karl Wine",
+          "url": "https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5"
         }
       ],
-      "duration_ms": 225230,
-      "name": "MASERATI",
-      "url": "https://open.spotify.com/track/7nHocPrvEi7mGoguftmCt0"
+      "duration_ms": 155600,
+      "name": "BOOM SHAKALAKA",
+      "url": "https://open.spotify.com/track/338eFwIdnFk4CXln3Fp8XE"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1735,26 +1743,18 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "BOOM SHAKALAKA",
-        "url": "https://open.spotify.com/album/2BKzS0a2D1tzeXlS2H6TA5"
+        "name": "MASERATI",
+        "url": "https://open.spotify.com/album/2vuyDqJLFKQIfGS0n4Zu3q"
       },
       "artists": [
         {
-          "name": "RAYBEN",
-          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
-        },
-        {
-          "name": "Freebot",
-          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
-        },
-        {
-          "name": "Karl Wine",
-          "url": "https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5"
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
         }
       ],
-      "duration_ms": 155600,
-      "name": "BOOM SHAKALAKA",
-      "url": "https://open.spotify.com/track/338eFwIdnFk4CXln3Fp8XE"
+      "duration_ms": 225230,
+      "name": "MASERATI",
+      "url": "https://open.spotify.com/track/7nHocPrvEi7mGoguftmCt0"
     },
     {
       "added_at": "2024-11-01 06:00:00",

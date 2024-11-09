@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 47718,
+  "num_followers": 47716,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyqxgAAAAADerqdc92ebhfUugBxw/krX",
+  "snapshot_id": "ZywDAAAAAACnjzP2WTKYz0zCMRHc/8Sb",
   "tracks": [
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 167653,
-      "name": "Roots Radical",
-      "url": "https://open.spotify.com/track/3KXzazIiJfhSO8LrKmWVAR"
+      "duration_ms": 85863,
+      "name": "Maxwell Murder",
+      "url": "https://open.spotify.com/track/39uIrqxNaqGlJ8MKAHkyVb"
     },
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 85863,
-      "name": "Maxwell Murder",
-      "url": "https://open.spotify.com/track/39uIrqxNaqGlJ8MKAHkyVb"
+      "duration_ms": 167653,
+      "name": "Roots Radical",
+      "url": "https://open.spotify.com/track/3KXzazIiJfhSO8LrKmWVAR"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "...Honor Is All We Know (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 131960,
-      "name": "Honor Is All We Know",
-      "url": "https://open.spotify.com/track/5by6Zu7h7VZOAzLBEP7rv2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Won't Wait",
         "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 152760,
       "name": "Hooligans",
       "url": "https://open.spotify.com/track/5uNrA98u8ZSoAaHaDSSmU4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...Honor Is All We Know (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 131960,
+      "name": "Honor Is All We Know",
+      "url": "https://open.spotify.com/track/5by6Zu7h7VZOAzLBEP7rv2"
     },
     {
       "added_at": null,
@@ -543,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silver Patron Saints",
-        "url": "https://open.spotify.com/album/6l5iIJSyq1uofZHcPRzI8G"
-      },
-      "artists": [
-        {
-          "name": "Jesse Malin",
-          "url": "https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls"
-        },
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 239533,
-      "name": "No Way Out",
-      "url": "https://open.spotify.com/track/42xV5bA6XOYF9oe78cs4Qk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Won't Wait",
         "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
       },
@@ -575,6 +555,22 @@
       "duration_ms": 228040,
       "name": "Life Won't Wait",
       "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All The Moon Stompers",
+        "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "I Wanna Riot",
+      "url": "https://open.spotify.com/track/3prgCqodybVT758HNY2SXW"
     },
     {
       "added_at": null,
@@ -595,18 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "All The Moon Stompers",
-        "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
+        "name": "Silver Patron Saints",
+        "url": "https://open.spotify.com/album/6l5iIJSyq1uofZHcPRzI8G"
       },
       "artists": [
+        {
+          "name": "Jesse Malin",
+          "url": "https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls"
+        },
         {
           "name": "Rancid",
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 191666,
-      "name": "I Wanna Riot",
-      "url": "https://open.spotify.com/track/3prgCqodybVT758HNY2SXW"
+      "duration_ms": 239533,
+      "name": "No Way Out",
+      "url": "https://open.spotify.com/track/42xV5bA6XOYF9oe78cs4Qk"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 70933,
-      "name": "Antennas",
-      "url": "https://open.spotify.com/track/6vYgCVhPyr6cSzyROqf8fd"
+      "duration_ms": 193437,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/1aABR4wfyq8pESFDGUssSO"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 193437,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/1aABR4wfyq8pESFDGUssSO"
+      "duration_ms": 70933,
+      "name": "Antennas",
+      "url": "https://open.spotify.com/track/6vYgCVhPyr6cSzyROqf8fd"
     },
     {
       "added_at": null,

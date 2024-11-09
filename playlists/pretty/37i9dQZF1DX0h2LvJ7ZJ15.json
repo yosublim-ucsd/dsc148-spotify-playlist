@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1431980,
+  "num_followers": 1432602,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
+        "name": "3 am empty",
+        "url": "https://open.spotify.com/album/3sSvAReP5cObFgTj4NRYcT"
+      },
+      "artists": [
+        {
+          "name": "daniel.mp3",
+          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
+        }
+      ],
+      "duration_ms": 199043,
+      "name": "3 am walk - Slowed & Reverb Version",
+      "url": "https://open.spotify.com/track/1miBMMwRKSCL6RItKHbXuR"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
         "name": "MONTAGEM - PR FUNK (Slowed & Reveerb)",
         "url": "https://open.spotify.com/album/0w0fGghlcl6YPgK5JjmWHI"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 83576,
       "name": "MONTAGEM - PR FUNK - Slowed & Reveerb",
       "url": "https://open.spotify.com/track/4hB9LJ3TsLNPb2fiZidRLZ"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
-        "name": "3 am empty",
-        "url": "https://open.spotify.com/album/3sSvAReP5cObFgTj4NRYcT"
-      },
-      "artists": [
-        {
-          "name": "daniel.mp3",
-          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
-        }
-      ],
-      "duration_ms": 199043,
-      "name": "3 am walk - Slowed & Reverb Version",
-      "url": "https://open.spotify.com/track/1miBMMwRKSCL6RItKHbXuR"
     },
     {
       "added_at": "2024-05-24 04:38:40",
@@ -491,26 +491,6 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
-        "name": "Shootout (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/6yRgFDV8SK8RfzAIwRcTPG"
-      },
-      "artists": [
-        {
-          "name": "Izzamuzzic",
-          "url": "https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8"
-        },
-        {
-          "name": "Julien Marchal",
-          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
-        }
-      ],
-      "duration_ms": 140142,
-      "name": "Shootout (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/1S7ca5mJlpHn7GCE88jejz"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
         "name": "SMOKE IT OFF!",
         "url": "https://open.spotify.com/album/4QVkiRbkPGu3KETjFzmf99"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 133173,
       "name": "SMOKE IT OFF - Slowed & Reverb",
       "url": "https://open.spotify.com/track/5zZl85FZc5wQsItOOnVpTE"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
+        "name": "Shootout (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/6yRgFDV8SK8RfzAIwRcTPG"
+      },
+      "artists": [
+        {
+          "name": "Izzamuzzic",
+          "url": "https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8"
+        },
+        {
+          "name": "Julien Marchal",
+          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
+        }
+      ],
+      "duration_ms": 140142,
+      "name": "Shootout (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/1S7ca5mJlpHn7GCE88jejz"
     },
     {
       "added_at": "2024-05-24 04:38:40",

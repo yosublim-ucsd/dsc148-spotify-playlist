@@ -1,6 +1,6 @@
 {
   "description": "All your favourite pop songs, remixed to perfection. Cover: JADE",
-  "num_followers": 461440,
+  "num_followers": 461456,
   "original_name": "Massive Pop Remixes",
   "owner": {
     "name": "Spotify",
@@ -1063,22 +1063,26 @@
     {
       "added_at": "2024-08-07 11:05:06",
       "album": {
-        "name": "Cardboard Box",
-        "url": "https://open.spotify.com/album/7GKgn6QLyZrGQ1atBIfhY0"
+        "name": "10:35 (feat. Tate McRae) [The Remixes]",
+        "url": "https://open.spotify.com/album/3das2a1AZx2zx9HfBwIwWo"
       },
       "artists": [
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Happi",
-          "url": "https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 150638,
-      "name": "Cardboard Box - Happi Remix",
-      "url": "https://open.spotify.com/track/3Y9cvPqBb5Dnpc2MpG6f3j"
+      "duration_ms": 181442,
+      "name": "10:35 (feat. Tate McRae) - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/6HJTudh3Zd7WfxJHOHsvDB"
     }
   ],
   "unique_name": "Massive Pop Remixes",

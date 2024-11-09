@@ -1,13 +1,33 @@
 {
   "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: TOMORROW X TOGETHER",
-  "num_followers": 5485621,
+  "num_followers": 5486116,
   "original_name": "K-Pop ON! (\uc628)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyrpwAAAAACWipE2oWyAFnxzvzuO9SQQ",
+  "snapshot_id": "Zy4pGwAAAAC39ANE6dSg9dcHZ27qMB2f",
   "tracks": [
+    {
+      "added_at": "2024-11-08 15:07:07",
+      "album": {
+        "name": "Supernova Love",
+        "url": "https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 199504,
+      "name": "Supernova Love",
+      "url": "https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n"
+    },
     {
       "added_at": "2024-11-04 09:00:00",
       "album": {
@@ -763,22 +783,6 @@
       "duration_ms": 192013,
       "name": "Accendio",
       "url": "https://open.spotify.com/track/1BAtAtx0VgWgAMROWK9WYf"
-    },
-    {
-      "added_at": "2024-11-04 09:00:00",
-      "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6WI6u7X7Vlme8gROHyDUrY"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 163657,
-      "name": "NA",
-      "url": "https://open.spotify.com/track/4UVsqRoSys14kMLBfpJDTQ"
     },
     {
       "added_at": "2024-11-04 09:00:00",
