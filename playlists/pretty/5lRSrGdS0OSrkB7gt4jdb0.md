@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5lRSrGdS0OSrkB7gt4jdb0.md) - [plain]
 
 > We all need an angry playlist
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 44 songs - 2 hr 38 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 47 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,5 +52,8 @@ pretty - [cumulative](/playlists/cumulative/5lRSrGdS0OSrkB7gt4jdb0.md) - [plain]
 | 42 | [I Hate You](https://open.spotify.com/track/4i6xqPtcyz470NNO2LzFZ4) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears Drown the World in a Swimming Pool of Sorrow \(Deluxe\)](https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv) | 2:42 |
 | 43 | [Bullethead](https://open.spotify.com/track/4A5W1YfKFIZjJrJ5HPey2r) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [A Different Kind Of Truth](https://open.spotify.com/album/5ydOKnIrXsv7AziaSpRzZU) | 2:30 |
 | 44 | [Give 'Em Hell, Kid](https://open.spotify.com/track/0axF06XwNLobcx5z8BVtYw) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 2:18 |
+| 45 | [The Patron Saint of Liars and Fakes](https://open.spotify.com/track/0aHWzIvtnkG3FVcBoFQ6BG) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:19 |
+| 46 | [Get Busy Living Or Get Busy Dying \(Do Your Part To Save The Scene And Stop Going To Shows\)](https://open.spotify.com/track/3ni6qGsTnioh5vlpYdj9A5) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree Limited Tour Edition](https://open.spotify.com/album/2AX9B6Af32in4KbKtX1r4q) | 3:27 |
+| 47 | [This Ain't A Scene, It's An Arms Race](https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:32 |
 
-Snapshot ID: `AAAANvYnhzaLV1TTqdz8JihcuGvdoSll`
+Snapshot ID: `AAAAOd3XwTY8yOi/R5HzfLssoyg2XgtK`

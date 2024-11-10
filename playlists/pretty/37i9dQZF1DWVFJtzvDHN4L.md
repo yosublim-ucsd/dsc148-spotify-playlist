@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 
 > Relaxing soundtracks to help you escape and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,456 likes - 62 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,498 likes - 62 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Now We Are Free \- From "Gladiator" \- Piano Version](https://open.spotify.com/track/3fC4rRqg5oLATBWmsLRl46) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [Now We Are Free \(From "Gladiator" \- Piano Version\)](https://open.spotify.com/album/4HbvuYFVhbwrCiVUMDFu0Z) | 2:45 |
+| 1 | [Now We Are Free \- \(From "Gladiator"\) \- Piano Version](https://open.spotify.com/track/3fC4rRqg5oLATBWmsLRl46) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [Now We Are Free \(From "Gladiator" \- Piano Version\)](https://open.spotify.com/album/4HbvuYFVhbwrCiVUMDFu0Z) | 2:45 |
 | 2 | [Jacob and the Stone](https://open.spotify.com/track/2nltARCkZyrzjQANViDpuX) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [Minari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5) | 1:38 |
 | 3 | [Together Again](https://open.spotify.com/track/2hnA4tmaBMisNvz4TOl1Rk) | [Stephen Rennicks](https://open.spotify.com/artist/1qwshnqmsxCWhZAnBIISeL) | [Normal People \(Original Score from the Television Series\)](https://open.spotify.com/album/3WsKQ06VJYFnl5msx295V9) | 2:53 |
 | 4 | [Any Other Name](https://open.spotify.com/track/33B1XmfncHqnfkrYZIcHbD) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [American Beauty \(Original Motion Picture Score\)](https://open.spotify.com/album/11y3Dzg44npGsTWKtmuzTW) | 4:06 |

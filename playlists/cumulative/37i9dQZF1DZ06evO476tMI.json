@@ -717,6 +717,24 @@
     },
     {
       "album": {
+        "name": "The Concert for a New South Africa (Durban) [Live]",
+        "url": "https://open.spotify.com/album/2vYHp5hQNYCPj28AfJP7QE"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197640,
+      "name": "Love Is - 2024 Mix",
+      "url": "https://open.spotify.com/track/1LirjrKLn5i6Y4YiukHs1P"
+    },
+    {
+      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },

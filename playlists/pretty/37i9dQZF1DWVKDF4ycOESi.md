@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Elodie e Tiziano Ferro in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,151 likes - 85 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,218 likes - 85 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 64 | [del tempo perso](https://open.spotify.com/track/2vzXreP8j2jfFJIzCBIJ5H) | [Jesse the Faccio](https://open.spotify.com/artist/0SbYhjfJTmuDE1ltoEUv67) | [dei giorni liberi, del tempo perso](https://open.spotify.com/album/4Hzl9E1G9HecX4GLxeoChA) | 2:33 |
 | 65 | [Spettri](https://open.spotify.com/track/0Hw2BJtjUmg7EplpdidKXT) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [Altre canzoni](https://open.spotify.com/album/03tOW55xi4rrM40wWE8liF) | 3:10 |
 | 66 | [La Porta Del Cuore](https://open.spotify.com/track/2sUq3IgDGg1g7xYzqfSecp) | [Fitness Forever](https://open.spotify.com/artist/7eaGUzCmUeHYU4qssZoSai) | [Amore e Salute](https://open.spotify.com/album/2KV3R2KUCQ1jM8fecnq9II) | 4:05 |
-| 67 | [Fine Wine](https://open.spotify.com/track/6K52pf928JK0WkxUn5Zzy2) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Fine Wine In Italy](https://open.spotify.com/album/5lV6TjkSpiIrVzIUkovkoU) | 2:58 |
+| 67 | [Fine Wine](https://open.spotify.com/track/6K52pf928JK0WkxUn5Zzy2) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Fine Wine In Italy](https://open.spotify.com/album/5lV6TjkSpiIrVzIUkovkoU) | 2:56 |
 | 68 | [SALTY](https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PLAYHOUSE](https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO) | 3:11 |
 | 69 | [Without Ya](https://open.spotify.com/track/1AjHqTEjibApxgcvvlfpT2) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Without Ya](https://open.spotify.com/album/6DYEW2lhhv9w45yUTn6lP2) | 3:00 |
 | 70 | [Mi manchi già per quando mi mancherai](https://open.spotify.com/track/0y9E3xafSSc9ytnlRQOEE4) | [Anna Bielli](https://open.spotify.com/artist/4ZgUYtmvFXJHo55dH5clmo) | [Mi manchi già per quando mi mancherai](https://open.spotify.com/album/2Q7krn0RxAduwgfvrg5clx) | 4:52 |

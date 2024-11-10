@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Dudu",
-  "num_followers": 145032,
+  "num_followers": 145049,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,34 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
+        "name": "Escolhas e Reflexos",
+        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        }
+      ],
+      "duration_ms": 213994,
+      "name": "Mundo da Fama",
+      "url": "https://open.spotify.com/track/6vqHCFSzYNzg96n8NoKxHt"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
         "name": "O Bagulho \u00c9 Trap II",
         "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
       },
@@ -807,34 +835,6 @@
       "duration_ms": 157868,
       "name": "Casa Bomba",
       "url": "https://open.spotify.com/track/1o8OibQkhsMFXRc7xfJfN9"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "MAGIC SHOW (DELUXE)",
-        "url": "https://open.spotify.com/album/3QwGvMjTIO0xzb8BrWTRu6"
-      },
-      "artists": [
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 166449,
-      "name": "C.E.O'S (B\u00d4NUS TRACK)",
-      "url": "https://open.spotify.com/track/0euUJLQsKhMThMKO07qk01"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -903,6 +903,34 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
+        "name": "MAGIC SHOW (DELUXE)",
+        "url": "https://open.spotify.com/album/3QwGvMjTIO0xzb8BrWTRu6"
+      },
+      "artists": [
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 166449,
+      "name": "C.E.O'S (B\u00d4NUS TRACK)",
+      "url": "https://open.spotify.com/track/0euUJLQsKhMThMKO07qk01"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
         "name": "IRRASTRE\u00c1VEL",
         "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
       },
@@ -955,30 +983,26 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Escolhas e Reflexos",
-        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
+        "name": "TRAP BRASILEIRO",
+        "url": "https://open.spotify.com/album/0fNbQSIWEf9B57wx8YSPw3"
       },
       "artists": [
         {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
         },
         {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
         },
         {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+          "name": "cassin",
+          "url": "https://open.spotify.com/artist/6xDCwcvY3oPM9xtKbYJzhk"
         }
       ],
-      "duration_ms": 213994,
-      "name": "Mundo da Fama",
-      "url": "https://open.spotify.com/track/6vqHCFSzYNzg96n8NoKxHt"
+      "duration_ms": 306316,
+      "name": "PARIS FASHION WEEK",
+      "url": "https://open.spotify.com/track/2UvUig2X7KLsBNSgmWcpPH"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -1159,30 +1183,6 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Diesel Dior",
-        "url": "https://open.spotify.com/album/6MNqs3AyrgaxCTzY0VubqW"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        }
-      ],
-      "duration_ms": 189197,
-      "name": "Diesel Dior",
-      "url": "https://open.spotify.com/track/1ilQOr4WSuduqsRJ9UOLYW"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
         "name": "Esqueceu seu brinco",
         "url": "https://open.spotify.com/album/1lA4uaxmHZMVzqCJrHiIdZ"
       },
@@ -1207,6 +1207,30 @@
       "duration_ms": 284138,
       "name": "Esqueceu seu brinco",
       "url": "https://open.spotify.com/track/6aDQLyjCmj6Bb8apW0v8KF"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "Diesel Dior",
+        "url": "https://open.spotify.com/album/6MNqs3AyrgaxCTzY0VubqW"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "duration_ms": 189197,
+      "name": "Diesel Dior",
+      "url": "https://open.spotify.com/track/1ilQOr4WSuduqsRJ9UOLYW"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -1287,30 +1311,6 @@
       "duration_ms": 142026,
       "name": "Maturidade",
       "url": "https://open.spotify.com/track/7GvJL7IG958R87MphADwR6"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "TRAP BRASILEIRO",
-        "url": "https://open.spotify.com/album/0fNbQSIWEf9B57wx8YSPw3"
-      },
-      "artists": [
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "cassin",
-          "url": "https://open.spotify.com/artist/6xDCwcvY3oPM9xtKbYJzhk"
-        }
-      ],
-      "duration_ms": 306316,
-      "name": "PARIS FASHION WEEK",
-      "url": "https://open.spotify.com/track/2UvUig2X7KLsBNSgmWcpPH"
     },
     {
       "added_at": "2024-11-08 03:01:00",

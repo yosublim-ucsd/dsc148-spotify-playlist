@@ -1386,7 +1386,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 170257,
       "name": "Agapi Mou Me Dioxneis",
       "url": "https://open.spotify.com/track/4u4kVeDK1ru1ekntEKL7OA"
@@ -5104,7 +5104,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -7354,7 +7354,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 196269,
       "name": "COLOMBIA",
       "url": "https://open.spotify.com/track/3hJKLXQm0js0n0Iym1xbcf"
@@ -12177,6 +12177,28 @@
     },
     {
       "album": {
+        "name": "Fernw Trap",
+        "url": "https://open.spotify.com/album/1QOASIAga97R98RB7aHM6r"
+      },
+      "artists": [
+        {
+          "name": "Mad Clip",
+          "url": "https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd"
+        },
+        {
+          "name": "Billy Sio",
+          "url": "https://open.spotify.com/artist/29Bl0nvClztM0dpgY2vvcc"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214070,
+      "name": "Fernw Trap",
+      "url": "https://open.spotify.com/track/3fQpve3m3CpcRwRDUymqs0"
+    },
+    {
+      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
       },
@@ -12504,6 +12526,24 @@
       "duration_ms": 288000,
       "name": "Folies",
       "url": "https://open.spotify.com/track/6cFasAy5JwTHeX3d3bvdnq"
+    },
+    {
+      "album": {
+        "name": "Follow You",
+        "url": "https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE"
+      },
+      "artists": [
+        {
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164546,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc"
     },
     {
       "album": {
@@ -22659,6 +22699,28 @@
     },
     {
       "album": {
+        "name": "Mesanyxta",
+        "url": "https://open.spotify.com/album/1cn6aLJqqHF4jZtLwOsTR6"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "Marseaux",
+          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182376,
+      "name": "Mesanyxta",
+      "url": "https://open.spotify.com/track/7k1NpTv7vNWaZbIU3UxGol"
+    },
+    {
+      "album": {
         "name": "Mektoub 2",
         "url": "https://open.spotify.com/album/0ziJGsXI9ChAS0pPnVc4HS"
       },
@@ -31343,6 +31405,24 @@
     },
     {
       "album": {
+        "name": "Se Periptosi Pou",
+        "url": "https://open.spotify.com/album/5aPSVgtTRWQd7DJNS746Dn"
+      },
+      "artists": [
+        {
+          "name": "Anna Vissi",
+          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238518,
+      "name": "Se Periptosi Pou",
+      "url": "https://open.spotify.com/track/4iJkeikfkJ7EzkR2xUu0m4"
+    },
+    {
+      "album": {
         "name": "Selfmade",
         "url": "https://open.spotify.com/album/3pWSjNC6ZiQ4xAwXqyd46T"
       },
@@ -38748,7 +38828,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 130909,
       "name": "XWRIS",
       "url": "https://open.spotify.com/track/0l3lG8DrnazizwBxGeJ9Qy"

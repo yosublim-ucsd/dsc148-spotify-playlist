@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 41793,
+  "num_followers": 41824,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZywDAAAAAACOhHga7KvW+P5uwSjJVMe/",
+  "snapshot_id": "Zy1UgAAAAADN+tAz2REMnNh+tPmUIrMt",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "I've Got Joy",
-      "url": "https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CeCe Winans",
         "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 335200,
       "name": "Holy Spirit, Come Fill This Place",
       "url": "https://open.spotify.com/track/1jwTbXQa3GJWgBCNxxuL0g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe For It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "I've Got Joy",
+      "url": "https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs Of Emotional Healing",
-        "url": "https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 206213,
-      "name": "He's Concerned",
-      "url": "https://open.spotify.com/track/6bpRaJSFcjdv5aRtyUYwgc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thy Kingdom Come",
         "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 271453,
       "name": "Bless His Holy Name",
       "url": "https://open.spotify.com/track/4DVfAjlA3pAHPjv0DLVk2J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs Of Emotional Healing",
+        "url": "https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 206213,
+      "name": "He's Concerned",
+      "url": "https://open.spotify.com/track/6bpRaJSFcjdv5aRtyUYwgc"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CeCe Winans Presents Pure Worship",
-        "url": "https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 111920,
-      "name": "Nobody But You",
-      "url": "https://open.spotify.com/track/1IISFIfZSTgB9bz5OQedyp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thy Kingdom Come",
         "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 297760,
       "name": "We Welcome You (Holy Father)",
       "url": "https://open.spotify.com/track/5ZbYTCik99Yqk2CZRI6Xqk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CeCe Winans Presents Pure Worship",
+        "url": "https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 111920,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/1IISFIfZSTgB9bz5OQedyp"
     },
     {
       "added_at": null,

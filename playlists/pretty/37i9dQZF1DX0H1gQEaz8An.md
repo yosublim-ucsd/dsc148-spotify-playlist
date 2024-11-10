@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H1gQEaz8An.md) - [plain]
 
 > Lo que diga el corazón ❤️💔 Cover: El Padrinito Toys
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,471 likes - 84 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,641 likes - 84 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

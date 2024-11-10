@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Claude & Zoë Tauran
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,469 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,490 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Je T'aime](https://open.spotify.com/track/3JMG73kZGHTL0PXvxO7xnA) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Je T'aime](https://open.spotify.com/album/2RrSrjr3Cj1r5t6OYI9eu5) | 2:59 |
+| 1 | [Je T'aime](https://open.spotify.com/track/3JMG73kZGHTL0PXvxO7xnA) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Je T'aime](https://open.spotify.com/album/2RrSrjr3Cj1r5t6OYI9eu5) | 2:59 |
 | 2 | [Forever Young](https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Forever Young](https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J) | 2:36 |
 | 3 | [Heel De Nacht Alleen](https://open.spotify.com/track/0CVFLeX7D7K204cXJ6nxCH) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Heel De Nacht Alleen](https://open.spotify.com/album/2ZxrbBzloUG3mFQU5M0x0E) | 2:34 |
 | 4 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |

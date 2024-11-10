@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 
 > 
 
-[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,641 likes - 20 songs - 1 hr 5 min
+[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,640 likes - 20 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 | 2 | [Electricity](https://open.spotify.com/track/2xPg0pFQD7W4Ds3queL5D9) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ) | [Electricity](https://open.spotify.com/album/6rDypUhYCZ0BVacAfSewuZ) | 2:50 |
 | 3 | [Beat Go On](https://open.spotify.com/track/2K0tdzR2jLuE1jxSp7toCM) | [Sage Armstrong](https://open.spotify.com/artist/1cfwUSXEE2axXJGQfnfVFH), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Beat Go On / DUHDUHDUH](https://open.spotify.com/album/2uEE9TWHVY1YonnP8h8TxI) | 2:15 |
 | 4 | [palm of my hands \- Odd Mob Remix](https://open.spotify.com/track/2vxsdAnntt6eGZJJRaLBF6) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [palm of my hands \(Odd Mob Remix\)](https://open.spotify.com/album/4wAyp0F1m8WNDb7SsuQarq) | 3:23 |
-| 5 | [Let The Bassline](https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Let The Bassline](https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W) | 4:09 |
+| 5 | [Let The Bassline](https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Let The Bassline](https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W) | 3:03 |
 | 6 | [Time To Go](https://open.spotify.com/track/12hypREWe3wQFb6xgAbwtT) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Time To Go](https://open.spotify.com/album/3ejTqXB3AbW6bGO8iJGmQJ) | 3:22 |
 | 7 | [Praise To The Bass](https://open.spotify.com/track/79dJRAdykQcSXlGTKdMThu) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Praise To The Bass](https://open.spotify.com/album/01WXivam8OeD3OrHuYyHFX) | 3:07 |
 | 8 | [Shaky](https://open.spotify.com/track/4hSDDnDiSaTSqIB8u9Zoap) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Shaky](https://open.spotify.com/album/423ScEexLkxNgdlxeFfT5L) | 2:31 |

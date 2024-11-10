@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 231306,
       "name": "Cuando Te Miro",
       "url": "https://open.spotify.com/track/22q2vb5U0lbiP6WYzJLF7x"
@@ -3142,7 +3142,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 198001,
       "name": "Mi Confesi\u00f3n",
       "url": "https://open.spotify.com/track/4ogtFmfPM9dRoQpNXVxq78"
@@ -4446,7 +4446,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 260431,
       "name": "Soltero",
       "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
@@ -5110,6 +5110,28 @@
       "duration_ms": 184089,
       "name": "Vamo' a Ver Si el Gas Pela (feat. Miky Woodz & Marvin Santiago)",
       "url": "https://open.spotify.com/track/6UhC5S3GcFyHNcD2EX0zvi"
+    },
+    {
+      "album": {
+        "name": "Vamo' Echando",
+        "url": "https://open.spotify.com/album/2X5V5p3CvFpPyzLtHrONFl"
+      },
+      "artists": [
+        {
+          "name": "NIA",
+          "url": "https://open.spotify.com/artist/6pWfZsh4oMfM4lRITDxtfw"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Vamo' Echando",
+      "url": "https://open.spotify.com/track/3jR02GFa7bbuhEvYc3pDwL"
     },
     {
       "album": {

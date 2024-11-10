@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring kayla grace  ☁️  art: @doolittleillustrations
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,508 likes - 85 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,465 likes - 85 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 52 | [you say that i'm crazy](https://open.spotify.com/track/3U18vzIuVwMGzR4raHhVVS) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [you say that i'm crazy](https://open.spotify.com/album/6hHqkUdrHqBZAe77duY9q9) | 2:26 |
 | 53 | [Mrs Right](https://open.spotify.com/track/0RKk4dWwGqSUPzQQLNSGYR) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Mrs Right](https://open.spotify.com/album/4j1Xj3YYKEzgVIqBIztpL3) | 3:06 |
 | 54 | [Sleepless](https://open.spotify.com/track/3CKDp64bfqvd0YniAuTUoj) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC), [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec), [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Chaos Is Her Name](https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1) | 4:13 |
-| 55 | [Unaware](https://open.spotify.com/track/6QhK3GRhfNQYeHpKEx9X6Q) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Margo Raats](https://open.spotify.com/artist/52XA4Ccc0k7wMeLkdEsju9) | [Sure](https://open.spotify.com/album/2Nz7KJZ4TSGHqWb4jGLPBA) | 3:30 |
+| 55 | [Unaware](https://open.spotify.com/track/6QhK3GRhfNQYeHpKEx9X6Q) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [Sure](https://open.spotify.com/album/2Nz7KJZ4TSGHqWb4jGLPBA) | 3:30 |
 | 56 | [Gold Smile](https://open.spotify.com/track/0vjObNruhRFeBgNxe3gtAa) | [Marti Perramon](https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX) | [Gold Smile](https://open.spotify.com/album/1YEqevtN9SNTalSEaB5KNn) | 2:43 |
 | 57 | [Chicago](https://open.spotify.com/track/3gDPvCx5hIoi4hFlJqeRqQ) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [wasn’t a fighting kid](https://open.spotify.com/album/6VzjjK4yMX1z1dUaOp5K1B) | 3:12 |
 | 58 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 |

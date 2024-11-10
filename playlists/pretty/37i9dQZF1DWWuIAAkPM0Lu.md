@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:7c7ZeiPKWHf2E1rsf1P4VF">Medina</a> har lavet en kampsang til dig der har brug for det ❤️ <a href="spotify:track:3MIwXofeyDvXoYn7GQACCS">Kærlighed</a> ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,542 likes - 102 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,569 likes - 102 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 38 | [Alright](https://open.spotify.com/track/2haMyzKGv0uOfV4vCObmYq) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [wanna be friends?](https://open.spotify.com/album/1GfChrfO2dg92W5W7FGj6O) | 2:35 |
 | 39 | [Over You \(feat\. Justin Jesso\)](https://open.spotify.com/track/69GEK9C8nKwiGLMv2NbpiG) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Over You \(feat\. Justin Jesso\)](https://open.spotify.com/album/212lVtNgONE9gXOtq8V6g5) | 2:53 |
 | 40 | [Lille Store Verden](https://open.spotify.com/track/0SzTEbXfdbIiu0n8kgcWx3) | [Trine Therkelsen](https://open.spotify.com/artist/05gAr4rfrOofxGPewzWnAF) | [Juleminder](https://open.spotify.com/album/11AqT2YCnSt3jCcDgoaxzt) | 3:31 |
-| 41 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 |
+| 41 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX), [David Parry](https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD), [Dekel Adin](https://open.spotify.com/artist/27xyFvRoUUYKOPiY47BbZ9), [Ziv Yamin](https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 |
 | 42 | [2nul10](https://open.spotify.com/track/6TF0hNiOsWPbep5YyFYbZg) | [De Danske Hyrder](https://open.spotify.com/artist/6Id4InLJZT9Gzsl6KrAqAN) | [2nul10](https://open.spotify.com/album/1uDQO3XYjphNZpTy7ay2HO) | 3:42 |
 | 43 | [Heldigvis, Heldigvis](https://open.spotify.com/track/3KuoOavmAOdLXeWoWnXOKU) | [gubbi](https://open.spotify.com/artist/4C4exc6a0ruhlvPWPRwPXE) | [Heldigvis, Heldigvis](https://open.spotify.com/album/4mx01B7773otdfg5IAnI5f) | 2:35 |
 | 44 | [Kom for at grine xD](https://open.spotify.com/track/3J0GojgqiGvSnjBVAnXA0s) | [kingtommi](https://open.spotify.com/artist/5SzjbKkjV5vdxP4vZMp2w0) | [Kom for at grine xD](https://open.spotify.com/album/6wzleg40PXpLjqpAuHyGHd) | 2:57 |

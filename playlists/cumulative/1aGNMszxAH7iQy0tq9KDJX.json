@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Evening Out With Your Girlfriend",
+        "url": "https://open.spotify.com/album/0zk9ITIOCEXthivlHuhBsd"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136840,
+      "name": "Short, Fast, And Loud",
+      "url": "https://open.spotify.com/track/2cn19ykuQ0vYdSpqqN4h0p"
+    },
+    {
+      "album": {
         "name": "Sleepyhead",
         "url": "https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98"
       },

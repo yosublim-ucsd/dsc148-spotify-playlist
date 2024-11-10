@@ -1,6 +1,6 @@
 {
   "description": "Just vibes. Cover: A.CHAL",
-  "num_followers": 666188,
+  "num_followers": 666190,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-11-08 18:42:38",
       "album": {
-        "name": "Tu Silueta",
-        "url": "https://open.spotify.com/album/7j86EbvzXlG519y6A8L1uZ"
-      },
-      "artists": [
-        {
-          "name": "Diegote",
-          "url": "https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK"
-        }
-      ],
-      "duration_ms": 170480,
-      "name": "Tu Silueta",
-      "url": "https://open.spotify.com/track/57f0ili5EzdZlEaSKcEg8p"
-    },
-    {
-      "added_at": "2024-11-08 18:42:38",
-      "album": {
         "name": "Las Piponas (Remix)",
         "url": "https://open.spotify.com/album/6FnnT3IOidLkfgQtrC2RJb"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 244000,
       "name": "Las Piponas (Remix)",
       "url": "https://open.spotify.com/track/281YJmnThveWjsWVic9Ym6"
+    },
+    {
+      "added_at": "2024-11-08 18:42:38",
+      "album": {
+        "name": "Tu Silueta",
+        "url": "https://open.spotify.com/album/7j86EbvzXlG519y6A8L1uZ"
+      },
+      "artists": [
+        {
+          "name": "Diegote",
+          "url": "https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK"
+        }
+      ],
+      "duration_ms": 170480,
+      "name": "Tu Silueta",
+      "url": "https://open.spotify.com/track/57f0ili5EzdZlEaSKcEg8p"
     },
     {
       "added_at": "2024-11-08 18:42:38",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-11-08 18:42:38",
       "album": {
+        "name": "KM 33",
+        "url": "https://open.spotify.com/album/2H4i0TPlQeyEU1eTNFRSI8"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        }
+      ],
+      "duration_ms": 120888,
+      "name": "RAPAPA",
+      "url": "https://open.spotify.com/track/79j3Cl3AEAEhXK9cjjfd02"
+    },
+    {
+      "added_at": "2024-11-08 18:42:38",
+      "album": {
         "name": "Por Dentro",
         "url": "https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 218613,
       "name": "A Veces A Besos",
       "url": "https://open.spotify.com/track/6AQgrZrFu1xfuAmbyXmKAE"
-    },
-    {
-      "added_at": "2024-11-08 18:42:38",
-      "album": {
-        "name": "KM 33",
-        "url": "https://open.spotify.com/album/2H4i0TPlQeyEU1eTNFRSI8"
-      },
-      "artists": [
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        }
-      ],
-      "duration_ms": 120888,
-      "name": "RAPAPA",
-      "url": "https://open.spotify.com/track/79j3Cl3AEAEhXK9cjjfd02"
     },
     {
       "added_at": "2024-11-08 18:42:38",
@@ -1263,30 +1263,6 @@
     {
       "added_at": "2024-11-08 18:42:38",
       "album": {
-        "name": "Besitos BB 2.0",
-        "url": "https://open.spotify.com/album/7hgGSrkpHw7GzNdyUMZiN7"
-      },
-      "artists": [
-        {
-          "name": "El Perla",
-          "url": "https://open.spotify.com/artist/18kNcg1LyApWH3qkXk1CCd"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 233693,
-      "name": "Besitos BB 2.0",
-      "url": "https://open.spotify.com/track/6A3siPf4AgV5jfZua1zHgZ"
-    },
-    {
-      "added_at": "2024-11-08 18:42:38",
-      "album": {
         "name": "YKWGTS",
         "url": "https://open.spotify.com/album/19eKTFbnC5aiE3FPSu1ISn"
       },
@@ -1311,6 +1287,30 @@
       "duration_ms": 186887,
       "name": "Call Center",
       "url": "https://open.spotify.com/track/6ggOz96WfD8NSPBko8fnJA"
+    },
+    {
+      "added_at": "2024-11-08 18:42:38",
+      "album": {
+        "name": "Besitos BB 2.0",
+        "url": "https://open.spotify.com/album/7hgGSrkpHw7GzNdyUMZiN7"
+      },
+      "artists": [
+        {
+          "name": "El Perla",
+          "url": "https://open.spotify.com/artist/18kNcg1LyApWH3qkXk1CCd"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 233693,
+      "name": "Besitos BB 2.0",
+      "url": "https://open.spotify.com/track/6A3siPf4AgV5jfZua1zHgZ"
     },
     {
       "added_at": "2024-11-08 18:42:38",
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2024-11-08 18:42:38",
       "album": {
+        "name": "Se\u00f1orita (Remix)",
+        "url": "https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT"
+      },
+      "artists": [
+        {
+          "name": "Jean Pi",
+          "url": "https://open.spotify.com/artist/2MBHhHSyqs8LFJsdmgf9pK"
+        },
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 181591,
+      "name": "Se\u00f1orita - Remix",
+      "url": "https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH"
+    },
+    {
+      "added_at": "2024-11-08 18:42:38",
+      "album": {
         "name": "SAKURA",
         "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
       },
@@ -1727,42 +1747,6 @@
     {
       "added_at": "2024-11-08 18:42:38",
       "album": {
-        "name": "Se\u00f1orita (Remix)",
-        "url": "https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT"
-      },
-      "artists": [
-        {
-          "name": "Jean Pi",
-          "url": "https://open.spotify.com/artist/2MBHhHSyqs8LFJsdmgf9pK"
-        },
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 181591,
-      "name": "Se\u00f1orita - Remix",
-      "url": "https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH"
-    },
-    {
-      "added_at": "2024-11-08 18:42:38",
-      "album": {
-        "name": "a new star (1 9 9 3)",
-        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 119354,
-      "name": "Detr\u00e1s del DJ",
-      "url": "https://open.spotify.com/track/0w5lDKKX6YvfAXrytalvpR"
-    },
-    {
-      "added_at": "2024-11-08 18:42:38",
-      "album": {
         "name": "CONTINGENTE",
         "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 213877,
       "name": "VENENO",
       "url": "https://open.spotify.com/track/7hID0StXCgSbBeJ1WdHhYB"
+    },
+    {
+      "added_at": "2024-11-08 18:42:38",
+      "album": {
+        "name": "a new star (1 9 9 3)",
+        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 119354,
+      "name": "Detr\u00e1s del DJ",
+      "url": "https://open.spotify.com/track/0w5lDKKX6YvfAXrytalvpR"
     },
     {
       "added_at": "2024-11-08 18:42:38",
@@ -1923,18 +1923,26 @@
     {
       "added_at": "2024-11-08 18:42:38",
       "album": {
-        "name": "Thal\u00eda",
-        "url": "https://open.spotify.com/album/5F35IoIamW84YFm7eT22Og"
+        "name": "HAYABUSA",
+        "url": "https://open.spotify.com/album/6HBOihZeCYtLVM3MiCt7QL"
       },
       "artists": [
         {
-          "name": "Cyril Kamer",
-          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
         }
       ],
-      "duration_ms": 183428,
-      "name": "Thal\u00eda",
-      "url": "https://open.spotify.com/track/03O0bVezEElAy8AWXGTAOo"
+      "duration_ms": 180352,
+      "name": "Epica",
+      "url": "https://open.spotify.com/track/61zBrSzch8LvD0oeOhC2LN"
     }
   ],
   "unique_name": "Vibras",

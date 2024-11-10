@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Abbot",
-  "num_followers": 132466,
+  "num_followers": 132479,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -235,54 +235,30 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Assault (Carro Bicho)",
-        "url": "https://open.spotify.com/album/5ft3Gzo8bWvAHoofPH9bd5"
+        "name": "J\u00f3ias do Bairro",
+        "url": "https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ"
       },
       "artists": [
         {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
         },
         {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         },
         {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
         },
         {
-          "name": "Shenlong",
-          "url": "https://open.spotify.com/artist/6Dzh6uXgA0QKVg1eIWxdDY"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Mvk",
-          "url": "https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Mc Filh\u00e3o",
-          "url": "https://open.spotify.com/artist/0bRPXWabRuRy4RqnycT5ne"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
         }
       ],
-      "duration_ms": 409846,
-      "name": "Assault (Carro Bicho)",
-      "url": "https://open.spotify.com/track/52K0daI216x97EPGrSA7jB"
+      "duration_ms": 171285,
+      "name": "J\u00f3ias do Bairro",
+      "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -343,30 +319,54 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "J\u00f3ias do Bairro",
-        "url": "https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ"
+        "name": "Assault (Carro Bicho)",
+        "url": "https://open.spotify.com/album/5ft3Gzo8bWvAHoofPH9bd5"
       },
       "artists": [
         {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
         },
         {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
         },
         {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
         },
         {
-          "name": "Babidi",
-          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+          "name": "Shenlong",
+          "url": "https://open.spotify.com/artist/6Dzh6uXgA0QKVg1eIWxdDY"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Mvk",
+          "url": "https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Mc Filh\u00e3o",
+          "url": "https://open.spotify.com/artist/0bRPXWabRuRy4RqnycT5ne"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         }
       ],
-      "duration_ms": 171285,
-      "name": "J\u00f3ias do Bairro",
-      "url": "https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw"
+      "duration_ms": 409846,
+      "name": "Assault (Carro Bicho)",
+      "url": "https://open.spotify.com/track/52K0daI216x97EPGrSA7jB"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -491,42 +491,6 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Para Todas do Job",
-        "url": "https://open.spotify.com/album/7mIgIX5BUaCP24wnK28OG7"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        },
-        {
-          "name": "DU'L",
-          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Coelho",
-          "url": "https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa"
-        }
-      ],
-      "duration_ms": 255157,
-      "name": "Seu Job",
-      "url": "https://open.spotify.com/track/2YENQseYfuRAaZoUrQ9wGa"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
         "name": "MAL INTENCIONADA (J\u00c1 FOI, J\u00c1 ERA)",
         "url": "https://open.spotify.com/album/4rNuycR489JZenIDq4Fz5h"
       },
@@ -603,6 +567,42 @@
       "duration_ms": 160000,
       "name": "Pra Se Entorpecer",
       "url": "https://open.spotify.com/track/7ytjb8ZvBX7hViPXKBJp95"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "Para Todas do Job",
+        "url": "https://open.spotify.com/album/7mIgIX5BUaCP24wnK28OG7"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Coelho",
+          "url": "https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa"
+        }
+      ],
+      "duration_ms": 255157,
+      "name": "Seu Job",
+      "url": "https://open.spotify.com/track/2YENQseYfuRAaZoUrQ9wGa"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -695,50 +695,6 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Nois T\u00e1 Pra Cima",
-        "url": "https://open.spotify.com/album/3maoNtBHXjBNJujQsr6qTi"
-      },
-      "artists": [
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 156097,
-      "name": "Nois T\u00e1 Pra Cima",
-      "url": "https://open.spotify.com/track/0wxq6vOidSNO1GyzGtGwt3"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "PABLO",
-        "url": "https://open.spotify.com/album/6Y9PmzOlhKuhnOHjx9wky1"
-      },
-      "artists": [
-        {
-          "name": "Derxan",
-          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
-        },
-        {
-          "name": "CHF",
-          "url": "https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "PABLO",
-      "url": "https://open.spotify.com/track/6COhIAUNHSnXmj2PgcdF8v"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
         "name": "Escolhas e Reflexos",
         "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
       },
@@ -771,6 +727,50 @@
       "duration_ms": 248997,
       "name": "Quarto 28",
       "url": "https://open.spotify.com/track/3YgqR2xkM3cfAfaBN9pMLv"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "PABLO",
+        "url": "https://open.spotify.com/album/6Y9PmzOlhKuhnOHjx9wky1"
+      },
+      "artists": [
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "CHF",
+          "url": "https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "PABLO",
+      "url": "https://open.spotify.com/track/6COhIAUNHSnXmj2PgcdF8v"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "Nois T\u00e1 Pra Cima",
+        "url": "https://open.spotify.com/album/3maoNtBHXjBNJujQsr6qTi"
+      },
+      "artists": [
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 156097,
+      "name": "Nois T\u00e1 Pra Cima",
+      "url": "https://open.spotify.com/track/0wxq6vOidSNO1GyzGtGwt3"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -907,6 +907,34 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
+        "name": "DPP",
+        "url": "https://open.spotify.com/album/36YP6TxFyh8MUyBPSwHzWn"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "sONTH",
+          "url": "https://open.spotify.com/artist/1d0DvzCeLWFfznOsLNvjL9"
+        },
+        {
+          "name": "Agostinhx",
+          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        }
+      ],
+      "duration_ms": 151181,
+      "name": "DPP",
+      "url": "https://open.spotify.com/track/1BurY5wAAoV1vly4LHeW8Q"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
         "name": "Dialeto Delinquente",
         "url": "https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB"
       },
@@ -927,30 +955,6 @@
       "duration_ms": 142784,
       "name": "Santo de Casa",
       "url": "https://open.spotify.com/track/3lkfsOQnDbaOeIYSBp0kUB"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "Paladar",
-        "url": "https://open.spotify.com/album/6Y5GeHtdEKBESUSzCDZAng"
-      },
-      "artists": [
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Mc Luki",
-          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
-        }
-      ],
-      "duration_ms": 112952,
-      "name": "Paladar",
-      "url": "https://open.spotify.com/track/62uUKrOmi2WzHlCpALbex5"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -979,6 +983,30 @@
       "duration_ms": 197052,
       "name": "Signo",
       "url": "https://open.spotify.com/track/0WoWEiMGlluzoXpcrwVmS7"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "Paladar",
+        "url": "https://open.spotify.com/album/6Y5GeHtdEKBESUSzCDZAng"
+      },
+      "artists": [
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Mc Luki",
+          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
+        }
+      ],
+      "duration_ms": 112952,
+      "name": "Paladar",
+      "url": "https://open.spotify.com/track/62uUKrOmi2WzHlCpALbex5"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -1079,6 +1107,30 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
+        "name": "Medo \u00c9 S\u00f3 Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu"
+      },
+      "artists": [
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Real Bege",
+          "url": "https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP"
+        }
+      ],
+      "duration_ms": 121540,
+      "name": "Ambi\u00e7\u00f5es E V\u00edcios",
+      "url": "https://open.spotify.com/track/4Ku5B9wg2M7bzFJqosvqHv"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
         "name": "Thanos",
         "url": "https://open.spotify.com/album/7Al64HfSoM38DMI3qu0jy9"
       },
@@ -1123,78 +1175,6 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Medo \u00c9 S\u00f3 Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu"
-      },
-      "artists": [
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Real Bege",
-          "url": "https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP"
-        }
-      ],
-      "duration_ms": 121540,
-      "name": "Ambi\u00e7\u00f5es E V\u00edcios",
-      "url": "https://open.spotify.com/track/4Ku5B9wg2M7bzFJqosvqHv"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "Amor de folclore",
-        "url": "https://open.spotify.com/album/14QrymLdO55Kjne9YnsPcJ"
-      },
-      "artists": [
-        {
-          "name": "Bau\u00ea",
-          "url": "https://open.spotify.com/artist/5AK8aNLKdYAhdjJni1iecn"
-        }
-      ],
-      "duration_ms": 150897,
-      "name": "Amor de folclore",
-      "url": "https://open.spotify.com/track/7HKeMdcJNYQMkqkEZ5cbLU"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "Dacoromode",
-        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Dj Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        }
-      ],
-      "duration_ms": 200039,
-      "name": "Ela joga no 7",
-      "url": "https://open.spotify.com/track/5vyu6cCIflFAmGZwnjyrq7"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
         "name": "Jovem Negro",
         "url": "https://open.spotify.com/album/2cSvynWbRrTEa0kHtYA2J9"
       },
@@ -1211,30 +1191,18 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Bem Vinda a SP",
-        "url": "https://open.spotify.com/album/5F57Uld3RPSV1X7KzRrYO9"
+        "name": "Amor de folclore",
+        "url": "https://open.spotify.com/album/14QrymLdO55Kjne9YnsPcJ"
       },
       "artists": [
         {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+          "name": "Bau\u00ea",
+          "url": "https://open.spotify.com/artist/5AK8aNLKdYAhdjJni1iecn"
         }
       ],
-      "duration_ms": 204137,
-      "name": "Bem Vinda a SP",
-      "url": "https://open.spotify.com/track/0EdDsbTrDZOaaxctEZiYEl"
+      "duration_ms": 150897,
+      "name": "Amor de folclore",
+      "url": "https://open.spotify.com/track/7HKeMdcJNYQMkqkEZ5cbLU"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -1279,26 +1247,62 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "DPP",
-        "url": "https://open.spotify.com/album/36YP6TxFyh8MUyBPSwHzWn"
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
       },
       "artists": [
         {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
-          "name": "sONTH",
-          "url": "https://open.spotify.com/artist/1d0DvzCeLWFfznOsLNvjL9"
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
         },
         {
-          "name": "Agostinhx",
-          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Dj Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
         }
       ],
-      "duration_ms": 151181,
-      "name": "DPP",
-      "url": "https://open.spotify.com/track/1BurY5wAAoV1vly4LHeW8Q"
+      "duration_ms": 200039,
+      "name": "Ela joga no 7",
+      "url": "https://open.spotify.com/track/5vyu6cCIflFAmGZwnjyrq7"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "Bem Vinda a SP",
+        "url": "https://open.spotify.com/album/5F57Uld3RPSV1X7KzRrYO9"
+      },
+      "artists": [
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "Bem Vinda a SP",
+      "url": "https://open.spotify.com/track/0EdDsbTrDZOaaxctEZiYEl"
     }
   ],
   "unique_name": "Cop\u00e3o na M\u00e3o",

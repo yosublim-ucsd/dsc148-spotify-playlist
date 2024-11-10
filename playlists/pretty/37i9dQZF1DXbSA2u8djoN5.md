@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: OG Eastbull,  NOUA UNSPE
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,255 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,264 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 33 | [Femei în Parlament](https://open.spotify.com/track/2xwMZvVmWGYV4rreWqE2z6) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Femei în Parlament](https://open.spotify.com/album/1uHW21qweyX6zr85irBPaD) | 2:50 |
 | 34 | [Dernière Cigarette](https://open.spotify.com/track/4ULGWCPPadrpPvWdumBHG1) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [Dernière Cigarette](https://open.spotify.com/album/7rU1pJ3SlmgdVMBoyIeaDy) | 2:54 |
 | 35 | [ZERO](https://open.spotify.com/track/3vDNT5H8VtKFgaDL0zD68Z) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [ZERO](https://open.spotify.com/album/6I5JKDtiXS8HvlLznCRfcY) | 2:40 |
-| 36 | [EU](https://open.spotify.com/track/5JQfyIDpWqhu5UBzKAo4na) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Ștefan IV: Umbra](https://open.spotify.com/album/5659zuqfAbbi2zIPziei9t) | 4:13 |
-| 37 | [Vise La Plic](https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Vise La Plic](https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m) | 2:46 |
+| 36 | [Vise La Plic](https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Vise La Plic](https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m) | 2:46 |
+| 37 | [EU](https://open.spotify.com/track/5JQfyIDpWqhu5UBzKAo4na) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Ștefan IV: Umbra](https://open.spotify.com/album/5659zuqfAbbi2zIPziei9t) | 4:13 |
 | 38 | [Am Zis Ceva](https://open.spotify.com/track/2u52GXrozwZePQ6EIVgz8C) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [Lexi Cali](https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8) | [Am Zis Ceva](https://open.spotify.com/album/3pwj7bk6zW9DCIlSPQYzDY) | 4:07 |
 | 39 | [BANII](https://open.spotify.com/track/6nkaMUq7nL9T7MOiGujLOX) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [BANII](https://open.spotify.com/album/41sBjeaAQxQP4fNcSWhBlJ) | 2:00 |
 | 40 | [GIN](https://open.spotify.com/track/1318xAofqd7PvgIrJ38hXl) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [HANNIBAL LECTER](https://open.spotify.com/album/5lluj4aH9jGUSgSUIUM90N) | 3:48 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 45 | [Transportin' \- Remix](https://open.spotify.com/track/27d3HuYPp6TgXyfPviO5fM) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Transportin' \(Remix\)](https://open.spotify.com/album/1OdBxAGHBnxdDaEVuGYXuN) | 2:14 |
 | 46 | [TURURU](https://open.spotify.com/track/5NybQDA5y4wEtRQKVZWBQw) | [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut), [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [TURURU](https://open.spotify.com/album/71Md4y07hO846ju9W6MVjK) | 2:19 |
 | 47 | [ȘTII…](https://open.spotify.com/track/1BhxROmMZpykm6qlc670SR) | [Tussin](https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ȘTII…](https://open.spotify.com/album/03fZeyHkQowEPjTjDdOeW4) | 3:28 |
-| 48 | [Geamu Jos](https://open.spotify.com/track/1DnIvjsDkZqUixC0DYC2zz) | [Shift](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy), [Ruby](https://open.spotify.com/artist/1kpfvsGkNIdxTAnTRnsKLK), [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO) | [Geamu Jos](https://open.spotify.com/album/0fX17ZEJoKEDL5fL6kNOhQ) | 2:31 |
-| 49 | [TRATAMENT](https://open.spotify.com/track/19JSoWk6dzSKStTjGa82D2) | [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR), [BLANCO](https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [TRATAMENT](https://open.spotify.com/album/1qQlk9GbpnRKfx8NfZnWg3) | 3:21 |
+| 48 | [TRATAMENT](https://open.spotify.com/track/19JSoWk6dzSKStTjGa82D2) | [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR), [BLANCO](https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [TRATAMENT](https://open.spotify.com/album/1qQlk9GbpnRKfx8NfZnWg3) | 3:21 |
+| 49 | [Geamu Jos](https://open.spotify.com/track/1DnIvjsDkZqUixC0DYC2zz) | [Shift](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy), [Ruby](https://open.spotify.com/artist/1kpfvsGkNIdxTAnTRnsKLK), [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO) | [Geamu Jos](https://open.spotify.com/album/0fX17ZEJoKEDL5fL6kNOhQ) | 2:31 |
 | 50 | [Soarele Răsare Din Nou](https://open.spotify.com/track/5Hpgzg7SEEZ7Iki4iMpjNG) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Soarele Răsare Din Nou](https://open.spotify.com/album/1eIojA6R1a9d7z5pJUkBEW) | 2:55 |
 
 Snapshot ID: `Zy04YAAAAAA7LvvyT+tYooJBkeStjKMB`

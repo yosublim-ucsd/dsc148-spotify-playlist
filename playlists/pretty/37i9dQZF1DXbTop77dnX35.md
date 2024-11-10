@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from FAVE  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,064 likes - 49 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,201 likes - 49 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 41 | [Show Me](https://open.spotify.com/track/1qhjtqVXebKjkDox1EO8A6) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Show Me](https://open.spotify.com/album/0ECHncfHA8v6E82AieF0kk) | 3:00 |
 | 42 | [Make Me Move](https://open.spotify.com/track/0oP0QY4hep9CCwZJ9jRwZd) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [Down In The Dirt](https://open.spotify.com/album/1VHJw1hxKnCopNKcK2M8z0) | 1:00 |
 | 43 | [Energy](https://open.spotify.com/track/5rbehkcInmD5MabIlx7dLq) | [Bils](https://open.spotify.com/artist/4ra22MalcoLKAIJwwkeJ8o) | [Energy](https://open.spotify.com/album/4L7KkH0uilef9YYXZwuK1q) | 2:04 |
-| 44 | [I Thank God](https://open.spotify.com/track/0wKEzaeCkWpV9KozmV1rgm) | [Dr Barz](https://open.spotify.com/artist/0BN4qjbm9AoaDOXGl0wX53), [Nazerene](https://open.spotify.com/artist/0CeuhcedvmCYpyI83tpdDc) | [I Thank God](https://open.spotify.com/album/5nznlazssE4a8MKXQSmMQW) | 2:28 |
+| 44 | [I Thank God](https://open.spotify.com/track/0wKEzaeCkWpV9KozmV1rgm) | [Dr Barz](https://open.spotify.com/artist/6EkYs8dTF0mOgaDtIpIzc8), [Nazerene](https://open.spotify.com/artist/0CeuhcedvmCYpyI83tpdDc) | [I Thank God](https://open.spotify.com/album/5nznlazssE4a8MKXQSmMQW) | 2:28 |
 | 45 | [Chioma](https://open.spotify.com/track/770hp1DjBzMtAviOEKBggH) | [Stalkar](https://open.spotify.com/artist/791VN71STImEqM3k93tzLI) | [Rhythm Of Life](https://open.spotify.com/album/1PylqI94cDLQDXLG3neA6u) | 2:31 |
 | 46 | [Sema Nami](https://open.spotify.com/track/4LH6QfIW1VnCSqVHYiXhO4) | [Aurie](https://open.spotify.com/artist/0mdtCl5QYMb1p4y24HJQi8) | [S'tori](https://open.spotify.com/album/4FxOsz3mcWnGN54Bjftq3e) | 2:29 |
 | 47 | [Ayufili Nah](https://open.spotify.com/track/6xy3DFVNV2qYdZ2vJrQLMk) | [Cee 2](https://open.spotify.com/artist/0UD0az0aCNW1TLX3vEkc9l), [AyTraQ](https://open.spotify.com/artist/0Yk4FK3u27GslPyZhbVQ3G) | [Ayufili Nah](https://open.spotify.com/album/3episDCiB4JjV1VuNTBF6E) | 2:18 |

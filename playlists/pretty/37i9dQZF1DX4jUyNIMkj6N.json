@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 208073,
+  "num_followers": 208118,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Malory",
-        "url": "https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7"
-      },
-      "artists": [
-        {
-          "name": "Martin Stahl",
-          "url": "https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l"
-        }
-      ],
-      "duration_ms": 178003,
-      "name": "Malory",
-      "url": "https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Innocent",
         "url": "https://open.spotify.com/album/42JWTAWXnwJx0Qmdcvpy6u"
       },
@@ -659,22 +643,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Soldier Song",
-        "url": "https://open.spotify.com/album/2eQmUvFYpkN2sIdgxOvalF"
+        "name": "Malory",
+        "url": "https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7"
       },
       "artists": [
         {
-          "name": "Elias R\u00f8nnenfelt",
-          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
-        },
-        {
-          "name": "Joanne Robertson",
-          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
+          "name": "Martin Stahl",
+          "url": "https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l"
         }
       ],
-      "duration_ms": 212352,
-      "name": "Soldier Song",
-      "url": "https://open.spotify.com/track/7cpq6ovqtMDVjUWw52aIYp"
+      "duration_ms": 178003,
+      "name": "Malory",
+      "url": "https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -707,6 +687,26 @@
       "duration_ms": 67112,
       "name": "Viking Fair",
       "url": "https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Soldier Song",
+        "url": "https://open.spotify.com/album/2eQmUvFYpkN2sIdgxOvalF"
+      },
+      "artists": [
+        {
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
+        },
+        {
+          "name": "Joanne Robertson",
+          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
+        }
+      ],
+      "duration_ms": 212352,
+      "name": "Soldier Song",
+      "url": "https://open.spotify.com/track/7cpq6ovqtMDVjUWw52aIYp"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Ordna sig",
+        "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
+      },
+      "artists": [
+        {
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
+        }
+      ],
+      "duration_ms": 151072,
+      "name": "Ordna sig",
+      "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Songs From The Woods",
         "url": "https://open.spotify.com/album/3ijVpnglTn2BBI6DTDcHRV"
       },
@@ -823,18 +839,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Ordna sig",
-        "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
+        "name": "Love Me One More Time",
+        "url": "https://open.spotify.com/album/2PY0w8l8TivHXSR6qc8LWA"
       },
       "artists": [
         {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
+          "name": "Jonas Wallin",
+          "url": "https://open.spotify.com/artist/1nj8AqytomxmHbAtYweL0w"
         }
       ],
-      "duration_ms": 151072,
-      "name": "Ordna sig",
-      "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
+      "duration_ms": 189154,
+      "name": "Love Me One More Time",
+      "url": "https://open.spotify.com/track/4bXsNJgYxshTRZHevGj18v"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -855,22 +871,6 @@
       "duration_ms": 232986,
       "name": "Halo",
       "url": "https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Love Me One More Time",
-        "url": "https://open.spotify.com/album/2PY0w8l8TivHXSR6qc8LWA"
-      },
-      "artists": [
-        {
-          "name": "Jonas Wallin",
-          "url": "https://open.spotify.com/artist/1nj8AqytomxmHbAtYweL0w"
-        }
-      ],
-      "duration_ms": 189154,
-      "name": "Love Me One More Time",
-      "url": "https://open.spotify.com/track/4bXsNJgYxshTRZHevGj18v"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "All of Me",
-        "url": "https://open.spotify.com/album/0wEaalS9Qna2fCrgnLMPDc"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 176793,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/0VFbizmhEILidyQBvPOjCx"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Everyone's In Love With You (Spotify Singles)",
         "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 251180,
       "name": "Doves",
       "url": "https://open.spotify.com/track/2ZAiqpVVlUNif9gKbhGLRW"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/0wEaalS9Qna2fCrgnLMPDc"
+      },
+      "artists": [
+        {
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
+        }
+      ],
+      "duration_ms": 176793,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/0VFbizmhEILidyQBvPOjCx"
     },
     {
       "added_at": "2024-11-07 23:00:00",

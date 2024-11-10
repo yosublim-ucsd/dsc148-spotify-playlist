@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! ",
-  "num_followers": 58240,
+  "num_followers": 58246,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-10-25 22:14:31",
       "album": {
+        "name": "You Make It Feel Like Christmas",
+        "url": "https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 201586,
+      "name": "Christmas Eve",
+      "url": "https://open.spotify.com/track/3GcyZQrG6hAqNmQsxjggj9"
+    },
+    {
+      "added_at": "2024-10-25 22:14:31",
+      "album": {
         "name": "Have Yourself a Merry Little Christmas / Bring Me Love",
         "url": "https://open.spotify.com/album/32m4D8KcGLcqAvTVIi90P1"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 223240,
       "name": "Have Yourself a Merry Little Christmas (feat. Esperanza Spalding)",
       "url": "https://open.spotify.com/track/67XXGKQrlBLCAg3gmHkamP"
-    },
-    {
-      "added_at": "2024-10-25 22:14:31",
-      "album": {
-        "name": "You Make It Feel Like Christmas",
-        "url": "https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        }
-      ],
-      "duration_ms": 201586,
-      "name": "Christmas Eve",
-      "url": "https://open.spotify.com/track/3GcyZQrG6hAqNmQsxjggj9"
     },
     {
       "added_at": "2024-10-25 22:14:31",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-10-25 22:14:31",
       "album": {
-        "name": "Joyeux No\u00ebl et bonne ann\u00e9e!",
-        "url": "https://open.spotify.com/album/2XGNMqMs4jnaNm6c2dIZAC"
-      },
-      "artists": [
-        {
-          "name": "Villeray",
-          "url": "https://open.spotify.com/artist/3TpVDpx6jmUNyU7KqP4nYP"
-        }
-      ],
-      "duration_ms": 147080,
-      "name": "Joyeux No\u00ebl et bonne ann\u00e9e!",
-      "url": "https://open.spotify.com/track/10chugYLrW9d5HzLcpm0w2"
-    },
-    {
-      "added_at": "2024-10-25 22:14:31",
-      "album": {
         "name": "No\u00ebl, C'est L'amour",
         "url": "https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 176106,
       "name": "Le P\u00e8re No\u00ebl C't'un Qu\u00e9b\u00e9cois",
       "url": "https://open.spotify.com/track/7adJp4379R1irkezIA3zjd"
+    },
+    {
+      "added_at": "2024-10-25 22:14:31",
+      "album": {
+        "name": "Joyeux No\u00ebl et bonne ann\u00e9e!",
+        "url": "https://open.spotify.com/album/2XGNMqMs4jnaNm6c2dIZAC"
+      },
+      "artists": [
+        {
+          "name": "Villeray",
+          "url": "https://open.spotify.com/artist/3TpVDpx6jmUNyU7KqP4nYP"
+        }
+      ],
+      "duration_ms": 147080,
+      "name": "Joyeux No\u00ebl et bonne ann\u00e9e!",
+      "url": "https://open.spotify.com/track/10chugYLrW9d5HzLcpm0w2"
     },
     {
       "added_at": "2024-10-25 22:14:31",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-10-25 22:14:31",
       "album": {
+        "name": "Christmas Kisses",
+        "url": "https://open.spotify.com/album/16QyojtQvepl4lllVn5r6Z"
+      },
+      "artists": [
+        {
+          "name": "Serena Ryder",
+          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
+        }
+      ],
+      "duration_ms": 207720,
+      "name": "Christmas Kisses",
+      "url": "https://open.spotify.com/track/2lcchJGDfGrzWAOlbxzulz"
+    },
+    {
+      "added_at": "2024-10-25 22:14:31",
+      "album": {
         "name": "Winter Song",
         "url": "https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE"
       },
@@ -1415,18 +1431,18 @@
     {
       "added_at": "2024-10-25 22:14:31",
       "album": {
-        "name": "Christmas Kisses",
-        "url": "https://open.spotify.com/album/16QyojtQvepl4lllVn5r6Z"
+        "name": "Qu\u00e9bec love : La collection",
+        "url": "https://open.spotify.com/album/25ZA9qudDjAWVjCZw45Ci8"
       },
       "artists": [
         {
-          "name": "Serena Ryder",
-          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
+          "name": "Tex Lecor",
+          "url": "https://open.spotify.com/artist/0NQFAOqyEmJJi6wFoBJcek"
         }
       ],
-      "duration_ms": 207720,
-      "name": "Christmas Kisses",
-      "url": "https://open.spotify.com/track/2lcchJGDfGrzWAOlbxzulz"
+      "duration_ms": 182026,
+      "name": "No\u00ebl au camp",
+      "url": "https://open.spotify.com/track/4zyf5yczO1tfFoURy1ztMe"
     },
     {
       "added_at": "2024-10-25 22:14:31",
@@ -1443,22 +1459,6 @@
       "duration_ms": 195504,
       "name": "No\u00ebl s'invite chez moi",
       "url": "https://open.spotify.com/track/73BqI9Ip6zXD23w2scAJ7T"
-    },
-    {
-      "added_at": "2024-10-25 22:14:31",
-      "album": {
-        "name": "Qu\u00e9bec love : La collection",
-        "url": "https://open.spotify.com/album/25ZA9qudDjAWVjCZw45Ci8"
-      },
-      "artists": [
-        {
-          "name": "Tex Lecor",
-          "url": "https://open.spotify.com/artist/0NQFAOqyEmJJi6wFoBJcek"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "No\u00ebl au camp",
-      "url": "https://open.spotify.com/track/4zyf5yczO1tfFoURy1ztMe"
     },
     {
       "added_at": "2024-10-25 22:14:31",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2024-10-25 22:14:31",
       "album": {
-        "name": "Chansons hivernales",
-        "url": "https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ"
+        "name": "Chante et raconte 25 d\u00e9cembre",
+        "url": "https://open.spotify.com/album/24YXjhjFSEmlsUvsq1BGuT"
       },
       "artists": [
         {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+          "name": "TRICOT MACHINE",
+          "url": "https://open.spotify.com/artist/2kWRtp0Ph5iKM1tJGvQid7"
         }
       ],
-      "duration_ms": 259146,
-      "name": "L'oiseau rare",
-      "url": "https://open.spotify.com/track/20p1ws0S4EYOSZ06RnM8sU"
+      "duration_ms": 166493,
+      "name": "Combien de No\u00ebl ?",
+      "url": "https://open.spotify.com/track/3upnLZFdITjaQau8oacUhW"
     }
   ],
   "unique_name": "No\u00ebl, No\u00ebl, No\u00ebl",

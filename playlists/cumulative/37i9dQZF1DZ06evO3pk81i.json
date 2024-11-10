@@ -107,6 +107,28 @@
     },
     {
       "album": {
+        "name": "Bailando (live)",
+        "url": "https://open.spotify.com/album/6Lkn484S5kgju6sHTZNkSP"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189867,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/5vMpOQIbok4RhCSdQT5LSI"
+    },
+    {
+      "album": {
         "name": "Beso - Spotify Singles",
         "url": "https://open.spotify.com/album/448r8kUAvwPVIjlxsSgkEs"
       },
@@ -1080,7 +1102,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 200250,
       "name": "Yaki",
       "url": "https://open.spotify.com/track/3oeo3KicNbMxNhQ48lSOad"

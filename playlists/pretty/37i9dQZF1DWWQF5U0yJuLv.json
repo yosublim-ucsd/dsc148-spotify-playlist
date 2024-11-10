@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 21659,
+  "num_followers": 21775,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -397,6 +397,22 @@
       "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
     },
     {
+      "added_at": "2024-04-19 17:55:00",
+      "album": {
+        "name": "Hornworm Metamorphosis",
+        "url": "https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Hornworm Metamorphosis",
+      "url": "https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq"
+    },
+    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Inner Song",
@@ -427,22 +443,6 @@
       "duration_ms": 232960,
       "name": "At Height",
       "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
-    },
-    {
-      "added_at": "2024-04-19 17:55:00",
-      "album": {
-        "name": "Hornworm Metamorphosis",
-        "url": "https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "Hornworm Metamorphosis",
-      "url": "https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/4Z8jptUDjJDuxBf0pSOvSi"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616",
-        "url": "https://open.spotify.com/album/5rO7uUV7bvnFYmHPc8QemY"
-      },
-      "artists": [
-        {
-          "name": "\u25b3\u2583\u25b3\u2593",
-          "url": "https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616",
-      "url": "https://open.spotify.com/track/0v2kIE5dfrMxQWhfRXWKPp"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Theory of Colours",
@@ -587,6 +571,22 @@
       "duration_ms": 327576,
       "name": "Theory of Colours",
       "url": "https://open.spotify.com/track/7nT24kprAb4l7tI5FSd9zU"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616",
+        "url": "https://open.spotify.com/album/5rO7uUV7bvnFYmHPc8QemY"
+      },
+      "artists": [
+        {
+          "name": "\u25b3\u2583\u25b3\u2593",
+          "url": "https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616\u061e\u09e2\u061e\u0616",
+      "url": "https://open.spotify.com/track/0v2kIE5dfrMxQWhfRXWKPp"
     },
     {
       "added_at": "2023-02-17 01:29:01",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/3Bt8RJQH4KGo1OjyXATkC9"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Truffles Sprinkles",
-        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 251333,
-      "name": "Truffles Sprinkles",
-      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "BIPP (Autechre Mx)",
@@ -863,6 +847,22 @@
       "duration_ms": 213332,
       "name": "BIPP - Autechre Mx",
       "url": "https://open.spotify.com/track/4tBdLWvYYr5IjJpvwiZr85"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Truffles Sprinkles",
+        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "Truffles Sprinkles",
+      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
     },
     {
       "added_at": "2023-08-29 01:12:43",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Lunatic Harness",
-        "url": "https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX"
-      },
-      "artists": [
-        {
-          "name": "\u00b5-Ziq",
-          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Mushroom Compost",
-      "url": "https://open.spotify.com/track/6oxaAXEPGRGYlakonZ0ZtV"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "Thirsts",
         "url": "https://open.spotify.com/album/1Ju3IMjyQFXsrStPmrZX7j"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 300000,
       "name": "Dancers",
       "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Lunatic Harness",
+        "url": "https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Mushroom Compost",
+      "url": "https://open.spotify.com/track/6oxaAXEPGRGYlakonZ0ZtV"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/72PjzX9gjNaKMMdiesyhvK"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Pure, Impure",
-        "url": "https://open.spotify.com/album/7C3flv2nzeBoNHVrptYz6o"
-      },
-      "artists": [
-        {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
-        }
-      ],
-      "duration_ms": 347800,
-      "name": "Moodswing",
-      "url": "https://open.spotify.com/track/5lztNaNPhBTrfygH1BO1W2"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Mahi Mahi",
@@ -1063,6 +1047,22 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Pure, Impure",
+        "url": "https://open.spotify.com/album/7C3flv2nzeBoNHVrptYz6o"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "duration_ms": 347800,
+      "name": "Moodswing",
+      "url": "https://open.spotify.com/track/5lztNaNPhBTrfygH1BO1W2"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1165,22 +1165,6 @@
       "url": "https://open.spotify.com/track/7y8FyoBIwkxSyfpIIcXYn8"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Green (SFX Version)",
-        "url": "https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
-        }
-      ],
-      "duration_ms": 321666,
-      "name": "GREEN",
-      "url": "https://open.spotify.com/track/4MoCSvcnlRpfMXUAd65LAB"
-    },
-    {
       "added_at": "2023-12-12 18:05:18",
       "album": {
         "name": "Extended Play No 1",
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Between Voids",
-        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
+        "name": "Green (SFX Version)",
+        "url": "https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w"
       },
       "artists": [
         {
-          "name": "Oils",
-          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
         }
       ],
-      "duration_ms": 268000,
-      "name": "The Psychedelic One",
-      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
+      "duration_ms": 321666,
+      "name": "GREEN",
+      "url": "https://open.spotify.com/track/4MoCSvcnlRpfMXUAd65LAB"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1227,6 +1211,22 @@
       "duration_ms": 280818,
       "name": "The Cheek of Daniel",
       "url": "https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Between Voids",
+        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
+      },
+      "artists": [
+        {
+          "name": "Oils",
+          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "The Psychedelic One",
+      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1357,22 +1357,6 @@
       "url": "https://open.spotify.com/track/2HvrDBDvUg3GD6f1z6OTAG"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Elaenia",
-        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 642653,
-      "name": "Silhouettes (I, II, III)",
-      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Onism",
@@ -1387,6 +1371,22 @@
       "duration_ms": 276318,
       "name": "Off-Piste",
       "url": "https://open.spotify.com/track/3Du0PkY1azjluiVSb9U5Ru"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Elaenia",
+        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 642653,
+      "name": "Silhouettes (I, II, III)",
+      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Comma",
-        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        }
-      ],
-      "duration_ms": 223750,
-      "name": "Summer Places",
-      "url": "https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "Jump & Shuffle (Live at the Hardware Store)",
         "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 202866,
       "name": "Jump & Shuffle - Live at the Hardware Store",
       "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        }
+      ],
+      "duration_ms": 223750,
+      "name": "Summer Places",
+      "url": "https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1711,22 +1711,6 @@
       "duration_ms": 312800,
       "name": "Sui Shop",
       "url": "https://open.spotify.com/track/5LWSgShNUgKx8qSafzP7Hz"
-    },
-    {
-      "added_at": "2024-08-14 16:50:39",
-      "album": {
-        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
-        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
-      },
-      "artists": [
-        {
-          "name": "Misha Panfilov",
-          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
-        }
-      ],
-      "duration_ms": 210007,
-      "name": "Journey to the Lemon Moon",
-      "url": "https://open.spotify.com/track/0fwylEIJLVpQH4WwI0E3Oy"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1747,6 +1731,22 @@
       "duration_ms": 195960,
       "name": "lux_",
       "url": "https://open.spotify.com/track/6PAV1uC2gERxuqdvjzYk7Z"
+    },
+    {
+      "added_at": "2024-08-14 16:50:39",
+      "album": {
+        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
+        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
+      },
+      "artists": [
+        {
+          "name": "Misha Panfilov",
+          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
+        }
+      ],
+      "duration_ms": 210007,
+      "name": "Journey to the Lemon Moon",
+      "url": "https://open.spotify.com/track/0fwylEIJLVpQH4WwI0E3Oy"
     },
     {
       "added_at": "2024-08-14 16:50:39",
@@ -2045,20 +2045,20 @@
       "url": "https://open.spotify.com/track/6YjlOZqj0Cy2JiyA8hy0jQ"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
+      "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "Meridians",
-        "url": "https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC"
+        "name": "The Gone Away",
+        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
       },
       "artists": [
         {
-          "name": "Holly Waxwing",
-          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
         }
       ],
-      "duration_ms": 304366,
-      "name": "Sister Species",
-      "url": "https://open.spotify.com/track/0xi81plszmA40tDw7cefN1"
+      "duration_ms": 228289,
+      "name": "Fol-de-rol",
+      "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -2077,20 +2077,20 @@
       "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
+      "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "The Gone Away",
-        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
+        "name": "Meridians",
+        "url": "https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC"
       },
       "artists": [
         {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+          "name": "Holly Waxwing",
+          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
         }
       ],
-      "duration_ms": 228289,
-      "name": "Fol-de-rol",
-      "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
+      "duration_ms": 304366,
+      "name": "Sister Species",
+      "url": "https://open.spotify.com/track/0xi81plszmA40tDw7cefN1"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Meridians",
-        "url": "https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC"
-      },
-      "artists": [
-        {
-          "name": "Holly Waxwing",
-          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
-        }
-      ],
-      "duration_ms": 283289,
-      "name": "Meridians",
-      "url": "https://open.spotify.com/track/0iJDit15B3kgxEvuSEzqK5"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "Bombaclaart",
         "url": "https://open.spotify.com/album/12iJQKMFIe4Tm1vRO4XpTz"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 84955,
       "name": "Bombaclaart",
       "url": "https://open.spotify.com/track/77vBKTetBxPgaxG6qg6yiw"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Meridians",
+        "url": "https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC"
+      },
+      "artists": [
+        {
+          "name": "Holly Waxwing",
+          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
+        }
+      ],
+      "duration_ms": 283289,
+      "name": "Meridians",
+      "url": "https://open.spotify.com/track/0iJDit15B3kgxEvuSEzqK5"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2275,6 +2275,22 @@
       "duration_ms": 350666,
       "name": "Tech",
       "url": "https://open.spotify.com/track/2enH7L13QJWB6usbJadzSw"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Ikiru",
+        "url": "https://open.spotify.com/album/18fNJzLNa7AJfp96UnWZgj"
+      },
+      "artists": [
+        {
+          "name": "Thoma",
+          "url": "https://open.spotify.com/artist/4e8ExN8iJrXnycI51N1Cxb"
+        }
+      ],
+      "duration_ms": 223375,
+      "name": "Ikiru",
+      "url": "https://open.spotify.com/track/4DoD7xxnOmsxNyH57jue9y"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -2335,22 +2351,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Kelly Lee Owens",
-        "url": "https://open.spotify.com/album/7z6fUAxSNYLKEkxrcPcfZx"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        }
-      ],
-      "duration_ms": 315266,
-      "name": "Bird",
-      "url": "https://open.spotify.com/track/5FauIrURBh6U8fWJAffI9P"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "Hi Scores",
         "url": "https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii"
       },
@@ -2365,20 +2365,20 @@
       "url": "https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
+      "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Ikiru",
-        "url": "https://open.spotify.com/album/18fNJzLNa7AJfp96UnWZgj"
+        "name": "Kelly Lee Owens",
+        "url": "https://open.spotify.com/album/7z6fUAxSNYLKEkxrcPcfZx"
       },
       "artists": [
         {
-          "name": "Thoma",
-          "url": "https://open.spotify.com/artist/4e8ExN8iJrXnycI51N1Cxb"
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
         }
       ],
-      "duration_ms": 223375,
-      "name": "Ikiru",
-      "url": "https://open.spotify.com/track/4DoD7xxnOmsxNyH57jue9y"
+      "duration_ms": 315266,
+      "name": "Bird",
+      "url": "https://open.spotify.com/track/5FauIrURBh6U8fWJAffI9P"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -2419,6 +2419,22 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
+        "name": "Rest Proof Clockwork",
+        "url": "https://open.spotify.com/album/4IkvCDzidC5XbElsN1SUsg"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        }
+      ],
+      "duration_ms": 326480,
+      "name": "Shackbu",
+      "url": "https://open.spotify.com/track/4KLgwgZ7pQyIp388qmGCFB"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
         "name": "Midi Sans Frontieres (Avec Batterie)",
         "url": "https://open.spotify.com/album/5lUzv71igw2aj6LQFJ1uww"
       },
@@ -2431,22 +2447,6 @@
       "duration_ms": 360690,
       "name": "Midi Sans Frontieres (Avec Batterie)",
       "url": "https://open.spotify.com/track/51otAp4ocieYr1ogeg4Why"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "People On Sunday",
-        "url": "https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H"
-      },
-      "artists": [
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
-        }
-      ],
-      "duration_ms": 107745,
-      "name": "Merry-Go-Round",
-      "url": "https://open.spotify.com/track/0zgRWhoG9aNUEZu4Sd6Suf"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2481,20 +2481,20 @@
       "url": "https://open.spotify.com/track/1l36C1nispFZoAkCFcrZ5j"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
+      "added_at": "2023-02-17 01:53:11",
       "album": {
-        "name": "Rest Proof Clockwork",
-        "url": "https://open.spotify.com/album/4IkvCDzidC5XbElsN1SUsg"
+        "name": "People On Sunday",
+        "url": "https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H"
       },
       "artists": [
         {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
         }
       ],
-      "duration_ms": 326480,
-      "name": "Shackbu",
-      "url": "https://open.spotify.com/track/4KLgwgZ7pQyIp388qmGCFB"
+      "duration_ms": 107745,
+      "name": "Merry-Go-Round",
+      "url": "https://open.spotify.com/track/0zgRWhoG9aNUEZu4Sd6Suf"
     }
   ],
   "unique_name": "Quirktronica",

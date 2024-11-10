@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\]](https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\]](https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST) | 3:38 | 2023-05-26 |  |
+| [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\] \- Demo](https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\] \[Demo\]](https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST) | 3:38 | 2023-05-26 |  |
 | [4AM \(feat\. HOLT.\)](https://open.spotify.com/track/5Wg6cZxFJ1xkaWGNUUuIOc) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [Strawtown](https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu) | 3:14 | 2021-12-03 | 2023-06-17 |
 | [A Little More Lost](https://open.spotify.com/track/2Y9p7cLtnsUjL43uM5C0UG) | [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [A Little More Lost](https://open.spotify.com/album/4mAllDoY6J7ks6Gks3Vozw) | 2:42 | 2023-11-10 | 2024-04-19 |
 | [about you](https://open.spotify.com/track/0Vzrki9UXx6emkXnhNKvG2) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [about you](https://open.spotify.com/album/1XEwApeQfsu29aMeXHHuYe) | 2:47 | 2022-03-11 |  |

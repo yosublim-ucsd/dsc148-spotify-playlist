@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/2WDSk4ZbwCw2E99XV6gkRk?si=dH4kgps7SiqBPx2o\_ern8Q">BeMyFiasco</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,039 likes - 321 songs - 15 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,070 likes - 321 songs - 15 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

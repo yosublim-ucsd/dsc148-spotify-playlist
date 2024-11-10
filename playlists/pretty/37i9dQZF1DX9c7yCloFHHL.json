@@ -1,6 +1,6 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Jon Hopkins on cover.",
-  "num_followers": 198437,
+  "num_followers": 198509,
   "original_name": "Ambient X",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-10-25 11:56:33",
       "album": {
-        "name": "th1 [evnslower]",
-        "url": "https://open.spotify.com/album/4YrOrQxWlHQxwvkW0GvEu4"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 668246,
-      "name": "th1 [evnslower]",
-      "url": "https://open.spotify.com/track/1LtfK8H5kL6ZsMd2JWC2KG"
-    },
-    {
-      "added_at": "2024-10-25 11:56:33",
-      "album": {
         "name": "paradox",
         "url": "https://open.spotify.com/album/2k9DkBdiToaatxmdfl9HkF"
       },
@@ -463,22 +447,34 @@
     {
       "added_at": "2024-10-25 11:56:33",
       "album": {
-        "name": "Leave Your Memories Behind",
-        "url": "https://open.spotify.com/album/3jzpsBUHS0r7yn7PgKMvlS"
+        "name": "th1 [evnslower]",
+        "url": "https://open.spotify.com/album/4YrOrQxWlHQxwvkW0GvEu4"
       },
       "artists": [
         {
-          "name": "Nectry",
-          "url": "https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG"
-        },
-        {
-          "name": "Antent",
-          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 143483,
-      "name": "Shards",
-      "url": "https://open.spotify.com/track/06djq5wohrG47TNFMVm9rv"
+      "duration_ms": 668246,
+      "name": "th1 [evnslower]",
+      "url": "https://open.spotify.com/track/1LtfK8H5kL6ZsMd2JWC2KG"
+    },
+    {
+      "added_at": "2024-10-25 11:56:33",
+      "album": {
+        "name": "New Blue Sun",
+        "url": "https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "duration_ms": 229534,
+      "name": "Ninety Three 'Til Infinity And Beyonc\u00e9",
+      "url": "https://open.spotify.com/track/0LVCuBsPmGaYvGV3IOMXFy"
     },
     {
       "added_at": "2024-10-25 11:56:33",
@@ -503,18 +499,22 @@
     {
       "added_at": "2024-10-25 11:56:33",
       "album": {
-        "name": "New Blue Sun",
-        "url": "https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD"
+        "name": "Leave Your Memories Behind",
+        "url": "https://open.spotify.com/album/3jzpsBUHS0r7yn7PgKMvlS"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+          "name": "Nectry",
+          "url": "https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG"
+        },
+        {
+          "name": "Antent",
+          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
         }
       ],
-      "duration_ms": 229534,
-      "name": "Ninety Three 'Til Infinity And Beyonc\u00e9",
-      "url": "https://open.spotify.com/track/0LVCuBsPmGaYvGV3IOMXFy"
+      "duration_ms": 143483,
+      "name": "Shards",
+      "url": "https://open.spotify.com/track/06djq5wohrG47TNFMVm9rv"
     },
     {
       "added_at": "2024-10-25 11:56:33",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-10-25 11:56:33",
       "album": {
-        "name": "New Blue Sun",
-        "url": "https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
-        }
-      ],
-      "duration_ms": 402473,
-      "name": "Ants To You, Gods To Who ?",
-      "url": "https://open.spotify.com/track/1M4x0ug19s7nSFYzjhBKTI"
-    },
-    {
-      "added_at": "2024-10-25 11:56:33",
-      "album": {
         "name": "Movement VII",
         "url": "https://open.spotify.com/album/0ujk8QGeteu9u4Ntm5JbYp"
       },
@@ -659,6 +643,22 @@
     {
       "added_at": "2024-10-25 11:56:33",
       "album": {
+        "name": "New Blue Sun",
+        "url": "https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "duration_ms": 402473,
+      "name": "Ants To You, Gods To Who ?",
+      "url": "https://open.spotify.com/track/1M4x0ug19s7nSFYzjhBKTI"
+    },
+    {
+      "added_at": "2024-10-25 11:56:33",
+      "album": {
         "name": "Vast (ANNA Remix)",
         "url": "https://open.spotify.com/album/0m4Z3Ku62Qd4NkQCvSeRiD"
       },
@@ -679,26 +679,6 @@
       "duration_ms": 206769,
       "name": "Vast - ANNA Remix",
       "url": "https://open.spotify.com/track/3rES34MzcM8hnKW9y2EzpH"
-    },
-    {
-      "added_at": "2024-10-25 11:56:33",
-      "album": {
-        "name": "regrets",
-        "url": "https://open.spotify.com/album/6onJVnXQHyqMAgc3B0CEhF"
-      },
-      "artists": [
-        {
-          "name": "trapeia",
-          "url": "https://open.spotify.com/artist/3Mp6p8ztSdDRvf4qg9cqbD"
-        },
-        {
-          "name": "Raynix",
-          "url": "https://open.spotify.com/artist/4p8meLEzf4g5KrS0OxY3t3"
-        }
-      ],
-      "duration_ms": 136145,
-      "name": "regrets - Slowed",
-      "url": "https://open.spotify.com/track/7KlnTSf5iLWUpYJCLRONLx"
     },
     {
       "added_at": "2024-10-25 11:56:33",
@@ -747,6 +727,26 @@
       "duration_ms": 112204,
       "name": "Waterfalling",
       "url": "https://open.spotify.com/track/7Mh2MCqhXQprlpdnu630Si"
+    },
+    {
+      "added_at": "2024-10-25 11:56:33",
+      "album": {
+        "name": "regrets",
+        "url": "https://open.spotify.com/album/6onJVnXQHyqMAgc3B0CEhF"
+      },
+      "artists": [
+        {
+          "name": "trapeia",
+          "url": "https://open.spotify.com/artist/3Mp6p8ztSdDRvf4qg9cqbD"
+        },
+        {
+          "name": "Raynix",
+          "url": "https://open.spotify.com/artist/4p8meLEzf4g5KrS0OxY3t3"
+        }
+      ],
+      "duration_ms": 136145,
+      "name": "regrets - Slowed",
+      "url": "https://open.spotify.com/track/7KlnTSf5iLWUpYJCLRONLx"
     },
     {
       "added_at": "2024-10-25 11:56:33",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-10-25 11:56:33",
       "album": {
-        "name": "Biologica, Volume One (Water)",
-        "url": "https://open.spotify.com/album/3Sm17KhWd2g1ssYL1425mq"
-      },
-      "artists": [
-        {
-          "name": "slowave",
-          "url": "https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65"
-        }
-      ],
-      "duration_ms": 156073,
-      "name": "12121",
-      "url": "https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0"
-    },
-    {
-      "added_at": "2024-10-25 11:56:33",
-      "album": {
         "name": "Dustlight / \u5149\u306e\u5875 / Afterglow",
         "url": "https://open.spotify.com/album/577opext6ZuqRDwowBmMdc"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 228956,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/6WCKd0zx7GsMHPufGt8rzG"
+    },
+    {
+      "added_at": "2024-10-25 11:56:33",
+      "album": {
+        "name": "Biologica, Volume One (Water)",
+        "url": "https://open.spotify.com/album/3Sm17KhWd2g1ssYL1425mq"
+      },
+      "artists": [
+        {
+          "name": "slowave",
+          "url": "https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65"
+        }
+      ],
+      "duration_ms": 156073,
+      "name": "12121",
+      "url": "https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0"
     },
     {
       "added_at": "2024-10-25 11:56:33",
@@ -1115,6 +1115,22 @@
       "duration_ms": 243599,
       "name": "Desire Path",
       "url": "https://open.spotify.com/track/3yZ3SScbUH78WBJnq11kte"
+    },
+    {
+      "added_at": "2024-10-25 11:56:33",
+      "album": {
+        "name": "Places (Rerecorded)",
+        "url": "https://open.spotify.com/album/1Oxo6zLZx9IcMJKnKNAaqO"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 158774,
+      "name": "Places - Rerecorded",
+      "url": "https://open.spotify.com/track/56o6ehGMe1PijKh5mTfHi6"
     },
     {
       "added_at": "2024-10-25 11:56:33",
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2024-10-25 11:56:33",
       "album": {
-        "name": "Places (Rerecorded)",
-        "url": "https://open.spotify.com/album/1Oxo6zLZx9IcMJKnKNAaqO"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 158774,
-      "name": "Places - Rerecorded",
-      "url": "https://open.spotify.com/track/56o6ehGMe1PijKh5mTfHi6"
-    },
-    {
-      "added_at": "2024-10-25 11:56:33",
-      "album": {
         "name": "All I Hear Is Birds (Focus Rework)",
         "url": "https://open.spotify.com/album/4t4tCii62BbElIz6tqy2FJ"
       },
@@ -1235,8 +1235,24 @@
     {
       "added_at": "2024-10-25 11:56:33",
       "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
+        "name": "Who Tends a Garden",
+        "url": "https://open.spotify.com/album/6CPGzcPxekd5T5s17Ak34R"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 205174,
+      "name": "Of Woods and Seas",
+      "url": "https://open.spotify.com/track/3TnEd5mpduI0zdX3qbXVup"
+    },
+    {
+      "added_at": "2024-10-25 11:56:33",
+      "album": {
+        "name": "Two Chambers",
+        "url": "https://open.spotify.com/album/4viTrVrcTVzwKkij5M2Ma4"
       },
       "artists": [
         {
@@ -1244,9 +1260,9 @@
           "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
         }
       ],
-      "duration_ms": 361854,
-      "name": "Vespera",
-      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
+      "duration_ms": 223333,
+      "name": "Two Chambers",
+      "url": "https://open.spotify.com/track/442mGdH9pCBKByOuC6z0V5"
     },
     {
       "added_at": "2024-10-25 11:56:33",
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2024-10-25 11:56:33",
       "album": {
-        "name": "Who Tends a Garden",
-        "url": "https://open.spotify.com/album/6CPGzcPxekd5T5s17Ak34R"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 205174,
-      "name": "Of Woods and Seas",
-      "url": "https://open.spotify.com/track/3TnEd5mpduI0zdX3qbXVup"
-    },
-    {
-      "added_at": "2024-10-25 11:56:33",
-      "album": {
         "name": "Whatever The Weather",
         "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
       },
@@ -1351,8 +1351,8 @@
     {
       "added_at": "2024-10-25 11:56:33",
       "album": {
-        "name": "Two Chambers",
-        "url": "https://open.spotify.com/album/4viTrVrcTVzwKkij5M2Ma4"
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
       },
       "artists": [
         {
@@ -1360,9 +1360,9 @@
           "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
         }
       ],
-      "duration_ms": 223333,
-      "name": "Two Chambers",
-      "url": "https://open.spotify.com/track/442mGdH9pCBKByOuC6z0V5"
+      "duration_ms": 361854,
+      "name": "Vespera",
+      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
     },
     {
       "added_at": "2024-10-25 11:56:33",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-10-25 11:56:33",
       "album": {
-        "name": "Mycelium",
-        "url": "https://open.spotify.com/album/2YncKGBm21QkOrfWnterb9"
-      },
-      "artists": [
-        {
-          "name": "Preslav Literary School",
-          "url": "https://open.spotify.com/artist/2i5ykOuXu6SytWoJw7MFJY"
-        }
-      ],
-      "duration_ms": 74181,
-      "name": "Golden Waxcap",
-      "url": "https://open.spotify.com/track/0NP6SNyOxJnvjNIvMVNDPt"
-    },
-    {
-      "added_at": "2024-10-25 11:56:33",
-      "album": {
         "name": "the farthest star",
         "url": "https://open.spotify.com/album/2VTdWcEuX2u5q9cuuqLN91"
       },
@@ -1715,22 +1699,18 @@
     {
       "added_at": "2024-10-25 11:56:33",
       "album": {
-        "name": "Receiving",
-        "url": "https://open.spotify.com/album/0UENXvfeFXBs70PjI5DGY0"
+        "name": "Mycelium",
+        "url": "https://open.spotify.com/album/2YncKGBm21QkOrfWnterb9"
       },
       "artists": [
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
-        },
-        {
-          "name": "Laraaji",
-          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+          "name": "Preslav Literary School",
+          "url": "https://open.spotify.com/artist/2i5ykOuXu6SytWoJw7MFJY"
         }
       ],
-      "duration_ms": 427266,
-      "name": "Receiving",
-      "url": "https://open.spotify.com/track/2G1GDfDZtPMAOH2JXC3t1r"
+      "duration_ms": 74181,
+      "name": "Golden Waxcap",
+      "url": "https://open.spotify.com/track/0NP6SNyOxJnvjNIvMVNDPt"
     },
     {
       "added_at": "2024-10-25 11:56:33",
@@ -1755,18 +1735,22 @@
     {
       "added_at": "2024-10-25 11:56:33",
       "album": {
-        "name": "Constellation No. 3",
-        "url": "https://open.spotify.com/album/05pAe2X5t1bWgk3uUuI6WW"
+        "name": "Receiving",
+        "url": "https://open.spotify.com/album/0UENXvfeFXBs70PjI5DGY0"
       },
       "artists": [
         {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        },
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
         }
       ],
-      "duration_ms": 436714,
-      "name": "Constellation No. 3",
-      "url": "https://open.spotify.com/track/0zmOab808L0fjCrBh1vXTq"
+      "duration_ms": 427266,
+      "name": "Receiving",
+      "url": "https://open.spotify.com/track/2G1GDfDZtPMAOH2JXC3t1r"
     },
     {
       "added_at": "2024-10-25 11:56:33",
@@ -1795,6 +1779,22 @@
     {
       "added_at": "2024-10-25 11:56:33",
       "album": {
+        "name": "Constellation No. 3",
+        "url": "https://open.spotify.com/album/05pAe2X5t1bWgk3uUuI6WW"
+      },
+      "artists": [
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        }
+      ],
+      "duration_ms": 436714,
+      "name": "Constellation No. 3",
+      "url": "https://open.spotify.com/track/0zmOab808L0fjCrBh1vXTq"
+    },
+    {
+      "added_at": "2024-10-25 11:56:33",
+      "album": {
         "name": "Mycelium",
         "url": "https://open.spotify.com/album/2YncKGBm21QkOrfWnterb9"
       },
@@ -1811,18 +1811,22 @@
     {
       "added_at": "2024-10-25 11:56:33",
       "album": {
-        "name": "The Notional Pastures Of Imaginary Softwoods",
-        "url": "https://open.spotify.com/album/0vvcrzqhK863dC57xgEk86"
+        "name": "Rewilding",
+        "url": "https://open.spotify.com/album/1UwfWjDbi8fDvUPjpo9LQD"
       },
       "artists": [
         {
-          "name": "Imaginary Softwoods",
-          "url": "https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG"
+          "name": "Ba\u015fak G\u00fcnak",
+          "url": "https://open.spotify.com/artist/13NtiBSQa2IRMON1b7IO0u"
+        },
+        {
+          "name": "Ah! Kosmos",
+          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
         }
       ],
-      "duration_ms": 118260,
-      "name": "Chalked Outlines Of A Polybius Square",
-      "url": "https://open.spotify.com/track/2rA03vls6ZXmEfPPj1Qjml"
+      "duration_ms": 127937,
+      "name": "Rewilding",
+      "url": "https://open.spotify.com/track/5EBvFuG3abPnQEqxbX38o4"
     }
   ],
   "unique_name": "Ambient X",

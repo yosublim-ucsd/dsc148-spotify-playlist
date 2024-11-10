@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 > "Tu vas me quitter encore longtemps ?" d'Hoshi est le Grand Hit de la semaine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,014,289 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,014,337 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,33 +1,13 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1640528,
+  "num_followers": 1640527,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZywDAAAAAADrMtTx53K9StdS9SE6cQOC",
+  "snapshot_id": "Zy1UgAAAAABypSm5jvIlsPgEDpouel9Z",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "When I Grow Up (Young, Wild, & Free)",
-        "url": "https://open.spotify.com/album/0wAvinEDstgyEyf3Txrw0Z"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 140660,
-      "name": "When I Grow Up (Young, Wild, & Free)",
-      "url": "https://open.spotify.com/track/45eYAsl4BoGXERKu1NurjG"
-    },
     {
       "added_at": null,
       "album": {
@@ -523,6 +503,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "When I Grow Up (Young, Wild, & Free)",
+        "url": "https://open.spotify.com/album/0wAvinEDstgyEyf3Txrw0Z"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 140660,
+      "name": "When I Grow Up (Young, Wild, & Free)",
+      "url": "https://open.spotify.com/track/45eYAsl4BoGXERKu1NurjG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Drum",
         "url": "https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H"
       },
@@ -623,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Neon Nights",
+        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 202719,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/572PPqti4bqGpqEnsWFlIu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thick Of It All",
         "url": "https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 199720,
       "name": "Thick Of It All",
       "url": "https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Neon Nights",
-        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 202719,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/572PPqti4bqGpqEnsWFlIu"
     },
     {
       "added_at": null,
@@ -1071,26 +1071,6 @@
       "duration_ms": 180999,
       "name": "Team Side Feat. RCB",
       "url": "https://open.spotify.com/track/4YHA0wXklru86h1N211Ywh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walkerworld",
-        "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
-        }
-      ],
-      "duration_ms": 161097,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/0CSLSbNaWiSnaXQ5h5lmWm"
     }
   ],
   "unique_name": "This Is Alan Walker",

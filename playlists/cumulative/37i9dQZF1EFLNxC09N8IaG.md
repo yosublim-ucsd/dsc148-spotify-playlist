@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-178 songs - 10 hr 20 min
+179 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Rainbow](https://open.spotify.com/track/3EPfBCFsE5DzOG5xZGAXcZ) | [Run The World](https://open.spotify.com/artist/0cInwP8nWQOIaTXvjbnh7M), [Jam Jr.](https://open.spotify.com/artist/1XCnotN3MszWUMW7BdXc1u) | [Run The World](https://open.spotify.com/album/0jlbQ2PsLtIzya4g9xuKul) | 2:58 | 2024-06-11 |  |
 | [Raindrops](https://open.spotify.com/track/5WCqzS7dZp9XLb5IdVGxqH) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Messy Little Raindrops](https://open.spotify.com/album/1oqE0q5ajF0gAj17OGjXz8) | 3:29 | 2024-06-11 |  |
 | [Respect Yourself \- Single Edit](https://open.spotify.com/track/7neZIzWa2nLzl1RFN636Ff) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Short Stax, Vol\. 7](https://open.spotify.com/album/3Bwk9OcKHF8x9SC5jRLyNn) | 3:31 | 2024-06-11 |  |
+| [Revenge](https://open.spotify.com/track/6FLvm4tT3QcTSIA4thfbut) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 4:14 | 2024-11-09 |  |
 | [RICH](https://open.spotify.com/track/5zrKviCOmCeuBS8KfJXoM7) | [Raven & Kreyn](https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh) | [RICH](https://open.spotify.com/album/7KK8se4Rp7J8jMsl3iDizR) | 2:30 | 2024-06-11 |  |
 | [Risk It All](https://open.spotify.com/track/7jDwn8Uc7ijT0SdVHPGs2q) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Woman](https://open.spotify.com/album/6RoTHNbxFtxUejrmNiKMMa) | 4:46 | 2024-06-11 |  |
 | [River](https://open.spotify.com/track/3ZAbzT3EIBAM4pDB6pD8V6) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind \(Deluxe Edition\)](https://open.spotify.com/album/7E4Zm8sWQgkGyOm2v4d9D4) | 3:11 | 2024-06-11 |  |

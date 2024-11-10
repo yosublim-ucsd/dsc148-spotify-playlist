@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas",
-  "num_followers": 86835,
+  "num_followers": 86843,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY"
+      },
+      "artists": [
+        {
+          "name": "Cielito Drive",
+          "url": "https://open.spotify.com/artist/1QplpI4W7QuaxzxEpjKayY"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Voy a Olvidarme de M\u00ed",
         "url": "https://open.spotify.com/album/2C2OEnCEHih9ZQQ20VSkoJ"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 230237,
       "name": "Rocal",
       "url": "https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY"
-      },
-      "artists": [
-        {
-          "name": "Cielito Drive",
-          "url": "https://open.spotify.com/artist/1QplpI4W7QuaxzxEpjKayY"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Hoy",
-      "url": "https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -943,8 +943,8 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "La Fuente",
-        "url": "https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT"
+        "name": "Dallas",
+        "url": "https://open.spotify.com/album/50IXZEy0pidYPuFaGAfpOI"
       },
       "artists": [
         {
@@ -952,41 +952,9 @@
           "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
         }
       ],
-      "duration_ms": 327296,
-      "name": "La Fuente",
-      "url": "https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Apolog\u00eda de una Amigdala Inflamada",
-        "url": "https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ"
-      },
-      "artists": [
-        {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "Apolog\u00eda de una Amigdala Inflamada",
-      "url": "https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Estallados",
-        "url": "https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr"
-      },
-      "artists": [
-        {
-          "name": "Los Ni\u00f1os Telepaticos",
-          "url": "https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Estallados",
-      "url": "https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS"
+      "duration_ms": 226451,
+      "name": "Dallas",
+      "url": "https://open.spotify.com/track/5gWDL9ifXbf7InGMldaWOm"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -1007,6 +975,38 @@
       "duration_ms": 183539,
       "name": "Desierto",
       "url": "https://open.spotify.com/track/3Amv0UJc2xJ7YZuhCCSM5i"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Apolog\u00eda de una Amigdala Inflamada",
+        "url": "https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "Apolog\u00eda de una Amigdala Inflamada",
+      "url": "https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "This Is War",
+        "url": "https://open.spotify.com/album/4RGwN6ElLSAlm9sWrkKcgd"
+      },
+      "artists": [
+        {
+          "name": "Superlitio",
+          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
+        }
+      ],
+      "duration_ms": 226945,
+      "name": "This Is War",
+      "url": "https://open.spotify.com/track/5piZGfIPJBGKuUzmfEPjvq"
     }
   ],
   "unique_name": "Rock Colombia",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: King Stingray
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,627 likes - 83 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,654 likes - 83 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 8 | [Syrup Sandwiches \(feat\. Joey Bada$$\)](https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Syrup Sandwiches \(feat\. Joey Bada$$\)](https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i) | 2:53 |
 | 9 | [Exceptional](https://open.spotify.com/track/5HCwsAQT7hnBdIefIettuq) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [Exceptional](https://open.spotify.com/album/0ds94I7AsIIE5UzYzKiNtz) | 3:13 |
 | 10 | [Somebody New](https://open.spotify.com/track/6nZ7OxSAEQ9MDRpujyKugb) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Somebody New](https://open.spotify.com/album/1Y0HZbb6ZV7FGKMrFEoWdj) | 3:05 |
-| 11 | [For Me](https://open.spotify.com/track/2mo4wJKJJR2lQCZYnTaI4Y) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Nardy World](https://open.spotify.com/album/546FvdeuoSf9FA2o6RMpOy) | 3:23 |
+| 11 | [For Me \(with Brent Faiyaz\)](https://open.spotify.com/track/2mo4wJKJJR2lQCZYnTaI4Y) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Nardy World](https://open.spotify.com/album/546FvdeuoSf9FA2o6RMpOy) | 3:23 |
 | 12 | [love you more](https://open.spotify.com/track/6lGyKdsX8VQpWIe6Bf3iaa) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL), [Jake Amy](https://open.spotify.com/artist/0l3S7lX3Tx1oHawkWZv4Gz), [Anthony Liddell](https://open.spotify.com/artist/5EROmQprkIlm8uVLWjo3Ql) | [love you more](https://open.spotify.com/album/6xd4NcJWAoxQnpWwjfeT1b) | 2:19 |
 | 13 | [BOOTS](https://open.spotify.com/track/4bucHejFAjKuMAQ4bU8fqg) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [BOOTS](https://open.spotify.com/album/0h2VDVB4yE4JTdTKeUL7Bu) | 3:19 |
 | 14 | [Pull The Trigger](https://open.spotify.com/track/7tjUniE32n551Jr9Ok5Pxq) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Pull The Trigger](https://open.spotify.com/album/3H0Rg7tKM2kzmIHiSeQ9qI) | 3:37 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 34 | [Dallas](https://open.spotify.com/track/0ZC12m6kUhU0gWGXD5VkVs) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Dallas](https://open.spotify.com/album/2ett4tFMejclvi2k8in5J4) | 2:56 |
 | 35 | [Bare Minimum](https://open.spotify.com/track/0DdrbCILKXOEd4xAAC96bT) | [TANISHA](https://open.spotify.com/artist/5ZrJiyoPJ1n2pkTTb3YyBv) | [ON MY TERMS](https://open.spotify.com/album/3fHTko37hF9Fsuy7A4Qq74) | 3:39 |
 | 36 | [Small Town Syndrome](https://open.spotify.com/track/1iF43TRxhGRq1ZUCnHrjXr) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Make Them Suffer](https://open.spotify.com/album/4IlFCPiC0DlO0wip7BjQwr) | 3:48 |
-| 37 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 |
+| 37 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX), [David Parry](https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD), [Dekel Adin](https://open.spotify.com/artist/27xyFvRoUUYKOPiY47BbZ9), [Ziv Yamin](https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 |
 | 38 | [KILLER!](https://open.spotify.com/track/62VMrTv6dQ4YCNP2GNPm8N) | [Karina Savage](https://open.spotify.com/artist/1Omhe6WyATIf4ZurfsumKr) | [KILLER!](https://open.spotify.com/album/2pmIzzuIMDDT1QoZl98eQU) | 3:25 |
 | 39 | [Ask For More](https://open.spotify.com/track/6Oh43MvcSyaaISNavkrWRY) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Ask For More](https://open.spotify.com/album/40b0NxBgLmgd07ZPOmNfAs) | 2:57 |
 | 40 | [yoyo](https://open.spotify.com/track/6DNVY8fSGfbK28aO0qhIbG) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [about dancing](https://open.spotify.com/album/3w7vFCsg2T4ft0HjvoDTdy) | 2:37 |

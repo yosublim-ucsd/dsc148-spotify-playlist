@@ -1,12 +1,12 @@
 {
   "description": "pearls of an oyster. Cover: Tyler, The Creator",
-  "num_followers": 145790,
+  "num_followers": 145827,
   "original_name": "Oyster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy1GcAAAAABVXXjDQqNR9swMoehNpxgX",
+  "snapshot_id": "Zy9SJAAAAADo5ND/qYiNKh33wSTSI5I1",
   "tracks": [
     {
       "added_at": "2024-11-07 23:00:00",
@@ -151,6 +151,22 @@
       "duration_ms": 152610,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/27nj0mfyXhW6OUru2vARIi"
+    },
+    {
+      "added_at": "2024-11-09 12:14:28",
+      "album": {
+        "name": "Happy Life Go!",
+        "url": "https://open.spotify.com/album/5elFqU3q3kuUG8anlOj0Jc"
+      },
+      "artists": [
+        {
+          "name": "KAPARI",
+          "url": "https://open.spotify.com/artist/1YS9GiGL9yQ1A85ha3hPIX"
+        }
+      ],
+      "duration_ms": 148680,
+      "name": "Way Back Home",
+      "url": "https://open.spotify.com/track/6zgpB19NFV0ARh8IDdQDnH"
     },
     {
       "added_at": "2024-11-07 23:00:00",

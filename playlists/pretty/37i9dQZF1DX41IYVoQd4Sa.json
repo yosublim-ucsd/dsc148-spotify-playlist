@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. : \u05d0\u05d4\u05d5\u05d3 \u05d1\u05e0\u05d0\u05d9",
-  "num_followers": 30668,
+  "num_followers": 30679,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -451,26 +451,6 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
-        "name": "\u05db\u05e0\u05e4\u05d9 \u05e8\u05d5\u05d7",
-        "url": "https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U"
-      },
-      "artists": [
-        {
-          "name": "Pulkes",
-          "url": "https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP"
-        },
-        {
-          "name": "Berry Sakharof",
-          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
-        }
-      ],
-      "duration_ms": 239411,
-      "name": "\u05db\u05e0\u05e4\u05d9 \u05e8\u05d5\u05d7",
-      "url": "https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
         "name": "Live 2022",
         "url": "https://open.spotify.com/album/1WQbQYkE63mbSsle6i3wWP"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 272640,
       "name": "\u05d7\u05dc\u05dc\u05d9\u05d5\u05ea - Bonus Track",
       "url": "https://open.spotify.com/track/519zGBHfcoMPuzbhvBQJAR"
+    },
+    {
+      "added_at": "2024-11-07 22:00:00",
+      "album": {
+        "name": "\u05db\u05e0\u05e4\u05d9 \u05e8\u05d5\u05d7",
+        "url": "https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U"
+      },
+      "artists": [
+        {
+          "name": "Pulkes",
+          "url": "https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP"
+        },
+        {
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+        }
+      ],
+      "duration_ms": 239411,
+      "name": "\u05db\u05e0\u05e4\u05d9 \u05e8\u05d5\u05d7",
+      "url": "https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW"
     },
     {
       "added_at": "2024-11-07 22:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
-        "name": "\u05ea\u05df \u05e1\u05d9\u05de\u05df",
-        "url": "https://open.spotify.com/album/1eAZyULyRT2BgAaWSfdjku"
-      },
-      "artists": [
-        {
-          "name": "\u05d9\u05d5\u05e9\u05d9",
-          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
-        }
-      ],
-      "duration_ms": 159679,
-      "name": "\u05ea\u05df \u05e1\u05d9\u05de\u05df",
-      "url": "https://open.spotify.com/track/51Mk3S1G3YmcF6oHujOyJW"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
         "name": "\u05d7\u05dc\u05dc",
         "url": "https://open.spotify.com/album/2NDTjjozySEcqbidrga8eD"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 362108,
       "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
       "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
+    },
+    {
+      "added_at": "2024-11-07 22:00:00",
+      "album": {
+        "name": "\u05ea\u05df \u05e1\u05d9\u05de\u05df",
+        "url": "https://open.spotify.com/album/1eAZyULyRT2BgAaWSfdjku"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+        }
+      ],
+      "duration_ms": 159679,
+      "name": "\u05ea\u05df \u05e1\u05d9\u05de\u05df",
+      "url": "https://open.spotify.com/track/51Mk3S1G3YmcF6oHujOyJW"
     },
     {
       "added_at": "2024-11-07 22:00:00",
@@ -851,26 +851,6 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
-        "name": "\u05dc\u05d7\u05d9\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/6uPKNwK4o6QokRH0I7z7cL"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spector",
-          "url": "https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W"
-        },
-        {
-          "name": "Alon Eder",
-          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
-        }
-      ],
-      "duration_ms": 256092,
-      "name": "\u05d4\u05dc\u05d5\u05da \u05d5\u05e9\u05d5\u05d1",
-      "url": "https://open.spotify.com/track/1LWXYCFfhJBeeNhQw6io2j"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
         "name": "\u05de\u05e2\u05d5\u05e0\u05d4 \u05dc\u05e2\u05d5\u05e0\u05d4",
         "url": "https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 235000,
       "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
       "url": "https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa"
+    },
+    {
+      "added_at": "2024-11-07 22:00:00",
+      "album": {
+        "name": "\u05dc\u05d7\u05d9\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/6uPKNwK4o6QokRH0I7z7cL"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spector",
+          "url": "https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W"
+        },
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        }
+      ],
+      "duration_ms": 256092,
+      "name": "\u05d4\u05dc\u05d5\u05da \u05d5\u05e9\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/1LWXYCFfhJBeeNhQw6io2j"
     },
     {
       "added_at": "2024-11-07 22:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
-        "name": "Until The Morning",
-        "url": "https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guy",
-          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
-        }
-      ],
-      "duration_ms": 151719,
-      "name": "Until The Morning",
-      "url": "https://open.spotify.com/track/5EMgxRd9V5ARW4b3aRol1L"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
         "name": "Goodbye Mary",
         "url": "https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 183331,
       "name": "Goodbye Mary",
       "url": "https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy"
+    },
+    {
+      "added_at": "2024-11-07 22:00:00",
+      "album": {
+        "name": "Until The Morning",
+        "url": "https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guy",
+          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
+        }
+      ],
+      "duration_ms": 151719,
+      "name": "Until The Morning",
+      "url": "https://open.spotify.com/track/5EMgxRd9V5ARW4b3aRol1L"
     },
     {
       "added_at": "2024-11-07 22:00:00",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
-        "name": "\u05d4\u05d7\u05d5\u05de\u05e8 \u05d4\u05db\u05d7\u05d5\u05dc",
-        "url": "https://open.spotify.com/album/3EmbyxWkGuC9tcTRTGGJzL"
+        "name": "\u05d1\u05d9\u05ea \u05e4\u05ea\u05d5\u05d7 \u05d7\u05dc\u05e7 \u05d1'",
+        "url": "https://open.spotify.com/album/21absbNyeEXykXGFsK62mP"
       },
       "artists": [
         {
-          "name": "Kochevet Al",
-          "url": "https://open.spotify.com/artist/0EoyHTFM5aZdVoeP0O4PjC"
+          "name": "Shlomi Shaban",
+          "url": "https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX"
         }
       ],
-      "duration_ms": 203700,
-      "name": "\u05d4\u05d7\u05d5\u05de\u05e8 \u05d4\u05db\u05d7\u05d5\u05dc",
-      "url": "https://open.spotify.com/track/7dMyM3DhvQwrRnZ48C9iQF"
+      "duration_ms": 196914,
+      "name": "\u05dc\u05d1\u05d6\u05d1\u05d6 \u05dc\u05da \u05d0\u05ea \u05d4\u05d6\u05de\u05df",
+      "url": "https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav"
     },
     {
       "added_at": "2024-11-07 22:00:00",
@@ -1051,18 +1051,22 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
-        "name": "\u05d1\u05d9\u05ea \u05e4\u05ea\u05d5\u05d7 \u05d7\u05dc\u05e7 \u05d1'",
-        "url": "https://open.spotify.com/album/21absbNyeEXykXGFsK62mP"
+        "name": "\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/2gOS8PDQ1IK4qdVVjLMTUz"
       },
       "artists": [
         {
-          "name": "Shlomi Shaban",
-          "url": "https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX"
+          "name": "Karolina",
+          "url": "https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB"
+        },
+        {
+          "name": "VuVuVu",
+          "url": "https://open.spotify.com/artist/72m7rhXzVCeMEPdSSoERwP"
         }
       ],
-      "duration_ms": 196914,
-      "name": "\u05dc\u05d1\u05d6\u05d1\u05d6 \u05dc\u05da \u05d0\u05ea \u05d4\u05d6\u05de\u05df",
-      "url": "https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav"
+      "duration_ms": 229362,
+      "name": "\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/6mIHCPHmVVRqc7CHcTvZew"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

@@ -787,6 +787,24 @@
     },
     {
       "album": {
+        "name": "Gouden Lot",
+        "url": "https://open.spotify.com/album/0p23OEMzHxFBEsEpNvt4za"
+      },
+      "artists": [
+        {
+          "name": "Caza",
+          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129310,
+      "name": "Gouden Lot",
+      "url": "https://open.spotify.com/track/4tfvCPL49b7kvO4ShRoQmQ"
+    },
+    {
+      "album": {
         "name": "Grote Beurt",
         "url": "https://open.spotify.com/album/0g9It2xph0256veS65oe8H"
       },
@@ -1296,6 +1314,24 @@
       "duration_ms": 122405,
       "name": "P2",
       "url": "https://open.spotify.com/track/6UnLRaw0n7Esvq7byKTnwI"
+    },
+    {
+      "album": {
+        "name": "PGS",
+        "url": "https://open.spotify.com/album/18OFFjK1s1rudggD1m1Na3"
+      },
+      "artists": [
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151016,
+      "name": "PGS",
+      "url": "https://open.spotify.com/track/0QfxzAZP55JCJGDFEuYFnj"
     },
     {
       "album": {

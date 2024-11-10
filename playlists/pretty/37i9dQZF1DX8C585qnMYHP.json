@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Astoria on cover. Artwork by Thami Nabil",
-  "num_followers": 177497,
+  "num_followers": 177632,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -189,6 +189,30 @@
       "url": "https://open.spotify.com/track/3FInZ2hV2VEfiX6GL5xmNL"
     },
     {
+      "added_at": "2024-08-07 03:33:24",
+      "album": {
+        "name": "Do Something!",
+        "url": "https://open.spotify.com/album/7wOOMSpNAHJO4vadu3V6RN"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "duration_ms": 131660,
+      "name": "Do Something!",
+      "url": "https://open.spotify.com/track/3qIfexWcDZUuSYQNogshMa"
+    },
+    {
       "added_at": "2024-09-11 04:16:56",
       "album": {
         "name": "All These Worlds, Pt. II",
@@ -219,30 +243,6 @@
       "duration_ms": 123953,
       "name": "Yip, Yip, Yip",
       "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
-    },
-    {
-      "added_at": "2024-08-07 03:33:24",
-      "album": {
-        "name": "Do Something!",
-        "url": "https://open.spotify.com/album/7wOOMSpNAHJO4vadu3V6RN"
-      },
-      "artists": [
-        {
-          "name": "Malcriada",
-          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
-        },
-        {
-          "name": "Mathilde Sobrino",
-          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
-        },
-        {
-          "name": "Pepe Pecas",
-          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
-        }
-      ],
-      "duration_ms": 131660,
-      "name": "Do Something!",
-      "url": "https://open.spotify.com/track/3qIfexWcDZUuSYQNogshMa"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -317,6 +317,38 @@
       "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
     },
     {
+      "added_at": "2024-10-09 01:34:34",
+      "album": {
+        "name": "United Kingdom Of Anxiety",
+        "url": "https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID"
+      },
+      "artists": [
+        {
+          "name": "Zamilska",
+          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
+        }
+      ],
+      "duration_ms": 196982,
+      "name": "Mommy",
+      "url": "https://open.spotify.com/track/3DrzLPfYYs3QGbZ4kYueZP"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Codex",
+        "url": "https://open.spotify.com/album/3AsI13N4yyxErj8d8yseIi"
+      },
+      "artists": [
+        {
+          "name": "DjRUM",
+          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
+        }
+      ],
+      "duration_ms": 406249,
+      "name": "Codex",
+      "url": "https://open.spotify.com/track/5w1wf4TzE8X2Aczszf6zXA"
+    },
+    {
       "added_at": "2024-10-16 02:02:35",
       "album": {
         "name": "Fight",
@@ -335,50 +367,22 @@
     {
       "added_at": "2024-10-09 01:34:34",
       "album": {
-        "name": "United Kingdom Of Anxiety",
-        "url": "https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID"
+        "name": "Deixem O Morto Morrer - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5XZ7IRR6fmz40H5rS5jYGn"
       },
       "artists": [
         {
-          "name": "Zamilska",
-          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
-        }
-      ],
-      "duration_ms": 196982,
-      "name": "Mommy",
-      "url": "https://open.spotify.com/track/3DrzLPfYYs3QGbZ4kYueZP"
-    },
-    {
-      "added_at": "2024-08-14 16:44:33",
-      "album": {
-        "name": "NONAGE",
-        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
-      },
-      "artists": [
+          "name": "Ana Lua Caiano",
+          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
+        },
         {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
-      "duration_ms": 145344,
-      "name": "O O O O",
-      "url": "https://open.spotify.com/track/1QmsT9YmuXrE0371eYFmiw"
-    },
-    {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Codex",
-        "url": "https://open.spotify.com/album/3AsI13N4yyxErj8d8yseIi"
-      },
-      "artists": [
-        {
-          "name": "DjRUM",
-          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
-        }
-      ],
-      "duration_ms": 406249,
-      "name": "Codex",
-      "url": "https://open.spotify.com/track/5w1wf4TzE8X2Aczszf6zXA"
+      "duration_ms": 170200,
+      "name": "Deixem O Morto Morrer - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2Id68FINCkfJLAt5S7v3eJ"
     },
     {
       "added_at": "2024-10-02 18:17:59",
@@ -401,24 +405,20 @@
       "url": "https://open.spotify.com/track/6w1rQ82vsGF8zX9eock33Y"
     },
     {
-      "added_at": "2024-10-09 01:34:34",
+      "added_at": "2024-08-14 16:44:33",
       "album": {
-        "name": "Deixem O Morto Morrer - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5XZ7IRR6fmz40H5rS5jYGn"
+        "name": "NONAGE",
+        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
       },
       "artists": [
         {
-          "name": "Ana Lua Caiano",
-          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
         }
       ],
-      "duration_ms": 170200,
-      "name": "Deixem O Morto Morrer - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2Id68FINCkfJLAt5S7v3eJ"
+      "duration_ms": 145344,
+      "name": "O O O O",
+      "url": "https://open.spotify.com/track/1QmsT9YmuXrE0371eYFmiw"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -453,22 +453,6 @@
       "url": "https://open.spotify.com/track/0puYy6hGZEZPa69HK3vQmH"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Fuse",
-        "url": "https://open.spotify.com/album/3xNaY8J0j7efWpaNFWNfUw"
-      },
-      "artists": [
-        {
-          "name": "Cranes",
-          "url": "https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Fuse",
-      "url": "https://open.spotify.com/track/3gyjlDVwsH3ghberyPGJZQ"
-    },
-    {
       "added_at": "2024-05-08 03:43:46",
       "album": {
         "name": "The Turning Ground",
@@ -501,6 +485,22 @@
       "url": "https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW"
     },
     {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Fuse",
+        "url": "https://open.spotify.com/album/3xNaY8J0j7efWpaNFWNfUw"
+      },
+      "artists": [
+        {
+          "name": "Cranes",
+          "url": "https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Fuse",
+      "url": "https://open.spotify.com/track/3gyjlDVwsH3ghberyPGJZQ"
+    },
+    {
       "added_at": "2024-08-14 14:21:25",
       "album": {
         "name": "Hooked Paw",
@@ -515,22 +515,6 @@
       "duration_ms": 200378,
       "name": "Hooked Paw",
       "url": "https://open.spotify.com/track/5O0NtSxrPa8nNCMrPqyxrQ"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "All good?",
-        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
-      },
-      "artists": [
-        {
-          "name": "Nonkeen",
-          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
-        }
-      ],
-      "duration_ms": 483180,
-      "name": "be a",
-      "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
     },
     {
       "added_at": "2024-10-16 02:02:35",
@@ -551,6 +535,22 @@
       "duration_ms": 327750,
       "name": "Teclas P\u00e1lidas",
       "url": "https://open.spotify.com/track/6RZTCEiP1BFBsBIRqFsYLm"
+    },
+    {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "All good?",
+        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
+      },
+      "artists": [
+        {
+          "name": "Nonkeen",
+          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
+        }
+      ],
+      "duration_ms": 483180,
+      "name": "be a",
+      "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
     },
     {
       "added_at": "2024-10-02 15:46:42",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/0NUKS5fTtIKUDkwYL7eDr2"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Guan\u00e1bana",
-        "url": "https://open.spotify.com/album/4RMbv4W1jZucUYZSY8MTJA"
-      },
-      "artists": [
-        {
-          "name": "dj +1",
-          "url": "https://open.spotify.com/artist/2EYsSfAr9d8pLxpjrMoHvP"
-        }
-      ],
-      "duration_ms": 213781,
-      "name": "Guan\u00e1bana",
-      "url": "https://open.spotify.com/track/0fcstqCLW7NLjqfsIgD1fw"
-    },
-    {
       "added_at": "2024-06-19 06:00:00",
       "album": {
         "name": "Forest Drone",
@@ -759,6 +743,22 @@
       "duration_ms": 287976,
       "name": "Forest Drone",
       "url": "https://open.spotify.com/track/34XFYiJ3nq2qgq63k4ylM2"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Guan\u00e1bana",
+        "url": "https://open.spotify.com/album/4RMbv4W1jZucUYZSY8MTJA"
+      },
+      "artists": [
+        {
+          "name": "dj +1",
+          "url": "https://open.spotify.com/artist/2EYsSfAr9d8pLxpjrMoHvP"
+        }
+      ],
+      "duration_ms": 213781,
+      "name": "Guan\u00e1bana",
+      "url": "https://open.spotify.com/track/0fcstqCLW7NLjqfsIgD1fw"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -797,6 +797,22 @@
       "url": "https://open.spotify.com/track/5155fLceNWyzwO0Q67dkln"
     },
     {
+      "added_at": "2024-09-18 04:00:00",
+      "album": {
+        "name": "Blue Note",
+        "url": "https://open.spotify.com/album/7GENUOcqMkxVUumg6TzSLw"
+      },
+      "artists": [
+        {
+          "name": "Tanhai Collective",
+          "url": "https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73"
+        }
+      ],
+      "duration_ms": 191124,
+      "name": "Blue Note",
+      "url": "https://open.spotify.com/track/3ukcMPzV23eKxUKLmQQtEZ"
+    },
+    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "retrofit",
@@ -815,22 +831,6 @@
       "duration_ms": 188312,
       "name": "retrofit",
       "url": "https://open.spotify.com/track/2naYWFOkEHp1u5DrbdKC0P"
-    },
-    {
-      "added_at": "2024-09-18 04:00:00",
-      "album": {
-        "name": "Blue Note",
-        "url": "https://open.spotify.com/album/7GENUOcqMkxVUumg6TzSLw"
-      },
-      "artists": [
-        {
-          "name": "Tanhai Collective",
-          "url": "https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73"
-        }
-      ],
-      "duration_ms": 191124,
-      "name": "Blue Note",
-      "url": "https://open.spotify.com/track/3ukcMPzV23eKxUKLmQQtEZ"
     },
     {
       "added_at": "2024-10-02 15:46:42",
@@ -863,6 +863,22 @@
       "duration_ms": 217475,
       "name": "Junkie",
       "url": "https://open.spotify.com/track/7eKWsWbI9mjqXMCAiFMu1A"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Everything but the Hate",
+        "url": "https://open.spotify.com/album/1lN5QUcomnNrSelbwYW5Z2"
+      },
+      "artists": [
+        {
+          "name": "Otala",
+          "url": "https://open.spotify.com/artist/5Ha8b8szNaRXrcXYR0oAXE"
+        }
+      ],
+      "duration_ms": 171827,
+      "name": "Everything but the Hate",
+      "url": "https://open.spotify.com/track/63xuCdSClTjX06vguT7yZB"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -913,6 +929,22 @@
       "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
     },
     {
+      "added_at": "2024-08-14 14:21:25",
+      "album": {
+        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
+        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
+      },
+      "artists": [
+        {
+          "name": "Misha Panfilov",
+          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
+        }
+      ],
+      "duration_ms": 265548,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/0uK2urblhFVH6P4Mlq4YOJ"
+    },
+    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "Meet Your Shadow",
@@ -949,38 +981,6 @@
       "url": "https://open.spotify.com/track/3PyI7m3K7HY5XjMqjPw4XF"
     },
     {
-      "added_at": "2024-08-14 14:21:25",
-      "album": {
-        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
-        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
-      },
-      "artists": [
-        {
-          "name": "Misha Panfilov",
-          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
-        }
-      ],
-      "duration_ms": 265548,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/0uK2urblhFVH6P4Mlq4YOJ"
-    },
-    {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Everything but the Hate",
-        "url": "https://open.spotify.com/album/1lN5QUcomnNrSelbwYW5Z2"
-      },
-      "artists": [
-        {
-          "name": "Otala",
-          "url": "https://open.spotify.com/artist/5Ha8b8szNaRXrcXYR0oAXE"
-        }
-      ],
-      "duration_ms": 171827,
-      "name": "Everything but the Hate",
-      "url": "https://open.spotify.com/track/63xuCdSClTjX06vguT7yZB"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "EXCELSIOR",
@@ -1013,22 +1013,6 @@
       "url": "https://open.spotify.com/track/2EwhzgutwSHK8xOkFvzrxx"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Enfrente",
-        "url": "https://open.spotify.com/album/0gTYBqs6bnAR2t9tv9geJK"
-      },
-      "artists": [
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 243523,
-      "name": "Enfrente",
-      "url": "https://open.spotify.com/track/0DqPfJDPSgfx1MxA5HFs24"
-    },
-    {
       "added_at": "2024-07-17 04:00:00",
       "album": {
         "name": "Nightshade",
@@ -1043,6 +1027,22 @@
       "duration_ms": 190066,
       "name": "Oase",
       "url": "https://open.spotify.com/track/00Ed6JEkpJFVZwWWZw42oY"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Enfrente",
+        "url": "https://open.spotify.com/album/0gTYBqs6bnAR2t9tv9geJK"
+      },
+      "artists": [
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 243523,
+      "name": "Enfrente",
+      "url": "https://open.spotify.com/track/0DqPfJDPSgfx1MxA5HFs24"
     },
     {
       "added_at": "2024-10-09 01:34:34",
@@ -1063,22 +1063,6 @@
       "duration_ms": 468996,
       "name": "Your Soul is Perfect (Supreme Uniter)",
       "url": "https://open.spotify.com/track/5DwBwggCg6RfMkrqh7rQsY"
-    },
-    {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Panamanian Nights",
-        "url": "https://open.spotify.com/album/1lp9XiGUEe85GrJ3bbnXwx"
-      },
-      "artists": [
-        {
-          "name": "SONSO",
-          "url": "https://open.spotify.com/artist/613zfU2lmskvtDCmtvdpQz"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "Afro American",
-      "url": "https://open.spotify.com/track/5ZvSy3UWtBl2ZJBUZ3dfqu"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1113,6 +1097,22 @@
       "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
     },
     {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Panamanian Nights",
+        "url": "https://open.spotify.com/album/1lp9XiGUEe85GrJ3bbnXwx"
+      },
+      "artists": [
+        {
+          "name": "SONSO",
+          "url": "https://open.spotify.com/artist/613zfU2lmskvtDCmtvdpQz"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "Afro American",
+      "url": "https://open.spotify.com/track/5ZvSy3UWtBl2ZJBUZ3dfqu"
+    },
+    {
       "added_at": "2024-09-18 04:00:00",
       "album": {
         "name": "Sincerity",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/183b1N2ZTg6UFH6njaEN2x"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Should I Be Worried",
-        "url": "https://open.spotify.com/album/7Hbybc8aBnwWCt4prnzsbg"
-      },
-      "artists": [
-        {
-          "name": "Theredone",
-          "url": "https://open.spotify.com/artist/5HEGP5hrwkTrMgIo7BMmTn"
-        }
-      ],
-      "duration_ms": 265746,
-      "name": "Earth to Moon",
-      "url": "https://open.spotify.com/track/0NRHx59VAYHUhBBTzFxTTF"
-    },
-    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "A Diosa (Non potho reposare)",
@@ -1159,6 +1143,22 @@
       "duration_ms": 600010,
       "name": "A Diosa (Non potho reposare)",
       "url": "https://open.spotify.com/track/2ieLrq6ixILeCsOR1mbl3Q"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Should I Be Worried",
+        "url": "https://open.spotify.com/album/7Hbybc8aBnwWCt4prnzsbg"
+      },
+      "artists": [
+        {
+          "name": "Theredone",
+          "url": "https://open.spotify.com/artist/5HEGP5hrwkTrMgIo7BMmTn"
+        }
+      ],
+      "duration_ms": 265746,
+      "name": "Earth to Moon",
+      "url": "https://open.spotify.com/track/0NRHx59VAYHUhBBTzFxTTF"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1193,26 +1193,6 @@
       "url": "https://open.spotify.com/track/7H3KKn8XnIipixGjNGvK7m"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "CT-2",
-        "url": "https://open.spotify.com/album/7FZUFguAeYaADn8uJ5dLKW"
-      },
-      "artists": [
-        {
-          "name": "Crosstalk",
-          "url": "https://open.spotify.com/artist/6xS8ncgjhNBXYqKDgOLKBq"
-        },
-        {
-          "name": "DJ LUKINHAS",
-          "url": "https://open.spotify.com/artist/1ftCFF307OmsAVDAHHpn07"
-        }
-      ],
-      "duration_ms": 172453,
-      "name": "Detach",
-      "url": "https://open.spotify.com/track/0Las26koi1XNMPme6fOxcD"
-    },
-    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "Palloon EP",
@@ -1231,18 +1211,22 @@
     {
       "added_at": "2024-10-02 15:46:42",
       "album": {
-        "name": "ethic",
-        "url": "https://open.spotify.com/album/2zoZ7macP6k4Wd3Rw37QZI"
+        "name": "CT-2",
+        "url": "https://open.spotify.com/album/7FZUFguAeYaADn8uJ5dLKW"
       },
       "artists": [
         {
-          "name": "Nohys(yoonsangXLeeJunoh)",
-          "url": "https://open.spotify.com/artist/3zMfe80CmhuBPvV8Wvk3kA"
+          "name": "Crosstalk",
+          "url": "https://open.spotify.com/artist/6xS8ncgjhNBXYqKDgOLKBq"
+        },
+        {
+          "name": "DJ LUKINHAS",
+          "url": "https://open.spotify.com/artist/1ftCFF307OmsAVDAHHpn07"
         }
       ],
-      "duration_ms": 129524,
-      "name": "init.",
-      "url": "https://open.spotify.com/track/5poF74If353m5g0i48T3lQ"
+      "duration_ms": 172453,
+      "name": "Detach",
+      "url": "https://open.spotify.com/track/0Las26koi1XNMPme6fOxcD"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1277,6 +1261,22 @@
       "url": "https://open.spotify.com/track/5PuEiHEqmV72PSPxrV36He"
     },
     {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "ethic",
+        "url": "https://open.spotify.com/album/2zoZ7macP6k4Wd3Rw37QZI"
+      },
+      "artists": [
+        {
+          "name": "Nohys(yoonsangXLeeJunoh)",
+          "url": "https://open.spotify.com/artist/3zMfe80CmhuBPvV8Wvk3kA"
+        }
+      ],
+      "duration_ms": 129524,
+      "name": "init.",
+      "url": "https://open.spotify.com/track/5poF74If353m5g0i48T3lQ"
+    },
+    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "Resurgence",
@@ -1291,22 +1291,6 @@
       "duration_ms": 428320,
       "name": "Arbitrary",
       "url": "https://open.spotify.com/track/0k5pUbOXmYI51JQDBh35R4"
-    },
-    {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Pokemans",
-        "url": "https://open.spotify.com/album/1dpMryDJlXKZzmLyahGCEi"
-      },
-      "artists": [
-        {
-          "name": "Anna Butterss",
-          "url": "https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA"
-        }
-      ],
-      "duration_ms": 185360,
-      "name": "Pokemans",
-      "url": "https://open.spotify.com/track/3QLQJLs8WjbwnYUer3HEoP"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2024-10-02 15:46:42",
       "album": {
-        "name": "time is but the drawing of a sword",
-        "url": "https://open.spotify.com/album/10cw8r1YTxCHLFEorxvw6z"
+        "name": "Pokemans",
+        "url": "https://open.spotify.com/album/1dpMryDJlXKZzmLyahGCEi"
       },
       "artists": [
         {
-          "name": "Lyndsie Alguire",
-          "url": "https://open.spotify.com/artist/2ccPuyFIeFmNpKb9ZVOlBc"
+          "name": "Anna Butterss",
+          "url": "https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA"
         }
       ],
-      "duration_ms": 219057,
-      "name": "bruised",
-      "url": "https://open.spotify.com/track/2mYWLaFIr3hNuG0jugydkz"
+      "duration_ms": 185360,
+      "name": "Pokemans",
+      "url": "https://open.spotify.com/track/3QLQJLs8WjbwnYUer3HEoP"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1375,6 +1359,22 @@
       "duration_ms": 498000,
       "name": "(The Circle) of Compassion",
       "url": "https://open.spotify.com/track/69iki2OCAf8NhrLCxeYVOh"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "time is but the drawing of a sword",
+        "url": "https://open.spotify.com/album/10cw8r1YTxCHLFEorxvw6z"
+      },
+      "artists": [
+        {
+          "name": "Lyndsie Alguire",
+          "url": "https://open.spotify.com/artist/2ccPuyFIeFmNpKb9ZVOlBc"
+        }
+      ],
+      "duration_ms": 219057,
+      "name": "bruised",
+      "url": "https://open.spotify.com/track/2mYWLaFIr3hNuG0jugydkz"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1409,6 +1409,22 @@
       "url": "https://open.spotify.com/track/7eDDosKY7yPLdLudAru8ej"
     },
     {
+      "added_at": "2024-10-16 02:02:35",
+      "album": {
+        "name": "Cure For Tranquility",
+        "url": "https://open.spotify.com/album/7lxzTxQtz8EQx7znrdFoj3"
+      },
+      "artists": [
+        {
+          "name": "Tucci",
+          "url": "https://open.spotify.com/artist/5s5AualH5soDJ619wrZ2IW"
+        }
+      ],
+      "duration_ms": 238808,
+      "name": "Cr\u00edo Cuervos",
+      "url": "https://open.spotify.com/track/7BzBWpuPhYhCnQYdOYDlpj"
+    },
+    {
       "added_at": "2024-09-11 04:16:56",
       "album": {
         "name": "The Needle",
@@ -1427,22 +1443,6 @@
       "duration_ms": 309250,
       "name": "The Needle",
       "url": "https://open.spotify.com/track/2YY3hKhPkfbH1Pq7IbOqM8"
-    },
-    {
-      "added_at": "2024-10-16 02:02:35",
-      "album": {
-        "name": "Cure For Tranquility",
-        "url": "https://open.spotify.com/album/7lxzTxQtz8EQx7znrdFoj3"
-      },
-      "artists": [
-        {
-          "name": "Tucci",
-          "url": "https://open.spotify.com/artist/5s5AualH5soDJ619wrZ2IW"
-        }
-      ],
-      "duration_ms": 238808,
-      "name": "Cr\u00edo Cuervos",
-      "url": "https://open.spotify.com/track/7BzBWpuPhYhCnQYdOYDlpj"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -1533,6 +1533,22 @@
       "url": "https://open.spotify.com/track/5dwgYnZkWcSavE0ryWvSgy"
     },
     {
+      "added_at": "2024-09-18 04:00:00",
+      "album": {
+        "name": "Within",
+        "url": "https://open.spotify.com/album/3YuHGnQhaLBhm276RXe3Ga"
+      },
+      "artists": [
+        {
+          "name": "AINON",
+          "url": "https://open.spotify.com/artist/7a0H0OiJk6KqY3gOG3nVQT"
+        }
+      ],
+      "duration_ms": 161840,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/6YNQo1WdLbjLeQgAnedmWV"
+    },
+    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "Framework 1 (Vladislav Delay Remix)",
@@ -1551,22 +1567,6 @@
       "duration_ms": 266573,
       "name": "Framework 1 (Vladislav Delay Remix)",
       "url": "https://open.spotify.com/track/2oNiCobGUE4rWPcmOnzqj3"
-    },
-    {
-      "added_at": "2024-09-18 04:00:00",
-      "album": {
-        "name": "Within",
-        "url": "https://open.spotify.com/album/3YuHGnQhaLBhm276RXe3Ga"
-      },
-      "artists": [
-        {
-          "name": "AINON",
-          "url": "https://open.spotify.com/artist/7a0H0OiJk6KqY3gOG3nVQT"
-        }
-      ],
-      "duration_ms": 161840,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/6YNQo1WdLbjLeQgAnedmWV"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1603,22 +1603,6 @@
       "duration_ms": 253613,
       "name": "Full Spectrum",
       "url": "https://open.spotify.com/track/4rBeiV1Nd9QbvPgJZHkN74"
-    },
-    {
-      "added_at": "2024-10-09 01:34:34",
-      "album": {
-        "name": "Apolithoma",
-        "url": "https://open.spotify.com/album/6tEfpip2YrwT6b2b1ta896"
-      },
-      "artists": [
-        {
-          "name": "Veslemes",
-          "url": "https://open.spotify.com/artist/6raPumVw0R3R7vMOStGRON"
-        }
-      ],
-      "duration_ms": 316928,
-      "name": "Port Mattare",
-      "url": "https://open.spotify.com/track/7nUIqQb602NKPhy8ZcLtlp"
     },
     {
       "added_at": "2024-10-16 02:02:35",
@@ -1661,6 +1645,22 @@
       "url": "https://open.spotify.com/track/0nPRFC9qFvFbNtf62aHaq6"
     },
     {
+      "added_at": "2024-10-09 01:34:34",
+      "album": {
+        "name": "Apolithoma",
+        "url": "https://open.spotify.com/album/6tEfpip2YrwT6b2b1ta896"
+      },
+      "artists": [
+        {
+          "name": "Veslemes",
+          "url": "https://open.spotify.com/artist/6raPumVw0R3R7vMOStGRON"
+        }
+      ],
+      "duration_ms": 316928,
+      "name": "Port Mattare",
+      "url": "https://open.spotify.com/track/7nUIqQb602NKPhy8ZcLtlp"
+    },
+    {
       "added_at": "2024-10-16 02:02:35",
       "album": {
         "name": "Cure For Tranquility",
@@ -1681,26 +1681,6 @@
       "url": "https://open.spotify.com/track/5svoaG4SG3ZZ99Yl5vpe4C"
     },
     {
-      "added_at": "2024-10-09 01:34:34",
-      "album": {
-        "name": "Scapes I",
-        "url": "https://open.spotify.com/album/5TgWR6BWrfc9B856hFmGEj"
-      },
-      "artists": [
-        {
-          "name": "Aki Himanen",
-          "url": "https://open.spotify.com/artist/36Z14fQoEOxfHsvlbwYBUS"
-        },
-        {
-          "name": "Aleksi Kinnunen",
-          "url": "https://open.spotify.com/artist/7ve7ftb93CWjXayVAlVCaU"
-        }
-      ],
-      "duration_ms": 428000,
-      "name": "Agbogloshie",
-      "url": "https://open.spotify.com/track/7lx0ZSyAH1paRKBGSrDe8w"
-    },
-    {
       "added_at": "2024-10-16 02:02:35",
       "album": {
         "name": "Time (Nick Walters Remix)",
@@ -1719,6 +1699,26 @@
       "duration_ms": 278657,
       "name": "Time - Nick Walters Remix",
       "url": "https://open.spotify.com/track/5pcDYMTmLdhxmgojty1xCW"
+    },
+    {
+      "added_at": "2024-10-09 01:34:34",
+      "album": {
+        "name": "Scapes I",
+        "url": "https://open.spotify.com/album/5TgWR6BWrfc9B856hFmGEj"
+      },
+      "artists": [
+        {
+          "name": "Aki Himanen",
+          "url": "https://open.spotify.com/artist/36Z14fQoEOxfHsvlbwYBUS"
+        },
+        {
+          "name": "Aleksi Kinnunen",
+          "url": "https://open.spotify.com/artist/7ve7ftb93CWjXayVAlVCaU"
+        }
+      ],
+      "duration_ms": 428000,
+      "name": "Agbogloshie",
+      "url": "https://open.spotify.com/track/7lx0ZSyAH1paRKBGSrDe8w"
     },
     {
       "added_at": "2024-10-09 01:34:34",

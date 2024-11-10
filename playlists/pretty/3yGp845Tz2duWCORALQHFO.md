@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,780 likes - 58 songs - 3 hr 12 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,775 likes - 58 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,6 +65,6 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 55 | [Sound of da Police \(with DES3ETT\)](https://open.spotify.com/track/3g3kOgJyakUFt8FClE2EbQ) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [DES3ETT](https://open.spotify.com/artist/2tBbq6Y0ejbtc8tNWtaMyN) | [Sound of da Police \(with DES3ETT\)](https://open.spotify.com/album/19tOFbOwSqZkQONwDtxss9) | 2:07 |
 | 56 | [Samir's Theme](https://open.spotify.com/track/3wI9OGpl6thK28PZcUgleu) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93), [Charlie Ray](https://open.spotify.com/artist/5E0lRlMBtVgbEo3gsn8UuF) | [Samir's Theme](https://open.spotify.com/album/6WIAnmhPhEvjmcvHeeIP85) | 2:46 |
 | 57 | [Need Some Time](https://open.spotify.com/track/0yDM6TInVZdNwNz9Fyxifd) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Midnight Mass](https://open.spotify.com/album/6Fphuv16AxAhxJcUYPWzV9) | 3:16 |
-| 58 | [Let The Bassline](https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Let The Bassline](https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W) | 4:09 |
+| 58 | [Let The Bassline](https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Let The Bassline](https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W) | 3:03 |
 
 Snapshot ID: `AABhYmMmMJFNYB/0trVEW+6EkrIo7DpO`

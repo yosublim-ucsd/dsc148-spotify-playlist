@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 292248,
+  "num_followers": 292281,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZywDAAAAAADWoP0Pmkt9lkJNXRNu/7no",
+  "snapshot_id": "Zy1UgAAAAABoPhMeYWolOTp/C6i0tvNx",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 218693,
       "name": "Throw My Bones",
       "url": "https://open.spotify.com/track/4W1SllpK1wf1I2YeW3tG0D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lazy Sod",
-        "url": "https://open.spotify.com/album/1PA7VgAvDvCGJ6DbGhel10"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 385400,
-      "name": "Highway Star - Live in Milan 2022",
-      "url": "https://open.spotify.com/track/0Iisp65tqglbQ8g0hMsjw8"
     },
     {
       "added_at": null,
@@ -180,9 +164,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 272996,
-      "name": "Space Truckin' - Remastered 2012",
-      "url": "https://open.spotify.com/track/5S126DaCBZ8z6yh7B1Lszr"
+      "duration_ms": 366136,
+      "name": "Highway Star - Remastered 2012",
+      "url": "https://open.spotify.com/track/3uMmllZo1AfoEnVT4ENCD3"
     },
     {
       "added_at": null,
@@ -244,9 +228,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 442840,
-      "name": "Lazy - Remastered 2012",
-      "url": "https://open.spotify.com/track/27WqFiOFm2u1hax2ksdyqK"
+      "duration_ms": 272996,
+      "name": "Space Truckin' - Remastered 2012",
+      "url": "https://open.spotify.com/track/5S126DaCBZ8z6yh7B1Lszr"
     },
     {
       "added_at": null,
@@ -308,9 +292,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 303894,
-      "name": "Pictures Of Home - Remastered 2012",
-      "url": "https://open.spotify.com/track/5cXKhFw5kjRSfifazrnPbp"
+      "duration_ms": 442840,
+      "name": "Lazy - Remastered 2012",
+      "url": "https://open.spotify.com/track/27WqFiOFm2u1hax2ksdyqK"
     },
     {
       "added_at": null,
@@ -363,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Machine Head (Remastered)",
+        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 303894,
+      "name": "Pictures Of Home - Remastered 2012",
+      "url": "https://open.spotify.com/track/5cXKhFw5kjRSfifazrnPbp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Perfect Strangers",
         "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
       },
@@ -375,22 +375,6 @@
       "duration_ms": 312826,
       "name": "A Gypsy's Kiss",
       "url": "https://open.spotify.com/track/2Uh9e3fTZRPBzxqNPaY7zr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Machine Head (Remastered)",
-        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 238354,
-      "name": "Never Before - Remastered 2012",
-      "url": "https://open.spotify.com/track/7Hak5ai4Zs9BR4OMrPZbgH"
     },
     {
       "added_at": null,
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 224466,
-      "name": "Sharp Shooter",
-      "url": "https://open.spotify.com/track/3EhtFciZg3T3iZbxEaqJiT"
+      "duration_ms": 231160,
+      "name": "Pictures of You",
+      "url": "https://open.spotify.com/track/6vS3Tx1vR80vXENELsLv79"
     },
     {
       "added_at": null,
@@ -612,9 +596,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 231160,
-      "name": "Pictures of You",
-      "url": "https://open.spotify.com/track/6vS3Tx1vR80vXENELsLv79"
+      "duration_ms": 224466,
+      "name": "Sharp Shooter",
+      "url": "https://open.spotify.com/track/3EhtFciZg3T3iZbxEaqJiT"
     },
     {
       "added_at": null,

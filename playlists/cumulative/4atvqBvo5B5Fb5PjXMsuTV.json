@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Nov 02:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Nov 17:02 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -6182,6 +6182,18 @@
         {
           "name": "Alice Phoebe Lou",
           "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        },
+        {
+          "name": "David Parry",
+          "url": "https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD"
+        },
+        {
+          "name": "Dekel Adin",
+          "url": "https://open.spotify.com/artist/27xyFvRoUUYKOPiY47BbZ9"
+        },
+        {
+          "name": "Ziv Yamin",
+          "url": "https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8"
         }
       ],
       "date_added": "2024-11-08",
@@ -10606,6 +10618,24 @@
       "duration_ms": 191374,
       "name": "Cherish - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5TWPZ5C2iQ3Sl6jwQDoyIB"
+    },
+    {
+      "album": {
+        "name": "Cherish In The Dark",
+        "url": "https://open.spotify.com/album/5Nwi6iHE0TTMhtZRKdeVC1"
+      },
+      "artists": [
+        {
+          "name": "CG5",
+          "url": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205776,
+      "name": "Cherish In The Dark",
+      "url": "https://open.spotify.com/track/5f3rHcLiOVXgdHSNBsq9cV"
     },
     {
       "album": {
@@ -21157,6 +21187,32 @@
     },
     {
       "album": {
+        "name": "Frutiger Aero",
+        "url": "https://open.spotify.com/album/7DM5bCSsrNXvr3oHGYRWwn"
+      },
+      "artists": [
+        {
+          "name": "Acidgvrl",
+          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
+        },
+        {
+          "name": "SadGirlsVsTheWorld",
+          "url": "https://open.spotify.com/artist/6iUeohKjJtOEsfR1Z96g61"
+        },
+        {
+          "name": "Y\u014dko",
+          "url": "https://open.spotify.com/artist/0Cznh5kr6Hlgyl2oHxEFF4"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Frutiger Aero",
+      "url": "https://open.spotify.com/track/0LprvfCWD1kSElkfpOTx7c"
+    },
+    {
+      "album": {
         "name": "fu uh",
         "url": "https://open.spotify.com/album/4lVmhyPuXflXvK4oGBpBXL"
       },
@@ -22124,6 +22180,24 @@
       "duration_ms": 238726,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/286QlG0bSnI9BBfOQBl0L2"
+    },
+    {
+      "album": {
+        "name": "ghost inside a shadow",
+        "url": "https://open.spotify.com/album/1uu8MxAeoozl8tJaEjzJQ4"
+      },
+      "artists": [
+        {
+          "name": "Wifisfuneral",
+          "url": "https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130463,
+      "name": "ghost inside a shadow",
+      "url": "https://open.spotify.com/track/2dSZnykJ0zhSRJIt82rq2X"
     },
     {
       "album": {
@@ -31428,7 +31502,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 241960,
       "name": "Kissing In the Cold - Mistletoe Version",
       "url": "https://open.spotify.com/track/2TaQZIxvt9TVfNqXe5A1ae"
@@ -38987,6 +39061,24 @@
     },
     {
       "album": {
+        "name": "New God",
+        "url": "https://open.spotify.com/album/7bljfHKclCaLBPfwxK9BTC"
+      },
+      "artists": [
+        {
+          "name": "Moon Walker",
+          "url": "https://open.spotify.com/artist/4Qvflafuw7a0F2E3NonxsA"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202190,
+      "name": "New God",
+      "url": "https://open.spotify.com/track/5TxHd6feUaIpJxLAjpYJZp"
+    },
+    {
+      "album": {
         "name": "NEW LOOK",
         "url": "https://open.spotify.com/album/0nIHweIUCe2nVy5stte3GY"
       },
@@ -43202,6 +43294,24 @@
       "duration_ms": 205080,
       "name": "Pink Cactus Caf\u00e9",
       "url": "https://open.spotify.com/track/7wG9eW4Gdhrvnw1b3r0shg"
+    },
+    {
+      "album": {
+        "name": "nrv",
+        "url": "https://open.spotify.com/album/3dpGk03xqeTM8ZRb6NUg1g"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190026,
+      "name": "PINK CLOUD",
+      "url": "https://open.spotify.com/track/5UhjW4sOyoi5vwYRj6l8C3"
     },
     {
       "album": {
@@ -47644,7 +47754,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 244829,
       "name": "Safety Net - Cry in your bed version",
       "url": "https://open.spotify.com/track/4lhtU5KCrf1U7DYJHQcDxH"
@@ -52396,7 +52506,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 193333,
       "name": "Stephanie",
       "url": "https://open.spotify.com/track/0jOKUf4Q8SurItytC8MrjN"
@@ -52936,7 +53046,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 155005,
       "name": "Subway Sexists V2",
       "url": "https://open.spotify.com/track/1aWqXuMojCmI91ngzCWZKz"
@@ -56122,7 +56232,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 245800,
       "name": "The Liberation Frequency",
       "url": "https://open.spotify.com/track/2M9ZSHEQVaqdwcKoePiVKe"

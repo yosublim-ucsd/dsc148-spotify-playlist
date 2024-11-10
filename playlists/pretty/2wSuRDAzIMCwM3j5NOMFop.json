@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAALj+5UiGgiAJWeKFd9TZQto9cQ5MQ",
+  "snapshot_id": "AAAAMbMmpLH+6XVbwuHFimU1k6mNZI8t",
   "tracks": [
     {
       "added_at": "2023-01-07 05:08:09",
@@ -679,6 +679,54 @@
       "duration_ms": 232466,
       "name": "I Never Told You What I Do for a Living",
       "url": "https://open.spotify.com/track/6gLn8QhAYL4dEwdpVjfCPl"
+    },
+    {
+      "added_at": "2024-11-09 07:49:01",
+      "album": {
+        "name": "Wage Wars Get Rich Die Handsome",
+        "url": "https://open.spotify.com/album/1NwWEsaGkDshr7vA7uOOlN"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 150346,
+      "name": "Wage Wars Get Rich Die Handsome",
+      "url": "https://open.spotify.com/track/0xrvkq5EEpHZWKmacINtuh"
+    },
+    {
+      "added_at": "2024-11-09 14:58:24",
+      "album": {
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 211333,
+      "name": "Bang The Doldrums",
+      "url": "https://open.spotify.com/track/1Fvf8AO4GWwjLU12Im0s0q"
+    },
+    {
+      "added_at": "2024-11-09 15:00:21",
+      "album": {
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 186026,
+      "name": "Fame < Infamy",
+      "url": "https://open.spotify.com/track/0EwfAdBab8DRcDCC1RKhMY"
     }
   ],
   "unique_name": "From the Mouth of Evil",

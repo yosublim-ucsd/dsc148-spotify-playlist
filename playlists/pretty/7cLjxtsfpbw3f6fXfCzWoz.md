@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7cLjxtsfpbw3f6fXfCzWoz.md) - [plain]
 
 > For the bisexuals.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 52 songs - 3 hr 2 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 56 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,5 +60,9 @@ pretty - [cumulative](/playlists/cumulative/7cLjxtsfpbw3f6fXfCzWoz.md) - [plain]
 | 50 | [Give 'Em Hell, Kid](https://open.spotify.com/track/0axF06XwNLobcx5z8BVtYw) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 2:18 |
 | 51 | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 |
 | 52 | [Cubicles](https://open.spotify.com/track/0Unc6GaK4h3RXmUbUAvtdc) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 3:51 |
+| 53 | [Grand Theft Autumn / Where Is Your Boy](https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:11 |
+| 54 | [Sending Postcards From a Plane Crash \(Wish You Were Here\)](https://open.spotify.com/track/6myPy86FHUBJsFi7RAWp5Y) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 2:56 |
+| 55 | [Bang The Doldrums](https://open.spotify.com/track/1Fvf8AO4GWwjLU12Im0s0q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:31 |
+| 56 | [I've Got All This Ringing In My Ears And None On My Fingers](https://open.spotify.com/track/1CRVvwUopaV42bAEvoh194) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 4:06 |
 
-Snapshot ID: `AAAAQDmgf902fQtLu0TKqbPVYFLzgaHy`
+Snapshot ID: `AAAARHX9SpXJUSrDz6xjKhMARrYcICAZ`

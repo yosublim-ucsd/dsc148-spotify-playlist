@@ -6412,7 +6412,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 201052,
       "name": "Barro",
       "url": "https://open.spotify.com/track/131d6Ui0C7bsQPeprvawCy"
@@ -9993,6 +9993,24 @@
     },
     {
       "album": {
+        "name": "AKKOR",
+        "url": "https://open.spotify.com/album/7cJXufqiT9XL1V80r77P4G"
+      },
+      "artists": [
+        {
+          "name": "Melike \u015eahin",
+          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193621,
+      "name": "Can\u0131n Beni \u00c7ekti",
+      "url": "https://open.spotify.com/track/1UIznGFIwNUKUza5kJ9f2G"
+    },
+    {
+      "album": {
         "name": "Can\u0131n Beni \u00c7ekti",
         "url": "https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB"
       },
@@ -10004,7 +10022,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 193621,
       "name": "Can\u0131n Beni \u00c7ekti",
       "url": "https://open.spotify.com/track/6xTi66mobAdZcKR3SMyygD"
@@ -35254,10 +35272,36 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 151348,
       "name": "Menina de Vermelho",
       "url": "https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i"
+    },
+    {
+      "album": {
+        "name": "Menina de Vermelho",
+        "url": "https://open.spotify.com/album/1y4U5TruuQ0nFNYzaD4etW"
+      },
+      "artists": [
+        {
+          "name": "MC Menor JP",
+          "url": "https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU"
+        },
+        {
+          "name": "The Ironix",
+          "url": "https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm"
+        },
+        {
+          "name": "RAMONMIX",
+          "url": "https://open.spotify.com/artist/0VG8uPYk0ymnDxundrTGZK"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151348,
+      "name": "Menina de Vermelho",
+      "url": "https://open.spotify.com/track/5oHWEvKSsl1DVxAgRBReI9"
     },
     {
       "album": {
@@ -35272,6 +35316,10 @@
         {
           "name": "MC Xangai",
           "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
         }
       ],
       "date_added": "2024-10-29",
@@ -58982,6 +59030,36 @@
       "duration_ms": 254664,
       "name": "Veneka",
       "url": "https://open.spotify.com/track/2nWlJ8gwkn5KPADD07zcmw"
+    },
+    {
+      "album": {
+        "name": "Vennilavu Saaral (From \"Amaran\")",
+        "url": "https://open.spotify.com/album/1vXk0lE0azw39sa9gyqWrb"
+      },
+      "artists": [
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Rakshita Suresh",
+          "url": "https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Yugabharathi",
+          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Vennilavu Saaral (From \"Amaran\")",
+      "url": "https://open.spotify.com/track/2jxVdHfnAxdv0iKKtLYL54"
     },
     {
       "album": {

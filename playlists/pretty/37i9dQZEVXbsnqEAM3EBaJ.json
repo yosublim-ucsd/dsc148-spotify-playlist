@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAPAvlB0sWihDMdRB2cLSTy",
+  "snapshot_id": "AAAAAAAAAABLUShs491pIbp7+hb9lbBp",
   "tracks": [
     {
       "added_at": "2024-11-08 03:00:00",
@@ -75,22 +75,6 @@
       "duration_ms": 229914,
       "name": "Ategnatos - Acoustic Version",
       "url": "https://open.spotify.com/track/053s3teMq4Sg32sATG9fkL"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "Rocking Horse (Live)",
-        "url": "https://open.spotify.com/album/4VCFCNy4B35Mx0qzG6JLoF"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 185396,
-      "name": "Once - Live 1994",
-      "url": "https://open.spotify.com/track/0n3RHRWVPgzEaTDkRLiM5C"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -379,6 +363,26 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
+        "name": "6 Pieces, Op. 51: No. 6 in F Minor. Valse sentimentale. Tempo di Valse",
+        "url": "https://open.spotify.com/album/1sOHqAaBTLXzaM6W1pvG4h"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Luis Kolodin",
+          "url": "https://open.spotify.com/artist/3fvAFprt7ANdy6Yc6UR7LQ"
+        }
+      ],
+      "duration_ms": 259133,
+      "name": "6 Pieces, Op. 51: No. 6 in F Minor. Valse sentimentale. Tempo di Valse",
+      "url": "https://open.spotify.com/track/6F4SCkpa3oDCrR8sgKnPat"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
         "name": "Mariposa Traicionera (Sped Up)",
         "url": "https://open.spotify.com/album/60q5xKoDqN4JTrHSDaP6eM"
       },
@@ -411,38 +415,6 @@
       "duration_ms": 321101,
       "name": "All I Ever Am",
       "url": "https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "Wachturm",
-        "url": "https://open.spotify.com/album/6lLuNIlSlFpBbIB4IaP1ez"
-      },
-      "artists": [
-        {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
-        }
-      ],
-      "duration_ms": 225278,
-      "name": "Wachturm - 2024 Remaster",
-      "url": "https://open.spotify.com/track/0eorgye9OXsz3WBuMSigbS"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "Liars & Thieves",
-        "url": "https://open.spotify.com/album/5X9jrjEjUbdPwgoVcv6BCv"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 260680,
-      "name": "Liars & Thieves",
-      "url": "https://open.spotify.com/track/3yxUpNlToBwRVPMYm1FpyL"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -495,22 +467,6 @@
       "duration_ms": 229997,
       "name": "Disease",
       "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "SUPERCHARGED",
-        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 203640,
-      "name": "Ok, But This Is The Last Time",
-      "url": "https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -611,54 +567,6 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Out Of Luck (Live Berkeley '81)",
-        "url": "https://open.spotify.com/album/2aDSKUubGBJRMKNF5sPirx"
-      },
-      "artists": [
-        {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Holiday In Cambodia - Live",
-      "url": "https://open.spotify.com/track/31I5JBTblIWeuWjM3NpWor"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "Live At The Leadmill",
-        "url": "https://open.spotify.com/album/13TETXdyxoaY5BUd0oOfqw"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 412360,
-      "name": "Hysteria - Live",
-      "url": "https://open.spotify.com/track/0TO2wBLvsxAKqoLaEcXPP8"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "\u2018hours\u2026\u2019 Remix E.P.",
-        "url": "https://open.spotify.com/album/6IQ1TMrHXHu32amlfnZl48"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 264287,
-      "name": "Thursday\u2019s Child - Hip Hop Mix",
-      "url": "https://open.spotify.com/track/53WTJ8VXWi8iamMBoUUprq"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
         "name": "She Wears Black",
         "url": "https://open.spotify.com/album/6tWVMD8gYwPUkrB3k7KPcK"
       },
@@ -739,42 +647,6 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Keep It On Track (Live At The Print Shop)",
-        "url": "https://open.spotify.com/album/2vl03zO7hAX9rpJu6dtR8M"
-      },
-      "artists": [
-        {
-          "name": "Collective Soul",
-          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
-        }
-      ],
-      "duration_ms": 286365,
-      "name": "Keep It On Track (Live At The Print Shop)",
-      "url": "https://open.spotify.com/track/1uPwm5cGltrqGjYko8GROS"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "WIPLASH",
-        "url": "https://open.spotify.com/album/4p5UD2hEyjQ2GGuHbSKTDf"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        },
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "X",
-      "url": "https://open.spotify.com/track/5LfSEltyBQ0o10ravNgvLM"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
         "name": "M.O.N.S.T.E.R",
         "url": "https://open.spotify.com/album/2JGSSMxecWt7iAVsAN9asn"
       },
@@ -851,26 +723,6 @@
       "duration_ms": 239733,
       "name": "Time On My Hands",
       "url": "https://open.spotify.com/track/5T8ON5PmKZmIBRP3EECkXG"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "Illusionists",
-        "url": "https://open.spotify.com/album/38rvimcyUK6XpwLVplPrum"
-      },
-      "artists": [
-        {
-          "name": "DLUV",
-          "url": "https://open.spotify.com/artist/6vsDDBeGXhQcwQbSJVMNfJ"
-        },
-        {
-          "name": "Orgy",
-          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
-        }
-      ],
-      "duration_ms": 261465,
-      "name": "Illusionists",
-      "url": "https://open.spotify.com/track/1wZfGRZC1hn0T5Fr98RUqU"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -971,22 +823,6 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Home Improvement",
-        "url": "https://open.spotify.com/album/31zpQaCjaxluAa2KPHACYK"
-      },
-      "artists": [
-        {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
-        }
-      ],
-      "duration_ms": 175485,
-      "name": "Home Improvement",
-      "url": "https://open.spotify.com/track/0fjIk7DXmHlPFjzP6yjQAW"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
         "name": "Careless Whisper EP",
         "url": "https://open.spotify.com/album/1kpWzb7Wn81IhCagRN3InU"
       },
@@ -999,22 +835,6 @@
       "duration_ms": 342229,
       "name": "Careless Whisper - Live From Madison Square Garden",
       "url": "https://open.spotify.com/track/7BSyOLBcFhI6kD6ADNnxtr"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "Confession",
-        "url": "https://open.spotify.com/album/6YK8axuJDVV1RkMrZtUurS"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 203200,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/0jDgi8JLdQdyO18wXaMSSv"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -1199,22 +1019,6 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Entrop\u00eda",
-        "url": "https://open.spotify.com/album/00JXQ6363PciiJnJhwf9gv"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 190336,
-      "name": "Entrop\u00eda",
-      "url": "https://open.spotify.com/track/2CBG4JM0DIGZOBOHsVffYF"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/5XjuB8WjardHuZpaMy6LXP"
       },
@@ -1323,30 +1127,6 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "LA HAINE",
-        "url": "https://open.spotify.com/album/5veFgH2NUVkKi7uTfQrAbG"
-      },
-      "artists": [
-        {
-          "name": "Mercer",
-          "url": "https://open.spotify.com/artist/7aSsnDTH11xS2yIn6cNtsF"
-        },
-        {
-          "name": "LA HAINE.",
-          "url": "https://open.spotify.com/artist/2TzvfyYIuQcSeXu95kMBks"
-        },
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 267471,
-      "name": "BURNIN' AND LOOTIN' (Remix MERCER) [feat. Bob Marley & The Wailers]",
-      "url": "https://open.spotify.com/track/1N7cTsELbjndxW01GU7Gny"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
         "name": "The Pronoia Sessions",
         "url": "https://open.spotify.com/album/0s6KhXlfy0PtPrMbrs8DZK"
       },
@@ -1379,98 +1159,6 @@
       "duration_ms": 222000,
       "name": "Where Do We Go From Here? - Fairlane Remix",
       "url": "https://open.spotify.com/track/4VbnOwZ0CcBeDpr8t9dH54"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "Haciendo Pichula",
-        "url": "https://open.spotify.com/album/49rJMOuwPSbMY5Od86C6KA"
-      },
-      "artists": [
-        {
-          "name": "Rene Puente",
-          "url": "https://open.spotify.com/artist/6IxRJcjeiHKi4d4m9klWAA"
-        },
-        {
-          "name": "JB The Voice",
-          "url": "https://open.spotify.com/artist/7vA5AqDrKvwuqhLJVQSdUu"
-        },
-        {
-          "name": "Artistas Telet\u00f3n",
-          "url": "https://open.spotify.com/artist/2nt1mTWr5GbX9IeepwGaYd"
-        },
-        {
-          "name": "Albert Andr\u00e9s",
-          "url": "https://open.spotify.com/artist/4On5KWzUkafTns5R7PVVEn"
-        },
-        {
-          "name": "Angel Parra",
-          "url": "https://open.spotify.com/artist/4zVtp9LhWzT5n1w27c0f6l"
-        },
-        {
-          "name": "Artistas del Parque Xcaret",
-          "url": "https://open.spotify.com/artist/0KdYhahrgZylBoBwA2DNIa"
-        },
-        {
-          "name": "Buddy Richard",
-          "url": "https://open.spotify.com/artist/6qSkZrS7Xdje9DVRXlNmpE"
-        },
-        {
-          "name": "Cana de puente alto",
-          "url": "https://open.spotify.com/artist/5kMLCGqpPdSLb2CIJBVWsK"
-        },
-        {
-          "name": "Chamaquito",
-          "url": "https://open.spotify.com/artist/082uJVKDzvNlQAzLUpHfY3"
-        },
-        {
-          "name": "ColoColo",
-          "url": "https://open.spotify.com/artist/5S6vzc5aVKUqHhIe9yHbJw"
-        },
-        {
-          "name": "Daniel Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/2R0KuBcEcUp6thf2HHLElR"
-        },
-        {
-          "name": "Dj Kuri",
-          "url": "https://open.spotify.com/artist/21DWCfZWbG67Ycuh3efqN6"
-        },
-        {
-          "name": "Don Cheto",
-          "url": "https://open.spotify.com/artist/5jZNm2VcrKPHrnwxkJnKsx"
-        },
-        {
-          "name": "Edwin minder",
-          "url": "https://open.spotify.com/artist/2jc5ZnunsHg6OXzGMRn7R0"
-        },
-        {
-          "name": "El General",
-          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
-        },
-        {
-          "name": "El Papi Micky",
-          "url": "https://open.spotify.com/artist/2UELoJlr5Cs7mKHqFIx4JK"
-        },
-        {
-          "name": "Gold2",
-          "url": "https://open.spotify.com/artist/3WQl58DpVB5VwRBjHkzwHj"
-        },
-        {
-          "name": "Grupo Karicia",
-          "url": "https://open.spotify.com/artist/0LOfrH82HIHcCXk3eFF7og"
-        },
-        {
-          "name": "Jere Kleinn",
-          "url": "https://open.spotify.com/artist/4VnR9PgjERud0qhNSNBEsB"
-        },
-        {
-          "name": "Choche007",
-          "url": "https://open.spotify.com/artist/73T0XDrX9QfYooYKv3Poxf"
-        }
-      ],
-      "duration_ms": 222250,
-      "name": "Ayuda Me Duele el Pene",
-      "url": "https://open.spotify.com/track/2OlbkYZiKzyE5h0053krcK"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -1579,26 +1267,6 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Symphony No. 4 in F Minor, Op. 36: Selections (Abridged) (Arr. Papalin for Recorders)",
-        "url": "https://open.spotify.com/album/3tLpDO7VolQZD3KZuyoAhp"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Papalin",
-          "url": "https://open.spotify.com/artist/60FVzPRvdZ4K3nZDd6mojD"
-        }
-      ],
-      "duration_ms": 51989,
-      "name": "Symphony No. 4 in F Minor, Op. 36: Selections: 2. Andantino in modo di Canzona (Abridged) (Arr. Papalin for Recorders)",
-      "url": "https://open.spotify.com/track/1wVm0zJgOcbmHpkpkbbOVF"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
         "name": "50 Years in Rock (Brand New Tracks!)",
         "url": "https://open.spotify.com/album/4ie6aTfYFwcOvrUWLFIjhd"
       },
@@ -1699,98 +1367,6 @@
       "duration_ms": 201320,
       "name": "Last Dinosaur",
       "url": "https://open.spotify.com/track/2d3QMUL5LNCKAUYz7pCxEi"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "Haciendo Pichula",
-        "url": "https://open.spotify.com/album/49rJMOuwPSbMY5Od86C6KA"
-      },
-      "artists": [
-        {
-          "name": "Rene Puente",
-          "url": "https://open.spotify.com/artist/6IxRJcjeiHKi4d4m9klWAA"
-        },
-        {
-          "name": "JB The Voice",
-          "url": "https://open.spotify.com/artist/7vA5AqDrKvwuqhLJVQSdUu"
-        },
-        {
-          "name": "Artistas Telet\u00f3n",
-          "url": "https://open.spotify.com/artist/2nt1mTWr5GbX9IeepwGaYd"
-        },
-        {
-          "name": "Albert Andr\u00e9s",
-          "url": "https://open.spotify.com/artist/4On5KWzUkafTns5R7PVVEn"
-        },
-        {
-          "name": "Angel Parra",
-          "url": "https://open.spotify.com/artist/4zVtp9LhWzT5n1w27c0f6l"
-        },
-        {
-          "name": "Chamaquito",
-          "url": "https://open.spotify.com/artist/082uJVKDzvNlQAzLUpHfY3"
-        },
-        {
-          "name": "ColoColo",
-          "url": "https://open.spotify.com/artist/5S6vzc5aVKUqHhIe9yHbJw"
-        },
-        {
-          "name": "Daniel Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/2R0KuBcEcUp6thf2HHLElR"
-        },
-        {
-          "name": "Don Cheto",
-          "url": "https://open.spotify.com/artist/5jZNm2VcrKPHrnwxkJnKsx"
-        },
-        {
-          "name": "Edwin minder",
-          "url": "https://open.spotify.com/artist/2jc5ZnunsHg6OXzGMRn7R0"
-        },
-        {
-          "name": "El Encuentro De Los Artistas",
-          "url": "https://open.spotify.com/artist/3Kwcm25vrEDO6TPS3MFUGh"
-        },
-        {
-          "name": "El Papi Micky",
-          "url": "https://open.spotify.com/artist/2UELoJlr5Cs7mKHqFIx4JK"
-        },
-        {
-          "name": "Grupo Karicia",
-          "url": "https://open.spotify.com/artist/0LOfrH82HIHcCXk3eFF7og"
-        },
-        {
-          "name": "Huevito Rey",
-          "url": "https://open.spotify.com/artist/1iWvFn2wP4gAwZEZyvtusU"
-        },
-        {
-          "name": "Dj Kuri",
-          "url": "https://open.spotify.com/artist/21DWCfZWbG67Ycuh3efqN6"
-        },
-        {
-          "name": "La Fixapilar",
-          "url": "https://open.spotify.com/artist/7xoejOm41TzsFey5bcHFCm"
-        },
-        {
-          "name": "Los Huasos Quincheros",
-          "url": "https://open.spotify.com/artist/4y2njzlk64o4wUdX8Ph8aM"
-        },
-        {
-          "name": "Los Picantes",
-          "url": "https://open.spotify.com/artist/2yvZnt3TKXoYhdcbQi6vpO"
-        },
-        {
-          "name": "Luis Dimas",
-          "url": "https://open.spotify.com/artist/6GiuMj37ySz4NQxtKOTE19"
-        },
-        {
-          "name": "Patricio Manns",
-          "url": "https://open.spotify.com/artist/0qX7rdOqbH8vUUeXUUsiqf"
-        }
-      ],
-      "duration_ms": 189963,
-      "name": "Quesillo en la Tula",
-      "url": "https://open.spotify.com/track/6J7WecDa5vZiOTnwCbYv4h"
     },
     {
       "added_at": "2024-11-08 03:00:00",

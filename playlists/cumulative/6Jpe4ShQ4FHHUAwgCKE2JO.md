@@ -4,7 +4,7 @@
 
 > This country is a corpse
 
-29 songs - 1 hr 51 min
+30 songs - 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Highwomen](https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:32 | 2023-05-15 |  |
 | [Insanity \- Live](https://open.spotify.com/track/6oLNowpcdWveCBm5l52Wwj) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Farewell: Live From The Universal Amphitheatre\-Halloween 1995](https://open.spotify.com/album/1wqqDRJCbYsK9QSjNR55e5) | 7:42 | 2023-07-31 |  |
 | [Jeff Found A Genie](https://open.spotify.com/track/3FZ6EglonCHH9vBDuRiVyQ) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [Spring](https://open.spotify.com/album/0FKUaMZRABK2f7HjJuyAfT) | 2:26 | 2023-07-09 |  |
+| [Magpie](https://open.spotify.com/track/0Nx1m4J8mlBW34aUW7wcy2) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 2:00 | 2024-11-09 |  |
 | [Only a Pawn in Their Game](https://open.spotify.com/track/6lib77q4koq52srysevRfT) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:29 | 2023-05-22 |  |
 | [Out With the Crow](https://open.spotify.com/track/3rkRWnb8aaiXMevBmf2Ul8) | [The Haunted Windchimes](https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2) | [Out With the Crow](https://open.spotify.com/album/1nbXKbgWArwy2KuLItW6qh) | 2:44 | 2024-09-16 |  |
 | [Providence](https://open.spotify.com/track/4VGR3mr2WbiD0splKGasFc) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Providence](https://open.spotify.com/album/0mV9xVaTWHbakQC10LKtgL) | 3:03 | 2023-10-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 173622,
+  "num_followers": 173635,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZywDAAAAAACqrCKKs1y5rkfBqIfb+N94",
+  "snapshot_id": "Zy1UgAAAAABYpPLmOCUlAx+oK702hKc0",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Forever Sessions (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 176491,
-      "name": "Coffee Shop Soundtrack - ATL's Version",
-      "url": "https://open.spotify.com/track/2aC1jd0ehB0Zh8WYxwFZQ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ILLENIUM",
         "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 187317,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/0NNFtjZHwjTZzBtBkRxhtY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Forever Sessions (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 176491,
+      "name": "Coffee Shop Soundtrack - ATL's Version",
+      "url": "https://open.spotify.com/track/2aC1jd0ehB0Zh8WYxwFZQ4"
     },
     {
       "added_at": null,

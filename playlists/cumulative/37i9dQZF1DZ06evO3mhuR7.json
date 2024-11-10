@@ -1427,6 +1427,28 @@
     },
     {
       "album": {
+        "name": "Orboretum: The Orb Collection",
+        "url": "https://open.spotify.com/album/7tIEBx66gffGNBatufr1jZ"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        },
+        {
+          "name": "David Gilmour",
+          "url": "https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499426,
+      "name": "Metallic Spheres in Colour - Round Side - 2024 Edit",
+      "url": "https://open.spotify.com/track/7nnPbKu2ShF8QDuDxsUMr7"
+    },
+    {
+      "album": {
         "name": "Metallic Spheres In Colour: Movement 1 - Excerpt",
         "url": "https://open.spotify.com/album/4GecjGVxIqh9KGvo92FbUh"
       },
@@ -1742,10 +1764,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 572293,
       "name": "Perpetual Dawn",
       "url": "https://open.spotify.com/track/34Oyuo4A14MRdn8auc0cix"
+    },
+    {
+      "album": {
+        "name": "Orboretum: The Orb Collection",
+        "url": "https://open.spotify.com/album/194FGE9Sv4NPR3PhV5qE4f"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230906,
+      "name": "Perpetual Dawn - 2024 Version",
+      "url": "https://open.spotify.com/track/27eQProvVnuFHIx5jdbwtr"
     },
     {
       "album": {
@@ -2134,7 +2174,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 332133,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/26G57zuEtPi7YuUsW5fQwP"
@@ -2264,7 +2304,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 906400,
       "name": "Spanish Castles In Space",
       "url": "https://open.spotify.com/track/7IHvMrVey9pw6dmhup02Qq"

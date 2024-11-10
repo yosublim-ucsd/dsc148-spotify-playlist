@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover:  Hannah Mae
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,249 likes - 65 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,260 likes - 65 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rode Draad](https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH) | 2:56 |
-| 2 | [Je T'aime](https://open.spotify.com/track/3JMG73kZGHTL0PXvxO7xnA) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Je T'aime](https://open.spotify.com/album/2RrSrjr3Cj1r5t6OYI9eu5) | 2:59 |
+| 2 | [Je T'aime](https://open.spotify.com/track/3JMG73kZGHTL0PXvxO7xnA) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Je T'aime](https://open.spotify.com/album/2RrSrjr3Cj1r5t6OYI9eu5) | 2:59 |
 | 3 | [Heel De Nacht Alleen](https://open.spotify.com/track/0CVFLeX7D7K204cXJ6nxCH) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Heel De Nacht Alleen](https://open.spotify.com/album/2ZxrbBzloUG3mFQU5M0x0E) | 2:34 |
 | 4 | [Het Midden](https://open.spotify.com/track/5650jkmPhrqy7sdXQ9O9mL) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Het Midden](https://open.spotify.com/album/1eYh1llwQaIEZz3EowQFGS) | 2:41 |
 | 5 | [Alweer Verliefd](https://open.spotify.com/track/4MeiWck3WGPwUtIoQWAh8b) | [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN) | [Alweer Verliefd](https://open.spotify.com/album/5TE1UZncCKnpW525bvg2bY) | 2:02 |

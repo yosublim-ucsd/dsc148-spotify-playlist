@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 
 > POV: you're the main character in a romance novel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,988 likes - 59 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,224 likes - 59 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 | 10 | [A Colour Field \- Piano Version](https://open.spotify.com/track/4ukcqr2CrApch1Ddjk1yxk) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [A Colour Field \(Piano Version\)](https://open.spotify.com/album/45cblmLOyEeXopS1hBlEzn) | 2:34 |
 | 11 | [Into The Sea](https://open.spotify.com/track/6gywoZQXz6atqEGt7hponB) | [Stuart Earl](https://open.spotify.com/artist/54T53xiM58rmjU9dbA2Lu8) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv) | 1:39 |
 | 12 | [Flower Duet \- Goldmund Rework](https://open.spotify.com/track/3x5EerSpxWhkSvLKQ87U2S) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw), [Scott Moore](https://open.spotify.com/artist/3k5d36mzom5r3bYb2ZBI3E), [Emily Pisaturo](https://open.spotify.com/artist/2s0fOzYaGHBDTbKTmY1rLm) | [Flower Duet \(Goldmund Rework\)](https://open.spotify.com/album/38RHDC1MzoEZa5xaDMggAY) | 2:47 |
-| 13 | [Now We Are Free \- From "Gladiator" \- Piano Version](https://open.spotify.com/track/3fC4rRqg5oLATBWmsLRl46) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [Now We Are Free \(From "Gladiator" \- Piano Version\)](https://open.spotify.com/album/4HbvuYFVhbwrCiVUMDFu0Z) | 2:45 |
+| 13 | [Now We Are Free \- \(From "Gladiator"\) \- Piano Version](https://open.spotify.com/track/3fC4rRqg5oLATBWmsLRl46) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [Now We Are Free \(From "Gladiator" \- Piano Version\)](https://open.spotify.com/album/4HbvuYFVhbwrCiVUMDFu0Z) | 2:45 |
 | 14 | [MOONGLADE in Jet Black](https://open.spotify.com/track/4WOAF20NzYuD8ftfANhuog) | [Julie Cooper](https://open.spotify.com/artist/3Orwjks4n4xieFN72XQDQa), [Joby Burgess](https://open.spotify.com/artist/3jNNxhqxHJws22fYew1EC2), [Her Ensemble](https://open.spotify.com/artist/60LMcgWPaQLRwx8dZicM3z), [Camilla Pay](https://open.spotify.com/artist/7yWnwEs8QVQL4cHlbPvwkG), [Oculus Ensemble](https://open.spotify.com/artist/5ztcfnJe9BZtxFnnEIBvYW), [Jessica Cottis](https://open.spotify.com/artist/47Slf02gu2TPZk3H1UbQJT) | [Julie Cooper: Oculus](https://open.spotify.com/album/0K3k8wYtwcI5F68FSQAgaG) | 5:05 |
 | 15 | [Howl's Moving Castle \- Merry\-Go\-Round of Life](https://open.spotify.com/track/20nMssNxX89e7YMoT0gpFQ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Geek Wedding, Vol\. 2: The Sequel](https://open.spotify.com/album/11USWPKwpUSlDyrjBErJ6W) | 3:04 |
 | 16 | [À Bout de Souffle](https://open.spotify.com/track/3IbO32QxBvn6bgyzjmqsJy) | [Tristan Seewer](https://open.spotify.com/artist/1a0fCaPSHXJleGCRaTNi3N) | [À Bout de Souffle](https://open.spotify.com/album/7FcUdtJyhF18dvIuGfpAJZ) | 2:24 |

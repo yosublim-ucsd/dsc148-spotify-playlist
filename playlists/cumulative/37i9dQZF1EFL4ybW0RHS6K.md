@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/27oxH68ZhwZ4Td6jZztQqs">Caza</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-79 songs - 3 hr 40 min
+81 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Freaky Dingen \(feat\. Latifah, Saaff & Caza\)](https://open.spotify.com/track/5VsPGOcT3E1SE13DzmEuVa) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Whiteboy](https://open.spotify.com/artist/4SePiClNpVeSglyNsTvmAD), [Latifah](https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ) | [Freaky Dingen \(feat\. Latifah, Saaff & Caza\)](https://open.spotify.com/album/6I4uvK9tXIaSpWCEqKBhhO) | 3:47 | 2024-01-29 |  |
 | [Gaan We Weg?](https://open.spotify.com/track/02nm2yGw7BygWmRcbFhAlC) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Gaan We Weg?](https://open.spotify.com/album/4SV6Y14WPFNuivMPrbfSas) | 2:21 | 2024-07-12 |  |
 | [Gone](https://open.spotify.com/track/4SD9rX9fCnWiSrV0e8z2Jt) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Cartiez](https://open.spotify.com/artist/56ZZ26azsd2DweoNtobfa1) | [Gone](https://open.spotify.com/album/07x7ouNUiAFvUPiAxvsoTA) | 2:43 | 2024-01-29 |  |
+| [Gouden Lot](https://open.spotify.com/track/4tfvCPL49b7kvO4ShRoQmQ) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Gouden Lot](https://open.spotify.com/album/0p23OEMzHxFBEsEpNvt4za) | 2:09 | 2024-11-09 |  |
 | [Grote Beurt](https://open.spotify.com/track/22IsWgcSkQahpBsAAqAV6r) | [Diaz & Bruno](https://open.spotify.com/artist/6FGZPlL2dhssxgQlpb7I7W), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Grote Beurt](https://open.spotify.com/album/0g9It2xph0256veS65oe8H) | 2:22 | 2024-01-29 |  |
 | [Gwoaning](https://open.spotify.com/track/6iE8AzhOvnQ5zhdvXUHRs2) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Gwoaning](https://open.spotify.com/album/1o9Izzo7LSJZKbKYb7vOAJ) | 1:57 | 2024-01-29 |  |
 | [Hier Voor Jou](https://open.spotify.com/track/7LXLHvHbzP8wHlXRsV6BYj) | [GLOWINTHEDARK](https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P), [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Hier Voor Jou](https://open.spotify.com/album/4cxUBYQYzZ3DvFFP6Ej8Ya) | 3:38 | 2024-01-29 |  |
@@ -63,6 +64,7 @@
 | [Openen](https://open.spotify.com/track/4m1LUEkx0rKHOOfDoGO3MS) | [Two Crooks](https://open.spotify.com/artist/0KbxWTWxxOTbm3eiCAEYVV), [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Openen](https://open.spotify.com/album/3H35wgfNBb0kOn0B5z5v0V) | 3:23 | 2024-01-29 |  |
 | [Overdreven](https://open.spotify.com/track/7ItnRSZeH4FcMbUj3i3BHO) | [Selma Omari](https://open.spotify.com/artist/2gLdG0pJEOmwWf6eDrbtyg) | [Overdreven](https://open.spotify.com/album/3ezgG56ERjnRH1kZpz1wgc) | 2:43 | 2024-01-29 | 2024-02-12 |
 | [P2](https://open.spotify.com/track/6UnLRaw0n7Esvq7byKTnwI) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [P2](https://open.spotify.com/album/3xyPnvAmJLL9h9vNZg2GPg) | 2:02 | 2024-01-29 |  |
+| [PGS](https://open.spotify.com/track/0QfxzAZP55JCJGDFEuYFnj) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [PGS](https://open.spotify.com/album/18OFFjK1s1rudggD1m1Na3) | 2:31 | 2024-11-09 |  |
 | [Ping Pong](https://open.spotify.com/track/42GlLOlvrkjaP3zLPfFJdH) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Ping Pong](https://open.spotify.com/album/7HfVLB0nKCC7HNVNGtbdSQ) | 2:23 | 2024-01-29 |  |
 | [Pony](https://open.spotify.com/track/5vMJ1Cm1UilRWUB61juU2g) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Jongen Van De Straat](https://open.spotify.com/album/4CdHokdfzbzZYoJGLAvQ8T) | 3:04 | 2024-01-29 |  |
 | [Poppen Aan Het Dansen](https://open.spotify.com/track/1XmLiLaztbziNgNb5i0kJZ) | [GLOWINTHEDARK](https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Lituatie 2 Aftershock](https://open.spotify.com/album/1C7APDdiwBmVB5O4LF3Alz) | 3:22 | 2024-01-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > os louvores que dão força à irmã do cross, <a href="https://www.instagram.com/irmamarlucesantosof/">@irmamarluceof</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,132 likes - 17 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,215 likes - 17 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

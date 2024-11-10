@@ -4,7 +4,7 @@
 
 > All the highlights from the world of indie! Cover: Mk.Gee
 
-378 songs - 21 hr 53 min
+379 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Want Me Dead](https://open.spotify.com/track/4o7vtj953aOapFCrM83odl) | [drea](https://open.spotify.com/artist/5uAxEwTjRGgSqL1NkSROTM) | [Want Me Dead](https://open.spotify.com/album/2lEmhiDE29p2OzX3pQ7sRZ) | 2:55 | 2024-08-29 | 2024-11-01 |
 | [war](https://open.spotify.com/track/48oFsXk4HYLQWd8ELs82pj) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [war](https://open.spotify.com/album/6uZa4NhqqeV3gzH7XpP1q6) | 2:09 | 2024-08-15 | 2024-09-27 |
 | [Water the Flowers, Pray for a Garden](https://open.spotify.com/track/0bx0g4s3zy0nfonXqPoJJL) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/6v6I7JpwdAZ0DqUWsGxR4H) | 3:26 | 2024-06-27 | 2024-07-27 |
+| [Way Back Home](https://open.spotify.com/track/6zgpB19NFV0ARh8IDdQDnH) | [KAPARI](https://open.spotify.com/artist/1YS9GiGL9yQ1A85ha3hPIX) | [Happy Life Go!](https://open.spotify.com/album/5elFqU3q3kuUG8anlOj0Jc) | 2:28 | 2024-11-09 |  |
 | [Weak](https://open.spotify.com/track/7IoOgmEwcj8Cj6dTDHQ2IC) | [NEA EINI](https://open.spotify.com/artist/5d9OWj9gEcEXkTsILdZg0S) | [Weak](https://open.spotify.com/album/18k9auOfMZJfLSklwRp9yh) | 3:48 | 2024-08-29 | 2024-09-27 |
 | [Weekend Boy](https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll) | 2:51 | 2024-10-03 |  |
 | [What Are You For](https://open.spotify.com/track/09fmOXjfDhJehsz0vsgkxD) | [Coated](https://open.spotify.com/artist/6HgRZtY7FpnQpbHBqv6IMo) | [Once Again The Timing's Off](https://open.spotify.com/album/6si10oGIBaLvVFrUoVtWlA) | 2:43 | 2024-11-07 |  |

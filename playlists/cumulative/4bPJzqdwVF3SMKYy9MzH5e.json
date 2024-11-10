@@ -3193,6 +3193,24 @@
     },
     {
       "album": {
+        "name": "GOODBYE SAL\u00d2",
+        "url": "https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271464,
+      "name": "Baby G",
+      "url": "https://open.spotify.com/track/4n4doJ9RMuarUvkSjwcF7U"
+    },
+    {
+      "album": {
         "name": "Baby Hotline / Tea Errors",
         "url": "https://open.spotify.com/album/1AaAZVHtUWpJuLpq96VUuQ"
       },

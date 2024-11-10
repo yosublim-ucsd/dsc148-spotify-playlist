@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 100675,
+  "num_followers": 100728,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "\u00c1gua Salgada",
-        "url": "https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv"
-      },
-      "artists": [
-        {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
-        }
-      ],
-      "duration_ms": 201558,
-      "name": "\u00c1gua Salgada",
-      "url": "https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Samba",
         "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 160238,
       "name": "Samba",
       "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "\u00c1gua Salgada",
+        "url": "https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        }
+      ],
+      "duration_ms": 201558,
+      "name": "\u00c1gua Salgada",
+      "url": "https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -211,18 +211,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Farol das Estrelas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl"
+        "name": "Banho de Mar",
+        "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+        },
+        {
+          "name": "Re.Significa",
+          "url": "https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ"
         }
       ],
-      "duration_ms": 228866,
-      "name": "Farol das Estrelas - Ao Vivo",
-      "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
+      "duration_ms": 169531,
+      "name": "Banho de Mar",
+      "url": "https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -251,22 +255,18 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Banho de Mar",
-        "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
+        "name": "Farol das Estrelas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1NZIJJYmsaLRBiTTADoYPl"
       },
       "artists": [
         {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
-        },
-        {
-          "name": "Re.Significa",
-          "url": "https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         }
       ],
-      "duration_ms": 169531,
-      "name": "Banho de Mar",
-      "url": "https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd"
+      "duration_ms": 228866,
+      "name": "Farol das Estrelas - Ao Vivo",
+      "url": "https://open.spotify.com/track/20jawvBWReOUnZ0YCmsuv3"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "Hoje Eu Quero Me Perder (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6XutjfTSWMK45V2wT5yWpe"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 145304,
+      "name": "Hoje Eu Quero Me Perder - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6FORYUPmxuH5aU6yc49CK8"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "Meu Xod\u00f3",
         "url": "https://open.spotify.com/album/7wO4t4Dz8es23EGQ6CG3LS"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 197584,
       "name": "Meu Xodo\u0301",
       "url": "https://open.spotify.com/track/7lG3abZkIFufxhvZi1FUkb"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Hoje Eu Quero Me Perder (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6XutjfTSWMK45V2wT5yWpe"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 145304,
-      "name": "Hoje Eu Quero Me Perder - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6FORYUPmxuH5aU6yc49CK8"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -379,6 +379,26 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "VEJA BABY (Vers\u00e3o Alternativa)",
+        "url": "https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "VEJA BABY - Vers\u00e3o Alternativa",
+      "url": "https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "Ana",
         "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
       },
@@ -395,6 +415,22 @@
       "duration_ms": 232899,
       "name": "Vem C\u00e1",
       "url": "https://open.spotify.com/track/4nRM0WwUuXCCkQMKD4xWFF"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "O Amor Descansa Na Varanda",
+        "url": "https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 204998,
+      "name": "O Amor Descansa Na Varanda",
+      "url": "https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -423,22 +459,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "O Amor Descansa Na Varanda",
-        "url": "https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 204998,
-      "name": "O Amor Descansa Na Varanda",
-      "url": "https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Original Brasil",
         "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 197610,
       "name": "Menina",
       "url": "https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/21dK9qfimpmicXaQG7wrOH"
-      },
-      "artists": [
-        {
-          "name": "Becca Perret",
-          "url": "https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior"
-        },
-        {
-          "name": "Gabriel Gonti",
-          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
-        }
-      ],
-      "duration_ms": 188210,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/4PASxl6ylsKfWqqJQpKQ09"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -507,22 +507,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "VEJA BABY (Vers\u00e3o Alternativa)",
-        "url": "https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/21dK9qfimpmicXaQG7wrOH"
       },
       "artists": [
         {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+          "name": "Becca Perret",
+          "url": "https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior"
         },
         {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
         }
       ],
-      "duration_ms": 202500,
-      "name": "VEJA BABY - Vers\u00e3o Alternativa",
-      "url": "https://open.spotify.com/track/3GCvBFyQNf5HE4UIni7euC"
+      "duration_ms": 188210,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/4PASxl6ylsKfWqqJQpKQ09"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -711,26 +711,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Andar Leve",
-        "url": "https://open.spotify.com/album/6YyWW3XWH2YaEHdbmAfe2P"
-      },
-      "artists": [
-        {
-          "name": "TNS",
-          "url": "https://open.spotify.com/artist/0AjgF3N3x4PUJnZzVYEnXg"
-        },
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 165408,
-      "name": "Andar Leve",
-      "url": "https://open.spotify.com/track/5ZSGfppfIgP8aatrNTe4Lo"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Aroeira",
         "url": "https://open.spotify.com/album/2UgKurYZr5NjpgWfmWKyMb"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 173354,
       "name": "Aroeira",
       "url": "https://open.spotify.com/track/0s7VE3dMS68jvco0GNNR5s"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Andar Leve",
+        "url": "https://open.spotify.com/album/6YyWW3XWH2YaEHdbmAfe2P"
+      },
+      "artists": [
+        {
+          "name": "TNS",
+          "url": "https://open.spotify.com/artist/0AjgF3N3x4PUJnZzVYEnXg"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 165408,
+      "name": "Andar Leve",
+      "url": "https://open.spotify.com/track/5ZSGfppfIgP8aatrNTe4Lo"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Minha Preta",
-        "url": "https://open.spotify.com/album/6wvxib67l7wYhW7T27bnqu"
-      },
-      "artists": [
-        {
-          "name": "Bistro",
-          "url": "https://open.spotify.com/artist/4COVJI0Wq3XJNci3ySWQGx"
-        }
-      ],
-      "duration_ms": 175350,
-      "name": "Minha Preta",
-      "url": "https://open.spotify.com/track/39YYJZ3UwAEpO9Rfq9njw2"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Sorriso De Agog\u00f4",
         "url": "https://open.spotify.com/album/7p22uztBa6bw19hV7Jcqz9"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 188160,
       "name": "Moradia",
       "url": "https://open.spotify.com/track/3q7Vt3TLkekBj4YhzIbjcD"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Minha Preta",
+        "url": "https://open.spotify.com/album/6wvxib67l7wYhW7T27bnqu"
+      },
+      "artists": [
+        {
+          "name": "Bistro",
+          "url": "https://open.spotify.com/artist/4COVJI0Wq3XJNci3ySWQGx"
+        }
+      ],
+      "duration_ms": 175350,
+      "name": "Minha Preta",
+      "url": "https://open.spotify.com/track/39YYJZ3UwAEpO9Rfq9njw2"
     },
     {
       "added_at": "2023-11-24 08:42:40",

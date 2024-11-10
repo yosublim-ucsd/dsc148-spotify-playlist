@@ -840,7 +840,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 199794,
       "name": "_on_call_",
       "url": "https://open.spotify.com/track/2wBTvKILsBVlMwlMlFsZUX"
@@ -1714,7 +1714,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 253373,
       "name": "ALL DAY",
       "url": "https://open.spotify.com/track/1b5zWoDVdnDMaqCq5bX8X6"
@@ -2750,7 +2750,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 264416,
       "name": "Alveg Dagsatt",
       "url": "https://open.spotify.com/track/6dMKPtSgg6xX02mpWpp7CD"
@@ -5746,6 +5746,18 @@
         {
           "name": "Alice Phoebe Lou",
           "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        },
+        {
+          "name": "David Parry",
+          "url": "https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD"
+        },
+        {
+          "name": "Dekel Adin",
+          "url": "https://open.spotify.com/artist/27xyFvRoUUYKOPiY47BbZ9"
+        },
+        {
+          "name": "Ziv Yamin",
+          "url": "https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8"
         }
       ],
       "date_added": "2024-11-08",
@@ -18213,7 +18225,7 @@
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 178524,
+      "duration_ms": 176803,
       "name": "Fine Wine",
       "url": "https://open.spotify.com/track/6K52pf928JK0WkxUn5Zzy2"
     },
@@ -18960,7 +18972,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 203624,
-      "name": "For Me",
+      "name": "For Me (with Brent Faiyaz)",
       "url": "https://open.spotify.com/track/2mo4wJKJJR2lQCZYnTaI4Y"
     },
     {
@@ -22954,7 +22966,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 183376,
       "name": "Hear What I Say",
       "url": "https://open.spotify.com/track/23hUB7BtqlRKgdh3ePkvP2"
@@ -24214,7 +24226,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 174222,
       "name": "Higher",
       "url": "https://open.spotify.com/track/0qJyAFX66MbbB8sHT4PYAM"
@@ -34794,7 +34806,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 161718,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/5pv7uxTZlRLL3yECS5JrHQ"
@@ -39244,7 +39256,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 183272,
       "name": "Nor\u00f0urstjarna",
       "url": "https://open.spotify.com/track/3n1l9JS1H3yFjk8XuCOBnV"
@@ -43454,7 +43466,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 273165,
       "name": "Purple Soul (Stadium Mix)",
       "url": "https://open.spotify.com/track/0PkMDGp3XH9RQmgUuDVOFt"
@@ -46986,7 +46998,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 180923,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/1Hu5RNkiSLE4ntYZcwfzUr"
@@ -49652,7 +49664,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 118561,
       "name": "Space Rock",
       "url": "https://open.spotify.com/track/443F4cnUSVofidUpAIXEuy"

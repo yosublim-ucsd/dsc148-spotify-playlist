@@ -4,7 +4,7 @@
 
 > Fresh new music by independent artists and labels, featuring Neto Becerra Updates every Wednesday
 
-294 songs - 15 hr 38 min
+294 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Antisocial](https://open.spotify.com/track/57rXfnCkm4IoQ6jl9rhEiK) | [Diamante Perez](https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF) | [Antisocial](https://open.spotify.com/album/0LoG3eZmvShNpwovrjFnEm) | 3:38 | 2024-08-07 | 2024-10-03 |
 | [Aquiles Afirmo](https://open.spotify.com/track/5L92JAcxJMVmLlKIWHhLCY) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:18 | 2024-04-24 | 2024-08-08 |
 | [Aromaterapia](https://open.spotify.com/track/7A1CxQf6JtyblxU0Jw5KEO) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94), [Equipo Reforzado](https://open.spotify.com/artist/79l11SbRoVI27ZHUMZ05Ru), [Inoboiz](https://open.spotify.com/artist/72kfJ36enf8Xj9fHmxWvVJ) | [Aromaterapia](https://open.spotify.com/album/5q6eU7szQVafuOxrdhVfAQ) | 3:19 | 2024-11-08 |  |
-| [Ay ay ay ay](https://open.spotify.com/track/2OuMgu1VHufFQ5O6rlAZp7) | [Erick MA](https://open.spotify.com/artist/45zsBiOz69xAwYL3T6Gl1L) | [Ay ay ay ay](https://open.spotify.com/album/5GHjQwbu3PxwXvL1y9nGIo) | 2:55 | 2024-11-08 |  |
+| [Ay ay ay ay](https://open.spotify.com/track/2OuMgu1VHufFQ5O6rlAZp7) | [Erick MA](https://open.spotify.com/artist/45zsBiOz69xAwYL3T6Gl1L) | [Ay ay ay ay](https://open.spotify.com/album/5GHjQwbu3PxwXvL1y9nGIo) | 2:25 | 2024-11-08 |  |
 | [Ay Corazon!](https://open.spotify.com/track/5gfMx3vviWcWPSRtoQYMX3) | [Kike Hernandez Y Su Dubai Norteño Banda](https://open.spotify.com/artist/56wFsanhJwb01r59rDTSFq) | [Ay Corazon!](https://open.spotify.com/album/4SIpc7JruiJB9ZyXTf14tK) | 2:50 | 2024-10-02 |  |
 | [Baby Dante](https://open.spotify.com/track/6iH6b2mLTeO48HQLEZyoTY) | [Jay Primera](https://open.spotify.com/artist/72nZ9Zjt795lmIuu3sg4IT) | [Baby Dante](https://open.spotify.com/album/3YjSS6dw58rW0Q5bgrjJUc) | 2:23 | 2024-08-07 | 2024-09-05 |
 | [BACKWOODS](https://open.spotify.com/track/5r4UMHbysC0qD039Rg0K9s) | [Oscar R](https://open.spotify.com/artist/5jYod7bcSZ0Sg2u4bRvncp) | [Por si mañana no estoy](https://open.spotify.com/album/4kod4dw1BCVpn44T7I2uVN) | 3:07 | 2024-10-10 |  |

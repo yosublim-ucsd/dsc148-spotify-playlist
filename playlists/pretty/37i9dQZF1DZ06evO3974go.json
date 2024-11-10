@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 19502,
+  "num_followers": 19507,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZywDAAAAAABPXd3ZWW5ivqhDB6RaX2Sy",
+  "snapshot_id": "Zy1UgAAAAACeQIy2eExlU3+cl93iVPSC",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 177771,
-      "name": "They Don't Know",
-      "url": "https://open.spotify.com/track/7vvmO2zdUpDfgGLJunyG7v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/57gO7DyFyvl59GdBHtjI74"
       },
@@ -331,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Cry",
-        "url": "https://open.spotify.com/album/7ykcCIJqdcbmAS6GZ6xypx"
+        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
       },
       "artists": [
         {
@@ -340,9 +324,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 169880,
-      "name": "Song Cry",
-      "url": "https://open.spotify.com/track/0OAKpmhof8rDnV9j91XxUl"
+      "duration_ms": 177771,
+      "name": "They Don't Know",
+      "url": "https://open.spotify.com/track/7vvmO2zdUpDfgGLJunyG7v"
     },
     {
       "added_at": null,
@@ -359,6 +343,22 @@
       "duration_ms": 141818,
       "name": "Risk Takers",
       "url": "https://open.spotify.com/track/2MamyTCQ8NxwdXDuAuleWJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Song Cry",
+        "url": "https://open.spotify.com/album/7ykcCIJqdcbmAS6GZ6xypx"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 169880,
+      "name": "Song Cry",
+      "url": "https://open.spotify.com/track/0OAKpmhof8rDnV9j91XxUl"
     },
     {
       "added_at": null,
@@ -415,38 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 227194,
-      "name": "I F*ck Wit You Girl",
-      "url": "https://open.spotify.com/track/2u2fseIt359oKZoq6TxM6C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever Goin In",
-        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/4ivbsok0LJFpPkFauN0vfF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Label Vol. 2",
         "url": "https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj"
       },
@@ -467,22 +435,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ah'chi",
-        "url": "https://open.spotify.com/album/4ktxz9GRn32r4GWaHogUr5"
+        "name": "Forever Goin In",
+        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
       },
       "artists": [
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         }
       ],
-      "duration_ms": 220952,
-      "name": "Ah'chi",
-      "url": "https://open.spotify.com/track/5suBeiydHdrdMvMV98wOQp"
+      "duration_ms": 252693,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/4ivbsok0LJFpPkFauN0vfF"
     },
     {
       "added_at": null,
@@ -496,25 +460,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 265133,
-      "name": "Get TF Out My Face (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/4I44RCVIbiGXUrqVdK96uk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever Goin In",
-        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 141586,
-      "name": "Unlimited Budget",
-      "url": "https://open.spotify.com/track/2HJMz5sKM456DXFNSk8Wz3"
+      "duration_ms": 227194,
+      "name": "I F*ck Wit You Girl",
+      "url": "https://open.spotify.com/track/2u2fseIt359oKZoq6TxM6C"
     },
     {
       "added_at": null,
@@ -539,6 +487,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ah'chi",
+        "url": "https://open.spotify.com/album/4ktxz9GRn32r4GWaHogUr5"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 220952,
+      "name": "Ah'chi",
+      "url": "https://open.spotify.com/track/5suBeiydHdrdMvMV98wOQp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever Goin In",
+        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 141586,
+      "name": "Unlimited Budget",
+      "url": "https://open.spotify.com/track/2HJMz5sKM456DXFNSk8Wz3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 265133,
+      "name": "Get TF Out My Face (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/4I44RCVIbiGXUrqVdK96uk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rich Homie Cartel Vol 1",
         "url": "https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt"
       },
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 209523,
-      "name": "WWYD",
-      "url": "https://open.spotify.com/track/0HnXG2HfMQcsH4ab70JBX3"
+      "duration_ms": 114385,
+      "name": "Friday Night",
+      "url": "https://open.spotify.com/track/6PXNkTD5k1atKFDOF03YId"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
+        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 114385,
-      "name": "Friday Night",
-      "url": "https://open.spotify.com/track/6PXNkTD5k1atKFDOF03YId"
+      "duration_ms": 209523,
+      "name": "WWYD",
+      "url": "https://open.spotify.com/track/0HnXG2HfMQcsH4ab70JBX3"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Sinning",
-        "url": "https://open.spotify.com/album/28BLEt8xrnPe59JC2YQspa"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 176009,
-      "name": "Still Sinning",
-      "url": "https://open.spotify.com/track/3Z4rJ9p17DwHieAEYE2b2F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Authentic (feat. Clever)",
         "url": "https://open.spotify.com/album/1uAmD5f6sOUFpPnPDaR7ns"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 192266,
       "name": "Authentic (feat. Clever)",
       "url": "https://open.spotify.com/track/3476C9I5Qad2eqlGnrRspF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Sinning",
+        "url": "https://open.spotify.com/album/28BLEt8xrnPe59JC2YQspa"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 176009,
+      "name": "Still Sinning",
+      "url": "https://open.spotify.com/track/3Z4rJ9p17DwHieAEYE2b2F"
     },
     {
       "added_at": null,

@@ -177,6 +177,24 @@
     },
     {
       "album": {
+        "name": "Chispa Roja",
+        "url": "https://open.spotify.com/album/4YzuHCvwT5mz6Ga7GccbWn"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211085,
+      "name": "Chispa Roja",
+      "url": "https://open.spotify.com/track/5XHks592LnELvf20Ny43EZ"
+    },
+    {
+      "album": {
         "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
         "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
       },

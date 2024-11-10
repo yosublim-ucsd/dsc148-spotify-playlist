@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,244 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,268 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 62 | [Una Semana](https://open.spotify.com/track/7oERzx2IvTweeSXU7S8wdO) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Una Semana](https://open.spotify.com/album/6btnX8ER1IHMIUqmmQfFVY) | 3:03 |
 | 63 | [Me Gusta](https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Me Gusta](https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42) | 2:38 |
 | 64 | [CARAMELOS](https://open.spotify.com/track/4gC0DGimATZgd8lZW4n0aR) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy) | [CARAMELOS](https://open.spotify.com/album/3xfXp5kKVbWTMvO7bmOGWQ) | 2:45 |
-| 65 | [Sola](https://open.spotify.com/track/5cuxRosukMRtUZUG4pbr0A) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Estani](https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p) | [Chernobyl](https://open.spotify.com/album/6suJodk5P0pTEwVZJlEISn) | 2:23 |
+| 65 | [Sola](https://open.spotify.com/track/5cuxRosukMRtUZUG4pbr0A) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Estani](https://open.spotify.com/artist/3LFsnZBpBCNTonHfGsW9HJ) | [Chernobyl](https://open.spotify.com/album/6suJodk5P0pTEwVZJlEISn) | 2:23 |
 | 66 | [Hielo](https://open.spotify.com/track/0MxEDBr9vDyrtOP5zx6hKc) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Hielo](https://open.spotify.com/album/39JjWxM4ydnOca0wAcCKdn) | 3:45 |
 | 67 | [Llegué Tarde](https://open.spotify.com/track/0MU33IBbZtqRcJA3f4fG5M) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Llegué Tarde](https://open.spotify.com/album/1XORrZyL3U6VkoVgg1mwaW) | 2:57 |
 | 68 | [Vuelva a Ver](https://open.spotify.com/track/1mf4LgYP4u7AEdEawelr6s) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [La Nueva Ola](https://open.spotify.com/album/25w0kbwVprNRy6RisuqLOt) | 3:09 |

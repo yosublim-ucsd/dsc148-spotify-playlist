@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 32077,
+  "num_followers": 32084,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,18 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Respira",
-        "url": "https://open.spotify.com/album/56WTz4lIRGoRo4ywdkPRRE"
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/4fbEwFpY5oaFqO8SK5JHuf"
       },
       "artists": [
         {
-          "name": "Masta Quba",
-          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
-        },
-        {
-          "name": "P. Jaguar",
-          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Respira",
-      "url": "https://open.spotify.com/track/2E5XWHyFzAbrpjmMH8auTC"
+      "duration_ms": 144000,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/0oqW0VCHqp7l7w2oxIkXVG"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -587,18 +583,22 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Mirrors",
-        "url": "https://open.spotify.com/album/4fbEwFpY5oaFqO8SK5JHuf"
+        "name": "Respira",
+        "url": "https://open.spotify.com/album/56WTz4lIRGoRo4ywdkPRRE"
       },
       "artists": [
         {
-          "name": "Jav Cast",
-          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "P. Jaguar",
+          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/0oqW0VCHqp7l7w2oxIkXVG"
+      "duration_ms": 168000,
+      "name": "Respira",
+      "url": "https://open.spotify.com/track/2E5XWHyFzAbrpjmMH8auTC"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -619,26 +619,6 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Place Of Time",
-        "url": "https://open.spotify.com/album/0Cyx07qXiAhlKaheWrMgrY"
-      },
-      "artists": [
-        {
-          "name": "Phlocalyst",
-          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
-        },
-        {
-          "name": "Shy Guy",
-          "url": "https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Being Honest",
-      "url": "https://open.spotify.com/track/18hhnu42fi5F8rCnjauy8m"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
         "name": "Erick",
         "url": "https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL"
       },
@@ -651,6 +631,22 @@
       "duration_ms": 172528,
       "name": "Erick",
       "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
+        "name": "Saguaro",
+        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 132631,
+      "name": "Saguaro",
+      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -671,18 +667,22 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Saguaro",
-        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
+        "name": "Place Of Time",
+        "url": "https://open.spotify.com/album/0Cyx07qXiAhlKaheWrMgrY"
       },
       "artists": [
         {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        },
+        {
+          "name": "Shy Guy",
+          "url": "https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR"
         }
       ],
-      "duration_ms": 132631,
-      "name": "Saguaro",
-      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
+      "duration_ms": 108000,
+      "name": "Being Honest",
+      "url": "https://open.spotify.com/track/18hhnu42fi5F8rCnjauy8m"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "renacer",
-        "url": "https://open.spotify.com/album/7ljgi8uX0xkTFnP7ndveoC"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "renacer",
-      "url": "https://open.spotify.com/track/27rmCpslCNfbrZsdDQGmHq"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
         "name": "Pepe's Tacos",
         "url": "https://open.spotify.com/album/4XKjJzpTibGI3SybkSOO4k"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 186000,
       "name": "Pepe's Tacos",
       "url": "https://open.spotify.com/track/2raVbTBg7w2uXn4nhpmE00"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
+        "name": "renacer",
+        "url": "https://open.spotify.com/album/7ljgi8uX0xkTFnP7ndveoC"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "renacer",
+      "url": "https://open.spotify.com/track/27rmCpslCNfbrZsdDQGmHq"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -979,42 +979,18 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Oda a la Infancia",
-        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/15MvEJUxpxTHPA2vFlNgPh"
       },
       "artists": [
         {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        },
-        {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
         }
       ],
-      "duration_ms": 142939,
-      "name": "Ukulele en Pantitl\u00e1n",
-      "url": "https://open.spotify.com/track/42JzhKGXF2N2mEYkaMsyTu"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
-        "name": "El Tambor",
-        "url": "https://open.spotify.com/album/7pFDCIMxVuXw1qQb0cJfGh"
-      },
-      "artists": [
-        {
-          "name": "Aguachill",
-          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
-        }
-      ],
-      "duration_ms": 106357,
-      "name": "El Tambor",
-      "url": "https://open.spotify.com/track/5Y1tv2UYS9qnJDYsPuv2IS"
+      "duration_ms": 121258,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/3basLClhD8rhrrn2pYczI9"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1039,6 +1015,30 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
+        "name": "Oda a la Infancia",
+        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
+      },
+      "artists": [
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        },
+        {
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        }
+      ],
+      "duration_ms": 142939,
+      "name": "Ukulele en Pantitl\u00e1n",
+      "url": "https://open.spotify.com/track/42JzhKGXF2N2mEYkaMsyTu"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
         "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
         "url": "https://open.spotify.com/album/3fBNcy44LTMVJGhPfMTMYZ"
       },
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/15MvEJUxpxTHPA2vFlNgPh"
+        "name": "El Tambor",
+        "url": "https://open.spotify.com/album/7pFDCIMxVuXw1qQb0cJfGh"
       },
       "artists": [
         {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+          "name": "Aguachill",
+          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
         }
       ],
-      "duration_ms": 121258,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/3basLClhD8rhrrn2pYczI9"
+      "duration_ms": 106357,
+      "name": "El Tambor",
+      "url": "https://open.spotify.com/track/5Y1tv2UYS9qnJDYsPuv2IS"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
+        "name": "Shiny",
+        "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
+      },
+      "artists": [
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+        }
+      ],
+      "duration_ms": 129975,
+      "name": "Shiny",
+      "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
         "name": "Agua",
         "url": "https://open.spotify.com/album/3y3Xc0LlcqTF8JDWDqx0pq"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 197802,
       "name": "Agua",
       "url": "https://open.spotify.com/track/4Reotx5u8AUlqEMkDhhuIQ"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
-        "name": "Shiny",
-        "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
-      },
-      "artists": [
-        {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
-        }
-      ],
-      "duration_ms": 129975,
-      "name": "Shiny",
-      "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Viernes Azul",
-        "url": "https://open.spotify.com/album/3nsTP9n9ikz64G5fpDZvnz"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Viernes Azul",
-      "url": "https://open.spotify.com/track/15jXUrt4BqPPqsp2Z7QO1M"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
         "name": "love season",
         "url": "https://open.spotify.com/album/5X7qJbYsCQTK1zNsmfr3sj"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 114000,
       "name": "love season",
       "url": "https://open.spotify.com/track/0D88i3rYIK5HgvhzX3j0Tp"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
+        "name": "Viernes Azul",
+        "url": "https://open.spotify.com/album/3nsTP9n9ikz64G5fpDZvnz"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Viernes Azul",
+      "url": "https://open.spotify.com/track/15jXUrt4BqPPqsp2Z7QO1M"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
+        "name": "bumpz",
+        "url": "https://open.spotify.com/album/4rCj9MLHudbpP3EB1e4Y5t"
+      },
+      "artists": [
+        {
+          "name": "Dpsht",
+          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
+        },
+        {
+          "name": "Acrylic Sleep",
+          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
+        }
+      ],
+      "duration_ms": 121734,
+      "name": "bumpz",
+      "url": "https://open.spotify.com/track/70Dxon2U2zVYBXO12zR6M4"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
         "name": "98 pasos",
         "url": "https://open.spotify.com/album/3CxK8OH2UaRL4LdMALcWEZ"
       },
@@ -1579,22 +1599,18 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "bumpz",
-        "url": "https://open.spotify.com/album/4rCj9MLHudbpP3EB1e4Y5t"
+        "name": "Summer Purr",
+        "url": "https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd"
       },
       "artists": [
         {
-          "name": "Dpsht",
-          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
-        },
-        {
-          "name": "Acrylic Sleep",
-          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
+          "name": "Kissa Kat",
+          "url": "https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL"
         }
       ],
-      "duration_ms": 121734,
-      "name": "bumpz",
-      "url": "https://open.spotify.com/track/70Dxon2U2zVYBXO12zR6M4"
+      "duration_ms": 156000,
+      "name": "Summer Purr",
+      "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1611,22 +1627,6 @@
       "duration_ms": 128118,
       "name": "find me",
       "url": "https://open.spotify.com/track/5qI8YB7bbbWkTh65Jh70vX"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
-        "name": "Summer Purr",
-        "url": "https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd"
-      },
-      "artists": [
-        {
-          "name": "Kissa Kat",
-          "url": "https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Summer Purr",
-      "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/3RbrgYXo7GUFlswEjTIE0k"
-      },
-      "artists": [
-        {
-          "name": "slider beats",
-          "url": "https://open.spotify.com/artist/77VSC0Qw9PDZJzH9Fv28Ps"
-        }
-      ],
-      "duration_ms": 129729,
-      "name": "Playa",
-      "url": "https://open.spotify.com/track/714r0v2GgUxReN9FI6vK1l"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
         "name": "To My Past Self",
         "url": "https://open.spotify.com/album/79uB85KjOZFusOJhjHRvb8"
       },
@@ -1699,22 +1683,18 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Limitless",
-        "url": "https://open.spotify.com/album/51xFLcdwo1QE7rwE6kNsnu"
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/3RbrgYXo7GUFlswEjTIE0k"
       },
       "artists": [
         {
-          "name": "amlo",
-          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
-        },
-        {
-          "name": "Late Night Tones",
-          "url": "https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC"
+          "name": "slider beats",
+          "url": "https://open.spotify.com/artist/77VSC0Qw9PDZJzH9Fv28Ps"
         }
       ],
-      "duration_ms": 136521,
-      "name": "Limitless",
-      "url": "https://open.spotify.com/track/2BuPvep8erFNZC1V8IwKcp"
+      "duration_ms": 129729,
+      "name": "Playa",
+      "url": "https://open.spotify.com/track/714r0v2GgUxReN9FI6vK1l"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1735,6 +1715,22 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/43bXdzpch1I5OaPOJ5Nnf4"
+      },
+      "artists": [
+        {
+          "name": "Outdream",
+          "url": "https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I"
+        }
+      ],
+      "duration_ms": 144283,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/5TcPlr0F7tbLxIEAKyAgdP"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
         "name": "making out",
         "url": "https://open.spotify.com/album/42OHS8tVTTSscJXyH4LrDl"
       },
@@ -1751,18 +1747,22 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/43bXdzpch1I5OaPOJ5Nnf4"
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/51xFLcdwo1QE7rwE6kNsnu"
       },
       "artists": [
         {
-          "name": "Outdream",
-          "url": "https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I"
+          "name": "amlo",
+          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
+        },
+        {
+          "name": "Late Night Tones",
+          "url": "https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC"
         }
       ],
-      "duration_ms": 144283,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/5TcPlr0F7tbLxIEAKyAgdP"
+      "duration_ms": 136521,
+      "name": "Limitless",
+      "url": "https://open.spotify.com/track/2BuPvep8erFNZC1V8IwKcp"
     },
     {
       "added_at": "2024-11-08 06:00:00",

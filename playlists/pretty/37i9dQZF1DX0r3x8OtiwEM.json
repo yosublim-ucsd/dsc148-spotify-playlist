@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 965613,
+  "num_followers": 965756,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,26 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "3 Days Later",
+        "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 333658,
+      "name": "3 Days Later",
+      "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Only You (&ME Remix)",
         "url": "https://open.spotify.com/album/3L34LelOyPZKhF3ydzYviM"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 434232,
       "name": "Only You - &ME Remix",
       "url": "https://open.spotify.com/track/6Pot7RIYFgzOOadIG1IMBv"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "3 Days Later",
-        "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        },
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 333658,
-      "name": "3 Days Later",
-      "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Heartless",
-        "url": "https://open.spotify.com/album/6RD6iZjyKNlZuhXKqmSo6J"
-      },
-      "artists": [
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        },
-        {
-          "name": "K\u00f6lsch",
-          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
-        }
-      ],
-      "duration_ms": 259039,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/6eHQ2jZEzEyyBeO7K7KPyy"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 244517,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/6RD6iZjyKNlZuhXKqmSo6J"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        }
+      ],
+      "duration_ms": 259039,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/6eHQ2jZEzEyyBeO7K7KPyy"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1023,22 +1023,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Under Dark (Innellea Remix)",
-        "url": "https://open.spotify.com/album/73M7uXFpI1ftn1cS2RZjfO"
+        "name": "All we ever wanted",
+        "url": "https://open.spotify.com/album/5v1b45XBRct5szZaw9mFX2"
       },
       "artists": [
         {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+          "name": "MVCA",
+          "url": "https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R"
         },
         {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+          "name": "SCHWARZ",
+          "url": "https://open.spotify.com/artist/6EgeOrWkBT2qyIjkPdqGAc"
         }
       ],
-      "duration_ms": 405887,
-      "name": "Under Dark - Innellea Remix",
-      "url": "https://open.spotify.com/track/5nHc8CmiPllMzHbJhhx3KS"
+      "duration_ms": 218000,
+      "name": "All we ever wanted",
+      "url": "https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1083,18 +1083,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Kiss & Forget",
-        "url": "https://open.spotify.com/album/0BmeDz35wEqY5CKOA8vah0"
+        "name": "Under Dark (Innellea Remix)",
+        "url": "https://open.spotify.com/album/73M7uXFpI1ftn1cS2RZjfO"
       },
       "artists": [
         {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        },
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
         }
       ],
-      "duration_ms": 218929,
-      "name": "You Belong To No-One",
-      "url": "https://open.spotify.com/track/4Zp4cKltb5SYVKnkKizfIG"
+      "duration_ms": 405887,
+      "name": "Under Dark - Innellea Remix",
+      "url": "https://open.spotify.com/track/5nHc8CmiPllMzHbJhhx3KS"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1119,6 +1123,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Kiss & Forget",
+        "url": "https://open.spotify.com/album/0BmeDz35wEqY5CKOA8vah0"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "duration_ms": 218929,
+      "name": "You Belong To No-One",
+      "url": "https://open.spotify.com/track/4Zp4cKltb5SYVKnkKizfIG"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Those Days",
         "url": "https://open.spotify.com/album/2Vvb4crZUQD03YL5NObxCX"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 227987,
       "name": "Those Days",
       "url": "https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "All we ever wanted",
-        "url": "https://open.spotify.com/album/5v1b45XBRct5szZaw9mFX2"
-      },
-      "artists": [
-        {
-          "name": "MVCA",
-          "url": "https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R"
-        },
-        {
-          "name": "SCHWARZ",
-          "url": "https://open.spotify.com/artist/6EgeOrWkBT2qyIjkPdqGAc"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "All we ever wanted",
-      "url": "https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1195,18 +1195,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Love You Got",
-        "url": "https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG"
+        "name": "Kaleidoscope Colours",
+        "url": "https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9"
       },
       "artists": [
         {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Maybemahri",
+          "url": "https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL"
         }
       ],
-      "duration_ms": 273600,
-      "name": "Love You Got",
-      "url": "https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu"
+      "duration_ms": 255466,
+      "name": "Kaleidoscope Colours",
+      "url": "https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz"
     }
   ],
   "unique_name": "Lowkey Tech",

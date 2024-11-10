@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 
 > Bird sounds in the background
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,877 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,943 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 | 21 | [Nature Spa](https://open.spotify.com/track/58U9Vz4WItLGFOK2H5Nza6) | [Mindwhisper](https://open.spotify.com/artist/5BX3dSELFDJypM7828gUaL) | [Nature Spa](https://open.spotify.com/album/1TOe8ijERlKamh7aFB2ZJz) | 2:34 |
 | 22 | [River Birds \(Green Noise 220Hz HP\)](https://open.spotify.com/track/3Lr6j4FjEiaZAEjp6yUyRY) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Soothing Green Noise](https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW) | 2:22 |
 | 23 | [Birds in Calm Forest](https://open.spotify.com/track/23Hpf0InC4WVSmg9KaNxIy) | [Nature Lab](https://open.spotify.com/artist/2EBjHUWeiiLMOz9A22c4he) | [Birds by the Creek](https://open.spotify.com/album/5tk2REf1nK7U5eqr01YFbg) | 1:26 |
-| 24 | [Joyful Birds](https://open.spotify.com/track/7nyQjweH9QQl0b8f4RgNbc) | [S\. Key](https://open.spotify.com/artist/4qtNIq9FnFG0UYLN8eMIp3) | [Rain Forest Bird Sounds](https://open.spotify.com/album/08DMQ9qH0U7vef2xE48l4c) | 1:18 |
+| 24 | [Spring Birds In The Afternoon](https://open.spotify.com/track/70ZhYH2joI9RCE45TG52sS) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Spring Birds](https://open.spotify.com/album/0pkEvYY6HzXUaEveXWYOnE) | 2:14 |
 | 25 | [3am Midsummer Birds](https://open.spotify.com/track/4cEsckil1CQNUFuPczf6qg) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 1](https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q) | 2:40 |
-| 26 | [Spring Birds In The Afternoon](https://open.spotify.com/track/70ZhYH2joI9RCE45TG52sS) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Spring Birds](https://open.spotify.com/album/0pkEvYY6HzXUaEveXWYOnE) | 2:14 |
+| 26 | [Joyful Birds](https://open.spotify.com/track/7nyQjweH9QQl0b8f4RgNbc) | [S\. Key](https://open.spotify.com/artist/4qtNIq9FnFG0UYLN8eMIp3) | [Rain Forest Bird Sounds](https://open.spotify.com/album/08DMQ9qH0U7vef2xE48l4c) | 1:18 |
 | 27 | [Commander Piggins Call](https://open.spotify.com/track/7aZQxpvaYihFp6Edwp7NMy) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Sounds of the Lone Forest](https://open.spotify.com/album/1B5IwydWyyt3kBhAvk9skN) | 3:32 |
 | 28 | [Swedish Spring Birds](https://open.spotify.com/track/6ugXvYQkWPNSMbw9JDTXmS) | [Aire Vega](https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB) | [The Forest](https://open.spotify.com/album/1Ayk8zsTe7FfQQbFJ2a1sD) | 2:57 |
 | 29 | [Morning Bird Symphony](https://open.spotify.com/track/3oVqA93MPShAdao5iIKlE7) | [Swedish Forest Birds](https://open.spotify.com/artist/0aW02sXtwKH8TEaJDPvg9N) | [Morning Forest Birds](https://open.spotify.com/album/1g53d39LNzKfa8p1aJhN5B) | 2:38 |

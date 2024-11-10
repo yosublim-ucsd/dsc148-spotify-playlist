@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Bon Iver
 
-167 songs - 10 hr 38 min
+168 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [He Will Follow You With His Eyes](https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 3:45 | 2024-06-14 | 2024-10-07 |
 | [Headliner](https://open.spotify.com/track/4KDJfug28h0LbZpdJmC73S) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Headliner](https://open.spotify.com/album/6JcCv9NZt9eqxPHtO9hnjl) | 3:12 | 2024-06-14 |  |
 | [Here Today](https://open.spotify.com/track/15vXV6pd5WIJUhe2VJ34O7) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Here Today](https://open.spotify.com/album/5VCrEEZnhlnwwREQiDjQip) | 3:37 | 2024-10-06 | 2024-10-20 |
-| [Hog Calling Contest](https://open.spotify.com/track/2aDXjC0A2mnqslmeDdHIVH) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Hog Calling Contest](https://open.spotify.com/album/0plf2eqTDrtPJ2f9QeW7iH) | 3:20 | 2024-08-14 |  |
+| [Hog Calling Contest](https://open.spotify.com/track/2aDXjC0A2mnqslmeDdHIVH) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Hog Calling Contest](https://open.spotify.com/album/0plf2eqTDrtPJ2f9QeW7iH) | 3:20 | 2024-08-14 | 2024-11-10 |
 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 | 2024-10-06 |  |
 | [How We See The Light](https://open.spotify.com/track/17hKeNABYQ9dlM5ktscRrO) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [POPtical Illusion](https://open.spotify.com/album/4Y47DeNLz30h7AyLtGdqtT) | 4:45 | 2024-06-14 | 2024-07-14 |
 | [Hunt You Down](https://open.spotify.com/track/18BXVZ04Xm9eiSyFpD5PJE) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Little Rope](https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM) | 3:32 | 2024-06-14 | 2024-07-12 |
@@ -147,6 +147,7 @@
 | [The Fun Of It](https://open.spotify.com/track/0sZiA8PyKTcp1uijfYKE7l) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h), [Andreya Casablanca](https://open.spotify.com/artist/7Kvs0jEg9fdQfAnM8ITyUa) | [The Fun Of It](https://open.spotify.com/album/5GGexOrSca2hpeBUXgdj3K) | 3:37 | 2024-10-06 | 2024-10-16 |
 | [The Last Year](https://open.spotify.com/track/2gs4GCStX8lwS8XIrrv63g) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [The Last Year](https://open.spotify.com/album/0c576Mju3GRgkxR4YcUmtT) | 3:35 | 2024-06-14 | 2024-07-20 |
 | [The Light Nights](https://open.spotify.com/track/29qg46mkSEAvyN7l8TaBGX) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Look to the East, Look to the West](https://open.spotify.com/album/2lzp6aJkH2qyJYiArzjLd1) | 4:33 | 2024-06-14 | 2024-08-15 |
+| [The Lowrider \(Just About Meant To Be\)](https://open.spotify.com/track/4aCRH85lzpMp2ZzQWe5mlu) | [CVC](https://open.spotify.com/artist/4UVp2DRjYXq2ZWQwA5QLuD) | [The Lowrider \(Just About Meant To Be\)](https://open.spotify.com/album/4xW2GmQethztAMp81hkCxx) | 4:07 | 2024-10-17 |  |
 | [The only conscious being in the universe](https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Tw\*ts](https://open.spotify.com/album/5N3ROnE45uWHTrgf2XiiQy) | 3:18 | 2024-06-14 |  |
 | [The Painting of the Bay](https://open.spotify.com/track/4ycRADJsEIYuhH4JUcs9jf) | [W\. H\. Lung](https://open.spotify.com/artist/6Xx57uhlmBUkH1DOxqTWZM) | [The Painting of the Bay](https://open.spotify.com/album/3h85DpIWAVUkFTq14XTBPA) | 3:20 | 2024-08-14 | 2024-10-07 |
 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 | 2024-10-06 |  |

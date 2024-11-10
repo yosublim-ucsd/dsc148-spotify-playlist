@@ -1,12 +1,12 @@
 {
   "description": "All the highlights from the world of indie! Cover: Mk.Gee",
-  "num_followers": 39309,
+  "num_followers": 39312,
   "original_name": "Indie Highlights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy1GcAAAAACaBi5SfrraGzkUkzdgu+aD",
+  "snapshot_id": "Zy9SSwAAAAAeCKvfDpgSfrPgzxNjoT/f",
   "tracks": [
     {
       "added_at": "2024-11-07 23:00:00",
@@ -175,6 +175,22 @@
       "duration_ms": 198334,
       "name": "Other Girls",
       "url": "https://open.spotify.com/track/30KBxYM7rF2Bsx9EOzG6Do"
+    },
+    {
+      "added_at": "2024-11-09 12:15:07",
+      "album": {
+        "name": "Happy Life Go!",
+        "url": "https://open.spotify.com/album/5elFqU3q3kuUG8anlOj0Jc"
+      },
+      "artists": [
+        {
+          "name": "KAPARI",
+          "url": "https://open.spotify.com/artist/1YS9GiGL9yQ1A85ha3hPIX"
+        }
+      ],
+      "duration_ms": 148680,
+      "name": "Way Back Home",
+      "url": "https://open.spotify.com/track/6zgpB19NFV0ARh8IDdQDnH"
     },
     {
       "added_at": "2024-11-07 23:00:00",

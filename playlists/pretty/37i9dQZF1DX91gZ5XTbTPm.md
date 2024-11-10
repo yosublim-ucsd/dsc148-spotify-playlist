@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Freddie Gibbs
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,699 likes - 74 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,744 likes - 74 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

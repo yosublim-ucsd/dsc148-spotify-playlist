@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-848 songs - 1 day 22 hr 10 min
+849 songs - 1 day 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,7 +543,7 @@
 | [On One](https://open.spotify.com/track/0evKTZ9MpgVcCd5TBvmeD6) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [On One](https://open.spotify.com/album/3cxYmtH9abCdqR0XkkGW16) | 3:25 | 2021-12-15 | 2022-06-11 |
 | [On the Run](https://open.spotify.com/track/0RPyKB5QejeLvdh1N7RJIN) | [Farah Audhali](https://open.spotify.com/artist/7MLxTev9ycEN906jNOxX4U), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [On the Run](https://open.spotify.com/album/17L5JLhFSSaLuhYg10u8U8) | 3:51 | 2023-03-31 | 2024-04-08 |
 | [One Last Dance](https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [One Last Dance](https://open.spotify.com/album/4jkz8mydS7s16NGGaBdQTe) | 3:28 | 2024-03-15 | 2024-08-13 |
-| [One Time](https://open.spotify.com/track/1Wvx69Bc0NZH7oQolv1SRq) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [One Time](https://open.spotify.com/album/5hCV59sj35BdVSaPiFCfpK) | 2:31 | 2024-08-23 |  |
+| [One Time](https://open.spotify.com/track/1Wvx69Bc0NZH7oQolv1SRq) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [One Time](https://open.spotify.com/album/5hCV59sj35BdVSaPiFCfpK) | 2:31 | 2024-08-23 | 2024-11-10 |
 | [only u](https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [only u](https://open.spotify.com/album/2U7bhZNHzxwpRJQ9de7LmZ) | 2:26 | 2023-05-05 | 2023-09-09 |
 | [Only You](https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Sheet Music](https://open.spotify.com/album/6dZamUVfDA1r94i5PWQQfG) | 3:08 | 2023-03-03 | 2024-02-01 |
 | [Ooowee \(feat\. Elijah Dax\)](https://open.spotify.com/track/4XkyUlAe8KLpV5bpvyyIBx) | [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl), [Elijah Dax](https://open.spotify.com/artist/6Hwr3bDEGLweTOT3jeFhtD) | [Studio Monk](https://open.spotify.com/album/2TX2WnQmumRHMhiK22XfVO) | 4:13 | 2021-12-15 | 2022-08-14 |
@@ -645,6 +645,7 @@
 | [Shadow Man](https://open.spotify.com/track/0EN4QjJqiAufEh6g4xPNvC) | [Noname feat\. Smino, Phoelix, Saba](https://open.spotify.com/artist/0sN6V0DZiCbB1exRjapMNo) | [Telefone](https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c) | 5:11 | 2022-11-09 | 2023-01-28 |
 | [Shadow Man \(feat\. Phoelix, Smino & Saba\)](https://open.spotify.com/track/1h2LHhmyAXi8tPNLi806JA) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Telefone](https://open.spotify.com/album/18Scpsg5OV1iYNtSaCsjwz) | 5:11 | 2022-02-11 | 2022-09-09 |
 | [Shallow Grave](https://open.spotify.com/track/2pA9wkbt97AAg1ONefIu40) | [Wilma Vritra](https://open.spotify.com/artist/4bTUUfUPhp9CENuMnDoiyT), [Wilma Archer](https://open.spotify.com/artist/0uo6UbyUYXbG4xBT7vBGSx), [VRITRA](https://open.spotify.com/artist/2p13eHCal7qrUX1r0Hb7T7) | [Burd](https://open.spotify.com/album/5S6fq747SpoPTJQ4c4rl05) | 3:25 | 2021-12-15 | 2022-07-26 |
+| [she just wanna see me rn](https://open.spotify.com/track/132NmIOKCUGXSXQCno3WSB) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [cloudy](https://open.spotify.com/album/07qAkNgFlbkUpIJzT3jtTf) | 1:48 | 2024-11-08 |  |
 | [Shibari Moon](https://open.spotify.com/track/5s4uHZwSbk8XbjARwTzIw4) | [Oscar Key Sung](https://open.spotify.com/artist/2D7YyEYEeZY7W6rpuN6WoB) | [Echo Hill Green Square](https://open.spotify.com/album/7um1eSYkmUL3mOqna9fJF4) | 3:36 | 2021-12-15 | 2022-07-29 |
 | [Shine](https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Shine](https://open.spotify.com/album/3OPE2L2uPwzQlmmndQHLxb) | 3:46 | 2021-12-15 | 2023-09-30 |
 | [Shine On Me](https://open.spotify.com/track/3yVH9z8toGlCYGsmkTtT4D) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Shine On Me](https://open.spotify.com/album/4AhjruKGfgNYnmPVzl1SRa) | 3:34 | 2024-06-28 |  |

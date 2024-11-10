@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1075543,
+  "num_followers": 1075681,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZywDAAAAAADVOjK7R/Pqb+ack2VzZ5PL",
+  "snapshot_id": "Zy1UgAAAAADDGxUAkUFlD2abg6rRpELU",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/1SPzhFzjXrz9OXLP2rKg1C"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/5vfjUAhefN7IjHbTvVCT4Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "21st Century Breakdown",
         "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 321093,
       "name": "21 Guns",
       "url": "https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/1SPzhFzjXrz9OXLP2rKg1C"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/5vfjUAhefN7IjHbTvVCT4Z"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saviors",
-        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 198324,
-      "name": "Dilemma",
-      "url": "https://open.spotify.com/track/4NrGMEm5SvvpJ9Tk1Rq3cP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "21st Century Breakdown",
         "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 236533,
       "name": "Last Night on Earth",
       "url": "https://open.spotify.com/track/5TpPSTItCwtZ8Sltr3vdzm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saviors",
+        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 198324,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/4NrGMEm5SvvpJ9Tk1Rq3cP"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Idiot",
-        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 548253,
-      "name": "Jesus of Suburbia",
-      "url": "https://open.spotify.com/track/58KPPL1AdLHMvR2O2PZejr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "21st Century Breakdown",
         "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 190986,
       "name": "Know Your Enemy",
       "url": "https://open.spotify.com/track/5qtwzv99vOr5UTwnTixn7j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 548253,
+      "name": "Jesus of Suburbia",
+      "url": "https://open.spotify.com/track/58KPPL1AdLHMvR2O2PZejr"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Idiot (20th Anniversary - Becoming Who We Are)",
-        "url": "https://open.spotify.com/album/4kebtpWNmc8CLgOm7bFvGx"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 299775,
-      "name": "Wake Me Up When September Ends - Demo",
-      "url": "https://open.spotify.com/track/5rqoSVrje10lIhdlX6W58b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Idiot (20th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 206004,
       "name": "Give Me Novacaine",
       "url": "https://open.spotify.com/track/1usftPV8tzkWQmjwofR2ke"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Idiot (20th Anniversary - Becoming Who We Are)",
+        "url": "https://open.spotify.com/album/4kebtpWNmc8CLgOm7bFvGx"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 299775,
+      "name": "Wake Me Up When September Ends - Demo",
+      "url": "https://open.spotify.com/track/5rqoSVrje10lIhdlX6W58b"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Idiot (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 120442,
+      "name": "She's a Rebel",
+      "url": "https://open.spotify.com/track/17vGKC6lZlgpDizEWR4VXs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Saints Are Coming",
         "url": "https://open.spotify.com/album/3s9hW1Wjsxf2LDyIa9J0il"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 202413,
       "name": "The Saints Are Coming",
       "url": "https://open.spotify.com/track/2OqCyO684ShnEOqFQieN3Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Idiot (20th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 120442,
-      "name": "She's a Rebel",
-      "url": "https://open.spotify.com/track/17vGKC6lZlgpDizEWR4VXs"
     }
   ],
   "unique_name": "This Is Green Day",

@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 51886,
+  "num_followers": 51914,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -891,26 +891,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Coleccion Aniversario",
-        "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
-      },
-      "artists": [
-        {
-          "name": "Ramona Galarza",
-          "url": "https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm"
-        },
-        {
-          "name": "Tarrago Ros",
-          "url": "https://open.spotify.com/artist/2Bx9gYQLMfwrkxEhpo9xKL"
-        }
-      ],
-      "duration_ms": 147986,
-      "name": "Siete Higueras",
-      "url": "https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "20 Superexitos Originales",
         "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 142120,
       "name": "Ah Mi Corrientes Por\u00e1",
       "url": "https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Coleccion Aniversario",
+        "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
+      },
+      "artists": [
+        {
+          "name": "Ramona Galarza",
+          "url": "https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm"
+        },
+        {
+          "name": "Tarrago Ros",
+          "url": "https://open.spotify.com/artist/2Bx9gYQLMfwrkxEhpo9xKL"
+        }
+      ],
+      "duration_ms": 147986,
+      "name": "Siete Higueras",
+      "url": "https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "La Chamamecera",
-        "url": "https://open.spotify.com/album/2DrjbKf3LDlKVRgu1Jiftp"
-      },
-      "artists": [
-        {
-          "name": "Ambo\u00e9",
-          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
-        }
-      ],
-      "duration_ms": 265253,
-      "name": "La Chamamecera",
-      "url": "https://open.spotify.com/track/3RtLz2m3s8HgkR5pDdcP1k"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Mi Estrella Perdida",
         "url": "https://open.spotify.com/album/1gZEqHoM4jZF6OCHNZWuAu"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Con Estilo Mbaret\u00e9",
-        "url": "https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C"
+        "name": "La Chamamecera",
+        "url": "https://open.spotify.com/album/2DrjbKf3LDlKVRgu1Jiftp"
       },
       "artists": [
         {
-          "name": "Los Criollitos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/1uTJBtek1AfeL07ev0Lg4r"
+          "name": "Ambo\u00e9",
+          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
         }
       ],
-      "duration_ms": 474053,
-      "name": "Bien Correntino / L\u00e1grima de Cocodrilo / Masticando / Conocerte a Ti",
-      "url": "https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4"
+      "duration_ms": 265253,
+      "name": "La Chamamecera",
+      "url": "https://open.spotify.com/track/3RtLz2m3s8HgkR5pDdcP1k"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1291,6 +1275,22 @@
       "duration_ms": 138893,
       "name": "P\u00e1jaro Chog\u00fc\u00ed",
       "url": "https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Con Estilo Mbaret\u00e9",
+        "url": "https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C"
+      },
+      "artists": [
+        {
+          "name": "Los Criollitos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/1uTJBtek1AfeL07ev0Lg4r"
+        }
+      ],
+      "duration_ms": 474053,
+      "name": "Bien Correntino / L\u00e1grima de Cocodrilo / Masticando / Conocerte a Ti",
+      "url": "https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4"
     },
     {
       "added_at": "2024-10-11 03:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-10-11 03:00:00",
       "album": {
-        "name": "Bodas de Oro Con el Chamam\u00e9",
-        "url": "https://open.spotify.com/album/6lnOG2dw5KnuMSW7av7Gq3"
-      },
-      "artists": [
-        {
-          "name": "Hipolito Sosa y su conjunto",
-          "url": "https://open.spotify.com/artist/3SuHLrqH1ksOTmtnQtDEnL"
-        }
-      ],
-      "duration_ms": 136400,
-      "name": "Viejo Jinete Argentino",
-      "url": "https://open.spotify.com/track/7m2GKaEFQoPPkbmzI3VVPX"
-    },
-    {
-      "added_at": "2024-10-11 03:00:00",
-      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/4VAmOJquewlCgACkqB6DgL"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 270000,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/1qQ2k6WRvClfd6e1BDjjtG"
+    },
+    {
+      "added_at": "2024-10-11 03:00:00",
+      "album": {
+        "name": "Bodas de Oro Con el Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6lnOG2dw5KnuMSW7av7Gq3"
+      },
+      "artists": [
+        {
+          "name": "Hipolito Sosa y su conjunto",
+          "url": "https://open.spotify.com/artist/3SuHLrqH1ksOTmtnQtDEnL"
+        }
+      ],
+      "duration_ms": 136400,
+      "name": "Viejo Jinete Argentino",
+      "url": "https://open.spotify.com/track/7m2GKaEFQoPPkbmzI3VVPX"
     },
     {
       "added_at": "2024-10-11 03:00:00",

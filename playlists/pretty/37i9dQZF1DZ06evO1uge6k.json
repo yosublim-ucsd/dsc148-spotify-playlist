@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 248416,
+  "num_followers": 248453,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZywDAAAAAABOB7K8EC/iPPPuqdek1qqS",
+  "snapshot_id": "Zy1UgAAAAADPNKtHqoP1YcSbc6rFMYYU",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
+        "name": "Recycler",
+        "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 181666,
-      "name": "Can't Stop Rockin'",
-      "url": "https://open.spotify.com/track/53Aj8Ii5SbT2KfF7I8DGBN"
+      "duration_ms": 236200,
+      "name": "Doubleback",
+      "url": "https://open.spotify.com/track/5do2NQzjriskVEaFM2z4ge"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recycler",
-        "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 236200,
-      "name": "Doubleback",
-      "url": "https://open.spotify.com/track/5do2NQzjriskVEaFM2z4ge"
+      "duration_ms": 181666,
+      "name": "Can't Stop Rockin'",
+      "url": "https://open.spotify.com/track/53Aj8Ii5SbT2KfF7I8DGBN"
     },
     {
       "added_at": null,

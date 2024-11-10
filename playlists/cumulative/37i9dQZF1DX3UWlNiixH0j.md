@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: TOSH
 
-1,969 songs - 5 day 2 hr 24 min
+1,970 songs - 5 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,7 +576,7 @@
 | [Leila](https://open.spotify.com/track/4FeJt1fgcQSVLJkJz2IyvG) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Leila](https://open.spotify.com/album/4OAMD29bLZWsPiMAI5EVAV) | 3:15 | 2023-09-08 | 2023-09-20 |
 | [Lemon Cake](https://open.spotify.com/track/3V2ox5LEU3dB1n5z39P6MS) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Lemon Cake](https://open.spotify.com/album/353xKZreMjkmqKAHg4f9aX) | 5:23 | 2023-02-07 | 2023-04-21 |
 | [Lemonade](https://open.spotify.com/track/3hIcBVAruVAo9XovuKOX0C) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2) | [Lemonade](https://open.spotify.com/album/0K5aMNxJOzF7v06gpqJ6Mi) | 4:09 | 2024-02-27 | 2024-03-01 |
-| [LET GO](https://open.spotify.com/track/5GMK8sduhOa6g3mcW9gwi6) | [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR) | [LET GO](https://open.spotify.com/album/1Q9XRAfWT01mx7MFGxJOFF) | 2:10 | 2024-10-29 |  |
+| [LET GO](https://open.spotify.com/track/5GMK8sduhOa6g3mcW9gwi6) | [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR) | [LET GO](https://open.spotify.com/album/1Q9XRAfWT01mx7MFGxJOFF) | 2:10 | 2024-10-29 | 2024-11-10 |
 | [LET IT GO](https://open.spotify.com/track/2oDxup8QDQZJ10LLdoq7qZ) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [LET IT GO](https://open.spotify.com/album/3e4VLtAPQ577TtOIk5S3YT) | 3:30 | 2024-07-30 | 2024-09-11 |
 | [Let It Go As If You Wander](https://open.spotify.com/track/3Dca6b2xmfjnesM2FVhY1k) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [89.7 Growl FM](https://open.spotify.com/album/2Cs6jLDR3NsHuzrRWRu7Gy) | 2:42 | 2023-09-20 | 2023-11-22 |
 | [Let Me Feel It](https://open.spotify.com/track/6qpPM5slx9r1m9O8x5ngzs) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Chase After](https://open.spotify.com/album/5KSfx4K0FaEvn38gpgR5sS) | 4:05 | 2023-01-12 | 2023-01-25 |
@@ -1897,6 +1897,7 @@
 | [聞いてたの? \- feat\. 三浦透子](https://open.spotify.com/track/3Int9nkk2ARU62kcM2jwis) | [Keach Arimoto](https://open.spotify.com/artist/2cwNtDJKPSK4Q3nP2Q6Tjo), [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [「0110」](https://open.spotify.com/album/3nteWD6tjiRcJB0uxbtray) | 2:45 | 2023-04-04 | 2023-04-12 |
 | [花とゆめ](https://open.spotify.com/track/5ZPTwZpHD9po7ScVYi7KO4) | [Gateballers](https://open.spotify.com/artist/2b7HKmpiq0Y0mguaajJkMU) | [花とゆめ](https://open.spotify.com/album/1AKJxdnugSCoTIHMypgUHL) | 3:51 | 2023-07-11 | 2023-08-02 |
 | [花向](https://open.spotify.com/track/6KITCkP5y0gBxlUhVO3N2O) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [MOROHA V](https://open.spotify.com/album/1qZqRsyhgGRO8dmdrBolDC) | 5:39 | 2023-06-08 | 2023-08-31 |
+| [花吹雪](https://open.spotify.com/track/2e6IilpmHjfwwwHvpOyy9n) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [花吹雪](https://open.spotify.com/album/1ZUekUfbjy2Qavhx1MvN7y) | 3:55 | 2024-11-05 |  |
 | [花屋で待ち合わせ](https://open.spotify.com/track/7ItEcI9KvlR1QcqYRvNqh2) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [花屋で待ち合わせ](https://open.spotify.com/album/7wB2pQm838RiDmiCah1Cvo) | 2:54 | 2024-04-09 | 2024-04-17 |
 | [花束](https://open.spotify.com/track/2oU9sSx4jxRi2edC8FN1fW) | [東京センチメンタル馬鹿野郎](https://open.spotify.com/artist/5nCYpkieNwNDzzxKnuSqbI) | [花束](https://open.spotify.com/album/6YtWHSdDFwSLVF2fAT1Zb5) | 3:58 | 2024-05-21 | 2024-05-29 |
 | [花様年華](https://open.spotify.com/track/4LkH4PpFcaTXLVsum4dGPm) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:29 | 2024-01-11 | 2024-04-24 |

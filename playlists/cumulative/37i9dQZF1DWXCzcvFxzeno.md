@@ -4,14 +4,14 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-190 songs - 14 hr 57 min
+191 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 LOUD](https://open.spotify.com/track/6kxx5snJ8o2MG9FuCJuGAQ) | [BYØRN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD) | [2 LOUD](https://open.spotify.com/album/1533UIDsnAOCIqXEXgtdM9) | 5:03 | 2024-06-18 |  |
 | [2003](https://open.spotify.com/track/0d2nwtK9mfFiVO8hkM5Xln) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [2003](https://open.spotify.com/album/2E928WZPSSBAmGPhujvSdF) | 3:13 | 2024-05-22 |  |
 | [333 \(Clímax\) \[Caravel Remix\]](https://open.spotify.com/track/7umnhdcBL5b3vftzveBe6z) | [Xina Mora](https://open.spotify.com/artist/4dRPdWRUFyJp0yhjGBLClx), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [CARAVEL](https://open.spotify.com/artist/5od72ceH2aN3pS4hcHNzRy) | [333 \(Clímax\) \[Caravel Remix\]](https://open.spotify.com/album/64eR0xbVZxevhmNhkPPg9C) | 3:48 | 2024-07-26 | 2024-10-25 |
-| [93 HARDCORE](https://open.spotify.com/track/62DKLOXCcUa91wCh3CAOBT) | [LESSSS](https://open.spotify.com/artist/5Os2nUALInDs7MyexVNwrm), [William Luck](https://open.spotify.com/artist/57tccTXvNWq70Xz3DJmNVX) | [93 HARDCORE](https://open.spotify.com/album/27G2VHdqnVu3yRoklKiztk) | 5:47 | 2024-04-09 |  |
+| [93 HARDCORE](https://open.spotify.com/track/62DKLOXCcUa91wCh3CAOBT) | [LESSSS](https://open.spotify.com/artist/5Os2nUALInDs7MyexVNwrm), [William Luck](https://open.spotify.com/artist/57tccTXvNWq70Xz3DJmNVX) | [93 HARDCORE](https://open.spotify.com/album/27G2VHdqnVu3yRoklKiztk) | 5:47 | 2024-04-09 | 2024-11-10 |
 | [999 \(BDSM\)](https://open.spotify.com/track/2TzQLWRlpeTAY4YpZudJ6p) | [Xina Mora](https://open.spotify.com/artist/4dRPdWRUFyJp0yhjGBLClx), [Parkineos](https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf) | [999 \(BDSM\)](https://open.spotify.com/album/1TnQKykUUe9GTI48BbGTEe) | 2:38 | 2024-11-01 |  |
 | [ABYSS](https://open.spotify.com/track/4fLw4RZYwwQMP2pf7i8q3g) | [Juul Exler](https://open.spotify.com/artist/0UX1w5iv2fvXoqdH7XbJM9) | [ABYSS](https://open.spotify.com/album/2WHcALRyJK8CUoDZ8QFCAa) | 3:41 | 2024-04-09 |  |
 | [Achtuhrvier](https://open.spotify.com/track/6MqW3vrYS9INbfmtz1UgT0) | [Mython](https://open.spotify.com/artist/4xu2RB87uniuxEyYiPp0q5), [Pesante \(GER\)](https://open.spotify.com/artist/2G6DJAM91D5woggl7SK1VH) | [Them Sinners](https://open.spotify.com/album/7Mpr0C99nS6tZjrHJAIlvl) | 6:27 | 2024-04-09 | 2024-10-25 |
@@ -188,6 +188,7 @@
 | [Underneath The Strobelights](https://open.spotify.com/track/5fA9xb5xWLwNizZCZRjQUO) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Underneath The Strobelights \(Exhale VA005\)](https://open.spotify.com/album/5N6EQkLrN8qryijUD1SF90) | 4:40 | 2024-07-26 |  |
 | [Venezia](https://open.spotify.com/track/1TjZTPkdqO3OCo7DX10a0l) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Venezia](https://open.spotify.com/album/2FUWJ7gqHGihl19vdlxjuy) | 3:52 | 2024-04-09 |  |
 | [Venom](https://open.spotify.com/track/5y48EWrjHhxOTbkifwNVwj) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy), [INNERGATE RECORDS](https://open.spotify.com/artist/4WSZCYGxqXDMYPizVPfSP9) | [Venom](https://open.spotify.com/album/50m7mrtNRjSiinGaldzPDt) | 6:51 | 2024-08-13 |  |
+| [Violence](https://open.spotify.com/track/6TBZKterLaIPKrP9Ba8vMX) | [Luciid](https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL) | [Violence](https://open.spotify.com/album/6irJKp8KMfBRBSn31417yd) | 4:48 | 2024-11-08 |  |
 | [We Damage](https://open.spotify.com/track/5xRkLCmybOWxdjvUMBtCnu) | [HOEHENANGST](https://open.spotify.com/artist/5Th92yptJHxyXDEgc5qtQl) | [We Damage](https://open.spotify.com/album/6MAfjyvFODiQkfgZmDomo4) | 5:43 | 2024-08-19 | 2024-10-25 |
 | [Welcome Back Devil](https://open.spotify.com/track/51xCJIB6whswDNw6tdbF97) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF) | [Welcome Back Devil](https://open.spotify.com/album/41Knrnm88QyuE9h8ATY8Dz) | 5:20 | 2024-04-09 |  |
 | [Welcome To London](https://open.spotify.com/track/3rcabUHPdv5Ulw8B6Khkxc) | [Charlie Sparks \(UK\)](https://open.spotify.com/artist/1lsjQdGrRe2D1nmvCVB7JZ) | [Welcome To London](https://open.spotify.com/album/5QYvLSIqem9dAQKy1ubrR9) | 6:55 | 2024-04-09 |  |

@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-315 songs - 15 hr 37 min
+316 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Loaf Mode](https://open.spotify.com/track/0rKzqlcGgZv3vuNM6BKqTb) | [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP), [Michel Tijdink](https://open.spotify.com/artist/07b7STGUVBw8GNmevEtcgl) | [Loaf Mode](https://open.spotify.com/album/4ovwMfCyMoFgOdnW4gH6KP) | 2:17 | 2024-01-26 |  |
 | [Lockdown Drive](https://open.spotify.com/track/1OMr7DcjwxiqbyMclrScD1) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Jazzbois Goes Blunt II](https://open.spotify.com/album/0O3bdEWuD0AFkstEtfQOF3) | 5:20 | 2023-08-22 | 2024-08-24 |
 | [Lola](https://open.spotify.com/track/3GEofXwdmgFEadz59JngCw) | [Tremendous Aron](https://open.spotify.com/artist/4jsBT3nAKLqkjrxCnPoTi5) | [Lola](https://open.spotify.com/album/3g9xF6Na7jo3e3QmoaUYrl) | 3:00 | 2024-06-04 |  |
-| [Long Time](https://open.spotify.com/track/6ZK9plJc7ahA9ML8Q6IRww) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Long Time](https://open.spotify.com/album/3YXiuYi4tXYdR3AX3f5Wbh) | 2:33 | 2023-10-13 |  |
+| [Long Time](https://open.spotify.com/track/6ZK9plJc7ahA9ML8Q6IRww) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Long Time](https://open.spotify.com/album/3YXiuYi4tXYdR3AX3f5Wbh) | 2:33 | 2023-10-13 | 2024-11-10 |
 | [Love of Mine](https://open.spotify.com/track/5hXhBMfTEPyswGhah0z3Lb) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Here Today Gone Tomorrow](https://open.spotify.com/album/26lSeSAik3cU8RtembPlOZ) | 6:26 | 2024-09-27 |  |
 | [Love Will Make You](https://open.spotify.com/track/2YzbIcOKUherdl9EdNweQL) | [doidoi](https://open.spotify.com/artist/7LhVwc5lJtji19CvRA3z6i) | [Love Will Make You](https://open.spotify.com/album/1SORBAXHLKmapfgSoT1C7y) | 2:54 | 2024-01-26 | 2024-04-19 |
 | [Love Will Make You](https://open.spotify.com/track/4Vfi86zKcabroKWW4OSE6j) | [doidoi](https://open.spotify.com/artist/7LhVwc5lJtji19CvRA3z6i) | [Love Will Make You](https://open.spotify.com/album/2tXZIxCz7pqrGuiXl1xf0g) | 2:54 | 2023-10-27 | 2024-08-24 |
@@ -204,6 +204,7 @@
 | [no, regrets](https://open.spotify.com/track/2npDMSs7eYvQl81VEKMRKX) | [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [Digilog I](https://open.spotify.com/album/0aLKKlg3Ax9BGfaDv7LQ3V) | 2:47 | 2023-08-22 | 2024-04-19 |
 | [no, regrets](https://open.spotify.com/track/4DZSEoq4XMiV3dquKqnTuE) | [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [Digilog I](https://open.spotify.com/album/7s3zSF9GuUu4TAl39xbqqA) | 2:47 | 2024-03-20 | 2024-08-24 |
 | [Not Water But Rest](https://open.spotify.com/track/5M7ZhcrCafzjLN18pHokNA) | [Shake Stew](https://open.spotify.com/artist/6RoD5V5SDApmcG8Iiw8SS6), [Precious Nnebedum](https://open.spotify.com/artist/5O5UtvOnsPfsyzUDLc7tml) | [Lila](https://open.spotify.com/album/6UjzxcdveHA76f4W4K71Uf) | 5:56 | 2023-10-13 | 2024-09-27 |
+| [Nothing Much To Say](https://open.spotify.com/track/1CAuUVm3BrJz56lwr8V1AM) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Nothing Much To Say](https://open.spotify.com/album/2RwM48T5xa6ywSFTMZiA4G) | 1:54 | 2024-11-08 |  |
 | [Nowadayz](https://open.spotify.com/track/4HvdrpohNELdW4PJbh617a) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0), [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [Nowadayz](https://open.spotify.com/album/1CRi9bXg6x1c5e5qxRX5b1) | 2:04 | 2024-09-06 |  |
 | [Ocean Ride](https://open.spotify.com/track/2uGyOZUwNdpZChOWspCVYP) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Ocean Ride](https://open.spotify.com/album/0wHm0QUEgZUUNYUF9ut2pq) | 2:09 | 2024-09-27 |  |
 | [Old Royalty](https://open.spotify.com/track/2DcG3Xwrjv0XRLQVlJjXqM) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Old Royalty](https://open.spotify.com/album/1CcGRi6bwh4NQjSZmJhkzg) | 2:33 | 2023-08-22 |  |

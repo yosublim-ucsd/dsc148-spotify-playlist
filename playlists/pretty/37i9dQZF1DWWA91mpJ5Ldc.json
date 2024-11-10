@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 129272,
+  "num_followers": 129291,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
+        "name": "Coisa de Acender",
+        "url": "https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 347893,
+      "name": "Boa Noite",
+      "url": "https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
         "name": "Goela Abaixo",
         "url": "https://open.spotify.com/album/6u9KVK2R84AIC5tR75SLAo"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 230849,
       "name": "Bem Bom",
       "url": "https://open.spotify.com/track/5GkqsV7wYPqZNjGfhSGWuf"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
-        "name": "Coisa de Acender",
-        "url": "https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 347893,
-      "name": "Boa Noite",
-      "url": "https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
+        "name": "Mar\u00e9",
+        "url": "https://open.spotify.com/album/5LAUGOnMeoWsGEVic4go6l"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 203493,
+      "name": "Seu Pensamento",
+      "url": "https://open.spotify.com/track/5E9FgjQiyEckt2KUxb94vv"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
         "name": "Fragma",
         "url": "https://open.spotify.com/album/5Vwvi7lEBw808vJfDsGEkd"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "Mar\u00e9",
-        "url": "https://open.spotify.com/album/5LAUGOnMeoWsGEVic4go6l"
+        "name": "Al\u00f4 Al\u00f4, Como Vai?",
+        "url": "https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi"
       },
       "artists": [
         {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
         }
       ],
-      "duration_ms": 203493,
-      "name": "Seu Pensamento",
-      "url": "https://open.spotify.com/track/5E9FgjQiyEckt2KUxb94vv"
+      "duration_ms": 262933,
+      "name": "Olha a Pipa",
+      "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -819,22 +835,6 @@
       "duration_ms": 259453,
       "name": "Gold Coast",
       "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
-        "name": "Al\u00f4 Al\u00f4, Como Vai?",
-        "url": "https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 262933,
-      "name": "Olha a Pipa",
-      "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
     },
     {
       "added_at": "2024-10-04 03:00:00",
@@ -859,26 +859,6 @@
     {
       "added_at": "2024-10-04 03:00:00",
       "album": {
-        "name": "Samba de Novela",
-        "url": "https://open.spotify.com/album/4sXWwVNqOTKzOZMdGDDlNe"
-      },
-      "artists": [
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        },
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        }
-      ],
-      "duration_ms": 198018,
-      "name": "Samba de Novela",
-      "url": "https://open.spotify.com/track/3LkhWWarDHcfXgWtahraP0"
-    },
-    {
-      "added_at": "2024-10-04 03:00:00",
-      "album": {
         "name": "Trevo, Figuinha e Suor na Camisa",
         "url": "https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 170453,
       "name": "Trevo, Figuinha e Suor na Camisa",
       "url": "https://open.spotify.com/track/5XlSsxpTi0usJnQSUwBORk"
+    },
+    {
+      "added_at": "2024-10-04 03:00:00",
+      "album": {
+        "name": "Samba de Novela",
+        "url": "https://open.spotify.com/album/4sXWwVNqOTKzOZMdGDDlNe"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        },
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        }
+      ],
+      "duration_ms": 198018,
+      "name": "Samba de Novela",
+      "url": "https://open.spotify.com/track/3LkhWWarDHcfXgWtahraP0"
     },
     {
       "added_at": "2024-10-04 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: Ronnie Flex, Yade Lauren & Mula B
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,372 likes - 99 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,399 likes - 99 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 2 | [Rode Draad](https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH) | 2:56 |
 | 3 | [Before It Might Be Gone](https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone](https://open.spotify.com/album/3EVICWZusdGvnKGYkY9AGM) | 4:56 |
 | 4 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 |
-| 5 | [Je T'aime](https://open.spotify.com/track/3JMG73kZGHTL0PXvxO7xnA) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Je T'aime](https://open.spotify.com/album/2RrSrjr3Cj1r5t6OYI9eu5) | 2:59 |
+| 5 | [Je T'aime](https://open.spotify.com/track/3JMG73kZGHTL0PXvxO7xnA) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Je T'aime](https://open.spotify.com/album/2RrSrjr3Cj1r5t6OYI9eu5) | 2:59 |
 | 6 | [Game of Pretend](https://open.spotify.com/track/0CUUFKKSFn4xoDHAnS8AFL) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Game of Pretend](https://open.spotify.com/album/4XJdTyFjkq9hcngkIDSMmM) | 4:19 |
 | 7 | [Dansvloerkiller](https://open.spotify.com/track/47tS35fPyJjIHLk95OBeHc) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Dansvloerkiller](https://open.spotify.com/album/1pIFdaWneZM9kRMYDsYcxD) | 3:08 |
 | 8 | [Craving 4 U \(feat\. bbyclose\)](https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Craving 4 U \(feat\. bbyclose\)](https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0) | 2:19 |
@@ -74,18 +74,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 64 | [Holy Grail](https://open.spotify.com/track/6Gotxbh6LfoD7ttFHsp4Ni) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Holy Grail](https://open.spotify.com/album/16yx2dOA0EkZRg4fKxx2Er) | 2:54 |
 | 65 | [Blijf Maar Zitten](https://open.spotify.com/track/2Im5y148VhyId6QP2Theig) | [FULCO](https://open.spotify.com/artist/6KXC42r3VuasqhvMOFKxJt) | [Blijf Maar Zitten](https://open.spotify.com/album/0XqFNh4lPuxE0caEm6B5Yi) | 3:00 |
 | 66 | [We Tried](https://open.spotify.com/track/5u9CgqgURzVWLQM1dqVG2t) | [Leela Rosa](https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66) | [We Tried](https://open.spotify.com/album/69IhLswBPVjFm52fjf19Yo) | 3:06 |
-| 67 | [Girls Like Sade \(feat\. Nana Fofie\)](https://open.spotify.com/track/4p5ZGsDB5bqdFMIRoLEslq) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Girls Like Sade \(feat\. Nana Fofie\)](https://open.spotify.com/album/4ImiW1Ird44f8ddYRcZxbr) | 2:43 |
+| 67 | [Girls Like Sade](https://open.spotify.com/track/4p5ZGsDB5bqdFMIRoLEslq) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Girls Like Sade](https://open.spotify.com/album/4ImiW1Ird44f8ddYRcZxbr) | 2:43 |
 | 68 | [Niet Meer Los\(t\)](https://open.spotify.com/track/7FlKQRrHWiz6joBJyW7KHk) | [Q'n](https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM) | [Niet Meer Los\(t\)](https://open.spotify.com/album/6dlyRC7jWaZHKScKx6J2t0) | 3:17 |
 | 69 | [Verloren](https://open.spotify.com/track/65pxNsz5Kcap7xTE4e9eJp) | [Ginger](https://open.spotify.com/artist/3mrOynKrihp03WXLtootoD), [Jaap Goud](https://open.spotify.com/artist/0kY3JTHPCakGx8ydflXOyR) | [Verloren](https://open.spotify.com/album/5eNmNrU1NDOtAqWPTAJoAi) | 2:41 |
 | 70 | [SET IT ON FIRE](https://open.spotify.com/track/6Pc5eHdzmnruL7zPsRp5UE) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [SET IT ON FIRE](https://open.spotify.com/album/0KlB5ibm3W9pJwI83HBydh) | 3:49 |
 | 71 | [Winter Baby](https://open.spotify.com/track/4gsO99UmYFrncTeTvMDwWX) | [Sam Vano](https://open.spotify.com/artist/7pGC4cTs6vBSWgWDnf5To5) | [Winter Baby](https://open.spotify.com/album/3OL8iyJX6m54OGBWY6cLoz) | 3:06 |
 | 72 | [Promises](https://open.spotify.com/track/3fQOhzpY0GGxL9pTqRev7n) | [Angelo King](https://open.spotify.com/artist/1Q0kuvgP9fC9Y5OCP1mzOV) | [Promises](https://open.spotify.com/album/6L4gXEEk3n3oIFVeJ9AoEh) | 2:32 |
 | 73 | [Back 2 Me](https://open.spotify.com/track/4ZWwOIi4ZaXe3abTVLkedj) | [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Back 2 Me](https://open.spotify.com/album/1G5zOiwudBZj9NdVsGjnXi) | 2:41 |
-| 74 | [Good Girl](https://open.spotify.com/track/3tksrINzKHJkMNsCrKRiBp) | [YVES](https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ), [SHY](https://open.spotify.com/artist/6XPCiOK0ZzG8WJhUsnyU7T) | [Good Girls](https://open.spotify.com/album/3iqyBzqc9V2qkDYNOihhYL) | 2:11 |
+| 74 | [Good Girls](https://open.spotify.com/track/3tksrINzKHJkMNsCrKRiBp) | [YVES](https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ), [SHY](https://open.spotify.com/artist/6XPCiOK0ZzG8WJhUsnyU7T) | [Good Girls](https://open.spotify.com/album/3iqyBzqc9V2qkDYNOihhYL) | 2:11 |
 | 75 | [Things I Forgot](https://open.spotify.com/track/5Uy2w0WwW8xw2V2kWYZf17) | [Mara Necia](https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE) | [Things I Forgot](https://open.spotify.com/album/3shCoezV6F89RXGb0nIDsh) | 3:17 |
 | 76 | [Wolves](https://open.spotify.com/track/3ZbYyZUNaMmJ8JsiaC3zFp) | [Josha Daniel](https://open.spotify.com/artist/3U0iFfS4kjiAkS1oCUOmuN), [Quentyn](https://open.spotify.com/artist/5bYML8xTIbwYZg5e3izzjl) | [Wolves](https://open.spotify.com/album/7edPccZyidsVxW43GpJvXN) | 3:09 |
 | 77 | [Don't Cry](https://open.spotify.com/track/6gAfcLmswaho2aqeKmoFS1) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Give Up The Fear](https://open.spotify.com/album/4PfN0s5linXQvTPlHpJ7De) | 3:16 |
-| 78 | [SELFISH](https://open.spotify.com/track/26Zvz6Kc8d9NJ4yfLz1SDs) | [HANNAH](https://open.spotify.com/artist/4hMecxFpHOCphHmOTOS94X) | [SELFISH](https://open.spotify.com/album/44GFpDbXoPMMwGTZ0z0DQn) | 2:19 |
+| 78 | [SELFISH](https://open.spotify.com/track/26Zvz6Kc8d9NJ4yfLz1SDs) | [HANNAH](https://open.spotify.com/artist/5XONXiST4rrEorDtK1Ecd3) | [SELFISH](https://open.spotify.com/album/44GFpDbXoPMMwGTZ0z0DQn) | 2:19 |
 | 79 | [The Reaping](https://open.spotify.com/track/17ZxFTe5wxNTdQpXiMWwGL) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [The Reaping](https://open.spotify.com/album/6UuOIfc4Zt4ktoWKcluneU) | 3:47 |
 | 80 | [Your Party](https://open.spotify.com/track/59jLI8xHb0ipvqyaE4b198) | [Meryn](https://open.spotify.com/artist/2dBrtYc8IGsaLK0kgzhvKz) | [Your Party](https://open.spotify.com/album/6lsRjqIv9kVqSTqBXS7HO3) | 2:10 |
 | 81 | [Too Much Too Much](https://open.spotify.com/track/1EtN1c86DtAhvioCuPYQKX) | [Rachèl Louise](https://open.spotify.com/artist/5qBnUEVyM1b6orwYHQjfYw) | [Too Much Too Much](https://open.spotify.com/album/3YD8pVPGRlds0p1anCGmoZ) | 2:56 |
@@ -106,6 +106,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 96 | [Fata Morgana](https://open.spotify.com/track/1v1cijv1qjMJ5o9OvMWACS) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Fata Morgana](https://open.spotify.com/album/3Abw9UTsnzAEEf3nC87Lvx) | 2:44 |
 | 97 | [Bus Stop Please](https://open.spotify.com/track/69qwWu8dQwaTABh5B9r8xn) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Bus Stop Please](https://open.spotify.com/album/06HEvSJ6i3ML7nXAiTVt94) | 3:35 |
 | 98 | [Fell Off](https://open.spotify.com/track/4W55B2y38OT2pN1QIWjxim) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W), [Elif Dame](https://open.spotify.com/artist/0SxhCRUBtbMq1EdVV257PO) | [Fell Off](https://open.spotify.com/album/5nCMbohXSGYBjCcdH54mUP) | 2:02 |
-| 99 | [IMMA CALL UP CURTIS](https://open.spotify.com/track/5A3kjAigPDr48wudS8u53S) | [Sinclair](https://open.spotify.com/artist/0IbWNNqUJWp6qjQePARgTp) | [IMMA CALL UP CURTIS](https://open.spotify.com/album/5swlg3nLfbDmuv6g2CSXoO) | 3:02 |
+| 99 | [IMMA CALL UP CURTIS](https://open.spotify.com/track/5A3kjAigPDr48wudS8u53S) | [SiNNiWAVi](https://open.spotify.com/artist/0Tkppz8pEg4PE4NuqpTcgC) | [IMMA CALL UP CURTIS](https://open.spotify.com/album/5swlg3nLfbDmuv6g2CSXoO) | 3:02 |
 
 Snapshot ID: `Zy1GcAAAAAA1PbUh4M06DPZd1xfgJ/kt`

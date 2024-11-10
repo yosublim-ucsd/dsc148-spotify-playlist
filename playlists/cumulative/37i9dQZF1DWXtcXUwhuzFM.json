@@ -5552,6 +5552,18 @@
         {
           "name": "Alice Phoebe Lou",
           "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        },
+        {
+          "name": "David Parry",
+          "url": "https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD"
+        },
+        {
+          "name": "Dekel Adin",
+          "url": "https://open.spotify.com/artist/27xyFvRoUUYKOPiY47BbZ9"
+        },
+        {
+          "name": "Ziv Yamin",
+          "url": "https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8"
         }
       ],
       "date_added": "2024-11-07",
@@ -15707,7 +15719,7 @@
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 178524,
+      "duration_ms": 176803,
       "name": "Fine Wine",
       "url": "https://open.spotify.com/track/6K52pf928JK0WkxUn5Zzy2"
     },
@@ -43798,16 +43810,16 @@
           "url": "https://open.spotify.com/artist/1QZB4c84BdcLM9MGD4EjBj"
         },
         {
-          "name": "Loasteeze",
-          "url": "https://open.spotify.com/artist/5cWTEtVgv1VNBS9mBdQHOo"
-        },
-        {
           "name": "Mikidi & Gaiaf",
           "url": "https://open.spotify.com/artist/16uKjzyikKfkjTjMtRgECE"
         },
         {
           "name": "Painajainen",
           "url": "https://open.spotify.com/artist/2XIBChvoFldVMQhs8WwJV2"
+        },
+        {
+          "name": "Loasteeze",
+          "url": "https://open.spotify.com/artist/5cWTEtVgv1VNBS9mBdQHOo"
         }
       ],
       "date_added": "2024-11-07",
@@ -60129,7 +60141,7 @@
     },
     {
       "album": {
-        "name": "We'll Be Okay",
+        "name": "We'll be okay",
         "url": "https://open.spotify.com/album/7lgKqthMHCIUlOOiR6Ykib"
       },
       "artists": [
@@ -60142,7 +60154,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 174715,
-      "name": "We'll Be Okay",
+      "name": "We'll be okay",
       "url": "https://open.spotify.com/track/3wtLD1XmjyL2B71Z6gNfNe"
     },
     {

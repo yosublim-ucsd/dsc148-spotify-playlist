@@ -597,6 +597,32 @@
     },
     {
       "album": {
+        "name": "LOVE, MONEY, FAME (feat. DJ Khaled) (Kenia OS Remix)",
+        "url": "https://open.spotify.com/album/1i7BMtLnINM9MhxwYboUlS"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214800,
+      "name": "LOVE, MONEY, FAME (feat. DJ Khaled) (Kenia OS Remix)",
+      "url": "https://open.spotify.com/track/36LcCpAK7ColfpTTRNChhz"
+    },
+    {
+      "album": {
         "name": "Lovelove U",
         "url": "https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv"
       },

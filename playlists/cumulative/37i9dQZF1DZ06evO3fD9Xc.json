@@ -831,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Mis Covers, Vol. 9",
+        "url": "https://open.spotify.com/album/6zfOPRCozrWyyCgdw5F0Py"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186386,
+      "name": "Mi Olvido",
+      "url": "https://open.spotify.com/track/1jsgxJK8KPhCqIFq53uVSF"
+    },
+    {
+      "album": {
         "name": "Mis Covers, Vol. 3",
         "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
       },
@@ -958,6 +976,24 @@
       "duration_ms": 197137,
       "name": "No Me Hubiera Enamorado",
       "url": "https://open.spotify.com/track/4iQ12cbctsVMoP3t7vHTm4"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 9",
+        "url": "https://open.spotify.com/album/6zfOPRCozrWyyCgdw5F0Py"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176123,
+      "name": "No Me Pidas Perd\u00f3n",
+      "url": "https://open.spotify.com/track/05zTquAfe4VLaOpvMunKCQ"
     },
     {
       "album": {

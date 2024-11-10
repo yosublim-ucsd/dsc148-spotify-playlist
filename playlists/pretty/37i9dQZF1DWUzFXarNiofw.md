@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: PARTYNEXTDOOR
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,051,588 likes - 225 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,051,726 likes - 225 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 11 | [Don't Cry](https://open.spotify.com/track/6gAfcLmswaho2aqeKmoFS1) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Give Up The Fear](https://open.spotify.com/album/4PfN0s5linXQvTPlHpJ7De) | 3:16 |
 | 12 | [sweet nothings](https://open.spotify.com/track/5aC91iyzOTL31zeZOHsmip) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Sweet Nothings \(Chapter 2\)](https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj) | 2:39 |
 | 13 | [Complicated](https://open.spotify.com/track/140cW0PtrfiVaOrIUlZ5Dq) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Dutty Love](https://open.spotify.com/album/175r8elKWemcX0GM1CbOQy) | 2:36 |
-| 14 | [Girls Like Sade \(feat\. Nana Fofie\)](https://open.spotify.com/track/4p5ZGsDB5bqdFMIRoLEslq) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Girls Like Sade \(feat\. Nana Fofie\)](https://open.spotify.com/album/4ImiW1Ird44f8ddYRcZxbr) | 2:43 |
+| 14 | [Girls Like Sade](https://open.spotify.com/track/4p5ZGsDB5bqdFMIRoLEslq) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Girls Like Sade](https://open.spotify.com/album/4ImiW1Ird44f8ddYRcZxbr) | 2:43 |
 | 15 | [Flawless](https://open.spotify.com/track/7rCk0YGYPTgzdAUba5faP5) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [A Night About You](https://open.spotify.com/album/2bNdsHCAtT7UmllvIKP0PZ) | 3:23 |
 | 16 | [KOKO](https://open.spotify.com/track/0WHJJNkkCYGbDNDYUW8RA3) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Hold My Drink, Watch This.](https://open.spotify.com/album/7DTiWmmTONvedPmSiaDYEO) | 2:38 |
 | 17 | [Good Cookin'](https://open.spotify.com/track/3sLMQigQqOlOMbTeZNJQdB) | [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Johnny Venus](https://open.spotify.com/artist/2Gs98Wl43BSYOJcExQ58Sx) | [Good Cookin'](https://open.spotify.com/album/1y71gH8af9vqXieR1GM3Zx) | 3:54 |

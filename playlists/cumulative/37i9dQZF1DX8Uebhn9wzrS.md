@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,135 songs - 3 day 9 hr 25 min
+2,136 songs - 3 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -609,7 +609,7 @@
 | [Far Away](https://open.spotify.com/track/5RfqX9XamBQDQYYIV1dVVZ) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP), [Lonely Girl](https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw) | [Riverside Girl](https://open.spotify.com/album/042BqwGJ0kRSfsjlSYmtVH) | 3:11 | 2024-09-06 | 2024-10-12 |
 | [Far East](https://open.spotify.com/track/6PQdebTH2xQn4mURkNP4IU) | [Darren Spice](https://open.spotify.com/artist/6DR7b1QU9VjGiJlBEAtkvT) | [Far East](https://open.spotify.com/album/0FTsRS7Jn5xpr3evrJpPsV) | 2:04 | 2023-10-13 |  |
 | [far far away](https://open.spotify.com/track/02lD05wrDhtJVJkQELhwkt) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [aurora](https://open.spotify.com/album/6ImO1VVSZr0cpYuhtBbXvp) | 2:52 | 2023-03-20 | 2024-02-09 |
-| [Far Far Away](https://open.spotify.com/track/6SMu9pzCeYtNd5JBdmycQr) | [Nelly Lang](https://open.spotify.com/artist/3yH3UFanIqAoYmtq7uFW4w) | [Far Far Away](https://open.spotify.com/album/2YR8abEvi7Wk25Nwb2hQ72) | 1:51 | 2022-10-28 |  |
+| [Far Far Away](https://open.spotify.com/track/6SMu9pzCeYtNd5JBdmycQr) | [Nelly Lang](https://open.spotify.com/artist/3yH3UFanIqAoYmtq7uFW4w) | [Far Far Away](https://open.spotify.com/album/2YR8abEvi7Wk25Nwb2hQ72) | 1:51 | 2022-10-28 | 2024-11-10 |
 | [Far Out](https://open.spotify.com/track/3XRvlPzPQ5kbsHWnXKz5qD) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Far Out](https://open.spotify.com/album/1aiQ2fMrMllGqLTTiNpnSE) | 1:55 | 2022-04-22 | 2022-11-12 |
 | [Fare Thee Well O Noble Timepiece](https://open.spotify.com/track/3sKKyt8RryZTi8HZD0Qqu4) | [Domo 759](https://open.spotify.com/artist/0PWZbiy5ZX5uSWrPPVRhYz) | [Fare Thee Well O Noble Timepiece](https://open.spotify.com/album/4csKfMmsQHpSCZYYFLtkcw) | 3:15 | 2023-11-17 |  |
 | [Fare Wells](https://open.spotify.com/track/1ACtHypM6VcEFCncUM0dAZ) | [Zapati\_](https://open.spotify.com/artist/7104dNwyew90099F5cyLBR) | [Fare Wells](https://open.spotify.com/album/0r1gugBZpWj7HjAO7gvXfm) | 2:18 | 2022-12-23 | 2024-10-01 |
@@ -1340,6 +1340,7 @@
 | [On Demand](https://open.spotify.com/track/5xDZcCoD5lenLkc3IUM2YR) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [On Demand](https://open.spotify.com/album/72LlNQkCRr0myzBUSsmNCX) | 1:56 | 2023-02-06 | 2023-09-29 |
 | [On Empty](https://open.spotify.com/track/1UNiVCuUcoKHRol0ykFlBr) | [wovels tune](https://open.spotify.com/artist/2Q0DvYlO2XM5FrZy2dSJYX) | [On Empty](https://open.spotify.com/album/1YMJQUp4mQo2yrtIZ85keu) | 2:12 | 2022-12-23 |  |
 | [On my mind](https://open.spotify.com/track/0DUhu1xEepWHTXupbUDgGt) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [On my mind](https://open.spotify.com/album/5IKftGnn54xtTSbGuw9C5Q) | 3:14 | 2023-07-13 |  |
+| [on the edge](https://open.spotify.com/track/4loxJClOvjpnA67XzbFyNB) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [on the edge](https://open.spotify.com/album/5QBF1PNRxB5bUEK03sLkwU) | 2:13 | 2024-11-08 |  |
 | [On the Move](https://open.spotify.com/track/2KIe2dj8bvSoXnDzSZv0B8) | [AK420](https://open.spotify.com/artist/6CW4PA1rghGWGSHhmxGrrE) | [On the Move](https://open.spotify.com/album/2JqMNWb0TSxZFMkpl3cuDV) | 2:44 | 2022-07-29 | 2022-08-19 |
 | [On the Move](https://open.spotify.com/track/4BXzeBAfxdEuzN4WB3jzrZ) | [AK420](https://open.spotify.com/artist/6CW4PA1rghGWGSHhmxGrrE) | [On the Move](https://open.spotify.com/album/6mzjiZ8wvkpoEaxJOiPfzB) | 2:44 | 2022-04-15 | 2022-07-29 |
 | [On The Rocks](https://open.spotify.com/track/5W6YfXKvoKDHTEHdSe8KSu) | [dueday](https://open.spotify.com/artist/2yLP0IwAa0JkNWr6OMHM0i) | [On The Rocks](https://open.spotify.com/album/5uLJjztTMn1lHgPd6i6wbE) | 2:03 | 2022-04-15 | 2022-07-22 |

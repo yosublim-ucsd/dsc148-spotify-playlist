@@ -4,7 +4,7 @@
 
 > This is Whitney Houston\. The essential tracks, all in one playlist.
 
-65 songs - 4 hr 46 min
+66 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [It's Not Right But It's Okay](https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:52 | 2023-07-28 |  |
 | [Jesus Loves Me](https://open.spotify.com/track/77ld03vIqCjakQkIQBPTVA) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 5:12 | 2023-07-30 |  |
 | [Like I Never Left \(feat\. Akon\)](https://open.spotify.com/track/5qIB8RslPO78tG7S9SN3FX) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [I Look To You](https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A) | 3:49 | 2023-07-28 |  |
+| [Love Is \- 2024 Mix](https://open.spotify.com/track/1LirjrKLn5i6Y4YiukHs1P) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Concert for a New South Africa \(Durban\) \[Live\]](https://open.spotify.com/album/2vYHp5hQNYCPj28AfJP7QE) | 3:17 | 2024-11-10 |  |
 | [Love Will Save the Day](https://open.spotify.com/track/4gDBc1RxPAvinJrZzZ9nYX) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 5:21 | 2023-07-28 | 2024-09-20 |
 | [Love Will Save the Day \- Live in Kings Park Stadium, Durban, South Africa \- November 8, 1994](https://open.spotify.com/track/2NhCRAq3klQmpZqshC5bU7) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Love Will Save the Day \(Live in Kings Park Stadium, Durban, South Africa \- November 8, 1994\)](https://open.spotify.com/album/5CIxmIO8r4UFKiDAzWWW3m) | 6:16 | 2024-09-20 | 2024-11-08 |
 | [Lover for Life](https://open.spotify.com/track/2tYPx6gPuRDKOmoBZOGfNJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I'm Your Baby Tonight](https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw) | 4:49 | 2023-07-28 |  |

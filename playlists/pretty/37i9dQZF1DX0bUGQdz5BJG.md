@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Halle Kearns
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,505 likes - 215 songs - 11 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,593 likes - 215 songs - 11 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 4 | [made it out of mexico \- acoustic](https://open.spotify.com/track/7CfoX1h6SG6AH6KVSc895Y) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [made it out of mexico \(acoustic\)](https://open.spotify.com/album/6CUl4TvKLkXuD0byLSlnae) | 3:10 |
 | 5 | [Missin' Me Missin' You](https://open.spotify.com/track/6ioFnr4tVGy4kHhyK2fOAw) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Missin' Me Missin' You](https://open.spotify.com/album/2l4JHk7D0lEV0Re533bzMe) | 2:40 |
 | 6 | [Fall This Way](https://open.spotify.com/track/5AeR3j18cKWueAh42yKkFE) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Fall This Way](https://open.spotify.com/album/5fezVdpvGi5luATJVA19B5) | 3:35 |
-| 7 | [All the Small Things](https://open.spotify.com/track/5QF6dBZYF4zDmpDeM8qbZ4) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [All the Small Things](https://open.spotify.com/album/0nGBaopA0BHPtyTitsv2Gu) | 3:19 |
+| 7 | [All The Small Things](https://open.spotify.com/track/5QF6dBZYF4zDmpDeM8qbZ4) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [All The Small Things](https://open.spotify.com/album/0nGBaopA0BHPtyTitsv2Gu) | 3:19 |
 | 8 | [Breaking Dishes](https://open.spotify.com/track/3iwSUhv5sjipxYEp8mAQCW) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Breaking Dishes](https://open.spotify.com/album/4OQgjaR3MOhWECN9GPbiNx) | 3:51 |
 | 9 | [Red Bandana](https://open.spotify.com/track/2VIOg87P7QCmIyYBEwEgvy) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Red Bandana](https://open.spotify.com/album/6ftosjsIUxKZWrxCVEWrI0) | 3:47 |
 | 10 | [Just Like Me](https://open.spotify.com/track/6vappVdqiYniLQ1xUJv9zX) | [Mike Parker](https://open.spotify.com/artist/3hzCzAwJH36Ia5R5MIaW8m) | [Just Like Me](https://open.spotify.com/album/4sUU64UBqJvfwPAZSu5Nb0) | 2:48 |

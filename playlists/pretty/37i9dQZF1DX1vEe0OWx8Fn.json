@@ -1,6 +1,6 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 88962,
+  "num_followers": 88981,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
@@ -689,6 +689,22 @@
       "url": "https://open.spotify.com/track/5nC2VyPxefp5EXVViTcz7S"
     },
     {
+      "added_at": "2023-05-19 14:21:26",
+      "album": {
+        "name": "YOU NEEDED A HIT//",
+        "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "duration_ms": 120149,
+      "name": "YOU NEEDED A HIT//",
+      "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
+    },
+    {
       "added_at": "2022-08-16 22:06:35",
       "album": {
         "name": "off saint dominique EP",
@@ -707,22 +723,6 @@
       "duration_ms": 156225,
       "name": "fall apart (with glaive)",
       "url": "https://open.spotify.com/track/6vOY0h3OyLLSXouDtP6FkN"
-    },
-    {
-      "added_at": "2023-05-19 14:21:26",
-      "album": {
-        "name": "YOU NEEDED A HIT//",
-        "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
-      },
-      "artists": [
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        }
-      ],
-      "duration_ms": 120149,
-      "name": "YOU NEEDED A HIT//",
-      "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
     },
     {
       "added_at": "2022-08-16 22:06:35",

@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Olamide",
-  "num_followers": 56722,
+  "num_followers": 56771,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -563,26 +563,22 @@
     {
       "added_at": "2024-11-08 00:01:00",
       "album": {
-        "name": "TECHNICIAN",
-        "url": "https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK"
+        "name": "Compose",
+        "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         },
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Lekaa Beats",
-          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
         }
       ],
-      "duration_ms": 156428,
-      "name": "TECHNICIAN (feat. Blaqbonez & Lekaa Beats)",
-      "url": "https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv"
+      "duration_ms": 144000,
+      "name": "Compose",
+      "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
     },
     {
       "added_at": "2024-11-08 00:01:00",
@@ -607,22 +603,26 @@
     {
       "added_at": "2024-11-08 00:01:00",
       "album": {
-        "name": "Compose",
-        "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
+        "name": "TECHNICIAN",
+        "url": "https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK"
       },
       "artists": [
         {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         },
         {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Lekaa Beats",
+          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Compose",
-      "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
+      "duration_ms": 156428,
+      "name": "TECHNICIAN (feat. Blaqbonez & Lekaa Beats)",
+      "url": "https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv"
     },
     {
       "added_at": "2024-11-08 00:01:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2024-11-08 00:01:00",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7jblLF62kdZvVYFj9ZP4Zk"
-      },
-      "artists": [
-        {
-          "name": "PaBrymo",
-          "url": "https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk"
-        },
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        }
-      ],
-      "duration_ms": 144935,
-      "name": "Brothers",
-      "url": "https://open.spotify.com/track/19JlNGPLF53t7akcgJrtYW"
-    },
-    {
-      "added_at": "2024-11-08 00:01:00",
-      "album": {
         "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
         "url": "https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 147192,
       "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
       "url": "https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2"
+    },
+    {
+      "added_at": "2024-11-08 00:01:00",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7jblLF62kdZvVYFj9ZP4Zk"
+      },
+      "artists": [
+        {
+          "name": "PaBrymo",
+          "url": "https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "duration_ms": 144935,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/19JlNGPLF53t7akcgJrtYW"
     },
     {
       "added_at": "2024-11-08 00:01:00",

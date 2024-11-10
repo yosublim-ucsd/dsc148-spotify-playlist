@@ -1,12 +1,12 @@
 {
   "description": "This is La Fiera de Ojinaga. The essential tracks, all in one playlist.",
-  "num_followers": 47020,
+  "num_followers": 47045,
   "original_name": "This Is La Fiera de Ojinaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZywDAAAAAAA+FUWpdewcip8FdH2Cwv20",
+  "snapshot_id": "Zy1UgAAAAADuIc3KyB41BIXVcDf54ACO",
   "tracks": [
     {
       "added_at": null,
@@ -47,22 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trilog\u00eda, Vol. 2",
-        "url": "https://open.spotify.com/album/2BqFIhmV8oZKVQGi8cidDc"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 157645,
-      "name": "Un Amor Bonito",
-      "url": "https://open.spotify.com/track/3iHx3nXUC1cf3WRUr743P1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neta Que No",
         "url": "https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 123746,
       "name": "900 Cigarros",
       "url": "https://open.spotify.com/track/5l9Yiss1tK7DFlOIZ6VumO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trilog\u00eda, Vol. 2",
+        "url": "https://open.spotify.com/album/2BqFIhmV8oZKVQGi8cidDc"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 157645,
+      "name": "Un Amor Bonito",
+      "url": "https://open.spotify.com/track/3iHx3nXUC1cf3WRUr743P1"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tus Historias Mienten",
-        "url": "https://open.spotify.com/album/1Cj4btxoSIydkaxQsmUJ0d"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 146360,
-      "name": "Tus Historias Mienten",
-      "url": "https://open.spotify.com/track/6M3fUO8he626evmaoYay1a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Toca Hacer Lo Tuyo",
         "url": "https://open.spotify.com/album/2QODDsHHqu9MbRNUSPcrL2"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 194432,
       "name": "Te Toca Hacer Lo Tuyo",
       "url": "https://open.spotify.com/track/1aGM20rQDiiL03fRgmX1Zc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tus Historias Mienten",
+        "url": "https://open.spotify.com/album/1Cj4btxoSIydkaxQsmUJ0d"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 146360,
+      "name": "Tus Historias Mienten",
+      "url": "https://open.spotify.com/track/6M3fUO8he626evmaoYay1a"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coraz\u00f3n Jodido",
-        "url": "https://open.spotify.com/album/2hiF7rho0MmUdmhq7MvgqE"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 163925,
-      "name": "Coraz\u00f3n Jodido",
-      "url": "https://open.spotify.com/track/22RHmkbByjdDFGX31OC3Al"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D\u00edselo Con Sax",
         "url": "https://open.spotify.com/album/6nAqAwEFAdgfmLsSpD9AIj"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 175210,
       "name": "Qui\u00e9n Mejor Que T\u00fa",
       "url": "https://open.spotify.com/track/3Rud1SXi9zzVZuCAFXWl3f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coraz\u00f3n Jodido",
+        "url": "https://open.spotify.com/album/2hiF7rho0MmUdmhq7MvgqE"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 163925,
+      "name": "Coraz\u00f3n Jodido",
+      "url": "https://open.spotify.com/track/22RHmkbByjdDFGX31OC3Al"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/5ZzQNKzCB7NdaWM2ldgex4"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 177726,
-      "name": "Espero Lo Mejor de Ti",
-      "url": "https://open.spotify.com/track/4qdbqHhzFOTLWu4DgoGIXb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROBOT",
         "url": "https://open.spotify.com/album/1ffcgZehqaCzpuu85BHshW"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 140746,
       "name": "ROBOT",
       "url": "https://open.spotify.com/track/13xTFlHxWacBxVG3NBAXJC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/5ZzQNKzCB7NdaWM2ldgex4"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 177726,
+      "name": "Espero Lo Mejor de Ti",
+      "url": "https://open.spotify.com/track/4qdbqHhzFOTLWu4DgoGIXb"
     }
   ],
   "unique_name": "This Is La Fiera de Ojinaga",

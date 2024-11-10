@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "After All / Hidden Place",
+        "url": "https://open.spotify.com/album/3SIJcmFrw2GfqlTsdl3joD"
+      },
+      "artists": [
+        {
+          "name": "Ankho\u00ef",
+          "url": "https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/6mQKtXxkbTVamgyRayRQLL"
+    },
+    {
+      "album": {
         "name": "After Glow",
         "url": "https://open.spotify.com/album/5hVnONvAlyPC01bq90TvL8"
       },
@@ -1302,6 +1320,24 @@
       "duration_ms": 246462,
       "name": "Bacall",
       "url": "https://open.spotify.com/track/1bhSnPeBGo1cSPgjDZXujj"
+    },
+    {
+      "album": {
+        "name": "Back 2 Me",
+        "url": "https://open.spotify.com/album/1G5zOiwudBZj9NdVsGjnXi"
+      },
+      "artists": [
+        {
+          "name": "Malachiii",
+          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161622,
+      "name": "Back 2 Me",
+      "url": "https://open.spotify.com/track/4ZWwOIi4ZaXe3abTVLkedj"
     },
     {
       "album": {
@@ -3272,7 +3308,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 196875,
       "name": "Currents",
       "url": "https://open.spotify.com/track/4dx073Vrs9TfmVrSIm3BGu"
@@ -10530,7 +10566,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 303859,
       "name": "Nighttime Feeling (Weekend Love)",
       "url": "https://open.spotify.com/track/5hn6Px9PrUng5RGZEVFVlb"

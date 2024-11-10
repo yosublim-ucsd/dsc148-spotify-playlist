@@ -4,7 +4,7 @@
 
 > 
 
-812 songs - 2 day 15 hr 54 min
+813 songs - 2 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -699,6 +699,7 @@
 | [Tez Alegn Yetintu](https://open.spotify.com/track/2c0nkmyzTaD0dT7pLOAwbJ) | [Admas](https://open.spotify.com/artist/6nX6QalHWzPMf7sBnaWNNU) | [Sons of Ethiopia](https://open.spotify.com/album/0YutPaipVH9qoIwMdI81QW) | 7:52 | 2022-12-19 |  |
 | [Tezeta \(Nostalgia\)](https://open.spotify.com/track/414J8tKHbtF16XOiHGBEso) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Ethiopiques, Vol\. 4: Ethio Jazz 1969\-1974](https://open.spotify.com/album/5VKvVk4gaPAJyXjof8NnzX) | 6:16 | 2021-10-30 |  |
 | [The Angels](https://open.spotify.com/track/70D6ZilGAHVtzqo44cUXpK) | [Dom Um Romao](https://open.spotify.com/artist/0Dl3XjPU1zPX1dYLCsZ742) | [Complete Muse Sessions](https://open.spotify.com/album/2BYzWKdNMJxODz2bdIBmd9) | 4:03 | 2021-05-11 |  |
+| [The E Medley: Azteca Mozambique / Ah Ah / Cueros \- Live](https://open.spotify.com/track/5rOABYXOb0XfJXjHOMULZ4) | [Pete Escovedo](https://open.spotify.com/artist/3EXBBqXojqnitE9lPX0uUZ) | [Whatcha Gonna Do](https://open.spotify.com/album/660Q8reWp0pwGuHpF9BHWc) | 10:05 | 2024-11-09 |  |
 | [The Sweetest Sounds \(From the Broadway Musical "No Strings"\)](https://open.spotify.com/track/56JPieDKOrE4EOM7aF3acg) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Rodgers](https://open.spotify.com/artist/14qYrdOH4kenwOhr3riF4C) | [Bossa Cafe Songs](https://open.spotify.com/album/0UxOTliANKgdhhLmLy0pxz) | 2:23 | 2022-12-16 |  |
 | [Titina](https://open.spotify.com/track/4RTPsRTCHW8vCVfDVJ9Tvu) | [Broda](https://open.spotify.com/artist/5WF4J06QZLyIfUpYtVwjLq) | [Serie Sodad, Vol\. 8 \(Cape Verde\)](https://open.spotify.com/album/38Y0G4Jn6yE4UeLmuwch9L) | 3:18 | 2023-02-23 |  |
 | [To Woo Lady Kong](https://open.spotify.com/track/2hqOakw6UuboE6aBZJmkDZ) | [Chaz Jankel](https://open.spotify.com/artist/3TV7tssuSl8x7ARqsTvIyM) | [My Occupation 'The Music Of Chaz Jankel'](https://open.spotify.com/album/6V6RQy0Zvb5jKDw5pOLmJI) | 6:09 | 2023-07-06 |  |

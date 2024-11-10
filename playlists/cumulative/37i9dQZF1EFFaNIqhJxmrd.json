@@ -1213,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "Ljuger f\u00f6r mig sj\u00e4lv",
+        "url": "https://open.spotify.com/album/1cE5bD6aTJdUPs04CgOzCP"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128657,
+      "name": "Ljuger f\u00f6r mig sj\u00e4lv",
+      "url": "https://open.spotify.com/track/7uxi2Q19Lph3Vqznb5UBFS"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/2ESYew5AXPQddiwnC5SuXf"
       },

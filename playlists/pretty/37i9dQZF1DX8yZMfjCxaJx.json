@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Tom\u00e1s Ballardo en portada.",
-  "num_followers": 235590,
+  "num_followers": 235705,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -599,26 +599,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "Soy VIP",
-        "url": "https://open.spotify.com/album/3sIb7P0k12l1IaThmLPzkV"
-      },
-      "artists": [
-        {
-          "name": "La Instruxion",
-          "url": "https://open.spotify.com/artist/4IJpHcdinb2JCL9Gi9Gdw4"
-        },
-        {
-          "name": "Antonin Padilla",
-          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
-        }
-      ],
-      "duration_ms": 181109,
-      "name": "Soy VIP",
-      "url": "https://open.spotify.com/track/4Kn7o7LfvnQS9khdDgm05a"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "Lunetas",
         "url": "https://open.spotify.com/album/77PjwDAfnqkqKWm4yGlV93"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 176760,
       "name": "Lunetas",
       "url": "https://open.spotify.com/track/5stvPTThbnckmxWgW8Nswj"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "Soy VIP",
+        "url": "https://open.spotify.com/album/3sIb7P0k12l1IaThmLPzkV"
+      },
+      "artists": [
+        {
+          "name": "La Instruxion",
+          "url": "https://open.spotify.com/artist/4IJpHcdinb2JCL9Gi9Gdw4"
+        },
+        {
+          "name": "Antonin Padilla",
+          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
+        }
+      ],
+      "duration_ms": 181109,
+      "name": "Soy VIP",
+      "url": "https://open.spotify.com/track/4Kn7o7LfvnQS9khdDgm05a"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -931,26 +931,6 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "M.L.P",
-        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        },
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
-        }
-      ],
-      "duration_ms": 211961,
-      "name": "M.L.P",
-      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
         "name": "Desde Topo Hasta La Sierra",
         "url": "https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 218534,
       "name": "Desde Topo Hasta La Sierra",
       "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
+        "name": "M.L.P",
+        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "duration_ms": 211961,
+      "name": "M.L.P",
+      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1203,18 +1203,22 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "La Tropa Del Infierno",
-        "url": "https://open.spotify.com/album/6w2ZltCLxUaTF6OyQo46kx"
+        "name": "EVO LUXURY 2",
+        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
       },
       "artists": [
         {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Los Nuevos Ilegales",
+          "url": "https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac"
         }
       ],
-      "duration_ms": 162641,
-      "name": "La Tropa Del Infierno",
-      "url": "https://open.spotify.com/track/4FLBugx2vcm6hLKdOjlZU7"
+      "duration_ms": 189754,
+      "name": "El N\u00famero",
+      "url": "https://open.spotify.com/track/2S1L7g0N4ZH4DEzKoetT5N"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1251,22 +1255,18 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "EVO LUXURY 2",
-        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
+        "name": "La Tropa Del Infierno",
+        "url": "https://open.spotify.com/album/6w2ZltCLxUaTF6OyQo46kx"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Los Nuevos Ilegales",
-          "url": "https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac"
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
         }
       ],
-      "duration_ms": 189754,
-      "name": "El N\u00famero",
-      "url": "https://open.spotify.com/track/2S1L7g0N4ZH4DEzKoetT5N"
+      "duration_ms": 162641,
+      "name": "La Tropa Del Infierno",
+      "url": "https://open.spotify.com/track/4FLBugx2vcm6hLKdOjlZU7"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
+        "name": "XV Recargado",
+        "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 219116,
+      "name": "15 Millones por el M (En Vivo)",
+      "url": "https://open.spotify.com/track/28WrLmRF0Q89fv4SpZZigT"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
         "name": "Yo Soy Serafin",
         "url": "https://open.spotify.com/album/6gl5yLhjGsSgZJG0Hu80KM"
       },
@@ -1663,18 +1679,22 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
-        "name": "XV Recargado",
-        "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
+        "name": "Soy Me\u00f1o",
+        "url": "https://open.spotify.com/album/0RyCLJnMB5AcZnr7JLJ9no"
       },
       "artists": [
         {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        },
+        {
+          "name": "Los Del Sombrero",
+          "url": "https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt"
         }
       ],
-      "duration_ms": 219116,
-      "name": "15 Millones por el M (En Vivo)",
-      "url": "https://open.spotify.com/track/28WrLmRF0Q89fv4SpZZigT"
+      "duration_ms": 142971,
+      "name": "Soy Me\u00f1o",
+      "url": "https://open.spotify.com/track/1UtqU8fzHsapHGxAITKVhL"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1695,26 +1715,6 @@
       "duration_ms": 171519,
       "name": "Estilo Guzm\u00e1n",
       "url": "https://open.spotify.com/track/1JGy92ftziV5hdHP0rwOwh"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
-        "name": "Soy Me\u00f1o",
-        "url": "https://open.spotify.com/album/0RyCLJnMB5AcZnr7JLJ9no"
-      },
-      "artists": [
-        {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
-        },
-        {
-          "name": "Los Del Sombrero",
-          "url": "https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt"
-        }
-      ],
-      "duration_ms": 142971,
-      "name": "Soy Me\u00f1o",
-      "url": "https://open.spotify.com/track/1UtqU8fzHsapHGxAITKVhL"
     },
     {
       "added_at": "2024-11-01 06:00:00",
@@ -1827,6 +1827,26 @@
     {
       "added_at": "2024-11-01 06:00:00",
       "album": {
+        "name": "MALA FAMA",
+        "url": "https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 116958,
+      "name": "R1",
+      "url": "https://open.spotify.com/track/6wWU9kWh5wKjQv5QVuPyFn"
+    },
+    {
+      "added_at": "2024-11-01 06:00:00",
+      "album": {
         "name": "Buenas Vibras",
         "url": "https://open.spotify.com/album/7zgQU4dD2S2122n8as0vco"
       },
@@ -1879,26 +1899,6 @@
       "duration_ms": 188393,
       "name": "Bienvenidos a Guasave",
       "url": "https://open.spotify.com/track/1Fmurh0G4umnBgsJtZoD0Q"
-    },
-    {
-      "added_at": "2024-11-01 06:00:00",
-      "album": {
-        "name": "MALA FAMA",
-        "url": "https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalos De La Perla",
-          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 116958,
-      "name": "R1",
-      "url": "https://open.spotify.com/track/6wWU9kWh5wKjQv5QVuPyFn"
     }
   ],
   "unique_name": "Corridos Chakalosos",

@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 243762,
+  "num_followers": 243774,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -527,18 +527,22 @@
     {
       "added_at": "2024-10-25 07:19:31",
       "album": {
-        "name": "Space and Pussy",
-        "url": "https://open.spotify.com/album/03GodmV6v7GWeXW1vGEUHw"
+        "name": "Obsidian",
+        "url": "https://open.spotify.com/album/4545KLMxMvi6RBnNRe58t6"
       },
       "artists": [
         {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 154578,
-      "name": "Space and Pussy",
-      "url": "https://open.spotify.com/track/0uExujZlh2J2XxNRn6ZJBu"
+      "duration_ms": 162787,
+      "name": "Push (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/13ks10TjWmDaVL4iO8R5dV"
     },
     {
       "added_at": "2024-10-25 07:19:31",
@@ -559,22 +563,18 @@
     {
       "added_at": "2024-10-25 07:19:31",
       "album": {
-        "name": "Obsidian",
-        "url": "https://open.spotify.com/album/4545KLMxMvi6RBnNRe58t6"
+        "name": "Space and Pussy",
+        "url": "https://open.spotify.com/album/03GodmV6v7GWeXW1vGEUHw"
       },
       "artists": [
         {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
         }
       ],
-      "duration_ms": 162787,
-      "name": "Push (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/13ks10TjWmDaVL4iO8R5dV"
+      "duration_ms": 154578,
+      "name": "Space and Pussy",
+      "url": "https://open.spotify.com/track/0uExujZlh2J2XxNRn6ZJBu"
     },
     {
       "added_at": "2024-10-25 07:19:31",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-10-25 07:19:31",
       "album": {
-        "name": "Souled Out: 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6QTeUgt8uTcABIg3UZFpwY"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Beautiful Ruin",
-      "url": "https://open.spotify.com/track/1A3ifiokbYEx6aq87n4M5I"
-    },
-    {
-      "added_at": "2024-10-25 07:19:31",
-      "album": {
         "name": "Fold",
         "url": "https://open.spotify.com/album/7G9J7ME1E89jnBT6Kyx3YG"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 157606,
       "name": "Fold",
       "url": "https://open.spotify.com/track/5PeH63iIPRhJ8PH1NYU7VP"
+    },
+    {
+      "added_at": "2024-10-25 07:19:31",
+      "album": {
+        "name": "Souled Out: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6QTeUgt8uTcABIg3UZFpwY"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Beautiful Ruin",
+      "url": "https://open.spotify.com/track/1A3ifiokbYEx6aq87n4M5I"
     },
     {
       "added_at": "2024-10-25 07:19:31",

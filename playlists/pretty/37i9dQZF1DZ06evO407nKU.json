@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 50125,
+  "num_followers": 50135,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZywDAAAAAABcVaWP6J0sETxqR4JwODLD",
+  "snapshot_id": "Zy1UgAAAAACac+pYh6VLJ3NztnAHsaxK",
   "tracks": [
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Muero",
-        "url": "https://open.spotify.com/album/0jZKTI03q6GVOKLUtWluW3"
-      },
-      "artists": [
-        {
-          "name": "grupo Supremo",
-          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 194500,
-      "name": "Me Muero",
-      "url": "https://open.spotify.com/track/2mLkhK3qmTTY4rqPNSL1MM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buenas Vibras",
         "url": "https://open.spotify.com/album/5lgKDYGS1i8aA4EKutIWjs"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 132843,
       "name": "Buenas Vibras",
       "url": "https://open.spotify.com/track/6NitwyL3pVexKaktxYneNf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Muero",
+        "url": "https://open.spotify.com/album/0jZKTI03q6GVOKLUtWluW3"
+      },
+      "artists": [
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "Me Muero",
+      "url": "https://open.spotify.com/track/2mLkhK3qmTTY4rqPNSL1MM"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya Duele Menos",
+        "url": "https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 184348,
+      "name": "Ya Duele Menos",
+      "url": "https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Llores Mas Mis Recuerdos",
         "url": "https://open.spotify.com/album/7K7K6b1Z7G7o5T7i5EdPD0"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 282671,
       "name": "No Llores Mis Recuerdos",
       "url": "https://open.spotify.com/track/69GwBecGipqhLGjlCRGLa5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya Duele Menos",
-        "url": "https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 184348,
-      "name": "Ya Duele Menos",
-      "url": "https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parece Mentira",
-        "url": "https://open.spotify.com/album/1tb13lRIUeKpgQbtBgSWtc"
+        "name": "Tonieladas (feat. Kanales)",
+        "url": "https://open.spotify.com/album/73D9IF6R7JhKsO5rtLJ1LX"
       },
       "artists": [
         {
@@ -740,13 +740,13 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         },
         {
-          "name": "Mil Motivos",
-          "url": "https://open.spotify.com/artist/0NMjT9cLrmTrkoIsKUAFw4"
+          "name": "Kanales",
+          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
         }
       ],
-      "duration_ms": 215605,
-      "name": "Parece Mentira",
-      "url": "https://open.spotify.com/track/67R0d7ZquZWWZcHNoCjdwj"
+      "duration_ms": 200565,
+      "name": "Tonieladas",
+      "url": "https://open.spotify.com/track/7aIlm2O6MRpMgfHkhVVyN0"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tonieladas (feat. Kanales)",
-        "url": "https://open.spotify.com/album/73D9IF6R7JhKsO5rtLJ1LX"
+        "name": "Parece Mentira",
+        "url": "https://open.spotify.com/album/1tb13lRIUeKpgQbtBgSWtc"
       },
       "artists": [
         {
@@ -780,13 +780,13 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         },
         {
-          "name": "Kanales",
-          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
+          "name": "Mil Motivos",
+          "url": "https://open.spotify.com/artist/0NMjT9cLrmTrkoIsKUAFw4"
         }
       ],
-      "duration_ms": 200565,
-      "name": "Tonieladas",
-      "url": "https://open.spotify.com/track/7aIlm2O6MRpMgfHkhVVyN0"
+      "duration_ms": 215605,
+      "name": "Parece Mentira",
+      "url": "https://open.spotify.com/track/67R0d7ZquZWWZcHNoCjdwj"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 148302,
-      "name": "Carta Abierta - En Vivo",
-      "url": "https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando Se Ama a Una Mujer",
         "url": "https://open.spotify.com/album/6Hgro2Y0AyPo8NJc9hPxiw"
       },
@@ -883,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ayer Ped\u00ed",
-        "url": "https://open.spotify.com/album/16wXgjMSLDvU6xgfq68QMR"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
       },
       "artists": [
         {
@@ -892,9 +876,9 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 182158,
-      "name": "Ayer Ped\u00ed",
-      "url": "https://open.spotify.com/track/1gwUbm3lF2PLacBv4OoXgs"
+      "duration_ms": 148302,
+      "name": "Carta Abierta - En Vivo",
+      "url": "https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs"
     },
     {
       "added_at": null,
@@ -919,26 +903,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duetos Del Rancho Para El Mundo",
-        "url": "https://open.spotify.com/album/4uSjeugGREYKbTB5Z5Elg0"
+        "name": "Ayer Ped\u00ed",
+        "url": "https://open.spotify.com/album/16wXgjMSLDvU6xgfq68QMR"
       },
       "artists": [
         {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
-        },
-        {
-          "name": "Banda La Perdida",
-          "url": "https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl"
         }
       ],
-      "duration_ms": 171897,
-      "name": "Las ciudades",
-      "url": "https://open.spotify.com/track/2Io0LtuRg1m2AjHLTsaIJ5"
+      "duration_ms": 182158,
+      "name": "Ayer Ped\u00ed",
+      "url": "https://open.spotify.com/track/1gwUbm3lF2PLacBv4OoXgs"
     },
     {
       "added_at": null,
@@ -959,6 +935,30 @@
       "duration_ms": 160541,
       "name": "Te dejo por la paz",
       "url": "https://open.spotify.com/track/7qTlfD623rTU2uR55Wbwx5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duetos Del Rancho Para El Mundo",
+        "url": "https://open.spotify.com/album/4uSjeugGREYKbTB5Z5Elg0"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+        },
+        {
+          "name": "Banda La Perdida",
+          "url": "https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl"
+        }
+      ],
+      "duration_ms": 171897,
+      "name": "Las ciudades",
+      "url": "https://open.spotify.com/track/2Io0LtuRg1m2AjHLTsaIJ5"
     }
   ],
   "unique_name": "This Is Perdidos De Sinaloa",

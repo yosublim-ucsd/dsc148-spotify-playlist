@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop<br/><br/>Cover: Addison Rae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,295,582 likes - 97 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,295,514 likes - 97 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 39 | [Landslide](https://open.spotify.com/track/7qhaA7MaHAkMKaOe5I3TOY) | [Karina Savage](https://open.spotify.com/artist/1Omhe6WyATIf4ZurfsumKr), [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Landslide](https://open.spotify.com/album/4auTL8OSCOHWprwOqzlZuD) | 2:54 |
 | 40 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
 | 41 | [HOW?!](https://open.spotify.com/track/0qA3Wf6XZnPyRb8hwTLXZK) | [Reu](https://open.spotify.com/artist/2ksghJMZXmtumSG2Whgk1a) | [HOW?!](https://open.spotify.com/album/7ie4b1iR1xqoTSmsfHRv6e) | 2:33 |
-| 42 | [Cats On The Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats On The Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 |
+| 42 | [Cats on the Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats on the Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 |
 | 43 | [Internet Star](https://open.spotify.com/track/2LpyVY2jIGC8QV8TNUSHt1) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [Internet Star](https://open.spotify.com/album/6pdC35KSTDQi2E9KgTTVd0) | 1:58 |
 | 44 | [Don't Go Back To Paris](https://open.spotify.com/track/0jeGTzkvrNRBC8Dt8bsDRN) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Paris / San Francisco](https://open.spotify.com/album/2VFJG91yaQl6TuCWpP95bw) | 3:47 |
 | 45 | [Think I Wanna See You Again](https://open.spotify.com/track/72uh3fbNvqqdOu6UDcsbkO) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Think I Wanna See You Again](https://open.spotify.com/album/1KljxjTkgDYuPxqZejmnay) | 2:28 |

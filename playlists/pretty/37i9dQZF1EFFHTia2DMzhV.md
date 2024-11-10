@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/72OyC97gX3XH2NtUk9BgiV">Oscar Hammerstein II \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383 likes - 120 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 383 likes - 120 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 | 96 | [It Feels Good](https://open.spotify.com/track/7CaRG77e3nxoMixd5b4zbS) | [Lilli Cooper](https://open.spotify.com/artist/61Im27379GhfbMD5LVDmlp) | [R&H Goes Pop!](https://open.spotify.com/album/6zf0YjLPz8wY6hE6RrmwkI) | 3:18 |
 | 97 | [You Will Remember Vienna](https://open.spotify.com/track/2LUs5nqiOlxa2OR6duR4EK) | [Mantovani y Su Gran Orquesta](https://open.spotify.com/artist/6Y1LEH2sDrGXvthbvTHanb) | [Presentando a Mantovani y Su Gran Orquesta](https://open.spotify.com/album/2sorFRZEtOYZE6DHhdnEkF) | 2:30 |
 | 98 | [Azuri's Dance \(From "The Desert Song"\) \- 1989 Remastered](https://open.spotify.com/track/0mE2DK5v6VY8aT7izEhrhQ) | [Sigmund Romberg](https://open.spotify.com/artist/04aXJJTCmpNfMOTSUf3Whr), [Mario Lanza](https://open.spotify.com/artist/6umNMJq7B8UdOVmwPV6PRL), [Constantine Callinicos](https://open.spotify.com/artist/5q4QWdLMfB8Rxb3UwW8Pd2) | [Mario Lanza Sings Songs From The Student Prince and The Desert Song](https://open.spotify.com/album/2vkzY6KUTr9im79XOPdycM) | 4:23 |
-| 99 | [Buddy on the Nightshift](https://open.spotify.com/track/0xR6Z9iBT9qgoaSs2dDrxp) | [Kurt Weill](https://open.spotify.com/artist/69a1b61a56mJlx8iAUMBsY), [Teresa Stratas](https://open.spotify.com/artist/0V4z48Xti8NH6JSThYmRXW) | [The Unknown Kurt Weill](https://open.spotify.com/album/5xPXaakR7wDhtCL4vRdfzU) | 2:44 |
+| 99 | [Buddy On The Nightshift](https://open.spotify.com/track/1P0C17GwfpJVMOK64DvXVf) | [Kurt Weill](https://open.spotify.com/artist/69a1b61a56mJlx8iAUMBsY), [Anne Sofie von Otter](https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW), [Bengt Forsberg](https://open.spotify.com/artist/2GoPcJyOyFijJa1tbuOx5N) | [Weill: Speak Low](https://open.spotify.com/album/4iHRGdOnWNki9tfCRdNUi7) | 2:12 |
 | 100 | [Vodka](https://open.spotify.com/track/51LLLzoZhHxLynsVmJHtAL) | [Victoria Hart](https://open.spotify.com/artist/3URdRBdlpe3PPJ5iBNKqoS) | [The Lost Gershwin](https://open.spotify.com/album/2nNWWKOyzmRFky8QpHcArS) | 2:57 |
 | 101 | [Allegro](https://open.spotify.com/track/6C5KiUH9vo0HyEAciGPttq) | [Norbert Leo Butz](https://open.spotify.com/artist/2LEinBhufpsqT17c5XYomF), [Patrick Wilson](https://open.spotify.com/artist/7JDIzsiYm1WS3zUpiTdW52), [Liz Callaway](https://open.spotify.com/artist/4hcWMDrWJYyU66HA583nCb), [Rodgers & Hammerstein](https://open.spotify.com/artist/1gxSU9Tzyh9Sv4FyvKntrA) | [Allegro \(First Complete Recording\)](https://open.spotify.com/album/330NYPTqcBSAO1ekWC8TO2) | 3:09 |
 | 102 | [French Military Marching Song \(From "The Desert Song"\) \- 1989 Remastered](https://open.spotify.com/track/6WY8knQp2IjIaW8sGptWyv) | [Sigmund Romberg](https://open.spotify.com/artist/04aXJJTCmpNfMOTSUf3Whr), [Mario Lanza](https://open.spotify.com/artist/6umNMJq7B8UdOVmwPV6PRL), [Constantine Callinicos](https://open.spotify.com/artist/5q4QWdLMfB8Rxb3UwW8Pd2) | [Mario Lanza Sings Songs From The Student Prince and The Desert Song](https://open.spotify.com/album/2vkzY6KUTr9im79XOPdycM) | 3:54 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 | 119 | [Something New Is in My Heart](https://open.spotify.com/track/2ATuHuK2GvzM2P7487OMgq) | [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [The Columbia Album of Sigmund Romberg, Vol\. 1](https://open.spotify.com/album/3oKPObj9ZGUSRoiIkjnMGt) | 3:07 |
 | 120 | [Are You Love?](https://open.spotify.com/track/1UQw9iHInxKrcUpImks6tg) | [Sigmund Romberg](https://open.spotify.com/artist/04aXJJTCmpNfMOTSUf3Whr), [Jean Danton](https://open.spotify.com/artist/18ZDRc8M2oFZJZosfgbNXi), [Thomas Stumpf](https://open.spotify.com/artist/36BGKQzn3UNiw7GVjylEV4) | [American Dreamer](https://open.spotify.com/album/3w5Y0uWAjiF12Zs6eZ3Wqb) | 3:19 |
 
-Snapshot ID: `Abg/FgAAAAACfPBuGLBpXgNnCH45z3aS`
+Snapshot ID: `AbhEtgAAAACbVQzhWIkLCdsDV6sZblwC`

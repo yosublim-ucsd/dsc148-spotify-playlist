@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: D\u00e9bora Buzas, Isaias Saad",
-  "num_followers": 312251,
+  "num_followers": 312324,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -343,18 +343,22 @@
     {
       "added_at": "2024-10-25 14:57:24",
       "album": {
-        "name": "Seu Amor: YOUnique (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1279LGdx3pj2hv2p0hivMA"
+        "name": "Eu e o Rei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ"
       },
       "artists": [
         {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
         }
       ],
-      "duration_ms": 444976,
-      "name": "Seu Amor: YOUnique - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3m0CtqEbzclwKxit7C48T3"
+      "duration_ms": 337525,
+      "name": "Eu e o Rei - Ao Vivo",
+      "url": "https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy"
     },
     {
       "added_at": "2024-10-25 14:57:24",
@@ -375,22 +379,18 @@
     {
       "added_at": "2024-10-25 14:57:24",
       "album": {
-        "name": "Eu e o Rei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ"
+        "name": "Seu Amor: YOUnique (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1279LGdx3pj2hv2p0hivMA"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
         }
       ],
-      "duration_ms": 337525,
-      "name": "Eu e o Rei - Ao Vivo",
-      "url": "https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy"
+      "duration_ms": 444976,
+      "name": "Seu Amor: YOUnique - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3m0CtqEbzclwKxit7C48T3"
     },
     {
       "added_at": "2024-10-25 14:57:24",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2024-10-25 14:57:24",
       "album": {
+        "name": "Ele \u00c9 Exaltado (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5IDjJqDcj4Xr5r56HXBYWI"
+      },
+      "artists": [
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        },
+        {
+          "name": "Tavinho",
+          "url": "https://open.spotify.com/artist/036P0vXkdyvd37jZ7FbpZW"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Ele \u00c9 Exaltado - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7dZ19T2Sn5ZRUKeIqRakF1"
+    },
+    {
+      "added_at": "2024-10-25 14:57:24",
+      "album": {
         "name": "Quem Sou",
         "url": "https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 270933,
       "name": "Quem Sou",
       "url": "https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK"
-    },
-    {
-      "added_at": "2024-10-25 14:57:24",
-      "album": {
-        "name": "Ele \u00c9 Exaltado (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5IDjJqDcj4Xr5r56HXBYWI"
-      },
-      "artists": [
-        {
-          "name": "Sulset Music",
-          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
-        },
-        {
-          "name": "Tavinho",
-          "url": "https://open.spotify.com/artist/036P0vXkdyvd37jZ7FbpZW"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Ele \u00c9 Exaltado - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7dZ19T2Sn5ZRUKeIqRakF1"
     },
     {
       "added_at": "2024-10-25 14:57:24",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-10-25 14:57:24",
       "album": {
-        "name": "Ac\u00fastico Mergulhar",
-        "url": "https://open.spotify.com/album/7koQFV6RTpkbuiSUubuxSl"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Mergulhar",
-          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
-        }
-      ],
-      "duration_ms": 374096,
-      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0e4Ae3r1i8FsEDxVLyP8LB"
-    },
-    {
-      "added_at": "2024-10-25 14:57:24",
-      "album": {
         "name": "Minha Calmaria",
         "url": "https://open.spotify.com/album/07TYQRsbsnnCUWM6Si7Ve8"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 219240,
       "name": "Minha Calmaria",
       "url": "https://open.spotify.com/track/3DHI4jh4qmLTuorSESIEt9"
+    },
+    {
+      "added_at": "2024-10-25 14:57:24",
+      "album": {
+        "name": "Ac\u00fastico Mergulhar",
+        "url": "https://open.spotify.com/album/7koQFV6RTpkbuiSUubuxSl"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
+        }
+      ],
+      "duration_ms": 374096,
+      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0e4Ae3r1i8FsEDxVLyP8LB"
     },
     {
       "added_at": "2024-10-25 14:57:24",

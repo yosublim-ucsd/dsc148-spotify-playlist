@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 92884,
+  "num_followers": 92984,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
+        "name": "The Delfonics",
+        "url": "https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Didn't I (Blow Your Mind This Time)",
+      "url": "https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
         "name": "Hello Stranger",
         "url": "https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 261826,
       "name": "Love...Can Be So Wonderful",
       "url": "https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "The Delfonics",
-        "url": "https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Didn't I (Blow Your Mind This Time)",
-      "url": "https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Thin Line Between Love & Hate: Golden Classics",
-        "url": "https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98"
-      },
-      "artists": [
-        {
-          "name": "The Persuaders",
-          "url": "https://open.spotify.com/artist/6PhJqhvF42CZ42NUmxIKLB"
-        }
-      ],
-      "duration_ms": 207653,
-      "name": "Thin Line Between Love and Hate",
-      "url": "https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Baby, I'm Yours",
         "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
+        "name": "Thin Line Between Love & Hate: Golden Classics",
+        "url": "https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98"
+      },
+      "artists": [
+        {
+          "name": "The Persuaders",
+          "url": "https://open.spotify.com/artist/6PhJqhvF42CZ42NUmxIKLB"
+        }
+      ],
+      "duration_ms": 207653,
+      "name": "Thin Line Between Love and Hate",
+      "url": "https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
         "name": "Workin' On A Groovy Thing....The Best Of",
         "url": "https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 151453,
       "name": "Tell Him",
       "url": "https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "All the Greatest Hits",
+        "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
+      },
+      "artists": [
+        {
+          "name": "Zapp",
+          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
+        }
+      ],
+      "duration_ms": 282480,
+      "name": "Computer Love",
+      "url": "https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -739,22 +755,6 @@
       "duration_ms": 165333,
       "name": "You Beat Me To The Punch",
       "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "All the Greatest Hits",
-        "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
-      },
-      "artists": [
-        {
-          "name": "Zapp",
-          "url": "https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi"
-        }
-      ],
-      "duration_ms": 282480,
-      "name": "Computer Love",
-      "url": "https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Cowboys to Girls",
-        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 159080,
-      "name": "Cowboys to Girls",
-      "url": "https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "The Very Best Of The Dramatics",
         "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 209213,
       "name": "In The Rain",
       "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 159080,
+      "name": "Cowboys to Girls",
+      "url": "https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -919,22 +919,6 @@
       "duration_ms": 270856,
       "name": "Do You Love",
       "url": "https://open.spotify.com/track/7IUv36NL5erXotT7sTQ5MD"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "Why Can't We Be Friends?",
-        "url": "https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN"
-      },
-      "artists": [
-        {
-          "name": "War",
-          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Don't Let No One Get You Down",
-      "url": "https://open.spotify.com/track/08aSprc2fv1viNls6RmLdN"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -967,6 +951,22 @@
       "duration_ms": 177946,
       "name": "I Do Love You",
       "url": "https://open.spotify.com/track/3J0VYipa6lrdBkjLM7j4iI"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Why Can't We Be Friends?",
+        "url": "https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN"
+      },
+      "artists": [
+        {
+          "name": "War",
+          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Don't Let No One Get You Down",
+      "url": "https://open.spotify.com/track/08aSprc2fv1viNls6RmLdN"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "La Vida Es Fr\u00eda",
-        "url": "https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp"
-      },
-      "artists": [
-        {
-          "name": "Jason Joshua",
-          "url": "https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn"
-        }
-      ],
-      "duration_ms": 202234,
-      "name": "La Vida Es Fr\u00eda",
-      "url": "https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Warm & Tender Soul",
         "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 173893,
       "name": "You Really Got a Hold on Me",
       "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "La Vida Es Fr\u00eda",
+        "url": "https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp"
+      },
+      "artists": [
+        {
+          "name": "Jason Joshua",
+          "url": "https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn"
+        }
+      ],
+      "duration_ms": 202234,
+      "name": "La Vida Es Fr\u00eda",
+      "url": "https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Show and Tell: The Best of Al Wilson",
-        "url": "https://open.spotify.com/album/63NKHtOychyEccShIws1KA"
+        "name": "Meet The Temptations",
+        "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
       },
       "artists": [
         {
-          "name": "Al Wilson",
-          "url": "https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM"
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
         }
       ],
-      "duration_ms": 207986,
-      "name": "Show and Tell",
-      "url": "https://open.spotify.com/track/2vhW1OmaZDYi63Da9d8R5o"
+      "duration_ms": 152933,
+      "name": "I Want A Love I Can See",
+      "url": "https://open.spotify.com/track/5XOGZdDM17WzrXRQz96Fu1"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Meet The Temptations",
-        "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
+        "name": "Show and Tell: The Best of Al Wilson",
+        "url": "https://open.spotify.com/album/63NKHtOychyEccShIws1KA"
       },
       "artists": [
         {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+          "name": "Al Wilson",
+          "url": "https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM"
         }
       ],
-      "duration_ms": 152933,
-      "name": "I Want A Love I Can See",
-      "url": "https://open.spotify.com/track/5XOGZdDM17WzrXRQz96Fu1"
+      "duration_ms": 207986,
+      "name": "Show and Tell",
+      "url": "https://open.spotify.com/track/2vhW1OmaZDYi63Da9d8R5o"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Sisters of Soul; the Sweeter Voices of Soul",
-        "url": "https://open.spotify.com/album/6VRBMd2t0mc6Kmsc0Cw86l"
-      },
-      "artists": [
-        {
-          "name": "The Fuzz",
-          "url": "https://open.spotify.com/artist/052NpRSiz4SQTsFnvwMP6t"
-        }
-      ],
-      "duration_ms": 184634,
-      "name": "I Love You for All Seasons",
-      "url": "https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Dry Your Eyes",
         "url": "https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 155040,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/1fZC5RQre8kgyhqNVflPTm"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Sisters of Soul; the Sweeter Voices of Soul",
+        "url": "https://open.spotify.com/album/6VRBMd2t0mc6Kmsc0Cw86l"
+      },
+      "artists": [
+        {
+          "name": "The Fuzz",
+          "url": "https://open.spotify.com/artist/052NpRSiz4SQTsFnvwMP6t"
+        }
+      ],
+      "duration_ms": 184634,
+      "name": "I Love You for All Seasons",
+      "url": "https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Cameo Parkway Pop And Soul Gems Of 1966 Vol. 4",
-        "url": "https://open.spotify.com/album/4tC2jbwoK0pWAysK4W8Xt8"
-      },
-      "artists": [
-        {
-          "name": "Sunny Ozuna And Sunliners",
-          "url": "https://open.spotify.com/artist/2OJ8svFeHnPIaGZCW6Zc69"
-        }
-      ],
-      "duration_ms": 120800,
-      "name": "Smile Now, Cry Later",
-      "url": "https://open.spotify.com/track/0jkpPohHndqJFpcOmRr5MF"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Thee Only One",
         "url": "https://open.spotify.com/album/4ztSd9IONvZJ1kq4sdDkVp"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 216913,
       "name": "Thee Only One",
       "url": "https://open.spotify.com/track/3T7nX7qDSC7LDPC18lWOku"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Cameo Parkway Pop And Soul Gems Of 1966 Vol. 4",
+        "url": "https://open.spotify.com/album/4tC2jbwoK0pWAysK4W8Xt8"
+      },
+      "artists": [
+        {
+          "name": "Sunny Ozuna And Sunliners",
+          "url": "https://open.spotify.com/artist/2OJ8svFeHnPIaGZCW6Zc69"
+        }
+      ],
+      "duration_ms": 120800,
+      "name": "Smile Now, Cry Later",
+      "url": "https://open.spotify.com/track/0jkpPohHndqJFpcOmRr5MF"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "All the Hits and More",
-        "url": "https://open.spotify.com/album/4i54vVa9fnFTlGpFSh10Wc"
-      },
-      "artists": [
-        {
-          "name": "Shep And The Limelites",
-          "url": "https://open.spotify.com/artist/3xaiq6cHhYX5xclwRkT6Jf"
-        }
-      ],
-      "duration_ms": 174200,
-      "name": "Daddy's Home",
-      "url": "https://open.spotify.com/track/2Vr3XMnJyu60xBUUchWUrI"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Super Slow Jams Vol. 2 (Live)",
         "url": "https://open.spotify.com/album/6oW2SrZ4ZQHby7KOxiPa5i"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 414333,
       "name": "Confessin a Feeling",
       "url": "https://open.spotify.com/track/07UmYkMtFFDzvAaEHrmpis"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "All the Hits and More",
+        "url": "https://open.spotify.com/album/4i54vVa9fnFTlGpFSh10Wc"
+      },
+      "artists": [
+        {
+          "name": "Shep And The Limelites",
+          "url": "https://open.spotify.com/artist/3xaiq6cHhYX5xclwRkT6Jf"
+        }
+      ],
+      "duration_ms": 174200,
+      "name": "Daddy's Home",
+      "url": "https://open.spotify.com/track/2Vr3XMnJyu60xBUUchWUrI"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -2199,6 +2199,22 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
+        "name": "Dead Presidents Volume II / Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/52Us0gT9wf2yGMNlwTATGB"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 233373,
+      "name": "Just My Imagination (Running Away With Me)",
+      "url": "https://open.spotify.com/track/3gbwcu7E9ACpJsLm7vEpuN"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
         "name": "Tangled Up in You",
         "url": "https://open.spotify.com/album/4LiUbhhWWkFflkUXOUzUkQ"
       },
@@ -2227,22 +2243,6 @@
       "duration_ms": 708866,
       "name": "Float On",
       "url": "https://open.spotify.com/track/4YmKTCL86mpGHUS0sEWAUV"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "Dead Presidents Volume II / Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/52Us0gT9wf2yGMNlwTATGB"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 233373,
-      "name": "Just My Imagination (Running Away With Me)",
-      "url": "https://open.spotify.com/track/3gbwcu7E9ACpJsLm7vEpuN"
     },
     {
       "added_at": "2024-08-14 08:31:40",

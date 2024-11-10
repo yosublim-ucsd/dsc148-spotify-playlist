@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 166779,
+  "num_followers": 166816,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -139,26 +139,18 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Comprou",
-        "url": "https://open.spotify.com/album/5csEYwj6oEMSTgJRN4U9b7"
+        "name": "Ema\u00fas",
+        "url": "https://open.spotify.com/album/4fRNHUgTEG8ptziVNewp6c"
       },
       "artists": [
         {
-          "name": "William Augusto",
-          "url": "https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K"
-        },
-        {
-          "name": "Paloma Possi",
-          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
-        },
-        {
-          "name": "Cleber Ao Cubo",
-          "url": "https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk"
+          "name": "Templo Soul",
+          "url": "https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9"
         }
       ],
-      "duration_ms": 282760,
-      "name": "Comprou",
-      "url": "https://open.spotify.com/track/34tJt507yo0qGUt1dTauRm"
+      "duration_ms": 435428,
+      "name": "Ema\u00fas",
+      "url": "https://open.spotify.com/track/3jeyIcmHyOYPXefSgDJSsw"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -211,18 +203,26 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Ema\u00fas",
-        "url": "https://open.spotify.com/album/4fRNHUgTEG8ptziVNewp6c"
+        "name": "Comprou",
+        "url": "https://open.spotify.com/album/5csEYwj6oEMSTgJRN4U9b7"
       },
       "artists": [
         {
-          "name": "Templo Soul",
-          "url": "https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9"
+          "name": "William Augusto",
+          "url": "https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K"
+        },
+        {
+          "name": "Paloma Possi",
+          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
+        },
+        {
+          "name": "Cleber Ao Cubo",
+          "url": "https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk"
         }
       ],
-      "duration_ms": 435428,
-      "name": "Ema\u00fas",
-      "url": "https://open.spotify.com/track/3jeyIcmHyOYPXefSgDJSsw"
+      "duration_ms": 282760,
+      "name": "Comprou",
+      "url": "https://open.spotify.com/track/34tJt507yo0qGUt1dTauRm"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
+        "name": "Sobre Deixar",
+        "url": "https://open.spotify.com/album/3WPXMHvq0OIQBABBukqimt"
+      },
+      "artists": [
+        {
+          "name": "Rafa Blauth",
+          "url": "https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU"
+        }
+      ],
+      "duration_ms": 220386,
+      "name": "O Que H\u00e1 Por Dentro",
+      "url": "https://open.spotify.com/track/7rJEuCj9iX6BYnhfI2eJWi"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
         "name": "Pista do C\u00e9u (Quase 30)",
         "url": "https://open.spotify.com/album/4ysRL1yOl0Wk8q55x83NTT"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 432000,
       "name": "Pista do C\u00e9u (Quase 30)",
       "url": "https://open.spotify.com/track/2Tkbqw8hvszUvsP71JYUW6"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "Sobre Deixar",
-        "url": "https://open.spotify.com/album/3WPXMHvq0OIQBABBukqimt"
-      },
-      "artists": [
-        {
-          "name": "Rafa Blauth",
-          "url": "https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU"
-        }
-      ],
-      "duration_ms": 220386,
-      "name": "O Que H\u00e1 Por Dentro",
-      "url": "https://open.spotify.com/track/7rJEuCj9iX6BYnhfI2eJWi"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
+        "name": "A Voz",
+        "url": "https://open.spotify.com/album/38aul0V7kaGskAx3lUbZlX"
+      },
+      "artists": [
+        {
+          "name": "Hiago Klayton",
+          "url": "https://open.spotify.com/artist/2XcKlKmIFaf5AoOpfrvC6m"
+        }
+      ],
+      "duration_ms": 260113,
+      "name": "A Voz",
+      "url": "https://open.spotify.com/track/5XVHluz8bVctMruCwKIeP4"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
         "name": "Haja Luz",
         "url": "https://open.spotify.com/album/0visYCj9NZhdxIdxNnOEP2"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 246906,
       "name": "Ben\u00e7\u00e3o em Ben\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3YEqc7Y3wQfOEcuGk1UKQb"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "Preto No Branco 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/17f5CLg1zIf55tqhEjCV41"
-      },
-      "artists": [
-        {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
-        }
-      ],
-      "duration_ms": 285120,
-      "name": "Estado De Gra\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/5lDcuC16NaVZkjWRvAtTIe"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -895,6 +895,22 @@
       "duration_ms": 222466,
       "name": "Alegria do C\u00e9u (feat. Banda Salluz)",
       "url": "https://open.spotify.com/track/1ZVzgk4ODily0R4u1hPCUS"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "Preto No Branco 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/17f5CLg1zIf55tqhEjCV41"
+      },
+      "artists": [
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        }
+      ],
+      "duration_ms": 285120,
+      "name": "Estado De Gra\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/5lDcuC16NaVZkjWRvAtTIe"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -947,46 +963,18 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Betel",
-        "url": "https://open.spotify.com/album/1jhLRHULJvXJnjsVINAnaQ"
+        "name": "Haja Luz",
+        "url": "https://open.spotify.com/album/0visYCj9NZhdxIdxNnOEP2"
       },
       "artists": [
         {
-          "name": "J\u00e9ssica Augusto",
-          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+          "name": "S\u00e9rgio Saas",
+          "url": "https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH"
         }
       ],
-      "duration_ms": 264597,
-      "name": "Betel",
-      "url": "https://open.spotify.com/track/4NH7oWDU6wzIFV51AQZmKz"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "Tamo Junto",
-        "url": "https://open.spotify.com/album/7vUi0Zwz0xQrQbFqPgitp6"
-      },
-      "artists": [
-        {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
-        },
-        {
-          "name": "Silas Sim\u00f5es",
-          "url": "https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r"
-        },
-        {
-          "name": "Lorena Fadi",
-          "url": "https://open.spotify.com/artist/22ar4P0skJmstiB0GPJ3TT"
-        },
-        {
-          "name": "Lu\u00e3 Freitas",
-          "url": "https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY"
-        }
-      ],
-      "duration_ms": 195765,
-      "name": "Tamo Junto",
-      "url": "https://open.spotify.com/track/3ZVOLNMuY3zqLl9lyU4VtD"
+      "duration_ms": 209946,
+      "name": "Livre Sou",
+      "url": "https://open.spotify.com/track/2p09iTN64FK0K10V1eMKv6"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -1023,34 +1011,18 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Haja Luz",
-        "url": "https://open.spotify.com/album/0visYCj9NZhdxIdxNnOEP2"
+        "name": "Betel",
+        "url": "https://open.spotify.com/album/1jhLRHULJvXJnjsVINAnaQ"
       },
       "artists": [
         {
-          "name": "S\u00e9rgio Saas",
-          "url": "https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH"
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
         }
       ],
-      "duration_ms": 209946,
-      "name": "Livre Sou",
-      "url": "https://open.spotify.com/track/2p09iTN64FK0K10V1eMKv6"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "A Voz",
-        "url": "https://open.spotify.com/album/38aul0V7kaGskAx3lUbZlX"
-      },
-      "artists": [
-        {
-          "name": "Hiago Klayton",
-          "url": "https://open.spotify.com/artist/2XcKlKmIFaf5AoOpfrvC6m"
-        }
-      ],
-      "duration_ms": 260113,
-      "name": "A Voz",
-      "url": "https://open.spotify.com/track/5XVHluz8bVctMruCwKIeP4"
+      "duration_ms": 264597,
+      "name": "Betel",
+      "url": "https://open.spotify.com/track/4NH7oWDU6wzIFV51AQZmKz"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -1071,18 +1043,46 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Tome a Decis\u00e3o",
-        "url": "https://open.spotify.com/album/0l6x075Ird90ooE1sKdnhR"
+        "name": "Tamo Junto",
+        "url": "https://open.spotify.com/album/7vUi0Zwz0xQrQbFqPgitp6"
       },
       "artists": [
         {
-          "name": "Robson Nascimento",
-          "url": "https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd"
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        },
+        {
+          "name": "Silas Sim\u00f5es",
+          "url": "https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r"
+        },
+        {
+          "name": "Lorena Fadi",
+          "url": "https://open.spotify.com/artist/22ar4P0skJmstiB0GPJ3TT"
+        },
+        {
+          "name": "Lu\u00e3 Freitas",
+          "url": "https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY"
         }
       ],
-      "duration_ms": 310693,
-      "name": "Antes & Depois",
-      "url": "https://open.spotify.com/track/4XqS5NqhbjLWR0shzrB2la"
+      "duration_ms": 195765,
+      "name": "Tamo Junto",
+      "url": "https://open.spotify.com/track/3ZVOLNMuY3zqLl9lyU4VtD"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "Tua Gra\u00e7a Me Basta",
+        "url": "https://open.spotify.com/album/0HzCNIs96iWzsKDGafucUM"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9rgio Saas",
+          "url": "https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "Oh Gl\u00f3ria, Aleluia",
+      "url": "https://open.spotify.com/track/2Ig8JT3kPxnsyxecxehEJD"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -1099,6 +1099,22 @@
       "duration_ms": 174098,
       "name": "V\u00ea Se Vigia",
       "url": "https://open.spotify.com/track/5NFTXXhjDzWhoX0jg3Azdd"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "Tome a Decis\u00e3o",
+        "url": "https://open.spotify.com/album/0l6x075Ird90ooE1sKdnhR"
+      },
+      "artists": [
+        {
+          "name": "Robson Nascimento",
+          "url": "https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd"
+        }
+      ],
+      "duration_ms": 310693,
+      "name": "Antes & Depois",
+      "url": "https://open.spotify.com/track/4XqS5NqhbjLWR0shzrB2la"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -1155,22 +1171,6 @@
       "duration_ms": 278284,
       "name": "Instrumento Teu",
       "url": "https://open.spotify.com/track/1VakySJFPUTEd5UFp5omL5"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "Tua Gra\u00e7a Me Basta",
-        "url": "https://open.spotify.com/album/0HzCNIs96iWzsKDGafucUM"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9rgio Saas",
-          "url": "https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "Oh Gl\u00f3ria, Aleluia",
-      "url": "https://open.spotify.com/track/2Ig8JT3kPxnsyxecxehEJD"
     },
     {
       "added_at": "2024-11-08 03:01:00",

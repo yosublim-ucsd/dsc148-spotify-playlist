@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 
 > 
 
-[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,441 likes - 223 songs - 14 hr 15 min
+[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,440 likes - 223 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 | 9 | [My Beginnings](https://open.spotify.com/track/0CB2JXQMHQ6tMSN5yBdRN6) | [Matteo Dentone](https://open.spotify.com/artist/6bnlOYU0ysNyxyeJiehWMJ) | [Friday Night](https://open.spotify.com/album/0TY7kMHjvLTHvxD7lhsTRH) | 5:57 |
 | 10 | [Flow On](https://open.spotify.com/track/5TOPvHIu7JEwTDkYy7SZWO) | [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw) | [Deep Inside](https://open.spotify.com/album/2DbjarFHBuwTKFS7uZFH8O) | 2:27 |
 | 11 | [Save Me](https://open.spotify.com/track/4nQjMY7PjY7RLh3TKG78Pi) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Save Me](https://open.spotify.com/album/2Ay23sgE1L3auHdzJCCeHj) | 2:44 |
-| 12 | [Bump Artist](https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:23 |
+| 12 | [Bump Artist](https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Alex Peace](https://open.spotify.com/artist/5x0mazFBPEu8FPKmBArlGQ) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:23 |
 | 13 | [Switch](https://open.spotify.com/track/6TPSIqsx3GasdWStGelRqs) | [Danny Rhys](https://open.spotify.com/artist/2M6Re1FK8R8PfaKrlpF19S) | [Switch](https://open.spotify.com/album/1Jpk8k6Ji1yQdMsX2gW8eC) | 3:20 |
 | 14 | [Bang](https://open.spotify.com/track/6ZIZuxzxBs6nD0PlMiLiU6) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Bang](https://open.spotify.com/album/1vgBUWkcKXZilezNBE6PnG) | 2:54 |
 | 15 | [As The Beat Goes Onnn](https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [As The Beat Goes Onnn](https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6) | 2:39 |

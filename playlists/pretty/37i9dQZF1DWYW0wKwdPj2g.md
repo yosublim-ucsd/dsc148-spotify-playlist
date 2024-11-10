@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Mercy Chinwo
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,611 likes - 101 songs - 13 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,658 likes - 101 songs - 13 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 10 | [Mercy](https://open.spotify.com/track/1n2kZ1iuGpuxj8sr4NY8RL) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Mercy](https://open.spotify.com/album/65dVjDK6IVyThRsk4S6Yxu) | 16:45 |
 | 11 | [Ebenezer \- Live](https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [VICTORIA ORENZE](https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:31 |
 | 12 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 |
-| 13 | [Testimony \- Live](https://open.spotify.com/track/5zNZsfw19X9A4dXeqBXyHl) | [Dr TJ](https://open.spotify.com/artist/1QtVmlYLcmOnMOQFZX0T7A), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Testimony \(Live\)](https://open.spotify.com/album/563k12oxVh9CsYNOgjG6X2) | 7:10 |
+| 13 | [Testimony](https://open.spotify.com/track/5zNZsfw19X9A4dXeqBXyHl) | [Dr TJ](https://open.spotify.com/artist/1QtVmlYLcmOnMOQFZX0T7A), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Testimony](https://open.spotify.com/album/563k12oxVh9CsYNOgjG6X2) | 3:44 |
 | 14 | [Praise Medley \(He Saved Me\) \[Live\]](https://open.spotify.com/track/4bszyWt6cCzflRHKsgBEir) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0) | [Praise Medley \(He Saved Me\) \[Live\]](https://open.spotify.com/album/3CkcM31serWHyxPxFkUFz7) | 7:00 |
 | 15 | [This I Know \(Live\)](https://open.spotify.com/track/7BOWDxh0VtkGANSS1kJuSU) | [Rivers Worship](https://open.spotify.com/artist/57XcYA50Fcakr6lTthQkaQ) | [This I Know \(Live\)](https://open.spotify.com/album/1HhiEyC98ZrJ1B7w3nDoUD) | 6:54 |
 | 16 | [Defe Defe](https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 6:46 |

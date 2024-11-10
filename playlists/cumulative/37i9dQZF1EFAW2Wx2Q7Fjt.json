@@ -171,6 +171,28 @@
     },
     {
       "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "album": {
         "name": "Baby Blue Bathing Suit",
         "url": "https://open.spotify.com/album/0utcSpsj5S64rk7Ob05iYv"
       },
@@ -464,6 +486,24 @@
       "duration_ms": 164202,
       "name": "Coincidence",
       "url": "https://open.spotify.com/track/5oIVNm56t6OIf9ZjdEG3ud"
+    },
+    {
+      "album": {
+        "name": "Restless Mind",
+        "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181268,
+      "name": "Cold, Dark Place",
+      "url": "https://open.spotify.com/track/6mTmYqYc3y0LKEuumpJI5C"
     },
     {
       "album": {
@@ -865,6 +905,24 @@
     },
     {
       "album": {
+        "name": "Restless Mind",
+        "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170171,
+      "name": "Different Kind of Pain",
+      "url": "https://open.spotify.com/track/4Zs63yXBLMPHg6Q9gYoaxs"
+    },
+    {
+      "album": {
         "name": "Difficult",
         "url": "https://open.spotify.com/album/4flPdmSeK3DAaiSduOVd2q"
       },
@@ -1194,6 +1252,24 @@
       "duration_ms": 169092,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3zzrKCO0OA85eemnlQnQ7c"
+    },
+    {
+      "album": {
+        "name": "amy allen",
+        "url": "https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb"
+      },
+      "artists": [
+        {
+          "name": "Amy Allen",
+          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171518,
+      "name": "girl with a problem",
+      "url": "https://open.spotify.com/track/0x7eLddl509vjQ1tnrsLEh"
     },
     {
       "album": {
@@ -2810,6 +2886,24 @@
       "duration_ms": 133562,
       "name": "think later",
       "url": "https://open.spotify.com/track/44c9MsAwxoAdAYpCVRBAG1"
+    },
+    {
+      "album": {
+        "name": "Thought Of You",
+        "url": "https://open.spotify.com/album/0RPJb6DiqXZF4VJWgVCrPx"
+      },
+      "artists": [
+        {
+          "name": "Oliver Jones",
+          "url": "https://open.spotify.com/artist/4Aj7RJzc3SeMuF7XYdP8ei"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154573,
+      "name": "Thought Of You",
+      "url": "https://open.spotify.com/track/7IJKLkx4k9M3AyAWkpqCZS"
     },
     {
       "album": {

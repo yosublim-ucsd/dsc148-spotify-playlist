@@ -4,11 +4,11 @@
 
 > Grüezi! This is 100% made in Switzerland.
 
-145 songs - 7 hr 11 min
+146 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2560](https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o) | [James Gruntz](https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy) | [2560](https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv) | 3:18 | 2024-07-04 |  |
+| [2560](https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o) | [James Gruntz](https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy) | [2560](https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv) | 3:18 | 2024-07-04 | 2024-11-10 |
 | [A Tu Lado](https://open.spotify.com/track/50n5y9pMihKGBu29fz4Bew) | [BANITO](https://open.spotify.com/artist/3vQFsnNL91bUE3knJ2dLTn) | [A Tu Lado](https://open.spotify.com/album/1OAaPMH8U0FciBbtdY1gV0) | 2:56 | 2024-09-11 | 2024-10-19 |
 | [abused](https://open.spotify.com/track/04eAwj1S7LBrImIZVnl2yq) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [abused](https://open.spotify.com/album/0FPHvkFMpuMpVfaNlxadU9) | 3:08 | 2024-09-06 | 2024-10-04 |
 | [Again](https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Again](https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE) | 3:09 | 2024-06-27 |  |
@@ -100,7 +100,7 @@
 | [NEW FRIENDS](https://open.spotify.com/track/6Qag39kJfma6CtUwPk45Qf) | [Skyler Wind](https://open.spotify.com/artist/6NgwMYnjqJakjMbMECN2qT) | [NEW FRIENDS](https://open.spotify.com/album/2uwdWxWE4KHOuKHRQyx99Y) | 2:53 | 2024-07-04 | 2024-08-01 |
 | [Nightmare](https://open.spotify.com/track/0KDvS7va1nMUY1yBwXN6uZ) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Nightmare](https://open.spotify.com/album/7IZetdqf6INpVVT7Phr3hu) | 2:57 | 2024-06-27 | 2024-10-04 |
 | [No Time to Cry](https://open.spotify.com/track/3Sb2oR0HGNPyhsx1qnJiDh) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [No Time to Cry](https://open.spotify.com/album/7BzVEVmymCnsyeSrq20MnC) | 3:02 | 2024-06-27 |  |
-| [Old Again](https://open.spotify.com/track/5rU1wFFx3mWFVm2UcTg2Y3) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Old Again](https://open.spotify.com/album/4gI5q0KtsUXV8lNzSVeM5T) | 3:17 | 2024-10-03 | 2024-11-08 |
+| [Old Again](https://open.spotify.com/track/5rU1wFFx3mWFVm2UcTg2Y3) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Old Again](https://open.spotify.com/album/4gI5q0KtsUXV8lNzSVeM5T) | 3:17 | 2024-10-03 |  |
 | [Only One I Need](https://open.spotify.com/track/3KjEAu1W14nGLCNA52ib3Q) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Only One I Need](https://open.spotify.com/album/5yjLnFizgrGtPGdzLjpOgz) | 2:26 | 2024-06-27 |  |
 | [Over](https://open.spotify.com/track/6oblIFG6oGnTH2b1qeERnO) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [Over](https://open.spotify.com/album/2D6qLRICcR35S5O2c6qCEp) | 3:02 | 2024-06-27 | 2024-08-20 |
 | [oxygen](https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [oxygen](https://open.spotify.com/album/4EDGkCx4podx97NEbColdz) | 3:04 | 2024-09-27 |  |
@@ -115,7 +115,7 @@
 | [Rhythm Of The Unknown](https://open.spotify.com/track/6MEwcrixWzNWHrZ8H5Se4C) | [Dominic Strike](https://open.spotify.com/artist/022hDFiSTA1SSbykVp8D09) | [Rhythm Of The Unknown](https://open.spotify.com/album/3oNfvvqzDF1pMJpuNSkdog) | 2:44 | 2024-07-04 | 2024-08-10 |
 | [Rollen in den Norden](https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Rollen in den Norden](https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C) | 2:30 | 2024-06-27 |  |
 | [Runaway](https://open.spotify.com/track/4SemVHStVzeOBprnKQ3ADo) | [Ellu](https://open.spotify.com/artist/4O3D4tbVH9zs2lCQd1D51B) | [Runaway](https://open.spotify.com/album/0F00CHsYzsEIYuVK8GjYu6) | 2:35 | 2024-07-04 | 2024-08-02 |
-| [Sans Toi](https://open.spotify.com/track/3XN0T1Yew3d5hiXhmMuuDS) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Sans Toi](https://open.spotify.com/album/3qvzJyERlOl1zvdxkPxB7y) | 2:14 | 2024-09-27 |  |
+| [Sans Toi](https://open.spotify.com/track/3XN0T1Yew3d5hiXhmMuuDS) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Sans Toi](https://open.spotify.com/album/3qvzJyERlOl1zvdxkPxB7y) | 2:14 | 2024-09-27 | 2024-11-10 |
 | [Sauvage](https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv) | [Julie Meletta](https://open.spotify.com/artist/6dtKZZx0OeZgjHzrTLm8z1) | [Sauvage](https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL) | 2:57 | 2024-08-26 | 2024-11-02 |
 | [Scorpio](https://open.spotify.com/track/02mBTUzWaTyUQAvoJZ1470) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [WHERE WERE YOU ?!](https://open.spotify.com/album/5YbEYcrhyGVXIRZtxuKRkb) | 2:29 | 2024-09-06 | 2024-11-07 |
 | [she calls me daddy](https://open.spotify.com/track/12ZuYk6Tx3BMQIaDW6fNHI) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [she calls me daddy](https://open.spotify.com/album/52dHlZgYvDv9BVaISE95hQ) | 2:29 | 2024-07-19 | 2024-10-04 |
@@ -131,8 +131,8 @@
 | [Stranger](https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Stranger](https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL) | 2:42 | 2024-11-01 |  |
 | [SucieriaZH](https://open.spotify.com/track/1n5vXSrZ0xbFRG1JFi1L7t) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [SucieriaZH](https://open.spotify.com/album/0HOt4Q0nybLug5MreioV5j) | 2:54 | 2024-06-27 | 2024-10-04 |
 | [Surfer Girl](https://open.spotify.com/track/3WLqSWEgz0Dxo2D5qKfXAP) | [Gabriel Benedek](https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu) | [Surfer Girl](https://open.spotify.com/album/7AUCY4FBxSUUzHp2YX5nkg) | 3:39 | 2024-06-27 | 2024-10-04 |
-| [Sweet Nothing](https://open.spotify.com/track/1Sh5Sch6XuUojE5eH0innu) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I'm Not Always Sad, Sometimes I'm Angry](https://open.spotify.com/album/4QYNec3HTSxq2ghYSrEBv2) | 3:20 | 2024-11-05 |  |
-| [Sweet Nothing](https://open.spotify.com/track/1uAZhciIvjilQJWg4e30w4) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I'm Not Always Sad, Sometimes I'm Angry](https://open.spotify.com/album/4tFDkjZhcwOAiZAsGBcTtO) | 3:20 | 2024-11-01 | 2024-11-06 |
+| [Sweet Nothing](https://open.spotify.com/track/1Sh5Sch6XuUojE5eH0innu) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I'm Not Always Sad, Sometimes I'm Angry](https://open.spotify.com/album/4QYNec3HTSxq2ghYSrEBv2) | 3:20 | 2024-11-05 | 2024-11-10 |
+| [Sweet Nothing](https://open.spotify.com/track/1uAZhciIvjilQJWg4e30w4) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I'm Not Always Sad, Sometimes I'm Angry](https://open.spotify.com/album/4tFDkjZhcwOAiZAsGBcTtO) | 3:20 | 2024-11-01 |  |
 | [that life](https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [i always remember all of my dreams](https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq) | 2:51 | 2024-07-19 |  |
 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-06-27 | 2024-10-04 |
 | [theremin](https://open.spotify.com/track/0qqtydxO4KMSnhww9PlrqQ) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [theremin](https://open.spotify.com/album/7pYNdcVuPsnHE6KzsG33a1) | 2:41 | 2024-11-01 |  |
@@ -142,6 +142,7 @@
 | [Tribut](https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Tribut](https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP) | 3:17 | 2024-06-27 |  |
 | [Tú y Yo](https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Tú y Yo](https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e) | 2:44 | 2024-06-27 |  |
 | [Vibe](https://open.spotify.com/track/0K8zPoD9XCfHt1Q2qVGmq2) | [Marc Sway](https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w) | [Vibe](https://open.spotify.com/album/1aglfhSGUMbBBU3OGkw5y0) | 3:00 | 2024-07-04 | 2024-08-28 |
+| [Waiting](https://open.spotify.com/track/4VzLCmWpoRxLUNtTw2ybgV) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Silence](https://open.spotify.com/album/5VS2LAXA6yEICqvnSjfw41) | 3:14 | 2024-11-09 |  |
 | [Waiting](https://open.spotify.com/track/651XWsMydWVIGa3kXk6N3E) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Waiting](https://open.spotify.com/album/2pde6kf2nEN7xlMfnlOOmg) | 3:14 | 2024-08-29 | 2024-10-04 |
 | [Waiting For Love](https://open.spotify.com/track/3VO7y40frV8gnkRaWidSqT) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Waiting For Love](https://open.spotify.com/album/77P9wXuR8Ju9urUZbjlbnU) | 3:14 | 2024-10-18 | 2024-10-20 |
 | [Warrior](https://open.spotify.com/track/0OhXtT9H8ssYendcnOvEhG) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Warrior](https://open.spotify.com/album/5ZE71v7il62OZrxBGIDjZa) | 2:28 | 2024-10-11 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Soledad",
-  "num_followers": 191945,
+  "num_followers": 191994,
   "original_name": "Folclore Argentino",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-10-22 19:01:40",
       "album": {
-        "name": "Eternamente Tucu",
-        "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
-      },
-      "artists": [
-        {
-          "name": "Los Tucu Tucu",
-          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
-        }
-      ],
-      "duration_ms": 221253,
-      "name": "Anoche No Dormi",
-      "url": "https://open.spotify.com/track/4Z6TFi9jac4qmdqeeJjVYn"
-    },
-    {
-      "added_at": "2024-10-22 19:01:40",
-      "album": {
         "name": "Amaneciendo",
         "url": "https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 247786,
       "name": "Con Todo Y Mi Tristeza",
       "url": "https://open.spotify.com/track/2JqdigoVWQNWwbPf0N9wbS"
+    },
+    {
+      "added_at": "2024-10-22 19:01:40",
+      "album": {
+        "name": "Eternamente Tucu",
+        "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
+      },
+      "artists": [
+        {
+          "name": "Los Tucu Tucu",
+          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
+        }
+      ],
+      "duration_ms": 221253,
+      "name": "Anoche No Dormi",
+      "url": "https://open.spotify.com/track/4Z6TFi9jac4qmdqeeJjVYn"
     },
     {
       "added_at": "2024-10-22 19:01:40",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-10-22 19:01:40",
       "album": {
-        "name": "Entre el Cielo, Vos y Yo",
-        "url": "https://open.spotify.com/album/4s3rhCpVOyMjLVGypuCXuY"
-      },
-      "artists": [
-        {
-          "name": "Los Sacheros",
-          "url": "https://open.spotify.com/artist/0TLoZhTnP0vyp61bIO4FgF"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "El Linyerita",
-      "url": "https://open.spotify.com/track/7ereLsS9rzQ5TJJfD3dpAR"
-    },
-    {
-      "added_at": "2024-10-22 19:01:40",
-      "album": {
         "name": "Posade\u00f1a Linda",
         "url": "https://open.spotify.com/album/4uusF4qOg0PlRtcdmBevMC"
       },
@@ -1663,6 +1647,22 @@
     {
       "added_at": "2024-10-22 19:01:40",
       "album": {
+        "name": "Entre el Cielo, Vos y Yo",
+        "url": "https://open.spotify.com/album/4s3rhCpVOyMjLVGypuCXuY"
+      },
+      "artists": [
+        {
+          "name": "Los Sacheros",
+          "url": "https://open.spotify.com/artist/0TLoZhTnP0vyp61bIO4FgF"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "El Linyerita",
+      "url": "https://open.spotify.com/track/7ereLsS9rzQ5TJJfD3dpAR"
+    },
+    {
+      "added_at": "2024-10-22 19:01:40",
+      "album": {
         "name": "Los Copla",
         "url": "https://open.spotify.com/album/67f8qJ03gPtnrQFeMnIa0k"
       },
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-10-22 19:01:40",
       "album": {
-        "name": "Monte Adentro",
-        "url": "https://open.spotify.com/album/6LNqyYmm1jIyMCJcUEBBfR"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n Ayala El Mens\u00fa",
-          "url": "https://open.spotify.com/artist/6VBeD0MxrxKKw7FDK8FwhB"
-        }
-      ],
-      "duration_ms": 123146,
-      "name": "El Gualamb\u00e1o - Grabaci\u00f3n Original 1959",
-      "url": "https://open.spotify.com/track/6C47UVs9GGfx43i03ZThIr"
-    },
-    {
-      "added_at": "2024-10-22 19:01:40",
-      "album": {
         "name": "Jorge Cafrune 18 temas",
         "url": "https://open.spotify.com/album/4kxlEuKNnVnUkuLM2EpY9k"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 133733,
       "name": "La olvidada",
       "url": "https://open.spotify.com/track/6nu6eQFJtv6Ihy60HvxI4l"
+    },
+    {
+      "added_at": "2024-10-22 19:01:40",
+      "album": {
+        "name": "Monte Adentro",
+        "url": "https://open.spotify.com/album/6LNqyYmm1jIyMCJcUEBBfR"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Ayala El Mens\u00fa",
+          "url": "https://open.spotify.com/artist/6VBeD0MxrxKKw7FDK8FwhB"
+        }
+      ],
+      "duration_ms": 123146,
+      "name": "El Gualamb\u00e1o - Grabaci\u00f3n Original 1959",
+      "url": "https://open.spotify.com/track/6C47UVs9GGfx43i03ZThIr"
     },
     {
       "added_at": "2024-10-22 19:01:40",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-10-22 19:01:40",
       "album": {
-        "name": "Toda Una Vida",
-        "url": "https://open.spotify.com/album/121Kqyyc83tndCB8NWb9Gt"
-      },
-      "artists": [
-        {
-          "name": "El Chango Nieto",
-          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "Adonde Est\u00e1n los P\u00e1jaros Que Mueren",
-      "url": "https://open.spotify.com/track/01Cmz4ZEG6PQdSKBrAdf8m"
-    },
-    {
-      "added_at": "2024-10-22 19:01:40",
-      "album": {
         "name": "Grandes Exitos (Serie De Oro)",
         "url": "https://open.spotify.com/album/3rEBrFbu2Gf4jeg6Rjzo0T"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 145693,
       "name": "Camino al Amor",
       "url": "https://open.spotify.com/track/0RvY0zu9rB1CKW0FwNr627"
+    },
+    {
+      "added_at": "2024-10-22 19:01:40",
+      "album": {
+        "name": "Toda Una Vida",
+        "url": "https://open.spotify.com/album/121Kqyyc83tndCB8NWb9Gt"
+      },
+      "artists": [
+        {
+          "name": "El Chango Nieto",
+          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "Adonde Est\u00e1n los P\u00e1jaros Que Mueren",
+      "url": "https://open.spotify.com/track/01Cmz4ZEG6PQdSKBrAdf8m"
     },
     {
       "added_at": "2024-10-22 19:01:40",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2024-10-22 19:01:40",
       "album": {
-        "name": "Por Hacer la Am\u00e9rica (Vol. 1)",
-        "url": "https://open.spotify.com/album/3JA3dlrGcOEaPf2ExetHIU"
-      },
-      "artists": [
-        {
-          "name": "Los 4 De Cordoba",
-          "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
-        }
-      ],
-      "duration_ms": 238027,
-      "name": "Por Hacer la Am\u00e9rica",
-      "url": "https://open.spotify.com/track/1hCPK4befzCeLDdNQuYKtc"
-    },
-    {
-      "added_at": "2024-10-22 19:01:40",
-      "album": {
         "name": "Antig\u00fcedades (En Vivo)",
         "url": "https://open.spotify.com/album/470JBBmJHQWNHuPMDENZ2B"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 303555,
       "name": "Run Run Se Fue Pa'l Norte - En Vivo",
       "url": "https://open.spotify.com/track/5DOwZZbuM3qLU4GzCPVXYn"
+    },
+    {
+      "added_at": "2024-10-22 19:01:40",
+      "album": {
+        "name": "Por Hacer la Am\u00e9rica (Vol. 1)",
+        "url": "https://open.spotify.com/album/3JA3dlrGcOEaPf2ExetHIU"
+      },
+      "artists": [
+        {
+          "name": "Los 4 De Cordoba",
+          "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
+        }
+      ],
+      "duration_ms": 238027,
+      "name": "Por Hacer la Am\u00e9rica",
+      "url": "https://open.spotify.com/track/1hCPK4befzCeLDdNQuYKtc"
     },
     {
       "added_at": "2024-10-22 19:01:40",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-10-22 19:01:40",
       "album": {
-        "name": "Lo Mejor de Mi...",
-        "url": "https://open.spotify.com/album/4WeG5OjOKEeerTLPiZLvUB"
-      },
-      "artists": [
-        {
-          "name": "Tamara Castro",
-          "url": "https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Zamba de Amor en Vuelo",
-      "url": "https://open.spotify.com/track/0sCOt9VKLDozDUudjMV9a5"
-    },
-    {
-      "added_at": "2024-10-22 19:01:40",
-      "album": {
         "name": "Canci\u00f3n en Nuestra Casa",
         "url": "https://open.spotify.com/album/4acj7Ja3ihQwCOnKvvDjuM"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 201440,
       "name": "Canci\u00f3n en Nuestra Casa",
       "url": "https://open.spotify.com/track/4mNF1bgifjsoEifrRW0aZU"
+    },
+    {
+      "added_at": "2024-10-22 19:01:40",
+      "album": {
+        "name": "Lo Mejor de Mi...",
+        "url": "https://open.spotify.com/album/4WeG5OjOKEeerTLPiZLvUB"
+      },
+      "artists": [
+        {
+          "name": "Tamara Castro",
+          "url": "https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Zamba de Amor en Vuelo",
+      "url": "https://open.spotify.com/track/0sCOt9VKLDozDUudjMV9a5"
     },
     {
       "added_at": "2024-10-22 19:01:40",

@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103620,
+  "num_followers": 103618,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZywDAAAAAAAffVsu1OBnmSGDomP6GkSs",
+  "snapshot_id": "Zy1UgAAAAADJSfPIpOsuuBOfx99AhKAW",
   "tracks": [
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers",
-        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 226708,
-      "name": "Siempre Te Voy a Querer",
-      "url": "https://open.spotify.com/track/2bNYigumZc9MMdc621Hn7N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Covers, Vol. 2",
         "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 242091,
       "name": "Tengo Que Colgar",
       "url": "https://open.spotify.com/track/5k9In7MRqmG3fSxjpaLIzD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers",
+        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 226708,
+      "name": "Siempre Te Voy a Querer",
+      "url": "https://open.spotify.com/track/2bNYigumZc9MMdc621Hn7N"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 3",
-        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+        "name": "Mis Covers, Vol. 9",
+        "url": "https://open.spotify.com/album/6zfOPRCozrWyyCgdw5F0Py"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 164040,
-      "name": "Te Lo Pido por Favor",
-      "url": "https://open.spotify.com/track/1Uv0WKqaR9JDqEUJvflJB9"
+      "duration_ms": 176123,
+      "name": "No Me Pidas Perd\u00f3n",
+      "url": "https://open.spotify.com/track/05zTquAfe4VLaOpvMunKCQ"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
       "duration_ms": 226618,
       "name": "El Barco",
       "url": "https://open.spotify.com/track/0qcj9j5w8dZhFcCj9e3hvK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 164040,
+      "name": "Te Lo Pido por Favor",
+      "url": "https://open.spotify.com/track/1Uv0WKqaR9JDqEUJvflJB9"
     },
     {
       "added_at": null,
@@ -815,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 201802,
+      "name": "Cuando Caiga La Noche",
+      "url": "https://open.spotify.com/track/25xtqmANsVCuTfdoEHMnAv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/5h4a45hu6p0pFpmteYSJZw"
       },
@@ -835,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
+        "name": "Mis Covers, Vol. 9",
+        "url": "https://open.spotify.com/album/6zfOPRCozrWyyCgdw5F0Py"
       },
       "artists": [
         {
@@ -844,9 +876,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 201802,
-      "name": "Cuando Caiga La Noche",
-      "url": "https://open.spotify.com/track/25xtqmANsVCuTfdoEHMnAv"
+      "duration_ms": 186386,
+      "name": "Mi Olvido",
+      "url": "https://open.spotify.com/track/1jsgxJK8KPhCqIFq53uVSF"
     }
   ],
   "unique_name": "This Is Carolina Ross",

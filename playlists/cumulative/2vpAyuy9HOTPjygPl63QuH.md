@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-2,027 songs - 4 day 18 hr 55 min
+2,028 songs - 4 day 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -981,7 +981,7 @@
 | [Let Me Love You](https://open.spotify.com/track/7qJrtFPmAQQFfVh5oF9xTP) | [Ale Mora](https://open.spotify.com/artist/6bsbLjG9kdODP0wVaM1WXM), [J\. Griffie](https://open.spotify.com/artist/5oaAcs07c8BZlczQX6VI1Z) | [Let Me Love You](https://open.spotify.com/album/4ZYruk1RlMCjBgkukDfvoi) | 3:24 | 2024-01-12 | 2024-01-21 |
 | [Let Me Take You](https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Let Me Take You](https://open.spotify.com/album/6EQI68ufxLsZ4cTlhtcr3F) | 2:34 | 2022-05-13 | 2022-05-30 |
 | [Let the Bass Go](https://open.spotify.com/track/3da6ONsge3rd3Vix5xvszR) | [Little Fritter](https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo), [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91) | [Real High / Let the Bass Go](https://open.spotify.com/album/3s6gQyRQwVOMehnio4UTYC) | 4:07 | 2023-10-27 | 2023-11-04 |
-| [Let The Bassline](https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Let The Bassline](https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W) | 4:09 | 2024-11-08 |  |
+| [Let The Bassline](https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Let The Bassline](https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W) | 3:03 | 2024-11-08 |  |
 | [Let The Music Play](https://open.spotify.com/track/1HZRUAbWkOcCgEV26fMOKr) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0), [Eddie Craig](https://open.spotify.com/artist/69IpNz134fIjeb0E6E8M6X) | [Let The Music Play](https://open.spotify.com/album/0dlhly0HlByrGW5DlqDHqn) | 2:54 | 2024-08-02 | 2024-08-31 |
 | [Let The Music Play](https://open.spotify.com/track/6fiQRSsYBRrRY8E2aF4OsJ) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [Let The Music Play](https://open.spotify.com/album/49n1eZ66oABQryYB5EM9FU) | 3:04 | 2024-03-01 | 2024-03-30 |
 | [Let The Trumpets Play](https://open.spotify.com/track/1woYd27bjVaC4BM2HUTsQm) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm) | [Let The Trumpets Play](https://open.spotify.com/album/7hW2wgGaOsE5STVOed00UO) | 2:52 | 2023-02-24 | 2023-03-04 |
@@ -1532,6 +1532,7 @@
 | [Shake That](https://open.spotify.com/track/21ePtRGoi3a3Q8ES2JEj2n) | [Dazed](https://open.spotify.com/artist/2KkAz09DAbDp3yHn1cjDCi) | [Shake That](https://open.spotify.com/album/4yIX9U9bLgtZycBbBUtnH4) | 2:49 | 2022-05-01 | 2022-05-14 |
 | [Shake The Dice \(SUBSHIFT Remix\)](https://open.spotify.com/track/3BqjW0Fn2qpvAn5bf4Hdeq) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Shake The Dice \(Remixes\)](https://open.spotify.com/album/34wzQzTQ7XvmxQO7BSKYLH) | 3:16 | 2023-06-09 | 2023-09-16 |
 | [Shake What Yo Mama](https://open.spotify.com/track/6LDI9NkKCTCK3Dhu7s5iSd) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Shake What Yo Mama](https://open.spotify.com/album/64upmd4XuphLblnHNe5TFB) | 3:13 | 2024-02-07 | 2024-03-13 |
+| [Shaky](https://open.spotify.com/track/4hSDDnDiSaTSqIB8u9Zoap) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Shaky](https://open.spotify.com/album/423ScEexLkxNgdlxeFfT5L) | 2:31 | 2024-11-09 |  |
 | [Share My Love](https://open.spotify.com/track/5ty8HYH9f1xQuWoPuijYXf) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Share My Love](https://open.spotify.com/album/7F2T19MHij604pwdnvA9qc) | 3:39 | 2023-11-27 | 2024-01-06 |
 | [Share My Love \- ESSEL Remix](https://open.spotify.com/track/7mdcv9iHd4Gw6JXPMcvgZo) | [George Mensah](https://open.spotify.com/artist/3iSq7kYQOAjugsv9RjCFue), [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Share My Love \(ESSEL Remix\)](https://open.spotify.com/album/6n9P5DcuZ2Ny1zJePUfrLk) | 2:35 | 2023-05-19 | 2023-06-10 |
 | [She's Bad](https://open.spotify.com/track/1BNiqDN2t9cTsofdwCq4R4) | [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73), [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [She's Bad](https://open.spotify.com/album/4An5I08XxzaWOA1u8nwiW3) | 3:47 | 2024-08-09 | 2024-09-14 |

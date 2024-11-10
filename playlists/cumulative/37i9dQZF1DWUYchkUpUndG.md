@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=OwdlPcQqQ8qmtGr7xTH\_\-Q>Ebuka Songs</a>
 
-3,842 songs - 11 day 14 hr 55 min
+3,842 songs - 11 day 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3181,11 +3181,11 @@
 | [Testimony](https://open.spotify.com/track/27URjCIVY9xfleoew1cBSd) | [Apostle Oheneba Poku](https://open.spotify.com/artist/7D3HYdj2oXCux6dBfz6PyO) | [Testimony](https://open.spotify.com/album/5YF44ditJfCfNztKSBVK62) | 4:47 | 2023-11-10 | 2023-11-17 |
 | [Testimony](https://open.spotify.com/track/6dzAablHtNUV5mYKWXCpRs) | [Dave D](https://open.spotify.com/artist/4ahGvCLLR0B2XBpO6xpBEx) | [Testimony](https://open.spotify.com/album/06feIVdtOuOi3f2FgVLsNx) | 2:13 | 2024-10-04 | 2024-10-18 |
 | [Testimony](https://open.spotify.com/track/03ywv1yno3YMPuceJCj6q0) | [Dr TJ](https://open.spotify.com/artist/1QtVmlYLcmOnMOQFZX0T7A) | [Testimony](https://open.spotify.com/album/3Oo2krQRWO7NrHatASYLyI) | 3:43 | 2024-04-19 | 2024-05-03 |
+| [Testimony](https://open.spotify.com/track/5zNZsfw19X9A4dXeqBXyHl) | [Dr TJ](https://open.spotify.com/artist/1QtVmlYLcmOnMOQFZX0T7A), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Testimony](https://open.spotify.com/album/563k12oxVh9CsYNOgjG6X2) | 3:44 | 2024-11-08 |  |
 | [Testimony](https://open.spotify.com/track/0VANtAsLErIJFIAumZTVyl) | [Mr Yels](https://open.spotify.com/artist/6NpdLK2Iz3GsyZiz9Ur0Pr) | [Sau Dari](https://open.spotify.com/album/5BXCd4kdAXzwe8vf7U9wh7) | 5:00 | 2023-12-29 | 2024-01-12 |
 | [Testimony](https://open.spotify.com/track/3zkhrcO2bpIYj2ZyF6ArtG) | [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [Testimony](https://open.spotify.com/album/1wnLB7bZsBb1LZvp0YYCmZ) | 2:48 | 2024-05-17 | 2024-06-01 |
 | [Testimony](https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Testimony](https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp) | 2:57 | 2024-03-15 | 2024-03-29 |
 | [Testimony \- John 4:1\-42](https://open.spotify.com/track/1FKp7TUoR1HO7dsCMB88og) | [De.ViZION](https://open.spotify.com/artist/73WpLtkNbaWoFvefZcOdtB) | [Testimony \- John 4:1\-42](https://open.spotify.com/album/2PxARL2Pk87ts292YeQGYf) | 1:16 | 2023-12-08 | 2023-12-22 |
-| [Testimony \- Live](https://open.spotify.com/track/5zNZsfw19X9A4dXeqBXyHl) | [Dr TJ](https://open.spotify.com/artist/1QtVmlYLcmOnMOQFZX0T7A), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Testimony \(Live\)](https://open.spotify.com/album/563k12oxVh9CsYNOgjG6X2) | 7:10 | 2024-11-08 |  |
 | [Testimony 2.0](https://open.spotify.com/track/1O48OTYT8b5assAs0130kA) | [Izod](https://open.spotify.com/artist/03pF2zkiqKnBOUGbGhxuXT), [Buchi](https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS) | [Testimony 2.0](https://open.spotify.com/album/7m2bmsmet7eoKxj40lQxN7) | 2:27 | 2024-10-25 | 2024-11-08 |
 | [tethered](https://open.spotify.com/track/60WK2pLEcXCv2dD1VJqHOu) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [tethered](https://open.spotify.com/album/27LjFky5f562Kp8nMPvlWA) | 3:45 | 2024-10-18 | 2024-11-01 |
 | [TGMA Performance\( Intro\)](https://open.spotify.com/track/0mpYDZiCLaebdB81GPCDl0) | [Nacee](https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK) | [TGMA Performance\( Intro\)](https://open.spotify.com/album/5fXNHbM0NaaPiDMWsXFg3I) | 2:03 | 2024-07-26 | 2024-08-09 |
@@ -3847,7 +3847,7 @@
 | [Zonke](https://open.spotify.com/track/16WWnfjYPxZ8vPAFGZkeeQ) | [Shaik Omar](https://open.spotify.com/artist/6uyYHSi3xlCzb4222Ywd7p), [Dr Thulz](https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4) | [Zonke](https://open.spotify.com/album/33eNdn70pZjbv8CsRKomtm) | 4:13 | 2023-08-18 | 2023-09-01 |
 | [Zumunta](https://open.spotify.com/track/0aFzFVHXA8TyntdGzwSxdY) | [Mr Yels](https://open.spotify.com/artist/6NpdLK2Iz3GsyZiz9Ur0Pr) | [Zumunta](https://open.spotify.com/album/2hvRySLhiltXdt37o7mZVV) | 5:01 | 2024-08-16 | 2024-08-30 |
 | [Zurishaddai \(God My Rock\)](https://open.spotify.com/track/6Fr4SMGKSLahE1RUdT8LMe) | [Abby Godwin](https://open.spotify.com/artist/2vKfioYB4bNu6OIXMkwC6I) | [Zurishaddai \(God My Rock\)](https://open.spotify.com/album/0FWS6ikN3qZGXKuuHsgDS8) | 4:36 | 2024-07-26 | 2024-08-09 |
-| [Zwi Do Luga](https://open.spotify.com/track/6nCXu41LlH6tjvpCFvldyq) | [Mulaudzi Tee Jay](https://open.spotify.com/artist/1mkwME0SzmeqoIaKLRnkSy), [J\-Smash](https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD), [Dindie Cess](https://open.spotify.com/artist/0Rj5fvasKuiB33gEsJCBIm) | [Zwi Do Luga](https://open.spotify.com/album/72kRwx5i00gdYG4Mq33YbL) | 4:45 | 2024-11-08 |  |
+| [Zwi Do Luga](https://open.spotify.com/track/6nCXu41LlH6tjvpCFvldyq) | [Mulaudzi Tee Jay](https://open.spotify.com/artist/1mkwME0SzmeqoIaKLRnkSy), [J\-Smash](https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD), [Dindie Cess](https://open.spotify.com/artist/0Rj5fvasKuiB33gEsJCBIm) | [Zwi Do Luga](https://open.spotify.com/album/72kRwx5i00gdYG4Mq33YbL) | 4:15 | 2024-11-08 |  |
 | [ÀÁNU RE \- Live](https://open.spotify.com/track/7cis87CPYVitN0xfV8XCum) | [Tee Worship](https://open.spotify.com/artist/1HNyNN9fa1wTVD69hU9FdZ) | [ÀÁNU RE \(Live\)](https://open.spotify.com/album/58f0lm4ufYoihz27JA9Rrv) | 6:43 | 2024-05-17 | 2024-06-01 |
 | [ÈRÈ](https://open.spotify.com/track/10v2ySSFu1qqzrqOOKlCbe) | [Sola Allyson](https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY) | [ÈRÈ/Ẹ̀RÍ](https://open.spotify.com/album/7M3lQAlkVdwtwot0Pz4gG6) | 5:24 | 2024-09-20 | 2024-10-04 |
 

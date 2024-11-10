@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Natalie Perez.
 
-491 songs - 1 day 3 hr 56 min
+492 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Me Hizo Un Favor](https://open.spotify.com/track/6C7iyH1qFSNmMhCMNzyiJz) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Me Hizo Un Favor](https://open.spotify.com/album/0MMlL2xVzzfPRMdabLcm6S) | 2:27 | 2024-09-27 |  |
 | [Me Va Mejor Con el Alcohol](https://open.spotify.com/track/7oVzsPGAInbnmnATWtOm37) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Me Va Mejor Con el Alcohol](https://open.spotify.com/album/3U74XHE1qbVBXMG5k8kNaB) | 3:17 | 2022-03-18 |  |
 | [Me Vas a Extrañar](https://open.spotify.com/track/20G9tFLFSjdBSz65LlASqk) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Me Vas a Extrañar](https://open.spotify.com/album/3S6YMdtMKGqZMQ9Lq3GMMy) | 3:37 | 2022-01-21 | 2022-07-28 |
+| [Me Voy](https://open.spotify.com/track/2N9LvPp7o61eerdZEyKQ19) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Me Voy](https://open.spotify.com/album/7alkgGGl2I9glrEs5m3nkT) | 2:11 | 2024-11-08 |  |
 | [Me Voy De Tu Vida](https://open.spotify.com/track/0r0qLYeKqh5z09fYlzxMEA) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Gaston Baez](https://open.spotify.com/artist/5rf38sxAm0IBSRntlBZAC9) | [Me Voy De Tu Vida](https://open.spotify.com/album/6vivIuYDCcyn4xmwtaluFf) | 2:50 | 2023-05-19 | 2023-06-03 |
 | [Me Vuelves A Enamorar](https://open.spotify.com/track/1Er1toMCdC7tmqTMvByhRo) | [Dami Bravo](https://open.spotify.com/artist/2nbjbnIrGZVMgWFTDwxqNj), [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Rominita Play](https://open.spotify.com/artist/4WtcYRcYzEYwcvqFFf4axn) | [Me Vuelves A Enamorar](https://open.spotify.com/album/7knAUObSlAtfESCT1Bvohv) | 3:13 | 2023-09-08 | 2023-09-12 |
 | [Mentiras / Es Mi Culpa / Lo Intentamos \- En Vivo](https://open.spotify.com/track/6T3rr3WFTuwQ35v178QIyk) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Mentiras / Es Mi Culpa / Lo Intentamos \(En Vivo\)](https://open.spotify.com/album/5SU7PDzbzYTJW9ZkfzM9yM) | 7:54 | 2022-02-18 | 2022-07-05 |
@@ -459,7 +460,7 @@
 | [Vas a Querer Regresar](https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Maxi Tolosa](https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ) | [Vas a Querer Regresar](https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9) | 3:19 | 2023-04-10 |  |
 | [VAS A VOLVER](https://open.spotify.com/track/2GI51zBcXdoEFW0mOg1pkZ) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P) | [VAS A VOLVER](https://open.spotify.com/album/0UkOCzJaNwtVwF0T1Txfh9) | 2:24 | 2024-01-12 |  |
 | [Vengo de la Casa de Ella](https://open.spotify.com/track/4SzugwgIKdvSCdJMOEi8UC) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Vengo de la Casa de Ella](https://open.spotify.com/album/5mXCFeMvjfsM7TyI8zvjIU) | 3:08 | 2022-01-14 | 2022-07-18 |
-| [Vete](https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Vete](https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR) | 3:35 | 2022-01-14 |  |
+| [Vete](https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Vete](https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR) | 3:35 | 2022-01-14 | 2024-11-10 |
 | [Vete de Mi Lado](https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl) | [Los Chakales](https://open.spotify.com/artist/643YpbScVr0u07i276NRiP) | [Vete de Mi Lado](https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr) | 3:07 | 2022-01-14 |  |
 | [Vida](https://open.spotify.com/track/29QGzpYNgPJnyreE8oPXap) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Vida](https://open.spotify.com/album/75sYSUD5xQ2n6tzZJ3SbCC) | 3:15 | 2022-03-11 | 2022-10-02 |
 | [Vienes y Te Vas](https://open.spotify.com/track/6O3RT6e1dyN3Bm7Iy7xgj9) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Cumbia Sabrosa](https://open.spotify.com/album/4QPvgf93M6D6Sq16dh9rLm) | 4:15 | 2022-01-14 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jP4eebSWR9.md) - [plain]
 
 > 50 Hits in einer Playlist! Cover: bac
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,606,358 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,606,346 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jP4eebSWR9.md) - [plain]
 | 2 | [It Girl \(feat\. Sampagne\)](https://open.spotify.com/track/2byoNXF9Y6qhIGBq33ATEm) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa), [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [It Girl \(feat\. Sampagne\)](https://open.spotify.com/album/3jc1H7VUFWvbnzyv4jGHko) | 2:23 |
 | 3 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34) | 2:18 |
 | 4 | [mit dir ist es anders](https://open.spotify.com/track/5pYwlWa3wwKlTEyt4jvWvS) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [pass auf mein herz auf](https://open.spotify.com/album/1Cyp8PDZmddPo100wHR09j) | 2:36 |
-| 5 | [LIEBE \(feat\. Nina Chuba\)](https://open.spotify.com/track/4xbej5ZuyFU9OmxN8jud3r) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [LIEBE feat\. Nina Chuba](https://open.spotify.com/album/1k1mhguHDgmK4mMUcWcGlK) | 3:13 |
+| 5 | [LIEBE \(feat\. Nina Chuba\)](https://open.spotify.com/track/4xbej5ZuyFU9OmxN8jud3r) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [LIEBE \(feat\. Nina Chuba\)](https://open.spotify.com/album/1k1mhguHDgmK4mMUcWcGlK) | 3:13 |
 | 6 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 |
 | 7 | [Geschlossene Augen](https://open.spotify.com/track/4qdGZUy2bzM8GB2qBaMWpR) | [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Geschlossene Augen](https://open.spotify.com/album/3855i0YuxSfGiZcWvZq4Og) | 2:45 |
 | 8 | [Lilien](https://open.spotify.com/track/3ovTEUMYEoiT8ikEMVXBmS) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [In Liebe](https://open.spotify.com/album/3cB6tCOD8fqXuYwbpcrcdV) | 2:40 |

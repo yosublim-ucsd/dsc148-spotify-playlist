@@ -10738,7 +10738,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-19",
+      "date_removed": null,
       "duration_ms": 196437,
       "name": "Fort\u00e6l Mig Hvis Du Vil Noget Andet",
       "url": "https://open.spotify.com/track/3sCY4NA8PP7wV9d0BOHL34"
@@ -10858,7 +10858,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 178624,
       "name": "Fri",
       "url": "https://open.spotify.com/track/2tRNju49mzTqLpcM6L7qIw"
@@ -18506,6 +18506,24 @@
       "duration_ms": 191619,
       "name": "K\u00e6rlighed",
       "url": "https://open.spotify.com/track/1HT4tiNLC1CnHcVTuDwD2P"
+    },
+    {
+      "album": {
+        "name": "K\u00e6rlighed",
+        "url": "https://open.spotify.com/album/2U17zdpU7xUfWYDhfKzD2e"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208311,
+      "name": "K\u00e6rlighed",
+      "url": "https://open.spotify.com/track/3MIwXofeyDvXoYn7GQACCS"
     },
     {
       "album": {
@@ -34008,7 +34026,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 191637,
       "name": "When I Cry",
       "url": "https://open.spotify.com/track/4PcB3sBYDhWuGcsWH9GWvH"

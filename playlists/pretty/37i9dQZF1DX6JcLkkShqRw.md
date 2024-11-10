@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JcLkkShqRw.md) - [plain]
 
 > Flow sudamericano con King Savagge & Loyaltty.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,500 likes - 107 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,510 likes - 107 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JcLkkShqRw.md) - [plain]
 | 24 | [janeiro](https://open.spotify.com/track/6ggcfp8vvnQGY7zvyg5XiM) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [janeiro](https://open.spotify.com/album/3Jxu84pWIA76dSJ5wMdmbp) | 2:37 |
 | 25 | [SI NO ES CONTIGO \- REMIX](https://open.spotify.com/track/4MAv7MqIlcaTBHGiUXIWiw) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [SI NO ES CONTIGO \(REMIX\)](https://open.spotify.com/album/6ilRhpB01gqO1lI9OtGmGj) | 4:14 |
 | 26 | [34 Amor y Mafia REMIX](https://open.spotify.com/track/5t6IDQJWcduCcFJceo4Dal) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [34 Amor y Mafia REMIX](https://open.spotify.com/album/6bfrlCHzoneiMotyuHAsFE) | 6:08 |
-| 27 | [NORMAL \- REMIX](https://open.spotify.com/track/1FIT3ReXoqXmYSMuUc6Jkh) | [Kid Astro](https://open.spotify.com/artist/5Ul9GhsaGFhf7WdsnEzcLT), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [NORMAL \(REMIX\)](https://open.spotify.com/album/5Otfn1QEBBadLTVnztOhii) | 3:07 |
+| 27 | [NORMAL \- REMIX](https://open.spotify.com/track/1FIT3ReXoqXmYSMuUc6Jkh) | [Kid Astro](https://open.spotify.com/artist/5Ul9GhsaGFhf7WdsnEzcLT), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki), [Arcones](https://open.spotify.com/artist/1Pf4laSttup4Nd1itUUqV3) | [NORMAL \(REMIX\)](https://open.spotify.com/album/5Otfn1QEBBadLTVnztOhii) | 3:07 |
 | 28 | [Me Arrepentí](https://open.spotify.com/track/40w8JmvwYUP2HUiXPxjy99) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Me Arrepentí](https://open.spotify.com/album/3kJfAuZ4uXc4WtccFWExg2) | 3:52 |
 | 29 | [Una Oportunidad](https://open.spotify.com/track/2FaS8IcO6JN9ITfYkri23O) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Una Oportunidad](https://open.spotify.com/album/6LXXWavOjtwpGicz0FWq3V) | 2:22 |
 | 30 | [FREEBARS \#2](https://open.spotify.com/track/1EpczndW0Lhsst3qhwLpd8) | [Matias Fisher](https://open.spotify.com/artist/1ZAKCwVwJeKtjVQtzm76kd), [Santiago Ibarra](https://open.spotify.com/artist/0GdhrNbXSn4TOvqinRC076) | [FREEBARS \#2](https://open.spotify.com/album/4SXUD1V42E0BO1UjkGBwHn) | 2:23 |

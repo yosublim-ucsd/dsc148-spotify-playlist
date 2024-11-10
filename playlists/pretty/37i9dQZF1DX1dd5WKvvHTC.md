@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:52mkFCABBeP3KjkWFA4M2H">Jenny Owen Youngs</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,562 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,580 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 37 | [All The Noise](https://open.spotify.com/track/2eGjHCInfLWC316jvoELhE) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Our Broken Hearts Mend](https://open.spotify.com/album/62ih4cae6eJsADZp6HTA1B) | 4:09 |
 | 38 | [Good Bad & Ugly](https://open.spotify.com/track/1nnz7OThlvunqrtudGYOwy) | [JaeyBxrd](https://open.spotify.com/artist/4rBpyETZEnrBQB7Xc4oRfa) | [Good Bad & Ugly](https://open.spotify.com/album/5uDaq5guh0pWbziYqtHPN2) | 2:01 |
 | 39 | [Just A Bird](https://open.spotify.com/track/23QM23a6g6KEzguHQbgxgg) | [Blind Pilot](https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi) | [In the Shadow of the Holy Mountain](https://open.spotify.com/album/6tOJnr4iithYzoOLec7g0p) | 3:53 |
-| 40 | [call my name \(lux lisbon\)](https://open.spotify.com/track/3uJPzczI9TyXObg96CkhTe) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [call my name \(lux lisbon\)](https://open.spotify.com/album/2J0TiMK5VnuaeY8LmkKtQ2) | 3:01 |
+| 40 | [call my name \(lux lisbon\)](https://open.spotify.com/track/3uJPzczI9TyXObg96CkhTe) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [call my name \(lux lisbon\)](https://open.spotify.com/album/2J0TiMK5VnuaeY8LmkKtQ2) | 2:59 |
 | 41 | [Patterns](https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns](https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY) | 4:20 |
 | 42 | [Drippin' In Gold](https://open.spotify.com/track/6N1fLlmKHnX9tcTglL5rWt) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Safar](https://open.spotify.com/album/1XknSuKMvGyfUWEf1TrrsO) | 2:55 |
 | 43 | [These Are the Moments](https://open.spotify.com/track/1BNyHfEvktDkDzigKSuQjI) | [Jay Putty](https://open.spotify.com/artist/0XIjLSi3fr8On0Dwq208Lp) | [These Are the Moments](https://open.spotify.com/album/2owo27WljmNPLxpvNt5Ekr) | 3:21 |

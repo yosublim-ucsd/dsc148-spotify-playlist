@@ -4,7 +4,7 @@
 
 > This is Quicksand\. The essential tracks, all in one playlist.
 
-46 songs - 2 hr 16 min
+47 songs - 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Spoken Through Clouds](https://open.spotify.com/track/5fmbZlkalVRdnXklTnnI3G) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Triptych Continuum](https://open.spotify.com/album/2o6B7VhjL5tgbAa4c4ukK0) | 3:07 | 2022-11-17 |  |
 | [Supercollider](https://open.spotify.com/track/2MFdVzNvUHTmrORjmBnycc) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Split](https://open.spotify.com/album/00K0NjjQMnHH0pbNB6a31a) | 2:49 | 2024-10-31 | 2024-11-03 |
 | [Supercollider](https://open.spotify.com/track/4HLcXpokwMFlpVpPOvX7Jz) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Split](https://open.spotify.com/album/3rApgZdYko2Nt8Xm5W4Tnb) | 2:49 | 2024-11-03 |  |
+| [The Liberation Frequency](https://open.spotify.com/track/2sijKTsIlVVyE0cszC2lYL) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [The Shape Of Punk To Come Obliterated](https://open.spotify.com/album/1fLjNWaFClYtAzdOc3u6ns) | 4:05 | 2024-11-10 |  |
 | [The Philosopher](https://open.spotify.com/track/4784qRJpsaPr7oZPPTOha6) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:28 | 2023-08-04 | 2023-08-08 |
 | [Thorn In My Side](https://open.spotify.com/track/55QjemxhcFnHRvTjGHLJCO) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 2:36 | 2022-11-17 |  |
 | [Under The Screw](https://open.spotify.com/track/0PrZsr6FIiBu3p8uJrbFjg) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 2:56 | 2022-11-17 |  |

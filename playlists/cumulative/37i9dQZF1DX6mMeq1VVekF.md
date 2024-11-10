@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: Joe James
 
-424 songs - 21 hr 49 min
+425 songs - 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Hope](https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hope](https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp) | 4:30 | 2023-11-24 | 2024-04-26 |
 | [Hotel Amour](https://open.spotify.com/track/46jFeLj6khIo9v5RJTpdPO) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy) | [Hotel Amour](https://open.spotify.com/album/2o0zdg8tAFcj8dN6cbjN1P) | 2:33 | 2022-08-22 | 2022-10-24 |
 | [HOTnKOLD \(feat\. BXKS\)](https://open.spotify.com/track/02Vl9QdBH7GvFbaBzhXHMW) | [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [COBALT: SOMUCHMoRE](https://open.spotify.com/album/6Z0u6ZZA5DISPvzMXbfGx8) | 2:31 | 2024-04-26 | 2024-06-28 |
-| [How Far](https://open.spotify.com/track/0brMxO7UrJkplRm1JhHhw8) | [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [Sam Wise](https://open.spotify.com/artist/4CCjWYtowoZyWAl03Iih5P) | [How Far](https://open.spotify.com/album/4hATb85jEAQV5zs1dPVDAg) | 3:09 | 2024-10-21 |  |
+| [How Far](https://open.spotify.com/track/0brMxO7UrJkplRm1JhHhw8) | [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [Sam Wise](https://open.spotify.com/artist/4CCjWYtowoZyWAl03Iih5P) | [How Far](https://open.spotify.com/album/4hATb85jEAQV5zs1dPVDAg) | 3:09 | 2024-10-21 | 2024-11-10 |
 | [Humble Beginnings](https://open.spotify.com/track/0aJugbUSMF6djSVl3KK2w6) | [E\. Mak](https://open.spotify.com/artist/5q0VyH9hnGjR9kMqegBtt4) | [Humble Beginnings](https://open.spotify.com/album/1etpjdPvjCEei6PxQlb2EO) | 1:52 | 2023-05-15 | 2023-05-19 |
 | [Humility?](https://open.spotify.com/track/2voww0mdtDJa6gREsW8jIq) | [Melvillous](https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J) | [Humility?](https://open.spotify.com/album/2fA7m2kL9XtV1UzF03igLI) | 2:32 | 2022-10-23 | 2023-05-16 |
 | [Hunnids](https://open.spotify.com/track/1UiLNKp0mKL7GdJ9zuwflC) | [Sainte](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Local MVP](https://open.spotify.com/album/6omt03AfkYIiFhmzutwsla) | 2:44 | 2022-07-17 | 2022-07-26 |
@@ -288,6 +288,7 @@
 | [Open Wound \(feat\. Jaz Karis\)](https://open.spotify.com/track/0LT0xPstNiyifLa3k72SNg) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Open Wound \(feat\. Jaz Karis\)](https://open.spotify.com/album/1ZG0gj6CjoX3TCDNSAAIQP) | 4:08 | 2022-07-17 | 2022-07-24 |
 | [Opiate](https://open.spotify.com/track/1iXho1Srl0akpZSSHfOFvP) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Opiate](https://open.spotify.com/album/76XZv1ULphDrrtWPR37XQ7) | 2:31 | 2022-06-24 | 2022-07-28 |
 | [Organic Rust](https://open.spotify.com/track/1uSsf748N6MIQWs9R4t2tG) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Organic Rust](https://open.spotify.com/album/58s0ZZ32yklGzKK6h6C5nn) | 4:36 | 2022-06-24 | 2022-07-27 |
+| [Osbatt](https://open.spotify.com/track/2LogzWD6BFBnj3avJpjcnh) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [Osbatt](https://open.spotify.com/album/7cDDTqMfZorUbKIouPTm0w) | 4:03 | 2024-11-08 |  |
 | [Oshun \(with EARTHGANG & 6LACK feat\. Jurdan Bryant\)](https://open.spotify.com/track/1ohxmwWvLNWIlt0kUo8kZF) | [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Jurdan Bryant](https://open.spotify.com/artist/1orGzEcUk9PolAOUmBZLR1) | [Spilligion](https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy) | 4:02 | 2022-06-24 | 2022-10-24 |
 | [Our 25th Birthday](https://open.spotify.com/track/00ZQQArUJReFfsMnl8dIgd) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 5:07 | 2023-06-16 | 2024-10-04 |
 | [outsid4 \(feat\. ayrtn & with Bawo\)](https://open.spotify.com/track/5DATxyg7U54Fkyqp9LcZsL) | [tn\_490](https://open.spotify.com/artist/1ULJBOKjmOpRsRRHP1vc2X), [ayrtn](https://open.spotify.com/artist/6bI4QlfGPaqabHlHwcXLg3), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [outsid4 \(feat\. ayrtn & with Bawo\)](https://open.spotify.com/album/0QSeNY42WTRKILTxNdt7I7) | 2:51 | 2024-10-03 |  |

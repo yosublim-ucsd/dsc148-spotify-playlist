@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-357 songs - 1 day 10 hr 40 min
+358 songs - 1 day 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Ele a Glória \- Ao Vivo](https://open.spotify.com/track/5aH9yQIcGLtxjDBUhMRkSi) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Ele a Glória \(Ao Vivo\)](https://open.spotify.com/album/72mzPRnaOjSY2uWdMqChwY) | 7:17 | 2022-09-09 | 2024-08-10 |
 | [A Glória Desta Última Casa \(Ao Vivo\)](https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [A Glória Desta Última Casa \(Ao Vivo\)](https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK) | 7:11 | 2024-08-09 |  |
 | [A Melhor Parte \- Ao Vivo](https://open.spotify.com/track/4eEVADJvhubm7mSCAt9jz2) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [É Sobre Ele \(Ao Vivo\)](https://open.spotify.com/album/0r2pTLmYNoveZOekuvFg15) | 5:54 | 2024-09-13 |  |
+| [A Promessa Nasceu](https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [A Promessa Nasceu](https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF) | 5:06 | 2024-11-07 |  |
 | [A Resposta](https://open.spotify.com/track/5QiHzqXsMhaDNuBGgSjtSO) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Essência](https://open.spotify.com/album/6gh1cKg6cQvjSSmJMKVPhm) | 6:38 | 2022-09-09 | 2024-08-10 |
 | [A Tua Real Presença \- Ao Vivo](https://open.spotify.com/track/6HJY5wSGDmsfFjGhzPtiaM) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll), [Kelly Danese](https://open.spotify.com/artist/3BczXajgDBtU6CmlJWs3Xl) | [A Tua Real Presença \(Ao Vivo\)](https://open.spotify.com/album/0r6pJYZ81SH8kzX9XGi2Vl) | 4:46 | 2023-10-20 | 2023-11-25 |
 | [Aba \- Ao Vivo](https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Aba \(Ao Vivo\)](https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey) | 5:48 | 2022-09-09 |  |
@@ -74,7 +75,7 @@
 | [De Manhã \(Ao Vivo\)](https://open.spotify.com/track/24xEv4vmx7DkJjE5rAu3ld) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [De Manhã \(Ao Vivo\)](https://open.spotify.com/album/1ZcC6cU12wzi4LP2VsEUL3) | 4:35 | 2024-09-06 |  |
 | [De Ti Preciso \- Ao Vivo](https://open.spotify.com/track/3AbOa504l9MHWKjeUkiITQ) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [De Ti Preciso \(Ao Vivo\)](https://open.spotify.com/album/6hwTDPKPjPBcgKfOkCZ2F0) | 5:13 | 2023-08-07 |  |
 | [Declare o Nome Dele](https://open.spotify.com/track/59hv6fdw1VdoKN4le00gRp) | [Thuanny Carvalho](https://open.spotify.com/artist/47fORQIc5irQMNZKt7xIcU) | [Declare O Nome Dele](https://open.spotify.com/album/0jo6FNcSRrNvF9XVL84Ury) | 4:00 | 2024-09-06 |  |
-| [Deixar para Trás](https://open.spotify.com/track/7ufGcPQPvEPstuBOyxUiWt) | [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83), [Guimarães Beats](https://open.spotify.com/artist/30dIfXffH1eGAXDb3cZVlo) | [Deixar para Trás](https://open.spotify.com/album/3hr6fsLFfPQprq1u4uibdZ) | 2:48 | 2024-09-06 |  |
+| [Deixar para Trás](https://open.spotify.com/track/7ufGcPQPvEPstuBOyxUiWt) | [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83), [Guimarães Beats](https://open.spotify.com/artist/30dIfXffH1eGAXDb3cZVlo) | [Deixar para Trás](https://open.spotify.com/album/3hr6fsLFfPQprq1u4uibdZ) | 2:48 | 2024-09-06 | 2024-11-10 |
 | [Dele, Com Ele \- Ao Vivo](https://open.spotify.com/track/7CRUMlW5jTgcyQHTVMISED) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW) | 4:18 | 2023-11-03 | 2023-11-25 |
 | [Dependente](https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/724QZLpvmUYnZ8FwbgAkZ9) | 5:54 | 2023-07-28 | 2023-09-02 |
 | [Deus Cuida de Mim](https://open.spotify.com/track/1oA2BvYw6lWg4MxM4ALmyG) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/29l7yrLpvUqFzbtq6us7Jn) | 3:44 | 2023-09-01 | 2024-04-20 |

@@ -19905,6 +19905,28 @@
     },
     {
       "album": {
+        "name": "Love Affair",
+        "url": "https://open.spotify.com/album/07Ul3QShP5GIbti5SMxYgQ"
+      },
+      "artists": [
+        {
+          "name": "J.Views",
+          "url": "https://open.spotify.com/artist/54l5FjSx6OSPe2Qv9g4LjQ"
+        },
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182794,
+      "name": "Love Affair",
+      "url": "https://open.spotify.com/track/7hwtROpIHwUU6Y3xMbjIpo"
+    },
+    {
+      "album": {
         "name": "Love from the Other Side",
         "url": "https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n"
       },
@@ -32852,7 +32874,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 223533,
       "name": "The Magic",
       "url": "https://open.spotify.com/track/6s2TiZxABduLOjT8DxuLmD"

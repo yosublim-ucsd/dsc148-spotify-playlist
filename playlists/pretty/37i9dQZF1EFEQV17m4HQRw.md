@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40TymUMoWoqMrIV7VBRRAn">Jotta A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 464 likes - 52 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 463 likes - 52 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 30 | [Tóxico](https://open.spotify.com/track/3Pmh33KdrzB0imutuOUjoZ) | [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:08 |
 | 31 | [Altar da Graça](https://open.spotify.com/track/3kKsYXQevowt1FwbP8Fvac) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 5:29 |
 | 32 | [Originais](https://open.spotify.com/track/0Qx8lDXJOAZlu59dpFdMqX) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Originais](https://open.spotify.com/album/0CBOe3rCben0oysg4KZN2p) | 3:33 |
-| 33 | [Sinai](https://open.spotify.com/track/56wjqnXX7fv7YY1LgvxT3d) | [Jairo Bonfim](https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Sinai](https://open.spotify.com/album/6Z3FThXEeuuHq06E5vnCBy) | 4:58 |
-| 34 | [Seu Amigo](https://open.spotify.com/track/1LCzoXgWyDy8zMsuiiSsnx) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Matheus Bird](https://open.spotify.com/artist/5eDSBAfXhtDmDcuA4x6oed) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 4:46 |
+| 33 | [Seu Amigo](https://open.spotify.com/track/1LCzoXgWyDy8zMsuiiSsnx) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Matheus Bird](https://open.spotify.com/artist/5eDSBAfXhtDmDcuA4x6oed) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 4:46 |
+| 34 | [Sinai](https://open.spotify.com/track/56wjqnXX7fv7YY1LgvxT3d) | [Jairo Bonfim](https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Sinai](https://open.spotify.com/album/6Z3FThXEeuuHq06E5vnCBy) | 4:58 |
 | 35 | [La Drácula](https://open.spotify.com/track/6fd79PtewFZgLXYiIYhhLJ) | [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:45 |
 | 36 | [Mercenárias](https://open.spotify.com/track/3uRuB1nkOD1wgMko3MZi2D) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Titica](https://open.spotify.com/artist/2uOdrNlbkp8umXVeHU5F2s), [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA) | [Mercenárias](https://open.spotify.com/album/0iA8avL6J85MjDCRGgprox) | 2:39 |
 | 37 | [Me Garanto](https://open.spotify.com/track/0M0PZQD7FVD9tgzX1VdRXf) | [Carol Roberto](https://open.spotify.com/artist/7jrmYkaX7aXULg3BX9YAYx) | [Me Garanto](https://open.spotify.com/album/1vWNsqfX0Bbq9Y7F7gEuHB) | 2:44 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 51 | [Promessas](https://open.spotify.com/track/0DG8rlv4qfOU2YbdttWHLy) | [Lais Souza](https://open.spotify.com/artist/1gbps42EklltqqNRUb88gx) | [Promessas](https://open.spotify.com/album/7od6KkiUWFK2Qx3iHTRunC) | 4:45 |
 | 52 | [O Protagonista](https://open.spotify.com/track/5FrLfHABHDRUvqNP8hWGCr) | [Cris Alves](https://open.spotify.com/artist/2W4yNmbDdeKdCuQSlP9H8o) | [O Protagonista](https://open.spotify.com/album/3ww6ExGunZagBV8FJRzyw4) | 2:49 |
 
-Snapshot ID: `Abg/KgAAAACIs6G170Xxi5VrN5ME4GX3`
+Snapshot ID: `AbhEtgAAAAA6O8VVvm9BNY7gYc/xYjJ1`

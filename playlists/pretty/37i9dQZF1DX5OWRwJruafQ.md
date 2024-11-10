@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,692 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,698 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 13 | [Don't Look 2](https://open.spotify.com/track/4ZQAFya68eENRy7VGVXSUe) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [G\-Funk](https://open.spotify.com/artist/5fYzmklFOBvIXZef0iVmEH) | [Don't Look 2](https://open.spotify.com/album/5RCnxjGciArcGJScujPXyU) | 3:18 |
 | 14 | [Mangni](https://open.spotify.com/track/3bKVJpK65oFqGPTosuD9uu) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G), [Youngstarr Pop Boy](https://open.spotify.com/artist/3qQfU4XvZCmz8Hwwu5pSr9), [Mahi Sharma](https://open.spotify.com/artist/27Lb22VTgDXhcTAH30SsIJ) | [Munda Maanaa Da](https://open.spotify.com/album/2vwTvTLFhgDEy3reXBEAj8) | 2:45 |
 | 15 | [Hath Mittran Nu](https://open.spotify.com/track/3akvPGRrZVPaE2GSoqJIvf) | [Khadak Singh](https://open.spotify.com/artist/6u8dtdN8dK5hjTkkfw4ysc) | [Hath Mittran Nu](https://open.spotify.com/album/7J4wVMxhnPfzr3Vj9dzjSA) | 2:30 |
-| 16 | [Uddda Punjab](https://open.spotify.com/track/5i5JOVTr0il2Hki4ItgMMV) | [Gurlluv](https://open.spotify.com/artist/2iMoPGUtShi83odOZ7Eirj), [Master Mind](https://open.spotify.com/artist/2YeNjkqQUEPNtoEryZYbdz) | [Uddda Punjab](https://open.spotify.com/album/399GRdy23FNh6LAxlgSmyz) | 2:48 |
+| 16 | [Uddda Punjab](https://open.spotify.com/track/5i5JOVTr0il2Hki4ItgMMV) | [Gurlluv](https://open.spotify.com/artist/2iMoPGUtShi83odOZ7Eirj), [Master Mind](https://open.spotify.com/artist/2YeNjkqQUEPNtoEryZYbdz), [Nav Garhiwala](https://open.spotify.com/artist/2ZP4fYUwJqNeeAWlYuYzDH) | [Uddda Punjab](https://open.spotify.com/album/399GRdy23FNh6LAxlgSmyz) | 2:48 |
 | 17 | [Vibe](https://open.spotify.com/track/50i8NXAygiZBfZb92m8ssD) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX) | [Vibe](https://open.spotify.com/album/0iFzZFYfOGwar3n7MRvDEn) | 2:20 |
 | 18 | [Putt Sardara De](https://open.spotify.com/track/7JPcZDsguZkm5OpofJ5pZl) | [Bhinda Aujla](https://open.spotify.com/artist/4452AKcmQh6NC4yNlTrR3D) | [Putt Sardara De](https://open.spotify.com/album/3ZG8s2MIYNXSImWF3ANpsK) | 2:04 |
 | 19 | [Parlour Te \(From "Mittran Da Challeya Truck Ni"\)](https://open.spotify.com/track/5duOS2aldMXIdxxPF660KF) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Parlour Te \(From "Mittran Da Challeya Truck Ni"\)](https://open.spotify.com/album/56cYJVho9lTXVjgrXOlEWh) | 3:11 |

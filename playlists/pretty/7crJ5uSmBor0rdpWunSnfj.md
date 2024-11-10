@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7crJ5uSmBor0rdpWunSnfj.md) - [plain]
 
 > Desperation
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 6 songs - 20 min 33 sec
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 7 songs - 23 min 15 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,5 +14,6 @@ pretty - [cumulative](/playlists/cumulative/7crJ5uSmBor0rdpWunSnfj.md) - [plain]
 | 4 | [Make It Rain](https://open.spotify.com/track/3m4Q0H3PIlxlBjERC7zWh2) | [The Haunted Windchimes](https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2) | [Out With the Crow](https://open.spotify.com/album/1nbXKbgWArwy2KuLItW6qh) | 4:55 |
 | 5 | [You Know What They Do to Guys Like Us in Prison](https://open.spotify.com/track/5bTuwAgYUD5MABOIPH8ZMt) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 2:53 |
 | 6 | [Magpie](https://open.spotify.com/track/0Nx1m4J8mlBW34aUW7wcy2) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 2:00 |
+| 7 | [Slow West Vultures](https://open.spotify.com/track/5b6XWX2ifTdSClxnLIMLzh) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [We Shall All Be Healed](https://open.spotify.com/album/45KMV5nuTYdfXBfH3RR98Z) | 2:41 |
 
-Snapshot ID: `AAAACvHgTopkJFy2p09GtSHRGSWSh0Vz`
+Snapshot ID: `AAAACyUbT9+XFViv/sAptS7ZJNbnzbY0`

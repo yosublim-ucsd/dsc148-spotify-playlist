@@ -1,12 +1,12 @@
 {
   "description": "This is Muse. The essential tracks, all in one playlist.",
-  "num_followers": 790633,
+  "num_followers": 790725,
   "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZywDAAAAAADvgzCFzL10wE1XVnZ0rdr3",
+  "snapshot_id": "Zy1UgAAAAACEetj1Fc071Mj3zsu51pK6",
   "tracks": [
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Absolution",
-        "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
+        "name": "Showbiz",
+        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 302505,
-      "name": "Butterflies & Hurricanes",
-      "url": "https://open.spotify.com/track/5XpJOQgVEuM1FzgeGXzUvk"
+      "duration_ms": 262973,
+      "name": "Muscle Museum",
+      "url": "https://open.spotify.com/track/5rupf5kRDLhhFPxH15ZmBF"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Showbiz",
-        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 262973,
-      "name": "Muscle Museum",
-      "url": "https://open.spotify.com/track/5rupf5kRDLhhFPxH15ZmBF"
+      "duration_ms": 302505,
+      "name": "Butterflies & Hurricanes",
+      "url": "https://open.spotify.com/track/5XpJOQgVEuM1FzgeGXzUvk"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
       "duration_ms": 209061,
       "name": "Won\u2019t Stand Down",
       "url": "https://open.spotify.com/track/6Wi8Byfq6xH0lEkqZbOZg9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Absolution",
-        "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 295767,
-      "name": "Sing for Absolution",
-      "url": "https://open.spotify.com/track/6Dct63YMBXtjGqCwr0HkYb"
     },
     {
       "added_at": null,
@@ -507,6 +491,22 @@
       "duration_ms": 231973,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/2qkmPUG7ARsRwhVICQVwQS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 295767,
+      "name": "Sing for Absolution",
+      "url": "https://open.spotify.com/track/6Dct63YMBXtjGqCwr0HkYb"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Holes and Revelations",
-        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Exo-Politics",
-      "url": "https://open.spotify.com/track/20vZII9Yu52czI9Fk4p39r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simulation Theory (Super Deluxe)",
         "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 228146,
       "name": "Dig Down",
       "url": "https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Exo-Politics",
+      "url": "https://open.spotify.com/track/20vZII9Yu52czI9Fk4p39r"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 18570,
+  "num_followers": 18584,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -617,6 +617,22 @@
       "url": "https://open.spotify.com/track/4ZWMGSggxHp87KTvRoyfFn"
     },
     {
+      "added_at": "2024-10-11 00:01:00",
+      "album": {
+        "name": "Olodumare",
+        "url": "https://open.spotify.com/album/0iBH92HNjF5SLlzcRrIZXb"
+      },
+      "artists": [
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Olodumare",
+      "url": "https://open.spotify.com/track/3SGAz5OZz0GpfGr5HG2zEd"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "The Birth of Revival",
@@ -659,22 +675,6 @@
       "duration_ms": 160500,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/3moHocFcyX5Ek77GoG0532"
-    },
-    {
-      "added_at": "2024-10-11 00:01:00",
-      "album": {
-        "name": "Olodumare",
-        "url": "https://open.spotify.com/album/0iBH92HNjF5SLlzcRrIZXb"
-      },
-      "artists": [
-        {
-          "name": "Joel Lwaga",
-          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "Olodumare",
-      "url": "https://open.spotify.com/track/3SGAz5OZz0GpfGr5HG2zEd"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -753,22 +753,6 @@
       "url": "https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "The Glory Experience (Songs of Zion)",
-        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 577592,
-      "name": "Kaabo",
-      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
-    },
-    {
       "added_at": "2024-10-25 00:01:00",
       "album": {
         "name": "God Is",
@@ -783,6 +767,22 @@
       "duration_ms": 185999,
       "name": "God Is",
       "url": "https://open.spotify.com/track/4QLiTL83ZMf4lt2qqgkOrO"
+    },
+    {
+      "added_at": "2024-10-25 00:01:00",
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/3DfYbFqrxWlxJLg9iRI4Z3"
+      },
+      "artists": [
+        {
+          "name": "K-Anthony",
+          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
+        }
+      ],
+      "duration_ms": 199404,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/52QigKe7k2ivOSbprSJYun"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -805,20 +805,20 @@
       "url": "https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS"
     },
     {
-      "added_at": "2024-10-25 00:01:00",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/3DfYbFqrxWlxJLg9iRI4Z3"
+        "name": "The Glory Experience (Songs of Zion)",
+        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
       },
       "artists": [
         {
-          "name": "K-Anthony",
-          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
         }
       ],
-      "duration_ms": 199404,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/52QigKe7k2ivOSbprSJYun"
+      "duration_ms": 577592,
+      "name": "Kaabo",
+      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -965,6 +965,26 @@
       "url": "https://open.spotify.com/track/5pb5B5hA3h3EF0s7cW1ykL"
     },
     {
+      "added_at": "2024-11-01 00:01:00",
+      "album": {
+        "name": "Young & Chosen (Power Pack)",
+        "url": "https://open.spotify.com/album/4tDlxe4KC1YJI2nV4owRn6"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 144059,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/5Z0U7FBU5g3et5lbGK8n33"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Daily",
@@ -987,26 +1007,6 @@
       "duration_ms": 176571,
       "name": "Daily",
       "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
-    },
-    {
-      "added_at": "2024-11-01 00:01:00",
-      "album": {
-        "name": "Young & Chosen (Power Pack)",
-        "url": "https://open.spotify.com/album/4tDlxe4KC1YJI2nV4owRn6"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 144059,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/5Z0U7FBU5g3et5lbGK8n33"
     },
     {
       "added_at": "2024-01-26 00:01:00",

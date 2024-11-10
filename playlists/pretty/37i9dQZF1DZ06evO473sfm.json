@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 432283,
+  "num_followers": 432707,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZywDAAAAAAB9UdFLHNurzQ3McWXd7mUf",
+  "snapshot_id": "Zy1UgAAAAACYXQw+XBbmEw6dVIBoPbzZ",
   "tracks": [
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo, Vol.1",
+        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 216272,
+      "name": "El Ultimo Beso - En Vivo",
+      "url": "https://open.spotify.com/track/1ExVxkQdW1Wb5Z8JEIz5FB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Necesito Decirte",
         "url": "https://open.spotify.com/album/1mbKbybVA8gxjLnEHs8HjV"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 207725,
       "name": "Necesito Decirte",
       "url": "https://open.spotify.com/track/5APm7ovr3mZBAEtJlF8pbY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo, Vol.1",
-        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 216272,
-      "name": "El Ultimo Beso - En Vivo",
-      "url": "https://open.spotify.com/track/1ExVxkQdW1Wb5Z8JEIz5FB"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 139557,
+  "num_followers": 139589,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Miracle Maker (feat. Clementine Douglas)",
-        "url": "https://open.spotify.com/album/7iBzFQOfChL6eqK5dodErb"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 188592,
-      "name": "Miracle Maker (feat. Clementine Douglas)",
-      "url": "https://open.spotify.com/track/51mycpP5uFInLw300nestX"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
         "name": "No Nein",
         "url": "https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 151273,
       "name": "No Nein",
       "url": "https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "Miracle Maker (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/7iBzFQOfChL6eqK5dodErb"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 188592,
+      "name": "Miracle Maker (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/51mycpP5uFInLw300nestX"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -459,6 +459,26 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
+        "name": "Strangers (with Mansionair)",
+        "url": "https://open.spotify.com/album/7n50hdKDAZWurnx43hDHhJ"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 217390,
+      "name": "Strangers (with Mansionair)",
+      "url": "https://open.spotify.com/track/5nBqvq3hUl8n6HtKtwNphW"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
         "name": "Disappear (feat. Hayley Trinca) [ShockOne Remix]",
         "url": "https://open.spotify.com/album/5fWBWimlRmaLgyQ20zlzH0"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 183663,
       "name": "Disappear (feat. Hayley Trinca) [ShockOne Remix]",
       "url": "https://open.spotify.com/track/7JdHEhOa7CXs8oEBnMtnjh"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
-        "name": "Strangers (with Mansionair)",
-        "url": "https://open.spotify.com/album/7n50hdKDAZWurnx43hDHhJ"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 217390,
-      "name": "Strangers (with Mansionair)",
-      "url": "https://open.spotify.com/track/5nBqvq3hUl8n6HtKtwNphW"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -651,26 +651,6 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "What Comes Next",
-        "url": "https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        }
-      ],
-      "duration_ms": 243599,
-      "name": "Get To Know (feat. Winston Surfshirt)",
-      "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
         "name": "Chase the Sun (Odd Mob Remix)",
         "url": "https://open.spotify.com/album/5v87Q53Us8RfXe26HNjIG4"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 258750,
       "name": "Chase the Sun (Odd Mob Remix)",
       "url": "https://open.spotify.com/track/6CrakXqqM1VgkCOmo7OU6i"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "What Comes Next",
+        "url": "https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        }
+      ],
+      "duration_ms": 243599,
+      "name": "Get To Know (feat. Winston Surfshirt)",
+      "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -1101,22 +1101,6 @@
       "url": "https://open.spotify.com/track/63mP5zqdcYXjikeAQCNjco"
     },
     {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
-        "name": "Oh No",
-        "url": "https://open.spotify.com/album/28fJN4ijKdA0em3kiLaLCt"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 169668,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/4UOtElYfnpY2CxsTnWhrOA"
-    },
-    {
       "added_at": "2024-02-01 13:01:25",
       "album": {
         "name": "Since I Don't Have You (Dual Remix)",
@@ -1135,6 +1119,22 @@
       "duration_ms": 166254,
       "name": "Since I Don't Have You - Dual Remix",
       "url": "https://open.spotify.com/track/4Y6Jf44nfFTmCVhZNdrV49"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/28fJN4ijKdA0em3kiLaLCt"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 169668,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/4UOtElYfnpY2CxsTnWhrOA"
     },
     {
       "added_at": "2024-02-01 13:01:25",

@@ -1,6 +1,6 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Tokyo Ska Paradise Orchestra ",
-  "num_followers": 392373,
+  "num_followers": 392455,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-10-18 06:00:00",
       "album": {
-        "name": "A Passage In Time (Explicit Version)",
-        "url": "https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE"
-      },
-      "artists": [
-        {
-          "name": "Authority Zero",
-          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
-        }
-      ],
-      "duration_ms": 388466,
-      "name": "One More Minute",
-      "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
-    },
-    {
-      "added_at": "2024-10-18 06:00:00",
-      "album": {
         "name": "Beatdown Generation",
         "url": "https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 194825,
       "name": "Beatdown Generation",
       "url": "https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc"
+    },
+    {
+      "added_at": "2024-10-18 06:00:00",
+      "album": {
+        "name": "A Passage In Time (Explicit Version)",
+        "url": "https://open.spotify.com/album/2bEpe22aeh5r5UP0jHeggE"
+      },
+      "artists": [
+        {
+          "name": "Authority Zero",
+          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
+        }
+      ],
+      "duration_ms": 388466,
+      "name": "One More Minute",
+      "url": "https://open.spotify.com/track/45Q1nT2ec3wXZV3RvS769L"
     },
     {
       "added_at": "2024-10-18 06:00:00",
@@ -787,26 +787,6 @@
     {
       "added_at": "2024-10-18 06:00:00",
       "album": {
-        "name": "Un Amor Violento",
-        "url": "https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1"
-      },
-      "artists": [
-        {
-          "name": "The Skatalites",
-          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
-        },
-        {
-          "name": "Alvaro Henriquez",
-          "url": "https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "Un Amor Violento",
-      "url": "https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc"
-    },
-    {
-      "added_at": "2024-10-18 06:00:00",
-      "album": {
         "name": "TEM CORAGEM",
         "url": "https://open.spotify.com/album/7d2d1U9WXWm4pcEwtiAP93"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 244487,
       "name": "TEM CORAGEM",
       "url": "https://open.spotify.com/track/4m1rIYJfM2R9EMH7YeqSsQ"
+    },
+    {
+      "added_at": "2024-10-18 06:00:00",
+      "album": {
+        "name": "Un Amor Violento",
+        "url": "https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1"
+      },
+      "artists": [
+        {
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+        },
+        {
+          "name": "Alvaro Henriquez",
+          "url": "https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "Un Amor Violento",
+      "url": "https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc"
     },
     {
       "added_at": "2024-10-18 06:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-10-18 06:00:00",
       "album": {
-        "name": "Walking Pipebomb",
-        "url": "https://open.spotify.com/album/10Dak0r841xGCCuwW1XwS8"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 165111,
-      "name": "Walking Pipebomb",
-      "url": "https://open.spotify.com/track/55h08QeVPOFlEGiCiBRulk"
-    },
-    {
-      "added_at": "2024-10-18 06:00:00",
-      "album": {
         "name": "Life Won't Wait",
         "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 228040,
       "name": "Life Won't Wait",
       "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
+    },
+    {
+      "added_at": "2024-10-18 06:00:00",
+      "album": {
+        "name": "Walking Pipebomb",
+        "url": "https://open.spotify.com/album/10Dak0r841xGCCuwW1XwS8"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "duration_ms": 165111,
+      "name": "Walking Pipebomb",
+      "url": "https://open.spotify.com/track/55h08QeVPOFlEGiCiBRulk"
     },
     {
       "added_at": "2024-10-18 06:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-10-18 06:00:00",
       "album": {
+        "name": "Silver Linings",
+        "url": "https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "duration_ms": 218240,
+      "name": "Lie to Me",
+      "url": "https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ"
+    },
+    {
+      "added_at": "2024-10-18 06:00:00",
+      "album": {
         "name": "Que me quemen tus ojos",
         "url": "https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 159453,
       "name": "Que me quemen tus ojos",
       "url": "https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn"
-    },
-    {
-      "added_at": "2024-10-18 06:00:00",
-      "album": {
-        "name": "Silver Linings",
-        "url": "https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 218240,
-      "name": "Lie to Me",
-      "url": "https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ"
     },
     {
       "added_at": "2024-10-18 06:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-10-18 06:00:00",
       "album": {
+        "name": "University",
+        "url": "https://open.spotify.com/album/0Ljrx55mzrcgccJD6KSSmi"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "University",
+      "url": "https://open.spotify.com/track/63boKN9qNhEnKvLXnAZtvl"
+    },
+    {
+      "added_at": "2024-10-18 06:00:00",
+      "album": {
         "name": "Strange Creatures - EP",
         "url": "https://open.spotify.com/album/5uL98nzPwql7vBbgvcZ1wm"
       },
@@ -1471,18 +1487,18 @@
     {
       "added_at": "2024-10-18 06:00:00",
       "album": {
-        "name": "University",
-        "url": "https://open.spotify.com/album/0Ljrx55mzrcgccJD6KSSmi"
+        "name": "Broadcasting to the Nations",
+        "url": "https://open.spotify.com/album/3RrUzc5Tuxt481nSHDWpKS"
       },
       "artists": [
         {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+          "name": "Authority Zero",
+          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
         }
       ],
-      "duration_ms": 214000,
-      "name": "University",
-      "url": "https://open.spotify.com/track/63boKN9qNhEnKvLXnAZtvl"
+      "duration_ms": 196773,
+      "name": "Revolution Riot",
+      "url": "https://open.spotify.com/track/7FK3roNAFpxl3vfhtRiPH9"
     },
     {
       "added_at": "2024-10-18 06:00:00",
@@ -1515,22 +1531,6 @@
       "duration_ms": 213754,
       "name": "LONELY BOY",
       "url": "https://open.spotify.com/track/7exeQYwgHvD9pLJlFdXWhU"
-    },
-    {
-      "added_at": "2024-10-18 06:00:00",
-      "album": {
-        "name": "Broadcasting to the Nations",
-        "url": "https://open.spotify.com/album/3RrUzc5Tuxt481nSHDWpKS"
-      },
-      "artists": [
-        {
-          "name": "Authority Zero",
-          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
-        }
-      ],
-      "duration_ms": 196773,
-      "name": "Revolution Riot",
-      "url": "https://open.spotify.com/track/7FK3roNAFpxl3vfhtRiPH9"
     },
     {
       "added_at": "2024-10-18 06:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-10-18 06:00:00",
       "album": {
-        "name": "No One is Illegal",
-        "url": "https://open.spotify.com/album/2Gy5JaGmiaykwDoJZH4xQO"
-      },
-      "artists": [
-        {
-          "name": "Russkaja",
-          "url": "https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr"
-        }
-      ],
-      "duration_ms": 226413,
-      "name": "Here is the News (Papa\u00b4s Got a Brand New Pigbag)",
-      "url": "https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc"
-    },
-    {
-      "added_at": "2024-10-18 06:00:00",
-      "album": {
         "name": "Flyover Renaissance",
         "url": "https://open.spotify.com/album/1FEQqvt2lIqv9nWAhDKBGK"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 204641,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/7eBpiWpRPUlRUeCZ8oGpbo"
+    },
+    {
+      "added_at": "2024-10-18 06:00:00",
+      "album": {
+        "name": "No One is Illegal",
+        "url": "https://open.spotify.com/album/2Gy5JaGmiaykwDoJZH4xQO"
+      },
+      "artists": [
+        {
+          "name": "Russkaja",
+          "url": "https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr"
+        }
+      ],
+      "duration_ms": 226413,
+      "name": "Here is the News (Papa\u00b4s Got a Brand New Pigbag)",
+      "url": "https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc"
     },
     {
       "added_at": "2024-10-18 06:00:00",

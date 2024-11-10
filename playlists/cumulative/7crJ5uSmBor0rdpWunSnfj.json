@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "We Shall All Be Healed",
+        "url": "https://open.spotify.com/album/45KMV5nuTYdfXBfH3RR98Z"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161373,
+      "name": "Slow West Vultures",
+      "url": "https://open.spotify.com/track/5b6XWX2ifTdSClxnLIMLzh"
+    },
+    {
+      "album": {
         "name": "Swords",
         "url": "https://open.spotify.com/album/2oTWDmzqeri1WOvpSH5J4g"
       },

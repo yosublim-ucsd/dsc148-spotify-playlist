@@ -1,6 +1,6 @@
 {
   "description": "The most unforgettable love songs from the 80s.",
-  "num_followers": 2551305,
+  "num_followers": 2551338,
   "original_name": "80s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-15 17:18:57",
       "album": {
-        "name": "Cuts Like A Knife",
-        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Straight From The Heart",
-      "url": "https://open.spotify.com/track/5eaK7PLGwyDXmHfTdWZZuE"
-    },
-    {
-      "added_at": "2024-07-15 17:18:57",
-      "album": {
         "name": "...But Seriously (2016 Remaster)",
         "url": "https://open.spotify.com/album/1t89giOgPycfALwe2NuVf8"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 275986,
       "name": "Do You Remember? - 2016 Remaster",
       "url": "https://open.spotify.com/track/3TLtCHUaiMHcQcJVGVW2p2"
+    },
+    {
+      "added_at": "2024-07-15 17:18:57",
+      "album": {
+        "name": "Cuts Like A Knife",
+        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Straight From The Heart",
+      "url": "https://open.spotify.com/track/5eaK7PLGwyDXmHfTdWZZuE"
     },
     {
       "added_at": "2024-07-15 17:18:57",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-07-15 17:18:57",
       "album": {
-        "name": "Hangin' Tough",
-        "url": "https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK"
-      },
-      "artists": [
-        {
-          "name": "New Kids On The Block",
-          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "I'll Be Loving You (Forever)",
-      "url": "https://open.spotify.com/track/1cy5US2dffz6QGBAIzOGkq"
-    },
-    {
-      "added_at": "2024-07-15 17:18:57",
-      "album": {
         "name": "Can't Fight Fate (Expanded Edition)",
         "url": "https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 277600,
       "name": "Love Will Lead You Back",
       "url": "https://open.spotify.com/track/3HLgjHYaEhKFvV4SSvI9Te"
+    },
+    {
+      "added_at": "2024-07-15 17:18:57",
+      "album": {
+        "name": "Hangin' Tough",
+        "url": "https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK"
+      },
+      "artists": [
+        {
+          "name": "New Kids On The Block",
+          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "I'll Be Loving You (Forever)",
+      "url": "https://open.spotify.com/track/1cy5US2dffz6QGBAIzOGkq"
     },
     {
       "added_at": "2024-07-15 17:18:57",

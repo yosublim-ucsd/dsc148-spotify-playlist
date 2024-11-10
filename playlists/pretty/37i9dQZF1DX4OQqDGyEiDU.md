@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,352 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,366 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 46 | [アスノヨゾラ哨戒班](https://open.spotify.com/track/75tQZI2X1VwNOPtOrOrdpl) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [未完成エイトビーツ](https://open.spotify.com/album/4R1TGj5yvneO62MVUYUpXL) | 2:57 |
 | 47 | [エンヴィーベイビー](https://open.spotify.com/track/02vOyaNCKGX8uhjggOIH83) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [エンヴィーベイビー](https://open.spotify.com/album/6NG4Ztq0KcNdsKYRu2RNOA) | 2:15 |
 | 48 | [天ノ弱](https://open.spotify.com/track/0UUV97Kf5nowsUWIxVs4bO) | [164](https://open.spotify.com/artist/4q1k4Y6SroqGJopNP90hYQ) | [天ノ弱 \(feat\. Mayumi Morinaga\)](https://open.spotify.com/album/0KshnO8rWAFXOdZHXwkqCH) | 3:06 |
-| 49 | [トンデモワンダーズ](https://open.spotify.com/track/3jmQnsr4YxDIrCJ7GbE7vM) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [トンデモワンダーズ](https://open.spotify.com/album/533pE7WjeCHpdfs3jiSXbL) | 3:15 |
-| 50 | [グッバイ宣言](https://open.spotify.com/track/2sQDwbzGSpHXwnIAOrcDn9) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [グッバイ宣言](https://open.spotify.com/album/383X8RO1IowJ8bDO3hlsMs) | 2:52 |
+| 49 | [グッバイ宣言](https://open.spotify.com/track/2sQDwbzGSpHXwnIAOrcDn9) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [グッバイ宣言](https://open.spotify.com/album/383X8RO1IowJ8bDO3hlsMs) | 2:52 |
+| 50 | [トンデモワンダーズ](https://open.spotify.com/track/3jmQnsr4YxDIrCJ7GbE7vM) | [sasakure.UK](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1) | [トンデモワンダーズ](https://open.spotify.com/album/533pE7WjeCHpdfs3jiSXbL) | 3:15 |
 
 Snapshot ID: `ZnFpYwAAAAAIHMGkdRv2Lkzu+dmYCf4g`

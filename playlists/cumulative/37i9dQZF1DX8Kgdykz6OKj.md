@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-418 songs - 23 hr 29 min
+419 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [God](https://open.spotify.com/track/4OupVhrfJq1Bz6Wj5WjgSn) | [JuJu Rogers](https://open.spotify.com/artist/2PC54ZJmhrs4XtbLRaE6MA), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [40 Acres N Sum Mula](https://open.spotify.com/album/4wotZuHVQRHiQDCVEmG7t8) | 5:13 | 2021-12-16 | 2022-07-27 |
 | [Good Vibrations](https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg) | [freekind.](https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV) | [Good Vibrations](https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit) | 3:36 | 2023-02-23 |  |
 | [Got Me Thinkin' \(feat\. Sparkz\)](https://open.spotify.com/track/47euMdzPz6bdj7EKPy369S) | [The Mouse Outfit](https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2), [Sparkz](https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf) | [Escape Music](https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH) | 3:43 | 2021-12-16 |  |
+| [GREEN LIGHT](https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [GREEN LIGHT](https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA) | 2:55 | 2024-11-08 |  |
 | [Green Line](https://open.spotify.com/track/5Ebu0lwiMFhempIKg1GUAk) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Green Line](https://open.spotify.com/album/4pZN0JVoQx3ikvl6qGzUH6) | 3:26 | 2022-03-17 | 2022-07-29 |
 | [Grown Man Sport](https://open.spotify.com/track/6dRj771QZr0KOQVwaB6ykM) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [InI](https://open.spotify.com/artist/5gv2yt9ii2nJ2tu39FPigj) | [Center of Attention](https://open.spotify.com/album/3r4RwwnQNkdwLfOcO7WReI) | 4:36 | 2021-12-16 | 2022-11-19 |
 | [Grown Man Sport](https://open.spotify.com/track/6hANdvhL9H7bkESqIVeVIZ) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [InI](https://open.spotify.com/artist/5gv2yt9ii2nJ2tu39FPigj) | [Center of Attention](https://open.spotify.com/album/2VXkgdiXFunIO581a4vqcR) | 4:36 | 2022-10-13 | 2024-04-19 |
@@ -252,7 +253,7 @@
 | [Mellow My Man](https://open.spotify.com/track/0bzFaHiymbvjmIDKf6XAbS) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3fr53Fq6cElPicmpKz9w1g) | 4:41 | 2024-01-24 | 2024-04-19 |
 | [Mellow My Man](https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz) | 4:41 | 2022-07-28 | 2024-01-25 |
 | [Memories Live](https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN) | [Reflection Eternal](https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC) | [Train Of Thought](https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx) | 3:58 | 2022-04-11 |  |
-| [Menthol \(Live\) \- Spotify Ten Version](https://open.spotify.com/track/2lmx9x5RWr6GQTMmxdwynb) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Cilvia Demo \- Spotify Ten \- 10th Anniversary Series](https://open.spotify.com/album/4vnluuwKQJwtUQ6U6wjh7T) | 3:13 | 2024-01-24 |  |
+| [Menthol \(Live\) \- Spotify Ten Version](https://open.spotify.com/track/2lmx9x5RWr6GQTMmxdwynb) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Cilvia Demo \- Spotify Ten \- 10th Anniversary Series](https://open.spotify.com/album/4vnluuwKQJwtUQ6U6wjh7T) | 3:13 | 2024-01-24 | 2024-11-10 |
 | [Midnight Schemes](https://open.spotify.com/track/6xPB98epJF3wqRObu8w0Ro) | [K\. Sparks](https://open.spotify.com/artist/24wsTHZ4EsAzPrgG4qIf3Z), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Palm Trees](https://open.spotify.com/album/5cFilTRRO7XTL1ZN3AjDKM) | 2:16 | 2022-06-13 |  |
 | [MIDST](https://open.spotify.com/track/53PNIzmsDfZZ7IxhSbvxz6) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [MIDST](https://open.spotify.com/album/2AUuYLf37fCO2FEnz3fVER) | 2:40 | 2024-03-08 | 2024-05-16 |
 | [Mind Blowin' \(feat\. Vinia Mojica\)](https://open.spotify.com/track/1foIqCKbgzB1czR3SgoEjK) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [Vinia Mojica](https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC) | [Soul Survivor](https://open.spotify.com/album/6aUbIlHtJf14LG1bdy8caf) | 5:04 | 2022-04-11 | 2022-12-18 |

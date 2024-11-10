@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-4,149 songs - 9 day 16 hr 59 min
+4,151 songs - 9 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1339,6 +1339,7 @@
 | [Full Of Love](https://open.spotify.com/track/2oz6sahR7yrfF2zxFEjucN) | [Alina Love](https://open.spotify.com/artist/6n3sIydc4YFxo8a9x5Xr49), [Svet](https://open.spotify.com/artist/4tmP9ZUyjTRZgjCnooFUP6) | [Full Of Love](https://open.spotify.com/album/1jbO2krTLRXtHnQ4AuME4w) | 3:12 | 2024-08-17 | 2024-08-29 |
 | [Fun In The Summer](https://open.spotify.com/track/6RW9NagrEFYqv5kPpUZ77X) | [Kato the Younger](https://open.spotify.com/artist/2zkqWMQf38KdXLlOeEs6NB) | [Fun In The Summer](https://open.spotify.com/album/1hIiQQCJ6u2nf7MtnLlCm7) | 3:10 | 2024-05-10 | 2024-05-23 |
 | [Funky Kingston](https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Funky Kingston](https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz) | 4:55 | 2023-07-20 |  |
+| [Further](https://open.spotify.com/track/5smeYjQ6i8SSKdbW2Hknrp) | [ERLY](https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I) | [Further](https://open.spotify.com/album/0c2CX0YVhH1DhCAp3IsIip) | 3:44 | 2024-11-09 |  |
 | [Further Away](https://open.spotify.com/track/1lvZILzA50uGrxy2rm2rlT) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x) | [Dangerous Diversion](https://open.spotify.com/album/3mTehsa895REJQ7XceuU3a) | 4:56 | 2020-05-22 | 2020-06-10 |
 | [Future](https://open.spotify.com/track/1du59daS2oeY8medsWkMV5) | [Erik Frank](https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p) | [Future](https://open.spotify.com/album/0QcIvjkrT35gQpcGA1fBo3) | 2:40 | 2023-08-30 | 2023-09-26 |
 | [Future Trippin](https://open.spotify.com/track/7qCv1lilDoVJUynmWyXUNP) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Future Trippin](https://open.spotify.com/album/5KuErZHMYkPyseDHHCdc2y) | 3:15 | 2020-06-10 | 2020-07-02 |
@@ -4056,6 +4057,7 @@
 | [Won't Let Me Go](https://open.spotify.com/track/6czi96br3hCvicDUrGNxJy) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Won't Let Me Go](https://open.spotify.com/album/4cXbTmMC5RfBmfuoUTB3CC) | 2:50 | 2021-03-26 | 2021-04-11 |
 | [Wonda](https://open.spotify.com/track/6TIJGSDHlyLgZ946iwY1Sh) | [T billion](https://open.spotify.com/artist/1uzO6JKf7IVav3T2PM3XIi) | [Wonda](https://open.spotify.com/album/0nJz6nouwaiYl5G3urmxDV) | 2:49 | 2024-04-05 | 2024-04-17 |
 | [Wonderboy \- LOUS Remix](https://open.spotify.com/track/2TRLyIStZJM4ll2g2N39WU) | [Jacob Sorenson](https://open.spotify.com/artist/1pHmvfaQOkeNiOAAQFN2fb), [Lous](https://open.spotify.com/artist/0UKOOyLWDEegrzyBSqcEcC) | [Wonderboy \(LOUS Remix\)](https://open.spotify.com/album/2ZOFns6zcapZN0S2WwYu5U) | 2:34 | 2022-08-19 | 2022-09-04 |
+| [Wonderful Girl](https://open.spotify.com/track/08NpEzFfxh6DXOhZN4plAU) | [Michael Dametto](https://open.spotify.com/artist/5iMF7zxzkmDSRIys2wL980) | [Wonderful Girl](https://open.spotify.com/album/2JlT8qTM50BUSpso4RTjU9) | 3:43 | 2024-11-09 |  |
 | [Wonderland Avenue](https://open.spotify.com/track/3iTsRPyevKbm6Z2LRcEfTN) | [Wereke](https://open.spotify.com/artist/3i1RcLt31GiJR97ngHknJj) | [Wonderland Avenue](https://open.spotify.com/album/1fq9LASuNA4aSJsVHTqjNG) | 2:45 | 2024-01-13 | 2024-01-22 |
 | [Work](https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:39 | 2020-08-20 | 2023-08-28 |
 | [Work For You](https://open.spotify.com/track/25asn75wN2XfSSsSvehD45) | [Joshua Thew](https://open.spotify.com/artist/3BAw5djzZW90BLlWnzf9yv) | [Work For You](https://open.spotify.com/album/6LsB526HPLg6i0jr69QMlS) | 3:20 | 2024-06-21 | 2024-07-03 |

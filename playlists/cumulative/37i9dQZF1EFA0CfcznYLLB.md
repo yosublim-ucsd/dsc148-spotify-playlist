@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-356 songs - 18 hr 46 min
+357 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [I Did](https://open.spotify.com/track/2SeyHPJ4ipziyFP8om22pU) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Feather](https://open.spotify.com/artist/31afWxT7ZjZO7BDtxNGZqg) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 4:06 | 2023-12-13 |  |
 | [I Do \(feat\. SZA\)](https://open.spotify.com/track/1f5PNhkNgUpvDEeZfcIlO1) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:20 | 2023-12-13 |  |
 | [I Got Time \(feat\. Shad Da God\)](https://open.spotify.com/track/7r0W7nDEtaeZCjB4KnF6l8) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Shad Da God](https://open.spotify.com/artist/2z1ZZSBRCNYjOZmUcA3rSQ) | [Slime & B](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) | 3:23 | 2023-12-13 | 2024-07-07 |
+| [I Promise](https://open.spotify.com/track/44zhUOvoGWRsV7D8hN1upZ) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Playoff](https://open.spotify.com/album/75U77vLys6DqabxF9abLAp) | 2:26 | 2024-11-09 |  |
 | [I Remember](https://open.spotify.com/track/3ZpX6hWAwnxY7pDZJm9Gcn) | [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [The Last Rocket](https://open.spotify.com/album/5XRCcUfwtLNQflDd9cfz4U) | 2:59 | 2023-12-13 |  |
 | [I Want War](https://open.spotify.com/track/7yn6VmqXSV92zaRdBY73zu) | [Konrad OldMoney](https://open.spotify.com/artist/2iUZ7aGjaOQ1aXVfkK4lfl), [Kanin](https://open.spotify.com/artist/0VCvyoaiTuhKsVSGlcV3Er), [EA SPORTS UFC](https://open.spotify.com/artist/1Gup2WmuAlyzTzznis0A4s), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [I Want War](https://open.spotify.com/album/4kgvJeUeG2yD2K8AyVLDoW) | 2:18 | 2023-12-13 |  |
 | [I'm Not Goin' \(feat\. Kevin Gates\)](https://open.spotify.com/track/79GYAkpRIEXZEEKSqufbj8) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Evil Genius](https://open.spotify.com/album/5xqQtdlJUY7Fg4BMp13LrX) | 3:16 | 2023-12-13 |  |

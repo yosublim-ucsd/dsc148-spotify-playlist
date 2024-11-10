@@ -1,6 +1,6 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover: Tedua",
-  "num_followers": 124485,
+  "num_followers": 124481,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-10-24 22:01:00",
       "album": {
-        "name": "Respiro",
-        "url": "https://open.spotify.com/album/45ZXo91lK7a6x2lylI6siL"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 155200,
-      "name": "Respiro",
-      "url": "https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc"
-    },
-    {
-      "added_at": "2024-10-24 22:01:00",
-      "album": {
         "name": "PLAZA",
         "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 192786,
       "name": "Non Fare Cos\u00ec",
       "url": "https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa"
+    },
+    {
+      "added_at": "2024-10-24 22:01:00",
+      "album": {
+        "name": "Respiro",
+        "url": "https://open.spotify.com/album/45ZXo91lK7a6x2lylI6siL"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 155200,
+      "name": "Respiro",
+      "url": "https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc"
     },
     {
       "added_at": "2024-10-24 22:01:00",
@@ -1143,18 +1143,26 @@
     {
       "added_at": "2024-10-24 22:01:00",
       "album": {
-        "name": "GVESVS",
-        "url": "https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL"
+        "name": "Mattoni",
+        "url": "https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf"
       },
       "artists": [
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         }
       ],
-      "duration_ms": 194106,
-      "name": "Veleno",
-      "url": "https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi"
+      "duration_ms": 194861,
+      "name": "Prometto (feat. Rkomi & Luch\u00e8)",
+      "url": "https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA"
     }
   ],
   "unique_name": "Arsenico ",

@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 10084,
+  "num_followers": 10098,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-10-08 11:10:23",
       "album": {
+        "name": "Winter Dance",
+        "url": "https://open.spotify.com/album/1hQYl7k6EHentNVr0xtOCR"
+      },
+      "artists": [
+        {
+          "name": "Wynn",
+          "url": "https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI"
+        }
+      ],
+      "duration_ms": 165504,
+      "name": "Winter Dance",
+      "url": "https://open.spotify.com/track/5rxDVckgeq3uFGyxGfzjMo"
+    },
+    {
+      "added_at": "2024-10-08 11:10:23",
+      "album": {
         "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
         "url": "https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ"
       },
@@ -587,18 +603,18 @@
     {
       "added_at": "2024-10-08 11:10:23",
       "album": {
-        "name": "Winter Dance",
-        "url": "https://open.spotify.com/album/1hQYl7k6EHentNVr0xtOCR"
+        "name": "Secret (From \"Going to You at a Speed of 493km\" [Original Soundtrack]), Pt.2",
+        "url": "https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2"
       },
       "artists": [
         {
-          "name": "Wynn",
-          "url": "https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI"
+          "name": "Yun DDanDDan",
+          "url": "https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt"
         }
       ],
-      "duration_ms": 165504,
-      "name": "Winter Dance",
-      "url": "https://open.spotify.com/track/5rxDVckgeq3uFGyxGfzjMo"
+      "duration_ms": 191625,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0"
     },
     {
       "added_at": "2024-10-08 11:10:23",
@@ -643,22 +659,6 @@
       "duration_ms": 173124,
       "name": "\uc654\ub2e4 \uac14\ub2e4 (feat. Hoody)",
       "url": "https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y"
-    },
-    {
-      "added_at": "2024-10-08 11:10:23",
-      "album": {
-        "name": "Secret (From \"Going to You at a Speed of 493km\" [Original Soundtrack]), Pt.2",
-        "url": "https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2"
-      },
-      "artists": [
-        {
-          "name": "Yun DDanDDan",
-          "url": "https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt"
-        }
-      ],
-      "duration_ms": 191625,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0"
     },
     {
       "added_at": "2024-10-08 11:10:23",

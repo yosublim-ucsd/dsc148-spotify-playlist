@@ -1,33 +1,13 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 162497,
+  "num_followers": 162511,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZywDAAAAAACeSC558UUwnkRJVqPz1EZ1",
+  "snapshot_id": "Zy1UgAAAAADfRojh98OMJwBxgjT2pRRp",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chelas",
-        "url": "https://open.spotify.com/album/1f4GKTogkgEWUjcqDhBRMz"
-      },
-      "artists": [
-        {
-          "name": "Sara Correia",
-          "url": "https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Chelas",
-      "url": "https://open.spotify.com/track/1F5fQlcfAXZelz5Y47MQbJ"
-    },
     {
       "added_at": null,
       "album": {
@@ -543,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coisa Boa",
+        "url": "https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Coisa Boa",
+      "url": "https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Presente do C\u00e9u",
         "url": "https://open.spotify.com/album/0QmzwHqNp2HToWwJtywIDu"
       },
@@ -559,22 +555,6 @@
       "duration_ms": 253932,
       "name": "Presente do C\u00e9u",
       "url": "https://open.spotify.com/track/6KkAL46I43zqQEK2LNH0pJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coisa Boa",
-        "url": "https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Coisa Boa",
-      "url": "https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg"
     },
     {
       "added_at": null,
@@ -899,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Suplicar",
+        "url": "https://open.spotify.com/album/1rbmSJSM5ie2j5zIH7Nf0X"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 186382,
+      "name": "Suplicar",
+      "url": "https://open.spotify.com/track/2HmwK2dChMGAOv3gd2HQiN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -919,22 +915,6 @@
       "duration_ms": 183206,
       "name": "AO SOM DO TUIM",
       "url": "https://open.spotify.com/track/4hpT0bP4YI71vGQN51ikMz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suplicar",
-        "url": "https://open.spotify.com/album/1rbmSJSM5ie2j5zIH7Nf0X"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 186382,
-      "name": "Suplicar",
-      "url": "https://open.spotify.com/track/2HmwK2dChMGAOv3gd2HQiN"
     },
     {
       "added_at": null,

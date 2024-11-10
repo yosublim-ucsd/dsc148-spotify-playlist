@@ -1,12 +1,12 @@
 {
   "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 252716,
+  "num_followers": 252918,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZywDAAAAAAANUfsZ0VD2a74+9Q7hZAQh",
+  "snapshot_id": "Zy1UgAAAAAD2Alp2Ov8NlJnW2S/i0wA8",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 127186,
-      "name": "Full",
-      "url": "https://open.spotify.com/track/7M1HQslmDuV74HqOLTIMoh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 124680,
       "name": "C\u00f3mo Est\u00e1s T\u00fa",
       "url": "https://open.spotify.com/track/4XlXcQZQrNJdsVjJX4ZWIy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 241029,
+      "name": "Ni Te Conozco, Ni Me Saludes",
+      "url": "https://open.spotify.com/track/4ybR1EefMYDu8n2onlvid9"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 241029,
-      "name": "Ni Te Conozco, Ni Me Saludes",
-      "url": "https://open.spotify.com/track/4ybR1EefMYDu8n2onlvid9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Reca\u00edda en Los Excesos",
         "url": "https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9"
       },
@@ -595,22 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Sabes La Que Te Espera",
-        "url": "https://open.spotify.com/album/7EHtKlwFa7ps7OTCR2ZqCA"
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
       },
       "artists": [
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
         }
       ],
-      "duration_ms": 161000,
-      "name": "No Sabes La Que Te Espera",
-      "url": "https://open.spotify.com/track/0ueX8kma8wlUPPDfNnTLzL"
+      "duration_ms": 127186,
+      "name": "Full",
+      "url": "https://open.spotify.com/track/7M1HQslmDuV74HqOLTIMoh"
     },
     {
       "added_at": null,
@@ -635,18 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
+        "name": "No Sabes La Que Te Espera",
+        "url": "https://open.spotify.com/album/7EHtKlwFa7ps7OTCR2ZqCA"
       },
       "artists": [
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
         }
       ],
-      "duration_ms": 245846,
-      "name": "Mi Lugar Favorito",
-      "url": "https://open.spotify.com/track/1gYG0DmOex4cswuejfN1H1"
+      "duration_ms": 161000,
+      "name": "No Sabes La Que Te Espera",
+      "url": "https://open.spotify.com/track/0ueX8kma8wlUPPDfNnTLzL"
     },
     {
       "added_at": null,
@@ -663,6 +647,22 @@
       "duration_ms": 254000,
       "name": "Sangoloteadito - En Vivo",
       "url": "https://open.spotify.com/track/1YccRG4LRtwmfQApetIieU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 245846,
+      "name": "Mi Lugar Favorito",
+      "url": "https://open.spotify.com/track/1gYG0DmOex4cswuejfN1H1"
     },
     {
       "added_at": null,

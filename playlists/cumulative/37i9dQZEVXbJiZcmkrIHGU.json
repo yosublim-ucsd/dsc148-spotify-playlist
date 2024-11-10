@@ -2554,7 +2554,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -6778,7 +6778,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy"
@@ -7695,6 +7695,24 @@
     },
     {
       "album": {
+        "name": "Mr. Untouchable",
+        "url": "https://open.spotify.com/album/0TCy0FRoGFO3D3VllAcaCz"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151293,
+      "name": "Blanco",
+      "url": "https://open.spotify.com/track/0bVhjx0oZ2pUCOnnhbX115"
+    },
+    {
+      "album": {
         "name": "Blanco",
         "url": "https://open.spotify.com/album/240k016C0Y5yZ6HBbiXe0W"
       },
@@ -7706,7 +7724,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 151293,
       "name": "Blanco",
       "url": "https://open.spotify.com/track/4rA41YUfp4ZXdmbBoiDJhG"
@@ -15580,7 +15598,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 135082,
       "name": "eehhhyyy",
       "url": "https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq"
@@ -16040,7 +16058,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 104418,
       "name": "Embrace It",
       "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
@@ -16824,7 +16842,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -17844,6 +17862,24 @@
       "duration_ms": 456933,
       "name": "Family Matters",
       "url": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
+    },
+    {
+      "album": {
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/3Abw9UTsnzAEEf3nC87Lvx"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164585,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/1v1cijv1qjMJ5o9OvMWACS"
     },
     {
       "album": {
@@ -20383,6 +20419,28 @@
     },
     {
       "album": {
+        "name": "Garten vorm Haus",
+        "url": "https://open.spotify.com/album/68ia6GzIsyt8c432HeagAn"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        },
+        {
+          "name": "Maxe",
+          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114705,
+      "name": "Garten vorm Haus",
+      "url": "https://open.spotify.com/track/6NOtUjLWOJdXLqB08t62uI"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -21886,7 +21944,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -22981,6 +23039,44 @@
     },
     {
       "album": {
+        "name": "HARBI KURDI",
+        "url": "https://open.spotify.com/album/4XLVHoeLjUOpbrm13iaAvz"
+      },
+      "artists": [
+        {
+          "name": "SHABAB",
+          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
+        },
+        {
+          "name": "Kurdo",
+          "url": "https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i"
+        },
+        {
+          "name": "BERDO",
+          "url": "https://open.spotify.com/artist/3qcaaPlAej44awNYKTTXCw"
+        },
+        {
+          "name": "AK AUSSERKONTROLLE",
+          "url": "https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw"
+        },
+        {
+          "name": "KARDO",
+          "url": "https://open.spotify.com/artist/3NZPZUWDcJngcu8MuBpT69"
+        },
+        {
+          "name": "VOLO",
+          "url": "https://open.spotify.com/artist/0PPCPsuv0iOAYKGR2SkFal"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170476,
+      "name": "HARBI KURDI",
+      "url": "https://open.spotify.com/track/1nx2buw1OMO7zPUhDWOjtc"
+    },
+    {
+      "album": {
         "name": "hausflur",
         "url": "https://open.spotify.com/album/1edD0IzK7r5KxKtNlWVgPa"
       },
@@ -23882,7 +23978,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 170936,
       "name": "Hoodie Hoodie",
       "url": "https://open.spotify.com/track/4DvJL9DY4YIL2b5tLTZMy7"
@@ -25011,6 +25107,24 @@
     },
     {
       "album": {
+        "name": "Mr. Untouchable",
+        "url": "https://open.spotify.com/album/0TCy0FRoGFO3D3VllAcaCz"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149799,
+      "name": "Ich bring dir keine Blumen",
+      "url": "https://open.spotify.com/track/4WzMfpZwQoYdwe6W5BT1rg"
+    },
+    {
+      "album": {
         "name": "Ich bring dir keine Blumen",
         "url": "https://open.spotify.com/album/1xQWMRbUYJjFtW90WLucia"
       },
@@ -25022,7 +25136,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 150000,
       "name": "Ich bring dir keine Blumen",
       "url": "https://open.spotify.com/track/4oevkKHMUdSJkCspP2ebAE"
@@ -28905,6 +29019,28 @@
     },
     {
       "album": {
+        "name": "Kiwi",
+        "url": "https://open.spotify.com/album/5Z4He35sjJkx9cbErQxXsy"
+      },
+      "artists": [
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "Filow",
+          "url": "https://open.spotify.com/artist/0BRUlYcw8Rr4MGHe8kRgTv"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186880,
+      "name": "Kiwi",
+      "url": "https://open.spotify.com/track/6ifcs99NH85AkiU7KqjzIN"
+    },
+    {
+      "album": {
         "name": "High & Hungrig 3",
         "url": "https://open.spotify.com/album/5GhY9fvnvljahZOM4tWkHD"
       },
@@ -29673,6 +29809,24 @@
     },
     {
       "album": {
+        "name": "Mr. Untouchable",
+        "url": "https://open.spotify.com/album/0TCy0FRoGFO3D3VllAcaCz"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136371,
+      "name": "Lamine",
+      "url": "https://open.spotify.com/track/4Fjfqk9NoOYRl1w863xrXo"
+    },
+    {
+      "album": {
         "name": "Folge 2 - GHETTO HOUSE",
         "url": "https://open.spotify.com/album/28yC4bs0AjDRMiHcrIPSN8"
       },
@@ -29928,7 +30082,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 265960,
       "name": "Last Christmas - Single Version",
       "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
@@ -32537,6 +32691,24 @@
     },
     {
       "album": {
+        "name": "Ma Baby",
+        "url": "https://open.spotify.com/album/4iflwnxuZ3RUUsnR2q0XzA"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Ma Baby",
+      "url": "https://open.spotify.com/track/4495xO2HkmqoYIxQO2FvAH"
+    },
+    {
+      "album": {
         "name": "Ma Boo",
         "url": "https://open.spotify.com/album/25Czgzhkp0nUcH5GGPgqEP"
       },
@@ -33250,6 +33422,24 @@
       "duration_ms": 132702,
       "name": "MANCHESTER",
       "url": "https://open.spotify.com/track/1e2dv35yQh0yNKyZ6Nmw4h"
+    },
+    {
+      "album": {
+        "name": "Manchmal",
+        "url": "https://open.spotify.com/album/2HRMladOnjtIZcpDQF0wAy"
+      },
+      "artists": [
+        {
+          "name": "KC Rebell",
+          "url": "https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Manchmal",
+      "url": "https://open.spotify.com/track/4JJQyGWn7U6UfvWgAqU4Y1"
     },
     {
       "album": {
@@ -34857,6 +35047,24 @@
     },
     {
       "album": {
+        "name": "MILLION\u00c4R",
+        "url": "https://open.spotify.com/album/1FDczscZAeflukKwXUPmj5"
+      },
+      "artists": [
+        {
+          "name": "KALIM",
+          "url": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140405,
+      "name": "MILLION\u00c4R",
+      "url": "https://open.spotify.com/track/12J9yNqRPLxaQHF4R1l4u5"
+    },
+    {
+      "album": {
         "name": "Million\u00e4r",
         "url": "https://open.spotify.com/album/3C0Z7ww2Fhw1FENZy8yRGZ"
       },
@@ -35306,7 +35514,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 179106,
       "name": "Mittelmeer",
       "url": "https://open.spotify.com/track/6leQi7NakJQS1vHRtZsroe"
@@ -36682,6 +36890,28 @@
       "duration_ms": 153500,
       "name": "MULTI-KRMNL",
       "url": "https://open.spotify.com/track/5eG16t3qHmYNg9cwoC7PhG"
+    },
+    {
+      "album": {
+        "name": "MURAKAMI",
+        "url": "https://open.spotify.com/album/4NVsfiFwEXlewPFjMB8bjo"
+      },
+      "artists": [
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        },
+        {
+          "name": "BILLA JOE",
+          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138305,
+      "name": "MURAKAMI",
+      "url": "https://open.spotify.com/track/3gTLaJJbieHBrti47DXTUo"
     },
     {
       "album": {
@@ -38994,7 +39224,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 187520,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
@@ -39290,6 +39520,28 @@
       "duration_ms": 220584,
       "name": "n\u00e9e-nah",
       "url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz"
+    },
+    {
+      "album": {
+        "name": "N\u00dcCHTERN",
+        "url": "https://open.spotify.com/album/7xKFVx6gSDKbJSfR9bPe3X"
+      },
+      "artists": [
+        {
+          "name": "badchieff",
+          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
+        },
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195125,
+      "name": "N\u00dcCHTERN",
+      "url": "https://open.spotify.com/track/1uUo1d1amOQEfjOWirEw5Q"
     },
     {
       "album": {
@@ -40446,7 +40698,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 170445,
       "name": "Over Each Other",
       "url": "https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe"
@@ -40665,6 +40917,32 @@
     },
     {
       "album": {
+        "name": "PAH",
+        "url": "https://open.spotify.com/album/17jKTnCewthy0UdWodQ9kc"
+      },
+      "artists": [
+        {
+          "name": "Farid Bang",
+          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
+        },
+        {
+          "name": "CAPO",
+          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
+        },
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214343,
+      "name": "PAH",
+      "url": "https://open.spotify.com/track/4CzrI2PCRWtQn2L5TNRg6o"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
       },
@@ -40774,7 +41052,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 157135,
       "name": "Panama",
       "url": "https://open.spotify.com/track/3qcreqi8RaGqahtJSQDxNI"
@@ -45646,6 +45924,24 @@
       "duration_ms": 162000,
       "name": "Sag mir nicht",
       "url": "https://open.spotify.com/track/371MFG2sPTPhC9b3LQXmiv"
+    },
+    {
+      "album": {
+        "name": "Sag mir was ich nicht wei\u00df",
+        "url": "https://open.spotify.com/album/51M0w9KedzR3r9OtdMSgg3"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166406,
+      "name": "Sag mir was ich nicht wei\u00df",
+      "url": "https://open.spotify.com/track/2YgHhD3Tuifloa4ju1N0g2"
     },
     {
       "album": {
@@ -50620,7 +50916,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -50788,6 +51084,24 @@
       "duration_ms": 142860,
       "name": "Tag und Nacht (feat. Aymen)",
       "url": "https://open.spotify.com/track/6niq3SedJHEEaTEbBv4mzq"
+    },
+    {
+      "album": {
+        "name": "Tagebuch",
+        "url": "https://open.spotify.com/album/2kAi6TVAoClyBc0QkAbYgU"
+      },
+      "artists": [
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161451,
+      "name": "Tagebuch",
+      "url": "https://open.spotify.com/track/0pWWXHcu4GbLCZhNHKvBWp"
     },
     {
       "album": {
@@ -54392,7 +54706,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -57278,6 +57592,24 @@
       "duration_ms": 173710,
       "name": "Wenn du mich siehst",
       "url": "https://open.spotify.com/track/3hxJ3qXqg8ysYBF1QmO8Ir"
+    },
+    {
+      "album": {
+        "name": "Wenn du mich siehst",
+        "url": "https://open.spotify.com/album/6EXySHJrVxmQesnBkNUCe2"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161237,
+      "name": "Wenn du mich siehst",
+      "url": "https://open.spotify.com/track/4utjEtHZpJmCqdD9KtpBJi"
     },
     {
       "album": {

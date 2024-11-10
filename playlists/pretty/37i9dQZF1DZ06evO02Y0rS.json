@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 159578,
+  "num_followers": 159588,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZywDAAAAAAAVnuGF6201ZTa2+EFBHbbS",
+  "snapshot_id": "Zy1UgAAAAAClHE2XkApUDozRQ0V63UmU",
   "tracks": [
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 237546,
-      "name": "Kerala",
-      "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
+      "duration_ms": 223720,
+      "name": "Second Sun",
+      "url": "https://open.spotify.com/track/16ikmfoT1249gG3pzPvnYt"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 223720,
-      "name": "Second Sun",
-      "url": "https://open.spotify.com/track/16ikmfoT1249gG3pzPvnYt"
+      "duration_ms": 237546,
+      "name": "Kerala",
+      "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
     },
     {
       "added_at": null,
@@ -471,18 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The North Borders",
-        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
       },
       "artists": [
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Innov Gnawa",
+          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
         }
       ],
-      "duration_ms": 243780,
-      "name": "Ten Tigers",
-      "url": "https://open.spotify.com/track/5xz5dUtU2xooSP75BwRJ3H"
+      "duration_ms": 302428,
+      "name": "Bambro Koyo Ganda",
+      "url": "https://open.spotify.com/track/5EGJ7e7frJjYja6H4afzoT"
     },
     {
       "added_at": null,
@@ -519,22 +523,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
+        "name": "The North Borders",
+        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
       },
       "artists": [
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Innov Gnawa",
-          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
         }
       ],
-      "duration_ms": 302428,
-      "name": "Bambro Koyo Ganda",
-      "url": "https://open.spotify.com/track/5EGJ7e7frJjYja6H4afzoT"
+      "duration_ms": 243780,
+      "name": "Ten Tigers",
+      "url": "https://open.spotify.com/track/5xz5dUtU2xooSP75BwRJ3H"
     },
     {
       "added_at": null,

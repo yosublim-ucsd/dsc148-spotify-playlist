@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Kep1er The 6th Mini Album <TIPI-TAP>",
+        "url": "https://open.spotify.com/album/1mNCEsMLc2YkZt22rhNdg7"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148746,
+      "name": "Drip",
+      "url": "https://open.spotify.com/track/6x8WE23eSl8mLFiI0JqYWZ"
+    },
+    {
+      "album": {
         "name": "Ego Rush",
         "url": "https://open.spotify.com/album/6PUUdGSQCZs1bu30g5fUac"
       },

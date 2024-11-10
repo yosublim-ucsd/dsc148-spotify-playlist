@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1513374,
+  "num_followers": 1513401,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Ac\u00fastico MTV",
-        "url": "https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
-        }
-      ],
-      "duration_ms": 296773,
-      "name": "Os Cegos do Castelo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Kayf37CYgsWqgkWMTHZPu"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Se fosse t\u00e3o f\u00e1cil (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7JdKZ7Ve0q242f1ljpi4c9"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 198193,
       "name": "Se fosse t\u00e3o f\u00e1cil - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4IuWJzJRVZyyjyxcDdzpaE"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Ac\u00fastico MTV",
+        "url": "https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "duration_ms": 296773,
+      "name": "Os Cegos do Castelo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Kayf37CYgsWqgkWMTHZPu"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -307,6 +307,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Tempo Perdido (Vers\u00e3o Os Dias Eram Assim)",
+        "url": "https://open.spotify.com/album/7t5ScMLW7t6WIa5F1VRvNN"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 208470,
+      "name": "Tempo Perdido (Vers\u00e3o Os Dias Eram Assim)",
+      "url": "https://open.spotify.com/track/5nJNdtx7ZtkNRKiYdhb87Z"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Deixe Me Ir (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 213191,
       "name": "Deixe Me Ir - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Tempo Perdido (Vers\u00e3o Os Dias Eram Assim)",
-        "url": "https://open.spotify.com/album/7t5ScMLW7t6WIa5F1VRvNN"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 208470,
-      "name": "Tempo Perdido (Vers\u00e3o Os Dias Eram Assim)",
-      "url": "https://open.spotify.com/track/5nJNdtx7ZtkNRKiYdhb87Z"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Amei Te Ver",
+        "url": "https://open.spotify.com/album/3jxnoPOwV9Dc0PRzhz442o"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 254096,
+      "name": "Amei Te Ver - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0bX2gnECXZJ5nt7rcIZMVM"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Perdoa",
         "url": "https://open.spotify.com/album/3xe8Wut7JdhvJEgOQ9V0n6"
       },
@@ -499,22 +515,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Amei Te Ver",
-        "url": "https://open.spotify.com/album/3jxnoPOwV9Dc0PRzhz442o"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 254096,
-      "name": "Amei Te Ver - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/0bX2gnECXZJ5nt7rcIZMVM"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Quase Sem Querer",
         "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
       },
@@ -527,22 +527,6 @@
       "duration_ms": 216842,
       "name": "Quase Sem Querer",
       "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Mande um Sinal (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 238374,
-      "name": "Mande um Sinal - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3YlRl5CQICgg17tb6rIXXB"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -567,6 +551,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Mande um Sinal (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 238374,
+      "name": "Mande um Sinal - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3YlRl5CQICgg17tb6rIXXB"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Andarilho",
         "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
       },
@@ -579,38 +579,6 @@
       "duration_ms": 230160,
       "name": "Andarilho",
       "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Ac\u00fastico MTV Tiago Iorc (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3Tf4vmSc5PYcpmwZUSLEJV"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "Coisa Linda - Ao Vivo",
-      "url": "https://open.spotify.com/track/28zoeQs3irocvhOBZAc81h"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 189005,
-      "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -651,6 +619,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Ac\u00fastico MTV Tiago Iorc (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Tf4vmSc5PYcpmwZUSLEJV"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "Coisa Linda - Ao Vivo",
+      "url": "https://open.spotify.com/track/28zoeQs3irocvhOBZAc81h"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "V\u00ea Se N\u00e3o Me Esquece Mais",
         "url": "https://open.spotify.com/album/5UPRYphdZKvDysG65y8Ecy"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 161255,
       "name": "V\u00ea Se N\u00e3o Me Esquece Mais",
       "url": "https://open.spotify.com/track/6Cm9ESWYCTs5eCqLzsRFgW"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 189005,
+      "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Original Brasil",
-        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Boca Com Boca",
-      "url": "https://open.spotify.com/track/7ADZdtgSSqnq3cYxMM07zq"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 230772,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
       "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Original Brasil",
+        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Boca Com Boca",
+      "url": "https://open.spotify.com/track/7ADZdtgSSqnq3cYxMM07zq"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Energia Surreal (Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/4sEHq6Ma5vgTsuDTLKK8lc"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 177481,
-      "name": "Energia Surreal - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6liKLBAIOXGFuKONLG3PIs"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Maia Sessions",
         "url": "https://open.spotify.com/album/3024KSsAnstAOJNtGL85OS"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 137960,
       "name": "Cigana (Maia Sessions)",
       "url": "https://open.spotify.com/track/4dzw5gijTCD6kQNLJP3fQH"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Energia Surreal (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/4sEHq6Ma5vgTsuDTLKK8lc"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 177481,
+      "name": "Energia Surreal - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6liKLBAIOXGFuKONLG3PIs"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1059,18 +1059,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Linguagem N\u00e3o Verbal",
-        "url": "https://open.spotify.com/album/7oXCbPmUEkzokpSDVHjMj5"
+        "name": "Gostosin (Acoustic)",
+        "url": "https://open.spotify.com/album/5Y9ZE9LqRP3idUKiygwgSy"
       },
       "artists": [
         {
-          "name": "MENSANA",
-          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        },
+        {
+          "name": "Ventura",
+          "url": "https://open.spotify.com/artist/0awYrHoDgY7bTDlAb3wGuF"
         }
       ],
-      "duration_ms": 201500,
-      "name": "Linguagem N\u00e3o Verbal",
-      "url": "https://open.spotify.com/track/4aCUUcW7FVCCunRs33l2rh"
+      "duration_ms": 180333,
+      "name": "Gostosin (Acoustic)",
+      "url": "https://open.spotify.com/track/7zUSQpCMIWnoyFEZktrE6x"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1091,22 +1095,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Gostosin (Acoustic)",
-        "url": "https://open.spotify.com/album/5Y9ZE9LqRP3idUKiygwgSy"
+        "name": "Linguagem N\u00e3o Verbal",
+        "url": "https://open.spotify.com/album/7oXCbPmUEkzokpSDVHjMj5"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        },
-        {
-          "name": "Ventura",
-          "url": "https://open.spotify.com/artist/0awYrHoDgY7bTDlAb3wGuF"
+          "name": "MENSANA",
+          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
         }
       ],
-      "duration_ms": 180333,
-      "name": "Gostosin (Acoustic)",
-      "url": "https://open.spotify.com/track/7zUSQpCMIWnoyFEZktrE6x"
+      "duration_ms": 201500,
+      "name": "Linguagem N\u00e3o Verbal",
+      "url": "https://open.spotify.com/track/4aCUUcW7FVCCunRs33l2rh"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "J\u00fapiter (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2wfBHHWPIKP2P2gZAgGYmf"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 136208,
+      "name": "J\u00fapiter - Ao Vivo",
+      "url": "https://open.spotify.com/track/5NMbXBzFfavfYSMY7LBRsP"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
         "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 166000,
       "name": "Morena (Acoustic Version)",
       "url": "https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "J\u00fapiter (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2wfBHHWPIKP2P2gZAgGYmf"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 136208,
-      "name": "J\u00fapiter - Ao Vivo",
-      "url": "https://open.spotify.com/track/5NMbXBzFfavfYSMY7LBRsP"
     },
     {
       "added_at": "2024-08-02 18:37:00",

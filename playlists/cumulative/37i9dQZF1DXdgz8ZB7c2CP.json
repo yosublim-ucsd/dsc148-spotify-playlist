@@ -5475,6 +5475,32 @@
     },
     {
       "album": {
+        "name": "Finally (Remixes)",
+        "url": "https://open.spotify.com/album/0XTZvzer3KdFbsIx7YDgfg"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "YARO",
+          "url": "https://open.spotify.com/artist/0eQVzVjmhZ3c7cXrIKJFOK"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196744,
+      "name": "Finally (with Alicia Keys) - YARO Remix",
+      "url": "https://open.spotify.com/track/2fyGtldDGBOAktZSstQxIM"
+    },
+    {
+      "album": {
         "name": "Ameliorate",
         "url": "https://open.spotify.com/album/0YgEV4Zxspzy76b4a3aHcc"
       },
@@ -7170,7 +7196,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 246893,
       "name": "Highlight - jigitz Remix",
       "url": "https://open.spotify.com/track/0S2M1qkve0r09dvQw4WmbE"

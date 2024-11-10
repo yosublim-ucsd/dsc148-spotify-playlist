@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,004 songs - 4 day 11 hr 35 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,005 songs - 4 day 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2012,5 +2012,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2002 | [Kinda Like It That Way](https://open.spotify.com/track/3sJZX0uLZkJYXOsULRJAq7) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 2:51 |
 | 2003 | [Leni \(Crystal Castles vs GoodBooks\)](https://open.spotify.com/track/6slWUMiyoNNWcQGu6tkTlH) | [GoodBooks](https://open.spotify.com/artist/0pwItbAKmeSTovWzxzkkbg), [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Control Freaks \(The Remixes\)](https://open.spotify.com/album/4lPBSP3DIiXn2ktREAsoHw) | 4:16 |
 | 2004 | [Fast Life](https://open.spotify.com/track/5u1vw4nmCG8iuerg6ppBf0) | [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5), [India Shan](https://open.spotify.com/artist/5U7ed4eqjReC376kSJKfs8) | [Fast Life](https://open.spotify.com/album/0yJzvNLSI3clU0lZGoqrVn) | 2:21 |
+| 2005 | [Baby G](https://open.spotify.com/track/4n4doJ9RMuarUvkSjwcF7U) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 4:31 |
 
-Snapshot ID: `AAADiL8Z1k8Jg4689J/ktDt6F58sMksr`
+Snapshot ID: `AAADiyNL8TO26mUClN4O5ckAW7hIWeVq`

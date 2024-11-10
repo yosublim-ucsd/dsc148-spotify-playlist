@@ -1512,7 +1512,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 163278,
       "name": "I GOT U",
       "url": "https://open.spotify.com/track/39uQdNywrxrH1ZjfOFc72n"
@@ -2426,6 +2426,24 @@
       "duration_ms": 95783,
       "name": "One Time",
       "url": "https://open.spotify.com/track/17MhO4CkAL6qWy6jxO9B6a"
+    },
+    {
+      "album": {
+        "name": "ParisLove",
+        "url": "https://open.spotify.com/album/60Evg5wOVFEI0PH4XKersZ"
+      },
+      "artists": [
+        {
+          "name": "FORTUNA 812",
+          "url": "https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109870,
+      "name": "ParisLove",
+      "url": "https://open.spotify.com/track/6zECxDYlNtEybq8hZ9Tp12"
     },
     {
       "album": {
@@ -3477,6 +3495,24 @@
     },
     {
       "album": {
+        "name": "MUSE (WANDER ver.)",
+        "url": "https://open.spotify.com/album/4wfwJUghbK2z2iaz65U7VS"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166809,
+      "name": "Who (Shibuyakei Remix)",
+      "url": "https://open.spotify.com/track/1ySWoGgrduSzvtJ3PUzO41"
+    },
+    {
+      "album": {
         "name": "The Eminem Show",
         "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
       },
@@ -3536,6 +3572,24 @@
       "duration_ms": 112500,
       "name": "Zachem",
       "url": "https://open.spotify.com/track/1tpgY6cqm5s0HdKwiqpliF"
+    },
+    {
+      "album": {
+        "name": "zitraks mode",
+        "url": "https://open.spotify.com/album/5jifypo54feKFBJLPzAmP0"
+      },
+      "artists": [
+        {
+          "name": "shadowraze",
+          "url": "https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122643,
+      "name": "zitraks mode",
+      "url": "https://open.spotify.com/track/6vIOPzEgSzf0nv7nKutxlz"
     },
     {
       "album": {
@@ -4272,7 +4326,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 140800,
       "name": "\u0414\u0430\u0439 \u041c\u043d\u0435 \u0428\u0430\u043d\u0441",
       "url": "https://open.spotify.com/track/5mE3uSxYQu5QfCyPVubftA"
@@ -4924,7 +4978,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 180323,
       "name": "\u041b\u0438\u0437\u0430",
       "url": "https://open.spotify.com/track/69E0PXED6MvClnqED4d7f5"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 秦 基博 + 草野マサムネ \*👉 <a href="https://spice.eplus.jp/articles/333214?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,734 likes - 95 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,745 likes - 95 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

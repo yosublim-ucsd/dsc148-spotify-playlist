@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 84,616 likes - 150 songs - 7 hr 41 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 84,632 likes - 150 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 | 20 | [Damaru](https://open.spotify.com/track/0phauLON2YMdn7EJBxy22K) | [Diego Miranda](https://open.spotify.com/artist/58La32UtamIpPg8Ajm6FE6), [Mëlbëc](https://open.spotify.com/artist/1sheUnPKG2ZarLC6f1MstP) | [Damaru](https://open.spotify.com/album/4H89g4DpPpX9lxxkjLCsIZ) | 3:31 |
 | 21 | [My Love](https://open.spotify.com/track/7eEBF6miPhzP8Ip8ebfpZf) | [Wonbeat & Purpose](https://open.spotify.com/artist/56vtgvhkyS8BNB2RXoskfb) | [My Love](https://open.spotify.com/album/2R1VhIIQyKpX8ieXxvx8Ox) | 2:23 |
 | 22 | [Reality](https://open.spotify.com/track/5FDLBL5PJKSXdMsMIU7FRw) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem) | [Reality](https://open.spotify.com/album/4VVZ1mVS2f9erPqAQhVoXh) | 2:19 |
-| 23 | [Fields Of Gold](https://open.spotify.com/track/4qBai1uujncH1mSGRGFsT8) | [Mydn](https://open.spotify.com/artist/7codSMNNqXVVHJ6zIuUo6g), [okafuwa](https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj), [Protocol Lab](https://open.spotify.com/artist/06JAfjaLQglgC2iiRBSkKr) | [Fields Of Gold](https://open.spotify.com/album/4YVhrXkAX7LB66tG62TsC6) | 3:04 |
+| 23 | [Fields Of Gold](https://open.spotify.com/track/4qBai1uujncH1mSGRGFsT8) | [Mydn](https://open.spotify.com/artist/7codSMNNqXVVHJ6zIuUo6g), [okafuwa](https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj) | [Fields Of Gold](https://open.spotify.com/album/4YVhrXkAX7LB66tG62TsC6) | 3:04 |
 | 24 | [I Am Not Alone](https://open.spotify.com/track/71XHLubd7jxAdg2c74rM1k) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [I Am Not Alone](https://open.spotify.com/album/55lxLinhvBw7i98d54VeXn) | 3:17 |
 | 25 | [The Neon City](https://open.spotify.com/track/4oRgXJJQ81F6WbPPXvM2IM) | [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1), [Qwerty](https://open.spotify.com/artist/1zy8SA3oy5HdFvPkckW5bW) | [The Neon City](https://open.spotify.com/album/4O5SB8XnQm6kXNlAJobBU0) | 2:54 |
 | 26 | [Dudada](https://open.spotify.com/track/1GENOPUqhM4POXH65ZnqZm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Goldcher](https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Dudada](https://open.spotify.com/album/6IvbfG3vczBLqQITICdpKR) | 2:08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Chase Matthew, Zach Bryan, Flatland Cavalry and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,553 likes - 62 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,740 likes - 62 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 10 | [Fall This Way](https://open.spotify.com/track/5AeR3j18cKWueAh42yKkFE) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Fall This Way](https://open.spotify.com/album/5fezVdpvGi5luATJVA19B5) | 3:35 |
 | 11 | [Red Bandana](https://open.spotify.com/track/2VIOg87P7QCmIyYBEwEgvy) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Red Bandana](https://open.spotify.com/album/6ftosjsIUxKZWrxCVEWrI0) | 3:47 |
 | 12 | [Dance with Somebody Else](https://open.spotify.com/track/0XVBpjsMwocaF3vv4D3COb) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Something We Used to Say](https://open.spotify.com/album/6pecYXNUDM7V89VKYOI2jm) | 3:13 |
-| 13 | [All the Small Things](https://open.spotify.com/track/5QF6dBZYF4zDmpDeM8qbZ4) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [All the Small Things](https://open.spotify.com/album/0nGBaopA0BHPtyTitsv2Gu) | 3:19 |
+| 13 | [All The Small Things](https://open.spotify.com/track/5QF6dBZYF4zDmpDeM8qbZ4) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [All The Small Things](https://open.spotify.com/album/0nGBaopA0BHPtyTitsv2Gu) | 3:19 |
 | 14 | [Trace of You](https://open.spotify.com/track/5VQJ4Yt2QGaY0lB6FZ31kH) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Trace of You / Halloween on Christmas Eve](https://open.spotify.com/album/6MqZixFwM7hgVrdQ6rtWpv) | 3:07 |
 | 15 | [Hometown Hero](https://open.spotify.com/track/03SC2QJJIkG4LMmQddcZDo) | [J.R\. Carroll](https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm) | [Hometown Hero](https://open.spotify.com/album/7h1VgXYxwTBzPbjkuXz18r) | 4:21 |
 | 16 | [Let Me Feel Alone](https://open.spotify.com/track/16iKopeYMJdnND9LTbscFF) | [Crowe Boys](https://open.spotify.com/artist/5k7X7qq43uKpB09FSYS5id) | [Let Me Feel Alone](https://open.spotify.com/album/2F8C47l23tTg3OSI4R4dd8) | 3:26 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 33 | [Turn a Round](https://open.spotify.com/track/1saelE3NoBxdepEfKtaaRN) | [Alex Angelo](https://open.spotify.com/artist/6BnmXRCOnTy4iTBlbsgZ5J) | [Turn a Round](https://open.spotify.com/album/5XuqLceZbtUVJJDVeDAEqW) | 2:35 |
 | 34 | [Next To Me](https://open.spotify.com/track/0hDhVVVJWkT6HfAvZa5DbK) | [Trudy](https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS) | [Next To Me](https://open.spotify.com/album/56EZ3QjVfDtzSUdag8ZHAG) | 2:58 |
 | 35 | [Chevrolet You Down](https://open.spotify.com/track/1bEF4ojUgK7iI3TZtcXLID) | [Alex Mather](https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw), [Mary Kutter](https://open.spotify.com/artist/0rTX0ieS2m0gUGLlLe4kQP) | [Chevrolet You Down](https://open.spotify.com/album/4cBn8OYdcqjF6LJGIIZ8l3) | 2:10 |
-| 36 | [All Right Where She Left Me](https://open.spotify.com/track/66EsedsPZfCro61K4lAtf5) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [Alright Where She Left Me](https://open.spotify.com/album/6MLdEGLydZ2vxlspknv7CU) | 2:46 |
+| 36 | [Alright Where She Left Me](https://open.spotify.com/track/66EsedsPZfCro61K4lAtf5) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [Alright Where She Left Me](https://open.spotify.com/album/6MLdEGLydZ2vxlspknv7CU) | 2:46 |
 | 37 | [Forgot To Take A Picture](https://open.spotify.com/track/1K1jQF0HHYjgujeUfkiD1Y) | [Demps](https://open.spotify.com/artist/5Gx523vSXLobJkopSyany4) | [Forgot To Take A Picture](https://open.spotify.com/album/0lWc0nP8hMUkW1cJphA41g) | 3:08 |
 | 38 | [Slow Motions](https://open.spotify.com/track/6GnuFObYC5CvVpmKGCAjzm) | [ROTUNDO](https://open.spotify.com/artist/5Gyx55qxs56PDdjdr73Ww1) | [Slow Motions](https://open.spotify.com/album/5L1knjak802iAXhmowTCmo) | 2:57 |
 | 39 | [Country's Close Enough](https://open.spotify.com/track/0vHOv3CKNqO1I0qQ1v5A3L) | [Mason Horne](https://open.spotify.com/artist/341ntJveJBpKhKj316dttw) | [Country's Close Enough](https://open.spotify.com/album/6qeSWUjEsH1Pj6MN2SVM9H) | 3:30 |

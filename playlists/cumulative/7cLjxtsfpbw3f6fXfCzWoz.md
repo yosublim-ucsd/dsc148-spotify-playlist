@@ -4,10 +4,11 @@
 
 > For the bisexuals.
 
-52 songs - 3 hr 2 min
+56 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Bang The Doldrums](https://open.spotify.com/track/1Fvf8AO4GWwjLU12Im0s0q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:31 | 2024-11-09 |  |
 | [Big Dater \- 1.0 Version](https://open.spotify.com/track/3yAmfnsYSB8dvTJs2aZti6) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [1.0](https://open.spotify.com/album/20EPvfI2oySEeAmW0IiEaq) | 4:26 | 2024-01-31 |  |
 | [Bounce](https://open.spotify.com/track/4Qqo5j7w4l717LM6oa9B3l) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:46 | 2024-10-08 |  |
 | [Boys Don’t Cry](https://open.spotify.com/track/2QxUePxZqeoBynXxt093Ts) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [RAZZMATAZZ \(Deluxe Edition\)](https://open.spotify.com/album/5ailYYtAaFrrb9TYNlJOri) | 3:15 | 2022-09-07 |  |
@@ -20,6 +21,7 @@
 | [Distance](https://open.spotify.com/track/5TQ6MARpfdGi3lToty2TH6) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Knife Man](https://open.spotify.com/album/131vOQexOX9KXcOvcK4vM9) | 2:33 | 2023-12-05 |  |
 | [Eyes Don’t Lie](https://open.spotify.com/track/2SoIn6rKqGXFtSmPelBamb) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Eyes Don’t Lie \(Acoustic\)](https://open.spotify.com/album/7GhoYUVCNtW9BOgw7YYVHm) | 3:56 | 2022-09-07 |  |
 | [Give 'Em Hell, Kid](https://open.spotify.com/track/0axF06XwNLobcx5z8BVtYw) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 2:18 | 2024-10-27 |  |
+| [Grand Theft Autumn / Where Is Your Boy](https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:11 | 2024-11-09 |  |
 | [Hasta Manana](https://open.spotify.com/track/3wvrmmNB16rtreCvgw3sqv) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo \(Deluxe Edition\)](https://open.spotify.com/album/4hHXvnHGn6pmHhdnnmNdmn) | 3:09 | 2024-09-19 |  |
 | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 | 2024-10-27 |  |
 | [I Don't Love You](https://open.spotify.com/track/0Jli6hojT6aSBcFg4L2P5f) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 3:58 | 2023-01-11 |  |
@@ -28,6 +30,7 @@
 | [I Was Born To Love You](https://open.spotify.com/track/3K1Z590k8xkKWcyWjDUL2S) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven](https://open.spotify.com/album/2SFIh6siY4KYBNPHAV7xaI) | 4:49 | 2023-03-21 |  |
 | [I'm Still Standing](https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 3:03 | 2023-05-05 |  |
 | [I've Been Waiting For You](https://open.spotify.com/track/3F2sMDeuhueiBpDqEbRhCF) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Abba](https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7) | 3:40 | 2024-09-19 |  |
+| [I've Got All This Ringing In My Ears And None On My Fingers](https://open.spotify.com/track/1CRVvwUopaV42bAEvoh194) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 4:06 | 2024-11-09 |  |
 | [It's A Hard Life \- 2014 Remaster](https://open.spotify.com/track/61AP80MyPrlCdwveVOsKJy) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Forever \(Deluxe Edition\)](https://open.spotify.com/album/2nTP7Q6V06ATrZ2A4vUWo1) | 4:06 | 2023-03-21 |  |
 | [Jerk](https://open.spotify.com/track/4XGYDoDDSvKKbczMtiI25O) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:15 | 2024-10-03 |  |
 | [Just The Once](https://open.spotify.com/track/02PWMXbnLbqIODveV4db4t) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera II](https://open.spotify.com/album/4SH7eiRuT8MdrLnL52gB1O) | 3:24 | 2024-09-29 |  |
@@ -47,6 +50,7 @@
 | [Sad Songs](https://open.spotify.com/track/6spFAE12J5kM51cKEzsgmF) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:14 | 2022-09-07 |  |
 | [Save Me \- Remastered 2011](https://open.spotify.com/track/5V890judRbpVT6X5AEYZc8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits](https://open.spotify.com/album/6a8nlV9V8kPUbTTCJNVSsh) | 3:48 | 2023-03-21 |  |
 | [See America Right](https://open.spotify.com/track/7hdUxFqRnuX6j1xNu6eQ9B) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Tallahassee](https://open.spotify.com/album/2DL7AR6nEM3bhwNy9zHuZa) | 1:52 | 2023-01-03 |  |
+| [Sending Postcards From a Plane Crash \(Wish You Were Here\)](https://open.spotify.com/track/6myPy86FHUBJsFi7RAWp5Y) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 2:56 | 2024-11-09 |  |
 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 | 2023-07-04 |  |
 | [So Serious](https://open.spotify.com/track/2jo3bwXAGhVPL1Uh3dBWiB) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [ELO 50th Anniversary Vol\. 2](https://open.spotify.com/album/6U9L0ZDsCgNFTW7H7NPizN) | 2:41 | 2024-01-02 |  |
 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/4RJdwSqHapVcW5DaRtTkv0) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits](https://open.spotify.com/album/6a8nlV9V8kPUbTTCJNVSsh) | 4:56 | 2023-03-21 |  |

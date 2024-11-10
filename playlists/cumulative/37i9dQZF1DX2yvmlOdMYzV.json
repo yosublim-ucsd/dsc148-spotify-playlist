@@ -10506,7 +10506,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 151005,
       "name": "One Time",
       "url": "https://open.spotify.com/track/1Wvx69Bc0NZH7oQolv1SRq"
@@ -12508,6 +12508,24 @@
       "duration_ms": 205853,
       "name": "Shallow Grave",
       "url": "https://open.spotify.com/track/2pA9wkbt97AAg1ONefIu40"
+    },
+    {
+      "album": {
+        "name": "cloudy",
+        "url": "https://open.spotify.com/album/07qAkNgFlbkUpIJzT3jtTf"
+      },
+      "artists": [
+        {
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108829,
+      "name": "she just wanna see me rn",
+      "url": "https://open.spotify.com/track/132NmIOKCUGXSXQCno3WSB"
     },
     {
       "album": {

@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "CALIDOSA",
+        "url": "https://open.spotify.com/album/6ZvMDzwfQlizWJG1H1q0VQ"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191465,
+      "name": "Amor A Mitad",
+      "url": "https://open.spotify.com/track/5yyfFBIoO5KwYd5yJ90VKf"
+    },
+    {
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
@@ -210,7 +228,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 167710,
       "name": "Bolerito",
       "url": "https://open.spotify.com/track/7zzMZoUKpSCTbqYRdQc91b"
@@ -232,7 +250,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 165542,
       "name": "Bolerito - Remix",
       "url": "https://open.spotify.com/track/3NQgFnVEptxzbpAIjgLNkE"
@@ -312,7 +330,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 198518,
       "name": "Colorao",
       "url": "https://open.spotify.com/track/6Jufm9ebf323m7IqC32UEN"
@@ -651,6 +669,24 @@
     },
     {
       "album": {
+        "name": "CALIDOSA",
+        "url": "https://open.spotify.com/album/6ZvMDzwfQlizWJG1H1q0VQ"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158217,
+      "name": "Hola Mi Amor",
+      "url": "https://open.spotify.com/track/6RmOerG8aJYA7mqbHxJmPi"
+    },
+    {
+      "album": {
         "name": "La Depre",
         "url": "https://open.spotify.com/album/4LjAsqNOhbLgWRmwbEYrA4"
       },
@@ -688,6 +724,24 @@
       "duration_ms": 188412,
       "name": "La Falta",
       "url": "https://open.spotify.com/track/7Ex9Z4MqgbHNiwQJHnXj0R"
+    },
+    {
+      "album": {
+        "name": "CALIDOSA",
+        "url": "https://open.spotify.com/album/6ZvMDzwfQlizWJG1H1q0VQ"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195453,
+      "name": "La Indocumentada",
+      "url": "https://open.spotify.com/track/3dDouxlnqK1hHcwynL8Ve7"
     },
     {
       "album": {
@@ -1130,7 +1184,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 165276,
       "name": "Por Vos",
       "url": "https://open.spotify.com/track/5RPl7zAToaiW6s9JjMlG6W"
@@ -1178,7 +1232,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 182222,
       "name": "Qui\u00e9reme",
       "url": "https://open.spotify.com/track/1g6fJbLPAZgk1Hrl1EVzK5"
@@ -1196,7 +1250,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 182222,
       "name": "Qui\u00e9reme",
       "url": "https://open.spotify.com/track/5N99e6LuN2tknGikNAwl8n"
@@ -1262,7 +1316,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 200547,
       "name": "Ropa Interior (feat. Be\u00e9le)",
       "url": "https://open.spotify.com/track/0fuNqrwsaOVrhowxsAKvc8"

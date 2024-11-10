@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 140 songs - 8 hr 5 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 143 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,5 +148,8 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 138 | [Giorno's Theme](https://open.spotify.com/track/0oFPCGIO4t2cmOkksXknoD) | [Friedrich Habetler](https://open.spotify.com/artist/3VudC1DraV4LjIdLzpqQ80) | [Giorno's Theme](https://open.spotify.com/album/6UDDr9aZsmprJXfgU48Lqa) | 5:06 |
 | 139 | [Dance, Dance](https://open.spotify.com/track/5Xbx9mAWoTiLbMOMQofoE6) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree Limited Tour Edition](https://open.spotify.com/album/2AX9B6Af32in4KbKtX1r4q) | 3:00 |
 | 140 | [Doctor Worm](https://open.spotify.com/track/6OmApaLQPqHZL3iI78FOUR) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Severe Tire Damage](https://open.spotify.com/album/3Ww5ZsMGQH4F1Sf16ZztOh) | 3:01 |
+| 141 | [I've Got All This Ringing In My Ears And None On My Fingers](https://open.spotify.com/track/1CRVvwUopaV42bAEvoh194) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 4:06 |
+| 142 | [Don't You Know Who I Think I Am?](https://open.spotify.com/track/3HOGZQbzokUiYHuWhxOBjx) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 2:51 |
+| 143 | [Bang The Doldrums](https://open.spotify.com/track/1Fvf8AO4GWwjLU12Im0s0q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:31 |
 
-Snapshot ID: `AAAAtq2GxEG8XEVaEbtmQ25kqoXbVmCl`
+Snapshot ID: `AAAAueqOhVDAaRz/CAF37EtWotgkN/c4`

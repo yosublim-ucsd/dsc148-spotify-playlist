@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 14970,
+  "num_followers": 14974,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZywDAAAAAABvuMM8Lo/5KQ9M7yLs0aj3",
+  "snapshot_id": "Zy1UgAAAAAAh3ZOyv8sKI3T+G0NThjTh",
   "tracks": [
     {
       "added_at": null,
@@ -1047,26 +1047,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drunken Wordz Sober Thoughtz",
-        "url": "https://open.spotify.com/album/4tRvTQdQzkBDlyBm7OhNXt"
-      },
-      "artists": [
-        {
-          "name": "Sevyn Streeter",
-          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 168269,
-      "name": "Nasty Girl",
-      "url": "https://open.spotify.com/track/2JqW1Pne5WQWiKongjX8kA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Freak Remix",
         "url": "https://open.spotify.com/album/4epvIuL8vjGOcBaEslxT5p"
       },
@@ -1099,6 +1079,22 @@
       "duration_ms": 143999,
       "name": "RAISE THE STAKES",
       "url": "https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Minute Warning",
+        "url": "https://open.spotify.com/album/2WJNKgf3ojXKrQXzzJQWvR"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 61916,
+      "name": "One Minute Warning",
+      "url": "https://open.spotify.com/track/0IVrI7SYvqq18xYu1N2GiD"
     }
   ],
   "unique_name": "This Is BIA",

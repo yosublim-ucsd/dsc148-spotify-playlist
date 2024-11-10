@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-144 songs - 8 hr 10 min
+147 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Angeleyes](https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:20 | 2024-09-19 |  |
 | [Artificial Intelligence](https://open.spotify.com/track/3H65hbZNMHDCiFo3vhiAOA) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Artificial Intelligence](https://open.spotify.com/album/0p3PojNPjYC8LHkJCwinTd) | 3:57 | 2022-05-06 |  |
 | [Ballroom Blitz](https://open.spotify.com/track/3Pu3IChaAoa5EjgUBv5F6x) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Desolation Boulevard](https://open.spotify.com/album/3PsFboiPeObjAc6gbQHt54) | 4:06 | 2024-09-16 |  |
+| [Bang The Doldrums](https://open.spotify.com/track/1Fvf8AO4GWwjLU12Im0s0q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:31 | 2024-11-09 |  |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2024-10-09 |  |
 | [Big Balls](https://open.spotify.com/track/2KmSnPWWCIsEomVsKnbE1a) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 2:38 | 2024-05-28 |  |
 | [Blood and Bones](https://open.spotify.com/track/3zTgL5xA9C02l65VR0XqaN) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy) | [Blood and Bones](https://open.spotify.com/album/5QCjqY1hcyAKWeWFduVtEs) | 2:10 | 2023-03-23 |  |
@@ -40,6 +41,7 @@
 | [Do It All The Time](https://open.spotify.com/track/14ny3vlL25p6Vix2Sb8k1b) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Do It All The Time](https://open.spotify.com/album/7JvM9qMW23SCkpfz4ZrLsS) | 2:47 | 2022-09-07 |  |
 | [Doctor Worm](https://open.spotify.com/track/6OmApaLQPqHZL3iI78FOUR) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Severe Tire Damage](https://open.spotify.com/album/3Ww5ZsMGQH4F1Sf16ZztOh) | 3:01 | 2024-11-05 |  |
 | [Don't Bring Me Down \- 2012 Version](https://open.spotify.com/track/4lVHGdYDG7TLNNZ5GMQjyj) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [ELO 50th Anniversary Vol\. 1](https://open.spotify.com/album/4gGfNhFLBu74zGkNhJlQ0I) | 4:02 | 2024-01-02 |  |
+| [Don't You Know Who I Think I Am?](https://open.spotify.com/track/3HOGZQbzokUiYHuWhxOBjx) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 2:51 | 2024-11-09 |  |
 | [Dotab](https://open.spotify.com/track/4ODJ8ptwnVtxXs4d71eHNJ) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp) | [Your Parents Are Only Marginally Disappointed in Your Musical Taste](https://open.spotify.com/album/15b8BZbbE9M7Dx2twH81p0) | 4:34 | 2023-08-10 |  |
 | [Ferryman](https://open.spotify.com/track/492qQwagrn1noBTHRYKsvJ) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G), [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [Ferryman](https://open.spotify.com/album/1dDe20iAvQfwOMbvLfXetm) | 3:04 | 2023-03-23 |  |
 | [Fictional Aisle](https://open.spotify.com/track/1qnELnw7Cw9Vdjj2p97YpC) | [Tall Boy Special](https://open.spotify.com/artist/2GAKJjxl7sHzVi5VTh2taZ) | [Fictional Aisle](https://open.spotify.com/album/6U35jxzTEJUMcAtsfp4206) | 3:18 | 2022-05-27 |  |
@@ -67,6 +69,7 @@
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2024-10-09 |  |
 | [I'd Love to Change the World \- 2004 Remaster](https://open.spotify.com/track/7n3WO6ESKS1uCI9fgkGs66) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [A Space in Time \(Deluxe Version\)](https://open.spotify.com/album/5ZPvG6hav71Uqmlgs85xbE) | 3:44 | 2024-10-27 |  |
 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Sunshine on Leith](https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ) | 3:39 | 2024-09-16 |  |
+| [I've Got All This Ringing In My Ears And None On My Fingers](https://open.spotify.com/track/1CRVvwUopaV42bAEvoh194) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 4:06 | 2024-11-09 |  |
 | [If It Wasn't For The Nights](https://open.spotify.com/track/3R47KOuGuGvmoeQqbODPa3) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 5:09 | 2024-09-20 |  |
 | [Immigrant Song \- Remaster](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 2:26 | 2024-09-17 |  |
 | [Insanity \- Live](https://open.spotify.com/track/6oLNowpcdWveCBm5l52Wwj) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Farewell: Live From The Universal Amphitheatre\-Halloween 1995](https://open.spotify.com/album/1wqqDRJCbYsK9QSjNR55e5) | 7:42 | 2023-07-31 |  |

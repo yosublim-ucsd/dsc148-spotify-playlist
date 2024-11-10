@@ -1,6 +1,6 @@
 {
   "description": "No tags, no labels - just free form. Cover: Joe James",
-  "num_followers": 178254,
+  "num_followers": 178250,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 182330,
-      "name": "It\u2019s Gonna\u2019 Cost You",
-      "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
         "name": "Three Piece Suit (feat. Azekel)",
         "url": "https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ"
       },
@@ -351,62 +335,18 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
-        "name": "Higher Life",
-        "url": "https://open.spotify.com/album/3lhwBOftasfbBakMOQOAzX"
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
       },
       "artists": [
         {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        },
-        {
-          "name": "Chronic Law",
-          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 198032,
-      "name": "Higher Life",
-      "url": "https://open.spotify.com/track/45hcfulMM8BGDKFj6MnZv6"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
-        "name": "ceremonial contrafact (empathogen deluxe)",
-        "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "wanted (feat. kamasi washington)",
-      "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
-        "name": "Hold You Down",
-        "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 158069,
-      "name": "Hold You Down",
-      "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
+      "duration_ms": 182330,
+      "name": "It\u2019s Gonna\u2019 Cost You",
+      "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
     },
     {
       "added_at": "2024-11-08 00:00:00",
@@ -431,6 +371,66 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
+        "name": "ceremonial contrafact (empathogen deluxe)",
+        "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "wanted (feat. kamasi washington)",
+      "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
+        "name": "Higher Life",
+        "url": "https://open.spotify.com/album/3lhwBOftasfbBakMOQOAzX"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        },
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+        }
+      ],
+      "duration_ms": 198032,
+      "name": "Higher Life",
+      "url": "https://open.spotify.com/track/45hcfulMM8BGDKFj6MnZv6"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
+        "name": "Hold You Down",
+        "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 158069,
+      "name": "Hold You Down",
+      "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
         "name": "Bando Kid",
         "url": "https://open.spotify.com/album/3MJXXZKLhyhbnvNSYy44Xw"
       },
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
-        "name": "NO MANNERS",
-        "url": "https://open.spotify.com/album/2u9XbBgvH6M2YIkUh6swAX"
-      },
-      "artists": [
-        {
-          "name": "MGEE",
-          "url": "https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC"
-        }
-      ],
-      "duration_ms": 138591,
-      "name": "NO MANNERS",
-      "url": "https://open.spotify.com/track/6ZwndlSxLb1QlzQxbMcWjO"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
         "name": "Counterfeit",
         "url": "https://open.spotify.com/album/30JIhqDMtrOsbWDrDwdfyo"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 192106,
       "name": "Counterfeit",
       "url": "https://open.spotify.com/track/6h1dtfc7PrKnpjIUAtZFR9"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
+        "name": "NO MANNERS",
+        "url": "https://open.spotify.com/album/2u9XbBgvH6M2YIkUh6swAX"
+      },
+      "artists": [
+        {
+          "name": "MGEE",
+          "url": "https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC"
+        }
+      ],
+      "duration_ms": 138591,
+      "name": "NO MANNERS",
+      "url": "https://open.spotify.com/track/6ZwndlSxLb1QlzQxbMcWjO"
     },
     {
       "added_at": "2024-11-08 00:00:00",
@@ -603,6 +603,30 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
+        "name": "Osbatt",
+        "url": "https://open.spotify.com/album/7cDDTqMfZorUbKIouPTm0w"
+      },
+      "artists": [
+        {
+          "name": "Fimiguerrero",
+          "url": "https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        },
+        {
+          "name": "Len",
+          "url": "https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s"
+        }
+      ],
+      "duration_ms": 243356,
+      "name": "Osbatt",
+      "url": "https://open.spotify.com/track/2LogzWD6BFBnj3avJpjcnh"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
         "name": "2BADGYALZ",
         "url": "https://open.spotify.com/album/5Lx2hE5ENvPQJplNUXYxrC"
       },
@@ -615,22 +639,6 @@
       "duration_ms": 101500,
       "name": "2BADGYALZ",
       "url": "https://open.spotify.com/track/2R5vY0DGyGkoW1Q13SNCzr"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
-        "name": "XONGZ \u12a0\u1235\u1240\u12eb\u121a \u1321\u1265",
-        "url": "https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC"
-      },
-      "artists": [
-        {
-          "name": "Bricknasty",
-          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
-        }
-      ],
-      "duration_ms": 169228,
-      "name": "vinland",
-      "url": "https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK"
     },
     {
       "added_at": "2024-11-08 00:00:00",
@@ -655,6 +663,22 @@
       "duration_ms": 147954,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/7h4WdSxVKr8uciqXs3zAXw"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
+        "name": "XONGZ \u12a0\u1235\u1240\u12eb\u121a \u1321\u1265",
+        "url": "https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC"
+      },
+      "artists": [
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        }
+      ],
+      "duration_ms": 169228,
+      "name": "vinland",
+      "url": "https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK"
     },
     {
       "added_at": "2024-11-08 00:00:00",
@@ -799,22 +823,6 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
-        "name": "Bring Me Up",
-        "url": "https://open.spotify.com/album/0ht3Ctn5RFVwC9oMHrJoUz"
-      },
-      "artists": [
-        {
-          "name": "KAM-BU",
-          "url": "https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF"
-        }
-      ],
-      "duration_ms": 142299,
-      "name": "Bring Me Up",
-      "url": "https://open.spotify.com/track/1CgDZnD03eTG2V0aEruvDR"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
         "name": "Angels",
         "url": "https://open.spotify.com/album/6pIYfWJ4CBt3hVsUhPTKuA"
       },
@@ -827,6 +835,22 @@
       "duration_ms": 229653,
       "name": "Angels",
       "url": "https://open.spotify.com/track/6yK03ueKKklIAhShI5VDlg"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
+        "name": "Bring Me Up",
+        "url": "https://open.spotify.com/album/0ht3Ctn5RFVwC9oMHrJoUz"
+      },
+      "artists": [
+        {
+          "name": "KAM-BU",
+          "url": "https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF"
+        }
+      ],
+      "duration_ms": 142299,
+      "name": "Bring Me Up",
+      "url": "https://open.spotify.com/track/1CgDZnD03eTG2V0aEruvDR"
     },
     {
       "added_at": "2024-11-08 00:00:00",
@@ -903,22 +927,6 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
-        "name": "Boss B*tch",
-        "url": "https://open.spotify.com/album/61IbVta6kRXQBoqEdVeizJ"
-      },
-      "artists": [
-        {
-          "name": "Ms Banks",
-          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
-        }
-      ],
-      "duration_ms": 147605,
-      "name": "Boss B*tch",
-      "url": "https://open.spotify.com/track/0uMk3cDDhfJySp5tjoZ9fW"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
         "name": "Wagashi",
         "url": "https://open.spotify.com/album/3Izy2Hdi68EcgQScKajavq"
       },
@@ -931,6 +939,22 @@
       "duration_ms": 116879,
       "name": "Wagashi",
       "url": "https://open.spotify.com/track/5ifi0DNboZVQjOgZrZyDpB"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
+        "name": "Boss B*tch",
+        "url": "https://open.spotify.com/album/61IbVta6kRXQBoqEdVeizJ"
+      },
+      "artists": [
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+        }
+      ],
+      "duration_ms": 147605,
+      "name": "Boss B*tch",
+      "url": "https://open.spotify.com/track/0uMk3cDDhfJySp5tjoZ9fW"
     },
     {
       "added_at": "2024-11-08 00:00:00",
@@ -959,22 +983,6 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
-        "name": "Get Me",
-        "url": "https://open.spotify.com/album/0uATdxFoiP0PRKVDqJ6O7F"
-      },
-      "artists": [
-        {
-          "name": "Nate Brazier",
-          "url": "https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7"
-        }
-      ],
-      "duration_ms": 167684,
-      "name": "Get Me",
-      "url": "https://open.spotify.com/track/2QYHEIBi1SlaIQbzDOHC5g"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
         "name": "We Got Food At Home",
         "url": "https://open.spotify.com/album/5M6siTaJPrhAEVKeOUx70M"
       },
@@ -987,6 +995,22 @@
       "duration_ms": 120409,
       "name": "Won!",
       "url": "https://open.spotify.com/track/1gggt00FCBuc45Sm2hf2Yt"
+    },
+    {
+      "added_at": "2024-11-08 00:00:00",
+      "album": {
+        "name": "Get Me",
+        "url": "https://open.spotify.com/album/0uATdxFoiP0PRKVDqJ6O7F"
+      },
+      "artists": [
+        {
+          "name": "Nate Brazier",
+          "url": "https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7"
+        }
+      ],
+      "duration_ms": 167684,
+      "name": "Get Me",
+      "url": "https://open.spotify.com/track/2QYHEIBi1SlaIQbzDOHC5g"
     },
     {
       "added_at": "2024-11-08 00:00:00",
@@ -1079,26 +1103,6 @@
       "duration_ms": 149103,
       "name": "what it is & what it ain't",
       "url": "https://open.spotify.com/track/5rBG7cddHR8uirAjgbjVN8"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
-        "name": "How Far",
-        "url": "https://open.spotify.com/album/4hATb85jEAQV5zs1dPVDAg"
-      },
-      "artists": [
-        {
-          "name": "Jay Prince",
-          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
-        },
-        {
-          "name": "Sam Wise",
-          "url": "https://open.spotify.com/artist/4CCjWYtowoZyWAl03Iih5P"
-        }
-      ],
-      "duration_ms": 189781,
-      "name": "How Far",
-      "url": "https://open.spotify.com/track/0brMxO7UrJkplRm1JhHhw8"
     }
   ],
   "unique_name": "Free Form",

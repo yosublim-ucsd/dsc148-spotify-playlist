@@ -1,6 +1,6 @@
 {
   "description": "la nueva ola de artistas con Manu Beker en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 79254,
+  "num_followers": 79259,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-10-18 21:26:24",
       "album": {
+        "name": "entre las piernas",
+        "url": "https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 211454,
+      "name": "entre las piernas",
+      "url": "https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg"
+    },
+    {
+      "added_at": "2024-10-18 21:26:24",
+      "album": {
         "name": "El Cable",
         "url": "https://open.spotify.com/album/0sxMSSA5KNAIpwGN1UJI3j"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 177736,
       "name": "El Cable",
       "url": "https://open.spotify.com/track/1UZQtIbMg0jxgiulIadYpU"
-    },
-    {
-      "added_at": "2024-10-18 21:26:24",
-      "album": {
-        "name": "entre las piernas",
-        "url": "https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 211454,
-      "name": "entre las piernas",
-      "url": "https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg"
     },
     {
       "added_at": "2024-10-18 21:26:24",
@@ -951,18 +951,22 @@
     {
       "added_at": "2024-10-18 21:26:24",
       "album": {
-        "name": "\u00daltimo Intento",
-        "url": "https://open.spotify.com/album/6cLORSZVsdonI0tYVUEK0d"
+        "name": "Noche Estrellada",
+        "url": "https://open.spotify.com/album/28hIv6Ed2QvHGnFsSZhupO"
       },
       "artists": [
         {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+          "name": "Lul\u00fa Bulos",
+          "url": "https://open.spotify.com/artist/3GnE3KJ3V1YO5IhindQrkj"
+        },
+        {
+          "name": "Vera Pedro",
+          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
         }
       ],
-      "duration_ms": 174915,
-      "name": "\u00daltimo Intento",
-      "url": "https://open.spotify.com/track/5wXBavPSFmy6ImZdeTxPAt"
+      "duration_ms": 221610,
+      "name": "Noche Estrellada",
+      "url": "https://open.spotify.com/track/6P0GxVzKMq6i2ivtdt8OkG"
     },
     {
       "added_at": "2024-10-18 21:26:24",
@@ -983,22 +987,18 @@
     {
       "added_at": "2024-10-18 21:26:24",
       "album": {
-        "name": "Noche Estrellada",
-        "url": "https://open.spotify.com/album/28hIv6Ed2QvHGnFsSZhupO"
+        "name": "\u00daltimo Intento",
+        "url": "https://open.spotify.com/album/6cLORSZVsdonI0tYVUEK0d"
       },
       "artists": [
         {
-          "name": "Lul\u00fa Bulos",
-          "url": "https://open.spotify.com/artist/3GnE3KJ3V1YO5IhindQrkj"
-        },
-        {
-          "name": "Vera Pedro",
-          "url": "https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S"
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
         }
       ],
-      "duration_ms": 221610,
-      "name": "Noche Estrellada",
-      "url": "https://open.spotify.com/track/6P0GxVzKMq6i2ivtdt8OkG"
+      "duration_ms": 174915,
+      "name": "\u00daltimo Intento",
+      "url": "https://open.spotify.com/track/5wXBavPSFmy6ImZdeTxPAt"
     },
     {
       "added_at": "2024-10-18 21:26:24",

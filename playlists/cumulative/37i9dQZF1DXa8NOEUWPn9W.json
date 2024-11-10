@@ -3008,6 +3008,10 @@
         {
           "name": "Sosa UK",
           "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        },
+        {
+          "name": "Alex Peace",
+          "url": "https://open.spotify.com/artist/5x0mazFBPEu8FPKmBArlGQ"
         }
       ],
       "date_added": "2024-09-20",
@@ -5602,7 +5606,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 241768,
       "name": "Energy",
       "url": "https://open.spotify.com/track/5YoLcp1bzRTN8sNWXuGvxu"
@@ -14462,6 +14466,32 @@
       "duration_ms": 233836,
       "name": "Palm Beach Banga",
       "url": "https://open.spotify.com/track/2Q4nScd22kJ70CqQbQqWFD"
+    },
+    {
+      "album": {
+        "name": "palm of my hands (Odd Mob Remix)",
+        "url": "https://open.spotify.com/album/4wAyp0F1m8WNDb7SsuQarq"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "palm of my hands - Odd Mob Remix",
+      "url": "https://open.spotify.com/track/2vxsdAnntt6eGZJJRaLBF6"
     },
     {
       "album": {

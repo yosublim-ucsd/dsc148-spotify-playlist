@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Gorgon City at Drumsheds
 
-916 songs - 2 day 4 hr 42 min
+916 songs - 2 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Buccho Ni Ba Bhai \(Grindin'\)](https://open.spotify.com/track/6l4YeeXa8ptLDG1pFTialk) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Buccho Ni Ba Bhai \(Grindin’\)](https://open.spotify.com/album/1pymXwecUkhfq2alX9bCmS) | 2:36 | 2022-04-15 | 2022-05-06 |
 | [Bugging](https://open.spotify.com/track/0kg06i2G3b4NQIiXi8GEIA) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [FABER](https://open.spotify.com/artist/3flURQ5mXBE6GW0HsVwLH0) | [Bugging](https://open.spotify.com/album/4EQ3ZgKNrfaJVq2D3uOM98) | 3:09 | 2022-03-25 | 2022-06-10 |
 | [Bullerengue](https://open.spotify.com/track/0wZC3aP8YeXjYvw0Ua8Qnn) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Bullerengue](https://open.spotify.com/album/5QPON1QI3Z09s01yzq5kb3) | 3:15 | 2024-03-15 | 2024-09-06 |
-| [Bump Artist](https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:23 | 2024-09-12 |  |
+| [Bump Artist](https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Alex Peace](https://open.spotify.com/artist/5x0mazFBPEu8FPKmBArlGQ) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:23 | 2024-09-12 |  |
 | [Bumpin'](https://open.spotify.com/track/2JSRHxHfbteGcueRhfKtm7) | [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Bumpin'](https://open.spotify.com/album/4BtfgqdJz0qKvr7hHXAAmo) | 2:50 | 2022-06-02 | 2022-09-02 |
 | [Burning \(feat\. Camden Cox\)](https://open.spotify.com/track/54Yr0BPkVQ378IeCWnG91Q) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Burning \(feat\. Camden Cox\)](https://open.spotify.com/album/6sWssLrwhCrk3kGjzwJ9ZV) | 3:06 | 2022-03-08 | 2022-03-10 |
 | [Burning In My Arms \- Edit](https://open.spotify.com/track/3Z9qdV9SOWHuTxNbyOwXIa) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Burning In My Arms \(Edit\)](https://open.spotify.com/album/6WdHT5YZeHkKkCUZe5ka1B) | 3:31 | 2022-08-25 | 2023-01-28 |
@@ -454,7 +454,7 @@
 | [Let Go](https://open.spotify.com/track/7qcSgxqwo2HWEKBHy7Rj6I) | [L'Étranger](https://open.spotify.com/artist/2dUL2pPThe3zZWRTWvGN9m) | [Let Go](https://open.spotify.com/album/3BDoH104fPr6Q2Qy1Oc2Bh) | 3:53 | 2023-01-13 | 2023-04-07 |
 | [Let Me In](https://open.spotify.com/track/63TnIai4KFF6E2D2PNvyWo) | [AmyElle](https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W), [Shania](https://open.spotify.com/artist/23kMR41KbDiyLWUKrp8ZVG) | [Let Me In](https://open.spotify.com/album/5K9O0DctnDZLUuAexCpccK) | 3:01 | 2022-05-13 | 2022-09-02 |
 | [Let Me In](https://open.spotify.com/track/0g3862tgs6NQ8SBEpFNbfv) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Let Me In](https://open.spotify.com/album/4YBKXkacrGMFdRzUpfMXMG) | 2:27 | 2022-03-11 | 2022-07-08 |
-| [Let The Bassline](https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Let The Bassline](https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W) | 4:09 | 2024-11-08 |  |
+| [Let The Bassline](https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Let The Bassline](https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W) | 3:03 | 2024-11-08 |  |
 | [Let You Down](https://open.spotify.com/track/7jTRNKFddIvWjcfp45AzGY) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Let You Down](https://open.spotify.com/album/4YTV42oc8Jaty0URAVUFmw) | 2:37 | 2023-05-26 | 2023-09-29 |
 | [Let's Really Have Some Fun](https://open.spotify.com/track/7COmInb3InhuD3er4KYrAS) | [R Plus](https://open.spotify.com/artist/0lnAZ68xKGysVy084bTQmh), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Amelia Fox](https://open.spotify.com/artist/3I4pqS75HcWouwU39LjRdM) | [Let's Really Have Some Fun](https://open.spotify.com/album/4JqTO1Oj6MeRdAXfDx9DqH) | 3:19 | 2023-04-27 | 2023-08-04 |
 | [Let's Work \- Radio Edit](https://open.spotify.com/track/4Wcl6jXGxyjFBKlXHZZgEj) | [Jeremiah Asiamah](https://open.spotify.com/artist/4a8asYwblfRPbHxD6Oc7W4) | [Let's Work \(Radio Edit\)](https://open.spotify.com/album/5Gx2vMTRqTurmCQh5SdXfo) | 2:34 | 2023-03-10 | 2023-07-14 |

@@ -12361,6 +12361,40 @@
     },
     {
       "album": {
+        "name": "A Mensagem",
+        "url": "https://open.spotify.com/album/2VuAaT3eTjX109FTmDlIf9"
+      },
+      "artists": [
+        {
+          "name": "Dow Raiz",
+          "url": "https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu"
+        },
+        {
+          "name": "Arnaldo Tifu",
+          "url": "https://open.spotify.com/artist/2C1NxCWJbCkONI77zMisTx"
+        },
+        {
+          "name": "Jota Ghetto",
+          "url": "https://open.spotify.com/artist/37HzB0soiShqHGooeDTEQ4"
+        },
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        },
+        {
+          "name": "DJ RM Brasil",
+          "url": "https://open.spotify.com/artist/7BpyfiIScZTN4lsdG0ia0G"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301556,
+      "name": "N\u00e3o Seja Mais Um Pilantra",
+      "url": "https://open.spotify.com/track/3NgrtUV5phVMrmSLfbwtJW"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Vai Voltar / Sinestesia",
         "url": "https://open.spotify.com/album/283Kx0L7gVlaTXLObHD6Pu"
       },

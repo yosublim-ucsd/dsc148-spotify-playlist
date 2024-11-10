@@ -4,7 +4,7 @@
 
 > From Toronto to Nashville \- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Owen Riegling
 
-257 songs - 13 hr 58 min
+258 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Back Then Right Now](https://open.spotify.com/track/0GdZqKPBrvkpo7mk2OyHtf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Back Then Right Now](https://open.spotify.com/album/3IQfOGGUJfBkWIgXzLaub9) | 3:21 | 2023-11-03 |  |
 | [Back To Drinkin' Whiskey](https://open.spotify.com/track/1yxMabdQhQppaBocsV3oOF) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Back To Drinkin' Whiskey](https://open.spotify.com/album/4RrepOayEyZyXjaoqcTEeV) | 2:54 | 2023-11-03 | 2023-11-11 |
 | [Backroad \(That 17 Summer\)](https://open.spotify.com/track/7mjb7qTCkTGB29ZAYpJ43T) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Backroad \(That 17 Summer\)](https://open.spotify.com/album/2lMtL0onhFskoOEFmigoBq) | 3:06 | 2023-11-03 | 2024-02-03 |
-| [Bad Guy](https://open.spotify.com/track/2KYXVfufJyULq19lC4VyzR) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [PB2](https://open.spotify.com/album/7EcpFtgJ2UT0O7FSaKg6R1) | 2:47 | 2024-06-21 |  |
+| [Bad Guy](https://open.spotify.com/track/2KYXVfufJyULq19lC4VyzR) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [PB2](https://open.spotify.com/album/7EcpFtgJ2UT0O7FSaKg6R1) | 2:47 | 2024-06-21 | 2024-11-10 |
 | [Band On Her T\-Shirt](https://open.spotify.com/track/3aQH4moGvuz3JTU4I2lsFW) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Band On Her T\-Shirt](https://open.spotify.com/album/2NvZ047DnmgdTVu8HgdonK) | 3:09 | 2024-05-24 |  |
 | [Barely Blue](https://open.spotify.com/track/4BwlG5oIWVyA2FVEaWh05o) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Barely Blue](https://open.spotify.com/album/4e0HW29J9Jc2v5ChnJ3xzJ) | 3:36 | 2024-09-20 |  |
 | [Beautiful As You](https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Beautiful As You](https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG) | 2:43 | 2024-05-10 |  |
@@ -42,6 +42,7 @@
 | [Came The Closest](https://open.spotify.com/track/2fRqb3yoCI9cbRASkEMo3m) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Came The Closest](https://open.spotify.com/album/6iRu1ih4G0bpKX8fPpOlhm) | 3:14 | 2023-11-03 | 2024-04-06 |
 | [chad](https://open.spotify.com/track/3jKg8MisTdeSusXTL9BQXV) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW) | [chad](https://open.spotify.com/album/6r86RsMh6XIOGkKhdH9ksU) | 2:46 | 2023-11-03 | 2024-02-10 |
 | [Change My Mind](https://open.spotify.com/track/3iFzZcNK82ytOWr2qHY5pd) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Change My Mind](https://open.spotify.com/album/5ndkH4RnE1m6TcBhyKpWB8) | 3:19 | 2024-10-04 |  |
+| [Chasing A Feeling](https://open.spotify.com/track/4UJiJf6bPw5V3HLU462WFR) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Flatland Forever](https://open.spotify.com/album/6hsLVJIMa6eZ0eo0sEeVbg) | 3:23 | 2024-11-09 |  |
 | [Chevrolet \(feat\. Jelly Roll\)](https://open.spotify.com/track/7FKAVg9SA7QYLxdVRLnKjd) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Killed The Cowboy](https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb) | 3:04 | 2024-09-20 |  |
 | [CHUCK TAYLORS](https://open.spotify.com/track/5LCwWKC7mc2naS8aG503oG) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 3:34 | 2024-09-20 |  |
 | [Church](https://open.spotify.com/track/2CuozTAQkXtwB4eQ0lMbyG) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Church](https://open.spotify.com/album/1Q303HZ7KT6B5xGlfJBF6c) | 3:31 | 2024-08-16 | 2024-11-02 |
@@ -157,7 +158,7 @@
 | [New Paint](https://open.spotify.com/track/7i5NR1XK1dKR8bUDwoHiuu) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Westerly](https://open.spotify.com/album/6nkTWPOKgd7UakmuaiO1Tj) | 3:13 | 2024-07-29 | 2024-09-28 |
 | [Next Thing You Know](https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Next Thing You Know](https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp) | 2:55 | 2023-11-03 | 2024-06-09 |
 | [Night To Go](https://open.spotify.com/track/65JhcwbMrDlQAxrRDi79Ns) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Night To Go](https://open.spotify.com/album/0NmgdVPj95vVLLxDor1R8T) | 2:43 | 2023-11-03 | 2024-02-10 |
-| [No Man's Land](https://open.spotify.com/track/51bsmJ20vnlJ6rKuoemI0s) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [No Man's Land](https://open.spotify.com/album/6NynYyx8H1IP10YRdWpyaQ) | 3:43 | 2024-08-25 |  |
+| [No Man's Land](https://open.spotify.com/track/51bsmJ20vnlJ6rKuoemI0s) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [No Man's Land](https://open.spotify.com/album/6NynYyx8H1IP10YRdWpyaQ) | 3:43 | 2024-08-25 | 2024-11-10 |
 | [Nobody's Nobody](https://open.spotify.com/track/1Q7kOSZkgeCkVpWRmNBAcI) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Nobody's Nobody](https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg) | 3:09 | 2023-11-03 | 2023-11-18 |
 | [Nostalgia](https://open.spotify.com/track/3Z9UDAqfYxU9WVAapTmY62) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [The Storyteller](https://open.spotify.com/album/7KypIz0P88XTX6VrtYdC0E) | 3:31 | 2024-10-04 |  |
 | [Not So Much No More](https://open.spotify.com/track/2FKqYH559u3BIhdKpPRKtE) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Not So Much No More](https://open.spotify.com/album/3yHlZnt3ibKcgWORuu9swz) | 2:58 | 2024-06-08 | 2024-07-20 |

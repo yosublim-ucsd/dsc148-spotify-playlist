@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Real Boston Richey, Cordae, Young Nudy and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,906 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,005 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 2 | [Come Outside \(So Sick\)](https://open.spotify.com/track/6ueIEZa5Gbu6n9jLdFUyh9) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Richey Rich](https://open.spotify.com/album/2P2kHr1m4bZUN9fNn7eyYB) | 2:40 |
 | 3 | [Right Now](https://open.spotify.com/track/1rujAl2i7jyiS3gGmZN7L5) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Right Now](https://open.spotify.com/album/3NnceSjaPrxdNfXAE3TX8f) | 2:47 |
 | 4 | [French Tips \(feat\. Coco Jones\)](https://open.spotify.com/track/3pPlFiN3TLqHd5uXnRr4Cv) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [DAROLD](https://open.spotify.com/album/4jNVrFSF7UzQdvQtzHjWM0) | 3:06 |
-| 5 | [For Me](https://open.spotify.com/track/2mo4wJKJJR2lQCZYnTaI4Y) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Nardy World](https://open.spotify.com/album/546FvdeuoSf9FA2o6RMpOy) | 3:23 |
+| 5 | [For Me \(with Brent Faiyaz\)](https://open.spotify.com/track/2mo4wJKJJR2lQCZYnTaI4Y) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Nardy World](https://open.spotify.com/album/546FvdeuoSf9FA2o6RMpOy) | 3:23 |
 | 6 | [Dr\. Britt Baker](https://open.spotify.com/track/1oAbylsyWrHRyGGKqfvw6V) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Brother Tom Sos](https://open.spotify.com/artist/42CdfzvwQxU730Iod5qjyX) | [Still Praying](https://open.spotify.com/album/0rVlityTu3N2PTYD7eqL8G) | 5:11 |
 | 7 | [Nachos](https://open.spotify.com/track/1lo4xyLFWHNRVJKLbKi4FZ) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [ANIMALS ONLY \(ICE COLD\)](https://open.spotify.com/album/44YtWCi7ahAV8wvmreYKaO) | 2:52 |
 | 8 | [Go Pro](https://open.spotify.com/track/3wzAAc6yhKtQs7nQLwMJjf) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Soul Burger](https://open.spotify.com/album/4h3I43cFQyDqezGcREnTK6) | 2:59 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 42 | [Wockesha](https://open.spotify.com/track/1OTjLpyGM0yRT0KuvL0r5h) | [Big Mirr](https://open.spotify.com/artist/11A0hrGvDgPOSuIn8dEUwC), [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [Wockesha](https://open.spotify.com/album/74o6ayqsSjARj3FNjWBoD8) | 2:12 |
 | 43 | [KNOCK YA SONIC RINGS](https://open.spotify.com/track/4sTEZtYcTYGsVgie9Qatkh) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Dibia$E](https://open.spotify.com/artist/21H0kHbS41lECHguMnjGpb) | [KNOCKOUT](https://open.spotify.com/album/1kdb3QXpdYyyV8zeZRJNMM) | 2:21 |
 | 44 | [Play This At My Funeral](https://open.spotify.com/track/1iRMpyxZRoXPODtuhlNcIC) | [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Play This At My Funeral](https://open.spotify.com/album/0yAHx1ZkSOu7slt22oTAVs) | 2:10 |
-| 45 | [Save Me \- Bonus Track](https://open.spotify.com/track/2HW3qFXYcJrL1sdsuyTJTO) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [Ascension 2: Complete Collection](https://open.spotify.com/album/1sJAtEas1sHIi4amh84t1i) | 2:17 |
+| 45 | [Save Me \- Bonus Track](https://open.spotify.com/track/2HW3qFXYcJrL1sdsuyTJTO) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [Tana](https://open.spotify.com/artist/0iXGLvGPMVdy6mgJTwmQ5e) | [Ascension 2: Complete Collection](https://open.spotify.com/album/1sJAtEas1sHIi4amh84t1i) | 2:17 |
 | 46 | [Ain't My Fault \(feat\. Jeremih\)](https://open.spotify.com/track/4C9cFvVikhCNs3Xbspgwsn) | [Z Money](https://open.spotify.com/artist/0Nzgjph6U8oX2RwmBfoQvy), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Ain't My Fault \(feat\. Jeremih\)](https://open.spotify.com/album/4DpQvrGAMN9srFwtSGIXkl) | 2:11 |
 | 47 | [fdo](https://open.spotify.com/track/5Xjkyp55sF1Ei1cSdx9b1s) | [OLA RUNT](https://open.spotify.com/artist/3pAtVSFUcp2b8gY93G0y6u) | [Backseat Musik, Vol\. 5](https://open.spotify.com/album/3ted2EQb2PMGQsWB1xyu5e) | 2:30 |
 | 48 | [Buckets \(feat\. Screwly G\)](https://open.spotify.com/track/6sJVas5oxBfUZnMU77N1LA) | [FBG Murda](https://open.spotify.com/artist/7epN7rM4Hg4WRdl9e4Rsr5), [Screwly G](https://open.spotify.com/artist/1eWvOyyLmTtEVjuV2StcqC) | [Buckets \(feat\. Screwly G\)](https://open.spotify.com/album/6DiX8hnTerVrGeoRfx6FRo) | 1:57 |

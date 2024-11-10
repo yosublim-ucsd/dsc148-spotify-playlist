@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 20694,
+  "num_followers": 20701,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
@@ -535,26 +535,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Off-White (feat. Lil Uzi Vert)",
-        "url": "https://open.spotify.com/album/1mQayAKgsYORLTbpvXdI5T"
-      },
-      "artists": [
-        {
-          "name": "NGeeYL",
-          "url": "https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 164353,
-      "name": "Off-White (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/6WSypNUxnt7YYXQ9iUGRR7"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "Faith (Deluxe)",
         "url": "https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 203586,
       "name": "Bout A Million (feat. 42 Dugg & 21 Savage)",
       "url": "https://open.spotify.com/track/72ozIjVFHpAnKGcuYpCfb7"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Off-White (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/1mQayAKgsYORLTbpvXdI5T"
+      },
+      "artists": [
+        {
+          "name": "NGeeYL",
+          "url": "https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 164353,
+      "name": "Off-White (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/6WSypNUxnt7YYXQ9iUGRR7"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -667,6 +667,26 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Faith (Deluxe)",
+        "url": "https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Rah Swish",
+          "url": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
+        }
+      ],
+      "duration_ms": 150449,
+      "name": "Brush Em (feat. Rah Swish)",
+      "url": "https://open.spotify.com/track/58aW6yZGFl7rVM7SLfLnLL"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "2055 (feat. Coi Leray)",
         "url": "https://open.spotify.com/album/2jGGIrYGbhJPHOmBF5R90N"
       },
@@ -755,26 +775,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Faith (Deluxe)",
-        "url": "https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Rah Swish",
-          "url": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
-        }
-      ],
-      "duration_ms": 150449,
-      "name": "Brush Em (feat. Rah Swish)",
-      "url": "https://open.spotify.com/track/58aW6yZGFl7rVM7SLfLnLL"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "Haitian Boy Kodak",
         "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
       },
@@ -787,6 +787,26 @@
       "duration_ms": 169401,
       "name": "Dirty K",
       "url": "https://open.spotify.com/track/0xAY7oG6h1YBv0Tvc8eUnu"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Faith (Deluxe)",
+        "url": "https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Bizzy Banks",
+          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
+        }
+      ],
+      "duration_ms": 228251,
+      "name": "30 (feat. Bizzy Banks)",
+      "url": "https://open.spotify.com/track/5nkzBlt92PJLVEvPXBd9WZ"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -835,26 +855,6 @@
       "duration_ms": 339249,
       "name": "Off The Grid",
       "url": "https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Faith (Deluxe)",
-        "url": "https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Bizzy Banks",
-          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
-        }
-      ],
-      "duration_ms": 228251,
-      "name": "30 (feat. Bizzy Banks)",
-      "url": "https://open.spotify.com/track/5nkzBlt92PJLVEvPXBd9WZ"
     },
     {
       "added_at": "2022-10-01 16:17:17",

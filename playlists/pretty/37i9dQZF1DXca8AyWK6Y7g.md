@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > Your new favorite pop stars ⭐ cover: Moody Joody
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,535,139 likes - 125 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,535,183 likes - 125 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 24 | [Dangerous](https://open.spotify.com/track/7moZuS84OI5AWGc81GVujX) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Dangerous](https://open.spotify.com/album/0Meg1sIEOUL5bkjuWhHjva) | 2:34 |
 | 25 | [SAVE A HORSE, BREAK A HEART](https://open.spotify.com/track/0ykHYUYiltQo6Xcmdq3Tp5) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [SAVE A HORSE, BREAK A HEART](https://open.spotify.com/album/1aRvubQxQHM7IqKnmiJvxE) | 2:54 |
 | 26 | [Juno](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:43 |
-| 27 | [Cats On The Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats On The Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 |
+| 27 | [Cats on the Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats on the Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 |
 | 28 | [Tokyo](https://open.spotify.com/track/4dBL2SnBGyclHyDibxtHDB) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [Tokyo](https://open.spotify.com/album/3ENnu50xFP4ilZ1zFYGt9b) | 2:04 |
 | 29 | [Bye Bye Bye](https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d) | 2:29 |
 | 30 | [teenage nightmare](https://open.spotify.com/track/53vCYOoHsBIXV9KZtvTmBS) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [teenage nightmare](https://open.spotify.com/album/1knrqP9ysgy0Dl1DId00Sa) | 3:15 |

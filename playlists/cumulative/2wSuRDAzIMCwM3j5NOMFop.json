@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211333,
+      "name": "Bang The Doldrums",
+      "url": "https://open.spotify.com/track/1Fvf8AO4GWwjLU12Im0s0q"
+    },
+    {
+      "album": {
         "name": "Blood and Bones",
         "url": "https://open.spotify.com/album/5QCjqY1hcyAKWeWFduVtEs"
       },
@@ -114,6 +132,24 @@
       "duration_ms": 149040,
       "name": "Collapsing Stars",
       "url": "https://open.spotify.com/track/1vpVrdNn76ngdvRVeHkq1J"
+    },
+    {
+      "album": {
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186026,
+      "name": "Fame < Infamy",
+      "url": "https://open.spotify.com/track/0EwfAdBab8DRcDCC1RKhMY"
     },
     {
       "album": {
@@ -602,6 +638,24 @@
       "duration_ms": 276648,
       "name": "The Dismemberment Song",
       "url": "https://open.spotify.com/track/0HsOPviUHT6VVZWhjkAoZm"
+    },
+    {
+      "album": {
+        "name": "Wage Wars Get Rich Die Handsome",
+        "url": "https://open.spotify.com/album/1NwWEsaGkDshr7vA7uOOlN"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150346,
+      "name": "Wage Wars Get Rich Die Handsome",
+      "url": "https://open.spotify.com/track/0xrvkq5EEpHZWKmacINtuh"
     },
     {
       "album": {

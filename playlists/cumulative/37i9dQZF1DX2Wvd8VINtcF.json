@@ -29265,6 +29265,24 @@
     },
     {
       "album": {
+        "name": "Happy Life Go!",
+        "url": "https://open.spotify.com/album/5elFqU3q3kuUG8anlOj0Jc"
+      },
+      "artists": [
+        {
+          "name": "KAPARI",
+          "url": "https://open.spotify.com/artist/1YS9GiGL9yQ1A85ha3hPIX"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148680,
+      "name": "Way Back Home",
+      "url": "https://open.spotify.com/track/6zgpB19NFV0ARh8IDdQDnH"
+    },
+    {
+      "album": {
         "name": "Way Too Good",
         "url": "https://open.spotify.com/album/13lH2NV2SYOH2HGgiBO66A"
       },

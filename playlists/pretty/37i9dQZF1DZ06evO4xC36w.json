@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 894066,
+  "num_followers": 894349,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZywDAAAAAADudmA4kv/Wx3pEnIOtxEWl",
+  "snapshot_id": "Zy1UgAAAAAAUP3WFSZ7jTa1vE2pGxYvi",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secreto De Amor",
-        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 177516,
-      "name": "Amorcito M\u00edo",
-      "url": "https://open.spotify.com/track/07synGEtMdfRfwY3wNmedn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 181812,
       "name": "Y Las Mariposas",
       "url": "https://open.spotify.com/track/1uYRtqTqOw0KIihWtu8lUK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Secreto De Amor",
+        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 177516,
+      "name": "Amorcito M\u00edo",
+      "url": "https://open.spotify.com/track/07synGEtMdfRfwY3wNmedn"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "13 Celebrando El 13",
-        "url": "https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5"
+        "name": "Rumores",
+        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 173786,
-      "name": "Voy A Conquistarte",
-      "url": "https://open.spotify.com/track/4hTgRXA7Zp7wxPcKmMLNzc"
+      "duration_ms": 178607,
+      "name": "No Le Tengas Compasi\u00f3n",
+      "url": "https://open.spotify.com/track/1ssEOaBxBWj3SQKzlTzCF1"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rumores",
-        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
+        "name": "13 Celebrando El 13",
+        "url": "https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 178607,
-      "name": "No Le Tengas Compasi\u00f3n",
-      "url": "https://open.spotify.com/track/1ssEOaBxBWj3SQKzlTzCF1"
+      "duration_ms": 173786,
+      "name": "Voy A Conquistarte",
+      "url": "https://open.spotify.com/track/4hTgRXA7Zp7wxPcKmMLNzc"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afortunado",
-        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 195117,
-      "name": "Afortunado",
-      "url": "https://open.spotify.com/track/1X6s95fLr0C2UfS08f2bhv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joan Sebastian Con Tambora",
         "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 176976,
       "name": "El Gallo Celoso",
       "url": "https://open.spotify.com/track/0W4xWWd28GhyzXOsXHV5b5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afortunado",
+        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 195117,
+      "name": "Afortunado",
+      "url": "https://open.spotify.com/track/1X6s95fLr0C2UfS08f2bhv"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Baladas Favoritas",
-        "url": "https://open.spotify.com/album/7Db7VCq3IQIgkzJxdsvQSy"
+        "name": "Joan Sebastian Con Tambora",
+        "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 208486,
-      "name": "Manantial De Llanto",
-      "url": "https://open.spotify.com/track/2ddqucsZ04B82NxZcXPVsw"
+      "duration_ms": 203778,
+      "name": "Me La Escondieron Sus Padres",
+      "url": "https://open.spotify.com/track/1Ke5g7pgyPRt5xaO5OBBhN"
     }
   ],
   "unique_name": "This Is Joan Sebastian",

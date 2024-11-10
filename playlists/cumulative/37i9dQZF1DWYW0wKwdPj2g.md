@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Mercy Chinwo
 
-132 songs - 17 hr 30 min
+132 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Sing For Joy](https://open.spotify.com/track/0cdH2VxYlwElQl4nN5DqjW) | [Ccioma](https://open.spotify.com/artist/4KUBNwD9GNCDXGGHJqRbpF) | [Sing For Joy](https://open.spotify.com/album/2bLnPf8G08JcrL4N4VWGQz) | 7:09 | 2024-08-02 | 2024-11-08 |
 | [Siyabonga Jesu \(Wahamba Nathi\) \[Live\]](https://open.spotify.com/track/4nmRnP0r7F4apXJLxGQ3MG) | [Solly Mahlangu](https://open.spotify.com/artist/7mZOspv12XLvP1LQL6DmqR) | [Mwamba Mwamba \(Live\) Recorded at Big Top Arena Carnival City](https://open.spotify.com/album/2grRNjByBgEo00XJueSanO) | 6:51 | 2024-02-23 |  |
 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 | 2024-02-23 |  |
-| [Testimony \- Live](https://open.spotify.com/track/5zNZsfw19X9A4dXeqBXyHl) | [Dr TJ](https://open.spotify.com/artist/1QtVmlYLcmOnMOQFZX0T7A), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Testimony \(Live\)](https://open.spotify.com/album/563k12oxVh9CsYNOgjG6X2) | 7:10 | 2024-11-08 |  |
+| [Testimony](https://open.spotify.com/track/5zNZsfw19X9A4dXeqBXyHl) | [Dr TJ](https://open.spotify.com/artist/1QtVmlYLcmOnMOQFZX0T7A), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Testimony](https://open.spotify.com/album/563k12oxVh9CsYNOgjG6X2) | 3:44 | 2024-11-08 |  |
 | [That's Why We Worship \- Live](https://open.spotify.com/track/2DawLOye9o0ts6hO3q84Mp) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Revival Today Worship](https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1) | [That's Why We Worship \(Live\)](https://open.spotify.com/album/5vka6wUs4jz3IbxL03uvw8) | 9:20 | 2024-09-27 |  |
 | [Thath'Indawo \(Live\)](https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 7:55 | 2024-02-23 |  |
 | [The Birthing \- Live](https://open.spotify.com/track/43WCDcOYP52dUGtbivUhZa) | [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN) | [The Birthing \(Live\)](https://open.spotify.com/album/0BKj2PB1oyXMqTY0LyP7fK) | 6:08 | 2024-06-21 |  |

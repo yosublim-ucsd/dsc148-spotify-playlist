@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Raluka
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,735 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,764 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 13 | [Prințul din Belair](https://open.spotify.com/track/3UGVjCOvhsaUgxhyUW9nXZ) | [Lino Golden](https://open.spotify.com/artist/1FLxXnFMMpCQYzHTIYtYLH) | [Prințul din Belair](https://open.spotify.com/album/0EQhQplPIxWq0m9hkAQkGI) | 2:55 |
 | 14 | [Să curgă șampania](https://open.spotify.com/track/7AOQGl6KHXylqTqrvszSie) | [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Să curgă șampania](https://open.spotify.com/album/5qbuhRXNNuH1QdBNiyGX4k) | 2:58 |
 | 15 | [Buzele tale](https://open.spotify.com/track/0kuZXHUFy8ijidzfuKVui4) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Buzele tale](https://open.spotify.com/album/4ojQgcsrLZBFxDjzoZfRFT) | 2:44 |
-| 16 | [Tu, Omule](https://open.spotify.com/track/7xbSg9L3XUoSR6vBCKWF3D) | [ADDA](https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy) | [Tu, Omule](https://open.spotify.com/album/1u1T3GULAzl3VO8OtwhQYR) | 3:22 |
+| 16 | [Tu, Omule](https://open.spotify.com/track/7xbSg9L3XUoSR6vBCKWF3D) | [ADDA](https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy) | [Tu, Omule](https://open.spotify.com/album/1u1T3GULAzl3VO8OtwhQYR) | 3:21 |
 | 17 | [Dudadu](https://open.spotify.com/track/7A0foIRFpCRMXutDU9vDsQ) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Dudadu](https://open.spotify.com/album/1R6lbA0eS3rw4wSetdUIhk) | 2:36 |
 | 18 | [Alarmă falsă](https://open.spotify.com/track/1WEoUIepliQWyDp2aY0S7L) | [Liviu Teodorescu](https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a), [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk) | [Alarmă falsă](https://open.spotify.com/album/4WqQP8Rzu8xGQHvdWmmfUy) | 2:15 |
 | 19 | [Nu mă lași să te las](https://open.spotify.com/track/6uRuXkzTwPoSqcAED4ygML) | [Alessandra](https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV), [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2) | [Până la final și mai departe](https://open.spotify.com/album/0VTaNyrHW5Mw19x38zAQYQ) | 2:29 |

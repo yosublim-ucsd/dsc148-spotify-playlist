@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OzWtc.md) - [plain]
 
 > This is Sebastian Esquivel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,296 likes - 27 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,297 likes - 27 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OzWtc.md) - [plain]
 | 21 | [Trokita Tumbada](https://open.spotify.com/track/5OikUUl8HDGRfImohipqOw) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Trokita Tumbada](https://open.spotify.com/album/1ksTdtTRNpqzbFkCcPi8k5) | 2:46 |
 | 22 | [A 150](https://open.spotify.com/track/1efOV43D7VeE2YyTZflN6F) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [A 150](https://open.spotify.com/album/51g8xFmtl2Bm6TXRNidRkC) | 2:28 |
 | 23 | [A Cargo del Terreno](https://open.spotify.com/track/0zC0P5eGWHbUB3T0uJpv0L) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [A Cargo del Terreno](https://open.spotify.com/album/6ZaB0FWEXlgSEAgirQs8cG) | 2:22 |
-| 24 | [Los Botones Azules \- En Vivo](https://open.spotify.com/track/48TRVLHK0tSdk0e17UZPFN) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Los De La Norte LDLN](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU), [Grupo Opuesto Sentido](https://open.spotify.com/artist/6X9jlymvUdil1KMlUnGBu2) | [Los Esquivel En Vivo Desde Cadereyta](https://open.spotify.com/album/6cVX7B3bzYW5Je5vVUjyXr) | 2:27 |
-| 25 | [Ni Muy Niño Ni Muy Viejo](https://open.spotify.com/track/0hgTaCVMiUVwp4cK4kmkDW) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Ni Muy Niño Ni Muy Viejo](https://open.spotify.com/album/71kYjtmfd7gZcTMM73LyPV) | 2:54 |
+| 24 | [Ni Muy Niño Ni Muy Viejo](https://open.spotify.com/track/0hgTaCVMiUVwp4cK4kmkDW) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Ni Muy Niño Ni Muy Viejo](https://open.spotify.com/album/71kYjtmfd7gZcTMM73LyPV) | 2:54 |
+| 25 | [Los Botones Azules \- En Vivo](https://open.spotify.com/track/48TRVLHK0tSdk0e17UZPFN) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Los De La Norte LDLN](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU), [Grupo Opuesto Sentido](https://open.spotify.com/artist/6X9jlymvUdil1KMlUnGBu2) | [Los Esquivel En Vivo Desde Cadereyta](https://open.spotify.com/album/6cVX7B3bzYW5Je5vVUjyXr) | 2:27 |
 | 26 | [Como Jordan \- En Vivo](https://open.spotify.com/track/1yjQtocovqKgWlHUeW9pKW) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Los De La Norte LDLN](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU), [Grupo Opuesto Sentido](https://open.spotify.com/artist/6X9jlymvUdil1KMlUnGBu2) | [Los Esquivel En Vivo Desde Cadereyta](https://open.spotify.com/album/6cVX7B3bzYW5Je5vVUjyXr) | 3:46 |
 | 27 | [El Rápido \- En Vivo](https://open.spotify.com/track/1BFZbkqRrXWzQ3Ld48OLTc) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Los De La Norte LDLN](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU), [Grupo Opuesto Sentido](https://open.spotify.com/artist/6X9jlymvUdil1KMlUnGBu2) | [Los Esquivel En Vivo Desde Cadereyta](https://open.spotify.com/album/6cVX7B3bzYW5Je5vVUjyXr) | 3:34 |
 
-Snapshot ID: `ZywDAAAAAAByUAsOVfnzl++15RNabJLY`
+Snapshot ID: `Zy1UgAAAAABJn0XWYUw2Da1oVT2LNEdW`

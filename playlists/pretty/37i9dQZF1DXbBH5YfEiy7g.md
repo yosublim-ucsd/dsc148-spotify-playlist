@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: "<a href=https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O?si=dekuLd7nQJupL6f6WNgyLw>Sbu Noah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,097 likes - 81 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,147 likes - 81 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 7 | [Ngegama Lakho Jesu \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/7aRQTRifIQY3BQ8p3Ypo2f) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Ngegama Lakho Jesu \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/4NkqciMpps60RHj9ZDAnpD) | 7:05 |
 | 8 | [Nginguthandiwe](https://open.spotify.com/track/5urEXwziw47MhSwePbbl4J) | [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Nginguthandiwe](https://open.spotify.com/album/6fdhhcKe1xHCLV4cPV3xxR) | 6:19 |
 | 9 | [Ngena Noah](https://open.spotify.com/track/2ZPtBDzHnuT7CJMVX5ILG7) | [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Gospel Africa \- A Joyous Easter Celebration With Top Gospel Stars](https://open.spotify.com/album/6idKZfHxl854ucNRHqIEoc) | 4:31 |
-| 10 | [Zwi Do Luga](https://open.spotify.com/track/6nCXu41LlH6tjvpCFvldyq) | [Mulaudzi Tee Jay](https://open.spotify.com/artist/1mkwME0SzmeqoIaKLRnkSy), [J\-Smash](https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD), [Dindie Cess](https://open.spotify.com/artist/0Rj5fvasKuiB33gEsJCBIm) | [Zwi Do Luga](https://open.spotify.com/album/72kRwx5i00gdYG4Mq33YbL) | 4:45 |
+| 10 | [Zwi Do Luga](https://open.spotify.com/track/6nCXu41LlH6tjvpCFvldyq) | [Mulaudzi Tee Jay](https://open.spotify.com/artist/1mkwME0SzmeqoIaKLRnkSy), [J\-Smash](https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD), [Dindie Cess](https://open.spotify.com/artist/0Rj5fvasKuiB33gEsJCBIm) | [Zwi Do Luga](https://open.spotify.com/album/72kRwx5i00gdYG4Mq33YbL) | 4:15 |
 | 11 | [Yibanathi](https://open.spotify.com/track/4rPSpeKJekm5pJNabHi0MK) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Yibanathi](https://open.spotify.com/album/76un37X1FHebVoU6wUzTcm) | 5:07 |
 | 12 | [Kulungile Baba](https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i) | [S'fiso Ncwane](https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES) | [Kulungile Baba](https://open.spotify.com/album/7iZJDcW68iks6zXB6x14Mb) | 4:44 |
 | 13 | [Asikho Isikhali \(Live\)](https://open.spotify.com/track/2b35KuJzUmtfroem1tRM8R) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Asikho Isikhali \(Live\)](https://open.spotify.com/album/141EOfzwPAMzBYjuPimZly) | 12:24 |

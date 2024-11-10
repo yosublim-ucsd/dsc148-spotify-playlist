@@ -1,6 +1,6 @@
 {
   "description": "For full-volume lovers. Cover: The Plot In You",
-  "num_followers": 374699,
+  "num_followers": 374918,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Lonely is the Muse",
-        "url": "https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 241579,
-      "name": "Lonely is the Muse",
-      "url": "https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "can u see me in the dark?",
         "url": "https://open.spotify.com/album/7mrNcgAQuzS3XF3db20WIe"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 238756,
       "name": "can u see me in the dark?",
       "url": "https://open.spotify.com/track/7pugmRsHRy1fnug9NqH5cA"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Lonely is the Muse",
+        "url": "https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 241579,
+      "name": "Lonely is the Muse",
+      "url": "https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "M.O.N.S.T.E.R",
+        "url": "https://open.spotify.com/album/2JGSSMxecWt7iAVsAN9asn"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 216116,
+      "name": "M.O.N.S.T.E.R",
+      "url": "https://open.spotify.com/track/4LGn1Irqotkdak6ZoRuTHt"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Dragonborn",
         "url": "https://open.spotify.com/album/0OnqzEEMsXMiRKL3je3SHi"
       },
@@ -1095,38 +1111,26 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "M.O.N.S.T.E.R",
-        "url": "https://open.spotify.com/album/2JGSSMxecWt7iAVsAN9asn"
+        "name": "Time Bomb",
+        "url": "https://open.spotify.com/album/3TdQFqyf8tha9pYeyiCVAP"
       },
       "artists": [
         {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 216116,
-      "name": "M.O.N.S.T.E.R",
-      "url": "https://open.spotify.com/track/4LGn1Irqotkdak6ZoRuTHt"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Hurts Like Hell",
-        "url": "https://open.spotify.com/album/4DWR9YrTgCNBma8yC6L6Ie"
-      },
-      "artists": [
-        {
-          "name": "Hands Like Houses",
-          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+          "name": "Saliva",
+          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
         },
         {
-          "name": "Normandie",
-          "url": "https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6"
+          "name": "Peyton Parrish",
+          "url": "https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
         }
       ],
-      "duration_ms": 221258,
-      "name": "Hurts Like Hell",
-      "url": "https://open.spotify.com/track/4DmXWoFYEsBtwSSJe1wkGe"
+      "duration_ms": 158786,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/2I1nBbKMRuAw8cMJb66Xaw"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1163,26 +1167,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Time Bomb",
-        "url": "https://open.spotify.com/album/3TdQFqyf8tha9pYeyiCVAP"
+        "name": "Hurts Like Hell",
+        "url": "https://open.spotify.com/album/4DWR9YrTgCNBma8yC6L6Ie"
       },
       "artists": [
         {
-          "name": "Saliva",
-          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
         },
         {
-          "name": "Peyton Parrish",
-          "url": "https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+          "name": "Normandie",
+          "url": "https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6"
         }
       ],
-      "duration_ms": 158786,
-      "name": "Time Bomb",
-      "url": "https://open.spotify.com/track/2I1nBbKMRuAw8cMJb66Xaw"
+      "duration_ms": 221258,
+      "name": "Hurts Like Hell",
+      "url": "https://open.spotify.com/track/4DmXWoFYEsBtwSSJe1wkGe"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Full Bloom",
+        "url": "https://open.spotify.com/album/67irzOwU4RwSbevSJTfYIH"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 167987,
+      "name": "Full Bloom",
+      "url": "https://open.spotify.com/track/2KZcwDKvYrk829QBoMdZkt"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Demon or Ghost (feat. Underoath)",
         "url": "https://open.spotify.com/album/6cc0bvYtCxY9nLvAsL7nPb"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 215813,
       "name": "Demon or Ghost (feat. Underoath)",
       "url": "https://open.spotify.com/track/6y6hE35ltgZIBXQFIwkIso"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Just Too Much",
-        "url": "https://open.spotify.com/album/1XtvMNpkxT9bfImjXVawnu"
-      },
-      "artists": [
-        {
-          "name": "Tremonti",
-          "url": "https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00"
-        }
-      ],
-      "duration_ms": 226846,
-      "name": "Just Too Much",
-      "url": "https://open.spotify.com/track/50jAagbs3gaicU3gxWbkkU"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1279,18 +1279,38 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Full Bloom",
-        "url": "https://open.spotify.com/album/67irzOwU4RwSbevSJTfYIH"
+        "name": "High Stakes",
+        "url": "https://open.spotify.com/album/4TUmco5xx8GSJ0Rwm39oQ2"
       },
       "artists": [
         {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        },
+        {
+          "name": "Matty Mullins",
+          "url": "https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot"
         }
       ],
-      "duration_ms": 167987,
-      "name": "Full Bloom",
-      "url": "https://open.spotify.com/track/2KZcwDKvYrk829QBoMdZkt"
+      "duration_ms": 205159,
+      "name": "High Stakes",
+      "url": "https://open.spotify.com/track/2J2iIecwVAjZPzlJubdAgD"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Just Too Much",
+        "url": "https://open.spotify.com/album/1XtvMNpkxT9bfImjXVawnu"
+      },
+      "artists": [
+        {
+          "name": "Tremonti",
+          "url": "https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00"
+        }
+      ],
+      "duration_ms": 226846,
+      "name": "Just Too Much",
+      "url": "https://open.spotify.com/track/50jAagbs3gaicU3gxWbkkU"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1347,26 +1367,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "High Stakes",
-        "url": "https://open.spotify.com/album/4TUmco5xx8GSJ0Rwm39oQ2"
-      },
-      "artists": [
-        {
-          "name": "Anberlin",
-          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
-        },
-        {
-          "name": "Matty Mullins",
-          "url": "https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot"
-        }
-      ],
-      "duration_ms": 205159,
-      "name": "High Stakes",
-      "url": "https://open.spotify.com/track/2J2iIecwVAjZPzlJubdAgD"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Remains of Us",
         "url": "https://open.spotify.com/album/2gxw4M7PiKHj1nYogMZY2z"
       },
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Haunting You",
+        "url": "https://open.spotify.com/album/62EPsCccU59mHcHzj3ZZPr"
+      },
+      "artists": [
+        {
+          "name": "Badflower",
+          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+        }
+      ],
+      "duration_ms": 157203,
+      "name": "Haunting You",
+      "url": "https://open.spotify.com/track/1ZHcs7CDcfUcni4MGbdNz9"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Bring Me Down",
         "url": "https://open.spotify.com/album/1vaCbsZwYga27cx2tAkvXv"
       },
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "PAY ATTENTION",
-        "url": "https://open.spotify.com/album/7mj8VbPfzMTYNnt20FmUFz"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 200344,
-      "name": "PAY ATTENTION",
-      "url": "https://open.spotify.com/track/3Z6ReZyj8uKeiGUYf0JElU"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Home Improvement",
         "url": "https://open.spotify.com/album/31zpQaCjaxluAa2KPHACYK"
       },
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Haunting You",
-        "url": "https://open.spotify.com/album/62EPsCccU59mHcHzj3ZZPr"
-      },
-      "artists": [
-        {
-          "name": "Badflower",
-          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
-        }
-      ],
-      "duration_ms": 157203,
-      "name": "Haunting You",
-      "url": "https://open.spotify.com/track/1ZHcs7CDcfUcni4MGbdNz9"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Your Master",
         "url": "https://open.spotify.com/album/6C2su7xaUEiGdNgGIZnn9B"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 185008,
       "name": "Your Master",
       "url": "https://open.spotify.com/track/3EuAXH9UnjcejNj49VKVIs"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "PAY ATTENTION",
+        "url": "https://open.spotify.com/album/7mj8VbPfzMTYNnt20FmUFz"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 200344,
+      "name": "PAY ATTENTION",
+      "url": "https://open.spotify.com/track/3Z6ReZyj8uKeiGUYf0JElU"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1611,18 +1611,38 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Say What You Will",
-        "url": "https://open.spotify.com/album/7gSyu9jMUqHOFYXeKtOSfB"
+        "name": "The Optimist (feat. Conquer Divide)",
+        "url": "https://open.spotify.com/album/2P8zgLveCE6sxbnUc8bRqu"
       },
       "artists": [
         {
-          "name": "Myles Kennedy",
-          "url": "https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR"
+          "name": "10 Years",
+          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
+        },
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
         }
       ],
-      "duration_ms": 213580,
-      "name": "Say What You Will",
-      "url": "https://open.spotify.com/track/6Q47FSXfau9Adh1qmFFmyb"
+      "duration_ms": 178920,
+      "name": "The Optimist (feat. Conquer Divide)",
+      "url": "https://open.spotify.com/track/5yuL23RxJeVqFvvV1BoYmS"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Survivor\u2019s Guilt",
+        "url": "https://open.spotify.com/album/2DYEEgwe8OUoovnnKrLjuY"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 198417,
+      "name": "Survivors Guilt",
+      "url": "https://open.spotify.com/track/652PlanA5w5iJxTr04Za8U"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1643,18 +1663,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Survivor\u2019s Guilt",
-        "url": "https://open.spotify.com/album/2DYEEgwe8OUoovnnKrLjuY"
+        "name": "Say What You Will",
+        "url": "https://open.spotify.com/album/7gSyu9jMUqHOFYXeKtOSfB"
       },
       "artists": [
         {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+          "name": "Myles Kennedy",
+          "url": "https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR"
         }
       ],
-      "duration_ms": 198417,
-      "name": "Survivors Guilt",
-      "url": "https://open.spotify.com/track/652PlanA5w5iJxTr04Za8U"
+      "duration_ms": 213580,
+      "name": "Say What You Will",
+      "url": "https://open.spotify.com/track/6Q47FSXfau9Adh1qmFFmyb"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1691,22 +1711,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "The Optimist (feat. Conquer Divide)",
-        "url": "https://open.spotify.com/album/2P8zgLveCE6sxbnUc8bRqu"
+        "name": "MOTH KIDS",
+        "url": "https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs"
       },
       "artists": [
         {
-          "name": "10 Years",
-          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
-        },
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
         }
       ],
-      "duration_ms": 178920,
-      "name": "The Optimist (feat. Conquer Divide)",
-      "url": "https://open.spotify.com/track/5yuL23RxJeVqFvvV1BoYmS"
+      "duration_ms": 219035,
+      "name": "MOTH KIDS",
+      "url": "https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1735,18 +1751,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "MOTH KIDS",
-        "url": "https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs"
+        "name": "Renovate",
+        "url": "https://open.spotify.com/album/1cNDqcn6iCg1avDJLAkyLo"
       },
       "artists": [
         {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+          "name": "Until I Wake",
+          "url": "https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5"
         }
       ],
-      "duration_ms": 219035,
-      "name": "MOTH KIDS",
-      "url": "https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU"
+      "duration_ms": 226733,
+      "name": "Renovate",
+      "url": "https://open.spotify.com/track/2w8HehfSCazC1isrLE7AZa"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1771,18 +1787,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Renovate",
-        "url": "https://open.spotify.com/album/1cNDqcn6iCg1avDJLAkyLo"
+        "name": "Get Your Shit Together",
+        "url": "https://open.spotify.com/album/5tASzwzWZKyQJM3OgZ1SNw"
       },
       "artists": [
         {
-          "name": "Until I Wake",
-          "url": "https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5"
+          "name": "Annisokay",
+          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
         }
       ],
-      "duration_ms": 226733,
-      "name": "Renovate",
-      "url": "https://open.spotify.com/track/2w8HehfSCazC1isrLE7AZa"
+      "duration_ms": 280980,
+      "name": "Get Your Shit Together",
+      "url": "https://open.spotify.com/track/31RcxIY2Wiwd1U0dOZR2Mr"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1803,18 +1819,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Get Your Shit Together",
-        "url": "https://open.spotify.com/album/5tASzwzWZKyQJM3OgZ1SNw"
+        "name": "Inner Darkness",
+        "url": "https://open.spotify.com/album/2FgZ9LfQxQfUPGhHYtFTTG"
       },
       "artists": [
         {
-          "name": "Annisokay",
-          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
+          "name": "10 Years",
+          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
         }
       ],
-      "duration_ms": 280980,
-      "name": "Get Your Shit Together",
-      "url": "https://open.spotify.com/track/31RcxIY2Wiwd1U0dOZR2Mr"
+      "duration_ms": 320424,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/6xJgwxAvkxGC2Oi8BbYlXx"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1843,22 +1859,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Dream Machine (The Lucid Edition)",
-        "url": "https://open.spotify.com/album/0aiL7SU1RkbrkjGydi2Q4F"
-      },
-      "artists": [
-        {
-          "name": "Des Rocs",
-          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
-        }
-      ],
-      "duration_ms": 243538,
-      "name": "Love and a Smoking Gun",
-      "url": "https://open.spotify.com/track/3yo3ZsW5OmKGEPvuScRWVL"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "American Horse (feat. John Cooper of Skillet and Ayron Jones)",
         "url": "https://open.spotify.com/album/4XSZtfqgfpWiqmfEc7lOtE"
       },
@@ -1883,18 +1883,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Inner Darkness",
-        "url": "https://open.spotify.com/album/2FgZ9LfQxQfUPGhHYtFTTG"
+        "name": "Dream Machine (The Lucid Edition)",
+        "url": "https://open.spotify.com/album/0aiL7SU1RkbrkjGydi2Q4F"
       },
       "artists": [
         {
-          "name": "10 Years",
-          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
         }
       ],
-      "duration_ms": 320424,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/6xJgwxAvkxGC2Oi8BbYlXx"
+      "duration_ms": 243538,
+      "name": "Love and a Smoking Gun",
+      "url": "https://open.spotify.com/track/3yo3ZsW5OmKGEPvuScRWVL"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "ENMY",
+        "url": "https://open.spotify.com/album/1D3qYb40QKAHQW5RVFNwRH"
+      },
+      "artists": [
+        {
+          "name": "ENMY",
+          "url": "https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM"
+        }
+      ],
+      "duration_ms": 190758,
+      "name": "Our Demise",
+      "url": "https://open.spotify.com/track/0zgRriKSxerBMB4IjyHQ6n"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Perfect World",
         "url": "https://open.spotify.com/album/3V8wl5gn1hXGQQC4SgbuA1"
       },
@@ -1967,22 +1983,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "ENMY",
-        "url": "https://open.spotify.com/album/1D3qYb40QKAHQW5RVFNwRH"
-      },
-      "artists": [
-        {
-          "name": "ENMY",
-          "url": "https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM"
-        }
-      ],
-      "duration_ms": 190758,
-      "name": "Our Demise",
-      "url": "https://open.spotify.com/track/0zgRriKSxerBMB4IjyHQ6n"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "SACRIFICE",
         "url": "https://open.spotify.com/album/42BtRB0B4hZs9xrHyUdDi8"
       },
@@ -1995,22 +1995,6 @@
       "duration_ms": 160910,
       "name": "SACRIFICE",
       "url": "https://open.spotify.com/track/652voO2ddpn77vv687YIN7"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "The Gallows",
-        "url": "https://open.spotify.com/album/2OanGtG5sW8esAhY25EMoH"
-      },
-      "artists": [
-        {
-          "name": "Black Label Society",
-          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
-        }
-      ],
-      "duration_ms": 230375,
-      "name": "The Gallows",
-      "url": "https://open.spotify.com/track/6lF3rwnMFBlbZeCWwZTWoS"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2047,6 +2031,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "The Gallows",
+        "url": "https://open.spotify.com/album/2OanGtG5sW8esAhY25EMoH"
+      },
+      "artists": [
+        {
+          "name": "Black Label Society",
+          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+        }
+      ],
+      "duration_ms": 230375,
+      "name": "The Gallows",
+      "url": "https://open.spotify.com/track/6lF3rwnMFBlbZeCWwZTWoS"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Out Of Style",
         "url": "https://open.spotify.com/album/2dOHtZj4IbrB2mmcEexXE1"
       },
@@ -2067,18 +2067,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "You're Gonna Get It",
-        "url": "https://open.spotify.com/album/3ndOl8SScHfom5tHpdcZA7"
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/3hoPKo2uUXRMoXkppIVNgm"
       },
       "artists": [
         {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+          "name": "Tremonti",
+          "url": "https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00"
         }
       ],
-      "duration_ms": 169455,
-      "name": "You're Gonna Get It",
-      "url": "https://open.spotify.com/track/7aXbppRpGAl8E4jMzN82CT"
+      "duration_ms": 266167,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/59mm9XCMyhZG23N1WPXE63"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2095,6 +2095,22 @@
       "duration_ms": 227064,
       "name": "20/20 Vision",
       "url": "https://open.spotify.com/track/3rzUxFVoUazdBrFkslPmYx"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "You're Gonna Get It",
+        "url": "https://open.spotify.com/album/3ndOl8SScHfom5tHpdcZA7"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 169455,
+      "name": "You're Gonna Get It",
+      "url": "https://open.spotify.com/track/7aXbppRpGAl8E4jMzN82CT"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2135,22 +2151,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Here's To The Years",
-        "url": "https://open.spotify.com/album/4rDmjLJ0zzV6HNEF53rEPu"
-      },
-      "artists": [
-        {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
-        }
-      ],
-      "duration_ms": 151691,
-      "name": "Here's To The Years",
-      "url": "https://open.spotify.com/track/5LZxLEQ2KIGcBKBC3KDETk"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "One Foot In The Grave",
         "url": "https://open.spotify.com/album/1WMolNCGsDhGvhD0Nd0phw"
       },
@@ -2167,18 +2167,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/3hoPKo2uUXRMoXkppIVNgm"
+        "name": "Here's To The Years",
+        "url": "https://open.spotify.com/album/4rDmjLJ0zzV6HNEF53rEPu"
       },
       "artists": [
         {
-          "name": "Tremonti",
-          "url": "https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00"
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
         }
       ],
-      "duration_ms": 266167,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/59mm9XCMyhZG23N1WPXE63"
+      "duration_ms": 151691,
+      "name": "Here's To The Years",
+      "url": "https://open.spotify.com/track/5LZxLEQ2KIGcBKBC3KDETk"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Until God Shows",
-        "url": "https://open.spotify.com/album/4rulQIJ8pBtWY5cyx549gS"
-      },
-      "artists": [
-        {
-          "name": "Destroy Rebuild Until God Shows",
-          "url": "https://open.spotify.com/artist/6XjXff8FNS5CqpF8dVAtoo"
-        }
-      ],
-      "duration_ms": 218505,
-      "name": "Headcase",
-      "url": "https://open.spotify.com/track/0CCGsR0C4nuAhmrdKqATEQ"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Blood & Scars",
         "url": "https://open.spotify.com/album/4LCAYq2XqPoDMClhdz7rF7"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 226500,
       "name": "Blood & Scars",
       "url": "https://open.spotify.com/track/3Cp4oTzZ6raUMwqTiQHUic"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Until God Shows",
+        "url": "https://open.spotify.com/album/4rulQIJ8pBtWY5cyx549gS"
+      },
+      "artists": [
+        {
+          "name": "Destroy Rebuild Until God Shows",
+          "url": "https://open.spotify.com/artist/6XjXff8FNS5CqpF8dVAtoo"
+        }
+      ],
+      "duration_ms": 218505,
+      "name": "Headcase",
+      "url": "https://open.spotify.com/track/0CCGsR0C4nuAhmrdKqATEQ"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "GUNGHO",
-        "url": "https://open.spotify.com/album/7hMKX3HhA1ORsRL0tiGziZ"
-      },
-      "artists": [
-        {
-          "name": "VUKOVI",
-          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
-        }
-      ],
-      "duration_ms": 215264,
-      "name": "GUNGHO",
-      "url": "https://open.spotify.com/track/4ue8srSrurnk8sLJb7GjaO"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Bomb.com",
         "url": "https://open.spotify.com/album/5pBDxsLn3W3V8ZAvt1QZ1m"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 150788,
       "name": "Bomb.com",
       "url": "https://open.spotify.com/track/3LRfBx8Z1PMQEwlFIyeNAs"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "GUNGHO",
+        "url": "https://open.spotify.com/album/7hMKX3HhA1ORsRL0tiGziZ"
+      },
+      "artists": [
+        {
+          "name": "VUKOVI",
+          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
+        }
+      ],
+      "duration_ms": 215264,
+      "name": "GUNGHO",
+      "url": "https://open.spotify.com/track/4ue8srSrurnk8sLJb7GjaO"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2599,6 +2599,30 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Leave Me to Bleed (feat. Brandon Saller)",
+        "url": "https://open.spotify.com/album/37LZExXprGsgP6b5Y7FJdx"
+      },
+      "artists": [
+        {
+          "name": "Mike's Dead",
+          "url": "https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1"
+        },
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        },
+        {
+          "name": "Brandon Saller",
+          "url": "https://open.spotify.com/artist/12x8XI7ZYpGnKPUzifOxL6"
+        }
+      ],
+      "duration_ms": 218384,
+      "name": "Leave Me to Bleed (feat. Brandon Saller)",
+      "url": "https://open.spotify.com/track/6QfrQzppJ3yVqrDLS6L3L4"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Filthy Animals",
         "url": "https://open.spotify.com/album/6GJtdvQRdh5QyWZYA1qm72"
       },
@@ -2643,22 +2667,6 @@
       "duration_ms": 278013,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/3EHJOZe6u7piShrCp3y7KD"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "DESERT RAP",
-        "url": "https://open.spotify.com/album/0VCDFicjr02GvApktZoPO8"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 192676,
-      "name": "DESERT RAP",
-      "url": "https://open.spotify.com/track/3AJS1eZLyHUSUFq4RU2Jan"
     }
   ],
   "unique_name": "Hard Rock",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Rachael Fahim
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,122 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,302 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 9 | [You For A Reason](https://open.spotify.com/track/10QxsSJlNl8jrylYL5XGJO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [You For A Reason](https://open.spotify.com/album/5kIKFBdjL155Okv2nXTEWj) | 3:03 |
 | 10 | [Chevrolet You Down](https://open.spotify.com/track/1bEF4ojUgK7iI3TZtcXLID) | [Alex Mather](https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw), [Mary Kutter](https://open.spotify.com/artist/0rTX0ieS2m0gUGLlLe4kQP) | [Chevrolet You Down](https://open.spotify.com/album/4cBn8OYdcqjF6LJGIIZ8l3) | 2:10 |
 | 11 | [hungover](https://open.spotify.com/track/1p7V6RyEgPPPYRcvJSCpnF) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 3:18 |
-| 12 | [All the Small Things](https://open.spotify.com/track/5QF6dBZYF4zDmpDeM8qbZ4) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [All the Small Things](https://open.spotify.com/album/0nGBaopA0BHPtyTitsv2Gu) | 3:19 |
+| 12 | [All The Small Things](https://open.spotify.com/track/5QF6dBZYF4zDmpDeM8qbZ4) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [All The Small Things](https://open.spotify.com/album/0nGBaopA0BHPtyTitsv2Gu) | 3:19 |
 | 13 | [Know You Like That](https://open.spotify.com/track/2zNRgMzYj5VlfxNDZK7RGO) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Know You Like That](https://open.spotify.com/album/4xgNgsr0mwtN1YraSZMGjl) | 2:56 |
 | 14 | [Winning Streak](https://open.spotify.com/track/6dibjdPRlDUZabs8aokY4D) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:14 |
 | 15 | [Baggage](https://open.spotify.com/track/1ubHDF8Y9eM6ptjsNROEJa) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS](https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0) | 2:32 |

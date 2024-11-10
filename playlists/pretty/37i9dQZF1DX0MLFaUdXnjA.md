@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 
 > Sit back and relax to the chillest pop\.  Cover: grentperez
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,824,953 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,824,910 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 19 | [Red White and Blue](https://open.spotify.com/track/6HZpO5sszbG3zZZSj62Pgt) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Red White and Blue](https://open.spotify.com/album/3mQKPUtfUbn2E432gqCUGx) | 3:54 |
 | 20 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 |
 | 21 | [9 Lives](https://open.spotify.com/track/66tq3X5MuLhQienSSv6qQ3) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Season One \(Extended\)](https://open.spotify.com/album/6AaU5XwlKXPVr46pPnX1WT) | 2:25 |
-| 22 | [Cats On The Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats On The Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 |
+| 22 | [Cats on the Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats on the Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 |
 | 23 | [U and I \(Intertwine\)](https://open.spotify.com/track/3m4PhccmoJYS8ei9I1GQEX) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [U and I \(Intertwine\)](https://open.spotify.com/album/0RhDkObdl3kydd4jUIr6CA) | 2:46 |
 | 24 | [horror story \(acoustic\)](https://open.spotify.com/track/5z84zcIEL2tuL1IWfjm8Zy) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [the acoustic tape](https://open.spotify.com/album/28bOaYq5hguOdjlpmuNwUQ) | 1:32 |
 | 25 | [Wish I Could Hold You](https://open.spotify.com/track/6oP3Lock2adIgvHb1Sr9wu) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Wish I Could Hold You](https://open.spotify.com/album/68YhnCOjvveRByOAc1w2GR) | 3:52 |

@@ -4838,7 +4838,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -9579,6 +9579,28 @@
     },
     {
       "album": {
+        "name": "MAM\u00d8NT3NOK",
+        "url": "https://open.spotify.com/album/2nXGZVkjoXJcrG0z2wmZR2"
+      },
+      "artists": [
+        {
+          "name": "HOMINID",
+          "url": "https://open.spotify.com/artist/7lyYlIclaVEmE0rlSCwH3h"
+        },
+        {
+          "name": "C\u00d8V3R1st",
+          "url": "https://open.spotify.com/artist/6yC7BVlGi7JXkpl0LsZeeS"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108333,
+      "name": "MAM\u00d8NT3NOK",
+      "url": "https://open.spotify.com/track/2C49T3wEyWTmndwj8l9JmU"
+    },
+    {
+      "album": {
         "name": "mana break",
         "url": "https://open.spotify.com/album/10Cgx3ZjrNZxeiMTE8LX1o"
       },
@@ -12072,6 +12094,24 @@
       "duration_ms": 161215,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/2iZIGRH6WG9xnxDfYfCKRS"
+    },
+    {
+      "album": {
+        "name": "ParisLove",
+        "url": "https://open.spotify.com/album/60Evg5wOVFEI0PH4XKersZ"
+      },
+      "artists": [
+        {
+          "name": "FORTUNA 812",
+          "url": "https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109870,
+      "name": "ParisLove",
+      "url": "https://open.spotify.com/track/6zECxDYlNtEybq8hZ9Tp12"
     },
     {
       "album": {
@@ -17577,6 +17617,24 @@
     },
     {
       "album": {
+        "name": "zitraks mode",
+        "url": "https://open.spotify.com/album/5jifypo54feKFBJLPzAmP0"
+      },
+      "artists": [
+        {
+          "name": "shadowraze",
+          "url": "https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122643,
+      "name": "zitraks mode",
+      "url": "https://open.spotify.com/track/6vIOPzEgSzf0nv7nKutxlz"
+    },
+    {
+      "album": {
         "name": "Teatro d'ira - Vol. I",
         "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
       },
@@ -17890,7 +17948,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 120215,
       "name": "\u0410\u043d\u0442\u0438\u0434\u0435\u043f\u0440\u0435\u0441\u0441\u0430\u043d\u0442",
       "url": "https://open.spotify.com/track/26yvlxKTtN2u3mpbl6AIeI"
@@ -21530,7 +21588,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 152725,
       "name": "\u0415\u043d\u0434\u043e\u0440\u0444\u0456\u043d",
       "url": "https://open.spotify.com/track/70UqjNucXs25xQMojfHZKO"
@@ -30052,7 +30110,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 147000,
       "name": "\u0423\u0442\u0440\u043e",
       "url": "https://open.spotify.com/track/0aKl63MnUIVKkXlVtp2vLr"
@@ -30838,7 +30896,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 156338,
       "name": "\u0426\u0435 \u043b\u044e\u0431\u043e\u0432",
       "url": "https://open.spotify.com/track/1wC8M93ofAwfrV9a4mDzYa"

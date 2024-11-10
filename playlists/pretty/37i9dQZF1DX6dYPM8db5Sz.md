@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549?si=q1ZSuBFaSU6MjBSmr34w7A">Porcelain Moon</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,236 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,240 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 5 | [CHANGE](https://open.spotify.com/track/0nCP2tsww2Uij1g4I3b09F) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [CHANGE](https://open.spotify.com/album/7pShsWcXSqtEbWKDTAOObs) | 3:02 |
 | 6 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 |
 | 7 | [Spotlight](https://open.spotify.com/track/4GnCkUqZxnTmCAnO5X5cZU) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Spotlight](https://open.spotify.com/album/1eQpBjbHfLEX4gsLOsbd2R) | 3:28 |
-| 8 | [Warm Again](https://open.spotify.com/track/1RNjePYCCjdDSljZyA0iDR) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Warm Again EP](https://open.spotify.com/album/3lQ9jRWYwhQ9C725tt491s) | 2:30 |
+| 8 | [Warm Again](https://open.spotify.com/track/1RNjePYCCjdDSljZyA0iDR) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Warm Again](https://open.spotify.com/album/3lQ9jRWYwhQ9C725tt491s) | 2:30 |
 | 9 | [DO IT!](https://open.spotify.com/track/6DgY9CfYAZTXDZPDOPUDsR) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh) | [DO IT!](https://open.spotify.com/album/1P9ARtQB0fGzvTPjGyOWYu) | 1:54 |
 | 10 | [Skin](https://open.spotify.com/track/3xjuZyHTgnqtOX0wj2KXvF) | [Tyler Page](https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl) | [Skin](https://open.spotify.com/album/3LKO5EOEzZcGGzOTLgxedu) | 3:22 |
 | 11 | [Falling Down a Well](https://open.spotify.com/track/6y4eFBfaADWBdUMq4HlrOC) | [Jack J](https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl) | [Falling Down a Well / Born Without a Smile](https://open.spotify.com/album/2ad6OJI02AHDOXDCCdf9Sg) | 2:53 |

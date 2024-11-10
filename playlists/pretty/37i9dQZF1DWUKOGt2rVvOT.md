@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 這些歌還很紅也！已經有兩三年了？高人氣金曲讓你一路聽下去！Cover: 李榮浩 x 張惠妹 \(Ronghao Li x aMEI\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,551 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,631 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2) | 5:27 |
-| 2 | [等待被理解的人](https://open.spotify.com/track/3rjE1K6ASuHzYC1ETM4UFa) | [Rylee張若凡](https://open.spotify.com/artist/1bjPYTr4OJ9TsxnvbClNfS) | [等待被理解的人](https://open.spotify.com/album/21kTRBroWNrpXyp2IiYkrF) | 3:26 |
+| 2 | [等待被理解的人](https://open.spotify.com/track/3rjE1K6ASuHzYC1ETM4UFa) | [Rylee張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [等待被理解的人](https://open.spotify.com/album/21kTRBroWNrpXyp2IiYkrF) | 3:26 |
 | 3 | [你是我這輩子最想愛的呀](https://open.spotify.com/track/4NF4arILnIdBOZu2FkRV8P) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [你是我這輩子最想愛的呀](https://open.spotify.com/album/30pjHo1kj2exb6bIUfCvVv) | 4:24 |
 | 4 | [愛我的時候](https://open.spotify.com/track/6us212S3fCRIQwOwNExqLH) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [愛我的時候](https://open.spotify.com/album/6kXiZM2u6c5VdmYcGhtxmh) | 3:44 |
 | 5 | [別離開好嗎 \(《第9節課》插曲\)](https://open.spotify.com/track/3gsBzDDsdCEGSGNjbs5NL8) | [HAOR](https://open.spotify.com/artist/1vhgWOwfVcKVTGTsfHmoBx) | [別離開好嗎 \(《第9節課》插曲\)](https://open.spotify.com/album/2BIxoEhZZJ5TN0BqRpIKfe) | 4:07 |

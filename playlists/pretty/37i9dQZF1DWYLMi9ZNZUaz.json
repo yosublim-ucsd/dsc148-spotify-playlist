@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: HIEUTHUHAI",
-  "num_followers": 98542,
+  "num_followers": 98557,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-11-08 02:45:21",
       "album": {
+        "name": "Love is",
+        "url": "https://open.spotify.com/album/6FfeIJTcMgDM06w9sx6b3m"
+      },
+      "artists": [
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        }
+      ],
+      "duration_ms": 266758,
+      "name": "Love is",
+      "url": "https://open.spotify.com/track/226ljdOTLM2clGpm4mZvAm"
+    },
+    {
+      "added_at": "2024-11-08 02:45:21",
+      "album": {
         "name": "ANH TRAI \"SAY HI\", T\u1eadp 5",
         "url": "https://open.spotify.com/album/2IgOCG5wbFkL6ZH6TFug32"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 245454,
       "name": "H\u00c0O QUANG (feat. RHYDER, D\u01b0\u01a1ng Domic & Ph\u00e1p Ki\u1ec1u)",
       "url": "https://open.spotify.com/track/3EQjXzlXY0dyOovq0Awe91"
-    },
-    {
-      "added_at": "2024-11-08 02:45:21",
-      "album": {
-        "name": "Love is",
-        "url": "https://open.spotify.com/album/6FfeIJTcMgDM06w9sx6b3m"
-      },
-      "artists": [
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        }
-      ],
-      "duration_ms": 266758,
-      "name": "Love is",
-      "url": "https://open.spotify.com/track/226ljdOTLM2clGpm4mZvAm"
     },
     {
       "added_at": "2024-11-08 02:45:21",
@@ -523,38 +523,18 @@
     {
       "added_at": "2024-11-08 02:45:21",
       "album": {
-        "name": "ANH TRAI \"SAY HI\", T\u1eadp 8",
-        "url": "https://open.spotify.com/album/1VBXkt46HafTjxlj1mUB1A"
+        "name": "B\u1ea3o T\u00e0ng",
+        "url": "https://open.spotify.com/album/4ZaeSyWcJmXC2tJgU70q31"
       },
       "artists": [
         {
-          "name": "ANH TRAI \"SAY HI\"",
-          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
-        },
-        {
-          "name": "RHYDER",
-          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
-        },
-        {
-          "name": "WEAN",
-          "url": "https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8"
-        },
-        {
-          "name": "\u0110\u1ee9c Ph\u00fac",
-          "url": "https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs"
-        },
-        {
-          "name": "H\u00f9ng Hu\u1ef3nh",
-          "url": "https://open.spotify.com/artist/6LBaSwUNOiuHp1WqbdrZO9"
-        },
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+          "name": "Low G",
+          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
         }
       ],
-      "duration_ms": 278400,
-      "name": "I'M THINKING ABOUT YOU (feat. RHYDER, WEAN, \u0110\u1ee9c Ph\u00fac, H\u00f9ng Hu\u1ef3nh & tlinh)",
-      "url": "https://open.spotify.com/track/2AA5DB0Ehi28UdYrAU9xnA"
+      "duration_ms": 185142,
+      "name": "B\u1ea3o T\u00e0ng",
+      "url": "https://open.spotify.com/track/2ctmaWoBxLBYiZB7AKmK1D"
     },
     {
       "added_at": "2024-11-08 02:45:21",
@@ -587,18 +567,38 @@
     {
       "added_at": "2024-11-08 02:45:21",
       "album": {
-        "name": "B\u1ea3o T\u00e0ng",
-        "url": "https://open.spotify.com/album/4ZaeSyWcJmXC2tJgU70q31"
+        "name": "ANH TRAI \"SAY HI\", T\u1eadp 8",
+        "url": "https://open.spotify.com/album/1VBXkt46HafTjxlj1mUB1A"
       },
       "artists": [
         {
-          "name": "Low G",
-          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        },
+        {
+          "name": "WEAN",
+          "url": "https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8"
+        },
+        {
+          "name": "\u0110\u1ee9c Ph\u00fac",
+          "url": "https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs"
+        },
+        {
+          "name": "H\u00f9ng Hu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/6LBaSwUNOiuHp1WqbdrZO9"
+        },
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
         }
       ],
-      "duration_ms": 185142,
-      "name": "B\u1ea3o T\u00e0ng",
-      "url": "https://open.spotify.com/track/2ctmaWoBxLBYiZB7AKmK1D"
+      "duration_ms": 278400,
+      "name": "I'M THINKING ABOUT YOU (feat. RHYDER, WEAN, \u0110\u1ee9c Ph\u00fac, H\u00f9ng Hu\u1ef3nh & tlinh)",
+      "url": "https://open.spotify.com/track/2AA5DB0Ehi28UdYrAU9xnA"
     },
     {
       "added_at": "2024-11-08 02:45:21",
@@ -915,6 +915,26 @@
     {
       "added_at": "2024-11-08 02:45:21",
       "album": {
+        "name": "M\u01b0a Th\u00e2m L\u1eb7ng Gi\u1eddi",
+        "url": "https://open.spotify.com/album/1RYUD4BNc5kBZWSBstgvw5"
+      },
+      "artists": [
+        {
+          "name": "BigDaddy",
+          "url": "https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6"
+        },
+        {
+          "name": "GREY D",
+          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
+        }
+      ],
+      "duration_ms": 228521,
+      "name": "M\u01b0a Th\u00e2m L\u1eb7ng Gi\u1eddi",
+      "url": "https://open.spotify.com/track/6INhamAhXUTRuXliyDirMV"
+    },
+    {
+      "added_at": "2024-11-08 02:45:21",
+      "album": {
         "name": "y\u00eau anh \u0111i m\u1eb9 anh b\u00e1n b\u00e1nh m\u00ec",
         "url": "https://open.spotify.com/album/5SJdYLmgXEYDTRWxambaQU"
       },
@@ -947,30 +967,6 @@
       "duration_ms": 227555,
       "name": "\u0110\u1ed5i T\u01b0 Th\u1ebf",
       "url": "https://open.spotify.com/track/3pmDpi2XUdGGInqXQbOIaM"
-    },
-    {
-      "added_at": "2024-11-08 02:45:21",
-      "album": {
-        "name": "1-800-LOVE",
-        "url": "https://open.spotify.com/album/24E35s7rYA3IzKm2BPeusC"
-      },
-      "artists": [
-        {
-          "name": "MANBO",
-          "url": "https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf"
-        },
-        {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
-        },
-        {
-          "name": "HURRYKNG",
-          "url": "https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV"
-        }
-      ],
-      "duration_ms": 265750,
-      "name": "1-800-LOVE",
-      "url": "https://open.spotify.com/track/7K1yMkQqA9ZxHfa2y4XsY6"
     },
     {
       "added_at": "2024-11-08 02:45:21",
@@ -1015,46 +1011,6 @@
       "duration_ms": 258023,
       "name": "Ex's Hate Me",
       "url": "https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC"
-    },
-    {
-      "added_at": "2024-11-08 02:45:21",
-      "album": {
-        "name": "M\u01b0a th\u00e2m l\u1eb7ng gi\u1eddi",
-        "url": "https://open.spotify.com/album/1RYUD4BNc5kBZWSBstgvw5"
-      },
-      "artists": [
-        {
-          "name": "BigDaddy",
-          "url": "https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6"
-        },
-        {
-          "name": "GREY D",
-          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
-        }
-      ],
-      "duration_ms": 228521,
-      "name": "M\u01b0a th\u00e2m l\u1eb7ng gi\u1eddi",
-      "url": "https://open.spotify.com/track/6INhamAhXUTRuXliyDirMV"
-    },
-    {
-      "added_at": "2024-11-08 02:45:21",
-      "album": {
-        "name": "TO LOVE AND BE LOVED",
-        "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
-      },
-      "artists": [
-        {
-          "name": "Winno",
-          "url": "https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB"
-        },
-        {
-          "name": "Hustlang Robber",
-          "url": "https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv"
-        }
-      ],
-      "duration_ms": 340724,
-      "name": "Mu\u1ed1n anh \u0111au",
-      "url": "https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf"
     },
     {
       "added_at": "2024-11-08 02:45:21",
@@ -1107,6 +1063,26 @@
     {
       "added_at": "2024-11-08 02:45:21",
       "album": {
+        "name": "TO LOVE AND BE LOVED",
+        "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
+      },
+      "artists": [
+        {
+          "name": "Winno",
+          "url": "https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB"
+        },
+        {
+          "name": "Hustlang Robber",
+          "url": "https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv"
+        }
+      ],
+      "duration_ms": 340724,
+      "name": "Mu\u1ed1n anh \u0111au",
+      "url": "https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf"
+    },
+    {
+      "added_at": "2024-11-08 02:45:21",
+      "album": {
         "name": "99%",
         "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
       },
@@ -1119,6 +1095,30 @@
       "duration_ms": 158559,
       "name": "Badtrip",
       "url": "https://open.spotify.com/track/33SYx5viijwLGMqfl50FKI"
+    },
+    {
+      "added_at": "2024-11-08 02:45:21",
+      "album": {
+        "name": "1-800-LOVE",
+        "url": "https://open.spotify.com/album/24E35s7rYA3IzKm2BPeusC"
+      },
+      "artists": [
+        {
+          "name": "MANBO",
+          "url": "https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf"
+        },
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        },
+        {
+          "name": "HURRYKNG",
+          "url": "https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV"
+        }
+      ],
+      "duration_ms": 265750,
+      "name": "1-800-LOVE",
+      "url": "https://open.spotify.com/track/7K1yMkQqA9ZxHfa2y4XsY6"
     }
   ],
   "unique_name": "Hip-hop Vi\u1ec7t",

@@ -18827,6 +18827,28 @@
     },
     {
       "album": {
+        "name": "Candyland",
+        "url": "https://open.spotify.com/album/1IQpZ9vABR5z4Sz394TKW8"
+      },
+      "artists": [
+        {
+          "name": "Uevo",
+          "url": "https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi"
+        },
+        {
+          "name": "Noflik",
+          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137061,
+      "name": "Candyland",
+      "url": "https://open.spotify.com/track/2FVUM1ynoTnfo8SsW8KzKc"
+    },
+    {
+      "album": {
         "name": "Cane Sugar",
         "url": "https://open.spotify.com/album/0hSERMAGmXQmb05wYnBI2K"
       },
@@ -70144,7 +70166,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 115631,
       "name": "lovebird",
       "url": "https://open.spotify.com/track/17KHkEccHRhWYlZCqKDSNA"

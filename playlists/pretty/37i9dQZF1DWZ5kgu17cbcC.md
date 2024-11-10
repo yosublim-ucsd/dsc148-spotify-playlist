@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5kgu17cbcC.md) - [plain]
 
 > Music from shows and movies you love including Only Murders In The Building, now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,749 likes - 87 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,729 likes - 87 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

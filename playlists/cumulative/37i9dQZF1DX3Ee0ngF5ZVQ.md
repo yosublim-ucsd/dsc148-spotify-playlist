@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jenna Paulette
 
-671 songs - 1 day 15 hr 59 min
+672 songs - 1 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Everything Has Your Memory](https://open.spotify.com/track/0KYC7enraB6AVZ5k7cdfKk) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Everything Has Your Memory](https://open.spotify.com/album/26z3oFclQMKjKXn686cATB) | 3:45 | 2022-06-03 | 2022-10-15 |
 | [Everything I Had](https://open.spotify.com/track/70eyw755HGnxFAk8jPJGRo) | [Gunnar Latham](https://open.spotify.com/artist/7D4Tp8mNvYMeE6xMDSTlU4) | [Volume 2](https://open.spotify.com/album/1Ow5quOYqrRSf4SU6SQnga) | 3:30 | 2021-12-17 | 2022-03-19 |
 | [Excuses](https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Excuses](https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t) | 3:26 | 2021-12-17 | 2022-03-19 |
+| [Fall This Way](https://open.spotify.com/track/5AeR3j18cKWueAh42yKkFE) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Fall This Way](https://open.spotify.com/album/5fezVdpvGi5luATJVA19B5) | 3:35 | 2024-11-08 |  |
 | [Family Affair](https://open.spotify.com/track/4ImB5tDz8EHehkCSLe6Ep7) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Family Affair](https://open.spotify.com/album/0zUXeQ5pqqy0FBCAiK4qWx) | 3:57 | 2023-06-09 | 2023-09-09 |
 | [Fast Car](https://open.spotify.com/track/40TItUSmH99bXtbzp0pl4H) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Homecoming](https://open.spotify.com/album/1Om7EoqiNsXCCMeiTzC9BZ) | 3:28 | 2022-10-14 | 2024-06-07 |
 | [Fast Horse](https://open.spotify.com/track/4YljDe3g4jed583mu2XyaJ) | [Blake Wood](https://open.spotify.com/artist/5gTcKzwENiELKcVV9cFNox) | [Fast Horse](https://open.spotify.com/album/5rzJOOitdymAh0vjArSSUz) | 3:01 | 2024-09-27 |  |
@@ -493,7 +494,7 @@
 | [Shot from the Heart](https://open.spotify.com/track/3uvw2lZIL6tuaCQWUP2Syp) | [Bart Crow](https://open.spotify.com/artist/0Vdv0pEg0SwdqoEbpP3MJ1) | [Shot from the Heart](https://open.spotify.com/album/5EUxYBJyHStLsVJMRipLX8) | 3:03 | 2022-10-01 | 2023-01-06 |
 | [Shuffle](https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Laci Kaye Booth](https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79) | 3:12 | 2021-12-17 | 2023-02-02 |
 | [Sick and Tired](https://open.spotify.com/track/2w4KilW4FZQeIyH33R2KxW) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Tears the Size of Texas](https://open.spotify.com/album/34cv4GGLrJbYA2u6di1Pok) | 4:28 | 2022-10-01 | 2023-01-25 |
-| [Side of Goodbye](https://open.spotify.com/track/4qgbOxYNnvahjjZra6TSt7) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Story About a Girl + Side of Goodbye](https://open.spotify.com/album/0d814l2UheeEDCTZSE5Rqr) | 2:30 | 2024-02-02 |  |
+| [Side of Goodbye](https://open.spotify.com/track/4qgbOxYNnvahjjZra6TSt7) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Story About a Girl + Side of Goodbye](https://open.spotify.com/album/0d814l2UheeEDCTZSE5Rqr) | 2:30 | 2024-02-02 | 2024-11-10 |
 | [Singer's Blues \- Live](https://open.spotify.com/track/30ehnjO6uAZrGz11SYGsi2) | [Cash Byers & Big Valley](https://open.spotify.com/artist/5f8NDIzQmtTHDYJgaUYYVE) | [Singer's Blues \(Live\)](https://open.spotify.com/album/6iyWt1cm2l4ehHcotR5qro) | 3:09 | 2021-12-17 | 2022-07-09 |
 | [Six Pack State of Mind](https://open.spotify.com/track/6ZkE2BsDMMVLUDOH8PiEzD) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Six Pack State of Mind](https://open.spotify.com/album/5E7LKhxVSK9M532Q8azOOy) | 3:10 | 2023-02-24 | 2023-06-03 |
 | [Sleep, My Mind & You](https://open.spotify.com/track/4Nhb792SN9kzi0DXBXvYyH) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Sleep, My Mind & You](https://open.spotify.com/album/1SrKXUODqMJXw0GxlKQKrV) | 3:56 | 2023-02-01 | 2023-02-21 |

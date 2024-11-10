@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Delacruz",
-  "num_followers": 292655,
+  "num_followers": 292682,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -879,26 +879,6 @@
     {
       "added_at": "2024-11-08 13:09:49",
       "album": {
-        "name": "eu n\u00e3o queria mais nada",
-        "url": "https://open.spotify.com/album/7fgvOLMEcCid3ARWQif6hc"
-      },
-      "artists": [
-        {
-          "name": "bela",
-          "url": "https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD"
-        },
-        {
-          "name": "contito",
-          "url": "https://open.spotify.com/artist/20mSlUD4qdidUcGtz9PrvT"
-        }
-      ],
-      "duration_ms": 148187,
-      "name": "eu n\u00e3o queria mais nada",
-      "url": "https://open.spotify.com/track/0brEYv71k1NrZEKuyRmKL3"
-    },
-    {
-      "added_at": "2024-11-08 13:09:49",
-      "album": {
         "name": "Luz Acesa",
         "url": "https://open.spotify.com/album/1MVOG9MC3OaC4Mli2NPsQX"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 138139,
       "name": "Luz Acesa",
       "url": "https://open.spotify.com/track/2GNXsFAXEdPDxHxN4NSDSE"
+    },
+    {
+      "added_at": "2024-11-08 13:09:49",
+      "album": {
+        "name": "eu n\u00e3o queria mais nada",
+        "url": "https://open.spotify.com/album/7fgvOLMEcCid3ARWQif6hc"
+      },
+      "artists": [
+        {
+          "name": "bela",
+          "url": "https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD"
+        },
+        {
+          "name": "contito",
+          "url": "https://open.spotify.com/artist/20mSlUD4qdidUcGtz9PrvT"
+        }
+      ],
+      "duration_ms": 148187,
+      "name": "eu n\u00e3o queria mais nada",
+      "url": "https://open.spotify.com/track/0brEYv71k1NrZEKuyRmKL3"
     },
     {
       "added_at": "2024-11-08 13:09:49",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2024-11-08 13:09:49",
       "album": {
-        "name": "Pra Viajar",
-        "url": "https://open.spotify.com/album/4z4dZiS8jx9ZzOzJb4nGN9"
-      },
-      "artists": [
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 249489,
-      "name": "Pra Viajar",
-      "url": "https://open.spotify.com/track/390Yl190rqixethu2ekKXk"
-    },
-    {
-      "added_at": "2024-11-08 13:09:49",
-      "album": {
         "name": "n\u00e3o te amo mais",
         "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
       },
@@ -1219,6 +1199,22 @@
     {
       "added_at": "2024-11-08 13:09:49",
       "album": {
+        "name": "Nenhuma Outra Mulher",
+        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        }
+      ],
+      "duration_ms": 147025,
+      "name": "Nenhuma Outra Mulher",
+      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
+    },
+    {
+      "added_at": "2024-11-08 13:09:49",
+      "album": {
         "name": "Conex\u00e3o",
         "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
       },
@@ -1243,38 +1239,22 @@
     {
       "added_at": "2024-11-08 13:09:49",
       "album": {
-        "name": "Nenhuma Outra Mulher",
-        "url": "https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n"
+        "name": "Pra Viajar",
+        "url": "https://open.spotify.com/album/4z4dZiS8jx9ZzOzJb4nGN9"
       },
       "artists": [
         {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
-        }
-      ],
-      "duration_ms": 147025,
-      "name": "Nenhuma Outra Mulher",
-      "url": "https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt"
-    },
-    {
-      "added_at": "2024-11-08 13:09:49",
-      "album": {
-        "name": "2Hard2Love2",
-        "url": "https://open.spotify.com/album/3wS5WJwMyY2FxkUuCWkzCF"
-      },
-      "artists": [
-        {
-          "name": "Ninjahmen",
-          "url": "https://open.spotify.com/artist/6OXt9ENUnO4I6tVIWW6O6D"
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
         },
         {
-          "name": "Jambu Est\u00fadio",
-          "url": "https://open.spotify.com/artist/2Pd4HboTYCyPN0nEx7DGSW"
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         }
       ],
-      "duration_ms": 138857,
-      "name": "Tangar\u00e1",
-      "url": "https://open.spotify.com/track/6yFqE32ZMycbGXP7vxo7OF"
+      "duration_ms": 249489,
+      "name": "Pra Viajar",
+      "url": "https://open.spotify.com/track/390Yl190rqixethu2ekKXk"
     },
     {
       "added_at": "2024-11-08 13:09:49",
@@ -1303,6 +1283,26 @@
       "duration_ms": 141120,
       "name": "Voc\u00ea Falou pra Mim",
       "url": "https://open.spotify.com/track/1tPgLKnmMJf6rp2m6YYBd1"
+    },
+    {
+      "added_at": "2024-11-08 13:09:49",
+      "album": {
+        "name": "2Hard2Love2",
+        "url": "https://open.spotify.com/album/3wS5WJwMyY2FxkUuCWkzCF"
+      },
+      "artists": [
+        {
+          "name": "Ninjahmen",
+          "url": "https://open.spotify.com/artist/6OXt9ENUnO4I6tVIWW6O6D"
+        },
+        {
+          "name": "Jambu Est\u00fadio",
+          "url": "https://open.spotify.com/artist/2Pd4HboTYCyPN0nEx7DGSW"
+        }
+      ],
+      "duration_ms": 138857,
+      "name": "Tangar\u00e1",
+      "url": "https://open.spotify.com/track/6yFqE32ZMycbGXP7vxo7OF"
     },
     {
       "added_at": "2024-11-08 13:09:49",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-11-08 13:09:49",
       "album": {
+        "name": "Voc\u00ea Chegou",
+        "url": "https://open.spotify.com/album/0zS2dRNVij5Z1A7fi5wpRV"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        }
+      ],
+      "duration_ms": 143661,
+      "name": "Voc\u00ea Chegou",
+      "url": "https://open.spotify.com/track/5sDpV6Z7wwfATtiSVkt5Hu"
+    },
+    {
+      "added_at": "2024-11-08 13:09:49",
+      "album": {
         "name": "Jeito Doce",
         "url": "https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 182500,
       "name": "Jeito Doce",
       "url": "https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP"
-    },
-    {
-      "added_at": "2024-11-08 13:09:49",
-      "album": {
-        "name": "Voc\u00ea Chegou",
-        "url": "https://open.spotify.com/album/0zS2dRNVij5Z1A7fi5wpRV"
-      },
-      "artists": [
-        {
-          "name": "Luana Berti",
-          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
-        }
-      ],
-      "duration_ms": 143661,
-      "name": "Voc\u00ea Chegou",
-      "url": "https://open.spotify.com/track/5sDpV6Z7wwfATtiSVkt5Hu"
     },
     {
       "added_at": "2024-11-08 13:09:49",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2024-11-08 13:09:49",
       "album": {
-        "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
-        "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
-      },
-      "artists": [
-        {
-          "name": "Rafael Mike",
-          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
-        },
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
-      "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
-    },
-    {
-      "added_at": "2024-11-08 13:09:49",
-      "album": {
         "name": "Bora pra praia",
         "url": "https://open.spotify.com/album/3p8V4ex0o4XreYjiCYtWPa"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 228349,
       "name": "Bora pra praia",
       "url": "https://open.spotify.com/track/4Mdr8VdHfOUb3LCeBPmq2m"
+    },
+    {
+      "added_at": "2024-11-08 13:09:49",
+      "album": {
+        "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
+        "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
+      },
+      "artists": [
+        {
+          "name": "Rafael Mike",
+          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
+        },
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
+      "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
     },
     {
       "added_at": "2024-11-08 13:09:49",

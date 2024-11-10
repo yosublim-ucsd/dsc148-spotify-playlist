@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Malive
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,244,700 likes - 90 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,244,678 likes - 90 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 11 | [Who's She?](https://open.spotify.com/track/1geZPNP04L1bHDD4SlPX1I) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Who's She?](https://open.spotify.com/album/4RPsaIDyGstwgG2JOALFDL) | 3:01 |
 | 12 | [No More](https://open.spotify.com/track/2ep1xrQiV45uivHxd2jJGa) | [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [No More](https://open.spotify.com/album/3eG38Kp8hpuqfuhursVRjE) | 2:54 |
 | 13 | [Cigarettes \(Techno Mix\)](https://open.spotify.com/track/6RLehdIu6TH0nLYS45WjVG) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk) | [Cigarettes \(Techno Mix\)](https://open.spotify.com/album/7tX6HUmgWtDUJGbdp6Xaqc) | 6:07 |
-| 14 | [Lies Through Lies](https://open.spotify.com/track/3v76GCKeigUO5ZfXcEoGvz) | [Dynamick](https://open.spotify.com/artist/5a7fjnssojVKbMnLJ7VUsa), [LEMON DROPS](https://open.spotify.com/artist/50ANvd7tfvmNJf2JhcjguF) | [Lies Through Lies](https://open.spotify.com/album/0XXpXGj06QJTRNkMB8DIFK) | 2:09 |
+| 14 | [Lies Through Lies](https://open.spotify.com/track/3v76GCKeigUO5ZfXcEoGvz) | [Dynamick](https://open.spotify.com/artist/5a7fjnssojVKbMnLJ7VUsa), [LEMON DROPS](https://open.spotify.com/artist/50ANvd7tfvmNJf2JhcjguF) | [Lies Through Lies](https://open.spotify.com/album/0XXpXGj06QJTRNkMB8DIFK) | 2:13 |
 | 15 | [Don't Kill My Vibe](https://open.spotify.com/track/4QF4IfN0TqvJ00V7qHkLRw) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Don't Kill My Vibe](https://open.spotify.com/album/648IV7Co3PFq74vL5nimRr) | 2:53 |
 | 16 | [Tantalizing](https://open.spotify.com/track/799db91cR00On6N158VLHS) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Soaky Siren](https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC) | [Tantalizing](https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C) | 2:26 |
 | 17 | [Molly](https://open.spotify.com/track/1n7TLaImP9HxG4FkfuLmT9) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Molly](https://open.spotify.com/album/14ODkgiFnF1t2ob4e7ygUW) | 3:20 |

@@ -4,7 +4,7 @@
 
 > This is 東京スカパラダイスオーケストラ\. The essential tracks, all in one playlist.
 
-82 songs - 5 hr 24 min
+83 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Blues In The Wind](https://open.spotify.com/track/3h4tEYHzsrlDxC2zCfqgsu) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Takuma \(10\-FEET\)](https://open.spotify.com/artist/6MJbQmwV3YSEQnO3EnVsy6) | [Blues In The Wind](https://open.spotify.com/album/2KcZMoEkaGMyRzRLSO6gWB) | 5:03 | 2024-05-08 | 2024-06-04 |
 | [Break into the Light〜約束の帽子〜](https://open.spotify.com/track/58XinNr00MVez9TV323KJZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Break into the Light 〜約束の帽子〜/The Sharing Song 〜トリコのテーマ〜](https://open.spotify.com/album/2JBiEFSXLCs6NKsyktYOaW) | 3:40 | 2023-01-14 | 2023-03-20 |
 | [Dale Dale! 〜ダレ・ダレ!〜 \- feat.チバユウスケ](https://open.spotify.com/track/4deHviaMO5PAecTlfJUOLL) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [チバユウスケ](https://open.spotify.com/artist/22a6IbaR2zoPAkudKhWXaW) | [ツギハギカラフル](https://open.spotify.com/album/6riD8MZKwqtM6GCStYISKj) | 2:43 | 2023-01-14 |  |
+| [Departure](https://open.spotify.com/track/45XhQVKn0bKC74OAtcGu3m) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [35](https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk) | 4:11 | 2024-11-10 |  |
 | [Diamond In Your Heart](https://open.spotify.com/track/7aqiDKiC83zDz54vzp0QtV) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Diamond In Your Heart](https://open.spotify.com/album/579Nh3mt3qtwk9q3jRNkNC) | 5:37 | 2023-01-14 |  |
 | [DOWN BEAT STOMP](https://open.spotify.com/track/3orD5C1CKx2oGtLgSQOEhB) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [TOKYO SKA PARADISE ORCHESTRA〜Selecao Brasileira〜](https://open.spotify.com/album/6hfDogTMwv2sOedEilBONy) | 4:15 | 2023-01-14 |  |
 | [Freak It!](https://open.spotify.com/track/0U9rOURjZlunqFlm5TWgX0) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Chasing the Horizon](https://open.spotify.com/album/4y9CcT0uoNVxUhjq2ku0bX) | 3:04 | 2023-01-14 |  |
@@ -20,7 +21,7 @@
 | [Glorious](https://open.spotify.com/track/5TQthly71VsBZ7f0Ow2pU7) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [GLORIOUS](https://open.spotify.com/album/1mnvNcSwmtkcoB4XONpwvS) | 2:48 | 2023-01-14 |  |
 | [Good Morning〜ブルー・デイジー \- feat.aiko](https://open.spotify.com/track/1aDAbunCg2yNlCTG4dZcrS) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [TOKYO SKA TREASURES〜ベスト・オブ・東京スカパラダイスオーケストラ〜](https://open.spotify.com/album/0wFDFV3dl6tYSf5iCoMVlC) | 4:28 | 2023-01-14 |  |
 | [Horizon \[2020 Remaster\]](https://open.spotify.com/track/0meqPfnpNPkRSHOvftHaaO) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [TOKYO SKA TREASURES \-BEST OF TOKYO SKA PARADISE ORCHESTRA](https://open.spotify.com/album/62TAdy8rrm6vSUpRuuEXer) | 4:18 | 2023-07-28 | 2023-10-11 |
-| [JUMON \- feat.アイナ・ジ・エンド](https://open.spotify.com/track/1L2graoM4Kycxf3qLRmMJA) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [SKA=ALMIGHTY](https://open.spotify.com/album/4JkTB7zgbEOh96u47q9P9C) | 3:24 | 2023-01-14 |  |
+| [JUMON \- feat.アイナ・ジ・エンド](https://open.spotify.com/track/1L2graoM4Kycxf3qLRmMJA) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [SKA=ALMIGHTY](https://open.spotify.com/album/4JkTB7zgbEOh96u47q9P9C) | 3:24 | 2023-01-14 | 2024-11-10 |
 | [JUNK or GEM](https://open.spotify.com/track/7GHryxJjJpJRPO1cq9ASie) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [JUNK or GEM](https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw) | 2:58 | 2023-03-17 | 2024-08-10 |
 | [Más Allá del Universo](https://open.spotify.com/track/6HUeXwT3LqfcEVYYc2Z9uv) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Paradise Has No Border](https://open.spotify.com/album/06suiN9OLq2uwkUc44FO1U) | 3:04 | 2023-01-14 | 2024-03-20 |
 | [Olha pro ceu](https://open.spotify.com/track/5oBDTYs5BKblsw22EdxOJO) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [TOKYO SKA PARADISE ORCHESTRA〜Selecao Brasileira〜](https://open.spotify.com/album/6hfDogTMwv2sOedEilBONy) | 4:26 | 2024-01-22 | 2024-03-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355 likes - 322 songs - 19 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 358 likes - 322 songs - 19 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,8 +212,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 202 | [Remember Me Beautiful](https://open.spotify.com/track/0I0mhV33oEtvCOlgyaMem6) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Your Life is a Record \(Deluxe Edition\)](https://open.spotify.com/album/2Zor1BSChR147LVFyIzrpy) | 4:25 |
 | 203 | [Always Want You](https://open.spotify.com/track/3F5lEvi2p5Nm607SrKoDS0) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Bird & the Rifle](https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk) | 4:06 |
 | 204 | [Sleep Tonight](https://open.spotify.com/track/3HBC5iUDIpBiKPCZ5a7x2F) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Tim McGraw And The Dancehall Doctors](https://open.spotify.com/album/76TexugJVi7Eg8suRNpQg6) | 4:02 |
-| 205 | [Stubborn](https://open.spotify.com/track/1Pt29W5dvCSlYnkwi2dYEC) | [Mary Sarah](https://open.spotify.com/artist/5tP5qKnhTbTa2uEL3CLHh9) | [Stubborn](https://open.spotify.com/album/6NPPcxSzxS5eegNBHOyCFC) | 3:35 |
-| 206 | [Same Story, Different Saturday Night](https://open.spotify.com/track/1grdUbldRIJH2udgV8T8nh) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Sitting Pretty On Top Of The World](https://open.spotify.com/album/50rJgPQvYLeiC3Ub9c5tGJ) | 3:20 |
+| 205 | [Same Story, Different Saturday Night](https://open.spotify.com/track/1grdUbldRIJH2udgV8T8nh) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Sitting Pretty On Top Of The World](https://open.spotify.com/album/50rJgPQvYLeiC3Ub9c5tGJ) | 3:20 |
+| 206 | [Stubborn](https://open.spotify.com/track/1Pt29W5dvCSlYnkwi2dYEC) | [Mary Sarah](https://open.spotify.com/artist/5tP5qKnhTbTa2uEL3CLHh9) | [Stubborn](https://open.spotify.com/album/6NPPcxSzxS5eegNBHOyCFC) | 3:35 |
 | 207 | [Otis Redding](https://open.spotify.com/track/0MvVDZISOcx0CpWxTWbAcn) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/1hkmdmciMUjVLInxxEhHCY) | 4:37 |
 | 208 | [Written In The Bar](https://open.spotify.com/track/6Po3hqpoEUAFkeubltnsJv) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Sitting Pretty On Top Of The World](https://open.spotify.com/album/50rJgPQvYLeiC3Ub9c5tGJ) | 3:20 |
 | 209 | [Get Even](https://open.spotify.com/track/0Vp9rhKKoPG5cQUgB1SWXI) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [Fantasy Island](https://open.spotify.com/album/30jLEnJpFOR8NQzDLn2rbc) | 2:58 |
@@ -331,4 +331,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 321 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
 | 322 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
 
-Snapshot ID: `Abg/PgAAAADsEM9tRWc6Cv/6e5HsFATp`
+Snapshot ID: `AbhEygAAAAAFZzqNf2G+wAgt8XwwnmWW`

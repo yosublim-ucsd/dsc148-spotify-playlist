@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 12971,
+  "num_followers": 12980,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,26 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/7D7MbEqj5SqR0aFW5j9gid"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 190731,
+      "name": "Flewed Out",
+      "url": "https://open.spotify.com/track/59Q3Yzb5fUH3VSQfWAuRHX"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
         "name": "Hittin' (Remix)",
         "url": "https://open.spotify.com/album/60l7cfpagkyUbt5UWh4Grv"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 281172,
       "name": "Hittin' (Remix)",
       "url": "https://open.spotify.com/track/1wV0Z107eyb68MB6AQ8NoX"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/7D7MbEqj5SqR0aFW5j9gid"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 190731,
-      "name": "Flewed Out",
-      "url": "https://open.spotify.com/track/59Q3Yzb5fUH3VSQfWAuRHX"
     },
     {
       "added_at": "2022-10-01 16:09:56",

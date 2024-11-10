@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAQDmgf902fQtLu0TKqbPVYFLzgaHy",
+  "snapshot_id": "AAAARHX9SpXJUSrDz6xjKhMARrYcICAZ",
   "tracks": [
     {
       "added_at": "2022-09-07 19:01:08",
@@ -847,6 +847,70 @@
       "duration_ms": 231853,
       "name": "Cubicles",
       "url": "https://open.spotify.com/track/0Unc6GaK4h3RXmUbUAvtdc"
+    },
+    {
+      "added_at": "2024-11-09 14:39:05",
+      "album": {
+        "name": "Take This to Your Grave",
+        "url": "https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 191373,
+      "name": "Grand Theft Autumn / Where Is Your Boy",
+      "url": "https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf"
+    },
+    {
+      "added_at": "2024-11-09 14:40:43",
+      "album": {
+        "name": "Take This to Your Grave",
+        "url": "https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "Sending Postcards From a Plane Crash (Wish You Were Here)",
+      "url": "https://open.spotify.com/track/6myPy86FHUBJsFi7RAWp5Y"
+    },
+    {
+      "added_at": "2024-11-09 14:58:12",
+      "album": {
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 211333,
+      "name": "Bang The Doldrums",
+      "url": "https://open.spotify.com/track/1Fvf8AO4GWwjLU12Im0s0q"
+    },
+    {
+      "added_at": "2024-11-09 15:04:42",
+      "album": {
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 246533,
+      "name": "I've Got All This Ringing In My Ears And None On My Fingers",
+      "url": "https://open.spotify.com/track/1CRVvwUopaV42bAEvoh194"
     }
   ],
   "unique_name": "Gender Neutral Love and Hate",

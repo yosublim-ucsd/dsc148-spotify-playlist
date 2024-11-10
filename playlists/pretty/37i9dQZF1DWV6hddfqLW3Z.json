@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 799486,
+  "num_followers": 799495,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-11-08 14:14:25",
       "album": {
+        "name": "Se Perguntarem Pra Mim",
+        "url": "https://open.spotify.com/album/6pcLDx3Ag7Y9bJdA3Ebqlw"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bragan\u00e7a",
+          "url": "https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry"
+        }
+      ],
+      "duration_ms": 221244,
+      "name": "Se Perguntarem Pra Mim",
+      "url": "https://open.spotify.com/track/0DN6JbGeM12LVEry6VFtUM"
+    },
+    {
+      "added_at": "2024-11-08 14:14:25",
+      "album": {
         "name": "A Morte de um Deus de Sal",
         "url": "https://open.spotify.com/album/019T33OgzsIGyamxapvv6V"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 203810,
       "name": "A Morte de um Deus de Sal",
       "url": "https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy"
-    },
-    {
-      "added_at": "2024-11-08 14:14:25",
-      "album": {
-        "name": "Se Perguntarem Pra Mim",
-        "url": "https://open.spotify.com/album/6pcLDx3Ag7Y9bJdA3Ebqlw"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Bragan\u00e7a",
-          "url": "https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry"
-        }
-      ],
-      "duration_ms": 221244,
-      "name": "Se Perguntarem Pra Mim",
-      "url": "https://open.spotify.com/track/0DN6JbGeM12LVEry6VFtUM"
     },
     {
       "added_at": "2024-11-08 14:14:25",
@@ -1227,22 +1227,26 @@
     {
       "added_at": "2024-11-08 14:14:25",
       "album": {
-        "name": "Sentido",
-        "url": "https://open.spotify.com/album/24KDILHIpRPBcxAN9S4tXz"
+        "name": "Calm\u00f4",
+        "url": "https://open.spotify.com/album/3sd79IarRG4KrhNIRlxNy1"
       },
       "artists": [
         {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+          "name": "Liniker e os Caramelows",
+          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
         },
         {
-          "name": "Orlando Morais",
-          "url": "https://open.spotify.com/artist/5fjNNMiS4xA9ri50gHSHPv"
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        },
+        {
+          "name": "Caramelows",
+          "url": "https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi"
         }
       ],
-      "duration_ms": 256049,
-      "name": "Sentido",
-      "url": "https://open.spotify.com/track/47p6zm9vtMTgqVljgyH5wT"
+      "duration_ms": 254558,
+      "name": "Calm\u00f4",
+      "url": "https://open.spotify.com/track/5DHApowmRCAlCHRiLapAPh"
     },
     {
       "added_at": "2024-11-08 14:14:25",
@@ -1267,26 +1271,22 @@
     {
       "added_at": "2024-11-08 14:14:25",
       "album": {
-        "name": "Calm\u00f4",
-        "url": "https://open.spotify.com/album/3sd79IarRG4KrhNIRlxNy1"
+        "name": "Sentido",
+        "url": "https://open.spotify.com/album/24KDILHIpRPBcxAN9S4tXz"
       },
       "artists": [
         {
-          "name": "Liniker e os Caramelows",
-          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
         },
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        },
-        {
-          "name": "Caramelows",
-          "url": "https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi"
+          "name": "Orlando Morais",
+          "url": "https://open.spotify.com/artist/5fjNNMiS4xA9ri50gHSHPv"
         }
       ],
-      "duration_ms": 254558,
-      "name": "Calm\u00f4",
-      "url": "https://open.spotify.com/track/5DHApowmRCAlCHRiLapAPh"
+      "duration_ms": 256049,
+      "name": "Sentido",
+      "url": "https://open.spotify.com/track/47p6zm9vtMTgqVljgyH5wT"
     }
   ],
   "unique_name": "Cafezinho",

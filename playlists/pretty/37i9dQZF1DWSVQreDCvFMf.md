@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Denise Julia
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,923 likes - 78 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,975 likes - 78 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

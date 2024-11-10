@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 363916,
+  "num_followers": 364164,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -523,26 +523,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/4n2DzX9Ow9SA7L2dKVy4Mc"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Boys",
-          "url": "https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ"
-        },
-        {
-          "name": "Sam WOLFE",
-          "url": "https://open.spotify.com/artist/1Hu2YwTv9wmxC8sppVVUA4"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/4KEsZFbFgEdaBfBjCijKnX"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Gasoline",
         "url": "https://open.spotify.com/album/7CvBP12l6XQHKCkn6hnxeY"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 193218,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/5ardmsHuWc0chy7GzsvrLd"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/4n2DzX9Ow9SA7L2dKVy4Mc"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Boys",
+          "url": "https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ"
+        },
+        {
+          "name": "Sam WOLFE",
+          "url": "https://open.spotify.com/artist/1Hu2YwTv9wmxC8sppVVUA4"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/4KEsZFbFgEdaBfBjCijKnX"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -635,38 +635,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Love Is Free",
-        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 172563,
-      "name": "Love Is Free",
-      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "MNML",
-        "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 390447,
-      "name": "Minimal",
-      "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/2hYXwW0l3RjqMZSwtm0qcy"
       },
@@ -687,6 +655,38 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "MNML",
+        "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 390447,
+      "name": "Minimal",
+      "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Love Is Free",
+        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 172563,
+      "name": "Love Is Free",
+      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "When I Rock (A.D.H.S. Remix)",
         "url": "https://open.spotify.com/album/3AUUUXLVRCj3nHbGHPT0ic"
       },
@@ -703,30 +703,6 @@
       "duration_ms": 259130,
       "name": "When I Rock - A.D.H.S. Remix",
       "url": "https://open.spotify.com/track/2RZUzI8KssitQ4SYPr1xUd"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "PARADISE",
-        "url": "https://open.spotify.com/album/6lumo11dn8gPbLLdmpe1PZ"
-      },
-      "artists": [
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 163147,
-      "name": "PARADISE",
-      "url": "https://open.spotify.com/track/12p3LJyuWdEh6bWFoc60Bk"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -767,18 +743,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "You Can't Stop Us",
-        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
+        "name": "PARADISE",
+        "url": "https://open.spotify.com/album/6lumo11dn8gPbLLdmpe1PZ"
       },
       "artists": [
         {
-          "name": "Denise Schneider",
-          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         }
       ],
-      "duration_ms": 142153,
-      "name": "You Can't Stop Us",
-      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
+      "duration_ms": 163147,
+      "name": "PARADISE",
+      "url": "https://open.spotify.com/track/12p3LJyuWdEh6bWFoc60Bk"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -795,6 +779,22 @@
       "duration_ms": 163165,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/1j611ghQfHnBMnqSZCoxc8"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "You Can't Stop Us",
+        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
+      },
+      "artists": [
+        {
+          "name": "Denise Schneider",
+          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "You Can't Stop Us",
+      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
     },
     {
       "added_at": "2024-10-04 04:00:00",

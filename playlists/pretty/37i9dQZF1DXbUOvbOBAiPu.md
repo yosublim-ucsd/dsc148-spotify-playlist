@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > The best new songs of the week! Cover: Sylvie Kreusch \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a> BNLX\-artist\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,465 likes - 89 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,476 likes - 89 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 29 | [Reïncarnatie](https://open.spotify.com/track/1W9JqzlJ5b5aomPKvwhboq) | [Femke](https://open.spotify.com/artist/3BXjNDE0FlSSUaI736tweL) | [Tot \(n\)ooit](https://open.spotify.com/album/7LWF3iH0JdXr9KSn480nYO) | 3:09 |
 | 30 | [Blijf Maar Zitten](https://open.spotify.com/track/2Im5y148VhyId6QP2Theig) | [FULCO](https://open.spotify.com/artist/6KXC42r3VuasqhvMOFKxJt) | [Blijf Maar Zitten](https://open.spotify.com/album/0XqFNh4lPuxE0caEm6B5Yi) | 3:00 |
 | 31 | [Absent](https://open.spotify.com/track/3uIjsEqU6q78itijkqbGlM) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Absent](https://open.spotify.com/album/42GxEIIABO7xY0gMxaGZW5) | 2:59 |
-| 32 | [Je T'aime](https://open.spotify.com/track/3JMG73kZGHTL0PXvxO7xnA) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Je T'aime](https://open.spotify.com/album/2RrSrjr3Cj1r5t6OYI9eu5) | 2:59 |
+| 32 | [Je T'aime](https://open.spotify.com/track/3JMG73kZGHTL0PXvxO7xnA) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Je T'aime](https://open.spotify.com/album/2RrSrjr3Cj1r5t6OYI9eu5) | 2:59 |
 | 33 | [2DK](https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [2DK](https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv) | 3:16 |
 | 34 | [Heaven II](https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Heaven II](https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ) | 2:27 |
 | 35 | [Me, Myself & You](https://open.spotify.com/track/4dsgZlMA69Hb2VppaZyfSN) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Me, Myself & You](https://open.spotify.com/album/7cczplDsPconF6IdWikvOd) | 2:35 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 44 | [Before It Might Be Gone](https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone](https://open.spotify.com/album/3EVICWZusdGvnKGYkY9AGM) | 4:56 |
 | 45 | [J'veux tout savoir](https://open.spotify.com/track/1lzRKxLpVfYG1w8ZCKaabi) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [J'veux tout savoir](https://open.spotify.com/album/3amQWaEVgIcfpWfTQcUrgT) | 3:19 |
 | 46 | [Les Anges](https://open.spotify.com/track/5qftMKQEhmvZTeP1zWXs1d) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/1ttdXNBRHGq9ASHdeA36cI) | 2:38 |
-| 47 | [Ding A Dong](https://open.spotify.com/track/5TEFBRBgvu6lLs0zFBw6r7) | [1984](https://open.spotify.com/artist/60ixZKwsagfEAXjOBOBt6n), [Dana Winner](https://open.spotify.com/artist/6pmObcotPmooyBYA0PbxPW) | [Ding A Dong](https://open.spotify.com/album/4ZeToSqCpfAW0iMTN56XYg) | 2:41 |
+| 47 | [Ding A Dong](https://open.spotify.com/track/5TEFBRBgvu6lLs0zFBw6r7) | [1984](https://open.spotify.com/artist/2pHwbWzQS0JaHClsSLRI7E), [Dana Winner](https://open.spotify.com/artist/6pmObcotPmooyBYA0PbxPW) | [Ding A Dong](https://open.spotify.com/album/4ZeToSqCpfAW0iMTN56XYg) | 2:41 |
 | 48 | [Roda](https://open.spotify.com/track/02FnQ98TPkH5a0uncINJIr) | [TUKAN](https://open.spotify.com/artist/3Sb4jk6AELF08kyBaLrRii) | [Roda](https://open.spotify.com/album/5RKbJbxTqEC0wgn6av61P8) | 4:11 |
 | 49 | [Always You](https://open.spotify.com/track/1ffSWF1hxT8u2SEk5BxwCK) | [The Feather](https://open.spotify.com/artist/6ZhYrSh1U6FaRYefNSLwCc) | [Always You](https://open.spotify.com/album/3HZgyRARQloNzM1MygO9UY) | 3:42 |
 | 50 | [I'm Fine \(Alone Again\)](https://open.spotify.com/track/7Hgkp4XTOOssEuSTgQzJwL) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia \(Expanded Edition\)](https://open.spotify.com/album/5RWO8obhJURKJGhkg6UsOB) | 2:57 |

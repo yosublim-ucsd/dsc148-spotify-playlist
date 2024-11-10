@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5firUEQ9rQDghlz87ntiQD">Monro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81 likes - 55 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 80 likes - 55 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,15 +46,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 36 | [Limbo](https://open.spotify.com/track/0S9JTiTJwZwkHI0VyoDeGn) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Limbo](https://open.spotify.com/album/3MQzzTzLhhGqPRJTyMCgqj) | 3:03 |
 | 37 | [Pattern Up \(feat\. ZieZie\)](https://open.spotify.com/track/0tjkC3oD2A3sj4nTMEsezR) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Pattern Up \(feat\. ZieZie\)](https://open.spotify.com/album/7m13fjwYVPw5URrUvS89K0) | 3:57 |
 | 38 | [Real Life](https://open.spotify.com/track/1ridgt4PwhqyjMDOyUzAle) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 3:14 |
-| 39 | [The Middle](https://open.spotify.com/track/6ZdEk3NpGOn0pk8AcYoksu) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [Syd B](https://open.spotify.com/artist/3DjOPWwOPmmhNMGpRlmnzb) | [Deep End](https://open.spotify.com/album/3aBQjWHmGxYaNjvu1rfStq) | 3:30 |
-| 40 | [Brand New](https://open.spotify.com/track/1SAiUd9FlY6A36831AuXtX) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [TSB](https://open.spotify.com/artist/5TcyvDMRRaMjCBoXIUWofZ) | [Gbagada Express Vol 2: Moving Mad](https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p) | 3:20 |
+| 39 | [Brand New](https://open.spotify.com/track/1SAiUd9FlY6A36831AuXtX) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [TSB](https://open.spotify.com/artist/5TcyvDMRRaMjCBoXIUWofZ) | [Gbagada Express Vol 2: Moving Mad](https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p) | 3:20 |
+| 40 | [The Middle](https://open.spotify.com/track/6ZdEk3NpGOn0pk8AcYoksu) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [Syd B](https://open.spotify.com/artist/3DjOPWwOPmmhNMGpRlmnzb) | [Deep End](https://open.spotify.com/album/3aBQjWHmGxYaNjvu1rfStq) | 3:30 |
 | 41 | [I'm Different](https://open.spotify.com/track/1KWEKSKgk6EyocPJpFwiny) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [I'm Different](https://open.spotify.com/album/1W96GSCp4z2S8Mt5NA2Is2) | 2:55 |
 | 42 | [Tongues](https://open.spotify.com/track/1aOby6ZVZfJ1LWUftHYgAa) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [Jalen Santoy](https://open.spotify.com/artist/41DGOfz7IFMVvf9wKAzeZS) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:45 |
 | 43 | [Exes](https://open.spotify.com/track/27eQYc8ciIqL6INwL5HGSr) | [Asha Gold](https://open.spotify.com/artist/1sXQIRMGgEwmQktIO4XpWm) | [Exes](https://open.spotify.com/album/3glkrvhiY036qvl2pyqXTK) | 2:44 |
 | 44 | [Humble](https://open.spotify.com/track/1nPaowh2oLfNSAjvizZPIe) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Capacity to Love](https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK) | 3:22 |
 | 45 | [trust](https://open.spotify.com/track/5gAOA4LiOrrt6Rdr2KSCUO) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [trust](https://open.spotify.com/album/7yZQZmlRrarOH22Vkhh5mu) | 3:09 |
-| 46 | [On Job](https://open.spotify.com/track/63bbcglKkosNVVJpN0q4EP) | [WAY2LATE](https://open.spotify.com/artist/3hIp8uy0RH7L4N3EQ9Nz8a), [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6), [Confz](https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE) | [On Job](https://open.spotify.com/album/1EHQ7OMBWdPpDDme9JpnXJ) | 2:01 |
-| 47 | [Why Would I](https://open.spotify.com/track/7G87YO6TpWofadn8heUvjB) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Why Would I](https://open.spotify.com/album/48u72CmHkG3jCCIvxZuGzs) | 3:21 |
+| 46 | [Why Would I](https://open.spotify.com/track/7G87YO6TpWofadn8heUvjB) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Why Would I](https://open.spotify.com/album/48u72CmHkG3jCCIvxZuGzs) | 3:21 |
+| 47 | [On Job](https://open.spotify.com/track/63bbcglKkosNVVJpN0q4EP) | [WAY2LATE](https://open.spotify.com/artist/3hIp8uy0RH7L4N3EQ9Nz8a), [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6), [Confz](https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE) | [On Job](https://open.spotify.com/album/1EHQ7OMBWdPpDDme9JpnXJ) | 2:01 |
 | 48 | [Gone Clear](https://open.spotify.com/track/1ZplhzEGuHphc8Flf8cggm) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [Gone Clear](https://open.spotify.com/album/4EZYAiMj5DV0w7jd7dG8UF) | 3:51 |
 | 49 | [keep](https://open.spotify.com/track/32StLeJhdl9xlRK1lDwc6Y) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [SCENARIOS](https://open.spotify.com/album/0Dr60skBwohGDoNlfU0CNO) | 3:06 |
 | 50 | [Give It To](https://open.spotify.com/track/2XpitGhV7RNORaO2x07e2s) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [High My Name Is](https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV) | 2:50 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 54 | [take 7](https://open.spotify.com/track/558aM4OwF8sZPqiJ5NULtR) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [SCENARIOS](https://open.spotify.com/album/0Dr60skBwohGDoNlfU0CNO) | 1:53 |
 | 55 | [Cherryade](https://open.spotify.com/track/4THRgFPO27hQxYi672AI8q) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:19 |
 
-Snapshot ID: `Abg/FgAAAAAhMERjv6VjCNd1kFsRkA0X`
+Snapshot ID: `AbhEtgAAAACCjONJsuve/9lcCyBtlv3k`

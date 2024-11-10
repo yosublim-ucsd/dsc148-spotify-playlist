@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen, con La Valenti en portada.",
-  "num_followers": 40452,
+  "num_followers": 40456,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "Nadena",
-        "url": "https://open.spotify.com/album/7F9Ax05KBTwkGl2nBAwVZh"
-      },
-      "artists": [
-        {
-          "name": "INE",
-          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
-        }
-      ],
-      "duration_ms": 145089,
-      "name": "Nadena",
-      "url": "https://open.spotify.com/track/7xqtL9F50uY78Od2YW0vqE"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "No Te Olvidar\u00e1s de M\u00ed",
         "url": "https://open.spotify.com/album/1tXtQSNP3Pxa4uzFnyvHrr"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 160660,
       "name": "No Te Olvidaras De Mi",
       "url": "https://open.spotify.com/track/6HsaOUdhk1j8Na70BI4Iyh"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
+        "name": "Nadena",
+        "url": "https://open.spotify.com/album/7F9Ax05KBTwkGl2nBAwVZh"
+      },
+      "artists": [
+        {
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+        }
+      ],
+      "duration_ms": 145089,
+      "name": "Nadena",
+      "url": "https://open.spotify.com/track/7xqtL9F50uY78Od2YW0vqE"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -423,26 +423,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "Hacia el Sur",
-        "url": "https://open.spotify.com/album/3A4gTFvYE7MPNdfmoEvgx4"
-      },
-      "artists": [
-        {
-          "name": "Rocio Igarzabal",
-          "url": "https://open.spotify.com/artist/7HzX50l6Oi0gFLTkdHJcOZ"
-        },
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        }
-      ],
-      "duration_ms": 211828,
-      "name": "Hacia el Sur",
-      "url": "https://open.spotify.com/track/7vYVOMJAUkbAAfCez5K1Ws"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "OTRA MANERA",
         "url": "https://open.spotify.com/album/3EbAvw4gcs1kaZ0esTQDSo"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 133194,
       "name": "Hola Mami",
       "url": "https://open.spotify.com/track/1IqA39UMIRcP7iwHRijjrU"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
+        "name": "Hacia el Sur",
+        "url": "https://open.spotify.com/album/3A4gTFvYE7MPNdfmoEvgx4"
+      },
+      "artists": [
+        {
+          "name": "Rocio Igarzabal",
+          "url": "https://open.spotify.com/artist/7HzX50l6Oi0gFLTkdHJcOZ"
+        },
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "duration_ms": 211828,
+      "name": "Hacia el Sur",
+      "url": "https://open.spotify.com/track/7vYVOMJAUkbAAfCez5K1Ws"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "A veces est\u00e1 bien",
-        "url": "https://open.spotify.com/album/4MleecvCYX58tOnuIb0nAR"
-      },
-      "artists": [
-        {
-          "name": "Catalina Bay\u00e1",
-          "url": "https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Conocerte m\u00e1s",
-      "url": "https://open.spotify.com/track/7eVXHsa36NHl28QSDgmYWP"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "Puente",
         "url": "https://open.spotify.com/album/4pZuETz9Bpb1C6UIDmG4H2"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 186991,
       "name": "Luna Llena",
       "url": "https://open.spotify.com/track/2LrslpUNiCTiY0fQNN2XLz"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
+        "name": "A veces est\u00e1 bien",
+        "url": "https://open.spotify.com/album/4MleecvCYX58tOnuIb0nAR"
+      },
+      "artists": [
+        {
+          "name": "Catalina Bay\u00e1",
+          "url": "https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Conocerte m\u00e1s",
+      "url": "https://open.spotify.com/track/7eVXHsa36NHl28QSDgmYWP"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -743,18 +743,22 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG"
+        "name": "YA WEY",
+        "url": "https://open.spotify.com/album/5L9gpF5XMzJGh79Fc3sJp5"
       },
       "artists": [
         {
-          "name": "La Maurette",
-          "url": "https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI"
+          "name": "Lolita Fiamma",
+          "url": "https://open.spotify.com/artist/0u8bWPzFscvQGljoHXUsDW"
+        },
+        {
+          "name": "Paz Faga",
+          "url": "https://open.spotify.com/artist/5vG1tsUc4MtVWTgaUxf4W3"
         }
       ],
-      "duration_ms": 178091,
-      "name": "No Llores",
-      "url": "https://open.spotify.com/track/01RLcajwLJM2uy5eyVZv5Y"
+      "duration_ms": 251908,
+      "name": "YA WEY",
+      "url": "https://open.spotify.com/track/7pFpL34LA8ApmRSwGFNyPl"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -779,22 +783,18 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "YA WEY",
-        "url": "https://open.spotify.com/album/5L9gpF5XMzJGh79Fc3sJp5"
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG"
       },
       "artists": [
         {
-          "name": "Lolita Fiamma",
-          "url": "https://open.spotify.com/artist/0u8bWPzFscvQGljoHXUsDW"
-        },
-        {
-          "name": "Paz Faga",
-          "url": "https://open.spotify.com/artist/5vG1tsUc4MtVWTgaUxf4W3"
+          "name": "La Maurette",
+          "url": "https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI"
         }
       ],
-      "duration_ms": 251908,
-      "name": "YA WEY",
-      "url": "https://open.spotify.com/track/7pFpL34LA8ApmRSwGFNyPl"
+      "duration_ms": 178091,
+      "name": "No Llores",
+      "url": "https://open.spotify.com/track/01RLcajwLJM2uy5eyVZv5Y"
     },
     {
       "added_at": "2024-11-07 03:00:00",

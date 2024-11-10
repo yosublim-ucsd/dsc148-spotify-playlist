@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 81249,
+  "num_followers": 81278,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -559,26 +559,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "TEMPORARY FRIENDS",
-        "url": "https://open.spotify.com/album/2R3qN6uUOOw5BVSN2ry0b2"
-      },
-      "artists": [
-        {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "TEMPORARY FRIENDS",
-      "url": "https://open.spotify.com/track/4zWvbhGE9Kbm5y1HbX4Ev7"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Pretty Little Raver",
         "url": "https://open.spotify.com/album/5EMbeN8ZYxnlEcTQiLveUk"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 143478,
       "name": "Pretty Little Raver",
       "url": "https://open.spotify.com/track/4Ppdt9mETYFVcN1lQJHEJA"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "TEMPORARY FRIENDS",
+        "url": "https://open.spotify.com/album/2R3qN6uUOOw5BVSN2ry0b2"
+      },
+      "artists": [
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "TEMPORARY FRIENDS",
+      "url": "https://open.spotify.com/track/4zWvbhGE9Kbm5y1HbX4Ev7"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Show Me",
-        "url": "https://open.spotify.com/album/3aF004NM1hTojpV1EMPy1M"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/0fOYe1mfPRzQ64zvMcqA59"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "How It Is",
         "url": "https://open.spotify.com/album/2x4kUhphJ4TI0I3KuvqA0o"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 149538,
       "name": "How It Is",
       "url": "https://open.spotify.com/track/7wetBN8fYQGEQyozI7fZMM"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/3aF004NM1hTojpV1EMPy1M"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/0fOYe1mfPRzQ64zvMcqA59"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "DUWML",
+        "url": "https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "duration_ms": 190869,
+      "name": "DUWML",
+      "url": "https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Without U",
         "url": "https://open.spotify.com/album/4oRuCsWG1tg7hfPD0AFhjN"
       },
@@ -983,18 +999,18 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "DUWML",
-        "url": "https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1"
+        "name": "Run It",
+        "url": "https://open.spotify.com/album/5fFXKg8OVAbYZirJ8StkPF"
       },
       "artists": [
         {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
         }
       ],
-      "duration_ms": 190869,
-      "name": "DUWML",
-      "url": "https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF"
+      "duration_ms": 211714,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Take Me High",
-        "url": "https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        }
-      ],
-      "duration_ms": 161715,
-      "name": "Take Me High",
-      "url": "https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Party All Night",
         "url": "https://open.spotify.com/album/543kDqeC6kaabDwc8my2QP"
       },
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Run It",
-        "url": "https://open.spotify.com/album/5fFXKg8OVAbYZirJ8StkPF"
+        "name": "Take Me High",
+        "url": "https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp"
       },
       "artists": [
         {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
         }
       ],
-      "duration_ms": 211714,
-      "name": "Run It",
-      "url": "https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO"
+      "duration_ms": 161715,
+      "name": "Take Me High",
+      "url": "https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1091,6 +1091,26 @@
       "duration_ms": 192724,
       "name": "Ooh",
       "url": "https://open.spotify.com/track/6Sa9DuLZEgeyXRCRs2oTbW"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/17VBDK2WkIgcOf97FdAAm8"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "duration_ms": 168369,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1B8tzEV6XHekvdaMi16puh"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1123,26 +1143,6 @@
       "duration_ms": 292001,
       "name": "take your vibes and go - Preditah Remix",
       "url": "https://open.spotify.com/track/1Wg0s1GBUaWzdIcdC1nRA8"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/17VBDK2WkIgcOf97FdAAm8"
-      },
-      "artists": [
-        {
-          "name": "Higgo",
-          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
-        }
-      ],
-      "duration_ms": 168369,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1B8tzEV6XHekvdaMi16puh"
     }
   ],
   "unique_name": "New UK Garage",

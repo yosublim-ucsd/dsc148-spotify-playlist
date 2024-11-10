@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Pem..\. 🤍
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,594 likes - 86 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,567 likes - 86 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 24 | [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 |
 | 25 | [American Dream](https://open.spotify.com/track/14rjxUlB3cztgcCXWOYg4j) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [American Dream](https://open.spotify.com/album/0pq5HLaL15cX8fEh7DTTvw) | 2:25 |
 | 26 | [Dirty Laundry](https://open.spotify.com/track/3O0VDbjTaFDKQlSyE54xxf) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Dirty Laundry](https://open.spotify.com/album/1toxicdmCTYNhoghfU51lT) | 2:21 |
-| 27 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 |
+| 27 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX), [David Parry](https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD), [Dekel Adin](https://open.spotify.com/artist/27xyFvRoUUYKOPiY47BbZ9), [Ziv Yamin](https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 |
 | 28 | [ALL MY GIRLS ARE TOMBOYS](https://open.spotify.com/track/4yiOJSF1pkw1MCcTom9VFT) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [ALL MY GIRLS ARE TOMBOYS](https://open.spotify.com/album/0sqr8Z6obltglzGSeeFjYr) | 3:12 |
 | 29 | [She Cleans Up](https://open.spotify.com/track/5Lbwx92tmkpsxKJiwnYAIZ) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [She Cleans Up](https://open.spotify.com/album/2jBrpMTObbw10ytlkx23u4) | 4:26 |
 | 30 | [If Our Love Is Dead](https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 2:53 |

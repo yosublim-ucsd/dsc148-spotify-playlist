@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Lleva el alma musical de México a donde sea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,469 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,504 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 44 | [El Zapateado](https://open.spotify.com/track/1P69StBPsVFlm6awf7EACX) | [Andrés Vega Delfín](https://open.spotify.com/artist/4kmqxgznDGuLhVXdfcSLX6) | [De la mera mata](https://open.spotify.com/album/7vTwydvxuCNG1nSdnm6c26) | 4:49 |
 | 45 | [San Pedro Hermoso](https://open.spotify.com/track/0xARjffWeQ3NEmseEU4rum) | [Costa Mía Orquesta](https://open.spotify.com/artist/5gr6ZjgBXbZAcIjsHJgwoL), [Sicarú Gazga](https://open.spotify.com/artist/6G1d37MQZPkT8JbDIIMS6V) | [San Pedro Hermoso](https://open.spotify.com/album/5XbUpC6yNlA4W9e6K4Cv37) | 3:59 |
 | 46 | [La Llorona](https://open.spotify.com/track/1DQKQpOqSSDMrsHkvsQd0J) | [Los Vega](https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB) | [En Tonos Muy Diferentes](https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf) | 5:42 |
-| 47 | [El Feo](https://open.spotify.com/track/1orAub5Dz1NbEMOtojgVal) | [Los Hermanos Ríos](https://open.spotify.com/artist/4T0GBgActseXoBYsSNouZV) | [La Tortuga, Sones Istmeños](https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE) | 3:01 |
-| 48 | [La Borrachita](https://open.spotify.com/track/1OIET3yptLiovEz07Wpk7y) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Homenaje a Antonio Bribiesca](https://open.spotify.com/album/3OaBQCe5DXCqudbGWNOyCS) | 3:07 |
+| 47 | [La Borrachita](https://open.spotify.com/track/1OIET3yptLiovEz07Wpk7y) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Homenaje a Antonio Bribiesca](https://open.spotify.com/album/3OaBQCe5DXCqudbGWNOyCS) | 3:07 |
+| 48 | [El Feo](https://open.spotify.com/track/1orAub5Dz1NbEMOtojgVal) | [Los Hermanos Ríos](https://open.spotify.com/artist/4T0GBgActseXoBYsSNouZV) | [La Tortuga, Sones Istmeños](https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE) | 3:01 |
 | 49 | [Agradecer](https://open.spotify.com/track/3xFVSTW8SdnST60rBsObdt) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Agradecer](https://open.spotify.com/album/5qVQLwmsMmBEKfQsPd3LXM) | 3:25 |
 | 50 | [Lindas Mexicanas](https://open.spotify.com/track/71AU1WeRsBgdRceTWqNloI) | [Velino Miguel Preza](https://open.spotify.com/artist/2xtHMMGdjIdwWqHQ0ZNslN), [Anabel Medrano](https://open.spotify.com/artist/4kyT6BkRnlPf8pBAk5X1AR), [Ensamble Centenario](https://open.spotify.com/artist/35xQxv2nFAmbbkHKGkizto) | [Música Mexicana de Salón Con Salterio: Finales del Siglo Xix y Principios del Siglo Xx](https://open.spotify.com/album/0NIeTPc7wQYpjgX0ZGodeZ) | 4:27 |
 | 51 | [Jesusita en Chihuahua](https://open.spotify.com/track/1KbZZUotUeq0C72gu62mIq) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Los Primeros Años](https://open.spotify.com/album/1QnGhxm3nv05SZPNknmdw6) | 2:11 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 53 | [Los Ojos de Francesca Marimba](https://open.spotify.com/track/7ofMVPa6s7hn74GlymSyXr) | [MML Latin](https://open.spotify.com/artist/16jL08iIvOjNhzRJnfDkJc), [Domingo Suarez](https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx), [Mauricio Huerta](https://open.spotify.com/artist/2zcc9iKtsz33S7ectcj0Qb), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Danzon](https://open.spotify.com/album/6S565D3m0inBWDcogI71nQ) | 2:16 |
 | 54 | [El Siquisirí](https://open.spotify.com/track/3GHWRRUTDG5CNPK0ZZQCoc) | [Los Vega](https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB) | [En Tonos Muy Diferentes](https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf) | 5:45 |
 | 55 | [El Sacamandú](https://open.spotify.com/track/7M6y0noSLd6nal1GUGSpMN) | [Los Caporales](https://open.spotify.com/artist/6GlDYSt5RyCkTRJ1zPN3DY) | [El Gusto \- 40 Años de son Huasteco](https://open.spotify.com/album/1iaywSk07ESk9L5nCy5bdV) | 4:21 |
-| 56 | [LAS ALTEÑITAS](https://open.spotify.com/track/0U6SkH7h38q4SNHHoEckCW) | [LA BELLA EPOCA CON SALTERIO](https://open.spotify.com/artist/5AEvcZM8v0mptSbdX427om) | [LA BELLA EPOCA CON SALTERIO](https://open.spotify.com/album/0sDmy1GnNFZN5JmuuUyn9p) | 2:38 |
-| 57 | [Rayando el Sol](https://open.spotify.com/track/3QCepB8MPLM3haboCIg9Fg) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Homenaje a Antonio Bribiesca](https://open.spotify.com/album/3OaBQCe5DXCqudbGWNOyCS) | 3:04 |
+| 56 | [Rayando el Sol](https://open.spotify.com/track/3QCepB8MPLM3haboCIg9Fg) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Homenaje a Antonio Bribiesca](https://open.spotify.com/album/3OaBQCe5DXCqudbGWNOyCS) | 3:04 |
+| 57 | [LAS ALTEÑITAS](https://open.spotify.com/track/0U6SkH7h38q4SNHHoEckCW) | [LA BELLA EPOCA CON SALTERIO](https://open.spotify.com/artist/5AEvcZM8v0mptSbdX427om) | [LA BELLA EPOCA CON SALTERIO](https://open.spotify.com/album/0sDmy1GnNFZN5JmuuUyn9p) | 2:38 |
 | 58 | [Cruzando en el Barco](https://open.spotify.com/track/3tqIxbFFT4yY1z5pNlhH25) | [Conjunto Jardin](https://open.spotify.com/artist/0Kh15Of3lmMoXKsR8s5tA0) | [Nuevo Son Jarocho](https://open.spotify.com/album/5N6LeE3fGxhD6D0MEgZkNr) | 3:25 |
 | 59 | [La Petenera](https://open.spotify.com/track/4WeazL7v9t7yHAUF7TgGnG) | [Trío Cantores de la Huasteca](https://open.spotify.com/artist/2NJotnwq4BqtWJlP73PvGk) | [Antología del Son de México, Huasteca](https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8) | 3:29 |
 | 60 | [El Son Guerrerense](https://open.spotify.com/track/1mmQmz9iCZZ94g0ugaAInP) | [Conjunto de Juan Reynoso](https://open.spotify.com/artist/2SWABlfQlQFjqf8m17TkOo) | [Antología del Son de México, Tierra Caliente](https://open.spotify.com/album/4lDZKQykqglMme0vYHoglY) | 3:25 |

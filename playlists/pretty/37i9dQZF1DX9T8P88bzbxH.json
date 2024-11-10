@@ -1,372 +1,484 @@
 {
-  "description": "Radical optimism only. Time to dance the night away. Cover: Dua Lipa",
-  "num_followers": 60837,
+  "description": "Get ready for an evening filled with iconic hits and real feels.  Cover: Afgan",
+  "num_followers": 60818,
   "original_name": "GO Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZysvPAAAAAB66hgFspi1c2cAG8bRYeLi",
+  "snapshot_id": "Zy+HAAAAAACHPrIrfATVYNy4O3MLnOsr",
   "tracks": [
     {
-      "added_at": "2024-11-03 12:36:28",
+      "added_at": "2024-11-09 16:00:00",
       "album": {
-        "name": "Radical Optimism",
-        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+        "name": "Sides",
+        "url": "https://open.spotify.com/album/34hJ0rr98blqOHIJjEq16e"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         }
       ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26"
+      "duration_ms": 224807,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/3fkXzVlhPnHjef1m5yuiDu"
     },
     {
-      "added_at": "2024-11-06 08:56:28",
+      "added_at": "2024-11-09 16:00:00",
       "album": {
-        "name": "96 Months",
-        "url": "https://open.spotify.com/album/5uRY0boZn48gDio0ASlgI0"
+        "name": "Live to Love",
+        "url": "https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 263087,
+      "name": "Pesan Cinta",
+      "url": "https://open.spotify.com/track/41M4whJ2Vy5UV9tvWaVt8B"
+    },
+    {
+      "added_at": "2024-11-09 16:00:00",
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Wajahmu Mengalihkan Duniaku",
+      "url": "https://open.spotify.com/track/4z8CduM0gnyJxgLNrEvxEh"
+    },
+    {
+      "added_at": "2024-11-09 16:00:00",
+      "album": {
+        "name": "Live to Love",
+        "url": "https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 207347,
+      "name": "Tanpa Bahasa",
+      "url": "https://open.spotify.com/track/0FG88ZPNbSrTdVbeP99nr3"
+    },
+    {
+      "added_at": "2024-11-09 16:00:00",
+      "album": {
+        "name": "DEKADE",
+        "url": "https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 278964,
+      "name": "Kunci Hati",
+      "url": "https://open.spotify.com/track/4coEIOJzz6eJsFvrzdYo4y"
+    },
+    {
+      "added_at": "2024-11-09 16:00:00",
+      "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 163700,
+      "name": "Shallow Water",
+      "url": "https://open.spotify.com/track/7fl4pphY3eHf4JqBPLrdgK"
+    },
+    {
+      "added_at": "2024-11-09 16:00:00",
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "Dia Dia Dia",
+      "url": "https://open.spotify.com/track/3dAXKbmsPGbAt7skuJNuqB"
+    },
+    {
+      "added_at": "2024-11-09 16:00:00",
+      "album": {
+        "name": "SIDES",
+        "url": "https://open.spotify.com/album/2maVK3t3NYwcqwp2IKdhyw"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 281506,
+      "name": "Jalan Terus",
+      "url": "https://open.spotify.com/track/0rgNxtJzKiNNdz4doadYhn"
+    },
+    {
+      "added_at": "2024-11-09 16:00:00",
+      "album": {
+        "name": "+62",
+        "url": "https://open.spotify.com/album/42LLrtJK1RfPRiZqDyswlk"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 226118,
+      "name": "pendam",
+      "url": "https://open.spotify.com/track/5UpkSzjvjjXLq72J1KFv1U"
+    },
+    {
+      "added_at": "2024-11-09 16:00:00",
+      "album": {
+        "name": "Live to Love",
+        "url": "https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 248471,
+      "name": "Untukmu Aku Bertahan",
+      "url": "https://open.spotify.com/track/2BIqdq5nGdZRB6qCS4YHDD"
+    },
+    {
+      "added_at": "2024-11-09 16:00:00",
+      "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         },
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 214846,
-      "name": "One Kiss (with Dua Lipa)",
-      "url": "https://open.spotify.com/track/285wmjLyda5IUvcw6UCHvb"
+      "duration_ms": 171951,
+      "name": "Criminal (Over You)",
+      "url": "https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx"
     },
     {
-      "added_at": "2024-11-03 12:36:28",
+      "added_at": "2024-11-09 16:00:00",
       "album": {
-        "name": "Radical Optimism",
-        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+        "name": "DEKADE",
+        "url": "https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         }
       ],
-      "duration_ms": 188143,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0"
+      "duration_ms": 214641,
+      "name": "Knock Me Out",
+      "url": "https://open.spotify.com/track/51OQ4370A7tO3y63IZpPMX"
     },
     {
-      "added_at": "2024-11-03 12:36:28",
+      "added_at": "2024-11-09 16:00:00",
       "album": {
-        "name": "Radical Optimism",
-        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+        "name": "SIDES",
+        "url": "https://open.spotify.com/album/2maVK3t3NYwcqwp2IKdhyw"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         }
       ],
-      "duration_ms": 196218,
-      "name": "End Of An Era",
-      "url": "https://open.spotify.com/track/1YrY0vjHWp672gt0crtj5A"
+      "duration_ms": 268946,
+      "name": "Ku Dengannya Kau Dengan Dia",
+      "url": "https://open.spotify.com/track/24Dk7XFLnMXYuv1U9Qjv3U"
     },
     {
-      "added_at": "2024-11-06 08:56:28",
+      "added_at": "2024-11-09 16:00:00",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+        "name": "DEKADE",
+        "url": "https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         }
       ],
-      "duration_ms": 221820,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
+      "duration_ms": 246154,
+      "name": "Jodoh Pasti Bertemu",
+      "url": "https://open.spotify.com/track/4jakiC8ooA7viuPLqY8VEQ"
     },
     {
-      "added_at": "2024-11-03 12:36:28",
+      "added_at": "2024-11-09 16:00:00",
       "album": {
-        "name": "Radical Optimism",
-        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+        "name": "DEKADE",
+        "url": "https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 198198,
-      "name": "Whatcha Doing",
-      "url": "https://open.spotify.com/track/6bAkr9wkQyPM4IDrP4tuwR"
-    },
-    {
-      "added_at": "2024-11-03 12:36:28",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 203807,
-      "name": "Levitating",
-      "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
-    },
-    {
-      "added_at": "2024-11-03 12:36:28",
-      "album": {
-        "name": "Radical Optimism",
-        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 217783,
-      "name": "These Walls",
-      "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
-    },
-    {
-      "added_at": "2024-11-06 08:56:28",
-      "album": {
-        "name": "Dua Lipa (Complete Edition)",
-        "url": "https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 202914,
-      "name": "Be the One",
-      "url": "https://open.spotify.com/track/2lOuvydCaSk8asn1HxBO9r"
-    },
-    {
-      "added_at": "2024-11-03 12:36:28",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 258004,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB"
-    },
-    {
-      "added_at": "2024-11-03 12:36:28",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 194607,
-      "name": "Pretty Please",
-      "url": "https://open.spotify.com/track/6DXZiYUbrYgrVIhfX3U9Z2"
-    },
-    {
-      "added_at": "2024-11-06 08:56:28",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 208505,
-      "name": "Hallucinate",
-      "url": "https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg"
-    },
-    {
-      "added_at": "2024-11-06 08:56:28",
-      "album": {
-        "name": "Dua Lipa (Complete Edition)",
-        "url": "https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/43oK4OAWUsRZUDVeHtKI4U"
-    },
-    {
-      "added_at": "2024-11-06 08:56:28",
-      "album": {
-        "name": "Electricity",
-        "url": "https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7"
-      },
-      "artists": [
-        {
-          "name": "Silk City",
-          "url": "https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc"
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         },
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        }
+      ],
+      "duration_ms": 254013,
+      "name": "Kamu Yang Kutunggu",
+      "url": "https://open.spotify.com/track/1VbQrE5HThdiheX0ZX4Jfe"
+    },
+    {
+      "added_at": "2024-11-09 16:00:00",
+      "album": {
+        "name": "DEKADE",
+        "url": "https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         },
         {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "duration_ms": 266167,
+      "name": "Percayalah",
+      "url": "https://open.spotify.com/track/2YozVLJmTEHLm0v79SrALe"
+    },
+    {
+      "added_at": "2024-11-09 16:00:00",
+      "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/5LFH7fj2hCEPCGh7Ojsne3"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 175635,
+      "name": "say i'm sorry",
+      "url": "https://open.spotify.com/track/1fZOLWE0Oy4mZ6lOx65mXt"
+    },
+    {
+      "added_at": "2024-11-09 16:00:00",
+      "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/5LFH7fj2hCEPCGh7Ojsne3"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 179723,
+      "name": "touch me",
+      "url": "https://open.spotify.com/track/17fihvGpsofgw9a1cGxlqG"
+    },
+    {
+      "added_at": "2024-11-09 16:00:00",
+      "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         },
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
         }
       ],
-      "duration_ms": 238173,
-      "name": "Electricity",
-      "url": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk"
+      "duration_ms": 127452,
+      "name": "Escape (feat. Jessi)",
+      "url": "https://open.spotify.com/track/2Tp8vm7MZIb1nnx1qEGYv5"
     },
     {
-      "added_at": "2024-11-06 08:56:28",
+      "added_at": "2024-11-09 16:00:00",
       "album": {
-        "name": "The Lockdown Sessions",
-        "url": "https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC"
+        "name": "Confession No.1",
+        "url": "https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 251454,
+      "name": "Terima Kasih Cinta",
+      "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
+    },
+    {
+      "added_at": "2024-11-09 16:00:00",
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 233351,
+      "name": "Bawalah Cintaku",
+      "url": "https://open.spotify.com/track/3xpMytpniCnjXCgy7TcFDw"
+    },
+    {
+      "added_at": "2024-11-09 16:00:00",
+      "album": {
+        "name": "Lenggang Puspita",
+        "url": "https://open.spotify.com/album/4LnLFxcpm4PUDYRa3nHdft"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 291221,
+      "name": "Lenggang Puspita",
+      "url": "https://open.spotify.com/track/0mB5VPfAyvtBJnqw8pcFAA"
+    },
+    {
+      "added_at": "2024-11-09 16:00:00",
+      "album": {
+        "name": "DEKADE",
+        "url": "https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 218470,
+      "name": "Bukan Cinta Biasa - Dekade Version",
+      "url": "https://open.spotify.com/track/6N4EZhQbBsDjwr2buY3TGk"
+    },
+    {
+      "added_at": "2024-11-09 16:00:00",
+      "album": {
+        "name": "DEKADE",
+        "url": "https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 211752,
+      "name": "Sudah",
+      "url": "https://open.spotify.com/track/42r4DLlpc8rJkrxFBhcX6h"
+    },
+    {
+      "added_at": "2024-11-09 16:00:00",
+      "album": {
+        "name": "DEKADE",
+        "url": "https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 274539,
+      "name": "Panah Asmara",
+      "url": "https://open.spotify.com/track/2n5MdJ8bdz4QYOTdeZaBd5"
+    },
+    {
+      "added_at": "2024-11-09 16:00:00",
+      "album": {
+        "name": "Ada",
+        "url": "https://open.spotify.com/album/6oP8VmNt84dc4Kn00FM46C"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
         },
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 210801,
+      "name": "Ada",
+      "url": "https://open.spotify.com/track/483I1QLE05iH81ReYgF2BK"
+    },
+    {
+      "added_at": "2024-11-09 16:00:00",
+      "album": {
+        "name": "Mengertilah Kasih",
+        "url": "https://open.spotify.com/album/2DPXenmakHEKVRShv74Nvp"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         },
         {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
         }
       ],
-      "duration_ms": 202735,
-      "name": "Cold Heart - PNAU Remix",
-      "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
+      "duration_ms": 319114,
+      "name": "Mengertilah Kasih",
+      "url": "https://open.spotify.com/track/4p7NC3NRKNnSgSg7LQZAGM"
     },
     {
-      "added_at": "2024-11-03 12:36:28",
+      "added_at": "2024-11-09 16:00:00",
       "album": {
-        "name": "Radical Optimism",
-        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+        "name": "DEKADE",
+        "url": "https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         }
       ],
-      "duration_ms": 141783,
-      "name": "Anything For Love",
-      "url": "https://open.spotify.com/track/1yg0jZwJIsmG7a2TqPIv7z"
-    },
-    {
-      "added_at": "2024-11-03 12:36:28",
-      "album": {
-        "name": "Radical Optimism",
-        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 245680,
-      "name": "Happy For You",
-      "url": "https://open.spotify.com/track/05oC2UvKDcx0cY2wg9gzKC"
-    },
-    {
-      "added_at": "2024-11-06 08:56:28",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 193829,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW"
-    },
-    {
-      "added_at": "2024-11-06 08:56:28",
-      "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
-    },
-    {
-      "added_at": "2024-11-03 12:36:28",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
-    },
-    {
-      "added_at": "2024-11-03 12:36:28",
-      "album": {
-        "name": "Radical Optimism",
-        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/6D8y7Bck8h11byRY88Pt2z"
+      "duration_ms": 274118,
+      "name": "Setia Menunggu",
+      "url": "https://open.spotify.com/track/2w15WAw8vHkPfkGDxfAmtr"
     }
   ],
   "unique_name": "GO Live",

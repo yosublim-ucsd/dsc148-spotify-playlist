@@ -1185,6 +1185,24 @@
     },
     {
       "album": {
+        "name": "For Once in My Life (Acoustic)",
+        "url": "https://open.spotify.com/album/0HoMdL5BTmDdjMiYcaw2JS"
+      },
+      "artists": [
+        {
+          "name": "Hannah's Yard",
+          "url": "https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189435,
+      "name": "For Once in My Life - Acoustic",
+      "url": "https://open.spotify.com/track/67KMSGyRuUiB66SfkXhBaC"
+    },
+    {
+      "album": {
         "name": "Freedom (Acoustic)",
         "url": "https://open.spotify.com/album/1UvTMIIkqpPW96X0QmyaiN"
       },
@@ -4353,6 +4371,24 @@
     },
     {
       "album": {
+        "name": "What the World Needs Now Is Love (Acoustic)",
+        "url": "https://open.spotify.com/album/5OOWS7V3ZOcbKlev8bWTJ2"
+      },
+      "artists": [
+        {
+          "name": "Sands of Summer",
+          "url": "https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168831,
+      "name": "What the World Needs Now Is Love - Acoustic",
+      "url": "https://open.spotify.com/track/6Md8yvuJUzNcuHlLQbSYOf"
+    },
+    {
+      "album": {
         "name": "What's Love Got to Do With It (Acoustic)",
         "url": "https://open.spotify.com/album/5LhqpsqdqBFg9KtEZjDX0X"
       },
@@ -4682,7 +4718,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 150214,
       "name": "You Make My Dreams (Come True) - Acoustic",
       "url": "https://open.spotify.com/track/5eVWuD9WNdT1ucIjoSgzNi"

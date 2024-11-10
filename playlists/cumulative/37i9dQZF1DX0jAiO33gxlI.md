@@ -4,7 +4,7 @@
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Caio Ocean
 
-824 songs - 1 day 19 hr 39 min
+825 songs - 1 day 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,6 +512,7 @@
 | [NÃO ESCUTE ESSA MÚSICA](https://open.spotify.com/track/3DqroTwrAl5gFwGDxvnT7F) | [Guiu](https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [NÃO ESCUTE ESSA MÚSICA](https://open.spotify.com/album/0hoCCYkxjCROrGy4FNAejw) | 1:30 | 2022-05-27 | 2022-05-31 |
 | [Não Me Esqueça Ao Amanhecer](https://open.spotify.com/track/1ZWSw6I6tY3nvVA95tz7cD) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [Nevs](https://open.spotify.com/artist/4x9tonVUuhOmOuDCpSQUjV) | [Não Me Esqueça Ao Amanhecer](https://open.spotify.com/album/4nRVw34TEkjk4ww425I3oq) | 2:26 | 2023-11-24 | 2024-02-10 |
 | [Não Sabem de Nada](https://open.spotify.com/track/0JyL8OXGNa7KAVhTWoObp7) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Não Sabem de Nada](https://open.spotify.com/album/1YoF3z0NiZaTa2huvFvZ1t) | 4:02 | 2022-09-02 | 2022-10-15 |
+| [Não Seja Mais Um Pilantra](https://open.spotify.com/track/3NgrtUV5phVMrmSLfbwtJW) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Arnaldo Tifu](https://open.spotify.com/artist/2C1NxCWJbCkONI77zMisTx), [Jota Ghetto](https://open.spotify.com/artist/37HzB0soiShqHGooeDTEQ4), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [DJ RM Brasil](https://open.spotify.com/artist/7BpyfiIScZTN4lsdG0ia0G) | [A Mensagem](https://open.spotify.com/album/2VuAaT3eTjX109FTmDlIf9) | 5:01 | 2024-11-09 |  |
 | [Não Vai Voltar](https://open.spotify.com/track/3bkppEbUC1tkWuF6lOYQrA) | [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k), [Erik RK](https://open.spotify.com/artist/1eT2XdKtwPSozesRRF8fXr) | [Não Vai Voltar / Sinestesia](https://open.spotify.com/album/283Kx0L7gVlaTXLObHD6Pu) | 3:59 | 2022-08-05 | 2022-12-24 |
 | [Não É Ju](https://open.spotify.com/track/3dTOZAznQKLSApKHT0qYET) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Não É Ju](https://open.spotify.com/album/5h3muNB7W5Qy8BJqirwuPL) | 3:05 | 2023-08-04 | 2024-04-08 |
 | [Não É O Fim](https://open.spotify.com/track/6nkkvwCbDZ3qIdjkC7iwbo) | [Lucca DL](https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP), [Guxta](https://open.spotify.com/artist/3LutKkAZcYI7vS81R2yJjy) | [Não É O Fim](https://open.spotify.com/album/5o8wo85xwA3Iuxj3gBfmOA) | 2:54 | 2023-11-10 | 2023-11-18 |

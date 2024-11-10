@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 46 | [Day By Day](https://open.spotify.com/track/1AWffsRRRPuqAM6hC5atPX) | [Swanky Tunes](https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Day By Day](https://open.spotify.com/album/6VU1gU8DiUTwtBOglFMYGO) | 3:40 |
 | 47 | [Your Town](https://open.spotify.com/track/3HzpX6bOdxUq9X4cDObkNJ) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:25 |
 | 48 | [Levitator](https://open.spotify.com/track/3zla0UocDoFH1AQdTd4hfC) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:55 |
-| 49 | [Free to Love](https://open.spotify.com/track/7va3JyczUDb1173FZwU5Ol) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:27 |
-| 50 | [Change My Mind](https://open.spotify.com/track/6kU61vxWjXCb8hxJQm16j7) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Courage \(Deluxe Edition\)](https://open.spotify.com/album/0mqNgHFh1NYaxmlMS5IeGc) | 3:01 |
+| 49 | [Change My Mind](https://open.spotify.com/track/6kU61vxWjXCb8hxJQm16j7) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Courage \(Deluxe Edition\)](https://open.spotify.com/album/0mqNgHFh1NYaxmlMS5IeGc) | 3:01 |
+| 50 | [Free to Love](https://open.spotify.com/track/7va3JyczUDb1173FZwU5Ol) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:27 |
 | 51 | [Tear It Down](https://open.spotify.com/track/3mBpbLyT9wDg50I0lgmAul) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Hot Thoughts](https://open.spotify.com/album/1OPdyA7ZW7zIZEmSqThRGy) | 4:20 |
 | 52 | [Salvation](https://open.spotify.com/track/5KMNtw6HVCvXeY3b60JtGR) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:51 |
 | 53 | [Fighting with Myself \- Live](https://open.spotify.com/track/6mbS6Fks9pPJNNIYqUyzew) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:36 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 82 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
 | 83 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `Abg/FgAAAAB8G+7U60dVzBYoX+mty6+S`
+Snapshot ID: `AbhEtgAAAAD22yKp7VHxY4hBX2eQWC/8`

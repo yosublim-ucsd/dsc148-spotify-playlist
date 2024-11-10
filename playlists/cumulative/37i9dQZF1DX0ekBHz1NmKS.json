@@ -1624,7 +1624,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 125933,
       "name": "Antidote to Heaven",
       "url": "https://open.spotify.com/track/5hRfnPIy63J6k1AlJA3Avp"
@@ -6302,7 +6302,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 129893,
       "name": "Du borde s\u00e4ga f\u00f6rl\u00e5t",
       "url": "https://open.spotify.com/track/49ad6wcUMGCD9h5xFrhXoY"
@@ -6540,6 +6540,24 @@
       "duration_ms": 125887,
       "name": "Du \u00e4r tagen",
       "url": "https://open.spotify.com/track/7cm3FaZaouRmDKJmJ3jhGe"
+    },
+    {
+      "album": {
+        "name": "Duktig flicka",
+        "url": "https://open.spotify.com/album/7shSAZOh7CFRhNZs2MNLq7"
+      },
+      "artists": [
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184465,
+      "name": "Duktig flicka",
+      "url": "https://open.spotify.com/track/1xMUDBB8ZkfI9kQBzrE0eP"
     },
     {
       "album": {
@@ -15071,6 +15089,24 @@
     },
     {
       "album": {
+        "name": "kort & kall",
+        "url": "https://open.spotify.com/album/3pr7T4bj8g7aYTR6K6SJ4f"
+      },
+      "artists": [
+        {
+          "name": "Reyn",
+          "url": "https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189295,
+      "name": "kort & kall",
+      "url": "https://open.spotify.com/track/2I0UzNqQKk6EBg7oLhgcGC"
+    },
+    {
+      "album": {
         "name": "Korthus",
         "url": "https://open.spotify.com/album/4JwYFYWEHacLDk0dV6emb8"
       },
@@ -17356,7 +17392,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 139836,
       "name": "Maskinen \u00e4r tillbaka",
       "url": "https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw"
@@ -18478,6 +18514,28 @@
       "duration_ms": 169717,
       "name": "Moving Like That",
       "url": "https://open.spotify.com/track/780E9OsxVwOjhwxCxTurU3"
+    },
+    {
+      "album": {
+        "name": "Happy Life Go!",
+        "url": "https://open.spotify.com/album/5elFqU3q3kuUG8anlOj0Jc"
+      },
+      "artists": [
+        {
+          "name": "KAPARI",
+          "url": "https://open.spotify.com/artist/1YS9GiGL9yQ1A85ha3hPIX"
+        },
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160480,
+      "name": "MR BIG (feat. Miriam Bryant)",
+      "url": "https://open.spotify.com/track/6brcFMcUcb0aWDcJyFsQFt"
     },
     {
       "album": {

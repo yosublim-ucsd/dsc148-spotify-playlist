@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > pedro is back!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,361 likes - 296 songs - 21 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,868 likes - 296 songs - 21 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 25 | [Rich Baby Daddy](https://open.spotify.com/track/3gfNpIwauhswUG1WB9tfHa) | [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [GIOC](https://open.spotify.com/artist/6nqTwYWJ3UthsUrcL17OHA), [Eric Olliver](https://open.spotify.com/artist/5uYToXpi2lLrYqV1tzxfZA) | [Rich Baby Daddy](https://open.spotify.com/album/110HTF5Y9YMhIPj9pmCUqe) | 2:30 |
 | 26 | [15 Seconds of Fame \- Edit](https://open.spotify.com/track/1Q8WZ2aN87ld2vcb9UmrTB) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [15 Seconds of Fame \(Edit\)](https://open.spotify.com/album/1gNrTjstak4TqiaozWWGur) | 3:41 |
 | 27 | [That Beat feat\. Mikey V](https://open.spotify.com/track/0itrnIbc0H63XgEVeIakl7) | [Steve Bug](https://open.spotify.com/artist/4SoC2HfA0nGk3xCJ3hRG3J), [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v), [Mikey V](https://open.spotify.com/artist/5M6HuH4A69abqbnpT4IjQe) | [That Beat](https://open.spotify.com/album/6rOCKxAF32IYboWXlHxN5H) | 3:38 |
-| 28 | [Bump Artist](https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:23 |
+| 28 | [Bump Artist](https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Alex Peace](https://open.spotify.com/artist/5x0mazFBPEu8FPKmBArlGQ) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:23 |
 | 29 | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Kilo Ali](https://open.spotify.com/artist/6qbmEw8JjPrPV4HknWp0O1) | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/album/3XqYLQXudPtDBs73gZYLQG) | 2:25 |
 | 30 | [FUKINASTY](https://open.spotify.com/track/2fMAc4QZwcOOuE441dPpYD) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [DJ Rush](https://open.spotify.com/artist/6gBmUpKvNYtnQTSLK5vwS5) | [FUKINASTY / Look, Alright](https://open.spotify.com/album/7cK9lEO7XG4JGq9eB4Lwla) | 2:57 |
 | 31 | [Bang](https://open.spotify.com/track/2nQ8IRyTMH0JO6MNvr1Nsq) | [Waze](https://open.spotify.com/artist/0Pe4Z3QAZI9ZEAoqwoWbvZ), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Bang](https://open.spotify.com/album/5mtTCps7w1BxcDQSU5j2x5) | 2:23 |

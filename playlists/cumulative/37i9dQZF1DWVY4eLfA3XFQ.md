@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Joshwa 👽👽  50% techno, 50% house
 
-1,831 songs - 4 day 5 hr 59 min
+1,831 songs - 4 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [Bugatti \- Edit](https://open.spotify.com/track/4xY9Nkd8rB6vLut1VcvCTt) | [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW) | [Bugatti](https://open.spotify.com/album/5ziyjHCfXfCQwVJyMcyslv) | 2:55 | 2023-02-17 | 2023-04-17 |
 | [Bugbeat](https://open.spotify.com/track/7ukIYN8wvyAIpPAEU5nCbK) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Bugbeat](https://open.spotify.com/album/0BqdtICrtwzq8DMf7NXATV) | 2:59 | 2023-01-13 | 2023-04-22 |
 | [Bump](https://open.spotify.com/track/27X0DzpPoWQrmN1NYQ83Rv) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Bump](https://open.spotify.com/album/1mVjBu4XgPatNN47jCNrUg) | 3:07 | 2022-10-21 | 2022-12-17 |
-| [Bump Artist](https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:23 | 2024-09-13 |  |
+| [Bump Artist](https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Alex Peace](https://open.spotify.com/artist/5x0mazFBPEu8FPKmBArlGQ) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:23 | 2024-09-13 |  |
 | [Bump Grind](https://open.spotify.com/track/23f1lYLTKQ1qwjN7HHLHAK) | [Dipzy](https://open.spotify.com/artist/5piZAMtqB9RrIxmXSWJ7q9) | [Bump Grind](https://open.spotify.com/album/0iZTpE6J1rEs6yn8gn2kKb) | 4:04 | 2021-11-26 | 2022-01-06 |
 | [Bumpin'](https://open.spotify.com/track/6masBtuCi0T2n8WF9juFz3) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Bumpin'](https://open.spotify.com/album/73IsqaOLlkjLVDv7xyqjKA) | 4:12 | 2023-02-03 | 2023-04-09 |
 | [Bumpin'](https://open.spotify.com/track/3mNNfmxCOsLHv74CoIzMDl) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Bumpin'](https://open.spotify.com/album/4sESCe1Q8O2NxP9S2TnGEv) | 3:28 | 2023-03-10 | 2023-03-18 |
@@ -885,7 +885,7 @@
 | [Let Me Dance \- Jansons Remix](https://open.spotify.com/track/3r8hCxrLP5wsN59QWe4dXQ) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Kid Enigma](https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE), [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY) | [For Club Play Only, Pt\. 7 \(Remixes\)](https://open.spotify.com/album/7kkwKeHGQfMfwUa1aHRYqy) | 3:20 | 2021-11-26 | 2022-02-26 |
 | [Let Me Hear You](https://open.spotify.com/track/5eG6Wk7H7Oohwal7Z7eYCs) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Let Me Hear You](https://open.spotify.com/album/0x6I9RDf4Jsebu0IaebRy4) | 3:32 | 2021-11-26 | 2022-02-26 |
 | [Let Me Take You](https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Let Me Take You](https://open.spotify.com/album/6EQI68ufxLsZ4cTlhtcr3F) | 2:34 | 2022-05-13 | 2022-06-18 |
-| [Let The Bassline](https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Let The Bassline](https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W) | 4:09 | 2024-11-08 |  |
+| [Let The Bassline](https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Let The Bassline](https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W) | 3:03 | 2024-11-08 |  |
 | [Let Us Pray](https://open.spotify.com/track/3hgn6q5XdUJLCH6G8UtwgB) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Leonardo Gonnelli](https://open.spotify.com/artist/1oPZQYWNypR7DseLlEVhXe) | [Let Us Pray](https://open.spotify.com/album/0KswFZGl7qQibvbPhu2Kn7) | 3:00 | 2022-05-13 | 2022-06-11 |
 | [Let's Freak](https://open.spotify.com/track/5DbvVp3W55HN5igEic72Xs) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [Let's Freak](https://open.spotify.com/album/681OCAwzVaNg6yPgMQ3uJx) | 2:34 | 2022-05-06 | 2022-08-06 |
 | [Let's Get It](https://open.spotify.com/track/33WKRSrbY7Ku0HmlYiCQ6K) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Let's Get It](https://open.spotify.com/album/4Zt6JAobDaBHR2hxGauHpp) | 1:52 | 2023-08-18 | 2023-09-23 |

@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: STAYC\(스테이씨\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: CHUU\(츄\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-452 songs - 1 day 0 hr 54 min
+453 songs - 1 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Let's Go To The Sea](https://open.spotify.com/track/1StBQ6DpwvcS7cKeIld4g4) | [JEEWON \(cignature\)](https://open.spotify.com/artist/2O5ITV1R3gt5E4sAX5RxUD) | [Let's Go To The Sea](https://open.spotify.com/album/0OSwLuLDPyMBzUcdsqhSro) | 3:18 | 2024-07-30 | 2024-08-08 |
 | [LET′S DANCE](https://open.spotify.com/track/5OJFA4FvJAML5CgPzTjRM8) | [LEE CHAE YEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [The Move : Street](https://open.spotify.com/album/1O3e1rfT7WvtJYc19A6oLK) | 3:19 | 2023-09-06 | 2023-11-01 |
 | [LIFE IS A PARTY](https://open.spotify.com/track/1xG5krI48MsenYWnbfimxK) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 5th Mini Album <PARALLEL>](https://open.spotify.com/album/2cGPXPXZxEBr6LniuA3ewf) | 2:59 | 2022-03-29 | 2022-04-17 |
-| [Life's Too Short \(English Version\)](https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Life's Too Short](https://open.spotify.com/album/11lLYKMkFheiV7ObD7WCnx) | 2:58 | 2022-06-24 |  |
+| [Life's Too Short \(English Version\)](https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Life's Too Short](https://open.spotify.com/album/11lLYKMkFheiV7ObD7WCnx) | 2:58 | 2022-06-24 | 2024-11-10 |
 | [LIGHTS ON](https://open.spotify.com/track/2twVlgkEBjCecQXzathzlj) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Bliss](https://open.spotify.com/album/5L7D7qRVcgeuz9KqnbnxnK) | 3:11 | 2024-07-09 | 2024-07-25 |
 | [LIKE](https://open.spotify.com/track/38d2AabK6k4Ct4iQk80MI5) | [Serri](https://open.spotify.com/artist/38oZ3lMBfgejBalxm1GDgc) | [SLEEP](https://open.spotify.com/album/7roSNEb22dwOVwdxbqL9By) | 3:06 | 2022-10-08 | 2022-10-25 |
 | [LIKEY](https://open.spotify.com/track/4g7hiqTP5eXt75XU5WSMMA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [twicetagram](https://open.spotify.com/album/7dOZAeST5qCpfpQRAHq9sa) | 3:27 | 2021-11-29 | 2022-07-28 |
@@ -284,6 +284,7 @@
 | [PICK ME](https://open.spotify.com/track/1LShDXXs40R8bQFNBBupI3) | [PRODUCE 48](https://open.spotify.com/artist/5ORE0ElD7HiONogJZzhKrS) | [PRODUCE 48 \- NEKKOYA \(PICK ME\)](https://open.spotify.com/album/2bl024XQdz3Pd4jQLNyaZg) | 4:39 | 2022-03-29 | 2022-04-02 |
 | [Picky Picky](https://open.spotify.com/track/2RwHcRK2KfIAUGNq4Nlfv5) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [LOCK END LOL](https://open.spotify.com/album/1JrQT5pcTgC9HfVe5f2SL6) | 3:16 | 2022-03-29 | 2022-04-10 |
 | [Pinball](https://open.spotify.com/track/7FzDMnwPhj6qdTT2PRaSYi) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [SCENEDROME](https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH) | 3:12 | 2024-09-25 | 2024-10-12 |
+| [PINK CLOUD](https://open.spotify.com/track/5UhjW4sOyoi5vwYRj6l8C3) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [nrv](https://open.spotify.com/album/3dpGk03xqeTM8ZRb6NUg1g) | 3:10 | 2024-11-09 |  |
 | [Pinocchio](https://open.spotify.com/track/5IHqT5CMbpc35bh5aomwNK) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To\. Heart](https://open.spotify.com/album/0b1tsnRd7eu0q4qaeCLsQa) | 3:20 | 2021-11-29 | 2022-07-11 |
 | [PIT\-A\-PAT](https://open.spotify.com/track/1eSwiP5R9g2ws39TemiRHi) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TWICEcoaster: LANE1](https://open.spotify.com/album/1O0JME3VbK4siDIfh6K3Oe) | 3:27 | 2022-03-29 | 2022-04-20 |
 | [Plop Plop](https://open.spotify.com/track/4FGsdwzzlyiNtcHSmXj53B) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [HAPPY MOMENT](https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL) | 3:14 | 2022-03-29 | 2022-04-21 |

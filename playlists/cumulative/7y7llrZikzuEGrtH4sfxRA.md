@@ -4,7 +4,7 @@
 
 > 
 
-776 songs - 1 day 18 hr 58 min
+776 songs - 1 day 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,7 +394,7 @@
 | [Latres \- Original Mix](https://open.spotify.com/track/5xeYU4NoCNPTI4Jc3jeJBZ) | [Miguel Bastida](https://open.spotify.com/artist/5wHxSZdr7rIyqlFJxH1gCM) | [Latres](https://open.spotify.com/album/77IH9ImBbwcMpFgUPehVJv) | 3:13 | 2024-06-21 | 2024-06-29 |
 | [Leaving You](https://open.spotify.com/track/0PAKJqbYX1opfcrIS1YjBl) | [wAFF](https://open.spotify.com/artist/4OHSon9N7JAfxkjlH8nKDb) | [Leaving You](https://open.spotify.com/album/6b1PKhVolauZsFeibILJym) | 7:21 | 2024-07-12 | 2024-07-27 |
 | [Lemonade](https://open.spotify.com/track/6Jxua6Khy8ULDUl1kk6g4o) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Lemonade](https://open.spotify.com/album/31f0UtcyDi6Q0oJRzQNeKC) | 3:04 | 2024-05-24 | 2024-06-01 |
-| [Let The Bassline](https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Let The Bassline](https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W) | 4:09 | 2024-11-08 |  |
+| [Let The Bassline](https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Let The Bassline](https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W) | 3:03 | 2024-11-08 |  |
 | [Let's Get Jack](https://open.spotify.com/track/1yB2wsHFZfeMHoD5GclFAq) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Let's Get Jack](https://open.spotify.com/album/6WH9b8YDdMxFwXTFqpaqIL) | 3:22 | 2024-04-12 | 2024-04-19 |
 | [Let's Go Dancing \- Matroda Remix](https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8), [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Let's Go Dancing \(Matroda Remix\)](https://open.spotify.com/album/4bNMns2prUJi3cJwEF7dKc) | 3:15 | 2024-02-02 | 2024-02-10 |
 | [Let's Live It Up](https://open.spotify.com/track/38UucfghEi4ywjyhVRe4yT) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Harm Franklin](https://open.spotify.com/artist/44rJuOJLavqhY6qGgpQW4U) | [Let's Live It Up](https://open.spotify.com/album/6E8Pb0YPm7J4CNF3NrcwDh) | 3:02 | 2024-01-05 | 2024-01-13 |

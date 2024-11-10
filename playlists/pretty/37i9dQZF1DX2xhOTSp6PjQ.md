@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg?si=nt023\_xYTE6MHXXszrOssA">Sminofu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,837 likes - 64 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,197 likes - 64 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

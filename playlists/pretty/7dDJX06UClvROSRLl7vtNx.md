@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 74,848 likes - 200 songs - 8 hr 43 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 74,883 likes - 200 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 38 | [In Your Hands](https://open.spotify.com/track/0xELhaF1TNGxiInGwbZwyG) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc), [AKI](https://open.spotify.com/artist/4PZkiiOKrkpqOkhGSz2tel), [Axel Ehnström](https://open.spotify.com/artist/2sRQFLs62KkM8UTW3DjDFM) | [In Your Hands](https://open.spotify.com/album/4KqyR7Na49zBuLxy9TCjWX) | 2:40 |
 | 39 | [Blinding Lights](https://open.spotify.com/track/0wI0S42Cg41DVGqIIVimTM) | [Revelries](https://open.spotify.com/artist/7KigP1NA8s7IiVIxP5ndwJ), [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Blinding Lights](https://open.spotify.com/album/1RinMQThKCHcrk6hMf6QiN) | 2:56 |
 | 40 | [Too Sweet](https://open.spotify.com/track/35ngVMxxzirCHtnhB9XfPg) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [Too Sweet](https://open.spotify.com/album/5RapO0NBTef1Od1UnEIOlH) | 3:10 |
-| 41 | [Keep Me Safe](https://open.spotify.com/track/0gevDsgwzD516yj7zxul8C) | [Planet Wave House](https://open.spotify.com/artist/0TtBVSCNHItUJOT8PEgsNd), [CRE](https://open.spotify.com/artist/42Qze3BoVgi0YCGbcUC1bp), [SOULWAY](https://open.spotify.com/artist/6XVrTtDDI2YcO6qKIIt1ck) | [Keep Me Safe](https://open.spotify.com/album/5RzqItNFbTtJhHDKcKbiZY) | 2:19 |
+| 41 | [Keep Me Safe](https://open.spotify.com/track/0gevDsgwzD516yj7zxul8C) | [Planet Wave House](https://open.spotify.com/artist/0TtBVSCNHItUJOT8PEgsNd), [CRE](https://open.spotify.com/artist/4igo8DCgQozV9rIPs4K9us), [SOULWAY](https://open.spotify.com/artist/6XVrTtDDI2YcO6qKIIt1ck) | [Keep Me Safe](https://open.spotify.com/album/5RzqItNFbTtJhHDKcKbiZY) | 2:19 |
 | 42 | [crazy about you](https://open.spotify.com/track/22Kg9zkWePQpMdAAY3gplQ) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [crazy about you](https://open.spotify.com/album/795sLNiCOS6x2NJrmgT5BE) | 2:00 |
 | 43 | [Love Me A Little](https://open.spotify.com/track/7yRzZjRJJfCBcZvRlEDde1) | [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD) | [Love Me A Little](https://open.spotify.com/album/6PcfMt7xi2UL2evpivNvsa) | 2:30 |
 | 44 | [So Far, So Good](https://open.spotify.com/track/0fXFbvEqVejIxokViAmODf) | [Horbatso](https://open.spotify.com/artist/3NiLiVrm3T8AQysXn54ALH), [Kenan Waters](https://open.spotify.com/artist/5wqaqDigmVwxbb69jlpfOv), [Luke James Shaffer](https://open.spotify.com/artist/5rhcXbjwP1pnyqjlNo4AoP) | [So Far, So Good](https://open.spotify.com/album/11iPUp3nzlP4favXcCGgTt) | 2:12 |

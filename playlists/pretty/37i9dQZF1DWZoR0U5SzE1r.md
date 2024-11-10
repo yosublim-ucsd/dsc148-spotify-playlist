@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,951 likes - 75 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,029 likes - 75 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 63 | [How Good](https://open.spotify.com/track/2p6fKr7nPgfrd6cxOYHzIk) | [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb), [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2), [Tertia May](https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown) | [Paradise](https://open.spotify.com/album/2AQV4UU80HM2CpUwcdT97s) | 2:39 |
 | 64 | [Jesus, You're Beautiful \(Live\)](https://open.spotify.com/track/6aQq9IC5749DQOj6I7rhNM) | [Onething Live](https://open.spotify.com/artist/3T6MQugN3SnovyHgr7PLUa), [Jon Thurlow](https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B) | [Love Makes Us Strong \(Live\)](https://open.spotify.com/album/0U9aF7g5O6rVEf2QsxNEfX) | 7:28 |
 | 65 | [Nobody Like You \(Live\)](https://open.spotify.com/track/3g3OnglwSM3Rij5tIFA1LZ) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Nobody Like You \(Live\)](https://open.spotify.com/album/5SX9vQtcGlUpyJkB3kwry1) | 7:22 |
-| 66 | [Drink Offering \(Deluxe Version\) \- Live](https://open.spotify.com/track/2IGP8edi8VNcop2t7ouQMy) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Cover The Earth: Live In New York \(Deluxe\)](https://open.spotify.com/album/2ODgj7jaZbBWcskolm7iCK) | 9:12 |
-| 67 | [More Than Enough \- Live](https://open.spotify.com/track/156GrZB2Ijf2rH4dgxaPcl) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [More Than Enough / Still In Control \(Live\)](https://open.spotify.com/album/1ue3FXYsAQEzWFpUwc3SyL) | 8:36 |
+| 66 | [More Than Enough \- Live](https://open.spotify.com/track/156GrZB2Ijf2rH4dgxaPcl) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [More Than Enough / Still In Control \(Live\)](https://open.spotify.com/album/1ue3FXYsAQEzWFpUwc3SyL) | 8:36 |
+| 67 | [Drink Offering \(Deluxe Version\) \- Live](https://open.spotify.com/track/2IGP8edi8VNcop2t7ouQMy) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Cover The Earth: Live In New York \(Deluxe\)](https://open.spotify.com/album/2ODgj7jaZbBWcskolm7iCK) | 9:12 |
 | 68 | [Speak](https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP) | [Speak](https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI) | 4:20 |
 | 69 | [I'm Listening \- Live](https://open.spotify.com/track/4H8aHbObTT2BD16ZUZjD5Y) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Breakthrough \(Live\)](https://open.spotify.com/album/4ROjH1uLP9Qe7FNunpCTZi) | 4:45 |
 | 70 | [Glory to Glory](https://open.spotify.com/track/0SfGXg7vZmt5OGxET9lhRw) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 6:05 |

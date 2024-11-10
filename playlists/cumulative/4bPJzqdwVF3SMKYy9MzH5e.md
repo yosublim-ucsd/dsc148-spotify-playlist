@@ -4,7 +4,7 @@
 
 > 
 
-2,017 songs - 4 day 12 hr 21 min
+2,018 songs - 4 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [B.Y.O.B.](https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Mezmerize](https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o) | 4:15 | 2021-08-05 |  |
 | [B2b](https://open.spotify.com/track/6tYGrpUyqB4yao5lAs3AR4) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:58 | 2024-04-22 |  |
 | [Baby Don't Worry](https://open.spotify.com/track/18wl9EZLc5itIf8YR74kdm) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [Grow](https://open.spotify.com/album/7akj4ATnCnOCL1GwKVSy5z) | 2:46 | 2021-08-05 |  |
+| [Baby G](https://open.spotify.com/track/4n4doJ9RMuarUvkSjwcF7U) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 4:31 | 2024-11-09 |  |
 | [Baby Hotline](https://open.spotify.com/track/1R8kvV2AgNPCA2Pp4Im1Ao) | [Jack Stauber's Micropop](https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC) | [Baby Hotline / Tea Errors](https://open.spotify.com/album/1AaAZVHtUWpJuLpq96VUuQ) | 4:51 | 2021-08-05 |  |
 | [Baby in Blue](https://open.spotify.com/track/4SSpUNIZ8HnX52jWrmyVmJ) | [Madisenxoxo](https://open.spotify.com/artist/2S2x3n1BXskbkRdEdj5gSB) | [Baby in Blue](https://open.spotify.com/album/1hbf7WZ4YxDJ4CQ7rLCQ8m) | 3:55 | 2021-08-05 |  |
 | [Baby My Phone](https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [Baby My Phone](https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq) | 3:35 | 2021-08-05 |  |

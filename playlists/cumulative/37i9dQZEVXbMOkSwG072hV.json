@@ -3863,6 +3863,48 @@
     },
     {
       "album": {
+        "name": "Apaixonado Nela",
+        "url": "https://open.spotify.com/album/4YcYxjtcx6m2YC4dfNRi83"
+      },
+      "artists": [
+        {
+          "name": "Paulo Pires",
+          "url": "https://open.spotify.com/artist/3whgFbrRxsOmYVrq3t4hCY"
+        },
+        {
+          "name": "Diego & Ray",
+          "url": "https://open.spotify.com/artist/1TAiyn19RP753HNE1cUbq8"
+        },
+        {
+          "name": "B\u00e1rbara Labres",
+          "url": "https://open.spotify.com/artist/0trHMgCbRohjsr2uzM6scS"
+        },
+        {
+          "name": "GREGO",
+          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
+        },
+        {
+          "name": "Humberto & Ronaldo",
+          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
+        },
+        {
+          "name": "US Agroboy",
+          "url": "https://open.spotify.com/artist/7gXnv2nAoF9X0XJQ3AMp7d"
+        },
+        {
+          "name": "\u00c9aBest",
+          "url": "https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217301,
+      "name": "Apaixonado Nela",
+      "url": "https://open.spotify.com/track/6I1C5IXiqZ451mHKZvODaT"
+    },
+    {
+      "album": {
         "name": "Apeguei na Putaria",
         "url": "https://open.spotify.com/album/2svdcoJyoWS6vA4WV143WH"
       },
@@ -4350,6 +4392,28 @@
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
+    },
+    {
+      "album": {
+        "name": "AS NOVINHAS DO JACARE X BEAT PORRADEIRO",
+        "url": "https://open.spotify.com/album/09kc57Jkvr2GFHYd2RiF4Y"
+      },
+      "artists": [
+        {
+          "name": "MANO ELYCE",
+          "url": "https://open.spotify.com/artist/3Z6G9veZAUhJLJNzu9g2AU"
+        },
+        {
+          "name": "Mc Dido",
+          "url": "https://open.spotify.com/artist/3AbeBDqk7IsG1JZEWVVcpY"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80225,
+      "name": "AS NOVINHAS DO JACARE X BEAT PORRADEIRO",
+      "url": "https://open.spotify.com/track/0WlTjonJRqcdp4Vf9tm0Ch"
     },
     {
       "album": {
@@ -6876,7 +6940,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 195692,
       "name": "Bbz\u00e3o da Boca Inchada",
       "url": "https://open.spotify.com/track/0d4FoBkKaSZ4lGzd6pgJTc"
@@ -15272,7 +15336,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 199893,
       "name": "Dia 1 - Ao Vivo",
       "url": "https://open.spotify.com/track/3hOEoT2oxqpfFe7sjQrsgA"
@@ -20518,7 +20582,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 216588,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI"
@@ -33188,6 +33252,10 @@
         {
           "name": "MC Xangai",
           "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
         }
       ],
       "date_added": "2024-10-29",
@@ -38534,7 +38602,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 536066,
       "name": "November Rain",
       "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"

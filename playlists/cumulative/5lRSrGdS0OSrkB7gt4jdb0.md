@@ -4,7 +4,7 @@
 
 > We all need an angry playlist
 
-44 songs - 2 hr 38 min
+47 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Face It Alone](https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju) | 4:07 | 2023-03-21 |  |
 | [Find The Door](https://open.spotify.com/track/56pfVnia0F1QerVC2ycOxG) | [The Haunted Windchimes](https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2) | [Honey Moonshine](https://open.spotify.com/album/5Aws1xUnOX5M0rBlJYa5nR) | 3:08 | 2024-09-16 |  |
 | [Foreign Object](https://open.spotify.com/track/63yjXQBoVXuN3ePTXmNxBQ) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beat the Champ](https://open.spotify.com/album/4i54Kl9bCNCVJeeflih1rB) | 2:51 | 2022-05-06 |  |
+| [Get Busy Living Or Get Busy Dying \(Do Your Part To Save The Scene And Stop Going To Shows\)](https://open.spotify.com/track/3ni6qGsTnioh5vlpYdj9A5) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree Limited Tour Edition](https://open.spotify.com/album/2AX9B6Af32in4KbKtX1r4q) | 3:27 | 2024-11-09 |  |
 | [Give 'Em Hell, Kid](https://open.spotify.com/track/0axF06XwNLobcx5z8BVtYw) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 2:18 | 2024-10-27 |  |
 | [Hammer To Fall](https://open.spotify.com/track/2GCFcbxm61rSA8gzsDk6NJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works](https://open.spotify.com/album/0FbnXAGmgmWBmNthZSgm43) | 4:26 | 2023-03-21 |  |
 | [Hell's Comin' with Me](https://open.spotify.com/track/5N0lmKQfQpXNQNjUGlPKIT) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/7sXEDXktkY9cFOcgvIR6CI) | 3:32 | 2023-10-30 |  |
@@ -46,9 +47,11 @@
 | [The End.](https://open.spotify.com/track/7oiqxhRXTv11kRqEV0D70G) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 1:52 | 2023-01-11 |  |
 | [The Kids Are Coming](https://open.spotify.com/track/2lpq6DxKJaDl7MFPV7asFv) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:24 | 2022-05-06 |  |
 | [The Nerve](https://open.spotify.com/track/6dJaYiWkLmTXc8cR0EFJTD) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 3:59 | 2023-01-07 |  |
+| [The Patron Saint of Liars and Fakes](https://open.spotify.com/track/0aHWzIvtnkG3FVcBoFQ6BG) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:19 | 2024-11-09 |  |
 | [The Phoenix](https://open.spotify.com/track/4ozPOpuCucEvKQp9pVjUDx) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Believers Never Die \- Greatest Hits \(Volume Two\)](https://open.spotify.com/album/2MlgtDuxXXz8c8Toc9kKTd) | 4:06 | 2023-03-22 |  |
 | [The Plank](https://open.spotify.com/track/191qPeOpllZfaApp35HXK3) | [The Devil Makes Three](https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte) | [The Devil Makes Three](https://open.spotify.com/album/18VR3tbMXiPOEj4rQfSp1k) | 2:26 | 2023-05-10 |  |
 | [The Real Slim Shady](https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:44 | 2022-05-06 |  |
+| [This Ain't A Scene, It's An Arms Race](https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:32 | 2024-11-09 |  |
 | [Venom \- Music From The Motion Picture](https://open.spotify.com/track/3kpYJjvM8Ja6btr5hEJLWc) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Venom \(Music From The Motion Picture\)](https://open.spotify.com/album/25zSh5FAL8kUh8z7ivwBH6) | 4:29 | 2022-05-06 |  |
 | [When Will You Die?](https://open.spotify.com/track/4wGP288tIQgaOJbJkZDZ5G) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Join Us](https://open.spotify.com/album/69HFkyVMVy1b2aRLYBHG0i) | 2:31 | 2022-05-06 |  |
 | [You Don't Know Me Like That](https://open.spotify.com/track/0Ycp1KfXcVpXXAfStPpdEM) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Beautifully Ordinary](https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8) | 3:52 | 2024-09-16 |  |

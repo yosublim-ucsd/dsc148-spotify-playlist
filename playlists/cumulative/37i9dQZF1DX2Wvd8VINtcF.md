@@ -4,7 +4,7 @@
 
 > pearls of an oyster\. Cover: Tyler, The Creator
 
-1,554 songs - 3 day 12 hr 44 min
+1,555 songs - 3 day 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1482,6 +1482,7 @@
 | [Watching The News](https://open.spotify.com/track/7mRQwapf9utc4GcehUZ1VP) | [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Sharing is Caring](https://open.spotify.com/album/1Kj5fIqE9jXWNVzjYTPp3j) | 3:38 | 2023-09-14 | 2023-11-10 |
 | [Water To The Moon](https://open.spotify.com/track/4OoD2oTiQdH9rQ4pPnIAfT) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [Noraa](https://open.spotify.com/artist/3TB54cQWdcg0uDjBoTu6S2) | [Water To The Moon / ok](https://open.spotify.com/album/1q0SuNuVXxZpXdB0YomMBk) | 2:59 | 2022-10-28 | 2023-01-20 |
 | [Way Back](https://open.spotify.com/track/2mobDDzkskezluhIzhM7Sg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Way Back](https://open.spotify.com/album/01VCnhIMf2hE6FePTapW54) | 1:59 | 2023-01-05 | 2023-03-18 |
+| [Way Back Home](https://open.spotify.com/track/6zgpB19NFV0ARh8IDdQDnH) | [KAPARI](https://open.spotify.com/artist/1YS9GiGL9yQ1A85ha3hPIX) | [Happy Life Go!](https://open.spotify.com/album/5elFqU3q3kuUG8anlOj0Jc) | 2:28 | 2024-11-09 |  |
 | [Way Too Good](https://open.spotify.com/track/7v7yldcasSvbwu8tE9VV84) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov), [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Way Too Good](https://open.spotify.com/album/13lH2NV2SYOH2HGgiBO66A) | 2:23 | 2024-07-25 | 2024-10-25 |
 | [We Are Making Out](https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [We Are Making Out](https://open.spotify.com/album/04S5Dt209BG3Gzci4HdrFs) | 2:50 | 2024-06-20 | 2024-09-27 |
 | [WE KNOW](https://open.spotify.com/track/4cMbQIEO1PS6xWYZX8aBEF) | [LUCIIA](https://open.spotify.com/artist/4wstpJTWcoASedbusTGfjd) | [WE KNOW](https://open.spotify.com/album/1XFeJPwlJny9t0TyLNaRIM) | 2:57 | 2023-08-03 | 2023-09-01 |

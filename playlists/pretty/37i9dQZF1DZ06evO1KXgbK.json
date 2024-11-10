@@ -1,41 +1,13 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 249520,
+  "num_followers": 249556,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZywDAAAAAADVU9v3XeXmM9ohcOg6id2L",
+  "snapshot_id": "Zy1UgAAAAAB0rnx+PKUKPe21uqkVAQpI",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gonna Be You (feat. Callie Twisselman)",
-        "url": "https://open.spotify.com/album/7evJ2PYw1X5EkhsgUW5ftj"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Maddie & Tae",
-          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
-        },
-        {
-          "name": "Jessie James Decker",
-          "url": "https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz"
-        },
-        {
-          "name": "Callie Twisselman",
-          "url": "https://open.spotify.com/artist/3gF0ir2uNJSwtsQC4Voj8R"
-        }
-      ],
-      "duration_ms": 184608,
-      "name": "Gonna Be You (feat. Callie Twisselman)",
-      "url": "https://open.spotify.com/track/2S9K5jeUJpFhxr4MRpIogF"
-    },
     {
       "added_at": null,
       "album": {
@@ -547,6 +519,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gonna Be You (feat. Callie Twisselman)",
+        "url": "https://open.spotify.com/album/7evJ2PYw1X5EkhsgUW5ftj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        },
+        {
+          "name": "Jessie James Decker",
+          "url": "https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz"
+        },
+        {
+          "name": "Callie Twisselman",
+          "url": "https://open.spotify.com/artist/3gF0ir2uNJSwtsQC4Voj8R"
+        }
+      ],
+      "duration_ms": 184608,
+      "name": "Gonna Be You (feat. Callie Twisselman)",
+      "url": "https://open.spotify.com/track/2S9K5jeUJpFhxr4MRpIogF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Here You Come Again",
         "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
       },
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Only Knows (with Dolly Parton)",
-        "url": "https://open.spotify.com/album/1gpKIhj9oqbjJIDMvZhAdF"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 213653,
-      "name": "God Only Knows (with Dolly Parton)",
-      "url": "https://open.spotify.com/track/34n8xD9eHSdpwIGffhSLvW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Words",
         "url": "https://open.spotify.com/album/6pWNv9LbVXV2ZvlK3gvmRp"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 191928,
       "name": "Words",
       "url": "https://open.spotify.com/track/733sNPL4OMX4iN8DE6p2RH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Only Knows (with Dolly Parton)",
+        "url": "https://open.spotify.com/album/1gpKIhj9oqbjJIDMvZhAdF"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 213653,
+      "name": "God Only Knows (with Dolly Parton)",
+      "url": "https://open.spotify.com/track/34n8xD9eHSdpwIGffhSLvW"
     },
     {
       "added_at": null,
@@ -1007,30 +1007,6 @@
       "duration_ms": 150447,
       "name": "Dumb Blonde",
       "url": "https://open.spotify.com/track/1wgXZFadykcGX9W1olAOmp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Will Know",
-        "url": "https://open.spotify.com/album/7FgodvjlG90dx6szFtITzG"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Rachel Parton George",
-          "url": "https://open.spotify.com/artist/1Ty8mSkLkDPYD3oZYqoQTj"
-        },
-        {
-          "name": "Dolly Parton & Family",
-          "url": "https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR"
-        }
-      ],
-      "duration_ms": 132078,
-      "name": "I Will Know",
-      "url": "https://open.spotify.com/track/4C38L9FS2EMoBulFdt0Cnr"
     }
   ],
   "unique_name": "This Is Dolly Parton",

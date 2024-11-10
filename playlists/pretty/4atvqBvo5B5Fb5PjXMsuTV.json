@@ -1,13 +1,53 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Nov 02:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Nov 17:02 UTC.",
   "num_followers": 85,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAANKBkPfnb+q1NFAOh9OFs7KyWXAhOD",
+  "snapshot_id": "AAANMOFZOT/rLxg3jLd4e1DTMCDXbKyy",
   "tracks": [
+    {
+      "added_at": "2024-11-09 11:02:26",
+      "album": {
+        "name": "nrv",
+        "url": "https://open.spotify.com/album/3dpGk03xqeTM8ZRb6NUg1g"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "PINK CLOUD",
+      "url": "https://open.spotify.com/track/5UhjW4sOyoi5vwYRj6l8C3"
+    },
+    {
+      "added_at": "2024-11-09 05:02:34",
+      "album": {
+        "name": "Frutiger Aero",
+        "url": "https://open.spotify.com/album/7DM5bCSsrNXvr3oHGYRWwn"
+      },
+      "artists": [
+        {
+          "name": "Acidgvrl",
+          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
+        },
+        {
+          "name": "SadGirlsVsTheWorld",
+          "url": "https://open.spotify.com/artist/6iUeohKjJtOEsfR1Z96g61"
+        },
+        {
+          "name": "Y\u014dko",
+          "url": "https://open.spotify.com/artist/0Cznh5kr6Hlgyl2oHxEFF4"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Frutiger Aero",
+      "url": "https://open.spotify.com/track/0LprvfCWD1kSElkfpOTx7c"
+    },
     {
       "added_at": "2024-11-08 02:02:31",
       "album": {
@@ -269,6 +309,22 @@
       "url": "https://open.spotify.com/track/287x3GNRnwnyn6mjkmDHUU"
     },
     {
+      "added_at": "2024-11-09 08:02:40",
+      "album": {
+        "name": "Cherish In The Dark",
+        "url": "https://open.spotify.com/album/5Nwi6iHE0TTMhtZRKdeVC1"
+      },
+      "artists": [
+        {
+          "name": "CG5",
+          "url": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
+        }
+      ],
+      "duration_ms": 205776,
+      "name": "Cherish In The Dark",
+      "url": "https://open.spotify.com/track/5f3rHcLiOVXgdHSNBsq9cV"
+    },
+    {
       "added_at": "2024-11-09 02:02:36",
       "album": {
         "name": "Consequences",
@@ -405,6 +461,22 @@
       "url": "https://open.spotify.com/track/7jpJGaSJhEEwpX45SqFdXg"
     },
     {
+      "added_at": "2024-11-09 17:02:36",
+      "album": {
+        "name": "ghost inside a shadow",
+        "url": "https://open.spotify.com/album/1uu8MxAeoozl8tJaEjzJQ4"
+      },
+      "artists": [
+        {
+          "name": "Wifisfuneral",
+          "url": "https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV"
+        }
+      ],
+      "duration_ms": 130463,
+      "name": "ghost inside a shadow",
+      "url": "https://open.spotify.com/track/2dSZnykJ0zhSRJIt82rq2X"
+    },
+    {
       "added_at": "2024-11-08 05:03:14",
       "album": {
         "name": "Certe bugie",
@@ -470,6 +542,18 @@
         {
           "name": "Alice Phoebe Lou",
           "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        },
+        {
+          "name": "David Parry",
+          "url": "https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD"
+        },
+        {
+          "name": "Dekel Adin",
+          "url": "https://open.spotify.com/artist/27xyFvRoUUYKOPiY47BbZ9"
+        },
+        {
+          "name": "Ziv Yamin",
+          "url": "https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8"
         }
       ],
       "duration_ms": 232290,
@@ -829,6 +913,22 @@
       "url": "https://open.spotify.com/track/0SXTxcx1SGoLM7gGS0FpPu"
     },
     {
+      "added_at": "2024-11-09 17:02:36",
+      "album": {
+        "name": "New God",
+        "url": "https://open.spotify.com/album/7bljfHKclCaLBPfwxK9BTC"
+      },
+      "artists": [
+        {
+          "name": "Moon Walker",
+          "url": "https://open.spotify.com/artist/4Qvflafuw7a0F2E3NonxsA"
+        }
+      ],
+      "duration_ms": 202190,
+      "name": "New God",
+      "url": "https://open.spotify.com/track/5TxHd6feUaIpJxLAjpYJZp"
+    },
+    {
       "added_at": "2024-11-09 02:02:36",
       "album": {
         "name": "Roll That Weed Up",
@@ -843,90 +943,6 @@
       "duration_ms": 162019,
       "name": "Roll That Weed Up",
       "url": "https://open.spotify.com/track/6MXCDzuLxdhBRbiGWPXybX"
-    },
-    {
-      "added_at": "2024-11-08 17:02:44",
-      "album": {
-        "name": "Safety Net (Cry in your bed version)",
-        "url": "https://open.spotify.com/album/4jwDIFGSjQRMmjTKQUQ5mU"
-      },
-      "artists": [
-        {
-          "name": "Bea and her Business",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
-        }
-      ],
-      "duration_ms": 244829,
-      "name": "Safety Net - Cry in your bed version",
-      "url": "https://open.spotify.com/track/4lhtU5KCrf1U7DYJHQcDxH"
-    },
-    {
-      "added_at": "2024-11-08 11:02:48",
-      "album": {
-        "name": "Stephanie",
-        "url": "https://open.spotify.com/album/2yKEfVg5mmo4snwHuhGL9r"
-      },
-      "artists": [
-        {
-          "name": "Joker Out",
-          "url": "https://open.spotify.com/artist/0ZNfJyThuy6vLnPEpPaJdf"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Stephanie",
-      "url": "https://open.spotify.com/track/0jOKUf4Q8SurItytC8MrjN"
-    },
-    {
-      "added_at": "2024-11-08 23:02:37",
-      "album": {
-        "name": "Subway Sexists V2",
-        "url": "https://open.spotify.com/album/2y6fIyFsJLT3RkQwXrO4fU"
-      },
-      "artists": [
-        {
-          "name": "Yung Spinach Cumshot",
-          "url": "https://open.spotify.com/artist/7btVl9Odz38WZQU7HH9XF9"
-        },
-        {
-          "name": "DigBar",
-          "url": "https://open.spotify.com/artist/3Kb7e8b1tSd7TLa3cy7HUV"
-        }
-      ],
-      "duration_ms": 155005,
-      "name": "Subway Sexists V2",
-      "url": "https://open.spotify.com/track/1aWqXuMojCmI91ngzCWZKz"
-    },
-    {
-      "added_at": "2024-11-08 17:02:44",
-      "album": {
-        "name": "The Liberation Frequency",
-        "url": "https://open.spotify.com/album/3CGZ5i3Q8Z5dirnVhm5Zjv"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 245800,
-      "name": "The Liberation Frequency",
-      "url": "https://open.spotify.com/track/2M9ZSHEQVaqdwcKoePiVKe"
-    },
-    {
-      "added_at": "2024-11-08 05:03:14",
-      "album": {
-        "name": "Kissing In the Cold (Mistletoe Version)",
-        "url": "https://open.spotify.com/album/70bD1wKCGexlprV4huDo5M"
-      },
-      "artists": [
-        {
-          "name": "Florrie",
-          "url": "https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8"
-        }
-      ],
-      "duration_ms": 241960,
-      "name": "Kissing In the Cold - Mistletoe Version",
-      "url": "https://open.spotify.com/track/2TaQZIxvt9TVfNqXe5A1ae"
     }
   ],
   "unique_name": "New Singles Now",

@@ -4,13 +4,14 @@
 
 > Desperation
 
-6 songs - 20 min 33 sec
+7 songs - 23 min 15 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Magpie](https://open.spotify.com/track/0Nx1m4J8mlBW34aUW7wcy2) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 2:00 | 2024-11-05 |  |
 | [Make It Rain](https://open.spotify.com/track/3m4Q0H3PIlxlBjERC7zWh2) | [The Haunted Windchimes](https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2) | [Out With the Crow](https://open.spotify.com/album/1nbXKbgWArwy2KuLItW6qh) | 4:55 | 2024-09-16 |  |
 | [Need More Bandages](https://open.spotify.com/track/41oZm63yeOM8FHjk4lpdfD) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Bleed Out](https://open.spotify.com/album/20KGjm5xRROTqP0UY1EVRg) | 3:41 | 2023-11-22 |  |
+| [Slow West Vultures](https://open.spotify.com/track/5b6XWX2ifTdSClxnLIMLzh) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [We Shall All Be Healed](https://open.spotify.com/album/45KMV5nuTYdfXBfH3RR98Z) | 2:41 | 2024-11-09 |  |
 | [Sometimes](https://open.spotify.com/track/6oLgJATx3ECZ7Pcghmz38L) | [Nick Lutsko](https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE) | [Swords](https://open.spotify.com/album/2oTWDmzqeri1WOvpSH5J4g) | 3:48 | 2024-04-08 |  |
 | [Steal Smoked Fish](https://open.spotify.com/track/7xXd5Bo7QC0G2M9fn1QWEI) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Steal Smoked Fish / In the Shadow of the Western Hills](https://open.spotify.com/album/6MufqmhgbIO7CezOM60xyc) | 3:13 | 2024-05-28 |  |
 | [You Know What They Do to Guys Like Us in Prison](https://open.spotify.com/track/5bTuwAgYUD5MABOIPH8ZMt) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 2:53 | 2024-10-27 |  |

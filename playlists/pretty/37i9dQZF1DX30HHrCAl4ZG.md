@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Mk.gee
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,958 likes - 107 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,977 likes - 107 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

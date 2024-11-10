@@ -1,6 +1,6 @@
 {
   "description": "Have the loveliest little day.",
-  "num_followers": 228843,
+  "num_followers": 228897,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -277,22 +277,6 @@
       "url": "https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy"
     },
     {
-      "added_at": "2023-08-14 10:00:14",
-      "album": {
-        "name": "how can i pretend?",
-        "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "ur so pretty",
-      "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
-    },
-    {
       "added_at": "2024-03-28 22:30:08",
       "album": {
         "name": "So Long Forever",
@@ -307,6 +291,22 @@
       "duration_ms": 249840,
       "name": "Live Well",
       "url": "https://open.spotify.com/track/2H30WL3exSctlDC9GyRbD4"
+    },
+    {
+      "added_at": "2023-08-14 10:00:14",
+      "album": {
+        "name": "how can i pretend?",
+        "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "ur so pretty",
+      "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Cannot Be, Whatsoever",
-        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Birdcage",
-      "url": "https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z"
-    },
-    {
       "added_at": "2023-02-03 00:30:16",
       "album": {
         "name": "The Florist",
@@ -651,6 +635,22 @@
       "duration_ms": 190601,
       "name": "The Florist",
       "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Cannot Be, Whatsoever",
+        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Birdcage",
+      "url": "https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -913,22 +913,6 @@
       "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Are You OK?",
-        "url": "https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc"
-      },
-      "artists": [
-        {
-          "name": "Wasuremono",
-          "url": "https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig"
-        }
-      ],
-      "duration_ms": 263733,
-      "name": "Are You OK?",
-      "url": "https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY"
-    },
-    {
       "added_at": "2024-03-22 16:44:40",
       "album": {
         "name": "Wild",
@@ -943,6 +927,22 @@
       "duration_ms": 207353,
       "name": "Be Your Boy",
       "url": "https://open.spotify.com/track/0mvbSAjTbLc6ExAaDh5vlM"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Are You OK?",
+        "url": "https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc"
+      },
+      "artists": [
+        {
+          "name": "Wasuremono",
+          "url": "https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig"
+        }
+      ],
+      "duration_ms": 263733,
+      "name": "Are You OK?",
+      "url": "https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1121,22 +1121,6 @@
       "url": "https://open.spotify.com/track/573nT62vtbezncIwCfxIm7"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Look Out!",
-        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Look Out!",
-      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
-    },
-    {
       "added_at": "2023-05-18 14:23:33",
       "album": {
         "name": "Dark Corners and Alchemy",
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Margaux",
-        "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
+        "name": "Look Out!",
+        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
       },
       "artists": [
         {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
         }
       ],
-      "duration_ms": 146810,
-      "name": "Margaux",
-      "url": "https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i"
+      "duration_ms": 176506,
+      "name": "Look Out!",
+      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
     },
     {
       "added_at": "2023-09-29 10:53:41",
@@ -1183,6 +1167,22 @@
       "duration_ms": 205230,
       "name": "unposted letters",
       "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Margaux",
+        "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 146810,
+      "name": "Margaux",
+      "url": "https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i"
     },
     {
       "added_at": "2024-04-12 11:40:33",
@@ -1217,22 +1217,6 @@
       "url": "https://open.spotify.com/track/7iqS4pS1eVQbsJGbJKVwQb"
     },
     {
-      "added_at": "2024-07-12 12:27:26",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 201111,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88"
-    },
-    {
       "added_at": "2023-09-29 10:53:41",
       "album": {
         "name": "The Earth is a Very Small Dot",
@@ -1247,6 +1231,22 @@
       "duration_ms": 236100,
       "name": "The Earth is a Very Small Dot",
       "url": "https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh"
+    },
+    {
+      "added_at": "2024-07-12 12:27:26",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 201111,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88"
     },
     {
       "added_at": "2023-01-20 16:59:50",
@@ -1425,20 +1425,20 @@
       "url": "https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz"
     },
     {
-      "added_at": "2023-10-05 19:47:49",
+      "added_at": "2024-03-28 22:30:08",
       "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/66xoAQqY1lhuXWsgxrOLmG"
+        "name": "Never Trust a Happy Song",
+        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
       "artists": [
         {
-          "name": "Unflirt",
-          "url": "https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV"
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
         }
       ],
-      "duration_ms": 262754,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/1JTw3fjyjsiLXwMorP0peQ"
+      "duration_ms": 210426,
+      "name": "Naked Kids",
+      "url": "https://open.spotify.com/track/3awm1x3kGmYIVrkNDBFP6U"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1457,36 +1457,20 @@
       "url": "https://open.spotify.com/track/3mh7FfDdLfOIbEFThIvvCG"
     },
     {
-      "added_at": "2024-03-28 22:30:08",
+      "added_at": "2023-10-05 19:47:49",
       "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/66xoAQqY1lhuXWsgxrOLmG"
       },
       "artists": [
         {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+          "name": "Unflirt",
+          "url": "https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV"
         }
       ],
-      "duration_ms": 210426,
-      "name": "Naked Kids",
-      "url": "https://open.spotify.com/track/3awm1x3kGmYIVrkNDBFP6U"
-    },
-    {
-      "added_at": "2023-03-08 12:04:06",
-      "album": {
-        "name": "strongboi",
-        "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
-      },
-      "artists": [
-        {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
-        }
-      ],
-      "duration_ms": 243206,
-      "name": "flame",
-      "url": "https://open.spotify.com/track/02jhBMmYb4HHlrDP4kPp6f"
+      "duration_ms": 262754,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1JTw3fjyjsiLXwMorP0peQ"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1503,6 +1487,22 @@
       "duration_ms": 174500,
       "name": "supposed to",
       "url": "https://open.spotify.com/track/1Ya1He3XsuZVzq8tl3tdE9"
+    },
+    {
+      "added_at": "2023-03-08 12:04:06",
+      "album": {
+        "name": "strongboi",
+        "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
+      },
+      "artists": [
+        {
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+        }
+      ],
+      "duration_ms": 243206,
+      "name": "flame",
+      "url": "https://open.spotify.com/track/02jhBMmYb4HHlrDP4kPp6f"
     },
     {
       "added_at": "2024-08-08 19:46:47",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Arcadia",
-        "url": "https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "Arcadia",
-      "url": "https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Hannah Montana",
         "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 145324,
       "name": "Hannah Montana",
       "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "Arcadia",
+      "url": "https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Alvaro Diaz y NATHY PELUSO en portada.",
-  "num_followers": 256063,
+  "num_followers": 256074,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -71,18 +71,18 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "KINTSUGI",
-        "url": "https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ"
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
       "artists": [
         {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 237908,
-      "name": "KINTSUGI",
-      "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
+      "duration_ms": 160191,
+      "name": "telepat\u00eda",
+      "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -107,18 +107,18 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 160191,
-      "name": "telepat\u00eda",
-      "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
+      "duration_ms": 237908,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "LUNAR",
-        "url": "https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 186787,
-      "name": "LUNAR",
-      "url": "https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
         "name": "Ukiyo",
         "url": "https://open.spotify.com/album/0eX8CWb62DpZUdDllWU1iP"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 149667,
       "name": "Ukiyo",
       "url": "https://open.spotify.com/track/2kapGymnbrzm8ZwWnQRYIm"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
+        "name": "LUNAR",
+        "url": "https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 186787,
+      "name": "LUNAR",
+      "url": "https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1175,30 +1175,6 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Dime Si Tu",
-        "url": "https://open.spotify.com/album/2LkuDGwEPEfOlrU5cmBt43"
-      },
-      "artists": [
-        {
-          "name": "Jey F",
-          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
-        },
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        },
-        {
-          "name": "Fullbrand Music",
-          "url": "https://open.spotify.com/artist/3MIE1H4JzyKU3QHvpAHbfe"
-        }
-      ],
-      "duration_ms": 196823,
-      "name": "Dime Si Tu",
-      "url": "https://open.spotify.com/track/2hiEWGnFqLCJoZvXU9Ozmr"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV"
       },
@@ -1231,6 +1207,30 @@
       "duration_ms": 218297,
       "name": "Pobre Diablo",
       "url": "https://open.spotify.com/track/6Vu7of1zMd1LPoR0ZJuxTY"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
+        "name": "Dime Si Tu",
+        "url": "https://open.spotify.com/album/2LkuDGwEPEfOlrU5cmBt43"
+      },
+      "artists": [
+        {
+          "name": "Jey F",
+          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Fullbrand Music",
+          "url": "https://open.spotify.com/artist/3MIE1H4JzyKU3QHvpAHbfe"
+        }
+      ],
+      "duration_ms": 196823,
+      "name": "Dime Si Tu",
+      "url": "https://open.spotify.com/track/2hiEWGnFqLCJoZvXU9Ozmr"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Dicen Que Eres Arte",
-        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 164736,
-      "name": "Dicen Que Eres Arte",
-      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
         "name": "Makin Money",
         "url": "https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 188737,
       "name": "Makin Money",
       "url": "https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
+        "name": "Dicen Que Eres Arte",
+        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 164736,
+      "name": "Dicen Que Eres Arte",
+      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
+        "name": "1UNAMORSUPREMO",
+        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        }
+      ],
+      "duration_ms": 240680,
+      "name": "SUFICIENTEPUNTOWAV",
+      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
         "name": "Baby Love",
         "url": "https://open.spotify.com/album/00nK5uQf0AtmjIvMY44wmV"
       },
@@ -1563,42 +1579,6 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "1UNAMORSUPREMO",
-        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
-      },
-      "artists": [
-        {
-          "name": "YOSHI",
-          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
-        }
-      ],
-      "duration_ms": 240680,
-      "name": "SUFICIENTEPUNTOWAV",
-      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
-        "name": "Trufas",
-        "url": "https://open.spotify.com/album/56hMOKXiLHdMflideKYIRq"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-        },
-        {
-          "name": "Shroom",
-          "url": "https://open.spotify.com/artist/4AebNgJr677DWj5kaqLReG"
-        }
-      ],
-      "duration_ms": 149999,
-      "name": "Tinta de Tu Piel",
-      "url": "https://open.spotify.com/track/3D0WYRsBpOZG4ScrthWnY1"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
         "name": "Helado De Vainilla",
         "url": "https://open.spotify.com/album/2rvrhgSwAx5WMZAqeNoO5R"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 171063,
       "name": "Ketamina",
       "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
+        "name": "Trufas",
+        "url": "https://open.spotify.com/album/56hMOKXiLHdMflideKYIRq"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        },
+        {
+          "name": "Shroom",
+          "url": "https://open.spotify.com/artist/4AebNgJr677DWj5kaqLReG"
+        }
+      ],
+      "duration_ms": 149999,
+      "name": "Tinta de Tu Piel",
+      "url": "https://open.spotify.com/track/3D0WYRsBpOZG4ScrthWnY1"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
+        "name": "Le hac\u00e9s falta vos",
+        "url": "https://open.spotify.com/album/6xhP2AuFbSI8nW5TqiHWVp"
+      },
+      "artists": [
+        {
+          "name": "BROKIX",
+          "url": "https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50"
+        }
+      ],
+      "duration_ms": 167668,
+      "name": "Le hac\u00e9s falta vos",
+      "url": "https://open.spotify.com/track/6stKcfnzJmDjijqxdXU2dz"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
         "name": "CALIFORNIA",
         "url": "https://open.spotify.com/album/7g0T3PwMkEhyyvJVqEnRzW"
       },
@@ -1803,22 +1819,6 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Le hac\u00e9s falta vos",
-        "url": "https://open.spotify.com/album/6xhP2AuFbSI8nW5TqiHWVp"
-      },
-      "artists": [
-        {
-          "name": "BROKIX",
-          "url": "https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50"
-        }
-      ],
-      "duration_ms": 167668,
-      "name": "Le hac\u00e9s falta vos",
-      "url": "https://open.spotify.com/track/6stKcfnzJmDjijqxdXU2dz"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
         "name": "SIN PERDER, NUNK CUENTA",
         "url": "https://open.spotify.com/album/50LHRqNoAFdauzswqXWajX"
       },
@@ -1831,6 +1831,22 @@
       "duration_ms": 131200,
       "name": "SIN PERDER, NUNK CUENTA",
       "url": "https://open.spotify.com/track/6UsEb9zlBkbU6ZMMFkgkdE"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
+        "name": "Corazones en Alm\u00edbar",
+        "url": "https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        }
+      ],
+      "duration_ms": 228803,
+      "name": "Masaryk",
+      "url": "https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1851,22 +1867,6 @@
       "duration_ms": 192013,
       "name": "Creo",
       "url": "https://open.spotify.com/track/6vFO2NwMrqQXAQyEbGiTq8"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
-        "name": "Corazones en Alm\u00edbar",
-        "url": "https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-        }
-      ],
-      "duration_ms": 228803,
-      "name": "Masaryk",
-      "url": "https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE"
     },
     {
       "added_at": "2024-11-08 06:00:00",

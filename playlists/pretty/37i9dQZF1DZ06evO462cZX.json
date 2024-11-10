@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 42128,
+  "num_followers": 42140,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZywDAAAAAABVUwJmI2HS5S3h0RiIUFoO",
+  "snapshot_id": "Zy1UgAAAAACCIjF3DPrm8mzjIFaMUckT",
   "tracks": [
     {
       "added_at": null,
@@ -527,30 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Your Love",
-        "url": "https://open.spotify.com/album/7MX0snymC4VDz5hpGojcIs"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Catello",
-          "url": "https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE"
-        }
-      ],
-      "duration_ms": 154513,
-      "name": "Without Your Love",
-      "url": "https://open.spotify.com/track/3cFdgPFBfGZuPisJhyN5az"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PINK",
         "url": "https://open.spotify.com/album/07ZVt89JXh0m1h8pCGYQgo"
       },
@@ -571,6 +547,30 @@
       "duration_ms": 221428,
       "name": "PINK",
       "url": "https://open.spotify.com/track/5JIywJ2IgYvFVNk8cU3CyA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Without Your Love",
+        "url": "https://open.spotify.com/album/7MX0snymC4VDz5hpGojcIs"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Catello",
+          "url": "https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE"
+        }
+      ],
+      "duration_ms": 154513,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/3cFdgPFBfGZuPisJhyN5az"
     },
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando",
-        "url": "https://open.spotify.com/album/1Jgf8NRmChspT9LHmySR9D"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Los Dutis",
-          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
-        }
-      ],
-      "duration_ms": 170189,
-      "name": "Cuando",
-      "url": "https://open.spotify.com/track/2cXNJ4MCHKqbN3Q7YAUscL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Camaron Pelao",
         "url": "https://open.spotify.com/album/23sx3VV6hMtdvRvkMx52uF"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 210349,
       "name": "Camaron Pelao",
       "url": "https://open.spotify.com/track/4QC5C5FOQtEcuw0ZDrgTxJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando",
+        "url": "https://open.spotify.com/album/1Jgf8NRmChspT9LHmySR9D"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Los Dutis",
+          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
+        }
+      ],
+      "duration_ms": 170189,
+      "name": "Cuando",
+      "url": "https://open.spotify.com/track/2cXNJ4MCHKqbN3Q7YAUscL"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn Out",
-        "url": "https://open.spotify.com/album/5xRfp5sHno98WcDvqYNp1x"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 172115,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/0eESYf7QdT53PPSj67d87u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When The Funk Drops",
         "url": "https://open.spotify.com/album/6SQPmAwz5G7gXNBB0TXTLl"
       },
@@ -751,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Like This F\u2019n Song",
-        "url": "https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem"
+        "name": "Burn Out",
+        "url": "https://open.spotify.com/album/5xRfp5sHno98WcDvqYNp1x"
       },
       "artists": [
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Krunk!",
-          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
         }
       ],
-      "duration_ms": 193821,
-      "name": "I Like This F\u2019n Song",
-      "url": "https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY"
+      "duration_ms": 172115,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/0eESYf7QdT53PPSj67d87u"
     },
     {
       "added_at": null,
@@ -791,6 +771,26 @@
       "duration_ms": 229411,
       "name": "Dime",
       "url": "https://open.spotify.com/track/3G2GGr45h1eceLGyUAoBNc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Like This F\u2019n Song",
+        "url": "https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Krunk!",
+          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
+        }
+      ],
+      "duration_ms": 193821,
+      "name": "I Like This F\u2019n Song",
+      "url": "https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY"
     },
     {
       "added_at": null,
@@ -972,13 +972,13 @@
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         },
         {
-          "name": "Young Eiby",
-          "url": "https://open.spotify.com/artist/7pkbJcC4tdrBehOaqGMQbx"
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
         }
       ],
-      "duration_ms": 220800,
-      "name": "Que Es Eso (feat. Young Eiby)",
-      "url": "https://open.spotify.com/track/6bqEoOPcNwwsvzT86sC0e3"
+      "duration_ms": 172800,
+      "name": "Se Vuelve Loca",
+      "url": "https://open.spotify.com/track/3bh4Tf5754uY0UeqiACbvP"
     },
     {
       "added_at": null,
@@ -1060,13 +1060,13 @@
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         },
         {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+          "name": "Young Eiby",
+          "url": "https://open.spotify.com/artist/7pkbJcC4tdrBehOaqGMQbx"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Se Vuelve Loca",
-      "url": "https://open.spotify.com/track/3bh4Tf5754uY0UeqiACbvP"
+      "duration_ms": 220800,
+      "name": "Que Es Eso (feat. Young Eiby)",
+      "url": "https://open.spotify.com/track/6bqEoOPcNwwsvzT86sC0e3"
     },
     {
       "added_at": null,

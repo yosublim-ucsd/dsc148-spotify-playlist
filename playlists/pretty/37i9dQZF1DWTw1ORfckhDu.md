@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa ibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,798 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,821 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 46 | [Duunarit \(feat\. Aleksanteri Hakaniemi\)](https://open.spotify.com/track/4rMlws9mxGg0qZm6Jogryy) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [Aleksanteri Hakaniemi](https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi) | [Duunarit \(feat\. Aleksanteri Hakaniemi\)](https://open.spotify.com/album/3BNvUel2GPYflNyYzZVO03) | 2:45 |
 | 47 | [LE LE LE](https://open.spotify.com/track/0M7WQozVFnh1MncFRPcZdo) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [LE LE LE](https://open.spotify.com/album/4pw34ehZjeYt0fzHSLWtfV) | 3:19 |
 | 48 | [Edes takas](https://open.spotify.com/track/6NuWVmm8npIuW5lVmPYDo7) | [El Migu](https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq) | [Edes takas](https://open.spotify.com/album/1TKEdy66AsWe3xb8VjRPUK) | 3:01 |
-| 49 | [Päättäriltä päättärille 2](https://open.spotify.com/track/1CP7IsD2ZdeO1Y0sxVCM3q) | [Sairas T](https://open.spotify.com/artist/55zt05Vx5iZkdxCA9wrYDK), [Likanen Etelä](https://open.spotify.com/artist/1QZB4c84BdcLM9MGD4EjBj), [Loasteeze](https://open.spotify.com/artist/5cWTEtVgv1VNBS9mBdQHOo), [Mikidi & Gaiaf](https://open.spotify.com/artist/16uKjzyikKfkjTjMtRgECE), [Painajainen](https://open.spotify.com/artist/2XIBChvoFldVMQhs8WwJV2) | [Päättäriltä päättärille 2](https://open.spotify.com/album/5UGTs77dJdNJmW6Ne4mAkk) | 3:15 |
+| 49 | [Päättäriltä päättärille 2](https://open.spotify.com/track/1CP7IsD2ZdeO1Y0sxVCM3q) | [Sairas T](https://open.spotify.com/artist/55zt05Vx5iZkdxCA9wrYDK), [Likanen Etelä](https://open.spotify.com/artist/1QZB4c84BdcLM9MGD4EjBj), [Mikidi & Gaiaf](https://open.spotify.com/artist/16uKjzyikKfkjTjMtRgECE), [Painajainen](https://open.spotify.com/artist/2XIBChvoFldVMQhs8WwJV2), [Loasteeze](https://open.spotify.com/artist/5cWTEtVgv1VNBS9mBdQHOo) | [Päättäriltä päättärille 2](https://open.spotify.com/album/5UGTs77dJdNJmW6Ne4mAkk) | 3:15 |
 | 50 | [Huuto](https://open.spotify.com/track/5jWdC7hsYj7EMk83U3SXGT) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Kuivaa kyyneleet](https://open.spotify.com/album/4zyg8ORJNwWejgZgu9gFoP) | 2:57 |
 
 Snapshot ID: `Zy04nAAAAADpI1nbTXn59D731s7VvCAG`

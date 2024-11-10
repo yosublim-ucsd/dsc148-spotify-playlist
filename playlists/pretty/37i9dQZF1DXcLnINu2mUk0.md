@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto:  Murta
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,172 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,181 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 71 | [Agradeço](https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [ORDEM & PROGRESSO](https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1) | 3:29 |
 | 72 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 |
 | 73 | [Lugar Favorito](https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Lugar Favorito](https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU) | 3:17 |
-| 74 | [Versos & Poesias \#6: Tempestade](https://open.spotify.com/track/5Khii1zkAIH9VwMOc4tfHW) | [Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [Tuty WAV3S](https://open.spotify.com/artist/6qYD3IE3CiWChPZSBWdtrh), [Aycire](https://open.spotify.com/artist/7orxrJSoOnNrb96ZN1T3cg), [Aurio Roberto](https://open.spotify.com/artist/1uy0s3JCAbiQs6Lriyac9M), [Ciri](https://open.spotify.com/artist/0q6rGrv1f7h8BkZgV4IXY8), [Mief](https://open.spotify.com/artist/2b1uu2tcXJL77DgsRCHBn2), [Damiana](https://open.spotify.com/artist/24S9KFl6KKWPPBH3GRdYc2), [Johnny B.O.B](https://open.spotify.com/artist/2eSh5msnLJbgXewXSm9XvJ), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ), [Ricky Ndombashi](https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK) | [Versos & Poesias \#6: Tempestade](https://open.spotify.com/album/0td3CflgP5l4MWeQqNYGvv) | 7:52 |
-| 75 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 |
+| 74 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 |
+| 75 | [Vidrado](https://open.spotify.com/track/6UZwtFwUbDJU9dY5D4b8zZ) | [Harold](https://open.spotify.com/artist/69IjpIjVQJljQ8AsCJMBi3) | [Vidrado](https://open.spotify.com/album/6V3Mh5PvpkUVr77QXysPTR) | 2:45 |
 
 Snapshot ID: `Zy1UgAAAAABZK4O/rfyhDgXVnSBnbZ9v`

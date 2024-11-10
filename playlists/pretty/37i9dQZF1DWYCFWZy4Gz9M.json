@@ -1,6 +1,6 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 62717,
+  "num_followers": 62738,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-10-14 07:27:16",
       "album": {
+        "name": "Altaf Gnawa Group: Gnawa - Music From Morocco",
+        "url": "https://open.spotify.com/album/5gHBwsQA4pekfm5k6VmpB7"
+      },
+      "artists": [
+        {
+          "name": "Altaf Gnawa Group",
+          "url": "https://open.spotify.com/artist/25cHSgsQbrP9cJucrj2wbn"
+        }
+      ],
+      "duration_ms": 467800,
+      "name": "Sentir solo",
+      "url": "https://open.spotify.com/track/3RZWkRMU2BsIiTZ9U5ugFL"
+    },
+    {
+      "added_at": "2024-10-14 07:27:16",
+      "album": {
         "name": "Lila",
         "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 550106,
       "name": "Marhba / Gnawa Sidi Mimoun",
       "url": "https://open.spotify.com/track/75eTOivMFcLFmyIKtQrN98"
-    },
-    {
-      "added_at": "2024-10-14 07:27:16",
-      "album": {
-        "name": "Altaf Gnawa Group: Gnawa - Music From Morocco",
-        "url": "https://open.spotify.com/album/5gHBwsQA4pekfm5k6VmpB7"
-      },
-      "artists": [
-        {
-          "name": "Altaf Gnawa Group",
-          "url": "https://open.spotify.com/artist/25cHSgsQbrP9cJucrj2wbn"
-        }
-      ],
-      "duration_ms": 467800,
-      "name": "Sentir solo",
-      "url": "https://open.spotify.com/track/3RZWkRMU2BsIiTZ9U5ugFL"
     },
     {
       "added_at": "2024-10-14 07:27:16",

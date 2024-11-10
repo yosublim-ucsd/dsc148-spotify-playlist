@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-1,391 songs - 3 day 3 hr 41 min
+1,391 songs - 3 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -692,7 +692,7 @@
 | [Let Me Go](https://open.spotify.com/track/0YZjrWzJMCWl310yhzYMYD) | [Daniel Wanrooy](https://open.spotify.com/artist/2eWC3Ckg8BA2MDV2NoHBWd), [Rafael Osmo](https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5) | [Let Me Go](https://open.spotify.com/album/4gttr7xXh34B9q4Q3RFNh2) | 2:57 | 2024-07-25 | 2024-08-02 |
 | [Let Me Go](https://open.spotify.com/track/1HacAMT0gWQWqytCIHsCEZ) | [White Whale](https://open.spotify.com/artist/7iJ8iFAOikb11EdAAP4H5B) | [Let Me Go](https://open.spotify.com/album/1jlXyBiS1igy6FKg6GCdci) | 3:05 | 2024-11-04 | 2024-11-09 |
 | [Let Me Show You](https://open.spotify.com/track/2a7EPJ2PxMr2S4gRmKFmCR) | [Camisra](https://open.spotify.com/artist/1aHPNBPSjYv4vHc2pU37Xf), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Let Me Show You](https://open.spotify.com/album/3roc1FTj57pjPGUPzvO8Gy) | 2:47 | 2024-08-23 | 2024-08-31 |
-| [Let The Bassline](https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Let The Bassline](https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W) | 4:09 | 2024-11-08 |  |
+| [Let The Bassline](https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Let The Bassline](https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W) | 3:03 | 2024-11-08 |  |
 | [Let You Go](https://open.spotify.com/track/4LJN5ZRLNbU9R6MINd947R) | [DJ ALEX ALIDAD](https://open.spotify.com/artist/1auKza5PpAvjKT29nwVQYO) | [Let You Go](https://open.spotify.com/album/7FoI7XleumN6XGrSNPdK1s) | 2:56 | 2024-09-12 | 2024-09-27 |
 | [Let Your Spirit Fly](https://open.spotify.com/track/38GTyO4wWpc3EO5O7h48lT) | [Sunlounger](https://open.spotify.com/artist/39xJyKl2iYCAQywsUk4aWg), [Ambedo](https://open.spotify.com/artist/58TFIrb4R2yFMkiGv5b5HV), [Ambedoverse](https://open.spotify.com/artist/6kROPcICNOAoOgkXcvoCx7) | [Let Your Spirit Fly](https://open.spotify.com/album/1q4XRTSbys5MfvKpe5Pm78) | 3:46 | 2024-10-21 | 2024-10-26 |
 | [Let's Go](https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Let's Go](https://open.spotify.com/album/44KFMrvFfUfkcBeKjJLjN6) | 2:39 | 2024-10-04 | 2024-10-12 |

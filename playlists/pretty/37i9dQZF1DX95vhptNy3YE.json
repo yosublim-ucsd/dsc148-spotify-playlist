@@ -1,6 +1,6 @@
 {
   "description": "Maru2D e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 374825,
+  "num_followers": 374827,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-11-07 23:11:11",
       "album": {
+        "name": "Instinto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1OkPtneB7ahh3BTiLG6dle"
+      },
+      "artists": [
+        {
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
+        }
+      ],
+      "duration_ms": 213559,
+      "name": "Instinto - Ao Vivo",
+      "url": "https://open.spotify.com/track/7izihBeq9rmGYnierSTjv8"
+    },
+    {
+      "added_at": "2024-11-07 23:11:11",
+      "album": {
         "name": "Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa",
         "url": "https://open.spotify.com/album/6WlReF2IaxJ7SKt4y1YlFm"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 150093,
       "name": "Replay - Spotify Singles",
       "url": "https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z"
-    },
-    {
-      "added_at": "2024-11-07 23:11:11",
-      "album": {
-        "name": "Instinto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1OkPtneB7ahh3BTiLG6dle"
-      },
-      "artists": [
-        {
-          "name": "Gamadinho",
-          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
-        }
-      ],
-      "duration_ms": 213559,
-      "name": "Instinto - Ao Vivo",
-      "url": "https://open.spotify.com/track/7izihBeq9rmGYnierSTjv8"
     },
     {
       "added_at": "2024-11-07 23:11:11",
@@ -1143,54 +1143,6 @@
     {
       "added_at": "2024-11-07 23:11:11",
       "album": {
-        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
-        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 324923,
-      "name": "HINO DOS D",
-      "url": "https://open.spotify.com/track/1kiZwdWT6Laffn4y7eRJXy"
-    },
-    {
-      "added_at": "2024-11-07 23:11:11",
-      "album": {
-        "name": "Sorte (Ao Vivo / EP02)",
-        "url": "https://open.spotify.com/album/1pYf80MglBsbsOgcy3I4dU"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 182694,
-      "name": "Febre - Ao Vivo",
-      "url": "https://open.spotify.com/track/1UP0EZEC7xepgQHdsishXG"
-    },
-    {
-      "added_at": "2024-11-07 23:11:11",
-      "album": {
         "name": "Quebradas 2",
         "url": "https://open.spotify.com/album/59Vwfgt1SoNC6G7CRAfSlB"
       },
@@ -1231,6 +1183,26 @@
     {
       "added_at": "2024-11-07 23:11:11",
       "album": {
+        "name": "Sorte (Ao Vivo / EP02)",
+        "url": "https://open.spotify.com/album/1pYf80MglBsbsOgcy3I4dU"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 182694,
+      "name": "Febre - Ao Vivo",
+      "url": "https://open.spotify.com/track/1UP0EZEC7xepgQHdsishXG"
+    },
+    {
+      "added_at": "2024-11-07 23:11:11",
+      "album": {
         "name": "2022",
         "url": "https://open.spotify.com/album/7ysk3Rg7XyoRGqhiUmuxy1"
       },
@@ -1243,6 +1215,34 @@
       "duration_ms": 218687,
       "name": "2022",
       "url": "https://open.spotify.com/track/4tjE5KCgw98VypSqtVCh3W"
+    },
+    {
+      "added_at": "2024-11-07 23:11:11",
+      "album": {
+        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
+        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 324923,
+      "name": "HINO DOS D",
+      "url": "https://open.spotify.com/track/1kiZwdWT6Laffn4y7eRJXy"
     },
     {
       "added_at": "2024-11-07 23:11:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=OwdlPcQqQ8qmtGr7xTH\_\-Q>Ebuka Songs</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,817 likes - 74 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,830 likes - 74 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 12 | [Look In My Eyes](https://open.spotify.com/track/2AGV0QN8xVB85HT3aqyTrx) | [Yingi Mao](https://open.spotify.com/artist/7KEhvVXDNzDx5LU6e043lu) | [Look In My Eyes](https://open.spotify.com/album/3vdFgPx9x0ua8CWdrWFFGG) | 3:01 |
 | 13 | [Glory \(Live\)](https://open.spotify.com/track/0iymH5SFw2bAkOaBBoLFB2) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [Glory \(Live\)](https://open.spotify.com/album/0tFBkbECWVx5PF18ZNAral) | 5:37 |
 | 14 | [AYO](https://open.spotify.com/track/5eEQZ65yYoI0rUo5rGhyac) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR) | [AYO](https://open.spotify.com/album/1199pVmktIpFtvTGHDzK5H) | 3:43 |
-| 15 | [Zwi Do Luga](https://open.spotify.com/track/6nCXu41LlH6tjvpCFvldyq) | [Mulaudzi Tee Jay](https://open.spotify.com/artist/1mkwME0SzmeqoIaKLRnkSy), [J\-Smash](https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD), [Dindie Cess](https://open.spotify.com/artist/0Rj5fvasKuiB33gEsJCBIm) | [Zwi Do Luga](https://open.spotify.com/album/72kRwx5i00gdYG4Mq33YbL) | 4:45 |
+| 15 | [Zwi Do Luga](https://open.spotify.com/track/6nCXu41LlH6tjvpCFvldyq) | [Mulaudzi Tee Jay](https://open.spotify.com/artist/1mkwME0SzmeqoIaKLRnkSy), [J\-Smash](https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD), [Dindie Cess](https://open.spotify.com/artist/0Rj5fvasKuiB33gEsJCBIm) | [Zwi Do Luga](https://open.spotify.com/album/72kRwx5i00gdYG4Mq33YbL) | 4:15 |
 | 16 | [For My Sake](https://open.spotify.com/track/7zMCGarwmP4zJcsBXQPkSE) | [Mizzle](https://open.spotify.com/artist/1TUfUuxqtyevGYo8jWAPkd) | [For My Sake](https://open.spotify.com/album/6eKAJ4BHkyh6889fVq0ofV) | 2:46 |
 | 17 | [Pray For Me](https://open.spotify.com/track/4RFhfUG89WKoIW2afItn8X) | [Baba Tundey](https://open.spotify.com/artist/16hyxoxcvlNxKIkpQaaCnC), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Pray For Me](https://open.spotify.com/album/58OfIuW0mOaoJYTEyYpObp) | 3:12 |
-| 18 | [Testimony \- Live](https://open.spotify.com/track/5zNZsfw19X9A4dXeqBXyHl) | [Dr TJ](https://open.spotify.com/artist/1QtVmlYLcmOnMOQFZX0T7A), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Testimony \(Live\)](https://open.spotify.com/album/563k12oxVh9CsYNOgjG6X2) | 7:10 |
+| 18 | [Testimony](https://open.spotify.com/track/5zNZsfw19X9A4dXeqBXyHl) | [Dr TJ](https://open.spotify.com/artist/1QtVmlYLcmOnMOQFZX0T7A), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Testimony](https://open.spotify.com/album/563k12oxVh9CsYNOgjG6X2) | 3:44 |
 | 19 | [PERFECT WILL](https://open.spotify.com/track/3cWnQB2CbpqF04K2kg5YuI) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye), [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv) | [PERFECT WILL](https://open.spotify.com/album/6lB2NzWxMVm8GegX8wUcvZ) | 2:52 |
 | 20 | [Jesus Oyoyooh \(You are worthy\)](https://open.spotify.com/track/7bpSRQfKXx2hLP3622Ad3s) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs) | [Jesus Oyoyooh \(You are worthy\)](https://open.spotify.com/album/7qswxW7semeVCfFmmy9Y4c) | 12:09 |
 | 21 | [Hark The Herald Angels Sing \- Afro Christmas](https://open.spotify.com/track/0ylVSiY1eljGUO7IchWXQT) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Hark The Herald Angels Sing \(Afro Christmas\)](https://open.spotify.com/album/6z5F5hIqHR9bk8Prq8HxjI) | 2:11 |

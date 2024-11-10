@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Jungeli, Dadju au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,400 likes - 76 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,415 likes - 76 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 11 | [Over You \(feat\. Justin Jesso\)](https://open.spotify.com/track/69GEK9C8nKwiGLMv2NbpiG) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Over You \(feat\. Justin Jesso\)](https://open.spotify.com/album/212lVtNgONE9gXOtq8V6g5) | 2:53 |
 | 12 | [Only You](https://open.spotify.com/track/73tNHdm3oeKcJrh0Xsrii1) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Only You](https://open.spotify.com/album/60r5RIcDErYpf1LrrpbjZT) | 3:01 |
 | 13 | [Fall In Love \(feat\. Odeal\)](https://open.spotify.com/track/5JV1b92v3C6Css76envcRx) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [WHOSDAT](https://open.spotify.com/album/7rDcX06ibFQn0KFkID4cLv) | 3:01 |
-| 14 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 |
+| 14 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX), [David Parry](https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD), [Dekel Adin](https://open.spotify.com/artist/27xyFvRoUUYKOPiY47BbZ9), [Ziv Yamin](https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 |
 | 15 | [Les démons de minuit](https://open.spotify.com/track/0FJxWDiOrOuSUwCwhVS7wT) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [IMPOSTEUR](https://open.spotify.com/album/530vPuQlxS2kq2jNJIx59g) | 3:28 |
 | 16 | [Loving You](https://open.spotify.com/track/27nj0mfyXhW6OUru2vARIi) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Loving You / Don't Let Me Go](https://open.spotify.com/album/5TLHp7Q9XE0hYTo6qF4g3H) | 2:32 |
 | 17 | [Dans ma bulle](https://open.spotify.com/track/5Duyl1dabYWFFMfObBFBPH) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Dans ma bulle](https://open.spotify.com/album/5579x9JAF1CCKtb4sswN9A) | 2:32 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 28 | [Tout dit](https://open.spotify.com/track/5rgGCPU9u78iGV0yIdextZ) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Tout dit](https://open.spotify.com/album/5D7Egi9aJlMcIBbwNAga1e) | 2:31 |
 | 29 | [Hold On / Lean on Me](https://open.spotify.com/track/5qRvvWK2QX65Gi0WVq19bJ) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Hold On / Lean on Me](https://open.spotify.com/album/6fl5MkpMQqUXMHXKNLL40B) | 4:06 |
 | 30 | [PUTAIN D'HIVER](https://open.spotify.com/track/7ecb0OkBTggYmYAofrfdNJ) | [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz) | [+99XP](https://open.spotify.com/album/29t2X8bZK7I6MbpXV6BDX9) | 3:01 |
-| 31 | [Fine Wine](https://open.spotify.com/track/6K52pf928JK0WkxUn5Zzy2) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Fine Wine In Italy](https://open.spotify.com/album/5lV6TjkSpiIrVzIUkovkoU) | 2:58 |
+| 31 | [Fine Wine](https://open.spotify.com/track/6K52pf928JK0WkxUn5Zzy2) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Fine Wine In Italy](https://open.spotify.com/album/5lV6TjkSpiIrVzIUkovkoU) | 2:56 |
 | 32 | [CAVALE! CAVALE!](https://open.spotify.com/track/0ZQLRkRyn3300WyapdPoWT) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [CAVALE! CAVALE!](https://open.spotify.com/album/68AEssE8c18RfEo7e8XTMZ) | 2:29 |
 | 33 | [Tantalizing](https://open.spotify.com/track/799db91cR00On6N158VLHS) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Soaky Siren](https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC) | [Tantalizing](https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C) | 2:26 |
 | 34 | [2DK](https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [2DK](https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv) | 3:16 |

@@ -2308,7 +2308,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 163404,
       "name": "AROMA EI",
       "url": "https://open.spotify.com/track/3Qg3SxpBpWNMMeSNaadWu2"
@@ -3884,7 +3884,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 127500,
       "name": "BIG BEN - From \"Buzz House\" The Movie",
       "url": "https://open.spotify.com/track/5ILeSLokrX2kWZH4NtAe4c"
@@ -4114,7 +4114,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -6452,7 +6452,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 198837,
       "name": "Cine N-a Gresit Vreodata",
       "url": "https://open.spotify.com/track/7Lt9GmQADKBkE5ch07n8fY"
@@ -6980,7 +6980,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 201230,
       "name": "Combin Rom",
       "url": "https://open.spotify.com/track/2w1L0bFNsy6fDEX7KiQ62S"
@@ -10044,7 +10044,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 166760,
       "name": "El chapo",
       "url": "https://open.spotify.com/track/08J3tcESmdRb8IjT12FG50"
@@ -11424,6 +11424,24 @@
       "duration_ms": 214620,
       "name": "Film out",
       "url": "https://open.spotify.com/track/3UHPGOkUcE4hE7sqBF4Snt"
+    },
+    {
+      "album": {
+        "name": "Fine Wine In Italy",
+        "url": "https://open.spotify.com/album/5lV6TjkSpiIrVzIUkovkoU"
+      },
+      "artists": [
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176803,
+      "name": "Fine Wine",
+      "url": "https://open.spotify.com/track/6K52pf928JK0WkxUn5Zzy2"
     },
     {
       "album": {
@@ -12876,7 +12894,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 188355,
       "name": "Gipsy Style",
       "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
@@ -17370,7 +17388,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 145617,
       "name": "La tine \u0219i la bani - From \"Romina VTM\" The Movie",
       "url": "https://open.spotify.com/track/2BsJFgVnk4FYTyzyovwQ5A"
@@ -24073,6 +24091,24 @@
     },
     {
       "album": {
+        "name": "paradyse",
+        "url": "https://open.spotify.com/album/1oc22ihfz3wp8AR4GfCV1e"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211063,
+      "name": "paradyse",
+      "url": "https://open.spotify.com/track/0ub7PGAoZAeRiinkrRnlKh"
+    },
+    {
+      "album": {
         "name": "PARANOIA",
         "url": "https://open.spotify.com/album/1RPJNNRo1WUciegpWfioAc"
       },
@@ -27652,7 +27688,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
@@ -36232,7 +36268,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 33244,
+  "num_followers": 33251,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZywDAAAAAAAIPCim2NP1lBSxCbDCuGGK",
+  "snapshot_id": "Zy1UgAAAAAA6ki1BA+18aNhf7lgC1Dig",
   "tracks": [
     {
       "added_at": null,
@@ -243,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Big Swerv",
+        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 176981,
+      "name": "Influence",
+      "url": "https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JUST RE'D UP 3",
         "url": "https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69"
       },
@@ -267,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv",
-        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 176981,
-      "name": "Influence",
-      "url": "https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandson",
         "url": "https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN"
       },
@@ -299,26 +299,6 @@
       "duration_ms": 163013,
       "name": "Real Oppy (feat. G Herbo)",
       "url": "https://open.spotify.com/track/33b88WhmUTvmavA6yAsKQp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Post Traumatic",
-        "url": "https://open.spotify.com/album/3xdlCzNYHfEiXnUyWWyAVT"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 193768,
-      "name": "Swerv (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/6kkCJ8xk343HmHrdIbzw17"
     },
     {
       "added_at": null,
@@ -379,6 +359,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Post Traumatic",
+        "url": "https://open.spotify.com/album/3xdlCzNYHfEiXnUyWWyAVT"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 193768,
+      "name": "Swerv (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6kkCJ8xk343HmHrdIbzw17"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Welcome to Fazoland",
         "url": "https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl"
       },
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SLICK ALMIGHTY",
-        "url": "https://open.spotify.com/album/5Kz4xbbXLmUuRUhGzBgsSF"
-      },
-      "artists": [
-        {
-          "name": "MAF Teeski",
-          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 204750,
-      "name": "Drench Gang (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/2s8jq5UcAjIsRCo4VYvQrW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Big Swerv 2.0",
         "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 219788,
       "name": "In The Air (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/231WYOehAI5i10vZ2XTGzk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SLICK ALMIGHTY",
+        "url": "https://open.spotify.com/album/5Kz4xbbXLmUuRUhGzBgsSF"
+      },
+      "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 204750,
+      "name": "Drench Gang (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/2s8jq5UcAjIsRCo4VYvQrW"
     },
     {
       "added_at": null,
@@ -475,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "THA STREETS VOL 1",
-        "url": "https://open.spotify.com/album/7BQHGnFNwftsmtHvsAJqAr"
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
       },
       "artists": [
-        {
-          "name": "HotBlock Jmoe",
-          "url": "https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1"
-        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 126315,
-      "name": "ROTTEN",
-      "url": "https://open.spotify.com/track/7juzMlYu3mq7iSojvDz32y"
+      "duration_ms": 164770,
+      "name": "High Speed",
+      "url": "https://open.spotify.com/track/6CibhjvNeSRJRy6XGshcZ4"
     },
     {
       "added_at": null,
@@ -515,18 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTSD",
-        "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
+        "name": "THA STREETS VOL 1",
+        "url": "https://open.spotify.com/album/7BQHGnFNwftsmtHvsAJqAr"
       },
       "artists": [
+        {
+          "name": "HotBlock Jmoe",
+          "url": "https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1"
+        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 164770,
-      "name": "High Speed",
-      "url": "https://open.spotify.com/track/6CibhjvNeSRJRy6XGshcZ4"
+      "duration_ms": 126315,
+      "name": "ROTTEN",
+      "url": "https://open.spotify.com/track/7juzMlYu3mq7iSojvDz32y"
     },
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "#FreeMyHoodFuckYoHood: Bounce Out Edition",
-        "url": "https://open.spotify.com/album/2ROAftc11A5ptP94CNoPrD"
-      },
-      "artists": [
-        {
-          "name": "VonOff1700",
-          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 190511,
-      "name": "U Know Dat (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/6iKSh4ElPgyGlA5DY7ljLk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 196433,
       "name": "Party in Heaven",
       "url": "https://open.spotify.com/track/0nSwqwNqNUlNgpPJ4GDAMm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "#FreeMyHoodFuckYoHood: Bounce Out Edition",
+        "url": "https://open.spotify.com/album/2ROAftc11A5ptP94CNoPrD"
+      },
+      "artists": [
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 190511,
+      "name": "U Know Dat (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6iKSh4ElPgyGlA5DY7ljLk"
     },
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stress Relief (with G Herbo)",
+        "url": "https://open.spotify.com/album/0Ghj6XiK4n9JPvZO61NHaq"
+      },
+      "artists": [
+        {
+          "name": "Ann Marie",
+          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 160145,
+      "name": "Stress Relief (with G Herbo)",
+      "url": "https://open.spotify.com/track/7GsiWWr0TlgnehdkgAg3Yq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sick of Myself",
         "url": "https://open.spotify.com/album/1erUgFySoDRYMidU9UkK9j"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 223045,
       "name": "One in the Head",
       "url": "https://open.spotify.com/track/0M18rB4N0BGYPBXY5Rv98K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stress Relief (with G Herbo)",
-        "url": "https://open.spotify.com/album/0Ghj6XiK4n9JPvZO61NHaq"
-      },
-      "artists": [
-        {
-          "name": "Ann Marie",
-          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 160145,
-      "name": "Stress Relief (with G Herbo)",
-      "url": "https://open.spotify.com/track/7GsiWWr0TlgnehdkgAg3Yq"
     },
     {
       "added_at": null,
@@ -855,22 +855,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Swervin",
-        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
+        "name": "Vegeta",
+        "url": "https://open.spotify.com/album/4UWA4i4rWJZgNwNhJpyQNE"
       },
       "artists": [
         {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+          "name": "M Row",
+          "url": "https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG"
         },
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 200490,
-      "name": "Never Scared (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi"
+      "duration_ms": 127406,
+      "name": "Vegeta",
+      "url": "https://open.spotify.com/track/2f8ySocT3A14p39nM0UvyP"
     },
     {
       "added_at": null,
@@ -891,22 +891,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nosey",
-        "url": "https://open.spotify.com/album/7tUFeoopazwZiMSjfi8Z6i"
+        "name": "Still Swervin",
+        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
       },
       "artists": [
         {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        },
-        {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 108342,
-      "name": "Nosey",
-      "url": "https://open.spotify.com/track/7aXyHLZlfVYtkSuSeYdbMB"
+      "duration_ms": 200490,
+      "name": "Never Scared (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi"
     },
     {
       "added_at": null,
@@ -959,28 +959,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vegeta",
-        "url": "https://open.spotify.com/album/4UWA4i4rWJZgNwNhJpyQNE"
+        "name": "Nosey",
+        "url": "https://open.spotify.com/album/7tUFeoopazwZiMSjfi8Z6i"
       },
       "artists": [
         {
-          "name": "M Row",
-          "url": "https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG"
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 127406,
-      "name": "Vegeta",
-      "url": "https://open.spotify.com/track/2f8ySocT3A14p39nM0UvyP"
+      "duration_ms": 108342,
+      "name": "Nosey",
+      "url": "https://open.spotify.com/track/7aXyHLZlfVYtkSuSeYdbMB"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Still Swervin",
-        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
+        "name": "Strictly 4 My Fans",
+        "url": "https://open.spotify.com/album/5XLw4dnwqajOACwT2MN2d0"
       },
       "artists": [
         {
@@ -988,9 +988,9 @@
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 148239,
-      "name": "Wilt Chamberlin",
-      "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
+      "duration_ms": 208422,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/4QgtGpNXs1v2UFz1VuCvWB"
     },
     {
       "added_at": null,

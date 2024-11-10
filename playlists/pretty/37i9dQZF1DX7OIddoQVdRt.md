@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of the current hits and classic Gospel songs\.  Cover: <a href="spotify:artist:47opbYEKDjXnRk9uLscp11">Yolanda Adams</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,115 likes - 70 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,130 likes - 70 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 23 | [I See Good](https://open.spotify.com/track/3d1ZDOFoNd6ruROmgrgdK8) | [Maurette Brown Clark](https://open.spotify.com/artist/6SGhROQYSIxgiCvxfXfp4p) | [He Loves Me](https://open.spotify.com/album/5gV5rh660Bi8NPBc5a0766) | 6:07 |
 | 24 | [Speak Your Name](https://open.spotify.com/track/5YHQibx9nptsYC83u6kn2h) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w) | [Speak Your Name](https://open.spotify.com/album/2cidAYdXd5N47PfrCKmMTe) | 5:21 |
 | 25 | [Father Jesus Spirit \(Live\)](https://open.spotify.com/track/3HFDqVk2aoM1o7MKARrW5U) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Worship Journal \(Live\)](https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I) | 6:24 |
-| 26 | [Trusting God](https://open.spotify.com/track/1lpTChiEF7RqdcO4lrTrp0) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Monica](https://open.spotify.com/artist/6qWpPgfKJehZmeJMIeicqW) | [Worth It](https://open.spotify.com/album/3hFAj3KVpjKJU56xHV1t8P) | 4:51 |
+| 26 | [Trusting God](https://open.spotify.com/track/1lpTChiEF7RqdcO4lrTrp0) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Worth It](https://open.spotify.com/album/3hFAj3KVpjKJU56xHV1t8P) | 4:51 |
 | 27 | [By Myself](https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG) | [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [Place Called Victory \- EP](https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l) | 6:23 |
 | 28 | [Your Great Name](https://open.spotify.com/track/1K0QlBIhd5jZIRz83MbVYU) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Your Great Name](https://open.spotify.com/album/5jxhzwN4bRRbGRzOjA1qP1) | 6:19 |
 | 29 | [Mansion](https://open.spotify.com/track/2b61pV5moornb1nvpPuK9N) | [Dwan Hill](https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ), [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Mansion](https://open.spotify.com/album/5M1yhftzJLwUKtj8xp06HN) | 4:11 |

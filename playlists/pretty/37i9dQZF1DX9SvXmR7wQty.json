@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Aliocha Schneider",
-  "num_followers": 42530,
+  "num_followers": 42555,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -16,16 +16,16 @@
       },
       "artists": [
         {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        },
-        {
           "name": "Charlotte Cardin",
           "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        },
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
         }
       ],
       "duration_ms": 172000,
-      "name": "Ensemble (feat. Charlotte Cardin)",
+      "name": "Ensemble",
       "url": "https://open.spotify.com/track/49LdsRKerqExlBslaCA8qw"
     },
     {
@@ -199,22 +199,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Guardia",
-        "url": "https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa"
+        "name": "Stigmates",
+        "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
       },
       "artists": [
         {
-          "name": "Lartiste",
-          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
-        },
-        {
-          "name": "Maes",
-          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Guardia",
-      "url": "https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql"
+      "duration_ms": 293746,
+      "name": "Stigmates",
+      "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -235,18 +231,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Stigmates",
-        "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
+        "name": "Guardia",
+        "url": "https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa"
       },
       "artists": [
         {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        },
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
         }
       ],
-      "duration_ms": 293746,
-      "name": "Stigmates",
-      "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
+      "duration_ms": 198000,
+      "name": "Guardia",
+      "url": "https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Apr\u00e8s l'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/2f8C6frz9IoOaNxStASa0X"
-      },
-      "artists": [
-        {
-          "name": "Lynda",
-          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
-        }
-      ],
-      "duration_ms": 239684,
-      "name": "Apr\u00e8s l'\u00e9t\u00e9",
-      "url": "https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "LA VIE CONTINUE",
         "url": "https://open.spotify.com/album/7FfwwTL8HlR264na9TwbRI"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 217800,
       "name": "NOUVEAU OPPS",
       "url": "https://open.spotify.com/track/1qsD8ypRfaWclvlng2acJQ"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Apr\u00e8s l'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/2f8C6frz9IoOaNxStASa0X"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        }
+      ],
+      "duration_ms": 239684,
+      "name": "Apr\u00e8s l'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Vivre...",
+        "url": "https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "duration_ms": 168693,
+      "name": "Le choix",
+      "url": "https://open.spotify.com/track/4tkBNgVQCddAdgY1GDwTLn"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Coucou",
         "url": "https://open.spotify.com/album/6RWZB3cgbF3OEQvPd4K4rj"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Vivre...",
-        "url": "https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ"
-      },
-      "artists": [
-        {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        }
-      ],
-      "duration_ms": 168693,
-      "name": "Le choix",
-      "url": "https://open.spotify.com/track/4tkBNgVQCddAdgY1GDwTLn"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Petit chaton",
         "url": "https://open.spotify.com/album/4jlNqjll7wP71dCucSxZr5"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 144985,
       "name": "Petit chaton",
       "url": "https://open.spotify.com/track/74oAPWAhHJDenq4vlzP10O"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Ah les crocodiles",
-        "url": "https://open.spotify.com/album/0WxicFS99fD7dwj7ZP4SsT"
-      },
-      "artists": [
-        {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
-        }
-      ],
-      "duration_ms": 165386,
-      "name": "Ah les crocodiles",
-      "url": "https://open.spotify.com/track/0KQFtDbj2NfrQRrZMgSKwY"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -659,22 +643,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Des rires et des pleurs",
-        "url": "https://open.spotify.com/album/2TZ5OXKnN4Qdt7YpiFbluC"
+        "name": "Ah les crocodiles",
+        "url": "https://open.spotify.com/album/0WxicFS99fD7dwj7ZP4SsT"
       },
       "artists": [
         {
-          "name": "SenSey'",
-          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
         }
       ],
-      "duration_ms": 155368,
-      "name": "No stress",
-      "url": "https://open.spotify.com/track/47JDtFh6KSYKEJ7CJ0XI8z"
+      "duration_ms": 165386,
+      "name": "Ah les crocodiles",
+      "url": "https://open.spotify.com/track/0KQFtDbj2NfrQRrZMgSKwY"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -699,22 +679,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Je t'ai cherch\u00e9",
-        "url": "https://open.spotify.com/album/5T8ZZkWPCZQaNPZmrFr25O"
-      },
-      "artists": [
-        {
-          "name": "Lara Fabian",
-          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
-        }
-      ],
-      "duration_ms": 216159,
-      "name": "Je t'ai cherch\u00e9",
-      "url": "https://open.spotify.com/track/28gYJXShLPmWRq9Zn9jGma"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "La v\u00e9rit\u00e9",
         "url": "https://open.spotify.com/album/7e8nS0AlDriC8MoE3ybRj9"
       },
@@ -727,6 +691,42 @@
       "duration_ms": 140583,
       "name": "La v\u00e9rit\u00e9",
       "url": "https://open.spotify.com/track/5vbWxSxdmhXpAtgw44ykAP"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Des rires et des pleurs",
+        "url": "https://open.spotify.com/album/2TZ5OXKnN4Qdt7YpiFbluC"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 155368,
+      "name": "No stress",
+      "url": "https://open.spotify.com/track/47JDtFh6KSYKEJ7CJ0XI8z"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Je t'ai cherch\u00e9",
+        "url": "https://open.spotify.com/album/5T8ZZkWPCZQaNPZmrFr25O"
+      },
+      "artists": [
+        {
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+        }
+      ],
+      "duration_ms": 216159,
+      "name": "Je t'ai cherch\u00e9",
+      "url": "https://open.spotify.com/track/28gYJXShLPmWRq9Zn9jGma"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -751,6 +751,26 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "\u00c9videmment",
+        "url": "https://open.spotify.com/album/3qvdIPyaNhixZHKX1hVkLb"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "\u00c9videmment",
+      "url": "https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "On s'\u00e9crira",
         "url": "https://open.spotify.com/album/0cJEP5ecTZ0CObshdrHBCs"
       },
@@ -767,22 +787,6 @@
       "duration_ms": 172080,
       "name": "On s'\u00e9crira",
       "url": "https://open.spotify.com/track/2BCdppopkwUrAHw6nepqRD"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "L\u2019envers du d\u00e9cor",
-        "url": "https://open.spotify.com/album/3KuXTV8osR0iFA9NlnEubP"
-      },
-      "artists": [
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        }
-      ],
-      "duration_ms": 161142,
-      "name": "L\u2019envers du d\u00e9cor",
-      "url": "https://open.spotify.com/track/4UiQhF0AKFQvLssBUj2bJe"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -855,22 +859,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Arabian Heartbreak",
-        "url": "https://open.spotify.com/album/42lCJwK9Z7pToqV5TQTHPK"
+        "name": "CRASH C\u0152UR+",
+        "url": "https://open.spotify.com/album/4E3heRLsWhWQwDDMwoo617"
       },
       "artists": [
         {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
-        },
-        {
-          "name": "Zamdane",
-          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
         }
       ],
-      "duration_ms": 184573,
-      "name": "DOUTE (feat. Zamdane)",
-      "url": "https://open.spotify.com/track/6TTdUXf9Va6d1MZ39WKQhk"
+      "duration_ms": 179080,
+      "name": "petite musique",
+      "url": "https://open.spotify.com/track/4qVY03Ook13G2yisPjYawd"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 
 > Pronto pra pool party? Vem com a gente!
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,690 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,688 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 67 | [Nem On Nem Off](https://open.spotify.com/track/6bgZv4VkqjBIS2vawz3RsU) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Nem On Nem Off](https://open.spotify.com/album/1DUDX3Jz6dNvkYiWcgnKqS) | 2:34 |
 | 68 | [Deixa Eu Te Fazer Feliz](https://open.spotify.com/track/0z9sgzZsUAXmbSHSxRleUZ) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Deixa Eu Te Fazer Feliz](https://open.spotify.com/album/16r3bOihSt87DuMoUTZs5X) | 2:41 |
 | 69 | [Deixe\-Me Ir \- Kiko Franco e Woak Remix](https://open.spotify.com/track/19kNNsdVTF4Bq06Oxv8WhT) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Kiko Franco](https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2), [WOAK](https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb) | [Deixe\-Me Ir \(Kiko Franco e Woak Remix\)](https://open.spotify.com/album/6zG3uIr7njYZBzXe2s2juU) | 3:34 |
-| 70 | [Até Ex Duvida \(feat\. Maiara & Maraisa\) \- Ao Vivo](https://open.spotify.com/track/3twpVbHfTCpgHNlStxfpzx) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Day e Lara \(...\) \[Ao Vivo\]](https://open.spotify.com/album/4ijQqGz1C1a8JtKBykhYsj) | 2:37 |
+| 70 | [Contatinho \(feat\. Luan Santana\)](https://open.spotify.com/track/47zBTlbsiXs9ooyPo7Z7VT) | [Nego do Borel](https://open.spotify.com/artist/1B0Rp4SWGnFgGCPU5Pju6E), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Contatinho \(feat\. Luan Santana\)](https://open.spotify.com/album/2HYVLeXZVCgSTrwBxtV9za) | 3:00 |
 
 Snapshot ID: `ZIxZ8QAAAACw4Fz/mV2gSLF++WCiDAa4`

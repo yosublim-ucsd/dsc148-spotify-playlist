@@ -1,6 +1,6 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Gracie Abrams",
-  "num_followers": 70087,
+  "num_followers": 70088,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
@@ -443,18 +443,18 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Cassy O' (EP)",
-        "url": "https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x"
+        "name": "101 (Live)",
+        "url": "https://open.spotify.com/album/55f8HG5qMzgexZhZdOLs3h"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         }
       ],
-      "duration_ms": 209306,
-      "name": "Budapest - Live from Spotify Stockholm",
-      "url": "https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w"
+      "duration_ms": 241293,
+      "name": "Just Can't Get Enough - Live at Rose Bowl, Pasadena, CA - June 18, 1988",
+      "url": "https://open.spotify.com/track/5poxEW2Xw9UDv4jhHdqGCG"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "101 (Live)",
-        "url": "https://open.spotify.com/album/55f8HG5qMzgexZhZdOLs3h"
+        "name": "Cassy O' (EP)",
+        "url": "https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 241293,
-      "name": "Just Can't Get Enough - Live at Rose Bowl, Pasadena, CA - June 18, 1988",
-      "url": "https://open.spotify.com/track/5poxEW2Xw9UDv4jhHdqGCG"
+      "duration_ms": 209306,
+      "name": "Budapest - Live from Spotify Stockholm",
+      "url": "https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "BADLANDS (Live From Webster Hall)",
-        "url": "https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 199829,
-      "name": "New Americana - Live From Webster Hall",
-      "url": "https://open.spotify.com/track/6WjeOpJIcApl0DvMLaCi0K"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "Pompeii / Come As You Are (MTV Unplugged)",
         "url": "https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 268690,
       "name": "Pompeii - MTV Unplugged / Edit",
       "url": "https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "BADLANDS (Live From Webster Hall)",
+        "url": "https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 199829,
+      "name": "New Americana - Live From Webster Hall",
+      "url": "https://open.spotify.com/track/6WjeOpJIcApl0DvMLaCi0K"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Soul Live",
-        "url": "https://open.spotify.com/album/6bXqJuzljqzZo4MMhoECiT"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 441666,
-      "name": "Crazy - Live",
-      "url": "https://open.spotify.com/track/0amwBCPSbKOMq1C5EC687X"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "Live 8 (Live, July 2005)",
         "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 267263,
       "name": "Feel - Live at Live 8, Hyde Park, London, 2nd July 2005",
       "url": "https://open.spotify.com/track/2Smji1HNCbqpFFMtrrzPHN"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "Soul Live",
+        "url": "https://open.spotify.com/album/6bXqJuzljqzZo4MMhoECiT"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 441666,
+      "name": "Crazy - Live",
+      "url": "https://open.spotify.com/track/0amwBCPSbKOMq1C5EC687X"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
+        "name": "BADLANDS (Live From Webster Hall)",
+        "url": "https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 197996,
+      "name": "Roman Holiday - Live From Webster Hall",
+      "url": "https://open.spotify.com/track/0r0yp1OGfO4VOgUY6u3eV0"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
         "name": "New Rules (Live)",
         "url": "https://open.spotify.com/album/6pobOtMOg9Fa4gqwIcZulc"
       },
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "BADLANDS (Live From Webster Hall)",
-        "url": "https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 197996,
-      "name": "Roman Holiday - Live From Webster Hall",
-      "url": "https://open.spotify.com/track/0r0yp1OGfO4VOgUY6u3eV0"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "Fanatic Live from Caesars Colosseum",
         "url": "https://open.spotify.com/album/4mvwgzxcwaa4bfl9A29xRe"
       },
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "How Can I Sleep With Your Voice In My Head",
-        "url": "https://open.spotify.com/album/0Fnnmvjt4WeV5ybMYU4acH"
-      },
-      "artists": [
-        {
-          "name": "a-ha",
-          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
-        }
-      ],
-      "duration_ms": 342586,
-      "name": "Take On Me - Live",
-      "url": "https://open.spotify.com/track/6q8XHT9eax6UnNnqFTi7W5"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "Live 8 (Live, July 2005)",
         "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 316192,
       "name": "Let's Get It Started - Live at Live 8, Benjamin Franklin Parkway, Philadelphia, 2nd July 2005",
       "url": "https://open.spotify.com/track/0XWBckKjEzcsC1Tf10TFno"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "How Can I Sleep With Your Voice In My Head",
+        "url": "https://open.spotify.com/album/0Fnnmvjt4WeV5ybMYU4acH"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "duration_ms": 342586,
+      "name": "Take On Me - Live",
+      "url": "https://open.spotify.com/track/6q8XHT9eax6UnNnqFTi7W5"
     },
     {
       "added_at": "2024-10-18 19:54:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2wSuRDAzIMCwM3j5NOMFop.md) - [plain]
 
 > Fucked up and evil\. What an absolute bop.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 40 songs - 2 hr 6 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 43 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,5 +48,8 @@ pretty - [cumulative](/playlists/cumulative/2wSuRDAzIMCwM3j5NOMFop.md) - [plain]
 | 38 | [Mania](https://open.spotify.com/track/1GAj3Wxx6TXZMyLPCB5cQd) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy), [Gloom Darkheart](https://open.spotify.com/artist/2vIH8aDm7FlN5d1raMzfPt) | [Mania](https://open.spotify.com/album/2G6u4UcRes928vUNBT4dE7) | 3:33 |
 | 39 | [The Dismemberment Song](https://open.spotify.com/track/0HsOPviUHT6VVZWhjkAoZm) | [Blue Kid](https://open.spotify.com/artist/6CcuV6ZeqjmIzO5IG0PwPN) | [Upright, Love](https://open.spotify.com/album/4nheUSxaxK65SnLoLCM9cd) | 4:36 |
 | 40 | [I Never Told You What I Do for a Living](https://open.spotify.com/track/6gLn8QhAYL4dEwdpVjfCPl) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:52 |
+| 41 | [Wage Wars Get Rich Die Handsome](https://open.spotify.com/track/0xrvkq5EEpHZWKmacINtuh) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Wage Wars Get Rich Die Handsome](https://open.spotify.com/album/1NwWEsaGkDshr7vA7uOOlN) | 2:30 |
+| 42 | [Bang The Doldrums](https://open.spotify.com/track/1Fvf8AO4GWwjLU12Im0s0q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:31 |
+| 43 | [Fame < Infamy](https://open.spotify.com/track/0EwfAdBab8DRcDCC1RKhMY) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:06 |
 
-Snapshot ID: `AAAALj+5UiGgiAJWeKFd9TZQto9cQ5MQ`
+Snapshot ID: `AAAAMbMmpLH+6XVbwuHFimU1k6mNZI8t`

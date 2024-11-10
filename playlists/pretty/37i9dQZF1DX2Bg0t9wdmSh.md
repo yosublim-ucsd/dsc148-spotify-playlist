@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/justinlaboy/">Justin LaBoy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,971 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,980 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 | 43 | [On Me](https://open.spotify.com/track/0A5Fk3MPELtWLsrK8JYiY9) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hottest in Hip Hop 2021](https://open.spotify.com/album/02qKaM5aOXH99lqPHF59KO) | 2:15 |
 | 44 | [BIG PURR \(Prrdd\) \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [BIG PURR \(Prrdd\)](https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o) | 1:56 |
 | 45 | [Black Men Don't Cheat \(feat\. Charlamagne tha God\)](https://open.spotify.com/track/07qrV60yRqp8ckQaI1jKfp) | [Lil Duval](https://open.spotify.com/artist/6YiHht3u7FFszle72kpbdQ), [Charlamagne Tha God](https://open.spotify.com/artist/6xWbtkHMXCQkmvYqSK8TZv) | [Black Men Don't Cheat \(feat\. Charlamagne tha God\)](https://open.spotify.com/album/71HFkoLVwaoO8eFaf0t7UG) | 2:51 |
-| 46 | [Hittin' \(Remix\)](https://open.spotify.com/track/1wV0Z107eyb68MB6AQ8NoX) | [Money Mu](https://open.spotify.com/artist/0Rw1qXuXVii6ZllsXCWKi7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX) | [Hittin' \(Remix\)](https://open.spotify.com/album/60l7cfpagkyUbt5UWh4Grv) | 4:41 |
-| 47 | [Flewed Out](https://open.spotify.com/track/59Q3Yzb5fUH3VSQfWAuRHX) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [City On Lock](https://open.spotify.com/album/7D7MbEqj5SqR0aFW5j9gid) | 3:10 |
+| 46 | [Flewed Out](https://open.spotify.com/track/59Q3Yzb5fUH3VSQfWAuRHX) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [City On Lock](https://open.spotify.com/album/7D7MbEqj5SqR0aFW5j9gid) | 3:10 |
+| 47 | [Hittin' \(Remix\)](https://open.spotify.com/track/1wV0Z107eyb68MB6AQ8NoX) | [Money Mu](https://open.spotify.com/artist/0Rw1qXuXVii6ZllsXCWKi7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX) | [Hittin' \(Remix\)](https://open.spotify.com/album/60l7cfpagkyUbt5UWh4Grv) | 4:41 |
 | 48 | [One Wish](https://open.spotify.com/track/5qrzhg9Fmu8Amg2uMhHfe5) | [Ray J](https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0) | [Raydiation](https://open.spotify.com/album/6N5YwyGWm8gWuBCecfnEps) | 5:37 |
 | 49 | [Respectfully](https://open.spotify.com/track/0vIHmqEGivKu8caH2Zb5ym) | [Justin LaBoy](https://open.spotify.com/artist/3GYMPUqeYsJmuru3cqmL5z) | [Respectfully](https://open.spotify.com/album/3CCOpFI0eV5w2eonThwBD3) | 2:57 |
 | 50 | [Wipe Me Down \(feat\. Foxx, Webbie & Lil Boosie\) \- Remix](https://open.spotify.com/track/6D1CstH1YvzNN8cPd9ay9Q) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [Webbie](https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8), [Foxx](https://open.spotify.com/artist/2l6Z31DakUv5Gl9yQPbLEl) | [Survival Of The Fittest](https://open.spotify.com/album/5ZXga0efPuZJr2KIvN1xZg) | 4:32 |

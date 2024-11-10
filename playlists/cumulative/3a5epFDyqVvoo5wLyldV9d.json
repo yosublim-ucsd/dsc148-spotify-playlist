@@ -12879,6 +12879,24 @@
     },
     {
       "album": {
+        "name": "Whatcha Gonna Do",
+        "url": "https://open.spotify.com/album/660Q8reWp0pwGuHpF9BHWc"
+      },
+      "artists": [
+        {
+          "name": "Pete Escovedo",
+          "url": "https://open.spotify.com/artist/3EXBBqXojqnitE9lPX0uUZ"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 605960,
+      "name": "The E Medley: Azteca Mozambique / Ah Ah / Cueros - Live",
+      "url": "https://open.spotify.com/track/5rOABYXOb0XfJXjHOMULZ4"
+    },
+    {
+      "album": {
         "name": "Bossa Cafe Songs",
         "url": "https://open.spotify.com/album/0UxOTliANKgdhhLmLy0pxz"
       },

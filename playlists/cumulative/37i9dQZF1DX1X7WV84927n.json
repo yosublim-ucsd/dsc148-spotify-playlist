@@ -4004,7 +4004,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 192676,
       "name": "DESERT RAP",
       "url": "https://open.spotify.com/track/3AJS1eZLyHUSUFq4RU2Jan"
@@ -9186,6 +9186,32 @@
       "duration_ms": 215796,
       "name": "LEAVE ME ALONE",
       "url": "https://open.spotify.com/track/6rpP8yjaUFXW85basqmW3s"
+    },
+    {
+      "album": {
+        "name": "Leave Me to Bleed (feat. Brandon Saller)",
+        "url": "https://open.spotify.com/album/37LZExXprGsgP6b5Y7FJdx"
+      },
+      "artists": [
+        {
+          "name": "Mike's Dead",
+          "url": "https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1"
+        },
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        },
+        {
+          "name": "Brandon Saller",
+          "url": "https://open.spotify.com/artist/12x8XI7ZYpGnKPUzifOxL6"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218384,
+      "name": "Leave Me to Bleed (feat. Brandon Saller)",
+      "url": "https://open.spotify.com/track/6QfrQzppJ3yVqrDLS6L3L4"
     },
     {
       "album": {

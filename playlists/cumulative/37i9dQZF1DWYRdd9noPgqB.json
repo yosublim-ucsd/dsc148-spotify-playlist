@@ -366,6 +366,18 @@
         {
           "name": "Alice Phoebe Lou",
           "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        },
+        {
+          "name": "David Parry",
+          "url": "https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD"
+        },
+        {
+          "name": "Dekel Adin",
+          "url": "https://open.spotify.com/artist/27xyFvRoUUYKOPiY47BbZ9"
+        },
+        {
+          "name": "Ziv Yamin",
+          "url": "https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8"
         }
       ],
       "date_added": "2024-11-07",
@@ -725,7 +737,7 @@
     },
     {
       "album": {
-        "name": "Cats On The Ceiling",
+        "name": "Cats on the Ceiling",
         "url": "https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow"
       },
       "artists": [
@@ -738,7 +750,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 213080,
-      "name": "Cats On The Ceiling",
+      "name": "Cats on the Ceiling",
       "url": "https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P"
     },
     {

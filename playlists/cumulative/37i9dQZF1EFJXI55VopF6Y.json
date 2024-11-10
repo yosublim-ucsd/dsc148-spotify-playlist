@@ -541,6 +541,24 @@
     },
     {
       "album": {
+        "name": "TRUST!",
+        "url": "https://open.spotify.com/album/6bJsuHBllmyGoMcRbsXaep"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171433,
+      "name": "TRUST!",
+      "url": "https://open.spotify.com/track/0bxWdk5xYFcV7cm0tj6Q0R"
+    },
+    {
+      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/62QpeoF9Go7z0aG334JjcA"
       },

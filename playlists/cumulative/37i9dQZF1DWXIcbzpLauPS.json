@@ -2520,7 +2520,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 171090,
       "name": "Blinding Faith",
       "url": "https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4"
@@ -5919,6 +5919,24 @@
     },
     {
       "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/2oJJxFn3IOAlbvdX6cS2BH"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277201,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/7jJ5zfsqNO1o85PlepGLxm"
+    },
+    {
+      "album": {
         "name": "Earn It",
         "url": "https://open.spotify.com/album/5iPPJrnEto3sGfm7pyws7s"
       },
@@ -7210,6 +7228,24 @@
       "duration_ms": 169774,
       "name": "Forever Bloom (feat. Trevor Strnad)",
       "url": "https://open.spotify.com/track/5mavoeczZoK9jeHFVWTkv6"
+    },
+    {
+      "album": {
+        "name": "Forever Cold",
+        "url": "https://open.spotify.com/album/4WmIS78V0gBBoYpKvXSZtc"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283714,
+      "name": "Forever Cold",
+      "url": "https://open.spotify.com/track/3uhvjTmAuHRlpgEAfj6SGY"
     },
     {
       "album": {
@@ -11422,7 +11458,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 217285,
       "name": "Monster",
       "url": "https://open.spotify.com/track/02Lea2WjPTjuL4TGw6t1QY"
@@ -12706,7 +12742,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 201466,
       "name": "Opaline",
       "url": "https://open.spotify.com/track/3LMWOBPxDCAdJXaQfcSjk1"
@@ -15606,6 +15642,24 @@
       "duration_ms": 190125,
       "name": "Spaceman (feat. FiNCH)",
       "url": "https://open.spotify.com/track/6OXlb1FnbySxMPPhbwiXic"
+    },
+    {
+      "album": {
+        "name": "Vol. 3",
+        "url": "https://open.spotify.com/album/0BWnYKF4PdH5ehk7oQU9W5"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217830,
+      "name": "Spare Me",
+      "url": "https://open.spotify.com/track/04NfX1qK7HBIzejYQhj6qn"
     },
     {
       "album": {

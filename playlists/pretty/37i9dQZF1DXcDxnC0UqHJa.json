@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Josiah and the Bonnevilles",
-  "num_followers": 462382,
+  "num_followers": 462401,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Other People's Songs",
-        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
-      },
-      "artists": [
-        {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
-        }
-      ],
-      "duration_ms": 288764,
-      "name": "Don\u2019t It Feel Good",
-      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "The Bridge School Concerts 25th Anniversary Edition",
         "url": "https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 223133,
       "name": "Jesus, Etc.",
       "url": "https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Other People's Songs",
+        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "duration_ms": 288764,
+      "name": "Don\u2019t It Feel Good",
+      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Rarities",
-        "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        },
-        {
-          "name": "Linnea Olsson",
-          "url": "https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0"
-        }
-      ],
-      "duration_ms": 232986,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Southern Family",
         "url": "https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Rarities",
+        "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        },
+        {
+          "name": "Linnea Olsson",
+          "url": "https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0"
+        }
+      ],
+      "duration_ms": 232986,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Young Brigham",
-        "url": "https://open.spotify.com/album/4m1PEBRoanU0XSqZMBQ5yO"
-      },
-      "artists": [
-        {
-          "name": "Ramblin' Jack Elliott",
-          "url": "https://open.spotify.com/artist/6iuM8yp1x2N0l6SONhyq4b"
-        }
-      ],
-      "duration_ms": 304693,
-      "name": "If I Were A Carpenter",
-      "url": "https://open.spotify.com/track/07yhlDqS99totZZkdQEWBW"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "The Covers",
         "url": "https://open.spotify.com/album/36J1uwN2oRzKRihIKxDIUV"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
+        "name": "Young Brigham",
+        "url": "https://open.spotify.com/album/4m1PEBRoanU0XSqZMBQ5yO"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Ramblin' Jack Elliott",
+          "url": "https://open.spotify.com/artist/6iuM8yp1x2N0l6SONhyq4b"
         }
       ],
-      "duration_ms": 138383,
-      "name": "Simple Man - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
+      "duration_ms": 304693,
+      "name": "If I Were A Carpenter",
+      "url": "https://open.spotify.com/track/07yhlDqS99totZZkdQEWBW"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1223,18 +1207,34 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Coming Around Again",
-        "url": "https://open.spotify.com/album/3h53uiruLaSwsT22u16QEl"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
       },
       "artists": [
         {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 214625,
-      "name": "Coming Around Again",
-      "url": "https://open.spotify.com/track/1wMMsdYqmkxp80QHfjH1y7"
+      "duration_ms": 138383,
+      "name": "Simple Man - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "By Your Side / Landslide",
+        "url": "https://open.spotify.com/album/47U7NxrdQgfj6Er5KVpz42"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/5bkGMS8DlS5yLnGumN5Hz4"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "By Your Side / Landslide",
-        "url": "https://open.spotify.com/album/47U7NxrdQgfj6Er5KVpz42"
+        "name": "Coming Around Again",
+        "url": "https://open.spotify.com/album/3h53uiruLaSwsT22u16QEl"
       },
       "artists": [
         {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
         }
       ],
-      "duration_ms": 266000,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/5bkGMS8DlS5yLnGumN5Hz4"
+      "duration_ms": 214625,
+      "name": "Coming Around Again",
+      "url": "https://open.spotify.com/track/1wMMsdYqmkxp80QHfjH1y7"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Sparks",
-        "url": "https://open.spotify.com/album/4U90Bo7CbGHeh1M8gKeaZG"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 218750,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Woodstock / Green Altar",
         "url": "https://open.spotify.com/album/42kdrZO7qdmQKvoBXXzWwL"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 273489,
       "name": "Woodstock",
       "url": "https://open.spotify.com/track/0V6RQwkV91uZgXE86wq5fw"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Sparks",
+        "url": "https://open.spotify.com/album/4U90Bo7CbGHeh1M8gKeaZG"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 218750,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "I Remember Everything",
-        "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 156146,
-      "name": "I Remember Everything",
-      "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "American Pie",
         "url": "https://open.spotify.com/album/4cmRLJRiZqkeOKZUE9iztd"
       },
@@ -1639,18 +1623,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Songs 2003-2013",
-        "url": "https://open.spotify.com/album/5mflqsVyBvwwDdQkSqGOUL"
+        "name": "I Remember Everything",
+        "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
       },
       "artists": [
         {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 185013,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/12fGy97GwTTd8IxTJl7eUw"
+      "duration_ms": 156146,
+      "name": "I Remember Everything",
+      "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1667,6 +1651,22 @@
       "duration_ms": 201985,
       "name": "Green Rocky Road",
       "url": "https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Songs 2003-2013",
+        "url": "https://open.spotify.com/album/5mflqsVyBvwwDdQkSqGOUL"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 185013,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/12fGy97GwTTd8IxTJl7eUw"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "For Better, Or Worse",
-        "url": "https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        },
-        {
-          "name": "Fiona Prine",
-          "url": "https://open.spotify.com/artist/56guN2NYtFiK7bhRdDAzvI"
-        }
-      ],
-      "duration_ms": 175334,
-      "name": "My Happiness (feat. Fiona Prine)",
-      "url": "https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Late Night Talking",
         "url": "https://open.spotify.com/album/0DI84YNd6RXHBSchZlw68l"
       },
@@ -1771,6 +1751,22 @@
       "duration_ms": 195936,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1Vc62VQpWqTmwlena9jEKm"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Cigarette Machine",
+        "url": "https://open.spotify.com/album/6XDLIwOzCSTRuXUc677yA4"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+        }
+      ],
+      "duration_ms": 204623,
+      "name": "Cigarette Machine",
+      "url": "https://open.spotify.com/track/3rtyOYyrqqCs5OWDgr2SzM"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1791,18 +1787,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Cigarette Machine",
-        "url": "https://open.spotify.com/album/6XDLIwOzCSTRuXUc677yA4"
+        "name": "For Better, Or Worse",
+        "url": "https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT"
       },
       "artists": [
         {
-          "name": "Benjamin Dakota Rogers",
-          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Fiona Prine",
+          "url": "https://open.spotify.com/artist/56guN2NYtFiK7bhRdDAzvI"
         }
       ],
-      "duration_ms": 204623,
-      "name": "Cigarette Machine",
-      "url": "https://open.spotify.com/track/3rtyOYyrqqCs5OWDgr2SzM"
+      "duration_ms": 175334,
+      "name": "My Happiness (feat. Fiona Prine)",
+      "url": "https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM"
     },
     {
       "added_at": "2024-09-20 04:00:00",

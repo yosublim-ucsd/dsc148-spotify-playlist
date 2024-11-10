@@ -591,6 +591,28 @@
     },
     {
       "album": {
+        "name": "NOUS ART : Masterpiece",
+        "url": "https://open.spotify.com/album/0a2XyKU93jIJAhFz9oZDDe"
+      },
+      "artists": [
+        {
+          "name": "Le Juiice",
+          "url": "https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "LVMH",
+      "url": "https://open.spotify.com/track/3JZPeai9xfulG2stdSvpIG"
+    },
+    {
+      "album": {
         "name": "Yseult",
         "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
       },

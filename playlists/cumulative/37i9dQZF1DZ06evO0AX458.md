@@ -4,7 +4,7 @@
 
 > This is Touché Amoré\. The essential tracks, all in one playlist.
 
-82 songs - 3 hr 18 min
+83 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Flowers and You](https://open.spotify.com/track/2GnLhhzlKak1Q12b8jw25W) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 3:34 | 2022-09-16 |  |
 | [Force of Habit](https://open.spotify.com/track/5lEMusDshGXLe6vGoshGH6) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 2:55 | 2024-10-13 | 2024-10-20 |
 | [Game of Pricks](https://open.spotify.com/track/38273IlTEes0F91y4R2PZE) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB), [Barry Johnson](https://open.spotify.com/artist/3KkCw5JlMYT7NTmqbdGVdd) | [Covers Vol\. 1](https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq) | 2:20 | 2022-09-19 | 2022-10-05 |
-| [Goodbye For Now \(feat\. Julien Baker\)](https://open.spotify.com/track/0lPwT1JHuNFeXtIV6i6Eg2) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 4:20 | 2024-10-13 |  |
+| [Goodbye For Now \(feat\. Julien Baker\)](https://open.spotify.com/track/0lPwT1JHuNFeXtIV6i6Eg2) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 4:20 | 2024-10-13 | 2024-11-10 |
 | [Gravity, Metaphorically](https://open.spotify.com/track/26994se78CHOdd1ulik6ZN) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Gravity, Metaphorically](https://open.spotify.com/album/4NNlC5tN96eheQr10GJ704) | 4:07 | 2022-09-19 | 2022-09-21 |
 | [Green](https://open.spotify.com/track/7Elxs3hCKEiHfOv7rb6F70) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Deflector](https://open.spotify.com/album/093ZXKn597MVIth3gvqcKh) | 3:02 | 2022-09-16 |  |
 | [Hal Ashby](https://open.spotify.com/track/3KutrW5yHciWy8G7d250BP) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Hal Ashby](https://open.spotify.com/album/1POPLkadaqRnEJQLkQnXVq) | 2:55 | 2024-09-07 | 2024-10-17 |
@@ -83,6 +83,7 @@
 | [Steps \- Revived \(Remixed / Remastered\)](https://open.spotify.com/track/0wnFv3Ybu7S7fN5nAnPQN3) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By \(Revived \[Remixed / Remastered\]\)](https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK) | 2:38 | 2024-01-20 | 2024-01-22 |
 | [Suckerfish](https://open.spotify.com/track/24GkGstdibYrnnhfZWsFE4) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:38 | 2022-09-16 |  |
 | [Swimming with Sharks](https://open.spotify.com/track/4BjDJV6gg3dCVwoXyQkf8q) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:03 | 2022-09-30 |  |
+| [The Apollo Programme Was A Hoax](https://open.spotify.com/track/0sXsOeBuEEPQPmJpPQhISe) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [The Apollo Programme Was A Hoax](https://open.spotify.com/album/2VfpzHUHKc4Ni26qeaD70D) | 3:11 | 2024-11-10 |  |
 | [The Great Repetition](https://open.spotify.com/track/2xcb8LjowO44LjXMpmUtgP) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:48 | 2022-09-16 |  |
 | [This Routine](https://open.spotify.com/track/5Ub6uKVc05cgjElayqcG3Y) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 2:35 | 2024-10-13 |  |
 | [Throwing Copper \(Anniversary Version\)](https://open.spotify.com/track/15kxOx6AWB1BzmuBiflGGp) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Dead Horse X](https://open.spotify.com/album/18mkStcF82XtIJT9ENw9pa) | 2:20 | 2022-09-16 | 2022-10-07 |

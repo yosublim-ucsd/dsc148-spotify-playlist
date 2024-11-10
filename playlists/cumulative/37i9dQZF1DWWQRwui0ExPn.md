@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,059 songs - 11 day 3 hr 38 min
+7,060 songs - 11 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -969,6 +969,7 @@
 | [Can't You See](https://open.spotify.com/track/02G7MRjdMftnxmDyA4iGRv) | [The Aether](https://open.spotify.com/artist/6X2vxtl96oIHCQqzAB898T), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Can't You See](https://open.spotify.com/album/2tdr5qzSEcLzS11EFiL4kA) | 2:40 | 2022-09-02 | 2022-12-09 |
 | [candy](https://open.spotify.com/track/1VAA1DDsPBI5HtHKz71szq) | [whknws.](https://open.spotify.com/artist/7ppgTDZ2LUf9ArtdgkZnX3) | [candy](https://open.spotify.com/album/04CTvp4lpryXBremwXAnKt) | 1:25 | 2022-03-19 | 2022-07-16 |
 | [Candyland](https://open.spotify.com/track/4XBSS8cAqYijn02HTA9mdq) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Candyland](https://open.spotify.com/album/0PZhACeJshB4Jg1VJMhmHx) | 2:13 | 2021-05-03 | 2022-01-12 |
+| [Candyland](https://open.spotify.com/track/2FVUM1ynoTnfo8SsW8KzKc) | [Uevo](https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Candyland](https://open.spotify.com/album/1IQpZ9vABR5z4Sz394TKW8) | 2:17 | 2024-11-08 |  |
 | [Cane Sugar](https://open.spotify.com/track/25oR8j4rXJ4PGJshdTGUeg) | [Jharee](https://open.spotify.com/artist/1h8ZzbKCnh7wCxDH8Z3iJi) | [Cane Sugar](https://open.spotify.com/album/0hSERMAGmXQmb05wYnBI2K) | 2:31 | 2022-05-27 | 2022-10-21 |
 | [Canopy](https://open.spotify.com/track/3aKMiGIqNFSKClAd0BZxrn) | [Axian](https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6) | [Canopy](https://open.spotify.com/album/5TGRhrU7vEr2pwrrjqQ1OQ) | 2:42 | 2023-01-20 | 2023-10-13 |
 | [canopy](https://open.spotify.com/track/5XXF8WBjixXWOCG2VpfTOS) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [canopy](https://open.spotify.com/album/4xqvic8Lp0EQ56nIpl4GQm) | 3:06 | 2023-11-24 |  |
@@ -3608,7 +3609,7 @@
 | [Love Today](https://open.spotify.com/track/2vKkTouipihuH05SrKZLoE) | [Keyness](https://open.spotify.com/artist/3OQLdQRrZza9IgJI5egQqw), [Smuff Tha Quiz](https://open.spotify.com/artist/3RoPCko9qLmfQiDg8mHaZn) | [Love Today](https://open.spotify.com/album/3YlU7HEYnSJVpNlTJ8TWqk) | 2:29 | 2024-04-26 | 2024-08-29 |
 | [love your family](https://open.spotify.com/track/19lnoqjx9h67cZ0BDTaqXG) | [Lofty](https://open.spotify.com/artist/0WgGNGfn5nr4B1d5nhn4r0), [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [love your family](https://open.spotify.com/album/7k39oPleOT4OO9Sr9deDFo) | 3:18 | 2022-10-21 | 2023-04-21 |
 | [Loveable](https://open.spotify.com/track/0Lv3X4ekH2mht5lBLkFC6n) | [Hampuz NORDH](https://open.spotify.com/artist/1Xlg90ge1mLrwLIlxsuk1o) | [Loveable](https://open.spotify.com/album/1DRxO8fvUD7hhHnyo4cabb) | 2:24 | 2023-08-25 | 2023-09-16 |
-| [lovebird](https://open.spotify.com/track/17KHkEccHRhWYlZCqKDSNA) | [flotate](https://open.spotify.com/artist/1WCXAKhgy8iunT7CJfHXZS) | [lovebird](https://open.spotify.com/album/1rcVu3RVHFW10ysteOP1qN) | 1:55 | 2022-12-09 |  |
+| [lovebird](https://open.spotify.com/track/17KHkEccHRhWYlZCqKDSNA) | [flotate](https://open.spotify.com/artist/1WCXAKhgy8iunT7CJfHXZS) | [lovebird](https://open.spotify.com/album/1rcVu3RVHFW10ysteOP1qN) | 1:55 | 2022-12-09 | 2024-11-10 |
 | [Lovelights](https://open.spotify.com/track/3JrqM3cP0mrZ0E4ahijZNy) | [Sandy Mental](https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3), [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Lovelights](https://open.spotify.com/album/6Iqu9YahqReKgoltwyXIXZ) | 1:54 | 2024-04-19 | 2024-07-13 |
 | [Lover](https://open.spotify.com/track/3e5VJP92F4cPRbOCEqibFd) | [Austeria](https://open.spotify.com/artist/6nImttseHjHeRnSY68rFBj) | [Lover](https://open.spotify.com/album/2TGKbnavx9dLm7RWR5pIGg) | 2:28 | 2022-09-16 | 2023-04-28 |
 | [lovesick](https://open.spotify.com/track/2nAfnuSyCNPQTbOuNCX8Pw) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [lovesick](https://open.spotify.com/album/53rKqpkiRDYA8lwFtQRh48) | 2:30 | 2019-06-21 | 2019-11-29 |

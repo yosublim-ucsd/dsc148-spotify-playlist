@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZywDAAAAAAAf6KZSVUdA/ffy0SUJyiwy",
+  "snapshot_id": "Zy1UgAAAAADUJgVDDfCozlpSC867zB+f",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Escolhas e Reflexos",
+        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        }
+      ],
+      "duration_ms": 213994,
+      "name": "Mundo da Fama",
+      "url": "https://open.spotify.com/track/6vqHCFSzYNzg96n8NoKxHt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quem Quer F1 Com o G?",
         "url": "https://open.spotify.com/album/4fkmsXc6PvWwgNJJ5yzW4E"
       },
@@ -351,34 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escolhas e Reflexos",
-        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
-      },
-      "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
-        }
-      ],
-      "duration_ms": 213994,
-      "name": "Mundo da Fama",
-      "url": "https://open.spotify.com/track/6vqHCFSzYNzg96n8NoKxHt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "180",
         "url": "https://open.spotify.com/album/48vC9rPy4uCnQRwAeqFJdo"
       },
@@ -443,30 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caldeir\u00e3o",
-        "url": "https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DJ S2K",
-          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
-        },
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Golpeame",
-      "url": "https://open.spotify.com/track/5lZQrRhEHEiHEvF9xguzwi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revoada do Tubar\u00e3o 2 (feat. Mc Davi, Mc PP da VS, Mc Pedrinho, Mc Dricka, Mc Lbx, Mc Kevin, Salvador Da Rima, Ferrugem, MC Kevinho, Gaab)",
         "url": "https://open.spotify.com/album/6SYKU2YKvPcBslCHjnFtKU"
       },
@@ -527,6 +503,30 @@
       "duration_ms": 591157,
       "name": "Revoada do Tubar\u00e3o 2 (feat. Mc Davi, Mc PP da VS, Mc Pedrinho, Mc Dricka, Mc Lbx, Mc Kevin, Salvador Da Rima, Ferrugem, MC Kevinho, Gaab)",
       "url": "https://open.spotify.com/track/5Dcb2W1UpzVFQuyzxpqZaB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Caldeir\u00e3o",
+        "url": "https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJ S2K",
+          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
+        },
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Golpeame",
+      "url": "https://open.spotify.com/track/5lZQrRhEHEiHEvF9xguzwi"
     },
     {
       "added_at": null,
@@ -1339,6 +1339,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rickweek",
+        "url": "https://open.spotify.com/album/3hWqmz0ezKfNe2pVW3eoNf"
+      },
+      "artists": [
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 126511,
+      "name": "Vagabunda do Caralho",
+      "url": "https://open.spotify.com/track/4hlHoQgfFH0Ke875XAOkvc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Cara Maluco",
         "url": "https://open.spotify.com/album/2qTV1A0SANR2CBlWh0idAu"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 208615,
       "name": "Que Cara Maluco",
       "url": "https://open.spotify.com/track/1t5j7QWLmoGtxOS7Jkz2wx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rickweek",
-        "url": "https://open.spotify.com/album/3hWqmz0ezKfNe2pVW3eoNf"
-      },
-      "artists": [
-        {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 126511,
-      "name": "Vagabunda do Caralho",
-      "url": "https://open.spotify.com/track/4hlHoQgfFH0Ke875XAOkvc"
     },
     {
       "added_at": null,
@@ -1407,22 +1407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretinha do Peitin e do Bund\u00e3o",
-        "url": "https://open.spotify.com/album/67QFNXjKS1gwrBhu6STeHl"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 168922,
-      "name": "Pretinha do Peitin e do Bund\u00e3o",
-      "url": "https://open.spotify.com/track/5Y9nPcOtIyzT4DeHAqIatb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Colocadinha",
         "url": "https://open.spotify.com/album/1BzI9XaLvtBy1BdklTSQd1"
       },
@@ -1443,74 +1427,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escolha Certa",
-        "url": "https://open.spotify.com/album/6L6UkrRofzCpptkrx3FO5n"
+        "name": "Pretinha do Peitin e do Bund\u00e3o",
+        "url": "https://open.spotify.com/album/67QFNXjKS1gwrBhu6STeHl"
       },
       "artists": [
-        {
-          "name": "Explode Nova Era",
-          "url": "https://open.spotify.com/artist/3FfFShdeE7YqrfMH2Cls2H"
-        },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Escolha Certa",
-      "url": "https://open.spotify.com/track/1Wu9G4qXDoxFwgbEzYoMmw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Set Tipo F\u00e1bio Jr",
-        "url": "https://open.spotify.com/album/53xyrvLqe51ezB3SAG0oWK"
-      },
-      "artists": [
-        {
-          "name": "Mc PP da VS",
-          "url": "https://open.spotify.com/artist/2z8FuS3crq9QwDVKlR31hP"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "Dj Yuri Pedrada",
-          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
-        },
-        {
-          "name": "Mc Vit\u00e3o Do Savoy",
-          "url": "https://open.spotify.com/artist/2XbYkRNqc0WKV871nxnOno"
-        },
-        {
-          "name": "MC LUUKY",
-          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
-        },
-        {
-          "name": "Mc Luki",
-          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
-        },
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
-        },
-        {
-          "name": "SUELMK",
-          "url": "https://open.spotify.com/artist/1pYqTSk5Nn2IDucSEN24Ox"
-        },
-        {
-          "name": "TrapLaudo",
-          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 643571,
-      "name": "Set Tipo F\u00e1bio Jr",
-      "url": "https://open.spotify.com/track/0qxx0e0xM38oMmKky8Dcss"
+      "duration_ms": 168922,
+      "name": "Pretinha do Peitin e do Bund\u00e3o",
+      "url": "https://open.spotify.com/track/5Y9nPcOtIyzT4DeHAqIatb"
     },
     {
       "added_at": null,
@@ -1571,6 +1499,78 @@
       "duration_ms": 126249,
       "name": "38 Carregado",
       "url": "https://open.spotify.com/track/4VqtUzguJZRomDHACkvwig"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set Tipo F\u00e1bio Jr",
+        "url": "https://open.spotify.com/album/53xyrvLqe51ezB3SAG0oWK"
+      },
+      "artists": [
+        {
+          "name": "Mc PP da VS",
+          "url": "https://open.spotify.com/artist/2z8FuS3crq9QwDVKlR31hP"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Dj Yuri Pedrada",
+          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
+        },
+        {
+          "name": "Mc Vit\u00e3o Do Savoy",
+          "url": "https://open.spotify.com/artist/2XbYkRNqc0WKV871nxnOno"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "Mc Luki",
+          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        },
+        {
+          "name": "SUELMK",
+          "url": "https://open.spotify.com/artist/1pYqTSk5Nn2IDucSEN24Ox"
+        },
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 643571,
+      "name": "Set Tipo F\u00e1bio Jr",
+      "url": "https://open.spotify.com/track/0qxx0e0xM38oMmKky8Dcss"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Escolha Certa",
+        "url": "https://open.spotify.com/album/6L6UkrRofzCpptkrx3FO5n"
+      },
+      "artists": [
+        {
+          "name": "Explode Nova Era",
+          "url": "https://open.spotify.com/artist/3FfFShdeE7YqrfMH2Cls2H"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Escolha Certa",
+      "url": "https://open.spotify.com/track/1Wu9G4qXDoxFwgbEzYoMmw"
     },
     {
       "added_at": null,

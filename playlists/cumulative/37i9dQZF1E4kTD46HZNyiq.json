@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 210218,
       "name": "All the Way",
       "url": "https://open.spotify.com/track/5Z6ZEZlVbXQyUaKicZZtFG"
@@ -5436,7 +5436,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "Dialtone",
       "url": "https://open.spotify.com/track/0IsB9kYyUfWVxFP85bFAmX"
@@ -8660,7 +8660,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 212200,
       "name": "Give Me Your Fire, Give Me Your Rain",
       "url": "https://open.spotify.com/track/7xT7S9uNrRkYTl4U4xps4M"
@@ -9190,7 +9190,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 208336,
       "name": "Have You Ever Been in Love",
       "url": "https://open.spotify.com/track/0n9B2zPLq1AOlUqsENmqLz"
@@ -10278,7 +10278,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 216533,
       "name": "I COULD BE YOUR WORLD",
       "url": "https://open.spotify.com/track/39VjqNkBMqgU0UE70Gip4l"
@@ -11114,7 +11114,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-05",
+      "date_removed": null,
       "duration_ms": 208960,
       "name": "I'm In Love With Everybody",
       "url": "https://open.spotify.com/track/3iA5hu0pwUx8vP97zLUMoy"
@@ -12342,6 +12342,24 @@
       "duration_ms": 254853,
       "name": "Kids In Love",
       "url": "https://open.spotify.com/track/6FeiBLcPAEQX8xMS8VyIao"
+    },
+    {
+      "album": {
+        "name": "A Dream Through Open Eyes",
+        "url": "https://open.spotify.com/album/4Z0FjhnrOADyJNLhxv3tUQ"
+      },
+      "artists": [
+        {
+          "name": "The Strike",
+          "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211357,
+      "name": "Kids of the Last Days",
+      "url": "https://open.spotify.com/track/57ngnKa3wXcN9j3rGRY2z2"
     },
     {
       "album": {
@@ -14588,7 +14606,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 245511,
       "name": "Miles Ahead",
       "url": "https://open.spotify.com/track/4YTY53IsP2suUTVilL4Vex"
@@ -15926,7 +15944,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 233538,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/1pFPxzkV0VUWfbnb83NCou"
@@ -16164,7 +16182,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 198890,
       "name": "Now We Know",
       "url": "https://open.spotify.com/track/2SOoNKGnmru1UOGYb5rlrQ"
@@ -18079,6 +18097,24 @@
     },
     {
       "album": {
+        "name": "A Dream Through Open Eyes",
+        "url": "https://open.spotify.com/album/4Z0FjhnrOADyJNLhxv3tUQ"
+      },
+      "artists": [
+        {
+          "name": "The Strike",
+          "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217656,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/3rkgDAgshJ6qDBFHEOMRvs"
+    },
+    {
+      "album": {
         "name": "Welcome Back",
         "url": "https://open.spotify.com/album/5eLr7pwuHAUEnCCRyc9J7V"
       },
@@ -19288,7 +19324,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 216240,
       "name": "She",
       "url": "https://open.spotify.com/track/4tdDt8uEGX2c5ikwH0zhWl"
@@ -20228,7 +20264,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 207777,
       "name": "Stay",
       "url": "https://open.spotify.com/track/1mSeH8fuRPe0eKLCfsbdet"
@@ -21780,7 +21816,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-10",
       "duration_ms": 240746,
       "name": "The Hotel",
       "url": "https://open.spotify.com/track/5Qd5FCnGCRbfxMdHkMtOF6"

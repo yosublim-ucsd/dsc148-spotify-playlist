@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Griff
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,654 likes - 91 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,694 likes - 91 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 14 | [I'm Fine \(Alone Again\)](https://open.spotify.com/track/7Hgkp4XTOOssEuSTgQzJwL) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia \(Expanded Edition\)](https://open.spotify.com/album/5RWO8obhJURKJGhkg6UsOB) | 2:57 |
 | 15 | [DONE](https://open.spotify.com/track/0BADfmHMyTaLQ5HmhH44NB) | [Thoughty](https://open.spotify.com/artist/31UTwNIEyvdhv7PaaDNisW) | [DONE](https://open.spotify.com/album/37UTYBmSZVJZezE2EQQUma) | 2:24 |
 | 16 | [MR BIG \(feat\. Miriam Bryant\)](https://open.spotify.com/track/6brcFMcUcb0aWDcJyFsQFt) | [KAPARI](https://open.spotify.com/artist/1YS9GiGL9yQ1A85ha3hPIX), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Happy Life Go!](https://open.spotify.com/album/5elFqU3q3kuUG8anlOj0Jc) | 2:40 |
-| 17 | [We'll Be Okay](https://open.spotify.com/track/3wtLD1XmjyL2B71Z6gNfNe) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [We'll Be Okay](https://open.spotify.com/album/7lgKqthMHCIUlOOiR6Ykib) | 2:54 |
+| 17 | [We'll be okay](https://open.spotify.com/track/3wtLD1XmjyL2B71Z6gNfNe) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [We'll be okay](https://open.spotify.com/album/7lgKqthMHCIUlOOiR6Ykib) | 2:54 |
 | 18 | [Better By Myself](https://open.spotify.com/track/6UuUeDJ118UlygyO27unep) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Long Way Home](https://open.spotify.com/album/3MmEb9UgXMbg02WG29sE3a) | 2:51 |
 | 19 | [Alright](https://open.spotify.com/track/2haMyzKGv0uOfV4vCObmYq) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [wanna be friends?](https://open.spotify.com/album/1GfChrfO2dg92W5W7FGj6O) | 2:35 |
 | 20 | [Stranger](https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Stranger](https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL) | 2:42 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 82 | [Break A Promise](https://open.spotify.com/track/6z04WTHul8K26xQGhACEYN) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL), [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [What Scares Me The Most](https://open.spotify.com/album/23I5bEZvvIqVaiyIiGOzrg) | 3:08 |
 | 83 | [If She Says Yes](https://open.spotify.com/track/4HBFLZHtKQ77TB9dpdY6IP) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [If She Says Yes](https://open.spotify.com/album/0SJIt1CupcgPPDgZT6kRxx) | 3:41 |
 | 84 | [Sip](https://open.spotify.com/track/1CMQQtOD2tAwCp0vtuOxIX) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sip](https://open.spotify.com/album/3rdm30kSOOJm3SDxcoVAs0) | 2:52 |
-| 85 | [Cats On The Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats On The Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 |
+| 85 | [Cats on the Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats on the Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 |
 | 86 | [Walla Walla](https://open.spotify.com/track/5t0bkMURhbmZabN1DLM7xi) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Walla Walla](https://open.spotify.com/album/61IDujjLMCiOcuCl5Tixzi) | 2:52 |
 | 87 | [\(Isn’t It\) Obvious](https://open.spotify.com/track/2WHpyoNdtUirfIv256JznP) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [\(Isn’t It\) Obvious](https://open.spotify.com/album/6mDGrC2zC5bugpOTPwNedv) | 3:51 |
 | 88 | [Panic Attack](https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator](https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB) | 3:36 |

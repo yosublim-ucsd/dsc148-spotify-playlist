@@ -4,7 +4,7 @@
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-142 songs - 14 hr 26 min
+143 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Beauty / We Fall Down \- Live](https://open.spotify.com/track/6qk2m4FLAsWT5BaaTqhddH) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Beauty](https://open.spotify.com/album/0N7g1biLYfgX00mWoHmMud) | 9:49 | 2023-09-05 | 2023-11-11 |
 | [By the Grace of God](https://open.spotify.com/track/2RZnkyWDeEfq9iYrfFjHsH) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Peace](https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE) | 5:17 | 2024-07-29 |  |
 | [By the Grace of God](https://open.spotify.com/track/2NLGDqOvvIU1ZNzAFHeVcO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Peace](https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA) | 5:19 | 2023-03-17 | 2024-07-29 |
+| [Center \- Live](https://open.spotify.com/track/4UYRVsS5vkpuBZXtpHU6iF) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Center \(Live\)](https://open.spotify.com/album/14twTxZEfFwCDuKXmajio1) | 7:45 | 2024-11-10 |  |
 | [Champion \(Live\)](https://open.spotify.com/track/55dcgR4fGVMo6rpEYpEZUi) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9) | 8:46 | 2024-07-29 |  |
 | [Champion \- Live](https://open.spotify.com/track/2YRx8jviX9HnvxD0uDIOma) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2) | 8:46 | 2023-03-17 | 2024-07-29 |
 | [Cómo No Voy A Creer](https://open.spotify.com/track/1zZ9eHeIQuufBgUd8rnkRf) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Homecoming \(Español\)](https://open.spotify.com/album/20CnEGNCGv7sCWnV3AaC2o) | 10:33 | 2023-03-17 | 2024-07-19 |

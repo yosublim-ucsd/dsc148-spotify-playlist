@@ -4,7 +4,7 @@
 
 > 
 
-25 songs - 1 hr 34 min
+26 songs - 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Promiseland \- Bonus Track](https://open.spotify.com/track/6bwnvOChQORbBh8DO6DRpD) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [No Place In Heaven](https://open.spotify.com/album/19N3nhHlow4Lc4uiN8IUeA) | 2:59 | 2022-06-13 |  |
 | [Rule \#4 \- Fish in a Birdcage](https://open.spotify.com/track/3CwIYemTONwWpSZwMAmlu7) | [Fish in a Birdcage](https://open.spotify.com/artist/3AFsnAC0H9hes71BeRypbq) | [Fish in a Birdcage](https://open.spotify.com/album/3JT5Riw2oTx8W6ZnLim5i2) | 3:01 | 2022-06-27 |  |
 | [Shape Shifter](https://open.spotify.com/track/2dyKyygNd3EyZiGL5TbgPU) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Phone Power](https://open.spotify.com/album/645yGpkh3TEcrsnKlIiU5k) | 3:11 | 2022-05-06 |  |
+| [Short, Fast, And Loud](https://open.spotify.com/track/2cn19ykuQ0vYdSpqqN4h0p) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Evening Out With Your Girlfriend](https://open.spotify.com/album/0zk9ITIOCEXthivlHuhBsd) | 2:16 | 2024-11-09 |  |
 | [Snail \(feat\. Chloe Moriondo\)](https://open.spotify.com/track/6wZRVdKVHHSEHiAyTcwtV2) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Sleepyhead](https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98) | 3:50 | 2022-10-11 |  |
 | [Steady, As She Goes](https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig) | 3:35 | 2023-06-03 |  |
 | [still feel.](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Now, Not Yet](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) | 4:07 | 2022-06-14 |  |

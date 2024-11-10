@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Porque no to' e' Dembow en RD loco\. Portada: NTG
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,429 likes - 59 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,539 likes - 59 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 18 | [Fin De Semana](https://open.spotify.com/track/4sAeTM3qN8hvP5gKNLsHaA) | [Hemphil Otra Nota](https://open.spotify.com/artist/60fXztK8e403cLtMzAl0C9), [Uriel Produce](https://open.spotify.com/artist/1SIghlrGacKWdkAvAgUdPC), [Musicologo Y Menes](https://open.spotify.com/artist/0xf0KaVp6AMWgesiBh6fee) | [Fin De Semana](https://open.spotify.com/album/6NRgZSFUVXmi5TpOAbtJ7O) | 2:58 |
 | 19 | [Salida](https://open.spotify.com/track/4iXYOa1juyX4ovosDzNSMv) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv) | [Salida](https://open.spotify.com/album/1a6tdnMxKaseyvfzhiAiUy) | 2:14 |
 | 20 | [SNTNDR](https://open.spotify.com/track/0d0DyH6aH6wcTPplWxfQXd) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [SNTNDR](https://open.spotify.com/album/35KvVWITczaRwtNo7lCkTu) | 2:15 |
-| 21 | [¿y tu que?](https://open.spotify.com/track/3X2vszA1WaiKGQTVKfibYS) | [Chelsy](https://open.spotify.com/artist/2DR4ukJfl3MNXYWPTFMe7D), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU) | [¿y tu que?](https://open.spotify.com/album/4KCocI0kT8YtiqeZZSN9Lx) | 4:23 |
+| 21 | [¿y tu que?](https://open.spotify.com/track/3X2vszA1WaiKGQTVKfibYS) | [Chelsy](https://open.spotify.com/artist/2DR4ukJfl3MNXYWPTFMe7D), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Three Seven Music](https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb) | [¿y tu que?](https://open.spotify.com/album/4KCocI0kT8YtiqeZZSN9Lx) | 4:23 |
 | 22 | [Voy Después](https://open.spotify.com/track/2FjjWl25GW1MPVIgHgZcyD) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Voy Después](https://open.spotify.com/album/1gzRiTyJJG9l8RDPc2YTr4) | 3:22 |
 | 23 | [En el Baúl](https://open.spotify.com/track/5DL1vdaKbvSycK0FTmTmoT) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy), [Carlos Trvp](https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy), [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky) | [En el Baúl](https://open.spotify.com/album/1hhkzwZHNvnjVArVFggvr3) | 2:58 |
 | 24 | [Ahora Soy Adicto](https://open.spotify.com/track/3vDpT45rMxGPj6VBzEPthM) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [Ahora Soy Adicto](https://open.spotify.com/album/4FkLsuHSItVHILvbvLe6ul) | 2:49 |

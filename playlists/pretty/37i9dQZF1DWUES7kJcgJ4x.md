@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,398 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,407 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 | 10 | [Moi je joue](https://open.spotify.com/track/3UodijH4fESPUiVz7t8TJC) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [The Best Of Bardot](https://open.spotify.com/album/7zBRw7aeKzugZ5bkFtcSID) | 1:38 |
 | 11 | [Muévanse Todos \(Twist & Shout\)](https://open.spotify.com/track/1SI9SfO4HvnROLWfw7KjFZ) | [Mayte Gaos](https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb) | [RCA 100 Años de Música](https://open.spotify.com/album/5BbFGTn3ycNbdhVxL4etdm) | 1:58 |
 | 12 | [La Favorita del Profesor \(Teacher's Pet\)](https://open.spotify.com/track/1kazUHPjrHaLk4gohVwdVQ) | [Julissa](https://open.spotify.com/artist/2fvqRv8T9zuxNqdKdEaKsT) | [La Gran Epoca Del Rock En Español](https://open.spotify.com/album/2Y6wv1hbC7B1vBg4GOdlOT) | 2:24 |
-| 13 | [Yo Lo Seguire \- \(I Will Follow Him\)](https://open.spotify.com/track/2bSGIbnr1Mwg8tQlbDMKP3) | [Emily Cranz](https://open.spotify.com/artist/6Sqy9l1z22tjcNC9lqVDbt) | [RCA 100 Anos De Musica \- Segunda Parte \(Exitos Inolvidables Del Rock & Roll En Español\)](https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK) | 2:32 |
-| 14 | [Siempre es domingo \- 2015 Remaster](https://open.spotify.com/track/0JyL6nklvYdBAxpfLmvZBp) | [Gelu](https://open.spotify.com/artist/2yjN5JRnodrl8NsktcIZ8A) | [Los EP's Originales \(Remastered 2015\)](https://open.spotify.com/album/1KmBro1fKa2NTUyuGqo3VS) | 2:02 |
+| 13 | [Siempre es domingo \- 2015 Remaster](https://open.spotify.com/track/0JyL6nklvYdBAxpfLmvZBp) | [Gelu](https://open.spotify.com/artist/2yjN5JRnodrl8NsktcIZ8A) | [Los EP's Originales \(Remastered 2015\)](https://open.spotify.com/album/1KmBro1fKa2NTUyuGqo3VS) | 2:02 |
+| 14 | [Yo Lo Seguire \- \(I Will Follow Him\)](https://open.spotify.com/track/2bSGIbnr1Mwg8tQlbDMKP3) | [Emily Cranz](https://open.spotify.com/artist/6Sqy9l1z22tjcNC9lqVDbt) | [RCA 100 Anos De Musica \- Segunda Parte \(Exitos Inolvidables Del Rock & Roll En Español\)](https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK) | 2:32 |
 | 15 | [Snob Ye Ye](https://open.spotify.com/track/4D3FBC7IY6BPfDS2ujBHuX) | [Maleni Castro](https://open.spotify.com/artist/4ANgotw3bp4zcRUsl6tbRt) | [Una Guitarra Española](https://open.spotify.com/album/2WfpqizNpjBpzLEwHboLjp) | 2:05 |
 | 16 | [Ahora Te Puedes Marchar \- Remastered](https://open.spotify.com/track/4xfF88HtFcohZYbuNUl2Ag) | [Lita Torelló](https://open.spotify.com/artist/220JuDukvxjcVJeEC1o3mx) | [Grandes Éxitos \(Remastered\)](https://open.spotify.com/album/6M4RDtWU6nyWwo2EG7aSkv) | 2:40 |
 | 17 | [Bule, bule](https://open.spotify.com/track/1e5fCFpVSLlpDvUBv8U9zd) | [Queta Garay](https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg) | [Peerless 80 Aniversario \- 24 Éxitos](https://open.spotify.com/album/52eGdmCUeEOIJFOM1rGJYX) | 2:33 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 | 19 | [Supercalifragilisticoespialidoso](https://open.spotify.com/track/2nsdIXWjz3oq7uK75aJldh) | [Tania Velia](https://open.spotify.com/artist/7JphpBGpfygziWKh2Wuu3G) | [Donde Están las Llaves](https://open.spotify.com/album/60BZH8eGyNMsjl3WvcZVYn) | 2:10 |
 | 20 | [Dime Mi Amor](https://open.spotify.com/track/0OntImjbj7R9nZcWx4CkDv) | [Hilda Aguirre](https://open.spotify.com/artist/3OSm0uwQm0s67bllaGW80E) | [Jingle Jangle](https://open.spotify.com/album/4VO4juUpEGOsIxEmRrkwOC) | 2:02 |
 | 21 | [Cerca de ti \- 2015 Remastered Version](https://open.spotify.com/track/3E03E8hqTwUBmkNcWqnC19) | [Las Chic](https://open.spotify.com/artist/17V3HR9eBXClxwY2oS0Foj) | [Bailando el chic \(Remasterizado 2015\)](https://open.spotify.com/album/3PoBHm7Eh5S0MAY42odJ3T) | 2:30 |
-| 22 | [The "In" Crowd](https://open.spotify.com/track/139BfysfluWVAu4gnNh7L8) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 3:14 |
-| 23 | [Tú No Eres Ye Yé \(Jägerlatein\)](https://open.spotify.com/track/1Za7ZDhPUshMp2MOTiFbKT) | [Blanca Aurora](https://open.spotify.com/artist/4PPSXsmdy7P9QBDuoBLJ7M) | [Tú No Eres Ye Yé](https://open.spotify.com/album/2DuHHwSXls32idFXEZkiI0) | 2:19 |
+| 22 | [Tú No Eres Ye Yé \(Jägerlatein\)](https://open.spotify.com/track/1Za7ZDhPUshMp2MOTiFbKT) | [Blanca Aurora](https://open.spotify.com/artist/4PPSXsmdy7P9QBDuoBLJ7M) | [Tú No Eres Ye Yé](https://open.spotify.com/album/2DuHHwSXls32idFXEZkiI0) | 2:19 |
+| 23 | [The "In" Crowd](https://open.spotify.com/track/139BfysfluWVAu4gnNh7L8) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 3:14 |
 | 24 | [Muy Cerca de Tí](https://open.spotify.com/track/5f80txb4SYgEJtO6QTKS9l) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Cuando España Bailaba el Twist](https://open.spotify.com/album/1S1vdRlUTJVDMMNCEol9zU) | 2:32 |
 | 25 | [Me lo dijo Pérez](https://open.spotify.com/track/3ncN95x01VjT3FPm1ymMCc) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Los EP's Originales, Vol\. 2](https://open.spotify.com/album/3BdHDRBRICbHKSx5d67PGR) | 2:11 |
 | 26 | [Johnny \- Remastered](https://open.spotify.com/track/5QUna8ZopPtdNbdVKfbo44) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [Grabaciones Completas \(Remastered\)](https://open.spotify.com/album/4FYwjdq1HA7SenIHj5gNdQ) | 2:12 |

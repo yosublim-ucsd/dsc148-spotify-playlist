@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og masse ny musikk! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,790 likes - 115 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,814 likes - 115 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 48 | [Jul Uten Deg](https://open.spotify.com/track/5W8lPwxiRRByCTK5b1EjDI) | [Francesca](https://open.spotify.com/artist/5nHVx5SDrlqwZ7e8H3uncQ), [Thomas Kristoffersen](https://open.spotify.com/artist/6DM9EG7DW9WrhCbrKGwilN) | [Jul Uten Deg](https://open.spotify.com/album/3CegwUD4yFkPyDUiONsqMc) | 3:29 |
 | 49 | [Aqua](https://open.spotify.com/track/4iKJ7hwSzVdoI8MhnS6nAP) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Aqua](https://open.spotify.com/album/3yzdTUPD1Q8gInAZkHP3lm) | 2:33 |
 | 50 | [O Helga Natt](https://open.spotify.com/track/2ot2A6TcBXoL3jKLktPe2t) | [Didrik Solli\-Tangen](https://open.spotify.com/artist/5AEjuplch66DgYDOtd66Yl), [The Norwegian Radio Orchestra](https://open.spotify.com/artist/17ggmeNujCFMkr3zgyXv02) | [O Helga Natt](https://open.spotify.com/album/3GOIauONBX8eAOwFefgZYB) | 4:27 |
-| 51 | [Hallelujastemning](https://open.spotify.com/track/0vu09KPlMxVN5VBgFKK80y) | [Joddski](https://open.spotify.com/artist/5tfrFbvyCsgWoKlXrAgGUD), [Salavdor Sanchez](https://open.spotify.com/artist/7ljFacKoA99z5CpCvKW4Zq) | [Hallelujastemning](https://open.spotify.com/album/1UvCLgUgQCFcdGqjkqGKib) | 4:40 |
+| 51 | [Hallelujastemning](https://open.spotify.com/track/0vu09KPlMxVN5VBgFKK80y) | [Joddski](https://open.spotify.com/artist/5tfrFbvyCsgWoKlXrAgGUD), [Salvador Sanchez](https://open.spotify.com/artist/7rqE3Jh3f8flwRm3fKIEb7) | [Hallelujastemning](https://open.spotify.com/album/1UvCLgUgQCFcdGqjkqGKib) | 4:40 |
 | 52 | [Bøgdas mann](https://open.spotify.com/track/0VnvcFCkAInZ74bdiebl1R) | [Harlekin](https://open.spotify.com/artist/0GGmZz0VoDEve3it63Rtw1) | [Bøgdas mann](https://open.spotify.com/album/2jBBXo0qMdR2BSKYt9nxdl) | 2:38 |
 | 53 | [Where Do I Go](https://open.spotify.com/track/287x3GNRnwnyn6mjkmDHUU) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC), [Alpharock](https://open.spotify.com/artist/629Fs7UJp6tWqOYZi8t8ET), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Where Do I Go](https://open.spotify.com/album/2j6oBklvVZk5D8ExS1280q) | 2:18 |
 | 54 | [Get Lost](https://open.spotify.com/track/5P2fPoLx8DG10KfUGHI2pp) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Highlight](https://open.spotify.com/album/4kHyNDHonchA7wACkVJEq7) | 3:32 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 76 | [I'm So Sorry](https://open.spotify.com/track/66UdYj3MIsMI8WryDpRZwb) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Headache](https://open.spotify.com/album/6baKpbxBMBisqqThtQ1TyZ) | 4:00 |
 | 77 | [Deal med Djevelen](https://open.spotify.com/track/0OF3BvX4VlYSuKHceqhw9L) | [Werdane](https://open.spotify.com/artist/5RONx52oQef27r7LjVHmPW) | [Deal med Djevelen](https://open.spotify.com/album/0QfTNtWN0wZAhSz45SX4jX) | 2:53 |
 | 78 | [555 deluded](https://open.spotify.com/track/1nIAhJ8LjjcT0cn9TnyMUU) | [Juliane Viktoria](https://open.spotify.com/artist/66i1LBMsPZWd2V2VY9u4rM) | [555 deluded](https://open.spotify.com/album/5Q8kgZwxexcbQ8nqdunNS0) | 3:05 |
-| 79 | [Fine Wine](https://open.spotify.com/track/6K52pf928JK0WkxUn5Zzy2) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Fine Wine In Italy](https://open.spotify.com/album/5lV6TjkSpiIrVzIUkovkoU) | 2:58 |
+| 79 | [Fine Wine](https://open.spotify.com/track/6K52pf928JK0WkxUn5Zzy2) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Fine Wine In Italy](https://open.spotify.com/album/5lV6TjkSpiIrVzIUkovkoU) | 2:56 |
 | 80 | [Clothes Off](https://open.spotify.com/track/29TelhAmlCGfCvimusIJhm) | [Sonia Stein](https://open.spotify.com/artist/5ct2WFb5gFMXAntFsAwA0y) | [Blooming Season Part 1](https://open.spotify.com/album/3xAbK9BkKHRa4HoIypjiWm) | 2:44 |
 | 81 | [patience](https://open.spotify.com/track/1xW7A5GFLJS3uTwf5QEcZi) | [sindr](https://open.spotify.com/artist/4UiuiDCLil74AvDoXjdpib), [BENJAMINRICH](https://open.spotify.com/artist/4TD3d7oNp9cr8Ub6QUI0XJ) | [patience](https://open.spotify.com/album/0KEzwyUujccKOKOtTVZicl) | 2:02 |
 | 82 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 85 | [Space Rock](https://open.spotify.com/track/443F4cnUSVofidUpAIXEuy) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Space Rock](https://open.spotify.com/album/00SM0CTiz1f6CEnrcy9WF0) | 1:58 |
 | 86 | [Wet & Wild](https://open.spotify.com/track/7bumwccn1j5e52UmdYZ7fG) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Wet & Wild](https://open.spotify.com/album/5ZPDn7ez0CHHEQGaqQFDuH) | 3:02 |
 | 87 | [kjære Gro \(wisemen 2026\)](https://open.spotify.com/track/18hNjWOB5DWXNhGvW3S6lS) | [AK97](https://open.spotify.com/artist/4AGZyIuz69HKm4uBQHPbE1), [Hil](https://open.spotify.com/artist/44x3S4tAAhwa6wuk89Udy8) | [kjære Gro \(wisemen 2026\)](https://open.spotify.com/album/0aGSXsvSFWIAlksuX0qXm8) | 2:38 |
-| 88 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 |
+| 88 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX), [David Parry](https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD), [Dekel Adin](https://open.spotify.com/artist/27xyFvRoUUYKOPiY47BbZ9), [Ziv Yamin](https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 |
 | 89 | [HOWLING](https://open.spotify.com/track/2uaZaTMbYE5KAk8gbdzBgW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 3:08 |
 | 90 | [Everybody Complains](https://open.spotify.com/track/5KwyVk44P2DM22NjYFrrSs) | [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv), [Tore P](https://open.spotify.com/artist/5obnn8LuvmfBLHmc24ZolQ) | [Everybody Complains](https://open.spotify.com/album/6HE5IqzcQ8VCq6ms8J4igW) | 2:11 |
 | 91 | [Hånd i hanske](https://open.spotify.com/track/3ooNzmfrSZcdMu1m7wLuOC) | [Rasmus Thall](https://open.spotify.com/artist/2Brc3k9Io6Cb1gUMUocN31) | [Hånd i hanske](https://open.spotify.com/album/6OP57UXqph6nsIkGcakgc6) | 3:47 |

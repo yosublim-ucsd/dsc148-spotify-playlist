@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 
 > Congratulations to all the winners and nominees of the 39th <a href="https://www.thestellarawards.com/index.html">Stellar Awards!</a> Cover: <a href="spotify:artist:1aNtFg4D7HdF8jOppyKpUS">Pastor Mike Jr.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,675 likes - 54 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,678 likes - 54 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 | 21 | [No Greater Love](https://open.spotify.com/track/1EaZq1IvsXPj3ILS8mTQeE) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Stained Glass Windows](https://open.spotify.com/album/1q710a6wLm18GHUA1eAMRb) | 4:46 |
 | 22 | [Stand Still](https://open.spotify.com/track/4FCfT6Vu9J2bJnabwkKeMt) | [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [Four Walls](https://open.spotify.com/album/2vzCyDyMFuc7p46Tuv2E69) | 3:56 |
 | 23 | [Grace \(feat\. Kierra Sheard\-Kelly\)](https://open.spotify.com/track/0tXgfxKBnI3iDI6GaDRrIk) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Kierra Sheard\-Kelly](https://open.spotify.com/artist/7k9QU2u4MTwjc6pHZoo9po) | [Affirmations](https://open.spotify.com/album/7nsuo2vcsPXDQdCQBY6SYv) | 5:37 |
-| 24 | [Trusting God](https://open.spotify.com/track/1lpTChiEF7RqdcO4lrTrp0) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Monica](https://open.spotify.com/artist/6qWpPgfKJehZmeJMIeicqW) | [Worth It](https://open.spotify.com/album/3hFAj3KVpjKJU56xHV1t8P) | 4:51 |
+| 24 | [Trusting God](https://open.spotify.com/track/1lpTChiEF7RqdcO4lrTrp0) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Worth It](https://open.spotify.com/album/3hFAj3KVpjKJU56xHV1t8P) | 4:51 |
 | 25 | [Battle](https://open.spotify.com/track/3pyxDOeBvwTiue0BOpob1K) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [Chapter X: See The Goodness](https://open.spotify.com/album/2rYt6wbQu2xdts8lKYvRrH) | 4:46 |
 | 26 | [Hear My Voice](https://open.spotify.com/track/1nwP4WSUke0z9luLDZrWCm) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Tribute To A Legend: Rance Allen, Chapter Two](https://open.spotify.com/album/5JYRG8lsdwRMTtRl2M7gBf) | 5:37 |
 | 27 | [Destined For Greatness](https://open.spotify.com/track/0W7un5mikLWYAdcgAFYBxk) | [Kevin Lemons & Higher Calling](https://open.spotify.com/artist/3malrV5uTGu4zKxxGMDaQC) | [Destined For Greatness](https://open.spotify.com/album/3xuFaEvS8QqIHoSMqFGtDd) | 5:06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India\. Cover: MC INSANE
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,183 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,191 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 6 | [Frontline](https://open.spotify.com/track/1JCYIqHeyFZ2TLrfoGLAlH) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [HOTWIRE](https://open.spotify.com/album/2WkKWOqGDHOqlVwrXJusxn) | 3:02 |
 | 7 | [Ulte Karam](https://open.spotify.com/track/1qPbqj0BJYo8eQ3tAK9mNK) | [Lash curry](https://open.spotify.com/artist/5EXPLxIaBJwaXPW5FovTOx), [Aditya Pushkarna](https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs) | [MTV Hustle 4 \- Episode 5](https://open.spotify.com/album/2QVpwvJazjRXAdyPHBjx48) | 2:58 |
 | 8 | [HUNDO](https://open.spotify.com/track/7yz7n00FMO8AUxgvBHXZab) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [HUNDO](https://open.spotify.com/album/0vJ4vgqMg9DXt6zsnXaVRN) | 2:23 |
-| 9 | [Albadi](https://open.spotify.com/track/3eHmoKgaiYymX3DODm5u38) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [Ydv Shiva](https://open.spotify.com/artist/7JD04tYGDogAbVe0kRDZby) | [Albadi](https://open.spotify.com/album/68Ozb8xeoNVMrQbcTJXzrc) | 3:07 |
+| 9 | [Albadi](https://open.spotify.com/track/3eHmoKgaiYymX3DODm5u38) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [Ydv Shiva](https://open.spotify.com/artist/7JD04tYGDogAbVe0kRDZby), [Sound Scape](https://open.spotify.com/artist/4bbyjn6mgkHxYWozusgCM6) | [Albadi](https://open.spotify.com/album/68Ozb8xeoNVMrQbcTJXzrc) | 3:08 |
 | 10 | [O Humsafar](https://open.spotify.com/track/2QAbLPGThtJVGZFasRWmbm) | [MC INSANE](https://open.spotify.com/artist/7vlghc3VSBc7oPg2a2FRSq), [10A](https://open.spotify.com/artist/1qAdkJbLIPX8QCtNh6EJMh) | [O Humsafar](https://open.spotify.com/album/7G88kqMIp0jLZIImOSVnr3) | 2:52 |
 | 11 | [Regret](https://open.spotify.com/track/3LaUpvYmlVkxaQSNTKDDfK) | [KALAM INK](https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd), [CJ CHIRAG](https://open.spotify.com/artist/5FcuZLglRfOZQMF0tDPxDV) | [Regret](https://open.spotify.com/album/48y1lb2W155CpRSwfgY6ZR) | 4:09 |
 | 12 | [Many Men](https://open.spotify.com/track/4z2V6jTd4VagqPexBQXPKA) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [Many Men](https://open.spotify.com/album/4TK7lw6o6y7HXKLbepxn2L) | 3:01 |

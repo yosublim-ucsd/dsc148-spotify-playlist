@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,694 songs - 4 day 20 hr 2 min
+1,695 songs - 4 day 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -634,6 +634,7 @@
 | [Hello Sun](https://open.spotify.com/track/0Q1Qacx7PAcTlVxeovkmJL) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Lightning](https://open.spotify.com/album/64GKBx96A8r4lemjXrnR2o) | 3:35 | 2020-07-03 | 2022-04-21 |
 | [Her Theme](https://open.spotify.com/track/5Yrb9rFCDWnRSTxryTFS1n) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Her Theme](https://open.spotify.com/album/37t0eo2UQzsyTUPUDnQqJ4) | 4:06 | 2020-12-04 | 2022-02-18 |
 | [Here](https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Here](https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj) | 3:12 | 2021-11-12 | 2023-09-09 |
+| [Here Again](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x) | [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Kazmyn](https://open.spotify.com/artist/33MvRya7Aowzk32Yl2Rlhu) | [Here Again / Wild Again](https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd) | 3:47 | 2024-11-08 |  |
 | [Here on My Own](https://open.spotify.com/track/3jbm6LQn2wgRPBAEFqU8Hu) | [Swardy](https://open.spotify.com/artist/5iTOaSGMZgJ1U8k6NjmzTx) | [Here on My Own](https://open.spotify.com/album/6c93BbSAJETqKh5THU24qa) | 5:50 | 2020-03-20 | 2021-02-19 |
 | [Here With U](https://open.spotify.com/track/0ybQSH5KtXbPTcH9JuXEfD) | [Michael Mason](https://open.spotify.com/artist/6FVCXAh2mxOgRQutgoHRPJ) | [Here With U](https://open.spotify.com/album/1aSZAELKMTTiOLrmdhIWfX) | 3:12 | 2020-05-20 | 2020-10-09 |
 | [Heroes \(we could be\) \- Amtrac Remix](https://open.spotify.com/track/7anJjQNSjKhPfkvRGBKiHJ) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Heroes \(we could be\) \[The Remixes\]](https://open.spotify.com/album/03cpWxb3t38YrVTxBI62og) | 5:08 | 2020-05-18 | 2020-07-03 |
@@ -1180,7 +1181,7 @@
 | [Points Beyond](https://open.spotify.com/track/4flMFYGf017exurWgh8scp) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Hardly A Day, Hardly A Night](https://open.spotify.com/album/3sXK7ip7DA3SZSKeYFbf6Q) | 5:26 | 2021-01-23 | 2022-04-21 |
 | [Polynesia](https://open.spotify.com/track/3MkIlbOnu8UCMt26nOQ31P) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Polynesia EP](https://open.spotify.com/album/0sieH424WlEgU2u6Z7YyfS) | 3:22 | 2020-03-17 | 2022-04-21 |
 | [Poolside Chill \(Super Chilled Lo\-Fi Remix\)](https://open.spotify.com/track/3aVpX48H8kYiAzeOrFql6N) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Poolside Chill \(Super Chilled Lo\-Fi Remix\)](https://open.spotify.com/album/4BvRQ4EI84ZyvNPLIpZKnF) | 3:18 | 2020-05-18 | 2021-03-10 |
-| [Portals](https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Portals](https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW) | 3:51 | 2024-03-08 |  |
+| [Portals](https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Portals](https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW) | 3:51 | 2024-03-08 | 2024-11-10 |
 | [Positive Vibe](https://open.spotify.com/track/1iPnHP67gobIfXyk6kjYrC) | [SAINT WKND](https://open.spotify.com/artist/4vO1cl2ndGrUPSl6IYTHs6) | [Big Beat Ignition Miami 2015](https://open.spotify.com/album/2MfAVFInryk5YQcaaJov8c) | 3:02 | 2020-05-18 | 2020-07-03 |
 | [POV \(with NEVRMIND\)](https://open.spotify.com/track/63fzBjCtxxS0peGMkyTfVP) | [LILO](https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA), [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [POV \(with NEVRMIND\)](https://open.spotify.com/album/3cHmRL9soTP6s1XFJNkUyo) | 2:34 | 2022-02-04 | 2022-02-09 |
 | [Pray for Us](https://open.spotify.com/track/49X931MF0VVnHFkhVU3M5r) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 4:46 | 2020-04-03 | 2020-10-09 |

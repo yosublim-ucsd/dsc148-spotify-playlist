@@ -1,12 +1,12 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 33824,
+  "num_followers": 33826,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZywDAAAAAADy6n9n36hED7Ff3kEeiXuX",
+  "snapshot_id": "Zy1UgAAAAABG/e/ZNXqKL56TqeFxydFI",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Volant\u00edn",
-        "url": "https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Que o la Tumba Ser\u00e1s",
-      "url": "https://open.spotify.com/track/6u3yREOoWqCRdydlHnPmFC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canci\u00f3n del Sur",
         "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 461928,
       "name": "Canci\u00f3n del Sur",
       "url": "https://open.spotify.com/track/3QpRCEJpMHzoqZIY8OjgGw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Volant\u00edn",
+        "url": "https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Que o la Tumba Ser\u00e1s",
+      "url": "https://open.spotify.com/track/6u3yREOoWqCRdydlHnPmFC"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si T\u00fa No Est\u00e1s",
-        "url": "https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 225093,
-      "name": "Si T\u00fa No Est\u00e1s",
-      "url": "https://open.spotify.com/track/4RKmEnXCIZ1Mr6Gg5a2Nhe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canci\u00f3n del Sur",
         "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 192672,
       "name": "Frescura Antigua",
       "url": "https://open.spotify.com/track/1Jy9T9TKNbUcJCFnCTnG2V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 225093,
+      "name": "Si T\u00fa No Est\u00e1s",
+      "url": "https://open.spotify.com/track/4RKmEnXCIZ1Mr6Gg5a2Nhe"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obras de Violeta Parra",
-        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 667266,
-      "name": "Arauco Tiene una Pena",
-      "url": "https://open.spotify.com/track/1YyXDlQOYt0JNyxEapmv0U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canci\u00f3n del Sur",
         "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 309048,
       "name": "En la Cumbre de un Cerro",
       "url": "https://open.spotify.com/track/0QrnxnUcNNPwUwKZyIa0zS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obras de Violeta Parra",
+        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 667266,
+      "name": "Arauco Tiene una Pena",
+      "url": "https://open.spotify.com/track/1YyXDlQOYt0JNyxEapmv0U"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Volant\u00edn",
-        "url": "https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 394573,
-      "name": "Foto de Primera Comuni\u00f3n",
-      "url": "https://open.spotify.com/track/6QFtJ2309fzZS0ioRwzQYG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
         "url": "https://open.spotify.com/album/7nRGejKBPqqNDa6luZvKnP"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 283189,
       "name": "La Quebr\u00e1 del Aj\u00ed (Remasterizado 2020)",
       "url": "https://open.spotify.com/track/4kF8dikOtIXirzaj0RFAH8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Volant\u00edn",
+        "url": "https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 394573,
+      "name": "Foto de Primera Comuni\u00f3n",
+      "url": "https://open.spotify.com/track/6QFtJ2309fzZS0ioRwzQYG"
     },
     {
       "added_at": null,

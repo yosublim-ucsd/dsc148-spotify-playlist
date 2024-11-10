@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > Fresh new music by independent artists and labels, featuring Neto Becerra Updates every Wednesday
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,618 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,625 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 5 | [Mataba y Moría](https://open.spotify.com/track/2TFgkqSQtSGSQvuhaeLuDt) | [Uriel S\. Vázquez](https://open.spotify.com/artist/4s3ux0QXjgaBei8QhxipQ4) | [Mataba y Moría](https://open.spotify.com/album/7xwMrxVJCAHKOvjUbiJDFv) | 3:14 |
 | 6 | [Agonia](https://open.spotify.com/track/4bUnOWEEgQ5R113pQ0I3oy) | [whathedgar](https://open.spotify.com/artist/5tO4Hf0EVv8MRtvJHgANcB) | [Agonia](https://open.spotify.com/album/1yD2mYg6GN6iCOk8LXXlEV) | 3:32 |
 | 7 | [Aromaterapia](https://open.spotify.com/track/7A1CxQf6JtyblxU0Jw5KEO) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94), [Equipo Reforzado](https://open.spotify.com/artist/79l11SbRoVI27ZHUMZ05Ru), [Inoboiz](https://open.spotify.com/artist/72kfJ36enf8Xj9fHmxWvVJ) | [Aromaterapia](https://open.spotify.com/album/5q6eU7szQVafuOxrdhVfAQ) | 3:19 |
-| 8 | [Ay ay ay ay](https://open.spotify.com/track/2OuMgu1VHufFQ5O6rlAZp7) | [Erick MA](https://open.spotify.com/artist/45zsBiOz69xAwYL3T6Gl1L) | [Ay ay ay ay](https://open.spotify.com/album/5GHjQwbu3PxwXvL1y9nGIo) | 2:55 |
+| 8 | [Ay ay ay ay](https://open.spotify.com/track/2OuMgu1VHufFQ5O6rlAZp7) | [Erick MA](https://open.spotify.com/artist/45zsBiOz69xAwYL3T6Gl1L) | [Ay ay ay ay](https://open.spotify.com/album/5GHjQwbu3PxwXvL1y9nGIo) | 2:25 |
 | 9 | [ESPACIO VACIO](https://open.spotify.com/track/7hNZohAKtKnp4woYOi1ih5) | [MILAS](https://open.spotify.com/artist/3TKgamKsMMP7pmm1likOgY) | [MILA7](https://open.spotify.com/album/3sM4o2xU6fmNikVEBmR1fQ) | 3:15 |
 | 10 | [Prada & LV](https://open.spotify.com/track/3HfM4VM7XfQgrfT0JkriPG) | [Omar Moreno](https://open.spotify.com/artist/1DICukNniEOuLsJzhF4C9y) | [Prada & LV](https://open.spotify.com/album/7fZXiUZ03OwJ7GouZLnlfS) | 2:50 |
 | 11 | [Esta Bien](https://open.spotify.com/track/43qOZz2VgaFBKanqTMn5B8) | [Leyo](https://open.spotify.com/artist/3aZ2G1elrxO4ZMWcafMriO) | [PURO MENDEZ](https://open.spotify.com/album/4p2Fsj9146LZMr7gEdHx0H) | 2:16 |

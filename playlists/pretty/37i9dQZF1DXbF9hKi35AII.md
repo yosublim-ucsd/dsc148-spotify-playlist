@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbF9hKi35AII.md) - [plain]
 
 > It's Hits \-soittolistan parhaat biisit vuodelta 2023\. Kannessa BEHM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,413 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,412 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbF9hKi35AII.md) - [plain]
 | 9 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
 | 10 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 |
 | 11 | [Oisko tää täs](https://open.spotify.com/track/0uHbsPVRr12ERCABBWVbe0) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Oisko tää täs / Popinpelko](https://open.spotify.com/album/67o8azfNdjm3DER0vezrN3) | 3:04 |
-| 12 | [Ennen vanhaan](https://open.spotify.com/track/5HDPVknk7KqPWfxSilhC8h) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Ennen vanhaan](https://open.spotify.com/album/3wseukvboJAQk3Nh3TaW1p) | 3:25 |
+| 12 | [Ennen vanhaan](https://open.spotify.com/track/5HDPVknk7KqPWfxSilhC8h) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Ennen vanhaan](https://open.spotify.com/album/3wseukvboJAQk3Nh3TaW1p) | 3:23 |
 | 13 | [Anna mulle mitä vaan](https://open.spotify.com/track/2hCsRJpmsetg49AXeyhuAN) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Hyvikset ja pahikset](https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0) | 2:27 |
 | 14 | [Missio](https://open.spotify.com/track/1mhmASpuZz5ideIXmL3cvC) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Missio](https://open.spotify.com/album/6pB7OMHEokYJd58ZndnYxZ) | 2:39 |
 | 15 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |

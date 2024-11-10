@@ -4,16 +4,18 @@
 
 > Fucked up and evil\. What an absolute bop.
 
-40 songs - 2 hr 6 min
+43 songs - 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#Inspirational](https://open.spotify.com/track/5ZrGB9RCs8EdahNtJ0dnmx) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Big Dumb Idiot](https://open.spotify.com/album/0bh9TnPCRsV5oJYb5K8Ytp) | 2:31 | 2023-01-07 |  |
 | [An Unhealthy Obsession](https://open.spotify.com/track/43FkY9svV70r8PmBL7ypUh) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy) | [An Unhealthy Obsession](https://open.spotify.com/album/4mK2uqTY0iz0rNYebd4EDd) | 2:58 | 2023-03-23 |  |
+| [Bang The Doldrums](https://open.spotify.com/track/1Fvf8AO4GWwjLU12Im0s0q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:31 | 2024-11-09 |  |
 | [Blood and Bones](https://open.spotify.com/track/3zTgL5xA9C02l65VR0XqaN) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy) | [Blood and Bones](https://open.spotify.com/album/5QCjqY1hcyAKWeWFduVtEs) | 2:10 | 2023-03-23 |  |
 | [Business Man](https://open.spotify.com/track/0Ugvi8H89YmbBkSOx9VgUj) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Artificial Intelligence](https://open.spotify.com/album/0p3PojNPjYC8LHkJCwinTd) | 3:02 | 2023-03-25 |  |
 | [Clean](https://open.spotify.com/track/6jcHx4jket9IUINO1lzhvQ) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Jamie Lidell](https://open.spotify.com/artist/6ASGmWCYupa0CXGtsDdYSI) | [2.0](https://open.spotify.com/album/3a8kwdfe4ctEfqe1vXGiBP) | 3:21 | 2024-01-31 |  |
 | [Collapsing Stars](https://open.spotify.com/track/1vpVrdNn76ngdvRVeHkq1J) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Dilaudid](https://open.spotify.com/album/4GNwzGVBNay2j9eLsGks00) | 2:29 | 2023-11-21 |  |
+| [Fame < Infamy](https://open.spotify.com/track/0EwfAdBab8DRcDCC1RKhMY) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:06 | 2024-11-09 |  |
 | [Feed the Machine](https://open.spotify.com/track/40wmXUgVB0N5eLK8CuOhm3) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Feed the Machine](https://open.spotify.com/album/0lKGADKI9s71jBqJe5xYhn) | 3:03 | 2023-10-30 |  |
 | [Ferryman](https://open.spotify.com/track/492qQwagrn1noBTHRYKsvJ) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G), [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [Ferryman](https://open.spotify.com/album/1dDe20iAvQfwOMbvLfXetm) | 3:04 | 2023-03-23 |  |
 | [Give Up!](https://open.spotify.com/track/3OxXjDWxjrD9PcGwveP5nO) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [Autumn](https://open.spotify.com/album/2opLhMoweetJdxKceCQqyE) | 2:49 | 2023-07-09 |  |
@@ -40,6 +42,7 @@
 | [Stop Being Poor](https://open.spotify.com/track/2n0OJhTkQBLw3mJyUbXI7D) | [ziwe](https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib), [Patti Harrison](https://open.spotify.com/artist/3BNcOjxzqOP2N71Ygdw0Bk) | [Ziwe: a Famously Iconic Soundtrack \- EP](https://open.spotify.com/album/1gBsz23p2pNQJYyudz3cmm) | 2:14 | 2023-07-23 |  |
 | [Suitcase Full of Cash](https://open.spotify.com/track/67O2bC5H2EzBqTEAM2Ztdr) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:29 | 2024-10-03 |  |
 | [The Dismemberment Song](https://open.spotify.com/track/0HsOPviUHT6VVZWhjkAoZm) | [Blue Kid](https://open.spotify.com/artist/6CcuV6ZeqjmIzO5IG0PwPN) | [Upright, Love](https://open.spotify.com/album/4nheUSxaxK65SnLoLCM9cd) | 4:36 | 2024-10-14 |  |
+| [Wage Wars Get Rich Die Handsome](https://open.spotify.com/track/0xrvkq5EEpHZWKmacINtuh) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Wage Wars Get Rich Die Handsome](https://open.spotify.com/album/1NwWEsaGkDshr7vA7uOOlN) | 2:30 | 2024-11-09 |  |
 | [Wage Wars Get Rich Die Handsome \(The Jordan Lake Sessions Volume 5\)](https://open.spotify.com/track/4AcfUWv9nT3OP8V4dAZedQ) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Jordan Lake Sessions: Volume 5](https://open.spotify.com/album/2qobfbPVsiuJTUDtzJsbUc) | 2:25 | 2023-01-09 |  |
 | [Weight of the World](https://open.spotify.com/track/3mBzmGcvEytNUsPHmpqtXZ) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:13 | 2023-03-23 |  |
 | [Welcome to the Neighborhood!](https://open.spotify.com/track/4mqtbyIidkZQmpHveD0joq) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [Welcome to the Neighborhood!](https://open.spotify.com/album/45otVgvLxy1cQ9UAWWHDJV) | 1:36 | 2023-03-28 |  |
