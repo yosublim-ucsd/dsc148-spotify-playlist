@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-867 songs - 2 day 9 hr 7 min
+868 songs - 2 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Falling](https://open.spotify.com/track/171kFwAAFjLusKsyR2p1kp) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [Falling](https://open.spotify.com/album/0omU25qz419rVoQj8b2ePf) | 5:13 | 2023-02-28 | 2023-08-16 |
 | [FANCITY](https://open.spotify.com/track/7cOKzEqICjz5E0DtjXpU0K) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [Soulflex](https://open.spotify.com/artist/4wzBvv8o6GlsTLTEkH4SsS) | [FANCITY](https://open.spotify.com/album/0N8RNhddtJnfB6ZxMfnCoj) | 4:02 | 2023-03-14 | 2023-08-15 |
 | [FANTASY](https://open.spotify.com/track/0ODFwt700hdQ8oLqvJYHT6) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [swing in the dark](https://open.spotify.com/album/5CTADoSfMQnu66awJEeqgl) | 3:28 | 2022-07-26 | 2022-07-28 |
-| [FANTASY](https://open.spotify.com/track/2qfEkXsVx69flzqbZHRvao) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [PRISMATICS](https://open.spotify.com/album/5YMCQehUKpGaQINzMYbIrt) | 3:30 | 2022-09-13 |  |
+| [FANTASY](https://open.spotify.com/track/2qfEkXsVx69flzqbZHRvao) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [PRISMATICS](https://open.spotify.com/album/5YMCQehUKpGaQINzMYbIrt) | 3:30 | 2022-09-13 | 2024-11-11 |
 | [Far Away](https://open.spotify.com/track/14EN5D8GFQch3u4Bc1LqcR) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [Far Away](https://open.spotify.com/album/7z3atOVHN4vSWOWYWkzA1Q) | 3:27 | 2022-05-24 | 2022-12-13 |
 | [Favorite](https://open.spotify.com/track/1lTzaT129glHTIpSNg6rUW) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [MUSIC, DANCE & LOVE](https://open.spotify.com/album/4KAOXSADegSXNIkGkHoQJq) | 5:06 | 2022-11-15 | 2022-12-07 |
 | [feel my hush \- English ver](https://open.spotify.com/track/6qrE61VzlfJMPGbu8xNdo7) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [feel my hush \(English ver.\)](https://open.spotify.com/album/439p5AHGxgLyC8uSH7W0SO) | 3:28 | 2022-06-21 | 2022-06-29 |
@@ -329,6 +329,7 @@
 | [New Romantic \(feat\. Maki Nomiya\)](https://open.spotify.com/track/3QcM6ch2eQqWJgjtpIZvm7) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [New Romantic \(feat\. Maki Nomiya\)](https://open.spotify.com/album/7lh5knxxP0iCLqqe8sL0Vx) | 3:13 | 2023-05-30 | 2023-09-26 |
 | [New Romantic \(feat\. Maki Nomiya\)](https://open.spotify.com/track/4DAGg2adRd1PuKrnoUZXOP) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [New Romantic \(feat\. Maki Nomiya\)](https://open.spotify.com/album/4zDzYgnFLtpLj9Zo2I6zNi) | 3:13 | 2023-05-30 | 2023-06-01 |
 | [Night Cruising](https://open.spotify.com/track/0BLD3ShD5ZPNaYQHIWgXxb) | [Hiplin](https://open.spotify.com/artist/7kBLcEkquJFcV7lk9MkKBM) | [Night Cruising](https://open.spotify.com/album/0zqsPnIdwqEGQs0VT7idAY) | 4:00 | 2023-02-28 | 2023-03-29 |
+| [Night Cruising](https://open.spotify.com/track/6cXKmE0S0dlEjevSaQoRgU) | [Hiplin](https://open.spotify.com/artist/7kBLcEkquJFcV7lk9MkKBM) | [Night Cruising](https://open.spotify.com/album/7jV2OeB0dE7vqJ4sYimu8B) | 4:00 | 2024-09-25 |  |
 | [Night Distance](https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv) | [I love you Orchestra Swing Style](https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls), [mahina](https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM) | [Smoky Valley](https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc) | 4:19 | 2022-05-24 |  |
 | [Night Sliders](https://open.spotify.com/track/7LLQXJLVsqvZVGzwY6veMW) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [WINDORGAN](https://open.spotify.com/album/6VPE2VxTeC984xRHTpRZR4) | 5:10 | 2022-06-30 | 2022-07-14 |
 | [Nightmare](https://open.spotify.com/track/58Zd2a3J4bLMV2iPTHZSSO) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC) | [Nightmare](https://open.spotify.com/album/6BNkiD2XOV1g2BZGHSOKQJ) | 5:37 | 2023-04-04 | 2023-09-06 |

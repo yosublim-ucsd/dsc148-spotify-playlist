@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 
 > Miami me lo confirmó, <a href="spotify:genre:0JQ5DAqbMKFER3phdsNMHT">Casa Spotify</a> Rompiendo en Miami
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,982 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,032 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

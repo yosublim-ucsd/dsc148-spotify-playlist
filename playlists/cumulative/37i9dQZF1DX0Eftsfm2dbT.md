@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: KM, LEX
 
-1,198 songs - 2 day 13 hr 25 min
+1,199 songs - 2 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1200,6 +1200,7 @@
 | [言った!! \- Remix](https://open.spotify.com/track/4dCFBIiSAlNuvmrnfG2sh3) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [言った!! \(Remix\)](https://open.spotify.com/album/0Wqqc41PW0CFX9ztQ0eOGk) | 2:34 | 2024-06-11 | 2024-07-24 |
 | [言った!! \- Remix](https://open.spotify.com/track/7D3Ie8dWI8Qjkvlwqc9uyn) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [Merry Delo](https://open.spotify.com/artist/1Q1IHJA1chZCn2P0ppiOfW), [Deech](https://open.spotify.com/artist/1eQUclEDhda3ZCUzi8NQME) | [言った!! \(Remix\)](https://open.spotify.com/album/3SYEeB542P7qpXbG4QrQjU) | 2:35 | 2024-09-17 | 2024-09-27 |
 | [言った!! \- Remix](https://open.spotify.com/track/07EetFndMCGo6AOzTInkwH) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [TOFU](https://open.spotify.com/artist/2eCKRzPa2s6XLmdGZhBlnZ), [Harka](https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze) | [言った!! \(Remix\)](https://open.spotify.com/album/2uYU4uH2Wk7EZJ5HPhvWZ7) | 2:35 | 2024-09-26 | 2024-10-24 |
+| [誰だ？](https://open.spotify.com/track/06k1o3XJTbi9b0zBCaK9qn) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [誰だ？](https://open.spotify.com/album/3X9TlqCjlL1xqndV0lOF7W) | 2:44 | 2024-11-10 |  |
 | [誰のVenus??](https://open.spotify.com/track/6Mf5PHOLZdRxWYcrMf7UFv) | [NO SLEEP CLUB](https://open.spotify.com/artist/3vPOyVyWqdxc8FmS25CWl4), [Ry\-lax](https://open.spotify.com/artist/31ShgT91VvbtptE08NHd0t) | [誰のVenus??](https://open.spotify.com/album/29CFIMtsU0jtmufWib1JP9) | 3:15 | 2024-05-15 | 2024-05-22 |
 | [賢者タイム](https://open.spotify.com/track/2TyLK9vsLBZkqHXQ9Qt6SF) | [Hannya](https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh) | [賢者タイム](https://open.spotify.com/album/54bb3SjMrRlCxewqF9T5K9) | 2:43 | 2024-08-15 | 2024-09-13 |
 | [超Fresh](https://open.spotify.com/track/6Tsdxi0HkSImYREelPrBc8) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/0Ch7fs2VDUUfOUdy7PXBBS) | 2:52 | 2023-12-06 | 2023-12-07 |

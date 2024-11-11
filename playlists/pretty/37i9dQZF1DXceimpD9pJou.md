@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:4fdudhIT1GNNvtvM309dyM">Indiomar</a> y <a href="spotify:artist:5njxJJEEXE6Kxkr4yiFeJi">Kim Richards</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,457 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,475 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

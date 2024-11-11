@@ -1,6 +1,6 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 462799,
+  "num_followers": 462824,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
@@ -165,22 +165,6 @@
       "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
     },
     {
-      "added_at": "2024-07-02 21:24:59",
-      "album": {
-        "name": "Bakteria",
-        "url": "https://open.spotify.com/album/0zZF7ZXBRWpdR9BzOZiThu"
-      },
-      "artists": [
-        {
-          "name": "B\u0142oto",
-          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
-        }
-      ],
-      "duration_ms": 224258,
-      "name": "Bakteria",
-      "url": "https://open.spotify.com/track/3pkX30Tv1IlMvRG5554cbH"
-    },
-    {
       "added_at": "2024-01-04 19:26:35",
       "album": {
         "name": "DATA (Instrumental)",
@@ -195,6 +179,22 @@
       "duration_ms": 180103,
       "name": "VOLVER (instrumental)",
       "url": "https://open.spotify.com/track/7yXlGX1tlIYn5wZcJbJB6f"
+    },
+    {
+      "added_at": "2024-07-02 21:24:59",
+      "album": {
+        "name": "Bakteria",
+        "url": "https://open.spotify.com/album/0zZF7ZXBRWpdR9BzOZiThu"
+      },
+      "artists": [
+        {
+          "name": "B\u0142oto",
+          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
+        }
+      ],
+      "duration_ms": 224258,
+      "name": "Bakteria",
+      "url": "https://open.spotify.com/track/3pkX30Tv1IlMvRG5554cbH"
     },
     {
       "added_at": "2022-04-22 18:53:10",
@@ -309,22 +309,6 @@
       "url": "https://open.spotify.com/track/2L52S4jeIP7AHrb24v0cZv"
     },
     {
-      "added_at": "2024-04-15 21:25:32",
-      "album": {
-        "name": "Alt-Mobeat",
-        "url": "https://open.spotify.com/album/71cvsfFWvvE5L0t82Lp5CI"
-      },
-      "artists": [
-        {
-          "name": "DJ Counselling",
-          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
-        }
-      ],
-      "duration_ms": 101931,
-      "name": "The Visit",
-      "url": "https://open.spotify.com/track/7vxcfLlxX6Z9f7q6ZC63M9"
-    },
-    {
       "added_at": "2021-10-15 03:56:52",
       "album": {
         "name": "Dopamine",
@@ -339,6 +323,22 @@
       "duration_ms": 349575,
       "name": "Warm Electronics Box",
       "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
+    },
+    {
+      "added_at": "2024-04-15 21:25:32",
+      "album": {
+        "name": "Alt-Mobeat",
+        "url": "https://open.spotify.com/album/71cvsfFWvvE5L0t82Lp5CI"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        }
+      ],
+      "duration_ms": 101931,
+      "name": "The Visit",
+      "url": "https://open.spotify.com/track/7vxcfLlxX6Z9f7q6ZC63M9"
     },
     {
       "added_at": "2022-08-03 03:12:05",
@@ -557,20 +557,20 @@
       "url": "https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4"
     },
     {
-      "added_at": "2022-04-29 18:24:26",
+      "added_at": "2024-08-14 17:52:43",
       "album": {
-        "name": "Cruda",
-        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
+        "name": "Sweet Velvet Worm",
+        "url": "https://open.spotify.com/album/2LIpCB7jJ3OefbgGqrvMPd"
       },
       "artists": [
         {
-          "name": "Siete Catorce",
-          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 329596,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
+      "duration_ms": 93000,
+      "name": "Sweet Velvet Worm",
+      "url": "https://open.spotify.com/track/6gI3gXSgxvzObOjRn0urjM"
     },
     {
       "added_at": "2022-03-11 06:33:02",
@@ -587,6 +587,38 @@
       "duration_ms": 242784,
       "name": "Yesterday Faded - Edit",
       "url": "https://open.spotify.com/track/3JPWqObEAfm1gS4ifpV1Gp"
+    },
+    {
+      "added_at": "2022-04-29 18:24:26",
+      "album": {
+        "name": "Cruda",
+        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
+      },
+      "artists": [
+        {
+          "name": "Siete Catorce",
+          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
+        }
+      ],
+      "duration_ms": 329596,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
+    },
+    {
+      "added_at": "2023-11-08 01:35:05",
+      "album": {
+        "name": "Zan",
+        "url": "https://open.spotify.com/album/2eyvj3p4GzodK91J7lPwub"
+      },
+      "artists": [
+        {
+          "name": "Max Graef",
+          "url": "https://open.spotify.com/artist/4AflEeXdD0VohMzZvOGo55"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Zan",
+      "url": "https://open.spotify.com/track/1JVboyYVrqt0BBTqoUwvyn"
     },
     {
       "added_at": "2022-12-16 06:00:00",
@@ -613,36 +645,20 @@
       "url": "https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4"
     },
     {
-      "added_at": "2023-11-08 01:35:05",
+      "added_at": "2022-03-30 05:10:26",
       "album": {
-        "name": "Zan",
-        "url": "https://open.spotify.com/album/2eyvj3p4GzodK91J7lPwub"
+        "name": "tracing Rays [reality glo]",
+        "url": "https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY"
       },
       "artists": [
         {
-          "name": "Max Graef",
-          "url": "https://open.spotify.com/artist/4AflEeXdD0VohMzZvOGo55"
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
         }
       ],
-      "duration_ms": 285000,
-      "name": "Zan",
-      "url": "https://open.spotify.com/track/1JVboyYVrqt0BBTqoUwvyn"
-    },
-    {
-      "added_at": "2024-08-14 17:52:43",
-      "album": {
-        "name": "Sweet Velvet Worm",
-        "url": "https://open.spotify.com/album/2LIpCB7jJ3OefbgGqrvMPd"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 93000,
-      "name": "Sweet Velvet Worm",
-      "url": "https://open.spotify.com/track/6gI3gXSgxvzObOjRn0urjM"
+      "duration_ms": 262240,
+      "name": "tracing Rays [reality glo]",
+      "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
     },
     {
       "added_at": "2022-02-25 05:12:51",
@@ -697,22 +713,6 @@
       "url": "https://open.spotify.com/track/2e5fQ0Xrn0NoLrKCJEqyqh"
     },
     {
-      "added_at": "2022-03-30 05:10:26",
-      "album": {
-        "name": "tracing Rays [reality glo]",
-        "url": "https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY"
-      },
-      "artists": [
-        {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
-        }
-      ],
-      "duration_ms": 262240,
-      "name": "tracing Rays [reality glo]",
-      "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
-    },
-    {
       "added_at": "2024-01-05 03:32:15",
       "album": {
         "name": "Promises",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/7jbt4qgjVkr1mdGEjXnPHM"
     },
     {
-      "added_at": "2023-07-18 19:12:42",
-      "album": {
-        "name": "Pleiades",
-        "url": "https://open.spotify.com/album/3020KpkLo9yLDjngEMEMIi"
-      },
-      "artists": [
-        {
-          "name": "AINO",
-          "url": "https://open.spotify.com/artist/7vU8gqDFkKNP0hYtLERGiu"
-        }
-      ],
-      "duration_ms": 508603,
-      "name": "Alcyone",
-      "url": "https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q"
-    },
-    {
       "added_at": "2023-04-12 01:28:07",
       "album": {
         "name": "chronopolis",
@@ -763,6 +747,22 @@
       "duration_ms": 193655,
       "name": "realcopy",
       "url": "https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T"
+    },
+    {
+      "added_at": "2023-07-18 19:12:42",
+      "album": {
+        "name": "Pleiades",
+        "url": "https://open.spotify.com/album/3020KpkLo9yLDjngEMEMIi"
+      },
+      "artists": [
+        {
+          "name": "AINO",
+          "url": "https://open.spotify.com/artist/7vU8gqDFkKNP0hYtLERGiu"
+        }
+      ],
+      "duration_ms": 508603,
+      "name": "Alcyone",
+      "url": "https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q"
     },
     {
       "added_at": "2022-07-15 18:13:54",
@@ -797,6 +797,38 @@
       "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
     },
     {
+      "added_at": "2022-01-19 22:44:25",
+      "album": {
+        "name": "Fwd: Re: late (Ref.: karoshi)",
+        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "duration_ms": 361386,
+      "name": "Fwd: Re: late (Ref.: karoshi)",
+      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
+    },
+    {
+      "added_at": "2022-04-12 02:09:40",
+      "album": {
+        "name": "Minena",
+        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
+      },
+      "artists": [
+        {
+          "name": "Ranma Entero",
+          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
+        }
+      ],
+      "duration_ms": 275574,
+      "name": "Minena",
+      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
+    },
+    {
       "added_at": "2022-12-20 19:12:56",
       "album": {
         "name": "Dreamy Hamilton (Remixes)",
@@ -821,22 +853,6 @@
       "url": "https://open.spotify.com/track/50mIPnnh5NYXF3I6HapVjq"
     },
     {
-      "added_at": "2022-04-12 02:09:40",
-      "album": {
-        "name": "Minena",
-        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
-      },
-      "artists": [
-        {
-          "name": "Ranma Entero",
-          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
-        }
-      ],
-      "duration_ms": 275574,
-      "name": "Minena",
-      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
-    },
-    {
       "added_at": "2024-05-08 03:36:12",
       "album": {
         "name": "The Precision of Infinity",
@@ -855,22 +871,6 @@
       "duration_ms": 280200,
       "name": "The Precision Of Infinity",
       "url": "https://open.spotify.com/track/3nG6mPXI1FXtdtXfNQGdPD"
-    },
-    {
-      "added_at": "2023-03-03 04:17:23",
-      "album": {
-        "name": "Flooding Meadow",
-        "url": "https://open.spotify.com/album/53VcxaUbWyXPn47Wzl89bn"
-      },
-      "artists": [
-        {
-          "name": "Doc Sleep",
-          "url": "https://open.spotify.com/artist/5o1pKpYbHcqZanSu2DCrJI"
-        }
-      ],
-      "duration_ms": 290526,
-      "name": "Flooding Meadow",
-      "url": "https://open.spotify.com/track/4p8K4d12HW1fzQv3EkDWFh"
     }
   ],
   "unique_name": "Genre Glitch",

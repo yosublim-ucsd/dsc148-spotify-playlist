@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: Mica Sotera
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,956 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,970 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 46 | [Caparazón](https://open.spotify.com/track/1ZILqfSEpNKojBamw4IRnN) | [Delfi Moore](https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe) | [Caparazón](https://open.spotify.com/album/1BsdnZvfo9rUHKj7XGgpNp) | 3:07 |
 | 47 | [Uno de los dos](https://open.spotify.com/track/7eHE04K3TFinAUUv9ShX9Q) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd), [Simón Hempe](https://open.spotify.com/artist/7j2GnY0aIf1AVSCynkX3yn) | [Uno de los dos](https://open.spotify.com/album/6G3KBtsRXGRm0byS7kYAtK) | 3:17 |
 | 48 | [Las Voces](https://open.spotify.com/track/4JW6406Y4xsE9ZVE318A7c) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Las Voces](https://open.spotify.com/album/5MlI1naMkXMqRxNS0YsftP) | 3:30 |
-| 49 | [Me Pasa Que](https://open.spotify.com/track/4x6X3O5dVKliJbxG2VLUgJ) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Me Pasa Que](https://open.spotify.com/album/4Gvr5kFTrE2RHuj9Yg580Z) | 2:50 |
+| 49 | [me pasa que](https://open.spotify.com/track/4x6X3O5dVKliJbxG2VLUgJ) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [me pasa que](https://open.spotify.com/album/4Gvr5kFTrE2RHuj9Yg580Z) | 2:50 |
 | 50 | [Tu Enemiga](https://open.spotify.com/track/6lasm3i7HJM4SFZZ2pGmzK) | [Luna Sujatovich](https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G), [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [Tu Enemiga](https://open.spotify.com/album/6tOyx4khgLtYy34qVhzBLY) | 3:47 |
 | 51 | [Algo Nuevo](https://open.spotify.com/track/5inx7jLc2w5ypAEp2zir2L) | [Bob Crous](https://open.spotify.com/artist/1kw4B3A1uYPYytuS1UhsbE), [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7) | [pain’t](https://open.spotify.com/album/0oJ81Hld66457CqXHkyw7b) | 3:46 |
 | 52 | [Enredados](https://open.spotify.com/track/3xBHycG7YSujhVEc6g6Uv3) | [Hipnotica](https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY) | [Enredados](https://open.spotify.com/album/7CvZj8IZMH6KgCXBg6EdxS) | 4:00 |

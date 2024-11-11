@@ -4,7 +4,7 @@
 
 > A happy place 🪩🪩
 
-470 songs - 1 day 4 hr 58 min
+471 songs - 1 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,7 @@
 | [Street Dancer \- Sgt Slick's Discotizer 2022 Remix](https://open.spotify.com/track/5DLEOfuHbW3S6YXNKUX8h8) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Street Dancer \(Sgt Slick's Discotizer 2022 Remix\)](https://open.spotify.com/album/2fhQ63mzH0H68B0xpIbLqC) | 2:53 | 2022-08-05 |  |
 | [Street Love](https://open.spotify.com/track/4eoXQkvPfWs6JEE2kmgeKR) | [Bora Uzer](https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge) | [Street Love / Magic Kind](https://open.spotify.com/album/7hsgLeRzLBS60CPyYeaqX9) | 6:01 | 2024-06-07 | 2024-06-22 |
 | [Street Rave \- Edit](https://open.spotify.com/track/3iThvzWqPdZdgLnKDJGRaf) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Street Rave EP](https://open.spotify.com/album/4PGKNufqew8YzLUViGgvon) | 4:01 | 2022-04-06 | 2022-04-17 |
-| [Strung Out](https://open.spotify.com/track/0jyw07SL4Jt51vRpYBKLby) | [Sound Support](https://open.spotify.com/artist/4m837NfydgrNAAeZJHFpxn) | [Strung Out](https://open.spotify.com/album/71eVuiXZBb6yHbJUThy3ZY) | 3:08 | 2024-08-30 |  |
+| [Strung Out](https://open.spotify.com/track/0jyw07SL4Jt51vRpYBKLby) | [Sound Support](https://open.spotify.com/artist/4m837NfydgrNAAeZJHFpxn) | [Strung Out](https://open.spotify.com/album/71eVuiXZBb6yHbJUThy3ZY) | 3:08 | 2024-08-30 | 2024-11-11 |
 | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 | 2023-06-09 | 2024-06-22 |
 | [Summer Lovin' \- Edit](https://open.spotify.com/track/7q0vM8woumdTUt30GasolR) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Summer Lovin'](https://open.spotify.com/album/37AKccFPVCdMWUqWZeetrg) | 3:09 | 2022-08-05 |  |
 | [Summer Of Love \- Jansons Remix](https://open.spotify.com/track/3JBRm4s1Bw7Yz2u3d2Ithh) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil), [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY) | [Summer Of Love](https://open.spotify.com/album/7duYShW24ZnlYT08ovEadQ) | 6:22 | 2022-08-05 | 2023-01-14 |
@@ -454,6 +454,7 @@
 | [U Want More](https://open.spotify.com/track/7EKbzeNC4G9cKt6rjpwd5F) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [U Want More](https://open.spotify.com/album/6Tssac3g5lLEJ08XIKqBQV) | 3:33 | 2024-03-22 |  |
 | [UR SO GOOD \(Everything I Need\)](https://open.spotify.com/track/0rze6B9uVaB7TLO28beBAG) | [De Facto!!](https://open.spotify.com/artist/4iK9LUQulxNjKxUQLAkIRs), [DJ Fruit Salad](https://open.spotify.com/artist/68i7ezU149Uwm2KtqdPR74) | [UR SO GOOD \(Everything I Need\)](https://open.spotify.com/album/5M3O0SWZTxgivMtraluEze) | 3:05 | 2024-05-10 | 2024-11-09 |
 | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/track/6tRzd5IvfCywkLX8OdTDiB) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 3:22 | 2023-06-16 | 2024-08-10 |
+| [V1](https://open.spotify.com/track/1EtfVg0YP05kuhSPpCFnsP) | [Coucheron](https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D) | [V1](https://open.spotify.com/album/3I566oodqOcYXYT6U5Q3NY) | 2:45 | 2024-11-08 |  |
 | [Waiting 4 Tonite \(feat\. Betty Judd\)](https://open.spotify.com/track/1c6dqX7EmQuP3TToONXrxw) | [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K), [Betty Judd](https://open.spotify.com/artist/5J0WkPK2X08jprawRzgwrX) | [Waiting 4 Tonite \(feat\. Betty Judd\)](https://open.spotify.com/album/0f9sxqcp8ZLxo8sHQoetCd) | 3:40 | 2024-08-23 |  |
 | [Waiting 4 You](https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe) | [Ekkah](https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb) | [Waiting 4 You](https://open.spotify.com/album/6azOujmzDmxwelXemqImSU) | 3:40 | 2022-08-05 | 2024-08-10 |
 | [Waiting for You](https://open.spotify.com/track/31O3CZ46a50GzMsK0ebdln) | [Siggy Freud](https://open.spotify.com/artist/7pZjmToqPVazSjSXKDoXw2) | [Waiting for You](https://open.spotify.com/album/6inWyOEGfHcRkApvtpwzud) | 2:22 | 2024-03-22 | 2024-05-03 |

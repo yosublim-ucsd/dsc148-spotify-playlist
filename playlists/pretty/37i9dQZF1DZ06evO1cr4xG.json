@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 80144,
+  "num_followers": 80145,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy1UgAAAAAAALUI2FTQHmvXdTiuYlixJ",
+  "snapshot_id": "Zy6mAAAAAABJKnieRnHYtQNd/FuBfXK1",
   "tracks": [
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ember to Inferno",
-        "url": "https://open.spotify.com/album/3hnOE93weJxgpQZOkVC4as"
+        "name": "In Waves (Special Edition)",
+        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 251160,
-      "name": "Ember to Inferno",
-      "url": "https://open.spotify.com/track/3IKNbveo9wfVgEjEFLpY6b"
+      "duration_ms": 320680,
+      "name": "Forsake Not the Dream",
+      "url": "https://open.spotify.com/track/7wZ48cSDxvoofrFS9aG4l0"
     }
   ],
   "unique_name": "This Is Trivium",

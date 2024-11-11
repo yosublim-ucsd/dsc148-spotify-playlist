@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen, con La Valenti en portada.",
-  "num_followers": 40456,
+  "num_followers": 40454,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "ME FUI DE LA FIESTA",
-        "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
-      },
-      "artists": [
-        {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
-        }
-      ],
-      "duration_ms": 158934,
-      "name": "ME FUI DE LA FIESTA",
-      "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/5TMl7Qr7UBoBAFqbiH39zG"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 185088,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/5mDbbvhvaf8ObKttnHXn0s"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
+        "name": "ME FUI DE LA FIESTA",
+        "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 158934,
+      "name": "ME FUI DE LA FIESTA",
+      "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/0pA9AZv8Looc0TBrAc6tox"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 180316,
+      "name": "Tu bebotear",
+      "url": "https://open.spotify.com/track/3jEDXtkqlgEUAW7V0Nsilp"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
         "name": "Esa Morena",
         "url": "https://open.spotify.com/album/1syUTPbPz4fL7JZD6XKmM1"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 220000,
       "name": "Esa Morena",
       "url": "https://open.spotify.com/track/76kwOCNPsGRkGWweVDDSkp"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/0pA9AZv8Looc0TBrAc6tox"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 180316,
-      "name": "Tu bebotear",
-      "url": "https://open.spotify.com/track/3jEDXtkqlgEUAW7V0Nsilp"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "LOS VIEJOS CON GUITA",
-        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
-      },
-      "artists": [
-        {
-          "name": "cata carpena",
-          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
-        }
-      ],
-      "duration_ms": 244195,
-      "name": "DOSMILUNO",
-      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "OTRA MANERA",
         "url": "https://open.spotify.com/album/3EbAvw4gcs1kaZ0esTQDSo"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 219647,
       "name": "En una",
       "url": "https://open.spotify.com/track/0riyx1sdujDzzDaHghveJN"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
+        "name": "LOS VIEJOS CON GUITA",
+        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
+      },
+      "artists": [
+        {
+          "name": "cata carpena",
+          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
+        }
+      ],
+      "duration_ms": 244195,
+      "name": "DOSMILUNO",
+      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "Cuando Sea Grande",
-        "url": "https://open.spotify.com/album/6JVKbotUObykq6GfLYcVJL"
-      },
-      "artists": [
-        {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
-        }
-      ],
-      "duration_ms": 147316,
-      "name": "Cuando Sea Grande",
-      "url": "https://open.spotify.com/track/5QHMeQzf99dGl2WwTqiOu0"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "Puente",
         "url": "https://open.spotify.com/album/4pZuETz9Bpb1C6UIDmG4H2"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 186991,
       "name": "Luna Llena",
       "url": "https://open.spotify.com/track/2LrslpUNiCTiY0fQNN2XLz"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
+        "name": "Cuando Sea Grande",
+        "url": "https://open.spotify.com/album/6JVKbotUObykq6GfLYcVJL"
+      },
+      "artists": [
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        }
+      ],
+      "duration_ms": 147316,
+      "name": "Cuando Sea Grande",
+      "url": "https://open.spotify.com/track/5QHMeQzf99dGl2WwTqiOu0"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -743,26 +743,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "YA WEY",
-        "url": "https://open.spotify.com/album/5L9gpF5XMzJGh79Fc3sJp5"
-      },
-      "artists": [
-        {
-          "name": "Lolita Fiamma",
-          "url": "https://open.spotify.com/artist/0u8bWPzFscvQGljoHXUsDW"
-        },
-        {
-          "name": "Paz Faga",
-          "url": "https://open.spotify.com/artist/5vG1tsUc4MtVWTgaUxf4W3"
-        }
-      ],
-      "duration_ms": 251908,
-      "name": "YA WEY",
-      "url": "https://open.spotify.com/track/7pFpL34LA8ApmRSwGFNyPl"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "Tu Piel",
         "url": "https://open.spotify.com/album/5mYUx5I3OYVgnse52gtBar"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 155744,
       "name": "Tu Piel",
       "url": "https://open.spotify.com/track/6vuoUjfpcqkExaprHJ5PMs"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
+        "name": "YA WEY",
+        "url": "https://open.spotify.com/album/5L9gpF5XMzJGh79Fc3sJp5"
+      },
+      "artists": [
+        {
+          "name": "Lolita Fiamma",
+          "url": "https://open.spotify.com/artist/0u8bWPzFscvQGljoHXUsDW"
+        },
+        {
+          "name": "Paz Faga",
+          "url": "https://open.spotify.com/artist/5vG1tsUc4MtVWTgaUxf4W3"
+        }
+      ],
+      "duration_ms": 251908,
+      "name": "YA WEY",
+      "url": "https://open.spotify.com/track/7pFpL34LA8ApmRSwGFNyPl"
     },
     {
       "added_at": "2024-11-07 03:00:00",

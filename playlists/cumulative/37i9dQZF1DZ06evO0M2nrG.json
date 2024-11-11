@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "CALIDOSA",
+        "url": "https://open.spotify.com/album/6ZvMDzwfQlizWJG1H1q0VQ"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196008,
+      "name": "Alg\u00fan D\u00eda",
+      "url": "https://open.spotify.com/track/5TTyyY9gjeEvesKwpmRmYq"
+    },
+    {
+      "album": {
         "name": "Amantes",
         "url": "https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi"
       },
@@ -312,6 +330,24 @@
       "duration_ms": 202899,
       "name": "Canciones Con Mentiras",
       "url": "https://open.spotify.com/track/4Ve232oV2qClUrgGE89Ahu"
+    },
+    {
+      "album": {
+        "name": "CALIDOSA",
+        "url": "https://open.spotify.com/album/6ZvMDzwfQlizWJG1H1q0VQ"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174263,
+      "name": "Cha Cha - Bandera Blanca",
+      "url": "https://open.spotify.com/track/1kSgNq4K1ThAvvoPyl1FV9"
     },
     {
       "album": {
@@ -1100,7 +1136,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 177156,
       "name": "Noche en Hawaii",
       "url": "https://open.spotify.com/track/2nnsC44cFHGgIXvKLadXUK"
@@ -1534,7 +1570,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 211330,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/5pPON7oaHdEVHiUIRn6WjC"

@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Jam Eater Blues",
+        "url": "https://open.spotify.com/album/50BmgetAf64rSs8oFunijs"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190868,
+      "name": "Jam Eater Blues",
+      "url": "https://open.spotify.com/track/7Ai1XcLGYp3XHvdnG9QLhO"
+    },
+    {
+      "album": {
         "name": "Purple Rain",
         "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
       },

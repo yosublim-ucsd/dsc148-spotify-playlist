@@ -341,6 +341,32 @@
     },
     {
       "album": {
+        "name": "Back it",
+        "url": "https://open.spotify.com/album/7oPLwcPMW4W8kBZtVYHv0S"
+      },
+      "artists": [
+        {
+          "name": "Britz",
+          "url": "https://open.spotify.com/artist/6op6pbdwltqYGxSV8rl5q2"
+        },
+        {
+          "name": "Pacify",
+          "url": "https://open.spotify.com/artist/1SDrbBZXdJjX3Hm8OZwCwk"
+        },
+        {
+          "name": "Isah",
+          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159210,
+      "name": "Back it",
+      "url": "https://open.spotify.com/track/63YfOgW7RdMqoJFIO8eBJB"
+    },
+    {
+      "album": {
         "name": "Back It Up",
         "url": "https://open.spotify.com/album/1tdaOMAQN2wuvnScz3m2eK"
       },
@@ -1702,7 +1728,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 131381,
       "name": "F\u00f8lg lyden",
       "url": "https://open.spotify.com/track/2BcXZTKQvdV6wwLKycR3hx"

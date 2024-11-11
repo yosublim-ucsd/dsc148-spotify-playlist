@@ -442,10 +442,28 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 205386,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/5jtaYUfnk3dZ3VXlWGa4gL"
+    },
+    {
+      "album": {
+        "name": "No Hard Feelings",
+        "url": "https://open.spotify.com/album/72WLSIvdo0R4NuNHu4pEz7"
+      },
+      "artists": [
+        {
+          "name": "Navvy",
+          "url": "https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205386,
+      "name": "No Hard Feelings",
+      "url": "https://open.spotify.com/track/7qpPnapb1VUCvr74EnaI4q"
     },
     {
       "album": {

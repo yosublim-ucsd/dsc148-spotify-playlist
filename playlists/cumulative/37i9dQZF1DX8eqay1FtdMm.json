@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/5JEWzUbwEsblYxe39JQV4A"
+      },
+      "artists": [
+        {
+          "name": "Sojung",
+          "url": "https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221586,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3rNzZNNxqtzgAEIzNaQpku"
+    },
+    {
+      "album": {
         "name": "look",
         "url": "https://open.spotify.com/album/0i1vQkPkubyuGSdSGH3zdV"
       },
@@ -7934,7 +7952,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 266986,
       "name": "Such a thing",
       "url": "https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj"

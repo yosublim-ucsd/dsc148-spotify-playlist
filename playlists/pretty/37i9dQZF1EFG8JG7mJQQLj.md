@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,654 likes - 442 songs - 1 day 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,662 likes - 442 songs - 1 day 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 125 | [Chances](https://open.spotify.com/track/1D0suElatoKurOqJBol7JV) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [DNA](https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv) | 2:52 |
 | 126 | [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/track/0BTGKEEaehTuLJVEJe1U3B) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [4 \(The Pink Album\)](https://open.spotify.com/album/22r4tcO40GeOVicXUS2D9s) | 2:55 |
 | 127 | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/track/5gzZnru34wdecgMUQR2UO0) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Alive](https://open.spotify.com/album/5SeY9BQPi8AzEy6fhPEr1v) | 3:42 |
-| 128 | [Wild Life](https://open.spotify.com/track/4zD9RBG51Lj8bnQwolLnyu) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 4:27 |
-| 129 | [cut my hair](https://open.spotify.com/track/3YUHxgPuHedoZGt9KfGlqB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/5YxG0ULdAixTrnzfo60HX4) | 2:55 |
+| 128 | [cut my hair](https://open.spotify.com/track/3YUHxgPuHedoZGt9KfGlqB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/5YxG0ULdAixTrnzfo60HX4) | 2:55 |
+| 129 | [Wild Life](https://open.spotify.com/track/4zD9RBG51Lj8bnQwolLnyu) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 4:27 |
 | 130 | [New Love](https://open.spotify.com/track/42QGdFKDbWMDvmgsYq35HP) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:16 |
 | 131 | [Best Years](https://open.spotify.com/track/6LHDP5yKHUIQxeml0YKUQy) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/46K4raQPIGem3N031upNj9) | 3:10 |
 | 132 | [Rumour Has It / Someone Like You](https://open.spotify.com/track/5iYUt3rsgrGFU0nugdhYwj) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 7](https://open.spotify.com/album/5QbBCWilH4naI9TGm9lbG2) | 3:27 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 136 | [Love Me Better](https://open.spotify.com/track/66EMVu7HcrXiT3kP9NRcMM) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Afterlove](https://open.spotify.com/album/613axulVSXcND6yCjasyt7) | 3:38 |
 | 137 | [Lost At Sea](https://open.spotify.com/track/3Gwq0zKnMWluOEPKh93BeC) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Clarity](https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs) | 3:45 |
 | 138 | [Doing It for the Money](https://open.spotify.com/track/6APnYxfLzIg2cejA3v2ljy) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 3:46 |
-| 139 | [Worst Nites](https://open.spotify.com/track/1f4tvi37ABO60upCvtm5Cl) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Pick U Up](https://open.spotify.com/album/7414qD6qDgp0dsbD8LuPEt) | 3:31 |
-| 140 | [Debut](https://open.spotify.com/track/58AZXyKRlsMBMcrRjpJpVG) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Debut](https://open.spotify.com/album/7mGArRHjAYY0o8UYOAfRHf) | 2:03 |
+| 139 | [Debut](https://open.spotify.com/track/58AZXyKRlsMBMcrRjpJpVG) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Debut](https://open.spotify.com/album/7mGArRHjAYY0o8UYOAfRHf) | 2:03 |
+| 140 | [Worst Nites](https://open.spotify.com/track/1f4tvi37ABO60upCvtm5Cl) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Pick U Up](https://open.spotify.com/album/7414qD6qDgp0dsbD8LuPEt) | 3:31 |
 | 141 | [What You Wanted](https://open.spotify.com/track/0ILXYaWxMQVEXnKq2eTmjW) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:01 |
 | 142 | [Please Don't Stop The Rain](https://open.spotify.com/track/05ZVTnFGjDTnzQHMxK0Bir) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Songs For You, Truths For Me \(International Exclusive Bundle\)](https://open.spotify.com/album/4gbQkXljzPRUvYtqQscMO7) | 3:54 |
 | 143 | [I Want That](https://open.spotify.com/track/2oGscqSTag2iNgQYNn1dhg) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HEAT](https://open.spotify.com/album/5FgFZv6Fq6Gw1Tb82yOHgn) | 2:51 |
@@ -376,8 +376,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 366 | [Long Way Home \- The Voice Performance](https://open.spotify.com/track/5pzz0LCOW7mGghYDCRDA6H) | [Todd Tilghman](https://open.spotify.com/artist/5k73v1si3UFBqtVQciw7RQ) | [Long Way Home \(The Voice Performance\)](https://open.spotify.com/album/2n1N4iUjWyCxGKqY625T2G) | 2:47 |
 | 367 | [Switch On](https://open.spotify.com/track/5Ln3GhZEN3J9oyVggnPBNY) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [A Lively Mind](https://open.spotify.com/album/0qKDq3Ca3Hn08Qa5uz6dcx) | 4:05 |
 | 368 | [Hero \(From "Songland"\)](https://open.spotify.com/track/28mZvKQkRIRsC4rov4eMqo) | [TVTE](https://open.spotify.com/artist/5EZcZ9bUW9bGda8aXm9WSn) | [Hero \(From "Songland"\)](https://open.spotify.com/album/64dn4OFxLhJY0KYtHBZy04) | 1:49 |
-| 369 | [Be Alright](https://open.spotify.com/track/5PGlOJxk3Y9fw1gLxddLz1) | [she](https://open.spotify.com/artist/3xWktqKQxBAu4LXqLufJwW) | [Electric Girl](https://open.spotify.com/album/3OG0RkesWMYcJzIK2seQI8) | 4:31 |
-| 370 | [CLOUD 9](https://open.spotify.com/track/3IDuxWgCGda52j72E1UL1R) | [NICKTHEREAL](https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70) | [CLOUD 9](https://open.spotify.com/album/1BuenRhUZelUzVTqk2xVe3) | 2:58 |
+| 369 | [CLOUD 9](https://open.spotify.com/track/3IDuxWgCGda52j72E1UL1R) | [NICKTHEREAL](https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70) | [CLOUD 9](https://open.spotify.com/album/1BuenRhUZelUzVTqk2xVe3) | 2:58 |
+| 370 | [Be Alright](https://open.spotify.com/track/5PGlOJxk3Y9fw1gLxddLz1) | [she](https://open.spotify.com/artist/3xWktqKQxBAu4LXqLufJwW) | [Electric Girl](https://open.spotify.com/album/3OG0RkesWMYcJzIK2seQI8) | 4:31 |
 | 371 | [DRIP](https://open.spotify.com/track/1Yf7Iq8YpgY0zfzY60uL0W) | [Bored Brothers](https://open.spotify.com/artist/16zFyEdp4556oFYkPYv3GZ), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [DRIP](https://open.spotify.com/album/7z6cQwJu1fpSLUqDePWb7h) | 2:50 |
 | 372 | [When You Fall In Love \(From "Songland"\)](https://open.spotify.com/track/60CYf9qYZKMlvTTPDhZmap) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [When You Fall In Love \(From "Songland"\)](https://open.spotify.com/album/58UrRTge25YbRpOW1xYbIJ) | 2:40 |
 | 373 | [Favourite Scar](https://open.spotify.com/track/68gjvd3jdbJa4ByEpd5mt6) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Glassheart \(Deluxe Edition\)](https://open.spotify.com/album/2UdrDacKZMsfV2aOIGbG0q) | 3:36 |
@@ -451,4 +451,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 441 | [All I Ever Wanted](https://open.spotify.com/track/6tUyTMQms7mQdaRiyLizCu) | [The Faith Crew](https://open.spotify.com/artist/4rdDVgScRyE4NTocYd30Qi) | [Tribute to Margaret Becker & Jeremy Camp](https://open.spotify.com/album/6ZjxpWsEm2ewK4K2PdJVXM) | 4:43 |
 | 442 | [Born To Race](https://open.spotify.com/track/0yWGRRHjwNOdApEm2gbbex) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [The Artificial Paradise Tour 中国巡演特别版](https://open.spotify.com/album/50PJ47XqwSZXA8Q165lDZW) | 3:11 |
 
-Snapshot ID: `AbhEtgAAAACc0djwGyoscG+a7zc5uYic`
+Snapshot ID: `AbhKfgAAAACI4c1nlExj6MI87O3QvYQU`

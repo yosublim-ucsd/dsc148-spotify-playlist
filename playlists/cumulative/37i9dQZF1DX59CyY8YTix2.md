@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: PEDRO
 
-1,766 songs - 4 day 13 hr 43 min
+1,767 songs - 4 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [avalanche](https://open.spotify.com/track/7edKZMjOOGPEGPoQOF9FMG) | [Awkmiu](https://open.spotify.com/artist/26mj2zXHj76K9paE9J197C) | [avalanche](https://open.spotify.com/album/3JOaflqklhuenlFoIBQAi5) | 3:35 | 2023-04-13 | 2023-05-24 |
 | [Baaka!](https://open.spotify.com/track/30hCaxH7w9nmm5OvJFBe4N) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [Takaramono](https://open.spotify.com/album/19KMuhlGVX3PTQPM1iqKFe) | 1:11 | 2024-01-09 | 2024-01-19 |
 | [BABY](https://open.spotify.com/track/4i4XwVCHChj2LXelZCSVZG) | [CHIKIMARCH](https://open.spotify.com/artist/4Mtx8H158oTHOyOLFQrHuR) | [BABY](https://open.spotify.com/album/3K1LgT30Jjv3HaJy9kFQPD) | 2:48 | 2023-08-08 | 2023-08-23 |
-| [BABY BABY](https://open.spotify.com/track/3fT0Mrz3zxe2PfKeRwQsLe) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [melt pop](https://open.spotify.com/album/1pXOPXMvbTKHa5wlaxvpEd) | 3:17 | 2024-10-08 |  |
+| [BABY BABY](https://open.spotify.com/track/3fT0Mrz3zxe2PfKeRwQsLe) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [melt pop](https://open.spotify.com/album/1pXOPXMvbTKHa5wlaxvpEd) | 3:17 | 2024-10-08 | 2024-11-11 |
 | [baby baby baby](https://open.spotify.com/track/2UPcE23mGIle9amKtht1va) | [in sea hole](https://open.spotify.com/artist/2KLnNZUP9ocNkgB9afmZpR) | [baby baby baby](https://open.spotify.com/album/1OggP8WTszY0RApyCOOZyy) | 4:05 | 2024-02-13 | 2024-02-28 |
 | [baby blue eyes](https://open.spotify.com/track/1ZH8xfse7AimYhri5u29ew) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [baby blue eyes](https://open.spotify.com/album/1GGa1VAV3dcPJRCIT7Y8ue) | 3:11 | 2023-08-22 | 2023-12-04 |
 | [BABY END](https://open.spotify.com/track/7vIMvvEMQu2Su8qyHrUtPQ) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [BABY END](https://open.spotify.com/album/0dwHmTKqojEP054Y8SoZiZ) | 4:40 | 2023-08-22 | 2023-09-13 |
@@ -1322,6 +1322,7 @@
 | [上出来](https://open.spotify.com/track/4rhZquDmNb9mIjzga90x2p) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [上出来](https://open.spotify.com/album/1nUwhyn08TSd7Ibg6EWPmv) | 3:03 | 2022-06-02 | 2022-06-23 |
 | [下恋心](https://open.spotify.com/track/5fcjL0rdKAAJvFiwyotkDM) | [VOLOMUSIKS](https://open.spotify.com/artist/5gBPLClN3Jo2oU8itZFSiq) | [下恋心](https://open.spotify.com/album/7AAdGIuBm98YIyUUWxgocU) | 4:10 | 2022-06-02 | 2022-07-11 |
 | [不安時間](https://open.spotify.com/track/6IFu5wpsp8fqtsEsogzB4w) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [不安時間](https://open.spotify.com/album/4F4gdyk85vpE3eoyUpycjr) | 3:22 | 2023-10-31 | 2023-11-16 |
+| [不完全に恋](https://open.spotify.com/track/5qpLjmnEDcGM1Zw6LZ5WOC) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [sanagi](https://open.spotify.com/album/6F0LtXo7VovXaEINPeFRob) | 3:15 | 2024-11-05 |  |
 | [不幸アレ](https://open.spotify.com/track/0dm0mktu535ZorIOqy1v61) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [不幸アレ](https://open.spotify.com/album/0gBxUBo9uOVqrQJfCiH94g) | 4:02 | 2022-11-01 | 2023-01-06 |
 | [不慣れな地球でキスをする](https://open.spotify.com/track/169jYHYjLy6qsHSaGESz1j) | [塩入冬湖](https://open.spotify.com/artist/6BUwB5NQWck0uKpaFsOYhq) | [大天国](https://open.spotify.com/album/2xODGTzciH3878f1NXogYx) | 4:44 | 2023-01-24 | 2023-02-15 |
 | [不知道](https://open.spotify.com/track/2yZfzw8zSKZYnLStFWsyRb) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [再見/不知道](https://open.spotify.com/album/2J9QlKXQs3U308jRjMxUFW) | 4:38 | 2022-06-02 | 2022-07-20 |

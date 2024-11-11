@@ -4735,6 +4735,24 @@
     },
     {
       "album": {
+        "name": "Dandelion Kids",
+        "url": "https://open.spotify.com/album/7yHwznQ9AEl2qryn0oAx92"
+      },
+      "artists": [
+        {
+          "name": "Maria Jane Smith",
+          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256866,
+      "name": "Dandelion Kids",
+      "url": "https://open.spotify.com/track/647xMrWbg68cS3q4Hb8mvJ"
+    },
+    {
+      "album": {
         "name": "DANSA",
         "url": "https://open.spotify.com/album/2Uj2RENhCf78wxdbCtBcii"
       },
@@ -11534,7 +11552,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 242933,
       "name": "Himlavalvet",
       "url": "https://open.spotify.com/track/46vGHCzuuYkTQgjo1LfTDb"
@@ -13500,6 +13518,24 @@
       "duration_ms": 178115,
       "name": "Ikv\u00e4ll g\u00f6r jag vad som helst...",
       "url": "https://open.spotify.com/track/0DDcohQ8MvYNZ114EYoudo"
+    },
+    {
+      "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
+        "url": "https://open.spotify.com/album/4q7BqIIjzZULlSBEGbdprz"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210560,
+      "name": "Ikv\u00e4ll tar vi \u00f6ver stan",
+      "url": "https://open.spotify.com/track/0WlEryRlIqzywLjTYcnSun"
     },
     {
       "album": {
@@ -18604,7 +18640,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 206823,
       "name": "My Ex Would've Left By Now",
       "url": "https://open.spotify.com/track/3xXiTsAs1QvekEsnrvnynf"

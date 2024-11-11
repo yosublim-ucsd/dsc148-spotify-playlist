@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-322 songs - 18 hr 16 min
+323 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [gr8](https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [gr8](https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU) | 2:38 | 2022-12-09 | 2024-07-03 |
 | [Habit](https://open.spotify.com/track/1uSQi3nx2YAA2LfTLMbAZB) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [\[Vol.134\] You Hee yul's Sketchbook With you : 87th Voice 'Sketchbook X CHEEZE'](https://open.spotify.com/album/7AbVFx2oHmJ42ISOfAC3Uw) | 3:32 | 2022-05-03 | 2024-07-03 |
 | [Hachiko \(Feat\. Sion, Yescoba, Dayoung Ahn\)](https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6), [Dayoung Ahn](https://open.spotify.com/artist/1NkurDnX4s44yi7n57Mooz) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 6:10 | 2022-06-20 | 2024-07-03 |
+| [Hanagasumi](https://open.spotify.com/track/09KW355wewsmvejccEewaE) | [Amudo](https://open.spotify.com/artist/450Pl1XHVOL4a2NofP0Kan) | [Hanagasumi](https://open.spotify.com/album/3bzrY1T1lJig4rGJOb4HbK) | 1:53 | 2024-07-02 |  |
 | [Hatsukoi](https://open.spotify.com/track/3wPK4mTmc3N5IU0SrrVlH4) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Answer Love](https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1) | 2:25 | 2024-07-02 |  |
 | [heal](https://open.spotify.com/track/3ks1KtZzApZuYcVSgEnfu5) | [cliffe](https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy) | [heal](https://open.spotify.com/album/0EY1QkbLqBHWAFvFLwDSdv) | 2:58 | 2024-07-02 |  |
 | [Heart in Motion](https://open.spotify.com/track/7p23qMHn32rwnIcGIFJxgK) | [The Green Tea](https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB) | [Heart in Motion](https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15) | 3:47 | 2022-05-03 | 2024-07-03 |
@@ -224,7 +225,7 @@
 | [Road to Kiyomizu](https://open.spotify.com/track/2VtwKcB38DMOBBJW6EsYGq) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Road to Kiyomizu](https://open.spotify.com/album/1PwAaIHNxoaUh2zMzRHZdb) | 2:43 | 2024-07-02 |  |
 | [ROSE](https://open.spotify.com/track/2UtnEVpdE5gunruf2GiGpS) | [EDEN](https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49), [SONG JU HEE](https://open.spotify.com/artist/7kJY46aPgzdoIlDJbSvxzC) | [ROSE](https://open.spotify.com/album/26fovYAowQaJmrucMlNztd) | 2:58 | 2022-09-07 | 2024-06-22 |
 | [ROSE](https://open.spotify.com/track/0OGI8Mqjdy9BM9kuxCfyUg) | [EDEN](https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49), [SONG JU HEE 송주희](https://open.spotify.com/artist/7I028o0Vby3syaeumHkoFU) | [ROSE](https://open.spotify.com/album/6zKyJ7bOK8dTaXiGIFeCPd) | 2:58 | 2022-05-03 | 2022-07-27 |
-| [s p r i n g \(st\) r o l l](https://open.spotify.com/track/2DOhi5lfz2qsnOCF63Ac94) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [home movies](https://open.spotify.com/album/1zGOEsbvEZz6RYhE7kytDF) | 1:27 | 2024-07-02 |  |
+| [s p r i n g \(st\) r o l l](https://open.spotify.com/track/2DOhi5lfz2qsnOCF63Ac94) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [home movies](https://open.spotify.com/album/1zGOEsbvEZz6RYhE7kytDF) | 1:27 | 2024-07-02 | 2024-11-11 |
 | [Sage](https://open.spotify.com/track/63yGlWei594l3Me8KaKF2G) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs), [milligon](https://open.spotify.com/artist/62h3mAlyYduSmprbNEdKKD) | [Sage](https://open.spotify.com/album/26BmBroNz25vIvfSXU5rwd) | 2:27 | 2024-07-02 |  |
 | [Sakai](https://open.spotify.com/track/2ZROj14YkoeoqWxDvphqb0) | [Chau Sara](https://open.spotify.com/artist/4VjWi8luQOkJ3hLEW7UMhl) | [Sakai](https://open.spotify.com/album/4sqbLBBQhZiFCNkDs01AvC) | 2:46 | 2024-07-02 |  |
 | [Sakura Trees](https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Buena Vista](https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx) | 1:39 | 2024-07-02 |  |

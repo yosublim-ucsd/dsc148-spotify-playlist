@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 215916,
+  "num_followers": 215924,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy1UgAAAAACbsIo8PRIkhFLtfU2K5T/9",
+  "snapshot_id": "Zy6mAAAAAADztkcMS95rGifhXsMXMqiy",
   "tracks": [
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 239946,
-      "name": "Mademoiselle & The Nunnery Blaze",
-      "url": "https://open.spotify.com/track/49FDINhZBMEOguBHw3niyz"
+      "duration_ms": 217866,
+      "name": "Essie & Paul",
+      "url": "https://open.spotify.com/track/0CjGEiQSSzaewLVuvKTj1d"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 217866,
-      "name": "Essie & Paul",
-      "url": "https://open.spotify.com/track/0CjGEiQSSzaewLVuvKTj1d"
+      "duration_ms": 239946,
+      "name": "Mademoiselle & The Nunnery Blaze",
+      "url": "https://open.spotify.com/track/49FDINhZBMEOguBHw3niyz"
     },
     {
       "added_at": null,

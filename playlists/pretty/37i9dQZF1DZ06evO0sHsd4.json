@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 10090,
+  "num_followers": 10147,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy1UgAAAAACVS1ZM9Q1wVyt0+RrqO/G5",
+  "snapshot_id": "Zy6mAAAAAAD3uUvHjXbCpVhaTEa7ngCM",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "LA ODISEA",
+        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 123096,
+      "name": "AMIRI",
+      "url": "https://open.spotify.com/track/3dpBkXMbRdDQ6ZhcxFufQp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lujo y Detalle",
         "url": "https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj"
       },
@@ -235,30 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA ODISEA",
-        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 123096,
-      "name": "AMIRI",
-      "url": "https://open.spotify.com/track/3dpBkXMbRdDQ6ZhcxFufQp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made In Paris",
         "url": "https://open.spotify.com/album/27IGVp8LfUUZTISwgB6rkC"
       },
@@ -271,6 +271,26 @@
       "duration_ms": 158306,
       "name": "Made In Paris",
       "url": "https://open.spotify.com/track/3Wt5VJAfUegajg4F3BEpVK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA ODISEA",
+        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "CALIFORNIA SUNSET",
+      "url": "https://open.spotify.com/track/7Jw2UlbClhyuWzmfv9yWtD"
     },
     {
       "added_at": null,
@@ -311,26 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA ODISEA",
-        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "CALIFORNIA SUNSET",
-      "url": "https://open.spotify.com/track/7Jw2UlbClhyuWzmfv9yWtD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mas Alto Que El Everest",
         "url": "https://open.spotify.com/album/6rLIcVqblyX9Hpmhuh2ctR"
       },
@@ -343,6 +343,26 @@
       "duration_ms": 181824,
       "name": "Mas Alto Que El Everest",
       "url": "https://open.spotify.com/track/4GXiAl2kBRSC7HkeTeBhtq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA ODISEA",
+        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 220530,
+      "name": "GTA II",
+      "url": "https://open.spotify.com/track/7xoIdflRdcG3794rwJxm0s"
     },
     {
       "added_at": null,
@@ -383,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA ODISEA",
-        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 220530,
-      "name": "GTA II",
-      "url": "https://open.spotify.com/track/7xoIdflRdcG3794rwJxm0s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Loco Es",
         "url": "https://open.spotify.com/album/36UY5ZVRoeNMMVBJ9dtIfr"
       },
@@ -419,6 +419,22 @@
       "duration_ms": 202666,
       "name": "Que Loco Es",
       "url": "https://open.spotify.com/track/21zCMMBtQrkwFwfkrun5Qk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA ODISEA",
+        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 232263,
+      "name": "NOCHES FR\u00cdAS",
+      "url": "https://open.spotify.com/track/4YVLgx6LURPo1VNeaqBT5x"
     },
     {
       "added_at": null,
@@ -455,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA ODISEA",
-        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 232263,
-      "name": "NOCHES FR\u00cdAS",
-      "url": "https://open.spotify.com/track/4YVLgx6LURPo1VNeaqBT5x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EPA",
         "url": "https://open.spotify.com/album/4jG0S9k29ovli79Un9ojOq"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 177656,
       "name": "EPA",
       "url": "https://open.spotify.com/track/30hjAIB08HXjBbEHgR1sAq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA ODISEA",
+        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 164343,
+      "name": "BARCELONA",
+      "url": "https://open.spotify.com/track/2cUyXIrVaHYXLny9TcPzRq"
     },
     {
       "added_at": null,
@@ -523,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA ODISEA",
-        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 164343,
-      "name": "BARCELONA",
-      "url": "https://open.spotify.com/track/2cUyXIrVaHYXLny9TcPzRq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Tiempos Cambian",
         "url": "https://open.spotify.com/album/4auHxC2aWnFgL1pXqUw86a"
       },
@@ -555,6 +555,22 @@
       "duration_ms": 186983,
       "name": "Escuela 4 Letras",
       "url": "https://open.spotify.com/track/2PPBEIRP1RfRpq0eEUjg5v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA ODISEA",
+        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 232509,
+      "name": "HOLOCAUSTO NUCLEAR",
+      "url": "https://open.spotify.com/track/4khbwjIk7vG1NA0W3ILdoF"
     },
     {
       "added_at": null,
@@ -591,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA ODISEA",
-        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 131794,
-      "name": "INTRO (BLUES)",
-      "url": "https://open.spotify.com/track/2bnH8aJVeo9BSs4NnxBgjQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta el Dia de Hoy",
         "url": "https://open.spotify.com/album/6GSeGmTye0w8QJ99CDy3oh"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 189450,
       "name": "Hasta el Dia de Hoy",
       "url": "https://open.spotify.com/track/17OipakbVTusJ6e6MeQSNw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una \u00daltima Ocasi\u00f3n",
+        "url": "https://open.spotify.com/album/7HMRedku7U6wK6qoh0KgQv"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "Una \u00daltima Ocasi\u00f3n",
+      "url": "https://open.spotify.com/track/1C6WlgKPr1f4WDMy4MkzBU"
     },
     {
       "added_at": null,
@@ -655,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una \u00daltima Ocasi\u00f3n",
-        "url": "https://open.spotify.com/album/7HMRedku7U6wK6qoh0KgQv"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "Una \u00daltima Ocasi\u00f3n",
-      "url": "https://open.spotify.com/track/1C6WlgKPr1f4WDMy4MkzBU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya No Siento Nada",
         "url": "https://open.spotify.com/album/0W1HlIPEsbTCVUZQSlKRT8"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vueltas De La Vida",
-        "url": "https://open.spotify.com/album/1EwUWq8uTZHRoAfnmo51W7"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Pisto En Mano Y Humo Al Viento",
-      "url": "https://open.spotify.com/track/0V7SFLu8aL8JPVJagw0D0x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alla En Lynwood (En Vivo)",
         "url": "https://open.spotify.com/album/0OhdTL3qbFHUo6Qo2fc7Ul"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 203250,
       "name": "Alla En Lynwood - En Vivo",
       "url": "https://open.spotify.com/track/00yHdOJRayC728xYDY7ioe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vueltas De La Vida",
+        "url": "https://open.spotify.com/album/1EwUWq8uTZHRoAfnmo51W7"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Pisto En Mano Y Humo Al Viento",
+      "url": "https://open.spotify.com/track/0V7SFLu8aL8JPVJagw0D0x"
     },
     {
       "added_at": null,

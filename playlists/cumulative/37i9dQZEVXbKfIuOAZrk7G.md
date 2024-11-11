@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-3,149 songs - 6 day 22 hr 36 min
+3,150 songs - 6 day 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1149,6 +1149,7 @@
 | [Her](https://open.spotify.com/track/35GgAB0EsyT9hpk0FnGdhU) | [The American Dawn](https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11) | [Her](https://open.spotify.com/album/7gFpWJWAqevc68PkrStDOW) | 3:34 | 2024-10-13 | 2024-10-19 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-09-27 | 2023-02-22 |
 | [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-09-12 | 2023-10-04 |
+| [Hey Minnale \(From "Amaran"\) \(Tamil\)](https://open.spotify.com/track/1kmJ0EvXClJAt0fSSQLX1m) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Karthik Netha](https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55) | [Hey Minnale \(From "Amaran"\) \(Tamil\)](https://open.spotify.com/album/0Wmaf5kSAnQ3hSn09w9BYR) | 3:49 | 2024-11-10 |  |
 | [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 | 2023-01-16 | 2023-02-22 |
 | [Hi Ren](https://open.spotify.com/track/0FLwYQoXvX8q5iRZnFX59u) | [Ren](https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM) | [Hi Ren](https://open.spotify.com/album/2wXIwZRV93MS5en0FQuDMA) | 8:35 | 2024-08-12 | 2024-09-08 |
 | [Hi\-De\-Ho](https://open.spotify.com/track/0LlnJ2EWpASLpjvtSQ8Yjd) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:56 | 2022-04-13 | 2022-04-19 |
@@ -2990,7 +2991,7 @@
 | [Welcome to My House](https://open.spotify.com/track/44AsWSTC6Gya2Iej5bt4kU) | [Nu Breed](https://open.spotify.com/artist/2ZF8iE0ZcQ2pZ4Znb5zhMk), [Jesse Howard](https://open.spotify.com/artist/5OCUYrCpvsYCOl5sCLi8eG) | [Outlaw Nation, Vol\. 1](https://open.spotify.com/album/3nkilzWR86VfxIMpMGHU8y) | 6:45 | 2022-02-02 | 2022-02-07 |
 | [Welcome to the DCC](https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Welcome to the DCC](https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE) | 3:18 | 2023-04-11 | 2023-04-17 |
 | [Welcome To The Revolution](https://open.spotify.com/track/4ljFUG0mEiMkjyrTJ0nC2I) | [Hi\-Rez](https://open.spotify.com/artist/7CWvyZsjuJlxfM8Le6B9nP), [Jimmy Levy](https://open.spotify.com/artist/3IWWEdcjhQ3aU6WIk7XdgZ), [Jimmy Levy & Hi\-Rez](https://open.spotify.com/artist/30jEuOwxZdqvTEUGRNQFgo) | [Welcome To The Revolution](https://open.spotify.com/album/7mexqsoHRsfOMLPO5a9Esk) | 3:28 | 2022-02-04 | 2022-02-06 |
-| [weren't for the wind](https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:13 | 2024-11-08 |  |
+| [weren't for the wind](https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:13 | 2024-11-08 | 2024-11-11 |
 | [weren't for the wind](https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [weren't for the wind](https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN) | 3:13 | 2024-10-22 | 2024-11-02 |
 | [Western Feel](https://open.spotify.com/track/3rlvbjfpqqWuQl2ETguChL) | [Bartel Union](https://open.spotify.com/artist/35kmc06K5kO5kruT5qrWzR) | [Western Feel](https://open.spotify.com/album/0WFdtGP2EZVOiemiJyr585) | 3:15 | 2022-02-19 | 2022-02-22 |
 | [What a Girl Wants \- ft\. Sabrina Carpenter \- Live \- Spotify Anniversaries Version](https://open.spotify.com/track/3U7M2pRGnFk41lVf6bF2fH) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [The 25th Anniversary of Christina Aguilera \| Spotify Anniversaries LIVE](https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo) | 3:55 | 2024-10-08 | 2024-10-11 |

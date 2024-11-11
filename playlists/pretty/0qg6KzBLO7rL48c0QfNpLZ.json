@@ -1,12 +1,12 @@
 {
   "description": "The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom \ud83c\udf03",
-  "num_followers": 115002,
+  "num_followers": 115001,
   "original_name": "Background Chill Music 2024 \ud83c\udf03",
   "owner": {
     "name": "Intact Records",
     "url": "https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q"
   },
-  "snapshot_id": "AAAbUKg7AphBJbVxOqY3CqNIxzzgqapI",
+  "snapshot_id": "AAAbXBHnyW59045wGCqjI84wvsWIN3+5",
   "tracks": [
     {
       "added_at": "2024-09-14 16:07:28",
@@ -77,50 +77,6 @@
       "url": "https://open.spotify.com/track/0aEGr7B1y5OVGdIXxQVnMS"
     },
     {
-      "added_at": "2024-11-08 09:40:39",
-      "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/4KmfIzHr2EzwHHCQ6ZCSxC"
-      },
-      "artists": [
-        {
-          "name": "Alberto Ciccarini",
-          "url": "https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS"
-        },
-        {
-          "name": "Jordan Grace",
-          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
-        },
-        {
-          "name": "Poul",
-          "url": "https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj"
-        }
-      ],
-      "duration_ms": 181428,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/0Mk3IjxPycJfb4y3vCDhRk"
-    },
-    {
-      "added_at": "2024-11-08 09:40:59",
-      "album": {
-        "name": "Don't Let me Down",
-        "url": "https://open.spotify.com/album/5vMQRpQFczyTqPXCWE31xv"
-      },
-      "artists": [
-        {
-          "name": "Jessi G",
-          "url": "https://open.spotify.com/artist/32deb5fStB5qWw0sM3BDGU"
-        },
-        {
-          "name": "FN Chill",
-          "url": "https://open.spotify.com/artist/60LpFfDTaI1Gn2qN42sRb7"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Don't Let me Down",
-      "url": "https://open.spotify.com/track/3arlX0BcByee6qIN0zmofo"
-    },
-    {
       "added_at": "2024-10-04 12:02:30",
       "album": {
         "name": "When The Beat Drops Out",
@@ -143,6 +99,50 @@
       "duration_ms": 144571,
       "name": "When The Beat Drops Out",
       "url": "https://open.spotify.com/track/0TV5O9DZxQ561w1fNc0TSg"
+    },
+    {
+      "added_at": "2024-10-18 11:03:50",
+      "album": {
+        "name": "Alelujah",
+        "url": "https://open.spotify.com/album/3eOxFHdq1RsJExvDpQSCPL"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "Nuage",
+          "url": "https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY"
+        },
+        {
+          "name": "Daramola",
+          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Alelujah",
+      "url": "https://open.spotify.com/track/5p2rlMbmxEWso65tCF6u62"
+    },
+    {
+      "added_at": "2024-11-08 09:40:59",
+      "album": {
+        "name": "Don't Let me Down",
+        "url": "https://open.spotify.com/album/5vMQRpQFczyTqPXCWE31xv"
+      },
+      "artists": [
+        {
+          "name": "Jessi G",
+          "url": "https://open.spotify.com/artist/32deb5fStB5qWw0sM3BDGU"
+        },
+        {
+          "name": "FN Chill",
+          "url": "https://open.spotify.com/artist/60LpFfDTaI1Gn2qN42sRb7"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Don't Let me Down",
+      "url": "https://open.spotify.com/track/3arlX0BcByee6qIN0zmofo"
     },
     {
       "added_at": "2024-11-08 10:14:34",
@@ -249,6 +249,30 @@
       "url": "https://open.spotify.com/track/3OmjZrycraEy41ASkFH1Vj"
     },
     {
+      "added_at": "2024-11-08 09:40:39",
+      "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/4KmfIzHr2EzwHHCQ6ZCSxC"
+      },
+      "artists": [
+        {
+          "name": "Alberto Ciccarini",
+          "url": "https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        },
+        {
+          "name": "Poul",
+          "url": "https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj"
+        }
+      ],
+      "duration_ms": 181428,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0Mk3IjxPycJfb4y3vCDhRk"
+    },
+    {
       "added_at": "2024-11-01 09:50:48",
       "album": {
         "name": "I Don't Wanna Wait",
@@ -285,6 +309,26 @@
       "url": "https://open.spotify.com/track/16SjfdDm4DGNeSPEGlqoxy"
     },
     {
+      "added_at": "2024-11-08 11:38:41",
+      "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/3THzL4WD6gDchf2jAwpXNj"
+      },
+      "artists": [
+        {
+          "name": "Jako Diaz",
+          "url": "https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz"
+        },
+        {
+          "name": "RYTERBAND",
+          "url": "https://open.spotify.com/artist/61Mh2TdtNylCeUzkVNjbuP"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/2m8wQDC4VXAFJ5XkV7ktSB"
+    },
+    {
       "added_at": "2024-11-01 09:17:25",
       "album": {
         "name": "Show U",
@@ -309,6 +353,22 @@
       "url": "https://open.spotify.com/track/6xSWdxVYlsKWgksGySoOoY"
     },
     {
+      "added_at": "2024-11-08 11:38:49",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/1SL1alWSJ6nw35EWnkH6OP"
+      },
+      "artists": [
+        {
+          "name": "Jake and the colors",
+          "url": "https://open.spotify.com/artist/34kFVk5BmD7S3KGGiOnCvJ"
+        }
+      ],
+      "duration_ms": 137704,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/2FSsaOoQEXreqPM4dHn845"
+    },
+    {
       "added_at": "2024-11-01 09:50:19",
       "album": {
         "name": "Move",
@@ -325,28 +385,20 @@
       "url": "https://open.spotify.com/track/5Ge8XlyxemWkqrLYIRUiWG"
     },
     {
-      "added_at": "2024-10-18 11:03:50",
+      "added_at": "2024-11-08 11:38:56",
       "album": {
-        "name": "Alelujah",
-        "url": "https://open.spotify.com/album/3eOxFHdq1RsJExvDpQSCPL"
+        "name": "Into the Water",
+        "url": "https://open.spotify.com/album/3e0ZaVDHBIAblgnXHMHSjZ"
       },
       "artists": [
         {
-          "name": "Rolipso",
-          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
-        },
-        {
-          "name": "Nuage",
-          "url": "https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY"
-        },
-        {
-          "name": "Daramola",
-          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
+          "name": "Luna Blue",
+          "url": "https://open.spotify.com/artist/1JNyuExWIvx8kH5NOlSBuA"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Alelujah",
-      "url": "https://open.spotify.com/track/5p2rlMbmxEWso65tCF6u62"
+      "duration_ms": 156428,
+      "name": "Into the Water",
+      "url": "https://open.spotify.com/track/0shOwMJjyATrSzerdNzXXs"
     },
     {
       "added_at": "2024-11-01 14:18:31",
@@ -375,6 +427,82 @@
       "duration_ms": 170689,
       "name": "Moments Away",
       "url": "https://open.spotify.com/track/1sR1g3504zuwjd0rv7mM0r"
+    },
+    {
+      "added_at": "2024-11-08 15:36:01",
+      "album": {
+        "name": "Promises, Promises",
+        "url": "https://open.spotify.com/album/160E1BITDJgCCraFVtU5FX"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        },
+        {
+          "name": "Maution",
+          "url": "https://open.spotify.com/artist/27kMgg4aA7BgvyfwdU2niZ"
+        }
+      ],
+      "duration_ms": 136629,
+      "name": "Promises, Promises",
+      "url": "https://open.spotify.com/track/0ayX5J5IpyevJDlYpn0fyk"
+    },
+    {
+      "added_at": "2024-11-08 15:36:08",
+      "album": {
+        "name": "Not The Same",
+        "url": "https://open.spotify.com/album/5JCEnewJjR61YLzCCfdo1m"
+      },
+      "artists": [
+        {
+          "name": "Tim Olsson",
+          "url": "https://open.spotify.com/artist/3efoFjvdNKj8La91WgFA1j"
+        }
+      ],
+      "duration_ms": 129503,
+      "name": "Not The Same",
+      "url": "https://open.spotify.com/track/32e05bh8PwpBFV8vRwHGP8"
+    },
+    {
+      "added_at": "2024-11-08 13:47:14",
+      "album": {
+        "name": "I Don't Wanna Lose U",
+        "url": "https://open.spotify.com/album/71s7xJEcWCbix9IJOMGGCx"
+      },
+      "artists": [
+        {
+          "name": "ZEXTONE",
+          "url": "https://open.spotify.com/artist/0t2rVUFJxfR071gkSIwiCC"
+        },
+        {
+          "name": "Krees Waves",
+          "url": "https://open.spotify.com/artist/76J5VMmF1dqV9Gh3UxOypV"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "I Don't Wanna Lose U",
+      "url": "https://open.spotify.com/track/0dhzpzkn3RpJLrgjzM8CB9"
+    },
+    {
+      "added_at": "2024-11-08 13:47:06",
+      "album": {
+        "name": "Do You?",
+        "url": "https://open.spotify.com/album/0erzAxltvYVnOFMzIBS5qT"
+      },
+      "artists": [
+        {
+          "name": "RAZZ",
+          "url": "https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l"
+        },
+        {
+          "name": "CUBY",
+          "url": "https://open.spotify.com/artist/6n1wZRMdadogX69VCHg9F0"
+        }
+      ],
+      "duration_ms": 177832,
+      "name": "Do You?",
+      "url": "https://open.spotify.com/track/7agT62ZexUHrtiuqtspXiB"
     },
     {
       "added_at": "2024-09-15 11:10:15",
@@ -4963,134 +5091,6 @@
       "duration_ms": 170086,
       "name": "Feel That Way",
       "url": "https://open.spotify.com/track/0UTnGfNzQdPTZBnvMmbcU1"
-    },
-    {
-      "added_at": "2024-11-08 11:38:41",
-      "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/3THzL4WD6gDchf2jAwpXNj"
-      },
-      "artists": [
-        {
-          "name": "Jako Diaz",
-          "url": "https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz"
-        },
-        {
-          "name": "RYTERBAND",
-          "url": "https://open.spotify.com/artist/61Mh2TdtNylCeUzkVNjbuP"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/2m8wQDC4VXAFJ5XkV7ktSB"
-    },
-    {
-      "added_at": "2024-11-08 11:38:49",
-      "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/1SL1alWSJ6nw35EWnkH6OP"
-      },
-      "artists": [
-        {
-          "name": "Jake and the colors",
-          "url": "https://open.spotify.com/artist/34kFVk5BmD7S3KGGiOnCvJ"
-        }
-      ],
-      "duration_ms": 137704,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/2FSsaOoQEXreqPM4dHn845"
-    },
-    {
-      "added_at": "2024-11-08 11:38:56",
-      "album": {
-        "name": "Into the Water",
-        "url": "https://open.spotify.com/album/3e0ZaVDHBIAblgnXHMHSjZ"
-      },
-      "artists": [
-        {
-          "name": "Luna Blue",
-          "url": "https://open.spotify.com/artist/1JNyuExWIvx8kH5NOlSBuA"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "Into the Water",
-      "url": "https://open.spotify.com/track/0shOwMJjyATrSzerdNzXXs"
-    },
-    {
-      "added_at": "2024-11-08 13:47:06",
-      "album": {
-        "name": "Do You?",
-        "url": "https://open.spotify.com/album/0erzAxltvYVnOFMzIBS5qT"
-      },
-      "artists": [
-        {
-          "name": "RAZZ",
-          "url": "https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l"
-        },
-        {
-          "name": "CUBY",
-          "url": "https://open.spotify.com/artist/6n1wZRMdadogX69VCHg9F0"
-        }
-      ],
-      "duration_ms": 177832,
-      "name": "Do You?",
-      "url": "https://open.spotify.com/track/7agT62ZexUHrtiuqtspXiB"
-    },
-    {
-      "added_at": "2024-11-08 13:47:14",
-      "album": {
-        "name": "I Don't Wanna Lose U",
-        "url": "https://open.spotify.com/album/71s7xJEcWCbix9IJOMGGCx"
-      },
-      "artists": [
-        {
-          "name": "ZEXTONE",
-          "url": "https://open.spotify.com/artist/0t2rVUFJxfR071gkSIwiCC"
-        },
-        {
-          "name": "Krees Waves",
-          "url": "https://open.spotify.com/artist/76J5VMmF1dqV9Gh3UxOypV"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "I Don't Wanna Lose U",
-      "url": "https://open.spotify.com/track/0dhzpzkn3RpJLrgjzM8CB9"
-    },
-    {
-      "added_at": "2024-11-08 15:36:01",
-      "album": {
-        "name": "Promises, Promises",
-        "url": "https://open.spotify.com/album/160E1BITDJgCCraFVtU5FX"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        },
-        {
-          "name": "Maution",
-          "url": "https://open.spotify.com/artist/27kMgg4aA7BgvyfwdU2niZ"
-        }
-      ],
-      "duration_ms": 136629,
-      "name": "Promises, Promises",
-      "url": "https://open.spotify.com/track/0ayX5J5IpyevJDlYpn0fyk"
-    },
-    {
-      "added_at": "2024-11-08 15:36:08",
-      "album": {
-        "name": "Not The Same",
-        "url": "https://open.spotify.com/album/5JCEnewJjR61YLzCCfdo1m"
-      },
-      "artists": [
-        {
-          "name": "Tim Olsson",
-          "url": "https://open.spotify.com/artist/3efoFjvdNKj8La91WgFA1j"
-        }
-      ],
-      "duration_ms": 129503,
-      "name": "Not The Same",
-      "url": "https://open.spotify.com/track/32e05bh8PwpBFV8vRwHGP8"
     }
   ],
   "unique_name": "Background Chill Music 2024 \ud83c\udf03",

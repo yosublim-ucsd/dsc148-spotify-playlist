@@ -1,6 +1,6 @@
 {
   "description": "have you noticed? \ud83d\udeac\ud83e\udde1",
-  "num_followers": 214973,
+  "num_followers": 214961,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Save You a Seat",
+        "url": "https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Save You a Seat",
+      "url": "https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "LOVE AGAIN",
         "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
       },
@@ -339,18 +355,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Save You a Seat",
-        "url": "https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu"
+        "name": "last night's mascara",
+        "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 197573,
-      "name": "Save You a Seat",
-      "url": "https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id"
+      "duration_ms": 177350,
+      "name": "last night's mascara",
+      "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -419,22 +435,6 @@
       "duration_ms": 120834,
       "name": "L\u00e5t Mig Va",
       "url": "https://open.spotify.com/track/6Vbgg3C5Qo7olhjIIr1r4e"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "last night's mascara",
-        "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 177350,
-      "name": "last night's mascara",
-      "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -639,26 +639,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "FRIHET I LENKER",
-        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        },
-        {
-          "name": "Aiba",
-          "url": "https://open.spotify.com/artist/6Lu4e8FvAWcp1S5BVoDLjJ"
-        }
-      ],
-      "duration_ms": 178226,
-      "name": "VIS MEG DIN VERDEN",
-      "url": "https://open.spotify.com/track/4xqPNwRkLyiiV2oqju92ie"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Ring meg opp",
         "url": "https://open.spotify.com/album/1FG8tvdPFJpv1ZA4vQu00P"
       },
@@ -695,18 +675,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "VENUS",
-        "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
+        "name": "F*en Ikke Kjendis",
+        "url": "https://open.spotify.com/album/0vLvHYXg5iwwHmr8nX7Dnw"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Golfklubb",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
         }
       ],
-      "duration_ms": 196939,
-      "name": "Can't Tame Her",
-      "url": "https://open.spotify.com/track/1G1kKHczSz6Xqv5dCmtkL4"
+      "duration_ms": 172346,
+      "name": "F*en Ikke Kjendis",
+      "url": "https://open.spotify.com/track/36nFVYgHwi5J9DMkOl7dK6"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -731,6 +711,42 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "FRIHET I LENKER",
+        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        },
+        {
+          "name": "Aiba",
+          "url": "https://open.spotify.com/artist/6Lu4e8FvAWcp1S5BVoDLjJ"
+        }
+      ],
+      "duration_ms": 178226,
+      "name": "VIS MEG DIN VERDEN",
+      "url": "https://open.spotify.com/track/4xqPNwRkLyiiV2oqju92ie"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "VENUS",
+        "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 196939,
+      "name": "Can't Tame Her",
+      "url": "https://open.spotify.com/track/1G1kKHczSz6Xqv5dCmtkL4"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "BRENTE BROER",
         "url": "https://open.spotify.com/album/62lXZLbHfnCg9qTZoA6aM0"
       },
@@ -747,38 +763,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "FRIHET I LENKER",
-        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
+        "name": "Bless Meg",
+        "url": "https://open.spotify.com/album/37LSdJ7yCR1AbnOuID6fOq"
       },
       "artists": [
         {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        },
-        {
-          "name": "Kaja Gunnufsen",
-          "url": "https://open.spotify.com/artist/5tdUPxmXm8l09CGFHOyRSa"
+          "name": "S\u00f8te og Rare Gutter",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
         }
       ],
-      "duration_ms": 170146,
-      "name": "BIPOLAR",
-      "url": "https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "F*en Ikke Kjendis",
-        "url": "https://open.spotify.com/album/0vLvHYXg5iwwHmr8nX7Dnw"
-      },
-      "artists": [
-        {
-          "name": "Golfklubb",
-          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
-        }
-      ],
-      "duration_ms": 172346,
-      "name": "F*en Ikke Kjendis",
-      "url": "https://open.spotify.com/track/36nFVYgHwi5J9DMkOl7dK6"
+      "duration_ms": 144000,
+      "name": "Bless Meg",
+      "url": "https://open.spotify.com/track/0bQ6SuPWpMSFXXP3yVlexZ"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -835,22 +831,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Bless Meg",
-        "url": "https://open.spotify.com/album/37LSdJ7yCR1AbnOuID6fOq"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8te og Rare Gutter",
-          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Bless Meg",
-      "url": "https://open.spotify.com/track/0bQ6SuPWpMSFXXP3yVlexZ"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Ingen andre (feat. Chris Holsten)",
         "url": "https://open.spotify.com/album/41qBtz2LfCm0J1GaDy1sa5"
       },
@@ -883,6 +863,22 @@
       "duration_ms": 186000,
       "name": "hva om jeg slutta \u00e5 bry meg",
       "url": "https://open.spotify.com/track/4X1EwzdgQpIIqzHO5HVYQ2"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "S\u00e5nne Som Oss",
+        "url": "https://open.spotify.com/album/7puoXTrLHsfCvDfj1Rqj61"
+      },
+      "artists": [
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        }
+      ],
+      "duration_ms": 172596,
+      "name": "S\u00e5nne Som Oss",
+      "url": "https://open.spotify.com/track/2c6gm3rPfI0XGgbvm2mK3y"
     }
   ],
   "unique_name": "ung, dum & lovende",

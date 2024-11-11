@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Always and Never",
+        "url": "https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291822,
+      "name": "All for You",
+      "url": "https://open.spotify.com/track/53VfHyJ5ka24B09kC10ye7"
+    },
+    {
+      "album": {
         "name": "Always And Never",
         "url": "https://open.spotify.com/album/0WMrKEAvHgKZAVz1LEZgwF"
       },
@@ -106,7 +124,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 291822,
       "name": "All for You",
       "url": "https://open.spotify.com/track/6FxDpqMesj7mdDplzkHHcw"
@@ -124,10 +142,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 313757,
       "name": "All Hail The Serpent Queen Pt. 3 of 3 (Trilogy) (Holy Hell!)",
       "url": "https://open.spotify.com/track/3LNTphUmLhEtnvd5d4uzs5"
+    },
+    {
+      "album": {
+        "name": "All Hail the Serpent Queen Pt. 3 of 3 (Trilogy) [Holy Hell!]",
+        "url": "https://open.spotify.com/album/04jVIJ1KtHZzr8oNZa1go5"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313757,
+      "name": "All Hail the Serpent Queen Pt. 3 of 3 (Trilogy) [Holy Hell!]",
+      "url": "https://open.spotify.com/track/7MICU4JkM1QzBDlt7gjv78"
     },
     {
       "album": {
@@ -578,10 +614,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 214013,
       "name": "Death Goes to Disco",
       "url": "https://open.spotify.com/track/6GQhMDUodwjTGsWvPUqTCN"
+    },
+    {
+      "album": {
+        "name": "Always and Never",
+        "url": "https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214013,
+      "name": "Death Goes to Disco",
+      "url": "https://open.spotify.com/track/6pahHXIyqb8ZHHxiggzcKu"
     },
     {
       "album": {
@@ -1028,10 +1082,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 197413,
       "name": "Going Away",
       "url": "https://open.spotify.com/track/1iT1iNW36yBgDcfvtROA3H"
+    },
+    {
+      "album": {
+        "name": "Always and Never",
+        "url": "https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197413,
+      "name": "Going Away",
+      "url": "https://open.spotify.com/track/6xDSqKVF9KUHqsq5b4wQSF"
     },
     {
       "album": {
@@ -1288,10 +1360,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 201973,
       "name": "I Would - Australian Version",
       "url": "https://open.spotify.com/track/3VAlgnWebpkajPC1GVeeYE"
+    },
+    {
+      "album": {
+        "name": "My Only",
+        "url": "https://open.spotify.com/album/1YWbJuyQjHIqpIMwZt5Zvp"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201973,
+      "name": "I Would - Australian Version",
+      "url": "https://open.spotify.com/track/3lGjD7k0g4VopZ1M9WyIYm"
     },
     {
       "album": {
@@ -1583,6 +1673,24 @@
     },
     {
       "album": {
+        "name": "Always and Never",
+        "url": "https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138453,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/13zX3ZirV5BtAPfY7hxwPs"
+    },
+    {
+      "album": {
         "name": "Always And Never",
         "url": "https://open.spotify.com/album/0WMrKEAvHgKZAVz1LEZgwF"
       },
@@ -1594,7 +1702,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 138453,
       "name": "Loner",
       "url": "https://open.spotify.com/track/4Qn7RSdNbaH3SnLAgsk5KS"
@@ -1899,6 +2007,24 @@
     },
     {
       "album": {
+        "name": "Always and Never",
+        "url": "https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152306,
+      "name": "My Only - Australian Version",
+      "url": "https://open.spotify.com/track/01VFBMQLUpPQNToSqz2eIW"
+    },
+    {
+      "album": {
         "name": "Always And Never",
         "url": "https://open.spotify.com/album/0WMrKEAvHgKZAVz1LEZgwF"
       },
@@ -1910,7 +2036,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 152306,
       "name": "My Only - Australian Version",
       "url": "https://open.spotify.com/track/2CWbf5NVt0SaqZgcAlnRss"
@@ -2007,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "Always and Never",
+        "url": "https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193920,
+      "name": "No Way to Escape",
+      "url": "https://open.spotify.com/track/3MBFqZzK2l8lThJ5Vbw067"
+    },
+    {
+      "album": {
         "name": "Always And Never",
         "url": "https://open.spotify.com/album/0WMrKEAvHgKZAVz1LEZgwF"
       },
@@ -2018,7 +2162,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 193920,
       "name": "No Way to Escape",
       "url": "https://open.spotify.com/track/75qfcl9wXd2kwnhFA4O6Yk"
@@ -2083,6 +2227,24 @@
     },
     {
       "album": {
+        "name": "Always and Never",
+        "url": "https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231813,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/1t6loNOqI2kUDE74FDjE6f"
+    },
+    {
+      "album": {
         "name": "Always And Never",
         "url": "https://open.spotify.com/album/0WMrKEAvHgKZAVz1LEZgwF"
       },
@@ -2094,7 +2256,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 231813,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/4I8dUgcNFZL0VXtDkduu7V"
@@ -2497,6 +2659,24 @@
     },
     {
       "album": {
+        "name": "Always and Never",
+        "url": "https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188920,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/14AZMIKWh6fBGfW9URdpEM"
+    },
+    {
+      "album": {
         "name": "Always And Never",
         "url": "https://open.spotify.com/album/0WMrKEAvHgKZAVz1LEZgwF"
       },
@@ -2508,10 +2688,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 188920,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/7hSmyd30LGiQRG057XaRM7"
+    },
+    {
+      "album": {
+        "name": "Always and Never",
+        "url": "https://open.spotify.com/album/3x3lrvuEZeyt6ocLp4XTOT"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188960,
+      "name": "Suffocating Slow",
+      "url": "https://open.spotify.com/track/31NFESnhQMw2XQMt41EJ1Q"
     },
     {
       "album": {
@@ -2526,7 +2724,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 188960,
       "name": "Suffocating Slow",
       "url": "https://open.spotify.com/track/6Kqyu4rJpZTSbSk9hxU8ec"
@@ -2641,8 +2839,8 @@
     },
     {
       "album": {
-        "name": "Always And Never",
-        "url": "https://open.spotify.com/album/0WMrKEAvHgKZAVz1LEZgwF"
+        "name": "Always and Never",
+        "url": "https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0"
       },
       "artists": [
         {
@@ -2650,12 +2848,12 @@
           "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
         }
       ],
-      "date_added": "2024-01-29",
+      "date_added": "2024-11-10",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 218586,
       "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/4KkIc6yNowJnCkDS9D9lj7"
+      "url": "https://open.spotify.com/track/0UBdJfTnB82221NYnIsT5R"
     },
     {
       "album": {
@@ -2670,7 +2868,43 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
+      "date_removed": "2024-11-11",
+      "duration_ms": 218586,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/4KkIc6yNowJnCkDS9D9lj7"
+    },
+    {
+      "album": {
+        "name": "Always and Never",
+        "url": "https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 183106,
+      "name": "Taking Over",
+      "url": "https://open.spotify.com/track/10rEtKe5cOD9YSDTXYRaYh"
+    },
+    {
+      "album": {
+        "name": "Always And Never",
+        "url": "https://open.spotify.com/album/0WMrKEAvHgKZAVz1LEZgwF"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-11-11",
       "duration_ms": 183106,
       "name": "Taking Over",
       "url": "https://open.spotify.com/track/2GsdQMwJBqa9q9L6kxpdQV"
@@ -3023,6 +3257,24 @@
     },
     {
       "album": {
+        "name": "Always and Never",
+        "url": "https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48493,
+      "name": "Welcome to Hell (Intro)",
+      "url": "https://open.spotify.com/track/2SeaJ3G6v4VeF9n4P7PgEq"
+    },
+    {
+      "album": {
         "name": "Always And Never",
         "url": "https://open.spotify.com/album/0WMrKEAvHgKZAVz1LEZgwF"
       },
@@ -3034,7 +3286,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 48493,
       "name": "Welcome to Hell (Intro)",
       "url": "https://open.spotify.com/track/6dX1aXRztvGlL5OziqQEEG"

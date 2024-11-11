@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from FAVE  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,201 likes - 49 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,260 likes - 49 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 44 | [I Thank God](https://open.spotify.com/track/0wKEzaeCkWpV9KozmV1rgm) | [Dr Barz](https://open.spotify.com/artist/6EkYs8dTF0mOgaDtIpIzc8), [Nazerene](https://open.spotify.com/artist/0CeuhcedvmCYpyI83tpdDc) | [I Thank God](https://open.spotify.com/album/5nznlazssE4a8MKXQSmMQW) | 2:28 |
 | 45 | [Chioma](https://open.spotify.com/track/770hp1DjBzMtAviOEKBggH) | [Stalkar](https://open.spotify.com/artist/791VN71STImEqM3k93tzLI) | [Rhythm Of Life](https://open.spotify.com/album/1PylqI94cDLQDXLG3neA6u) | 2:31 |
 | 46 | [Sema Nami](https://open.spotify.com/track/4LH6QfIW1VnCSqVHYiXhO4) | [Aurie](https://open.spotify.com/artist/0mdtCl5QYMb1p4y24HJQi8) | [S'tori](https://open.spotify.com/album/4FxOsz3mcWnGN54Bjftq3e) | 2:29 |
-| 47 | [Ayufili Nah](https://open.spotify.com/track/6xy3DFVNV2qYdZ2vJrQLMk) | [Cee 2](https://open.spotify.com/artist/0UD0az0aCNW1TLX3vEkc9l), [AyTraQ](https://open.spotify.com/artist/0Yk4FK3u27GslPyZhbVQ3G) | [Ayufili Nah](https://open.spotify.com/album/3episDCiB4JjV1VuNTBF6E) | 2:18 |
+| 47 | [Ayufili Nah](https://open.spotify.com/track/6xy3DFVNV2qYdZ2vJrQLMk) | [AyTraQ](https://open.spotify.com/artist/0Yk4FK3u27GslPyZhbVQ3G), [Cee 2](https://open.spotify.com/artist/0UD0az0aCNW1TLX3vEkc9l) | [Ayufili Nah](https://open.spotify.com/album/3episDCiB4JjV1VuNTBF6E) | 2:18 |
 | 48 | [Pretty Woman](https://open.spotify.com/track/3eVsns9jeEwsIF3bEnh7LX) | [Costi](https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Constantin 1.0](https://open.spotify.com/album/79bGojvKUhjXAVJWyYFPWs) | 3:25 |
 | 49 | [Paste Am](https://open.spotify.com/track/2qH0azfcL1mwuCSz5p5dLe) | [Kaptain](https://open.spotify.com/artist/7ML0FG7erVlQvCsfktO4EH) | [Paste Am](https://open.spotify.com/album/3LZGZqRMT8FYDQzpXQ5AT8) | 2:34 |
 

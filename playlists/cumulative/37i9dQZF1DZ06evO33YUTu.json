@@ -607,6 +607,28 @@
     },
     {
       "album": {
+        "name": "En Las Nubes - Con Mis Panas",
+        "url": "https://open.spotify.com/album/58836hf4URoAA7GyUvFm2Q"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179413,
+      "name": "Guatap\u00e9",
+      "url": "https://open.spotify.com/track/0lLo2KPtFaXcB82klIgMN6"
+    },
+    {
+      "album": {
         "name": "I Love You (432 Hz) (with Greeicy)",
         "url": "https://open.spotify.com/album/3HI2xAgLyGEw4w66lmwUQk"
       },
@@ -1566,7 +1588,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 139973,
       "name": "Vete",
       "url": "https://open.spotify.com/track/58LhEQTSIEG3nOTiucvNR3"

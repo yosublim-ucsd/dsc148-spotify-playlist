@@ -1,6 +1,6 @@
 {
   "description": "The best in Dancehall for the gyaldem. Cover: Tina (Hoodcelebrityy)",
-  "num_followers": 10890,
+  "num_followers": 10977,
   "original_name": "Dancehall Queen",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
+        "name": "Foreplay",
+        "url": "https://open.spotify.com/album/7fMMeGFAPp2upuxTKqofYp"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 166159,
+      "name": "Foreplay",
+      "url": "https://open.spotify.com/track/3QFOdlIjY2EyjLij20OjdB"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
         "name": "Come Over (feat. Popcaan)",
         "url": "https://open.spotify.com/album/6sYqQ3Pem0Ml376lKx545S"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "Foreplay",
-        "url": "https://open.spotify.com/album/7fMMeGFAPp2upuxTKqofYp"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 166159,
-      "name": "Foreplay",
-      "url": "https://open.spotify.com/track/3QFOdlIjY2EyjLij20OjdB"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
         "name": "So Mi Like It",
         "url": "https://open.spotify.com/album/3VsPJKD7uZPIYB4SNGeLRt"
       },
@@ -411,6 +411,30 @@
       "duration_ms": 160724,
       "name": "Brik Pan Brik",
       "url": "https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
+        "name": "Lighter (with Tarrus Riley & Rvssian)",
+        "url": "https://open.spotify.com/album/11FhJslAwiGqGYP2TLOVBq"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Tarrus Riley",
+          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "duration_ms": 124515,
+      "name": "Lighter (with Tarrus Riley & Rvssian)",
+      "url": "https://open.spotify.com/track/1AAkIj1NSdpaoOZYctGnrg"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -471,22 +495,42 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "Play Tune (So so So)",
-        "url": "https://open.spotify.com/album/4RpaPKaKYPz6FBv1a01xKn"
+        "name": "Needle Eye - Single",
+        "url": "https://open.spotify.com/album/3xMal1HXLb88nb1EpVi8mv"
       },
       "artists": [
         {
-          "name": "Dj Coss",
-          "url": "https://open.spotify.com/artist/4IdDstOFVfpr5iLAezYLOw"
-        },
-        {
-          "name": "Macka Diamond",
-          "url": "https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i"
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
         }
       ],
-      "duration_ms": 167272,
-      "name": "Play Tune (So so So) [Radio Edit]",
-      "url": "https://open.spotify.com/track/1MB6CjaR3z8YA3yIo4HdFv"
+      "duration_ms": 185626,
+      "name": "Needle Eye",
+      "url": "https://open.spotify.com/track/6gt4crRNZ5Soua4BP52HXv"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
+        "name": "Hard Drive",
+        "url": "https://open.spotify.com/album/4y2mW0Vpyc897XhWl8K6B9"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "duration_ms": 168751,
+      "name": "Hard Drive",
+      "url": "https://open.spotify.com/track/4tw57jakL7TFEdZ4bUohP1"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -515,18 +559,22 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "Needle Eye - Single",
-        "url": "https://open.spotify.com/album/3xMal1HXLb88nb1EpVi8mv"
+        "name": "Play Tune (So so So)",
+        "url": "https://open.spotify.com/album/4RpaPKaKYPz6FBv1a01xKn"
       },
       "artists": [
         {
-          "name": "Spice",
-          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+          "name": "Dj Coss",
+          "url": "https://open.spotify.com/artist/4IdDstOFVfpr5iLAezYLOw"
+        },
+        {
+          "name": "Macka Diamond",
+          "url": "https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i"
         }
       ],
-      "duration_ms": 185626,
-      "name": "Needle Eye",
-      "url": "https://open.spotify.com/track/6gt4crRNZ5Soua4BP52HXv"
+      "duration_ms": 167272,
+      "name": "Play Tune (So so So) [Radio Edit]",
+      "url": "https://open.spotify.com/track/1MB6CjaR3z8YA3yIo4HdFv"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -543,30 +591,6 @@
       "duration_ms": 230573,
       "name": "Man Is The Least",
       "url": "https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
-        "name": "Lighter (with Tarrus Riley & Rvssian)",
-        "url": "https://open.spotify.com/album/11FhJslAwiGqGYP2TLOVBq"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        },
-        {
-          "name": "Tarrus Riley",
-          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        }
-      ],
-      "duration_ms": 124515,
-      "name": "Lighter (with Tarrus Riley & Rvssian)",
-      "url": "https://open.spotify.com/track/1AAkIj1NSdpaoOZYctGnrg"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -639,22 +663,6 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "Preserve Mi Life",
-        "url": "https://open.spotify.com/album/27zFlK0mhEIf4tkjbVBAMR"
-      },
-      "artists": [
-        {
-          "name": "Jahvillani",
-          "url": "https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK"
-        }
-      ],
-      "duration_ms": 198268,
-      "name": "Nuh Reason",
-      "url": "https://open.spotify.com/track/3AjY1Uq9a0eMmuhLzddY5G"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
         "name": "Soca Gold 2007",
         "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
       },
@@ -671,26 +679,34 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "Hard Drive",
-        "url": "https://open.spotify.com/album/4y2mW0Vpyc897XhWl8K6B9"
+        "name": "Preserve Mi Life",
+        "url": "https://open.spotify.com/album/27zFlK0mhEIf4tkjbVBAMR"
+      },
+      "artists": [
+        {
+          "name": "Jahvillani",
+          "url": "https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK"
+        }
+      ],
+      "duration_ms": 198268,
+      "name": "Nuh Reason",
+      "url": "https://open.spotify.com/track/3AjY1Uq9a0eMmuhLzddY5G"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
+        "name": "The Sidechick Song",
+        "url": "https://open.spotify.com/album/0LUbxj9I4VJIVui4m2UGhC"
       },
       "artists": [
         {
           "name": "Shenseea",
           "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        },
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         }
       ],
-      "duration_ms": 168751,
-      "name": "Hard Drive",
-      "url": "https://open.spotify.com/track/4tw57jakL7TFEdZ4bUohP1"
+      "duration_ms": 193548,
+      "name": "The Sidechick Song",
+      "url": "https://open.spotify.com/track/75Z53FMCvlupjHfAh9XgDo"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -779,22 +795,6 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "The Queen of Bacchanal",
-        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 234242,
-      "name": "Just a Little Bit",
-      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
         "name": "Watch Dem",
         "url": "https://open.spotify.com/album/4RDFDKrZfd5LLdINaMEevT"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 140000,
       "name": "Watch Dem",
       "url": "https://open.spotify.com/track/1zwuv4ff9QdtX4RrN6Q4bU"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
-        "name": "The Sidechick Song",
-        "url": "https://open.spotify.com/album/0LUbxj9I4VJIVui4m2UGhC"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "The Sidechick Song",
-      "url": "https://open.spotify.com/track/75Z53FMCvlupjHfAh9XgDo"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -843,6 +827,22 @@
       "duration_ms": 158823,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/5D8ChOpWBYGR5R1NFDhL1z"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
+        "name": "The Queen of Bacchanal",
+        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 234242,
+      "name": "Just a Little Bit",
+      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "Heavy!",
-        "url": "https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9"
-      },
-      "artists": [
-        {
-          "name": "Jada Kingdom",
-          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
-        }
-      ],
-      "duration_ms": 165534,
-      "name": "Heavy!",
-      "url": "https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
         "name": "Drunk and Incapable (feat. Melissa Steel)",
         "url": "https://open.spotify.com/album/4tssOs2SnHrp17GH3TzkdK"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 200379,
       "name": "Drunk and Incapable (feat. Melissa Steel)",
       "url": "https://open.spotify.com/track/0rT8WoLQoffQ7PCzyHfODo"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
+        "name": "Heavy!",
+        "url": "https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9"
+      },
+      "artists": [
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "duration_ms": 165534,
+      "name": "Heavy!",
+      "url": "https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "Budum",
-        "url": "https://open.spotify.com/album/63u5t3q4Bxvpy2DTvOWaVo"
-      },
-      "artists": [
-        {
-          "name": "Jada Kingdom",
-          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
-        }
-      ],
-      "duration_ms": 165480,
-      "name": "Budum",
-      "url": "https://open.spotify.com/track/4yGNNviGXeLZlf70IwWwEK"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
         "name": "Turn Up",
         "url": "https://open.spotify.com/album/3kPls8TKkU0uoBNkYODLIi"
       },
@@ -1263,30 +1247,6 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "The Red Room Intro (Yard Gyal Inna Britain)",
-        "url": "https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH"
-      },
-      "artists": [
-        {
-          "name": "Alicai Harley",
-          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
-        },
-        {
-          "name": "Moelogo",
-          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
-        },
-        {
-          "name": "Nadia Rose",
-          "url": "https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO"
-        }
-      ],
-      "duration_ms": 156328,
-      "name": "No Rampin (feat. Moelogo & Nadia Rose)",
-      "url": "https://open.spotify.com/track/43u9qIHBXcZZPAP0chWeww"
-    },
-    {
-      "added_at": "2023-05-15 08:38:13",
-      "album": {
         "name": "Dumpling (Toddla T Remix)",
         "url": "https://open.spotify.com/album/4FxgvtP89Ep5lFOPSNB6pw"
       },
@@ -1311,6 +1271,22 @@
       "duration_ms": 159743,
       "name": "Dumpling - Toddla T Remix",
       "url": "https://open.spotify.com/track/0YLdHkSOh05jocGjQ8mpfc"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
+        "name": "Budum",
+        "url": "https://open.spotify.com/album/63u5t3q4Bxvpy2DTvOWaVo"
+      },
+      "artists": [
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "duration_ms": 165480,
+      "name": "Budum",
+      "url": "https://open.spotify.com/track/4yGNNviGXeLZlf70IwWwEK"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -1351,26 +1327,26 @@
     {
       "added_at": "2023-05-15 08:38:13",
       "album": {
-        "name": "Heavy! (Vybz Kartel Remix)",
-        "url": "https://open.spotify.com/album/3pjBdUQ3B9zLWc4y7GmDSE"
+        "name": "The Red Room Intro (Yard Gyal Inna Britain)",
+        "url": "https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH"
       },
       "artists": [
         {
-          "name": "Jada Kingdom",
-          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+          "name": "Alicai Harley",
+          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
         },
         {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+          "name": "Moelogo",
+          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
         },
         {
-          "name": "Dj Papis",
-          "url": "https://open.spotify.com/artist/3a2dlVcm5z0ha2j9ihlQmP"
+          "name": "Nadia Rose",
+          "url": "https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO"
         }
       ],
-      "duration_ms": 165717,
-      "name": "Heavy! (Vybz Kartel Remix)",
-      "url": "https://open.spotify.com/track/07XcuVPoyMogdiV4nBeCPt"
+      "duration_ms": 156328,
+      "name": "No Rampin (feat. Moelogo & Nadia Rose)",
+      "url": "https://open.spotify.com/track/43u9qIHBXcZZPAP0chWeww"
     },
     {
       "added_at": "2023-05-15 08:38:13",
@@ -1411,6 +1387,26 @@
       "duration_ms": 190497,
       "name": "Walk Out",
       "url": "https://open.spotify.com/track/5oQ90gRbe4rqJDkeqhPHIQ"
+    },
+    {
+      "added_at": "2023-05-15 08:38:13",
+      "album": {
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/0kHRg6FA7Ql5gNGYTr1iKH"
+      },
+      "artists": [
+        {
+          "name": "Lisa Mercedez",
+          "url": "https://open.spotify.com/artist/2uL8gbwzpTKZKSNcCTHm0p"
+        },
+        {
+          "name": "IQ",
+          "url": "https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv"
+        }
+      ],
+      "duration_ms": 204695,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/7kFrtjToVEFgUWvOJdDigU"
     }
   ],
   "unique_name": "Dancehall Queen",

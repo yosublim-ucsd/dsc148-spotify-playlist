@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,461 likes - 244 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,492 likes - 244 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Strength And Honor](https://open.spotify.com/track/0ZQaBlh43TG4X9Pr5NcALS) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Strength And Honor](https://open.spotify.com/album/34NEsQ9jea9FQQWfxtZoas) | 3:21 |
 | 2 | [A Partita](https://open.spotify.com/track/7IbjLofn6emLWbCrdDVlYk) | [Chanda Dancy](https://open.spotify.com/artist/4h2JhymTmAhtumDKHG4Jta) | [Blink Twice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5DC6NBKM98bQ50VEP2MYSq) | 1:28 |
-| 3 | [Main Title \(from "Dune: Prophecy" Soundtrack from the HBO Original Series\)](https://open.spotify.com/track/4DXStGSl6efAunMKjuYc1e) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Main Title \(from "Dune: Prophecy" Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1girrFjOqLJnwi5a9rLKts) | 1:32 |
+| 3 | [Main Title \(from "Dune: Prophecy" Soundtrack from the HBO® Original Series\)](https://open.spotify.com/track/4DXStGSl6efAunMKjuYc1e) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Main Title \(from "Dune: Prophecy" Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/1girrFjOqLJnwi5a9rLKts) | 1:32 |
 | 4 | [Endurance](https://open.spotify.com/track/6CSTaZVO2cbdmEqJuO3p5h) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Endurance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3wTe4VGa505UfU4U0R6GMj) | 2:51 |
 | 5 | [The Chase](https://open.spotify.com/track/6BJZJs7qfVdrr7wzevwHXz) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Attacca Quartet](https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF) | [Disclaimer \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/5pPzwAJD6VmXtSDoclwuJK) | 8:28 |
 | 6 | [Sherwood](https://open.spotify.com/track/5reDKMVVaiTUAtecjSyOPR) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Sherwood \(Original Television Soundtrack\)](https://open.spotify.com/album/0JfBuCeUiUyDT8zsxmzyNf) | 3:57 |

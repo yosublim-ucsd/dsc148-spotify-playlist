@@ -4,7 +4,7 @@
 
 > This is Chuck Berry\. The essential tracks, all in one playlist.
 
-117 songs - 5 hr 15 min
+118 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Havana Moon](https://open.spotify.com/track/1dwg7tCqzs616yYWj6NJ2i) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 3:06 | 2022-09-22 | 2024-07-24 |
 | [Have Mercy Judge](https://open.spotify.com/track/3uGQF4XUYwF386cnx84Zjg) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Back Home](https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY) | 2:41 | 2022-09-17 | 2024-08-20 |
 | [Hey Pedro](https://open.spotify.com/track/0VUc41McjQW8ILujFWlP5t) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 1:57 | 2022-09-26 | 2024-06-18 |
+| [House Of Blue Lights](https://open.spotify.com/track/0iVcJZ8bjL82406m2og7Df) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Blues](https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey) | 2:26 | 2024-11-11 |  |
 | [House Of Blue Lights](https://open.spotify.com/track/2dp8UKD7PuF6UG0brvp8O2) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [The Chess Box](https://open.spotify.com/album/2U6uSo9qSTzQ9HytKNIZuO) | 2:27 | 2022-09-17 | 2024-07-23 |
 | [How High The Moon](https://open.spotify.com/track/0fNRxUfgdxqeNrWRaTMfR5) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [CHUCK BERRY INTEGRAL 1955 \- 1962](https://open.spotify.com/album/43qi03EaHt7m1qEogvhCQ0) | 3:11 | 2024-06-13 | 2024-06-14 |
 | [I Do Really Love You](https://open.spotify.com/track/2yJ5SBKkxC7MLHbrEPFQjK) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry In Memphis](https://open.spotify.com/album/6YcMOYUcy7x4uOg7PasswM) | 2:30 | 2022-09-17 |  |
@@ -64,7 +65,7 @@
 | [I've Changed](https://open.spotify.com/track/5qOIrW0uyiMtstW7m8IUsa) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [CHUCK BERRY INTEGRAL 1955 \- 1962](https://open.spotify.com/album/43qi03EaHt7m1qEogvhCQ0) | 2:58 | 2024-01-29 | 2024-07-22 |
 | [Instrumental \- Live 1988](https://open.spotify.com/track/3X1IjxYCtYz7y4bklmaZcl) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Deep Down \(Live 1988\)](https://open.spotify.com/album/15u7l4b4ypfwVaLnMZ5UJW) | 1:28 | 2023-09-12 | 2023-09-16 |
 | [Intro \- Live](https://open.spotify.com/track/095WJDgl4V3FCjak55NUYl) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR), [Kim Fowley](https://open.spotify.com/artist/6AgAlEkTLN4m5ZERuhiWnk) | [Toronto Rock 'N' Roll Revival 1969](https://open.spotify.com/album/73nLDkfjI8BrtGYroJ2m6x) | 0:51 | 2022-09-17 | 2023-04-23 |
-| [It Hurts Me Too \- Live](https://open.spotify.com/track/3k0nHXQLlpb9qyXdUKiIaL) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR), [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Welcome To The Vault](https://open.spotify.com/album/7i36DC6cqbbOTH9S2XktgN) | 4:50 | 2022-09-17 |  |
+| [It Hurts Me Too \- Live](https://open.spotify.com/track/3k0nHXQLlpb9qyXdUKiIaL) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR), [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Welcome To The Vault](https://open.spotify.com/album/7i36DC6cqbbOTH9S2XktgN) | 4:50 | 2022-09-17 | 2024-11-11 |
 | [Jaguar And Thunderbird \- Single Version](https://open.spotify.com/track/15GFTL6NH2ZbT4EsX0gYKS) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry On Stage \(Expanded Edition\)](https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV) | 1:48 | 2023-05-02 | 2024-07-24 |
 | [Johnny B\. Goode](https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:41 | 2022-09-21 |  |
 | [Key To The Highway \- Live 1988](https://open.spotify.com/track/0fxHu0a5H445sDyJzgFJXl) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Deep Down \(Live 1988\)](https://open.spotify.com/album/15u7l4b4ypfwVaLnMZ5UJW) | 3:28 | 2023-08-09 | 2023-12-21 |

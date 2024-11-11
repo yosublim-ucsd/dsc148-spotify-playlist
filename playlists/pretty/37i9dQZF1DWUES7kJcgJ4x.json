@@ -1,6 +1,6 @@
 {
   "description": "Modernas, rebeldes y divertidas, \u00a1As\u00ed son ellas!",
-  "num_followers": 17407,
+  "num_followers": 17412,
   "original_name": "\u00a1Chicas Ye-y\u00e9!",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-01-18 18:58:11",
       "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/5BbFGTn3ycNbdhVxL4etdm"
-      },
-      "artists": [
-        {
-          "name": "Mayte Gaos",
-          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
-        }
-      ],
-      "duration_ms": 118480,
-      "name": "Mu\u00e9vanse Todos (Twist & Shout)",
-      "url": "https://open.spotify.com/track/1SI9SfO4HvnROLWfw7KjFZ"
-    },
-    {
-      "added_at": "2021-01-18 18:58:11",
-      "album": {
         "name": "La Gran Epoca Del Rock En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/2Y6wv1hbC7B1vBg4GOdlOT"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 152893,
       "name": "Yo Lo Seguire - (I Will Follow Him)",
       "url": "https://open.spotify.com/track/2bSGIbnr1Mwg8tQlbDMKP3"
+    },
+    {
+      "added_at": "2021-01-18 18:58:11",
+      "album": {
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/5BbFGTn3ycNbdhVxL4etdm"
+      },
+      "artists": [
+        {
+          "name": "Mayte Gaos",
+          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
+        }
+      ],
+      "duration_ms": 118480,
+      "name": "Mu\u00e9vanse Todos (Twist & Shout)",
+      "url": "https://open.spotify.com/track/1SI9SfO4HvnROLWfw7KjFZ"
     },
     {
       "added_at": "2021-01-18 18:58:11",
@@ -511,6 +511,22 @@
     {
       "added_at": "2021-01-18 18:58:11",
       "album": {
+        "name": "Marisol. La Peque\u00f1a Estrella",
+        "url": "https://open.spotify.com/album/6w4u33Z6xVyAUJOnDNkmcT"
+      },
+      "artists": [
+        {
+          "name": "Marisol",
+          "url": "https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n"
+        }
+      ],
+      "duration_ms": 152053,
+      "name": "T\u00f3mbola",
+      "url": "https://open.spotify.com/track/2NUTJK1BazWlFoHiRQzlTw"
+    },
+    {
+      "added_at": "2021-01-18 18:58:11",
+      "album": {
         "name": "Boots",
         "url": "https://open.spotify.com/album/62FTy4WqUxi3paBlxOhh4M"
       },
@@ -527,18 +543,18 @@
     {
       "added_at": "2021-01-18 18:58:11",
       "album": {
-        "name": "Marisol. La Peque\u00f1a Estrella",
-        "url": "https://open.spotify.com/album/6w4u33Z6xVyAUJOnDNkmcT"
+        "name": "Profesor",
+        "url": "https://open.spotify.com/album/1bqkkVj2oGYrp9832YeIfc"
       },
       "artists": [
         {
-          "name": "Marisol",
-          "url": "https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n"
+          "name": "Alicia Granados",
+          "url": "https://open.spotify.com/artist/4MdLsOw1fEglZyW9qkEaft"
         }
       ],
-      "duration_ms": 152053,
-      "name": "T\u00f3mbola",
-      "url": "https://open.spotify.com/track/2NUTJK1BazWlFoHiRQzlTw"
+      "duration_ms": 128325,
+      "name": "El Juguete Extraordinario",
+      "url": "https://open.spotify.com/track/3b7NqPaGppHqg5gubaJNen"
     },
     {
       "added_at": "2021-01-18 18:58:11",
@@ -571,22 +587,6 @@
       "duration_ms": 185400,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/4AK7JaKbg3LLVszqndBXOF"
-    },
-    {
-      "added_at": "2021-01-18 18:58:11",
-      "album": {
-        "name": "Profesor",
-        "url": "https://open.spotify.com/album/1bqkkVj2oGYrp9832YeIfc"
-      },
-      "artists": [
-        {
-          "name": "Alicia Granados",
-          "url": "https://open.spotify.com/artist/4MdLsOw1fEglZyW9qkEaft"
-        }
-      ],
-      "duration_ms": 128325,
-      "name": "El Juguete Extraordinario",
-      "url": "https://open.spotify.com/track/3b7NqPaGppHqg5gubaJNen"
     },
     {
       "added_at": "2021-01-18 18:58:11",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-01-18 18:58:11",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN"
-      },
-      "artists": [
-        {
-          "name": "Petula Clark",
-          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
-        }
-      ],
-      "duration_ms": 132760,
-      "name": "Ya Ya Twist - Ya Ya",
-      "url": "https://open.spotify.com/track/6CBPkkXeYqTyngmRfdQR4C"
-    },
-    {
-      "added_at": "2021-01-18 18:58:11",
-      "album": {
         "name": "Elia y Elizabeth",
         "url": "https://open.spotify.com/album/2KhUgSOmxMXBwzh0qBEEBq"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 96757,
       "name": "Superpitagorico",
       "url": "https://open.spotify.com/track/0XQPlcLH3L2KqY1mSSLDND"
+    },
+    {
+      "added_at": "2021-01-18 18:58:11",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN"
+      },
+      "artists": [
+        {
+          "name": "Petula Clark",
+          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
+        }
+      ],
+      "duration_ms": 132760,
+      "name": "Ya Ya Twist - Ya Ya",
+      "url": "https://open.spotify.com/track/6CBPkkXeYqTyngmRfdQR4C"
     },
     {
       "added_at": "2021-01-18 18:58:11",

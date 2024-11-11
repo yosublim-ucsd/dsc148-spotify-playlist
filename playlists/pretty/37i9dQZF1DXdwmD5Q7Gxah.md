@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > alice phoebe lou <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,172,591 likes - 143 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,172,655 likes - 143 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX), [David Parry](https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD), [Dekel Adin](https://open.spotify.com/artist/27xyFvRoUUYKOPiY47BbZ9), [Ziv Yamin](https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 |
+| 1 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 |
 | 2 | [Image \- Grimes Special](https://open.spotify.com/track/6dYwNIqAYid4wRh9zdDNkT) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Image \(Grimes Special\)](https://open.spotify.com/album/5GrbD3XhTH6jyvLTwRJpji) | 3:35 |
 | 3 | [Shitty Heaven](https://open.spotify.com/track/6XLyiEUFbJ5fgAkZ1lPtCU) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Shitty Heaven](https://open.spotify.com/album/3I4haXWxlYtANgufBvziuN) | 2:51 |
 | 4 | [I Want You Yesterday](https://open.spotify.com/track/0B7kvXtG2SnY0z8YQjhN0G) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I Want You Yesterday](https://open.spotify.com/album/0AzuCbYoIxEBH9boTjbekq) | 2:47 |

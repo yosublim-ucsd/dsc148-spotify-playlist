@@ -2671,6 +2671,28 @@
     },
     {
       "album": {
+        "name": "Coastal",
+        "url": "https://open.spotify.com/album/61GmtflvX6lhJRf5fARkZ6"
+      },
+      "artists": [
+        {
+          "name": "Leavv",
+          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
+        },
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107408,
+      "name": "Coastal",
+      "url": "https://open.spotify.com/track/2zI8kItxIqtyFYfFsy3ngx"
+    },
+    {
+      "album": {
         "name": "Coastline",
         "url": "https://open.spotify.com/album/4LpnijAb8blgBpVbETtl2v"
       },
@@ -4256,6 +4278,24 @@
       "duration_ms": 195883,
       "name": "Eskgrow",
       "url": "https://open.spotify.com/track/4SMMdkI3aMh08Ntf9DxuCh"
+    },
+    {
+      "album": {
+        "name": "Estelle",
+        "url": "https://open.spotify.com/album/4o9PfEHog5OOVF3csh6ypi"
+      },
+      "artists": [
+        {
+          "name": "Samara Milli",
+          "url": "https://open.spotify.com/artist/3sZomG9CbKFGghCfMXwhhv"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110666,
+      "name": "Estelle",
+      "url": "https://open.spotify.com/track/39j1lrsLa9jZ72Qx6PxJ2r"
     },
     {
       "album": {
@@ -8632,7 +8672,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 146000,
       "name": "lovefi",
       "url": "https://open.spotify.com/track/45jqHHqNWz1x7ccIIHL27b"
@@ -13818,7 +13858,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 135000,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/0LprOZNXWLJdhVAkkykikL"

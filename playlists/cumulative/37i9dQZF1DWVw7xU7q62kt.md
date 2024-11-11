@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-316 songs - 15 hr 39 min
+317 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Blue Diver](https://open.spotify.com/track/5QMFT282KkBw65Jn7AJj3G) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Blue Diver](https://open.spotify.com/album/7p7tqXzlwOwusB0FfUvxZ0) | 2:49 | 2024-08-23 |  |
 | [Blue Heart](https://open.spotify.com/track/2sCmLqb2PhUeL4sHw6mp8l) | [Eric Diamond](https://open.spotify.com/artist/7uLxDJELvSU1oFe1V7jLhW), [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd) | [Blue Heart](https://open.spotify.com/album/2HtQz0eVFEMY8iZjK4NxOF) | 2:28 | 2023-12-01 |  |
 | [Blue Notes](https://open.spotify.com/track/7Gfidoax4lBjPGHkE4kCBK) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [Still Love](https://open.spotify.com/album/0p4sD08fHj8S8ZdFyXaVzn) | 2:05 | 2023-08-22 |  |
-| [Brasília](https://open.spotify.com/track/5RBWTP54Eu5K5EwpwarymG) | [Snack Villain](https://open.spotify.com/artist/1pJ29M4gnoC6aR8Woi10O2) | [Brasília](https://open.spotify.com/album/2bD9vff8Vo78VlzyNu4Luj) | 1:46 | 2024-09-13 |  |
+| [Brasília](https://open.spotify.com/track/5RBWTP54Eu5K5EwpwarymG) | [Snack Villain](https://open.spotify.com/artist/1pJ29M4gnoC6aR8Woi10O2) | [Brasília](https://open.spotify.com/album/2bD9vff8Vo78VlzyNu4Luj) | 1:46 | 2024-09-13 | 2024-11-11 |
 | [Byzantine](https://open.spotify.com/track/71zcfefEk6z9LwMczxpp56) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r), [Protonebula](https://open.spotify.com/artist/79QsjitGhOGT7ixKYuWJun), [Glance](https://open.spotify.com/artist/4zsm9w2iVTLhuOIhnpqz9M), [Heem](https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m) | [Byzantine](https://open.spotify.com/album/6asKTaEIC7zt9Nb32ZaGV4) | 2:56 | 2023-08-22 | 2024-08-24 |
 | [C.F.D.](https://open.spotify.com/track/3vitE6XRGDP8SdoDwu40Ty) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 3:17 | 2023-08-22 | 2024-09-15 |
 | [Can't Tell At All](https://open.spotify.com/track/4MBb2iVB9E6ItQRvjbof6e) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Can't Tell At All](https://open.spotify.com/album/4vn4zydCK5o50MTei0AScf) | 2:29 | 2024-10-06 | 2024-11-02 |
@@ -186,6 +186,7 @@
 | [Missed Calls](https://open.spotify.com/track/0wI4j8xIUq8ql69MokWCE5) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t), [ghostschreiber](https://open.spotify.com/artist/40z4VAR5NBGOTEpjfuDicX) | [Missed Calls](https://open.spotify.com/album/6i4TU3QacIgzdkdNWBpvFB) | 2:33 | 2024-11-08 |  |
 | [Mojave](https://open.spotify.com/track/3JoDvIn0bE0PAO6ICKpDOT) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Mojave](https://open.spotify.com/album/4D8rZuw0TU2n4I34bretGk) | 1:56 | 2024-10-18 |  |
 | [Mollo](https://open.spotify.com/track/2zAW1pqECiIMWZ9CvqpdS2) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Galerie](https://open.spotify.com/album/1F7A1rsVd20Rpa4x8Hb5gJ) | 1:54 | 2023-08-22 |  |
+| [Montrose Forest featuring Nicholas Payton](https://open.spotify.com/track/5KDVm18IS8nave70ihVFqN) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Montrose Forest featuring Nicholas Payton](https://open.spotify.com/album/712rPLxjRtWqRjLgKOlMp8) | 4:04 | 2024-11-08 |  |
 | [Moonlite](https://open.spotify.com/track/5uzmg0ccdavfs2rtoHI6e2) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 3:53 | 2023-08-22 | 2023-08-26 |
 | [Moonrock](https://open.spotify.com/track/2bW4WW3ykZgWlEuji5qWoq) | [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA) | [Digilog I](https://open.spotify.com/album/0aLKKlg3Ax9BGfaDv7LQ3V) | 3:34 | 2023-08-22 | 2024-04-19 |
 | [Moonrock](https://open.spotify.com/track/5iymZJAdr2OW29n16QedRX) | [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9), [Tamuz Dolev](https://open.spotify.com/artist/34NjR5azv5YNp48JsD9C1v) | [Digilog I](https://open.spotify.com/album/7s3zSF9GuUu4TAl39xbqqA) | 3:34 | 2024-03-20 | 2024-08-24 |

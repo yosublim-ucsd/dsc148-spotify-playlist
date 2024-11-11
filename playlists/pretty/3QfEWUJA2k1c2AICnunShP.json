@@ -1,6 +1,6 @@
 {
   "description": "Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen",
-  "num_followers": 24183,
+  "num_followers": 24209,
   "original_name": "Klassische Musik zum Lesen, Lernen & Studieren",
   "owner": {
     "name": "Filtr Germany",
@@ -524,12 +524,12 @@
       },
       "artists": [
         {
-          "name": "HAUSER",
-          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
-        },
-        {
           "name": "Andrea Morricone",
           "url": "https://open.spotify.com/artist/6ClJFNWZvfAc1jD6fB37B3"
+        },
+        {
+          "name": "HAUSER",
+          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
         }
       ],
       "duration_ms": 203856,

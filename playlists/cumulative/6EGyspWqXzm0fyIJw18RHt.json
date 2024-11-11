@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "New Asian Cinema",
+        "url": "https://open.spotify.com/album/6eYdoKO1PHJfl7yaD9JO6A"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128631,
+      "name": "Cao Dai Blowout",
+      "url": "https://open.spotify.com/track/0EQ7zZroo7GOnHyMYafHFi"
+    },
+    {
+      "album": {
         "name": "Creepin' Candy",
         "url": "https://open.spotify.com/album/65RGVjUh4EMYhi2JFTaoRs"
       },

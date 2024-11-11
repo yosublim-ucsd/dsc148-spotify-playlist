@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [3am rain](https://open.spotify.com/track/1ylGvrRIddMub56gKjmkoN) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in oslo](https://open.spotify.com/album/13U4QiRMlsWftosdvI17ho) | 3:28 | 2023-06-16 |  |
+| [3am rain](https://open.spotify.com/track/1ylGvrRIddMub56gKjmkoN) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in oslo](https://open.spotify.com/album/13U4QiRMlsWftosdvI17ho) | 3:28 | 2023-06-16 | 2024-11-11 |
 | [3D Rain](https://open.spotify.com/track/3PHJojTKJBt5uqWdq38lHd) | [Rain In Spain](https://open.spotify.com/artist/5eDzrKBgV4C8kovSd9vup9) | [Part Two](https://open.spotify.com/album/3kvMpN08jpYtQB1cr1Y93a) | 3:49 | 2023-06-16 |  |
 | [A Relaxing View](https://open.spotify.com/track/63Yy8FYoqW8XZXRRbjSO8J) | [Rainy Windows](https://open.spotify.com/artist/32EhyFcKSpZ2akw9gwrnWo) | [A Relaxing View](https://open.spotify.com/album/5I6htfiNbnj4qyqztQrXKw) | 2:31 | 2023-06-16 |  |
 | [Abstract Rain](https://open.spotify.com/track/2FPTU93d4laMXksmiJ9OR6) | [Sams Sampling](https://open.spotify.com/artist/0l3BC2nHquksROX70Y9c8S) | [Urban Rain For Dreams](https://open.spotify.com/album/1zdi48TyXAEfP64z053T5m) | 2:41 | 2023-06-16 |  |
@@ -221,7 +221,7 @@
 | [Raining On Metal](https://open.spotify.com/track/5111ChNfx2UEqdJo57ZqSt) | [DreamDrops](https://open.spotify.com/artist/20XfshUALsTbm05gj6Ea5M) | [Strawberry Rain](https://open.spotify.com/album/2sQA6ju0ve2lCiPHJo4VC1) | 3:35 | 2023-06-16 |  |
 | [Raining Season](https://open.spotify.com/track/47tVC0DJOKzT4qv9ESdGLO) | [Sofia Rain](https://open.spotify.com/artist/4VfldWr0PMJDucnvdPESqm) | [Pouring Rain](https://open.spotify.com/album/0IpqGf0hWkDJ7M5LiRp8q2) | 3:36 | 2023-06-16 |  |
 | [Rainy Avenue](https://open.spotify.com/track/1Z5uJ80Ppi2uCfoegoQn4z) | [Imber Levis](https://open.spotify.com/artist/2DRELW7sIQc5Dr0y0FDE5T) | [Rainy Night In Amsterdam](https://open.spotify.com/album/546pkDmHceZq17cKjgKLWS) | 3:36 | 2023-06-16 |  |
-| [Rainy Day](https://open.spotify.com/track/5qKaKWTZ74lAd8IgvSaVld) | [Sleep Factory](https://open.spotify.com/artist/06ee9JG54Z38RLoYguHZV8) | [Sleep Factory](https://open.spotify.com/album/61YGqGtazxLbn33N7qEgZy) | 5:22 | 2023-06-16 | 2024-11-04 |
+| [Rainy Day](https://open.spotify.com/track/5qKaKWTZ74lAd8IgvSaVld) | [Sleep Factory](https://open.spotify.com/artist/06ee9JG54Z38RLoYguHZV8) | [Sleep Factory](https://open.spotify.com/album/61YGqGtazxLbn33N7qEgZy) | 5:22 | 2023-06-16 |  |
 | [Rainy Day Path](https://open.spotify.com/track/2URJ4lQUDWvCykwRKD6d8L) | [Stardust Vibes](https://open.spotify.com/artist/1XcbmsczGDkYqrqIy8K89H) | [Rain & Thunderstorms: Best Of, Vol\. 3](https://open.spotify.com/album/6FTYA2kT7Xs2A4W2mJAYvj) | 9:47 | 2024-06-11 |  |
 | [Rainy Hour](https://open.spotify.com/track/7GO0aybLNh8Rd7gcfZIuT0) | [Skyyy](https://open.spotify.com/artist/1d1rh6BlGzeXaj67hVeDXe) | [Tears](https://open.spotify.com/album/1EuUFN58BKOLkYDMru8kVh) | 2:35 | 2023-06-16 |  |
 | [Rainy Mood](https://open.spotify.com/track/5jyrtNJBcaFkNyS4yPixkI) | [Sleepy Mood](https://open.spotify.com/artist/3HkwYBXLxmRKfWOkaknVQ7) | [Universe](https://open.spotify.com/album/0oI1JYlTYpbR1ewBStl7Qs) | 2:26 | 2023-06-16 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65775,
+  "num_followers": 65774,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Rockefeller Street - Single",
-        "url": "https://open.spotify.com/album/4Prlk6ouh6SYDOa97Eyly4"
-      },
-      "artists": [
-        {
-          "name": "Getter Jaani",
-          "url": "https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf"
-        }
-      ],
-      "duration_ms": 192992,
-      "name": "Rockefeller Street",
-      "url": "https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Fr\u00e4mling 25 \u00e5r",
         "url": "https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 177893,
       "name": "Fr\u00e4mling",
       "url": "https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Rockefeller Street - Single",
+        "url": "https://open.spotify.com/album/4Prlk6ouh6SYDOa97Eyly4"
+      },
+      "artists": [
+        {
+          "name": "Getter Jaani",
+          "url": "https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf"
+        }
+      ],
+      "duration_ms": 192992,
+      "name": "Rockefeller Street",
+      "url": "https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "This Is Our Night",
+        "url": "https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD"
+      },
+      "artists": [
+        {
+          "name": "Sakis Rouvas",
+          "url": "https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe"
+        }
+      ],
+      "duration_ms": 177562,
+      "name": "This Is Our Night",
+      "url": "https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Precious",
         "url": "https://open.spotify.com/album/6OeH9eSf6GOu9sreWGDwlo"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 178053,
       "name": "(I Would) Die For You",
       "url": "https://open.spotify.com/track/59wp0uf7el6E2xo0sYUQsL"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "This Is Our Night",
-        "url": "https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD"
-      },
-      "artists": [
-        {
-          "name": "Sakis Rouvas",
-          "url": "https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe"
-        }
-      ],
-      "duration_ms": 177562,
-      "name": "This Is Our Night",
-      "url": "https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Young Love",
-        "url": "https://open.spotify.com/album/25yASEbY2Pz60pCnx7l3kx"
-      },
-      "artists": [
-        {
-          "name": "Jedward",
-          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Waterline",
-      "url": "https://open.spotify.com/track/0xCMGAf80y3dUevG2qXpvS"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Ding Dong!",
         "url": "https://open.spotify.com/album/68w0MsT47MMzq28AJ3bedc"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 155146,
       "name": "Congratulations - 1998 Remaster",
       "url": "https://open.spotify.com/track/2qs5ZcLByNTctJKbhAZ9JE"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Young Love",
+        "url": "https://open.spotify.com/album/25yASEbY2Pz60pCnx7l3kx"
+      },
+      "artists": [
+        {
+          "name": "Jedward",
+          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Waterline",
+      "url": "https://open.spotify.com/track/0xCMGAf80y3dUevG2qXpvS"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Golden Boy",
-        "url": "https://open.spotify.com/album/3z1b8cnvUTzTIvyEExYB9s"
+        "name": "You are the only one",
+        "url": "https://open.spotify.com/album/5QN3qCVLPiedrjb6EOO9LO"
       },
       "artists": [
         {
-          "name": "Nadav Guedj",
-          "url": "https://open.spotify.com/artist/0QmOR0TqxMPtZxtaIJ5klY"
+          "name": "Sergey Lazarev",
+          "url": "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
         }
       ],
-      "duration_ms": 180585,
-      "name": "Golden Boy",
-      "url": "https://open.spotify.com/track/6YWFr8BHQrRL4b7RwuqS36"
+      "duration_ms": 186891,
+      "name": "You are the only one",
+      "url": "https://open.spotify.com/track/7cVXtwDpck4Kne4Ce8Ge6q"
     }
   ],
   "unique_name": "Eurovision Party",

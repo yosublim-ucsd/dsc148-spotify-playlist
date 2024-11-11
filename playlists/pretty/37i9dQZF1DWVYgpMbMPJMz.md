@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover:  <a href="spotify:artist:26T4yOaOoFJvUvxR87Y9HO">Bethel Music</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 994,171 likes - 100 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 994,312 likes - 100 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 5 | [Love of God \(Live\)](https://open.spotify.com/track/5lwi7XvSzlGsJ6NIGR1qAn) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Love of God \(Live\)](https://open.spotify.com/album/1NdJ3UWZpGZFkrMu6Xe69K) | 7:48 |
 | 6 | [Spirit Of God \(Breathe In Us\) \- Songs For Church \(Live\)](https://open.spotify.com/track/5DXLxxwIcuLOZI0FIu9f4t) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Winning Team: \[Songs For Church \(Live\)\]](https://open.spotify.com/album/3YVkedvKSHgFELSUkxtuur) | 4:42 |
 | 7 | [Walk With You \- Live](https://open.spotify.com/track/2aJKHm8dq5EJ2qJbD9dUBA) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq) | [Walk With You \(Live from LO Conference\)](https://open.spotify.com/album/1FDPTLQm3vOPlIXZRljbs8) | 6:45 |
-| 8 | [Praise Belongs](https://open.spotify.com/track/0XnzsPCKJ2xuifNoGiG29V) | [CXMMXNS](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05), [Ben Fielding](https://open.spotify.com/artist/33u16EyDkCbsyvh66ujJiO), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [Chapter 1](https://open.spotify.com/album/2xI7LBeYPzK52a5VdiJGvj) | 4:35 |
+| 8 | [Praise Belongs](https://open.spotify.com/track/0XnzsPCKJ2xuifNoGiG29V) | [CXMMXNS](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05), [Ben Fielding](https://open.spotify.com/artist/33u16EyDkCbsyvh66ujJiO) | [Chapter 1](https://open.spotify.com/album/2xI7LBeYPzK52a5VdiJGvj) | 4:35 |
 | 9 | [Come Into The Light](https://open.spotify.com/track/7rIKOEctlLMxtRgGheUeXb) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Come Into The Light](https://open.spotify.com/album/1tQdKADUZhcP6yl3o0J5TH) | 4:30 |
 | 10 | [Never Gets Old \(Live\)](https://open.spotify.com/track/1faLw5C5ige09ObTw1368f) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Kory Miller](https://open.spotify.com/artist/0QCjdltvL9ZrRhayylw97h) | [Never Gets Old \(Live\)](https://open.spotify.com/album/5M2qLwARrLbVhss2i2kX7m) | 6:36 |
 | 11 | [Up To Something \- Live](https://open.spotify.com/track/6pnb65z7OWEpKtm9kRnRk6) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Rudy Villarreal](https://open.spotify.com/artist/7Jm4MrGvgZh86tUe0GrEB2), [Skylar Dayne](https://open.spotify.com/artist/6g747a2Ku43i2nlRfV2Tkg) | [Up To Something \(Live\)](https://open.spotify.com/album/0jJkeMIcLYiqMWKstNEXMg) | 7:40 |

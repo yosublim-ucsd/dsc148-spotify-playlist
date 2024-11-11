@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,682 songs - 3 day 15 hr 17 min
+1,684 songs - 3 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Dagar som aldrig tar slut](https://open.spotify.com/track/09olrvgVUSM3dbNGP6x7fE) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Dagar som aldrig tar slut](https://open.spotify.com/album/02dhUBkEIAJWMu7Uf1MWn2) | 3:12 | 2024-05-02 | 2024-06-01 |
 | [Dancer](https://open.spotify.com/track/3FpsFW7PcGAUki4siWcvVk) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Dancer](https://open.spotify.com/album/1RY6ffqngwYDOrQ9vHb5SC) | 3:57 | 2021-12-16 | 2022-02-27 |
 | [Dancing On Dynamite](https://open.spotify.com/track/69xtyFE0Vsm9PspAnp5Bmj) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Dancing On Dynamite](https://open.spotify.com/album/5uxfXlbkYB1GTDIDm1oYOa) | 2:42 | 2024-08-29 |  |
+| [Dandelion Kids](https://open.spotify.com/track/647xMrWbg68cS3q4Hb8mvJ) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Dandelion Kids](https://open.spotify.com/album/7yHwznQ9AEl2qryn0oAx92) | 4:16 | 2024-11-07 |  |
 | [DANSA](https://open.spotify.com/track/0HGNRaSjfw7rW76mPLvw1o) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [DANSA](https://open.spotify.com/album/2Uj2RENhCf78wxdbCtBcii) | 1:44 | 2024-05-30 | 2024-06-28 |
 | [Dansa Med Mig \(Stripped Version\) \[feat\. Julia Lov\]](https://open.spotify.com/track/12e80YV3Nhkbfymj0SiSz0) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd), [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Dansa Med Mig \(Stripped Version\) \[feat\. Julia Lov\]](https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl) | 2:49 | 2023-02-18 | 2023-10-06 |
 | [Dansa min docka](https://open.spotify.com/track/1FPht4TmkAUUMlV7FETt7I) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Dansa min docka](https://open.spotify.com/album/3apXK1KdvKPgaiaa1asVju) | 2:42 | 2024-04-25 | 2024-05-24 |
@@ -623,7 +624,7 @@
 | [Higher Power](https://open.spotify.com/track/5X72zZ8sbbYXXEARdbZpgG) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Higher Power](https://open.spotify.com/album/7LXf4A7JFlFBoH8eppUo0H) | 3:00 | 2022-03-10 | 2022-09-16 |
 | [Highway](https://open.spotify.com/track/2YauDO4935sBGnV5C7M7r7) | [Julius](https://open.spotify.com/artist/0z3L14pVgawbyez74SLf1U) | [Highway](https://open.spotify.com/album/1FUt5mvfCu2xChvr9PdUNG) | 3:30 | 2022-06-23 | 2022-06-25 |
 | [HIGHWAY TO YOUR HEART](https://open.spotify.com/track/1ejiXFwhoCVvM1z0uh32fr) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [HIGHWAY TO YOUR HEART](https://open.spotify.com/album/5Ribl5MGlDtgUfWKQI10Ew) | 3:59 | 2022-04-22 | 2022-04-28 |
-| [Himlavalvet](https://open.spotify.com/track/46vGHCzuuYkTQgjo1LfTDb) | [Zacke](https://open.spotify.com/artist/3jKd96grbdWoh56whvFnX2), [Alma Augusta](https://open.spotify.com/artist/6gLUeiwk4tkbg7tJ8xg6ck) | [Noir](https://open.spotify.com/album/63xg12h0P4PtLPHP5FTEKo) | 4:02 | 2024-10-10 |  |
+| [Himlavalvet](https://open.spotify.com/track/46vGHCzuuYkTQgjo1LfTDb) | [Zacke](https://open.spotify.com/artist/3jKd96grbdWoh56whvFnX2), [Alma Augusta](https://open.spotify.com/artist/6gLUeiwk4tkbg7tJ8xg6ck) | [Noir](https://open.spotify.com/album/63xg12h0P4PtLPHP5FTEKo) | 4:02 | 2024-10-10 | 2024-11-11 |
 | [Himlen kan vänta](https://open.spotify.com/track/49YQrm6c4eOrYfzmbYS3jG) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z), [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Himlen kan vänta](https://open.spotify.com/album/2kS8HnTbJCr6AtCYUCJZyO) | 3:16 | 2022-04-07 | 2022-07-23 |
 | [Historier och liv](https://open.spotify.com/track/0LhnOov4l5H0yLsH0dvQL5) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Historier och liv](https://open.spotify.com/album/5M3FQkPMjBlsLRPssprSYH) | 3:20 | 2023-11-09 | 2024-02-09 |
 | [Hit and Run](https://open.spotify.com/track/7kf9xh5Xaa4bTE6ChoorYu) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Hit and Run](https://open.spotify.com/album/7xtEVZCtImCqZOFKxwkShR) | 3:10 | 2022-03-10 | 2022-06-08 |
@@ -729,6 +730,7 @@
 | [IGEN IGEN IGEN](https://open.spotify.com/track/72AsuB2gKeQGDKEsjXdjls) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [IGEN IGEN IGEN](https://open.spotify.com/album/7nKcbzRHoxG6uhXymDpgaj) | 2:10 | 2024-04-19 | 2024-05-24 |
 | [IKNOW IKNOW](https://open.spotify.com/track/5w7VnCARb24upPxk3Q9nMW) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 3:53 | 2024-10-24 |  |
 | [Ikväll gör jag vad som helst...](https://open.spotify.com/track/0DDcohQ8MvYNZ114EYoudo) | [Frida Lif](https://open.spotify.com/artist/69qWf1qLvLjd5Pu9APRL0Y) | [Ikväll gör jag vad som helst...](https://open.spotify.com/album/4lyiMRIT2bhctP9hTJ2s3K) | 2:58 | 2024-06-06 | 2024-06-28 |
+| [Ikväll tar vi över stan](https://open.spotify.com/track/0WlEryRlIqzywLjTYcnSun) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Så mycket bättre 2024 – Tolkningarna](https://open.spotify.com/album/4q7BqIIjzZULlSBEGbdprz) | 3:30 | 2024-11-07 |  |
 | [Imagine](https://open.spotify.com/track/6negLw2oP4RRS9mQJPKXM6) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Imagine](https://open.spotify.com/album/6hvg6l17kva8IRQBe6mgS6) | 3:12 | 2023-06-22 | 2023-10-20 |
 | [Imagine Paradise](https://open.spotify.com/track/0TXoLkIqtEqb9mPv3ReBEX) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc) | [Imagine Paradise](https://open.spotify.com/album/58vBq0ClQQ9mvouhUoBw2b) | 3:57 | 2024-06-07 | 2024-08-09 |
 | [In i dimman](https://open.spotify.com/track/095zAxJmG96ap3ol3zVRZs) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [In i dimman](https://open.spotify.com/album/28RPgvITk9r0msUN8PVJVX) | 2:53 | 2022-03-04 | 2022-03-18 |
@@ -1000,7 +1002,7 @@
 | [Mullvadsbuljong](https://open.spotify.com/track/6bPYkRmqs2Ejl4NVwOAKjS) | [Vändplats Saknas](https://open.spotify.com/artist/6rdTKBkLf9gv4lgE6G9A0H) | [Mullvadsbuljong](https://open.spotify.com/album/6VMeJKBCofh5uXc1NZrWM8) | 3:18 | 2024-04-18 | 2024-04-21 |
 | [Musik Non Stop \- Spotify Singles](https://open.spotify.com/track/6SNLVpwJXem00Ku9XizbPA) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Musik Non Stop \- Spotify Singles](https://open.spotify.com/album/4rkc0m2fJ9RvXsgoIhYMV5) | 3:48 | 2022-05-12 | 2023-02-11 |
 | [Musiken i dur](https://open.spotify.com/track/3etnGyPFA9Rt2CfjRZ6czg) | [Akvarell](https://open.spotify.com/artist/2kQMxBR942zS9OYjRhH5CO) | [Musiken i dur](https://open.spotify.com/album/5jZw26m3vlWx2IaNJbN8iD) | 3:26 | 2024-03-21 | 2024-04-26 |
-| [My Ex Would've Left By Now](https://open.spotify.com/track/3xXiTsAs1QvekEsnrvnynf) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [My Ex Would've Left By Now](https://open.spotify.com/album/5FZs5tmpZ9ai0YQBMtiBXh) | 3:26 | 2024-09-05 |  |
+| [My Ex Would've Left By Now](https://open.spotify.com/track/3xXiTsAs1QvekEsnrvnynf) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [My Ex Would've Left By Now](https://open.spotify.com/album/5FZs5tmpZ9ai0YQBMtiBXh) | 3:26 | 2024-09-05 | 2024-11-11 |
 | [My Friends](https://open.spotify.com/track/5G4xG632nZ9b3l9L4eI1hK) | [Nadja Kasanesh](https://open.spotify.com/artist/11VSQqCvMHu2UNkfyuIoXa) | [My Friends](https://open.spotify.com/album/0sgJCD4bUVQi7cbTb0jWUQ) | 2:57 | 2022-04-07 | 2022-05-08 |
 | [My Hands In The Water](https://open.spotify.com/track/3pGJFOWqwUrxVt4Tzl8YVC) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [My Hands In The Water](https://open.spotify.com/album/1k9WtmIp5FQmQi5c1BRKYj) | 4:36 | 2024-05-23 | 2024-06-21 |
 | [My Love](https://open.spotify.com/track/72fMoh2AJMXDPEdSM26Tb9) | [Adrijana](https://open.spotify.com/artist/0bOSgUryDiUCvVbJUjM3y5) | [My Love](https://open.spotify.com/album/46QxSO9AdvIrXm2Dbu3PbB) | 2:45 | 2024-05-23 | 2024-06-21 |

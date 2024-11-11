@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Your Tech House therapy session for the dance floor \| Check out Bassline Therapy Radio on SoundCloud
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 10,992 likes - 77 songs - 4 hr 12 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 10,992 likes - 78 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,5 +85,6 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 75 | [Temptation](https://open.spotify.com/track/3wqBSBa92YjumaxGO9SH3U) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Temptation](https://open.spotify.com/album/7eYa0dcRtYtxiHKsj7Af43) | 3:09 |
 | 76 | [King Of Monaco](https://open.spotify.com/track/0m4CwaAQtQpx1TJNNOIBl7) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Ayrton Senna](https://open.spotify.com/artist/2oTPCYBrkHHoK4ERKw2wxQ) | [King Of Monaco](https://open.spotify.com/album/481xnanWmpgOL2HbLBP0rK) | 4:23 |
 | 77 | [Lights Out \- Radio Edit](https://open.spotify.com/track/1IDD9pR56Z9Pwdvb5CdHFI) | [Mauro Venti](https://open.spotify.com/artist/1EYRcS75munXqQbWsZ0HVd) | [Lights Out / In The Club](https://open.spotify.com/album/3IZvIgDHFlI3V3BbXobXQ6) | 3:05 |
+| 78 | [palm of my hands \- Odd Mob Remix](https://open.spotify.com/track/2vxsdAnntt6eGZJJRaLBF6) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [palm of my hands \(Odd Mob Remix\)](https://open.spotify.com/album/4wAyp0F1m8WNDb7SsuQarq) | 3:23 |
 
-Snapshot ID: `AAAaGe5/vfg52/RO7tdQLcn9yXehctaF`
+Snapshot ID: `AAAaGn74f4E4DIgm6GVM2iEtlnBnnkdh`

@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-849 songs - 1 day 22 hr 12 min
+851 songs - 1 day 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [AMINA](https://open.spotify.com/track/71nnieDlMZ21AhPQ8ySK5x) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [AMINA](https://open.spotify.com/album/3Yj8pwMeifcSfO9ezAh4i5) | 2:52 | 2023-09-08 | 2023-10-07 |
 | [Angels](https://open.spotify.com/track/6yK03ueKKklIAhShI5VDlg) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [Angels](https://open.spotify.com/album/6pIYfWJ4CBt3hVsUhPTKuA) | 3:49 | 2024-10-18 |  |
 | [Anonymous](https://open.spotify.com/track/0nzrey7EGWju6WBndLkUFa) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Sad Songs For Winter](https://open.spotify.com/album/0Y8wD7iVN5COLCrsJFI3yp) | 2:30 | 2024-03-01 | 2024-05-23 |
+| [Another Day Another Moon](https://open.spotify.com/track/4SKY9UeWcdV3stPDXjNxUO) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Another Day Another Moon](https://open.spotify.com/album/3poftEIIhJAPGjgEqbBq6F) | 3:42 | 2024-11-08 |  |
 | [Apathy](https://open.spotify.com/track/1y0YcbPS4pu5kveEhJ9KqJ) | [PIE](https://open.spotify.com/artist/66jQGw4oO3q0A8E3FcCZhE) | [Apathy](https://open.spotify.com/album/71WgldxC8RmuVjVvHN48r9) | 3:25 | 2021-12-15 | 2022-10-15 |
 | [As Days Go By](https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge) | [Paulade](https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK) | [As Days Go By](https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx) | 3:42 | 2022-10-19 | 2024-06-16 |
 | [Asking For Too Much](https://open.spotify.com/track/2myhjUeuQr9OcJqxipQdHC) | [Aaron Page](https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Asking For Too Much](https://open.spotify.com/album/2EhDiSPAKyyxv2sEAlHDae) | 2:56 | 2024-10-18 |  |
@@ -273,6 +274,7 @@
 | [Get Away](https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Get Away](https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK) | 3:03 | 2023-02-03 | 2023-08-26 |
 | [Get Away](https://open.spotify.com/track/25WijqKV8rFsFM53gZN2G1) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Get Away](https://open.spotify.com/album/670TUBzn6VAg0juITSAFUZ) | 2:57 | 2024-05-31 | 2024-10-26 |
 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 | 2023-04-21 | 2023-10-07 |
+| [Girls Like Sade](https://open.spotify.com/track/4p5ZGsDB5bqdFMIRoLEslq) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Girls Like Sade](https://open.spotify.com/album/4ImiW1Ird44f8ddYRcZxbr) | 2:43 | 2024-11-08 |  |
 | [Girls Like Us](https://open.spotify.com/track/0DsJ6I0aMSkmNfFomOwLkc) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Litany](https://open.spotify.com/album/69xzFbHAfSnA9TAxkXg6rz) | 2:23 | 2023-07-28 | 2023-09-03 |
 | [Go Baby](https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:56 | 2023-09-16 |  |
 | [Going Up](https://open.spotify.com/track/6brevZznZxMcduQWx8yt9b) | [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF), [Walker](https://open.spotify.com/artist/6VWmuRhDSoyqiftAnlNFXz) | [Going Up](https://open.spotify.com/album/1yS9pnzZQ9BDNTuXrrwnVN) | 2:30 | 2024-10-26 | 2024-11-09 |
@@ -429,7 +431,7 @@
 | [LIMB](https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Don't Throw Rocks At The Moon](https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH) | 1:44 | 2023-02-12 | 2023-08-26 |
 | [Little Nothings](https://open.spotify.com/track/5JseEHJMBE2kRk2vXAaAMv) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx) | [Little Nothings](https://open.spotify.com/album/0FID2WHAhfMQ2vxcTU1C3B) | 3:42 | 2024-03-08 |  |
 | [Little Thangs](https://open.spotify.com/track/3D8igV9yINYFtN65Di9NqH) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [Little Thangs](https://open.spotify.com/album/45fXacALm4MEGCAGETPdQX) | 3:18 | 2022-04-07 | 2022-04-21 |
-| [Little Things \(feat\. Yaya Bey\)](https://open.spotify.com/track/7eUxbqEPlbf9rccIDDOy5D) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [The Mind](https://open.spotify.com/album/5V0Nqn3w1C11avw7i8UhQ8) | 3:46 | 2024-08-02 |  |
+| [Little Things \(feat\. Yaya Bey\)](https://open.spotify.com/track/7eUxbqEPlbf9rccIDDOy5D) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [The Mind](https://open.spotify.com/album/5V0Nqn3w1C11avw7i8UhQ8) | 3:46 | 2024-08-02 | 2024-11-11 |
 | [lived to love](https://open.spotify.com/track/0WtSBij3WrxbY7BNnWJcqH) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/6vdc6p5GTtE9knNhNpXWVD) | 4:15 | 2022-10-19 | 2023-03-11 |
 | [lived to love](https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk) | 4:15 | 2021-12-15 | 2022-10-13 |
 | [Livid](https://open.spotify.com/track/7uP42ncMnsgL3adyj9px5c) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [A Real Romantic](https://open.spotify.com/album/532nyx17juALZHUgA46wly) | 4:29 | 2021-12-15 | 2022-04-06 |
@@ -830,7 +832,7 @@
 | [Where U At?](https://open.spotify.com/track/6wE9qLKJu7DovH54rvrSVs) | [Chinatown Slalom](https://open.spotify.com/artist/25pbZ2yTnog5SBbk7WyfNn) | [Who Wants to Be a Millionaire?](https://open.spotify.com/album/0EBV0eMmVkYopo5yLiy96r) | 2:52 | 2021-12-15 | 2022-07-29 |
 | [Where U Goin' Tonight?](https://open.spotify.com/track/4Z5Bwienk09FUgwsMlsPwJ) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Magic 8ball](https://open.spotify.com/album/0fjJoEGBF5hxlv862DjVx5) | 4:23 | 2021-12-15 | 2023-03-25 |
 | [Where We Started](https://open.spotify.com/track/4sKWb5iyQPILk5H6a7UTtt) | [Dwyer](https://open.spotify.com/artist/0hDO4d5eFDFevAkXTvN2Mv), [Honey Mooncie](https://open.spotify.com/artist/5GACks0pdDAgyd63kXBJFk) | [Where We Started](https://open.spotify.com/album/63ynXncWW2lP8gSCU2g7hT) | 3:09 | 2023-10-27 | 2024-10-19 |
-| [Whippedlashed](https://open.spotify.com/track/1f6AmSEPyeytGkXAAcjafv) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Sophcore](https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h) | 1:01 | 2024-08-02 |  |
+| [Whippedlashed](https://open.spotify.com/track/1f6AmSEPyeytGkXAAcjafv) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Sophcore](https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h) | 1:01 | 2024-08-02 | 2024-11-11 |
 | [Who Ha? \(feat\. J\. Ivy\)](https://open.spotify.com/track/4FNkH1rdFzzaOuC34SWGHA) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [J\. Ivy](https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn) | [The Heart, The Mind, The Soul](https://open.spotify.com/album/014ic5Pp0IrYiDZRty0wKB) | 3:32 | 2024-08-30 | 2024-10-28 |
 | [Whoa](https://open.spotify.com/track/2E0UymXqHER6j37pBoHTC0) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK) | 3:19 | 2021-12-15 | 2022-02-12 |
 | [Why](https://open.spotify.com/track/2fFF3qTalj3yxzsnSziSPN) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [solace](https://open.spotify.com/artist/2W1dpsbDt9qWbMWXZ5HRn9) | [Our Broken Hearts Mend](https://open.spotify.com/album/62ih4cae6eJsADZp6HTA1B) | 2:35 | 2024-08-16 |  |

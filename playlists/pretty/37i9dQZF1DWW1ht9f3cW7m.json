@@ -1,6 +1,6 @@
 {
   "description": "the sweetest new indie pop, featuring Ziggy 2000 \ud83c\udf51",
-  "num_followers": 29382,
+  "num_followers": 29386,
   "original_name": "peach",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "In My Bed",
-        "url": "https://open.spotify.com/album/6TPAYp0gSJhRlAV7NXfxJT"
-      },
-      "artists": [
-        {
-          "name": "Soft Launch",
-          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
-        }
-      ],
-      "duration_ms": 162405,
-      "name": "In My Bed",
-      "url": "https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Meet Cute",
         "url": "https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 166027,
       "name": "Meet Cute",
       "url": "https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "In My Bed",
+        "url": "https://open.spotify.com/album/6TPAYp0gSJhRlAV7NXfxJT"
+      },
+      "artists": [
+        {
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
+        }
+      ],
+      "duration_ms": 162405,
+      "name": "In My Bed",
+      "url": "https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Crashmat",
-        "url": "https://open.spotify.com/album/0Wg1x7oDYJayjGsIqqgtE8"
-      },
-      "artists": [
-        {
-          "name": "Eden Rain",
-          "url": "https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq"
-        }
-      ],
-      "duration_ms": 220908,
-      "name": "Crashmat",
-      "url": "https://open.spotify.com/track/0YqubN3yf6rfd44lhjstR9"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Midnight Butterflies",
         "url": "https://open.spotify.com/album/23ruAnDa9DTJkOyHI68NPy"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 208173,
       "name": "Midnight Butterflies",
       "url": "https://open.spotify.com/track/5P59FNzxy0uvIL6ko4TL1C"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Crashmat",
+        "url": "https://open.spotify.com/album/0Wg1x7oDYJayjGsIqqgtE8"
+      },
+      "artists": [
+        {
+          "name": "Eden Rain",
+          "url": "https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq"
+        }
+      ],
+      "duration_ms": 220908,
+      "name": "Crashmat",
+      "url": "https://open.spotify.com/track/0YqubN3yf6rfd44lhjstR9"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Living In A Dream",
-        "url": "https://open.spotify.com/album/0pXGJiiO2fysQYXmyQqG6A"
-      },
-      "artists": [
-        {
-          "name": "The Flints",
-          "url": "https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v"
-        }
-      ],
-      "duration_ms": 196011,
-      "name": "Living In A Dream",
-      "url": "https://open.spotify.com/track/4lKXmQEGW64zHKnkMcLvbR"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "I Think You Should Know",
         "url": "https://open.spotify.com/album/7Eeoqub4j8Q2M2iDaDupeZ"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Deeply Still In Love",
-        "url": "https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN"
+        "name": "Living In A Dream",
+        "url": "https://open.spotify.com/album/0pXGJiiO2fysQYXmyQqG6A"
       },
       "artists": [
         {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+          "name": "The Flints",
+          "url": "https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v"
         }
       ],
-      "duration_ms": 242544,
-      "name": "Deeply Still In Love",
-      "url": "https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK"
+      "duration_ms": 196011,
+      "name": "Living In A Dream",
+      "url": "https://open.spotify.com/track/4lKXmQEGW64zHKnkMcLvbR"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -1011,6 +995,22 @@
       "duration_ms": 192444,
       "name": "Boys",
       "url": "https://open.spotify.com/track/3wRLsbybqoHVncYouMQvp3"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Deeply Still In Love",
+        "url": "https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 242544,
+      "name": "Deeply Still In Love",
+      "url": "https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Chamomile",
-        "url": "https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P"
-      },
-      "artists": [
-        {
-          "name": "Victoria Canal",
-          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "Chamomile",
-      "url": "https://open.spotify.com/track/2ww3X0G1ucfWfn5FpitNDC"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "HOKAGE - THE MIXTAPE",
         "url": "https://open.spotify.com/album/6ZpbWiHfm0u6lmCzgE82GR"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 147146,
       "name": "Found The 1",
       "url": "https://open.spotify.com/track/1VaaMp66mFlNF3vaMiZIZC"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Chamomile",
+        "url": "https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P"
+      },
+      "artists": [
+        {
+          "name": "Victoria Canal",
+          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "Chamomile",
+      "url": "https://open.spotify.com/track/2ww3X0G1ucfWfn5FpitNDC"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Life Is A Killer",
-        "url": "https://open.spotify.com/album/7Mb8z4fD81K8M5gcoeZrkP"
-      },
-      "artists": [
-        {
-          "name": "Love Fame Tragedy",
-          "url": "https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q"
-        }
-      ],
-      "duration_ms": 203312,
-      "name": "My Head's In A Hurricane",
-      "url": "https://open.spotify.com/track/5attUtcjG5lDS2GYKbNjtN"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Now That I Know You",
         "url": "https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 226240,
       "name": "Now That I Know You",
       "url": "https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Life Is A Killer",
+        "url": "https://open.spotify.com/album/7Mb8z4fD81K8M5gcoeZrkP"
+      },
+      "artists": [
+        {
+          "name": "Love Fame Tragedy",
+          "url": "https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q"
+        }
+      ],
+      "duration_ms": 203312,
+      "name": "My Head's In A Hurricane",
+      "url": "https://open.spotify.com/track/5attUtcjG5lDS2GYKbNjtN"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Like Honey",
-        "url": "https://open.spotify.com/album/0trNw0ZdkN4za0xh96II1F"
-      },
-      "artists": [
-        {
-          "name": "Yuneki",
-          "url": "https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi"
-        }
-      ],
-      "duration_ms": 208998,
-      "name": "Like Honey",
-      "url": "https://open.spotify.com/track/2BHjccS8tjcww3NwIgbMIz"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "sprinkles",
         "url": "https://open.spotify.com/album/6JPFvDl16Wh4iTm69fYpNs"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 273488,
       "name": "sprinkles",
       "url": "https://open.spotify.com/track/1X7zU3V1TDVhqM253XcIV7"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Like Honey",
+        "url": "https://open.spotify.com/album/0trNw0ZdkN4za0xh96II1F"
+      },
+      "artists": [
+        {
+          "name": "Yuneki",
+          "url": "https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi"
+        }
+      ],
+      "duration_ms": 208998,
+      "name": "Like Honey",
+      "url": "https://open.spotify.com/track/2BHjccS8tjcww3NwIgbMIz"
     },
     {
       "added_at": "2024-09-20 11:39:59",

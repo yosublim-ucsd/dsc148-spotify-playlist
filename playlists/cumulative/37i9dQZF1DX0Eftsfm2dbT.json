@@ -26865,6 +26865,24 @@
     },
     {
       "album": {
+        "name": "\u8ab0\u3060\uff1f",
+        "url": "https://open.spotify.com/album/3X9TlqCjlL1xqndV0lOF7W"
+      },
+      "artists": [
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164372,
+      "name": "\u8ab0\u3060\uff1f",
+      "url": "https://open.spotify.com/track/06k1o3XJTbi9b0zBCaK9qn"
+    },
+    {
+      "album": {
         "name": "\u8ab0\u306eVenus??",
         "url": "https://open.spotify.com/album/29CFIMtsU0jtmufWib1JP9"
       },

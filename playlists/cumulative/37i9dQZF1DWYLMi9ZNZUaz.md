@@ -4,12 +4,12 @@
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
 
-237 songs - 13 hr 59 min
+238 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Tối"](https://open.spotify.com/track/0rIrFq7cRTG1q8ga01cNmx) | [GoAllDay](https://open.spotify.com/artist/2bGV8Wgh1Kb4LPk1jyEnbg), [Dkayz](https://open.spotify.com/artist/3QBPcz2xseythnRtmXRN5G), [Brian](https://open.spotify.com/artist/0nhYBGxxGTXrYIJK93X3LZ) | ["Tối"](https://open.spotify.com/album/0s2Ov5HXGFTgR0Lc61Jvvu) | 3:03 | 2024-07-11 | 2024-07-27 |
-| [1\-800\-LOVE](https://open.spotify.com/track/7K1yMkQqA9ZxHfa2y4XsY6) | [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV) | [1\-800\-LOVE](https://open.spotify.com/album/24E35s7rYA3IzKm2BPeusC) | 4:25 | 2024-10-03 |  |
+| [1\-800\-LOVE](https://open.spotify.com/track/7K1yMkQqA9ZxHfa2y4XsY6) | [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV) | [1\-800\-LOVE](https://open.spotify.com/album/24E35s7rYA3IzKm2BPeusC) | 4:25 | 2024-10-03 | 2024-11-11 |
 | [10 Ngàn Năm](https://open.spotify.com/track/76KYaCx7UjHwlnrqzcovLZ) | [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0) | [10 Ngàn Năm](https://open.spotify.com/album/1LkA7FjIQpuZBgxdd3nNvF) | 4:00 | 2023-10-19 | 2024-10-10 |
 | [12345 \(feat\. JGKiD\)](https://open.spotify.com/track/0R2MTQjHh6lmOCiVgnHiFW) | [GDucky](https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW), [JGKiD \(Da LAB\)](https://open.spotify.com/artist/3mYnd5Nlmdpg4D9rbAqNUD) | [12345 \(feat\. JGKiD\)](https://open.spotify.com/album/6RqGKs0rcnoY9bos3Oi3fb) | 3:35 | 2023-12-08 | 2024-02-12 |
 | [2014](https://open.spotify.com/track/5juq95pMEYdSzCXKYR5J69) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [2014](https://open.spotify.com/album/0yQFVTaw2VtsxsudX9JmFr) | 3:34 | 2024-05-23 | 2024-06-04 |
@@ -189,6 +189,7 @@
 | [Sài Gòn Tôi Mưa \(feat\. MC Goku\)](https://open.spotify.com/track/2X5LuMWLKierQu3O9H1Bxc) | [Tuyên](https://open.spotify.com/artist/4joNWs26XgMPKcV4hJ03hr), [MC Goku](https://open.spotify.com/artist/2bKNcCAdRX7YNvvQ2eiCl9) | [Sài Gòn Tôi Mưa \(feat\. MC Goku\)](https://open.spotify.com/album/3iG4luFGo5MhRFcW7KoZ7e) | 5:29 | 2024-06-25 | 2024-09-18 |
 | [Sài Gòn ơi](https://open.spotify.com/track/5BE96iX1TLgVHFDJPcKpkp) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 3:08 | 2024-05-23 | 2024-07-18 |
 | [Sá Xị Chương Dương](https://open.spotify.com/track/6K4Bzwf1Zl07n3C9myO35P) | [Cam](https://open.spotify.com/artist/4IiJbbRn328Zxw8mtHb7bo) | [Sá Xị Chương Dương](https://open.spotify.com/album/64Ws2OwRhwTqiKkITCMtYd) | 1:41 | 2023-12-11 | 2023-12-22 |
+| [TALAGI](https://open.spotify.com/track/1Cv9w0KLlrz0t4ExKO76QE) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [WHENITSASUNNIDAY](https://open.spotify.com/artist/3Hw8laObefIk5NMDmXMMsn) | [TALAGI](https://open.spotify.com/album/5jCumbmCqmSAUfPUNqYGgw) | 3:42 | 2024-11-08 |  |
 | [TAMKA](https://open.spotify.com/track/2iBH5yoNHVqr6V3YzLOVyM) | [QNT](https://open.spotify.com/artist/4LuFOXq87Tg0JSl5U7yxFZ), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Mason Nguyen](https://open.spotify.com/artist/2s5hnhD9L1iohSpPZKnOhv) | [TAMKA](https://open.spotify.com/album/0GRbPG5tc7WfLA0ulH0KS6) | 3:25 | 2024-06-20 | 2024-07-01 |
 | [Tay To](https://open.spotify.com/track/41aMYNen9G7uUbqLfV65cF) | [Rapital](https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Phongkhin](https://open.spotify.com/artist/7qHgn5ADOzPBlcWcXfM6iA) | [Rapitalove](https://open.spotify.com/album/3ULu7EK5sl1zUdx2r7D15E) | 2:45 | 2023-10-19 | 2023-12-25 |
 | [Tell the kids i love them \(ft\. Shiki\)](https://open.spotify.com/track/2UtFCtiSoc30GJ4MUcHDKr) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 3:44 | 2023-10-19 | 2024-07-23 |

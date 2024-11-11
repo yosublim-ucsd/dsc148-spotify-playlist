@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Col3trane
 
-1,327 songs - 2 day 21 hr 57 min
+1,328 songs - 2 day 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [Free Range](https://open.spotify.com/track/04Mb1bvxcOUuYNnHwV4RqP) | [Shaolinn](https://open.spotify.com/artist/08k2gPQqErQja9SME76i8Q) | [Free Range](https://open.spotify.com/album/4PkMA4iPLj1RcwMpMKmYxg) | 2:15 | 2022-08-12 | 2023-08-12 |
 | [Freezing](https://open.spotify.com/track/1k9MIdBQbsEyUZmeYD16gk) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Freezing](https://open.spotify.com/album/2jaC3frsSh9AZ84E9tFXPU) | 2:57 | 2022-04-01 | 2022-04-16 |
 | [Freezing](https://open.spotify.com/track/4bD5pbgrm1bkLjUr0NFZEY) | [syd B](https://open.spotify.com/artist/6cBSgFUoVWA9CIA159x2Jr) | [Freezing](https://open.spotify.com/album/13vAjSldR5cn72SJ9vCu2G) | 3:05 | 2022-04-01 | 2022-04-06 |
+| [FRIENDZONE](https://open.spotify.com/track/2CUWQEPhGo67JuDBng3jlN) | [\_BY.ALEXANDER](https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [FRIENDZONE](https://open.spotify.com/album/4Azxmej19KS4JDIEKiRJno) | 3:30 | 2024-11-01 |  |
 | [From Scratch](https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:25 | 2024-08-09 |  |
 | [Frontier Pass](https://open.spotify.com/track/24G6qIFgmj40koUyIv2TfB) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Frontier Pass](https://open.spotify.com/album/1fcs0XDucXzC3Ns541p9Lr) | 2:59 | 2023-04-07 | 2023-07-23 |
 | [Fuck Tha World](https://open.spotify.com/track/0BMNgV6BjAvWU3zueMBaRu) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Fuck Tha World](https://open.spotify.com/album/49QnWzeoHyQsILlEoM8aAQ) | 2:21 | 2023-01-13 | 2023-07-01 |
@@ -579,7 +580,7 @@
 | [IDC](https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz) | 1:52 | 2022-10-07 | 2023-02-11 |
 | [IDC](https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI) | 1:52 | 2022-10-07 | 2022-12-15 |
 | [IDFK](https://open.spotify.com/track/0RGOkqLOtfL21gkYUaO9WT) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [3rr0r](https://open.spotify.com/album/1cem9I2x2idLH5n3Vz4CNx) | 3:04 | 2022-07-15 | 2022-07-26 |
-| [IDONTNEEDUANYMORE](https://open.spotify.com/track/00XlzaRPW0HiBiJ7RhP10H) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Gap Year!](https://open.spotify.com/album/2ObDRU1wRJ2fZ2yD9WXNYy) | 3:23 | 2024-09-06 |  |
+| [IDONTNEEDUANYMORE](https://open.spotify.com/track/00XlzaRPW0HiBiJ7RhP10H) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Gap Year!](https://open.spotify.com/album/2ObDRU1wRJ2fZ2yD9WXNYy) | 3:23 | 2024-09-06 | 2024-11-11 |
 | [IF HE RULES THE WORLD](https://open.spotify.com/track/4W7bZVTlkupyRLq1XnQCXs) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [IT'S NOT PERSONAL](https://open.spotify.com/album/6l4GU3zH6IulyXT2zPfLB5) | 3:19 | 2022-04-01 | 2022-06-17 |
 | [If You Could See Me Now](https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [If You Could See Me Now](https://open.spotify.com/album/0Xet0Nvdl5P0gFa7cBCyY0) | 2:41 | 2022-09-02 | 2023-08-19 |
 | [If You Let Me](https://open.spotify.com/track/4gEQcoKNoLFLyhory3Y5Zr) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Sunbeam](https://open.spotify.com/album/0bfXZQxSJElGATQnCvFSMc) | 2:15 | 2021-10-08 | 2022-01-29 |

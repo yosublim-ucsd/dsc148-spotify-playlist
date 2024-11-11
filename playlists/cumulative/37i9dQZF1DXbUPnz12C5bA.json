@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 267840,
       "name": "A Besitos",
       "url": "https://open.spotify.com/track/5qlIIog5kwh0hhiSO5yGv0"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 246506,
       "name": "Busca Un Confidente",
       "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
@@ -958,7 +958,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 280746,
       "name": "El Caballero",
       "url": "https://open.spotify.com/track/1Tbp6d23AgMN75hAFvEGLa"
@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-05",
+      "date_removed": null,
       "duration_ms": 317785,
       "name": "Ense\u00f1ame a olvidar",
       "url": "https://open.spotify.com/track/39Y8X0d5PZ6st301nUp1sC"
@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 317760,
       "name": "Entregame Tu Amor",
       "url": "https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot"
@@ -2480,6 +2480,28 @@
       "duration_ms": 270602,
       "name": "Mi Primer Amor",
       "url": "https://open.spotify.com/track/0AUvqI8gBOxFN3ZxA3SScw"
+    },
+    {
+      "album": {
+        "name": "Mejor Que Antes",
+        "url": "https://open.spotify.com/album/3ZVXcUUrYFAfAtG1brH6oF"
+      },
+      "artists": [
+        {
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        },
+        {
+          "name": "Amin Martinez",
+          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257642,
+      "name": "Muchacha Encantadora",
+      "url": "https://open.spotify.com/track/5Tt3giholy0v1UAJ1DJwpt"
     },
     {
       "album": {

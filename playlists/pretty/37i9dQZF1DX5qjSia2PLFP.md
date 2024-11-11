@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next in their regions and beyond\. Cover: <a href="spotify:artist:1J1pGfTqp5ReVIX8Z1Wzsg">BabyChiefDoit</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,509 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,551 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

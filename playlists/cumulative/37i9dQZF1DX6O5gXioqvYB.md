@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: Mazzariello
 
-201 songs - 9 hr 52 min
+202 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Coca Malibù](https://open.spotify.com/track/0exExNFTaK4CFIu8nlAhWn) | [Sir Giove](https://open.spotify.com/artist/50Pi0iTbnC3hDmCx6Bge2i) | [Coca Malibù](https://open.spotify.com/album/0lkr2DmnU8rHWSdi9aPmlD) | 2:46 | 2024-07-25 | 2024-09-27 |
 | [CocaCola & Pepsi](https://open.spotify.com/track/6CgoGZbSpK82pbRWRX6Eyg) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [X TROVARE UN POSTO NEL MONDO](https://open.spotify.com/album/61fkXN3qBwCHkA3DO1G9yN) | 2:48 | 2024-06-27 | 2024-07-19 |
 | [Colleghi borghesi](https://open.spotify.com/track/0m1hqYWkAfGvkfOWCRPOvL) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Colleghi borghesi](https://open.spotify.com/album/4v3Gt0SRVsGEPi4q0jJKib) | 2:30 | 2024-07-04 | 2024-10-24 |
+| [Come mare](https://open.spotify.com/track/3IyoDEdAtGY1hVXII9U5pQ) | [NICOL](https://open.spotify.com/artist/5SHDHLDBneSJWuVN8DAShg) | [Come mare](https://open.spotify.com/album/2jyOpZYw0wuhzSd13KPzI5) | 2:53 | 2024-11-07 |  |
 | [Come Stai?](https://open.spotify.com/track/3HI7uWeBPv4ahPhoAMSjvs) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Come Stai?](https://open.spotify.com/album/3IjNTYpPNb9Jvfayj13kv2) | 2:34 | 2024-09-26 |  |
 | [Come un cane](https://open.spotify.com/track/4JujqIRmOF4x0ajNH1sb6o) | [Möly](https://open.spotify.com/artist/4GBjWACIYE3kPxTLNkBiPo) | [Come un cane](https://open.spotify.com/album/32VsW1b0TZEcDxAgPH2SLl) | 3:31 | 2024-07-25 | 2024-09-27 |
 | [Comfort zone](https://open.spotify.com/track/0F8WxJdboc9dINI2tPtSho) | [Riva](https://open.spotify.com/artist/3tPJLXaVURp1YXYpvmkSCe) | [Pensiero Stupendo Universale](https://open.spotify.com/album/0vxJ5R1vdbV0wHU8Q8E007) | 3:41 | 2024-06-27 | 2024-07-27 |
@@ -149,7 +150,7 @@
 | [Polpastrelli](https://open.spotify.com/track/7ujJ9c0LozCmL0gEh5uFcK) | [GIROTTI](https://open.spotify.com/artist/2MIjG40Nta91vk0nG7Rkak) | [Polpastrelli](https://open.spotify.com/album/6q3emqCWz6naRFoKweiQJ7) | 3:31 | 2024-07-25 | 2024-09-27 |
 | [Portami via](https://open.spotify.com/track/0apbAqwbO4vs35a3tVBaCw) | [Lucrezia](https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl) | [Portami via](https://open.spotify.com/album/3Izoj2GQMMxLcDUlLTpGNt) | 2:55 | 2024-10-24 |  |
 | [Posto Nuovo](https://open.spotify.com/track/1B1JlGhz2IycsOV8EmaJXi) | [Casadilego](https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT) | [Posto Nuovo](https://open.spotify.com/album/06E5ivgvPo3qLoX6jK8t82) | 5:43 | 2024-08-29 |  |
-| [Preda](https://open.spotify.com/track/44kebdQfiOBh5ID6u2Sxvc) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Preda](https://open.spotify.com/album/7la4ofRNquJmp6cqsdU3rj) | 2:36 | 2024-09-05 |  |
+| [Preda](https://open.spotify.com/track/44kebdQfiOBh5ID6u2Sxvc) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Preda](https://open.spotify.com/album/7la4ofRNquJmp6cqsdU3rj) | 2:36 | 2024-09-05 | 2024-11-11 |
 | [Profumo di dolore \(feat\. EDONiCO\)](https://open.spotify.com/track/5alocERr1H4Qy6mwidyBmV) | [Leonardo Zaccaria](https://open.spotify.com/artist/6TcPvpaSG1G3UjyhqxPY1f), [EDONiCO](https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7) | [Profumo di dolore \(feat\. EDONiCO\)](https://open.spotify.com/album/7tsEBf66mZeBamRgN7CNLK) | 2:39 | 2024-06-27 | 2024-07-12 |
 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 | 2024-09-05 |  |
 | [Questa notte resta](https://open.spotify.com/track/3dzmfNVTS5y3DZkXIe6EsG) | [Fran e i Pensieri Molesti](https://open.spotify.com/artist/37dWYlSjeT4mB3sTyblB43) | [Questa notte resta](https://open.spotify.com/album/1HFj68aBxlVNUujEoSYVVw) | 2:49 | 2024-09-05 | 2024-09-27 |

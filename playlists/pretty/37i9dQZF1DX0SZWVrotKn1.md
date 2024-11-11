@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SZWVrotKn1.md) - [plain]
 
 > Tú me dejaste caer pero el perreo me levantó.
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,595 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,820 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 60226,
+  "num_followers": 60242,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy1UgAAAAAB+o298a/Mgnlil4TJiR+V0",
+  "snapshot_id": "Zy6mAAAAAACvibCnO5prh1TWnBwKKiBA",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuando Regreso A Tus Brazos",
+        "url": "https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "La Prieta Linda",
+      "url": "https://open.spotify.com/track/0P2uUhEU7JeVPCwFnxhrAD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "3 Grandes De La Banda En Homenaje A Jos\u00e9 Alfredo Jim\u00e9nez",
         "url": "https://open.spotify.com/album/7MqSnitKxSy1vMXb35250u"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 187062,
       "name": "El Hijo Del Pueblo",
       "url": "https://open.spotify.com/track/1Ccnqnx2Rp9msuOCudiqwg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuando Regreso A Tus Brazos",
-        "url": "https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 207066,
-      "name": "La Prieta Linda",
-      "url": "https://open.spotify.com/track/0P2uUhEU7JeVPCwFnxhrAD"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras Rancheras",
-        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 149640,
-      "name": "Pase Y Pase",
-      "url": "https://open.spotify.com/track/5sK1Tz6eqakvg6qpOtJxMg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Ley De La Vida",
         "url": "https://open.spotify.com/album/5qhVk36xZ9uj7oNRN1CYQg"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 118440,
       "name": "Vida Mafiosa",
       "url": "https://open.spotify.com/track/7y2rMsFIh7wKS6cTwWLSXU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 149640,
+      "name": "Pase Y Pase",
+      "url": "https://open.spotify.com/track/5sK1Tz6eqakvg6qpOtJxMg"
     }
   ],
   "unique_name": "This Is El Coyote Y Su Banda Tierra Santa",

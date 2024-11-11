@@ -525,6 +525,28 @@
     },
     {
       "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/0pafIzlF5MDBTpZEPjZpBL"
+      },
+      "artists": [
+        {
+          "name": "Krystal Roxx",
+          "url": "https://open.spotify.com/artist/79Znj8lVVpXXJ4KHDfCVk0"
+        },
+        {
+          "name": "Chelcee Grimes",
+          "url": "https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/3wHuC5pKk7TpvoupuTeZzj"
+    },
+    {
+      "album": {
         "name": "Girls",
         "url": "https://open.spotify.com/album/1Cg5coj6Ac7byRUMRf313K"
       },

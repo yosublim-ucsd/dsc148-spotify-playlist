@@ -4,7 +4,7 @@
 
 > Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: VƯƠNG BÌNH
 
-1,884 songs - 4 day 14 hr 22 min
+1,885 songs - 4 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,6 +542,7 @@
 | [Em Là Áng Mây](https://open.spotify.com/track/1ckK3cShdFpW4RxvFdAiSI) | [Lê Vũ](https://open.spotify.com/artist/5t18GHcI1L5EeeMCQLKchZ), [Karrot](https://open.spotify.com/artist/0Ok2WXF4QmV02a0k6nijST) | [Em Là Áng Mây](https://open.spotify.com/album/6VXrfGpTFsidV7FhLorC7J) | 3:45 | 2022-04-12 | 2023-01-06 |
 | [Em Muốn](https://open.spotify.com/track/6679kGAhJ83sFhJArAj9Na) | [chillingo](https://open.spotify.com/artist/23ZFLCv47cdgbFptnYUb0J), [Gavin G](https://open.spotify.com/artist/34DOSaoM6W94zcR27G7YNe), [GoAllDay](https://open.spotify.com/artist/2bGV8Wgh1Kb4LPk1jyEnbg) | [Em Muốn](https://open.spotify.com/album/46kEShcbu4qgfYoZ01pvCa) | 2:52 | 2022-01-06 | 2023-01-06 |
 | [Em muốn gì ở anh](https://open.spotify.com/track/352ZZEDC1aHLbMMPAztgyT) | [Clow](https://open.spotify.com/artist/340QB5yIg8bZoi4uJyTB30) | [Em muốn gì ở anh](https://open.spotify.com/album/4OqEvgiXNi3gIqJIaHDAXl) | 2:53 | 2023-03-17 | 2023-05-23 |
+| [em muốn đi đâu](https://open.spotify.com/track/5gAWmjxfV0kASqdDtp5Bjr) | [Sweet Liquor](https://open.spotify.com/artist/2s2AP9Bj9ltYjB9XIbGr0e), [Dand](https://open.spotify.com/artist/10tAnaNBjVXMBMHOjtjUpu), [Stevee](https://open.spotify.com/artist/1xyhMIswzgjnffHZzcOKCZ) | [em muốn đi đâu](https://open.spotify.com/album/3pzGjBxz4NwropypdemHOS) | 3:07 | 2024-11-10 |  |
 | [Em Mơ](https://open.spotify.com/track/7LDiqzLHjKmNLhaT6tjrxm) | [Thien](https://open.spotify.com/artist/49OrZJXy3kBttn6pA9f1vK), [Xuyến](https://open.spotify.com/artist/7nToQ0Ql265Q48XnvhBcA4) | [Em Mơ](https://open.spotify.com/album/0Ivqs6sh8XygmRqf9EFtWw) | 5:35 | 2023-03-04 | 2023-04-27 |
 | [Em Mờ Em](https://open.spotify.com/track/2dyTedbTiI8R5qj3ixSIEr) | [Lơ.](https://open.spotify.com/artist/5XvRcIEn3tdxrgok9wItFF) | [Em Mờ Em](https://open.spotify.com/album/76GsP9SuihMfxvgjpjhC2n) | 4:20 | 2023-11-16 | 2023-11-30 |
 | [Em Nghĩ Gì?](https://open.spotify.com/track/2XbJjWtTPX2x3IViVflYkT) | [Tades](https://open.spotify.com/artist/3T2WGer7auYf8O9ZNAUW83) | [Em Nghĩ Gì?](https://open.spotify.com/album/0fN9huld84v1NXynkp9k9q) | 3:46 | 2023-11-16 | 2023-11-30 |
@@ -1607,7 +1608,7 @@
 | [U OH U OH](https://open.spotify.com/track/6bwB7bBl77O6QczQcmctCF) | [NAM23](https://open.spotify.com/artist/6cNFDwWYmBdufV0b6C461O) | [U OH U OH](https://open.spotify.com/album/1e5wZneFoJpHN7xifNCRAk) | 4:14 | 2023-06-06 | 2023-06-30 |
 | [U See ?](https://open.spotify.com/track/1mufxqDbqHIPBwzaTmNS8s) | [Ed.Haaju](https://open.spotify.com/artist/2rTC9u4k08gT9PFhemIHrp), [HuyenKi](https://open.spotify.com/artist/4juI8Tldi01TWpO5ZrfUlN), [TANDAT](https://open.spotify.com/artist/1uKzNHUPXYso6SVeXdeX98) | [U See ?](https://open.spotify.com/album/5I2EHGKrUnJnWs6bi6Rf4y) | 2:52 | 2024-06-20 | 2024-08-07 |
 | [Ulala \(feat\. T.R.I\)](https://open.spotify.com/track/1RV2oiNHqagcwOAvLN9qeX) | [Kim Kunni](https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g), [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Ulala](https://open.spotify.com/album/6T4E1Vk1gP5LM300KhSW6I) | 3:02 | 2023-07-23 | 2023-12-30 |
-| [uocgicoaynoiyeutoi \- w1bi Remix](https://open.spotify.com/track/1lJIqkWldq8GQ2HX38epAJ) | [w1bi](https://open.spotify.com/artist/4nstWR7lu0hmAixmpM3Soh), [Lil Liem](https://open.spotify.com/artist/5WtJZwEnoNM2Te1jh6Uftx) | [uocgicoaynoiyeutoi \(w1bi Remix\)](https://open.spotify.com/album/2Is9iclR9GU7FB6vRucq79) | 3:46 | 2024-10-31 |  |
+| [uocgicoaynoiyeutoi \- w1bi Remix](https://open.spotify.com/track/1lJIqkWldq8GQ2HX38epAJ) | [w1bi](https://open.spotify.com/artist/4nstWR7lu0hmAixmpM3Soh), [Lil Liem](https://open.spotify.com/artist/5WtJZwEnoNM2Te1jh6Uftx) | [uocgicoaynoiyeutoi \(w1bi Remix\)](https://open.spotify.com/album/2Is9iclR9GU7FB6vRucq79) | 3:46 | 2024-10-31 | 2024-11-11 |
 | [Ur Last](https://open.spotify.com/track/3MocLz6PpG5s1fExwkOfc4) | [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ), [1Sebt](https://open.spotify.com/artist/63JqmXv0wo6jAOOUzypO8J) | [Ur Last](https://open.spotify.com/album/6nNWq1rjVAfl46XxD6easA) | 3:02 | 2023-08-01 | 2024-05-24 |
 | [Uuu](https://open.spotify.com/track/6SAGcsRLCJPUmndzApbuUw) | [tnglinh](https://open.spotify.com/artist/6ZXaSrHSpCyZlOjOhhFnOy) | [Cry In Italic](https://open.spotify.com/album/0aLv0BrB76HRZ2o9hs15cL) | 3:44 | 2023-06-26 | 2023-07-18 |
 | [Uống Chén Say](https://open.spotify.com/track/0jw1fjRmyY8nrSg864aJOR) | [KHOA](https://open.spotify.com/artist/4mVk10ulshxfn0yRO491IE) | [Uống Chén Say](https://open.spotify.com/album/1wdj6QqOf9p8amk2vAtZbc) | 3:06 | 2022-09-22 | 2022-11-01 |

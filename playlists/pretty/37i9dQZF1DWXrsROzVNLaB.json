@@ -1,6 +1,6 @@
 {
   "description": "Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection. ",
-  "num_followers": 12100,
+  "num_followers": 12106,
   "original_name": "Holy Week: Easter",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,26 @@
     {
       "added_at": "2024-07-02 00:57:49",
       "album": {
+        "name": "A Beautiful Exchange",
+        "url": "https://open.spotify.com/album/060wTUMWUW8HDuMkWddjci"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Joel Houston",
+          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
+        }
+      ],
+      "duration_ms": 643373,
+      "name": "Beautiful Exchange - Live",
+      "url": "https://open.spotify.com/track/2IoLThsLZVkOwDiHwQ0dyM"
+    },
+    {
+      "added_at": "2024-07-02 00:57:49",
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/4YaEXOMUNvRubNdJkq2vSP"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 263878,
       "name": "Love Has A Name - Studio Version",
       "url": "https://open.spotify.com/track/2R73ci2mlkyLfpOwP87bSV"
-    },
-    {
-      "added_at": "2024-07-02 00:57:49",
-      "album": {
-        "name": "A Beautiful Exchange",
-        "url": "https://open.spotify.com/album/060wTUMWUW8HDuMkWddjci"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Joel Houston",
-          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
-        }
-      ],
-      "duration_ms": 643373,
-      "name": "Beautiful Exchange - Live",
-      "url": "https://open.spotify.com/track/2IoLThsLZVkOwDiHwQ0dyM"
     },
     {
       "added_at": "2024-07-02 00:57:49",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-07-02 00:57:49",
       "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 283746,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc"
+    },
+    {
+      "added_at": "2024-07-02 00:57:49",
+      "album": {
         "name": "How Great Is Our God: The Essential Collection",
         "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 427706,
       "name": "The Wonderful Cross",
       "url": "https://open.spotify.com/track/784qUrovUUH4jYQ811D6hF"
-    },
-    {
-      "added_at": "2024-07-02 00:57:49",
-      "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 283746,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc"
     },
     {
       "added_at": "2024-07-02 00:57:49",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-02 00:57:49",
       "album": {
-        "name": "See The Morning",
-        "url": "https://open.spotify.com/album/1rt1h8pDDeJoVJrr5jbAmi"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "Amazing Grace (My Chains Are Gone)",
-      "url": "https://open.spotify.com/track/6AsJ2pB08SKZ0j96U7F1pr"
-    },
-    {
-      "added_at": "2024-07-02 00:57:49",
-      "album": {
         "name": "Our God Will See Us Through (Live)",
         "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 264506,
       "name": "Thief",
       "url": "https://open.spotify.com/track/4w7qUNRMg3A3xnqhE37TP3"
+    },
+    {
+      "added_at": "2024-07-02 00:57:49",
+      "album": {
+        "name": "See The Morning",
+        "url": "https://open.spotify.com/album/1rt1h8pDDeJoVJrr5jbAmi"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Amazing Grace (My Chains Are Gone)",
+      "url": "https://open.spotify.com/track/6AsJ2pB08SKZ0j96U7F1pr"
     },
     {
       "added_at": "2024-07-02 00:57:49",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-07-02 00:57:49",
       "album": {
-        "name": "The Greatest Hits",
-        "url": "https://open.spotify.com/album/72W8NheOUCQH4neNpQdkTm"
-      },
-      "artists": [
-        {
-          "name": "Keith Green",
-          "url": "https://open.spotify.com/artist/0sA93wBoY7nJUE8dSrOZay"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "Easter Song",
-      "url": "https://open.spotify.com/track/4Uv19eDb9Os5UQODqb0edh"
-    },
-    {
-      "added_at": "2024-07-02 00:57:49",
-      "album": {
         "name": "Alive Again",
         "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 315520,
       "name": "You Were On The Cross",
       "url": "https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp"
+    },
+    {
+      "added_at": "2024-07-02 00:57:49",
+      "album": {
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/72W8NheOUCQH4neNpQdkTm"
+      },
+      "artists": [
+        {
+          "name": "Keith Green",
+          "url": "https://open.spotify.com/artist/0sA93wBoY7nJUE8dSrOZay"
+        }
+      ],
+      "duration_ms": 237973,
+      "name": "Easter Song",
+      "url": "https://open.spotify.com/track/4Uv19eDb9Os5UQODqb0edh"
     },
     {
       "added_at": "2024-07-02 00:57:49",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2024-07-02 00:57:49",
       "album": {
-        "name": "Celebration at the Empty Grave",
-        "url": "https://open.spotify.com/album/3lAyWpRS4zkP4tBOWOTL4d"
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
       },
       "artists": [
         {
-          "name": "Down East Boys",
-          "url": "https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln"
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Celebration at the Empty Grave",
-      "url": "https://open.spotify.com/track/55QERSLUTHM82JBsoTO78m"
+      "duration_ms": 232826,
+      "name": "The Cross Forever Speaks",
+      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
     },
     {
       "added_at": "2024-07-02 00:57:49",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-07-02 00:57:49",
       "album": {
+        "name": "Celebration at the Empty Grave",
+        "url": "https://open.spotify.com/album/3lAyWpRS4zkP4tBOWOTL4d"
+      },
+      "artists": [
+        {
+          "name": "Down East Boys",
+          "url": "https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Celebration at the Empty Grave",
+      "url": "https://open.spotify.com/track/55QERSLUTHM82JBsoTO78m"
+    },
+    {
+      "added_at": "2024-07-02 00:57:49",
+      "album": {
         "name": "See The Morning",
         "url": "https://open.spotify.com/album/1rt1h8pDDeJoVJrr5jbAmi"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 241573,
       "name": "Glorious",
       "url": "https://open.spotify.com/track/1jOzjWWNdIEKfX8g48FDEu"
-    },
-    {
-      "added_at": "2024-07-02 00:57:49",
-      "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 232826,
-      "name": "The Cross Forever Speaks",
-      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
     },
     {
       "added_at": "2024-07-02 00:57:49",

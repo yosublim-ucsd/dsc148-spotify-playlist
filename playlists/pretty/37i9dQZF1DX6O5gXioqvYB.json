@@ -1,6 +1,6 @@
 {
   "description": "La nuova scena indie italiana! Cover: Mazzariello",
-  "num_followers": 33713,
+  "num_followers": 33712,
   "original_name": "Scuola Indie",
   "owner": {
     "name": "Spotify",
@@ -383,26 +383,6 @@
     {
       "added_at": "2024-11-07 23:01:00",
       "album": {
-        "name": "A me fa schifo l'America",
-        "url": "https://open.spotify.com/album/0vifYd4MXA8MBmr181hPxL"
-      },
-      "artists": [
-        {
-          "name": "Livrizzi",
-          "url": "https://open.spotify.com/artist/5RFd3ineLehbrXEWD9qZ2j"
-        },
-        {
-          "name": "Kaiz\u00e9n",
-          "url": "https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW"
-        }
-      ],
-      "duration_ms": 191868,
-      "name": "A me fa schifo l'America",
-      "url": "https://open.spotify.com/track/6I4OeRyto3U4gNY2oiSepv"
-    },
-    {
-      "added_at": "2024-11-07 23:01:00",
-      "album": {
         "name": "TUFFO",
         "url": "https://open.spotify.com/album/04lXMprxBDiuRTCkewUZvS"
       },
@@ -415,6 +395,22 @@
       "duration_ms": 214670,
       "name": "Trentasette denti",
       "url": "https://open.spotify.com/track/3SHAVr1ZV5UCDtdPDEcRTb"
+    },
+    {
+      "added_at": "2024-11-07 23:01:00",
+      "album": {
+        "name": "Vigliacco",
+        "url": "https://open.spotify.com/album/5cx8qagp92T96D7CXYMMbS"
+      },
+      "artists": [
+        {
+          "name": "43.Nove",
+          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Vigliacco",
+      "url": "https://open.spotify.com/track/1BTU1ZDBStYh2uwF6Flpro"
     },
     {
       "added_at": "2024-11-07 23:01:00",
@@ -435,18 +431,22 @@
     {
       "added_at": "2024-11-07 23:01:00",
       "album": {
-        "name": "Vigliacco",
-        "url": "https://open.spotify.com/album/5cx8qagp92T96D7CXYMMbS"
+        "name": "A me fa schifo l'America",
+        "url": "https://open.spotify.com/album/0vifYd4MXA8MBmr181hPxL"
       },
       "artists": [
         {
-          "name": "43.Nove",
-          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
+          "name": "Livrizzi",
+          "url": "https://open.spotify.com/artist/5RFd3ineLehbrXEWD9qZ2j"
+        },
+        {
+          "name": "Kaiz\u00e9n",
+          "url": "https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW"
         }
       ],
-      "duration_ms": 193548,
-      "name": "Vigliacco",
-      "url": "https://open.spotify.com/track/1BTU1ZDBStYh2uwF6Flpro"
+      "duration_ms": 191868,
+      "name": "A me fa schifo l'America",
+      "url": "https://open.spotify.com/track/6I4OeRyto3U4gNY2oiSepv"
     },
     {
       "added_at": "2024-11-07 23:01:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-11-07 23:01:00",
       "album": {
-        "name": "Mosche",
-        "url": "https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE"
-      },
-      "artists": [
-        {
-          "name": "43.Nove",
-          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
-        }
-      ],
-      "duration_ms": 155036,
-      "name": "Mosche",
-      "url": "https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl"
-    },
-    {
-      "added_at": "2024-11-07 23:01:00",
-      "album": {
         "name": "Maldini",
         "url": "https://open.spotify.com/album/5sVnpEBkOLwlluRMSdBFgo"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 190578,
       "name": "Maldini",
       "url": "https://open.spotify.com/track/1STuYs2CTpIIwff4tdM3YT"
+    },
+    {
+      "added_at": "2024-11-07 23:01:00",
+      "album": {
+        "name": "Mosche",
+        "url": "https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE"
+      },
+      "artists": [
+        {
+          "name": "43.Nove",
+          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
+        }
+      ],
+      "duration_ms": 155036,
+      "name": "Mosche",
+      "url": "https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl"
     },
     {
       "added_at": "2024-11-07 23:01:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-11-07 23:01:00",
       "album": {
-        "name": "Cosa Non Va?",
-        "url": "https://open.spotify.com/album/6JkqIF1QEa9UUbDr61jzPX"
-      },
-      "artists": [
-        {
-          "name": "CORSO ITALIA",
-          "url": "https://open.spotify.com/artist/2RDSqbpdMEUKIWM1xKXKnK"
-        }
-      ],
-      "duration_ms": 184836,
-      "name": "Cosa Non Va?",
-      "url": "https://open.spotify.com/track/6vxDGxG1lj0qJrL9ihBq8a"
-    },
-    {
-      "added_at": "2024-11-07 23:01:00",
-      "album": {
         "name": "206",
         "url": "https://open.spotify.com/album/44Nf83ckLxc0wdzTNliqLB"
       },
@@ -743,6 +727,22 @@
     {
       "added_at": "2024-11-07 23:01:00",
       "album": {
+        "name": "Cosa Non Va?",
+        "url": "https://open.spotify.com/album/6JkqIF1QEa9UUbDr61jzPX"
+      },
+      "artists": [
+        {
+          "name": "CORSO ITALIA",
+          "url": "https://open.spotify.com/artist/2RDSqbpdMEUKIWM1xKXKnK"
+        }
+      ],
+      "duration_ms": 184836,
+      "name": "Cosa Non Va?",
+      "url": "https://open.spotify.com/track/6vxDGxG1lj0qJrL9ihBq8a"
+    },
+    {
+      "added_at": "2024-11-07 23:01:00",
+      "album": {
         "name": ") ) ) echo ( ( ( (",
         "url": "https://open.spotify.com/album/1VlMacT6VojUdWYnQgUZVB"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-11-07 23:01:00",
       "album": {
-        "name": "luci dell'autostrada",
-        "url": "https://open.spotify.com/album/2RWLqaalwSC4qK9nCKokZF"
-      },
-      "artists": [
-        {
-          "name": "Biava",
-          "url": "https://open.spotify.com/artist/3tnRz0rA9YnwZ7BUv958vk"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "luci dell'autostrada",
-      "url": "https://open.spotify.com/track/1njaBfkZQy1zFZVdBRevzU"
-    },
-    {
-      "added_at": "2024-11-07 23:01:00",
-      "album": {
         "name": "Pennette alla vodka",
         "url": "https://open.spotify.com/album/61Qk1gg5rV9RVlZ797Ry1s"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 181191,
       "name": "Pennette alla vodka",
       "url": "https://open.spotify.com/track/1vFOFOiGA3wKDZiyMacHFk"
+    },
+    {
+      "added_at": "2024-11-07 23:01:00",
+      "album": {
+        "name": "luci dell'autostrada",
+        "url": "https://open.spotify.com/album/2RWLqaalwSC4qK9nCKokZF"
+      },
+      "artists": [
+        {
+          "name": "Biava",
+          "url": "https://open.spotify.com/artist/3tnRz0rA9YnwZ7BUv958vk"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "luci dell'autostrada",
+      "url": "https://open.spotify.com/track/1njaBfkZQy1zFZVdBRevzU"
     },
     {
       "added_at": "2024-11-07 23:01:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-11-07 23:01:00",
       "album": {
-        "name": "PELLE DI PEPERONE",
-        "url": "https://open.spotify.com/album/2kMfyf9mYG2wwUCW7feI1a"
-      },
-      "artists": [
-        {
-          "name": "Gobbi",
-          "url": "https://open.spotify.com/artist/5ujn0tcd0uOU44C5CDhbPd"
-        }
-      ],
-      "duration_ms": 136500,
-      "name": "PELLE DI PEPERONE",
-      "url": "https://open.spotify.com/track/5xr2xhM30YbV4pFnQ2URCa"
-    },
-    {
-      "added_at": "2024-11-07 23:01:00",
-      "album": {
         "name": "VELENO E MARACUJA",
         "url": "https://open.spotify.com/album/5a5UfDW7R2DjDlDndS12a3"
       },
@@ -927,6 +911,22 @@
     {
       "added_at": "2024-11-07 23:01:00",
       "album": {
+        "name": "PELLE DI PEPERONE",
+        "url": "https://open.spotify.com/album/2kMfyf9mYG2wwUCW7feI1a"
+      },
+      "artists": [
+        {
+          "name": "Gobbi",
+          "url": "https://open.spotify.com/artist/5ujn0tcd0uOU44C5CDhbPd"
+        }
+      ],
+      "duration_ms": 136500,
+      "name": "PELLE DI PEPERONE",
+      "url": "https://open.spotify.com/track/5xr2xhM30YbV4pFnQ2URCa"
+    },
+    {
+      "added_at": "2024-11-07 23:01:00",
+      "album": {
         "name": "Sette di Cuori",
         "url": "https://open.spotify.com/album/2DucDNz1pRJo11XUJyxQoG"
       },
@@ -939,6 +939,22 @@
       "duration_ms": 201253,
       "name": "Siviglia",
       "url": "https://open.spotify.com/track/2WomXJlkco1OzDYWxksYV6"
+    },
+    {
+      "added_at": "2024-11-07 23:01:00",
+      "album": {
+        "name": "Come mare",
+        "url": "https://open.spotify.com/album/2jyOpZYw0wuhzSd13KPzI5"
+      },
+      "artists": [
+        {
+          "name": "NICOL",
+          "url": "https://open.spotify.com/artist/5SHDHLDBneSJWuVN8DAShg"
+        }
+      ],
+      "duration_ms": 173545,
+      "name": "Come mare",
+      "url": "https://open.spotify.com/track/3IyoDEdAtGY1hVXII9U5pQ"
     },
     {
       "added_at": "2024-11-07 23:01:00",
@@ -959,22 +975,6 @@
       "duration_ms": 162011,
       "name": "Cu'mme",
       "url": "https://open.spotify.com/track/7o4YxPFeOBZHTncM1HgvPx"
-    },
-    {
-      "added_at": "2024-11-07 23:01:00",
-      "album": {
-        "name": "fuori dalla stanza",
-        "url": "https://open.spotify.com/album/0Hlhcm4rte3kqHNHGNwabv"
-      },
-      "artists": [
-        {
-          "name": "H\u00c5N",
-          "url": "https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1"
-        }
-      ],
-      "duration_ms": 182908,
-      "name": "Fare finta",
-      "url": "https://open.spotify.com/track/3XpZTdwW9LwJTIlQG4K4HF"
     },
     {
       "added_at": "2024-11-07 23:01:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-11-07 23:01:00",
       "album": {
+        "name": "fuori dalla stanza",
+        "url": "https://open.spotify.com/album/0Hlhcm4rte3kqHNHGNwabv"
+      },
+      "artists": [
+        {
+          "name": "H\u00c5N",
+          "url": "https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1"
+        }
+      ],
+      "duration_ms": 182908,
+      "name": "Fare finta",
+      "url": "https://open.spotify.com/track/3XpZTdwW9LwJTIlQG4K4HF"
+    },
+    {
+      "added_at": "2024-11-07 23:01:00",
+      "album": {
         "name": "CALICE",
         "url": "https://open.spotify.com/album/09aUNBdiMCqrnCOLn5mYRC"
       },
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2024-11-07 23:01:00",
       "album": {
-        "name": "se io morissi per stanotte?",
-        "url": "https://open.spotify.com/album/6GAZFkm6RH8LYPEMQ14MUf"
-      },
-      "artists": [
-        {
-          "name": "Dae",
-          "url": "https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ"
-        }
-      ],
-      "duration_ms": 161310,
-      "name": "se io morissi per stanotte?",
-      "url": "https://open.spotify.com/track/1IehxLziYrNEF9QUxa6b5o"
-    },
-    {
-      "added_at": "2024-11-07 23:01:00",
-      "album": {
         "name": "insonnia",
         "url": "https://open.spotify.com/album/7FZyxHxuNHP81BGI4FrYnn"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 161632,
       "name": "insonnia",
       "url": "https://open.spotify.com/track/5xaII2RPf9KXPwPSbIdhKK"
+    },
+    {
+      "added_at": "2024-11-07 23:01:00",
+      "album": {
+        "name": "se io morissi per stanotte?",
+        "url": "https://open.spotify.com/album/6GAZFkm6RH8LYPEMQ14MUf"
+      },
+      "artists": [
+        {
+          "name": "Dae",
+          "url": "https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ"
+        }
+      ],
+      "duration_ms": 161310,
+      "name": "se io morissi per stanotte?",
+      "url": "https://open.spotify.com/track/1IehxLziYrNEF9QUxa6b5o"
     },
     {
       "added_at": "2024-11-07 23:01:00",
@@ -1151,22 +1167,6 @@
       "duration_ms": 194909,
       "name": "catramen",
       "url": "https://open.spotify.com/track/5qDSfaviNFKb78IwNWM98g"
-    },
-    {
-      "added_at": "2024-11-07 23:01:00",
-      "album": {
-        "name": "Preda",
-        "url": "https://open.spotify.com/album/7la4ofRNquJmp6cqsdU3rj"
-      },
-      "artists": [
-        {
-          "name": "43.Nove",
-          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Preda",
-      "url": "https://open.spotify.com/track/44kebdQfiOBh5ID6u2Sxvc"
     }
   ],
   "unique_name": "Scuola Indie",

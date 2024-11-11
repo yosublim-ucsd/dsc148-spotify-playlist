@@ -4,7 +4,7 @@
 
 > Your Tech House therapy session for the dance floor \| Check out Bassline Therapy Radio on SoundCloud
 
-417 songs - 21 hr 55 min
+418 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Over](https://open.spotify.com/track/1Ef6SrzW4vM7uJT11jAJvO) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Cami Bear](https://open.spotify.com/artist/3AupavhLGflK8iq0I9fhUG) | [Over](https://open.spotify.com/album/3Z7dA0IXA4xk4hIRtg9FuQ) | 3:10 | 2024-01-15 | 2024-01-30 |
 | [Overtime](https://open.spotify.com/track/64MU6XEqcryRYDQ5quUDGb) | [Spencer Arnold](https://open.spotify.com/artist/0021eUtLLUzezMdRezE4gB) | [Overtime](https://open.spotify.com/album/5Iobx4aRq3qRzbXeYmYfs6) | 4:07 | 2024-06-23 | 2024-08-20 |
 | [P.A.R.T.Y.](https://open.spotify.com/track/1cwOkJRGAEdomzzaa6FQhr) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [P.A.R.T.Y.](https://open.spotify.com/album/7qtwTswVpzid6t8oF10fFD) | 2:52 | 2024-09-16 | 2024-11-05 |
+| [palm of my hands \- Odd Mob Remix](https://open.spotify.com/track/2vxsdAnntt6eGZJJRaLBF6) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [palm of my hands \(Odd Mob Remix\)](https://open.spotify.com/album/4wAyp0F1m8WNDb7SsuQarq) | 3:23 | 2024-11-11 |  |
 | [People In The Front](https://open.spotify.com/track/0lSVOraKctlmtTKtE5MC1D) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP) | [People In The Front](https://open.spotify.com/album/1ZLKAuqzeHTwhYlwUR0Og7) | 2:33 | 2024-08-19 | 2024-09-05 |
 | [Percolator \- Chris Lake Remix](https://open.spotify.com/track/058p8THgGRjrxMo3QQrIZg) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Percolator \(Chris Lake & Bontan Remixes\)](https://open.spotify.com/album/1IYBF4Hu5rdCbAZgikWs1I) | 3:19 | 2024-11-04 |  |
 | [Personal](https://open.spotify.com/track/4fotLjvSrM90WLKQdSnFod) | [WHOWHENWHY](https://open.spotify.com/artist/5RiXLHmJCEhojilpOaK6FL), [Rise Of The JellyFish](https://open.spotify.com/artist/74u8W37qWfc4v3KINoc9wC) | [Personal](https://open.spotify.com/album/0R3bfLwpDq7n0kOlWSAQUx) | 2:48 | 2024-10-19 |  |

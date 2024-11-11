@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-788 songs - 2 day 22 hr 15 min
+789 songs - 2 day 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 | 2022-07-01 | 2022-12-17 |
 | [Abracadabra](https://open.spotify.com/track/38iiZkYYXMHRPwUruuYD0X) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Abracadabra](https://open.spotify.com/album/06aF9kSXXoUiuN7nSX4u8o) | 3:21 | 2024-05-24 | 2024-07-06 |
 | [AfriKa2](https://open.spotify.com/track/5s7VoXTBBdrqaJdTQWGhRE) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [AfriKa2](https://open.spotify.com/album/4YgJK9AH2g2A4eHaiTX3wi) | 6:07 | 2023-04-21 | 2023-05-03 |
-| [After All](https://open.spotify.com/track/6mQKtXxkbTVamgyRayRQLL) | [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [After All / Hidden Place](https://open.spotify.com/album/3SIJcmFrw2GfqlTsdl3joD) | 5:20 | 2024-11-08 |  |
+| [After All](https://open.spotify.com/track/6mQKtXxkbTVamgyRayRQLL) | [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [After All / Hidden Place](https://open.spotify.com/album/3SIJcmFrw2GfqlTsdl3joD) | 5:20 | 2024-11-08 | 2024-11-11 |
 | [After Glow](https://open.spotify.com/track/7EukyOmsxbTvdaCAxlaSF0) | [Clarian](https://open.spotify.com/artist/2polW59xyLfTDB4E5Ig7Xa) | [After Glow](https://open.spotify.com/album/5hVnONvAlyPC01bq90TvL8) | 8:41 | 2021-07-02 | 2022-07-27 |
 | [Aguacero](https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF) | 6:42 | 2022-07-01 | 2023-09-30 |
 | [Aguacero](https://open.spotify.com/track/3WZIbQjUkhGXVjWqPjMNvs) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/4hTAp0JOofvwTrfwmWLSVD) | 6:42 | 2022-01-21 | 2022-10-28 |
@@ -474,6 +474,7 @@
 | [Move On](https://open.spotify.com/track/2hRd8sG0Qx15VNx4Jk8E7u) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Move On](https://open.spotify.com/album/5SqJpjqYemto4l2ETxIHzA) | 3:13 | 2024-07-12 | 2024-10-05 |
 | [Moving \- Francis Mercier Remix](https://open.spotify.com/track/65IyK1KiAsXlG2eUCrRbCX) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf) | [Moving \(Francis Mercier Remix\)](https://open.spotify.com/album/2lZikxXCTlfUBRdT5LUukG) | 3:34 | 2024-10-11 |  |
 | [Mujer \(Anja Schneider Remix\)](https://open.spotify.com/track/5noZKtZK2JZsGK8JlUiVeB) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Meta\_](https://open.spotify.com/artist/4b2jMQx1533SIiypVXVJ8J), [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Mujer \(Anja Schneider Remix\)](https://open.spotify.com/album/2tAqZzvr2JODFIr70Gkfd4) | 5:43 | 2022-07-01 | 2022-07-24 |
+| [Murder On The Dancefloor \- THEMBA Remix](https://open.spotify.com/track/4A7G8HAFuGDsKa3jpBhGYf) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [Murder On The Dancefloor \(THEMBA Remix\)](https://open.spotify.com/album/77hmYc53Wa20s62MN2xUI9) | 3:45 | 2024-11-08 |  |
 | [Muyè](https://open.spotify.com/track/5WgW9bG91h4zRUnBr97d6c) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [You Are Safe](https://open.spotify.com/album/7lg5i5BW3Fhmay7kEpyORQ) | 7:49 | 2021-05-01 | 2022-08-04 |
 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2023-11-13 |  |
 | [My Love \(2024\)](https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love \(2024\)](https://open.spotify.com/album/73PdhRzMikkkImZ4qHOzZ3) | 3:04 | 2024-08-30 |  |

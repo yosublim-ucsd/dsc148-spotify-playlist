@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 
 > Hyperpopemocoretrap 100pre sad t odio bye 👾 Bruses en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,298 likes - 106 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,317 likes - 106 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

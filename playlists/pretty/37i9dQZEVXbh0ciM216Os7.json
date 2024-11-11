@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABXwppdVzRXrOCjHANo/4B3",
+  "snapshot_id": "AAAAAAAAAAASlgJaTIvytR/0bKw4+2CL",
   "tracks": [
     {
       "added_at": "2024-11-08 05:00:00",
@@ -55,50 +55,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Cold Blues",
-        "url": "https://open.spotify.com/album/5wfExUobMq1CxYzn0CPyRQ"
-      },
-      "artists": [
-        {
-          "name": "Monteasy",
-          "url": "https://open.spotify.com/artist/3zg6hqPCTaZvJ5z2XvWaRR"
-        },
-        {
-          "name": "CT Fletcher",
-          "url": "https://open.spotify.com/artist/7nQKsOwNp5gENU4Ckw9ddD"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 189361,
-      "name": "Cold Blues",
-      "url": "https://open.spotify.com/track/3QoJ02vaV1LL2za9yIWDhV"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Original Sin (Ian Green Mix)",
-        "url": "https://open.spotify.com/album/52jGl1pgFvPWpLL5jU7s3w"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        },
-        {
-          "name": "Ian Green",
-          "url": "https://open.spotify.com/artist/5HnoheFb1wDJa7xQfnfJ4Y"
-        }
-      ],
-      "duration_ms": 253560,
-      "name": "Original Sin - Ian Green Mix",
-      "url": "https://open.spotify.com/track/06ASk70s5oxs646Qm5uasj"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Poeira Cosmica",
         "url": "https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn"
       },
@@ -139,26 +95,42 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Quatri\u00e8me mur",
-        "url": "https://open.spotify.com/album/1VTQXXcGF3m5V4PcxUFpfr"
+        "name": "New York Nemo",
+        "url": "https://open.spotify.com/album/1kyOrLCg6u3GLT3ZGruB8i"
       },
       "artists": [
         {
-          "name": "Scylla",
-          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+          "name": "Nemo P",
+          "url": "https://open.spotify.com/artist/3CjmwHhWM87XdMD2DiStbb"
         },
         {
-          "name": "M\u00e9dine",
-          "url": "https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV"
-        },
-        {
-          "name": "Sofiane Pamart",
-          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         }
       ],
-      "duration_ms": 311070,
-      "name": "Quatri\u00e8me mur",
-      "url": "https://open.spotify.com/track/329U1mHCtj33O1ntN86Pph"
+      "duration_ms": 195056,
+      "name": "BIRDS GOLD",
+      "url": "https://open.spotify.com/track/6MinoRtSLI9jsEserVmqwh"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Original Sin (Ian Green Mix)",
+        "url": "https://open.spotify.com/album/52jGl1pgFvPWpLL5jU7s3w"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        },
+        {
+          "name": "Ian Green",
+          "url": "https://open.spotify.com/artist/5HnoheFb1wDJa7xQfnfJ4Y"
+        }
+      ],
+      "duration_ms": 253560,
+      "name": "Original Sin - Ian Green Mix",
+      "url": "https://open.spotify.com/track/06ASk70s5oxs646Qm5uasj"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -195,6 +167,30 @@
       "duration_ms": 388965,
       "name": "GP TO NW (feat. Ghost)",
       "url": "https://open.spotify.com/track/7ElblGSZpvZaXTgiLy0j3g"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Quatri\u00e8me mur",
+        "url": "https://open.spotify.com/album/1VTQXXcGF3m5V4PcxUFpfr"
+      },
+      "artists": [
+        {
+          "name": "Scylla",
+          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+        },
+        {
+          "name": "M\u00e9dine",
+          "url": "https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV"
+        },
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+        }
+      ],
+      "duration_ms": 311070,
+      "name": "Quatri\u00e8me mur",
+      "url": "https://open.spotify.com/track/329U1mHCtj33O1ntN86Pph"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -271,26 +267,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "How to Impress God",
-        "url": "https://open.spotify.com/album/7pJJ3QKvYRqPAShAqzwQFs"
-      },
-      "artists": [
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        },
-        {
-          "name": "No ID",
-          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "How to Impress God",
-      "url": "https://open.spotify.com/track/1o5j4OuuHUVMTG0sv35Lsa"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl"
       },
@@ -331,22 +307,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "If You Can Count",
-      "url": "https://open.spotify.com/track/1QpJXozmWx1foS6GsIp3fA"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Spirit Box",
         "url": "https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja"
       },
@@ -363,6 +323,42 @@
       "duration_ms": 172338,
       "name": "Let Me Cook",
       "url": "https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "How to Impress God",
+        "url": "https://open.spotify.com/album/7pJJ3QKvYRqPAShAqzwQFs"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "No ID",
+          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "How to Impress God",
+      "url": "https://open.spotify.com/track/1o5j4OuuHUVMTG0sv35Lsa"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "If You Can Count",
+      "url": "https://open.spotify.com/track/1QpJXozmWx1foS6GsIp3fA"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -399,6 +395,26 @@
       "duration_ms": 191445,
       "name": "The Workload",
       "url": "https://open.spotify.com/track/6IrG5DFdKKotGMbkg4Qoow"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "The Lotus Child",
+        "url": "https://open.spotify.com/album/39FpJp8gjraLFv0HZByz0D"
+      },
+      "artists": [
+        {
+          "name": "Che Noir",
+          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "duration_ms": 192468,
+      "name": "Black Girl",
+      "url": "https://open.spotify.com/track/1u8FaU9NCGRbXltNNuxh1p"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -459,50 +475,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "The Lotus Child",
-        "url": "https://open.spotify.com/album/39FpJp8gjraLFv0HZByz0D"
-      },
-      "artists": [
-        {
-          "name": "Che Noir",
-          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        }
-      ],
-      "duration_ms": 192468,
-      "name": "Black Girl",
-      "url": "https://open.spotify.com/track/1u8FaU9NCGRbXltNNuxh1p"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Born Again",
-        "url": "https://open.spotify.com/album/2wSWLSIYsXpmRmZ7ZgKLbG"
-      },
-      "artists": [
-        {
-          "name": "I BORN",
-          "url": "https://open.spotify.com/artist/4RCiZgQMEQ3baVRuBgr4Y1"
-        },
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        },
-        {
-          "name": "DOX",
-          "url": "https://open.spotify.com/artist/41fai0y4CXKgsWglVkS2hb"
-        }
-      ],
-      "duration_ms": 181971,
-      "name": "The Initiated",
-      "url": "https://open.spotify.com/track/1tmNWzXWct43crNe6Zy0Lk"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Like A Tree It Grows",
         "url": "https://open.spotify.com/album/23W15PVhBPoAUh2EcELrtW"
       },
@@ -547,6 +519,66 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Never Be (Hold Of Me)",
+        "url": "https://open.spotify.com/album/3ai2PcaTP9sZDkLGLzEwdZ"
+      },
+      "artists": [
+        {
+          "name": "K.E.F",
+          "url": "https://open.spotify.com/artist/29vtxkqKcEYzya1LvRUHan"
+        },
+        {
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
+        }
+      ],
+      "duration_ms": 210120,
+      "name": "Never Be (Hold Of Me)",
+      "url": "https://open.spotify.com/track/4Vd56qPvULa5ayS47c9cDO"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "In Paris - The complete 1955-1956 Barclay sessions",
+        "url": "https://open.spotify.com/album/3m8bBFXdYcflYWPZuHZpp9"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "Dinah - Complete Take 2",
+      "url": "https://open.spotify.com/track/5ienEnB4QkJXUZrmz0f29p"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/2wSWLSIYsXpmRmZ7ZgKLbG"
+      },
+      "artists": [
+        {
+          "name": "I BORN",
+          "url": "https://open.spotify.com/artist/4RCiZgQMEQ3baVRuBgr4Y1"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        {
+          "name": "DOX",
+          "url": "https://open.spotify.com/artist/41fai0y4CXKgsWglVkS2hb"
+        }
+      ],
+      "duration_ms": 181971,
+      "name": "The Initiated",
+      "url": "https://open.spotify.com/track/1tmNWzXWct43crNe6Zy0Lk"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Like A Tree It Grows",
         "url": "https://open.spotify.com/album/23W15PVhBPoAUh2EcELrtW"
       },
@@ -575,42 +607,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "In Paris - The complete 1955-1956 Barclay sessions",
-        "url": "https://open.spotify.com/album/3m8bBFXdYcflYWPZuHZpp9"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 186866,
-      "name": "Dinah - Complete Take 2",
-      "url": "https://open.spotify.com/track/5ienEnB4QkJXUZrmz0f29p"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Never Be (Hold Of Me)",
-        "url": "https://open.spotify.com/album/3ai2PcaTP9sZDkLGLzEwdZ"
-      },
-      "artists": [
-        {
-          "name": "K.E.F",
-          "url": "https://open.spotify.com/artist/29vtxkqKcEYzya1LvRUHan"
-        },
-        {
-          "name": "Unusual Demont",
-          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
-        }
-      ],
-      "duration_ms": 210120,
-      "name": "Never Be (Hold Of Me)",
-      "url": "https://open.spotify.com/track/4Vd56qPvULa5ayS47c9cDO"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Hey Rudy",
         "url": "https://open.spotify.com/album/3eiocwg4ruTp6TaEKelCen"
       },
@@ -627,22 +623,6 @@
       "duration_ms": 160007,
       "name": "Hey Rudy (with The Roots)",
       "url": "https://open.spotify.com/track/04IzM8tyRnsjN6Em9LNBpR"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "The Essential Melody Gardot",
-        "url": "https://open.spotify.com/album/7wrIaVOzLdLi6kao638zAY"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 384827,
-      "name": "La Llorona - Live",
-      "url": "https://open.spotify.com/track/0yrzo7DTvSa21L2rGyafdT"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -671,26 +651,38 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Aguas da Amazonia: Negro River",
-        "url": "https://open.spotify.com/album/0axFeQPLNfBW2hSE57PKKK"
+        "name": "The Essential Melody Gardot",
+        "url": "https://open.spotify.com/album/7wrIaVOzLdLi6kao638zAY"
       },
       "artists": [
         {
-          "name": "Third Coast Percussion",
-          "url": "https://open.spotify.com/artist/7aQZO27ByZmD9uWUgA1lJA"
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 384827,
+      "name": "La Llorona - Live",
+      "url": "https://open.spotify.com/track/0yrzo7DTvSa21L2rGyafdT"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Helen's Theme (Electric Guitar Version)",
+        "url": "https://open.spotify.com/album/2OmPt3bNutz6nMeEjBD7Fv"
+      },
+      "artists": [
+        {
+          "name": "Sergio Sorrentino",
+          "url": "https://open.spotify.com/artist/2hV0tEHHlVNNr8qxpBr1qN"
         },
         {
           "name": "Philip Glass",
           "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Constance Volk",
-          "url": "https://open.spotify.com/artist/7GDIzLPD6Fo9JJNWcWcRzY"
         }
       ],
-      "duration_ms": 171026,
-      "name": "Aguas da Amazonia: Negro River",
-      "url": "https://open.spotify.com/track/2fNiWwBYCqIef8NDVcJB8x"
+      "duration_ms": 80136,
+      "name": "Helen's Theme - Electric Guitar Version",
+      "url": "https://open.spotify.com/track/33hiqXry5A2Ziq0sylcmHC"
     },
     {
       "added_at": "2024-11-08 05:00:00",

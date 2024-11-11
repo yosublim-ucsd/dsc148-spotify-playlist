@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: <a href="spotify:artist:4KK2BzTIojD7LTz9ndsVGF">Lamboginny</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,934 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,974 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 33 | [Dry Ground](https://open.spotify.com/track/2rN3VHilUMtGh7CVmCVUqs) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw) | [Dry Ground](https://open.spotify.com/album/5jyQwvIZSQozXT1GHEMhZo) | 5:05 |
 | 34 | [Assurance](https://open.spotify.com/track/2c3QXk3TevN8r5MfgvtJhx) | [Every Nation Music](https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0) | [Assurance](https://open.spotify.com/album/3QW2rj6oQmCKkkTGKHsH6T) | 5:07 |
 | 35 | [Look What The Lord Has Done](https://open.spotify.com/track/6t0SDw0dg4BGhm772Oew7I) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d), [Aaron Baxter](https://open.spotify.com/artist/13L7riGLcJSvYPFudlFgO9), [Grace Jesutofunmi Olagunju](https://open.spotify.com/artist/18URY9xDJJQnELwtBioW2p) | [Stones Of Remembrance, Vol\. 1](https://open.spotify.com/album/7mYBTssXaee1y05s1YzHp5) | 5:09 |
-| 36 | [Praise Belongs](https://open.spotify.com/track/0XnzsPCKJ2xuifNoGiG29V) | [CXMMXNS](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05), [Ben Fielding](https://open.spotify.com/artist/33u16EyDkCbsyvh66ujJiO), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [Chapter 1](https://open.spotify.com/album/2xI7LBeYPzK52a5VdiJGvj) | 4:35 |
+| 36 | [Praise Belongs](https://open.spotify.com/track/0XnzsPCKJ2xuifNoGiG29V) | [CXMMXNS](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05), [Ben Fielding](https://open.spotify.com/artist/33u16EyDkCbsyvh66ujJiO) | [Chapter 1](https://open.spotify.com/album/2xI7LBeYPzK52a5VdiJGvj) | 4:35 |
 | 37 | [Battle \- Live](https://open.spotify.com/track/2laBhiCkNqCpOpA7mPSAvp) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Amy Dolley](https://open.spotify.com/artist/2ceuCcSBgjFdzDGSr0gbdn) | [BATTLE \(Live\)](https://open.spotify.com/album/1oP68aTHW7ppCzGPVqfton) | 7:49 |
 | 38 | [Power Made Perfect \- Live](https://open.spotify.com/track/5DNrqZJcYocUr0q2v4Ncfo) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [Nikki Moltz](https://open.spotify.com/artist/6FXUJ4VJ1RJuel7hgRcKiz), [John Marc Kohl](https://open.spotify.com/artist/1VB1PYfo6aOs53Vs65t4hA) | [Power Made Perfect \(Live\)](https://open.spotify.com/album/1lIicx7ea9i7J6D8d8C9qH) | 5:40 |
 | 39 | [Yahweh Holy \- Church Version](https://open.spotify.com/track/4Wmh6RbHEhx2q7VjMPP5q7) | [Homecoming](https://open.spotify.com/artist/3j75QaSe0OJNGFMY6J0CfX), [May Angeles](https://open.spotify.com/artist/3QnnsnDjUGYX8cYQuub0eh), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Yahweh Holy \(Church Version\)](https://open.spotify.com/album/6J1M9NzFnelE6HM4cdKYyq) | 5:11 |

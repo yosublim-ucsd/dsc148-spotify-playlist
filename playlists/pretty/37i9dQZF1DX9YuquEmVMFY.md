@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > <d4vd \- My House Is Not A Home Tour> 2024년 11월 7일\(목\) 오후 8시 @YES 24 라이브 홀\(서울\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,984 likes - 20 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,994 likes - 20 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

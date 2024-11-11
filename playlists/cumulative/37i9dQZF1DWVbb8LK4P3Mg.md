@@ -4,7 +4,7 @@
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: NCT 127\)
 
-207 songs - 12 hr 6 min
+208 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [It's Christmas time](https://open.spotify.com/track/180YObDi8MLn7mIOXhY5HK) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [It's Christmas time](https://open.spotify.com/album/0QFzaemkqT2OTuveEFyQ2p) | 3:50 | 2021-12-21 | 2024-04-04 |
 | [It's Christmas time](https://open.spotify.com/track/4Rsr5I1LQaBWk4tvjkVGcr) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [It's Christmas time](https://open.spotify.com/album/62wnKeijuMQ5rVbHzWsaEx) | 3:50 | 2021-12-21 | 2022-07-29 |
 | [It's Okay, You Can Cry \(Santa Claus is Coming to Town\)](https://open.spotify.com/track/25pl2jxhN9gbkE5y7dXomp) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [Seasons](https://open.spotify.com/album/5Dpd69pvi5PJfn5RXVcgpn) | 3:02 | 2021-12-21 | 2022-07-28 |
-| [I’ve Been Naughty, Mr\. Claus](https://open.spotify.com/track/7qYUVzCY85b8UM2GaTXhkN) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Letters to Santa](https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0) | 2:20 | 2023-11-15 |  |
+| [I’ve Been Naughty, Mr\. Claus](https://open.spotify.com/track/7qYUVzCY85b8UM2GaTXhkN) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Letters to Santa](https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0) | 2:20 | 2023-11-15 | 2024-11-11 |
 | [Jingle All Night](https://open.spotify.com/track/2dFKs3VdqnQijyWjw02YbJ) | [Soovi](https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8), [Owell Mood](https://open.spotify.com/artist/21PxLOZet5J6uX4uMfXUTA) | [Jingle All Night](https://open.spotify.com/album/2rFML9EpjokJoy5FK5ewVi) | 3:17 | 2021-12-21 | 2023-01-04 |
 | [Jingle Bell Rock](https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Jingle Bell Rock](https://open.spotify.com/album/7dSaBwUid0hjWdJ5QzIKyu) | 2:10 | 2023-11-24 |  |
 | [Jingle Bells](https://open.spotify.com/track/2CKdHKVgFiemZTZucPJY4q) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [MIDNIGHT CHRISTMAS](https://open.spotify.com/album/5W65ubAkiJzldtaloU3G13) | 2:22 | 2021-12-21 |  |
@@ -147,6 +147,7 @@
 | [Shhhh](https://open.spotify.com/track/3QtbPhZDz5tH830gBQAgFL) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [This Christmas – Winter is Coming](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) | 3:48 | 2021-12-21 | 2022-07-27 |
 | [Silent Night](https://open.spotify.com/track/1yVqUIoimqzLXYALDLYpOt) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Silent Night](https://open.spotify.com/album/2PE8nbVNmtWgs8jzgxuRJI) | 3:25 | 2021-12-21 |  |
 | [SLOW DANCE \(Feat\. Rico, KRRSYBEAR\)](https://open.spotify.com/track/0SONv4gf53rhrmJlcfkPhG) | [Twelvey](https://open.spotify.com/artist/2JtstlAho4m0Uh0sqK0X1I), [Rico](https://open.spotify.com/artist/3E0YTYEh08ccPtREHUCeDk), [크리시베어](https://open.spotify.com/artist/7jBjViEdMm00HGSDW8oA1f) | [SLOW DANCE \(Feat\. Rico, KRRSYBEAR\)](https://open.spotify.com/album/02ptXuktZkDkxWMbGF5ETF) | 2:52 | 2021-12-21 | 2022-07-29 |
+| [Snow \(Feat\. GORAE\)](https://open.spotify.com/track/3b9lNyXbguv8C6UElDV4HY) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [GORAE](https://open.spotify.com/artist/3atXbP5awWylK6MsPg59cF) | [Snow \(Feat\. GORAE\)](https://open.spotify.com/album/0cZl34EUpkVPhWi1JuA9KJ) | 3:14 | 2024-01-08 |  |
 | [Snow on Christmas](https://open.spotify.com/track/1efhs3qNob9LxwIxyGCvdf) | [Baek Juyeon](https://open.spotify.com/artist/4vzgTWeitkDcGSUJwCCYvr) | [Snow on Christmas](https://open.spotify.com/album/4yVwoxry9eozDQ9ca98wTH) | 4:01 | 2023-01-10 | 2023-03-11 |
 | [Snow Sun](https://open.spotify.com/track/6GdN5lAB4HElwDaM3kwBpp) | [아워멜츠 Hourmelts](https://open.spotify.com/artist/3Ue4HVGXS6n6Jt468Vn1mc) | [Twenties = Love](https://open.spotify.com/album/14Sebf3pWuvGSdYsbx5BkN) | 3:33 | 2021-12-21 | 2023-08-11 |
 | [Snowball](https://open.spotify.com/track/1leUcadFG0xkJXoA6KDLlJ) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Merry Go Round](https://open.spotify.com/album/02QQbP6IQkaGymlMKEulGz) | 3:32 | 2023-12-14 |  |

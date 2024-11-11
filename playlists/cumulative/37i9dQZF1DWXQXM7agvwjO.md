@@ -4,7 +4,7 @@
 
 > Hottest indie sound from Asia\. Cover: Swellow \(Indonesia\)
 
-1,620 songs - 4 day 1 hr 45 min
+1,621 songs - 4 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -834,6 +834,7 @@
 | [Mind is Light](https://open.spotify.com/track/4n5G4vTYpVOpgU1lQLnjSi) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Mind is Light](https://open.spotify.com/album/09xrm1F88FL1OI9kJ8pTkk) | 3:35 | 2023-07-06 | 2023-07-28 |
 | [Mind Reader](https://open.spotify.com/track/1rh0jt0HZt0Jep4mSpLYuU) | [View From The Bus Tour](https://open.spotify.com/artist/0GR6ApWdU4ABm01QzYsStJ) | [Mind Reader](https://open.spotify.com/album/4PiWOUGPZiPpAKPwxapiSz) | 3:23 | 2022-11-17 | 2022-12-16 |
 | [Mindless](https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Mindless](https://open.spotify.com/album/0SliKclPFZxNqnmGIIqVIO) | 4:07 | 2022-08-18 | 2022-09-23 |
+| [Minggu](https://open.spotify.com/track/29oaLVw5BEusRDauIyCfwK) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc), [Dzulfahmi](https://open.spotify.com/artist/3e07AHzXnSbfuIBc6IHNio) | [Minggu](https://open.spotify.com/album/20BlkwZZJfzNj6xTxPrehi) | 3:38 | 2024-11-08 |  |
 | [Mirage](https://open.spotify.com/track/24B1pivOBr5KpJbwwIS05q) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Dream in Dream](https://open.spotify.com/album/55pmZFcK0E5yTcAqvs26qX) | 4:27 | 2023-06-29 | 2023-08-25 |
 | [mirror](https://open.spotify.com/track/1EgzmXxvjwC5aS8g6A2osl) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [mirror](https://open.spotify.com/album/0aC3BQYnDDhjdKlJEPMGmc) | 3:01 | 2022-06-16 | 2022-08-26 |
 | [Miss You](https://open.spotify.com/track/6U8UbKRwGuRqqr8tm92shg) | [Layton Wu](https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a) | [Chicago](https://open.spotify.com/album/6goOtwMw4OF57CNsO7MfRV) | 4:08 | 2022-07-21 | 2022-09-30 |
@@ -1373,7 +1374,7 @@
 | [WAY WE ARE \(feat\. Podchara Kumchaiskul\)](https://open.spotify.com/track/48E3eJTaLOJ49vCmauwjae) | [daynim](https://open.spotify.com/artist/5TJfVhMs1wOBcLLl56fiu6), [Podchara Kumchaiskul](https://open.spotify.com/artist/0LUSvpq1Vq2KREOhm02nFP) | [WAY WE ARE \(feat\. Podchara Kumchaiskul\)](https://open.spotify.com/album/5tv1cuqWt9Qu0feoHoqRFV) | 4:14 | 2023-03-02 | 2023-04-21 |
 | [WDYS](https://open.spotify.com/track/1a8gwdUECQHmUvLxqdirSm) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [WDYS](https://open.spotify.com/album/1j5WaQxYRD73CZcBRYGZ9K) | 2:24 | 2023-11-23 |  |
 | [We Are \(우리는\)](https://open.spotify.com/track/6pi5qNuLjF24MLc8Yk4tFu) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [We Are \(우리는\)](https://open.spotify.com/album/5fHWkEYEMeqoOCYaGB6WH5) | 3:46 | 2022-09-09 | 2022-09-16 |
-| [We Are Making Out](https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [We Are Making Out](https://open.spotify.com/album/04S5Dt209BG3Gzci4HdrFs) | 2:50 | 2024-08-29 |  |
+| [We Are Making Out](https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [We Are Making Out](https://open.spotify.com/album/04S5Dt209BG3Gzci4HdrFs) | 2:50 | 2024-08-29 | 2024-11-11 |
 | [we don't have to be alone](https://open.spotify.com/track/5FpTK4Z1piJvDuuq3vmtxA) | [Reub](https://open.spotify.com/artist/2VIpsUyYMf7opaz3dG4OiF) | [we don't have to be alone](https://open.spotify.com/album/0ZLZ0eD69PGmrtuRYvfxz3) | 3:55 | 2022-12-23 | 2023-03-03 |
 | [we grew up together](https://open.spotify.com/track/343YezHfY7G8ZliqUHYQKS) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu), [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [we grew up together](https://open.spotify.com/album/0a8IV62EQe7cWglIFJXapM) | 4:04 | 2023-09-15 | 2023-09-29 |
 | [We Just Chase The Light](https://open.spotify.com/track/464ZEz02BK62dKMeEkktNW) | [Low Hanging Fruits](https://open.spotify.com/artist/7KfFnqnCwvQ8NXL2a8avAu) | [Today From Past Days](https://open.spotify.com/album/5pfb32JF2tPT5HTpcX63gu) | 4:45 | 2022-04-14 | 2022-05-27 |

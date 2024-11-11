@@ -2,7 +2,7 @@
 
 ### [New Dance Beats](https://open.spotify.com/playlist/37i9dQZF1DXaqIZ7YXxc6o)
 
-> Your weekly dose of new dance\. Cover: BL3SS
+> Your weekly dose of new dance\. Cover: BL3SS & CamrinWatsin
 
 2,714 songs - 6 day 5 hr 47 min
 

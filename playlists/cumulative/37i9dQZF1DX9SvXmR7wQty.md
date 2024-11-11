@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Aliocha Schneider
 
-2,946 songs - 6 day 12 hr 46 min
+2,947 songs - 6 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -622,6 +622,7 @@
 | [dans le silence](https://open.spotify.com/track/7s36Fxyrk7ZpIqjNyRv47G) | [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [dans le silence](https://open.spotify.com/album/0S4qKIW589fzA4JDEfe3bo) | 2:34 | 2024-04-19 | 2024-04-27 |
 | [Dans les marguerites](https://open.spotify.com/track/4u3t4HNinQtSWsjUfs26Nm) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6), [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Dans les marguerites](https://open.spotify.com/album/4poKkmkR3L3GuZ6eGGislu) | 3:40 | 2023-10-20 | 2023-10-30 |
 | [Dans les veines](https://open.spotify.com/track/0ewiAClIyaKosExdgSuqew) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Leslie](https://open.spotify.com/artist/4qtpVWf7iBzWhWOoabaixz) | [Dans les veines](https://open.spotify.com/album/5VSzl7ioWGOpoQTV4ZBqWG) | 2:53 | 2024-09-20 | 2024-11-09 |
+| [Dans ma bulle](https://open.spotify.com/track/5Duyl1dabYWFFMfObBFBPH) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Dans ma bulle](https://open.spotify.com/album/5579x9JAF1CCKtb4sswN9A) | 2:32 | 2024-11-08 |  |
 | [Dans ma tête](https://open.spotify.com/track/12096g5gseZq3f1FzXNdgB) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Dans ma tête](https://open.spotify.com/album/4YPjdoAbympk5yYPbd91vj) | 3:20 | 2023-10-20 | 2023-10-30 |
 | [Dans ma tête](https://open.spotify.com/track/4xRRSPrUQmxcvtPuRQmqzN) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [IDENTITÉ](https://open.spotify.com/album/1lvkzsrpDy7LWSYGDKCk6X) | 2:51 | 2024-08-09 | 2024-09-14 |
 | [Dans mon délire](https://open.spotify.com/track/4XOdHX24KhXvttDZi0d8P0) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Dans mon délire](https://open.spotify.com/album/0F38HKeIBp1ipE4W6DPp57) | 2:47 | 2024-05-17 | 2024-05-25 |
@@ -1636,7 +1637,7 @@
 | [Léo](https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg) | [Alex Pic](https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ) | [Léo](https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag) | 3:05 | 2024-08-16 | 2024-08-24 |
 | [L’alcool et la fumée](https://open.spotify.com/track/26mT5Jyptex2m6rAwZrMSD) | [Terrenoire](https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA) | [Les Forces Contraires: La Mort et La Lumière](https://open.spotify.com/album/2O8yHN5baBkGcia6B6YUuo) | 2:33 | 2022-02-04 | 2022-02-19 |
 | [L’enfer](https://open.spotify.com/track/7bp3zmEvpHLa0h32nhDUkB) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [L’enfer](https://open.spotify.com/album/7bSSz8KnOpZaJor6Cs3GkM) | 3:09 | 2022-01-14 | 2022-01-29 |
-| [L’envers du décor](https://open.spotify.com/track/4UiQhF0AKFQvLssBUj2bJe) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [L’envers du décor](https://open.spotify.com/album/3KuXTV8osR0iFA9NlnEubP) | 2:41 | 2024-10-18 | 2024-11-10 |
+| [L’envers du décor](https://open.spotify.com/track/4UiQhF0AKFQvLssBUj2bJe) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [L’envers du décor](https://open.spotify.com/album/3KuXTV8osR0iFA9NlnEubP) | 2:41 | 2024-10-18 |  |
 | [l’été](https://open.spotify.com/track/4py0ipfRfqo3okojeygRav) | [Mia Martina](https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC) | [l’été](https://open.spotify.com/album/2L0JBxfQPieFrXExtTbfv4) | 2:58 | 2022-06-03 | 2022-06-11 |
 | [M'aimes\-tu encore?](https://open.spotify.com/track/1c6bLOoSDhfOP6V3JPUnJY) | [Jace](https://open.spotify.com/artist/7KCD5IGwoH8rY19DZnOHpO) | [M'aimes\-tu encore?](https://open.spotify.com/album/6hNrs1pQrCotZhzDMligz8) | 2:55 | 2022-05-20 | 2022-06-04 |
 | [M'as\-tu vu passer?](https://open.spotify.com/track/6LLELfJec5F5thFoKs4vYP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [M'as\-tu vu passer?](https://open.spotify.com/album/7L5nrrUUp4BoqDCJDrr3a0) | 2:11 | 2023-01-20 | 2023-02-04 |
@@ -2056,7 +2057,7 @@
 | [Petit chaton](https://open.spotify.com/track/74oAPWAhHJDenq4vlzP10O) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Petit chaton](https://open.spotify.com/album/4jlNqjll7wP71dCucSxZr5) | 2:24 | 2024-09-20 |  |
 | [Petit cœur](https://open.spotify.com/track/175mo2fCK8Rb5xU8tdU2f9) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [333](https://open.spotify.com/album/53F10zJymQahtTvgUIyPHu) | 3:47 | 2024-10-11 | 2024-10-21 |
 | [Petit petit moi](https://open.spotify.com/track/4KxQ0626SWAkykLREg5PCs) | [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Petit petit moi](https://open.spotify.com/album/3rcIrd96WiQ2STnMwEhDdg) | 2:24 | 2023-02-03 | 2023-02-18 |
-| [petite musique](https://open.spotify.com/track/4qVY03Ook13G2yisPjYawd) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR+](https://open.spotify.com/album/4E3heRLsWhWQwDDMwoo617) | 2:59 | 2024-11-08 |  |
+| [petite musique](https://open.spotify.com/track/4qVY03Ook13G2yisPjYawd) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR+](https://open.spotify.com/album/4E3heRLsWhWQwDDMwoo617) | 2:59 | 2024-11-08 | 2024-11-11 |
 | [Petites heures](https://open.spotify.com/track/49FSeXLZnx9akQ9kZPhfzF) | [Gary BlaBla](https://open.spotify.com/artist/6OC28VPoFwIJ7dGXAGYeVs), [Rocco Leretz](https://open.spotify.com/artist/1IS88DyPyQKe8cK3Ju9mVi) | [Petites heures](https://open.spotify.com/album/0ZVfWr4jxMCF2tOyaTmMsu) | 2:28 | 2022-09-16 | 2022-09-24 |
 | [Petits fruits](https://open.spotify.com/track/0Mi7LNiJufQgLAsFVdAutO) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Petits fruits](https://open.spotify.com/album/6dkVo1RV2glwz55CfGT4qP) | 2:12 | 2022-02-25 | 2022-03-12 |
 | [Peur d'être aimé](https://open.spotify.com/track/62F1TZLqCQKtbx1EOx1DnV) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k) | [Dans la lune](https://open.spotify.com/album/4yF9UgTFxwMbb4EzS3CDND) | 3:09 | 2023-04-28 | 2023-05-13 |
@@ -2238,7 +2239,7 @@
 | [Rarri](https://open.spotify.com/track/1KNOUbs4A6XcoQrDcIKK7F) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [COINCÉ CHEZ MOI \- ch\. 2](https://open.spotify.com/album/2mpn7OtH4666hO8TVLoVkc) | 2:38 | 2024-09-27 | 2024-10-05 |
 | [Rashel](https://open.spotify.com/track/4OXR2xcqJiLIjAtzEdbauW) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Rashel](https://open.spotify.com/album/6R3uElG5fC3jt31MsyLeT2) | 2:56 | 2023-12-15 | 2024-03-09 |
 | [Rassure\-moi](https://open.spotify.com/track/0xWXGly9NATbibcEkMlWFS) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Rassure\-moi](https://open.spotify.com/album/18irV03wpoEFUlT9R06SkL) | 3:03 | 2024-10-25 | 2024-11-02 |
-| [Rater une rupture pour les nuls](https://open.spotify.com/track/14u2iSpjGbeMKO4xBUBXMD) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Rater une rupture pour les nuls](https://open.spotify.com/album/7rnvFhaTNyEvTrU9vzYotg) | 4:54 | 2024-11-08 |  |
+| [Rater une rupture pour les nuls](https://open.spotify.com/track/14u2iSpjGbeMKO4xBUBXMD) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Rater une rupture pour les nuls](https://open.spotify.com/album/7rnvFhaTNyEvTrU9vzYotg) | 4:54 | 2024-11-08 | 2024-11-11 |
 | [Rayol](https://open.spotify.com/track/3If2Z0wH9FM1EBW2xQfEM2) | [B.B\. Jacques](https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52) | [Honeymoon](https://open.spotify.com/album/5LtjW9e7zu1KvIGQiuuDo0) | 2:41 | 2024-07-05 | 2024-09-21 |
 | [RDP](https://open.spotify.com/track/553uCqkS9RD2hnhnvxZhan) | [Frenetik](https://open.spotify.com/artist/71XOKoFKWFjlV91e2Z5r21) | [RDP](https://open.spotify.com/album/3UwnArHpmB61a4WDqnktXQ) | 2:41 | 2022-01-14 | 2022-01-29 |
 | [Real & Riche](https://open.spotify.com/track/47vfWmPJrB4sIETbjwbh86) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Real & Riche](https://open.spotify.com/album/4mFTgcDkx8lOxI2ZmFVcJ1) | 2:24 | 2022-05-27 | 2022-06-11 |

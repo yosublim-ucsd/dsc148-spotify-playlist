@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-4,151 songs - 9 day 17 hr 6 min
+4,153 songs - 9 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2178,6 +2178,7 @@
 | [Love Language](https://open.spotify.com/track/4LDN18h3DAM6No5FeFzC7c) | [T.R.3](https://open.spotify.com/artist/2rDKWkji4MbBLBUe2hjANJ) | [Love Language](https://open.spotify.com/album/7qiZSUt0h2QPa8rXbKMXMi) | 3:08 | 2022-11-29 | 2022-12-21 |
 | [Love Letter](https://open.spotify.com/track/5oER1vGKFQtIVkxzwX5EuL) | [Ainsley Costello](https://open.spotify.com/artist/3bUYu6ZgtImljj9FBrnTmF) | [Love Letter](https://open.spotify.com/album/0ywVfoCaF1jyU5UVzKm4kr) | 4:46 | 2021-08-18 | 2021-09-03 |
 | [Love Lies](https://open.spotify.com/track/20F8eXnmrzsAXaHENSHJRR) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [NOW That's What I Call Music, Vol\. 66](https://open.spotify.com/album/74ywDS5zIhhyMd5MWyjTk0) | 3:18 | 2021-08-28 | 2021-09-11 |
+| [Love Love](https://open.spotify.com/track/2980j0HEONoxDkzGoTYueY) | [James Tonic](https://open.spotify.com/artist/7eDGkEF3YrLdMyc2dSrW3z) | [Stuck In LA](https://open.spotify.com/album/1Ihv3k42Livf5NCbWOIIxm) | 2:24 | 2024-11-10 |  |
 | [Love Maria](https://open.spotify.com/track/40r89orE6FCKWVwMhn74l4) | [Crazy Loop](https://open.spotify.com/artist/3k8kts6tEChHVszMu5Xr9E) | [Love Maria](https://open.spotify.com/album/29xe3Ncz10zwqbnT22O2Dx) | 3:43 | 2023-06-02 | 2023-06-23 |
 | [Love Me](https://open.spotify.com/track/0IXUWH8jL2vpFRvTkVeWCW) | [Jack Sleiman](https://open.spotify.com/artist/4eewS27bMIhWcXGukOdXAj), [MiMS](https://open.spotify.com/artist/76RrKpsvOmSKG8CIjROdSG), [Felly](https://open.spotify.com/artist/5PvXSHrO1GatqTe6GuBIBp), [Em.ILY](https://open.spotify.com/artist/2EvSEoin8Qz95gGetwGx0c) | [Love Me](https://open.spotify.com/album/0I3rfdNMO2HkWMKFKcuHBT) | 2:38 | 2020-11-20 | 2020-12-05 |
 | [Love Me](https://open.spotify.com/track/3XCiRxQ5uB3YVSEB4P7uVs) | [Pale Moon](https://open.spotify.com/artist/0Fs4anTtuXgqXzOFOdfOs9) | [Love Me](https://open.spotify.com/album/5Ys0J1F1C5qYGA6E6opDdy) | 4:30 | 2024-06-07 | 2024-06-19 |
@@ -3206,6 +3207,7 @@
 | [Smile \(feat\. H.E.R.\)](https://open.spotify.com/track/3Rp8FNCr3yxM3fGFy99LN8) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Smile \(feat\. H.E.R.\)](https://open.spotify.com/album/0QzHIYIoMCUnCKwHqZOmqs) | 4:11 | 2020-08-20 | 2023-08-28 |
 | [smile again](https://open.spotify.com/track/3SgAqcFszQTic6pmkcfmED) | [Mindboy](https://open.spotify.com/artist/0O81hfxitNZJvLBpyZ1jou) | [smile again](https://open.spotify.com/album/1UqgmZsXSkJSryJM4AH5jQ) | 2:32 | 2023-05-26 | 2023-06-17 |
 | [Smilin](https://open.spotify.com/track/1uX68R4ZFXJ5GonZ1i9kkb) | [D2IEM](https://open.spotify.com/artist/4IHOY6o6UnPzZub6Au1wjb) | [SUMMER DAY](https://open.spotify.com/album/2kL4BfuSwPBYFkei8HJoSz) | 2:34 | 2024-07-05 | 2024-07-17 |
+| [Smoke In My Lungs](https://open.spotify.com/track/71t4WiR13EVHl4RODNvqJy) | [Zenon](https://open.spotify.com/artist/3Z5j2ENLXmM4dPrP7vSaZS) | [Smoke In My Lungs](https://open.spotify.com/album/0KB1NtYSHnNhcbhaTXQWKa) | 3:38 | 2024-11-10 |  |
 | [Smooth](https://open.spotify.com/track/7Fxc82sLoMhacfotpeJoRL) | [Car Stereo Wars](https://open.spotify.com/artist/5CCJIBMi93VrgwBFoA7XTv) | [For Your Comfort and Safety](https://open.spotify.com/album/4IpUHjxOCnd3NmSVGZd2q5) | 3:38 | 2024-02-09 | 2024-02-17 |
 | [Smooth Honey](https://open.spotify.com/track/0SpimQmVOUzuHj7bgmodY1) | [EMEREE](https://open.spotify.com/artist/3OGgjzkamLnNDmUi9RZDG9) | [Smooth Honey](https://open.spotify.com/album/15ZFoLaqXlDbUIhQKv6w8O) | 2:44 | 2024-05-30 | 2024-06-11 |
 | [Smoothie](https://open.spotify.com/track/5UtMKus5oKfPLoqacwOCbX) | [Jovva](https://open.spotify.com/artist/5wWo5kz7Z1a9QjmoBpIQB3) | [Smoothie](https://open.spotify.com/album/2czO2VrU4W6kTOqi0SdRHc) | 2:58 | 2024-05-14 | 2024-05-29 |
@@ -3551,7 +3553,7 @@
 | [the cycle](https://open.spotify.com/track/5Qb7N4W7wWCWQx42ZUpBwc) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [the cycle](https://open.spotify.com/album/3GBGtB6ZqoloBakmYpQiwA) | 2:27 | 2024-02-03 | 2024-02-17 |
 | [The Dark](https://open.spotify.com/track/06b9t1OXzvmdVk6MWRjozU) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [The Dark](https://open.spotify.com/album/1qfu5qBDO9n6S5tovKYQ1X) | 2:51 | 2024-08-03 | 2024-08-15 |
 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 | 2023-07-20 |  |
-| [The Devil Knows](https://open.spotify.com/track/4VaYLaWyF9LOzrVVqyigU6) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [The Devil Knows](https://open.spotify.com/album/1oCOhTeH1fzBVquSIaHETv) | 3:40 | 2024-10-30 |  |
+| [The Devil Knows](https://open.spotify.com/track/4VaYLaWyF9LOzrVVqyigU6) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [The Devil Knows](https://open.spotify.com/album/1oCOhTeH1fzBVquSIaHETv) | 3:40 | 2024-10-30 | 2024-11-11 |
 | [the end](https://open.spotify.com/track/4FZRbD4xC7uloaMWCp6NFR) | [Anderson Hao](https://open.spotify.com/artist/4ld59O2bX6oOVHoxVOCOpw) | [the end](https://open.spotify.com/album/340jrpG3hFzItsnLp2T2Tg) | 2:37 | 2024-05-28 | 2024-06-10 |
 | [The End of the World](https://open.spotify.com/track/5pWwP9NAvaFd27rGT9djsG) | [Olive Riggio](https://open.spotify.com/artist/1IgrZkMft3xR8eSuzzatQr) | [Eden](https://open.spotify.com/album/4i5Q8MIhiTzluwWX0dIHQm) | 4:32 | 2024-09-14 | 2024-09-26 |
 | [The Faithful](https://open.spotify.com/track/4EFW29QDYbpOZLYnH6H3GU) | [The Famillian](https://open.spotify.com/artist/0xxeA8tQmQtYpCe2IHmi2a), [Calixte](https://open.spotify.com/artist/5PYXKU2PUFplxNjbE3pYU5) | [The Faithful](https://open.spotify.com/album/7gxaL0UFrpUtHreIc01fyb) | 3:12 | 2020-11-23 | 2020-12-20 |

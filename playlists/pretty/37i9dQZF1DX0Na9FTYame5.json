@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Montez",
-  "num_followers": 585577,
+  "num_followers": 585575,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -203,26 +203,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Keine Homies",
-        "url": "https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du"
-      },
-      "artists": [
-        {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
-        },
-        {
-          "name": "Maxe",
-          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
-        }
-      ],
-      "duration_ms": 122241,
-      "name": "Keine Homies",
-      "url": "https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "ex und so",
         "url": "https://open.spotify.com/album/5a1RQxsWXpvWrB1cuFvtnl"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 152162,
       "name": "LOVEBOMB",
       "url": "https://open.spotify.com/track/24KU81wN6PtnKs6SXktFHP"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Keine Homies",
+        "url": "https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        },
+        {
+          "name": "Maxe",
+          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
+        }
+      ],
+      "duration_ms": 122241,
+      "name": "Keine Homies",
+      "url": "https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Es tut mir leid",
-        "url": "https://open.spotify.com/album/6roQdjU31kV82xdkNbKHoK"
-      },
-      "artists": [
-        {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        }
-      ],
-      "duration_ms": 150738,
-      "name": "Es tut mir leid",
-      "url": "https://open.spotify.com/track/25iULX1Gp22gr5dS98PRTy"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "3 Sekunden (feat. Paula Hartmann)",
         "url": "https://open.spotify.com/album/4o5l3VvshxJMSCuCgOhBpS"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 166942,
       "name": "3 Sekunden (feat. Paula Hartmann)",
       "url": "https://open.spotify.com/track/7fTJOA7DSGp5LNua6OdMIF"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Es tut mir leid",
+        "url": "https://open.spotify.com/album/6roQdjU31kV82xdkNbKHoK"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "duration_ms": 150738,
+      "name": "Es tut mir leid",
+      "url": "https://open.spotify.com/track/25iULX1Gp22gr5dS98PRTy"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -527,6 +527,42 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "In anderen Armen",
+        "url": "https://open.spotify.com/album/2d5GhPYNkYPc90DrHPukVP"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        },
+        {
+          "name": "Lucry & Suena",
+          "url": "https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY"
+        }
+      ],
+      "duration_ms": 159274,
+      "name": "In anderen Armen",
+      "url": "https://open.spotify.com/track/3HvuE5izgh6QG8dK3wqYsq"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Daddy Issues",
+        "url": "https://open.spotify.com/album/6p2zgYa7Su9vIJlmg0GmgB"
+      },
+      "artists": [
+        {
+          "name": "ANTHI",
+          "url": "https://open.spotify.com/artist/6IkHFTRWPXeoJqL5DLcL6u"
+        }
+      ],
+      "duration_ms": 155555,
+      "name": "Daddy Issues",
+      "url": "https://open.spotify.com/track/79MvFIuO9ehGPKzpD3ERWv"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Verschwendete Zeit",
         "url": "https://open.spotify.com/album/6juFtXw9xa1N6zOsRixGWy"
       },
@@ -555,58 +591,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Daddy Issues",
-        "url": "https://open.spotify.com/album/6p2zgYa7Su9vIJlmg0GmgB"
+        "name": "nie wieder normal",
+        "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
       },
       "artists": [
         {
-          "name": "ANTHI",
-          "url": "https://open.spotify.com/artist/6IkHFTRWPXeoJqL5DLcL6u"
-        }
-      ],
-      "duration_ms": 155555,
-      "name": "Daddy Issues",
-      "url": "https://open.spotify.com/track/79MvFIuO9ehGPKzpD3ERWv"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "In anderen Armen",
-        "url": "https://open.spotify.com/album/2d5GhPYNkYPc90DrHPukVP"
-      },
-      "artists": [
-        {
-          "name": "Milano",
-          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
         },
         {
-          "name": "Lucry & Suena",
-          "url": "https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY"
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
         }
       ],
-      "duration_ms": 159274,
-      "name": "In anderen Armen",
-      "url": "https://open.spotify.com/track/3HvuE5izgh6QG8dK3wqYsq"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Happy ohne dich",
-        "url": "https://open.spotify.com/album/2lJ71g8MyDBA21XD06TiTV"
-      },
-      "artists": [
-        {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
-        },
-        {
-          "name": "Maxe",
-          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
-        }
-      ],
-      "duration_ms": 133846,
-      "name": "Happy ohne dich",
-      "url": "https://open.spotify.com/track/39RD5peOciUGQEHzYt3rJe"
+      "duration_ms": 197618,
+      "name": "nie wieder normal",
+      "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -627,6 +627,62 @@
       "duration_ms": 172800,
       "name": "Akhirah",
       "url": "https://open.spotify.com/track/12Vl8CoS1ijQF1eJjqnSvS"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Liebe ist ein Dieb",
+        "url": "https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "Liebe ist ein Dieb",
+      "url": "https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "7 LEERE ZIMMER (feat. Henning May)",
+        "url": "https://open.spotify.com/album/2qDDjSZ24ITB4ah9LCBCBc"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "Henning May",
+          "url": "https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay"
+        }
+      ],
+      "duration_ms": 150360,
+      "name": "7 LEERE ZIMMER (feat. Henning May)",
+      "url": "https://open.spotify.com/track/2t5zRm6bgu4TRvmELiEsDV"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Happy ohne dich",
+        "url": "https://open.spotify.com/album/2lJ71g8MyDBA21XD06TiTV"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        },
+        {
+          "name": "Maxe",
+          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
+        }
+      ],
+      "duration_ms": 133846,
+      "name": "Happy ohne dich",
+      "url": "https://open.spotify.com/track/39RD5peOciUGQEHzYt3rJe"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -659,78 +715,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "7 LEERE ZIMMER (feat. Henning May)",
-        "url": "https://open.spotify.com/album/2qDDjSZ24ITB4ah9LCBCBc"
-      },
-      "artists": [
-        {
-          "name": "Ufo361",
-          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
-        },
-        {
-          "name": "Henning May",
-          "url": "https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay"
-        }
-      ],
-      "duration_ms": 150360,
-      "name": "7 LEERE ZIMMER (feat. Henning May)",
-      "url": "https://open.spotify.com/track/2t5zRm6bgu4TRvmELiEsDV"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Liebe ist ein Dieb",
-        "url": "https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW"
-      },
-      "artists": [
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "Liebe ist ein Dieb",
-      "url": "https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "nie wieder normal",
-        "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        },
-        {
-          "name": "Blumengarten",
-          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
-        }
-      ],
-      "duration_ms": 197618,
-      "name": "nie wieder normal",
-      "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Universum regelt",
-        "url": "https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh"
-      },
-      "artists": [
-        {
-          "name": "Schmyt",
-          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
-        }
-      ],
-      "duration_ms": 147852,
-      "name": "H\u00f6henangst",
-      "url": "https://open.spotify.com/track/1esUHh1CO18DH1gZlrr4BO"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Ich Liebe Dich",
         "url": "https://open.spotify.com/album/5t6CZCpZTS2hOVZLVEuvGa"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 155152,
       "name": "Ich Liebe Dich",
       "url": "https://open.spotify.com/track/2mVrSw1sSk3v8GanOZj9wF"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Universum regelt",
+        "url": "https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh"
+      },
+      "artists": [
+        {
+          "name": "Schmyt",
+          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
+        }
+      ],
+      "duration_ms": 147852,
+      "name": "H\u00f6henangst",
+      "url": "https://open.spotify.com/track/1esUHh1CO18DH1gZlrr4BO"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "pass auf mein herz auf",
-        "url": "https://open.spotify.com/album/1Cyp8PDZmddPo100wHR09j"
-      },
-      "artists": [
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        }
-      ],
-      "duration_ms": 137027,
-      "name": "argentinien & peru",
-      "url": "https://open.spotify.com/track/6XSIvQuPtKTvgOAFl76HAu"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Ich hass dich",
         "url": "https://open.spotify.com/album/5Jv2VE7PyyoDR8G1qUV5Uw"
       },
@@ -839,6 +823,46 @@
       "duration_ms": 193024,
       "name": "Ich hass dich",
       "url": "https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "pass auf mein herz auf",
+        "url": "https://open.spotify.com/album/1Cyp8PDZmddPo100wHR09j"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 137027,
+      "name": "argentinien & peru",
+      "url": "https://open.spotify.com/track/6XSIvQuPtKTvgOAFl76HAu"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "winterlove2.0",
+        "url": "https://open.spotify.com/album/6FVvZwks2Bz8xpYFUSbQrb"
+      },
+      "artists": [
+        {
+          "name": "Maikel",
+          "url": "https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY"
+        },
+        {
+          "name": "badchieff",
+          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
+        },
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        }
+      ],
+      "duration_ms": 188750,
+      "name": "winterlove2.0",
+      "url": "https://open.spotify.com/track/1szS7JF64tEmQke86QpFDV"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -883,30 +907,6 @@
       "duration_ms": 177208,
       "name": "Weisse Orchideen",
       "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "winterlove2.0",
-        "url": "https://open.spotify.com/album/6FVvZwks2Bz8xpYFUSbQrb"
-      },
-      "artists": [
-        {
-          "name": "Maikel",
-          "url": "https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY"
-        },
-        {
-          "name": "badchieff",
-          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
-        },
-        {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
-        }
-      ],
-      "duration_ms": 188750,
-      "name": "winterlove2.0",
-      "url": "https://open.spotify.com/track/1szS7JF64tEmQke86QpFDV"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Delulu",
-        "url": "https://open.spotify.com/album/22HSiBwgz8V6M323doPvwd"
-      },
-      "artists": [
-        {
-          "name": "Florentina",
-          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
-        }
-      ],
-      "duration_ms": 119047,
-      "name": "Delulu",
-      "url": "https://open.spotify.com/track/1KqYUtoOOq34KlgHhP1pSt"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "On/Off",
         "url": "https://open.spotify.com/album/6fV2gDEnZrkEDz5ENTaL8x"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 147500,
       "name": "On/Off",
       "url": "https://open.spotify.com/track/5X63FvEXgMGIt7LF6U7v2W"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Delulu",
+        "url": "https://open.spotify.com/album/22HSiBwgz8V6M323doPvwd"
+      },
+      "artists": [
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        }
+      ],
+      "duration_ms": 119047,
+      "name": "Delulu",
+      "url": "https://open.spotify.com/track/1KqYUtoOOq34KlgHhP1pSt"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Tagebuch",
-        "url": "https://open.spotify.com/album/1QtK03Y9d4ufaBxbV5VPmn"
-      },
-      "artists": [
-        {
-          "name": "Symba",
-          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
-        }
-      ],
-      "duration_ms": 138999,
-      "name": "Tagebuch",
-      "url": "https://open.spotify.com/track/5uLJ84Xbogv04RLgMhJxNq"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "NuR Du :/",
         "url": "https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 206085,
       "name": "NuR Du :/",
       "url": "https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Tagebuch",
+        "url": "https://open.spotify.com/album/1QtK03Y9d4ufaBxbV5VPmn"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
+        }
+      ],
+      "duration_ms": 138999,
+      "name": "Tagebuch",
+      "url": "https://open.spotify.com/track/5uLJ84Xbogv04RLgMhJxNq"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "NaNa",
+        "url": "https://open.spotify.com/album/2AR0fdXGiGxMN16aPFDW69"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        },
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        }
+      ],
+      "duration_ms": 141313,
+      "name": "NaNa",
+      "url": "https://open.spotify.com/track/6HB7JuxWRjLL3JXI9ECzhK"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Majestic",
         "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
       },
@@ -1171,6 +1191,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Herzfeind (Titelsong zum Film \u201eTrauzeugen\u201c)",
+        "url": "https://open.spotify.com/album/7ck5XxkoEY7Y7K7QcHzrbZ"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 150369,
+      "name": "Herzfeind - Titelsong zum Film \u201eTrauzeugen\u201c",
+      "url": "https://open.spotify.com/track/0BxwNmVneOi0XkSbvwdk6Z"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/29JfpcRRhV7vspCooH2pIM"
       },
@@ -1195,42 +1231,6 @@
       "duration_ms": 161849,
       "name": "OMG",
       "url": "https://open.spotify.com/track/48VxUAyrLAnOr39ck1cJV5"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "NaNa",
-        "url": "https://open.spotify.com/album/2AR0fdXGiGxMN16aPFDW69"
-      },
-      "artists": [
-        {
-          "name": "Lune",
-          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
-        },
-        {
-          "name": "Kauta",
-          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
-        }
-      ],
-      "duration_ms": 141313,
-      "name": "NaNa",
-      "url": "https://open.spotify.com/track/6HB7JuxWRjLL3JXI9ECzhK"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Herzfeind (Titelsong zum Film \u201eTrauzeugen\u201c)",
-        "url": "https://open.spotify.com/album/7ck5XxkoEY7Y7K7QcHzrbZ"
-      },
-      "artists": [
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        }
-      ],
-      "duration_ms": 150369,
-      "name": "Herzfeind - Titelsong zum Film \u201eTrauzeugen\u201c",
-      "url": "https://open.spotify.com/track/0BxwNmVneOi0XkSbvwdk6Z"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Bisou :*",
+        "url": "https://open.spotify.com/album/6Y9pFqdaD1O343Vr9sZuR5"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        }
+      ],
+      "duration_ms": 161587,
+      "name": "Bisou :*",
+      "url": "https://open.spotify.com/track/7dAI9IZpHaA9Lzhd8d60Tp"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Uluda\u011f und Sorgen",
         "url": "https://open.spotify.com/album/3uR9ZiNsj3VU2x1E0VRNgT"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 186247,
       "name": "Uluda\u011f und Sorgen",
       "url": "https://open.spotify.com/track/1kQKmatH0qVvnT05kJ0o4d"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Bisou :*",
-        "url": "https://open.spotify.com/album/6Y9pFqdaD1O343Vr9sZuR5"
-      },
-      "artists": [
-        {
-          "name": "Lune",
-          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
-        }
-      ],
-      "duration_ms": 161587,
-      "name": "Bisou :*",
-      "url": "https://open.spotify.com/track/7dAI9IZpHaA9Lzhd8d60Tp"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1607,8 +1607,8 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Zeiten \u00e4ndern nichts (feat. Kool Savas)",
-        "url": "https://open.spotify.com/album/0q3LXCOcFj6Kdu1zNYQgKu"
+        "name": "1000 Sterne",
+        "url": "https://open.spotify.com/album/6v5nqgBpLAGyIWoL4KRGYc"
       },
       "artists": [
         {
@@ -1616,19 +1616,19 @@
           "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
         },
         {
-          "name": "Kool Savas",
-          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+          "name": "AYLIVA",
+          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
         }
       ],
-      "duration_ms": 151026,
-      "name": "Zeiten \u00e4ndern nichts (feat. Kool Savas)",
-      "url": "https://open.spotify.com/track/2qlO9odnqUIVu8MMyhdmFY"
+      "duration_ms": 123280,
+      "name": "1000 Sterne",
+      "url": "https://open.spotify.com/track/1WTWjnCrjwzktuY2UFGUx1"
     },
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Panikwei\u00df",
-        "url": "https://open.spotify.com/album/759SIsxU0p4v2TJ2yrplV5"
+        "name": "BOI",
+        "url": "https://open.spotify.com/album/48xBOWLlBupgfhNKkErgDJ"
       },
       "artists": [
         {
@@ -1636,13 +1636,17 @@
           "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
         },
         {
+          "name": "Megaloh",
+          "url": "https://open.spotify.com/artist/7M6ItqYUMPQRQQ5q54tl7G"
+        },
+        {
           "name": "Schmyt",
           "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
         }
       ],
-      "duration_ms": 170016,
-      "name": "Panikwei\u00df",
-      "url": "https://open.spotify.com/track/2sledoZeAbV6vtTo6HsrqG"
+      "duration_ms": 228736,
+      "name": "Monoton",
+      "url": "https://open.spotify.com/track/6gZEyiqUvEpWpJYz7QjLjx"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1723,42 +1727,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Helldunkel",
-        "url": "https://open.spotify.com/album/2zGXSLw6MPbYn5eyUAkbaa"
-      },
-      "artists": [
-        {
-          "name": "Chapo102",
-          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
-        },
-        {
-          "name": "102 Boyz",
-          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
-        }
-      ],
-      "duration_ms": 108915,
-      "name": "Plastikblumen",
-      "url": "https://open.spotify.com/track/3xlGxCgwVwU08zL3Hrna95"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "schwarze SUVs",
-        "url": "https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2"
-      },
-      "artists": [
-        {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
-        }
-      ],
-      "duration_ms": 169761,
-      "name": "schwarze SUVs",
-      "url": "https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Sommer",
         "url": "https://open.spotify.com/album/5cfSg0UfE2Ch07MkqRHOYW"
       },
@@ -1783,8 +1751,8 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "1000 Sterne",
-        "url": "https://open.spotify.com/album/6v5nqgBpLAGyIWoL4KRGYc"
+        "name": "Zeiten \u00e4ndern nichts (feat. Kool Savas)",
+        "url": "https://open.spotify.com/album/0q3LXCOcFj6Kdu1zNYQgKu"
       },
       "artists": [
         {
@@ -1792,13 +1760,33 @@
           "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
         },
         {
-          "name": "AYLIVA",
-          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
         }
       ],
-      "duration_ms": 123280,
-      "name": "1000 Sterne",
-      "url": "https://open.spotify.com/track/1WTWjnCrjwzktuY2UFGUx1"
+      "duration_ms": 151026,
+      "name": "Zeiten \u00e4ndern nichts (feat. Kool Savas)",
+      "url": "https://open.spotify.com/track/2qlO9odnqUIVu8MMyhdmFY"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Helldunkel",
+        "url": "https://open.spotify.com/album/2zGXSLw6MPbYn5eyUAkbaa"
+      },
+      "artists": [
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
+        }
+      ],
+      "duration_ms": 108915,
+      "name": "Plastikblumen",
+      "url": "https://open.spotify.com/track/3xlGxCgwVwU08zL3Hrna95"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1819,8 +1807,24 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "BOI",
-        "url": "https://open.spotify.com/album/48xBOWLlBupgfhNKkErgDJ"
+        "name": "Mufasa",
+        "url": "https://open.spotify.com/album/7gkyr2RLvlijFDtzXtXnz1"
+      },
+      "artists": [
+        {
+          "name": "METRICKZ",
+          "url": "https://open.spotify.com/artist/2P7AfQW941UU324qq2ggZf"
+        }
+      ],
+      "duration_ms": 195859,
+      "name": "W\u00fcnsch mir was",
+      "url": "https://open.spotify.com/track/01eVMUiJcYmHqy1HUURwOY"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Panikwei\u00df",
+        "url": "https://open.spotify.com/album/759SIsxU0p4v2TJ2yrplV5"
       },
       "artists": [
         {
@@ -1828,33 +1832,29 @@
           "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
         },
         {
-          "name": "Megaloh",
-          "url": "https://open.spotify.com/artist/7M6ItqYUMPQRQQ5q54tl7G"
-        },
-        {
           "name": "Schmyt",
           "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
         }
       ],
-      "duration_ms": 228736,
-      "name": "Monoton",
-      "url": "https://open.spotify.com/track/6gZEyiqUvEpWpJYz7QjLjx"
+      "duration_ms": 170016,
+      "name": "Panikwei\u00df",
+      "url": "https://open.spotify.com/track/2sledoZeAbV6vtTo6HsrqG"
     },
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "SMS",
-        "url": "https://open.spotify.com/album/1mWkEBrG6UKMnz8FOVzHRx"
+        "name": "schwarze SUVs",
+        "url": "https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2"
       },
       "artists": [
         {
-          "name": "Teven",
-          "url": "https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0"
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
         }
       ],
-      "duration_ms": 158448,
-      "name": "SMS",
-      "url": "https://open.spotify.com/track/2IljGIvJWtgjvG4h8WUh8E"
+      "duration_ms": 169761,
+      "name": "schwarze SUVs",
+      "url": "https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1875,18 +1875,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Mufasa",
-        "url": "https://open.spotify.com/album/7gkyr2RLvlijFDtzXtXnz1"
+        "name": "MISSED CALLS",
+        "url": "https://open.spotify.com/album/1Y5ep8GDT8ky8wwu02coOH"
       },
       "artists": [
         {
-          "name": "METRICKZ",
-          "url": "https://open.spotify.com/artist/2P7AfQW941UU324qq2ggZf"
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
         }
       ],
-      "duration_ms": 195859,
-      "name": "W\u00fcnsch mir was",
-      "url": "https://open.spotify.com/track/01eVMUiJcYmHqy1HUURwOY"
+      "duration_ms": 132800,
+      "name": "MISSED CALLS",
+      "url": "https://open.spotify.com/track/4RHDWNlp4yrk54rQATSiQK"
     }
   ],
   "unique_name": "Rap in deep",

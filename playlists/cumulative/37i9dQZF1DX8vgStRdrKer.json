@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "Adoration Song (Radio Edit)",
+        "url": "https://open.spotify.com/album/014LujBDnTwzCxIgyIZ6nV"
+      },
+      "artists": [
+        {
+          "name": "Mark & Sarah Tillman",
+          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
+        },
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267933,
+      "name": "Adoration Song",
+      "url": "https://open.spotify.com/track/3vQjVnBVCwpiJg6mwNMwGT"
+    },
+    {
+      "album": {
         "name": "Adore You",
         "url": "https://open.spotify.com/album/5GV2IQqxEByoiovHXo3FsK"
       },
@@ -2728,7 +2750,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 199949,
       "name": "My Jesus",
       "url": "https://open.spotify.com/track/2ryEDwlc0i1KSjFXggX6hG"

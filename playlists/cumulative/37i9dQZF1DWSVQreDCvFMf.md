@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Denise Julia
 
-200 songs - 12 hr 36 min
+201 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Kasama](https://open.spotify.com/track/1qA0gniLfP4RIRmVTEe1eM) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh), [Chito Miranda](https://open.spotify.com/artist/72VBk3SEsEFPF948CmkHT4) | [Kasama](https://open.spotify.com/album/2t6TUKXucrJSErtNohifVu) | 4:19 | 2024-10-04 |  |
 | [Kasayaw](https://open.spotify.com/track/5ocqqw7odUNJXBdnGUJCQa) | [Kiss n Tell](https://open.spotify.com/artist/4SJq9qpSpGvbKfCEGqnFqQ) | [Kasayaw](https://open.spotify.com/album/6s1WZe88wGse9q4e5Y5q0q) | 4:10 | 2024-07-17 | 2024-11-09 |
 | [kiss](https://open.spotify.com/track/4WoFk6eYCFzln1TlbmY9kB) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [kiss](https://open.spotify.com/album/00soTzV3z8l97RY0Z26l69) | 2:40 | 2024-11-08 |  |
+| [KPG](https://open.spotify.com/track/0kFjcEbZKRy6IjtUTmNvC3) | [Liel](https://open.spotify.com/artist/1jrYfEdTDqMZBPQpXzEBlG) | [KPG](https://open.spotify.com/album/4jkjJKgRMRsjhgNbE6Ij8K) | 3:14 | 2024-11-11 |  |
 | [Kulimlim](https://open.spotify.com/track/7otcJuVUk3fEbvJ5tNO4af) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [Kulimlim](https://open.spotify.com/album/6OhYBRH3PE4wH9t1Yfljpq) | 3:30 | 2024-10-18 |  |
 | [Kumusta](https://open.spotify.com/track/6efSjoVRFHM6nS8v6PF8wD) | [Winrich Adarlo](https://open.spotify.com/artist/5qqDnSwcDVRKgyV0UhbfJz) | [Kumusta](https://open.spotify.com/album/1AvywRk8Rwbbcz4Q3t5zVK) | 4:52 | 2024-07-08 | 2024-09-25 |
 | [Kusapiling](https://open.spotify.com/track/52gnVgaEDDNtq2g0wubuYg) | [Anthony Meneses](https://open.spotify.com/artist/5hWdDTngERKdHiuLgb3IEj) | [Kusapiling](https://open.spotify.com/album/2wCj8SFPA6PJFREeDai5SV) | 4:36 | 2024-08-30 |  |

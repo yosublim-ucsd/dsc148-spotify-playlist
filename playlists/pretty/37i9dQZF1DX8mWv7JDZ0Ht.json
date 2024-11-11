@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve / Foto: Anavit\u00f3ria",
-  "num_followers": 435587,
+  "num_followers": 435603,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,26 @@
     {
       "added_at": "2024-11-08 14:09:34",
       "album": {
+        "name": "COR",
+        "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        }
+      ],
+      "duration_ms": 201452,
+      "name": "Amarelo, azul e branco",
+      "url": "https://open.spotify.com/track/2LOIoeI16A8jjKubPKoCSa"
+    },
+    {
+      "added_at": "2024-11-08 14:09:34",
+      "album": {
         "name": "Beb\u00ea",
         "url": "https://open.spotify.com/album/6HvOPuBicSOthMOgXvMPuT"
       },
@@ -279,26 +299,6 @@
       "duration_ms": 156746,
       "name": "Feliz e Ponto",
       "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
-    },
-    {
-      "added_at": "2024-11-08 14:09:34",
-      "album": {
-        "name": "COR",
-        "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        },
-        {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        }
-      ],
-      "duration_ms": 201452,
-      "name": "Amarelo, azul e branco",
-      "url": "https://open.spotify.com/track/2LOIoeI16A8jjKubPKoCSa"
     },
     {
       "added_at": "2024-11-08 14:09:34",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-11-08 14:09:34",
       "album": {
-        "name": "S\u00f3 Mais Um Pouquinho",
-        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 193949,
-      "name": "S\u00f3 Mais Um Pouquinho",
-      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
-    },
-    {
-      "added_at": "2024-11-08 14:09:34",
-      "album": {
         "name": "Pipa",
         "url": "https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 181740,
       "name": "Pipa",
       "url": "https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr"
+    },
+    {
+      "added_at": "2024-11-08 14:09:34",
+      "album": {
+        "name": "S\u00f3 Mais Um Pouquinho",
+        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "duration_ms": 193949,
+      "name": "S\u00f3 Mais Um Pouquinho",
+      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
     },
     {
       "added_at": "2024-11-08 14:09:34",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-11-08 14:09:34",
       "album": {
+        "name": "Mais de N\u00f3s",
+        "url": "https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 174361,
+      "name": "Mais de N\u00f3s",
+      "url": "https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc"
+    },
+    {
+      "added_at": "2024-11-08 14:09:34",
+      "album": {
         "name": "Baila Comigo",
         "url": "https://open.spotify.com/album/2gpvZxbAztzFJMpLUtNK3H"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 186341,
       "name": "Baila Comigo",
       "url": "https://open.spotify.com/track/4mfKqbqZKEt4kPaRiUKKbL"
-    },
-    {
-      "added_at": "2024-11-08 14:09:34",
-      "album": {
-        "name": "Mais de N\u00f3s",
-        "url": "https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 174361,
-      "name": "Mais de N\u00f3s",
-      "url": "https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc"
     },
     {
       "added_at": "2024-11-08 14:09:34",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-11-08 14:09:34",
       "album": {
+        "name": "Depois do Fim (Deluxe)",
+        "url": "https://open.spotify.com/album/4Rfk2LiqBbz0FH97L9WWoy"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 132439,
+      "name": "C\u00f3cegas",
+      "url": "https://open.spotify.com/track/0OXEKRIQpYwKxgyiFdaNz3"
+    },
+    {
+      "added_at": "2024-11-08 14:09:34",
+      "album": {
         "name": "Massagem nas Costas",
         "url": "https://open.spotify.com/album/19tU95QBl4RTYwM28LW9Dq"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 159280,
       "name": "Massagem nas Costas",
       "url": "https://open.spotify.com/track/230Z8Ryx3tj4LfmtVGvMrJ"
-    },
-    {
-      "added_at": "2024-11-08 14:09:34",
-      "album": {
-        "name": "Depois do Fim (Deluxe)",
-        "url": "https://open.spotify.com/album/4Rfk2LiqBbz0FH97L9WWoy"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 132439,
-      "name": "C\u00f3cegas",
-      "url": "https://open.spotify.com/track/0OXEKRIQpYwKxgyiFdaNz3"
     },
     {
       "added_at": "2024-11-08 14:09:34",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-11-08 14:09:34",
       "album": {
-        "name": "tonteira",
-        "url": "https://open.spotify.com/album/03gegOJ6g2aZSaOlG7VykS"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 147812,
-      "name": "tonteira",
-      "url": "https://open.spotify.com/track/3OqtduCMGaMtAlzusSznBv"
-    },
-    {
-      "added_at": "2024-11-08 14:09:34",
-      "album": {
         "name": "Coisa de Cinema",
         "url": "https://open.spotify.com/album/37IH3KuZZiK3BI6yJXamQk"
       },
@@ -891,6 +875,38 @@
     {
       "added_at": "2024-11-08 14:09:34",
       "album": {
+        "name": "Melim",
+        "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 178864,
+      "name": "Viva O Amor",
+      "url": "https://open.spotify.com/track/3GH22kQ3ONn8B9jg0CgxEO"
+    },
+    {
+      "added_at": "2024-11-08 14:09:34",
+      "album": {
+        "name": "tonteira",
+        "url": "https://open.spotify.com/album/03gegOJ6g2aZSaOlG7VykS"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 147812,
+      "name": "tonteira",
+      "url": "https://open.spotify.com/track/3OqtduCMGaMtAlzusSznBv"
+    },
+    {
+      "added_at": "2024-11-08 14:09:34",
+      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/1Fc9YzTUh4DfZlA3Raqe7t"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 257521,
       "name": "KINTSUGI",
       "url": "https://open.spotify.com/track/6eAYHvfW8dFwsbJEypRwX7"
-    },
-    {
-      "added_at": "2024-11-08 14:09:34",
-      "album": {
-        "name": "Melim",
-        "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 178864,
-      "name": "Viva O Amor",
-      "url": "https://open.spotify.com/track/3GH22kQ3ONn8B9jg0CgxEO"
     },
     {
       "added_at": "2024-11-08 14:09:34",
@@ -979,26 +979,6 @@
     {
       "added_at": "2024-11-08 14:09:34",
       "album": {
-        "name": "Dan\u00e7a Comigo",
-        "url": "https://open.spotify.com/album/13P91cYrcOMBBceoxDLHJc"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        },
-        {
-          "name": "Nanda",
-          "url": "https://open.spotify.com/artist/1QD43Tp8RUMWTSWtRsqlvL"
-        }
-      ],
-      "duration_ms": 82380,
-      "name": "Dan\u00e7a Comigo",
-      "url": "https://open.spotify.com/track/69Rgymrzdoyqo7oEshYTBB"
-    },
-    {
-      "added_at": "2024-11-08 14:09:34",
-      "album": {
         "name": "Vamos de Viagem",
         "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
       },
@@ -1031,18 +1011,22 @@
     {
       "added_at": "2024-11-08 14:09:34",
       "album": {
-        "name": "do c\u00e9u ao inferno",
-        "url": "https://open.spotify.com/album/3ymIbbproFg65oCA0eOFeH"
+        "name": "Dan\u00e7a Comigo",
+        "url": "https://open.spotify.com/album/13P91cYrcOMBBceoxDLHJc"
       },
       "artists": [
         {
-          "name": "Georgia Castro",
-          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        },
+        {
+          "name": "Nanda",
+          "url": "https://open.spotify.com/artist/1QD43Tp8RUMWTSWtRsqlvL"
         }
       ],
-      "duration_ms": 198409,
-      "name": "do c\u00e9u ao inferno",
-      "url": "https://open.spotify.com/track/2su7rpshqu1YtlRSinMGNx"
+      "duration_ms": 82380,
+      "name": "Dan\u00e7a Comigo",
+      "url": "https://open.spotify.com/track/69Rgymrzdoyqo7oEshYTBB"
     },
     {
       "added_at": "2024-11-08 14:09:34",
@@ -1059,6 +1043,22 @@
       "duration_ms": 171428,
       "name": "Deixa Florescer",
       "url": "https://open.spotify.com/track/3jcoj5dT14jtXSR2HI7rZS"
+    },
+    {
+      "added_at": "2024-11-08 14:09:34",
+      "album": {
+        "name": "do c\u00e9u ao inferno",
+        "url": "https://open.spotify.com/album/3ymIbbproFg65oCA0eOFeH"
+      },
+      "artists": [
+        {
+          "name": "Georgia Castro",
+          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+        }
+      ],
+      "duration_ms": 198409,
+      "name": "do c\u00e9u ao inferno",
+      "url": "https://open.spotify.com/track/2su7rpshqu1YtlRSinMGNx"
     },
     {
       "added_at": "2024-11-08 14:09:34",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-11-08 14:09:34",
       "album": {
+        "name": "Duas da Manh\u00e3",
+        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 198071,
+      "name": "Duas da Manh\u00e3",
+      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
+    },
+    {
+      "added_at": "2024-11-08 14:09:34",
+      "album": {
         "name": "Tenta",
         "url": "https://open.spotify.com/album/1pset4Mihdi5MPfWjJ0O1Y"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 197560,
       "name": "Tenta",
       "url": "https://open.spotify.com/track/2yUYVT5UCEHFiowzNFF3WE"
-    },
-    {
-      "added_at": "2024-11-08 14:09:34",
-      "album": {
-        "name": "Duas da Manh\u00e3",
-        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 198071,
-      "name": "Duas da Manh\u00e3",
-      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
     },
     {
       "added_at": "2024-11-08 14:09:34",
@@ -1151,38 +1151,6 @@
     {
       "added_at": "2024-11-08 14:09:34",
       "album": {
-        "name": "Sol de S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
-      },
-      "artists": [
-        {
-          "name": "Jay Horsth",
-          "url": "https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Sol de S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
-    },
-    {
-      "added_at": "2024-11-08 14:09:34",
-      "album": {
-        "name": "Cart\u00f5es Postais",
-        "url": "https://open.spotify.com/album/3dZsMCVQ2IrofYTC2MfE1y"
-      },
-      "artists": [
-        {
-          "name": "Rafa Martins",
-          "url": "https://open.spotify.com/artist/4h4cE2zRVOuTX6CWO3526o"
-        }
-      ],
-      "duration_ms": 124212,
-      "name": "Cart\u00f5es Postais",
-      "url": "https://open.spotify.com/track/1fDE5tMYjqwrUIgBrkZdlQ"
-    },
-    {
-      "added_at": "2024-11-08 14:09:34",
-      "album": {
         "name": "Todo Azul",
         "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
       },
@@ -1195,6 +1163,22 @@
       "duration_ms": 152952,
       "name": "Todo Azul",
       "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
+    },
+    {
+      "added_at": "2024-11-08 14:09:34",
+      "album": {
+        "name": "Sol de S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
+      },
+      "artists": [
+        {
+          "name": "Jay Horsth",
+          "url": "https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Sol de S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
     },
     {
       "added_at": "2024-11-08 14:09:34",
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2024-11-08 14:09:34",
       "album": {
-        "name": "Entre o Nada e o Infinito",
-        "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
+        "name": "Cart\u00f5es Postais",
+        "url": "https://open.spotify.com/album/3dZsMCVQ2IrofYTC2MfE1y"
       },
       "artists": [
         {
-          "name": "Brolo Gonzalez",
-          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+          "name": "Rafa Martins",
+          "url": "https://open.spotify.com/artist/4h4cE2zRVOuTX6CWO3526o"
         }
       ],
-      "duration_ms": 175080,
-      "name": "acende essa ponta",
-      "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
+      "duration_ms": 124212,
+      "name": "Cart\u00f5es Postais",
+      "url": "https://open.spotify.com/track/1fDE5tMYjqwrUIgBrkZdlQ"
     },
     {
       "added_at": "2024-11-08 14:09:34",
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2024-11-08 14:09:34",
       "album": {
+        "name": "Entre o Nada e o Infinito",
+        "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
+      },
+      "artists": [
+        {
+          "name": "Brolo Gonzalez",
+          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+        }
+      ],
+      "duration_ms": 175080,
+      "name": "acende essa ponta",
+      "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
+    },
+    {
+      "added_at": "2024-11-08 14:09:34",
+      "album": {
         "name": "Tanto Tanto",
         "url": "https://open.spotify.com/album/42XMiMTFgFRQTo5Mf2oiE2"
       },
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2024-11-08 14:09:34",
       "album": {
-        "name": "Veraneio, Ep. 1",
-        "url": "https://open.spotify.com/album/3fF8HeUO9GpgrXCNysksn4"
+        "name": "Embeleza o Meu Dia",
+        "url": "https://open.spotify.com/album/5VWGI6NFkWzOOuHnQvEiln"
       },
       "artists": [
         {
-          "name": "VERANEIO",
-          "url": "https://open.spotify.com/artist/1kd539qlSc0grHevSVHYRH"
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
         }
       ],
-      "duration_ms": 208958,
-      "name": "Deixo Voc\u00ea Ir",
-      "url": "https://open.spotify.com/track/7xXjpb8i4EEZiyAawKJCAe"
+      "duration_ms": 172760,
+      "name": "Embeleza o Meu Dia",
+      "url": "https://open.spotify.com/track/7GnBocYkE07GydCTZ7mhNi"
     },
     {
       "added_at": "2024-11-08 14:09:34",
@@ -1347,18 +1347,38 @@
     {
       "added_at": "2024-11-08 14:09:34",
       "album": {
-        "name": "Embeleza o Meu Dia",
-        "url": "https://open.spotify.com/album/5VWGI6NFkWzOOuHnQvEiln"
+        "name": "Ver Em Cores",
+        "url": "https://open.spotify.com/album/4I0aqJmFE8H1mXlvGRYRrp"
       },
       "artists": [
         {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 172760,
-      "name": "Embeleza o Meu Dia",
-      "url": "https://open.spotify.com/track/7GnBocYkE07GydCTZ7mhNi"
+      "duration_ms": 243370,
+      "name": "Ver Em Cores",
+      "url": "https://open.spotify.com/track/5cJ3lUnqM7Aio9bG50bn9Y"
+    },
+    {
+      "added_at": "2024-11-08 14:09:34",
+      "album": {
+        "name": "Veraneio, Ep. 1",
+        "url": "https://open.spotify.com/album/3fF8HeUO9GpgrXCNysksn4"
+      },
+      "artists": [
+        {
+          "name": "VERANEIO",
+          "url": "https://open.spotify.com/artist/1kd539qlSc0grHevSVHYRH"
+        }
+      ],
+      "duration_ms": 208958,
+      "name": "Deixo Voc\u00ea Ir",
+      "url": "https://open.spotify.com/track/7xXjpb8i4EEZiyAawKJCAe"
     },
     {
       "added_at": "2024-11-08 14:09:34",
@@ -1395,6 +1415,22 @@
     {
       "added_at": "2024-11-08 14:09:34",
       "album": {
+        "name": "V\u00e1 Com Deus",
+        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 172268,
+      "name": "V\u00e1 Com Deus",
+      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
+    },
+    {
+      "added_at": "2024-11-08 14:09:34",
+      "album": {
         "name": "Prece",
         "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
       },
@@ -1407,42 +1443,6 @@
       "duration_ms": 227906,
       "name": "Prece",
       "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
-    },
-    {
-      "added_at": "2024-11-08 14:09:34",
-      "album": {
-        "name": "Ver Em Cores",
-        "url": "https://open.spotify.com/album/4I0aqJmFE8H1mXlvGRYRrp"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 243370,
-      "name": "Ver Em Cores",
-      "url": "https://open.spotify.com/track/5cJ3lUnqM7Aio9bG50bn9Y"
-    },
-    {
-      "added_at": "2024-11-08 14:09:34",
-      "album": {
-        "name": "Nosso Carnaval",
-        "url": "https://open.spotify.com/album/0srVK7a9O1M6AthVTfiOHK"
-      },
-      "artists": [
-        {
-          "name": "Brand\u00e3o",
-          "url": "https://open.spotify.com/artist/5Nwyqp8VllhGHPPQw6FH7U"
-        }
-      ],
-      "duration_ms": 165490,
-      "name": "Nosso Carnaval",
-      "url": "https://open.spotify.com/track/2K6gasvI6EdOlvqSxJDQf6"
     },
     {
       "added_at": "2024-11-08 14:09:34",
@@ -1463,22 +1463,18 @@
     {
       "added_at": "2024-11-08 14:09:34",
       "album": {
-        "name": "Vem C\u00e1, Me Beija",
-        "url": "https://open.spotify.com/album/5iTMqZsLOCGnxjVuxcfs5P"
+        "name": "Nosso Carnaval",
+        "url": "https://open.spotify.com/album/0srVK7a9O1M6AthVTfiOHK"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Napoli",
-          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
-        },
-        {
-          "name": "Carol Passos",
-          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
+          "name": "Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/5Nwyqp8VllhGHPPQw6FH7U"
         }
       ],
-      "duration_ms": 158170,
-      "name": "Vem C\u00e1, Me Beija",
-      "url": "https://open.spotify.com/track/5zrnow8n59LyOhSa4IhcVI"
+      "duration_ms": 165490,
+      "name": "Nosso Carnaval",
+      "url": "https://open.spotify.com/track/2K6gasvI6EdOlvqSxJDQf6"
     }
   ],
   "unique_name": "Pop Leve",

@@ -8606,7 +8606,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 188797,
       "name": "Strung Out",
       "url": "https://open.spotify.com/track/0jyw07SL4Jt51vRpYBKLby"
@@ -9298,6 +9298,24 @@
       "duration_ms": 202391,
       "name": "Use Me (Brutal Hearts) (feat. Sturgill Simpson, Dove Cameron & Johnny Blue Skies)",
       "url": "https://open.spotify.com/track/6tRzd5IvfCywkLX8OdTDiB"
+    },
+    {
+      "album": {
+        "name": "V1",
+        "url": "https://open.spotify.com/album/3I566oodqOcYXYT6U5Q3NY"
+      },
+      "artists": [
+        {
+          "name": "Coucheron",
+          "url": "https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165047,
+      "name": "V1",
+      "url": "https://open.spotify.com/track/1EtfVg0YP05kuhSPpCFnsP"
     },
     {
       "album": {

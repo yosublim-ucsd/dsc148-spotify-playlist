@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-248 songs - 10 hr 48 min
+249 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Aura](https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Aura](https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI) | 3:06 | 2023-09-28 |  |
 | [Automatic](https://open.spotify.com/track/3RxlMZgbTxoiGFTaSjX2Hk) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:10 | 2024-01-04 | 2024-04-19 |
 | [Automatic](https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Automatic](https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P) | 2:10 | 2023-09-21 | 2024-01-10 |
+| [Back it](https://open.spotify.com/track/63YfOgW7RdMqoJFIO8eBJB) | [Britz](https://open.spotify.com/artist/6op6pbdwltqYGxSV8rl5q2), [Pacify](https://open.spotify.com/artist/1SDrbBZXdJjX3Hm8OZwCwk), [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [Back it](https://open.spotify.com/album/7oPLwcPMW4W8kBZtVYHv0S) | 2:39 | 2024-11-07 |  |
 | [Back It Up](https://open.spotify.com/track/1Y23sm3HjBKm0FZ48KQAL8) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [Back It Up](https://open.spotify.com/album/1tdaOMAQN2wuvnScz3m2eK) | 2:18 | 2024-10-31 |  |
 | [BAD GIRL](https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [BAD GIRL](https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1) | 2:28 | 2023-09-21 | 2024-06-01 |
 | [badshit \(feat\. Tyr\)](https://open.spotify.com/track/36R2cJp6HWmVBsGiGdsqzL) | [anakin justin](https://open.spotify.com/artist/5eg8Q9stSfP38jgkxAKacv), [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [badshit \(feat\. Tyr\)](https://open.spotify.com/album/37x9fOfhyHjf2xGE8l8r5I) | 2:30 | 2024-07-11 | 2024-09-09 |
@@ -91,7 +92,7 @@
 | [FLEX](https://open.spotify.com/track/2WDNr2kjwAhtlqEXELyYkz) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [FLEX](https://open.spotify.com/album/5phOcxFTbyfLAHaIVflpLf) | 2:14 | 2023-12-08 |  |
 | [FRANK LUCAS](https://open.spotify.com/track/6DOV07jomdnvi5esdmjiQu) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [FRANK LUCAS](https://open.spotify.com/album/4Oekris7A02U6hAfmcRr98) | 2:20 | 2024-09-26 | 2024-10-25 |
 | [Frossa](https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Frossa](https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO) | 2:34 | 2023-09-21 |  |
-| [Følg lyden](https://open.spotify.com/track/2BcXZTKQvdV6wwLKycR3hx) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t), [Tshawe](https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY) | [Pennen & Sverdet](https://open.spotify.com/album/5tyxwV6ZtkLLpt1a8RtFpa) | 2:11 | 2024-08-22 |  |
+| [Følg lyden](https://open.spotify.com/track/2BcXZTKQvdV6wwLKycR3hx) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t), [Tshawe](https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY) | [Pennen & Sverdet](https://open.spotify.com/album/5tyxwV6ZtkLLpt1a8RtFpa) | 2:11 | 2024-08-22 | 2024-11-11 |
 | [G63](https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/7w1lkm0KtSeu6bfs8S21d5) | 2:42 | 2023-09-21 | 2023-09-30 |
 | [G63](https://open.spotify.com/track/3hjAxYipqWlqBqBdrQXEU5) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:42 | 2024-01-04 | 2024-04-19 |
 | [G63](https://open.spotify.com/track/3iGLZavFFEdLHOEWANcQiF) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/0pB9N7JNV5TLGse7UUVXA0) | 2:42 | 2023-09-28 | 2024-01-08 |

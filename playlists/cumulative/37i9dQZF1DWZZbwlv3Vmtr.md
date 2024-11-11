@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-982 songs - 1 day 14 hr 4 min
+984 songs - 1 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Close Your Eyes](https://open.spotify.com/track/0DC95ThOGhL8F1jIhcXmrp) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Close Your Eyes](https://open.spotify.com/album/6EYYGetEziBvVnSK5TbiPh) | 2:54 | 2023-09-22 |  |
 | [Cloud Tops](https://open.spotify.com/track/01mBhCK8spV3tNbVkisiCC) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Paklite](https://open.spotify.com/artist/4e1q3xincZXgqIGXXhZ0Dh) | [Travels](https://open.spotify.com/album/1utT9lyWjLansgGNGrMe8l) | 2:53 | 2022-07-22 | 2022-12-10 |
 | [Cloudscapes](https://open.spotify.com/track/7q2l5DqNGfdDwZZBKqviM9) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Now / Again](https://open.spotify.com/album/2B35M85zMrnWhnsV8mW7i0) | 2:12 | 2022-04-15 | 2022-07-22 |
+| [Coastal](https://open.spotify.com/track/2zI8kItxIqtyFYfFsy3ngx) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Coastal](https://open.spotify.com/album/61GmtflvX6lhJRf5fARkZ6) | 1:47 | 2024-11-08 |  |
 | [Coastline](https://open.spotify.com/track/0PPlANVj1pw5InVorVuJv9) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Coastline](https://open.spotify.com/album/4LpnijAb8blgBpVbETtl2v) | 2:00 | 2024-10-04 |  |
 | [Cocoa](https://open.spotify.com/track/6Qrn5SUZPm50Ko3FJTkeT9) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Cocoa](https://open.spotify.com/album/6zMl2AQjO0DTzkSPivnj5N) | 2:15 | 2024-02-09 |  |
 | [Coffee 'n' Sugah](https://open.spotify.com/track/2cRJ29cz59xJlz7Teh7kbm) | [GoldAshez](https://open.spotify.com/artist/4r6xuiwVUX8BuSStUrDuuv) | [Coffee 'n' Sugah](https://open.spotify.com/album/2p8tBpESgua8e0u3IZFkVb) | 2:06 | 2022-04-15 | 2022-05-27 |
@@ -231,6 +232,7 @@
 | [Enthalpy](https://open.spotify.com/track/4DLFDmqoAEPAhxjagmRfJq) | [Transparent Man](https://open.spotify.com/artist/5BzOhiTZdq869mBfPYOKST), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Enthalpy](https://open.spotify.com/album/5g95vyYNbRJebBo4O1ACyP) | 2:32 | 2022-04-15 | 2023-10-06 |
 | [Escalator Blues](https://open.spotify.com/track/3ljIaptLZlaDk3cSGB7T7V) | [HEH](https://open.spotify.com/artist/0TPeimMKCuW9cVVu4DUOz0) | [Escalator Blues](https://open.spotify.com/album/5fRq0kVouIFs3fWi0aQ2uK) | 1:51 | 2024-01-12 | 2024-08-16 |
 | [Eskgrow](https://open.spotify.com/track/4SMMdkI3aMh08Ntf9DxuCh) | [Moon Ladder](https://open.spotify.com/artist/0oYx4r2AY0nWFoE5KUyqQI) | [Epsom Road](https://open.spotify.com/album/56OGV838fAkynsOASVD2im) | 3:15 | 2022-04-15 |  |
+| [Estelle](https://open.spotify.com/track/39j1lrsLa9jZ72Qx6PxJ2r) | [Samara Milli](https://open.spotify.com/artist/3sZomG9CbKFGghCfMXwhhv) | [Estelle](https://open.spotify.com/album/4o9PfEHog5OOVF3csh6ypi) | 1:50 | 2024-11-08 |  |
 | [Everything I'm not](https://open.spotify.com/track/3VRUnokiLze9VzGfeQWt8i) | [lowerful](https://open.spotify.com/artist/5vud9meb096x8pcNKiGDAm) | [Everything I'm not](https://open.spotify.com/album/25MzO5IM7UJI0YLX1eNfbM) | 1:48 | 2022-04-15 | 2022-07-08 |
 | [Everything's Better With You](https://open.spotify.com/track/49mdBU2g01KDLPhsbadqgo) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Happy To See You](https://open.spotify.com/album/2RQywmTrDDg7Zf4FdOKNIr) | 2:06 | 2022-04-15 | 2022-07-08 |
 | [Everything's Ok](https://open.spotify.com/track/6joF5vzWbc6Uk4t8jCSG4p) | [baker dalton](https://open.spotify.com/artist/0LbEUtI30VRNEZMbbD2rFe), [lukayo](https://open.spotify.com/artist/3AhFxqxCwraIIUrUiVx4d1), [Sanu](https://open.spotify.com/artist/4a9bZ6Cp8BXlUxJ7YgX1fq) | [Everything's Ok](https://open.spotify.com/album/20C5Uyn4WpAkSCe6Hmyeox) | 1:54 | 2023-09-08 | 2023-10-06 |
@@ -462,7 +464,7 @@
 | [Love Is Being Stupid Together](https://open.spotify.com/track/4kjYlte22vgJfHr48NSPRO) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Love Is Being Stupid Together](https://open.spotify.com/album/5cF1s5q3TCm53jR9vIPaOH) | 2:10 | 2022-08-19 | 2023-10-08 |
 | [Love Potion](https://open.spotify.com/track/2zJLvAcYQVAsRQuNNu05BL) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Love Potion](https://open.spotify.com/album/4qGPC8agy2yto2IgqKFoRn) | 2:46 | 2022-04-15 | 2022-06-25 |
 | [Love Snip](https://open.spotify.com/track/5TfqA1PGQJRZyng0480Zre) | [Gibun](https://open.spotify.com/artist/2UjKSDLr7jx5VWshKXQ0bT) | [Love Snip](https://open.spotify.com/album/1VL10DhdUCPKdNjbIkQwsY) | 1:32 | 2022-04-15 | 2022-09-09 |
-| [lovefi](https://open.spotify.com/track/45jqHHqNWz1x7ccIIHL27b) | [favorite mug](https://open.spotify.com/artist/70VofI7CJOx9Qfcd07BgPj) | [lovefi](https://open.spotify.com/album/077MBDNlBQi7bbUqMp7G3S) | 2:26 | 2024-10-04 |  |
+| [lovefi](https://open.spotify.com/track/45jqHHqNWz1x7ccIIHL27b) | [favorite mug](https://open.spotify.com/artist/70VofI7CJOx9Qfcd07BgPj) | [lovefi](https://open.spotify.com/album/077MBDNlBQi7bbUqMp7G3S) | 2:26 | 2024-10-04 | 2024-11-11 |
 | [Low Jump](https://open.spotify.com/track/0fdLkJqb4NrPUVzyxO8Gxn) | [Gidde](https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l) | [Low Jump](https://open.spotify.com/album/6AGB5bdyxvecqWmGO6XKyJ) | 1:36 | 2022-09-23 |  |
 | [Low Key](https://open.spotify.com/track/2rdlNy8ioOeyHNzcgp5lRw) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Low Key](https://open.spotify.com/album/54hYfTvuY6nCGCV8E32qAP) | 2:35 | 2022-04-15 | 2022-08-12 |
 | [Low Key](https://open.spotify.com/track/4oKcLLpaDDPMVKCaj6LLtn) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Koi Pond, Vol\. 2](https://open.spotify.com/album/14z4NIAzr09883HI24poVP) | 2:35 | 2022-04-15 | 2022-07-22 |
@@ -737,7 +739,7 @@
 | [Simple Solitude](https://open.spotify.com/track/6QRsJz7vfDqWmX2YT64yqn) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [Simple Solitude](https://open.spotify.com/album/7ji5s1oKZ0d1Vj8I9WJR5p) | 2:33 | 2023-09-22 |  |
 | [Since Day One](https://open.spotify.com/track/7p00qzU7Rg9dHYn1dJ9nAr) | [huglord](https://open.spotify.com/artist/3mVej1IqXt1AVFOmKKSj6i) | [Since Day One](https://open.spotify.com/album/1QONCSqPzW2G1jXI1eVqH6) | 2:30 | 2022-04-15 | 2022-06-03 |
 | [Sit Down Paddle](https://open.spotify.com/track/166r3eE8dhuEZJygvDjBbI) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Sit Down Paddle](https://open.spotify.com/album/1xVHBqls055uf97wWqtZE6) | 2:00 | 2024-03-08 |  |
-| [Skyline](https://open.spotify.com/track/0LprOZNXWLJdhVAkkykikL) | [Miss u Lots](https://open.spotify.com/artist/526OmKT6s2Lyjb2INyF047) | [Skyline](https://open.spotify.com/album/304DbtylJr8aVZPPNbMwvZ) | 2:15 | 2022-12-09 |  |
+| [Skyline](https://open.spotify.com/track/0LprOZNXWLJdhVAkkykikL) | [Miss u Lots](https://open.spotify.com/artist/526OmKT6s2Lyjb2INyF047) | [Skyline](https://open.spotify.com/album/304DbtylJr8aVZPPNbMwvZ) | 2:15 | 2022-12-09 | 2024-11-11 |
 | [Skyscraper](https://open.spotify.com/track/3AYHI7qsr1lVLGieNgCpkf) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [Skyscraper](https://open.spotify.com/album/46g8XVgUHxSjLWahjTDBHZ) | 1:47 | 2024-08-23 | 2024-10-20 |
 | [Slapperoni Pizza](https://open.spotify.com/track/6IGI55MLcRfsr9SwspazhZ) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Sisel](https://open.spotify.com/album/0j6HgcImiDOjaQeXK4utp7) | 2:11 | 2022-04-15 | 2022-05-20 |
 | [sleep tight](https://open.spotify.com/track/6K18f74xVdKOulHIO7iKqx) | [seeya](https://open.spotify.com/artist/4hAs0JKg5MGRdpdwzurMR9) | [sleep tight](https://open.spotify.com/album/6ZRMc50tIWcf7VWZlyKp9L) | 2:44 | 2024-10-16 |  |

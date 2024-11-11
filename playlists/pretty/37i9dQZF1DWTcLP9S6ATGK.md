@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Clara Riva
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,103 likes - 115 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,154 likes - 115 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

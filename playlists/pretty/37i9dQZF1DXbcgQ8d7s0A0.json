@@ -1,6 +1,6 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1311682,
+  "num_followers": 1311888,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
-        "name": "I'll Never Fall in Love Again",
-        "url": "https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 174840,
-      "name": "I'll Never Fall in Love Again",
-      "url": "https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
         "name": "Rapture",
         "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 266200,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
+        "name": "I'll Never Fall in Love Again",
+        "url": "https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 174840,
+      "name": "I'll Never Fall in Love Again",
+      "url": "https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY"
     },
     {
       "added_at": "2024-06-24 11:23:29",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 438706,
+      "name": "No Ordinary Love - Remastered",
+      "url": "https://open.spotify.com/track/1tV7RXsTGdwxAvEo8Rv9pp"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/5SEQL40XcXX1FUHtiqa8PG"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 249053,
       "name": "A Woman Needs Love (Just Like You Do)",
       "url": "https://open.spotify.com/track/0DEwNI2DgasX1eprqCivJk"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 438706,
-      "name": "No Ordinary Love - Remastered",
-      "url": "https://open.spotify.com/track/1tV7RXsTGdwxAvEo8Rv9pp"
     },
     {
       "added_at": "2024-06-24 11:23:29",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
+        "name": "Stone Hits: The Very Best Of Angie Stone",
+        "url": "https://open.spotify.com/album/3N8afNZRMDlSO5TrDZ08Nc"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 269266,
+      "name": "Wish I Didn't Miss You",
+      "url": "https://open.spotify.com/track/1euSJSk3dqCRmfdVwczmsR"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
         "name": "The Essentials: Ambrosia",
         "url": "https://open.spotify.com/album/1CB0IK8U51Tv4ynJYdKKXW"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 282373,
       "name": "How Much I Feel - Remastered Version",
       "url": "https://open.spotify.com/track/30OYvco4YZRz3wF2SP2VZC"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
-        "name": "Stone Hits: The Very Best Of Angie Stone",
-        "url": "https://open.spotify.com/album/3N8afNZRMDlSO5TrDZ08Nc"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 269266,
-      "name": "Wish I Didn't Miss You",
-      "url": "https://open.spotify.com/track/1euSJSk3dqCRmfdVwczmsR"
     },
     {
       "added_at": "2024-06-24 11:23:29",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-334 songs - 19 hr 36 min
+335 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Gladiator's Ballet](https://open.spotify.com/track/7FB7WYkUWB4RC4He3SL9CA) | [Androcles and the Lion Orchestra](https://open.spotify.com/artist/40n3uVTGFfGRl9wYqym5f9), [Jay Blackton](https://open.spotify.com/artist/4fY8KapL2wSI0Zu33g3hqp) | [Androcles and the Lion \(Original Television Cast\)](https://open.spotify.com/album/6h9yC6xpnpkHi0vzhUw6cA) | 3:07 | 2024-07-26 |  |
 | [Guadalcanal March](https://open.spotify.com/track/0GxEdP4hgo4C31cg5kGFMg) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [Victory At Sea](https://open.spotify.com/album/4SOKN30TAd2xSUdimFLDXd) | 3:07 | 2024-07-26 |  |
 | [Hallelujah, I'm a Bum](https://open.spotify.com/track/4aJKkm3GYi8rCYPbhV8r0b) | [Harry McClintock](https://open.spotify.com/artist/5ehQsvqbiNAVZADhzHy5JO) | [Haywire Mac](https://open.spotify.com/album/4lv5NIEdsrjgsbcPZWkfPh) | 2:57 | 2024-07-26 |  |
-| [Happy Christmas, Little Friend](https://open.spotify.com/track/7fRYEB7IgfumzJFt71vwtQ) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Silver Bells](https://open.spotify.com/album/3GNuflTwhDMSpeG2szp3XK) | 2:57 | 2024-07-26 |  |
+| [Happy Christmas, Little Friend](https://open.spotify.com/track/7fRYEB7IgfumzJFt71vwtQ) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Silver Bells](https://open.spotify.com/album/3GNuflTwhDMSpeG2szp3XK) | 2:57 | 2024-07-26 | 2024-11-11 |
+| [Happy Christmas, Little Friend \(with Paul Weston & His Orchestra\)](https://open.spotify.com/track/7z5uj8K6MpuK5992tf7tbk) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Sings Songs From White Christmas And Other Yuletide Favorites](https://open.spotify.com/album/1Tt0HLfCWLhBp5IX4rs4ZM) | 2:52 | 2024-11-10 |  |
 | [Happy Hunting Horn](https://open.spotify.com/track/1G2NHwFQrTuu67XnHduKXI) | [Original Broadway Cast of 'Pal Joey'](https://open.spotify.com/artist/11LEVxRCItwUu8jD6pprpR) | [Pal Joey \(1952 Broadway Cast\)](https://open.spotify.com/album/0ulhJMwIAu09ICF9ngP2O5) | 1:35 | 2024-07-26 |  |
 | [Happy Talk](https://open.spotify.com/track/7ahQIRq0EOeY9UYVvABDFp) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Sweet](https://open.spotify.com/artist/67nLnlcWUfGyc0hKgZQILs) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 2:25 | 2024-07-26 |  |
 | [Hard Work And Horseplay](https://open.spotify.com/track/1D8e5e9wZJEItxXceDYt1A) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [The Big Sound](https://open.spotify.com/artist/4OxWozZh2McvkVydbaUUd2) | [Victory At Sea](https://open.spotify.com/album/1urXRHujIAYuTn1QACNTRd) | 2:33 | 2024-07-26 |  |

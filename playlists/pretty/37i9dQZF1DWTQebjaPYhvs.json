@@ -1,13 +1,33 @@
 {
-  "description": "The official playlist for <a href=\"spotify:user:0ouhj3nctpqgo8bgamzte2o6o\">Paramount Network</a>'s Yellowstone.",
-  "num_followers": 534757,
+  "description": "Generations of blood have lead to this. Listen to the music from Yellowstone, airing Sundays on Paramount Network. ",
+  "num_followers": 535560,
   "original_name": "Yellowstone Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZylzFQAAAADmsNfzxbHPFBQ+exXub+wd",
+  "snapshot_id": "ZzFlIAAAAABdII6zYyjQII6iqdwUiD1v",
   "tracks": [
+    {
+      "added_at": "2024-11-11 02:00:00",
+      "album": {
+        "name": "Songs To Keep You Warm",
+        "url": "https://open.spotify.com/album/5Kh73PeLCIOd88y9ouZc08"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        },
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "How Long",
+      "url": "https://open.spotify.com/track/0yhgAscJ6u3SbjPAMBki89"
+    },
     {
       "added_at": "2019-06-27 02:01:00",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Myles Smith, Zach Bryan, BADBADBOTGOOD, KAROL G and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,146 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,149 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 66 | [Midnight Gasoline](https://open.spotify.com/track/23dNVoHy5anwKQxC8DQm34) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Midnight Gasoline](https://open.spotify.com/album/1HmFOh5zrgQLu6BcyIFlOD) | 3:45 |
 | 67 | [Knee Deep](https://open.spotify.com/track/6EOixekqItRVL0AUecN8Dj) | [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | [Knee Deep](https://open.spotify.com/album/1euDeXnlh66q395urLTg8e) | 3:16 |
 | 68 | [Better Off](https://open.spotify.com/track/3H4fIfIbtXv0DKCLgl5cgI) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Better Off](https://open.spotify.com/album/57fPsISPRRdVmc57pYWY96) | 2:52 |
-| 69 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX), [David Parry](https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD), [Dekel Adin](https://open.spotify.com/artist/27xyFvRoUUYKOPiY47BbZ9), [Ziv Yamin](https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 |
+| 69 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 |
 | 70 | [Sucker \(from the series Arcane League of Legends\)](https://open.spotify.com/track/540k1IRl5UPMhVhpu1LRQ3) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Sucker \(from the series Arcane League of Legends\)](https://open.spotify.com/album/7hQaRZQoy3R7ni0PzKajXT) | 3:44 |
 | 71 | [Thinkin' Bout Love](https://open.spotify.com/track/53M1YXcWQVLtEyCcaR5dkN) | [Harm & Ease](https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE) | [Thinkin' Bout Love](https://open.spotify.com/album/6jRK3mBWECxXDaXP2fgrS9) | 2:51 |
 | 72 | [HOODRAT](https://open.spotify.com/track/4XQxY73r8Mo65rDZI3htCJ) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [HOODRAT](https://open.spotify.com/album/4XWwHApX8SOxSPv59uAaTm) | 2:28 |

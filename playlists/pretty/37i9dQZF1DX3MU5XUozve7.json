@@ -1,6 +1,6 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 991214,
+  "num_followers": 991504,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 220480,
-      "name": "That's What You Get",
-      "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Danger Days: The True Lives of the Fabulous Killjoys",
         "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
       },
@@ -235,18 +219,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Lights And Sounds",
-        "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
       },
       "artists": [
         {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 208186,
-      "name": "Lights And Sounds",
-      "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
+      "duration_ms": 220480,
+      "name": "That's What You Get",
+      "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -263,6 +247,22 @@
       "duration_ms": 199944,
       "name": "Helena",
       "url": "https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Lights And Sounds",
+        "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 208186,
+      "name": "Lights And Sounds",
+      "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/6sYVlvyWjlwvVHKpvXxqdG"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "The Hell Song",
-      "url": "https://open.spotify.com/track/5jVKpqA8ARnVuMmt8yTyGi"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "The Best Of Goldfinger",
         "url": "https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 185600,
       "name": "Superman",
       "url": "https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/6sYVlvyWjlwvVHKpvXxqdG"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "The Hell Song",
+      "url": "https://open.spotify.com/track/5jVKpqA8ARnVuMmt8yTyGi"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "GI",
-        "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
-      },
-      "artists": [
-        {
-          "name": "Germs",
-          "url": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
-        }
-      ],
-      "duration_ms": 104360,
-      "name": "Lexicon Devil",
-      "url": "https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "We The Kings",
         "url": "https://open.spotify.com/album/2F1hfUOuMnOxtSfrktL8VX"
       },
@@ -687,6 +671,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "GI",
+        "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
+      },
+      "artists": [
+        {
+          "name": "Germs",
+          "url": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
+        }
+      ],
+      "duration_ms": 104360,
+      "name": "Lexicon Devil",
+      "url": "https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "Nervous Breakdown",
         "url": "https://open.spotify.com/album/4jBYjoYLD7GOHzVQ8olPlV"
       },
@@ -699,22 +699,6 @@
       "duration_ms": 129173,
       "name": "Nervous Breakdown",
       "url": "https://open.spotify.com/track/3NoOwvxhI2yMYknxqnFUVx"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "Proper Dose",
-        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 146622,
-      "name": "Keep This Up",
-      "url": "https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -767,6 +751,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "Proper Dose",
+        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 146622,
+      "name": "Keep This Up",
+      "url": "https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "What It Is To Burn",
         "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
       },
@@ -779,6 +779,22 @@
       "duration_ms": 269026,
       "name": "What It Is To Burn - New Version",
       "url": "https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Say It Out Loud",
+        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 158573,
+      "name": "On A Turntable",
+      "url": "https://open.spotify.com/track/5BdbpAak9RUhjwT8fwciZe"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -879,22 +895,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Say It Out Loud",
-        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 158573,
-      "name": "On A Turntable",
-      "url": "https://open.spotify.com/track/5BdbpAak9RUhjwT8fwciZe"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Skeletons",
         "url": "https://open.spotify.com/album/6uc6QxoKV2rtCssHIH4BQe"
       },
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Rented World",
-        "url": "https://open.spotify.com/album/49Q3EfStlDspsaOo8VAgtW"
-      },
-      "artists": [
-        {
-          "name": "The Menzingers",
-          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "I Don't Wanna Be An Asshole Anymore",
-      "url": "https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "So Long, Astoria",
         "url": "https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg"
       },
@@ -959,22 +943,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Hard Times And Nursery Rhymes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0HQyWxluYZTbQN22MAPNiK"
-      },
-      "artists": [
-        {
-          "name": "Social Distortion",
-          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
-        }
-      ],
-      "duration_ms": 213173,
-      "name": "Machine Gun Blues",
-      "url": "https://open.spotify.com/track/3d5Cnswx1dxmjUbn1Dp3JQ"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Face to Face (Remastered)",
         "url": "https://open.spotify.com/album/7KoYGyH8oK5m3hp5UhcBFY"
       },
@@ -987,6 +955,38 @@
       "duration_ms": 197786,
       "name": "I Won't Lie Down",
       "url": "https://open.spotify.com/track/5sEmIMKfc3Y75rDHc6dnOb"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Rented World",
+        "url": "https://open.spotify.com/album/49Q3EfStlDspsaOo8VAgtW"
+      },
+      "artists": [
+        {
+          "name": "The Menzingers",
+          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "I Don't Wanna Be An Asshole Anymore",
+      "url": "https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Hard Times And Nursery Rhymes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0HQyWxluYZTbQN22MAPNiK"
+      },
+      "artists": [
+        {
+          "name": "Social Distortion",
+          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
+        }
+      ],
+      "duration_ms": 213173,
+      "name": "Machine Gun Blues",
+      "url": "https://open.spotify.com/track/3d5Cnswx1dxmjUbn1Dp3JQ"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Face to Face (Remastered)",
-        "url": "https://open.spotify.com/album/7KoYGyH8oK5m3hp5UhcBFY"
-      },
-      "artists": [
-        {
-          "name": "Face To Face",
-          "url": "https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd"
-        }
-      ],
-      "duration_ms": 215413,
-      "name": "Walk the Walk",
-      "url": "https://open.spotify.com/track/4A2ACnyRUwxcfKiQypDwFy"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Take a Break",
         "url": "https://open.spotify.com/album/4cgMkeavjD3BGNfQBVwrU3"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "Face to Face (Remastered)",
+        "url": "https://open.spotify.com/album/7KoYGyH8oK5m3hp5UhcBFY"
+      },
+      "artists": [
+        {
+          "name": "Face To Face",
+          "url": "https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd"
+        }
+      ],
+      "duration_ms": 215413,
+      "name": "Walk the Walk",
+      "url": "https://open.spotify.com/track/4A2ACnyRUwxcfKiQypDwFy"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "The Bronx (I)",
         "url": "https://open.spotify.com/album/2lw3G0wkNGiKASHDAZp2s4"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 171093,
       "name": "Heart Attack American",
       "url": "https://open.spotify.com/track/0k483dcMGE6ylstRbUss1p"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "A Place Called Home",
-        "url": "https://open.spotify.com/album/5OgANHFRphRUPUHzMn49Wi"
-      },
-      "artists": [
-        {
-          "name": "Ignite",
-          "url": "https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "Veteran",
-      "url": "https://open.spotify.com/track/5H563lLtO41rxzmPxEgj1B"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "The Living End",
-        "url": "https://open.spotify.com/album/4NrwcdtcWnfQvMxqQwF8x7"
+        "name": "A Place Called Home",
+        "url": "https://open.spotify.com/album/5OgANHFRphRUPUHzMn49Wi"
       },
       "artists": [
         {
-          "name": "The Living End",
-          "url": "https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G"
+          "name": "Ignite",
+          "url": "https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr"
         }
       ],
-      "duration_ms": 229066,
-      "name": "Prisoner of Society",
-      "url": "https://open.spotify.com/track/2HY0xuuAqkGAlocHJ2Plu3"
+      "duration_ms": 165800,
+      "name": "Veteran",
+      "url": "https://open.spotify.com/track/5H563lLtO41rxzmPxEgj1B"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1195,6 +1179,38 @@
       "duration_ms": 178449,
       "name": "My Sanity",
       "url": "https://open.spotify.com/track/0KNKU0I1iNOydBWTjbfJVx"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Have a Ball",
+        "url": "https://open.spotify.com/album/6Reha7Crh0nd2Ap9XtYAwF"
+      },
+      "artists": [
+        {
+          "name": "Me First and the Gimme Gimmes",
+          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
+        }
+      ],
+      "duration_ms": 195226,
+      "name": "Rocket Man",
+      "url": "https://open.spotify.com/track/6hWO05CFzbcnOTMnTnfl5W"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "The Living End",
+        "url": "https://open.spotify.com/album/4NrwcdtcWnfQvMxqQwF8x7"
+      },
+      "artists": [
+        {
+          "name": "The Living End",
+          "url": "https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G"
+        }
+      ],
+      "duration_ms": 229066,
+      "name": "Prisoner of Society",
+      "url": "https://open.spotify.com/track/2HY0xuuAqkGAlocHJ2Plu3"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Have a Ball",
-        "url": "https://open.spotify.com/album/6Reha7Crh0nd2Ap9XtYAwF"
-      },
-      "artists": [
-        {
-          "name": "Me First and the Gimme Gimmes",
-          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
-        }
-      ],
-      "duration_ms": 195226,
-      "name": "Rocket Man",
-      "url": "https://open.spotify.com/track/6hWO05CFzbcnOTMnTnfl5W"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Exile in Oblivion",
         "url": "https://open.spotify.com/album/1o4qdotzTDa8OD9uyDe61j"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Father of All...",
-        "url": "https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 114331,
-      "name": "Sugar Youth",
-      "url": "https://open.spotify.com/track/62EiqO4OVS0v4H6Y3DtQ3e"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Street Dogs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MTaJz4tetHALsZ86ghDbC"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 154960,
       "name": "Punk Rock And Roll",
       "url": "https://open.spotify.com/track/2bwvIrD9qzR39vHHvYDasm"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Father of All...",
+        "url": "https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 114331,
+      "name": "Sugar Youth",
+      "url": "https://open.spotify.com/track/62EiqO4OVS0v4H6Y3DtQ3e"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Devil's Kind",
-        "url": "https://open.spotify.com/album/3z0DqLSBK7xU8SnSYpECps"
-      },
-      "artists": [
-        {
-          "name": "The Longshot",
-          "url": "https://open.spotify.com/artist/6MBlO0toUKQKFi5g0z4u3O"
-        }
-      ],
-      "duration_ms": 181224,
-      "name": "Devil's Kind",
-      "url": "https://open.spotify.com/track/1a6jJSAUgRwpUB7IrwxYOS"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Firme",
         "url": "https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 193146,
       "name": "Shoot the Moon",
       "url": "https://open.spotify.com/track/74Y2eYNC5SFEaekY8epIKR"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Devil's Kind",
+        "url": "https://open.spotify.com/album/3z0DqLSBK7xU8SnSYpECps"
+      },
+      "artists": [
+        {
+          "name": "The Longshot",
+          "url": "https://open.spotify.com/artist/6MBlO0toUKQKFi5g0z4u3O"
+        }
+      ],
+      "duration_ms": 181224,
+      "name": "Devil's Kind",
+      "url": "https://open.spotify.com/track/1a6jJSAUgRwpUB7IrwxYOS"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Death By Television",
-        "url": "https://open.spotify.com/album/2T1lerPY9FutFgOdbJpA5r"
-      },
-      "artists": [
-        {
-          "name": "The Lillingtons",
-          "url": "https://open.spotify.com/artist/3DRyYmaDKNmiTVzvMtAmhX"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Black Hole In My Mind",
-      "url": "https://open.spotify.com/track/1pxdFGV2kO8oBmM8vys3F4"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 199589,
       "name": "SOS",
       "url": "https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Death By Television",
+        "url": "https://open.spotify.com/album/2T1lerPY9FutFgOdbJpA5r"
+      },
+      "artists": [
+        {
+          "name": "The Lillingtons",
+          "url": "https://open.spotify.com/artist/3DRyYmaDKNmiTVzvMtAmhX"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Black Hole In My Mind",
+      "url": "https://open.spotify.com/track/1pxdFGV2kO8oBmM8vys3F4"
     },
     {
       "added_at": "2022-07-26 16:46:12",

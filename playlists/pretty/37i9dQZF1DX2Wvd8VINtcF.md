@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearls of an oyster\. Cover: Tyler, The Creator
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,827 likes - 110 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,878 likes - 110 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

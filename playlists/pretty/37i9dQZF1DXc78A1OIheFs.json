@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Fat Freddy's Drop",
-  "num_followers": 18592,
+  "num_followers": 18589,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD"
-      },
-      "artists": [
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 246720,
-      "name": "Nadja",
-      "url": "https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Eldest Daughter Of An Eldest Daughter",
         "url": "https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 266706,
       "name": "Faery King",
       "url": "https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 246720,
+      "name": "Nadja",
+      "url": "https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "distance",
-        "url": "https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI"
-      },
-      "artists": [
-        {
-          "name": "teo glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "distance",
-      "url": "https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "pinky girl",
         "url": "https://open.spotify.com/album/4Q0lBUApWnjRmkjN3yiKwR"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 234901,
       "name": "pinky girl",
       "url": "https://open.spotify.com/track/4ZvoE03wSTX4gSneaH1L2J"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "distance",
+        "url": "https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI"
+      },
+      "artists": [
+        {
+          "name": "teo glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -467,38 +467,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "thought of you",
-        "url": "https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab"
-      },
-      "artists": [
-        {
-          "name": "teo glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
-        }
-      ],
-      "duration_ms": 225295,
-      "name": "thought of you",
-      "url": "https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Follow (Edit)",
-        "url": "https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 157843,
-      "name": "Follow - Edit",
-      "url": "https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Slo Mo",
         "url": "https://open.spotify.com/album/6E7lYZDv7THQckJhCAdu2j"
       },
@@ -515,6 +483,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "thought of you",
+        "url": "https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab"
+      },
+      "artists": [
+        {
+          "name": "teo glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "duration_ms": 225295,
+      "name": "thought of you",
+      "url": "https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "pinky boy",
         "url": "https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 285153,
       "name": "pinky boy",
       "url": "https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Follow (Edit)",
+        "url": "https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 157843,
+      "name": "Follow - Edit",
+      "url": "https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -575,6 +575,26 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "Next Stop",
+        "url": "https://open.spotify.com/album/6i5wh97IMqnO8A3MIo1DA9"
+      },
+      "artists": [
+        {
+          "name": "Fat Freddy's Drop",
+          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
+        },
+        {
+          "name": "MC Slave",
+          "url": "https://open.spotify.com/artist/1C5mWM86XaAjaX5fiNm5O1"
+        }
+      ],
+      "duration_ms": 371200,
+      "name": "Next Stop",
+      "url": "https://open.spotify.com/track/1THi2wFMXol0p3lOpX9fZd"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "How Will I Know",
         "url": "https://open.spotify.com/album/2dIfFPrjC3D0DMr4KNfFc0"
       },
@@ -607,26 +627,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Next Stop",
-        "url": "https://open.spotify.com/album/6i5wh97IMqnO8A3MIo1DA9"
-      },
-      "artists": [
-        {
-          "name": "Fat Freddy's Drop",
-          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
-        },
-        {
-          "name": "MC Slave",
-          "url": "https://open.spotify.com/artist/1C5mWM86XaAjaX5fiNm5O1"
-        }
-      ],
-      "duration_ms": 371200,
-      "name": "Next Stop",
-      "url": "https://open.spotify.com/track/1THi2wFMXol0p3lOpX9fZd"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "AKL Girls",
         "url": "https://open.spotify.com/album/2TAiv9A69DgSKHCEUTat6l"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 259625,
       "name": "AKL Girls",
       "url": "https://open.spotify.com/track/3zXTz0y8aF3FM0xnoYNG5f"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Catacombs",
-        "url": "https://open.spotify.com/album/3lbE1QpGyzIBCzVBBQqp1H"
-      },
-      "artists": [
-        {
-          "name": "South Summit",
-          "url": "https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1"
-        }
-      ],
-      "duration_ms": 175494,
-      "name": "Catacombs",
-      "url": "https://open.spotify.com/track/5vdEQtEFRwVQhTX2HIVg5k"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -679,18 +663,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "A Thousand Years",
-        "url": "https://open.spotify.com/album/2HtUSVtR5RtYmFUrOEzVkv"
+        "name": "Catacombs",
+        "url": "https://open.spotify.com/album/3lbE1QpGyzIBCzVBBQqp1H"
       },
       "artists": [
         {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+          "name": "South Summit",
+          "url": "https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1"
         }
       ],
-      "duration_ms": 212843,
-      "name": "A Thousand Years",
-      "url": "https://open.spotify.com/track/3X12z8V9io3F2cptQZtLKK"
+      "duration_ms": 175494,
+      "name": "Catacombs",
+      "url": "https://open.spotify.com/track/5vdEQtEFRwVQhTX2HIVg5k"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -719,6 +703,22 @@
       "duration_ms": 175294,
       "name": "It's You - Remix",
       "url": "https://open.spotify.com/track/0zH0pGgXTM0pqiQXWOJ1sE"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "A Thousand Years",
+        "url": "https://open.spotify.com/album/2HtUSVtR5RtYmFUrOEzVkv"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 212843,
+      "name": "A Thousand Years",
+      "url": "https://open.spotify.com/track/3X12z8V9io3F2cptQZtLKK"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/4z6z440xRZYzZsQmmkMKWQ"
-      },
-      "artists": [
-        {
-          "name": "Jon Toogood",
-          "url": "https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8"
-        }
-      ],
-      "duration_ms": 214624,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/6gQmQi4GYJWN2Lxr4cArJ2"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "HIRL",
         "url": "https://open.spotify.com/album/2fTMxrci5X23QyqlObdNz2"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 164307,
       "name": "Country Plaines",
       "url": "https://open.spotify.com/track/6tRhpEikGam1EEI5RTObqQ"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/4z6z440xRZYzZsQmmkMKWQ"
+      },
+      "artists": [
+        {
+          "name": "Jon Toogood",
+          "url": "https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8"
+        }
+      ],
+      "duration_ms": 214624,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/6gQmQi4GYJWN2Lxr4cArJ2"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Run It Back",
-        "url": "https://open.spotify.com/album/58XdVll8nynryYv4602rua"
-      },
-      "artists": [
-        {
-          "name": "Home Brew",
-          "url": "https://open.spotify.com/artist/6pAk8OZVCX1nMiYgtAauSH"
-        }
-      ],
-      "duration_ms": 233413,
-      "name": "Drinking In The Morning",
-      "url": "https://open.spotify.com/track/0HicFSg1HAgkDPTUKFA9nu"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Bigger",
         "url": "https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 198071,
       "name": "Bigger",
       "url": "https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Run It Back",
+        "url": "https://open.spotify.com/album/58XdVll8nynryYv4602rua"
+      },
+      "artists": [
+        {
+          "name": "Home Brew",
+          "url": "https://open.spotify.com/artist/6pAk8OZVCX1nMiYgtAauSH"
+        }
+      ],
+      "duration_ms": 233413,
+      "name": "Drinking In The Morning",
+      "url": "https://open.spotify.com/track/0HicFSg1HAgkDPTUKFA9nu"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -975,26 +975,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "TREES: The Remix EP",
-        "url": "https://open.spotify.com/album/6pyl3320masvP5uc2SvXgK"
-      },
-      "artists": [
-        {
-          "name": "Avantdale Bowling Club",
-          "url": "https://open.spotify.com/artist/5Cs7q4jgkzn0pmj34qncqw"
-        },
-        {
-          "name": "DUSTY & GHOS",
-          "url": "https://open.spotify.com/artist/45QADodjk5TcKefkz4SEww"
-        }
-      ],
-      "duration_ms": 174799,
-      "name": "GOLDTOPS",
-      "url": "https://open.spotify.com/track/7mXUVbJYlfYg6frK2icDCD"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "It's You",
         "url": "https://open.spotify.com/album/72Lzi9kZu2JrXBSkvw367X"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 177989,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "TREES: The Remix EP",
+        "url": "https://open.spotify.com/album/6pyl3320masvP5uc2SvXgK"
+      },
+      "artists": [
+        {
+          "name": "Avantdale Bowling Club",
+          "url": "https://open.spotify.com/artist/5Cs7q4jgkzn0pmj34qncqw"
+        },
+        {
+          "name": "DUSTY & GHOS",
+          "url": "https://open.spotify.com/artist/45QADodjk5TcKefkz4SEww"
+        }
+      ],
+      "duration_ms": 174799,
+      "name": "GOLDTOPS",
+      "url": "https://open.spotify.com/track/7mXUVbJYlfYg6frK2icDCD"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1083,6 +1083,38 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 163648,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Boys & Guitars",
+        "url": "https://open.spotify.com/album/7z3zXiBIHkhGuEqvAi84vf"
+      },
+      "artists": [
+        {
+          "name": "Alisa Xayalith",
+          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
+        }
+      ],
+      "duration_ms": 235524,
+      "name": "Boys & Guitars",
+      "url": "https://open.spotify.com/track/6LSHzrVhxFtkPfiS6HMPiK"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "Light",
         "url": "https://open.spotify.com/album/5Vh9pZaNAC4mTCZwUKymlI"
       },
@@ -1115,38 +1147,6 @@
       "duration_ms": 178506,
       "name": "Stay Strong",
       "url": "https://open.spotify.com/track/68YEhbcx2OWqvCPZnQ6twD"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU"
-      },
-      "artists": [
-        {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 163648,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Boys & Guitars",
-        "url": "https://open.spotify.com/album/7z3zXiBIHkhGuEqvAi84vf"
-      },
-      "artists": [
-        {
-          "name": "Alisa Xayalith",
-          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
-        }
-      ],
-      "duration_ms": 235524,
-      "name": "Boys & Guitars",
-      "url": "https://open.spotify.com/track/6LSHzrVhxFtkPfiS6HMPiK"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Wobble Out (feat. Kings)",
-        "url": "https://open.spotify.com/album/4NSj7L3io09LE0klyVzzAS"
-      },
-      "artists": [
-        {
-          "name": "Penny Black",
-          "url": "https://open.spotify.com/artist/1cBG4EwfCyJnZCsKxvIZ4h"
-        },
-        {
-          "name": "Kings",
-          "url": "https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp"
-        }
-      ],
-      "duration_ms": 180978,
-      "name": "Wobble Out (feat. Kings)",
-      "url": "https://open.spotify.com/track/5KEBuUXw6U7NQOpdmDPphP"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Harmless",
         "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
       },
@@ -1239,18 +1219,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Driftwood",
-        "url": "https://open.spotify.com/album/3AelMW87ekVldc79T6ItmX"
+        "name": "Wobble Out (feat. Kings)",
+        "url": "https://open.spotify.com/album/4NSj7L3io09LE0klyVzzAS"
       },
       "artists": [
         {
-          "name": "Casual Healing",
-          "url": "https://open.spotify.com/artist/1NcvyN544YZpDO2ig9N0vi"
+          "name": "Penny Black",
+          "url": "https://open.spotify.com/artist/1cBG4EwfCyJnZCsKxvIZ4h"
+        },
+        {
+          "name": "Kings",
+          "url": "https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp"
         }
       ],
-      "duration_ms": 268123,
-      "name": "Driftwood",
-      "url": "https://open.spotify.com/track/6wRGndiL768o93yms0HdL8"
+      "duration_ms": 180978,
+      "name": "Wobble Out (feat. Kings)",
+      "url": "https://open.spotify.com/track/5KEBuUXw6U7NQOpdmDPphP"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "Driftwood",
+        "url": "https://open.spotify.com/album/3AelMW87ekVldc79T6ItmX"
+      },
+      "artists": [
+        {
+          "name": "Casual Healing",
+          "url": "https://open.spotify.com/artist/1NcvyN544YZpDO2ig9N0vi"
+        }
+      ],
+      "duration_ms": 268123,
+      "name": "Driftwood",
+      "url": "https://open.spotify.com/track/6wRGndiL768o93yms0HdL8"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "YOYOTTA",
         "url": "https://open.spotify.com/album/2UI9xc0QpD3SC2lQOLbaFp"
       },
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Baited",
-        "url": "https://open.spotify.com/album/2VfPY2Zw8zio3uhqhryA1s"
+        "name": "RNZ\u014c SZN",
+        "url": "https://open.spotify.com/album/588yZw8Jw8V6j50sXFXOpn"
       },
       "artists": [
         {
-          "name": "Coast Arcade",
-          "url": "https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC"
+          "name": "RNZ\u014c",
+          "url": "https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC"
         }
       ],
-      "duration_ms": 297583,
-      "name": "Baited",
-      "url": "https://open.spotify.com/track/4A8a7KKRvYvwFVPsbR1uFr"
+      "duration_ms": 166250,
+      "name": "RNZ\u014c SZN",
+      "url": "https://open.spotify.com/track/4Ztf04FJYPyvpEvnlFVMLd"
     }
   ],
   "unique_name": "The Local List Aotearoa",

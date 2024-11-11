@@ -4,7 +4,7 @@
 
 > brutality and technicality collide\. fresh metalcore awaits\. Cover: Kublai Khan TX
 
-1,052 songs - 2 day 17 hr 1 min
+1,053 songs - 2 day 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -788,6 +788,7 @@
 | [Sandman](https://open.spotify.com/track/5w0e7sRMMTKgJphpfr11oF) | [Resolve](https://open.spotify.com/artist/52tIYMYQgBbgOFIJHaOPxY) | [Sandman](https://open.spotify.com/album/0AQpexEpqOXWsGeKBmnb9F) | 3:42 | 2024-10-18 |  |
 | [Sapiens](https://open.spotify.com/track/5EgV8FKEaHyIItt0swNjhO) | [ASHEN](https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU) | [Sapiens](https://open.spotify.com/album/2DuGroRwamTPVVIWZxJNWz) | 3:43 | 2021-12-17 | 2022-02-18 |
 | [Satanic Panic](https://open.spotify.com/track/2VQGwuPW5yKa4CximuFlQh) | [Impending Doom](https://open.spotify.com/artist/0sxW2BJTemkPy8tDeO1s0t) | [Satanic Panic](https://open.spotify.com/album/23AQtVK3O0inRP1rBAuwcG) | 3:19 | 2022-07-13 | 2022-07-23 |
+| [Say It To My Face](https://open.spotify.com/track/6LJCYaK4xE3WAGjEs547Yr) | [If Not For Me](https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Say It To My Face](https://open.spotify.com/album/6k6blSkAQz9DlMfJzqsS6f) | 3:08 | 2024-11-08 |  |
 | [Sayonara](https://open.spotify.com/track/4b7XlNxARNw1DB8qmkCdLk) | [Enemy Inside](https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy) | [Sayonara](https://open.spotify.com/album/0M6v6jigZvNlLEEiqFxQpA) | 2:44 | 2024-08-30 | 2024-09-24 |
 | [Scars](https://open.spotify.com/track/2vBwejT7xi8pDeGYxmY8vi) | [Arrival Of Autumn](https://open.spotify.com/artist/6OLm78czd7Y80yrzwAb7FK) | [Scars](https://open.spotify.com/album/4JpyEPmtqUY38STlkVZrFM) | 3:31 | 2023-03-10 | 2023-05-06 |
 | [Scars On A Soul](https://open.spotify.com/track/7zuuCnA5KwE12ij3up8i4P) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I) | [Scars On A Soul](https://open.spotify.com/album/5DMaqfH3GHcqcxbeTQaYRH) | 2:48 | 2024-03-27 | 2024-06-11 |
@@ -842,7 +843,7 @@
 | [Spaceman \(feat\. FiNCH\)](https://open.spotify.com/track/6OXlb1FnbySxMPPhbwiXic) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Spaceman \(feat\. FiNCH\)](https://open.spotify.com/album/5bbrawfeXG2MHOYw0OSTyK) | 3:10 | 2022-04-08 | 2022-07-22 |
 | [Spare Me](https://open.spotify.com/track/04NfX1qK7HBIzejYQhj6qn) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Vol\. 3](https://open.spotify.com/album/0BWnYKF4PdH5ehk7oQU9W5) | 3:37 | 2024-11-08 |  |
 | [Spearmint Revolt](https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Spearmint Revolt](https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2) | 5:02 | 2022-07-08 | 2022-12-17 |
-| [Spitfire](https://open.spotify.com/track/5HX17BUpfp4hRR72K07vNp) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Disaster](https://open.spotify.com/album/0nnMK7iAg7Y3nVvw3i6Ayp) | 3:04 | 2024-09-20 |  |
+| [Spitfire](https://open.spotify.com/track/5HX17BUpfp4hRR72K07vNp) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Disaster](https://open.spotify.com/album/0nnMK7iAg7Y3nVvw3i6Ayp) | 3:04 | 2024-09-20 | 2024-11-11 |
 | [Stand Down](https://open.spotify.com/track/2tpiHcSSFCnpIH8HFzIUEa) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Shrine](https://open.spotify.com/album/6weRZNkcgMFxKcr98KC6Dg) | 4:06 | 2022-08-26 | 2023-01-06 |
 | [Stand Down](https://open.spotify.com/track/2ugULOhXNVpIvksyagm9Qr) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Stand Down](https://open.spotify.com/album/3YmIQSVKDgvDkDAdU03vEs) | 4:06 | 2022-04-15 | 2022-07-01 |
 | [Standing My Ground](https://open.spotify.com/track/2VysUNrUa2ADjbWFq9mXeM) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Standing My Ground](https://open.spotify.com/album/2hWAg8wRTOtHGvARnGPLcs) | 2:48 | 2022-01-14 | 2022-07-23 |

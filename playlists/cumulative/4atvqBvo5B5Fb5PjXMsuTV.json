@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Nov 17:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 11 Nov 23:02 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -6182,18 +6182,6 @@
         {
           "name": "Alice Phoebe Lou",
           "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        },
-        {
-          "name": "David Parry",
-          "url": "https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD"
-        },
-        {
-          "name": "Dekel Adin",
-          "url": "https://open.spotify.com/artist/27xyFvRoUUYKOPiY47BbZ9"
-        },
-        {
-          "name": "Ziv Yamin",
-          "url": "https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8"
         }
       ],
       "date_added": "2024-11-08",
@@ -8254,6 +8242,24 @@
       "duration_ms": 194652,
       "name": "Breadline",
       "url": "https://open.spotify.com/track/6MSuabY3lmqyNCUhcCgQ5n"
+    },
+    {
+      "album": {
+        "name": "BREAK IT DOWN",
+        "url": "https://open.spotify.com/album/3ogo234STX9mj4SLmOISAH"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244493,
+      "name": "BREAK IT DOWN",
+      "url": "https://open.spotify.com/track/73o6n0ZXWVYnBSzge6Ei0m"
     },
     {
       "album": {
@@ -47040,7 +47046,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 162019,
       "name": "Roll That Weed Up",
       "url": "https://open.spotify.com/track/6MXCDzuLxdhBRbiGWPXybX"
@@ -54376,6 +54382,24 @@
       "duration_ms": 167066,
       "name": "Take Me to the Beach (feat. Ernia)",
       "url": "https://open.spotify.com/track/6jzhZu5eDsQLd1PY59aoxH"
+    },
+    {
+      "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/3GkDWEJTQzXFIGfdrwJniI"
+      },
+      "artists": [
+        {
+          "name": "HalaCG",
+          "url": "https://open.spotify.com/artist/0Tbadays3Z2K3BxmvjL34J"
+        }
+      ],
+      "date_added": "2024-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196744,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/1CBYHEqFoAcQ8klxZPP4TG"
     },
     {
       "album": {
@@ -65056,7 +65080,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-11",
       "duration_ms": 161167,
       "name": "\u0421\u0432\u0430\u0440\u043e\u0432\u0441\u043a\u0438",
       "url": "https://open.spotify.com/track/0SXTxcx1SGoLM7gGS0FpPu"

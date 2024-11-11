@@ -1,6 +1,6 @@
 {
   "description": "O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batid\u00e3o",
-  "num_followers": 334990,
+  "num_followers": 335072,
   "original_name": "Melodys Marcantes",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Ai Ai Ai Mega Pr\u00edncipe",
-        "url": "https://open.spotify.com/album/2Xz4Xcm86sv57xDz8akLvj"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 183713,
-      "name": "Ai Ai Ai Mega Pr\u00edncipe",
-      "url": "https://open.spotify.com/track/5YDyubwvYmgXR0mWjL8dXF"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Olha Bem pra Mim",
         "url": "https://open.spotify.com/album/4Fy72e6MMBcGDIdE1wmI59"
       },
@@ -147,22 +131,18 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Quem Manda em Mim",
-        "url": "https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ"
+        "name": "Ai Ai Ai Mega Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/2Xz4Xcm86sv57xDz8akLvj"
       },
       "artists": [
-        {
-          "name": "Zaynara",
-          "url": "https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb"
-        },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Quem Manda em Mim",
-      "url": "https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE"
+      "duration_ms": 183713,
+      "name": "Ai Ai Ai Mega Pr\u00edncipe",
+      "url": "https://open.spotify.com/track/5YDyubwvYmgXR0mWjL8dXF"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -223,22 +203,38 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Ultima Vez",
-        "url": "https://open.spotify.com/album/3A14Wp6OjW4cB6Bdkc7ZGn"
+        "name": "Ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/6gUwNIHmAKlH5suKBnNpLD"
       },
       "artists": [
         {
-          "name": "Billy Brasil",
-          "url": "https://open.spotify.com/artist/5PXF4RydKIBSlMZC4JgShx"
-        },
-        {
-          "name": "Batid\u00e3o do Melody",
-          "url": "https://open.spotify.com/artist/1cxdUdATJCunpjaHM8e7d6"
+          "name": "Banda Calypso",
+          "url": "https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P"
         }
       ],
-      "duration_ms": 219753,
-      "name": "Ultima Vez",
-      "url": "https://open.spotify.com/track/40Frowu2ww9YAKKFLb7yS8"
+      "duration_ms": 189426,
+      "name": "Me Telefona",
+      "url": "https://open.spotify.com/track/5ixmhCly6NQggkyFsDpJ0E"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Quem Manda em Mim",
+        "url": "https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ"
+      },
+      "artists": [
+        {
+          "name": "Zaynara",
+          "url": "https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Quem Manda em Mim",
+      "url": "https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -259,18 +255,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/6gUwNIHmAKlH5suKBnNpLD"
+        "name": "Ultima Vez",
+        "url": "https://open.spotify.com/album/3A14Wp6OjW4cB6Bdkc7ZGn"
       },
       "artists": [
         {
-          "name": "Banda Calypso",
-          "url": "https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P"
+          "name": "Billy Brasil",
+          "url": "https://open.spotify.com/artist/5PXF4RydKIBSlMZC4JgShx"
+        },
+        {
+          "name": "Batid\u00e3o do Melody",
+          "url": "https://open.spotify.com/artist/1cxdUdATJCunpjaHM8e7d6"
         }
       ],
-      "duration_ms": 189426,
-      "name": "Me Telefona",
-      "url": "https://open.spotify.com/track/5ixmhCly6NQggkyFsDpJ0E"
+      "duration_ms": 219753,
+      "name": "Ultima Vez",
+      "url": "https://open.spotify.com/track/40Frowu2ww9YAKKFLb7yS8"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -287,6 +287,42 @@
       "duration_ms": 176552,
       "name": "Amor Da Minha Vida",
       "url": "https://open.spotify.com/track/7oq7Nl0N50DGxM3s4u3Thl"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Daqui pra Sempre",
+        "url": "https://open.spotify.com/album/4HNcDgIUD0m7sbaFf3NOBa"
+      },
+      "artists": [
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "duration_ms": 207161,
+      "name": "Abismo",
+      "url": "https://open.spotify.com/track/1rIjWQlGJXjDtOKl8CzToC"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "O Ritmo que Conquistou o Brasil",
+        "url": "https://open.spotify.com/album/0yjytTotHFUh68zECxBSIr"
+      },
+      "artists": [
+        {
+          "name": "Banda Calypso",
+          "url": "https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P"
+        }
+      ],
+      "duration_ms": 225893,
+      "name": "Pr\u00edncipe Encantado",
+      "url": "https://open.spotify.com/track/3xXCzYlV8U1Bin2tjVwGnX"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -339,42 +375,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "O Ritmo que Conquistou o Brasil",
-        "url": "https://open.spotify.com/album/0yjytTotHFUh68zECxBSIr"
-      },
-      "artists": [
-        {
-          "name": "Banda Calypso",
-          "url": "https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P"
-        }
-      ],
-      "duration_ms": 225893,
-      "name": "Pr\u00edncipe Encantado",
-      "url": "https://open.spotify.com/track/3xXCzYlV8U1Bin2tjVwGnX"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "Daqui pra Sempre",
-        "url": "https://open.spotify.com/album/4HNcDgIUD0m7sbaFf3NOBa"
-      },
-      "artists": [
-        {
-          "name": "Manu",
-          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
-        },
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        }
-      ],
-      "duration_ms": 207161,
-      "name": "Abismo",
-      "url": "https://open.spotify.com/track/1rIjWQlGJXjDtOKl8CzToC"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Sofro com a saudade",
         "url": "https://open.spotify.com/album/4zGwZeixvvM7pL5QkuRr10"
       },
@@ -387,54 +387,6 @@
       "duration_ms": 193194,
       "name": "Sofro com a saudade",
       "url": "https://open.spotify.com/track/1QueFPbtVKTnwdfci7mmSC"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "Sucessos",
-        "url": "https://open.spotify.com/album/6UqGyxulGDAtJGQiy5gRP8"
-      },
-      "artists": [
-        {
-          "name": "Viviane Batid\u00e3o",
-          "url": "https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj"
-        }
-      ],
-      "duration_ms": 160983,
-      "name": "Eu Vou Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/2tZbOtxqeOpxamAlDPDZTs"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "Envolvendo Voc\u00ea!",
-        "url": "https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD"
-      },
-      "artists": [
-        {
-          "name": "Banda Ravelly",
-          "url": "https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "Meteoro",
-      "url": "https://open.spotify.com/track/1SxROnJLFCeXgP56ZwPU9D"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "Isso \u00c9 Calypso na Amaz\u00f4nia - Bloco 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/07DKQEQmK2bV9AoZrhDivn"
-      },
-      "artists": [
-        {
-          "name": "Joelma",
-          "url": "https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM"
-        }
-      ],
-      "duration_ms": 259129,
-      "name": "Pra Te Esquecer - Ao Vivo",
-      "url": "https://open.spotify.com/track/0YcOV4SbJCSO5xJpVsIw18"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -503,38 +455,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Envolvendo Voc\u00ea!",
-        "url": "https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD"
-      },
-      "artists": [
-        {
-          "name": "Banda Ravelly",
-          "url": "https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW"
-        }
-      ],
-      "duration_ms": 253186,
-      "name": "Ultra Som",
-      "url": "https://open.spotify.com/track/16pJs5VpOZfmBtxmIPT908"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "Marcantes",
-        "url": "https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX"
-      },
-      "artists": [
-        {
-          "name": "Viviane Batid\u00e3o",
-          "url": "https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj"
-        }
-      ],
-      "duration_ms": 296520,
-      "name": "Eu Te Venero",
-      "url": "https://open.spotify.com/track/2xPYB3pXXhW4dLY58esXJh"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Ai Amor",
         "url": "https://open.spotify.com/album/7GqpB21EqkfOs3WJYufal4"
       },
@@ -555,6 +475,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "Sucessos",
+        "url": "https://open.spotify.com/album/6UqGyxulGDAtJGQiy5gRP8"
+      },
+      "artists": [
+        {
+          "name": "Viviane Batid\u00e3o",
+          "url": "https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj"
+        }
+      ],
+      "duration_ms": 160983,
+      "name": "Eu Vou Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/2tZbOtxqeOpxamAlDPDZTs"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "Imagem do Prazer",
         "url": "https://open.spotify.com/album/40dHfK5l6u8abVgWN00Lks"
       },
@@ -571,8 +507,8 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Dan\u00e7ando e Beijando",
-        "url": "https://open.spotify.com/album/6KPBm9CwV3uHFFvdflir7l"
+        "name": "Isso \u00c9 Calypso na Amaz\u00f4nia - Bloco 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/07DKQEQmK2bV9AoZrhDivn"
       },
       "artists": [
         {
@@ -580,41 +516,25 @@
           "url": "https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM"
         }
       ],
-      "duration_ms": 166038,
-      "name": "Dan\u00e7ando e Beijando",
-      "url": "https://open.spotify.com/track/07NOfxIl2JR9qxg8Zpe6iH"
+      "duration_ms": 259129,
+      "name": "Pra Te Esquecer - Ao Vivo",
+      "url": "https://open.spotify.com/track/0YcOV4SbJCSO5xJpVsIw18"
     },
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Ao Vivo na Amaz\u00f4nia",
-        "url": "https://open.spotify.com/album/0NsBhK5b0iHGZFOMirfnla"
+        "name": "Envolvendo Voc\u00ea!",
+        "url": "https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD"
       },
       "artists": [
         {
-          "name": "Banda Calypso",
-          "url": "https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P"
+          "name": "Banda Ravelly",
+          "url": "https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW"
         }
       ],
-      "duration_ms": 212200,
-      "name": "Tic Tac",
-      "url": "https://open.spotify.com/track/5LPazgtTZDkx73NjcMnZgx"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "Banda Xeiro de Mel (Tecnobrega - O Ritmo Que Conquistou o Brasil)",
-        "url": "https://open.spotify.com/album/1Ll5NXrV9VDwaAw80KSl2N"
-      },
-      "artists": [
-        {
-          "name": "Banda Xeiro De Mel",
-          "url": "https://open.spotify.com/artist/15fVYlG29onbGj5w3QhtKy"
-        }
-      ],
-      "duration_ms": 215306,
-      "name": "Ela T\u00e1 Beba Doida",
-      "url": "https://open.spotify.com/track/2BybrcWAgQO8ZHtaIlkzOM"
+      "duration_ms": 216533,
+      "name": "Meteoro",
+      "url": "https://open.spotify.com/track/1SxROnJLFCeXgP56ZwPU9D"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -635,6 +555,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "Banda Xeiro de Mel (Tecnobrega - O Ritmo Que Conquistou o Brasil)",
+        "url": "https://open.spotify.com/album/1Ll5NXrV9VDwaAw80KSl2N"
+      },
+      "artists": [
+        {
+          "name": "Banda Xeiro De Mel",
+          "url": "https://open.spotify.com/artist/15fVYlG29onbGj5w3QhtKy"
+        }
+      ],
+      "duration_ms": 215306,
+      "name": "Ela T\u00e1 Beba Doida",
+      "url": "https://open.spotify.com/track/2BybrcWAgQO8ZHtaIlkzOM"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "Agora Somos Ex",
         "url": "https://open.spotify.com/album/4m1SAIKfDy3s63InxRzLPX"
       },
@@ -647,6 +583,38 @@
       "duration_ms": 220995,
       "name": "Agora Somos Ex",
       "url": "https://open.spotify.com/track/3XL2i8IhA4YJaOZ4gASuEx"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Ao Vivo na Amaz\u00f4nia",
+        "url": "https://open.spotify.com/album/0NsBhK5b0iHGZFOMirfnla"
+      },
+      "artists": [
+        {
+          "name": "Banda Calypso",
+          "url": "https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "Tic Tac",
+      "url": "https://open.spotify.com/track/5LPazgtTZDkx73NjcMnZgx"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Marcantes",
+        "url": "https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX"
+      },
+      "artists": [
+        {
+          "name": "Viviane Batid\u00e3o",
+          "url": "https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj"
+        }
+      ],
+      "duration_ms": 296520,
+      "name": "Eu Te Venero",
+      "url": "https://open.spotify.com/track/2xPYB3pXXhW4dLY58esXJh"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -683,6 +651,38 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "Dan\u00e7ando e Beijando",
+        "url": "https://open.spotify.com/album/6KPBm9CwV3uHFFvdflir7l"
+      },
+      "artists": [
+        {
+          "name": "Joelma",
+          "url": "https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM"
+        }
+      ],
+      "duration_ms": 166038,
+      "name": "Dan\u00e7ando e Beijando",
+      "url": "https://open.spotify.com/track/07NOfxIl2JR9qxg8Zpe6iH"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Envolvendo Voc\u00ea!",
+        "url": "https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD"
+      },
+      "artists": [
+        {
+          "name": "Banda Ravelly",
+          "url": "https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW"
+        }
+      ],
+      "duration_ms": 253186,
+      "name": "Ultra Som",
+      "url": "https://open.spotify.com/track/16pJs5VpOZfmBtxmIPT908"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "Super pop (De Mansinho)",
         "url": "https://open.spotify.com/album/5eF7jaskbpWMx7BZx1n4q2"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 176976,
       "name": "Super pop (De Mansinho)",
       "url": "https://open.spotify.com/track/4cwA08to8VgSMtEiQsdN7w"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "TecnoShow",
+        "url": "https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua"
+      },
+      "artists": [
+        {
+          "name": "Gaby Amarantos",
+          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+        }
+      ],
+      "duration_ms": 189708,
+      "name": "Amor Calado",
+      "url": "https://open.spotify.com/track/5iX1WxxENyGYoeKLcATYHf"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -747,22 +763,6 @@
       "duration_ms": 152904,
       "name": "Falando Com a Lua",
       "url": "https://open.spotify.com/track/3yR9ZKxtkL9Ktx16syW0lr"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "TecnoShow",
-        "url": "https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua"
-      },
-      "artists": [
-        {
-          "name": "Gaby Amarantos",
-          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
-        }
-      ],
-      "duration_ms": 189708,
-      "name": "Amor Calado",
-      "url": "https://open.spotify.com/track/5iX1WxxENyGYoeKLcATYHf"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -831,26 +831,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Paix\u00e3o no Lend\u00e1rio Rubi",
-        "url": "https://open.spotify.com/album/3TCx83Wfw1XcrqyCx7x2s3"
-      },
-      "artists": [
-        {
-          "name": "Fruto Sensual",
-          "url": "https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq"
-        },
-        {
-          "name": "Val\u00e9ria Paiva",
-          "url": "https://open.spotify.com/artist/2j2TgiOSC2bsZlRiN5MFaS"
-        }
-      ],
-      "duration_ms": 263288,
-      "name": "Paix\u00e3o no Lend\u00e1rio Rubi",
-      "url": "https://open.spotify.com/track/0XW5DXXvsCSUaD3IpSnKq6"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Uma Pancada de Sucesso",
         "url": "https://open.spotify.com/album/1HGd4P6mSGbz3IdYZRUdT2"
       },
@@ -863,22 +843,6 @@
       "duration_ms": 206868,
       "name": "Nem Vem Dizer",
       "url": "https://open.spotify.com/track/4ayKSLcVBWcGCgV03bDZDj"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "B\u00fafalo do Maraj\u00f3",
-        "url": "https://open.spotify.com/album/26D2eYA5rlAbhWyuGyfWiv"
-      },
-      "artists": [
-        {
-          "name": "Banda 007 Oficial",
-          "url": "https://open.spotify.com/artist/5ZdRKRLaP4OvypaRak6Rr9"
-        }
-      ],
-      "duration_ms": 171047,
-      "name": "B\u00fafalo do Maraj\u00f3",
-      "url": "https://open.spotify.com/track/6FWyRWvXJ2srLSHOvWf4UU"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -899,6 +863,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "B\u00fafalo do Maraj\u00f3",
+        "url": "https://open.spotify.com/album/26D2eYA5rlAbhWyuGyfWiv"
+      },
+      "artists": [
+        {
+          "name": "Banda 007 Oficial",
+          "url": "https://open.spotify.com/artist/5ZdRKRLaP4OvypaRak6Rr9"
+        }
+      ],
+      "duration_ms": 171047,
+      "name": "B\u00fafalo do Maraj\u00f3",
+      "url": "https://open.spotify.com/track/6FWyRWvXJ2srLSHOvWf4UU"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "Vol. 2",
         "url": "https://open.spotify.com/album/59VmiLW7m9sREMf03pCbCi"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 215379,
       "name": "Louca Paix\u00e3o",
       "url": "https://open.spotify.com/track/7Am0BZQdRi7xAZC0LcLb6y"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Paix\u00e3o no Lend\u00e1rio Rubi",
+        "url": "https://open.spotify.com/album/3TCx83Wfw1XcrqyCx7x2s3"
+      },
+      "artists": [
+        {
+          "name": "Fruto Sensual",
+          "url": "https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq"
+        },
+        {
+          "name": "Val\u00e9ria Paiva",
+          "url": "https://open.spotify.com/artist/2j2TgiOSC2bsZlRiN5MFaS"
+        }
+      ],
+      "duration_ms": 263288,
+      "name": "Paix\u00e3o no Lend\u00e1rio Rubi",
+      "url": "https://open.spotify.com/track/0XW5DXXvsCSUaD3IpSnKq6"
     },
     {
       "added_at": "2024-10-25 03:00:00",

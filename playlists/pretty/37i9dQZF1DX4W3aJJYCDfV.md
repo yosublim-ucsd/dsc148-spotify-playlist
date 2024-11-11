@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Myles Smith \(pictured\), Griff, Zach Bryan and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,602 likes - 107 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,618 likes - 107 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 27 | [in for the kill](https://open.spotify.com/track/3aTPG3soNZ7UImihfDABXx) | [Kayla Grace](https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T) | [in for the kill](https://open.spotify.com/album/2nVnNDYvKM2VbiorqJRw18) | 3:18 |
 | 28 | [Renegade](https://open.spotify.com/track/6XMHSmYxPPSu5dEIYT2iiB) | [Doves](https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY) | [Renegade](https://open.spotify.com/album/0lzllJKffqeHBrlhg79BMw) | 5:11 |
 | 29 | [Bang Bang \(feat\. Stylo G, Riko Dan & Frisco\)](https://open.spotify.com/track/3jzfiKtkueyzmvWVelVwtk) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Bang Bang \(feat\. Stylo G, Riko Dan & Frisco\)](https://open.spotify.com/album/4US7XENYjIouFj9wniTQR5) | 2:49 |
-| 30 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX), [David Parry](https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD), [Dekel Adin](https://open.spotify.com/artist/27xyFvRoUUYKOPiY47BbZ9), [Ziv Yamin](https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 |
+| 30 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 |
 | 31 | [Where's The Daddy?](https://open.spotify.com/track/6qhCrOuJSKn2yqXuRyPIPL) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Where's The Daddy?](https://open.spotify.com/album/2m4Dup07tsQ28K3qWylAw0) | 2:52 |
 | 32 | [Dece \(Heavy\)](https://open.spotify.com/track/0hYbXX6Tjgtj1MdNtEYyRI) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Dece \(Heavy\) \- A COLORS SHOW](https://open.spotify.com/album/5gYRkmhO4fIdhJw8TQbka1) | 2:33 |
 | 33 | [Piece Of Cake](https://open.spotify.com/track/2bV5gCcpUl5HkRaQOz6pik) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [I Blow Out Big Candles](https://open.spotify.com/album/2KGxa1nak2X1o3l5bqYmCA) | 3:16 |

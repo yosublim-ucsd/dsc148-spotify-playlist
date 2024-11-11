@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og masse ny musikk! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,814 likes - 115 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,826 likes - 115 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 85 | [Space Rock](https://open.spotify.com/track/443F4cnUSVofidUpAIXEuy) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Space Rock](https://open.spotify.com/album/00SM0CTiz1f6CEnrcy9WF0) | 1:58 |
 | 86 | [Wet & Wild](https://open.spotify.com/track/7bumwccn1j5e52UmdYZ7fG) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Wet & Wild](https://open.spotify.com/album/5ZPDn7ez0CHHEQGaqQFDuH) | 3:02 |
 | 87 | [kjære Gro \(wisemen 2026\)](https://open.spotify.com/track/18hNjWOB5DWXNhGvW3S6lS) | [AK97](https://open.spotify.com/artist/4AGZyIuz69HKm4uBQHPbE1), [Hil](https://open.spotify.com/artist/44x3S4tAAhwa6wuk89Udy8) | [kjære Gro \(wisemen 2026\)](https://open.spotify.com/album/0aGSXsvSFWIAlksuX0qXm8) | 2:38 |
-| 88 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX), [David Parry](https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD), [Dekel Adin](https://open.spotify.com/artist/27xyFvRoUUYKOPiY47BbZ9), [Ziv Yamin](https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 |
+| 88 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 |
 | 89 | [HOWLING](https://open.spotify.com/track/2uaZaTMbYE5KAk8gbdzBgW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 3:08 |
 | 90 | [Everybody Complains](https://open.spotify.com/track/5KwyVk44P2DM22NjYFrrSs) | [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv), [Tore P](https://open.spotify.com/artist/5obnn8LuvmfBLHmc24ZolQ) | [Everybody Complains](https://open.spotify.com/album/6HE5IqzcQ8VCq6ms8J4igW) | 2:11 |
 | 91 | [Hånd i hanske](https://open.spotify.com/track/3ooNzmfrSZcdMu1m7wLuOC) | [Rasmus Thall](https://open.spotify.com/artist/2Brc3k9Io6Cb1gUMUocN31) | [Hånd i hanske](https://open.spotify.com/album/6OP57UXqph6nsIkGcakgc6) | 3:47 |

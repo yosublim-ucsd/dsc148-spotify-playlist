@@ -839,6 +839,26 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
+        "name": "Do It For You",
+        "url": "https://open.spotify.com/album/7pX0QNJsro8DaVrCBjVQHq"
+      },
+      "artists": [
+        {
+          "name": "Moses Ideka",
+          "url": "https://open.spotify.com/artist/3wXkwKekKUy1Hfi60sxB8s"
+        },
+        {
+          "name": "phil",
+          "url": "https://open.spotify.com/artist/7kPw0lfDERbzcrpz39TAMY"
+        }
+      ],
+      "duration_ms": 214046,
+      "name": "Do It For You",
+      "url": "https://open.spotify.com/track/4ZxdIXCycwS16uEaO4Mlby"
+    },
+    {
+      "added_at": "2024-11-01 00:01:00",
+      "album": {
         "name": "Opals [Strings]",
         "url": "https://open.spotify.com/album/0rQAG1x8En0pK6ibB57C5h"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 222653,
       "name": "Fractal",
       "url": "https://open.spotify.com/track/6X8rafA2jNs00EYtlao12t"
-    },
-    {
-      "added_at": "2024-11-01 00:01:00",
-      "album": {
-        "name": "Do It For You",
-        "url": "https://open.spotify.com/album/7pX0QNJsro8DaVrCBjVQHq"
-      },
-      "artists": [
-        {
-          "name": "Moses Ideka",
-          "url": "https://open.spotify.com/artist/3wXkwKekKUy1Hfi60sxB8s"
-        },
-        {
-          "name": "phil",
-          "url": "https://open.spotify.com/artist/7kPw0lfDERbzcrpz39TAMY"
-        }
-      ],
-      "duration_ms": 214046,
-      "name": "Do It For You",
-      "url": "https://open.spotify.com/track/4ZxdIXCycwS16uEaO4Mlby"
     },
     {
       "added_at": "2024-11-01 00:01:00",

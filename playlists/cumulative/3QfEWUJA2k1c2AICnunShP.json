@@ -2866,12 +2866,12 @@
       },
       "artists": [
         {
-          "name": "HAUSER",
-          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
-        },
-        {
           "name": "Andrea Morricone",
           "url": "https://open.spotify.com/artist/6ClJFNWZvfAc1jD6fB37B3"
+        },
+        {
+          "name": "HAUSER",
+          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
         }
       ],
       "date_added": "2022-10-15",

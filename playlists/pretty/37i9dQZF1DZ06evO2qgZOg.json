@@ -1,12 +1,12 @@
 {
   "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 288853,
+  "num_followers": 288900,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy1UgAAAAAApzjpmGKcIwPC7FDCRPfAo",
+  "snapshot_id": "Zy6mAAAAAAB8kQDaMFMbkeGuHlvAvJIX",
   "tracks": [
     {
       "added_at": null,
@@ -611,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unleashed Beyond (Special Edition)",
-        "url": "https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37"
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq"
       },
       "artists": [
         {
           "name": "Skillet",
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        },
-        {
-          "name": "Lacey Sturm",
-          "url": "https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap"
         }
       ],
-      "duration_ms": 232813,
-      "name": "Breaking Free (feat. Lacey Sturm)",
-      "url": "https://open.spotify.com/track/3sT99jz232QWq5Q2LEaFJ5"
+      "duration_ms": 217256,
+      "name": "Death Defier",
+      "url": "https://open.spotify.com/track/1okWxCvZDqzm8Jji6LLi6w"
     },
     {
       "added_at": null,
@@ -647,38 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 217256,
-      "name": "Death Defier",
-      "url": "https://open.spotify.com/track/1okWxCvZDqzm8Jji6LLi6w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rise (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 271933,
-      "name": "Circus for a Psycho",
-      "url": "https://open.spotify.com/track/3AhEF2J0fy33PdGYEkzqm2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unleashed Beyond (Special Edition)",
         "url": "https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37"
       },
@@ -686,27 +650,15 @@
         {
           "name": "Skillet",
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 229200,
-      "name": "Set It Off",
-      "url": "https://open.spotify.com/track/6TwT18qPHvu1T3p91MtgyN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
-      },
-      "artists": [
+        },
         {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+          "name": "Lacey Sturm",
+          "url": "https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap"
         }
       ],
-      "duration_ms": 204786,
-      "name": "It's Not Me, It's You",
-      "url": "https://open.spotify.com/track/1swaR8iEKe5qyCoyCWjyvP"
+      "duration_ms": 232813,
+      "name": "Breaking Free (feat. Lacey Sturm)",
+      "url": "https://open.spotify.com/track/3sT99jz232QWq5Q2LEaFJ5"
     },
     {
       "added_at": null,
@@ -727,6 +679,54 @@
       "duration_ms": 198750,
       "name": "Wolf (feat. John Cooper of Skillet)",
       "url": "https://open.spotify.com/track/2TotmUJiZqzDh7OMjD7zGr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rise (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 271933,
+      "name": "Circus for a Psycho",
+      "url": "https://open.spotify.com/track/3AhEF2J0fy33PdGYEkzqm2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 204786,
+      "name": "It's Not Me, It's You",
+      "url": "https://open.spotify.com/track/1swaR8iEKe5qyCoyCWjyvP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unleashed Beyond (Special Edition)",
+        "url": "https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 229200,
+      "name": "Set It Off",
+      "url": "https://open.spotify.com/track/6TwT18qPHvu1T3p91MtgyN"
     },
     {
       "added_at": null,

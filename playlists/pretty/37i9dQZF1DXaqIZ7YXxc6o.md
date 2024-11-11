@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 ### [New Dance Beats](https://open.spotify.com/playlist/37i9dQZF1DXaqIZ7YXxc6o)
 
-> Your weekly dose of new dance\. Cover: BL3SS
+> Your weekly dose of new dance\. Cover: BL3SS & CamrinWatsin
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,971 likes - 99 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,973 likes - 99 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 98 | [Everything in Between](https://open.spotify.com/track/5OSzXRTx1msElW0VGB1Dwl) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Yours Truly](https://open.spotify.com/album/7mSbYxV6M20yajCMWMthnP) | 4:49 |
 | 99 | [I Think I Need A DJ](https://open.spotify.com/track/2lKOI1nwP5qZtZC7TGQVY8) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [Crybaby](https://open.spotify.com/artist/68sTQgQtPe9e4Bb7OtoqET), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [I Think I Need A DJ](https://open.spotify.com/album/1ElP3WFqq5sgMcc3ScIR4l) | 2:35 |
 
-Snapshot ID: `Zyy6DAAAAAAsgmei3z7N+lRWuv78ieKX`
+Snapshot ID: `ZzFlPgAAAAC5BKvrDfxhumDOroDENNbf`

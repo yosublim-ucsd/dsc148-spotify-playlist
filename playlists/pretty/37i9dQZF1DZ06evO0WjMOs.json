@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 34221,
+  "num_followers": 34249,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy1UgAAAAABKoiRbv43Xxbri1akdSekx",
+  "snapshot_id": "Zy6mAAAAAADYRk/R83pSolgQ5U/+qfys",
   "tracks": [
     {
       "added_at": null,
@@ -611,22 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hope (Acoustic)",
-        "url": "https://open.spotify.com/album/5OWWNrqbvgrWqsRsdjC5IC"
+        "name": "Weird Faith (Deluxe)",
+        "url": "https://open.spotify.com/album/7tLh0C7KXRxfS3z38zLBIa"
       },
       "artists": [
         {
-          "name": "Tom Rosenthal",
-          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
         },
         {
           "name": "Lizzy McAlpine",
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 223933,
-      "name": "Hope - Acoustic",
-      "url": "https://open.spotify.com/track/5TwOrHpV01ymb1vMFVRZJl"
+      "duration_ms": 247000,
+      "name": "For Months Now (III)",
+      "url": "https://open.spotify.com/track/2Ux1CJbtrJoAEf5YswahfX"
     },
     {
       "added_at": null,
@@ -647,22 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weird Faith (Deluxe)",
-        "url": "https://open.spotify.com/album/7tLh0C7KXRxfS3z38zLBIa"
+        "name": "Hope (Acoustic)",
+        "url": "https://open.spotify.com/album/5OWWNrqbvgrWqsRsdjC5IC"
       },
       "artists": [
         {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
         },
         {
           "name": "Lizzy McAlpine",
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 247000,
-      "name": "For Months Now (III)",
-      "url": "https://open.spotify.com/track/2Ux1CJbtrJoAEf5YswahfX"
+      "duration_ms": 223933,
+      "name": "Hope - Acoustic",
+      "url": "https://open.spotify.com/track/5TwOrHpV01ymb1vMFVRZJl"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Halle Kearns
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,593 likes - 215 songs - 11 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,678 likes - 215 songs - 11 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

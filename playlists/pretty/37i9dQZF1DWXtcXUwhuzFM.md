@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Sara Siipola.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,813 likes - 108 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,822 likes - 108 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 55 | [We'll be okay](https://open.spotify.com/track/3wtLD1XmjyL2B71Z6gNfNe) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [We'll be okay](https://open.spotify.com/album/7lgKqthMHCIUlOOiR6Ykib) | 2:54 |
 | 56 | [Closer](https://open.spotify.com/track/0SxezbjTyUy36kpG3ksqOx) | [s m s n](https://open.spotify.com/artist/7fU0fsPj1ovHWHWghGl65T), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [Closer](https://open.spotify.com/album/311fuHpde7BKSu3wbCW3XI) | 2:53 |
 | 57 | [Free](https://open.spotify.com/track/4gET5j4RDcUzhoNS49VNci) | [Joel Miles](https://open.spotify.com/artist/6rdwSiFsCT89qffpb3Q4hR) | [Free](https://open.spotify.com/album/3xAip5AMj4gf5BlzwSV18e) | 2:56 |
-| 58 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX), [David Parry](https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD), [Dekel Adin](https://open.spotify.com/artist/27xyFvRoUUYKOPiY47BbZ9), [Ziv Yamin](https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 |
+| 58 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 |
 | 59 | [En pelkää \(Vain elämää kausi 15\)](https://open.spotify.com/track/3Nn17pKvzr1PF2DjdF0ste) | [Jussi Rainio](https://open.spotify.com/artist/3rOa6CkFm3mFJLGxvl9uDD), [Neon 2](https://open.spotify.com/artist/2hKALVwoWfBVYA8bcRBpcN) | [En pelkää \(Vain elämää kausi 15\)](https://open.spotify.com/album/4nwFw995x219XteOr9yIFj) | 3:13 |
 | 60 | [Jäähyväiset](https://open.spotify.com/track/39tre1aDJdfHPVWmhqDut0) | [Dial Mo'](https://open.spotify.com/artist/6l3urruR6ae3CViCTE0c3w) | [Jäähyväiset](https://open.spotify.com/album/4ivytVXJYkVDJ8u5rx0L0m) | 2:40 |
 | 61 | [9 Lives](https://open.spotify.com/track/66tq3X5MuLhQienSSv6qQ3) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Season One \(Extended\)](https://open.spotify.com/album/6AaU5XwlKXPVr46pPnX1WT) | 2:25 |

@@ -1,6 +1,6 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 90468,
+  "num_followers": 90528,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,26 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
+        "name": "Aunque Me Cueste la Vida",
+        "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
+      },
+      "artists": [
+        {
+          "name": "Alberto Beltran",
+          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 178493,
+      "name": "Aunque Me Cueste la Vida",
+      "url": "https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye"
+    },
+    {
+      "added_at": "2024-06-25 17:49:34",
+      "album": {
         "name": "El Bolerista De Am\u00e9rica",
         "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
       },
@@ -355,26 +375,6 @@
       "duration_ms": 134360,
       "name": "Amor De Pobre",
       "url": "https://open.spotify.com/track/4PLLtuqgi3gTNcbmgT8MIN"
-    },
-    {
-      "added_at": "2024-06-25 17:49:34",
-      "album": {
-        "name": "Aunque Me Cueste la Vida",
-        "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
-      },
-      "artists": [
-        {
-          "name": "Alberto Beltran",
-          "url": "https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 178493,
-      "name": "Aunque Me Cueste la Vida",
-      "url": "https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye"
     },
     {
       "added_at": "2024-06-25 17:49:34",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
+        "name": "Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/4BEpMDJEtdYszrAtlgCOnp"
+      },
+      "artists": [
+        {
+          "name": "Tito Cortes",
+          "url": "https://open.spotify.com/artist/1RcFtMUS8nKo22k9o5juJa"
+        }
+      ],
+      "duration_ms": 168829,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/02srYuHG7Wwiok9BDWQjQd"
+    },
+    {
+      "added_at": "2024-06-25 17:49:34",
+      "album": {
         "name": "El mago y la publicidad",
         "url": "https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o"
       },
@@ -631,18 +647,18 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
-        "name": "Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/4BEpMDJEtdYszrAtlgCOnp"
+        "name": "Poker de Ases",
+        "url": "https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK"
       },
       "artists": [
         {
-          "name": "Tito Cortes",
-          "url": "https://open.spotify.com/artist/1RcFtMUS8nKo22k9o5juJa"
+          "name": "Guiller",
+          "url": "https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF"
         }
       ],
-      "duration_ms": 168829,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/02srYuHG7Wwiok9BDWQjQd"
+      "duration_ms": 184013,
+      "name": "El Hijo Var\u00f3n",
+      "url": "https://open.spotify.com/track/7zCthbWs5OjnpXl9pMfmxy"
     },
     {
       "added_at": "2024-06-25 17:49:34",
@@ -659,22 +675,6 @@
       "duration_ms": 223546,
       "name": "Tu Me Acostumbraste - 2001 Digital Remaster",
       "url": "https://open.spotify.com/track/4BxqpVTYLzdLBTY3Y4DmMf"
-    },
-    {
-      "added_at": "2024-06-25 17:49:34",
-      "album": {
-        "name": "Poker de Ases",
-        "url": "https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK"
-      },
-      "artists": [
-        {
-          "name": "Guiller",
-          "url": "https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "El Hijo Var\u00f3n",
-      "url": "https://open.spotify.com/track/7zCthbWs5OjnpXl9pMfmxy"
     },
     {
       "added_at": "2024-06-25 17:49:34",
@@ -995,22 +995,18 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
-        "name": "Cien A\u00f1os",
-        "url": "https://open.spotify.com/album/1qjnoUsmscffVjof5Q8O9A"
+        "name": "El Disco de Oro",
+        "url": "https://open.spotify.com/album/1AwKxxu6mqRri6YC2Ia63s"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Iv\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
         }
       ],
-      "duration_ms": 222453,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/5CyehZ1DVKSrvwpntww0Md"
+      "duration_ms": 236000,
+      "name": "Mozo Deme Otra Copa",
+      "url": "https://open.spotify.com/track/4eQp08ROyedetA7cz2fxnc"
     }
   ],
   "unique_name": "Boleros en Casa",
