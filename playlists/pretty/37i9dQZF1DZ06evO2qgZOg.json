@@ -1,12 +1,12 @@
 {
   "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 288900,
+  "num_followers": 288937,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy6mAAAAAAB8kQDaMFMbkeGuHlvAvJIX",
+  "snapshot_id": "Zy/3gAAAAADqWonwmkQKsGxE/l+sN5CI",
   "tracks": [
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 204346,
-      "name": "Whispers in the Dark",
-      "url": "https://open.spotify.com/track/6rSuL1ViLO7Aljn2WD09s4"
+      "duration_ms": 230426,
+      "name": "Comatose",
+      "url": "https://open.spotify.com/track/5pRElcsPZrgZXkoON2o5Go"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 230426,
-      "name": "Comatose",
-      "url": "https://open.spotify.com/track/5pRElcsPZrgZXkoON2o5Go"
+      "duration_ms": 204346,
+      "name": "Whispers in the Dark",
+      "url": "https://open.spotify.com/track/6rSuL1ViLO7Aljn2WD09s4"
     },
     {
       "added_at": null,

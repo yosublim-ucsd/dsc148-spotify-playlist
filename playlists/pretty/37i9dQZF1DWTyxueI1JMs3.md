@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyxueI1JMs3.md) - [plain]
 
 > Music from “A3!”, Japan’s top anime style mobile games.イケメン役者育成ゲーム『A3!』公式プレイリスト！©Liber Entertainment Inc\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,322 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,333 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyxueI1JMs3.md) - [plain]
 | 34 | [UNMASK](https://open.spotify.com/track/0CxxlKX5LEiMCWAoeaWOmY) | [クリス\[月岡紬\(CV:田丸篤志\)\]](https://open.spotify.com/artist/0qlkTWpx1ivSasGIPeEsD5), [ファントム\[ガイ\(CV:日野聡\)\]](https://open.spotify.com/artist/48WdEWBpzmX5LEMulJobvm) | [A3! VIVID WINTER EP](https://open.spotify.com/album/5kbcl1xM717EyFyXNiFhb5) | 5:02 |
 | 35 | [CROSS LINES](https://open.spotify.com/track/324VYrR88xs3T3Q3f57rhY) | [月岡紬\(CV:田丸篤志\)](https://open.spotify.com/artist/4VaShRsxkpIJRszVDJAXpt) | [A3! SUNNY WINTER EP](https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP) | 3:46 |
 | 36 | [嘘つきは魔法のはじまり](https://open.spotify.com/track/7Lhy1ymBdiPwAquSf6pn05) | [オズワルド \[卯木千景 \(CV: 羽多野渉\)\]](https://open.spotify.com/artist/5OX5gf7ZcZ4jZUMaNO9bCI), [リック\[佐久間咲也 \(CV: 酒井広大\)\]](https://open.spotify.com/artist/37PJ0FdW8NE0Muyx8zY1Cp) | [A3! VIVID SPRING EP](https://open.spotify.com/album/4c25HmOFJqSRpmD9sBbKJC) | 3:56 |
-| 37 | [トロイメライと空白](https://open.spotify.com/track/5gP2A1oGmHxGZl1bJ2H9vp) | [御影密\(CV:寺島惇太\)](https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn) | [A3! Blooming WINTER EP](https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT) | 4:19 |
-| 38 | [初恋X](https://open.spotify.com/track/0OehqIzKNfTlG9xuyMA2aN) | [碓氷真澄\(CV:白井悠介\)](https://open.spotify.com/artist/70038mflhvWOF3fhpXCFBf) | [A3! SUNNY SPRING EP](https://open.spotify.com/album/7MSradvQRYj5JgmZ78h96e) | 4:21 |
+| 37 | [初恋X](https://open.spotify.com/track/0OehqIzKNfTlG9xuyMA2aN) | [碓氷真澄\(CV:白井悠介\)](https://open.spotify.com/artist/70038mflhvWOF3fhpXCFBf) | [A3! SUNNY SPRING EP](https://open.spotify.com/album/7MSradvQRYj5JgmZ78h96e) | 4:21 |
+| 38 | [トロイメライと空白](https://open.spotify.com/track/5gP2A1oGmHxGZl1bJ2H9vp) | [御影密\(CV:寺島惇太\)](https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn) | [A3! Blooming WINTER EP](https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT) | 4:19 |
 | 39 | [PLASTIC POKER](https://open.spotify.com/track/6wPb1Az08RLhNKNLNXH4mf) | [リアム\[御影 密\(CV:寺島惇太\)\]](https://open.spotify.com/artist/3IOfXlygtEhgn9nEMmcgXk), [ノーマン\[雪白 東\(CV:柿原徹也\)\]](https://open.spotify.com/artist/255ok5nCNbwtMi1NBRjLSK) | [A3! BRIGHT WINTER EP](https://open.spotify.com/album/11nYqZlQCZT761a8VNcUuN) | 4:25 |
 | 40 | [一夜限りの相棒](https://open.spotify.com/track/7E8qHny0LQOQ37mxhlQzeU) | [ルチアーノ\[摂津万里\(CV:沢城千春\)\]](https://open.spotify.com/artist/5whda5r4G4TbH4Noy9OAQo), [ランスキー\[兵頭十座\(CV:武内駿輔\)\]](https://open.spotify.com/artist/0eeldwSQXjHIxiIIlxnu3Q) | [A3! First AUTUMN EP](https://open.spotify.com/album/3Z9ByrJdBMKn4jQVMq7CEn) | 3:06 |
 | 41 | [エモーション](https://open.spotify.com/track/5NxOxDgcMJSbsGKsfgaxwq) | [有栖川誉\(CV:豊永利行\)](https://open.spotify.com/artist/2PW2GKX6MHXvUzHknb2Vwo) | [A3! SUNNY WINTER EP](https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP) | 2:50 |

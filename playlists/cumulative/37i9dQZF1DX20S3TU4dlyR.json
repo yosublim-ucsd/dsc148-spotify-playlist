@@ -634,7 +634,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 258000,
       "name": "Cerquita",
       "url": "https://open.spotify.com/track/0Jmfcvb3PiCadPSCioXl8U"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 245750,
       "name": "Desinformation",
       "url": "https://open.spotify.com/track/1217Z3BPonXG3Kmm8aSkAp"
@@ -2145,6 +2145,28 @@
     },
     {
       "album": {
+        "name": "Hecho en Jamaica",
+        "url": "https://open.spotify.com/album/02sSSeI4fEPGlSv2gFT5Wj"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        },
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246271,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/6SF64uRu4URufMHawFN22x"
+    },
+    {
+      "album": {
         "name": "La Huida",
         "url": "https://open.spotify.com/album/6XbXfwrvflXsjxOfzucnqa"
       },
@@ -2670,7 +2692,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 251040,
       "name": "Lo Que Te Queda",
       "url": "https://open.spotify.com/track/3TfZW4btZFmocz8DM8fFFa"
@@ -3362,7 +3384,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 325124,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/5eqOwQa8tABk6m6wMPRJSd"
@@ -3908,7 +3930,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 259217,
       "name": "Saber a D\u00f3nde ir",
       "url": "https://open.spotify.com/track/0DidJz0r4fFToEohpkHxoT"
@@ -4809,6 +4831,24 @@
     },
     {
       "album": {
+        "name": "Vamos Fugir",
+        "url": "https://open.spotify.com/album/3sPkAX1L9eprN5JP2EZvbS"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227906,
+      "name": "Vamos Fugir",
+      "url": "https://open.spotify.com/track/2Y7nKdgpv2qgn54SOceCaw"
+    },
+    {
+      "album": {
         "name": "Vendedores da F\u00e9",
         "url": "https://open.spotify.com/album/03MWGQ1wufbxPEyguWJk3x"
       },
@@ -4914,7 +4954,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-10",
+      "date_removed": null,
       "duration_ms": 251567,
       "name": "Volver a Sentir - En Vivo en el Teatro Caupolic\u00e1n",
       "url": "https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67"

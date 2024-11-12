@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > The best new songs of the week! Cover: Sylvie Kreusch \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a> BNLX\-artist\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,478 likes - 89 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,483 likes - 89 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 88 | [Live every day](https://open.spotify.com/track/1mec9Eahkiq43U5lrIPljL) | [Steve Leon & The Accusations](https://open.spotify.com/artist/5teKQSd9WfT4HM1n2XjO6b) | [Borrowed time bonanza](https://open.spotify.com/album/06dQ4NaPfVcYz31eLJJxJs) | 4:27 |
 | 89 | [Not Yet](https://open.spotify.com/track/00E0eihaJIRmZ9QVxvzhsg) | [Monrad](https://open.spotify.com/artist/1A8AexeVNBFLpkCe447RoY) | [Not Yet](https://open.spotify.com/album/3lnfqcBuVSVJMo3zkfSco0) | 4:44 |
 
-Snapshot ID: `Zy5L9wAAAABXc7mTX5r80jLlwU+Zqg9J`
+Snapshot ID: `ZzHZwAAAAADKpg8rwNiTKpRfDE01jlan`

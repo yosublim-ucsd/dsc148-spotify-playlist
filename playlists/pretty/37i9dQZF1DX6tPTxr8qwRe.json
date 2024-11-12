@@ -1,13 +1,45 @@
 {
-  "description": "Dark, hard hitting pop. Cover: Rebecca Black",
-  "num_followers": 420786,
+  "description": "Dark, hard hitting pop. Cover: Stela Cole",
+  "num_followers": 420830,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy2a0AAAAADUqpIGyqTddUs0xjusG6H5",
+  "snapshot_id": "ZzJU6gAAAAAn/urhL9jNli1XnGBCRYWd",
   "tracks": [
+    {
+      "added_at": "2024-11-11 19:03:06",
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/5Eg6oyQd5RJS7KuGooq5iJ"
+      },
+      "artists": [
+        {
+          "name": "Stela Cole",
+          "url": "https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9"
+        }
+      ],
+      "duration_ms": 197257,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/6bCE0p7QX3Tx4rZGDyaJ1U"
+    },
+    {
+      "added_at": "2024-11-11 19:03:06",
+      "album": {
+        "name": "crocodile tears",
+        "url": "https://open.spotify.com/album/447seuu3X7RLUyNBijtw1b"
+      },
+      "artists": [
+        {
+          "name": "TAELA",
+          "url": "https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "crocodile tears",
+      "url": "https://open.spotify.com/track/71q2aFtpjsH4CG5Xbcc0jJ"
+    },
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
@@ -1087,46 +1119,6 @@
     {
       "added_at": "2024-08-26 14:52:18",
       "album": {
-        "name": "FAVOURITE MISTAKE",
-        "url": "https://open.spotify.com/album/1zC5t0eCDIAj4j4sbW6XsQ"
-      },
-      "artists": [
-        {
-          "name": "Violette Wautier",
-          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
-        }
-      ],
-      "duration_ms": 156683,
-      "name": "FAVOURITE MISTAKE",
-      "url": "https://open.spotify.com/track/0rH7Q9eatIX85iEjnTVzex"
-    },
-    {
-      "added_at": "2024-08-26 14:52:18",
-      "album": {
-        "name": "SUPERPOWER",
-        "url": "https://open.spotify.com/album/5uCFinoHAfvh3RM5UuBhZ6"
-      },
-      "artists": [
-        {
-          "name": "VALORANT",
-          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
-        },
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        },
-        {
-          "name": "Mark Tuan",
-          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
-        }
-      ],
-      "duration_ms": 182987,
-      "name": "SUPERPOWER",
-      "url": "https://open.spotify.com/track/3kfQuU6FXW4OXHIHjuups7"
-    },
-    {
-      "added_at": "2024-08-26 14:52:18",
-      "album": {
         "name": "Bad Habits",
         "url": "https://open.spotify.com/album/2ljBsmYzspzbHDojqm5CDP"
       },
@@ -1139,22 +1131,6 @@
       "duration_ms": 212988,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/2Zxa8dBD8TDAAwuwPJZz6o"
-    },
-    {
-      "added_at": "2024-08-26 14:52:18",
-      "album": {
-        "name": "Chasm",
-        "url": "https://open.spotify.com/album/3J5RD4gtqmlIYptWCyi4hg"
-      },
-      "artists": [
-        {
-          "name": "Brye",
-          "url": "https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC"
-        }
-      ],
-      "duration_ms": 183108,
-      "name": "Chasm",
-      "url": "https://open.spotify.com/track/3B2zZpNfRY47H0eyVBFlPn"
     },
     {
       "added_at": "2024-08-26 14:52:18",
@@ -1187,22 +1163,6 @@
       "duration_ms": 140925,
       "name": "bite the bullet",
       "url": "https://open.spotify.com/track/5CspzXgtgJH2pSpDxQWjgo"
-    },
-    {
-      "added_at": "2024-08-26 14:52:18",
-      "album": {
-        "name": "Invasion",
-        "url": "https://open.spotify.com/album/3YxxHFu1LsbhfZabdegMm4"
-      },
-      "artists": [
-        {
-          "name": "Iniko",
-          "url": "https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Invasion",
-      "url": "https://open.spotify.com/track/4Zzm3yLTEPa2gaiJw0uPNF"
     },
     {
       "added_at": "2024-08-26 14:52:18",

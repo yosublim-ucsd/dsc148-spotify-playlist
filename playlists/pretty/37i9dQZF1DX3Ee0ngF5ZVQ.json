@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Jenna Paulette",
-  "num_followers": 410865,
+  "num_followers": 410858,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Diamondhead",
+        "url": "https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc"
+      },
+      "artists": [
+        {
+          "name": "J.R. Carroll",
+          "url": "https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm"
+        }
+      ],
+      "duration_ms": 187375,
+      "name": "Diamondhead",
+      "url": "https://open.spotify.com/track/1y76vWynOdnIbixqJvxD3e"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Honky Tonkin' About",
         "url": "https://open.spotify.com/album/0NcALFoPC2VFUj05Jsj9zP"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 185315,
       "name": "Honky Tonkin' About",
       "url": "https://open.spotify.com/track/0mYDmAlfKvnSigoH2h9XbZ"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Diamondhead",
-        "url": "https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc"
-      },
-      "artists": [
-        {
-          "name": "J.R. Carroll",
-          "url": "https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm"
-        }
-      ],
-      "duration_ms": 187375,
-      "name": "Diamondhead",
-      "url": "https://open.spotify.com/track/1y76vWynOdnIbixqJvxD3e"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Creeps",
-        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 226309,
-      "name": "Creeps",
-      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Fall This Way",
         "url": "https://open.spotify.com/album/5fezVdpvGi5luATJVA19B5"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 215000,
       "name": "Fall This Way",
       "url": "https://open.spotify.com/track/5AeR3j18cKWueAh42yKkFE"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Creeps",
+        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 226309,
+      "name": "Creeps",
+      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Wherever I Am",
-        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
+        "name": "Coulda Been Love",
+        "url": "https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6"
       },
       "artists": [
         {
-          "name": "Kolton Moore & the Clever Few",
-          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
         }
       ],
-      "duration_ms": 253101,
-      "name": "Wherever I Am",
-      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
+      "duration_ms": 172866,
+      "name": "Coulda Been Love",
+      "url": "https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Coulda Been Love",
-        "url": "https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6"
+        "name": "Wherever I Am",
+        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
       },
       "artists": [
         {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+          "name": "Kolton Moore & the Clever Few",
+          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
         }
       ],
-      "duration_ms": 172866,
-      "name": "Coulda Been Love",
-      "url": "https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp"
+      "duration_ms": 253101,
+      "name": "Wherever I Am",
+      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Buy The World A Round",
-        "url": "https://open.spotify.com/album/6QJwRfuTj1e6V0c550goov"
-      },
-      "artists": [
-        {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
-        }
-      ],
-      "duration_ms": 167349,
-      "name": "Buy The World A Round",
-      "url": "https://open.spotify.com/track/3ywrTTUfMe5ZE7C9YypvbZ"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Outlaws and Mustangs",
         "url": "https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs"
       },
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Buy The World A Round",
+        "url": "https://open.spotify.com/album/6QJwRfuTj1e6V0c550goov"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "duration_ms": 167349,
+      "name": "Buy The World A Round",
+      "url": "https://open.spotify.com/track/3ywrTTUfMe5ZE7C9YypvbZ"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Lonestar Lonely",
         "url": "https://open.spotify.com/album/6ccDlVdugIG7zA0AzskxuM"
       },
@@ -1303,6 +1303,22 @@
       "duration_ms": 215322,
       "name": "Lonestar Lonely",
       "url": "https://open.spotify.com/track/0Ot74bX8yoyXSoibhqAlyj"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Green Eyes Blue",
+        "url": "https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 217093,
+      "name": "Green Eyes Blue",
+      "url": "https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1339,22 +1355,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Till You",
-        "url": "https://open.spotify.com/album/29VsW5EVau6fNhYop1nIWR"
-      },
-      "artists": [
-        {
-          "name": "Dave Fenley",
-          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
-        }
-      ],
-      "duration_ms": 206016,
-      "name": "Till You",
-      "url": "https://open.spotify.com/track/2XSZ4cEzB2lUY8i2rUWKN6"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Crossing Lines",
         "url": "https://open.spotify.com/album/2i37SSqkyaIafbqGWHYyqw"
       },
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Green in Colorado",
-        "url": "https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2"
+        "name": "Till You",
+        "url": "https://open.spotify.com/album/29VsW5EVau6fNhYop1nIWR"
       },
       "artists": [
         {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+          "name": "Dave Fenley",
+          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
         }
       ],
-      "duration_ms": 196833,
-      "name": "Green in Colorado",
-      "url": "https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV"
+      "duration_ms": 206016,
+      "name": "Till You",
+      "url": "https://open.spotify.com/track/2XSZ4cEzB2lUY8i2rUWKN6"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1403,8 +1403,8 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Green Eyes Blue",
-        "url": "https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq"
+        "name": "When My Baby\u2019s In Boots",
+        "url": "https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q"
       },
       "artists": [
         {
@@ -1412,9 +1412,9 @@
           "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
         }
       ],
-      "duration_ms": 217093,
-      "name": "Green Eyes Blue",
-      "url": "https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6"
+      "duration_ms": 183613,
+      "name": "When My Baby\u2019s In Boots",
+      "url": "https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1431,6 +1431,38 @@
       "duration_ms": 207893,
       "name": "Don\u2019t Mess With Exes",
       "url": "https://open.spotify.com/track/5OeJTsIgXpwacSUj7Wlxa0"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Rodeo Clown",
+        "url": "https://open.spotify.com/album/5S2COInNsyf6m9rgHpI7HM"
+      },
+      "artists": [
+        {
+          "name": "Vincent Neil Emerson",
+          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
+        }
+      ],
+      "duration_ms": 225161,
+      "name": "Rodeo Clown",
+      "url": "https://open.spotify.com/track/1dXgI4cUtHd7Ks9BbJDpx7"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Green in Colorado",
+        "url": "https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 196833,
+      "name": "Green in Colorado",
+      "url": "https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1487,22 +1519,6 @@
       "duration_ms": 159841,
       "name": "That's What You Get",
       "url": "https://open.spotify.com/track/4pa00oKsxQsUWSOD48QiRU"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "When My Baby\u2019s In Boots",
-        "url": "https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q"
-      },
-      "artists": [
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 183613,
-      "name": "When My Baby\u2019s In Boots",
-      "url": "https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1599,22 +1615,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Love Junkie",
-        "url": "https://open.spotify.com/album/18ObIWQQaixiec3lFv02Qs"
-      },
-      "artists": [
-        {
-          "name": "Slade Coulter",
-          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
-        }
-      ],
-      "duration_ms": 238386,
-      "name": "Love Junkie",
-      "url": "https://open.spotify.com/track/5mzeAk5H2fHIV1z8dgyt3z"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "That's What Makes the World Go Around",
         "url": "https://open.spotify.com/album/0WJUACzppmRQemrlwap45e"
       },
@@ -1631,6 +1631,22 @@
       "duration_ms": 197861,
       "name": "That's What Makes The World Go Around",
       "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Love Junkie",
+        "url": "https://open.spotify.com/album/18ObIWQQaixiec3lFv02Qs"
+      },
+      "artists": [
+        {
+          "name": "Slade Coulter",
+          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
+        }
+      ],
+      "duration_ms": 238386,
+      "name": "Love Junkie",
+      "url": "https://open.spotify.com/track/5mzeAk5H2fHIV1z8dgyt3z"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1703,26 +1719,6 @@
       "duration_ms": 276280,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Outta Dirt",
-        "url": "https://open.spotify.com/album/16CEupIepvrJlX6ay6NM9n"
-      },
-      "artists": [
-        {
-          "name": "Rodell Duff",
-          "url": "https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky"
-        },
-        {
-          "name": "George Birge",
-          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
-        }
-      ],
-      "duration_ms": 164412,
-      "name": "Outta Dirt",
-      "url": "https://open.spotify.com/track/0iUAgtPIBPFzAXqdy9sDb5"
     }
   ],
   "unique_name": "Texas Country Now",

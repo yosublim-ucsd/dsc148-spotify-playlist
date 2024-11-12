@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 
 > The best Blues for a long trip behind the wheel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,504 likes - 118 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,549 likes - 118 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,17 +105,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 | 95 | [The Hangman's Knee \- 2004 Remaster](https://open.spotify.com/track/0LxgShBPLp0dZT866Ilkv2) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Beck\-Ola](https://open.spotify.com/album/5U29fXcBHWNrUrFI1ol8Oi) | 4:50 |
 | 96 | [Confessin' the Blues](https://open.spotify.com/track/1jITXDhtm0vwjyeY3bLVN3) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [BD Music & Toppi Present the Blues](https://open.spotify.com/album/1f3irUajLCbRpZhS4aZvae) | 2:11 |
 | 97 | [Drifting Cloud](https://open.spotify.com/track/6MdE6X7xZAXXoXT9zY2eq1) | [Drifting Charles](https://open.spotify.com/artist/4kSYeEinu0WrEnL76FFzm3) | [When Girls Do It](https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df) | 2:54 |
-| 98 | [Let Me Love You Baby](https://open.spotify.com/track/4X8Toq5ww0tDllQHhMv7DR) | [Savoy Brown Blues Band](https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP) | [Shake Down](https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb) | 3:03 |
-| 99 | [When Girls Do It](https://open.spotify.com/track/0sGX1jTxtvtLDVPQdgXuLu) | [Bobby 'Guitar' Bennett](https://open.spotify.com/artist/7inzxmgcCQZGqzBVfkWA8g) | [When Girls Do It](https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df) | 2:52 |
+| 98 | [When Girls Do It](https://open.spotify.com/track/0sGX1jTxtvtLDVPQdgXuLu) | [Bobby 'Guitar' Bennett](https://open.spotify.com/artist/7inzxmgcCQZGqzBVfkWA8g) | [When Girls Do It](https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df) | 2:52 |
+| 99 | [Let Me Love You Baby](https://open.spotify.com/track/4X8Toq5ww0tDllQHhMv7DR) | [Savoy Brown Blues Band](https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP) | [Shake Down](https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb) | 3:03 |
 | 100 | [I'm Checkin' Up](https://open.spotify.com/track/1PmlMR88OMXyn7eCtqQwUP) | [Tender Slim](https://open.spotify.com/artist/3numTvkoIR26Vkq83bmxcO) | [When Girls Do It](https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df) | 2:58 |
 | 101 | [Feeli' Good](https://open.spotify.com/track/5JKfPYbO58hhkKFumwlKY3) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Abc of the Blues, Vol\. 36](https://open.spotify.com/album/7lleAD3GRgVvjXHNTsRNCg) | 2:58 |
 | 102 | [Why Don't You Write Back to Me](https://open.spotify.com/track/3twEpu6BbsrVnn941gMBR4) | [The Muleskinners](https://open.spotify.com/artist/39rvSxWDfec4IFpnsF3YMo) | [Knockout R&B](https://open.spotify.com/album/1KORQ02DZiosXe7jbdqxb1) | 2:10 |
 | 103 | [Chicago Calling](https://open.spotify.com/track/4nGyEoNS2Lx9iPStDcwMRt) | [The Art Wood Combo](https://open.spotify.com/artist/4bfCsMIyfQxp92CNvlVlCw) | [Steady Gettin' It: The Complete Recordings 1964\-67](https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1) | 2:19 |
 | 104 | [Rocky Mountain Way](https://open.spotify.com/track/79hKqXCyqIUXhdTFEs4ePo) | [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [Rockin' The Blues](https://open.spotify.com/album/1Ki8xQv0w2lu8yaLBHOivq) | 5:14 |
-| 105 | [She's so Fine](https://open.spotify.com/track/0XJesjzT9nLXqtOWnSYMIB) | [Bobby 'Guitar' Bennett](https://open.spotify.com/artist/7inzxmgcCQZGqzBVfkWA8g) | [Bobby "Guitar" Bennett & Pancho Villa](https://open.spotify.com/album/73tCwh99RNt4sJxjnzehBe) | 1:42 |
-| 106 | [Down Town](https://open.spotify.com/track/0uty39dFnwtbMGpdN4nxz0) | [Alexis Korner](https://open.spotify.com/artist/385tW2q0gMaQTkswc9lMSe) | [R&B From The Marquee](https://open.spotify.com/album/2Uv8U2JwRRbeqBfk8OS4Na) | 3:01 |
-| 107 | [Hoochie Coochie Man](https://open.spotify.com/track/3NwAB2aVDJZ1q6ZwA5T8vt) | [The Graham Bond Organisation](https://open.spotify.com/artist/2YHcSCb5tMbCoovS962pff) | [Rockin' The Blues](https://open.spotify.com/album/1Ki8xQv0w2lu8yaLBHOivq) | 2:44 |
-| 108 | [Crack Your Head](https://open.spotify.com/track/3EFG47BHNvUfAcHyO3622C) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 2:56 |
+| 105 | [Down Town](https://open.spotify.com/track/0uty39dFnwtbMGpdN4nxz0) | [Alexis Korner](https://open.spotify.com/artist/385tW2q0gMaQTkswc9lMSe) | [R&B From The Marquee](https://open.spotify.com/album/2Uv8U2JwRRbeqBfk8OS4Na) | 3:01 |
+| 106 | [Hoochie Coochie Man](https://open.spotify.com/track/3NwAB2aVDJZ1q6ZwA5T8vt) | [The Graham Bond Organisation](https://open.spotify.com/artist/2YHcSCb5tMbCoovS962pff) | [Rockin' The Blues](https://open.spotify.com/album/1Ki8xQv0w2lu8yaLBHOivq) | 2:44 |
+| 107 | [Crack Your Head](https://open.spotify.com/track/3EFG47BHNvUfAcHyO3622C) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 2:56 |
+| 108 | [She's so Fine](https://open.spotify.com/track/0XJesjzT9nLXqtOWnSYMIB) | [Bobby 'Guitar' Bennett](https://open.spotify.com/artist/7inzxmgcCQZGqzBVfkWA8g) | [Bobby "Guitar" Bennett & Pancho Villa](https://open.spotify.com/album/73tCwh99RNt4sJxjnzehBe) | 1:42 |
 | 109 | [Certified Blues](https://open.spotify.com/track/7mdPXhJBfxJBonEmqZvm9t) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4) | 3:27 |
 | 110 | [You Shook Me](https://open.spotify.com/track/5KYlh46iJUzViGrydbHpuY) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 5:00 |
 | 111 | [Rock Me Baby](https://open.spotify.com/track/05Edg9bSSBaE5g1nx1pnty) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [Twice Removed from Yesterday](https://open.spotify.com/album/4xR6Pp6PnfaYn07jqQ33be) | 4:15 |

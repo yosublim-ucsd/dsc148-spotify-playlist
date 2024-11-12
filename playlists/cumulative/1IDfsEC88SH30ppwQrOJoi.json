@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "(Sing It Again) Nanana",
+        "url": "https://open.spotify.com/album/2zpHivTdS5WUtMuzxjj6GV"
+      },
+      "artists": [
+        {
+          "name": "Alex Poet",
+          "url": "https://open.spotify.com/artist/1tGEWCT1OGYoCGgHEeEqLT"
+        },
+        {
+          "name": "Tess Leah",
+          "url": "https://open.spotify.com/artist/2HG2anwywl9d9XWgmxhAQb"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179345,
+      "name": "(Sing It Again) Nanana - Original Mix",
+      "url": "https://open.spotify.com/track/7cbKcdNGhkUF5mryLb5w7Y"
+    },
+    {
+      "album": {
         "name": "365",
         "url": "https://open.spotify.com/album/2Wt63cwVvjqezpEdQcmlkI"
       },
@@ -1976,6 +1998,28 @@
       "duration_ms": 153281,
       "name": "Fed Up",
       "url": "https://open.spotify.com/track/0W2FEBuoaaipzs6pMLJEbu"
+    },
+    {
+      "album": {
+        "name": "Feel The Passion",
+        "url": "https://open.spotify.com/album/01J5Pl4PZKt3wfwOGM4ffA"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180018,
+      "name": "Feel The Passion",
+      "url": "https://open.spotify.com/track/1FsIirLTiqFlbgEPnmdNzT"
     },
     {
       "album": {

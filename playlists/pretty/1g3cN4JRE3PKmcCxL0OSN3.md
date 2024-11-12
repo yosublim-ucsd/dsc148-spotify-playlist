@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1g3cN4JRE3PKmcCxL0OSN3.md) - [plain]
 
 > 16&\#x2F;09&\#x2F;24 😔
 
-[charlie\*](https://open.spotify.com/user/blank808) - 0 like - 1,358 songs - 3 day 8 hr 30 min
+[charlie\*](https://open.spotify.com/user/blank808) - 0 like - 1,359 songs - 3 day 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1366,5 +1366,6 @@ pretty - [cumulative](/playlists/cumulative/1g3cN4JRE3PKmcCxL0OSN3.md) - [plain]
 | 1356 | [KiCKiN! \(B\)](https://open.spotify.com/track/2HOL1tgbwCvmrmHCkHKwkL) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [BRAVADO + INTiMO](https://open.spotify.com/album/6QfICnbrJhdEwyM4Hd0n3R) | 2:22 |
 | 1357 | [Run Your Mouth](https://open.spotify.com/track/19fKJrO9XdOf6Xla2QHecO) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 2:40 |
 | 1358 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 |
+| 1359 | [Godspeed](https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 2:57 |
 
-Snapshot ID: `AAAFP3HP5YHbrkcZ3IPFYLwg4S+C3jTG`
+Snapshot ID: `AAAFQFPlUNn5LzJq/ntC+kMIAI2+dOZ4`

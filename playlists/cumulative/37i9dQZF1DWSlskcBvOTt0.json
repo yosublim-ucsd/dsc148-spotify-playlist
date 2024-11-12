@@ -12994,7 +12994,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 173150,
       "name": "SAWO",
       "url": "https://open.spotify.com/track/6FE4v1ZeREOUw5a32YNWgr"
@@ -16076,6 +16076,28 @@
       "duration_ms": 273719,
       "name": "Vysoko",
       "url": "https://open.spotify.com/track/0PocOq2xyQDJNsLSwr7e2t"
+    },
+    {
+      "album": {
+        "name": "Wait For Me",
+        "url": "https://open.spotify.com/album/4VLhdemHbUanudVyCiNHE0"
+      },
+      "artists": [
+        {
+          "name": "Sintra",
+          "url": "https://open.spotify.com/artist/7G8FPZ2dGqGtMqPE9fy13e"
+        },
+        {
+          "name": "Howie Conyack",
+          "url": "https://open.spotify.com/artist/2fn4XVGOAmEU5HRti9ohQV"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247933,
+      "name": "Wait For Me",
+      "url": "https://open.spotify.com/track/1KDmLC2qkMVpXcNr4KZ8rg"
     },
     {
       "album": {

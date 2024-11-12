@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Casero.
 
-240 songs - 12 hr 32 min
+241 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Chico Bueno](https://open.spotify.com/track/16iyniG7adFrbPGJTZ5Fkk) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf), [BRONQUIO](https://open.spotify.com/artist/5ChiL2aAGunqF9P4m3giP1) | [Chico Bueno](https://open.spotify.com/album/3fKEevUtThfO4c1R8gh1so) | 2:58 | 2024-09-05 |  |
 | [CHULA](https://open.spotify.com/track/0mXYr3Z0tRgBsMOJIHtRQ6) | [Chill Chicos](https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG), [Korashe](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [CHULA](https://open.spotify.com/album/003ywHveGjCjgWIvi5NQRK) | 2:40 | 2024-06-27 | 2024-07-27 |
 | [COM EL DIA I LA NIT](https://open.spotify.com/track/4oITtKgZh6lPRM1JSEb4sX) | [Oques Grasses](https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0), [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Fruit del Deliri](https://open.spotify.com/album/5wrNopViDjNZqgmR6cpD9v) | 4:13 | 2024-06-27 | 2024-08-23 |
+| [Como en las películas](https://open.spotify.com/track/4v84egzXdyyal7OOwu5Mi3) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [El imperio de la sombra](https://open.spotify.com/album/7EThEF5MQKFB7XUPTXzjIp) | 3:07 | 2024-11-08 |  |
 | [COMO YO](https://open.spotify.com/track/506T6zVDUSlZ0d4pIMhMGJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [COMO YO](https://open.spotify.com/album/1CyXLV1RNiLbbrs0lvJ5m5) | 1:57 | 2024-06-27 |  |
 | [CON LOQ1 NACE](https://open.spotify.com/track/5gTcX23cK2d06dbuXBIqcH) | [ODDLIQUOR](https://open.spotify.com/artist/1rmlkMXVf5f6ilIVhjow34) | [CON LOQ1 NACE](https://open.spotify.com/album/3PKRHrJ4UgwN6caKvt3mYn) | 3:06 | 2024-08-01 | 2024-10-11 |
 | [Con Miedo a Ti](https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [Alto Cielo](https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V) | 4:51 | 2024-06-27 |  |
@@ -108,7 +109,7 @@
 | [HELLO PITI](https://open.spotify.com/track/02qzGFQ2zbuMPPyDXXs6CB) | [Korashe](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [HELLO PITI](https://open.spotify.com/album/57qRNanR544Lq3kOxDDl3p) | 2:23 | 2024-06-27 | 2024-09-06 |
 | [Igual hemos roto y no me he enterado](https://open.spotify.com/track/5gI2xygyWzvud4zTn8BZhk) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Igual hemos roto y no me he enterado](https://open.spotify.com/album/0RJIItCjiGEGT440zHtWnt) | 3:02 | 2024-09-05 | 2024-10-18 |
 | [II\. Flores](https://open.spotify.com/track/5gwsRfaDuWLnh7OBXfU9Co) | [laespadayelclavel](https://open.spotify.com/artist/4v3KjF83OHIONLLYCVBm7Y), [Quince](https://open.spotify.com/artist/2R1oJmkl57oERIg2zv2nKQ) | [EL AMOR](https://open.spotify.com/album/56wDiCTzay7s8cH1QR8HNN) | 3:44 | 2024-07-04 | 2024-07-12 |
-| [Imparables](https://open.spotify.com/track/1lpXBntIB3GILpelgl7hWn) | [Carmen 113](https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe) | [Imparables](https://open.spotify.com/album/54exH2VGexs9RCa8DErqKa) | 3:07 | 2024-08-15 |  |
+| [Imparables](https://open.spotify.com/track/1lpXBntIB3GILpelgl7hWn) | [Carmen 113](https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe) | [Imparables](https://open.spotify.com/album/54exH2VGexs9RCa8DErqKa) | 3:07 | 2024-08-15 | 2024-11-12 |
 | [Importante](https://open.spotify.com/track/7EST4cNrgPyNyMFKnVWeKV) | [Carlos Ares](https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI) | [Importante](https://open.spotify.com/album/05cwZJZmICYgHxcdJMl77u) | 3:35 | 2024-10-24 |  |
 | [INRI](https://open.spotify.com/track/7G0wdE6RUVaOXFDRkElQz4) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [INRI](https://open.spotify.com/album/5kdsxoKa97cbaqXUReltaT) | 2:25 | 2024-07-11 | 2024-10-04 |
 | [invisible](https://open.spotify.com/track/2xhKj6tAJ4g3BzhJR8JZkl) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [invisible](https://open.spotify.com/album/5SBLJieZS1BQbNOqTXnQ01) | 3:09 | 2024-06-27 | 2024-08-02 |

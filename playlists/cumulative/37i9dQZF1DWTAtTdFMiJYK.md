@@ -2,7 +2,7 @@
 
 ### [RADAR India](https://open.spotify.com/playlist/37i9dQZF1DWTAtTdFMiJYK)
 
-> Most exciting artists from the Indian Indie scene\. Cover: KhsolaRaghu
+> Most exciting artists from the Indian Indie scene\. Cover: KhoslaRaghu
 
 320 songs - 18 hr 22 min
 

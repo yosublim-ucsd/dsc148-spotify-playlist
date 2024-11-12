@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Raymix
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,722 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,745 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 7 | [Hola Mi Amor](https://open.spotify.com/track/6RmOerG8aJYA7mqbHxJmPi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6ZvMDzwfQlizWJG1H1q0VQ) | 2:38 |
 | 8 | [Conmigo o Sin Mi](https://open.spotify.com/track/5Xq9uRZMTd6448o4OrsZJN) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Conmigo o Sin Mi](https://open.spotify.com/album/5fzGxHbP75d1pJs8Zcyr1N) | 2:36 |
 | 9 | [Dice Que No Le Importa](https://open.spotify.com/track/4McnZ79xYqcGw1Hse3wBlc) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Dice Que No Le Importa](https://open.spotify.com/album/209YdplhoRJepgB73P2W0b) | 4:05 |
-| 10 | [Pasión y Locura](https://open.spotify.com/track/71Xw50dK2D5vyC7Fhkp9Cl) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Pasión y Locura](https://open.spotify.com/album/66M1SsPRNCHKQc50gqNlih) | 4:11 |
+| 10 | [Pasión y Locura](https://open.spotify.com/track/71Xw50dK2D5vyC7Fhkp9Cl) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Pasión y Locura](https://open.spotify.com/album/66M1SsPRNCHKQc50gqNlih) | 3:50 |
 | 11 | [Mala Gente](https://open.spotify.com/track/6bi8lyM2Qyh70jpSkIcDgr) | [MEIMI](https://open.spotify.com/artist/5PDJUZrrWeGjQ3F0TeHDp2), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Mala Gente](https://open.spotify.com/album/3g0GF4ZlC4uQ8EoIXbYK2e) | 2:25 |
 | 12 | [Cumbia China](https://open.spotify.com/track/65UxPNvJ9mYrQyvKex2HBq) | [La Bomba de Tiempo](https://open.spotify.com/artist/2kzyHS3WRPwclRl5gsydu8), [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Cumbia China](https://open.spotify.com/album/09LxnbyPfBu3po65G8UCds) | 3:12 |
 | 13 | [Por Que Te Vas](https://open.spotify.com/track/3ygcJRUQlV2SqiB6pBFkQB) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [El Joan](https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ) | [Por Que Te Vas](https://open.spotify.com/album/4fOw7oDBIX0p35fWZlw2XP) | 3:27 |

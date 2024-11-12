@@ -1,12 +1,12 @@
 {
   "description": "This is Aitana. The essential tracks, all in one playlist.",
-  "num_followers": 203177,
+  "num_followers": 203187,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy6mAAAAAABcoxq3X0TuvOCDFAvsREgp",
+  "snapshot_id": "Zy/3gAAAAABJ4BqLWO8j3Aj1ydEE0307",
   "tracks": [
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hermosa Casualidad",
-        "url": "https://open.spotify.com/album/2MvYDDD4PwJZHKZM7YyvZj"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 205779,
-      "name": "Hermosa Casualidad",
-      "url": "https://open.spotify.com/track/2dtxMxo4srf1VXy6fPkadI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aunque No Sea Conmigo",
         "url": "https://open.spotify.com/album/1nv68APHpQMhYtlqln442M"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 179648,
       "name": "Aunque No Sea Conmigo",
       "url": "https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hermosa Casualidad",
+        "url": "https://open.spotify.com/album/2MvYDDD4PwJZHKZM7YyvZj"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 205779,
+      "name": "Hermosa Casualidad",
+      "url": "https://open.spotify.com/track/2dtxMxo4srf1VXy6fPkadI"
     },
     {
       "added_at": null,
@@ -959,6 +959,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TEL\u00c9FONO",
+        "url": "https://open.spotify.com/album/3hgpPBjZ7yR1yHyrVEngZL"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 163293,
+      "name": "TEL\u00c9FONO",
+      "url": "https://open.spotify.com/track/5h8VHxOBK1VWWj46T8fSly"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coldplay",
         "url": "https://open.spotify.com/album/10rK1UDegx1LEDnbswIkTk"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 183920,
       "name": "Coldplay",
       "url": "https://open.spotify.com/track/1aaACV8X5g9coHgXLlEfIX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TEL\u00c9FONO",
-        "url": "https://open.spotify.com/album/3hgpPBjZ7yR1yHyrVEngZL"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 163293,
-      "name": "TEL\u00c9FONO",
-      "url": "https://open.spotify.com/track/5h8VHxOBK1VWWj46T8fSly"
     },
     {
       "added_at": null,

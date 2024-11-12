@@ -6164,7 +6164,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 208960,
       "name": "illusion",
       "url": "https://open.spotify.com/track/4XCAlLo7g42LPo75r5NCp5"
@@ -10180,6 +10180,24 @@
       "duration_ms": 160466,
       "name": "Rawww",
       "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
+    },
+    {
+      "album": {
+        "name": "Red Flag",
+        "url": "https://open.spotify.com/album/5NplbE4HAUdejPhDiHsylB"
+      },
+      "artists": [
+        {
+          "name": "verycoybunny",
+          "url": "https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190706,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/3aIQnhaDEZbLOSbos64xXP"
     },
     {
       "album": {

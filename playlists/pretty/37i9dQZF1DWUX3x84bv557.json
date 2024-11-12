@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Nederlandse pop! Cover:  Hannah Mae",
-  "num_followers": 164265,
+  "num_followers": 164275,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy1GcAAAAADEZpBKbhnA7vUY5CIu5Vmb",
+  "snapshot_id": "ZzHbewAAAAB6cwa3GBWLWYMMYv84iJvl",
   "tracks": [
     {
       "added_at": "2024-11-07 23:00:00",
@@ -103,6 +103,26 @@
       "duration_ms": 122701,
       "name": "Alweer Verliefd",
       "url": "https://open.spotify.com/track/4MeiWck3WGPwUtIoQWAh8b"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Astronaut",
+        "url": "https://open.spotify.com/album/3OJUGbfMGKDOaja2AQilRu"
+      },
+      "artists": [
+        {
+          "name": "Isab\u00e8l Usher",
+          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+        },
+        {
+          "name": "Fresku",
+          "url": "https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10"
+        }
+      ],
+      "duration_ms": 200454,
+      "name": "Diepe Dalen",
+      "url": "https://open.spotify.com/track/106B2gp2qiLgO7V010oR66"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -219,6 +239,26 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Verloren",
+        "url": "https://open.spotify.com/album/5eNmNrU1NDOtAqWPTAJoAi"
+      },
+      "artists": [
+        {
+          "name": "Ginger",
+          "url": "https://open.spotify.com/artist/3mrOynKrihp03WXLtootoD"
+        },
+        {
+          "name": "Jaap Goud",
+          "url": "https://open.spotify.com/artist/0kY3JTHPCakGx8ydflXOyR"
+        }
+      ],
+      "duration_ms": 161431,
+      "name": "Verloren",
+      "url": "https://open.spotify.com/track/65pxNsz5Kcap7xTE4e9eJp"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Onder Mijn Huid",
         "url": "https://open.spotify.com/album/26sxmbUvqKpa88X0XzoeWR"
       },
@@ -279,26 +319,6 @@
       "duration_ms": 174957,
       "name": "De Laatste Keer Dat Ik Huil",
       "url": "https://open.spotify.com/track/1IFzQTzO3M8TFkGEX8NxtR"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Astronaut",
-        "url": "https://open.spotify.com/album/3OJUGbfMGKDOaja2AQilRu"
-      },
-      "artists": [
-        {
-          "name": "Isab\u00e8l Usher",
-          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
-        },
-        {
-          "name": "Fresku",
-          "url": "https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10"
-        }
-      ],
-      "duration_ms": 200454,
-      "name": "Diepe Dalen",
-      "url": "https://open.spotify.com/track/106B2gp2qiLgO7V010oR66"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -367,26 +387,6 @@
       "duration_ms": 182606,
       "name": "Idool",
       "url": "https://open.spotify.com/track/3UHc8kTAiUhWvUDcHBIzyD"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Verloren",
-        "url": "https://open.spotify.com/album/5eNmNrU1NDOtAqWPTAJoAi"
-      },
-      "artists": [
-        {
-          "name": "Ginger",
-          "url": "https://open.spotify.com/artist/3mrOynKrihp03WXLtootoD"
-        },
-        {
-          "name": "Jaap Goud",
-          "url": "https://open.spotify.com/artist/0kY3JTHPCakGx8ydflXOyR"
-        }
-      ],
-      "duration_ms": 161431,
-      "name": "Verloren",
-      "url": "https://open.spotify.com/track/65pxNsz5Kcap7xTE4e9eJp"
     },
     {
       "added_at": "2024-11-07 23:00:00",

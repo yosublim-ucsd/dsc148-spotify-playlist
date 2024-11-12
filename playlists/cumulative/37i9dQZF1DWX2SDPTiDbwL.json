@@ -1901,6 +1901,24 @@
     },
     {
       "album": {
+        "name": "Tu Belleza Me Conmueve",
+        "url": "https://open.spotify.com/album/36NgnG3aFUkeK6e9y71j3e"
+      },
+      "artists": [
+        {
+          "name": "Pen\u00e9lope Diaz",
+          "url": "https://open.spotify.com/artist/2LDBNTLWlHsBYpstmWFZth"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200885,
+      "name": "Tu Belleza Me Conmueve",
+      "url": "https://open.spotify.com/track/55onRB7WnEqgzHtt6yK6r5"
+    },
+    {
+      "album": {
         "name": "Tu Perfume",
         "url": "https://open.spotify.com/album/6wv3yqEeD4XuUBmoYNLeKS"
       },

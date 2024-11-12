@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-1,391 songs - 3 day 3 hr 40 min
+1,393 songs - 3 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [Finally](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Finally](https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft) | 3:35 | 2024-08-30 | 2024-09-06 |
 | [Find The Answer](https://open.spotify.com/track/6YQOLA4c8h9eHwx7dCqrAf) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Find The Answer](https://open.spotify.com/album/1wx3FAYqfHFxsn4INeeaee) | 3:13 | 2024-08-08 | 2024-08-16 |
 | [Find The Way](https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Find The Way](https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN) | 3:57 | 2024-08-16 | 2024-08-24 |
+| [Find You](https://open.spotify.com/track/0goiLLIT8nuiuHHADZNT0E) | [Mala'kai](https://open.spotify.com/artist/5yrQaGtBMRudJctcPQtTE5), [Joey.O](https://open.spotify.com/artist/1FEx9QXXkxH63WbNHvAYii) | [Find You](https://open.spotify.com/album/6bPcmtGdwa8lQWjAsUoZD2) | 3:55 | 2024-11-11 |  |
 | [Finding My Way \(DJ\-Kicks\)](https://open.spotify.com/track/72xVoIJNScwjYTIMsZxgnf) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM) | [DJ\-Kicks: Honey Dijon](https://open.spotify.com/album/5H5Pm87tI6EAnrtIBVP4Zx) | 4:13 | 2024-10-21 | 2024-10-26 |
 | [Fire It Up](https://open.spotify.com/track/0cleJMuGKGeA65qYypc6Ch) | [The Kudu](https://open.spotify.com/artist/4MpZp62IK0JU1LLxJtLbpJ), [Mylo](https://open.spotify.com/artist/4cZHqxNseNd2knwVE7LoGD), [Biometrix](https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2) | [Fire It Up](https://open.spotify.com/album/0MDY99vMQyXg9OlRHcZ07f) | 3:06 | 2024-10-01 | 2024-10-04 |
 | [Firestarter](https://open.spotify.com/track/40zrIbnQI3a3JRUvlKqoHT) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Firestarter](https://open.spotify.com/album/6IDyDOPO6hJIe5l2zZXe7h) | 3:04 | 2024-09-13 | 2024-09-21 |
@@ -622,6 +623,7 @@
 | [Into the Light](https://open.spotify.com/track/2YDbEmFpqUMU5W0PgR8o5d) | [DILA](https://open.spotify.com/artist/4rxmucZACZbMHsN6TTec9p) | [Into the Light](https://open.spotify.com/album/3tJarh4XRSviRKToAyo3Va) | 3:44 | 2024-10-01 | 2024-10-05 |
 | [Into The Light](https://open.spotify.com/track/3bqYzYM51Xs0r6OE9g97HQ) | [KOTA](https://open.spotify.com/artist/6ITAoEms3oFqutCE1H3dyk) | [Into The Light](https://open.spotify.com/album/3Wt2JS94f9LgFMS8coXoMG) | 6:24 | 2024-09-06 | 2024-09-13 |
 | [Intuition](https://open.spotify.com/track/4fBG1WOKM01uzY0ifOMQtd) | [Daxson](https://open.spotify.com/artist/4WwMR8h0vztJLNgiL5ZFqW) | [Intuition](https://open.spotify.com/album/2lpebUJmjCJASX1b9Iu29Q) | 2:57 | 2024-10-04 | 2024-10-12 |
+| [Invincible](https://open.spotify.com/track/37TKR2Tf5snvJlUnSzlzvr) | [LouCii](https://open.spotify.com/artist/73gzMHDw96YKOzD8OfwxaE), [Rackelle](https://open.spotify.com/artist/5RUZSiHlbdwSjfPqfGA036) | [Invincible](https://open.spotify.com/album/2XVGzfWtOkgJX0Gc2YnlAo) | 3:18 | 2024-11-11 |  |
 | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/track/49R5Hdo99MQJrkSNUI3XGY) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M), [Naomi Westlake](https://open.spotify.com/artist/6VmEzQSpeEOCSvUdCp8tml) | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/album/6e3Y47Vphq2lIEn0L8Zkqw) | 3:10 | 2024-07-12 | 2024-07-19 |
 | [Iris](https://open.spotify.com/track/604csdosSsu81iT1E1MsVx) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE) | [Iris](https://open.spotify.com/album/3ZZzYMQiFBrAq1rgtjfBKP) | 2:54 | 2024-08-23 | 2024-08-31 |
 | [Is this a dream?](https://open.spotify.com/track/5Uc4lFuLehruhbkgLcErrs) | [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ), [Don Jamal](https://open.spotify.com/artist/3b1DIrWDwR8A5gxBgWt0DV) | [Is this a dream?](https://open.spotify.com/album/7v80FGDLXpH7NublQR44NB) | 2:16 | 2024-08-30 | 2024-09-06 |

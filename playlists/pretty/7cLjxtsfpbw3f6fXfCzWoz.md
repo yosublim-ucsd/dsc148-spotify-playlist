@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7cLjxtsfpbw3f6fXfCzWoz.md) - [plain]
 
 > For the bisexuals.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 56 songs - 3 hr 16 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 57 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,5 +64,6 @@ pretty - [cumulative](/playlists/cumulative/7cLjxtsfpbw3f6fXfCzWoz.md) - [plain]
 | 54 | [Sending Postcards From a Plane Crash \(Wish You Were Here\)](https://open.spotify.com/track/6myPy86FHUBJsFi7RAWp5Y) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 2:56 |
 | 55 | [Bang The Doldrums](https://open.spotify.com/track/1Fvf8AO4GWwjLU12Im0s0q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:31 |
 | 56 | [I've Got All This Ringing In My Ears And None On My Fingers](https://open.spotify.com/track/1CRVvwUopaV42bAEvoh194) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 4:06 |
+| 57 | [Going to Marrakesh](https://open.spotify.com/track/0FPsI1Ar6bKOkqKibt075r) | [The Extra Glenns](https://open.spotify.com/artist/3A59qAssw3Kwyrvy96NMCz) | [Martial Arts Weekend](https://open.spotify.com/album/4gJvpXol0SU06gUqMGGqK5) | 2:47 |
 
-Snapshot ID: `AAAARHX9SpXJUSrDz6xjKhMARrYcICAZ`
+Snapshot ID: `AAAARQa2hBA64dwbQ8qzW49JZ3DnXR0S`

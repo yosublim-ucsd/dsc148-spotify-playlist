@@ -573,6 +573,36 @@
     },
     {
       "album": {
+        "name": "Dil Ghabraye (From \"I Want To Talk\")",
+        "url": "https://open.spotify.com/album/6hAFLXjEQvPhj1zmZoDA4r"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        },
+        {
+          "name": "Sasha Alahm",
+          "url": "https://open.spotify.com/artist/4mMEwLhk5jZcK54yo3dCsK"
+        },
+        {
+          "name": "Dibakar Basumatary",
+          "url": "https://open.spotify.com/artist/0ikzExyz0FYevjszpRGOYg"
+        },
+        {
+          "name": "Dr. Tamachi Marina Taba",
+          "url": "https://open.spotify.com/artist/03m94pDeggOmctdZfxBpDw"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253973,
+      "name": "Dil Ghabraye (From \"I Want To Talk\")",
+      "url": "https://open.spotify.com/track/6Or8GnbeZSnqN4CnKVSuqn"
+    },
+    {
+      "album": {
         "name": "Good Newwz",
         "url": "https://open.spotify.com/album/1Se33DZWNZ1OkrqbOf1K3u"
       },
@@ -2998,7 +3028,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 246549,
       "name": "Teri Meri Kahaani - Palak Muchhal Version",
       "url": "https://open.spotify.com/track/6uEbvt1WwnR5k7qtS2Qru7"

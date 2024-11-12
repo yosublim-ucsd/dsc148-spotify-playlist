@@ -793,6 +793,32 @@
     },
     {
       "album": {
+        "name": "Directors Cut 4",
+        "url": "https://open.spotify.com/album/0dp06Yn0DusNEeKYNX3zuv"
+      },
+      "artists": [
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "King Shadrock",
+          "url": "https://open.spotify.com/artist/2v7ScxogU6GrBiGgF5aLVj"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184202,
+      "name": "Freedom (feat. King Shadrock)",
+      "url": "https://open.spotify.com/track/6Z1SqNXvqjeQ4j1HVqsicz"
+    },
+    {
+      "album": {
         "name": "Craven N",
         "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
       },

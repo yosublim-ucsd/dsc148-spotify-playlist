@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ?si=wUNYIxQUS9OVGCr6nIqucw">Jemma Catherine</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,594 likes - 91 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,612 likes - 91 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

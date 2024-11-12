@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-586 songs - 1 day 15 hr 34 min
+587 songs - 1 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Before](https://open.spotify.com/track/1R0Q2qjI1YoViP4O3QDr31) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 4:28 | 2023-09-25 | 2023-10-27 |
 | [Before](https://open.spotify.com/track/55stf0i4B9KxBNfasksfx4) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Before](https://open.spotify.com/album/3Bdi9ZTTSMOAZFvRIny7xp) | 4:28 | 2023-09-25 | 2024-05-13 |
 | [Before](https://open.spotify.com/track/6JNSKF9Nsnhb4gNHskBt42) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 4:28 | 2023-09-25 | 2024-04-19 |
+| [Before We Begin](https://open.spotify.com/track/0zb5S00x0wtxOnsOc7nCLU) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Haha Sound](https://open.spotify.com/album/3AUkbuxvj1fH2jkbWI2gzn) | 3:22 | 2023-01-17 |  |
 | [Before We Begin](https://open.spotify.com/track/4yx0aYJgnWIy18akJtxmON) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Haha Sound](https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP) | 3:22 | 2023-01-17 | 2024-04-19 |
 | [Behind the Backs of Houses](https://open.spotify.com/track/2m1iKwWyFR49YOVUpX6FG0) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Behind the Backs of Houses](https://open.spotify.com/album/1s8AIgVgFsMkigJlEz23ht) | 6:38 | 2023-01-17 |  |
 | [Believe](https://open.spotify.com/track/76ekLbfyuNyUFqTwr7qVLd) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Believe](https://open.spotify.com/album/5H95zxOs0ctqostVPsULG1) | 3:22 | 2023-01-17 | 2024-07-02 |
@@ -210,7 +211,7 @@
 | [Heart of Gold](https://open.spotify.com/track/3rVbE0KZ8N26C9yn6PonQ0) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 2:51 | 2023-01-17 | 2024-04-19 |
 | [Hearts](https://open.spotify.com/track/45WQw8pRflVEiO0iW1MBno) | [Nari](https://open.spotify.com/artist/3aetvKAJdTvsNmeoCHpUKl) | [Hearts](https://open.spotify.com/album/1TjnaFhP1lDhYrqlSQvsDt) | 2:50 | 2023-01-17 |  |
 | [Heavenly](https://open.spotify.com/track/70YTBH8vOGJNMhy6186yFm) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:46 | 2023-01-17 | 2024-04-19 |
-| [Heavenly](https://open.spotify.com/track/0M6TLjxixptslrmQpWbRoR) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Heavenly](https://open.spotify.com/album/3cgFq282Yi9czapuam0DwB) | 4:48 | 2023-01-17 |  |
+| [Heavenly](https://open.spotify.com/track/0M6TLjxixptslrmQpWbRoR) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Heavenly](https://open.spotify.com/album/3cgFq282Yi9czapuam0DwB) | 4:48 | 2023-01-17 | 2024-11-12 |
 | [Heavenly](https://open.spotify.com/track/1Bh0UzthW8pKEnYg7v40Oa) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:48 | 2023-01-17 | 2023-09-21 |
 | [Help Me Help Myself](https://open.spotify.com/track/0ZIllgA4WQsH2dSCUCAdRb) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Help Me Help Myself](https://open.spotify.com/album/4CvsRCXktnzHYXgt2qsLSn) | 3:35 | 2023-01-17 |  |
 | [Here in the Dark](https://open.spotify.com/track/312rd2c4ALzMJ0nbbie6Pg) | [Aoife Nessa Frances](https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX) | [Land of No Junction](https://open.spotify.com/album/10QaSb6RScjUha6Wkeu1Km) | 5:26 | 2023-01-17 |  |
@@ -267,7 +268,7 @@
 | [Island](https://open.spotify.com/track/3fxMi0laJrBPDJZY3obc0u) | [Emilie Kahn](https://open.spotify.com/artist/5m2lu7cT7DE9J21Guso5EO) | [Island](https://open.spotify.com/album/4YZCf3X7sL1yjWxQCsOrRS) | 4:10 | 2023-01-17 | 2024-08-19 |
 | [It Hurts](https://open.spotify.com/track/4vMCeNc8dsCJN4ITQK2NoQ) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Pocket Fantasy](https://open.spotify.com/album/2N2BoaufVpptqS6LbtuEJ1) | 3:23 | 2023-01-17 | 2024-04-19 |
 | [It's All About You](https://open.spotify.com/track/4RfIfFS2D4E9tVjuHFlAJF) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [It's All About You](https://open.spotify.com/album/38mNfogFOWzoGS4h8S4OfZ) | 3:20 | 2023-01-17 | 2024-04-19 |
-| [It's Not Just Me, It's Everybody](https://open.spotify.com/track/2OcLJRW0pTyYAxT43N5ccm) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [It's Not Just Me, It's Everybody](https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR) | 6:16 | 2023-01-17 | 2024-08-31 |
+| [It's Not Just Me, It's Everybody](https://open.spotify.com/track/2OcLJRW0pTyYAxT43N5ccm) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [It's Not Just Me, It's Everybody](https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR) | 6:16 | 2023-01-17 |  |
 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:16 | 2023-01-17 | 2024-04-19 |
 | [Jealousy](https://open.spotify.com/track/0t2CHswC5RVBRq7qvWBU4j) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Jealousy](https://open.spotify.com/album/2YWbrv6MAlIB234w61w3vR) | 3:36 | 2023-01-17 |  |
 | [Jennifer](https://open.spotify.com/track/2ngc5mFakdLVt3xFcNHqQW) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Morningside](https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB) | 4:00 | 2023-01-17 | 2024-04-19 |
@@ -406,7 +407,7 @@
 | [Rocky Trail](https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:30 | 2023-01-17 | 2024-04-19 |
 | [Rocky Trail](https://open.spotify.com/track/5xKHD7mTnrCgy4SN1Y1jK3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Rocky Trail](https://open.spotify.com/album/608ZymCmVta7bY6ZYjRU3j) | 3:30 | 2023-01-17 | 2024-11-06 |
 | [Romance](https://open.spotify.com/track/6OekrDohNUa6lMUQ6UWy1l) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Ex:Re](https://open.spotify.com/album/30sddBZ6VjuOkhIXvdE0Pw) | 6:43 | 2023-01-17 | 2024-04-19 |
-| [Romance](https://open.spotify.com/track/7Ky78y9gxAKlujRin3vzZf) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Ex:Re](https://open.spotify.com/album/2TzaLffI6wNpSstYdP07bv) | 6:43 | 2023-01-17 |  |
+| [Romance](https://open.spotify.com/track/7Ky78y9gxAKlujRin3vzZf) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Ex:Re](https://open.spotify.com/album/2TzaLffI6wNpSstYdP07bv) | 6:43 | 2023-01-17 | 2024-11-12 |
 | [Room Temperature](https://open.spotify.com/track/6TPTnROcnJQXuAyRDw2qfu) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 4:04 | 2023-01-17 | 2024-04-19 |
 | [Rooting For You](https://open.spotify.com/track/5MHmD8cfTbudNLTWYA5QHJ) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Rooting For You](https://open.spotify.com/album/3dt7LAPk6cqCfYWwpSqVt9) | 4:29 | 2023-01-17 | 2024-10-10 |
 | [Rooting For You](https://open.spotify.com/track/0HFCw1viBRc2siCdkjL86P) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Truth Is a Beautiful Thing \(Deluxe\)](https://open.spotify.com/album/2czuN6tZcR5ebpuK9A1Vur) | 4:29 | 2023-01-17 | 2024-04-19 |

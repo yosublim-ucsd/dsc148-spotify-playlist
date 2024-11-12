@@ -159,6 +159,24 @@
     },
     {
       "album": {
+        "name": "Agapi Mou Me Dioxneis",
+        "url": "https://open.spotify.com/album/5WlF9YZekzepjqsncoD8LR"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170257,
+      "name": "Agapi Mou Me Dioxneis",
+      "url": "https://open.spotify.com/track/4u4kVeDK1ru1ekntEKL7OA"
+    },
+    {
+      "album": {
         "name": "P.O.P.",
         "url": "https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb"
       },
@@ -357,6 +375,28 @@
     },
     {
       "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "album": {
         "name": "Aristourgima",
         "url": "https://open.spotify.com/album/0TO9uhMi63ToVh6tU330LF"
       },
@@ -518,7 +558,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
@@ -860,7 +900,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 180273,
       "name": "Dame Fuego",
       "url": "https://open.spotify.com/track/0dvNH2vkKm6hPzgy9Puz89"
@@ -1034,7 +1074,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 135813,
       "name": "Doner Kebab Nacho Alejandro Garnacho",
       "url": "https://open.spotify.com/track/1WVCZ2CaupXNyG0csSwXJi"
@@ -1194,7 +1234,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 234997,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
@@ -1547,6 +1587,24 @@
     },
     {
       "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
+      },
+      "artists": [
+        {
+          "name": "The American Dawn",
+          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214086,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
+    },
+    {
+      "album": {
         "name": "Her Eyes",
         "url": "https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by"
       },
@@ -1721,6 +1779,28 @@
     },
     {
       "album": {
+        "name": "Jom Merzit",
+        "url": "https://open.spotify.com/album/3324lZ1bO4TPFJbpHUoGFD"
+      },
+      "artists": [
+        {
+          "name": "Bay T",
+          "url": "https://open.spotify.com/artist/4wHxpv3EOHvVgEnTyjEOOW"
+        },
+        {
+          "name": "Buci",
+          "url": "https://open.spotify.com/artist/4peir2ldypyS94wsZ7dOVn"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180618,
+      "name": "Jom Merzit",
+      "url": "https://open.spotify.com/track/42FV8j2Okn5LNiAiQwyUAG"
+    },
+    {
+      "album": {
         "name": "Me Lene Mani",
         "url": "https://open.spotify.com/album/1EGb6YdddYRERk0zZrn3ft"
       },
@@ -1758,7 +1838,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 237908,
       "name": "KINTSUGI",
       "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
@@ -1852,7 +1932,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 222786,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/2fr3zUXQFLztUhpfBu6Wpq"
@@ -2092,6 +2172,32 @@
       "duration_ms": 157227,
       "name": "MBAPPE",
       "url": "https://open.spotify.com/track/0MNvjSqNtUCZ4ikxrRe8kz"
+    },
+    {
+      "album": {
+        "name": "Menina de Vermelho",
+        "url": "https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s"
+      },
+      "artists": [
+        {
+          "name": "MC Menor JP",
+          "url": "https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU"
+        },
+        {
+          "name": "RAMONMIX",
+          "url": "https://open.spotify.com/artist/0VG8uPYk0ymnDxundrTGZK"
+        },
+        {
+          "name": "The Ironix",
+          "url": "https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151348,
+      "name": "Menina de Vermelho",
+      "url": "https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i"
     },
     {
       "album": {
@@ -2667,6 +2773,24 @@
     },
     {
       "album": {
+        "name": "Ousia",
+        "url": "https://open.spotify.com/album/0RYLaTL1YzdDKtda4nX6Fc"
+      },
+      "artists": [
+        {
+          "name": "Ellize",
+          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142166,
+      "name": "Ousia",
+      "url": "https://open.spotify.com/track/2BsP53xyo5Nf3HrBbnF0tA"
+    },
+    {
+      "album": {
         "name": "Out Here Drinking (\u03c0\u03bf\u03cd \u03c0\u03bf\u03cd \u03c0\u03bf\u03cd)",
         "url": "https://open.spotify.com/album/1VUjsKymUU3jGwLmC8aC1m"
       },
@@ -2912,6 +3036,28 @@
       "duration_ms": 233009,
       "name": "Romanzo Criminale",
       "url": "https://open.spotify.com/track/3nwkz9CX6H0Qie8ehtmyON"
+    },
+    {
+      "album": {
+        "name": "Yaya Winter Collection",
+        "url": "https://open.spotify.com/album/78Xq6DxsgcCzfijf4bZ4jD"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        },
+        {
+          "name": "Lele",
+          "url": "https://open.spotify.com/artist/1vVemTBdqWTcJ0zCc0Oa6G"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187062,
+      "name": "Rupe Rupe Rupe Tot",
+      "url": "https://open.spotify.com/track/6vdg09ymGHSJStnteKsMRy"
     },
     {
       "album": {
@@ -3272,7 +3418,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 174723,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ"
@@ -3298,7 +3444,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 143046,
       "name": "TELESCOPE",
       "url": "https://open.spotify.com/track/2vhyG6wMN64nlNakXJeKZ1"
@@ -3342,6 +3488,24 @@
       "duration_ms": 252428,
       "name": "Thalasses",
       "url": "https://open.spotify.com/track/65ovXhEwAYBP8kMm6lfVXR"
+    },
+    {
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
       "album": {

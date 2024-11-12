@@ -4,7 +4,7 @@
 
 > This is Miriam Makeba\. The essential tracks, all in one playlist.
 
-180 songs - 9 hr 23 min
+181 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Orlando](https://open.spotify.com/track/4isUhPHQte4HEuqOe9tNbl) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [The Skylarks](https://open.spotify.com/artist/66PMwwbTtl5mVtfSuT4roV) | [The Very Best Of \(1956 \- 1959\)](https://open.spotify.com/album/1V3SRMqXbc88d2SNFFe6TP) | 2:44 | 2021-12-31 | 2022-06-04 |
 | [Owakho](https://open.spotify.com/track/7amH9rFV6MuE47dU0ujir4) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sound of South Africa](https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i) | 2:40 | 2023-04-28 | 2023-07-26 |
 | [Oxgam](https://open.spotify.com/track/6wdx59FeWbzHJOwrYkEMfJ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Magic Of Makeba](https://open.spotify.com/album/3tSc0xHT9dlq12Ca78J6Lf) | 2:01 | 2021-12-28 |  |
+| [Pata Pata \- Live Jazz in Nice](https://open.spotify.com/track/3gyzGPlYebGPj5pBDiJKnX) | [Francia Jazzline Orchestra](https://open.spotify.com/artist/274yfzdE09hEQqIrhZ9adO), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Cocktail Martini vol\. 2](https://open.spotify.com/album/66TxD1gKSbd1zcsaD2YB8g) | 3:46 | 2024-11-12 |  |
 | [Pata Pata \- Stereo Version](https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 3:00 | 2021-12-28 |  |
 | [Pata Pata 2000](https://open.spotify.com/track/3Q6teQgxvr6a2qZUvEOglf) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Homeland](https://open.spotify.com/album/7rpMuQI334lB7NK6fPUZPu) | 3:49 | 2022-04-27 | 2024-05-28 |
 | [Pata\-Pata \(feat\. Miriam Makeba\)](https://open.spotify.com/track/3BcQp5aLCDx1XdHmB6pyjE) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 4:15 | 2021-12-31 |  |
@@ -154,7 +155,7 @@
 | [Thank You Mama](https://open.spotify.com/track/4Ln1AwNBuDbtpo6K63T4bw) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Leleti Khumalo](https://open.spotify.com/artist/70AhV3ZFgTlWWFifcVf2BT) | [Sarafina! The Sound Of Freedom](https://open.spotify.com/album/2lumpSO6GsjUwZhvIto0Mp) | 4:24 | 2022-06-21 |  |
 | [The Click Song](https://open.spotify.com/track/329ss78X6RxaEa6iN1SsH8) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Click Song](https://open.spotify.com/album/660kKC1wgzwtHYOn5aza9N) | 2:33 | 2021-12-30 |  |
 | [The Click Song a.k.a\. Qongqothwane](https://open.spotify.com/track/1MC8rGCbqEIeeCRSwjz3Gj) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/5HPe4HG9qPl6ldZo8eEyoy) | 4:54 | 2021-12-28 | 2022-10-09 |
-| [The Click Song a.k.a\. Qongqothwane](https://open.spotify.com/track/3hEjs6cSbz0lULe5HCZuhL) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn) | 4:54 | 2022-10-09 |  |
+| [The Click Song a.k.a\. Qongqothwane](https://open.spotify.com/track/3hEjs6cSbz0lULe5HCZuhL) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn) | 4:54 | 2022-10-09 | 2024-11-12 |
 | [The Lion Cries \- Mbube](https://open.spotify.com/track/6YQouQ4X59d2yc0ij92JY6) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Country Girl](https://open.spotify.com/album/5eNlR91mGGOR0DjLXC8KEF) | 5:00 | 2022-01-25 | 2024-06-25 |
 | [The Lion Sleeps Tonight \(Mbube\)](https://open.spotify.com/track/2lj10RweUv9XVv9jObBBMV) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sound of South Africa](https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i) | 2:33 | 2023-03-12 | 2024-08-24 |
 | [The Naughty Little Flea](https://open.spotify.com/track/2tpTYvXlFQsGGgU3Ka1Jhb) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba](https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n) | 3:46 | 2022-03-20 | 2024-03-21 |

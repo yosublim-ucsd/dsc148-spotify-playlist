@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean\. Cover: Alison Hinds
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,346 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,386 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 74 | [Chances](https://open.spotify.com/track/6mfmJdM4mPoxvzI7iu5SKW) | [Blue Ventures Feat\. Sanell Dampster](https://open.spotify.com/artist/4GaGAbL4FSXAKhd21dIW8k) | [Soca Gold 2002](https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM) | 3:51 |
 | 75 | [Thelma](https://open.spotify.com/track/5ZPN4WWRRN0R0QavqpVV7i) | [South South West](https://open.spotify.com/artist/6JTWIfYtpMTuFSxy3Un39Y) | [Soca Gold 2002](https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM) | 4:15 |
 | 76 | [Wave Wid Me](https://open.spotify.com/track/3IOvWPwF1PXTD4OQ5no45s) | [Alison Hinds Feat\. Peter Ram](https://open.spotify.com/artist/0gYHXEkG3aYljrsqtiBcbq) | [Soca Gold 2002](https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM) | 3:39 |
-| 77 | [Ministry of Road \(M.O.R.\)](https://open.spotify.com/track/7Chtw84YyHlnO3XUrlowBu) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf) | 3:59 |
+| 77 | [Big Truck](https://open.spotify.com/track/2YH84hlyInKrhJupJQMGtj) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Heavy Duty](https://open.spotify.com/album/4rw2BiS4oNLnrHuT5drVs7) | 4:10 |
 | 78 | [Bitein Incex \(we Love De\)](https://open.spotify.com/track/1h9CmOE1tIRtU3kUYZpkB5) | [Lovey](https://open.spotify.com/artist/2z72I5D1aakIVygNC7IAQV) | [Soca Gold 2002](https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM) | 4:13 |
 | 79 | [Chutney Bachannal](https://open.spotify.com/track/0TNFNPM8DtDuzQtak9FirP) | [Byron Lee & The Dragonaires](https://open.spotify.com/artist/1akUOJhf77cbKJveLHgxpy) | [Soca Engine](https://open.spotify.com/album/5wfAK9kuhW8WcVjr5eiKGv) | 3:03 |
 | 80 | [Hold Ya Bam Bam](https://open.spotify.com/track/5AQbcTkvpl8irCdFOjF71f) | [Speady](https://open.spotify.com/artist/343Fose6Dkb6U8yTvVYttG) | [Soca 101 Vol.1](https://open.spotify.com/album/111Eu8ZNJ4IaHd9HJppqZG) | 4:52 |

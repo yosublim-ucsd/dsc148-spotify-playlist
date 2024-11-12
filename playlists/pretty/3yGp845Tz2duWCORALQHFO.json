@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25776,
+  "num_followers": 25777,
   "original_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABhYmMmMJFNYB/0trVEW+6EkrIo7DpO",
+  "snapshot_id": "AABhZKEgJXePehiMoTpOlbkvfMjRXQ5v",
   "tracks": [
     {
       "added_at": "2024-11-08 13:13:34",
@@ -87,6 +87,26 @@
       "duration_ms": 146341,
       "name": "Tantalizing",
       "url": "https://open.spotify.com/track/799db91cR00On6N158VLHS"
+    },
+    {
+      "added_at": "2024-11-11 07:54:51",
+      "album": {
+        "name": "Find You",
+        "url": "https://open.spotify.com/album/6bPcmtGdwa8lQWjAsUoZD2"
+      },
+      "artists": [
+        {
+          "name": "Mala'kai",
+          "url": "https://open.spotify.com/artist/5yrQaGtBMRudJctcPQtTE5"
+        },
+        {
+          "name": "Joey.O",
+          "url": "https://open.spotify.com/artist/1FEx9QXXkxH63WbNHvAYii"
+        }
+      ],
+      "duration_ms": 235862,
+      "name": "Find You",
+      "url": "https://open.spotify.com/track/0goiLLIT8nuiuHHADZNT0E"
     },
     {
       "added_at": "2024-11-08 13:13:34",
@@ -363,6 +383,26 @@
       "duration_ms": 379929,
       "name": "Awake",
       "url": "https://open.spotify.com/track/1D74jVHpSjBnPSPeCRHzB4"
+    },
+    {
+      "added_at": "2024-11-11 07:55:52",
+      "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/2XVGzfWtOkgJX0Gc2YnlAo"
+      },
+      "artists": [
+        {
+          "name": "LouCii",
+          "url": "https://open.spotify.com/artist/73gzMHDw96YKOzD8OfwxaE"
+        },
+        {
+          "name": "Rackelle",
+          "url": "https://open.spotify.com/artist/5RUZSiHlbdwSjfPqfGA036"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/37TKR2Tf5snvJlUnSzlzvr"
     },
     {
       "added_at": "2024-11-08 13:13:34",

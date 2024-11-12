@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-639 songs - 1 day 11 hr 2 min
+640 songs - 1 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Clueless](https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Clueless](https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3) | 3:28 | 2024-09-30 |  |
 | [cold weather](https://open.spotify.com/track/50u2y4zgROMZq2db8Qx94B) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [the first glass beach album](https://open.spotify.com/album/5GOoswCqZQiq9gbjSHkzMq) | 2:18 | 2022-07-29 | 2023-06-01 |
 | [Collect Call](https://open.spotify.com/track/75zV0Nc4cnupY4QXbKRzN7) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [From Mexico with Love](https://open.spotify.com/album/3qSSoMApIWkXTmCn4IaC30) | 2:56 | 2022-11-07 | 2023-03-25 |
+| [Colourblind](https://open.spotify.com/track/5q1Zaz0jxxPPrU67ddj0us) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Colourblind](https://open.spotify.com/album/47vmh3q3TOtDdLTJPvd9Yk) | 2:44 | 2024-10-18 |  |
 | [Come Alive](https://open.spotify.com/track/2TvwhdrUqEDUg0Z7LOmUOd) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Come Alive](https://open.spotify.com/album/4wCx7hQCIOVtuN3DkNGhYm) | 4:13 | 2024-09-30 |  |
 | [Come To The Beach](https://open.spotify.com/track/3cwrYbdU4eJkVXiH2USGid) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [Come To The Beach](https://open.spotify.com/album/7zvkLdqZGE4L68lf37t53G) | 2:58 | 2021-03-10 | 2023-03-29 |
 | [Coming of Age](https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Coming of Age](https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka) | 4:08 | 2021-03-10 |  |
@@ -595,7 +596,7 @@
 | [Used To Like](https://open.spotify.com/track/6CNvzo37dUI7baavVzEoxR) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Used To Like](https://open.spotify.com/album/0hb6xE0wFSBucS4BeDva5P) | 3:18 | 2021-03-10 | 2022-11-13 |
 | [Van Horn](https://open.spotify.com/track/4UgLRXh1z9NorzrdawpIgj) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [The Original Motion Picture Soundtrack: Pt\. 1](https://open.spotify.com/album/58m5trM2xJ9sXj49bjCAIg) | 2:41 | 2021-03-10 | 2022-07-29 |
 | [Van Horn](https://open.spotify.com/track/78bsqObGFUD5ntweePBhIY) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [The Original Motion Picture Soundtrack](https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe) | 2:41 | 2022-06-27 | 2024-04-19 |
-| [Vandalist](https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Vandalist](https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ) | 3:28 | 2024-05-05 |  |
+| [Vandalist](https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Vandalist](https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ) | 3:28 | 2024-05-05 | 2024-11-12 |
 | [Vienna \(Everything’s Fine\)](https://open.spotify.com/track/4MZkA1wOfqYclYkQt7MUEd) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Vienna \(Everything’s Fine\)](https://open.spotify.com/album/47wbE9QX926Oc3UIFAnKFQ) | 2:57 | 2024-10-18 |  |
 | [Vowels \(And the Importance of Being Me\)](https://open.spotify.com/track/2jE3wqMD0Btzsf3cxr0FhO) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Vowels \(And the Importance of Being Me\)](https://open.spotify.com/album/31igbA4aIGMPNt2JhEpLIo) | 3:04 | 2021-03-10 | 2022-07-29 |
 | [Vowels \(and the Importance of Being Me\)](https://open.spotify.com/track/2yfu1w0yFYHAHnr4p5JS7V) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Vowels \(and the Importance of Being Me\)](https://open.spotify.com/album/1OOkaBGx0j9nJS3agvXclR) | 3:04 | 2022-06-27 | 2022-07-30 |

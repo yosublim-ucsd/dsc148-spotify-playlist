@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 81301,
+  "num_followers": 81331,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "DUWML",
+        "url": "https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "duration_ms": 190869,
+      "name": "DUWML",
+      "url": "https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "KEEP IT ROLLING",
         "url": "https://open.spotify.com/album/4MpX9eNo7VVmunEY3BB6SH"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 199500,
       "name": "KEEP IT ROLLING",
       "url": "https://open.spotify.com/track/3QhcXyDh0zCqzh0tz1jWEF"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
-        "name": "DUWML",
-        "url": "https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1"
-      },
-      "artists": [
-        {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
-        }
-      ],
-      "duration_ms": 190869,
-      "name": "DUWML",
-      "url": "https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF"
     },
     {
       "added_at": "2024-10-24 23:00:00",

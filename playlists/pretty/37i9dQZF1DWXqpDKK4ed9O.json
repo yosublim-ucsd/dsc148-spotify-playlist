@@ -1,6 +1,6 @@
 {
   "description": "Tight Roll your jeans, break out the CK1, and set the mood...",
-  "num_followers": 3584911,
+  "num_followers": 3585156,
   "original_name": "90s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-07-12 19:31:17",
       "album": {
-        "name": "Back At One",
-        "url": "https://open.spotify.com/album/3QWvaUt6fJpYf9KqTPilPm"
-      },
-      "artists": [
-        {
-          "name": "Brian McKnight",
-          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
-        }
-      ],
-      "duration_ms": 262666,
-      "name": "Back At One",
-      "url": "https://open.spotify.com/track/0CjrIEPmqIKnBHy99hun3v"
-    },
-    {
-      "added_at": "2024-07-12 19:31:17",
-      "album": {
         "name": "Come On Over",
         "url": "https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 212560,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/7wCH9DbgRs7ujHeqNy6oAS"
+    },
+    {
+      "added_at": "2024-07-12 19:31:17",
+      "album": {
+        "name": "Back At One",
+        "url": "https://open.spotify.com/album/3QWvaUt6fJpYf9KqTPilPm"
+      },
+      "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "duration_ms": 262666,
+      "name": "Back At One",
+      "url": "https://open.spotify.com/track/0CjrIEPmqIKnBHy99hun3v"
     },
     {
       "added_at": "2024-07-12 19:31:17",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: Rebecca Black",
+  "description": "Dark, hard hitting pop. Cover: Stela Cole",
   "name": "SALT",
   "tracks": [
     {
@@ -1657,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/5Eg6oyQd5RJS7KuGooq5iJ"
+      },
+      "artists": [
+        {
+          "name": "Stela Cole",
+          "url": "https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197257,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/6bCE0p7QX3Tx4rZGDyaJ1U"
+    },
+    {
+      "album": {
         "name": "BLURRY",
         "url": "https://open.spotify.com/album/7lZdWg70vTWn6sbohZGzQF"
       },
@@ -2520,7 +2538,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 183108,
       "name": "Chasm",
       "url": "https://open.spotify.com/track/3B2zZpNfRY47H0eyVBFlPn"
@@ -2920,6 +2938,24 @@
       "duration_ms": 168517,
       "name": "Crazy Woman",
       "url": "https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX"
+    },
+    {
+      "album": {
+        "name": "crocodile tears",
+        "url": "https://open.spotify.com/album/447seuu3X7RLUyNBijtw1b"
+      },
+      "artists": [
+        {
+          "name": "TAELA",
+          "url": "https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "crocodile tears",
+      "url": "https://open.spotify.com/track/71q2aFtpjsH4CG5Xbcc0jJ"
     },
     {
       "album": {
@@ -4536,7 +4572,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 156683,
       "name": "FAVOURITE MISTAKE",
       "url": "https://open.spotify.com/track/0rH7Q9eatIX85iEjnTVzex"
@@ -7056,7 +7092,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 217133,
       "name": "Invasion",
       "url": "https://open.spotify.com/track/4Zzm3yLTEPa2gaiJw0uPNF"
@@ -12494,7 +12530,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 182987,
       "name": "SUPERPOWER",
       "url": "https://open.spotify.com/track/3kfQuU6FXW4OXHIHjuups7"

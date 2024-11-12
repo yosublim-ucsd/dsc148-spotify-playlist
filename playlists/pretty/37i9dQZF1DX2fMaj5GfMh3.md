@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: Wulf
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,641 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,639 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,14 +12,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 2 | [small](https://open.spotify.com/track/0zmhbBZjEEMxZLac83gLRQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [small](https://open.spotify.com/album/3h7ozNB6Vvbw2sTWTtxQCk) | 3:33 |
 | 3 | [Empire](https://open.spotify.com/track/2cnJ7OVVT5520sNo9vDhMH) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Empire](https://open.spotify.com/album/3bfDYcUq5kP93Vr34hYYJb) | 3:04 |
 | 4 | [Heart of Gold](https://open.spotify.com/track/39AfsBXaRa8JZhl46bKGGN) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heart of Gold](https://open.spotify.com/album/5OFrWDpHvOkYyllO3AKPtS) | 2:51 |
-| 5 | [Phenomenon](https://open.spotify.com/track/0przdCHHHiKSmh8BZAVPtF) | [OGENE](https://open.spotify.com/artist/03MaDuGA6vbzj9xRKljrI8), [OG3NE](https://open.spotify.com/artist/1SiCF4gVjnR5iAIwk1nkXo) | [Phenomenon](https://open.spotify.com/album/3YxDMxetVTElxtsD77pa5N) | 3:22 |
-| 6 | [Just As I Remember](https://open.spotify.com/track/3s6R5jk43ny98ruPcs8CFk) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [Just As Ï Remember](https://open.spotify.com/album/6hqGAasr7NP0iX4bIFU02Y) | 2:18 |
-| 7 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 |
-| 8 | [Love Of My Life](https://open.spotify.com/track/0el0sWkgn2hViZJmYyJdK4) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Love Of My Life](https://open.spotify.com/album/5RSfA2mMGTU5ghYRsXtET1) | 3:36 |
-| 9 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 |
-| 10 | [So Naive](https://open.spotify.com/track/3F1N7UKQ1ecGuARbGm9n9y) | [Laura Tesoro](https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2) | [So Naive](https://open.spotify.com/album/6aONMheRrx1pwVRUoNSYwg) | 3:14 |
-| 11 | [Idolizer](https://open.spotify.com/track/5Pz4jZa5Yw984sUrVXGetO) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [Idolizer](https://open.spotify.com/album/7CbXgHy1fPBb3gGarFMABD) | 3:11 |
-| 12 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |
+| 5 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |
+| 6 | [Phenomenon](https://open.spotify.com/track/0przdCHHHiKSmh8BZAVPtF) | [OGENE](https://open.spotify.com/artist/03MaDuGA6vbzj9xRKljrI8), [OG3NE](https://open.spotify.com/artist/1SiCF4gVjnR5iAIwk1nkXo) | [Phenomenon](https://open.spotify.com/album/3YxDMxetVTElxtsD77pa5N) | 3:22 |
+| 7 | [Just As I Remember](https://open.spotify.com/track/3s6R5jk43ny98ruPcs8CFk) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [Just As Ï Remember](https://open.spotify.com/album/6hqGAasr7NP0iX4bIFU02Y) | 2:18 |
+| 8 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 |
+| 9 | [Love Of My Life](https://open.spotify.com/track/0el0sWkgn2hViZJmYyJdK4) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Love Of My Life](https://open.spotify.com/album/5RSfA2mMGTU5ghYRsXtET1) | 3:36 |
+| 10 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 |
+| 11 | [So Naive](https://open.spotify.com/track/3F1N7UKQ1ecGuARbGm9n9y) | [Laura Tesoro](https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2) | [So Naive](https://open.spotify.com/album/6aONMheRrx1pwVRUoNSYwg) | 3:14 |
+| 12 | [Idolizer](https://open.spotify.com/track/5Pz4jZa5Yw984sUrVXGetO) | [Lenny Monsou](https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3) | [Idolizer](https://open.spotify.com/album/7CbXgHy1fPBb3gGarFMABD) | 3:11 |
 | 13 | [Greenblueviolet](https://open.spotify.com/track/25bUC6HUONOmzHDDhuVzrG) | [Babet](https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh) | [Greenblueviolet](https://open.spotify.com/album/4EgIdufjpX2WXIHe3vYZYE) | 3:38 |
 | 14 | [Reflections](https://open.spotify.com/track/0fvIQtkk9ikyFRu0oWez4B) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Troubled Waters](https://open.spotify.com/album/26PBL1D0ltBX7cXWm3luIm) | 3:53 |
 | 15 | [Higher](https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Higher](https://open.spotify.com/album/3b8s7uA0RjzJlP3WfIpdsa) | 3:21 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 69 | [Don't Keep Me Waiting](https://open.spotify.com/track/1eO5Ipgg5eGNqTNvtBczv5) | [Yori](https://open.spotify.com/artist/0Bwzh9IY161vYCi4pAT02u) | [Don't Keep Me Waiting](https://open.spotify.com/album/3Fxvllwe9IPenu0qi99RsU) | 2:51 |
 | 70 | [Lalala](https://open.spotify.com/track/2v2UFohod61PqjAt0jrGDz) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Lalala](https://open.spotify.com/album/4UGx3T7DPOPeIhC5nRD6LP) | 2:32 |
 
-Snapshot ID: `Zy1GcAAAAAAYw80Yn6zHaZkNiavtRsiK`
+Snapshot ID: `ZzHbjgAAAAC1QpUeDWThKVeG72fauA0P`

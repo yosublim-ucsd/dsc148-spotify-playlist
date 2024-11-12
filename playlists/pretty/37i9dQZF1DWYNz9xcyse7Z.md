@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Cruzando cerros y arroyos mientras recordamos el legado campirano y rancherón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,027 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,199 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 84 | [Nunca Mas Podre Olvidarte](https://open.spotify.com/track/0fpOLjg4snwR2CGMcqmUbx) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [10 Anos De Exito \- 10TH Anniversary](https://open.spotify.com/album/7qO8xhrtO2OBOH6deh4EM6) | 2:43 |
 | 85 | [Equivocacion \(En Vivo\)](https://open.spotify.com/track/4SKz9HZareGTqMZqWO09QB) | [Los Sierrenos De Sinaloa](https://open.spotify.com/artist/4BmHA0UC7qRDgmIcSa6tEF) | [En Vivo](https://open.spotify.com/album/4lTCheLmGeDGsSEOtIHKog) | 3:22 |
 | 86 | [Mi Virgencita](https://open.spotify.com/track/3CqPkvPNkDHVHPSeHCUbMu) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 2](https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt) | 2:24 |
-| 87 | [Quedate Conmigo Esta Noche](https://open.spotify.com/track/25nLNldTr1ByAS8suid2AE) | [Los Ciclones del Arroyo](https://open.spotify.com/artist/474014H20e2LqUwdWaaVLO) | [Judiciales y Malandrines](https://open.spotify.com/album/763aWL2MrtBRXOmdWPQCxm) | 3:48 |
-| 88 | [Que Casualidad](https://open.spotify.com/track/1ARNcGlXQKky7zX4TZkCtx) | [Sierreños de Sinaloa](https://open.spotify.com/artist/49XtLcagl18fnpRxiW7QW8) | [Siguen los Exitos](https://open.spotify.com/album/3x6EZXwwRU7kDo9DKzVWKa) | 2:58 |
+| 87 | [Que Casualidad](https://open.spotify.com/track/1ARNcGlXQKky7zX4TZkCtx) | [Sierreños de Sinaloa](https://open.spotify.com/artist/49XtLcagl18fnpRxiW7QW8) | [Siguen los Exitos](https://open.spotify.com/album/3x6EZXwwRU7kDo9DKzVWKa) | 2:58 |
+| 88 | [La chuparrosas](https://open.spotify.com/track/2kLeTQPQ5DSjiIsQH7aRVQ) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Un golpe mas](https://open.spotify.com/album/3Gr1QdaINQxCNKGCFLxlKw) | 2:31 |
 | 89 | [Entre la lluvia y mi llorar](https://open.spotify.com/track/0WCMzGVDGntss0FTQHotNX) | [Los Paisanos de Sinaloa](https://open.spotify.com/artist/4dxvCbHBu0SFagqc2kM1pZ) | [Como le hago](https://open.spotify.com/album/3Rw3Tq83OofomSXL3L5aZ9) | 2:58 |
-| 90 | [La chuparrosas](https://open.spotify.com/track/2kLeTQPQ5DSjiIsQH7aRVQ) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Un golpe mas](https://open.spotify.com/album/3Gr1QdaINQxCNKGCFLxlKw) | 2:31 |
+| 90 | [Una Paloma en Su Nido](https://open.spotify.com/track/6Xzit0HIXqiWEmXusTXBNA) | [Los Ciclones del Arroyo](https://open.spotify.com/artist/474014H20e2LqUwdWaaVLO) | [Judiciales y Malandrines](https://open.spotify.com/album/763aWL2MrtBRXOmdWPQCxm) | 3:32 |
 | 91 | [Mujer Paseada](https://open.spotify.com/track/2PIHW6nhUIF99L3Uz8bTef) | [Los Nuevos de Sinaloa](https://open.spotify.com/artist/6Q5TEd26K9VgRNVrEmvpU5) | [El Jardin Olvidado](https://open.spotify.com/album/1xfvvHZ5FoMO5Gba9v1rZt) | 2:42 |
 | 92 | [De Corazon A Corazon](https://open.spotify.com/track/7fWPcPuDl9hlhcvU7M9UMA) | [Los Reyes De Sinaloa](https://open.spotify.com/artist/00dw07ifKzcH0KYN6DWBmQ) | [De Corazon A Corazon](https://open.spotify.com/album/1b86qyLPoQTAluo8PpyAi0) | 3:33 |
 | 93 | [Eres Mi Droga](https://open.spotify.com/track/6dxYc4d5URZybMYvJD68yV) | [Los Diamantes De Sinaloa](https://open.spotify.com/artist/54us4vA4ORn9TlBp0LGNhz) | [100% Sierreños](https://open.spotify.com/album/3Rppcvwk1wAd3wpuzFx3Or) | 3:19 |
-| 94 | [Una Paloma en Su Nido](https://open.spotify.com/track/6Xzit0HIXqiWEmXusTXBNA) | [Los Ciclones del Arroyo](https://open.spotify.com/artist/474014H20e2LqUwdWaaVLO) | [Judiciales y Malandrines](https://open.spotify.com/album/763aWL2MrtBRXOmdWPQCxm) | 3:32 |
-| 95 | [La Trenzuda](https://open.spotify.com/track/7zwB7zO9osAZJgYNX7YDfH) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [10 Anos De Exito \- 10TH Anniversary](https://open.spotify.com/album/7qO8xhrtO2OBOH6deh4EM6) | 3:56 |
+| 94 | [La Trenzuda](https://open.spotify.com/track/7zwB7zO9osAZJgYNX7YDfH) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [10 Anos De Exito \- 10TH Anniversary](https://open.spotify.com/album/7qO8xhrtO2OBOH6deh4EM6) | 3:56 |
+| 95 | [Dos palomas al volar](https://open.spotify.com/track/7iCNGBxWezQObpCqpaB5XG) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Hombres de rancho](https://open.spotify.com/album/4Up8EAkBlnniJH6DJPux3q) | 3:24 |
 | 96 | [Los Barandales Del Puente](https://open.spotify.com/track/2du1PD4nE2dYU6lfZeVD16) | [Los Dos De La Sierra](https://open.spotify.com/artist/3VCLVWGByXwgEpCQW1jmBc) | [Los Dos De La Sierra](https://open.spotify.com/album/6Rxsefqi3Fj9DL2yfFYAk1) | 3:21 |
-| 97 | [Dos palomas al volar](https://open.spotify.com/track/7iCNGBxWezQObpCqpaB5XG) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Hombres de rancho](https://open.spotify.com/album/4Up8EAkBlnniJH6DJPux3q) | 3:24 |
-| 98 | [Que casualidad](https://open.spotify.com/track/02BlMqEvarDn1IGr2Ix8Ej) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Hombres de rancho](https://open.spotify.com/album/4Up8EAkBlnniJH6DJPux3q) | 3:24 |
-| 99 | [Presiento que voy a llorar](https://open.spotify.com/track/0fIvZVrFW3K9k1042sAZWw) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Besos y carisias](https://open.spotify.com/album/0UKsPxUwVah0LYXoAKQXNV) | 3:20 |
-| 100 | [Jardin Olvidado](https://open.spotify.com/track/1kC178uk2qh20lvlyZWci2) | [Los Nuevos de Sinaloa](https://open.spotify.com/artist/6Q5TEd26K9VgRNVrEmvpU5) | [El Jardin Olvidado](https://open.spotify.com/album/1xfvvHZ5FoMO5Gba9v1rZt) | 2:37 |
+| 97 | [Que casualidad](https://open.spotify.com/track/02BlMqEvarDn1IGr2Ix8Ej) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Hombres de rancho](https://open.spotify.com/album/4Up8EAkBlnniJH6DJPux3q) | 3:24 |
+| 98 | [Presiento que voy a llorar](https://open.spotify.com/track/0fIvZVrFW3K9k1042sAZWw) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Besos y carisias](https://open.spotify.com/album/0UKsPxUwVah0LYXoAKQXNV) | 3:20 |
+| 99 | [Ya no vuelvo a molestarte](https://open.spotify.com/track/37H8uCjPYSO3P13RIqw8YK) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Besos y carisias](https://open.spotify.com/album/0UKsPxUwVah0LYXoAKQXNV) | 2:10 |
+| 100 | [Quedate Conmigo Esta Noche](https://open.spotify.com/track/25nLNldTr1ByAS8suid2AE) | [Los Ciclones del Arroyo](https://open.spotify.com/artist/474014H20e2LqUwdWaaVLO) | [Judiciales y Malandrines](https://open.spotify.com/album/763aWL2MrtBRXOmdWPQCxm) | 3:48 |
 
 Snapshot ID: `ZoWcFAAAAAAJCtrfRuk7ZnQqpKYnn5Hu`

@@ -4,7 +4,7 @@
 
 > make it pop! cover: Peach Luffe
 
-1,173 songs - 2 day 10 hr 26 min
+1,176 songs - 2 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,10 +111,11 @@
 | [Better Than Real Life](https://open.spotify.com/track/2M6cDSP1uMGkSQsl9KqRPw) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Better Than Real Life](https://open.spotify.com/album/2l8ZSXbZTA2x6rnlkhcCng) | 2:13 | 2022-06-03 | 2022-07-02 |
 | [Big City Thing](https://open.spotify.com/track/3OOAv73AZwwCnAW7VGHbZd) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [Big City Thing](https://open.spotify.com/album/4qhwIb8uXcg7M7Dz7Kn0Rn) | 3:23 | 2023-01-20 | 2023-03-25 |
 | [Birthmark](https://open.spotify.com/track/0WBkEWQ7evLCkPRLehTJeY) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Birthmark](https://open.spotify.com/album/35GQtom38u5STlcnpDeALd) | 3:22 | 2023-01-20 | 2023-03-25 |
-| [Blackout Drunk](https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Blackout Drunk](https://open.spotify.com/album/171QO1TFbCYhbgKoYwmwcH) | 2:28 | 2024-08-02 |  |
+| [Blackout Drunk](https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Blackout Drunk](https://open.spotify.com/album/171QO1TFbCYhbgKoYwmwcH) | 2:28 | 2024-08-02 | 2024-11-12 |
 | [blame](https://open.spotify.com/track/3UEjjwl3SaUPrXOltnUvmq) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [blame / how to exit a room](https://open.spotify.com/album/5fSKEKXlwoX3XTQWZNJInQ) | 3:10 | 2023-06-09 | 2023-09-16 |
 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2024-01-05 | 2024-07-19 |
 | [BLAME IT ON ME](https://open.spotify.com/track/3O4EGwdDFNMs69RWWSQRFI) | [Alex Coles](https://open.spotify.com/artist/7itwELrXfDuINywbgrNm6b) | [BLAME IT ON ME](https://open.spotify.com/album/5w2zXflgG8ZZtJLqT7Gvsl) | 2:42 | 2024-05-24 | 2024-07-19 |
+| [Blame It On The Rain](https://open.spotify.com/track/0JaaEbFejwGsW7V3ttjVXE) | [SUM SUN](https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT) | [Blame It On The Rain](https://open.spotify.com/album/0eQhJUAaDBLLoswWcTGPj6) | 3:04 | 2024-11-11 |  |
 | [Blame The Brakes](https://open.spotify.com/track/4ZoPMviImcYNDNz6NEuDHm) | [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Blame The Brakes](https://open.spotify.com/album/0jGU8t3SZvyiNgu02pInoo) | 3:26 | 2022-09-30 | 2023-03-04 |
 | [Blank Me](https://open.spotify.com/track/4GykOaWBJPS647ewLtyrCh) | [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Blank Me](https://open.spotify.com/album/7na6EPTI7sIHutOQfJNXev) | 3:58 | 2021-11-19 | 2022-03-18 |
 | [blankets](https://open.spotify.com/track/3GhoRc4xmryotoLnE6XM4u) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [blankets](https://open.spotify.com/album/0IPxrFi7HScWklnOCqHhUl) | 3:05 | 2024-08-16 | 2024-10-19 |
@@ -733,6 +734,7 @@
 | [Never Let Go](https://open.spotify.com/track/0nQbr0lYWUHWjeW7i1lscI) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Suddenly Okay](https://open.spotify.com/album/1Xuv9oEVILCRQ7j5iugfPs) | 2:36 | 2024-03-22 | 2024-04-27 |
 | [Next Semester](https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Next Semester](https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl) | 3:54 | 2024-03-29 | 2024-06-01 |
 | [nice to know you](https://open.spotify.com/track/5YgTlbMcCbpzwEA8D67rxM) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [nice to know you](https://open.spotify.com/album/2RN6cPRMmz7KzCQAdEo9Xp) | 3:15 | 2024-01-05 | 2024-03-16 |
+| [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-11 |  |
 | [Nightmares](https://open.spotify.com/track/4Eb4RDO4492B9W49YbhZY0) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nightmares](https://open.spotify.com/album/23FOpTZdp5orIhnUqM89Tb) | 2:49 | 2022-08-12 | 2022-08-27 |
 | [Nightmares](https://open.spotify.com/track/4F1YTJm19T5uYAO7yyGhZJ) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nightmares](https://open.spotify.com/album/5bHn0vh1WADdaPiBxiTQz2) | 2:49 | 2022-08-12 | 2022-08-17 |
 | [no excuses](https://open.spotify.com/track/0fL0C37F64Ufzi2kHRql5Y) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [it's a little complicated, but i'm okay.](https://open.spotify.com/album/4nrSgAxs8tzf8RPIN9lc4Q) | 3:17 | 2022-02-04 | 2022-07-16 |
@@ -903,6 +905,7 @@
 | [Sleepyhead](https://open.spotify.com/track/0swLKGvJZnbROxhHggpVBa) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Sleepyhead](https://open.spotify.com/album/10nDX7ZVSymEXVDQxtemR8) | 3:14 | 2024-02-16 | 2024-02-24 |
 | [Sleepyhead](https://open.spotify.com/track/2Nf1xezlclOKIUiAIvkjVU) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Sleepyhead](https://open.spotify.com/album/7vtEGgaefryUMRilWJ8zGD) | 3:14 | 2024-02-09 | 2024-02-23 |
 | [Slide](https://open.spotify.com/track/7BzduEaTDTxEhZvLJbZWW2) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [BACKYARD](https://open.spotify.com/album/1VJQGEoTco7jhMvYjJhZzR) | 2:35 | 2022-09-16 | 2022-09-24 |
+| [small town rodeo](https://open.spotify.com/track/02C7ei5KXnTXaEWx9HgdvD) | [ggwendolyn](https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi) | [small town rodeo](https://open.spotify.com/album/5mIoN9gFgzMj4LdNmdARaz) | 4:21 | 2024-11-11 |  |
 | [Smells Like Me](https://open.spotify.com/track/6LXIhiXK8z1KLd3giR904b) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Smells Like Me](https://open.spotify.com/album/3XvDbxerzYjQZRc6JfF9jY) | 3:24 | 2022-09-02 | 2022-09-17 |
 | [Sneakers](https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Sneakers](https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge) | 3:04 | 2022-08-19 | 2022-12-03 |
 | [So Cold](https://open.spotify.com/track/6u0hAAm6FNykukqrnglyrF) | [August Moon](https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA) | [So Cold](https://open.spotify.com/album/2kTCDrMzts2IAoEGv6CAZq) | 2:41 | 2024-07-26 | 2024-08-10 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Helmet. The essential tracks, all in one playlist.",
-  "num_followers": 8568,
+  "num_followers": 8567,
   "original_name": "This Is Helmet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy6mAAAAAAAjloUqczpb3u2g+SSIEQBD",
+  "snapshot_id": "Zy/3gAAAAABifqiaSomEKViLcaeXzQCE",
   "tracks": [
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 158066,
-      "name": "Rollo",
-      "url": "https://open.spotify.com/track/4JN0W9IgGlK5Obp8gnTlq3"
+      "duration_ms": 220266,
+      "name": "Tic",
+      "url": "https://open.spotify.com/track/4iyW4RQlmcGj1i1igx17RD"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Left",
-        "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 163808,
-      "name": "Tell Me Again",
-      "url": "https://open.spotify.com/track/5e5X4a7JK1wUVivxxMZB0G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strap It On",
         "url": "https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl"
       },
@@ -635,22 +619,6 @@
       "duration_ms": 206773,
       "name": "Make Room",
       "url": "https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Left",
-        "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
-      },
-      "artists": [
-        {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
-        }
-      ],
-      "duration_ms": 221863,
-      "name": "Powder Puff",
-      "url": "https://open.spotify.com/track/2o1sbJtl8qV6a9FGpOAQ6g"
     }
   ],
   "unique_name": "This Is Helmet",

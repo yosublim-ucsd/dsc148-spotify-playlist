@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-249 songs - 10 hr 51 min
+250 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Distrikt 4](https://open.spotify.com/track/3B25I4fYZ8ARelPX6tCYmV) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Adam Aden](https://open.spotify.com/artist/3tEZ6bzTrFzApPwyyUlADz) | [Distrikt 4](https://open.spotify.com/album/0YyPqDxwT8jeZYequlNmsJ) | 2:06 | 2024-02-09 | 2024-03-01 |
 | [Drama](https://open.spotify.com/track/5gRlTvWBTrm5DpF6RgxQBM) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Drama](https://open.spotify.com/album/02FOs5JKp1S08NEjCW64Eo) | 2:25 | 2024-05-23 | 2024-08-16 |
 | [Dreams](https://open.spotify.com/track/2e9JCw6tagF1APPHXWy6ff) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [M.O.B](https://open.spotify.com/album/3OayJHDFHtATwvDVJ8ccuT) | 2:08 | 2023-09-21 | 2024-06-08 |
+| [Dreams](https://open.spotify.com/track/4e6yJydi3ONicrZ8gXsCCv) | [Tommy Tee](https://open.spotify.com/artist/4ihTfE4MtCrKerRYHU7e4p), [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD), [2J](https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw), [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [Dreams](https://open.spotify.com/album/45fNa0CxkPKwJrFXdzcZRf) | 2:58 | 2024-11-07 |  |
 | [Drikker & Drukner](https://open.spotify.com/track/4dVVvavEIdduXZLnvceKjN) | [Plaza](https://open.spotify.com/artist/00Pw5UR1M3PTfsr0S7nhUQ) | [Plaza O Plomo](https://open.spotify.com/album/5GPTv3ZMI5pYSiglpIDrrM) | 2:58 | 2024-06-13 | 2024-06-21 |
 | [Du & Jag](https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Du & Jag](https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK) | 2:12 | 2023-09-21 |  |
 | [Du datt av](https://open.spotify.com/track/4md8Ntsur3ptmuu2cAQybK) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU) | [Du datt av](https://open.spotify.com/album/74xaWKyYl1928U9QxB8NgV) | 2:27 | 2024-02-08 | 2024-06-09 |
@@ -82,7 +83,7 @@
 | [Eneste jeg vil](https://open.spotify.com/track/0psfsKyQhgh1ZoezmBNtNC) | [Larsiveli](https://open.spotify.com/artist/3xQ7Td9gKHIT3J7w7e2CeW) | [Bitterhetens Hotell](https://open.spotify.com/album/4TA1oZbrSZWKV1jmLVB02m) | 2:43 | 2023-10-19 | 2023-11-11 |
 | [EXTEND](https://open.spotify.com/track/6f5P5n98ZkYG7Kveh4N5kh) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [SILENT HILLS](https://open.spotify.com/album/7pcx9qC7j4WPDUkuXwKUuo) | 2:29 | 2023-11-09 | 2024-06-08 |
 | [F.H.D.S!](https://open.spotify.com/track/1N0yatFpCrTgSEg0D3osd4) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [F.H.D.S!](https://open.spotify.com/album/57nk6LQlgsL7PMyxHnSAxj) | 2:38 | 2023-11-09 | 2024-05-20 |
-| [Fakk love](https://open.spotify.com/track/05mlYFe6CSsOaghF1lTJNB) | [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB) | [Fakk love](https://open.spotify.com/album/3BbrExBX9GDFKEMDQ0AbQA) | 2:04 | 2024-06-27 |  |
+| [Fakk love](https://open.spotify.com/track/05mlYFe6CSsOaghF1lTJNB) | [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB) | [Fakk love](https://open.spotify.com/album/3BbrExBX9GDFKEMDQ0AbQA) | 2:04 | 2024-06-27 | 2024-11-12 |
 | [Faller](https://open.spotify.com/track/52rYBxmWsmouJrq4rpbHQJ) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Faller](https://open.spotify.com/album/7vXhgwKBcYtvSbMlG2yRqn) | 1:50 | 2024-07-18 | 2024-08-16 |
 | [Falt Ut](https://open.spotify.com/track/1Qe4tOzNLtVwtV63D9VumX) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9), [Voksen Mann Uten Slips](https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF) | [Falt Ut](https://open.spotify.com/album/5pbwQh49wMdn0muqJHPFgg) | 2:33 | 2024-03-14 | 2024-07-12 |
 | [Fantasy](https://open.spotify.com/track/3vFlpYjJgaTHe0B5LGNaBy) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Fantasy](https://open.spotify.com/album/0Zpv2L3usXFp6RWzcGBKeI) | 2:18 | 2023-09-21 | 2024-06-01 |

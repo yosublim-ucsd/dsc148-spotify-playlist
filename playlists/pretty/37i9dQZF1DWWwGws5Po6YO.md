@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Hollie Kenniff
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,395 likes - 100 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,483 likes - 100 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 69 | [Effektology](https://open.spotify.com/track/2R7ow3ycyaJZe13AvKdLQc) | [Noveller](https://open.spotify.com/artist/3MqYHtX48uiYNf0gPaNBW2) | [Arrow](https://open.spotify.com/album/23XR5sJhFLxezpchTPf54S) | 3:47 |
 | 70 | [I'll Look for You in Others](https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [I'll Look For You In Others](https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6) | 6:33 |
 | 71 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/0My0fhq5AZ4AyndjDAL1YY) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [One Life : four remixes](https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9) | 4:56 |
-| 72 | [Hope Dealers](https://open.spotify.com/track/4V6Y9lCX3xnSoa11nN2S02) | [Klein](https://open.spotify.com/artist/6chuFWw4BmHxOc3X0cC8Ct) | [Hope Dealers](https://open.spotify.com/album/71cZVBxEtdDgJDRXipmtlZ) | 5:52 |
-| 73 | [Sino Algo Que Produce Sombras?](https://open.spotify.com/track/084NpmX5haKuRUX3lh5vk6) | [Hannah Lee](https://open.spotify.com/artist/3bUs5Fz4GknxKlVALu9Aoy), [El León Pardo](https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu) | [¿Y Qué Es el Sol para Ellos Sino Algo Que Produce Sombras?](https://open.spotify.com/album/1SnoM9AauiiroErXXLuZnz) | 29:52 |
+| 72 | [Sino Algo Que Produce Sombras?](https://open.spotify.com/track/084NpmX5haKuRUX3lh5vk6) | [Hannah Lee](https://open.spotify.com/artist/3bUs5Fz4GknxKlVALu9Aoy), [El León Pardo](https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu) | [¿Y Qué Es el Sol para Ellos Sino Algo Que Produce Sombras?](https://open.spotify.com/album/1SnoM9AauiiroErXXLuZnz) | 29:52 |
+| 73 | [Hope Dealers](https://open.spotify.com/track/4V6Y9lCX3xnSoa11nN2S02) | [Klein](https://open.spotify.com/artist/6chuFWw4BmHxOc3X0cC8Ct) | [Hope Dealers](https://open.spotify.com/album/71cZVBxEtdDgJDRXipmtlZ) | 5:52 |
 | 74 | [Berceuse for a Star Child](https://open.spotify.com/track/2fDzwhRSzke7JwvDAFSa7G) | [Meg Bowles](https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW) | [Evensong: Canticles for the Earth](https://open.spotify.com/album/1icSVeUwGqXdwVMCjO2D5z) | 5:51 |
 | 75 | [Spell I: Let the Waves In](https://open.spotify.com/track/18nx0x8Jfrlr8Bhow7WYVg) | [Jolanda Moletta](https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1) | [Nine Spells](https://open.spotify.com/album/7tTgFC4f511XvHbHYgHpgA) | 2:41 |
 | 76 | [Humidity](https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Nana Pi](https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I) | [Humidity](https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba) | 4:31 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 87 | [You, at the End \- Laurel Halo Version](https://open.spotify.com/track/0mpoJatIQQiyxaAvAS6H9e) | [Lafawndah](https://open.spotify.com/artist/7jHWye55igIZ6SsF4eXKkP), [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [The Fifth Season \(Versions\)](https://open.spotify.com/album/36b1h6b8WHww6yHJpemPSs) | 11:14 |
 | 88 | [Ceò](https://open.spotify.com/track/37AC3XJ0LZzyQRgT8tBMYv) | [Claire M Singer](https://open.spotify.com/artist/19vNq14qOd4uJFqXvSNTfo) | [Trian](https://open.spotify.com/album/1HXxTz5eJWOkvmAl9jVnsS) | 5:39 |
 | 89 | [Winter into Spring](https://open.spotify.com/track/4nX8pNCxlonlqxbNNtsibE) | [Alice in Freefall](https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX) | [Arboretum](https://open.spotify.com/album/4U6CyXgC3ktaJMSbAaloJw) | 3:38 |
-| 90 | [Depths Emerging](https://open.spotify.com/track/2DSMSR9CVyoI45cYwbCMMX) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Midnight Dancing](https://open.spotify.com/album/5K5XHxnHKJCJmEQizLQqyq) | 5:44 |
-| 91 | [Cross\-Contamination](https://open.spotify.com/track/2bLJmoKr9vMFvFRRpXSWvm) | [Marta Salogni](https://open.spotify.com/artist/3NbcOSuoO2E4yJmfirHXAS) | [Flux Gourmet \- Original Motion Soundtrack Early Taste](https://open.spotify.com/album/6gEUqqA2KBWcG5K3Cl6z6u) | 3:56 |
+| 90 | [Cross\-Contamination](https://open.spotify.com/track/2bLJmoKr9vMFvFRRpXSWvm) | [Marta Salogni](https://open.spotify.com/artist/3NbcOSuoO2E4yJmfirHXAS) | [Flux Gourmet \- Original Motion Soundtrack Early Taste](https://open.spotify.com/album/6gEUqqA2KBWcG5K3Cl6z6u) | 3:56 |
+| 91 | [Depths Emerging](https://open.spotify.com/track/2DSMSR9CVyoI45cYwbCMMX) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Midnight Dancing](https://open.spotify.com/album/5K5XHxnHKJCJmEQizLQqyq) | 5:44 |
 | 92 | [Adventures](https://open.spotify.com/track/3Sjlw0hiLr40wY4OTPQ8aQ) | [Aasma](https://open.spotify.com/artist/7AyyDhDFJbQUqmbyswOXbv) | [Ocean](https://open.spotify.com/album/7tO4B8txFxMa6AkydiSS9X) | 2:38 |
 | 93 | [Harmonices Infinity](https://open.spotify.com/track/4ODfW9GRZ2ePNCY8B8yRLh) | [Marta De Pascalis](https://open.spotify.com/artist/5mcn2ysmgFilH73FQhQIcr) | [Sky Flesh](https://open.spotify.com/album/23UUgWs6MW97BvAORIXEV3) | 5:00 |
 | 94 | [Spectacle Of Ritual](https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD) | 10:53 |

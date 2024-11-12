@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Pem..\. 🤍
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,531 likes - 86 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,509 likes - 86 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 19 | [Rain](https://open.spotify.com/track/24FhBx2qcPxB6RAjF16Urq) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Rain](https://open.spotify.com/album/5wBGd8H3iD1gNQGmpfNLUp) | 3:16 |
 | 20 | [The Burren](https://open.spotify.com/track/0o4rSqA5H8Y2HrMqBf6TD5) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were \(10th Year Anniversary Deluxe\)](https://open.spotify.com/album/5ncFZmznUiXpbw2rIMwLP8) | 5:25 |
 | 21 | [In The Living Room](https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [In The Living Room](https://open.spotify.com/album/2HkwfUQg1Z4idyipFLuhnQ) | 4:23 |
-| 22 | [The Beginning Of The End \(feat\. DMA'S\)](https://open.spotify.com/track/2H39sC1tPnvxNCFamU3m2N) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2), [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [The Beginning Of The End \(feat\. DMA'S\)](https://open.spotify.com/album/6Zx7KmsMOLDheCjXZAYaSE) | 3:41 |
+| 22 | [The Beginning Of The End \(feat\. DMA'S\)](https://open.spotify.com/track/0vtyxhoTo6eWHLQg8ewa9J) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2), [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Pink Cactus Café](https://open.spotify.com/album/1uqDCI2xkDcXYu6bX3UrXS) | 3:41 |
 | 23 | [Never Said Goodbye](https://open.spotify.com/track/019IPf1J7LiN9yBUBp0f8d) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [A Modern Day Distraction](https://open.spotify.com/album/6mQQg0TOprhR2mCpMb5Kl2) | 3:38 |
 | 24 | [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 |
 | 25 | [American Dream](https://open.spotify.com/track/14rjxUlB3cztgcCXWOYg4j) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [American Dream](https://open.spotify.com/album/0pq5HLaL15cX8fEh7DTTvw) | 2:25 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 85 | [embodiment](https://open.spotify.com/track/4CbqNz6Xm1gzkNuCzmvQik) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [embodiment](https://open.spotify.com/album/3RKnJKQfWC7QwFM0ul4tFW) | 2:49 |
 | 86 | [Gut Punch Love](https://open.spotify.com/track/1qzgtjh0waCwTb1sW9tVQn) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Gut Punch Love](https://open.spotify.com/album/1bkhDhgBqTsNI6rrwGNWZT) | 2:59 |
 
-Snapshot ID: `Zy5JwQAAAAAj9IrH+2xGlSaadP/BMKVs`
+Snapshot ID: `ZzHnfgAAAABCLdjpobjgdQNxe0jnELBA`

@@ -520,10 +520,28 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 152307,
       "name": "Atmosfa\u0308ren",
       "url": "https://open.spotify.com/track/2I4UIW7yyhAsbkqF3dWjF9"
+    },
+    {
+      "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/3GYeeFdeoxLMMBe5kg8fby"
+      },
+      "artists": [
+        {
+          "name": "Ventura Lumi",
+          "url": "https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152439,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/70qrjTSITI223cRd3vplUI"
     },
     {
       "album": {
@@ -1049,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Combination",
+        "url": "https://open.spotify.com/album/0u3dUx2M5YTAyub3ozvaxt"
+      },
+      "artists": [
+        {
+          "name": "Awake or Asleep",
+          "url": "https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194600,
+      "name": "Combination",
+      "url": "https://open.spotify.com/track/5DfFR4ekcvLaQ7uWbcnHur"
+    },
+    {
+      "album": {
         "name": "Come Closer",
         "url": "https://open.spotify.com/album/6kWzecmlppwsVpGy30AJ1n"
       },
@@ -1208,6 +1244,24 @@
       "duration_ms": 160807,
       "name": "Deep Corals",
       "url": "https://open.spotify.com/track/12Ck0PpmNxzVYQZzzGdRYJ"
+    },
+    {
+      "album": {
+        "name": "Depth",
+        "url": "https://open.spotify.com/album/3pG7B1UYZ2czCpxylnCfFM"
+      },
+      "artists": [
+        {
+          "name": "Vau Dio",
+          "url": "https://open.spotify.com/artist/1k5dDiIY8luiAY2LoCItXm"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Depth",
+      "url": "https://open.spotify.com/track/73EWZ5JKF4RJgH1HhQgDYp"
     },
     {
       "album": {
@@ -2781,6 +2835,24 @@
     },
     {
       "album": {
+        "name": "Mist",
+        "url": "https://open.spotify.com/album/7C5hApE1qc1BDNFekhDbPt"
+      },
+      "artists": [
+        {
+          "name": "Melanitta Perspicillata",
+          "url": "https://open.spotify.com/artist/3wFCsw8ioaujwxcRwbEFi4"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185418,
+      "name": "Mist",
+      "url": "https://open.spotify.com/track/7oUxWZteexoZDiFXxnPfrm"
+    },
+    {
+      "album": {
         "name": "Misty Mountains",
         "url": "https://open.spotify.com/album/5rY37ktpYD5yOJK6CdTCSZ"
       },
@@ -3044,10 +3116,28 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 153539,
       "name": "Night Skies",
       "url": "https://open.spotify.com/track/1ZdkpDsM0ZvGXAVAARWRoK"
+    },
+    {
+      "album": {
+        "name": "Night Winds",
+        "url": "https://open.spotify.com/album/5cIYq1T6s9dYnaehg418Xh"
+      },
+      "artists": [
+        {
+          "name": "Norw\u00f8d",
+          "url": "https://open.spotify.com/artist/0k3tkgpp4alh7pS4t0Zxdl"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177720,
+      "name": "Night Winds",
+      "url": "https://open.spotify.com/track/1b0DF8M57StLpXYlhRQ1JB"
     },
     {
       "album": {
@@ -3786,7 +3876,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 166736,
       "name": "Right Where It Ends",
       "url": "https://open.spotify.com/track/0mFqqMMzzEvfB6F8AYWfcs"

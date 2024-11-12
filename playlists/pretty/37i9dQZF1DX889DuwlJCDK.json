@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u30af\u30b8\u30e9\u591c\u306e\u8857",
-  "num_followers": 15897,
+  "num_followers": 15910,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -707,18 +707,18 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
-        "name": "NOISE",
-        "url": "https://open.spotify.com/album/6D7onfgcykBliyAvMcMx5Q"
+        "name": "\u30ea\u30ab",
+        "url": "https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE"
       },
       "artists": [
         {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+          "name": "SIX LOUNGE",
+          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
         }
       ],
-      "duration_ms": 198521,
-      "name": "NOISE",
-      "url": "https://open.spotify.com/track/50xBF1EsWrOpQsMV5F8NVJ"
+      "duration_ms": 216366,
+      "name": "\u30ea\u30ab",
+      "url": "https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W"
     },
     {
       "added_at": "2024-11-05 15:00:00",
@@ -739,18 +739,18 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
-        "name": "\u30ea\u30ab",
-        "url": "https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE"
+        "name": "NOISE",
+        "url": "https://open.spotify.com/album/6D7onfgcykBliyAvMcMx5Q"
       },
       "artists": [
         {
-          "name": "SIX LOUNGE",
-          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
         }
       ],
-      "duration_ms": 216366,
-      "name": "\u30ea\u30ab",
-      "url": "https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W"
+      "duration_ms": 198521,
+      "name": "NOISE",
+      "url": "https://open.spotify.com/track/50xBF1EsWrOpQsMV5F8NVJ"
     },
     {
       "added_at": "2024-11-05 15:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
-        "name": "BORDER",
-        "url": "https://open.spotify.com/album/21ptDmeuxNhWWmM0Hkp4y9"
-      },
-      "artists": [
-        {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "BORDER",
-      "url": "https://open.spotify.com/track/4vRqGi0BbbecchqNA5PJMK"
-    },
-    {
-      "added_at": "2024-11-05 15:00:00",
-      "album": {
         "name": "\u5148\u8f29",
         "url": "https://open.spotify.com/album/00WH277LOlgulDE2dA4xoA"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 201710,
       "name": "\u5148\u8f29",
       "url": "https://open.spotify.com/track/6gLRCBorathPRQIRqC2Ia3"
+    },
+    {
+      "added_at": "2024-11-05 15:00:00",
+      "album": {
+        "name": "BORDER",
+        "url": "https://open.spotify.com/album/21ptDmeuxNhWWmM0Hkp4y9"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "BORDER",
+      "url": "https://open.spotify.com/track/4vRqGi0BbbecchqNA5PJMK"
     },
     {
       "added_at": "2024-11-05 15:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
-        "name": "BACK",
-        "url": "https://open.spotify.com/album/7Ej2LUL0yWgp3eHjLROaNd"
-      },
-      "artists": [
-        {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
-        }
-      ],
-      "duration_ms": 159536,
-      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-      "url": "https://open.spotify.com/track/0BNRPhGI1A8MHZqyDaJEEq"
-    },
-    {
-      "added_at": "2024-11-05 15:00:00",
-      "album": {
         "name": "\u51a5\u51a5",
         "url": "https://open.spotify.com/album/76a759u25fWITdpdjqidXn"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 207733,
       "name": "\u51a5\u51a5",
       "url": "https://open.spotify.com/track/39bCGq3Ad9c3IMcYV2ROhe"
+    },
+    {
+      "added_at": "2024-11-05 15:00:00",
+      "album": {
+        "name": "\u30d8\u30c3\u30c9\u30e9\u30a4\u30ca\u30fc",
+        "url": "https://open.spotify.com/album/2LQcnPReDbYKybSOF9Azxh"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "duration_ms": 234566,
+      "name": "\u30d8\u30c3\u30c9\u30e9\u30a4\u30ca\u30fc",
+      "url": "https://open.spotify.com/track/5ESy12imzRxzr7hd43SNPg"
     },
     {
       "added_at": "2024-11-05 15:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
-        "name": "\u30d8\u30c3\u30c9\u30e9\u30a4\u30ca\u30fc",
-        "url": "https://open.spotify.com/album/2LQcnPReDbYKybSOF9Azxh"
-      },
-      "artists": [
-        {
-          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
-        }
-      ],
-      "duration_ms": 234566,
-      "name": "\u30d8\u30c3\u30c9\u30e9\u30a4\u30ca\u30fc",
-      "url": "https://open.spotify.com/track/5ESy12imzRxzr7hd43SNPg"
-    },
-    {
-      "added_at": "2024-11-05 15:00:00",
-      "album": {
         "name": "GOLD",
         "url": "https://open.spotify.com/album/2nxVvU7LqydShGwRUuto85"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 129785,
       "name": "\u590f\u306f\u5de1\u308b",
       "url": "https://open.spotify.com/track/2EHUDtTMLscFB0DKXp03A7"
+    },
+    {
+      "added_at": "2024-11-05 15:00:00",
+      "album": {
+        "name": "BACK",
+        "url": "https://open.spotify.com/album/7Ej2LUL0yWgp3eHjLROaNd"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "duration_ms": 159536,
+      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+      "url": "https://open.spotify.com/track/0BNRPhGI1A8MHZqyDaJEEq"
     },
     {
       "added_at": "2024-11-05 15:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
-        "name": "\u60b2\u5287\u306e\u30d2\u30ed\u30a4\u30f3",
-        "url": "https://open.spotify.com/album/7KTH9kITVs2j6bSouUtCLX"
-      },
-      "artists": [
-        {
-          "name": "My Hair is Bad",
-          "url": "https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "\u60b2\u5287\u306e\u30d2\u30ed\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/72BOlvC2hg6TDSu6RfvtpB"
-    },
-    {
-      "added_at": "2024-11-05 15:00:00",
-      "album": {
         "name": "\u6708\u304c\u7dba\u9e97\u3060\u3063\u3066",
         "url": "https://open.spotify.com/album/1mlgrd63GCXnZyaTrXA2Hj"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 268235,
       "name": "\u6708\u304c\u7dba\u9e97\u3060\u3063\u3066",
       "url": "https://open.spotify.com/track/7gALnxrfC3lMPhRJJUQPL8"
+    },
+    {
+      "added_at": "2024-11-05 15:00:00",
+      "album": {
+        "name": "\u60b2\u5287\u306e\u30d2\u30ed\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/7KTH9kITVs2j6bSouUtCLX"
+      },
+      "artists": [
+        {
+          "name": "My Hair is Bad",
+          "url": "https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "\u60b2\u5287\u306e\u30d2\u30ed\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/72BOlvC2hg6TDSu6RfvtpB"
     },
     {
       "added_at": "2024-11-05 15:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
-        "name": "Serotonin",
-        "url": "https://open.spotify.com/album/45nJ0JBc90HlH7GIum2Gfr"
-      },
-      "artists": [
-        {
-          "name": "Singer's High",
-          "url": "https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar"
-        }
-      ],
-      "duration_ms": 221166,
-      "name": "STRAIGHT FLUSH",
-      "url": "https://open.spotify.com/track/6VvoU86iSxFn5KOjVQ0vrL"
-    },
-    {
-      "added_at": "2024-11-05 15:00:00",
-      "album": {
         "name": "\u30ab\u30b9\u30df\u30bd\u30a6",
         "url": "https://open.spotify.com/album/7aEiuGRM1CVprvce4RkQ15"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 222352,
       "name": "\u30ab\u30b9\u30df\u30bd\u30a6",
       "url": "https://open.spotify.com/track/5ZcXYs8O3q6melv9GF5VEd"
+    },
+    {
+      "added_at": "2024-11-05 15:00:00",
+      "album": {
+        "name": "Serotonin",
+        "url": "https://open.spotify.com/album/45nJ0JBc90HlH7GIum2Gfr"
+      },
+      "artists": [
+        {
+          "name": "Singer's High",
+          "url": "https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar"
+        }
+      ],
+      "duration_ms": 221166,
+      "name": "STRAIGHT FLUSH",
+      "url": "https://open.spotify.com/track/6VvoU86iSxFn5KOjVQ0vrL"
     },
     {
       "added_at": "2024-11-05 15:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
-        "name": "Musica",
-        "url": "https://open.spotify.com/album/15OsgQLfIzPAHgb8tXQ5XA"
-      },
-      "artists": [
-        {
-          "name": "Brandy Senki",
-          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
-        }
-      ],
-      "duration_ms": 183637,
-      "name": "Musica",
-      "url": "https://open.spotify.com/track/1ZcyDDA4S9BQxJaVQNiKQ1"
-    },
-    {
-      "added_at": "2024-11-05 15:00:00",
-      "album": {
         "name": "\u30d0\u30c3\u30c8\u30ea\u30a2\u30ea\u30fc",
         "url": "https://open.spotify.com/album/4SlmPGkHTG19dxQffnB5SU"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 277701,
       "name": "\u73fe\u5728\u3092\u751f\u304d\u308b\u306e\u3060\u3002",
       "url": "https://open.spotify.com/track/0zZn7tupk239zwb3SPFmT1"
+    },
+    {
+      "added_at": "2024-11-05 15:00:00",
+      "album": {
+        "name": "Musica",
+        "url": "https://open.spotify.com/album/15OsgQLfIzPAHgb8tXQ5XA"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "duration_ms": 183637,
+      "name": "Musica",
+      "url": "https://open.spotify.com/track/1ZcyDDA4S9BQxJaVQNiKQ1"
     },
     {
       "added_at": "2024-11-05 15:00:00",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
-        "name": "\u8db3\u308a\u306a\u3044\u304f\u3089\u3044\u304c\u3061\u3087\u3046\u3069\u3044\u3044",
-        "url": "https://open.spotify.com/album/3o9xBUEP8K9RCApLjEmr5b"
+        "name": "\u30a2\u30af\u30b7\u30e7\u30f3\uff01",
+        "url": "https://open.spotify.com/album/0Qe5TTbno7M0N61aIg0VcY"
       },
       "artists": [
         {
-          "name": "YUTORI-SEDAI",
-          "url": "https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G"
+          "name": "Humbreaders",
+          "url": "https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi"
         }
       ],
-      "duration_ms": 155627,
-      "name": "\u8db3\u308a\u306a\u3044\u304f\u3089\u3044\u304c\u3061\u3087\u3046\u3069\u3044\u3044",
-      "url": "https://open.spotify.com/track/1KzqFsguec79BMBJ5eG4M6"
+      "duration_ms": 190600,
+      "name": "\u30a2\u30af\u30b7\u30e7\u30f3\uff01",
+      "url": "https://open.spotify.com/track/6q6GQ80tEo8yZdq8yUiG6w"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

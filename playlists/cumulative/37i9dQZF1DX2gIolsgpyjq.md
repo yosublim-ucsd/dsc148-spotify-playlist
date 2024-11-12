@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Nordics](https://open.spotify.com/playlist/37i9dQZF1DX2gIolsgpyjq)
 
-> The best new music by independent artists in the Nordics\. Cover: Girl Scout
+> Catch Becky and the Birds on the Fresh Finds stage at Dunya Fest on Saturday!
 
-645 songs - 1 day 9 hr 53 min
+649 songs - 1 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Ammo](https://open.spotify.com/track/5Xs1UFKIOQ8Swsd3dympgl) | [Akkie](https://open.spotify.com/artist/7h3j9K9es3R6iS7oU19is7) | [Ammo](https://open.spotify.com/album/2f0TpH3S3rcZz4N8Yi4R71) | 2:05 | 2024-06-27 | 2024-08-30 |
 | [Animal](https://open.spotify.com/track/6XLsy0UvTwzfd3eS8Uqqc9) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Animal](https://open.spotify.com/album/3iAp0bYRNDHVHkxQDD3g4C) | 2:56 | 2024-08-22 | 2024-09-27 |
 | [Another](https://open.spotify.com/track/2GgjhQe8QLd06V9j2jxwYV) | [Atli](https://open.spotify.com/artist/3K075m0ezXFrAdGtZUawkB), [RJL](https://open.spotify.com/artist/6OudLVsu838BmlTholSbgt) | [Another](https://open.spotify.com/album/5ofBd0FBXL5F0g97UU3VZq) | 4:14 | 2024-05-09 | 2024-06-14 |
+| [Anymore](https://open.spotify.com/track/3K24ijM6H0WiL8mdwNzpib) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Anymore](https://open.spotify.com/album/0ZOLG8MyLqmC3YriQ14my6) | 3:17 | 2024-11-11 |  |
 | [anywhere](https://open.spotify.com/track/3UTw97nvn3xfPsB3RtbdWN) | [Malen](https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g) | [anywhere](https://open.spotify.com/album/5JbRU6OuMz1vcPlnnZNVsC) | 2:31 | 2024-08-29 | 2024-10-11 |
 | [ARKHAM](https://open.spotify.com/track/5SajydzRS3KrEfIutgO0JI) | [FLAVA](https://open.spotify.com/artist/0iFemN19xhxGX63QjJfQEg) | [ARKHAM](https://open.spotify.com/album/79HlhyXbpNRyODAsjzDwdj) | 3:16 | 2024-09-19 | 2024-10-25 |
 | [ATRE](https://open.spotify.com/track/1rHDk6xpaN8Yjb478b7s0I) | [OKARO](https://open.spotify.com/artist/768oWAbPZ3zDTuARKBThtC) | [ATRE](https://open.spotify.com/album/2cEZFwMR9k9V61TGJ4i7xC) | 2:58 | 2024-09-05 | 2024-10-11 |
@@ -276,6 +277,7 @@
 | [I Love U Loving Me](https://open.spotify.com/track/1YJJJNcE1wI882U2XdbPiw) | [ROVAS](https://open.spotify.com/artist/2RS4b1iY3UXPXr1tsDQdRc) | [I Love U Loving Me](https://open.spotify.com/album/1d44k1mPERbvMSaTQBnfb9) | 2:31 | 2024-08-22 | 2024-09-27 |
 | [I made my baby cry](https://open.spotify.com/track/0UuFazFQ0cPYxAgFG4R739) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [I made my baby cry](https://open.spotify.com/album/63juu0SyImhGnHK8S9HtUZ) | 2:55 | 2024-09-19 |  |
 | [I Miss My Adidas](https://open.spotify.com/track/6T7Nsxlm9Z75npoJRn3Lth) | [Gina Hannuksela](https://open.spotify.com/artist/4UzbWXKuUlOMtrsUaVyQcs), [CharlyC](https://open.spotify.com/artist/6EKwuMau0XsZaaBea8aXAV) | [I Miss My Adidas](https://open.spotify.com/album/3zj3iOABTpniQ7gpa69Ex4) | 2:10 | 2024-08-08 | 2024-09-20 |
+| [I Saw U](https://open.spotify.com/track/0QpliqisIqld65GlZA1bJ8) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [I Saw U](https://open.spotify.com/album/6ANbH8704yrpV1gk139qCo) | 2:17 | 2024-11-11 |  |
 | [I Stay](https://open.spotify.com/track/6YEc6DRqlQTRcmKjYggOnN) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [I Stay](https://open.spotify.com/album/74z5d0cBn4c6YdDGWb4gLd) | 3:33 | 2024-09-19 | 2024-11-01 |
 | [I Used To Be A Real Piece Of Shit](https://open.spotify.com/track/4TdEpIsXQytCXjWxxegZdt) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [I Used To Be A Real Piece Of Shit](https://open.spotify.com/album/4SpOELLHyGJCAvRJsMYvuT) | 1:58 | 2024-09-05 |  |
 | [I Wanna Dive in the Seven Seas](https://open.spotify.com/track/2r4lqpAn19prTJcZy7YgC9) | [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [I Wanna Dive in the Seven Seas](https://open.spotify.com/album/0VN7yTWPdcNhAiOhApsmVq) | 2:44 | 2024-10-10 |  |
@@ -289,7 +291,7 @@
 | [if i didnt have u](https://open.spotify.com/track/4zT53b1g8eSC5YBieYvQnq) | [foyn](https://open.spotify.com/artist/0MSrBB3HIgO3n2xdmxJYJy) | [if i didnt have u](https://open.spotify.com/album/1oUPngygoJbY2CaInalR70) | 2:21 | 2024-03-07 | 2024-04-26 |
 | [immune](https://open.spotify.com/track/7ewa8T2zvdEMWSFG7cLl3E) | [sindr](https://open.spotify.com/artist/4UiuiDCLil74AvDoXjdpib) | [immune](https://open.spotify.com/album/7JB4xISNGadReKJYxSy69x) | 2:15 | 2024-02-08 | 2024-03-01 |
 | [In My Mind](https://open.spotify.com/track/4ywvtcOycSYXx7LOMQ2bW4) | [MIRA](https://open.spotify.com/artist/5phaV5dbc32e9OHxThLIg2) | [In My Mind](https://open.spotify.com/album/77ug7vI9azTaDP9fILrBHl) | 1:44 | 2024-03-14 | 2024-04-05 |
-| [In The End](https://open.spotify.com/track/2uTqPpiBfdI4LatYsbKfY8) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [In The End](https://open.spotify.com/album/4zaM38yi3WIcmbGMRtI1G1) | 3:42 | 2024-04-25 | 2024-06-28 |
+| [In The End](https://open.spotify.com/track/2uTqPpiBfdI4LatYsbKfY8) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [In The End](https://open.spotify.com/album/4zaM38yi3WIcmbGMRtI1G1) | 3:42 | 2024-04-25 |  |
 | [In the Garden](https://open.spotify.com/track/3KYkn60aE3sVh0vw2kIw2T) | [Francis Moon](https://open.spotify.com/artist/34vKz2ZsiJJiB2W1YMHtCG) | [In the Garden](https://open.spotify.com/album/3c0ZdWuNY3wnBChEfj2OBA) | 3:18 | 2024-05-23 | 2024-07-27 |
 | [In The Gutter](https://open.spotify.com/track/523J2wUr7idDKlTdDiQ4Cb) | [CHILI](https://open.spotify.com/artist/7lgWDqwXIly6P4ms6naBJ0) | [In The Gutter](https://open.spotify.com/album/3j761RXAWprjw48nOFggbY) | 2:35 | 2024-02-08 | 2024-03-01 |
 | [In The Name](https://open.spotify.com/track/7IHs3ITa87AEQ9CbD2Xyfu) | [Cultre](https://open.spotify.com/artist/1Sybd8WJiURp2BiBqyNMeS) | [In The Name](https://open.spotify.com/album/70EjoBXyeZ7p8aOfGWiBII) | 3:00 | 2024-02-22 | 2024-06-01 |
@@ -363,6 +365,7 @@
 | [Maybe](https://open.spotify.com/track/6Ot12y6i3DK8HoGKh7pgz0) | [BELLANI](https://open.spotify.com/artist/3UNt97eGmLa7Q1Qp2VkXDD) | [Maybe](https://open.spotify.com/album/4Yjn4iipDcFyRuD6WCnkzJ) | 2:35 | 2024-05-16 | 2024-05-24 |
 | [Medicine](https://open.spotify.com/track/6eHh1bzjr3d1ehQbdscPta) | [hanna ögonsten](https://open.spotify.com/artist/35TbZVCiGN4v3OasdUl0G4) | [Medicine](https://open.spotify.com/album/4twXTIntJbADqWYqNDi6QW) | 3:07 | 2024-02-08 | 2024-03-15 |
 | [Mega Drive](https://open.spotify.com/track/1ED3VzuGpuch83efnmQytv) | [AV AV AV](https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM) | [Mega Drive](https://open.spotify.com/album/1FbqOdPsjrpayMjEjlA3wL) | 3:54 | 2024-10-17 |  |
+| [Melt](https://open.spotify.com/track/1diAoCB2sXmLmnPISTDi9b) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Melt](https://open.spotify.com/album/1pbL9FxmoojxtBHaFronQn) | 4:16 | 2024-11-11 |  |
 | [MESSY](https://open.spotify.com/track/6WauGH6oUHdcuqVegbEXqx) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [MESSY](https://open.spotify.com/album/2GMCZXwj6YEwl605OPEfge) | 2:57 | 2024-06-06 | 2024-08-30 |
 | [Middle Man](https://open.spotify.com/track/650Gl0mOtKdKFeA84LnapZ) | [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5) | [Middle Man](https://open.spotify.com/album/5hPhlLsFJFtyG5Ylr3YLsP) | 6:00 | 2024-10-10 |  |
 | [Midwest](https://open.spotify.com/track/32r19pzc2eu9ccqlsU3I7J) | [Mall Girl](https://open.spotify.com/artist/77W4p4twkLnwNkMp7t3KBf) | [Pure Love \(Deluxe version\)](https://open.spotify.com/album/5cWWdIJ0UAIdBJ7QKUhuxn) | 3:31 | 2024-02-29 | 2024-04-05 |
@@ -445,6 +448,7 @@
 | [Play With It](https://open.spotify.com/track/0DUM7lpBnLxRG4B2rYODIA) | [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej) | [Play With It](https://open.spotify.com/album/149jwSDkfMGFnPf0saue6R) | 2:22 | 2024-06-27 | 2024-08-23 |
 | [Please Be Careful](https://open.spotify.com/track/1QCRcAOltXgDMpMIzg6o78) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Please Be Careful](https://open.spotify.com/album/7ryr4h1oUwQiJfvKSFT4Cl) | 2:23 | 2024-02-08 | 2024-05-09 |
 | [Point Out The Crime](https://open.spotify.com/track/3eMQWAvCNS5ZUMrkTFdsv1) | [CEVIL](https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP) | [Point Out The Crime](https://open.spotify.com/album/1WiSFvWNaHNTd1AmYu3ES1) | 2:40 | 2024-09-05 | 2024-10-11 |
+| [Poison](https://open.spotify.com/track/1N9jzEJmaNZw8lSqTSLwZR) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Poison](https://open.spotify.com/album/49hw5yv8BUKx6OQ578yt6T) | 2:55 | 2024-11-11 |  |
 | [Pose1don](https://open.spotify.com/track/49lxUaoeNgHtSNf3EPyVkx) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Woesum](https://open.spotify.com/artist/1W9H5eED8Mc5p20B2qo0Qe), [Yung Sherman](https://open.spotify.com/artist/3D0fPWwGl1B3s2zZR1lzKk), [Joon Gloom](https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu) | [Pose1don / Illusions 1996](https://open.spotify.com/album/0Sv9rzySfMfB2xT1LhGb9p) | 3:50 | 2024-02-29 | 2024-04-05 |
 | [Post Alone](https://open.spotify.com/track/2frzLceyhJy1y704AnEfnt) | [NEEA RIVER](https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw) | [Post Alone](https://open.spotify.com/album/44AdeCHNlXMuTiNbJQNGQE) | 3:12 | 2024-03-07 | 2024-04-05 |
 | [Pray for Tomorrow](https://open.spotify.com/track/3sv8IXAdbYviQG2mmfPSe5) | [Ely Eira](https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u) | [Pray for Tomorrow](https://open.spotify.com/album/016AFceCQzfWdtbueFVGVg) | 3:29 | 2024-08-08 | 2024-09-27 |
@@ -587,7 +591,7 @@
 | [Tropicana Thunder](https://open.spotify.com/track/3FVTwKxIoDUXmWAxCQ4Gz9) | [Ari Bald & CJ Scott](https://open.spotify.com/artist/0E6gscdNMDFByNLHQkm4aG), [Ari Bald](https://open.spotify.com/artist/4BIUrqQlg2nOgFdem5DTup), [CJ Scott](https://open.spotify.com/artist/0thkTEQ87kDOsVs9ohjiCl) | [Västertorp](https://open.spotify.com/album/2MmW24gyKixixb0vl1efHT) | 7:30 | 2024-04-04 | 2024-05-03 |
 | [Truest of Blues](https://open.spotify.com/track/6HH7GDPdApDwODnhzGBiZR) | [The Bird](https://open.spotify.com/artist/0VToPtDRTYvKFpUYh1IIOn), [True Blue](https://open.spotify.com/artist/43c8bw6Z0PmKc7zJoMnfdW) | [Truest of Blues](https://open.spotify.com/album/0y9HXUWQMcIHvUNMUZ1yCs) | 3:19 | 2024-06-20 | 2024-08-09 |
 | [Tu Mirada](https://open.spotify.com/track/59RgXziyTx99zd6pBRzSEr) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Tu Mirada](https://open.spotify.com/album/1RoQIKvC40xS3gWMDtcPp7) | 3:15 | 2024-08-15 | 2024-10-04 |
-| [Turn Me On](https://open.spotify.com/track/5MCU6TnfVoytCTrTqL9RwS) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Turn Me On](https://open.spotify.com/album/3MMW0aU2dYoZo9aDb63Pn7) | 2:40 | 2024-10-17 |  |
+| [Turn Me On](https://open.spotify.com/track/5MCU6TnfVoytCTrTqL9RwS) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Turn Me On](https://open.spotify.com/album/3MMW0aU2dYoZo9aDb63Pn7) | 2:40 | 2024-10-17 | 2024-11-12 |
 | [Turtle Jazz](https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [Turtle Jazz](https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws) | 3:13 | 2024-02-08 | 2024-03-01 |
 | [Tusen Takk](https://open.spotify.com/track/7rFTbmyonDoQaiPI0bmAbF) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [Tusen Takk](https://open.spotify.com/album/4yEGt45nj21TdlnUtdVm3N) | 3:40 | 2024-04-25 | 2024-06-14 |
 | [Two Face](https://open.spotify.com/track/1jWuA72IHfxakObgf4nXF5) | [ILMA](https://open.spotify.com/artist/28HUvCNgo5vgvf8Sm6wxfs) | [Two Face](https://open.spotify.com/album/6vP8KWsykjI1VNqd3f3Lj7) | 2:56 | 2024-09-26 | 2024-11-01 |

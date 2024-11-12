@@ -4,7 +4,7 @@
 
 > With LAVE, The Wild Wind, The Ivy and more
 
-1,386 songs - 3 day 16 hr 54 min
+1,387 songs - 3 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,7 +481,7 @@
 | [Give Me Your Fire, Give Me Your Rain](https://open.spotify.com/track/7xT7S9uNrRkYTl4U4xps4M) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Corner Where You Live](https://open.spotify.com/album/4iiL0cdvbQoPNEbvyDTkOU) | 3:32 | 2024-04-19 |  |
 | [Giving up on Giving In](https://open.spotify.com/track/1DhlWoZRRntROMyxgjeGNN) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [En Masse](https://open.spotify.com/album/2rBTBvbPLnR0M64UrLTy6Z) | 3:20 | 2024-01-04 | 2024-04-09 |
 | [Glue](https://open.spotify.com/track/6KlnHl4ehm8q5HZ73U1Gsp) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [Glue](https://open.spotify.com/album/4k3pqlmyL93ZLg15ImAlut) | 3:21 | 2024-01-20 | 2024-01-25 |
-| [Go With You](https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [THRESHOLDS](https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs) | 3:31 | 2022-03-09 |  |
+| [Go With You](https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [THRESHOLDS](https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs) | 3:31 | 2022-03-09 | 2024-11-12 |
 | [Go With You \- Acoustic](https://open.spotify.com/track/2Dbif50Xjh8G3hWUdz4AMn) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [Thresholds \(Acoustic EP\)](https://open.spotify.com/album/5kppaTiRbPJ1x1cs2XIqDy) | 3:42 | 2022-03-10 | 2022-07-07 |
 | [God Complex](https://open.spotify.com/track/6YAWleGUmNzAk2cAZOdw6a) | [The True Blue](https://open.spotify.com/artist/1mVhWJe3qmfTXM7ByuoryV) | [If That's How You Feel](https://open.spotify.com/album/03fstIQNQryWN5VeW1Vz7X) | 3:30 | 2021-12-13 | 2022-03-04 |
 | [God Only Knows](https://open.spotify.com/track/7lvhkeywZvorogGBNsLMxc) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Singles 2020 \- 2021](https://open.spotify.com/album/0dyTtlGRslN0ZOGtA4rTlx) | 3:47 | 2022-11-08 | 2022-11-09 |
@@ -533,6 +533,7 @@
 | [hey, u up?](https://open.spotify.com/track/26tfWIJV39o1MXBnGCqKt1) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [III](https://open.spotify.com/album/2uo26B9q3QJwI6ihiQDJvm) | 4:12 | 2024-04-19 | 2024-11-06 |
 | [Hi G](https://open.spotify.com/track/4J9zX5SEL4GBnoOeHyT4FP) | [Neova](https://open.spotify.com/artist/79yIl5eBPMfpjUZ63gkAXP) | [Hi G](https://open.spotify.com/album/5zcN7uV1PnPsGpnbma5lNP) | 4:33 | 2022-04-29 | 2022-11-11 |
 | [High School](https://open.spotify.com/track/5LpcRat8db3T8rMGVqiK5N) | [90's Kids](https://open.spotify.com/artist/6vPr4VCSFC3nJMw0mEBsn0) | [High School](https://open.spotify.com/album/2oDQfsKmIBMesRkJOQWhHY) | 3:00 | 2021-12-01\* | 2022-03-03 |
+| [HLYTW](https://open.spotify.com/track/4wbe7z56dPMnPr36yCWkG2) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [HLYTW](https://open.spotify.com/album/5jqnnvVT2ETofdjd0qD7mz) | 3:03 | 2024-11-12 |  |
 | [Hold It All Together](https://open.spotify.com/track/35Qa7XKGRWEBjb1q4sZraE) | [CHPTRS](https://open.spotify.com/artist/3BWtALtalPxptLllZwZ4QI) | [Chapter Five](https://open.spotify.com/album/6mYwvs2MxJpyZyDwp92jjA) | 6:18 | 2021-12-02 | 2024-03-14 |
 | [hold on](https://open.spotify.com/track/2v3Ea86ztqnlcfERXbmhhD) | [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [beyond my reach](https://open.spotify.com/album/1dNIMge6d5h63ZfGCyB5ZO) | 3:27 | 2024-01-05 | 2024-04-03 |
 | [Hold On To That](https://open.spotify.com/track/3fjIxTcTAX4O4fnYD3Q4ba) | [Charles & Will](https://open.spotify.com/artist/3qVicXkLEIY1c4XQ8PRrWh) | [Hold On To That](https://open.spotify.com/album/2OapGFIDe1y1UwjsCqFU9G) | 3:28 | 2022-09-01 | 2022-09-02 |
@@ -889,7 +890,7 @@
 | [Notice](https://open.spotify.com/track/2l4RX5GHXaoJdKbRZkFji8) | [LAVE](https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp) | [Second Wind](https://open.spotify.com/album/7bQQNux3sYSSp5mj5KloWb) | 3:26 | 2023-04-30 |  |
 | [Notions](https://open.spotify.com/track/3gU2je4blllYeSsBJcMkGO) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Moments](https://open.spotify.com/album/1AdV0dbxTNI6ihLCJYyE96) | 6:00 | 2022-10-18 | 2022-10-19 |
 | [November Sun](https://open.spotify.com/track/07LvspEoQIcodiuS1NM0yh) | [Nesu](https://open.spotify.com/artist/4wNe1ri64Peaownqgir55J), [Tunes with T](https://open.spotify.com/artist/2Wb7ewfoFaLaWeoQ3bIhRt) | [November Sun](https://open.spotify.com/album/05WmIUvPXdTvJoaoRVrPPp) | 3:33 | 2022-04-02 | 2022-04-06 |
-| [Now We Know](https://open.spotify.com/track/2SOoNKGnmru1UOGYb5rlrQ) | [Jenny Kern](https://open.spotify.com/artist/4SuBL2GsDPfdX1oeOUDvA0) | [Now We Know](https://open.spotify.com/album/7MuLU4yq4ohmzB0UzRqlf8) | 3:18 | 2023-11-11 | 2024-11-10 |
+| [Now We Know](https://open.spotify.com/track/2SOoNKGnmru1UOGYb5rlrQ) | [Jenny Kern](https://open.spotify.com/artist/4SuBL2GsDPfdX1oeOUDvA0) | [Now We Know](https://open.spotify.com/album/7MuLU4yq4ohmzB0UzRqlf8) | 3:18 | 2023-11-11 |  |
 | [Now We Know](https://open.spotify.com/track/3Rd5n7jgmCKKtjZ7dYquP0) | [Jenny Kern](https://open.spotify.com/artist/4SuBL2GsDPfdX1oeOUDvA0) | [Now We Know](https://open.spotify.com/album/5XSPUq2RryFGwWAsedzkR1) | 3:18 | 2022-03-13 | 2023-09-26 |
 | [Nowhere](https://open.spotify.com/track/1QO8yePNAtbfh5nLDcRnKL) | [Black Match](https://open.spotify.com/artist/2iNdvdsH9TvCNlPmUQEE0x) | [Nowhere](https://open.spotify.com/album/2puosJakXYHLFlFNThbaS0) | 4:46 | 2022-10-09 | 2022-10-14 |
 | [Numbers](https://open.spotify.com/track/2W1MnubGwsVNgFMZPhM16h) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Nightshade](https://open.spotify.com/album/0UlhdB1GPfs4WozhZBlGdL) | 4:08 | 2024-04-16 | 2024-04-19 |
@@ -1058,7 +1059,7 @@
 | [Shadows](https://open.spotify.com/track/2SdYpnVeDlQaWRFZ2Prsfh) | [CHPTRS](https://open.spotify.com/artist/3BWtALtalPxptLllZwZ4QI) | [Chapter Four](https://open.spotify.com/album/5y4mLsMT0Xrw7tLt2QFDwR) | 5:11 | 2022-08-20 | 2024-03-07 |
 | [Shaking](https://open.spotify.com/track/0aFpqCDaj9tAjza3c982Kv) | [Max Reichert](https://open.spotify.com/artist/5lmXY0poemQXLxoHtPOc3z) | [Shaking](https://open.spotify.com/album/7qgGe2A2ZRHm2M8XsgA74X) | 3:56 | 2024-02-23 | 2024-04-16 |
 | [Shaking](https://open.spotify.com/track/2OEht8uERr6rcvHJCeqTCY) | [Max Reichert](https://open.spotify.com/artist/5lmXY0poemQXLxoHtPOc3z) | [Shaking](https://open.spotify.com/album/5svDSmg8ZAdXTSVl29GClH) | 3:56 | 2022-03-10 | 2023-02-14 |
-| [She](https://open.spotify.com/track/4tdDt8uEGX2c5ikwH0zhWl) | [The Ivy](https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn) | [Next Stop](https://open.spotify.com/album/3ar2uUStkn9hAndFBRjHA3) | 3:36 | 2022-07-08 | 2024-11-10 |
+| [She](https://open.spotify.com/track/4tdDt8uEGX2c5ikwH0zhWl) | [The Ivy](https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn) | [Next Stop](https://open.spotify.com/album/3ar2uUStkn9hAndFBRjHA3) | 3:36 | 2022-07-08 |  |
 | [She Said](https://open.spotify.com/track/21MTrMaaTtwOOcZaYBZb6I) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Watercolor](https://open.spotify.com/album/3DkCczN0suDVGt6TAM9oGi) | 2:39 | 2023-06-09 | 2023-06-15 |
 | [She Said "I Love You"](https://open.spotify.com/track/65laD51iK662gCEVXJGsRe) | [Easy Company](https://open.spotify.com/artist/60QwYD0q0CjFl88xD9nu84) | [She Said "I Love You" EP](https://open.spotify.com/album/7oIE8weq34MfRuxwK2vp8P) | 4:40 | 2022-09-16 | 2024-02-13 |
 | [She's Alright](https://open.spotify.com/track/58pEXZXzDnsnpGWT3XofaF) | [Jet Black Alley Cat](https://open.spotify.com/artist/6p2LDcKxYGWM4azuOXNPHJ) | [Part One](https://open.spotify.com/album/5tFoieEkDjaAss8jJC5OI6) | 4:25 | 2021-12-04 | 2024-02-29 |
@@ -1097,7 +1098,7 @@
 | [Son](https://open.spotify.com/track/6hB8LYn54wokKA6cTJGFQq) | [Brolly](https://open.spotify.com/artist/3xpoOiUQYO66hhkFTwoCvr) | [Son](https://open.spotify.com/album/19fXwjC2g2OiYfIfF2hack) | 3:42 | 2024-04-02 | 2024-04-04 |
 | [Soul Mate](https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:57 | 2022-07-26 | 2022-07-27 |
 | [Sounds Like Rain](https://open.spotify.com/track/1QmJBnAUDWQZKyTXato1ah) | [Future Jr.](https://open.spotify.com/artist/6VcDfoZ0pgSOd5rtQDmbo0) | [Sounds Like Rain](https://open.spotify.com/album/6a6wLJTQTTY2T92Bhpkqbm) | 3:02 | 2022-06-06 | 2022-06-22 |
-| [Soundtrack](https://open.spotify.com/track/0EyVRIUOD2x2oiv8VqC8wK) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [A Dream Through Open Eyes](https://open.spotify.com/album/4Z0FjhnrOADyJNLhxv3tUQ) | 3:48 | 2024-10-31 |  |
+| [Soundtrack](https://open.spotify.com/track/0EyVRIUOD2x2oiv8VqC8wK) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [A Dream Through Open Eyes](https://open.spotify.com/album/4Z0FjhnrOADyJNLhxv3tUQ) | 3:48 | 2024-10-31 | 2024-11-12 |
 | [Space Talk](https://open.spotify.com/track/2kqMzzgzqyDrQO4WurQiJA) | [The Native Architects](https://open.spotify.com/artist/4bEcyz1RWDU8f6XnEb1Fay) | [The Native Architects EP](https://open.spotify.com/album/1siCrPD80Sa3PT67PTiJ7J) | 4:18 | 2022-03-11 | 2024-04-16 |
 | [Spanish Dancer](https://open.spotify.com/track/14xFQhVyEiWrr3h3HIcQdc) | [Work Drugs](https://open.spotify.com/artist/0wLfAlTh58anndtgqA0MCU) | [Fantasy File](https://open.spotify.com/album/7mZVBjNxzFLHOXLnv4rPFQ) | 3:56 | 2022-06-24 | 2022-06-25 |
 | [Spectrum](https://open.spotify.com/track/5pEmeoMUW38w1oU3kPelvR) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Nightshade](https://open.spotify.com/album/0UlhdB1GPfs4WozhZBlGdL) | 4:25 | 2022-10-06 | 2024-07-11 |
@@ -1215,7 +1216,7 @@
 | [The Wire](https://open.spotify.com/track/3EV4WRjD3LXu5BAQv479P9) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Fallen Paradise](https://open.spotify.com/album/0Pq2CJXepTD3Tbl9jXhlhu) | 3:00 | 2022-10-07 | 2023-06-12 |
 | [There's Still A Light In The House](https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [MAYBE](https://open.spotify.com/album/2H1daV65dzHfSoYda0wqjB) | 3:23 | 2022-03-27 | 2022-06-22 |
 | [Thirty Eight](https://open.spotify.com/track/1noZLHWZB15QEDBCHq8CdE) | [The Ivy](https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn) | [Thirty Eight](https://open.spotify.com/album/6zxftKiTydsE5rK2AoXncr) | 3:45 | 2021-12-03 | 2023-08-02 |
-| [Thirty Eight](https://open.spotify.com/track/5SFUNL7bQsi8g4RePMFnx1) | [The Ivy](https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn) | [We Move Faster at Night](https://open.spotify.com/album/0XeJPbkckWaqtZiqSIrVfu) | 3:45 | 2023-08-02 |  |
+| [Thirty Eight](https://open.spotify.com/track/5SFUNL7bQsi8g4RePMFnx1) | [The Ivy](https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn) | [We Move Faster at Night](https://open.spotify.com/album/0XeJPbkckWaqtZiqSIrVfu) | 3:45 | 2023-08-02 | 2024-11-12 |
 | [This Could Be](https://open.spotify.com/track/1B3q53I9zJk6NROKVE3EBz) | [Joel Ansett](https://open.spotify.com/artist/49IjdVEbQcukWy36sdRMzl) | [A Place I Knew Before](https://open.spotify.com/album/3kYWkZB8Y1QusFpcybeoRp) | 3:50 | 2022-03-17 | 2022-08-22 |
 | [This Love Rightfully Belongs To Somebody Else](https://open.spotify.com/track/1BsxnX3LtOGrvdvjsN3Ctj) | [Hotel Apache](https://open.spotify.com/artist/2zKbqRqx22axcZA2mUw71Y) | [This Love Rightfully Belongs To Somebody Else](https://open.spotify.com/album/5qXuYjx5p7eN5MNOk9wJkU) | 3:14 | 2022-10-13 | 2022-10-14 |
 | [This Love Rightfully Belongs To Somebody Else](https://open.spotify.com/track/1NKshgxaawDSlAoS7572iR) | [Hotel Apache](https://open.spotify.com/artist/2zKbqRqx22axcZA2mUw71Y) | [This Love Rightfully Belongs To Somebody Else](https://open.spotify.com/album/3S4WnJumUmzDQY5FsLgCk0) | 3:14 | 2022-03-12 | 2022-07-22 |

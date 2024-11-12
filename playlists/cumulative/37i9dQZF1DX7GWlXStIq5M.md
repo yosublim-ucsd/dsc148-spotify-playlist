@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Hiran
 
-863 songs - 1 day 19 hr 17 min
+864 songs - 1 day 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,6 +406,7 @@
 | [LolOLove \(feat\. Pabllo Vittar\)](https://open.spotify.com/track/2ZGXvRgRgUBpMTdflzPEOy) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LolOLove \(feat\. Pabllo Vittar\)](https://open.spotify.com/album/7pxIQkKtEabdKufRaYJ00G) | 2:40 | 2024-08-30 |  |
 | [Love And Choppa](https://open.spotify.com/track/26NEo4Ar57Ph1daWpZX4ke) | [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x) | [Love And Choppa](https://open.spotify.com/album/4cTdjeCkYYssaUIWdhZhyF) | 2:20 | 2020-10-20 | 2022-07-29 |
 | [LOVE COMMUNITY](https://open.spotify.com/track/1VAeAV4KpvrLyFlEyohJMU) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR) | [EPIFANIA](https://open.spotify.com/album/63mfI9tJYa7abqbCGKH86m) | 3:33 | 2024-08-23 | 2024-09-28 |
+| [Low Profile](https://open.spotify.com/track/731N7wLv4OBUNbMzEXvI4y) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [No Escuro,](https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt) | 2:02 | 2024-11-11 |  |
 | [LSD](https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Reviravolta](https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo) | 3:25 | 2023-02-14 | 2023-05-27 |
 | [Lua Cheia](https://open.spotify.com/track/0MpBrNgNg9ihjLNHW7O6pU) | [Wanessa Camargo](https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P) | [Lua Cheia](https://open.spotify.com/album/6aRPIPyZQKpSQi3W2p7o4Y) | 3:01 | 2023-09-29 | 2023-12-02 |
 | [Lud Session \#4: Morrer de Viver / Saudade Daquilo / Tô Querendo Mais / Sem Filtro / Embrasa](https://open.spotify.com/track/3PXJxUzZ6dn9ykFBFMmOnL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Lud Session \#4: Morrer de Viver / Saudade Daquilo / Tô Querendo Mais / Sem Filtro / Embrasa](https://open.spotify.com/album/7dJmTgUEMUj4yUGT0Rv6Wi) | 11:07 | 2024-06-28 |  |
@@ -826,7 +827,7 @@
 | [Vai Tomando](https://open.spotify.com/track/37EuvKYWkLeFEMbE4SLs2u) | [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Vai Tomando](https://open.spotify.com/album/07no1ugHmBtNtEza21XmRm) | 2:51 | 2024-03-01 | 2024-03-23 |
 | [Vai Vai Vai](https://open.spotify.com/track/6DrXs83U3jKRtAOwoveDbO) | [CORA](https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp) | [Vai Vai Vai](https://open.spotify.com/album/4EoRDi6vtNYNHSt5I6PxEk) | 2:44 | 2024-05-31 | 2024-06-22 |
 | [Vai Vendo](https://open.spotify.com/track/2D1YgoOgqGfEENCtsZNXMi) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Vai Vendo](https://open.spotify.com/album/7khLcypJ5ujTq7aK5pAUm5) | 2:42 | 2023-04-28 | 2023-09-30 |
-| [Vamos de Viagem](https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Vamos de Viagem](https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM) | 3:58 | 2024-09-27 |  |
+| [Vamos de Viagem](https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Vamos de Viagem](https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM) | 3:58 | 2024-09-27 | 2024-11-12 |
 | [vc n gosta de garotas](https://open.spotify.com/track/5UrGg0ymrA2Vu0eVT2rbr4) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [vc n gosta de garotas](https://open.spotify.com/album/5b806Xi9jTAm6IPllA4tob) | 2:12 | 2023-06-02 | 2023-07-29 |
 | [vc é msm tão melhor que eu?](https://open.spotify.com/track/2K24ijOSojf6F2q0HXgy6b) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [vc é msm tão melhor que eu?](https://open.spotify.com/album/03SguNzZdoSYJwIwOGAlSk) | 3:29 | 2023-02-14 | 2023-03-25 |
 | [vc é uma bagunça](https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4) | [SANTIN](https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF) | [vc é uma bagunça](https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB) | 2:51 | 2023-02-14 | 2023-04-09 |

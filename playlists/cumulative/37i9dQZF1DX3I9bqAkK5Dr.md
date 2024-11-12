@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-304 songs - 18 hr 21 min
+305 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Raane Raava](https://open.spotify.com/track/02sEnHsPSSlyxdRzxpqOJg) | [Siddharth Tanuku](https://open.spotify.com/artist/6CEaNdvNoW4WAOQU8Y616N), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Sindhuja Tanuku](https://open.spotify.com/artist/6MFgsuRbk8fELevIMJWFQr) | [Raane Raava](https://open.spotify.com/album/56HGf8gQ64AIT8I1pEKwIX) | 3:47 | 2023-07-24 | 2024-02-15 |
 | [Raava Raava](https://open.spotify.com/track/0zsKh0ggH3rul0d6AAAOYJ) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN), [Priyanka Nath](https://open.spotify.com/artist/7xKgO2AdW8dPHlXrxBNTpE) | [Raava Raava](https://open.spotify.com/album/0ICVIqrfGQNNFVKutHLkrJ) | 2:50 | 2024-02-20 | 2024-03-18 |
 | [Raba Raba](https://open.spotify.com/track/1XiHI6xjy82Pkef0EnC8ec) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo), [Megh\-Uh\-Watt](https://open.spotify.com/artist/2UBDp4nIwkdAxlukxa5lbj) | [Raba Raba](https://open.spotify.com/album/05WGgEw9k8SU61WsFU6Ig2) | 4:38 | 2022-07-18 | 2023-08-19 |
+| [Radhe Krishna Radhe](https://open.spotify.com/track/3gPcdtrU3nubU5QKdR54k8) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo), [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM) | [Radhe Krishna Radhe](https://open.spotify.com/album/0wb1P6iFh9Yf7LX90vmAM7) | 5:08 | 2024-11-11 |  |
 | [Ramaya](https://open.spotify.com/track/1gACI6AAvdUSgfBJ4IattI) | [Vijay Bhaskar L.](https://open.spotify.com/artist/1rglCx3pLWu1PjPAEwzXMb), [Saurav Mishra](https://open.spotify.com/artist/6wsMHexQk4I53uIXIb5QOx), [Chahat Kakkar](https://open.spotify.com/artist/7vPrkJCMTYLVCfgEhrOSGO) | [Ramaya](https://open.spotify.com/album/51ZV12M5Rwx88kZPCksKEs) | 3:35 | 2023-08-05 | 2024-04-19 |
 | [Ramaya](https://open.spotify.com/track/6N7vDEn2IwTeWCDsgwxNOt) | [Vijay Bhaskar L.](https://open.spotify.com/artist/1rglCx3pLWu1PjPAEwzXMb), [Saurav Mishra](https://open.spotify.com/artist/6wsMHexQk4I53uIXIb5QOx), [Chahat Kakkar](https://open.spotify.com/artist/7vPrkJCMTYLVCfgEhrOSGO) | [Ramaya](https://open.spotify.com/album/0ThcLdv1zgkPsPf0VYVemw) | 3:35 | 2023-08-05 |  |
 | [SA NI SA GA MA](https://open.spotify.com/track/1s371qM1lEeyGneuZcD0EG) | [MaaHaa](https://open.spotify.com/artist/2nON7IMoqVBIWONZabqWBC), [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [SA NI SA GA MA](https://open.spotify.com/album/4ciUgN97ydTzxfyWkYDEib) | 2:23 | 2024-07-31 | 2024-09-12 |

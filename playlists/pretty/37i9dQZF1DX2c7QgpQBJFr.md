@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > Gli astri nascenti del pop italiano 🔮 Cover: Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,964 likes - 90 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,989 likes - 90 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [il filo rosso](https://open.spotify.com/track/2403gCM2RluhMgBc9TSwp7) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [il filo rosso](https://open.spotify.com/album/745x0ghuwicXeSTvOM4RX2) | 3:07 |
-| 2 | [New York](https://open.spotify.com/track/7hBHGaopLsZAcZ36wJpL1t) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x) | [New York](https://open.spotify.com/album/0K1BwtPMtI7Ohv8VLcqzt4) | 2:42 |
-| 3 | [Per due come noi](https://open.spotify.com/track/5mKHtB2OGDXzbsInzW7veZ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Per due come noi](https://open.spotify.com/album/6vkoEHhulbsz7twfso0VxJ) | 3:32 |
-| 4 | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/track/1A202wT21CErLDE7FikK03) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/album/2pP5kkrKygJ5sFsxHXJhSC) | 3:03 |
-| 5 | [POLIGONO](https://open.spotify.com/track/26DVj8eE9JXAEezr4FX1FS) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [POLIGONO](https://open.spotify.com/album/2BaVoNq0nqYlogPJ6qTaPI) | 2:17 |
-| 6 | [HELLO KITTY \(feat\. Sillyelly\)](https://open.spotify.com/track/3zjwZqLebYTDvRS2RJH5Be) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 2:29 |
+| 2 | [Per due come noi](https://open.spotify.com/track/5mKHtB2OGDXzbsInzW7veZ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Per due come noi](https://open.spotify.com/album/6vkoEHhulbsz7twfso0VxJ) | 3:32 |
+| 3 | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/track/1A202wT21CErLDE7FikK03) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/album/2pP5kkrKygJ5sFsxHXJhSC) | 3:03 |
+| 4 | [POLIGONO](https://open.spotify.com/track/26DVj8eE9JXAEezr4FX1FS) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [POLIGONO](https://open.spotify.com/album/2BaVoNq0nqYlogPJ6qTaPI) | 2:17 |
+| 5 | [HELLO KITTY \(feat\. Sillyelly\)](https://open.spotify.com/track/3zjwZqLebYTDvRS2RJH5Be) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 2:29 |
+| 6 | [NERO GOTICO](https://open.spotify.com/track/6KbUvkzreQlxHvqaCaBLRs) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [NERO GOTICO](https://open.spotify.com/album/0JiU4u8hx5PbwDgfEHYRmg) | 3:04 |
 | 7 | [Clerks](https://open.spotify.com/track/0Y37dZop210Tjb3yGXHJsy) | [Yasmina](https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI) | [Clerks](https://open.spotify.com/album/65B0Wq250ieEW77pST8s2F) | 3:07 |
-| 8 | [AH \) AH \)](https://open.spotify.com/track/7D9m1E6i0uidnxxBRZtcKg) | [Memento](https://open.spotify.com/artist/0aLqxZ1Hht4j1C66IZ57oR) | [AH \) AH \)](https://open.spotify.com/album/50uqyqDEauW3Efn9tNU2bt) | 2:44 |
-| 9 | [NERO GOTICO](https://open.spotify.com/track/6KbUvkzreQlxHvqaCaBLRs) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [NERO GOTICO](https://open.spotify.com/album/0JiU4u8hx5PbwDgfEHYRmg) | 3:04 |
+| 8 | [New York](https://open.spotify.com/track/7hBHGaopLsZAcZ36wJpL1t) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x) | [New York](https://open.spotify.com/album/0K1BwtPMtI7Ohv8VLcqzt4) | 2:42 |
+| 9 | [AH \) AH \)](https://open.spotify.com/track/7D9m1E6i0uidnxxBRZtcKg) | [Memento](https://open.spotify.com/artist/0aLqxZ1Hht4j1C66IZ57oR) | [AH \) AH \)](https://open.spotify.com/album/50uqyqDEauW3Efn9tNU2bt) | 2:44 |
 | 10 | [staserasole](https://open.spotify.com/track/1O4e3OQFgDlLQ2jCtdBuYX) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [staserasole](https://open.spotify.com/album/1b8YP0zvpXXX9MnYLwDm4S) | 2:54 |
 | 11 | [Sott'acqua](https://open.spotify.com/track/3tub5MMUOAAGddDAgmOCGx) | [FRENÈSYA](https://open.spotify.com/artist/3kiRuZtCjfRNm4o0mhMteW), [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [Sott'acqua](https://open.spotify.com/album/6yqqyHFUmgjTcHGf7EvxsF) | 3:11 |
 | 12 | [prima dell'alba](https://open.spotify.com/track/2NsSeFDGxErU743AqkBdIP) | [Ottobre](https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp) | [prima dell'alba](https://open.spotify.com/album/6wcSGeGRc4jntrQg419uHK) | 2:52 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 89 | [Mambo](https://open.spotify.com/track/1Eslj0XCaVpzPbYBmaol7T) | [Tatum Rush](https://open.spotify.com/artist/47p2js8l70JjDWGS0a1hqr) | [Mambo](https://open.spotify.com/album/4Rf1gy3dHPSQNFhanMHtjp) | 4:05 |
 | 90 | [Una come te](https://open.spotify.com/track/1lSMWsYGwTa17qJzvCqB3C) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [Una come te](https://open.spotify.com/album/2WBl8ncquaQ5OrnnMkbvUK) | 2:42 |
 
-Snapshot ID: `Zy3SiAAAAADa+gr9S3WT0sQv1SlIk95b`
+Snapshot ID: `ZzI63QAAAAAmg1gfw8IDFDEIyOB3b90z`

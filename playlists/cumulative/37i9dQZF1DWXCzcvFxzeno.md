@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-192 songs - 15 hr 4 min
+193 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Calvin Klein](https://open.spotify.com/track/5C69PdWc5YoFWiZV1q9aBR) | [Andrew Cairns](https://open.spotify.com/artist/6DqZtx0QR4tIjt9sRN4kO1) | [Calvin Klein](https://open.spotify.com/album/57SHeyxA2ubPJFNExodhzB) | 7:42 | 2024-06-14 | 2024-06-17 |
 | [Can You Feel It](https://open.spotify.com/track/7wjdC6qnD3sBBJWVIF2tb2) | [OMAKS](https://open.spotify.com/artist/41GRjz5PGO2O66R6aHLVhm), [CHAST](https://open.spotify.com/artist/47MfeoK51R2miigq4AtnuB) | [Can You Feel It](https://open.spotify.com/album/57bbRzO01n3k5md318EFtK) | 4:06 | 2024-07-21 | 2024-08-06 |
 | [Chaos Magicka](https://open.spotify.com/track/5I5urH7JO7rRAUI4JCodLW) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Godtripper](https://open.spotify.com/artist/3wXRRhirLZoMLwuw9d8PIb) | [Chaos Magicka](https://open.spotify.com/album/0diP5S4t1ExwK7TWcD7Z4N) | 7:08 | 2024-04-09 | 2024-09-07 |
+| [Check This Out](https://open.spotify.com/track/3a89QceqmzHlPRaogH5nJw) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [Check This Out](https://open.spotify.com/album/1XnfpLcJqpAZsnpj7StCSn) | 2:47 | 2024-11-08 |  |
 | [Close Your Eyes](https://open.spotify.com/track/1Hll6B9gqsOFi2Bln02laD) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Close Your Eyes EP](https://open.spotify.com/album/6hHi4OlpNnto3GNoLQyUG9) | 5:01 | 2024-04-09 |  |
 | [Cluster Bomb](https://open.spotify.com/track/2V5YHjI4Gp31F2yd625k6z) | [USH](https://open.spotify.com/artist/1soUF8xmV5ij7Zi5ykNGr6) | [Cluster Bomb](https://open.spotify.com/album/1IxOVmlQRhNlhxaFd7ePpw) | 6:34 | 2024-04-09 |  |
 | [Come With Me](https://open.spotify.com/track/0YAjsNY7yy3zbvX3HB2cP1) | [Lee Ann Roberts](https://open.spotify.com/artist/0vemAVjLY9Dbz229ZqRlT1) | [Come With Me EP](https://open.spotify.com/album/4DuL4YsE1cpJ8kS7pKJ4VJ) | 5:13 | 2024-04-09 | 2024-08-06 |
@@ -111,7 +112,7 @@
 | [LSD XTC \(Do We Really Need\)](https://open.spotify.com/track/6wDwOzcVzg2HOKQk969a5Q) | [Krampf](https://open.spotify.com/artist/1sP5vDxtN8qBPTVxmUAhU9) | [What Is A Dj If He Can't Care](https://open.spotify.com/album/1qY7Th1XEsZFmgY1kPgg7O) | 3:52 | 2024-04-09 | 2024-06-19 |
 | [Magic Feet](https://open.spotify.com/track/7p7XX2brjwJG6DP4S34EPH) | [RobJanssen](https://open.spotify.com/artist/2FDAjR63mWtjnNpVo6ZB4X) | [Magic Feet](https://open.spotify.com/album/2KSFw3D1cGAITmkYQYFish) | 3:54 | 2024-07-14 | 2024-07-22 |
 | [Massive Attack](https://open.spotify.com/track/2MlYnCsWXwMyVVQMZmYMYr) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk) | [Massive Attack](https://open.spotify.com/album/2RmsWUdkRKEIrcQhSVFCLF) | 4:06 | 2024-04-09 | 2024-07-27 |
-| [Masterclass](https://open.spotify.com/track/08KQZbwrjvdXQrnzv9gxG6) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy) | [Verknipt ArenA](https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap) | 5:19 | 2024-07-18 |  |
+| [Masterclass](https://open.spotify.com/track/08KQZbwrjvdXQrnzv9gxG6) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy) | [Verknipt ArenA](https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap) | 5:19 | 2024-07-18 | 2024-11-12 |
 | [Maxillary](https://open.spotify.com/track/5AmuUxZMohX4OID3qErMhM) | [Stan Christ](https://open.spotify.com/artist/0aby7MYHsm3JS0eSifxu3I) | [Maxillary Marble](https://open.spotify.com/album/3Hn6c5CEHBiaWbeGQ75xuX) | 4:08 | 2024-04-09 |  |
 | [Meet Her At The Love Parade \- Mixed Cut](https://open.spotify.com/track/5KcrlmHmiVV6tzmP8k2W1R) | [JTS](https://open.spotify.com/artist/1n9qeXgQufKhjWdgKFd3no), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [OneSeventy: The Annual II](https://open.spotify.com/album/6qcw68pT9kM1qQWnyzmZev) | 2:44 | 2024-04-09 | 2024-08-06 |
 | [Meet Me In São Paulo \(Grelinho De Diamante\)](https://open.spotify.com/track/2uWlcCQw3nbQosOPkiLHQt) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [MC Tchelinho](https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv), [Mc Baby Perigosa](https://open.spotify.com/artist/4cozwOHA4R5HtklxTTV4o6) | [Meet Me In São Paulo \(Grelinho De Diamante\) \(feat\. Heavy Baile, Baby Perigosa & MC Tchelinho\)](https://open.spotify.com/album/6d0oiamRHpnu65xFI2jNax) | 5:09 | 2024-06-18 |  |

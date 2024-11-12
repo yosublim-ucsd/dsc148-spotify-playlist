@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-997 songs - 2 day 23 hr 42 min
+998 songs - 2 day 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,7 +411,7 @@
 | [I Need Space](https://open.spotify.com/track/2y6krW4iylDWiKVxTzUJcE) | [M!NT ](https://open.spotify.com/artist/1ghaj9f3HCe4tMU4SVjplQ) | [I Need Space](https://open.spotify.com/album/5P9bG3UUgZXY8NsufEtSJH) | 5:24 | 2019-06-19\* | 2022-04-21 |
 | [I Need Space](https://open.spotify.com/track/3mi4Vz5N9Co1aSuoOIaETz) | [M!NT ](https://open.spotify.com/artist/1ghaj9f3HCe4tMU4SVjplQ) | [I Need Space](https://open.spotify.com/album/7iUlntb6FvS1J72XpLLPBg) | 5:24 | 2023-10-13 | 2024-03-26 |
 | [I Promise](https://open.spotify.com/track/2FG1ayvioaTgtj8dhcZGCV) | [Fossa Beats](https://open.spotify.com/artist/2J7Bw3q4TQwPwSjNPmASKt), [Thomas White](https://open.spotify.com/artist/4g03rM1dkEDxd2nrURVNML), [LIA](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [I Promise](https://open.spotify.com/album/6RQ3my9LG8W8uO90TZlHhe) | 3:13 | 2019-06-19\* | 2020-10-22 |
-| [I Remember Maine](https://open.spotify.com/track/1YrV8fAkywtQ1fs4GwGewK) | [Swardy](https://open.spotify.com/artist/5iTOaSGMZgJ1U8k6NjmzTx) | [Here on My Own](https://open.spotify.com/album/6c93BbSAJETqKh5THU24qa) | 2:53 | 2019-06-19\* |  |
+| [I Remember Maine](https://open.spotify.com/track/1YrV8fAkywtQ1fs4GwGewK) | [Swardy](https://open.spotify.com/artist/5iTOaSGMZgJ1U8k6NjmzTx) | [Here on My Own](https://open.spotify.com/album/6c93BbSAJETqKh5THU24qa) | 2:53 | 2019-06-19\* | 2024-11-12 |
 | [I Swear](https://open.spotify.com/track/4xPs6xdv9X9kK09O2cxyMX) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [I Swear](https://open.spotify.com/album/4rrhSoTg6l3TQTqUyLuiie) | 3:54 | 2020-08-26 | 2020-10-22 |
 | [i was only temporary](https://open.spotify.com/track/0X4YYZtZcvqNqYIpMd93IT) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [i was only temporary](https://open.spotify.com/album/24tfAQTRqLfKw5bFjMhc4m) | 1:38 | 2024-02-27 | 2024-04-19 |
 | [I'm Alright](https://open.spotify.com/track/254NRuC2jeWrhfcd76Bp1R) | [Sonny Side Up](https://open.spotify.com/artist/4gFsE3BJKgBw4VdueiIrEl) | [I'm Alright](https://open.spotify.com/album/5O2HECZW7nWOhLjudwxm0S) | 4:20 | 2019-06-19\* | 2020-10-21 |
@@ -797,6 +797,7 @@
 | [Star Tripper](https://open.spotify.com/track/62GJnNUrj6V1LPBS5zaKrk) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Star Wars Headspace](https://open.spotify.com/album/6oJnwRad77TohXQ683Rlw6) | 4:37 | 2019-05-26\* | 2020-10-22 |
 | [Starbeam](https://open.spotify.com/track/2i7ynLHCA3ZcBaHWHT522D) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Starbeam](https://open.spotify.com/album/1ribwcOXBbRU2xXDVWLvkf) | 5:50 | 2021-11-26 | 2022-07-29 |
 | [Starlight](https://open.spotify.com/track/5epMdylltsD0tLc8TCkt9M) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Starlight](https://open.spotify.com/album/1Ff2oSlw18ClcWPl5TsVM1) | 2:50 | 2019-06-19\* | 2024-09-21 |
+| [Stay Here](https://open.spotify.com/track/1y5R89Y60XQEaB3d4ZziqD) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF), [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [Stay Here](https://open.spotify.com/album/1CVqowMvToHt4p2wGRUoqg) | 5:51 | 2024-11-11 |  |
 | [Still Think](https://open.spotify.com/track/3lBmRItELTgJjFMgI76Onm) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Chrome Sparks](https://open.spotify.com/album/5Y0yPA0zZetcpimqsegK1i) | 5:35 | 2019-06-19\* | 2020-10-21 |
 | [Storm / Mom](https://open.spotify.com/track/0NDlsZ7UP5jNf9RjhLOZPA) | [Will Wiesenfeld](https://open.spotify.com/artist/2yAle6ZkLiTfqIndO18gmm), [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO), [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Bee and PuppyCat \(Soundtrack from the Netflix Series\) Vol\. 2](https://open.spotify.com/album/6AsBQU7S9TYkTAc4AIRPQb) | 2:31 | 2023-07-17 |  |
 | [Strand of Life \("Viroid"\)](https://open.spotify.com/track/038kVJ5c2qXrdSnx79DnzG) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 1:21 | 2023-12-12 |  |

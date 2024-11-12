@@ -1,12 +1,12 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Casero.",
-  "num_followers": 195563,
+  "num_followers": 195567,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy3TUwAAAAD4xRWAsBXPBfuLPoaWNQya",
+  "snapshot_id": "ZzIqDQAAAACzWn8wxOFn6hHt8Xq+0NLl",
   "tracks": [
     {
       "added_at": "2024-11-08 09:01:07",
@@ -63,6 +63,26 @@
     {
       "added_at": "2024-11-08 09:01:07",
       "album": {
+        "name": "Las burbujas del caj\u00f3n",
+        "url": "https://open.spotify.com/album/36dpLupe8eMdmdfjPvEcqM"
+      },
+      "artists": [
+        {
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        },
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 193731,
+      "name": "No me dejes caer",
+      "url": "https://open.spotify.com/track/2sPHM5gHzgGT8UrhWxQrjl"
+    },
+    {
+      "added_at": "2024-11-08 09:01:07",
+      "album": {
         "name": "estoy exagerando???",
         "url": "https://open.spotify.com/album/3xZu3Cr9aWpxjzON9D7WEK"
       },
@@ -95,26 +115,6 @@
       "duration_ms": 206099,
       "name": "Yo pensaba que me hab\u00eda tocado Dios",
       "url": "https://open.spotify.com/track/0vF9TaEJHO0Zm1ejF7AGC0"
-    },
-    {
-      "added_at": "2024-11-08 09:01:07",
-      "album": {
-        "name": "Las burbujas del caj\u00f3n",
-        "url": "https://open.spotify.com/album/36dpLupe8eMdmdfjPvEcqM"
-      },
-      "artists": [
-        {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
-        },
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 193731,
-      "name": "No me dejes caer",
-      "url": "https://open.spotify.com/track/2sPHM5gHzgGT8UrhWxQrjl"
     },
     {
       "added_at": "2024-11-08 09:01:07",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-11-08 09:01:07",
       "album": {
+        "name": "Vanpiro Esiten",
+        "url": "https://open.spotify.com/album/2eHsjsBYGnP3PQfsgltUJX"
+      },
+      "artists": [
+        {
+          "name": "San Tosielo",
+          "url": "https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH"
+        }
+      ],
+      "duration_ms": 221901,
+      "name": "Nunca mas",
+      "url": "https://open.spotify.com/track/3Y9zYTkAvU39kDb1aTdCXx"
+    },
+    {
+      "added_at": "2024-11-08 09:01:07",
+      "album": {
         "name": "Nost\u00e0lgia Airlines",
         "url": "https://open.spotify.com/album/5csb7A1tX7g8GCvar9WuLV"
       },
@@ -643,26 +659,6 @@
       "duration_ms": 176176,
       "name": "Pura geografia",
       "url": "https://open.spotify.com/track/7hO8gFY9xTofMHbZIoSRGv"
-    },
-    {
-      "added_at": "2024-11-08 09:01:07",
-      "album": {
-        "name": "Es una pena",
-        "url": "https://open.spotify.com/album/1qYGyKL6Q443FpjczaERxL"
-      },
-      "artists": [
-        {
-          "name": "San Tosielo",
-          "url": "https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH"
-        },
-        {
-          "name": "Toldos Verdes",
-          "url": "https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw"
-        }
-      ],
-      "duration_ms": 213500,
-      "name": "Es una pena",
-      "url": "https://open.spotify.com/track/7ASXACpWPBo6yGQVV3HK3i"
     },
     {
       "added_at": "2024-11-08 09:01:07",
@@ -719,6 +715,26 @@
     {
       "added_at": "2024-11-08 09:01:07",
       "album": {
+        "name": "Es una pena",
+        "url": "https://open.spotify.com/album/1qYGyKL6Q443FpjczaERxL"
+      },
+      "artists": [
+        {
+          "name": "San Tosielo",
+          "url": "https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH"
+        },
+        {
+          "name": "Toldos Verdes",
+          "url": "https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw"
+        }
+      ],
+      "duration_ms": 213500,
+      "name": "Es una pena",
+      "url": "https://open.spotify.com/track/7ASXACpWPBo6yGQVV3HK3i"
+    },
+    {
+      "added_at": "2024-11-08 09:01:07",
+      "album": {
         "name": "La Ceniza (feat. Valeria Castro)",
         "url": "https://open.spotify.com/album/3H9GNHRuz3ybedGvH5WCyo"
       },
@@ -755,34 +771,22 @@
     {
       "added_at": "2024-11-08 09:01:07",
       "album": {
-        "name": "LA AVENTURA",
-        "url": "https://open.spotify.com/album/64tqdgffrYyDYKTsJZ38IY"
+        "name": "Chico Bueno",
+        "url": "https://open.spotify.com/album/3fKEevUtThfO4c1R8gh1so"
       },
       "artists": [
         {
-          "name": "Le\u00f3n Benavente",
-          "url": "https://open.spotify.com/artist/5wuBA4TiRM0CNjSXjsutn6"
-        }
-      ],
-      "duration_ms": 254802,
-      "name": "LA AVENTURA",
-      "url": "https://open.spotify.com/track/28Yl5Fn4ahrXrBTm8zGJgl"
-    },
-    {
-      "added_at": "2024-11-08 09:01:07",
-      "album": {
-        "name": "Vanpiro Esiten",
-        "url": "https://open.spotify.com/album/2eHsjsBYGnP3PQfsgltUJX"
-      },
-      "artists": [
+          "name": "Maria Rod\u00e9s",
+          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
+        },
         {
-          "name": "San Tosielo",
-          "url": "https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH"
+          "name": "BRONQUIO",
+          "url": "https://open.spotify.com/artist/5ChiL2aAGunqF9P4m3giP1"
         }
       ],
-      "duration_ms": 221901,
-      "name": "Nunca mas",
-      "url": "https://open.spotify.com/track/3Y9zYTkAvU39kDb1aTdCXx"
+      "duration_ms": 178532,
+      "name": "Chico Bueno",
+      "url": "https://open.spotify.com/track/16iyniG7adFrbPGJTZ5Fkk"
     },
     {
       "added_at": "2024-11-08 09:01:07",
@@ -799,6 +803,22 @@
       "duration_ms": 177811,
       "name": "dos sombras",
       "url": "https://open.spotify.com/track/11qEJrBkjCFHIwhAFJYF6b"
+    },
+    {
+      "added_at": "2024-11-08 09:01:07",
+      "album": {
+        "name": "LA AVENTURA",
+        "url": "https://open.spotify.com/album/64tqdgffrYyDYKTsJZ38IY"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Benavente",
+          "url": "https://open.spotify.com/artist/5wuBA4TiRM0CNjSXjsutn6"
+        }
+      ],
+      "duration_ms": 254802,
+      "name": "LA AVENTURA",
+      "url": "https://open.spotify.com/track/28Yl5Fn4ahrXrBTm8zGJgl"
     },
     {
       "added_at": "2024-11-08 09:01:07",
@@ -923,22 +943,6 @@
     {
       "added_at": "2024-11-08 09:01:07",
       "album": {
-        "name": "abrigo",
-        "url": "https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 169955,
-      "name": "abrigo",
-      "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
-    },
-    {
-      "added_at": "2024-11-08 09:01:07",
-      "album": {
         "name": "No Quiero Ser Tu Amiga",
         "url": "https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv"
       },
@@ -971,18 +975,18 @@
     {
       "added_at": "2024-11-08 09:01:07",
       "album": {
-        "name": "El Psicod\u00e9lico (Guajira del Diablo)",
-        "url": "https://open.spotify.com/album/1tq2mdZBrjiBSOfn7Yk6pT"
+        "name": "abrigo",
+        "url": "https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa"
       },
       "artists": [
         {
-          "name": "Los Telep\u00e1ticos",
-          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
         }
       ],
-      "duration_ms": 338505,
-      "name": "El Psicod\u00e9lico (Guajira del Diablo)",
-      "url": "https://open.spotify.com/track/5kwcfKuGUbJxrzcbdHPR1P"
+      "duration_ms": 169955,
+      "name": "abrigo",
+      "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
     },
     {
       "added_at": "2024-11-08 09:01:07",
@@ -1003,26 +1007,6 @@
     {
       "added_at": "2024-11-08 09:01:07",
       "album": {
-        "name": "Chico Bueno",
-        "url": "https://open.spotify.com/album/3fKEevUtThfO4c1R8gh1so"
-      },
-      "artists": [
-        {
-          "name": "Maria Rod\u00e9s",
-          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
-        },
-        {
-          "name": "BRONQUIO",
-          "url": "https://open.spotify.com/artist/5ChiL2aAGunqF9P4m3giP1"
-        }
-      ],
-      "duration_ms": 178532,
-      "name": "Chico Bueno",
-      "url": "https://open.spotify.com/track/16iyniG7adFrbPGJTZ5Fkk"
-    },
-    {
-      "added_at": "2024-11-08 09:01:07",
-      "album": {
         "name": "Vespa Verde Agua",
         "url": "https://open.spotify.com/album/6S34sLuIoNgwBaodiISKmz"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 166134,
       "name": "Vespa Verde Agua",
       "url": "https://open.spotify.com/track/2JIwRrmCSPwr0dutKHhM1Z"
+    },
+    {
+      "added_at": "2024-11-08 09:01:07",
+      "album": {
+        "name": "El Psicod\u00e9lico (Guajira del Diablo)",
+        "url": "https://open.spotify.com/album/1tq2mdZBrjiBSOfn7Yk6pT"
+      },
+      "artists": [
+        {
+          "name": "Los Telep\u00e1ticos",
+          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
+        }
+      ],
+      "duration_ms": 338505,
+      "name": "El Psicod\u00e9lico (Guajira del Diablo)",
+      "url": "https://open.spotify.com/track/5kwcfKuGUbJxrzcbdHPR1P"
     },
     {
       "added_at": "2024-11-08 09:01:07",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-11-08 09:01:07",
       "album": {
-        "name": "SOMOS JAVYPABLO",
-        "url": "https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq"
-      },
-      "artists": [
-        {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Rayito de Luz",
-      "url": "https://open.spotify.com/track/1WmMIhHYDgetAn0dpx68Qn"
-    },
-    {
-      "added_at": "2024-11-08 09:01:07",
-      "album": {
         "name": "BLU",
         "url": "https://open.spotify.com/album/0lTNBDVR2b8Ubcm0L44CA5"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 148650,
       "name": "BLU",
       "url": "https://open.spotify.com/track/1SBcduWy2JPFRDKqxBjowZ"
+    },
+    {
+      "added_at": "2024-11-08 09:01:07",
+      "album": {
+        "name": "SOMOS JAVYPABLO",
+        "url": "https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq"
+      },
+      "artists": [
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Rayito de Luz",
+      "url": "https://open.spotify.com/track/1WmMIhHYDgetAn0dpx68Qn"
     },
     {
       "added_at": "2024-11-08 09:01:07",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-11-08 09:01:07",
       "album": {
-        "name": "Morir en otra habitaci\u00f3n",
-        "url": "https://open.spotify.com/album/37HCFcqoKad0SKBsnamidN"
-      },
-      "artists": [
-        {
-          "name": "Wild Honey",
-          "url": "https://open.spotify.com/artist/1RLwfTeuQPUkU6z1JQiE4P"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Morir en otra habitaci\u00f3n",
-      "url": "https://open.spotify.com/track/5edvbrdzSYTOunsFgog4xq"
-    },
-    {
-      "added_at": "2024-11-08 09:01:07",
-      "album": {
         "name": "Cre\u00ed que era eterno",
         "url": "https://open.spotify.com/album/0ScaKkT4wLKLPonVW0zLXH"
       },
@@ -1623,6 +1607,38 @@
       "duration_ms": 222755,
       "name": "Har\u00eda Lo Que Fuera (Menos Lo Que T\u00fa Quieras)",
       "url": "https://open.spotify.com/track/73oQIXIzoLHl9A3ra8GIIo"
+    },
+    {
+      "added_at": "2024-11-08 09:01:07",
+      "album": {
+        "name": "Morir en otra habitaci\u00f3n",
+        "url": "https://open.spotify.com/album/37HCFcqoKad0SKBsnamidN"
+      },
+      "artists": [
+        {
+          "name": "Wild Honey",
+          "url": "https://open.spotify.com/artist/1RLwfTeuQPUkU6z1JQiE4P"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "Morir en otra habitaci\u00f3n",
+      "url": "https://open.spotify.com/track/5edvbrdzSYTOunsFgog4xq"
+    },
+    {
+      "added_at": "2024-11-08 09:01:07",
+      "album": {
+        "name": "El imperio de la sombra",
+        "url": "https://open.spotify.com/album/7EThEF5MQKFB7XUPTXzjIp"
+      },
+      "artists": [
+        {
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+        }
+      ],
+      "duration_ms": 187043,
+      "name": "Como en las pel\u00edculas",
+      "url": "https://open.spotify.com/track/4v84egzXdyyal7OOwu5Mi3"
     },
     {
       "added_at": "2024-11-08 09:01:07",
@@ -1687,22 +1703,6 @@
       "duration_ms": 202413,
       "name": "Ajedrez",
       "url": "https://open.spotify.com/track/2nMK2nFgxfTJdjyZPw8O04"
-    },
-    {
-      "added_at": "2024-11-08 09:01:07",
-      "album": {
-        "name": "Imparables",
-        "url": "https://open.spotify.com/album/54exH2VGexs9RCa8DErqKa"
-      },
-      "artists": [
-        {
-          "name": "Carmen 113",
-          "url": "https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Imparables",
-      "url": "https://open.spotify.com/track/1lpXBntIB3GILpelgl7hWn"
     }
   ],
   "unique_name": "Radar Indie",

@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 118215,
+  "num_followers": 118264,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Heart to Break",
-        "url": "https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 225972,
-      "name": "Heart to Break",
-      "url": "https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Late Night Feelings (feat. Lykke Li)",
         "url": "https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 251028,
       "name": "Late Night Feelings (feat. Lykke Li)",
       "url": "https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Heart to Break",
+        "url": "https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 225972,
+      "name": "Heart to Break",
+      "url": "https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "PCD",
-        "url": "https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG"
-      },
-      "artists": [
-        {
-          "name": "The Pussycat Dolls",
-          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "I Don't Need A Man",
-      "url": "https://open.spotify.com/track/21avvmlLWna5CQMxSNDLL8"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Can't Do Better",
         "url": "https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 188616,
       "name": "Can't Do Better",
       "url": "https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "PCD",
+        "url": "https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "I Don't Need A Man",
+      "url": "https://open.spotify.com/track/21avvmlLWna5CQMxSNDLL8"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "With The Music I Die (Deluxe)",
-        "url": "https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4"
-      },
-      "artists": [
-        {
-          "name": "Wynter Gordon",
-          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
-        }
-      ],
-      "duration_ms": 197586,
-      "name": "Dirty Talk",
-      "url": "https://open.spotify.com/track/0MX8RxbgtZWRGZRE0Z6zNS"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Bubblebath",
         "url": "https://open.spotify.com/album/1LXJcgThDI0rAJRBkRk07s"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 205693,
       "name": "Lowlife",
       "url": "https://open.spotify.com/track/5efvxYn0J1q8iuIZBqpDD7"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "With The Music I Die (Deluxe)",
+        "url": "https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4"
+      },
+      "artists": [
+        {
+          "name": "Wynter Gordon",
+          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "Dirty Talk",
+      "url": "https://open.spotify.com/track/0MX8RxbgtZWRGZRE0Z6zNS"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Dedicated",
+        "url": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 166293,
+      "name": "Want You In My Room",
+      "url": "https://open.spotify.com/track/6cDPJqKw8PUBw5SigKszrL"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Record Collection",
         "url": "https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 297933,
       "name": "Somebody to Love Me",
       "url": "https://open.spotify.com/track/2Tky1eOpdLXo8yYawnTMcj"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Dedicated",
-        "url": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 166293,
-      "name": "Want You In My Room",
-      "url": "https://open.spotify.com/track/6cDPJqKw8PUBw5SigKszrL"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Glorious (Deluxe)",
-        "url": "https://open.spotify.com/album/5AQ7uKRSpAv7SNUl4j24ru"
-      },
-      "artists": [
-        {
-          "name": "Foxes",
-          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
-        }
-      ],
-      "duration_ms": 238413,
-      "name": "Let Go for Tonight",
-      "url": "https://open.spotify.com/track/59lq75uFIqzUZcgZ4CbqFG"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "OMG (with Carly Rae Jepsen)",
         "url": "https://open.spotify.com/album/4JkXuSuTgVNPh7hBOhPXjz"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 215737,
       "name": "OMG (with Carly Rae Jepsen)",
       "url": "https://open.spotify.com/track/2j9YmQRxtjuVwb4XN95oT8"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Glorious (Deluxe)",
+        "url": "https://open.spotify.com/album/5AQ7uKRSpAv7SNUl4j24ru"
+      },
+      "artists": [
+        {
+          "name": "Foxes",
+          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
+        }
+      ],
+      "duration_ms": 238413,
+      "name": "Let Go for Tonight",
+      "url": "https://open.spotify.com/track/59lq75uFIqzUZcgZ4CbqFG"
     },
     {
       "added_at": "2024-06-02 21:23:10",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Romania.
 
-1,816 songs - 3 day 23 hr 43 min
+1,817 songs - 3 day 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [1 la 1000](https://open.spotify.com/track/4zqoBvBwZb50UU5QDvyIdC) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Ștefan IV](https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp) | 3:57 | 2024-04-27 | 2024-05-04 |
 | [100](https://open.spotify.com/track/1vvz8qng1Yq9HMVA5ydtSk) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [El Dios Del Trap](https://open.spotify.com/album/3YaKO8Onav9mtrTUQE0tjX) | 2:18 | 2022-08-02 | 2022-08-07 |
 | [112](https://open.spotify.com/track/62oHVZYgTX6DqaHQPWVIuU) | [Beach, Please!](https://open.spotify.com/artist/0AljsDnrnSvZELOH1OE9CB), [Berechet](https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ) | [112](https://open.spotify.com/album/6uWEh4pXA3d0kNwADBszxg) | 2:05 | 2022-05-03 | 2022-11-15 |
-| [112 Arabii](https://open.spotify.com/track/6ryYkPaIuqPcnlWwJrdMBN) | [Alex Botea](https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz) | [112 Arabii](https://open.spotify.com/album/2JtgqLU0MwE32Q52GLLdUF) | 3:33 | 2024-10-05 |  |
+| [112 Arabii](https://open.spotify.com/track/6ryYkPaIuqPcnlWwJrdMBN) | [Alex Botea](https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz) | [112 Arabii](https://open.spotify.com/album/2JtgqLU0MwE32Q52GLLdUF) | 3:33 | 2024-10-05 | 2024-11-12 |
 | [123 \(Ultimul dans\)](https://open.spotify.com/track/3yTs4o6nMiBtnkV8qer4KI) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9), [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58) | [123 \(Ultimul dans\)](https://open.spotify.com/album/48mnQOK7PCim4bQInCInuo) | 2:40 | 2023-07-02 | 2023-07-09 |
 | [187](https://open.spotify.com/track/1ysbIkOZqEmWGntRe8G0sX) | [Glockaveli](https://open.spotify.com/artist/49d1BX9BbbI1i6XfppLCFY), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [187](https://open.spotify.com/album/78YRt6mT4qaokZCgnE8sPM) | 3:22 | 2022-05-03 | 2022-05-05 |
 | [2](https://open.spotify.com/track/37oDwhCJHRbbHwpjJuhz9g) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Ștefan IV](https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp) | 1:07 | 2024-04-27 | 2024-04-29 |
@@ -443,7 +443,7 @@
 | [Dincolo de Marte](https://open.spotify.com/track/1bplVr8KkyYR5A0nM4KW09) | [RANDI](https://open.spotify.com/artist/4X8ZQYIamykCGOZhbRtv2r), [Roxen](https://open.spotify.com/artist/6KCxe5mJlHDJlKEXbNFLsP) | [Dincolo de Marte](https://open.spotify.com/album/2A65OT7v9q4CP9CPEWtKCK) | 3:01 | 2022-01-04 | 2022-04-10 |
 | [Dinero](https://open.spotify.com/track/3ggtU1ZOKO8ZNiqPNyXGcm) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Dinero](https://open.spotify.com/album/6FfydthOJNOSCM8BeSqKh3) | 2:40 | 2021-06-12 | 2021-08-05 |
 | [Dior](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:36 | 2021-04-10 | 2021-04-11 |
-| [Diss Music Romania](https://open.spotify.com/track/00h0W7OACncGvIWVhwGhPX) | [Dani Mocanu](https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI) | [Diss Music Romania](https://open.spotify.com/album/1ld2jfbnBARO7rpxIjUCE7) | 2:25 | 2024-11-05 |  |
+| [Diss Music Romania](https://open.spotify.com/track/00h0W7OACncGvIWVhwGhPX) | [Dani Mocanu](https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI) | [Diss Music Romania](https://open.spotify.com/album/1ld2jfbnBARO7rpxIjUCE7) | 2:25 | 2024-11-05 | 2024-11-12 |
 | [Diss Romania](https://open.spotify.com/track/6L8Ws8LaYUym1Wgl5vo8Np) | [Abi](https://open.spotify.com/artist/6H1YO0K9D0kNWvLoib4CRL) | [Diss Romania](https://open.spotify.com/album/2MIU3J0l5DPBdJ42WxkWut) | 2:12 | 2021-03-27\* | 2021-03-29 |
 | [Distant](https://open.spotify.com/track/4iKzwYMUqPEW4zJNL1gCvy) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Dany Coca](https://open.spotify.com/artist/5ziCVu0zDFMfzydY6cmJYO), [Armin](https://open.spotify.com/artist/4n8GltRoR3XyKgWBrNJlJh) | [BULIBA$HA](https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1) | 3:58 | 2021-12-25 | 2021-12-29 |
 | [Divine Timing](https://open.spotify.com/track/7sijTMzX1BhbwVE33Ujmnl) | [Tea Janee](https://open.spotify.com/artist/2y8YKDHxaZvnrVXFDClXnt) | [Divine Timing](https://open.spotify.com/album/28aLAWpWqaKRQjLv2UUahJ) | 2:40 | 2023-01-22 | 2023-01-26 |
@@ -637,7 +637,7 @@
 | [Ghinion](https://open.spotify.com/track/1anBwb2c1T0xO8zV13uVev) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Ghinion](https://open.spotify.com/album/6eevnhpYFfS0J8VhlpGCLJ) | 4:25 | 2023-12-07 | 2023-12-18 |
 | [GIN](https://open.spotify.com/track/1318xAofqd7PvgIrJ38hXl) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [IDK](https://open.spotify.com/artist/62f6hmqU5E7ETb8EeoprTR) | [HANNIBAL LECTER](https://open.spotify.com/album/5lluj4aH9jGUSgSUIUM90N) | 3:48 | 2023-11-18 | 2023-11-23 |
 | [GINN](https://open.spotify.com/track/6TARzURO7cU2BbxMBY8ii2) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9) | [Sir PartyPackz al III\-lea](https://open.spotify.com/album/5deTNCTdxsEULFf1DaGiR8) | 2:18 | 2023-09-15 | 2024-02-29 |
-| [Gipsy Style](https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ) | [Costel Biju](https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY) | [Gipsy Style](https://open.spotify.com/album/6RmIV4vD5XVXxjgZnnCpZc) | 3:08 | 2023-05-14 | 2024-11-10 |
+| [Gipsy Style](https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ) | [Costel Biju](https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY) | [Gipsy Style](https://open.spotify.com/album/6RmIV4vD5XVXxjgZnnCpZc) | 3:08 | 2023-05-14 |  |
 | [Girl Of My Dreams \(with SUGA of BTS\)](https://open.spotify.com/track/7DF8lvLdV3htIbuTWpc7lR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:46 | 2021-12-12 | 2021-12-16 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-19 |
 | [Giulesti Crangasi](https://open.spotify.com/track/6EIBhgEms3hJczZMzB7iTX) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [BULIBA$HA](https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1) | 2:49 | 2021-12-25 | 2023-07-15 |
@@ -984,6 +984,7 @@
 | [Mastermind](https://open.spotify.com/track/7zcJSflhqcSGICHUjgncnj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi) | 3:11 | 2022-10-22 | 2022-10-24 |
 | [MATHEMATICAL DISRESPECT](https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN) | [MATHEMATICAL DISRESPECT](https://open.spotify.com/album/2na9riat7uwn9pax75cJue) | 1:28 | 2023-05-19 | 2023-05-23 |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-21 | 2022-05-28 |
+| [Maza](https://open.spotify.com/track/3x4y0BUX6WJLGP99jYkYtp) | [betbeats](https://open.spotify.com/artist/4UjRM6JenT0k3T7nztgPbF) | [Maza](https://open.spotify.com/album/6th026OwJNzhq6yf3dPskZ) | 2:25 | 2024-11-11 |  |
 | [MAZDA](https://open.spotify.com/track/1rphOlDQNt1BrIvc4zn5uq) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [LUCIFER](https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS) | 2:30 | 2024-05-25 |  |
 | [McSundae](https://open.spotify.com/track/38992pPe5XLyOzgZUh1ikG) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [McSundae](https://open.spotify.com/album/2NTwjIX1Kvrg5lco9HWCIe) | 3:28 | 2024-03-16 | 2024-03-18 |
 | [McSundae](https://open.spotify.com/track/3V74KPPI04iGJVaJ0OUZ1u) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [BEAST MODE](https://open.spotify.com/album/5GvT3AIUkQrWS3sLq4Lwdg) | 3:28 | 2024-03-27 | 2024-03-31 |

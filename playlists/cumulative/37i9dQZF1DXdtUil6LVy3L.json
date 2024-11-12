@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-10-25",
   "description": "Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.",
-  "name": "Jazzy Christmas Chill",
+  "name": "Jazzy Christmas Chill\ud83c\udf84\u2728",
   "tracks": [
     {
       "album": {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 197744,
       "name": "Abide With Me",
       "url": "https://open.spotify.com/track/7qPYEUXACuFdUyywP24ZvO"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 201479,
       "name": "Christmas Is A Comin'",
       "url": "https://open.spotify.com/track/22HCcuNBvPmVISo2k0A9wl"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 235998,
       "name": "Frosty The Snowman",
       "url": "https://open.spotify.com/track/4OxXJo95iHfisXwfODfhbX"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 152101,
       "name": "Happy Xmas",
       "url": "https://open.spotify.com/track/4Be9ytN4YwdiRwZMldKqzo"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 146250,
       "name": "It Came Upon The Midnight Clear",
       "url": "https://open.spotify.com/track/7tmMuhg6bvWSyLdEBWlWTb"
@@ -974,6 +974,24 @@
       "duration_ms": 183528,
       "name": "Lost in the stars",
       "url": "https://open.spotify.com/track/7FGl7mrd84QlQAqNqfonVN"
+    },
+    {
+      "album": {
+        "name": "Meet Me Under the Mistletoe",
+        "url": "https://open.spotify.com/album/7eWMP5eQSUrOKivRDD9rHc"
+      },
+      "artists": [
+        {
+          "name": "Belleville",
+          "url": "https://open.spotify.com/artist/6OZLCBcT66pK5nRLz4xC2V"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204187,
+      "name": "Meet Me Under the Mistletoe",
+      "url": "https://open.spotify.com/track/39kbAYlQI8I9WA6j3YxKSD"
     },
     {
       "album": {
@@ -1258,7 +1276,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 173855,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/2dAfFeRPrMoUb6ZKObAHrr"
@@ -1856,6 +1874,24 @@
       "duration_ms": 139000,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/0IbVA4IxnJx49LvtubFILM"
+    },
+    {
+      "album": {
+        "name": "With White Snow",
+        "url": "https://open.spotify.com/album/1umLeCGkQ17Qlc9FCjoELz"
+      },
+      "artists": [
+        {
+          "name": "Hamilton Jones Trio",
+          "url": "https://open.spotify.com/artist/3kivgh7JqxadGYAYo99XeL"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169828,
+      "name": "With White Snow",
+      "url": "https://open.spotify.com/track/22fuRASO5iQ1XeXCba7U26"
     },
     {
       "album": {

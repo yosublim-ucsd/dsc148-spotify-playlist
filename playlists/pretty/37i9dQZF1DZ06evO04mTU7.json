@@ -1,12 +1,12 @@
 {
   "description": "This is AJULIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 6602,
+  "num_followers": 6625,
   "original_name": "This Is AJULIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy6mAAAAAADkqLbFOaRSqA7WHhANlSRv",
+  "snapshot_id": "Zy/3gAAAAABFFFJqh25IF7eZ9Qf5g+VK",
   "tracks": [
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outra Mulher",
+        "url": "https://open.spotify.com/album/1Y33tqTNKUz2HOiVgwr6gB"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 174254,
+      "name": "Outra Mulher",
+      "url": "https://open.spotify.com/track/2KFpGefUE516szUT6Pyplp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VER\u00c3O",
         "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 165454,
       "name": "MAMA",
       "url": "https://open.spotify.com/track/4OR8cm9oFCI4z4yjfgvng0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outra Mulher",
-        "url": "https://open.spotify.com/album/1Y33tqTNKUz2HOiVgwr6gB"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 174254,
-      "name": "Outra Mulher",
-      "url": "https://open.spotify.com/track/2KFpGefUE516szUT6Pyplp"
     },
     {
       "added_at": null,
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
         }
       ],
-      "duration_ms": 182854,
-      "name": "Brutas Tamb\u00e9m Choram",
-      "url": "https://open.spotify.com/track/7gTStq2OMkjtHyH09GGKkO"
+      "duration_ms": 118545,
+      "name": "Mil e uma Treta",
+      "url": "https://open.spotify.com/track/41i1EFJa4guXadDAIHbXad"
     }
   ],
   "unique_name": "This Is AJULIACOSTA",

@@ -608,7 +608,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 168343,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/2CtGXLSiPIJiGCwcqlp6oT"
@@ -1309,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Hiking With Friends",
+        "url": "https://open.spotify.com/album/5cQah2fqRS6p4GyfxhM6se"
+      },
+      "artists": [
+        {
+          "name": "Jack Allenson",
+          "url": "https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234988,
+      "name": "Hiking With Friends",
+      "url": "https://open.spotify.com/track/7v9Brf9lQzUXaAje1sKJ53"
+    },
+    {
+      "album": {
         "name": "Inner Forests",
         "url": "https://open.spotify.com/album/2RLUDtP21qs0kXSpE9BQLe"
       },
@@ -1458,6 +1476,24 @@
       "duration_ms": 269538,
       "name": "Inpour",
       "url": "https://open.spotify.com/track/4lShevCVGTcmaE51KyB87e"
+    },
+    {
+      "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/7IfSzw8eV3ngDKCDLqpAGI"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160615,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/7pzRLdm6APmgaCPOTRjGNH"
     },
     {
       "album": {
@@ -1776,7 +1812,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 285446,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/6eIgX83EFYk0zUnCznpxq1"
@@ -1924,7 +1960,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 368000,
       "name": "Nacre Meadow",
       "url": "https://open.spotify.com/track/2aVgJE85GexucuDrHeyfeL"
@@ -2732,7 +2768,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 249765,
       "name": "rainfall",
       "url": "https://open.spotify.com/track/39dhyocdtP2THBx7OG1pPn"
@@ -2838,6 +2874,24 @@
       "duration_ms": 191717,
       "name": "River Music",
       "url": "https://open.spotify.com/track/1gCDWzcqD3vqLJjJKIwpmU"
+    },
+    {
+      "album": {
+        "name": "Remnants",
+        "url": "https://open.spotify.com/album/3bC1XWHPaWORbeTBgiPy0E"
+      },
+      "artists": [
+        {
+          "name": "Hanna Lindgren",
+          "url": "https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 502500,
+      "name": "Room for Whatever Is Left",
+      "url": "https://open.spotify.com/track/0QxbJ67ZLeDZZSS6RYO3mf"
     },
     {
       "album": {

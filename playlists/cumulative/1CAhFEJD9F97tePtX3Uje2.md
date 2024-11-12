@@ -4,7 +4,7 @@
 
 > 
 
-240 songs - 14 hr 4 min
+241 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Higher](https://open.spotify.com/track/0HHdsqqY9qbgUV0EstbDqU) | [WEVLTH](https://open.spotify.com/artist/5N7wAKV4HvGQj66w5HV4bD) | [Higher](https://open.spotify.com/album/19CvZyxiBvd3dVzWpT5C10) | 4:47 | 2019-11-03 |  |
 | [HOAX](https://open.spotify.com/track/0LbvB2lzu0XQXcEo1JM0Cq) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [DRAW HYDRA](https://open.spotify.com/album/2f1uzzQMXlqc6rIg7a17n6) | 3:31 | 2022-01-24 |  |
 | [Hot Like Hell](https://open.spotify.com/track/6Eu1qM1CnWqKq9VwntBCFm) | [Senkya](https://open.spotify.com/artist/6W6cFer7ZsbFqeYmxNukG6), [Faith](https://open.spotify.com/artist/2YnmJvwVrjYrjCs6v3BUr2) | [Hot Like Hell](https://open.spotify.com/album/4U3W6zpb7a9gF2l106zB1x) | 2:41 | 2021-04-05 |  |
+| [Hotline Miami](https://open.spotify.com/track/7rVsTCiWipGrihR04yNb07) | [LORDEHILL](https://open.spotify.com/artist/5yISVi5vctUp9kcCSsvccs) | [Redemption](https://open.spotify.com/album/0zqQKRQIVWsPqCF4C3s5aZ) | 3:12 | 2024-11-11 |  |
 | [Hypersquare](https://open.spotify.com/track/5pDFJgkTXczsJIIDspl8hF) | [Deadcrow](https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE), [MYSTXRIVL](https://open.spotify.com/artist/5puIJpEBWYS37qD8TS8gZq) | [Hypersquare](https://open.spotify.com/album/6IJNG7N2Dbzcdbm9QwZ9va) | 4:07 | 2018-11-27 |  |
 | [I WANT YOU](https://open.spotify.com/track/67tXRCoy5R0Mu6pSxeYjp4) | [V.I.P.N](https://open.spotify.com/artist/2gtZypy6QDN8UfPbDQG6ro) | [I WANT YOU](https://open.spotify.com/album/5SfgUQ5ItNWrIqR9b8H0pn) | 2:18 | 2024-10-13 |  |
 | [Icebreaker](https://open.spotify.com/track/4zhOK3pkgncqo02VC00KCl) | [Fraunhofer Diffraction](https://open.spotify.com/artist/3s001vzLUM01WSssGvHhXA) | [Scattering](https://open.spotify.com/album/1b0CSmlpQl7ztIcYe02wkM) | 7:25 | 2018-11-27 |  |

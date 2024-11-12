@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 20402,
+  "num_followers": 20416,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "My Life (Deluxe / Commentary Edition)",
-        "url": "https://open.spotify.com/album/7tonSDqVXTichuMnlS8TbO"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 257426,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/6SewmCOPNkvNo4OLsW8yhc"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "New Orleans Bounce Essentials, Vol. 1",
         "url": "https://open.spotify.com/album/1ErFP5RZYuAr6OcwyYPmqn"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 203521,
       "name": "No One in the World (New Orleans Bounce)",
       "url": "https://open.spotify.com/track/3nVH3JISreuuJqVF10qKa5"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "My Life (Deluxe / Commentary Edition)",
+        "url": "https://open.spotify.com/album/7tonSDqVXTichuMnlS8TbO"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 257426,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/6SewmCOPNkvNo4OLsW8yhc"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -855,18 +855,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "IN TIME",
-        "url": "https://open.spotify.com/album/5Unj1ppHWjYhAUK49rqugW"
+        "name": "- Ugh, those feels again",
+        "url": "https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK"
       },
       "artists": [
         {
-          "name": "Tarrey Torae",
-          "url": "https://open.spotify.com/artist/08oN3COhDNyZrCJv1hu4Pw"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 225348,
-      "name": "IN TIME",
-      "url": "https://open.spotify.com/track/215dPn2vTiquckgM8Izoui"
+      "duration_ms": 47953,
+      "name": "Here Now (Intro)",
+      "url": "https://open.spotify.com/track/0HChF6Z7HkPDBWQHLISGxN"
     },
     {
       "added_at": "2022-10-01 16:00:00",

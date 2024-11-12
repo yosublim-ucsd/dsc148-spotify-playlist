@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,139 songs - 3 day 9 hr 34 min
+2,140 songs - 3 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -877,7 +877,7 @@
 | [I Just Want to Know You](https://open.spotify.com/track/7cBMqUyvjsRRC5RPMNPIJb) | [Analog Bow](https://open.spotify.com/artist/7kQ9kQ588r6INRWFlU1k1T) | [I Just Want to Know You](https://open.spotify.com/album/5CbZsUZjooxzpksZulU7DX) | 2:57 | 2024-09-13 |  |
 | [I Love You, Girl](https://open.spotify.com/track/36RJxgfJQjSBCb26klkFR4) | [AAGAPE](https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W) | [I Love You, Girl](https://open.spotify.com/album/0yHWLTdcCWTVbUeM7wOGAb) | 2:14 | 2024-01-12 | 2024-04-23 |
 | [i n d i c a](https://open.spotify.com/track/1isvJir39qBjocCTYt7KI8) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [kiwi juice](https://open.spotify.com/album/67CGdn3DQeQLJkRJ4QgNst) | 3:12 | 2023-02-06 |  |
-| [i think it was november](https://open.spotify.com/track/7D6CD56bThLj54TdC4laLz) | [Genser 55](https://open.spotify.com/artist/3UFbxZyncA9yrkXQjjYdMG) | [i think it was november](https://open.spotify.com/album/0DH3UPAh1j4qzCV3Aot9QS) | 2:22 | 2023-02-06 |  |
+| [i think it was november](https://open.spotify.com/track/7D6CD56bThLj54TdC4laLz) | [Genser 55](https://open.spotify.com/artist/3UFbxZyncA9yrkXQjjYdMG) | [i think it was november](https://open.spotify.com/album/0DH3UPAh1j4qzCV3Aot9QS) | 2:22 | 2023-02-06 | 2024-11-12 |
 | [i'm fine](https://open.spotify.com/track/5nyCgKqcA6KhSRHeC0Qicu) | [Cafune](https://open.spotify.com/artist/07jJECbFecl5DmNw2lEtGR), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [i'm fine](https://open.spotify.com/album/4mFPvD3XNMun4srlJw6nzU) | 2:13 | 2022-07-08 | 2022-12-03 |
 | [I\-65](https://open.spotify.com/track/3fQfA3LMIx9BEkHIl0iNSd) | [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC), [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8) | [I\-65](https://open.spotify.com/album/2z8x3yAvj3mnvngPn1xVII) | 2:00 | 2024-06-21 |  |
 | [I.](https://open.spotify.com/track/6A5EYxkV7gzZv3PW96u3Jf) | [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [A N T I T H E S I S](https://open.spotify.com/artist/1sbuH2QadilkAzCOOrjHuf) | [I.](https://open.spotify.com/album/0vBKiSgFfpnnAD37wjuicI) | 2:07 | 2022-04-22 | 2022-11-12 |
@@ -1007,7 +1007,7 @@
 | [Leaves Fallin'](https://open.spotify.com/track/5UcQZ8I3N17Yx8SkeHMcUG) | [MrAnthony](https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Leaves Fallin'](https://open.spotify.com/album/4F4jx6ZzR1SJ7Hl9BcZg4M) | 2:18 | 2024-10-04 | 2024-11-09 |
 | [Left](https://open.spotify.com/track/47LZD8vMgs9oknUS3L1GaJ) | [Master Haratt](https://open.spotify.com/artist/4xXJGTAfTfLq9HqksgZHBT) | [Left](https://open.spotify.com/album/0nMupNelvEmA9NKbit7vct) | 2:28 | 2022-04-15 | 2022-07-15 |
 | [Lemme Just Sunbleach \(All Day All Night\)](https://open.spotify.com/track/3r92YrLWSVmwbCpyl0saJ1) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Lemme Just Sunbleach \(All Day All Night\)](https://open.spotify.com/album/1d6qrcmACFopMLcBqBhe5A) | 3:03 | 2022-12-16 |  |
-| [Lemon Gardens](https://open.spotify.com/track/3VChI6nBTxw1Jk7f5QRoGU) | [rosetta's stone](https://open.spotify.com/artist/31WQZQf2EfYbbw1RpIU5GZ) | [Lemon Gardens](https://open.spotify.com/album/3L6NZBTSSTtmy1fsiMc3Wg) | 2:38 | 2023-07-13 | 2024-11-11 |
+| [Lemon Gardens](https://open.spotify.com/track/3VChI6nBTxw1Jk7f5QRoGU) | [rosetta's stone](https://open.spotify.com/artist/31WQZQf2EfYbbw1RpIU5GZ) | [Lemon Gardens](https://open.spotify.com/album/3L6NZBTSSTtmy1fsiMc3Wg) | 2:38 | 2023-07-13 |  |
 | [lemonade](https://open.spotify.com/track/7ugbUqIuXfg3UVxbIsK3Vd) | [Jungle Hit](https://open.spotify.com/artist/6zMsK4j9ppsNd4hry9P1bd) | [lemonade](https://open.spotify.com/album/17uTT5xBuHUU4WvCmKOtvr) | 2:10 | 2022-04-15 | 2022-10-14 |
 | [Lemonade Waves](https://open.spotify.com/track/6ovbhJchg5kGdayDjhUV60) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Lemonade Waves](https://open.spotify.com/album/4MiCj4Rn6yw3HLdpeXbVrX) | 2:49 | 2022-06-10 | 2023-03-25 |
 | [Lens Flare](https://open.spotify.com/track/3BPDxsdq20JHIsDPpZJzbO) | [gCoope](https://open.spotify.com/artist/0VyTdP8A5VGuLAxSzJHind), [Lxpse](https://open.spotify.com/artist/031Vp2J0KxdRPynrvxlx6r) | [Lens Flare](https://open.spotify.com/album/5ahcWCFCydgEdSgrOPuCbQ) | 1:54 | 2022-08-05 | 2022-08-12 |
@@ -1437,6 +1437,7 @@
 | [Peaceful Ghost](https://open.spotify.com/track/0xHlJoGrK2vxMT4rBOGqy5) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Peaceful Ghost](https://open.spotify.com/album/0F5PTu1lq5AbjV8ZSr7Qzx) | 2:21 | 2023-09-22 |  |
 | [Peaches 'n' Cream](https://open.spotify.com/track/12aZMF06csv4n55b8GFGhc) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Peaches 'n' Cream](https://open.spotify.com/album/0YvX1LoDv97RVWeh44ANzo) | 3:12 | 2022-05-13 | 2023-02-07 |
 | [Peaches And Cream](https://open.spotify.com/track/14oGzCDd0Vc8zAmy4XZo9s) | [Extatics](https://open.spotify.com/artist/4iGRANB0bQlyjiewj4ZFs6) | [Peaches And Cream](https://open.spotify.com/album/35UfPfsj9bf6I90OS16Xqe) | 2:20 | 2022-07-15 | 2024-05-14 |
+| [Peachy](https://open.spotify.com/track/2WRKH5AuRG6c0uG1dQs9rh) | [cloud minor](https://open.spotify.com/artist/3l5LfIhzi10fJD4DJzW4ll) | [Peachy](https://open.spotify.com/album/1Hy7DveUNMzyX0dxU2BAYS) | 3:04 | 2024-11-08 |  |
 | [peanut butter shake](https://open.spotify.com/track/6qlRjxUAkxCTVtbEIntkEZ) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [longing for](https://open.spotify.com/album/2P0nMU7WLtITurnReYqaH3) | 2:45 | 2023-10-27 | 2023-10-29 |
 | [peanut dream shake](https://open.spotify.com/track/32R8uRLa9uf1ffKWhVrdFR) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [longing for](https://open.spotify.com/album/7aqITKpq0WfAmXYwNCwj9u) | 2:45 | 2023-10-27 | 2024-04-19 |
 | [Pearl Dust](https://open.spotify.com/track/4HhZZZAtRufBXnJyPtf7uB) | [florentine](https://open.spotify.com/artist/7FLMLV8T9qJOkzGZArUAns) | [Pearl Dust](https://open.spotify.com/album/6CEev0dBhWl5ed27yrBEOL) | 2:28 | 2022-04-15 | 2022-09-23 |
@@ -2111,7 +2112,7 @@
 | [with you, at tumbledown](https://open.spotify.com/track/7IkViMZVcNjssk4VciHupJ) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [with you, at tumbledown](https://open.spotify.com/album/6ypKD7fpDXGDhYfYoQjlYw) | 2:57 | 2024-02-02 |  |
 | [With your eyes!](https://open.spotify.com/track/1USmYJcOKa94oA58sRnOXJ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [With your eyes!](https://open.spotify.com/album/2WomwpHMSA6E2yrMSEJxCI) | 2:29 | 2023-11-17 |  |
 | [Woke](https://open.spotify.com/track/5EGp4crErFOKGNAr7bGtU6) | [Namaskar Blunt](https://open.spotify.com/artist/1YgUnb4dGNkaCsneIunFmm) | [Woke](https://open.spotify.com/album/23iKhQwfBkYI5FOwrnMjar) | 1:42 | 2022-10-01 | 2024-10-21 |
-| [wombat](https://open.spotify.com/track/0PXyjded1E0xIDuDphr7EV) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [wombat](https://open.spotify.com/album/7111PKKgdMHNA21d8Y7VKA) | 2:53 | 2022-09-23 |  |
+| [wombat](https://open.spotify.com/track/0PXyjded1E0xIDuDphr7EV) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [wombat](https://open.spotify.com/album/7111PKKgdMHNA21d8Y7VKA) | 2:53 | 2022-09-23 | 2024-11-12 |
 | [Wonderful Times](https://open.spotify.com/track/2G00hkPjXrG0EUktsv7Pbc) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [Wonderful Times](https://open.spotify.com/album/6QxZonwGmPwndaqt0khNDB) | 1:27 | 2022-04-15 | 2022-05-27 |
 | [Wondering 5](https://open.spotify.com/track/0z3W9J8aMBsAtNRfRDrGyY) | [Azera](https://open.spotify.com/artist/3muI7swfmpO7OmPROPjkdA) | [Ukulele](https://open.spotify.com/album/31seuRl1i2CyFkByfIFGex) | 1:55 | 2022-04-15 | 2022-05-27 |
 | [wonderland](https://open.spotify.com/track/2fP5vQ1GnN9FhbWpPRgQeT) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Broken Clocks And Still Time](https://open.spotify.com/album/3DznMUC2aXorcY7A4i9bAq) | 1:50 | 2023-06-06 |  |

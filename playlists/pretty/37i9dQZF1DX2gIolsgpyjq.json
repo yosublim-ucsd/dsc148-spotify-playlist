@@ -1,13 +1,145 @@
 {
-  "description": "The best new music by independent artists in the Nordics. Cover: Girl Scout",
-  "num_followers": 22746,
+  "description": "Catch Becky and the Birds on the Fresh Finds stage at Dunya Fest on Saturday!",
+  "num_followers": 22754,
   "original_name": "Fresh Finds Nordics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy1GcAAAAADAY2x7PailOlxAHOlVZq4a",
+  "snapshot_id": "ZzHUcQAAAAD1fPhcRnhw0fOT6fAvVgTz",
   "tracks": [
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "I made my baby cry",
+        "url": "https://open.spotify.com/album/63juu0SyImhGnHK8S9HtUZ"
+      },
+      "artists": [
+        {
+          "name": "Becky and the Birds",
+          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "I made my baby cry",
+      "url": "https://open.spotify.com/track/0UuFazFQ0cPYxAgFG4R739"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Jump In The Ride",
+        "url": "https://open.spotify.com/album/7FBYSUIq54IzZF1puJpjw1"
+      },
+      "artists": [
+        {
+          "name": "Prof. Stranger",
+          "url": "https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp"
+        }
+      ],
+      "duration_ms": 230137,
+      "name": "Jump In The Ride",
+      "url": "https://open.spotify.com/track/6yT0MPnwIpdCTe6UeaRSxz"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Spooky",
+        "url": "https://open.spotify.com/album/6rMzFaVMTRhfVPaBpnN5jS"
+      },
+      "artists": [
+        {
+          "name": "Venus Anon",
+          "url": "https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg"
+        },
+        {
+          "name": "Denzel Himself",
+          "url": "https://open.spotify.com/artist/1cdFsfULlsBxTYbAhWlKNQ"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "Spooky",
+      "url": "https://open.spotify.com/track/5aT3rJ3o72k009wDa7jhVl"
+    },
+    {
+      "added_at": "2024-11-11 09:50:39",
+      "album": {
+        "name": "I Saw U",
+        "url": "https://open.spotify.com/album/6ANbH8704yrpV1gk139qCo"
+      },
+      "artists": [
+        {
+          "name": "Swank Mami",
+          "url": "https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr"
+        }
+      ],
+      "duration_ms": 137506,
+      "name": "I Saw U",
+      "url": "https://open.spotify.com/track/0QpliqisIqld65GlZA1bJ8"
+    },
+    {
+      "added_at": "2024-11-11 09:50:39",
+      "album": {
+        "name": "Anymore",
+        "url": "https://open.spotify.com/album/0ZOLG8MyLqmC3YriQ14my6"
+      },
+      "artists": [
+        {
+          "name": "Becky and the Birds",
+          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/3K24ijM6H0WiL8mdwNzpib"
+    },
+    {
+      "added_at": "2024-11-11 09:50:39",
+      "album": {
+        "name": "In The End",
+        "url": "https://open.spotify.com/album/4zaM38yi3WIcmbGMRtI1G1"
+      },
+      "artists": [
+        {
+          "name": "Prof. Stranger",
+          "url": "https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp"
+        }
+      ],
+      "duration_ms": 222608,
+      "name": "In The End",
+      "url": "https://open.spotify.com/track/2uTqPpiBfdI4LatYsbKfY8"
+    },
+    {
+      "added_at": "2024-11-11 09:50:39",
+      "album": {
+        "name": "Melt",
+        "url": "https://open.spotify.com/album/1pbL9FxmoojxtBHaFronQn"
+      },
+      "artists": [
+        {
+          "name": "Venus Anon",
+          "url": "https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg"
+        }
+      ],
+      "duration_ms": 256125,
+      "name": "Melt",
+      "url": "https://open.spotify.com/track/1diAoCB2sXmLmnPISTDi9b"
+    },
+    {
+      "added_at": "2024-11-11 09:50:39",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/49hw5yv8BUKx6OQ578yt6T"
+      },
+      "artists": [
+        {
+          "name": "Swank Mami",
+          "url": "https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr"
+        }
+      ],
+      "duration_ms": 175626,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/1N9jzEJmaNZw8lSqTSLwZR"
+    },
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
@@ -71,26 +203,6 @@
       "duration_ms": 226857,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/0w0T0rGAfyBeAD9EOJCQjs"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Spooky",
-        "url": "https://open.spotify.com/album/6rMzFaVMTRhfVPaBpnN5jS"
-      },
-      "artists": [
-        {
-          "name": "Venus Anon",
-          "url": "https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg"
-        },
-        {
-          "name": "Denzel Himself",
-          "url": "https://open.spotify.com/artist/1cdFsfULlsBxTYbAhWlKNQ"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "Spooky",
-      "url": "https://open.spotify.com/track/5aT3rJ3o72k009wDa7jhVl"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -159,22 +271,6 @@
       "duration_ms": 206865,
       "name": "Sthlm In My <3",
       "url": "https://open.spotify.com/track/7HrlxmJTE4B3HGFxPcUy2M"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Jump In The Ride",
-        "url": "https://open.spotify.com/album/7FBYSUIq54IzZF1puJpjw1"
-      },
-      "artists": [
-        {
-          "name": "Prof. Stranger",
-          "url": "https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp"
-        }
-      ],
-      "duration_ms": 230137,
-      "name": "Jump In The Ride",
-      "url": "https://open.spotify.com/track/6yT0MPnwIpdCTe6UeaRSxz"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -643,22 +739,6 @@
       "duration_ms": 207753,
       "name": "Hentai",
       "url": "https://open.spotify.com/track/26WtuoQBI0qpIcHSQwQdvR"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Turn Me On",
-        "url": "https://open.spotify.com/album/3MMW0aU2dYoZo9aDb63Pn7"
-      },
-      "artists": [
-        {
-          "name": "Prof. Stranger",
-          "url": "https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Turn Me On",
-      "url": "https://open.spotify.com/track/5MCU6TnfVoytCTrTqL9RwS"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1231,22 +1311,6 @@
       "duration_ms": 166956,
       "name": "Alias",
       "url": "https://open.spotify.com/track/6YI3WUU7YmDs8OnLBp77wS"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "I made my baby cry",
-        "url": "https://open.spotify.com/album/63juu0SyImhGnHK8S9HtUZ"
-      },
-      "artists": [
-        {
-          "name": "Becky and the Birds",
-          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "I made my baby cry",
-      "url": "https://open.spotify.com/track/0UuFazFQ0cPYxAgFG4R739"
     },
     {
       "added_at": "2024-11-07 23:00:00",

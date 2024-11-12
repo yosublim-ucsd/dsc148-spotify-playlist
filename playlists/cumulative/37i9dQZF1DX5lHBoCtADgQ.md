@@ -4,7 +4,7 @@
 
 > Enjoy the folk from Punjab\. Cover: Gurdas Maan
 
-96 songs - 5 hr 59 min
+97 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Dupatta Tera Sat Rang Da](https://open.spotify.com/track/4U5Bf9kil25BlZIKq9iBcs) | [Surjit Bindrakhia](https://open.spotify.com/artist/2tcB32mxjVzmLcyfGizWNX) | [Dupatta Tera Sat Rang Da](https://open.spotify.com/album/39gcZ3A4gbOuCCuHYWXLFT) | 4:36 | 2022-07-16 | 2024-04-19 |
 | [Ek Meri Akh Kashni](https://open.spotify.com/track/77B95qDRO4z5x4Rs1hYrO5) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Hits of Surinder Kaur, Vol\. 1 & 2](https://open.spotify.com/album/0u8nU0LaB5vUHuEZ8jG9gI) | 3:26 | 2022-11-09 | 2022-11-13 |
 | [Ek Meri Akk Kaashni](https://open.spotify.com/track/3DdCB4DFq9m6vzU2mtI6CM) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Asa Singh Mastana](https://open.spotify.com/artist/5MjQby5pq8m4mANED6jFbA), [Hazara Singh Ramta](https://open.spotify.com/artist/7LbnqdejlXAPj3k6T7rY4b) | [Folk Music of Punjab, Vol\. 1](https://open.spotify.com/album/71vtvcxf58EwWSv8Nnpzf9) | 3:22 | 2022-07-16 | 2024-04-19 |
-| [Ek Meri Akk Kaashni](https://open.spotify.com/track/7nSVPEAgUFEMq84e9yIDsA) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Asa Singh Mastana](https://open.spotify.com/artist/5MjQby5pq8m4mANED6jFbA), [Hazara Singh Ramta](https://open.spotify.com/artist/7LbnqdejlXAPj3k6T7rY4b) | [Folk Music Of Punjab,Vol\. 1](https://open.spotify.com/album/7DVAPTaRl06o1qEMTG7jIA) | 3:22 | 2021-11-03 |  |
+| [Ek Meri Akk Kaashni](https://open.spotify.com/track/7nSVPEAgUFEMq84e9yIDsA) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Asa Singh Mastana](https://open.spotify.com/artist/5MjQby5pq8m4mANED6jFbA), [Hazara Singh Ramta](https://open.spotify.com/artist/7LbnqdejlXAPj3k6T7rY4b) | [Folk Music Of Punjab,Vol\. 1](https://open.spotify.com/album/7DVAPTaRl06o1qEMTG7jIA) | 3:22 | 2021-11-03 | 2024-11-12 |
 | [Heer](https://open.spotify.com/track/4tNVxB3MDGlFupF1cWmfh0) | [Akriti Kakar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Big Band Theory Season2](https://open.spotify.com/album/5poVgYwr0JO5FDwJgxBUnb) | 4:07 | 2023-03-10 | 2023-10-18 |
 | [Heere Heere](https://open.spotify.com/track/2stPaiSWbATmVxci9KFxzq) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx) | [Heere Heere](https://open.spotify.com/album/3XVXeXlPM2nTGIcdo7YFz2) | 3:21 | 2021-11-03 |  |
 | [Jind Mahi](https://open.spotify.com/track/2NVJHduFkMaNNqhj3kmxWX) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Jind Mahi](https://open.spotify.com/album/4bemzLUnC5A2PDMyBroFY2) | 2:32 | 2024-10-23 |  |
@@ -98,6 +98,7 @@
 | [Sasse Ladeya \(Live\)](https://open.spotify.com/track/61J3Yk08StGFBKAQ3dsInA) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Sasse Ladeya / Saam Kunjiya \(Live\)](https://open.spotify.com/album/53ogb57aAnxhx27Y65bRWY) | 3:33 | 2021-11-03 | 2024-10-11 |
 | [Sasse Ladeya Na Kar \(Live\)](https://open.spotify.com/track/2g8du862hgmdr9lCTstZa3) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Sasse Ladeya Na Kar \(Live\)](https://open.spotify.com/album/5DDqR5ZFD4WLyaapIfRkOo) | 3:33 | 2023-08-17 | 2024-04-19 |
 | [Sehreyan Wala](https://open.spotify.com/track/1aAxE9RbR70oMFXa1JDi8P) | [Pallavi Ishpuniyani](https://open.spotify.com/artist/63r000HgiPQhuzUcZ9MwPf), [Avijeet Satapathy](https://open.spotify.com/artist/1Odsf0ejphk7o2GEViymZv) | [Sehreyan Wala](https://open.spotify.com/album/7BH5M3s2ziaUQBm5R9PCrJ) | 4:27 | 2021-11-03 |  |
+| [Stereo Punjab \(feat\. Riaz Qadri\)](https://open.spotify.com/track/3ld57mZgyhZKBJEqTosAlo) | [Zohaib Kazi](https://open.spotify.com/artist/6KLLWcERsoHPN3Mu0Z20ci), [Riaz Qadri](https://open.spotify.com/artist/7xL0WrnmFNsnjfgCcXvdLS) | [Gulistan \(Janoobi\) / Side Down](https://open.spotify.com/album/2y1DBEaQkKv8fQyhWd1mn6) | 4:11 | 2024-11-11 |  |
 | [Suhe Ve Cheere Waliya](https://open.spotify.com/track/6ewedOp4bawjafS1lsIPam) | [NAVNEET KAUR](https://open.spotify.com/artist/0pVcOoM3HxoF8dWLo2RXc5) | [Suhe Ve Cheere Waliya](https://open.spotify.com/album/3P5YAxuCPE1WRZ8oXiM0Ln) | 3:13 | 2022-08-31 |  |
 | [Sunn Jind Ni](https://open.spotify.com/track/5hNpXC3jyS4ftFLwhrW8zZ) | [Radhika Sood Nayak](https://open.spotify.com/artist/2SqsUzRgET3O9YHPQCOsDD) | [Sunn Jind Ni](https://open.spotify.com/album/0OcMOuOM1dF7aOh4FbP9En) | 5:06 | 2021-11-03 | 2023-06-06 |
 | [Tere Jeya Hor Disda](https://open.spotify.com/track/3XIi6msH1YV5Nncnz07mIj) | [Siddharth Slathia](https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7) | [Tere Jeya Hor Disda](https://open.spotify.com/album/7n5DGiPi4rR8yBnH3I8osc) | 4:35 | 2021-11-03 |  |

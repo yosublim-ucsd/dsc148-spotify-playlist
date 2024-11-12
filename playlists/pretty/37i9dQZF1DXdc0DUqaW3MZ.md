@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,628 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,691 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 45 | [Middle of Things, Beautiful Wife \(feat\. Xavier Omär\)\)](https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [North](https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP) | 3:42 |
 | 46 | [Keep On](https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 3:38 |
 | 47 | [High Notes](https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High Notes](https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv) | 2:32 |
-| 48 | [High](https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD) | 3:16 |
-| 49 | [DAY&NITE](https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [DAY&NITE](https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB) | 3:25 |
-| 50 | [Naked](https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Naked](https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy) | 3:38 |
+| 48 | [DAY&NITE](https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [DAY&NITE](https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB) | 3:25 |
+| 49 | [Naked](https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Naked](https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy) | 3:38 |
+| 50 | [High](https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD) | 3:16 |
 | 51 | [Cactus Water](https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Cactus Water](https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR) | 3:24 |
 | 52 | [OUR LOVE \(80'S\)](https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O) | [YOURS](https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7) | [OUR LOVE \(80'S\)](https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX) | 2:59 |
 | 53 | [Skin to Skin](https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH), [Kaisha](https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe) | [Skin to Skin](https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS) | 3:45 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 65 | [Shaken To My Soul \(feat\. Ruti\)](https://open.spotify.com/track/4R6zTX10cS2t8CLIhDkolC) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Shaken To My Soul \(feat\. Ruti\)](https://open.spotify.com/album/1fTzvmo6yNAAvvHxt77t4L) | 3:31 |
 | 66 | [On The Low](https://open.spotify.com/track/0TvWlnaVTQK0R5eE8Q8iyi) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [House of LION BABE](https://open.spotify.com/album/5IUfjrEOi16wUrxDArk0NQ) | 3:46 |
 | 67 | [Can't Afford Me](https://open.spotify.com/track/4yivH4KJCrvjOEL4ydbOMi) | [Kuma Overdose](https://open.spotify.com/artist/5Seq5NVNiEVCKLmDeQ6yBZ), [SA$H£R](https://open.spotify.com/artist/3MrHe9yBSY5T8d0ZvmFypb) | [Can't Afford Me](https://open.spotify.com/album/5fvbVCtflFWtKsOpidiAqw) | 3:38 |
-| 68 | [Daydreaming \- Sgt Slick Remix](https://open.spotify.com/track/1FCBtlxyee0yiZn0EnxtTk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l), [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Daydreaming \(Sgt Slick Remix\)](https://open.spotify.com/album/0pb2S4bdo6TTYa1cYGSsT6) | 3:04 |
-| 69 | [SOLID \- Adam Swim Remix](https://open.spotify.com/track/0eexYnEdmMy8AIICcQjkYi) | [Leonardo Das Cabrio](https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI), [Adam Swim](https://open.spotify.com/artist/0ZHyEyFhetS8KsJ8taBr35) | [SOLID \(Adam Swim Remix\)](https://open.spotify.com/album/0w7NLSySt7vtrmjtUHZDJu) | 5:11 |
+| 68 | [SOLID \- Adam Swim Remix](https://open.spotify.com/track/0eexYnEdmMy8AIICcQjkYi) | [Leonardo Das Cabrio](https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI), [Adam Swim](https://open.spotify.com/artist/0ZHyEyFhetS8KsJ8taBr35) | [SOLID \(Adam Swim Remix\)](https://open.spotify.com/album/0w7NLSySt7vtrmjtUHZDJu) | 5:11 |
+| 69 | [Daydreaming \- Sgt Slick Remix](https://open.spotify.com/track/1FCBtlxyee0yiZn0EnxtTk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l), [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Daydreaming \(Sgt Slick Remix\)](https://open.spotify.com/album/0pb2S4bdo6TTYa1cYGSsT6) | 3:04 |
 | 70 | [Happy Ending \- A.G Remix](https://open.spotify.com/track/64JCU4QP7RRmlPqXQWgW6S) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [A.G](https://open.spotify.com/artist/1TTOSCFPyiNJXR5KCsZGqM) | [Happy Ending \(A.G Remix\)](https://open.spotify.com/album/193C77LqG2p3YtbHu3SwPt) | 3:15 |
 
 Snapshot ID: `Zxu/dwAAAABxn0MOFrH7kQBkEOKBjHvY`

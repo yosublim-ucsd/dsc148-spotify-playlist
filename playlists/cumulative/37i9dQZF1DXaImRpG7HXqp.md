@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-782 songs - 1 day 9 hr 59 min
+783 songs - 1 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -681,6 +681,7 @@
 | [The Pine Scent](https://open.spotify.com/track/1mrXKtCqNEV9DskdVP4gHv) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [The Pine Scent](https://open.spotify.com/album/6TiZi0HaJe10KYypuaAVnU) | 2:19 | 2024-01-12 | 2024-07-19 |
 | [The Pioneers](https://open.spotify.com/track/6cuKQazicx5r7o5NQEp1uL) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 4:13 | 2021-12-08 | 2022-07-08 |
 | [The Poconos](https://open.spotify.com/track/0ds1reOHuK7CCsu3nIzZXj) | [Sara Rice\-Clark](https://open.spotify.com/artist/1ChFJ60swiMaSUuw1mmHwd) | [The Poconos](https://open.spotify.com/album/3A40QGZkO7BxsX5pwDr017) | 2:51 | 2021-12-08 | 2023-02-25 |
+| [The Quiet Path](https://open.spotify.com/track/4wL9RWZ9UUNgDLQri3c8Uq) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [The Quiet Path](https://open.spotify.com/album/2VFXjX9HYSxrO7kydb0ZE9) | 2:43 | 2024-11-11 |  |
 | [The small things in life](https://open.spotify.com/track/77RRa9i2ITwLznWo4Q9HPv) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [The small things in life](https://open.spotify.com/album/6XJEnO611nb1gGDE2kpUPa) | 2:15 | 2023-11-24 | 2024-06-07 |
 | [The Sparrow](https://open.spotify.com/track/6DCQM8eWsMPqhDbonEUHvu) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [The Sparrow](https://open.spotify.com/album/5xYhfr9t2SaSqXuQB4Ncdp) | 2:14 | 2024-07-29 |  |
 | [The Stillness Within](https://open.spotify.com/track/2zSvZfdq6ZJpxmH2RbpoQ8) | [Vadim Cervenka](https://open.spotify.com/artist/13mof4l15J56TzfoMsY99Y) | [The Stillness Within](https://open.spotify.com/album/7pfveCDNbixSABr4bVIfJZ) | 2:59 | 2023-06-08 | 2024-04-05 |
@@ -700,7 +701,7 @@
 | [Treehouse](https://open.spotify.com/track/4HtW4pnVho9FCLEhqga7GS) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [Mirage](https://open.spotify.com/album/13QWnehIXcYC9GBZbPmJmC) | 2:28 | 2021-12-08 | 2022-05-27 |
 | [Tropea](https://open.spotify.com/track/2KjlaQdk4M6h7WPHCCOsjk) | [Giovanni Benatti](https://open.spotify.com/artist/6C9bWJOawsAAYTfz5xbrkq) | [Tropea](https://open.spotify.com/album/61us2aGdGHCB7SOlJe7Qsj) | 1:57 | 2023-03-24 | 2023-08-19 |
 | [Tuul](https://open.spotify.com/track/0Wjd1SD4pR3m3vyWOXNmnl) | [Sun Guitar](https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg) | [Vanek](https://open.spotify.com/album/08u0Dbk7cWg2JSDj01K5Gy) | 2:33 | 2021-12-08 | 2022-07-22 |
-| [Under the Stars](https://open.spotify.com/track/4hBZeB6q56Jzq3wDh1MuPF) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Under the Stars](https://open.spotify.com/album/51EkjvbQPcZksWNjfrUi91) | 2:16 | 2023-02-24 |  |
+| [Under the Stars](https://open.spotify.com/track/4hBZeB6q56Jzq3wDh1MuPF) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Under the Stars](https://open.spotify.com/album/51EkjvbQPcZksWNjfrUi91) | 2:16 | 2023-02-24 | 2024-11-12 |
 | [Underling](https://open.spotify.com/track/04GCX56L2mtzmoQviPUYqO) | [Vincent Shaub](https://open.spotify.com/artist/1xwN2rlkEDeCMi5w2SB6Kk) | [Underling](https://open.spotify.com/album/7fr39Jc2cRvvH0jrcwIhed) | 2:47 | 2021-12-08 | 2024-04-05 |
 | [Unforced](https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [Unforced](https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ) | 2:21 | 2021-12-08 | 2022-04-06 |
 | [Unspoken](https://open.spotify.com/track/3ciRi9v3G3MWMzTNE15WnT) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Unspoken](https://open.spotify.com/album/6Wab917B9CFK0wRxUT2QMP) | 2:29 | 2022-09-09 | 2024-04-19 |

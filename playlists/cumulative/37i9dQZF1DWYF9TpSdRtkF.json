@@ -4560,7 +4560,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-10",
+      "date_removed": null,
       "duration_ms": 292893,
       "name": "Sweet Sweet Soul",
       "url": "https://open.spotify.com/track/0cdsp44UOjWKtzTSm21Oti"
@@ -5114,7 +5114,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-05",
+      "date_removed": null,
       "duration_ms": 245333,
       "name": "\u304d\u307e\u3050\u308c\u30e6\u30e2\u30ec\u30b9\u30af",
       "url": "https://open.spotify.com/track/6q9C9m0Smx1CaMf6hdoFfY"
@@ -5628,7 +5628,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 290320,
       "name": "\u30b8\u30ec\u308b\u30cf\u30fc\u30c8\u306b\u706b\u3092\u3064\u3051\u3066",
       "url": "https://open.spotify.com/track/2WmhxxA2cnZdz74KGF1RBk"
@@ -5945,6 +5945,32 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 13 \u308a\u308b\u304d\u3083\u3093 \uff5e3 little candy\uff5e",
+        "url": "https://open.spotify.com/album/5qa2bHCRgdrocEpiWWLbxx"
+      },
+      "artists": [
+        {
+          "name": "\u7be0\u5bae\u53ef\u6190 (CV.\u8fd1\u85e4 \u552f)",
+          "url": "https://open.spotify.com/artist/1sRDMoEgLsGqFABNV67q7z"
+        },
+        {
+          "name": "\u91ce\u3005\u539f \u831c (CV.\u5c0f\u7b20\u539f\u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/4xBZB18tZyqwiVBaULud9U"
+        },
+        {
+          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
+          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289720,
+      "name": "\u30cf\u30eb\u30de\u30c1\u5973\u5b50",
+      "url": "https://open.spotify.com/track/5SCVtjFekvmxWtlo9laGSe"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER GENERATION 12 D/Zeal",
         "url": "https://open.spotify.com/album/18rvG8u4mjj3BV0g3Fwm17"
       },
@@ -5986,7 +6012,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 260812,
       "name": "\u30d1\u30f3\u3068\u30d5\u30a3\u30eb\u30e0",
       "url": "https://open.spotify.com/track/5D5FccKInfjYTGs7fozkwB"
@@ -6566,7 +6592,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 262546,
       "name": "\u5275\u9020\u306f\u59cb\u307e\u308a\u306e\u98a8\u3092\u9023\u308c\u3066",
       "url": "https://open.spotify.com/track/43nKi10iajknVFtzbNDzcI"
@@ -6832,7 +6858,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 200600,
       "name": "\u604b\u306eLesson\u521d\u7d1a\u7de8",
       "url": "https://open.spotify.com/track/2MFXCcrr20fqbLzPnrCrIp"
@@ -7130,7 +7156,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-05",
+      "date_removed": null,
       "duration_ms": 274120,
       "name": "\u6c38\u9060\u306e\u82b1",
       "url": "https://open.spotify.com/track/120COv4CRhfbXKydI1Ngs7"
@@ -7416,7 +7442,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 278973,
       "name": "\u79d8\u5bc6\u306e\u30e1\u30e2\u30ea\u30fc\u30ba",
       "url": "https://open.spotify.com/track/30mTHdJlzkjL9L17Fx0lEy"
@@ -7680,7 +7706,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 300413,
       "name": "\u991e\u306e\u9ce5",
       "url": "https://open.spotify.com/track/0wAaSofHTEBrvwP9FwGXBb"

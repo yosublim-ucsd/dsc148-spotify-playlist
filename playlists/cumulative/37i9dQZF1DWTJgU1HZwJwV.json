@@ -7321,6 +7321,24 @@
     },
     {
       "album": {
+        "name": "Shine Over Lakes and Shores",
+        "url": "https://open.spotify.com/album/3xF5capDJabHZi46IIXtaJ"
+      },
+      "artists": [
+        {
+          "name": "Peter Netz",
+          "url": "https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180362,
+      "name": "Shine Over Lakes and Shores",
+      "url": "https://open.spotify.com/track/4u4b45LwmUBXoajOZyN37J"
+    },
+    {
+      "album": {
         "name": "Signum",
         "url": "https://open.spotify.com/album/49dELtri6eKyk7Dq2zIqQB"
       },

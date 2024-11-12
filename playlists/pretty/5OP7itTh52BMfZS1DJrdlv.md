@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 
 > Celebrate the holiday season in style with this timeless playlist of Xmas favorites old and new\.  Merry Christmas, Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
 
-[Topsify](https://open.spotify.com/user/topsify) - 966,805 likes - 100 songs - 5 hr 15 min
+[Topsify](https://open.spotify.com/user/topsify) - 970,485 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 | 76 | [Heart of Christmas](https://open.spotify.com/track/2AowJLLVtXWOWFRIdu3LgU) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [Christmas with Cliff](https://open.spotify.com/album/7KEAi6eVRiWlFaEmbOKHaC) | 3:47 |
 | 77 | [Must Mean It's Christmas](https://open.spotify.com/track/0VMBFz9yMt9L81uzTKLj92) | [Chasing Abbey](https://open.spotify.com/artist/6toMXnM9tcozz7OmgxWtZg) | [Learning To Dance \(Lanigan’s Ball\)](https://open.spotify.com/album/7iMnWMLVJNky9Mrdzr0aiC) | 3:05 |
 | 78 | [Little Drummer Boy](https://open.spotify.com/track/44uuJMB9DgJQ376yTnFIts) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:19 |
-| 79 | [It Will Still Be Christmas](https://open.spotify.com/track/5ww4lqgabkfB10mKeDcRbh) | [The Boy Least Likely To](https://open.spotify.com/artist/3SdDP7u1TYReqBQ4f9BT6B) | [It Will Still Be Christmas](https://open.spotify.com/album/4aaLFJniEEy2weF9bW9puX) | 3:27 |
+| 79 | [Christmas Is All Around \- Acoustic](https://open.spotify.com/track/28fFuQJZxhTgA4OA8s9BJl) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Acoustic Christmas](https://open.spotify.com/album/0BoxAmnhfLOVbc1I8uPSvL) | 2:47 |
 | 80 | [Cuddle Up, Cozy Down Christmas](https://open.spotify.com/track/1i3nwb0C4XOxPhDNC1w0kv) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:39 |
 | 81 | [Think of Christmas](https://open.spotify.com/track/60ypavjPmJKbrcoDLd7NJH) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:50 |
 | 82 | [Presents for Christmas](https://open.spotify.com/track/4TH7c6LlwcnFPqdi23gA5I) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 | 99 | [Twelve Nights of Christmas](https://open.spotify.com/track/7ldZwZnZ9FTpmb07SgqN2M) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [not so xmas xmas](https://open.spotify.com/album/1OQfUgYdqH5F2QP0uRma3g) | 2:03 |
 | 100 | [White Christmas \(with the Patrick Williams Orchestra\)](https://open.spotify.com/track/4UI0J1JqYBqVeSXgdIJo0x) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Patrick Williams Orchestra](https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF) | [Laura Xmas \(Deluxe\)](https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3) | 2:22 |
 
-Snapshot ID: `AAAGg76SR/vkIJA9XEv4Qg3sSFLvVvzP`
+Snapshot ID: `AAAGhsZ7R/hXNxpL+DSeb3OXPJY5hyiz`

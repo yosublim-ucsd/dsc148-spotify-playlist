@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 31008,
+  "num_followers": 31014,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "D'Improvviso",
-        "url": "https://open.spotify.com/album/5uMkplQohrSjoclLGmLpTe"
+        "name": "Other Directions (Remastered and Unreleased Tracks)",
+        "url": "https://open.spotify.com/album/5cKcN1R8UBM5AHySPWAdCQ"
       },
       "artists": [
         {
-          "name": "Rosalia De Souza",
-          "url": "https://open.spotify.com/artist/4UK7ZwlNiYWVFeATAQian1"
+          "name": "Nicola Conte",
+          "url": "https://open.spotify.com/artist/5dUI54FMDxPqaXbNs4kLpB"
         }
       ],
-      "duration_ms": 188133,
-      "name": "D'Improvviso",
-      "url": "https://open.spotify.com/track/2aco8Ba7NUEtHYRHN3ZhYd"
+      "duration_ms": 239226,
+      "name": "Sea and Sand",
+      "url": "https://open.spotify.com/track/6SywHlqpazHVFfzw1rAnVz"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -271,18 +271,18 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Other Directions (Remastered and Unreleased Tracks)",
-        "url": "https://open.spotify.com/album/5cKcN1R8UBM5AHySPWAdCQ"
+        "name": "D'Improvviso",
+        "url": "https://open.spotify.com/album/5uMkplQohrSjoclLGmLpTe"
       },
       "artists": [
         {
-          "name": "Nicola Conte",
-          "url": "https://open.spotify.com/artist/5dUI54FMDxPqaXbNs4kLpB"
+          "name": "Rosalia De Souza",
+          "url": "https://open.spotify.com/artist/4UK7ZwlNiYWVFeATAQian1"
         }
       ],
-      "duration_ms": 239226,
-      "name": "Sea and Sand",
-      "url": "https://open.spotify.com/track/6SywHlqpazHVFfzw1rAnVz"
+      "duration_ms": 188133,
+      "name": "D'Improvviso",
+      "url": "https://open.spotify.com/track/2aco8Ba7NUEtHYRHN3ZhYd"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -491,38 +491,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Moon Kin",
-        "url": "https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm"
-      },
-      "artists": [
-        {
-          "name": "Emanuele Triglia",
-          "url": "https://open.spotify.com/artist/617R11XUjqnwEnjXGsqjTp"
-        },
-        {
-          "name": "Davide Savarese",
-          "url": "https://open.spotify.com/artist/4qxVdV4LGMsYYravUCrwgf"
-        },
-        {
-          "name": "QWALE",
-          "url": "https://open.spotify.com/artist/2cRadsW7it5UQecQG1Icsh"
-        },
-        {
-          "name": "Francesco Fratini",
-          "url": "https://open.spotify.com/artist/3DAWdBF9FZhTWbThgzcfNB"
-        },
-        {
-          "name": "Vincenzo Lato",
-          "url": "https://open.spotify.com/artist/18afzVKbLNUIWgXz9DIIrV"
-        }
-      ],
-      "duration_ms": 156838,
-      "name": "Samo",
-      "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Funambola",
         "url": "https://open.spotify.com/album/08xjdXUMNo6eXeh45j99xp"
       },
@@ -551,6 +519,38 @@
       "duration_ms": 300453,
       "name": "Luz Negra",
       "url": "https://open.spotify.com/track/24r0Ni7UbWHy69PBOe364Q"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Moon Kin",
+        "url": "https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm"
+      },
+      "artists": [
+        {
+          "name": "Emanuele Triglia",
+          "url": "https://open.spotify.com/artist/617R11XUjqnwEnjXGsqjTp"
+        },
+        {
+          "name": "Davide Savarese",
+          "url": "https://open.spotify.com/artist/4qxVdV4LGMsYYravUCrwgf"
+        },
+        {
+          "name": "QWALE",
+          "url": "https://open.spotify.com/artist/2cRadsW7it5UQecQG1Icsh"
+        },
+        {
+          "name": "Francesco Fratini",
+          "url": "https://open.spotify.com/artist/3DAWdBF9FZhTWbThgzcfNB"
+        },
+        {
+          "name": "Vincenzo Lato",
+          "url": "https://open.spotify.com/artist/18afzVKbLNUIWgXz9DIIrV"
+        }
+      ],
+      "duration_ms": 156838,
+      "name": "Samo",
+      "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Amalia Gr\u00e8",
-        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
-      },
-      "artists": [
-        {
-          "name": "Amalia Gre'",
-          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
-        }
-      ],
-      "duration_ms": 235506,
-      "name": "Io Cammino Di Notte Da Sola",
-      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Shades of Chet",
         "url": "https://open.spotify.com/album/0AC26eZQKVP2pvcnqEyQFK"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 457360,
       "name": "You can't go home again",
       "url": "https://open.spotify.com/track/64OrUDaxPFxPuwKzeUW6vA"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Amalia Gr\u00e8",
+        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
+      },
+      "artists": [
+        {
+          "name": "Amalia Gre'",
+          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "Io Cammino Di Notte Da Sola",
+      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Porta Pia",
-        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
-      },
-      "artists": [
-        {
-          "name": "Coca Puma",
-          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
-        }
-      ],
-      "duration_ms": 175458,
-      "name": "Porta Pia",
-      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Prati Bagnati Del Monte Analogo",
         "url": "https://open.spotify.com/album/61B1GQvwCDsQMEP6yaySOB"
       },
@@ -799,6 +783,22 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
+        "name": "Porta Pia",
+        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
+      },
+      "artists": [
+        {
+          "name": "Coca Puma",
+          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
+        }
+      ],
+      "duration_ms": 175458,
+      "name": "Porta Pia",
+      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
         "name": "Rivelazioni di un maniaco sessuale a capo della squadra mobile (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2bu5QRAoFBgSryv8LQODxI"
       },
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Studio Murena",
-        "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
-      },
-      "artists": [
-        {
-          "name": "Studio Murena",
-          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Long John Silver",
-      "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Impulsi",
         "url": "https://open.spotify.com/album/5Yimn2Kv6tcODUaPOsNy6t"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 326817,
       "name": "Javier",
       "url": "https://open.spotify.com/track/7lETJyf7RkzZxANVgSdcIZ"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Studio Murena",
+        "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
+      },
+      "artists": [
+        {
+          "name": "Studio Murena",
+          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Long John Silver",
+      "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Drifting in a room full of mirrors",
-        "url": "https://open.spotify.com/album/0aytU9tekBhYjY8A4CM7ss"
-      },
-      "artists": [
-        {
-          "name": "Egidio Marchitelli",
-          "url": "https://open.spotify.com/artist/4m0AQenXHYGsM1nqy3vBc6"
-        }
-      ],
-      "duration_ms": 274887,
-      "name": "Little Wing",
-      "url": "https://open.spotify.com/track/3vGejZYg2jc9r16bIBvmyq"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "La Strada Invisibile",
         "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 288616,
       "name": "Tuareg",
       "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Drifting in a room full of mirrors",
+        "url": "https://open.spotify.com/album/0aytU9tekBhYjY8A4CM7ss"
+      },
+      "artists": [
+        {
+          "name": "Egidio Marchitelli",
+          "url": "https://open.spotify.com/artist/4m0AQenXHYGsM1nqy3vBc6"
+        }
+      ],
+      "duration_ms": 274887,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/3vGejZYg2jc9r16bIBvmyq"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Something In Our Way",
-        "url": "https://open.spotify.com/album/3gFETZs7VBLDGCIakDFE7x"
+        "name": "NON-BACKGROUND MUSIC",
+        "url": "https://open.spotify.com/album/05gsbxcGDXKKUEX2oAuahF"
       },
       "artists": [
         {
-          "name": "Danilo Rea",
-          "url": "https://open.spotify.com/artist/0px78Y2V2QRl3f8hNtxdst"
+          "name": "72-HOUR POST FIGHT",
+          "url": "https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0"
         }
       ],
-      "duration_ms": 336666,
-      "name": "You Can't Always Get What You Want",
-      "url": "https://open.spotify.com/track/5ULXaeY21pBRmXlRUshUHX"
+      "duration_ms": 280537,
+      "name": "CANDLEFACE THEME",
+      "url": "https://open.spotify.com/track/41YcKoZizBFkK5ATTkLewm"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "NON-BACKGROUND MUSIC",
-        "url": "https://open.spotify.com/album/05gsbxcGDXKKUEX2oAuahF"
+        "name": "Something In Our Way",
+        "url": "https://open.spotify.com/album/3gFETZs7VBLDGCIakDFE7x"
       },
       "artists": [
         {
-          "name": "72-HOUR POST FIGHT",
-          "url": "https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0"
+          "name": "Danilo Rea",
+          "url": "https://open.spotify.com/artist/0px78Y2V2QRl3f8hNtxdst"
         }
       ],
-      "duration_ms": 280537,
-      "name": "CANDLEFACE THEME",
-      "url": "https://open.spotify.com/track/41YcKoZizBFkK5ATTkLewm"
+      "duration_ms": 336666,
+      "name": "You Can't Always Get What You Want",
+      "url": "https://open.spotify.com/track/5ULXaeY21pBRmXlRUshUHX"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Franco Cerri Jazz",
-        "url": "https://open.spotify.com/album/4VphmaeJQ8CAbRMRz9QDA8"
-      },
-      "artists": [
-        {
-          "name": "Franco Cerri",
-          "url": "https://open.spotify.com/artist/1kk5a0EzDK5su94EBYUKPw"
-        }
-      ],
-      "duration_ms": 79041,
-      "name": "Generazia",
-      "url": "https://open.spotify.com/track/2KWRSw7WgfSNcdiEWM8Q72"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Jazz vs Corona Vol. 1",
         "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 209551,
       "name": "Luna di mezzogiorno",
       "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Franco Cerri Jazz",
+        "url": "https://open.spotify.com/album/4VphmaeJQ8CAbRMRz9QDA8"
+      },
+      "artists": [
+        {
+          "name": "Franco Cerri",
+          "url": "https://open.spotify.com/artist/1kk5a0EzDK5su94EBYUKPw"
+        }
+      ],
+      "duration_ms": 79041,
+      "name": "Generazia",
+      "url": "https://open.spotify.com/track/2KWRSw7WgfSNcdiEWM8Q72"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Senza Fine",
-        "url": "https://open.spotify.com/album/2trPbGJmjDnMWH0QICdpq3"
-      },
-      "artists": [
-        {
-          "name": "Luciano Biondini",
-          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
-        }
-      ],
-      "duration_ms": 137613,
-      "name": "Napule \u00c8",
-      "url": "https://open.spotify.com/track/2eRACc3Rpdo187IiE1gyF9"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Desertico",
         "url": "https://open.spotify.com/album/7HQw3tDo1g6tyTLQdjIPQt"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 353310,
       "name": "Desertico",
       "url": "https://open.spotify.com/track/4EZKZM515HwNLevRgZmFd6"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Senza Fine",
+        "url": "https://open.spotify.com/album/2trPbGJmjDnMWH0QICdpq3"
+      },
+      "artists": [
+        {
+          "name": "Luciano Biondini",
+          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
+        }
+      ],
+      "duration_ms": 137613,
+      "name": "Napule \u00c8",
+      "url": "https://open.spotify.com/track/2eRACc3Rpdo187IiE1gyF9"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1815,18 +1815,18 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Cucoma Combo",
-        "url": "https://open.spotify.com/album/1XI0hx81wGuRxJIXGBJJub"
+        "name": "Roaming Heart",
+        "url": "https://open.spotify.com/album/3KINBz0xl2QEttJhyIwen0"
       },
       "artists": [
         {
-          "name": "Cucoma Combo",
-          "url": "https://open.spotify.com/artist/3jPDOej0c2cX9ghGS2d9Oc"
+          "name": "Dino Rubino",
+          "url": "https://open.spotify.com/artist/3BatL5ELL5CEN1xjCeDi7S"
         }
       ],
-      "duration_ms": 250625,
-      "name": "Aguacate",
-      "url": "https://open.spotify.com/track/7EX4fqPGqMSuT5NR9SqQvy"
+      "duration_ms": 271923,
+      "name": "Roaming Heart",
+      "url": "https://open.spotify.com/track/6kdEov88xek2IQaYw54DVl"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Roaming Heart",
-        "url": "https://open.spotify.com/album/3KINBz0xl2QEttJhyIwen0"
-      },
-      "artists": [
-        {
-          "name": "Dino Rubino",
-          "url": "https://open.spotify.com/artist/3BatL5ELL5CEN1xjCeDi7S"
-        }
-      ],
-      "duration_ms": 271923,
-      "name": "Roaming Heart",
-      "url": "https://open.spotify.com/track/6kdEov88xek2IQaYw54DVl"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Stefano Di Battista",
         "url": "https://open.spotify.com/album/5132ELCkDRdYcjoZy2zkgP"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 310480,
       "name": "Anastasia",
       "url": "https://open.spotify.com/track/5X8CuSkUxEbIHuGyXTFEzn"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Cucoma Combo",
+        "url": "https://open.spotify.com/album/1XI0hx81wGuRxJIXGBJJub"
+      },
+      "artists": [
+        {
+          "name": "Cucoma Combo",
+          "url": "https://open.spotify.com/artist/3jPDOej0c2cX9ghGS2d9Oc"
+        }
+      ],
+      "duration_ms": 250625,
+      "name": "Aguacate",
+      "url": "https://open.spotify.com/track/7EX4fqPGqMSuT5NR9SqQvy"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1935,26 +1935,26 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Facing North",
-        "url": "https://open.spotify.com/album/7BG1DgkjLbJR5QQ2FBgswN"
+        "name": "Tati",
+        "url": "https://open.spotify.com/album/2IMWVfOAIMlDL7SEpXtFVh"
       },
       "artists": [
         {
-          "name": "Claudio Filippini",
-          "url": "https://open.spotify.com/artist/26vqH4OquRRTf6lnRe4gbX"
+          "name": "Enrico Rava",
+          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
         },
         {
-          "name": "Palle Danielsson",
-          "url": "https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ"
+          "name": "Stefano Bollani",
+          "url": "https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7"
         },
         {
-          "name": "Olavi Louhivuori",
-          "url": "https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT"
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
         }
       ],
-      "duration_ms": 293866,
-      "name": "Nothing To Lose",
-      "url": "https://open.spotify.com/track/4dloclI8tlsFDjUTTSYuXY"
+      "duration_ms": 392266,
+      "name": "Cornettology",
+      "url": "https://open.spotify.com/track/1B33DpXeN6I9yo0txJSx6Z"
     }
   ],
   "unique_name": "Jazz Italia",

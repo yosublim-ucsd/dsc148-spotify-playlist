@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. Duki
 
-661 songs - 1 day 12 hr 35 min
+662 songs - 1 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [LA NENA](https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [LA NENA](https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw) | 3:20 | 2024-04-17 |  |
 | [La Noche](https://open.spotify.com/track/29825KbVmzA6KSUMHKdcdb) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Rayo](https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo) | 2:55 | 2024-08-09 | 2024-10-31 |
 | [La Old Skul](https://open.spotify.com/track/6MEBxXI2n3FzPHrGRYFdL8) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 3:34 | 2022-01-07 | 2022-07-27 |
+| [La Oportunidad](https://open.spotify.com/track/3WvVLW5vG7A3rFNHvbb4pt) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [La Oportunidad](https://open.spotify.com/album/0t3A0rQ7OgJvouak54Aa0K) | 4:15 | 2024-11-11 |  |
 | [La otra de Juacko](https://open.spotify.com/track/1GFOKdjFP5ZPanG7s1aZeG) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [QUIÉN ESTÁ AQUÍ?](https://open.spotify.com/album/6zj1G3rfSSq1do2X3jPZ3s) | 2:45 | 2024-10-07 | 2024-10-29 |
 | [La Pasamos CXBRXN](https://open.spotify.com/track/672zDo2nzWSoIIQ7zD5kuj) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 3:48 | 2022-12-14 | 2023-04-18 |
 | [La Prendo](https://open.spotify.com/track/6t48UVZvQWh5wWfWlCZfzY) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [La Prendo](https://open.spotify.com/album/4eCRi01qxklHWrG0sIra8x) | 3:01 | 2022-05-26 | 2022-09-06 |
@@ -351,7 +352,7 @@
 | [LUCES DE TECNO](https://open.spotify.com/track/0goXAEnjWhssHU0y9Zyqyf) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:44 | 2023-10-09 | 2024-03-12 |
 | [LULUNA](https://open.spotify.com/track/3FEEtt6a2JNuoxkBPOaFO8) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [LULUNA](https://open.spotify.com/album/6ONpKrCEQZQGVCULcGTEcq) | 3:08 | 2023-11-06 | 2023-12-19 |
 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 | 2023-12-01 | 2024-04-23 |
-| [Luna llena](https://open.spotify.com/track/6mnfGyPzbzSe8olYGM44pU) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Anti Social Cool Kid](https://open.spotify.com/album/6pisGd3CugRqlclq4yp308) | 2:49 | 2024-07-12 |  |
+| [Luna llena](https://open.spotify.com/track/6mnfGyPzbzSe8olYGM44pU) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Anti Social Cool Kid](https://open.spotify.com/album/6pisGd3CugRqlclq4yp308) | 2:49 | 2024-07-12 | 2024-11-12 |
 | [LV](https://open.spotify.com/track/5w2qHFrRrGdFhGba7FQ93d) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [π Beats](https://open.spotify.com/artist/2VvIMgT14KqJyUTVKEUw8O) | [LV](https://open.spotify.com/album/0W70dS8Ja8Puq40MefCPfM) | 2:09 | 2024-03-15 | 2024-04-26 |
 | [M.A \(Mejores Amigos\)](https://open.spotify.com/track/1eIDsKCLwZF6CJK8pOgHX5) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Phontana](https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz) | [M.A \(Mejores Amigos\)](https://open.spotify.com/album/2ESUDQUE3ku1wEBCO5RKG6) | 2:38 | 2023-03-13 | 2023-04-18 |
 | [M.A \- Remix](https://open.spotify.com/track/7JB29gnUowzSGRdIpeVqRQ) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [M.A \(Remix\)](https://open.spotify.com/album/3iggaiQChBAIIfQP8ZH2bR) | 4:32 | 2023-04-17 | 2023-07-11 |

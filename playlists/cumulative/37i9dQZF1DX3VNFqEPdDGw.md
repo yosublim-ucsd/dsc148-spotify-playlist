@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Sharry Maan
 
-127 songs - 6 hr 40 min
+128 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Gal Ban Jau](https://open.spotify.com/track/2FXjXUH7kzRTIzQaVHfs3j) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Fuffad Ji \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2rUfyKVXe16mH973tWOjkB) | 2:15 | 2021-12-18 | 2022-01-11 |
 | [Gal Sun](https://open.spotify.com/track/7kUNwrzscc83PhP8mnOwz6) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr), [The Kidd](https://open.spotify.com/artist/69NQgCPPwq05n5zewAYd8c) | [Gal Sun](https://open.spotify.com/album/09FgdndDRPfUCq7mhwdt82) | 3:33 | 2022-05-05 | 2024-08-21 |
 | [Gallan Kardi](https://open.spotify.com/track/7bWIRK3emiP8UwH6fpDfuu) | [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw) | [Jawaani Jaaneman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4G3LgNCIT4yHn2pF4AfrsR) | 3:14 | 2021-12-18 | 2022-01-11 |
-| [Gidha Kiwe Payida 2.0](https://open.spotify.com/track/4K4kGoqdM1XToFMtoOL1Gf) | [Ammie Papra](https://open.spotify.com/artist/3yi9bsstNojIMIDvCeBZMs) | [Gidha Kiwe Payida 2.0](https://open.spotify.com/album/6iQxUOMj3H7hyr5yVwnkYL) | 3:32 | 2024-09-28 |  |
+| [Gidha Kiwe Payida 2.0](https://open.spotify.com/track/4K4kGoqdM1XToFMtoOL1Gf) | [Ammie Papra](https://open.spotify.com/artist/3yi9bsstNojIMIDvCeBZMs) | [Gidha Kiwe Payida 2.0](https://open.spotify.com/album/6iQxUOMj3H7hyr5yVwnkYL) | 3:32 | 2024-09-28 | 2024-11-12 |
 | [Glassy](https://open.spotify.com/track/0IeIYYW7KFt5sKbAVAwuyX) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6) | [RESUME](https://open.spotify.com/album/46JNBkfOGwjJ5HS39wNWrX) | 3:03 | 2024-10-24 |  |
 | [Gutt](https://open.spotify.com/track/6WwlMsdEoHYH6cM9SLGmTF) | [Sippy Gill](https://open.spotify.com/artist/2zstvC7L2UiHZZo5Nrz9gY), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Circus](https://open.spotify.com/album/1JvUk6aapPqW8fgFLpDJCc) | 3:00 | 2024-10-16 |  |
 | [HOBBIES](https://open.spotify.com/track/18wzW9g7ydcXFlz3PRuQE6) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [GLOBAL WARNING](https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p) | 2:48 | 2023-07-31 | 2023-12-19 |
@@ -105,6 +105,7 @@
 | [Putt Patela Da](https://open.spotify.com/track/30iRn3jvkspezDnngzLt7V) | [Geeta Zaildar](https://open.spotify.com/artist/78rdC4FvVaOJmEgfjlUi4a), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Putt Patela Da](https://open.spotify.com/album/7ktFMBLCpBHdsXP5PLROM2) | 2:50 | 2022-07-05 | 2023-05-26 |
 | [Pyar Bolda](https://open.spotify.com/track/3RtR0XXNGtBHJkFgY6OvTQ) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Pyar Bolda](https://open.spotify.com/album/3ZcDbMWG4m26hPhQXFLFc8) | 2:42 | 2021-12-18 |  |
 | [Red Bottom](https://open.spotify.com/track/4Rk9xAIYkkCq34H9XhrY3C) | [Jk Dhillon](https://open.spotify.com/artist/4Qd0RqDCeIhqaWMLyRe8ba), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Red Bottom](https://open.spotify.com/album/1ZBrAjDZ9o6hsuiNKTEIMW) | 3:35 | 2023-09-30 | 2023-10-21 |
+| [Rohab Te Round](https://open.spotify.com/track/1DVtRbRYScXQwJVcZhcmqE) | [Labh Heera](https://open.spotify.com/artist/4ezwpwbRQF6wEWji17s3Bc), [Beatcop](https://open.spotify.com/artist/2sGUVwZqJzeySVgEw7KTaV), [Alam Chatha](https://open.spotify.com/artist/6QD7yIIxirmaHmp3Ukn6Ch) | [Rohab Te Round](https://open.spotify.com/album/2sR59f1t58nnfn6wx8i8pu) | 3:09 | 2024-11-11 |  |
 | [Salute](https://open.spotify.com/track/0w2wUGseVPOTjYVp3ZbBlf) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Salute](https://open.spotify.com/album/1QXDxsneMDb6sD2995j8FM) | 3:23 | 2023-07-26 |  |
 | [Sarpanchi](https://open.spotify.com/track/5wHNjnfMjLji3AjbHRA8hj) | [Kulwinder Kaily](https://open.spotify.com/artist/3TQK8VxIYSzNXTYDCRyDbR), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Sarpanchi](https://open.spotify.com/album/5TnWS9WFGm1koOsphWNrEG) | 4:01 | 2024-11-04 |  |
 | [Sharaab](https://open.spotify.com/track/5yAu5xEsC4eJvVL4B2Gjl4) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [State of Art](https://open.spotify.com/album/62Wlbcq0ip7IThBYtmxEi6) | 2:49 | 2022-05-06 | 2024-10-17 |

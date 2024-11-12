@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3m9htS7sBzxtCipDBWYHTB.md) - [plain]
 
 > The numb flavor of depression
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 21 songs - 1 hr 15 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 22 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,5 +29,6 @@ pretty - [cumulative](/playlists/cumulative/3m9htS7sBzxtCipDBWYHTB.md) - [plain]
 | 19 | [Paint It, Black](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:22 |
 | 20 | [People Are Strange](https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 2:10 |
 | 21 | [Early Sunsets Over Monroeville](https://open.spotify.com/track/2aHqdN4K9naX3oBuUxp6zf) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 5:05 |
+| 22 | [In the Shadow of the Western Hills](https://open.spotify.com/track/3VSLsAh8ldiCl9ANK7yt4i) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Steal Smoked Fish / In the Shadow of the Western Hills](https://open.spotify.com/album/6MufqmhgbIO7CezOM60xyc) | 2:34 |
 
-Snapshot ID: `AAAAHLJjlcS3rjlr9KRJi17aAT3Oqgt9`
+Snapshot ID: `AAAAHw4sjvEmuD4L5pmJtOa1rdJ2hktJ`

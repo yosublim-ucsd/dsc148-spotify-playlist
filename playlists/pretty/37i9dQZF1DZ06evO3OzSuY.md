@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 
 > This is Zendaya\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,256 likes - 35 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,255 likes - 35 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 | 8 | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 |
 | 9 | [Neverland](https://open.spotify.com/track/654bpQLFU931tUdT7HHqu0) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Neverland](https://open.spotify.com/album/6alQEMqbSAbkkfrfuLKRSo) | 3:44 |
 | 10 | [Wonderful Life](https://open.spotify.com/track/2AD2chJEFxVPaoPo2IzI5t) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Smallfoot \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ZlM4XjfDsaqBQiAY2GVy9) | 3:10 |
-| 11 | [Keep It Undercover \- Theme Song From "K.C\. Undercover"](https://open.spotify.com/track/744ZuzjXQmoJmOdk2I1ym9) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Keep It Undercover \(Theme Song From "K.C\. Undercover"\)](https://open.spotify.com/album/4kQ2DrYRRIq0VTNKJOau2W) | 2:36 |
-| 12 | [Butterflies](https://open.spotify.com/track/1nV9EKNIAORTvadQ19jkik) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 3:47 |
+| 11 | [Butterflies](https://open.spotify.com/track/1nV9EKNIAORTvadQ19jkik) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 3:47 |
+| 12 | [Keep It Undercover \- Theme Song From "K.C\. Undercover"](https://open.spotify.com/track/744ZuzjXQmoJmOdk2I1ym9) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Keep It Undercover \(Theme Song From "K.C\. Undercover"\)](https://open.spotify.com/album/4kQ2DrYRRIq0VTNKJOau2W) | 2:36 |
 | 13 | [Rue's I'm Tired \(with Zendaya\)](https://open.spotify.com/track/2zK87MbyKo6RRc520hbGAW) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:17 |
 | 14 | [Something To Dance For](https://open.spotify.com/track/0WcBvAA59kSYFHeqy0fpZp) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Something to Dance For \(From "Shake It Up: Live 2 Dance"\)](https://open.spotify.com/album/3fNsftRp4lSqwXgjx9p8le) | 2:43 |
 | 15 | [Watch Me](https://open.spotify.com/track/6i2AmqDwaicOn2NGFsd5nn) | [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Cast of Shake It Up: Break It Down](https://open.spotify.com/artist/116v5BJngSpJcXNml0OPeu) | [Shake It Up: Break It Down](https://open.spotify.com/album/18c2h2tjmiJYSFVe144llF) | 2:55 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 | 34 | [Fireflies](https://open.spotify.com/track/4JAIxZETWX5KwNTmCcJVXH) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Silver Soul](https://open.spotify.com/album/50kJC7jxGk1sbWTC51syZ4) | 4:28 |
 | 35 | [My Jam \- Track Commentary](https://open.spotify.com/track/6iYBqmCFPD5HzWq9Bfyiab) | [Bobby Brackins](https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [My Jam \- Track Commentary](https://open.spotify.com/album/2J9D3akwEAUR4kfYHQvtww) | 2:24 |
 
-Snapshot ID: `Zy6mAAAAAABcDGqItMwY/AeT2DcrEjP4`
+Snapshot ID: `Zy/3gAAAAACH6+qTmLkT8IRbttwMTD9z`

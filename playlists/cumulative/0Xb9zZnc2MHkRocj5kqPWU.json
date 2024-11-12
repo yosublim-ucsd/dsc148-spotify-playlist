@@ -709,6 +709,24 @@
     },
     {
       "album": {
+        "name": "Intercosmia Vol. 1",
+        "url": "https://open.spotify.com/album/3y5tT5o4of6SEyndkccXMI"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176789,
+      "name": "Anima III",
+      "url": "https://open.spotify.com/track/3rGvmKEB5z1YyibViKHKXZ"
+    },
+    {
+      "album": {
         "name": "Anima III",
         "url": "https://open.spotify.com/album/15spvmlCW5j60dfs4l5Izx"
       },
@@ -2849,6 +2867,24 @@
     },
     {
       "album": {
+        "name": "Loiste",
+        "url": "https://open.spotify.com/album/2M4uM2dAm17xuLzVJkz31X"
+      },
+      "artists": [
+        {
+          "name": "A. Blomqvist",
+          "url": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185506,
+      "name": "Loiste",
+      "url": "https://open.spotify.com/track/0QnFEI5XPIXcBdTXglZ6Za"
+    },
+    {
+      "album": {
         "name": "Between Two Waves",
         "url": "https://open.spotify.com/album/3K20Qp773ImY8pBQ1vUt93"
       },
@@ -4972,6 +5008,24 @@
       "duration_ms": 136640,
       "name": "tableau",
       "url": "https://open.spotify.com/track/1g3hiG4Q75IFVyxgnOYVAR"
+    },
+    {
+      "album": {
+        "name": "Urban Impressionism",
+        "url": "https://open.spotify.com/album/2HwoFNovpqusvem2csYBU4"
+      },
+      "artists": [
+        {
+          "name": "Dardust",
+          "url": "https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249905,
+      "name": "The Art of Falling",
+      "url": "https://open.spotify.com/track/4xmWnJpazNxLLxDJcCKgeG"
     },
     {
       "album": {

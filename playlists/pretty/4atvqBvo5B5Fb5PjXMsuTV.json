@@ -1,13 +1,89 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 11 Nov 23:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 12 Nov 02:02 UTC.",
   "num_followers": 85,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAANNIOC1gjs/s6xrC2oCwpIqwfvSibK",
+  "snapshot_id": "AAANQCwcyMrwL8DM278R3WDYo4gCswnV",
   "tracks": [
+    {
+      "added_at": "2024-11-11 23:03:11",
+      "album": {
+        "name": "Keep Pushing",
+        "url": "https://open.spotify.com/album/0dnmwmD83U5t6es4eoJURO"
+      },
+      "artists": [
+        {
+          "name": "clipping.",
+          "url": "https://open.spotify.com/artist/5HJ2kX5UTwN4Ns8fB5Rn1I"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Jonathan Snipes",
+          "url": "https://open.spotify.com/artist/5v69lcKunkvGk1SimYwL0M"
+        },
+        {
+          "name": "William Hutson",
+          "url": "https://open.spotify.com/artist/709RUroHgigfxfOrPwVDAm"
+        }
+      ],
+      "duration_ms": 226777,
+      "name": "Keep Pushing",
+      "url": "https://open.spotify.com/track/1E7PjlgEcRsGB4oT6SNaYW"
+    },
+    {
+      "added_at": "2024-11-11 08:03:03",
+      "album": {
+        "name": "New me",
+        "url": "https://open.spotify.com/album/0YXJVcVH0uFhYSBc2duxyf"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 206129,
+      "name": "New me",
+      "url": "https://open.spotify.com/track/43DrDpSiIZWEiEfsQQHoQi"
+    },
+    {
+      "added_at": "2024-11-11 08:03:03",
+      "album": {
+        "name": "every heartbeat",
+        "url": "https://open.spotify.com/album/7lIiY8CHpp7PzHSG4jXy8K"
+      },
+      "artists": [
+        {
+          "name": "Lil Darkie",
+          "url": "https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "every heartbeat",
+      "url": "https://open.spotify.com/track/0rPTlNlpexrky3HF2RrjhK"
+    },
+    {
+      "added_at": "2024-11-11 20:02:36",
+      "album": {
+        "name": "Get Fu*ked Up",
+        "url": "https://open.spotify.com/album/1ddjtDC4sWZjsn0ewExfy9"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "duration_ms": 170240,
+      "name": "Get Fu*ked Up",
+      "url": "https://open.spotify.com/track/7i48Dc6MvDWQE88QgxxVtw"
+    },
     {
       "added_at": "2024-11-10 23:02:30",
       "album": {
@@ -23,6 +99,138 @@
       "duration_ms": 244493,
       "name": "BREAK IT DOWN",
       "url": "https://open.spotify.com/track/73o6n0ZXWVYnBSzge6Ei0m"
+    },
+    {
+      "added_at": "2024-11-11 23:03:11",
+      "album": {
+        "name": "Croch\u00ea",
+        "url": "https://open.spotify.com/album/0ixk9iHZvbOKJAi5WigCwK"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 217100,
+      "name": "Croch\u00ea",
+      "url": "https://open.spotify.com/track/4dXZ9dtav1eZSRPpqU1Z7F"
+    },
+    {
+      "added_at": "2024-11-11 11:02:57",
+      "album": {
+        "name": "You Are My Reason",
+        "url": "https://open.spotify.com/album/6vodukTmfY1hMNd6zjNjhM"
+      },
+      "artists": [
+        {
+          "name": "8TURN",
+          "url": "https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM"
+        }
+      ],
+      "duration_ms": 199720,
+      "name": "You Are My Reason",
+      "url": "https://open.spotify.com/track/5uqBNvs6pldeDkcfiRdvnK"
+    },
+    {
+      "added_at": "2024-11-11 11:02:57",
+      "album": {
+        "name": "tie me up.",
+        "url": "https://open.spotify.com/album/6RNuNLO6UsuBUsvF9S5AxQ"
+      },
+      "artists": [
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        }
+      ],
+      "duration_ms": 129255,
+      "name": "tie me up.",
+      "url": "https://open.spotify.com/track/77YzQXREERjyTjahtKnjPS"
+    },
+    {
+      "added_at": "2024-11-11 05:03:06",
+      "album": {
+        "name": "Dareda?",
+        "url": "https://open.spotify.com/album/0QLBoZvMiw6tZm5MNgEnvz"
+      },
+      "artists": [
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        }
+      ],
+      "duration_ms": 164372,
+      "name": "Dareda?",
+      "url": "https://open.spotify.com/track/3PaijZcpKUQDQ1JUpajZ6e"
+    },
+    {
+      "added_at": "2024-11-11 20:02:36",
+      "album": {
+        "name": "Heaven In Your Arms",
+        "url": "https://open.spotify.com/album/6fKXXD48aSKEBID5hwaQ8n"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 248415,
+      "name": "Heaven In Your Arms",
+      "url": "https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi"
+    },
+    {
+      "added_at": "2024-11-12 02:02:48",
+      "album": {
+        "name": "Zonder Naam",
+        "url": "https://open.spotify.com/album/5QEFqvIyfTxjiRgPMuKuq5"
+      },
+      "artists": [
+        {
+          "name": "Spinvis",
+          "url": "https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Zonder Naam",
+      "url": "https://open.spotify.com/track/2L9SjKxjHUPiZ4KRNZsbri"
+    },
+    {
+      "added_at": "2024-11-11 20:02:36",
+      "album": {
+        "name": "Multiverse",
+        "url": "https://open.spotify.com/album/3LXixXmlpd7VK0XLySML3e"
+      },
+      "artists": [
+        {
+          "name": "Moona Hoshinova",
+          "url": "https://open.spotify.com/artist/2Iss9rGmxvoEfVigargjTH"
+        }
+      ],
+      "duration_ms": 206985,
+      "name": "Multiverse",
+      "url": "https://open.spotify.com/track/3dy5itpiVnSU4wrVFw2FuT"
+    },
+    {
+      "added_at": "2024-11-11 11:02:57",
+      "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/3SQB5vRJgDcwolxugNIQhP"
+      },
+      "artists": [
+        {
+          "name": "TIOT",
+          "url": "https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7"
+        }
+      ],
+      "duration_ms": 266440,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/79hId72GmlSVZZHqq91M6U"
     },
     {
       "added_at": "2024-11-09 11:02:26",
@@ -545,6 +753,22 @@
       "url": "https://open.spotify.com/track/0nSxiyRH74IpDiVdYLVjsv"
     },
     {
+      "added_at": "2024-11-08 08:02:43",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 232290,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v"
+    },
+    {
       "added_at": "2024-11-08 05:03:14",
       "album": {
         "name": "good luck, stranger - \u9811\u5f35\u3063\u3066\u3001\u30b9\u30c8\u30ec\u30f3\u30b8\u30e3",
@@ -563,22 +787,6 @@
       "duration_ms": 130320,
       "name": "good luck, stranger - \u9811\u5f35\u3063\u3066\u3001\u30b9\u30c8\u30ec\u30f3\u30b8\u30e3",
       "url": "https://open.spotify.com/track/7twgHsv32mIXDV4QhYeh0X"
-    },
-    {
-      "added_at": "2024-11-08 08:02:43",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 232290,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v"
     },
     {
       "added_at": "2024-11-08 17:02:44",
@@ -715,222 +923,6 @@
       "duration_ms": 336400,
       "name": "Take A Picture",
       "url": "https://open.spotify.com/track/1DeAGiPjHLeEVtDZbJYhwu"
-    },
-    {
-      "added_at": "2024-11-08 05:03:14",
-      "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/5Eg6oyQd5RJS7KuGooq5iJ"
-      },
-      "artists": [
-        {
-          "name": "Stela Cole",
-          "url": "https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9"
-        }
-      ],
-      "duration_ms": 197257,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/6bCE0p7QX3Tx4rZGDyaJ1U"
-    },
-    {
-      "added_at": "2024-11-08 05:03:14",
-      "album": {
-        "name": "The Apollo Programme Was A Hoax",
-        "url": "https://open.spotify.com/album/2VfpzHUHKc4Ni26qeaD70D"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 191400,
-      "name": "The Apollo Programme Was A Hoax",
-      "url": "https://open.spotify.com/track/0sXsOeBuEEPQPmJpPQhISe"
-    },
-    {
-      "added_at": "2024-11-08 20:02:26",
-      "album": {
-        "name": "John Stockton",
-        "url": "https://open.spotify.com/album/3MvdY5IXNkQu11A4NWyT4A"
-      },
-      "artists": [
-        {
-          "name": "OT7 Quanny",
-          "url": "https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L"
-        },
-        {
-          "name": "Leaf Ward",
-          "url": "https://open.spotify.com/artist/5ZmJ7jcRLF7C06UMrFI1C8"
-        }
-      ],
-      "duration_ms": 203441,
-      "name": "John Stockton",
-      "url": "https://open.spotify.com/track/3yXeNoUvHwnCKnjkiAuNyH"
-    },
-    {
-      "added_at": "2024-11-08 08:02:43",
-      "album": {
-        "name": "EVEN LOWER",
-        "url": "https://open.spotify.com/album/7s6cG4MDvQY8OoITIeyrBd"
-      },
-      "artists": [
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 107461,
-      "name": "TEXACO",
-      "url": "https://open.spotify.com/track/5J6FINTOPdvY07nRHfKThd"
-    },
-    {
-      "added_at": "2024-11-08 23:02:37",
-      "album": {
-        "name": "Snakebite",
-        "url": "https://open.spotify.com/album/45fU9PwOnq38Nhg3rLJjLF"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 228796,
-      "name": "Snakebite",
-      "url": "https://open.spotify.com/track/3DmVV5vWnmswl6ZBNVWzbs"
-    },
-    {
-      "added_at": "2024-11-09 02:02:36",
-      "album": {
-        "name": "All White",
-        "url": "https://open.spotify.com/album/6tesIGpGWfCP4wwhsQxlHm"
-      },
-      "artists": [
-        {
-          "name": "Duke Deuce",
-          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
-        },
-        {
-          "name": "Made Men Mafia",
-          "url": "https://open.spotify.com/artist/2lxIytxNJ4XC5tKUVjx1ee"
-        },
-        {
-          "name": "OJ Da Juiceman",
-          "url": "https://open.spotify.com/artist/0t5qZrvVCo9YIUT87SQrTn"
-        },
-        {
-          "name": "Turnt LilThadd",
-          "url": "https://open.spotify.com/artist/3yfwG2wRMDbBJ6f1nVEr8h"
-        },
-        {
-          "name": "Dubba G",
-          "url": "https://open.spotify.com/artist/3q6LWVdiXXVKUWUgfIfXta"
-        }
-      ],
-      "duration_ms": 196309,
-      "name": "All White",
-      "url": "https://open.spotify.com/track/2iNjRC5g9DH6VEl9K6WTKy"
-    },
-    {
-      "added_at": "2024-11-08 08:02:43",
-      "album": {
-        "name": "Days On End",
-        "url": "https://open.spotify.com/album/3fsJkD4GuO8IAQBzxMr0cV"
-      },
-      "artists": [
-        {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
-        }
-      ],
-      "duration_ms": 208476,
-      "name": "Days On End",
-      "url": "https://open.spotify.com/track/0jCeblxsZemjNoHAvYD5iU"
-    },
-    {
-      "added_at": "2024-11-08 17:02:44",
-      "album": {
-        "name": "YOUNG SAIYAN FREESTYLE",
-        "url": "https://open.spotify.com/album/5RrJLi92lXnxc46yFHipCG"
-      },
-      "artists": [
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        },
-        {
-          "name": "Hunna G",
-          "url": "https://open.spotify.com/artist/3K1jwN2afVgJiqwgoT38GP"
-        }
-      ],
-      "duration_ms": 110666,
-      "name": "YOUNG SAIYAN FREESTYLE",
-      "url": "https://open.spotify.com/track/1PcIh8JN2j60CFLdveNIQE"
-    },
-    {
-      "added_at": "2024-11-08 05:03:14",
-      "album": {
-        "name": "Me, Myself & You",
-        "url": "https://open.spotify.com/album/7cczplDsPconF6IdWikvOd"
-      },
-      "artists": [
-        {
-          "name": "Perrie",
-          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
-        }
-      ],
-      "duration_ms": 155957,
-      "name": "Me, Myself & You",
-      "url": "https://open.spotify.com/track/4dsgZlMA69Hb2VppaZyfSN"
-    },
-    {
-      "added_at": "2024-11-08 23:02:37",
-      "album": {
-        "name": "SET IT ON FIRE",
-        "url": "https://open.spotify.com/album/0KlB5ibm3W9pJwI83HBydh"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        }
-      ],
-      "duration_ms": 229867,
-      "name": "SET IT ON FIRE",
-      "url": "https://open.spotify.com/track/6Pc5eHdzmnruL7zPsRp5UE"
-    },
-    {
-      "added_at": "2024-11-08 17:02:44",
-      "album": {
-        "name": "unexpectedly",
-        "url": "https://open.spotify.com/album/4HH8GOfTaukMZ8r0FuCnWZ"
-      },
-      "artists": [
-        {
-          "name": "Takayoshi",
-          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
-        }
-      ],
-      "duration_ms": 148148,
-      "name": "unexpectedly",
-      "url": "https://open.spotify.com/track/1Ll7BWpVg6OO03I22kNJRk"
-    },
-    {
-      "added_at": "2024-11-09 17:02:36",
-      "album": {
-        "name": "New God",
-        "url": "https://open.spotify.com/album/7bljfHKclCaLBPfwxK9BTC"
-      },
-      "artists": [
-        {
-          "name": "Moon Walker",
-          "url": "https://open.spotify.com/artist/4Qvflafuw7a0F2E3NonxsA"
-        }
-      ],
-      "duration_ms": 202190,
-      "name": "New God",
-      "url": "https://open.spotify.com/track/5TxHd6feUaIpJxLAjpYJZp"
     }
   ],
   "unique_name": "New Singles Now",

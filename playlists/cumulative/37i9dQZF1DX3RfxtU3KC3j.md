@@ -4,7 +4,7 @@
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Kıvılcım Ural
 
-160 songs - 9 hr 34 min
+162 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Gördüğüm En Güzel Şey](https://open.spotify.com/track/3Iy0JBd4yitkQMpC1ILwPS) | [Zaaf](https://open.spotify.com/artist/50duVkVqOy98xlSpzJ865B) | [Gördüğüm En Güzel Şey](https://open.spotify.com/album/27LmXxJXjaI8Lb4fnCxy6a) | 2:52 | 2024-08-01 |  |
 | [Görmedin Hiç Yaşımı](https://open.spotify.com/track/2sJR6LCCQsQ20oY2msCMCS) | [Eskitilmiş Yaz](https://open.spotify.com/artist/5jqUKWt4bZ92tx05YkDyou) | [Görmedin Hiç Yaşımı](https://open.spotify.com/album/4r0hL4nkFNi40Go0oXwaYO) | 3:15 | 2024-06-28 |  |
 | [Gücüm Yok](https://open.spotify.com/track/0yXU2mHp4li95DiqWX2K9X) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Gücüm Yok](https://open.spotify.com/album/1ywWSw85x5lEAPb8mi49HM) | 2:48 | 2024-10-03 | 2024-10-11 |
+| [Gül](https://open.spotify.com/track/11xW1ZYivwpgL7JoQ7llQR) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [Mücevher](https://open.spotify.com/album/6AJBZ7HPAB4yEaG3bOTusg) | 3:07 | 2024-11-11 |  |
 | [Güldünya](https://open.spotify.com/track/7gj185HNF0DhR8dqk4s6SP) | [Aylin Aslım](https://open.spotify.com/artist/17Ax2Mq0nn4I5PtBp4ieFW) | [Gülyabani](https://open.spotify.com/album/3LNtrVVIsjYwU2IkbWZSi0) | 4:45 | 2024-10-22 | 2024-11-08 |
 | [Gülüşünde Bi' Şeyler Saklı](https://open.spotify.com/track/7uXEUM3n77NF237Tftuimm) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme), [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Gülüşünde Bi' Şeyler Saklı](https://open.spotify.com/album/04a9Z16kXcdSeFJKaCsEho) | 2:38 | 2024-06-28 |  |
 | [Güneşimden Kaç](https://open.spotify.com/track/19OVmrDn8B8a34iBzNAbiS) | [Bulutsuzluk Özlemi](https://open.spotify.com/artist/1x59izw7Q1MpfZyzJpTfb4) | [Bulutsuzluk Senfoni](https://open.spotify.com/album/5nQVglgEQipFIsG6C2MTy5) | 6:22 | 2024-10-22 | 2024-11-08 |
@@ -67,7 +68,7 @@
 | [Hekate](https://open.spotify.com/track/4HJlqPl8exLFsU1iGJrrvz) | [Frxzbie](https://open.spotify.com/artist/6ZLa3FArZyL8LL5DG3RXtm) | [Hekate](https://open.spotify.com/album/1sstc4z3j5Kv4vAxgiWQMm) | 2:22 | 2024-10-17 | 2024-10-23 |
 | [Hep De Yorgun](https://open.spotify.com/track/0ywlnV6QEZneCbbqLev6qL) | [Yaşlı Amca](https://open.spotify.com/artist/4Vr0nv4nM4aqWfj76zDTTp) | [Keşke Herkes](https://open.spotify.com/album/38U7toi0UImOfSe76qxQtE) | 3:05 | 2024-06-28 |  |
 | [Hepsi Senin Yüzünden](https://open.spotify.com/track/2PHYMPiieiD8BAwwHiePZg) | [Skapova](https://open.spotify.com/artist/5Ip3Eje7dzsa2I38I1izYO) | [Hepsi Senin Yüzünden](https://open.spotify.com/album/3govR0zpi3USm1IBvlhShd) | 3:40 | 2024-08-29 |  |
-| [Her Şey Sen Kokuyor](https://open.spotify.com/track/61unso6Bp7Hny7oHiYZA3S) | [Pinhani](https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P) | [Her Şey Sen Kokuyor](https://open.spotify.com/album/1cmfRNK0K1cnTeLEfNClBC) | 4:19 | 2024-06-28 |  |
+| [Her Şey Sen Kokuyor](https://open.spotify.com/track/61unso6Bp7Hny7oHiYZA3S) | [Pinhani](https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P) | [Her Şey Sen Kokuyor](https://open.spotify.com/album/1cmfRNK0K1cnTeLEfNClBC) | 4:19 | 2024-06-28 | 2024-11-12 |
 | [Her Şey Senin Yüzünden Oldu](https://open.spotify.com/track/76GJmPtPz8iygah2ZQA1c4) | [Kolpa](https://open.spotify.com/artist/1QZYklqR55tZ6b5mK4LD41) | [Her Şey Senin Yüzünden Oldu](https://open.spotify.com/album/2tV8jDd5o2rFd62FjpfwWr) | 3:03 | 2024-08-29 |  |
 | [Herkes Mi Terk Etmiş](https://open.spotify.com/track/2aqtnjihlDF0V0k1xk3WdM) | [emre aydın](https://open.spotify.com/artist/66vIaZFb8okZH0npc4eQ5q) | [Herkes Mi Terk Etmiş](https://open.spotify.com/album/1eF5O0hq0Q1j1ELgLm6vct) | 3:31 | 2024-10-17 |  |
 | [İhtarname](https://open.spotify.com/track/3ZL5pQZrqyOyKxC1ZaRiga) | [Cem Karaca](https://open.spotify.com/artist/1lIbZfJvMQRqzhtCQsg5EI) | [Nem Kaldı?](https://open.spotify.com/album/0YWcNUgijbCza1sd9x7BID) | 3:56 | 2024-10-22 | 2024-11-08 |
@@ -76,7 +77,7 @@
 | [İnziva](https://open.spotify.com/track/6xdWnfLHKxhJQYaZn21I21) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [İnziva](https://open.spotify.com/album/19yKkXLvEJ64VaPkCJ92Of) | 4:20 | 2024-09-12 | 2024-10-04 |
 | [İstanbul](https://open.spotify.com/track/1BvDzl4hiSy95vXpoNiI3o) | [Keskin Band](https://open.spotify.com/artist/6KPsAUprTWqiFxb2YEQ0S7) | [İstanbul](https://open.spotify.com/album/0K9he069jJYRZ53ZCqXKju) | 2:27 | 2024-10-10 | 2024-10-23 |
 | [İstemeyerek](https://open.spotify.com/track/1kFjcKvK9dMRdk4PpAAUmR) | [Serdar Ateşer](https://open.spotify.com/artist/3n6Xy24xiyMnwRpFZYqAPD) | [Avdet Seyri](https://open.spotify.com/album/16LIGZdu9lyO6FeV3gM9HJ) | 4:38 | 2024-10-22 | 2024-11-08 |
-| [İsterdim](https://open.spotify.com/track/4PAevN9C1nzkWcmXLNWb37) | [Flört](https://open.spotify.com/artist/0ou1EkRCAJcfRv2P1qKVPo) | [İsterdim](https://open.spotify.com/album/3aS3RbXZLL1z31PbHWdAx4) | 4:07 | 2024-09-26 |  |
+| [İsterdim](https://open.spotify.com/track/4PAevN9C1nzkWcmXLNWb37) | [Flört](https://open.spotify.com/artist/0ou1EkRCAJcfRv2P1qKVPo) | [İsterdim](https://open.spotify.com/album/3aS3RbXZLL1z31PbHWdAx4) | 4:07 | 2024-09-26 | 2024-11-12 |
 | [İyi Böyle](https://open.spotify.com/track/6bOepoWGi8psgbPDmMq0tF) | [Pinhani](https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P) | [Hayali](https://open.spotify.com/album/0mtiJQ5cGF0uZBVw4euHzU) | 4:57 | 2024-06-28 |  |
 | [İçimde Aşk Var](https://open.spotify.com/track/5tM6oJsuJodYtaSOj33Pqy) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [İçimde Aşk Var](https://open.spotify.com/album/0LdGyfUXeGIe39klUkXU22) | 4:26 | 2024-08-29 |  |
 | [İçimde Bir Olmaz Var](https://open.spotify.com/track/1Lnw2VA6nXBZLeaUhJLhnJ) | [Kirli](https://open.spotify.com/artist/1xphUgdrqKwGdIpcLVH7ho) | [İçimde Bir Olmaz Var](https://open.spotify.com/album/2jXHuN6jpXkvRY8NZrqFCU) | 3:12 | 2024-07-04 | 2024-08-30 |
@@ -164,6 +165,7 @@
 | [Öl İçimde \- Rock Version](https://open.spotify.com/track/2fjm3nI93CHchxnUBEecB5) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Öl İçimde \(Rock Version\)](https://open.spotify.com/album/0O73jnNQtUF0qqxP7I7ywd) | 3:17 | 2024-08-15 | 2024-09-06 |
 | [Ölene Dek](https://open.spotify.com/track/4ZH7g8nCA3m2EHNZ4ATLtv) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl), [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Ölene Dek](https://open.spotify.com/album/0b9tU1DOxAmZa1CA4rFm71) | 3:01 | 2024-06-28 | 2024-09-27 |
 | [Ölüm Bizi Bekler](https://open.spotify.com/track/1udHcoBlj3fXp4lKcfkFs8) | [Palmiyeler](https://open.spotify.com/artist/441Mk7JKv8WtAsaR9REPGX) | [Ölüm Bizi Bekler](https://open.spotify.com/album/5qZ8rHGr6EihVN4KV8flfu) | 4:45 | 2024-07-04 | 2024-08-02 |
+| [Ölüyorum Ellerinde](https://open.spotify.com/track/2zN40CUuOiq4dEpCYwnPqQ) | [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT), [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [Mücevher](https://open.spotify.com/album/6AJBZ7HPAB4yEaG3bOTusg) | 3:16 | 2024-11-11 |  |
 | [Ömrümün En Güzel Yarısı](https://open.spotify.com/track/4gmBhqrWnmozE2w1znhSPH) | [Zaaf](https://open.spotify.com/artist/50duVkVqOy98xlSpzJ865B) | [Ömrümün En Güzel Yarısı](https://open.spotify.com/album/42ZwMnkaRdYsnMX3GpP1xG) | 2:56 | 2024-06-28 | 2024-10-23 |
 | [Üstü Kalsın](https://open.spotify.com/track/35I2nufa8BdP96DbzpF8xj) | [Kendimden Hallice](https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft) | [Üstü Kalsın](https://open.spotify.com/album/4wsTLq6zzSDKMv8VadxmME) | 2:25 | 2024-06-28 |  |
 | [Şarkılar Söyle](https://open.spotify.com/track/3JAaYungPHfLfG8KIEmc2Y) | [Ogün Sanlısoy](https://open.spotify.com/artist/6pLClLDuEeB6KdfvPblHSq) | [Şarkılar Söyle](https://open.spotify.com/album/27cJCjJz5O0jzn3GK0n6g6) | 4:03 | 2024-06-28 | 2024-07-19 |

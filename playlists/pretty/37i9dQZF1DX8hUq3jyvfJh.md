@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Tássia Reis e mais mulheres no volume máximo! Co\-curadoria com  <a href="spotify:artist:0kc1BjcLHaXhZVzCp0HeAl">Tássia Reis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,038 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,046 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 14 | [Propósito](https://open.spotify.com/track/2mXDGKKzNW0PwBBnYnHhnO) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi) | [Segunda\-feira](https://open.spotify.com/album/5hCIkJZTU1evnvnA1QWxQM) | 2:40 |
 | 15 | [Brecha](https://open.spotify.com/track/0lWj52Gewf7kwCqZS5kEl2) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 3:01 |
 | 16 | [Fé nas Maluca](https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Fé nas Maluca](https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA) | 2:23 |
-| 17 | [Ferve](https://open.spotify.com/track/0O2sovjHJwWJb9IgeDIa3R) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [Para Todos os Garotos que já Mamei](https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK) | 3:17 |
+| 17 | [Eu Gosto Assim](https://open.spotify.com/track/6PwDytZpnQNEy87nvCjZYQ) | [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv) | [Anelis Assumpção e os Amigos Imaginários](https://open.spotify.com/album/72W78DmbgOKTPm23aVMO01) | 3:55 |
 | 18 | [Pelo Avesso](https://open.spotify.com/track/3NXSLd0Qio35C3xVLI30B5) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Megalomania](https://open.spotify.com/album/6HLqdB01LNcoa5TrtgEsR6) | 2:39 |
-| 19 | [Eu Gosto Assim](https://open.spotify.com/track/6PwDytZpnQNEy87nvCjZYQ) | [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv) | [Anelis Assumpção e os Amigos Imaginários](https://open.spotify.com/album/72W78DmbgOKTPm23aVMO01) | 3:55 |
+| 19 | [Ferve](https://open.spotify.com/track/0O2sovjHJwWJb9IgeDIa3R) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [Para Todos os Garotos que já Mamei](https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK) | 3:17 |
 | 20 | [Peito Aberto](https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Peito Aberto](https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u) | 2:36 |
 | 21 | [PROFESSORA](https://open.spotify.com/track/60eDrFcc9Rmj91W3NTdByE) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [BRUNE](https://open.spotify.com/artist/6LFvBfpdorzVD0EH2ljTZY), [Hadockhouse](https://open.spotify.com/artist/6lTQ3q3T4dJaaGbGINUmgh) | [PROFESSORA](https://open.spotify.com/album/0jQRQtskkBvQKBosVV1LD2) | 2:38 |
 | 22 | [Rara](https://open.spotify.com/track/6d56K6gOxuJ2hxLqNAOYsZ) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [b o u t](https://open.spotify.com/artist/3djiMLvUhyywlWQgpYDR41) | [Rara](https://open.spotify.com/album/64zU5fHHUQ0BF3BI0q91r4) | 3:35 |

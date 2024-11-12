@@ -4,7 +4,7 @@
 
 > The numb flavor of depression
 
-22 songs - 1 hr 18 min
+23 songs - 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [I Left My Body](https://open.spotify.com/track/6j6D0RMPy68MP0xJ5ESHbs) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [I Like Fun](https://open.spotify.com/album/0NphwDR3zIVfULKcBDQ9Ap) | 2:36 | 2023-03-26 |  |
 | [I Won't](https://open.spotify.com/track/1y8ooe9Zr1PMIxrOwNeeOi) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [I Won't](https://open.spotify.com/album/7vXjnE5noLdqc9EIsOhLpQ) | 2:48 | 2023-04-21 |  |
 | [In the Craters on the Moon \- The Jordan Lake Sessions Volume 3](https://open.spotify.com/track/1dvU7wUiWHA0ZfQx05FCKG) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Jordan Lake Sessions: Volumes 3 and 4](https://open.spotify.com/album/2oQ3dQki5q8qGmJdM9lAxu) | 3:56 | 2023-03-03 |  |
+| [In the Shadow of the Western Hills](https://open.spotify.com/track/3VSLsAh8ldiCl9ANK7yt4i) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Steal Smoked Fish / In the Shadow of the Western Hills](https://open.spotify.com/album/6MufqmhgbIO7CezOM60xyc) | 2:34 | 2024-11-11 |  |
 | [Isle Of Flightless Birds](https://open.spotify.com/track/6cwemXIKrAQeP7TMErGwM3) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Twenty One Pilots](https://open.spotify.com/album/1Fexc96V24RL17Ko9VXUOM) | 5:45 | 2023-10-30 |  |
 | [Paint It, Black](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:22 | 2024-09-16 |  |
 | [People Are Strange](https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 2:10 | 2024-09-17 |  |

@@ -1769,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0zqQKRQIVWsPqCF4C3s5aZ"
+      },
+      "artists": [
+        {
+          "name": "LORDEHILL",
+          "url": "https://open.spotify.com/artist/5yISVi5vctUp9kcCSsvccs"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192096,
+      "name": "Hotline Miami",
+      "url": "https://open.spotify.com/track/7rVsTCiWipGrihR04yNb07"
+    },
+    {
+      "album": {
         "name": "Hypersquare",
         "url": "https://open.spotify.com/album/6IJNG7N2Dbzcdbm9QwZ9va"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61rq4jJEn9oH7o63cCmT2t.md) - [plain]
 
 > I am horrifically aware of my spine
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 57 songs - 3 hr 11 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 59 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,5 +65,7 @@ pretty - [cumulative](/playlists/cumulative/61rq4jJEn9oH7o63cCmT2t.md) - [plain]
 | 55 | [Cubicles](https://open.spotify.com/track/0Unc6GaK4h3RXmUbUAvtdc) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 3:51 |
 | 56 | [Magpie](https://open.spotify.com/track/0Nx1m4J8mlBW34aUW7wcy2) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 2:00 |
 | 57 | [Jam Eater Blues](https://open.spotify.com/track/7Ai1XcLGYp3XHvdnG9QLhO) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Jam Eater Blues](https://open.spotify.com/album/50BmgetAf64rSs8oFunijs) | 3:10 |
+| 58 | [Blood Capsules](https://open.spotify.com/track/6aLdcR63LTxgV5YmvTy9hm) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Blood Capsules / Dub Capsules](https://open.spotify.com/album/6PR1KD9klF3TlV1vDF2qes) | 3:25 |
+| 59 | [Shirtless in Hamburg](https://open.spotify.com/track/6zXWUxP7REZZtbOmgSsgKw) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Marsh Witch Visions](https://open.spotify.com/album/43w7tHk13VR6WVwXibMFje) | 3:25 |
 
-Snapshot ID: `AAAAQE/VjQJw6XS81BR7ph48Or0D4Ryj`
+Snapshot ID: `AAAAQg9vs3esjOYyb27Md/1z9vAcUBDn`

@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 422924,
+  "num_followers": 422980,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-09-20 03:01:00",
       "album": {
+        "name": "Alfa e \u00d4mega",
+        "url": "https://open.spotify.com/album/2zFxoq9gamojSN5gIoh1Fo"
+      },
+      "artists": [
+        {
+          "name": "Marine Friesen",
+          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
+        }
+      ],
+      "duration_ms": 364878,
+      "name": "Alfa e \u00d4mega",
+      "url": "https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6"
+    },
+    {
+      "added_at": "2024-09-20 03:01:00",
+      "album": {
         "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 374986,
       "name": "Nada Al\u00e9m de Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/5EDXCypGSkaJLRGNvhsL4h"
-    },
-    {
-      "added_at": "2024-09-20 03:01:00",
-      "album": {
-        "name": "Alfa e \u00d4mega",
-        "url": "https://open.spotify.com/album/2zFxoq9gamojSN5gIoh1Fo"
-      },
-      "artists": [
-        {
-          "name": "Marine Friesen",
-          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
-        }
-      ],
-      "duration_ms": 364878,
-      "name": "Alfa e \u00d4mega",
-      "url": "https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6"
     },
     {
       "added_at": "2024-09-20 03:01:00",

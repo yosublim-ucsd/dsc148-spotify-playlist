@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Dudu",
-  "num_followers": 145058,
+  "num_followers": 145106,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,30 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
+        "name": "TRAP BRASILEIRO",
+        "url": "https://open.spotify.com/album/0fNbQSIWEf9B57wx8YSPw3"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "cassin",
+          "url": "https://open.spotify.com/artist/6xDCwcvY3oPM9xtKbYJzhk"
+        }
+      ],
+      "duration_ms": 306316,
+      "name": "PARIS FASHION WEEK",
+      "url": "https://open.spotify.com/track/2UvUig2X7KLsBNSgmWcpPH"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
         "name": "RELATOS",
         "url": "https://open.spotify.com/album/3YIwqsUgXa6IuMVB0Zc4Hr"
       },
@@ -783,30 +807,6 @@
       "duration_ms": 241623,
       "name": "Ferrari Vermelha",
       "url": "https://open.spotify.com/track/7ChzqblIDsCNRBmztg0j2v"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "TRAP BRASILEIRO",
-        "url": "https://open.spotify.com/album/0fNbQSIWEf9B57wx8YSPw3"
-      },
-      "artists": [
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "cassin",
-          "url": "https://open.spotify.com/artist/6xDCwcvY3oPM9xtKbYJzhk"
-        }
-      ],
-      "duration_ms": 306316,
-      "name": "PARIS FASHION WEEK",
-      "url": "https://open.spotify.com/track/2UvUig2X7KLsBNSgmWcpPH"
     },
     {
       "added_at": "2024-11-08 03:01:00",

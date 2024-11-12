@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Hubert.",
-  "num_followers": 18124,
+  "num_followers": 18128,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,18 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
-        "name": "Z\u0142ote \u0142ezki",
-        "url": "https://open.spotify.com/album/2nSAPkDSY1DuM55mUC089j"
+        "name": "Location",
+        "url": "https://open.spotify.com/album/2gcn8DaDw53YnwCdUYzDfF"
       },
       "artists": [
         {
-          "name": "Meek, Oh Why?",
-          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
-        },
-        {
-          "name": "BIESY",
-          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
+          "name": "Mi\u0119tha",
+          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
         }
       ],
-      "duration_ms": 181973,
-      "name": "Z\u0142ote \u0142ezki",
-      "url": "https://open.spotify.com/track/6yEfNY4hAzCtckKBdLFH6f"
+      "duration_ms": 159000,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/5apbcktB19IjcSOeVGipVe"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -491,18 +487,22 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
-        "name": "Location",
-        "url": "https://open.spotify.com/album/2gcn8DaDw53YnwCdUYzDfF"
+        "name": "Z\u0142ote \u0142ezki",
+        "url": "https://open.spotify.com/album/2nSAPkDSY1DuM55mUC089j"
       },
       "artists": [
         {
-          "name": "Mi\u0119tha",
-          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
+          "name": "Meek, Oh Why?",
+          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
+        },
+        {
+          "name": "BIESY",
+          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Location",
-      "url": "https://open.spotify.com/track/5apbcktB19IjcSOeVGipVe"
+      "duration_ms": 181973,
+      "name": "Z\u0142ote \u0142ezki",
+      "url": "https://open.spotify.com/track/6yEfNY4hAzCtckKBdLFH6f"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -595,8 +595,8 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
-        "name": "Sandman",
-        "url": "https://open.spotify.com/album/3GzN0Q80lTZMJsPkLKFSy0"
+        "name": "Zawsze",
+        "url": "https://open.spotify.com/album/6g0UbXE7lpeY399E178U88"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
         }
       ],
-      "duration_ms": 151764,
-      "name": "Sandman",
-      "url": "https://open.spotify.com/track/1vYNAjjzMFZiSS8deHB25Q"
+      "duration_ms": 173379,
+      "name": "Zawsze",
+      "url": "https://open.spotify.com/track/6cevsYFP4dyYQnA7K1alpE"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
-        "name": "MUSZ\u0118 ZAWIJA\u0106",
-        "url": "https://open.spotify.com/album/5nMwW2k3AICpnFrewo07Z2"
-      },
-      "artists": [
-        {
-          "name": "North Side District",
-          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
-        }
-      ],
-      "duration_ms": 136630,
-      "name": "MUSZ\u0118 ZAWIJA\u0106",
-      "url": "https://open.spotify.com/track/7llkzwJj4QtbGBBqU9dDWA"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
         "name": "Borgin & Burkes",
         "url": "https://open.spotify.com/album/46WUia8lI5HhMSAQjTQNKx"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
+        "name": "MUSZ\u0118 ZAWIJA\u0106",
+        "url": "https://open.spotify.com/album/5nMwW2k3AICpnFrewo07Z2"
+      },
+      "artists": [
+        {
+          "name": "North Side District",
+          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
+        }
+      ],
+      "duration_ms": 136630,
+      "name": "MUSZ\u0118 ZAWIJA\u0106",
+      "url": "https://open.spotify.com/track/7llkzwJj4QtbGBBqU9dDWA"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
         "name": "Sunset",
         "url": "https://open.spotify.com/album/0sozO4gKD2xTGZhuHGCF6C"
       },
@@ -731,42 +731,6 @@
       "duration_ms": 253604,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/0OHydAhpZ3tcnvvNyG9M6C"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
-        "name": "Sogo",
-        "url": "https://open.spotify.com/album/0CCXO7HLWx00ZGGMtAoTDB"
-      },
-      "artists": [
-        {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        }
-      ],
-      "duration_ms": 150638,
-      "name": "Sogo",
-      "url": "https://open.spotify.com/track/2M8jdzfmhgvpuqryLsyTsR"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
-        "name": "Zawsze",
-        "url": "https://open.spotify.com/album/6g0UbXE7lpeY399E178U88"
-      },
-      "artists": [
-        {
-          "name": "Hodak",
-          "url": "https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU"
-        },
-        {
-          "name": "2K",
-          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
-        }
-      ],
-      "duration_ms": 173379,
-      "name": "Zawsze",
-      "url": "https://open.spotify.com/track/6cevsYFP4dyYQnA7K1alpE"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -803,6 +767,42 @@
       "duration_ms": 209918,
       "name": "Bezcenne S\u0142owa (DJ BRK x Moo Latte Version)",
       "url": "https://open.spotify.com/track/5yRsHDOM4XWRyCrNBHxWl5"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
+        "name": "Sandman",
+        "url": "https://open.spotify.com/album/3GzN0Q80lTZMJsPkLKFSy0"
+      },
+      "artists": [
+        {
+          "name": "Hodak",
+          "url": "https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
+        }
+      ],
+      "duration_ms": 151764,
+      "name": "Sandman",
+      "url": "https://open.spotify.com/track/1vYNAjjzMFZiSS8deHB25Q"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
+        "name": "Sogo",
+        "url": "https://open.spotify.com/album/0CCXO7HLWx00ZGGMtAoTDB"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "duration_ms": 150638,
+      "name": "Sogo",
+      "url": "https://open.spotify.com/track/2M8jdzfmhgvpuqryLsyTsR"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
-        "name": "usa",
-        "url": "https://open.spotify.com/album/5936AQNkhWX56AIuejoKQp"
-      },
-      "artists": [
-        {
-          "name": "god.wifi",
-          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
-        },
-        {
-          "name": "nath",
-          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
-        }
-      ],
-      "duration_ms": 129032,
-      "name": "usa",
-      "url": "https://open.spotify.com/track/5funIcHMQlkEU1U0IygYjN"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
         "name": "Dzie\u0144",
         "url": "https://open.spotify.com/album/2Di5GTWwlBbSCqUlrAAFKd"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 209801,
       "name": "Dzie\u0144",
       "url": "https://open.spotify.com/track/7CsGNWI7nmh5uWiRuIXTdu"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
+        "name": "usa",
+        "url": "https://open.spotify.com/album/5936AQNkhWX56AIuejoKQp"
+      },
+      "artists": [
+        {
+          "name": "god.wifi",
+          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
+        },
+        {
+          "name": "nath",
+          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
+        }
+      ],
+      "duration_ms": 129032,
+      "name": "usa",
+      "url": "https://open.spotify.com/track/5funIcHMQlkEU1U0IygYjN"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
-        "name": "Alladyn",
-        "url": "https://open.spotify.com/album/4o2lg5XMiNIB9MPuPxgdUZ"
-      },
-      "artists": [
-        {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        }
-      ],
-      "duration_ms": 164694,
-      "name": "Alladyn",
-      "url": "https://open.spotify.com/track/0hhZUb3t5nFMwDuOdN2yQs"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
         "name": "WHOOP WHOOP",
         "url": "https://open.spotify.com/album/19pclJrXhH67ncIWTtATPk"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 117015,
       "name": "WHOOP WHOOP",
       "url": "https://open.spotify.com/track/1A4uMh4qfInD40KfFYimE7"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
+        "name": "Alladyn",
+        "url": "https://open.spotify.com/album/4o2lg5XMiNIB9MPuPxgdUZ"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "duration_ms": 164694,
+      "name": "Alladyn",
+      "url": "https://open.spotify.com/track/0hhZUb3t5nFMwDuOdN2yQs"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -1339,26 +1339,6 @@
       "duration_ms": 185387,
       "name": "RMLJHF",
       "url": "https://open.spotify.com/track/3h1VqdlbgVsW7Sbcz4ll6o"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
-        "name": "osiedle_sanpillon_mixtape_vol_I",
-        "url": "https://open.spotify.com/album/1dBxrpFXL1aoF0jQXnP5PM"
-      },
-      "artists": [
-        {
-          "name": "Dawid Borysiewicz",
-          "url": "https://open.spotify.com/artist/1EgNpnW5JwC8roiAfUETVx"
-        },
-        {
-          "name": "Jazz Gang Beatz",
-          "url": "https://open.spotify.com/artist/1bK9uLuk23SZCZqZ3oJjti"
-        }
-      ],
-      "duration_ms": 345384,
-      "name": "skurwysyn_roku.mp3",
-      "url": "https://open.spotify.com/track/2PPeWfSxzcW7ZQc0V6neoE"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -1447,6 +1427,26 @@
       "duration_ms": 276136,
       "name": "ALL IN",
       "url": "https://open.spotify.com/track/0jfGFAlrxBYAaebeotjeCC"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
+        "name": "osiedle_sanpillon_mixtape_vol_I",
+        "url": "https://open.spotify.com/album/1dBxrpFXL1aoF0jQXnP5PM"
+      },
+      "artists": [
+        {
+          "name": "Dawid Borysiewicz",
+          "url": "https://open.spotify.com/artist/1EgNpnW5JwC8roiAfUETVx"
+        },
+        {
+          "name": "Jazz Gang Beatz",
+          "url": "https://open.spotify.com/artist/1bK9uLuk23SZCZqZ3oJjti"
+        }
+      ],
+      "duration_ms": 345384,
+      "name": "skurwysyn_roku.mp3",
+      "url": "https://open.spotify.com/track/2PPeWfSxzcW7ZQc0V6neoE"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
-        "name": "RODOPSYNA",
-        "url": "https://open.spotify.com/album/5wbllxiFAVKdmQPhEC009q"
-      },
-      "artists": [
-        {
-          "name": "nath",
-          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
-        },
-        {
-          "name": "Cold Patek",
-          "url": "https://open.spotify.com/artist/6BLMt6YfWqjIngqKkAsilH"
-        }
-      ],
-      "duration_ms": 148553,
-      "name": "puzzel",
-      "url": "https://open.spotify.com/track/1gbluZrfKq4UEwNDc6EJqO"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
         "name": "Jak Wiatr",
         "url": "https://open.spotify.com/album/5cN3vJHGTPewbKmv528jR6"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 181160,
       "name": "Jak Wiatr",
       "url": "https://open.spotify.com/track/2OrxshZKgNCFlQkCP6sYth"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
+        "name": "RODOPSYNA",
+        "url": "https://open.spotify.com/album/5wbllxiFAVKdmQPhEC009q"
+      },
+      "artists": [
+        {
+          "name": "nath",
+          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
+        },
+        {
+          "name": "Cold Patek",
+          "url": "https://open.spotify.com/artist/6BLMt6YfWqjIngqKkAsilH"
+        }
+      ],
+      "duration_ms": 148553,
+      "name": "puzzel",
+      "url": "https://open.spotify.com/track/1gbluZrfKq4UEwNDc6EJqO"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -1803,34 +1803,6 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
-        "name": "Deadpool",
-        "url": "https://open.spotify.com/album/5pj1BjV9EqCCG0xVFVWI7p"
-      },
-      "artists": [
-        {
-          "name": "Ko\u015bciey",
-          "url": "https://open.spotify.com/artist/1RH77lN0aqyLvmiiiUvkpG"
-        },
-        {
-          "name": "Boryn",
-          "url": "https://open.spotify.com/artist/5AdmifGjkkz3Bg2bK05NQq"
-        },
-        {
-          "name": "Mada",
-          "url": "https://open.spotify.com/artist/7asAvALnQz42AEYavWUZUV"
-        },
-        {
-          "name": "Dj Qmak",
-          "url": "https://open.spotify.com/artist/2LUyULm4hu6KViQeXRUAkJ"
-        }
-      ],
-      "duration_ms": 188108,
-      "name": "Deadpool",
-      "url": "https://open.spotify.com/track/5Lj9prDmsVxOVMLoksEgNl"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
         "name": "Pe\u0142zaj\u0105ca \u015bmier\u0107 (AE73)",
         "url": "https://open.spotify.com/album/4nyDY5mmsJ0HgocblyvrLX"
       },
@@ -1855,6 +1827,34 @@
       "duration_ms": 137375,
       "name": "Pe\u0142zaj\u0105ca \u015bmier\u0107 (AE73)",
       "url": "https://open.spotify.com/track/1s8D9rp9Vxohu2Dyb8yKV2"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
+        "name": "Deadpool",
+        "url": "https://open.spotify.com/album/5pj1BjV9EqCCG0xVFVWI7p"
+      },
+      "artists": [
+        {
+          "name": "Ko\u015bciey",
+          "url": "https://open.spotify.com/artist/1RH77lN0aqyLvmiiiUvkpG"
+        },
+        {
+          "name": "Boryn",
+          "url": "https://open.spotify.com/artist/5AdmifGjkkz3Bg2bK05NQq"
+        },
+        {
+          "name": "Mada",
+          "url": "https://open.spotify.com/artist/7asAvALnQz42AEYavWUZUV"
+        },
+        {
+          "name": "Dj Qmak",
+          "url": "https://open.spotify.com/artist/2LUyULm4hu6KViQeXRUAkJ"
+        }
+      ],
+      "duration_ms": 188108,
+      "name": "Deadpool",
+      "url": "https://open.spotify.com/track/5Lj9prDmsVxOVMLoksEgNl"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -1907,6 +1907,26 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
+        "name": "Jakby\u015b chcia\u0142 pogada\u0107",
+        "url": "https://open.spotify.com/album/4WUVCP7TZVxpp3DkWgMceQ"
+      },
+      "artists": [
+        {
+          "name": "Mvrceli",
+          "url": "https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV"
+        },
+        {
+          "name": "Zajac",
+          "url": "https://open.spotify.com/artist/3hh49NK2eOABrmYdCfmMoS"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Jakby\u015b chcia\u0142 pogada\u0107",
+      "url": "https://open.spotify.com/track/4ktmLRlu6kfD2dHSe5t5sX"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
         "name": "To Wydarzy\u0142o Si\u0119 Naprawd\u0119 Opr\u00f3cz Tego, Co Zmy\u015bli\u0142em (DELUXE)",
         "url": "https://open.spotify.com/album/64rUySEtui2rnmII9cKG7A"
       },
@@ -1935,26 +1955,6 @@
       "duration_ms": 227121,
       "name": "Bejrut - Remix",
       "url": "https://open.spotify.com/track/6wk3T7kv30BjpMHLGShSSr"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
-        "name": "Jakby\u015b chcia\u0142 pogada\u0107",
-        "url": "https://open.spotify.com/album/4WUVCP7TZVxpp3DkWgMceQ"
-      },
-      "artists": [
-        {
-          "name": "Mvrceli",
-          "url": "https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV"
-        },
-        {
-          "name": "Zajac",
-          "url": "https://open.spotify.com/artist/3hh49NK2eOABrmYdCfmMoS"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Jakby\u015b chcia\u0142 pogada\u0107",
-      "url": "https://open.spotify.com/track/4ktmLRlu6kfD2dHSe5t5sX"
     },
     {
       "added_at": "2024-10-25 15:02:36",
@@ -2115,30 +2115,6 @@
     {
       "added_at": "2024-10-25 15:02:36",
       "album": {
-        "name": "Kolejno\u015b\u0107 wykonywania dzia\u0142a\u0144",
-        "url": "https://open.spotify.com/album/61Wdrtn1VeFmayVxE0TfrP"
-      },
-      "artists": [
-        {
-          "name": "Przyborowski",
-          "url": "https://open.spotify.com/artist/3cPZRLo3AIsDPpMPVBsfxi"
-        },
-        {
-          "name": "Guest Julka",
-          "url": "https://open.spotify.com/artist/7nmNPZucUmo9x6Mh5llOoZ"
-        },
-        {
-          "name": "TKTSB",
-          "url": "https://open.spotify.com/artist/4mSKEA07p8uMTwwuU1ER6N"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Namiary",
-      "url": "https://open.spotify.com/track/5fcWPUONboxB8YZsXbqlvC"
-    },
-    {
-      "added_at": "2024-10-25 15:02:36",
-      "album": {
         "name": "Napad",
         "url": "https://open.spotify.com/album/64LvULdyg978WFebqFmQzX"
       },
@@ -2159,6 +2135,30 @@
       "duration_ms": 135211,
       "name": "Napad",
       "url": "https://open.spotify.com/track/0Y1hSwTKDFHSgmll2o95HF"
+    },
+    {
+      "added_at": "2024-10-25 15:02:36",
+      "album": {
+        "name": "Kolejno\u015b\u0107 wykonywania dzia\u0142a\u0144",
+        "url": "https://open.spotify.com/album/61Wdrtn1VeFmayVxE0TfrP"
+      },
+      "artists": [
+        {
+          "name": "Przyborowski",
+          "url": "https://open.spotify.com/artist/3cPZRLo3AIsDPpMPVBsfxi"
+        },
+        {
+          "name": "Guest Julka",
+          "url": "https://open.spotify.com/artist/7nmNPZucUmo9x6Mh5llOoZ"
+        },
+        {
+          "name": "TKTSB",
+          "url": "https://open.spotify.com/artist/4mSKEA07p8uMTwwuU1ER6N"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Namiary",
+      "url": "https://open.spotify.com/track/5fcWPUONboxB8YZsXbqlvC"
     },
     {
       "added_at": "2024-10-25 15:02:36",

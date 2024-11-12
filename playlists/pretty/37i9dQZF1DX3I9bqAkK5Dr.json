@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra",
-  "num_followers": 33707,
+  "num_followers": 33709,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZysdlgAAAAAlOKi+AaGGG6Dirf5oCqCU",
+  "snapshot_id": "ZzHidAAAAACkMR3VichNJz1vkYISmiTD",
   "tracks": [
     {
       "added_at": "2024-10-03 06:15:54",
@@ -267,6 +267,26 @@
       "duration_ms": 157759,
       "name": "Hate Oddhu",
       "url": "https://open.spotify.com/track/4RUkcsgECnfHaAk0OEjwdE"
+    },
+    {
+      "added_at": "2024-11-11 10:54:44",
+      "album": {
+        "name": "Radhe Krishna Radhe",
+        "url": "https://open.spotify.com/album/0wb1P6iFh9Yf7LX90vmAM7"
+      },
+      "artists": [
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        },
+        {
+          "name": "Indravathi Chauhan",
+          "url": "https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM"
+        }
+      ],
+      "duration_ms": 308550,
+      "name": "Radhe Krishna Radhe",
+      "url": "https://open.spotify.com/track/3gPcdtrU3nubU5QKdR54k8"
     },
     {
       "added_at": "2024-10-16 05:22:34",

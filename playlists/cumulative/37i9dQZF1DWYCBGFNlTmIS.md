@@ -4,7 +4,7 @@
 
 > I人心聲。
 
-127 songs - 8 hr 8 min
+133 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Wish You Were Ok](https://open.spotify.com/track/2w69Skv6oxKvFJNmPzdYzb) | [Regenc.](https://open.spotify.com/artist/4KInUUpPn9iBZgkSKTo4vv) | [Wish You Were Ok](https://open.spotify.com/album/3IjSBZBsyps4wwdD4f2x9G) | 4:27 | 2022-04-13 | 2024-07-27 |
 | [一人之境 in C major](https://open.spotify.com/track/32QnXosZq7A11knnBAEqk7) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [MAJOR IN MINOR](https://open.spotify.com/album/43QviVcqV7nKDFn00PiXiZ) | 3:15 | 2022-01-13 |  |
 | [一人同遊](https://open.spotify.com/track/00kcKFi3i82nGNKPbRFWpO) | [張栢芝](https://open.spotify.com/artist/3NfVCSl9X7huDEpahHSrkx) | [全新經驗](https://open.spotify.com/album/1zv51xzx5XixsAbwylbV5s) | 3:44 | 2022-01-13 | 2024-07-27 |
+| [一個人在做晚餐](https://open.spotify.com/track/3ApnE5f6HMD2QTipa7YYiR) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h), [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0) | [一個人在做晚餐](https://open.spotify.com/album/6FYOKHjNG2I2H0IMfkmHUz) | 2:15 | 2024-11-11 |  |
 | [一生所愛 \- 電影"西遊記大結局之仙履奇緣"插曲](https://open.spotify.com/track/4krPnkTGeaDkEKkAb85YIE) | [Lowell Lo](https://open.spotify.com/artist/0PBs3xfhn0PA6irWFrknJ4) | [Beyond Imagination](https://open.spotify.com/album/5rdnC7yDMfbE0GZlXIJUMu) | 4:13 | 2022-01-13 | 2024-07-27 |
 | [不冷淡不熱情](https://open.spotify.com/track/5wR1LPy7JMTHRHVSK4Zr0U) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [不冷淡不熱情](https://open.spotify.com/album/5N2mQsGWHB5XxRvq4DJlit) | 3:12 | 2024-07-26 |  |
 | [人類不宜飛行](https://open.spotify.com/track/2R6LC73jLhgOekUBfTcE23) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [人類不宜飛行](https://open.spotify.com/album/4hO1qoffkZbefMbWnQzgNT) | 3:57 | 2022-01-13 | 2024-07-27 |
@@ -43,6 +44,7 @@
 | [你說之後會找我](https://open.spotify.com/track/3Mh5cDZsYRljE11BQM7u0J) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [你說之後會找我](https://open.spotify.com/album/3dJsTKVZ2XG4hKu7OJ43Rt) | 3:00 | 2024-07-26 |  |
 | [係咁先啦](https://open.spotify.com/track/6BZaPX5NnjIIasH6EO0P63) | [MC $oHo & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj), [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [係咁先啦](https://open.spotify.com/album/0dIldrE3LEHIaSzPHUb1bm) | 3:29 | 2022-01-13 | 2024-04-19 |
 | [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/track/4I2nZnEp1JZoHO4RB27VTR) | [MC $oHo & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/album/2D3q1OIBnzdntbEsYvF8Of) | 3:29 | 2022-01-13 | 2024-07-27 |
+| [傷心的時候別說話](https://open.spotify.com/track/0XU1HkOQwgAmuvkiJwAMcp) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [傷心的時候別說話](https://open.spotify.com/album/4vDyhiJ9rvoLdkJtH8t6Iy) | 3:21 | 2024-11-11 |  |
 | [內向之旅 \(feat.陳琳\)](https://open.spotify.com/track/6eHce9MJu1j2lIz2dxiPSn) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ), [陳琳](https://open.spotify.com/artist/4t8GIob1CZE24StK9RUD5E) | [內向之旅 \(feat.陳琳\)](https://open.spotify.com/album/27i1AU4MKRulFZQIdEIpxL) | 3:06 | 2024-07-26 |  |
 | [內向日葵](https://open.spotify.com/track/1LKWdGuwM5qwo04xAZseZM) | [kiwiseed](https://open.spotify.com/artist/1S13YkJMlcNKAB5QUbJPxZ) | [內向日葵](https://open.spotify.com/album/53L69Qp2YrrO5a7IXHoFdQ) | 3:07 | 2024-07-26 |  |
 | [兩種語言](https://open.spotify.com/track/1VKVc6v65Bj1ypg360BLQ3) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [兩種語言](https://open.spotify.com/album/1AnYIfU0GYmTUcHFDYSO9i) | 4:19 | 2022-04-13 | 2024-07-27 |
@@ -55,6 +57,7 @@
 | [后會無期 \(feat\. 梁詠琪\)](https://open.spotify.com/track/2uVTD1vpgz6VHrfUsy4QsU) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D), [Gigi Leung](https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau) | [此刻無價 C AllCollection](https://open.spotify.com/album/0rFF3xUvAMmKEXbpGvHaL7) | 4:43 | 2022-01-13 | 2024-07-27 |
 | [告別](https://open.spotify.com/track/4eAcqd4BpxvGOuJob6KMPa) | [Matt Force](https://open.spotify.com/artist/4ymVglyzE9C7StALg2Sx9N) | [Matt Force](https://open.spotify.com/album/5R1NeGp8uc0cY8d4vN8P06) | 3:27 | 2022-01-13 | 2024-07-27 |
 | [告別的藝術](https://open.spotify.com/track/4Klbd6usXpmlVoexs6jlI5) | [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [告別的藝術](https://open.spotify.com/album/3hgtFPiQF0qmWM4dLKl7yQ) | 4:56 | 2022-01-13 | 2024-07-27 |
+| [咖啡 鴛鴦 奶茶](https://open.spotify.com/track/7aqI5ATOG8piRo9KUcg1cS) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [咖啡 鴛鴦 奶茶](https://open.spotify.com/album/0vPYjgjYouCbseFYCOLg6S) | 3:47 | 2024-11-11 |  |
 | [哥本哈根的另一個我](https://open.spotify.com/track/51QyPUhUxWJ45JENrb2oDF) | [Fiona Sit](https://open.spotify.com/artist/0tqxh7MvZ301BVW4e0p3Sa) | [哥本哈根的另一個我](https://open.spotify.com/album/3ObUQkjUZx5P1rz2mChrNq) | 3:40 | 2022-01-13 | 2024-07-27 |
 | [哪裡只得我共你](https://open.spotify.com/track/1gbGcaN9ceMLTRcsXyYki9) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [Infinity & Eternity](https://open.spotify.com/album/5VWIH8UsV52RETk2uZDKpq) | 4:30 | 2024-07-26 |  |
 | [國際孤獨等級](https://open.spotify.com/track/5KpWHEh32vzxkttIK3KHKI) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [國際孤獨等級](https://open.spotify.com/album/1VSvRUXx0Qq9sjwFnyfONM) | 3:13 | 2024-07-26 |  |
@@ -64,6 +67,7 @@
 | [夕陽無限好](https://open.spotify.com/track/4J1sHmqnc1lEwdiJEgqPOS) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [U 87](https://open.spotify.com/album/3Y1KyBOAPB5CpPEWAIxbgB) | 4:04 | 2022-01-13 | 2024-07-27 |
 | [夜機](https://open.spotify.com/track/6vm9hk35YBDhdJ14x29glO) | [Priscilla Chan](https://open.spotify.com/artist/5SLOTZhruJRRGgIRtTSPc5) | [永遠是你的朋友](https://open.spotify.com/album/5nlHzn91AzD35tIroeTt01) | 4:31 | 2022-01-13 | 2024-07-27 |
 | [好好掛住](https://open.spotify.com/track/4TiCZ9hNsklGorn0hkozBQ) | [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [LIFE AFTER LIFE](https://open.spotify.com/album/5StWlONVgdYwa19ji79dvY) | 4:51 | 2024-07-26 |  |
+| [如果你問我](https://open.spotify.com/track/2wsxoHJDBpqIeunSoZRdYy) | [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [如果你問我](https://open.spotify.com/album/5KIyqIj4ADhmnZkqszeapC) | 3:48 | 2024-11-11 |  |
 | [如無意外](https://open.spotify.com/track/5Wh6JTxdiNdTHq25P2tRrL) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [艷光四射](https://open.spotify.com/album/3z50Y8A5d5jz63vaYBnnU7) | 3:27 | 2022-01-13 | 2024-07-27 |
 | [寂寞夜晚](https://open.spotify.com/track/1O1UCoOAR7TJP87wbP6FMT) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [Leslie Cheung Four Seasons](https://open.spotify.com/album/3JYopQziWYcvfNGURnBsaz) | 4:27 | 2022-01-13 | 2024-07-27 |
 | [年少無知 \- \(劇集 "天與地" 片尾曲\)](https://open.spotify.com/track/2HgSK0w0mfcB9dEnFMYagd) | [Bowie Lam](https://open.spotify.com/artist/4CoyTfyMIZBUTBpLm6sRtn), [陳豪](https://open.spotify.com/artist/5PDp6o4eM8PEZrZ4rwh5vg), [黃德斌](https://open.spotify.com/artist/49fmsKjd3CZJRwn775QyOy) | [年少無知 \(劇集 "天與地" 片尾曲\)](https://open.spotify.com/album/28RWLpCA29Iue63eLC0JP1) | 4:56 | 2022-01-13 | 2024-07-27 |
@@ -95,6 +99,7 @@
 | [每當變幻時](https://open.spotify.com/track/2106dcOEIQ5OK25y2X3QyR) | [薰妮](https://open.spotify.com/artist/3V8vKHOlOSNdH2IJjtghNf) | [薰妮金曲第一輯](https://open.spotify.com/album/38d8EcOEKEfggLTi28mQaX) | 3:01 | 2022-01-13 | 2024-07-27 |
 | [沒明日的恐懼](https://open.spotify.com/track/7sQwncmcjPQTKqEPXSot1v) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [沒明日的恐懼](https://open.spotify.com/album/1HxO1UY2Otzf4sLikQ3MMk) | 3:48 | 2022-01-13 | 2024-07-27 |
 | [沒有人可以為你的幸福負責](https://open.spotify.com/track/2lkYHFcSUywPfVhXEkFM4p) | [Alfred Hui](https://open.spotify.com/artist/0GCtLaB5rBjoUpQdXogZzj) | [沒有人可以為你的幸福負責](https://open.spotify.com/album/2YBZzO6Y9cogGy6H662L1r) | 3:33 | 2022-04-13 | 2024-07-27 |
+| [沒有送出的詩](https://open.spotify.com/track/5qLNCttpNjUaDoTsfryRuV) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [沒有送出的詩](https://open.spotify.com/album/5gBZE79vF92KOaTFFpopCd) | 3:30 | 2024-11-11 |  |
 | [深夜告別練習 \- Studio Live](https://open.spotify.com/track/2e8cFB8bkJO0qCpgzwc81h) | [Zpecial](https://open.spotify.com/artist/56Ac1JJiopOrWDuRIb330x), [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [深夜告別練習 \(Studio Live\)](https://open.spotify.com/album/7JecF4psMR0MNVQYl6Fiu7) | 3:35 | 2022-01-13 | 2024-07-27 |
 | [無常家](https://open.spotify.com/track/5HE9tB9RHyoHVMdpOQmOHs) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [無常家](https://open.spotify.com/album/7GsVzjPuZJbKrbeEgqR23h) | 3:59 | 2022-04-13 | 2024-07-27 |
 | [獨家村](https://open.spotify.com/track/0FlQr1kPj50rAee1kJjk5p) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [KONTINUE](https://open.spotify.com/album/5p2E0WphdOZE45CUoRbHg7) | 4:20 | 2022-01-13 | 2024-07-27 |
@@ -116,6 +121,7 @@
 | [萬一你是個好人](https://open.spotify.com/track/6O4qZI0CvcLQS9utcWNbrL) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [ISFP](https://open.spotify.com/album/1o3ijiVqCl7zUDkO1bLWZH) | 3:03 | 2024-07-26 |  |
 | [誰能明白我](https://open.spotify.com/track/07Qp5JcnS1gCfFbOzdyOWU) | [George Lam](https://open.spotify.com/artist/7rxRHujzUzobMEbtoE297s) | [最愛 40 \- Beloved 40](https://open.spotify.com/album/4KH6yrlyQ7PgJzy3HHxEwB) | 3:22 | 2022-01-13 | 2024-07-27 |
 | [請勿打擾模式](https://open.spotify.com/track/3eUcu4O8TfSSkBuXHRfh89) | [Jocelyn Chan](https://open.spotify.com/artist/54X296HPEBGKumudEbWLRd) | [請勿打擾模式](https://open.spotify.com/album/1JdhSjpvG3483VbfmWX9PJ) | 2:41 | 2024-07-26 |  |
+| [跟你分擔失落比較快樂](https://open.spotify.com/track/3Z6eOxbE55QzXsXCcSfl9O) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [跟你分擔失落比較快樂](https://open.spotify.com/album/1KTfKyPNPLi869yiVqxliu) | 3:10 | 2024-11-11 |  |
 | [返屋企](https://open.spotify.com/track/7Ep3R67pdK7SSGTKJQIaAT) | [LMF](https://open.spotify.com/artist/65epDBv5elxypoA07rXg29) | [Crazy Children \(2nd Version\)](https://open.spotify.com/album/0HlPIzA2LwiGH0m8dgsynt) | 5:00 | 2022-01-13 | 2024-07-27 |
 | [逐個逐個](https://open.spotify.com/track/1yQwV08EuKDeAcV9HHL4Gd) | [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [亞水](https://open.spotify.com/album/5BIynFkSbcq2esNGgH4YwO) | 3:17 | 2022-04-13 | 2024-07-27 |
 | [逐個逐個](https://open.spotify.com/track/2m1oTvhKULLdLHKNRCKp3J) | [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [亞水](https://open.spotify.com/album/3Tq4VEvtEoMpG3qh8fR145) | 3:17 | 2022-04-13 | 2024-04-19 |

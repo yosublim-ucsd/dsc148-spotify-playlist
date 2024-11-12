@@ -4,7 +4,7 @@
 
 > For the bisexuals.
 
-56 songs - 3 hr 16 min
+57 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Distance](https://open.spotify.com/track/5TQ6MARpfdGi3lToty2TH6) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Knife Man](https://open.spotify.com/album/131vOQexOX9KXcOvcK4vM9) | 2:33 | 2023-12-05 |  |
 | [Eyes Don’t Lie](https://open.spotify.com/track/2SoIn6rKqGXFtSmPelBamb) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Eyes Don’t Lie \(Acoustic\)](https://open.spotify.com/album/7GhoYUVCNtW9BOgw7YYVHm) | 3:56 | 2022-09-07 |  |
 | [Give 'Em Hell, Kid](https://open.spotify.com/track/0axF06XwNLobcx5z8BVtYw) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 2:18 | 2024-10-27 |  |
+| [Going to Marrakesh](https://open.spotify.com/track/0FPsI1Ar6bKOkqKibt075r) | [The Extra Glenns](https://open.spotify.com/artist/3A59qAssw3Kwyrvy96NMCz) | [Martial Arts Weekend](https://open.spotify.com/album/4gJvpXol0SU06gUqMGGqK5) | 2:47 | 2024-11-11 |  |
 | [Grand Theft Autumn / Where Is Your Boy](https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:11 | 2024-11-09 |  |
 | [Hasta Manana](https://open.spotify.com/track/3wvrmmNB16rtreCvgw3sqv) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo \(Deluxe Edition\)](https://open.spotify.com/album/4hHXvnHGn6pmHhdnnmNdmn) | 3:09 | 2024-09-19 |  |
 | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 | 2024-10-27 |  |

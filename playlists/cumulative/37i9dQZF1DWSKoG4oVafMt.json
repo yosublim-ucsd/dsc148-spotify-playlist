@@ -1615,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "Patander",
+        "url": "https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "Big Flex",
+      "url": "https://open.spotify.com/track/4GrMhP5ePbKxBcErPQhmOb"
+    },
+    {
+      "album": {
         "name": "Big Men (Chapter 2)",
         "url": "https://open.spotify.com/album/3KTSaC0CHlDgub38pTOuhg"
       },
@@ -5825,6 +5843,32 @@
     },
     {
       "album": {
+        "name": "Haase Thode",
+        "url": "https://open.spotify.com/album/7o3jdiuwEuHvFAy4IkavQa"
+      },
+      "artists": [
+        {
+          "name": "Jyotica Tangri",
+          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
+        },
+        {
+          "name": "Spidy's Music",
+          "url": "https://open.spotify.com/artist/4JJpNjGZGXcezGJkS0ASqP"
+        },
+        {
+          "name": "Vinder Nathu Majra",
+          "url": "https://open.spotify.com/artist/1B4NLf9v1eIpwm8vZCEOKN"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196701,
+      "name": "Haase Thode",
+      "url": "https://open.spotify.com/track/76MrBHxJVet38xAtxqc0xg"
+    },
+    {
+      "album": {
         "name": "Haaye Ni",
         "url": "https://open.spotify.com/album/01nqQiPsbGrNwLD10dZ6sa"
       },
@@ -6808,7 +6852,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 166439,
       "name": "Ishq Ruhani",
       "url": "https://open.spotify.com/track/1TaYCKeD9ThjR10ywFn3uU"
@@ -8346,7 +8390,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 186000,
       "name": "Katti Jani Aa",
       "url": "https://open.spotify.com/track/6hFHBA0p5z4vUsrwYa0Z8W"
@@ -14681,6 +14725,24 @@
     },
     {
       "album": {
+        "name": "Saadi Jaan Ve",
+        "url": "https://open.spotify.com/album/1PcmBVEJoMEkjxc1NdrngL"
+      },
+      "artists": [
+        {
+          "name": "Pav Dharia",
+          "url": "https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209373,
+      "name": "Saadi Jaan Ve",
+      "url": "https://open.spotify.com/track/48yQXfoCpreYL0wNNM58Yw"
+    },
+    {
+      "album": {
         "name": "Saadi Yaad",
         "url": "https://open.spotify.com/album/4y0IjnVoYUKqJIr2uhtff6"
       },
@@ -15184,7 +15246,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 162000,
       "name": "Sanwla Rang",
       "url": "https://open.spotify.com/track/6GFnPkwSY4VVsB4tM3gjQw"

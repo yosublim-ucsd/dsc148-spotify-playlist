@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-851 songs - 1 day 22 hr 18 min
+852 songs - 1 day 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -535,7 +535,7 @@
 | [Nothing We Can't Get Through](https://open.spotify.com/track/35R6Ru82ogVuBMVKnMf5sD) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Nothing We Can't Get Through](https://open.spotify.com/album/3A4gO5lgaOSVXgoKyNnHbi) | 2:22 | 2023-06-30 | 2023-08-26 |
 | [Nothings Into Signs](https://open.spotify.com/track/31kpgadjTib4K74PRKec0s) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Nothings Into Signs](https://open.spotify.com/album/6Zg7AFB23zW3YJl6wIERjB) | 2:37 | 2024-03-29 | 2024-08-24 |
 | [NVM](https://open.spotify.com/track/5lU9O0AjgWLGPkNANmMAaL) | [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Cathedral City](https://open.spotify.com/album/1TuE6pzCLw0A2wNzcPSmCb) | 2:52 | 2024-08-30 | 2024-10-27 |
-| [Odyssey](https://open.spotify.com/track/0G7AlrqwjvCRqDjQn2xH7Y) | [Iman Jordan](https://open.spotify.com/artist/06HBe4UB9JJvG2eKmcPQ5f), [Mad Keys](https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2), [Christopher James Talio](https://open.spotify.com/artist/1yxxsZ2Kb4HdLyP8uKwZJE) | [Odyssey](https://open.spotify.com/album/0jtkyctiuE6clIQx7kGUw4) | 2:13 | 2023-11-10 |  |
+| [Odyssey](https://open.spotify.com/track/0G7AlrqwjvCRqDjQn2xH7Y) | [Iman Jordan](https://open.spotify.com/artist/06HBe4UB9JJvG2eKmcPQ5f), [Mad Keys](https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2), [Christopher James Talio](https://open.spotify.com/artist/1yxxsZ2Kb4HdLyP8uKwZJE) | [Odyssey](https://open.spotify.com/album/0jtkyctiuE6clIQx7kGUw4) | 2:13 | 2023-11-10 | 2024-11-12 |
 | [Oh Darlin'](https://open.spotify.com/track/2gg1qS6anzlHRHD40RIbh1) | [Asiatica](https://open.spotify.com/artist/2JYlPhGdnbb5UeR8qVToPw) | [When We Were](https://open.spotify.com/album/7MHlo3z7I7nWc2eytJUQ56) | 3:26 | 2023-08-25 | 2023-08-29 |
 | [Oh, Wait...](https://open.spotify.com/track/4AG0bAu5QvQacdyOhQLYqF) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Love's Letter](https://open.spotify.com/album/2WCUgddua4H6GiwTBK6Zom) | 4:10 | 2024-02-17 |  |
 | [Okok \(Hibachi\)](https://open.spotify.com/track/44ashym52bERKclJsKt3Db) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Valley Hopefuls](https://open.spotify.com/album/1n6ULeNHEteS5eucGgsUSp) | 2:13 | 2022-02-11 | 2022-09-30 |
@@ -744,6 +744,7 @@
 | [The Love Is Gone](https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [The Love Is Gone](https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j) | 3:19 | 2024-09-13 |  |
 | [The Man Who Has Everything](https://open.spotify.com/track/3woRy7uxzl1lO2XO99oHsN) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [The Man Who Has Everything](https://open.spotify.com/album/3oa90TbTT5bJwCUJ5fDmvu) | 3:38 | 2021-12-15 | 2022-09-30 |
 | [The One](https://open.spotify.com/track/4V4hP1FCrFDuDOx7s5KKtY) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Not a Statistic](https://open.spotify.com/album/3S3Y5hgJzM0CIwdx2pNMQh) | 2:16 | 2023-01-27 | 2023-04-15 |
+| [The Test](https://open.spotify.com/track/1HcWAYTGv931OOK0aUIcAv) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Push&Pull](https://open.spotify.com/album/0WzcMeriAjLqUAMGdT0YGH) | 2:43 | 2024-11-08 |  |
 | [The Way You Are](https://open.spotify.com/track/0y63PuqT04J1EsUioyiQWp) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [The Way You Are](https://open.spotify.com/album/0TbmxVK6pALyCJB75NhLwt) | 2:34 | 2023-08-25 |  |
 | [The Window](https://open.spotify.com/track/5sf9YLJBGMTrCBEpUZOwrc) | [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [The Window](https://open.spotify.com/album/440GQ9ihDk0JBKq944vsvw) | 4:17 | 2024-10-26 |  |
 | [These Days](https://open.spotify.com/track/3u0s2L2nv0gUuDwLlVi4qH) | [Manwolves](https://open.spotify.com/artist/6RCI4WXRwG9jnRHZgzBYFr) | [These Days](https://open.spotify.com/album/0tgZwo1Li7rgLBzSEF2eIh) | 3:59 | 2022-06-30 | 2023-03-11 |

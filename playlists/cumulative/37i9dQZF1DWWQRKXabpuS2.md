@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. غلاف: اصالة نصري
 
-375 songs - 1 day 1 hr 53 min
+376 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Ana Malathak](https://open.spotify.com/track/7DgjgPW8yxcqJ9YXNP5VxR) | [Aiman Qusailah](https://open.spotify.com/artist/5rhRBRSACiwECuHLhk5b8D) | [Ana Malathak](https://open.spotify.com/album/25fV87SYlAReis51OpLnXB) | 3:52 | 2024-01-11 | 2024-08-09 |
 | [Ana Mawjoud](https://open.spotify.com/track/2mwRZnhBHSuUhQdrJN4D8P) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [Ana Mawjoud](https://open.spotify.com/album/3RkXdZFfg2OuhuY9NGzHO3) | 5:02 | 2024-09-05 |  |
 | [Ana Wa Anti](https://open.spotify.com/track/5vIqr9irNBp6onPeXnc6pM) | [Zayed Bin Saber](https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs) | [Ana Wa Anti](https://open.spotify.com/album/5xSVWY9yibDP7ttHSZqet5) | 4:44 | 2022-08-20 | 2022-08-23 |
+| [Ana Zeena](https://open.spotify.com/track/0B7B7m6EPOS4V5g4xgupB1) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Ana Zeena](https://open.spotify.com/album/7BK0fnpPXcpNctOOclNosy) | 3:43 | 2024-11-11 |  |
 | [Ananya](https://open.spotify.com/track/0STwpyh1bdUBDZxYxyDSG2) | [Haneen Hussain](https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ) | [Ananya](https://open.spotify.com/album/0hPgVuJbuXj0bZBoTzZDJh) | 2:57 | 2024-06-07 |  |
 | [Anazer Al Shobak](https://open.spotify.com/track/2TknqlPsUyLXkljtqw3LYW) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Anazer Al Shobak](https://open.spotify.com/album/62v0FmhF6h77bAoQUBrMmP) | 4:18 | 2024-06-20 |  |
 | [Ani Aredak](https://open.spotify.com/track/66gIjtTp56i7n5I0D2CclW) | [Hamza Al Aseel](https://open.spotify.com/artist/7nQ1aN8DVGPMH6y80w7FU3) | [Ani Aredak](https://open.spotify.com/album/0ik2ZcKqyXX2qTeMfefnED) | 3:02 | 2021-12-23 | 2022-04-02 |

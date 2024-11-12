@@ -1,37 +1,31 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QHBSGN4rag.md) - [plain](/playlists/plain/37i9dQZF1DX7QHBSGN4rag) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7QHBSGN4rag)
 
-### [八種愛的密語](https://open.spotify.com/playlist/37i9dQZF1DX7QHBSGN4rag)
+### [E人](https://open.spotify.com/playlist/37i9dQZF1DX7QHBSGN4rag)
 
-> 如果愛是不同形狀組成的密碼，八個女孩子便會有八組不同的愛的密碼！
+> 做自己，驚咩啊
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,173 likes - 25 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,173 likes - 19 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [五種愛的密語](https://open.spotify.com/track/3bUjOhILvle7j4yBLfxoYx) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [五種愛的密語](https://open.spotify.com/album/2jwrFQsFUNjLYwBeNKgMAG) | 3:06 |
-| 2 | [報復式浪漫 \(feat\. moon tang\)](https://open.spotify.com/track/5T6PZMH6QDRnhN3fYaXDQz) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [報復式浪漫 \(feat\. moon tang\)](https://open.spotify.com/album/0p4IXG9peFiRAtY0a7Xjuf) | 3:39 |
-| 3 | [世界很大,而我](https://open.spotify.com/track/36FNosFEox8WcDOLKUtGf5) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2) | [二分之一](https://open.spotify.com/album/7iprefl3BmfpFerOMpc9Z1) | 4:09 |
-| 4 | [恋はキライだ](https://open.spotify.com/track/5bO1MldE8pnhlBmwS4U3zd) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [ブルーポップは鳴りやまない](https://open.spotify.com/album/1vOK2rF2bQL4jDXFSv4UQf) | 3:35 |
-| 5 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 |
-| 6 | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 |
-| 7 | [不小心愛上你 ft\. 魏如萱 waa wei](https://open.spotify.com/track/49vNlEFxO7Uv95ZNC9stIP) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [In Mind](https://open.spotify.com/album/2tU8bZsg1ZnPRZO1gfGdpZ) | 3:59 |
-| 8 | [好きだから。](https://open.spotify.com/track/0F6nGXMCUbtk8FiXvKi6HK) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [好きだから。](https://open.spotify.com/album/7J3ut50EyHiP6Rl92spPIu) | 4:58 |
-| 9 | [I Love You 3000](https://open.spotify.com/track/3znQ9i61vfe2E7URHlOiyc) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [I Love You 3000](https://open.spotify.com/album/0vaFqzSwOjHv4QhK6BizL5) | 3:29 |
-| 10 | [Off My Face](https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:36 |
-| 11 | [世一](https://open.spotify.com/track/0YoqbSyFQngPdXaN0BAxnI) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [世一](https://open.spotify.com/album/1YrplQ1IcOFstrRGSoqIwh) | 4:23 |
-| 12 | [等你下課](https://open.spotify.com/track/76WthWB0v0KXUHZoAclMVV) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [等你下課](https://open.spotify.com/album/6cGDAwmjAE5i2a9fIY6Cu8) | 4:30 |
-| 13 | [兜圈](https://open.spotify.com/track/5CcqjfODDoSpI1xuTg9NCC) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [必娶女人 \(電視原聲帶\)](https://open.spotify.com/album/1ya4Ry2bGTM10Vhe948gew) | 4:03 |
-| 14 | [Some](https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:01 |
-| 15 | [當你](https://open.spotify.com/track/56UzFYxgkvxU188BsCKBOc) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [她說](https://open.spotify.com/album/2jzTdhgI2kvDx6NerFsRe8) | 4:09 |
-| 16 | [不想回家](https://open.spotify.com/track/2bVyjdLhKmH7O38QBN2Ejh) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [啓示錄](https://open.spotify.com/album/4uO5m2nHREvFrTeR7rOCDx) | 4:06 |
-| 17 | [街燈晚餐](https://open.spotify.com/track/7Fs5kXKd3zK1gbfjqk5Z4E) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [Imagine](https://open.spotify.com/album/2xyPGbBIwwkGXNiWuHhs2m) | 5:12 |
-| 18 | [刻在我心底的名字 \(Your Name Engraved Herein\) \- 電影<刻在你心底的名字>主題曲](https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [刻在我心底的名字 \(Your Name Engraved Herein\)](https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2) | 5:20 |
-| 19 | [Superman](https://open.spotify.com/track/5D8Nin6waWHFxi4gyP5nda) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Ginadoll](https://open.spotify.com/album/2XSd8TbPPpodHu28OcLslA) | 4:05 |
-| 20 | [勁浪漫 超溫馨](https://open.spotify.com/track/78TbTvePaJ6FFdwSMSXARy) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [勁浪漫 超溫馨](https://open.spotify.com/album/17rzHi2IJyAQS0X8MnetY2) | 3:19 |
-| 21 | [老派約會之必要](https://open.spotify.com/track/2lMVTk3I232dE7jnkufOSt) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [老派約會之必要](https://open.spotify.com/album/6Vgd72xB0XvQL23Nu5QlJ1) | 3:43 |
-| 22 | [First Love](https://open.spotify.com/track/39HrUxcvKF3jtLz7fUDWXc) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love](https://open.spotify.com/album/29U9LtzSF0ftWiLNNw1CP6) | 4:17 |
-| 23 | [地下街](https://open.spotify.com/track/2Ja6tE6B2QczAkf6YZOPMo) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE) | [College](https://open.spotify.com/album/3rODzqpJZLShivWS9kCabs) | 5:25 |
-| 24 | [2084](https://open.spotify.com/track/6pJT4f6S8GPQ7hWCDvygrN) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [2084](https://open.spotify.com/album/2j3mX8c4hex5NmMlL4x7g4) | 5:16 |
-| 25 | [我的秘密 \(MySecret\)](https://open.spotify.com/track/04colE4oJt50AHwFhrT57v) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [MySecret](https://open.spotify.com/album/2ZkF6zANeekBDgwMFGLIlf) | 4:08 |
+| 1 | [Call My Name! \(COLLAR214 ver.\)](https://open.spotify.com/track/33q6UPpjR3k66k1oxwFbzD) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name! \(COLLAR214 ver.\)](https://open.spotify.com/album/79ib7NaPeN0HwOKkq3v6Ao) | 3:30 |
+| 2 | [You are so cool](https://open.spotify.com/track/4LwnEq7QgBuskLjTZOhCeN) | [THAIMAY](https://open.spotify.com/artist/74gW37tnBQlQyfXeFog8eC) | [You are so cool](https://open.spotify.com/album/4VK0Xxn8kfPHbuSylIv92P) | 2:33 |
+| 3 | [全死角美少女戰士](https://open.spotify.com/track/2uXTxj4B5vtsT8ieJA8U8f) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [全死角美少女戰士](https://open.spotify.com/album/4GCGAl1CFMKWvjZ2vRL256) | 3:43 |
+| 4 | [勇氣情歌](https://open.spotify.com/track/4IaOHEtBuYAqZzHCKZaKcv) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [勇氣情歌](https://open.spotify.com/album/32exNW3onyiMmAzDigX2Lr) | 2:45 |
+| 5 | [表情符號](https://open.spotify.com/track/3ms2l7OEZ4CftG1xIFg3Zc) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Curiosity](https://open.spotify.com/album/7kBUORLmtC2huAsfEUDJVV) | 3:03 |
+| 6 | [多謝你自己](https://open.spotify.com/track/73HLm4bnp7QSnH8chPczoO) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [多謝你自己](https://open.spotify.com/album/0bVY9uMWyikjiWk3peaiDX) | 4:19 |
+| 7 | [咩事](https://open.spotify.com/track/2Q9QnlFaOAoY7PzjIObMVx) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [咩事](https://open.spotify.com/album/19a5KI8996iapH0hAAU6ug) | 3:12 |
+| 8 | [基本戀愛套路](https://open.spotify.com/track/5aClDPJjFRqpRgDbYoLHsi) | [Stephanie Ho](https://open.spotify.com/artist/0eXGbuvMWBpHQ5GE56OCq2) | [基本戀愛套路](https://open.spotify.com/album/03uLBWBl2FPUdKNXKIyRAt) | 4:29 |
+| 9 | [進化廣偉論](https://open.spotify.com/track/6BfPP07L6MUWJrAB5EHAlc) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [LIFE IS HARD](https://open.spotify.com/album/7EYAgpbmdUcKLxEpXNvDnM) | 3:52 |
+| 10 | [Strawberry Love](https://open.spotify.com/track/5U2uNAxUXWCNRaCZhG4Ate) | [MIRROR](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [Strawberry Love](https://open.spotify.com/album/4ACq3Hu5jjMh5i6kGRv1vk) | 3:03 |
+| 11 | [JAY FUNG 儀態訓練學院 \(feat\. The Kickvoxers\) \- acappella ver.](https://open.spotify.com/track/4xp88igMIUyGYWEZfi2hoF) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL), [The Kickvoxers](https://open.spotify.com/artist/5dtgZk4WrCuZO4PYM2GZIr) | [JAY FUNG 儀態訓練學院 \(feat\. The Kickvoxers\) \[acappella ver.\]](https://open.spotify.com/album/7KJ5eM4croyLztsZhYlaCb) | 4:34 |
+| 12 | [Summer Blues \(feat\. Sinnie Ng @ Lolly Talk\)](https://open.spotify.com/track/37YwCs6vTIOImsIz0SUQ6F) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr), [Sinnie Ng](https://open.spotify.com/artist/7zqVmX2goYKaLa1sIGlo27) | [Summer Blues \(feat\. Sinnie Ng @ Lolly Talk\)](https://open.spotify.com/album/5l2SNexaDAJZm6eZV3NLEi) | 2:41 |
+| 13 | [SSS](https://open.spotify.com/track/2ktEpazJROn73HR7jAWY1q) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [SSS](https://open.spotify.com/album/5SsZzhz7bZEWEzGI3jNEpP) | 2:54 |
+| 14 | [DiDiDiva](https://open.spotify.com/track/782efJyJ61Ul7caPXTgCFm) | [阿正](https://open.spotify.com/artist/0rCBTMt7H9EnjzeT2IeSBh) | [DiDiDiva](https://open.spotify.com/album/7LguJrPMX4ynOYHRZK6X4Z) | 3:25 |
+| 15 | [我們只有一往直前](https://open.spotify.com/track/5QDclSp0IOj9YI4RBUxX2n) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [我們只有一往直前](https://open.spotify.com/album/2SHbIZWNt7hSzCal97SuXW) | 3:36 |
+| 16 | [Drunk In Love](https://open.spotify.com/track/1ESXJwrXMPkEZf8aVIaApS) | [Stanley Yau 邱士縉](https://open.spotify.com/artist/42YEKJHf3cf1DlJ9ElpFTU) | [Drunk In Love](https://open.spotify.com/album/0NuWrh6AER5498tvtEzf3q) | 3:31 |
+| 17 | [靈魂奇異點](https://open.spotify.com/track/7hTvTrwnO9JWCFXFUF1Or0) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [靈魂奇異點](https://open.spotify.com/album/3lqBazVg4z4NQoqYreNCbu) | 6:35 |
+| 18 | [我養你 Pamper Ü](https://open.spotify.com/track/2xHtMhtGFjKGNZ6AibKDpz) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [我養你 Pamper Ü](https://open.spotify.com/album/6BDOJxX6c4XbgBWkYT1VB6) | 2:56 |
+| 19 | [七⼗⼆變](https://open.spotify.com/track/4FZlcTftXiBVqDShBWWrMo) | [Leon Lai](https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa) | [七⼗⼆變](https://open.spotify.com/album/5NWCD7F3EGIxF7qcuwyqD1) | 2:59 |
 
-Snapshot ID: `Zg5UwAAAAACYV2WL/RwN18nHUEevDERG`
+Snapshot ID: `ZzGupAAAAABuiyZvhbmeDkgWJwYMNoYO`

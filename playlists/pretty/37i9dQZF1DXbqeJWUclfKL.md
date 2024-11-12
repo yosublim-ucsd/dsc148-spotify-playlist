@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqeJWUclfKL.md) - [plain]
 
 > Whether a vampire’s bite or a bump in the night, grab your best ghouls and set the Halloween vibes anime style!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,002 likes - 51 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,093 likes - 51 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

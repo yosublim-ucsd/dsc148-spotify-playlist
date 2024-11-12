@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN.",
-  "num_followers": 108340,
+  "num_followers": 108361,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Corona de espinas",
-        "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
+        "name": "Bienvenidos a Occidente",
+        "url": "https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY"
       },
       "artists": [
         {
-          "name": "Bihotza",
-          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
-        },
-        {
-          "name": "Calero LDN",
-          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
+          "name": "Disidencia",
+          "url": "https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht"
         }
       ],
-      "duration_ms": 217466,
-      "name": "Corona de espinas",
-      "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
+      "duration_ms": 254946,
+      "name": "Prefiero Caminar",
+      "url": "https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -723,18 +719,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Bienvenidos a Occidente",
-        "url": "https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY"
+        "name": "Corona de espinas",
+        "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
       },
       "artists": [
         {
-          "name": "Disidencia",
-          "url": "https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht"
+          "name": "Bihotza",
+          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
+        },
+        {
+          "name": "Calero LDN",
+          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
         }
       ],
-      "duration_ms": 254946,
-      "name": "Prefiero Caminar",
-      "url": "https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B"
+      "duration_ms": 217466,
+      "name": "Corona de espinas",
+      "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Coraz\u00f3n ardiendo",
-        "url": "https://open.spotify.com/album/0cRzS0eYvsw7rIRN2cTs97"
-      },
-      "artists": [
-        {
-          "name": "Bihotza",
-          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
-        },
-        {
-          "name": "Calero LDN",
-          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
-        }
-      ],
-      "duration_ms": 181360,
-      "name": "Coraz\u00f3n ardiendo",
-      "url": "https://open.spotify.com/track/60zBmfg2Hle1y4VaUfISOo"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Sufre Kabr\u00f3n",
         "url": "https://open.spotify.com/album/1ITlttocLRA2QA4ZCT7fqP"
       },
@@ -887,26 +867,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Froil\u00e1n de Todos los Antros",
-        "url": "https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE"
-      },
-      "artists": [
-        {
-          "name": "Fuckop Family",
-          "url": "https://open.spotify.com/artist/0b4TqnnddOeTOuGaWV0KRe"
-        },
-        {
-          "name": "Lendakaris Muertos",
-          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
-        }
-      ],
-      "duration_ms": 220488,
-      "name": "Froil\u00e1n de Todos los Antros",
-      "url": "https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "No Sabemos Perder",
         "url": "https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz"
       },
@@ -927,6 +887,46 @@
       "duration_ms": 240800,
       "name": "No Sabemos Perder",
       "url": "https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Coraz\u00f3n ardiendo",
+        "url": "https://open.spotify.com/album/0cRzS0eYvsw7rIRN2cTs97"
+      },
+      "artists": [
+        {
+          "name": "Bihotza",
+          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
+        },
+        {
+          "name": "Calero LDN",
+          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
+        }
+      ],
+      "duration_ms": 181360,
+      "name": "Coraz\u00f3n ardiendo",
+      "url": "https://open.spotify.com/track/60zBmfg2Hle1y4VaUfISOo"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Froil\u00e1n de Todos los Antros",
+        "url": "https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE"
+      },
+      "artists": [
+        {
+          "name": "Fuckop Family",
+          "url": "https://open.spotify.com/artist/0b4TqnnddOeTOuGaWV0KRe"
+        },
+        {
+          "name": "Lendakaris Muertos",
+          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
+        }
+      ],
+      "duration_ms": 220488,
+      "name": "Froil\u00e1n de Todos los Antros",
+      "url": "https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Placer Al Fin",
+        "url": "https://open.spotify.com/album/2HZDQ1vcqxpsTDtNsLlK3W"
+      },
+      "artists": [
+        {
+          "name": "Vinodium",
+          "url": "https://open.spotify.com/artist/6yYXEgfDFIsxKXyoKm828Q"
+        }
+      ],
+      "duration_ms": 162609,
+      "name": "Placer Al fin",
+      "url": "https://open.spotify.com/track/7pKs0NK6zlPICc2BPyqteC"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Asesinos",
         "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
       },
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "All Cayetanos Are Bastards",
-        "url": "https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t"
-      },
-      "artists": [
-        {
-          "name": "Lo Blanco Del Jam\u00f3n",
-          "url": "https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR"
-        }
-      ],
-      "duration_ms": 160034,
-      "name": "All Cayetanos Are Bastards",
-      "url": "https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Borratxos y Orgullosos",
         "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
       },
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "All Cayetanos Are Bastards",
+        "url": "https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t"
+      },
+      "artists": [
+        {
+          "name": "Lo Blanco Del Jam\u00f3n",
+          "url": "https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR"
+        }
+      ],
+      "duration_ms": 160034,
+      "name": "All Cayetanos Are Bastards",
+      "url": "https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Pudredumbre",
         "url": "https://open.spotify.com/album/5mdIYVaHslsllN0EcvmxLr"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 125727,
       "name": "Pudredumbre",
       "url": "https://open.spotify.com/track/37jtZC34k0gkAaoI5g7a5v"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Placer Al Fin",
-        "url": "https://open.spotify.com/album/2HZDQ1vcqxpsTDtNsLlK3W"
-      },
-      "artists": [
-        {
-          "name": "Vinodium",
-          "url": "https://open.spotify.com/artist/6yYXEgfDFIsxKXyoKm828Q"
-        }
-      ],
-      "duration_ms": 162609,
-      "name": "Placer Al fin",
-      "url": "https://open.spotify.com/track/7pKs0NK6zlPICc2BPyqteC"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "zona s\u00edsmica",
-        "url": "https://open.spotify.com/album/1s5hgE6H2ExqroWNwsZzUt"
-      },
-      "artists": [
-        {
-          "name": "El Antisocial",
-          "url": "https://open.spotify.com/artist/1RRRS2yTvy6xkOxuK37Hb5"
-        }
-      ],
-      "duration_ms": 158824,
-      "name": "zona s\u00edsmica",
-      "url": "https://open.spotify.com/track/0DI5XP7DSwdPRFWKpazJgJ"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Habitamos el vertedero",
         "url": "https://open.spotify.com/album/1SQkzdMFNhbRdCCIw6PMv3"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 125769,
       "name": "Habitamos el vertedero",
       "url": "https://open.spotify.com/track/3KGHL7QRZxHuc478F9mBCO"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "zona s\u00edsmica",
+        "url": "https://open.spotify.com/album/1s5hgE6H2ExqroWNwsZzUt"
+      },
+      "artists": [
+        {
+          "name": "El Antisocial",
+          "url": "https://open.spotify.com/artist/1RRRS2yTvy6xkOxuK37Hb5"
+        }
+      ],
+      "duration_ms": 158824,
+      "name": "zona s\u00edsmica",
+      "url": "https://open.spotify.com/track/0DI5XP7DSwdPRFWKpazJgJ"
     },
     {
       "added_at": "2024-11-07 23:00:00",

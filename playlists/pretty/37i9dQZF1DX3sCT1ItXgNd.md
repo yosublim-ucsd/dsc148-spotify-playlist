@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Kapo, Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 964,684 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 964,665 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,17 +44,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 34 | [Dios Te Cuide](https://open.spotify.com/track/6lrjtAXDlt1sofIXPK7LM2) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Dios Te Cuide](https://open.spotify.com/album/1QLI6MlAp0UmM95vnsMK2M) | 3:18 |
 | 35 | [¿Y si lo hacemos? \(feat\. Valeria Castro\)](https://open.spotify.com/track/1VamVCJejLZh212lNhygVw) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC), [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [La Jauría](https://open.spotify.com/album/4cAjvCWbcfaDhuiJxew1Sw) | 4:35 |
 | 36 | [Así](https://open.spotify.com/track/5kuY0tpdSmI3tSuCxjxR0B) | [Marina Reche](https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw) | [Así](https://open.spotify.com/album/4yd3rl2coMyT0IB3ZYOqfE) | 3:43 |
-| 37 | [AUNQUE NO DIGAS NADA](https://open.spotify.com/track/5ppADN6WbBHCglJPN6oqII) | [MELER](https://open.spotify.com/artist/6Gc7QYqGBo1f1KtZJtJHda) | [AUNQUE NO DIGAS NADA](https://open.spotify.com/album/10LYVh7Y40t39fhiQnIzEX) | 3:02 |
-| 38 | [En Los Espejos](https://open.spotify.com/track/4it2e3KPSADwuJumg4C9zz) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [En Los Espejos](https://open.spotify.com/album/1WOEma6DSa3TiFD4wIawvc) | 3:17 |
+| 37 | [En Los Espejos](https://open.spotify.com/track/4it2e3KPSADwuJumg4C9zz) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [En Los Espejos](https://open.spotify.com/album/1WOEma6DSa3TiFD4wIawvc) | 3:17 |
+| 38 | [AUNQUE NO DIGAS NADA](https://open.spotify.com/track/5ppADN6WbBHCglJPN6oqII) | [MELER](https://open.spotify.com/artist/6Gc7QYqGBo1f1KtZJtJHda) | [AUNQUE NO DIGAS NADA](https://open.spotify.com/album/10LYVh7Y40t39fhiQnIzEX) | 3:02 |
 | 39 | [Tienes Que Saber](https://open.spotify.com/track/2Y9xXXMWqETUfonJjXP25k) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Naiara](https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6) | [Tienes Que Saber](https://open.spotify.com/album/5J1PllZ3mFwWYDm7xp8vo5) | 3:00 |
 | 40 | [INSOMNIO](https://open.spotify.com/track/2LnUHC7HB5n5e5LzHxQuJi) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [INSOMNIO](https://open.spotify.com/album/5uMSlAYTRCqjqGP32e30pC) | 3:38 |
 | 41 | [te vas a inventar](https://open.spotify.com/track/7dKJQbM2YiWgpbkWhnUsk1) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [te vas a inventar](https://open.spotify.com/album/5wFXtW6BBQKVf3Jo1iWWnj) | 2:52 |
 | 42 | [Criminal](https://open.spotify.com/track/0s1mNkEzKyhDGViTUHbGuP) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Criminal](https://open.spotify.com/album/1crmL9xEqGoRsR2nk1nl8n) | 2:48 |
 | 43 | [A Las 12](https://open.spotify.com/track/0btPVfNIE43s6ZFtp0GgVh) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [A Las 12](https://open.spotify.com/album/0lg6WmcaL9mkwWo2bQQU7f) | 3:08 |
 | 44 | [Morenita del sur](https://open.spotify.com/track/4pKhyJRka0RvlDKGi9RJCv) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Morenita del sur](https://open.spotify.com/album/53VfRv0BRcEb5d9XG1keWJ) | 3:44 |
-| 45 | [En El Aire](https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [En El Aire](https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6) | 3:23 |
-| 46 | [SERENATA](https://open.spotify.com/track/4suTBZ521uqrgLsOWwY8sg) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [UNA CASA CON JARDÍN](https://open.spotify.com/album/1GXaqoSw6PDqRuXDAZ3VnF) | 2:09 |
-| 47 | [Puede K Nos Liemos](https://open.spotify.com/track/6SwuaIsG5cXhP8HD985c1d) | [Almacor](https://open.spotify.com/artist/5H9v9M3T2XhWT3XvOKo8sy), [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Puede K Nos Liemos](https://open.spotify.com/album/04gBRmcV12Qo94MZmQR6hX) | 2:36 |
+| 45 | [SERENATA](https://open.spotify.com/track/4suTBZ521uqrgLsOWwY8sg) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [UNA CASA CON JARDÍN](https://open.spotify.com/album/1GXaqoSw6PDqRuXDAZ3VnF) | 2:09 |
+| 46 | [Puede K Nos Liemos](https://open.spotify.com/track/6SwuaIsG5cXhP8HD985c1d) | [Almacor](https://open.spotify.com/artist/5H9v9M3T2XhWT3XvOKo8sy), [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Puede K Nos Liemos](https://open.spotify.com/album/04gBRmcV12Qo94MZmQR6hX) | 2:36 |
+| 47 | [En El Aire](https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [En El Aire](https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6) | 3:23 |
 | 48 | [Atrinchera2](https://open.spotify.com/track/6rx8ePKSOryW7jIUSdvhnj) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Atrinchera2](https://open.spotify.com/album/2dw4YjjlRkGb8iEgm50fXQ) | 3:09 |
 | 49 | [UNA VIDA A TU LADO](https://open.spotify.com/track/3mpIFqv8YSjiFgGdfaZ0u3) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [UNA VIDA A TU LADO](https://open.spotify.com/album/3V3L0sYnmcEmzFS4ogRoVx) | 2:44 |
 | 50 | [no te deseo lo peor :\)](https://open.spotify.com/track/5fVa9nTKfq2Hy15jnOrer0) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y), [Paula Mattheus](https://open.spotify.com/artist/7BL2ojuqTfVuPSD6ViSmHR) | [no te deseo lo peor :\)](https://open.spotify.com/album/3z0TbCpug2bRGgWmODsWi5) | 3:09 |

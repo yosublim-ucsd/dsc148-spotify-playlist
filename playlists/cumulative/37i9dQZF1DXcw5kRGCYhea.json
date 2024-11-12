@@ -2118,7 +2118,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 149811,
       "name": "Minimum \u00e7a",
       "url": "https://open.spotify.com/track/1lRtRYr979UcWFC0By63Er"
@@ -2420,6 +2420,28 @@
       "duration_ms": 225230,
       "name": "Omri",
       "url": "https://open.spotify.com/track/4EwhShRVqFuVTdqPKM5yoj"
+    },
+    {
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/60r5RIcDErYpf1LrrpbjZT"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181016,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/73tNHdm3oeKcJrh0Xsrii1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Daun Jatuh, Prilly Latuconsina
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,109 likes - 130 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,102 likes - 130 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Naomi Lareine
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,392 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,460 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 30 | [This Summer](https://open.spotify.com/track/1UKf3GCnrZgchYbNOnfF2g) | [Anna Reusch](https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh) | [This Summer](https://open.spotify.com/album/1HZk8E4kfqAyDVGTTwTedZ) | 4:02 |
 | 31 | [Nenn Es Liebe](https://open.spotify.com/track/1JUAAMsxixtFr9peK0tY1Z) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Ich Kann's Nicht Glauben](https://open.spotify.com/album/1wsLOve48Evf8fgwn6dxLy) | 3:22 |
 | 32 | [Multiplying My Absurdities](https://open.spotify.com/track/0smWCCXSYAs8E5Y2Yg7mda) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Multiplying My Absurdities](https://open.spotify.com/album/7Fg9gARKM7VC7lpCH2zmam) | 6:22 |
-| 33 | [Nicht meine Schuld](https://open.spotify.com/track/2ZShXIESF5J2cTz3GvtFW7) | [Hanna Noir](https://open.spotify.com/artist/53Z34OeYHMxe1sj3V1zHTU) | [Color Theory](https://open.spotify.com/album/6MN4nhwzXMmckOZUllSvfr) | 1:43 |
-| 34 | [say yes](https://open.spotify.com/track/2DCX9FyvpcKYFne1Y6a97I) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [say yes](https://open.spotify.com/album/5V60AxTn9bppXrHMhSLveB) | 1:54 |
+| 33 | [say yes](https://open.spotify.com/track/2DCX9FyvpcKYFne1Y6a97I) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [say yes](https://open.spotify.com/album/5V60AxTn9bppXrHMhSLveB) | 1:54 |
+| 34 | [Nicht meine Schuld](https://open.spotify.com/track/2ZShXIESF5J2cTz3GvtFW7) | [Hanna Noir](https://open.spotify.com/artist/53Z34OeYHMxe1sj3V1zHTU) | [Color Theory](https://open.spotify.com/album/6MN4nhwzXMmckOZUllSvfr) | 1:43 |
 | 35 | [Don't Wake Me Up](https://open.spotify.com/track/609yi6SMFUPTKLEQON8vT2) | [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Don't Wake Me Up](https://open.spotify.com/album/4hqdD0gTJUoEVvxhdUu8OP) | 4:01 |
 | 36 | [echo](https://open.spotify.com/track/0jklwASgujfNjubQ6O3O7n) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [echo](https://open.spotify.com/album/2llIzlRhG7iFLtiK5hR0mw) | 3:33 |
 | 37 | [Schrei mich an](https://open.spotify.com/track/4fcgiUXsNP7U4yMwZ8XIj9) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [Schrei mich an](https://open.spotify.com/album/0nzdIuVmZ9NugmXC8OdPVq) | 2:32 |

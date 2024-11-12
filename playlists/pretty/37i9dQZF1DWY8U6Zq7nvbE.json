@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 2436052,
+  "num_followers": 2436048,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/6VSD4fFUQnlmpX7QPrVtIS"
-      },
-      "artists": [
-        {
-          "name": "Rosebud Nash",
-          "url": "https://open.spotify.com/artist/7gB278uEcf8lhALC5DnhuE"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/4tWxWs4sf6EMZqk2Fx2oaE"
-    },
-    {
-      "added_at": "2024-10-18 08:01:52",
-      "album": {
         "name": "When I Get There",
         "url": "https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 233150,
       "name": "When I Get There",
       "url": "https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK"
+    },
+    {
+      "added_at": "2024-10-18 08:01:52",
+      "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/6VSD4fFUQnlmpX7QPrVtIS"
+      },
+      "artists": [
+        {
+          "name": "Rosebud Nash",
+          "url": "https://open.spotify.com/artist/7gB278uEcf8lhALC5DnhuE"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/4tWxWs4sf6EMZqk2Fx2oaE"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "Lift Me Up",
-        "url": "https://open.spotify.com/album/3cw331sEho6jzNexTUfyLQ"
-      },
-      "artists": [
-        {
-          "name": "WestSouth",
-          "url": "https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0"
-        }
-      ],
-      "duration_ms": 169756,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/1Flj41v3soU4JYVlUlOyDd"
-    },
-    {
-      "added_at": "2024-10-18 08:01:52",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/5iDeC4ftOj2Uy3ed0vGy7x"
       },
@@ -395,18 +379,18 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "she's all i wanna be",
-        "url": "https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul"
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/3cw331sEho6jzNexTUfyLQ"
       },
       "artists": [
         {
-          "name": "who's heather",
-          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
+          "name": "WestSouth",
+          "url": "https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0"
         }
       ],
-      "duration_ms": 197357,
-      "name": "she's all i wanna be",
-      "url": "https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ"
+      "duration_ms": 169756,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/1Flj41v3soU4JYVlUlOyDd"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -427,6 +411,22 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
+        "name": "she's all i wanna be",
+        "url": "https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul"
+      },
+      "artists": [
+        {
+          "name": "who's heather",
+          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
+        }
+      ],
+      "duration_ms": 197357,
+      "name": "she's all i wanna be",
+      "url": "https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ"
+    },
+    {
+      "added_at": "2024-10-18 08:01:52",
+      "album": {
         "name": "Your Song",
         "url": "https://open.spotify.com/album/1OaSVhsJ33mQVXQukPItlv"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 179000,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/5m8CFxNmVxgIUezNyZ3e6e"
+    },
+    {
+      "added_at": "2024-10-18 08:01:52",
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 176542,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -475,22 +491,6 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 176542,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
-    },
-    {
-      "added_at": "2024-10-18 08:01:52",
-      "album": {
         "name": "Don't You (Forget About Me)",
         "url": "https://open.spotify.com/album/2GGSKP9yuyZRAsygbY8prb"
       },
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "Only Girl In The World",
-        "url": "https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG"
-      },
-      "artists": [
-        {
-          "name": "Norah Davis",
-          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
-        }
-      ],
-      "duration_ms": 226181,
-      "name": "Only Girl In The World",
-      "url": "https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL"
-    },
-    {
-      "added_at": "2024-10-18 08:01:52",
-      "album": {
         "name": "Hell N Back",
         "url": "https://open.spotify.com/album/7yLDElxlTWwOKPaZ3fTMH6"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 201600,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/6ZwapbdaYHnbZ0ZJr79SP7"
+    },
+    {
+      "added_at": "2024-10-18 08:01:52",
+      "album": {
+        "name": "Only Girl In The World",
+        "url": "https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG"
+      },
+      "artists": [
+        {
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
+        }
+      ],
+      "duration_ms": 226181,
+      "name": "Only Girl In The World",
+      "url": "https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "The Scientist",
-        "url": "https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse"
-      },
-      "artists": [
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        }
-      ],
-      "duration_ms": 275732,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt"
-    },
-    {
-      "added_at": "2024-10-18 08:01:52",
-      "album": {
         "name": "Dance Monkey",
         "url": "https://open.spotify.com/album/21n1KOLGCVWVnqsaaOWqTT"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 197850,
       "name": "Dance Monkey",
       "url": "https://open.spotify.com/track/4zYkSXrfgJyrNkNv3mTiIZ"
+    },
+    {
+      "added_at": "2024-10-18 08:01:52",
+      "album": {
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 275732,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "Love Or Something Like It",
-        "url": "https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz"
-      },
-      "artists": [
-        {
-          "name": "Jenny Thorn",
-          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
-        }
-      ],
-      "duration_ms": 172741,
-      "name": "Love Or Something Like It",
-      "url": "https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp"
-    },
-    {
-      "added_at": "2024-10-18 08:01:52",
-      "album": {
         "name": "Little Lies",
         "url": "https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 197851,
       "name": "Little Lies",
       "url": "https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19"
+    },
+    {
+      "added_at": "2024-10-18 08:01:52",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/1EfRK5vjQxeRyFiDKGgNih"
+      },
+      "artists": [
+        {
+          "name": "Eric Serenade",
+          "url": "https://open.spotify.com/artist/6Hqfwx2sW2vYX6tvA1SMda"
+        }
+      ],
+      "duration_ms": 188124,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2w2pewokxDHk6bktVmz7GH"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
+        "name": "Love Or Something Like It",
+        "url": "https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz"
+      },
+      "artists": [
+        {
+          "name": "Jenny Thorn",
+          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
+        }
+      ],
+      "duration_ms": 172741,
+      "name": "Love Or Something Like It",
+      "url": "https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp"
+    },
+    {
+      "added_at": "2024-10-18 08:01:52",
+      "album": {
         "name": "Behind Blue Eyes",
         "url": "https://open.spotify.com/album/7yHOE5W3lfTf3c2K8gorFm"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 164210,
       "name": "Behind Blue Eyes",
       "url": "https://open.spotify.com/track/4bjwOaC6YzQAnbSNaWTJ7a"
-    },
-    {
-      "added_at": "2024-10-18 08:01:52",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/1EfRK5vjQxeRyFiDKGgNih"
-      },
-      "artists": [
-        {
-          "name": "Eric Serenade",
-          "url": "https://open.spotify.com/artist/6Hqfwx2sW2vYX6tvA1SMda"
-        }
-      ],
-      "duration_ms": 188124,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2w2pewokxDHk6bktVmz7GH"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "WHAT THE HELL ARE WE DYING FOR?",
-        "url": "https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA"
+        "name": "I Feel It Coming",
+        "url": "https://open.spotify.com/album/7GBboSmTQfhQI14a9bER4f"
       },
       "artists": [
         {
-          "name": "Macy Ellen",
-          "url": "https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L"
+          "name": "Alice Nordstrom",
+          "url": "https://open.spotify.com/artist/6tZEMBPWeYyxYIKEubuJD3"
         }
       ],
-      "duration_ms": 202000,
-      "name": "WHAT THE HELL ARE WE DYING FOR?",
-      "url": "https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd"
+      "duration_ms": 166554,
+      "name": "I Feel It Coming",
+      "url": "https://open.spotify.com/track/5C2KczvPxtlAbohydAQcYb"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "I Feel It Coming",
-        "url": "https://open.spotify.com/album/7GBboSmTQfhQI14a9bER4f"
+        "name": "WHAT THE HELL ARE WE DYING FOR?",
+        "url": "https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA"
       },
       "artists": [
         {
-          "name": "Alice Nordstrom",
-          "url": "https://open.spotify.com/artist/6tZEMBPWeYyxYIKEubuJD3"
+          "name": "Macy Ellen",
+          "url": "https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L"
         }
       ],
-      "duration_ms": 166554,
-      "name": "I Feel It Coming",
-      "url": "https://open.spotify.com/track/5C2KczvPxtlAbohydAQcYb"
+      "duration_ms": 202000,
+      "name": "WHAT THE HELL ARE WE DYING FOR?",
+      "url": "https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "In The Meantime",
-        "url": "https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk"
-      },
-      "artists": [
-        {
-          "name": "Nora Levario",
-          "url": "https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw"
-        }
-      ],
-      "duration_ms": 178966,
-      "name": "In The Meantime",
-      "url": "https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb"
-    },
-    {
-      "added_at": "2024-10-18 08:01:52",
-      "album": {
         "name": "Pure Shores",
         "url": "https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 199595,
       "name": "Pure Shores",
       "url": "https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP"
+    },
+    {
+      "added_at": "2024-10-18 08:01:52",
+      "album": {
+        "name": "In The Meantime",
+        "url": "https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk"
+      },
+      "artists": [
+        {
+          "name": "Nora Levario",
+          "url": "https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw"
+        }
+      ],
+      "duration_ms": 178966,
+      "name": "In The Meantime",
+      "url": "https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "STAY",
-        "url": "https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG"
-      },
-      "artists": [
-        {
-          "name": "Isaac Hale",
-          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
-        }
-      ],
-      "duration_ms": 132789,
-      "name": "STAY",
-      "url": "https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj"
-    },
-    {
-      "added_at": "2024-10-18 08:01:52",
-      "album": {
         "name": "Visiting Hours (Acoustic)",
         "url": "https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 197202,
       "name": "Visiting Hours (Acoustic)",
       "url": "https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK"
+    },
+    {
+      "added_at": "2024-10-18 08:01:52",
+      "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hale",
+          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
+        }
+      ],
+      "duration_ms": 132789,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/27wqComza4OEQnzS4AniQe"
-      },
-      "artists": [
-        {
-          "name": "Mother's Daughter",
-          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
-        }
-      ],
-      "duration_ms": 175002,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/0Kb3SXteauSCX2o6FmY6LP"
-    },
-    {
-      "added_at": "2024-10-18 08:01:52",
-      "album": {
         "name": "Birds of a Feather",
         "url": "https://open.spotify.com/album/3lNGPfARQg2ktx9dnSsStt"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 219120,
       "name": "Birds of a Feather",
       "url": "https://open.spotify.com/track/4lg1LJNoqAP5VDPQR4MIyo"
+    },
+    {
+      "added_at": "2024-10-18 08:01:52",
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/27wqComza4OEQnzS4AniQe"
+      },
+      "artists": [
+        {
+          "name": "Mother's Daughter",
+          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
+        }
+      ],
+      "duration_ms": 175002,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/0Kb3SXteauSCX2o6FmY6LP"
     },
     {
       "added_at": "2024-10-18 08:01:52",

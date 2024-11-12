@@ -1,6 +1,6 @@
 {
   "description": "Queens everywhere - givin' us life. ",
-  "num_followers": 90836,
+  "num_followers": 90850,
   "original_name": "Fierce",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "My First Album",
+        "url": "https://open.spotify.com/album/5O6UW3T8pR37aosytoTLcC"
+      },
+      "artists": [
+        {
+          "name": "Divine",
+          "url": "https://open.spotify.com/artist/1wASklF2AQfIVhSBWnUHwz"
+        }
+      ],
+      "duration_ms": 241506,
+      "name": "Native Love (Step By Step)",
+      "url": "https://open.spotify.com/track/08z4YUOPIc6nS0nAUC5uDU"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/254Ri8NToEgWzwZvu8VB2q"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 224430,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/3C3jcnDl4fbX05x67Jp4B6"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "My First Album",
-        "url": "https://open.spotify.com/album/5O6UW3T8pR37aosytoTLcC"
-      },
-      "artists": [
-        {
-          "name": "Divine",
-          "url": "https://open.spotify.com/artist/1wASklF2AQfIVhSBWnUHwz"
-        }
-      ],
-      "duration_ms": 241506,
-      "name": "Native Love (Step By Step)",
-      "url": "https://open.spotify.com/track/08z4YUOPIc6nS0nAUC5uDU"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -195,6 +195,30 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "Queens Everywhere (Cast Version)",
+        "url": "https://open.spotify.com/album/4qRdeAlRbk0LfK6IHgNf5n"
+      },
+      "artists": [
+        {
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        },
+        {
+          "name": "The Cast of RuPaul's Drag Race, Season 11",
+          "url": "https://open.spotify.com/artist/66HGzvDigC8CCp6ZGfEC6i"
+        },
+        {
+          "name": "Markaholic",
+          "url": "https://open.spotify.com/artist/0ZUGTZ3ItqNjAtQUVjNKnu"
+        }
+      ],
+      "duration_ms": 197422,
+      "name": "Queens Everywhere - Cast Version",
+      "url": "https://open.spotify.com/track/2zbCUcfKcM9RDsnDcuybvV"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "Break Up Bye Bye (Frock Destroyers Version)",
         "url": "https://open.spotify.com/album/4vydhCuNsBlq3S4PNCO5K6"
       },
@@ -227,30 +251,6 @@
       "duration_ms": 204923,
       "name": "A Prueba De Todo",
       "url": "https://open.spotify.com/track/5K9629jLBvdabDmmhdCLui"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Queens Everywhere (Cast Version)",
-        "url": "https://open.spotify.com/album/4qRdeAlRbk0LfK6IHgNf5n"
-      },
-      "artists": [
-        {
-          "name": "RuPaul",
-          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
-        },
-        {
-          "name": "The Cast of RuPaul's Drag Race, Season 11",
-          "url": "https://open.spotify.com/artist/66HGzvDigC8CCp6ZGfEC6i"
-        },
-        {
-          "name": "Markaholic",
-          "url": "https://open.spotify.com/artist/0ZUGTZ3ItqNjAtQUVjNKnu"
-        }
-      ],
-      "duration_ms": 197422,
-      "name": "Queens Everywhere - Cast Version",
-      "url": "https://open.spotify.com/track/2zbCUcfKcM9RDsnDcuybvV"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Hurt My Feelings",
-        "url": "https://open.spotify.com/album/6RYqcj0gjuIjuDaxmiuna8"
-      },
-      "artists": [
-        {
-          "name": "Tatianna",
-          "url": "https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a"
-        }
-      ],
-      "duration_ms": 237987,
-      "name": "Hurt My Feelings",
-      "url": "https://open.spotify.com/track/2XE14vp7hkDhredi6SQ9Oz"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Everybody Hates Linux",
         "url": "https://open.spotify.com/album/0xUsVc4uD9kO1u6TF0x29X"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 254111,
       "name": "Looks (feat. Aquaria)",
       "url": "https://open.spotify.com/track/6HG9HwiSqzyZjKZj2xy5FX"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Hurt My Feelings",
+        "url": "https://open.spotify.com/album/6RYqcj0gjuIjuDaxmiuna8"
+      },
+      "artists": [
+        {
+          "name": "Tatianna",
+          "url": "https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a"
+        }
+      ],
+      "duration_ms": 237987,
+      "name": "Hurt My Feelings",
+      "url": "https://open.spotify.com/track/2XE14vp7hkDhredi6SQ9Oz"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Absolute Zero",
-        "url": "https://open.spotify.com/album/0torKYUkz3VBlHVxu0vsli"
+        "name": "Drag Den",
+        "url": "https://open.spotify.com/album/7MVcG4rJhelgCOK34fFl8b"
       },
       "artists": [
         {
-          "name": "Sharon Needles",
-          "url": "https://open.spotify.com/artist/7yPRmfUuRcpGwOsHVqQgae"
+          "name": "Manila Luzon",
+          "url": "https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g"
         }
       ],
-      "duration_ms": 198391,
-      "name": "Flamin' Hot",
-      "url": "https://open.spotify.com/track/7C32ylxyLfkmlVcJVSuJYb"
+      "duration_ms": 195474,
+      "name": "Drag Den",
+      "url": "https://open.spotify.com/track/3OcG8HWvhRJnX6GxRPNlIL"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -887,18 +887,18 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Drag Den",
-        "url": "https://open.spotify.com/album/7MVcG4rJhelgCOK34fFl8b"
+        "name": "Absolute Zero",
+        "url": "https://open.spotify.com/album/0torKYUkz3VBlHVxu0vsli"
       },
       "artists": [
         {
-          "name": "Manila Luzon",
-          "url": "https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g"
+          "name": "Sharon Needles",
+          "url": "https://open.spotify.com/artist/7yPRmfUuRcpGwOsHVqQgae"
         }
       ],
-      "duration_ms": 195474,
-      "name": "Drag Den",
-      "url": "https://open.spotify.com/track/3OcG8HWvhRJnX6GxRPNlIL"
+      "duration_ms": 198391,
+      "name": "Flamin' Hot",
+      "url": "https://open.spotify.com/track/7C32ylxyLfkmlVcJVSuJYb"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "PUMPKIN TITS - Single",
-        "url": "https://open.spotify.com/album/2d4U1XuIVz2ZgdzEA9KuCJ"
-      },
-      "artists": [
-        {
-          "name": "JIMBO the Drag Clown",
-          "url": "https://open.spotify.com/artist/6r0BlYz6rlMmzxI09yQT8t"
-        }
-      ],
-      "duration_ms": 176215,
-      "name": "PUMPKIN TITS",
-      "url": "https://open.spotify.com/track/3VXyiHnpm1npDdnCVdX5Tp"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "EGO",
         "url": "https://open.spotify.com/album/4vEpdTEZcXC75BJMli4JVn"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 153562,
       "name": "Southern Hospitality",
       "url": "https://open.spotify.com/track/0QTnmq1asCixe3dcCuTaGO"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "PUMPKIN TITS - Single",
+        "url": "https://open.spotify.com/album/2d4U1XuIVz2ZgdzEA9KuCJ"
+      },
+      "artists": [
+        {
+          "name": "JIMBO the Drag Clown",
+          "url": "https://open.spotify.com/artist/6r0BlYz6rlMmzxI09yQT8t"
+        }
+      ],
+      "duration_ms": 176215,
+      "name": "PUMPKIN TITS",
+      "url": "https://open.spotify.com/track/3VXyiHnpm1npDdnCVdX5Tp"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1351,8 +1351,8 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Straight Outta Oz (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3UeUYonBAGu7lZi0706Vdb"
+        "name": "Straight Outta Oz",
+        "url": "https://open.spotify.com/album/1abVmBsdc82pIj9CQu7cN0"
       },
       "artists": [
         {
@@ -1360,13 +1360,13 @@
           "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
         },
         {
-          "name": "RuPaul",
-          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+          "name": "Bob the Drag Queen",
+          "url": "https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj"
         }
       ],
-      "duration_ms": 201904,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/2TqWayWYGNjqfTpapyveyu"
+      "duration_ms": 158222,
+      "name": "Wrong Bitch",
+      "url": "https://open.spotify.com/track/3eOYEYe2VUsiOSCW53OiZv"
     },
     {
       "added_at": "2024-05-31 17:55:47",

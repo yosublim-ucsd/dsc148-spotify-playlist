@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: G\-DRAGON\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: Dynamic Duo\(다이나믹 듀오\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,088 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,164 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [KrOWN\_Jay Park](https://open.spotify.com/track/4eag7riq6HCiMUNX3B8jL4) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [KrOWN Audio liner](https://open.spotify.com/album/54srm6JygaJuyQDCfiYFbm) | 0:01 |
-| 2 | [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 |
-| 3 | [PITAPA \(Feat\. pH\-1, JUNNY\)](https://open.spotify.com/track/1riVuC1J7WRgJhG5WrtXI4) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [2 Kids On The Block \- Part.3](https://open.spotify.com/album/7IbrzIkXcdevPIE4HnnFuR) | 3:26 |
+| 2 | [PITAPA \(Feat\. pH\-1, JUNNY\)](https://open.spotify.com/track/1riVuC1J7WRgJhG5WrtXI4) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [2 Kids On The Block \- Part.3](https://open.spotify.com/album/7IbrzIkXcdevPIE4HnnFuR) | 3:26 |
+| 3 | [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 |
 | 4 | [Mask on](https://open.spotify.com/track/6taiSlVSCGtZp71I09QnFL) | [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [RAP:PUBLIC MASK OFF Special](https://open.spotify.com/album/41NJ14BEkm5HjQlJRrS4JT) | 2:40 |
 | 5 | [RAP:PUBLIC FREESTYLE](https://open.spotify.com/track/7A4SSVrtBgqw3xKlDkOE87) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [RAP:PUBLIC MASK OFF Special](https://open.spotify.com/album/41NJ14BEkm5HjQlJRrS4JT) | 2:29 |
 | 6 | [W](https://open.spotify.com/track/5b7uyBXn294DZjvnJqsKfA) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [RAP:PUBLIC MASK OFF Special](https://open.spotify.com/album/41NJ14BEkm5HjQlJRrS4JT) | 1:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 99 | [TASTE \(feat\. Tabber\)](https://open.spotify.com/track/1RfpiN8GKqEES1EhbJpv3u) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [KCTAPE, Vol\. 2](https://open.spotify.com/album/2hFmjRT4DsRquVvV1oQZJ2) | 2:43 |
 | 100 | [KrOWN\_lIlBOI](https://open.spotify.com/track/3Qdm41qaQkvYqL4SBP41fj) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [KrOWN audio liner](https://open.spotify.com/album/7C0wLTmWoth1H3ZCTAVxDf) | 0:04 |
 
-Snapshot ID: `ZyxTLwAAAAB55pYfl00LZvJL4bKeann/`
+Snapshot ID: `ZzG71AAAAACjnubXovDEELIM4s88oBbV`

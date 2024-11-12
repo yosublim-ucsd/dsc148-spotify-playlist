@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 
 > Lekker rustig aan doen op zaterdag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,836 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,825 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The First Train Home](https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [The First Train Home](https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx) | 3:32 |
-| 2 | [I Live After I Died](https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [I Live After I Died](https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i) | 2:44 |
-| 3 | [Take Me Home](https://open.spotify.com/track/45j9PpkMtx7mQorNkJ1H60) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Take Me Home](https://open.spotify.com/album/5Z2wr4tZdJ0PbDabvwQjeh) | 3:01 |
-| 4 | [Slow Down](https://open.spotify.com/track/1Ku0rcSxsvFDpzE6hW597H) | [Marle Thomson](https://open.spotify.com/artist/0QQXt83k6HdOLRfGmiAZwY) | [Slow Down](https://open.spotify.com/album/35WNLrZQLucMaXJ8x0GMYm) | 2:38 |
-| 5 | [Spring \- Single Edit](https://open.spotify.com/track/4amOLvYbgXIezj5Gjh1OAr) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [Spring](https://open.spotify.com/album/4jEF8mTXVEJd17oO2FPq29) | 5:08 |
-| 6 | [Places To Be](https://open.spotify.com/track/72OhurZMGaH7nja23KnFs5) | [Samuel Andryk](https://open.spotify.com/artist/3stQBG1xd0n7nnHk5EFkzc) | [Places To Be](https://open.spotify.com/album/6pMIeLMlduThBJqYnugEQB) | 4:03 |
-| 7 | [All Is Ours \- Acoustic Version](https://open.spotify.com/track/2GiKm519SjcHtETEGsSXwi) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [All Is Ours](https://open.spotify.com/album/2dzydQ4Kt36UkRZOOZZRUT) | 4:51 |
-| 8 | [Cover To Cover](https://open.spotify.com/track/4yu891jBP6l633Fy4dBokv) | [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Cover To Cover](https://open.spotify.com/album/1J1VVBCKfD92IYfEZFAY9I) | 4:00 |
+| 1 | [Slow Down](https://open.spotify.com/track/1Ku0rcSxsvFDpzE6hW597H) | [Marle Thomson](https://open.spotify.com/artist/0QQXt83k6HdOLRfGmiAZwY) | [Slow Down](https://open.spotify.com/album/35WNLrZQLucMaXJ8x0GMYm) | 2:38 |
+| 2 | [Cover To Cover](https://open.spotify.com/track/4yu891jBP6l633Fy4dBokv) | [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Cover To Cover](https://open.spotify.com/album/1J1VVBCKfD92IYfEZFAY9I) | 4:00 |
+| 3 | [The First Train Home](https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [The First Train Home](https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx) | 3:32 |
+| 4 | [I Live After I Died](https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [I Live After I Died](https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i) | 2:44 |
+| 5 | [Take Me Home](https://open.spotify.com/track/45j9PpkMtx7mQorNkJ1H60) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Take Me Home](https://open.spotify.com/album/5Z2wr4tZdJ0PbDabvwQjeh) | 3:01 |
+| 6 | [Spring \- Single Edit](https://open.spotify.com/track/4amOLvYbgXIezj5Gjh1OAr) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [Spring](https://open.spotify.com/album/4jEF8mTXVEJd17oO2FPq29) | 5:08 |
+| 7 | [Places To Be](https://open.spotify.com/track/72OhurZMGaH7nja23KnFs5) | [Samuel Andryk](https://open.spotify.com/artist/3stQBG1xd0n7nnHk5EFkzc) | [Places To Be](https://open.spotify.com/album/6pMIeLMlduThBJqYnugEQB) | 4:03 |
+| 8 | [All Is Ours \- Acoustic Version](https://open.spotify.com/track/2GiKm519SjcHtETEGsSXwi) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [All Is Ours](https://open.spotify.com/album/2dzydQ4Kt36UkRZOOZZRUT) | 4:51 |
 | 9 | [Peaceful Now](https://open.spotify.com/track/6SiGBl8vh4vJuxxTrE4uqE) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Peaceful Now](https://open.spotify.com/album/27JGlj8aO16dMYFe62fsxN) | 2:33 |
 | 10 | [Saturday Silence](https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9) | [Iskander Moon](https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0) | [Saturday Silence](https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl) | 2:55 |
 | 11 | [Nomad](https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nomad](https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 99 | [Selfish Love](https://open.spotify.com/track/6ywvpOWVw6GerSxaY8WQI2) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Selfish Love](https://open.spotify.com/album/2XALd6mECQvIXM8Zjg1hIP) | 3:54 |
 | 100 | [if i wasn't made for love](https://open.spotify.com/track/0gTQHu2jECAp9qSw1t5dkr) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [if i wasn't made for love](https://open.spotify.com/album/3zLvfi1YxYdN0YwgIc8vDA) | 3:56 |
 
-Snapshot ID: `Zy3QqAAAAAAFb15ZtSfzsz3zhWJ8ZHfd`
+Snapshot ID: `ZzIPegAAAABo8wgskTpku/cWTE4M2vce`

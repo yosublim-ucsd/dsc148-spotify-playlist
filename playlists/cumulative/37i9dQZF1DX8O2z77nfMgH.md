@@ -4,7 +4,7 @@
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Danny Ocean, Kapo
 
-8,821 songs - 19 day 14 hr 3 min
+8,821 songs - 19 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6048,7 +6048,7 @@
 | [Pasarla Bien](https://open.spotify.com/track/5KuLv5XWO2rMESQzd9QfAD) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM) | [Pasarla Bien](https://open.spotify.com/album/5l20i1oR3EmyhRe6COI9LX) | 3:13 | 2024-09-13 | 2024-09-21 |
 | [Pase Lo Que Pase](https://open.spotify.com/track/60qPcH0i1d3VGE0D4VfNvC) | [Christopher Uckermann](https://open.spotify.com/artist/1e1kozSBXGDbaKHnwApmFU) | [Pase Lo Que Pase](https://open.spotify.com/album/0IkmjZNczEQhiIySz5SdiS) | 2:46 | 2024-09-20 | 2024-09-28 |
 | [PASIEMPRE](https://open.spotify.com/track/6hx3WBzrRdG4s8eug9t88Y) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [DATA LOADING.](https://open.spotify.com/album/5cA7Tiks5AezakVn0yQvzh) | 5:43 | 2023-05-26 | 2023-06-03 |
-| [Pasión y Locura](https://open.spotify.com/track/71Xw50dK2D5vyC7Fhkp9Cl) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Pasión y Locura](https://open.spotify.com/album/66M1SsPRNCHKQc50gqNlih) | 4:11 | 2024-11-08 |  |
+| [Pasión y Locura](https://open.spotify.com/track/71Xw50dK2D5vyC7Fhkp9Cl) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Pasión y Locura](https://open.spotify.com/album/66M1SsPRNCHKQc50gqNlih) | 3:50 | 2024-11-08 |  |
 | [Paso A Pasito](https://open.spotify.com/track/0oXXhfxgC0dV4UFvVKLL6J) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Paso A Pasito](https://open.spotify.com/album/65SCAsrB3oSDhqU6HY7r2j) | 2:43 | 2023-04-14 | 2023-04-22 |
 | [PASOS](https://open.spotify.com/track/6QY54aOYP0Cp3VcL8rXckw) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK) | [PASOS](https://open.spotify.com/album/0D3ebTqG1Az1JQ12lgXeo3) | 5:04 | 2024-09-13 | 2024-09-21 |
 | [Pasos Al Costado](https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Pasos Al Costado](https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG) | 4:00 | 2024-10-04 | 2024-10-12 |

@@ -4,11 +4,12 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-346 songs - 17 hr 56 min
+348 songs - 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2024-04-26 |  |
+| [\(Sing It Again\) Nanana \- Original Mix](https://open.spotify.com/track/7cbKcdNGhkUF5mryLb5w7Y) | [Alex Poet](https://open.spotify.com/artist/1tGEWCT1OGYoCGgHEeEqLT), [Tess Leah](https://open.spotify.com/artist/2HG2anwywl9d9XWgmxhAQb) | [\(Sing It Again\) Nanana](https://open.spotify.com/album/2zpHivTdS5WUtMuzxjj6GV) | 2:59 | 2024-11-11 |  |
 | [365](https://open.spotify.com/track/5roFM0I1K6um2yIYL6kGq2) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [365](https://open.spotify.com/album/2Wt63cwVvjqezpEdQcmlkI) | 3:12 | 2023-10-13 | 2024-08-03 |
 | [4U](https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [4U](https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr) | 3:00 | 2024-09-02 |  |
 | [a lesson in chemistry](https://open.spotify.com/track/4PoCaIK1ATTxQvqtTTXFzz) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [a lesson in chemistry](https://open.spotify.com/album/2slYBTkG0mGdQEmQVe6dD3) | 2:07 | 2024-04-26 | 2024-08-03 |
@@ -99,6 +100,7 @@
 | [Eyes On You](https://open.spotify.com/track/3u36EF49p2ysKoof6CLQL5) | [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Eyes On You](https://open.spotify.com/album/5ftgTZhsh7UGGgYmhmD2Xt) | 2:38 | 2023-07-07 | 2024-03-14 |
 | [Faster](https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Faster](https://open.spotify.com/album/4cIrSFEwm1MVc53X9XdACU) | 3:00 | 2023-04-26 | 2024-05-01 |
 | [Fed Up](https://open.spotify.com/track/0W2FEBuoaaipzs6pMLJEbu) | [Bessey](https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA) | [Fed Up](https://open.spotify.com/album/3476yoDproOwL6af1dZKgH) | 2:33 | 2024-08-16 | 2024-10-19 |
+| [Feel The Passion](https://open.spotify.com/track/1FsIirLTiqFlbgEPnmdNzT) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Feel The Passion](https://open.spotify.com/album/01J5Pl4PZKt3wfwOGM4ffA) | 3:00 | 2024-11-11 |  |
 | [Felt Like This](https://open.spotify.com/track/0oaOa99hlXH2ybksGZktWb) | [small talk](https://open.spotify.com/artist/0Y0MMftVchcLvt2ivPyrCQ) | [Felt Like This](https://open.spotify.com/album/4fBykDvyrzN3TsPw8PeLvP) | 2:53 | 2023-08-17 | 2024-03-14 |
 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 | 2023-07-28 | 2024-08-03 |
 | [For Your Love](https://open.spotify.com/track/4CpIeNvdA1g5R6JzGapGGp) | [Max Vangeli](https://open.spotify.com/artist/6Tu9KiWKN5ENQ2VjGCVN18), [Michael Grald](https://open.spotify.com/artist/6PWZqYrlDYcnz4haClAiL6) | [Wish You Were Here Volume One](https://open.spotify.com/album/5UwWNI8XKFoTcRT7BKRy5y) | 2:51 | 2023-05-12 | 2024-03-14 |

@@ -4,7 +4,7 @@
 
 > Motion en good vibes\. Cover: Broederliefde
 
-1,166 songs - 2 day 4 hr 21 min
+1,167 songs - 2 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Asjemenou!](https://open.spotify.com/track/1QznIocZKfjh6aa9u38MiB) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [EMAGE](https://open.spotify.com/artist/3dHbnberWSCpLL2wOvGBYc) | [Asjemenou!](https://open.spotify.com/album/1zUsrvFk6m3GxHErUcHREG) | 2:33 | 2024-08-01 | 2024-10-04 |
 | [Autumn](https://open.spotify.com/track/0HqEMF1lSEXSY16U9b3oK3) | [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop), [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4) | [Autumn](https://open.spotify.com/album/27txhnT0TfhJ7a5p0ql8CN) | 3:43 | 2022-11-17 | 2023-03-25 |
 | [Avec classe \(feat\. Aya Nakamura & Trinix\)](https://open.spotify.com/track/2RqZ8JUBXP4C0nzttGnTL1) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Avec classe \(feat\. Aya Nakamura & Trinix\)](https://open.spotify.com/album/2PeOwsFqU4M5IabYcuMnAL) | 3:06 | 2024-02-03 | 2024-04-26 |
+| [Awuke](https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Awuke](https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL) | 2:52 | 2024-11-11 |  |
 | [B.I.L \(Body in love\)](https://open.spotify.com/track/1KSwUiF1A9sTFLVQtcIY9d) | [Demmaa & Javé](https://open.spotify.com/artist/44j3SrDZgV0BhbXNaDjHj6) | [B.I.L \(Body in love\)](https://open.spotify.com/album/60FRPT9oqCukPEIpVBP32W) | 2:55 | 2023-03-02 | 2023-03-16 |
 | [Baby](https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Baby](https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA) | 2:42 | 2023-01-12 | 2023-06-09 |
 | [Baby Momma](https://open.spotify.com/track/1emiSCbzoWIpfqerJijIRS) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) | [PARTY SAM](https://open.spotify.com/album/0OfEs4Ventri53Ps9kyOna) | 2:05 | 2023-03-23 | 2023-05-12 |
@@ -1100,7 +1101,7 @@
 | [Voelen](https://open.spotify.com/track/5nRkXsHKoDGcXTy4fhy2NO) | [K\-Liber](https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2), [Wowi](https://open.spotify.com/artist/6wMTXQM1eVz7pU83iGskyR) | [TEMPU](https://open.spotify.com/album/2jkAz6LV1sYkMGiVpBNleO) | 2:26 | 2024-08-01 | 2024-09-20 |
 | [Volg Jou](https://open.spotify.com/track/4SZnUuQuA7TGwrSPPdG5do) | [Ajay](https://open.spotify.com/artist/6blOShkI4PDC0gqCk6PQoa) | [Volg Jou](https://open.spotify.com/album/6xjlFTuuOurOT3SjOikP3J) | 2:47 | 2023-05-11 | 2023-06-02 |
 | [Voor Ons](https://open.spotify.com/track/47x5hU2cxGgvteUSv5Dz35) | [Ajay](https://open.spotify.com/artist/6blOShkI4PDC0gqCk6PQoa) | [Voor Ons](https://open.spotify.com/album/3MY8fZjnPk1OYvnBh7PUNV) | 3:18 | 2023-07-20 | 2023-09-15 |
-| [Vrij Zijn](https://open.spotify.com/track/4oNPWOYyHMEp6lvdwxfcOt) | [Julez BP](https://open.spotify.com/artist/5lLXpM8NZjZZyks9IXbaZq), [B4RKIE](https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs) | [Vrij Zijn](https://open.spotify.com/album/6MzbNlCfiwGYvVdVqLjRGZ) | 2:01 | 2024-10-24 |  |
+| [Vrij Zijn](https://open.spotify.com/track/4oNPWOYyHMEp6lvdwxfcOt) | [Julez BP](https://open.spotify.com/artist/5lLXpM8NZjZZyks9IXbaZq), [B4RKIE](https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs) | [Vrij Zijn](https://open.spotify.com/album/6MzbNlCfiwGYvVdVqLjRGZ) | 2:01 | 2024-10-24 | 2024-11-12 |
 | [Vrijgezel](https://open.spotify.com/track/51C9ZDKG7RG8QIeQoCf6we) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp), [FRNKIE](https://open.spotify.com/artist/6gVw7sj444868peBFpH0O4) | [Koude Kermis](https://open.spotify.com/album/2UZ05NpzJ76d06VBQrKWtv) | 2:19 | 2024-09-26 |  |
 | [WACHT MAMI](https://open.spotify.com/track/2wcFwxWIv0RmZaWo2v5Y45) | [Shikss](https://open.spotify.com/artist/1SzciTtL2bewCNpbRTk6z7), [T4L](https://open.spotify.com/artist/3XHQ9kWAPHHBE8DPCF6DQZ) | [WACHT MAMI](https://open.spotify.com/album/2K8LRpB5bNpgLWq2ymcyy7) | 2:26 | 2023-07-06 | 2023-08-18 |
 | [Wacht Op Mij](https://open.spotify.com/track/4YmbvryKSbLnsN1IqAI3eK) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Wacht Op Mij](https://open.spotify.com/album/2WSQUoSEGPgHz5dcZGahpg) | 2:17 | 2023-10-26 | 2023-12-30 |

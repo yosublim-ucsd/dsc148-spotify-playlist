@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Berre.
 
-1,734 songs - 3 day 22 hr 22 min
+1,735 songs - 3 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,7 +529,7 @@
 | [GARÇON](https://open.spotify.com/track/7wZnwgGkwpJ8EYJ6VEJD2A) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [GARÇON](https://open.spotify.com/album/0pgPGBjDayWlzT8eAjjcKG) | 2:24 | 2023-04-17 | 2023-12-16 |
 | [Gelosa](https://open.spotify.com/track/3MjPV83UbVdp3I7qU7XzIG) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Gelosa](https://open.spotify.com/album/12XzMU7JSvQZJPj6brqKEH) | 3:37 | 2022-03-24 | 2022-08-02 |
 | [GENNAIO 24 \(feat\. Caffellatte\)](https://open.spotify.com/track/3wTisd4SJ0raRbJmOuqbXd) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF), [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [GENNAIO 24 \(feat\. Caffellatte\)](https://open.spotify.com/album/5TNxlyrgY5qoyceHYAoAE9) | 2:10 | 2024-01-12 | 2024-04-10 |
-| [Get Loose](https://open.spotify.com/track/6HkECn6elRsylPQmDGmDxq) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK), [Khally](https://open.spotify.com/artist/4PqeHxPLqzI2yCNerkPrES), [SoundClout](https://open.spotify.com/artist/3LcwAiTjlQTT25TtU39kSB), [PravOnTheLoose](https://open.spotify.com/artist/5HvJGgEq2XovGcbdGmWKXg) | [Get Loose](https://open.spotify.com/album/6bPxTPEqF4jd5ugFWShH0A) | 3:15 | 2024-10-25 |  |
+| [Get Loose](https://open.spotify.com/track/6HkECn6elRsylPQmDGmDxq) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK), [Khally](https://open.spotify.com/artist/4PqeHxPLqzI2yCNerkPrES), [SoundClout](https://open.spotify.com/artist/3LcwAiTjlQTT25TtU39kSB), [PravOnTheLoose](https://open.spotify.com/artist/5HvJGgEq2XovGcbdGmWKXg) | [Get Loose](https://open.spotify.com/album/6bPxTPEqF4jd5ugFWShH0A) | 3:15 | 2024-10-25 | 2024-11-12 |
 | [Getcho Mans](https://open.spotify.com/track/10b0n4KwuRyNteJ9WNjrdj) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [Brightside](https://open.spotify.com/album/41f4EFQKt0oSJjq8KCClJZ) | 3:31 | 2022-03-21 | 2022-05-14 |
 | [getting over you](https://open.spotify.com/track/5rhdJxTqcyKOVifBh59TLK) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [clean hands dirty water](https://open.spotify.com/album/2FUHjr1aci78MwzBTsLM91) | 3:07 | 2024-05-17 | 2024-10-05 |
 | [Ghaba](https://open.spotify.com/track/4Zpg4neFtdTJJF4wsrTJRa) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [CTRL](https://open.spotify.com/album/0OyMCkjFdI6EoYeAQlEAjS) | 3:04 | 2022-03-24 | 2022-04-14 |
@@ -779,6 +779,7 @@
 | [Kiss Me](https://open.spotify.com/track/77gIcGklmF2h29kcYByVBU) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [You Were in My Dream Last Night \(Acoustic\) / Kiss Me](https://open.spotify.com/album/6r1WmJiNgwcURRw9ooH6bi) | 3:47 | 2022-02-03 | 2022-08-02 |
 | [Kiss The Ground](https://open.spotify.com/track/4hXc50b59ywx8cdg9KlHCQ) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Turn Off All The Lights](https://open.spotify.com/album/4HE5bl6sodd4gAXj3COIeJ) | 2:35 | 2024-04-19 | 2024-08-31 |
 | [Know Me](https://open.spotify.com/track/4JKjLAoG5vvDeyOraHyl74) | [BERNA](https://open.spotify.com/artist/4r533q4JGGMJ5ufDV6iOed), [Tiny Boost](https://open.spotify.com/artist/7AXuWUXnSqeOfW4Wv29760) | [East2Essex](https://open.spotify.com/album/2GjHFK4AukzIoknJ6FN34B) | 3:01 | 2024-09-13 |  |
+| [KOKO](https://open.spotify.com/track/0WHJJNkkCYGbDNDYUW8RA3) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Hold My Drink, Watch This.](https://open.spotify.com/album/7DTiWmmTONvedPmSiaDYEO) | 2:38 | 2024-11-08 |  |
 | [kraksa](https://open.spotify.com/track/6umyUWnKTDcv6rdSdJ4uSo) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [kraksa](https://open.spotify.com/album/6jU4WJczefdv9viLHQxE6B) | 2:52 | 2022-11-11 | 2023-05-31 |
 | [Krishna sang Radha](https://open.spotify.com/track/3qo3osfNpgjILcztncqWPX) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Krishna sang Radha](https://open.spotify.com/album/2uUFXxGxjpBw5A554xP2Ll) | 3:42 | 2024-02-09 | 2024-04-13 |
 | [Kung Fu](https://open.spotify.com/track/0tofuAPwrPfzajixmn1Ryg) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [Kung Fu](https://open.spotify.com/album/2RAiyvUcSRHt0l4Sn3D8PV) | 3:25 | 2022-02-03 | 2022-08-02 |

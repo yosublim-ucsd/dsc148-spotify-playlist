@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Bamboo Flower",
+        "url": "https://open.spotify.com/album/1zO0gVfzd23EV9aClGcj4A"
+      },
+      "artists": [
+        {
+          "name": "Nestos",
+          "url": "https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142523,
+      "name": "Bamboo Flower",
+      "url": "https://open.spotify.com/track/4hTRQrmOHqspSmXEoGLJiv"
+    },
+    {
+      "album": {
         "name": "Be Still",
         "url": "https://open.spotify.com/album/1gvsrIGxIiF2SR4k9CKpmA"
       },
@@ -326,6 +344,24 @@
       "duration_ms": 232359,
       "name": "Be Still",
       "url": "https://open.spotify.com/track/6utouovyBS1d0wN4UmMhWu"
+    },
+    {
+      "album": {
+        "name": "Becoming Whole",
+        "url": "https://open.spotify.com/album/4YvxgMPH4Qf99ktvlTdRE0"
+      },
+      "artists": [
+        {
+          "name": "Polarsken",
+          "url": "https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238028,
+      "name": "Becoming Whole",
+      "url": "https://open.spotify.com/track/37TD68NoX5h5ITjz2C6Zl8"
     },
     {
       "album": {
@@ -578,6 +614,24 @@
       "duration_ms": 195000,
       "name": "Callisto",
       "url": "https://open.spotify.com/track/0kDtcfMhgxjM2zSwPypNcd"
+    },
+    {
+      "album": {
+        "name": "Calm Seas Ahead",
+        "url": "https://open.spotify.com/album/51aKPUF5srSSPjx2OecFiL"
+      },
+      "artists": [
+        {
+          "name": "L'air",
+          "url": "https://open.spotify.com/artist/48mOczJJlQ7xa3UuJeOnAd"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133548,
+      "name": "Calm Seas Ahead",
+      "url": "https://open.spotify.com/track/5mChSGUFfjBabTTw8SeZMG"
     },
     {
       "album": {
@@ -3220,7 +3274,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 173847,
       "name": "Savitri",
       "url": "https://open.spotify.com/track/5vjexs7Iu9LZksyyLAQ1JF"
@@ -4182,7 +4236,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 120044,
       "name": "Tranquil Moments",
       "url": "https://open.spotify.com/track/6B2ciPj4fYqyE1YMh6GIrA"

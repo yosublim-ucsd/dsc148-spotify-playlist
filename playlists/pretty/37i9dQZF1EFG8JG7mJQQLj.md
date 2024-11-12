@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,662 likes - 442 songs - 1 day 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,673 likes - 442 songs - 1 day 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 90 | [Didn't I](https://open.spotify.com/track/2IpeTEPICyB66jjg2hU4Vg) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:27 |
 | 91 | [Somebody](https://open.spotify.com/track/3buwFfY33H32wfZ6X9poV3) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:59 |
 | 92 | [Faith \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/3KuZx7FPNcqXG8YFN5Y0OG) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Faith \(From "Sing" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2vcfCbzB0B72zI8fF5zBEv) | 2:40 |
-| 93 | [Cry for Me](https://open.spotify.com/track/1Ff71LUQO0KBk5Slu3K6Vu) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:09 |
-| 94 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 |
+| 93 | [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 |
+| 94 | [Cry for Me](https://open.spotify.com/track/1Ff71LUQO0KBk5Slu3K6Vu) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:09 |
 | 95 | [Better Luck Next Time](https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Better Luck Next Time](https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6) | 2:52 |
 | 96 | [Why Do You Love Me](https://open.spotify.com/track/09rBX6mQFN1GFJgfqUQak5) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Charlotte](https://open.spotify.com/album/0UkABhrJ1PM3iQ1NxAxDsq) | 2:51 |
 | 97 | [Stay the Night](https://open.spotify.com/track/7FFl1IHSsPWsfUCladsCl9) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Some Kind of Trouble \(Deluxe Edition\)](https://open.spotify.com/album/5b6T7m3DbNlWTwnaiuic2W) | 3:36 |
@@ -361,8 +361,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 351 | [Red Light Green Light](https://open.spotify.com/track/3YM33EBnwRe7G7aUPVQ7lY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:15 |
 | 352 | [Labels](https://open.spotify.com/track/65kmIUkajl0F8hjsxmkyHN) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Waves](https://open.spotify.com/album/1mH4ntQRUk1akxx6WNST8q) | 2:59 |
 | 353 | [Alone \(From "Songland"\)](https://open.spotify.com/track/6k3uSJ2OsGr0tQAIPhXNkS) | [Josh Wood](https://open.spotify.com/artist/1HRIzEYLoNSJoKLjkQnUbe) | [Alone \(From "Songland"\)](https://open.spotify.com/album/6XdiKayoiuZEznkQyo57cv) | 2:29 |
-| 354 | [Strike the Match](https://open.spotify.com/track/7GwZnHs1t5bzzXjsqgtigW) | [Monrose](https://open.spotify.com/artist/6y5noymXdPvXf7wjIAgQOY) | [I Am](https://open.spotify.com/album/2Nhz0KfLNdiNwlGy8GeOTb) | 2:56 |
-| 355 | [Room For You](https://open.spotify.com/track/0ZR0D8BOyH1b8vtrSnA5Xu) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:47 |
+| 354 | [Room For You](https://open.spotify.com/track/0ZR0D8BOyH1b8vtrSnA5Xu) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:47 |
+| 355 | [Strike the Match](https://open.spotify.com/track/7GwZnHs1t5bzzXjsqgtigW) | [Monrose](https://open.spotify.com/artist/6y5noymXdPvXf7wjIAgQOY) | [I Am](https://open.spotify.com/album/2Nhz0KfLNdiNwlGy8GeOTb) | 2:56 |
 | 356 | [Something New \(From "Songland"\)](https://open.spotify.com/track/50Bj5QzuSCCVK5RQVTZ1lq) | [Ollie Gabriel](https://open.spotify.com/artist/4TNVwxe6cso3F2sGxA2KLG) | [Something New \(From "Songland"\)](https://open.spotify.com/album/1tg1aHD3MEqCdveJvJnlQm) | 3:37 |
 | 357 | [Better \- The Launch Season 2](https://open.spotify.com/track/6qAAv1B27xMGH9FYGvfI3H) | [Cassiøpeia](https://open.spotify.com/artist/5CFPBKGpWF6x5Y4HfRXR4S), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7), [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Better \(The Launch Season 2\)](https://open.spotify.com/album/43MrgZTpQo65Cst3QhxoOP) | 3:03 |
 | 358 | [Enemy](https://open.spotify.com/track/0fC0DPtpNvrc3jQmLdPGIb) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Scream](https://open.spotify.com/album/5S0nZaBZCnu3bN5UjfjtmZ) | 4:35 |
@@ -451,4 +451,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 441 | [All I Ever Wanted](https://open.spotify.com/track/6tUyTMQms7mQdaRiyLizCu) | [The Faith Crew](https://open.spotify.com/artist/4rdDVgScRyE4NTocYd30Qi) | [Tribute to Margaret Becker & Jeremy Camp](https://open.spotify.com/album/6ZjxpWsEm2ewK4K2PdJVXM) | 4:43 |
 | 442 | [Born To Race](https://open.spotify.com/track/0yWGRRHjwNOdApEm2gbbex) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [The Artificial Paradise Tour 中国巡演特别版](https://open.spotify.com/album/50PJ47XqwSZXA8Q165lDZW) | 3:11 |
 
-Snapshot ID: `AbhKfgAAAACI4c1nlExj6MI87O3QvYQU`
+Snapshot ID: `AbhQHgAAAAA7Y5ShDVHdkY0qTrn/IXoS`

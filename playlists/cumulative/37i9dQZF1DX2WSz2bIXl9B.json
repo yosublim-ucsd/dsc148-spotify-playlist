@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "P\u00f3dcasts que necesitas mantener en tu RADAR: ConPdePodcast, La Cr\u00f3nica Oscura, Las Aut\u00e9nticas se\u00f1oras de la  calle Lista, Tu amiga psic\u00f3loga y Sobre las palabras p\u00f3dcast",
+  "description": "P\u00f3dcasts que necesitas mantener en tu RADAR: ConPdePodcast, La Cr\u00f3nica Oscura, Las Aut\u00e9nticas se\u00f1oras de la  calle Lista, Tu amiga psic\u00f3loga y Sobre las palabras p\u00f3dcast\n\nEn portada, Las Aut\u00e9nticas se\u00f1oras de la  calle Lista",
   "name": "RADAR Creators Espa\u00f1a",
   "tracks": [
     {
@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "ConPdePodcast",
+        "url": "https://open.spotify.com/album/4AhEmw5ZD5qOT1O3KeuwRu"
+      },
+      "artists": [
+        {
+          "name": "ConPdePodcast",
+          "url": "https://open.spotify.com/show/4AhEmw5ZD5qOT1O3KeuwRu"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4553377,
+      "name": "CPDP #45 | Juan Daniel G\u00f3mez | Entrevista a un PSIC\u00d3PATA (Trastorno antisocial de la personalidad)",
+      "url": "https://open.spotify.com/episode/3WHCYJEBPTeV4nMOsmy5wJ"
+    },
+    {
+      "album": {
         "name": "Nadie hablar\u00e1 de nosotras",
         "url": "https://open.spotify.com/show/18YtE7Ed8UPaTSZpqESG0B"
       },
@@ -686,6 +704,24 @@
       "duration_ms": 1779123,
       "name": "De miedo a oportunidad. Entendiendo las redes sociales y sus consecuencias para que no nos afecten negativamente. ",
       "url": "https://open.spotify.com/episode/3NbdBPyLhAwcqO2tsE3cfG"
+    },
+    {
+      "album": {
+        "name": "Tu amiga psic\u00f3loga",
+        "url": "https://open.spotify.com/album/5jHbGDtJG7Y0DSU1XQHJKf"
+      },
+      "artists": [
+        {
+          "name": "Tu amiga psic\u00f3loga",
+          "url": "https://open.spotify.com/show/5jHbGDtJG7Y0DSU1XQHJKf"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1248000,
+      "name": "Deshacerse de los est\u00e1ndares sociales sobre la belleza",
+      "url": "https://open.spotify.com/episode/7uhnJGqyb4fBbkqCm4WJxb"
     },
     {
       "album": {
@@ -884,6 +920,24 @@
       "duration_ms": 5771605,
       "name": "Estos mitos sobre SEXO est\u00e1n ARRUINANDO tus relaciones (Ra\u00fal Mac\u00cdas - Sex\u00f3logo)",
       "url": "https://open.spotify.com/episode/19i8BmaaeDigmmgjwZLeF9"
+    },
+    {
+      "album": {
+        "name": "La Cr\u00f3nica Oscura",
+        "url": "https://open.spotify.com/album/1gIOIXYHYKdu2osi0eNsBc"
+      },
+      "artists": [
+        {
+          "name": "La Cr\u00f3nica Oscura",
+          "url": "https://open.spotify.com/show/1gIOIXYHYKdu2osi0eNsBc"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1244691,
+      "name": "Expediente Vallecas: El terror de la familia Guti\u00e9rrez L\u00e1zaro",
+      "url": "https://open.spotify.com/episode/4dR9svlG4TZvXlDjKyMHmF"
     },
     {
       "album": {
@@ -1316,6 +1370,42 @@
       "duration_ms": 3799109,
       "name": "Sudakas y gordas: conversaciones m\u00e1s all\u00e1 de la talla",
       "url": "https://open.spotify.com/episode/4XOVZf1SUbmNJu6YB9raom"
+    },
+    {
+      "album": {
+        "name": "Sobran Las Palabras Podcast",
+        "url": "https://open.spotify.com/album/0cTWV2uMImJk9I9Vuq6ei9"
+      },
+      "artists": [
+        {
+          "name": "Sobran Las Palabras Podcast",
+          "url": "https://open.spotify.com/show/0cTWV2uMImJk9I9Vuq6ei9"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4364181,
+      "name": "Te est\u00e1n manipulando y no lo sabes (D\u00e9borah Murcia Psic\u00f3loga)",
+      "url": "https://open.spotify.com/episode/5ZZ3SdtXhdf3Uu7zvZ6j0C"
+    },
+    {
+      "album": {
+        "name": "Las Aut\u00e9nticas Se\u00f1oras de la Calle Lista",
+        "url": "https://open.spotify.com/album/1IZ5rxtfT6KlWdQdBKIKj6"
+      },
+      "artists": [
+        {
+          "name": "Las Aut\u00e9nticas Se\u00f1oras de la Calle Lista",
+          "url": "https://open.spotify.com/show/1IZ5rxtfT6KlWdQdBKIKj6"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 8170501,
+      "name": "The Fast & The Pombo: Pombo Drift (con @maruohcrepe)",
+      "url": "https://open.spotify.com/episode/7HjhqK7SNdIaMpFFDohaP4"
     },
     {
       "album": {

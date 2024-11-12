@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf?si=NHL35wDIT5u0dCi\-ujAAoA">Musa Keys</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,870 likes - 64 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,916 likes - 64 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

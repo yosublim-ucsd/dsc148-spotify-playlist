@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,101 songs - 2 day 8 hr 49 min
+1,102 songs - 2 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -758,6 +758,7 @@
 | [PROTO](https://open.spotify.com/track/5WXG9E9O3oluBfbhrmqVTQ) | [CORTR](https://open.spotify.com/artist/7tGnQKzE0tFRKKK7gf8cYV), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [PROTO](https://open.spotify.com/album/2nmXZ2b70QuQEED3P0KrGx) | 3:15 | 2023-07-28 | 2023-10-14 |
 | [Psycho](https://open.spotify.com/track/6vE6GD6TFiVxvYMf8gnsVO) | [Player1](https://open.spotify.com/artist/531qdIZUdxxz8LQ4j63zTP), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Psycho](https://open.spotify.com/album/0OJO9LcoVJT0rSwZkfaxsb) | 3:36 | 2022-03-01 | 2022-04-02 |
 | [Psychopath](https://open.spotify.com/track/5dODr3iRHeaaHb2bx2j8O5) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [MY MASOCHISTIC MIND](https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt) | 3:00 | 2023-12-01 |  |
+| [Pumpfake](https://open.spotify.com/track/6GwdfiUA3p0zyXpP7LelL5) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Towa](https://open.spotify.com/artist/0deFUk9nP4wGKSUc20yJgm) | [Pumpfake](https://open.spotify.com/album/0E1PmBhE7u7iR2ifVyAoCP) | 1:33 | 2024-11-11 |  |
 | [Quick Musical Doodles](https://open.spotify.com/track/7tZdkPtebOG29TzPPHlsem) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [First Steps](https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc) | 2:24 | 2023-05-02 |  |
 | [QÜICKSAND](https://open.spotify.com/track/3n9vRGay2e7xUvfWpWbgtg) | [8Ö8](https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU), [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [QÜICKSAND](https://open.spotify.com/album/2G5Oh5U6UpS8fY5GqtVzw9) | 2:49 | 2022-10-29 | 2022-11-24 |
 | [R U READY!](https://open.spotify.com/track/6jXbYeTwVGfL6BxI3aQAXE) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [R U READY!](https://open.spotify.com/album/2l8chbtGJ3adSqwYauGWrT) | 3:40 | 2022-04-21 | 2022-09-15 |
@@ -1092,7 +1093,7 @@
 | [XO Tour Llif3](https://open.spotify.com/track/7mBXbW1sDFjhAgvDcSp0MD) | [Dyzphoria](https://open.spotify.com/artist/6SehYBqIfg08SBrc7Ydreg) | [XO Tour Llif3](https://open.spotify.com/album/28dINuwG3JE6RPxTkbZ2Q7) | 3:07 | 2022-09-09 | 2022-10-08 |
 | [Yeah!](https://open.spotify.com/track/1L9Ap8KcIC7oiwVISVW4If) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9), [Tommy Rage](https://open.spotify.com/artist/4o5B573iIdWZIcoObwx11j), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [Yeah!](https://open.spotify.com/album/016KUKMAlAj8UifThxO0aK) | 3:10 | 2022-03-25 | 2022-04-30 |
 | [Yesterday](https://open.spotify.com/track/76pR2Xb4rDq3oD3ZvKz3oG) | [Yohan Gerber](https://open.spotify.com/artist/0KxXlISC2jglmPDAGGBlra), [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF), [Johnny Chicago](https://open.spotify.com/artist/3zvkVa6tS4vVWltR4CLNV4) | [Yesterday](https://open.spotify.com/album/6wJukX3Sv3jeTNB7Y0SaLe) | 2:17 | 2022-02-15 | 2022-03-19 |
-| [Yo Bunny](https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z), [Ugly Andz.](https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW) | [Yo Bunny](https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2) | 1:50 | 2024-07-01 |  |
+| [Yo Bunny](https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z), [Ugly Andz.](https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW) | [Yo Bunny](https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2) | 1:50 | 2024-07-01 | 2024-11-12 |
 | [You](https://open.spotify.com/track/7rTR3DufvKn8rtqXpQFMPc) | [Kevin Moffat](https://open.spotify.com/artist/4Zh8RbreKzAmz6ThNMwW6K) | [You](https://open.spotify.com/album/2JNfMAquI3jVKKJ8jTRNHw) | 3:34 | 2023-09-12 | 2023-11-18 |
 | [You & Me](https://open.spotify.com/track/6x0AOtecjYmJrIXoenPYez) | [Jordan Comolli](https://open.spotify.com/artist/0OirGRY55NlQeqOHKhvpbm) | [You & Me](https://open.spotify.com/album/220ZycntNAIw9Wrj3tbvLs) | 2:52 | 2022-01-14 | 2022-02-17 |
 | [You Left Behind](https://open.spotify.com/track/4pDrjPW3XOx4sNSNjpJFNR) | [Kevlah](https://open.spotify.com/artist/4Tg7iHwHWqSkjQOsg8wNRj), [Constance](https://open.spotify.com/artist/6TkolBM4MZMH9ed7Vln8Tq) | [You Left Behind](https://open.spotify.com/album/1QFKxz3WF8YKrkAalYi11c) | 3:44 | 2022-01-28 | 2022-02-16 |

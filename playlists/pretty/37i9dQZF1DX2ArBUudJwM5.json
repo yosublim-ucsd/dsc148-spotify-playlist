@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen, con La Valenti en portada.",
-  "num_followers": 40454,
+  "num_followers": 40453,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
+        "name": "No Te Olvidar\u00e1s de M\u00ed",
+        "url": "https://open.spotify.com/album/1tXtQSNP3Pxa4uzFnyvHrr"
+      },
+      "artists": [
+        {
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+        }
+      ],
+      "duration_ms": 160660,
+      "name": "No Te Olvidaras De Mi",
+      "url": "https://open.spotify.com/track/6HsaOUdhk1j8Na70BI4Iyh"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
         "name": "Dolores",
         "url": "https://open.spotify.com/album/0pA9AZv8Looc0TBrAc6tox"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 220000,
       "name": "Esa Morena",
       "url": "https://open.spotify.com/track/76kwOCNPsGRkGWweVDDSkp"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
-        "name": "No Te Olvidar\u00e1s de M\u00ed",
-        "url": "https://open.spotify.com/album/1tXtQSNP3Pxa4uzFnyvHrr"
-      },
-      "artists": [
-        {
-          "name": "Chechi de Marcos",
-          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
-        }
-      ],
-      "duration_ms": 160660,
-      "name": "No Te Olvidaras De Mi",
-      "url": "https://open.spotify.com/track/6HsaOUdhk1j8Na70BI4Iyh"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
+        "name": "Cuando Sea Grande",
+        "url": "https://open.spotify.com/album/6JVKbotUObykq6GfLYcVJL"
+      },
+      "artists": [
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        }
+      ],
+      "duration_ms": 147316,
+      "name": "Cuando Sea Grande",
+      "url": "https://open.spotify.com/track/5QHMeQzf99dGl2WwTqiOu0"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
         "name": "Puente",
         "url": "https://open.spotify.com/album/4pZuETz9Bpb1C6UIDmG4H2"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 186991,
       "name": "Luna Llena",
       "url": "https://open.spotify.com/track/2LrslpUNiCTiY0fQNN2XLz"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
-        "name": "Cuando Sea Grande",
-        "url": "https://open.spotify.com/album/6JVKbotUObykq6GfLYcVJL"
-      },
-      "artists": [
-        {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
-        }
-      ],
-      "duration_ms": 147316,
-      "name": "Cuando Sea Grande",
-      "url": "https://open.spotify.com/track/5QHMeQzf99dGl2WwTqiOu0"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG"
+      },
+      "artists": [
+        {
+          "name": "La Maurette",
+          "url": "https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI"
+        }
+      ],
+      "duration_ms": 178091,
+      "name": "No Llores",
+      "url": "https://open.spotify.com/track/01RLcajwLJM2uy5eyVZv5Y"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
         "name": "YA WEY",
         "url": "https://open.spotify.com/album/5L9gpF5XMzJGh79Fc3sJp5"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 251908,
       "name": "YA WEY",
       "url": "https://open.spotify.com/track/7pFpL34LA8ApmRSwGFNyPl"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG"
-      },
-      "artists": [
-        {
-          "name": "La Maurette",
-          "url": "https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI"
-        }
-      ],
-      "duration_ms": 178091,
-      "name": "No Llores",
-      "url": "https://open.spotify.com/track/01RLcajwLJM2uy5eyVZv5Y"
     },
     {
       "added_at": "2024-11-07 03:00:00",

@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: KIM A REUM\(김아름\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-809 songs - 2 day 1 hr 21 min
+810 songs - 2 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,7 @@
 | [Idle Idle](https://open.spotify.com/track/17I6f6dlUmBQxHCBTWPBxT) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Idle Idle](https://open.spotify.com/album/5oJiWLZ8JGsYPh9Pdq9D2s) | 3:38 | 2021-12-21 | 2022-07-25 |
 | [IF](https://open.spotify.com/track/2cFHTpYafyQ6VpiHF80fd2) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Check Out the Event OST Part.2](https://open.spotify.com/album/3xYTqbkLQqCkmiWYPbuwWO) | 4:27 | 2022-04-12 | 2022-04-19 |
 | [If You Ask Me](https://open.spotify.com/track/0jMjxod5Cu2IirSSBtTCVj) | [H a lot](https://open.spotify.com/artist/7y4bU9vQjZWOgfXAcVr0lj) | [H A Lot](https://open.spotify.com/album/37Fb9M3I9qJXQb2chzyRcd) | 5:00 | 2022-03-31 | 2022-04-13 |
-| [illusion](https://open.spotify.com/track/4XCAlLo7g42LPo75r5NCp5) | [H3ATHR SUN](https://open.spotify.com/artist/2pAWdjODAxk0MZPrmJEC3k) | [illusion](https://open.spotify.com/album/2ILzQn5owgy1T1RKRuHxGV) | 3:28 | 2024-11-06 |  |
+| [illusion](https://open.spotify.com/track/4XCAlLo7g42LPo75r5NCp5) | [H3ATHR SUN](https://open.spotify.com/artist/2pAWdjODAxk0MZPrmJEC3k) | [illusion](https://open.spotify.com/album/2ILzQn5owgy1T1RKRuHxGV) | 3:28 | 2024-11-06 | 2024-11-12 |
 | [Imagine](https://open.spotify.com/track/624iXR8lRUaDBDIQxe3SBz) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Imagine](https://open.spotify.com/album/7dEuc4k6n1DS9MhCNQbEQA) | 4:17 | 2022-03-31 | 2022-04-15 |
 | [Imjingang](https://open.spotify.com/track/3BmG7jdRLhMRE3iAzArS64) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [Imjingang](https://open.spotify.com/album/4KbaB2qYAt90JLZzLtlsuT) | 3:23 | 2021-12-21 | 2022-04-18 |
 | [In a Long Dream 긴 꿈에서](https://open.spotify.com/track/2COpI174I7hdU2omQgTP1n) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Short Film 'Sequence \#2'](https://open.spotify.com/album/1rB27S5Df8J5HLjOu74ttJ) | 4:12 | 2022-03-31 | 2022-04-27 |
@@ -551,6 +551,7 @@
 | [RAL 9002 \(Feat\. Heize\)](https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [RAL 9002](https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY) | 3:09 | 2021-12-12 | 2024-07-13 |
 | [Rather Go Blind](https://open.spotify.com/track/7rBO40xtZaRkpxXKnEQa26) | [ZAYSTIN](https://open.spotify.com/artist/7BQgVJEUzCUX8Q2KZDgrH8) | [Rather Go Blind](https://open.spotify.com/album/6XAmqfdbVy1lpNqMppNg7m) | 3:58 | 2022-03-31 | 2022-04-08 |
 | [Rawww](https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem) | 2:40 | 2021-12-21 | 2024-07-27 |
+| [Red Flag](https://open.spotify.com/track/3aIQnhaDEZbLOSbos64xXP) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [Red Flag](https://open.spotify.com/album/5NplbE4HAUdejPhDiHsylB) | 3:10 | 2024-11-11 |  |
 | [Red Lines](https://open.spotify.com/track/1YJ5G3mdv6Bps9XhbIv89E) | [Pony](https://open.spotify.com/artist/4Lxb5bo6TR7l8QL8UxDdd6), [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [The Pacific Ocean 태평양](https://open.spotify.com/album/21CrO1TGS7e9tTuRzaOiqX) | 2:41 | 2022-03-31 | 2022-04-19 |
 | [red moon](https://open.spotify.com/track/7000j12fd01Z1ITmTZLqPZ) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [red moon](https://open.spotify.com/album/7APF2jKLoT8nUp8hUnq1eq) | 4:18 | 2022-12-06 | 2023-01-05 |
 | [Red Shadow](https://open.spotify.com/track/2sz5VZfkWaq9z1jv7ACpgD) | [deadpaints](https://open.spotify.com/artist/6J9uyUQkWxDxvfNiwdwYhh) | [Mirrored Dream](https://open.spotify.com/album/4r9YoQ5dGcIBcpgPVmxk5n) | 3:58 | 2024-05-08 | 2024-05-10 |

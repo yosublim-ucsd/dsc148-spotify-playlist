@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 735128,
+  "num_followers": 735281,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-10-25 19:44:37",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
-    },
-    {
-      "added_at": "2024-10-25 19:44:37",
-      "album": {
         "name": "Into The Blue",
         "url": "https://open.spotify.com/album/41Ss3n0sbQ4RSmWtVmQOnz"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 230466,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/4FKxGDh5UrcXdQwvYcLsi7"
+    },
+    {
+      "added_at": "2024-10-25 19:44:37",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
     },
     {
       "added_at": "2024-10-25 19:44:37",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-10-25 19:44:37",
       "album": {
-        "name": "Love Hate Music Box",
-        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 181390,
-      "name": "Meticulous",
-      "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
-    },
-    {
-      "added_at": "2024-10-25 19:44:37",
-      "album": {
         "name": "Pronounced McGee",
         "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 310597,
       "name": "You",
       "url": "https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0"
+    },
+    {
+      "added_at": "2024-10-25 19:44:37",
+      "album": {
+        "name": "Love Hate Music Box",
+        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 181390,
+      "name": "Meticulous",
+      "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
     },
     {
       "added_at": "2024-10-25 19:44:37",
@@ -743,38 +743,6 @@
     {
       "added_at": "2024-10-25 19:44:37",
       "album": {
-        "name": "Juno",
-        "url": "https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 171897,
-      "name": "Anthony Kiedis",
-      "url": "https://open.spotify.com/track/3xJu5hrOU9OvFQSGLQiwQS"
-    },
-    {
-      "added_at": "2024-10-25 19:44:37",
-      "album": {
-        "name": "Run Your Mouth",
-        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
-    },
-    {
-      "added_at": "2024-10-25 19:44:37",
-      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/0J3nz9lYQ4LjfKkfyAy0VB"
       },
@@ -791,6 +759,22 @@
     {
       "added_at": "2024-10-25 19:44:37",
       "album": {
+        "name": "Juno",
+        "url": "https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 171897,
+      "name": "Anthony Kiedis",
+      "url": "https://open.spotify.com/track/3xJu5hrOU9OvFQSGLQiwQS"
+    },
+    {
+      "added_at": "2024-10-25 19:44:37",
+      "album": {
         "name": "You're so Fine",
         "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 173133,
       "name": "You're so Fine",
       "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
+    },
+    {
+      "added_at": "2024-10-25 19:44:37",
+      "album": {
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-10-25 19:44:37",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-10-25 19:44:37",
       "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
-      },
-      "artists": [
-        {
-          "name": "Kowloon",
-          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
-        }
-      ],
-      "duration_ms": 248526,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
-    },
-    {
-      "added_at": "2024-10-25 19:44:37",
-      "album": {
         "name": "The Way That I Do",
         "url": "https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 210329,
       "name": "The Way That I Do",
       "url": "https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY"
+    },
+    {
+      "added_at": "2024-10-25 19:44:37",
+      "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
+      },
+      "artists": [
+        {
+          "name": "Kowloon",
+          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
+        }
+      ],
+      "duration_ms": 248526,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
     },
     {
       "added_at": "2024-10-25 19:44:37",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-10-25 19:44:37",
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 213328,
-      "name": "Hospital",
-      "url": "https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd"
-    },
-    {
-      "added_at": "2024-10-25 19:44:37",
-      "album": {
         "name": "Hunt for the Wilderpeople (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg"
       },
@@ -1607,6 +1591,22 @@
     {
       "added_at": "2024-10-25 19:44:37",
       "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 213328,
+      "name": "Hospital",
+      "url": "https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd"
+    },
+    {
+      "added_at": "2024-10-25 19:44:37",
+      "album": {
         "name": "Dusk at Cubist Castle",
         "url": "https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh"
       },
@@ -1619,22 +1619,6 @@
       "duration_ms": 112066,
       "name": "Jumping Fences",
       "url": "https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt"
-    },
-    {
-      "added_at": "2024-10-25 19:44:37",
-      "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/6HpB2a7hn3T1gKcxIVWN8L"
-      },
-      "artists": [
-        {
-          "name": "Kowloon",
-          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
-        }
-      ],
-      "duration_ms": 239311,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/3FKJaFrmNNDuYeUSY8HhmF"
     },
     {
       "added_at": "2024-10-25 19:44:37",
@@ -1667,6 +1651,22 @@
       "duration_ms": 169266,
       "name": "Clara Clairvoyant",
       "url": "https://open.spotify.com/track/6zxLYIQWWvfyz6sYEOzSzf"
+    },
+    {
+      "added_at": "2024-10-25 19:44:37",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/6HpB2a7hn3T1gKcxIVWN8L"
+      },
+      "artists": [
+        {
+          "name": "Kowloon",
+          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
+        }
+      ],
+      "duration_ms": 239311,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/3FKJaFrmNNDuYeUSY8HhmF"
     },
     {
       "added_at": "2024-10-25 19:44:37",
@@ -1719,6 +1719,26 @@
     {
       "added_at": "2024-10-25 19:44:37",
       "album": {
+        "name": "Agony and Extasy",
+        "url": "https://open.spotify.com/album/3yfSVfDxOky6qRlToEqSE2"
+      },
+      "artists": [
+        {
+          "name": "The Diddys",
+          "url": "https://open.spotify.com/artist/2Zj8m3tpo7XHoHRinEHsQr"
+        },
+        {
+          "name": "Paige Douglas",
+          "url": "https://open.spotify.com/artist/5msvOxnkzvdc94IwbfAAKt"
+        }
+      ],
+      "duration_ms": 278040,
+      "name": "Intergalactic Love Song",
+      "url": "https://open.spotify.com/track/29pSTaZjWmJtJhJtnxIMaK"
+    },
+    {
+      "added_at": "2024-10-25 19:44:37",
+      "album": {
         "name": "Kathy and Paul",
         "url": "https://open.spotify.com/album/6kyQHx273kGzLd4Z8ogt4C"
       },
@@ -1739,26 +1759,6 @@
       "duration_ms": 174311,
       "name": "Kathy and Paul",
       "url": "https://open.spotify.com/track/0FzYtu4DEKZkNxpxl7VXw6"
-    },
-    {
-      "added_at": "2024-10-25 19:44:37",
-      "album": {
-        "name": "Agony and Extasy",
-        "url": "https://open.spotify.com/album/3yfSVfDxOky6qRlToEqSE2"
-      },
-      "artists": [
-        {
-          "name": "The Diddys",
-          "url": "https://open.spotify.com/artist/2Zj8m3tpo7XHoHRinEHsQr"
-        },
-        {
-          "name": "Paige Douglas",
-          "url": "https://open.spotify.com/artist/5msvOxnkzvdc94IwbfAAKt"
-        }
-      ],
-      "duration_ms": 278040,
-      "name": "Intergalactic Love Song",
-      "url": "https://open.spotify.com/track/29pSTaZjWmJtJhJtnxIMaK"
     },
     {
       "added_at": "2024-10-25 19:44:37",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2024-10-25 19:44:37",
       "album": {
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
+      },
+      "artists": [
+        {
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+        }
+      ],
+      "duration_ms": 275746,
+      "name": "Canta",
+      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
+    },
+    {
+      "added_at": "2024-10-25 19:44:37",
+      "album": {
         "name": "Get On The Otherside",
         "url": "https://open.spotify.com/album/2S16kNpGs1zn39HYwcLaJ3"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 229080,
       "name": "The Otherside",
       "url": "https://open.spotify.com/track/7dXYHyEg7TdcnbwcG3R0xG"
-    },
-    {
-      "added_at": "2024-10-25 19:44:37",
-      "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
-      },
-      "artists": [
-        {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
-        }
-      ],
-      "duration_ms": 275746,
-      "name": "Canta",
-      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
     },
     {
       "added_at": "2024-10-25 19:44:37",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-10-25 19:44:37",
       "album": {
-        "name": "Freedom to Talk",
-        "url": "https://open.spotify.com/album/1TLnvPTgtZXvCGhIvzl2pf"
-      },
-      "artists": [
-        {
-          "name": "Acidslop",
-          "url": "https://open.spotify.com/artist/0BZg8Kjli49s7olznI1vs8"
-        }
-      ],
-      "duration_ms": 233500,
-      "name": "Lament for the Sky",
-      "url": "https://open.spotify.com/track/6O20789Z3l8ttvdxHJgzqy"
-    },
-    {
-      "added_at": "2024-10-25 19:44:37",
-      "album": {
         "name": "Turn The World On",
         "url": "https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3"
       },
@@ -1931,6 +1915,22 @@
     {
       "added_at": "2024-10-25 19:44:37",
       "album": {
+        "name": "Freedom to Talk",
+        "url": "https://open.spotify.com/album/1TLnvPTgtZXvCGhIvzl2pf"
+      },
+      "artists": [
+        {
+          "name": "Acidslop",
+          "url": "https://open.spotify.com/artist/0BZg8Kjli49s7olznI1vs8"
+        }
+      ],
+      "duration_ms": 233500,
+      "name": "Lament for the Sky",
+      "url": "https://open.spotify.com/track/6O20789Z3l8ttvdxHJgzqy"
+    },
+    {
+      "added_at": "2024-10-25 19:44:37",
+      "album": {
         "name": "Stunning & Atrocious",
         "url": "https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH"
       },
@@ -1947,18 +1947,18 @@
     {
       "added_at": "2024-10-25 19:44:37",
       "album": {
-        "name": "Sad Dream",
-        "url": "https://open.spotify.com/album/2HIWjaGWNOazjOiF7cpUrr"
+        "name": "Rare Singles and Previously Unreleased Masters, Vol. 1",
+        "url": "https://open.spotify.com/album/1S438eS0BpzwR6HMQtO0e3"
       },
       "artists": [
         {
-          "name": "EchoWave",
-          "url": "https://open.spotify.com/artist/6cRSP0k82PWTiEmLPqwrTI"
+          "name": "Jim Ford",
+          "url": "https://open.spotify.com/artist/24caHjJclAtCI8Ld7Az8l1"
         }
       ],
-      "duration_ms": 220188,
-      "name": "Sad Dream",
-      "url": "https://open.spotify.com/track/6k8jlEH1WssLwzXHfZGq3j"
+      "duration_ms": 200226,
+      "name": "She Turns My Radio On",
+      "url": "https://open.spotify.com/track/60Lr94URXKMqK6KqEgyFH8"
     }
   ],
   "unique_name": "Feel Good Dinner",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH?si=7jfvStp6S8aIJauRerC6Og">Vigro Deep</a>, <a href="https://open.spotify.com/artist/1okK7TdfTbLQbgSG1hejiY?si=GoLYWoT2SuGnEVXm4g2w3A">Freddy K</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 895,167 likes - 64 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 895,733 likes - 64 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

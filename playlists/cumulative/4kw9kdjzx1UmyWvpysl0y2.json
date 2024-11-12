@@ -6271,6 +6271,32 @@
     },
     {
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/05yrtaurZxzZdTcfA4dvK0"
+      },
+      "artists": [
+        {
+          "name": "Pixel Terror",
+          "url": "https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm"
+        },
+        {
+          "name": "The Living Proof",
+          "url": "https://open.spotify.com/artist/0ugBL1a1T65aLKkctOHh2d"
+        },
+        {
+          "name": "Michael Swank",
+          "url": "https://open.spotify.com/artist/1p4l2x4EUENGm1VCQfBkuu"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248275,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/22rStFQ2WXKmD1HkVFJ4hJ"
+    },
+    {
+      "album": {
         "name": "Grimoire",
         "url": "https://open.spotify.com/album/5PnPerL51mnpKq9HOo7vS0"
       },

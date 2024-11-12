@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-02",
   "description": "Cl\u00e1sicos de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Soledad",
-  "name": "Folclore Argentino",
+  "name": "FOLCLORE ARGENTINO",
   "tracks": [
     {
       "album": {
@@ -144,7 +144,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 226115,
       "name": "Adios, Catamarca, adios",
       "url": "https://open.spotify.com/track/3aZx0MfdvjPIyat5Z1AQL6"
@@ -162,7 +162,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 206693,
       "name": "Adonde Est\u00e1n los P\u00e1jaros Que Mueren",
       "url": "https://open.spotify.com/track/01Cmz4ZEG6PQdSKBrAdf8m"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 195266,
       "name": "Amor Salvaje",
       "url": "https://open.spotify.com/track/0drALgikHfRAxeVPsZp7D6"
@@ -576,7 +576,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 511746,
       "name": "Bloque Romantico: Nada Tengo de Ti / Quiero Tu Voz / No Quisiera Quererte / Amar Amando - En Vivo",
       "url": "https://open.spotify.com/track/4DP2160LC4dW6RTNeYQvMB"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 252226,
       "name": "Canci\u00f3n del Amor En Zapatillas",
       "url": "https://open.spotify.com/track/6qM3zhKdj7VA8y4xuO27OR"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-11",
+      "date_removed": null,
       "duration_ms": 416213,
       "name": "Candombe del Olvido",
       "url": "https://open.spotify.com/track/4JBvmswqSVm33lVlFWXsFb"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 196413,
       "name": "Cantas T\u00fa, Canto Yo",
       "url": "https://open.spotify.com/track/5IJ9BpJg40GItALp4XY3HK"
@@ -874,7 +874,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 134608,
       "name": "Canto de mis abuelos - En Vivo",
       "url": "https://open.spotify.com/track/3xpvV8sTuVli0Up4Az8fwd"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 151797,
       "name": "Chacarera del recuerdo",
       "url": "https://open.spotify.com/track/6DuLLGQXSXpqvK6vpNNN40"
@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 219933,
       "name": "Chibidon",
       "url": "https://open.spotify.com/track/3AYQhu2ISuQEd8lBJDIpXD"
@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 192960,
       "name": "Como P\u00e1jaros en el Aire",
       "url": "https://open.spotify.com/track/1h0XaQjEBN3WOiLAOjhRVe"
@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 252413,
       "name": "Cruz del Sur",
       "url": "https://open.spotify.com/track/7MdpJJP6b04JZ7FW3ZrAgb"
@@ -1364,15 +1364,11 @@
         {
           "name": "Los Manseros Santiague\u00f1os",
           "url": "https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2"
-        },
-        {
-          "name": "Peteco Carabajal",
-          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
         }
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 146453,
       "name": "Desde el Puente Carretero (with Peteco Carabajal)",
       "url": "https://open.spotify.com/track/32mWcBr72gtKjrZhbWotbi"
@@ -1426,7 +1422,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 145321,
       "name": "Duerme, Negrito",
       "url": "https://open.spotify.com/track/63T6KFdH7wzrwXGjNrHQM8"
@@ -1588,7 +1584,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-11",
+      "date_removed": null,
       "duration_ms": 141813,
       "name": "El Gatito de Tchaikovsky",
       "url": "https://open.spotify.com/track/793bx9EAMbrhlJ82IgTUbl"
@@ -1786,7 +1782,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 207826,
       "name": "El Seclante\u00f1o",
       "url": "https://open.spotify.com/track/5KG1MI9BG8xzk2kQqR4cmJ"
@@ -1948,7 +1944,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 198234,
       "name": "Florcita Del Monte",
       "url": "https://open.spotify.com/track/4zO7lcsUUxpEbjEt7MfJQW"
@@ -2002,7 +1998,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 264197,
       "name": "Gracias A La Vida",
       "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
@@ -2128,7 +2124,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 179815,
       "name": "Juancito Carnaval",
       "url": "https://open.spotify.com/track/7JPRCdl8DaS85xs1B0p4RW"
@@ -2186,7 +2182,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 234946,
       "name": "La Cautiva",
       "url": "https://open.spotify.com/track/3CoSoKjB1jTBDUl4nbZfGB"
@@ -2276,7 +2272,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-04",
+      "date_removed": null,
       "duration_ms": 170160,
       "name": "La Descre\u00edda",
       "url": "https://open.spotify.com/track/3iRMUBsU6dF9qByGhDpMId"
@@ -2550,7 +2546,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-01",
+      "date_removed": null,
       "duration_ms": 194413,
       "name": "La Oma",
       "url": "https://open.spotify.com/track/2e6rIzOlqItCOyrryCXKpl"
@@ -2604,7 +2600,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 224759,
       "name": "La Paloma",
       "url": "https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ"
@@ -2644,7 +2640,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-12",
+      "date_removed": null,
       "duration_ms": 186026,
       "name": "La Peregrinaci\u00f3n",
       "url": "https://open.spotify.com/track/4ZUfR1iBt6u9aC4XfO7efs"
@@ -2716,7 +2712,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 145453,
       "name": "La Telesita",
       "url": "https://open.spotify.com/track/12trwJSceWl2bec01AHu4T"
@@ -2828,7 +2824,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 170733,
       "name": "La Yapa",
       "url": "https://open.spotify.com/track/6M3c5mTRfuT4E8hbyAXrLU"
@@ -3052,7 +3048,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 210130,
       "name": "Luna Tucumana",
       "url": "https://open.spotify.com/track/75tyu2vBzS0qHN7PMNtAH5"
@@ -3178,7 +3174,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 118773,
       "name": "Maric\u00f3n",
       "url": "https://open.spotify.com/track/3DfMnarQAwzJCB8v6kWOPN"
@@ -3236,7 +3232,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 254960,
       "name": "Milonga Del Solitario",
       "url": "https://open.spotify.com/track/1Xf7gXkHRXwr8vP9GZ7pSz"
@@ -3420,7 +3416,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 238027,
       "name": "Por Hacer la Am\u00e9rica",
       "url": "https://open.spotify.com/track/1hCPK4befzCeLDdNQuYKtc"
@@ -3438,7 +3434,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 201427,
       "name": "Por las costas entrerrianas",
       "url": "https://open.spotify.com/track/159w8FAaY0OVg8H0rXX26C"
@@ -3620,7 +3616,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 243880,
       "name": "Recuerdos de Ypacara\u00ed",
       "url": "https://open.spotify.com/track/43Jrbm0yMWAbjFA2DS5rwp"
@@ -3696,7 +3692,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 303555,
       "name": "Run Run Se Fue Pa'l Norte - En Vivo",
       "url": "https://open.spotify.com/track/5DOwZZbuM3qLU4GzCPVXYn"
@@ -3790,7 +3786,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 201640,
       "name": "Si Se Calla El Cantor",
       "url": "https://open.spotify.com/track/2P7OgqbN6vtwsAvJnXh7q5"
@@ -3812,7 +3808,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 202320,
       "name": "Si Se Calla el Cantor - En Vivo",
       "url": "https://open.spotify.com/track/5JftjNXymDWk4NfsPnQNue"
@@ -3848,7 +3844,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 194293,
       "name": "Sombra Enamorada",
       "url": "https://open.spotify.com/track/3Ea7tLiwF8LlgoUDvjhwWH"
@@ -3928,7 +3924,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 248866,
       "name": "Sube, Sube, Sube",
       "url": "https://open.spotify.com/track/4YrnVwR7GpfWYKLJtoQczf"
@@ -4124,7 +4120,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 278733,
       "name": "Tonada del viejo amor",
       "url": "https://open.spotify.com/track/65D0PzyFvb20eFe6FOzgif"
@@ -4262,7 +4258,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 209626,
       "name": "Voy andando",
       "url": "https://open.spotify.com/track/3IShFn5CIe7b5UUGfw4g5C"
@@ -4436,9 +4432,9 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 234453,
-      "name": "Zamba de Mi Esperanza (Jorge Cafrune)",
+      "name": "Zamba de Mi Esperanza - Jorge Cafrune",
       "url": "https://open.spotify.com/track/1zBItSNLpWQrlCrCa51W6l"
     },
     {

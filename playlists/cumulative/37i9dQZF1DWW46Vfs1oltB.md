@@ -2,7 +2,7 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: G\-DRAGON\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: Dynamic Duo\(다이나믹 듀오\)\)
 
 1,370 songs - 3 day 2 hr 12 min
 

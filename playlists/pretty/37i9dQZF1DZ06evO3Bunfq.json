@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 112944,
+  "num_followers": 112982,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy6mAAAAAADzo2Z1LSh4++lATYxE78Bc",
+  "snapshot_id": "Zy/3gAAAAAD6AabJumukIT4anrYfvL0l",
   "tracks": [
     {
       "added_at": null,
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Esquina",
-        "url": "https://open.spotify.com/album/1AUCWNSatHgDBNYvfthnNa"
-      },
-      "artists": [
-        {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 267897,
-      "name": "Broche De Oro",
-      "url": "https://open.spotify.com/track/6bomSYIzgSeymVS1sdUhsu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inhala",
         "url": "https://open.spotify.com/album/5BC1qGaUadJLd5y4QIhhJS"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 245500,
       "name": "Inhala",
       "url": "https://open.spotify.com/track/19U70d6IpR3x8XRBfGMXXI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Esquina",
+        "url": "https://open.spotify.com/album/1AUCWNSatHgDBNYvfthnNa"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 267897,
+      "name": "Broche De Oro",
+      "url": "https://open.spotify.com/track/6bomSYIzgSeymVS1sdUhsu"
     },
     {
       "added_at": null,

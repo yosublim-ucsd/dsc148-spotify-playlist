@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Symphonic and power metal at its most epic\. Cover: Nightwish
 
-[Spotify](https://open.spotify.com/user/spotify) - 785,238 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 785,302 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 31 | [Outer Dimensions](https://open.spotify.com/track/2cTj4pAJNev8vcJQCoGuQb) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:05 |
 | 32 | [Rise Again](https://open.spotify.com/track/5xro8nNwHvY070Dk8OGIG2) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp), [Simone Simons](https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4) | [Rise Again](https://open.spotify.com/album/1ulDYQdIKg3n94VO85Z2ZZ) | 5:19 |
 | 33 | [Cradle To The Grave](https://open.spotify.com/track/0jVsMpF6RFUECMzYoiYiW7) | [Simone Simons](https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4), [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt), [Alissa White\-Gluz](https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg) | [Vermillion](https://open.spotify.com/album/18SzJd75guEOuFZ1KCNIz9) | 3:59 |
-| 34 | [We Shall Remain](https://open.spotify.com/track/4NE5lWvdpevNpziV5BUoOq) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [We Shall Remain](https://open.spotify.com/album/2qowWVHf8S7hOkZ9utWmEG) | 4:20 |
+| 34 | [In the Name of Love](https://open.spotify.com/track/3CQaHiwA4P14cdJuDzITLd) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Vultures Die Alone](https://open.spotify.com/album/32Ipg2losKbTMPoQGhArGN) | 4:12 |
 | 35 | [Morphine Waltz](https://open.spotify.com/track/4q7tTzUdao2IOKTCz17ym0) | [Fleshgod Apocalypse](https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML) | [Opera](https://open.spotify.com/album/1dDS9EG35qdgeshBzEP2ja) | 3:36 |
-| 36 | [In the Name of Love](https://open.spotify.com/track/3CQaHiwA4P14cdJuDzITLd) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Vultures Die Alone](https://open.spotify.com/album/32Ipg2losKbTMPoQGhArGN) | 4:12 |
+| 36 | [We Shall Remain](https://open.spotify.com/track/4NE5lWvdpevNpziV5BUoOq) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [We Shall Remain](https://open.spotify.com/album/2qowWVHf8S7hOkZ9utWmEG) | 4:20 |
 | 37 | [Frozen](https://open.spotify.com/track/0s9S861lgoFOi4vXG3wsab) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Federica Lanna](https://open.spotify.com/artist/2l6anpRMp6T9iPMOlzkZUx) | [Frozen](https://open.spotify.com/album/5MWTGZcBF5bGoKZHI9p9xz) | 5:00 |
 | 38 | [A New Beginning](https://open.spotify.com/track/7C9nqo62jehSZ1AVLxU4Jn) | [Majestica](https://open.spotify.com/artist/52lkxAYfC9ypaPJ2EB22ki) | [A New Beginning](https://open.spotify.com/album/2B6JE5slhWMLNe7yPmBxYY) | 4:12 |
 | 39 | [Forsaken \- The Aftermath](https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Forsaken \(The Aftermath\)](https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06) | 4:58 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 90 | [World on Fire](https://open.spotify.com/track/4LyJfkFQTpMHRSj0rCBgdo) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [World on Fire](https://open.spotify.com/album/1q2nD6Ft2JwA6zTNrgezMj) | 4:26 |
 | 91 | [Dopamine \(feat\. Simone Simons\)](https://open.spotify.com/track/0mrHi6us5MaQNM34bHI5F7) | [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI), [Simone Simons](https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4) | [Dopamine](https://open.spotify.com/album/6gPSlQpAAdbC727yQ3fov4) | 3:36 |
 | 92 | [Seventh Rum of a Seventh Rum](https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Seventh Rum of a Seventh Rum](https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY) | 3:21 |
-| 93 | [Total T\-Rex Terror](https://open.spotify.com/track/0hwFRdWtN7clcasZmZeBfe) | [Victorius](https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN) | [Total T\-Rex Terror](https://open.spotify.com/album/5wTJVlHNImdqwfi4HhzDJG) | 4:42 |
-| 94 | [Juokse Sinä Humma](https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Juokse Sinä Humma](https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN) | 3:16 |
+| 93 | [Juokse Sinä Humma](https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Juokse Sinä Humma](https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN) | 3:16 |
+| 94 | [Total T\-Rex Terror](https://open.spotify.com/track/0hwFRdWtN7clcasZmZeBfe) | [Victorius](https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN) | [Total T\-Rex Terror](https://open.spotify.com/album/5wTJVlHNImdqwfi4HhzDJG) | 4:42 |
 | 95 | [New Horizons](https://open.spotify.com/track/2sHZTVXbyiz38DIFZYgxdQ) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm), [Fabienne Erni](https://open.spotify.com/artist/0q3kTmmx7D54or2e8HnluR) | [New Horizons](https://open.spotify.com/album/1PFvlYHRyqoF19R6hwxTKK) | 4:25 |
 | 96 | [We Are Legion](https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [We Are Legion](https://open.spotify.com/album/1jexIhocz0R6rK1nbUU6Cq) | 3:41 |
-| 97 | [One \(feat\. Robert Trujillo\) \- Instrumental](https://open.spotify.com/track/43qcGBcVT8wz2ntoS625vP) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Robert Trujillo](https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16) | [Plays Metallica, Vol\. 2](https://open.spotify.com/album/5HUPKCaOKsbOz6pQR1i5YO) | 9:34 |
+| 97 | [Now Is the Time](https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0) | [Power Quest](https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip) | [Now Is the Time](https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV) | 6:18 |
 | 98 | [Pendulum](https://open.spotify.com/track/0KlYaNfi8G70HSLYWW7aci) | [Fleshgod Apocalypse](https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML) | [Pendulum](https://open.spotify.com/album/3F7k4WguL6XUBe1CUW0dWm) | 3:58 |
-| 99 | [Now Is the Time](https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0) | [Power Quest](https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip) | [Now Is the Time](https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV) | 6:18 |
+| 99 | [One \(feat\. Robert Trujillo\) \- Instrumental](https://open.spotify.com/track/43qcGBcVT8wz2ntoS625vP) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Robert Trujillo](https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16) | [Plays Metallica, Vol\. 2](https://open.spotify.com/album/5HUPKCaOKsbOz6pQR1i5YO) | 9:34 |
 | 100 | [Lonely](https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D) | [After Forever](https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp) | [After Forever \(15th Anniversary Edition\)](https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE) | 3:26 |
 
 Snapshot ID: `Zvsh7QAAAACBxZ1CvZ/6XJrm/lC6f5D6`

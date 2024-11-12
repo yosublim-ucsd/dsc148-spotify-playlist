@@ -11347,6 +11347,24 @@
     },
     {
       "album": {
+        "name": "Cards",
+        "url": "https://open.spotify.com/album/2sAecwvlrjb4SAiUgRA6xf"
+      },
+      "artists": [
+        {
+          "name": "CLAYTON",
+          "url": "https://open.spotify.com/artist/6I1vkZ3kpAvYsLw1rQUK5q"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142125,
+      "name": "Cards",
+      "url": "https://open.spotify.com/track/7LvE1XCJitEmVfk9kXoowz"
+    },
+    {
+      "album": {
         "name": "Careful I'm A Pisces",
         "url": "https://open.spotify.com/album/1WeU6JivAtr91LbvcrerNE"
       },
@@ -35494,6 +35512,28 @@
       "duration_ms": 180434,
       "name": "Itsa Bop Itsa Jam",
       "url": "https://open.spotify.com/track/5qlHhQiH0snGWhRTdydTvi"
+    },
+    {
+      "album": {
+        "name": "It\u2019s a Vibe! (Ain\u2019t It?)",
+        "url": "https://open.spotify.com/album/0crA18x3cxjocmg4xGCmDg"
+      },
+      "artists": [
+        {
+          "name": "Yomchi",
+          "url": "https://open.spotify.com/artist/75cRTqerw1s3cKcti6AluB"
+        },
+        {
+          "name": "DOG PAULSON",
+          "url": "https://open.spotify.com/artist/1kd9SkGzGp8D7WtW3in4W4"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187731,
+      "name": "It\u2019s a Vibe! (Ain\u2019t It?)",
+      "url": "https://open.spotify.com/track/4piHIEC1C2JCAqpTDTfdTd"
     },
     {
       "album": {

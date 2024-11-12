@@ -4,7 +4,7 @@
 
 > brutality and technicality collide\. fresh metalcore awaits\. Cover: Kublai Khan TX
 
-1,053 songs - 2 day 17 hr 5 min
+1,054 songs - 2 day 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -901,6 +901,7 @@
 | [The Collapse](https://open.spotify.com/track/73SwJ3c98zHkLHeH0X48Th) | [Secrets](https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl) | [The Collapse](https://open.spotify.com/album/6fuoUgvIeNPIe5mqF2C1wZ) | 3:51 | 2022-03-25 | 2022-04-15 |
 | [The Cycle Of Violence: Chapter 1](https://open.spotify.com/track/1pWTBX4TPLMxfQGi9E4uYt) | [Varials](https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l) | [The Cycle Of Violence: Chapter 1](https://open.spotify.com/album/54Dzy1tTjwERCoPDRZm3zR) | 2:38 | 2022-07-13 | 2022-07-23 |
 | [The Dancer](https://open.spotify.com/track/2tLrbpHb53B7W0emqz1ukL) | [Defamed](https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r) | [The Dancer](https://open.spotify.com/album/7uoaxWYLmec17U1qIbQkol) | 4:02 | 2022-07-13 | 2022-07-21 |
+| [The Devil And The Saint](https://open.spotify.com/track/1rBaSK2Fg4vyCUlopWSB5i) | [ANTITYPE](https://open.spotify.com/artist/4sTNE2xdR0okSA7WqryhTc), [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [The Devil And The Saint](https://open.spotify.com/album/0ZAQGuJTjs2aC7vfprwet6) | 3:19 | 2024-11-08 |  |
 | [The Echoes of Disparity](https://open.spotify.com/track/15cliM4IVHGvwbK9O36xcV) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21), [Charlie Rolfe](https://open.spotify.com/artist/61LUcApo9W4qxM7PjbO6gV), [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [The Echoes of Disparity](https://open.spotify.com/album/4y30LkmFu4kDlppNHlMOeI) | 3:51 | 2024-06-04 | 2024-08-13 |
 | [The Empress](https://open.spotify.com/track/4lLWQ8QqCnkLK7RtJ69q6b) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [The Empress](https://open.spotify.com/album/0aDF2jUuIoRCiQC1A7YnZ0) | 3:56 | 2022-07-13 | 2022-07-15 |
 | [The End to a Brief Moment of Lasting Intimacy](https://open.spotify.com/track/4sSDuuHmKD3wKoZaoGVM29) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [The End to a Brief Moment of Lasting Intimacy](https://open.spotify.com/album/5bJ6joEOY28UkisojIyFOk) | 3:35 | 2021-12-17 | 2022-01-28 |
@@ -1051,7 +1052,7 @@
 | [World War X](https://open.spotify.com/track/6dXVHWA03pkh3VcGsLZTrT) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [World War X](https://open.spotify.com/album/3HB1VdtGIKeRckjLId0XKP) | 4:28 | 2022-07-13 | 2022-07-22 |
 | [Worlds Apart](https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Worlds Apart](https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV) | 4:28 | 2024-03-01 | 2024-08-13 |
 | [Worldwide Suicide](https://open.spotify.com/track/52uE648ai2EDq179lsi6VU) | [In Hearts Wake](https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N) | [Worldwide Suicide](https://open.spotify.com/album/6wPMu56NLuxlUU4LQpoQA4) | 1:57 | 2022-07-13 | 2022-07-23 |
-| [XOXO \(feat\. From Ashes to New\)](https://open.spotify.com/track/0DOb9eUpN4IdOavA586ABB) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [XOXO \(feat\. From Ashes to New\)](https://open.spotify.com/album/3nkUcDi5y1Dtoyv61BSvZ3) | 2:53 | 2024-03-08 |  |
+| [XOXO \(feat\. From Ashes to New\)](https://open.spotify.com/track/0DOb9eUpN4IdOavA586ABB) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [XOXO \(feat\. From Ashes to New\)](https://open.spotify.com/album/3nkUcDi5y1Dtoyv61BSvZ3) | 2:53 | 2024-03-08 | 2024-11-12 |
 | [Y](https://open.spotify.com/track/2nfYd5u63QE2bhlYX4UvDH) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk) | [Y](https://open.spotify.com/album/7kBQC3jd52a27AufUTOMJT) | 3:59 | 2021-12-17 | 2022-01-15 |
 | [You Must Die](https://open.spotify.com/track/62FvxmmrGxBBEBI6yBkI0E) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [You Must Die](https://open.spotify.com/album/5caFwAXPLpgbK5DtDnHBTj) | 2:42 | 2022-09-02 | 2022-12-17 |
 | [You Scream Good for A Girl](https://open.spotify.com/track/77qrvaqkWsaHvOqTCjadKz) | [Taylor Destroy](https://open.spotify.com/artist/6KgGTPfnLvinigjwIiZlcw) | [You Scream Good for A Girl](https://open.spotify.com/album/664Ago1PB7fkmyZHZPyfoa) | 3:18 | 2021-12-17 | 2022-03-12 |

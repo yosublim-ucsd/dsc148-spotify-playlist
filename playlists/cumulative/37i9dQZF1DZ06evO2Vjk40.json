@@ -455,6 +455,28 @@
     },
     {
       "album": {
+        "name": "Duets (30th Anniversary)",
+        "url": "https://open.spotify.com/album/0FL7FO7SPoxUhmMvocO5Cx"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275013,
+      "name": "Il Mare Calmo della Sera (feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/05THAQTm5v2cyClKqsqPpk"
+    },
+    {
+      "album": {
         "name": "It Takes A Woman",
         "url": "https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR"
       },

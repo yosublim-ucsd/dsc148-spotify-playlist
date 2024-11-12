@@ -993,6 +993,24 @@
     },
     {
       "album": {
+        "name": "Ana Zeena",
+        "url": "https://open.spotify.com/album/7BK0fnpPXcpNctOOclNosy"
+      },
+      "artists": [
+        {
+          "name": "Zena Emad",
+          "url": "https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223217,
+      "name": "Ana Zeena",
+      "url": "https://open.spotify.com/track/0B7B7m6EPOS4V5g4xgupB1"
+    },
+    {
+      "album": {
         "name": "Ananya",
         "url": "https://open.spotify.com/album/0hPgVuJbuXj0bZBoTzZDJh"
       },

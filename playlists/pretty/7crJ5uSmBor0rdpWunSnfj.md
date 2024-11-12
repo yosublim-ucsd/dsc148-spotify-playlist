@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7crJ5uSmBor0rdpWunSnfj.md) - [plain]
 
 > Desperation
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 7 songs - 23 min 15 sec
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 9 songs - 30 min 6 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,5 +15,7 @@ pretty - [cumulative](/playlists/cumulative/7crJ5uSmBor0rdpWunSnfj.md) - [plain]
 | 5 | [You Know What They Do to Guys Like Us in Prison](https://open.spotify.com/track/5bTuwAgYUD5MABOIPH8ZMt) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 2:53 |
 | 6 | [Magpie](https://open.spotify.com/track/0Nx1m4J8mlBW34aUW7wcy2) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 2:00 |
 | 7 | [Slow West Vultures](https://open.spotify.com/track/5b6XWX2ifTdSClxnLIMLzh) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [We Shall All Be Healed](https://open.spotify.com/album/45KMV5nuTYdfXBfH3RR98Z) | 2:41 |
+| 8 | [Blood Capsules](https://open.spotify.com/track/6aLdcR63LTxgV5YmvTy9hm) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Blood Capsules / Dub Capsules](https://open.spotify.com/album/6PR1KD9klF3TlV1vDF2qes) | 3:25 |
+| 9 | [Shirtless in Hamburg](https://open.spotify.com/track/6zXWUxP7REZZtbOmgSsgKw) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Marsh Witch Visions](https://open.spotify.com/album/43w7tHk13VR6WVwXibMFje) | 3:25 |
 
-Snapshot ID: `AAAACyUbT9+XFViv/sAptS7ZJNbnzbY0`
+Snapshot ID: `AAAADdcL9/GgdfJ47ywe8O/Exwq5QrqM`

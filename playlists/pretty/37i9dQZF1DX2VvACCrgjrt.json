@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Steve Angello",
-  "num_followers": 449706,
+  "num_followers": 449734,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -905,26 +905,6 @@
       "url": "https://open.spotify.com/track/6H1fjrF5zmxUUdLerA7HkF"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/2Ay23sgE1L3auHdzJCCeHj"
-      },
-      "artists": [
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        },
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        }
-      ],
-      "duration_ms": 164324,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/4nQjMY7PjY7RLh3TKG78Pi"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "4EVR",
@@ -951,6 +931,26 @@
       "duration_ms": 209785,
       "name": "ENERGY",
       "url": "https://open.spotify.com/track/6GbhVYLX4gDu3v5Tx2cnIH"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/2Ay23sgE1L3auHdzJCCeHj"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "duration_ms": 164324,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4nQjMY7PjY7RLh3TKG78Pi"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1111,22 +1111,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "DRENCH",
-        "url": "https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H"
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/6FnqdQC9PHxPoLE5rQqtrn"
       },
       "artists": [
         {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
         },
         {
-          "name": "Preme",
-          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
         }
       ],
-      "duration_ms": 197893,
-      "name": "DRENCH",
-      "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
+      "duration_ms": 178300,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/6TvCNh37pSO9rp9fIhskKN"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/6FnqdQC9PHxPoLE5rQqtrn"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        },
-        {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
-        }
-      ],
-      "duration_ms": 178300,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/6TvCNh37pSO9rp9fIhskKN"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Freedom (Body Ocean Remix)",
         "url": "https://open.spotify.com/album/2g8I6KJqkdMtRmbwRjeT2O"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 220952,
       "name": "Freedom - Body Ocean Remix",
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "DRENCH",
+        "url": "https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        },
+        {
+          "name": "Preme",
+          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
+        }
+      ],
+      "duration_ms": 197893,
+      "name": "DRENCH",
+      "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1905,6 +1905,22 @@
       "url": "https://open.spotify.com/track/636DZcUk6YMmdG0rliLJ9H"
     },
     {
+      "added_at": "2024-08-30 20:19:56",
+      "album": {
+        "name": "CAN'T GET ENOUGH",
+        "url": "https://open.spotify.com/album/3iICcwqP3stzRSJ4cQjpYe"
+      },
+      "artists": [
+        {
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "CANT GET ENOUGH",
+      "url": "https://open.spotify.com/track/7glLHoodwXrILK4AP3de2k"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Turn Up The Volume",
@@ -1923,22 +1939,6 @@
       "duration_ms": 142445,
       "name": "Turn Up The Volume",
       "url": "https://open.spotify.com/track/2Y6ighvPsMpW8fIfUQzYXf"
-    },
-    {
-      "added_at": "2024-08-30 20:19:56",
-      "album": {
-        "name": "CAN'T GET ENOUGH",
-        "url": "https://open.spotify.com/album/3iICcwqP3stzRSJ4cQjpYe"
-      },
-      "artists": [
-        {
-          "name": "nikko",
-          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "CANT GET ENOUGH",
-      "url": "https://open.spotify.com/track/7glLHoodwXrILK4AP3de2k"
     },
     {
       "added_at": "2024-08-16 14:00:00",
@@ -2057,6 +2057,22 @@
       "url": "https://open.spotify.com/track/7wPLlenIz7xLZwYDgS2nG7"
     },
     {
+      "added_at": "2024-08-16 14:00:00",
+      "album": {
+        "name": "Dancin'",
+        "url": "https://open.spotify.com/album/0lJSRavFYfu6iCh9l5B2yP"
+      },
+      "artists": [
+        {
+          "name": "Riggi & Piros",
+          "url": "https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH"
+        }
+      ],
+      "duration_ms": 144193,
+      "name": "Dancin'",
+      "url": "https://open.spotify.com/track/0lmFObF53iIn8d21SM3RUL"
+    },
+    {
       "added_at": "2024-09-17 20:52:32",
       "album": {
         "name": "Human",
@@ -2073,20 +2089,20 @@
       "url": "https://open.spotify.com/track/4Ltrv35B8OGHkxjhnWHIig"
     },
     {
-      "added_at": "2024-08-16 14:00:00",
+      "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Dancin'",
-        "url": "https://open.spotify.com/album/0lJSRavFYfu6iCh9l5B2yP"
+        "name": "NPC",
+        "url": "https://open.spotify.com/album/0ijBwF5XDvGluh9q2J7IEw"
       },
       "artists": [
         {
-          "name": "Riggi & Piros",
-          "url": "https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH"
+          "name": "Halogen",
+          "url": "https://open.spotify.com/artist/0Za5KjrhmN4OYMr04f3g1e"
         }
       ],
-      "duration_ms": 144193,
-      "name": "Dancin'",
-      "url": "https://open.spotify.com/track/0lmFObF53iIn8d21SM3RUL"
+      "duration_ms": 172878,
+      "name": "NPC",
+      "url": "https://open.spotify.com/track/49AyVq86hvLmS2oljUiVDo"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -2111,22 +2127,6 @@
       "duration_ms": 195121,
       "name": "No Promises",
       "url": "https://open.spotify.com/track/7EzqeyQOsH2RjpwTnxtYCj"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "NPC",
-        "url": "https://open.spotify.com/album/0ijBwF5XDvGluh9q2J7IEw"
-      },
-      "artists": [
-        {
-          "name": "Halogen",
-          "url": "https://open.spotify.com/artist/0Za5KjrhmN4OYMr04f3g1e"
-        }
-      ],
-      "duration_ms": 172878,
-      "name": "NPC",
-      "url": "https://open.spotify.com/track/49AyVq86hvLmS2oljUiVDo"
     },
     {
       "added_at": "2024-08-16 14:00:00",
@@ -2233,22 +2233,6 @@
       "url": "https://open.spotify.com/track/6EaQGkgNcYrcjEGUfnAWL9"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/3jhwepWxLRw5QQSVcr9zOV"
-      },
-      "artists": [
-        {
-          "name": "Blue Man",
-          "url": "https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI"
-        }
-      ],
-      "duration_ms": 183307,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/7JIAmKYpFq8uGleXuG1aUJ"
-    },
-    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Swagger Feet",
@@ -2267,6 +2251,22 @@
       "duration_ms": 209523,
       "name": "Swagger Feet",
       "url": "https://open.spotify.com/track/05zlLlHThHGTjH5Xpgb4n2"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3jhwepWxLRw5QQSVcr9zOV"
+      },
+      "artists": [
+        {
+          "name": "Blue Man",
+          "url": "https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI"
+        }
+      ],
+      "duration_ms": 183307,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7JIAmKYpFq8uGleXuG1aUJ"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -2289,22 +2289,6 @@
       "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/4whYaNX1C24M56TcMqRIRE"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/7kX7hC9Ytlc5ePQ9bsJEci"
-    },
-    {
       "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "Underground Bass",
@@ -2319,6 +2303,22 @@
       "duration_ms": 139077,
       "name": "Underground Bass",
       "url": "https://open.spotify.com/track/2zkbb3hoLa8o1wPn2LfjN5"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/4whYaNX1C24M56TcMqRIRE"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/7kX7hC9Ytlc5ePQ9bsJEci"
     },
     {
       "added_at": "2024-07-19 04:00:00",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy6mAAAAAADJW0ikqFf6lPEZmBK7O7UU",
+  "snapshot_id": "Zy/3gAAAAAD8vJSaWdmwm818k0PSEkHE",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/4oLn1rTRoZtozr8uRYUKu8"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1zSuLk1sl9xh1b7xKO0vJL"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 247170,
-      "name": "Mirror Talk",
-      "url": "https://open.spotify.com/track/23tjVnRlLeAkXKm4HDDZ4e"
+      "duration_ms": 284104,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/6XZFf9VlLpjaVGkaHfYnJO"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/1zSuLk1sl9xh1b7xKO0vJL"
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/4oLn1rTRoZtozr8uRYUKu8"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 284104,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/6XZFf9VlLpjaVGkaHfYnJO"
+      "duration_ms": 247170,
+      "name": "Mirror Talk",
+      "url": "https://open.spotify.com/track/23tjVnRlLeAkXKm4HDDZ4e"
     },
     {
       "added_at": null,

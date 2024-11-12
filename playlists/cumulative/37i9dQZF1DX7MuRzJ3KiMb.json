@@ -3135,6 +3135,24 @@
     },
     {
       "album": {
+        "name": "Te Las Das De Americano",
+        "url": "https://open.spotify.com/album/1XyrJX06CvOKizNujRIAuj"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Sol",
+          "url": "https://open.spotify.com/artist/1ohZXQ0jWhpvJqD89qK6k5"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190229,
+      "name": "Te Las Das De Americano",
+      "url": "https://open.spotify.com/track/0Ks23R3NENrjJHsYUbyKZI"
+    },
+    {
+      "album": {
         "name": "Paris Texas",
         "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
       },

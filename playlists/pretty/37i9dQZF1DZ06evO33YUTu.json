@@ -1,12 +1,12 @@
 {
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 123387,
+  "num_followers": 123454,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy6mAAAAAACPPpEHibV11YoqGo3/FrH2",
+  "snapshot_id": "Zy/3gAAAAACBZF8dT49if5mS/1o+hTx6",
   "tracks": [
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cartagena ft. Greeicy",
-        "url": "https://open.spotify.com/album/7itQ1pyZFriXBV2IzJ1rCU"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 163438,
-      "name": "Cartagena ft. Greeicy",
-      "url": "https://open.spotify.com/track/4LeXtJq2kY4Htg8K7Juw1t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Las Nubes - Con Mis Panas",
         "url": "https://open.spotify.com/album/58836hf4URoAA7GyUvFm2Q"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 179413,
       "name": "Guatap\u00e9",
       "url": "https://open.spotify.com/track/0lLo2KPtFaXcB82klIgMN6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cartagena ft. Greeicy",
+        "url": "https://open.spotify.com/album/7itQ1pyZFriXBV2IzJ1rCU"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 163438,
+      "name": "Cartagena ft. Greeicy",
+      "url": "https://open.spotify.com/track/4LeXtJq2kY4Htg8K7Juw1t"
     },
     {
       "added_at": null,

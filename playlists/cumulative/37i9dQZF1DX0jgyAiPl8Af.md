@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-819 songs - 1 day 11 hr 22 min
+820 songs - 1 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -711,7 +711,7 @@
 | [Tapera](https://open.spotify.com/track/3QEgrZujYt6cFcmq8VMVK2) | [Oscar Roland](https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH) | [Tapera](https://open.spotify.com/album/3aUBs02jKhkYw0aBHZh6fR) | 2:34 | 2024-02-02 |  |
 | [Tarregas Bodega](https://open.spotify.com/track/6mueyqJyIsSTHJBZaR6b2n) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Tarregas Bodega](https://open.spotify.com/album/5GqIcRQ3SxM2UE9jxy02B9) | 1:29 | 2022-07-01 | 2023-08-19 |
 | [Tears but Not of Pain](https://open.spotify.com/track/27mzQDNLtakxvsBJXk4vzT) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Tears but Not of Pain](https://open.spotify.com/album/49im8S6HBvYk0BHPHWDYh6) | 3:21 | 2024-03-29 |  |
-| [Teatime](https://open.spotify.com/track/09fhTYGSgNoATa9MnNAHes) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Teatime](https://open.spotify.com/album/2Rshes42tKuMv3wJ5aUD15) | 2:48 | 2023-05-26 |  |
+| [Teatime](https://open.spotify.com/track/09fhTYGSgNoATa9MnNAHes) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Teatime](https://open.spotify.com/album/2Rshes42tKuMv3wJ5aUD15) | 2:48 | 2023-05-26 | 2024-11-12 |
 | [Telodice](https://open.spotify.com/track/2p0Hp7dQvwfEu8nsP3fCMT) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Telodice](https://open.spotify.com/album/4DnzOYq45aBZ2X8LsN2run) | 2:10 | 2022-10-07 | 2024-04-05 |
 | [Ten Eyck](https://open.spotify.com/track/2SVWtMKFeHoHbAidcGnD0L) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Ten Eyck](https://open.spotify.com/album/1xfdS5017HheV0A5Iz2t1J) | 2:20 | 2023-09-08 |  |
 | [The Apple](https://open.spotify.com/track/1jWtn89sIC21MvZjMAXcJr) | [Duo Acoustica](https://open.spotify.com/artist/2kMgalFxtY6wl6nnaKB3W0) | [The Apple](https://open.spotify.com/album/78HoC1Nipn2jKskrl4bxSt) | 2:56 | 2022-11-18 | 2024-06-01 |
@@ -768,6 +768,7 @@
 | [Vaggande Vind](https://open.spotify.com/track/3ius9yqo6NVnklcvkweRo0) | [Simon Fjällström](https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT) | [Vaggande Vind](https://open.spotify.com/album/4UPJoQwtI5ScyIzRH45LRK) | 2:14 | 2022-12-16 | 2023-05-13 |
 | [Valleys](https://open.spotify.com/track/3eGCdIAHs9Wakiv3Ockrzr) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Valleys](https://open.spotify.com/album/0dY2ExvYQ5p9DP7KG5Ccxc) | 2:35 | 2023-04-21 |  |
 | [Valsa e Vinho](https://open.spotify.com/track/4992uwyEYOstUKzPgdPVR3) | [Nelson Gomes](https://open.spotify.com/artist/1OSiaLKfv7utlBDRS3Qr31) | [Valsa e Vinho](https://open.spotify.com/album/0LNkP579n9idgfPSrTObSV) | 2:38 | 2021-12-08 | 2023-05-13 |
+| [Vanguard](https://open.spotify.com/track/3uCREKtnCEWCI4vLiSZKbo) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Vanguard](https://open.spotify.com/album/2xmUjNUTcThauPojbHLaVL) | 2:21 | 2024-11-11 |  |
 | [Vanja](https://open.spotify.com/track/7lyDrjn4e8BCszy5o7tNuk) | [Lukas Rosendal](https://open.spotify.com/artist/3gvOqk86iSqfIsY4jceRDy) | [Askja](https://open.spotify.com/album/3GMGYp6kdBbD4e897A6IkT) | 2:21 | 2021-12-08 | 2022-07-01 |
 | [Ven Tal Como Eres](https://open.spotify.com/track/0ui3M3a6TtLgxH5R7Kntvv) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [Ven Tal Como Eres](https://open.spotify.com/album/5TLxpycYjiy0YippNmsFNf) | 1:38 | 2023-04-21 | 2023-08-19 |
 | [Veracity](https://open.spotify.com/track/49RUCdpg6fvClNHxI6HB3x) | [Adrian Strohm](https://open.spotify.com/artist/1Rs3hpkbsgsgFiavB9Id1i) | [Veracity](https://open.spotify.com/album/5mpEiRXZhlx8DHuoDbdr6u) | 1:42 | 2022-09-23 | 2023-08-19 |

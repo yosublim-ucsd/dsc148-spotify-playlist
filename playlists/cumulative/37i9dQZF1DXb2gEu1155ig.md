@@ -4,7 +4,7 @@
 
 > Canciones tropicales que te transportan a Caleta y Caletilla.
 
-218 songs - 11 hr 33 min
+223 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Alma llanera](https://open.spotify.com/track/37uKoiJSNUeHiUVJmP4rWM) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Aguanta Corazón \(1955 \-1959\)](https://open.spotify.com/album/3vWOVb2soptTEz5vdUPY2c) | 2:54 | 2024-02-22 | 2024-04-19 |
 | [Amor Añejo](https://open.spotify.com/track/1H1kbmFt0EExo2dRPjZjCL) | [Internacional Carro Show](https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt) | [Las Viejas Mas Bailadas](https://open.spotify.com/album/6Q6fb0PsCRX0n0ufBmdxET) | 3:05 | 2023-06-16 |  |
 | [Amor Libre](https://open.spotify.com/track/417hz3bOfPdXH9vKjzfM23) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Íconos 25 Éxitos](https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ) | 2:52 | 2023-06-16 |  |
+| [Amándote](https://open.spotify.com/track/5JTl4yoBEHEVaVtgAXsMIi) | [Grupo Toppaz De Reynaldo Flores](https://open.spotify.com/artist/4W9DRj47G1VNujHs8GqndY) | [Amándote](https://open.spotify.com/album/3zqJiTfDn8rCp0vTAE6ZSo) | 2:36 | 2024-11-11 |  |
 | [Bonito y Sabroso](https://open.spotify.com/track/2VdeSD30CXVoAKU4xHMBfV) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Serie Platino](https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL) | 2:53 | 2024-02-22 |  |
 | [Bota la Bata](https://open.spotify.com/track/24WCqEUzGi4fEUCbChJVLl) | [La Brissa](https://open.spotify.com/artist/13UQf40ELxkqNBmfqQ2QRi) | [Su Majestad la Brissa Puros Exitos](https://open.spotify.com/album/20MsJ3sAUcfkaChOvXOmlP) | 3:06 | 2023-06-16 |  |
 | [Botecito de Vela](https://open.spotify.com/track/0szRtAplw8sjO6CBUrBzmy) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [A Gozar!](https://open.spotify.com/album/7EwEfGJqixrkf9Rx95h04K) | 3:02 | 2024-02-22 |  |
@@ -88,7 +89,7 @@
 | [El Santo Del Amor](https://open.spotify.com/track/79uzaKuR1gvIAzTkOkkkq8) | [Campeche Show](https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh) | [30 Aniversario \(Edición Limitada\)](https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG) | 3:13 | 2023-06-16 |  |
 | [El Sonsonete](https://open.spotify.com/track/5q8ZE4m9qxJFfJG2mlimIc) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [A Gozar!](https://open.spotify.com/album/7EwEfGJqixrkf9Rx95h04K) | 2:39 | 2024-02-22 |  |
 | [El Viajecito](https://open.spotify.com/track/5JqBZgb6jGf3QONcEn40bZ) | [Renacimiento 74](https://open.spotify.com/artist/6qioLW4OC3ZBqwH93xATgU) | [12 Super Exitos](https://open.spotify.com/album/5W827hvHWk2pL0gP0xzixG) | 2:59 | 2023-06-16 |  |
-| [Elodia](https://open.spotify.com/track/17YaVYvTFsCwRbs4IokrAw) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon Volumen 2](https://open.spotify.com/album/2hWEiNYl4fwtvULhcVZnvE) | 3:35 | 2024-02-22 |  |
+| [Elodia](https://open.spotify.com/track/17YaVYvTFsCwRbs4IokrAw) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon Volumen 2](https://open.spotify.com/album/2hWEiNYl4fwtvULhcVZnvE) | 3:35 | 2024-02-22 | 2024-11-12 |
 | [En Tus Manos](https://open.spotify.com/track/7dniUnDWDCZn9V7iT2dAhl) | [Los Byby's](https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN) | [En Tus Manos](https://open.spotify.com/album/5z3TRIQbmeAvd3yzCOmslK) | 3:29 | 2023-06-16 |  |
 | [Encadenada A Mi \- Cumbia](https://open.spotify.com/track/72dq7syxHMZF44QX3r1yXH) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Inalcanzable](https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF) | 3:49 | 2023-06-16 |  |
 | [Escándalo](https://open.spotify.com/track/4EhRKeEN4RE7AWaI9pWXQ5) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [Duelo de Sonoras](https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY) | 4:48 | 2023-06-16 |  |
@@ -97,6 +98,7 @@
 | [Hola Como Estas](https://open.spotify.com/track/04iLS6kaGO7lrFGMI2C0fa) | [Grupo Pegasso](https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv) | [Amor Vendido, Vol\. 4](https://open.spotify.com/album/7JJG7BywhJnVF9vMHKIk8T) | 3:24 | 2024-02-22 |  |
 | [Hola Que Tal](https://open.spotify.com/track/2SNkVt3vtVMCieuLsQ6umR) | [Los Plebeyos](https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a) | [Edixion Platino](https://open.spotify.com/album/5Z5pcN4h06hEKvudzeo1sj) | 2:49 | 2024-02-22 |  |
 | [Hola, ¿Cómo Estás?](https://open.spotify.com/track/3z3BcSmA92dr3J8LP51Kit) | [Grupo Pegasso](https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv) | [Amor Vendido, Vol\. 4](https://open.spotify.com/album/6iC3acGZhPbKigho8pZNU3) | 3:19 | 2023-06-16 | 2024-04-19 |
+| [Italianita](https://open.spotify.com/track/7HS0emPsknMfhT35Gwy3Ds) | [Grupo Bagdad](https://open.spotify.com/artist/3ZidNUuPNffyYwkovVDZ4G) | [Amor De Estudiante](https://open.spotify.com/album/187rsPO9g5Ni5jpdCtu8Ze) | 2:39 | 2024-11-11 |  |
 | [Juana la Cubana](https://open.spotify.com/track/4QJ3RDrv5WQBDP36IoLqDh) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [Y Es por Ti](https://open.spotify.com/album/5HHGQxwgUibH2gDmN7CA0m) | 3:13 | 2023-06-16 | 2024-04-19 |
 | [Juana La Cubana](https://open.spotify.com/track/50HdY3sn3Np9Fh2yICpPcX) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [Mis 50 Favoritas](https://open.spotify.com/album/1Epn9WsW3M8oE075XiKAwS) | 3:13 | 2024-02-22 |  |
 | [Jugo De Piña](https://open.spotify.com/track/1bpxGmisHNZpDSaGfdIcyi) | [El Super Show De Los Vaskez](https://open.spotify.com/artist/5RN0qzNnwv5WsXSNiDjuio) | [3 En 1 Super Show De Los Vaskez](https://open.spotify.com/album/5sFWeLEilmm41a93FXouql) | 4:26 | 2023-06-16 |  |
@@ -151,6 +153,7 @@
 | [Mi Cafetal](https://open.spotify.com/track/0fRuB2A8KrSnkUh4JPSBhk) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [RCA 100 Años De Musica](https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg) | 2:43 | 2024-02-22 |  |
 | [Mi Pequeño Amor](https://open.spotify.com/track/44vo3BDIwGHl0oxr4m8bM1) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Entre Nubes](https://open.spotify.com/album/0oFjmp6FMP0vKHrscRXSGc) | 3:10 | 2023-06-16 |  |
 | [Mi Primer Amor](https://open.spotify.com/track/7uIiXG9Hjc40Eulw4dXnbR) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Tu Principe Azul](https://open.spotify.com/album/3Rx03l8gqAhv3NAciC3gh5) | 3:02 | 2024-02-22 |  |
+| [Mi Vecinita Es un Angel](https://open.spotify.com/track/118NLNO3MLSXmcjgHzEWR9) | [Grupo Bagdad](https://open.spotify.com/artist/31luI2YnnNPOemnrlDLJ8w) | [Los Exitos](https://open.spotify.com/album/02GJwN0Z87KHl0wuEz6Bct) | 2:42 | 2024-11-11 |  |
 | [Moliendo](https://open.spotify.com/track/3gqwd41SnvOrLLctdlvHd5) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Leyendas](https://open.spotify.com/album/3DX4pjGYJCccg6k2heOqxL) | 2:36 | 2024-02-22 |  |
 | [Moliendo Café \- Tema Remasterizado](https://open.spotify.com/track/0wfFL0nTDTqQUylZV4R3V4) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Contigo Aprendí..\. Mis Número 1](https://open.spotify.com/album/7uYMi3uH9Kxqd3wR9EOopt) | 2:32 | 2024-02-22 | 2024-04-19 |
 | [Musita](https://open.spotify.com/track/1lrgRxAJOtc7P4Ed5onpRX) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Sonora Santanera Y La Inspiración De Carlos Colorado](https://open.spotify.com/album/4utBMQCsH8hE4uWfHVn3l9) | 3:04 | 2024-02-22 |  |
@@ -205,6 +208,7 @@
 | [Tonta](https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [25 Exitos Vol\. 1 \(USA\)](https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ) | 3:10 | 2023-06-16 | 2024-04-19 |
 | [Tonta](https://open.spotify.com/track/46MuirMMSyr2aqbCdnPyBh) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [Serie Fiesta](https://open.spotify.com/album/3DshPsOHjY7OQa1PFRrtKq) | 3:10 | 2024-02-22 |  |
 | [Total](https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:54 | 2024-02-22 |  |
+| [Tu Maquinita](https://open.spotify.com/track/3clA4jfXicloGfjA3oc079) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Exitos Inolvidables](https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv) | 2:41 | 2024-11-11 |  |
 | [Tíbiri Tábara](https://open.spotify.com/track/5imytNyyEoxEvClMBwZe6j) | [Sierra Maestra](https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w) | [Tibiri Tabara](https://open.spotify.com/album/0sBZusCQsXx3gERsOGyeOD) | 3:37 | 2024-02-22 | 2024-04-19 |
 | [Tíbiri Tábara](https://open.spotify.com/track/6pL9XBpYH2EqM6vN1I2smj) | [Sierra Maestra](https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w) | [Tibiri Tabara](https://open.spotify.com/album/22HGndY6yvYJbtySZCkHt4) | 3:37 | 2024-02-22 |  |
 | [Un Amor Como El Mío](https://open.spotify.com/track/6QctybFvIasVMqsdOa9EEQ) | [Grupo Flash](https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK) | [Relámpago De Corazón](https://open.spotify.com/album/4tZj0CXIlo06ypTyAG1Xpl) | 3:10 | 2023-06-16 |  |
@@ -226,5 +230,6 @@
 | [Zacatlan](https://open.spotify.com/track/00zayjNlBvbji1RnvxOs25) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon Volumen 1](https://open.spotify.com/album/3xCYxqu0uBH471i9cQ2bIq) | 4:11 | 2024-02-22 |  |
 | [Zacatlan](https://open.spotify.com/track/1O6WPRh15WrrE01jmvDToB) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon, Vol\. 1](https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM) | 4:11 | 2024-02-22 | 2024-04-19 |
 | [Zacazonapan](https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN) | [Marimba Orquesta Perla De Chiapas](https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP) | [Vamos A La Fiesta](https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ) | 2:45 | 2024-02-22 |  |
+| [Ámame Hoy](https://open.spotify.com/track/4voo93F41H3sbyeByUzrgq) | [Tropical Panamá](https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb) | [La Chica Que Soñe](https://open.spotify.com/album/1QF3TDSasFAaeqxL5Cj25g) | 3:13 | 2024-11-11 |  |
 
 \*This playlist was first scraped on 2023-08-09. Prior content cannot be recovered.

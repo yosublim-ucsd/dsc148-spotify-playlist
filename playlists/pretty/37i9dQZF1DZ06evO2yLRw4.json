@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 36410,
+  "num_followers": 36412,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy6mAAAAAADlvl5nt0RanpBBiOWu1V0v",
+  "snapshot_id": "Zy/3gAAAAADS8dsGZvhwL1EYSZeFMZD7",
   "tracks": [
     {
       "added_at": null,
@@ -768,13 +768,17 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         },
         {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        },
+        {
+          "name": "Conor Mason",
+          "url": "https://open.spotify.com/artist/1amPVQOLwiA0phz4JxpEET"
         }
       ],
-      "duration_ms": 211445,
-      "name": "Alone Again (Naturally)[feat. Midland]",
-      "url": "https://open.spotify.com/track/6HUr7QGTosidqNFHTsASCC"
+      "duration_ms": 241609,
+      "name": "Maniac (feat. Conor Mason of Nothing But Thieves)",
+      "url": "https://open.spotify.com/track/2Qc4hOAjwrmqCtsZRhjzU3"
     },
     {
       "added_at": null,
@@ -840,17 +844,13 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         },
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        },
-        {
-          "name": "Conor Mason",
-          "url": "https://open.spotify.com/artist/1amPVQOLwiA0phz4JxpEET"
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
         }
       ],
-      "duration_ms": 241609,
-      "name": "Maniac (feat. Conor Mason of Nothing But Thieves)",
-      "url": "https://open.spotify.com/track/2Qc4hOAjwrmqCtsZRhjzU3"
+      "duration_ms": 211445,
+      "name": "Alone Again (Naturally)[feat. Midland]",
+      "url": "https://open.spotify.com/track/6HUr7QGTosidqNFHTsASCC"
     },
     {
       "added_at": null,

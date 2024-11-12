@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACaQq3z58Dv7n03fos0RxTX",
+  "snapshot_id": "AAAAAAAAAADZfcmk+JhAxfTs+gwiNE2t",
   "tracks": [
     {
       "added_at": "2024-11-08 03:00:00",
@@ -39,6 +39,22 @@
       "duration_ms": 256199,
       "name": "Don't Go Away Mad (Just Go Away) - Live",
       "url": "https://open.spotify.com/track/0wmdi5RjXdAHZ4Tsb2CqDm"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "Forever Cold",
+        "url": "https://open.spotify.com/album/4WmIS78V0gBBoYpKvXSZtc"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "duration_ms": 283714,
+      "name": "Forever Cold",
+      "url": "https://open.spotify.com/track/3uhvjTmAuHRlpgEAfj6SGY"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -83,22 +99,6 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Forever Cold",
-        "url": "https://open.spotify.com/album/4WmIS78V0gBBoYpKvXSZtc"
-      },
-      "artists": [
-        {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
-        }
-      ],
-      "duration_ms": 283714,
-      "name": "Forever Cold",
-      "url": "https://open.spotify.com/track/3uhvjTmAuHRlpgEAfj6SGY"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
         "name": "New London boy / All the young dudes (remixes)",
         "url": "https://open.spotify.com/album/43qXJkcDomSdMDiu8Pp2B5"
       },
@@ -115,70 +115,6 @@
       "duration_ms": 211290,
       "name": "All the young dudes - Richard X edit",
       "url": "https://open.spotify.com/track/7dOoR9MWc8rI4KBK3j10Vq"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "Rompecorazones",
-        "url": "https://open.spotify.com/album/1sp7wuB1DRQxrgt619csnZ"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 193124,
-      "name": "Rompecorazones",
-      "url": "https://open.spotify.com/track/6ZUgI1yKPFieqew3ri5Drx"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "Ategnatos (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5Bi58dQcLyqFioYNsmwZ3L"
-      },
-      "artists": [
-        {
-          "name": "Eluveitie",
-          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
-        }
-      ],
-      "duration_ms": 229914,
-      "name": "Ategnatos - Acoustic Version",
-      "url": "https://open.spotify.com/track/053s3teMq4Sg32sATG9fkL"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "The Reaping",
-        "url": "https://open.spotify.com/album/6UuOIfc4Zt4ktoWKcluneU"
-      },
-      "artists": [
-        {
-          "name": "Delain",
-          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
-        }
-      ],
-      "duration_ms": 227959,
-      "name": "The Reaping",
-      "url": "https://open.spotify.com/track/17ZxFTe5wxNTdQpXiMWwGL"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "Vapor",
-        "url": "https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 182599,
-      "name": "Vapor",
-      "url": "https://open.spotify.com/track/0EYQhfsTUtViwb0BgygGHF"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -207,6 +143,54 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
+        "name": "Rompecorazones",
+        "url": "https://open.spotify.com/album/1sp7wuB1DRQxrgt619csnZ"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 193124,
+      "name": "Rompecorazones",
+      "url": "https://open.spotify.com/track/6ZUgI1yKPFieqew3ri5Drx"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "The Reaping",
+        "url": "https://open.spotify.com/album/6UuOIfc4Zt4ktoWKcluneU"
+      },
+      "artists": [
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        }
+      ],
+      "duration_ms": 227959,
+      "name": "The Reaping",
+      "url": "https://open.spotify.com/track/17ZxFTe5wxNTdQpXiMWwGL"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "Ategnatos (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5Bi58dQcLyqFioYNsmwZ3L"
+      },
+      "artists": [
+        {
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
+        }
+      ],
+      "duration_ms": 229914,
+      "name": "Ategnatos - Acoustic Version",
+      "url": "https://open.spotify.com/track/053s3teMq4Sg32sATG9fkL"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
         "name": "Original Sin (Ian Green Mix)",
         "url": "https://open.spotify.com/album/5z820NQpcx2PafFWJPHvRi"
       },
@@ -227,8 +211,24 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Pure Piano Compilation - 50 Tracks for Melodies for Your Soul",
-        "url": "https://open.spotify.com/album/6205SankuVPMzm7wMF9VqJ"
+        "name": "Vapor",
+        "url": "https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 182599,
+      "name": "Vapor",
+      "url": "https://open.spotify.com/track/0EYQhfsTUtViwb0BgygGHF"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "50 Soothing Piano Songs for Calm Sounds",
+        "url": "https://open.spotify.com/album/4Y62MOaCP2oclfu95mkmgH"
       },
       "artists": [
         {
@@ -236,21 +236,37 @@
           "url": "https://open.spotify.com/artist/6vvySZtW1kfq2277e0oUUp"
         },
         {
-          "name": "Music That Will Make You Cry",
-          "url": "https://open.spotify.com/artist/59wgMJe6XgbgcTYeWWCS2c"
-        },
-        {
-          "name": "Instrumental",
-          "url": "https://open.spotify.com/artist/0wMmGaXRfdHPhqSEAVQIr6"
+          "name": "Sleep Sound Library",
+          "url": "https://open.spotify.com/artist/2HUwcmtXI5ee5Zo3nnThlV"
         },
         {
           "name": "Meditaci\u00f3n",
           "url": "https://open.spotify.com/artist/1CXnoUdfelMmk8FPXwPtb7"
+        },
+        {
+          "name": "Yoga Music",
+          "url": "https://open.spotify.com/artist/3Dt5ruCnuc8Hf3BhPt1puK"
         }
       ],
-      "duration_ms": 157402,
-      "name": "Tranquil Nightfall Lullaby",
-      "url": "https://open.spotify.com/track/3dbHA1hp07qeW94bOqNCAB"
+      "duration_ms": 70193,
+      "name": "Gilded Slumber Serenade",
+      "url": "https://open.spotify.com/track/3EInRI6lkPZh8Vbus6U9B4"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "Mayonaka no Door~stay with me 2024",
+        "url": "https://open.spotify.com/album/3kDcz6EbJfyQyoYlJe0iCA"
+      },
+      "artists": [
+        {
+          "name": "Miki Matsubara",
+          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
+        }
+      ],
+      "duration_ms": 292666,
+      "name": "Mayonaka no Door~stay with me 2024",
+      "url": "https://open.spotify.com/track/62hTf9Vj6CdT4esPv7YHrn"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -271,22 +287,6 @@
       "duration_ms": 216458,
       "name": "Mariposa Traicionera - Sped Up",
       "url": "https://open.spotify.com/track/0ngJJTisoRct2WNiTNjM1l"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "Mayonaka no Door~stay with me 2024",
-        "url": "https://open.spotify.com/album/3kDcz6EbJfyQyoYlJe0iCA"
-      },
-      "artists": [
-        {
-          "name": "Miki Matsubara",
-          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
-        }
-      ],
-      "duration_ms": 292666,
-      "name": "Mayonaka no Door~stay with me 2024",
-      "url": "https://open.spotify.com/track/62hTf9Vj6CdT4esPv7YHrn"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 62124,
-      "name": "Goodbye ONCE!",
-      "url": "https://open.spotify.com/track/43A9VwnNKiMiee6tOtaP8W"
+      "duration_ms": 61750,
+      "name": "And the award goes to TWICE!",
+      "url": "https://open.spotify.com/track/5jpqkF1ohJiTuYj3HeTcmA"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -367,26 +367,6 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "The Season 3",
-        "url": "https://open.spotify.com/album/19WHVFUxoC46P4c2GxypNw"
-      },
-      "artists": [
-        {
-          "name": "Steve Perry",
-          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
-        },
-        {
-          "name": "Ray Perry",
-          "url": "https://open.spotify.com/artist/7Mf5asPyqcl5ZrFxScutTw"
-        }
-      ],
-      "duration_ms": 184894,
-      "name": "Call Me Irresponsible (feat. Ray Perry)",
-      "url": "https://open.spotify.com/track/6yWv7SxgX1JfxsGBilIwXt"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
         "name": "DJ Play A Christmas Song",
         "url": "https://open.spotify.com/album/6YPrceRYDOvKzxMFwvR31s"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 242533,
       "name": "DJ Play A Christmas Song",
       "url": "https://open.spotify.com/track/0ZoBFUJ5ZnFU7K3YZbzNN6"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "The Season 3",
+        "url": "https://open.spotify.com/album/19WHVFUxoC46P4c2GxypNw"
+      },
+      "artists": [
+        {
+          "name": "Steve Perry",
+          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
+        },
+        {
+          "name": "Ray Perry",
+          "url": "https://open.spotify.com/artist/7Mf5asPyqcl5ZrFxScutTw"
+        }
+      ],
+      "duration_ms": 184894,
+      "name": "Call Me Irresponsible (feat. Ray Perry)",
+      "url": "https://open.spotify.com/track/6yWv7SxgX1JfxsGBilIwXt"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 229997,
-      "name": "Disease",
-      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
         "name": "Avalon",
         "url": "https://open.spotify.com/album/195QGUKVD15clZE6ar1ECM"
       },
@@ -507,18 +491,18 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "American Idiot (20th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 154983,
-      "name": "American Idiot (Alt. Version) - Demo",
-      "url": "https://open.spotify.com/track/3tSGHoEd3CKJ9E5OtHKFZ1"
+      "duration_ms": 229997,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -535,6 +519,22 @@
       "duration_ms": 389870,
       "name": "Red - 2024 Elemental Mix",
       "url": "https://open.spotify.com/track/4Dw8TZ3Tx0Vu8qb0SJw8N7"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "American Idiot (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 154983,
+      "name": "American Idiot (Alt. Version) - Demo",
+      "url": "https://open.spotify.com/track/3tSGHoEd3CKJ9E5OtHKFZ1"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -571,34 +571,18 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Rest In Pieces",
-        "url": "https://open.spotify.com/album/3RSwZfjCaUFDkA66KJptiq"
+        "name": "Eagle Fly Free (Live)",
+        "url": "https://open.spotify.com/album/0HO38IeApQgLNoZFa7WDUM"
       },
       "artists": [
         {
-          "name": "The Rasmus",
-          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
         }
       ],
-      "duration_ms": 176249,
-      "name": "Rest In Pieces",
-      "url": "https://open.spotify.com/track/5r0b7F3MGee7IMeJxP1TKP"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "Thundercrest",
-        "url": "https://open.spotify.com/album/4YnzLz8y28D1YLygxsg5C7"
-      },
-      "artists": [
-        {
-          "name": "Pentagram",
-          "url": "https://open.spotify.com/artist/0xybuiDEYo3YuT3fLPaIyE"
-        }
-      ],
-      "duration_ms": 181053,
-      "name": "Thundercrest",
-      "url": "https://open.spotify.com/track/5v4FPdFmytFjOC36Fc0Loq"
+      "duration_ms": 484067,
+      "name": "Eagle Fly Free - Live",
+      "url": "https://open.spotify.com/track/71jWYgJpfjE9RrEQC0EbeU"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -619,18 +603,50 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Eagle Fly Free (Live)",
-        "url": "https://open.spotify.com/album/0HO38IeApQgLNoZFa7WDUM"
+        "name": "M.O.N.S.T.E.R",
+        "url": "https://open.spotify.com/album/2JGSSMxecWt7iAVsAN9asn"
       },
       "artists": [
         {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
         }
       ],
-      "duration_ms": 484067,
-      "name": "Eagle Fly Free - Live",
-      "url": "https://open.spotify.com/track/71jWYgJpfjE9RrEQC0EbeU"
+      "duration_ms": 216116,
+      "name": "M.O.N.S.T.E.R",
+      "url": "https://open.spotify.com/track/4LGn1Irqotkdak6ZoRuTHt"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "Thundercrest",
+        "url": "https://open.spotify.com/album/4YnzLz8y28D1YLygxsg5C7"
+      },
+      "artists": [
+        {
+          "name": "Pentagram",
+          "url": "https://open.spotify.com/artist/0xybuiDEYo3YuT3fLPaIyE"
+        }
+      ],
+      "duration_ms": 181053,
+      "name": "Thundercrest",
+      "url": "https://open.spotify.com/track/5v4FPdFmytFjOC36Fc0Loq"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "Weezer 30 (Anniversary Super Deluxe)",
+        "url": "https://open.spotify.com/album/2WBXvIfpIybjK1RSZKakrR"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 263093,
+      "name": "Undone - The Sweater Song - Acoustic / Live At Greater London Radio - January 26, 1995",
+      "url": "https://open.spotify.com/track/6iMUwDw44JlYWoClkz3x1u"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -667,50 +683,18 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Weezer 30 (Anniversary Super Deluxe)",
-        "url": "https://open.spotify.com/album/2WBXvIfpIybjK1RSZKakrR"
+        "name": "Rest In Pieces",
+        "url": "https://open.spotify.com/album/3RSwZfjCaUFDkA66KJptiq"
       },
       "artists": [
         {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
         }
       ],
-      "duration_ms": 263093,
-      "name": "Undone - The Sweater Song - Acoustic / Live At Greater London Radio - January 26, 1995",
-      "url": "https://open.spotify.com/track/6iMUwDw44JlYWoClkz3x1u"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "M.O.N.S.T.E.R",
-        "url": "https://open.spotify.com/album/2JGSSMxecWt7iAVsAN9asn"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 216116,
-      "name": "M.O.N.S.T.E.R",
-      "url": "https://open.spotify.com/track/4LGn1Irqotkdak6ZoRuTHt"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "Time On My Hands",
-        "url": "https://open.spotify.com/album/3BIrRXUZQjsIvb6qQbVLnZ"
-      },
-      "artists": [
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
-        }
-      ],
-      "duration_ms": 239733,
-      "name": "Time On My Hands",
-      "url": "https://open.spotify.com/track/5T8ON5PmKZmIBRP3EECkXG"
+      "duration_ms": 176249,
+      "name": "Rest In Pieces",
+      "url": "https://open.spotify.com/track/5r0b7F3MGee7IMeJxP1TKP"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -727,6 +711,22 @@
       "duration_ms": 297346,
       "name": "At The Left Hand Ov God - Live",
       "url": "https://open.spotify.com/track/2gkqHW1ZHLVHje1vaXXZ7g"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "Time On My Hands",
+        "url": "https://open.spotify.com/album/3BIrRXUZQjsIvb6qQbVLnZ"
+      },
+      "artists": [
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        }
+      ],
+      "duration_ms": 239733,
+      "name": "Time On My Hands",
+      "url": "https://open.spotify.com/track/5T8ON5PmKZmIBRP3EECkXG"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Five Foot One (Live at Montreux Jazz Festival 2023)",
-        "url": "https://open.spotify.com/album/5PKE3CEk8jI3Su9YOuDYgy"
+        "name": "Careless Whisper EP",
+        "url": "https://open.spotify.com/album/1kpWzb7Wn81IhCagRN3InU"
       },
       "artists": [
         {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 261392,
-      "name": "Five Foot One - Live at Montreux Jazz Festival 2023",
-      "url": "https://open.spotify.com/track/2Fp98AyMUHOECVgoucc4Fe"
+      "duration_ms": 342229,
+      "name": "Careless Whisper - Live From Madison Square Garden",
+      "url": "https://open.spotify.com/track/7BSyOLBcFhI6kD6ADNnxtr"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -827,18 +827,34 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Careless Whisper EP",
-        "url": "https://open.spotify.com/album/1kpWzb7Wn81IhCagRN3InU"
+        "name": "Five Foot One (Live at Montreux Jazz Festival 2023)",
+        "url": "https://open.spotify.com/album/5PKE3CEk8jI3Su9YOuDYgy"
       },
       "artists": [
         {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 342229,
-      "name": "Careless Whisper - Live From Madison Square Garden",
-      "url": "https://open.spotify.com/track/7BSyOLBcFhI6kD6ADNnxtr"
+      "duration_ms": 261392,
+      "name": "Five Foot One - Live at Montreux Jazz Festival 2023",
+      "url": "https://open.spotify.com/track/2Fp98AyMUHOECVgoucc4Fe"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "El Pa\u00eds Que So\u00f1amos",
+        "url": "https://open.spotify.com/album/3Xk3YnOXzeEuZFccFmoauO"
+      },
+      "artists": [
+        {
+          "name": "Inti-Illimani",
+          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
+        }
+      ],
+      "duration_ms": 324180,
+      "name": "Eleg\u00eda Para Una Muchacha Roja",
+      "url": "https://open.spotify.com/track/6I6hnYWEBtABe2PqwNs6UU"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -867,18 +883,18 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "El Pa\u00eds Que So\u00f1amos",
-        "url": "https://open.spotify.com/album/3Xk3YnOXzeEuZFccFmoauO"
+        "name": "Bruce Springsteen & The E Street Band - Road Diary",
+        "url": "https://open.spotify.com/album/68vmTrzCatCqV4oTrjwbZy"
       },
       "artists": [
         {
-          "name": "Inti-Illimani",
-          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 324180,
-      "name": "Eleg\u00eda Para Una Muchacha Roja",
-      "url": "https://open.spotify.com/track/6I6hnYWEBtABe2PqwNs6UU"
+      "duration_ms": 365000,
+      "name": "Ghosts - Live at Amalie Arena, Tampa, FL - 2/1/2023",
+      "url": "https://open.spotify.com/track/6rlgoNpLL6cw0DMuR129RU"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -907,42 +923,6 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "No es f\u00e1cil",
-        "url": "https://open.spotify.com/album/6fBpxd8IE62HrCiCReBo1L"
-      },
-      "artists": [
-        {
-          "name": "Vicente Feli\u00fa Miranda",
-          "url": "https://open.spotify.com/artist/2vcROKPkhfUQwgg4yj3Akx"
-        },
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 221831,
-      "name": "No es f\u00e1cil",
-      "url": "https://open.spotify.com/track/7CXXsjiY1fMO1ryUoB2OiE"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "Bruce Springsteen & The E Street Band - Road Diary",
-        "url": "https://open.spotify.com/album/68vmTrzCatCqV4oTrjwbZy"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 365000,
-      "name": "Ghosts - Live at Amalie Arena, Tampa, FL - 2/1/2023",
-      "url": "https://open.spotify.com/track/6rlgoNpLL6cw0DMuR129RU"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/5XjuB8WjardHuZpaMy6LXP"
       },
@@ -967,6 +947,42 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
+        "name": "No es f\u00e1cil",
+        "url": "https://open.spotify.com/album/6fBpxd8IE62HrCiCReBo1L"
+      },
+      "artists": [
+        {
+          "name": "Vicente Feli\u00fa Miranda",
+          "url": "https://open.spotify.com/artist/2vcROKPkhfUQwgg4yj3Akx"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 221831,
+      "name": "No es f\u00e1cil",
+      "url": "https://open.spotify.com/track/7CXXsjiY1fMO1ryUoB2OiE"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "The Pronoia Sessions",
+        "url": "https://open.spotify.com/album/0s6KhXlfy0PtPrMbrs8DZK"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 149391,
+      "name": "Save Us - Reimagined",
+      "url": "https://open.spotify.com/track/4ir34QxYL1yZSrgxwJltuN"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
         "name": "L.A. Is My Lady (Deluxe Edition / 2024 Mix)",
         "url": "https://open.spotify.com/album/4Ca98FQtAMzv5h1SiFZjX8"
       },
@@ -987,38 +1003,18 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Wild World (Venom: The Last Dance)",
-        "url": "https://open.spotify.com/album/27V9mZDPfIV4h6YWNJAWMV"
+        "name": "It Makes No Difference (Live at Crypto.com Arena, Los Angeles, CA, 9/24/2023)",
+        "url": "https://open.spotify.com/album/2fZaiwMi09O93vj6PATGZo"
       },
       "artists": [
         {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 200852,
-      "name": "Wild World (Venom: The Last Dance)",
-      "url": "https://open.spotify.com/track/2oYex4XLPn5NZ1uJJI4Kr1"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "S.O.S.",
-        "url": "https://open.spotify.com/album/78DjXJrlPFbIoV3ZBgmNx6"
-      },
-      "artists": [
-        {
-          "name": "CODE:WORDS",
-          "url": "https://open.spotify.com/artist/7C0WgfsDPjdDo17lsKSPmy"
-        },
-        {
-          "name": "From First To Last",
-          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "S.O.S.",
-      "url": "https://open.spotify.com/track/51BPUCS5GwKMOf6riOgBfO"
+      "duration_ms": 387833,
+      "name": "It Makes No Difference - Live at Crypto.com Arena, Los Angeles, CA, 9/24/2023",
+      "url": "https://open.spotify.com/track/3gijvmsddBYUiTrxdvMoF1"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -1051,34 +1047,18 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "It Makes No Difference (Live at Crypto.com Arena, Los Angeles, CA, 9/24/2023)",
-        "url": "https://open.spotify.com/album/2fZaiwMi09O93vj6PATGZo"
+        "name": "Wild World (Venom: The Last Dance)",
+        "url": "https://open.spotify.com/album/27V9mZDPfIV4h6YWNJAWMV"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
         }
       ],
-      "duration_ms": 387833,
-      "name": "It Makes No Difference - Live at Crypto.com Arena, Los Angeles, CA, 9/24/2023",
-      "url": "https://open.spotify.com/track/3gijvmsddBYUiTrxdvMoF1"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "The Pronoia Sessions",
-        "url": "https://open.spotify.com/album/0s6KhXlfy0PtPrMbrs8DZK"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 149391,
-      "name": "Save Us - Reimagined",
-      "url": "https://open.spotify.com/track/4ir34QxYL1yZSrgxwJltuN"
+      "duration_ms": 200852,
+      "name": "Wild World (Venom: The Last Dance)",
+      "url": "https://open.spotify.com/track/2oYex4XLPn5NZ1uJJI4Kr1"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -1099,22 +1079,22 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/0pPNexXQFja0xneDUveLTa"
+        "name": "S.O.S.",
+        "url": "https://open.spotify.com/album/78DjXJrlPFbIoV3ZBgmNx6"
       },
       "artists": [
         {
-          "name": "Jimmy Watkins",
-          "url": "https://open.spotify.com/artist/7MNKPc4ZSAqCa6qX3eG6xi"
+          "name": "CODE:WORDS",
+          "url": "https://open.spotify.com/artist/7C0WgfsDPjdDo17lsKSPmy"
         },
         {
-          "name": "Tiro De Gracia",
-          "url": "https://open.spotify.com/artist/3yIbPI61iAhMptDnfnyScb"
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
         }
       ],
-      "duration_ms": 187973,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/687esSRIlcOYM5TwgbQYdf"
+      "duration_ms": 222000,
+      "name": "S.O.S.",
+      "url": "https://open.spotify.com/track/51BPUCS5GwKMOf6riOgBfO"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -1143,6 +1123,26 @@
       "duration_ms": 174675,
       "name": "Takamura",
       "url": "https://open.spotify.com/track/4vIWFvCLWte4E7BLb28iSy"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/0pPNexXQFja0xneDUveLTa"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Watkins",
+          "url": "https://open.spotify.com/artist/7MNKPc4ZSAqCa6qX3eG6xi"
+        },
+        {
+          "name": "Tiro De Gracia",
+          "url": "https://open.spotify.com/artist/3yIbPI61iAhMptDnfnyScb"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/687esSRIlcOYM5TwgbQYdf"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "YOU GOTTA RUN",
-        "url": "https://open.spotify.com/album/0UDsknPG5AbLKR7xm3seas"
-      },
-      "artists": [
-        {
-          "name": "L'Arc-en-Ciel",
-          "url": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "YOU GOTTA RUN",
-      "url": "https://open.spotify.com/track/5M6dCPsVXY2MjAnuMsVJIU"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
         "name": "Como Te Lo Explico",
         "url": "https://open.spotify.com/album/28XxKrYr7FMqpHB6UjYUah"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 164333,
       "name": "Como Te Lo Explico",
       "url": "https://open.spotify.com/track/2tE7TyKve9U2kkYEGqMr0b"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "YOU GOTTA RUN",
+        "url": "https://open.spotify.com/album/0UDsknPG5AbLKR7xm3seas"
+      },
+      "artists": [
+        {
+          "name": "L'Arc-en-Ciel",
+          "url": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "YOU GOTTA RUN",
+      "url": "https://open.spotify.com/track/5M6dCPsVXY2MjAnuMsVJIU"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -1375,30 +1375,6 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Snus (Tony Romera Remix)",
-        "url": "https://open.spotify.com/album/6RBBJmRSp748wbqTHEHXY3"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Sebastien Drums",
-          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
-        },
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        }
-      ],
-      "duration_ms": 179047,
-      "name": "Snus - Tony Romera Remix",
-      "url": "https://open.spotify.com/track/3cgOIThWrE4g3WjNtOByOL"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
         "name": "Lluvia Refrescante",
         "url": "https://open.spotify.com/album/5iueM8Nrm9CtvSzzdSqiu6"
       },
@@ -1419,6 +1395,30 @@
       "duration_ms": 102796,
       "name": "Rain-Kissed Raindrop Pearls",
       "url": "https://open.spotify.com/track/7ErUh24DNmMhd3jGuHB3Kj"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "Snus (Tony Romera Remix)",
+        "url": "https://open.spotify.com/album/6RBBJmRSp748wbqTHEHXY3"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sebastien Drums",
+          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
+        },
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "duration_ms": 179047,
+      "name": "Snus - Tony Romera Remix",
+      "url": "https://open.spotify.com/track/3cgOIThWrE4g3WjNtOByOL"
     },
     {
       "added_at": "2024-11-08 03:00:00",

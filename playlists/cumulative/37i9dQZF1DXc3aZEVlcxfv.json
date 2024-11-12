@@ -656,7 +656,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 167094,
       "name": "Lai Lai",
       "url": "https://open.spotify.com/track/4J7u9sUTi63l1KOIw5o9jC"
@@ -1318,6 +1318,24 @@
       "duration_ms": 183050,
       "name": "You Are Great",
       "url": "https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK"
+    },
+    {
+      "album": {
+        "name": "ZOE",
+        "url": "https://open.spotify.com/album/3H9ke91YEz9p6m3Gj1QI6I"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "date_added": "2024-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209403,
+      "name": "ZOE",
+      "url": "https://open.spotify.com/track/5hIs8axd88ghEVcfagZRqv"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc3aZEVlcxfv"

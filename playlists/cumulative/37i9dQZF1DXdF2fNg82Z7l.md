@@ -4,7 +4,7 @@
 
 > a strictly smooth mood...cover: Kehlani
 
-189 songs - 9 hr 45 min
+190 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [9 to 5](https://open.spotify.com/track/5mxyI5JvaxInlaZFgCLr5j) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [9 to 5](https://open.spotify.com/album/4iZ32ii2xQGxj6WRlriOEg) | 2:48 | 2024-10-17 | 2024-11-08 |
 | [911](https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [911](https://open.spotify.com/album/6ttkQSLzTo8hug4JWcBkOa) | 2:07 | 2024-07-29 |  |
 | [A N X I E T Y \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2024-03-14 | 2024-07-30 |
-| [Actually](https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 3:47 | 2024-10-24 |  |
+| [Actually](https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 3:47 | 2024-10-24 | 2024-11-12 |
 | [Adolescence \(Ft\. Digga D\)](https://open.spotify.com/track/3ZHGe1GshUNN57bz8khFNf) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Adolescence \(Ft\. Digga D\)](https://open.spotify.com/album/2eYUcSI6kc1sOW7oU5vTu5) | 2:51 | 2024-03-14 | 2024-10-05 |
 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 | 2024-03-14 |  |
 | [All In](https://open.spotify.com/track/3pJsTxvDmY1G9hfh4G72P3) | [SaxONLY](https://open.spotify.com/artist/3wQ96sPHigjP4p78aCoG4y) | [All In](https://open.spotify.com/album/2EaTAB8COSHTCcevxTboLU) | 1:54 | 2024-03-14 | 2024-07-30 |
@@ -197,5 +197,6 @@
 | [WYA](https://open.spotify.com/track/0pWe6arB3oGxI8msYHObbA) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [WYA](https://open.spotify.com/album/7I5lABeFEjFJcdgrVltGr7) | 2:16 | 2024-10-04 |  |
 | [Yah Mean](https://open.spotify.com/track/5MUxrNd7Gr2HksLcAlB0IO) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 2:45 | 2024-10-04 |  |
 | [Zero](https://open.spotify.com/track/5A9UIlGcswXCVdSLrirf7K) | [Octavian](https://open.spotify.com/artist/5zfEatKLDdRkgbw6sdLBAQ) | [Zero](https://open.spotify.com/album/6b0EVTq1zRwzReVxYLUnm9) | 1:54 | 2024-07-29 | 2024-10-05 |
+| [Évidemment](https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Évidemment](https://open.spotify.com/album/3qvdIPyaNhixZHKX1hVkLb) | 3:03 | 2024-11-07 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

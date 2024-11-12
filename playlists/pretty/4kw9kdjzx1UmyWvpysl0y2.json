@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125729,
+  "num_followers": 125727,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATSRHX7zgb+3KxG1d1Jju/bvgwndA9",
+  "snapshot_id": "AAATSktTspOweF/2pG1FzS9Ukq6w3Uo7",
   "tracks": [
+    {
+      "added_at": "2024-11-11 17:33:03",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/05yrtaurZxzZdTcfA4dvK0"
+      },
+      "artists": [
+        {
+          "name": "Pixel Terror",
+          "url": "https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm"
+        },
+        {
+          "name": "The Living Proof",
+          "url": "https://open.spotify.com/artist/0ugBL1a1T65aLKkctOHh2d"
+        },
+        {
+          "name": "Michael Swank",
+          "url": "https://open.spotify.com/artist/1p4l2x4EUENGm1VCQfBkuu"
+        }
+      ],
+      "duration_ms": 248275,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/22rStFQ2WXKmD1HkVFJ4hJ"
+    },
     {
       "added_at": "2024-11-08 18:13:48",
       "album": {

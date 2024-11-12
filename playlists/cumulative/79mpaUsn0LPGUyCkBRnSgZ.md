@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-767 songs - 2 day 3 hr 35 min
+768 songs - 2 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Body](https://open.spotify.com/track/2l7JlYeniNFfIzfj3dOUjb) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 5:07 | 2023-04-30 | 2023-12-14 |
 | [Body of Work](https://open.spotify.com/track/2ZaM1JRPn73pqq5cqOz7WZ) | [Cave Story](https://open.spotify.com/artist/1VJmUKy8XJ1gecAv2KRUDx) | [West](https://open.spotify.com/album/0Up7fNL6ZFNMx3sGdYNTOS) | 4:02 | 2024-01-18 |  |
 | [Bonito Intro](https://open.spotify.com/track/5b1S06C3AuUOelyne3OJEw) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Intro Bonito](https://open.spotify.com/album/3s3PEd50fVx2qXMNgPy0uD) | 0:50 | 2023-05-18 | 2023-06-15 |
+| [Bop Gun \(Endangered Species\)](https://open.spotify.com/track/3fHrnF1MxAZaiGVkGIxM9h) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Funkentelechy Vs\. The Placebo Syndrome](https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd) | 8:35 | 2024-11-11 |  |
 | [Born](https://open.spotify.com/track/0BiEG7SI1LyBjwKJIjew4q) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Reptilians](https://open.spotify.com/album/5pfqk4oFycMVynOD8S2Cqs) | 3:23 | 2022-12-18 |  |
 | [Born To Die](https://open.spotify.com/track/5kMAugdkH2coRHRnW5FuDb) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die](https://open.spotify.com/album/4vXt6IpMcSnqonljffWlMI) | 4:46 | 2024-07-05 |  |
 | [Boys](https://open.spotify.com/track/6Nc3KauZ5OOk7ogX7h5HhO) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr) | 4:39 | 2023-06-08 | 2023-07-11 |

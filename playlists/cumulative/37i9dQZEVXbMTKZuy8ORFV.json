@@ -7472,7 +7472,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 286760,
       "name": "JPN",
       "url": "https://open.spotify.com/track/7a66e0TSXh1fKpSCLDQvUa"
@@ -7668,7 +7668,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 220361,
       "name": "KIZAO",
       "url": "https://open.spotify.com/track/2ejhK0OtBe4CdfD67uqzGB"
@@ -7784,7 +7784,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 193461,
       "name": "La Foto",
       "url": "https://open.spotify.com/track/1BSijYfeMpjKCzfROYNKh7"
@@ -12230,7 +12230,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 269967,
       "name": "Por Que Te Tengo Que Olvidar",
       "url": "https://open.spotify.com/track/2hEQ4kbGvQvjyTwMFhA1IW"
@@ -14940,7 +14940,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 156333,
       "name": "Te Amo y M\u00e1s",
       "url": "https://open.spotify.com/track/5I0aHj2JSQpoxSQnh3XcjO"
@@ -15750,7 +15750,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-26",
+      "date_removed": null,
       "duration_ms": 358000,
       "name": "True Love",
       "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"
@@ -15892,6 +15892,24 @@
       "duration_ms": 180543,
       "name": "Tumba",
       "url": "https://open.spotify.com/track/5Ywg69AnG1CLLGEXne1MVy"
+    },
+    {
+      "album": {
+        "name": "Tumbayork",
+        "url": "https://open.spotify.com/album/3Yvc0qZdCKDR3GIxXPLRSY"
+      },
+      "artists": [
+        {
+          "name": "Emipaiy",
+          "url": "https://open.spotify.com/artist/1aBZltZh7kyl4rUGSYRXLx"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127824,
+      "name": "Tumbayork",
+      "url": "https://open.spotify.com/track/3Fxc8r8XAhIBNhXvPy2Ylj"
     },
     {
       "album": {
@@ -16038,7 +16056,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 90461,
       "name": "UH VEI VEI",
       "url": "https://open.spotify.com/track/5Uph2AVeAtXBBdNIBUKeB1"
@@ -17230,6 +17248,24 @@
     {
       "album": {
         "name": "Whiplash - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183226,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
+    },
+    {
+      "album": {
+        "name": "Whiplash - The 5th Mini Album",
         "url": "https://open.spotify.com/album/6RRuiUup6Z0Y0MxkCXOGyU"
       },
       "artists": [
@@ -17240,7 +17276,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p"

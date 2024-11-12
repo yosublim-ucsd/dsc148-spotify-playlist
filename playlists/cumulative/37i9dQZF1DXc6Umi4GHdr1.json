@@ -2699,6 +2699,24 @@
     },
     {
       "album": {
+        "name": "In A Dream",
+        "url": "https://open.spotify.com/album/0ztD5jQE1F3plYTyquXMTT"
+      },
+      "artists": [
+        {
+          "name": "Sam With Friends",
+          "url": "https://open.spotify.com/artist/5HZyj5PKGDHT6iGBQDSTDC"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234202,
+      "name": "In A Dream",
+      "url": "https://open.spotify.com/track/1YZuQQr59Qyt8GDurB8ghX"
+    },
+    {
+      "album": {
         "name": "In good company",
         "url": "https://open.spotify.com/album/4RA2oHsVnCcQQYUnYaDBkc"
       },

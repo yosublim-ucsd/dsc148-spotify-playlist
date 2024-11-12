@@ -4,7 +4,7 @@
 
 > The best indie music of the moment\. Pem..\. 🤍
 
-265 songs - 15 hr 12 min
+266 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,8 @@
 | [Texas Rains](https://open.spotify.com/track/5g5BqFsBPJXFgqPgLQwSa0) | [Dutch Criminal Record](https://open.spotify.com/artist/5h6KJPKB8cSVJTWZhKAZoT) | [Novium](https://open.spotify.com/album/75lQ42UAIOZSNNhrXbdiqh) | 3:27 | 2024-08-22 | 2024-11-01 |
 | [Thank Goodness](https://open.spotify.com/track/0MCmDFSRKTeuitiuzlyaDh) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Thank Goodness](https://open.spotify.com/album/5cpLhqq5HlPdLPhrN8tgbh) | 3:20 | 2024-08-15 | 2024-11-01 |
 | [The Bed, The Room, The Rain and You](https://open.spotify.com/track/73MkKDeELnYufTdyA3Xj5R) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Bed, The Room, The Rain and You](https://open.spotify.com/album/1TPWuITTFW8RdqRfrNVEO5) | 2:28 | 2024-08-15 | 2024-09-06 |
-| [The Beginning Of The End \(feat\. DMA'S\)](https://open.spotify.com/track/2H39sC1tPnvxNCFamU3m2N) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2), [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [The Beginning Of The End \(feat\. DMA'S\)](https://open.spotify.com/album/6Zx7KmsMOLDheCjXZAYaSE) | 3:41 | 2024-10-25 |  |
+| [The Beginning Of The End \(feat\. DMA'S\)](https://open.spotify.com/track/0vtyxhoTo6eWHLQg8ewa9J) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2), [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Pink Cactus Café](https://open.spotify.com/album/1uqDCI2xkDcXYu6bX3UrXS) | 3:41 | 2024-11-11 |  |
+| [The Beginning Of The End \(feat\. DMA'S\)](https://open.spotify.com/track/2H39sC1tPnvxNCFamU3m2N) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2), [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [The Beginning Of The End \(feat\. DMA'S\)](https://open.spotify.com/album/6Zx7KmsMOLDheCjXZAYaSE) | 3:41 | 2024-10-25 | 2024-11-12 |
 | [The Best Tears of Your Life](https://open.spotify.com/track/0HELrIzuk3GhtxoGkYrZfa) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 3:28 | 2024-06-27 | 2024-08-09 |
 | [The Burren](https://open.spotify.com/track/0o4rSqA5H8Y2HrMqBf6TD5) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were \(10th Year Anniversary Deluxe\)](https://open.spotify.com/album/5ncFZmznUiXpbw2rIMwLP8) | 5:25 | 2024-10-10 |  |
 | [The Feminine Urge](https://open.spotify.com/track/4uAPVHpdoGKHmIFkv1wgmb) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:26 | 2024-07-25 | 2024-10-18 |

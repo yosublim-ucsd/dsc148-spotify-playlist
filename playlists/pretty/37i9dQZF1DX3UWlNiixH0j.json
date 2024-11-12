@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: TOSH",
-  "num_followers": 59294,
+  "num_followers": 59300,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
-        "name": "Correspondances",
-        "url": "https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z"
-      },
-      "artists": [
-        {
-          "name": "CHO CO PA CO CHO CO QUIN QUIN",
-          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "\u58f0\u3092\u805e\u304b\u305b\u3066",
-      "url": "https://open.spotify.com/track/0ZJmMINFDqxtS5QhZzMjWh"
-    },
-    {
-      "added_at": "2024-11-05 15:00:00",
-      "album": {
         "name": "Forest (feat. ACE COOL)",
         "url": "https://open.spotify.com/album/23qxN8jxIdoYRQrFnclqn5"
       },
@@ -743,18 +727,34 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
-        "name": "Dangomushi",
-        "url": "https://open.spotify.com/album/0FKaTqPn6qJYboQTcER1zk"
+        "name": "Correspondances",
+        "url": "https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z"
       },
       "artists": [
         {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
         }
       ],
-      "duration_ms": 199930,
-      "name": "Dangomushi",
-      "url": "https://open.spotify.com/track/3W8pwBzT8ZqYbW45X7lotM"
+      "duration_ms": 148000,
+      "name": "\u58f0\u3092\u805e\u304b\u305b\u3066",
+      "url": "https://open.spotify.com/track/0ZJmMINFDqxtS5QhZzMjWh"
+    },
+    {
+      "added_at": "2024-11-05 15:00:00",
+      "album": {
+        "name": "ZERO",
+        "url": "https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "\u30ab\u30b2\u30ed\u30a6",
+      "url": "https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH"
     },
     {
       "added_at": "2024-11-05 15:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
+        "name": "Dangomushi",
+        "url": "https://open.spotify.com/album/0FKaTqPn6qJYboQTcER1zk"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 199930,
+      "name": "Dangomushi",
+      "url": "https://open.spotify.com/track/3W8pwBzT8ZqYbW45X7lotM"
+    },
+    {
+      "added_at": "2024-11-05 15:00:00",
+      "album": {
         "name": "\u3075\u305f\u308a\u306e\u6620\u753b",
         "url": "https://open.spotify.com/album/2yRaD5QzVFRFXu3XRj5wII"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 207966,
       "name": "\u3075\u305f\u308a\u306e\u6620\u753b",
       "url": "https://open.spotify.com/track/0pcf8NBtfYsNYiGI4jonYf"
-    },
-    {
-      "added_at": "2024-11-05 15:00:00",
-      "album": {
-        "name": "ZERO",
-        "url": "https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0"
-      },
-      "artists": [
-        {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "\u30ab\u30b2\u30ed\u30a6",
-      "url": "https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH"
     },
     {
       "added_at": "2024-11-05 15:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
-        "name": "Thirsty",
-        "url": "https://open.spotify.com/album/1bAuFD7N2XwXvYCOgmgVr3"
-      },
-      "artists": [
-        {
-          "name": "She Her Her Hers",
-          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
-        }
-      ],
-      "duration_ms": 164992,
-      "name": "Thirsty",
-      "url": "https://open.spotify.com/track/3RuXVFUyACarEYmHBimSkr"
-    },
-    {
-      "added_at": "2024-11-05 15:00:00",
-      "album": {
         "name": "Make a Move",
         "url": "https://open.spotify.com/album/3N1fwVfpKuz6y2DWuCAZo7"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 157133,
       "name": "Make a Move",
       "url": "https://open.spotify.com/track/0Bqqnzb5F6dJZdOe4j2UzU"
+    },
+    {
+      "added_at": "2024-11-05 15:00:00",
+      "album": {
+        "name": "Thirsty",
+        "url": "https://open.spotify.com/album/1bAuFD7N2XwXvYCOgmgVr3"
+      },
+      "artists": [
+        {
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
+        }
+      ],
+      "duration_ms": 164992,
+      "name": "Thirsty",
+      "url": "https://open.spotify.com/track/3RuXVFUyACarEYmHBimSkr"
     },
     {
       "added_at": "2024-11-05 15:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
+        "name": "\u300cGarden of Remembrance\u300d\u5287\u4e2d\u66f2",
+        "url": "https://open.spotify.com/album/5EWWd1nPJMu0XtKvpNSwkz"
+      },
+      "artists": [
+        {
+          "name": "Lovely Summer Chan",
+          "url": "https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips"
+        }
+      ],
+      "duration_ms": 436349,
+      "name": "Garden of Remembrance",
+      "url": "https://open.spotify.com/track/1z2BwXcCg7udJjekN3JuMh"
+    },
+    {
+      "added_at": "2024-11-05 15:00:00",
+      "album": {
         "name": "B.B.M. (feat. PinocchioP)",
         "url": "https://open.spotify.com/album/15uxM8fUHm8e8TzLxuaW68"
       },
@@ -987,18 +1003,22 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
-        "name": "\u300cGarden of Remembrance\u300d\u5287\u4e2d\u66f2",
-        "url": "https://open.spotify.com/album/5EWWd1nPJMu0XtKvpNSwkz"
+        "name": "Sorrow (feat. Mandark)",
+        "url": "https://open.spotify.com/album/4g4MowiT8Au4qUYZABRcyQ"
       },
       "artists": [
         {
-          "name": "Lovely Summer Chan",
-          "url": "https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips"
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Mandark",
+          "url": "https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks"
         }
       ],
-      "duration_ms": 436349,
-      "name": "Garden of Remembrance",
-      "url": "https://open.spotify.com/track/1z2BwXcCg7udJjekN3JuMh"
+      "duration_ms": 192857,
+      "name": "Sorrow (feat. Mandark)",
+      "url": "https://open.spotify.com/track/0ZCcrOzh8CnhkQY0PpcKzT"
     },
     {
       "added_at": "2024-11-05 15:00:00",
@@ -1023,26 +1043,6 @@
       "duration_ms": 149271,
       "name": "SUKIYAKI",
       "url": "https://open.spotify.com/track/1Ps2Yky3EWKGuB48xK0xti"
-    },
-    {
-      "added_at": "2024-11-05 15:00:00",
-      "album": {
-        "name": "Sorrow (feat. Mandark)",
-        "url": "https://open.spotify.com/album/4g4MowiT8Au4qUYZABRcyQ"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "Mandark",
-          "url": "https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks"
-        }
-      ],
-      "duration_ms": 192857,
-      "name": "Sorrow (feat. Mandark)",
-      "url": "https://open.spotify.com/track/0ZCcrOzh8CnhkQY0PpcKzT"
     },
     {
       "added_at": "2024-11-05 15:00:00",
@@ -1075,6 +1075,22 @@
       "duration_ms": 174482,
       "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
       "url": "https://open.spotify.com/track/59IYIoki3Z4UEVBuegE0ZN"
+    },
+    {
+      "added_at": "2024-11-05 15:00:00",
+      "album": {
+        "name": "\u82b1\u5439\u96ea",
+        "url": "https://open.spotify.com/album/1ZUekUfbjy2Qavhx1MvN7y"
+      },
+      "artists": [
+        {
+          "name": "ROTH BART BARON",
+          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+        }
+      ],
+      "duration_ms": 235763,
+      "name": "\u82b1\u5439\u96ea",
+      "url": "https://open.spotify.com/track/2e6IilpmHjfwwwHvpOyy9n"
     },
     {
       "added_at": "2024-11-05 15:00:00",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
-        "name": "\u82b1\u5439\u96ea",
-        "url": "https://open.spotify.com/album/1ZUekUfbjy2Qavhx1MvN7y"
-      },
-      "artists": [
-        {
-          "name": "ROTH BART BARON",
-          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
-        }
-      ],
-      "duration_ms": 235763,
-      "name": "\u82b1\u5439\u96ea",
-      "url": "https://open.spotify.com/track/2e6IilpmHjfwwwHvpOyy9n"
-    },
-    {
-      "added_at": "2024-11-05 15:00:00",
-      "album": {
         "name": "MEBAE",
         "url": "https://open.spotify.com/album/5GonM3oQ2zizSIdu6EVVY3"
       },
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
-        "name": "\u307f\u3093\u306a\u3067\u6b4c\u3044\u307e\u3057\u3087\u3046",
-        "url": "https://open.spotify.com/album/2XErv7Wob6K5SKUlBsvaQR"
-      },
-      "artists": [
-        {
-          "name": "Yuma Abe",
-          "url": "https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z"
-        }
-      ],
-      "duration_ms": 221938,
-      "name": "\u307f\u3093\u306a\u3067\u6b4c\u3044\u307e\u3057\u3087\u3046",
-      "url": "https://open.spotify.com/track/6A6lvYZSDHq4XS5B0TGTvL"
-    },
-    {
-      "added_at": "2024-11-05 15:00:00",
-      "album": {
         "name": "\u3042\u305f\u3057\u306e\u5168\u90e8\u3092\u611b\u305b\u306a\u3044",
         "url": "https://open.spotify.com/album/0OunnU4xFgcVZBbFZ61kHQ"
       },
@@ -1199,6 +1183,38 @@
     {
       "added_at": "2024-11-05 15:00:00",
       "album": {
+        "name": "\u307f\u3093\u306a\u3067\u6b4c\u3044\u307e\u3057\u3087\u3046",
+        "url": "https://open.spotify.com/album/2XErv7Wob6K5SKUlBsvaQR"
+      },
+      "artists": [
+        {
+          "name": "Yuma Abe",
+          "url": "https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z"
+        }
+      ],
+      "duration_ms": 221938,
+      "name": "\u307f\u3093\u306a\u3067\u6b4c\u3044\u307e\u3057\u3087\u3046",
+      "url": "https://open.spotify.com/track/6A6lvYZSDHq4XS5B0TGTvL"
+    },
+    {
+      "added_at": "2024-11-05 15:00:00",
+      "album": {
+        "name": "\u9006\u3089\u3046\u7fbd",
+        "url": "https://open.spotify.com/album/7lGyp88PLnR60gw7HHOkSU"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u6728\u7f8e\u5b9a",
+          "url": "https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "\u9006\u3089\u3046\u7fbd",
+      "url": "https://open.spotify.com/track/6Tft44KxfwDbrNUSqT3Rlh"
+    },
+    {
+      "added_at": "2024-11-05 15:00:00",
+      "album": {
         "name": "\u4e16\u754c\u306b\u541b\u4e00\u4eba\u3060\u3051",
         "url": "https://open.spotify.com/album/0aZ5fxz1ePR5Yug1lS0bz0"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 247023,
       "name": "\u4e16\u754c\u306b\u541b\u4e00\u4eba\u3060\u3051",
       "url": "https://open.spotify.com/track/2MBYHLxowxWCAhA6wd73G6"
-    },
-    {
-      "added_at": "2024-11-05 15:00:00",
-      "album": {
-        "name": "\u7d20\u76f4 (My Favorite Things Ver.)",
-        "url": "https://open.spotify.com/album/1zVYXR52oPGXd2MiJqqwIU"
-      },
-      "artists": [
-        {
-          "name": "Satoko Shibata",
-          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
-        }
-      ],
-      "duration_ms": 232709,
-      "name": "\u7d20\u76f4 - My Favorite Things Ver.",
-      "url": "https://open.spotify.com/track/4UT4ZIYNEZGNySxuaRQXD2"
     },
     {
       "added_at": "2024-11-05 15:00:00",

@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Rebecca Black
+> Dark, hard hitting pop\. Cover: Stela Cole
 
-815 songs - 1 day 13 hr 33 min
+817 songs - 1 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Blonde](https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Blonde](https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI) | 3:01 | 2022-08-05 | 2022-11-19 |
 | [Bloodline](https://open.spotify.com/track/7k0CjQfqiS0vHpvxMECarP) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Bloodline](https://open.spotify.com/album/0ewvS55UVfLQPe9Ew7Xpre) | 2:34 | 2022-03-25 | 2022-07-23 |
 | [blue](https://open.spotify.com/track/78PzKHIuCAv8ve3VLIfCI8) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [blue](https://open.spotify.com/album/64Ezf43dKpmAsCXUPmO6Wr) | 2:48 | 2023-03-24 | 2023-08-05 |
+| [Blue Moon](https://open.spotify.com/track/6bCE0p7QX3Tx4rZGDyaJ1U) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Blue Moon](https://open.spotify.com/album/5Eg6oyQd5RJS7KuGooq5iJ) | 3:17 | 2024-11-11 |  |
 | [BLURRY](https://open.spotify.com/track/1bMUGYJ8N8ftjoaLL9FOBM) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [BLURRY](https://open.spotify.com/album/7lZdWg70vTWn6sbohZGzQF) | 2:34 | 2023-07-07 | 2023-12-09 |
 | [BODY BAG](https://open.spotify.com/track/63f24av3B364sOS3oXoGL0) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [BODY BAG](https://open.spotify.com/album/48NNeH33UfKEnvCJWmi7vt) | 3:06 | 2024-01-12 | 2024-03-23 |
 | [Bon Voyage](https://open.spotify.com/track/012jGdugVtQMUJn8s6onGo) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Bon Voyage](https://open.spotify.com/album/7MkPMywDbiUC6QJ7J4Vgt9) | 3:24 | 2024-10-04 |  |
@@ -144,7 +145,7 @@
 | [Celebrity Skin](https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Celebrity Skin](https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl) | 2:39 | 2022-02-25 | 2022-05-28 |
 | [changes](https://open.spotify.com/track/3fuaISGMWzSNjkcdeUJUb9) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [a liquid breakfast DELUXE](https://open.spotify.com/album/6LDit3vNb3nWRCNza4IfHj) | 2:04 | 2022-01-28 | 2022-02-19 |
 | [Charisma](https://open.spotify.com/track/2mtBjvQzQHtknKFQKTbCbX) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Charisma](https://open.spotify.com/album/2TcKAlzwi9pSGMpVOIXho4) | 2:57 | 2023-12-08 | 2024-02-24 |
-| [Chasm](https://open.spotify.com/track/3B2zZpNfRY47H0eyVBFlPn) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Chasm](https://open.spotify.com/album/3J5RD4gtqmlIYptWCyi4hg) | 3:03 | 2024-07-26 |  |
+| [Chasm](https://open.spotify.com/track/3B2zZpNfRY47H0eyVBFlPn) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Chasm](https://open.spotify.com/album/3J5RD4gtqmlIYptWCyi4hg) | 3:03 | 2024-07-26 | 2024-11-12 |
 | [Checkered Vans](https://open.spotify.com/track/2L6OCsfX3WT1Vt7Pc5ID0b) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Checkered Vans](https://open.spotify.com/album/23ebC7TSnXeAh3tt21tIap) | 3:18 | 2023-02-10 | 2023-03-04 |
 | [Cheerleader](https://open.spotify.com/track/4Bgh6Uv9851EcAMH8IRirR) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Cheerleader](https://open.spotify.com/album/02TKqxmoLu0YMByukgmtlH) | 2:12 | 2023-07-28 | 2024-01-05 |
 | [Cherry Picking](https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [Cherry Picking](https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8) | 2:30 | 2022-03-04 | 2022-05-28 |
@@ -167,6 +168,7 @@
 | [Crazy Bitch](https://open.spotify.com/track/1ALb2cQBsy82S5kmBVkpxD) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Crazy Bitch](https://open.spotify.com/album/3nTpGSWw548JAYpwVJS4jZ) | 3:02 | 2024-09-06 |  |
 | [Crazy Ex](https://open.spotify.com/track/6oAiUgrZtKQIX3uWYy3MTz) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Falling Out / Falling In](https://open.spotify.com/album/6G7ApRsQqJ94dEwgV5bykb) | 2:29 | 2023-02-10 | 2023-03-04 |
 | [Crazy Woman](https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v) | 2:48 | 2024-06-28 | 2024-09-07 |
+| [crocodile tears](https://open.spotify.com/track/71q2aFtpjsH4CG5Xbcc0jJ) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [crocodile tears](https://open.spotify.com/album/447seuu3X7RLUyNBijtw1b) | 3:08 | 2024-11-11 |  |
 | [Cross My Heart I Hope U Die](https://open.spotify.com/track/5KJmWpLw1VpmJDSGp9zr3y) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/20TIqhqCGg1APlKuQGmCri) | 2:48 | 2021-09-17 | 2022-04-09 |
 | [Cross My Heart I Hope U Die \(With Chandler Leighton\)](https://open.spotify.com/track/2YWQGk9zzkAkGXmjP027db) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Cross My Heart I Hope U Die \(With Chandler Leighton\)](https://open.spotify.com/album/7oXLJl1mwaPoewLLvE9emw) | 2:49 | 2023-10-06 | 2024-06-08 |
 | [Cruel World](https://open.spotify.com/track/4RtLJdGrUDDf6o7EhQtcas) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Cruel World](https://open.spotify.com/album/2KLQvgaPDzX9mhwKHdgoXn) | 3:03 | 2022-04-22 | 2022-09-10 |
@@ -254,7 +256,7 @@
 | [Famous](https://open.spotify.com/track/5x1TPsoSvyrZkJM9JXRiWj) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [Famous](https://open.spotify.com/album/1qhzuAx20QoG9IIcl2X4Me) | 3:00 | 2024-07-12 | 2024-09-28 |
 | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A) | 2:55 | 2023-04-14 | 2023-07-22 |
 | [Father, Son, Holy Ghost](https://open.spotify.com/track/0aJb0z0Izv8Hjr3Oh4nC4Y) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Father, Son, Holy Ghost](https://open.spotify.com/album/1yYflK4Y3nuKYeA7LyPyhF) | 2:33 | 2023-04-07 | 2023-08-05 |
-| [FAVOURITE MISTAKE](https://open.spotify.com/track/0rH7Q9eatIX85iEjnTVzex) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [FAVOURITE MISTAKE](https://open.spotify.com/album/1zC5t0eCDIAj4j4sbW6XsQ) | 2:36 | 2024-08-16 |  |
+| [FAVOURITE MISTAKE](https://open.spotify.com/track/0rH7Q9eatIX85iEjnTVzex) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [FAVOURITE MISTAKE](https://open.spotify.com/album/1zC5t0eCDIAj4j4sbW6XsQ) | 2:36 | 2024-08-16 | 2024-11-12 |
 | [FCKN IN LOVE](https://open.spotify.com/track/2UN1L1asI3uKQCijznnz8Z) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [FCKN IN LOVE](https://open.spotify.com/album/6E9vd6KQ1xdRmiwx7YmGO9) | 3:14 | 2022-02-25 | 2022-04-23 |
 | [Feel What I'm Feeling](https://open.spotify.com/track/0SJmLC2S4RN2AbYcJWo0oK) | [LEX](https://open.spotify.com/artist/73R7pkwL1kz9gqVScbbjab) | [Feel What I'm Feeling](https://open.spotify.com/album/38GheDPkEHqvq7U20WkwwX) | 2:54 | 2022-10-07 | 2023-05-20 |
 | [feelings](https://open.spotify.com/track/7yLfsctj9g0z2NB3v3IGcz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [feelings](https://open.spotify.com/album/1ScPqJzn6l2a8JdnndMZUV) | 2:20 | 2023-03-03 | 2023-08-05 |
@@ -392,7 +394,7 @@
 | [INTIMACY ISSUES](https://open.spotify.com/track/6dWNhHol6ZB8TAY0urVBwj) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [INTIMACY ISSUES](https://open.spotify.com/album/5SXtS4KZSbhxjbW99aus7A) | 2:02 | 2024-02-16 | 2024-06-15 |
 | [Into My Body](https://open.spotify.com/track/40HSFJpsSRNDkuxA0IaL34) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Into My Body](https://open.spotify.com/album/0fFbuKhFl6pk44s5mETFz6) | 2:24 | 2022-10-28 | 2022-12-16 |
 | [Into My Body](https://open.spotify.com/track/6Idi0H5TS4PwVW91ReBK7z) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Sagittarius](https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25) | 2:24 | 2022-10-28 | 2023-05-06 |
-| [Invasion](https://open.spotify.com/track/4Zzm3yLTEPa2gaiJw0uPNF) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Invasion](https://open.spotify.com/album/3YxxHFu1LsbhfZabdegMm4) | 3:37 | 2024-07-26 |  |
+| [Invasion](https://open.spotify.com/track/4Zzm3yLTEPa2gaiJw0uPNF) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Invasion](https://open.spotify.com/album/3YxxHFu1LsbhfZabdegMm4) | 3:37 | 2024-07-26 | 2024-11-12 |
 | [Irresponsible](https://open.spotify.com/track/60SugyNV4FdewZfktXfXte) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Irresponsible](https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd) | 2:04 | 2023-05-26 | 2023-08-19 |
 | [Jennifer's Body](https://open.spotify.com/track/176fR2MtPlctufVYwqoW1j) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Jennifer's Body](https://open.spotify.com/album/1HekaZKhXgi9JpGFODnmHF) | 1:57 | 2024-04-24 | 2024-07-06 |
 | [JET LIKE BENNIE](https://open.spotify.com/track/772rV8Rld38jaLEZSCdFmO) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [JET LIKE BENNIE](https://open.spotify.com/album/7DZkZFkkc6ssSsmGuZgrML) | 1:52 | 2024-01-12 | 2024-04-24 |
@@ -685,7 +687,7 @@
 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 | 2022-01-28 | 2022-03-18 |
 | [supermodel](https://open.spotify.com/track/1Y0Sea3Nan8ZbL7HKsneY1) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [supermodel](https://open.spotify.com/album/0VVrCJHFnOZdhjn52l3GbN) | 2:02 | 2024-09-20 |  |
 | [Supernova](https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/0tlwyPgqwZrymr04EfFyry) | 2:58 | 2024-05-17 | 2024-06-01 |
-| [SUPERPOWER](https://open.spotify.com/track/3kfQuU6FXW4OXHIHjuups7) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky), [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [SUPERPOWER](https://open.spotify.com/album/5uCFinoHAfvh3RM5UuBhZ6) | 3:02 | 2024-07-26 |  |
+| [SUPERPOWER](https://open.spotify.com/track/3kfQuU6FXW4OXHIHjuups7) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky), [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [SUPERPOWER](https://open.spotify.com/album/5uCFinoHAfvh3RM5UuBhZ6) | 3:02 | 2024-07-26 | 2024-11-12 |
 | [Sweatshirt \- Pettier](https://open.spotify.com/track/1lHd7db3a79MPI02e3xblS) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [Sweatshirt \(Pettier\)](https://open.spotify.com/album/7rNzMil2oHfLYjeZnaU2ca) | 2:27 | 2022-05-27 | 2022-07-09 |
 | [sweet and sour](https://open.spotify.com/track/6HxDuyJRMGCTogdIjzZTNl) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [sweet and sour](https://open.spotify.com/album/2iajLyL99sPi81AaxMR6SJ) | 2:58 | 2021-12-10 | 2022-03-18 |
 | [Sweetest Revenge](https://open.spotify.com/track/7ItOeQCyzT0Ud8IWXnOIfU) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Sweetest Revenge](https://open.spotify.com/album/1v2Ca1S73FwtFCD0dXLZAo) | 2:29 | 2024-05-31 | 2024-08-03 |

@@ -1809,6 +1809,28 @@
     },
     {
       "album": {
+        "name": "Amara (From \"Amaran\") (Tamil)",
+        "url": "https://open.spotify.com/album/5qT8hl08HPTmP5FjTzY3D6"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165842,
+      "name": "Amara (From \"Amaran\") (Tamil)",
+      "url": "https://open.spotify.com/track/4noDfCtW0SBsCWkRFpUrVv"
+    },
+    {
+      "album": {
         "name": "Palthu Janwar - Tamil (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6Z28KExF88OYx7YD59XFSw"
       },
@@ -4830,7 +4852,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 200412,
       "name": "Boy Bestie (From \"Mr. Housekeeping\")",
       "url": "https://open.spotify.com/track/3zNOktyEziiw2Z6rSPkJwa"
@@ -11124,7 +11146,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 189500,
       "name": "Jasmine Song (From \"Martin\") (Tamil)",
       "url": "https://open.spotify.com/track/0FiChUVO46FTMPNtN4TJJc"
@@ -18670,7 +18692,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 272310,
       "name": "Miss Oruthi - From \"Once More\"",
       "url": "https://open.spotify.com/track/2my27SnsDdLtouVfT7S71X"
@@ -19878,7 +19900,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 192656,
       "name": "Naan Yaar?",
       "url": "https://open.spotify.com/track/15Q0kCSNte4Ie4W8NtYdvt"
@@ -20574,7 +20596,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 206208,
       "name": "Nee Enna Paathiye (From \"Miss You\")",
       "url": "https://open.spotify.com/track/5ZFwT3TnZyLlRDsgf9nno1"
@@ -24954,7 +24976,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 225054,
       "name": "Ponmayame - From \"Bloody Beggar\"",
       "url": "https://open.spotify.com/track/7D21AQtZXb0TlHEuqhDNuM"
@@ -26613,6 +26635,36 @@
     },
     {
       "album": {
+        "name": "Rise of Matka (From \"Matka\")(Tamil)",
+        "url": "https://open.spotify.com/album/152LFwaOZr4FPodAjcnkQ7"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Mohan Kumar",
+          "url": "https://open.spotify.com/artist/2EoMh0rTcJqcrlrQAMgsKC"
+        },
+        {
+          "name": "Parthiban",
+          "url": "https://open.spotify.com/artist/37LiAXUf9Zx8UerwPirYKJ"
+        },
+        {
+          "name": "Ramya",
+          "url": "https://open.spotify.com/artist/7gVwxXFMkSYwYGNHIt77qU"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209491,
+      "name": "Rise of Matka (From \"Matka\")(Tamil)",
+      "url": "https://open.spotify.com/track/3UFGgsKCeuFifnqMtve5td"
+    },
+    {
+      "album": {
         "name": "Rise of Miller (From \"Captain Miller\")",
         "url": "https://open.spotify.com/album/0NOaai0nhdN581ZndcrcKp"
       },
@@ -27222,7 +27274,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 163734,
       "name": "Salary Song (From \"Family Padam\")",
       "url": "https://open.spotify.com/track/5kx9tE2sz4Vq9c7v5emfMw"
@@ -31963,7 +32015,7 @@
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 168565,
+      "duration_ms": 173983,
       "name": "Thug Life Title Track (From \"Thug Life\")",
       "url": "https://open.spotify.com/track/1LBNMjCmLRiryFAsouRpVN"
     },
@@ -34347,6 +34399,36 @@
     },
     {
       "album": {
+        "name": "Vaan Arugile (From \"Blood and Black\")",
+        "url": "https://open.spotify.com/album/2XcjPTATkUimLYqzdcpVww"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Balaji",
+          "url": "https://open.spotify.com/artist/3DvjtASVI8Czc44WMEn3js"
+        },
+        {
+          "name": "Srinisha Jayaseelan",
+          "url": "https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a"
+        },
+        {
+          "name": "Annas Thahirulla",
+          "url": "https://open.spotify.com/artist/5hZcJbKS0P89RbQMbwqyUF"
+        },
+        {
+          "name": "Arun Prasanth S",
+          "url": "https://open.spotify.com/artist/4zYlWbC7fDmtmMpaYaedoL"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231877,
+      "name": "Vaan Arugile (From \"Blood and Black\")",
+      "url": "https://open.spotify.com/track/75xglNCTJ6cOf4npmv7vki"
+    },
+    {
+      "album": {
         "name": "Vaan Meghame (From \"Dopamine\")",
         "url": "https://open.spotify.com/album/4XSRz85TMQG5o4PYJvo15E"
       },
@@ -34458,6 +34540,32 @@
       "duration_ms": 226912,
       "name": "Vaanavillai",
       "url": "https://open.spotify.com/track/0iJsaBiRhHoIELZdr7jfx6"
+    },
+    {
+      "album": {
+        "name": "Vaane Vaane (From \"Amaran\") (Tamil)",
+        "url": "https://open.spotify.com/album/44vKu0SSk0VnaByYwp8qjr"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Faisal Razi",
+          "url": "https://open.spotify.com/artist/0rRhddei9JKXd5aAbCPfPN"
+        },
+        {
+          "name": "Yugabharathi",
+          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286265,
+      "name": "Vaane Vaane (From \"Amaran\") (Tamil)",
+      "url": "https://open.spotify.com/track/0bnRVFf0GF21SVnvjBjhKl"
     },
     {
       "album": {

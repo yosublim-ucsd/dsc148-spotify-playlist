@@ -4,30 +4,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: KIM A REUM\(김아름\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,337 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,301 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aliens](https://open.spotify.com/track/0c2QS7e4N2znQKemIdw35A) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [RETRO WAVE](https://open.spotify.com/album/3Bx8DeX30SNaGdMahPk0gM) | 4:15 |
 | 2 | [Earth Is Flat](https://open.spotify.com/track/0TJLtj4BvtXs7kc1rThrbq) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Earth Is Flat](https://open.spotify.com/album/5tmAQ7Z2eN2yqkhHMgjzY1) | 2:30 |
-| 3 | [Your Melody](https://open.spotify.com/track/282E4GBXUN4knGGBdrjxVP) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Your Melody](https://open.spotify.com/album/0tDLbqb5qbApAdQt0dTtn4) | 3:34 |
-| 4 | [The Compass](https://open.spotify.com/track/3GNKwOjDJlqgAA85lgYTCC) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [The Compass](https://open.spotify.com/album/4UdFLMCOkjD1sv9zUIiFoW) | 2:47 |
-| 5 | [Lost](https://open.spotify.com/track/6DryqX1P8pkEHwnS3tj1lU) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Lost](https://open.spotify.com/album/6SEhLhrm67sQZHcgVT7PWH) | 2:59 |
-| 6 | [Christmas Wishlist \(feat\. Kelsey Kuan & Sonny Zero\)](https://open.spotify.com/track/72YvlgXZpeaueVVjSnf5qk) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [Christmas Text](https://open.spotify.com/album/3KMjx5w4bLtFRievjVgjSI) | 2:38 |
-| 7 | [FOREST \(Mountain and Elevator\)](https://open.spotify.com/track/1wmaEbWBvNltPwF8dZepw6) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [XYRUP](https://open.spotify.com/album/45oAZWRJJkpHdGK1Ys8dly) | 5:16 |
-| 8 | [Glue](https://open.spotify.com/track/7h7p7gSIBzqTxEEoAR2lwL) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 4:20 |
-| 9 | [Look At Me Look At Me](https://open.spotify.com/track/5t2XHhWwKqgE3ZRmj8vVJ7) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [Lesser Gods And Chimeras](https://open.spotify.com/album/7Gb4evIU7fNgPd3Gp7tXaC) | 3:24 |
-| 10 | [Come Home](https://open.spotify.com/track/5RB1G4jUB7sYCNsbRrRwJ5) | [Heon Seo](https://open.spotify.com/artist/2Ln7vYEHYllpC94D5pH6tH) | [Come Home](https://open.spotify.com/album/5mJCFK2xpXiorhIr73ng1b) | 2:32 |
-| 11 | [love and hatred](https://open.spotify.com/track/6RIhYubAexXYmq2LGqAGIa) | [OhYoon](https://open.spotify.com/artist/3E3GZJRleQR8QkRaFciIqV) | [love and hatred](https://open.spotify.com/album/6yEmEdDzRy3kUGOcIz6qzG) | 2:50 |
-| 12 | [Although In Tears](https://open.spotify.com/track/4mklI5Cr8WQEJTgLqF01mZ) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Although In Tears](https://open.spotify.com/album/5gHIg4pAobtlvxcQ8D1j32) | 3:29 |
-| 13 | [Dear, Barcelona](https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Dear, Barcelona](https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e) | 3:43 |
-| 14 | [Letter](https://open.spotify.com/track/37jDUUtHbVashjygFeIlRk) | [Jung Woo](https://open.spotify.com/artist/0kiyFsj1MwYO464H5luc2m) | [Letter](https://open.spotify.com/album/0G5Uz3pP2YQde9xkF5bDWa) | 3:44 |
-| 15 | [Childhood](https://open.spotify.com/track/22i2Fcx5T3IKFVhdeoRfo8) | [Jin Hwi PARK](https://open.spotify.com/artist/3N8d18Fo639EVPilBSukBx) | [Childhood](https://open.spotify.com/album/77B9vnVZvFwe4yGIYstiKp) | 4:00 |
-| 16 | [Hodogaya](https://open.spotify.com/track/3LzdzU6EL9iEwLVFbrESuW) | [Seo Jin](https://open.spotify.com/artist/3c0or5ckHUpDQkg6T36a7u) | [Hodogaya](https://open.spotify.com/album/16SHQnvN4mUmLWBp3w1BBe) | 3:35 |
-| 17 | [October](https://open.spotify.com/track/2sA8WPQSXlYWujfojCgtWV) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [October](https://open.spotify.com/album/6tb3F5jPWvBPjjRMBbdyjW) | 3:54 |
-| 18 | [City of Freedom](https://open.spotify.com/track/7dcjnmWydLv1gLbQbjH8f6) | [cloudkreme](https://open.spotify.com/artist/1cxQ8j6yI8hxzcIetvgNx9) | [City of Freedom](https://open.spotify.com/album/2Jd3iryGheA0Vz5OGnfERC) | 3:13 |
-| 19 | [Dwaeji Gukbap](https://open.spotify.com/track/4BjcOOlE57CRTGwOPMHJLc) | [Legend Choi](https://open.spotify.com/artist/7y6MINRLLV1YKsflvQKRXC) | [Dwaeji Gukbap](https://open.spotify.com/album/2CLx1E1CMNB4WMypc4Kx0l) | 2:48 |
-| 20 | [illusion](https://open.spotify.com/track/4XCAlLo7g42LPo75r5NCp5) | [H3ATHR SUN](https://open.spotify.com/artist/2pAWdjODAxk0MZPrmJEC3k) | [illusion](https://open.spotify.com/album/2ILzQn5owgy1T1RKRuHxGV) | 3:28 |
+| 3 | [Red Flag](https://open.spotify.com/track/3aIQnhaDEZbLOSbos64xXP) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [Red Flag](https://open.spotify.com/album/5NplbE4HAUdejPhDiHsylB) | 3:10 |
+| 4 | [Your Melody](https://open.spotify.com/track/282E4GBXUN4knGGBdrjxVP) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Your Melody](https://open.spotify.com/album/0tDLbqb5qbApAdQt0dTtn4) | 3:34 |
+| 5 | [The Compass](https://open.spotify.com/track/3GNKwOjDJlqgAA85lgYTCC) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [The Compass](https://open.spotify.com/album/4UdFLMCOkjD1sv9zUIiFoW) | 2:47 |
+| 6 | [Lost](https://open.spotify.com/track/6DryqX1P8pkEHwnS3tj1lU) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Lost](https://open.spotify.com/album/6SEhLhrm67sQZHcgVT7PWH) | 2:59 |
+| 7 | [Christmas Wishlist \(feat\. Kelsey Kuan & Sonny Zero\)](https://open.spotify.com/track/72YvlgXZpeaueVVjSnf5qk) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [Christmas Text](https://open.spotify.com/album/3KMjx5w4bLtFRievjVgjSI) | 2:38 |
+| 8 | [FOREST \(Mountain and Elevator\)](https://open.spotify.com/track/1wmaEbWBvNltPwF8dZepw6) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [XYRUP](https://open.spotify.com/album/45oAZWRJJkpHdGK1Ys8dly) | 5:16 |
+| 9 | [Glue](https://open.spotify.com/track/7h7p7gSIBzqTxEEoAR2lwL) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 4:20 |
+| 10 | [Look At Me Look At Me](https://open.spotify.com/track/5t2XHhWwKqgE3ZRmj8vVJ7) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [Lesser Gods And Chimeras](https://open.spotify.com/album/7Gb4evIU7fNgPd3Gp7tXaC) | 3:24 |
+| 11 | [Come Home](https://open.spotify.com/track/5RB1G4jUB7sYCNsbRrRwJ5) | [Heon Seo](https://open.spotify.com/artist/2Ln7vYEHYllpC94D5pH6tH) | [Come Home](https://open.spotify.com/album/5mJCFK2xpXiorhIr73ng1b) | 2:32 |
+| 12 | [love and hatred](https://open.spotify.com/track/6RIhYubAexXYmq2LGqAGIa) | [OhYoon](https://open.spotify.com/artist/3E3GZJRleQR8QkRaFciIqV) | [love and hatred](https://open.spotify.com/album/6yEmEdDzRy3kUGOcIz6qzG) | 2:50 |
+| 13 | [Although In Tears](https://open.spotify.com/track/4mklI5Cr8WQEJTgLqF01mZ) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Although In Tears](https://open.spotify.com/album/5gHIg4pAobtlvxcQ8D1j32) | 3:29 |
+| 14 | [Dear, Barcelona](https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Dear, Barcelona](https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e) | 3:43 |
+| 15 | [Letter](https://open.spotify.com/track/37jDUUtHbVashjygFeIlRk) | [Jung Woo](https://open.spotify.com/artist/0kiyFsj1MwYO464H5luc2m) | [Letter](https://open.spotify.com/album/0G5Uz3pP2YQde9xkF5bDWa) | 3:44 |
+| 16 | [Childhood](https://open.spotify.com/track/22i2Fcx5T3IKFVhdeoRfo8) | [Jin Hwi PARK](https://open.spotify.com/artist/3N8d18Fo639EVPilBSukBx) | [Childhood](https://open.spotify.com/album/77B9vnVZvFwe4yGIYstiKp) | 4:00 |
+| 17 | [Hodogaya](https://open.spotify.com/track/3LzdzU6EL9iEwLVFbrESuW) | [Seo Jin](https://open.spotify.com/artist/3c0or5ckHUpDQkg6T36a7u) | [Hodogaya](https://open.spotify.com/album/16SHQnvN4mUmLWBp3w1BBe) | 3:35 |
+| 18 | [October](https://open.spotify.com/track/2sA8WPQSXlYWujfojCgtWV) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [October](https://open.spotify.com/album/6tb3F5jPWvBPjjRMBbdyjW) | 3:54 |
+| 19 | [City of Freedom](https://open.spotify.com/track/7dcjnmWydLv1gLbQbjH8f6) | [cloudkreme](https://open.spotify.com/artist/1cxQ8j6yI8hxzcIetvgNx9) | [City of Freedom](https://open.spotify.com/album/2Jd3iryGheA0Vz5OGnfERC) | 3:13 |
+| 20 | [Dwaeji Gukbap](https://open.spotify.com/track/4BjcOOlE57CRTGwOPMHJLc) | [Legend Choi](https://open.spotify.com/artist/7y6MINRLLV1YKsflvQKRXC) | [Dwaeji Gukbap](https://open.spotify.com/album/2CLx1E1CMNB4WMypc4Kx0l) | 2:48 |
 | 21 | [Everything Bagel](https://open.spotify.com/track/5MKVBVQrjVRONziiVVA3Z3) | [Chawool](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [Everything Bagel](https://open.spotify.com/album/2Kp8ezqdUoEN3kYE7iecCB) | 3:09 |
 | 22 | [Purity 100%](https://open.spotify.com/track/6EFwzqBcfu5lt1weyJZWPk) | [Jiiyeon](https://open.spotify.com/artist/7KBDzbqCczLLMx5se2zrOH) | [New Girl](https://open.spotify.com/album/2MLtKJlQqw4qXAdQDUQ0xv) | 3:12 |
 | 23 | [Thursday Taco Man](https://open.spotify.com/track/4VZioVdtvf3NTW9YDZKJMw) | [DORI](https://open.spotify.com/artist/5n32uEk7HdSYRqZbiSyj13) | [Thursday Taco Man](https://open.spotify.com/album/5jMXKuGYikxGM8wpFARRL2) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [Still like this](https://open.spotify.com/track/54L406FREsFPcDTjP5YD5a) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [Still like this](https://open.spotify.com/album/2F2q9oQn3GBQfgPoqTcNNS) | 3:26 |
 | 50 | [Echo \(feat\. JUKJAE\)](https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v), [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Echo \(feat .JUKJAE\)](https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj) | 3:12 |
 
-Snapshot ID: `ZyxQAwAAAACF9dpmQrNqArv8B1AYtC8d`
+Snapshot ID: `ZzInJwAAAADkXkLyPW0zBJcX7RxBVvoh`

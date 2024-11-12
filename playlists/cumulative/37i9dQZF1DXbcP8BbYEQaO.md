@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-707 songs - 1 day 15 hr 42 min
+708 songs - 1 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,7 +419,7 @@
 | [MEZCAL MINT GUM N COCAINE](https://open.spotify.com/track/5174aBUvlBHClVp9cr7JoG) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [MEZCAL MINT GUM N COCAINE](https://open.spotify.com/album/5NrSC4lV0XHAa8cEkIxy3n) | 3:38 | 2023-02-17 | 2023-02-25 |
 | [Microdose](https://open.spotify.com/track/6iNRJ4TuoDqkI0o6wFRR2w) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Microdose](https://open.spotify.com/album/3OAoVhJtoIZRdVXIh7R3zS) | 2:46 | 2022-04-16 | 2022-07-09 |
 | [Midas Touch](https://open.spotify.com/track/2H5uvk1o7ZpEHtclzN91Fh) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Midas Touch](https://open.spotify.com/album/4sOFqXBv8PvKDxFszHomGu) | 2:41 | 2021-11-27 | 2022-01-29 |
-| [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2021-12-04 |  |
+| [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2021-12-04 | 2024-11-12 |
 | [Midnight Serenade](https://open.spotify.com/track/4V2u9MWP2wgSCSkDSo4ZjZ) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Midnight Serenade](https://open.spotify.com/album/4oZIgxd1pGHSEEEHxjdfI7) | 3:38 | 2024-03-22 | 2024-05-25 |
 | [Midnight Train](https://open.spotify.com/track/1AWvfGBiJQ6GV5Va0dS0es) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Henge](https://open.spotify.com/album/0B9BY82cIWo4DjRMkUOeeW) | 3:26 | 2023-07-07 | 2023-08-24 |
 | [Milk](https://open.spotify.com/track/6UXU0TkzArLcCdJBhVKczv) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Cape God \(Deluxe\)](https://open.spotify.com/album/49xoGbYKxnS0PEfapnFG6c) | 3:30 | 2021-11-27 | 2022-04-17 |
@@ -554,6 +554,7 @@
 | [Sirens](https://open.spotify.com/track/5EcN4hZ85eZ45MTS1oRyHY) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sirens](https://open.spotify.com/album/3gTvVImhfT0nAA3YYdpX9L) | 3:58 | 2022-03-31 | 2022-07-29 |
 | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/track/1bRhcIzZrjpZebM9i91uny) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:58 | 2022-07-21 | 2023-02-28 |
 | [Skin and Bones](https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Skin and Bones](https://open.spotify.com/album/5LCCfjJW4kBomupswapRHE) | 3:34 | 2022-04-22 | 2022-07-12 |
+| [Skin and Bones](https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Where Flowers Grow](https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm) | 3:18 | 2024-11-11 |  |
 | [Sleepless Nights \(feat\. Nightly\)](https://open.spotify.com/track/4PUWpNtDejQwwa80LjvxXl) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [In the Shape of a Dream](https://open.spotify.com/album/7arFGGWl2p1FTC3LPTw7Dz) | 3:17 | 2020-10-13\* | 2021-06-19 |
 | [Slow Dance \(feat\. Ava Max\)](https://open.spotify.com/track/5FNS5Vj69AhRGJWjhrAd01) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Slow Dance \(feat\. Ava Max\)](https://open.spotify.com/album/3tnCAhqSU4V0EEgYnrTRuD) | 2:58 | 2020-10-13\* | 2021-12-04 |
 | [Slow Dancing \- Hazel English Remix](https://open.spotify.com/track/0GJoAMeJgACw4P4hczLxQ1) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i), [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slow Dancing \(The Remixes\)](https://open.spotify.com/album/6A6pDT6OjxQdERBJcyLPgK) | 2:55 | 2022-10-28 | 2023-03-11 |

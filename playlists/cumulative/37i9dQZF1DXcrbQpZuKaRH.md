@@ -4,7 +4,7 @@
 
 > Calming music with the sound of waves for a blissful meditation.
 
-116 songs - 5 hr 34 min
+120 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Hey Ocean](https://open.spotify.com/track/7ax6JuuYm4lU54kgeXI8GO) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Hey Ocean](https://open.spotify.com/album/2XikCXBVkcUpi9NsSdCUUl) | 2:37 | 2024-07-18 |  |
 | [Hidden Beach](https://open.spotify.com/track/15RY8ZjXcqI3Ouh3Aj4bjp) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Hidden Beach](https://open.spotify.com/album/0pvZ5i0bmgOEw9Q63Lr0J7) | 2:58 | 2023-10-06 |  |
 | [Hilow](https://open.spotify.com/track/2U6t8MSkOASKbaefjLs9Ut) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Hilow](https://open.spotify.com/album/4CkGV5W10Agf45RDQjjZrv) | 3:43 | 2024-08-23 |  |
+| [Horizon](https://open.spotify.com/track/6TwD6qQfh7QRgjLoIoBRhk) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Horizon](https://open.spotify.com/album/0ATfU5eunu31qOidV74iPY) | 2:56 | 2024-11-11 |  |
 | [In The Cloud](https://open.spotify.com/track/22hi2nzUjxexPVcsvF54qI) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [In The Cloud](https://open.spotify.com/album/2tD7itqj8q0dq3te0y5Jen) | 2:48 | 2024-05-01 |  |
 | [Insignia Waves](https://open.spotify.com/track/1v3PCOshBc0zitzDZ0Hlcw) | [Jungussen](https://open.spotify.com/artist/0pEakNfx2p7HQU6e3Ow9jW) | [Insignia Waves](https://open.spotify.com/album/6mj5pCg8JG9iOWzr1cKPQI) | 3:52 | 2023-12-01 |  |
 | [Joshmit Beach](https://open.spotify.com/track/4vDw0JzE1goBugh7lh4lFQ) | [Peaceful Earth](https://open.spotify.com/artist/0VG3jBtRm8GbFcIU7M4M7m) | [Everwoods](https://open.spotify.com/album/4p4Kv6WhDa0ZgJsTGZX7RK) | 3:24 | 2023-04-28 |  |
@@ -67,6 +68,7 @@
 | [Mente Complacida](https://open.spotify.com/track/26g7RAfsaR6kdU6Y4RJ615) | [Mawina](https://open.spotify.com/artist/4hFQD0ZEl15cbGogNKjUur) | [Mente Complacida](https://open.spotify.com/album/6FBMx95vwGvwOmkiZpeW0Q) | 3:03 | 2023-04-28 |  |
 | [Midnight Shoreline](https://open.spotify.com/track/5efJPDxGLNB0h6niF1AXNP) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Midnight Shoreline](https://open.spotify.com/album/1E0JXRIEt2SeGocrN2ZIpL) | 2:40 | 2023-07-13 |  |
 | [Molecular Vibrations](https://open.spotify.com/track/09flvILs00hWOFboghP5H7) | [Earth Tone](https://open.spotify.com/artist/05MiTtnA2sTCrvI9TsTBhj) | [Molecular Vibrations](https://open.spotify.com/album/2xeinigzbjt1sSsVG5Yl99) | 2:37 | 2024-05-01 |  |
+| [Oasis](https://open.spotify.com/track/11GUBwfT5EAPUa8IYUr8Oi) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Oasis](https://open.spotify.com/album/29yf9xTxHGjiYEM6LHowLk) | 2:19 | 2024-11-11 |  |
 | [Ocean Healing](https://open.spotify.com/track/49nZSk6EBugEBSfNQlkr0y) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [Ocean Healing](https://open.spotify.com/album/28gd2fvoaM7XH1fJEBCnEM) | 3:32 | 2024-02-22 | 2024-09-05 |
 | [Ocean Miracle](https://open.spotify.com/track/6s4d29YLuiRLjFXznEzhoi) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Ocean Dynamics](https://open.spotify.com/album/5Aq52DANigWA8C0nCbYIeo) | 2:56 | 2024-05-01 |  |
 | [Ocean of Love](https://open.spotify.com/track/2cJXXgodWk3x76UupQqC5t) | [Paradise Sunset](https://open.spotify.com/artist/0YvhzvrLHLXVPLQddmDj3m) | [Ocean of Love](https://open.spotify.com/album/4yDJjWxHb9D1naxpZtaxH5) | 2:52 | 2024-03-20 |  |
@@ -80,6 +82,7 @@
 | [Pools](https://open.spotify.com/track/56ijwf16zEGWNI8nfGBDqM) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Pools](https://open.spotify.com/album/2WqZN5meM6rPIGx1UdAEpb) | 3:01 | 2024-05-01 |  |
 | [Profondeur cosmique \- River Flows Edit](https://open.spotify.com/track/7drKYfw7ah8aWLkU9mUGld) | [Amandine Lamaze](https://open.spotify.com/artist/4Oiu5PrQAUehjfybx5RWjl) | [Profondeur cosmique](https://open.spotify.com/album/5U4DihT1jifluvfXbFSew9) | 2:36 | 2023-04-28 | 2024-08-24 |
 | [Pure Nature](https://open.spotify.com/track/7hgJstsD2O1O0k0XoxbM8v) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [Evening Breeze](https://open.spotify.com/album/4NPqqhAdTtCOr22FSNHeJr) | 2:41 | 2023-04-28 |  |
+| [Raft](https://open.spotify.com/track/3WJL0D6yTmRb7jXjm8E2Pc) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Raft](https://open.spotify.com/album/4bzzze2zjYx7eX95jc0y8X) | 2:46 | 2024-11-11 |  |
 | [Reemergence](https://open.spotify.com/track/1eN1gFy7OFkI9xEx53CTkc) | [Harmonic Pathways](https://open.spotify.com/artist/50w3lD1tVFon2IBD8jRBOO), [Nature on Record](https://open.spotify.com/artist/4XC4r2EEPyi9Ox0ZinPaIV) | [Emergence](https://open.spotify.com/album/5npmxbN4pCm1CHhjxHmFuf) | 2:41 | 2023-04-28 |  |
 | [Reflectives](https://open.spotify.com/track/3h6UND8XlDCpp4DrVQtZpz) | [Uli Jons](https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU) | [Reflectives](https://open.spotify.com/album/1yzbG5sqEXnHwbfX9tuZGS) | 3:36 | 2023-04-28 |  |
 | [Relaxing Sines](https://open.spotify.com/track/37IhtbzEutZBpgMsbh3nMA) | [Unity & Harmony](https://open.spotify.com/artist/1HxhPKVY1XsKFIpvkYdXPI) | [Relaxing Sines](https://open.spotify.com/album/1L2SFgJ1zSztWxjp9zzKm3) | 2:12 | 2023-04-28 | 2024-06-04 |
@@ -101,6 +104,7 @@
 | [Sleep Under the Stars](https://open.spotify.com/track/52fxNMSJtgwPzbMadGr2Ie) | [Aron Stieg](https://open.spotify.com/artist/7ClOSDzQR2MESJ37Uqd0wi) | [Sleep Under the Stars](https://open.spotify.com/album/0w78gT2FjWEV9jvYZ2P07L) | 2:16 | 2023-04-28 | 2023-10-03 |
 | [Slow Sea](https://open.spotify.com/track/4cwcbLh8ajzGlrwxkK1a1c) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Slow Sea](https://open.spotify.com/album/2KQRG2roWetHxnt5sypG9l) | 2:50 | 2024-08-23 |  |
 | [Solar Dreams](https://open.spotify.com/track/2uZHjgoCnueq1wtMczo1SW) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [Solar Dreams](https://open.spotify.com/album/2dH0L3tzqAFXSZhtpzkxId) | 2:27 | 2024-05-01 |  |
+| [Solar Plexus \(528 Hz\)](https://open.spotify.com/track/3kBwKqACjykGczvkNArip8) | [Synaptc Waves](https://open.spotify.com/artist/1B6lhoVCQSa0yrnhvfNXZJ) | [Solar Plexus \(528 Hz\)](https://open.spotify.com/album/6wbgeZrLANiDDbX4In2XYl) | 2:30 | 2024-11-11 |  |
 | [Soothing the Ocean](https://open.spotify.com/track/2dGwmaVEeKceZET2Tw1UvK) | [Zonestays](https://open.spotify.com/artist/7qrpF6gvKx1zA0dGofJVdh) | [Soothing the Ocean](https://open.spotify.com/album/26sn9bQUdYBJpalMa9Fikl) | 2:41 | 2023-04-28 |  |
 | [Sordinique](https://open.spotify.com/track/5DwWLXnxNpnrxdq92pFAMt) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Sordinique](https://open.spotify.com/album/3XZwSbvbqK11XF9ad2sVkc) | 2:56 | 2023-04-28 | 2024-06-04 |
 | [Sun Wave](https://open.spotify.com/track/6i5MjtmMJMfUR8IWWW1aiD) | [The Only Star In The Sky](https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz) | [Sun Wave](https://open.spotify.com/album/4vrQpdE2X6Xx8pEfbJrU2n) | 3:40 | 2023-04-28 | 2024-06-04 |

@@ -4,7 +4,7 @@
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/3pi8AlHZo5bq0mFi3wZDW8?si=TgeWgTQnQeGABCgE3L9RXg">TRON PYRE</a>
 
-398 songs - 21 hr 1 min
+399 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Sweet Escape](https://open.spotify.com/track/5Jkkjn5Ur4cWgJS4taJ9cM) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Sweet Escape](https://open.spotify.com/album/4A8p0LGa7QVi7fv0jtHhEL) | 3:06 | 2024-06-27 | 2024-09-03 |
 | [Sweet Nothing](https://open.spotify.com/track/2LZueKBZ9jGxsYBMueaR4R) | [Nalu](https://open.spotify.com/artist/591xpLmcojVwIHCiMVQ3dq) | [Sweet Nothing](https://open.spotify.com/album/0NbNpeeNiN6lr2O3I6C7y8) | 1:28 | 2023-10-12 | 2024-01-26 |
 | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE) | 4:11 | 2024-05-16 | 2024-08-31 |
+| [SYMPHONY](https://open.spotify.com/track/3Zbn9QI4ErtDqBrhQGudMy) | [Oxii Moron](https://open.spotify.com/artist/1eMXbPuLhjzGuW8I2p2XXX) | [The Decompress \(Solace Edition\)](https://open.spotify.com/album/2sc5qvyUNxiAIqtc6sqy6w) | 2:48 | 2024-11-11 |  |
 | [Take It](https://open.spotify.com/track/60BmYE0G5451D7LwIqO7md) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Take It](https://open.spotify.com/album/3WF1FIQKr2vlPcxoPc6zgn) | 2:30 | 2024-06-13 | 2024-09-03 |
 | [TAKE IT SLOW](https://open.spotify.com/track/13M2mmd8I4O9fDGAdyxcHk) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [LOVE LETTERS](https://open.spotify.com/album/0MDMXbXsB0P15a8piifP7W) | 2:58 | 2024-09-02 | 2024-09-12 |
 | [Take Your Time](https://open.spotify.com/track/0dC8gi65pRxGLqFOyPGz4z) | [Ayanda Jiya](https://open.spotify.com/artist/3fHajGrVzPPPfrsY6OJ3Nl) | [A Tale of a Fallen Queen](https://open.spotify.com/album/31RClKHR10TPV6ZnFp1KH9) | 5:07 | 2024-09-02 | 2024-09-12 |

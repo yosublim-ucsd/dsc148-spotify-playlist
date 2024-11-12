@@ -9890,7 +9890,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 195398,
       "name": "Get Loose",
       "url": "https://open.spotify.com/track/6HkECn6elRsylPQmDGmDxq"
@@ -14608,6 +14608,24 @@
       "duration_ms": 181333,
       "name": "Know Me",
       "url": "https://open.spotify.com/track/4JKjLAoG5vvDeyOraHyl74"
+    },
+    {
+      "album": {
+        "name": "Hold My Drink, Watch This.",
+        "url": "https://open.spotify.com/album/7DTiWmmTONvedPmSiaDYEO"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "KOKO",
+      "url": "https://open.spotify.com/track/0WHJJNkkCYGbDNDYUW8RA3"
     },
     {
       "album": {

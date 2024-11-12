@@ -2,9 +2,9 @@
 
 ### [Disney Sing\-Alongs](https://open.spotify.com/playlist/37i9dQZF1DX1okZ1ZeITst)
 
-> From the shower to the car, Disney songs that make you want to sing along, including songs from A Whole New Sound.
+> From the shower to the car, Disney songs that make you want to sing along, including songs from Moana 2.
 
-144 songs - 7 hr 19 min
+145 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Beauty and the Beast](https://open.spotify.com/track/4dhPM05Kr49JbsvPwGROnJ) | [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty And The Beast \(Special Edition\)](https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq) | 2:45 | 2024-01-08 |  |
 | [Beauty and the Beast](https://open.spotify.com/track/3I3QV9fD0CQdnekEPNgYIk) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Beauty and the Beast: A 30th Celebration \(Original Soundtrack\)](https://open.spotify.com/album/3KTw339NIoDSmkjvbxzA2N) | 2:57 | 2024-01-08 |  |
 | [Belle](https://open.spotify.com/track/0Q4a3PdGEME9w8Jgqa0Gf3) | [Richard White](https://open.spotify.com/artist/0jWqALm6pl5CHj5N0eO68G), [Paige O'Hara](https://open.spotify.com/artist/7oavKrnYbTZPAPq7zCuipM), [Chorus \- Beauty And the Beast](https://open.spotify.com/artist/3kWWBtNzJFtKA222gZz39d), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty and the Beast](https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5) | 5:09 | 2024-01-08 |  |
+| [Beyond \(End Credit Version\) \- From "Moana 2"](https://open.spotify.com/track/3fzqWttckvSJS7KPGPiWAg) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Beyond \(End Credit Version\) \[From "Moana 2"\]](https://open.spotify.com/album/6uCyNThgUieE9elUSd4SuP) | 3:16 | 2024-11-11 |  |
 | [Can I Have This Dance/All I Want Mashup \- From "High School Musical: The Musical: The Series"](https://open.spotify.com/track/0wozTMC4Go3WYPCWhs5B7u) | [Cast of High School Musical: The Musical: The Series](https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn) | [Can I Have This Dance/All I Want Mashup \(From "High School Musical: The Musical: The Series"\)](https://open.spotify.com/album/1h2AJO6F3Vx5KWpbAEe13b) | 2:23 | 2024-01-08 |  |
 | [Can You Feel the Love Tonight](https://open.spotify.com/track/1zSKtBze2IReYU44W0lDzd) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Billy Eichner](https://open.spotify.com/artist/0FVsUxcFSlxwIM7Qs31s6J), [Seth Rogen](https://open.spotify.com/artist/7xX39IyguhWsTIg4eU2reH) | [The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS) | 3:02 | 2024-01-08 |  |
 | [Can You Feel the Love Tonight](https://open.spotify.com/track/5E8yddtSG3sH4hw2SfwcgW) | [Joseph Williams](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui), [Sally Dworsky](https://open.spotify.com/artist/7vK6xoR5zT4DypEu0blUku), [Nathan Lane](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv), [Ernie Sabella](https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr), [Kristle Edwards](https://open.spotify.com/artist/4y5d67UxD0QON2vRZOjXZ6) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 2:57 | 2024-01-08 |  |

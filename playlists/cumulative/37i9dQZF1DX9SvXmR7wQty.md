@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Aliocha Schneider
 
-2,947 songs - 6 day 12 hr 49 min
+2,949 songs - 6 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [A.Y.C.E.](https://open.spotify.com/track/0vKlC3gaKCMwOZuVNtrk8x) | [BéLi](https://open.spotify.com/artist/76Sntu9WfhbuJS6RK1ExhW) | [A.Y.C.E.](https://open.spotify.com/album/0Acj93dX2xHyeki0QJiXJS) | 3:10 | 2024-07-19 | 2024-07-27 |
 | [Aaliyah](https://open.spotify.com/track/5JR3Sp5tlgxqlvRs6LNOJu) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [Aaliyah](https://open.spotify.com/album/6zj13ehUum5qNphs54CqWp) | 1:58 | 2024-06-07 | 2024-06-15 |
 | [Abimé](https://open.spotify.com/track/4UA7p7ndurcpEBQxGyTAnQ) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Goumin](https://open.spotify.com/album/478yYBhIJvfduzaiRWDfZF) | 2:34 | 2024-03-29 | 2024-05-21 |
+| [Absent](https://open.spotify.com/track/3uIjsEqU6q78itijkqbGlM) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Absent](https://open.spotify.com/album/42GxEIIABO7xY0gMxaGZW5) | 2:59 | 2024-11-08 |  |
 | [Accros au danger](https://open.spotify.com/track/3lND2zJZoRWVMGf64mlXVQ) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Accros au danger](https://open.spotify.com/album/5gJTHu8d1TKftds8XTuVMg) | 2:38 | 2024-03-29 | 2024-04-06 |
 | [Adam et Ève](https://open.spotify.com/track/6lIS3KKWdBTVMhgDE1uPcR) | [Diane Dufresne](https://open.spotify.com/artist/7twmPMJL7zIWU2MLkdQpqs), [Michel Cusson](https://open.spotify.com/artist/0sr8isXfaYaHEZ5NBMWRP0) | [État de siège](https://open.spotify.com/album/1Vg7ghT9KCVbtE29gJurBE) | 5:30 | 2024-10-11 | 2024-10-19 |
 | [Addiction](https://open.spotify.com/track/0ocRpLelepKUSy1X08ddi9) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Comme dans un penthouse](https://open.spotify.com/album/12rLRy19o75nJG4cXKn2tR) | 3:29 | 2023-09-22 | 2023-09-30 |
@@ -895,7 +896,7 @@
 | [Fermer les yeux \(jamais plus\)](https://open.spotify.com/track/0hASKi517BdacJN3wMePzY) | [Eric Goulet](https://open.spotify.com/artist/6BjnB0sYfF3CW2kufrvPK8) | [Fermer les yeux \(jamais plus\)](https://open.spotify.com/album/6mrOG4dEnAzskIBLtAQDS2) | 3:14 | 2022-10-07 | 2022-10-15 |
 | [Ferrero \(feat\. Gambi\)](https://open.spotify.com/track/5YrQI4K59HhRSwToj0toW4) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 2:21 | 2024-01-12 | 2024-03-16 |
 | [Feu](https://open.spotify.com/track/5Od9GgFwJUgowAfsyMcOgA) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Feu](https://open.spotify.com/album/2fGR2DEe5Ms1GwsXV0YZpg) | 2:53 | 2022-03-11 | 2022-03-26 |
-| [Feu de paille](https://open.spotify.com/track/59i1gjr6bOdrdKF3eP2LWe) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Feu de paille](https://open.spotify.com/album/6WiPXlkyl9kTvlG37IMCM6) | 3:15 | 2024-10-11 |  |
+| [Feu de paille](https://open.spotify.com/track/59i1gjr6bOdrdKF3eP2LWe) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Feu de paille](https://open.spotify.com/album/6WiPXlkyl9kTvlG37IMCM6) | 3:15 | 2024-10-11 | 2024-11-12 |
 | [Feu intérieur](https://open.spotify.com/track/1r3C1vCD4e0S4SA29V4auY) | [Hey Major](https://open.spotify.com/artist/1J7P80ENkmZgSWEm7diAhV) | [Feu intérieur](https://open.spotify.com/album/5yHCrq24mQpZEfaYFcRfIU) | 3:33 | 2022-05-27 | 2022-06-04 |
 | [Feux follets](https://open.spotify.com/track/7fSPvXfHmeLdFZXCMuLLnP) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [Feux follets](https://open.spotify.com/album/3akneBnhOBkOhH4NdLVsqk) | 3:40 | 2023-02-24 | 2023-03-11 |
 | [Fille de joie](https://open.spotify.com/track/573BxihWmPhOfxjZO9hnDl) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Traîtrise](https://open.spotify.com/album/6bddo91xZo2y4MdeMc0Jxz) | 2:50 | 2021-12-31 | 2022-01-22 |
@@ -1530,6 +1531,7 @@
 | [Les cœurs sur la plage](https://open.spotify.com/track/5imV5MFC9DWMezCz1ewL4Y) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Les coeurs sur la plage](https://open.spotify.com/album/2WaBxgTnfYlCAeUq4PNnwd) | 3:18 | 2023-04-28 | 2023-05-13 |
 | [Les Daisy](https://open.spotify.com/track/79RauCvHAGvcYT4DJoHmMv) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu) | [Les Daisy / Quatre vérités sur la jalousie](https://open.spotify.com/album/6HcIOCNziM4rlTG1dhIHZe) | 2:17 | 2023-08-18 | 2023-08-26 |
 | [Les doigts en coeur](https://open.spotify.com/track/7mrYcS0T97Wo3WjLmWGswK) | [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Les doigts en coeur](https://open.spotify.com/album/3RBuzfcUk3g6t7HrcpGgVk) | 3:45 | 2022-09-16 | 2022-10-01 |
+| [Les démons de minuit](https://open.spotify.com/track/0FJxWDiOrOuSUwCwhVS7wT) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [IMPOSTEUR](https://open.spotify.com/album/530vPuQlxS2kq2jNJIx59g) | 3:28 | 2024-11-08 |  |
 | [Les entêté.e.s](https://open.spotify.com/track/4e8lef1lBidiTu7WlUWJ5N) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow) | [Les entêté.e.s](https://open.spotify.com/album/5KQpJr1SouixdnYo6iH02L) | 3:26 | 2023-11-17 | 2023-11-25 |
 | [Les flics \(sont des sacs à merde\)](https://open.spotify.com/track/2y36PoFQpSXvqVcVtp82xJ) | [DVTR](https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF) | [Les flics \(sont des sacs à merde\)](https://open.spotify.com/album/1I3lg7XofxUMj7CqFF5Xao) | 2:53 | 2024-05-03 | 2024-05-11 |
 | [Les gens](https://open.spotify.com/track/3j4VImMiG8LVhpFCF6x2Fk) | [Keith Kouna](https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK) | [Les gens](https://open.spotify.com/album/1hhcMBs8ozem2fID8j9oHW) | 2:04 | 2023-03-03 | 2023-03-18 |
@@ -1793,7 +1795,7 @@
 | [Monaco](https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Monaco](https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT) | 2:21 | 2024-07-12 | 2024-08-08 |
 | [Monalisa](https://open.spotify.com/track/0Y5f4WhEaaEBBiIJ94mOnX) | [Pierre Cruz](https://open.spotify.com/artist/3unauNRhq1rfgHqUhcKVjx), [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Prince Amine](https://open.spotify.com/artist/0VFVWl6dkb5b7rLn8AYSY4) | [Monalisa](https://open.spotify.com/album/41T5Beaejz8cXcOJbQuHEL) | 3:44 | 2021-12-31 | 2022-01-05 |
 | [Monde Nouveau](https://open.spotify.com/track/4ug44FLXT8LAfXc7WSUkha) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Monde Nouveau](https://open.spotify.com/album/2v016SMb35ARN5QFIxKwUA) | 2:37 | 2024-09-20 |  |
-| [Monde à l'envers](https://open.spotify.com/track/5xPe20zJWnml85Wny8eVKp) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Monde à l'envers](https://open.spotify.com/album/5qp7lZF7rprWVLg0oYPHYP) | 2:32 | 2024-10-18 |  |
+| [Monde à l'envers](https://open.spotify.com/track/5xPe20zJWnml85Wny8eVKp) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Monde à l'envers](https://open.spotify.com/album/5qp7lZF7rprWVLg0oYPHYP) | 2:32 | 2024-10-18 | 2024-11-12 |
 | [Money](https://open.spotify.com/track/0SikEhDPgpcn0Tddh4MTqe) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Dans La Chambre / Money](https://open.spotify.com/album/1oqa08Osm4PvNyHNFVeULx) | 3:17 | 2023-04-28 | 2023-06-17 |
 | [Money & A Bag Of Weed](https://open.spotify.com/track/4C8i8QInf73Zps21w3tPjs) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [Money & A Bag Of Weed](https://open.spotify.com/album/0rYf8X3DCTiD1odGKWJSZD) | 3:20 | 2024-04-26 | 2024-05-03 |
 | [MONEY MAKER](https://open.spotify.com/track/3WM94J8wiCVZxGcHEHzAej) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [AMBITION](https://open.spotify.com/album/3uiDxNXAJJzru700mPfYwE) | 2:32 | 2023-12-08 | 2024-01-03 |

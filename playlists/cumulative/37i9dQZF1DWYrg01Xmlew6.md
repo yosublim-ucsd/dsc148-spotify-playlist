@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Lele Blade in cover.
 
-389 songs - 18 hr 2 min
+390 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Justin Bieber \(feat\. Side Baby\)](https://open.spotify.com/track/62Oxen6MqYesOGcIz7K5s2) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [HOTEL MONTANA \(Deluxe\)](https://open.spotify.com/album/55BeUFIdOnQjBEPnrvFyDy) | 2:52 | 2024-07-04 | 2024-07-27 |
 | [KE LO KE](https://open.spotify.com/track/4JdhVkNG56DntDvarFUorf) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh), [808s](https://open.spotify.com/artist/2GOXq0IQdGC0Ke965fc6ys) | [KE LO KE](https://open.spotify.com/album/5KpePKTCCMGkehcOvyfsWS) | 2:31 | 2023-04-27 | 2023-05-05 |
 | [Kiss \(feat\. Luchè\)](https://open.spotify.com/track/3ldGtUBuposTxAzaSFM0FI) | [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Kiss \(feat\. Luchè\)](https://open.spotify.com/album/12378C6fIxDBRaMJcaJptW) | 2:59 | 2024-11-06 |  |
-| [Kiss You \(F\*\*k You\) \[feat\. Geolier\]](https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [HOTEL MONTANA](https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG) | 3:27 | 2023-08-31 |  |
+| [Kiss You \(F\*\*k You\) \[feat\. Geolier\]](https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [HOTEL MONTANA](https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG) | 3:27 | 2023-08-31 | 2024-11-12 |
 | [KRIRM](https://open.spotify.com/track/0PupYO4b4ZA8tdihwNCUo9) | [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H) | [KRIRM](https://open.spotify.com/album/2SAb40pFyvOYpbPQDirxlL) | 2:31 | 2023-11-16 | 2024-01-12 |
 | [KTM](https://open.spotify.com/track/5mKbRYOpe6yqXW7SbqXB12) | [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H) | [KTM](https://open.spotify.com/album/4OXvM9sRNnZSAYDOnnCsjl) | 1:51 | 2024-05-30 | 2024-07-05 |
 | [L'immortale](https://open.spotify.com/track/1OnQfsNP3MzaxGsP52siB9) | [Cecchy](https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN), [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh), [808s](https://open.spotify.com/artist/2GOXq0IQdGC0Ke965fc6ys) | [L'immortale](https://open.spotify.com/album/6QXefXe4iqEEc3AXu8Gi1F) | 2:50 | 2022-09-01 | 2022-09-09 |
@@ -382,6 +382,7 @@
 | [Vecchio stampo & West Coast](https://open.spotify.com/track/3PPbAPR5IljfWZmHACBPAY) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [Vecchio stampo & West Coast](https://open.spotify.com/album/3OVnR5nA6PctoA8zxlayUH) | 3:03 | 2024-08-12 | 2024-09-04 |
 | [Vera Street](https://open.spotify.com/track/6lzhht6rAPFNy5qMOMSxCu) | [Moderup](https://open.spotify.com/artist/0EE0rv2NG4drYTTQrT0saQ) | [Vera Street](https://open.spotify.com/album/6CGs5NBsq4CM5cWPnwKUdP) | 2:19 | 2023-10-19 | 2023-11-10 |
 | [Vida Loca](https://open.spotify.com/track/63WzPPR8lS0ibJeZvngg9A) | [Guerra](https://open.spotify.com/artist/4kEZMl8mZ5WX2fAQq6feTC) | [Vida Loca](https://open.spotify.com/album/4rLBnUhWRXUg8s1OOsWxNw) | 2:54 | 2022-09-08 | 2022-10-08 |
+| [Video hot \(feat\. Geolier\)](https://open.spotify.com/track/3o9OeBX0vgh51r15Ta7Dok) | [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy), [D\-Ross](https://open.spotify.com/artist/3AJSAtfY4qkm7DfGdCK9ne) | [MAI PIÙ FORSE](https://open.spotify.com/album/31zOPRV9kLjtyq3eqiAMvj) | 3:06 | 2024-11-11 |  |
 | [VIEN](https://open.spotify.com/track/4HeOiMGIHqTbknru5JDOT2) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU) | [VIEN](https://open.spotify.com/album/07lUE05Kpe2i0K7u8jgZm5) | 2:06 | 2024-09-19 |  |
 | [VIEN'CCA](https://open.spotify.com/track/6ENT7ncTtDKUia5LSf0TUI) | [Christian Liguori](https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn), [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou), [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT) | [VIEN‘CCA](https://open.spotify.com/album/3WgAGqPic8HiBXkO8n1HCF) | 2:39 | 2024-05-16 |  |
 | [VIENI](https://open.spotify.com/track/6ga53DHuFADei7Y0onoWUd) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [VIENI](https://open.spotify.com/album/0sgWDwkBePNAxRQsYniAiY) | 2:21 | 2022-07-28 | 2022-12-02 |

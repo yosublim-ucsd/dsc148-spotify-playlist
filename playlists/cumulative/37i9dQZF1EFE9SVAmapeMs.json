@@ -733,6 +733,32 @@
     },
     {
       "album": {
+        "name": "MVP",
+        "url": "https://open.spotify.com/album/6P2Qgdpnfhicur12ygrnMo"
+      },
+      "artists": [
+        {
+          "name": "FaZe Kaysan",
+          "url": "https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp"
+        },
+        {
+          "name": "Sheck Wes",
+          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/66bquaWKSdTULhNQVAsV8L"
+    },
+    {
+      "album": {
         "name": "Studying Abroad: Extended Stay",
         "url": "https://open.spotify.com/album/1S0yIZRDiFmqCQyTIEV175"
       },

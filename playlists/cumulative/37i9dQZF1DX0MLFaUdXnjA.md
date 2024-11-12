@@ -4,7 +4,7 @@
 
 > Sit back and relax to the chillest pop\.  Cover: grentperez
 
-1,997 songs - 4 day 11 hr 26 min
+1,998 songs - 4 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1045,7 +1045,7 @@
 | [look what you did](https://open.spotify.com/track/1lqC1iUuA9xROuLPdR87Mt) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [look what you did](https://open.spotify.com/album/5y6B6WamjdWeACbHeijgXT) | 3:57 | 2024-07-12 | 2024-10-05 |
 | [Looking At Me](https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue) | 3:12 | 2023-03-31 | 2023-08-19 |
 | [Lose](https://open.spotify.com/track/7rgjkzZBhBjObaYsvq8Ej0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Lose](https://open.spotify.com/album/5GW3Hm4C7AkrClwby88sFJ) | 4:16 | 2020-08-14 | 2020-10-09 |
-| [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-06-23 |  |
+| [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-06-23 | 2024-11-12 |
 | [Loser](https://open.spotify.com/track/6BLs0nPSOmuBbfvUoHVmVM) | [Hank Compton](https://open.spotify.com/artist/7jKKTuM4iwzCuZ790quOMI) | [Loser](https://open.spotify.com/album/1WNetF03fOQeXWo33tTsiS) | 3:33 | 2020-06-19 | 2020-06-29 |
 | [losing a friend](https://open.spotify.com/track/0Ha1KORr60UQXXi4dZsLLj) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [losing a friend](https://open.spotify.com/album/4m9PFXLJbwl88AkZvGyZpL) | 3:34 | 2024-03-08 | 2024-05-04 |
 | [Lost](https://open.spotify.com/track/2Pph0CUJ8uksCBzV6iyuQF) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Lost](https://open.spotify.com/album/16A6HpMW9UMCB3GNA0Es7a) | 3:54 | 2020-04-26\* | 2020-10-09 |
@@ -1370,6 +1370,7 @@
 | [Potential](https://open.spotify.com/track/7D7oIpsm4trbxthAU7JMtB) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Potential](https://open.spotify.com/album/7k0D9VjRqVMbhg0uNMiq3O) | 2:57 | 2024-04-26 | 2024-07-19 |
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 | 2024-01-26 | 2024-04-27 |
 | [Prayer](https://open.spotify.com/track/0GghsIw2q98h1k6AKBxo4m) | [Bensbeendead.](https://open.spotify.com/artist/6MJHYFIRxicXnYNhDdfn80) | [Prayer](https://open.spotify.com/album/0SBw5JQ9QC3IKbG3R2XiCo) | 3:28 | 2020-05-01 | 2020-08-21 |
+| [Precious](https://open.spotify.com/track/2SXaTLEInTp47rufBeIlAH) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [Between My Shoulder Blades](https://open.spotify.com/album/1HKnrZ506RxgF5yw3JJU5A) | 2:19 | 2024-11-11 |  |
 | [Present](https://open.spotify.com/track/6RBfz4bNLNzvt37HycN1Xf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Present](https://open.spotify.com/album/5KsduyvZorQ3RjJTZA8In9) | 2:36 | 2021-10-30 | 2022-04-23 |
 | [Pretty Baby](https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Pretty Baby](https://open.spotify.com/album/3r1xlXd5nl8DgO9RGJWZZO) | 3:23 | 2024-06-21 | 2024-10-12 |
 | [Pretty Face](https://open.spotify.com/track/7u6FErol8bEBXOJiqBiayo) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Pretty Face](https://open.spotify.com/album/01AYACg8rfARq8Z2IyY8vN) | 3:22 | 2024-11-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The best in romantic tunes from Tamil cinema.\nCover : Raayan",
-  "num_followers": 524466,
+  "num_followers": 524635,
   "original_name": "Tamil Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZynEagAAAADGJQuUDYTpMSzAR9gxdjXL",
+  "snapshot_id": "ZzGeVQAAAADqpNC+os0pRXmzObnCXUf9",
   "tracks": [
     {
       "added_at": "2024-08-03 04:10:53",
@@ -75,26 +75,22 @@
     {
       "added_at": "2022-03-11 09:36:10",
       "album": {
-        "name": "Yaanji (From \"Vikram Vedha\")",
-        "url": "https://open.spotify.com/album/1PY4yNuo0K6wNDJLqU5vMf"
+        "name": "Adiye (From \"Bachelor\")",
+        "url": "https://open.spotify.com/album/1vPj6t2spMcJkrtlDsFaC8"
       },
       "artists": [
         {
-          "name": "Sam C.S.",
-          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+          "name": "Dhibu Ninan Thomas",
+          "url": "https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi"
         },
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Shakthisree Gopalan",
-          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
         }
       ],
-      "duration_ms": 270375,
-      "name": "Yaanji - From \"Vikram Vedha\"",
-      "url": "https://open.spotify.com/track/6EB454nVg2u6sbeCvWAPej"
+      "duration_ms": 272000,
+      "name": "Adiye - From \"Bachelor\"",
+      "url": "https://open.spotify.com/track/2tMoOS9grHtn4upzb4LwMG"
     },
     {
       "added_at": "2024-10-09 08:08:08",
@@ -127,22 +123,26 @@
     {
       "added_at": "2022-03-11 09:36:10",
       "album": {
-        "name": "Adiye (From \"Bachelor\")",
-        "url": "https://open.spotify.com/album/1vPj6t2spMcJkrtlDsFaC8"
+        "name": "Yaanji (From \"Vikram Vedha\")",
+        "url": "https://open.spotify.com/album/1PY4yNuo0K6wNDJLqU5vMf"
       },
       "artists": [
         {
-          "name": "Dhibu Ninan Thomas",
-          "url": "https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi"
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
         },
         {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
         }
       ],
-      "duration_ms": 272000,
-      "name": "Adiye - From \"Bachelor\"",
-      "url": "https://open.spotify.com/track/2tMoOS9grHtn4upzb4LwMG"
+      "duration_ms": 270375,
+      "name": "Yaanji - From \"Vikram Vedha\"",
+      "url": "https://open.spotify.com/track/6EB454nVg2u6sbeCvWAPej"
     },
     {
       "added_at": "2024-11-05 07:08:26",
@@ -1425,6 +1425,26 @@
       "url": "https://open.spotify.com/track/2G53OcVphvDNOs08gptddN"
     },
     {
+      "added_at": "2024-11-11 06:04:05",
+      "album": {
+        "name": "Palindrome (From Vinodhan) - Single",
+        "url": "https://open.spotify.com/album/3xoIi6T5g0aepBBIMKqTPh"
+      },
+      "artists": [
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Shashaa Tirupati",
+          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
+        }
+      ],
+      "duration_ms": 281186,
+      "name": "Palindrome",
+      "url": "https://open.spotify.com/track/4w0uCEcrOfUfWYMasMVwI9"
+    },
+    {
       "added_at": "2022-03-11 09:36:10",
       "album": {
         "name": "Rowthiram (Original Motion Picture Soundtrack)",
@@ -1595,30 +1615,6 @@
       "duration_ms": 214330,
       "name": "Anbenum (From \"Leo\")",
       "url": "https://open.spotify.com/track/3l198ZkmLWrHYL3WXTOoep"
-    },
-    {
-      "added_at": "2022-03-11 09:36:10",
-      "album": {
-        "name": "Ethir Neechal (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3xTQmYK4S7vj9mv3zcJYWg"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Mohit Chauhan",
-          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 312280,
-      "name": "Velicha Poove",
-      "url": "https://open.spotify.com/track/3ywjIbXWgG5Vjom6zhA2aP"
     }
   ],
   "unique_name": "Tamil Romance",

@@ -4,7 +4,7 @@
 
 > Essential new pop tracks\. Cover: Griff
 
-6,751 songs - 14 day 0 hr 21 min
+6,752 songs - 14 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5397,6 +5397,7 @@
 | [Somebody's Nobody](https://open.spotify.com/track/3Bc5XUS5sTHtAde1ZA2FzC) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Somebody's Nobody](https://open.spotify.com/album/5tuZ5QFAdNcQqd6ghXAfbb) | 3:42 | 2022-06-24 | 2022-07-16 |
 | [someday](https://open.spotify.com/track/1jfxchrXNMJtYhmgeH0kiu) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [someday](https://open.spotify.com/album/3MxfDF3NuhBIya43HMvmfN) | 2:45 | 2023-01-13 | 2023-01-28 |
 | [Someday](https://open.spotify.com/track/5cUf9Sfx2Ya1mXq4KCUVRc) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [i may be an actress, but i can't fake how i feel](https://open.spotify.com/album/4w3tisDlVJrDQxukPi02Ec) | 4:38 | 2023-09-15 | 2023-09-30 |
+| [someday, someone](https://open.spotify.com/track/0dKmeSB7WlW7bM7erNcKOX) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [good luck, goodbye \(over nostalgic edition\)](https://open.spotify.com/album/4McUXvDxR2MBL9eW6XV9T0) | 3:37 | 2024-11-11 |  |
 | [Somehow](https://open.spotify.com/track/3DmTImHsU4OXFeJpoUWyYd) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Somehow](https://open.spotify.com/album/0becTJGxLTnvH3i5EJkF0k) | 2:41 | 2023-10-06 | 2023-10-28 |
 | [Someone Better](https://open.spotify.com/track/6g7vmvWmMqAJCdIU38J4pC) | [Alexa Cappelli](https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x) | [Someone Better](https://open.spotify.com/album/4YZhf1VSWJ52JtT4vwhrNI) | 2:49 | 2023-03-24 | 2023-04-15 |
 | [Someone Else](https://open.spotify.com/track/5phH22Kn5b4u67jA8D5eEs) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [The After Taste](https://open.spotify.com/album/4EmlLRONqsYR1rKvw079xN) | 3:17 | 2024-03-22 | 2024-04-06 |

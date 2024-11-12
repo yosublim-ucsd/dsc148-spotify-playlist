@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 ### [New Dance Music Friday](https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr)
 
-> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER:  Alok &amp; Firebeats
+> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: Mike Williams &amp; YouNotUs
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,545 likes - 20 songs - 56 min 9 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,543 likes - 20 songs - 56 min 9 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 19 | [If Only We Could](https://open.spotify.com/track/0aZJYGU8mWiLVOsLFsq44o) | [Sam AVSTIN](https://open.spotify.com/artist/1LxUh0VA1qCSC0eBoQliyf) | [If Only We Could](https://open.spotify.com/album/5S131VhHVJQqETjvfbdk1F) | 2:49 |
 | 20 | [Don't Go](https://open.spotify.com/track/7ewh7KBEKWY0zufqwpuTWf) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Don't Go](https://open.spotify.com/album/2VNVxJujnV5BMlGNR4E3mZ) | 2:21 |
 
-Snapshot ID: `AAArjzVdHUzG7Kvxot5HALt9LaMd1Hzo`
+Snapshot ID: `AAArkAbr7TlKbMPXr2yMtjJc93tPu2Cr`

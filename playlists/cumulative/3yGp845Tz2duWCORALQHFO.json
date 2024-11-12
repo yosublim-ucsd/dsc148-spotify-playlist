@@ -8571,6 +8571,28 @@
     },
     {
       "album": {
+        "name": "Find You",
+        "url": "https://open.spotify.com/album/6bPcmtGdwa8lQWjAsUoZD2"
+      },
+      "artists": [
+        {
+          "name": "Mala'kai",
+          "url": "https://open.spotify.com/artist/5yrQaGtBMRudJctcPQtTE5"
+        },
+        {
+          "name": "Joey.O",
+          "url": "https://open.spotify.com/artist/1FEx9QXXkxH63WbNHvAYii"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235862,
+      "name": "Find You",
+      "url": "https://open.spotify.com/track/0goiLLIT8nuiuHHADZNT0E"
+    },
+    {
+      "album": {
         "name": "DJ-Kicks: Honey Dijon",
         "url": "https://open.spotify.com/album/5H5Pm87tI6EAnrtIBVP4Zx"
       },
@@ -13214,6 +13236,28 @@
       "duration_ms": 177425,
       "name": "Intuition",
       "url": "https://open.spotify.com/track/4fBG1WOKM01uzY0ifOMQtd"
+    },
+    {
+      "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/2XVGzfWtOkgJX0Gc2YnlAo"
+      },
+      "artists": [
+        {
+          "name": "LouCii",
+          "url": "https://open.spotify.com/artist/73gzMHDw96YKOzD8OfwxaE"
+        },
+        {
+          "name": "Rackelle",
+          "url": "https://open.spotify.com/artist/5RUZSiHlbdwSjfPqfGA036"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/37TKR2Tf5snvJlUnSzlzvr"
     },
     {
       "album": {

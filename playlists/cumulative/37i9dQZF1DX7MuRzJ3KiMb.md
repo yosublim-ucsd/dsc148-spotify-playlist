@@ -4,7 +4,7 @@
 
 > Fortis Fortuna Adiuvat🍷 ¡Disfruta del soundtrack de la película y nos vemos en el cine el 12 de Septiembre!
 
-197 songs - 11 hr 13 min
+198 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Tanto Amor](https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Tanto Amor](https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz) | 3:05 | 2022-02-25 | 2024-08-31 |
 | [Te Encontré](https://open.spotify.com/track/1LlyK223zyuDRCRjJbWPue) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII) | 3:32 | 2023-06-22 | 2024-04-19 |
 | [Te Encontré](https://open.spotify.com/track/7jcOfJG3z9Bt543UQSg72w) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/5e3dSyeSBjthMeTcNJ6VBF) | 3:32 | 2023-02-14 | 2023-11-23 |
+| [Te Las Das De Americano](https://open.spotify.com/track/0Ks23R3NENrjJHsYUbyKZI) | [Mariachi Sol](https://open.spotify.com/artist/1ohZXQ0jWhpvJqD89qK6k5) | [Te Las Das De Americano](https://open.spotify.com/album/1XyrJX06CvOKizNujRIAuj) | 3:10 | 2024-11-12 |  |
 | [te quiero tanto](https://open.spotify.com/track/04aBuWoZeHYJeDDTWYSgso) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 5:25 | 2022-09-23 | 2024-08-31 |
 | [Te Vi Llegar \- En Vivo](https://open.spotify.com/track/76z6KblNIP5FdR3v7s14od) | [Linda Habitante](https://open.spotify.com/artist/1ScqCsRxUAJtM53bdy0BBE), [Anamaría Laroc](https://open.spotify.com/artist/4VN9smz2eGwfpgT1UOvl4l) | [Te Vi Llegar \(En Vivo\)](https://open.spotify.com/album/0MQN6UDiBJb3nQJWfHYvul) | 2:51 | 2022-02-25 | 2022-07-29 |
 | [Tenemos que hablar](https://open.spotify.com/track/1pSwtcaRE3LbpKiOK00l4N) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Tenemos que hablar](https://open.spotify.com/album/4bza078y7xvT1KpPoVzbx2) | 3:33 | 2023-03-17 | 2024-02-17 |

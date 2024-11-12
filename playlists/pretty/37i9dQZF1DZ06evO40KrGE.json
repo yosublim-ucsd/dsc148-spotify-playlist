@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 35105,
+  "num_followers": 35119,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy6mAAAAAAARotgA5o315WREzNQ72nSR",
+  "snapshot_id": "Zy/3gAAAAAB5WQVYxwKFLUJYbdwR/tyw",
   "tracks": [
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu N\u00e3o Mudo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7koLVQPec7CXl0dDJa9p9d"
+        "name": "Recompensa",
+        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 281391,
-      "name": "Eu N\u00e3o Mudo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5CMsJa45lcaRyXORxodImT"
+      "duration_ms": 266518,
+      "name": "N\u00e3o Reclame",
+      "url": "https://open.spotify.com/track/79kb4y6EtyBwDjBNhWrwRd"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recompensa",
-        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
+        "name": "Eu N\u00e3o Mudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7koLVQPec7CXl0dDJa9p9d"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 266518,
-      "name": "N\u00e3o Reclame",
-      "url": "https://open.spotify.com/track/79kb4y6EtyBwDjBNhWrwRd"
+      "duration_ms": 281391,
+      "name": "Eu N\u00e3o Mudo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5CMsJa45lcaRyXORxodImT"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Recompensa",
+        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 305992,
+      "name": "Muita Un\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6ugWrHr1hONNz5NAahRjxk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus no Controle",
         "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 294183,
       "name": "Transformada",
       "url": "https://open.spotify.com/track/2XpvAWqrRKkgg3pf0Xn1zw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recompensa",
-        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 305992,
-      "name": "Muita Un\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6ugWrHr1hONNz5NAahRjxk"
     },
     {
       "added_at": null,
@@ -871,6 +871,26 @@
       "duration_ms": 247942,
       "name": "A Alma Abatida",
       "url": "https://open.spotify.com/track/512xriilWCODMzkyhFaR4O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Olha o Que Deus Faz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/42UFCLpK8mS9SA5jCyDlYl"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 259103,
+      "name": "Olha o Que Deus Faz (Ao Vivo)",
+      "url": "https://open.spotify.com/track/24lAuZ7ycAIzs91M53QW7i"
     },
     {
       "added_at": null,
@@ -943,26 +963,6 @@
       "duration_ms": 182508,
       "name": "Unidos Pelo Amor",
       "url": "https://open.spotify.com/track/58JbyiEMEfi9SfOAmnvyeV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Olha o Que Deus Faz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/42UFCLpK8mS9SA5jCyDlYl"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 259103,
-      "name": "Olha o Que Deus Faz (Ao Vivo)",
-      "url": "https://open.spotify.com/track/24lAuZ7ycAIzs91M53QW7i"
     },
     {
       "added_at": null,

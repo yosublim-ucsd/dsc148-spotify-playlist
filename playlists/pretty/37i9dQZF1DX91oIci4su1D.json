@@ -1,6 +1,6 @@
 {
   "description": "Setting sights on banging <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a>.",
-  "num_followers": 829905,
+  "num_followers": 829979,
   "original_name": "Trance Mission",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Don't Say Goodbye",
+        "url": "https://open.spotify.com/album/6uNfsZPWn63GJG3p3PmuwH"
+      },
+      "artists": [
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        }
+      ],
+      "duration_ms": 191956,
+      "name": "Don't Say Goodbye",
+      "url": "https://open.spotify.com/track/6UaUhR4vtXyCbcHmIRveQb"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Rise Again",
         "url": "https://open.spotify.com/album/0Qe9RKMZQi00h2UIdgBnoh"
       },
@@ -763,42 +779,26 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Don't Say Goodbye",
-        "url": "https://open.spotify.com/album/6uNfsZPWn63GJG3p3PmuwH"
+        "name": "About A Love",
+        "url": "https://open.spotify.com/album/5fzq7jzeBHo3Ht7HeJDHsp"
       },
       "artists": [
         {
-          "name": "Dr Phunk",
-          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
-        }
-      ],
-      "duration_ms": 191956,
-      "name": "Don't Say Goodbye",
-      "url": "https://open.spotify.com/track/6UaUhR4vtXyCbcHmIRveQb"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Places I Belong",
-        "url": "https://open.spotify.com/album/5AEX72BTovuEmtnGsgoA69"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+          "name": "Richard Durand",
+          "url": "https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR"
         },
         {
-          "name": "Andrew Bayer",
-          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
+          "name": "Nicholas Gunn",
+          "url": "https://open.spotify.com/artist/54EYfCxN1dGJKec029vO7S"
         },
         {
-          "name": "Fiora",
-          "url": "https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM"
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
         }
       ],
-      "duration_ms": 226363,
-      "name": "Places I Belong",
-      "url": "https://open.spotify.com/track/3d7RiAd7X9QEOyJiZJatbv"
+      "duration_ms": 245357,
+      "name": "About A Love",
+      "url": "https://open.spotify.com/track/7D8wsynPIuF407K6Qwg0fK"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -855,26 +855,26 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "About A Love",
-        "url": "https://open.spotify.com/album/5fzq7jzeBHo3Ht7HeJDHsp"
+        "name": "Places I Belong",
+        "url": "https://open.spotify.com/album/5AEX72BTovuEmtnGsgoA69"
       },
       "artists": [
         {
-          "name": "Richard Durand",
-          "url": "https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR"
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
         },
         {
-          "name": "Nicholas Gunn",
-          "url": "https://open.spotify.com/artist/54EYfCxN1dGJKec029vO7S"
+          "name": "Andrew Bayer",
+          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
         },
         {
-          "name": "Jordan Grace",
-          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+          "name": "Fiora",
+          "url": "https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM"
         }
       ],
-      "duration_ms": 245357,
-      "name": "About A Love",
-      "url": "https://open.spotify.com/track/7D8wsynPIuF407K6Qwg0fK"
+      "duration_ms": 226363,
+      "name": "Places I Belong",
+      "url": "https://open.spotify.com/track/3d7RiAd7X9QEOyJiZJatbv"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -971,26 +971,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Rapture (with Robert Falcon)",
-        "url": "https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB"
-      },
-      "artists": [
-        {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
-        },
-        {
-          "name": "Robert Falcon",
-          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
-        }
-      ],
-      "duration_ms": 187285,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/4A0StE56VMKnr1QlzosEua"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 189836,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/75gsMOTK0ZXgBeJ4wvDpL4"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Rapture (with Robert Falcon)",
+        "url": "https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        }
+      ],
+      "duration_ms": 187285,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1035,26 +1035,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Drifting Away (Alessandra Roncone Remix)",
-        "url": "https://open.spotify.com/album/2wjrOvsSmXe7femHT9aH5V"
+        "name": "Like You",
+        "url": "https://open.spotify.com/album/44F5JkXd5wKUeM5mXoTtIR"
       },
       "artists": [
         {
-          "name": "Lange",
-          "url": "https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA"
+          "name": "Richard Durand",
+          "url": "https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR"
         },
         {
-          "name": "Alessandra Roncone",
-          "url": "https://open.spotify.com/artist/7tGyfFJ7b1VYAeQISUoz6p"
-        },
-        {
-          "name": "Skye",
-          "url": "https://open.spotify.com/artist/5EGvmmeqeNWBYpgwK5coPT"
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
         }
       ],
-      "duration_ms": 246688,
-      "name": "Drifting Away - Alessandra Roncone Remix",
-      "url": "https://open.spotify.com/track/7uSKWtYTHXp9U2iGFYREdY"
+      "duration_ms": 254347,
+      "name": "Like You",
+      "url": "https://open.spotify.com/track/3K9B5jSSv4MPG3iQjdnosF"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1091,22 +1087,26 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Like You",
-        "url": "https://open.spotify.com/album/44F5JkXd5wKUeM5mXoTtIR"
+        "name": "Drifting Away (Alessandra Roncone Remix)",
+        "url": "https://open.spotify.com/album/2wjrOvsSmXe7femHT9aH5V"
       },
       "artists": [
         {
-          "name": "Richard Durand",
-          "url": "https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR"
+          "name": "Lange",
+          "url": "https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA"
         },
         {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+          "name": "Alessandra Roncone",
+          "url": "https://open.spotify.com/artist/7tGyfFJ7b1VYAeQISUoz6p"
+        },
+        {
+          "name": "Skye",
+          "url": "https://open.spotify.com/artist/5EGvmmeqeNWBYpgwK5coPT"
         }
       ],
-      "duration_ms": 254347,
-      "name": "Like You",
-      "url": "https://open.spotify.com/track/3K9B5jSSv4MPG3iQjdnosF"
+      "duration_ms": 246688,
+      "name": "Drifting Away - Alessandra Roncone Remix",
+      "url": "https://open.spotify.com/track/7uSKWtYTHXp9U2iGFYREdY"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Here I Am",
-        "url": "https://open.spotify.com/album/3kQD69BPkZRFy4MIssW54j"
-      },
-      "artists": [
-        {
-          "name": "Amy Wiles",
-          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
-        }
-      ],
-      "duration_ms": 187534,
-      "name": "Here I Am",
-      "url": "https://open.spotify.com/track/6GH9l0byJ9UTc3BqUtesNP"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/32nCASbx4gdjVd5Hq0gXEd"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 201288,
       "name": "Escape",
       "url": "https://open.spotify.com/track/79XSml1tPuRVHSnEcPE6sf"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Here I Am",
+        "url": "https://open.spotify.com/album/3kQD69BPkZRFy4MIssW54j"
+      },
+      "artists": [
+        {
+          "name": "Amy Wiles",
+          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
+        }
+      ],
+      "duration_ms": 187534,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/6GH9l0byJ9UTc3BqUtesNP"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/4Gk2YY4XwnfDWKdS6mJbmV"
+      },
+      "artists": [
+        {
+          "name": "L\u00dcRUM",
+          "url": "https://open.spotify.com/artist/1Vvf6trCvl5ip6tARuClxO"
+        }
+      ],
+      "duration_ms": 213777,
+      "name": "Pendulum",
+      "url": "https://open.spotify.com/track/3c42Rmh1Tu8IkSY3TY6YJt"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Shambhala",
         "url": "https://open.spotify.com/album/5HQx13KfPaOY29n7MPlsWy"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 218507,
       "name": "4U",
       "url": "https://open.spotify.com/track/2xwgWtJlylRCOJ9h9rCbIc"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Pendulum",
-        "url": "https://open.spotify.com/album/4Gk2YY4XwnfDWKdS6mJbmV"
-      },
-      "artists": [
-        {
-          "name": "L\u00dcRUM",
-          "url": "https://open.spotify.com/artist/1Vvf6trCvl5ip6tARuClxO"
-        }
-      ],
-      "duration_ms": 213777,
-      "name": "Pendulum",
-      "url": "https://open.spotify.com/track/3c42Rmh1Tu8IkSY3TY6YJt"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Mystica",
-        "url": "https://open.spotify.com/album/62G2jRCYlKWE8ytFEJyiL5"
-      },
-      "artists": [
-        {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
-        }
-      ],
-      "duration_ms": 280873,
-      "name": "Mystica",
-      "url": "https://open.spotify.com/track/51pX2IgyFW8fMnUqp85cVF"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Air Raid",
         "url": "https://open.spotify.com/album/4ZgvWANNUlTNMcoFn5Gwyg"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 219428,
       "name": "Air Raid",
       "url": "https://open.spotify.com/track/7L1vISqga09TEfhGclgw5x"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Mystica",
+        "url": "https://open.spotify.com/album/62G2jRCYlKWE8ytFEJyiL5"
+      },
+      "artists": [
+        {
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+        }
+      ],
+      "duration_ms": 280873,
+      "name": "Mystica",
+      "url": "https://open.spotify.com/track/51pX2IgyFW8fMnUqp85cVF"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2163,26 +2163,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Vespera",
-        "url": "https://open.spotify.com/album/6TExN4CIc5UiiBkrMDl10p"
-      },
-      "artists": [
-        {
-          "name": "Protoculture",
-          "url": "https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96"
-        },
-        {
-          "name": "Freak E Beatz",
-          "url": "https://open.spotify.com/artist/72PA5rE1ByXjTijXCZA48C"
-        }
-      ],
-      "duration_ms": 238109,
-      "name": "Vespera",
-      "url": "https://open.spotify.com/track/5Y3NxSLtGdwBFzkiKVYbUT"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Another World / Stay Here",
         "url": "https://open.spotify.com/album/1fYQ2vwXzFVxHID1Py7Akx"
       },
@@ -2219,6 +2199,26 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Vespera",
+        "url": "https://open.spotify.com/album/6TExN4CIc5UiiBkrMDl10p"
+      },
+      "artists": [
+        {
+          "name": "Protoculture",
+          "url": "https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96"
+        },
+        {
+          "name": "Freak E Beatz",
+          "url": "https://open.spotify.com/artist/72PA5rE1ByXjTijXCZA48C"
+        }
+      ],
+      "duration_ms": 238109,
+      "name": "Vespera",
+      "url": "https://open.spotify.com/track/5Y3NxSLtGdwBFzkiKVYbUT"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/7KbloOEzxIRrSzHobwFBLQ"
       },
@@ -2231,26 +2231,6 @@
       "duration_ms": 226285,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/0iF3VTHA1QSrUZRjsaGpX2"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "The Less I Know",
-        "url": "https://open.spotify.com/album/10PigE5XwXrVarCZcEx6Z3"
-      },
-      "artists": [
-        {
-          "name": "Super8 & Tab",
-          "url": "https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC"
-        },
-        {
-          "name": "Chris Howard",
-          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
-        }
-      ],
-      "duration_ms": 237142,
-      "name": "The Less I Know",
-      "url": "https://open.spotify.com/track/2HDtvfisFJpWfNI4GoKQOQ"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2275,6 +2255,26 @@
       "duration_ms": 207000,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/6L20m3aZDpSqnimtOk1tRj"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "The Less I Know",
+        "url": "https://open.spotify.com/album/10PigE5XwXrVarCZcEx6Z3"
+      },
+      "artists": [
+        {
+          "name": "Super8 & Tab",
+          "url": "https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC"
+        },
+        {
+          "name": "Chris Howard",
+          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
+        }
+      ],
+      "duration_ms": 237142,
+      "name": "The Less I Know",
+      "url": "https://open.spotify.com/track/2HDtvfisFJpWfNI4GoKQOQ"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "United in Love",
-        "url": "https://open.spotify.com/album/0avVnNGC0mYWvGJuLqc6bP"
-      },
-      "artists": [
-        {
-          "name": "Dim3nsion",
-          "url": "https://open.spotify.com/artist/7vEd9uAqFgC4p4EOXiFuQL"
-        }
-      ],
-      "duration_ms": 206422,
-      "name": "United in Love",
-      "url": "https://open.spotify.com/track/2OTlxfRnBZKPWqO16fQC2h"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/3nsCfqGPYeibfc4sidOnX7"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 245238,
       "name": "No Borders",
       "url": "https://open.spotify.com/track/6hdMOc0lpUN8fvVLNQVyDa"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "United in Love",
+        "url": "https://open.spotify.com/album/0avVnNGC0mYWvGJuLqc6bP"
+      },
+      "artists": [
+        {
+          "name": "Dim3nsion",
+          "url": "https://open.spotify.com/artist/7vEd9uAqFgC4p4EOXiFuQL"
+        }
+      ],
+      "duration_ms": 206422,
+      "name": "United in Love",
+      "url": "https://open.spotify.com/track/2OTlxfRnBZKPWqO16fQC2h"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2575,6 +2575,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Haven",
+        "url": "https://open.spotify.com/album/5rTItOZIS3XGkqOryZeGqt"
+      },
+      "artists": [
+        {
+          "name": "Nourey",
+          "url": "https://open.spotify.com/artist/29eCbkd3VZXMgG5Ggyuaog"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Haven",
+      "url": "https://open.spotify.com/track/4jcgfud6oIl9fSPR3HM7a3"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Take You There",
         "url": "https://open.spotify.com/album/2TJN8vUweqxZTgfnlzVexw"
       },
@@ -2591,22 +2607,6 @@
       "duration_ms": 206250,
       "name": "Take You There",
       "url": "https://open.spotify.com/track/7pQekf05XFyuZfpMSjKEBW"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Haven",
-        "url": "https://open.spotify.com/album/5rTItOZIS3XGkqOryZeGqt"
-      },
-      "artists": [
-        {
-          "name": "Nourey",
-          "url": "https://open.spotify.com/artist/29eCbkd3VZXMgG5Ggyuaog"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Haven",
-      "url": "https://open.spotify.com/track/4jcgfud6oIl9fSPR3HM7a3"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2735,26 +2735,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Need You Here",
-        "url": "https://open.spotify.com/album/00dcUXueVUwKhTCGQbcnp9"
-      },
-      "artists": [
-        {
-          "name": "Sneijder",
-          "url": "https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb"
-        },
-        {
-          "name": "Victoriya",
-          "url": "https://open.spotify.com/artist/0Vk0T93mmIB8rVgNGNRldv"
-        }
-      ],
-      "duration_ms": 233314,
-      "name": "Need You Here",
-      "url": "https://open.spotify.com/track/5XKiMGdKx1Idv3igWSvfXj"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Only Now I See (Mike Zaloxx Remix)",
         "url": "https://open.spotify.com/album/01jMIce2Ryu6pctd6jrNih"
       },
@@ -2775,6 +2755,26 @@
       "duration_ms": 231304,
       "name": "Only Now I See - Mike Zaloxx Remix",
       "url": "https://open.spotify.com/track/61kUZ4u03R6SttbBpnm0oz"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Need You Here",
+        "url": "https://open.spotify.com/album/00dcUXueVUwKhTCGQbcnp9"
+      },
+      "artists": [
+        {
+          "name": "Sneijder",
+          "url": "https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb"
+        },
+        {
+          "name": "Victoriya",
+          "url": "https://open.spotify.com/artist/0Vk0T93mmIB8rVgNGNRldv"
+        }
+      ],
+      "duration_ms": 233314,
+      "name": "Need You Here",
+      "url": "https://open.spotify.com/track/5XKiMGdKx1Idv3igWSvfXj"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2831,22 +2831,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Cicero",
-        "url": "https://open.spotify.com/album/2jPHZliiuvUdQQLqaVTQpx"
-      },
-      "artists": [
-        {
-          "name": "Robert Nickson",
-          "url": "https://open.spotify.com/artist/0dMK3g7XAApwIpLTyE7mqJ"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Cicero",
-      "url": "https://open.spotify.com/track/5rWTEexNPxNkDVvPiD9q6C"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Keep Falling",
         "url": "https://open.spotify.com/album/2jKldNnVhLU9MDb5W7Bhwo"
       },
@@ -2859,6 +2843,22 @@
       "duration_ms": 196025,
       "name": "Keep Falling",
       "url": "https://open.spotify.com/track/6wqipHY3gVEHqyoAOJIugd"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Cicero",
+        "url": "https://open.spotify.com/album/2jPHZliiuvUdQQLqaVTQpx"
+      },
+      "artists": [
+        {
+          "name": "Robert Nickson",
+          "url": "https://open.spotify.com/artist/0dMK3g7XAApwIpLTyE7mqJ"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Cicero",
+      "url": "https://open.spotify.com/track/5rWTEexNPxNkDVvPiD9q6C"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2923,6 +2923,30 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/7FgoElKaznGpdkB4klnBoD"
+      },
+      "artists": [
+        {
+          "name": "Siskin",
+          "url": "https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi"
+        },
+        {
+          "name": "Susie Ledge",
+          "url": "https://open.spotify.com/artist/2IuTspiSwgQQs4LmvNSBIZ"
+        },
+        {
+          "name": "Hal Stucker",
+          "url": "https://open.spotify.com/artist/01HjiueGdSdynpvQiBsJ04"
+        }
+      ],
+      "duration_ms": 212812,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/6CxxV9JSweebzhfQv6oqIe"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Breathless",
         "url": "https://open.spotify.com/album/04ILpPcjNEvIwBXFW1FNlB"
       },
@@ -2947,22 +2971,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "A Trillion Suns",
-        "url": "https://open.spotify.com/album/2IgZXf53DnMbStmYOH1iaE"
-      },
-      "artists": [
-        {
-          "name": "Daniel Skyver",
-          "url": "https://open.spotify.com/artist/3bVuL2ru6XQxHjUEb0Zo9y"
-        }
-      ],
-      "duration_ms": 209130,
-      "name": "A Trillion Suns",
-      "url": "https://open.spotify.com/track/6IUqM6OTx8yCQ7BRQl8BHo"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Stolen",
         "url": "https://open.spotify.com/album/4NGhLoa8GbcUqRfryIOkVV"
       },
@@ -2983,26 +2991,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/7FgoElKaznGpdkB4klnBoD"
+        "name": "A Trillion Suns",
+        "url": "https://open.spotify.com/album/2IgZXf53DnMbStmYOH1iaE"
       },
       "artists": [
         {
-          "name": "Siskin",
-          "url": "https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi"
-        },
-        {
-          "name": "Susie Ledge",
-          "url": "https://open.spotify.com/artist/2IuTspiSwgQQs4LmvNSBIZ"
-        },
-        {
-          "name": "Hal Stucker",
-          "url": "https://open.spotify.com/artist/01HjiueGdSdynpvQiBsJ04"
+          "name": "Daniel Skyver",
+          "url": "https://open.spotify.com/artist/3bVuL2ru6XQxHjUEb0Zo9y"
         }
       ],
-      "duration_ms": 212812,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/6CxxV9JSweebzhfQv6oqIe"
+      "duration_ms": 209130,
+      "name": "A Trillion Suns",
+      "url": "https://open.spotify.com/track/6IUqM6OTx8yCQ7BRQl8BHo"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -3047,6 +3047,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Global Consciousness",
+        "url": "https://open.spotify.com/album/27biuyQ0cJWit8czIN9R2c"
+      },
+      "artists": [
+        {
+          "name": "Paul Denton",
+          "url": "https://open.spotify.com/artist/2fKsd61swALXCOUa8q89U2"
+        }
+      ],
+      "duration_ms": 191142,
+      "name": "Global Consciousness",
+      "url": "https://open.spotify.com/track/76vD1qLwRLakgAHrBAGcdT"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Someone (Kinetica Remix)",
         "url": "https://open.spotify.com/album/1vgM41hSPEKeVo5tAyw6Wd"
       },
@@ -3071,42 +3087,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Global Consciousness",
-        "url": "https://open.spotify.com/album/27biuyQ0cJWit8czIN9R2c"
-      },
-      "artists": [
-        {
-          "name": "Paul Denton",
-          "url": "https://open.spotify.com/artist/2fKsd61swALXCOUa8q89U2"
-        }
-      ],
-      "duration_ms": 191142,
-      "name": "Global Consciousness",
-      "url": "https://open.spotify.com/track/76vD1qLwRLakgAHrBAGcdT"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Fallen Stars",
-        "url": "https://open.spotify.com/album/17F1mdkI3JlNVW1b0Gzru6"
-      },
-      "artists": [
-        {
-          "name": "SMR LVE",
-          "url": "https://open.spotify.com/artist/06t1RxKOvEjISHqQBquslE"
-        },
-        {
-          "name": "Christina Novelli",
-          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
-        }
-      ],
-      "duration_ms": 289090,
-      "name": "Fallen Stars",
-      "url": "https://open.spotify.com/track/678AzChcY2JJQT21ZYnCHf"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Sublimity",
         "url": "https://open.spotify.com/album/71gvScDXVDD1Qd4Xt1IEM0"
       },
@@ -3127,6 +3107,26 @@
       "duration_ms": 211451,
       "name": "Sublimity",
       "url": "https://open.spotify.com/track/0uVxg9G8CwOt5n616PyNHr"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Fallen Stars",
+        "url": "https://open.spotify.com/album/17F1mdkI3JlNVW1b0Gzru6"
+      },
+      "artists": [
+        {
+          "name": "SMR LVE",
+          "url": "https://open.spotify.com/artist/06t1RxKOvEjISHqQBquslE"
+        },
+        {
+          "name": "Christina Novelli",
+          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
+        }
+      ],
+      "duration_ms": 289090,
+      "name": "Fallen Stars",
+      "url": "https://open.spotify.com/track/678AzChcY2JJQT21ZYnCHf"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -3327,22 +3327,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Thinking of You",
-        "url": "https://open.spotify.com/album/3JveJFifTrUnPjxARoZUgW"
-      },
-      "artists": [
-        {
-          "name": "Solarstone",
-          "url": "https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90"
-        }
-      ],
-      "duration_ms": 202714,
-      "name": "Thinking of You",
-      "url": "https://open.spotify.com/track/4fGYcqTM8aBhtXU7yIxtcO"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Her Melodie",
         "url": "https://open.spotify.com/album/5N3CTxuoFlVowVzS7dlahO"
       },
@@ -3359,6 +3343,22 @@
       "duration_ms": 199951,
       "name": "Her Melodie - Edit",
       "url": "https://open.spotify.com/track/0QtkgwXj1KZC3FZlsDgILh"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Thinking of You",
+        "url": "https://open.spotify.com/album/3JveJFifTrUnPjxARoZUgW"
+      },
+      "artists": [
+        {
+          "name": "Solarstone",
+          "url": "https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90"
+        }
+      ],
+      "duration_ms": 202714,
+      "name": "Thinking of You",
+      "url": "https://open.spotify.com/track/4fGYcqTM8aBhtXU7yIxtcO"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -3399,22 +3399,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Till The Sun Is Up High",
-        "url": "https://open.spotify.com/album/0NaVzChiy0uqs9bcDUDRS5"
-      },
-      "artists": [
-        {
-          "name": "Natalie Gioia",
-          "url": "https://open.spotify.com/artist/7Im3RJDHc4svDzWNlSvoAO"
-        }
-      ],
-      "duration_ms": 198654,
-      "name": "Till The Sun Is Up High",
-      "url": "https://open.spotify.com/track/6sS1woPe1F2CHvwr1JamkY"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Axis",
         "url": "https://open.spotify.com/album/3DmMaVUQ3HHziGdN6jgTde"
       },
@@ -3431,18 +3415,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Resource",
-        "url": "https://open.spotify.com/album/5FgkWUGEsLOuykvly4JXe6"
+        "name": "Till The Sun Is Up High",
+        "url": "https://open.spotify.com/album/0NaVzChiy0uqs9bcDUDRS5"
       },
       "artists": [
         {
-          "name": "Marco V",
-          "url": "https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv"
+          "name": "Natalie Gioia",
+          "url": "https://open.spotify.com/artist/7Im3RJDHc4svDzWNlSvoAO"
         }
       ],
-      "duration_ms": 236250,
-      "name": "Resource",
-      "url": "https://open.spotify.com/track/2YTMUE6rM0HbYI6ZeF2M9r"
+      "duration_ms": 198654,
+      "name": "Till The Sun Is Up High",
+      "url": "https://open.spotify.com/track/6sS1woPe1F2CHvwr1JamkY"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -3463,6 +3447,22 @@
       "duration_ms": 164545,
       "name": "Summer Sound",
       "url": "https://open.spotify.com/track/63YYujTmmNYl0QCJqvtw06"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Resource",
+        "url": "https://open.spotify.com/album/5FgkWUGEsLOuykvly4JXe6"
+      },
+      "artists": [
+        {
+          "name": "Marco V",
+          "url": "https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv"
+        }
+      ],
+      "duration_ms": 236250,
+      "name": "Resource",
+      "url": "https://open.spotify.com/track/2YTMUE6rM0HbYI6ZeF2M9r"
     },
     {
       "added_at": "2024-11-08 05:00:00",

@@ -4,11 +4,11 @@
 
 > Spread some cheer with this list of new and old seasonal favorites\. Cover: Brenda Lee
 
-180 songs - 10 hr 6 min
+181 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Everybody's Waitin' For\) The Man With The Bag](https://open.spotify.com/track/7azp0ySqPkkXHi9M9aeg3T) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [A Capitol Christmas](https://open.spotify.com/album/1G5A7Mk9mJZ1vqdulXwx2S) | 2:42 | 2021-12-20 |  |
+| [\(Everybody's Waitin' For\) The Man With The Bag](https://open.spotify.com/track/7azp0ySqPkkXHi9M9aeg3T) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [A Capitol Christmas](https://open.spotify.com/album/1G5A7Mk9mJZ1vqdulXwx2S) | 2:42 | 2021-12-20 | 2024-11-12 |
 | [\(There's No Place Like\) Home for the Holidays \- 1959 Version](https://open.spotify.com/track/2GapxG7BxK55ihQRAlR39e) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [A Perry Como Christmas](https://open.spotify.com/album/6kwOEj6diw9tUSbhgIVeBP) | 2:58 | 2021-12-20 | 2024-11-05 |
 | [2000 Miles \- 2007 Remaster](https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(Expanded & Remastered\)](https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3) | 3:40 | 2021-12-20 |  |
 | [A Holly Jolly Christmas](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 | 2021-12-20 |  |
@@ -154,6 +154,7 @@
 | [The Chipmunk Song \(Christmas Don't Be Late\) \- Remastered 1999](https://open.spotify.com/track/02NKMA9cIkq6VuBNu9q9Wf) | [Alvin & The Chipmunks](https://open.spotify.com/artist/1SCWcYnoEh1978ycTDhZoW), [David Seville](https://open.spotify.com/artist/4NI5R1DbX27ODY5JTqnv2l) | [Christmas With The Chipmunks \(2010\)](https://open.spotify.com/album/3X7elwYMwXz3flSYNtSfHQ) | 2:21 | 2021-12-20 |  |
 | [The Christmas Song \(Chestnuts Roasting on an Open Fire\)](https://open.spotify.com/track/3x0wbrv15rqDu0cmA3HGyX) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa) | 4:20 | 2021-12-20 |  |
 | [The First Noël \(with Faith Hill\)](https://open.spotify.com/track/5fhjN7E4rV0GqsRSQBsWeo) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Noël \(Deluxe Edition\)](https://open.spotify.com/album/27Ovu2vEYcN7dcd27yRkGg) | 4:33 | 2023-10-20 |  |
+| [The Man With The Bag](https://open.spotify.com/track/2R60AwEI6yNX8iJ0EEfKPD) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Man With The Bag](https://open.spotify.com/album/21Xq5vgILkNpVZiGKjBgdd) | 2:03 | 2024-11-11 |  |
 | [The Sound Of Christmas](https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [The Sound of Christmas](https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH) | 3:17 | 2024-10-18 |  |
 | [The Twelve Days of Christmas](https://open.spotify.com/track/1phlddT9rezMBppm6WDVdW) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [The Complete RCA Christmas Collection](https://open.spotify.com/album/6QSSyJyDQVshrNr7SnqKsE) | 3:59 | 2021-12-20 | 2022-12-06 |
 | [These Are the Special Times](https://open.spotify.com/track/10lhzHGoPWLuFuq6kgfszk) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These Are Special Times](https://open.spotify.com/album/32MpBKgfq3OJWbqEFcTwWP) | 4:07 | 2023-12-08 |  |

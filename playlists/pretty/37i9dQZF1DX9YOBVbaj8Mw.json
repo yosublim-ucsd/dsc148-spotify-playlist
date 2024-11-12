@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14672,
+  "num_followers": 14675,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "przestrze\u0144",
+        "url": "https://open.spotify.com/album/6vd5tpfLPPJ3Bo2VyStDqA"
+      },
+      "artists": [
+        {
+          "name": "Kathia",
+          "url": "https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4"
+        }
+      ],
+      "duration_ms": 217245,
+      "name": "lekka jak powietrze",
+      "url": "https://open.spotify.com/track/5CKxg5M0vYrRqekWveuSbl"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "Produkcja Hip-Hop Ciemna/Jasna",
         "url": "https://open.spotify.com/album/47WX4JHl2oMXyXV6rPagKt"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 263625,
       "name": "Ja Si\u0119 Wcale Nie Chwal\u0119",
       "url": "https://open.spotify.com/track/6BGeRP62GNdpbiS4iGtI0Q"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "przestrze\u0144",
-        "url": "https://open.spotify.com/album/6vd5tpfLPPJ3Bo2VyStDqA"
-      },
-      "artists": [
-        {
-          "name": "Kathia",
-          "url": "https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4"
-        }
-      ],
-      "duration_ms": 217245,
-      "name": "lekka jak powietrze",
-      "url": "https://open.spotify.com/track/5CKxg5M0vYrRqekWveuSbl"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "DEGRENGOLADA",
-        "url": "https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h"
-      },
-      "artists": [
-        {
-          "name": "Nosowska",
-          "url": "https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul"
-        }
-      ],
-      "duration_ms": 247249,
-      "name": "Pi\u0119kna degrengolada",
-      "url": "https://open.spotify.com/track/2ftszX8lq1fTOnmT4Y24nB"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/4tCFw1RZhfHEkWrZYf4r92"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 239712,
       "name": "Nie by\u0142o Ci\u0119 - Live",
       "url": "https://open.spotify.com/track/5DLUiOxvQvNPnc3JDs9oIr"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "DEGRENGOLADA",
+        "url": "https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h"
+      },
+      "artists": [
+        {
+          "name": "Nosowska",
+          "url": "https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul"
+        }
+      ],
+      "duration_ms": 247249,
+      "name": "Pi\u0119kna degrengolada",
+      "url": "https://open.spotify.com/track/2ftszX8lq1fTOnmT4Y24nB"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "Kryzys",
+        "url": "https://open.spotify.com/album/6n5TU7zk4348VxhcXKRnsS"
+      },
+      "artists": [
+        {
+          "name": "Ha\u0144ba!",
+          "url": "https://open.spotify.com/artist/61ifulWrE8gurR1dVA7EOk"
+        }
+      ],
+      "duration_ms": 159205,
+      "name": "Wiersz wigilijny",
+      "url": "https://open.spotify.com/track/4SKFFjmiFB4nTDYvg7Mdld"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "Horyzont Zdarze\u0144",
         "url": "https://open.spotify.com/album/5JqsTZOSxsihfzsaACeNyE"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 288922,
       "name": "Czas Nie Leczy Ran",
       "url": "https://open.spotify.com/track/7ASf5D6jl1WR0nZZCqXLJj"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "Kryzys",
-        "url": "https://open.spotify.com/album/6n5TU7zk4348VxhcXKRnsS"
-      },
-      "artists": [
-        {
-          "name": "Ha\u0144ba!",
-          "url": "https://open.spotify.com/artist/61ifulWrE8gurR1dVA7EOk"
-        }
-      ],
-      "duration_ms": 159205,
-      "name": "Wiersz wigilijny",
-      "url": "https://open.spotify.com/track/4SKFFjmiFB4nTDYvg7Mdld"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Mother's Day (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/5shDcdQoul4VBhEizLGRgf"
-      },
-      "artists": [
-        {
-          "name": "Zamilska",
-          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
-        }
-      ],
-      "duration_ms": 163286,
-      "name": "Fight First",
-      "url": "https://open.spotify.com/track/1EtbFBabv9aemgBfvh3aY1"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "IMAGO (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4yb4DjGDqV6u2T8i5vzQln"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 172000,
       "name": "IMAGO SWAN",
       "url": "https://open.spotify.com/track/1L80n5Kwmx1gCqMMJPH8wY"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Mother's Day (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5shDcdQoul4VBhEizLGRgf"
+      },
+      "artists": [
+        {
+          "name": "Zamilska",
+          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
+        }
+      ],
+      "duration_ms": 163286,
+      "name": "Fight First",
+      "url": "https://open.spotify.com/track/1EtbFBabv9aemgBfvh3aY1"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1415,34 +1415,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "De Joe",
-        "url": "https://open.spotify.com/album/2KgKvBhZtJqFQfWxR8Nnjt"
-      },
-      "artists": [
-        {
-          "name": "Zbigniew Jakubek",
-          "url": "https://open.spotify.com/artist/2QN2CzqwVf0PuYBeZQ4pfV"
-        },
-        {
-          "name": "Marek Raduli",
-          "url": "https://open.spotify.com/artist/7y3dWNMj9SrdKhFbXlFP4e"
-        },
-        {
-          "name": "Micha\u0142 Grott",
-          "url": "https://open.spotify.com/artist/5vTufkZ6dLqe3QdmONx2Mu"
-        },
-        {
-          "name": "Micha\u0142 D\u0105br\u00f3wka",
-          "url": "https://open.spotify.com/artist/57zOJBgXcOxWWMh1Z5KnDr"
-        }
-      ],
-      "duration_ms": 481986,
-      "name": "De Joe",
-      "url": "https://open.spotify.com/track/5oilZfKTkGUkrc3Tz61Nae"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "TiriTaka (Polish Jazz, Vol. 62)",
         "url": "https://open.spotify.com/album/2nDgX64PdLDyHtOX4nEHJf"
       },
@@ -1471,6 +1443,34 @@
       "duration_ms": 211047,
       "name": "Serce Otwarte Na P\u00f3\u0142",
       "url": "https://open.spotify.com/track/3XywU8Sg5a5VKT2jROPisX"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "De Joe",
+        "url": "https://open.spotify.com/album/2KgKvBhZtJqFQfWxR8Nnjt"
+      },
+      "artists": [
+        {
+          "name": "Zbigniew Jakubek",
+          "url": "https://open.spotify.com/artist/2QN2CzqwVf0PuYBeZQ4pfV"
+        },
+        {
+          "name": "Marek Raduli",
+          "url": "https://open.spotify.com/artist/7y3dWNMj9SrdKhFbXlFP4e"
+        },
+        {
+          "name": "Micha\u0142 Grott",
+          "url": "https://open.spotify.com/artist/5vTufkZ6dLqe3QdmONx2Mu"
+        },
+        {
+          "name": "Micha\u0142 D\u0105br\u00f3wka",
+          "url": "https://open.spotify.com/artist/57zOJBgXcOxWWMh1Z5KnDr"
+        }
+      ],
+      "duration_ms": 481986,
+      "name": "De Joe",
+      "url": "https://open.spotify.com/track/5oilZfKTkGUkrc3Tz61Nae"
     },
     {
       "added_at": "2024-03-25 08:52:09",

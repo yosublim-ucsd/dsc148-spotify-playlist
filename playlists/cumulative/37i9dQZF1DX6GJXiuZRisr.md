@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-543 songs - 1 day 14 hr 6 min
+544 songs - 1 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [G.O.D.](https://open.spotify.com/track/2bqJJA9tM5EUocBbFiJpL1) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [G.O.D.](https://open.spotify.com/album/575eaDCkit9HjpB0JGYGzI) | 2:17 | 2024-04-12 | 2024-04-27 |
 | [Galahad](https://open.spotify.com/track/65KIaxjBVPTsEsfdIcaJGb) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Only You](https://open.spotify.com/album/7JobxIfMxmbEvbbcuYMniN) | 3:29 | 2021-05-07 | 2022-06-17 |
 | [Gamma](https://open.spotify.com/track/0oIbkBXuNKpRGrePp7cAeo) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Gamma](https://open.spotify.com/album/3Drkk9lFZi6LdgXG32kW9C) | 6:21 | 2022-07-22 | 2023-02-11 |
-| [Gate](https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Gate / Masterplan](https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI) | 5:43 | 2023-06-02 |  |
+| [Gate](https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Gate / Masterplan](https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI) | 5:43 | 2023-06-02 | 2024-11-12 |
 | [Gazer \(Through the Night\)](https://open.spotify.com/track/1LsSPm7nkGgUbukmxS8DUa) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Dark Woods](https://open.spotify.com/album/064SqNWBOnEHRMyg8wj6HC) | 3:27 | 2022-02-25 | 2022-07-29 |
 | [Gemini Bridges](https://open.spotify.com/track/21DZqG3jg7YQexOzd6vqig) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Gemini Bridges / Room 4242](https://open.spotify.com/album/6kPzVQCpntz3pvsS5pIyHu) | 4:45 | 2021-05-07 | 2022-07-29 |
 | [Georgia](https://open.spotify.com/track/7LMjCMznpWK1TGrV1ryWRp) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [If Love Is A Skill & Georgia](https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1) | 3:50 | 2023-03-31 | 2023-05-09 |
@@ -380,6 +380,7 @@
 | [Replay](https://open.spotify.com/track/67Lj6xHDrizXIDDFKYwdae) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Natalie Shay](https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ) | [Replay](https://open.spotify.com/album/2bwXbiQpSrhw8ioKitFRDD) | 4:12 | 2022-04-15 | 2022-07-29 |
 | [Resonate \(feat\. Julia Church\)](https://open.spotify.com/track/2pvQCbUnXHOpAcJOkgAYmZ) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Resonate \(feat\. Julia Church\)](https://open.spotify.com/album/7r9LSib4rKpvAS9hTRt1QJ) | 4:01 | 2024-06-21 |  |
 | [Rewind](https://open.spotify.com/track/2mEb5O579Ctj4sYqfkJSZd) | [Anden](https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF) | [Rewind EP](https://open.spotify.com/album/2uwlsjnBdNtDzikfUibUjn) | 3:33 | 2021-05-07 | 2022-07-27 |
+| [Rewind](https://open.spotify.com/track/6wzMevey2rDXo0e1POZ67m) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Rewind](https://open.spotify.com/album/5o3lrb6NCyEJT65AnSmV3N) | 3:30 | 2024-11-08 |  |
 | [Rhythm \(Of The Night\)](https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Rhythm \(Of The Night\)](https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW) | 3:21 | 2022-10-14 |  |
 | [Riptide](https://open.spotify.com/track/7yT31cuPzcqkE2BJV4Fusx) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Davey Havok](https://open.spotify.com/artist/1Q1ItjYrk6Si5q4tQtRbx8) | [Riptide](https://open.spotify.com/album/1fY8TWeIEA2EXH24sT9RJn) | 5:50 | 2021-06-18 | 2022-10-19 |
 | [Risky Business](https://open.spotify.com/track/75N5R8CeZDyJurQJsoRTx1) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Risky Business](https://open.spotify.com/album/11dna2TSKlOcxUgMuhPT0k) | 5:20 | 2021-05-07 | 2023-07-01 |

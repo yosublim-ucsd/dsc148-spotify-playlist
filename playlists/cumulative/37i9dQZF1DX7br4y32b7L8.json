@@ -1231,6 +1231,36 @@
     },
     {
       "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/1GlRi6vd31FMIWrQkgxu45"
+      },
+      "artists": [
+        {
+          "name": "JoeyAK",
+          "url": "https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0"
+        },
+        {
+          "name": "Spanker",
+          "url": "https://open.spotify.com/artist/6wMnkPepu5AcV3w9rtIw09"
+        },
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        },
+        {
+          "name": "CHO",
+          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156935,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/2XmZI4dnQhLlt9imUoAnFc"
+    },
+    {
+      "album": {
         "name": "Bongoloco",
         "url": "https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA"
       },
@@ -2454,7 +2484,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 261864,
       "name": "Dominique",
       "url": "https://open.spotify.com/track/5cJR6iMvlC2RxBfNHXfwNg"
@@ -2600,6 +2630,28 @@
       "duration_ms": 180545,
       "name": "Droom Groot",
       "url": "https://open.spotify.com/track/4XiYnHAolrUxuRCaGLFG0R"
+    },
+    {
+      "album": {
+        "name": "R&G (Rhythm & Gangsta): The Masterpiece",
+        "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266066,
+      "name": "Drop It Like It's Hot",
+      "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
     },
     {
       "album": {
@@ -3569,6 +3621,32 @@
     },
     {
       "album": {
+        "name": "Free (feat. Starsplash)",
+        "url": "https://open.spotify.com/album/3g4YQYRWn89pIIAGhRIqNf"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Charly Lownoise",
+          "url": "https://open.spotify.com/artist/29NIIAIq5CRkVuzkggpS0W"
+        },
+        {
+          "name": "Starsplash",
+          "url": "https://open.spotify.com/artist/36QdWK7j3cN0UIPyrB6TIz"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Free (feat. Starsplash)",
+      "url": "https://open.spotify.com/track/1Juo1H8h7Gbg4m0d9qOdxq"
+    },
+    {
+      "album": {
         "name": "Is This Real",
         "url": "https://open.spotify.com/album/3ae504ho747nwloxNn2CH8"
       },
@@ -3778,6 +3856,32 @@
       "duration_ms": 164129,
       "name": "Gimme Bass",
       "url": "https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17"
+    },
+    {
+      "album": {
+        "name": "Gimmie Di Whine",
+        "url": "https://open.spotify.com/album/1Ruqmodafo0G28ccaMgr8R"
+      },
+      "artists": [
+        {
+          "name": "Leftside",
+          "url": "https://open.spotify.com/artist/187qoiisjzqvj3wsBWLotr"
+        },
+        {
+          "name": "Michael Rankiao",
+          "url": "https://open.spotify.com/artist/2blS6rBXwiu1G4qvdcIuV4"
+        },
+        {
+          "name": "T-Jay",
+          "url": "https://open.spotify.com/artist/0F7BB84WHkj6GWfq3Ddmfj"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Gimmie Di Whine",
+      "url": "https://open.spotify.com/track/2ZepfwlAgurKDSLNZl9XQW"
     },
     {
       "album": {
@@ -4607,6 +4711,28 @@
     },
     {
       "album": {
+        "name": "The King's Son",
+        "url": "https://open.spotify.com/album/2CvQVSObCdp6SVjoM2D6a4"
+      },
+      "artists": [
+        {
+          "name": "The King's Son",
+          "url": "https://open.spotify.com/artist/6odusjO6ZjjoV3IFlzSxoE"
+        },
+        {
+          "name": "Blacko",
+          "url": "https://open.spotify.com/artist/0kcFJUUSenAq7PbxDk7Ek9"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196265,
+      "name": "I'm Not Rich",
+      "url": "https://open.spotify.com/track/7hogxy0ClAas2WdGX6u66b"
+    },
+    {
+      "album": {
         "name": "Loafers van Puppyleer Deluxe EP",
         "url": "https://open.spotify.com/album/34VnmQ8FMDKT23bn2JLV7O"
       },
@@ -4842,7 +4968,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 140643,
       "name": "Industry Plant",
       "url": "https://open.spotify.com/track/31EsbpCFl01yQtLncNdjSz"
@@ -4938,6 +5064,24 @@
       "duration_ms": 162985,
       "name": "It's a Beautiful Day (Reprise)",
       "url": "https://open.spotify.com/track/0mNi3gEjt1CmZVhXFFjx8d"
+    },
+    {
+      "album": {
+        "name": "Subliminal (La face cach\u00e9e)",
+        "url": "https://open.spotify.com/album/5EU9LqPsBwrhq4Iqx0xMVd"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249866,
+      "name": "J'me tire",
+      "url": "https://open.spotify.com/track/4w47YE9rjhmZUdtZjSCb82"
     },
     {
       "album": {
@@ -5146,6 +5290,24 @@
       "duration_ms": 115623,
       "name": "Kakkerlak Met Nagellak",
       "url": "https://open.spotify.com/track/0drZWSUbgDvb7vS9cnNhOU"
+    },
+    {
+      "album": {
+        "name": "Kantelen",
+        "url": "https://open.spotify.com/album/3prvI8myzqSV6wQCIyL06g"
+      },
+      "artists": [
+        {
+          "name": "Feestteam",
+          "url": "https://open.spotify.com/artist/42Lgl2myla33QoKueaTxmA"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173203,
+      "name": "Kantelen",
+      "url": "https://open.spotify.com/track/2GqpwS04aT8rKKHhEIRjgj"
     },
     {
       "album": {
@@ -6404,7 +6566,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 156212,
       "name": "Marina",
       "url": "https://open.spotify.com/track/6Vs5gDbvW6wG8SNIaSQNKH"
@@ -9791,6 +9953,28 @@
     },
     {
       "album": {
+        "name": "Making Mirrors",
+        "url": "https://open.spotify.com/album/4QsYYvV4ig7xeNQkTzUCA2"
+      },
+      "artists": [
+        {
+          "name": "Gotye",
+          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        },
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245755,
+      "name": "Somebody That I Used to Know",
+      "url": "https://open.spotify.com/track/62oaDoBveZxvZb94ziiMXi"
+    },
+    {
+      "album": {
         "name": "someday i'll get it",
         "url": "https://open.spotify.com/album/2YXww1viuuKZPi458rdopk"
       },
@@ -11660,6 +11844,24 @@
       "duration_ms": 196160,
       "name": "Whenever, Wherever",
       "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
+    },
+    {
+      "album": {
+        "name": "Who Can Blame Her",
+        "url": "https://open.spotify.com/album/5Jy7binbpM27qw7YK10LEh"
+      },
+      "artists": [
+        {
+          "name": "Zeke Pujols",
+          "url": "https://open.spotify.com/artist/6DkjuCr4iY5W4ej8gO3MAG"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185106,
+      "name": "Who Can Blame Her",
+      "url": "https://open.spotify.com/track/0eSTu4biq1whc8u8SaS3F3"
     },
     {
       "album": {

@@ -1027,6 +1027,28 @@
     },
     {
       "album": {
+        "name": "Censored",
+        "url": "https://open.spotify.com/album/20d3VlfbgjWHIsNMqADNbO"
+      },
+      "artists": [
+        {
+          "name": "Wayne Marshall",
+          "url": "https://open.spotify.com/artist/7z5vwJBduF4LhL0RSKpofj"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241616,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/7Af9e3Z5yAzY2Jk3dKmFov"
+    },
+    {
+      "album": {
         "name": "Terapia",
         "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
       },

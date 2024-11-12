@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-837 songs - 1 day 21 hr 0 min
+838 songs - 1 day 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 | 2024-07-16 | 2024-08-07 |
 | [Mangos \- Tiktok Version](https://open.spotify.com/track/1wD755PZiaAhiCOgvFLGq6) | [LDRR](https://open.spotify.com/artist/2DtIt7mMzdaEEFVUbSmnoU) | [Mangos \(Tiktok Version\)](https://open.spotify.com/album/1D6rlXWkDBI4YZyGVrSZu7) | 0:51 | 2024-06-21 | 2024-07-10 |
 | [MANHATTAN](https://open.spotify.com/track/1ky7iKY5camXBUrfRyHHhT) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GRASA](https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv) | 3:12 | 2024-06-12 | 2024-06-17 |
+| [MANO ARRIBA](https://open.spotify.com/track/1nPbjq6rB4liFmm0J4M7gt) | [Franco Giugno](https://open.spotify.com/artist/3DUJLgWQuLPshquQMIxFhx), [AXEL MARTINEZ](https://open.spotify.com/artist/6z84xZAaLttG9sO2x1N6tA) | [MANO ARRIBA](https://open.spotify.com/album/0ZzwCw2Y0SSgOcj9WBcYzj) | 2:39 | 2024-11-11 |  |
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-29 |  |
 | [Maquillaje](https://open.spotify.com/track/16flcJEZHzqoSRv7Ku5gjJ) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0CLVKodSfi7SSMDFQutIhy) | 3:31 | 2024-03-20 | 2024-04-17 |
 | [Maquillaje](https://open.spotify.com/track/4eMgCEivrlABjwo0ZiY95d) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/0L16XNlcuTsjZutD11ixsz) | 3:31 | 2024-03-15 | 2024-03-21 |
@@ -784,7 +785,7 @@
 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 | 2024-01-29 | 2024-04-11 |
 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-07-09 | 2024-07-17 |
 | [UWAIE](https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [UWAIE](https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN) | 2:52 | 2024-09-03 | 2024-11-06 |
-| [UWAIE \- versión cumbia](https://open.spotify.com/track/5IgmWwbNUeZzvYrODLletR) | [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL) | [UWAIE \(versión cumbia\)](https://open.spotify.com/album/5OvHusjeeqeowoBzHgXok7) | 2:42 | 2024-10-08 |  |
+| [UWAIE \- versión cumbia](https://open.spotify.com/track/5IgmWwbNUeZzvYrODLletR) | [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL) | [UWAIE \(versión cumbia\)](https://open.spotify.com/album/5OvHusjeeqeowoBzHgXok7) | 2:42 | 2024-10-08 | 2024-11-12 |
 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2024-02-19 | 2024-02-23 |
 | [Vaquero](https://open.spotify.com/track/2ooKgNKvmTKxqkQUdyX7Mz) | [La Dinastia](https://open.spotify.com/artist/4HUY0hELnxz4RC6VvJzRyc), [Andres Castillo](https://open.spotify.com/artist/6swtbYCVvjJIjCb5MWaIT2) | [100 % Mexicano](https://open.spotify.com/album/1mlBiMy6nLtiqMsFdjD73K) | 4:05 | 2024-02-03 | 2024-02-25 |
 | [Veneka](https://open.spotify.com/track/2nWlJ8gwkn5KPADD07zcmw) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Veneka](https://open.spotify.com/album/2FHeDV8HFl5GQCiEXA7Ite) | 4:14 | 2024-11-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC PH com Baco Exu do Blues, Jorge & Mateus, Xamã e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,952,466 likes - 69 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,952,646 likes - 69 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

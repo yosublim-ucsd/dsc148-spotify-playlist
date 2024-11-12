@@ -2171,6 +2171,24 @@
     },
     {
       "album": {
+        "name": "A Very Trainor Christmas",
+        "url": "https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219720,
+      "name": "I'll Be Home",
+      "url": "https://open.spotify.com/track/0YupMLYOYz6lZDbN3kRt7A"
+    },
+    {
+      "album": {
         "name": "A Pentatonix Christmas",
         "url": "https://open.spotify.com/album/3oXvzShPN8iY2P1UYl3WVJ"
       },
@@ -3082,7 +3100,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 161013,
       "name": "My Kind Of Present",
       "url": "https://open.spotify.com/track/3LOfU1kaplBBNd2jeiGa0N"
@@ -3636,6 +3654,24 @@
       "duration_ms": 202546,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/0cM5URUqqQTpJWonmdzF1J"
+    },
+    {
+      "album": {
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/3yAHCdy8s77OpoBvVY9EJp"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182040,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/4jHl6jgzZOnS4nGamPZ1Uk"
     },
     {
       "album": {
@@ -4702,7 +4738,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 126513,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/6ufGxYHEaHNoF3Wvr3xMuj"

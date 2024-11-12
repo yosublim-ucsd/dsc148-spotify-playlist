@@ -1603,6 +1603,34 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
+        "name": "New Love (feat. Ellie Goulding)",
+        "url": "https://open.spotify.com/album/6DFajhqhakGIy5A8gy0LcZ"
+      },
+      "artists": [
+        {
+          "name": "Silk City",
+          "url": "https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "New Love (feat. Ellie Goulding)",
+      "url": "https://open.spotify.com/track/3qcse1HvDQ1vGQo6Egtkom"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
         "name": "Swing",
         "url": "https://open.spotify.com/album/3j2j7DAJq56gRsWXgJgWmN"
       },
@@ -1643,34 +1671,6 @@
       "duration_ms": 207586,
       "name": "How Beautiful (she is)",
       "url": "https://open.spotify.com/track/53TbfWFcp3COCSs3zkVfSR"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
-        "name": "New Love (feat. Ellie Goulding)",
-        "url": "https://open.spotify.com/album/6DFajhqhakGIy5A8gy0LcZ"
-      },
-      "artists": [
-        {
-          "name": "Silk City",
-          "url": "https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "New Love (feat. Ellie Goulding)",
-      "url": "https://open.spotify.com/track/3qcse1HvDQ1vGQo6Egtkom"
     },
     {
       "added_at": "2024-06-26 02:03:12",

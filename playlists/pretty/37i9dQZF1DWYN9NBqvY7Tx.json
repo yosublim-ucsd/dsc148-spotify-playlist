@@ -1,6 +1,6 @@
 {
   "description": "Dance, bass, EDM, trap, phonk: the perfect gaming mix.",
-  "num_followers": 1135047,
+  "num_followers": 1135274,
   "original_name": "Ultra Gaming",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2024-11-08 00:01:00",
       "album": {
+        "name": "BRODYAGA FUNK",
+        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 134785,
+      "name": "BRODYAGA FUNK",
+      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
+    },
+    {
+      "added_at": "2024-11-08 00:01:00",
+      "album": {
         "name": "Mockingbird",
         "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 154838,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
-    },
-    {
-      "added_at": "2024-11-08 00:01:00",
-      "album": {
-        "name": "BRODYAGA FUNK",
-        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
-      },
-      "artists": [
-        {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
-        }
-      ],
-      "duration_ms": 134785,
-      "name": "BRODYAGA FUNK",
-      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
     },
     {
       "added_at": "2024-11-08 00:01:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-11-08 00:01:00",
       "album": {
+        "name": "Fluxxwave",
+        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
+      },
+      "artists": [
+        {
+          "name": "Clovis Reyes",
+          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
+        }
+      ],
+      "duration_ms": 150441,
+      "name": "Fluxxwave",
+      "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
+    },
+    {
+      "added_at": "2024-11-08 00:01:00",
+      "album": {
         "name": "All Around The World (La La La)",
         "url": "https://open.spotify.com/album/0Y59j5oCvwTM2aNyPb6YpJ"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 147840,
       "name": "All Around The World (La La La)",
       "url": "https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp"
-    },
-    {
-      "added_at": "2024-11-08 00:01:00",
-      "album": {
-        "name": "Fluxxwave",
-        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
-      },
-      "artists": [
-        {
-          "name": "Clovis Reyes",
-          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
-        }
-      ],
-      "duration_ms": 150441,
-      "name": "Fluxxwave",
-      "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
     },
     {
       "added_at": "2024-11-08 00:01:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-11-08 00:01:00",
       "album": {
-        "name": "Where Do We Go",
-        "url": "https://open.spotify.com/album/1v05i0btb10KOIvgumPue6"
-      },
-      "artists": [
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "Where Do We Go",
-      "url": "https://open.spotify.com/track/2Ehp9Is1ihvBQaoJt47XeK"
-    },
-    {
-      "added_at": "2024-11-08 00:01:00",
-      "album": {
         "name": "TOKYO DRIFT",
         "url": "https://open.spotify.com/album/2bs5hKmaQWtUrFXjARZggi"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 124033,
       "name": "TOKYO DRIFT",
       "url": "https://open.spotify.com/track/733RnlYLskyvWMhhzs70sy"
+    },
+    {
+      "added_at": "2024-11-08 00:01:00",
+      "album": {
+        "name": "Where Do We Go",
+        "url": "https://open.spotify.com/album/1v05i0btb10KOIvgumPue6"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/2Ehp9Is1ihvBQaoJt47XeK"
     },
     {
       "added_at": "2024-11-08 00:01:00",
@@ -1387,18 +1387,26 @@
     {
       "added_at": "2024-11-08 00:01:00",
       "album": {
-        "name": "it boy",
-        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
+        "name": "Craving 4 U (feat. bbyclose)",
+        "url": "https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0"
       },
       "artists": [
         {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        },
+        {
+          "name": "CamrinWatsin",
+          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
         }
       ],
-      "duration_ms": 145846,
-      "name": "it boy",
-      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
+      "duration_ms": 139300,
+      "name": "Craving 4 U (feat. bbyclose)",
+      "url": "https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ"
     },
     {
       "added_at": "2024-11-08 00:01:00",
@@ -1503,6 +1511,22 @@
     {
       "added_at": "2024-11-08 00:01:00",
       "album": {
+        "name": "it boy",
+        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "it boy",
+      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
+    },
+    {
+      "added_at": "2024-11-08 00:01:00",
+      "album": {
         "name": "Smalltown Boy",
         "url": "https://open.spotify.com/album/4oCofpA6t1IuTsAAuRxhti"
       },
@@ -1535,30 +1559,6 @@
       "duration_ms": 189428,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/78a91L74IHZVQNyh3wgE3d"
-    },
-    {
-      "added_at": "2024-11-08 00:01:00",
-      "album": {
-        "name": "Craving 4 U (feat. bbyclose)",
-        "url": "https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0"
-      },
-      "artists": [
-        {
-          "name": "BL3SS",
-          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
-        },
-        {
-          "name": "CamrinWatsin",
-          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
-        },
-        {
-          "name": "bbyclose",
-          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
-        }
-      ],
-      "duration_ms": 139300,
-      "name": "Craving 4 U (feat. bbyclose)",
-      "url": "https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ"
     },
     {
       "added_at": "2024-11-08 00:01:00",
@@ -1599,26 +1599,22 @@
     {
       "added_at": "2024-11-08 00:01:00",
       "album": {
-        "name": "the light",
-        "url": "https://open.spotify.com/album/1OTa8RiyIrKWnAJi0iuC4g"
+        "name": "abc (The Wild Remix)",
+        "url": "https://open.spotify.com/album/0Zq00ywbUyDLVD8jN7XsOC"
       },
       "artists": [
         {
-          "name": "SP3CTRUM",
-          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
+          "name": "The Wild",
+          "url": "https://open.spotify.com/artist/74lRkEloOvori8dZJjNEjd"
         },
         {
-          "name": "joki",
-          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
-        },
-        {
-          "name": "Skinny Days",
-          "url": "https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq"
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
         }
       ],
-      "duration_ms": 144812,
-      "name": "the light",
-      "url": "https://open.spotify.com/track/2riIujEITom1g8ehblpgzy"
+      "duration_ms": 182903,
+      "name": "abc (The Wild Remix)",
+      "url": "https://open.spotify.com/track/69P8aWFbgM3eD7UFSLPWsq"
     },
     {
       "added_at": "2024-11-08 00:01:00",
@@ -1643,22 +1639,26 @@
     {
       "added_at": "2024-11-08 00:01:00",
       "album": {
-        "name": "abc (The Wild Remix)",
-        "url": "https://open.spotify.com/album/0Zq00ywbUyDLVD8jN7XsOC"
+        "name": "the light",
+        "url": "https://open.spotify.com/album/1OTa8RiyIrKWnAJi0iuC4g"
       },
       "artists": [
         {
-          "name": "The Wild",
-          "url": "https://open.spotify.com/artist/74lRkEloOvori8dZJjNEjd"
+          "name": "SP3CTRUM",
+          "url": "https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN"
         },
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "joki",
+          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
+        },
+        {
+          "name": "Skinny Days",
+          "url": "https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq"
         }
       ],
-      "duration_ms": 182903,
-      "name": "abc (The Wild Remix)",
-      "url": "https://open.spotify.com/track/69P8aWFbgM3eD7UFSLPWsq"
+      "duration_ms": 144812,
+      "name": "the light",
+      "url": "https://open.spotify.com/track/2riIujEITom1g8ehblpgzy"
     },
     {
       "added_at": "2024-11-08 00:01:00",
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2024-11-08 00:01:00",
       "album": {
-        "name": "Tell Me Why",
-        "url": "https://open.spotify.com/album/224hEKX6NC4pzENbWL2vXj"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        },
-        {
-          "name": "Jack Holiday",
-          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
-        }
-      ],
-      "duration_ms": 135400,
-      "name": "Tell Me Why",
-      "url": "https://open.spotify.com/track/4BvBTmceA5V1pDuaC3RabS"
-    },
-    {
-      "added_at": "2024-11-08 00:01:00",
-      "album": {
         "name": "In The End",
         "url": "https://open.spotify.com/album/6lURFr4s4DoOGpXnkFIbn3"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 204666,
       "name": "In The End",
       "url": "https://open.spotify.com/track/5pt4hbLckWiwVDM9xcDG9D"
+    },
+    {
+      "added_at": "2024-11-08 00:01:00",
+      "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/224hEKX6NC4pzENbWL2vXj"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        },
+        {
+          "name": "Jack Holiday",
+          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
+        }
+      ],
+      "duration_ms": 135400,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/4BvBTmceA5V1pDuaC3RabS"
     },
     {
       "added_at": "2024-11-08 00:01:00",

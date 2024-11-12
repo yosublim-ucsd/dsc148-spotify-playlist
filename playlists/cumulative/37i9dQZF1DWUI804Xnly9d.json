@@ -1801,6 +1801,36 @@
     },
     {
       "album": {
+        "name": "Dil Ghabraye (From \"I Want To Talk\")",
+        "url": "https://open.spotify.com/album/6hAFLXjEQvPhj1zmZoDA4r"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        },
+        {
+          "name": "Sasha Alahm",
+          "url": "https://open.spotify.com/artist/4mMEwLhk5jZcK54yo3dCsK"
+        },
+        {
+          "name": "Dibakar Basumatary",
+          "url": "https://open.spotify.com/artist/0ikzExyz0FYevjszpRGOYg"
+        },
+        {
+          "name": "Dr. Tamachi Marina Taba",
+          "url": "https://open.spotify.com/artist/03m94pDeggOmctdZfxBpDw"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253973,
+      "name": "Dil Ghabraye (From \"I Want To Talk\")",
+      "url": "https://open.spotify.com/track/6Or8GnbeZSnqN4CnKVSuqn"
+    },
+    {
+      "album": {
         "name": "Dil Ki Kahani",
         "url": "https://open.spotify.com/album/7mhklP1bZglS3XGjIxefhE"
       },
@@ -1834,6 +1864,28 @@
       "duration_ms": 222456,
       "name": "Dil Mein Thoda Sa",
       "url": "https://open.spotify.com/track/2eBWFPefQnjrEMZDECXg5U"
+    },
+    {
+      "album": {
+        "name": "Dil Se Jo Poocha",
+        "url": "https://open.spotify.com/album/1X8BE2TNnlSQd5BWmgf7Ku"
+      },
+      "artists": [
+        {
+          "name": "AKG",
+          "url": "https://open.spotify.com/artist/1p82NAmbk637NmFTzx8Drw"
+        },
+        {
+          "name": "Atul Gupta",
+          "url": "https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148374,
+      "name": "Dil Se Jo Poocha",
+      "url": "https://open.spotify.com/track/6L0bMBsrawngv4HxOYpouu"
     },
     {
       "album": {
@@ -3356,7 +3408,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 154285,
       "name": "Janamdin",
       "url": "https://open.spotify.com/track/4ngUzKSnbclvmZ6mxCw4Gq"
@@ -8454,7 +8506,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 176167,
       "name": "Uff",
       "url": "https://open.spotify.com/track/7rF3cZERZvYoPG7fRfBJ66"

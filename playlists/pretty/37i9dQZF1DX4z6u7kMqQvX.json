@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 106917,
+  "num_followers": 106939,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
+        "name": "Acuerdo",
+        "url": "https://open.spotify.com/album/7MlhebsVfSmCgB8UnOJBVM"
+      },
+      "artists": [
+        {
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+        }
+      ],
+      "duration_ms": 203470,
+      "name": "Acuerdo",
+      "url": "https://open.spotify.com/track/2rn1YQ19QkhAWB9oYEb4ue"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
         "name": "Enamorada",
         "url": "https://open.spotify.com/album/6OCzzBiS3G9gQg55C6iYUE"
       },
@@ -611,18 +627,18 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "Acuerdo",
-        "url": "https://open.spotify.com/album/7MlhebsVfSmCgB8UnOJBVM"
+        "name": "Abriendo Latidos",
+        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
       },
       "artists": [
         {
-          "name": "Abril Olivera",
-          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
         }
       ],
-      "duration_ms": 203470,
-      "name": "Acuerdo",
-      "url": "https://open.spotify.com/track/2rn1YQ19QkhAWB9oYEb4ue"
+      "duration_ms": 194555,
+      "name": "Abriendo Latidos",
+      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -643,22 +659,6 @@
       "duration_ms": 204782,
       "name": "Amores Callejeros - Bolero Remix",
       "url": "https://open.spotify.com/track/4TiuSDziSZ8QClZZYWfOqJ"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
-        "name": "Abriendo Latidos",
-        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 194555,
-      "name": "Abriendo Latidos",
-      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -811,38 +811,6 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "Isita Querida",
-        "url": "https://open.spotify.com/album/3DbxApzAXepZFisQtRLVqB"
-      },
-      "artists": [
-        {
-          "name": "El Chacal & Los Alpes Floreados",
-          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Isita Querida",
-      "url": "https://open.spotify.com/track/7Ga52DoqpLS1ZaGbMmBk6J"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
-        "name": "Desprogramado",
-        "url": "https://open.spotify.com/album/4NgiQKB70vqBCVe9TsWjWL"
-      },
-      "artists": [
-        {
-          "name": "Hipnotica",
-          "url": "https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY"
-        }
-      ],
-      "duration_ms": 181845,
-      "name": "Desprogramado",
-      "url": "https://open.spotify.com/track/79v8NJzeW6pXkL6vWbIGY1"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
         "name": "NUNCA DA IGUAL",
         "url": "https://open.spotify.com/album/2UcHsnLUckF2ldX7LKuyLu"
       },
@@ -863,6 +831,38 @@
       "duration_ms": 219826,
       "name": "M\u00e1quinas de hacer todo al mismo tiempo",
       "url": "https://open.spotify.com/track/6zkasCD1K9iC4r5thyK6ti"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "Desprogramado",
+        "url": "https://open.spotify.com/album/4NgiQKB70vqBCVe9TsWjWL"
+      },
+      "artists": [
+        {
+          "name": "Hipnotica",
+          "url": "https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY"
+        }
+      ],
+      "duration_ms": 181845,
+      "name": "Desprogramado",
+      "url": "https://open.spotify.com/track/79v8NJzeW6pXkL6vWbIGY1"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
+        "name": "Isita Querida",
+        "url": "https://open.spotify.com/album/3DbxApzAXepZFisQtRLVqB"
+      },
+      "artists": [
+        {
+          "name": "El Chacal & Los Alpes Floreados",
+          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Isita Querida",
+      "url": "https://open.spotify.com/track/7Ga52DoqpLS1ZaGbMmBk6J"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
+        "name": "Yate",
+        "url": "https://open.spotify.com/album/4vRBTsjY9tP0OeOqZNpVwG"
+      },
+      "artists": [
+        {
+          "name": "GULI",
+          "url": "https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH"
+        },
+        {
+          "name": "Mar\u00eda Pien",
+          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
+        }
+      ],
+      "duration_ms": 162410,
+      "name": "Cintas Con Vos",
+      "url": "https://open.spotify.com/track/1ESzERYkODbzpQqRiG4UwT"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
         "name": "balada para el fin del mundo",
         "url": "https://open.spotify.com/album/5oMb9DNJOLnVtawJVhmIs1"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 213159,
       "name": "Locos",
       "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
-        "name": "Yate",
-        "url": "https://open.spotify.com/album/4vRBTsjY9tP0OeOqZNpVwG"
-      },
-      "artists": [
-        {
-          "name": "GULI",
-          "url": "https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH"
-        },
-        {
-          "name": "Mar\u00eda Pien",
-          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
-        }
-      ],
-      "duration_ms": 162410,
-      "name": "Cintas Con Vos",
-      "url": "https://open.spotify.com/track/1ESzERYkODbzpQqRiG4UwT"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
+        "name": "Romance Con la Luna",
+        "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "duration_ms": 171882,
+      "name": "Romance Con la Luna",
+      "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
+    },
+    {
+      "added_at": "2024-10-24 20:31:41",
+      "album": {
         "name": "Ey",
         "url": "https://open.spotify.com/album/4x21KaeQo6Qy6fuWBur09e"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 197191,
       "name": "Ey",
       "url": "https://open.spotify.com/track/4DS3VTwg6lQSNVgDYybM9Z"
-    },
-    {
-      "added_at": "2024-10-24 20:31:41",
-      "album": {
-        "name": "Cu\u00e1ntas Veces M\u00e1s",
-        "url": "https://open.spotify.com/album/4qT91jTnhI8WklGt5putrF"
-      },
-      "artists": [
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Cu\u00e1ntas Veces M\u00e1s",
-      "url": "https://open.spotify.com/track/20PCWULdClhxMbCzNEABSo"
     },
     {
       "added_at": "2024-10-24 20:31:41",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2024-10-24 20:31:41",
       "album": {
-        "name": "Romance Con la Luna",
-        "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
+        "name": "Cu\u00e1ntas Veces M\u00e1s",
+        "url": "https://open.spotify.com/album/4qT91jTnhI8WklGt5putrF"
       },
       "artists": [
         {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
         }
       ],
-      "duration_ms": 171882,
-      "name": "Romance Con la Luna",
-      "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
+      "duration_ms": 203000,
+      "name": "Cu\u00e1ntas Veces M\u00e1s",
+      "url": "https://open.spotify.com/track/20PCWULdClhxMbCzNEABSo"
     },
     {
       "added_at": "2024-10-24 20:31:41",

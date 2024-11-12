@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 575600,
+  "num_followers": 575610,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-09-18 09:23:57",
       "album": {
-        "name": "Episode III",
-        "url": "https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX"
-      },
-      "artists": [
-        {
-          "name": "South Border",
-          "url": "https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv"
-        }
-      ],
-      "duration_ms": 347120,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK"
-    },
-    {
-      "added_at": "2024-09-18 09:23:57",
-      "album": {
         "name": "Weak",
         "url": "https://open.spotify.com/album/5ZxNoCcUNppsFWVkMkEoed"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 211200,
       "name": "Weak",
       "url": "https://open.spotify.com/track/06cUybZMETs4i3yQO1f7p3"
+    },
+    {
+      "added_at": "2024-09-18 09:23:57",
+      "album": {
+        "name": "Episode III",
+        "url": "https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX"
+      },
+      "artists": [
+        {
+          "name": "South Border",
+          "url": "https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv"
+        }
+      ],
+      "duration_ms": 347120,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK"
     },
     {
       "added_at": "2024-09-18 09:23:57",
@@ -499,26 +499,6 @@
       "duration_ms": 312133,
       "name": "Buko",
       "url": "https://open.spotify.com/track/5uH5Gl7brNoFCpR9Ds9k94"
-    },
-    {
-      "added_at": "2024-09-18 09:23:57",
-      "album": {
-        "name": "Ultraelectromagnetic Jam",
-        "url": "https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o"
-      },
-      "artists": [
-        {
-          "name": "South Border",
-          "url": "https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv"
-        },
-        {
-          "name": "Kelly Badon",
-          "url": "https://open.spotify.com/artist/32pTJUDIqu5vvX5McsyU26"
-        }
-      ],
-      "duration_ms": 264413,
-      "name": "With a Smile (feat. Kelly Badon)",
-      "url": "https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi"
     },
     {
       "added_at": "2024-09-18 09:23:57",
@@ -607,6 +587,26 @@
       "duration_ms": 252214,
       "name": "o ninanais",
       "url": "https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE"
+    },
+    {
+      "added_at": "2024-09-18 09:23:57",
+      "album": {
+        "name": "Ultraelectromagnetic Jam",
+        "url": "https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o"
+      },
+      "artists": [
+        {
+          "name": "South Border",
+          "url": "https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv"
+        },
+        {
+          "name": "Kelly Badon",
+          "url": "https://open.spotify.com/artist/32pTJUDIqu5vvX5McsyU26"
+        }
+      ],
+      "duration_ms": 264413,
+      "name": "With a Smile (feat. Kelly Badon)",
+      "url": "https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi"
     },
     {
       "added_at": "2024-09-18 09:23:57",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-09-18 09:23:57",
       "album": {
-        "name": "Halfway There",
-        "url": "https://open.spotify.com/album/6Xs7i3w3oTmK6j2cpry6sg"
-      },
-      "artists": [
-        {
-          "name": "Jolianne",
-          "url": "https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Halfway There",
-      "url": "https://open.spotify.com/track/78CpG0pJFe6KC3JjuMeEQu"
-    },
-    {
-      "added_at": "2024-09-18 09:23:57",
-      "album": {
         "name": "Could Be Something",
         "url": "https://open.spotify.com/album/333wl5bz94xWRNTPBBfKcI"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 196781,
       "name": "Could Be Something",
       "url": "https://open.spotify.com/track/3hrkISrdVUz0qJLeH2KI9r"
+    },
+    {
+      "added_at": "2024-09-18 09:23:57",
+      "album": {
+        "name": "Halfway There",
+        "url": "https://open.spotify.com/album/6Xs7i3w3oTmK6j2cpry6sg"
+      },
+      "artists": [
+        {
+          "name": "Jolianne",
+          "url": "https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Halfway There",
+      "url": "https://open.spotify.com/track/78CpG0pJFe6KC3JjuMeEQu"
     },
     {
       "added_at": "2024-09-18 09:23:57",

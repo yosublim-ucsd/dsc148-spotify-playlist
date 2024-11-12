@@ -328,7 +328,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 237053,
       "name": "Carol Of The Bells",
       "url": "https://open.spotify.com/track/5YmJtoST7bbcxCycpyw2yL"
@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 165588,
       "name": "Little Jack Frost Get Lost",
       "url": "https://open.spotify.com/track/1JsOdx0Tj3p6iJDauh63sK"
@@ -2113,6 +2113,24 @@
     },
     {
       "album": {
+        "name": "Christmas Time Is Here",
+        "url": "https://open.spotify.com/album/5HfF8IPJadrq9DMVw7Yp7U"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144953,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/6BiJEPqMY3IvsvXLYe5tTh"
+    },
+    {
+      "album": {
         "name": "Santa Claus Is Coming To Town",
         "url": "https://open.spotify.com/album/2bTSFxZEFvGb4m5ApxbGCa"
       },
@@ -2232,7 +2250,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 263960,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/0zn7ckz69IBdsYnMwiGGqF"
@@ -2392,6 +2410,24 @@
       "duration_ms": 305666,
       "name": "The Last Day of the Year",
       "url": "https://open.spotify.com/track/7IDmQ3XLrh6y3oauET1dWp"
+    },
+    {
+      "album": {
+        "name": "The Man With The Bag",
+        "url": "https://open.spotify.com/album/21Xq5vgILkNpVZiGKjBgdd"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123241,
+      "name": "The Man With The Bag",
+      "url": "https://open.spotify.com/track/2R60AwEI6yNX8iJ0EEfKPD"
     },
     {
       "album": {
@@ -2612,6 +2648,24 @@
       "duration_ms": 158253,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/14QJl6TD0xnKl26NkTVez2"
+    },
+    {
+      "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/1fJInYY8L0zWFIIzpoeVgx"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/3Z5g0II4PtIdyhLLSRXERg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Mirella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,249 likes - 76 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,265 likes - 76 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 10 | [Encore](https://open.spotify.com/track/3tL63sIiQeAbuAlK1SOszo) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Encore](https://open.spotify.com/album/7cMAENdfa3iVtcbfhJo6aQ) | 3:22 |
 | 11 | [Maailman kaunein laulu \(feat\. ELLIMEI\)](https://open.spotify.com/track/492nM6hzlMzbbbu4vE93bb) | [Aatulove](https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm), [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Maailman kaunein laulu \(feat\. ELLIMEI\)](https://open.spotify.com/album/0RvRU3Y5vPTHuEIb2GIHkl) | 3:39 |
 | 12 | [Miten ihmiset löytää toisiaan \(feat\. Överi\)](https://open.spotify.com/track/0NdnLmxqqQZ8hNntW42L9y) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra), [Överi](https://open.spotify.com/artist/55ueMDhpCYDmeffxXff2Aw) | [Miten ihmiset löytää toisiaan \(feat\. Överi\)](https://open.spotify.com/album/4IJcslK1fUBCIDrIBFxUsn) | 3:19 |
-| 13 | [Löytää mut](https://open.spotify.com/track/5ArcUruMjZyrHzQ0QilgJ4) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Löytää mut](https://open.spotify.com/album/5sKJ8LTvSpyK3yZYEwRWGX) | 2:49 |
-| 14 | [Tuulien teitä](https://open.spotify.com/track/383ykL7v9KTQJt6N4jrp03) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Tuulien teitä](https://open.spotify.com/album/3USx6QvGMQPAtE8zzKdJ6v) | 3:30 |
+| 13 | [Tuulien teitä](https://open.spotify.com/track/383ykL7v9KTQJt6N4jrp03) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Tuulien teitä](https://open.spotify.com/album/3USx6QvGMQPAtE8zzKdJ6v) | 3:30 |
+| 14 | [Löytää mut](https://open.spotify.com/track/5ArcUruMjZyrHzQ0QilgJ4) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Löytää mut](https://open.spotify.com/album/5sKJ8LTvSpyK3yZYEwRWGX) | 2:49 |
 | 15 | [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 |
 | 16 | [Sata shottii](https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tähtisumua](https://open.spotify.com/album/0QKY0hyk6h6hkytXBY9Jt4) | 2:25 |
 | 17 | [Perävalot \(feat\. Ellinoora\)](https://open.spotify.com/track/6s5uloZC7XszTefvo2vTEw) | [Gasellit](https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF), [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Perävalot \(feat\. Ellinoora\)](https://open.spotify.com/album/4Km6npxY0tqUQMALhnSkLw) | 3:03 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 75 | [Satama](https://open.spotify.com/track/1osPz2rgtdywUR6ut6eIMU) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Satama](https://open.spotify.com/album/1w9whtxDsbfopzVe6hlWjS) | 2:40 |
 | 76 | [Vitun hyvin](https://open.spotify.com/track/6jzj3EKhF4WcS6upHWimXp) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Vitun hyvin](https://open.spotify.com/album/54UQ1ZPAhJX98PuBIVIVSL) | 3:00 |
 
-Snapshot ID: `ZzCStwAAAACWP5SaRpYw8I8u/SaezRYQ`
+Snapshot ID: `ZzIH8wAAAABvr5GmzG3vfnVC8qvYyUn2`

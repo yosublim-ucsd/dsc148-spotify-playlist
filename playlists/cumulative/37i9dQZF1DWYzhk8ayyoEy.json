@@ -1656,7 +1656,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 196866,
       "name": "Next To Me",
       "url": "https://open.spotify.com/track/1Xsxp1SEOxuMzjrFZhtw8u"
@@ -1758,6 +1758,24 @@
       "duration_ms": 184901,
       "name": "nothing but the love",
       "url": "https://open.spotify.com/track/6nUwq6jL9AiwzsRDxI0AkN"
+    },
+    {
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/66Cm2VZZyWgLigTw9XvYqu"
+      },
+      "artists": [
+        {
+          "name": "Melanie Pfirrman",
+          "url": "https://open.spotify.com/artist/0uioawxHyc6pgvbUCq510I"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178946,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/7dGIcbzKo3vZp2lFtaGeTC"
     },
     {
       "album": {

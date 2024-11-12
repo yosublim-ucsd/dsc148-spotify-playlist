@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 22678,
+  "num_followers": 22680,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy6mAAAAAAB2PELizvctkNAW472/RuOz",
+  "snapshot_id": "Zy/3gAAAAACVqLETPZC1dIvaq/7ETthR",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 128915,
-      "name": "Wishing",
-      "url": "https://open.spotify.com/track/2DCB7vBKleDUerpJErGyr2"
+      "duration_ms": 128242,
+      "name": "Jesu, Joy of Man's Desiring - Arr. by Alexis Ffrench",
+      "url": "https://open.spotify.com/track/75pxraYiRRhRn68Kwk4sT3"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw"
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 128242,
-      "name": "Jesu, Joy of Man's Desiring - Arr. by Alexis Ffrench",
-      "url": "https://open.spotify.com/track/75pxraYiRRhRn68Kwk4sT3"
+      "duration_ms": 128915,
+      "name": "Wishing",
+      "url": "https://open.spotify.com/track/2DCB7vBKleDUerpJErGyr2"
     },
     {
       "added_at": null,
@@ -123,26 +123,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
+        "name": "Truth - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
       },
       "artists": [
         {
           "name": "Alexis Ffrench",
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        },
-        {
-          "name": "James Morgan",
-          "url": "https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC"
-        },
-        {
-          "name": "Royal Liverpool Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
         }
       ],
-      "duration_ms": 161258,
-      "name": "Dreamland",
-      "url": "https://open.spotify.com/track/1lP5gmOcL7PxGodcw6rX04"
+      "duration_ms": 176457,
+      "name": "Papillon - Solo Piano Version",
+      "url": "https://open.spotify.com/track/0R4HTYUjrBvDwxilINNwYZ"
     },
     {
       "added_at": null,
@@ -171,18 +163,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truth - The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
       },
       "artists": [
         {
           "name": "Alexis Ffrench",
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        },
+        {
+          "name": "James Morgan",
+          "url": "https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC"
+        },
+        {
+          "name": "Royal Liverpool Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
         }
       ],
-      "duration_ms": 176457,
-      "name": "Papillon - Solo Piano Version",
-      "url": "https://open.spotify.com/track/0R4HTYUjrBvDwxilINNwYZ"
+      "duration_ms": 161258,
+      "name": "Dreamland",
+      "url": "https://open.spotify.com/track/1lP5gmOcL7PxGodcw6rX04"
     },
     {
       "added_at": null,

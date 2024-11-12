@@ -4,7 +4,7 @@
 
 > Celebrate the holiday season in style with this timeless playlist of Xmas favorites old and new\.  Merry Christmas, Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
 
-117 songs - 6 hr 7 min
+118 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Christmas Always Finds Me](https://open.spotify.com/track/3G0A9n2SumQRVlKZDdwwWN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:20 | 2023-12-09 |  |
 | [christmas dream](https://open.spotify.com/track/237RKVJSgN8PpsYbyEZMqp) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [Christmas Songs and Holiday Music](https://open.spotify.com/album/3UO62uREBii6wm3R3kX3vk) | 2:30 | 2023-12-09 |  |
 | [Christmas Eve](https://open.spotify.com/track/1p2UlA2q2zz4nL0Zxgh78g) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:00 | 2023-12-09 |  |
+| [Christmas Is All Around \- Acoustic](https://open.spotify.com/track/28fFuQJZxhTgA4OA8s9BJl) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Acoustic Christmas](https://open.spotify.com/album/0BoxAmnhfLOVbc1I8uPSvL) | 2:47 | 2024-11-11 |  |
 | [Christmas Isn't Canceled \(Just You\)](https://open.spotify.com/track/5oKGMxxBYRUdT7omkdilTx) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:51 | 2023-12-09 |  |
 | [Christmas Lights](https://open.spotify.com/track/3ODH5TiKxbhJ0y1sFGZpd7) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 4:02 | 2023-12-09 |  |
 | [Christmas Saves the Year](https://open.spotify.com/track/4ZiR2ymuzhQMlHRk0sQUb7) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Christmas Songs and Holiday Music](https://open.spotify.com/album/3UO62uREBii6wm3R3kX3vk) | 3:32 | 2023-12-09 |  |
@@ -54,7 +55,7 @@
 | [I Wish It Could Be Christmas Everyday \- 2006 Remaster](https://open.spotify.com/track/6C8JkSqdFkE5LN2aXOa9cs) | [Wizzard](https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 4:49 | 2023-12-09 |  |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/1IQsMITTRMfA7Gr6V2uuF1) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 4:24 | 2023-12-09 |  |
 | [I've Got My Love to Keep Me Warm](https://open.spotify.com/track/42DGbZBiuRsaNw3tgO4FPv) | [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [Christmas Songs and Holiday Music](https://open.spotify.com/album/3UO62uREBii6wm3R3kX3vk) | 2:31 | 2023-12-09 |  |
-| [It Will Still Be Christmas](https://open.spotify.com/track/5ww4lqgabkfB10mKeDcRbh) | [The Boy Least Likely To](https://open.spotify.com/artist/3SdDP7u1TYReqBQ4f9BT6B) | [It Will Still Be Christmas](https://open.spotify.com/album/4aaLFJniEEy2weF9bW9puX) | 3:27 | 2023-12-09 |  |
+| [It Will Still Be Christmas](https://open.spotify.com/track/5ww4lqgabkfB10mKeDcRbh) | [The Boy Least Likely To](https://open.spotify.com/artist/3SdDP7u1TYReqBQ4f9BT6B) | [It Will Still Be Christmas](https://open.spotify.com/album/4aaLFJniEEy2weF9bW9puX) | 3:27 | 2023-12-09 | 2024-11-12 |
 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/6Zr8jqdDNrwhZ3knkDLYfA) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:26 | 2023-12-09 |  |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 | 2023-12-09 | 2023-12-20 |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/4xjKPpeWbUCgQo6VnJLHZB) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas \(Snow Queen Edition\)](https://open.spotify.com/album/27kFmSAWcM5QRPzpbl1gvI) | 2:44 | 2023-12-19 |  |

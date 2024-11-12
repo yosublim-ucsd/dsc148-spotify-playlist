@@ -1,6 +1,6 @@
 {
   "description": "A hypnotic journey through Melodic Techno.",
-  "num_followers": 125599,
+  "num_followers": 125651,
   "original_name": "Melodic Techno Elements",
   "owner": {
     "name": "Spotify",
@@ -587,26 +587,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "The Chase (Reb\u016bke Remix)",
-        "url": "https://open.spotify.com/album/28uhTIgM1VgRPfRPoCMtqu"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        },
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "The Chase - Reb\u016bke Remix",
-      "url": "https://open.spotify.com/track/2cwfGkfp1XWdfCuPcMjWnK"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Every Breath",
         "url": "https://open.spotify.com/album/4UUnFvSEbJhp6Tyuut9ncu"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 205440,
       "name": "Every Breath",
       "url": "https://open.spotify.com/track/6mTWTcuOnCGktsCXeCEEjK"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "The Chase (Reb\u016bke Remix)",
+        "url": "https://open.spotify.com/album/28uhTIgM1VgRPfRPoCMtqu"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "The Chase - Reb\u016bke Remix",
+      "url": "https://open.spotify.com/track/2cwfGkfp1XWdfCuPcMjWnK"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "B-Sides",
-        "url": "https://open.spotify.com/album/39C0lar5IGZVwPXhO0ZYvI"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        }
-      ],
-      "duration_ms": 323221,
-      "name": "Another Dimension",
-      "url": "https://open.spotify.com/track/6JvxvazbCGARCcZKm8qsCf"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Ray Of Solar (Mau P Remix)",
         "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 251428,
       "name": "Ray Of Solar - Mau P Remix",
       "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "B-Sides",
+        "url": "https://open.spotify.com/album/39C0lar5IGZVwPXhO0ZYvI"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "duration_ms": 323221,
+      "name": "Another Dimension",
+      "url": "https://open.spotify.com/track/6JvxvazbCGARCcZKm8qsCf"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Perception",
-        "url": "https://open.spotify.com/album/2VAQkslaimMoY3kAIBwash"
-      },
-      "artists": [
-        {
-          "name": "Chris Avantgarde",
-          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
-        }
-      ],
-      "duration_ms": 282247,
-      "name": "Perception",
-      "url": "https://open.spotify.com/track/1ekuYNPiJXmXqb92TORiPX"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/2K5l5X07mVNjRbJ0myFG9X"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 197416,
       "name": "Glowing",
       "url": "https://open.spotify.com/track/2lL7pDoVpRcHSkAbpoe2Yi"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Perception",
+        "url": "https://open.spotify.com/album/2VAQkslaimMoY3kAIBwash"
+      },
+      "artists": [
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        }
+      ],
+      "duration_ms": 282247,
+      "name": "Perception",
+      "url": "https://open.spotify.com/track/1ekuYNPiJXmXqb92TORiPX"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1883,26 +1883,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Remission",
-        "url": "https://open.spotify.com/album/4ZqHSnu1EjWpygl20YmGm2"
-      },
-      "artists": [
-        {
-          "name": "Kasablanca",
-          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
-        },
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 246048,
-      "name": "Remission",
-      "url": "https://open.spotify.com/track/2Ue68qfEPdUtVVgrjOKE05"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "We Could Be Love (Fideles Remix)",
         "url": "https://open.spotify.com/album/01xJ35jICIiL62F2VT1f0a"
       },
@@ -1927,6 +1907,26 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Remission",
+        "url": "https://open.spotify.com/album/4ZqHSnu1EjWpygl20YmGm2"
+      },
+      "artists": [
+        {
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+        },
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "duration_ms": 246048,
+      "name": "Remission",
+      "url": "https://open.spotify.com/track/2Ue68qfEPdUtVVgrjOKE05"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Head In The Ocean",
         "url": "https://open.spotify.com/album/4swIW4PM47efBmMIxm9oGa"
       },
@@ -1939,6 +1939,22 @@
       "duration_ms": 244909,
       "name": "Head In The Ocean",
       "url": "https://open.spotify.com/track/77jAFxvaAYalxQsAjegc0i"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Are We Truly Free?",
+        "url": "https://open.spotify.com/album/1L0FGABuXR9XRQiducXXps"
+      },
+      "artists": [
+        {
+          "name": "KAS:ST",
+          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
+        }
+      ],
+      "duration_ms": 216850,
+      "name": "Are We Truly Free?",
+      "url": "https://open.spotify.com/track/1Bkckgr1RGncOvWDn5Ar3h"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1959,22 +1975,6 @@
       "duration_ms": 402818,
       "name": "Ghosts Again - Massano Remix",
       "url": "https://open.spotify.com/track/2sQLabj3BSALTq2FmTrDXC"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Are We Truly Free?",
-        "url": "https://open.spotify.com/album/1L0FGABuXR9XRQiducXXps"
-      },
-      "artists": [
-        {
-          "name": "KAS:ST",
-          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
-        }
-      ],
-      "duration_ms": 216850,
-      "name": "Are We Truly Free?",
-      "url": "https://open.spotify.com/track/1Bkckgr1RGncOvWDn5Ar3h"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -2263,6 +2263,26 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Sternstunde (Joris Voorn Edit)",
+        "url": "https://open.spotify.com/album/3fPRdy4lb6bycInc7nBqAG"
+      },
+      "artists": [
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "Sternstunde - Joris Voorn Edit",
+      "url": "https://open.spotify.com/track/5mCLCA1bnQHPU4EZBtZgqo"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Len\u00e7\u00f3is (Love Me) [Cassian Remix]",
         "url": "https://open.spotify.com/album/5b9ZVkXeCwJ8v6NB0Bi77b"
       },
@@ -2295,26 +2315,6 @@
       "duration_ms": 223137,
       "name": "Sun Will Rise",
       "url": "https://open.spotify.com/track/026NUefvu7f2tdEqTRXT8J"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Sternstunde (Joris Voorn Edit)",
-        "url": "https://open.spotify.com/album/3fPRdy4lb6bycInc7nBqAG"
-      },
-      "artists": [
-        {
-          "name": "Solee",
-          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
-        },
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "Sternstunde - Joris Voorn Edit",
-      "url": "https://open.spotify.com/track/5mCLCA1bnQHPU4EZBtZgqo"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -2487,26 +2487,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/0Ktu6EbRo5a0oJPUajXHfC"
-      },
-      "artists": [
-        {
-          "name": "widerberg",
-          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
-        },
-        {
-          "name": "Hard Reset",
-          "url": "https://open.spotify.com/artist/6liKh5rs35Y5VML94ZCswV"
-        }
-      ],
-      "duration_ms": 243934,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/2GR1NiNV20Io0Wkqr5tub3"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Forget",
         "url": "https://open.spotify.com/album/78pEteivhGT2HxTFWmjM2S"
       },
@@ -2527,6 +2507,26 @@
       "duration_ms": 258545,
       "name": "Forget",
       "url": "https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/0Ktu6EbRo5a0oJPUajXHfC"
+      },
+      "artists": [
+        {
+          "name": "widerberg",
+          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
+        },
+        {
+          "name": "Hard Reset",
+          "url": "https://open.spotify.com/artist/6liKh5rs35Y5VML94ZCswV"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/2GR1NiNV20Io0Wkqr5tub3"
     },
     {
       "added_at": "2024-11-07 23:00:00",

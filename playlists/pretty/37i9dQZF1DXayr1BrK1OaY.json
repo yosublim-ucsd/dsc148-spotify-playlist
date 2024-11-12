@@ -1,6 +1,6 @@
 {
   "description": "let the dj set u free \ud83d\udc94",
-  "num_followers": 228166,
+  "num_followers": 228203,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
@@ -371,26 +371,6 @@
     {
       "added_at": "2024-11-08 19:19:13",
       "album": {
-        "name": "Glad I Found You",
-        "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 211191,
-      "name": "Glad I Found You",
-      "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
-    },
-    {
-      "added_at": "2024-11-08 19:19:13",
-      "album": {
         "name": "Breathing",
         "url": "https://open.spotify.com/album/1bgPsKJwqED6DoNaZNdM42"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 222605,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ"
+    },
+    {
+      "added_at": "2024-11-08 19:19:13",
+      "album": {
+        "name": "Glad I Found You",
+        "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 211191,
+      "name": "Glad I Found You",
+      "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
     },
     {
       "added_at": "2024-11-08 19:19:13",
@@ -703,26 +703,22 @@
     {
       "added_at": "2024-11-08 19:19:13",
       "album": {
-        "name": "Something To Hold On To (feat. Clementine Douglas)",
-        "url": "https://open.spotify.com/album/4GwlK3OyqMu3KZ2Yrj6sRI"
+        "name": "Rhythm (Of The Night)",
+        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
         },
         {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
         }
       ],
-      "duration_ms": 175748,
-      "name": "Something To Hold On To (feat. Clementine Douglas)",
-      "url": "https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ"
+      "duration_ms": 201621,
+      "name": "Rhythm (Of The Night)",
+      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
     },
     {
       "added_at": "2024-11-08 19:19:13",
@@ -747,22 +743,26 @@
     {
       "added_at": "2024-11-08 19:19:13",
       "album": {
-        "name": "Rhythm (Of The Night)",
-        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
+        "name": "Something To Hold On To (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/4GwlK3OyqMu3KZ2Yrj6sRI"
       },
       "artists": [
         {
-          "name": "Something Good",
-          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
         }
       ],
-      "duration_ms": 201621,
-      "name": "Rhythm (Of The Night)",
-      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
+      "duration_ms": 175748,
+      "name": "Something To Hold On To (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ"
     },
     {
       "added_at": "2024-11-08 19:19:13",
@@ -851,26 +851,6 @@
     {
       "added_at": "2024-11-08 19:19:13",
       "album": {
-        "name": "Maybe",
-        "url": "https://open.spotify.com/album/6URXDFFdBVEQUA7eCLfHVo"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "GRAHAM",
-          "url": "https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G"
-        }
-      ],
-      "duration_ms": 170070,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/6Hl0P7o00Hmqjdf1X0W9rw"
-    },
-    {
-      "added_at": "2024-11-08 19:19:13",
-      "album": {
         "name": "I Remember (John Summit Remix)",
         "url": "https://open.spotify.com/album/5lCL6lNKV2GPQM5uIgDm03"
       },
@@ -895,22 +875,22 @@
     {
       "added_at": "2024-11-08 19:19:13",
       "album": {
-        "name": "ORIGIN (Deluxe)",
-        "url": "https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK"
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/6URXDFFdBVEQUA7eCLfHVo"
       },
       "artists": [
         {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
         },
         {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+          "name": "GRAHAM",
+          "url": "https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G"
         }
       ],
-      "duration_ms": 187675,
-      "name": "Crossfire",
-      "url": "https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu"
+      "duration_ms": 170070,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/6Hl0P7o00Hmqjdf1X0W9rw"
     },
     {
       "added_at": "2024-11-08 19:19:13",
@@ -927,6 +907,26 @@
       "duration_ms": 203333,
       "name": "TEARDROPS",
       "url": "https://open.spotify.com/track/42Ncw4TTGb1MO1WchSVSaQ"
+    },
+    {
+      "added_at": "2024-11-08 19:19:13",
+      "album": {
+        "name": "ORIGIN (Deluxe)",
+        "url": "https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 187675,
+      "name": "Crossfire",
+      "url": "https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu"
     },
     {
       "added_at": "2024-11-08 19:19:13",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-11-08 19:19:13",
       "album": {
-        "name": "kidsgonemad!",
-        "url": "https://open.spotify.com/album/2rMP8tQaoWn14zQM2zUOzG"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 241714,
-      "name": "how2fly",
-      "url": "https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC"
-    },
-    {
-      "added_at": "2024-11-08 19:19:13",
-      "album": {
         "name": "Fade Out (with MKLA)",
         "url": "https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 230909,
       "name": "Fade Out (with MKLA)",
       "url": "https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB"
+    },
+    {
+      "added_at": "2024-11-08 19:19:13",
+      "album": {
+        "name": "kidsgonemad!",
+        "url": "https://open.spotify.com/album/2rMP8tQaoWn14zQM2zUOzG"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 241714,
+      "name": "how2fly",
+      "url": "https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC"
     },
     {
       "added_at": "2024-11-08 19:19:13",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-11-08 19:19:13",
       "album": {
+        "name": "bring your love (to the light)",
+        "url": "https://open.spotify.com/album/0AOqksZ3wCG2yrPec5tvq6"
+      },
+      "artists": [
+        {
+          "name": "Noah Henderson",
+          "url": "https://open.spotify.com/artist/0kPYgLFS4vuBuCGE8pShFV"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "bring your love (to the light)",
+      "url": "https://open.spotify.com/track/2JYuCiKDCsqfkkVNcghpvq"
+    },
+    {
+      "added_at": "2024-11-08 19:19:13",
+      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/6mglq83ABZ8iEldnQYskVg"
       },
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2024-11-08 19:19:13",
       "album": {
-        "name": "bring your love (to the light)",
-        "url": "https://open.spotify.com/album/0AOqksZ3wCG2yrPec5tvq6"
-      },
-      "artists": [
-        {
-          "name": "Noah Henderson",
-          "url": "https://open.spotify.com/artist/0kPYgLFS4vuBuCGE8pShFV"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "bring your love (to the light)",
-      "url": "https://open.spotify.com/track/2JYuCiKDCsqfkkVNcghpvq"
-    },
-    {
-      "added_at": "2024-11-08 19:19:13",
-      "album": {
         "name": "Peace In Silence",
         "url": "https://open.spotify.com/album/2HWW3aVU03g1T6cuHqs3kx"
       },
@@ -1299,38 +1299,6 @@
       "duration_ms": 130285,
       "name": "Peace In Silence",
       "url": "https://open.spotify.com/track/1GsurkwM6YwfQ9rNr14Of8"
-    },
-    {
-      "added_at": "2024-11-08 19:19:13",
-      "album": {
-        "name": "Kratos (A Little Closer)",
-        "url": "https://open.spotify.com/album/5pFCMAphKik56FTRTgLgqh"
-      },
-      "artists": [
-        {
-          "name": "Alex LeMirage",
-          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Kratos (A Little Closer)",
-      "url": "https://open.spotify.com/track/5xblvfji6HaQl7L4OwBMsm"
-    },
-    {
-      "added_at": "2024-11-08 19:19:13",
-      "album": {
-        "name": "Selfreflection",
-        "url": "https://open.spotify.com/album/3Ab4BR06hO8qx1NCZ1seog"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "Stop the time",
-      "url": "https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai"
     },
     {
       "added_at": "2024-11-08 19:19:13",
@@ -1355,6 +1323,38 @@
       "duration_ms": 138569,
       "name": "Sleep Better",
       "url": "https://open.spotify.com/track/2UV3f3x5Le9zwt9ymKaR09"
+    },
+    {
+      "added_at": "2024-11-08 19:19:13",
+      "album": {
+        "name": "Selfreflection",
+        "url": "https://open.spotify.com/album/3Ab4BR06hO8qx1NCZ1seog"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "Stop the time",
+      "url": "https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai"
+    },
+    {
+      "added_at": "2024-11-08 19:19:13",
+      "album": {
+        "name": "Kratos (A Little Closer)",
+        "url": "https://open.spotify.com/album/5pFCMAphKik56FTRTgLgqh"
+      },
+      "artists": [
+        {
+          "name": "Alex LeMirage",
+          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Kratos (A Little Closer)",
+      "url": "https://open.spotify.com/track/5xblvfji6HaQl7L4OwBMsm"
     },
     {
       "added_at": "2024-11-08 19:19:13",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-11-08 19:19:13",
       "album": {
-        "name": "Ghost Of What Could Be",
-        "url": "https://open.spotify.com/album/48X57POaib4oaROKyrYGvS"
-      },
-      "artists": [
-        {
-          "name": "Jersey",
-          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
-        }
-      ],
-      "duration_ms": 202786,
-      "name": "Ghost Of What Could Be",
-      "url": "https://open.spotify.com/track/5fyrHkSghTUzUwg4tNjlHL"
-    },
-    {
-      "added_at": "2024-11-08 19:19:13",
-      "album": {
         "name": "My Mistake",
         "url": "https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 195757,
       "name": "My Mistake",
       "url": "https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf"
+    },
+    {
+      "added_at": "2024-11-08 19:19:13",
+      "album": {
+        "name": "Ghost Of What Could Be",
+        "url": "https://open.spotify.com/album/48X57POaib4oaROKyrYGvS"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "duration_ms": 202786,
+      "name": "Ghost Of What Could Be",
+      "url": "https://open.spotify.com/track/5fyrHkSghTUzUwg4tNjlHL"
     },
     {
       "added_at": "2024-11-08 19:19:13",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2024-11-08 19:19:13",
       "album": {
+        "name": "a little bitter",
+        "url": "https://open.spotify.com/album/0nlIB1Jw8qoWoN01EWDP5U"
+      },
+      "artists": [
+        {
+          "name": "puulse",
+          "url": "https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp"
+        }
+      ],
+      "duration_ms": 127968,
+      "name": "a little bitter",
+      "url": "https://open.spotify.com/track/0CO4XiQn9hYzt1qmgRDm6P"
+    },
+    {
+      "added_at": "2024-11-08 19:19:13",
+      "album": {
         "name": "SAVE ME",
         "url": "https://open.spotify.com/album/4IHs5K9AlUPG2jNNlNR84l"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 216960,
       "name": "SAVE ME",
       "url": "https://open.spotify.com/track/0TsJzxDrjLNs6szBrho1dG"
-    },
-    {
-      "added_at": "2024-11-08 19:19:13",
-      "album": {
-        "name": "a little bitter",
-        "url": "https://open.spotify.com/album/0nlIB1Jw8qoWoN01EWDP5U"
-      },
-      "artists": [
-        {
-          "name": "puulse",
-          "url": "https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp"
-        }
-      ],
-      "duration_ms": 127968,
-      "name": "a little bitter",
-      "url": "https://open.spotify.com/track/0CO4XiQn9hYzt1qmgRDm6P"
     },
     {
       "added_at": "2024-11-08 19:19:13",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2024-11-08 19:19:13",
       "album": {
-        "name": "Discipline",
-        "url": "https://open.spotify.com/album/4N0eQEqf5YaMlGQ3VyFRRq"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Cruel Heart",
-      "url": "https://open.spotify.com/track/1xpSTNyLKRqHKHvBVLXYma"
-    },
-    {
-      "added_at": "2024-11-08 19:19:13",
-      "album": {
         "name": "Coming Back",
         "url": "https://open.spotify.com/album/1M6bafn6Qg6kVyhFNIHZjJ"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 158400,
       "name": "Coming Back",
       "url": "https://open.spotify.com/track/0sx0yFSdEWeSPl0iXmNHJ2"
+    },
+    {
+      "added_at": "2024-11-08 19:19:13",
+      "album": {
+        "name": "Discipline",
+        "url": "https://open.spotify.com/album/4N0eQEqf5YaMlGQ3VyFRRq"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "Cruel Heart",
+      "url": "https://open.spotify.com/track/1xpSTNyLKRqHKHvBVLXYma"
     },
     {
       "added_at": "2024-11-08 19:19:13",

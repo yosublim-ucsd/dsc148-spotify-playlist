@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: Mazzariello
 
-202 songs - 9 hr 55 min
+204 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Canzoni alla radio](https://open.spotify.com/track/715BG7KwhtLc6Lyi5PIZ3B) | [Lacrima](https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX) | [Canzoni alla radio](https://open.spotify.com/album/7l2sf9KBG6MBqVszdCC68V) | 2:54 | 2024-07-18 | 2024-09-27 |
 | [CAPELLI CORTI CALIFORNIA](https://open.spotify.com/track/11sVx6FxPPxfuPBCc4pYxp) | [Cartapesta](https://open.spotify.com/artist/1WbhtNbZgCyZaqYdKnAwKU) | [CAPELLI CORTI CALIFORNIA](https://open.spotify.com/album/5AEtPyvBjuCnH5TZWaYNMW) | 2:26 | 2024-08-22 | 2024-10-20 |
 | [Cartine](https://open.spotify.com/track/5mJTdLjHkmSKUpuVHu5bGQ) | [Rebecca](https://open.spotify.com/artist/4qglWCdo4uyHaBay75PWYM) | [Immobile](https://open.spotify.com/album/3a09IEJS59f4uNfCbVPwyc) | 2:54 | 2024-09-19 | 2024-09-27 |
-| [catramen](https://open.spotify.com/track/5qDSfaviNFKb78IwNWM98g) | [TFR](https://open.spotify.com/artist/67fpSSxFCzrocAWkKw4Kyn) | [catramen](https://open.spotify.com/album/1Uu6rPp1cKEvNU3OMFomY2) | 3:14 | 2024-10-24 |  |
+| [catramen](https://open.spotify.com/track/5qDSfaviNFKb78IwNWM98g) | [TFR](https://open.spotify.com/artist/67fpSSxFCzrocAWkKw4Kyn) | [catramen](https://open.spotify.com/album/1Uu6rPp1cKEvNU3OMFomY2) | 3:14 | 2024-10-24 | 2024-11-12 |
 | [Che voglia](https://open.spotify.com/track/3jy7pGk9ETfue0bi8ivfcn) | [Rokas](https://open.spotify.com/artist/7BUmFe61H2cYyKVgkwttxj), [Granato](https://open.spotify.com/artist/5pALJdF7dliaPdFzkw9OIy) | [In quella casa in fiamme ci sono dei bambini](https://open.spotify.com/album/1sB7HL8SAA2nRoUUW9Wko6) | 2:23 | 2024-06-27 | 2024-07-27 |
 | [Chinaglia](https://open.spotify.com/track/5WAFTRtlu3yBSVR7i2817K) | [Kinder Garden](https://open.spotify.com/artist/7By2W4RhZGhK9wCYGQr1Q1) | [Chinaglia](https://open.spotify.com/album/3q2fjUB20WvfjBSOOLwLtM) | 3:00 | 2024-06-27 | 2024-07-19 |
 | [Coca Malibù](https://open.spotify.com/track/0exExNFTaK4CFIu8nlAhWn) | [Sir Giove](https://open.spotify.com/artist/50Pi0iTbnC3hDmCx6Bge2i) | [Coca Malibù](https://open.spotify.com/album/0lkr2DmnU8rHWSdi9aPmlD) | 2:46 | 2024-07-25 | 2024-09-27 |
@@ -111,6 +111,7 @@
 | [Mariù](https://open.spotify.com/track/6jK5DrUCGwQAnsAEODR3r4) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [Mariù](https://open.spotify.com/album/4z05lOnsXxT3eiXA3mKkft) | 2:57 | 2024-06-27 | 2024-07-05 |
 | [MEGA LIMONE](https://open.spotify.com/track/1SlFveNB8qOsydb3A145Z8) | [CALICE](https://open.spotify.com/artist/7Alkpa4UYC4Ly1A9hRUb5V), [Nablito](https://open.spotify.com/artist/1QKYKUlsIRvgzzDuAidIgU) | [MEGA LIMONE](https://open.spotify.com/album/3E3ufDQYrZxqkHXhcJgtYJ) | 2:32 | 2024-06-27 | 2024-07-19 |
 | [MEGAGALATTICO](https://open.spotify.com/track/4Mwq2uShIgIPKqxr2v14cG) | [CRETA](https://open.spotify.com/artist/2GoVj8Yh4VGg4JibTBLAXS) | [MEGAGALATTICO](https://open.spotify.com/album/7bqOe8aw1dOfCOTMxF9wuF) | 2:40 | 2024-06-27 | 2024-07-12 |
+| [MENTRE IL MONDO CORRE \(feat\. Zeep\)](https://open.spotify.com/track/7gF369POATZlU7B6XI6pDc) | [eroCaddeo](https://open.spotify.com/artist/20Ue9Vj12Xs29OCe0WCTV5), [Zeep](https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl) | [MENTRE IL MONDO CORRE \(feat\. Zeep\)](https://open.spotify.com/album/4zbU9maFlAaeVNxxCWDoOw) | 2:39 | 2024-11-07 |  |
 | [Milano ad Agosto](https://open.spotify.com/track/67R8ZjmvZPbJeS0xVzaH9v) | [Diorama](https://open.spotify.com/artist/1WdVEvZBCPA8BLV1WWWKlk), [I Melodrama](https://open.spotify.com/artist/59fYCgvaHksiQjZqKuidks) | [Milano ad Agosto](https://open.spotify.com/album/6z9FY2DfLruOZsiJIQil4l) | 3:40 | 2024-08-06 | 2024-10-28 |
 | [MONDO CONVENIENZA](https://open.spotify.com/track/0IKSHbq0ArWlTbvdP0fxAq) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [MONDO CONVENIENZA](https://open.spotify.com/album/2YySYUtKAf647Vr7lscVBr) | 2:39 | 2024-06-27 | 2024-07-05 |
 | [Mosche](https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Mosche](https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE) | 2:35 | 2024-07-25 |  |
@@ -142,6 +143,7 @@
 | [PELLE DI PEPERONE](https://open.spotify.com/track/5xr2xhM30YbV4pFnQ2URCa) | [Gobbi](https://open.spotify.com/artist/5ujn0tcd0uOU44C5CDhbPd) | [PELLE DI PEPERONE](https://open.spotify.com/album/2kMfyf9mYG2wwUCW7feI1a) | 2:16 | 2024-11-07 |  |
 | [Pennette alla vodka](https://open.spotify.com/track/1vFOFOiGA3wKDZiyMacHFk) | [L'operazione Camarillo](https://open.spotify.com/artist/6tiaKBsvIaM6UPWWO4yMO4) | [Pennette alla vodka](https://open.spotify.com/album/61Qk1gg5rV9RVlZ797Ry1s) | 3:01 | 2024-10-03 |  |
 | [Penso Penso Penso](https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [ROCCASECCA](https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7) | 2:37 | 2024-07-11 | 2024-10-25 |
+| [Perdo Il Tuo Amore](https://open.spotify.com/track/3HHhJGYxGTyyv6qiziryL3) | [Seltsam](https://open.spotify.com/artist/0stiPQBq14QBNQ1Uc8778V) | [Perdo Il Tuo Amore](https://open.spotify.com/album/736rTLSkJaCjhRmYwu7ttL) | 2:44 | 2024-11-07 |  |
 | [Periferia](https://open.spotify.com/track/1EcVrX4oy3Z9mUjsvhsIEh) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Periferia](https://open.spotify.com/album/5imPI6T7UGse84jzoy1Zcy) | 3:05 | 2024-06-27 | 2024-10-25 |
 | [piangerepiangerepiangere](https://open.spotify.com/track/1te6dJOM0uRlv4OvWTF0V0) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [le stelle\* il sole; l'arcobaleno\)\)](https://open.spotify.com/album/1AZSZ1CM8Xen3FmviWh1y7) | 4:21 | 2024-06-27 | 2024-10-25 |
 | [Piccolo Tornado](https://open.spotify.com/track/6DHbFV8VtthSD6brpfmmRQ) | [Giovanni Toscano](https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM) | [Piccolo Tornado](https://open.spotify.com/album/1RyXXN2FM54OhAzRXqU54I) | 3:18 | 2024-10-10 |  |
@@ -165,7 +167,7 @@
 | [Sambo \(feat\. Serepocaiontas\)](https://open.spotify.com/track/4naSIMDBisxCcAK9dVC260) | [MOX](https://open.spotify.com/artist/4eU1G77ExeXQw8FdsQA8It), [Serepocaiontas](https://open.spotify.com/artist/1E0z4tZ543qWy0oe9Xe4u2) | [Sambo \(feat\. Serepocaiontas\)](https://open.spotify.com/album/4brRghFWddD7RNfAxPPBde) | 4:09 | 2024-07-11 | 2024-09-28 |
 | [Sassi](https://open.spotify.com/track/26OptEgY9h0hwHFEQy3uWo) | [Meli](https://open.spotify.com/artist/64Z6UXWQgg7R9HvgQuzW3q) | [Sassi](https://open.spotify.com/album/3zcEYoS9SWPk4V3bzJL2lp) | 3:04 | 2024-06-27 | 2024-07-05 |
 | [Scatoloni](https://open.spotify.com/track/66jgjmSQPsjZcUUg9eOz4J) | [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [Scatoloni](https://open.spotify.com/album/5d3kZvPSoQQvkfB5DzLrls) | 3:01 | 2024-06-27 | 2024-07-05 |
-| [Se crolla il mondo poi ti salvo io](https://open.spotify.com/track/0mqC0ZUnfyzfN6IN3PtNE4) | [Destro](https://open.spotify.com/artist/6yKsozMFOdRQFgaMw7BXsT) | [Se crolla il mondo poi ti salvo io](https://open.spotify.com/album/3SYOrz4zKgRN4FnRg3cYma) | 3:22 | 2024-10-03 |  |
+| [Se crolla il mondo poi ti salvo io](https://open.spotify.com/track/0mqC0ZUnfyzfN6IN3PtNE4) | [Destro](https://open.spotify.com/artist/6yKsozMFOdRQFgaMw7BXsT) | [Se crolla il mondo poi ti salvo io](https://open.spotify.com/album/3SYOrz4zKgRN4FnRg3cYma) | 3:22 | 2024-10-03 | 2024-11-12 |
 | [se io morissi per stanotte?](https://open.spotify.com/track/1IehxLziYrNEF9QUxa6b5o) | [Dae](https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ) | [se io morissi per stanotte?](https://open.spotify.com/album/6GAZFkm6RH8LYPEMQ14MUf) | 2:41 | 2024-11-07 |  |
 | [Se non passasse aria](https://open.spotify.com/track/1KYm3VmTG8jXvRzYsQ7Ft5) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [Se non passasse aria](https://open.spotify.com/album/2QamJXYhdVkK1uJAUcf2yu) | 3:22 | 2024-10-03 |  |
 | [Se voglio salvarmi la vita](https://open.spotify.com/track/2EvzaukzjxXpAiQMN365Yq) | [Vienna](https://open.spotify.com/artist/2fNMHLg3XxoufUqKuYNNN2) | [Se voglio salvarmi la vita](https://open.spotify.com/album/47llmaF6VEih4r0rNE5Ynd) | 2:32 | 2024-09-05 | 2024-09-27 |

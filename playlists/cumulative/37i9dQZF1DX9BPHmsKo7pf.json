@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai de succes 50 de hituri \u00een Rom\u00e2nia. Cover: Theo Rose",
+  "description": "Cele mai de succes 50 de hituri \u00een Rom\u00e2nia. Cover: Mgk666",
   "name": "Hot Hits Rom\u00e2nia",
   "tracks": [
     {
@@ -451,6 +451,24 @@
     },
     {
       "album": {
+        "name": "Cine N-a Gresit Vreodata",
+        "url": "https://open.spotify.com/album/5YUQ5Ez8erJt1jilUbDBUh"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198837,
+      "name": "Cine N-a Gresit Vreodata",
+      "url": "https://open.spotify.com/track/7Lt9GmQADKBkE5ch07n8fY"
+    },
+    {
+      "album": {
         "name": "Ciocolata",
         "url": "https://open.spotify.com/album/70F5lVP5WzSrN3kcqK3jC4"
       },
@@ -576,7 +594,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 174429,
       "name": "Dame La Mano",
       "url": "https://open.spotify.com/track/1IF9KwFc9CzUUlLtVSK4Sx"
@@ -1142,7 +1160,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 179393,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/0XJY2xCiLTCNPrVzUEWZhp"
@@ -1340,6 +1358,24 @@
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "album": {
+        "name": "paradyse",
+        "url": "https://open.spotify.com/album/1oc22ihfz3wp8AR4GfCV1e"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211063,
+      "name": "paradyse",
+      "url": "https://open.spotify.com/track/0ub7PGAoZAeRiinkrRnlKh"
     },
     {
       "album": {

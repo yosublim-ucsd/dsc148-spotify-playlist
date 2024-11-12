@@ -650,10 +650,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 179346,
       "name": "Details",
       "url": "https://open.spotify.com/track/3GIlTkMxDRMwtfhKujn4Zx"
+    },
+    {
+      "album": {
+        "name": "Keep Me on Your Side",
+        "url": "https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179346,
+      "name": "Details",
+      "url": "https://open.spotify.com/track/4lWEYC8BJKd4mFQWWfD2al"
     },
     {
       "album": {
@@ -722,10 +740,46 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 179920,
       "name": "Drift Away",
       "url": "https://open.spotify.com/track/24CpeFRqTS2H2vkq2g93kN"
+    },
+    {
+      "album": {
+        "name": "Keep Me on Your Side",
+        "url": "https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179920,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/3Nn4Qjac9p3WWVprCSCukn"
+    },
+    {
+      "album": {
+        "name": "Keep Me on Your Side",
+        "url": "https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186306,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/1QeKfCodBXp0uFCUfDlbXC"
     },
     {
       "album": {
@@ -740,7 +794,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 186306,
       "name": "Drown",
       "url": "https://open.spotify.com/track/5ZCgrDedyv45fSVWYFOp0E"
@@ -1223,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "Keep Me on Your Side",
+        "url": "https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220693,
+      "name": "Hard to Watch You Go",
+      "url": "https://open.spotify.com/track/5n0ihcc3PgTOjHM02xo9wu"
+    },
+    {
+      "album": {
         "name": "Keep Me On Your Side",
         "url": "https://open.spotify.com/album/783RRqFHQuacUgztTTfzjz"
       },
@@ -1234,7 +1306,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 220693,
       "name": "Hard to Watch You Go",
       "url": "https://open.spotify.com/track/7DjWHF0jpVMtCnVClFZxU7"
@@ -1331,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "Keep Me on Your Side",
+        "url": "https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213626,
+      "name": "I Need This",
+      "url": "https://open.spotify.com/track/211EszPlTiEiiHbphXiuEX"
+    },
+    {
+      "album": {
         "name": "Keep Me On Your Side",
         "url": "https://open.spotify.com/album/783RRqFHQuacUgztTTfzjz"
       },
@@ -1342,7 +1432,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 213626,
       "name": "I Need This",
       "url": "https://open.spotify.com/track/781JjwabyzLL7R7BItsWBJ"
@@ -1504,10 +1594,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 203560,
       "name": "Jesse",
       "url": "https://open.spotify.com/track/0eudbJAuobvO7wTOlCNr4X"
+    },
+    {
+      "album": {
+        "name": "Keep Me on Your Side",
+        "url": "https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203560,
+      "name": "Jesse",
+      "url": "https://open.spotify.com/track/2zPTYnyAcETD25wi0Ly9JZ"
     },
     {
       "album": {
@@ -1630,10 +1738,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 183506,
       "name": "Lay with Me",
       "url": "https://open.spotify.com/track/4yK3eZ8Q3AsvnONpOHiNoY"
+    },
+    {
+      "album": {
+        "name": "Keep Me on Your Side",
+        "url": "https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183506,
+      "name": "Lay with Me",
+      "url": "https://open.spotify.com/track/5ZD9RQ4XBUZ22AtbUfWybI"
     },
     {
       "album": {
@@ -2461,8 +2587,8 @@
     },
     {
       "album": {
-        "name": "Keep Me On Your Side",
-        "url": "https://open.spotify.com/album/783RRqFHQuacUgztTTfzjz"
+        "name": "Keep Me on Your Side",
+        "url": "https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l"
       },
       "artists": [
         {
@@ -2470,12 +2596,12 @@
           "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
         }
       ],
-      "date_added": "2024-01-29",
+      "date_added": "2024-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 176453,
       "name": "Say Your Goodbyes",
-      "url": "https://open.spotify.com/track/6ppYT2Z8D9tZ4rrhWl9dPc"
+      "url": "https://open.spotify.com/track/37LpX0YImVDRqhyfoW4xQz"
     },
     {
       "album": {
@@ -2490,7 +2616,43 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
+      "date_removed": "2024-11-12",
+      "duration_ms": 176453,
+      "name": "Say Your Goodbyes",
+      "url": "https://open.spotify.com/track/6ppYT2Z8D9tZ4rrhWl9dPc"
+    },
+    {
+      "album": {
+        "name": "Keep Me on Your Side",
+        "url": "https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 173600,
+      "name": "Serpent Queen Pt 2",
+      "url": "https://open.spotify.com/track/2xnP1PTC9lFwitBt3wy3p7"
+    },
+    {
+      "album": {
+        "name": "Keep Me On Your Side",
+        "url": "https://open.spotify.com/album/783RRqFHQuacUgztTTfzjz"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-11-12",
       "duration_ms": 173600,
       "name": "Serpent Queen Pt 2",
       "url": "https://open.spotify.com/track/5i93CjdsuBlklQsAWHJT9v"
@@ -2803,6 +2965,24 @@
     },
     {
       "album": {
+        "name": "Keep Me on Your Side",
+        "url": "https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173813,
+      "name": "Take It All",
+      "url": "https://open.spotify.com/track/1Oie9WdiQ3qd2kB5PJ8iyG"
+    },
+    {
+      "album": {
         "name": "Keep Me On Your Side",
         "url": "https://open.spotify.com/album/783RRqFHQuacUgztTTfzjz"
       },
@@ -2814,7 +2994,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 173813,
       "name": "Take It All",
       "url": "https://open.spotify.com/track/38iPcpqrdXrZQTIAweaTdl"
@@ -3124,10 +3304,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 193506,
       "name": "This Is It",
       "url": "https://open.spotify.com/track/5kTV981v3eX8o6eVcXDqgP"
+    },
+    {
+      "album": {
+        "name": "Keep Me on Your Side",
+        "url": "https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Nurse",
+          "url": "https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193506,
+      "name": "This Is It",
+      "url": "https://open.spotify.com/track/7Co3LZPuLTtrEjLDQtEjtc"
     },
     {
       "album": {

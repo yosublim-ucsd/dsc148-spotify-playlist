@@ -4,7 +4,7 @@
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-103 songs - 6 hr 51 min
+104 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Torero](https://open.spotify.com/track/28wsuYdlvWeUDQCxJDbo5r) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Cuchama](https://open.spotify.com/album/4pVKGwZmlCJAj87KgN48KW) | 5:06 | 2024-02-01 | 2024-04-19 |
 | [Torero](https://open.spotify.com/track/24gx0KrSELx32x4rurTbEu) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Cuchama](https://open.spotify.com/album/1I7Vcy2FecSv04Tb2dlAPr) | 5:07 | 2024-04-05 |  |
 | [Torero](https://open.spotify.com/track/6Ql5ovfv38vALEkP00TMzJ) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Cuchama](https://open.spotify.com/album/4l6MESQt1Y9UVmF0ugDOOI) | 5:07 | 2023-09-01 | 2024-02-03 |
+| [Tu Belleza Me Conmueve](https://open.spotify.com/track/55onRB7WnEqgzHtt6yK6r5) | [Penélope Diaz](https://open.spotify.com/artist/2LDBNTLWlHsBYpstmWFZth) | [Tu Belleza Me Conmueve](https://open.spotify.com/album/36NgnG3aFUkeK6e9y71j3e) | 3:20 | 2024-11-11 |  |
 | [Tu Perfume](https://open.spotify.com/track/091UBqLSNqZzoJ7q5XbhVO) | [Oliver De La Rosa](https://open.spotify.com/artist/1oMULTRADWpK6wmcKx7KAd) | [Tu Perfume](https://open.spotify.com/album/6wv3yqEeD4XuUBmoYNLeKS) | 2:13 | 2024-09-03 |  |
 | [Una limosna por el amor de Dios](https://open.spotify.com/track/3zbnFohXXSHXve2oxxdATz) | [WarmHugs](https://open.spotify.com/artist/5aHt1vFcN24nd7PlZdzDGI) | [Una limosna por el amor de Dios](https://open.spotify.com/album/0inCL4j2ZIcg7SXi1g8FY8) | 3:18 | 2023-09-01 |  |
 | [Una Vida Pasada](https://open.spotify.com/track/6ZLRCFiUrLVyITDoGdfZPG) | [Alex Airaldi](https://open.spotify.com/artist/4CSqxvgnTEdUlydfORC5UH) | [Una Vida Pasada](https://open.spotify.com/album/5jD1xbj9EER6LYSRLiXSUs) | 2:30 | 2024-10-23 |  |

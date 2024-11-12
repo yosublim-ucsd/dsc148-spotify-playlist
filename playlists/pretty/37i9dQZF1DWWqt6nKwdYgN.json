@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Delfina Dib en portada. ",
-  "num_followers": 15206,
+  "num_followers": 15204,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,26 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "NASSY",
+        "url": "https://open.spotify.com/album/4u0VOseC8JpZJ76xaVNLlo"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        },
+        {
+          "name": "Dr. Ryo",
+          "url": "https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp"
+        }
+      ],
+      "duration_ms": 142767,
+      "name": "NASSY",
+      "url": "https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "Mi Psique",
         "url": "https://open.spotify.com/album/0Ne0ybMfVliyZKHBWao02T"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 197761,
       "name": "Mi Psique",
       "url": "https://open.spotify.com/track/39zwkSmunfnvgneq5SSv3H"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "NASSY",
-        "url": "https://open.spotify.com/album/4u0VOseC8JpZJ76xaVNLlo"
-      },
-      "artists": [
-        {
-          "name": "Delfina Dib",
-          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
-        },
-        {
-          "name": "Dr. Ryo",
-          "url": "https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp"
-        }
-      ],
-      "duration_ms": 142767,
-      "name": "NASSY",
-      "url": "https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Nagasaki",
-        "url": "https://open.spotify.com/album/0JOSqpYff2eSTjPqr8drus"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 245379,
-      "name": "Nagasaki",
-      "url": "https://open.spotify.com/track/2l630OkikzDGx20oh3lRsK"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "El Humito",
         "url": "https://open.spotify.com/album/5c5k6nnUtp4W0ZkJm755yA"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 160941,
       "name": "El Humito",
       "url": "https://open.spotify.com/track/4fixXL6hrrB4yRzaPtOasF"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Nagasaki",
+        "url": "https://open.spotify.com/album/0JOSqpYff2eSTjPqr8drus"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 245379,
+      "name": "Nagasaki",
+      "url": "https://open.spotify.com/track/2l630OkikzDGx20oh3lRsK"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1639,6 +1639,26 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Just in Case",
+        "url": "https://open.spotify.com/album/6wsdi0LpS2DAf7Nky6kH83"
+      },
+      "artists": [
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        },
+        {
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        }
+      ],
+      "duration_ms": 209490,
+      "name": "Just in Case",
+      "url": "https://open.spotify.com/track/2XFR8LdBWQtY7pBWwGpEMX"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "DIME",
         "url": "https://open.spotify.com/album/2GTFVJSYMyQKK5NfzsBCdE"
       },
@@ -1659,22 +1679,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Just in Case",
-        "url": "https://open.spotify.com/album/6wsdi0LpS2DAf7Nky6kH83"
+        "name": "Rap Garuya",
+        "url": "https://open.spotify.com/album/35V0U9At1mBK8CvgQiRBbC"
       },
       "artists": [
         {
-          "name": "Ojal De Ajaw",
-          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+          "name": "Solitario Soldado",
+          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
         },
         {
-          "name": "Eptos Uno",
-          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+          "name": "El sonido del javier",
+          "url": "https://open.spotify.com/artist/4uVbjrw33FZ26BdquXi36u"
         }
       ],
-      "duration_ms": 209490,
-      "name": "Just in Case",
-      "url": "https://open.spotify.com/track/2XFR8LdBWQtY7pBWwGpEMX"
+      "duration_ms": 166119,
+      "name": "Para Salvar Vidas",
+      "url": "https://open.spotify.com/track/6vL82sT8JgMdEZIUr80SK1"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1699,26 +1719,6 @@
       "duration_ms": 166829,
       "name": "NADA QUE TEMER",
       "url": "https://open.spotify.com/track/3nhfJrwpiU5MAjLhmfRuUg"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Rap Garuya",
-        "url": "https://open.spotify.com/album/35V0U9At1mBK8CvgQiRBbC"
-      },
-      "artists": [
-        {
-          "name": "Solitario Soldado",
-          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
-        },
-        {
-          "name": "El sonido del javier",
-          "url": "https://open.spotify.com/artist/4uVbjrw33FZ26BdquXi36u"
-        }
-      ],
-      "duration_ms": 166119,
-      "name": "Para Salvar Vidas",
-      "url": "https://open.spotify.com/track/6vL82sT8JgMdEZIUr80SK1"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1947,26 +1947,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Bulgari",
-        "url": "https://open.spotify.com/album/1oo9IZ9OZVD8iqbERtQKxN"
-      },
-      "artists": [
-        {
-          "name": "La Bruja en el Beat",
-          "url": "https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34"
-        },
-        {
-          "name": "Tus",
-          "url": "https://open.spotify.com/artist/2nIUyFPGvJ6Wuj10rNowq5"
-        }
-      ],
-      "duration_ms": 189767,
-      "name": "Bulgari",
-      "url": "https://open.spotify.com/track/1y7x4qStqQmSaGFDGPEmuE"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "cereza",
         "url": "https://open.spotify.com/album/5oTWuDyBWoQZH1R6blCdm6"
       },
@@ -1983,6 +1963,26 @@
       "duration_ms": 108570,
       "name": "cereza",
       "url": "https://open.spotify.com/track/5Rs4nTh5AsDoELAre4dVPR"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Bulgari",
+        "url": "https://open.spotify.com/album/1oo9IZ9OZVD8iqbERtQKxN"
+      },
+      "artists": [
+        {
+          "name": "La Bruja en el Beat",
+          "url": "https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34"
+        },
+        {
+          "name": "Tus",
+          "url": "https://open.spotify.com/artist/2nIUyFPGvJ6Wuj10rNowq5"
+        }
+      ],
+      "duration_ms": 189767,
+      "name": "Bulgari",
+      "url": "https://open.spotify.com/track/1y7x4qStqQmSaGFDGPEmuE"
     },
     {
       "added_at": "2024-10-11 06:00:00",

@@ -4,7 +4,7 @@
 
 > Your new favorite pop stars ⭐ cover: Moody Joody
 
-2,231 songs - 4 day 16 hr 15 min
+2,232 songs - 4 day 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1703,7 +1703,7 @@
 | [Serotonin](https://open.spotify.com/track/7gy8fySaO3pMsC3FLDijVn) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Serotonin](https://open.spotify.com/album/3HJ03WWoeDqPACtzEZ1kX4) | 2:47 | 2023-03-24 | 2023-04-23 |
 | [sex](https://open.spotify.com/track/26ZX2JrAb8AFbr8FFfAsO7) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [i think you think too much of me](https://open.spotify.com/album/7AVvQhnDEUidKyJsXmQ7ju) | 3:38 | 2020-01-16 | 2020-06-29 |
 | [SEX IN MY MIND](https://open.spotify.com/track/5iPgZ2079YYJladnPMwQTt) | [Adi Ulmansky](https://open.spotify.com/artist/3USGrdyXkg1eLoWJ7KhrhJ) | [BAD INTENTIONS](https://open.spotify.com/album/7C1cIgmLMG0QoktGeCWYvv) | 2:42 | 2019-05-26\* | 2019-08-13 |
-| [Sex In Public](https://open.spotify.com/track/6iyWZc91qCpdJZwv3rY7xk) | [Menna](https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM) | [Sex In Public](https://open.spotify.com/album/77V0Iyb9fUZsUNj4iCs7NV) | 2:23 | 2022-04-15 |  |
+| [Sex In Public](https://open.spotify.com/track/6iyWZc91qCpdJZwv3rY7xk) | [Menna](https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM) | [Sex In Public](https://open.spotify.com/album/77V0Iyb9fUZsUNj4iCs7NV) | 2:23 | 2022-04-15 | 2024-11-12 |
 | [Sexy Goodbye](https://open.spotify.com/track/5UHepEU0zMnz5sx1V9idJ5) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Sexy Goodbye](https://open.spotify.com/album/2d6EKgrtfckOuFgGi4SdFK) | 3:26 | 2024-10-11 |  |
 | [SH!TSHOW](https://open.spotify.com/track/44BLCiHna5WuziLINWZhYb) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [SH!TSHOW](https://open.spotify.com/album/22yKdIPMgsXi5SsbiCe3Pn) | 3:05 | 2022-11-11 | 2023-04-23 |
 | [Sh\*t People](https://open.spotify.com/track/2o5waDrBvUvW0vmZWQ7DtS) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Sh\*t People](https://open.spotify.com/album/2kWbl4QeZsNbCdLAPeV6cR) | 3:16 | 2021-08-13 | 2022-01-29 |
@@ -1757,6 +1757,7 @@
 | [Sleepyhead](https://open.spotify.com/track/47NoCaEOxlLifJ86Pr3hb8) | [Hunter Moreau](https://open.spotify.com/artist/18E7vRs277FpAIZelUzoCQ) | [Sleepyhead](https://open.spotify.com/album/1jefPRHYXgymDYCwHFnqZf) | 2:58 | 2022-01-28 | 2022-03-26 |
 | [Slow Drag](https://open.spotify.com/track/16zOWQbxQIKimPxSRGubkr) | [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [Slow Drag](https://open.spotify.com/album/0yaKoexstY4nPWVZ8wTN2o) | 2:53 | 2021-07-13 | 2022-03-12 |
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-03-22 |  |
+| [small town rodeo](https://open.spotify.com/track/02C7ei5KXnTXaEWx9HgdvD) | [ggwendolyn](https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi) | [small town rodeo](https://open.spotify.com/album/5mIoN9gFgzMj4LdNmdARaz) | 4:21 | 2024-11-11 |  |
 | [Small Town Scandal](https://open.spotify.com/track/56yiEEYcSMw27ujiSyVzCS) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Small Town Scandal](https://open.spotify.com/album/1KQBTxsa7BMd72SSO4Dj6s) | 3:30 | 2024-04-05 | 2024-10-19 |
 | [smh](https://open.spotify.com/track/6V2AuA7WxbBEDErRlbb20V) | [Dylan Reese](https://open.spotify.com/artist/6m3JhzmHaGOTO2XKns88fy) | [smh](https://open.spotify.com/album/4ysIWgICNiCKGwhEBKS85g) | 3:16 | 2021-04-21 | 2021-11-19 |
 | [SMILE](https://open.spotify.com/track/6eshn81GQPqBfv7TEOyoTI) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [SMILE](https://open.spotify.com/album/7B8WilS3K8r0D23duwPnlq) | 2:41 | 2021-10-08 | 2022-01-08 |

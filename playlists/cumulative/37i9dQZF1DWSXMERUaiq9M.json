@@ -745,6 +745,28 @@
     },
     {
       "album": {
+        "name": "Blah Blah Blah (Lilly Palmer Remix)",
+        "url": "https://open.spotify.com/album/4qeYTHSRWhb87wSI2RBZz6"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214299,
+      "name": "Blah Blah Blah - Lilly Palmer Remix",
+      "url": "https://open.spotify.com/track/21aEJ91bw1NPPi0n0oQwOQ"
+    },
+    {
+      "album": {
         "name": "BLOODY ASS SHOES",
         "url": "https://open.spotify.com/album/28PKjKbNF9M3MjzyZ9Gz1n"
       },
@@ -1413,6 +1435,24 @@
     },
     {
       "album": {
+        "name": "Dance MothaF*cka",
+        "url": "https://open.spotify.com/album/5jhVzi7YcXjPNuIrCCcPBo"
+      },
+      "artists": [
+        {
+          "name": "Deep91",
+          "url": "https://open.spotify.com/artist/7k4JimOV8Sn7yXbPbjbvBW"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266322,
+      "name": "Dance MothaF*cka",
+      "url": "https://open.spotify.com/track/6u2OtSFScp6cPJZBQk5Vi2"
+    },
+    {
+      "album": {
         "name": "Day 'N' Night",
         "url": "https://open.spotify.com/album/0nnIZNFYODXvnI9gOFqrI0"
       },
@@ -2066,6 +2106,32 @@
       "duration_ms": 166956,
       "name": "Escape",
       "url": "https://open.spotify.com/track/4S2hhb5EKBmlBU7cFigCJS"
+    },
+    {
+      "album": {
+        "name": "Escape From Planet Monday",
+        "url": "https://open.spotify.com/album/6jCSQjMDY7imZ95OUQNdeD"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "LUSU",
+          "url": "https://open.spotify.com/artist/4bd80C9zdBA4vYZEJv7C4s"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194571,
+      "name": "Escape From Planet Monday",
+      "url": "https://open.spotify.com/track/2IqFYZ4Vocia7PmzEZh67r"
     },
     {
       "album": {
@@ -2764,7 +2830,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 238550,
       "name": "H2D - (Eurohead x Varg\u00b2\u2122 Remix)",
       "url": "https://open.spotify.com/track/1MQXhg7hdHN8BiP5gIj3VK"
@@ -3177,6 +3243,32 @@
     },
     {
       "album": {
+        "name": "I WANT YOUR LOVE",
+        "url": "https://open.spotify.com/album/0LS8OojLep3r98rqrBwvaU"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Di\u00f8n",
+          "url": "https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr"
+        },
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122008,
+      "name": "I WANT YOUR LOVE",
+      "url": "https://open.spotify.com/track/3YlabQB2EfIqvxZDovTlc5"
+    },
+    {
+      "album": {
         "name": "Digital Chaos",
         "url": "https://open.spotify.com/album/7t8XvETweKzk5YjRfTQzYA"
       },
@@ -3524,7 +3616,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 280226,
       "name": "JE N'EXISTE PAS",
       "url": "https://open.spotify.com/track/25xqUhCDGyJejMANoigvrI"
@@ -3738,7 +3830,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 160000,
       "name": "La Batteria",
       "url": "https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0"
@@ -4192,7 +4284,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 120023,
       "name": "Maria",
       "url": "https://open.spotify.com/track/0hoQxwMYszyihTEIat81Lk"
@@ -4408,7 +4500,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 172506,
       "name": "Move Your Feet",
       "url": "https://open.spotify.com/track/7tIa5zvbBjTKNqa3T99Ki5"
@@ -4834,6 +4926,36 @@
       "duration_ms": 191328,
       "name": "Nothing Is Easy",
       "url": "https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH"
+    },
+    {
+      "album": {
+        "name": "Now We Are Free",
+        "url": "https://open.spotify.com/album/6iSF6ZrrJkcxrmHtPOtiJt"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "1 World",
+          "url": "https://open.spotify.com/artist/1VwX54VxJ6Mghi5HTCZYLa"
+        },
+        {
+          "name": "AntoNetta",
+          "url": "https://open.spotify.com/artist/2AtZ6NmtS2BO2GgUTIw3aL"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Now We Are Free",
+      "url": "https://open.spotify.com/track/0spV7kRavzOYJYKzOf8zSl"
     },
     {
       "album": {
@@ -5660,7 +5782,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 172344,
       "name": "Ritual Black",
       "url": "https://open.spotify.com/track/745EHuYdYrs36r0tX8wDmk"
@@ -5974,6 +6096,28 @@
       "duration_ms": 201650,
       "name": "Shake For Me, Dance For Me",
       "url": "https://open.spotify.com/track/4glTWtWx78n6xjHWh8HFb1"
+    },
+    {
+      "album": {
+        "name": "Shimmy Shake (That Booty)",
+        "url": "https://open.spotify.com/album/0L3BHBCF1zCpgKY91PLtRK"
+      },
+      "artists": [
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        },
+        {
+          "name": "740 Boyz",
+          "url": "https://open.spotify.com/artist/1gxehupXVKw95i03TQKppC"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117525,
+      "name": "Shimmy Shake (That Booty)",
+      "url": "https://open.spotify.com/track/2h113cdbuGT8CLmwppMVES"
     },
     {
       "album": {
@@ -6503,6 +6647,24 @@
     },
     {
       "album": {
+        "name": "The Nighttrain",
+        "url": "https://open.spotify.com/album/32ZI4TYBqDGBI7R32pMYJG"
+      },
+      "artists": [
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "The Nighttrain",
+      "url": "https://open.spotify.com/track/3JJfo5wyIt8E7HAjEZ9HNA"
+    },
+    {
+      "album": {
         "name": "The Rhythm",
         "url": "https://open.spotify.com/album/6ejImNwZ4g3RO5v2OgpTtd"
       },
@@ -6898,7 +7060,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 338005,
       "name": "U Again",
       "url": "https://open.spotify.com/track/7doTbhxe8kYhBPxu8MqRW7"
@@ -7047,6 +7209,24 @@
     },
     {
       "album": {
+        "name": "Wake The F Up",
+        "url": "https://open.spotify.com/album/3qCJzQQ7aRlZrpwwrdZVIj"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "Wake The F Up",
+      "url": "https://open.spotify.com/track/36eWeCqpNGHTiZfTSbScIY"
+    },
+    {
+      "album": {
         "name": "Walking Alone",
         "url": "https://open.spotify.com/album/4vVG1aL4wDWz1dpJTMTNfD"
       },
@@ -7076,7 +7256,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 125523,
       "name": "Wasting My Time",
       "url": "https://open.spotify.com/track/3jMH2HPknbxm6tVC1OySSJ"

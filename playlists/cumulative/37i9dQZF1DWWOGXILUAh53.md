@@ -4,7 +4,7 @@
 
 > The hottest new pop with all the drops\. Cover: Blusher
 
-1,273 songs - 2 day 14 hr 13 min
+1,274 songs - 2 day 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1057,6 +1057,7 @@
 | [Sunshine \- MOTi Remix](https://open.spotify.com/track/1zgV7obuDgU0DEaNCmPw8u) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Sunshine\. The EP](https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c) | 3:08 | 2021-12-31 | 2022-05-07 |
 | [Superhuman](https://open.spotify.com/track/0beVZzd2zliQ75XNIhTG93) | [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [Superhuman](https://open.spotify.com/album/7LfaJ1Ar48pT5M0h06bOM0) | 3:08 | 2024-07-19 | 2024-10-19 |
 | [SUPERIMPOSE](https://open.spotify.com/track/09c6U0P7mywiapQTEw9Vgk) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [SUPERIMPOSE](https://open.spotify.com/album/0TDvV8b1ER6fxGGcqktNaO) | 3:07 | 2021-11-12 | 2022-01-29 |
+| [Supernova Love](https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Supernova Love](https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X) | 3:19 | 2024-11-11 |  |
 | [Supposed To Be](https://open.spotify.com/track/4rq5D7NwWLUy1pLYgyfeDL) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Supposed To Be](https://open.spotify.com/album/3zgUnYk6shy8QAZmgIbK9x) | 3:09 | 2024-05-24 | 2024-06-22 |
 | [Surrender Your Love](https://open.spotify.com/track/3lsaizjKzS1fxdo7eIum40) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Surrender Your Love](https://open.spotify.com/album/1R4yShXuxu2vVoM01StCG6) | 3:24 | 2024-09-13 |  |
 | [Swear On Love](https://open.spotify.com/track/4U7Tg4x7h6tWsfVoKIVPRz) | [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB), [Haywood](https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu) | [Swear On Love](https://open.spotify.com/album/4Zoqt87F9B14ygVBF3XgQc) | 2:46 | 2021-11-05 | 2022-01-01 |

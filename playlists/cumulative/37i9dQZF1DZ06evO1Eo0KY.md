@@ -4,7 +4,7 @@
 
 > This is Nicholas Craven\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 0 min
+85 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Fleece](https://open.spotify.com/track/5E6nDvrqxj5kb5OMXDTQCG) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Estee Nack](https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd) | [Gia..\. À La Carte](https://open.spotify.com/album/3JcTKxn4KDrYnPx2kqPb9Z) | 2:43 | 2023-12-14 | 2024-07-21 |
 | [Formal Invite](https://open.spotify.com/track/6JAVPIgZPynxA3xKtd8WW0) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Penalty of Leadership](https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL) | 3:05 | 2024-01-13 |  |
 | [Français nouveau](https://open.spotify.com/track/0Rb6C8LqqmqvGXNedycmJU) | [Akhenaton](https://open.spotify.com/artist/4ddg7PH5OuSossiSBWgueu), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Latin Quarter, Pt\. 2](https://open.spotify.com/album/40jVyMws7SyYAScwQQw5Ne) | 2:25 | 2023-12-13 | 2024-01-14 |
+| [Freedom \(feat\. King Shadrock\)](https://open.spotify.com/track/6Z1SqNXvqjeQ4j1HVqsicz) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [King Shadrock](https://open.spotify.com/artist/2v7ScxogU6GrBiGgF5aLVj) | [Directors Cut 4](https://open.spotify.com/album/0dp06Yn0DusNEeKYNX3zuv) | 3:04 | 2024-11-12 |  |
 | [From Here to Quebec](https://open.spotify.com/track/7JDHKwPwWTVvNAU2K5v5vO) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Craven N](https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP) | 0:57 | 2023-12-13 | 2024-06-01 |
 | [Homefront](https://open.spotify.com/track/3ZUhAydlzZ3FrF16Lu8Q2u) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4) | [Deleted Scenes 2](https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ) | 2:56 | 2023-12-13 |  |
 | [Jack Frost](https://open.spotify.com/track/0dhBMRNxWrBZ6hmZXSC2lT) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Penalty of Leadership](https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL) | 3:05 | 2024-01-13 |  |

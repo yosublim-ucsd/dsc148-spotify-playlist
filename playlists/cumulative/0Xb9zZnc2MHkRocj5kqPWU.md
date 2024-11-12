@@ -4,7 +4,7 @@
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.
 
-286 songs - 15 hr 38 min
+289 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [andata](https://open.spotify.com/track/0zJBuvHBlXmSTgakLodpfl) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [andata](https://open.spotify.com/album/6RMSaPc0l29vOWGtyAZEvS) | 2:37 | 2023-08-09 | 2024-01-13 |
 | [Anima I](https://open.spotify.com/track/2oDMesExAJ06YS6prXYydx) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Anima I](https://open.spotify.com/album/3hPZk1DkbSCpAU1NPqs4QG) | 3:01 | 2023-07-04 | 2023-11-11 |
 | [Anima II \- Sleep Rework](https://open.spotify.com/track/4YQX0Y5vsY9J9hOUTNB1Su) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Anima II \- Sleep Rework](https://open.spotify.com/album/3ueMm7wCOUMaiLpGqu2kZQ) | 3:24 | 2024-06-03 |  |
+| [Anima III](https://open.spotify.com/track/3rGvmKEB5z1YyibViKHKXZ) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Intercosmia Vol\. 1](https://open.spotify.com/album/3y5tT5o4of6SEyndkccXMI) | 2:56 | 2024-11-11 |  |
 | [Anima III](https://open.spotify.com/track/7HCtusx1qdSdfwOpuEcHE1) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Anima III](https://open.spotify.com/album/15spvmlCW5j60dfs4l5Izx) | 2:56 | 2024-09-23 |  |
 | [Anna's Theme](https://open.spotify.com/track/6740CBSV28fefirRslM7vT) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [The Light](https://open.spotify.com/album/1yIuoAmtrG2NnHkUzjijfy) | 1:55 | 2023-05-26 | 2023-11-11 |
 | [Ave verum corpus, K.618 \(Arr\. for Piano by Franz Liszt\)](https://open.spotify.com/track/3DYxUyNeBa9MbT867F9gMO) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [MozartReworked](https://open.spotify.com/album/0iscfEvEjrQFkNTV7Hitgb) | 3:15 | 2023-05-05 |  |
@@ -144,6 +145,7 @@
 | [Lieder ohne Worte, Op\. 53: No\. 4 in F Major\. Adagio, MWV U 114 "Sadness of Soul"](https://open.spotify.com/track/0OiuUhfYsKZXv84g5q9u91) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Lieder ohne Worte](https://open.spotify.com/album/4w2KWcskMZag77MRdsOXOg) | 2:30 | 2023-12-15 |  |
 | [Light](https://open.spotify.com/track/2GH10GnNezBq5ibcBHIG2U) | [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Genesis](https://open.spotify.com/album/0pGgNxR0YecEYnygce6C8e) | 1:46 | 2023-08-09 |  |
 | [Liszt Variation \(After Im Rhein, im schönen Strome, S\. 272, Arr\. for Piano by Florian Christl\)](https://open.spotify.com/track/5WokHL3JXjiuhg3XvhU3e5) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Liszt Variation \(After Im Rhein, im schönen Strome, S\. 272, Arr\. for Piano by Florian Christl\)](https://open.spotify.com/album/5tf3V0H7UhI6MoOFzd7nxV) | 3:17 | 2024-08-09 |  |
+| [Loiste](https://open.spotify.com/track/0QnFEI5XPIXcBdTXglZ6Za) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Loiste](https://open.spotify.com/album/2M4uM2dAm17xuLzVJkz31X) | 3:05 | 2024-11-11 |  |
 | [Lost in Thought](https://open.spotify.com/track/1UVjC46kICqTceu7wCi8zK) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Between Two Waves](https://open.spotify.com/album/3K20Qp773ImY8pBQ1vUt93) | 3:12 | 2022-07-13 | 2024-09-28 |
 | [Lullaby](https://open.spotify.com/track/5AovOsJ7aaG5bHyC7uEQnC) | [ELLIOTT ARMEN](https://open.spotify.com/artist/2BuC0YWHjFKnwj9fTG9qOt) | [Helium](https://open.spotify.com/album/1eYMCl7tP9dwFIS8ZKy1l3) | 4:14 | 2023-03-27 |  |
 | [Lullaby for Jacques et Brune](https://open.spotify.com/track/5OO5egVOjkqFASx06Ikz75) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL) | [Lullaby for Jacques et Brune](https://open.spotify.com/album/32mCZb70GUxJWlkMTte4M8) | 2:26 | 2024-05-07 | 2024-09-04 |
@@ -249,6 +251,7 @@
 | [Sunny](https://open.spotify.com/track/3OBYJA97H6OitlnYLZ22FY) | [Dirk Maassen](https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6) | [Sunny](https://open.spotify.com/album/3aYy3V8mWZztbssef3qmdc) | 3:21 | 2022-10-12 | 2023-11-11 |
 | [Swifts](https://open.spotify.com/track/3RDbeR5LjCi10Ew88Ojxgu) | [Moritz Fasbender](https://open.spotify.com/artist/6T7ow0yr5ho2ZoSCtvG4IQ) | [Rabbits \(XXIM:EXPO \#4\)](https://open.spotify.com/album/3IPHcdwFrndXq3YnODC9hc) | 3:39 | 2022-06-20 | 2024-08-10 |
 | [tableau](https://open.spotify.com/track/1g3hiG4Q75IFVyxgnOYVAR) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [tableau](https://open.spotify.com/album/38AdYGnxfAXKKCS5KgOvEf) | 2:16 | 2023-03-20 | 2023-11-11 |
+| [The Art of Falling](https://open.spotify.com/track/4xmWnJpazNxLLxDJcCKgeG) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Urban Impressionism](https://open.spotify.com/album/2HwoFNovpqusvem2csYBU4) | 4:09 | 2024-11-11 |  |
 | [The Arts and the Hours](https://open.spotify.com/track/1ABbAdUpqiuXVGlS8z8GIE) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp), [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce) | [The Arts and the Hours](https://open.spotify.com/album/7aEEfHsryCfXSlO5eGuUi7) | 4:22 | 2023-06-05 | 2023-11-11 |
 | [The Arts and the Hours \(Arr\. for Guitar by Michael Lewin\)](https://open.spotify.com/track/16R3RNmbJohG6Lbn3qvexB) | [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Baroque](https://open.spotify.com/album/21RQ5ToNB79hGsqOobGGQi) | 5:15 | 2023-10-13 |  |
 | [The Departure](https://open.spotify.com/track/4ibru27nXSYHDyaoTziYRS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Winter](https://open.spotify.com/album/330jzGK1FrCQAxTyTXT8KN) | 2:30 | 2024-02-05 |  |

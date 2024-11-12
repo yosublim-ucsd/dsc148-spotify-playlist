@@ -1665,6 +1665,28 @@
     },
     {
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/3SSUw0qx6ekOPCeGD7JFB8"
+      },
+      "artists": [
+        {
+          "name": "Mind Compressor",
+          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
+        },
+        {
+          "name": "Angerzam",
+          "url": "https://open.spotify.com/artist/186Swf2HozSo69gbfoa2Vu"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3juRSsHNc9eGPJnogwY9sw"
+    },
+    {
+      "album": {
         "name": "Force Of Salvation (Official Masters of Hardcore Austria 2023 Anthem)",
         "url": "https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY"
       },
@@ -2526,7 +2548,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 135087,
       "name": "Hola",
       "url": "https://open.spotify.com/track/0Zf1Tmdc5NLc6DNfZ1Ysgx"
@@ -2720,6 +2742,24 @@
       "duration_ms": 161048,
       "name": "Imma Boss - Fraw Remix",
       "url": "https://open.spotify.com/track/0pKujVFb0bAPeCorHRkEjG"
+    },
+    {
+      "album": {
+        "name": "In Synergy",
+        "url": "https://open.spotify.com/album/0Wo2VDVsMxrzIxN6oVHN6T"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "In Synergy",
+      "url": "https://open.spotify.com/track/7oLDdopowUEGNb037AjEAN"
     },
     {
       "album": {
@@ -5810,7 +5850,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 151200,
       "name": "WEEKEND",
       "url": "https://open.spotify.com/track/3RIHeko0AomqwG0capWJkT"

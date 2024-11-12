@@ -12698,7 +12698,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 168939,
       "name": "Teatime",
       "url": "https://open.spotify.com/track/09fhTYGSgNoATa9MnNAHes"
@@ -13714,6 +13714,24 @@
       "duration_ms": 158794,
       "name": "Valsa e Vinho",
       "url": "https://open.spotify.com/track/4992uwyEYOstUKzPgdPVR3"
+    },
+    {
+      "album": {
+        "name": "Vanguard",
+        "url": "https://open.spotify.com/album/2xmUjNUTcThauPojbHLaVL"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141956,
+      "name": "Vanguard",
+      "url": "https://open.spotify.com/track/3uCREKtnCEWCI4vLiSZKbo"
     },
     {
       "album": {

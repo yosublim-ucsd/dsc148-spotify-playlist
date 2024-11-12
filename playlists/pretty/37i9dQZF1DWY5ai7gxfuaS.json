@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 300425,
+  "num_followers": 300505,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "FYB",
+        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 106331,
+      "name": "FYB",
+      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Cheaper Than Therapy",
         "url": "https://open.spotify.com/album/5v0QcUpjf2ucFObuv9Tpgb"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 288002,
       "name": "Stuck In My Ways",
       "url": "https://open.spotify.com/track/5qCyEApbDw5dzM7Gq5ouhw"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "FYB",
-        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 106331,
-      "name": "FYB",
-      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "HIGHER POWER",
-        "url": "https://open.spotify.com/album/6WTTG3Lz51QlbpyY9AeYDJ"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 163413,
-      "name": "HIGHER POWER",
-      "url": "https://open.spotify.com/track/7DgbryJIzvkjsXKhteGrKz"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "In Limbo",
         "url": "https://open.spotify.com/album/4tNRCmCPj37qUhIeoTlzUv"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 276480,
       "name": "In Limbo",
       "url": "https://open.spotify.com/track/47PYHSLF6jGxUxDXoUFs2v"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "HIGHER POWER",
+        "url": "https://open.spotify.com/album/6WTTG3Lz51QlbpyY9AeYDJ"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 163413,
+      "name": "HIGHER POWER",
+      "url": "https://open.spotify.com/track/7DgbryJIzvkjsXKhteGrKz"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
-      },
-      "artists": [
-        {
-          "name": "Crippled Black Phoenix",
-          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
-        }
-      ],
-      "duration_ms": 491180,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Flowers of Evil",
         "url": "https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 235000,
       "name": "Russian Doll",
       "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
+      },
+      "artists": [
+        {
+          "name": "Crippled Black Phoenix",
+          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
+        }
+      ],
+      "duration_ms": 491180,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Plantgazer",
+        "url": "https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP"
+      },
+      "artists": [
+        {
+          "name": "Show Me A Dinosaur",
+          "url": "https://open.spotify.com/artist/1wou9vWv5PgrTn3pu3TydQ"
+        }
+      ],
+      "duration_ms": 576912,
+      "name": "Red River",
+      "url": "https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Moot",
         "url": "https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 245664,
       "name": "Moot",
       "url": "https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Plantgazer",
-        "url": "https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP"
-      },
-      "artists": [
-        {
-          "name": "Show Me A Dinosaur",
-          "url": "https://open.spotify.com/artist/1wou9vWv5PgrTn3pu3TydQ"
-        }
-      ],
-      "duration_ms": 576912,
-      "name": "Red River",
-      "url": "https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9"
+      },
+      "artists": [
+        {
+          "name": "Death Blooms",
+          "url": "https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j"
+        }
+      ],
+      "duration_ms": 204848,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Kings Today",
         "url": "https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 235954,
       "name": "Kings Today",
       "url": "https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Shut Up",
-        "url": "https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9"
-      },
-      "artists": [
-        {
-          "name": "Death Blooms",
-          "url": "https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j"
-        }
-      ],
-      "duration_ms": 204848,
-      "name": "Shut Up",
-      "url": "https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9"
     },
     {
       "added_at": "2024-07-19 13:56:32",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Fight Alone",
-        "url": "https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx"
-      },
-      "artists": [
-        {
-          "name": "Motive Black",
-          "url": "https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw"
-        }
-      ],
-      "duration_ms": 220333,
-      "name": "Fight Alone",
-      "url": "https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "80486DX",
         "url": "https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 272000,
       "name": "80486DX",
       "url": "https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Fight Alone",
+        "url": "https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx"
+      },
+      "artists": [
+        {
+          "name": "Motive Black",
+          "url": "https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "Fight Alone",
+      "url": "https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "MILF",
-        "url": "https://open.spotify.com/album/3FgmJByJ2eCaZwbFXoHdsO"
-      },
-      "artists": [
-        {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "MILF",
-      "url": "https://open.spotify.com/track/4KrukUctcQveDcPFxXvI0M"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "White Noise",
         "url": "https://open.spotify.com/album/5XK72MyNkvyWhgclcg0XvF"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 277024,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/750uSPGwf5jqU1teWD5cdO"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Nowhere Now Here",
+        "url": "https://open.spotify.com/album/4SnsgTwNCmqJMOiuj4hxH3"
+      },
+      "artists": [
+        {
+          "name": "MONO",
+          "url": "https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3"
+        }
+      ],
+      "duration_ms": 336513,
+      "name": "After You Comes the Flood",
+      "url": "https://open.spotify.com/track/66JSsyAmLobSSYZDjwla5b"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Nowhere Now Here",
-        "url": "https://open.spotify.com/album/4SnsgTwNCmqJMOiuj4hxH3"
+        "name": "MILF",
+        "url": "https://open.spotify.com/album/3FgmJByJ2eCaZwbFXoHdsO"
       },
       "artists": [
         {
-          "name": "MONO",
-          "url": "https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3"
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
         }
       ],
-      "duration_ms": 336513,
-      "name": "After You Comes the Flood",
-      "url": "https://open.spotify.com/track/66JSsyAmLobSSYZDjwla5b"
+      "duration_ms": 120000,
+      "name": "MILF",
+      "url": "https://open.spotify.com/track/4KrukUctcQveDcPFxXvI0M"
     },
     {
       "added_at": "2024-07-19 10:51:43",

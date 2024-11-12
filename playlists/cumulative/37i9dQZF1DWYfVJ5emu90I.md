@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-182 songs - 8 hr 53 min
+183 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [DOUGH? feat\. BENXNI, TAHITI](https://open.spotify.com/track/2UZRzZjt75ZlYfsNylclCr) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [TARVETHZ](https://open.spotify.com/artist/67Ofry6ZPlecTnaGUS5tVR), [BENXNI](https://open.spotify.com/artist/6XH0kHK5G7kGgDGu2Id6a2), [TAHITI](https://open.spotify.com/artist/11Ihrdsc07m7HGvqmbGCbp) | [DOUGH? feat\. BENXNI, TAHITI](https://open.spotify.com/album/48SEEUyGMnImibdwHeVgRA) | 2:23 | 2024-07-17 | 2024-08-21 |
 | [DRILL KING](https://open.spotify.com/track/1S9tGcdVKbngeSnrnE3f1o) | [SATORU](https://open.spotify.com/artist/3dLTvvJ3HQZy0dcozfallB) | [DRILL KING](https://open.spotify.com/album/2k8X00C4i54JaqBJQOHrls) | 3:12 | 2022-11-19 | 2023-05-24 |
 | [EDO](https://open.spotify.com/track/07OJpiSTwt4hCJPcXveRHa) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Chawalit](https://open.spotify.com/album/3aD4xnihNEcPPnMdd3FuEF) | 3:00 | 2022-11-19 | 2023-06-22 |
+| [EDO](https://open.spotify.com/track/7qdVue4d2eL78VYdl4BXdZ) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Chawalit](https://open.spotify.com/album/1QpwzysSvWVFZR3Lkr2lPH) | 3:00 | 2024-11-06 |  |
 | [egirl wanna do bdsm.nsfw](https://open.spotify.com/track/23H7hqMiuNHrPU8AR9JNoy) | [JAY DVRDEN](https://open.spotify.com/artist/3mZ0TiDpjzDJU5qttTDHXq), [XNI](https://open.spotify.com/artist/3ibuYNQ2Oxu7lWcNf6Ww7c), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [egirl wanna do bdsm.nsfw](https://open.spotify.com/album/4Pt415qukXaaPjSmxWtFgr) | 2:36 | 2022-11-19 | 2024-07-12 |
 | [Fast](https://open.spotify.com/track/4IwBeoakiZGK5h8KE7Ns3I) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [Frankkiss](https://open.spotify.com/artist/7uj4zg34enYInzpT64qAB2), [Kiyoki](https://open.spotify.com/artist/4YqDFjvk7ovTE8bYLHr2ux) | [Fast](https://open.spotify.com/album/654vDrOAbeRErsaIuIi0Js) | 3:02 | 2024-10-02 |  |
 | [Fast Pass](https://open.spotify.com/track/39wnOZkUJODG6ZxGqHkXoT) | [Harka](https://open.spotify.com/artist/6GcZguCVovv7iXEPq98VFI) | [Fast Pass](https://open.spotify.com/album/1d0Zd9cEVBugHOAuJQYNu9) | 2:58 | 2024-07-12 | 2024-08-21 |
@@ -81,7 +82,7 @@
 | [Ippai G2](https://open.spotify.com/track/7quDM98kweHmcHrqzdCkIj) | [Link Hood](https://open.spotify.com/artist/7wjf64sDcVNsgTXKKyaxio), [999dobby](https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc) | [Ippai G2](https://open.spotify.com/album/2rJl8FBwTHAkQ8p0aqIPuo) | 3:12 | 2023-06-21 | 2024-04-19 |
 | [JAPANESE NINJA](https://open.spotify.com/track/00HIKUJ3NMsxnvFuLuQiSf) | [LeMu](https://open.spotify.com/artist/2Fs2BmbyNv5W969MZKe2kM), [P¥TA](https://open.spotify.com/artist/3YVzbws07cdeBA8ZisKzqX), [Will](https://open.spotify.com/artist/3muGOz0Xarz7aRbHp1QOSu), [Happy](https://open.spotify.com/artist/0wCS5K5gJVAuAmVglBhXbe) | [LeMu TAPE](https://open.spotify.com/album/2AIUvGSCl36rMXwiRH1IaV) | 2:22 | 2022-11-19 | 2024-04-19 |
 | [Kamasu or Die](https://open.spotify.com/track/2wsYbaGE0LrBpFVvpTPmHH) | [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [ZORN](https://open.spotify.com/artist/1usR8ZFyugMzuO9eDDwMKU) | [Kamasu or Die](https://open.spotify.com/album/5lbYwvOXS7YZIdRdKvLaTw) | 3:41 | 2022-11-19 | 2024-01-16 |
-| [KASSARAINA](https://open.spotify.com/track/0qksS781ZwciYDbiCt0WjO) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [busy](https://open.spotify.com/album/2Ot6hGHgIvzuoKRE1CEp0I) | 2:25 | 2024-08-07 |  |
+| [KASSARAINA](https://open.spotify.com/track/0qksS781ZwciYDbiCt0WjO) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [busy](https://open.spotify.com/album/2Ot6hGHgIvzuoKRE1CEp0I) | 2:25 | 2024-08-07 | 2024-11-12 |
 | [Kawasaki Drift](https://open.spotify.com/track/1fbMGnVgmS72f4CUWnPTMU) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2) | [BAD HOP HOUSE](https://open.spotify.com/album/1BgFgc9JWJbvn50Jyj3rfV) | 4:37 | 2024-02-27 | 2024-04-19 |
 | [Kawasaki Drift](https://open.spotify.com/track/2zWJKBSNKyy0kEc78V9CAW) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2) | [BAD HOP HOUSE](https://open.spotify.com/album/4yWFSxfJsvkgkR0o6JeD1a) | 4:37 | 2022-11-19 | 2024-04-04 |
 | [Kawasaki Drift](https://open.spotify.com/track/651z4p0RWGLrleAdBhd2os) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2) | [BAD HOP HOUSE](https://open.spotify.com/album/7H4uMwNDrQRF4I3NjGtAiw) | 4:37 | 2024-02-27 | 2024-07-25 |

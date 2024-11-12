@@ -1,6 +1,6 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 280264,
+  "num_followers": 280297,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI"
     },
     {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
-      },
-      "artists": [
-        {
-          "name": "Obie Bermudez",
-          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Todo El A\u00f1o",
-      "url": "https://open.spotify.com/track/7usrCxShd2epjMs0GDClGP"
-    },
-    {
       "added_at": "2022-03-01 04:08:22",
       "album": {
         "name": "Destino",
@@ -871,6 +855,22 @@
       "duration_ms": 205333,
       "name": "Destino",
       "url": "https://open.spotify.com/track/0Tvel29tfH38v5q9CXQC3y"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
+      },
+      "artists": [
+        {
+          "name": "Obie Bermudez",
+          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Todo El A\u00f1o",
+      "url": "https://open.spotify.com/track/7usrCxShd2epjMs0GDClGP"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "Entre Pairos y Derivas",
+        "url": "https://open.spotify.com/album/0Dm8kFxZeLSQNTOcF4ZCIQ"
+      },
+      "artists": [
+        {
+          "name": "Fernando Delgadillo",
+          "url": "https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc"
+        }
+      ],
+      "duration_ms": 256013,
+      "name": "Entre Pairos y Derivas",
+      "url": "https://open.spotify.com/track/2oUT6iRSQM4cdDE1pMse6h"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "Amo Esta Isla",
         "url": "https://open.spotify.com/album/7jvAtbqVoxKAS9vR7vr4qG"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 280893,
       "name": "Alfonsina Y El Mar",
       "url": "https://open.spotify.com/track/1dsG4CwDogYQ6Lfnca9PpX"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Entre Pairos y Derivas",
-        "url": "https://open.spotify.com/album/0Dm8kFxZeLSQNTOcF4ZCIQ"
-      },
-      "artists": [
-        {
-          "name": "Fernando Delgadillo",
-          "url": "https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc"
-        }
-      ],
-      "duration_ms": 256013,
-      "name": "Entre Pairos y Derivas",
-      "url": "https://open.spotify.com/track/2oUT6iRSQM4cdDE1pMse6h"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Como la Nube Se Impone al Sol",
-        "url": "https://open.spotify.com/album/1MbZFgTvTCb7TjAaeKAybY"
-      },
-      "artists": [
-        {
-          "name": "Eliades Ochoa",
-          "url": "https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH"
-        },
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        }
-      ],
-      "duration_ms": 189787,
-      "name": "Como la Nube Se Impone al Sol",
-      "url": "https://open.spotify.com/track/6yyjTmxBDhKvQre39r8QxT"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "30 A\u00f1os",
         "url": "https://open.spotify.com/album/5k9z28Gw7Nf6FtHp8UIXSE"
       },
@@ -1295,6 +1275,22 @@
       "duration_ms": 264040,
       "name": "Gracias A La Vida",
       "url": "https://open.spotify.com/track/7LG5cNXKsKSV3IrHNrHzGa"
+    },
+    {
+      "added_at": "2021-10-26 03:29:04",
+      "album": {
+        "name": "Vagamundo",
+        "url": "https://open.spotify.com/album/7DlAbZHP5l7efGJF97KfeS"
+      },
+      "artists": [
+        {
+          "name": "Jorge Gamboa Patr\u00f3n",
+          "url": "https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu"
+        }
+      ],
+      "duration_ms": 270453,
+      "name": "Sembrando Amor",
+      "url": "https://open.spotify.com/track/1rtRqBUB5RnafVaRml1SP3"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1313,20 +1309,24 @@
       "url": "https://open.spotify.com/track/7jXYvUbqMQHLBDn12Yruxp"
     },
     {
-      "added_at": "2021-10-26 03:29:04",
+      "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Vagamundo",
-        "url": "https://open.spotify.com/album/7DlAbZHP5l7efGJF97KfeS"
+        "name": "Como la Nube Se Impone al Sol",
+        "url": "https://open.spotify.com/album/1MbZFgTvTCb7TjAaeKAybY"
       },
       "artists": [
         {
-          "name": "Jorge Gamboa Patr\u00f3n",
-          "url": "https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu"
+          "name": "Eliades Ochoa",
+          "url": "https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH"
+        },
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
         }
       ],
-      "duration_ms": 270453,
-      "name": "Sembrando Amor",
-      "url": "https://open.spotify.com/track/1rtRqBUB5RnafVaRml1SP3"
+      "duration_ms": 189787,
+      "name": "Como la Nube Se Impone al Sol",
+      "url": "https://open.spotify.com/track/6yyjTmxBDhKvQre39r8QxT"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Escucha a Gerardo Pablo",
-        "url": "https://open.spotify.com/album/3rakFwWiJAVASGge6sVFYN"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Pablo",
-          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
-        }
-      ],
-      "duration_ms": 165160,
-      "name": "Buscando un \u00c1ngel",
-      "url": "https://open.spotify.com/track/577tjKJ7OZ5Jh3RPXLAfvt"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Ser\u00e1 Posible El Sur?",
         "url": "https://open.spotify.com/album/2U6CJqnFntxEWLSLBoeCs1"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 290666,
       "name": "Todo Cambia",
       "url": "https://open.spotify.com/track/4ZOomo8OwEczYXh0I9qOGU"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Escucha a Gerardo Pablo",
+        "url": "https://open.spotify.com/album/3rakFwWiJAVASGge6sVFYN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Pablo",
+          "url": "https://open.spotify.com/artist/5LjY0Un1TpGNpHkpyDPYuh"
+        }
+      ],
+      "duration_ms": 165160,
+      "name": "Buscando un \u00c1ngel",
+      "url": "https://open.spotify.com/track/577tjKJ7OZ5Jh3RPXLAfvt"
     },
     {
       "added_at": "2021-07-29 16:46:05",

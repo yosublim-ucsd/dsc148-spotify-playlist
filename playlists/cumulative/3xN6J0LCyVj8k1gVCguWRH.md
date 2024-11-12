@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-4,153 songs - 9 day 17 hr 12 min
+4,155 songs - 9 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,6 +603,7 @@
 | [Capt\. Koyake](https://open.spotify.com/track/656P0KoVreJhTqD1G52QLK) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43) | [Adventure](https://open.spotify.com/album/1l9X0D2mSBr5yuWp0tginK) | 3:07 | 2021-06-26 | 2021-07-11 |
 | [Captain of My Day](https://open.spotify.com/track/0IukXp4FbO5qyXV7ddCM1k) | [Ulrich Jannert](https://open.spotify.com/artist/1lu3StHbJz1S4d6sUmvgPC) | [Country Pop keeps me going \- Just Good Vibes](https://open.spotify.com/album/0K4Cdr4PYqW3qOeWkUBmbD) | 2:28 | 2024-10-11 | 2024-10-23 |
 | [Captivated](https://open.spotify.com/track/1wIEOWw51yvFuV2yJYyozY) | [Codey Lee James](https://open.spotify.com/artist/6GT8SLhWdvEDgmGAhV763E) | [Captivated](https://open.spotify.com/album/5gKIHJKCA3ndnDTRq8AgaJ) | 3:28 | 2024-05-24 | 2024-06-05 |
+| [Cards](https://open.spotify.com/track/7LvE1XCJitEmVfk9kXoowz) | [CLAYTON](https://open.spotify.com/artist/6I1vkZ3kpAvYsLw1rQUK5q) | [Cards](https://open.spotify.com/album/2sAecwvlrjb4SAiUgRA6xf) | 2:22 | 2024-11-11 |  |
 | [Careful I'm A Pisces](https://open.spotify.com/track/5uofLDT9ZrRaOTg4Sk9g8V) | [Keely](https://open.spotify.com/artist/6O22NnZ7zH3nosk9yfKMIx), [Peter Eddins](https://open.spotify.com/artist/2AEZ98KVztBHw3RVmvZlKW) | [Careful I'm A Pisces](https://open.spotify.com/album/1WeU6JivAtr91LbvcrerNE) | 2:49 | 2024-03-09 | 2024-03-21 |
 | [Careful What You Wish For](https://open.spotify.com/track/5h5sTXyjYCha8bgnYOxLYv) | [Varas](https://open.spotify.com/artist/7cqV19335f0Yhf76d76D8I) | [There You Go!](https://open.spotify.com/album/0CpzvCOiH5m3qlenioMjTb) | 3:36 | 2023-04-07 | 2023-04-30 |
 | [Careless](https://open.spotify.com/track/5P3i6ApSZNcb9zG0dYfYuE) | [Grace Lee](https://open.spotify.com/artist/5H9MaaK15IDsYf0UE64Kzh) | [Careless](https://open.spotify.com/album/4nht1g5igiygAqTkBP01SI) | 2:01 | 2024-07-26 | 2024-08-07 |
@@ -1870,6 +1871,7 @@
 | [ithinkilikeu](https://open.spotify.com/track/66MwqT9J5WEncDlM1oUS2E) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [ithinkilikeu](https://open.spotify.com/album/3xnv86dTt22Ebu2bsjKFSp) | 1:54 | 2021-10-16 | 2021-10-31 |
 | [Its Way With Me](https://open.spotify.com/track/4ozdSH2MuFoABtDWa4S1mJ) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Its Way With Me](https://open.spotify.com/album/7JvQaezYGVWAlEt079zFvB) | 4:36 | 2021-07-11 | 2024-04-21 |
 | [Itsa Bop Itsa Jam](https://open.spotify.com/track/5qlHhQiH0snGWhRTdydTvi) | [& AnD &](https://open.spotify.com/artist/2HMl1AHiQpQfDZwFreWpI1) | [The Odyssey](https://open.spotify.com/album/6ZjDRprx7UgL6a2kqqbidd) | 3:00 | 2024-05-21 | 2024-06-01 |
+| [It’s a Vibe! \(Ain’t It?\)](https://open.spotify.com/track/4piHIEC1C2JCAqpTDTfdTd) | [Yomchi](https://open.spotify.com/artist/75cRTqerw1s3cKcti6AluB), [DOG PAULSON](https://open.spotify.com/artist/1kd9SkGzGp8D7WtW3in4W4) | [It’s a Vibe! \(Ain’t It?\)](https://open.spotify.com/album/0crA18x3cxjocmg4xGCmDg) | 3:07 | 2024-11-11 |  |
 | [Jade](https://open.spotify.com/track/1EP5xEYpW1uEYHAZIVEQqc) | [Taylor Castro](https://open.spotify.com/artist/1RA3K5sRdBeTys4cvTisON) | [Jade](https://open.spotify.com/album/1TusGaotu13zdgv0Pw0Osi) | 4:11 | 2021-11-27 | 2021-12-12 |
 | [Jaded](https://open.spotify.com/track/2q1ZYPHZXnmI3nLkJpHFb3) | [Xero Music](https://open.spotify.com/artist/4XWdJYXmR4TY2gwnapByZd) | [Hood Boy Blues](https://open.spotify.com/album/0SvHUIWaTmwacy2EsyAznf) | 3:22 | 2024-10-26 | 2024-11-07 |
 | [Jaja](https://open.spotify.com/track/0HFZSeT31eu7CXzYWAfLmD) | [Tutipsy](https://open.spotify.com/artist/0LY2ULdbf59X4QJjZfEnW3) | [Jaja](https://open.spotify.com/album/3JXVpWiCvhCl4ikiP5pc80) | 2:50 | 2024-01-22 | 2024-01-30 |

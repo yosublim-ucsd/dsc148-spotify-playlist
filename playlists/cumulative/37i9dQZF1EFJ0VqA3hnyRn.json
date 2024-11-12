@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Bad Habits",
+        "url": "https://open.spotify.com/album/2sD4s8plx7sdr7Qn580kK6"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257249,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/7beY8mXJuC4l0J2WgVoCfm"
+    },
+    {
+      "album": {
         "name": "Malibu Babie SZN: Vol I",
         "url": "https://open.spotify.com/album/0baOUkjYE0kLhwWaGwdu78"
       },

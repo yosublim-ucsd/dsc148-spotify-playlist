@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-342 songs - 19 hr 40 min
+343 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Mentirosa Remix](https://open.spotify.com/track/5bgkgmz1bx7GxD6Kh6xeS8) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mentirosa Remix](https://open.spotify.com/album/73D3SBYlUHneMYQmSCWCnl) | 2:59 | 2023-12-01 |  |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 | 2023-08-18 |  |
 | [Mi Fórmula de Amor](https://open.spotify.com/track/4CVsyjUiuddcgeUPiAK2Z7) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X) | [Mi Formula de Amor](https://open.spotify.com/album/7oTd7Mu8VHDaxaKJ5QZkWy) | 2:55 | 2023-02-03 | 2023-04-20 |
-| [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/3mrRVpo3r93hi6qdQm2bLw) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/1om4tN4zbd13XwYmFk6B7O) | 3:24 | 2023-10-06 |  |
+| [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/3mrRVpo3r93hi6qdQm2bLw) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/1om4tN4zbd13XwYmFk6B7O) | 3:24 | 2023-10-06 | 2024-11-12 |
 | [Mi Medicina](https://open.spotify.com/track/7FBl6M4ILoDTR4A1dSv1eu) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Mi Medicina](https://open.spotify.com/album/2LixdNBvtiLVPVMISy8JdK) | 3:37 | 2022-09-16 | 2023-01-28 |
 | [Mil Horas](https://open.spotify.com/track/2JXaOJZnumm7QnN8Oub2K8) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Mil Horas](https://open.spotify.com/album/2hsuC2WkNh4VsjwwskpGYd) | 3:36 | 2022-07-01 | 2024-04-19 |
 | [Mil Horas](https://open.spotify.com/track/6aiOkKVEe8Mo0O3ycrrn7z) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Transformando La Cumbia](https://open.spotify.com/album/0oQPPVHlGTrEPptF9mOZeZ) | 4:14 | 2021-12-24 | 2022-09-03 |
@@ -235,6 +235,7 @@
 | [Poco](https://open.spotify.com/track/7jiBjftkmWFijn6VufQQfE) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Poco](https://open.spotify.com/album/51qb2RFstuUv6NvyyZvvf1) | 4:09 | 2022-09-09 | 2023-03-25 |
 | [Por Dios Que No](https://open.spotify.com/track/5Qq2wpTegTGcvplLyrNmyd) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Por Dios Que No](https://open.spotify.com/album/1DhhUhPzrfp8E4lqqifiTN) | 2:48 | 2024-01-08 | 2024-06-01 |
 | [Por Dios Que No \- En Vivo](https://open.spotify.com/track/3GQtDlWeuibWgxJe0Feuan) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Por Dios Que No \(En Vivo\)](https://open.spotify.com/album/0ygzHrHw25kOmpGyF7QmHe) | 2:45 | 2024-10-18 |  |
+| [Por Que Te Vas](https://open.spotify.com/track/3ygcJRUQlV2SqiB6pBFkQB) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [El Joan](https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ) | [Por Que Te Vas](https://open.spotify.com/album/4fOw7oDBIX0p35fWZlw2XP) | 3:27 | 2024-11-11 |  |
 | [POR QUÉ SERÁ](https://open.spotify.com/track/7cXGHxIoogqDTvbuLj0dsO) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 3:29 | 2024-05-10 |  |
 | [Por Si Un Día Vuelves](https://open.spotify.com/track/1Kse9DjegXSKMVYpXFMBhg) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Por Si Un Día Vuelves](https://open.spotify.com/album/3I4Gw0LjdYKEVne7lF2FZr) | 2:42 | 2022-06-10 | 2022-07-01 |
 | [Porque te fuiste](https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [El Polaco \- Agradeciendo a Dios](https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf) | 3:23 | 2022-12-02 |  |
@@ -279,7 +280,7 @@
 | [Sin Ayuda](https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Sin Ayuda](https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV) | 3:49 | 2022-08-26 | 2022-09-10 |
 | [Son de Amores](https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Amor de Mentiras](https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh) | 2:51 | 2023-04-03 |  |
 | [Soy Favela](https://open.spotify.com/track/0XxzweqYFUrK0bEzrNaQwI) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Soy Favela](https://open.spotify.com/album/1bNDZciqZaZwZLxB7oi0xn) | 3:13 | 2021-12-24 | 2022-02-19 |
-| [Soy Favela \- En Vivo](https://open.spotify.com/track/4G4Ml1TZ2NEKxlbhzS2dPp) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Soy Favela \(En Vivo\)](https://open.spotify.com/album/45vcCBdIHoS8Sil8FZNJlB) | 2:57 | 2024-10-11 |  |
+| [Soy Favela \- En Vivo](https://open.spotify.com/track/4G4Ml1TZ2NEKxlbhzS2dPp) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Soy Favela \(En Vivo\)](https://open.spotify.com/album/45vcCBdIHoS8Sil8FZNJlB) | 2:57 | 2024-10-11 | 2024-11-12 |
 | [Su Florcita](https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:44 | 2021-12-24 |  |
 | [Sueño Encontrarme Con Vos](https://open.spotify.com/track/6gXcMPtHYJr50M76EqyOG3) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Sueño Encontrarme Con Vos](https://open.spotify.com/album/4rhvmFlosE3w7Rvy3Uoxb7) | 3:47 | 2022-01-07 | 2023-02-11 |
 | [TE AMO ♡](https://open.spotify.com/track/2AYwLOhXlychZgVXonufSN) | [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [TE AMO ♡](https://open.spotify.com/album/6bviD87DMgRYC2qqckILTx) | 2:33 | 2024-05-10 |  |

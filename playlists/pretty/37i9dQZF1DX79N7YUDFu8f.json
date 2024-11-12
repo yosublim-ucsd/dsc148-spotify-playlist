@@ -1,13 +1,45 @@
 {
   "description": "Lekker rustig aan doen op zaterdag met deze zachte popliedjes.",
-  "num_followers": 112836,
+  "num_followers": 112825,
   "original_name": "Easy On Saturday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy3QqAAAAAAFb15ZtSfzsz3zhWJ8ZHfd",
+  "snapshot_id": "ZzIPegAAAABo8wgskTpku/cWTE4M2vce",
   "tracks": [
+    {
+      "added_at": "2024-11-08 08:49:44",
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/35WNLrZQLucMaXJ8x0GMYm"
+      },
+      "artists": [
+        {
+          "name": "Marle Thomson",
+          "url": "https://open.spotify.com/artist/0QQXt83k6HdOLRfGmiAZwY"
+        }
+      ],
+      "duration_ms": 158210,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/1Ku0rcSxsvFDpzE6hW597H"
+    },
+    {
+      "added_at": "2024-11-08 08:49:44",
+      "album": {
+        "name": "Cover To Cover",
+        "url": "https://open.spotify.com/album/1J1VVBCKfD92IYfEZFAY9I"
+      },
+      "artists": [
+        {
+          "name": "Nathan Ball",
+          "url": "https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd"
+        }
+      ],
+      "duration_ms": 240250,
+      "name": "Cover To Cover",
+      "url": "https://open.spotify.com/track/4yu891jBP6l633Fy4dBokv"
+    },
     {
       "added_at": "2024-11-08 08:49:44",
       "album": {
@@ -59,22 +91,6 @@
     {
       "added_at": "2024-11-08 08:49:44",
       "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/35WNLrZQLucMaXJ8x0GMYm"
-      },
-      "artists": [
-        {
-          "name": "Marle Thomson",
-          "url": "https://open.spotify.com/artist/0QQXt83k6HdOLRfGmiAZwY"
-        }
-      ],
-      "duration_ms": 158210,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/1Ku0rcSxsvFDpzE6hW597H"
-    },
-    {
-      "added_at": "2024-11-08 08:49:44",
-      "album": {
         "name": "Spring",
         "url": "https://open.spotify.com/album/4jEF8mTXVEJd17oO2FPq29"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 291008,
       "name": "All Is Ours - Acoustic Version",
       "url": "https://open.spotify.com/track/2GiKm519SjcHtETEGsSXwi"
-    },
-    {
-      "added_at": "2024-11-08 08:49:44",
-      "album": {
-        "name": "Cover To Cover",
-        "url": "https://open.spotify.com/album/1J1VVBCKfD92IYfEZFAY9I"
-      },
-      "artists": [
-        {
-          "name": "Nathan Ball",
-          "url": "https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd"
-        }
-      ],
-      "duration_ms": 240250,
-      "name": "Cover To Cover",
-      "url": "https://open.spotify.com/track/4yu891jBP6l633Fy4dBokv"
     },
     {
       "added_at": "2024-11-08 08:49:44",

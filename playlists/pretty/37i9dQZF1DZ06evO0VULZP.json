@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy6mAAAAAABHDgvAvcsKJT51QfdkTBxl",
+  "snapshot_id": "Zy/3gAAAAAC20jcSR9508IvxG1peCyLw",
   "tracks": [
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enjoy",
-        "url": "https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA"
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 196419,
-      "name": "Get the Time",
-      "url": "https://open.spotify.com/track/2ufvmEujQKJmsewWvuvmFn"
+      "duration_ms": 237840,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who We Are",
-        "url": "https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB"
+        "name": "Enjoy",
+        "url": "https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 237840,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0"
+      "duration_ms": 196419,
+      "name": "Get the Time",
+      "url": "https://open.spotify.com/track/2ufvmEujQKJmsewWvuvmFn"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enjoy",
-        "url": "https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 183898,
-      "name": "Cheer",
-      "url": "https://open.spotify.com/track/60PehYqowykS4BzqhE8UEi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9th & Walnut",
         "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 56001,
       "name": "Baby Doncha Know",
       "url": "https://open.spotify.com/track/1JlWpNVAhJ3bh6ofyW5gjU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enjoy",
+        "url": "https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 183898,
+      "name": "Cheer",
+      "url": "https://open.spotify.com/track/60PehYqowykS4BzqhE8UEi"
     },
     {
       "added_at": null,

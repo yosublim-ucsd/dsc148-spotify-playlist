@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Kapo, Manuel Turizo",
-  "num_followers": 964684,
+  "num_followers": 964665,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-11-08 11:58:37",
       "album": {
-        "name": "AUNQUE NO DIGAS NADA",
-        "url": "https://open.spotify.com/album/10LYVh7Y40t39fhiQnIzEX"
-      },
-      "artists": [
-        {
-          "name": "MELER",
-          "url": "https://open.spotify.com/artist/6Gc7QYqGBo1f1KtZJtJHda"
-        }
-      ],
-      "duration_ms": 182969,
-      "name": "AUNQUE NO DIGAS NADA",
-      "url": "https://open.spotify.com/track/5ppADN6WbBHCglJPN6oqII"
-    },
-    {
-      "added_at": "2024-11-08 11:58:37",
-      "album": {
         "name": "En Los Espejos",
         "url": "https://open.spotify.com/album/1WOEma6DSa3TiFD4wIawvc"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 197046,
       "name": "En Los Espejos",
       "url": "https://open.spotify.com/track/4it2e3KPSADwuJumg4C9zz"
+    },
+    {
+      "added_at": "2024-11-08 11:58:37",
+      "album": {
+        "name": "AUNQUE NO DIGAS NADA",
+        "url": "https://open.spotify.com/album/10LYVh7Y40t39fhiQnIzEX"
+      },
+      "artists": [
+        {
+          "name": "MELER",
+          "url": "https://open.spotify.com/artist/6Gc7QYqGBo1f1KtZJtJHda"
+        }
+      ],
+      "duration_ms": 182969,
+      "name": "AUNQUE NO DIGAS NADA",
+      "url": "https://open.spotify.com/track/5ppADN6WbBHCglJPN6oqII"
     },
     {
       "added_at": "2024-11-08 11:58:37",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-11-08 11:58:37",
       "album": {
-        "name": "En El Aire",
-        "url": "https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        },
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "En El Aire",
-      "url": "https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j"
-    },
-    {
-      "added_at": "2024-11-08 11:58:37",
-      "album": {
         "name": "UNA CASA CON JARD\u00cdN",
         "url": "https://open.spotify.com/album/1GXaqoSw6PDqRuXDAZ3VnF"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 156103,
       "name": "Puede K Nos Liemos",
       "url": "https://open.spotify.com/track/6SwuaIsG5cXhP8HD985c1d"
+    },
+    {
+      "added_at": "2024-11-08 11:58:37",
+      "album": {
+        "name": "En El Aire",
+        "url": "https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "En El Aire",
+      "url": "https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j"
     },
     {
       "added_at": "2024-11-08 11:58:37",

@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 41644,
+  "num_followers": 41652,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy6mAAAAAACu07w20ry0JMfuN2lEFXXw",
+  "snapshot_id": "Zy/3gAAAAADqGKBgPUXerNnPQT1hCO7S",
   "tracks": [
     {
       "added_at": null,
@@ -943,6 +943,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/1gmighJ1w3l8qJL8hd7LsA"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/1CPAiHBpTTtHPAlOcVWIwT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Rep\u00fablica",
         "url": "https://open.spotify.com/album/3SSr7Txt7OCcA4D31tRScH"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 182546,
       "name": "Respira",
       "url": "https://open.spotify.com/track/1TMGfpNI1iANwJvplASSa2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/1gmighJ1w3l8qJL8hd7LsA"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/1CPAiHBpTTtHPAlOcVWIwT"
     },
     {
       "added_at": null,

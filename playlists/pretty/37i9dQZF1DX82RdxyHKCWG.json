@@ -1,6 +1,6 @@
 {
   "description": "mais uma na vibe do verdinho / foto: Charlie XCX, Ariana Grande",
-  "num_followers": 611885,
+  "num_followers": 611870,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2024-10-31 00:01:00",
       "album": {
-        "name": "Chasin' (feat. Meghan Trainor)",
-        "url": "https://open.spotify.com/album/5GzcpXxpQsBKJGPX2oDvvj"
-      },
-      "artists": [
-        {
-          "name": "Paris Hilton",
-          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
-        },
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Chasin' (feat. Meghan Trainor)",
-      "url": "https://open.spotify.com/track/4FtJXKZofhG9jt9reeahSg"
-    },
-    {
-      "added_at": "2024-10-31 00:01:00",
-      "album": {
         "name": "Lay Me Down (feat. IZA)",
         "url": "https://open.spotify.com/album/56Qppa3R5hdP06bCBWFDVE"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 253681,
       "name": "Lay Me Down (feat. IZA)",
       "url": "https://open.spotify.com/track/3ymm3O5OgoFy7QX4z9YgtN"
+    },
+    {
+      "added_at": "2024-10-31 00:01:00",
+      "album": {
+        "name": "Chasin' (feat. Meghan Trainor)",
+        "url": "https://open.spotify.com/album/5GzcpXxpQsBKJGPX2oDvvj"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "Chasin' (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/4FtJXKZofhG9jt9reeahSg"
     },
     {
       "added_at": "2024-10-31 00:01:00",

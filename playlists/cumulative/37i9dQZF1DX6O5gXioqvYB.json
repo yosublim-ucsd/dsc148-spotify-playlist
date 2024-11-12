@@ -586,7 +586,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 194909,
       "name": "catramen",
       "url": "https://open.spotify.com/track/5qDSfaviNFKb78IwNWM98g"
@@ -1919,6 +1919,28 @@
     },
     {
       "album": {
+        "name": "MENTRE IL MONDO CORRE (feat. Zeep)",
+        "url": "https://open.spotify.com/album/4zbU9maFlAaeVNxxCWDoOw"
+      },
+      "artists": [
+        {
+          "name": "eroCaddeo",
+          "url": "https://open.spotify.com/artist/20Ue9Vj12Xs29OCe0WCTV5"
+        },
+        {
+          "name": "Zeep",
+          "url": "https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "MENTRE IL MONDO CORRE (feat. Zeep)",
+      "url": "https://open.spotify.com/track/7gF369POATZlU7B6XI6pDc"
+    },
+    {
+      "album": {
         "name": "Milano ad Agosto",
         "url": "https://open.spotify.com/album/6z9FY2DfLruOZsiJIQil4l"
       },
@@ -2489,6 +2511,24 @@
     },
     {
       "album": {
+        "name": "Perdo Il Tuo Amore",
+        "url": "https://open.spotify.com/album/736rTLSkJaCjhRmYwu7ttL"
+      },
+      "artists": [
+        {
+          "name": "Seltsam",
+          "url": "https://open.spotify.com/artist/0stiPQBq14QBNQ1Uc8778V"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164514,
+      "name": "Perdo Il Tuo Amore",
+      "url": "https://open.spotify.com/track/3HHhJGYxGTyyv6qiziryL3"
+    },
+    {
+      "album": {
         "name": "Periferia",
         "url": "https://open.spotify.com/album/5imPI6T7UGse84jzoy1Zcy"
       },
@@ -2930,7 +2970,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 202500,
       "name": "Se crolla il mondo poi ti salvo io",
       "url": "https://open.spotify.com/track/0mqC0ZUnfyzfN6IN3PtNE4"

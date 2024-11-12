@@ -1,6 +1,6 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 104040,
+  "num_followers": 104060,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-08-02 17:21:35",
       "album": {
-        "name": "Sigo Aqu\u00ed",
-        "url": "https://open.spotify.com/album/3FgukOIBEtp48rnJMMnVaX"
-      },
-      "artists": [
-        {
-          "name": "Paula Rivas",
-          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
-        }
-      ],
-      "duration_ms": 240015,
-      "name": "Sigo Aqu\u00ed",
-      "url": "https://open.spotify.com/track/2q51rLcp0nle6esMsJipOn"
-    },
-    {
-      "added_at": "2024-08-02 17:21:35",
-      "album": {
         "name": "Amor de Cuarentena (Urbano)",
         "url": "https://open.spotify.com/album/7oiQXn5G0q5kapu7i62Sn5"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 194374,
       "name": "Amor de Cuarentena - Urbano",
       "url": "https://open.spotify.com/track/7N3XvjdeJ9cz9frgQA0gQ4"
+    },
+    {
+      "added_at": "2024-08-02 17:21:35",
+      "album": {
+        "name": "Sigo Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3FgukOIBEtp48rnJMMnVaX"
+      },
+      "artists": [
+        {
+          "name": "Paula Rivas",
+          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
+        }
+      ],
+      "duration_ms": 240015,
+      "name": "Sigo Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2q51rLcp0nle6esMsJipOn"
     },
     {
       "added_at": "2024-08-02 17:21:35",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2024-08-02 17:21:35",
       "album": {
-        "name": "Ayer Pedi",
-        "url": "https://open.spotify.com/album/2pXbX5czCgui6x2dq6TC5o"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU"
       },
       "artists": [
         {
-          "name": "Natalia Corbal\u00e1n",
-          "url": "https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q"
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
         }
       ],
-      "duration_ms": 205032,
-      "name": "Ayer Pedi",
-      "url": "https://open.spotify.com/track/0Tc0FMFV5Q0cAaXTCSmglI"
+      "duration_ms": 203973,
+      "name": "Lo Que Fui para Ti",
+      "url": "https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw"
     },
     {
       "added_at": "2024-08-02 17:21:35",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-08-02 17:21:35",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU"
+        "name": "Ayer Pedi",
+        "url": "https://open.spotify.com/album/2pXbX5czCgui6x2dq6TC5o"
       },
       "artists": [
         {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+          "name": "Natalia Corbal\u00e1n",
+          "url": "https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q"
         }
       ],
-      "duration_ms": 203973,
-      "name": "Lo Que Fui para Ti",
-      "url": "https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw"
+      "duration_ms": 205032,
+      "name": "Ayer Pedi",
+      "url": "https://open.spotify.com/track/0Tc0FMFV5Q0cAaXTCSmglI"
     },
     {
       "added_at": "2024-08-02 17:21:35",

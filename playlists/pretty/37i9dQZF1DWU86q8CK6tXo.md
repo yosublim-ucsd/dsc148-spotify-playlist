@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Celebrating our EQUAL ambassador Poppy and the women she champions at the top of our list!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,773 likes - 44 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,772 likes - 44 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 19 | [Is This Love](https://open.spotify.com/track/6g9LmVrQJPVYSeBdPVxrrr) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Dotr](https://open.spotify.com/album/4XyaObpQDL61LtLerqAeHx) | 3:57 |
 | 20 | [Hyphae](https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Possessed \(Original Score\)](https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY) | 6:27 |
 | 21 | [Stupid](https://open.spotify.com/track/367CDUovzWoyhxNF18uVrd) | [Lexa Gates](https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu) | [Elite Vessel](https://open.spotify.com/album/4CM64AqgbtDE5kpcJAgi8F) | 3:14 |
-| 22 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 |
-| 23 | [Haunt Me](https://open.spotify.com/track/5zmLRdgheUjzeeL6697YK1) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Haunt Me](https://open.spotify.com/album/4iVeKQ7C5DHranMwzbvCix) | 3:15 |
+| 22 | [Haunt Me](https://open.spotify.com/track/5zmLRdgheUjzeeL6697YK1) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Haunt Me](https://open.spotify.com/album/4iVeKQ7C5DHranMwzbvCix) | 3:15 |
+| 23 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 |
 | 24 | [Sink In](https://open.spotify.com/track/6OiQNUMCLXJtJxOmUsoyFA) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Sink In](https://open.spotify.com/album/6q5HmSWBX2lbGH3SCSZOIe) | 2:16 |
 | 25 | [BLOODMONEY](https://open.spotify.com/track/5SVnsTqXBHhHYLSwULC2nv) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4uTce2w80loIu3oLnW0irN) | 3:02 |
 | 26 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 34 | [Sold](https://open.spotify.com/track/6SvOaMxOZGqSt9qjnZPlo7) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [I Miss You](https://open.spotify.com/album/1T9oAj0JwPfpVPP84Mf6jv) | 2:44 |
 | 35 | [Antes de Ti](https://open.spotify.com/track/0uzZEwZRambYj8Ar6RW3N1) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Antes de Ti](https://open.spotify.com/album/3xRcnSvQXy2zpTdmcJwKf5) | 3:34 |
 | 36 | [Everybody Ate](https://open.spotify.com/track/2AOPRnFQGqUdtEvGuU7fGs) | [Cleotrapa](https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Everybody Ate](https://open.spotify.com/album/6rBBpdKbdlGhbXoaXP0FNi) | 1:52 |
-| 37 | [Coin Toss](https://open.spotify.com/track/4b8QGJe1GVyMxHXUonJIzE) | [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Coin Toss](https://open.spotify.com/album/54vTsluudqEoAOajxKoLwC) | 2:13 |
-| 38 | [LEFT EYE](https://open.spotify.com/track/6V0bEMXp3ZynscGRT3QBiA) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [LEFT EYE](https://open.spotify.com/album/73a0ZoJbegxvZoLe9pMW77) | 2:13 |
+| 37 | [LEFT EYE](https://open.spotify.com/track/6V0bEMXp3ZynscGRT3QBiA) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [LEFT EYE](https://open.spotify.com/album/73a0ZoJbegxvZoLe9pMW77) | 2:13 |
+| 38 | [Coin Toss](https://open.spotify.com/track/4b8QGJe1GVyMxHXUonJIzE) | [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Coin Toss](https://open.spotify.com/album/54vTsluudqEoAOajxKoLwC) | 2:13 |
 | 39 | [afrovay](https://open.spotify.com/track/0u8ONlIp5Ww8GpjsAFLQ7I) | [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H) | [VAYTRIX](https://open.spotify.com/album/2eJUaD1yTAjsLn9Sg1eED2) | 1:58 |
 | 40 | [The Gardener](https://open.spotify.com/track/3dZILL9CJXjOdIs2Bhy3oK) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [The Gardener](https://open.spotify.com/album/1H4kzo0ZeHaH9lVuUkfvbs) | 4:06 |
 | 41 | [LYIN](https://open.spotify.com/track/0dk6WJgNjA2hJF1fGUAd55) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx) | [LYIN](https://open.spotify.com/album/2jnO0El2RTwXuLZi39FVok) | 4:19 |

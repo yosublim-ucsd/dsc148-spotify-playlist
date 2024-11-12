@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,060 songs - 11 day 3 hr 41 min
+7,061 songs - 11 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [amanhecendo](https://open.spotify.com/track/6q1YJhlRvBVD9EJfCZWf2J) | [LYFE](https://open.spotify.com/artist/1dlE0yVbJVrOXJSlHpD6zV) | [Este Céu Bonito](https://open.spotify.com/album/3EZavwo1gshsgEem0R0NVf) | 2:06 | 2023-06-07 | 2023-11-17 |
 | [amayadori](https://open.spotify.com/track/1Uvaa7vMJi5BLmptfLXSbt) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [DNA](https://open.spotify.com/album/2W4AEr7iLE7D9D23r2UsW2) | 3:01 | 2023-08-03 | 2023-08-26 |
 | [Ambedo](https://open.spotify.com/track/3PEkkDJu40k6UfdDJDCx5H) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h), [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4) | [Ambedo](https://open.spotify.com/album/6HVz3InYNFwgO6SlXWcziU) | 2:06 | 2021-12-17 | 2022-07-01 |
+| [Amber Walks](https://open.spotify.com/track/4Iy3Xw38SteZ9uAiorpeeo) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Amber Walks](https://open.spotify.com/album/3rbsHtNdTIzkuZiFlKJCjM) | 2:26 | 2024-11-08 |  |
 | [Ambient Gold](https://open.spotify.com/track/6yXPuvw6Z5ll54ikHsTWJH) | [StreamBeats by Harris Heller](https://open.spotify.com/artist/6GTRLqqiBPUqaOgyxOraHp) | [Ambient Gold](https://open.spotify.com/album/3GDhVJppMlMTmMoKqjlj1t) | 2:43 | 2021-07-11 | 2022-03-12 |
 | [Ambivalence](https://open.spotify.com/track/5AyRcQeWqqC5kaj6L8WHkI) | [D0d.](https://open.spotify.com/artist/6dISDGkIeVuRe5yN4NiwBB) | [Ambivalence](https://open.spotify.com/album/2vdCfgNxbIyTjzn5yJJee9) | 2:22 | 2021-07-17 | 2022-03-12 |
 | [Ambrosia](https://open.spotify.com/track/1WKqKnhAF8RP3aQ0KQRZEm) | [Tethys](https://open.spotify.com/artist/0A4KdVpy2emvZSTw7qBJzv) | [Ambrosia](https://open.spotify.com/album/6IyMfnX5t82q1rsnGohw7D) | 2:12 | 2023-01-06 | 2023-09-16 |
@@ -2684,7 +2685,7 @@
 | [Highland Sun](https://open.spotify.com/track/4AtVKZl198zqSTWRyanskK) | [humble hugo](https://open.spotify.com/artist/6DxiHTkbvxfCK63EZ7M32W) | [Highland Sun](https://open.spotify.com/album/1f6wprppVelLkRBfCFlr1S) | 2:01 | 2024-07-12 | 2024-11-09 |
 | [Highlight](https://open.spotify.com/track/4uYTOiPscwAPkYOZyiOVuU) | [Belinellie](https://open.spotify.com/artist/5pQN7M94XWHOoRTYWHUBX5) | [Highlight](https://open.spotify.com/album/1bWwHRKj5oBimY54dvqD2p) | 1:57 | 2024-10-25 |  |
 | [highlights](https://open.spotify.com/track/4I3NfbJ3J41LhkAILcLx0b) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Loafy Building](https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs) | [highlights](https://open.spotify.com/album/31dAQyUHoJbPPVOX59S7sm) | 2:32 | 2020-04-13 | 2021-05-03 |
-| [Highly Overrated](https://open.spotify.com/track/5ezzEdJswUWJvW2kNZGfFg) | [Fremantle Doctor](https://open.spotify.com/artist/4Y5gklmu7DtgKiCKuPDgBX) | [Highly Overrated](https://open.spotify.com/album/3XrE5bfTCIZ3LCOpTe419l) | 2:22 | 2024-01-19 |  |
+| [Highly Overrated](https://open.spotify.com/track/5ezzEdJswUWJvW2kNZGfFg) | [Fremantle Doctor](https://open.spotify.com/artist/4Y5gklmu7DtgKiCKuPDgBX) | [Highly Overrated](https://open.spotify.com/album/3XrE5bfTCIZ3LCOpTe419l) | 2:22 | 2024-01-19 | 2024-11-12 |
 | [Highway](https://open.spotify.com/track/2lcpXxk1QzI1POmw4Klucc) | [YetBaby](https://open.spotify.com/artist/1JMG5EOlcQdqcbXz7aoiTb) | [Highway](https://open.spotify.com/album/1CTkIeCTuAvUToWfbXqgLi) | 2:02 | 2023-01-13 | 2023-08-26 |
 | [Highway to Shell](https://open.spotify.com/track/1h9AZqUiuQWbnpbUiR3olP) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [Highway to Shell](https://open.spotify.com/album/61ClakUBMQ1Efqa4wolbNs) | 2:20 | 2023-01-13 | 2024-03-01 |
 | [Hills and Horizons](https://open.spotify.com/track/1MfeZZwkOZP5gpCfZCzKiJ) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [Hills and Horizons](https://open.spotify.com/album/7uVXp056ciEBVnddjf7lt5) | 2:05 | 2019-05-27 | 2020-04-08 |

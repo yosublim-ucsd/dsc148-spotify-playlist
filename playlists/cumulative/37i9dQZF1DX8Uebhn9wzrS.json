@@ -16434,7 +16434,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 142222,
       "name": "i think it was november",
       "url": "https://open.spotify.com/track/7D6CD56bThLj54TdC4laLz"
@@ -18902,7 +18902,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-11",
+      "date_removed": null,
       "duration_ms": 158117,
       "name": "Lemon Gardens",
       "url": "https://open.spotify.com/track/3VChI6nBTxw1Jk7f5QRoGU"
@@ -27000,6 +27000,24 @@
       "duration_ms": 140757,
       "name": "Peaches And Cream",
       "url": "https://open.spotify.com/track/14oGzCDd0Vc8zAmy4XZo9s"
+    },
+    {
+      "album": {
+        "name": "Peachy",
+        "url": "https://open.spotify.com/album/1Hy7DveUNMzyX0dxU2BAYS"
+      },
+      "artists": [
+        {
+          "name": "cloud minor",
+          "url": "https://open.spotify.com/artist/3l5LfIhzi10fJD4DJzW4ll"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184870,
+      "name": "Peachy",
+      "url": "https://open.spotify.com/track/2WRKH5AuRG6c0uG1dQs9rh"
     },
     {
       "album": {
@@ -39714,7 +39732,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 173164,
       "name": "wombat",
       "url": "https://open.spotify.com/track/0PXyjded1E0xIDuDphr7EV"

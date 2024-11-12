@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: OG Eastbull,  NOUA UNSPE",
-  "num_followers": 19267,
+  "num_followers": 19274,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
+        "name": "Femei \u00een Parlament",
+        "url": "https://open.spotify.com/album/1uHW21qweyX6zr85irBPaD"
+      },
+      "artists": [
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Femei \u00een Parlament",
+      "url": "https://open.spotify.com/track/2xwMZvVmWGYV4rreWqE2z6"
+    },
+    {
+      "added_at": "2024-11-07 22:00:00",
+      "album": {
         "name": "BEAST MODE +",
         "url": "https://open.spotify.com/album/6zIcb842Cw4ve0UMNsmSFg"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 149169,
       "name": "TELEKOM",
       "url": "https://open.spotify.com/track/0r5Yn0ncQ8p2HRzq0mHJjT"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
-        "name": "Femei \u00een Parlament",
-        "url": "https://open.spotify.com/album/1uHW21qweyX6zr85irBPaD"
-      },
-      "artists": [
-        {
-          "name": "Erika Isac",
-          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Femei \u00een Parlament",
-      "url": "https://open.spotify.com/track/2xwMZvVmWGYV4rreWqE2z6"
     },
     {
       "added_at": "2024-11-07 22:00:00",

@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Col3trane
 
-1,328 songs - 2 day 22 hr 1 min
+1,329 songs - 2 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1088,6 +1088,7 @@
 | [Summertime \(feat\. TOBi\)](https://open.spotify.com/track/0GIAPbemJxaFHt3qYdw4rX) | [Ellery Bonham](https://open.spotify.com/artist/0z0QtIZfyodv4ImXAxEXIH), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Summertime \(feat\. TOBi\)](https://open.spotify.com/album/2d52xhS0xCNiaAOKsEnQDD) | 4:11 | 2022-04-01 | 2022-06-11 |
 | [Sunbleach](https://open.spotify.com/track/0SOqMJNpQyB2QkSaZqUQzV) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Suspension of Disbelief](https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2) | 3:56 | 2022-07-22 | 2023-10-07 |
 | [Sunbleach](https://open.spotify.com/track/4B0tSOfzgqOv75WhlvoZjk) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Sunbleach](https://open.spotify.com/album/1gwNe7KMj8LtVcFsiiq5Sp) | 3:57 | 2022-07-22 | 2022-12-05 |
+| [Sunday](https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Surface Tension](https://open.spotify.com/album/632eFniptp1u6saHBEN06y) | 4:01 | 2024-11-01 |  |
 | [Sundress](https://open.spotify.com/track/5lMa1A2fWhT9YLI2Qee8RV) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Sundress](https://open.spotify.com/album/1hJZPCJvV6wj34IlmFQa0u) | 3:19 | 2021-07-09 | 2022-01-27 |
 | [Sunnie D](https://open.spotify.com/track/04bPOTdO2yOprWu1afxSgy) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Circles](https://open.spotify.com/album/4qnV1lETL7Q41TaqiKqSiN) | 3:46 | 2024-03-15 | 2024-04-06 |
 | [Sunset Drive](https://open.spotify.com/track/1kB9S7aONNR6wa8LhLjRI1) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi) | 3:13 | 2022-02-25 | 2022-04-14 |
@@ -1286,7 +1287,7 @@
 | [Who I Gotta Be](https://open.spotify.com/track/5pw8GzT56mdgDbQL25PqL6) | [oddCouple](https://open.spotify.com/artist/4SNPCk41ou9AgQeMBIEZqi), [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Who I Gotta Be](https://open.spotify.com/album/0ew1GBGpp9n8rfliV3g6Pn) | 4:00 | 2021-06-04 | 2022-01-27 |
 | [WHOSE LOVE \(feat\. Tempest\)](https://open.spotify.com/track/2IM8UcsHElXjQkkhlOuODo) | [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg), [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [WHOSE LOVE \(feat\. Tempest\)](https://open.spotify.com/album/0zHwMqEuRB7AbVFoZ57RW3) | 3:30 | 2022-07-15 | 2022-12-03 |
 | [Why](https://open.spotify.com/track/2eQBMUJcOCsbEKTwHSqAdx) | [Kelz](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Why](https://open.spotify.com/album/3oBQqjDtb8KWw1SBXJllBO) | 2:29 | 2022-10-14 | 2022-12-03 |
-| [Why Would I](https://open.spotify.com/track/7G87YO6TpWofadn8heUvjB) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Why Would I](https://open.spotify.com/album/48u72CmHkG3jCCIvxZuGzs) | 3:21 | 2024-09-27 |  |
+| [Why Would I](https://open.spotify.com/track/7G87YO6TpWofadn8heUvjB) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Why Would I](https://open.spotify.com/album/48u72CmHkG3jCCIvxZuGzs) | 3:21 | 2024-09-27 | 2024-11-12 |
 | [Wild Animals](https://open.spotify.com/track/4JiLpvvnPiQtsf4izF1SQ5) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 3:35 | 2022-11-18 | 2023-10-07 |
 | [Wild Animals](https://open.spotify.com/track/3tr8E4dFE9VIuWbIiwiePE) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Wild Animals](https://open.spotify.com/album/5PNDwa8JmKV8m43Y41HD4m) | 3:38 | 2022-11-18 | 2023-02-19 |
 | [wild horses](https://open.spotify.com/track/32f9jlQeaRl1362WmCdGpm) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [wild horses](https://open.spotify.com/album/7k4dnCbTDEXY74f3Z1UXpI) | 3:15 | 2022-02-25 | 2022-04-24 |

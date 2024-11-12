@@ -1,6 +1,6 @@
 {
   "description": "Hottest indie sound from Asia. Cover: Swellow (Indonesia)",
-  "num_followers": 102552,
+  "num_followers": 102565,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2024-11-08 02:58:58",
       "album": {
-        "name": "Comets (with Petra Sihombing)",
-        "url": "https://open.spotify.com/album/4iba7OSissrRZrmO4awBzC"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        },
-        {
-          "name": "Petra Sihombing",
-          "url": "https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW"
-        }
-      ],
-      "duration_ms": 235026,
-      "name": "Comets (with Petra Sihombing)",
-      "url": "https://open.spotify.com/track/4DORdPh0YOYXrOlPi1qRG5"
-    },
-    {
-      "added_at": "2024-11-08 02:58:58",
-      "album": {
         "name": "Minggu",
         "url": "https://open.spotify.com/album/20BlkwZZJfzNj6xTxPrehi"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 218625,
       "name": "Minggu",
       "url": "https://open.spotify.com/track/29oaLVw5BEusRDauIyCfwK"
+    },
+    {
+      "added_at": "2024-11-08 02:58:58",
+      "album": {
+        "name": "Comets (with Petra Sihombing)",
+        "url": "https://open.spotify.com/album/4iba7OSissrRZrmO4awBzC"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        },
+        {
+          "name": "Petra Sihombing",
+          "url": "https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW"
+        }
+      ],
+      "duration_ms": 235026,
+      "name": "Comets (with Petra Sihombing)",
+      "url": "https://open.spotify.com/track/4DORdPh0YOYXrOlPi1qRG5"
     }
   ],
   "unique_name": ".ORG",

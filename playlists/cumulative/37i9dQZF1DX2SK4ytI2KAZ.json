@@ -1911,6 +1911,24 @@
     },
     {
       "album": {
+        "name": "Colourblind",
+        "url": "https://open.spotify.com/album/47vmh3q3TOtDdLTJPvd9Yk"
+      },
+      "artists": [
+        {
+          "name": "daydreamers",
+          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164473,
+      "name": "Colourblind",
+      "url": "https://open.spotify.com/track/5q1Zaz0jxxPPrU67ddj0us"
+    },
+    {
+      "album": {
         "name": "Come Alive",
         "url": "https://open.spotify.com/album/4wCx7hQCIOVtuN3DkNGhYm"
       },
@@ -10858,7 +10876,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 208374,
       "name": "Vandalist",
       "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"

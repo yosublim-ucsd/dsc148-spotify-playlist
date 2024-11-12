@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: TOSH
 
-1,970 songs - 5 day 2 hr 28 min
+1,971 songs - 5 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1886,7 +1886,7 @@
 | [窓](https://open.spotify.com/track/1kSI2K7ziJRvqqv1pOwJC8) | [The World Will Tear Us Apart](https://open.spotify.com/artist/1GS838TTVSArwgjWcidfYV) | [窓/深呼吸](https://open.spotify.com/album/1ZI5gjnYMMz0wdbVMA1Ssb) | 4:26 | 2023-01-17 | 2023-02-01 |
 | [笑い話の夜 \- album ver.](https://open.spotify.com/track/2x953wBThParvOKoGF0XBR) | [OYAT](https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh) | [笑い話の夜](https://open.spotify.com/album/12yN9ReJFF180pEX2IjEZY) | 4:40 | 2023-07-04 | 2023-08-28 |
 | [素直](https://open.spotify.com/track/5QLvE8IhvVWnDet6lF1Nnw) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [素直](https://open.spotify.com/album/7d9z7Otels1oG91ZVIukAp) | 3:46 | 2024-01-16 | 2024-03-14 |
-| [素直 \- My Favorite Things Ver.](https://open.spotify.com/track/4UT4ZIYNEZGNySxuaRQXD2) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [素直 \(My Favorite Things Ver.\)](https://open.spotify.com/album/1zVYXR52oPGXd2MiJqqwIU) | 3:52 | 2024-10-01 |  |
+| [素直 \- My Favorite Things Ver.](https://open.spotify.com/track/4UT4ZIYNEZGNySxuaRQXD2) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [素直 \(My Favorite Things Ver.\)](https://open.spotify.com/album/1zVYXR52oPGXd2MiJqqwIU) | 3:52 | 2024-10-01 | 2024-11-12 |
 | [紫苑](https://open.spotify.com/track/0tzkqPsJQBm6lvtYp61rT5) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [紫苑](https://open.spotify.com/album/3NgD4PnatrEWfRI88cSA0c) | 4:07 | 2024-06-11 | 2024-06-19 |
 | [経験](https://open.spotify.com/track/0yu9KcjQ7H3TzCG0nLOFOn) | [kumagusu](https://open.spotify.com/artist/13fYVVUSG52q6sTm1Fx3HQ) | [経験](https://open.spotify.com/album/3XIBN10g7e3wsL5naIp77z) | 4:20 | 2023-04-20 | 2023-04-22 |
 | [続・革命前夜](https://open.spotify.com/track/2osm196jE2UjFkwkwvVPTu) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [from JAPAN 3](https://open.spotify.com/album/1rgfecWGctA7ett2HdShmx) | 4:31 | 2023-03-28 | 2023-08-31 |
@@ -1924,6 +1924,7 @@
 | [退屈](https://open.spotify.com/track/4CulQYytgZ04x0VmOiiEMm) | [岩方禄郎](https://open.spotify.com/artist/3jEq7JbIjF58eWoJq4v7jw) | [ナイーブ](https://open.spotify.com/album/6r5L5o6kNLqut9amywovT2) | 2:32 | 2024-04-09 | 2024-04-17 |
 | [逃亡生活](https://open.spotify.com/track/46xFVj1wuk00nmSC5JlC4j) | [Fennel](https://open.spotify.com/artist/1D0gxH3t0FQjWqryWmhjnq) | [Mixed up](https://open.spotify.com/album/1MZlqLkh5VcVNdaUYxQ5zf) | 4:28 | 2023-04-04 | 2023-04-06 |
 | [逆さの目](https://open.spotify.com/track/2V9L9vWjKkNHFMEOTVfwx7) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [逆さの目](https://open.spotify.com/album/5puAlxlPiYU6pt7zZ5Mghu) | 4:14 | 2024-04-16 | 2024-05-01 |
+| [逆らう羽](https://open.spotify.com/track/6Tft44KxfwDbrNUSqT3Rlh) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [逆らう羽](https://open.spotify.com/album/7lGyp88PLnR60gw7HHOkSU) | 3:15 | 2024-11-05 |  |
 | [透明](https://open.spotify.com/track/2eJcQPq8NIdPw0ijl1lZRu) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [透明 / リグレットベイビーズ](https://open.spotify.com/album/7wL6j59eR6K2JL3kF8VhFU) | 4:45 | 2024-04-16 | 2024-09-18 |
 | [透明なぬくもり](https://open.spotify.com/track/2U1dmHyEEcdjPoLXg06tAV) | [Tico Moon](https://open.spotify.com/artist/0VHY3elnwBIM0w4VxT7NPz), [中川 理沙](https://open.spotify.com/artist/777vRijuj99nwWotZD3D5y) | [透明なぬくもり](https://open.spotify.com/album/4XO6MTetKMR09jeqTb0M0m) | 3:17 | 2023-06-20 | 2023-06-22 |
 | [逢った](https://open.spotify.com/track/1xBY50tTkPCVzL2rjj94g3) | [Mama Rag](https://open.spotify.com/artist/7cd0xzKKsg2SrTZ2FPjRL8) | [いつも折々](https://open.spotify.com/album/2OinCGOZxDckSelKGBcX6m) | 2:59 | 2024-02-13 | 2024-02-28 |

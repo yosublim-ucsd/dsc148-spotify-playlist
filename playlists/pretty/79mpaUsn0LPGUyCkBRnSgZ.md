@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 530 songs - 1 day 11 hr 40 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 531 songs - 1 day 11 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -538,5 +538,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 528 | [Laughing Hieroglyphic](https://open.spotify.com/track/0YVDEtkT2SjdR5w7uIFcrj) | [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu) | [Down There](https://open.spotify.com/album/6ttLfw2Z9Wbxu3paarz6h0) | 6:49 |
 | 529 | [STANKA POOH](https://open.spotify.com/track/1mMVC8AsuUUelwopm51Jht) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:01 |
 | 530 | [Phoenix](https://open.spotify.com/track/59NeiWt9ngaQQ9556Qy6vR) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Birdie](https://open.spotify.com/album/7BOqKE9agoJs91LXKd1pNy) | 4:35 |
+| 531 | [Bop Gun \(Endangered Species\)](https://open.spotify.com/track/3fHrnF1MxAZaiGVkGIxM9h) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Funkentelechy Vs\. The Placebo Syndrome](https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd) | 8:35 |
 
-Snapshot ID: `AAAGtg5axPVczODVGtH0MNfC+p2mR2gW`
+Snapshot ID: `AAAGt71q2IEhBhl+EdukR7g4yP9oOzI8`

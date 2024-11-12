@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to the chillest pop.  Cover: grentperez",
-  "num_followers": 1824883,
+  "num_followers": 1824858,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy2MwAAAAAClxILokOzV13JuSoylBlA3",
+  "snapshot_id": "ZzJWOgAAAAD07s9IvyF7xR9m611yOpMB",
   "tracks": [
     {
       "added_at": "2024-11-08 04:00:00",
@@ -157,6 +157,26 @@
       "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
     },
     {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "tell me your feelings and i won\u2019t tell you mine, Pt. 3",
+        "url": "https://open.spotify.com/album/2GzOok7KcgV6tTruIkGUIW"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "Daniel Saint",
+          "url": "https://open.spotify.com/artist/6ob3DmfoxKr8WRuEMP2Wm8"
+        }
+      ],
+      "duration_ms": 184864,
+      "name": "death bed, Pt. 2",
+      "url": "https://open.spotify.com/track/649kk5N2PY67N2TkTBOagZ"
+    },
+    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "The Secret of Us (Deluxe)",
@@ -225,6 +245,22 @@
       "url": "https://open.spotify.com/track/1GmZgx9giHMoqXqYBqbtw7"
     },
     {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 204223,
+      "name": "Soft Spot",
+      "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
+    },
+    {
       "added_at": "2024-08-31 03:39:11",
       "album": {
         "name": "If Only + No One Noticed",
@@ -275,6 +311,38 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Cats on the Ceiling",
+        "url": "https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 213080,
+      "name": "Cats on the Ceiling",
+      "url": "https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Red White and Blue",
+        "url": "https://open.spotify.com/album/3mQKPUtfUbn2E432gqCUGx"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "duration_ms": 234362,
+      "name": "Red White and Blue",
+      "url": "https://open.spotify.com/track/6HZpO5sszbG3zZZSj62Pgt"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Holidays",
         "url": "https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2"
       },
@@ -307,38 +375,6 @@
     {
       "added_at": "2024-11-08 04:00:00",
       "album": {
-        "name": "Red White and Blue",
-        "url": "https://open.spotify.com/album/3mQKPUtfUbn2E432gqCUGx"
-      },
-      "artists": [
-        {
-          "name": "Remy Bond",
-          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
-        }
-      ],
-      "duration_ms": 234362,
-      "name": "Red White and Blue",
-      "url": "https://open.spotify.com/track/6HZpO5sszbG3zZZSj62Pgt"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 204223,
-      "name": "Soft Spot",
-      "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
-    },
-    {
-      "added_at": "2024-11-08 04:00:00",
-      "album": {
         "name": "Season One (Extended)",
         "url": "https://open.spotify.com/album/6AaU5XwlKXPVr46pPnX1WT"
       },
@@ -351,22 +387,6 @@
       "duration_ms": 145178,
       "name": "9 Lives",
       "url": "https://open.spotify.com/track/66tq3X5MuLhQienSSv6qQ3"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Cats on the Ceiling",
-        "url": "https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "Cats on the Ceiling",
-      "url": "https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -465,6 +485,22 @@
       "url": "https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB"
     },
     {
+      "added_at": "2024-11-11 19:08:42",
+      "album": {
+        "name": "Between My Shoulder Blades",
+        "url": "https://open.spotify.com/album/1HKnrZ506RxgF5yw3JJU5A"
+      },
+      "artists": [
+        {
+          "name": "SISTRA",
+          "url": "https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU"
+        }
+      ],
+      "duration_ms": 139146,
+      "name": "Precious",
+      "url": "https://open.spotify.com/track/2SXaTLEInTp47rufBeIlAH"
+    },
+    {
       "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "wasn\u2019t a fighting kid",
@@ -495,26 +531,6 @@
       "duration_ms": 175142,
       "name": "Is This Love To You",
       "url": "https://open.spotify.com/track/2ncHgB3JjvnY4YcoMo8tGl"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "tell me your feelings and i won\u2019t tell you mine, Pt. 3",
-        "url": "https://open.spotify.com/album/2GzOok7KcgV6tTruIkGUIW"
-      },
-      "artists": [
-        {
-          "name": "Powfu",
-          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
-        },
-        {
-          "name": "Daniel Saint",
-          "url": "https://open.spotify.com/artist/6ob3DmfoxKr8WRuEMP2Wm8"
-        }
-      ],
-      "duration_ms": 184864,
-      "name": "death bed, Pt. 2",
-      "url": "https://open.spotify.com/track/649kk5N2PY67N2TkTBOagZ"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1627,22 +1643,6 @@
       "duration_ms": 244750,
       "name": "Those Eyes (feat. Zeph)",
       "url": "https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL"
-    },
-    {
-      "added_at": "2024-08-31 03:39:11",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "added_at": "2024-08-31 03:39:11",

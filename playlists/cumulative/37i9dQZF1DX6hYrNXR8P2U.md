@@ -4,7 +4,7 @@
 
 > Más música, menos etiquetas\.  <br/>📷 La Valenti
 
-360 songs - 19 hr 4 min
+361 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Enamorada](https://open.spotify.com/track/18qskSnKcANSA5hzpQf2Jv) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Enamorada](https://open.spotify.com/album/6OCzzBiS3G9gQg55C6iYUE) | 2:32 | 2024-03-22 | 2024-05-11 |
 | [Entre los Ríos](https://open.spotify.com/track/3lrSfSLn1F0foInNL7PcMd) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [Entre los Ríos](https://open.spotify.com/album/6xTST6W91LlwQ61QQUP9EW) | 2:53 | 2024-06-28 | 2024-08-27 |
 | [Estrecho / Alvarado \(feat\. pablopablo\)](https://open.spotify.com/track/4E6kns35AUSkJhHpXYRRKF) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Estrecho / Alvarado \(feat\. pablopablo\)](https://open.spotify.com/album/1Z3NkOHY0rbefHDkIttPhP) | 2:30 | 2023-10-13 | 2024-08-31 |
+| [EXCUSAS](https://open.spotify.com/track/7jBOCjAHye2oFM3E5mJdNm) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [NAIM](https://open.spotify.com/artist/5w4GJFyat3eunDeVH8j3XZ), [ONIRIA](https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU) | [TRAMPA AL TIEMPO](https://open.spotify.com/album/3UrDufkthGh0Ff88b2Rj77) | 2:44 | 2024-11-11 |  |
 | [Explorador \- Remaster 2022](https://open.spotify.com/track/1TBiwFjWO4bIpP2exPB0vy) | [Fother Muckers](https://open.spotify.com/artist/6FFSTXo40QrNA2tpT1xbq0) | [Explorador \(Remaster 2022\)](https://open.spotify.com/album/6FgCeCeQ2uY7x2EWPDOuGz) | 2:50 | 2023-10-13 | 2024-03-23 |
 | [FANTINO](https://open.spotify.com/track/5dLzWnp0GXZyEFGhreAy9g) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [CULTURA FAMÉLICA](https://open.spotify.com/album/7z8JY0oZEWjeDI055rNyHo) | 3:20 | 2023-11-24 | 2024-01-05 |
 | [FANÁTICO](https://open.spotify.com/track/32fRErxI6gKskZXSbEAAAn) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [FANÁTICO](https://open.spotify.com/album/5S6TLyMgO3WBE3v8FISDOw) | 2:42 | 2024-09-27 | 2024-11-09 |
@@ -156,7 +157,7 @@
 | [LA WEÁ](https://open.spotify.com/track/4hy5vm3FW1Mk6S58vq6MVk) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [LA WEÁ](https://open.spotify.com/album/5JYpBK9MW7ia6Nn95jy0Nv) | 2:50 | 2023-11-10 | 2023-12-09 |
 | [Lago Eterno](https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Lago Eterno](https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC) | 2:08 | 2024-01-19 | 2024-03-09 |
 | [Lara](https://open.spotify.com/track/2kqoM7sKLLN5HDoCB1PNDs) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Cursi](https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC) | 3:18 | 2024-11-08 |  |
-| [Lara](https://open.spotify.com/track/3mR6x2dlGh2w2bDpsa3m5K) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Lara](https://open.spotify.com/album/3EjNrGYV82jkbxCOYMD7D6) | 3:18 | 2024-10-04 |  |
+| [Lara](https://open.spotify.com/track/3mR6x2dlGh2w2bDpsa3m5K) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Lara](https://open.spotify.com/album/3EjNrGYV82jkbxCOYMD7D6) | 3:18 | 2024-10-04 | 2024-11-12 |
 | [Latidos](https://open.spotify.com/track/49594VuIfPaumVx4nRAyTS) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0), [Flor Sz](https://open.spotify.com/artist/2MJCcyWkr1OVFh6stxx2fL) | [Latidos](https://open.spotify.com/album/2IhGHrvpnkKFjNmTGd2Voh) | 3:10 | 2024-06-28 | 2024-10-26 |
 | [Lejos de Todo](https://open.spotify.com/track/6cdvRh5aYQdPdfr18T5Zmc) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Lejos de Todo](https://open.spotify.com/album/4T4AjXYchVi4s3JVTN2GbX) | 2:54 | 2024-03-29 | 2024-05-03 |
 | [Lento Remix \(feat\. Shoda Monkas\)](https://open.spotify.com/track/5N003YTjBFjf6hOmObVIMZ) | [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Shoda Monkas](https://open.spotify.com/artist/3K3u27hhXRoHojEeDHXLAe) | [Lento Remix \(feat\. Shoda Monkas\)](https://open.spotify.com/album/4pwegNA3NTZZnTAl043d28) | 3:50 | 2024-03-22 | 2024-11-09 |

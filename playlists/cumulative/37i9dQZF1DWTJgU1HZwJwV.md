@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-523 songs - 22 hr 10 min
+524 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Seresta](https://open.spotify.com/track/5cTsLgmhCzeBmTO7jPVkfg) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Rain Forest](https://open.spotify.com/album/5VtmbXvAvcBOSc60XRa2Sr) | 2:46 | 2022-06-17 | 2024-07-18 |
 | [Shadows and Sunlight](https://open.spotify.com/track/3b2eNZja0ok5k8QQjn3ezu) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Shadows and Sunlight](https://open.spotify.com/album/48ererOiL22UHujflBgt0r) | 2:56 | 2024-04-05 |  |
 | [Sharing the Message](https://open.spotify.com/track/6uQ455iD5ovinVMKWuGbVu) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Sharing the Message](https://open.spotify.com/album/23Fi6Kuce1QLJOZLjTYwbl) | 2:56 | 2024-04-19 |  |
+| [Shine Over Lakes and Shores](https://open.spotify.com/track/4u4b45LwmUBXoajOZyN37J) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Shine Over Lakes and Shores](https://open.spotify.com/album/3xF5capDJabHZi46IIXtaJ) | 3:00 | 2024-11-11 |  |
 | [Signum](https://open.spotify.com/track/70Z6rUWqzQha0RMFcyJIiJ) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Signum](https://open.spotify.com/album/49dELtri6eKyk7Dq2zIqQB) | 2:35 | 2022-08-12 | 2024-06-28 |
 | [Silent Senses](https://open.spotify.com/track/25OjmtlPiAxOBYVK9RJpEB) | [Jónatan Tinek](https://open.spotify.com/artist/3m1CHyq4P8IYZyEn4A2qVF) | [Silent Senses](https://open.spotify.com/album/6FM9tmXDgP3cOofFRSFZ8b) | 2:19 | 2023-02-24 | 2023-06-23 |
 | [Silver Rain](https://open.spotify.com/track/2cdQ3ro104pXdRecdTdcAT) | [Charles Weller](https://open.spotify.com/artist/1XFRy3zoPzIdsP8yfzXRem) | [Silver Rain](https://open.spotify.com/album/2CPIVrrXY1tHjKgOOxFm4e) | 1:40 | 2022-06-17 | 2023-09-08 |

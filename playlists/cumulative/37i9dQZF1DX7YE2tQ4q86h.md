@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: Lady Gaga
 
-1,120 songs - 2 day 8 hr 9 min
+1,121 songs - 2 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-25 |  |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-23 | 2023-01-28 |
 | [Divine \(Initial Talk Remix\)](https://open.spotify.com/track/0bbfgxEPGboLSUzaqsq66t) | [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6), [Initial Talk](https://open.spotify.com/artist/0YQmcNgfnoqxBMJ8dcw3Eh) | [Divine \(Initial Talk Remix\)](https://open.spotify.com/album/4115ldgtQ5oEjL6aTjNE1o) | 3:03 | 2024-06-07 | 2024-07-19 |
-| [DIVINE CEO](https://open.spotify.com/track/3BPHo1p02WqGa2IEnO6G2H) | [LuLuYam](https://open.spotify.com/artist/4TAg5ckpTlxXLPTJW4eDMo) | [DIVINE CEO](https://open.spotify.com/album/53byhoZELZngPlPwbpOyWb) | 3:41 | 2024-06-21 |  |
+| [DIVINE CEO](https://open.spotify.com/track/3BPHo1p02WqGa2IEnO6G2H) | [LuLuYam](https://open.spotify.com/artist/4TAg5ckpTlxXLPTJW4eDMo) | [DIVINE CEO](https://open.spotify.com/album/53byhoZELZngPlPwbpOyWb) | 3:41 | 2024-06-21 | 2024-11-12 |
 | [Dizzy](https://open.spotify.com/track/4GEmQTg7yfnfZoNhgpCg61) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Dizzy](https://open.spotify.com/album/7rzYlWpOSJKwcDOzW65qdY) | 2:52 | 2024-03-01 | 2024-03-30 |
 | [DJ Play A Christmas Song](https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:29 | 2023-12-01 | 2023-12-23 |
 | [DJ Play A Christmas Song](https://open.spotify.com/track/0ZoBFUJ5ZnFU7K3YZbzNN6) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [DJ Play A Christmas Song](https://open.spotify.com/album/6YPrceRYDOvKzxMFwvR31s) | 4:02 | 2024-11-08 |  |
@@ -944,6 +944,7 @@
 | [Super Graphic Ultra Modern Girl](https://open.spotify.com/track/1rNSCrsOoWyhKH4g47mehU) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:03 | 2023-09-22 | 2024-02-17 |
 | [Superhuman](https://open.spotify.com/track/0beVZzd2zliQ75XNIhTG93) | [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [Superhuman](https://open.spotify.com/album/7LfaJ1Ar48pT5M0h06bOM0) | 3:08 | 2024-07-19 | 2024-08-10 |
 | [SUPERNOVA](https://open.spotify.com/track/7jvkZEpwRRQ7T8cc69EYUQ) | [LEONI](https://open.spotify.com/artist/1XNDFH269CBhe582ubiCgp) | [SUPERNOVA](https://open.spotify.com/album/0LnxiZOAney6adkGRTWFPj) | 2:19 | 2024-02-26 | 2024-05-08 |
+| [Supernova Love](https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Supernova Love](https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X) | 3:19 | 2024-11-11 |  |
 | [SUPERSCAR](https://open.spotify.com/track/5GGA54O0NQK6Bo7nI0cz5k) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [SUPERSCAR](https://open.spotify.com/album/2pElP8JopnqWCAEujfbhBL) | 3:14 | 2024-10-25 |  |
 | [SUPERSTAR](https://open.spotify.com/track/0f4IgvYuSp3Ui1418ZZLoM) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [POP MUSIC](https://open.spotify.com/album/6jyKlst4HrUaxqjVwysHLK) | 2:52 | 2023-12-11 | 2024-03-02 |
 | [Superstitious](https://open.spotify.com/track/1wizHJqbqe0YsAkRWN1QBP) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [Superstitious](https://open.spotify.com/album/0l4Yv8Woti8eZ16wiV5A8H) | 3:07 | 2022-03-18 | 2022-04-29 |

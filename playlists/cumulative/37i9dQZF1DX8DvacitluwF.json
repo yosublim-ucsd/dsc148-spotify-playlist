@@ -6653,6 +6653,24 @@
     },
     {
       "album": {
+        "name": "The Decompress (Solace Edition)",
+        "url": "https://open.spotify.com/album/2sc5qvyUNxiAIqtc6sqy6w"
+      },
+      "artists": [
+        {
+          "name": "Oxii Moron",
+          "url": "https://open.spotify.com/artist/1eMXbPuLhjzGuW8I2p2XXX"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168595,
+      "name": "SYMPHONY",
+      "url": "https://open.spotify.com/track/3Zbn9QI4ErtDqBrhQGudMy"
+    },
+    {
+      "album": {
         "name": "Take It",
         "url": "https://open.spotify.com/album/3WF1FIQKr2vlPcxoPc6zgn"
       },

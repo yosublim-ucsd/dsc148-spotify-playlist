@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:063D0MKbIbbBjKgtYRGBga\">Baasch</a>",
+  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:6dxSlnodoLHLVoeiQ602RM\">DIMoN</a>",
   "name": "GLOW Polska",
   "tracks": [
     {
@@ -700,7 +700,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 279645,
       "name": "Dark Horse",
       "url": "https://open.spotify.com/track/4sMcbKRS6qM1Ogr6p8ugHi"
@@ -891,6 +891,24 @@
     },
     {
       "album": {
+        "name": "Doskonale",
+        "url": "https://open.spotify.com/album/3IqbO4JQwOXpRvht7A1PB7"
+      },
+      "artists": [
+        {
+          "name": "DIMoN",
+          "url": "https://open.spotify.com/artist/6dxSlnodoLHLVoeiQ602RM"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185426,
+      "name": "Do odwa\u017cnych",
+      "url": "https://open.spotify.com/track/4XBhyY0vwANhJKvmHQ8ous"
+    },
+    {
+      "album": {
         "name": "Zabra\u0142a\u015b dziewczyn\u0119 ch\u0142opakom",
         "url": "https://open.spotify.com/album/48UZ39gywPgIMeJlSz2K6G"
       },
@@ -1007,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "Doskonale",
+        "url": "https://open.spotify.com/album/3IqbO4JQwOXpRvht7A1PB7"
+      },
+      "artists": [
+        {
+          "name": "DIMoN",
+          "url": "https://open.spotify.com/artist/6dxSlnodoLHLVoeiQ602RM"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182493,
+      "name": "Drap mnie",
+      "url": "https://open.spotify.com/track/6dkbUSu6hHnWeKtSpHEmAb"
+    },
+    {
+      "album": {
         "name": "DUEL 35 Chamber Orchestra",
         "url": "https://open.spotify.com/album/2BH8azU0tqyYsxhTLt1sPd"
       },
@@ -1100,7 +1136,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 220000,
       "name": "Dziewczyna z NASA",
       "url": "https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK"
@@ -1154,7 +1190,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 122769,
       "name": "Eskortka",
       "url": "https://open.spotify.com/track/0kRjJKYe6URpB5OrL4qKCj"
@@ -1407,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "Go Ahead",
+        "url": "https://open.spotify.com/album/2UwcLxssNdV9cSHh5fY1cT"
+      },
+      "artists": [
+        {
+          "name": "Agata Karczewska",
+          "url": "https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260125,
+      "name": "Go Ahead",
+      "url": "https://open.spotify.com/track/3SD7EAwqjn3xNs1i6rxzJh"
+    },
+    {
+      "album": {
         "name": "Haiku",
         "url": "https://open.spotify.com/album/1utL1XsLZYrQEiLQX8o3qu"
       },
@@ -1458,6 +1512,24 @@
       "duration_ms": 217509,
       "name": "Heatwave",
       "url": "https://open.spotify.com/track/4Id8fcHyGqnOqABDhwlQJ2"
+    },
+    {
+      "album": {
+        "name": "HEAVY ENERGY",
+        "url": "https://open.spotify.com/album/3jk7DGc7bXs9kWqynjlgTJ"
+      },
+      "artists": [
+        {
+          "name": "Filip Sterne",
+          "url": "https://open.spotify.com/artist/1UIsVRTEON2C0CmFKGnmOw"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211759,
+      "name": "HEAVY ENERGY",
+      "url": "https://open.spotify.com/track/26P79iGFemQkismeCgLN4m"
     },
     {
       "album": {
@@ -1526,7 +1598,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 190827,
       "name": "HOTEL",
       "url": "https://open.spotify.com/track/4VBvF9iBuitlLSEKDQR1PW"
@@ -1814,7 +1886,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 128332,
       "name": "Klub Z\u0142amanych Serc",
       "url": "https://open.spotify.com/track/3pfOeXoXWDeLoUSvVagqTM"
@@ -1898,6 +1970,24 @@
       "duration_ms": 217920,
       "name": "Krzykiem",
       "url": "https://open.spotify.com/track/0Ca5dBpD3Ga8FUrceVDcLq"
+    },
+    {
+      "album": {
+        "name": "Lalki",
+        "url": "https://open.spotify.com/album/3AL29eJQHfQWUseAXlpkH1"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Baudelaire",
+          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199668,
+      "name": "Lalki",
+      "url": "https://open.spotify.com/track/5WmMPLNk8ZXkKtUMLjwVn8"
     },
     {
       "album": {
@@ -2995,6 +3085,24 @@
     },
     {
       "album": {
+        "name": "Pies na dw\u00f3ch \u0142apach",
+        "url": "https://open.spotify.com/album/7oLtFXZnMptCi3JAwOBUxs"
+      },
+      "artists": [
+        {
+          "name": "Rejsel",
+          "url": "https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219347,
+      "name": "Pies na dw\u00f3ch \u0142apach",
+      "url": "https://open.spotify.com/track/0Er1O1nOdQKUimUELrZ4Ec"
+    },
+    {
+      "album": {
         "name": "PINOKIO",
         "url": "https://open.spotify.com/album/1INLSAXzlp4hktzm4lWM6l"
       },
@@ -3214,6 +3322,24 @@
       "duration_ms": 179910,
       "name": "Podziemny Slam",
       "url": "https://open.spotify.com/track/38y5b9wZNqA6odUnbpfs8s"
+    },
+    {
+      "album": {
+        "name": "POKOCHA\u0141EM SZARO\u015a\u0106",
+        "url": "https://open.spotify.com/album/7yS8F2fHxnYXQVj9LRh0f6"
+      },
+      "artists": [
+        {
+          "name": "27.Fuckdemons",
+          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125217,
+      "name": "POKOCHA\u0141EM SZARO\u015a\u0106",
+      "url": "https://open.spotify.com/track/1gh7empiAfuMBQXaL88NIv"
     },
     {
       "album": {
@@ -3680,7 +3806,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 229639,
       "name": "rozum/serce",
       "url": "https://open.spotify.com/track/6JE7556vi3OAyL4McVtLN8"
@@ -4520,7 +4646,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-12",
       "duration_ms": 172245,
       "name": "wci\u0105\u017c pami\u0119tam o tobie.",
       "url": "https://open.spotify.com/track/4Z1qMryDH9yO9n0ui1dgFl"

@@ -6,7 +6,7 @@
     "name": "leoyuki",
     "url": "https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw"
   },
-  "snapshot_id": "AAABALqk9xiLqNirC1khgwk6h20l0K96",
+  "snapshot_id": "AAABAfvrg7LMBiQvaQo79iYPMNzYeNEP",
   "tracks": [
     {
       "added_at": "2018-11-27 22:12:08",
@@ -4115,6 +4115,22 @@
       "duration_ms": 149333,
       "name": "Iced Hearts",
       "url": "https://open.spotify.com/track/1OQmASmbZktMZIwC5poBVF"
+    },
+    {
+      "added_at": "2024-11-11 16:28:51",
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0zqQKRQIVWsPqCF4C3s5aZ"
+      },
+      "artists": [
+        {
+          "name": "LORDEHILL",
+          "url": "https://open.spotify.com/artist/5yISVi5vctUp9kcCSsvccs"
+        }
+      ],
+      "duration_ms": 192096,
+      "name": "Hotline Miami",
+      "url": "https://open.spotify.com/track/7rVsTCiWipGrihR04yNb07"
     }
   ],
   "unique_name": "hardwave~phonk",

@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "hello",
+        "url": "https://open.spotify.com/album/2eABHwNwB28HvwMizr0oIF"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178544,
+      "name": "hello",
+      "url": "https://open.spotify.com/track/2kmMx4QOtwBYZGmtc6vhe6"
+    },
+    {
+      "album": {
         "name": "Hold You",
         "url": "https://open.spotify.com/album/580IwtdW0b5aSz7i5jWhYk"
       },
@@ -513,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Into Gold",
+        "url": "https://open.spotify.com/album/7yIJ7abwVOMsviS21jFkeW"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342680,
+      "name": "Into Gold",
+      "url": "https://open.spotify.com/track/2uWJpyxK7gSGdGBLOX4lMV"
+    },
+    {
+      "album": {
         "name": "Lovesongs",
         "url": "https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi"
       },
@@ -621,6 +657,24 @@
     },
     {
       "album": {
+        "name": "little red, little blue",
+        "url": "https://open.spotify.com/album/1Oz14C4aJ9PknMdmcSFKPS"
+      },
+      "artists": [
+        {
+          "name": "la loye",
+          "url": "https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168653,
+      "name": "little red, little blue",
+      "url": "https://open.spotify.com/track/549B1CdMdo8ow94Xrj4gYl"
+    },
+    {
+      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/0YBjEXcSYKyZ1UGzTfvWEf"
       },
@@ -726,6 +780,24 @@
       "duration_ms": 141600,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/5TS7Hcbrjz8JTAgUFIsqoC"
+    },
+    {
+      "album": {
+        "name": "My Love, I'm Only Mad",
+        "url": "https://open.spotify.com/album/1gAxp3FOrALIlOAlUeM4JI"
+      },
+      "artists": [
+        {
+          "name": "Halehan",
+          "url": "https://open.spotify.com/artist/7BFaz82AlJshWc7bxdRn3p"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165040,
+      "name": "My Love, I'm Only Mad",
+      "url": "https://open.spotify.com/track/5EH7kncFVKreSpuQsbOkh0"
     },
     {
       "album": {
@@ -1054,6 +1126,24 @@
       "duration_ms": 129000,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/1ZgX34sRUstfgelZ8mwzGV"
+    },
+    {
+      "album": {
+        "name": "talking to myself",
+        "url": "https://open.spotify.com/album/4Q6zy7BRVEapZ8b0haQ6Tq"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "date_added": "2024-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173953,
+      "name": "talking to myself",
+      "url": "https://open.spotify.com/track/4cJ7PE4KoLaUJg2S1iQMs3"
     },
     {
       "album": {
