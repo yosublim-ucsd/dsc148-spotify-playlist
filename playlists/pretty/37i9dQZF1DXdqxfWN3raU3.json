@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Alvaro Diaz y NATHY PELUSO en portada.",
-  "num_followers": 256110,
+  "num_followers": 256127,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,22 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Carta de Despedida",
-        "url": "https://open.spotify.com/album/1BQAi9dnZNj2102wIIcDzd"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
       },
       "artists": [
         {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         },
         {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        },
-        {
-          "name": "RONNY J",
-          "url": "https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or"
+          "name": "Emy Soul",
+          "url": "https://open.spotify.com/artist/21sN4iJTG840LEqiRJ60Gh"
         }
       ],
-      "duration_ms": 184800,
-      "name": "Carta de Despedida",
-      "url": "https://open.spotify.com/track/7In4Lnz4mpkFkG5zOAzLuE"
+      "duration_ms": 191849,
+      "name": "Down With Me",
+      "url": "https://open.spotify.com/track/4LLqqvlsks9SQ3exoqhk4h"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -299,22 +295,26 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
+        "name": "Carta de Despedida",
+        "url": "https://open.spotify.com/album/1BQAi9dnZNj2102wIIcDzd"
       },
       "artists": [
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
         },
         {
-          "name": "Emy Soul",
-          "url": "https://open.spotify.com/artist/21sN4iJTG840LEqiRJ60Gh"
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "RONNY J",
+          "url": "https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or"
         }
       ],
-      "duration_ms": 191849,
-      "name": "Down With Me",
-      "url": "https://open.spotify.com/track/4LLqqvlsks9SQ3exoqhk4h"
+      "duration_ms": 184800,
+      "name": "Carta de Despedida",
+      "url": "https://open.spotify.com/track/7In4Lnz4mpkFkG5zOAzLuE"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -447,26 +447,6 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Somos 3",
-        "url": "https://open.spotify.com/album/3qJoZo7FtGMg9cdTVvrQLX"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 165545,
-      "name": "Somos 3",
-      "url": "https://open.spotify.com/track/7csEjU6jEvfK606QrqoM0i"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
         "name": "Portales (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 176372,
       "name": "Hood - Remix",
       "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
+        "name": "Somos 3",
+        "url": "https://open.spotify.com/album/3qJoZo7FtGMg9cdTVvrQLX"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 165545,
+      "name": "Somos 3",
+      "url": "https://open.spotify.com/track/7csEjU6jEvfK606QrqoM0i"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -607,26 +607,6 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "LA NOCHE ENTERA",
-        "url": "https://open.spotify.com/album/4eMZ3ADBerlQuAOJ4bYWse"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "COSMIC KID",
-          "url": "https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h"
-        }
-      ],
-      "duration_ms": 150480,
-      "name": "LA NOCHE ENTERA",
-      "url": "https://open.spotify.com/track/5pUS0vJU3QiRtyhQFIkAqy"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
         "name": "PARA AMARTE A TI",
         "url": "https://open.spotify.com/album/1tEOuO5jMejA2FyFr4lSlT"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 215156,
       "name": "PARA AMARTE A TI",
       "url": "https://open.spotify.com/track/5ZMucBMCG8iq0KuEZHLwYy"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
+        "name": "LA NOCHE ENTERA",
+        "url": "https://open.spotify.com/album/4eMZ3ADBerlQuAOJ4bYWse"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "COSMIC KID",
+          "url": "https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h"
+        }
+      ],
+      "duration_ms": 150480,
+      "name": "LA NOCHE ENTERA",
+      "url": "https://open.spotify.com/track/5pUS0vJU3QiRtyhQFIkAqy"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -759,26 +759,22 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Click Clack",
-        "url": "https://open.spotify.com/album/5rHtSYUHWTm6Jr76MVeGAE"
+        "name": "Grillz",
+        "url": "https://open.spotify.com/album/1YH8ILbFvKc6NK5iyblISg"
       },
       "artists": [
         {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         },
         {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Chain Trackz",
-          "url": "https://open.spotify.com/artist/58HXUsUwpjyLNpaKs4gMvM"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 178461,
-      "name": "Click Clack",
-      "url": "https://open.spotify.com/track/0YCWXhQ8rSi03cHRD4UTm6"
+      "duration_ms": 192526,
+      "name": "Grillz",
+      "url": "https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -799,22 +795,26 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Grillz",
-        "url": "https://open.spotify.com/album/1YH8ILbFvKc6NK5iyblISg"
+        "name": "Click Clack",
+        "url": "https://open.spotify.com/album/5rHtSYUHWTm6Jr76MVeGAE"
       },
       "artists": [
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         },
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Chain Trackz",
+          "url": "https://open.spotify.com/artist/58HXUsUwpjyLNpaKs4gMvM"
         }
       ],
-      "duration_ms": 192526,
-      "name": "Grillz",
-      "url": "https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu"
+      "duration_ms": 178461,
+      "name": "Click Clack",
+      "url": "https://open.spotify.com/track/0YCWXhQ8rSi03cHRD4UTm6"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
         "name": "Pobre Diablo",
         "url": "https://open.spotify.com/album/1Z68G3eWNkXwDRmoDSt1WX"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 218297,
       "name": "Pobre Diablo",
       "url": "https://open.spotify.com/track/6Vu7of1zMd1LPoR0ZJuxTY"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1247,46 +1247,6 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Dime Si Tu",
-        "url": "https://open.spotify.com/album/2LkuDGwEPEfOlrU5cmBt43"
-      },
-      "artists": [
-        {
-          "name": "Jey F",
-          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
-        },
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        },
-        {
-          "name": "Fullbrand Music",
-          "url": "https://open.spotify.com/artist/3MIE1H4JzyKU3QHvpAHbfe"
-        }
-      ],
-      "duration_ms": 196823,
-      "name": "Dime Si Tu",
-      "url": "https://open.spotify.com/track/2hiEWGnFqLCJoZvXU9Ozmr"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
-        "name": "Hablas",
-        "url": "https://open.spotify.com/album/2t7SJdhcGT3v1H7Zg3jdMm"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 156013,
-      "name": "Hablas",
-      "url": "https://open.spotify.com/track/7vqNI6EQcCSE8ZCsjeidPE"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
         "name": "real valor",
         "url": "https://open.spotify.com/album/4QTHtqt8GeSHSSGwMwpXU1"
       },
@@ -1311,6 +1271,22 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
+        "name": "Hablas",
+        "url": "https://open.spotify.com/album/2t7SJdhcGT3v1H7Zg3jdMm"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 156013,
+      "name": "Hablas",
+      "url": "https://open.spotify.com/track/7vqNI6EQcCSE8ZCsjeidPE"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
         "name": "1000 cartas / dsps de un faje",
         "url": "https://open.spotify.com/album/7LOo3kTsO24pNoLDzo7DWG"
       },
@@ -1323,6 +1299,30 @@
       "duration_ms": 145479,
       "name": "1000 cartas",
       "url": "https://open.spotify.com/track/7Hw9wfTO1svTy8yjpV9sL7"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
+        "name": "Dime Si Tu",
+        "url": "https://open.spotify.com/album/2LkuDGwEPEfOlrU5cmBt43"
+      },
+      "artists": [
+        {
+          "name": "Jey F",
+          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Fullbrand Music",
+          "url": "https://open.spotify.com/artist/3MIE1H4JzyKU3QHvpAHbfe"
+        }
+      ],
+      "duration_ms": 196823,
+      "name": "Dime Si Tu",
+      "url": "https://open.spotify.com/track/2hiEWGnFqLCJoZvXU9Ozmr"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
+        "name": "Ketamina",
+        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 171063,
+      "name": "Ketamina",
+      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
         "name": "Baby Love",
         "url": "https://open.spotify.com/album/00nK5uQf0AtmjIvMY44wmV"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 190736,
       "name": "Baby Love",
       "url": "https://open.spotify.com/track/1NA7Ctp8bcYha1pegTM3AO"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
-        "name": "Ketamina",
-        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 171063,
-      "name": "Ketamina",
-      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
+        "name": "Corazones en Alm\u00edbar",
+        "url": "https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        }
+      ],
+      "duration_ms": 228803,
+      "name": "Masaryk",
+      "url": "https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
         "name": "LA CLASSE",
         "url": "https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 182400,
       "name": "TU FAN",
       "url": "https://open.spotify.com/track/1jHC95Vb9VOV1BwrwSC6Fc"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
-        "name": "Corazones en Alm\u00edbar",
-        "url": "https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-        }
-      ],
-      "duration_ms": 228803,
-      "name": "Masaryk",
-      "url": "https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE"
     },
     {
       "added_at": "2024-11-08 06:00:00",

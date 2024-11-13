@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV?si=o1jPo2rhTaaOjh\_89rmgqQ">Bonnie &quot;Prince&quot; Billy</a>
 
-1,132 songs - 3 day 5 hr 27 min
+1,133 songs - 3 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -975,6 +975,7 @@
 | [The Harmony](https://open.spotify.com/track/4bWoizeurWxioIenJkguM6) | [James Yorkston](https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw), [Nina Persson](https://open.spotify.com/artist/4nHhXbMpzESguKp9QHap0c), [The Second Hand Orchestra](https://open.spotify.com/artist/452vqsM2fVxZN37P1BZEFh) | [The Harmony](https://open.spotify.com/album/4kpZBm6XlD1TZRU220lj9i) | 4:03 | 2023-01-05 | 2023-02-16 |
 | [The Individual](https://open.spotify.com/track/0Exh17FiF1Nqklg5TSZArt) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [BLUSH](https://open.spotify.com/album/2RmsiWEPNkqtfjbFDi1zqe) | 3:50 | 2022-10-20 | 2022-12-01 |
 | [The King](https://open.spotify.com/track/4F0Mkl0B3C9CGLvEuNAsPA) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [The King](https://open.spotify.com/album/2tADev9pJEwyWxjqE5TAxA) | 3:44 | 2024-01-17 | 2024-02-22 |
+| [The Laugh Is in the Eyes](https://open.spotify.com/track/0rLaqmy7yVAJpysriTYmT1) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [The Laugh Is in the Eyes](https://open.spotify.com/album/4dGlRIF8CjkOzHDxhZeyx2) | 4:35 | 2024-11-12 |  |
 | [The Lazer](https://open.spotify.com/track/62r9v0y9TE0UAMhcb9Mlwd) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Big Love Blanket](https://open.spotify.com/album/2Ocda6SiIopqmd5rzT4SNl) | 3:51 | 2022-11-09 | 2022-12-15 |
 | [The Little Drummer Boy](https://open.spotify.com/track/3PS3si74boOaOC6zxf858B) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [The Little Drummer Boy](https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF) | 2:56 | 2023-11-27 | 2024-02-01 |
 | [The Love Song](https://open.spotify.com/track/5nBzXJfSqVtPKr5rRocFrZ) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [Limerence](https://open.spotify.com/album/30NW57xIH28DZUSf3L8eLX) | 4:29 | 2023-02-15 | 2023-03-30 |

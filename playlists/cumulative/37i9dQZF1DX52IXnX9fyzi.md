@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-499 songs - 21 hr 35 min
+500 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Day In June](https://open.spotify.com/track/0AlsRtqib2JbMHDWvcDrus) | [Half Giant](https://open.spotify.com/artist/3nEq4JXO2GPqB7n95OacSk) | [A Day In June](https://open.spotify.com/album/7ssXeTKWZ23Y7g6CKzKrvd) | 2:00 | 2023-08-22 |  |
 | [A Dead Sea's Ripples](https://open.spotify.com/track/2cRAkZZruWU1FfeEi2dCez) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [A Dead Sea's Ripples](https://open.spotify.com/album/1RkYa0eVp8mBZCCLAQpbtx) | 3:00 | 2023-08-01 |  |
 | [A Doubtful Certainty](https://open.spotify.com/track/1bCcKaGOJn18gVkbCSjoxY) | [Willow J\. Wilson](https://open.spotify.com/artist/5V2XzGtcdmXM5QZq2wnH0T) | [A Doubtful Certainty](https://open.spotify.com/album/73dfjyA1yfmiSvfSpWx43J) | 2:40 | 2022-04-14 | 2022-05-05 |
-| [A Fraction Of Time](https://open.spotify.com/track/2Jo7Yt5gcwtnBXMuylLH3c) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [A Fraction Of Time](https://open.spotify.com/album/2kBh0yDsnb1cUsX6835lgz) | 2:43 | 2022-05-13 |  |
+| [A Fraction Of Time](https://open.spotify.com/track/2Jo7Yt5gcwtnBXMuylLH3c) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [A Fraction Of Time](https://open.spotify.com/album/2kBh0yDsnb1cUsX6835lgz) | 2:43 | 2022-05-13 | 2024-11-13 |
 | [A Gentle Place](https://open.spotify.com/track/2kgwWNOn9IUCoQuJIReVUH) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [A Gentle Place](https://open.spotify.com/album/2m1Abw0Fac9M57oaStSyaw) | 2:13 | 2023-08-22 |  |
 | [A Glance From His Brown & Blue Eyes](https://open.spotify.com/track/3wbUNzYewaXXPMqeKZvl8I) | [Aramis Silvereke](https://open.spotify.com/artist/11efnmWuN6PImMPmQjAfKq) | [A Glance From His Brown & Blue Eyes](https://open.spotify.com/album/0ZwZThQ3XiWXWNw8xF06hF) | 4:00 | 2022-05-04 | 2024-10-02 |
 | [A Love Note](https://open.spotify.com/track/7qWt0c0tCp5lc97qAdtaFV) | [Thibaud Fleming](https://open.spotify.com/artist/6QE5XI9fz7xt4jDwOqYceT) | [A Love Note](https://open.spotify.com/album/0MMN8nn4yVttrCm5AV8smU) | 2:06 | 2023-11-07 |  |
@@ -505,6 +505,7 @@
 | [You are the Dawn](https://open.spotify.com/track/4m6BNOOeufJeAElDXDzTrC) | [Nils Holst](https://open.spotify.com/artist/27z0XKKaGHO2Td9eF2lSw2) | [You are the Dawn](https://open.spotify.com/album/08qNZ9PVd4nQZ8zNWudeTA) | 2:01 | 2024-03-04 |  |
 | [You Name It](https://open.spotify.com/track/4eFAsz4mMrJiFRGqgghYPj) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Day](https://open.spotify.com/album/5BmyU03YgggujG5J2gEfLM) | 7:43 | 2024-04-03 |  |
 | [Your Heart Will Mend](https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Your Heart Will Mend](https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG) | 2:26 | 2022-04-14 | 2024-02-15 |
+| [Your Love](https://open.spotify.com/track/6RpzFmRfyEz2D4Y2k7Z1KA) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Your Love](https://open.spotify.com/album/5MojebLBYysmuT1qBZTWYX) | 2:43 | 2024-11-12 |  |
 | [à Gauche](https://open.spotify.com/track/5HEdhvXyFdSy1IxlX6c6nM) | [Pablo Jean Baptiste](https://open.spotify.com/artist/5gtl7HjPLF8fDkzHiAyfnV) | [à Gauche](https://open.spotify.com/album/66F48yfYfHtqgtlKXRS88V) | 2:06 | 2022-10-26 |  |
 | [Élysées](https://open.spotify.com/track/4qryC4q42GfAwWcC11HQHl) | [Ella Stark](https://open.spotify.com/artist/1MCorvkVV2ldv9FraZpH5u) | [Élysées](https://open.spotify.com/album/4eAfqgEw2nTCEd9dixZ2wG) | 2:13 | 2022-04-14 | 2024-03-05 |
 

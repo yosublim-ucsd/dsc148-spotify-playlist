@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-743 songs - 1 day 7 hr 39 min
+744 songs - 1 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,7 @@
 | [Mindwalking](https://open.spotify.com/track/2rCLuWRwCka6nCMOYJintR) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Mindwalking](https://open.spotify.com/album/2faqfHbeTfp4gz1SmMYOTC) | 2:11 | 2023-04-21 | 2024-10-02 |
 | [Mineral](https://open.spotify.com/track/0TOLxJTPhAkvqg9GfnjstG) | [Albert Wenmo](https://open.spotify.com/artist/3oRcts32YJGp3vx0U7ZyKf) | [Mineral](https://open.spotify.com/album/0Yua0C6bonDdLCp0FV4fC4) | 1:27 | 2023-04-21 | 2023-08-26 |
 | [Mistelbach](https://open.spotify.com/track/1OybgjNojqon6OnKdglQqQ) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Mistelbach](https://open.spotify.com/album/17gWtxW48Wan5M9DBCorbz) | 2:30 | 2023-04-21 | 2023-06-03 |
-| [Misteriosa](https://open.spotify.com/track/4m8RD2JvsaH13RwZd9EmGd) | [Tor Dahl](https://open.spotify.com/artist/5GfnXcZhvTgsNpj5U1CkBU) | [Misteriosa](https://open.spotify.com/album/6e7EoYmMdJ7Wo5ZVUu9N1e) | 2:38 | 2023-04-21 |  |
+| [Misteriosa](https://open.spotify.com/track/4m8RD2JvsaH13RwZd9EmGd) | [Tor Dahl](https://open.spotify.com/artist/5GfnXcZhvTgsNpj5U1CkBU) | [Misteriosa](https://open.spotify.com/album/6e7EoYmMdJ7Wo5ZVUu9N1e) | 2:38 | 2023-04-21 | 2024-11-13 |
 | [Misty Mountain](https://open.spotify.com/track/4P3uK33fTyCysCh6S4psZd) | [Auguste Henrique](https://open.spotify.com/artist/4vhZAxV71kt6sNrFiGOBgL) | [Misty Mountain](https://open.spotify.com/album/13dlAe1Ubv4SvX9ZClmyXb) | 2:17 | 2023-04-21 | 2023-06-03 |
 | [Moi, toi et elle](https://open.spotify.com/track/4SQWZnUxFl825pqhyWrKJd) | [Jourdain Hume](https://open.spotify.com/artist/60PchiK8jssOvwkHk8By6Q) | [Moi, toi et elle](https://open.spotify.com/album/6OSDdIhJhjaudk4cWncSG3) | 2:44 | 2023-04-21 | 2023-06-03 |
 | [Moments](https://open.spotify.com/track/1GgytkMdKCMIhzDcPHTJMX) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Moments](https://open.spotify.com/album/0841nT5RLsINf4vERrhMrB) | 2:19 | 2024-01-12 |  |
@@ -700,6 +700,7 @@
 | [Valleys](https://open.spotify.com/track/3eGCdIAHs9Wakiv3Ockrzr) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Valleys](https://open.spotify.com/album/0dY2ExvYQ5p9DP7KG5Ccxc) | 2:35 | 2023-04-21 | 2024-11-07 |
 | [Vals del Poniente](https://open.spotify.com/track/0qV4MeBsY9MvlMVoIGMXi0) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ), [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Vals del Poniente](https://open.spotify.com/album/1LsfF1UWdBt9D0VrNfL6rE) | 2:02 | 2022-07-15 | 2022-10-29 |
 | [Valsa e Vinho](https://open.spotify.com/track/4992uwyEYOstUKzPgdPVR3) | [Nelson Gomes](https://open.spotify.com/artist/1OSiaLKfv7utlBDRS3Qr31) | [Valsa e Vinho](https://open.spotify.com/album/0LNkP579n9idgfPSrTObSV) | 2:38 | 2022-07-15 | 2023-05-13 |
+| [Vanguard](https://open.spotify.com/track/3uCREKtnCEWCI4vLiSZKbo) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Vanguard](https://open.spotify.com/album/2xmUjNUTcThauPojbHLaVL) | 2:21 | 2024-11-11 |  |
 | [Velvet Morning](https://open.spotify.com/track/6YNlei2JlZDPL0E0PgEiK1) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Velvet Morning](https://open.spotify.com/album/6E4YOwkbhPKrMYsFiCPACh) | 2:28 | 2022-08-19 | 2023-04-22 |
 | [Ven Tal Como Eres](https://open.spotify.com/track/0ui3M3a6TtLgxH5R7Kntvv) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [Ven Tal Como Eres](https://open.spotify.com/album/5TLxpycYjiy0YippNmsFNf) | 1:38 | 2023-04-21 | 2023-08-26 |
 | [Veracity](https://open.spotify.com/track/49RUCdpg6fvClNHxI6HB3x) | [Adrian Strohm](https://open.spotify.com/artist/1Rs3hpkbsgsgFiavB9Id1i) | [Veracity](https://open.spotify.com/album/5mpEiRXZhlx8DHuoDbdr6u) | 1:42 | 2023-04-21 | 2023-08-26 |

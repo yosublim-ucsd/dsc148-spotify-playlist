@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: mxmtoon
 
-1,997 songs - 4 day 9 hr 35 min
+1,998 songs - 4 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [24](https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [24](https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR) | 4:06 | 2024-01-12 | 2024-05-27 |
 | [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 | 2021-10-08 | 2022-12-22 |
 | [25/8](https://open.spotify.com/track/1rMsNUMDEp6pLOJ5BcznsF) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Deadpan Love \(Deluxe\)](https://open.spotify.com/album/5bVpGSaFPrZuduNCXrmsqO) | 2:38 | 2022-02-25 | 2022-08-03 |
+| [2DK](https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [2DK](https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv) | 3:16 | 2024-11-08 |  |
 | [2lovely](https://open.spotify.com/track/5E0yYdXdw4Lp8ffTA0KqEX) | [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [2lovely](https://open.spotify.com/album/44T9VnAR20oFiq4BvMzgzE) | 3:04 | 2021-02-24 | 2021-05-21 |
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-02-17 | 2024-05-18 |
 | [4runner](https://open.spotify.com/track/6k0eaZimYD82ZfYXxg9s9E) | [prettyboyshav](https://open.spotify.com/artist/1HWOzNVECZuzwhpmQ36RvO) | [4runner](https://open.spotify.com/album/3AUr3X0sPqg83RcXi0OwqF) | 4:08 | 2021-01-12 | 2022-04-12 |
@@ -518,7 +519,7 @@
 | [doomsday](https://open.spotify.com/track/6bpZMLiRQDm2XcjZudu3xV) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 4:28 | 2022-09-23 | 2022-10-13 |
 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 | 2021-05-12 | 2022-04-10 |
 | [Doppelgänger](https://open.spotify.com/track/1q9jh0Ov1tk9aaxFVaYzkC) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Doppelgänger](https://open.spotify.com/album/4teZN2PzvrzgLyQ41rO3OH) | 2:52 | 2023-07-21 | 2023-07-29 |
-| [Doug Fir](https://open.spotify.com/track/2sNzDHc3e7J7QbW1Cstkr1) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Oregon Coast](https://open.spotify.com/album/6zccNwsj1cvQe36GJEmqsY) | 3:09 | 2024-09-20 |  |
+| [Doug Fir](https://open.spotify.com/track/2sNzDHc3e7J7QbW1Cstkr1) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Oregon Coast](https://open.spotify.com/album/6zccNwsj1cvQe36GJEmqsY) | 3:09 | 2024-09-20 | 2024-11-13 |
 | [Dover Beach](https://open.spotify.com/track/24xZVbTSffURaVwGfiVTOu) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Dover Beach](https://open.spotify.com/album/3cF6aotAMfbdocJDA2fLjU) | 3:38 | 2021-05-05 | 2021-10-11 |
 | [Dover Beach](https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 3:38 | 2022-04-29 | 2022-12-10 |
 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 | 2024-03-15 | 2024-07-06 |

@@ -1,6 +1,6 @@
 {
   "description": "Please stand for your personal anthems. Cover: blink-182",
-  "num_followers": 3017610,
+  "num_followers": 3017620,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "Still into You",
-      "url": "https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
         "name": "The Black Parade",
         "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 161920,
       "name": "Teenagers",
       "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "Still into You",
+      "url": "https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d"
     },
     {
       "added_at": "2023-02-10 16:26:23",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 311106,
+      "name": "Welcome to the Black Parade",
+      "url": "https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
         "name": "Take Off Your Pants And Jacket",
         "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 197986,
       "name": "Stacy's Mom",
       "url": "https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 311106,
-      "name": "Welcome to the Black Parade",
-      "url": "https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg"
     },
     {
-      "added_at": "2023-02-10 16:26:23",
-      "album": {
-        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 149786,
-      "name": "I Wanna Be Sedated",
-      "url": "https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL"
-    },
-    {
       "added_at": "2023-01-25 14:57:38",
       "album": {
         "name": "A Hangover You Don't Deserve",
@@ -731,6 +715,22 @@
       "duration_ms": 193000,
       "name": "1985",
       "url": "https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ"
+    },
+    {
+      "added_at": "2023-02-10 16:26:23",
+      "album": {
+        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 149786,
+      "name": "I Wanna Be Sedated",
+      "url": "https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1393,38 +1393,6 @@
       "url": "https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK"
     },
     {
-      "added_at": "2023-02-10 16:26:23",
-      "album": {
-        "name": "Punk In Drublic",
-        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 130266,
-      "name": "Linoleum",
-      "url": "https://open.spotify.com/track/4uB28m7RAflobYpnLMb6A2"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "The Chronicles of Life and Death (\"LIFE\" version)",
-        "url": "https://open.spotify.com/album/6Qbaq8mJBFOV30nBMmqLxc"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "I Just Wanna Live",
-      "url": "https://open.spotify.com/track/5TjwiYZVMHVrGvRzbeCaV7"
-    },
-    {
       "added_at": "2023-01-25 14:57:38",
       "album": {
         "name": "weird!",
@@ -1443,6 +1411,38 @@
       "duration_ms": 191066,
       "name": "acting like that (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/1Pv3rDsjRl98xEQC56p8A0"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "The Chronicles of Life and Death (\"LIFE\" version)",
+        "url": "https://open.spotify.com/album/6Qbaq8mJBFOV30nBMmqLxc"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "I Just Wanna Live",
+      "url": "https://open.spotify.com/track/5TjwiYZVMHVrGvRzbeCaV7"
+    },
+    {
+      "added_at": "2023-02-10 16:26:23",
+      "album": {
+        "name": "Punk In Drublic",
+        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 130266,
+      "name": "Linoleum",
+      "url": "https://open.spotify.com/track/4uB28m7RAflobYpnLMb6A2"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1557,6 +1557,22 @@
       "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
     },
     {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "With Confidence",
+        "url": "https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp"
+      },
+      "artists": [
+        {
+          "name": "With Confidence",
+          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
+        }
+      ],
+      "duration_ms": 177220,
+      "name": "What You Make It",
+      "url": "https://open.spotify.com/track/2eXSPTZmhkXRGob1hsFdVd"
+    },
+    {
       "added_at": "2023-02-10 16:26:23",
       "album": {
         "name": "Hello Rockview",
@@ -1575,18 +1591,18 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "With Confidence",
-        "url": "https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp"
+        "name": "fever",
+        "url": "https://open.spotify.com/album/4MwOuqjdK7OP1xaRPo83xT"
       },
       "artists": [
         {
-          "name": "With Confidence",
-          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
         }
       ],
-      "duration_ms": 177220,
-      "name": "What You Make It",
-      "url": "https://open.spotify.com/track/2eXSPTZmhkXRGob1hsFdVd"
+      "duration_ms": 197209,
+      "name": "weapon",
+      "url": "https://open.spotify.com/track/5z0QlOV93W6Yo7DG2SYOJP"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1603,22 +1619,6 @@
       "duration_ms": 203733,
       "name": "Like We Used To",
       "url": "https://open.spotify.com/track/1fkYmLPG2Oi2AkUmcspWKl"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "fever",
-        "url": "https://open.spotify.com/album/4MwOuqjdK7OP1xaRPo83xT"
-      },
-      "artists": [
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        }
-      ],
-      "duration_ms": 197209,
-      "name": "weapon",
-      "url": "https://open.spotify.com/track/5z0QlOV93W6Yo7DG2SYOJP"
     },
     {
       "added_at": "2023-01-25 14:57:38",

@@ -18523,6 +18523,24 @@
     },
     {
       "album": {
+        "name": "The Laugh Is in the Eyes",
+        "url": "https://open.spotify.com/album/4dGlRIF8CjkOzHDxhZeyx2"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275584,
+      "name": "The Laugh Is in the Eyes",
+      "url": "https://open.spotify.com/track/0rLaqmy7yVAJpysriTYmT1"
+    },
+    {
+      "album": {
         "name": "Big Love Blanket",
         "url": "https://open.spotify.com/album/2Ocda6SiIopqmd5rzT4SNl"
       },

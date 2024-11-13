@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,990 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,578 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 16 | [Skating \(From "A Charlie Brown Christmas"\)](https://open.spotify.com/track/5KWaPLKMq7KIeuBwCw6WUu) | [Luke Pickman](https://open.spotify.com/artist/2eRZreWzshEqtyBvlqmE93), [Moisés Nieto](https://open.spotify.com/artist/6i5jeqNyrzyfDwIiAfNdyF) | [Skating \(From "A Charlie Brown Christmas"\)](https://open.spotify.com/album/3mVdS138yyCiejNGfKiuuY) | 2:47 |
 | 17 | [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 |
 | 18 | [Let It Snow! \- 10th Anniversary](https://open.spotify.com/track/5YBmVtkeoRdxU1GhRDrxuz) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Let It Snow! \(10th Anniversary\)](https://open.spotify.com/album/17Qr6J860gp3HrESuJ5D2M) | 2:39 |
-| 19 | [God Rest Ye Merry Gentlemen \(Spotify Singles Holiday\)](https://open.spotify.com/track/5U1edKpf8zZ04KtkvBOvbu) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [God Rest Ye Merry Gentlemen \(Spotify Singles Holiday\)](https://open.spotify.com/album/6gwykwTqf7AToBqlTgYSbJ) | 3:35 |
+| 19 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/5U1edKpf8zZ04KtkvBOvbu) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [God Rest Ye Merry Gentlemen \(Spotify Singles Holiday\)](https://open.spotify.com/album/6gwykwTqf7AToBqlTgYSbJ) | 3:35 |
 | 20 | [Warm In December \- Edit](https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Warm In December \(Edit\)](https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM) | 2:41 |
 | 21 | [O Tannenbaum](https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 5:09 |
 | 22 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 |

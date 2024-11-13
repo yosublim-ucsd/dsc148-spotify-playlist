@@ -695,6 +695,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "Pirret",
+        "url": "https://open.spotify.com/album/5zvIrBTquTxatX4YerGuzM"
+      },
+      "artists": [
+        {
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+        }
+      ],
+      "duration_ms": 260079,
+      "name": "Pirret",
+      "url": "https://open.spotify.com/track/5ign6ygkGPmRsfJiRnU84g"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "Sanna Mina Ord",
         "url": "https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 249423,
       "name": "Sanna Mina Ord",
       "url": "https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "Pirret",
-        "url": "https://open.spotify.com/album/5zvIrBTquTxatX4YerGuzM"
-      },
-      "artists": [
-        {
-          "name": "Antonio D",
-          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
-        }
-      ],
-      "duration_ms": 260079,
-      "name": "Pirret",
-      "url": "https://open.spotify.com/track/5ign6ygkGPmRsfJiRnU84g"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Sverigefiende (Fest mot v\u00e5ldsgrupp)",
-        "url": "https://open.spotify.com/album/1jFdSfYFWx0qE3OsZ4iPjG"
-      },
-      "artists": [
-        {
-          "name": "Promoe",
-          "url": "https://open.spotify.com/artist/6tbXwhqy3WAFqanusCLvEU"
-        }
-      ],
-      "duration_ms": 206853,
-      "name": "Sverigefiende (Fest mot v\u00e5ldsgrupp)",
-      "url": "https://open.spotify.com/track/14MW91DLP58duFYEGP8q7b"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "V\u00e4nda Trend",
         "url": "https://open.spotify.com/album/2gjkIVufFubK1AFtxuE3Pg"
       },
@@ -811,6 +795,42 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "Sverigefiende (Fest mot v\u00e5ldsgrupp)",
+        "url": "https://open.spotify.com/album/1jFdSfYFWx0qE3OsZ4iPjG"
+      },
+      "artists": [
+        {
+          "name": "Promoe",
+          "url": "https://open.spotify.com/artist/6tbXwhqy3WAFqanusCLvEU"
+        }
+      ],
+      "duration_ms": 206853,
+      "name": "Sverigefiende (Fest mot v\u00e5ldsgrupp)",
+      "url": "https://open.spotify.com/track/14MW91DLP58duFYEGP8q7b"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Fr\u00e5n och med Du",
+        "url": "https://open.spotify.com/album/4roiBkmOkDwfZHpI6spw6G"
+      },
+      "artists": [
+        {
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+        },
+        {
+          "name": "Wha Gwaan Band",
+          "url": "https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Fr\u00e5n och med Du",
+      "url": "https://open.spotify.com/track/2wStsM878RWyPXv0yMfpca"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "Orginalo",
         "url": "https://open.spotify.com/album/0a1g53YRYvik2nmVEKqBZq"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 186666,
       "name": "Orginalo",
       "url": "https://open.spotify.com/track/5EsssUXKQWbRPSZ7M1i9kN"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "H\u00e5ll i dig",
-        "url": "https://open.spotify.com/album/17xGFARAsqJOvJrETeHtiM"
-      },
-      "artists": [
-        {
-          "name": "Wagwan",
-          "url": "https://open.spotify.com/artist/3bKrQHdvYEghluLdK63GpS"
-        },
-        {
-          "name": "Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "H\u00e5ll i dig",
-      "url": "https://open.spotify.com/track/2MrxF1kIwTtWFzpGYm2aYd"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -871,22 +871,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Fr\u00e5n och med Du",
-        "url": "https://open.spotify.com/album/4roiBkmOkDwfZHpI6spw6G"
+        "name": "H\u00e5ll i dig",
+        "url": "https://open.spotify.com/album/17xGFARAsqJOvJrETeHtiM"
       },
       "artists": [
         {
-          "name": "Antonio D",
-          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+          "name": "Wagwan",
+          "url": "https://open.spotify.com/artist/3bKrQHdvYEghluLdK63GpS"
         },
         {
-          "name": "Wha Gwaan Band",
-          "url": "https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG"
+          "name": "Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Fr\u00e5n och med Du",
-      "url": "https://open.spotify.com/track/2wStsM878RWyPXv0yMfpca"
+      "duration_ms": 198500,
+      "name": "H\u00e5ll i dig",
+      "url": "https://open.spotify.com/track/2MrxF1kIwTtWFzpGYm2aYd"
     },
     {
       "added_at": "2024-06-24 11:19:01",

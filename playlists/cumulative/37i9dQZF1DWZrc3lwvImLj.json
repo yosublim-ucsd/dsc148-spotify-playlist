@@ -4287,6 +4287,24 @@
     },
     {
       "album": {
+        "name": "No borders",
+        "url": "https://open.spotify.com/album/2vjcO7FPmXU1NQeVltwZKi"
+      },
+      "artists": [
+        {
+          "name": "Delaney & Delaney",
+          "url": "https://open.spotify.com/artist/6ypSxIupxGZQdQdv0ESPwW"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "No borders",
+      "url": "https://open.spotify.com/track/6O9LAJMUgbtw2z8AdAiTin"
+    },
+    {
+      "album": {
         "name": "Nocturnal",
         "url": "https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK"
       },
@@ -6374,7 +6392,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 171992,
       "name": "The Last Falling Leaves",
       "url": "https://open.spotify.com/track/4n3FI6GHSd8HFhpiCqqF3s"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 
 > Releases from the legendary Blues label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,027 likes - 52 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,041 likes - 52 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 | 38 | [I Can Love You Like A Woman \(Or I Can Fight You Like A Man\)](https://open.spotify.com/track/2OAFshgrBDMtr2IsOVEpdu) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Queen Of The Blues](https://open.spotify.com/album/0GXwSbl0Q1cZDHL1EIE2oa) | 3:52 |
 | 39 | [My Time After A While](https://open.spotify.com/track/0wluTX9lMR6MxlZyPsclHi) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Serious Business](https://open.spotify.com/album/30XtgsTePORy5sbslFewYU) | 6:17 |
 | 40 | [Common Ground](https://open.spotify.com/track/5mYTMvpelyTc6U87xtzQDh) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Alligator Records 45th Anniversary Collection](https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B) | 4:14 |
-| 41 | [Cotton Picking Blues](https://open.spotify.com/track/307jtIKjrlwtWiSQR6v6YF) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Alligator Records 45th Anniversary Collection](https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B) | 4:39 |
-| 42 | [The Fool You're Looking For](https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:08 |
+| 41 | [The Fool You're Looking For](https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:08 |
+| 42 | [Cotton Picking Blues](https://open.spotify.com/track/307jtIKjrlwtWiSQR6v6YF) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Alligator Records 45th Anniversary Collection](https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B) | 4:39 |
 | 43 | [Born In Chicago](https://open.spotify.com/track/0lpcT3fUjEqzArcsR2mf4d) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Live From Chicago \- Mr\. Superharp Himself!](https://open.spotify.com/album/4yM4z52eGLBQiO62J4iCRv) | 3:06 |
 | 44 | [The Road Is So Long](https://open.spotify.com/track/1QXLlIOl49faZia60gnrQT) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs), [Lurrie Bell](https://open.spotify.com/artist/4l8tDkcTwCBeLrQPk5lEU3) | [Alligator Records 45th Anniversary Collection](https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B) | 3:13 |
 | 45 | [Sound Of A Broken Man](https://open.spotify.com/track/1aYCoLkMLlZZ7OYt67i6DS) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Winning Hand](https://open.spotify.com/album/3WJieaRnucqXvUhzloMN6s) | 4:51 |

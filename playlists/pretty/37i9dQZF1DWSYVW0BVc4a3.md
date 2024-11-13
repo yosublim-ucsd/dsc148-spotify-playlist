@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > pedro is back!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,985 likes - 296 songs - 21 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,670 likes - 296 songs - 21 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

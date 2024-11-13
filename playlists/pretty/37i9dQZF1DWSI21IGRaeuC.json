@@ -1,6 +1,6 @@
 {
   "description": "the deep & minimal side of tech house \u26cf\ufe0f\u26cf\ufe0f  with Michael Bibi",
-  "num_followers": 42478,
+  "num_followers": 42662,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
+        "name": "How the Story Goes",
+        "url": "https://open.spotify.com/album/1sRsh8lpMEwq9OXmSkcxiE"
+      },
+      "artists": [
+        {
+          "name": "LOVRA",
+          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "How the Story Goes",
+      "url": "https://open.spotify.com/track/76tzY5YVsAa8kKEVdr1ZI8"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
         "name": "Bass Go Boom (Collier Remix)",
         "url": "https://open.spotify.com/album/7jDzqqtw3O7q33iLA7LhlH"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 168327,
       "name": "Bass Go Boom - Collier Remix",
       "url": "https://open.spotify.com/track/1nTHK6Qln7sWicfmlhMUe7"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "How the Story Goes",
-        "url": "https://open.spotify.com/album/1sRsh8lpMEwq9OXmSkcxiE"
-      },
-      "artists": [
-        {
-          "name": "LOVRA",
-          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "How the Story Goes",
-      "url": "https://open.spotify.com/track/76tzY5YVsAa8kKEVdr1ZI8"
     },
     {
       "added_at": "2024-11-06 22:50:08",

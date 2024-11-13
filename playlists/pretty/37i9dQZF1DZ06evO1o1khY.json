@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 24870,
+  "num_followers": 24985,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy/3gAAAAAD0ABfgjC5sVMPDirZbt+X6",
+  "snapshot_id": "ZzFJAAAAAADP57/Kbpn/Th05qZBOpOSZ",
   "tracks": [
     {
       "added_at": null,
@@ -803,34 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MNEIG REMIX",
-        "url": "https://open.spotify.com/album/3J0FPxw4dQMzhAHeMPW8U9"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/1rRGUmICffgc41b0BRj0kC"
       },
       "artists": [
-        {
-          "name": "idontknowjeffery",
-          "url": "https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6"
-        },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         },
         {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "Marcus.901",
-          "url": "https://open.spotify.com/artist/5OiSwH8wohgiRF6asGPg0l"
-        },
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+          "name": "Niki Pooh",
+          "url": "https://open.spotify.com/artist/3hG09J3PPVnHvslivvE3GX"
         }
       ],
-      "duration_ms": 277846,
-      "name": "MNEIG REMIX",
-      "url": "https://open.spotify.com/track/761WrC4tzVHjRXp7fFnyJf"
+      "duration_ms": 155193,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6dzhoFsAUAbTAeJgL7gMaG"
     },
     {
       "added_at": null,
@@ -867,26 +855,6 @@
       "duration_ms": 170711,
       "name": "Out Loud Thinking",
       "url": "https://open.spotify.com/track/0EF2x6DfhDECvRVTdJvBDs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/1rRGUmICffgc41b0BRj0kC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Niki Pooh",
-          "url": "https://open.spotify.com/artist/3hG09J3PPVnHvslivvE3GX"
-        }
-      ],
-      "duration_ms": 155193,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/6dzhoFsAUAbTAeJgL7gMaG"
     },
     {
       "added_at": null,
@@ -947,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 169465,
-      "name": "Unh Unh",
-      "url": "https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Foxes Only",
         "url": "https://open.spotify.com/album/46hdTAtdzJ0ejF2JanBnYr"
       },
@@ -979,6 +931,22 @@
       "duration_ms": 143992,
       "name": "Embarrassing (feat. GloRilla)",
       "url": "https://open.spotify.com/track/52V0wk4bz20iMjmHGy2i0V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 169465,
+      "name": "Unh Unh",
+      "url": "https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d"
     },
     {
       "added_at": null,

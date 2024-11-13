@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Danilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,433 likes - 97 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,511 likes - 97 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 | 5 | [Berlayar](https://open.spotify.com/track/0c2YQlgz5zrTTjzfoxaje9) | [Manjakani](https://open.spotify.com/artist/6bITofkrePxaLEJf90JjvX) | [Berlayar](https://open.spotify.com/album/1DtzSEb3F7QHw7nkwAIhCT) | 4:09 |
 | 6 | [Burner](https://open.spotify.com/track/2x2CSutqHcnAGNbewINTy0) | [Bedchamber](https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0) | [Balancing Act](https://open.spotify.com/album/7qxu4XZfchLLdmXKOh84xs) | 2:43 |
 | 7 | [Tak Apa Akui Lelah](https://open.spotify.com/track/2CGVAzqC47Xk9kBk1Ix4v3) | [Banda Neira](https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc) | [Tak Apa Akui Lelah](https://open.spotify.com/album/62ETyf40ZYVPW4ZufraxiU) | 3:47 |
-| 8 | [Era](https://open.spotify.com/track/3dRABQtNXJRWaDlake5d9m) | [Wake up, Iris !](https://open.spotify.com/artist/0tev8ZQ4Hy5AeAeCK5Udw1), [IKLIM](https://open.spotify.com/artist/13RkP9NAGg67uIHcFWsdSS), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Era](https://open.spotify.com/album/16boQGCB5VYAs7iYeQGclX) | 4:06 |
+| 8 | [Era](https://open.spotify.com/track/3dRABQtNXJRWaDlake5d9m) | [Wake up, Iris !](https://open.spotify.com/artist/0tev8ZQ4Hy5AeAeCK5Udw1), [IKLIM](https://open.spotify.com/artist/13RkP9NAGg67uIHcFWsdSS), [NATURE](https://open.spotify.com/artist/1x9VHzc1HNJ5hWY8L8Aujo) | [Era](https://open.spotify.com/album/16boQGCB5VYAs7iYeQGclX) | 4:06 |
 | 9 | [Walau Berantakan](https://open.spotify.com/track/075jBu0heVKJ5xjmdhVSqk) | [Prince Husein](https://open.spotify.com/artist/3JzIIqZI9biLWd2LyC6lus) | [Walau Berantakan](https://open.spotify.com/album/2CExf3NHmx6kvunHhck1QP) | 3:12 |
 | 10 | [Jarak dan Waktu](https://open.spotify.com/track/4N2ZdbozedvEmUX5Pz8ETB) | [Ruang Senja](https://open.spotify.com/artist/2WSd3E18fZ6riwyEEJPQGp) | [Jarak dan Waktu](https://open.spotify.com/album/5IDlrEPupFAXDClKNmmbVu) | 3:02 |
 | 11 | [Lagu Untuk Kamu](https://open.spotify.com/track/1cHTsSWfj3GJbfN8kal5Fn) | [Cocolite](https://open.spotify.com/artist/143AiWSohasQDmU3z93zap) | [Lagu Untuk Kamu](https://open.spotify.com/album/2CRrQzp3Ta96FlcWuBOw1i) | 4:54 |

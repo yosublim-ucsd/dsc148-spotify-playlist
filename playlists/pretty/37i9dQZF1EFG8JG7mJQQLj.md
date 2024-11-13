@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,673 likes - 442 songs - 1 day 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,681 likes - 442 songs - 1 day 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,8 +166,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 156 | [He Said She Said](https://open.spotify.com/track/0jTTjg6q4jsd2RhuHwTvLj) | [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [Headstrong](https://open.spotify.com/album/18Cdeub4WBPKku92zlsfWp) | 3:08 |
 | 157 | [Lobby](https://open.spotify.com/track/17UMDTqVeX3SqvgKr8kSmF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 2:37 |
 | 158 | [VULGAR \(with Madonna\)](https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [VULGAR \(with Madonna\)](https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT) | 2:35 |
-| 159 | [Love Looks Better](https://open.spotify.com/track/0HL5XOeVxgX1cEPY2KgRRa) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:23 |
-| 160 | [Higher](https://open.spotify.com/track/4bEpL49l4f0r8GtsjUFUqL) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 3:05 |
+| 159 | [Higher](https://open.spotify.com/track/4bEpL49l4f0r8GtsjUFUqL) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 3:05 |
+| 160 | [Love Looks Better](https://open.spotify.com/track/0HL5XOeVxgX1cEPY2KgRRa) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:23 |
 | 161 | [Heaven](https://open.spotify.com/track/1lFHaHvZeLf6XrOqX6iLlS) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 4:18 |
 | 162 | [All This Time](https://open.spotify.com/track/3jBZ215eVz9qwazMIQNSOO) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 4:02 |
 | 163 | [Choke](https://open.spotify.com/track/5xtliWYBVT4cKo9BtBn43B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:46 |
@@ -262,8 +262,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 252 | [Can't Help](https://open.spotify.com/track/7qCmv4SsXVt7I415eneHVk) | [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [Overnight](https://open.spotify.com/album/3s9li4RKJ1pcjcbFQftbg5) | 3:23 |
 | 253 | [Revolution](https://open.spotify.com/track/6LbAhaBQ5yAifQuNIPlQsR) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future + Dreams Of The Past](https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8) | 3:03 |
 | 254 | [Pill for This \(from Songland\)](https://open.spotify.com/track/7IQlF0sWkkztpejeIKnftW) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [Pill for This \(from Songland\)](https://open.spotify.com/album/2r1WiGYZP7wsuC0RBZucGe) | 2:53 |
-| 255 | [Beautiful World](https://open.spotify.com/track/69WehikArL9eByV3BFgC9A) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT) | 4:01 |
-| 256 | [Mistake](https://open.spotify.com/track/1WLpHzABY3TFLkOQoU4bDW) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Mistake](https://open.spotify.com/album/0I3LNftLmxI702wknVkcfg) | 2:24 |
+| 255 | [Mistake](https://open.spotify.com/track/1WLpHzABY3TFLkOQoU4bDW) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Mistake](https://open.spotify.com/album/0I3LNftLmxI702wknVkcfg) | 2:24 |
+| 256 | [Beautiful World](https://open.spotify.com/track/69WehikArL9eByV3BFgC9A) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT) | 4:01 |
 | 257 | [\#1Nite \(One Night\)](https://open.spotify.com/track/2iObDtZHIKtZ15kLfhK2yw) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [Night Shades](https://open.spotify.com/album/5gXDrzBIzmAhiE0dNKwy0i) | 3:39 |
 | 258 | [Truth To Power](https://open.spotify.com/track/6uaigl9EXMjMP0I3iTb9yO) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Truth To Power](https://open.spotify.com/album/6rPlzNWbkO10UerasRIqCY) | 3:25 |
 | 259 | [I Know Places \- Voice Memo](https://open.spotify.com/track/4FoV729rw7IhoKlMZW5K5V) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:36 |
@@ -274,8 +274,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 264 | [Someone To Save You](https://open.spotify.com/track/1mXiSrqOdR09yT43TwkSLh) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 4:12 |
 | 265 | [Trust You](https://open.spotify.com/track/23eUnTrHxVd4RNnramhnRA) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [The Great Unknown](https://open.spotify.com/album/49n3sqv2vCz36QNrO41yKr) | 3:08 |
 | 266 | [Prodigal](https://open.spotify.com/track/5rvS6QdcKCXXLGq4YpinQe) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:55 |
-| 267 | [I Am Woman](https://open.spotify.com/track/0vKuYHEs83maj9GNB8Y0Hp) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [I Am Woman](https://open.spotify.com/album/2zyPeQvdKUTL8VycWoXHOP) | 3:30 |
-| 268 | [Erase You](https://open.spotify.com/track/6FATUHeXuMpHg0u0UPnVD5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Erase You](https://open.spotify.com/album/0gqv9uDThyDmIPxIh4YdA7) | 2:29 |
+| 267 | [Erase You](https://open.spotify.com/track/6FATUHeXuMpHg0u0UPnVD5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Erase You](https://open.spotify.com/album/0gqv9uDThyDmIPxIh4YdA7) | 2:29 |
+| 268 | [I Am Woman](https://open.spotify.com/track/0vKuYHEs83maj9GNB8Y0Hp) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [I Am Woman](https://open.spotify.com/album/2zyPeQvdKUTL8VycWoXHOP) | 3:30 |
 | 269 | [Finest Hour \- New Version](https://open.spotify.com/track/41isF5DR6sT9acqYDTQ7FS) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Finest Hour: The Best of Gavin DeGraw](https://open.spotify.com/album/0IMzbxnAqwRi6sm9s5oOJO) | 3:41 |
 | 270 | [Savior](https://open.spotify.com/track/4VhR9r9zgzikeruUScgj8A) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:01 |
 | 271 | [Satellite](https://open.spotify.com/track/0VTJI43ZlIaMt05ZdZ6HuN) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [The Wanted \(Special Edition\)](https://open.spotify.com/album/0NN3zv0dQ73NkBd8tM7wFj) | 3:02 |
@@ -339,8 +339,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 329 | [Glassheart](https://open.spotify.com/track/0KMFnL2nr4WBdN5WXFjTji) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Glassheart \(Deluxe Edition\)](https://open.spotify.com/album/2UdrDacKZMsfV2aOIGbG0q) | 3:56 |
 | 330 | [The Last Goodbye](https://open.spotify.com/track/3GMl5vmoSXsWwQR21GM0Qo) | [David Cook](https://open.spotify.com/artist/4SQxI8xg6LcSWL3KuGVHLa) | [This Loud Morning](https://open.spotify.com/album/2sAl0bHZ6QtLEcBmbJOCPd) | 3:00 |
 | 331 | [Lookin' Up \(From "Songland"\)](https://open.spotify.com/track/0gJHtHSwr5VgA1EXbVT177) | [Max Embers](https://open.spotify.com/artist/11O6zlvW2ifkhcXjOpNrhE) | [Lookin' Up \(From "Songland"\)](https://open.spotify.com/album/2gW9Uy819K8S9dxYTfvFRR) | 2:41 |
-| 332 | [RIIICH](https://open.spotify.com/track/2ckJF2jluuZ8q3BRZ19as7) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [RIIICH](https://open.spotify.com/album/2Tv4mu5RRsj5YfG7TYoyC4) | 3:14 |
-| 333 | [Don't Tell Nobody](https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [Don't Tell Nobody](https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN) | 2:53 |
+| 332 | [Don't Tell Nobody](https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [Don't Tell Nobody](https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN) | 2:53 |
+| 333 | [RIIICH](https://open.spotify.com/track/2ckJF2jluuZ8q3BRZ19as7) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [RIIICH](https://open.spotify.com/album/2Tv4mu5RRsj5YfG7TYoyC4) | 3:14 |
 | 334 | [Lying \(Next To You\) \(From "Songland"\)](https://open.spotify.com/track/1Af0BvG8ATUwOuONIvXgFs) | [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [Lying \(Next to You\) \[From "Songland"\]](https://open.spotify.com/album/6YNsWggnn9uYyxvUsOVYZQ) | 2:28 |
 | 335 | [Guy Like Me](https://open.spotify.com/track/7tdal07n6MIwAw78bRndbs) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 2:39 |
 | 336 | [DARC ROOM](https://open.spotify.com/track/5lWEygGCrVxP3jmr8A468Q) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [DARC ROOM](https://open.spotify.com/album/2Jh7uDbzE04g6zrhen37o5) | 2:45 |
@@ -357,8 +357,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 347 | [This Is How You Know](https://open.spotify.com/track/4StvPr4wQdxChEcalZNd8V) | [Union Moon](https://open.spotify.com/artist/3FIEwtZZiLVuEDJ2cEaneq) | [This Is How You Know](https://open.spotify.com/album/0TBLAeZMpqTPrabpasHOji) | 3:20 |
 | 348 | [She Tried](https://open.spotify.com/track/1boP5WnY3f23s7MpMmDMFY) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Deliverance](https://open.spotify.com/album/1Su7jQECJV3scrqYw55XvD) | 3:49 |
 | 349 | [Tumbling Down](https://open.spotify.com/track/3FHwjrY6F4YAdzWPwWl3or) | [Tessanne Chin](https://open.spotify.com/artist/3gtaVMrNBTAFtlzYTeHNua) | [Count On My Love](https://open.spotify.com/album/4OJN5iJMyh3DGP76oSFYQR) | 3:34 |
-| 350 | [Last Holiday](https://open.spotify.com/track/4yPFng4xWVdrP4xVxdK7wY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 3:16 |
-| 351 | [Red Light Green Light](https://open.spotify.com/track/3YM33EBnwRe7G7aUPVQ7lY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:15 |
+| 350 | [Red Light Green Light](https://open.spotify.com/track/3YM33EBnwRe7G7aUPVQ7lY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:15 |
+| 351 | [Last Holiday](https://open.spotify.com/track/4yPFng4xWVdrP4xVxdK7wY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 3:16 |
 | 352 | [Labels](https://open.spotify.com/track/65kmIUkajl0F8hjsxmkyHN) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Waves](https://open.spotify.com/album/1mH4ntQRUk1akxx6WNST8q) | 2:59 |
 | 353 | [Alone \(From "Songland"\)](https://open.spotify.com/track/6k3uSJ2OsGr0tQAIPhXNkS) | [Josh Wood](https://open.spotify.com/artist/1HRIzEYLoNSJoKLjkQnUbe) | [Alone \(From "Songland"\)](https://open.spotify.com/album/6XdiKayoiuZEznkQyo57cv) | 2:29 |
 | 354 | [Room For You](https://open.spotify.com/track/0ZR0D8BOyH1b8vtrSnA5Xu) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:47 |
@@ -451,4 +451,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 441 | [All I Ever Wanted](https://open.spotify.com/track/6tUyTMQms7mQdaRiyLizCu) | [The Faith Crew](https://open.spotify.com/artist/4rdDVgScRyE4NTocYd30Qi) | [Tribute to Margaret Becker & Jeremy Camp](https://open.spotify.com/album/6ZjxpWsEm2ewK4K2PdJVXM) | 4:43 |
 | 442 | [Born To Race](https://open.spotify.com/track/0yWGRRHjwNOdApEm2gbbex) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [The Artificial Paradise Tour 中国巡演特别版](https://open.spotify.com/album/50PJ47XqwSZXA8Q165lDZW) | 3:11 |
 
-Snapshot ID: `AbhQHgAAAAA7Y5ShDVHdkY0qTrn/IXoS`
+Snapshot ID: `AbhVvgAAAAADWMHm6al0H0l7NbSlpsCl`

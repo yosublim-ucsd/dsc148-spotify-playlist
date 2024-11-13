@@ -4,7 +4,7 @@
 
 > Set the bars high with Malayalam Hip Hop!<br/>Cover : Rish NK
 
-177 songs - 9 hr 27 min
+178 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [DULM](https://open.spotify.com/track/2tY9R8Pdyw0FxDm12kMa1S) | [SAMII](https://open.spotify.com/artist/6fD2awQYaiZZ9lqVxJ28Bj), [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g) | [DULM](https://open.spotify.com/album/5W80rmSWbCTTbEaKDLT4Ce) | 2:40 | 2023-09-25 |  |
 | [Ente Kaalam](https://open.spotify.com/track/1XpVCD9Pk2ODY5F4mYyQqY) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Ente Kaalam](https://open.spotify.com/album/2j6KT1OUYbkQQDPSKRupDq) | 3:02 | 2022-06-23 | 2023-07-24 |
 | [Enthannuvecha Aykko](https://open.spotify.com/track/3ZoVs4zumz4WcLbCtr7TPs) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Enthannuvecha Aykko](https://open.spotify.com/album/095KgHug3ANYEGex1MJw5V) | 2:23 | 2024-01-15 | 2024-02-13 |
-| [Eyy Banane](https://open.spotify.com/track/3K8t6RzlYZSCkVjI3kczzD) | [electronic kili](https://open.spotify.com/artist/6S9pxoEBK0Mczr3qE8H0GX), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Vaazha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5o8BwHw4pg8DZZzKGJocJx) | 4:30 | 2024-09-09 |  |
+| [Eyy Banane](https://open.spotify.com/track/3K8t6RzlYZSCkVjI3kczzD) | [electronic kili](https://open.spotify.com/artist/6S9pxoEBK0Mczr3qE8H0GX), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Vaazha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5o8BwHw4pg8DZZzKGJocJx) | 4:30 | 2024-09-09 | 2024-11-13 |
 | [Fish Rock](https://open.spotify.com/track/5N1ede3QcEvtJNtM1een6B) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Fish Rock](https://open.spotify.com/album/68lzkVQY5ajzptkUi2jMOv) | 4:19 | 2022-07-13 | 2023-07-24 |
 | [Fly](https://open.spotify.com/track/0iSVHgbveiiQ3KWD2JGsRB) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Wish Hope Fly](https://open.spotify.com/album/4BjQpEh6WzIWptPhgxKkEL) | 4:06 | 2024-02-13 | 2024-04-23 |
 | [Fly](https://open.spotify.com/track/42AVHXyJhx67wNVbAdeX8s) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Wish Hope Fly](https://open.spotify.com/album/3ayGUpvmbY5mfGClBpjI6R) | 4:06 | 2022-06-23 | 2024-04-19 |
@@ -125,6 +125,7 @@
 | [Oorakkudukku](https://open.spotify.com/track/6OPImTghaIDMXtdqDz99yL) | [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [Oorakkudukku](https://open.spotify.com/album/3tFnGHwmww7ORL8nIQJddU) | 2:33 | 2023-07-23 | 2024-05-22 |
 | [Open Your Wings \(Chirakukal Mulakkuvan\)](https://open.spotify.com/track/6BizyNqcM7O8tWkRm2AuDm) | [Rohit Gopalakrishnan](https://open.spotify.com/artist/0adFWVYEksLW8fPuQi2dV1), [MC Mushti](https://open.spotify.com/artist/4IeboPJbQPfxDC04f2FmGm), [Jazadin](https://open.spotify.com/artist/3MGAkO7e9EK7FIWApRCw4q), [Kalai Mk](https://open.spotify.com/artist/2gsr3Oh1lFnLE2lcbLT7mD) | [Open Your Wings \(Chirakukal Mulakkuvan\)](https://open.spotify.com/album/1Cglv07lGRyZebBCYx661E) | 3:52 | 2021-12-03 |  |
 | [Ozhappan Anthem](https://open.spotify.com/track/1tVwdVeuje3iVvIHoBhCte) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Ozhappan Anthem](https://open.spotify.com/album/1TdJsFlTAK79VjOjHMTssX) | 3:17 | 2022-06-23 | 2024-04-23 |
+| [Pacha Parishkari](https://open.spotify.com/track/1AX9IVuMQ9WThp1koU7sdY) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Jay Stellar](https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk), [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52) | [Pacha Parishkari](https://open.spotify.com/album/1PFv6IHNN4aVjxqLNph5rG) | 2:58 | 2024-11-12 |  |
 | [PADACHATTA](https://open.spotify.com/track/459AwIU1HpMK4vje1vWXzx) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [PADACHATTA](https://open.spotify.com/album/68leHkjIczj2JdUiLXWwhT) | 2:45 | 2024-04-30 |  |
 | [Padachor](https://open.spotify.com/track/1kU3JtePlggVoyaHC0ewCE) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm) | [Vattam](https://open.spotify.com/album/5pw3Lltk18Hhrao0QGHJ1P) | 3:45 | 2024-03-20 |  |
 | [Pambaram](https://open.spotify.com/track/1oR0JPBlacz2cwcphSmzgi) | [Street Academics](https://open.spotify.com/artist/0LZRSRpEniupzKWif9FXh6) | [Loop](https://open.spotify.com/album/7dfo3lWr4LUO0WjMCoFnP6) | 3:48 | 2022-04-18 |  |

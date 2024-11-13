@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Brando
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,080 likes - 150 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,005 likes - 150 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,7 +148,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 138 | [heaven/jealous](https://open.spotify.com/track/1esTX6gDLMuTfsCYp0AcjN) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [heaven/jealous](https://open.spotify.com/album/3A3Kt4qO9NQL6gYuizHZdr) | 2:56 |
 | 139 | [Stargazing](https://open.spotify.com/track/3LFxQUYxND86brbqUeJM8c) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [CARLIE](https://open.spotify.com/artist/2g5tWYb6LAvSeCV4NBGgpE), [Kiss the Moon](https://open.spotify.com/artist/3tmqjDm81wXPk0tDWjo33k), [Stutters](https://open.spotify.com/artist/13rLgeUlHjpISeNrFEb4Tx) | [Stargazing](https://open.spotify.com/album/18ukr7C3yQ9Oz0S4XKBSzI) | 5:00 |
 | 140 | [Obsessed](https://open.spotify.com/track/2C4r9G7FE0BiYQluzEPQ5S) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Obsessed](https://open.spotify.com/album/4fIV9iUM0W0A1GXuEQuETh) | 2:27 |
-| 141 | [I Like U Looking At Me](https://open.spotify.com/track/1hLAuD1gxuAkUSXgeo4mRd) | [aimei 媚](https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ) | [I Like U Looking At Me](https://open.spotify.com/album/6DVi6pH3O6hMN13HLa10PV) | 3:03 |
+| 141 | [I Like U Looking at Me](https://open.spotify.com/track/1hLAuD1gxuAkUSXgeo4mRd) | [aimei 媚](https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ) | [I Like U Looking at Me](https://open.spotify.com/album/6DVi6pH3O6hMN13HLa10PV) | 3:03 |
 | 142 | [YOU WERE THERE](https://open.spotify.com/track/4XeFRoMkWSEWN4uJmmqbVA) | [KE\-YEN](https://open.spotify.com/artist/0GXVEDSyiFrdaTBX2EQGiE) | [YOU WERE THERE](https://open.spotify.com/album/0olrDJLwdnkHSYNoJ4uhmS) | 3:02 |
 | 143 | [Starburst](https://open.spotify.com/track/0C8StPiacteY4ft7OGOt5G) | [Maya Q](https://open.spotify.com/artist/7w4cjtjGRbBN9wGWeu0r4J) | [Club Moss](https://open.spotify.com/album/2XpWP3eKFkMNlISF1ApaMm) | 3:50 |
 | 144 | [wishing well](https://open.spotify.com/track/7Fwp8SLqJ3NU6L8ZitD6AY) | [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [wishing well](https://open.spotify.com/album/3hzcBFb7iuuYShvvCHXBn9) | 2:02 |

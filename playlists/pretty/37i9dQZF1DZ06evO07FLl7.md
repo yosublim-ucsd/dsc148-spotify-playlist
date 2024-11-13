@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,986 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,985 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 18 | [Tão Crazy](https://open.spotify.com/track/0Bl9rTGsGKSQq1L601N9MX) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Theodoro Nagô](https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 4:09 |
 | 19 | [Diz Que Sim](https://open.spotify.com/track/2kp4Va2kwMESfeZmokDfBK) | [Sorry Drummer](https://open.spotify.com/artist/4wkKjUT8XmCYW5cnN4LIuL), [Slim Rimografia](https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Silvera](https://open.spotify.com/artist/1ou3OL7zp8g8TYm2zZA7OB) | [Sorry Drummer & Friends, Vol\. 2](https://open.spotify.com/album/5hZ7f9dv3Ra5xVtBQcJRS0) | 3:11 |
 | 20 | [Me Beije](https://open.spotify.com/track/5jrcXyG8dp23qC71owIgNh) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Próspera D+](https://open.spotify.com/album/2pwEcYczMERg84xdmJQzhj) | 4:00 |
-| 21 | [Yin & Yang](https://open.spotify.com/track/7c8UHEObyzDsqOC4LiW7cE) | [Slim Rimografia](https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Yin & Yang \(feat\. Tássia Reis\)](https://open.spotify.com/album/71D52WT6ukguEWW3MRJNiS) | 3:22 |
+| 21 | [Ostentação da Cultura](https://open.spotify.com/track/048xJoXrJeWu1dtVy3clRZ) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Ostentação da Cultura](https://open.spotify.com/album/5DpUob8vu7Fy8SgoBDfaeg) | 2:45 |
 | 22 | [Nós Vestimos Branco](https://open.spotify.com/track/3S1izKM8Qux1fnNZWPYQE1) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 3:43 |
-| 23 | [Ostentação da Cultura](https://open.spotify.com/track/048xJoXrJeWu1dtVy3clRZ) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Ostentação da Cultura](https://open.spotify.com/album/5DpUob8vu7Fy8SgoBDfaeg) | 2:45 |
+| 23 | [Yin & Yang](https://open.spotify.com/track/7c8UHEObyzDsqOC4LiW7cE) | [Slim Rimografia](https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Yin & Yang \(feat\. Tássia Reis\)](https://open.spotify.com/album/71D52WT6ukguEWW3MRJNiS) | 3:22 |
 | 24 | [Shonda D+](https://open.spotify.com/track/4FhIuaRtSeUQg5O1emw7VZ) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Preta Ary](https://open.spotify.com/artist/3ybz6l89ingwOWKDAZEoRh), [EVEHIVE](https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h) | [Próspera D+](https://open.spotify.com/album/2pwEcYczMERg84xdmJQzhj) | 4:08 |
 | 25 | [Shonda \- RMX](https://open.spotify.com/track/62EZkcLKboeOZ6OHC0yR2s) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Preta Ary](https://open.spotify.com/artist/3ybz6l89ingwOWKDAZEoRh), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 4:23 |
 | 26 | [Desapegada](https://open.spotify.com/track/2UEcxnVXBbuaIZdDVD8mEM) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 49 | [Só Que Não](https://open.spotify.com/track/7EFR4kfHrCvY2ByCYpM1C9) | [Caio Nunez](https://open.spotify.com/artist/2rfGf5mJ3aR15NKZvMyfE0), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Só Que Não](https://open.spotify.com/album/1suEAb1EoLAgbsIqlahCtF) | 3:07 |
 | 50 | [Patrão](https://open.spotify.com/track/6qvJIyQ7VyA04jrIXEUarf) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Patrão](https://open.spotify.com/album/6NKfGwJVwcC6X0vcuzuIf7) | 3:38 |
 
-Snapshot ID: `Zy/3gAAAAADnWuQ9VtUiIC+xRXuQKueg`
+Snapshot ID: `ZzFJAAAAAADTrFbi4bpMVLddyWijw5eK`

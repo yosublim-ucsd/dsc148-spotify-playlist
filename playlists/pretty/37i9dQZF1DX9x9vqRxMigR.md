@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org</a>\.  Cover: Rainbow Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,605 likes - 164 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,610 likes - 164 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 9 | [La Llama](https://open.spotify.com/track/1W0ahS8OwKN9q38ATpZutF) | [Mireya](https://open.spotify.com/artist/6nmhKuSX86VY9oD1rNPF06), [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Velcro](https://open.spotify.com/artist/6JV8b8MNSUKv23Mol8KOxS) | [Mireya](https://open.spotify.com/album/6q84qns60zUBXAyc5wdEsj) | 3:48 |
 | 10 | [Duck N’ Dodge](https://open.spotify.com/track/6pGmdibZoXSNbU4n9QX1lB) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Yellow Peril](https://open.spotify.com/album/1oZfzj1CP6GqTps0pMqBPV) | 3:36 |
 | 11 | [Write It All Down for You](https://open.spotify.com/track/5B6l88qXls84CchE4yNNEs) | [Elliott BROOD](https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ) | [Mountain Meadows](https://open.spotify.com/album/4LcjR6n6TyOdzKr41XExrG) | 3:58 |
-| 12 | [Loving You](https://open.spotify.com/track/400tCHXGZhZcVeE66NoLEH) | [Ron Artis II](https://open.spotify.com/artist/3u8dOa0zveymreEFH7Yo5C) | [Purpose](https://open.spotify.com/album/4lR0IuGQZURxi4cJaTNxd3) | 3:24 |
+| 12 | [Loving You](https://open.spotify.com/track/400tCHXGZhZcVeE66NoLEH) | [Ron Artis II and the Truth](https://open.spotify.com/artist/1Wl0vBVvFpG86unzoUDV97) | [Purpose](https://open.spotify.com/album/4lR0IuGQZURxi4cJaTNxd3) | 3:24 |
 | 13 | [Ateik pas Mane](https://open.spotify.com/track/5VNxmpTSrSLZWlT1allWle) | [Jausmė](https://open.spotify.com/artist/5zu8H4DMzOHQKS4Vp4clm6) | [Namolio](https://open.spotify.com/album/2QzgM3YKtsiTTkx92woXZ0) | 4:56 |
 | 14 | [Aberdaron](https://open.spotify.com/track/0PKDX1FsMSYKTIC1ZcHNuW) | [The Trials of Cato](https://open.spotify.com/artist/4IeC7nJG3VMbzXlObCCsYC) | [Gog Magog](https://open.spotify.com/album/19SxsrS6nqyQavBa5LrC8q) | 4:34 |
 | 15 | [Haunted Mountain](https://open.spotify.com/track/2mw3Lp2sOvvTfZR6EqHuMk) | [Jolie Holland](https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ) | [Haunted Mountain](https://open.spotify.com/album/1y3VrSoxUmqiiqqzJ9MuFY) | 4:19 |

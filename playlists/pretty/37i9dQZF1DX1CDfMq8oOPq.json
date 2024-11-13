@@ -1,6 +1,6 @@
 {
   "description": "a verdadeira bandida seu fechamento, j\u00e1 pensou \ud83e\udd2f",
-  "num_followers": 60128,
+  "num_followers": 60227,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-11-04 20:39:55",
       "album": {
+        "name": "Dominadora",
+        "url": "https://open.spotify.com/album/7Du5sEj5n4u8oytrQuMVON"
+      },
+      "artists": [
+        {
+          "name": "Nivy",
+          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
+        }
+      ],
+      "duration_ms": 109636,
+      "name": "Dominadora",
+      "url": "https://open.spotify.com/track/1bWPBHhTIsjplANKVjjJVW"
+    },
+    {
+      "added_at": "2024-11-04 20:39:55",
+      "album": {
         "name": "Eu amo ser negona",
         "url": "https://open.spotify.com/album/3DQ5gtY52GVBCzIZGSrYLG"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 157013,
       "name": "Eu amo ser negona",
       "url": "https://open.spotify.com/track/1z4NEIfISzguBEdmmFzl9h"
-    },
-    {
-      "added_at": "2024-11-04 20:39:55",
-      "album": {
-        "name": "Dominadora",
-        "url": "https://open.spotify.com/album/7Du5sEj5n4u8oytrQuMVON"
-      },
-      "artists": [
-        {
-          "name": "Nivy",
-          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
-        }
-      ],
-      "duration_ms": 109636,
-      "name": "Dominadora",
-      "url": "https://open.spotify.com/track/1bWPBHhTIsjplANKVjjJVW"
     },
     {
       "added_at": "2024-11-04 20:39:55",

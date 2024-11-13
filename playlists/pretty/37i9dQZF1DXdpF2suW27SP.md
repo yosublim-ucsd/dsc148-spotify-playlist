@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Monsta entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,080 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,093 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 8 | [Rocky&Rihanna](https://open.spotify.com/track/0X4w15pyZl9RWsXLJg9wln) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd), [POTTER](https://open.spotify.com/artist/2qr1gotEePk3ZaJVDrQltU) | [Rocky&Rihanna](https://open.spotify.com/album/788dLP8HVaRlAwzQSVnRrJ) | 2:24 |
 | 9 | [Before I Lose My Voice](https://open.spotify.com/track/7frjoQg8cSUY0Pb7OpCvl5) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Before I Lose My Voice](https://open.spotify.com/album/4oZm4sCOIFsWz41UgOu7r3) | 3:06 |
 | 10 | [Como 1 Rei](https://open.spotify.com/track/4PARMoAgm4LG2X8pfJNoxI) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Carta de Alforria](https://open.spotify.com/album/4Ez4z45AAG56Ms3tu305pL) | 3:11 |
-| 11 | [RELAXA](https://open.spotify.com/track/5wPuF0QUifqX6Yz3UZqXhf) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v), [ROCHA.SNJ](https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8) | [RELAXA](https://open.spotify.com/album/4fDyU5IrsGJZxAaLhvmnlE) | 2:17 |
+| 11 | [Relaxa](https://open.spotify.com/track/5wPuF0QUifqX6Yz3UZqXhf) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v), [ROCHA.SNJ](https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8) | [Relaxa](https://open.spotify.com/album/4fDyU5IrsGJZxAaLhvmnlE) | 2:17 |
 | 12 | [Pipoca](https://open.spotify.com/track/0zujdEoxE9FCd1BHi20VIe) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Mc Prego Prego](https://open.spotify.com/artist/31VJgCqoVF7o0jKesIcWym) | [Pipoca](https://open.spotify.com/album/00DDmJQInlfTJPLIRu4f0j) | 3:23 |
 | 13 | [El Chapo](https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [El Chapo](https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw) | 4:01 |
 | 14 | [Como É Que 'Tás](https://open.spotify.com/track/1XVH3Zq8adITMSEOA1d3Ia) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Como É Que 'Tás](https://open.spotify.com/album/0Ttu6SVIqBpNUhZSAyeSpW) | 1:59 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 22 | [Je Comprends Pas](https://open.spotify.com/track/3SGZeGjpb8RTpZcctXzsC6) | [Dezinho](https://open.spotify.com/artist/6HV1KRb1BBx4VgcXyBmXxA) | [Je Comprends Pas](https://open.spotify.com/album/6FR067nKNNlOz76bU8iEDI) | 3:05 |
 | 23 | [Acordar](https://open.spotify.com/track/1M7pnSHpd4i5xFE2nUGq2W) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Acordar](https://open.spotify.com/album/1tWREZzrDTdmy0ADiiI18b) | 3:17 |
 | 24 | [Even](https://open.spotify.com/track/1cTamrfYAUHnoiMf2gpq55) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po) | [IT WILL HURT BOTH WAYS](https://open.spotify.com/album/4GeL7dcG2LxnYTsypnE9MJ) | 3:07 |
-| 25 | [TÁ PUXAR](https://open.spotify.com/track/6zODR1IqH9Kahb4pHCboXZ) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v), [ROCHA.SNJ](https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8) | [TÁ PUXAR](https://open.spotify.com/album/2V18vWXp8hVt2eZM7rBCjT) | 2:52 |
+| 25 | [Tá Puxar](https://open.spotify.com/track/6zODR1IqH9Kahb4pHCboXZ) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v), [ROCHA.SNJ](https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8) | [Tá Puxar](https://open.spotify.com/album/2V18vWXp8hVt2eZM7rBCjT) | 2:52 |
 | 26 | [Butterfly](https://open.spotify.com/track/1j8jV3iGmvn2a4zvjDsUqW) | [Mulatooh](https://open.spotify.com/artist/5i3kAmcQVt7k2zHgolEAvo) | [Future Rich Nigga](https://open.spotify.com/album/6oaUrvvzMJtHkvCSoGFId3) | 2:30 |
 | 27 | [Bênção](https://open.spotify.com/track/1hdWqiFAy5hNRxyVpDy81P) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Bênção](https://open.spotify.com/album/0qh2Oll4rfSc8I3tO1fYv0) | 3:25 |
 | 28 | [Direção Paris](https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 4:02 |

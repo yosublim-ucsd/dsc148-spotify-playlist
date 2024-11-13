@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Atrévete a escuchar LA NUBE EN EL JARDÍN,  el nuevo álbum de Ed Maverick, entregado en un solo track: 53:49 minutos de sublime tristeza!
 
-[Spotify](https://open.spotify.com/user/spotify) - 873,125 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 873,190 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

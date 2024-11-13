@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Griff
 
-529 songs - 1 day 2 hr 48 min
+530 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Regal](https://open.spotify.com/track/7w8SSMR1fUhNUhJ1VzFHDM) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Regal](https://open.spotify.com/album/3vhq6yiBV8skR2hCV3wn6A) | 2:21 | 2024-11-07 |  |
 | [Rest \(with Sasha Alex Sloan\)](https://open.spotify.com/track/0eUoazaVUu4Y83USuUTz7P) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Rest \(with Sasha Alex Sloan\)](https://open.spotify.com/album/2tlpX0RIhdCE9nb1nlXFjW) | 3:13 | 2024-08-08 | 2024-09-06 |
 | [Ride or Die](https://open.spotify.com/track/67JUyAArsCY1j4H06Jt1NH) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Ride or Die](https://open.spotify.com/album/0FRhQSxPU2rsKUJWW6zTNI) | 2:15 | 2024-06-28 | 2024-07-05 |
+| [Right Here](https://open.spotify.com/track/3aFkqKSlsoT3YoIovuRB8h) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Right Here](https://open.spotify.com/album/29OYCTRQRLCf1s9UNlg1LX) | 2:42 | 2024-11-12 |  |
 | [right person, wrong time](https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [right person, wrong time](https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk) | 3:40 | 2024-08-15 | 2024-09-13 |
 | [Risk It All](https://open.spotify.com/track/6hIbZfDmBigXP99678e6q0) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [Risk It All](https://open.spotify.com/album/5WB7Dp0drdbK0sj9jnxw84) | 3:13 | 2024-11-07 |  |
 | [Rock n Roll](https://open.spotify.com/track/1T2zLWVcr4nXMrMnzyHUVl) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Rock n Roll](https://open.spotify.com/album/1Jey66mOXbJOwGtVKwdUWb) | 2:38 | 2024-10-24 |  |

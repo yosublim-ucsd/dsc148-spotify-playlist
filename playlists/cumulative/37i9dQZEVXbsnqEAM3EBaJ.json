@@ -1543,6 +1543,24 @@
     },
     {
       "album": {
+        "name": "New London boy / All the young dudes",
+        "url": "https://open.spotify.com/album/7LXpn6o2f2mJOxlVPTW8Nn"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234783,
+      "name": "All the young dudes - Delinquent version",
+      "url": "https://open.spotify.com/track/53lirEMCieWR6OqGLijcOL"
+    },
+    {
+      "album": {
         "name": "New London boy / All the young dudes (remixes)",
         "url": "https://open.spotify.com/album/43qXJkcDomSdMDiu8Pp2B5"
       },
@@ -1558,7 +1576,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 211290,
       "name": "All the young dudes - Richard X edit",
       "url": "https://open.spotify.com/track/7dOoR9MWc8rI4KBK3j10Vq"
@@ -2182,7 +2200,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 61750,
       "name": "And the award goes to TWICE!",
       "url": "https://open.spotify.com/track/5jpqkF1ohJiTuYj3HeTcmA"
@@ -8326,7 +8344,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 256199,
       "name": "Don't Go Away Mad (Just Go Away) - Live",
       "url": "https://open.spotify.com/track/0wmdi5RjXdAHZ4Tsb2CqDm"
@@ -12114,7 +12132,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 70193,
       "name": "Gilded Slumber Serenade",
       "url": "https://open.spotify.com/track/3EInRI6lkPZh8Vbus6U9B4"
@@ -20256,6 +20274,28 @@
       "duration_ms": 214053,
       "name": "Make It All Right",
       "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
+    },
+    {
+      "album": {
+        "name": "MEGAN: ACT II",
+        "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155767,
+      "name": "Mamushi (Remix) [feat. TWICE]",
+      "url": "https://open.spotify.com/track/0DanydI1wKqKkKjn0qKoVR"
     },
     {
       "album": {
@@ -29308,7 +29348,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 179047,
       "name": "Snus - Tony Romera Remix",
       "url": "https://open.spotify.com/track/3cgOIThWrE4g3WjNtOByOL"
@@ -34828,7 +34868,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 157402,
       "name": "Tranquil Nightfall Lullaby",
       "url": "https://open.spotify.com/track/3dbHA1hp07qeW94bOqNCAB"
@@ -36948,7 +36988,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 260976,
       "name": "We'll Meet Again - Live 1988",
       "url": "https://open.spotify.com/track/3dA5SalnsGT8upC33BqsWG"
@@ -37422,7 +37462,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 222000,
       "name": "Where Do We Go From Here? - Fairlane Remix",
       "url": "https://open.spotify.com/track/4VbnOwZ0CcBeDpr8t9dH54"

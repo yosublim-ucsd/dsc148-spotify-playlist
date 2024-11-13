@@ -1,6 +1,6 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: <spotify:artist:0qZ8aSF0iMCQI99AAXikF8\">ELEVATION RHYTHM</a>",
-  "num_followers": 137584,
+  "num_followers": 137622,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
@@ -131,38 +131,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "You Got This",
-        "url": "https://open.spotify.com/album/1bqjdAockCikwMTVoncR8I"
-      },
-      "artists": [
-        {
-          "name": "Love & The Outcome",
-          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
-        }
-      ],
-      "duration_ms": 194680,
-      "name": "You Got This",
-      "url": "https://open.spotify.com/track/1gibxiYQ2bDcnbYga7qXY7"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "COME THRU",
-        "url": "https://open.spotify.com/album/5VmID4DeAcCkNRwdx2nwAj"
-      },
-      "artists": [
-        {
-          "name": "ZOE Music",
-          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
-        }
-      ],
-      "duration_ms": 139034,
-      "name": "COME THRU",
-      "url": "https://open.spotify.com/track/1mFdyuUq9c1uTUqlyyr2Wq"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Jireh (feat. Lloyd Nicks & Vanessa Campagna)",
         "url": "https://open.spotify.com/album/1WMZnX8mYbI7Uzu3ZXwEKy"
       },
@@ -183,6 +151,38 @@
       "duration_ms": 225946,
       "name": "Jireh (feat. Lloyd Nicks & Vanessa Campagna)",
       "url": "https://open.spotify.com/track/71YmBl6TseDCGA1DXfudvE"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "COME THRU",
+        "url": "https://open.spotify.com/album/5VmID4DeAcCkNRwdx2nwAj"
+      },
+      "artists": [
+        {
+          "name": "ZOE Music",
+          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
+        }
+      ],
+      "duration_ms": 139034,
+      "name": "COME THRU",
+      "url": "https://open.spotify.com/track/1mFdyuUq9c1uTUqlyyr2Wq"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "You Got This",
+        "url": "https://open.spotify.com/album/1bqjdAockCikwMTVoncR8I"
+      },
+      "artists": [
+        {
+          "name": "Love & The Outcome",
+          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
+        }
+      ],
+      "duration_ms": 194680,
+      "name": "You Got This",
+      "url": "https://open.spotify.com/track/1gibxiYQ2bDcnbYga7qXY7"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -287,18 +287,18 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Shiloh",
-        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
       },
       "artists": [
         {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
         }
       ],
-      "duration_ms": 268360,
-      "name": "Shiloh",
-      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
+      "duration_ms": 199078,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -319,18 +319,18 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Who We Are",
-        "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
+        "name": "Shiloh",
+        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
       },
       "artists": [
         {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
         }
       ],
-      "duration_ms": 199078,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
+      "duration_ms": 268360,
+      "name": "Shiloh",
+      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "Found in You",
+        "url": "https://open.spotify.com/album/3btcSIZAuSE60EVKR9nA0S"
+      },
+      "artists": [
+        {
+          "name": "Royal Company",
+          "url": "https://open.spotify.com/artist/1mXlcFsIJEMuF5GGXZcQ8t"
+        }
+      ],
+      "duration_ms": 194335,
+      "name": "Found in You",
+      "url": "https://open.spotify.com/track/1lMoKrAaLYNqkk2pyrqj0K"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "Father, Son and Holy Ghost",
         "url": "https://open.spotify.com/album/7gXMkLx45jfDEZuw8zwJQk"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 245248,
       "name": "Father, Son and Holy Ghost",
       "url": "https://open.spotify.com/track/2AMk9AgjMvsIKbTvsT2bSE"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "Found in You",
-        "url": "https://open.spotify.com/album/3btcSIZAuSE60EVKR9nA0S"
-      },
-      "artists": [
-        {
-          "name": "Royal Company",
-          "url": "https://open.spotify.com/artist/1mXlcFsIJEMuF5GGXZcQ8t"
-        }
-      ],
-      "duration_ms": 194335,
-      "name": "Found in You",
-      "url": "https://open.spotify.com/track/1lMoKrAaLYNqkk2pyrqj0K"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "Holy Spirit Lead",
+        "url": "https://open.spotify.com/album/0GjdpYQHhTtVXgq5FAfcAN"
+      },
+      "artists": [
+        {
+          "name": "The Two Fake Blondes",
+          "url": "https://open.spotify.com/artist/4Cie0MuOPLFZCYJFgf8aYi"
+        }
+      ],
+      "duration_ms": 230709,
+      "name": "Holy Spirit Lead",
+      "url": "https://open.spotify.com/track/3qjqGhv5KUL9sY8sYKp3fH"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "Take up My Cross",
         "url": "https://open.spotify.com/album/57anwGoRcq8db6qLSp5XB9"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 210355,
       "name": "Take up My Cross",
       "url": "https://open.spotify.com/track/7CPaUzk8cgVb4u122bchT6"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "Holy Spirit Lead",
-        "url": "https://open.spotify.com/album/0GjdpYQHhTtVXgq5FAfcAN"
-      },
-      "artists": [
-        {
-          "name": "The Two Fake Blondes",
-          "url": "https://open.spotify.com/artist/4Cie0MuOPLFZCYJFgf8aYi"
-        }
-      ],
-      "duration_ms": 230709,
-      "name": "Holy Spirit Lead",
-      "url": "https://open.spotify.com/track/3qjqGhv5KUL9sY8sYKp3fH"
     },
     {
       "added_at": "2024-06-25 03:27:03",

@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 6388,
+  "num_followers": 6395,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy/3gAAAAAC3Lbvj5VyBCsdh7sDaUO4o",
+  "snapshot_id": "ZzFJAAAAAAAhw0WE6UTV44tx8xea1Nlo",
   "tracks": [
     {
       "added_at": null,
@@ -267,46 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Freestyle",
-          "url": "https://open.spotify.com/artist/6OjW9olmgqjpkqGCzQYT9D"
-        }
-      ],
-      "duration_ms": 291960,
-      "name": "Ole",
-      "url": "https://open.spotify.com/track/1aKQJXeEs0OyaFumj4W3WZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grass 2 Grace",
-        "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "VIP",
-          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
-        }
-      ],
-      "duration_ms": 227906,
-      "name": "4 Instance",
-      "url": "https://open.spotify.com/track/7FQecMcIQ2oB7dMaW0MYJ2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Horoscopes",
         "url": "https://open.spotify.com/album/6GjoTQIrbosUnJzTqM2oNF"
       },
@@ -331,18 +291,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "AWAY & BEYOND",
-        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
+        "name": "Grass 2 Grace",
+        "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
       },
       "artists": [
         {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "VIP",
+          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
         }
       ],
-      "duration_ms": 253857,
-      "name": "Ihe Ne Me",
-      "url": "https://open.spotify.com/track/3sSakgujWHyqR7j1mEUbs5"
+      "duration_ms": 227906,
+      "name": "4 Instance",
+      "url": "https://open.spotify.com/track/7FQecMcIQ2oB7dMaW0MYJ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Freestyle",
+          "url": "https://open.spotify.com/artist/6OjW9olmgqjpkqGCzQYT9D"
+        }
+      ],
+      "duration_ms": 291960,
+      "name": "Ole",
+      "url": "https://open.spotify.com/track/1aKQJXeEs0OyaFumj4W3WZ"
     },
     {
       "added_at": null,
@@ -371,6 +355,22 @@
       "duration_ms": 202569,
       "name": "Baba Nla",
       "url": "https://open.spotify.com/track/741bGvXuyaHaiFZrVEtLza"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AWAY & BEYOND",
+        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 253857,
+      "name": "Ihe Ne Me",
+      "url": "https://open.spotify.com/track/3sSakgujWHyqR7j1mEUbs5"
     },
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AWAY & BEYOND",
-        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Huma Lara",
-          "url": "https://open.spotify.com/artist/7Jy0uvwHjLZmPODkzdU1qG"
-        }
-      ],
-      "duration_ms": 235781,
-      "name": "Higher (Spiritual Healing) [feat. Huma Lara]",
-      "url": "https://open.spotify.com/track/3Cx0XcneUukQQv2VZgiAE1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Realness Over Hype",
         "url": "https://open.spotify.com/album/5Lr8uyHyEVzyHj4yTUF6JW"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 165789,
       "name": "See God",
       "url": "https://open.spotify.com/track/4tCeALAdETzi8VXAgn4nun"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AWAY & BEYOND",
+        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Huma Lara",
+          "url": "https://open.spotify.com/artist/7Jy0uvwHjLZmPODkzdU1qG"
+        }
+      ],
+      "duration_ms": 235781,
+      "name": "Higher (Spiritual Healing) [feat. Huma Lara]",
+      "url": "https://open.spotify.com/track/3Cx0XcneUukQQv2VZgiAE1"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AWAY & BEYOND",
-        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 218462,
-      "name": "Dance in the Rain",
-      "url": "https://open.spotify.com/track/3bhQHT4YYeQugPW643l8JX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Worry Me",
         "url": "https://open.spotify.com/album/6XUaZvaQMG42gPY1KqVP9p"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 193044,
       "name": "Worry Me",
       "url": "https://open.spotify.com/track/1l1iB9yTcm1oDex1ZwKOwu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AWAY & BEYOND",
+        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 218462,
+      "name": "Dance in the Rain",
+      "url": "https://open.spotify.com/track/3bhQHT4YYeQugPW643l8JX"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cupid Stories",
-        "url": "https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci"
-      },
-      "artists": [
-        {
-          "name": "Bracket",
-          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "Remember (feat. 2face)",
-      "url": "https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Frenemies",
         "url": "https://open.spotify.com/album/40oBQ8EmEXE4zS1t35dgUs"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 241737,
       "name": "Frenemies",
       "url": "https://open.spotify.com/track/7hWvMTMVuxJqKUG98gAACG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cupid Stories",
+        "url": "https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci"
+      },
+      "artists": [
+        {
+          "name": "Bracket",
+          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "Remember (feat. 2face)",
+      "url": "https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk"
     },
     {
       "added_at": null,
@@ -827,6 +827,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "AWAY & BEYOND PLUS",
+        "url": "https://open.spotify.com/album/3UDRSt9HM1wYuwPr8uuvka"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 266490,
+      "name": "Rainbow (feat. T-Pain)",
+      "url": "https://open.spotify.com/track/5JP8TwUpsWlSJQda6Ev67o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mad Over Hills",
         "url": "https://open.spotify.com/album/7JRmK6GrPkncTiyNiA8TAH"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 154529,
       "name": "Mad Over Hills",
       "url": "https://open.spotify.com/track/4GmccSWLJaFOeoH8JATCHE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AWAY & BEYOND PLUS",
-        "url": "https://open.spotify.com/album/3UDRSt9HM1wYuwPr8uuvka"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 266490,
-      "name": "Rainbow (feat. T-Pain)",
-      "url": "https://open.spotify.com/track/5JP8TwUpsWlSJQda6Ev67o"
     },
     {
       "added_at": null,
@@ -995,26 +995,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Searching",
-        "url": "https://open.spotify.com/album/1ueVnJDIlqnxBz7nuEmajE"
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
       "artists": [
         {
-          "name": "Nelo",
-          "url": "https://open.spotify.com/artist/7Lz869ya6LEy270Tk9gXoJ"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Bigdrfresh",
-          "url": "https://open.spotify.com/artist/5hAHpdQcXXkNctF7AOvB4s"
         }
       ],
-      "duration_ms": 241057,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/487P3mgPm49m8NNbxPX1je"
+      "duration_ms": 199650,
+      "name": "Suffer Head",
+      "url": "https://open.spotify.com/track/7pZV7r4cRLHoUe4UcVBkb9"
     }
   ],
   "unique_name": "This Is 2Baba",

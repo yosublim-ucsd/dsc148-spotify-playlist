@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,790 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,796 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 40 | [Togsang](https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Kæm va du?](https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ) | 2:59 |
 | 41 | [Club 7](https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Club 7](https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw) | 4:20 |
 | 42 | [Det begynner å bli et liv](https://open.spotify.com/track/6y8CZLX2vn58EVpjOejesi) | [Anita Skorgan](https://open.spotify.com/artist/4dTqh57h7Qc97TWARfoVD4) | [Hver gang vi møtes \- Sesong 2 \- Ole Paus' dag](https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K) | 3:13 |
-| 43 | [Kven er vi \- fra filmen Kvitebjørn](https://open.spotify.com/track/0ISpjDkDgbHs6TlRJwF77Z) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv), [9 grader nord](https://open.spotify.com/artist/1xcIsuvQgFhZmqUo1s9eMm) | [Kven er vi \(fra filmen Kvitebjørn\)](https://open.spotify.com/album/5nofrYmlOUerGdn8qmj2Ad) | 4:06 |
+| 43 | [Til alle tider](https://open.spotify.com/track/6kr1xwYYaIH7ZQa3uBE921) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Bauta \- En hyllest til Bjørn Eidsvåg](https://open.spotify.com/album/1cj2bGhHCxMdx3wNr9u5OF) | 3:33 |
 | 44 | [Varherres Klinkekuler](https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Hildringstimer \- 14 velvalgte viser](https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x) | 3:07 |
-| 45 | [Til alle tider](https://open.spotify.com/track/6kr1xwYYaIH7ZQa3uBE921) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Bauta \- En hyllest til Bjørn Eidsvåg](https://open.spotify.com/album/1cj2bGhHCxMdx3wNr9u5OF) | 3:33 |
+| 45 | [Kven er vi \- fra filmen Kvitebjørn](https://open.spotify.com/track/0ISpjDkDgbHs6TlRJwF77Z) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv), [9 grader nord](https://open.spotify.com/artist/1xcIsuvQgFhZmqUo1s9eMm) | [Kven er vi \(fra filmen Kvitebjørn\)](https://open.spotify.com/album/5nofrYmlOUerGdn8qmj2Ad) | 4:06 |
 | 46 | [Stille Vann](https://open.spotify.com/track/6EbPwM0nNa6T3Hy1pDBvl0) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 3:01 |
 | 47 | [Peiling feat\. Øystein Greni](https://open.spotify.com/track/7ezryXKj7BMWtsfdp5o8kX) | [Klossmajor](https://open.spotify.com/artist/1XgbkJNbyHcYaa4WAjGlCc), [Greni](https://open.spotify.com/artist/7GgksazCOqOwZE9IoCpDLg) | [Peiling feat\. Øystein Greni](https://open.spotify.com/album/29D39IIN621Usm8AB3mv3l) | 3:20 |
 | 48 | [Den lange natta](https://open.spotify.com/track/09sPlSIsRcm4hicuFermlS) | [Henning Kvitnes](https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6) | [Den lange natta](https://open.spotify.com/album/3RhCW6vpTXhpGB0WCc9znN) | 3:20 |

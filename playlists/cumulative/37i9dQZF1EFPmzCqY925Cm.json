@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "i really like being here",
+        "url": "https://open.spotify.com/album/37CgwpUsINEYuVPdYG9Ub1"
+      },
+      "artists": [
+        {
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162333,
+      "name": "boyfriends/girlfriends",
+      "url": "https://open.spotify.com/track/6pnGJhKuluYoxJMuJwuhy0"
+    },
+    {
+      "album": {
         "name": "CATMAN",
         "url": "https://open.spotify.com/album/2Hw0EziKCpVRDVqMzhpidf"
       },

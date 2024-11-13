@@ -4,7 +4,7 @@
 
 > De mooiste liedjes van het moment\. Cover: Coldplay
 
-529 songs - 1 day 6 hr 39 min
+530 songs - 1 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Hollywood Blvd](https://open.spotify.com/track/63NXZMNOKRfjzkhKQ5Ub2s) | [Loren Kramar](https://open.spotify.com/artist/3LDUvPQ97zYOzFliNk9GmV) | [Hollywood Blvd](https://open.spotify.com/album/6vUjjR7CrIvkGDUyae0Upq) | 4:55 | 2023-11-13 | 2024-03-22 |
 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-01-25 | 2024-07-05 |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-02-05 | 2024-04-19 |
+| [Honey \- Single Version](https://open.spotify.com/track/7JplJCCUuo2o6emhE3f3SK) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Honey](https://open.spotify.com/album/2tgMULeDaymA173kWVgCZS) | 3:15 | 2024-11-12 |  |
 | [Hopes Up High](https://open.spotify.com/track/5mIx6DqNDX5g7Ms29tCQAB) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Hopes Up High](https://open.spotify.com/album/7yvTMWbeey4t2c1PenHJPU) | 2:43 | 2024-06-20 |  |
 | [Hot Stuff](https://open.spotify.com/track/3IP5E8pxMDhLSGtjwV2y8C) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk) | [Hot Stuff](https://open.spotify.com/album/31bKsiZ9ydgT6yhh2q5GfY) | 3:19 | 2023-03-24 | 2023-08-04 |
 | [House of Bones](https://open.spotify.com/track/5CCZF5sZ8q08ehBckPxQ3W) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [House of Bones](https://open.spotify.com/album/4N0ToZAG8KoYHYquWpSRJD) | 2:21 | 2024-07-11 | 2024-10-11 |
@@ -240,7 +241,7 @@
 | [If You’re Gonna Break My Heart](https://open.spotify.com/track/2UdLLIJygjz2yiOa3GVMV0) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 4:27 | 2023-02-23 | 2023-08-25 |
 | [Il Mare Calmo della Sera \(feat\. Chris Stapleton\)](https://open.spotify.com/track/6hIPQdA0r7ulZQFnMakEdh) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Duets \(30th Anniversary\)](https://open.spotify.com/album/0Iv3XfTgPnPqxPyCf9yt2C) | 4:35 | 2024-11-04 |  |
 | [In Love](https://open.spotify.com/track/0tiG850FhkXJrM0F1dN1vx) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [In Love](https://open.spotify.com/album/1eBSt3H2N9n44CDgT1h2Ns) | 3:12 | 2024-09-19 |  |
-| [In The Modern World](https://open.spotify.com/track/3kQmcD1XU29nSMrS7kgsWm) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 4:26 | 2024-10-14 |  |
+| [In The Modern World](https://open.spotify.com/track/3kQmcD1XU29nSMrS7kgsWm) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 4:26 | 2024-10-14 | 2024-11-13 |
 | [In The Water](https://open.spotify.com/track/4gmT46chkdugzbucgiHQbb) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [In The Water](https://open.spotify.com/album/2khuB7jsFLFzJWPRwjjMA7) | 3:36 | 2023-02-23 | 2023-08-01 |
 | [Invincible](https://open.spotify.com/track/1WHK0kQxNqsBJySg4E2djx) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Invincible](https://open.spotify.com/album/6vPoWFO0UtMIGJvIbzmJIQ) | 2:54 | 2023-02-23 | 2023-06-23 |
 | [It Is What It Is](https://open.spotify.com/track/6PHprgr1SWomux41HzaXIM) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [It Is What It Is](https://open.spotify.com/album/5M84TQMlBTgqPZej6KCvVd) | 3:49 | 2024-10-03 |  |

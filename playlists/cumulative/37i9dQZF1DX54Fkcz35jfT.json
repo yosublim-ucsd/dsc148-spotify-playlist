@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: UVERworld",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: MY FIRST STORY",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -713,6 +713,24 @@
     },
     {
       "album": {
+        "name": "BREAK IT DOWN",
+        "url": "https://open.spotify.com/album/3ogo234STX9mj4SLmOISAH"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244493,
+      "name": "BREAK IT DOWN",
+      "url": "https://open.spotify.com/track/73o6n0ZXWVYnBSzge6Ei0m"
+    },
+    {
+      "album": {
         "name": "THE FROGLETS",
         "url": "https://open.spotify.com/album/0cND80hJtxdUgVkJP8Sh5s"
       },
@@ -924,6 +942,24 @@
       "duration_ms": 175173,
       "name": "CLIMB",
       "url": "https://open.spotify.com/track/3FXKi2gZSiSA8sXQemm87Q"
+    },
+    {
+      "album": {
+        "name": "Come As U Are",
+        "url": "https://open.spotify.com/album/0R4cVeiKEnERTILj0E4nd6"
+      },
+      "artists": [
+        {
+          "name": "The Ravens",
+          "url": "https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219466,
+      "name": "Come As U Are",
+      "url": "https://open.spotify.com/track/66iB6JJWjKEW2vJUVd4Lnk"
     },
     {
       "album": {
@@ -1650,7 +1686,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 196252,
       "name": "God Speed (feat. WARGASM (UK))",
       "url": "https://open.spotify.com/track/7CqdptwGjeskv3rim4Spvi"
@@ -3672,7 +3708,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 191174,
       "name": "Re-create",
       "url": "https://open.spotify.com/track/12AbMuvF8W54iKkfarNIcV"
@@ -4134,7 +4170,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-11",
+      "date_removed": null,
       "duration_ms": 197200,
       "name": "SCUM DOGS FART",
       "url": "https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN"
@@ -6444,7 +6480,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 190093,
       "name": "\u8703\u6c17\u697c",
       "url": "https://open.spotify.com/track/2K2fKGu0wJuByM2dTBTUsr"

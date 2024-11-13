@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la troca \u2764\ufe0f",
-  "num_followers": 62059,
+  "num_followers": 62075,
   "original_name": "La Mamalona Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-09-11 16:36:05",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 193621,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
-    },
-    {
-      "added_at": "2024-09-11 16:36:05",
-      "album": {
         "name": "Ropa Cara",
         "url": "https://open.spotify.com/album/2NRCCVwjJuodRWAR0VlBfH"
       },
@@ -1511,22 +1495,18 @@
     {
       "added_at": "2024-09-11 16:36:05",
       "album": {
-        "name": "Belico Enamorado",
-        "url": "https://open.spotify.com/album/2j7te8MvvK7zJvMd1JmG6U"
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 188444,
-      "name": "Belico Enamorado",
-      "url": "https://open.spotify.com/track/4nTEQjAcv6x4FtOcKoNqvB"
+      "duration_ms": 193621,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
     },
     {
       "added_at": "2024-09-11 16:36:05",
@@ -1551,6 +1531,26 @@
       "duration_ms": 161332,
       "name": "No Est\u00e1 Funcionando",
       "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
+    },
+    {
+      "added_at": "2024-09-11 16:36:05",
+      "album": {
+        "name": "Belico Enamorado",
+        "url": "https://open.spotify.com/album/2j7te8MvvK7zJvMd1JmG6U"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 188444,
+      "name": "Belico Enamorado",
+      "url": "https://open.spotify.com/track/4nTEQjAcv6x4FtOcKoNqvB"
     },
     {
       "added_at": "2024-09-11 16:36:05",

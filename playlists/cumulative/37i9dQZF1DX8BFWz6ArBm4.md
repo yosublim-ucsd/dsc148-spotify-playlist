@@ -4,7 +4,7 @@
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Giorgos Kakosaios
 
-93 songs - 5 hr 14 min
+94 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [De Mas Xorizei Tipota](https://open.spotify.com/track/66AEZAyDrD2bnVQxC3eOsW) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv), [Giorgos Livanis](https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok) | [De Mas Xorizei Tipota](https://open.spotify.com/album/6iOXetU4xwcNswf29HkTOE) | 3:23 | 2024-07-04 |  |
 | [Den Proskinisa](https://open.spotify.com/track/6pdrwsbECUSEtQbI5n8Q5p) | [Christos Menidiatis](https://open.spotify.com/artist/4SU6LvM9nyvqJqycIt1M0X) | [Den Proskinisa](https://open.spotify.com/album/4y4By6vNrmQUkzacM91dR1) | 3:42 | 2024-10-17 |  |
 | [Den Vazo Ego Myalo / Kathe Vrady / Alli San Emena / Lipstick \- Live Medley](https://open.spotify.com/track/5yf0wwuvvKIP5OtNTADlim) | [Apostolia Zoi](https://open.spotify.com/artist/1Bkxsw4F0k3dwgA1GtpPaJ) | [Apostolia Zoi Live Medley 2024](https://open.spotify.com/album/79irzQ3hDAx83t4jW1Q1CB) | 3:54 | 2024-07-25 | 2024-09-20 |
-| [Dromo Epikindino](https://open.spotify.com/track/100nUsCD76seBmPOxPnFcQ) | [Dimos Anastasiadis](https://open.spotify.com/artist/55N3GeGZvjQNpesIjCTZpq) | [Dromo Epikindino](https://open.spotify.com/album/1XbePDaenCezQjhkHLADJp) | 3:25 | 2024-06-27 |  |
+| [Dromo Epikindino](https://open.spotify.com/track/100nUsCD76seBmPOxPnFcQ) | [Dimos Anastasiadis](https://open.spotify.com/artist/55N3GeGZvjQNpesIjCTZpq) | [Dromo Epikindino](https://open.spotify.com/album/1XbePDaenCezQjhkHLADJp) | 3:25 | 2024-06-27 | 2024-11-13 |
 | [Dyskolos Xaraktiras](https://open.spotify.com/track/2nmWMCVLLeyePXtCrVacyH) | [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Dyskolos Xaraktiras](https://open.spotify.com/album/4UhB6d899sGkAWjo17v0uq) | 3:13 | 2024-06-27 | 2024-07-05 |
 | [Efyge?](https://open.spotify.com/track/30OqNOqaoqKrzg2ZcmHz83) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Efyge?](https://open.spotify.com/album/0AlIY3vTLJTYRGNTFevp94) | 3:21 | 2024-06-27 |  |
 | [Eho Stenahoria](https://open.spotify.com/track/4ceu7l4EJWUWD2qjlTJUEH) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Proaisthima](https://open.spotify.com/album/5ad9kzeXehnYHzrCYw2VEF) | 2:54 | 2024-06-27 | 2024-07-19 |
@@ -69,6 +69,7 @@
 | [Odos Monaxias](https://open.spotify.com/track/2RI7X5IlysmDCYm5F7IFam) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Odos Monaxias](https://open.spotify.com/album/5mqQS5Dan3AKU9mh6zlZwS) | 4:16 | 2024-06-27 |  |
 | [Odos Tsimiski](https://open.spotify.com/track/2TEHn9OHX4aq5uJOWkgbqu) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Odos Tsimiski](https://open.spotify.com/album/248qClzJD9BvwbV9F24bJ9) | 3:09 | 2024-07-04 | 2024-11-08 |
 | [Omorfi](https://open.spotify.com/track/6Tg7PeHmUQZTZB4G3sb7zR) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [O,ti M' Aresei](https://open.spotify.com/album/2cK9ucMA41Z5BhhDiNkPqp) | 2:25 | 2024-06-27 |  |
+| [Palies Fotografies](https://open.spotify.com/track/4tBZzrNnxSgdjniMCzBqLD) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Palies Fotografies](https://open.spotify.com/album/7dacWPJOwAKtfPPg4mhAuM) | 4:00 | 2024-11-07 |  |
 | [Parallili Agapi](https://open.spotify.com/track/2SsaxxtqBdweyrZew2O6Ej) | [Christina Salti](https://open.spotify.com/artist/6l0GQT49HC5pM3Y2TZSLRr) | [Parallili Agapi](https://open.spotify.com/album/2S1gFwCroLJTVsPJoRbqxt) | 4:02 | 2024-06-27 |  |
 | [Paramilas](https://open.spotify.com/track/1lsGFSLF0dwnxUxCprXenV) | [Giorgos Tsalikis](https://open.spotify.com/artist/7wdFPENV7NBZ4o3tHqsWhD) | [Paramilas](https://open.spotify.com/album/3ajm7TEjneVnRDzhcCdWnx) | 3:37 | 2024-10-03 | 2024-10-18 |
 | [Paraponaki Mou](https://open.spotify.com/track/1h9nXyBYPaxetP1ViK28gu) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Paraponaki Mou](https://open.spotify.com/album/0nn4UNyLy5xgRka3bSIkMa) | 3:10 | 2024-06-27 |  |

@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 19314,
+  "num_followers": 19334,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Zy1+7AAAAAAwQU+fMTGjxh4McP0tjuxt",
   "tracks": [
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "YESHUA",
-        "url": "https://open.spotify.com/album/3XzX5ht2VaUvLmBJJSG1yx"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 160663,
-      "name": "YESHUA",
-      "url": "https://open.spotify.com/track/4KDKbQWEng8BAhPy9Gz2zG"
-    },
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
@@ -47,6 +31,22 @@
       "duration_ms": 202000,
       "name": "Ela Quer Fumar",
       "url": "https://open.spotify.com/track/2cYM45KrFyawEUL9uGfuXN"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "YESHUA",
+        "url": "https://open.spotify.com/album/3XzX5ht2VaUvLmBJJSG1yx"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 160663,
+      "name": "YESHUA",
+      "url": "https://open.spotify.com/track/4KDKbQWEng8BAhPy9Gz2zG"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -183,26 +183,6 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Doce Veneno",
-        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
-      },
-      "artists": [
-        {
-          "name": "Enzo Cello",
-          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
-        },
-        {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
-        }
-      ],
-      "duration_ms": 135693,
-      "name": "Doce Veneno",
-      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
         "name": "Nem Me Convidou",
         "url": "https://open.spotify.com/album/55TjH29MJyGdJ9K62fMqyz"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 127433,
       "name": "Nem Me Convidou",
       "url": "https://open.spotify.com/track/21e9s5DxDb1JepKDg0tsOC"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "Doce Veneno",
+        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
+      },
+      "artists": [
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "duration_ms": 135693,
+      "name": "Doce Veneno",
+      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -267,6 +267,26 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
+        "name": "Hipnose",
+        "url": "https://open.spotify.com/album/3g8RNiykDYeTd0KNUc5Ri6"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 209471,
+      "name": "Hipnose",
+      "url": "https://open.spotify.com/track/1fs5yLzGEdAWJ5smXEZ1wU"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
         "name": "De Lua",
         "url": "https://open.spotify.com/album/0Cjb1U6WfJ97NhMegCmyWa"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 188235,
       "name": "Foto no Espelho",
       "url": "https://open.spotify.com/track/3Sff3XpGdztIYA51W0PbI8"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "Hipnose",
-        "url": "https://open.spotify.com/album/3g8RNiykDYeTd0KNUc5Ri6"
-      },
-      "artists": [
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 209471,
-      "name": "Hipnose",
-      "url": "https://open.spotify.com/track/1fs5yLzGEdAWJ5smXEZ1wU"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Saia Rodada",
-        "url": "https://open.spotify.com/album/1cd7RPjvQptiwaMhhLlQi4"
-      },
-      "artists": [
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Saia Rodada",
-      "url": "https://open.spotify.com/track/2YsmKqaswhV5TdUI5dnfsK"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
         "name": "Chave",
         "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 185466,
       "name": "Pagar Pra Ter",
       "url": "https://open.spotify.com/track/3Sr0nvA4P1D0QYHjrp1CjU"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "Saia Rodada",
+        "url": "https://open.spotify.com/album/1cd7RPjvQptiwaMhhLlQi4"
+      },
+      "artists": [
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Saia Rodada",
+      "url": "https://open.spotify.com/track/2YsmKqaswhV5TdUI5dnfsK"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -891,22 +891,30 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Anel da Pandora",
-        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
+        "name": "Coragem",
+        "url": "https://open.spotify.com/album/3EdUtzzp9mYM7NIp5pnzrv"
       },
       "artists": [
         {
-          "name": "greg mc",
-          "url": "https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X"
+          "name": "Nega",
+          "url": "https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8"
         },
         {
-          "name": "ESCOB4R",
-          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
+          "name": "TX",
+          "url": "https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2"
+        },
+        {
+          "name": "Jaxonethebeat",
+          "url": "https://open.spotify.com/artist/0Ud3CAwnzGV2OYCuTwRuJU"
+        },
+        {
+          "name": "Jaxz Bond",
+          "url": "https://open.spotify.com/artist/5ekHzRx0U0hsDgja4ydH7X"
         }
       ],
-      "duration_ms": 199012,
-      "name": "Anel da Pandora",
-      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
+      "duration_ms": 182448,
+      "name": "Coragem",
+      "url": "https://open.spotify.com/track/2ICmFpSpyqKk68VT5TMFu1"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -931,6 +939,26 @@
       "duration_ms": 155744,
       "name": "Doce",
       "url": "https://open.spotify.com/track/4RaKNRhCEAWsWysxkPeQUR"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "Anel da Pandora",
+        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
+      },
+      "artists": [
+        {
+          "name": "greg mc",
+          "url": "https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X"
+        },
+        {
+          "name": "ESCOB4R",
+          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
+        }
+      ],
+      "duration_ms": 199012,
+      "name": "Anel da Pandora",
+      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -987,34 +1015,6 @@
       "duration_ms": 186896,
       "name": "Slow",
       "url": "https://open.spotify.com/track/2gV2UT3QTYlmx6KduymFg1"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "Coragem",
-        "url": "https://open.spotify.com/album/3EdUtzzp9mYM7NIp5pnzrv"
-      },
-      "artists": [
-        {
-          "name": "Nega",
-          "url": "https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8"
-        },
-        {
-          "name": "TX",
-          "url": "https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2"
-        },
-        {
-          "name": "Jaxonethebeat",
-          "url": "https://open.spotify.com/artist/0Ud3CAwnzGV2OYCuTwRuJU"
-        },
-        {
-          "name": "Jaxz Bond",
-          "url": "https://open.spotify.com/artist/5ekHzRx0U0hsDgja4ydH7X"
-        }
-      ],
-      "duration_ms": 182448,
-      "name": "Coragem",
-      "url": "https://open.spotify.com/track/2ICmFpSpyqKk68VT5TMFu1"
     },
     {
       "added_at": "2024-11-08 03:01:00",

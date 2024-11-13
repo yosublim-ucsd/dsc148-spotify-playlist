@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 37646,
+  "num_followers": 37665,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy/3gAAAAAAuFkOu657qI9NBkaOgQag5",
+  "snapshot_id": "ZzFJAAAAAABHUB/zexwPoVxSNxkuLxUM",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 185093,
-      "name": "Control It",
-      "url": "https://open.spotify.com/track/6PyawKQl2tQGqmitbvB4ov"
+      "duration_ms": 138400,
+      "name": "Destroy All",
+      "url": "https://open.spotify.com/track/2VYashoUmAFOKVEq5YUQjG"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 138400,
-      "name": "Destroy All",
-      "url": "https://open.spotify.com/track/2VYashoUmAFOKVEq5YUQjG"
+      "duration_ms": 185093,
+      "name": "Control It",
+      "url": "https://open.spotify.com/track/6PyawKQl2tQGqmitbvB4ov"
     },
     {
       "added_at": null,

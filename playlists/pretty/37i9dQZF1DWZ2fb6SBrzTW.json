@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 38053,
+  "num_followers": 38151,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -184,7 +184,7 @@
           "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 170377,
+      "duration_ms": 169811,
       "name": "Sooner",
       "url": "https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O"
     },
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-11-08 08:31:56",
       "album": {
+        "name": "DUMP ON DEM",
+        "url": "https://open.spotify.com/album/1B3wcDQgN2pYHW7CvAAxGb"
+      },
+      "artists": [
+        {
+          "name": "Zhus Jdo",
+          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+        }
+      ],
+      "duration_ms": 174562,
+      "name": "1 WORK",
+      "url": "https://open.spotify.com/track/53GfbGxZHusSTZhiyC9QYY"
+    },
+    {
+      "added_at": "2024-11-08 08:31:56",
+      "album": {
         "name": "My Brother",
         "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
       },
@@ -1075,26 +1091,6 @@
     {
       "added_at": "2024-11-08 08:31:56",
       "album": {
-        "name": "Walking Dead",
-        "url": "https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq"
-      },
-      "artists": [
-        {
-          "name": "Ayox",
-          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 150863,
-      "name": "Walking Dead",
-      "url": "https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5"
-    },
-    {
-      "added_at": "2024-11-08 08:31:56",
-      "album": {
         "name": "Sharpally",
         "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
       },
@@ -1111,18 +1107,22 @@
     {
       "added_at": "2024-11-08 08:31:56",
       "album": {
-        "name": "DUMP ON DEM",
-        "url": "https://open.spotify.com/album/1B3wcDQgN2pYHW7CvAAxGb"
+        "name": "Walking Dead",
+        "url": "https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq"
       },
       "artists": [
         {
-          "name": "Zhus Jdo",
-          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+          "name": "Ayox",
+          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 174562,
-      "name": "1 WORK",
-      "url": "https://open.spotify.com/track/53GfbGxZHusSTZhiyC9QYY"
+      "duration_ms": 150863,
+      "name": "Walking Dead",
+      "url": "https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5"
     },
     {
       "added_at": "2024-11-08 08:31:56",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-11-08 08:31:56",
       "album": {
-        "name": "2:30",
-        "url": "https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 138305,
-      "name": "2:30",
-      "url": "https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs"
-    },
-    {
-      "added_at": "2024-11-08 08:31:56",
-      "album": {
         "name": "Otilo (Izz Gone)",
         "url": "https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 162782,
       "name": "Otilo (Izz Gone)",
       "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
+    },
+    {
+      "added_at": "2024-11-08 08:31:56",
+      "album": {
+        "name": "2:30",
+        "url": "https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 138305,
+      "name": "2:30",
+      "url": "https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs"
     }
   ],
   "unique_name": "Keep Fit Club ",

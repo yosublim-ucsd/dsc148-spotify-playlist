@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > alice phoebe lou <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,172,702 likes - 143 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,172,798 likes - 143 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

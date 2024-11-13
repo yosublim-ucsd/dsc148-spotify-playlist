@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: Ronnie Flex, Yade Lauren & Mula B
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,433 likes - 99 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,434 likes - 99 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,6 +106,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 96 | [Fata Morgana](https://open.spotify.com/track/1v1cijv1qjMJ5o9OvMWACS) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Fata Morgana](https://open.spotify.com/album/3Abw9UTsnzAEEf3nC87Lvx) | 2:44 |
 | 97 | [Bus Stop Please](https://open.spotify.com/track/69qwWu8dQwaTABh5B9r8xn) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Bus Stop Please](https://open.spotify.com/album/06HEvSJ6i3ML7nXAiTVt94) | 3:35 |
 | 98 | [Fell Off](https://open.spotify.com/track/4W55B2y38OT2pN1QIWjxim) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W), [Elif Dame](https://open.spotify.com/artist/0SxhCRUBtbMq1EdVV257PO) | [Fell Off](https://open.spotify.com/album/5nCMbohXSGYBjCcdH54mUP) | 2:02 |
-| 99 | [IMMA CALL UP CURTIS](https://open.spotify.com/track/5A3kjAigPDr48wudS8u53S) | [SiNNiWAVi](https://open.spotify.com/artist/0Tkppz8pEg4PE4NuqpTcgC) | [IMMA CALL UP CURTIS](https://open.spotify.com/album/5swlg3nLfbDmuv6g2CSXoO) | 3:02 |
+| 99 | [IMMA CALL UP CURTIS](https://open.spotify.com/track/5A3kjAigPDr48wudS8u53S) | [Sinclair](https://open.spotify.com/artist/0Tkppz8pEg4PE4NuqpTcgC) | [IMMA CALL UP CURTIS](https://open.spotify.com/album/5swlg3nLfbDmuv6g2CSXoO) | 3:02 |
 
 Snapshot ID: `ZzHZtgAAAADkAhZ2QB4x9PoSgyYrH67K`

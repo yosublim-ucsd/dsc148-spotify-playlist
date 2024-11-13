@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and artists in the soul space\. Cover: Bnnyhunna
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,553 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,586 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 7 | [Dancing Circles 2.0](https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai \(Deluxe\)](https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8) | 3:46 |
 | 8 | [Butterfly Effect](https://open.spotify.com/track/4W4Tn8xO2C3quM8zNpJbdm) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Playing Around](https://open.spotify.com/album/5AfHVG8kDpmfAhfEo7dA98) | 3:17 |
 | 9 | [If I Stay](https://open.spotify.com/track/09Ib2XztcUmNGD2iNPiQTg) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [If I Stay](https://open.spotify.com/album/1MJRA5NaQMs0KQs81sz4hX) | 3:28 |
-| 10 | [Bloom](https://open.spotify.com/track/45jDy30AdgovP88gjPPdmB) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Bloom](https://open.spotify.com/album/1SIcq11Bdm5HE1S7JlORXe) | 4:35 |
+| 10 | [Bloom](https://open.spotify.com/track/45jDy30AdgovP88gjPPdmB) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Bloom](https://open.spotify.com/album/1SIcq11Bdm5HE1S7JlORXe) | 4:34 |
 | 11 | [BYMYSIDE](https://open.spotify.com/track/4chcjrwWpdHsToYAM1xVmG) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [BYMYSIDE](https://open.spotify.com/album/6fFeUfOJ46lM4ATs84hlFn) | 2:57 |
 | 12 | [Lost but Here pt II](https://open.spotify.com/track/78WotkbeKTSyVMWbHLcFPB) | [Y.O.P.E.](https://open.spotify.com/artist/7Ikgt4I9fVwzmFGCIb0aGX), [Sam Nera](https://open.spotify.com/artist/7BDMybq2ZrTJ9HH7vUMpRh) | [Lost but Here pt II](https://open.spotify.com/album/6gvvFqhEVKckCZNLOV3ZgB) | 3:48 |
 | 13 | [Ring By Spring](https://open.spotify.com/track/2GX51QSc11hVgtltNPUINv) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Ring By Spring](https://open.spotify.com/album/50rGdsJG018ecukWIkjUJ6) | 3:07 |

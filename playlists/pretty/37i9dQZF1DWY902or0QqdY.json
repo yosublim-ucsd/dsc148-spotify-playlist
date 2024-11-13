@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos que son el curita perfecto para tu coraz\u00f3n \ud83d\udc94\ud83c\udfb5",
-  "num_followers": 80927,
+  "num_followers": 80942,
   "original_name": "El Club de los Corazones Rotos",
   "owner": {
     "name": "Spotify",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
-        "name": "All Things Must Pass (Remastered 2014)",
-        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "All Things Must Pass - Remastered 2014",
-      "url": "https://open.spotify.com/track/6QLFNz62dpOgQTloWuUbNh"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
         "name": "In Time: The Best Of R.E.M. 1988-2003",
         "url": "https://open.spotify.com/album/5PHng5BLIYSwmFfrihOeOi"
       },
@@ -1123,18 +1107,34 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
-        "name": "Between The Lines",
-        "url": "https://open.spotify.com/album/0bRlXo4f7P0gF30G3RACTN"
+        "name": "All Things Must Pass (Remastered 2014)",
+        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
       },
       "artists": [
         {
-          "name": "Janis Ian",
-          "url": "https://open.spotify.com/artist/5c9uFWpZY2MTlk7Rft0tgp"
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
         }
       ],
-      "duration_ms": 280493,
-      "name": "At Seventeen",
-      "url": "https://open.spotify.com/track/3bRcSxW2FnSSwrzoYT1knV"
+      "duration_ms": 226866,
+      "name": "All Things Must Pass - Remastered 2014",
+      "url": "https://open.spotify.com/track/6QLFNz62dpOgQTloWuUbNh"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
+        "name": "Whitney The Greatest Hits",
+        "url": "https://open.spotify.com/album/4bXTYQ8nVBYO4k3C3TOVri"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 275266,
+      "name": "Where Do Broken Hearts Go",
+      "url": "https://open.spotify.com/track/709znSutWha3sQdPgdSO00"
     }
   ],
   "unique_name": "El Club de los Corazones Rotos",

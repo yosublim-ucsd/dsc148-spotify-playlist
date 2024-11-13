@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 570756,
+  "num_followers": 570923,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-11-08 14:33:18",
       "album": {
-        "name": "Rob\u00f4 - Spotify Singles",
-        "url": "https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi"
-      },
-      "artists": [
-        {
-          "name": "Milthinho",
-          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
-        }
-      ],
-      "duration_ms": 229095,
-      "name": "Rob\u00f4 - Spotify Singles",
-      "url": "https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr"
-    },
-    {
-      "added_at": "2024-11-08 14:33:18",
-      "album": {
         "name": "Tribalistas",
         "url": "https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 236970,
       "name": "Alian\u00e7a",
       "url": "https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE"
+    },
+    {
+      "added_at": "2024-11-08 14:33:18",
+      "album": {
+        "name": "Rob\u00f4 - Spotify Singles",
+        "url": "https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi"
+      },
+      "artists": [
+        {
+          "name": "Milthinho",
+          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
+        }
+      ],
+      "duration_ms": 229095,
+      "name": "Rob\u00f4 - Spotify Singles",
+      "url": "https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr"
     },
     {
       "added_at": "2024-11-08 14:33:18",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-11-08 14:33:18",
       "album": {
-        "name": "Aos Vivos",
-        "url": "https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF"
-      },
-      "artists": [
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "\u00c0 Primeira Vista",
-      "url": "https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM"
-    },
-    {
-      "added_at": "2024-11-08 14:33:18",
-      "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
@@ -387,6 +371,22 @@
     {
       "added_at": "2024-11-08 14:33:18",
       "album": {
+        "name": "Aos Vivos",
+        "url": "https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "\u00c0 Primeira Vista",
+      "url": "https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM"
+    },
+    {
+      "added_at": "2024-11-08 14:33:18",
+      "album": {
         "name": "Meu Canto - EP",
         "url": "https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB"
       },
@@ -403,26 +403,6 @@
       "duration_ms": 230786,
       "name": "Me Espera",
       "url": "https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD"
-    },
-    {
-      "added_at": "2024-11-08 14:33:18",
-      "album": {
-        "name": "Mais Uma Hist\u00f3ria de Amor",
-        "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
-      },
-      "artists": [
-        {
-          "name": "Cupertino",
-          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
-        },
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "A Gente Tem Tudo a Ver",
-      "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
     },
     {
       "added_at": "2024-11-08 14:33:18",
@@ -451,6 +431,26 @@
     {
       "added_at": "2024-11-08 14:33:18",
       "album": {
+        "name": "Mais Uma Hist\u00f3ria de Amor",
+        "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
+      },
+      "artists": [
+        {
+          "name": "Cupertino",
+          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
+        },
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "A Gente Tem Tudo a Ver",
+      "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
+    },
+    {
+      "added_at": "2024-11-08 14:33:18",
+      "album": {
         "name": "Banho de Folhas",
         "url": "https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R"
       },
@@ -463,6 +463,26 @@
       "duration_ms": 231017,
       "name": "Banho de Folhas",
       "url": "https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG"
+    },
+    {
+      "added_at": "2024-11-08 14:33:18",
+      "album": {
+        "name": "Brasileiro",
+        "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 167250,
+      "name": "Fica Tudo Bem",
+      "url": "https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv"
     },
     {
       "added_at": "2024-11-08 14:33:18",
@@ -503,26 +523,6 @@
       "duration_ms": 189002,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco",
       "url": "https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z"
-    },
-    {
-      "added_at": "2024-11-08 14:33:18",
-      "album": {
-        "name": "Brasileiro",
-        "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 167250,
-      "name": "Fica Tudo Bem",
-      "url": "https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv"
     },
     {
       "added_at": "2024-11-08 14:33:18",
@@ -619,26 +619,6 @@
     {
       "added_at": "2024-11-08 14:33:18",
       "album": {
-        "name": "Silva & Liniker (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Sorte - Ao Vivo",
-      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
-    },
-    {
-      "added_at": "2024-11-08 14:33:18",
-      "album": {
         "name": "N",
         "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
       },
@@ -671,38 +651,22 @@
     {
       "added_at": "2024-11-08 14:33:18",
       "album": {
-        "name": "Beb\u00ea",
-        "url": "https://open.spotify.com/album/6HvOPuBicSOthMOgXvMPuT"
+        "name": "Silva & Liniker (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
       },
       "artists": [
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         },
         {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 173672,
-      "name": "Beb\u00ea",
-      "url": "https://open.spotify.com/track/5eGKoukqxNOcO2SWkqGNqE"
-    },
-    {
-      "added_at": "2024-11-08 14:33:18",
-      "album": {
-        "name": "Anitta",
-        "url": "https://open.spotify.com/album/7IcgpWsMMBvW5NzNoKRu6z"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 165106,
-      "name": "Zen",
-      "url": "https://open.spotify.com/track/1aUUrBmdIYN7FvIzHdpisn"
+      "duration_ms": 230746,
+      "name": "Sorte - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
     },
     {
       "added_at": "2024-11-08 14:33:18",
@@ -723,6 +687,42 @@
       "duration_ms": 237479,
       "name": "Mais Bonito N\u00e3o H\u00e1",
       "url": "https://open.spotify.com/track/3TjdjYx5sBXrRdytJkzJJX"
+    },
+    {
+      "added_at": "2024-11-08 14:33:18",
+      "album": {
+        "name": "Anitta",
+        "url": "https://open.spotify.com/album/7IcgpWsMMBvW5NzNoKRu6z"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 165106,
+      "name": "Zen",
+      "url": "https://open.spotify.com/track/1aUUrBmdIYN7FvIzHdpisn"
+    },
+    {
+      "added_at": "2024-11-08 14:33:18",
+      "album": {
+        "name": "Beb\u00ea",
+        "url": "https://open.spotify.com/album/6HvOPuBicSOthMOgXvMPuT"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 173672,
+      "name": "Beb\u00ea",
+      "url": "https://open.spotify.com/track/5eGKoukqxNOcO2SWkqGNqE"
     },
     {
       "added_at": "2024-11-08 14:33:18",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-11-08 14:33:18",
       "album": {
-        "name": "Brasileiro",
-        "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 221624,
-      "name": "Duas da Tarde",
-      "url": "https://open.spotify.com/track/7chMvjylTedOhNEnRQzBYj"
-    },
-    {
-      "added_at": "2024-11-08 14:33:18",
-      "album": {
         "name": "Transforma(dor)",
         "url": "https://open.spotify.com/album/1L7oE1Egz6lpwrrZYe92Xc"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 198075,
       "name": "Garotos II - Ao Vivo",
       "url": "https://open.spotify.com/track/00czhIXqubU5Y07ycKqRIO"
+    },
+    {
+      "added_at": "2024-11-08 14:33:18",
+      "album": {
+        "name": "Brasileiro",
+        "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 221624,
+      "name": "Duas da Tarde",
+      "url": "https://open.spotify.com/track/7chMvjylTedOhNEnRQzBYj"
     },
     {
       "added_at": "2024-11-08 14:33:18",
@@ -875,26 +875,18 @@
     {
       "added_at": "2024-11-08 14:33:18",
       "album": {
-        "name": "Deixe Me Ir (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr"
+        "name": "Cru",
+        "url": "https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb"
       },
       "artists": [
         {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "Knust",
-          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
-        },
-        {
-          "name": "Baviera",
-          "url": "https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy"
+          "name": "Liniker e os Caramelows",
+          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
         }
       ],
-      "duration_ms": 213191,
-      "name": "Deixe Me Ir - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO"
+      "duration_ms": 364359,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA"
     }
   ],
   "unique_name": "Manh\u00e3 Relax",

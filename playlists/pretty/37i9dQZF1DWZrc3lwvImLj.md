@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > lowkey crying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,402 likes - 181 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,487 likes - 181 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,15 +21,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 11 | [Ma Dette Envers Toi](https://open.spotify.com/track/7A92FFdkNRvdXiYgI5Ohgr) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Ma Dette Envers Toi](https://open.spotify.com/album/233emtLMcu5tl9chdIbThW) | 3:49 |
 | 12 | [Eternal](https://open.spotify.com/track/4sev7LAzn0sTDpZ9tE2eaE) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [Eternal](https://open.spotify.com/album/7jlA8VZmKDsECqR0jdhHwR) | 2:48 |
 | 13 | [Vies Antérieures](https://open.spotify.com/track/3yWM5VNcsOGNL9dzSsNzAg) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Vies Antérieures](https://open.spotify.com/album/5OOjkY45YrDJSuJ1DB3364) | 2:17 |
-| 14 | [Valse de Mignon](https://open.spotify.com/track/6Tkep7VhXvCa7qnbyZBDLM) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Valse de Mignon](https://open.spotify.com/album/219xT06tHFgETfNrYMEdVh) | 2:16 |
-| 15 | [Avion](https://open.spotify.com/track/01H1v89jEAJtVloJdv467P) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [Avion](https://open.spotify.com/album/5vE8RLUy1kyQklTWDIssKq) | 2:20 |
-| 16 | [Serenety Walz](https://open.spotify.com/track/4Iq7gulJD0YiUUyZAbeZ0w) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Serenety Walz](https://open.spotify.com/album/1ICvGPisW8N1u3Fd6lnnM2) | 2:24 |
-| 17 | [The Last Falling Leaves](https://open.spotify.com/track/4n3FI6GHSd8HFhpiCqqF3s) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [The Last Falling Leaves](https://open.spotify.com/album/2GzrCiNw6A4YOc7cEBHDMG) | 2:51 |
-| 18 | [Sapphire Tears](https://open.spotify.com/track/2dlIVDvA7Otn950xPFBNYM) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [Sapphire Tears](https://open.spotify.com/album/7xvdOP2uv8hjwjkNzojjDc) | 2:47 |
-| 19 | [Aún Te Veo](https://open.spotify.com/track/3fB2azt4qGQTs2KbSsEmjH) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Aún Te Veo](https://open.spotify.com/album/5ZG2B564RbdcYWLEjheU77) | 2:30 |
-| 20 | [Morning to Remember](https://open.spotify.com/track/32YytCYUwBOKAISIRDKbkc) | [Evan Lang](https://open.spotify.com/artist/7yXix98cpwE1vLZu0A59Nn) | [Morning to Remember](https://open.spotify.com/album/7DCgDoEleuIOAe2aD61wZO) | 2:35 |
-| 21 | [Tiny Feather](https://open.spotify.com/track/1c6G0EAKsW4p9Bt2PA6OpV) | [Steven Lombardo](https://open.spotify.com/artist/3HthcN6rB2WPtHNyQcCqeZ) | [Tiny Feather](https://open.spotify.com/album/7qjZHR89Mjldv15xZWUFca) | 2:12 |
-| 22 | [White wings](https://open.spotify.com/track/3s886lrKl2lG3g0BF7lXCE) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [White wings](https://open.spotify.com/album/3RvRZdW1r1HjySuqAoDLX3) | 2:38 |
+| 14 | [Tiny Feather](https://open.spotify.com/track/1c6G0EAKsW4p9Bt2PA6OpV) | [Steven Lombardo](https://open.spotify.com/artist/3HthcN6rB2WPtHNyQcCqeZ) | [Tiny Feather](https://open.spotify.com/album/7qjZHR89Mjldv15xZWUFca) | 2:12 |
+| 15 | [Valse de Mignon](https://open.spotify.com/track/6Tkep7VhXvCa7qnbyZBDLM) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Valse de Mignon](https://open.spotify.com/album/219xT06tHFgETfNrYMEdVh) | 2:16 |
+| 16 | [Avion](https://open.spotify.com/track/01H1v89jEAJtVloJdv467P) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [Avion](https://open.spotify.com/album/5vE8RLUy1kyQklTWDIssKq) | 2:20 |
+| 17 | [Serenety Walz](https://open.spotify.com/track/4Iq7gulJD0YiUUyZAbeZ0w) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Serenety Walz](https://open.spotify.com/album/1ICvGPisW8N1u3Fd6lnnM2) | 2:24 |
+| 18 | [White wings](https://open.spotify.com/track/3s886lrKl2lG3g0BF7lXCE) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [White wings](https://open.spotify.com/album/3RvRZdW1r1HjySuqAoDLX3) | 2:38 |
+| 19 | [No borders](https://open.spotify.com/track/6O9LAJMUgbtw2z8AdAiTin) | [Delaney & Delaney](https://open.spotify.com/artist/6ypSxIupxGZQdQdv0ESPwW) | [No borders](https://open.spotify.com/album/2vjcO7FPmXU1NQeVltwZKi) | 2:36 |
+| 20 | [Sapphire Tears](https://open.spotify.com/track/2dlIVDvA7Otn950xPFBNYM) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [Sapphire Tears](https://open.spotify.com/album/7xvdOP2uv8hjwjkNzojjDc) | 2:47 |
+| 21 | [Aún Te Veo](https://open.spotify.com/track/3fB2azt4qGQTs2KbSsEmjH) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Aún Te Veo](https://open.spotify.com/album/5ZG2B564RbdcYWLEjheU77) | 2:30 |
+| 22 | [Morning to Remember](https://open.spotify.com/track/32YytCYUwBOKAISIRDKbkc) | [Evan Lang](https://open.spotify.com/artist/7yXix98cpwE1vLZu0A59Nn) | [Morning to Remember](https://open.spotify.com/album/7DCgDoEleuIOAe2aD61wZO) | 2:35 |
 | 23 | [Akureyri](https://open.spotify.com/track/1Z30fkmYHv71uarv6JEfHI) | [Haukur Ólafsson](https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w) | [Akureyri](https://open.spotify.com/album/0Hp1R6S2Bis2IBKv5N5xXi) | 2:57 |
 | 24 | [Kaiho](https://open.spotify.com/track/2JMWJkY1aQhNASkIuDUnI5) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Kaiho](https://open.spotify.com/album/6hF22qlhOYHaIQLIOP50fU) | 3:17 |
 | 25 | [Que seas tu](https://open.spotify.com/track/6tfuROHlOJqwzwzWxDcOnc) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [Que seas tu](https://open.spotify.com/album/2Jt95hQSOPXCSYigpwQXdX) | 2:34 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 180 | [Dunkel](https://open.spotify.com/track/4y5m6mGSXzVZArFSm4YnYK) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Dunkel](https://open.spotify.com/album/62Wg9F1bDreyAWx9gp1IXx) | 2:20 |
 | 181 | [Home](https://open.spotify.com/track/7xYFoMTtdlx2GmK0sopL0T) | [Adrian Kuipers](https://open.spotify.com/artist/4qA8zZoA4L4YLpJTjgpIwi) | [Home](https://open.spotify.com/album/0v8ArMlSc9QCkB9rTfKPOs) | 3:57 |
 
-Snapshot ID: `ZyosbgAAAABUzEQF9GGF4/7IL9gfZgHB`
+Snapshot ID: `ZzNP8QAAAABxrfFNpQuwgyD7UXtFk7ZR`

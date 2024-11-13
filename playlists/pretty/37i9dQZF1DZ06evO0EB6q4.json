@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 230913,
+  "num_followers": 231017,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy/3gAAAAAA9cED4nHQQxuJDAISVe+kj",
+  "snapshot_id": "ZzFJAAAAAACNabaqUJFqBide8tkcJEG4",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-        "url": "https://open.spotify.com/album/0D1v1FFqRnSxLhxbU93gvs"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 203456,
-      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-      "url": "https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pelinegra",
         "url": "https://open.spotify.com/album/4JuX8uo2Z2hememSjuoOSK"
       },
@@ -435,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+        "url": "https://open.spotify.com/album/0D1v1FFqRnSxLhxbU93gvs"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 203456,
+      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+      "url": "https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Es M\u00eda",
         "url": "https://open.spotify.com/album/3uvJeaWB2Sj33rSFS01j8O"
       },
@@ -447,6 +447,26 @@
       "duration_ms": 188992,
       "name": "No Es M\u00eda",
       "url": "https://open.spotify.com/track/78mmAWXm1vjrLoNlP1KdtV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rebelde",
+        "url": "https://open.spotify.com/album/6ZAh6f0M9XDCQY49y4h6fJ"
+      },
+      "artists": [
+        {
+          "name": "Elena Vargas",
+          "url": "https://open.spotify.com/artist/60FnATm9TT7JG58EHFKs5O"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 169348,
+      "name": "Rebelde",
+      "url": "https://open.spotify.com/track/4GBlVGqPPOQOzsy6C8D1pc"
     },
     {
       "added_at": null,
@@ -471,26 +491,6 @@
       "duration_ms": 246100,
       "name": "Penitencia",
       "url": "https://open.spotify.com/track/7aHkSmt0l7xTgCaAYvSZ9L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rebelde",
-        "url": "https://open.spotify.com/album/6ZAh6f0M9XDCQY49y4h6fJ"
-      },
-      "artists": [
-        {
-          "name": "Elena Vargas",
-          "url": "https://open.spotify.com/artist/60FnATm9TT7JG58EHFKs5O"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 169348,
-      "name": "Rebelde",
-      "url": "https://open.spotify.com/track/4GBlVGqPPOQOzsy6C8D1pc"
     },
     {
       "added_at": null,
@@ -635,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/5lHHOwtZ9cV6A3fCo70MW9"
+      },
+      "artists": [
+        {
+          "name": "Teo LB",
+          "url": "https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 229982,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/7JLsVIpyj7hLi43uHs8BFZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 250000,
       "name": "Carita de \u00c1ngel",
       "url": "https://open.spotify.com/track/01hgvJRWaAVi9kAfKOa4TC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/5lHHOwtZ9cV6A3fCo70MW9"
-      },
-      "artists": [
-        {
-          "name": "Teo LB",
-          "url": "https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 229982,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/7JLsVIpyj7hLi43uHs8BFZ"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Bolero",
-        "url": "https://open.spotify.com/album/2yEGgrU4SbngjLlJFhF3CB"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 194495,
-      "name": "Como Bolero",
-      "url": "https://open.spotify.com/track/7pOBTfz9EOi9Yb64cOI6kv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nunca Quise Escribirte una Balada",
         "url": "https://open.spotify.com/album/4wFlI78FEuTROwAzUeRDBf"
       },
@@ -851,6 +835,38 @@
       "duration_ms": 153242,
       "name": "Nunca Quise Escribirte una Balada",
       "url": "https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Bolero",
+        "url": "https://open.spotify.com/album/2yEGgrU4SbngjLlJFhF3CB"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 194495,
+      "name": "Como Bolero",
+      "url": "https://open.spotify.com/track/7pOBTfz9EOi9Yb64cOI6kv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duelo",
+        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 216572,
+      "name": "Oro Por Ti",
+      "url": "https://open.spotify.com/track/3hWnBTMoc0QGporRnmLZQn"
     },
     {
       "added_at": null,
@@ -895,22 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00farpura",
-        "url": "https://open.spotify.com/album/32Fgx3PGAOXi2F1KtJNmfz"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 201853,
-      "name": "P\u00farpura",
-      "url": "https://open.spotify.com/track/1bRrJaO9IHxsx8OY3ly5di"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Pienses Que Me Fui",
         "url": "https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG"
       },
@@ -927,6 +927,38 @@
       "duration_ms": 150186,
       "name": "No Pienses Que Me Fui",
       "url": "https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duelo",
+        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 160826,
+      "name": "Me Da\u00f1as Por Deporte",
+      "url": "https://open.spotify.com/track/4uSVVolWZ9VtprCYJSgVmG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00farpura",
+        "url": "https://open.spotify.com/album/32Fgx3PGAOXi2F1KtJNmfz"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 201853,
+      "name": "P\u00farpura",
+      "url": "https://open.spotify.com/track/1bRrJaO9IHxsx8OY3ly5di"
     },
     {
       "added_at": null,
@@ -979,22 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seg\u00fan Nosotros",
-        "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 173056,
-      "name": "Extra\u00f1andote",
-      "url": "https://open.spotify.com/track/7ka9YAKcsF1hiIgRhQojID"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duelo",
         "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
       },
@@ -1004,25 +1020,9 @@
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 160826,
-      "name": "Me Da\u00f1as Por Deporte",
-      "url": "https://open.spotify.com/track/4uSVVolWZ9VtprCYJSgVmG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Otro Paso a la Locura",
-        "url": "https://open.spotify.com/album/1hZRh10fuvCtR4X9CYnUeJ"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 228675,
-      "name": "Prototipo",
-      "url": "https://open.spotify.com/track/2eDnDmBCMRWiADTOWgVtHR"
+      "duration_ms": 133953,
+      "name": "El D\u00eda Que Te Duela",
+      "url": "https://open.spotify.com/track/1YwgKoqzARPFZuOPlvFEhL"
     }
   ],
   "unique_name": "This Is Nanpa B\u00e1sico",

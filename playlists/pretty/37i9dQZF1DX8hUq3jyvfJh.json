@@ -1,6 +1,6 @@
 {
   "description": "Escute T\u00e1ssia Reis e mais mulheres no volume m\u00e1ximo! Co-curadoria com  <a href=\"spotify:artist:0kc1BjcLHaXhZVzCp0HeAl\">T\u00e1ssia Reis</a>",
-  "num_followers": 187046,
+  "num_followers": 187034,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-11-06 20:37:39",
       "album": {
+        "name": "Janequeo",
+        "url": "https://open.spotify.com/album/5hUTL7WSWms4WjHZmcKVH2"
+      },
+      "artists": [
+        {
+          "name": "Brisa Flow",
+          "url": "https://open.spotify.com/artist/78XNtbcRuW435NYDYV0rWO"
+        }
+      ],
+      "duration_ms": 164526,
+      "name": "Besitos",
+      "url": "https://open.spotify.com/track/0Qvy12liwtoMguxEuM47fu"
+    },
+    {
+      "added_at": "2024-11-06 20:37:39",
+      "album": {
         "name": "EPIFANIA",
         "url": "https://open.spotify.com/album/63mfI9tJYa7abqbCGKH86m"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 308124,
       "name": "CORRE",
       "url": "https://open.spotify.com/track/0yFnq9TbsE8bYp5PD9pEgX"
-    },
-    {
-      "added_at": "2024-11-06 20:37:39",
-      "album": {
-        "name": "Janequeo",
-        "url": "https://open.spotify.com/album/5hUTL7WSWms4WjHZmcKVH2"
-      },
-      "artists": [
-        {
-          "name": "Brisa Flow",
-          "url": "https://open.spotify.com/artist/78XNtbcRuW435NYDYV0rWO"
-        }
-      ],
-      "duration_ms": 164526,
-      "name": "Besitos",
-      "url": "https://open.spotify.com/track/0Qvy12liwtoMguxEuM47fu"
     },
     {
       "added_at": "2024-11-06 20:37:39",
@@ -695,30 +695,6 @@
       "duration_ms": 149985,
       "name": "Pra Voc\u00ea Lembrar",
       "url": "https://open.spotify.com/track/1IbvUs3gJ5wxWD5m0YARQM"
-    },
-    {
-      "added_at": "2024-11-06 20:37:39",
-      "album": {
-        "name": "EPIFANIA",
-        "url": "https://open.spotify.com/album/63mfI9tJYa7abqbCGKH86m"
-      },
-      "artists": [
-        {
-          "name": "Cristal",
-          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
-        },
-        {
-          "name": "MDN Beatz",
-          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
-        },
-        {
-          "name": "Marietti Fialho",
-          "url": "https://open.spotify.com/artist/5T5dXjtwTcsTGKoQZaNgkm"
-        }
-      ],
-      "duration_ms": 216625,
-      "name": "OBRIGADA BLACK",
-      "url": "https://open.spotify.com/track/0ydCkU8ZwpeaWgEyvthP1U"
     },
     {
       "added_at": "2024-11-06 20:37:39",
@@ -791,6 +767,30 @@
       "duration_ms": 181000,
       "name": "Da Sul pro Mundo",
       "url": "https://open.spotify.com/track/03Udd4NjEl28jB3v8IyXc4"
+    },
+    {
+      "added_at": "2024-11-06 20:37:39",
+      "album": {
+        "name": "EPIFANIA",
+        "url": "https://open.spotify.com/album/63mfI9tJYa7abqbCGKH86m"
+      },
+      "artists": [
+        {
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+        },
+        {
+          "name": "MDN Beatz",
+          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
+        },
+        {
+          "name": "Marietti Fialho",
+          "url": "https://open.spotify.com/artist/5T5dXjtwTcsTGKoQZaNgkm"
+        }
+      ],
+      "duration_ms": 216625,
+      "name": "OBRIGADA BLACK",
+      "url": "https://open.spotify.com/track/0ydCkU8ZwpeaWgEyvthP1U"
     }
   ],
   "unique_name": "EQUAL Brasil",

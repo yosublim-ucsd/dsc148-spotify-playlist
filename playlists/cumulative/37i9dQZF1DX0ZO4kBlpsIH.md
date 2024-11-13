@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-220 songs - 10 hr 47 min
+221 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Les Yeux Noirs](https://open.spotify.com/track/6bwaxaqDX81qCJbYzbb3rX) | [Pierre\-Antoine Martin](https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs) | [French Cafe](https://open.spotify.com/album/5adQdukvF9RPivGzmYQUAC) | 2:06 | 2023-03-15 |  |
 | [Les Yeux Ouverts](https://open.spotify.com/track/1FjTuFrLRrbnT6sYmRCJcf) | [Trio Musette](https://open.spotify.com/artist/2ePIFH8jgBe6Cqe2uc8s6A) | [Les Yeux Ouverts](https://open.spotify.com/album/713V7aJPT8exLv571T7U1Y) | 2:49 | 2024-03-08 |  |
 | [Little French Bistro](https://open.spotify.com/track/6XRQ7rygcyL8NJhsfFxQl2) | [Dan Newton](https://open.spotify.com/artist/0Qtew6RxM1Q84UH2fX3tJA) | [Afternoon in Paris](https://open.spotify.com/album/3zluMWEr6bDzPdYn5S5KsV) | 4:27 | 2023-03-07 | 2023-04-28 |
+| [L´amour Facile](https://open.spotify.com/track/1jBwaHMkPzAGQV8S2U1iRg) | [Nocturne des îles](https://open.spotify.com/artist/4pYMtyyGtBDSZDRSCBghZa) | [L´amour Facile](https://open.spotify.com/album/3dXUhdR0VqnADAqgrsdChc) | 4:00 | 2024-11-12 |  |
 | [Magnitsky Mazurka](https://open.spotify.com/track/5ZXjV4dL6GAc4yRUtf48IP) | [Blue Reed](https://open.spotify.com/artist/45G3AXF6o34v567mxogrb9) | [Vol.1](https://open.spotify.com/album/5OjLE6UwpRwpVmWlNrGgM1) | 4:47 | 2022-02-18 |  |
 | [Matin Calme](https://open.spotify.com/track/08fs9mOg7lKMvHumsUFVCQ) | [Carré Bleu](https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es) | [Les feuilles mortes](https://open.spotify.com/album/3OtWDcUB17fVR7UtlQof1c) | 1:55 | 2023-03-21 | 2023-06-21 |
 | [Memories of Paris](https://open.spotify.com/track/7rPh14GzS3khcedkGjqAax) | [Dan Newton](https://open.spotify.com/artist/0Qtew6RxM1Q84UH2fX3tJA) | [Afternoon in Paris](https://open.spotify.com/album/3zluMWEr6bDzPdYn5S5KsV) | 2:32 | 2023-03-07 |  |

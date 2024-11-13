@@ -4834,7 +4834,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 203153,
       "name": "Boombastic - From \"Kadaisi Ulaga Por\"",
       "url": "https://open.spotify.com/track/0Og0stoQkK2Axw9UQ0bzQX"
@@ -14425,6 +14425,24 @@
     },
     {
       "album": {
+        "name": "King of Thugs (From \"Thug Life\")",
+        "url": "https://open.spotify.com/album/1ZBg1TnooLCY4o6doPbOCA"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        }
+      ],
+      "date_added": "2024-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173983,
+      "name": "King of Thugs (From \"Thug Life\")",
+      "url": "https://open.spotify.com/track/1LBNMjCmLRiryFAsouRpVN"
+    },
+    {
+      "album": {
         "name": "My Dear Bootham (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1VT0nSy5Wg4vGGFZFUQqr1"
       },
@@ -14640,6 +14658,36 @@
       "duration_ms": 254299,
       "name": "Kola Saami Poala",
       "url": "https://open.spotify.com/track/3nPXrTFlYZHNSVcLhQRYgw"
+    },
+    {
+      "album": {
+        "name": "Lucky Baskhar (Tamil)",
+        "url": "https://open.spotify.com/album/2lo7j3e8yOdTn0tO2ZYzx5"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Anand Aravindakshan",
+          "url": "https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222206,
+      "name": "Kolladhey",
+      "url": "https://open.spotify.com/track/1Dgkf6dSvO5Sx60WtxLNIf"
     },
     {
       "album": {
@@ -16160,6 +16208,36 @@
       "duration_ms": 155600,
       "name": "Lubber Pandhu Theme",
       "url": "https://open.spotify.com/track/4GQzrgvzXYyN04xKsWeE5i"
+    },
+    {
+      "album": {
+        "name": "Lucky Baskhar (Tamil)",
+        "url": "https://open.spotify.com/album/2lo7j3e8yOdTn0tO2ZYzx5"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Usha Uthup",
+          "url": "https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa"
+        },
+        {
+          "name": "Vanamali",
+          "url": "https://open.spotify.com/artist/26RVabQo2q3G6wqyO0LnvV"
+        },
+        {
+          "name": "Balaji Venu Gopal",
+          "url": "https://open.spotify.com/artist/046lXWEKWUvcqRRS2pIvj0"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225091,
+      "name": "Lucky Baskhar Title Track",
+      "url": "https://open.spotify.com/track/2PFfP4I3bOG3cNjWRVUTsz"
     },
     {
       "album": {
@@ -22820,7 +22898,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 242195,
       "name": "Oru Oorula Raaja - From \"Vaazhai\"",
       "url": "https://open.spotify.com/track/0ljQNELuxAFnx5eOXrxFTF"
@@ -32003,24 +32081,6 @@
     },
     {
       "album": {
-        "name": "Thug Life Title Track (From \"Thug Life\")",
-        "url": "https://open.spotify.com/album/1ZBg1TnooLCY4o6doPbOCA"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        }
-      ],
-      "date_added": "2024-11-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173983,
-      "name": "Thug Life Title Track (From \"Thug Life\")",
-      "url": "https://open.spotify.com/track/1LBNMjCmLRiryFAsouRpVN"
-    },
-    {
-      "album": {
         "name": "Cobra (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5QlbnAP1xU0GMwpjchHLA3"
       },
@@ -35803,6 +35863,32 @@
     },
     {
       "album": {
+        "name": "Lucky Baskhar (Tamil)",
+        "url": "https://open.spotify.com/album/2lo7j3e8yOdTn0tO2ZYzx5"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Balaji Venu Gopal",
+          "url": "https://open.spotify.com/artist/046lXWEKWUvcqRRS2pIvj0"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227114,
+      "name": "Vidhi Maarudha",
+      "url": "https://open.spotify.com/track/0CrOjmVIGhzw7ZkWIowRqk"
+    },
+    {
+      "album": {
         "name": "Vidhi Maarudha (From \"Lucky Baskhar\")(Tamil)",
         "url": "https://open.spotify.com/album/5zMty9QyzsRNg04HHCrc9d"
       },
@@ -35822,7 +35908,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 227114,
       "name": "Vidhi Maarudha (From \"Lucky Baskhar\")(Tamil)",
       "url": "https://open.spotify.com/track/0vUocFes6TdiFDmiaPnOA9"

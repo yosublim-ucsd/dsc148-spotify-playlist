@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Aliocha Schneider",
-  "num_followers": 42564,
+  "num_followers": 42562,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "La 17",
-        "url": "https://open.spotify.com/album/2z4jzFw2X78jeHJSHZXNm9"
-      },
-      "artists": [
-        {
-          "name": "Timal",
-          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
-        }
-      ],
-      "duration_ms": 163704,
-      "name": "La 17",
-      "url": "https://open.spotify.com/track/4fwoQriiroBecN5Ys52GMh"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "BIG BOSS",
         "url": "https://open.spotify.com/album/4PaaAErVTpa5Q9Io3ZrEeN"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 122023,
       "name": "BIG BOSS",
       "url": "https://open.spotify.com/track/1Qv5W0xuZRtXflP0z8VCGi"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "La 17",
+        "url": "https://open.spotify.com/album/2z4jzFw2X78jeHJSHZXNm9"
+      },
+      "artists": [
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        }
+      ],
+      "duration_ms": 163704,
+      "name": "La 17",
+      "url": "https://open.spotify.com/track/4fwoQriiroBecN5Ys52GMh"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -575,6 +575,26 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Seul au monde (feat. Soolking)",
+        "url": "https://open.spotify.com/album/6FDNPF6pWDiunpZicIU2fa"
+      },
+      "artists": [
+        {
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "duration_ms": 180361,
+      "name": "Seul au monde (feat. Soolking)",
+      "url": "https://open.spotify.com/track/0KrYHoN0qRDv4IO9EDP6gX"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Chacun son chacun",
         "url": "https://open.spotify.com/album/5evTiiR9ce2tsiqO0BkilL"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 168693,
       "name": "Le choix",
       "url": "https://open.spotify.com/track/4tkBNgVQCddAdgY1GDwTLn"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Seul au monde (feat. Soolking)",
-        "url": "https://open.spotify.com/album/6FDNPF6pWDiunpZicIU2fa"
-      },
-      "artists": [
-        {
-          "name": "Corneille",
-          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
-        },
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        }
-      ],
-      "duration_ms": 180361,
-      "name": "Seul au monde (feat. Soolking)",
-      "url": "https://open.spotify.com/track/0KrYHoN0qRDv4IO9EDP6gX"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Dans ma bulle",
+        "url": "https://open.spotify.com/album/5579x9JAF1CCKtb4sswN9A"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "duration_ms": 152679,
+      "name": "Dans ma bulle",
+      "url": "https://open.spotify.com/track/5Duyl1dabYWFFMfObBFBPH"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Ah les crocodiles",
         "url": "https://open.spotify.com/album/0WxicFS99fD7dwj7ZP4SsT"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Dans ma bulle",
-        "url": "https://open.spotify.com/album/5579x9JAF1CCKtb4sswN9A"
+        "name": "Absent",
+        "url": "https://open.spotify.com/album/42GxEIIABO7xY0gMxaGZW5"
       },
       "artists": [
         {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
         }
       ],
-      "duration_ms": 152679,
-      "name": "Dans ma bulle",
-      "url": "https://open.spotify.com/track/5Duyl1dabYWFFMfObBFBPH"
+      "duration_ms": 179555,
+      "name": "Absent",
+      "url": "https://open.spotify.com/track/3uIjsEqU6q78itijkqbGlM"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -787,22 +803,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Absent",
-        "url": "https://open.spotify.com/album/42GxEIIABO7xY0gMxaGZW5"
-      },
-      "artists": [
-        {
-          "name": "Timal",
-          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
-        }
-      ],
-      "duration_ms": 179555,
-      "name": "Absent",
-      "url": "https://open.spotify.com/track/3uIjsEqU6q78itijkqbGlM"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "On s'\u00e9crira",
         "url": "https://open.spotify.com/album/0cJEP5ecTZ0CObshdrHBCs"
       },
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "IMPOSTEUR",
-        "url": "https://open.spotify.com/album/530vPuQlxS2kq2jNJIx59g"
-      },
-      "artists": [
-        {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
-        }
-      ],
-      "duration_ms": 208560,
-      "name": "Les d\u00e9mons de minuit",
-      "url": "https://open.spotify.com/track/0FJxWDiOrOuSUwCwhVS7wT"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "L\u2019envers du d\u00e9cor",
         "url": "https://open.spotify.com/album/3KuXTV8osR0iFA9NlnEubP"
       },
@@ -855,22 +839,34 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Voyage (Part II)",
-        "url": "https://open.spotify.com/album/26y7m3SRcbfHXk5KDdLgfl"
+        "name": "IMPOSTEUR",
+        "url": "https://open.spotify.com/album/530vPuQlxS2kq2jNJIx59g"
       },
       "artists": [
         {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
-        },
-        {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
         }
       ],
-      "duration_ms": 180893,
-      "name": "Habiba",
-      "url": "https://open.spotify.com/track/6yI6k66NwtpEcMYjSBk3YB"
+      "duration_ms": 208560,
+      "name": "Les d\u00e9mons de minuit",
+      "url": "https://open.spotify.com/track/0FJxWDiOrOuSUwCwhVS7wT"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "CRASH C\u0152UR+",
+        "url": "https://open.spotify.com/album/4E3heRLsWhWQwDDMwoo617"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "petite musique",
+      "url": "https://open.spotify.com/track/4qVY03Ook13G2yisPjYawd"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

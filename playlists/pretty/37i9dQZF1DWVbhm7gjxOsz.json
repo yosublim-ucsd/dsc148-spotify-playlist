@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 93147,
+  "num_followers": 93234,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Thin Line Between Love & Hate: Golden Classics",
-        "url": "https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98"
-      },
-      "artists": [
-        {
-          "name": "The Persuaders",
-          "url": "https://open.spotify.com/artist/6PhJqhvF42CZ42NUmxIKLB"
-        }
-      ],
-      "duration_ms": 207653,
-      "name": "Thin Line Between Love and Hate",
-      "url": "https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Workin' On A Groovy Thing....The Best Of",
         "url": "https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 151453,
       "name": "Tell Him",
       "url": "https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Thin Line Between Love & Hate: Golden Classics",
+        "url": "https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98"
+      },
+      "artists": [
+        {
+          "name": "The Persuaders",
+          "url": "https://open.spotify.com/artist/6PhJqhvF42CZ42NUmxIKLB"
+        }
+      ],
+      "duration_ms": 207653,
+      "name": "Thin Line Between Love and Hate",
+      "url": "https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
+        "name": "I Do Love You",
+        "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
+      },
+      "artists": [
+        {
+          "name": "Billy Stewart",
+          "url": "https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J"
+        }
+      ],
+      "duration_ms": 177946,
+      "name": "I Do Love You",
+      "url": "https://open.spotify.com/track/3J0VYipa6lrdBkjLM7j4iI"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
         "name": "Do You Love",
         "url": "https://open.spotify.com/album/7gs58h7gcR2HL5tlFC3YT7"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 270856,
       "name": "Do You Love",
       "url": "https://open.spotify.com/track/7IUv36NL5erXotT7sTQ5MD"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "I Do Love You",
-        "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
-      },
-      "artists": [
-        {
-          "name": "Billy Stewart",
-          "url": "https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "I Do Love You",
-      "url": "https://open.spotify.com/track/3J0VYipa6lrdBkjLM7j4iI"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "La Vida Es Fr\u00eda",
-        "url": "https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp"
-      },
-      "artists": [
-        {
-          "name": "Jason Joshua",
-          "url": "https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn"
-        }
-      ],
-      "duration_ms": 202234,
-      "name": "La Vida Es Fr\u00eda",
-      "url": "https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Grazin'",
         "url": "https://open.spotify.com/album/3LPgvdYSDRmaRmZV0KA0Kw"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Star Time",
-        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
+        "name": "La Vida Es Fr\u00eda",
+        "url": "https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp"
       },
       "artists": [
         {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+          "name": "Jason Joshua",
+          "url": "https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn"
         }
       ],
-      "duration_ms": 151626,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk"
+      "duration_ms": 202234,
+      "name": "La Vida Es Fr\u00eda",
+      "url": "https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1207,6 +1191,22 @@
       "duration_ms": 152933,
       "name": "I Want A Love I Can See",
       "url": "https://open.spotify.com/track/5XOGZdDM17WzrXRQz96Fu1"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Star Time",
+        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 151626,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Best Of The Animals",
-        "url": "https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y"
-      },
-      "artists": [
-        {
-          "name": "The Animals",
-          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
-        }
-      ],
-      "duration_ms": 148346,
-      "name": "Don't Let Me Be Misunderstood",
-      "url": "https://open.spotify.com/track/1jHnZTRWg5xRHV4SeyUiQz"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Whatcha Know",
         "url": "https://open.spotify.com/album/0w7NTBLYYYWY5fabjAUyhZ"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 234593,
       "name": "Whatcha Know",
       "url": "https://open.spotify.com/track/50xfWsLVNNvXYdeLbdT0lz"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Best Of The Animals",
+        "url": "https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y"
+      },
+      "artists": [
+        {
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+        }
+      ],
+      "duration_ms": 148346,
+      "name": "Don't Let Me Be Misunderstood",
+      "url": "https://open.spotify.com/track/1jHnZTRWg5xRHV4SeyUiQz"
     },
     {
       "added_at": "2024-08-14 08:31:40",

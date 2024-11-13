@@ -819,6 +819,24 @@
     },
     {
       "album": {
+        "name": "Check-In (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Cs1VjhgG8FmA5rv5iXe3r"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183249,
+      "name": "Cantada Boba - Ao Vivo",
+      "url": "https://open.spotify.com/track/2gfn28JSINCJGLrUimmu0l"
+    },
+    {
+      "album": {
         "name": "Canudinho (Ao Vivo)",
         "url": "https://open.spotify.com/album/1w5McUqm1LoGFBynpndS6x"
       },
@@ -1972,7 +1990,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 186107,
       "name": "EU SOU SENTIMENTO",
       "url": "https://open.spotify.com/track/0HDMisLsuGNml98Xq7atpm"

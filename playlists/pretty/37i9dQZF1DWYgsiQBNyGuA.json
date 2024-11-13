@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 89300,
+  "num_followers": 89342,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -649,6 +649,22 @@
       "url": "https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e"
     },
     {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Soul Power",
+        "url": "https://open.spotify.com/album/7BlqkOOBcVqUwLEhC0Rxq6"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 270306,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/6h7oewjyzSKywtot8sHXj7"
+    },
+    {
       "added_at": "2024-08-30 05:32:52",
       "album": {
         "name": "Beautiful Pain",
@@ -667,22 +683,6 @@
       "duration_ms": 311038,
       "name": "Bedroom Bully",
       "url": "https://open.spotify.com/track/3JPckFErTvmkEMwJsOzTOb"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Soul Power",
-        "url": "https://open.spotify.com/album/7BlqkOOBcVqUwLEhC0Rxq6"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 270306,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/6h7oewjyzSKywtot8sHXj7"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-08-30 05:32:52",
       "album": {
-        "name": "Beautiful Pain",
-        "url": "https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk"
-      },
-      "artists": [
-        {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
-        }
-      ],
-      "duration_ms": 299386,
-      "name": "Rescue",
-      "url": "https://open.spotify.com/track/3es6erjJ2cDVAQaNnLaFmb"
-    },
-    {
-      "added_at": "2024-08-30 05:32:52",
-      "album": {
         "name": "Love Goes",
         "url": "https://open.spotify.com/album/2z1sSMgDKfQXnfi71Ro1LZ"
       },
@@ -791,22 +775,6 @@
       "duration_ms": 166665,
       "name": "Love Goes",
       "url": "https://open.spotify.com/track/7lt6KKaSXku9ExpG8EaqwV"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Sea of Noise",
-        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "All I Ever Wonder",
-      "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
     },
     {
       "added_at": "2024-10-25 08:08:52",
@@ -829,6 +797,38 @@
       "url": "https://open.spotify.com/track/0iLEfYSsM1FZQRaqXdX0dq"
     },
     {
+      "added_at": "2024-08-30 05:32:52",
+      "album": {
+        "name": "Beautiful Pain",
+        "url": "https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk"
+      },
+      "artists": [
+        {
+          "name": "Tyrese",
+          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+        }
+      ],
+      "duration_ms": 299386,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/3es6erjJ2cDVAQaNnLaFmb"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Sea of Noise",
+        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "All I Ever Wonder",
+      "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
+    },
+    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "Lean On Me - The Songs Of Bill Withers (Bonustrack Edition)",
@@ -843,6 +843,22 @@
       "duration_ms": 260506,
       "name": "Just The Two Of Us",
       "url": "https://open.spotify.com/track/2P3YVlcxm5m4cRxjNiZ96q"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "These Eyes",
+      "url": "https://open.spotify.com/track/03IhqVajoXFTIuqRu4w1B7"
     },
     {
       "added_at": "2024-10-25 08:08:52",
@@ -863,38 +879,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "These Eyes",
-      "url": "https://open.spotify.com/track/03IhqVajoXFTIuqRu4w1B7"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "The Way I Feel",
-        "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
-      },
-      "artists": [
-        {
-          "name": "Remy Shand",
-          "url": "https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt"
-        }
-      ],
-      "duration_ms": 301960,
-      "name": "The Way I Feel",
-      "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "Take You There",
         "url": "https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 212116,
       "name": "Take You There",
       "url": "https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "The Way I Feel",
+        "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
+      },
+      "artists": [
+        {
+          "name": "Remy Shand",
+          "url": "https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt"
+        }
+      ],
+      "duration_ms": 301960,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/4QrSU9pX2FzV2vc6vj19Fl"
-      },
-      "artists": [
-        {
-          "name": "Ben L'Oncle Soul",
-          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/6qjrJJppRQlIpqnfypeMsr"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "Circle Of One",
         "url": "https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 238906,
       "name": "I've Got A Right",
       "url": "https://open.spotify.com/track/79oVaKQxheWhtZqtVqqiJS"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/4QrSU9pX2FzV2vc6vj19Fl"
+      },
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/6qjrJJppRQlIpqnfypeMsr"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G"
-      },
-      "artists": [
-        {
-          "name": "Adriana Evans",
-          "url": "https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv"
-        }
-      ],
-      "duration_ms": 265560,
-      "name": "All For Love",
-      "url": "https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "The Woman I Am",
         "url": "https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 284840,
       "name": "Love You All My Lifetime",
       "url": "https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G"
+      },
+      "artists": [
+        {
+          "name": "Adriana Evans",
+          "url": "https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv"
+        }
+      ],
+      "duration_ms": 265560,
+      "name": "All For Love",
+      "url": "https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Rahsaan Patterson",
-        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
-      },
-      "artists": [
-        {
-          "name": "Rahsaan Patterson",
-          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
-        }
-      ],
-      "duration_ms": 354093,
-      "name": "Stop By",
-      "url": "https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "My Home (Love Brings Us Here) - Single",
         "url": "https://open.spotify.com/album/1qsxuAF1ujU6tjtAIYRpqB"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 213983,
       "name": "My Home (Love Brings Us Here)",
       "url": "https://open.spotify.com/track/425RXHH1ByViVaSslgfg0V"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Rahsaan Patterson",
+        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
+      },
+      "artists": [
+        {
+          "name": "Rahsaan Patterson",
+          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
+        }
+      ],
+      "duration_ms": 354093,
+      "name": "Stop By",
+      "url": "https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T"
     },
     {
       "added_at": "2024-03-08 13:51:25",

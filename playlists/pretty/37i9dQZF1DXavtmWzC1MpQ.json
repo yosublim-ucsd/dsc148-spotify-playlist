@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 141011,
+  "num_followers": 141069,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -567,18 +567,18 @@
     {
       "added_at": "2024-08-23 13:01:20",
       "album": {
-        "name": "The Rain",
-        "url": "https://open.spotify.com/album/1hVoDnDgD0chGjPJFV7zW4"
+        "name": "Soothing Birdsong by the River",
+        "url": "https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf"
       },
       "artists": [
         {
-          "name": "Naturalis",
-          "url": "https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB"
+          "name": "El Naturel",
+          "url": "https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX"
         }
       ],
-      "duration_ms": 183028,
-      "name": "Distant Thunder in the East of the City",
-      "url": "https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At"
+      "duration_ms": 184186,
+      "name": "Soothing Birdsong by the River",
+      "url": "https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1"
     },
     {
       "added_at": "2024-08-23 13:01:20",
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-08-23 13:01:20",
       "album": {
-        "name": "Soothing Birdsong by the River",
-        "url": "https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf"
+        "name": "The Rain",
+        "url": "https://open.spotify.com/album/1hVoDnDgD0chGjPJFV7zW4"
       },
       "artists": [
         {
-          "name": "El Naturel",
-          "url": "https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX"
+          "name": "Naturalis",
+          "url": "https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB"
         }
       ],
-      "duration_ms": 184186,
-      "name": "Soothing Birdsong by the River",
-      "url": "https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1"
+      "duration_ms": 183028,
+      "name": "Distant Thunder in the East of the City",
+      "url": "https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At"
     },
     {
       "added_at": "2024-08-23 13:01:20",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-08-23 13:01:20",
       "album": {
-        "name": "2017 Relaxing Outdoor Soundscapes",
-        "url": "https://open.spotify.com/album/7e4uRRWT82EWgnkCfUzp2l"
-      },
-      "artists": [
-        {
-          "name": "Nature Recordings",
-          "url": "https://open.spotify.com/artist/6IJx7h0cuM3736FwR8Myiv"
-        }
-      ],
-      "duration_ms": 209090,
-      "name": "Birds by the Stream",
-      "url": "https://open.spotify.com/track/3458IPEk4hUgltmvecrYsJ"
-    },
-    {
-      "added_at": "2024-08-23 13:01:20",
-      "album": {
         "name": "Light Forest Rain",
         "url": "https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 146000,
       "name": "Light Forest Rain 1",
       "url": "https://open.spotify.com/track/14oV03JSrcUShNmJw0qUvH"
+    },
+    {
+      "added_at": "2024-08-23 13:01:20",
+      "album": {
+        "name": "2017 Relaxing Outdoor Soundscapes",
+        "url": "https://open.spotify.com/album/7e4uRRWT82EWgnkCfUzp2l"
+      },
+      "artists": [
+        {
+          "name": "Nature Recordings",
+          "url": "https://open.spotify.com/artist/6IJx7h0cuM3736FwR8Myiv"
+        }
+      ],
+      "duration_ms": 209090,
+      "name": "Birds by the Stream",
+      "url": "https://open.spotify.com/track/3458IPEk4hUgltmvecrYsJ"
     },
     {
       "added_at": "2024-08-23 13:01:20",

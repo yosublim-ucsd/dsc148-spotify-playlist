@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u56fd\u5185\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u305f\u3061\u3092\u7279\u96c6\u3002Japanese women rock icons. Cover: PEDRO",
+  "description": "\u56fd\u5185\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u305f\u3061\u3092\u7279\u96c6\u3002Japanese women rock icons. Cover: GLIM SPANKY",
   "name": "She Rocks",
   "tracks": [
     {
@@ -2630,7 +2630,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 246959,
       "name": "Crawl",
       "url": "https://open.spotify.com/track/0VJvLYjlPuebg8wGvrQsPB"
@@ -11094,7 +11094,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 175160,
       "name": "PSIREN",
       "url": "https://open.spotify.com/track/47dUVCUrkd4TKLD64qmArY"
@@ -12618,6 +12618,24 @@
       "duration_ms": 249864,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/1JWtFauEXNtgbEif9fdCTg"
+    },
+    {
+      "album": {
+        "name": "see you, frail angel. sea adore you.",
+        "url": "https://open.spotify.com/album/0OOKJDKWXgOIgmYwAaWdEE"
+      },
+      "artists": [
+        {
+          "name": "Homecomings",
+          "url": "https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "slowboat",
+      "url": "https://open.spotify.com/track/04akTbVn92wi3rAaZQTy45"
     },
     {
       "album": {
@@ -20740,7 +20758,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 290360,
       "name": "\u30c8\u30fc\u30c1\u30bd\u30f3\u30b0",
       "url": "https://open.spotify.com/track/47YaLww0WbWQrmden7QzMe"
@@ -22174,7 +22192,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 206226,
       "name": "\u30d7\u30eb\u30df\u30a8\u30fc\u30eb",
       "url": "https://open.spotify.com/track/2OnKy5qpFJiAVgFrwuDrUN"
@@ -23420,6 +23438,24 @@
       "duration_ms": 265986,
       "name": "\u30ea\u30f3\u30ab\u30fc\u30cd\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/4u1aJqeQ9hTJ24VpUrqPtg"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30d3\u3092\u632f\u308c",
+        "url": "https://open.spotify.com/album/3oCcpl90Mh5q9IW8o7CfjS"
+      },
+      "artists": [
+        {
+          "name": "\u540d\u8a89\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234133,
+      "name": "\u30eb\u30d3\u3092\u632f\u308c",
+      "url": "https://open.spotify.com/track/261ruVr8QvDtNgEdua6GrQ"
     },
     {
       "album": {
@@ -26886,6 +26922,28 @@
       "duration_ms": 300000,
       "name": "\u611b\u304c\u5922",
       "url": "https://open.spotify.com/track/4tUzXhaC4ZUtMzsfW9FLje"
+    },
+    {
+      "album": {
+        "name": "\u611b\u304c\u6e80\u3061\u308b\u307e\u3067",
+        "url": "https://open.spotify.com/album/2KohcXG9rfrV5s0WdSfX1w"
+      },
+      "artists": [
+        {
+          "name": "GLIM SPANKY",
+          "url": "https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig"
+        },
+        {
+          "name": "LOVE PSYCHEDELICO",
+          "url": "https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "\u611b\u304c\u6e80\u3061\u308b\u307e\u3067",
+      "url": "https://open.spotify.com/track/2ukabT6A7TPbbOqqisktaE"
     },
     {
       "album": {
@@ -31968,6 +32026,24 @@
       "duration_ms": 247000,
       "name": "\u990c\u306b\u3082\u306a\u308c\u306a\u3044",
       "url": "https://open.spotify.com/track/5a2dhJIsvfkDVVj5MWZGPN"
+    },
+    {
+      "album": {
+        "name": "\u99ac\u9e7f\u306e\u4e00\u3064\u899a\u3048",
+        "url": "https://open.spotify.com/album/642fgL8oxHNZtNOsB2ZRBK"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243493,
+      "name": "\u99ac\u9e7f\u306e\u4e00\u3064\u899a\u3048",
+      "url": "https://open.spotify.com/track/6qXaLEEgVGhA3cQGfwAZa9"
     },
     {
       "album": {

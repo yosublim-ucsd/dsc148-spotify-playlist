@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 270375,
       "name": "Eyy Banane",
       "url": "https://open.spotify.com/track/3K8t6RzlYZSCkVjI3kczzD"
@@ -2608,6 +2608,32 @@
       "duration_ms": 197568,
       "name": "Ozhappan Anthem",
       "url": "https://open.spotify.com/track/1tVwdVeuje3iVvIHoBhCte"
+    },
+    {
+      "album": {
+        "name": "Pacha Parishkari",
+        "url": "https://open.spotify.com/album/1PFv6IHNN4aVjxqLNph5rG"
+      },
+      "artists": [
+        {
+          "name": "ThirumaLi",
+          "url": "https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ"
+        },
+        {
+          "name": "Jay Stellar",
+          "url": "https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk"
+        },
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178923,
+      "name": "Pacha Parishkari",
+      "url": "https://open.spotify.com/track/1AX9IVuMQ9WThp1koU7sdY"
     },
     {
       "album": {

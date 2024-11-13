@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-1,919 songs - 4 day 2 hr 26 min
+1,920 songs - 4 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -598,7 +598,7 @@
 | [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 | 2023-10-14 | 2023-10-19 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-18 | 2024-05-03 |
 | [Grill u Gawrona](https://open.spotify.com/track/7n7QAwwFJG7jOjxgACW1XC) | [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [Lanek](https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG) | [In hajs we trust 2](https://open.spotify.com/album/5RxiT0mQKcTESbsMqoTz4G) | 2:52 | 2022-05-22 | 2024-01-03 |
-| [Ground Zero](https://open.spotify.com/track/2FHBvsUs4tpHSzIi3GvRjK) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [Ground Zero](https://open.spotify.com/album/64E5U2FDC6r3yPmOju9MuK) | 2:58 | 2023-03-17 |  |
+| [Ground Zero](https://open.spotify.com/track/2FHBvsUs4tpHSzIi3GvRjK) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [Ground Zero](https://open.spotify.com/album/64E5U2FDC6r3yPmOju9MuK) | 2:58 | 2023-03-17 | 2024-11-13 |
 | [Ground Zero](https://open.spotify.com/track/5qBLfeAGlgGGsckKhsMWpF) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [Ground Zero](https://open.spotify.com/album/6TLQqwdXW3qCE6IQKjcmhS) | 2:58 | 2023-01-03 | 2023-03-12 |
 | [Gruby Temat](https://open.spotify.com/track/0W03wM1BhZTmTWLXdIqEXG) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Pułapka Na Motyle](https://open.spotify.com/album/5ccwNrkxoiG2WdO5oJ0kbQ) | 2:25 | 2021-04-18 | 2021-05-03 |
 | [Guantanamera \(She's Hot\)](https://open.spotify.com/track/7CijDWxEEbKq76O5rpyCEN) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [I Am Armando \- Armando Reloaded](https://open.spotify.com/album/0kv3Rm7PODqJBQaVJiezuB) | 3:25 | 2024-01-30 | 2024-02-21 |
@@ -1104,6 +1104,7 @@
 | [NDA](https://open.spotify.com/track/1LTAYhorx76972Pr5ZOk8b) | [SVM!R](https://open.spotify.com/artist/4K8wRpyAE3Cwq4q5Jpgpdh) | [NDA](https://open.spotify.com/album/6AyR9OVzXt4FokEcjtautT) | 2:46 | 2024-07-08 |  |
 | [Ne Rozumiju](https://open.spotify.com/track/3XWr2NZqYd80MB8FIq9r55) | [Vixen](https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO) | [BLINDBOX](https://open.spotify.com/album/7Cn5ha1ybFow1MXaqUu8F0) | 3:20 | 2023-11-29 | 2024-07-31 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-07-28 | 2021-08-31 |
+| [NEL](https://open.spotify.com/track/5AH31dDNgxCMGDdxubNNn4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:29 | 2024-11-12 |  |
 | [Nemo](https://open.spotify.com/track/7eCpOF5ZJTW6RAEBAeK0qg) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd) | [Mati EP](https://open.spotify.com/album/3rklfLzCjt3U9TERUSnoJ6) | 3:01 | 2024-10-20 |  |
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-04-13 | 2023-04-23 |
 | [Never Going Home](https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Never Going Home](https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA) | 2:49 | 2021-07-19 | 2022-01-03 |

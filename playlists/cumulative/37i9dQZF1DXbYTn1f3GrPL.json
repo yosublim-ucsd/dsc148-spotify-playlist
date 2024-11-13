@@ -3669,6 +3669,24 @@
     },
     {
       "album": {
+        "name": "Soak",
+        "url": "https://open.spotify.com/album/1nW6jIUZl5rTEqYPSRiNAp"
+      },
+      "artists": [
+        {
+          "name": "Quentin Noire",
+          "url": "https://open.spotify.com/artist/1FXZ3lnXGrC1N5WGYOzmRm"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226909,
+      "name": "Soak",
+      "url": "https://open.spotify.com/track/4RE7zeeKezgpDgNdkleavy"
+    },
+    {
+      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/1hpx4jwuWDg8ey7OujBBi4"
       },

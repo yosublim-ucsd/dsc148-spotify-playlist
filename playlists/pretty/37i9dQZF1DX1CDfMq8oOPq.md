@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > a verdadeira bandida seu fechamento, já pensou 🤯
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,128 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,227 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 20 | [Big D!!!!! Pt\. 2](https://open.spotify.com/track/2Sb6RKbJkOKJcC4JAoeAaB) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Taurus, Vol\. 2](https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4) | 2:20 |
 | 21 | [+18](https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Fração 3/4](https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh) | 2:38 |
 | 22 | [5min](https://open.spotify.com/track/27AJfxwJCs8T2BxeVNbniw) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [5min](https://open.spotify.com/album/0TMUGXzv71hCms04QO2b8b) | 2:08 |
-| 23 | [Eu amo ser negona](https://open.spotify.com/track/1z4NEIfISzguBEdmmFzl9h) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [G.a.B.o](https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR) | [Eu amo ser negona](https://open.spotify.com/album/3DQ5gtY52GVBCzIZGSrYLG) | 2:37 |
-| 24 | [Dominadora](https://open.spotify.com/track/1bWPBHhTIsjplANKVjjJVW) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh) | [Dominadora](https://open.spotify.com/album/7Du5sEj5n4u8oytrQuMVON) | 1:49 |
+| 23 | [Dominadora](https://open.spotify.com/track/1bWPBHhTIsjplANKVjjJVW) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh) | [Dominadora](https://open.spotify.com/album/7Du5sEj5n4u8oytrQuMVON) | 1:49 |
+| 24 | [Eu amo ser negona](https://open.spotify.com/track/1z4NEIfISzguBEdmmFzl9h) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [G.a.B.o](https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR) | [Eu amo ser negona](https://open.spotify.com/album/3DQ5gtY52GVBCzIZGSrYLG) | 2:37 |
 | 25 | [Hino Delas](https://open.spotify.com/track/2k7EbkIovGbJJCWy7OoOgb) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Hino Delas](https://open.spotify.com/album/7yZ4A2amuedBlNHRC9ESMd) | 2:19 |
 | 26 | [Botei a V.U Na Boca Do Povo](https://open.spotify.com/track/69yKMqExUqRC2rlHddG4Hu) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Até aqui, Slip nos ajudou](https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS) | 2:31 |
 | 27 | [Piranha](https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Piranha](https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK) | 2:56 |

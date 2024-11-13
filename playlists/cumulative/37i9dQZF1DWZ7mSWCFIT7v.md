@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis.
 
-361 songs - 1 day 5 hr 2 min
+363 songs - 1 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Arthur](https://open.spotify.com/track/0FLNKkwmlA8IN2RN1KNIHt) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Square One](https://open.spotify.com/album/5IruA91DcFLqjsryE4CMuZ) | 7:05 | 2021-10-06 | 2022-07-29 |
 | [Arthur](https://open.spotify.com/track/7AFNqxLKcSL0LpNpOgmhKt) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Square One](https://open.spotify.com/album/2m4Et0BnKCV3SoJCeJVmSZ) | 7:05 | 2021-10-06 | 2024-04-19 |
 | [Artificial Authentic](https://open.spotify.com/track/1Enw5MZBUVnrTzbzwBbpSF) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Artificial Authentic](https://open.spotify.com/album/1hNq0oYtTHuTotskwcBFq1) | 3:35 | 2021-10-06 | 2022-07-28 |
-| [Attende](https://open.spotify.com/track/3YGYDn8htVD9CtTW4AmlRm) | [Pjusk](https://open.spotify.com/artist/1iqn4OAlsj7UVYzIfNGctq), [Tortusa](https://open.spotify.com/artist/5V9GUZs0R81FpHxKoY1gfo) | [Sakne Verda](https://open.spotify.com/album/36ruLBsItthE59Qe6tptau) | 5:16 | 2021-10-06 |  |
+| [Attende](https://open.spotify.com/track/3YGYDn8htVD9CtTW4AmlRm) | [Pjusk](https://open.spotify.com/artist/1iqn4OAlsj7UVYzIfNGctq), [Tortusa](https://open.spotify.com/artist/5V9GUZs0R81FpHxKoY1gfo) | [Sakne Verda](https://open.spotify.com/album/36ruLBsItthE59Qe6tptau) | 5:16 | 2021-10-06 | 2024-11-13 |
 | [Aubades](https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Blinking/Aubades](https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U) | 3:40 | 2021-10-06 |  |
 | [Aural Drift \- T.Raumschmiere Remix](https://open.spotify.com/track/5f9weZ5oyuZRKA1riM5vpu) | [Martin Merz](https://open.spotify.com/artist/0lIOPkFJhKVldKHdz9zsTb), [T.Raumschmiere](https://open.spotify.com/artist/58ZRFHI9f72MNGA77F6OCA) | [Aural Drift \(T.Raumschmiere Remix\)](https://open.spotify.com/album/1txyyFVgTh2zuMAObmT8W7) | 5:47 | 2022-02-16 | 2024-07-18 |
 | [Authenticated Krell](https://open.spotify.com/track/3TTyEO1WFusWo5HaSeokt6) | [Wobbly](https://open.spotify.com/artist/0qNnLmgWCSxj07xjEmz5aN) | [Popular Monitress](https://open.spotify.com/album/1XFvHUAZbwfqsPZZReEVSt) | 3:30 | 2021-10-06 | 2022-07-28 |
@@ -95,6 +95,7 @@
 | [Derecho](https://open.spotify.com/track/1ex9tLfCgzOjV5rAU622nk) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Derecho](https://open.spotify.com/album/6dfr8bom2gZBPVaFMMxwzW) | 4:25 | 2024-08-14 |  |
 | [Derrwut](https://open.spotify.com/track/2YvuaFepDHElKAuZtmjYSB) | [Rogelio the IIIrd](https://open.spotify.com/artist/4rUsH3oMKno1XFIXH9Phve) | [Derrwut](https://open.spotify.com/album/78l8Xlbky2z4MxW3Jml8b7) | 2:41 | 2024-05-08 | 2024-11-10 |
 | [Diamond Beach](https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Diamond Beach](https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE) | 3:04 | 2022-02-25 |  |
+| [Disig](https://open.spotify.com/track/4Gaub7XH9WEFVHSnVQurbk) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Nutrition EP](https://open.spotify.com/album/1bOl840hJ6oAoDWn1qNYgV) | 5:04 | 2024-11-12 |  |
 | [Distant Solace](https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Distant Solace](https://open.spotify.com/album/7odaTvennSTNVuMLArV19i) | 2:33 | 2024-02-02 |  |
 | [Divine Interference](https://open.spotify.com/track/6fmx1B2AdJi1Nu7m6cVRnN) | [Sophia Loizou](https://open.spotify.com/artist/35wH6kN89Vy5MeYwTKHQ9Q) | [Singulacra](https://open.spotify.com/album/1SyVmG5FoRitDCJKzxIssB) | 5:33 | 2021-10-06 | 2022-07-22 |
 | [Do Lixo Ouriço Ganha](https://open.spotify.com/track/5v9aevluGi1W5ti4hLOuEg) | [Raar](https://open.spotify.com/artist/2inN4goKGw8lstrQxVQYgO) | [Do Lixo Ouriço Ganha](https://open.spotify.com/album/31f68bZVdnBFx6nhjkzwQZ) | 2:58 | 2024-10-16 |  |
@@ -210,6 +211,7 @@
 | [NLL561606933](https://open.spotify.com/track/1sxkvvUTGKcRoY3IYnKyRb) | [Aleksi Perälä](https://open.spotify.com/artist/3hjBVvW03HcmXfKUipv1Fx) | [Simulation](https://open.spotify.com/album/542oFPILAI1UiGnoHH8XyH) | 4:54 | 2021-10-06 | 2022-07-29 |
 | [NPCs have feelings too](https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t) | [Artur M Puga](https://open.spotify.com/artist/3eBggjM2o4vL4jMyLgElSn) | [weirdbloom](https://open.spotify.com/album/1VTbpHOo6ks1bjUZNwlvaZ) | 4:39 | 2023-03-28 | 2024-01-17 |
 | [NRG Remains](https://open.spotify.com/track/0OsNfb4otfIOdHSUt40ecP) | [Verraco](https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1) | [Grial](https://open.spotify.com/album/0plvaGqOtMeRPkzUwDgd3X) | 2:56 | 2021-10-06 | 2024-08-03 |
+| [Nutrition](https://open.spotify.com/track/2dT232m3tJqiGxhTQOWlKk) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Nutrition EP](https://open.spotify.com/album/1bOl840hJ6oAoDWn1qNYgV) | 4:25 | 2024-11-12 |  |
 | [Nutrition \- Single Edit](https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00) | [Tenka](https://open.spotify.com/artist/2B1vFfrtORGBQQdIKAckkw), [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Nutrition](https://open.spotify.com/album/1CHFy3am47XIemogPAnlwi) | 4:39 | 2022-09-15 |  |
 | [Nymphaea Crystals](https://open.spotify.com/track/4AsBd0fnVy2nz0qZYgo2gu) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Nymphaea Crystals](https://open.spotify.com/album/4qYBjbfpvpSQUCDDt8HgfF) | 2:16 | 2021-10-06 | 2022-07-28 |
 | [O=0](https://open.spotify.com/track/3CJhhMbFRpsogjQIOisYvo) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Oversteps](https://open.spotify.com/album/5iaRpin36ZjaOC6PMAZ02l) | 4:52 | 2021-10-06 | 2022-04-21 |
@@ -255,7 +257,7 @@
 | [Roaming](https://open.spotify.com/track/5q8EX29mKKA3epupwlxR64) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Roaming](https://open.spotify.com/album/6Ks5xAWcNa0hEfhdGriVI9) | 4:50 | 2021-10-06 | 2024-05-19 |
 | [Roaming](https://open.spotify.com/track/7t4uL4L6vYw2IpT8FGRodQ) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [On Hold](https://open.spotify.com/album/585bbNLL4KitR1jNWXvRxL) | 4:50 | 2021-10-06 | 2022-09-01 |
 | [Roses](https://open.spotify.com/track/0hUuWN9s7a0zpDeFG2v2zm) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Translate](https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od) | 1:48 | 2021-10-06 |  |
-| [Rotating In Unison](https://open.spotify.com/track/38x5k5FN5X7rtrN3WyxcA1) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH) | 5:01 | 2021-10-06 |  |
+| [Rotating In Unison](https://open.spotify.com/track/38x5k5FN5X7rtrN3WyxcA1) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH) | 5:01 | 2021-10-06 | 2024-11-13 |
 | [Rotterdambi](https://open.spotify.com/track/7amYhgypF2tsCax09u80oF) | [Dubokaj](https://open.spotify.com/artist/4LpipxyhaUntlQyGXKmsQL) | [Daydreamflix](https://open.spotify.com/album/0lTJ1VWKgf6fhDiHvoQ7fq) | 2:17 | 2022-03-30 | 2022-07-27 |
 | [Routine](https://open.spotify.com/track/001AtqHBv2Pmnfkd4D1fDe) | [Skee Mask](https://open.spotify.com/artist/2qwi0hBvI2GrbkurOnw3hZ) | [ISS002](https://open.spotify.com/album/56PPeakEYsp9N44Hb1RcdU) | 5:44 | 2021-10-06 | 2022-07-23 |
 | [Ryso](https://open.spotify.com/track/1TdtpAUTwx99XeEDULGVkE) | [Psychic Health](https://open.spotify.com/artist/6VZPTy7odAe8Xgy95gkie2) | [Exclusion](https://open.spotify.com/album/0TuFV0X2zr2zwS6qoSp8h3) | 4:25 | 2021-10-06 | 2022-07-20 |

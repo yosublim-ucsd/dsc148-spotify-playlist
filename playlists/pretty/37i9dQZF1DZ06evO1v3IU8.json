@@ -1,12 +1,12 @@
 {
   "description": "This is Banda MS de Sergio Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 1334634,
+  "num_followers": 1334719,
   "original_name": "This Is Banda MS de Sergio Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy/3gAAAAAD7CXlAJGHTd8RdDSgRsVOC",
+  "snapshot_id": "ZzFJAAAAAABV1e1iYu2ePQtVafdNFSeJ",
   "tracks": [
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pasa Tips",
-        "url": "https://open.spotify.com/album/5P43UV8CfStgrgvkgeou6y"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 167250,
-      "name": "Pasa Tips",
-      "url": "https://open.spotify.com/track/1GwBfU9CDCiuJh8P5Ocgxx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Perd\u00ed",
         "url": "https://open.spotify.com/album/1lRJqVJ2VkDy9q7UKhlnMy"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Enfermo",
+        "url": "https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "De Ti Enamorado",
+      "url": "https://open.spotify.com/track/3LkdhRNCXimKvOrO5vl0rC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Con Todas Las Fuerzas",
         "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
       },
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Enfermo",
-        "url": "https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo"
+        "name": "Pasa Tips",
+        "url": "https://open.spotify.com/album/5P43UV8CfStgrgvkgeou6y"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 205666,
-      "name": "De Ti Enamorado",
-      "url": "https://open.spotify.com/track/3LkdhRNCXimKvOrO5vl0rC"
+      "duration_ms": 167250,
+      "name": "Pasa Tips",
+      "url": "https://open.spotify.com/track/1GwBfU9CDCiuJh8P5Ocgxx"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PUNTO Y APARTE",
-        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+        "name": "10\u00ba Aniversario",
+        "url": "https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 152823,
-      "name": "Me Dej\u00e9 Ir Con Todo",
-      "url": "https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie"
+      "duration_ms": 143013,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/2mxzvXFtYSbDwPPpsuC2MA"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "10\u00ba Aniversario",
-        "url": "https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk"
+        "name": "PUNTO Y APARTE",
+        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 143013,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/2mxzvXFtYSbDwPPpsuC2MA"
+      "duration_ms": 152823,
+      "name": "Me Dej\u00e9 Ir Con Todo",
+      "url": "https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie"
     },
     {
       "added_at": null,

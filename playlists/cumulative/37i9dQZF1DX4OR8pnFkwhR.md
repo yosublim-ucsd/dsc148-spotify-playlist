@@ -2,9 +2,9 @@
 
 ### [RADAR: Early Noise ](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> Spotifyが注目するニューカマー・プレイリスト。Cover: Lavt
+> Spotifyが注目するニューカマー・プレイリスト。Cover: 名誉伝説
 
-1,688 songs - 4 day 5 hr 50 min
+1,690 songs - 4 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [18の息吹](https://open.spotify.com/track/7jCXSLeKRdlndNLBoGIOZR) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [∞](https://open.spotify.com/album/3gcRCzE40Pnraab0ZXcQjR) | 4:33 | 2023-11-14 | 2023-12-13 |
 | [1969](https://open.spotify.com/track/3PUqBX8ciHPqD4SU7D9mVh) | [baboon](https://open.spotify.com/artist/7sBrAW25n2EA3ZVcYZ3TwL) | [1969](https://open.spotify.com/album/54ap2DZiJxzQKbnAN7oxjI) | 4:22 | 2024-10-23 |  |
 | [2016](https://open.spotify.com/track/7nQdpfYzWAZ48Q2IcmrC3Q) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [2016](https://open.spotify.com/album/7qeQudNVKihiHBykhZa5IY) | 4:00 | 2023-03-30 | 2023-05-10 |
+| [21 century boys](https://open.spotify.com/track/7kc8nCrpr6DsKSlwGgTSFW) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [21 century boys](https://open.spotify.com/album/4gnKy7HSkQtk8kxs6FR50j) | 3:09 | 2024-11-12 |  |
 | [22](https://open.spotify.com/track/1ezSlfETdnObyRLB8UjBav) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [22](https://open.spotify.com/album/3Yri9jP2cnN0wLiYUJpTFQ) | 2:25 | 2024-04-09 | 2024-06-26 |
 | [24 hours](https://open.spotify.com/track/425WJPWgyYnwvi4VQTq3lQ) | [植城 微香](https://open.spotify.com/artist/0eI7jwIoQ82C2fZcwRpZUs) | [24 hours](https://open.spotify.com/album/24qNK5cc5lKH8e971Y4eyo) | 3:43 | 2022-06-14 | 2022-07-27 |
 | [24/7](https://open.spotify.com/track/5Y0wyXD0vDlBB0jYaZICa9) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [24/7](https://open.spotify.com/album/143tV77vkc85Ng1qmJiheo) | 3:24 | 2023-12-19 | 2024-01-11 |
@@ -1205,7 +1206,7 @@
 | [ドラマにならない](https://open.spotify.com/track/031xiIwmBwcoN6bW6LPa7u) | [kako](https://open.spotify.com/artist/55CSGXikDNrn9191M5SrPk) | [愛すべき誰](https://open.spotify.com/album/6ZsGiyySnrWKQrmIHeUkSB) | 2:54 | 2024-06-11 | 2024-08-21 |
 | [ドロップな朝](https://open.spotify.com/track/6CIOLsCQjbCLs47TSnrTFT) | [真舟とわ](https://open.spotify.com/artist/0NbUuPAkS2Dv0SK7857Cl4) | [ドロップな朝](https://open.spotify.com/album/3LVnhqOSV1xdCo5RezLkAf) | 4:27 | 2023-03-23 | 2023-05-17 |
 | [ナスティ・ハウス](https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [ナスティ・ハウス](https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC) | 2:14 | 2023-02-01 | 2024-03-06 |
-| [ナビゲーター](https://open.spotify.com/track/77roepkiOVpYtIWv5OOqsI) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ナビゲーター](https://open.spotify.com/album/5VTfzNVBUG3NiZIEyyA5dY) | 3:21 | 2024-08-13 |  |
+| [ナビゲーター](https://open.spotify.com/track/77roepkiOVpYtIWv5OOqsI) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ナビゲーター](https://open.spotify.com/album/5VTfzNVBUG3NiZIEyyA5dY) | 3:21 | 2024-08-13 | 2024-11-13 |
 | [ニール・ヤング聴いてた](https://open.spotify.com/track/3DvRDt09s9NC4dA2s6967e) | [MANGA HOUSE](https://open.spotify.com/artist/43k6rOAIFQZlBfGARAnSIX) | [\#3](https://open.spotify.com/album/2cSaeWKy6bcM7MVuDTyxy9) | 4:50 | 2023-10-31 | 2023-12-06 |
 | [ネコも食べない](https://open.spotify.com/track/3IQ2RZzh0shp6PUTbvlu8B) | [極東飯店](https://open.spotify.com/artist/6BgCQ4n2mZfN3eLPrTd9Kl) | [九種九牌](https://open.spotify.com/album/3DvopbZPVLdM5twT6Rob9Z) | 3:04 | 2022-04-27 | 2022-05-18 |
 | [ハアト](https://open.spotify.com/track/6ghxqAEmAy369mF3O0t2N3) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [ハアト](https://open.spotify.com/album/6wGLVnsYsN0o6RpobFs4Ux) | 3:58 | 2023-10-03 | 2023-10-25 |
@@ -1301,6 +1302,7 @@
 | [リトルダンサー feat\. Ito \(PEOPLE 1\)](https://open.spotify.com/track/4YyalpG25LRXCSBEgQgI0Q) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK), [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [ワンス・アポン・ア・リバイバル](https://open.spotify.com/album/3RueJOo83vwTyoKLKL6lT5) | 3:12 | 2022-02-17 | 2022-03-09 |
 | [リンカーネーション](https://open.spotify.com/track/4u1aJqeQ9hTJ24VpUrqPtg) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [リンカーネーション](https://open.spotify.com/album/7HfdgMA80IFSNZCmKjWGKN) | 4:25 | 2022-05-17 | 2022-06-01 |
 | [ルサンチマン或いは](https://open.spotify.com/track/4CwcNhOwPV38Kc0Wta5SAY) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [ルサンチマン或いは](https://open.spotify.com/album/4iiyWQ9KInnFtk9axLy7Of) | 4:02 | 2023-09-12 | 2023-11-08 |
+| [ルビを振れ](https://open.spotify.com/track/261ruVr8QvDtNgEdua6GrQ) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ルビを振れ](https://open.spotify.com/album/3oCcpl90Mh5q9IW8o7CfjS) | 3:54 | 2024-11-12 |  |
 | [ルーシー](https://open.spotify.com/track/4u2ssD8qpxwayjjghIMX4Z) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [ルーシー](https://open.spotify.com/album/1zkesL9M2wNq0qQJiIlOId) | 3:32 | 2023-02-21 | 2023-03-22 |
 | [ルーズ](https://open.spotify.com/track/3vflOd9bpb6s39VKACsUnf) | [一寸先闇バンド](https://open.spotify.com/artist/08KCxeR1XesZZqWkgG9Fas) | [ルーズ](https://open.spotify.com/album/12QyZull4BFTOzDbpiISdI) | 3:28 | 2022-07-12 | 2022-08-17 |
 | [レイジー](https://open.spotify.com/track/6g4uuGkIaqT1wrrH7uzEuy) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/4IYmBLtPsWV9hwGIl5gvHM) | 3:43 | 2023-05-16 | 2023-05-18 |
@@ -1438,7 +1440,7 @@
 | [待ち遠しいの!](https://open.spotify.com/track/3F9ZhEcFH1AQbsa6EAUbAY) | [シヴァネコ](https://open.spotify.com/artist/5BlTidgzgtb6VqF10RR0lB) | [ひねもす](https://open.spotify.com/album/0kVKAVsZxnZoUwgW8qt8JQ) | 3:37 | 2022-12-06 | 2023-01-13 |
 | [微熱](https://open.spotify.com/track/735z8cQ5OKqboAveQPU68k) | [つきみ](https://open.spotify.com/artist/5CTOLdHtiGvfebSVgrmYgq) | [きえたくなる度君、刻む♡](https://open.spotify.com/album/6yOm2nYmsjtZm8ljCF0rPp) | 5:49 | 2023-11-07 | 2023-12-06 |
 | [心を照らせ!](https://open.spotify.com/track/7EPAubvUXuj7fMmQ7GBJBd) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [心を照らせ!](https://open.spotify.com/album/60QWfUY2GUB0z7QoIlzp7G) | 3:21 | 2022-07-19 | 2022-08-03 |
-| [忘れてしまうこと](https://open.spotify.com/track/1bdkwTog6mjpCrrcalLkVi) | [スズキケント＆クレイジーブギウギバンド](https://open.spotify.com/artist/63JOxvDSDtfvzAvmX5MpbB) | [ペイブメント](https://open.spotify.com/album/0AfQCtxxF88NHw7V9y0DK8) | 5:01 | 2024-11-05 |  |
+| [忘れてしまうこと](https://open.spotify.com/track/1bdkwTog6mjpCrrcalLkVi) | [スズキケント＆クレイジーブギウギバンド](https://open.spotify.com/artist/63JOxvDSDtfvzAvmX5MpbB) | [ペイブメント](https://open.spotify.com/album/0AfQCtxxF88NHw7V9y0DK8) | 5:01 | 2024-11-05 | 2024-11-13 |
 | [応援歌](https://open.spotify.com/track/1I2NbDvy7SNOjB4sGtwpxu) | [南無阿部陀仏](https://open.spotify.com/artist/5d3O7Y0ejEy42d6QJaqCvQ) | [応援歌](https://open.spotify.com/album/5Q8vPSUAVNq7ex26Sh9NXN) | 3:27 | 2023-06-06 | 2023-07-26 |
 | [怪物](https://open.spotify.com/track/19uTrF6VZNaUUYsFIAE8nJ) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [怪物](https://open.spotify.com/album/0Dg5i9je3xQEBzDhvxZUCt) | 2:35 | 2023-07-18 | 2023-07-20 |
 | [恋する惑星「アナタ」](https://open.spotify.com/track/6CzuquhI7EV1ft0gHmJhRg) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [恋する惑星「アナタ」](https://open.spotify.com/album/0ySLWHZ2XMLLIbKGEN9Rft) | 3:28 | 2024-02-13 | 2024-07-24 |

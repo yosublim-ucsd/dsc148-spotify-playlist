@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,749 songs - 3 day 5 hr 40 min
+1,751 songs - 3 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -761,7 +761,7 @@
 | [Laetitia](https://open.spotify.com/track/39e67SWLFobtjgr1S10iYE) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Laetitia](https://open.spotify.com/album/2MeED0qq5A14TCiVU2UNdn) | 1:57 | 2022-01-19 | 2022-04-01 |
 | [Lambay](https://open.spotify.com/track/4AfTf4LCOYOllXEHPgROVf) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Lambay](https://open.spotify.com/album/04ZM5v3dvvfsuROy3iT7D6) | 2:13 | 2021-08-12 | 2022-11-10 |
 | [Lamentation for a Lost Life](https://open.spotify.com/track/77O9eTcQpYwCnANBQHjGDQ) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Taboo \(Music From The Original TV Series\)](https://open.spotify.com/album/6U5z9EiIl1iBdwfzAGxS0B) | 2:21 | 2019-05-26\* | 2020-09-15 |
-| [land in sight](https://open.spotify.com/track/7MDbt6zQQu37YFeVcOpb4U) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [land in sight](https://open.spotify.com/album/7dQdi50AllPuXNApQHQit3) | 3:20 | 2023-08-29 |  |
+| [land in sight](https://open.spotify.com/track/7MDbt6zQQu37YFeVcOpb4U) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [land in sight](https://open.spotify.com/album/7dQdi50AllPuXNApQHQit3) | 3:20 | 2023-08-29 | 2024-11-13 |
 | [Languor](https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Kalmte](https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi) | 2:21 | 2023-09-18 |  |
 | [Lanuza](https://open.spotify.com/track/2b5H5mKnFqxMZtKik6bCej) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Lanuza](https://open.spotify.com/album/3yFTlxkkp47Qb5PLn0QYhQ) | 2:52 | 2022-03-10 | 2022-09-24 |
 | [Laredo](https://open.spotify.com/track/4T9ej7a6gtJyQ5yFRO1vXc) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Laredo](https://open.spotify.com/album/1bQGsaI0TyfTeZrg8JW3dq) | 2:47 | 2022-02-23 | 2022-09-24 |
@@ -1314,6 +1314,7 @@
 | [Silent Prayer](https://open.spotify.com/track/4lDIjqbPmI6RRjSe6D8Foc) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Silent Prayer](https://open.spotify.com/album/3L0zawGKxZFAsbszZr68wR) | 2:23 | 2021-03-31 | 2022-07-29 |
 | [Silent Side](https://open.spotify.com/track/38LGrDfRC1H4htZtjaSyrL) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Silent Side](https://open.spotify.com/album/0hn7iZOXcuGIYD9iGMjznk) | 2:42 | 2022-03-02 | 2022-07-29 |
 | [Silent sky](https://open.spotify.com/track/7jOC9bmHMZ5m4S1ZDAYgzn) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Silent sky](https://open.spotify.com/album/5Tn1LjIS50nbr4oNRCOBdF) | 2:12 | 2022-10-03 | 2024-01-03 |
+| [Silent Steps in the Snow](https://open.spotify.com/track/4hhki0inb5KmXcI3gJGXOv) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Silent Steps in the Snow](https://open.spotify.com/album/052ClOJxN5pEBblLQNISsz) | 2:24 | 2024-11-12 |  |
 | [Silhouette](https://open.spotify.com/track/4Eq7aF59snLVoxPKUAHhUz) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Oddities](https://open.spotify.com/album/5xl48qsYt6IMQlXSKESZsW) | 3:32 | 2020-09-01 | 2022-05-05 |
 | [Silhuett](https://open.spotify.com/track/1Xi70qpx7uDShW9lMNNw4w) | [Viljar Iversen](https://open.spotify.com/artist/57zxco4Z1lUt03EMLy3GYl) | [Silhuett](https://open.spotify.com/album/6pLeCoFKrd4K2auMJ7k9Ur) | 2:35 | 2019-06-13 | 2020-04-07 |
 | [Silk](https://open.spotify.com/track/3VHGpDGB6roBImYAY5fjcS) | [Piano Melancolía](https://open.spotify.com/artist/6CPafn3p493y60X7Vjs410) | [Silk](https://open.spotify.com/album/6Kwh1xs18Q64bFSWAujpO0) | 2:31 | 2022-05-26 | 2023-09-23 |
@@ -1546,6 +1547,7 @@
 | [Throes](https://open.spotify.com/track/41Uz23jubhxB8YREUHvueV) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Sun Leads Me On](https://open.spotify.com/album/1bAXNvCKZQ7aB5m3d6rFa4) | 0:54 | 2019-05-26\* | 2019-11-14 |
 | [Through The Blue \- Piano Version](https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Through The Blue \(Piano Version\)](https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx) | 3:45 | 2023-03-31 |  |
 | [Through Your Eyes](https://open.spotify.com/track/1Lvv07PvIeU1AMDVFiX7RY) | [Gian Marco Castro](https://open.spotify.com/artist/3eKHhTJoTeSu0BNBls4ju6) | [Through Your Eyes](https://open.spotify.com/album/3f6SpZgJAux8QTglfkMr0i) | 3:26 | 2019-09-12 | 2020-04-21 |
+| [Tides of Silence](https://open.spotify.com/track/55k2hCElfUZ8VBWbKhDEXY) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Tides of Silence](https://open.spotify.com/album/6dl9yYAICcDA8riVDWdxqA) | 3:18 | 2024-11-12 |  |
 | [Tient qu'à un fil](https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO) | [Gaspar Parentau](https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ) | [Tient qu'à un fil](https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr) | 2:47 | 2021-10-13 | 2022-07-07 |
 | [Time](https://open.spotify.com/track/1g0Zj4GZ229O647Tt3RPJ2) | [Olim](https://open.spotify.com/artist/7sgIedcWiWvEZGvIHgABbo) | [MFWT Vol.1](https://open.spotify.com/album/2Nj3e0AhYcqRqUd0AV2MmB) | 2:04 | 2020-08-04 | 2022-05-05 |
 | [Time](https://open.spotify.com/track/1YhRsh9PMKaDXXKoWUzqTQ) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [Sketches](https://open.spotify.com/album/056bSw2h1gakzLfQQN85PG) | 5:51 | 2019-05-26\* | 2019-06-15 |
@@ -1747,7 +1749,7 @@
 | [You Make It Look So Easy](https://open.spotify.com/track/1K0EF5MVFglZjojGngwn6P) | [Bea Boethius](https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5) | [You Make It Look So Easy](https://open.spotify.com/album/43RudrRuvcpO1umxMEZQWI) | 2:40 | 2021-05-06 | 2022-07-16 |
 | [You Name It](https://open.spotify.com/track/4eFAsz4mMrJiFRGqgghYPj) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Day](https://open.spotify.com/album/5BmyU03YgggujG5J2gEfLM) | 7:43 | 2024-04-03 | 2024-06-01 |
 | [Young Love](https://open.spotify.com/track/5LS7VV5Gp3evv8pjcpTDDu) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Glacier](https://open.spotify.com/album/0D5gc8mGZMBzB5ioXy6fdK) | 2:23 | 2020-11-10 | 2022-05-27 |
-| [Young Ones](https://open.spotify.com/track/502QNU8kHHhL4rA9ft0Jcl) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Young Ones](https://open.spotify.com/album/51MGom472Eavc62kUlZq19) | 3:25 | 2023-01-27 |  |
+| [Young Ones](https://open.spotify.com/track/502QNU8kHHhL4rA9ft0Jcl) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Young Ones](https://open.spotify.com/album/51MGom472Eavc62kUlZq19) | 3:25 | 2023-01-27 | 2024-11-13 |
 | [Your Happiness](https://open.spotify.com/track/5KWf6l4r8SmAI2kOkYCWwU) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Your Happiness](https://open.spotify.com/album/3b9pDCFvoOXeKkJU0Q2di5) | 2:27 | 2023-06-26 | 2023-08-15 |
 | [Zakopane](https://open.spotify.com/track/5vUBakal8Kqnvi8UUBPkQ4) | [Zygmunt Czarnecki](https://open.spotify.com/artist/1uKeHKFusnucKrl8BLDoXM) | [Zakopane](https://open.spotify.com/album/7BGhjDdoA5cbA9doLnOD5O) | 1:59 | 2020-02-26 | 2021-02-17 |
 | [Zaupanje](https://open.spotify.com/track/4wZWEuu89nlc6KVJgECTqx) | [Valbona Ceferin](https://open.spotify.com/artist/2iH6SSywrGgmHMA5ODnZcJ) | [Zaupanje](https://open.spotify.com/album/1tbDmFJsaVNXDnatUzChs4) | 2:25 | 2022-05-04 | 2023-04-04 |

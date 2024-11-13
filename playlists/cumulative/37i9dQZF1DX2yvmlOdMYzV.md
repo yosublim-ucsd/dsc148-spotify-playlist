@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-852 songs - 1 day 22 hr 21 min
+853 songs - 1 day 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,7 +379,7 @@
 | [Is It Any Wonder?](https://open.spotify.com/track/6kle4XS7gyiUIb0tmsyCf4) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 4:36 | 2022-06-30 | 2023-03-25 |
 | [It's All There \(Secrets\)](https://open.spotify.com/track/3Sf2u44aaU4WYJ3jcTNJco) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Truth Be Told](https://open.spotify.com/album/2O5nHhevgApYSTlSgyVcbg) | 3:20 | 2024-08-23 |  |
 | [It's You](https://open.spotify.com/track/5mMjaAT0B4Q3p2ToSeTVi7) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf), [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ) | [PHILEO Deluxe](https://open.spotify.com/album/1k6aTE36jvyDr7QJLtgwKM) | 3:02 | 2023-03-10 | 2023-11-06 |
-| [J'adore](https://open.spotify.com/track/2WMuRiY7bRE6jHErx5vT6L) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [J'adore](https://open.spotify.com/album/3FlEgJw00sq1LuZjWgAJYu) | 3:26 | 2024-08-16 |  |
+| [J'adore](https://open.spotify.com/track/2WMuRiY7bRE6jHErx5vT6L) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [J'adore](https://open.spotify.com/album/3FlEgJw00sq1LuZjWgAJYu) | 3:26 | 2024-08-16 | 2024-11-13 |
 | [Jay Bird](https://open.spotify.com/track/7zmr0zy0oq5KWEqwbrKjxK) | [Peyotoff](https://open.spotify.com/artist/7pDc59W5HYxYElrjJwsjnN), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Jay Bird](https://open.spotify.com/album/36vhgSU5YmXYFbNKOOjENQ) | 2:49 | 2024-02-09 |  |
 | [Jealous](https://open.spotify.com/track/0MuyhT3nN12w71WurEWSTN) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Jealous](https://open.spotify.com/album/5LTnPoGjyuWwLwOcLJzFL3) | 2:08 | 2021-12-15 | 2022-07-17 |
 | [Jealous](https://open.spotify.com/track/6M3nptRy5w6wiKk5mMjWHN) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Eldorado](https://open.spotify.com/album/5cjB2vtGhbo12x1gAdJvvY) | 2:08 | 2023-02-16 | 2023-08-19 |
@@ -410,6 +410,7 @@
 | [Later](https://open.spotify.com/track/0MuaRi77N4gPEfVkuooxqS) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Later](https://open.spotify.com/album/5Xv4mbW5nQ7LIvSZ2LIWzC) | 4:30 | 2021-12-15 | 2023-08-19 |
 | [Lava/Treacle](https://open.spotify.com/track/227jTRlttZd3Qjoe1cdtmb) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8), [Jesse James Solomon](https://open.spotify.com/artist/6QNL63YF6rLawrWWhrrhYI) | [Lava/Treacle](https://open.spotify.com/album/6jPzSHELKtpjfV9GOnTy1k) | 3:21 | 2022-09-05 | 2023-03-11 |
 | [Lava/Treacle](https://open.spotify.com/track/3U8dhK8wiVtsdmj7jwUJlB) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8), [Jesse James Solomon](https://open.spotify.com/artist/6QNL63YF6rLawrWWhrrhYI) | [Lava/Treacle](https://open.spotify.com/album/56BXeYf8Xp3zxKSuQmbOet) | 3:21 | 2021-12-15 | 2022-07-31 |
+| [Lead You to Water](https://open.spotify.com/track/0EDoBWF2J3P2mmcYowxG35) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Lead You to Water](https://open.spotify.com/album/6gQ6X2WYNoD9rcwP7KZiz7) | 2:30 | 2024-10-26 |  |
 | [Learning](https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Learning](https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL) | 4:43 | 2024-03-01 |  |
 | [Leave While I Love You](https://open.spotify.com/track/7rzto8pMXLVKpL2GVAfpMZ) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Archives & Lullabies](https://open.spotify.com/album/4FSiIHTasBx8fQoSzwcb0H) | 3:35 | 2023-02-10 | 2023-08-26 |
 | [Let It Flow](https://open.spotify.com/track/0bUfQU4x6h1pkq7L1ztxi5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Let It Flow](https://open.spotify.com/album/009Hlm8szvOBi5HbUGiNvY) | 2:58 | 2024-08-30 | 2024-10-09 |

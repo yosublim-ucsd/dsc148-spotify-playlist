@@ -4,7 +4,7 @@
 
 > The biggest Christmas songs of all time.
 
-240 songs - 12 hr 49 min
+241 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Mistletoe](https://open.spotify.com/track/32OWobmyAz8J2qA8iWekyS) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/1wEnjjF0dtWufdTzWeQAm2) | 3:02 | 2021-12-16 |  |
 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2022-06-01 | 2024-04-19 |
 | [Mistletoe](https://open.spotify.com/track/1F1KGmpwDNzTrhgNAVDx42) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Best Christmas Songs](https://open.spotify.com/album/1uU7v5rA5vfyLAN4tEiaXm) | 3:03 | 2022-10-27 | 2022-11-14 |
-| [Mistletoe and Holly](https://open.spotify.com/track/3jKGG4THqegu6EgxinAIYm) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Let It Snow \(All\-Time Christmas Favorites! Remastered\)](https://open.spotify.com/album/6vKJxOKMeE0v1COMmM5k6G) | 2:17 | 2021-12-16 |  |
+| [Mistletoe and Holly](https://open.spotify.com/track/3jKGG4THqegu6EgxinAIYm) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Let It Snow \(All\-Time Christmas Favorites! Remastered\)](https://open.spotify.com/album/6vKJxOKMeE0v1COMmM5k6G) | 2:17 | 2021-12-16 | 2024-11-13 |
 | [Mistletoe And Holly \- Remastered 1999](https://open.spotify.com/track/7faDzZnZYqTyYThx2sbHVQ) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:16 | 2022-06-01 | 2024-04-19 |
 | [Mistletoe And Holly \- Remastered 1999](https://open.spotify.com/track/2sGXaUJ6b9k7StzsAghL2R) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Laidback Christmas](https://open.spotify.com/album/2DiljSc0J8Nl6K9nMJi0Ji) | 2:17 | 2022-10-27 | 2022-11-13 |
 | [Mistletoe and Wine](https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [Together With Cliff Richard](https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ) | 4:05 | 2021-12-16 | 2024-09-10 |
@@ -226,6 +226,7 @@
 | [What Christmas Means To Me](https://open.spotify.com/track/1V0qqWBbIWt8hlAjxTZedR) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:28 | 2022-06-01 | 2023-12-11 |
 | [What Christmas Means to Me \(feat\. Stevie Wonder\)](https://open.spotify.com/track/13XMz3rpVYITzjFIsSYlZ1) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 2:40 | 2022-10-28 |  |
 | [What Christmas Means To Me \- Single Version / Mono](https://open.spotify.com/track/5mDjTAHZE82wzbIq8wYC8n) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Merry Christmas](https://open.spotify.com/album/4ZWoMk06dUmAF5jH06OEvU) | 2:28 | 2022-10-27 | 2022-11-13 |
+| [When a Child Is Born](https://open.spotify.com/track/0jXjTHqZVXhQSGUAvUbCvU) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [I Only Have Eyes For You](https://open.spotify.com/album/4Mr6rpkhF8XvrgHiQTymir) | 3:43 | 2024-11-12 |  |
 | [White Christmas](https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing's Gold Records \- The Original Decca Recordings](https://open.spotify.com/album/6APFyabQl2w6j7eb19abyW) | 3:03 | 2023-12-18 | 2024-04-19 |
 | [White Christmas \- 1947 Version](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) | 2:57 | 2021-12-16 |  |
 | [White Christmas \- Spotify Singles \- Holiday, Recorded at Air Studios, London](https://open.spotify.com/track/7F9oCEKbqjN99cV5HpvYER) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [White Christmas \(Spotify Singles \- Holiday, Recorded at Air Studios, London\)](https://open.spotify.com/album/1gDgPEEeuFPfRMASQWU8A0) | 3:12 | 2021-12-16 | 2024-09-10 |

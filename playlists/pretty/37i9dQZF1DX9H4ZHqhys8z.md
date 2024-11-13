@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου αυτές τις απίθανες καλλιτέχνιδες στη διαπασών\. Μια playlist που συνυπογράφει η LILA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,519 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,526 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 25 | [Papi](https://open.spotify.com/track/3teZ0cuoPDuhdtMwp0Rrqn) | [Kalomira](https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH), [Ripen](https://open.spotify.com/artist/3swt0iznObwokupYHCnzUd) | [Papi](https://open.spotify.com/album/6i3nnoD9UhUnaAQhloSp3o) | 3:11 |
 | 26 | [Giati S' Emena](https://open.spotify.com/track/07VYoZedBJpgqRzGGPHg5P) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Giati S' Emena](https://open.spotify.com/album/2dAmuI9hvOBW0R3YaddWkw) | 3:18 |
 | 27 | [Milia](https://open.spotify.com/track/48eNiB32KKFbB2XQSQUajJ) | [Matoula Zamani](https://open.spotify.com/artist/7nnEkZXiwEpKY4VAoNmc2f) | [Milia](https://open.spotify.com/album/7BCJixylvKKLQCx2dkTFkj) | 2:45 |
-| 28 | [Ego Apeho](https://open.spotify.com/track/6XFIbejBjcKU4D9G36Xpv8) | [Nefeli Fasouli](https://open.spotify.com/artist/0JygyrBVyE7APBHSMsxjtp), [Danai Papadopoulou](https://open.spotify.com/artist/7moApbJ63BuGI9rTXRUQW3) | [Mikri Limni](https://open.spotify.com/album/3hml6wcBQ9N0N68w2EMiNV) | 3:57 |
+| 28 | [Mou Leipeis](https://open.spotify.com/track/3kgso5eRwTQGaP6mCUrESU) | [Katerina](https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU) | [Mou Leipeis](https://open.spotify.com/album/5Cc4RmIM5j0VgZ810dzsLq) | 2:53 |
 | 29 | [Adysopiti Agapi](https://open.spotify.com/track/0TlvVVGcWFS2owHVdU7bzE) | [Eleftheria Arvanitaki](https://open.spotify.com/artist/4wfucl2s2farNOAmxZAVTC), [Thodoris Papadopoulos](https://open.spotify.com/artist/60MVWaWqiw6tjbFeCVXcHP) | [Adysopiti Agapi](https://open.spotify.com/album/3XF3VgkEMHiwMy4CiGN0XK) | 4:07 |
 | 30 | [An Apopse Figo \- Night Rider Edit](https://open.spotify.com/track/72jtB2gdVoUhvSWrqfpP27) | [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz), [dPans](https://open.spotify.com/artist/3wz93gsh1Vj23McptGxzTm) | [An Apopse Figo \(Night Rider Edit\)](https://open.spotify.com/album/7rIkPoaqArCsOWmPqv3z0w) | 1:07 |
 | 31 | [PSEMATA](https://open.spotify.com/track/4afbrAtKTYLT2J0QBo70It) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [PSEMATA](https://open.spotify.com/album/3dji683GDv39BHlufBg38p) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Nemouta](https://open.spotify.com/track/2KzVSadpL59J42DuhBVi70) | [Nandra](https://open.spotify.com/artist/213p95pA1lI8enoM31pC2b), [Billie Kark](https://open.spotify.com/artist/6hDmweft2NBTVSnCPJ5pMc) | [Chi V/A](https://open.spotify.com/album/70e09AQIJEAKJvrBwn3qHm) | 5:03 |
 | 50 | [Breaking Point](https://open.spotify.com/track/1ehAe4yogluI0rWZYlmkyj) | [Katherine Filippeos](https://open.spotify.com/artist/5n2gXCi6H2BtRWmEKb8Hjd) | [Breaking Point](https://open.spotify.com/album/4RxG3zHsoePXgu0v9OyxfV) | 4:17 |
 
-Snapshot ID: `ZyqVYAAAAABjotnH8NgnexNnG7qp/Hxk`
+Snapshot ID: `ZzM4dwAAAAA437SmWZ8iKSLwUO6FYoCV`

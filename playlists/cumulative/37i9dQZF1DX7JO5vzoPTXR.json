@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Songs that are 100% written, produced, and performed by women! Co-curated this month by: Yseult",
+  "description": "Songs that are 100% written, produced, and performed by women! Co-curated this month by: Barlow & Bear",
   "name": "Created by Women",
   "tracks": [
     {
@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 246666,
       "name": "Bad Body Double",
       "url": "https://open.spotify.com/track/2rkQtnknRZivK7saBryrjm"
@@ -1572,7 +1572,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-07",
+      "date_removed": null,
       "duration_ms": 194749,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/5Z0AM9HW78XIyZqF2BPasr"
@@ -3291,6 +3291,28 @@
     },
     {
       "album": {
+        "name": "Smile 2: The Skye Riley EP",
+        "url": "https://open.spotify.com/album/53i6qzqYuhIhcpVTVu0dW3"
+      },
+      "artists": [
+        {
+          "name": "Skye Riley",
+          "url": "https://open.spotify.com/artist/0fpkkLazfNNewOHmxSW2YL"
+        },
+        {
+          "name": "Naomi Scott",
+          "url": "https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165282,
+      "name": "Death Of Me",
+      "url": "https://open.spotify.com/track/6AZKGzo7w2FPZ3Y8T4XjfQ"
+    },
+    {
+      "album": {
         "name": "December",
         "url": "https://open.spotify.com/album/1p06PRgEHSoEz0wSco56D3"
       },
@@ -3432,6 +3454,24 @@
       "duration_ms": 160000,
       "name": "devil may care",
       "url": "https://open.spotify.com/track/1Oui21vilndzO9nUABZYlp"
+    },
+    {
+      "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
       "album": {
@@ -8111,6 +8151,24 @@
     },
     {
       "album": {
+        "name": "Keep Those Teardrops from Falling",
+        "url": "https://open.spotify.com/album/0vPOpQfFhKheEPKJtGGDTH"
+      },
+      "artists": [
+        {
+          "name": "Natalie Bergman",
+          "url": "https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164830,
+      "name": "Keep Those Teardrops from Falling",
+      "url": "https://open.spotify.com/track/34ojZaWg4BOqIL58M5CneC"
+    },
+    {
+      "album": {
         "name": "How To Catch A Falling Knife",
         "url": "https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4"
       },
@@ -12008,7 +12066,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-07",
+      "date_removed": null,
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
@@ -12322,6 +12380,24 @@
       "duration_ms": 156963,
       "name": "Shade of Yellow",
       "url": "https://open.spotify.com/track/2vSq4chJ1DUBjHDrU024AO"
+    },
+    {
+      "album": {
+        "name": "Shade of Yellow",
+        "url": "https://open.spotify.com/album/1Yz6WdcuRxhdHzJG5zmLQZ"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156963,
+      "name": "Shade of Yellow",
+      "url": "https://open.spotify.com/track/7qHXEShpUpCcSUbgVjEAoQ"
     },
     {
       "album": {
@@ -13349,6 +13425,24 @@
     },
     {
       "album": {
+        "name": "tetherball",
+        "url": "https://open.spotify.com/album/27aSHSnvu5rTXz1HJOp1GD"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "tetherball",
+      "url": "https://open.spotify.com/track/6CWWWOwL2JBCaMQaBnTcyO"
+    },
+    {
+      "album": {
         "name": "The Challenge",
         "url": "https://open.spotify.com/album/29hCKjSLxhHPpX0U5iVhp6"
       },
@@ -13436,7 +13530,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 262062,
       "name": "The Journey",
       "url": "https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI"
@@ -13856,6 +13950,24 @@
       "duration_ms": 162813,
       "name": "Thought Wrong",
       "url": "https://open.spotify.com/track/7dsnmZCwJDgptq8gH6N7xP"
+    },
+    {
+      "album": {
+        "name": "Jupiter's Legacy (Music From the Netflix Series)",
+        "url": "https://open.spotify.com/album/6McEWs40dlz8bv22xmqly8"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Economou",
+          "url": "https://open.spotify.com/artist/2CZRlBNoAoDpVu3vLFKySH"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215109,
+      "name": "Through the Storm",
+      "url": "https://open.spotify.com/track/1MKKZVYdxGmo2JLqEF9tgS"
     },
     {
       "album": {
@@ -15438,6 +15550,24 @@
       "duration_ms": 161999,
       "name": "You'll Be Fine",
       "url": "https://open.spotify.com/track/06XZWfafzxL4DgcRsqCYBZ"
+    },
+    {
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308973,
+      "name": "You've Got a Friend",
+      "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"
     },
     {
       "album": {

@@ -1835,6 +1835,24 @@
     },
     {
       "album": {
+        "name": "Silent Steps in the Snow",
+        "url": "https://open.spotify.com/album/052ClOJxN5pEBblLQNISsz"
+      },
+      "artists": [
+        {
+          "name": "Gianni Domenici",
+          "url": "https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144564,
+      "name": "Silent Steps in the Snow",
+      "url": "https://open.spotify.com/track/4hhki0inb5KmXcI3gJGXOv"
+    },
+    {
+      "album": {
         "name": "Sincere",
         "url": "https://open.spotify.com/album/2FrUT2fF8TXPMGiiChOkph"
       },

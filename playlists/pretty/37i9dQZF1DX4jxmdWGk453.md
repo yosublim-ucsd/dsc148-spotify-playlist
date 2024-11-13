@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 
 > All your favourite Christmas carols sung for you by a vocal ensemble.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,656 likes - 49 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,820 likes - 49 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [O Come, All Ye Faithful](https://open.spotify.com/track/0v0sjJiYPnin0SCu7t6d3b) | [Dean Hort Quartet](https://open.spotify.com/artist/1C5rovJ0DxYtVAsEWQIQfj) | [The First Noel](https://open.spotify.com/album/5mvwUwNxgqw3NrHCfWr0tp) | 1:41 |
 | 2 | [Deck The Halls](https://open.spotify.com/track/1DTBjVx4q0UTFbLsxegYeq) | [The Singalings](https://open.spotify.com/artist/0hlpR1fY7s9T6D0irIl3t9) | [Deck The Halls](https://open.spotify.com/album/0tyZZuSAFjQeBMWNUp1oTu) | 1:14 |
 | 3 | [Auld Lang Syne](https://open.spotify.com/track/53yOxDMXJzt78YH6WE8Tp9) | [Voices of Joy](https://open.spotify.com/artist/1qjsaKVUHUL768TUvVgs8l) | [Auld Lang Syne](https://open.spotify.com/album/3FN9LRHRBLlLM2uE2LpRJy) | 1:22 |
-| 4 | [The First Noel](https://open.spotify.com/track/2q3NNQqn8DaehA2M0qyKHT) | [Dean Hort Quartet](https://open.spotify.com/artist/1C5rovJ0DxYtVAsEWQIQfj) | [The First Noel](https://open.spotify.com/album/5mvwUwNxgqw3NrHCfWr0tp) | 2:11 |
-| 5 | [Silent Night](https://open.spotify.com/track/0uPVaufjRTytQ15pETZTDS) | [Voices of Joy](https://open.spotify.com/artist/1qjsaKVUHUL768TUvVgs8l) | [Auld Lang Syne](https://open.spotify.com/album/3FN9LRHRBLlLM2uE2LpRJy) | 2:08 |
-| 6 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/1Vo6iMsQECNmLbuayuLTe9) | [The Singalings](https://open.spotify.com/artist/0hlpR1fY7s9T6D0irIl3t9) | [Deck The Halls](https://open.spotify.com/album/0tyZZuSAFjQeBMWNUp1oTu) | 1:37 |
+| 4 | [Silent Night](https://open.spotify.com/track/0uPVaufjRTytQ15pETZTDS) | [Voices of Joy](https://open.spotify.com/artist/1qjsaKVUHUL768TUvVgs8l) | [Auld Lang Syne](https://open.spotify.com/album/3FN9LRHRBLlLM2uE2LpRJy) | 2:08 |
+| 5 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/1Vo6iMsQECNmLbuayuLTe9) | [The Singalings](https://open.spotify.com/artist/0hlpR1fY7s9T6D0irIl3t9) | [Deck The Halls](https://open.spotify.com/album/0tyZZuSAFjQeBMWNUp1oTu) | 1:37 |
+| 6 | [The First Noel](https://open.spotify.com/track/2q3NNQqn8DaehA2M0qyKHT) | [Dean Hort Quartet](https://open.spotify.com/artist/1C5rovJ0DxYtVAsEWQIQfj) | [The First Noel](https://open.spotify.com/album/5mvwUwNxgqw3NrHCfWr0tp) | 2:11 |
 | 7 | [O Holy Night \- Acapella](https://open.spotify.com/track/4h3DVUQyLeA4g6RaCkGaD6) | [Mel & Macy](https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk) | [O Holy Night](https://open.spotify.com/album/1hBZmVyxC8dHxPZpzL7Zwu) | 4:30 |
 | 8 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/3qdAy59rXgtUvZTWvm6v8d) | [The Cheerlots](https://open.spotify.com/artist/3kfyIzUTGqonAHgFFbAarY) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4MlaAjpoPEOdigaO6rXYrg) | 2:42 |
 | 9 | [Ding Dong Merrily On High](https://open.spotify.com/track/6uxtsYeGygwrhmobg96Hkq) | [The Doorstep Carolers](https://open.spotify.com/artist/4Y2CAf3w4WZ81gIXWJbxrF) | [Ding Dong Merrily On High](https://open.spotify.com/album/6lGpdC69lL8JtJXaQUxOBk) | 1:42 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 | 48 | [O Tannenbaum](https://open.spotify.com/track/1cU1C2UyM7Os13XKI8SQPz) | [The Barbershop Singers](https://open.spotify.com/artist/2ihbqMC5FLIURCSTBvsQed) | [A Barbershop Christmas](https://open.spotify.com/album/0sra8b07OvY3gfezNtToSf) | 0:59 |
 | 49 | [The Three Kings](https://open.spotify.com/track/6bhFHkgnEmOIVGFFOdvzqF) | [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Sir David Willcocks](https://open.spotify.com/artist/3adMGKhs0hyGuTVpe7hnqC) | [Carols From Cambridge: The Very Best Sacred Christmas Carols](https://open.spotify.com/album/0J5mxoyU8lNsqPmepDLvmu) | 2:41 |
 
-Snapshot ID: `ZytAkwAAAAD2SQtHPwqlmAFD0X8NTsl9`
+Snapshot ID: `ZzNRpgAAAADyOEcJsZetdZaaYdvYEfaz`

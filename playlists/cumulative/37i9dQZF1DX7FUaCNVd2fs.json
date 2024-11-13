@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "C\u00e1diz",
+        "url": "https://open.spotify.com/album/5YBGQGNe1qX309BmK6eDFL"
+      },
+      "artists": [
+        {
+          "name": "Vic Carnes",
+          "url": "https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132375,
+      "name": "C\u00e1diz",
+      "url": "https://open.spotify.com/track/2fQTBDA81IyaYgtr2Gz4Wl"
+    },
+    {
+      "album": {
         "name": "Da una persona cara",
         "url": "https://open.spotify.com/album/2N0O1JDj8QFgqFiJ9uIrc5"
       },

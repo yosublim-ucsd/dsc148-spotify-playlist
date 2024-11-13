@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 
 > Si está pegao, está aquí\. Feat\. Duki
 
-[Spotify](https://open.spotify.com/user/spotify) - 867,313 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 867,297 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 | 4 | [Yo sé](https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E) | [Yo sé](https://open.spotify.com/album/4NHI7kUT9UsxlgKgDnaJdv) | 2:09 |
 | 5 | [Trato De Estar Bien](https://open.spotify.com/track/7gxUtbjZzb6tXvs7mJfhOG) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:33 |
 | 6 | [Se Pone Las Nike](https://open.spotify.com/track/6aO53Wsz32bgMBytw6pIYm) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS) | [Triana](https://open.spotify.com/album/47wk0lhqRt1MWuCxPfctcc) | 2:39 |
-| 7 | [IA](https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [IA](https://open.spotify.com/album/3DXj5cbdAXHzjG9Yy2rDn3) | 2:51 |
+| 7 | [IA](https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [IA](https://open.spotify.com/album/3DXj5cbdAXHzjG9Yy2rDn3) | 4:00 |
 | 8 | [SERIO CON ESE Q](https://open.spotify.com/track/4kCGXKoHyfvpSF535X4Z4p) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [SERIO CON ESE Q](https://open.spotify.com/album/3zo7zq13zlZS9rVG6MQbdf) | 4:07 |
 | 9 | [La Oportunidad](https://open.spotify.com/track/3WvVLW5vG7A3rFNHvbb4pt) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [La Oportunidad](https://open.spotify.com/album/0t3A0rQ7OgJvouak54Aa0K) | 4:15 |
 | 10 | [Dame La Verde](https://open.spotify.com/track/6onnX1hYWcqP2dXgfvExNG) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Dame La Verde](https://open.spotify.com/album/4nEyemOG5BK5GpUknH5Zm1) | 3:35 |

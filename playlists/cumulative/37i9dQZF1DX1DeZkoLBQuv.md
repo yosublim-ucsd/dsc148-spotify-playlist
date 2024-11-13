@@ -4,7 +4,7 @@
 
 > os louvores que dão força à irmã do cross, <a href="https://www.instagram.com/irmamarlucesantosof/">@irmamarluceof</a>
 
-80 songs - 6 hr 15 min
+81 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Casa de Deus](https://open.spotify.com/track/6FQvtVvQhmJGYgEEH1ip7J) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Apocalipse](https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI) | 6:25 | 2024-10-30 |  |
 | [Como Um de Nós \- Ao Vivo](https://open.spotify.com/track/1ALCSur6iFfGd1UuVoF0Td) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Outra Vez, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3RZA19AblrMjpYWIVzPU59) | 4:42 | 2021-11-12 | 2024-10-31 |
 | [Dai Louvores ao Rei](https://open.spotify.com/track/68f92k1JBf9Aq8n69M10Pw) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 3:30 | 2021-11-12 | 2024-10-31 |
+| [Dalhe Bicuda Na Cara Do Cão](https://open.spotify.com/track/7s6mYInPwfmcHKyBgp1pxs) | [Pastora Luciana](https://open.spotify.com/artist/4JWgEGYgaxCJxn9vAIpSNZ), [Pastor Melvin](https://open.spotify.com/artist/4a3Ie9koRaRgBnHrZIRZGc) | [Dalhe Bicuda Na Cara Do Cão](https://open.spotify.com/album/5oOxk9pRQ5xz7YKqUgOq01) | 6:16 | 2024-11-12 |  |
 | [Deus Emanuel](https://open.spotify.com/track/00Wx6Gd3jm6N26zgch4Y7M) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Deus Emanuel](https://open.spotify.com/album/1p7afgoQGyBtbXhhsYwLFi) | 5:13 | 2021-11-12 | 2024-04-19 |
 | [Deus Não Faz Acepção](https://open.spotify.com/track/1R4ulii8M8AHOAs8DDTmmG) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97) | [Autoridade e Unção](https://open.spotify.com/album/5ahy3437l1ulUkL07s585m) | 4:48 | 2024-10-30 |  |
 | [Ele Te Escolheu](https://open.spotify.com/track/04ULAcl8lxRCc137KJ5CnS) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m) | [Janelas da Alma](https://open.spotify.com/album/47VD7eGFbYV92UUZvhziLo) | 4:03 | 2024-10-30 |  |

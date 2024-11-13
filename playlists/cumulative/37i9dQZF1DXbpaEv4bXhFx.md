@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-234 songs - 14 hr 17 min
+235 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [haze](https://open.spotify.com/track/5tk3TXsF2wumsj8Cq24v5g) | [GRACY 그레씨](https://open.spotify.com/artist/58u1UWevJvtHatOoupz6bD) | [haze](https://open.spotify.com/album/4UFQ9QaMbdSfCgSZeFNXwM) | 2:50 | 2022-06-20 | 2022-06-23 |
 | [Hi, hello?](https://open.spotify.com/track/71zma1WRfDRYHxI5SBM0jb) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 4:08 | 2022-06-20 | 2022-07-24 |
 | [Hide into Night](https://open.spotify.com/track/1RoGU1kkQRvZfOR4ByJ5rT) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Hide into Night](https://open.spotify.com/album/2n2pZcNw16mYduK2RlJMBV) | 4:08 | 2023-01-13 | 2023-01-29 |
+| [HOW YOU FEEL?](https://open.spotify.com/track/4F6NF7HAOSBVlX5RFHdV5o) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs) | [HOW YOU FEEL?](https://open.spotify.com/album/33emNvcuVWa2vHpeHYFvsW) | 2:44 | 2024-08-09 |  |
 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 | 2022-06-20 |  |
 | [I Don’t Lie \(Feat\. GIRIBOY\)](https://open.spotify.com/track/0Px7nsZhwF6qtebbZZHlyE) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:36 | 2022-07-04 | 2022-12-27 |
 | [I Mean You](https://open.spotify.com/track/3Ad0HzkD1pTXqlgpLEE7AI) | [Diana](https://open.spotify.com/artist/7Mq5nwlqlvFGoDu3pPtq3E) | [I Mean You](https://open.spotify.com/album/5kXiA6qyQ6Lym4TqPUcXXo) | 3:15 | 2023-01-25 | 2023-02-23 |
@@ -202,7 +203,7 @@
 | [Tell me about your world](https://open.spotify.com/track/7egcd8TpHmrRdFzaZQGSGj) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [Tell me about your world](https://open.spotify.com/album/3aP2kHKhDGWtyyzFu737vv) | 4:11 | 2022-06-20 | 2022-07-28 |
 | [That's ok](https://open.spotify.com/track/5kLdBPmd0fplZUi0hifSil) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 3:32 | 2022-06-20 | 2022-07-24 |
 | [The Possible\(feat\. Kim Sawol\)](https://open.spotify.com/track/7t7u9IY9HIKuRYWMqw0Uyd) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j), [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [The possible\(feat\. Kim Sawol\)](https://open.spotify.com/album/6eHpG7BEZPELIoItJoUUZF) | 3:09 | 2022-06-20 | 2022-07-10 |
-| [The Sound Of Rain \- Acoustic](https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [The Acoustic Forest](https://open.spotify.com/album/3Wb9RXJv0dWuWPsGnoHBdK) | 4:26 | 2022-06-29 |  |
+| [The Sound Of Rain \- Acoustic](https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [The Acoustic Forest](https://open.spotify.com/album/3Wb9RXJv0dWuWPsGnoHBdK) | 4:26 | 2022-06-29 | 2024-11-13 |
 | [Thinkin About You \(Feat\. INO\)](https://open.spotify.com/track/2tOHUm2VSBa5aMgo5pIYem) | [DJ Juice](https://open.spotify.com/artist/0bJKaJ5AdUz5nDFDRGfKPJ), [INO](https://open.spotify.com/artist/4xRr0YW5BltFbZGEwliT79) | [Thinkin About You](https://open.spotify.com/album/58L2gm73knHBL66btgBKGC) | 3:16 | 2022-06-29 | 2022-07-02 |
 | [to me](https://open.spotify.com/track/7JfPMAIDeyTyJS2chxvE4c) | [withyou](https://open.spotify.com/artist/4bxCjd47PzaXgcv6hYNicy) | [No Matter What \(Original Television Soundtrack\) Pt\. 30](https://open.spotify.com/album/1y1cZ7pxqN0a55Y2fnqWfJ) | 3:10 | 2022-07-04 | 2022-07-12 |
 | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc) | [APRO](https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O), [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg), [WAVY](https://open.spotify.com/artist/1OFmtxGqmk075mMtlKWVRV) | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/album/6XG56vDIbGbimJg3OiZJq3) | 4:14 | 2022-06-20 | 2024-11-03 |

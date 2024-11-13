@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 胡凱兒 \(Who Cares\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,059 likes - 149 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,061 likes - 149 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

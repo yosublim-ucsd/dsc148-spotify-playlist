@@ -4,7 +4,7 @@
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-200 songs - 7 hr 42 min
+206 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/7Ezy3sFFAS3kJntqZTWpXz) | [Manuel Valera](https://open.spotify.com/artist/76RyqtLsvbJFynRIu9dXJ8), [kamanote](https://open.spotify.com/artist/0HljO0dF8nwi684rrDyhHa) | [Hark! The Herald Angel Sing](https://open.spotify.com/album/0TIx5snVQO9bqxfYh9eB2v) | 3:45 | 2021-12-14 | 2023-10-12 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3MzmTBYxot2d3Oox8hkIZS) | [Emma Welsch](https://open.spotify.com/artist/0pcgoReBn9OiUsZIN0B1Kl) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7cyQdSJaRXNSb6GnUUwMet) | 2:49 | 2022-10-14 | 2023-12-09 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/7CVEXkOWffT81PhgJptwsi) | [Gold Axe](https://open.spotify.com/artist/3Vhv6wtaE2hyhQllaBBdd2) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/5XjVrMAODQG8NkOV1KRHQm) | 3:40 | 2024-11-06 |  |
+| [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/6OOEo3a6eqPlRWEIqaKu7a) | [Sam Sapphire](https://open.spotify.com/artist/7eMKNdNPKSpP3WeulzX4fz) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/03R4sEIskrAaw4OXARjfWp) | 2:41 | 2024-11-12 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5taqXHS1T93h8aY0Qy8lhZ) | [Timothy North](https://open.spotify.com/artist/69zHQUFleLsUpHOV8pW99i) | [The Magic Of Christmas](https://open.spotify.com/album/6NTyCBRaQy3JgoClHXX6pi) | 2:50 | 2023-12-08 |  |
 | [Here Comes Santa Claus](https://open.spotify.com/track/5BhgEYBl21jrcMHFH9v2ZT) | [Judy Baker](https://open.spotify.com/artist/7GUG3XpfuQRV6vPu1txOn4) | [Here Comes Santa Claus](https://open.spotify.com/album/3NuTH4aDWNH2RbxOmuHJ9H) | 2:40 | 2023-10-24 |  |
 | [Here Comes Santa Claus](https://open.spotify.com/track/4kw3uPY15M4yWHhScit9KR) | [Pietra Costa](https://open.spotify.com/artist/1LZGtjpaZT9G6VQstFr4MX) | [Navidad](https://open.spotify.com/album/6T1G9hiP19tScSIIeDqQT3) | 2:49 | 2021-12-14 | 2023-10-27 |
@@ -127,6 +128,7 @@
 | [Jingle Bell Rock](https://open.spotify.com/track/2A4lNx9IATchVQnnYNVcvN) | [Nemo Jaymes](https://open.spotify.com/artist/0aZCH5KbYUZ69UWNjp0FZe) | [Jingle Bell Rock](https://open.spotify.com/album/3vzrqbCszsdtXKNeeDTiwk) | 2:20 | 2024-10-22 |  |
 | [Jingle Bells](https://open.spotify.com/track/4E42u4CFeuIyFdaEWN7Wty) | [Brandon Mills](https://open.spotify.com/artist/0lfAQQLGm6TkTJ4JL9La2z) | [Jingle Bells](https://open.spotify.com/album/5MsKGEDUhXdPo1DirR0pa4) | 3:59 | 2021-12-14 |  |
 | [Jingle Bells](https://open.spotify.com/track/3rT0SXP4zzmx2t4EBdgHXP) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Jingle Bells](https://open.spotify.com/album/0OYXUOe9ZsuVsqpx6yQ5G4) | 2:11 | 2024-10-22 |  |
+| [Joy to the World](https://open.spotify.com/track/4K9oXfi4duY1GaQBJ5Rr7g) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Joy to the World](https://open.spotify.com/album/4vGvjUVOgYlQHh5YK0ObWS) | 2:21 | 2024-11-12 |  |
 | [Joy To The World](https://open.spotify.com/track/3Gra28fwqeouNiY7E0u2fV) | [Isobel Watkins](https://open.spotify.com/artist/7q33Rk7eAyVKYNQ8e1yNeq) | [Joy To The World](https://open.spotify.com/album/5HIAhNoTbZvIpTlKk80CYj) | 2:27 | 2021-12-14 |  |
 | [Jul Jul Strålande Jul](https://open.spotify.com/track/2MLFCn2PCIPvefTxZ1DBha) | [Alex Lehtonen](https://open.spotify.com/artist/2Qs1BrpMAPz379lAsH39Qb) | [Jul Jul Strålande Jul](https://open.spotify.com/album/5BXVy2bviNY6oL6QVp0a0q) | 3:00 | 2023-11-13 |  |
 | [Jul jul strålande jul](https://open.spotify.com/track/7BBEjxq9mITNoUYkgl4Caa) | [Dylan Francis](https://open.spotify.com/artist/7iB04gHXi381OdMYrbdQQN) | [Jul jul strålande jul](https://open.spotify.com/album/0VMWJC1J2Rq9APjJNtTL7s) | 2:11 | 2023-10-03 |  |
@@ -158,6 +160,7 @@
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/6KP3J7KWWt26RYsvBD0jQ7) | [Sam Sapphire](https://open.spotify.com/artist/7eMKNdNPKSpP3WeulzX4fz) | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/album/06or9Rrq5yA0Zab5Abz0o4) | 3:05 | 2023-12-08 |  |
 | [Sans Day Carol](https://open.spotify.com/track/17ECD7z521qoJRhO6N3iDB) | [Ken Dorset](https://open.spotify.com/artist/4x1bewuiV50ZFHLh6Jy3ZI) | [Sans Day Carol](https://open.spotify.com/album/6YCxlwZdYsYNKIoMZAWtM7) | 2:41 | 2021-12-14 |  |
 | [Sans Day Carol](https://open.spotify.com/track/0MgmWPH6FK4xH6TEfDjsac) | [Sacred Keys](https://open.spotify.com/artist/5M6nB85ptAF8gjR6ivoJv7) | [The Joy of Christmas](https://open.spotify.com/album/4GxRbhZWUu5yFL9fr6IztU) | 2:08 | 2024-11-06 |  |
+| [Santa Baby](https://open.spotify.com/track/6iRD5O0I3iYZUvkhmqhc79) | [Bruce Douglas](https://open.spotify.com/artist/4xwGJE9zR35fPIbbe8uSiH) | [Santa Baby](https://open.spotify.com/album/0jmp1r3wPuxnXh43Wp0Oid) | 2:23 | 2024-11-12 |  |
 | [Santa Claus Is Comin' to Town](https://open.spotify.com/track/1Xjj1DDj2s0KlcLvixqgBd) | [Teodor Seti](https://open.spotify.com/artist/26jqyiqSsIwsXWuz5hgctN) | [Santa Claus Is Comin' to Town](https://open.spotify.com/album/0D0juNN2akEwy4vz3too8S) | 1:39 | 2023-11-08 |  |
 | [Santa Tell Me](https://open.spotify.com/track/1AToYrtSByKZq8a6uIEsmg) | [Pam Hill](https://open.spotify.com/artist/2G0kAA5t60WuLGOa1FSFRB) | [Santa Tell Me](https://open.spotify.com/album/7CM27GU1KQV7vTiNSkxf1P) | 2:14 | 2022-10-14 |  |
 | [See Amidst The Winter's Snow](https://open.spotify.com/track/3JWJdn9hTC9IumZx6bUoQM) | [John Bladh](https://open.spotify.com/artist/7Lcufo2TcRg56x6KUmhlOc) | [Joy Of Christmas](https://open.spotify.com/album/0ZqKApps6FNEiOGYhZ2MKZ) | 2:28 | 2021-12-14 |  |
@@ -165,6 +168,9 @@
 | [Silent Night \(Piano Solo\) \- Spotify Singles](https://open.spotify.com/track/4mHAUxQtR2a3c4y2RQyvpp) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Spotify Singles \- Holiday](https://open.spotify.com/album/3wgJ0heYMenWNx1Dr6ZH6c) | 2:32 | 2021-12-14 |  |
 | [Silver Bells](https://open.spotify.com/track/2fKI4IRNIk0CzTtd0rcgCB) | [Maurice Hofer](https://open.spotify.com/artist/13qYVevzVerhQNMUxwgLmG) | [At Christmas](https://open.spotify.com/album/5KtlgDV18WBowWoMm6I4n2) | 2:43 | 2021-12-14 | 2022-10-15 |
 | [Silver Bells \- Piano](https://open.spotify.com/track/5HGeOWobPDjZZ3vc0tUA0x) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [we're home for Christmas \(Piano\)](https://open.spotify.com/album/0ne2v4nlcqGxX9BdEONxcY) | 2:24 | 2022-10-14 |  |
+| [Skating \- Cover](https://open.spotify.com/track/27pVQURWH2HTpuca6nOWRO) | [J Stepan](https://open.spotify.com/artist/2uF3aGwBsOYAxyCSCQuQzz) | [Skating \(Cover\)](https://open.spotify.com/album/1H3FeVZu31Ca6Mq1ndCPMg) | 2:19 | 2024-11-12 |  |
+| [Sleigh Ride \- Cover](https://open.spotify.com/track/6eH4HH7RGlEZdXhiqOabQ6) | [N Piccolina](https://open.spotify.com/artist/47ZGaS4IcMwkIutwnhNJjC) | [Sleigh Ride \(Cover\)](https://open.spotify.com/album/29Cky5qlRLAABIXjFpjyIC) | 2:28 | 2024-11-12 |  |
+| [Somewhere In My Memory](https://open.spotify.com/track/4mYAvFmB61UBYf2mq8EhJD) | [Pass Sacaglia](https://open.spotify.com/artist/0ZrsvPjO4XAYfYXzoTroF5) | [Somewhere In My Memory](https://open.spotify.com/album/1cR6hkvpDDGIkdxikJgQGO) | 2:38 | 2024-11-12 |  |
 | [Star of Bethlehem](https://open.spotify.com/track/1B96IivJCEW4s9d7yODqZa) | [Emma Shynes](https://open.spotify.com/artist/7ie1xJZZDKyTGc3FxBTjTd) | [Star of Bethlehem](https://open.spotify.com/album/6VZJBmEQ9FbMmWDYuyxCN8) | 3:07 | 2021-12-14 |  |
 | [Star Of The East](https://open.spotify.com/track/4TYn4M3KJyug0LjSgSuTIe) | [Lillith Love](https://open.spotify.com/artist/5HzezX7WHyXZ7pDUCgb3ZU) | [Where Are You, Christmas?](https://open.spotify.com/album/4es25LjvggwFaLP3ZDvb60) | 1:54 | 2021-12-14 | 2023-09-27 |
 | [Stilla Natt](https://open.spotify.com/track/1afHZXcjEW4hHlFMC38rC0) | [R\. Embers](https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF) | [Stilla Natt](https://open.spotify.com/album/74hJVq66LJCVzjnyOTy0d9) | 2:34 | 2024-11-06 |  |

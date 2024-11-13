@@ -1,13 +1,181 @@
 {
-  "description": "Songs that are 100% written, produced, and performed by women! Co-curated this month by: Yseult",
-  "num_followers": 73195,
+  "description": "Songs that are 100% written, produced, and performed by women! Co-curated this month by: Barlow & Bear",
+  "num_followers": 73232,
   "original_name": "Created by Women",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwbxvgAAAAAAlyOgdYHRNqTidnk4fZnx",
+  "snapshot_id": "ZzOU/gAAAADoy+/kIsOAgfl62x58LyNu",
   "tracks": [
+    {
+      "added_at": "2024-11-12 17:48:45",
+      "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "added_at": "2024-11-12 17:48:45",
+      "album": {
+        "name": "Smile 2: The Skye Riley EP",
+        "url": "https://open.spotify.com/album/53i6qzqYuhIhcpVTVu0dW3"
+      },
+      "artists": [
+        {
+          "name": "Skye Riley",
+          "url": "https://open.spotify.com/artist/0fpkkLazfNNewOHmxSW2YL"
+        },
+        {
+          "name": "Naomi Scott",
+          "url": "https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS"
+        }
+      ],
+      "duration_ms": 165282,
+      "name": "Death Of Me",
+      "url": "https://open.spotify.com/track/6AZKGzo7w2FPZ3Y8T4XjfQ"
+    },
+    {
+      "added_at": "2024-11-12 17:48:45",
+      "album": {
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/2JqdcyrOqUzCJQOeuJ7h5u"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        },
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        }
+      ],
+      "duration_ms": 194749,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/5Z0AM9HW78XIyZqF2BPasr"
+    },
+    {
+      "added_at": "2024-11-12 17:48:45",
+      "album": {
+        "name": "tetherball",
+        "url": "https://open.spotify.com/album/27aSHSnvu5rTXz1HJOp1GD"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "tetherball",
+      "url": "https://open.spotify.com/track/6CWWWOwL2JBCaMQaBnTcyO"
+    },
+    {
+      "added_at": "2024-11-12 17:48:45",
+      "album": {
+        "name": "Shade of Yellow",
+        "url": "https://open.spotify.com/album/1Yz6WdcuRxhdHzJG5zmLQZ"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 156963,
+      "name": "Shade of Yellow",
+      "url": "https://open.spotify.com/track/7qHXEShpUpCcSUbgVjEAoQ"
+    },
+    {
+      "added_at": "2024-11-12 17:48:45",
+      "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 262062,
+      "name": "The Journey",
+      "url": "https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI"
+    },
+    {
+      "added_at": "2024-11-12 17:48:45",
+      "album": {
+        "name": "Keep Those Teardrops from Falling",
+        "url": "https://open.spotify.com/album/0vPOpQfFhKheEPKJtGGDTH"
+      },
+      "artists": [
+        {
+          "name": "Natalie Bergman",
+          "url": "https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC"
+        }
+      ],
+      "duration_ms": 164830,
+      "name": "Keep Those Teardrops from Falling",
+      "url": "https://open.spotify.com/track/34ojZaWg4BOqIL58M5CneC"
+    },
+    {
+      "added_at": "2024-11-12 17:48:45",
+      "album": {
+        "name": "Jupiter's Legacy (Music From the Netflix Series)",
+        "url": "https://open.spotify.com/album/6McEWs40dlz8bv22xmqly8"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Economou",
+          "url": "https://open.spotify.com/artist/2CZRlBNoAoDpVu3vLFKySH"
+        }
+      ],
+      "duration_ms": 215109,
+      "name": "Through the Storm",
+      "url": "https://open.spotify.com/track/1MKKZVYdxGmo2JLqEF9tgS"
+    },
+    {
+      "added_at": "2024-11-12 17:48:45",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 308973,
+      "name": "You've Got a Friend",
+      "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"
+    },
+    {
+      "added_at": "2024-11-12 17:48:45",
+      "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
+    },
     {
       "added_at": "2024-08-07 06:57:00",
       "album": {
@@ -675,22 +843,6 @@
       "duration_ms": 193426,
       "name": "Not So Different",
       "url": "https://open.spotify.com/track/0JYh5zmUdO79lyzo8E06LK"
-    },
-    {
-      "added_at": "2024-08-07 06:57:00",
-      "album": {
-        "name": "Ellipse",
-        "url": "https://open.spotify.com/album/1H8velOQ9zUFqpuQPd2bkO"
-      },
-      "artists": [
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "Bad Body Double",
-      "url": "https://open.spotify.com/track/2rkQtnknRZivK7saBryrjm"
     }
   ],
   "unique_name": "Created by Women",

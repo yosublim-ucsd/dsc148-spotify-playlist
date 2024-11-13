@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,033 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,101 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 2 | [Tere Bina Na Guzara E](https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN) | [Josh Brar](https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a) | [Tere Bina Na Guzara E](https://open.spotify.com/album/2F1gMtjzItjOoTMgp9qakV) | 3:40 |
 | 3 | [Ho Gya Pyar](https://open.spotify.com/track/5oGOu1atZwbioN0MgNVio2) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Ho Gya Pyar](https://open.spotify.com/album/3XAIeDSgTDOyo4qLn8DLkW) | 2:56 |
 | 4 | [Big Flex](https://open.spotify.com/track/4GrMhP5ePbKxBcErPQhmOb) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patander](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:46 |
-| 5 | [Callin](https://open.spotify.com/track/1dKZCOJ6qCCBbuNCgXqcUH) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Callin](https://open.spotify.com/album/6bRjoBTTNgRbEU5vcKT30P) | 2:48 |
+| 5 | [Callin](https://open.spotify.com/track/1dKZCOJ6qCCBbuNCgXqcUH) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Callin](https://open.spotify.com/album/6bRjoBTTNgRbEU5vcKT30P) | 2:48 |
 | 6 | [Saadi Jaan Ve](https://open.spotify.com/track/48yQXfoCpreYL0wNNM58Yw) | [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5) | [Saadi Jaan Ve](https://open.spotify.com/album/1PcmBVEJoMEkjxc1NdrngL) | 3:29 |
 | 7 | [Loafer](https://open.spotify.com/track/1Ha1bzCgyyZbhiSHygtTKs) | [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM), [Babbu](https://open.spotify.com/artist/5i2ZfWkVWCMNjUFHyHMuPw), [Trip Beats](https://open.spotify.com/artist/7tDPPascbZXHqvtye9tXrb) | [Loafer](https://open.spotify.com/album/468GTdce4X0z4lrsmo81Zz) | 2:52 |
 | 8 | [Naanke](https://open.spotify.com/track/74oWyckFTzMSn7MkhHUQrP) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV), [Ricky Khan](https://open.spotify.com/artist/5QcmkDotvADr6cAYDdlRZQ), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Naanke](https://open.spotify.com/album/2EmA299vtiy17Xp30pKn7d) | 2:41 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 57 | [Safar](https://open.spotify.com/track/57XxjBWEg4bU5nnW5WCSBG) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Safar](https://open.spotify.com/album/0eRGaOgxvCt9kr9yWoyhuL) | 3:17 |
 | 58 | [FLOWER & SAINTS](https://open.spotify.com/track/76nPGzoILoxiq1ntIrixfS) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Stolen Dreams](https://open.spotify.com/album/3wKOSB7GTT0aeaXsEJ26G9) | 3:00 |
 | 59 | [Jhaanjar \(From "Honeymoon"\)](https://open.spotify.com/track/6UCOYYKgwCJpENkEFHjw50) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Jhaanjar \(From "Honeymoon"\)](https://open.spotify.com/album/0NpT6q3W06PVHcCnE5Ifyl) | 3:55 |
-| 60 | [Koka](https://open.spotify.com/track/1ExaQYPap38faw3FEqKcGY) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Koka](https://open.spotify.com/album/1LpS06pxJRRmE3DzEpywe3) | 3:10 |
+| 60 | [Koka](https://open.spotify.com/track/1ExaQYPap38faw3FEqKcGY) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Flamme Music](https://open.spotify.com/artist/2N2WSjZpkNvmAZrEaIqwiU) | [Koka](https://open.spotify.com/album/1LpS06pxJRRmE3DzEpywe3) | 3:10 |
 | 61 | [Ikk Number](https://open.spotify.com/track/3IIfZy5KjNupxhlZfoPfOw) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Ikk Number](https://open.spotify.com/album/2zzVGCWpet59talzUugOaA) | 3:02 |
 | 62 | [Her](https://open.spotify.com/track/6biqkuWq069vByAEeGxZlr) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Her](https://open.spotify.com/album/17kCYpIx9cO6WEt3B7795R) | 2:34 |
 | 63 | [Udh Di Phiran](https://open.spotify.com/track/4sTY5k1xidkZWbtvVZrft3) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ) | [Udh Di Phiran](https://open.spotify.com/album/1uvy9ZXnUqwEvvDHcWJK8e) | 3:41 |

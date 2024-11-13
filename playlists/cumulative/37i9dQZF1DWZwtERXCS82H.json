@@ -13963,6 +13963,24 @@
     },
     {
       "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/5MojebLBYysmuT1qBZTWYX"
+      },
+      "artists": [
+        {
+          "name": "Kisane",
+          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163996,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/6RpzFmRfyEz2D4Y2k7Z1KA"
+    },
+    {
+      "album": {
         "name": "Your Own Kind",
         "url": "https://open.spotify.com/album/1WV5E90TCHTaGKRYU9QfoH"
       },

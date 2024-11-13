@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: HVDES \\m/",
-  "num_followers": 334824,
+  "num_followers": 334893,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1879,26 +1879,6 @@
     {
       "added_at": "2024-11-08 16:44:50",
       "album": {
-        "name": "Just A Kid",
-        "url": "https://open.spotify.com/album/71hoJtICb8oJUOclgYjRWh"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Captain Curtis",
-          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Just A Kid",
-      "url": "https://open.spotify.com/track/43qTGBfICY2nCeC7iEatjH"
-    },
-    {
-      "added_at": "2024-11-08 16:44:50",
-      "album": {
         "name": "Insanity",
         "url": "https://open.spotify.com/album/5uaMyd4eWrWSXVPX6hPgBm"
       },
@@ -1915,6 +1895,26 @@
       "duration_ms": 183132,
       "name": "Insanity",
       "url": "https://open.spotify.com/track/01Cbf3nijsIYjKcqdDGvqa"
+    },
+    {
+      "added_at": "2024-11-08 16:44:50",
+      "album": {
+        "name": "Just A Kid",
+        "url": "https://open.spotify.com/album/71hoJtICb8oJUOclgYjRWh"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Captain Curtis",
+          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Just A Kid",
+      "url": "https://open.spotify.com/track/43qTGBfICY2nCeC7iEatjH"
     },
     {
       "added_at": "2024-11-08 16:44:50",
@@ -2399,6 +2399,22 @@
     {
       "added_at": "2024-11-08 16:44:50",
       "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
+      },
+      "artists": [
+        {
+          "name": "Subshock & Evangelos",
+          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
+    },
+    {
+      "added_at": "2024-11-08 16:44:50",
+      "album": {
         "name": "Done Better",
         "url": "https://open.spotify.com/album/2IM4meQQN3QrdA3Mfv63kh"
       },
@@ -2419,22 +2435,6 @@
       "duration_ms": 170583,
       "name": "Done Better",
       "url": "https://open.spotify.com/track/3wl77mkSw6UVa0ciUKB6xS"
-    },
-    {
-      "added_at": "2024-11-08 16:44:50",
-      "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
-      },
-      "artists": [
-        {
-          "name": "Subshock & Evangelos",
-          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
     },
     {
       "added_at": "2024-11-08 16:44:50",

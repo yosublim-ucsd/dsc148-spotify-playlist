@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Scary monsters and filthy drops.",
+  "description": "Scary monsters and filthy drops \ud83e\udddb\ud83c\udffc\ud83e\udddb\ud83c\udffc",
   "name": "The Graveyard",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 264000,
       "name": "Bass Inside",
       "url": "https://open.spotify.com/track/0oUTyBEY3NQzmu2VuoKpSH"
@@ -354,6 +354,28 @@
       "duration_ms": 190344,
       "name": "Candy Flip",
       "url": "https://open.spotify.com/track/3GbIAc1YF7taTuU6FG1W13"
+    },
+    {
+      "album": {
+        "name": "Conjure EP",
+        "url": "https://open.spotify.com/album/6kmZrIMLG7KotZePvmJkW1"
+      },
+      "artists": [
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        },
+        {
+          "name": "SOH SOH",
+          "url": "https://open.spotify.com/artist/57bZARCXfFj5fkB5BxHzfs"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Conjure",
+      "url": "https://open.spotify.com/track/0xJROZCcWeyXp02n5LbewH"
     },
     {
       "album": {
@@ -552,6 +574,28 @@
       "duration_ms": 210461,
       "name": "Dem Fraid",
       "url": "https://open.spotify.com/track/3Ui9jL2IyUyu2EzffYmqPp"
+    },
+    {
+      "album": {
+        "name": "Conjure EP",
+        "url": "https://open.spotify.com/album/6kmZrIMLG7KotZePvmJkW1"
+      },
+      "artists": [
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        },
+        {
+          "name": "SOH SOH",
+          "url": "https://open.spotify.com/artist/57bZARCXfFj5fkB5BxHzfs"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169014,
+      "name": "Demon",
+      "url": "https://open.spotify.com/track/2FCiCI8iBAyovkR0q3sm59"
     },
     {
       "album": {
@@ -1096,6 +1140,28 @@
       "duration_ms": 164023,
       "name": "Hitman",
       "url": "https://open.spotify.com/track/161hrORIVwOXGesPsY607T"
+    },
+    {
+      "album": {
+        "name": "Horror",
+        "url": "https://open.spotify.com/album/2RHCp4E0ryk5lLVQNSxZaq"
+      },
+      "artists": [
+        {
+          "name": "Xotix",
+          "url": "https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW"
+        },
+        {
+          "name": "Slang Dogs",
+          "url": "https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Horror",
+      "url": "https://open.spotify.com/track/0kuoAA6LzPE0dzDiiaZ1Zs"
     },
     {
       "album": {
@@ -1766,7 +1832,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 191250,
       "name": "ROCK IT",
       "url": "https://open.spotify.com/track/1yv3aBLO9rgyEHmAR7jI1M"
@@ -2624,7 +2690,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 161904,
       "name": "Whispers in the Dark",
       "url": "https://open.spotify.com/track/4hiWbebUSIyK9lIUfvDHCG"

@@ -1,6 +1,6 @@
 {
   "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/57bqeusfyDsCIt1qDA1J9I\">wiesner</a>",
-  "num_followers": 20772,
+  "num_followers": 20784,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -657,6 +657,22 @@
       "url": "https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd"
     },
     {
+      "added_at": "2024-10-25 09:16:00",
+      "album": {
+        "name": "Kiss Me Hard",
+        "url": "https://open.spotify.com/album/1U7stlcv1Z4m4UDSRei2vM"
+      },
+      "artists": [
+        {
+          "name": "Anica Kiana",
+          "url": "https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0"
+        }
+      ],
+      "duration_ms": 172549,
+      "name": "Kiss Me Hard",
+      "url": "https://open.spotify.com/track/1Pd0c4a7vii97gOE0vzxNL"
+    },
+    {
       "added_at": "2024-07-28 19:12:15",
       "album": {
         "name": "Paaie X",
@@ -689,22 +705,6 @@
       "url": "https://open.spotify.com/track/2Kf0YUHmw60NJEvzJEIeum"
     },
     {
-      "added_at": "2024-10-04 04:33:39",
-      "album": {
-        "name": "Moth Eater",
-        "url": "https://open.spotify.com/album/47tMFXdmZbZY67z1mmfvR3"
-      },
-      "artists": [
-        {
-          "name": "Ruff Majik",
-          "url": "https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL"
-        }
-      ],
-      "duration_ms": 323357,
-      "name": "Moth Eater",
-      "url": "https://open.spotify.com/track/04M4i1FYoBEPM8GEMAercO"
-    },
-    {
       "added_at": "2024-09-06 06:15:37",
       "album": {
         "name": "Kondisie",
@@ -721,20 +721,20 @@
       "url": "https://open.spotify.com/track/36SjYjhcFhamW4QESWInBa"
     },
     {
-      "added_at": "2024-10-25 09:16:00",
+      "added_at": "2024-10-04 04:33:39",
       "album": {
-        "name": "Kiss Me Hard",
-        "url": "https://open.spotify.com/album/1U7stlcv1Z4m4UDSRei2vM"
+        "name": "Moth Eater",
+        "url": "https://open.spotify.com/album/47tMFXdmZbZY67z1mmfvR3"
       },
       "artists": [
         {
-          "name": "Anica Kiana",
-          "url": "https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0"
+          "name": "Ruff Majik",
+          "url": "https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL"
         }
       ],
-      "duration_ms": 172549,
-      "name": "Kiss Me Hard",
-      "url": "https://open.spotify.com/track/1Pd0c4a7vii97gOE0vzxNL"
+      "duration_ms": 323357,
+      "name": "Moth Eater",
+      "url": "https://open.spotify.com/track/04M4i1FYoBEPM8GEMAercO"
     },
     {
       "added_at": "2024-07-28 19:12:15",

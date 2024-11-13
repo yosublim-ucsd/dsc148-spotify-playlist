@@ -168,8 +168,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 158 | [The Point](https://open.spotify.com/track/0jvo85AH33ruP3757RIFdX) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:18 |
 | 159 | [Pitch Dark](https://open.spotify.com/track/69qTmGUnsoQj76ZqAPVyOm) | [Chelsea Jade](https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO) | [Personal Best](https://open.spotify.com/album/05JyBFPtta56x6uBvIfnal) | 3:16 |
 | 160 | [Bad Idea](https://open.spotify.com/track/5tu7LVow9lV2PwY7SeYEzl) | [Theia](https://open.spotify.com/artist/29ADVF7I6YQyY2SGUlzCcB) | [Not Your Princess](https://open.spotify.com/album/20jvxD6WnHc2BmNZFBjgau) | 2:47 |
-| 161 | [Home By Now \- Acoustic](https://open.spotify.com/track/3zlTQomszReVaRPogHzymz) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [First & Foremost](https://open.spotify.com/album/3MgPBfKTcXs9wLLRqr78JG) | 3:38 |
-| 162 | [Vicio \- Ft\. Mala Rodríguez](https://open.spotify.com/track/0w1jdJh9PcYgT6xBFFnSQI) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Miss Misogyny](https://open.spotify.com/album/2XCLHKZxCU9hKsenQR72di) | 3:28 |
+| 161 | [Vicio \- Ft\. Mala Rodríguez](https://open.spotify.com/track/0w1jdJh9PcYgT6xBFFnSQI) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Miss Misogyny](https://open.spotify.com/album/2XCLHKZxCU9hKsenQR72di) | 3:28 |
+| 162 | [Home By Now \- Acoustic](https://open.spotify.com/track/3zlTQomszReVaRPogHzymz) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [First & Foremost](https://open.spotify.com/album/3MgPBfKTcXs9wLLRqr78JG) | 3:38 |
 | 163 | [For All the Times I Fell on My Face](https://open.spotify.com/track/49mFYi8xN7QCz7D7bRRvnW) | [Damien Styles](https://open.spotify.com/artist/2WkZEXhzMMa2osE1yKu7SL) | [For All the Times I Fell on My Face](https://open.spotify.com/album/2UMiOMR9wZU1MHzc15jhLO) | 2:50 |
 | 164 | [Not Ready To Dance](https://open.spotify.com/track/0TxxhMgiNpgfuNjSVMiTCB) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:01 |
 | 165 | [Say It](https://open.spotify.com/track/6jsVeEF5uzNEeXQbXQnLvj) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 2:44 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 170 | [Like That](https://open.spotify.com/track/0jFF83NzwA74b6xmTkqT0U) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:17 |
 | 171 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 
-Snapshot ID: `AbhQHgAAAAC0pzqeCb8NHB9th9ELg7Lc`
+Snapshot ID: `AbhVvgAAAADfWnlDThyoczRpe3dG0ONP`

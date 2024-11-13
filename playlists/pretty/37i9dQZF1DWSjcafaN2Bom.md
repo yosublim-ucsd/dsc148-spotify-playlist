@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,480 likes - 331 songs - 20 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,519 likes - 331 songs - 20 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 21 | [Bizet: Carmen, WD 31, Act 1: Habanera\. "L'amour est un oiseau rebelle" \(Carmen, Chœur\)](https://open.spotify.com/track/3pzBD8BVdrv7VJ7glRYshl) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Michel Plasson](https://open.spotify.com/artist/2fzmIYnCPAZ9LeJFpYcHob), [Angela Gheorghiu](https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44), [Les Éléments](https://open.spotify.com/artist/3M6UtjNuBdRuHaxcWH3EM3), [Orchestre National Du Capitole De Toulouse](https://open.spotify.com/artist/75ehLoOSz7elHefmAk5QWa) | [Bizet: Carmen](https://open.spotify.com/album/249X9ZjhWATM2KlkcCh9pt) | 4:35 |
 | 22 | [Dance Across The Floor](https://open.spotify.com/track/1qasZQjHj5Toth6lw0aX3m) | [Jimmy "Bo" Horne](https://open.spotify.com/artist/6jcPHv7qVfqysvBT7Jmn7K) | [Dance Across The Floor](https://open.spotify.com/album/70gWD5znMmV5cFENCH0EzA) | 2:40 |
 | 23 | [Feels Like I'm in Love](https://open.spotify.com/track/3Swc1delyFn1fwPDkInUhC) | [Kelly Marie](https://open.spotify.com/artist/5lD4NOWjS7yf69zIK46Chy) | [Feels Like I'm in Love](https://open.spotify.com/album/2Qg2gDjtzgtCVcokMRS7Wv) | 4:16 |
-| 24 | [Respectable](https://open.spotify.com/track/1q8yOvrVNiZtMuEujDuSPP) | [Mel & Kim](https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM) | [F.L.M\. \(Deluxe Edition\)](https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv) | 3:22 |
+| 24 | [Respectable](https://open.spotify.com/track/1q8yOvrVNiZtMuEujDuSPP) | [Mel & Kim](https://open.spotify.com/artist/4k7b3DWqBnYpobDWbNWLdM) | [F.L.M.](https://open.spotify.com/album/6mrIxuwdKXXao4SOgte0Lv) | 3:22 |
 | 25 | [New Radio](https://open.spotify.com/track/2n5MF85CukE7ios8yfqxMC) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 1:34 |
 | 26 | [Casta Diva, a Belloa Me Ritono](https://open.spotify.com/track/6pgp5jFDtdU7QNVcd6vktL) | [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E) | [Diva](https://open.spotify.com/album/6RFI2C0EeWJlflgcWaZCUC) | 5:36 |
 | 27 | [Love Vibration](https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Love Vibration](https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL) | 3:00 |

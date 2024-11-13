@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-810 songs - 1 day 10 hr 48 min
+811 songs - 1 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Grace](https://open.spotify.com/track/7awIIxfZGrKfqIWOD3iZPV) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Grace](https://open.spotify.com/album/2AFvFo44JnSdEghSwTaSFq) | 2:46 | 2021-12-13 | 2022-09-24 |
 | [Gran Separado](https://open.spotify.com/track/6E0A1z9LAekBr97GRRlQ4p) | [Leonid Gautier](https://open.spotify.com/artist/1PG2CsJ35TSdcLarWqxGdu) | [Gran Separado](https://open.spotify.com/album/5MAFv5FqwSv5iNtmsInAbc) | 3:41 | 2021-12-13 | 2022-09-13 |
 | [Gratitude](https://open.spotify.com/track/5t4wYNhdJDzxVlMjri5sOn) | [Eadgar Évariste](https://open.spotify.com/artist/1c7hoqo3WagTVwFD2JMHmu) | [Gratitude](https://open.spotify.com/album/5YfNOdFUtS4eFZVHBO5GIF) | 1:54 | 2023-02-27 | 2023-08-22 |
+| [Gravity \- With Cello Quartet](https://open.spotify.com/track/5OlQnVPwhVoLCGO9xmedm0) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Gravity \- With Cello Quartet](https://open.spotify.com/album/2ZMzXVdYM8dDLzUP1GHdfy) | 2:18 | 2024-11-12 |  |
 | [Green Leaves](https://open.spotify.com/track/1TsMXS2Xy3TSP6LkHEw2WY) | [Klaüs](https://open.spotify.com/artist/3252lQrYqRgAFw2xXuNdVZ) | [Green Leaves](https://open.spotify.com/album/4LHWWyLQNckOJYKgmbevdw) | 2:02 | 2022-10-04 | 2024-04-09 |
 | [Growing Old](https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2) | [Ezequiel Johnson](https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC) | [Growing Old](https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS) | 2:06 | 2021-12-13 | 2023-08-08 |
 | [Habito](https://open.spotify.com/track/48v3esP9iVCc7HBX0zGKpk) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Habito](https://open.spotify.com/album/2iDCKPyudOHhPufR4rC9BF) | 3:32 | 2021-12-13 | 2022-08-30 |

@@ -4,7 +4,7 @@
 
 > Break a sweat with this Zumba\-inspired playlist! Find a class at Zumba.com
 
-216 songs - 11 hr 17 min
+217 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Bailar Contigo](https://open.spotify.com/track/5QL7rMvrs1gY77gmvoHNp8) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Bailar Contigo](https://open.spotify.com/album/5Clbwwxo1hFCnXzXnKEdF3) | 3:07 | 2023-12-19 | 2024-01-17 |
 | [Baloncito Viejo](https://open.spotify.com/track/1PGoOrdBQyahALB6Vu7HMN) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Baloncito Viejo](https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe) | 2:50 | 2022-04-15 | 2024-07-27 |
 | [Banana \(feat\. Boy Wonder CF, Three Seven Music, & The Chosen Few\)](https://open.spotify.com/track/3YzeKrvLyohf6Md1MUPxgr) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Three Seven Music](https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb), [The Chosen Few](https://open.spotify.com/artist/2HOZmbv4saI1WELN907XSN) | [Banana \(feat\. Boy Wonder CF, Three Seven Music, & The Chosen Few\)](https://open.spotify.com/album/3uOTUomuac9ttsW77MuvnX) | 3:00 | 2024-11-05 |  |
-| [Bar](https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Bar](https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf) | 2:40 | 2021-12-17 |  |
+| [Bar](https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Bar](https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf) | 2:40 | 2021-12-17 | 2024-11-13 |
 | [BEACHY](https://open.spotify.com/track/7gjnP3VGpnDpCVn3ZzmtvW) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [BEACHY](https://open.spotify.com/album/5xN2TtNpQBicT3t9Ohg6Id) | 2:48 | 2023-07-07 | 2024-06-22 |
 | [Berlin](https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Berlin](https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa) | 4:06 | 2022-07-06 |  |
 | [Bien Chill](https://open.spotify.com/track/56BV0uPbXSu9RRHrPR1Zat) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Bien Chill](https://open.spotify.com/album/4RUs46dwJkHE4sn8u6fXoo) | 2:56 | 2021-12-17 | 2022-07-29 |
@@ -57,6 +57,7 @@
 | [Después de la Playa](https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-06 |  |
 | [Dientes](https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Dientes](https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O) | 2:46 | 2023-09-15 |  |
 | [Diferente](https://open.spotify.com/track/5OVZiVzvQ4thVjTR6hB8hK) | [Matt Paris](https://open.spotify.com/artist/1w1EFjTCiwLWRZMQwyJU1H) | [Diferente](https://open.spotify.com/album/1sdFqrDsuVDKVaRPw64rpC) | 2:12 | 2023-11-28 | 2023-12-20 |
+| [DIME](https://open.spotify.com/track/0mkbok7lezU3oXp5EnyB0x) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Zumba Fitness](https://open.spotify.com/artist/3I4IAI5sdU0vakMOD6SLZL) | [DIME](https://open.spotify.com/album/0dx7oUCuvOKpvA0PO2xHA1) | 3:24 | 2024-11-12 |  |
 | [Djadja \(feat\. Maluma\) \- Remix](https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Djadja \(feat\. Maluma\) \[Remix\]](https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV) | 2:46 | 2021-12-17 |  |
 | [Dolce](https://open.spotify.com/track/37qPzPVOfxSDI7QOF2oZFB) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Ley De Gravedad](https://open.spotify.com/album/21wimzvehpbiBmJS0upDr6) | 2:53 | 2022-03-24 | 2022-11-13 |
 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2021-12-17 |  |

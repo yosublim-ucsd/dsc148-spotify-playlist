@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: DEATHRO
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Ken Yokoyama
 
-797 songs - 1 day 18 hr 24 min
+799 songs - 1 day 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [INSOMNIAC](https://open.spotify.com/track/2CZ4xGi6f8GsyhCE9hHTQp) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [INSOMNIAC](https://open.spotify.com/album/6U4gjIFU5k0Gnqq9LFXJHR) | 3:58 | 2024-04-16 | 2024-09-04 |
 | [INSOMNIAC](https://open.spotify.com/track/2EzDDlGlwTPNPQPojXvKty) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [INSOMNIAC](https://open.spotify.com/album/2e59EpMeBgRjNL4dcAXzB3) | 3:58 | 2023-11-14 | 2024-04-19 |
 | [Intensity](https://open.spotify.com/track/6hTPy2QDMobNxWLPkrxBpI) | [sassya\-](https://open.spotify.com/artist/0Ro15lPEJLZfG9H7hxXOxu) | [Intensity](https://open.spotify.com/album/2TTzdKpQUkziTyrnx7jQdU) | 3:00 | 2022-06-14 | 2022-07-26 |
+| [International You Day](https://open.spotify.com/track/2LBZYZTbStSYeICfnfD9W6) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Golden Age Of Punk Rock](https://open.spotify.com/album/7jb8jzr5hq7CzeS66UzmCo) | 2:42 | 2024-11-12 |  |
 | [INVITATION](https://open.spotify.com/track/5UeAFjIxgay5XnbfhaJ0hq) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [INVITATION](https://open.spotify.com/album/4ZifRxvNe7VyUx2puhgVXP) | 1:59 | 2022-05-12 | 2022-06-07 |
 | [Irie](https://open.spotify.com/track/3sx006zaXSbCKkqIZJAB7I) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [Saba No Ichi](https://open.spotify.com/album/4h0gEOGeWn8Dc22RJ0McFN) | 3:00 | 2024-01-10 | 2024-03-08 |
 | [It's a Wonderful Life! \~Heat Up Theme \~ .](https://open.spotify.com/track/5k4vMqDvrkMq4roJ1CEcQ5) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [It's a Wonderful Life! \~Heat Up Theme \~ .](https://open.spotify.com/album/5cV5NuuUhNhhQoCYIRj3SH) | 3:28 | 2022-10-04 | 2022-10-26 |
@@ -538,7 +539,7 @@
 | [Uzu](https://open.spotify.com/track/3KWXWZe1VeRJScoCbstAxk) | [OWl](https://open.spotify.com/artist/0maedf6L3q44shFk35Bs9Y) | [Uzu](https://open.spotify.com/album/3LTuVnJeZG3rXkGFC23J9k) | 2:56 | 2023-12-26 | 2024-02-14 |
 | [UZUMAKI](https://open.spotify.com/track/5h41AZgRSFewUHIRl5rz72) | [BIZEN](https://open.spotify.com/artist/704hcRbYskappGRP4s8bGz), [WORSTRASH](https://open.spotify.com/artist/6NQKZrJy0f4GVdBXfs6m4p) | [UZUMAKI](https://open.spotify.com/album/4Z2rLymOwHWmb6FqOKKsux) | 2:10 | 2024-01-04 | 2024-02-28 |
 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 | 2022-05-12 | 2024-01-10 |
-| [VITAMIN](https://open.spotify.com/track/0nJdVhBNM9jkC0PiG4mYNf) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [DEAD UNICORN & VITAMIN](https://open.spotify.com/album/4A1QgfUuJSNZZEIJ2ZioUB) | 3:19 | 2022-05-12 |  |
+| [VITAMIN](https://open.spotify.com/track/0nJdVhBNM9jkC0PiG4mYNf) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [DEAD UNICORN & VITAMIN](https://open.spotify.com/album/4A1QgfUuJSNZZEIJ2ZioUB) | 3:19 | 2022-05-12 | 2024-11-13 |
 | [Voice](https://open.spotify.com/track/1EJxVlb4XvtG3669TnPJXw) | [Pay money To my Pain](https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw) | [gene](https://open.spotify.com/album/6jP0ywNIkiQr9IWwZ2Q0A4) | 8:05 | 2022-07-21 | 2023-09-06 |
 | [Voice](https://open.spotify.com/track/3aFSKmcKnOAQcyedKk0Hgd) | [Pay money To my Pain](https://open.spotify.com/artist/07BBdQ03C1t2EPSQ7AeAJw) | [gene](https://open.spotify.com/album/6cBrX444w1OquRC1dT1J0W) | 8:05 | 2023-09-07 | 2023-12-20 |
 | [W.O.W](https://open.spotify.com/track/2rIIZBDtTY52jQybxMOB0q) | [MOTHBALL](https://open.spotify.com/artist/4kFIznJL74Ic9Z5wfpCFNc) | [W.O.W](https://open.spotify.com/album/3FKeP5r7PxebHqyrrL8Of1) | 3:07 | 2022-05-12 | 2022-07-17 |
@@ -600,6 +601,7 @@
 | [さらば青春の光 feat\. ザ・森東](https://open.spotify.com/track/0NEhKgTtDyXvYy0uOdw0hN) | [The Cherry Coke$](https://open.spotify.com/artist/6GWciujSDoDzAAEcDp48sp), [ザ・森東](https://open.spotify.com/artist/1XYNQauHdnoJ7GYp9WyDC7) | [LOVE THY DRUNX](https://open.spotify.com/album/1n2g5AkNNm468K3AG3INeo) | 3:48 | 2024-09-03 |  |
 | [しあわせになる](https://open.spotify.com/track/0LeFkyQOiMMyeiUpuhL2HF) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [しあわせになる](https://open.spotify.com/album/5d6jAVVrGPqrXOHeDZTeyJ) | 1:29 | 2022-05-24 | 2022-07-15 |
 | [じゃじゃ馬にさせないで](https://open.spotify.com/track/6qV4xNwIt7qF0gO6yW086K) | [the dadadadys](https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL) | [\(茜\)](https://open.spotify.com/album/7EQlFBJV2yiLhi3SDq91vR) | 4:23 | 2024-01-25 | 2024-03-10 |
+| [ずっきゅん♡](https://open.spotify.com/track/6Mc9ye2PRb8Fb2AggnvFV7) | [カライドスコープ](https://open.spotify.com/artist/5VPAcL1oXbwABg16QXigGK) | [ずっきゅん♡](https://open.spotify.com/album/5HuFjY4PmfgCk3JDxdbJ2o) | 3:00 | 2024-11-12 |  |
 | [そういう日もある](https://open.spotify.com/track/0r8wdvoEP9RO17HYvYFnQJ) | [The Docci](https://open.spotify.com/artist/4wqVGKK5aqe2Gzp8Up1jeC) | [そういう日もある](https://open.spotify.com/album/5K2pchdWhbsKvPFa9bxDIU) | 2:11 | 2024-11-05 |  |
 | [その羅針盤](https://open.spotify.com/track/6cPCs9eghvxx4hMKvLT7U0) | [THE BOYS&GIRLS](https://open.spotify.com/artist/11kPSVeZeo3t4Ep9TSKa8T) | [その羅針盤](https://open.spotify.com/album/3p7JjQ91l4lG4Xtcc5dDb2) | 3:46 | 2022-05-17 | 2022-07-23 |
 | [そんな日々を生きていく](https://open.spotify.com/track/1UJVe7sPD9uEm5xJE9Mc6p) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [そんな日々を生きていく](https://open.spotify.com/album/6229MPDOzFYCQh0PlCDyq8) | 4:31 | 2024-02-13 | 2024-04-01 |
@@ -724,7 +726,7 @@
 | [女生徒](https://open.spotify.com/track/44x9LuHftRTvQcBysBqaui) | [ジョズエ](https://open.spotify.com/artist/3hHyAPKqKkciTod3I07ofN) | [しゃべるなポーラ](https://open.spotify.com/album/4E7vQguiYVRQktOsnbtFvW) | 3:01 | 2022-05-17 | 2022-07-23 |
 | [孤独のエール](https://open.spotify.com/track/410YjkVGqiqywYYb5kzVut) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [チャリーズ・エンジェル](https://open.spotify.com/album/2UGOD4IJzfSerfa0340Eli) | 4:49 | 2022-05-12 | 2022-07-29 |
 | [定時で帰ろう feat\. TOTALFAT](https://open.spotify.com/track/6gqRMq5FrDCeiGQPd63gBs) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo), [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [定時で帰ろう feat\. TOTALFAT](https://open.spotify.com/album/4Nt4pUQZs50oRYt3wd7iHz) | 3:07 | 2023-08-08 | 2023-08-10 |
-| [小さな恋のうた](https://open.spotify.com/track/7swIKcU4tFRk4iFJpi12Fg) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [800BEST \-simple is the BEST!!\-](https://open.spotify.com/album/5DDaPFrj3LdwzYmC4LJ7Nt) | 3:42 | 2024-04-16 |  |
+| [小さな恋のうた](https://open.spotify.com/track/7swIKcU4tFRk4iFJpi12Fg) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [800BEST \-simple is the BEST!!\-](https://open.spotify.com/album/5DDaPFrj3LdwzYmC4LJ7Nt) | 3:42 | 2024-04-16 | 2024-11-13 |
 | [小さな恋のうた](https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:42 | 2022-07-21 | 2024-04-19 |
 | [小さな恋のうた](https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 4:20 | 2023-10-24 | 2024-01-10 |
 | [小さな恋のうた](https://open.spotify.com/track/5hVvF58sY57yb7O7G3g1yM) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 4:20 | 2023-10-24 | 2023-10-26 |

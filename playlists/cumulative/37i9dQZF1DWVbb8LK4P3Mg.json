@@ -2108,7 +2108,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 199000,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/0QV9dRXZsFM68ehadaIUFK"
@@ -2450,6 +2450,24 @@
       "duration_ms": 289384,
       "name": "MY GROWN UP CHRISTMAS LIST",
       "url": "https://open.spotify.com/track/2ONdR1GlPowCViNz74KE7h"
+    },
+    {
+      "album": {
+        "name": "MY LITTLE CHRISTMAS",
+        "url": "https://open.spotify.com/album/7EC1TDmxdXv5JKPNywZ7oa"
+      },
+      "artists": [
+        {
+          "name": "Kim Chae Won",
+          "url": "https://open.spotify.com/artist/4AY12WVwnTpIobXjwJkYDQ"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "My Little Christmas",
+      "url": "https://open.spotify.com/track/2JN8UctuoUI71xqNO7FfZk"
     },
     {
       "album": {

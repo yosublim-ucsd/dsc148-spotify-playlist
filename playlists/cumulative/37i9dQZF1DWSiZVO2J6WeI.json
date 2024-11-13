@@ -1161,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "butterflou",
+        "url": "https://open.spotify.com/album/3NmH0QhSYnA9Ws4nrgqxiC"
+      },
+      "artists": [
+        {
+          "name": "Osman Almasi",
+          "url": "https://open.spotify.com/artist/3XcHOrPFdXk3YTCvqspoSm"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190274,
+      "name": "butterflou",
+      "url": "https://open.spotify.com/track/2WICxZqCY8ZvzJnkAOEuDT"
+    },
+    {
+      "album": {
         "name": "Brainwave Focus",
         "url": "https://open.spotify.com/album/6jc66CwXrBYOVNQvqkQFXz"
       },
@@ -3712,7 +3730,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 180500,
       "name": "Kadunud Taevasse",
       "url": "https://open.spotify.com/track/7az3fA5PzUlxjlIntHmFMU"

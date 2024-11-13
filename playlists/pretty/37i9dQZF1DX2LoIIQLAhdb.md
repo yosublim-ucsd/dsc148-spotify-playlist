@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Dadju x Jungeli
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,046 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,070 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 8 | [TOUT essayer ?](https://open.spotify.com/track/2AtnAly14IUP5I8mPo8QAc) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn) | 3:33 |
 | 9 | [Après l'été](https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Après l'été](https://open.spotify.com/album/2f8C6frz9IoOaNxStASa0X) | 3:59 |
 | 10 | [Instable](https://open.spotify.com/track/4QnMdkE93o6XUQWCxfoneV) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [Instable](https://open.spotify.com/album/2R73xRr7bH7473XAjVgfeH) | 2:27 |
-| 11 | [FACE](https://open.spotify.com/track/1gHlPnzWuBnFOPvyXi5C5K) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2) | [FACE](https://open.spotify.com/album/3tterexf3zqHyQ3bSsAhKD) | 3:20 |
+| 11 | [FACE](https://open.spotify.com/track/5zNKgKLWCrxF1YPSOipgh3) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2) | [FACE](https://open.spotify.com/album/28hVtxEQbJK9A15H7DH7Re) | 3:20 |
 | 12 | [Reviens jamais](https://open.spotify.com/track/6xmLySMOP7u8AG5RCMTYre) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Reviens jamais](https://open.spotify.com/album/746WkKV7QPnIwwupgfGDaU) | 2:41 |
 | 13 | [Paqueta](https://open.spotify.com/track/1EXYDolm4Q74aoGv2qcjxZ) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Paqueta](https://open.spotify.com/album/7z0iznP5UOTtityREHUvX0) | 2:40 |
 | 14 | [CADILLAC](https://open.spotify.com/track/4eQ2L4muTCOHID7hQ7Tm7N) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [CADILLAC](https://open.spotify.com/album/3ylfUBBmPiRXupFpmSfawO) | 1:36 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [T'essaies Pas](https://open.spotify.com/track/2Mwl6yoADqOaRCf7aiYXmL) | [Angelcy](https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2) | [T'essaies Pas](https://open.spotify.com/album/5iHayQ10U75yUExpuf05xC) | 2:44 |
 | 40 | [Alliées](https://open.spotify.com/track/1tOGpuxggC1Zt08X1X7R9U) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Alliées](https://open.spotify.com/album/2nw6TpQGN46cfC9IecyfV2) | 2:26 |
 
-Snapshot ID: `Zy1GcAAAAABt4SSUTMz1nTk/u7je52/S`
+Snapshot ID: `ZzMapQAAAABPMXNL6V2UEs2mu93aFSHb`

@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. Duki
 
-662 songs - 1 day 12 hr 39 min
+662 songs - 1 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [HIBIKI](https://open.spotify.com/track/4qSEvFGCpde73gqIuq3sho) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:28 | 2023-10-13 | 2024-02-02 |
 | [Hola](https://open.spotify.com/track/5VD5mr12uonOBeEFbqobXA) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Hola](https://open.spotify.com/album/5AcJamqKm6zHdBdwvztI0Z) | 2:47 | 2022-08-05 | 2022-08-26 |
 | [Holanda](https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Holanda](https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa) | 3:51 | 2023-08-01 | 2024-01-09 |
-| [IA](https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [IA](https://open.spotify.com/album/3DXj5cbdAXHzjG9Yy2rDn3) | 2:51 | 2024-10-21 |  |
+| [IA](https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [IA](https://open.spotify.com/album/3DXj5cbdAXHzjG9Yy2rDn3) | 4:00 | 2024-10-21 |  |
 | [IBIZA](https://open.spotify.com/track/5AU2gpAgq83vIELugCWx9G) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [IBIZA](https://open.spotify.com/album/0XRTz6VoPqRTEMkVUyrFiG) | 3:03 | 2024-06-10 | 2024-07-02 |
 | [ID](https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [ID](https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL) | 3:55 | 2023-06-07 | 2023-07-07 |
 | [Infraganti](https://open.spotify.com/track/25h54oPQAB19qacffSp5wG) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM) | [Infraganti](https://open.spotify.com/album/0r7CSTbtwcWDFXYYmOPzNo) | 2:44 | 2022-04-13 | 2022-05-17 |

@@ -1,6 +1,6 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49 #\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
-  "num_followers": 112156,
+  "num_followers": 112193,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-09-18 11:28:23",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1"
-      },
-      "artists": [
-        {
-          "name": "Whatcharawalee",
-          "url": "https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM"
-        }
-      ],
-      "duration_ms": 247360,
-      "name": "\u0e25\u0e39\u0e01\u0e2d\u0e21",
-      "url": "https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn"
-    },
-    {
-      "added_at": "2024-09-18 11:28:23",
-      "album": {
         "name": "Onlyfan",
         "url": "https://open.spotify.com/album/50SYtRSfmgAulnJCvzsYZi"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 128000,
       "name": "Onlyfan",
       "url": "https://open.spotify.com/track/79qhHPvit6BeOVu2wNnLgJ"
+    },
+    {
+      "added_at": "2024-09-18 11:28:23",
+      "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1"
+      },
+      "artists": [
+        {
+          "name": "Whatcharawalee",
+          "url": "https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM"
+        }
+      ],
+      "duration_ms": 247360,
+      "name": "\u0e25\u0e39\u0e01\u0e2d\u0e21",
+      "url": "https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn"
     },
     {
       "added_at": "2024-09-18 11:28:23",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-09-18 11:28:23",
       "album": {
+        "name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e40\u0e18\u0e2d (Dopamine)",
+        "url": "https://open.spotify.com/album/53s9ynIUb1BWYHBDZVlzKv"
+      },
+      "artists": [
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "duration_ms": 281933,
+      "name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e40\u0e18\u0e2d (Dopamine)",
+      "url": "https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO"
+    },
+    {
+      "added_at": "2024-09-18 11:28:23",
+      "album": {
         "name": "\u0e22\u0e2d\u0e21 (Surrender)",
         "url": "https://open.spotify.com/album/4RGH9K61U4bFJ6nbtWlgcq"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 195547,
       "name": "\u0e22\u0e2d\u0e21 (Surrender)",
       "url": "https://open.spotify.com/track/6UuJgXnKGdAWeRwD8asDI3"
-    },
-    {
-      "added_at": "2024-09-18 11:28:23",
-      "album": {
-        "name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e40\u0e18\u0e2d (Dopamine)",
-        "url": "https://open.spotify.com/album/53s9ynIUb1BWYHBDZVlzKv"
-      },
-      "artists": [
-        {
-          "name": "NONT TANONT",
-          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
-        }
-      ],
-      "duration_ms": 281933,
-      "name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e40\u0e18\u0e2d (Dopamine)",
-      "url": "https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO"
     },
     {
       "added_at": "2024-09-18 11:28:23",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-09-18 11:28:23",
       "album": {
-        "name": "\u0e0a\u0e2d\u0e1a\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e15\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
-        "url": "https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j"
-      },
-      "artists": [
-        {
-          "name": "Billkin",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
-        }
-      ],
-      "duration_ms": 222727,
-      "name": "\u0e0a\u0e2d\u0e1a\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e15\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
-      "url": "https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM"
-    },
-    {
-      "added_at": "2024-09-18 11:28:23",
-      "album": {
         "name": "\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u0e32\u0e2a\u0e35\u0e14\u0e32",
         "url": "https://open.spotify.com/album/1Sj8XTK9qjQzMS5deUO3LV"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 242727,
       "name": "\u0e1e\u0e34\u0e07 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u0e32\u0e2a\u0e35\u0e14\u0e32)",
       "url": "https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6"
+    },
+    {
+      "added_at": "2024-09-18 11:28:23",
+      "album": {
+        "name": "\u0e0a\u0e2d\u0e1a\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e15\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "duration_ms": 222727,
+      "name": "\u0e0a\u0e2d\u0e1a\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e15\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM"
     },
     {
       "added_at": "2024-09-18 11:28:23",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-09-18 11:28:23",
       "album": {
+        "name": "\u0e2d\u0e32\u0e2b\u0e21\u0e27\u0e22\u0e2b\u0e32\u0e22 (\u963f\u59b9\u8d70 / Chinese Girl)",
+        "url": "https://open.spotify.com/album/5HoeLBMTFqR6M7IJgCfvnC"
+      },
+      "artists": [
+        {
+          "name": "THE TOYS",
+          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "\u0e2d\u0e32\u0e2b\u0e21\u0e27\u0e22\u0e2b\u0e32\u0e22 (\u963f\u59b9\u8d70 / Chinese Girl)",
+      "url": "https://open.spotify.com/track/4rDCI4NQEBQrfTFN5epRYU"
+    },
+    {
+      "added_at": "2024-09-18 11:28:23",
+      "album": {
         "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 200000,
       "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5"
-    },
-    {
-      "added_at": "2024-09-18 11:28:23",
-      "album": {
-        "name": "\u0e2d\u0e32\u0e2b\u0e21\u0e27\u0e22\u0e2b\u0e32\u0e22 (\u963f\u59b9\u8d70 / Chinese Girl)",
-        "url": "https://open.spotify.com/album/5HoeLBMTFqR6M7IJgCfvnC"
-      },
-      "artists": [
-        {
-          "name": "THE TOYS",
-          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "\u0e2d\u0e32\u0e2b\u0e21\u0e27\u0e22\u0e2b\u0e32\u0e22 (\u963f\u59b9\u8d70 / Chinese Girl)",
-      "url": "https://open.spotify.com/track/4rDCI4NQEBQrfTFN5epRYU"
     },
     {
       "added_at": "2024-09-18 11:28:23",
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-09-18 11:28:23",
       "album": {
-        "name": "\u0e43\u0e08\u0e2a\u0e21\u0e43\u0e08",
-        "url": "https://open.spotify.com/album/2E3NsLtnddsqzTAXGy58BI"
+        "name": "\u0e40\u0e21\u0e30",
+        "url": "https://open.spotify.com/album/6ItJnQ1PwIOS9tqdaVc3Kw"
       },
       "artists": [
         {
-          "name": "TheChanisara",
-          "url": "https://open.spotify.com/artist/5h3gT12qsHsSQhWo2mRqox"
+          "name": "THE TOYS",
+          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
         }
       ],
-      "duration_ms": 196774,
-      "name": "\u0e43\u0e08\u0e2a\u0e21\u0e43\u0e08",
-      "url": "https://open.spotify.com/track/7CM0OhKIeDodf450PiVEhB"
+      "duration_ms": 186000,
+      "name": "\u0e40\u0e21\u0e30",
+      "url": "https://open.spotify.com/track/1M2XakpRDkxjiuCirVPD8c"
     },
     {
       "added_at": "2024-09-18 11:28:23",
@@ -587,6 +587,22 @@
       "duration_ms": 215238,
       "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love (\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \u0e04\u0e38\u0e13\u0e0a\u0e32\u0e22)",
       "url": "https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf"
+    },
+    {
+      "added_at": "2024-09-18 11:28:23",
+      "album": {
+        "name": "\u0e43\u0e08\u0e2a\u0e21\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/2E3NsLtnddsqzTAXGy58BI"
+      },
+      "artists": [
+        {
+          "name": "TheChanisara",
+          "url": "https://open.spotify.com/artist/5h3gT12qsHsSQhWo2mRqox"
+        }
+      ],
+      "duration_ms": 196774,
+      "name": "\u0e43\u0e08\u0e2a\u0e21\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/7CM0OhKIeDodf450PiVEhB"
     },
     {
       "added_at": "2024-09-18 11:28:23",
@@ -619,22 +635,6 @@
       "duration_ms": 289777,
       "name": "\u0e1a\u0e32\u0e19\u0e1b\u0e25\u0e32\u0e22 (best wishes)",
       "url": "https://open.spotify.com/track/3Js0tYhiLhVXHskoOF0jLh"
-    },
-    {
-      "added_at": "2024-09-18 11:28:23",
-      "album": {
-        "name": "\u0e40\u0e21\u0e30",
-        "url": "https://open.spotify.com/album/6ItJnQ1PwIOS9tqdaVc3Kw"
-      },
-      "artists": [
-        {
-          "name": "THE TOYS",
-          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "\u0e40\u0e21\u0e30",
-      "url": "https://open.spotify.com/track/1M2XakpRDkxjiuCirVPD8c"
     },
     {
       "added_at": "2024-09-18 11:28:23",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-09-18 11:28:23",
       "album": {
+        "name": "\u0e25\u0e31\u0e48\u0e19\u0e17\u0e21 - Single",
+        "url": "https://open.spotify.com/album/0Oe4z8uvnmJNTV8PhobcUs"
+      },
+      "artists": [
+        {
+          "name": "Cocktail",
+          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
+        }
+      ],
+      "duration_ms": 277674,
+      "name": "\u0e25\u0e31\u0e48\u0e19\u0e17\u0e21 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e2b\u0e2d\u0e21\u0e01\u0e25\u0e34\u0e48\u0e19\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01)",
+      "url": "https://open.spotify.com/track/2uZ6hKHh0UjZMz0YKzCLT1"
+    },
+    {
+      "added_at": "2024-09-18 11:28:23",
+      "album": {
         "name": "\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/3mIXXY1EvLeO0fwyockLb3"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 155862,
       "name": "\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/6LXKd4e0i2EPLh86GWvWOE"
-    },
-    {
-      "added_at": "2024-09-18 11:28:23",
-      "album": {
-        "name": "\u0e25\u0e31\u0e48\u0e19\u0e17\u0e21 - Single",
-        "url": "https://open.spotify.com/album/0Oe4z8uvnmJNTV8PhobcUs"
-      },
-      "artists": [
-        {
-          "name": "Cocktail",
-          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
-        }
-      ],
-      "duration_ms": 277674,
-      "name": "\u0e25\u0e31\u0e48\u0e19\u0e17\u0e21 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e2b\u0e2d\u0e21\u0e01\u0e25\u0e34\u0e48\u0e19\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01)",
-      "url": "https://open.spotify.com/track/2uZ6hKHh0UjZMz0YKzCLT1"
     },
     {
       "added_at": "2024-09-18 11:28:23",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-09-18 11:28:23",
       "album": {
-        "name": "\u0e2b\u0e21\u0e2d\u0e19\u0e2d\u0e34\u0e07 (Anything)",
-        "url": "https://open.spotify.com/album/6yh6HALGG7Mib5l0CKBQKL"
-      },
-      "artists": [
-        {
-          "name": "NuNew",
-          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
-        }
-      ],
-      "duration_ms": 218769,
-      "name": "\u0e2b\u0e21\u0e2d\u0e19\u0e2d\u0e34\u0e07 (Anything)",
-      "url": "https://open.spotify.com/track/6qViN8HVfSTzTxcC83ITQn"
-    },
-    {
-      "added_at": "2024-09-18 11:28:23",
-      "album": {
         "name": "\u0e2a\u0e34\u0e48\u0e07\u0e40\u0e25\u0e47\u0e01\u0e19\u0e49\u0e2d\u0e22 (LESS IS MORE)",
         "url": "https://open.spotify.com/album/3KBZ0ZGAQOH2dcz2MI51xk"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 207000,
       "name": "\u0e2a\u0e34\u0e48\u0e07\u0e40\u0e25\u0e47\u0e01\u0e19\u0e49\u0e2d\u0e22 (LESS IS MORE)",
       "url": "https://open.spotify.com/track/58ViLaYQWchYq9vMfW5Prk"
+    },
+    {
+      "added_at": "2024-09-18 11:28:23",
+      "album": {
+        "name": "\u0e2b\u0e21\u0e2d\u0e19\u0e2d\u0e34\u0e07 (Anything)",
+        "url": "https://open.spotify.com/album/6yh6HALGG7Mib5l0CKBQKL"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "duration_ms": 218769,
+      "name": "\u0e2b\u0e21\u0e2d\u0e19\u0e2d\u0e34\u0e07 (Anything)",
+      "url": "https://open.spotify.com/track/6qViN8HVfSTzTxcC83ITQn"
     },
     {
       "added_at": "2024-09-18 11:28:23",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-09-18 11:28:23",
       "album": {
-        "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
-        "url": "https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J"
-      },
-      "artists": [
-        {
-          "name": "THEMOONWILLALWAYSBEWITHME",
-          "url": "https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz"
-        }
-      ],
-      "duration_ms": 225714,
-      "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
-      "url": "https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK"
-    },
-    {
-      "added_at": "2024-09-18 11:28:23",
-      "album": {
         "name": "Honeymoon",
         "url": "https://open.spotify.com/album/4n7uzGGK7Hm79baUqwEGa9"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 168750,
       "name": "Honeymoon",
       "url": "https://open.spotify.com/track/57bdxWnWc3uhzHXQ8Qf5Lq"
+    },
+    {
+      "added_at": "2024-09-18 11:28:23",
+      "album": {
+        "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
+        "url": "https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J"
+      },
+      "artists": [
+        {
+          "name": "THEMOONWILLALWAYSBEWITHME",
+          "url": "https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz"
+        }
+      ],
+      "duration_ms": 225714,
+      "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
+      "url": "https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK"
     },
     {
       "added_at": "2024-09-18 11:28:23",
@@ -1263,26 +1263,6 @@
       "duration_ms": 204263,
       "name": "\u0e40\u0e2d\u0e32\u0e1b\u0e32\u0e01\u0e01\u0e32\u0e21\u0e32\u0e27\u0e07",
       "url": "https://open.spotify.com/track/4aDz9NTsLULSvewSLg8lih"
-    },
-    {
-      "added_at": "2024-09-18 11:28:23",
-      "album": {
-        "name": "YOU YOU YOU - Single",
-        "url": "https://open.spotify.com/album/3iz6z2BBom6ssqUtHYj1Bx"
-      },
-      "artists": [
-        {
-          "name": "Earth Patravee",
-          "url": "https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV"
-        },
-        {
-          "name": "Ammy The Bottom Blues",
-          "url": "https://open.spotify.com/artist/4mNN31oshOzZr3yx4aXI3n"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "YOU YOU YOU",
-      "url": "https://open.spotify.com/track/2rse2ZT8eV8MT3nuglWeEb"
     },
     {
       "added_at": "2024-09-18 11:28:23",
@@ -1343,6 +1323,26 @@
     {
       "added_at": "2024-09-18 11:28:23",
       "album": {
+        "name": "YOU YOU YOU - Single",
+        "url": "https://open.spotify.com/album/3iz6z2BBom6ssqUtHYj1Bx"
+      },
+      "artists": [
+        {
+          "name": "Earth Patravee",
+          "url": "https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV"
+        },
+        {
+          "name": "Ammy The Bottom Blues",
+          "url": "https://open.spotify.com/artist/4mNN31oshOzZr3yx4aXI3n"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "YOU YOU YOU",
+      "url": "https://open.spotify.com/track/2rse2ZT8eV8MT3nuglWeEb"
+    },
+    {
+      "added_at": "2024-09-18 11:28:23",
+      "album": {
         "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
         "url": "https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-09-18 11:28:23",
       "album": {
-        "name": "\u0e40\u0e01\u0e34\u0e19\u0e15\u0e49\u0e32\u0e19 (Too Cute)",
-        "url": "https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o"
-      },
-      "artists": [
-        {
-          "name": "PiXXiE",
-          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "\u0e40\u0e01\u0e34\u0e19\u0e15\u0e49\u0e32\u0e19 - Too Cute",
-      "url": "https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c"
-    },
-    {
-      "added_at": "2024-09-18 11:28:23",
-      "album": {
         "name": "\u0e23\u0e30\u0e2b\u0e27\u0e48\u0e32\u0e07\u0e17\u0e32\u0e07 (Good Time) - Single",
         "url": "https://open.spotify.com/album/19zRl5NJ2IH7wvNdRegoHY"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 244000,
       "name": "\u0e23\u0e30\u0e2b\u0e27\u0e48\u0e32\u0e07\u0e17\u0e32\u0e07 (Good Time) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c Good Old Days \u0e23\u0e49\u0e32\u0e19\u0e0b\u0e37\u0e49\u0e2d\u0e02\u0e32\u0e22\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33]",
       "url": "https://open.spotify.com/track/4FreerZPFJkNpQqhL2cSCA"
+    },
+    {
+      "added_at": "2024-09-18 11:28:23",
+      "album": {
+        "name": "\u0e40\u0e01\u0e34\u0e19\u0e15\u0e49\u0e32\u0e19 (Too Cute)",
+        "url": "https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "\u0e40\u0e01\u0e34\u0e19\u0e15\u0e49\u0e32\u0e19 - Too Cute",
+      "url": "https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c"
     },
     {
       "added_at": "2024-09-18 11:28:23",

@@ -1,6 +1,6 @@
 {
   "description": "Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA",
-  "num_followers": 582471,
+  "num_followers": 582492,
   "original_name": "Pulando da Cama",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-11-08 13:15:34",
       "album": {
-        "name": "Sunshine (From the Motion Picture \u201cRon\u2019s Gone Wrong\u201d)",
-        "url": "https://open.spotify.com/album/3EUNQSlJDx66zBXQFtRXjZ"
-      },
-      "artists": [
-        {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Sunshine - From the Motion Picture \u201cRon\u2019s Gone Wrong\u201d",
-      "url": "https://open.spotify.com/track/48oN0dm8zwleoUvuLBqIOp"
-    },
-    {
-      "added_at": "2024-11-08 13:15:34",
-      "album": {
         "name": "Old Town Road (feat. RM of BTS) [Seoul Town Road Remix]",
         "url": "https://open.spotify.com/album/7CQho9XJ69KLTUdM9vUZyW"
       },
@@ -967,18 +951,38 @@
     {
       "added_at": "2024-11-08 13:15:34",
       "album": {
-        "name": "I Feel Good",
-        "url": "https://open.spotify.com/album/4wKGNANAC9OHjccAiihjGO"
+        "name": "Unlearn (with Gracie Abrams)",
+        "url": "https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy"
       },
       "artists": [
         {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 136058,
-      "name": "I Feel Good",
-      "url": "https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F"
+      "duration_ms": 155361,
+      "name": "Unlearn (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD"
+    },
+    {
+      "added_at": "2024-11-08 13:15:34",
+      "album": {
+        "name": "Sunshine (From the Motion Picture \u201cRon\u2019s Gone Wrong\u201d)",
+        "url": "https://open.spotify.com/album/3EUNQSlJDx66zBXQFtRXjZ"
+      },
+      "artists": [
+        {
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Sunshine - From the Motion Picture \u201cRon\u2019s Gone Wrong\u201d",
+      "url": "https://open.spotify.com/track/48oN0dm8zwleoUvuLBqIOp"
     },
     {
       "added_at": "2024-11-08 13:15:34",
@@ -1003,22 +1007,18 @@
     {
       "added_at": "2024-11-08 13:15:34",
       "album": {
-        "name": "Unlearn (with Gracie Abrams)",
-        "url": "https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy"
+        "name": "I Feel Good",
+        "url": "https://open.spotify.com/album/4wKGNANAC9OHjccAiihjGO"
       },
       "artists": [
         {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
         }
       ],
-      "duration_ms": 155361,
-      "name": "Unlearn (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD"
+      "duration_ms": 136058,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F"
     },
     {
       "added_at": "2024-11-08 13:15:34",

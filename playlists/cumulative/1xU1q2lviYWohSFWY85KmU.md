@@ -4,7 +4,7 @@
 
 > KARENTレーベルで配信中の楽曲の中から元気が出るパワフル＆ポップなボカロ曲選曲。毎週更新。
 
-202 songs - 11 hr 59 min
+203 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [インプレゾンビ \(feat\. 重音テト\)](https://open.spotify.com/track/4MfhfneZLp7PbJpCROldu7) | [Adeliae](https://open.spotify.com/artist/1WMnnczuFZmRuvrprv9fjA), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [インプレゾンビ](https://open.spotify.com/album/6SQHDUM0trQb4TAL7rFnoV) | 2:36 | 2024-10-15 |  |
 | [ウラナク \(feat\. 京町セイカ\)](https://open.spotify.com/track/0S6vnaZIqxTyBna9LKC0Nh) | [たかぴぃ](https://open.spotify.com/artist/10JYeaYHS7K34njKOD8Baa), [京町セイカ](https://open.spotify.com/artist/5pd2aEFRdgHB0KXp337HGy) | [ウラナク](https://open.spotify.com/album/6bz8Vd9bmq7eB8U2jmJTEs) | 3:33 | 2024-05-28 | 2024-08-28 |
 | [エスパーエスパー \(feat\. 初音ミク\)](https://open.spotify.com/track/1bObfXWv3fLv3K2psR3zUD) | [ナユタン星人](https://open.spotify.com/artist/2svnjD7GnFxQt6GOoJrewU), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [エスパーエスパー](https://open.spotify.com/album/6vrcNlEUSfB9epOrPiNYlt) | 2:56 | 2024-03-26 | 2024-06-26 |
+| [オブソミート \(feat\. 初音ミク&重音テト\)](https://open.spotify.com/track/0EiO4pTxMxx8Qq2lUmBwij) | [32ki](https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [オブソミート](https://open.spotify.com/album/2xW4XYnWMYvnLi0nT7oSCs) | 3:49 | 2024-11-12 |  |
 | [カレイドトレイル \(feat\. 初音ミク\)](https://open.spotify.com/track/5IMHMkmKqQPHcaq7XeaTCE) | [Adeliae](https://open.spotify.com/artist/1WMnnczuFZmRuvrprv9fjA), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [カレイドトレイル](https://open.spotify.com/album/2GtMXve1cKmu9ZKL3MAcv0) | 3:01 | 2024-05-14 | 2024-08-14 |
 | [ガッチュー！ \(feat\. 初音ミク&鏡音リン&鏡音レン\)](https://open.spotify.com/track/1jvRRj23Uwk5hr0UcCVn5V) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP), [Kagamine Len](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [ガッチュー！](https://open.spotify.com/album/2MNgEC6n6jPbKxNeIghkrW) | 3:15 | 2023-12-19 | 2024-03-27 |
 | [キツツキ](https://open.spotify.com/track/0WlarnxyGnArz2YIDUvnhz) | [OtuQ](https://open.spotify.com/artist/4aR1U3I9Fa7m6XmkDBcT3s) | [キツツキ](https://open.spotify.com/album/0B5qTsAIzLQIBI2Fj4pJro) | 4:58 | 2024-03-26 | 2024-06-26 |

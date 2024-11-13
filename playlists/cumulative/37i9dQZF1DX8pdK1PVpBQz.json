@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. \nCover: Montgomery",
+  "description": "The best new music by independent artists and labels. \nCover: Kee'ahn, Anthony Liddell, Jake Amy",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -3024,6 +3024,24 @@
     {
       "album": {
         "name": "Another Life",
+        "url": "https://open.spotify.com/album/63PN5y7goPzxIreiQoEArc"
+      },
+      "artists": [
+        {
+          "name": "AKA Lui",
+          "url": "https://open.spotify.com/artist/4ZCvesZqn6v6oJRBtvR5xx"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190935,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/50rhuuvzmC7KXqehhxbNL2"
+    },
+    {
+      "album": {
+        "name": "Another Life",
         "url": "https://open.spotify.com/album/4Mux1p6mzEmo2xWIuvzgap"
       },
       "artists": [
@@ -5185,6 +5203,24 @@
     },
     {
       "album": {
+        "name": "Beast Of You",
+        "url": "https://open.spotify.com/album/2HEdIKK7hSCwn3lFWxZzAe"
+      },
+      "artists": [
+        {
+          "name": "Civic Video",
+          "url": "https://open.spotify.com/artist/4LqvJqOgRVKAnZVI77gxaY"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252958,
+      "name": "Beast Of You",
+      "url": "https://open.spotify.com/track/2uflCDlWs8f4BsdeZbW44K"
+    },
+    {
+      "album": {
         "name": "Beautifuh",
         "url": "https://open.spotify.com/album/1LntE5VBbj02QkaVMX4mSf"
       },
@@ -5684,6 +5720,24 @@
       "duration_ms": 185080,
       "name": "Better (feat. Rhys Rich)",
       "url": "https://open.spotify.com/track/6n9rfcFdwCNNLQZfn0EUDd"
+    },
+    {
+      "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC"
+      },
+      "artists": [
+        {
+          "name": "Len Blake",
+          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196235,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
     },
     {
       "album": {
@@ -8862,7 +8916,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 201290,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/1HaIquoEu5tA0oW7fpsT4k"
@@ -10276,7 +10330,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 156620,
       "name": "Champagne & Nikes",
       "url": "https://open.spotify.com/track/7eQ9YZqwYQ5peVXUuzSoKU"
@@ -10388,7 +10442,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 184546,
       "name": "Change",
       "url": "https://open.spotify.com/track/15Ow2PvOPr3Qf2yLgVSZBu"
@@ -12542,7 +12596,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 132000,
       "name": "Crash Test",
       "url": "https://open.spotify.com/track/5y9LQmDUbl0tiAzBunCg3U"
@@ -13292,7 +13346,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 146812,
       "name": "Cut Me Up",
       "url": "https://open.spotify.com/track/23PqmxsVXaPv3B92lu2UNj"
@@ -22080,7 +22134,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 180069,
       "name": "Full Sight",
       "url": "https://open.spotify.com/track/7KT3LIx1RWjPT0xjrx5DME"
@@ -24168,7 +24222,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 155531,
       "name": "Good Guys",
       "url": "https://open.spotify.com/track/3lMHrOUPxDqNJQXL5cNpHk"
@@ -27166,7 +27220,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 205274,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/7KuC4GpD1tiyaXQcTAk01z"
@@ -27762,6 +27816,24 @@
       "duration_ms": 108872,
       "name": "HOT COFFEE",
       "url": "https://open.spotify.com/track/5SzO1JqUUQ5gfIOGEdPyiP"
+    },
+    {
+      "album": {
+        "name": "Hotel Santa Cruz",
+        "url": "https://open.spotify.com/album/3q8BNZU23MZ36bMGbMmzEO"
+      },
+      "artists": [
+        {
+          "name": "Nadia Reid",
+          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206869,
+      "name": "Hotel Santa Cruz",
+      "url": "https://open.spotify.com/track/4tqA8kBbA7n4saOWUWJJTC"
     },
     {
       "album": {
@@ -28430,7 +28502,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 204301,
       "name": "I Don't Understand How Planes Work",
       "url": "https://open.spotify.com/track/12DXULWlJOyrf0zL9wCylR"
@@ -30525,6 +30597,24 @@
     },
     {
       "album": {
+        "name": "In It Alone",
+        "url": "https://open.spotify.com/album/4Pe6lH5rmgHBkz8WpfIXpr"
+      },
+      "artists": [
+        {
+          "name": "Darcie Haven",
+          "url": "https://open.spotify.com/artist/4z5Ea2f21AVA18kbjWp0Ni"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247399,
+      "name": "In It Alone",
+      "url": "https://open.spotify.com/track/5XaUYngcPuBCQqz6QBtaHU"
+    },
+    {
+      "album": {
         "name": "In Limbo",
         "url": "https://open.spotify.com/album/4Gfx69HAAqJBnh4XSrjpcn"
       },
@@ -32302,6 +32392,24 @@
       "duration_ms": 216118,
       "name": "Jungle City",
       "url": "https://open.spotify.com/track/1soAhifV2nFE6don2XMWbX"
+    },
+    {
+      "album": {
+        "name": "Jupiter",
+        "url": "https://open.spotify.com/album/56mB00bDznjhpfAt50GpwD"
+      },
+      "artists": [
+        {
+          "name": "Lemonade Baby",
+          "url": "https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178164,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/3UKwqIVcoow5Zn5ouCFNVe"
     },
     {
       "album": {
@@ -36307,6 +36415,32 @@
     },
     {
       "album": {
+        "name": "love you more",
+        "url": "https://open.spotify.com/album/6xd4NcJWAoxQnpWwjfeT1b"
+      },
+      "artists": [
+        {
+          "name": "Kee'ahn",
+          "url": "https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL"
+        },
+        {
+          "name": "Jake Amy",
+          "url": "https://open.spotify.com/artist/0l3S7lX3Tx1oHawkWZv4Gz"
+        },
+        {
+          "name": "Anthony Liddell",
+          "url": "https://open.spotify.com/artist/5EROmQprkIlm8uVLWjo3Ql"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139019,
+      "name": "love you more",
+      "url": "https://open.spotify.com/track/6lGyKdsX8VQpWIe6Bf3iaa"
+    },
+    {
+      "album": {
         "name": "Love You Now",
         "url": "https://open.spotify.com/album/7tRGttVNb8vl3cFubHWhmA"
       },
@@ -38286,7 +38420,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 300905,
       "name": "Midas",
       "url": "https://open.spotify.com/track/5zNHSTHM4r7Kic1ZuIM2iC"
@@ -42300,7 +42434,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 138810,
       "name": "not ur bitch",
       "url": "https://open.spotify.com/track/4iINdMihS8BH7OW2XDBx7J"
@@ -43144,6 +43278,24 @@
       "duration_ms": 226000,
       "name": "Oh, I give up!",
       "url": "https://open.spotify.com/track/58Tp00XcEBGo8M4NE7BgGG"
+    },
+    {
+      "album": {
+        "name": "Okay LA",
+        "url": "https://open.spotify.com/album/2ddGoNewmdhOIFO8E2RDHl"
+      },
+      "artists": [
+        {
+          "name": "Wild Honey",
+          "url": "https://open.spotify.com/artist/250GePfiS2NfpZNFWswJw9"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194534,
+      "name": "Okay LA",
+      "url": "https://open.spotify.com/track/0oKC2985SLYjcmQ3kEJYYD"
     },
     {
       "album": {
@@ -49897,6 +50049,24 @@
     },
     {
       "album": {
+        "name": "RNZ\u014c SZN",
+        "url": "https://open.spotify.com/album/588yZw8Jw8V6j50sXFXOpn"
+      },
+      "artists": [
+        {
+          "name": "RNZ\u014c",
+          "url": "https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166250,
+      "name": "RNZ\u014c SZN",
+      "url": "https://open.spotify.com/track/4Ztf04FJYPyvpEvnlFVMLd"
+    },
+    {
+      "album": {
         "name": "LALAKI",
         "url": "https://open.spotify.com/album/5RcKpN3DZ8thPODZcNJN9c"
       },
@@ -54986,7 +55156,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 223095,
       "name": "SOUTH",
       "url": "https://open.spotify.com/track/60yedf2fPqGUukQIsR5jYw"
@@ -57426,7 +57596,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 182763,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/10PIEBKkbBkK6A2w0W3bQ4"
@@ -59328,6 +59498,24 @@
       "duration_ms": 188695,
       "name": "The Hammock",
       "url": "https://open.spotify.com/track/1iRin5snEGdNEPoBFp98ep"
+    },
+    {
+      "album": {
+        "name": "The High",
+        "url": "https://open.spotify.com/album/0NGiSoVy69K6jLqidcgli5"
+      },
+      "artists": [
+        {
+          "name": "O & The Mo",
+          "url": "https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295125,
+      "name": "The High",
+      "url": "https://open.spotify.com/track/0ECkSquRuDEjn0fbmo7y5I"
     },
     {
       "album": {
@@ -65785,6 +65973,24 @@
     },
     {
       "album": {
+        "name": "What Do You Want Me To Be",
+        "url": "https://open.spotify.com/album/4tLhz3AEweejJo8C3MPVC0"
+      },
+      "artists": [
+        {
+          "name": "Bukowski",
+          "url": "https://open.spotify.com/artist/68HpOv7DefjopAabpaQZjR"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185206,
+      "name": "What Do You Want Me To Be",
+      "url": "https://open.spotify.com/track/4xlJuoRCEH8hSDaPa1eoxw"
+    },
+    {
+      "album": {
         "name": "What Goes Up",
         "url": "https://open.spotify.com/album/10fasakCr3IthnqzFqmVqo"
       },
@@ -66085,6 +66291,24 @@
     },
     {
       "album": {
+        "name": "Ego Ride (Route Extended)",
+        "url": "https://open.spotify.com/album/4uaFh3PlHIZWmnooYKvbyV"
+      },
+      "artists": [
+        {
+          "name": "Asha Jefferies",
+          "url": "https://open.spotify.com/artist/4XUmpHj581ooyS5rJuCBJg"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345339,
+      "name": "Whatever You Like",
+      "url": "https://open.spotify.com/track/63PMcLkb5D3YciqbHDYScI"
+    },
+    {
+      "album": {
         "name": "When I Come Home, I'll Find A Hill To Die On",
         "url": "https://open.spotify.com/album/4HpsxmodFESzknOqj2Xioy"
       },
@@ -66226,6 +66450,24 @@
       "duration_ms": 150500,
       "name": "Where the Food At?",
       "url": "https://open.spotify.com/track/2yNHhvQy10f5IXvCDERCAb"
+    },
+    {
+      "album": {
+        "name": "Where To Begin",
+        "url": "https://open.spotify.com/album/3EFQKkDG5YzXCUGn0U30Gc"
+      },
+      "artists": [
+        {
+          "name": "Juno Is",
+          "url": "https://open.spotify.com/artist/4RkwZew0JM7GAyRLfbob9f"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225293,
+      "name": "Where To Begin",
+      "url": "https://open.spotify.com/track/6hJUuWJ7Hfpl3nNVJxT64a"
     },
     {
       "album": {

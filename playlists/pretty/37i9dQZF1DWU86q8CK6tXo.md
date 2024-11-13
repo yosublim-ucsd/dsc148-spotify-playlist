@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Celebrating our EQUAL ambassador Poppy and the women she champions at the top of our list!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,772 likes - 44 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,775 likes - 44 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 8 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 |
 | 9 | [Me and My Husband](https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:17 |
 | 10 | [Wolf](https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:13 |
-| 11 | [noviogangsta <3](https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [noviogangsta <3](https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ) | 2:37 |
-| 12 | [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 |
+| 11 | [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 |
+| 12 | [noviogangsta <3](https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [noviogangsta <3](https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ) | 2:37 |
 | 13 | [Heart Of A Woman](https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Heart Of A Woman](https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh) | 2:51 |
 | 14 | [weren't for the wind](https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [weren't for the wind](https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN) | 3:13 |
 | 15 | [crystallized](https://open.spotify.com/track/4DKZKNkhtpoIWhuqFUILoQ) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [the cost of giving up](https://open.spotify.com/album/5ny4Uho4k56brX600DlYiF) | 3:06 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 26 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
 | 27 | [todo y nada](https://open.spotify.com/track/7Dj6drRthSTvR787ejc4eI) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [todo y nada](https://open.spotify.com/album/2LSNz2CcGALSM8JVv9cWNS) | 3:31 |
 | 28 | [Brand New \(feat\. James Vincent McMorrow and A\-Trak\)](https://open.spotify.com/track/0gCLVhDXFT8iPC63rABwr4) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Brand New \(feat\. James Vincent McMorrow and A\-Trak\)](https://open.spotify.com/album/4DNFg3mPxTEIlGHpPK06Bd) | 5:08 |
-| 29 | [On Me](https://open.spotify.com/track/3aqnDmCILtP5qBzvVIpeTV) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Purified Love](https://open.spotify.com/album/4rJJkV4bjZud54KVXSmU2y) | 2:48 |
-| 30 | [Otro Huevón](https://open.spotify.com/track/6uU0YGEprAses7XLreiuVu) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Otro Huevón](https://open.spotify.com/album/62sTsHxNgN9u1jgXMrdetU) | 3:26 |
+| 29 | [Otro Huevón](https://open.spotify.com/track/6uU0YGEprAses7XLreiuVu) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Otro Huevón](https://open.spotify.com/album/62sTsHxNgN9u1jgXMrdetU) | 3:26 |
+| 30 | [On Me](https://open.spotify.com/track/3aqnDmCILtP5qBzvVIpeTV) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Purified Love](https://open.spotify.com/album/4rJJkV4bjZud54KVXSmU2y) | 2:48 |
 | 31 | [Best of My 20's \(feat\. Trousdale\)](https://open.spotify.com/track/0PltwVYmskJyHAfehhhfHB) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq), [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Gettin' Away With It](https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ) | 2:56 |
 | 32 | [choirs](https://open.spotify.com/track/5RwHKaZRI1z78HEZSO6zZn) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [The Heavy\. The Healing\. The Holding.](https://open.spotify.com/album/7FTdPyA46usZd9MUzMWr8M) | 3:30 |
 | 33 | [Biking](https://open.spotify.com/track/2LAhOlxPHwpsxKi74FXi7O) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Biking](https://open.spotify.com/album/2NsIuJ6GalDZSyaRntN0ad) | 2:50 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 39 | [afrovay](https://open.spotify.com/track/0u8ONlIp5Ww8GpjsAFLQ7I) | [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H) | [VAYTRIX](https://open.spotify.com/album/2eJUaD1yTAjsLn9Sg1eED2) | 1:58 |
 | 40 | [The Gardener](https://open.spotify.com/track/3dZILL9CJXjOdIs2Bhy3oK) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [The Gardener](https://open.spotify.com/album/1H4kzo0ZeHaH9lVuUkfvbs) | 4:06 |
 | 41 | [LYIN](https://open.spotify.com/track/0dk6WJgNjA2hJF1fGUAd55) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx) | [LYIN](https://open.spotify.com/album/2jnO0El2RTwXuLZi39FVok) | 4:19 |
-| 42 | [HIGH2GETBY](https://open.spotify.com/track/3lB5cmc6YVzvIXLNBqB9lF) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [MERCZONE](https://open.spotify.com/album/6sFpyOCWE24HfKyYF9ttQA) | 3:05 |
-| 43 | [Best I Can](https://open.spotify.com/track/2Houj3ox1DpDuOKt9S05iV) | [Mia Moretti](https://open.spotify.com/artist/508HEnl2cDRksyq8hyQtRh), [Vonita White](https://open.spotify.com/artist/3nKkQpifHHlY1kdsdK5rlp) | [Best I Can](https://open.spotify.com/album/3mfyhjLxQG8uWLom3HG3b6) | 3:03 |
+| 42 | [Best I Can](https://open.spotify.com/track/2Houj3ox1DpDuOKt9S05iV) | [Mia Moretti](https://open.spotify.com/artist/508HEnl2cDRksyq8hyQtRh), [Vonita White](https://open.spotify.com/artist/3nKkQpifHHlY1kdsdK5rlp) | [Best I Can](https://open.spotify.com/album/3mfyhjLxQG8uWLom3HG3b6) | 3:03 |
+| 43 | [HIGH2GETBY](https://open.spotify.com/track/3lB5cmc6YVzvIXLNBqB9lF) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [MERCZONE](https://open.spotify.com/album/6sFpyOCWE24HfKyYF9ttQA) | 3:05 |
 | 44 | [Faded and Golden](https://open.spotify.com/track/5qQXvUly1CMnqUR2NHIlcj) | [Caroline Says](https://open.spotify.com/artist/10U1DbsjhgAqUMcouK267Q) | [The Lucky One](https://open.spotify.com/album/6Vt48PwJ6AbnKpR9pS93y9) | 3:13 |
 
 Snapshot ID: `ZyRSQAAAAACBsTAYH14/HlH+Qpex7gp8`

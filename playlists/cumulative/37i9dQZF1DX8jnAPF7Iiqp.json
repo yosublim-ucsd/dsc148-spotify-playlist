@@ -4104,7 +4104,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 171428,
       "name": "No Warning (feat. Nathan Smoker)",
       "url": "https://open.spotify.com/track/5pDC2piYrsuSIeEqiciB7B"
@@ -4412,6 +4412,24 @@
       "duration_ms": 200086,
       "name": "Perfect (Exceeder) - 1991 Remix",
       "url": "https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM"
+    },
+    {
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/0pSnRC8TDE1j7B04j7QIq3"
+      },
+      "artists": [
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/5o4ekLO60BhAf4s9LhefCL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,051 songs - 2 day 4 hr 22 min
+1,052 songs - 2 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [ANTRIKOT](https://open.spotify.com/track/34WZIBQM7PusIDr5LtVpav) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [ANTRIKOT](https://open.spotify.com/album/3RHfrDPc3SMfhvRkgWNlWs) | 2:41 | 2022-01-15 | 2022-04-30 |
 | [Anıları Sakla](https://open.spotify.com/track/4MKL1sm8VqknemVs2yjs4M) | [Batuhan Kordel](https://open.spotify.com/artist/53GzfAvawfKb966INeFp18) | [Yolculuk](https://open.spotify.com/album/0ffhrMPhoprewPQPc5so04) | 3:36 | 2021-05-31 | 2021-12-25 |
 | [Anıları Yak](https://open.spotify.com/track/46f5m73YzI227nseI9LquF) | [Burcu Güneş](https://open.spotify.com/artist/7EJB9F3fv0x2ezht730D7F) | [Benim Yolum](https://open.spotify.com/album/7cK0LbOV9n70yhNyrwDKFs) | 2:42 | 2023-07-29 | 2024-03-03 |
-| [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-20 |  |
+| [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-20 | 2024-11-13 |
 | [Ara](https://open.spotify.com/track/18Ies0Fsw2IwDuLoOhDlyy) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Ara](https://open.spotify.com/album/0C3BRPMqyxppx6kJbOImCq) | 3:00 | 2022-08-27 | 2023-02-08 |
 | [Ara](https://open.spotify.com/track/1iEMuRRbD04w92WzHYkJrF) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Ara](https://open.spotify.com/album/6gkihcoEoX8nPLbTnzPygL) | 3:00 | 2022-07-30 | 2022-08-28 |
 | [ARABA](https://open.spotify.com/track/5tjWDHOCqsbKPuiivil0BM) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [ARABA](https://open.spotify.com/album/6qk5ajwfXB8QplASyF7lXH) | 2:13 | 2024-01-13 | 2024-08-03 |
@@ -301,7 +301,7 @@
 | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Dreamers \[Music from the FIFA World Cup Qatar 2022 Official Soundtrack\]](https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE) | 3:21 | 2022-11-21 | 2022-11-23 |
 | [Dua](https://open.spotify.com/track/3HEfzQob3O16TIDMPC8PTx) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Dua](https://open.spotify.com/album/6fHpLB45cLhowUDf1nHWkY) | 2:58 | 2021-03-27\* | 2022-05-15 |
 | [Dumanı Pasla](https://open.spotify.com/track/3kMcV1es4HbWcWBhcteJ8Z) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Dumanı Pasla](https://open.spotify.com/album/2ECbsBHlISVQnCcl5o2qqj) | 2:12 | 2021-03-27\* | 2021-08-15 |
-| [Durma Yürüsene](https://open.spotify.com/track/2up5kUpA2yQb5DtXE8B2WJ) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [AKKOR](https://open.spotify.com/album/7cJXufqiT9XL1V80r77P4G) | 3:41 | 2024-11-09 |  |
+| [Durma Yürüsene](https://open.spotify.com/track/2up5kUpA2yQb5DtXE8B2WJ) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [AKKOR](https://open.spotify.com/album/7cJXufqiT9XL1V80r77P4G) | 3:41 | 2024-11-09 | 2024-11-13 |
 | [Durma Yürüsene](https://open.spotify.com/track/7DVu7wGni4DHx9P8L1zbIO) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Durma Yürüsene](https://open.spotify.com/album/08x2uyRPSt4x3UYwKUuKJc) | 3:41 | 2024-06-01 | 2024-11-09 |
 | [Durmaz Akar](https://open.spotify.com/track/1USNiWOUKXZFcG5acRYEp5) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Durmaz Akar](https://open.spotify.com/album/6T3pdxARkf8mKGzzbTz238) | 3:30 | 2023-03-17 | 2023-04-03 |
 | [Duydun Mu?](https://open.spotify.com/track/4v8LZr4pYJFo3lnB5BJBAc) | [Yusuf Güney](https://open.spotify.com/artist/7ictQXHIBmXODb4ykTI95n) | [Duydun Mu?](https://open.spotify.com/album/1IX9ThOBRxgRFGYeh2AbuJ) | 3:41 | 2024-10-18 | 2024-11-12 |
@@ -476,6 +476,7 @@
 | [Herkes Gibisin](https://open.spotify.com/track/7jnN5sT8rk6PIvBZRWYdJj) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Herkes Gibisin](https://open.spotify.com/album/0xR4GPMWizCtxkTjouDqra) | 3:05 | 2022-05-15 | 2023-06-16 |
 | [HESAP](https://open.spotify.com/track/4bG57u7XhAA9ilg6FONPOP) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:38 | 2022-09-10 | 2022-09-15 |
 | [Heyecanlanman Normal](https://open.spotify.com/track/0RQFjwIdFaI7DghfjonJUL) | [Ben Fero](https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0), [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [Heyecanlanman Normal](https://open.spotify.com/album/2PfvoBY67oVsXhFdKhFQsg) | 2:29 | 2022-10-22 | 2022-10-28 |
+| [Hikaye Bitti Çoktan](https://open.spotify.com/track/2mgN0kh91PY3hlY88s3Zz5) | [Kayra](https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3) | [Ömrümün Son Güzel Günleri](https://open.spotify.com/album/36wDwn7fld4l2Qw77qXnvX) | 2:17 | 2024-11-12 |  |
 | [HIRSIZ](https://open.spotify.com/track/316CjbmqFYbhljXXI3PEPa) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [HIRSIZ](https://open.spotify.com/album/4Q2QAaVtT3y6xJ1CnXjX1H) | 3:05 | 2022-05-28 | 2022-05-30 |
 | [Hiç İyi Değilim](https://open.spotify.com/track/2w5SV2BYwU4FVKBkFYlCU2) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Hiç İyi Değilim](https://open.spotify.com/album/44zFal7caQMugsHyXdUude) | 3:32 | 2022-03-12 | 2022-05-22 |
 | [Hiç Kimsenin Günahı Yok](https://open.spotify.com/track/3YBIUbbamN9fz65tXN9V1C) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P), [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Hiç Kimsenin Günahı Yok](https://open.spotify.com/album/5oK4v69ORQO2XJGgW8YKcG) | 3:07 | 2021-11-26 | 2021-11-28 |
@@ -987,7 +988,7 @@
 | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/track/2Id54XtcFLHSe0JNfHR45k) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/album/2ZFXkkMjgyGVVWC7UaBZpk) | 2:21 | 2023-04-29 | 2024-01-09 |
 | [Yara](https://open.spotify.com/track/1IquNFg2RRH1CLRAHNVgQ9) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [Sonsuza Kadar](https://open.spotify.com/album/3ETbFTNmbuKtqoRtnmjTI0) | 3:33 | 2022-03-21 | 2024-05-19 |
 | [Yaralarını Ben Sarayım](https://open.spotify.com/track/2pTwhAbZHkM1CyDYe1k8hl) | [Berk Baysal](https://open.spotify.com/artist/54R13HT0PZ7sa6xMm9YpDS) | [Olmuyor Böyle](https://open.spotify.com/album/0UKC1bSDFuCunQZudf6jnt) | 3:58 | 2022-03-08 | 2022-06-05 |
-| [Yarasalar](https://open.spotify.com/track/7rB7UrKvW1yfFEiRrZsrXt) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 4:17 | 2024-10-12 | 2024-11-11 |
+| [Yarasalar](https://open.spotify.com/track/7rB7UrKvW1yfFEiRrZsrXt) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 4:17 | 2024-10-12 |  |
 | [Yarım](https://open.spotify.com/track/57rovEuHglDmpx84Oir2Nu) | [Didomido](https://open.spotify.com/artist/4n07t89zwwIvAfHvgvdCWf) | [Yarım](https://open.spotify.com/album/1qfUQl8m2UfTawiCrwHgsd) | 2:14 | 2021-05-23 | 2021-06-24 |
 | [Yarım Kalan Sigara](https://open.spotify.com/track/0HbKbkAMK7Wnps5vpZW4j2) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y), [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Kron1k](https://open.spotify.com/album/5f1l54Z4YUjdxhR7DqDZIS) | 3:03 | 2022-01-17 | 2022-12-28 |
 | [yarım kalır](https://open.spotify.com/track/3prFQhGuWBWLGHsQstEdkb) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Revart](https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9) | [yarım kalır](https://open.spotify.com/album/4OIaZMEuRYxipHPOZiLOMe) | 2:28 | 2022-04-09 | 2022-09-06 |

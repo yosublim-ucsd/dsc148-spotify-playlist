@@ -6,7 +6,7 @@
     "name": "charlie*",
     "url": "https://open.spotify.com/user/blank808"
   },
-  "snapshot_id": "AAAFQFPlUNn5LzJq/ntC+kMIAI2+dOZ4",
+  "snapshot_id": "AAAFQXt2cjo9Ysn3CCZx7m3kCdX9hKIr",
   "tracks": [
     {
       "added_at": "2024-09-16 13:04:52",
@@ -23307,6 +23307,86 @@
       "duration_ms": 177922,
       "name": "Godspeed",
       "url": "https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x"
+    },
+    {
+      "added_at": "2024-11-12 08:52:23",
+      "album": {
+        "name": "Eternal Atake 2",
+        "url": "https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 170674,
+      "name": "PerkySex",
+      "url": "https://open.spotify.com/track/279qpKlNEFXT7XF0MMUT92"
+    },
+    {
+      "added_at": "2024-11-12 08:52:23",
+      "album": {
+        "name": "Eternal Atake 2",
+        "url": "https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "Goddard Song",
+      "url": "https://open.spotify.com/track/7gj6KJknnzPHcfjFccBSsy"
+    },
+    {
+      "added_at": "2024-11-12 08:52:23",
+      "album": {
+        "name": "Eternal Atake 2",
+        "url": "https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 164594,
+      "name": "Lyft Em Up",
+      "url": "https://open.spotify.com/track/6f1DJYPjsyIwMD4g1h3fIK"
+    },
+    {
+      "added_at": "2024-11-12 08:52:23",
+      "album": {
+        "name": "I'LL LIKE YOU",
+        "url": "https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 127684,
+      "name": "I'll Like You",
+      "url": "https://open.spotify.com/track/2v7aUMUc1kerJyaRmIx9zd"
+    },
+    {
+      "added_at": "2024-11-12 08:52:23",
+      "album": {
+        "name": "Sexy to Someone",
+        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 207795,
+      "name": "Sexy to Someone",
+      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
     }
   ],
   "unique_name": "on repeat + repeat rewind",

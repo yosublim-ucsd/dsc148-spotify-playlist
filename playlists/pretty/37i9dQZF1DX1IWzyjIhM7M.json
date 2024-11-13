@@ -1,6 +1,6 @@
 {
   "description": "Our editors' picks of best tracks of 2023 by independent, developing artists from around the world. Cover: Searows\n",
-  "num_followers": 7694,
+  "num_followers": 7713,
   "original_name": "Fresh Finds: Class of 2023",
   "owner": {
     "name": "Spotify",
@@ -483,18 +483,18 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Art House",
-        "url": "https://open.spotify.com/album/6xFQACinH8dNlzhKaRCfua"
+        "name": "Anyway",
+        "url": "https://open.spotify.com/album/5BDJXhWGt1RwSY7MOEAshC"
       },
       "artists": [
         {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
         }
       ],
-      "duration_ms": 177142,
-      "name": "Art House",
-      "url": "https://open.spotify.com/track/1Qq0KLUDks1te934eJpbeV"
+      "duration_ms": 223231,
+      "name": "Anyway",
+      "url": "https://open.spotify.com/track/6CkE4wWUVQ5Hdnbfm2pOmF"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -515,18 +515,18 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Anyway",
-        "url": "https://open.spotify.com/album/5BDJXhWGt1RwSY7MOEAshC"
+        "name": "Art House",
+        "url": "https://open.spotify.com/album/6xFQACinH8dNlzhKaRCfua"
       },
       "artists": [
         {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
         }
       ],
-      "duration_ms": 223231,
-      "name": "Anyway",
-      "url": "https://open.spotify.com/track/6CkE4wWUVQ5Hdnbfm2pOmF"
+      "duration_ms": 177142,
+      "name": "Art House",
+      "url": "https://open.spotify.com/track/1Qq0KLUDks1te934eJpbeV"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "The CARR Show",
-        "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
-      },
-      "artists": [
-        {
-          "name": "CARR",
-          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
-        }
-      ],
-      "duration_ms": 149106,
-      "name": "Spiral City",
-      "url": "https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Glowin 4 Me",
         "url": "https://open.spotify.com/album/6aziyhUkY3zHrW8ZVL9uds"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 145609,
       "name": "Glowin 4 Me",
       "url": "https://open.spotify.com/track/5jI8xKMCIEToPXuXdFCoFJ"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "The CARR Show",
+        "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
+      },
+      "artists": [
+        {
+          "name": "CARR",
+          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+        }
+      ],
+      "duration_ms": 149106,
+      "name": "Spiral City",
+      "url": "https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Spiritual Cramp",
-        "url": "https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN"
-      },
-      "artists": [
-        {
-          "name": "Spiritual Cramp",
-          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
-        }
-      ],
-      "duration_ms": 155280,
-      "name": "Talkin' On The Internet",
-      "url": "https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "As Days Go By",
         "url": "https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 222654,
       "name": "As Days Go By",
       "url": "https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Spiritual Cramp",
+        "url": "https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Cramp",
+          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
+        }
+      ],
+      "duration_ms": 155280,
+      "name": "Talkin' On The Internet",
+      "url": "https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Familiar",
-        "url": "https://open.spotify.com/album/2KkYkgjuWAVaUTLB0RFeGP"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 190474,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/0QWbZNc1mW8k9Alpl6AnSL"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Falling Behind",
         "url": "https://open.spotify.com/album/7EKPZpguEOpNXn7R75Zumw"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "from here on out",
-        "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
+        "name": "Familiar",
+        "url": "https://open.spotify.com/album/2KkYkgjuWAVaUTLB0RFeGP"
       },
       "artists": [
         {
-          "name": "lighthearted",
-          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
         }
       ],
-      "duration_ms": 271421,
-      "name": "from here on out",
-      "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
+      "duration_ms": 190474,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/0QWbZNc1mW8k9Alpl6AnSL"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1067,6 +1051,42 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
+        "name": "from here on out",
+        "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
+      },
+      "artists": [
+        {
+          "name": "lighthearted",
+          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
+        }
+      ],
+      "duration_ms": 271421,
+      "name": "from here on out",
+      "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "While You Were Sleeping",
+        "url": "https://open.spotify.com/album/6tmcv5Ex2UwhFvNXScwD44"
+      },
+      "artists": [
+        {
+          "name": "Annahstasia",
+          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+        },
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 214432,
+      "name": "While You Were Sleeping",
+      "url": "https://open.spotify.com/track/7kWOuJFd1UenmFrr9z64H9"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
         "name": "hewantscoffeebutiamtea",
         "url": "https://open.spotify.com/album/1ZJiogegMu9wEbMxI7uy7U"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 257726,
       "name": "Tell Me Something",
       "url": "https://open.spotify.com/track/7qghdTl0t1CSalzT6s9w85"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
-        "name": "While You Were Sleeping",
-        "url": "https://open.spotify.com/album/6tmcv5Ex2UwhFvNXScwD44"
-      },
-      "artists": [
-        {
-          "name": "Annahstasia",
-          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
-        },
-        {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        }
-      ],
-      "duration_ms": 214432,
-      "name": "While You Were Sleeping",
-      "url": "https://open.spotify.com/track/7kWOuJFd1UenmFrr9z64H9"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
+        "name": "setar rock",
+        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 240250,
+      "name": "setar rock",
+      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
         "name": "A la Carta",
         "url": "https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 173400,
       "name": "A la Carta",
       "url": "https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
-        "name": "setar rock",
-        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 240250,
-      "name": "setar rock",
-      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Old Dirt Roads",
-        "url": "https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 227891,
-      "name": "Old Dirt Roads",
-      "url": "https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Cheapshot",
         "url": "https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH"
       },
@@ -1267,22 +1251,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Gulabi",
-        "url": "https://open.spotify.com/album/64dobvOmbgwnGqsMidDYJ4"
-      },
-      "artists": [
-        {
-          "name": "Aanchal Tyagi",
-          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
-        }
-      ],
-      "duration_ms": 165436,
-      "name": "Gulabi",
-      "url": "https://open.spotify.com/track/4NrYY6WUYdfSC8fZ2WVwAx"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Crashland",
         "url": "https://open.spotify.com/album/2wiLzTUXLPIARvXoBycaJT"
       },
@@ -1295,6 +1263,38 @@
       "duration_ms": 162066,
       "name": "Crashland",
       "url": "https://open.spotify.com/track/2niHo9G2lJz09Rt5tAFwTp"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Old Dirt Roads",
+        "url": "https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 227891,
+      "name": "Old Dirt Roads",
+      "url": "https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Gulabi",
+        "url": "https://open.spotify.com/album/64dobvOmbgwnGqsMidDYJ4"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        }
+      ],
+      "duration_ms": 165436,
+      "name": "Gulabi",
+      "url": "https://open.spotify.com/track/4NrYY6WUYdfSC8fZ2WVwAx"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
+        "name": "tainted in our memories",
+        "url": "https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T"
+      },
+      "artists": [
+        {
+          "name": "Babebee",
+          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
+        }
+      ],
+      "duration_ms": 106097,
+      "name": "sunset blvd",
+      "url": "https://open.spotify.com/track/2XQFj0w1UIJpsUs0OO4013"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
         "name": "I Keep My Feet on the Fragile Plane",
         "url": "https://open.spotify.com/album/6Dr79gzcCMcPDaaftGSzcf"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 179358,
       "name": "taste of u",
       "url": "https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
-        "name": "tainted in our memories",
-        "url": "https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T"
-      },
-      "artists": [
-        {
-          "name": "Babebee",
-          "url": "https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h"
-        }
-      ],
-      "duration_ms": 106097,
-      "name": "sunset blvd",
-      "url": "https://open.spotify.com/track/2XQFj0w1UIJpsUs0OO4013"
     },
     {
       "added_at": "2024-01-10 16:06:35",

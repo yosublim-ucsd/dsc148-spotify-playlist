@@ -2183,6 +2183,24 @@
     },
     {
       "album": {
+        "name": "Jako\u015b mi l\u017cej",
+        "url": "https://open.spotify.com/album/7lJOIwXfKVPCQn5JrUwHn6"
+      },
+      "artists": [
+        {
+          "name": "21 Gram",
+          "url": "https://open.spotify.com/artist/0VqM8MxxQGmbygXhyHe7gr"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268894,
+      "name": "Jako\u015b mi l\u017cej",
+      "url": "https://open.spotify.com/track/5kGW4yoERQm8dYHyDaRROJ"
+    },
+    {
+      "album": {
         "name": "Jesie\u0144",
         "url": "https://open.spotify.com/album/71nJMUjjpnvruQr6MbMOfc"
       },
@@ -3018,7 +3036,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 185786,
       "name": "list do niej",
       "url": "https://open.spotify.com/track/3AFWlh9Q4qTdqRR0ASqoKL"

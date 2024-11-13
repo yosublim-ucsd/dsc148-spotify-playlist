@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-214 songs - 9 hr 36 min
+215 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Moon Glow](https://open.spotify.com/track/2lGO4YrvkZQqSHIwMZQm6c) | [Brackwhit](https://open.spotify.com/artist/7DR5iew6NBX4QmYl4ULooZ) | [Moon Glow](https://open.spotify.com/album/2XqesbTK95SoVv7T7f5xnj) | 2:29 | 2022-08-03 |  |
 | [Mundo Flotante](https://open.spotify.com/track/0SCWfuvd3vqNmUM3rJvGoK) | [Sergio Díaz De Rojas](https://open.spotify.com/artist/0dhkL5V7ldKvybgSy3ps27) | [Mundo Flotante](https://open.spotify.com/album/0hdsXfp4q6bVkqu7mnzYLH) | 2:24 | 2022-08-03 | 2024-10-01 |
 | [My Beloved Twin Flame...](https://open.spotify.com/track/0h7S5ygplBgAWP990wIRs6) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 2:47 | 2022-08-03 |  |
+| [No borders](https://open.spotify.com/track/6O9LAJMUgbtw2z8AdAiTin) | [Delaney & Delaney](https://open.spotify.com/artist/6ypSxIupxGZQdQdv0ESPwW) | [No borders](https://open.spotify.com/album/2vjcO7FPmXU1NQeVltwZKi) | 2:36 | 2024-11-12 |  |
 | [No More Goodbyes](https://open.spotify.com/track/6HCRtBZl2Ez50aHXh2JRds) | [Wyatt Elil](https://open.spotify.com/artist/2krX8gm9Nw3Bdp7vniNwum) | [Through Valleys](https://open.spotify.com/album/6j2Q4yWL0niKxmWAplQolc) | 2:23 | 2022-12-21 |  |
 | [nocturnal summer](https://open.spotify.com/track/5fGKMCSBHAhRW9923UBO3c) | [forever day](https://open.spotify.com/artist/2xZ6v1AA2KEKLIYafq7a0a) | [nocturnal summer & road to isabelle](https://open.spotify.com/album/23aavgdGxGJIduhBWoOfSu) | 2:37 | 2024-07-16 |  |
 | [Nocturne](https://open.spotify.com/track/14sKAbkXofaqoVmEP52Ire) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq) | [Nocturne](https://open.spotify.com/album/2cW49A7JOvYRYQj5gNCBKi) | 2:32 | 2022-08-03 | 2024-07-30 |

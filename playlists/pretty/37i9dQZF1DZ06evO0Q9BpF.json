@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 43428,
+  "num_followers": 43441,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy/3gAAAAADo1FIATh/WQdqc065tqqAK",
+  "snapshot_id": "ZzFJAAAAAAAE/lKxU7D4WlxW5i09tcWU",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unidos Somos M\u00e1s Fuertes",
+        "url": "https://open.spotify.com/album/5CaiOljtlmZvIOcKyyFIZ8"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 256305,
+      "name": "Unidos Somos M\u00e1s Fuertes",
+      "url": "https://open.spotify.com/track/50OAZ16SOAKSfp8ksaDOZF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Remix 1.2",
         "url": "https://open.spotify.com/album/5wWH3xxakgFaCjK3oa8dr3"
       },
@@ -399,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unidos Somos M\u00e1s Fuertes",
-        "url": "https://open.spotify.com/album/5CaiOljtlmZvIOcKyyFIZ8"
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m"
       },
       "artists": [
         {
@@ -408,13 +428,17 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         },
         {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+          "name": "Lau Guerra",
+          "url": "https://open.spotify.com/artist/0mItElK8LuABlkUWi7gjn5"
+        },
+        {
+          "name": "Lorena Castellanos",
+          "url": "https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ"
         }
       ],
-      "duration_ms": 256305,
-      "name": "Unidos Somos M\u00e1s Fuertes",
-      "url": "https://open.spotify.com/track/50OAZ16SOAKSfp8ksaDOZF"
+      "duration_ms": 446306,
+      "name": "Con Brazos Abiertos",
+      "url": "https://open.spotify.com/track/7ezrc86k2pnpDkAmvW7Trc"
     },
     {
       "added_at": null,
@@ -451,30 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Lau Guerra",
-          "url": "https://open.spotify.com/artist/0mItElK8LuABlkUWi7gjn5"
-        },
-        {
-          "name": "Lorena Castellanos",
-          "url": "https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ"
-        }
-      ],
-      "duration_ms": 446306,
-      "name": "Con Brazos Abiertos",
-      "url": "https://open.spotify.com/track/7ezrc86k2pnpDkAmvW7Trc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
         "url": "https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM"
       },
@@ -507,6 +507,26 @@
       "duration_ms": 356204,
       "name": "Ah\u00ed Est\u00e1s T\u00fa",
       "url": "https://open.spotify.com/track/2dlk0PXifJPRYAEpEyV8FT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Lorena Castellanos",
+          "url": "https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ"
+        }
+      ],
+      "duration_ms": 214480,
+      "name": "Lo Perd\u00ed Todo",
+      "url": "https://open.spotify.com/track/4OXbMqnvvDGC7skHJUgONt"
     },
     {
       "added_at": null,
@@ -551,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Lorena Castellanos",
-          "url": "https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ"
-        }
-      ],
-      "duration_ms": 214480,
-      "name": "Lo Perd\u00ed Todo",
-      "url": "https://open.spotify.com/track/4OXbMqnvvDGC7skHJUgONt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Esto Es un Avivamiento",
         "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
       },
@@ -583,6 +583,34 @@
       "duration_ms": 454013,
       "name": "Abres Camino",
       "url": "https://open.spotify.com/track/4uIVZAISkG5Kg2QYBCcYHw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si T\u00fa Est\u00e1s Conmigo",
+        "url": "https://open.spotify.com/album/3GG0BnFJLkg1GOQQzCOxK1"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        },
+        {
+          "name": "Stefy Espinosa",
+          "url": "https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8"
+        },
+        {
+          "name": "Pedro Pablo Quintero",
+          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
+        }
+      ],
+      "duration_ms": 245760,
+      "name": "Si T\u00fa Est\u00e1s Conmigo",
+      "url": "https://open.spotify.com/track/6k1NGpGexYFNYtHvpVWs3t"
     },
     {
       "added_at": null,
@@ -631,34 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si T\u00fa Est\u00e1s Conmigo",
-        "url": "https://open.spotify.com/album/3GG0BnFJLkg1GOQQzCOxK1"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Lead",
-          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
-        },
-        {
-          "name": "Stefy Espinosa",
-          "url": "https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8"
-        },
-        {
-          "name": "Pedro Pablo Quintero",
-          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
-        }
-      ],
-      "duration_ms": 245760,
-      "name": "Si T\u00fa Est\u00e1s Conmigo",
-      "url": "https://open.spotify.com/track/6k1NGpGexYFNYtHvpVWs3t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Amor No Tiene Fin",
         "url": "https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz"
       },
@@ -675,6 +675,30 @@
       "duration_ms": 616226,
       "name": "\u00c9l Me Am\u00f3 Primero",
       "url": "https://open.spotify.com/track/6cn1iz7f2V7MSds6OkjwOF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Edward Rivera",
+          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "duration_ms": 505066,
+      "name": "Venga Tu Reino",
+      "url": "https://open.spotify.com/track/5xnAIoSXn2pyECcEcxc5rz"
     },
     {
       "added_at": null,
@@ -719,30 +743,6 @@
       "duration_ms": 359837,
       "name": "Cristo Te Amo",
       "url": "https://open.spotify.com/track/6odYcGVZArmAQpd994oS2U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Edward Rivera",
-          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        }
-      ],
-      "duration_ms": 505066,
-      "name": "Venga Tu Reino",
-      "url": "https://open.spotify.com/track/5xnAIoSXn2pyECcEcxc5rz"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
-        "url": "https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 208770,
-      "name": "Mientras Viva",
-      "url": "https://open.spotify.com/track/503ZWabGr3NrnDk8WYIma0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Esto Es un Avivamiento",
         "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
       },
@@ -839,6 +823,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
+        "url": "https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 208770,
+      "name": "Mientras Viva",
+      "url": "https://open.spotify.com/track/503ZWabGr3NrnDk8WYIma0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obra de Tu Amor",
+        "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        },
+        {
+          "name": "Sof\u00eda Mancipe",
+          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
+        },
+        {
+          "name": "Daniela Quintero",
+          "url": "https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "duration_ms": 276493,
+      "name": "Cantar de Tu Amor",
+      "url": "https://open.spotify.com/track/2nFGPjnTmncOxR78FEb0YV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seamos Luz",
         "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
       },
@@ -851,6 +883,22 @@
       "duration_ms": 388860,
       "name": "Milagros",
       "url": "https://open.spotify.com/track/2kiERVFwmFf2XblqWAaBPG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esto Es un Avivamiento",
+        "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 287986,
+      "name": "Hasta el Final",
+      "url": "https://open.spotify.com/track/1fW7mEEXN4UrG6ZbQXsbjT"
     },
     {
       "added_at": null,
@@ -899,22 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esto Es un Avivamiento",
-        "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 287986,
-      "name": "Hasta el Final",
-      "url": "https://open.spotify.com/track/1fW7mEEXN4UrG6ZbQXsbjT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
         "url": "https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM"
       },
@@ -943,38 +975,6 @@
       "duration_ms": 358459,
       "name": "Primer Amor",
       "url": "https://open.spotify.com/track/0sLDtkjsVFrP4qntssprMh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Obra de Tu Amor",
-        "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Lead",
-          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
-        },
-        {
-          "name": "Sof\u00eda Mancipe",
-          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
-        },
-        {
-          "name": "Daniela Quintero",
-          "url": "https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        }
-      ],
-      "duration_ms": 276493,
-      "name": "Cantar de Tu Amor",
-      "url": "https://open.spotify.com/track/2nFGPjnTmncOxR78FEb0YV"
     },
     {
       "added_at": null,

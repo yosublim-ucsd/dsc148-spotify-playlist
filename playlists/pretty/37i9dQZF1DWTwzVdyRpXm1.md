@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Darshan Raval
 
-[Spotify](https://open.spotify.com/user/spotify) - 858,335 likes - 130 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 858,500 likes - 130 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 14 | [Bhool Bhulaiyaa 3 \- Title Track \(feat\. Pitbull\)](https://open.spotify.com/track/7r6iwgXcR85d9rfqsuf2Af) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Dhrruv Yogi](https://open.spotify.com/artist/1gegc3MqXY9tE3SL0PyLKr), [Sameer Anjaan](https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH) | [Bhool Bhulaiyaa 3 \- Title Track \(feat\. Pitbull\)](https://open.spotify.com/album/7A0AEPu9sqHZpSIDI1zLEM) | 3:50 |
 | 15 | [Ammo \(feat\. Sultaan\)](https://open.spotify.com/track/7fN0FOUaOWN722v8EJMzQ4) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2), [Rav Hanjra](https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [ALPHA](https://open.spotify.com/album/6xONAWWocgNhYPBvUBjF8f) | 3:22 |
 | 16 | [O Beliya](https://open.spotify.com/track/2mdwuBtT1alepau9g6GwnC) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Out of Control](https://open.spotify.com/album/7bght7slNBH8AuYHdIlvYf) | 2:58 |
-| 17 | [Callin](https://open.spotify.com/track/1dKZCOJ6qCCBbuNCgXqcUH) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Callin](https://open.spotify.com/album/6bRjoBTTNgRbEU5vcKT30P) | 2:48 |
+| 17 | [Callin](https://open.spotify.com/track/1dKZCOJ6qCCBbuNCgXqcUH) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Callin](https://open.spotify.com/album/6bRjoBTTNgRbEU5vcKT30P) | 2:48 |
 | 18 | [Bulleya](https://open.spotify.com/track/0Bz7dfqPY4JOGZO3O1j8Wh) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Amit Mishra](https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 5:48 |
 | 19 | [Aaj Ki Raat](https://open.spotify.com/track/1ICTQe3gvyPrLDdY44HKUK) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Stree 2](https://open.spotify.com/album/36DaAZreJ2iN4oPZ8HBUeU) | 3:48 |
 | 20 | [Kinni Kinni](https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:33 |

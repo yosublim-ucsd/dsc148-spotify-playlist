@@ -1,6 +1,6 @@
 {
   "description": "Music that created modern indie as we know it. Cover: Florence + The Machine",
-  "num_followers": 512132,
+  "num_followers": 512299,
   "original_name": "The 2000s Indie Scene",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-07-03 04:00:00",
       "album": {
+        "name": "Santigold",
+        "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "L.E.S. Artistes",
+      "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 338279,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp"
-    },
-    {
-      "added_at": "2024-07-03 04:00:00",
-      "album": {
-        "name": "Santigold",
-        "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
-      },
-      "artists": [
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "L.E.S. Artistes",
-      "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
     },
     {
       "added_at": "2024-07-03 04:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-07-03 04:00:00",
       "album": {
-        "name": "Miike Snow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/60qoUhwjHanuH4uO7ik4r5"
-      },
-      "artists": [
-        {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "Black & Blue",
-      "url": "https://open.spotify.com/track/2cOCunrzyHVpTrTwSIKRbt"
-    },
-    {
-      "added_at": "2024-07-03 04:00:00",
-      "album": {
         "name": "Speak For Yourself",
         "url": "https://open.spotify.com/album/5bxeKufn9YmJ3WNBQpBXlx"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 268866,
       "name": "Hide and Seek",
       "url": "https://open.spotify.com/track/121so7t3AeX6nLMvxy9ZP9"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "Miike Snow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/60qoUhwjHanuH4uO7ik4r5"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "Black & Blue",
+      "url": "https://open.spotify.com/track/2cOCunrzyHVpTrTwSIKRbt"
     },
     {
       "added_at": "2024-07-03 04:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-07-03 04:00:00",
       "album": {
-        "name": "Miike Snow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/60qoUhwjHanuH4uO7ik4r5"
-      },
-      "artists": [
-        {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
-        }
-      ],
-      "duration_ms": 236240,
-      "name": "Cult Logic",
-      "url": "https://open.spotify.com/track/1vlXU4TwppxOYXd50pQWzJ"
-    },
-    {
-      "added_at": "2024-07-03 04:00:00",
-      "album": {
         "name": "Set Yourself On Fire",
         "url": "https://open.spotify.com/album/68jZlA38aXlAaPRSzckdX0"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 204626,
       "name": "Extraordinary",
       "url": "https://open.spotify.com/track/5fIGsUTmNIfJLZhqCd4D5h"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "Miike Snow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/60qoUhwjHanuH4uO7ik4r5"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 236240,
+      "name": "Cult Logic",
+      "url": "https://open.spotify.com/track/1vlXU4TwppxOYXd50pQWzJ"
     },
     {
       "added_at": "2024-07-03 04:00:00",

@@ -517,6 +517,24 @@
     },
     {
       "album": {
+        "name": "Dark Horizon",
+        "url": "https://open.spotify.com/album/42NDwI0VQclSqsovH1vmR2"
+      },
+      "artists": [
+        {
+          "name": "Carlton Maison Quartet",
+          "url": "https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Dark Horizon",
+      "url": "https://open.spotify.com/track/6eD3m2Yga51OXHn6LjQXLC"
+    },
+    {
+      "album": {
         "name": "Rainy Days Jazz",
         "url": "https://open.spotify.com/album/5rfKCLIjhCsotHx4wbWDIV"
       },
@@ -1309,6 +1327,24 @@
     },
     {
       "album": {
+        "name": "Lingonberry street",
+        "url": "https://open.spotify.com/album/3ceHaQZS4P8ZBkCFFGh9Yz"
+      },
+      "artists": [
+        {
+          "name": "Dave Oakley trio",
+          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "Lingonberry street",
+      "url": "https://open.spotify.com/track/34Wis4cwZ9p15HetdvIXvi"
+    },
+    {
+      "album": {
         "name": "Night Songs",
         "url": "https://open.spotify.com/album/1PUymjohkZif5MR150o773"
       },
@@ -1525,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "My Darling",
+        "url": "https://open.spotify.com/album/5n6Zxrk0wxRTnnxlAgS7Iv"
+      },
+      "artists": [
+        {
+          "name": "Ikigai",
+          "url": "https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225454,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/3ayvi21PAEf43yKuS0Mvb7"
+    },
+    {
+      "album": {
         "name": "Rainy Jazz",
         "url": "https://open.spotify.com/album/3QHKLkV974nNsLgaCDZQr2"
       },
@@ -1648,6 +1702,24 @@
       "duration_ms": 226500,
       "name": "Open Skies",
       "url": "https://open.spotify.com/track/7FLlHjyfOncjLLtwQWSWVI"
+    },
+    {
+      "album": {
+        "name": "Out of Reach",
+        "url": "https://open.spotify.com/album/5e57meEfY5HuEDRGJmmJIP"
+      },
+      "artists": [
+        {
+          "name": "Lyle Jones",
+          "url": "https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "Out of Reach",
+      "url": "https://open.spotify.com/track/05HlrWYW3sQdDvhwr3aErJ"
     },
     {
       "album": {
@@ -1939,6 +2011,24 @@
     },
     {
       "album": {
+        "name": "Slow Paced",
+        "url": "https://open.spotify.com/album/0ZMvA4uDL6bhxbEXAPPobh"
+      },
+      "artists": [
+        {
+          "name": "Eddie Harper",
+          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "Slow Paced",
+      "url": "https://open.spotify.com/track/3dXvGcZYtBLSX9xnzRSthU"
+    },
+    {
+      "album": {
         "name": "Soft Like Rain",
         "url": "https://open.spotify.com/album/0ZYPNtaa3s06B4H2ano78w"
       },
@@ -1993,6 +2083,24 @@
     },
     {
       "album": {
+        "name": "South River",
+        "url": "https://open.spotify.com/album/2JqjC0kW7cjuJRW5XToXfy"
+      },
+      "artists": [
+        {
+          "name": "Carla Anderson",
+          "url": "https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185263,
+      "name": "South River",
+      "url": "https://open.spotify.com/track/4TLWEgxwgSUSfSWvONeWzi"
+    },
+    {
+      "album": {
         "name": "Space Weather (rain)",
         "url": "https://open.spotify.com/album/6vT31K4BZAbdIm1d4OUHZb"
       },
@@ -2040,7 +2148,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 209894,
       "name": "Spoonbills",
       "url": "https://open.spotify.com/track/0LM38lH2RI72dPmJ6KbBvw"
@@ -2119,6 +2227,24 @@
     },
     {
       "album": {
+        "name": "Storytelling",
+        "url": "https://open.spotify.com/album/1WIajoanqSKmdebdjpgYsG"
+      },
+      "artists": [
+        {
+          "name": "Benji Strings",
+          "url": "https://open.spotify.com/artist/69rJuPwfPst9467Mm44hHs"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Storytelling",
+      "url": "https://open.spotify.com/track/6GOTLXFVYbrt4CN0SQMZKz"
+    },
+    {
+      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/7vvyLIo6bR9Cfc3Qb6bbws"
       },
@@ -2184,7 +2310,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 254000,
       "name": "Testimonial",
       "url": "https://open.spotify.com/track/0xK45D6dDi9CstcdWZ7DG5"
@@ -2238,7 +2364,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 199672,
       "name": "Tuesdays",
       "url": "https://open.spotify.com/track/0AzGdVC2mlwjIAG6eeBceQ"
@@ -2386,6 +2512,24 @@
       "duration_ms": 194791,
       "name": "Where Do You Start - With Rain",
       "url": "https://open.spotify.com/track/4IQfHeEVSa7TEPslEJLZ3D"
+    },
+    {
+      "album": {
+        "name": "Whispers in the Rain",
+        "url": "https://open.spotify.com/album/12I1Gk5ZU8y5l7Dq6PDjeV"
+      },
+      "artists": [
+        {
+          "name": "Shay Walsh",
+          "url": "https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Whispers in the Rain",
+      "url": "https://open.spotify.com/track/6WPDoN6Aw0tRpkuobDENfD"
     },
     {
       "album": {

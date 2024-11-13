@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xU1q2lviYWohSFWY85KmU.md) - [plain]
 
 > KARENTレーベルで配信中の楽曲の中から元気が出るパワフル＆ポップなボカロ曲選曲。毎週更新。
 
-[KARENT official](https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd) - 133 likes - 40 songs - 2 hr 19 min
+[KARENT official](https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd) - 133 likes - 41 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,5 +48,6 @@ pretty - [cumulative](/playlists/cumulative/1xU1q2lviYWohSFWY85KmU.md) - [plain]
 | 38 | [もう寝なさい \(feat\. 可不\)](https://open.spotify.com/track/0bhQ9mUIy3MligfrPdhjpX) | [saikawa](https://open.spotify.com/artist/07QJKBA7oc1IFkGNDo7qsB) | [もう寝なさい](https://open.spotify.com/album/7ydOugS57oikJG0NehJIce) | 3:34 |
 | 39 | [ミラクルエース！ \(feat\. 初音ミク\)](https://open.spotify.com/track/6B2AgMVAmX30SsKgr97tBO) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ネタバレ＼\(^o^\)／](https://open.spotify.com/album/6Qr7x9v4O8pqrB9KKKB7Ga) | 3:37 |
 | 40 | [Black Out](https://open.spotify.com/track/1xoSc615wdQJiegfuJ8wPH) | [\*Luna](https://open.spotify.com/artist/4vwJe968gHHZzL0or0gSZA) | [PERSON](https://open.spotify.com/album/3TNRXnBvhF8ZzELhMuBo9m) | 4:29 |
+| 41 | [オブソミート \(feat\. 初音ミク&重音テト\)](https://open.spotify.com/track/0EiO4pTxMxx8Qq2lUmBwij) | [32ki](https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [オブソミート](https://open.spotify.com/album/2xW4XYnWMYvnLi0nT7oSCs) | 3:49 |
 
-Snapshot ID: `AAAEBwvkqtvXFaj6wuesMGlKnLswxKM0`
+Snapshot ID: `AAAECJUM7r2lDOTIjLRexSnldCtfWiOn`

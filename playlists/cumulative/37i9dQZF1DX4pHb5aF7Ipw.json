@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 186958,
       "name": "Chote Pind",
       "url": "https://open.spotify.com/track/0cLJd1HTOKvpsCtnnDc9Eo"
@@ -2407,6 +2407,32 @@
     },
     {
       "album": {
+        "name": "Be The Change",
+        "url": "https://open.spotify.com/album/3FSUBDoKXuJnBRqlS9I0Z4"
+      },
+      "artists": [
+        {
+          "name": "Baggh-e SMG",
+          "url": "https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu"
+        },
+        {
+          "name": "Farmaan SMG",
+          "url": "https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK"
+        },
+        {
+          "name": "BIG KAY SMG",
+          "url": "https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/56VeOPxdEti75KddXLOivp"
+    },
+    {
+      "album": {
         "name": "Back To Skool",
         "url": "https://open.spotify.com/album/2nV3fDaXXox4sEs3NFllkG"
       },
@@ -3172,7 +3198,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 144598,
       "name": "Mature",
       "url": "https://open.spotify.com/track/1UOiwtPyuGvJB3NhPlYCou"
@@ -4278,6 +4304,32 @@
       "duration_ms": 188571,
       "name": "Rubicon Drill",
       "url": "https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N"
+    },
+    {
+      "album": {
+        "name": "Be The Change",
+        "url": "https://open.spotify.com/album/3FSUBDoKXuJnBRqlS9I0Z4"
+      },
+      "artists": [
+        {
+          "name": "Baggh-e SMG",
+          "url": "https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu"
+        },
+        {
+          "name": "Farmaan SMG",
+          "url": "https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK"
+        },
+        {
+          "name": "BIG KAY SMG",
+          "url": "https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "Rust In Peace",
+      "url": "https://open.spotify.com/track/19ifIL2cuQdkh1gmojDtFy"
     },
     {
       "album": {

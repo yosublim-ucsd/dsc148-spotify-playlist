@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 73285,
+  "num_followers": 73301,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy/3gAAAAACBbYfQV1+p1JQ7s7bZFiVH",
+  "snapshot_id": "ZzFJAAAAAAAGOXGYDX39jb3k5hHWMHem",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 202516,
-      "name": "AIN'T A BAD DAY",
-      "url": "https://open.spotify.com/track/6ylWoGhvbMInRjPnceGLpO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Father\u2019s S\u00f8n (Acoustic)",
         "url": "https://open.spotify.com/album/26IijVPURwviGtk84ZZoBN"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 272821,
       "name": "Father\u2019s S\u00f8n - Acoustic",
       "url": "https://open.spotify.com/track/2kfV0ZcYANdBXvfvGQGXUz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 202516,
+      "name": "AIN'T A BAD DAY",
+      "url": "https://open.spotify.com/track/6ylWoGhvbMInRjPnceGLpO"
     },
     {
       "added_at": null,

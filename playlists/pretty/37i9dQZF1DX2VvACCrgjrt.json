@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Steve Angello",
-  "num_followers": 449734,
+  "num_followers": 449781,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1069,26 +1069,6 @@
       "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Whole Lotta Drugs / Over The Edge",
-        "url": "https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 208550,
-      "name": "Whole Lotta Drugs",
-      "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
-    },
-    {
       "added_at": "2024-05-10 04:00:00",
       "album": {
         "name": "What You Looking For",
@@ -1111,22 +1091,46 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/6FnqdQC9PHxPoLE5rQqtrn"
+        "name": "Whole Lotta Drugs / Over The Edge",
+        "url": "https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn"
       },
       "artists": [
         {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
         },
         {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
         }
       ],
-      "duration_ms": 178300,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/6TvCNh37pSO9rp9fIhskKN"
+      "duration_ms": 208550,
+      "name": "Whole Lotta Drugs",
+      "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Freedom (Body Ocean Remix)",
+        "url": "https://open.spotify.com/album/2g8I6KJqkdMtRmbwRjeT2O"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Body Ocean",
+          "url": "https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "duration_ms": 220952,
+      "name": "Freedom - Body Ocean Remix",
+      "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1155,26 +1159,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Freedom (Body Ocean Remix)",
-        "url": "https://open.spotify.com/album/2g8I6KJqkdMtRmbwRjeT2O"
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/6FnqdQC9PHxPoLE5rQqtrn"
       },
       "artists": [
         {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
         },
         {
-          "name": "Body Ocean",
-          "url": "https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
         }
       ],
-      "duration_ms": 220952,
-      "name": "Freedom - Body Ocean Remix",
-      "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
+      "duration_ms": 178300,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/6TvCNh37pSO9rp9fIhskKN"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1217,24 +1217,24 @@
       "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
     },
     {
-      "added_at": "2024-10-02 17:18:50",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Danny Phantom",
-        "url": "https://open.spotify.com/album/481fGaYfsBvJ12oFkdkjdU"
+        "name": "NIGHTMARE",
+        "url": "https://open.spotify.com/album/0ckQr4EULt42qIQXxf0N7q"
       },
       "artists": [
         {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+          "name": "Cody Ko",
+          "url": "https://open.spotify.com/artist/51etCwhy3kaQLY5Tj06PW5"
         },
         {
-          "name": "CASHEW",
-          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+          "name": "Young Nut",
+          "url": "https://open.spotify.com/artist/6Qup2N8UoK6Tn3R8V1HSHC"
         }
       ],
-      "duration_ms": 200077,
-      "name": "Danny Phantom",
-      "url": "https://open.spotify.com/track/17NKQ5IpedOGTdaSVSWEBb"
+      "duration_ms": 159241,
+      "name": "NIGHTMARE",
+      "url": "https://open.spotify.com/track/3II25HAiRQ5dGlcFYpVrHy"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1257,24 +1257,24 @@
       "url": "https://open.spotify.com/track/2gqTJ6kG9qgbRuwsRb66LA"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-10-02 17:18:50",
       "album": {
-        "name": "NIGHTMARE",
-        "url": "https://open.spotify.com/album/0ckQr4EULt42qIQXxf0N7q"
+        "name": "Danny Phantom",
+        "url": "https://open.spotify.com/album/481fGaYfsBvJ12oFkdkjdU"
       },
       "artists": [
         {
-          "name": "Cody Ko",
-          "url": "https://open.spotify.com/artist/51etCwhy3kaQLY5Tj06PW5"
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
         },
         {
-          "name": "Young Nut",
-          "url": "https://open.spotify.com/artist/6Qup2N8UoK6Tn3R8V1HSHC"
+          "name": "CASHEW",
+          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
         }
       ],
-      "duration_ms": 159241,
-      "name": "NIGHTMARE",
-      "url": "https://open.spotify.com/track/3II25HAiRQ5dGlcFYpVrHy"
+      "duration_ms": 200077,
+      "name": "Danny Phantom",
+      "url": "https://open.spotify.com/track/17NKQ5IpedOGTdaSVSWEBb"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1613,26 +1613,6 @@
       "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/7FjAK5OapRFX541hRkEFlM"
-      },
-      "artists": [
-        {
-          "name": "OVERWERK",
-          "url": "https://open.spotify.com/artist/2f9PTWJfMMDTAFZcvHy1Z5"
-        },
-        {
-          "name": "CODEUNIT",
-          "url": "https://open.spotify.com/artist/0OwyvnDOVdvrBhgHAkU9tC"
-        }
-      ],
-      "duration_ms": 242437,
-      "name": "Ascend",
-      "url": "https://open.spotify.com/track/46LShzWCnFjCooJVFyKrKK"
-    },
-    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "My Mind",
@@ -1651,6 +1631,26 @@
       "duration_ms": 184857,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/6PHkTkDcRZsp2WbZBZZbNe"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/7FjAK5OapRFX541hRkEFlM"
+      },
+      "artists": [
+        {
+          "name": "OVERWERK",
+          "url": "https://open.spotify.com/artist/2f9PTWJfMMDTAFZcvHy1Z5"
+        },
+        {
+          "name": "CODEUNIT",
+          "url": "https://open.spotify.com/artist/0OwyvnDOVdvrBhgHAkU9tC"
+        }
+      ],
+      "duration_ms": 242437,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/46LShzWCnFjCooJVFyKrKK"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1817,6 +1817,22 @@
       "url": "https://open.spotify.com/track/2ijXRwJ28FfqOHqM1un4cq"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "One Of A Kind",
+        "url": "https://open.spotify.com/album/51qnbLBwQgEtihtp0xEUkP"
+      },
+      "artists": [
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Does It Seem",
+      "url": "https://open.spotify.com/track/6LtdHK1U2li7mFcHl0agoN"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Mobbing",
@@ -1845,20 +1861,40 @@
       "url": "https://open.spotify.com/track/31W5YClrYctLHB9RWslEGR"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-08-30 20:19:56",
       "album": {
-        "name": "One Of A Kind",
-        "url": "https://open.spotify.com/album/51qnbLBwQgEtihtp0xEUkP"
+        "name": "CAN'T GET ENOUGH",
+        "url": "https://open.spotify.com/album/3iICcwqP3stzRSJ4cQjpYe"
       },
       "artists": [
         {
-          "name": "Eleganto",
-          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
         }
       ],
-      "duration_ms": 228750,
-      "name": "Does It Seem",
-      "url": "https://open.spotify.com/track/6LtdHK1U2li7mFcHl0agoN"
+      "duration_ms": 169846,
+      "name": "CANT GET ENOUGH",
+      "url": "https://open.spotify.com/track/7glLHoodwXrILK4AP3de2k"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Turn Up The Volume",
+        "url": "https://open.spotify.com/album/1VZIx8VbOceGLo2snGw5im"
+      },
+      "artists": [
+        {
+          "name": "Stafford Brothers",
+          "url": "https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        }
+      ],
+      "duration_ms": 142445,
+      "name": "Turn Up The Volume",
+      "url": "https://open.spotify.com/track/2Y6ighvPsMpW8fIfUQzYXf"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1903,42 +1939,6 @@
       "duration_ms": 196533,
       "name": "Out Past 2",
       "url": "https://open.spotify.com/track/636DZcUk6YMmdG0rliLJ9H"
-    },
-    {
-      "added_at": "2024-08-30 20:19:56",
-      "album": {
-        "name": "CAN'T GET ENOUGH",
-        "url": "https://open.spotify.com/album/3iICcwqP3stzRSJ4cQjpYe"
-      },
-      "artists": [
-        {
-          "name": "nikko",
-          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "CANT GET ENOUGH",
-      "url": "https://open.spotify.com/track/7glLHoodwXrILK4AP3de2k"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Turn Up The Volume",
-        "url": "https://open.spotify.com/album/1VZIx8VbOceGLo2snGw5im"
-      },
-      "artists": [
-        {
-          "name": "Stafford Brothers",
-          "url": "https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr"
-        },
-        {
-          "name": "Taylr Renee",
-          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
-        }
-      ],
-      "duration_ms": 142445,
-      "name": "Turn Up The Volume",
-      "url": "https://open.spotify.com/track/2Y6ighvPsMpW8fIfUQzYXf"
     },
     {
       "added_at": "2024-08-16 14:00:00",
@@ -2089,6 +2089,22 @@
       "url": "https://open.spotify.com/track/4Ltrv35B8OGHkxjhnWHIig"
     },
     {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
+      },
+      "artists": [
+        {
+          "name": "THYKIER",
+          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
+    },
+    {
       "added_at": "2024-04-26 04:00:00",
       "album": {
         "name": "NPC",
@@ -2103,6 +2119,26 @@
       "duration_ms": 172878,
       "name": "NPC",
       "url": "https://open.spotify.com/track/49AyVq86hvLmS2oljUiVDo"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "LIMIT",
+        "url": "https://open.spotify.com/album/1gG2DU3odPahWbeJyA9jKU"
+      },
+      "artists": [
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "LIMIT",
+      "url": "https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -2143,42 +2179,6 @@
       "duration_ms": 187031,
       "name": "Pump The Bass",
       "url": "https://open.spotify.com/track/2AvftRrQt565x4gLPaCvor"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
-      },
-      "artists": [
-        {
-          "name": "THYKIER",
-          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Just Like You",
-      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "LIMIT",
-        "url": "https://open.spotify.com/album/1gG2DU3odPahWbeJyA9jKU"
-      },
-      "artists": [
-        {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        },
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "LIMIT",
-      "url": "https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g"
     },
     {
       "added_at": "2024-06-28 14:01:45",

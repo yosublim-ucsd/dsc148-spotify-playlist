@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Dillom, Marilina Bertoldi, Juliana Gattas y Airbag  en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,468 likes - 48 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,486 likes - 48 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 22 | [La Tapatia](https://open.spotify.com/track/7cPWL88F7GnX6v9DekIMYn) | [San Juan Project](https://open.spotify.com/artist/0OvRTd6sJc06xSW6ZkESFi) | [La Tapatia](https://open.spotify.com/album/3KBouIFxNFIfQBJYg7TkrD) | 3:49 |
 | 23 | [Marea](https://open.spotify.com/track/2yoSFkWsRSXdIhcix9JfMI) | [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [Marea](https://open.spotify.com/album/0O69TYjXVjDbS5o9WWdv5i) | 3:59 |
 | 24 | [Margarita](https://open.spotify.com/track/41a835ObgfBLcL7tFf22Ad) | [Hammilton Bakerr](https://open.spotify.com/artist/7vR9IezZzHgHZy1lvuSMBL) | [Margarita](https://open.spotify.com/album/05jvlnycdJdCuVHjccbLcb) | 2:38 |
-| 25 | [Mensaje de Voz](https://open.spotify.com/track/72Jc5DUPF1qimFnhIEh2hc) | [Paco y Pedro](https://open.spotify.com/artist/7JVf9SjsDx2evTvvfbfDEK) | [Mensaje de Voz](https://open.spotify.com/album/78Hf3aNdTJ1uGuOhjmpSnG) | 1:45 |
+| 25 | [Mensaje de Voz \(pensando en ti\)](https://open.spotify.com/track/72Jc5DUPF1qimFnhIEh2hc) | [Paco y Pedro](https://open.spotify.com/artist/7JVf9SjsDx2evTvvfbfDEK) | [Mensaje de Voz \(pensando en ti\)](https://open.spotify.com/album/78Hf3aNdTJ1uGuOhjmpSnG) | 1:45 |
 | 26 | [Casino](https://open.spotify.com/track/20lXQUvVdzVFu1nwSTII8z) | [Playa Nudista](https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3) | [Casino](https://open.spotify.com/album/36i57aGVQ3rZpKKkEeRdoD) | 3:49 |
 | 27 | [Pastillas](https://open.spotify.com/track/51SYnvMbQqIiw8EbGh2HZK) | [Clara\_mente](https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk) | [Pastillas](https://open.spotify.com/album/3mWjW6kkcyE2R1DF40BQqo) | 3:20 |
 | 28 | [Fantasía](https://open.spotify.com/track/7sDJ6cEyyanq6iGD1TwOg3) | [Daniela Milagros](https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj) | [Fantasía](https://open.spotify.com/album/0Pu7TnlBrjd65NApc1tE4o) | 3:09 |

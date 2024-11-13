@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-451 songs - 19 hr 12 min
+453 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Quando gli alberi incontrano il vento](https://open.spotify.com/track/1HByqL0NBv4U3EXobDUkiy) | [Riccardo Lucciano](https://open.spotify.com/artist/20WwrV7uTNMYTN1Rax9ORA) | [Quando gli alberi incontrano il vento](https://open.spotify.com/album/5gC9wVZoOL4bJNSo9eoclI) | 2:55 | 2022-04-04 | 2024-02-03 |
 | [Qui vivra verra](https://open.spotify.com/track/2jOawh03Qd5vi7sFRsvXRd) | [Michael Brogadaccio](https://open.spotify.com/artist/6ZqnKTqzs5B9g2K68OCKVo) | [Qui vivra verra](https://open.spotify.com/album/6950UP041DVdTcDYmBOhKd) | 2:13 | 2022-04-04 | 2022-07-08 |
 | [Quiet Nights](https://open.spotify.com/track/4mHCaIQknzBBYYijiJsIOx) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Quiet Nights](https://open.spotify.com/album/5q5iEqsyefKYEfu6W9Xc3E) | 2:11 | 2024-05-07 |  |
+| [Quiet Sky](https://open.spotify.com/track/1LIybLsVVg5oRJgVsMAWlD) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Quiet Sky](https://open.spotify.com/album/7F3GAMnlnyehjRASL9zm5v) | 2:01 | 2024-11-12 |  |
 | [Quieta](https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY) | [Gioia Moreschi](https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH) | [Quieta](https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk) | 2:43 | 2022-04-04 | 2022-11-19 |
 | [Raining Stars](https://open.spotify.com/track/3KGGxiUIIsoiGLmSKCu0RS) | [Tristaan Wilkes](https://open.spotify.com/artist/4awKyidTqtd5z49BGOLvck) | [Raining Stars](https://open.spotify.com/album/365qk1heQP6e6IGmaZycSe) | 2:39 | 2024-07-29 |  |
 | [Ray](https://open.spotify.com/track/2DGFV4U3tPuoTq0vTRfYja) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Ray](https://open.spotify.com/album/47ce8yosa7ZuuLDpQfzGtp) | 2:10 | 2024-04-09 |  |
@@ -452,6 +453,7 @@
 | [Whirling sky](https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Whirling sky](https://open.spotify.com/album/2tWbOuTHJk5700ETmICSBU) | 2:49 | 2022-04-04 | 2024-02-15 |
 | [Whispering Embers](https://open.spotify.com/track/1jUNFk22PrQlJkphnX1uEn) | [Esperance](https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg) | [Whispering Embers](https://open.spotify.com/album/0tNqI3h7dFLyozrqnNeNmI) | 2:42 | 2024-09-10 |  |
 | [Wide Skies](https://open.spotify.com/track/7dgAZemjrAuLHTOikyWtbA) | [Liona Sand](https://open.spotify.com/artist/1p6pGVY7ZTHr9Lv9DCXQiE) | [Wide Skies](https://open.spotify.com/album/5flaLlq8sLt6VdnPCr5Ast) | 3:22 | 2022-04-04 | 2024-09-25 |
+| [Winds of Distance](https://open.spotify.com/track/2l2vDxXCwLAt9KKjtWO3lH) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [Winds of Distance](https://open.spotify.com/album/0LGZJLAwysvGKC4VbEnFxy) | 2:37 | 2024-11-12 |  |
 | [Wings](https://open.spotify.com/track/1TMwDvcIQpZKiio3glvpq7) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Wings](https://open.spotify.com/album/1hTQa53r74R97QMZZ8t8b9) | 2:33 | 2022-04-04 | 2024-02-03 |
 | [Winter Blossoms](https://open.spotify.com/track/6q6Isz6kUluHROS0mb9T8P) | [Billy Lipnick](https://open.spotify.com/artist/0JTFRJYspkuP9Pwhbc2b0w) | [Winter Blossoms](https://open.spotify.com/album/1KpNlDkB2vzxGHVVYTB5CU) | 3:00 | 2022-04-04 | 2022-07-08 |
 | [Winter im Herzen](https://open.spotify.com/track/5mz01kqyV5Q02HRq0ITNQr) | [Sander Berisha](https://open.spotify.com/artist/3ZaOGDVy8OEsLOgdtI0Aay) | [Winter im Herzen](https://open.spotify.com/album/02dj7DzGAXlqxpxm3tIBQx) | 2:56 | 2022-04-04 | 2024-10-16 |

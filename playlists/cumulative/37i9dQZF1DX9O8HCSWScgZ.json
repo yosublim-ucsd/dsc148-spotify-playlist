@@ -396,7 +396,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 152647,
       "name": "downstream memories",
       "url": "https://open.spotify.com/track/3bBIcw0sCrz0z3W0UEG29k"
@@ -418,6 +418,24 @@
       "duration_ms": 124285,
       "name": "Dream Drift",
       "url": "https://open.spotify.com/track/5yQXLsJZJBcQQV3mhuWDE4"
+    },
+    {
+      "album": {
+        "name": "Drizzle",
+        "url": "https://open.spotify.com/album/5pCz6ijkmoUi0SW8mN4seh"
+      },
+      "artists": [
+        {
+          "name": "Philanthrope",
+          "url": "https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124931,
+      "name": "Drizzle",
+      "url": "https://open.spotify.com/track/5upFjPY4295n6g5AAr9LZq"
     },
     {
       "album": {

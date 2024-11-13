@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,366 likes - 50 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,403 likes - 50 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 47 | [Groove](https://open.spotify.com/track/2vfo9BBe8AZVKoQonYsWxk) | [Ordio O2](https://open.spotify.com/artist/5VO8WGUErBn2uI7zVcgWok), [M00tion](https://open.spotify.com/artist/0hHKCtRNUUbczIb3csIz7j), [Ross](https://open.spotify.com/artist/3qR0ivGnEprE5Y8oxCly4Y), [Kukzer wadi piano\_012](https://open.spotify.com/artist/3gRYJiGDHEWuZCjKlOZsLh) | [Groove](https://open.spotify.com/album/7y5nc1YxXWkEWAoPJAuKlU) | 5:51 |
 | 48 | [Mina Nawe \- Radio Edit](https://open.spotify.com/track/7nAXecq3zqlOb64OjYCFD5) | [Donel](https://open.spotify.com/artist/6nboHpRsZBI6pPX9lSBvgT), [DANKIE SOUNDS](https://open.spotify.com/artist/0WeoUKDLUBglNBE8pYBDpS) | [Mina Nawe](https://open.spotify.com/album/3Wmq33GKBysdwDSq9ds6rq) | 3:44 |
 | 49 | [All Night](https://open.spotify.com/track/64uHIutDM1LeKX12mONusv) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [All Night](https://open.spotify.com/album/2gCR5BMylsLFB4dMviafch) | 5:58 |
-| 50 | [Utheni](https://open.spotify.com/track/0yrg1wjrSzgRprCfHdEUPU) | [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7), [Megadrumz](https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX) | [Utheni](https://open.spotify.com/album/11pOz6URJhP5HcMeJPRSYc) | 7:48 |
+| 50 | [OMALICHA](https://open.spotify.com/track/08oUbg2xP9viDnYcKacUd8) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [OMALICHA](https://open.spotify.com/album/475ZCSpGCvPOnDpJexgsd8) | 4:00 |
 
 Snapshot ID: `ZxrUTgAAAADvKG20ZoKngjbx3zFGvNde`

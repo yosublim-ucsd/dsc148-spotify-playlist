@@ -5,6 +5,42 @@
   "tracks": [
     {
       "album": {
+        "name": "A Child Is Born",
+        "url": "https://open.spotify.com/album/29mX15TJbXi1MZPwFZQpBz"
+      },
+      "artists": [
+        {
+          "name": "Sofia Marcello",
+          "url": "https://open.spotify.com/artist/6MVT94tdG9IDB3J07I3qiP"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "A Child Is Born (Fireplace)",
+      "url": "https://open.spotify.com/track/2wV1gvSkMoqdltrW6ydgi5"
+    },
+    {
+      "album": {
+        "name": "Angels We Have Heard on High",
+        "url": "https://open.spotify.com/album/697h20z6KuZbIZsIXgapz9"
+      },
+      "artists": [
+        {
+          "name": "Troy Emi",
+          "url": "https://open.spotify.com/artist/1pqR1gDeFiZr2ot3edcQLZ"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Angels We Have Heard on High",
+      "url": "https://open.spotify.com/track/1L8R7c9TSsDjUPp0AwH9BX"
+    },
+    {
+      "album": {
         "name": "Angels we've heard on High",
         "url": "https://open.spotify.com/album/3Zsl6aorjh4VxHFeH6yQ6M"
       },
@@ -401,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/2Z7d7tnvVBRwoi9AxetwP7"
+      },
+      "artists": [
+        {
+          "name": "Quinn Harrington",
+          "url": "https://open.spotify.com/artist/5D5E3KJhdrPoOEKfLJ8qk4"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/219xISpsGvU8XWf7Um7Sb0"
+    },
+    {
+      "album": {
         "name": "I Heard the Bells on Christmas Day",
         "url": "https://open.spotify.com/album/09SAMjkZHbIuK3QGmBH4fE"
       },
@@ -653,6 +707,24 @@
     },
     {
       "album": {
+        "name": "O Christmas Tree (fireplace)",
+        "url": "https://open.spotify.com/album/1RDWbIfRq102MvhafAHADl"
+      },
+      "artists": [
+        {
+          "name": "V\u00f8laire",
+          "url": "https://open.spotify.com/artist/6cYOKoIvU6FGklAGv8aA1u"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139362,
+      "name": "O Christmas Tree (fireplace)",
+      "url": "https://open.spotify.com/track/66f5DSHVSkwuVDsOBsstos"
+    },
+    {
+      "album": {
         "name": "O Come All Ye Faithfull",
         "url": "https://open.spotify.com/album/1mQ3opSxvgjQuTJavy7Y4N"
       },
@@ -830,6 +902,24 @@
       "duration_ms": 141374,
       "name": "Seven Joys Of Mary - Cosy Fireplace",
       "url": "https://open.spotify.com/track/5QzOYBckLu48DnNDjjhNoo"
+    },
+    {
+      "album": {
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/5EuDMAeoizBYVUtkwR9OY7"
+      },
+      "artists": [
+        {
+          "name": "Ishara",
+          "url": "https://open.spotify.com/artist/15d9b7prVI2d9DuWUesJ6Q"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/3rhMXpVLDZAkCtr7v37aIV"
     },
     {
       "album": {

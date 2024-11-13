@@ -1,29 +1,13 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: JEREMIAS",
-  "num_followers": 440954,
+  "num_followers": 441018,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy04YAAAAABbQVuOUsJH9y0abzqqeLHP",
+  "snapshot_id": "ZzNGNAAAAACkXwbFQccfvVBdsm6PgeJN",
   "tracks": [
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
-        "name": "Sag mir was ich nicht wei\u00df",
-        "url": "https://open.spotify.com/album/51M0w9KedzR3r9OtdMSgg3"
-      },
-      "artists": [
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
-        }
-      ],
-      "duration_ms": 166406,
-      "name": "Sag mir was ich nicht wei\u00df",
-      "url": "https://open.spotify.com/track/2YgHhD3Tuifloa4ju1N0g2"
-    },
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
@@ -59,6 +43,38 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
+        "name": "Sag mir was ich nicht wei\u00df",
+        "url": "https://open.spotify.com/album/51M0w9KedzR3r9OtdMSgg3"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "duration_ms": 166406,
+      "name": "Sag mir was ich nicht wei\u00df",
+      "url": "https://open.spotify.com/track/2YgHhD3Tuifloa4ju1N0g2"
+    },
+    {
+      "added_at": "2024-11-07 22:00:00",
+      "album": {
+        "name": "4 Uhr",
+        "url": "https://open.spotify.com/album/1PJdG5V66ybOSUHumjVoMf"
+      },
+      "artists": [
+        {
+          "name": "jaschu",
+          "url": "https://open.spotify.com/artist/3rfwvSE1wJiQWBeqNGgcy8"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "4 Uhr",
+      "url": "https://open.spotify.com/track/5AHSgn5YA32xPTM0Tlhxkv"
+    },
+    {
+      "added_at": "2024-11-07 22:00:00",
+      "album": {
         "name": "Drau\u00dfen ist Krieg",
         "url": "https://open.spotify.com/album/41tGV2l8FPeyXUIISxQNex"
       },
@@ -79,18 +95,18 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
-        "name": "4 Uhr",
-        "url": "https://open.spotify.com/album/1PJdG5V66ybOSUHumjVoMf"
+        "name": "Juli",
+        "url": "https://open.spotify.com/album/3kem28oOtlQWOshkKt4AvR"
       },
       "artists": [
         {
-          "name": "jaschu",
-          "url": "https://open.spotify.com/artist/3rfwvSE1wJiQWBeqNGgcy8"
+          "name": "fyne",
+          "url": "https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH"
         }
       ],
-      "duration_ms": 180000,
-      "name": "4 Uhr",
-      "url": "https://open.spotify.com/track/5AHSgn5YA32xPTM0Tlhxkv"
+      "duration_ms": 189840,
+      "name": "Juli",
+      "url": "https://open.spotify.com/track/0pjLRl4IKL4Yk7qsH3kiXY"
     },
     {
       "added_at": "2024-11-07 22:00:00",
@@ -151,38 +167,6 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
-        "name": "Klebeband",
-        "url": "https://open.spotify.com/album/0qCHezO2pxTOQNvKYONvhr"
-      },
-      "artists": [
-        {
-          "name": "Fynn Kliemann",
-          "url": "https://open.spotify.com/artist/2YIxQoGvBukvoC1CbJ7opS"
-        }
-      ],
-      "duration_ms": 144476,
-      "name": "Klebeband",
-      "url": "https://open.spotify.com/track/3gEVtnKEfvj4mIbJE997qG"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
-        "name": "Juli",
-        "url": "https://open.spotify.com/album/3kem28oOtlQWOshkKt4AvR"
-      },
-      "artists": [
-        {
-          "name": "fyne",
-          "url": "https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "Juli",
-      "url": "https://open.spotify.com/track/0pjLRl4IKL4Yk7qsH3kiXY"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
         "name": "Es regnet Sterne",
         "url": "https://open.spotify.com/album/0jvUUTyk06MvWg2txQmZgL"
       },
@@ -235,6 +219,38 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
+        "name": "Loser/Neben mir",
+        "url": "https://open.spotify.com/album/2a5w4pIpdADfx3yzCQg5Lc"
+      },
+      "artists": [
+        {
+          "name": "PaulWetz",
+          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
+        }
+      ],
+      "duration_ms": 171171,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/3lqoSLATqLn1SNdhbkUMbx"
+    },
+    {
+      "added_at": "2024-11-07 22:00:00",
+      "album": {
+        "name": "zwischendrin verliebt",
+        "url": "https://open.spotify.com/album/6nX8JYjiIt34TspNoUbczf"
+      },
+      "artists": [
+        {
+          "name": "TOBIAS",
+          "url": "https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC"
+        }
+      ],
+      "duration_ms": 166389,
+      "name": "zwischendrin verliebt",
+      "url": "https://open.spotify.com/track/4cfEKx32p9CV07CfHWXXdT"
+    },
+    {
+      "added_at": "2024-11-07 22:00:00",
+      "album": {
         "name": "Mut",
         "url": "https://open.spotify.com/album/03nloAfECeE0rh6fZ2sfzX"
       },
@@ -251,18 +267,18 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
-        "name": "Loser/Neben mir",
-        "url": "https://open.spotify.com/album/2a5w4pIpdADfx3yzCQg5Lc"
+        "name": "Klebeband",
+        "url": "https://open.spotify.com/album/0qCHezO2pxTOQNvKYONvhr"
       },
       "artists": [
         {
-          "name": "PaulWetz",
-          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
+          "name": "Fynn Kliemann",
+          "url": "https://open.spotify.com/artist/2YIxQoGvBukvoC1CbJ7opS"
         }
       ],
-      "duration_ms": 171171,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/3lqoSLATqLn1SNdhbkUMbx"
+      "duration_ms": 144476,
+      "name": "Klebeband",
+      "url": "https://open.spotify.com/track/3gEVtnKEfvj4mIbJE997qG"
     },
     {
       "added_at": "2024-11-07 22:00:00",
@@ -299,22 +315,6 @@
       "duration_ms": 206277,
       "name": "M\u00fcdes Herz",
       "url": "https://open.spotify.com/track/6Ozi2ap2IUpAv8UQzlnh0Y"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
-        "name": "zwischendrin verliebt",
-        "url": "https://open.spotify.com/album/6nX8JYjiIt34TspNoUbczf"
-      },
-      "artists": [
-        {
-          "name": "TOBIAS",
-          "url": "https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC"
-        }
-      ],
-      "duration_ms": 166389,
-      "name": "zwischendrin verliebt",
-      "url": "https://open.spotify.com/track/4cfEKx32p9CV07CfHWXXdT"
     },
     {
       "added_at": "2024-11-07 22:00:00",

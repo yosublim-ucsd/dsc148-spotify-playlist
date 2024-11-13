@@ -13626,7 +13626,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 200550,
       "name": "land in sight",
       "url": "https://open.spotify.com/track/7MDbt6zQQu37YFeVcOpb4U"
@@ -23629,6 +23629,24 @@
     },
     {
       "album": {
+        "name": "Silent Steps in the Snow",
+        "url": "https://open.spotify.com/album/052ClOJxN5pEBblLQNISsz"
+      },
+      "artists": [
+        {
+          "name": "Gianni Domenici",
+          "url": "https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144564,
+      "name": "Silent Steps in the Snow",
+      "url": "https://open.spotify.com/track/4hhki0inb5KmXcI3gJGXOv"
+    },
+    {
+      "album": {
         "name": "Oddities",
         "url": "https://open.spotify.com/album/5xl48qsYt6IMQlXSKESZsW"
       },
@@ -27837,6 +27855,24 @@
     },
     {
       "album": {
+        "name": "Tides of Silence",
+        "url": "https://open.spotify.com/album/6dl9yYAICcDA8riVDWdxqA"
+      },
+      "artists": [
+        {
+          "name": "Skaresn\u00f8",
+          "url": "https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198102,
+      "name": "Tides of Silence",
+      "url": "https://open.spotify.com/track/55k2hCElfUZ8VBWbKhDEXY"
+    },
+    {
+      "album": {
         "name": "Tient qu'a\u0300 un fil",
         "url": "https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr"
       },
@@ -31482,7 +31518,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 205100,
       "name": "Young Ones",
       "url": "https://open.spotify.com/track/502QNU8kHHhL4rA9ft0Jcl"

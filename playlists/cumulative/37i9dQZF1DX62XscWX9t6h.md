@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-216 songs - 15 hr 20 min
+217 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Aguila Latina](https://open.spotify.com/track/1oVz5EhIzwhViwB9PADdaT) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Aguila Latina](https://open.spotify.com/album/0geRBvwih5IrnjKaU8tzCs) | 4:39 | 2024-01-18 | 2024-04-28 |
 | [Akaline Akaline](https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku) | [Ahmoudou Madassane](https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm) | [Zerzura \(Original Soundtrack Recording\)](https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt) | 3:07 | 2021-10-20 | 2024-04-19 |
 | [Alberca](https://open.spotify.com/track/78hqkmkGptt4Z8zNibXe47) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Templo del Perro](https://open.spotify.com/album/5tWoAJ3bCVblpucHaRl5Hg) | 3:12 | 2024-10-04 |  |
+| [Alsutur](https://open.spotify.com/track/6GBTuDftjpSehy0GHLN0Fl) | [Dar Disku](https://open.spotify.com/artist/70XpwqZmbGHH9TnDuvPhGR), [FLANAH](https://open.spotify.com/artist/5DqIuKnov00pkcf2dlq8W5) | [Dar Disku](https://open.spotify.com/album/2WPTr25DfIdlsDZDcb2aHY) | 2:39 | 2024-11-12 |  |
 | [Amanheceu](https://open.spotify.com/track/6SZpFJEjMzptYIuj2IQC1M) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [RUAN VITOR VAQUEIRINHO](https://open.spotify.com/artist/0giu922rYkicSn5bq25W3g) | [Amanheceu](https://open.spotify.com/album/1blDqTfNYs1UcLWMKFiGzF) | 3:04 | 2024-08-20 |  |
 | [Amidinine](https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 4:28 | 2021-10-20 |  |
 | [Arnaq](https://open.spotify.com/track/7eMFZDDVezqN2tOEBOU29v) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 3:25 | 2023-07-19 |  |
@@ -134,7 +135,7 @@
 | [Ne Yaptıysam Senin İçin](https://open.spotify.com/track/1BGAAf5sBYsob5EWCgLWdB) | [Durukan Betses](https://open.spotify.com/artist/4bwCObMA0kPsoCaDEz3eid) | [Ne Yaptıysam Senin İçin](https://open.spotify.com/album/63RJH91Yv0sEBD02zPFxWD) | 4:52 | 2024-02-02 | 2024-10-05 |
 | [Newcastle](https://open.spotify.com/track/2GiVRxdolsLBU3QZ8U7CNk) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [False Lankum](https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H) | 5:43 | 2023-12-12 |  |
 | [NO ME DABA CUENTA](https://open.spotify.com/track/6H1w0oGomwaUktifaPRW5Z) | [Califato ¾](https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK), [María José Luna](https://open.spotify.com/artist/3qWEWBaboJlhjWv3WwYiCR) | [NO ME DABA CUENTA](https://open.spotify.com/album/68uVa82hN3W52PvE3SeocK) | 3:29 | 2024-08-21 |  |
-| [Nomad](https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Nomad](https://open.spotify.com/album/6QYMchWFthbYhRQNNaypBs) | 4:35 | 2024-02-02 |  |
+| [Nomad](https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Nomad](https://open.spotify.com/album/6QYMchWFthbYhRQNNaypBs) | 4:35 | 2024-02-02 | 2024-11-13 |
 | [Nomad](https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:44 | 2022-07-01 |  |
 | [Nosotros También](https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:26 | 2021-10-20 | 2024-04-19 |
 | [Octopus](https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:51 | 2023-04-13 | 2024-04-19 |

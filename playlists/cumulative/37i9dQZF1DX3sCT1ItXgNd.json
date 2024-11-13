@@ -1429,6 +1429,24 @@
     },
     {
       "album": {
+        "name": "Canalla",
+        "url": "https://open.spotify.com/album/6ZIMuzMVOnHqaXFkTqHN5g"
+      },
+      "artists": [
+        {
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185291,
+      "name": "Canalla",
+      "url": "https://open.spotify.com/track/0UEGkBGiQRyjqgbWypHN2n"
+    },
+    {
+      "album": {
         "name": "Canci\u00f3n de pop",
         "url": "https://open.spotify.com/album/0GonIhSgK1AuasYbr8xbYH"
       },
@@ -4720,6 +4738,28 @@
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+    },
+    {
+      "album": {
+        "name": "Imag\u00ednate",
+        "url": "https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170365,
+      "name": "Imag\u00ednate",
+      "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
     },
     {
       "album": {
@@ -10982,6 +11022,24 @@
       "duration_ms": 172891,
       "name": "Un Cl\u00e1sico",
       "url": "https://open.spotify.com/track/1U6oVlu9LhCCj7mRfsomDp"
+    },
+    {
+      "album": {
+        "name": "UN DOMINGO TRISTE VOL. I",
+        "url": "https://open.spotify.com/album/7FchlNKxp2sLkOa7GNyazu"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157725,
+      "name": "UN DOMINGO TRISTE VOL. I",
+      "url": "https://open.spotify.com/track/0hQyAxsrOqM4xsJRtEjEiE"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 353691,
+  "num_followers": 353773,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,26 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
+        "name": "North",
+        "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
+      },
+      "artists": [
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Middle of Things, Beautiful Wife (feat. Xavier Oma\u0308r))",
+      "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 251546,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
-        "name": "North",
-        "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
-      },
-      "artists": [
-        {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
-        },
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Middle of Things, Beautiful Wife (feat. Xavier Oma\u0308r))",
-      "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
+        "name": "U Lyk My Style",
+        "url": "https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y"
+      },
+      "artists": [
+        {
+          "name": "Stacy N.K.R",
+          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "U Lyk My Style",
+      "url": "https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
         "name": "OUR LOVE (80'S)",
         "url": "https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 225454,
       "name": "Skin to Skin",
       "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
-        "name": "U Lyk My Style",
-        "url": "https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y"
-      },
-      "artists": [
-        {
-          "name": "Stacy N.K.R",
-          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "U Lyk My Style",
-      "url": "https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "House of LION BABE",
-        "url": "https://open.spotify.com/album/5IUfjrEOi16wUrxDArk0NQ"
-      },
-      "artists": [
-        {
-          "name": "LION BABE",
-          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
-        }
-      ],
-      "duration_ms": 226451,
-      "name": "On The Low",
-      "url": "https://open.spotify.com/track/0TvWlnaVTQK0R5eE8Q8iyi"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
         "name": "Can't Afford Me",
         "url": "https://open.spotify.com/album/5fvbVCtflFWtKsOpidiAqw"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 218424,
       "name": "Can't Afford Me",
       "url": "https://open.spotify.com/track/4yivH4KJCrvjOEL4ydbOMi"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
+        "name": "House of LION BABE",
+        "url": "https://open.spotify.com/album/5IUfjrEOi16wUrxDArk0NQ"
+      },
+      "artists": [
+        {
+          "name": "LION BABE",
+          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
+        }
+      ],
+      "duration_ms": 226451,
+      "name": "On The Low",
+      "url": "https://open.spotify.com/track/0TvWlnaVTQK0R5eE8Q8iyi"
     },
     {
       "added_at": "2024-10-25 15:55:35",

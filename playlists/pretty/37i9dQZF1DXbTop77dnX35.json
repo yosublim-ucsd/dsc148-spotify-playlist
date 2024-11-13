@@ -1,12 +1,12 @@
 {
   "description": "New Music from FAVE  and more ",
-  "num_followers": 84326,
+  "num_followers": 84414,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy1UvAAAAAAZyoJIzkYuS8CH/QtzRVGi",
+  "snapshot_id": "ZzMTcwAAAACVH08DmnncA4A9knnETSAL",
   "tracks": [
     {
       "added_at": "2024-11-08 00:01:00",
@@ -56,7 +56,7 @@
           "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 170377,
+      "duration_ms": 169811,
       "name": "Sooner",
       "url": "https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O"
     },
@@ -291,38 +291,6 @@
       "duration_ms": 177000,
       "name": "Ebube (Odeshi)",
       "url": "https://open.spotify.com/track/1sTChGG6y7qro0NOpnUAWA"
-    },
-    {
-      "added_at": "2024-11-08 00:01:00",
-      "album": {
-        "name": "Been a Minute",
-        "url": "https://open.spotify.com/album/0lpoxGl1Vj5uRYi81sVuR1"
-      },
-      "artists": [
-        {
-          "name": "Apex Village",
-          "url": "https://open.spotify.com/artist/2ARvKBDt3jOQooc73rI2Y2"
-        },
-        {
-          "name": "Laime",
-          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
-        },
-        {
-          "name": "Aguero Banks",
-          "url": "https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX"
-        },
-        {
-          "name": "Marv OTM",
-          "url": "https://open.spotify.com/artist/6d8xfrC9LQGafSliHHxEZq"
-        },
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 190712,
-      "name": "Been a Minute",
-      "url": "https://open.spotify.com/track/5eUO4xACoGIO45q2ZBaRpl"
     },
     {
       "added_at": "2024-11-08 00:01:00",

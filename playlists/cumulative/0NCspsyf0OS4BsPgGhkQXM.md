@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,102 songs - 2 day 8 hr 51 min
+1,103 songs - 2 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [if u want me](https://open.spotify.com/track/4kupKSEh2N586EvBClD0wi) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF), [Daiela](https://open.spotify.com/artist/44whqkFHSInFDnpZ4xsTG6) | [if u want me](https://open.spotify.com/album/6RxwwgN2lzj8N7PnDKrUTF) | 1:40 | 2024-07-22 |  |
 | [IMMORTAL](https://open.spotify.com/track/0bKSDHj1UbeHkoAp7DDvx9) | [AENEAS](https://open.spotify.com/artist/0jxe1oY7DFUhgw97SFrKe5), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [IMMORTAL](https://open.spotify.com/album/18PQAswvtOmLzJqmIt09Dq) | 3:18 | 2023-07-07 | 2023-09-09 |
 | [Import Tuner](https://open.spotify.com/track/3mUSP6Ln9vcpdWjxXmXnfi) | [shxde](https://open.spotify.com/artist/6rCnAlUYZj7i19NEeRlwCr) | [Import Tuner](https://open.spotify.com/album/21qkQkz1fYketSDDNZhPNd) | 3:12 | 2023-06-09 | 2023-07-22 |
+| [In My Bones](https://open.spotify.com/track/2YoWM3j6C41afmEXqiKaNV) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [CHPTR.](https://open.spotify.com/artist/15ha0mOZUeMNOMJuL9ea3e) | [In My Bones](https://open.spotify.com/album/2NQM7lP9XRO7JY0QrdJUia) | 3:46 | 2024-11-12 |  |
 | [In My Dreams](https://open.spotify.com/track/6ZHPUfO3lFuYEA7yCBBi0m) | [BB Cooper](https://open.spotify.com/artist/2J1QfFspvaEyOJ4w4GhLGi) | [In My Dreams](https://open.spotify.com/album/7wSgLKelqFenbjGxEfN3NP) | 2:41 | 2022-03-18 | 2022-04-19 |
 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 | 2022-11-22 | 2023-05-04 |
 | [In The End](https://open.spotify.com/track/0TljHP6WiN2kOoUEShqJlW) | [NOES](https://open.spotify.com/artist/12BrYQYprJ6GNAA4vgMsET), [Madishu](https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2), [ELECTRA](https://open.spotify.com/artist/1pyZhm5iHvSKoeNTjNI2aL) | [In The End](https://open.spotify.com/album/3HRiqNfBuCrAQOFWafJZHM) | 2:58 | 2023-04-10 | 2023-06-03 |

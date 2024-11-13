@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 200440,
       "name": "Boy Meets Girl",
       "url": "https://open.spotify.com/track/1AEKR4Qb9RhiFndpZfcwzB"
@@ -736,6 +736,28 @@
       "duration_ms": 359613,
       "name": "Need Your Love So Bad",
       "url": "https://open.spotify.com/track/1uqxx16TcNhCdVIlDsRBVE"
+    },
+    {
+      "album": {
+        "name": "Blues Experience",
+        "url": "https://open.spotify.com/album/4WAq1gvzRrbbcS7LwMGQS0"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Mick Fleetwood",
+          "url": "https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359613,
+      "name": "Need Your Love So Bad",
+      "url": "https://open.spotify.com/track/5n0TLVYLOlLps7MRdTx7OM"
     },
     {
       "album": {

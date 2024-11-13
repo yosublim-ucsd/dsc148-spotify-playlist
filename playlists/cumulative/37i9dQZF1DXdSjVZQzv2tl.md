@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Maiara & Maraísa
 
-263 songs - 12 hr 23 min
+264 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Cabelo Loiro \(F&J 10 Anos\) \- Ao Vivo](https://open.spotify.com/track/2Qx8g3zoHsi0GvtYCCAFAT) | [Fiduma & Jeca](https://open.spotify.com/artist/2h73KyGixa4A1xlhcxjpG1) | [Cabelo Loiro \(F&J 10 Anos\) \[Ao Vivo\]](https://open.spotify.com/album/3pOoU8C3ThxBi1mdnNiazx) | 2:56 | 2024-08-02 | 2024-10-18 |
 | [Calafrio \(feat\. Henrique & Juliano\) \- Ao Vivo \| Bônus Track](https://open.spotify.com/track/2pRjaIcGc9LOmu7x9XMswA) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Sem Contra\-Indicação \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/4cmnBc1SViY9M3Rgh2LgFi) | 3:12 | 2023-11-10 | 2024-08-03 |
 | [Calculista](https://open.spotify.com/track/3tEaSuDA0eWnIF8ari2Xly) | [Dom Vittor & Gustavo](https://open.spotify.com/artist/36CiwS6BaZffBHzjJL8y6N), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Calculista](https://open.spotify.com/album/6KCcAGSlLAlUo3nGAQqWMy) | 2:38 | 2021-12-31 | 2022-05-20 |
+| [Cantada Boba \- Ao Vivo](https://open.spotify.com/track/2gfn28JSINCJGLrUimmu0l) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Check\-In \(Ao Vivo\)](https://open.spotify.com/album/5Cs1VjhgG8FmA5rv5iXe3r) | 3:03 | 2024-11-12 |  |
 | [Canudinho \- Ao Vivo](https://open.spotify.com/track/6AENBD8I0mDGglFqrRZGu7) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Canudinho \(Ao Vivo\)](https://open.spotify.com/album/1w5McUqm1LoGFBynpndS6x) | 2:04 | 2023-09-15 | 2024-05-25 |
 | [Cara da Derrota \- Ao Vivo](https://open.spotify.com/track/2bWVxK5GlPtS4D3FcLjGgQ) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco Goiânia \(Ao Vivo\)](https://open.spotify.com/album/00jkZlcpl1OU9kZbgLqBMT) | 2:41 | 2022-12-16 | 2023-03-25 |
 | [Cavalo de Pau](https://open.spotify.com/track/74Le949TrZk4zwDjtWzH23) | [Bruno & Denner](https://open.spotify.com/artist/0jLROJ4FhMIKMF9XzlR5IZ), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Cavalo de Pau](https://open.spotify.com/album/2BDEQmIWBMZQg8BuGClF5y) | 2:44 | 2022-12-16 | 2024-02-03 |
@@ -106,7 +107,7 @@
 | [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [WS On Board \(Ao Vivo\)](https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6) | 2:15 | 2022-12-16 | 2023-03-10 |
 | [Eu Não Dou Conta \- Ao Vivo](https://open.spotify.com/track/6rpUGV7bcWW9ro65Bf8uYY) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Eu Não Dou Conta \(Ao Vivo\)](https://open.spotify.com/album/6UBLAsfIQMtOdWaDgpgz2G) | 2:49 | 2023-11-10 | 2024-08-10 |
 | [Eu Não Previ \- Ao Vivo em Goiânia](https://open.spotify.com/track/3S8M3mZGIc10IdtmNTsrjQ) | [Traia Véia](https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Traia Véia \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/73lR6Nivc8Qwu3Jym41CKg) | 2:14 | 2023-09-01 | 2024-07-19 |
-| [EU SOU SENTIMENTO](https://open.spotify.com/track/0HDMisLsuGNml98Xq7atpm) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [EU SOU SENTIMENTO](https://open.spotify.com/album/0ed41BFE41DcIFvnFkjK5V) | 3:06 | 2024-06-14 |  |
+| [EU SOU SENTIMENTO](https://open.spotify.com/track/0HDMisLsuGNml98Xq7atpm) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [EU SOU SENTIMENTO](https://open.spotify.com/album/0ed41BFE41DcIFvnFkjK5V) | 3:06 | 2024-06-14 | 2024-11-13 |
 | [Evento Cancelado \- Ao Vivo](https://open.spotify.com/track/11fqunD6qlOCrRd88kMOk6) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo\)](https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j) | 3:03 | 2022-05-27 | 2023-06-03 |
 | [Ex Alcoolizado \- Ao Vivo](https://open.spotify.com/track/2VATVdFqb7QqxfAcQPvNpc) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Israel & Rodolffo: Ao Vivo Em Brasília, Vol\. 3](https://open.spotify.com/album/33kS9T1bA6L7fosKns9fx6) | 2:42 | 2022-04-29 | 2023-02-16 |
 | [Ex dos Meus Sonhos \- Ao Vivo](https://open.spotify.com/track/7LUZT12r4xmwR1Kh8TJgjv) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco Goiânia \(Ao Vivo\)](https://open.spotify.com/album/00jkZlcpl1OU9kZbgLqBMT) | 3:02 | 2022-10-14 | 2023-01-28 |

@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 169704,
       "name": "Didn't We",
       "url": "https://open.spotify.com/track/2mDRMm2mnegdONfu6RviPx"
@@ -3310,7 +3310,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 140874,
       "name": "Goodbye Pork Pie Hat",
       "url": "https://open.spotify.com/track/4pwfhJMOpGRd3hABNPd1n2"
@@ -3778,7 +3778,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 182111,
       "name": "I got it secondhand",
       "url": "https://open.spotify.com/track/3EKA6gbbXL07UX9Txi9ad0"
@@ -4606,7 +4606,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 208000,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/3JSz6DZZBRSLhIr4LMIkDD"
@@ -5308,7 +5308,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 212435,
       "name": "Like Someone in Love",
       "url": "https://open.spotify.com/track/7HfS1TFqIaAO044jhCmNAl"
@@ -6910,7 +6910,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 177153,
       "name": "Once In A Serenade",
       "url": "https://open.spotify.com/track/6Ia3eru04MZCaWHSjXuf42"
@@ -6982,7 +6982,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 218833,
       "name": "One Hour Drive From Atlanta",
       "url": "https://open.spotify.com/track/7Elo3xzDlIrORsNFIm1cUb"
@@ -8674,7 +8674,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 362500,
       "name": "Spring Can Really Hang You Up The Most",
       "url": "https://open.spotify.com/track/0chVjrd8FC2hVUpPzZBfJu"
@@ -8984,6 +8984,24 @@
       "duration_ms": 159192,
       "name": "Street Of Dreams",
       "url": "https://open.spotify.com/track/783BlsF88Ae8b0Xs4ZDzQy"
+    },
+    {
+      "album": {
+        "name": "Streets of Paris",
+        "url": "https://open.spotify.com/album/5T4vkZytV2bnm7jj84R4tb"
+      },
+      "artists": [
+        {
+          "name": "Timothy Reisen",
+          "url": "https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179662,
+      "name": "Streets of Paris",
+      "url": "https://open.spotify.com/track/5YyaTUkYbrr6iAULOO7aD9"
     },
     {
       "album": {
@@ -9725,6 +9743,24 @@
     },
     {
       "album": {
+        "name": "The Things We Did Last Summer",
+        "url": "https://open.spotify.com/album/1n7g64iKvEZsnXg6LyjUpW"
+      },
+      "artists": [
+        {
+          "name": "Einar Magnusson",
+          "url": "https://open.spotify.com/artist/2sXtKNi7nnKt8XkKX4Agag"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184742,
+      "name": "The Things We Did Last Summer",
+      "url": "https://open.spotify.com/track/2kZE2oq2A6IdoXFxNEVQwV"
+    },
+    {
+      "album": {
         "name": "The Time Is Now",
         "url": "https://open.spotify.com/album/3IhrTBiy2hu1lxLvJXyqAr"
       },
@@ -10172,6 +10208,24 @@
       "duration_ms": 172835,
       "name": "Two Sleepy People",
       "url": "https://open.spotify.com/track/7udQZdxalcTkCugZmyRCxr"
+    },
+    {
+      "album": {
+        "name": "Unbeknownst",
+        "url": "https://open.spotify.com/album/12Qv5Obtsk7cutlgMIpKcV"
+      },
+      "artists": [
+        {
+          "name": "Graydon Poole",
+          "url": "https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203435,
+      "name": "Unbeknownst",
+      "url": "https://open.spotify.com/track/2WuaID6xrrXLzWthSrSQIG"
     },
     {
       "album": {

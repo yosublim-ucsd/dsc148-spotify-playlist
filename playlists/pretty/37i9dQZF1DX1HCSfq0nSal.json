@@ -1,6 +1,6 @@
 {
   "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Duki",
-  "num_followers": 867313,
+  "num_followers": 867297,
   "original_name": "PEGAO",
   "owner": {
     "name": "Spotify",
@@ -134,9 +134,13 @@
         {
           "name": "Clarent",
           "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         }
       ],
-      "duration_ms": 171428,
+      "duration_ms": 240000,
       "name": "IA",
       "url": "https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo"
     },

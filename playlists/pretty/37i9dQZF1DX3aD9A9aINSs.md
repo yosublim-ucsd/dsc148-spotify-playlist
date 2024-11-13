@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Simge Pınar
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,522 likes - 54 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,540 likes - 53 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,11 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 46 | [Bu Ne Bela](https://open.spotify.com/track/3oWagFbYIZ7kvJy7niOCi5) | [Giz](https://open.spotify.com/artist/4xHMxTG1wa06uHMezG7Hfs) | [Bu Ne Bela](https://open.spotify.com/album/4uZKjVzHBK4xa91rQYdvrT) | 2:35 |
 | 47 | [Özledin mi Sen de?](https://open.spotify.com/track/2iEqZuWvVDD6dcR9CAImds) | [Ceyda Karadeniz](https://open.spotify.com/artist/1ku2XLDVzNGNnlT7jBSssA) | [Özledin mi Sen de?](https://open.spotify.com/album/0OQJ2UnyBJlNZO3DI7D2Fc) | 2:43 |
 | 48 | [Ben Yanıldım](https://open.spotify.com/track/3j8M5ON91qpVuvyqiM5yl5) | [Cemre Kıralioğlu](https://open.spotify.com/artist/6VA3HtSeoLzgycaQygAamc) | [Ben Yanıldım](https://open.spotify.com/album/4eEAnRsftmuXuhFWkm9tdr) | 2:14 |
-| 49 | [Alaaddin](https://open.spotify.com/track/7CMBLeVj36I0yHVsGCDzAB) | [Tuana Tetik](https://open.spotify.com/artist/4hVkWQ0iAHxtfV6TSARSxR) | [Alaaddin](https://open.spotify.com/album/18bzdTfekL5mXeYrTeHB8n) | 2:46 |
-| 50 | [Üstüme Gelme](https://open.spotify.com/track/0L56KWG2k4BvH5MLVvJbQE) | [Esra Sezer](https://open.spotify.com/artist/24Sd3J1rwzBXULxVin8U0L) | [Üstüme Gelme](https://open.spotify.com/album/3Com9vFpR3OfsMY6WFBCem) | 2:28 |
-| 51 | [Kayıp Yolcu](https://open.spotify.com/track/7vAVGx9yTL31xIu5sBZycq) | [Merve Demirci](https://open.spotify.com/artist/1Ky2PiE9IMwMQ9pfs5SbFp) | [Kayıp Yolcu](https://open.spotify.com/album/6bYv3n3GHQ3Fmt8yYn2UYL) | 3:12 |
-| 52 | [Çöpçüler](https://open.spotify.com/track/3Mj1V9zwJpq7xtnaeLpVga) | [Nihan Belgin](https://open.spotify.com/artist/6v7zvtUlRA6xkUxFZqJnWw) | [Çöpçüler](https://open.spotify.com/album/0JEwaMcoUvCgjox56qy8na) | 2:51 |
-| 53 | [bi yol](https://open.spotify.com/track/1ddbGjxAWpshgbWoJ47Bu4) | [Gizem Kosif](https://open.spotify.com/artist/3Foixw44zgTLNs1ASHCR5I), [Eda Suluki](https://open.spotify.com/artist/1yAMATU04rAd820To5cmrb) | [bi yol](https://open.spotify.com/album/7kCN8u6QddkzCFh4Uip5vI) | 2:38 |
-| 54 | [Eskisi Gibi](https://open.spotify.com/track/1im5jYc8hO0Gc2ZdaW7FRE) | [Maral Ataman](https://open.spotify.com/artist/6WeCkvYT5OHm3Pt6h8ZgXj) | [Eskisi Gibi](https://open.spotify.com/album/5uuaBKOJaYXloTIbDRvZNx) | 3:26 |
+| 49 | [Üstüme Gelme](https://open.spotify.com/track/0L56KWG2k4BvH5MLVvJbQE) | [Esra Sezer](https://open.spotify.com/artist/24Sd3J1rwzBXULxVin8U0L) | [Üstüme Gelme](https://open.spotify.com/album/3Com9vFpR3OfsMY6WFBCem) | 2:28 |
+| 50 | [Kayıp Yolcu](https://open.spotify.com/track/7vAVGx9yTL31xIu5sBZycq) | [Merve Demirci](https://open.spotify.com/artist/1Ky2PiE9IMwMQ9pfs5SbFp) | [Kayıp Yolcu](https://open.spotify.com/album/6bYv3n3GHQ3Fmt8yYn2UYL) | 3:12 |
+| 51 | [Çöpçüler](https://open.spotify.com/track/3Mj1V9zwJpq7xtnaeLpVga) | [Nihan Belgin](https://open.spotify.com/artist/6v7zvtUlRA6xkUxFZqJnWw) | [Çöpçüler](https://open.spotify.com/album/0JEwaMcoUvCgjox56qy8na) | 2:51 |
+| 52 | [bi yol](https://open.spotify.com/track/1ddbGjxAWpshgbWoJ47Bu4) | [Gizem Kosif](https://open.spotify.com/artist/3Foixw44zgTLNs1ASHCR5I), [Eda Suluki](https://open.spotify.com/artist/1yAMATU04rAd820To5cmrb) | [bi yol](https://open.spotify.com/album/7kCN8u6QddkzCFh4Uip5vI) | 2:38 |
+| 53 | [Eskisi Gibi](https://open.spotify.com/track/1im5jYc8hO0Gc2ZdaW7FRE) | [Maral Ataman](https://open.spotify.com/artist/6WeCkvYT5OHm3Pt6h8ZgXj) | [Eskisi Gibi](https://open.spotify.com/album/5uuaBKOJaYXloTIbDRvZNx) | 3:26 |
 
-Snapshot ID: `ZyqHUAAAAABeNK3/SCWdKXMHlqkAEGB0`
+Snapshot ID: `ZzM+AAAAAABw4RXatLRxhK5JIxxcDtFW`

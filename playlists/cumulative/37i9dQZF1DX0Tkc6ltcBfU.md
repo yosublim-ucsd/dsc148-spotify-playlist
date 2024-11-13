@@ -2,7 +2,7 @@
 
 ### [No Cap](https://open.spotify.com/playlist/37i9dQZF1DX0Tkc6ltcBfU)
 
-> The hottest out the south\. Welcome home, Young Thug!
+> The hottest out the south: Young Nudy
 
 1,646 songs - 3 day 5 hr 43 min
 

@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Mediapunta.",
-  "num_followers": 21446,
+  "num_followers": 21449,
   "original_name": "Rock 2024",
   "owner": {
     "name": "Spotify",
@@ -671,18 +671,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "La gran renuncia",
-        "url": "https://open.spotify.com/album/4UTY5ZCz3QWi9I9oMQOJ8O"
+        "name": "Pastillas",
+        "url": "https://open.spotify.com/album/5EdatqgVdyGGIlEp0wdOSs"
       },
       "artists": [
         {
-          "name": "Biznaga",
-          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
         }
       ],
-      "duration_ms": 146132,
-      "name": "La gran renuncia",
-      "url": "https://open.spotify.com/track/11CA4TGaCv8VuOpQ81CZGO"
+      "duration_ms": 150820,
+      "name": "Pastillas",
+      "url": "https://open.spotify.com/track/36mMs8JprenzdxI1FYa08k"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -723,18 +723,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Pastillas",
-        "url": "https://open.spotify.com/album/5EdatqgVdyGGIlEp0wdOSs"
+        "name": "La gran renuncia",
+        "url": "https://open.spotify.com/album/4UTY5ZCz3QWi9I9oMQOJ8O"
       },
       "artists": [
         {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+          "name": "Biznaga",
+          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
         }
       ],
-      "duration_ms": 150820,
-      "name": "Pastillas",
-      "url": "https://open.spotify.com/track/36mMs8JprenzdxI1FYa08k"
+      "duration_ms": 146132,
+      "name": "La gran renuncia",
+      "url": "https://open.spotify.com/track/11CA4TGaCv8VuOpQ81CZGO"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
-        "url": "https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj"
-      },
-      "artists": [
-        {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
-        }
-      ],
-      "duration_ms": 193423,
-      "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
-      "url": "https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "El Entusiasmo",
         "url": "https://open.spotify.com/album/5guyB3dpp9juIda0gs3wzO"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 178501,
       "name": "El Entusiasmo",
       "url": "https://open.spotify.com/track/5RxNfmqP8XBkOJKn7lwp12"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
+        "url": "https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj"
+      },
+      "artists": [
+        {
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+        }
+      ],
+      "duration_ms": 193423,
+      "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
+      "url": "https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Sangre Azul",
-        "url": "https://open.spotify.com/album/1OBsztOdnUhP3yKinajdEG"
-      },
-      "artists": [
-        {
-          "name": "LA \u00c9LITE",
-          "url": "https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov"
-        }
-      ],
-      "duration_ms": 144664,
-      "name": "Sangre Azul",
-      "url": "https://open.spotify.com/track/0LwHjm3aXZauQRs9jiyxeI"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "En Forma",
         "url": "https://open.spotify.com/album/0fzciua8WczmJgoztuyqjq"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 228251,
       "name": "En Forma",
       "url": "https://open.spotify.com/track/0XYCice34pKdrfOPSByAaw"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Sangre Azul",
+        "url": "https://open.spotify.com/album/1OBsztOdnUhP3yKinajdEG"
+      },
+      "artists": [
+        {
+          "name": "LA \u00c9LITE",
+          "url": "https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov"
+        }
+      ],
+      "duration_ms": 144664,
+      "name": "Sangre Azul",
+      "url": "https://open.spotify.com/track/0LwHjm3aXZauQRs9jiyxeI"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "\u00a1Que te pares!",
-        "url": "https://open.spotify.com/album/06EOLh4l8Omuj5Rotc1jB4"
-      },
-      "artists": [
-        {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
-        }
-      ],
-      "duration_ms": 193754,
-      "name": "\u00a1Que te pares!",
-      "url": "https://open.spotify.com/track/53E90T5TUDZ8nO3T0bYZE9"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Me paso por tu zona",
         "url": "https://open.spotify.com/album/3IdxqT0QLo5cBiSZOMOcUO"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 131272,
       "name": "Me paso por tu zona",
       "url": "https://open.spotify.com/track/6X4cGXgpvfDPiOV4Z1NCVV"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "\u00a1Que te pares!",
+        "url": "https://open.spotify.com/album/06EOLh4l8Omuj5Rotc1jB4"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "duration_ms": 193754,
+      "name": "\u00a1Que te pares!",
+      "url": "https://open.spotify.com/track/53E90T5TUDZ8nO3T0bYZE9"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Tu nombre es una puerta por cerrar",
-        "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
+        "name": "Mercer\u00edas las justas",
+        "url": "https://open.spotify.com/album/0wEyMh8gXEv9F9eWn0zLBE"
       },
       "artists": [
         {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+          "name": "Las Petunias",
+          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
         }
       ],
-      "duration_ms": 244164,
-      "name": "Tu nombre es una puerta por cerrar",
-      "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
+      "duration_ms": 193979,
+      "name": "Mercer\u00edas las justas",
+      "url": "https://open.spotify.com/track/1QJguXsnk8xBaGNA4ScnRA"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Mercer\u00edas las justas",
-        "url": "https://open.spotify.com/album/0wEyMh8gXEv9F9eWn0zLBE"
+        "name": "Tu nombre es una puerta por cerrar",
+        "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
       },
       "artists": [
         {
-          "name": "Las Petunias",
-          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
         }
       ],
-      "duration_ms": 193979,
-      "name": "Mercer\u00edas las justas",
-      "url": "https://open.spotify.com/track/1QJguXsnk8xBaGNA4ScnRA"
+      "duration_ms": 244164,
+      "name": "Tu nombre es una puerta por cerrar",
+      "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Perdiendo el tiempo",
-        "url": "https://open.spotify.com/album/6wl55GMGjbBCxabteJo17c"
-      },
-      "artists": [
-        {
-          "name": "Las Dianas",
-          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
-        }
-      ],
-      "duration_ms": 166528,
-      "name": "Perdiendo el tiempo",
-      "url": "https://open.spotify.com/track/0Aotvy8CxQXOc8FlXEoPBt"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Medalla De Oro A La Mejor Canci\u00f3n De Amor",
         "url": "https://open.spotify.com/album/3SHCY55PM5ueF7hoiFspgN"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 207181,
       "name": "Medalla De Oro A La Mejor Canci\u00f3n de Amor",
       "url": "https://open.spotify.com/track/5sRbPtGGRrkrtJdRU1p6G3"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Perdiendo el tiempo",
+        "url": "https://open.spotify.com/album/6wl55GMGjbBCxabteJo17c"
+      },
+      "artists": [
+        {
+          "name": "Las Dianas",
+          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
+        }
+      ],
+      "duration_ms": 166528,
+      "name": "Perdiendo el tiempo",
+      "url": "https://open.spotify.com/track/0Aotvy8CxQXOc8FlXEoPBt"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Quiero Saber",
-        "url": "https://open.spotify.com/album/4YVwm1cQG7D96z6MObjwUl"
-      },
-      "artists": [
-        {
-          "name": "Vicente Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN"
-        }
-      ],
-      "duration_ms": 169453,
-      "name": "Quiero Saber",
-      "url": "https://open.spotify.com/track/4apfAbVAi8AtDgc77naDNq"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Calle Plata",
         "url": "https://open.spotify.com/album/6vFve1hrFj2UBoSRW2beM9"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Quiero Saber",
+        "url": "https://open.spotify.com/album/4YVwm1cQG7D96z6MObjwUl"
+      },
+      "artists": [
+        {
+          "name": "Vicente Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN"
+        }
+      ],
+      "duration_ms": 169453,
+      "name": "Quiero Saber",
+      "url": "https://open.spotify.com/track/4apfAbVAi8AtDgc77naDNq"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Ya Estoy Mayor",
         "url": "https://open.spotify.com/album/6DEnljjYwXMgCu37ejugHP"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Poetas de Cristal",
-        "url": "https://open.spotify.com/album/32HNcTe1pDnv6yN13ltMsX"
-      },
-      "artists": [
-        {
-          "name": "Wet Iguanas",
-          "url": "https://open.spotify.com/artist/5Nh9UxAQ4Pf2e68ZPZHQHC"
-        }
-      ],
-      "duration_ms": 212333,
-      "name": "Poetas de Cristal",
-      "url": "https://open.spotify.com/track/1jOi7gDEJs0rHR6IYO60tA"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Sofisticado",
         "url": "https://open.spotify.com/album/38hAaDQw9itDaxurry5vrw"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 177887,
       "name": "Sofisticado",
       "url": "https://open.spotify.com/track/2UEtrZwOlCSgUpx0GYeTFY"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Poetas de Cristal",
+        "url": "https://open.spotify.com/album/32HNcTe1pDnv6yN13ltMsX"
+      },
+      "artists": [
+        {
+          "name": "Wet Iguanas",
+          "url": "https://open.spotify.com/artist/5Nh9UxAQ4Pf2e68ZPZHQHC"
+        }
+      ],
+      "duration_ms": 212333,
+      "name": "Poetas de Cristal",
+      "url": "https://open.spotify.com/track/1jOi7gDEJs0rHR6IYO60tA"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Entre las nubes",
-        "url": "https://open.spotify.com/album/2gNrMDx4aVs2XNolOvcRJJ"
-      },
-      "artists": [
-        {
-          "name": "Hiperg\u00e9minis",
-          "url": "https://open.spotify.com/artist/3lhTUYtRWfoqod7U1L10kn"
-        }
-      ],
-      "duration_ms": 155592,
-      "name": "Entre las nubes",
-      "url": "https://open.spotify.com/track/2ad3cLYt2XljALj2OQ1iii"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "El Campe\u00f3n en tus ojos",
         "url": "https://open.spotify.com/album/0D0LLeJuxDzwCRolaazjRC"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 163280,
       "name": "El Campe\u00f3n en tus ojos",
       "url": "https://open.spotify.com/track/6Y1Y3z4Uwv2oTzpEbA0q4j"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Entre las nubes",
+        "url": "https://open.spotify.com/album/2gNrMDx4aVs2XNolOvcRJJ"
+      },
+      "artists": [
+        {
+          "name": "Hiperg\u00e9minis",
+          "url": "https://open.spotify.com/artist/3lhTUYtRWfoqod7U1L10kn"
+        }
+      ],
+      "duration_ms": 155592,
+      "name": "Entre las nubes",
+      "url": "https://open.spotify.com/track/2ad3cLYt2XljALj2OQ1iii"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Madrid Nos Pertenece",
+        "url": "https://open.spotify.com/album/0kc3AM6xjhP4sgo0dzIFK6"
+      },
+      "artists": [
+        {
+          "name": "Biznaga",
+          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
+        }
+      ],
+      "duration_ms": 221532,
+      "name": "Madrid Nos Pertenece",
+      "url": "https://open.spotify.com/track/0wxl1J7P9LqVDsNJKjFMvv"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Ganas de verte",
         "url": "https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 174613,
       "name": "Ganas de verte",
       "url": "https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Madrid Nos Pertenece",
-        "url": "https://open.spotify.com/album/0kc3AM6xjhP4sgo0dzIFK6"
-      },
-      "artists": [
-        {
-          "name": "Biznaga",
-          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
-        }
-      ],
-      "duration_ms": 221532,
-      "name": "Madrid Nos Pertenece",
-      "url": "https://open.spotify.com/track/0wxl1J7P9LqVDsNJKjFMvv"
     },
     {
       "added_at": "2024-11-07 23:00:00",

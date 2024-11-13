@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 10115,
+  "num_followers": 10117,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-10-08 11:10:23",
       "album": {
-        "name": "I Am Yours",
-        "url": "https://open.spotify.com/album/3F2z1d1wAllQCboEkrQ054"
-      },
-      "artists": [
-        {
-          "name": "OVAN",
-          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
-        }
-      ],
-      "duration_ms": 211640,
-      "name": "I Am Yours",
-      "url": "https://open.spotify.com/track/0lZZ0Icm0dVmJHTpMCuy1H"
-    },
-    {
-      "added_at": "2024-10-08 11:10:23",
-      "album": {
         "name": "Before the Petals Fall",
         "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 229346,
       "name": "Before the Petals Fall",
       "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
+    },
+    {
+      "added_at": "2024-10-08 11:10:23",
+      "album": {
+        "name": "I Am Yours",
+        "url": "https://open.spotify.com/album/3F2z1d1wAllQCboEkrQ054"
+      },
+      "artists": [
+        {
+          "name": "OVAN",
+          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
+        }
+      ],
+      "duration_ms": 211640,
+      "name": "I Am Yours",
+      "url": "https://open.spotify.com/track/0lZZ0Icm0dVmJHTpMCuy1H"
     },
     {
       "added_at": "2024-10-08 11:10:23",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-10-08 11:10:23",
       "album": {
-        "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
-        "url": "https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ"
-      },
-      "artists": [
-        {
-          "name": "JEONG EUN JI",
-          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
-        }
-      ],
-      "duration_ms": 257666,
-      "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
-      "url": "https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY"
-    },
-    {
-      "added_at": "2024-10-08 11:10:23",
-      "album": {
         "name": "First Album",
         "url": "https://open.spotify.com/album/18IkKu7CLawL4WKsTYvRwb"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 248293,
       "name": "\ub110 \uc0dd\uac01\ud574",
       "url": "https://open.spotify.com/track/21TczfwT8EREWUCE7fsvOb"
+    },
+    {
+      "added_at": "2024-10-08 11:10:23",
+      "album": {
+        "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
+        "url": "https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ"
+      },
+      "artists": [
+        {
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+        }
+      ],
+      "duration_ms": 257666,
+      "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
+      "url": "https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY"
     },
     {
       "added_at": "2024-10-08 11:10:23",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-10-08 11:10:23",
       "album": {
+        "name": "Love me Again (This is a Campus Romance Series X KEN) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/56PpJzzAZQ58SwtRZqMSRv"
+      },
+      "artists": [
+        {
+          "name": "KEN",
+          "url": "https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6"
+        }
+      ],
+      "duration_ms": 187853,
+      "name": "Love me Again",
+      "url": "https://open.spotify.com/track/1sGfaUR47JwCMk5pj2gJZN"
+    },
+    {
+      "added_at": "2024-10-08 11:10:23",
+      "album": {
         "name": "What about (feat. PENOMECO)",
         "url": "https://open.spotify.com/album/1jaeVOAyGKNbE7I3xEL4ig"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 208690,
       "name": "What about (feat. PENOMECO)",
       "url": "https://open.spotify.com/track/6WdWUIfP8zAhkzdmknWjTd"
-    },
-    {
-      "added_at": "2024-10-08 11:10:23",
-      "album": {
-        "name": "Love me Again (This is a Campus Romance Series X KEN) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/56PpJzzAZQ58SwtRZqMSRv"
-      },
-      "artists": [
-        {
-          "name": "KEN",
-          "url": "https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6"
-        }
-      ],
-      "duration_ms": 187853,
-      "name": "Love me Again",
-      "url": "https://open.spotify.com/track/1sGfaUR47JwCMk5pj2gJZN"
     },
     {
       "added_at": "2024-10-08 11:10:23",

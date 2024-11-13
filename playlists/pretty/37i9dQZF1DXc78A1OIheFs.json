@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Fat Freddy's Drop",
-  "num_followers": 18590,
+  "num_followers": 18591,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "L.A.B VI",
-        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 254920,
-      "name": "Give Me That Feeling",
-      "url": "https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 246720,
       "name": "Nadja",
       "url": "https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "L.A.B VI",
+        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 254920,
+      "name": "Give Me That Feeling",
+      "url": "https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "How Will I Know",
+        "url": "https://open.spotify.com/album/2dIfFPrjC3D0DMr4KNfFc0"
+      },
+      "artists": [
+        {
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
+        }
+      ],
+      "duration_ms": 197840,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/1b6KsrknUg6EpziAvzjMo4"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "I DID IT (w/ Kanii & Anycia)",
         "url": "https://open.spotify.com/album/36C2ZuAPEWKfTps7yIG1oB"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 371200,
       "name": "Next Stop",
       "url": "https://open.spotify.com/track/1THi2wFMXol0p3lOpX9fZd"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "How Will I Know",
-        "url": "https://open.spotify.com/album/2dIfFPrjC3D0DMr4KNfFc0"
-      },
-      "artists": [
-        {
-          "name": "Corrella",
-          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
-        }
-      ],
-      "duration_ms": 197840,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/1b6KsrknUg6EpziAvzjMo4"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "Bigger",
+        "url": "https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 198071,
+      "name": "Bigger",
+      "url": "https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "Commit",
         "url": "https://open.spotify.com/album/5e7TomyDOkTyYSVJnu4sJo"
       },
@@ -871,38 +887,6 @@
       "duration_ms": 274838,
       "name": "Some Kind of Angel",
       "url": "https://open.spotify.com/track/1Hmj8zqZaub8poKxtDcaef"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Bigger",
-        "url": "https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 198071,
-      "name": "Bigger",
-      "url": "https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Run It Back",
-        "url": "https://open.spotify.com/album/58XdVll8nynryYv4602rua"
-      },
-      "artists": [
-        {
-          "name": "Home Brew",
-          "url": "https://open.spotify.com/artist/6pAk8OZVCX1nMiYgtAauSH"
-        }
-      ],
-      "duration_ms": 233413,
-      "name": "Drinking In The Morning",
-      "url": "https://open.spotify.com/track/0HicFSg1HAgkDPTUKFA9nu"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -939,6 +923,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "Run It Back",
+        "url": "https://open.spotify.com/album/58XdVll8nynryYv4602rua"
+      },
+      "artists": [
+        {
+          "name": "Home Brew",
+          "url": "https://open.spotify.com/artist/6pAk8OZVCX1nMiYgtAauSH"
+        }
+      ],
+      "duration_ms": 233413,
+      "name": "Drinking In The Morning",
+      "url": "https://open.spotify.com/track/0HicFSg1HAgkDPTUKFA9nu"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/2TpzrA8WwmRSYYu1v9drok"
       },
@@ -959,18 +959,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/7B1ganVFyMkIgD7GJpkWqu"
+        "name": "I Want More",
+        "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
       },
       "artists": [
         {
-          "name": "Alisa Xayalith",
-          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
+          "name": "Sons of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+        },
+        {
+          "name": "TAWAZ",
+          "url": "https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH"
         }
       ],
-      "duration_ms": 215571,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/0sYcnHKEcpUOJvYdtBAWnV"
+      "duration_ms": 177989,
+      "name": "I Want More",
+      "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -999,42 +1003,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "I Want More",
-        "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/7B1ganVFyMkIgD7GJpkWqu"
       },
       "artists": [
         {
-          "name": "Sons of Zion",
-          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
-        },
-        {
-          "name": "TAWAZ",
-          "url": "https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH"
+          "name": "Alisa Xayalith",
+          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
         }
       ],
-      "duration_ms": 177989,
-      "name": "I Want More",
-      "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "TREES: The Remix EP",
-        "url": "https://open.spotify.com/album/6pyl3320masvP5uc2SvXgK"
-      },
-      "artists": [
-        {
-          "name": "Avantdale Bowling Club",
-          "url": "https://open.spotify.com/artist/5Cs7q4jgkzn0pmj34qncqw"
-        },
-        {
-          "name": "DUSTY & GHOS",
-          "url": "https://open.spotify.com/artist/45QADodjk5TcKefkz4SEww"
-        }
-      ],
-      "duration_ms": 174799,
-      "name": "GOLDTOPS",
-      "url": "https://open.spotify.com/track/7mXUVbJYlfYg6frK2icDCD"
+      "duration_ms": 215571,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/0sYcnHKEcpUOJvYdtBAWnV"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1099,18 +1079,38 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Boys & Guitars",
-        "url": "https://open.spotify.com/album/7z3zXiBIHkhGuEqvAi84vf"
+        "name": "TREES: The Remix EP",
+        "url": "https://open.spotify.com/album/6pyl3320masvP5uc2SvXgK"
       },
       "artists": [
         {
-          "name": "Alisa Xayalith",
-          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
+          "name": "Avantdale Bowling Club",
+          "url": "https://open.spotify.com/artist/5Cs7q4jgkzn0pmj34qncqw"
+        },
+        {
+          "name": "DUSTY & GHOS",
+          "url": "https://open.spotify.com/artist/45QADodjk5TcKefkz4SEww"
         }
       ],
-      "duration_ms": 235524,
-      "name": "Boys & Guitars",
-      "url": "https://open.spotify.com/track/6LSHzrVhxFtkPfiS6HMPiK"
+      "duration_ms": 174799,
+      "name": "GOLDTOPS",
+      "url": "https://open.spotify.com/track/7mXUVbJYlfYg6frK2icDCD"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Hell Of A Night",
+        "url": "https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2"
+      },
+      "artists": [
+        {
+          "name": "LA WOMEN",
+          "url": "https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj"
+        }
+      ],
+      "duration_ms": 232615,
+      "name": "Hell Of A Night",
+      "url": "https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Hell Of A Night",
-        "url": "https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2"
-      },
-      "artists": [
-        {
-          "name": "LA WOMEN",
-          "url": "https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj"
-        }
-      ],
-      "duration_ms": 232615,
-      "name": "Hell Of A Night",
-      "url": "https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Handyman.",
         "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "right now, forever",
-        "url": "https://open.spotify.com/album/0hxvUFor8krta7TpudUW1U"
+        "name": "Boys & Guitars",
+        "url": "https://open.spotify.com/album/7z3zXiBIHkhGuEqvAi84vf"
       },
       "artists": [
         {
-          "name": "Lucian Rice",
-          "url": "https://open.spotify.com/artist/2xxHXXg3zOxOsdb3cODhgs"
+          "name": "Alisa Xayalith",
+          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
         }
       ],
-      "duration_ms": 204080,
-      "name": "FFS",
-      "url": "https://open.spotify.com/track/4bfWDJBebYt4IttaK1pk3m"
+      "duration_ms": 235524,
+      "name": "Boys & Guitars",
+      "url": "https://open.spotify.com/track/6LSHzrVhxFtkPfiS6HMPiK"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1219,22 +1203,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Wobble Out (feat. Kings)",
-        "url": "https://open.spotify.com/album/4NSj7L3io09LE0klyVzzAS"
+        "name": "right now, forever",
+        "url": "https://open.spotify.com/album/0hxvUFor8krta7TpudUW1U"
       },
       "artists": [
         {
-          "name": "Penny Black",
-          "url": "https://open.spotify.com/artist/1cBG4EwfCyJnZCsKxvIZ4h"
-        },
-        {
-          "name": "Kings",
-          "url": "https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp"
+          "name": "Lucian Rice",
+          "url": "https://open.spotify.com/artist/2xxHXXg3zOxOsdb3cODhgs"
         }
       ],
-      "duration_ms": 180978,
-      "name": "Wobble Out (feat. Kings)",
-      "url": "https://open.spotify.com/track/5KEBuUXw6U7NQOpdmDPphP"
+      "duration_ms": 204080,
+      "name": "FFS",
+      "url": "https://open.spotify.com/track/4bfWDJBebYt4IttaK1pk3m"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1259,18 +1239,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Driftwood",
-        "url": "https://open.spotify.com/album/3AelMW87ekVldc79T6ItmX"
+        "name": "Wobble Out (feat. Kings)",
+        "url": "https://open.spotify.com/album/4NSj7L3io09LE0klyVzzAS"
       },
       "artists": [
         {
-          "name": "Casual Healing",
-          "url": "https://open.spotify.com/artist/1NcvyN544YZpDO2ig9N0vi"
+          "name": "Penny Black",
+          "url": "https://open.spotify.com/artist/1cBG4EwfCyJnZCsKxvIZ4h"
+        },
+        {
+          "name": "Kings",
+          "url": "https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp"
         }
       ],
-      "duration_ms": 268123,
-      "name": "Driftwood",
-      "url": "https://open.spotify.com/track/6wRGndiL768o93yms0HdL8"
+      "duration_ms": 180978,
+      "name": "Wobble Out (feat. Kings)",
+      "url": "https://open.spotify.com/track/5KEBuUXw6U7NQOpdmDPphP"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1291,18 +1275,34 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "YOYOTTA",
-        "url": "https://open.spotify.com/album/2UI9xc0QpD3SC2lQOLbaFp"
+        "name": "Moneypenny",
+        "url": "https://open.spotify.com/album/4A4YRs6Sb1uXHKnWpgn8V6"
       },
       "artists": [
         {
-          "name": "Molly Payton",
-          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+          "name": "LA WOMEN",
+          "url": "https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj"
         }
       ],
-      "duration_ms": 216000,
-      "name": "You're On Your Own This Time, Again",
-      "url": "https://open.spotify.com/track/6refloGDPQzdncMkazz7ED"
+      "duration_ms": 258191,
+      "name": "Moneypenny",
+      "url": "https://open.spotify.com/track/6t6gN6WFTsHd0aDpdEgA5Y"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Driftwood",
+        "url": "https://open.spotify.com/album/3AelMW87ekVldc79T6ItmX"
+      },
+      "artists": [
+        {
+          "name": "Casual Healing",
+          "url": "https://open.spotify.com/artist/1NcvyN544YZpDO2ig9N0vi"
+        }
+      ],
+      "duration_ms": 268123,
+      "name": "Driftwood",
+      "url": "https://open.spotify.com/track/6wRGndiL768o93yms0HdL8"
     }
   ],
   "unique_name": "The Local List Aotearoa",

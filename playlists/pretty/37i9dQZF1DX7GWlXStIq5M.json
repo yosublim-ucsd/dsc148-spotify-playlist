@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Hiran",
-  "num_followers": 373078,
+  "num_followers": 373064,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,30 @@
     {
       "added_at": "2024-11-11 13:07:41",
       "album": {
+        "name": "Sua Preferida",
+        "url": "https://open.spotify.com/album/4RQvTnJzJbkK0nz6AMKE5O"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "duration_ms": 151636,
+      "name": "Sua Preferida",
+      "url": "https://open.spotify.com/track/0bREVcSAxXl3WgWsxzjJT1"
+    },
+    {
+      "added_at": "2024-11-11 13:07:41",
+      "album": {
         "name": "SEQU\u00caNCIA COLOCAD\u00c3O",
         "url": "https://open.spotify.com/album/5XEZADQba0OnNJGOGGXqjq"
       },
@@ -323,30 +347,6 @@
       "duration_ms": 197538,
       "name": "Piloto",
       "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
-    },
-    {
-      "added_at": "2024-11-11 13:07:41",
-      "album": {
-        "name": "Sua Preferida",
-        "url": "https://open.spotify.com/album/4RQvTnJzJbkK0nz6AMKE5O"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        }
-      ],
-      "duration_ms": 151636,
-      "name": "Sua Preferida",
-      "url": "https://open.spotify.com/track/0bREVcSAxXl3WgWsxzjJT1"
     },
     {
       "added_at": "2024-11-11 13:07:41",
@@ -419,26 +419,18 @@
     {
       "added_at": "2024-11-11 13:07:41",
       "album": {
-        "name": "Minha Arte",
-        "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
+        "name": "Futuro namorado",
+        "url": "https://open.spotify.com/album/5wZ7Ib1GxjJ00gm9h5ZEpB"
       },
       "artists": [
         {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
         }
       ],
-      "duration_ms": 223912,
-      "name": "Minha Arte",
-      "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
+      "duration_ms": 164017,
+      "name": "Futuro namorado",
+      "url": "https://open.spotify.com/track/5DExUeUuxaI5HrRd3hBAKp"
     },
     {
       "added_at": "2024-11-11 13:07:41",
@@ -463,18 +455,26 @@
     {
       "added_at": "2024-11-11 13:07:41",
       "album": {
-        "name": "Futuro namorado",
-        "url": "https://open.spotify.com/album/5wZ7Ib1GxjJ00gm9h5ZEpB"
+        "name": "Minha Arte",
+        "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
       },
       "artists": [
         {
-          "name": "Ana Laura Lopes",
-          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
         }
       ],
-      "duration_ms": 164017,
-      "name": "Futuro namorado",
-      "url": "https://open.spotify.com/track/5DExUeUuxaI5HrRd3hBAKp"
+      "duration_ms": 223912,
+      "name": "Minha Arte",
+      "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
     },
     {
       "added_at": "2024-11-11 13:07:41",
@@ -495,8 +495,8 @@
     {
       "added_at": "2024-11-11 13:07:41",
       "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
       },
       "artists": [
         {
@@ -504,9 +504,25 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 212608,
-      "name": "O Triste \u00c9 Que Eu Te Amo",
-      "url": "https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w"
+      "duration_ms": 175086,
+      "name": "Me Lambe",
+      "url": "https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ"
+    },
+    {
+      "added_at": "2024-11-11 13:07:41",
+      "album": {
+        "name": "FETICHE",
+        "url": "https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        }
+      ],
+      "duration_ms": 186815,
+      "name": "voc\u00ea foi a melhor",
+      "url": "https://open.spotify.com/track/6hd5MpG4Wsw8lzGupFegck"
     },
     {
       "added_at": "2024-11-11 13:07:41",
@@ -527,22 +543,6 @@
       "duration_ms": 667622,
       "name": "Lud Session #4: Morrer de Viver / Saudade Daquilo / T\u00f4 Querendo Mais / Sem Filtro / Embrasa",
       "url": "https://open.spotify.com/track/3PXJxUzZ6dn9ykFBFMmOnL"
-    },
-    {
-      "added_at": "2024-11-11 13:07:41",
-      "album": {
-        "name": "FETICHE",
-        "url": "https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol"
-      },
-      "artists": [
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        }
-      ],
-      "duration_ms": 186815,
-      "name": "voc\u00ea foi a melhor",
-      "url": "https://open.spotify.com/track/6hd5MpG4Wsw8lzGupFegck"
     },
     {
       "added_at": "2024-11-11 13:07:41",
@@ -627,8 +627,8 @@
     {
       "added_at": "2024-11-11 13:07:41",
       "album": {
-        "name": "SUPER",
-        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
       },
       "artists": [
         {
@@ -636,25 +636,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 175086,
-      "name": "Me Lambe",
-      "url": "https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ"
-    },
-    {
-      "added_at": "2024-11-11 13:07:41",
-      "album": {
-        "name": "Amor Traumatizado",
-        "url": "https://open.spotify.com/album/1mn2Kwp5yl0ztp2JkPGnKB"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 190858,
-      "name": "Amor Traumatizado",
-      "url": "https://open.spotify.com/track/6Tlsi4Nx5kVBkjKnAwxZVH"
+      "duration_ms": 212608,
+      "name": "O Triste \u00c9 Que Eu Te Amo",
+      "url": "https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w"
     },
     {
       "added_at": "2024-11-11 13:07:41",
@@ -691,6 +675,22 @@
       "duration_ms": 155805,
       "name": "to bem",
       "url": "https://open.spotify.com/track/4n7GVLsN4FBLyKhi0BySUq"
+    },
+    {
+      "added_at": "2024-11-11 13:07:41",
+      "album": {
+        "name": "Amor Traumatizado",
+        "url": "https://open.spotify.com/album/1mn2Kwp5yl0ztp2JkPGnKB"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 190858,
+      "name": "Amor Traumatizado",
+      "url": "https://open.spotify.com/track/6Tlsi4Nx5kVBkjKnAwxZVH"
     },
     {
       "added_at": "2024-11-11 13:07:41",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2024-11-11 13:07:41",
       "album": {
-        "name": "Sintomas de Prazer - Live",
-        "url": "https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4"
+        "name": "Rebordosa",
+        "url": "https://open.spotify.com/album/6spETHfCgTYjnmuVLAD3md"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
         }
       ],
-      "duration_ms": 151103,
-      "name": "Sintomas de Prazer - Live",
-      "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
+      "duration_ms": 162240,
+      "name": "Sem Ar",
+      "url": "https://open.spotify.com/track/6pPvyR6XrMkJysTugwPos7"
     },
     {
       "added_at": "2024-11-11 13:07:41",
@@ -1139,6 +1139,22 @@
       "duration_ms": 133140,
       "name": "Casi Casi",
       "url": "https://open.spotify.com/track/7n15qubhDdwZjrySpHO1ma"
+    },
+    {
+      "added_at": "2024-11-11 13:07:41",
+      "album": {
+        "name": "Sintomas de Prazer - Live",
+        "url": "https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 151103,
+      "name": "Sintomas de Prazer - Live",
+      "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
     },
     {
       "added_at": "2024-11-11 13:07:41",
@@ -1171,22 +1187,6 @@
       "duration_ms": 131052,
       "name": "Entrando na Dan\u00e7a",
       "url": "https://open.spotify.com/track/4sEQDt2e4NLsHkXYUdK9XZ"
-    },
-    {
-      "added_at": "2024-11-11 13:07:41",
-      "album": {
-        "name": "Rebordosa",
-        "url": "https://open.spotify.com/album/6spETHfCgTYjnmuVLAD3md"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 162240,
-      "name": "Sem Ar",
-      "url": "https://open.spotify.com/track/6pPvyR6XrMkJysTugwPos7"
     },
     {
       "added_at": "2024-11-11 13:07:41",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2024-11-11 13:07:41",
       "album": {
-        "name": "A Vida De Uma Gostosa",
-        "url": "https://open.spotify.com/album/3lKFu66OVJkAGww20AjXoN"
-      },
-      "artists": [
-        {
-          "name": "Ananda Paix\u00e3o",
-          "url": "https://open.spotify.com/artist/5LCSzaHtMSsMqXOEjnASiJ"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "A Vida De Uma Gostosa",
-      "url": "https://open.spotify.com/track/5kENXCermYSISd7l9rSBNf"
-    },
-    {
-      "added_at": "2024-11-11 13:07:41",
-      "album": {
         "name": "Multiverso",
         "url": "https://open.spotify.com/album/2DpokDGjyKPaWpeUwnLiT0"
       },
@@ -1343,18 +1323,22 @@
     {
       "added_at": "2024-11-11 13:07:41",
       "album": {
-        "name": "EXCE\u00c7\u00c3O!",
-        "url": "https://open.spotify.com/album/0XbhhW3f6ER6SfN9iiLNtt"
+        "name": "A Vida De Uma Gostosa",
+        "url": "https://open.spotify.com/album/3lKFu66OVJkAGww20AjXoN"
       },
       "artists": [
         {
-          "name": "Rafa Bicalho",
-          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
+          "name": "Ananda Paix\u00e3o",
+          "url": "https://open.spotify.com/artist/5LCSzaHtMSsMqXOEjnASiJ"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         }
       ],
-      "duration_ms": 178816,
-      "name": "EXCE\u00c7\u00c3O!",
-      "url": "https://open.spotify.com/track/1NVm3Ub1m8ONG4DLi6JHRY"
+      "duration_ms": 157200,
+      "name": "A Vida De Uma Gostosa",
+      "url": "https://open.spotify.com/track/5kENXCermYSISd7l9rSBNf"
     },
     {
       "added_at": "2024-11-11 13:07:41",
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2024-11-11 13:07:41",
       "album": {
+        "name": "EXCE\u00c7\u00c3O!",
+        "url": "https://open.spotify.com/album/0XbhhW3f6ER6SfN9iiLNtt"
+      },
+      "artists": [
+        {
+          "name": "Rafa Bicalho",
+          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
+        }
+      ],
+      "duration_ms": 178816,
+      "name": "EXCE\u00c7\u00c3O!",
+      "url": "https://open.spotify.com/track/1NVm3Ub1m8ONG4DLi6JHRY"
+    },
+    {
+      "added_at": "2024-11-11 13:07:41",
+      "album": {
         "name": "Santa",
         "url": "https://open.spotify.com/album/1k5iPfx1mPBQP0L2ZAxRZh"
       },
@@ -1419,30 +1419,6 @@
       "duration_ms": 198655,
       "name": "Santa",
       "url": "https://open.spotify.com/track/7mhvOdceNR4ntJ5dAzVaFu"
-    },
-    {
-      "added_at": "2024-11-11 13:07:41",
-      "album": {
-        "name": "Bora pra praia",
-        "url": "https://open.spotify.com/album/3p8V4ex0o4XreYjiCYtWPa"
-      },
-      "artists": [
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
-        },
-        {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
-        },
-        {
-          "name": "BORABAEZ",
-          "url": "https://open.spotify.com/artist/3hJUVrmL4KCQKvr9EEilVj"
-        }
-      ],
-      "duration_ms": 228349,
-      "name": "Bora pra praia",
-      "url": "https://open.spotify.com/track/4Mdr8VdHfOUb3LCeBPmq2m"
     },
     {
       "added_at": "2024-11-11 13:07:41",
@@ -1471,22 +1447,6 @@
     {
       "added_at": "2024-11-11 13:07:41",
       "album": {
-        "name": "Sussurro",
-        "url": "https://open.spotify.com/album/5G7IKY8aMOmZ1m3mlmXT95"
-      },
-      "artists": [
-        {
-          "name": "Nina Fernandes",
-          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
-        }
-      ],
-      "duration_ms": 190451,
-      "name": "Sussurro",
-      "url": "https://open.spotify.com/track/4p8s2KgHNZiHBs6CBVAPsX"
-    },
-    {
-      "added_at": "2024-11-11 13:07:41",
-      "album": {
         "name": "HOSTIL",
         "url": "https://open.spotify.com/album/3RD9Pfjgaa7bTIZyHKhZu3"
       },
@@ -1499,6 +1459,46 @@
       "duration_ms": 138457,
       "name": "EGOISTA",
       "url": "https://open.spotify.com/track/1snag2t9jUxPBrMuVGvQWo"
+    },
+    {
+      "added_at": "2024-11-11 13:07:41",
+      "album": {
+        "name": "Bora pra praia",
+        "url": "https://open.spotify.com/album/3p8V4ex0o4XreYjiCYtWPa"
+      },
+      "artists": [
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        },
+        {
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+        },
+        {
+          "name": "BORABAEZ",
+          "url": "https://open.spotify.com/artist/3hJUVrmL4KCQKvr9EEilVj"
+        }
+      ],
+      "duration_ms": 228349,
+      "name": "Bora pra praia",
+      "url": "https://open.spotify.com/track/4Mdr8VdHfOUb3LCeBPmq2m"
+    },
+    {
+      "added_at": "2024-11-11 13:07:41",
+      "album": {
+        "name": "Sussurro",
+        "url": "https://open.spotify.com/album/5G7IKY8aMOmZ1m3mlmXT95"
+      },
+      "artists": [
+        {
+          "name": "Nina Fernandes",
+          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
+        }
+      ],
+      "duration_ms": 190451,
+      "name": "Sussurro",
+      "url": "https://open.spotify.com/track/4p8s2KgHNZiHBs6CBVAPsX"
     },
     {
       "added_at": "2024-11-11 13:07:41",

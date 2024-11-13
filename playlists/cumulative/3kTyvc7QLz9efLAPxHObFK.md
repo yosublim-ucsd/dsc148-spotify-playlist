@@ -4,7 +4,7 @@
 
 > 
 
-1,824 songs - 4 day 1 hr 40 min
+1,825 songs - 4 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [ALIVE](https://open.spotify.com/track/0o4hLSDMxLDxYEmfSTeAeF) | [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC), [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b) | [ALIVE](https://open.spotify.com/album/3kUwIyEWSPD2AscBGoKy40) | 3:37 | 2022-08-09 |  |
 | [All For You](https://open.spotify.com/track/0afuzeTDwygCyKEywhmxz4) | [Lumex](https://open.spotify.com/artist/5mmH8aPIBykETuGLc97VOi) | [Stand Behind It](https://open.spotify.com/album/3pqIDBCjClAsY1Nx0dSyjt) | 3:00 | 2023-08-07 |  |
 | [All I Ever Fucked](https://open.spotify.com/track/6S2SkrXqJONX9nZQTCjtas) | [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4) | [All I Ever Fucked](https://open.spotify.com/album/5htUyieEXvLLHMq0mmfNYA) | 3:02 | 2022-09-27 |  |
+| [All I Need](https://open.spotify.com/track/1FTtU8pGRwEYNUjhAf0hWb) | [Avi8](https://open.spotify.com/artist/1GNl1iTql0c4P9brn1Fj6m), [Gearbox Digital](https://open.spotify.com/artist/32Eil9DTJeGj6fnhyXn9L6) | [All I Need](https://open.spotify.com/album/0dDuT61zl0ZK4i3WhmGQOu) | 3:25 | 2024-11-12 |  |
 | [All I Want](https://open.spotify.com/track/5RFomRrHLzVah8stzaDtpu) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7), [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w) | [The Wreckoning](https://open.spotify.com/album/18Mnzx0terGHSvFhPyzaCB) | 3:23 | 2023-07-14 |  |
 | [All Night Long](https://open.spotify.com/track/6TuXaSw561XGioEwNbznaT) | [Maltorian](https://open.spotify.com/artist/2eCUlOmEGLwJwpyQG17bA5) | [All Night Long](https://open.spotify.com/album/1EwtgUalTOJACZTnxX0mO5) | 3:06 | 2023-09-06 |  |
 | [All Night Long](https://open.spotify.com/track/0BLLqhxsqfprAGqunsWIV5) | [Zetamale](https://open.spotify.com/artist/7kDNYbq3Sz7yBk95R5wmR4) | [All Night Long](https://open.spotify.com/album/2NajpHWfiZA1xOX6Lp9BlT) | 4:00 | 2022-04-04 |  |

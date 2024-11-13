@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 43 likes - 815 songs - 2 day 16 hr 2 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 43 likes - 820 songs - 2 day 16 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -823,5 +823,10 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 813 | [Marcelo \(Energy Mix\)](https://open.spotify.com/track/6ceFLL9ozwtLdE5wfkx5F9) | [Clarita y Los Pecho Lobo](https://open.spotify.com/artist/4KrlgL4lSZr8Bq137jg034), [Whodamanny](https://open.spotify.com/artist/2qy5mylsZfOZcHYmzrOUIY), [Marcello Giordani](https://open.spotify.com/artist/2a6QLhIoQNwc1Q87Y6v2cU) | [Marcelo](https://open.spotify.com/album/1LcBqw606S6ecP8eqTMEHG) | 5:55 |
 | 814 | [手のひらの東京タワー](https://open.spotify.com/track/7tcop24Yr6auGwPMntLmZy) | [Seri Ishikawa](https://open.spotify.com/artist/3XL9BIKOjcccoxAVISLk0K) | [SERICEOUS NIGHT](https://open.spotify.com/album/7h7h6YOPJbKePI3osMaXWP) | 4:10 |
 | 815 | [The E Medley: Azteca Mozambique / Ah Ah / Cueros \- Live](https://open.spotify.com/track/5rOABYXOb0XfJXjHOMULZ4) | [Pete Escovedo](https://open.spotify.com/artist/3EXBBqXojqnitE9lPX0uUZ) | [Whatcha Gonna Do](https://open.spotify.com/album/660Q8reWp0pwGuHpF9BHWc) | 10:05 |
+| 816 | [Amale](https://open.spotify.com/track/7sSv8JLuFRQVuP1fkxJMV4) | [Jembaa Groove](https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs) | [Amale](https://open.spotify.com/album/79hVaSUdiBt2BZVdKevMke) | 4:57 |
+| 817 | [Son Montuno](https://open.spotify.com/track/7n8hYSBU0U7ZAy8cZdIiGU) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Acapulco](https://open.spotify.com/album/2s40kpu6uD0VownTOxAEuc) | 2:55 |
+| 818 | [Shakaboom](https://open.spotify.com/track/57hdy1BPfsLbIUqasY4us1) | [Tito Del Monte](https://open.spotify.com/artist/1q2oWTDN817eGcvUv2T61K) | [Invencible](https://open.spotify.com/album/4icsMRMLxJ0VBEFtxjAbt0) | 3:06 |
+| 819 | [Deep Down In Zanzibar](https://open.spotify.com/track/4EjzZPy2wXaRVIhU5ytysS) | [Afrodesia](https://open.spotify.com/artist/6hUdkBNGkpsiHn86bnw6LG), [Mystic Jungle](https://open.spotify.com/artist/0h3E1GEycmeNQ5USViniCF), [Whodamanny](https://open.spotify.com/artist/2qy5mylsZfOZcHYmzrOUIY) | [Afrodesia – Episode One](https://open.spotify.com/album/1Wu4MNQF4ybWoj8LzGRQUU) | 6:44 |
+| 820 | [Más Profundo](https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt) | [Bruxas](https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7) | [Más Profundo](https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx) | 6:12 |
 
-Snapshot ID: `AAADl3wbGm9p2u+6tYo3cxN4tXXof9pO`
+Snapshot ID: `AAADnHJ5GVTl6T+TicgjvAM8qWA0fHDg`

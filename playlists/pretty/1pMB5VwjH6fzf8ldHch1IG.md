@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: LISA.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 45,280 likes - 60 songs - 3 hr 23 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 45,279 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 | 16 | [Love Is \- Live in Kings Park Stadium, Durban, South Africa \- November 8, 1994](https://open.spotify.com/track/3KfTuaJpuGYkkMLk2Doiet) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Concert for a New South Africa \(Durban\) \[Live\]](https://open.spotify.com/album/2vYHp5hQNYCPj28AfJP7QE) | 6:45 |
 | 17 | [SPJ](https://open.spotify.com/track/0DcUSjMBZFzqy37knKFm0m) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [SPJ](https://open.spotify.com/album/3MFVcbp3tgK5fcVXRqvpal) | 3:30 |
 | 18 | [Mourir sur scène](https://open.spotify.com/track/5XEPaOuGZBShwnMMprcWfM) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [IMPOSTEUR](https://open.spotify.com/album/530vPuQlxS2kq2jNJIx59g) | 3:50 |
-| 19 | [Callin](https://open.spotify.com/track/1dKZCOJ6qCCBbuNCgXqcUH) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Callin](https://open.spotify.com/album/6bRjoBTTNgRbEU5vcKT30P) | 2:48 |
+| 19 | [Callin](https://open.spotify.com/track/1dKZCOJ6qCCBbuNCgXqcUH) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Callin](https://open.spotify.com/album/6bRjoBTTNgRbEU5vcKT30P) | 2:48 |
 | 20 | [Save Face Story](https://open.spotify.com/track/3OcGET39AhKjyeXAjyxTqi) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Slope](https://open.spotify.com/artist/24ExnkYwR4QoLamXGi4sOR) | [State Champs](https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v) | 3:19 |
 | 21 | [Jaded](https://open.spotify.com/track/2AuYtt0mlYy4vbK5oHDStV) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Jaded](https://open.spotify.com/album/3hl3AY6MmrQYph3gCg6BNV) | 8:50 |
 | 22 | [Am I Your Girl](https://open.spotify.com/track/6P3BLSxIWbcWF8cNkimmLy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY) | 4:14 |

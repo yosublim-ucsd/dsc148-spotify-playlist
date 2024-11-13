@@ -1,12 +1,12 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 203159,
+  "num_followers": 203182,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy/3gAAAAAAfmRjFUrXTn+gnc91tJ/gc",
+  "snapshot_id": "ZzFJAAAAAAD6L38ijwkVaNvpmlUBCQk4",
   "tracks": [
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 176253,
-      "name": "Una Peda",
-      "url": "https://open.spotify.com/track/4Owj7xIXIFyNYIfHzL1YV8"
+      "duration_ms": 202506,
+      "name": "Tonto Perdedor",
+      "url": "https://open.spotify.com/track/67WSWDDuEEmBIXTchwACs1"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 202506,
-      "name": "Tonto Perdedor",
-      "url": "https://open.spotify.com/track/67WSWDDuEEmBIXTchwACs1"
+      "duration_ms": 176253,
+      "name": "Una Peda",
+      "url": "https://open.spotify.com/track/4Owj7xIXIFyNYIfHzL1YV8"
     },
     {
       "added_at": null,
@@ -619,18 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vibras de Noche",
-        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
+        "name": "LA ODISEA",
+        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
       },
       "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 220383,
-      "name": "Te Quiero a Ti",
-      "url": "https://open.spotify.com/track/5OpHUq6Fo1qaUhU3imV6TK"
+      "duration_ms": 226568,
+      "name": "NO VOY A ODIARTE",
+      "url": "https://open.spotify.com/track/24pZpHXiVFiTdd3lNYUhiU"
     },
     {
       "added_at": null,
@@ -647,6 +651,22 @@
       "duration_ms": 398466,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/4cNOvC1mAjWEABZTxx2psa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vibras de Noche",
+        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 220383,
+      "name": "Te Quiero a Ti",
+      "url": "https://open.spotify.com/track/5OpHUq6Fo1qaUhU3imV6TK"
     },
     {
       "added_at": null,
@@ -683,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vibras de Noche",
-        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 292052,
-      "name": "\u00bfDonde Has Estado?",
-      "url": "https://open.spotify.com/track/6hklGK8K5sqP4IK2PZHGkV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
@@ -719,42 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA ODISEA",
-        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 226568,
-      "name": "NO VOY A ODIARTE",
-      "url": "https://open.spotify.com/track/24pZpHXiVFiTdd3lNYUhiU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Perdido",
-        "url": "https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 280750,
-      "name": "Amarte Asi",
-      "url": "https://open.spotify.com/track/58fymvrXAJyjttILYWy5G9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vibras de Noche",
         "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
       },
@@ -764,9 +732,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 245911,
-      "name": "Dame Tu Calor",
-      "url": "https://open.spotify.com/track/4tKEWCeBSeiSJVB9ZURgUz"
+      "duration_ms": 292052,
+      "name": "\u00bfDonde Has Estado?",
+      "url": "https://open.spotify.com/track/6hklGK8K5sqP4IK2PZHGkV"
     },
     {
       "added_at": null,
@@ -787,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Perdido",
+        "url": "https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 280750,
+      "name": "Amarte Asi",
+      "url": "https://open.spotify.com/track/58fymvrXAJyjttILYWy5G9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Veneno Mortal",
         "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 242442,
       "name": "Tentacion",
       "url": "https://open.spotify.com/track/1dccdhKRYUcjPVdMGjRQ1H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vibras de Noche",
+        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 245911,
+      "name": "Dame Tu Calor",
+      "url": "https://open.spotify.com/track/4tKEWCeBSeiSJVB9ZURgUz"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
       "duration_ms": 239420,
       "name": "Me Decepcionaste",
       "url": "https://open.spotify.com/track/3pyRKwok4VX601iNJTPgNl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vibras de Noche",
-        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 239874,
-      "name": "Ganas Que Te Tengo",
-      "url": "https://open.spotify.com/track/1sS5aMT5JWYSHwrTbxGGsn"
     },
     {
       "added_at": null,
@@ -871,6 +855,22 @@
       "duration_ms": 216685,
       "name": "Tres de la Ma\u00f1ana",
       "url": "https://open.spotify.com/track/2KZVUNMAbJ30Tvy9PkY7dB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vibras de Noche",
+        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 239874,
+      "name": "Ganas Que Te Tengo",
+      "url": "https://open.spotify.com/track/1sS5aMT5JWYSHwrTbxGGsn"
     },
     {
       "added_at": null,

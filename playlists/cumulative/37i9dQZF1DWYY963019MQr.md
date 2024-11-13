@@ -4,7 +4,7 @@
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-99 songs - 5 hr 29 min
+100 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [London Plane](https://open.spotify.com/track/38OyAHWRjAiges8oGXng5c) | [Samio](https://open.spotify.com/artist/0kYSqcF80y3iL7leXg9Gt7) | [Candlelight](https://open.spotify.com/album/3tsZCGdzSDK4ertVgrndhh) | 3:09 | 2022-10-27 |  |
 | [Long Ago And Far Away](https://open.spotify.com/track/2GN0YOypfok9DMvcLVsS4Z) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Long Ago And Far Away](https://open.spotify.com/album/7aEPMdry8sK5XdfhLXdy10) | 2:11 | 2023-03-16 |  |
 | [Lullaby](https://open.spotify.com/track/7HScvgX9U8pdX3fD1J6HYs) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [World's Fair](https://open.spotify.com/album/1YlIUjf2RiZfLzvK7Db7mi) | 3:00 | 2022-10-13 | 2023-09-16 |
+| [Maple Wood](https://open.spotify.com/track/5Y1dpMzVZWszG4QYAaN2o1) | [Echo Ark](https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz) | [Maple Wood](https://open.spotify.com/album/5aaxcaCJ5K7YxXi04P1aZ9) | 2:21 | 2024-11-12 |  |
 | [Mellow D](https://open.spotify.com/track/3pjT3Pa3yTlouX3VhkmC5z) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Berlin Baritone](https://open.spotify.com/album/20SPYDVOBZtlUWqzKXUUuv) | 3:56 | 2023-04-27 | 2024-04-19 |
 | [Mellow D](https://open.spotify.com/track/4cyKMZoxryulVelRY8Fj4G) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Mellow D](https://open.spotify.com/album/68X7GSqcU0rRDF737X94w5) | 3:56 | 2022-11-24 |  |
 | [Misty](https://open.spotify.com/track/51HXNZE27Z1HZv434alcCU) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Misty](https://open.spotify.com/album/3mm9MeaqIKonEcINmU4boS) | 1:42 | 2023-02-16 | 2023-09-16 |

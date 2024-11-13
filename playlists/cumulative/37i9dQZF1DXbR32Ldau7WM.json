@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now!  Cover: Tokyo Ska Paradise Orchestra",
+  "description": "The biggest rock artists in Japan right now!  Cover: Yuma Abe",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -414,6 +414,28 @@
       "duration_ms": 279511,
       "name": "All Things Must Pass",
       "url": "https://open.spotify.com/track/37qSnbTvs6F7nN7cHL5N54"
+    },
+    {
+      "album": {
+        "name": "All We Have feat. Masato(coldrain)",
+        "url": "https://open.spotify.com/album/04qhwj8qQxCjnqUtDpgXM8"
+      },
+      "artists": [
+        {
+          "name": "Nothing\u2019s Carved In Stone",
+          "url": "https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb"
+        },
+        {
+          "name": "Masato(coldrain)",
+          "url": "https://open.spotify.com/artist/4f9hD6gIbmsHoQw9MFMnP8"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256674,
+      "name": "All We Have feat. Masato(coldrain)",
+      "url": "https://open.spotify.com/track/2Ie1vfWEVt63G0FIGETwe0"
     },
     {
       "album": {
@@ -1550,7 +1572,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 161160,
       "name": "BULLDOZER",
       "url": "https://open.spotify.com/track/1CsDTErfzbeq61FESzsayD"
@@ -1860,6 +1882,24 @@
       "duration_ms": 173554,
       "name": "Crossroad",
       "url": "https://open.spotify.com/track/74F5UHKtbUtxye16GdYMp1"
+    },
+    {
+      "album": {
+        "name": "cyber",
+        "url": "https://open.spotify.com/album/4GWGXVMZekqE6qLyuWqs98"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153257,
+      "name": "cyber",
+      "url": "https://open.spotify.com/track/693HhHvefKWGnMSoyoYlZs"
     },
     {
       "album": {
@@ -4973,6 +5013,28 @@
     },
     {
       "album": {
+        "name": "KissKissKiss (feat.Maika Loubt\u00e9)",
+        "url": "https://open.spotify.com/album/6uT6RXXUOBY1uepgsJ1pO4"
+      },
+      "artists": [
+        {
+          "name": "TENDOUJI",
+          "url": "https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX"
+        },
+        {
+          "name": "Maika Loubt\u00e9",
+          "url": "https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200376,
+      "name": "KissKissKiss (feat.Maika Loubt\u00e9)",
+      "url": "https://open.spotify.com/track/3tn8Ib0AHdX2HPQPbO4NHk"
+    },
+    {
+      "album": {
         "name": "FIXION",
         "url": "https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0"
       },
@@ -5132,7 +5194,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 313500,
       "name": "Lament the Passing of Spring",
       "url": "https://open.spotify.com/track/23TobiAhn9SoC7b3OaVJaf"
@@ -8366,7 +8428,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 253126,
       "name": "ringo",
       "url": "https://open.spotify.com/track/27OOYYd22AmtfOtZgDy8vG"
@@ -9333,6 +9395,24 @@
     },
     {
       "album": {
+        "name": "see you, frail angel. sea adore you.",
+        "url": "https://open.spotify.com/album/4jTSkoy7zC33s4GS4znEba"
+      },
+      "artists": [
+        {
+          "name": "Homecomings",
+          "url": "https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "slowboat",
+      "url": "https://open.spotify.com/track/5rtc1aVVpRccHDNfagpZO2"
+    },
+    {
+      "album": {
         "name": "Fujin no Shozo (Portrait of a Lady)",
         "url": "https://open.spotify.com/album/6BQzYaKDVZSdJ8GqE91MsI"
       },
@@ -9456,7 +9536,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 243560,
       "name": "SOCIAL VIRUS",
       "url": "https://open.spotify.com/track/6SURzBzfgo2uGHuKUWiTu8"
@@ -10236,7 +10316,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 281733,
       "name": "Syncer",
       "url": "https://open.spotify.com/track/6UInfSod2RLOHwNKX13FLD"
@@ -12250,7 +12330,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 223242,
       "name": "You Already Know",
       "url": "https://open.spotify.com/track/6m4pryxgvHZsxXzzZO35hT"
@@ -13578,6 +13658,24 @@
       "duration_ms": 192915,
       "name": "\u306f\u3093\u306a\u308a\u30c9\u30e9\u30a4\u30d6",
       "url": "https://open.spotify.com/track/2SH1HfEgtNfNjbGHV6AdHo"
+    },
+    {
+      "album": {
+        "name": "\u3070\u3051\u3082\u306e",
+        "url": "https://open.spotify.com/album/4AMt8zitrd1RfjPQd2fxWq"
+      },
+      "artists": [
+        {
+          "name": "KANA-BOON",
+          "url": "https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217470,
+      "name": "\u3070\u3051\u3082\u306e",
+      "url": "https://open.spotify.com/track/4Xf2FDvrKNUquto5p6DCg5"
     },
     {
       "album": {
@@ -17457,6 +17555,24 @@
     },
     {
       "album": {
+        "name": "Hotel New Yuma",
+        "url": "https://open.spotify.com/album/1y8ykZ1TvC3fjO5CniyoH1"
+      },
+      "artists": [
+        {
+          "name": "Yuma Abe",
+          "url": "https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192555,
+      "name": "\u5922\u3092\u898b\u3088\u3046\u3088",
+      "url": "https://open.spotify.com/track/4REmArjERMGydCfp1o3jOS"
+    },
+    {
+      "album": {
         "name": "\u5922\u5e7b",
         "url": "https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ"
       },
@@ -19338,7 +19454,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 254733,
       "name": "\u72c2\u8a69\u66f2",
       "url": "https://open.spotify.com/track/305CVeZiltZSwVH9EJhwif"
@@ -20866,6 +20982,24 @@
       "duration_ms": 218173,
       "name": "\u9996\u306e\u306a\u3044\u5929\u4f7f",
       "url": "https://open.spotify.com/track/30wvREMOlejtoaW2pBzuUo"
+    },
+    {
+      "album": {
+        "name": "\u99ac\u9e7f\u306e\u4e00\u3064\u899a\u3048",
+        "url": "https://open.spotify.com/album/642fgL8oxHNZtNOsB2ZRBK"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243493,
+      "name": "\u99ac\u9e7f\u306e\u4e00\u3064\u899a\u3048",
+      "url": "https://open.spotify.com/track/6qXaLEEgVGhA3cQGfwAZa9"
     },
     {
       "album": {

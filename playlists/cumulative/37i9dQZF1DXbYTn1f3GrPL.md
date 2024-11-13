@@ -4,7 +4,7 @@
 
 > Música serena de piano para dormir.
 
-261 songs - 11 hr 14 min
+262 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Small Shelter](https://open.spotify.com/track/5Jo3ULRpXZqzc4bY8uhdFm) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Small Shelter](https://open.spotify.com/album/586Tbs7Rzob4HBU0eyCAId) | 1:41 | 2023-07-24 | 2023-08-22 |
 | [Snuggle Snore](https://open.spotify.com/track/2rt4PaD8ZPtTdF3nz15Sjc) | [Nell Watts](https://open.spotify.com/artist/3eKFzxUit6eaVMkmsfrI5Y) | [Snuggle Snore](https://open.spotify.com/album/249QCyyRj3rD7uy4zEwp9J) | 1:33 | 2023-05-03 | 2023-08-22 |
 | [Snuggled](https://open.spotify.com/track/75Zh8LLgK1jnGbHsAMN2vv) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [Snuggled](https://open.spotify.com/album/3xjUvrQEXkBv2V1NiMw3Pv) | 2:11 | 2023-12-11 |  |
+| [Soak](https://open.spotify.com/track/4RE7zeeKezgpDgNdkleavy) | [Quentin Noire](https://open.spotify.com/artist/1FXZ3lnXGrC1N5WGYOzmRm) | [Soak](https://open.spotify.com/album/1nW6jIUZl5rTEqYPSRiNAp) | 3:46 | 2024-11-12 |  |
 | [Softly](https://open.spotify.com/track/6zJ2ZTSniD1AA9haATbYf7) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Softly](https://open.spotify.com/album/1hpx4jwuWDg8ey7OujBBi4) | 2:06 | 2023-04-03 | 2023-04-19 |
 | [Solituned](https://open.spotify.com/track/2IBVV6781F86tJbtVP0M6k) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Solituned](https://open.spotify.com/album/3HtvOePMqTZ6XXSUbzL5gi) | 3:18 | 2023-04-03 | 2023-04-13 |
 | [Someplace Good](https://open.spotify.com/track/4l2aLCFBcycKU6Scz2esUs) | [Sounds from a Box](https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s) | [Someplace Good](https://open.spotify.com/album/4XjLBRHYd7E66x2pXxaDkB) | 3:28 | 2023-04-03 |  |

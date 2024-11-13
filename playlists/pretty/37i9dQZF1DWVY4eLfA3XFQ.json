@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Joshwa \ud83d\udc7d\ud83d\udc7d  50% techno, 50% house",
-  "num_followers": 638028,
+  "num_followers": 638084,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1513,22 +1513,6 @@
       "url": "https://open.spotify.com/track/2fMAc4QZwcOOuE441dPpYD"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Freaky Feed Me / Outlaws (feat. Audio Bullys & Olly Burden)",
-        "url": "https://open.spotify.com/album/0XIJC8hJTQVMZ6Ys6NfziW"
-      },
-      "artists": [
-        {
-          "name": "Anti Up",
-          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
-        }
-      ],
-      "duration_ms": 215192,
-      "name": "Freaky Feed Me",
-      "url": "https://open.spotify.com/track/28mfXJIaL1GT5J4EalGxJA"
-    },
-    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "Get Stupid",
@@ -1543,6 +1527,22 @@
       "duration_ms": 182325,
       "name": "Get Stupid",
       "url": "https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Freaky Feed Me / Outlaws (feat. Audio Bullys & Olly Burden)",
+        "url": "https://open.spotify.com/album/0XIJC8hJTQVMZ6Ys6NfziW"
+      },
+      "artists": [
+        {
+          "name": "Anti Up",
+          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+        }
+      ],
+      "duration_ms": 215192,
+      "name": "Freaky Feed Me",
+      "url": "https://open.spotify.com/track/28mfXJIaL1GT5J4EalGxJA"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1563,6 +1563,46 @@
       "duration_ms": 134170,
       "name": "Vibrate",
       "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/0Ie0qpcmFC4JKfBlu6smDx"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Divolly & Markward",
+          "url": "https://open.spotify.com/artist/6CEFAXiSvUDVs26MPyic13"
+        }
+      ],
+      "duration_ms": 177096,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/3vUcG8qu1KgThYYEYHWIti"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "GETAWAY",
+        "url": "https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Ellis Moss",
+          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
+        }
+      ],
+      "duration_ms": 163871,
+      "name": "GETAWAY",
+      "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1589,46 +1629,6 @@
       "url": "https://open.spotify.com/track/35Xp4gxNJljB9m2mSLLMvv"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "GETAWAY",
-        "url": "https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        },
-        {
-          "name": "Ellis Moss",
-          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
-        }
-      ],
-      "duration_ms": 163871,
-      "name": "GETAWAY",
-      "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/0Ie0qpcmFC4JKfBlu6smDx"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Divolly & Markward",
-          "url": "https://open.spotify.com/artist/6CEFAXiSvUDVs26MPyic13"
-        }
-      ],
-      "duration_ms": 177096,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/3vUcG8qu1KgThYYEYHWIti"
-    },
-    {
       "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Monaco EP",
@@ -1643,38 +1643,6 @@
       "duration_ms": 200307,
       "name": "Monaco",
       "url": "https://open.spotify.com/track/3jWk66DLMnlEiNRlmVH0Di"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "The Weekend / Control the Media",
-        "url": "https://open.spotify.com/album/3Xc6RzQVgNWt6LrQr4nwdI"
-      },
-      "artists": [
-        {
-          "name": "Anti Up",
-          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
-        }
-      ],
-      "duration_ms": 178921,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Carry Out",
-        "url": "https://open.spotify.com/album/1QOQ80MmlF3Fy3UDh2cG26"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Carry Out",
-      "url": "https://open.spotify.com/track/3elIx1XEFShZBFa4B6mpAS"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1701,6 +1669,22 @@
       "url": "https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N"
     },
     {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Carry Out",
+        "url": "https://open.spotify.com/album/1QOQ80MmlF3Fy3UDh2cG26"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Carry Out",
+      "url": "https://open.spotify.com/track/3elIx1XEFShZBFa4B6mpAS"
+    },
+    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Shapeshifter",
@@ -1721,6 +1705,22 @@
       "url": "https://open.spotify.com/track/0rb8i9s9WTj57KfdOctpq7"
     },
     {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "The Weekend / Control the Media",
+        "url": "https://open.spotify.com/album/3Xc6RzQVgNWt6LrQr4nwdI"
+      },
+      "artists": [
+        {
+          "name": "Anti Up",
+          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+        }
+      ],
+      "duration_ms": 178921,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
+    },
+    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Addiction / Yapper",
@@ -1739,26 +1739,6 @@
       "duration_ms": 211653,
       "name": "Addiction",
       "url": "https://open.spotify.com/track/7eJFz62eqPdmSooYHZWsip"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "What Is Life",
-        "url": "https://open.spotify.com/album/6GOT0vZhU1AAmvtfhqLtKU"
-      },
-      "artists": [
-        {
-          "name": "Anti Up",
-          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
-        },
-        {
-          "name": "rhys from the sticks",
-          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
-        }
-      ],
-      "duration_ms": 343922,
-      "name": "What Is Life (feat. rhys from the sticks)",
-      "url": "https://open.spotify.com/track/7bqV6hzUmA5PoGV8ajAKlb"
     },
     {
       "added_at": "2024-11-01 05:19:33",
@@ -1861,20 +1841,64 @@
       "url": "https://open.spotify.com/track/08owNR8LaRREKGk40OFX8r"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/3RLlP4ytZHIydqb4D3CBs7"
+        "name": "Dominator",
+        "url": "https://open.spotify.com/album/0d24GMCqZ7kyl5Q9xtJfaH"
       },
       "artists": [
         {
           "name": "Biscits",
           "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        },
+        {
+          "name": "Max Mylo",
+          "url": "https://open.spotify.com/artist/70IVXvEMUXy1k2esJoJdTK"
+        },
+        {
+          "name": "Human Resource",
+          "url": "https://open.spotify.com/artist/28LgRKFEN8GXeORbdViP7t"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/1InA5Yfl0vpkI4ljpiXlqt"
+      "duration_ms": 171883,
+      "name": "Dominator",
+      "url": "https://open.spotify.com/track/5ht7wW7dzpou0SuO2zraHA"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "What Is Life",
+        "url": "https://open.spotify.com/album/6GOT0vZhU1AAmvtfhqLtKU"
+      },
+      "artists": [
+        {
+          "name": "Anti Up",
+          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+        }
+      ],
+      "duration_ms": 343922,
+      "name": "What Is Life (feat. rhys from the sticks)",
+      "url": "https://open.spotify.com/track/7bqV6hzUmA5PoGV8ajAKlb"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Shaky",
+        "url": "https://open.spotify.com/album/423ScEexLkxNgdlxeFfT5L"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        }
+      ],
+      "duration_ms": 151874,
+      "name": "Shaky",
+      "url": "https://open.spotify.com/track/4hSDDnDiSaTSqIB8u9Zoap"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1895,22 +1919,6 @@
       "duration_ms": 214656,
       "name": "Midnight Train",
       "url": "https://open.spotify.com/track/5Pjzz6xQTDpKzj68jK9E4M"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Shaky",
-        "url": "https://open.spotify.com/album/423ScEexLkxNgdlxeFfT5L"
-      },
-      "artists": [
-        {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "Shaky",
-      "url": "https://open.spotify.com/track/4hSDDnDiSaTSqIB8u9Zoap"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1981,30 +1989,6 @@
       "url": "https://open.spotify.com/track/0H8dcNDVkHUEfQq0EvmMzR"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Dominator",
-        "url": "https://open.spotify.com/album/0d24GMCqZ7kyl5Q9xtJfaH"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        },
-        {
-          "name": "Max Mylo",
-          "url": "https://open.spotify.com/artist/70IVXvEMUXy1k2esJoJdTK"
-        },
-        {
-          "name": "Human Resource",
-          "url": "https://open.spotify.com/artist/28LgRKFEN8GXeORbdViP7t"
-        }
-      ],
-      "duration_ms": 171883,
-      "name": "Dominator",
-      "url": "https://open.spotify.com/track/5ht7wW7dzpou0SuO2zraHA"
-    },
-    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Push Me",
@@ -2019,6 +2003,42 @@
       "duration_ms": 150000,
       "name": "Push Me",
       "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/1e27rVcXkqV86rzXHSzSfW"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 166621,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/01Mw7ketwRgjUxkzyFogiI"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/3RLlP4ytZHIydqb4D3CBs7"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/1InA5Yfl0vpkI4ljpiXlqt"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -2043,26 +2063,6 @@
       "duration_ms": 220298,
       "name": "Okay Fine",
       "url": "https://open.spotify.com/track/67lB1vjJCFRmf9vNGWXSeg"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/1e27rVcXkqV86rzXHSzSfW"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 166621,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/01Mw7ketwRgjUxkzyFogiI"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -2133,20 +2133,20 @@
       "url": "https://open.spotify.com/track/5QvM8VE7pqBn73Av704IkA"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Done",
-        "url": "https://open.spotify.com/album/5vnp7ugD9XKjZED9hhULdE"
+        "name": "The Edge",
+        "url": "https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP"
       },
       "artists": [
         {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
         }
       ],
-      "duration_ms": 185624,
-      "name": "Done",
-      "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
+      "duration_ms": 153281,
+      "name": "The Edge",
+      "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2165,20 +2165,20 @@
       "url": "https://open.spotify.com/track/74h1irRDFwE22VUTPX25oR"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
+      "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The Edge",
-        "url": "https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP"
+        "name": "Done",
+        "url": "https://open.spotify.com/album/5vnp7ugD9XKjZED9hhULdE"
       },
       "artists": [
         {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
         }
       ],
-      "duration_ms": 153281,
-      "name": "The Edge",
-      "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
+      "duration_ms": 185624,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -2297,22 +2297,6 @@
       "url": "https://open.spotify.com/track/6QKveURtqwxUSX7XUEbEXN"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Rattlesnake",
-        "url": "https://open.spotify.com/album/3fziyDAl65gYPtuQVS5r2X"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/1M9VKp4ztBpgT0H2asoY6b"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Freakquency",
@@ -2331,6 +2315,22 @@
       "duration_ms": 179076,
       "name": "Freakquency",
       "url": "https://open.spotify.com/track/3Xu8Qppxx1UYyGxAmr14aG"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Rattlesnake",
+        "url": "https://open.spotify.com/album/3fziyDAl65gYPtuQVS5r2X"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/1M9VKp4ztBpgT0H2asoY6b"
     },
     {
       "added_at": "2024-09-13 04:01:00",

@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "fruitcake",
+        "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177365,
+      "name": "buy me presents",
+      "url": "https://open.spotify.com/track/3Cz6MZdwncB4qasyRPen4S"
+    },
+    {
+      "album": {
         "name": "Can You See (Spotify Singles - Holiday, Recorded at Spotify Studios NYC)",
         "url": "https://open.spotify.com/album/5a4CYbT8UXzcHfYDhW5aOy"
       },
@@ -4485,6 +4503,24 @@
     },
     {
       "album": {
+        "name": "A Legendary Christmas",
+        "url": "https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183173,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/2Gu7uiGb7ZDOQ1O9jZJQEH"
+    },
+    {
+      "album": {
         "name": "This Christmas",
         "url": "https://open.spotify.com/album/1NWj1i8hK3e08JDDrKkVLL"
       },
@@ -4496,7 +4532,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 147673,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/69ICDnEzZqopqoQ7LG2e2u"
@@ -5002,7 +5038,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 198626,
       "name": "You Deserve It All",
       "url": "https://open.spotify.com/track/2ZAEbbKPNf1Wv1fifB2nyd"

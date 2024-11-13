@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 182014,
+  "num_followers": 182024,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy/3gAAAAAD4A1uWbYmJ1dYzKcgzMB6D",
+  "snapshot_id": "ZzFJAAAAAADVczEbcEyk3h4WHJik5okI",
   "tracks": [
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Essential Janis Joplin",
+        "url": "https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 247773,
+      "name": "Misery'n",
+      "url": "https://open.spotify.com/track/5KVGXJpiVtfHmY6kAOVos5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
         "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
       },
@@ -540,25 +556,9 @@
           "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
         }
       ],
-      "duration_ms": 234366,
-      "name": "Long Black Train",
-      "url": "https://open.spotify.com/track/4kOb2Bu8UPRHpEJpza4hd5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Janis Joplin",
-        "url": "https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 247773,
-      "name": "Misery'n",
-      "url": "https://open.spotify.com/track/5KVGXJpiVtfHmY6kAOVos5"
+      "duration_ms": 70487,
+      "name": "\"How 'Bout This?\"",
+      "url": "https://open.spotify.com/track/2cLeyjgYro18QHgJA6N36h"
     },
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
-        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        },
-        {
-          "name": "Jorma Kaukonen",
-          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
-        }
-      ],
-      "duration_ms": 70487,
-      "name": "\"How 'Bout This?\"",
-      "url": "https://open.spotify.com/track/2cLeyjgYro18QHgJA6N36h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Big Brother & The Holding Company",
         "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 143360,
       "name": "Easy Rider",
       "url": "https://open.spotify.com/track/6uwJgwm1ipdr7JKNfEjjV1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "duration_ms": 234366,
+      "name": "Long Black Train",
+      "url": "https://open.spotify.com/track/4kOb2Bu8UPRHpEJpza4hd5"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Janis Joplin: The Woodstock Experience",
+        "url": "https://open.spotify.com/album/6U1PifBvvskUGjsJGeKGp4"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 297066,
+      "name": "Piece Of My Heart - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/6vP58GXFuniePZLJkJzk0g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
         "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 200205,
       "name": "Nobody Knows You When You're Down and Out",
       "url": "https://open.spotify.com/track/4xtxGynUKSGzHdW5iZ2uQE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Janis Joplin: The Woodstock Experience",
-        "url": "https://open.spotify.com/album/6U1PifBvvskUGjsJGeKGp4"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 297066,
-      "name": "Piece Of My Heart - Live at The Woodstock Music & Art Fair, August 17, 1969",
-      "url": "https://open.spotify.com/track/6vP58GXFuniePZLJkJzk0g"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
-        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        },
-        {
-          "name": "Jorma Kaukonen",
-          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
-        }
-      ],
-      "duration_ms": 237559,
-      "name": "Hesitation Blues",
-      "url": "https://open.spotify.com/track/58k1qXar0SYC8yb6nHAxsX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Janis Joplin",
         "url": "https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 296640,
       "name": "Farewell Song - Live at the Winterland Ballroom, San Francisco, CA - April 1968",
       "url": "https://open.spotify.com/track/6Xz7vJYqEjINFozPaJNDHk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "duration_ms": 237559,
+      "name": "Hesitation Blues",
+      "url": "https://open.spotify.com/track/58k1qXar0SYC8yb6nHAxsX"
     },
     {
       "added_at": null,

@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Til You're Ready",
+        "url": "https://open.spotify.com/album/79rKnowuMb3EDJJ061glp3"
+      },
+      "artists": [
+        {
+          "name": "Navvy",
+          "url": "https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Til You're Ready",
+      "url": "https://open.spotify.com/track/3wLlzPPBUJ7ThhmWD4l4gg"
+    },
+    {
+      "album": {
         "name": "Shiny New Thing",
         "url": "https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT"
       },

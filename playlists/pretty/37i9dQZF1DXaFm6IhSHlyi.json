@@ -1,6 +1,6 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 145553,
+  "num_followers": 145568,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Kabir Singh",
+        "url": "https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 284779,
+      "name": "Tujhe Kitna Chahne Lage",
+      "url": "https://open.spotify.com/track/5QtEFRYavs5S3GHtFEq7A4"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "VersuS",
         "url": "https://open.spotify.com/album/5DD7BStcOFBl3i9z1fyr7e"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 223800,
       "name": "Avant toi",
       "url": "https://open.spotify.com/track/4iNPp0BZ4lBu7bipdWLcWk"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Kabir Singh",
-        "url": "https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 284779,
-      "name": "Tujhe Kitna Chahne Lage",
-      "url": "https://open.spotify.com/track/5QtEFRYavs5S3GHtFEq7A4"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "7 (Part 2)",
+        "url": "https://open.spotify.com/album/1ls6wJRjbuR6QVKmb9p0Kl"
+      },
+      "artists": [
+        {
+          "name": "Artik & Asti",
+          "url": "https://open.spotify.com/artist/4ywf1iH1ruKEcfpCgfJvyA"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "\u041a\u0440\u044b\u043b\u044c\u044f",
+      "url": "https://open.spotify.com/track/2uPfnpMuL4poAmSKVx8QSy"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Can We Kiss Forever?",
         "url": "https://open.spotify.com/album/1B4ZnEKDAstlatD3ySlsBS"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 187898,
       "name": "Can We Kiss Forever?",
       "url": "https://open.spotify.com/track/1Av69kr9JitqPWo7WJLS5q"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "7 (Part 2)",
-        "url": "https://open.spotify.com/album/1ls6wJRjbuR6QVKmb9p0Kl"
-      },
-      "artists": [
-        {
-          "name": "Artik & Asti",
-          "url": "https://open.spotify.com/artist/4ywf1iH1ruKEcfpCgfJvyA"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "\u041a\u0440\u044b\u043b\u044c\u044f",
-      "url": "https://open.spotify.com/track/2uPfnpMuL4poAmSKVx8QSy"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr"
-      },
-      "artists": [
-        {
-          "name": "Haley Reinhart",
-          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
-        }
-      ],
-      "duration_ms": 173174,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Tum Jaisi Ho",
         "url": "https://open.spotify.com/album/05vRHIg3ZhYkO8Wlpb5yRk"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 145301,
       "name": "Tum Jaisi Ho",
       "url": "https://open.spotify.com/track/2ArTK3KizSrijvTlRzGtSs"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr"
+      },
+      "artists": [
+        {
+          "name": "Haley Reinhart",
+          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+        }
+      ],
+      "duration_ms": 173174,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Kahit Maputi Na Ang Buhok ko (From \"The Hows Of Us\")",
-        "url": "https://open.spotify.com/album/0v4UIlXB8pda8iP9vUdV25"
-      },
-      "artists": [
-        {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
-        }
-      ],
-      "duration_ms": 219689,
-      "name": "Kahit Maputi Na Ang Buhok ko - From \"The Hows Of Us\"",
-      "url": "https://open.spotify.com/track/7aW2GrNlteWTwQZxX6LNjT"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Lost Without You",
         "url": "https://open.spotify.com/album/0GNvEDf1HoEeYk6RBXxpn7"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 225076,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/3QlF2ExmrRP0RM7ffv7y0Q"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Kahit Maputi Na Ang Buhok ko (From \"The Hows Of Us\")",
+        "url": "https://open.spotify.com/album/0v4UIlXB8pda8iP9vUdV25"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "duration_ms": 219689,
+      "name": "Kahit Maputi Na Ang Buhok ko - From \"The Hows Of Us\"",
+      "url": "https://open.spotify.com/track/7aW2GrNlteWTwQZxX6LNjT"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2187,6 +2187,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 7",
+        "url": "https://open.spotify.com/album/65KeDeastFVIXcO7VNLudX"
+      },
+      "artists": [
+        {
+          "name": "April 2nd",
+          "url": "https://open.spotify.com/artist/6p2HEgiJp6Dr0DI9p5n7nr"
+        }
+      ],
+      "duration_ms": 234986,
+      "name": "The Hill of Yearning",
+      "url": "https://open.spotify.com/track/0oZRDruCnbV2W9Z6VZaJ1v"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "PINK PLANET",
         "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
       },
@@ -2299,22 +2315,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 7",
-        "url": "https://open.spotify.com/album/65KeDeastFVIXcO7VNLudX"
-      },
-      "artists": [
-        {
-          "name": "April 2nd",
-          "url": "https://open.spotify.com/artist/6p2HEgiJp6Dr0DI9p5n7nr"
-        }
-      ],
-      "duration_ms": 234986,
-      "name": "The Hill of Yearning",
-      "url": "https://open.spotify.com/track/0oZRDruCnbV2W9Z6VZaJ1v"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "#YOM",
         "url": "https://open.spotify.com/album/1XrRhkgWkLoajrI8NyltAE"
       },
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Hanggang Sa Huli (From \"24/7\")",
-        "url": "https://open.spotify.com/album/2C8rsZPS30jp7yaIjjROgO"
-      },
-      "artists": [
-        {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
-        }
-      ],
-      "duration_ms": 258906,
-      "name": "Hanggang Sa Huli - From \"24/7\"",
-      "url": "https://open.spotify.com/track/49ymBY89zdOGaw0Avp9g6L"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Forever & Always",
         "url": "https://open.spotify.com/album/0oSL02PWnFYXRDY9ShDCH1"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 222329,
       "name": "Forever & Always",
       "url": "https://open.spotify.com/track/7edEUxDTzj9pbHSIVHDyJ5"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Hanggang Sa Huli (From \"24/7\")",
+        "url": "https://open.spotify.com/album/2C8rsZPS30jp7yaIjjROgO"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "duration_ms": 258906,
+      "name": "Hanggang Sa Huli - From \"24/7\"",
+      "url": "https://open.spotify.com/track/49ymBY89zdOGaw0Avp9g6L"
     },
     {
       "added_at": "2022-10-17 15:00:00",

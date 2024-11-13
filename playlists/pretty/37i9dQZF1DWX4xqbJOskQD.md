@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 
 > The Mills Brothers, The Andrews Sisters and other classic vocal groups.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,923 likes - 45 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,924 likes - 45 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 27 | [I'm Forever Blowing Bubbles](https://open.spotify.com/track/5UhPIWJk8x5YuzoXelnfQi) | [The Merry Macs](https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH) | [The Merry Macs Sing Mairzy Doats](https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr) | 2:36 |
 | 28 | [Standing On the Corner](https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq) | [The Four Lads](https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3) | [16 Most Requested Songs](https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE) | 2:51 |
 | 29 | [Have You Heard](https://open.spotify.com/track/6mYzrb44QFhcNQKBKRJ4cl) | [The Duprees](https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS) | [The Coed Singles](https://open.spotify.com/album/5QqmvqhSefdfFRn6MLfZGL) | 2:31 |
-| 30 | [To the Aisle](https://open.spotify.com/track/08KiBWh7EreFKWKSv8SIrh) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [50 Best Hits](https://open.spotify.com/album/7eugEzpVGg4umQRaFD4ocg) | 2:44 |
-| 31 | [Early Autumn](https://open.spotify.com/track/5st46QqB3wCTdFPUso9lll) | [The King Sisters](https://open.spotify.com/artist/6Gsao94MioGNcDLFGFAlw7) | [Imagination](https://open.spotify.com/album/0N0IsbV6VEvnx6e6gmD9Qb) | 2:51 |
+| 30 | [Early Autumn](https://open.spotify.com/track/5st46QqB3wCTdFPUso9lll) | [The King Sisters](https://open.spotify.com/artist/6Gsao94MioGNcDLFGFAlw7) | [Imagination](https://open.spotify.com/album/0N0IsbV6VEvnx6e6gmD9Qb) | 2:51 |
+| 31 | [To the Aisle](https://open.spotify.com/track/08KiBWh7EreFKWKSv8SIrh) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [50 Best Hits](https://open.spotify.com/album/7eugEzpVGg4umQRaFD4ocg) | 2:44 |
 | 32 | [Shadow Waltz](https://open.spotify.com/track/7iCXh6rgmA7oAgDE6PR36B) | [The Hi\-Lo's](https://open.spotify.com/artist/2kWLLhh4T2mAW9kYuVbd7k) | [The Hi\-Lo's "Summertime"](https://open.spotify.com/album/3QOukFMGivyjt86gRBdi9G) | 2:54 |
 | 33 | [Dream](https://open.spotify.com/track/0AtVA7axXKVFnjQsN4xBIy) | [The Pied Pipers](https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd) | [What is This Thing Called Love?](https://open.spotify.com/album/0tn2qcrEjAcoBvWhZVZvjN) | 2:48 |
 | 34 | [Love On A Greyhound Bus](https://open.spotify.com/track/4wam2im1dxbWFVU5TjxF8C) | [The Dinning Sisters](https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h) | [The Very Best Of](https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz) | 2:53 |

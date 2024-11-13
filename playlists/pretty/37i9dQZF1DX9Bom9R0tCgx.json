@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 395649,
+  "num_followers": 395720,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -1299,6 +1299,30 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Ameno (Techno Mix)",
+        "url": "https://open.spotify.com/album/462dtvXo4JbizSYgI6wUPX"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "Roberto Molinaro",
+          "url": "https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9"
+        }
+      ],
+      "duration_ms": 150400,
+      "name": "Ameno (Techno Mix)",
+      "url": "https://open.spotify.com/track/4gTFHQpidAuSjo5voOV5cG"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Never Going Home Tonight (feat. Madison Love) [KAAZE Remix]",
         "url": "https://open.spotify.com/album/2GiWfaOx3fOzpC1bOr4aUm"
       },
@@ -1327,26 +1351,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Ameno (Techno Mix)",
-        "url": "https://open.spotify.com/album/462dtvXo4JbizSYgI6wUPX"
+        "name": "T.N.T. (Techno Remix)",
+        "url": "https://open.spotify.com/album/4NydermwrtbQyYQfsawidt"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Marnik",
-          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
-        },
-        {
-          "name": "Roberto Molinaro",
-          "url": "https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9"
+          "name": "Nic Johnston",
+          "url": "https://open.spotify.com/artist/573SWshgzKIZpBwaiDZdat"
         }
       ],
-      "duration_ms": 150400,
-      "name": "Ameno (Techno Mix)",
-      "url": "https://open.spotify.com/track/4gTFHQpidAuSjo5voOV5cG"
+      "duration_ms": 137473,
+      "name": "T.N.T. - Techno Remix",
+      "url": "https://open.spotify.com/track/6l514NhnJZJgHgYFeimsWs"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1371,22 +1387,6 @@
       "duration_ms": 151993,
       "name": "Melody Of The World",
       "url": "https://open.spotify.com/track/5f2MGMo8ARWb6WojaODeAY"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "T.N.T. (Techno Remix)",
-        "url": "https://open.spotify.com/album/4NydermwrtbQyYQfsawidt"
-      },
-      "artists": [
-        {
-          "name": "Nic Johnston",
-          "url": "https://open.spotify.com/artist/573SWshgzKIZpBwaiDZdat"
-        }
-      ],
-      "duration_ms": 137473,
-      "name": "T.N.T. - Techno Remix",
-      "url": "https://open.spotify.com/track/6l514NhnJZJgHgYFeimsWs"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1423,6 +1423,26 @@
       "duration_ms": 180000,
       "name": "Stumblin' In (LUNAX Remix)",
       "url": "https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Convivium",
+        "url": "https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        }
+      ],
+      "duration_ms": 133200,
+      "name": "Convivium",
+      "url": "https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1507,26 +1527,6 @@
       "duration_ms": 145032,
       "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
       "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Convivium",
-        "url": "https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
-        }
-      ],
-      "duration_ms": 133200,
-      "name": "Convivium",
-      "url": "https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Baian\u00e1",
-        "url": "https://open.spotify.com/album/3foBvekNqnihmlPoLZbjH2"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 142103,
-      "name": "Baian\u00e1",
-      "url": "https://open.spotify.com/track/2vmuR6Zh4WI4KRuRo1IMtq"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "No Time",
         "url": "https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI"
       },
@@ -1851,26 +1835,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Lift Me Up (feat. Kyozo)",
-        "url": "https://open.spotify.com/album/62dbLJwnEArDhNjiCFgMxA"
+        "name": "Baian\u00e1",
+        "url": "https://open.spotify.com/album/3foBvekNqnihmlPoLZbjH2"
       },
       "artists": [
         {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Kyozo",
-          "url": "https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v"
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
         }
       ],
-      "duration_ms": 233203,
-      "name": "Lift Me Up (feat. Kyozo)",
-      "url": "https://open.spotify.com/track/0IxBytxMiyOhfK8yvonEPp"
+      "duration_ms": 142103,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/2vmuR6Zh4WI4KRuRo1IMtq"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1895,6 +1871,30 @@
       "duration_ms": 105009,
       "name": "Mozart's Final Rave (Lacrimosa)",
       "url": "https://open.spotify.com/track/5PpS0qaJb2k4BzQA060Uys"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Lift Me Up (feat. Kyozo)",
+        "url": "https://open.spotify.com/album/62dbLJwnEArDhNjiCFgMxA"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Kyozo",
+          "url": "https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v"
+        }
+      ],
+      "duration_ms": 233203,
+      "name": "Lift Me Up (feat. Kyozo)",
+      "url": "https://open.spotify.com/track/0IxBytxMiyOhfK8yvonEPp"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -2051,26 +2051,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/3w0ZKUzyBG3hkwvV3RcOAw"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "longstoryshort",
-          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
-        }
-      ],
-      "duration_ms": 146718,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/1cs1kaN1LzB6bthOFH01Q2"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "My Body (feat. Y&M)",
         "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
       },
@@ -2087,6 +2067,26 @@
       "duration_ms": 160024,
       "name": "My Body (feat. Y&M)",
       "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/3w0ZKUzyBG3hkwvV3RcOAw"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        }
+      ],
+      "duration_ms": 146718,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/1cs1kaN1LzB6bthOFH01Q2"
     }
   ],
   "unique_name": "Bass Explosion",

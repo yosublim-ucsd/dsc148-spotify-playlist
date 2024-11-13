@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-210 songs - 10 hr 1 min
+212 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Cloudberry Fields](https://open.spotify.com/track/0WlvEO2qqQKxCw0gj3YdCC) | [Sam Sapphire](https://open.spotify.com/artist/7eMKNdNPKSpP3WeulzX4fz) | [Cloudberry Fields](https://open.spotify.com/album/7wCDMTG9yVQhGY8Vb6FyS4) | 2:08 | 2024-02-05 |  |
 | [Connemara](https://open.spotify.com/track/7JinB2F0516WbcPMtFepu6) | [Calan McIntyre](https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz) | [Connemara](https://open.spotify.com/album/5OkQ447PqYUX6t0zwSIhND) | 3:07 | 2023-09-29 |  |
 | [Currents](https://open.spotify.com/track/5pDfqYDr6sOiYcUqReOqV0) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Currents](https://open.spotify.com/album/6Le87TgUSamNkbE8DLOXx0) | 2:04 | 2023-02-28 |  |
+| [Cádiz](https://open.spotify.com/track/2fQTBDA81IyaYgtr2Gz4Wl) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Cádiz](https://open.spotify.com/album/5YBGQGNe1qX309BmK6eDFL) | 2:12 | 2024-11-12 |  |
 | [Da una persona cara](https://open.spotify.com/track/0B7YgaCYEmrUGpwV1zSBhN) | [Belle Margaux](https://open.spotify.com/artist/3WKsLlBJ9kQc0ccsuEuZdu) | [Da una persona cara](https://open.spotify.com/album/2N0O1JDj8QFgqFiJ9uIrc5) | 2:20 | 2023-09-29 |  |
 | [Dandelions](https://open.spotify.com/track/1HoCLME8rDSpksyIVgfs5w) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Dandelions](https://open.spotify.com/album/1StyA6SuWHuexqkYAEaJEA) | 2:23 | 2023-11-29 |  |
 | [dans le parc](https://open.spotify.com/track/2uEp6wdb5UNAYFNBkWmt3J) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [dans le parc](https://open.spotify.com/album/6pRsfveEQb6awaB89uGeIa) | 2:12 | 2024-08-20 |  |
@@ -175,6 +176,7 @@
 | [Smoothness](https://open.spotify.com/track/2Fn9MiptYoek7WhvXxoGdD) | [Nikola Zolkiewska](https://open.spotify.com/artist/0SA6z90K5j50moLpfjA5vC) | [Cinematic Beauty](https://open.spotify.com/album/1qz2IKRnTVNklb6LcuwXYN) | 2:33 | 2021-11-09 | 2022-02-01 |
 | [Snuggled](https://open.spotify.com/track/75Zh8LLgK1jnGbHsAMN2vv) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [Snuggled](https://open.spotify.com/album/3xjUvrQEXkBv2V1NiMw3Pv) | 2:11 | 2023-12-11 |  |
 | [So Still](https://open.spotify.com/track/5Oyts6S9nV0eKgpN8pZMQj) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [So Still](https://open.spotify.com/album/2r6SI58mqGIUTngRoGPFUo) | 2:18 | 2024-01-09 |  |
+| [Soak](https://open.spotify.com/track/4RE7zeeKezgpDgNdkleavy) | [Quentin Noire](https://open.spotify.com/artist/1FXZ3lnXGrC1N5WGYOzmRm) | [Soak](https://open.spotify.com/album/1nW6jIUZl5rTEqYPSRiNAp) | 3:46 | 2024-11-12 |  |
 | [Sparrow Eye](https://open.spotify.com/track/5fsFankh47Uve3ugGEKyyG) | [Jared Chance Taylor](https://open.spotify.com/artist/29GfkEnuiaWJrX3uM4PPLt) | [Sparrow Eye](https://open.spotify.com/album/2ebbOKUcsgBBhyQ83DjA6H) | 2:46 | 2023-09-29 |  |
 | [Still](https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Still](https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB) | 2:31 | 2023-09-29 |  |
 | [Stoevsky](https://open.spotify.com/track/41s0GDVHUXD0F7uKLAdJFD) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Stoevsky](https://open.spotify.com/album/1XoVZDc6TPnu1OOAP5Wvjb) | 2:44 | 2023-02-28 |  |

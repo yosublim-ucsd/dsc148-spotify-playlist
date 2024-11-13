@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "Meet the popular webtoon OSTs now! (Cover: This is a Campus Romance Series(\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "description": "Meet the popular webtoon OSTs now! (Cover: The Great(\ub354 \uadf8\ub808\uc774\ud2b8)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
   "name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",
   "tracks": [
     {
@@ -799,6 +799,24 @@
     },
     {
       "album": {
+        "name": "Dreaming : WEBTOON 'The Great X ANYUJIN (IVE)",
+        "url": "https://open.spotify.com/album/58QAs8YSamH7yhU1VrHn3L"
+      },
+      "artists": [
+        {
+          "name": "ANYUJIN",
+          "url": "https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203026,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/0KAe8Hh67OXolVlcsZDCIy"
+    },
+    {
+      "album": {
         "name": "The Crush Of Spring OST Part.1",
         "url": "https://open.spotify.com/album/1ayPFczFbalnsDqBh92GoP"
       },
@@ -1074,6 +1092,24 @@
       "duration_ms": 271173,
       "name": "Heavenly fate",
       "url": "https://open.spotify.com/track/4mqfe9XrgEOSsofvq5MyjR"
+    },
+    {
+      "album": {
+        "name": "High Class (Original Webtoon Soundtrack) Pt. 1 - Underdog",
+        "url": "https://open.spotify.com/album/7GUFc7KKzr4PTA4ry9hBEJ"
+      },
+      "artists": [
+        {
+          "name": "Yumewanaii",
+          "url": "https://open.spotify.com/artist/4oLq9qTt8P6pawQN1w9zL8"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170942,
+      "name": "High Class (Original Webtoon Soundtrack) Pt. 1 - Underdog",
+      "url": "https://open.spotify.com/track/4ZqYZcsXPkRuHltMQUhes3"
     },
     {
       "album": {
@@ -2722,7 +2758,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 165293,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/10mZOfUMXYsXVTGuxp69O3"
@@ -3238,7 +3274,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 188800,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/3rcOiZEs063dPf4A6u9vgt"

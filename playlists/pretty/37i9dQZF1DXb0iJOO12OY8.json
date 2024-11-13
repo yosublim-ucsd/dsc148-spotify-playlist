@@ -1,6 +1,6 @@
 {
   "description": "have you noticed? \ud83d\udeac\ud83e\udde1",
-  "num_followers": 214954,
+  "num_followers": 214939,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "last night's mascara",
+        "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 177350,
+      "name": "last night's mascara",
+      "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "S\u00e5 l\u00e6nge jeg er sexy.",
         "url": "https://open.spotify.com/album/2d9nhH2AHzxAf1Bo2PfCs9"
       },
@@ -299,6 +315,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Save You a Seat",
+        "url": "https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Save You a Seat",
+      "url": "https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Sees Igjen",
         "url": "https://open.spotify.com/album/2ZbDIWIGCKtpK26NRTUw6s"
       },
@@ -319,38 +351,6 @@
       "duration_ms": 163142,
       "name": "Sees Igjen",
       "url": "https://open.spotify.com/track/2QyL2WhZmOfpVSxy2BaI8U"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Save You a Seat",
-        "url": "https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Save You a Seat",
-      "url": "https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "last night's mascara",
-        "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 177350,
-      "name": "last night's mascara",
-      "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Individ",
-        "url": "https://open.spotify.com/album/40Isxx8PvaqZUvc18jqvId"
-      },
-      "artists": [
-        {
-          "name": "Golfklubb",
-          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
-        }
-      ],
-      "duration_ms": 188067,
-      "name": "Sucker For Pain",
-      "url": "https://open.spotify.com/track/7uAgfJh0XZWxHYHEf8Y3Ti"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Run It Up",
         "url": "https://open.spotify.com/album/2WJfge21aAzDJOMX5QOFy1"
       },
@@ -523,18 +507,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "In Memory Of Some Stand Up Guys",
-        "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
+        "name": "Individ",
+        "url": "https://open.spotify.com/album/40Isxx8PvaqZUvc18jqvId"
       },
       "artists": [
         {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+          "name": "Golfklubb",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
         }
       ],
-      "duration_ms": 161739,
-      "name": "Svar",
-      "url": "https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw"
+      "duration_ms": 188067,
+      "name": "Sucker For Pain",
+      "url": "https://open.spotify.com/track/7uAgfJh0XZWxHYHEf8Y3Ti"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -551,6 +535,22 @@
       "duration_ms": 128880,
       "name": "NEPOBABY",
       "url": "https://open.spotify.com/track/2T137G2j4il2iSc2md900S"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "In Memory Of Some Stand Up Guys",
+        "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Svar",
+      "url": "https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -675,18 +675,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Norge Elsker Rap",
-        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
+        "name": "FRIHET I LENKER",
+        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
       },
       "artists": [
         {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        },
+        {
+          "name": "Aiba",
+          "url": "https://open.spotify.com/artist/6Lu4e8FvAWcp1S5BVoDLjJ"
         }
       ],
-      "duration_ms": 160106,
-      "name": "Tenke Sj\u00e6l",
-      "url": "https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb"
+      "duration_ms": 178226,
+      "name": "VIS MEG DIN VERDEN",
+      "url": "https://open.spotify.com/track/4xqPNwRkLyiiV2oqju92ie"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -711,22 +715,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "FRIHET I LENKER",
-        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
+        "name": "Norge Elsker Rap",
+        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
       },
       "artists": [
         {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        },
-        {
-          "name": "Aiba",
-          "url": "https://open.spotify.com/artist/6Lu4e8FvAWcp1S5BVoDLjJ"
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
         }
       ],
-      "duration_ms": 178226,
-      "name": "VIS MEG DIN VERDEN",
-      "url": "https://open.spotify.com/track/4xqPNwRkLyiiV2oqju92ie"
+      "duration_ms": 160106,
+      "name": "Tenke Sj\u00e6l",
+      "url": "https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "BRENTE BROER",
-        "url": "https://open.spotify.com/album/62lXZLbHfnCg9qTZoA6aM0"
-      },
-      "artists": [
-        {
-          "name": "Blackie",
-          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
-        }
-      ],
-      "duration_ms": 114866,
-      "name": "VENNEL\u00d8S",
-      "url": "https://open.spotify.com/track/7xB3Tq8HPCM6rpJtPKCA95"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Bless Meg",
         "url": "https://open.spotify.com/album/37LSdJ7yCR1AbnOuID6fOq"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "BRENTE BROER",
+        "url": "https://open.spotify.com/album/62lXZLbHfnCg9qTZoA6aM0"
+      },
+      "artists": [
+        {
+          "name": "Blackie",
+          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
+        }
+      ],
+      "duration_ms": 114866,
+      "name": "VENNEL\u00d8S",
+      "url": "https://open.spotify.com/track/7xB3Tq8HPCM6rpJtPKCA95"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Volare",
         "url": "https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg"
       },
@@ -791,6 +791,26 @@
       "duration_ms": 158511,
       "name": "Volare",
       "url": "https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "FRIHET I LENKER",
+        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        },
+        {
+          "name": "Kaja Gunnufsen",
+          "url": "https://open.spotify.com/artist/5tdUPxmXm8l09CGFHOyRSa"
+        }
+      ],
+      "duration_ms": 170146,
+      "name": "BIPOLAR",
+      "url": "https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -863,22 +883,6 @@
       "duration_ms": 186000,
       "name": "hva om jeg slutta \u00e5 bry meg",
       "url": "https://open.spotify.com/track/4X1EwzdgQpIIqzHO5HVYQ2"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "S\u00e5nne Som Oss",
-        "url": "https://open.spotify.com/album/7puoXTrLHsfCvDfj1Rqj61"
-      },
-      "artists": [
-        {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
-        }
-      ],
-      "duration_ms": 172596,
-      "name": "S\u00e5nne Som Oss",
-      "url": "https://open.spotify.com/track/2c6gm3rPfI0XGgbvm2mK3y"
     }
   ],
   "unique_name": "ung, dum & lovende",

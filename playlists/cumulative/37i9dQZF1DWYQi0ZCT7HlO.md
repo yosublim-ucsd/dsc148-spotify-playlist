@@ -4,10 +4,12 @@
 
 > Chestnuts roasting on the open fire..\. Christmas ambience and cozy piano by the fireside.
 
-59 songs - 2 hr 34 min
+64 songs - 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Child Is Born \(Fireplace\)](https://open.spotify.com/track/2wV1gvSkMoqdltrW6ydgi5) | [Sofia Marcello](https://open.spotify.com/artist/6MVT94tdG9IDB3J07I3qiP) | [A Child Is Born](https://open.spotify.com/album/29mX15TJbXi1MZPwFZQpBz) | 2:06 | 2024-11-12 |  |
+| [Angels We Have Heard on High](https://open.spotify.com/track/1L8R7c9TSsDjUPp0AwH9BX) | [Troy Emi](https://open.spotify.com/artist/1pqR1gDeFiZr2ot3edcQLZ) | [Angels We Have Heard on High](https://open.spotify.com/album/697h20z6KuZbIZsIXgapz9) | 3:24 | 2024-11-12 |  |
 | [Angels we've heard on High](https://open.spotify.com/track/2H6zH5TD53UAcKCNGpJuso) | [Lara Molineux](https://open.spotify.com/artist/3bCcInCYqwOR3YGEbLO72X) | [Angels we've heard on High](https://open.spotify.com/album/3Zsl6aorjh4VxHFeH6yQ6M) | 1:53 | 2023-11-21 |  |
 | [Another Year Has Gone By](https://open.spotify.com/track/3jooT6YMc2YCyueljlMfTx) | [Trinette Lavoie](https://open.spotify.com/artist/0oiawgJRdd2T486xVmsaVj) | [Another Year Has Gone By](https://open.spotify.com/album/4JvQAk6ksOZmr4wpHamAjW) | 2:28 | 2023-11-21 |  |
 | [As With Gladness Men Of Old \- Fireplace](https://open.spotify.com/track/1wqR22Jo2Neg1HVMtngxZ2) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas By The Fireplace](https://open.spotify.com/album/71akQmAvBNjQWRO6S4cLo1) | 2:21 | 2023-11-21 |  |
@@ -30,6 +32,7 @@
 | [Hallelujah](https://open.spotify.com/track/5pmylV1GXFlVOpd2usdcNR) | [Kathrine Abelsen](https://open.spotify.com/artist/02ncYGUuJcyHP5Ku80sjOJ) | [Hallelujah](https://open.spotify.com/album/2Cv6rKJ6iHLYaiYi9IdGuD) | 2:56 | 2023-11-21 |  |
 | [Hark! The Herald Angels Sing \- Christmas Cosy](https://open.spotify.com/track/7CbsuNnbMf53HTPqmgxV3O) | [Donald Shoenberg](https://open.spotify.com/artist/7nOXih1DNL8bKeWIgo65Bj) | [Christmas Cosy](https://open.spotify.com/album/6zAVrWfpCx1VNcsUrA4pKS) | 2:06 | 2023-11-21 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/23IyjxZ8e9nRxHeeC2qnbg) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3Eu9NyeDamhd8m0EDnKOpD) | 3:09 | 2023-11-21 |  |
+| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/219xISpsGvU8XWf7Um7Sb0) | [Quinn Harrington](https://open.spotify.com/artist/5D5E3KJhdrPoOEKfLJ8qk4) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/2Z7d7tnvVBRwoi9AxetwP7) | 3:26 | 2024-11-12 |  |
 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/4BT4Wk0PWYFSoJdiBzZPqU) | [The Guy Downstairs](https://open.spotify.com/artist/4xE3jQ2KgDqoKkz4F4GFud) | [I Heard the Bells on Christmas Day](https://open.spotify.com/album/09SAMjkZHbIuK3QGmBH4fE) | 2:50 | 2024-11-06 |  |
 | [I Heard The Bells On Christmas Day \- Fireplace](https://open.spotify.com/track/5MXMACwSgfDLN5uX8B7ut2) | [Manny Heights](https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb) | [Do You Hear What I Hear](https://open.spotify.com/album/5211ajJwXcxcWkP9gX0sKf) | 2:06 | 2023-11-21 |  |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/06U6JHJdJzblXO2xlWsqRu) | [Kaelyn Aitken](https://open.spotify.com/artist/1PK1Qzjcr6QYgBy1linRrY) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/4RQ3ioyZK5ly2mm7vyt3e5) | 1:52 | 2023-11-21 |  |
@@ -44,6 +47,7 @@
 | [Little Drummer Boy \- Fireplace](https://open.spotify.com/track/36ipoN00BRMvCOEUwU5rVt) | [Rhett Week](https://open.spotify.com/artist/03HqLsJ07z6JYJtzDtgDiZ) | [Little Drummer Boy](https://open.spotify.com/album/1O50FuubuNIaddheLayCvT) | 2:44 | 2023-11-21 |  |
 | [Lo, How A Rose E'er Blooming \- Fireplace](https://open.spotify.com/track/4F5YPfIou0dd4hG39A8hWc) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas By The Fireplace](https://open.spotify.com/album/71akQmAvBNjQWRO6S4cLo1) | 3:44 | 2023-11-21 |  |
 | [Marys Boychild](https://open.spotify.com/track/0osb0FU1iezygPXT4FgBbo) | [Danny Silberman](https://open.spotify.com/artist/31mzdxgkNNNmDb9inHRaoa) | [Cosy Fireplace](https://open.spotify.com/album/62bH34ytSHlN9oi69WAfpu) | 3:14 | 2023-11-21 |  |
+| [O Christmas Tree \(fireplace\)](https://open.spotify.com/track/66f5DSHVSkwuVDsOBsstos) | [Vølaire](https://open.spotify.com/artist/6cYOKoIvU6FGklAGv8aA1u) | [O Christmas Tree \(fireplace\)](https://open.spotify.com/album/1RDWbIfRq102MvhafAHADl) | 2:19 | 2024-11-12 |  |
 | [O Come All Ye Faithfull](https://open.spotify.com/track/6usUk86fecWoerNAsEpT6L) | [Ursula Rothschild](https://open.spotify.com/artist/76pBdJnawajPFuWwNzMsg8) | [O Come All Ye Faithfull](https://open.spotify.com/album/1mQ3opSxvgjQuTJavy7Y4N) | 1:55 | 2023-11-21 |  |
 | [O Come, All Ye Faithful \(Fireplace Version\)](https://open.spotify.com/track/3fNlo0Idz2QVQMGjqjYmiX) | [Noel Newman](https://open.spotify.com/artist/2DfgtFKS0D6r8nCklevapF) | [O Come, All Ye Faithful \(Fireplace Version\)](https://open.spotify.com/album/5TsmdUMNLvGxzoa0TtFJ3W) | 2:51 | 2023-11-21 |  |
 | [O Holy Night](https://open.spotify.com/track/5QGyjRGFMPt61RamuthQL0) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [A Cozy Christmas Evening](https://open.spotify.com/album/38mNvJT8lj4ay5g7moUgHW) | 3:55 | 2023-11-21 |  |
@@ -54,6 +58,7 @@
 | [Santa Tell Me](https://open.spotify.com/track/2BEwC1vSpl2TLtAjGDnSGs) | [Kacie Forbes](https://open.spotify.com/artist/2oMpD3MpMa55N05W5vatrB) | [Santa Tell Me](https://open.spotify.com/album/5YIUlGeaoRrkj5CBAc74b7) | 2:22 | 2023-11-21 |  |
 | [See Amidst The Winter's Snow \- Fireside](https://open.spotify.com/track/7Bg3eYKTCfjHcdJcUOGVUh) | [John Bladh](https://open.spotify.com/artist/7Lcufo2TcRg56x6KUmhlOc) | [Fireside Joy Of Christmas](https://open.spotify.com/album/72watuxzgAjvqQkHSgWJgi) | 2:24 | 2023-11-21 |  |
 | [Seven Joys Of Mary \- Cosy Fireplace](https://open.spotify.com/track/5QzOYBckLu48DnNDjjhNoo) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary \(Cosy Fireplace version\)](https://open.spotify.com/album/43oT1uFGVoZMr2x81XX6ca) | 2:21 | 2023-11-21 |  |
+| [Silent Night](https://open.spotify.com/track/3rhMXpVLDZAkCtr7v37aIV) | [Ishara](https://open.spotify.com/artist/15d9b7prVI2d9DuWUesJ6Q) | [Silent Night](https://open.spotify.com/album/5EuDMAeoizBYVUtkwR9OY7) | 2:16 | 2024-11-12 |  |
 | [Silent Night](https://open.spotify.com/track/4M1g8KcYe0PabAVrDLfkJB) | [Sarah Danielsson](https://open.spotify.com/artist/3hapMtWQiO3mf7w0zUEOyS) | [Silent Night](https://open.spotify.com/album/0TQf90RfwTwkVSLqJSCq6c) | 1:58 | 2023-11-21 |  |
 | [Silver Bells](https://open.spotify.com/track/2XjOPkWK5RX9Bofs2bWiE9) | [Teddie Moss](https://open.spotify.com/artist/3w5hJR27vEyuK8ixEu4ODy) | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/album/0wwNY3P1nqr7yEf1Qc0g7Y) | 2:53 | 2023-11-21 |  |
 | [Star Of The East \- Fireside Christmas](https://open.spotify.com/track/6v5fFhkc1abGAwEWVciEPb) | [Lillith Love](https://open.spotify.com/artist/5HzezX7WHyXZ7pDUCgb3ZU) | [Carols By The Fire](https://open.spotify.com/album/4RqB8ciH61URyJ3vjAD1bN) | 1:51 | 2023-11-21 |  |

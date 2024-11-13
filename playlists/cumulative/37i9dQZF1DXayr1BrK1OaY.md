@@ -4,7 +4,7 @@
 
 > let the dj set u free 💔
 
-413 songs - 1 day 1 hr 12 min
+414 songs - 1 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Never Come Back](https://open.spotify.com/track/0QEG3NGmWatNOIAVxudQfd) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/3q5CZdmVxP6hE0mlBcYEU1) | 5:05 | 2021-05-07 | 2022-07-29 |
 | [Never Ending](https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Never Ending](https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo) | 4:02 | 2022-02-18 | 2023-07-13 |
 | [Never Loved](https://open.spotify.com/track/0meP7qfCsxGij4zDvQPDxd) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Visage 6 \(Never Loved\)](https://open.spotify.com/album/577ICRjIydiQOkjRzKkGNX) | 4:13 | 2024-08-16 |  |
+| [Neverland](https://open.spotify.com/track/4SG5yceUikHS7sQ3Ugy6c3) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Sync](https://open.spotify.com/artist/6h2Ljt4yaJzSN5IGJusE13), [KOIL](https://open.spotify.com/artist/7cU7FgPEWanjIBtdOUYoCY) | [Neverland](https://open.spotify.com/album/1OpXHfaJ0Ot96wmYSxd544) | 3:34 | 2024-11-08 |  |
 | [Next to Me](https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Next to Me](https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN) | 5:14 | 2021-08-13 | 2024-10-01 |
 | [Next to Me](https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 5:14 | 2021-08-13 | 2024-04-19 |
 | [No Judgement \- Kölsch Remix Edit](https://open.spotify.com/track/0Dwb20y4Y174GDvLw0Dr51) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [No Judgement \(Kölsch Remix Edit\)](https://open.spotify.com/album/6cUbkloy5dDTZ9muvMLiOo) | 4:17 | 2021-04-16 | 2022-06-26 |
@@ -379,7 +380,7 @@
 | [THERE 4 U](https://open.spotify.com/track/214XTwNwwp16zM1id05Xxj) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [THERE 4 U](https://open.spotify.com/album/0lSwV1L7rakokVE9Uny2Nf) | 3:20 | 2023-11-17 | 2024-11-04 |
 | [These Things Will Come To Be](https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [These Things Will Come To Be](https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7) | 4:56 | 2021-07-30 | 2024-09-07 |
 | [THINKIN' BOUT U](https://open.spotify.com/track/6cwNyD7UDIGD2CSnpObpkl) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC), [Julian](https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc) | [THINKIN' BOUT U](https://open.spotify.com/album/2nIoah8NyUvyIHl73UhXkD) | 2:47 | 2024-04-12 |  |
-| [Thinking Of U](https://open.spotify.com/track/0ObFG6JadCEfirwmFRBPFY) | [Attic Beats](https://open.spotify.com/artist/6oGLvkrXYxzfmCdG2Tuadi) | [Thinking Of U](https://open.spotify.com/album/5RPeU8jJYrIrLqLl0zduvl) | 2:00 | 2024-01-26 |  |
+| [Thinking Of U](https://open.spotify.com/track/0ObFG6JadCEfirwmFRBPFY) | [Attic Beats](https://open.spotify.com/artist/6oGLvkrXYxzfmCdG2Tuadi) | [Thinking Of U](https://open.spotify.com/album/5RPeU8jJYrIrLqLl0zduvl) | 2:00 | 2024-01-26 | 2024-11-13 |
 | [This Ain't Real](https://open.spotify.com/track/4mzlrsSOjP7HwPgkeAP8Mh) | [MENTIS](https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3) | [This Ain't Real](https://open.spotify.com/album/0FQaYrRMEl63jQsjfxeU2D) | 2:45 | 2022-06-17 | 2023-08-26 |
 | [To be honest \- SG Lewis Remix](https://open.spotify.com/track/15D7d8uC0db0q0QkMdHia8) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [To be honest \(SG Lewis Remix\)](https://open.spotify.com/album/78tzLrfhvjKqMeLQ7Tq6en) | 3:58 | 2023-09-01 | 2023-10-23 |
 | [Toi et moi](https://open.spotify.com/track/5yzlBpUNflMjcwAryoo2zJ) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Toi Et Moi](https://open.spotify.com/album/72ykeilNg1F8LtbeZbmxs8) | 3:41 | 2021-04-02 | 2022-04-11 |

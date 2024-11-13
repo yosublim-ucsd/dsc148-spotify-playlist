@@ -4,7 +4,7 @@
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-148 songs - 8 hr 15 min
+149 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Family Party](https://open.spotify.com/track/2cOBMRGCQ3Qi7gHrTELdHn) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr) | [MCA](https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN) | 4:00 | 2021-06-24 | 2024-08-24 |
 | [Freak Pilla](https://open.spotify.com/track/1oaApC2ZrcPGBN2ElEjCH4) | [Dinakar](https://open.spotify.com/artist/5Tce6h7cDIRqezZzHrOYhR) | [Rose Day Special](https://open.spotify.com/album/2WTkfR52IqbmEj9gySNNdH) | 3:20 | 2021-06-24 | 2022-08-13 |
 | [Freak Pilla](https://open.spotify.com/track/529gQ4C2Ny0Rnm16HQSoAa) | [Dinakar](https://open.spotify.com/artist/5Tce6h7cDIRqezZzHrOYhR), [Neethu Naduvathettu](https://open.spotify.com/artist/7md9on9sWhaP0lj7992HBs) | [Lovers Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7lPSEpV0fElpEuwWktYWhW) | 3:21 | 2021-06-24 | 2022-07-29 |
+| [Game Changer Teaser Theme \(From "Game Changer"\) \(Telugu\)](https://open.spotify.com/track/0PvmPyJUbKxIqCkHF6KhTO) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Game Changer Teaser Theme \(From "Game Changer"\) \(Telugu\)](https://open.spotify.com/album/1yK88UGCRnCd0rlCmJ5R12) | 1:38 | 2024-11-12 |  |
 | [Goodachari Main Theme](https://open.spotify.com/track/66pcLcrEnus8gEcbmsN4vs) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Goodachari](https://open.spotify.com/album/7kYmtBahBseaOVBiZQa7p5) | 2:57 | 2024-08-23 |  |
 | [Gudilo Badilo Madilo](https://open.spotify.com/track/7ILXon2PBU1bGYemfNg91q) | [M.L.R\. Karthikeyan](https://open.spotify.com/artist/1urtr0Wr3oFJVeTMF2aqPm), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [DJ](https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw) | 4:24 | 2021-06-24 | 2024-08-24 |
 | [Gudilo Badilo Madilo \- From "D.J."](https://open.spotify.com/track/6YbsnZyosLQW36DJsFNMqO) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [M.L.R\. Karthikeyan](https://open.spotify.com/artist/1urtr0Wr3oFJVeTMF2aqPm), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Gudilo Badilo Madilo \(From "D.J."\)](https://open.spotify.com/album/5ss7H6y8hbyUEmJoZmFKFn) | 4:24 | 2021-06-24 | 2022-07-29 |

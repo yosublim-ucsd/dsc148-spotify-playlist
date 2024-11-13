@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 343439,
+  "num_followers": 343584,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -103,6 +103,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "Manna",
+        "url": "https://open.spotify.com/album/0tJ3ZKvNzNaD42Ndom3HSe"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 265911,
+      "name": "Narrow Road",
+      "url": "https://open.spotify.com/track/7EWSt8WSoB7lX7dvH5OXhK"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "Be Okay (feat. Ellie Holcomb)",
         "url": "https://open.spotify.com/album/17Mtnadq4PhsCQmg6jMxaJ"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 208769,
       "name": "Be Okay (feat. Ellie Holcomb)",
       "url": "https://open.spotify.com/track/6bthpAF0LQsGcEw4LVMV6O"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Manna",
-        "url": "https://open.spotify.com/album/0tJ3ZKvNzNaD42Ndom3HSe"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 265911,
-      "name": "Narrow Road",
-      "url": "https://open.spotify.com/track/7EWSt8WSoB7lX7dvH5OXhK"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "SURVEY: Part 1",
+        "url": "https://open.spotify.com/album/4uZlAuQbVCZr4LN8ZOzyg0"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "duration_ms": 350783,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/68JEeLG2HrM2jNakDd6YlK"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "In Bloom",
         "url": "https://open.spotify.com/album/1p2mOtXzL6GZV5NMuap85T"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 193000,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/2TNhDjD4wb5XFO2Z7FFWve"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "SURVEY: Part 1",
-        "url": "https://open.spotify.com/album/4uZlAuQbVCZr4LN8ZOzyg0"
-      },
-      "artists": [
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        }
-      ],
-      "duration_ms": 350783,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/68JEeLG2HrM2jNakDd6YlK"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -711,26 +711,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Christ Be In My Heart",
-        "url": "https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L"
-      },
-      "artists": [
-        {
-          "name": "Sam McCabe",
-          "url": "https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij"
-        },
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        }
-      ],
-      "duration_ms": 288529,
-      "name": "Christ Be In My Heart",
-      "url": "https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "You Are God, Be Glorified",
         "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 247173,
       "name": "Holy Love",
       "url": "https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Christ Be In My Heart",
+        "url": "https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L"
+      },
+      "artists": [
+        {
+          "name": "Sam McCabe",
+          "url": "https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij"
+        },
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "duration_ms": 288529,
+      "name": "Christ Be In My Heart",
+      "url": "https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "In Every Way",
-        "url": "https://open.spotify.com/album/79XjwIUuzdsB6zEyugFEUv"
-      },
-      "artists": [
-        {
-          "name": "Christy Nockels",
-          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
-        }
-      ],
-      "duration_ms": 263213,
-      "name": "In Every Way",
-      "url": "https://open.spotify.com/track/0ILZCXYCSq6AnBvBSOnmeB"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "On Christ (House Church)",
         "url": "https://open.spotify.com/album/44eE0gE1CPQpBKeAscz6Tw"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 264289,
       "name": "On Christ (House Church)",
       "url": "https://open.spotify.com/track/7cLvP0zD6nwFhdaxBfpIk9"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "In Every Way",
+        "url": "https://open.spotify.com/album/79XjwIUuzdsB6zEyugFEUv"
+      },
+      "artists": [
+        {
+          "name": "Christy Nockels",
+          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+        }
+      ],
+      "duration_ms": 263213,
+      "name": "In Every Way",
+      "url": "https://open.spotify.com/track/0ILZCXYCSq6AnBvBSOnmeB"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "The Antidote",
-        "url": "https://open.spotify.com/album/1t8xLME4vn0Ev7PtLJ4bL3"
-      },
-      "artists": [
-        {
-          "name": "Lion of Judah",
-          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
-        }
-      ],
-      "duration_ms": 231773,
-      "name": "Open My Eyes",
-      "url": "https://open.spotify.com/track/6OtT5Foz3yt1uipoxLYuHo"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 289411,
       "name": "Hanging onto Every Word That You Say",
       "url": "https://open.spotify.com/track/58qzGFYaVi2EHSldZryfVw"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "The Antidote",
+        "url": "https://open.spotify.com/album/1t8xLME4vn0Ev7PtLJ4bL3"
+      },
+      "artists": [
+        {
+          "name": "Lion of Judah",
+          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
+        }
+      ],
+      "duration_ms": 231773,
+      "name": "Open My Eyes",
+      "url": "https://open.spotify.com/track/6OtT5Foz3yt1uipoxLYuHo"
     },
     {
       "added_at": "2024-08-03 00:38:12",

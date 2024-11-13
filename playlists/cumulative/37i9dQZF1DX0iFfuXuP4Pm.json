@@ -236,7 +236,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 203883,
       "name": "Atin Ang Walang Hanggan",
       "url": "https://open.spotify.com/track/3wyps5olGora4qX2g02DuK"
@@ -2195,6 +2195,24 @@
     },
     {
       "album": {
+        "name": "Marilag",
+        "url": "https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157692,
+      "name": "Marilag",
+      "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
+    },
+    {
+      "album": {
         "name": "Mas Gusto Kita",
         "url": "https://open.spotify.com/album/1Tqdtyo89IGVfIQA5fCMDB"
       },
@@ -2718,7 +2736,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 316125,
       "name": "Oh Giliw Ko",
       "url": "https://open.spotify.com/track/1WhbuhFMIV9DzgbNX6JV09"
@@ -3732,6 +3750,28 @@
       "duration_ms": 240400,
       "name": "surreal",
       "url": "https://open.spotify.com/track/5TT4xi1HEPTkVTO59jY3tz"
+    },
+    {
+      "album": {
+        "name": "Sweet Nothings (Chapter 2)",
+        "url": "https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        },
+        {
+          "name": "Jay R",
+          "url": "https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159250,
+      "name": "sweet nothings",
+      "url": "https://open.spotify.com/track/5aC91iyzOTL31zeZOHsmip"
     },
     {
       "album": {

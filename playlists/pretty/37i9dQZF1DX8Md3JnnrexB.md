@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,372 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,378 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 59 | [Heaven Help](https://open.spotify.com/track/4X574HplOe89kLaj4a4Cnq) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Black Diamond \(Deluxe Edition\)](https://open.spotify.com/album/06H2UUZRxzOuD7gyB5MjLu) | 3:20 |
 | 60 | [I'm Back for More](https://open.spotify.com/track/2zC0uKFfERvtOYNKendhEs) | [Al Johnson](https://open.spotify.com/artist/4FkXsXGJUTP1J32k3ZYiOA), [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Back for More](https://open.spotify.com/album/4QshQgkwrqisn6j9yJZ1qb) | 5:09 |
 | 61 | [You Are Everything](https://open.spotify.com/track/6VzG27NVjcEAP4af8ShhWM) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Greatest Hits](https://open.spotify.com/album/2gQx5PIKDCftkEiMwB2Pcf) | 2:54 |
-| 62 | [Never Change \(feat\. Philip Bailey\)](https://open.spotify.com/track/4OFt2tXFSQtRUryZwCrUz5) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u) | [Gravy](https://open.spotify.com/album/5xZdBUJsZ3RIiePqGFgOaP) | 4:16 |
-| 63 | [Between the Sheets \[Edit\] \(feat\. Chaka Khan and Nathan East\)](https://open.spotify.com/track/614J8PKHtZ6JwFW0nF4rNP) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [The Best Of Fourplay](https://open.spotify.com/album/2ZBdDCPiM6tGFIZftRF5AG) | 3:55 |
+| 62 | [Between the Sheets \[Edit\] \(feat\. Chaka Khan and Nathan East\)](https://open.spotify.com/track/614J8PKHtZ6JwFW0nF4rNP) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [The Best Of Fourplay](https://open.spotify.com/album/2ZBdDCPiM6tGFIZftRF5AG) | 3:55 |
+| 63 | [Never Change \(feat\. Philip Bailey\)](https://open.spotify.com/track/4OFt2tXFSQtRUryZwCrUz5) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u) | [Gravy](https://open.spotify.com/album/5xZdBUJsZ3RIiePqGFgOaP) | 4:16 |
 | 64 | [I Can't See Myself Leaving You](https://open.spotify.com/track/0MsJNBcfNoIcf868I2MOHo) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:01 |
 | 65 | [Moody's Mood](https://open.spotify.com/track/3qLbISQSn2uZajYIxYiOcP) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Give Me the Night](https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh) | 3:24 |
 | 66 | [Only Wanna Be With You](https://open.spotify.com/track/7ivEZyVKpHlqCKFFUqOYX1) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Only Wanna Be With You](https://open.spotify.com/album/5MEXy3BoHRig5xBgxdzegm) | 3:00 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 77 | [Just Don't Want To Be Lonely](https://open.spotify.com/track/15moIwvRD6cUWrDUIB6tJo) | [Regina Belle](https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH) | [Reachin' Back](https://open.spotify.com/album/1ECSHlpISo7TsVMsbEdiuT) | 4:04 |
 | 78 | [Every Generation \- Remastered](https://open.spotify.com/track/2bWAUmHpvGMkMkHYjrCEhe) | [Ronnie Laws](https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC) | [Every Generation \(Remastered\)](https://open.spotify.com/album/55KJaaqlGFmdHysAekitOY) | 5:49 |
 | 79 | [Just Don't Wanna Be Lonely](https://open.spotify.com/track/2d7XPNOWJ8HS0iSgJXRAJ9) | [Will Downing](https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY) | [Sensual Journey](https://open.spotify.com/album/3BKn8cFKsgaUKmFAvYVnhK) | 4:02 |
-| 80 | [Oceans Of Emotions](https://open.spotify.com/track/48GQiMwNxi0gIyQO147aq8) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Oceans Of Emotions](https://open.spotify.com/album/6pSJafRQHluTE8jM4hnEBt) | 3:53 |
-| 81 | [Lovin' you Is Easy](https://open.spotify.com/track/591hJcYCBItu3Io608n5fv) | [Maysa](https://open.spotify.com/artist/6XGfdDOtv4mLiHnHwrZhDC) | [Lovin' you Is Easy](https://open.spotify.com/album/79fVfipQ1lVzNCmbhBOiKa) | 4:05 |
+| 80 | [Lovin' you Is Easy](https://open.spotify.com/track/591hJcYCBItu3Io608n5fv) | [Maysa](https://open.spotify.com/artist/6XGfdDOtv4mLiHnHwrZhDC) | [Lovin' you Is Easy](https://open.spotify.com/album/79fVfipQ1lVzNCmbhBOiKa) | 4:05 |
+| 81 | [Oceans Of Emotions](https://open.spotify.com/track/48GQiMwNxi0gIyQO147aq8) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Oceans Of Emotions](https://open.spotify.com/album/6pSJafRQHluTE8jM4hnEBt) | 3:53 |
 | 82 | [Valentine Love \(Slow Version\)](https://open.spotify.com/track/6YFG39GOXeyNleOaHBYoap) | [Michael Henderson](https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K) | [The Best of Michael Henderson](https://open.spotify.com/album/6feal3fAi2Mr3FURLMpTfZ) | 3:58 |
 | 83 | [Midnight Love Affair](https://open.spotify.com/track/3IGYL4FbFEv9u9J1QC5BKI) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Smooth Soul](https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD) | 3:34 |
 | 84 | [Say That You Will](https://open.spotify.com/track/6L83YiKa3WRx1Fti8eD2br) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [The Essential George Duke](https://open.spotify.com/album/0n0oFhwxTmphj7Et9awn3L) | 3:05 |

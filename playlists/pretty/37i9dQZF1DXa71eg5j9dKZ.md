@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Four Tet at Drumsheds
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,300 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,358 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [How I Feel](https://open.spotify.com/track/20ZM010DgP7NYaLWIbaEMF) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [How I Feel](https://open.spotify.com/album/42f5IWubZit8UWi9dMUA9H) | 5:23 |
 | 100 | [Hey Baby](https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Hey Baby](https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q) | 3:56 |
 
-Snapshot ID: `Zy1UgAAAAAABnL1lcTOacaKTOO67AmMo`
+Snapshot ID: `ZzNwzgAAAADLQF+TOnJfEatAj1SO0Zij`

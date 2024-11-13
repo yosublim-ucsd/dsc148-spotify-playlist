@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "AMARSI PER LAVORO",
+        "url": "https://open.spotify.com/album/39u0x66QsKKz6vTA470oux"
+      },
+      "artists": [
+        {
+          "name": "Mazzariello",
+          "url": "https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181532,
+      "name": "AMARSI PER LAVORO",
+      "url": "https://open.spotify.com/track/0wfKG2QPt5dtkRYmSAW8MC"
+    },
+    {
+      "album": {
         "name": "Amore fai presto!",
         "url": "https://open.spotify.com/album/3pETZo1uiS3FmziALnV9ei"
       },
@@ -962,7 +980,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 167663,
       "name": "cose un po' scontate",
       "url": "https://open.spotify.com/track/0gp80mAq1VWGlUpFv9YbCP"
@@ -1140,7 +1158,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 177783,
       "name": "Domani (feat. Nashley)",
       "url": "https://open.spotify.com/track/2m2XT5ZaWwfNg6Rk0a278j"
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 188571,
       "name": "Domenica",
       "url": "https://open.spotify.com/track/2IaXi5bRMIyrYfEC5uMovb"
@@ -1386,6 +1404,24 @@
       "duration_ms": 160698,
       "name": "foglieverdi",
       "url": "https://open.spotify.com/track/32xxdDRNQQr2TwcCNstjrF"
+    },
+    {
+      "album": {
+        "name": "Forse Per Sempre",
+        "url": "https://open.spotify.com/album/0SdxqbeUd7cOTRkP3kJdRH"
+      },
+      "artists": [
+        {
+          "name": "SELMI",
+          "url": "https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Forse Per Sempre",
+      "url": "https://open.spotify.com/track/1eoJIBLBrWDrkFxcN9YGXn"
     },
     {
       "album": {
@@ -1971,6 +2007,24 @@
     },
     {
       "album": {
+        "name": "La Nostra Malinconia",
+        "url": "https://open.spotify.com/album/2ztWd3Paf5kM8uKyB22evA"
+      },
+      "artists": [
+        {
+          "name": "Angelica Bove",
+          "url": "https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198196,
+      "name": "La Nostra Malinconia",
+      "url": "https://open.spotify.com/track/4JuTT1xL3ITsQfX9unDXSD"
+    },
+    {
+      "album": {
         "name": "La ricompensa della mangusta",
         "url": "https://open.spotify.com/album/66ajbNAO32d4StVtbkQJnP"
       },
@@ -2436,7 +2490,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 245411,
       "name": "Mambo",
       "url": "https://open.spotify.com/track/1Eslj0XCaVpzPbYBmaol7T"
@@ -2526,7 +2580,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 154544,
       "name": "Marinero",
       "url": "https://open.spotify.com/track/6xKLkAi52EBSRnzLv5h2vu"
@@ -2548,7 +2602,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 173842,
       "name": "Menomale che c'\u00e8 il mare",
       "url": "https://open.spotify.com/track/5pYy054Wcuj9CFdDIxZSVU"
@@ -2852,7 +2906,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 148777,
       "name": "NO STRESS",
       "url": "https://open.spotify.com/track/4RnH661Lvlf1nZg6jy92WO"
@@ -3052,7 +3106,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 163000,
       "name": "Ombre - Marzo",
       "url": "https://open.spotify.com/track/4DyF2h99xNCiVM2VoQxMKW"
@@ -3400,7 +3454,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 192846,
       "name": "Piramidi",
       "url": "https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj"
@@ -3668,7 +3722,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 145945,
       "name": "Rigacuore",
       "url": "https://open.spotify.com/track/6xxdfwJGr1qEUeWt3J1YBB"
@@ -3722,7 +3776,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 148000,
       "name": "Sale",
       "url": "https://open.spotify.com/track/7wB5UV6fjJQ8c1MCZvDZUp"
@@ -3946,7 +4000,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 226133,
       "name": "Sentimento",
       "url": "https://open.spotify.com/track/1AJIZRupsdAWhuTtWr5XMs"
@@ -3990,6 +4044,24 @@
       "duration_ms": 171940,
       "name": "SLOWMO",
       "url": "https://open.spotify.com/track/529bB6UwVaHjMJpQNFljdp"
+    },
+    {
+      "album": {
+        "name": "Sogni al cielo",
+        "url": "https://open.spotify.com/album/1IIzCvWQ0As2qeXB7BBoRa"
+      },
+      "artists": [
+        {
+          "name": "Alex Wyse",
+          "url": "https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180967,
+      "name": "Sogni al cielo",
+      "url": "https://open.spotify.com/track/5AcWsvBp909Sjww1Wt5rlb"
     },
     {
       "album": {
@@ -4102,7 +4174,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 288880,
       "name": "SOLO UN UOMO \u1555 (con Altea)",
       "url": "https://open.spotify.com/track/47yUuMTLeVSwgfcfFf7dYm"
@@ -4238,6 +4310,24 @@
       "duration_ms": 166601,
       "name": "SPUNTA BLU",
       "url": "https://open.spotify.com/track/6pkx41c7BZukiBOxgVOnX4"
+    },
+    {
+      "album": {
+        "name": "STANDING OVATION",
+        "url": "https://open.spotify.com/album/4nCtjuCLQipDKLVUb9jfPq"
+      },
+      "artists": [
+        {
+          "name": "Tancredi",
+          "url": "https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161351,
+      "name": "STANDING OVATION",
+      "url": "https://open.spotify.com/track/7sLuIU9m41huRHZRqxBBYI"
     },
     {
       "album": {
@@ -4544,7 +4634,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 162539,
       "name": "Una come te",
       "url": "https://open.spotify.com/track/1lSMWsYGwTa17qJzvCqB3C"
@@ -4620,7 +4710,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 165500,
       "name": "Vodka fragola (feat. Atipica)",
       "url": "https://open.spotify.com/track/2f2iz5a5LuPlIFT2569Dcs"

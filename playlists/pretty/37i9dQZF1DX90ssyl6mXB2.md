@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,748 likes - 122 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,970 likes - 122 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 | 25 | [SAVIOR](https://open.spotify.com/track/1AdFpWand1DPxlprhkOxPy) | [Nobu Woods](https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC) | [SAVIOR](https://open.spotify.com/album/6SZGguUQ3ddoyJgusvfPXl) | 3:01 |
 | 26 | [BLUSH](https://open.spotify.com/track/2SijVGKbuJtVcifspmfthM) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [BLUSH](https://open.spotify.com/album/2IhUGTXGBSgQr9VDOQ5n1K) | 1:46 |
 | 27 | [Not Mine](https://open.spotify.com/track/0s0HQde8B10UnQJGFDEqmI) | [Tona Glover](https://open.spotify.com/artist/0MnMT3Q8i2O43b73SLANwT) | [Not Mine](https://open.spotify.com/album/66gGdAHsqcdYrVjQOFrJcG) | 2:29 |
-| 28 | [story to TELL](https://open.spotify.com/track/1mTa2MvvpFPDMs7Ed0EpNZ) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [dim.](https://open.spotify.com/artist/6gu1kyhltIYnwqWIEjO5Jy) | [story to TELL](https://open.spotify.com/album/3MIx3qRkqB9SEP4EXu21p9) | 2:03 |
+| 28 | [story to TELL](https://open.spotify.com/track/1mTa2MvvpFPDMs7Ed0EpNZ) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [dim.](https://open.spotify.com/artist/6gu1kyhltIYnwqWIEjO5Jy), [Khalil](https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4) | [story to TELL](https://open.spotify.com/album/3MIx3qRkqB9SEP4EXu21p9) | 2:03 |
 | 29 | [Insecure](https://open.spotify.com/track/6qWvfaLH8W4EBCYEMOYNyk) | [Résa](https://open.spotify.com/artist/4a4GE7G3xZ61pA0SAWS62O) | [Insecure](https://open.spotify.com/album/5q0JB8CNJQWiwNQH1SAwHy) | 3:00 |
 | 30 | [B.S.](https://open.spotify.com/track/1Z3NXXk8GZJwEEJiX5l2G6) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [B.S.](https://open.spotify.com/album/1qTLWHLgqkaJti5E08jSB7) | 2:47 |
 | 31 | [N o C h i l l](https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 4:25 |

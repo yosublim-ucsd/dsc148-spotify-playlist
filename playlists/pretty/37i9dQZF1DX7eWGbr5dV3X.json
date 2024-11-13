@@ -1,6 +1,6 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Towa Bird.",
-  "num_followers": 8696,
+  "num_followers": 8695,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "I'm Not Afraid",
+        "url": "https://open.spotify.com/album/54I8DXkxj9xdLqIf4Uabhd"
+      },
+      "artists": [
+        {
+          "name": "Holland",
+          "url": "https://open.spotify.com/artist/3PA9tXcZqiaBXwopM9GPZP"
+        }
+      ],
+      "duration_ms": 221248,
+      "name": "I'm Not Afraid",
+      "url": "https://open.spotify.com/track/3mPH0blHMOPAjSkEKOUQd2"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
         "url": "https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
-      },
-      "artists": [
-        {
-          "name": "Priyanka",
-          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Good Advice",
         "url": "https://open.spotify.com/album/4azZB6gjS66sHkFaGx7RAy"
       },
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Boys Aside",
-        "url": "https://open.spotify.com/album/048AmHZqwIAfCPIBrEsSeq"
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
       },
       "artists": [
         {
-          "name": "Sofya Wang",
-          "url": "https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx"
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Boys Aside",
-      "url": "https://open.spotify.com/track/2aqQYoZ3FuifdW29q1SO1s"
+      "duration_ms": 167026,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
     }
   ],
   "unique_name": "API Pride",

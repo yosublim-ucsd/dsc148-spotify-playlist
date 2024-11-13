@@ -1,6 +1,6 @@
 {
   "description": "A hypnotic journey through Melodic Techno.",
-  "num_followers": 125651,
+  "num_followers": 125723,
   "original_name": "Melodic Techno Elements",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,26 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Sierra",
+        "url": "https://open.spotify.com/album/6WzMt8T4SIuxFBjmgcpSzX"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Baset",
+          "url": "https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Sierra",
+      "url": "https://open.spotify.com/track/5c4gtyaea8i7H1BqRyb2Xp"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Turn On The Lights again.. (feat. Future & Fred again..) [Remixes]",
         "url": "https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 253433,
       "name": "Turn On The Lights again.. (feat. Future & Fred again..) - Anyma Remix",
       "url": "https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Sierra",
-        "url": "https://open.spotify.com/album/6WzMt8T4SIuxFBjmgcpSzX"
-      },
-      "artists": [
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "Baset",
-          "url": "https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "Sierra",
-      "url": "https://open.spotify.com/track/5c4gtyaea8i7H1BqRyb2Xp"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -919,22 +919,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Strobe (Layton Giordani Remix)",
-        "url": "https://open.spotify.com/album/2lA6LPtr9O0HwNLDYEzzjm"
+        "name": "Genesys II",
+        "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
       },
       "artists": [
         {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         },
         {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
         }
       ],
-      "duration_ms": 215156,
-      "name": "Strobe - Layton Giordani Remix",
-      "url": "https://open.spotify.com/track/2So9vITovkovvxlVerZccz"
+      "duration_ms": 243838,
+      "name": "Pictures Of You - Cassian Remix",
+      "url": "https://open.spotify.com/track/7KxCyR3pCUqH136EvCDMun"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -979,22 +979,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Genesys II",
-        "url": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy"
+        "name": "Strobe (Layton Giordani Remix)",
+        "url": "https://open.spotify.com/album/2lA6LPtr9O0HwNLDYEzzjm"
       },
       "artists": [
         {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
         },
         {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
         }
       ],
-      "duration_ms": 243838,
-      "name": "Pictures Of You - Cassian Remix",
-      "url": "https://open.spotify.com/track/7KxCyR3pCUqH136EvCDMun"
+      "duration_ms": 215156,
+      "name": "Strobe - Layton Giordani Remix",
+      "url": "https://open.spotify.com/track/2So9vITovkovvxlVerZccz"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1011,26 +1011,6 @@
       "duration_ms": 235248,
       "name": "Where Are You Tonight",
       "url": "https://open.spotify.com/track/5NosZGOuZRJOTPRAqIOkt8"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/4n2DzX9Ow9SA7L2dKVy4Mc"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Boys",
-          "url": "https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ"
-        },
-        {
-          "name": "Sam WOLFE",
-          "url": "https://open.spotify.com/artist/1Hu2YwTv9wmxC8sppVVUA4"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/4KEsZFbFgEdaBfBjCijKnX"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1055,6 +1035,26 @@
       "duration_ms": 229047,
       "name": "Collide",
       "url": "https://open.spotify.com/track/4PaBwFv5dmdOcgMlWXPFjb"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/4n2DzX9Ow9SA7L2dKVy4Mc"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Boys",
+          "url": "https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ"
+        },
+        {
+          "name": "Sam WOLFE",
+          "url": "https://open.spotify.com/artist/1Hu2YwTv9wmxC8sppVVUA4"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/4KEsZFbFgEdaBfBjCijKnX"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Captain Nemo",
-        "url": "https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu"
+        "name": "Zodiac",
+        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
       },
       "artists": [
         {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
         }
       ],
-      "duration_ms": 243840,
-      "name": "Captain Nemo - Edit",
-      "url": "https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6"
+      "duration_ms": 342857,
+      "name": "Zodiac",
+      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Zodiac",
-        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
+        "name": "Captain Nemo",
+        "url": "https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu"
       },
       "artists": [
         {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
         }
       ],
-      "duration_ms": 342857,
-      "name": "Zodiac",
-      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
+      "duration_ms": 243840,
+      "name": "Captain Nemo - Edit",
+      "url": "https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1579,26 +1579,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Fine Day",
-        "url": "https://open.spotify.com/album/4Et38i4TF8kD2x1hAV8JOV"
+        "name": "Friends (ARTBAT Remix)",
+        "url": "https://open.spotify.com/album/3sTdQoIdHfjxVLGtb3I3FL"
       },
       "artists": [
         {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Marcus Santoro",
-          "url": "https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         }
       ],
-      "duration_ms": 214946,
-      "name": "Fine Day",
-      "url": "https://open.spotify.com/track/1uW6xjcbHIqhQvVniFRRzH"
+      "duration_ms": 260307,
+      "name": "Friends - ARTBAT Remix",
+      "url": "https://open.spotify.com/track/1dtNRzHMtDS3TtIzxNdyag"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1623,46 +1619,26 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Friends (ARTBAT Remix)",
-        "url": "https://open.spotify.com/album/3sTdQoIdHfjxVLGtb3I3FL"
+        "name": "Fine Day",
+        "url": "https://open.spotify.com/album/4Et38i4TF8kD2x1hAV8JOV"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
         },
         {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "Marcus Santoro",
+          "url": "https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         }
       ],
-      "duration_ms": 260307,
-      "name": "Friends - ARTBAT Remix",
-      "url": "https://open.spotify.com/track/1dtNRzHMtDS3TtIzxNdyag"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Nothing Ever Changes (Agents of Time Remix)",
-        "url": "https://open.spotify.com/album/5PsIsYwY9XgclLpfzkETpv"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
-        },
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 204285,
-      "name": "Nothing Ever Changes - Agents of Time Remix",
-      "url": "https://open.spotify.com/track/2XAxDEYtT8X5ZLm7hktDOG"
+      "duration_ms": 214946,
+      "name": "Fine Day",
+      "url": "https://open.spotify.com/track/1uW6xjcbHIqhQvVniFRRzH"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1707,6 +1683,30 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Nothing Ever Changes (Agents of Time Remix)",
+        "url": "https://open.spotify.com/album/5PsIsYwY9XgclLpfzkETpv"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        },
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 204285,
+      "name": "Nothing Ever Changes - Agents of Time Remix",
+      "url": "https://open.spotify.com/track/2XAxDEYtT8X5ZLm7hktDOG"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Voicemail",
         "url": "https://open.spotify.com/album/67g647pS91MZxdzdmUYSda"
       },
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "The Turn",
-        "url": "https://open.spotify.com/album/02bP8IHWtLIK5wvHp3FZHv"
-      },
-      "artists": [
-        {
-          "name": "MRAK",
-          "url": "https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY"
-        },
-        {
-          "name": "19:26",
-          "url": "https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX"
-        }
-      ],
-      "duration_ms": 346209,
-      "name": "Reserva",
-      "url": "https://open.spotify.com/track/1XQ7cb5Ta5XDXAnX2eF52I"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Yumi (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/4FlNcHrLMwoYWpiJXTPVLW"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 245624,
       "name": "Yumi - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/59xRzYdesxyCMhRFaodWNi"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "The Turn",
+        "url": "https://open.spotify.com/album/02bP8IHWtLIK5wvHp3FZHv"
+      },
+      "artists": [
+        {
+          "name": "MRAK",
+          "url": "https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY"
+        },
+        {
+          "name": "19:26",
+          "url": "https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX"
+        }
+      ],
+      "duration_ms": 346209,
+      "name": "Reserva",
+      "url": "https://open.spotify.com/track/1XQ7cb5Ta5XDXAnX2eF52I"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/6rhQcQdPVL1DR6ljVTF6co"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        }
+      ],
+      "duration_ms": 159555,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/7fwu5NJYai1G5A1MxY91yX"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Just Like Home (Kevin de Vries Remix)",
         "url": "https://open.spotify.com/album/13YJVBkMGH2lfiBvKJabWr"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 302981,
       "name": "Just Like Home - Kevin de Vries Remix",
       "url": "https://open.spotify.com/track/6UckF71HWN5rxwB3y7LHrd"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "The Way",
-        "url": "https://open.spotify.com/album/6rhQcQdPVL1DR6ljVTF6co"
-      },
-      "artists": [
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        }
-      ],
-      "duration_ms": 159555,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/7fwu5NJYai1G5A1MxY91yX"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Head In The Ocean",
-        "url": "https://open.spotify.com/album/4swIW4PM47efBmMIxm9oGa"
-      },
-      "artists": [
-        {
-          "name": "FoundSound",
-          "url": "https://open.spotify.com/artist/4kcQyzzr1khNtD4LhXmUBp"
-        }
-      ],
-      "duration_ms": 244909,
-      "name": "Head In The Ocean",
-      "url": "https://open.spotify.com/track/77jAFxvaAYalxQsAjegc0i"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Are We Truly Free?",
         "url": "https://open.spotify.com/album/1L0FGABuXR9XRQiducXXps"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 216850,
       "name": "Are We Truly Free?",
       "url": "https://open.spotify.com/track/1Bkckgr1RGncOvWDn5Ar3h"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Head In The Ocean",
+        "url": "https://open.spotify.com/album/4swIW4PM47efBmMIxm9oGa"
+      },
+      "artists": [
+        {
+          "name": "FoundSound",
+          "url": "https://open.spotify.com/artist/4kcQyzzr1khNtD4LhXmUBp"
+        }
+      ],
+      "duration_ms": 244909,
+      "name": "Head In The Ocean",
+      "url": "https://open.spotify.com/track/77jAFxvaAYalxQsAjegc0i"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1979,42 +1979,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Downfall",
-        "url": "https://open.spotify.com/album/1XpQL1r74njwPKB3jwBQQH"
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/1SL5y9nXB0monY11oF6x4u"
       },
       "artists": [
         {
           "name": "Innellea",
           "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
-        },
-        {
-          "name": "Colyn",
-          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
-        },
-        {
-          "name": "braev",
-          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
         }
       ],
-      "duration_ms": 236975,
-      "name": "Downfall",
-      "url": "https://open.spotify.com/track/08fB9YSYCxiIexuoQJc3Jj"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Uno Y Cuatro",
-        "url": "https://open.spotify.com/album/7MR72n7GG87mK19Xh2Rwiu"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Uno Y Cuatro",
-      "url": "https://open.spotify.com/track/1TLbo5g8bNTqKRjYjUqDSO"
+      "duration_ms": 238125,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6m1B316ZF6UpDQwhz34Zfr"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -2039,6 +2015,22 @@
       "duration_ms": 258236,
       "name": "Nothing Ever Changes - Camelphat Remix",
       "url": "https://open.spotify.com/track/2g0mTSsQCz7C36ee5Varka"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Uno Y Cuatro",
+        "url": "https://open.spotify.com/album/7MR72n7GG87mK19Xh2Rwiu"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Uno Y Cuatro",
+      "url": "https://open.spotify.com/track/1TLbo5g8bNTqKRjYjUqDSO"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -2079,26 +2071,6 @@
       "duration_ms": 334615,
       "name": "Killa",
       "url": "https://open.spotify.com/track/4xKkpbUcrVoYrIXu7Xgzo9"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "See You In Dreams",
-        "url": "https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz"
-      },
-      "artists": [
-        {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
-        },
-        {
-          "name": "Be No Rain",
-          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
-        }
-      ],
-      "duration_ms": 271519,
-      "name": "See You In Dreams",
-      "url": "https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -2147,6 +2119,26 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "See You In Dreams",
+        "url": "https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz"
+      },
+      "artists": [
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        },
+        {
+          "name": "Be No Rain",
+          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
+        }
+      ],
+      "duration_ms": 271519,
+      "name": "See You In Dreams",
+      "url": "https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Shapes in the Spray",
         "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
       },
@@ -2159,46 +2151,6 @@
       "duration_ms": 429055,
       "name": "Shapes in the Spray",
       "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/61cJV13UL9K8JL5dOcqS9o"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        },
-        {
-          "name": "Hugo Cantarra",
-          "url": "https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n"
-        },
-        {
-          "name": "Richard Judge",
-          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
-        }
-      ],
-      "duration_ms": 272180,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/5vTD0GuutyInvNpOFxLCPi"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/1SL5y9nXB0monY11oF6x4u"
-      },
-      "artists": [
-        {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
-        }
-      ],
-      "duration_ms": 238125,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/6m1B316ZF6UpDQwhz34Zfr"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -2223,22 +2175,50 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "The Theory EP",
-        "url": "https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr"
+        "name": "Downfall",
+        "url": "https://open.spotify.com/album/1XpQL1r74njwPKB3jwBQQH"
       },
       "artists": [
         {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        },
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
         },
         {
           "name": "braev",
           "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
         }
       ],
-      "duration_ms": 286451,
-      "name": "Alone ft. braev",
-      "url": "https://open.spotify.com/track/3iViCxm3KzCMetwCk60XuN"
+      "duration_ms": 236975,
+      "name": "Downfall",
+      "url": "https://open.spotify.com/track/08fB9YSYCxiIexuoQJc3Jj"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/61cJV13UL9K8JL5dOcqS9o"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        },
+        {
+          "name": "Hugo Cantarra",
+          "url": "https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n"
+        },
+        {
+          "name": "Richard Judge",
+          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
+        }
+      ],
+      "duration_ms": 272180,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/5vTD0GuutyInvNpOFxLCPi"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -2303,18 +2283,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Sun Will Rise",
-        "url": "https://open.spotify.com/album/2Ju3N26zvsKRGf9oGWsBl8"
+        "name": "The Theory EP",
+        "url": "https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr"
       },
       "artists": [
         {
-          "name": "Caroline Roxy",
-          "url": "https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW"
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "braev",
+          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
         }
       ],
-      "duration_ms": 223137,
-      "name": "Sun Will Rise",
-      "url": "https://open.spotify.com/track/026NUefvu7f2tdEqTRXT8J"
+      "duration_ms": 286451,
+      "name": "Alone ft. braev",
+      "url": "https://open.spotify.com/track/3iViCxm3KzCMetwCk60XuN"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -2359,6 +2343,22 @@
       "duration_ms": 198407,
       "name": "Welcome The Night",
       "url": "https://open.spotify.com/track/4OlnouGKBwHSBt61wlFMcK"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Sun Will Rise",
+        "url": "https://open.spotify.com/album/2Ju3N26zvsKRGf9oGWsBl8"
+      },
+      "artists": [
+        {
+          "name": "Caroline Roxy",
+          "url": "https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW"
+        }
+      ],
+      "duration_ms": 223137,
+      "name": "Sun Will Rise",
+      "url": "https://open.spotify.com/track/026NUefvu7f2tdEqTRXT8J"
     },
     {
       "added_at": "2024-11-07 23:00:00",

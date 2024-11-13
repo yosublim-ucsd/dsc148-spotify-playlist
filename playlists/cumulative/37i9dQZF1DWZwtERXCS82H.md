@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-777 songs - 1 day 9 hr 40 min
+778 songs - 1 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -781,6 +781,7 @@
 | [You Name It](https://open.spotify.com/track/4eFAsz4mMrJiFRGqgghYPj) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Day](https://open.spotify.com/album/5BmyU03YgggujG5J2gEfLM) | 7:43 | 2024-04-03 | 2024-10-23 |
 | [Young Love](https://open.spotify.com/track/5LS7VV5Gp3evv8pjcpTDDu) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Glacier](https://open.spotify.com/album/0D5gc8mGZMBzB5ioXy6fdK) | 2:23 | 2022-04-15 | 2022-05-14 |
 | [Your Heart Will Mend](https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Your Heart Will Mend](https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG) | 2:26 | 2022-04-15 | 2024-02-14 |
+| [Your Love](https://open.spotify.com/track/6RpzFmRfyEz2D4Y2k7Z1KA) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Your Love](https://open.spotify.com/album/5MojebLBYysmuT1qBZTWYX) | 2:43 | 2024-11-12 |  |
 | [Your Own Kind](https://open.spotify.com/track/3V6ocwEhy5BD9rpzrLFXfn) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Your Own Kind](https://open.spotify.com/album/1WV5E90TCHTaGKRYU9QfoH) | 1:54 | 2022-04-15 | 2023-07-25 |
 | [Zeit der Stille](https://open.spotify.com/track/0uP8U2GsVBIifLbVbvHRid) | [Kal Daniels](https://open.spotify.com/artist/7tSECjYISKAql7IRAqhhYB) | [Herbst Briese](https://open.spotify.com/album/7ffWTDZHGBYKWnLrvAnyvZ) | 3:18 | 2022-04-15 | 2022-05-14 |
 | [Zephyr](https://open.spotify.com/track/0CNhH6mjashU1e7z0j1LXl) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Zephyr](https://open.spotify.com/album/4TR4dko5W6NIFmA4AR4yU4) | 2:40 | 2022-04-15 | 2024-10-02 |

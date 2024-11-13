@@ -4,7 +4,7 @@
 
 > Άκου αυτές τις απίθανες καλλιτέχνιδες στη διαπασών\. Μια playlist που συνυπογράφει η LILA.
 
-674 songs - 1 day 12 hr 59 min
+675 songs - 1 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Edo Tha Meino](https://open.spotify.com/track/4og98Su80x4eRXovmNbT7U) | [Mirela Pachou](https://open.spotify.com/artist/3jO73k7LFPB7hm2KtYRh2M) | [Edo Tha Meino](https://open.spotify.com/album/7JTJowJ2mUk0qPHewyxaxx) | 3:01 | 2023-11-29 | 2024-01-10 |
 | [Efyge? \- Medley](https://open.spotify.com/track/30OqNOqaoqKrzg2ZcmHz83) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Efyge? \(Medley\)](https://open.spotify.com/album/0AlIY3vTLJTYRGNTFevp94) | 1:52 | 2024-02-14 | 2024-03-06 |
 | [Efyges](https://open.spotify.com/track/5qfANAdUHQZ6FwVNF4VKjB) | [Daphne Lawrence](https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s) | [Efyges](https://open.spotify.com/album/3pRLJ2w2GUMKKOBoIbjv6I) | 3:30 | 2022-09-06 | 2023-01-04 |
-| [Ego Apeho](https://open.spotify.com/track/6XFIbejBjcKU4D9G36Xpv8) | [Nefeli Fasouli](https://open.spotify.com/artist/0JygyrBVyE7APBHSMsxjtp), [Danai Papadopoulou](https://open.spotify.com/artist/7moApbJ63BuGI9rTXRUQW3) | [Mikri Limni](https://open.spotify.com/album/3hml6wcBQ9N0N68w2EMiNV) | 3:57 | 2024-11-05 |  |
+| [Ego Apeho](https://open.spotify.com/track/6XFIbejBjcKU4D9G36Xpv8) | [Nefeli Fasouli](https://open.spotify.com/artist/0JygyrBVyE7APBHSMsxjtp), [Danai Papadopoulou](https://open.spotify.com/artist/7moApbJ63BuGI9rTXRUQW3) | [Mikri Limni](https://open.spotify.com/album/3hml6wcBQ9N0N68w2EMiNV) | 3:57 | 2024-11-05 | 2024-11-13 |
 | [Ego Esena \- Original Tv Series "Mavro Rodo" Soundtrack](https://open.spotify.com/track/5FBDgXklxcAKm3Gs3gjLvz) | [Evridiki](https://open.spotify.com/artist/0WxbpUPH6SN75TSFAj3MAa), [Miltos Pashalidis](https://open.spotify.com/artist/6VzFvK9yRRZkT0L8kMmOXV), [George Theofanous](https://open.spotify.com/artist/1rNn8vt3hmIxbDuqMVzXpA) | [Ego Esena \(Original TV Series "Mavro Rodo" Soundtrack\)](https://open.spotify.com/album/24nJugIlrHaBHncKi9L9QW) | 4:16 | 2023-01-31 | 2023-05-03 |
 | [Ego Mou Ftaio](https://open.spotify.com/track/6gNABY7UbjyH6ntrguDXG5) | [Tania Karra](https://open.spotify.com/artist/6BoJahxwW3zoDvAWsgS43E) | [Ego Mou Ftaio](https://open.spotify.com/album/48wLgSPiFExA0bXAb4yakb) | 3:34 | 2024-01-09 | 2024-02-15 |
 | [Ego S' Agapisa Edo](https://open.spotify.com/track/1U0v8Skcs83D3KoNmQ4X8g) | [Eleni Tsaligopoulou](https://open.spotify.com/artist/3Gk7fuRSYuQWqXGhRGPsG4) | [San Psemata](https://open.spotify.com/album/5TTzMERsMJw6OO00Sw4fKJ) | 3:38 | 2024-11-05 |  |
@@ -382,6 +382,7 @@
 | [Mou Areseis](https://open.spotify.com/track/42eriobW1YjC5kLYKKklLE) | [Konnie Metaxa](https://open.spotify.com/artist/0GfvPNhmQLzmbqHYZfoyos) | [Mou Areseis](https://open.spotify.com/album/36xUmQxwu7k08MO8f278cX) | 3:05 | 2024-01-09 | 2024-03-06 |
 | [Mou Eleipses \- 2023 Version](https://open.spotify.com/track/0TaYCwSbRfi7fTKONk8UAW) | [Apostolia Zoi](https://open.spotify.com/artist/1Bkxsw4F0k3dwgA1GtpPaJ) | [Mou Eleipses \(2023 Version\)](https://open.spotify.com/album/0a08cKzcEldwVMr4ppQSkT) | 3:28 | 2023-11-29 | 2024-01-10 |
 | [Mou Hei Stoihisei](https://open.spotify.com/track/6eiAoSrSFQjoMTDTehpNEb) | [Elli Kokkinou](https://open.spotify.com/artist/3dHMnH9LXTSuhfdcWfjnoc) | [Mou Hei Stoihisei](https://open.spotify.com/album/4sSdeEkv7mOgeVO2b9Isiq) | 3:16 | 2022-04-05 | 2022-08-03 |
+| [Mou Leipeis](https://open.spotify.com/track/3kgso5eRwTQGaP6mCUrESU) | [Katerina](https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU) | [Mou Leipeis](https://open.spotify.com/album/5Cc4RmIM5j0VgZ810dzsLq) | 2:53 | 2024-11-12 |  |
 | [Mou To 'Pane](https://open.spotify.com/track/07Ip4OtiXawg1SoBKR6ZRp) | [Penny Baltatzi](https://open.spotify.com/artist/0xP7gTMFElcSoYxVSdqFWz) | [Mou To 'Pane](https://open.spotify.com/album/6s6xfiG8az2gaN7Uh4FbVr) | 3:40 | 2021-12-16 | 2022-05-04 |
 | [Movin' Too Fast](https://open.spotify.com/track/5AS6W5xL1DlooIPTzVkE5o) | [Playmen](https://open.spotify.com/artist/1aRr1YCvofItUMebQWiT5c), [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Movin' Too Fast](https://open.spotify.com/album/0G9XXhTxTUcqr3nHe00I06) | 2:49 | 2023-11-07 | 2024-02-15 |
 | [Mpelas](https://open.spotify.com/track/19BINlX5sv8zgJxD17vlCH) | [Christina Salti](https://open.spotify.com/artist/6l0GQT49HC5pM3Y2TZSLRr) | [Mpelas](https://open.spotify.com/album/3mQPFZMl5JC6CPHD7RnGVD) | 2:13 | 2023-10-03 | 2024-02-15 |

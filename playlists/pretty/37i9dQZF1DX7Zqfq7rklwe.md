@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista ☠️ Kannessa AC/DC.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,026 likes - 84 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,027 likes - 84 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

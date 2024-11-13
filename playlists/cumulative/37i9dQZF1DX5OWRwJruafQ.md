@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-508 songs - 1 day 0 hr 15 min
+509 songs - 1 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Cat Walk](https://open.spotify.com/track/50OhDMBICJCPOkzPHqwIzI) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Savraj](https://open.spotify.com/artist/2QO3W9e7MhaXQfCZuliJP9) | [Three Plays](https://open.spotify.com/album/7cg3ggWMPZjfQOUYCiSWmE) | 2:51 | 2024-08-23 |  |
 | [Challa Mundri](https://open.spotify.com/track/10DEjukPmRRCLuinvG0mIR) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [The Boss](https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH), [Avraj](https://open.spotify.com/artist/07egKTPLN8xOxdHRHiqLB5) | [Challa Mundri](https://open.spotify.com/album/6ds8vEvZ3dYIKpba384tSB) | 2:50 | 2024-09-17 | 2024-10-08 |
 | [Champion](https://open.spotify.com/track/66tuuvPdvGc0MfN6Ptotyw) | [Gurtaj](https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO), [Babbu](https://open.spotify.com/artist/5i2ZfWkVWCMNjUFHyHMuPw), [Nav Prince](https://open.spotify.com/artist/43hVKGJyBP3vWbbMZKLQfF) | [Champion](https://open.spotify.com/album/3TovgbjOuPxvLFXYFFCCIn) | 2:46 | 2024-03-08 |  |
-| [Champion](https://open.spotify.com/track/0EoKkTLTUJRn9oeDQMdFpc) | [Sidhu Jatt](https://open.spotify.com/artist/1rxvqsVmIK5Icuqz7sY0fB) | [Champion](https://open.spotify.com/album/5Yhb3nK5JcYIZptfthFyG4) | 2:09 | 2024-08-14 |  |
+| [Champion](https://open.spotify.com/track/0EoKkTLTUJRn9oeDQMdFpc) | [Sidhu Jatt](https://open.spotify.com/artist/1rxvqsVmIK5Icuqz7sY0fB) | [Champion](https://open.spotify.com/album/5Yhb3nK5JcYIZptfthFyG4) | 2:09 | 2024-08-14 | 2024-11-13 |
 | [CHANGA CHANGA](https://open.spotify.com/track/07pZr5hCkdQUrIqHxlZqEc) | [Jot Dhindsa](https://open.spotify.com/artist/6pJP9TynvFU2wR1pDMtwth), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [THREE WAY](https://open.spotify.com/album/6mta4ktCakVsjVL7cVuJo3) | 2:15 | 2024-03-13 | 2024-03-20 |
 | [Characters](https://open.spotify.com/track/5b7BWs4nsatS4m72uaWRNi) | [Barinder Dhapai](https://open.spotify.com/artist/7unAVMZwYSIAChXVALfZ9B) | [Characters](https://open.spotify.com/album/5Reb4nVxEHFDAtMjDA1JP0) | 2:38 | 2023-10-06 | 2023-10-18 |
 | [Charcha](https://open.spotify.com/track/4vIbgvmbj6pFoLenVnzCdS) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Charcha](https://open.spotify.com/album/2fNbxr9xOHz6X7eh6MuXtj) | 2:28 | 2024-04-24 | 2024-08-13 |
@@ -239,6 +239,7 @@
 | [Janu Janu](https://open.spotify.com/track/32qm4nI8Y3dOc8pFGsOAXc) | [Jaskaran Riarr](https://open.spotify.com/artist/3Vlyw5c4xPbJz6NlccNBJe) | [Sobar](https://open.spotify.com/album/2i6zbTxqSYaNICcdmhmcgx) | 3:24 | 2024-11-04 |  |
 | [Jatt Bande](https://open.spotify.com/track/13h6cUhOMSOrZsxjboUCqC) | [Deep Dosanjh](https://open.spotify.com/artist/2wfWZhs4Vfsaebzcqg6QSR), [J Chahal](https://open.spotify.com/artist/4jGSwWsGAs9KOrd6LPxg2E), [Money On The Beat](https://open.spotify.com/artist/5bx5ppUrhA6GF5l2swMOk9) | [Jatt Bande](https://open.spotify.com/album/1h9UkIIWgLsV6r5o1r2yj7) | 3:19 | 2023-10-06 | 2023-10-24 |
 | [Jatt Da Nishana](https://open.spotify.com/track/6N9A8SUlqnGQghsclChU5x) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Jatt Da Nishana](https://open.spotify.com/album/63SkBlsiJBtXn24OefwFLT) | 2:29 | 2023-03-29 | 2023-04-21 |
+| [JATT DEFENDER](https://open.spotify.com/track/4hiSPz2XxcyGNZGCHW3aPO) | [Lopon Sidhu](https://open.spotify.com/artist/6xLk6uOnCRbbyQuS7Qb0uC), [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ) | [JATT DEFENDER](https://open.spotify.com/album/7n4rfAkcJgB0zRi2eMBfks) | 3:05 | 2024-11-12 |  |
 | [Jatt Jachde](https://open.spotify.com/track/5611tkUl2ph030QPhMo3gT) | [Rajbirr](https://open.spotify.com/artist/6CUpozXwwPoXmBBrw2tCKj) | [Jatt Jachde](https://open.spotify.com/album/7iHySMbSiHT5U0xnGjsXIX) | 3:01 | 2024-08-13 | 2024-08-20 |
 | [Jatt Life Zone](https://open.spotify.com/track/6V3RLScZlL8Bim7KyqW2cA) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [Jatt Life Zone](https://open.spotify.com/album/5VdJWuu3ixHuZsqpMrkbUa) | 3:17 | 2023-03-29 | 2024-05-25 |
 | [Jatt Naal Yaari](https://open.spotify.com/track/2P3foCzLxJPobVTVzQGIQ7) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Jatt Naal Yaari](https://open.spotify.com/album/6q2iZjYKWC4gNHfb6C6cHr) | 3:00 | 2023-03-29 | 2023-04-25 |

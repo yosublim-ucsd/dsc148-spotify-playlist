@@ -2,9 +2,9 @@
 
 ### [GLOW Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX7ifvbzG8ryV)
 
-> From the LGBTQIA+ songwriters that make the music happen\. This month's cover: <a href="spotify:artist:6mNtYUHVwuFUmiTYPiRKFw">Ghostryder</a>
+> From the LGBTQIA+ songwriters that make the music happen\. This month's cover: <a href="https://artists.spotify.com/songwriter/7dHJVvXzqeEgW9AgIGd5lv">Kaydence</a>
 
-65 songs - 3 hr 39 min
+70 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,11 @@
 | [Bad Love](https://open.spotify.com/track/1tB5UEseYQt5vRZgcnPHAW) | [GOLDSPACE](https://open.spotify.com/artist/0lEmirHWEpNY1GtqLk7rLx) | [Bad Love](https://open.spotify.com/album/7C1SpkTFC1w0mfWhQ1ntsF) | 3:37 | 2024-03-27 |  |
 | [Bad Religion](https://open.spotify.com/track/6jy12gDerHRUSwiEhfs9C6) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE \(Explicit Version\)](https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs) | 2:55 | 2024-06-04 |  |
 | [Basic Rich](https://open.spotify.com/track/71pYVCk6Y2Di0Ogb7UycrE) | [Matias Mora](https://open.spotify.com/artist/7cPDCjz53xa2E5zYTWNpIb) | [Basic Rich](https://open.spotify.com/album/3TgHWdvJyjcrFnentt9jDf) | 2:08 | 2024-03-27 |  |
+| [Better Days](https://open.spotify.com/track/1Ioz7FzmEzvzWBsYp68k6z) | [Houston Kendrick](https://open.spotify.com/artist/2hnHKdQbmx3mjqgLOSna79) | [Small Infinity Reloaded](https://open.spotify.com/album/0lQUHK6DGgkTalkRgPBJ2t) | 2:57 | 2024-11-12 |  |
+| [BLACK PARADE](https://open.spotify.com/track/2qzUpSVI4NnPyWxbXwumTj) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BLACK PARADE](https://open.spotify.com/album/3MJxH055n52Rbm8RLlpJcN) | 4:41 | 2024-11-12 |  |
 | [blisters](https://open.spotify.com/track/6Fvnb0yaexGWZsWHiCErQg) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [blisters](https://open.spotify.com/album/2sVxQsAqTUUCRbO3z70Cn2) | 6:49 | 2024-06-04 |  |
 | [Body](https://open.spotify.com/track/7vXnqJKU3ljgaBNa4Kjt7p) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:57 | 2024-03-27 |  |
+| [Borderline](https://open.spotify.com/track/1Akv2eZgYgprB8yaoCOMGL) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [b7](https://open.spotify.com/album/4Fv3f2Y4CNZY7UoBXuXqK2) | 5:12 | 2024-11-12 |  |
 | [brrr](https://open.spotify.com/track/7AZzCQ6S8HXLFBXsqH2HWE) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [brrr](https://open.spotify.com/album/11OeiSfjvduwX8JHQSgxcQ) | 2:32 | 2024-06-04 |  |
 | [BUMMED](https://open.spotify.com/track/3ZF6JyZX5VGH25XWsNWrEJ) | [kennedi](https://open.spotify.com/artist/5eWCWtbcFDjLGPisPgqcy8) | [BUMMED](https://open.spotify.com/album/77VTU9eeqsPWRoAFVvnt8y) | 2:38 | 2024-03-27 | 2024-08-29 |
 | [Came Here For Love \- Acoustic](https://open.spotify.com/track/2Q2pi8imT08Jiv3dk6GIFo) | [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Came Here For Love \(Acoustic\)](https://open.spotify.com/album/6YPb3AbaEEvAJnSNu1hqFa) | 3:25 | 2024-03-27 | 2024-06-05 |
@@ -52,6 +55,7 @@
 | [Only Lonely](https://open.spotify.com/track/310QXrjCNF3IAzquz1lS40) | [Alex Hope](https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP) | [Tina Arena \(Greatest Hits & Interpretations\)](https://open.spotify.com/album/46uy7fPI5aTSeZ9gyuAg0t) | 3:27 | 2024-03-27 |  |
 | [Only Sorry](https://open.spotify.com/track/1Kriq5ncfgGwoZ4evrIPC5) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Only Sorry](https://open.spotify.com/album/2a12VHkgSHMoPQP4jhVU3M) | 3:10 | 2024-03-27 |  |
 | [Pretender](https://open.spotify.com/track/209ANSkGIsfA5M5GewdMGi) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Wisconsin](https://open.spotify.com/album/31RR4pZy65rFv65pX37zyG) | 2:08 | 2024-10-04 |  |
+| [Rent Free](https://open.spotify.com/track/5PdroJNSxYfhN4QYV8eJpF) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:22 | 2024-11-12 |  |
 | [Rush](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 2:36 | 2024-08-28 |  |
 | [Say My Name](https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Fucking Sucks](https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B) | 2:42 | 2024-08-28 |  |
 | [Somewhere With You](https://open.spotify.com/track/5qDzMkr3H14W0j6XAT5Mjl) | [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [Original Songwriter Demos](https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA) | 3:13 | 2024-03-27 |  |
@@ -66,6 +70,7 @@
 | [Thunda Thighs](https://open.spotify.com/track/6s8IJGj8S8KQtAugPz590O) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Thunda Thighs](https://open.spotify.com/album/24HIJnSXvGvpACPPQOAbO7) | 4:26 | 2024-03-27 |  |
 | [TRYNA NOT MISS ME](https://open.spotify.com/track/0AUKa9mzJ9hH6YotIO84td) | [kennedi](https://open.spotify.com/artist/5eWCWtbcFDjLGPisPgqcy8) | [TRYNA NOT MISS ME](https://open.spotify.com/album/3N7HSIsXdyBT0rHGXEGEzg) | 2:41 | 2024-08-28 |  |
 | [Unfinished](https://open.spotify.com/track/2z1qAkmyeZgKSWqruUuufl) | [Peter Thomas](https://open.spotify.com/artist/2MhPVBzM72QjbQPhybKjyr), [your friend polly](https://open.spotify.com/artist/7BMiTAo49FakImrjEyEFFN) | [Unfinished](https://open.spotify.com/album/54f036fGtMuSs8TrxqGlI2) | 2:10 | 2024-03-27 | 2024-06-05 |
+| [Until I Met You \(feat\. Nas\)](https://open.spotify.com/track/60jtoaCWRcD3P97rbCrTLB) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 3:44 | 2024-11-12 |  |
 | [Us](https://open.spotify.com/track/2H5ZgMAQWLsq09AEkZyT3g) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Us](https://open.spotify.com/album/1wiNGVqtNMiziYeh8hGpb1) | 3:47 | 2024-08-28 |  |
 | [We Can't Be Friends](https://open.spotify.com/track/0TGuICmWUyrONdF55k50d0) | [Yndi](https://open.spotify.com/artist/31yVSehp4XZiCSlb1sOSpq), [Dream Koala](https://open.spotify.com/artist/0tWnElR8nnWIsopg1o3xmg) | [We Can't Be Friends](https://open.spotify.com/album/4xhQyYOslgcM1ru1qVFUmV) | 3:28 | 2024-06-04 |  |
 | [What It Was](https://open.spotify.com/track/1sm5qtPRLNoUAlETajxcPG) | [Ghostryder](https://open.spotify.com/artist/6mNtYUHVwuFUmiTYPiRKFw) | [What It Was](https://open.spotify.com/album/7sGasZs82G0Jndg6m6vCiH) | 2:55 | 2024-03-27 | 2024-08-29 |

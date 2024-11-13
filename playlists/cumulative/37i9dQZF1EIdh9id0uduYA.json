@@ -64,7 +64,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 975266,
       "name": "A Dark Knight",
       "url": "https://open.spotify.com/track/5QFdOfeQlX8gp7ick31XRG"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-10",
+      "date_removed": null,
       "duration_ms": 235226,
       "name": "Ameno",
       "url": "https://open.spotify.com/track/7mfvOqsvzZaUl7sfbcNk4E"
@@ -348,7 +348,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 280071,
       "name": "Angels Among Demons",
       "url": "https://open.spotify.com/track/37LZluzRExLxVCNId2PQQI"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 132405,
       "name": "Angels Will Rise",
       "url": "https://open.spotify.com/track/7n1VzfDRUPGr4lYAEISR9o"
@@ -486,7 +486,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 133378,
       "name": "Assassin's Creed IV Black Flag Main Theme",
       "url": "https://open.spotify.com/track/6enLk2V2s0M6D6PGLjHxYv"
@@ -606,7 +606,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 262134,
       "name": "Away With Your Fairies",
       "url": "https://open.spotify.com/track/5VjgAinHNRifpB5H4IJkYS"
@@ -780,7 +780,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 307840,
       "name": "Blood and Stone - Ivan Torrent Remix",
       "url": "https://open.spotify.com/track/2Q29JtmGexziU9ljZkgxRL"
@@ -842,6 +842,24 @@
       "duration_ms": 175482,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/23TXSzmuErPA3CAPsE2bme"
+    },
+    {
+      "album": {
+        "name": "Brotherhood",
+        "url": "https://open.spotify.com/album/4NVkBATkCwYARehmqEfBga"
+      },
+      "artists": [
+        {
+          "name": "John Dreamer",
+          "url": "https://open.spotify.com/artist/39GPChnC74DiR82lgTzx3o"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243994,
+      "name": "Brotherhood",
+      "url": "https://open.spotify.com/track/3YjSCV5r21L0i8BLYl1N9z"
     },
     {
       "album": {
@@ -1090,7 +1108,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-05",
+      "date_removed": null,
       "duration_ms": 175040,
       "name": "Concerning Hobbits",
       "url": "https://open.spotify.com/track/644es5aYPJghtZLjM1rmSP"
@@ -1108,7 +1126,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 278199,
       "name": "Conquest of Paradise",
       "url": "https://open.spotify.com/track/5avVpUakfMHD6qGpaH26CF"
@@ -1126,7 +1144,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 126959,
       "name": "Cornfield Chase",
       "url": "https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP"
@@ -1205,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "Sun",
+        "url": "https://open.spotify.com/album/0KxuFf203h4hZz3UijS90k"
+      },
+      "artists": [
+        {
+          "name": "Thomas Bergersen",
+          "url": "https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243142,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/0QkosyG0hPRIkqh2nMIdpn"
+    },
+    {
+      "album": {
         "name": "EPIC: The Vengeance Saga (Official Concept Album)",
         "url": "https://open.spotify.com/album/5P7YyqqjHuq7mSLqIY06jE"
       },
@@ -1224,7 +1260,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/2sxpbOUUSzRrms8vSZwxvo"
@@ -1376,7 +1412,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 257546,
       "name": "Destiny of the Chosen",
       "url": "https://open.spotify.com/track/0scOdTwD5lyyIragAQtY9N"
@@ -1478,7 +1514,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-10",
+      "date_removed": null,
       "duration_ms": 147000,
       "name": "Done For",
       "url": "https://open.spotify.com/track/3MfTo3Q0ZCrhCsQJZ8u6iZ"
@@ -1496,7 +1532,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 172106,
       "name": "Dragon Age Inquisition Theme",
       "url": "https://open.spotify.com/track/0ZxF4MFrFmi4agsWGQKKrn"
@@ -1514,7 +1550,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 235636,
       "name": "Dragonborn",
       "url": "https://open.spotify.com/track/2gaZJDgE71VL9PzzUUlpMg"
@@ -1692,10 +1728,28 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 661780,
       "name": "Emerald Princess",
       "url": "https://open.spotify.com/track/3Lsxzkhu8U9hTApMjTrCzm"
+    },
+    {
+      "album": {
+        "name": "Fury (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155826,
+      "name": "Emma",
+      "url": "https://open.spotify.com/track/4TuGt2O2iqrisOsNQNrL0j"
     },
     {
       "album": {
@@ -1768,7 +1822,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 206933,
       "name": "Ender's War",
       "url": "https://open.spotify.com/track/6E0JqlkJrLitJ0F1l6e1mm"
@@ -1816,7 +1870,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 260066,
       "name": "Eptesicus",
       "url": "https://open.spotify.com/track/6akwM3md7dzP2LkK8pKk6d"
@@ -1984,7 +2038,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 122346,
       "name": "Fate Has Smiled Upon Us",
       "url": "https://open.spotify.com/track/1kLma9S0L4y3u5E28ss9Ut"
@@ -2068,7 +2122,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 157973,
       "name": "Final Hour",
       "url": "https://open.spotify.com/track/7HemgkzmKvZn3qAPPfDAqS"
@@ -2162,7 +2216,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 201793,
       "name": "Flight Of The Silverbird",
       "url": "https://open.spotify.com/track/2k2Pwkt3Fqowcve91PiH4g"
@@ -2278,7 +2332,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 112689,
       "name": "Freedom Is Ours",
       "url": "https://open.spotify.com/track/4pROzeg0tvzXtbvuyQlTa0"
@@ -2344,7 +2398,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-31",
+      "date_removed": null,
       "duration_ms": 179294,
       "name": "Full Speed Ahead",
       "url": "https://open.spotify.com/track/3MNNWGsJPBHtaf1SiHQQdz"
@@ -2454,7 +2508,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 220736,
       "name": "Get in the Water",
       "url": "https://open.spotify.com/track/4qTGOuXmoR7fk7dApMlQjG"
@@ -2522,7 +2576,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 246626,
       "name": "God of War",
       "url": "https://open.spotify.com/track/6ZMwwuUOx8kefl32gWOjtY"
@@ -2730,7 +2784,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 177013,
       "name": "Hidden Machinations",
       "url": "https://open.spotify.com/track/6XKG4Ya9TSdafwqKWFXaDj"
@@ -2770,7 +2824,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 153926,
       "name": "Himmelsrand",
       "url": "https://open.spotify.com/track/7ldJhE5mB9ukNh3OjuX85T"
@@ -2952,7 +3006,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 227178,
       "name": "Ice of Phoenix",
       "url": "https://open.spotify.com/track/560usqoCIdCqkRVKftxvVz"
@@ -3046,7 +3100,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 260906,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/3cEcXy22I0u0UIyxb2hahz"
@@ -3082,10 +3136,28 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-05",
+      "date_removed": null,
       "duration_ms": 143453,
       "name": "Iron Man 3",
       "url": "https://open.spotify.com/track/7u5XBHnht6dyoRXRBb5soK"
+    },
+    {
+      "album": {
+        "name": "METAL GEAR RISING REVENGEANCE Vocal Tracks Selection",
+        "url": "https://open.spotify.com/album/3DR0FThvw6I18Ntp3D6kxf"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Gnecco",
+          "url": "https://open.spotify.com/artist/5QcGYbIhQiKu472ypOrhJu"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175506,
+      "name": "It Has To Be This Way - Platinum Mix",
+      "url": "https://open.spotify.com/track/65yNr1EO2TOBEYCz45tuOf"
     },
     {
       "album": {
@@ -3122,7 +3194,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 148687,
       "name": "Just a Man",
       "url": "https://open.spotify.com/track/757cx0iJx1pcwLv4lnX39B"
@@ -3168,6 +3240,24 @@
       "duration_ms": 247500,
       "name": "Keep Your Friends Close",
       "url": "https://open.spotify.com/track/11u4Q89CWq1R3RKpiIFDz2"
+    },
+    {
+      "album": {
+        "name": "Arms of the Wind",
+        "url": "https://open.spotify.com/album/2yjAfl76VREaOGK5wwRZjc"
+      },
+      "artists": [
+        {
+          "name": "Adriel Fair",
+          "url": "https://open.spotify.com/artist/7jU9KNOUS9FqDvHCUiRqZN"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94714,
+      "name": "Knight's Templar",
+      "url": "https://open.spotify.com/track/6GdoprvrVSVMX7Cxk7mym0"
     },
     {
       "album": {
@@ -3284,7 +3374,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-05",
+      "date_removed": null,
       "duration_ms": 194442,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/7pM9Mn8WdnjNjYEoMW93Nt"
@@ -3364,7 +3454,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 302533,
       "name": "Like a Dog Chasing Cars",
       "url": "https://open.spotify.com/track/3j9WvPrVhZuH8AmTeVakfR"
@@ -3694,7 +3784,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 139716,
       "name": "Magic of Love",
       "url": "https://open.spotify.com/track/7K6ZGai4neYqHuFSqX2jSb"
@@ -3934,7 +4024,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 219092,
       "name": "Mountains",
       "url": "https://open.spotify.com/track/0Sg3UL7f40ulmTh0Xwr6qY"
@@ -4048,7 +4138,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 175595,
       "name": "Never Back Down",
       "url": "https://open.spotify.com/track/4boaU9XaS1g6U1nV4lEsMl"
@@ -4172,7 +4262,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 184827,
       "name": "Not Sorry for Loving You",
       "url": "https://open.spotify.com/track/1mHD6G4fg3Xv5GHPbp1YPx"
@@ -4326,7 +4416,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 205333,
       "name": "Opening Titles",
       "url": "https://open.spotify.com/track/1y3zD8d7VKzJjfXVp6KcUx"
@@ -4428,7 +4518,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 202378,
       "name": "Paint It Black",
       "url": "https://open.spotify.com/track/2OURZt3pTUoq6D8ycBBa7d"
@@ -4672,7 +4762,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 373160,
       "name": "Promentory",
       "url": "https://open.spotify.com/track/0NA8uE9ctlsQYeiyGKN5LO"
@@ -4742,7 +4832,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 249702,
       "name": "Puppeteer",
       "url": "https://open.spotify.com/track/2cKEla5yiK5J6XVeMv9nEo"
@@ -4775,6 +4865,24 @@
     },
     {
       "album": {
+        "name": "Raising the Damned",
+        "url": "https://open.spotify.com/album/4H6C7qDg6hhYhBxGkK5a89"
+      },
+      "artists": [
+        {
+          "name": "Damned Anthem",
+          "url": "https://open.spotify.com/artist/3C0PKxcP1f25siYFYiyHa1"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147473,
+      "name": "Raising the Damned",
+      "url": "https://open.spotify.com/track/4JGZESz2Zs9PDrxbZlRJl9"
+    },
+    {
+      "album": {
         "name": "Command & Conquer: Red Alert 3 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5TxjcMSN3NclQgjNcCRaI3"
       },
@@ -4786,7 +4894,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 167506,
       "name": "Red Alert 3 Theme - Soviet March",
       "url": "https://open.spotify.com/track/6AI8Z6dzATuI6zrlKE7qhr"
@@ -4804,7 +4912,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 236093,
       "name": "Red Warrior",
       "url": "https://open.spotify.com/track/6DPZdDkTOydyM40IXRi70Z"
@@ -4892,7 +5000,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-01",
+      "date_removed": null,
       "duration_ms": 250461,
       "name": "Requiem for a Tower",
       "url": "https://open.spotify.com/track/4QVxZF4x31Jg5E4YlSpcFx"
@@ -4950,7 +5058,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 206666,
       "name": "Ride of the Valkyries",
       "url": "https://open.spotify.com/track/1npDycvcBm6bTnaajiTv3X"
@@ -4968,7 +5076,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 133017,
       "name": "Ride to Glory",
       "url": "https://open.spotify.com/track/03eqdlquKzJQg9LYngD6HO"
@@ -5180,7 +5288,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-01",
+      "date_removed": null,
       "duration_ms": 157426,
       "name": "Run Free",
       "url": "https://open.spotify.com/track/38frEzNCL3xoWG2ny1bKgu"
@@ -5294,7 +5402,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 234386,
       "name": "See What I've Become",
       "url": "https://open.spotify.com/track/0uxK3GiLjigKgceER5mdKl"
@@ -5360,7 +5468,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 211764,
       "name": "Six Hundred Strike",
       "url": "https://open.spotify.com/track/6zhZeNc8MC9QyFyN2ZgBuz"
@@ -5378,7 +5486,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 168948,
       "name": "Skal",
       "url": "https://open.spotify.com/track/6ybRWbM4jdku0Pk8SzjORB"
@@ -5450,7 +5558,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-10",
+      "date_removed": null,
       "duration_ms": 233053,
       "name": "Sogno di Volare (\u201cThe Dream of Flight\u201d)",
       "url": "https://open.spotify.com/track/1miPwGI7xUKfHj6vIpMfP3"
@@ -5530,7 +5638,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 330579,
       "name": "Star Sky",
       "url": "https://open.spotify.com/track/06AMpcajziFnEKniV25fiU"
@@ -5652,7 +5760,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 175471,
       "name": "Stormkeeper",
       "url": "https://open.spotify.com/track/2UGIAdscJnbOeLaAt5bvyq"
@@ -5670,7 +5778,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 124306,
       "name": "Strength to Believe",
       "url": "https://open.spotify.com/track/6aNpo6grTqx0bV9g7eF9B1"
@@ -5928,7 +6036,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 428200,
       "name": "The Battle",
       "url": "https://open.spotify.com/track/1ze3GTOVgAG5xLVrvcEoUS"
@@ -5986,7 +6094,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 357400,
       "name": "The Bridge of Khazad Dum",
       "url": "https://open.spotify.com/track/6HYCOHzY2xR4W2dOokH3ed"
@@ -6016,7 +6124,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-11",
+      "date_removed": null,
       "duration_ms": 222838,
       "name": "The Call",
       "url": "https://open.spotify.com/track/2iI556oF2qwtac9r1RzrXo"
@@ -6110,7 +6218,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 165818,
       "name": "The Final Countdown",
       "url": "https://open.spotify.com/track/1zmdFR7JiwWzbrmblbMLXU"
@@ -6154,7 +6262,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 146361,
       "name": "The Heaven Above",
       "url": "https://open.spotify.com/track/5JAtOouGUnlNBx6gX28US3"
@@ -6180,7 +6288,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 234000,
       "name": "The Horse and the Infant",
       "url": "https://open.spotify.com/track/6GBKwWdmHaTqbguQgAYOIz"
@@ -6242,7 +6350,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 169066,
       "name": "The Kiss",
       "url": "https://open.spotify.com/track/5umoZmJLW98rlImZulfLp5"
@@ -6361,6 +6469,28 @@
     },
     {
       "album": {
+        "name": "The Rumbling",
+        "url": "https://open.spotify.com/album/21vCxDlV2yLcDELh7qZIVS"
+      },
+      "artists": [
+        {
+          "name": "Rok Nardin",
+          "url": "https://open.spotify.com/artist/7ArkPxPSwZoQw5ESuxt4oG"
+        },
+        {
+          "name": "Samuel Kim",
+          "url": "https://open.spotify.com/artist/2bdcBjvuI9worc472GbeU0"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222812,
+      "name": "The Rumbling",
+      "url": "https://open.spotify.com/track/616S1qYoF7Mdtv0SU9a00l"
+    },
+    {
+      "album": {
         "name": "The Witcher 3: Wild Hunt (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/6pYNEn4tMc6gdv5fIZf5yn"
       },
@@ -6438,7 +6568,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 426266,
       "name": "The Way",
       "url": "https://open.spotify.com/track/2ufpTLLgG1Q1etucp78w5m"
@@ -6456,7 +6586,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 209808,
       "name": "The Winds of Winter",
       "url": "https://open.spotify.com/track/0wXNnmvuTP0jPMpAXakSs8"
@@ -6510,7 +6640,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 207426,
       "name": "Theme From Jurassic Park",
       "url": "https://open.spotify.com/track/2TZbQZXOuR8osP2AK8yYMN"
@@ -6612,7 +6742,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 130919,
       "name": "Thor: The Dark World - From \"Thor: The Dark World\"/Score",
       "url": "https://open.spotify.com/track/5rQmuNRjKT6t33JlNJbc6I"
@@ -6682,7 +6812,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 275556,
       "name": "Time",
       "url": "https://open.spotify.com/track/6ZFbXIJkuI1dVNWvzJzown"
@@ -6754,7 +6884,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 237202,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/7sgvhY89MQ5ipWtgr9l3NQ"
@@ -6856,6 +6986,28 @@
       "duration_ms": 172454,
       "name": "Undying Love",
       "url": "https://open.spotify.com/track/1j7GxBZfaXszszNvbQuL7u"
+    },
+    {
+      "album": {
+        "name": "Battlecry",
+        "url": "https://open.spotify.com/album/4y7T04fej3MJ8tAe2FeKD5"
+      },
+      "artists": [
+        {
+          "name": "Two Steps from Hell",
+          "url": "https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp"
+        },
+        {
+          "name": "Thomas Bergersen",
+          "url": "https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250496,
+      "name": "Unforgiven",
+      "url": "https://open.spotify.com/track/0Ib9P2lSlqC6F2xCr5PcOI"
     },
     {
       "album": {
@@ -7004,7 +7156,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-10",
+      "date_removed": null,
       "duration_ms": 320467,
       "name": "Victory",
       "url": "https://open.spotify.com/track/2F9xBxKbx2M0pbgtSu8fLf"
@@ -7100,7 +7252,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 204586,
       "name": "Warriors",
       "url": "https://open.spotify.com/track/3f4fc8c8unrQeKecmUPEDR"
@@ -7206,7 +7358,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-11",
+      "date_removed": null,
       "duration_ms": 327338,
       "name": "What Are You Going to Do When You Are Not Saving the World?",
       "url": "https://open.spotify.com/track/6PHMAqyTi2zjs6aXneg0EC"
@@ -7300,7 +7452,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 216308,
       "name": "Worlds Collide",
       "url": "https://open.spotify.com/track/6KMgPewrVRxzeFzRwkFa0M"
@@ -7362,7 +7514,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 272292,
       "name": "Yggdrasil",
       "url": "https://open.spotify.com/track/3V417nSM4Ilh0Tt5CqustV"

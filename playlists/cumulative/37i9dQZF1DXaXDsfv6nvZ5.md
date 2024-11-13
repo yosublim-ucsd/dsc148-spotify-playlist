@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-629 songs - 1 day 13 hr 56 min
+630 songs - 1 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -510,7 +510,7 @@
 | [Speak To Me](https://open.spotify.com/track/0CZmy9ctYRi2Ux5uFLGqSr) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [I AM](https://open.spotify.com/album/7sp7t59cny1pmM0JImzODg) | 2:46 | 2022-03-11 | 2022-09-10 |
 | [Special Occasion](https://open.spotify.com/track/129zuMM1WITbYkbljPlxaJ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Special Occasion](https://open.spotify.com/album/1MqmlN8jn9eTfcRRJZUHv3) | 4:31 | 2023-05-05 | 2023-08-27 |
 | [Special Occasion](https://open.spotify.com/track/45l1Z0SmOABXwgJnswlpoQ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Special Occasion](https://open.spotify.com/album/3spsJSmv6raOberLtMg6mJ) | 4:31 | 2023-05-05 | 2023-05-08 |
-| [Spend The Night](https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Spend The Night](https://open.spotify.com/album/5wnhSl8Q7LMbtwYkFIYaEJ) | 3:13 | 2023-09-08 |  |
+| [Spend The Night](https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Spend The Night](https://open.spotify.com/album/5wnhSl8Q7LMbtwYkFIYaEJ) | 3:13 | 2023-09-08 | 2024-11-13 |
 | [Stand on Trial](https://open.spotify.com/track/0dAFYiW4zXXhmXXCINl5H7) | [August Charles](https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S), [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [Stand on Trial](https://open.spotify.com/album/4i9qgLAuUYMjocxgpoTg65) | 3:04 | 2024-04-05 | 2024-11-03 |
 | [Star](https://open.spotify.com/track/2QKzMseogTEJuEqVkESSUS) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv), [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Star](https://open.spotify.com/album/38UFOxnEdJVaNsMqeOVePI) | 3:55 | 2024-03-22 |  |
 | [Stay](https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Blue](https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH) | 4:30 | 2022-10-21 |  |
@@ -627,6 +627,7 @@
 | [without you](https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV) | [Secily](https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2) | [without you](https://open.spotify.com/album/003wacHGqIo43x8Qsetg7z) | 2:56 | 2022-09-30 | 2023-05-08 |
 | [Won't Let Me](https://open.spotify.com/track/0fvHcIBdmbc6wyceLQzB6Y) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Wait, There's More](https://open.spotify.com/album/02fFyLFZE7MkMTgQpZ2gzx) | 2:51 | 2024-04-19 | 2024-04-27 |
 | [Worthy](https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Worthy](https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon) | 3:28 | 2024-06-21 |  |
+| [wrong](https://open.spotify.com/track/1G08KynrJKRBaX94kPmdSK) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [cloudy](https://open.spotify.com/album/07qAkNgFlbkUpIJzT3jtTf) | 4:35 | 2024-11-08 |  |
 | [YA YA](https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:34 | 2024-03-29 |  |
 | [Yellow Cabi](https://open.spotify.com/track/4NzDQkPYgeNrE2Q5UB5KQO) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 1:57 | 2022-10-07 | 2022-10-15 |
 | [Yesterday Was Heaven](https://open.spotify.com/track/2xqHPcmoyo1CJN1WzbdWlr) | [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF) | [Yesterday Was Heaven](https://open.spotify.com/album/5oNQFN3okVx45dvbueOWzs) | 3:27 | 2023-04-28 | 2023-05-13 |

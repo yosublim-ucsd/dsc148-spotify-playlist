@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. El Cuarteto de Nos en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,674 likes - 103 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,687 likes - 103 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 49 | [TH1RT33N GH0STS](https://open.spotify.com/track/091B2uR1L5QcGXTPD3Hfka) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [TH1RT33N GH0STS](https://open.spotify.com/album/27Z2wyhQRd9gkWrhqcuiIs) | 2:50 |
 | 50 | [NO KIERO KERER](https://open.spotify.com/track/4lcdOZXYaFoNKgD0gNJxza) | [Mila La Morena](https://open.spotify.com/artist/3Z9effQtaUBYCz0P0Sup6P) | [NO KIERO KERER](https://open.spotify.com/album/2EFOz9guTJP37KRNmqlMLr) | 2:43 |
 | 51 | [Fuego En El Corazón](https://open.spotify.com/track/7jbAZo4OCnJoTXgc8B246F) | [Disidente](https://open.spotify.com/artist/1grNAkAHEaQSOCifKwW53L) | [Fuego En El Corazón](https://open.spotify.com/album/4BlMgBflIhGpNWymRuvJSE) | 3:42 |
-| 52 | [Discos Vacías](https://open.spotify.com/track/19S7OFOw8NDiT2iaWD4YPz) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs), [LOS CUBATAS](https://open.spotify.com/artist/7eoNELRjjconqEphiOWOo6) | [Discos Vacías](https://open.spotify.com/album/0zpvthj85rAO6eSjKa9rFQ) | 2:25 |
+| 52 | [Discos Vacías](https://open.spotify.com/track/19S7OFOw8NDiT2iaWD4YPz) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs) | [Discos Vacías](https://open.spotify.com/album/0zpvthj85rAO6eSjKa9rFQ) | 2:25 |
 | 53 | [Lo Lamento](https://open.spotify.com/track/5Qnn5bQvjBVki9MSybe9Jg) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Lo Lamento](https://open.spotify.com/album/6hL4z4irsQampoG2aniRK8) | 3:01 |
 | 54 | [Amanecidos](https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Tormentas Inesperadas](https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl) | 4:24 |
 | 55 | [Joderse La Vida](https://open.spotify.com/track/5BiKPJiYsyBN5nc9nyGZpm) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Joderse La Vida](https://open.spotify.com/album/5WlNxIXUWamBr4wTbgeHC7) | 2:45 |

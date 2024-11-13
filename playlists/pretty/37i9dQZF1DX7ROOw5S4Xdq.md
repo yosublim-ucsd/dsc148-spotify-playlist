@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Colo de Deus
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,003 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,034 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 28 | [O Grande \(Ao Vivo\)](https://open.spotify.com/track/52on72BDaX0N7buUxXWU0X) | [Carol Miranda](https://open.spotify.com/artist/2UeU6QwYpItw9sLDw0Ow9g), [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo) | [O Grande \(Ao Vivo\)](https://open.spotify.com/album/1rrBs8yKQllxjAeiycxNKc) | 4:13 |
 | 29 | [Grande Amor](https://open.spotify.com/track/1qXULK24xfwGNuTstzEqRl) | [Nicoli Francini](https://open.spotify.com/artist/4gaGalvl0a24VY9N8Y4hBj) | [Grande Amor](https://open.spotify.com/album/36tjum4HtffEjia0V0iOgw) | 4:15 |
 | 30 | [Meu Coração Doi de Amor](https://open.spotify.com/track/1sDFCD1Sk8dWdvmDdAI3Cp) | [Eric & Evellyn Emerick](https://open.spotify.com/artist/3FO6UYo4IVxjnQHTC1w5aM), [ONE\-Sounds](https://open.spotify.com/artist/71awyf4ddRgZM3UXc9s7ki) | [Telos](https://open.spotify.com/album/79N6q2fR9wSdp9gnokvcoh) | 7:13 |
-| 31 | [Glória](https://open.spotify.com/track/25p8CX5iovTfpGjMhsik3H) | [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [Glória](https://open.spotify.com/album/3dNXSpvgBLpBF5Q8kigxCt) | 5:06 |
+| 31 | [GLÓRIA](https://open.spotify.com/track/25p8CX5iovTfpGjMhsik3H) | [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [GLÓRIA](https://open.spotify.com/album/3dNXSpvgBLpBF5Q8kigxCt) | 5:06 |
 | 32 | [Em Tuas Águas Profundas \- Ao Vivo](https://open.spotify.com/track/0DXcJHq6Y8yyImtAHxLANr) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Em Tuas Águas Profundas \(Ao Vivo\)](https://open.spotify.com/album/75oOhKi6qHG3nYwH7M4aap) | 4:32 |
 | 33 | [Oh Quão Lindo Esse Nome É \- Ao Vivo](https://open.spotify.com/track/6jGqugideFFwcGrt12MSho) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL), [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN) | [Oh Quão Lindo Esse Nome É \(Ao Vivo\)](https://open.spotify.com/album/0MFYRpBLQMoA62flb6GhpA) | 7:08 |
 | 34 | [Basta Você Crer](https://open.spotify.com/track/4ZGnlfew1s59bbyfIoCS77) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Basta Você Crer](https://open.spotify.com/album/7B1QyIFjtKhFseE6aQwWZw) | 4:16 |

@@ -362,7 +362,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 160212,
       "name": "Bar",
       "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
@@ -1096,6 +1096,28 @@
       "duration_ms": 132072,
       "name": "Diferente",
       "url": "https://open.spotify.com/track/5OVZiVzvQ4thVjTR6hB8hK"
+    },
+    {
+      "album": {
+        "name": "DIME",
+        "url": "https://open.spotify.com/album/0dx7oUCuvOKpvA0PO2xHA1"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Zumba Fitness",
+          "url": "https://open.spotify.com/artist/3I4IAI5sdU0vakMOD6SLZL"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204615,
+      "name": "DIME",
+      "url": "https://open.spotify.com/track/0mkbok7lezU3oXp5EnyB0x"
     },
     {
       "album": {

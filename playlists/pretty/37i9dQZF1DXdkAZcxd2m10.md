@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdkAZcxd2m10.md) - [plain]
 
 > La playlist oficial de A través de mi ventana\.  <a href=“https://www.netflix.com/title/81388078”>Ver en Netflix </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,835 likes - 56 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,853 likes - 56 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdkAZcxd2m10.md) - [plain]
 | 25 | [Amiga](https://open.spotify.com/track/5s6ZptNSCr5Gdm2mW04iAH) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Amiga](https://open.spotify.com/album/3yu2aNKeWTxqCjqoIH4HDU) | 1:53 |
 | 26 | [Tisno memoriæ](https://open.spotify.com/track/4OnnTNtBMpdQioFrb0lv7Z) | [Bawrut](https://open.spotify.com/artist/15naE0RS2asDfn93USLJqV) | [In the Middle](https://open.spotify.com/album/7GyPLQXbq92GG9oG2Zhiky) | 3:47 |
 | 27 | [Si Quieres](https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Si Quieres](https://open.spotify.com/album/4elppYh2Ev29JTfiTa4NEl) | 2:47 |
-| 28 | [Fantasia](https://open.spotify.com/track/5CToP4zkykujDhW9841aGO) | [Chico Blanco](https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa) | [Fantasia](https://open.spotify.com/album/0j105nuNpX6LV3ucglFGkZ) | 4:42 |
+| 28 | [Fantasia](https://open.spotify.com/track/5CToP4zkykujDhW9841aGO) | [Chico Pablo](https://open.spotify.com/artist/6tYzySFGReUDHtq3aTTIHQ), [Chico Blanco](https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa) | [Fantasia](https://open.spotify.com/album/0j105nuNpX6LV3ucglFGkZ) | 4:42 |
 | 29 | [Sola Con Mi Voz](https://open.spotify.com/track/5mqLmisIXbtmHLejbnEQAz) | [Blanco Palamera](https://open.spotify.com/artist/6SEgrMW4qNH72UAx4h9epk) | [Promesas](https://open.spotify.com/album/6jA8JYR7URcGLGV5aVIsNM) | 4:02 |
 | 30 | [¡Hola, Mi Amor!](https://open.spotify.com/track/0nx9jYqyxwX4fmt67GOizz) | [Chavales](https://open.spotify.com/artist/5sOiOYJjn604pooGW8HlGF) | [¡Hola, Mi Amor!](https://open.spotify.com/album/5vCHBm1Kh3jvsWLsklo3ge) | 2:34 |
 | 31 | [Doble Check](https://open.spotify.com/track/1Ddiwyf1k01hzNARTJai9x) | [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [Salu2](https://open.spotify.com/album/76TfhYNf67u3tX8EnGJm70) | 2:54 |

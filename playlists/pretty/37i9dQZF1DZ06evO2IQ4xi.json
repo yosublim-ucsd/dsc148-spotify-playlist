@@ -1,12 +1,12 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 13823,
+  "num_followers": 13891,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy/3gAAAAAAymm05ZzRLKHy6grWJzi2q",
+  "snapshot_id": "ZzFJAAAAAAD/BYqY0vyGSnobQqh4c9hL",
   "tracks": [
     {
       "added_at": null,
@@ -235,18 +235,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coven Music Session, Vol. 1",
-        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
+        "name": "Soul Burger",
+        "url": "https://open.spotify.com/album/4h3I43cFQyDqezGcREnTK6"
       },
       "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        },
         {
           "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 58801,
-      "name": "60 Seconds",
-      "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
+      "duration_ms": 221039,
+      "name": "I, Myself & Me",
+      "url": "https://open.spotify.com/track/3WnMme8cHk0QEM518WNXmQ"
     },
     {
       "added_at": null,
@@ -267,22 +271,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul Burger",
-        "url": "https://open.spotify.com/album/4h3I43cFQyDqezGcREnTK6"
+        "name": "Coven Music Session, Vol. 1",
+        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
       },
       "artists": [
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        },
         {
           "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 221039,
-      "name": "I, Myself & Me",
-      "url": "https://open.spotify.com/track/3WnMme8cHk0QEM518WNXmQ"
+      "duration_ms": 58801,
+      "name": "60 Seconds",
+      "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
     },
     {
       "added_at": null,

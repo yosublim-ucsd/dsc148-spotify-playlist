@@ -9889,6 +9889,32 @@
     },
     {
       "album": {
+        "name": "In My Bones",
+        "url": "https://open.spotify.com/album/2NQM7lP9XRO7JY0QrdJUia"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        },
+        {
+          "name": "CHPTR.",
+          "url": "https://open.spotify.com/artist/15ha0mOZUeMNOMJuL9ea3e"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "In My Bones",
+      "url": "https://open.spotify.com/track/2YoWM3j6C41afmEXqiKaNV"
+    },
+    {
+      "album": {
         "name": "In My Dreams",
         "url": "https://open.spotify.com/album/7wSgLKelqFenbjGxEfN3NP"
       },

@@ -190,7 +190,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 122666,
       "name": "ALICE+",
       "url": "https://open.spotify.com/track/0uG97bjEa7Gr12VdnG7wgO"
@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "Canzone poco originale sulla solitudine",
+        "url": "https://open.spotify.com/album/0FbWcvM9NO1hDn0zKIrxJr"
+      },
+      "artists": [
+        {
+          "name": "EDEL",
+          "url": "https://open.spotify.com/artist/6Ny5r6ph1IWIPvufBpGEah"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215075,
+      "name": "Canzone poco originale sulla solitudine",
+      "url": "https://open.spotify.com/track/2HEC6IPJpl3FIqGmyY8aK0"
+    },
+    {
+      "album": {
         "name": "Canzoni alla radio",
         "url": "https://open.spotify.com/album/7l2sf9KBG6MBqVszdCC68V"
       },
@@ -586,7 +604,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 194909,
       "name": "catramen",
       "url": "https://open.spotify.com/track/5qDSfaviNFKb78IwNWM98g"
@@ -1204,6 +1222,24 @@
       "duration_ms": 176666,
       "name": "Follia",
       "url": "https://open.spotify.com/track/26zx0Jw1N3CdspZRhGwW8z"
+    },
+    {
+      "album": {
+        "name": "Forse Per Sempre",
+        "url": "https://open.spotify.com/album/0SdxqbeUd7cOTRkP3kJdRH"
+      },
+      "artists": [
+        {
+          "name": "SELMI",
+          "url": "https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Forse Per Sempre",
+      "url": "https://open.spotify.com/track/1eoJIBLBrWDrkFxcN9YGXn"
     },
     {
       "album": {
@@ -2850,7 +2886,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 148000,
       "name": "Sale",
       "url": "https://open.spotify.com/track/7wB5UV6fjJQ8c1MCZvDZUp"
@@ -2988,7 +3024,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 161310,
       "name": "se io morissi per stanotte?",
       "url": "https://open.spotify.com/track/1IehxLziYrNEF9QUxa6b5o"

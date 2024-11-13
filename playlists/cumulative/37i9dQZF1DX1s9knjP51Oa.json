@@ -5201,6 +5201,24 @@
     },
     {
       "album": {
+        "name": "Gravity - With Cello Quartet",
+        "url": "https://open.spotify.com/album/2ZMzXVdYM8dDLzUP1GHdfy"
+      },
+      "artists": [
+        {
+          "name": "Ole-Bj\u00f8rn Talstad",
+          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138136,
+      "name": "Gravity - With Cello Quartet",
+      "url": "https://open.spotify.com/track/5OlQnVPwhVoLCGO9xmedm0"
+    },
+    {
+      "album": {
         "name": "Green Leaves",
         "url": "https://open.spotify.com/album/4LHWWyLQNckOJYKgmbevdw"
       },

@@ -1,29 +1,13 @@
 {
   "description": "A collection of songs from Spotify's original video series OUTSIDE, plus more of our favorite tracks from featured artists. Cover: Carin Le\u00f3n",
-  "num_followers": 1666,
+  "num_followers": 1671,
   "original_name": "OUTSIDE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxre4QAAAACBJ0XIbocH3WIBFGG1C6gW",
+  "snapshot_id": "ZzOlQgAAAABgOXVvT5rcSjxCKUAytB5m",
   "tracks": [
-    {
-      "added_at": "2024-10-24 23:57:21",
-      "album": {
-        "name": "For Cryin' Out Loud! (Spotify OUTSIDE Version) [Live from Los Angeles, CA]",
-        "url": "https://open.spotify.com/album/3V9duXb3ewSmDoh3qm16XO"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 238186,
-      "name": "For Cryin' Out Loud! (Spotify OUTSIDE Version) - Live from Los Angeles, CA",
-      "url": "https://open.spotify.com/track/7AeSEZgpU02dXrVSM32QFc"
-    },
     {
       "added_at": "2024-10-12 00:53:10",
       "album": {
@@ -71,6 +55,22 @@
       "duration_ms": 297547,
       "name": "Come Down Soon (Spotify OUTSIDE Version) - Live from Pasadena",
       "url": "https://open.spotify.com/track/059Yqzlm6TAAd1YI7hKYNW"
+    },
+    {
+      "added_at": "2024-10-24 23:57:21",
+      "album": {
+        "name": "For Cryin' Out Loud! (Spotify OUTSIDE Version) [Live from Los Angeles, CA]",
+        "url": "https://open.spotify.com/album/3V9duXb3ewSmDoh3qm16XO"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 238186,
+      "name": "For Cryin' Out Loud! (Spotify OUTSIDE Version) - Live from Los Angeles, CA",
+      "url": "https://open.spotify.com/track/7AeSEZgpU02dXrVSM32QFc"
     },
     {
       "added_at": "2024-10-12 00:53:10",
@@ -251,266 +251,6 @@
       "duration_ms": 155831,
       "name": "Still In Shocc (Spotify OUTSIDE Version) - Live from Watts, CA",
       "url": "https://open.spotify.com/track/0zivr0gI6MPlcy2apSKMA7"
-    },
-    {
-      "added_at": "2024-10-12 00:53:10",
-      "album": {
-        "name": "Blackout Drunk",
-        "url": "https://open.spotify.com/album/171QO1TFbCYhbgKoYwmwcH"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 148021,
-      "name": "Blackout Drunk",
-      "url": "https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh"
-    },
-    {
-      "added_at": "2024-10-24 23:57:21",
-      "album": {
-        "name": "For Cryin' Out Loud!",
-        "url": "https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 231506,
-      "name": "Lotus Eater",
-      "url": "https://open.spotify.com/track/2E1C3NlPA0AfmiFJE4MTXT"
-    },
-    {
-      "added_at": "2024-10-12 00:53:10",
-      "album": {
-        "name": "God Said No",
-        "url": "https://open.spotify.com/album/0bIXnppwOEeFqEUV0vqJJn"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 159213,
-      "name": "Spite",
-      "url": "https://open.spotify.com/track/1yMkrQypE7sGZrd2ZlSmRA"
-    },
-    {
-      "added_at": "2024-10-12 00:53:10",
-      "album": {
-        "name": "Sonido C\u00f3smico",
-        "url": "https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 188396,
-      "name": "Low Sun",
-      "url": "https://open.spotify.com/track/1siRw9E67ouBWsORObDuhZ"
-    },
-    {
-      "added_at": "2024-10-12 00:53:10",
-      "album": {
-        "name": "Colmillo De Leche",
-        "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 186455,
-      "name": "Primera Cita",
-      "url": "https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF"
-    },
-    {
-      "added_at": "2024-10-12 00:53:10",
-      "album": {
-        "name": "Only God Was Above Us",
-        "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 249560,
-      "name": "Capricorn",
-      "url": "https://open.spotify.com/track/4oAGV7IADPWfkpk6aGQqZt"
-    },
-    {
-      "added_at": "2024-10-12 00:53:10",
-      "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
-    },
-    {
-      "added_at": "2024-10-12 00:53:10",
-      "album": {
-        "name": "SURVIVORS GUILT: THE MIXTAPE//",
-        "url": "https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY"
-      },
-      "artists": [
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 118733,
-      "name": "estella//",
-      "url": "https://open.spotify.com/track/3emo5sUq2OwBctNgX0NMEV"
-    },
-    {
-      "added_at": "2024-10-12 00:53:10",
-      "album": {
-        "name": "The Wolf of Grape Street",
-        "url": "https://open.spotify.com/album/3PE60QLwMWd92LYRAEcuml"
-      },
-      "artists": [
-        {
-          "name": "03 Greedo",
-          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
-        }
-      ],
-      "duration_ms": 219834,
-      "name": "Substance",
-      "url": "https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol"
-    },
-    {
-      "added_at": "2024-10-12 00:53:10",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 223119,
-      "name": "Tennessee Orange",
-      "url": "https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ"
-    },
-    {
-      "added_at": "2024-10-12 00:53:10",
-      "album": {
-        "name": "Shoreline Mafia Presents Rob Vicious: Traplantic",
-        "url": "https://open.spotify.com/album/2rSKi2QJ6v22f464Uq3ose"
-      },
-      "artists": [
-        {
-          "name": "Shoreline Mafia",
-          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
-        },
-        {
-          "name": "Rob Vicious",
-          "url": "https://open.spotify.com/artist/2gGtD7OGXbNZAY3oCZvZqA"
-        },
-        {
-          "name": "OHGEESY",
-          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
-        },
-        {
-          "name": "Fenix Flexin",
-          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
-        },
-        {
-          "name": "Master Kato",
-          "url": "https://open.spotify.com/artist/6pb2Dl1FHK081UKW6aUqgF"
-        }
-      ],
-      "duration_ms": 174335,
-      "name": "Bands (feat. OhGeesy, Fenix Flexin & Master Kato)",
-      "url": "https://open.spotify.com/track/1n8wr8tRHs5jmBxNWXedcn"
-    },
-    {
-      "added_at": "2024-10-12 00:53:10",
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 201186,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/059gVW493dUeBHkn0gE1zm"
-    },
-    {
-      "added_at": "2024-10-12 00:53:10",
-      "album": {
-        "name": "Luke Grimes",
-        "url": "https://open.spotify.com/album/3z24fpMlBap60LQ1Or1Gq2"
-      },
-      "artists": [
-        {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
-        }
-      ],
-      "duration_ms": 134760,
-      "name": "No Horse To Ride",
-      "url": "https://open.spotify.com/track/1KNuxvWSka5wOXQOOOyFsw"
-    },
-    {
-      "added_at": "2024-10-12 00:53:10",
-      "album": {
-        "name": "Coal",
-        "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
-      },
-      "artists": [
-        {
-          "name": "Dylan Gossett",
-          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "Coal",
-      "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
-    },
-    {
-      "added_at": "2024-10-12 00:53:10",
-      "album": {
-        "name": "TOO YOUNG TO BE SAD",
-        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 170226,
-      "name": "you broke me first",
-      "url": "https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63"
     }
   ],
   "unique_name": "OUTSIDE",

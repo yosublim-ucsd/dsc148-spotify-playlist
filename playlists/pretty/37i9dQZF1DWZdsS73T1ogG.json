@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Chris Palace ",
-  "num_followers": 508210,
+  "num_followers": 508218,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
@@ -266,9 +266,13 @@
         {
           "name": "Clarent",
           "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         }
       ],
-      "duration_ms": 171428,
+      "duration_ms": 240000,
       "name": "IA",
       "url": "https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo"
     },
@@ -920,12 +924,12 @@
           "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
         },
         {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
           "name": "Rvfv",
           "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
         }
       ],
       "duration_ms": 185887,

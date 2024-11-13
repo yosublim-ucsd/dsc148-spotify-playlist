@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Naomi Lareine",
-  "num_followers": 35460,
+  "num_followers": 35465,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "bulletholes",
-        "url": "https://open.spotify.com/album/2uVzacKODdSUOATdB7K2yB"
-      },
-      "artists": [
-        {
-          "name": "verifiziert",
-          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
-        }
-      ],
-      "duration_ms": 152933,
-      "name": "bulletholes",
-      "url": "https://open.spotify.com/track/1rhBLp3LOrjVWn8nxKgbZO"
-    },
-    {
-      "added_at": "2024-11-05 23:00:00",
-      "album": {
         "name": "the melody",
         "url": "https://open.spotify.com/album/7BS4O9X6FegZiBr2DwcXyX"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 145453,
       "name": "the melody",
       "url": "https://open.spotify.com/track/61J7lYjF9oUeM7p4HRlnGv"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "bulletholes",
+        "url": "https://open.spotify.com/album/2uVzacKODdSUOATdB7K2yB"
+      },
+      "artists": [
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "duration_ms": 152933,
+      "name": "bulletholes",
+      "url": "https://open.spotify.com/track/1rhBLp3LOrjVWn8nxKgbZO"
     },
     {
       "added_at": "2024-11-05 23:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "spirallore",
-        "url": "https://open.spotify.com/album/33VF07B5h8UDxvyMGTGRbF"
-      },
-      "artists": [
-        {
-          "name": "benzii",
-          "url": "https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1"
-        }
-      ],
-      "duration_ms": 148040,
-      "name": "riding it",
-      "url": "https://open.spotify.com/track/65ATbwWkyLQBNhhtT07Qoo"
-    },
-    {
-      "added_at": "2024-11-05 23:00:00",
-      "album": {
         "name": "Welcome Back",
         "url": "https://open.spotify.com/album/4qP2cbqLyu4sHbEiRARY8z"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 168255,
       "name": "Welcome Back",
       "url": "https://open.spotify.com/track/1lmaPGAWk6bAq2PlZU5YN8"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "spirallore",
+        "url": "https://open.spotify.com/album/33VF07B5h8UDxvyMGTGRbF"
+      },
+      "artists": [
+        {
+          "name": "benzii",
+          "url": "https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1"
+        }
+      ],
+      "duration_ms": 148040,
+      "name": "riding it",
+      "url": "https://open.spotify.com/track/65ATbwWkyLQBNhhtT07Qoo"
     },
     {
       "added_at": "2024-11-05 23:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "WINNER DINNER",
-        "url": "https://open.spotify.com/album/3TW5JzZTYD3Gm3bjlJa4qb"
-      },
-      "artists": [
-        {
-          "name": "TOXIMAMI",
-          "url": "https://open.spotify.com/artist/27S2557qJiAXvFenQvXT85"
-        }
-      ],
-      "duration_ms": 189197,
-      "name": "WINNER DINNER",
-      "url": "https://open.spotify.com/track/3TAzTC4dAveF1T9Mp5syyj"
-    },
-    {
-      "added_at": "2024-11-05 23:00:00",
-      "album": {
         "name": "Baby Driver",
         "url": "https://open.spotify.com/album/1HEp6kdivltulciPNzdY4W"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 193296,
       "name": "Baby Driver",
       "url": "https://open.spotify.com/track/6cAnUgbTIX1W1EOirSUJIT"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "WINNER DINNER",
+        "url": "https://open.spotify.com/album/3TW5JzZTYD3Gm3bjlJa4qb"
+      },
+      "artists": [
+        {
+          "name": "TOXIMAMI",
+          "url": "https://open.spotify.com/artist/27S2557qJiAXvFenQvXT85"
+        }
+      ],
+      "duration_ms": 189197,
+      "name": "WINNER DINNER",
+      "url": "https://open.spotify.com/track/3TAzTC4dAveF1T9Mp5syyj"
     }
   ],
   "unique_name": "EQUAL GSA",

@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 37191,
+  "num_followers": 37209,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy/3gAAAAAA/6rqtA00r29bHVBuJN4X4",
+  "snapshot_id": "ZzFJAAAAAAAJS4MbuPQAud5+CiNCWzFa",
   "tracks": [
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Soy El Pirata",
-        "url": "https://open.spotify.com/album/5StDUNYTjFuRdk7LG9Yta9"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 168670,
-      "name": "Yo Soy El Pirata",
-      "url": "https://open.spotify.com/track/50hNprrEeMeZ89Uh2YgzUg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Miedo (En Vivo)",
         "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 210000,
       "name": "Sin Miedo - En Vivo",
       "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Soy El Pirata",
+        "url": "https://open.spotify.com/album/5StDUNYTjFuRdk7LG9Yta9"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 168670,
+      "name": "Yo Soy El Pirata",
+      "url": "https://open.spotify.com/track/50hNprrEeMeZ89Uh2YgzUg"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Fruta Prohibida - En Vivo",
+      "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mirame (feat. Blessd) [Remix]",
         "url": "https://open.spotify.com/album/0VwgnKU3yLwiMnkutv5btR"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 193605,
       "name": "Mirame (feat. Blessd) - Remix",
       "url": "https://open.spotify.com/track/72BPA1JIC8LBrPP1uu1UNO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Fruta Prohibida - En Vivo",
-      "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
     },
     {
       "added_at": null,
@@ -847,6 +847,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Danny De Chicali (En Vivo)",
+        "url": "https://open.spotify.com/album/7CgGpLyXJscIpG8RIjOvIK"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Danny Morales",
+          "url": "https://open.spotify.com/artist/5rLhODPWcHrGnaMX5Xl3ga"
+        },
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "El Danny De Chicali (En Vivo)",
+      "url": "https://open.spotify.com/track/6lRgHvhZ3a0BeLhUuXlCzP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Markitos",
         "url": "https://open.spotify.com/album/23ZizR7IzKbnUiSY8SFydc"
       },
@@ -879,30 +903,6 @@
       "duration_ms": 151927,
       "name": "Ebrio De Amor",
       "url": "https://open.spotify.com/track/2RLhyFesIfIj1I6oNVBqc2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Danny De Chicali (En Vivo)",
-        "url": "https://open.spotify.com/album/7CgGpLyXJscIpG8RIjOvIK"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Danny Morales",
-          "url": "https://open.spotify.com/artist/5rLhODPWcHrGnaMX5Xl3ga"
-        },
-        {
-          "name": "La Decima Banda",
-          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "El Danny De Chicali (En Vivo)",
-      "url": "https://open.spotify.com/track/6lRgHvhZ3a0BeLhUuXlCzP"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,985 likes - 132 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,994 likes - 132 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 116 | [GBGN](https://open.spotify.com/track/1fBhRipx61ht4NGFOztJeh) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5), [ZHOUMI](https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH) | [GBGN](https://open.spotify.com/album/0Ki9p6PWle09xFmnmXDyUH) | 4:24 |
 | 117 | [愛上你啦！](https://open.spotify.com/track/3vgynfbEAx3BA350K1Z2k4) | [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [愛上你啦！](https://open.spotify.com/album/1WSNFnxoUGlj4hdDbJVdjm) | 2:34 |
 | 118 | [歌单里最温柔的放克 Gentle Funk](https://open.spotify.com/track/1yqK95YlqCS7SPzxdOhkfF) | [玫瑰岛Rose Island](https://open.spotify.com/artist/4ZV4L4Z3iSF0cIlzfrvpRj) | [出走玫瑰岛 To RoseIsland](https://open.spotify.com/album/6AYnRX4e43q0DXBrwG9Tul) | 3:37 |
-| 119 | [无需理由](https://open.spotify.com/track/3JfMI0k7SgLe8WkYW6JV31) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [會發光的人](https://open.spotify.com/album/1KOH3fF4BGX3l4r0v8nbdk) | 3:54 |
+| 119 | [無需理由](https://open.spotify.com/track/3JfMI0k7SgLe8WkYW6JV31) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [會發光的人](https://open.spotify.com/album/1KOH3fF4BGX3l4r0v8nbdk) | 3:54 |
 | 120 | [What If I](https://open.spotify.com/track/1jqxpxRDLuIjYzXTL717Dc) | [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [What If I](https://open.spotify.com/album/3BqHJHvihYNPICc7tBnqxl) | 2:59 |
 | 121 | [Love Is Trust](https://open.spotify.com/track/2IC1aC2Wg9Po0zGfPv0NfG) | [CED](https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC), [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [Love Is Trust](https://open.spotify.com/album/33gxes55WRpUCldyRyoJq0) | 3:52 |
 | 122 | [Bedroom](https://open.spotify.com/track/0ZWsbVigel4rWEmjBf7nCi) | [Raelyn Chen](https://open.spotify.com/artist/5f8j9XWy7cGlPSVedpEMem) | [Bedroom](https://open.spotify.com/album/1pgPFdHEeO0OoC1hGoIUZD) | 4:12 |

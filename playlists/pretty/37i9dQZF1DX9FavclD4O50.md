@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 
 > Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument\. Clara Rockmore on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,234 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,241 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 | 22 | [Oakunar Lynntuja \(Strange Birds\)](https://open.spotify.com/track/7ns1CAe4jXKSlJ0lz5AZsr) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [American Contemporary Music Ensemble](https://open.spotify.com/artist/6nTDqfwF5uJYfoxQeJaTeO) | [Fantasias for Theremin and String Quartet](https://open.spotify.com/album/2GCBMMIQ718Uw1dgTtrFbF) | 3:36 |
 | 23 | [Somewhere over the Rainbow](https://open.spotify.com/track/5TFRWQT4v6LVQluDYoIcpe) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Theremin Ameriqué: The American Songbook](https://open.spotify.com/album/3iQE5NRJUsS6bd61fg63xY) | 2:43 |
 | 24 | [Moritz Eggert: The Son Of the Daughter Of Dracula Versus The Incredible Frankenstein Monster \(From Outer Space\)](https://open.spotify.com/track/1CL8DcTGkqmXwO8au6LNZQ) | [Moritz Eggert](https://open.spotify.com/artist/5kEOPoyE7tFJVX5mEkJ791), [Barbara Buchholz](https://open.spotify.com/artist/5PKeaAkMpVKmfw9ArG4US3), [Lydia Kavina](https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv), [Kammerensemble Neue Musik Berlin](https://open.spotify.com/artist/1N6kZMavwtrER7WWYwleuI) | [touch! don touch! music for theremin](https://open.spotify.com/album/5PK2qYVj42440Mlb2aYNZH) | 8:45 |
-| 25 | [A Happy Place](https://open.spotify.com/track/5kQdkVxKCKcDH6yPKXiyTQ) | [Dorit Chrysler](https://open.spotify.com/artist/20rXRDxITRCP0BZVwUYTfV) | [A Happy Place](https://open.spotify.com/album/1DW3ytYb3yN63c9Mmq0pgr) | 2:09 |
-| 26 | [Overture \(Reprise\)](https://open.spotify.com/track/7sblPlWxkqITqNRLVgDCZT) | [Louis and Bebe Barron](https://open.spotify.com/artist/5CguFfXKOQIiuIRPM01581) | [Forbidden Planet](https://open.spotify.com/album/3zQQtu3a9Y7ZEDAKcftznw) | 2:15 |
+| 25 | [Overture \(Reprise\)](https://open.spotify.com/track/7sblPlWxkqITqNRLVgDCZT) | [Louis and Bebe Barron](https://open.spotify.com/artist/5CguFfXKOQIiuIRPM01581) | [Forbidden Planet](https://open.spotify.com/album/3zQQtu3a9Y7ZEDAKcftznw) | 2:15 |
+| 26 | [A Happy Place](https://open.spotify.com/track/5kQdkVxKCKcDH6yPKXiyTQ) | [Dorit Chrysler](https://open.spotify.com/artist/20rXRDxITRCP0BZVwUYTfV) | [A Happy Place](https://open.spotify.com/album/1DW3ytYb3yN63c9Mmq0pgr) | 2:09 |
 | 27 | [Bachianas Brasileiras: No\. 5, Aria](https://open.spotify.com/track/2QCSXfBGFMHRc0KzjMg27B) | [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [The Listening Room Ensemble](https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786) | [Music In and On The Air](https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1) | 7:56 |
 | 28 | [O Cease Thy Singing, Maiden Fair, Op\. 4: No\. 4](https://open.spotify.com/track/5rnadrQ6ud2mfwonOcC2s6) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Erick Friedman](https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music In and On The Air](https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1) | 4:57 |
 | 29 | [Dido's Lament \(feat\. Benjamin Marcantoni\)](https://open.spotify.com/track/22UH0gMZth71gKQYFhbzKm) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A), [Benjamin Marcantoni](https://open.spotify.com/artist/2i9Gox5Dsz0I4vA8AoTO7F) | [Theremin Classique](https://open.spotify.com/album/4tN4A0tFqf2k71MxMkCsmY) | 4:39 |

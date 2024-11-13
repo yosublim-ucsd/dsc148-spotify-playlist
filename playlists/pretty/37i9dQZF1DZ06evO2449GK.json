@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 50795,
+  "num_followers": 50837,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy/3gAAAAABXIoZqyrhJfg8EicS6TfqG",
+  "snapshot_id": "ZzFJAAAAAAB6O5oHupzKz3w9gZaAdu8z",
   "tracks": [
     {
       "added_at": null,
@@ -399,18 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Revancha de los Timidos",
-        "url": "https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9"
+        "name": "Horizonte",
+        "url": "https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ"
       },
       "artists": [
+        {
+          "name": "Aerophon",
+          "url": "https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep"
+        },
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         }
       ],
-      "duration_ms": 254640,
-      "name": "Comediantes de Velorio",
-      "url": "https://open.spotify.com/track/0AR1NNcJSbkzVsJQzW6xuy"
+      "duration_ms": 316002,
+      "name": "La Esquina del Mariachi",
+      "url": "https://open.spotify.com/track/5Ulvsqb4ekKiSuiEWFAAro"
     },
     {
       "added_at": null,
@@ -435,22 +439,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horizonte",
-        "url": "https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ"
+        "name": "La Revancha de los Timidos",
+        "url": "https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9"
       },
       "artists": [
-        {
-          "name": "Aerophon",
-          "url": "https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep"
-        },
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         }
       ],
-      "duration_ms": 316002,
-      "name": "La Esquina del Mariachi",
-      "url": "https://open.spotify.com/track/5Ulvsqb4ekKiSuiEWFAAro"
+      "duration_ms": 254640,
+      "name": "Comediantes de Velorio",
+      "url": "https://open.spotify.com/track/0AR1NNcJSbkzVsJQzW6xuy"
     },
     {
       "added_at": null,

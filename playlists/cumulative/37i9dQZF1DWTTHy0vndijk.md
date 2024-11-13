@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: CHUU\(츄\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: Lovelyz\(러블리즈\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-453 songs - 1 day 0 hr 57 min
+454 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [No Oh Oh](https://open.spotify.com/track/4XeQFSPMRpru7afNxa01Lr) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) | [Nu.Clear](https://open.spotify.com/album/2Izm951aqeQTSHrJW0hZ16) | 3:43 | 2021-11-29 | 2022-04-14 |
 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix \(Stray Kids\)](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 | 2022-07-04 |  |
 | [No Way \(feat\. I’MIN\)](https://open.spotify.com/track/1wZVmivEx6PL8u0l2Ucl3j) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx), [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [I'MIN](https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl) | [No Way \(feat\. I'MIN\)](https://open.spotify.com/album/5XBMI7oEj1BKJqS9dTbXc8) | 3:04 | 2023-11-17 | 2024-01-04 |
+| [November](https://open.spotify.com/track/2iDnlUEIrooPIRExGQBPcZ) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [November](https://open.spotify.com/album/1AJn6Qchecae5v4M2dF2s1) | 3:11 | 2024-11-12 |  |
 | [Now or Never](https://open.spotify.com/track/1FNZqjmqkJgE5Bn8BAzZGt) | [APRIL](https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa) | [APRIL Summer Special Album ‘Hello Summer’](https://open.spotify.com/album/3LxHIjDaVAwzkagYX3dShh) | 3:31 | 2021-11-29 | 2022-07-09 |
 | [Now, We](https://open.spotify.com/track/6OwHKARRC2QrDllpextLMN) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 2nd Album Repackage \(Now, We\)](https://open.spotify.com/album/78NxvXVrMKH7s3CZqSQOcK) | 3:16 | 2021-11-29 | 2022-07-24 |
 | [NUMNUM](https://open.spotify.com/track/2JGy6nIFRqS0OGq0HRguk0) | [DayDream](https://open.spotify.com/artist/7skeDYplGZVR7Kgzpz49Bq) | [NUMNUM](https://open.spotify.com/album/6oPK3VHxcMgQ87kO76zmpa) | 3:02 | 2022-01-26 | 2022-07-04 |
@@ -368,7 +369,7 @@
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-07 |  |
 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-06-21 |  |
 | [Supersonic](https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) | 2:54 | 2024-08-12 |  |
-| [SUPERWOMAN](https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [The 1st Mini Album 'WE UNIS'](https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim) | 3:08 | 2024-03-28 |  |
+| [SUPERWOMAN](https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [The 1st Mini Album 'WE UNIS'](https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim) | 3:08 | 2024-03-28 | 2024-11-13 |
 | [Sweet Dream](https://open.spotify.com/track/0DNTNFa6zMDfjqpQFdcb3q) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Sugar Man2, Pt\. 18](https://open.spotify.com/album/3PnkmcRY6t79MKlpEy0tQ2) | 3:41 | 2021-11-29 | 2022-07-24 |
 | [Sweet Heart](https://open.spotify.com/track/7epNwgPw8FrM1zZBWLOplG) | [OH MY GIRL BANHANA](https://open.spotify.com/artist/0X1f2U9bxiC3DhKA8OcvgG) | [Clean With Passion For Now, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5TEhGv56KAw3ad8mhHcrAF) | 3:41 | 2022-01-04 | 2022-07-20 |
 | [SWEET TALKER](https://open.spotify.com/track/3J10xA3LIiMmaPxKC9h0Jq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [What is Love?](https://open.spotify.com/album/5NObA8Cx4Ri5cATR1DLTjj) | 3:27 | 2022-01-04 | 2022-07-05 |

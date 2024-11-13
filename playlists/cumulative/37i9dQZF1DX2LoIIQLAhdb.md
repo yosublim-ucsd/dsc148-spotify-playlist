@@ -4,7 +4,7 @@
 
 > Le R&B français, nouvelle ère\. Photo : Dadju x Jungeli
 
-375 songs - 17 hr 52 min
+376 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [Encorps](https://open.spotify.com/track/7LIdkzgw9GofNXPnc6IbV1) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:56 | 2023-02-16 | 2023-07-21 |
 | [Encré](https://open.spotify.com/track/68oq1f0Jd0gtdmofDUR5wn) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Encré](https://open.spotify.com/album/2Ix9DqXnaQxL9X6FyWl9Kv) | 3:30 | 2022-11-24 | 2022-12-16 |
 | [Ex](https://open.spotify.com/track/5Y4Dekluv6nGMVTSnqzJyA) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr) | [4 SEASONS \- WINTER](https://open.spotify.com/album/6cU214tMQeiPGIp4gmiEcz) | 3:21 | 2023-12-21 | 2024-02-16 |
-| [FACE](https://open.spotify.com/track/1gHlPnzWuBnFOPvyXi5C5K) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2) | [FACE](https://open.spotify.com/album/3tterexf3zqHyQ3bSsAhKD) | 3:20 | 2024-11-07 |  |
+| [FACE](https://open.spotify.com/track/1gHlPnzWuBnFOPvyXi5C5K) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2) | [FACE](https://open.spotify.com/album/3tterexf3zqHyQ3bSsAhKD) | 3:20 | 2024-11-07 | 2024-11-13 |
+| [FACE](https://open.spotify.com/track/5zNKgKLWCrxF1YPSOipgh3) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2) | [FACE](https://open.spotify.com/album/28hVtxEQbJK9A15H7DH7Re) | 3:20 | 2024-11-12 |  |
 | [Faire sans](https://open.spotify.com/track/3E0KhzsFwvaUeJeMpCIudk) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Faire sans](https://open.spotify.com/album/3X4u5L4fmzr4q6gxGUm4vj) | 2:07 | 2024-05-02 | 2024-06-14 |
 | [FAIS COMME SI](https://open.spotify.com/track/6RuiQmOMRgjmJetS5LSven) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [ROUGE](https://open.spotify.com/album/28dP7VNZqg0SyrIZtPsbfj) | 3:01 | 2022-11-24 | 2022-12-02 |
 | [FALLAIT M’DIRE](https://open.spotify.com/track/7JB7r7AV0sUWu96fZ3rwCC) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [FALLAIT M’DIRE](https://open.spotify.com/album/3a56sPBNa7KhD66Frsyz5P) | 2:54 | 2024-05-30 |  |

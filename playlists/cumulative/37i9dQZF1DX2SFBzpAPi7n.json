@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Sin Ye Young(\uc2e0\uc608\uc601)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: KAVE) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -3718,7 +3718,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 266400,
       "name": "first flight (feat. GARTENG)",
       "url": "https://open.spotify.com/track/3gCP1AG9SDjFgcnmKOK4Cj"
@@ -5871,6 +5871,24 @@
     },
     {
       "album": {
+        "name": "IRON FAMILY, Pt.4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1OxMrHYdDJUbK13N6exeMc"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218033,
+      "name": "In Our Lives",
+      "url": "https://open.spotify.com/track/2C4d6wVmrpgE24JdJ5bbPs"
+    },
+    {
+      "album": {
         "name": "24 PART 2",
         "url": "https://open.spotify.com/album/43xZhTwfBW3tsmtjTuT3XM"
       },
@@ -5994,7 +6012,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 177250,
       "name": "iNSTEAD!",
       "url": "https://open.spotify.com/track/5OOGWXB0EWgAULLPzC27Nc"
@@ -7229,6 +7247,24 @@
     },
     {
       "album": {
+        "name": "LOVE OF MY LIFE",
+        "url": "https://open.spotify.com/album/64lsqGTxNQfp8di15Xjplv"
+      },
+      "artists": [
+        {
+          "name": "Cha Woo Joo",
+          "url": "https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "LOVE OF MY LIFE",
+      "url": "https://open.spotify.com/track/5BbGmPkxTB60Ojn7Diu4pY"
+    },
+    {
+      "album": {
         "name": "Love Scene",
         "url": "https://open.spotify.com/album/32qhbNn4vBYHQGlmN33BP4"
       },
@@ -7561,6 +7597,24 @@
     },
     {
       "album": {
+        "name": "Mikael",
+        "url": "https://open.spotify.com/album/0bYXowGjv2zW5QN2nyvuO0"
+      },
+      "artists": [
+        {
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265258,
+      "name": "Mikael",
+      "url": "https://open.spotify.com/track/3DOq3iCt2I1X9cPAWdWGXB"
+    },
+    {
+      "album": {
         "name": "minisode 3: TOMORROW",
         "url": "https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj"
       },
@@ -7788,7 +7842,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 176280,
       "name": "My Side",
       "url": "https://open.spotify.com/track/2bfRzTMJIeHnxa9JbpmHMi"
@@ -8881,6 +8935,24 @@
     },
     {
       "album": {
+        "name": "Turbulence: A Guide to Balance",
+        "url": "https://open.spotify.com/album/3GFsHfijih7udSL8yTu3HR"
+      },
+      "artists": [
+        {
+          "name": "Kim Marie",
+          "url": "https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189440,
+      "name": "Perfect Timing",
+      "url": "https://open.spotify.com/track/4ABUtfKjZa9L74DhyhRvkq"
+    },
+    {
+      "album": {
         "name": "OOHYO Returns",
         "url": "https://open.spotify.com/album/5iPXqgnaZVmXwIv9acle9Q"
       },
@@ -8964,7 +9036,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 172040,
       "name": "Piece of a Dream",
       "url": "https://open.spotify.com/track/5mqAFblRDtBTgq0gBzspHg"
@@ -9574,6 +9646,24 @@
       "duration_ms": 176466,
       "name": "RED",
       "url": "https://open.spotify.com/track/4Dy1Iav5ND9bJCHE090An9"
+    },
+    {
+      "album": {
+        "name": "Red Flag",
+        "url": "https://open.spotify.com/album/5NplbE4HAUdejPhDiHsylB"
+      },
+      "artists": [
+        {
+          "name": "verycoybunny",
+          "url": "https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190706,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/3aIQnhaDEZbLOSbos64xXP"
     },
     {
       "album": {
@@ -10498,7 +10588,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 230360,
       "name": "She's not straight",
       "url": "https://open.spotify.com/track/6K14UCl6PmwnmXxYOkfmeL"
@@ -13575,6 +13665,24 @@
     },
     {
       "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/0ZG0wS9PNE1GYE7NVjHBFP"
+      },
+      "artists": [
+        {
+          "name": "KAVE",
+          "url": "https://open.spotify.com/artist/2ULfZAs05dyyWxznOPua14"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204614,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2F6CENl6unVtch4oN2o7I5"
+    },
+    {
+      "album": {
         "name": "Armored Saurus Season2 OST Part.1",
         "url": "https://open.spotify.com/album/1lJHwaencWgzycwl7aSwt4"
       },
@@ -13904,7 +14012,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 257286,
       "name": "Young Man",
       "url": "https://open.spotify.com/track/2iF0v1qgFjCFBhHTdscbVA"

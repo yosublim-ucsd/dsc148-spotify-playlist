@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 
 > This is NAV\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,243 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,246 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 50 | [Freshman List](https://open.spotify.com/track/4LeJfeJ9u53QLp997SRhim) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [RECKLESS](https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ) | 3:06 |
 | 51 | [FAVORITE LADY \(with NAV & Cash Cobain\)](https://open.spotify.com/track/4DCvMCGfSBMoNwvpKqtCpt) | [Diany Dior](https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [FAVORITE LADY \(with NAV & Cash Cobain\)](https://open.spotify.com/album/78adtlPeGeYd1Am0o9dNz7) | 3:24 |
 
-Snapshot ID: `Zy/3gAAAAAB5a/947TzjJl0TbPA0QvK2`
+Snapshot ID: `ZzFJAAAAAAD2npNPbzgtZnH2u6G1UgbW`

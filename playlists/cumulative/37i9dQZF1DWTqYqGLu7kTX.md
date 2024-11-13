@@ -4,7 +4,7 @@
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-217 songs - 10 hr 52 min
+218 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Howdy Hommies](https://open.spotify.com/track/5KZv0p9MQ2QGuSZeoPOnbe) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [SYNC](https://open.spotify.com/artist/2AgkVvon5F9e3XEBveFe5K) | [Sensational](https://open.spotify.com/album/7BbuSjeZmKAaXYt22Av57u) | 2:22 | 2024-10-10 | 2024-11-09 |
 | [Hukam](https://open.spotify.com/track/3CslTKRGmBGgEsCUnCfn67) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Hukam](https://open.spotify.com/album/1ljKOIBhak9Howa3dSDsGF) | 3:50 | 2023-03-18 | 2023-09-05 |
 | [HUNDO](https://open.spotify.com/track/7yz7n00FMO8AUxgvBHXZab) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [HUNDO](https://open.spotify.com/album/0vJ4vgqMg9DXt6zsnXaVRN) | 2:23 | 2024-11-08 |  |
+| [Hustle](https://open.spotify.com/track/56VeOPxdEti75KddXLOivp) | [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [Be The Change](https://open.spotify.com/album/3FSUBDoKXuJnBRqlS9I0Z4) | 3:37 | 2024-11-12 |  |
 | [I Know A Guy](https://open.spotify.com/track/1DFFzCDrgZRkRL4noqE6xd) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [RAK](https://open.spotify.com/artist/5fRjKFvGLlv4XCjkgWuPoT), [LXSH](https://open.spotify.com/artist/4xoF0p9MrhB4Qxh9sIwPaz) | [I Know A Guy](https://open.spotify.com/album/0GyPi7lYfWvD1SJwkjdRhc) | 4:31 | 2024-10-11 | 2024-11-08 |
 | [IDGAF \(feat\. Morrisson\)](https://open.spotify.com/track/7F5O2pMgNNjONTbdqQx9b3) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Morrisson](https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 2:56 | 2023-03-18 | 2023-04-24 |
 | [Image](https://open.spotify.com/track/5ezh8EaOW7Bfim0rtmpHKi) | [Teji Jassar](https://open.spotify.com/artist/3R3djRbqthCXs2LWCSSqmz), [TRIBE](https://open.spotify.com/artist/3GAJRXC59K8LIgPdTRxMjb), [Raaj The Rapper](https://open.spotify.com/artist/1o0aXVRVDpojoKrAUtp7Mo) | [Image](https://open.spotify.com/album/1tgfFrbFbbI7DuCfN1hWnY) | 3:19 | 2024-04-02 | 2024-07-19 |
@@ -127,7 +128,7 @@
 | [Levels](https://open.spotify.com/track/60YICjIPdL7LDBcCMK0tAk) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Levels](https://open.spotify.com/album/3UhoziCnYqcgxFpzYSx233) | 3:48 | 2023-03-18 |  |
 | [Lighter](https://open.spotify.com/track/7xPSRRceQoC0nJqfg5P60h) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [The Finest](https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy) | 3:26 | 2024-07-26 | 2024-08-24 |
 | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 | 2023-03-18 | 2023-04-12 |
-| [Mac 10](https://open.spotify.com/track/0Vgr2dVE3TNkCX9ClRmRNS) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Mac 10](https://open.spotify.com/album/46I5K3RT1uGm8RZWlNoXpX) | 2:46 | 2024-09-28 |  |
+| [Mac 10](https://open.spotify.com/track/0Vgr2dVE3TNkCX9ClRmRNS) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Mac 10](https://open.spotify.com/album/46I5K3RT1uGm8RZWlNoXpX) | 2:46 | 2024-09-28 | 2024-11-13 |
 | [Maddasa](https://open.spotify.com/track/6PwSJSOkmsnPsYl5o9Aicf) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Maddasa](https://open.spotify.com/album/7DlAfq7u6KdeqmWVJ4cdrL) | 2:01 | 2024-11-11 |  |
 | [Mafia Family](https://open.spotify.com/track/5L2noDPHJSpviufoZoeWuQ) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [SHV](https://open.spotify.com/artist/2tQ6KitZbXn63ikvq6cbMo), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Unity, Vol\. 1](https://open.spotify.com/album/6dMxu2itWiv3N804kxn6PW) | 2:25 | 2024-03-26 | 2024-07-27 |
 | [Majha Block](https://open.spotify.com/track/3CPvL9ehmERejt7b5RvVAY) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Majha Block](https://open.spotify.com/album/284tuekFOZ6066Schm1gE7) | 4:09 | 2023-03-18 | 2023-09-05 |

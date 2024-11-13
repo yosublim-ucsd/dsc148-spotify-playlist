@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > El Dembow que está subiendo\. Foto: El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,552 likes - 70 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,606 likes - 70 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 9 | [Otra Vez](https://open.spotify.com/track/4d2FyPS39JLfsqCNsHQ1ea) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [Otra Vez](https://open.spotify.com/album/5aIzvD5lifAtyfsn2GqJAP) | 1:54 |
 | 10 | [Ou Ou](https://open.spotify.com/track/6TjT05x6Uo8c1yXZadV3bF) | [Wander Love](https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd), [La Mas Doll](https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK) | [Ou Ou](https://open.spotify.com/album/1JWFlOflVOdPslc9sPjfBJ) | 2:26 |
 | 11 | [PIKY](https://open.spotify.com/track/3s53B1v7ijagovFhhWVX8n) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [PIKY](https://open.spotify.com/album/0t5bMVKuAIiqToDa5bz6li) | 1:58 |
-| 12 | [HAY LUPITA \- Spain Remix](https://open.spotify.com/track/6ZlZRuUYpOxR9LoR2SgBPR) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [HAY LUPITA \(Spain Remix\)](https://open.spotify.com/album/4cDwOrlPFeCHkeRV7vL2Jl) | 3:05 |
+| 12 | [HAY LUPITA \- Spain Remix](https://open.spotify.com/track/6ZlZRuUYpOxR9LoR2SgBPR) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [HAY LUPITA \(Spain Remix\)](https://open.spotify.com/album/4cDwOrlPFeCHkeRV7vL2Jl) | 3:05 |
 | 13 | [Todas Mienten](https://open.spotify.com/track/20Vc6KmPFJixmDq9ZkJdcZ) | [Junior Caldera](https://open.spotify.com/artist/0rwGV1HhNWK2Ta4rjmlmtp), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Todas Mienten](https://open.spotify.com/album/5mgPda10MxzNBE6Q0pUlHb) | 2:56 |
 | 14 | [Me Arregle \- El loco](https://open.spotify.com/track/1bIpH9PBr9OBI3Ek6RtuNl) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [Me Arregle \(El loco\)](https://open.spotify.com/album/3s231XSay5ko3W5psvQhrW) | 2:49 |
 | 15 | [Me la Sube](https://open.spotify.com/track/6VdQkbCCL6fmuJjbPyKq1i) | [Capiry](https://open.spotify.com/artist/4dSDyLZEErLgy92wliptIn), [Kaly Ocho](https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz), [Marino El Abusador](https://open.spotify.com/artist/1lInNxZswHjnOdwSXpugrw) | [Me la Sube](https://open.spotify.com/album/03d4RCALPsG2XWnMnDBAej) | 2:08 |

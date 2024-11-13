@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 135538,
+  "num_followers": 135457,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-10-25 15:52:34",
       "album": {
-        "name": "Head of the Love Club",
-        "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
-      },
-      "artists": [
-        {
-          "name": "Gretel",
-          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Little Vampire",
-      "url": "https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2"
-    },
-    {
-      "added_at": "2024-10-25 15:52:34",
-      "album": {
         "name": "Four Words to Stand On",
         "url": "https://open.spotify.com/album/6MG0XArKf08UY3LfLaavp5"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2024-10-25 15:52:34",
       "album": {
-        "name": "Drowaton",
-        "url": "https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw"
+        "name": "Head of the Love Club",
+        "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
       },
       "artists": [
         {
-          "name": "Starlight Mints",
-          "url": "https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE"
+          "name": "Gretel",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
         }
       ],
-      "duration_ms": 162320,
-      "name": "Pumpkin",
-      "url": "https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl"
+      "duration_ms": 175500,
+      "name": "Little Vampire",
+      "url": "https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2"
     },
     {
       "added_at": "2024-10-25 15:52:34",
@@ -891,6 +875,22 @@
       "duration_ms": 255666,
       "name": "Scarecrow",
       "url": "https://open.spotify.com/track/0fhREmkuJsjaVi48aGngEr"
+    },
+    {
+      "added_at": "2024-10-25 15:52:34",
+      "album": {
+        "name": "Drowaton",
+        "url": "https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw"
+      },
+      "artists": [
+        {
+          "name": "Starlight Mints",
+          "url": "https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE"
+        }
+      ],
+      "duration_ms": 162320,
+      "name": "Pumpkin",
+      "url": "https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl"
     },
     {
       "added_at": "2024-10-25 15:52:34",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-10-25 15:52:34",
       "album": {
+        "name": "Attack Of The Ghost Riders",
+        "url": "https://open.spotify.com/album/4efzI9xFiljTkGDwko2JO4"
+      },
+      "artists": [
+        {
+          "name": "The Raveonettes",
+          "url": "https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8"
+        }
+      ],
+      "duration_ms": 151186,
+      "name": "Attack of the Ghost Riders",
+      "url": "https://open.spotify.com/track/7rWoskZwxQiLsFfRXxFF50"
+    },
+    {
+      "added_at": "2024-10-25 15:52:34",
+      "album": {
         "name": "Knock Knock! (It's Halloween)",
         "url": "https://open.spotify.com/album/7oQmFXScEzUQ2buEYoZRyM"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 152000,
       "name": "Knock Knock! (It's Halloween)",
       "url": "https://open.spotify.com/track/37K6U3mGV0JsJFcaIRGYpp"
-    },
-    {
-      "added_at": "2024-10-25 15:52:34",
-      "album": {
-        "name": "Attack Of The Ghost Riders",
-        "url": "https://open.spotify.com/album/4efzI9xFiljTkGDwko2JO4"
-      },
-      "artists": [
-        {
-          "name": "The Raveonettes",
-          "url": "https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8"
-        }
-      ],
-      "duration_ms": 151186,
-      "name": "Attack of the Ghost Riders",
-      "url": "https://open.spotify.com/track/7rWoskZwxQiLsFfRXxFF50"
     },
     {
       "added_at": "2024-10-25 15:52:34",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-10-25 15:52:34",
       "album": {
+        "name": "In Ghost Colours",
+        "url": "https://open.spotify.com/album/56YFlkW3xQdHKel5VzPvv9"
+      },
+      "artists": [
+        {
+          "name": "Cut Copy",
+          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "So Haunted",
+      "url": "https://open.spotify.com/track/5TM606Zfk31aNXIR63baT5"
+    },
+    {
+      "added_at": "2024-10-25 15:52:34",
+      "album": {
         "name": "Blood Red Moon",
         "url": "https://open.spotify.com/album/3clEQCPrQ7MAfW3vUasGpj"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 246186,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/5tbZBnWJAw72ZRjmMsrh0D"
-    },
-    {
-      "added_at": "2024-10-25 15:52:34",
-      "album": {
-        "name": "In Ghost Colours",
-        "url": "https://open.spotify.com/album/56YFlkW3xQdHKel5VzPvv9"
-      },
-      "artists": [
-        {
-          "name": "Cut Copy",
-          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "So Haunted",
-      "url": "https://open.spotify.com/track/5TM606Zfk31aNXIR63baT5"
     },
     {
       "added_at": "2024-10-25 15:52:34",

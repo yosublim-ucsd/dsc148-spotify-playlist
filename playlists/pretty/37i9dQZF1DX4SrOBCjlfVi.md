@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Real Boston Richey, Cordae, Young Nudy and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,205 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,283 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 42 | [Wockesha](https://open.spotify.com/track/1OTjLpyGM0yRT0KuvL0r5h) | [Big Mirr](https://open.spotify.com/artist/11A0hrGvDgPOSuIn8dEUwC), [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [Wockesha](https://open.spotify.com/album/74o6ayqsSjARj3FNjWBoD8) | 2:12 |
 | 43 | [KNOCK YA SONIC RINGS](https://open.spotify.com/track/4sTEZtYcTYGsVgie9Qatkh) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Dibia$E](https://open.spotify.com/artist/21H0kHbS41lECHguMnjGpb) | [KNOCKOUT](https://open.spotify.com/album/1kdb3QXpdYyyV8zeZRJNMM) | 2:21 |
 | 44 | [Play This At My Funeral](https://open.spotify.com/track/1iRMpyxZRoXPODtuhlNcIC) | [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Play This At My Funeral](https://open.spotify.com/album/0yAHx1ZkSOu7slt22oTAVs) | 2:10 |
-| 45 | [Save Me \- Bonus Track](https://open.spotify.com/track/2HW3qFXYcJrL1sdsuyTJTO) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [Tana](https://open.spotify.com/artist/0iXGLvGPMVdy6mgJTwmQ5e) | [Ascension 2: Complete Collection](https://open.spotify.com/album/1sJAtEas1sHIi4amh84t1i) | 2:17 |
+| 45 | [Save Me \- Bonus Track](https://open.spotify.com/track/2HW3qFXYcJrL1sdsuyTJTO) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [Tana](https://open.spotify.com/artist/0iXGLvGPMVdy6mgJTwmQ5e) | [ASECENSION2: Complete Collection](https://open.spotify.com/album/1sJAtEas1sHIi4amh84t1i) | 2:17 |
 | 46 | [Ain't My Fault \(feat\. Jeremih\)](https://open.spotify.com/track/4C9cFvVikhCNs3Xbspgwsn) | [Z Money](https://open.spotify.com/artist/0Nzgjph6U8oX2RwmBfoQvy), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Ain't My Fault \(feat\. Jeremih\)](https://open.spotify.com/album/4DpQvrGAMN9srFwtSGIXkl) | 2:11 |
 | 47 | [fdo](https://open.spotify.com/track/5Xjkyp55sF1Ei1cSdx9b1s) | [OLA RUNT](https://open.spotify.com/artist/3pAtVSFUcp2b8gY93G0y6u) | [Backseat Musik, Vol\. 5](https://open.spotify.com/album/3ted2EQb2PMGQsWB1xyu5e) | 2:30 |
 | 48 | [Buckets \(feat\. Screwly G\)](https://open.spotify.com/track/6sJVas5oxBfUZnMU77N1LA) | [FBG Murda](https://open.spotify.com/artist/7epN7rM4Hg4WRdl9e4Rsr5), [Screwly G](https://open.spotify.com/artist/1eWvOyyLmTtEVjuV2StcqC) | [Buckets \(feat\. Screwly G\)](https://open.spotify.com/album/6DiX8hnTerVrGeoRfx6FRo) | 1:57 |

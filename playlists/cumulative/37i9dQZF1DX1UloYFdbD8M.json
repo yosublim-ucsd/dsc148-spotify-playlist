@@ -1802,7 +1802,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 212210,
       "name": "Kadalinnazham",
       "url": "https://open.spotify.com/track/5FHK2Wx8QFTOhxRwdntH4C"
@@ -2246,6 +2246,28 @@
       "duration_ms": 213336,
       "name": "Maayum Mumbae",
       "url": "https://open.spotify.com/track/0wYtgHS8kYVBMgXeDVrvAA"
+    },
+    {
+      "album": {
+        "name": "Madhure",
+        "url": "https://open.spotify.com/album/2KoXz4gKvMogaqaqsuGvNu"
+      },
+      "artists": [
+        {
+          "name": "AK Hash",
+          "url": "https://open.spotify.com/artist/4X0Ez8IAyMT3vPbwHENoF9"
+        },
+        {
+          "name": "Nazeer Minnale",
+          "url": "https://open.spotify.com/artist/5raKbwjQso45ujdj5638gg"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189479,
+      "name": "Madhure",
+      "url": "https://open.spotify.com/track/4laP9v1EYy0XNPXB801MpR"
     },
     {
       "album": {

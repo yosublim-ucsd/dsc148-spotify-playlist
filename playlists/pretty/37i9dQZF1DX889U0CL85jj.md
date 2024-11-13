@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Serene, lowkey indie for hanging out and relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,453,140 likes - 148 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,453,050 likes - 148 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 69 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 |
 | 70 | [Phlegm](https://open.spotify.com/track/2iuvXuZBXHjonFFqMWMb0m) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Spiritual Puberty](https://open.spotify.com/album/3mkibgkzkk6ewJaVSjpPTx) | 2:44 |
 | 71 | [SANCTUARY](https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [SANCTUARY](https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L) | 3:18 |
-| 72 | [Open My Door](https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX), [David Parry](https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD), [Dekel Adin](https://open.spotify.com/artist/27xyFvRoUUYKOPiY47BbZ9), [Ziv Yamin](https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8) | [Open My Door](https://open.spotify.com/album/0CLN8x2MGw8htb94l0tBGv) | 2:33 |
+| 72 | [Open My Door](https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Open My Door](https://open.spotify.com/album/0CLN8x2MGw8htb94l0tBGv) | 2:33 |
 | 73 | [Sailing](https://open.spotify.com/track/5BhlE0di2Qeey289ECk9IF) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Sailing](https://open.spotify.com/album/4JC0wgDAIou1Q0005eCXb4) | 3:25 |
 | 74 | [Monkey's Wedding](https://open.spotify.com/track/0Ef4S1O05TaWmzz8hm7mvD) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Monkey's Wedding](https://open.spotify.com/album/20Ts7qGLnrrS9Hz2r3PKkR) | 2:59 |
 | 75 | [Buddy's Rendezvous](https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Buddy's Rendezvous](https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ) | 5:01 |

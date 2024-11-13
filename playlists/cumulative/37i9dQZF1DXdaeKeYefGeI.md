@@ -2,7 +2,7 @@
 
 ### [Mooi Nederlands](https://open.spotify.com/playlist/37i9dQZF1DXdaeKeYefGeI)
 
-> Wat kan het Nederlands toch mooi zijn\. Cover: Ernst Jansz
+> Wat kan het Nederlands toch mooi zijn\. Cover: Wende
 
 186 songs - 11 hr 27 min
 

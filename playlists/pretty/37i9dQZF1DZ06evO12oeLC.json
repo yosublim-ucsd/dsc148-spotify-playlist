@@ -1,12 +1,12 @@
 {
   "description": "This is Yseult. The essential tracks, all in one playlist.",
-  "num_followers": 17290,
+  "num_followers": 17291,
   "original_name": "This Is Yseult",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy/3gAAAAACQKHFCNRTyICfNQmKRMd8r",
+  "snapshot_id": "ZzFJAAAAAAA0ScYDnMi6vFJaXGIPklEK",
   "tracks": [
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 133416,
-      "name": "GAR\u00c7ON",
-      "url": "https://open.spotify.com/track/0YjTyG0j3FfeUH84ZWBAfp"
+      "duration_ms": 148206,
+      "name": "BITCH YOU COULD NEVER",
+      "url": "https://open.spotify.com/track/5zQlCwM9crafkj3Al40Ptd"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 148206,
-      "name": "BITCH YOU COULD NEVER",
-      "url": "https://open.spotify.com/track/5zQlCwM9crafkj3Al40Ptd"
+      "duration_ms": 133416,
+      "name": "GAR\u00c7ON",
+      "url": "https://open.spotify.com/track/0YjTyG0j3FfeUH84ZWBAfp"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BRUT",
-        "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "N\u00c9ON ROUGE",
-      "url": "https://open.spotify.com/track/7EHd1uyYFyuhMR7l6aH074"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NOUS ART : Masterpiece",
         "url": "https://open.spotify.com/album/0a2XyKU93jIJAhFz9oZDDe"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 214285,
       "name": "LVMH",
       "url": "https://open.spotify.com/track/3JZPeai9xfulG2stdSvpIG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BRUT",
+        "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "N\u00c9ON ROUGE",
+      "url": "https://open.spotify.com/track/7EHd1uyYFyuhMR7l6aH074"
     },
     {
       "added_at": null,
@@ -639,22 +639,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Cour des Miracles",
-        "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
+        "name": "BRUT",
+        "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
       },
       "artists": [
         {
-          "name": "S.Pri Noir",
-          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
-        },
-        {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        },
+        {
+          "name": "S.Pri Noir",
+          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
         }
       ],
-      "duration_ms": 196600,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/6T7NNeIXazB8t2fJVh8scc"
+      "duration_ms": 381226,
+      "name": "101 REGRETS",
+      "url": "https://open.spotify.com/track/2cHkxoTZp3sQ8haAM1VaF4"
     },
     {
       "added_at": null,
@@ -675,22 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BRUT",
-        "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
+        "name": "La Cour des Miracles",
+        "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
       },
       "artists": [
         {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        },
-        {
           "name": "S.Pri Noir",
           "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 381226,
-      "name": "101 REGRETS",
-      "url": "https://open.spotify.com/track/2cHkxoTZp3sQ8haAM1VaF4"
+      "duration_ms": 196600,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/6T7NNeIXazB8t2fJVh8scc"
     },
     {
       "added_at": null,

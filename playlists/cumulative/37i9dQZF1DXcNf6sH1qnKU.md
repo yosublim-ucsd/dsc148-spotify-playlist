@@ -4,7 +4,7 @@
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-127 songs - 9 hr 22 min
+128 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,11 +122,12 @@
 | [The Spiral Arm \(Edit\)](https://open.spotify.com/track/2xC7k5bQpiveeTlUSscstA) | [Dallas Acid](https://open.spotify.com/artist/1xAG4AeOmO97QdYhoW01EA) | [The Spiral Arm \(Edit\)](https://open.spotify.com/album/2btvxLqexGKMoCiL6BylqK) | 5:18 | 2021-10-01 | 2022-07-28 |
 | [The World Backwards](https://open.spotify.com/track/3KGOHUtSdDMUQ9v7V4DmW1) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Work And Non Work](https://open.spotify.com/album/7kqQeOzeLJxSlQEQXyIkqH) | 4:00 | 2021-10-01 | 2022-07-29 |
 | [Thoughtforms \- 2nd Version](https://open.spotify.com/track/7ARIbfiiJA4nyuXyXsGxJL) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Gala](https://open.spotify.com/album/11hFygy8xLDCeECJEDnNEK) | 2:47 | 2021-10-01 | 2022-07-25 |
-| [Thursday](https://open.spotify.com/track/6MC9eyZJiicT4tT2YOqf5d) | [Asobi Seksu](https://open.spotify.com/artist/7vXdfh8G9fJVGvfUSkqf62) | [Citrus](https://open.spotify.com/album/5ohM0IJGIOO1xacFqrba3l) | 4:17 | 2021-10-01 |  |
+| [Thursday](https://open.spotify.com/track/6MC9eyZJiicT4tT2YOqf5d) | [Asobi Seksu](https://open.spotify.com/artist/7vXdfh8G9fJVGvfUSkqf62) | [Citrus](https://open.spotify.com/album/5ohM0IJGIOO1xacFqrba3l) | 4:17 | 2021-10-01 | 2024-11-13 |
 | [Time Baby III](https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98) | [Medicine](https://open.spotify.com/artist/61uYVpJPgBq9dNrfUy6kTp), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 3:51 | 2022-02-18 |  |
 | [Transparent Radiation \- Single Version](https://open.spotify.com/track/3doCN5B3fuqeJ06AY6Cbxx) | [Spacemen 3](https://open.spotify.com/artist/1ZOlVrZ2MtNSY9LcFYklDB) | [Forged Prescriptions \(Remastered\)](https://open.spotify.com/album/5o99dlCEEIKu7fihvSgvVs) | 4:12 | 2021-10-01 | 2022-07-29 |
 | [V.O.](https://open.spotify.com/track/6Xixw5h0qlV7U5Fj7dP3cM) | [Piroshka](https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28) | [Love Drips And Gathers](https://open.spotify.com/album/5tusxNUOEipavwNO8P0MNI) | 3:23 | 2024-08-30 |  |
 | [Valentine](https://open.spotify.com/track/0oPezGTOPITKdmLN4Z77v3) | [Delays](https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ) | [You See Colours](https://open.spotify.com/album/59IUhrmTXNj8c6TQzp2tdz) | 4:52 | 2021-10-01 |  |
+| [Vertigo](https://open.spotify.com/track/3YU5K6BC3kD55wacVkPUOD) | [Miki Berenyi Trio](https://open.spotify.com/artist/3Scu03tOOZROXquwsaUj19) | [Vertigo](https://open.spotify.com/album/7jzWtkZr2h30wP701xYE1j) | 4:43 | 2024-11-12 |  |
 | [Wanderlust](https://open.spotify.com/track/3SV1oU3wJOMuYli6dOH9zH) | [Delays](https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ) | [Faded Seaside Glamour](https://open.spotify.com/album/5PJzOx3aaOjoAlMkV1kVEG) | 3:58 | 2021-10-01 |  |
 | [Watersong](https://open.spotify.com/track/60kgQtJNMGRaFfzwy18XUY) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Wings Of Joy \(Expanded Edition\)](https://open.spotify.com/album/5RzJqDl7qP2xQ2mV8CX4qq) | 3:51 | 2021-10-01 |  |
 | [When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 4:45 | 2021-10-01 |  |

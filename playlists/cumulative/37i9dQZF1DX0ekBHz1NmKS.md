@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,687 songs - 3 day 15 hr 35 min
+1,688 songs - 3 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,6 +525,7 @@
 | [Förlåt](https://open.spotify.com/track/09MtdO7ijFjuJR2SPzHYch) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [För Dig](https://open.spotify.com/album/4MY82UcP4z4ozZqfMRCaSy) | 2:35 | 2024-02-22 | 2024-04-05 |
 | [Förlåt](https://open.spotify.com/track/3nl7ZG7o931x99SvWIk3oZ) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Jocelyn](https://open.spotify.com/album/3zS6gnCt8Ksp3zF48waeCJ) | 2:35 | 2024-02-15 | 2024-02-24 |
 | [Förlåt](https://open.spotify.com/track/3aO6c4QiRxJCxkr6UFnVAm) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Förlåt](https://open.spotify.com/album/6pp8MHek4n0QrfSqz83lHv) | 2:13 | 2024-06-06 | 2024-08-09 |
+| [Förlåt](https://open.spotify.com/track/4TBV7jI6skfgRRHsXtbNn6) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Förlåt](https://open.spotify.com/album/5YtfqDGtXxZ8nJpqkEGO9y) | 2:46 | 2024-11-07 |  |
 | [Förlåt för alla gånger](https://open.spotify.com/track/0UoFiDE3nDVTLMIOSK2JKj) | [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [Förlåt för alla gånger](https://open.spotify.com/album/1nFXe1jAk8CYIrMxK46PQc) | 2:35 | 2024-02-15 | 2024-04-05 |
 | [Förlåt för mina tankar](https://open.spotify.com/track/23VguxFeWnVXA1nJV5SWWf) | [MAXÉ](https://open.spotify.com/artist/3u5IXw7wsjxwJ4CRQXmETx) | [Förlåt för mina tankar](https://open.spotify.com/album/5gzqk5K5hRE9jzD0mzJbUz) | 2:53 | 2024-05-02 | 2024-06-01 |
 | [FÖRLÅT MIG](https://open.spotify.com/track/0hE2FEEQZ5oh3hOz7MAIkm) | [Tony Koma](https://open.spotify.com/artist/0uGfoFBGwR75SE04cR5chh) | [FÖRLÅT MIG](https://open.spotify.com/album/0CMtBW1GXPiN7DVjvZjWyh) | 4:16 | 2024-05-02 | 2024-05-17 |
@@ -1248,7 +1249,7 @@
 | [SE PÅ MIG](https://open.spotify.com/track/3hpPuFukUdjPrkvP3GOce2) | [Gamebojj](https://open.spotify.com/artist/3tL3V3oYCfUDA6eECPGw1j) | [SE PÅ MIG](https://open.spotify.com/album/0Eahjmc8johiZt87JF1I9u) | 2:22 | 2024-03-21 | 2024-05-03 |
 | [Se på oss](https://open.spotify.com/track/2M6lbPDPhQeJD8Pf23snPP) | [Faråker](https://open.spotify.com/artist/3umyqRlNtUXAsL6r70Znjt) | [Se på oss](https://open.spotify.com/album/4X3XRBILtUAjOvUbjXqcyY) | 3:29 | 2024-08-08 | 2024-09-15 |
 | [SECONDS 2 SUNRISE](https://open.spotify.com/track/3EZ2wPfs5QpjQejdd6KXVX) | [Nadja Kasanesh](https://open.spotify.com/artist/11VSQqCvMHu2UNkfyuIoXa), [SALTI](https://open.spotify.com/artist/7Ky7z39i1sO85ZQCRBz16e) | [SECONDS 2 SUNRISE](https://open.spotify.com/album/4T7BbFDYDSFMx8TKdsO8Lq) | 2:53 | 2022-06-23 | 2022-07-21 |
-| [Secrets](https://open.spotify.com/track/5NncZVh6eDXNFjIZF7oYKK) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Secrets](https://open.spotify.com/album/5uxKAFGxOeWPRmbga9sRHE) | 3:44 | 2024-08-22 |  |
+| [Secrets](https://open.spotify.com/track/5NncZVh6eDXNFjIZF7oYKK) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Secrets](https://open.spotify.com/album/5uxKAFGxOeWPRmbga9sRHE) | 3:44 | 2024-08-22 | 2024-11-13 |
 | [See Me Happy](https://open.spotify.com/track/2EaRH0SnLQVb4bmpNrGI4j) | [AmenA](https://open.spotify.com/artist/6mfgihCd1Fk17tHBnvt2mo) | [Guidebook](https://open.spotify.com/album/4wb10EDsvCrbcoiVplFz9H) | 3:38 | 2024-02-08 | 2024-03-17 |
 | [Segeltorp](https://open.spotify.com/track/676HgKUjR0fKQxPBmNDe5u) | [Reflektion](https://open.spotify.com/artist/1GzkzasUtKs6qCJQikDmiJ) | [Segeltorp](https://open.spotify.com/album/6DncLd5TqDR4NLLm9uxnt2) | 3:35 | 2024-04-18 | 2024-04-20 |
 | [Selfish Lies \(Laudanum\)](https://open.spotify.com/track/7JgtzJ7LfrqejT438nZ5tx) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Pink Cloud EP](https://open.spotify.com/album/5OGKTqF0cpjVK70i0hjibj) | 3:16 | 2023-10-05 | 2023-11-03 |

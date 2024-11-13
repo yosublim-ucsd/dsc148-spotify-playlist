@@ -1451,6 +1451,24 @@
     },
     {
       "album": {
+        "name": "HOW YOU FEEL?",
+        "url": "https://open.spotify.com/album/33emNvcuVWa2vHpeHYFvsW"
+      },
+      "artists": [
+        {
+          "name": "cott (\ucf67)",
+          "url": "https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164575,
+      "name": "HOW YOU FEEL?",
+      "url": "https://open.spotify.com/track/4F6NF7HAOSBVlX5RFHdV5o"
+    },
+    {
+      "album": {
         "name": "Hug me tight",
         "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
       },
@@ -3700,7 +3718,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 266999,
       "name": "The Sound Of Rain - Acoustic",
       "url": "https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2"

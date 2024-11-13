@@ -2,7 +2,7 @@
 
 ### [Liever Hollands](https://open.spotify.com/playlist/37i9dQZF1DX3fVDvRBemdr)
 
-> De nieuwste Hollandse hits\. Cover: Rene Froger & Billy Dans
+> De nieuwste Hollandse hits\. Cover: Marco Schuitmaker
 
 169 songs - 8 hr 13 min
 

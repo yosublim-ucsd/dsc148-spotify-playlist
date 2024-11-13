@@ -967,6 +967,24 @@
     },
     {
       "album": {
+        "name": "Maple Wood",
+        "url": "https://open.spotify.com/album/5aaxcaCJ5K7YxXi04P1aZ9"
+      },
+      "artists": [
+        {
+          "name": "Echo Ark",
+          "url": "https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141038,
+      "name": "Maple Wood",
+      "url": "https://open.spotify.com/track/5Y1dpMzVZWszG4QYAaN2o1"
+    },
+    {
+      "album": {
         "name": "Berlin Baritone",
         "url": "https://open.spotify.com/album/20SPYDVOBZtlUWqzKXUUuv"
       },

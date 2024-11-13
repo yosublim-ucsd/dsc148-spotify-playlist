@@ -4,7 +4,7 @@
 
 > Najlepsza świeża polska alternatywa\. Cover: Zaleś
 
-410 songs - 22 hr 59 min
+411 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Jak się czujesz](https://open.spotify.com/track/6PRudziffQZp6s9Gu6aqpr) | [Łukasz Drapała](https://open.spotify.com/artist/4k4q4VaHJ1vUXWBTGrYorY) | [Jak się czujesz](https://open.spotify.com/album/13UVcKeyCzhp07xWaLcoP1) | 3:30 | 2024-10-31 |  |
 | [jak to jest?](https://open.spotify.com/track/0ubUWjVsO0HcIThLXkEEff) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [jak to jest?](https://open.spotify.com/album/1YmW3cBML2TmEKWE82r8A6) | 3:41 | 2024-07-25 | 2024-09-13 |
 | [jakby co, to dzwoń](https://open.spotify.com/track/0C3PjVD7octHIivBMmHKSS) | [Senny](https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P) | [jakby co, to dzwoń](https://open.spotify.com/album/2o0THpAArDAx3lVksJ58Sn) | 3:25 | 2024-10-24 |  |
+| [Jakoś mi lżej](https://open.spotify.com/track/5kGW4yoERQm8dYHyDaRROJ) | [21 Gram](https://open.spotify.com/artist/0VqM8MxxQGmbygXhyHe7gr) | [Jakoś mi lżej](https://open.spotify.com/album/7lJOIwXfKVPCQn5JrUwHn6) | 4:28 | 2024-11-12 |  |
 | [Jesień](https://open.spotify.com/track/7lD591QrVNzVxbmY1Xmq8i) | [Treehouse](https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi), [Drowsy Fawn](https://open.spotify.com/artist/4t3gqL8XGUEocHql23HlGy) | [Jesień](https://open.spotify.com/album/71nJMUjjpnvruQr6MbMOfc) | 3:36 | 2024-08-22 | 2024-09-06 |
 | [Jestem](https://open.spotify.com/track/1POsHOctjuSpNU6uFTOqjq) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Jestem](https://open.spotify.com/album/5r0CDkFob3OnZ07m4b4Qqc) | 2:18 | 2024-08-29 | 2024-10-18 |
 | [jesteś głupi](https://open.spotify.com/track/1AeL4E8mv5IGP16PlhmbTb) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [jesteś głupi](https://open.spotify.com/album/4GTDDsP3d06obFoqZpM6nw) | 2:38 | 2024-08-22 | 2024-10-25 |
@@ -161,7 +162,7 @@
 | [Lekkość](https://open.spotify.com/track/3aN3bJnEgeYDmYcJowoOY6) | [PIETRUCHA/ZALEWSKA](https://open.spotify.com/artist/3KfoH0jfxIYelqFb5CfaE9), [Kwiat Jabłoni](https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB), [Julia Pietrucha](https://open.spotify.com/artist/5gSWboNBgJZ060m1r30Xmg), [Marta Zalewska](https://open.spotify.com/artist/3EEWtBUzHJePfpex8kQYHY) | [Lekkość](https://open.spotify.com/album/6uHQZhd2sbke26vFXEs5FY) | 3:05 | 2024-08-01 |  |
 | [Letnie myśli](https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Letnie myśli](https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t) | 3:30 | 2024-06-27 | 2024-08-30 |
 | [List](https://open.spotify.com/track/6dIbKVYPCA4zjEzLMlhZcS) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [List](https://open.spotify.com/album/2DrBeLTZRrETD9GhHXvAoh) | 3:37 | 2024-06-27 | 2024-08-30 |
-| [list do niej](https://open.spotify.com/track/3AFWlh9Q4qTdqRR0ASqoKL) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [list do niej](https://open.spotify.com/album/4qSid7v4Ami0xKyks5uxzT) | 3:05 | 2024-08-29 |  |
+| [list do niej](https://open.spotify.com/track/3AFWlh9Q4qTdqRR0ASqoKL) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [list do niej](https://open.spotify.com/album/4qSid7v4Ami0xKyks5uxzT) | 3:05 | 2024-08-29 | 2024-11-13 |
 | [Listek](https://open.spotify.com/track/1S3dnRrDzPKAELLfI3JWQI) | [Kasia Moś](https://open.spotify.com/artist/6o7RJSQNRyx5ChgbgoTx22) | [Listek](https://open.spotify.com/album/1TtFi4I3XHQ4eHYEOdGXyy) | 2:39 | 2024-09-26 | 2024-11-08 |
 | [Listopad](https://open.spotify.com/track/2WhpBpERJZv3384qNExPZP) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Listopad](https://open.spotify.com/album/1nLWz8HpZNpfmqzLwYSeJF) | 3:22 | 2024-09-26 |  |
 | [Location](https://open.spotify.com/track/5apbcktB19IjcSOeVGipVe) | [Miętha](https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs) | [Location](https://open.spotify.com/album/2gcn8DaDw53YnwCdUYzDfF) | 2:39 | 2024-08-22 | 2024-09-27 |

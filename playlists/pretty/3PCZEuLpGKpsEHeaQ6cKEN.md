@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:   Will Clarke
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,464 likes - 121 songs - 6 hr 13 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,452 likes - 121 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

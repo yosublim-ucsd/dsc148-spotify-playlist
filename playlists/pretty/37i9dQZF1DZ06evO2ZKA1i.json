@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 292310,
+  "num_followers": 292311,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy/3gAAAAACG5d6OSPGnLomAWGmL8oP9",
+  "snapshot_id": "ZzFJAAAAAAAUTS+cwtXhVkYAZD8d9Xju",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Purpendicular",
-        "url": "https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v"
+        "name": "Burn (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 449133,
-      "name": "Sometimes I Feel Like Screaming",
-      "url": "https://open.spotify.com/track/5coxHUKzWOdMXunt7EGDDX"
+      "duration_ms": 352293,
+      "name": "Sail Away - Remastered 2004",
+      "url": "https://open.spotify.com/track/29cnidbkZ13mYcNXnpqlre"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
+        "name": "Purpendicular",
+        "url": "https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 352293,
-      "name": "Sail Away - Remastered 2004",
-      "url": "https://open.spotify.com/track/29cnidbkZ13mYcNXnpqlre"
+      "duration_ms": 449133,
+      "name": "Sometimes I Feel Like Screaming",
+      "url": "https://open.spotify.com/track/5coxHUKzWOdMXunt7EGDDX"
     },
     {
       "added_at": null,

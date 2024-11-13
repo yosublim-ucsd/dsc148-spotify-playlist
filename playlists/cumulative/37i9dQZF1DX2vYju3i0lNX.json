@@ -607,6 +607,24 @@
     },
     {
       "album": {
+        "name": "A Sad Romance",
+        "url": "https://open.spotify.com/album/4SrEh3IQSVjfUS5RXwfVfr"
+      },
+      "artists": [
+        {
+          "name": "da Su\u00e9cia",
+          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "A Sad Romance",
+      "url": "https://open.spotify.com/track/5oD6QgTciMjUgDu5pzAV99"
+    },
+    {
+      "album": {
         "name": "A Sight for Sore Eyes",
         "url": "https://open.spotify.com/album/5BpnW3JV6KgmIoUd5CDiAD"
       },
@@ -1908,6 +1926,24 @@
       "duration_ms": 198826,
       "name": "Autumn Promises",
       "url": "https://open.spotify.com/track/5kVaJiItTvUFR9jy5lgNQo"
+    },
+    {
+      "album": {
+        "name": "Autumn serenade",
+        "url": "https://open.spotify.com/album/6UR6T9B1wTbPLrRw7ynlI2"
+      },
+      "artists": [
+        {
+          "name": "Dave Oakley trio",
+          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195874,
+      "name": "Autumn serenade",
+      "url": "https://open.spotify.com/track/4mNyif0WHZ8jBn9BdwX212"
     },
     {
       "album": {
@@ -3344,10 +3380,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 163590,
       "name": "Chimes",
       "url": "https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC"
+    },
+    {
+      "album": {
+        "name": "Circular Motions",
+        "url": "https://open.spotify.com/album/5cYrtseSeyHKExhsZfkq2K"
+      },
+      "artists": [
+        {
+          "name": "The Ebbing Tides",
+          "url": "https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212715,
+      "name": "Circular Motions",
+      "url": "https://open.spotify.com/track/4oPsnuFEcz1xoAzXRF6rPa"
     },
     {
       "album": {
@@ -6064,7 +6118,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 231032,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/51g4wZxI5yS88Aj0VTCsXM"
@@ -6604,7 +6658,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 220500,
       "name": "Hello From Above",
       "url": "https://open.spotify.com/track/7f8bsD5ag4ygvMRtUPvSu0"
@@ -7472,6 +7526,24 @@
       "duration_ms": 230050,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/02PAR02BrdtAdLFOuPIBWP"
+    },
+    {
+      "album": {
+        "name": "I'll Give You My Heartache",
+        "url": "https://open.spotify.com/album/4TQm9IHWhgw91qgRmxE5KE"
+      },
+      "artists": [
+        {
+          "name": "The Mill Basin Band",
+          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227202,
+      "name": "I'll Give You My Heartache",
+      "url": "https://open.spotify.com/track/4tIfVGVF30szIEmcCYsvpq"
     },
     {
       "album": {
@@ -10456,7 +10528,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 183688,
       "name": "Love on a Lonely Street",
       "url": "https://open.spotify.com/track/4Ol91F33J7jGfPjRubHbEk"
@@ -13372,7 +13444,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 188875,
       "name": "Please, Stay",
       "url": "https://open.spotify.com/track/0uZvM7xsIRbh6WaLybZ32w"
@@ -13930,7 +14002,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 240480,
       "name": "Ripples of a Stream",
       "url": "https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX"
@@ -15795,6 +15867,24 @@
     },
     {
       "album": {
+        "name": "Sunday Night",
+        "url": "https://open.spotify.com/album/1RzVAJf3HO7gHBYCLag7LQ"
+      },
+      "artists": [
+        {
+          "name": "Arta Porting",
+          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293879,
+      "name": "Sunday Night",
+      "url": "https://open.spotify.com/track/6y7k3VdsuMnFj0xRJADncP"
+    },
+    {
+      "album": {
         "name": "Sunlit Sonata",
         "url": "https://open.spotify.com/album/1ZIeUNEi7s0HddckGQLGsa"
       },
@@ -16346,7 +16436,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 146303,
       "name": "The Batysphere",
       "url": "https://open.spotify.com/track/7wjyhXjXor4PscmHQrImTy"
@@ -16706,7 +16796,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 239635,
       "name": "The Midnight Sun Never Sets",
       "url": "https://open.spotify.com/track/4uyCtvsYBPz8nE7yA5sbnl"

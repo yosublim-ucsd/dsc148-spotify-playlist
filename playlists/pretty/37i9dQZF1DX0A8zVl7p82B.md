@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 
 > All the best in new and classic Christmas Pop! Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,282,164 likes - 90 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,283,760 likes - 90 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,12 +55,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 | 45 | [O Holy Night](https://open.spotify.com/track/5547x0ZawobhfSeh2QKAca) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 5:20 |
 | 46 | [the b\*tch who stole christmas](https://open.spotify.com/track/16diS2hN9fIZiyjdtjJjPE) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [the b\*tch who stole christmas](https://open.spotify.com/album/60bxITz36xeSamTsQ0Kn8d) | 2:22 |
 | 47 | [Kid On Christmas \(feat\. Meghan Trainor\)](https://open.spotify.com/track/5uc4qE5jfadE9BM5fWU0oI) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [The Greatest Christmas Hits](https://open.spotify.com/album/4tRcSRjaE98LsBVOm6cSJT) | 3:22 |
-| 48 | [Back Home For Christmas](https://open.spotify.com/track/06b5RW4WE4wa0rr62PMA7s) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Back Home For Christmas](https://open.spotify.com/album/2MgK4cYEZ5g5tx1K1AEWeG) | 3:35 |
-| 49 | [Step Into Christmas \- Remastered 1995](https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 4:32 |
-| 50 | [Shake Up Christmas](https://open.spotify.com/track/1NghHeg0wE32eBYrQBVQXL) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:52 |
-| 51 | [Cozy Little Christmas](https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Cozy Little Christmas](https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn) | 3:02 |
-| 52 | [Santa Pick Up the Phone](https://open.spotify.com/track/4Ly6J3fTcYdcvy0F8jikTb) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Santa Pick Up the Phone](https://open.spotify.com/album/3CKTMhfmmR5rQX6IuoyGPT) | 3:09 |
-| 53 | [You Deserve It All](https://open.spotify.com/track/2ZAEbbKPNf1Wv1fifB2nyd) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [You Deserve It All](https://open.spotify.com/album/5Ak2W28qw9158kDPOwQJFd) | 3:18 |
+| 48 | [Make It To Christmas](https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Make It To Christmas](https://open.spotify.com/album/78M2SymJDiLORvKBQHgmKl) | 3:31 |
+| 49 | [Back Home For Christmas](https://open.spotify.com/track/06b5RW4WE4wa0rr62PMA7s) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Back Home For Christmas](https://open.spotify.com/album/2MgK4cYEZ5g5tx1K1AEWeG) | 3:35 |
+| 50 | [Step Into Christmas \- Remastered 1995](https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 4:32 |
+| 51 | [Shake Up Christmas](https://open.spotify.com/track/1NghHeg0wE32eBYrQBVQXL) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:52 |
+| 52 | [Cozy Little Christmas](https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Cozy Little Christmas](https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn) | 3:02 |
+| 53 | [Santa Pick Up the Phone](https://open.spotify.com/track/4Ly6J3fTcYdcvy0F8jikTb) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Santa Pick Up the Phone](https://open.spotify.com/album/3CKTMhfmmR5rQX6IuoyGPT) | 3:09 |
 | 54 | [Christmas Wrapping](https://open.spotify.com/track/1O2ymfIOPUz7RLzjDCnCWv) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Goodbye](https://open.spotify.com/album/1ANKUQ8iU1mnN3jpGXFiT1) | 4:17 |
 | 55 | [Please Come Home For Christmas](https://open.spotify.com/track/3cZRpCsi78sk2u4XW0vosp) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [Please Come Home For Christmas](https://open.spotify.com/album/08IMJctnRCU6sW75YKjbpw) | 3:17 |
 | 56 | [Silent Night](https://open.spotify.com/track/1rRb8IFx7OYqlZnt6ag7cP) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [A Very Teddy Christmas](https://open.spotify.com/album/5Uz5dJxxx80FlqetqpvCJp) | 4:11 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 | 62 | [Don't Give Your Heart Away for Christmas](https://open.spotify.com/track/6fE2Kjwd5Fh2xF9IeuiOY4) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Don't Give Your Heart Away for Christmas](https://open.spotify.com/album/2s3Wa5FblJ5qXPZsULI6co) | 2:14 |
 | 63 | [White Christmas \- Spotify Singles \- Christmas, Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/71azyw4EJDlGru5Uw6DGzT) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [White Christmas \(Spotify Singles \- Christmas, Recorded at Sound Stage Studios Nashville\)](https://open.spotify.com/album/4khvhw7hfvRpSU1EokuED4) | 3:14 |
 | 64 | [Christmas Time](https://open.spotify.com/track/49k6iIn3ceIhyeFNSQChQh) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [My Kind Of Christmas](https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu) | 4:01 |
-| 65 | [This Christmas](https://open.spotify.com/track/69ICDnEzZqopqoQ7LG2e2u) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [This Christmas](https://open.spotify.com/album/1NWj1i8hK3e08JDDrKkVLL) | 2:27 |
+| 65 | [This Christmas](https://open.spotify.com/track/2Gu7uiGb7ZDOQ1O9jZJQEH) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 3:03 |
 | 66 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/4xjKPpeWbUCgQo6VnJLHZB) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas \(Snow Queen Edition\)](https://open.spotify.com/album/27kFmSAWcM5QRPzpbl1gvI) | 2:44 |
 | 67 | [Candy Cane Kisses](https://open.spotify.com/track/0BZQBuRR8NN4NweUyw68Vj) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [XMAS 01](https://open.spotify.com/album/3StuIrKZYryr4ZICoWRqqc) | 2:13 |
 | 68 | [Merry Christmas Darling \- Single Version](https://open.spotify.com/track/6W65jVdn0JtttcvFN1KppC) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [The Essential Collection \(1965\-1997\)](https://open.spotify.com/album/4neiBTHUC0mgKE3Soz0QqK) | 3:05 |
-| 69 | [Make It To Christmas](https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Make It To Christmas](https://open.spotify.com/album/78M2SymJDiLORvKBQHgmKl) | 3:31 |
+| 69 | [buy me presents](https://open.spotify.com/track/3Cz6MZdwncB4qasyRPen4S) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:57 |
 | 70 | [Enough for Me](https://open.spotify.com/track/2khGNxyQqfetxe3Mn883MB) | [Jordi](https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3) | [Enough for Me](https://open.spotify.com/album/5KRt0e3eeOCw1E7ap3DJMK) | 3:41 |
 | 71 | [Christmas Time Is Here](https://open.spotify.com/track/0yHmaiDRUkiQcl0heatewy) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [A Tori Kelly Christmas](https://open.spotify.com/album/3T1Te4622DNLaTajXIkY9l) | 3:03 |
 | 72 | [Christmas Everyday](https://open.spotify.com/track/2CIQP9j2Q8Qlm9HMCKGERh) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas With Brandy](https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk) | 3:26 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0A8zVl7p82B.md) - [plain]
 | 89 | [Another Year](https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn) | 4:16 |
 | 90 | [merry christmas darling](https://open.spotify.com/track/6brLwOYFXw7rkGOcLntcPZ) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a very merry perri christmas](https://open.spotify.com/album/5noTFKbSGzGgXWxnEiuoK2) | 3:18 |
 
-Snapshot ID: `ZzJnVgAAAACQKznqU97sUIGGjA6y9MtF`
+Snapshot ID: `ZzPPxAAAAAA27LPPv1qEvg5PbJ7kIS8Z`

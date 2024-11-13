@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "The New Modern Hymns",
+        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
+      },
+      "artists": [
+        {
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226901,
+      "name": "American Tune",
+      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es"
       },
@@ -1172,7 +1190,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 249586,
       "name": "Don't You (Forget About Me)",
       "url": "https://open.spotify.com/track/5hOaRdlUqUSZ5nv8kQx1DF"
@@ -2436,7 +2454,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 213826,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/3xSdEH8yjB0hiCcj9CG0xR"
@@ -3004,7 +3022,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 259389,
       "name": "Loser",
       "url": "https://open.spotify.com/track/5okFkhRbWOSDWp3c15ouMB"
@@ -3138,6 +3156,24 @@
       "duration_ms": 302746,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/7sYMSlxgCEdLoXv0PqYEjp"
+    },
+    {
+      "album": {
+        "name": "Make Me Stay or Make Me Go",
+        "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Make Me Stay or Make Me Go",
+      "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
     },
     {
       "album": {
@@ -3316,7 +3352,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 351418,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/5b3H9J71t73nzr73pvEWrC"
@@ -3424,7 +3460,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 190253,
       "name": "Old Man",
       "url": "https://open.spotify.com/track/57BqPLE4mvQEBh53JWxgcI"
@@ -5178,7 +5214,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 187724,
       "name": "Walking on Sunshine",
       "url": "https://open.spotify.com/track/5yGs5BtZC9uN1VW0lKfgwz"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 
 > This is Alcolirykoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,795 likes - 48 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,837 likes - 48 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 | 20 | [Changó](https://open.spotify.com/track/24r3DhkmDUKHpEtgMnjdiX) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 4:04 |
 | 21 | [La Noche](https://open.spotify.com/track/3BhO6RtlVfmtPE1xhVHLZ7) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep), [Ecks One](https://open.spotify.com/artist/4kwGYV3ZRvWaEbRW1VuKBF) | [Efectos Secundarios](https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp) | 4:40 |
 | 22 | [No Está en Venta](https://open.spotify.com/track/1pjwpLpSqSEYSqtgrCJJsf) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 4:00 |
-| 23 | [Comediantes de Velorio](https://open.spotify.com/track/0AR1NNcJSbkzVsJQzW6xuy) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9) | 4:14 |
+| 23 | [La Esquina del Mariachi](https://open.spotify.com/track/5Ulvsqb4ekKiSuiEWFAAro) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep), [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Horizonte](https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ) | 5:16 |
 | 24 | [Género Rural](https://open.spotify.com/track/2GKZ6Uu259JpUUPIymkXll) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Rulaz Plazco](https://open.spotify.com/artist/7AIm5A2YlfUs5qLKcQD6O1) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:51 |
-| 25 | [La Esquina del Mariachi](https://open.spotify.com/track/5Ulvsqb4ekKiSuiEWFAAro) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep), [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Horizonte](https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ) | 5:16 |
+| 25 | [Comediantes de Velorio](https://open.spotify.com/track/0AR1NNcJSbkzVsJQzW6xuy) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9) | 4:14 |
 | 26 | [La Caza de Nariño](https://open.spotify.com/track/3fOVLYEqp2loND8GaTkR15) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 3:41 |
 | 27 | [Mi Religión](https://open.spotify.com/track/3idFvZM9VyiIkjSOjfuGkJ) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H), [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [10](https://open.spotify.com/album/6pNVucax5EH9Nf90F6qqBq) | 3:51 |
 | 28 | [Anestesia Local \- Episodio 2](https://open.spotify.com/track/4RAHLZj3vHiIHXLbnjazQH) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp) | 3:53 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 | 47 | [Las Malas Lenguas](https://open.spotify.com/track/3kWTf5gwAO6lt2ktQy3C06) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [El Despilfarro](https://open.spotify.com/album/5uHOagTTb7uMubkK23phZ9) | 3:03 |
 | 48 | [El Show Debe Continuar](https://open.spotify.com/track/7vSGZ1wHnamSQsLaZN1eGF) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9) | 4:04 |
 
-Snapshot ID: `Zy/3gAAAAABXIoZqyrhJfg8EicS6TfqG`
+Snapshot ID: `ZzFJAAAAAAB6O5oHupzKz3w9gZaAdu8z`

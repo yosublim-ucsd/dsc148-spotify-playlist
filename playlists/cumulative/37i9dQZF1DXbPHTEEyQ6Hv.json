@@ -1669,6 +1669,24 @@
     },
     {
       "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/03R4sEIskrAaw4OXARjfWp"
+      },
+      "artists": [
+        {
+          "name": "Sam Sapphire",
+          "url": "https://open.spotify.com/artist/7eMKNdNPKSpP3WeulzX4fz"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161166,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6OOEo3a6eqPlRWEIqaKu7a"
+    },
+    {
+      "album": {
         "name": "The Magic Of Christmas",
         "url": "https://open.spotify.com/album/6NTyCBRaQy3JgoClHXX6pi"
       },
@@ -2152,6 +2170,24 @@
       "duration_ms": 131842,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/3rT0SXP4zzmx2t4EBdgHXP"
+    },
+    {
+      "album": {
+        "name": "Joy to the World",
+        "url": "https://open.spotify.com/album/4vGvjUVOgYlQHh5YK0ObWS"
+      },
+      "artists": [
+        {
+          "name": "Ey\u00f8ni",
+          "url": "https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141281,
+      "name": "Joy to the World",
+      "url": "https://open.spotify.com/track/4K9oXfi4duY1GaQBJ5Rr7g"
     },
     {
       "album": {
@@ -2713,6 +2749,24 @@
     },
     {
       "album": {
+        "name": "Santa Baby",
+        "url": "https://open.spotify.com/album/0jmp1r3wPuxnXh43Wp0Oid"
+      },
+      "artists": [
+        {
+          "name": "Bruce Douglas",
+          "url": "https://open.spotify.com/artist/4xwGJE9zR35fPIbbe8uSiH"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143137,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/6iRD5O0I3iYZUvkhmqhc79"
+    },
+    {
+      "album": {
         "name": "Santa Claus Is Comin' to Town",
         "url": "https://open.spotify.com/album/0D0juNN2akEwy4vz3too8S"
       },
@@ -2836,6 +2890,60 @@
       "duration_ms": 144705,
       "name": "Silver Bells - Piano",
       "url": "https://open.spotify.com/track/5HGeOWobPDjZZ3vc0tUA0x"
+    },
+    {
+      "album": {
+        "name": "Skating (Cover)",
+        "url": "https://open.spotify.com/album/1H3FeVZu31Ca6Mq1ndCPMg"
+      },
+      "artists": [
+        {
+          "name": "J Stepan",
+          "url": "https://open.spotify.com/artist/2uF3aGwBsOYAxyCSCQuQzz"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139310,
+      "name": "Skating - Cover",
+      "url": "https://open.spotify.com/track/27pVQURWH2HTpuca6nOWRO"
+    },
+    {
+      "album": {
+        "name": "Sleigh Ride (Cover)",
+        "url": "https://open.spotify.com/album/29Cky5qlRLAABIXjFpjyIC"
+      },
+      "artists": [
+        {
+          "name": "N Piccolina",
+          "url": "https://open.spotify.com/artist/47ZGaS4IcMwkIutwnhNJjC"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Sleigh Ride - Cover",
+      "url": "https://open.spotify.com/track/6eH4HH7RGlEZdXhiqOabQ6"
+    },
+    {
+      "album": {
+        "name": "Somewhere In My Memory",
+        "url": "https://open.spotify.com/album/1cR6hkvpDDGIkdxikJgQGO"
+      },
+      "artists": [
+        {
+          "name": "Pass Sacaglia",
+          "url": "https://open.spotify.com/artist/0ZrsvPjO4XAYfYXzoTroF5"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158823,
+      "name": "Somewhere In My Memory",
+      "url": "https://open.spotify.com/track/4mYAvFmB61UBYf2mq8EhJD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Megra, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,214,004 likes - 160 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,214,037 likes - 160 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 102 | [i know i'm a hopeless romantic](https://open.spotify.com/track/0jsQ2ThLTEzvMB0eHNrpSP) | [Bukola](https://open.spotify.com/artist/3DI1hTY14mlkNoehKLD6wA) | [i know i'm a hopeless romantic](https://open.spotify.com/album/1s5ZRP7NnLkzGAIAyrwAxx) | 4:02 |
 | 103 | [Lonely](https://open.spotify.com/track/6Jd9yjrgPlQBPH2rAKjav6) | [Lost Mary](https://open.spotify.com/artist/16WgLtGDVL7lWQBo9esyKO) | [Arcadia](https://open.spotify.com/album/2gD2lXpLSWG9L6AxyBdjRm) | 3:15 |
 | 104 | [BUMBAA](https://open.spotify.com/track/453RSzidDGcnSBPAB3Bebp) | [Ohthatsmizz](https://open.spotify.com/artist/77zq5iaCosWolNf1IRdTjJ), [Sturdyyoungin](https://open.spotify.com/artist/2DnJs9S5S7DWOyE2zK2fNs) | [BUMBAA](https://open.spotify.com/album/4PN0qLGHRS4VDIERqIpO2e) | 1:24 |
-| 105 | [Bloom](https://open.spotify.com/track/45jDy30AdgovP88gjPPdmB) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Bloom](https://open.spotify.com/album/1SIcq11Bdm5HE1S7JlORXe) | 4:35 |
+| 105 | [Bloom](https://open.spotify.com/track/45jDy30AdgovP88gjPPdmB) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Bloom](https://open.spotify.com/album/1SIcq11Bdm5HE1S7JlORXe) | 4:34 |
 | 106 | [FOREVER.](https://open.spotify.com/track/653r4vG5iaUnhyniwg8MvY) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [01 LOVE.](https://open.spotify.com/album/1xaQZdCL5VDcF5BsF6TH49) | 5:12 |
 | 107 | [California Rain](https://open.spotify.com/track/7vOl4Ee2y5I5J6WPccpIyQ) | [Syamali](https://open.spotify.com/artist/17kHwTPo7kOMb7DTEyySs4) | [California Rain](https://open.spotify.com/album/1iiQZz1YfV4eFLlrrOKEIw) | 3:28 |
 | 108 | [Love to Be](https://open.spotify.com/track/4wFu6LtUmK8MXSTDBQbiuZ) | [BAVHU](https://open.spotify.com/artist/16cM5HFziqNPx2h4esvrOd) | [Love to Be](https://open.spotify.com/album/79hEBPfDvTigDqMKCM4CuG) | 3:54 |

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,828 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,176 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sous la lune](https://open.spotify.com/track/6hKkzk8UlVUj9ioPCyeH1O) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Rien 100 Rien](https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p) | 2:51 |
-| 2 | [Bonbon à la menthe](https://open.spotify.com/track/30RmEyZdIYdYpSTkMtgtKt) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua), [Mallaury](https://open.spotify.com/artist/0zfnSBlLA4HJshaxPu2zPV) | [Jok'travolta](https://open.spotify.com/album/0AXwsQqbAnJ4Ndi9vxpduV) | 5:17 |
-| 3 | [Où aller](https://open.spotify.com/track/2otwB0RmCEWEQMeXHZ5EL0) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Ceinture noire \(Transcendance\)](https://open.spotify.com/album/3ZCbI9xAg4Y0sokUwrNB0V) | 3:55 |
-| 4 | [Ca parle mal](https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps \(Part\. 2\)](https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6) | 2:56 |
-| 5 | [MANON B](https://open.spotify.com/track/2PYlRGF5Wi5sDobsLH5gLX) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Ryflo](https://open.spotify.com/artist/4acowSAiQXmdhs4DCgUQ0U), [Oskoow](https://open.spotify.com/artist/1eXXCUkwhu0MRLTamWEgXE) | [MANON B](https://open.spotify.com/album/4kaRXOJNgAAa3Odl6ojLBf) | 2:49 |
-| 6 | [Sourire](https://open.spotify.com/track/3DkF5PzztACcDGdLWVFiyJ) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S](https://open.spotify.com/album/2KvyDaE0buWzzR8S4gCSsz) | 5:07 |
+| 1 | [Sourire](https://open.spotify.com/track/3DkF5PzztACcDGdLWVFiyJ) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S](https://open.spotify.com/album/2KvyDaE0buWzzR8S4gCSsz) | 5:07 |
+| 2 | [Sous la lune](https://open.spotify.com/track/6hKkzk8UlVUj9ioPCyeH1O) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Rien 100 Rien](https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p) | 2:51 |
+| 3 | [Bonbon à la menthe](https://open.spotify.com/track/30RmEyZdIYdYpSTkMtgtKt) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua), [Mallaury](https://open.spotify.com/artist/0zfnSBlLA4HJshaxPu2zPV) | [Jok'travolta](https://open.spotify.com/album/0AXwsQqbAnJ4Ndi9vxpduV) | 5:17 |
+| 4 | [Où aller](https://open.spotify.com/track/2otwB0RmCEWEQMeXHZ5EL0) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Ceinture noire \(Transcendance\)](https://open.spotify.com/album/3ZCbI9xAg4Y0sokUwrNB0V) | 3:55 |
+| 5 | [Ca parle mal](https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps \(Part\. 2\)](https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6) | 2:56 |
+| 6 | [MANON B](https://open.spotify.com/track/2PYlRGF5Wi5sDobsLH5gLX) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Ryflo](https://open.spotify.com/artist/4acowSAiQXmdhs4DCgUQ0U), [Oskoow](https://open.spotify.com/artist/1eXXCUkwhu0MRLTamWEgXE) | [MANON B](https://open.spotify.com/album/4kaRXOJNgAAa3Odl6ojLBf) | 2:49 |
 | 7 | [Lalla](https://open.spotify.com/track/1iM4agLs3G8ihIHEcWojcN) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Lalla](https://open.spotify.com/album/5OXNr5pjxuzvHgWTV4mRp0) | 3:07 |
 | 8 | [Malya](https://open.spotify.com/track/5XRSmVzOdT0dd3mMEWFnQC) | [AMK](https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi) | [15](https://open.spotify.com/album/1kPpMyLk2aWFhjP6Jw51Gn) | 3:12 |
 | 9 | [EL GEMANO](https://open.spotify.com/track/2s0ECLNrusYkBud3ZuoVrc) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [EL GEMANO](https://open.spotify.com/album/7MNh4XFiOSs4hHUkeGkfr4) | 4:08 |
@@ -26,13 +26,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 16 | [Eyes Without A Face](https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:59 |
 | 17 | [RESTE\-LÀ](https://open.spotify.com/track/6yg2N05MAebATBiYQytC6N) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 4:02 |
 | 18 | [MINUIT PILE](https://open.spotify.com/track/01kvKrTJRtr46q2SRW24yK) | [Braak's](https://open.spotify.com/artist/5lCApSCPniQPmRqWo12oG4) | [MINUIT PILE](https://open.spotify.com/album/0XEhUmLCMqTlWFyQMxwq9S) | 3:10 |
-| 19 | [Menina de Vermelho](https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i) | [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU), [RAMONMIX](https://open.spotify.com/artist/0VG8uPYk0ymnDxundrTGZK), [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm) | [Menina de Vermelho](https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s) | 2:31 |
+| 19 | [KONGOLESE SOUS BBL](https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [KONGOLESE SOUS BBL](https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p) | 2:44 |
 | 20 | [Instinct Animal](https://open.spotify.com/track/1Lbohk2VALhwp3YvvN0Owh) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [Folie's je t'aime \(bonus\)](https://open.spotify.com/album/4XY3AYQ1bUedzOupxozyjg) | 3:01 |
 | 21 | [Joie de filles \(feat\. Vacra\)](https://open.spotify.com/track/2JIiyXGlUn6t1yDB80ypWk) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Joie de filles \(feat\. Vacra\)](https://open.spotify.com/album/4mX4pHtUevnTpVA4C5ESVD) | 2:18 |
-| 22 | [I'M SORRY](https://open.spotify.com/track/2ynH9ETEo4OgLxNLJrcMKP) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [I'M SORRY](https://open.spotify.com/album/2h3yOY17ak9LUJs57SPdn6) | 2:32 |
-| 23 | [Solitaire](https://open.spotify.com/track/3F64F36D17vZ1KgI8vkHQf) | [Bosh](https://open.spotify.com/artist/6Mm2g25BTeJ6BICPFWGkPg) | [Synkinisi](https://open.spotify.com/album/70FpaoDALiemmQYyx3X1z7) | 2:37 |
-| 24 | [Monaco](https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Monaco](https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT) | 2:21 |
-| 25 | [KONGOLESE SOUS BBL](https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [KONGOLESE SOUS BBL](https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p) | 2:44 |
+| 22 | [Menina de Vermelho](https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i) | [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU), [RAMONMIX](https://open.spotify.com/artist/0VG8uPYk0ymnDxundrTGZK), [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm) | [Menina de Vermelho](https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s) | 2:31 |
+| 23 | [I'M SORRY](https://open.spotify.com/track/2ynH9ETEo4OgLxNLJrcMKP) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [I'M SORRY](https://open.spotify.com/album/2h3yOY17ak9LUJs57SPdn6) | 2:32 |
+| 24 | [Solitaire](https://open.spotify.com/track/3F64F36D17vZ1KgI8vkHQf) | [Bosh](https://open.spotify.com/artist/6Mm2g25BTeJ6BICPFWGkPg) | [Synkinisi](https://open.spotify.com/album/70FpaoDALiemmQYyx3X1z7) | 2:37 |
+| 25 | [Monaco](https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Monaco](https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT) | 2:21 |
 | 26 | [Maudit](https://open.spotify.com/track/1pA6YWfmMgbKHk36LtlcUP) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Pyramide](https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF) | 3:17 |
 | 27 | [Nique ma vie](https://open.spotify.com/track/2QpUFvdpmFMzXNmDB3MkL6) | [Mehdi Yz](https://open.spotify.com/artist/2BEMYnNYVY6FScCvRaw1J6) | [Nique ma vie](https://open.spotify.com/album/20LKN93m5n92JnGpaTmsnH) | 3:34 |
 | 28 | [En crabe](https://open.spotify.com/track/20vMWCW5HMPXnpZ6E0nKvl) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [En crabe](https://open.spotify.com/album/4url5ik7uzfWhTIjGJvKpN) | 3:08 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 89 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 |
 | 90 | [La Danse de Forêt](https://open.spotify.com/track/1K3YGxu5qiTir1Jv2jJ9Dd) | [Peyruis](https://open.spotify.com/artist/6qu7S8mXY2eKcqkDEGiGMN) | [La danse de forêt](https://open.spotify.com/album/7pj2yfSb11SdX2LJDTaejg) | 1:42 |
 
-Snapshot ID: `Zy5JQAAAAABOrS4VbSfZmxF7u5OgxXV6`
+Snapshot ID: `ZzPd8AAAAADZoDwhXx7NGiGzcSomGEGt`

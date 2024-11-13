@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 
 > Pump up your adrenaline with Punjabi hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,396 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,471 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 9 | [Pre Workout](https://open.spotify.com/track/0Ov71yacCGsGhHbFXwhKTo) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [ALPHA](https://open.spotify.com/album/6xONAWWocgNhYPBvUBjF8f) | 2:36 |
 | 10 | [HUNDO](https://open.spotify.com/track/7yz7n00FMO8AUxgvBHXZab) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [HUNDO](https://open.spotify.com/album/0vJ4vgqMg9DXt6zsnXaVRN) | 2:23 |
 | 11 | [Never Fold](https://open.spotify.com/track/3JkVYvxNoGf2HCWJo61462) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [SOE](https://open.spotify.com/artist/503jMzlAxbEpfltywmU45E) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 3:03 |
-| 12 | [Thumke 100](https://open.spotify.com/track/6DC287c6vu72O9PeHSxqek) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk), [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS) | [Thumke 100](https://open.spotify.com/album/3MrfPOu6hAgFp0m0yvG1Y2) | 2:07 |
-| 13 | [Cat Walk](https://open.spotify.com/track/50OhDMBICJCPOkzPHqwIzI) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Savraj](https://open.spotify.com/artist/2QO3W9e7MhaXQfCZuliJP9) | [Three Plays](https://open.spotify.com/album/7cg3ggWMPZjfQOUYCiSWmE) | 2:51 |
-| 14 | [COOLIN](https://open.spotify.com/track/4JtT28isAsPL7sznEbybpO) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [COOLIN](https://open.spotify.com/album/1MBMMMWRVog86eyr248GlH) | 3:00 |
-| 15 | [Murder](https://open.spotify.com/track/2mF6e4kHyg5bZHud5btnmJ) | [Shree Brar](https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Murder](https://open.spotify.com/album/2hFJ6Nj2c9zXM4bFvdXwBn) | 2:53 |
+| 12 | [Cat Walk](https://open.spotify.com/track/50OhDMBICJCPOkzPHqwIzI) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Savraj](https://open.spotify.com/artist/2QO3W9e7MhaXQfCZuliJP9) | [Three Plays](https://open.spotify.com/album/7cg3ggWMPZjfQOUYCiSWmE) | 2:51 |
+| 13 | [COOLIN](https://open.spotify.com/track/4JtT28isAsPL7sznEbybpO) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [COOLIN](https://open.spotify.com/album/1MBMMMWRVog86eyr248GlH) | 3:00 |
+| 14 | [Murder](https://open.spotify.com/track/2mF6e4kHyg5bZHud5btnmJ) | [Shree Brar](https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Murder](https://open.spotify.com/album/2hFJ6Nj2c9zXM4bFvdXwBn) | 2:53 |
+| 15 | [Thumke 100](https://open.spotify.com/track/6DC287c6vu72O9PeHSxqek) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk), [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS) | [Thumke 100](https://open.spotify.com/album/3MrfPOu6hAgFp0m0yvG1Y2) | 2:07 |
 | 16 | [Without You](https://open.spotify.com/track/6WAe9XRAVyTzPjIAi6mQin) | [Ali Brothers](https://open.spotify.com/artist/7j4bvaxcXA4ShJitAHfuBt), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz), [Shah Ali](https://open.spotify.com/artist/1akQWAZNKrFJWxqVQDiTa4) | [Without You](https://open.spotify.com/album/0zlxA5zhujNqOVerHKI9zN) | 3:27 |
 | 17 | [Assault](https://open.spotify.com/track/373YKVi1jskf5VEOQLHe2y) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Kanji Porh](https://open.spotify.com/artist/1b98mtrHsQw4TsaFTZTNFt), [Sobit](https://open.spotify.com/artist/0IHV9OaDBM0RQ4I3ZBrVv4) | [Assault](https://open.spotify.com/album/5Bcvt4DnYTfJUrrq1aRvYt) | 2:17 |
 | 18 | [Laagdaat](https://open.spotify.com/track/0xuOmIFVzGGNBl4VoAphrC) | [Sheera Jasvir](https://open.spotify.com/artist/7kcl4Cs88q6BfB0Qx5Vkil) | [Laagdaat](https://open.spotify.com/album/6i93yHBtrvxyxU6pzCZie8) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 49 | [Ykwim](https://open.spotify.com/track/6qS40yL7kXVoChI8SSCQIQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Ykwim](https://open.spotify.com/album/14XBYP5RcavbvSREiaQ17V) | 3:14 |
 | 50 | [G\-Shit \(feat\. Blockboi Twitch\)](https://open.spotify.com/track/5uuVGnkZEFHBz8unViC3iA) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Blockboi Twitch](https://open.spotify.com/artist/7fc9ZrMgda9ugNGz5DOTtw) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:53 |
 
-Snapshot ID: `ZzGSAwAAAAAfCrGRyvRUpmZbR8SxaXV6`
+Snapshot ID: `ZzLspgAAAAAKc13wsHwiaSjSpYs6MeZD`

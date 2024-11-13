@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 36978,
+  "num_followers": 36993,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy/3gAAAAAAOpni7iYPan4pzRW2PgBRh",
+  "snapshot_id": "ZzFJAAAAAABeUoXlXVEFhDJy7s/SlGGw",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUALIDAD",
-        "url": "https://open.spotify.com/album/1vR1AMrmkMaD9oDzflWAGl"
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
       },
       "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 201499,
-      "name": "DUALIDAD",
-      "url": "https://open.spotify.com/track/7xo6WF4Q2eY3qZ542FfsKg"
+      "duration_ms": 191680,
+      "name": "Amor Libre",
+      "url": "https://open.spotify.com/track/52xzRsYHAGrKYuWte06LuM"
     },
     {
       "added_at": null,
@@ -519,18 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+        "name": "DUALIDAD",
+        "url": "https://open.spotify.com/album/1vR1AMrmkMaD9oDzflWAGl"
       },
       "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 191680,
-      "name": "Amor Libre",
-      "url": "https://open.spotify.com/track/52xzRsYHAGrKYuWte06LuM"
+      "duration_ms": 201499,
+      "name": "DUALIDAD",
+      "url": "https://open.spotify.com/track/7xo6WF4Q2eY3qZ542FfsKg"
     },
     {
       "added_at": null,

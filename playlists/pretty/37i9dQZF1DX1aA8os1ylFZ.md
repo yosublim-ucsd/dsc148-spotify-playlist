@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,808 likes - 87 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,815 likes - 87 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 59 | [Slide](https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Wish You Were Here](https://open.spotify.com/album/3KzXjaZ3bOVtC6RgFCkUTE) | 3:35 |
 | 60 | [Sunshine](https://open.spotify.com/track/6GP9jeFO6QDrH6Ya4q5cFp) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Sunshine](https://open.spotify.com/album/4Npam0z6ZMgepAkZGT5liB) | 2:32 |
 | 61 | [Hurts Me To Know](https://open.spotify.com/track/0yZ6a47o7jfO5PmFjbQwCi) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Next Chapter](https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf) | 2:29 |
-| 62 | [COMPLACENT](https://open.spotify.com/track/3GOQvJ0I7QnoNl2HZHAYXC) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [THE GOOD TYPE OF BAD](https://open.spotify.com/album/4bT5yl41GmjrSCGcsRlWpO) | 3:25 |
-| 63 | [Double Tragedy](https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Double Tragedy](https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H) | 2:45 |
+| 62 | [Double Tragedy](https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Double Tragedy](https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H) | 2:45 |
+| 63 | [COMPLACENT](https://open.spotify.com/track/3GOQvJ0I7QnoNl2HZHAYXC) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [THE GOOD TYPE OF BAD](https://open.spotify.com/album/4bT5yl41GmjrSCGcsRlWpO) | 3:25 |
 | 64 | [Relax your mind](https://open.spotify.com/track/4rGtBNEGviusJ1vPiwurg9) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Relax your mind](https://open.spotify.com/album/68LVTdCq0QOLYvvZCFXGAt) | 3:31 |
 | 65 | [Charged Up](https://open.spotify.com/track/4HN6CicOpFp1nrkxHFM3Gt) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Charged Up](https://open.spotify.com/album/7tM3cKpt6DrUg1OW4B4BSf) | 2:59 |
 | 66 | [Believe](https://open.spotify.com/track/4YYpXaONSBsD2wVAsfxFH6) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME \(Expanded Edition\)](https://open.spotify.com/album/7GZwgBHhaazZ2QnrvbpDPO) | 3:31 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 70 | [10%](https://open.spotify.com/track/2WEgzFA8dSocpayQpNxcAZ) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [10%](https://open.spotify.com/album/5zlAwASkPnPzQv5edsDMJW) | 2:51 |
 | 71 | [City's Burning](https://open.spotify.com/track/1rgz9BcN7gaURoxJn74sz6) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [City's Burning](https://open.spotify.com/album/3ZK9PCRfpfu1225qjQbred) | 4:14 |
 | 72 | [Players Voicemail](https://open.spotify.com/track/6Lu9PML9zYrXFjRps5EIqY) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2) | [Players Voicemail](https://open.spotify.com/album/4fG96aFKveEb0QV0vZmaTs) | 2:52 |
-| 73 | [Boys Lie](https://open.spotify.com/track/6VH7CHJl7t9pvUUyQOKVhf) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [Boys Lie](https://open.spotify.com/album/4fg11InEwQRikdTiBWstPG) | 2:30 |
-| 74 | [Stars](https://open.spotify.com/track/0rUmvpKfigC5jL0jnIcYTB) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L), [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl) | [Stars](https://open.spotify.com/album/70KMbElvbjKSWUPERYbVCp) | 4:18 |
+| 73 | [Stars](https://open.spotify.com/track/0rUmvpKfigC5jL0jnIcYTB) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L), [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl) | [Stars](https://open.spotify.com/album/70KMbElvbjKSWUPERYbVCp) | 4:18 |
+| 74 | [Boys Lie](https://open.spotify.com/track/6VH7CHJl7t9pvUUyQOKVhf) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [Boys Lie](https://open.spotify.com/album/4fg11InEwQRikdTiBWstPG) | 2:30 |
 | 75 | [Make You Remember Me](https://open.spotify.com/track/6GF1YpC8PqlaPyWnUyue8s) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Make You Remember Me](https://open.spotify.com/album/1QCxlawfmRW3OFYNphiPuz) | 2:25 |
 | 76 | [Say You Do](https://open.spotify.com/track/2sC5Cdda0VyNHJGhGKey0L) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [EightyThrilla](https://open.spotify.com/artist/11K0tW3obVss3xQmgAxXvF) | [Say You Do](https://open.spotify.com/album/0WDr2AfJ9DWLVXUQmZnui4) | 3:09 |
 | 77 | [Gone Girl](https://open.spotify.com/track/2l3UrQ9RRUDHH2H6vUV723) | [Maya Mae](https://open.spotify.com/artist/3Rf9Szpp2LkKOc3SffGinv), [May](https://open.spotify.com/artist/1qUYX7PH6ubHnoCGWbjEW6) | [Gone Girl](https://open.spotify.com/album/0KGCksTaW4MwH3omcckWWU) | 3:01 |

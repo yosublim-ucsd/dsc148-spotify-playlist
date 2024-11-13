@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 364672,
+  "num_followers": 364930,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Diamonds On My Mind",
+        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 168529,
+      "name": "Diamonds On My Mind",
+      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 238270,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Diamonds On My Mind",
-        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 168529,
-      "name": "Diamonds On My Mind",
-      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Hare Ram",
+        "url": "https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 199727,
+      "name": "Hare Ram",
+      "url": "https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 259023,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Hare Ram",
-        "url": "https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 199727,
-      "name": "Hare Ram",
-      "url": "https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Better Than U Thought",
-        "url": "https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        }
-      ],
-      "duration_ms": 189618,
-      "name": "Better Than U Thought",
-      "url": "https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Elysium",
         "url": "https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Better Than U Thought",
+        "url": "https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 189618,
+      "name": "Better Than U Thought",
+      "url": "https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "MNML",
         "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 390447,
       "name": "Minimal",
       "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "You Can't Stop Us",
+        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
+      },
+      "artists": [
+        {
+          "name": "Denise Schneider",
+          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "You Can't Stop Us",
+      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -767,18 +783,34 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "You Can't Stop Us",
-        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
+        "name": "Robot",
+        "url": "https://open.spotify.com/album/1qqb2o1QPUWO4mK2y5WV8A"
       },
       "artists": [
         {
-          "name": "Denise Schneider",
-          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
         }
       ],
-      "duration_ms": 142153,
-      "name": "You Can't Stop Us",
-      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
+      "duration_ms": 205652,
+      "name": "Robot",
+      "url": "https://open.spotify.com/track/1ozpkbaIyJ4lL2pUHbzTRW"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/0q5uRkPKHeKcNoco1IuZ8R"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 163165,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/1j611ghQfHnBMnqSZCoxc8"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -803,38 +835,6 @@
       "duration_ms": 240000,
       "name": "Simulator - Mha Iri Remix",
       "url": "https://open.spotify.com/track/27Nl7mwPVcqZKCofcS3v9Z"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/0q5uRkPKHeKcNoco1IuZ8R"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 163165,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/1j611ghQfHnBMnqSZCoxc8"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Robot",
-        "url": "https://open.spotify.com/album/1qqb2o1QPUWO4mK2y5WV8A"
-      },
-      "artists": [
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 205652,
-      "name": "Robot",
-      "url": "https://open.spotify.com/track/1ozpkbaIyJ4lL2pUHbzTRW"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -911,18 +911,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Zulu",
-        "url": "https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF"
+        "name": "ORION",
+        "url": "https://open.spotify.com/album/2PYilagLkHCFnVRKgXs39A"
       },
       "artists": [
         {
-          "name": "A.D.H.S.",
-          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        },
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
         }
       ],
-      "duration_ms": 298181,
-      "name": "Zulu",
-      "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"
+      "duration_ms": 201569,
+      "name": "ORION",
+      "url": "https://open.spotify.com/track/5EhsdUx1N4JTcokotQT71c"
     }
   ],
   "unique_name": "Techno Workout",

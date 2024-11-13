@@ -7184,7 +7184,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 126101,
       "name": "Erica",
       "url": "https://open.spotify.com/track/4PYHW0oWq4kLX0XtCcizUR"
@@ -8394,7 +8394,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 151124,
       "name": "Flourish",
       "url": "https://open.spotify.com/track/64FQyOZ9XEu8BOjSLdKSxP"
@@ -12816,7 +12816,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 122159,
       "name": "Just Passing By",
       "url": "https://open.spotify.com/track/51zL0hF9UCIToxItCojCRP"
@@ -20324,7 +20324,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 181500,
       "name": "Place of Plenty",
       "url": "https://open.spotify.com/track/6S6HjM6PkDRPLDqDU5y3gB"
@@ -24448,6 +24448,24 @@
       "duration_ms": 206545,
       "name": "Sonora",
       "url": "https://open.spotify.com/track/4ku8WSW5vtEZNGM8oUuGnd"
+    },
+    {
+      "album": {
+        "name": "Sooner",
+        "url": "https://open.spotify.com/album/6t3T0phbbvij8cQg5ouSrt"
+      },
+      "artists": [
+        {
+          "name": "Erinthe",
+          "url": "https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155226,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/2CAazxXgxJXG4hfC8ucXs3"
     },
     {
       "album": {
@@ -29068,6 +29086,24 @@
       "duration_ms": 111270,
       "name": "Venjan",
       "url": "https://open.spotify.com/track/1Q2GGydtsco68kLjwfyTMu"
+    },
+    {
+      "album": {
+        "name": "vent de nuit",
+        "url": "https://open.spotify.com/album/78ZVeem9l5SzWW0sh2MaBb"
+      },
+      "artists": [
+        {
+          "name": "Ethan \u00c9lgar",
+          "url": "https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "vent de nuit",
+      "url": "https://open.spotify.com/track/5hFLJRSNQo7Idc4SfawJ0c"
     },
     {
       "album": {

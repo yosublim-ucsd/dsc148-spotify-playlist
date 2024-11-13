@@ -2473,6 +2473,24 @@
     },
     {
       "album": {
+        "name": "Music for Peace and Harmony",
+        "url": "https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW"
+      },
+      "artists": [
+        {
+          "name": "Hiro Ama",
+          "url": "https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222645,
+      "name": "Forest Bathing",
+      "url": "https://open.spotify.com/track/0OAXvDMV0rQzSiukKjDwyt"
+    },
+    {
+      "album": {
         "name": "Trees etc.",
         "url": "https://open.spotify.com/album/0Hi7a09Vn6FuPZSsADVfsI"
       },
@@ -3906,7 +3924,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 366825,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2MEhiY4t1uYcq1MpkNzvWd"

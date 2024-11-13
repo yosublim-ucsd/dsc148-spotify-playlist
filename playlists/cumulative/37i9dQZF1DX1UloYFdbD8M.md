@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Masala Coffee
 
-242 songs - 16 hr 10 min
+243 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Kaantha Reprised](https://open.spotify.com/track/7qU4teUQNnqYr2vzTcLVZu) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Kaantha Reprised](https://open.spotify.com/album/1UMpLamggLlvdcJ7IwvLhF) | 3:46 | 2022-12-22 | 2024-08-13 |
 | [Kaarum Kolum](https://open.spotify.com/track/2dj6ZiBqbsp0OhIm7qiqRr) | [Rianna Danish](https://open.spotify.com/artist/2ttHxFr3j0ANf2rKduJSnt) | [Kaarum Kolum](https://open.spotify.com/album/4eaeJ2zeADiJHSvwXxkJoB) | 3:24 | 2024-01-15 | 2024-02-19 |
 | [Kaattu](https://open.spotify.com/track/47tjVaXO3x96dHu12nSQX2) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis) | [Kaattu](https://open.spotify.com/album/6Ibrm7cHqLtIjOs0iOK5Na) | 5:51 | 2023-11-06 | 2024-02-19 |
-| [Kadalinnazham](https://open.spotify.com/track/5FHK2Wx8QFTOhxRwdntH4C) | [Amritha Rajan](https://open.spotify.com/artist/3n3YQPjjW1V5ajSPFh6Uqu) | [Kadalinnazham](https://open.spotify.com/album/1KBthf47eDF07DvJn4z5uq) | 3:32 | 2024-07-01 |  |
+| [Kadalinnazham](https://open.spotify.com/track/5FHK2Wx8QFTOhxRwdntH4C) | [Amritha Rajan](https://open.spotify.com/artist/3n3YQPjjW1V5ajSPFh6Uqu) | [Kadalinnazham](https://open.spotify.com/album/1KBthf47eDF07DvJn4z5uq) | 3:32 | 2024-07-01 | 2024-11-13 |
 | [Kali](https://open.spotify.com/track/41ayv69t4dbYm7zMPcNUot) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ) | [Kali](https://open.spotify.com/album/4CAmWr6UQROx0HPSbb1PIJ) | 2:31 | 2023-05-26 | 2023-07-28 |
 | [Kaliyattam The Play of God](https://open.spotify.com/track/2MbJYJ9AekOyLhQ9GznRrr) | [Jeffin Jestin](https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC), [Arun Yuga](https://open.spotify.com/artist/2AY3I81C15zpmeVnxU50Zq) | [Kaliyattam The Play of God](https://open.spotify.com/album/5rL2f0z4Cd0JdDiMA0fDRE) | 2:50 | 2023-11-28 | 2024-06-08 |
 | [Kalliyankatt Neeli \- Namah](https://open.spotify.com/track/0dlqKuiPPbXQ5I3Q2juSah) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI), [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl) | [Namah](https://open.spotify.com/album/0rwlL4cHDpPHUhdMGlk3Ew) | 6:00 | 2023-09-26 | 2024-02-19 |
@@ -120,6 +120,7 @@
 | [Maanju Poyi](https://open.spotify.com/track/0FziXBnfNclTU9uPFVU0q7) | [Entercone](https://open.spotify.com/artist/31IIGfZnnpIWzVph2zKGkG) | [Maanju Poyi](https://open.spotify.com/album/1wLrzYfialQYyTw6vAxFu6) | 4:33 | 2023-08-23 | 2024-02-19 |
 | [Maarane Thedum](https://open.spotify.com/track/6lILC3jFNhreDnjdq4xwZs) | [Prakash Alex](https://open.spotify.com/artist/5SWR0sXeoxKCuU987oQTUz), [Abhijith Damodaran](https://open.spotify.com/artist/7vaIaEZztAE7N3F7BSINZd) | [Maarane Thedum](https://open.spotify.com/album/5oya1Gh8pERbBLf9BYG5l7) | 2:54 | 2023-06-22 | 2023-07-28 |
 | [Maayum Mumbae](https://open.spotify.com/track/0wYtgHS8kYVBMgXeDVrvAA) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC), [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe) | [Maayum Mumbae](https://open.spotify.com/album/0Dte3oPMWdK6piDBqkqxAB) | 3:33 | 2024-02-14 | 2024-10-09 |
+| [Madhure](https://open.spotify.com/track/4laP9v1EYy0XNPXB801MpR) | [AK Hash](https://open.spotify.com/artist/4X0Ez8IAyMT3vPbwHENoF9), [Nazeer Minnale](https://open.spotify.com/artist/5raKbwjQso45ujdj5638gg) | [Madhure](https://open.spotify.com/album/2KoXz4gKvMogaqaqsuGvNu) | 3:09 | 2024-11-12 |  |
 | [Madhuvaayi](https://open.spotify.com/track/6cBeo0QSPoZIpbWdNKNhfL) | [Joyal Tojo](https://open.spotify.com/artist/2gCwrqrvsSzBQyZ6r5HNEM), [Jyothis Jens](https://open.spotify.com/artist/33gSTavbpTQgqHzrLZegmJ), [Alapana Bagirath](https://open.spotify.com/artist/2BWrhgob1gLJCRsvds83yI) | [Madhuvaayi](https://open.spotify.com/album/1UAvkaesQecVkIFNHULXWc) | 3:03 | 2023-07-12 | 2023-07-28 |
 | [Malhaar](https://open.spotify.com/track/5M4kAcCGMmfmYPMpW1BqiA) | [Arun Kamath](https://open.spotify.com/artist/1LhVMgynbTBbaAAExyqjFa), [Akshay Yesodharan](https://open.spotify.com/artist/0v3tdZjCZmBF6L7H05dbwN), [Vineeth Jayan](https://open.spotify.com/artist/0PzqycEyy9XO1Hziogna7S), [ZIA](https://open.spotify.com/artist/7553AusOIq9ylsYMZ1KO5y) | [Malhaar](https://open.spotify.com/album/1gmNKuzABsZI87jQOxJKEI) | 3:55 | 2022-06-23 | 2023-07-28 |
 | [Manavyalakinchara \(Mist of Capricorn\)](https://open.spotify.com/track/4CynbtCIynnanmhYj1FW7Q) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Manavyalakinchara \(Mist of Capricorn\) \- Single](https://open.spotify.com/album/4z3inK6h6bTRQJW2gozjjj) | 5:49 | 2023-10-06 | 2024-04-19 |

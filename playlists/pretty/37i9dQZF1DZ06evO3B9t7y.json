@@ -1,12 +1,12 @@
 {
   "description": "This is Carin Leon. The essential tracks, all in one playlist.",
-  "num_followers": 980408,
+  "num_followers": 980715,
   "original_name": "This Is Carin Leon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy/3gAAAAABBgDF483KLO9gWDZx7vaDM",
+  "snapshot_id": "ZzFJAAAAAADNoUzwT2sAx2J2c712+M2r",
   "tracks": [
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Esquina del Mall",
-        "url": "https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 207387,
-      "name": "La Esquina del Mall",
-      "url": "https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como Duele Equivocarse",
         "url": "https://open.spotify.com/album/1PnZI2OsZUT1fWvl8pGyOL"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 227044,
       "name": "Como Duele Equivocarse",
       "url": "https://open.spotify.com/track/7ItDaXyhJJog7ZZJXTMOwf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Esquina del Mall",
+        "url": "https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 207387,
+      "name": "La Esquina del Mall",
+      "url": "https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck"
     },
     {
       "added_at": null,

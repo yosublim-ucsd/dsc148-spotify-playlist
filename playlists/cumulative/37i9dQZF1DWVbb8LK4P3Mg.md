@@ -4,7 +4,7 @@
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: NCT 127\)
 
-208 songs - 12 hr 10 min
+209 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Merry & Happy](https://open.spotify.com/track/59TGiILFEI1NYSFcxyFiUZ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Merry & Happy](https://open.spotify.com/album/0R7pj4tnmcoUulrZGPo6nw) | 3:12 | 2021-12-21 | 2024-04-19 |
 | [Merry Christmas](https://open.spotify.com/track/2SJd63Mwyi9WKnHYtZ5ZOr) | [Girls' Generation\-TTS](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | [Dear Santa \- X\-Mas Special](https://open.spotify.com/album/2nFsRoEaoFtISD0Czsvx2x) | 3:43 | 2021-12-21 | 2022-07-29 |
 | [Merry Christmas](https://open.spotify.com/track/3KdPgCH2u51vrT8YCYZABH) | [Girls' Generation\-TTS](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | [Dear Santa \- X\-Mas Special](https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj) | 3:43 | 2021-12-21 | 2024-04-19 |
-| [Merry Christmas](https://open.spotify.com/track/0QV9dRXZsFM68ehadaIUFK) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [TEEN TOP Snow Kiss](https://open.spotify.com/album/6TcFwzPesuskRFjTQptrl4) | 3:19 | 2021-12-21 |  |
+| [Merry Christmas](https://open.spotify.com/track/0QV9dRXZsFM68ehadaIUFK) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [TEEN TOP Snow Kiss](https://open.spotify.com/album/6TcFwzPesuskRFjTQptrl4) | 3:19 | 2021-12-21 | 2024-11-13 |
 | [Merry Christmas \(Feat\. Sun Ahn, Kate Kim\)](https://open.spotify.com/track/2lvtjJ7cAEL9yLrFto2Aal) | [2LSON](https://open.spotify.com/artist/2AMTVJeuaSJHOatQS448YY), [Sun Ahn](https://open.spotify.com/artist/6gXQ2KemBfEPPiIksjd5Gm), [LILAC](https://open.spotify.com/artist/2klhHHmpW7xu4lmdLm7ULj) | [Merry Christmas](https://open.spotify.com/album/2jEm0ykpfPcONFbJ1LEgOj) | 4:25 | 2021-12-21 | 2022-12-20 |
 | [Merry Christmas JAM!](https://open.spotify.com/track/0XfoZVAnwtzjKWvVkzSJIW) | [SWEET SORROW](https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb), [Choi Joon](https://open.spotify.com/artist/2kKsTEjAE8ZOtxIvCL8bts) | [Merry Christmas JAM!](https://open.spotify.com/album/2w2k6U8hNKPrauD0PS2ZDi) | 2:55 | 2021-12-21 | 2022-12-17 |
 | [merry merry](https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [merry merry](https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q) | 2:45 | 2021-12-21 |  |
@@ -128,6 +128,7 @@
 | [My Christmas Day's For You \- 2021](https://open.spotify.com/track/3IToKKHkdw19GKoZRnc3MY) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [December](https://open.spotify.com/album/6mUh75sWY6BAfmkfBkXDb4) | 3:40 | 2021-12-21 | 2023-09-08 |
 | [My Favorite Winter](https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 3:49 | 2022-12-15 |  |
 | [MY GROWN UP CHRISTMAS LIST](https://open.spotify.com/track/2ONdR1GlPowCViNz74KE7h) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [HITMAN PROJECT \#1 : A TRIBUTE TO THE HITMAN,DAVID FOSTER](https://open.spotify.com/album/7eRKeHsGJe7gtSUwoaHTqQ) | 4:49 | 2021-12-21 |  |
+| [My Little Christmas](https://open.spotify.com/track/2JN8UctuoUI71xqNO7FfZk) | [Kim Chae Won](https://open.spotify.com/artist/4AY12WVwnTpIobXjwJkYDQ) | [MY LITTLE CHRISTMAS](https://open.spotify.com/album/7EC1TDmxdXv5JKPNywZ7oa) | 3:52 | 2024-01-08 |  |
 | [My Winter Trip](https://open.spotify.com/track/1SDRgU2C81CcOhaOvTOBCk) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [My Winter Trip](https://open.spotify.com/album/4VVH0BD7z9Cs4iORPbZ2Ci) | 4:11 | 2021-12-21 |  |
 | [My Winter Wonderland](https://open.spotify.com/track/078ruO4bb8PNlWo5BAwTZv) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [Winter](https://open.spotify.com/album/3Sv9Di6p9mZbJAuYFt8Ado) | 3:36 | 2021-12-21 | 2022-07-29 |
 | [Never Leave Me \(Feat\. pH\-1\)](https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [NOI MAS](https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm) | 3:36 | 2022-11-30 |  |

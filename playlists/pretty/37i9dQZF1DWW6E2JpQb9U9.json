@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: No Te Va Gustar",
-  "num_followers": 117018,
+  "num_followers": 117058,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,22 @@
     {
       "added_at": "2024-10-10 22:03:33",
       "album": {
-        "name": "Roxana Porcellana (En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza)",
-        "url": "https://open.spotify.com/album/52F9O4eYq3oOdWJF6B7d3i"
+        "name": "Instante Eterno (ac\u00fastico en Vivo)",
+        "url": "https://open.spotify.com/album/3strzjXT1o3fjp6TmC67ev"
       },
       "artists": [
         {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+          "name": "El Bordo",
+          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
         },
         {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+          "name": "Facundo Soto",
+          "url": "https://open.spotify.com/artist/7iHo4CLGchMwwtiCxfyGem"
         }
       ],
-      "duration_ms": 245699,
-      "name": "Roxana Porcellana - En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza",
-      "url": "https://open.spotify.com/track/1doPJZrqUVxPhD5cFdMzid"
+      "duration_ms": 227050,
+      "name": "A D\u00f3nde Vas - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/5En6kK2Xn4HgYQBhBgcxY0"
     },
     {
       "added_at": "2024-10-10 22:03:33",
@@ -647,22 +647,22 @@
     {
       "added_at": "2024-10-10 22:03:33",
       "album": {
-        "name": "Instante Eterno (ac\u00fastico en Vivo)",
-        "url": "https://open.spotify.com/album/3strzjXT1o3fjp6TmC67ev"
+        "name": "Roxana Porcellana (En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza)",
+        "url": "https://open.spotify.com/album/52F9O4eYq3oOdWJF6B7d3i"
       },
       "artists": [
         {
-          "name": "El Bordo",
-          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
         },
         {
-          "name": "Facundo Soto",
-          "url": "https://open.spotify.com/artist/7iHo4CLGchMwwtiCxfyGem"
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
         }
       ],
-      "duration_ms": 227050,
-      "name": "A D\u00f3nde Vas - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/5En6kK2Xn4HgYQBhBgcxY0"
+      "duration_ms": 245699,
+      "name": "Roxana Porcellana - En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza",
+      "url": "https://open.spotify.com/track/1doPJZrqUVxPhD5cFdMzid"
     },
     {
       "added_at": "2024-10-10 22:03:33",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-10-10 22:03:33",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 263373,
-      "name": "Pronta Entrega - En Vivo",
-      "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
-    },
-    {
-      "added_at": "2024-10-10 22:03:33",
-      "album": {
         "name": "Provincia Emergente Estadio Unico de La Plata (En Vivo)",
         "url": "https://open.spotify.com/album/2VPSdVQuuSNyYPIgzxruqi"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 334320,
       "name": "Avanti Morocha (En Vivo Provincia Emergente)",
       "url": "https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6"
+    },
+    {
+      "added_at": "2024-10-10 22:03:33",
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 263373,
+      "name": "Pronta Entrega - En Vivo",
+      "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
     },
     {
       "added_at": "2024-10-10 22:03:33",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-10-10 22:03:33",
       "album": {
-        "name": "En Vivo-Vol.2",
-        "url": "https://open.spotify.com/album/5qdC9gg5lgiYpPu9OWUAnw"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 201293,
-      "name": "Me Puedo Programar (En Vivo",
-      "url": "https://open.spotify.com/track/2R86XvRGehbGtBMJUJDYfC"
-    },
-    {
-      "added_at": "2024-10-10 22:03:33",
-      "album": {
         "name": "Alucinados como la primera vez",
         "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 363208,
       "name": "Ji Ji Ji - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
       "url": "https://open.spotify.com/track/1TGLpWSsFMuDR3DMD6Pyc5"
+    },
+    {
+      "added_at": "2024-10-10 22:03:33",
+      "album": {
+        "name": "En Vivo-Vol.2",
+        "url": "https://open.spotify.com/album/5qdC9gg5lgiYpPu9OWUAnw"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "Me Puedo Programar (En Vivo",
+      "url": "https://open.spotify.com/track/2R86XvRGehbGtBMJUJDYfC"
     },
     {
       "added_at": "2024-10-10 22:03:33",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2024-10-10 22:03:33",
       "album": {
-        "name": "El Charro Chino (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
-        "url": "https://open.spotify.com/album/2OZE8Npt2GEVmM6WftWd0U"
-      },
-      "artists": [
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 294334,
-      "name": "El Charro Chino - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
-      "url": "https://open.spotify.com/track/7zSzpBTIDG5aHJCmTJptTx"
-    },
-    {
-      "added_at": "2024-10-10 22:03:33",
-      "album": {
         "name": "Yendo de la Cama al Living (En Vivo Teatro \u00d3pera)",
         "url": "https://open.spotify.com/album/3luYZNG2a6Y2qaKtEbZEzc"
       },
@@ -1131,22 +1111,6 @@
     {
       "added_at": "2024-10-10 22:03:33",
       "album": {
-        "name": "El Rostro y la Luna (En Vivo)",
-        "url": "https://open.spotify.com/album/7jXg6Wue65xKLUyEM2wZEB"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        }
-      ],
-      "duration_ms": 281583,
-      "name": "1986 - En Vivo",
-      "url": "https://open.spotify.com/track/0fJsvCUqUN01VS5IpSoaNs"
-    },
-    {
-      "added_at": "2024-10-10 22:03:33",
-      "album": {
         "name": "Vivire Viajando",
         "url": "https://open.spotify.com/album/0A6UwA0TXPMBiJG0m3O1Rg"
       },
@@ -1159,6 +1123,42 @@
       "duration_ms": 253733,
       "name": "Arde la ciudad",
       "url": "https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ"
+    },
+    {
+      "added_at": "2024-10-10 22:03:33",
+      "album": {
+        "name": "El Charro Chino (En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil)",
+        "url": "https://open.spotify.com/album/2OZE8Npt2GEVmM6WftWd0U"
+      },
+      "artists": [
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "duration_ms": 294334,
+      "name": "El Charro Chino - En Vivo, S\u00e1bado 12 de Marzo de 2016 / Hip\u00f3dromo de Tandil",
+      "url": "https://open.spotify.com/track/7zSzpBTIDG5aHJCmTJptTx"
+    },
+    {
+      "added_at": "2024-10-10 22:03:33",
+      "album": {
+        "name": "El Rostro y la Luna (En Vivo)",
+        "url": "https://open.spotify.com/album/7jXg6Wue65xKLUyEM2wZEB"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        }
+      ],
+      "duration_ms": 281583,
+      "name": "1986 - En Vivo",
+      "url": "https://open.spotify.com/track/0fJsvCUqUN01VS5IpSoaNs"
     },
     {
       "added_at": "2024-10-10 22:03:33",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-10-10 22:03:33",
       "album": {
-        "name": "Vivo X la 25",
-        "url": "https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2"
-      },
-      "artists": [
-        {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "Solo Voy - En Vivo",
-      "url": "https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6"
-    },
-    {
-      "added_at": "2024-10-10 22:03:33",
-      "album": {
         "name": "En Vivo en el Teatro \u00d3pera",
         "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 304386,
       "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
+    },
+    {
+      "added_at": "2024-10-10 22:03:33",
+      "album": {
+        "name": "Vivo X la 25",
+        "url": "https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2"
+      },
+      "artists": [
+        {
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "Solo Voy - En Vivo",
+      "url": "https://open.spotify.com/track/6iFOuRmcqjqOKiM8daR9P6"
     },
     {
       "added_at": "2024-10-10 22:03:33",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-10-10 22:03:33",
       "album": {
-        "name": "Rata Blanca: Luna Park 2019 (En Vivo)",
-        "url": "https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE"
-      },
-      "artists": [
-        {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
-        }
-      ],
-      "duration_ms": 339026,
-      "name": "La Leyenda del Hada y el Mago - En Vivo",
-      "url": "https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn"
-    },
-    {
-      "added_at": "2024-10-10 22:03:33",
-      "album": {
         "name": "De No Olvidar (En Vivo)",
         "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 159653,
       "name": "De No Olvidar - En Vivo",
       "url": "https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0"
+    },
+    {
+      "added_at": "2024-10-10 22:03:33",
+      "album": {
+        "name": "Rata Blanca: Luna Park 2019 (En Vivo)",
+        "url": "https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "duration_ms": 339026,
+      "name": "La Leyenda del Hada y el Mago - En Vivo",
+      "url": "https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn"
     },
     {
       "added_at": "2024-10-10 22:03:33",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-10-10 22:03:33",
       "album": {
+        "name": "Fr\u00e1gil (En Vivo)",
+        "url": "https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 200985,
+      "name": "Fr\u00e1gil - En Vivo",
+      "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
+    },
+    {
+      "added_at": "2024-10-10 22:03:33",
+      "album": {
         "name": "Cuando el sol est\u00e1 as\u00ed (En Vivo en La Tangente)",
         "url": "https://open.spotify.com/album/7CIFhW87WpxEqkyIYz15Pe"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 244360,
       "name": "Cuando el sol est\u00e1 as\u00ed - En Vivo en La Tangente",
       "url": "https://open.spotify.com/track/70rqhJcGk6SGEaGwUtCFzd"
-    },
-    {
-      "added_at": "2024-10-10 22:03:33",
-      "album": {
-        "name": "Fr\u00e1gil (En Vivo)",
-        "url": "https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 200985,
-      "name": "Fr\u00e1gil - En Vivo",
-      "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
     },
     {
       "added_at": "2024-10-10 22:03:33",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-10-10 22:03:33",
       "album": {
-        "name": "Carretera Perdida (En Vivo)",
-        "url": "https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3"
-      },
-      "artists": [
-        {
-          "name": "Buitres",
-          "url": "https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl"
-        }
-      ],
-      "duration_ms": 290496,
-      "name": "Carretera Perdida - En Vivo",
-      "url": "https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT"
-    },
-    {
-      "added_at": "2024-10-10 22:03:33",
-      "album": {
         "name": "Razzmatazz (En directo)",
         "url": "https://open.spotify.com/album/0lhtRV9TKRZriNswVCca9q"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 180885,
       "name": "Me envenenaste - En directo Razzmatazz",
       "url": "https://open.spotify.com/track/1t3NbPBc8i2pQQnyneENrj"
+    },
+    {
+      "added_at": "2024-10-10 22:03:33",
+      "album": {
+        "name": "Carretera Perdida (En Vivo)",
+        "url": "https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3"
+      },
+      "artists": [
+        {
+          "name": "Buitres",
+          "url": "https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl"
+        }
+      ],
+      "duration_ms": 290496,
+      "name": "Carretera Perdida - En Vivo",
+      "url": "https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT"
     },
     {
       "added_at": "2024-10-10 22:03:33",
@@ -1651,22 +1651,18 @@
     {
       "added_at": "2024-10-10 22:03:33",
       "album": {
-        "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
-        "url": "https://open.spotify.com/album/66xb8pQPGVe9j2f2LeAH5x"
+        "name": "XV A\u00f1os - En Vivo Estadio Obras",
+        "url": "https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX"
       },
       "artists": [
         {
           "name": "Eruca Sativa",
           "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        },
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
         }
       ],
-      "duration_ms": 268960,
-      "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
-      "url": "https://open.spotify.com/track/7BvZe1dKoDjB7cWaenTgkX"
+      "duration_ms": 377832,
+      "name": "Para Que Sigamos Siendo (En Vivo Estadio Obras)",
+      "url": "https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7"
     },
     {
       "added_at": "2024-10-10 22:03:33",

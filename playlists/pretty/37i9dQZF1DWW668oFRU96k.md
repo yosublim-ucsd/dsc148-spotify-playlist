@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Tiësto x Soaky Siren
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,098 likes - 83 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,124 likes - 83 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

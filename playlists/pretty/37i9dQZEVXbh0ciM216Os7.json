@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAB7sLfwwUZav86uBU0CVW6/",
+  "snapshot_id": "AAAAAAAAAACepGxtqlTIexhaC6fRO/uR",
   "tracks": [
     {
       "added_at": "2024-11-08 05:00:00",
@@ -135,6 +135,26 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "IAMFUNK!",
+        "url": "https://open.spotify.com/album/0X2RC4BA6Bs6GTj9zicPUz"
+      },
+      "artists": [
+        {
+          "name": "Young Molz",
+          "url": "https://open.spotify.com/artist/0xnQjx6t9qfEFpE6zQed1K"
+        },
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 388965,
+      "name": "GP TO NW (feat. Ghost)",
+      "url": "https://open.spotify.com/track/7ElblGSZpvZaXTgiLy0j3g"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Quatri\u00e8me mur",
         "url": "https://open.spotify.com/album/1VTQXXcGF3m5V4PcxUFpfr"
       },
@@ -171,26 +191,6 @@
       "duration_ms": 663217,
       "name": "Stella By Starlight - Live at Paris, Salle Pleyel, France - October 1, 1964 [1st Concert]",
       "url": "https://open.spotify.com/track/25osSBdShXOwws7vJAwplJ"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "IAMFUNK!",
-        "url": "https://open.spotify.com/album/0X2RC4BA6Bs6GTj9zicPUz"
-      },
-      "artists": [
-        {
-          "name": "Young Molz",
-          "url": "https://open.spotify.com/artist/0xnQjx6t9qfEFpE6zQed1K"
-        },
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 388965,
-      "name": "GP TO NW (feat. Ghost)",
-      "url": "https://open.spotify.com/track/7ElblGSZpvZaXTgiLy0j3g"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "American Idiot (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 154983,
+      "name": "American Idiot (Alt. Version) - Demo",
+      "url": "https://open.spotify.com/track/3tSGHoEd3CKJ9E5OtHKFZ1"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl"
       },
@@ -291,22 +307,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "American Idiot (20th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 154983,
-      "name": "American Idiot (Alt. Version) - Demo",
-      "url": "https://open.spotify.com/track/3tSGHoEd3CKJ9E5OtHKFZ1"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "How to Impress God",
         "url": "https://open.spotify.com/album/7pJJ3QKvYRqPAShAqzwQFs"
       },
@@ -327,6 +327,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "If You Can Count",
+      "url": "https://open.spotify.com/track/1QpJXozmWx1foS6GsIp3fA"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Spirit Box",
         "url": "https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 172338,
       "name": "Let Me Cook",
       "url": "https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "If You Can Count",
-      "url": "https://open.spotify.com/track/1QpJXozmWx1foS6GsIp3fA"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -399,26 +399,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "The Lotus Child",
-        "url": "https://open.spotify.com/album/39FpJp8gjraLFv0HZByz0D"
-      },
-      "artists": [
-        {
-          "name": "Che Noir",
-          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        }
-      ],
-      "duration_ms": 192468,
-      "name": "Black Girl",
-      "url": "https://open.spotify.com/track/1u8FaU9NCGRbXltNNuxh1p"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Ghosts",
         "url": "https://open.spotify.com/album/1Aa7IJ0XzdyMISGbORyIHO"
       },
@@ -431,6 +411,42 @@
       "duration_ms": 172800,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/5UHCmvbQn8UoM6Zsv8LKyc"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Feeling So Real 2024",
+        "url": "https://open.spotify.com/album/5ooyW11I1KrkzS2nE3ZPCY"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "Feeling So Real 2024",
+      "url": "https://open.spotify.com/track/4bzrhnr9taRlRvKgoPEl4p"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "No More Costumes",
+        "url": "https://open.spotify.com/album/1pq8LSaDQvvkICYojowtGn"
+      },
+      "artists": [
+        {
+          "name": "Ave the Fox",
+          "url": "https://open.spotify.com/artist/4grfwArjhjtuqX0KmI3u73"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 282217,
+      "name": "Black Batman",
+      "url": "https://open.spotify.com/track/720jHxQyhubRRlWEC9gLaE"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -459,62 +475,6 @@
       "duration_ms": 431950,
       "name": "TO KINDA LOUNGE AROUND",
       "url": "https://open.spotify.com/track/7nyhRSu4PFOJJtQ9ZXILB8"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "No More Costumes",
-        "url": "https://open.spotify.com/album/1pq8LSaDQvvkICYojowtGn"
-      },
-      "artists": [
-        {
-          "name": "Ave the Fox",
-          "url": "https://open.spotify.com/artist/4grfwArjhjtuqX0KmI3u73"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 282217,
-      "name": "Black Batman",
-      "url": "https://open.spotify.com/track/720jHxQyhubRRlWEC9gLaE"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "8 Days (Remixes)",
-        "url": "https://open.spotify.com/album/4h91KGw31tC1ygdlDDqCDX"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 173538,
-      "name": "8 Days - Wuki Remix",
-      "url": "https://open.spotify.com/track/4lY3nqqbiBpK9LM59EWJTb"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Feeling So Real 2024",
-        "url": "https://open.spotify.com/album/5ooyW11I1KrkzS2nE3ZPCY"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "Feeling So Real 2024",
-      "url": "https://open.spotify.com/track/4bzrhnr9taRlRvKgoPEl4p"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -551,6 +511,26 @@
       "duration_ms": 210120,
       "name": "Never Be (Hold Of Me)",
       "url": "https://open.spotify.com/track/4Vd56qPvULa5ayS47c9cDO"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "8 Days (Remixes)",
+        "url": "https://open.spotify.com/album/4h91KGw31tC1ygdlDDqCDX"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "8 Days - Wuki Remix",
+      "url": "https://open.spotify.com/track/4lY3nqqbiBpK9LM59EWJTb"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -687,26 +667,6 @@
       "duration_ms": 160007,
       "name": "Hey Rudy (with The Roots)",
       "url": "https://open.spotify.com/track/04IzM8tyRnsjN6Em9LNBpR"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Forgiveness",
-        "url": "https://open.spotify.com/album/3m0A8oAU5cF1Z8YTxZa9B6"
-      },
-      "artists": [
-        {
-          "name": "Lbenek",
-          "url": "https://open.spotify.com/artist/2OHM1Seez80AdwZRfn71al"
-        },
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Forgiveness",
-      "url": "https://open.spotify.com/track/3ajiXtqsr09OimqeUxwfzM"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Ziproom",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Charlu",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -82,7 +82,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 138730,
       "name": "1 2 3 (feat. ratiff)",
       "url": "https://open.spotify.com/track/1dZXLgKghGnIyGHMuoZczP"
@@ -188,6 +188,28 @@
       "duration_ms": 143882,
       "name": "182",
       "url": "https://open.spotify.com/track/3ldNfg1ZlOuQa0Qxq8veHK"
+    },
+    {
+      "album": {
+        "name": "1983 (Remix)",
+        "url": "https://open.spotify.com/album/3fekclYq1I7ZJ7afUUeTYy"
+      },
+      "artists": [
+        {
+          "name": "NFN TEFER",
+          "url": "https://open.spotify.com/artist/1NSFnnA4MXBixX18Bpacqg"
+        },
+        {
+          "name": "masaya",
+          "url": "https://open.spotify.com/artist/0Lz0k07KkiYpfzt46Hy69t"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142408,
+      "name": "1983 - Remix",
+      "url": "https://open.spotify.com/track/4meJlE98KPiocYKoU4sBJh"
     },
     {
       "album": {
@@ -884,7 +906,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 149572,
       "name": "ALL DAYS",
       "url": "https://open.spotify.com/track/6EaYcsHsDDuvicUeAt4kBd"
@@ -1116,6 +1138,24 @@
       "duration_ms": 145846,
       "name": "aye aye aye",
       "url": "https://open.spotify.com/track/2RzPZJ71gGaEAn7SZIym1x"
+    },
+    {
+      "album": {
+        "name": "A\u30fbW\u30fbA\u30fbZ\u30fbA\u30fbR\u30fbU\u30fbK\u30fbA\u30fbS",
+        "url": "https://open.spotify.com/album/5siJ8rfSflepJI5fsFUOsp"
+      },
+      "artists": [
+        {
+          "name": "AWAZARUKAS",
+          "url": "https://open.spotify.com/artist/1qJPbVrtETyKkBDFxxqpcw"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218507,
+      "name": "A\u30fbW\u30fbA\u30fbZ\u30fbA\u30fbR\u30fbU\u30fbK\u30fbA\u30fbS",
+      "url": "https://open.spotify.com/track/5ekfLPgaebGcnyFgQKNZFh"
     },
     {
       "album": {
@@ -2052,7 +2092,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 192000,
       "name": "Bullet Bill (feat. BANDOH, Ochna, Sicke Tamaki & cafard)",
       "url": "https://open.spotify.com/track/6LzvKiMSvaWVBI2IEDIsty"
@@ -4921,6 +4961,28 @@
     },
     {
       "album": {
+        "name": "Gimme Mo (feat. EASTA)",
+        "url": "https://open.spotify.com/album/1CwuLfj0zwxCfL8QnRHtpR"
+      },
+      "artists": [
+        {
+          "name": "GINJI MIKAZUKI",
+          "url": "https://open.spotify.com/artist/6J07tTWInNyy1ZzWcr8roz"
+        },
+        {
+          "name": "EASTA",
+          "url": "https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198445,
+      "name": "Gimme Mo (feat. EASTA)",
+      "url": "https://open.spotify.com/track/79z4VoQWlAtMYLn1o0fbfi"
+    },
+    {
+      "album": {
         "name": "GINGINDEGO",
         "url": "https://open.spotify.com/album/4FTSOFSOAAkWnsy4Dx5q94"
       },
@@ -5568,7 +5630,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 208941,
       "name": "HIDE AND SEEK",
       "url": "https://open.spotify.com/track/3RAMkFLUDH3ULwMHoWRxsw"
@@ -5802,7 +5864,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 174333,
       "name": "I came up 2",
       "url": "https://open.spotify.com/track/6nqrYfXM9MqYiQiRKxxZKn"
@@ -7207,6 +7269,28 @@
     },
     {
       "album": {
+        "name": "Silent Anarchy",
+        "url": "https://open.spotify.com/album/3BLJpXuXO63qMXgguZZzDT"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Rotten",
+          "url": "https://open.spotify.com/artist/2ic96irBUlmkXEJc3GCCoE"
+        },
+        {
+          "name": "KUROMAKU",
+          "url": "https://open.spotify.com/artist/6C2U2QtF4rll9QqZJKKb2c"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148645,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/1duUW2TUHxBjr3iKZgoW7L"
+    },
+    {
+      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/5JhXXHnuAUFdKJteUCNQCk"
       },
@@ -7645,6 +7729,36 @@
     },
     {
       "album": {
+        "name": "MANGO (feat. \u30ca\u30b4\u30d2\u30d3\u30ad & Tete) [Remix]",
+        "url": "https://open.spotify.com/album/2wPIv4Me81Y7qyrklBnx4x"
+      },
+      "artists": [
+        {
+          "name": "bby_mell0w",
+          "url": "https://open.spotify.com/artist/2fV7hnh4NVqIOwfDnLUE2j"
+        },
+        {
+          "name": "\u30ca\u30b4\u30d2\u30d3\u30ad",
+          "url": "https://open.spotify.com/artist/1DcXNdNSvC91r27VmuycxX"
+        },
+        {
+          "name": "Tete",
+          "url": "https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw"
+        },
+        {
+          "name": "Tmk",
+          "url": "https://open.spotify.com/artist/0CCjgcPoRAWTlfat9Oyiez"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192857,
+      "name": "MANGO - Remix",
+      "url": "https://open.spotify.com/track/0El0f2QEiuK55ShBzXbv47"
+    },
+    {
+      "album": {
         "name": "SCRAP",
         "url": "https://open.spotify.com/album/2RwjAlkI4DCQYd1a1R1vuh"
       },
@@ -7856,6 +7970,24 @@
       "duration_ms": 168965,
       "name": "MOOD",
       "url": "https://open.spotify.com/track/7441JF50KgvQtA3RBjesDd"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/2mazcGoo3AHuIKugiV3Q3V"
+      },
+      "artists": [
+        {
+          "name": "Charlu",
+          "url": "https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126335,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0WssiQ4l0tiVkeWslWYt1C"
     },
     {
       "album": {
@@ -8682,7 +8814,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 157951,
       "name": "nonfiction (feat. Yvng xan)",
       "url": "https://open.spotify.com/track/5yr4AGgoQCpuJggiZ5vllq"
@@ -9334,7 +9466,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 243778,
       "name": "PAROPARO G (feat. \u93ae\u5ea7DOPENESS & \u7530\u6211\u6d41)",
       "url": "https://open.spotify.com/track/5Ki6GiDDuFvAjvsyferQjO"
@@ -12065,6 +12197,24 @@
     },
     {
       "album": {
+        "name": "This the TJ flow",
+        "url": "https://open.spotify.com/album/4C2NBVo4SVxMoIMwoB93oU"
+      },
+      "artists": [
+        {
+          "name": "tip jam",
+          "url": "https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119104,
+      "name": "This the TJ flow",
+      "url": "https://open.spotify.com/track/6c7TybiPxkvoJ2TnQ2PAZC"
+    },
+    {
+      "album": {
         "name": "Thrill Life",
         "url": "https://open.spotify.com/album/572Wvz67HYMs3VVOSlxnbu"
       },
@@ -13034,6 +13184,28 @@
       "duration_ms": 174384,
       "name": "Xchain",
       "url": "https://open.spotify.com/track/6BNrTHvibxIU6rbx3mypMJ"
+    },
+    {
+      "album": {
+        "name": "yabebe (feat. sitissy luvit)",
+        "url": "https://open.spotify.com/album/0AmpP7KiOuy0U3ro3w1SGw"
+      },
+      "artists": [
+        {
+          "name": "4jieen",
+          "url": "https://open.spotify.com/artist/7J2NF2T4booOaqIvMQrXBQ"
+        },
+        {
+          "name": "Sitissy luvit",
+          "url": "https://open.spotify.com/artist/7aYDI4vH01zznjy69ze9X5"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117492,
+      "name": "yabebe (feat. sitissy luvit)",
+      "url": "https://open.spotify.com/track/0Lbb4aGRa2tqxcYY4S2Z2u"
     },
     {
       "album": {
@@ -14292,7 +14464,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 146285,
       "name": "\u66fc\u9640\u7f85",
       "url": "https://open.spotify.com/track/5GwfhLMLnux8LPao0FXfA6"

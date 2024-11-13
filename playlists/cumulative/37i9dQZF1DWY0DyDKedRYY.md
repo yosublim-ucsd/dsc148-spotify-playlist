@@ -4,7 +4,7 @@
 
 > The most exciting new music on our radar, featuring Leon Thomas
 
-881 songs - 1 day 21 hr 41 min
+882 songs - 1 day 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Antes de Ti](https://open.spotify.com/track/0uzZEwZRambYj8Ar6RW3N1) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Antes de Ti](https://open.spotify.com/album/3xRcnSvQXy2zpTdmcJwKf5) | 3:34 | 2024-11-01 |  |
 | [Anxious Mind](https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 3:27 | 2022-11-14 | 2023-01-05 |
 | [Anymore](https://open.spotify.com/track/0UYbhQk9tUzDeqjcsfDFRF) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Anymore](https://open.spotify.com/album/78Q3dFiGFA9wZwpm9OSocq) | 2:30 | 2022-09-06 | 2022-11-15 |
+| [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 | 2024-11-12 |  |
 | [Archon](https://open.spotify.com/track/6fMWYAVmr6SVyt6vsxetYF) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Archon](https://open.spotify.com/album/28f8Dn5kYQQKmUoJx74V0Y) | 2:56 | 2021-12-01 | 2022-04-09 |
 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-03-31 | 2023-05-09 |
 | [Arroz Con Leche](https://open.spotify.com/track/0KOLLA1pqLBYFvWy1qfHS1) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [Arroz Con Leche](https://open.spotify.com/album/5ofEPdxEML57Lnxcr1t5Yn) | 2:35 | 2022-04-08 | 2022-05-18 |

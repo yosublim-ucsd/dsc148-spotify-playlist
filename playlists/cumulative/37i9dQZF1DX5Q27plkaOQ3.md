@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: INFEKT
 
-818 songs - 1 day 21 hr 25 min
+819 songs - 1 day 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [ARRIVAL](https://open.spotify.com/track/4yYtaejsDLVlgd4DOAN6xE) | [FREAKY](https://open.spotify.com/artist/6sYyA68IIlFTfDlHzDFlGT) | [ALIVE](https://open.spotify.com/album/6y0Um8E6y3xOcDhC4Wprta) | 3:55 | 2024-03-22 | 2024-05-25 |
 | [ARRIVAL](https://open.spotify.com/track/2acLjCqEIMP9hcF5fPC3JM) | [INHUMAN](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe), [Hellscythe](https://open.spotify.com/artist/4jpGvJwGR0IeUuTYUtt6oK) | [ARRIVAL](https://open.spotify.com/album/6KGmL8TE79z5Gl4yYKXWjg) | 6:01 | 2023-09-22 | 2023-11-13 |
 | [ARTIFICIAL DUBSTEP](https://open.spotify.com/track/2iV6jpVuKh8PS3wWQ5xLIi) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [ARTIFICIAL DUBSTEP](https://open.spotify.com/album/2VRaD4Lr0lQKhinkSW2buX) | 2:40 | 2023-09-22 | 2024-01-14 |
+| [Ascend](https://open.spotify.com/track/4sQtIAaCMlgZpVoSF9mwVJ) | [Chassi](https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky) | [Ascend](https://open.spotify.com/album/7j5MTL24nzSFwoMuXyeTjF) | 4:09 | 2024-11-08 |  |
 | [ASCENSION RITE](https://open.spotify.com/track/0ko8SLwJgaWkhXmFZzGYXI) | [MARAUDA](https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4) | [ASCENSION RITE](https://open.spotify.com/album/6oKG31pUZ6XgLrvtspQUCf) | 2:58 | 2022-02-04 | 2022-03-12 |
 | [Asteroid](https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Asteroid](https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf) | 4:03 | 2023-09-15 | 2024-10-05 |
 | [Astro](https://open.spotify.com/track/7LNjCa0bjeODcWYzFo6Bdx) | [Yyvng](https://open.spotify.com/artist/4b5QKPBruPFrb84daWolGE), [Bellorum](https://open.spotify.com/artist/1Ylv9zH9EjyMQvIAah6nOh) | [Astro](https://open.spotify.com/album/7fPegLkUOqVHIMGcFMMYWg) | 2:46 | 2022-05-06 | 2022-07-24 |
@@ -626,7 +627,7 @@
 | [Secrecy](https://open.spotify.com/track/0BWUe6CyAcJBZMlM0I18gF) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [SECRECY EP](https://open.spotify.com/album/6nDX5W0XTS1KBbpVLtOpA8) | 3:07 | 2022-07-29 | 2023-10-04 |
 | [SEE YOU DROP](https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [SEE YOU DROP](https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz) | 2:37 | 2024-03-01 |  |
 | [Selecta](https://open.spotify.com/track/0ZVJQ6cRV4N5FaRpeS6f3H) | [MUST DIE!](https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb) | [VAMPIRE WEAPON: MIDNIGHT](https://open.spotify.com/album/0RgGfU50FirKB8Du60MTA1) | 3:20 | 2024-11-08 |  |
-| [SENSATION](https://open.spotify.com/track/62aa8Kzjpu51dmKCJiwP8I) | [Drinkurwater](https://open.spotify.com/artist/4P4PUC5CstzTajr5dhwQZk) | [SENSATION](https://open.spotify.com/album/73ld8UKbwhBZraFB4uMWWL) | 3:38 | 2024-08-02 |  |
+| [SENSATION](https://open.spotify.com/track/62aa8Kzjpu51dmKCJiwP8I) | [Drinkurwater](https://open.spotify.com/artist/4P4PUC5CstzTajr5dhwQZk) | [SENSATION](https://open.spotify.com/album/73ld8UKbwhBZraFB4uMWWL) | 3:38 | 2024-08-02 | 2024-11-13 |
 | [Senses](https://open.spotify.com/track/5GhdLDTh0BslJx45SmXtWx) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [Stryer](https://open.spotify.com/artist/0bF1Nk4mVQlhDlvXq5P0ac), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Senses](https://open.spotify.com/album/528AOUAXpxheUivis06m99) | 2:52 | 2023-08-04 | 2023-10-26 |
 | [Set Fire](https://open.spotify.com/track/1x9txwXoNMai6cJsldwF8A) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Tori Levett](https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL) | [Set Fire](https://open.spotify.com/album/2Rjb2p6LBWIeb0QyHnOwVE) | 3:53 | 2023-06-09 | 2023-08-03 |
 | [Shadow](https://open.spotify.com/track/4mRgaiyw6w8MBgkUR6qcMX) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Shadow](https://open.spotify.com/album/2TibeO75vfvBCZcALcoAqp) | 4:20 | 2021-12-17 | 2022-03-05 |

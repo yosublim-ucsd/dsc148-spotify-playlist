@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-907 songs - 1 day 14 hr 47 min
+908 songs - 1 day 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Gratitude](https://open.spotify.com/track/05RikarvGDzw4HktIAxxKR) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Gratitude](https://open.spotify.com/album/2gZdEJzgzP0PYSso7gILsX) | 2:13 | 2021-12-07 | 2023-01-27 |
 | [Gravitat](https://open.spotify.com/track/3pYRI1DeHnAu5MDsQxdR1U) | [Rudhek Caren](https://open.spotify.com/artist/1MGdzDdzcoWcMmC7MvjqME) | [Gravitat](https://open.spotify.com/album/5d9ZEYv11fZMtrWx0pJuqd) | 2:30 | 2022-03-16 | 2023-05-10 |
 | [Gros Morne](https://open.spotify.com/track/75LbLUHpRWfMLsBgVohKdp) | [Donnie Harman](https://open.spotify.com/artist/6SGJd9IXJySRiU9CR8Bdbe) | [Gros Morne](https://open.spotify.com/album/2VEZGCioiKV64KSQx1VqeC) | 2:24 | 2021-12-07 | 2022-03-02 |
+| [Growing Free](https://open.spotify.com/track/7Ey06jUeAOE6BiJysv5LFF) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Growing Free](https://open.spotify.com/album/7ooY4plAlO9sMSeuTiEQ0k) | 2:18 | 2024-11-12 |  |
 | [Halcyon](https://open.spotify.com/track/2PEiFFvNyMykLb2wxnvBfv) | [Laila Lawson](https://open.spotify.com/artist/7FkVtLkKm15RmW66X3x23z) | [Halcyon & Safe Havens](https://open.spotify.com/album/0nl8ijx6L3t2QVaA05GLCp) | 3:02 | 2022-02-01 | 2024-04-10 |
 | [Halston](https://open.spotify.com/track/7AbVRoHrQB3JMHC8J1P3Hi) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Halston](https://open.spotify.com/album/6XflbsoG89kmcH3on1bu9R) | 5:07 | 2021-12-07 | 2022-01-05 |
 | [Hands and Feet](https://open.spotify.com/track/3SwnQKMO2D0jOUKxaqIHLw) | [Samuel Félix](https://open.spotify.com/artist/4QCrQhj1liuos6rjK3hUBr) | [Hands and Feet](https://open.spotify.com/album/3VLtmQVO6V5bkx17xTKkvO) | 1:54 | 2022-03-16 | 2023-07-26 |

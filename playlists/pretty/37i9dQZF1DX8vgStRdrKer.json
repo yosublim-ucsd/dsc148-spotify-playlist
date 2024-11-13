@@ -1,6 +1,6 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB?si=DX1AnrFkTBGcGqexVR3FhQ>KobbySalm</a>",
-  "num_followers": 11446,
+  "num_followers": 11451,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
@@ -65,22 +65,6 @@
       "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
     },
     {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Yeshua (Worship Rendition)",
-        "url": "https://open.spotify.com/album/0KTOUGmGuoO81AVc4ro4EO"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 216962,
-      "name": "Yeshua (Worship Rendition)",
-      "url": "https://open.spotify.com/track/6KxgjgVDbiAnRB2SZhcu0h"
-    },
-    {
       "added_at": "2024-08-16 00:01:00",
       "album": {
         "name": "Rahama (Live)",
@@ -95,6 +79,22 @@
       "duration_ms": 596544,
       "name": "Rahama (Live)",
       "url": "https://open.spotify.com/track/4QYJFByYxJpmmpKknW1651"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Yeshua (Worship Rendition)",
+        "url": "https://open.spotify.com/album/0KTOUGmGuoO81AVc4ro4EO"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 216962,
+      "name": "Yeshua (Worship Rendition)",
+      "url": "https://open.spotify.com/track/6KxgjgVDbiAnRB2SZhcu0h"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -221,22 +221,6 @@
       "url": "https://open.spotify.com/track/3WQqOfbWCiVSbJebeqdvxx"
     },
     {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "Aileyipada",
-        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 395555,
-      "name": "Aileyipada",
-      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
-    },
-    {
       "added_at": "2024-05-10 00:01:00",
       "album": {
         "name": "In The Room (feat. Annatoria) [Afro Beat Version]",
@@ -313,6 +297,22 @@
       "url": "https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO"
     },
     {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Aileyipada",
+        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 395555,
+      "name": "Aileyipada",
+      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
+    },
+    {
       "added_at": "2024-08-16 00:01:00",
       "album": {
         "name": "Evidence",
@@ -373,22 +373,6 @@
       "url": "https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr"
     },
     {
-      "added_at": "2024-10-25 00:01:00",
-      "album": {
-        "name": "You Are Big",
-        "url": "https://open.spotify.com/album/7IuHbchUxKM8jXuwV9D3sX"
-      },
-      "artists": [
-        {
-          "name": "Joshua Adedeji",
-          "url": "https://open.spotify.com/artist/31BZDZpornRbe3joXJ35vh"
-        }
-      ],
-      "duration_ms": 380500,
-      "name": "You Are Big",
-      "url": "https://open.spotify.com/track/67b6GI1kkVALLH5O5IWQb7"
-    },
-    {
       "added_at": "2024-02-02 00:01:00",
       "album": {
         "name": "Emperor of the Universe",
@@ -407,6 +391,22 @@
       "duration_ms": 965565,
       "name": "Emperor of the Universe",
       "url": "https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo"
+    },
+    {
+      "added_at": "2024-10-25 00:01:00",
+      "album": {
+        "name": "You Are Big",
+        "url": "https://open.spotify.com/album/7IuHbchUxKM8jXuwV9D3sX"
+      },
+      "artists": [
+        {
+          "name": "Joshua Adedeji",
+          "url": "https://open.spotify.com/artist/31BZDZpornRbe3joXJ35vh"
+        }
+      ],
+      "duration_ms": 380500,
+      "name": "You Are Big",
+      "url": "https://open.spotify.com/track/67b6GI1kkVALLH5O5IWQb7"
     },
     {
       "added_at": "2024-08-30 00:01:00",
@@ -485,26 +485,6 @@
       "url": "https://open.spotify.com/track/43ZHlCWp1TAA1dyMxNh28L"
     },
     {
-      "added_at": "2024-04-26 00:01:00",
-      "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 170118,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
-    },
-    {
       "added_at": "2024-02-02 00:01:00",
       "album": {
         "name": "Amazing Grace",
@@ -523,6 +503,26 @@
       "duration_ms": 176822,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
+    },
+    {
+      "added_at": "2024-04-26 00:01:00",
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 170118,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
     },
     {
       "added_at": "2024-10-18 00:01:00",
@@ -725,6 +725,22 @@
       "url": "https://open.spotify.com/track/3lykT4QOj7vAKAnpuoTsux"
     },
     {
+      "added_at": "2024-10-25 00:01:00",
+      "album": {
+        "name": "God Is",
+        "url": "https://open.spotify.com/album/2k67eSgSx7uPEe4WeUKwkl"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        }
+      ],
+      "duration_ms": 185999,
+      "name": "God Is",
+      "url": "https://open.spotify.com/track/4QLiTL83ZMf4lt2qqgkOrO"
+    },
+    {
       "added_at": "2024-03-08 00:01:00",
       "album": {
         "name": "Jesus, Lamb Of God (Live)",
@@ -743,22 +759,6 @@
       "duration_ms": 520293,
       "name": "Jesus, Lamb Of God - Live",
       "url": "https://open.spotify.com/track/08nS6fLDRnrMH9k5JxT6hr"
-    },
-    {
-      "added_at": "2024-10-25 00:01:00",
-      "album": {
-        "name": "God Is",
-        "url": "https://open.spotify.com/album/2k67eSgSx7uPEe4WeUKwkl"
-      },
-      "artists": [
-        {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
-        }
-      ],
-      "duration_ms": 185999,
-      "name": "God Is",
-      "url": "https://open.spotify.com/track/4QLiTL83ZMf4lt2qqgkOrO"
     },
     {
       "added_at": "2024-01-05 00:01:00",
@@ -799,6 +799,26 @@
       "duration_ms": 160500,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/3moHocFcyX5Ek77GoG0532"
+    },
+    {
+      "added_at": "2024-11-01 00:01:00",
+      "album": {
+        "name": "Adoration Song (Radio Edit)",
+        "url": "https://open.spotify.com/album/014LujBDnTwzCxIgyIZ6nV"
+      },
+      "artists": [
+        {
+          "name": "Mark & Sarah Tillman",
+          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
+        },
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "duration_ms": 267933,
+      "name": "Adoration Song",
+      "url": "https://open.spotify.com/track/3vQjVnBVCwpiJg6mwNMwGT"
     },
     {
       "added_at": "2024-06-14 00:01:00",
@@ -893,26 +913,6 @@
       "url": "https://open.spotify.com/track/1cVEbVHKp5SiwwDKJOpbuZ"
     },
     {
-      "added_at": "2024-11-01 00:01:00",
-      "album": {
-        "name": "Adoration Song (Radio Edit)",
-        "url": "https://open.spotify.com/album/014LujBDnTwzCxIgyIZ6nV"
-      },
-      "artists": [
-        {
-          "name": "Mark & Sarah Tillman",
-          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
-        },
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        }
-      ],
-      "duration_ms": 267933,
-      "name": "Adoration Song",
-      "url": "https://open.spotify.com/track/3vQjVnBVCwpiJg6mwNMwGT"
-    },
-    {
       "added_at": "2024-01-12 00:01:00",
       "album": {
         "name": "Amaram Onyewem (Live)",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/7u1TRg7Si7fgKy9TDQ3cj7"
     },
     {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "iZono Zami",
-        "url": "https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b"
-      },
-      "artists": [
-        {
-          "name": "Nomcebo Zikode",
-          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
-        }
-      ],
-      "duration_ms": 319334,
-      "name": "iZono Zami",
-      "url": "https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp"
-    },
-    {
       "added_at": "2024-01-26 00:01:00",
       "album": {
         "name": "Blast (tongues)",
@@ -979,6 +963,22 @@
       "duration_ms": 204841,
       "name": "Blast - tongues",
       "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "iZono Zami",
+        "url": "https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b"
+      },
+      "artists": [
+        {
+          "name": "Nomcebo Zikode",
+          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
+        }
+      ],
+      "duration_ms": 319334,
+      "name": "iZono Zami",
+      "url": "https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp"
     },
     {
       "added_at": "2024-10-11 00:01:00",

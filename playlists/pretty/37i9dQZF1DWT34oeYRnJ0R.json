@@ -1,6 +1,6 @@
 {
   "description": "Just vibes. Cover: A.CHAL",
-  "num_followers": 666176,
+  "num_followers": 666163,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
@@ -70,9 +70,13 @@
         {
           "name": "Clarent",
           "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         }
       ],
-      "duration_ms": 171428,
+      "duration_ms": 240000,
       "name": "IA",
       "url": "https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo"
     },
@@ -887,6 +891,22 @@
     {
       "added_at": "2024-11-08 18:42:38",
       "album": {
+        "name": "KM 33",
+        "url": "https://open.spotify.com/album/2H4i0TPlQeyEU1eTNFRSI8"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        }
+      ],
+      "duration_ms": 120888,
+      "name": "RAPAPA",
+      "url": "https://open.spotify.com/track/79j3Cl3AEAEhXK9cjjfd02"
+    },
+    {
+      "added_at": "2024-11-08 18:42:38",
+      "album": {
         "name": "Nost\u00e1lgico",
         "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
       },
@@ -907,22 +927,6 @@
       "duration_ms": 209883,
       "name": "Nost\u00e1lgico",
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
-    },
-    {
-      "added_at": "2024-11-08 18:42:38",
-      "album": {
-        "name": "KM 33",
-        "url": "https://open.spotify.com/album/2H4i0TPlQeyEU1eTNFRSI8"
-      },
-      "artists": [
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        }
-      ],
-      "duration_ms": 120888,
-      "name": "RAPAPA",
-      "url": "https://open.spotify.com/track/79j3Cl3AEAEhXK9cjjfd02"
     },
     {
       "added_at": "2024-11-08 18:42:38",
@@ -1307,26 +1311,22 @@
     {
       "added_at": "2024-11-08 18:42:38",
       "album": {
-        "name": "Besitos BB 2.0",
-        "url": "https://open.spotify.com/album/7hgGSrkpHw7GzNdyUMZiN7"
+        "name": "CALOR",
+        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
       },
       "artists": [
         {
-          "name": "El Perla",
-          "url": "https://open.spotify.com/artist/18kNcg1LyApWH3qkXk1CCd"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         },
         {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 233693,
-      "name": "Besitos BB 2.0",
-      "url": "https://open.spotify.com/track/6A3siPf4AgV5jfZua1zHgZ"
+      "duration_ms": 200769,
+      "name": "CALOR",
+      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
     },
     {
       "added_at": "2024-11-08 18:42:38",
@@ -1351,22 +1351,26 @@
     {
       "added_at": "2024-11-08 18:42:38",
       "album": {
-        "name": "CALOR",
-        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
+        "name": "Besitos BB 2.0",
+        "url": "https://open.spotify.com/album/7hgGSrkpHw7GzNdyUMZiN7"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "El Perla",
+          "url": "https://open.spotify.com/artist/18kNcg1LyApWH3qkXk1CCd"
         },
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
         }
       ],
-      "duration_ms": 200769,
-      "name": "CALOR",
-      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
+      "duration_ms": 233693,
+      "name": "Besitos BB 2.0",
+      "url": "https://open.spotify.com/track/6A3siPf4AgV5jfZua1zHgZ"
     },
     {
       "added_at": "2024-11-08 18:42:38",
@@ -1651,26 +1655,6 @@
     {
       "added_at": "2024-11-08 18:42:38",
       "album": {
-        "name": "ESE VATO",
-        "url": "https://open.spotify.com/album/5ddyQMsjuCds4PrcOWf5RO"
-      },
-      "artists": [
-        {
-          "name": "DOMELIPA",
-          "url": "https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 228916,
-      "name": "ESE VATO",
-      "url": "https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO"
-    },
-    {
-      "added_at": "2024-11-08 18:42:38",
-      "album": {
         "name": "Se\u00f1orita (Remix)",
         "url": "https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT"
       },
@@ -1687,6 +1671,26 @@
       "duration_ms": 181591,
       "name": "Se\u00f1orita - Remix",
       "url": "https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH"
+    },
+    {
+      "added_at": "2024-11-08 18:42:38",
+      "album": {
+        "name": "ESE VATO",
+        "url": "https://open.spotify.com/album/5ddyQMsjuCds4PrcOWf5RO"
+      },
+      "artists": [
+        {
+          "name": "DOMELIPA",
+          "url": "https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 228916,
+      "name": "ESE VATO",
+      "url": "https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO"
     },
     {
       "added_at": "2024-11-08 18:42:38",
@@ -1727,22 +1731,18 @@
     {
       "added_at": "2024-11-08 18:42:38",
       "album": {
-        "name": "\u00c9XODO",
-        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+        "name": "CVRBON VRMOR",
+        "url": "https://open.spotify.com/album/4ZOlDViNpY9CrAXTNZMffm"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 200960,
-      "name": "PA NO PENSAR",
-      "url": "https://open.spotify.com/track/3HQztiNynPPCCuowUnKoVR"
+      "duration_ms": 171106,
+      "name": "CABLES CRUZADOS",
+      "url": "https://open.spotify.com/track/2gGSHUX54Bb9lkWoTkJQKs"
     },
     {
       "added_at": "2024-11-08 18:42:38",
@@ -1767,18 +1767,22 @@
     {
       "added_at": "2024-11-08 18:42:38",
       "album": {
-        "name": "CVRBON VRMOR",
-        "url": "https://open.spotify.com/album/4ZOlDViNpY9CrAXTNZMffm"
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         }
       ],
-      "duration_ms": 171106,
-      "name": "CABLES CRUZADOS",
-      "url": "https://open.spotify.com/track/2gGSHUX54Bb9lkWoTkJQKs"
+      "duration_ms": 200960,
+      "name": "PA NO PENSAR",
+      "url": "https://open.spotify.com/track/3HQztiNynPPCCuowUnKoVR"
     },
     {
       "added_at": "2024-11-08 18:42:38",
@@ -1879,26 +1883,6 @@
     {
       "added_at": "2024-11-08 18:42:38",
       "album": {
-        "name": "Gaga",
-        "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 188304,
-      "name": "Gaga",
-      "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
-    },
-    {
-      "added_at": "2024-11-08 18:42:38",
-      "album": {
         "name": "HAYABUSA",
         "url": "https://open.spotify.com/album/6HBOihZeCYtLVM3MiCt7QL"
       },
@@ -1943,6 +1927,26 @@
       "duration_ms": 189566,
       "name": "Sigues Con El - Remix",
       "url": "https://open.spotify.com/track/4Pu0a2TuHOYtI4CCE3HEXI"
+    },
+    {
+      "added_at": "2024-11-08 18:42:38",
+      "album": {
+        "name": "Gaga",
+        "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 188304,
+      "name": "Gaga",
+      "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
     }
   ],
   "unique_name": "Vibras",

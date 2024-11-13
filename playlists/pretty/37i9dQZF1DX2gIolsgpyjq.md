@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > Catch Becky and the Birds on the Fresh Finds stage at Dunya Fest on Saturday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,754 likes - 104 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,765 likes - 104 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

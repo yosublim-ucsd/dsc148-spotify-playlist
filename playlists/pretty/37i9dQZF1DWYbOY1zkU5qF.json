@@ -1,6 +1,6 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 180449,
+  "num_followers": 180537,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Robarte Un Beso",
-        "url": "https://open.spotify.com/album/0UvK1yW7NvyThMKcTxDc6L"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 173029,
-      "name": "Robarte Un Beso",
-      "url": "https://open.spotify.com/track/7zVxnTvFPi73poTc6oCC4l"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "M\u00e1tenme Porque Me Muero",
         "url": "https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ"
       },
@@ -591,18 +575,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Viral Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/31JdJ3MW0AF5NWmLECQwnU"
+        "name": "Robarte Un Beso",
+        "url": "https://open.spotify.com/album/0UvK1yW7NvyThMKcTxDc6L"
       },
       "artists": [
         {
-          "name": "Reggaeton Ac\u00fastico",
-          "url": "https://open.spotify.com/artist/2VG4iLloPFUXdzWZ9knh7c"
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Bailame",
-      "url": "https://open.spotify.com/track/2LCU2czGbhjboUOUjB9NUK"
+      "duration_ms": 173029,
+      "name": "Robarte Un Beso",
+      "url": "https://open.spotify.com/track/7zVxnTvFPi73poTc6oCC4l"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -623,6 +607,22 @@
       "duration_ms": 180094,
       "name": "\u00c9chame La Culpa",
       "url": "https://open.spotify.com/track/0qo4ywp67nbYaxI2hRBVts"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Viral Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/31JdJ3MW0AF5NWmLECQwnU"
+      },
+      "artists": [
+        {
+          "name": "Reggaeton Ac\u00fastico",
+          "url": "https://open.spotify.com/artist/2VG4iLloPFUXdzWZ9knh7c"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Bailame",
+      "url": "https://open.spotify.com/track/2LCU2czGbhjboUOUjB9NUK"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Nube Viajera",
-        "url": "https://open.spotify.com/album/4RgJgnhWLDN7bWCWxgcigD"
-      },
-      "artists": [
-        {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
-        }
-      ],
-      "duration_ms": 230730,
-      "name": "Nube Viajera",
-      "url": "https://open.spotify.com/track/3lpNkHGruZDaedfYv9ehLt"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Ahora Dice",
         "url": "https://open.spotify.com/album/2xB066cl8FPGnXxMQfB8JL"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 201000,
       "name": "Ahora Dice",
       "url": "https://open.spotify.com/track/08sswdOXk4nu7sYFIVU6f6"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Nube Viajera",
+        "url": "https://open.spotify.com/album/4RgJgnhWLDN7bWCWxgcigD"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 230730,
+      "name": "Nube Viajera",
+      "url": "https://open.spotify.com/track/3lpNkHGruZDaedfYv9ehLt"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/3mYIi2EtIUUVWsMlEUzrUb"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Luna",
-          "url": "https://open.spotify.com/artist/5haTMRhcwfF9yHRJGTMvbi"
-        }
-      ],
-      "duration_ms": 214838,
-      "name": "Dembow - Acoustic Version",
-      "url": "https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/1bJebMwImKlh4wNpHj9hHb"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 214425,
       "name": "Vete",
       "url": "https://open.spotify.com/track/1dyeQq5l5dxAcMPxFhE3pM"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/3mYIi2EtIUUVWsMlEUzrUb"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Luna",
+          "url": "https://open.spotify.com/artist/5haTMRhcwfF9yHRJGTMvbi"
+        }
+      ],
+      "duration_ms": 214838,
+      "name": "Dembow - Acoustic Version",
+      "url": "https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/1vR7aiG4xXlNGoVXxXoC41"
-      },
-      "artists": [
-        {
-          "name": "Ledes Diaz",
-          "url": "https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV"
-        }
-      ],
-      "duration_ms": 172839,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/2KUni5F9f3ERUIJk59Zg2S"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Amigos con derechos",
         "url": "https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 160237,
       "name": "Amigos con derechos",
       "url": "https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/1vR7aiG4xXlNGoVXxXoC41"
+      },
+      "artists": [
+        {
+          "name": "Ledes Diaz",
+          "url": "https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV"
+        }
+      ],
+      "duration_ms": 172839,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/2KUni5F9f3ERUIJk59Zg2S"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Ya no tiene novio",
+        "url": "https://open.spotify.com/album/5WB2xJxhg8ruc09drfG7y0"
+      },
+      "artists": [
+        {
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+        }
+      ],
+      "duration_ms": 108027,
+      "name": "Ya no tiene novio",
+      "url": "https://open.spotify.com/track/0h00BCiowVxRusovJAOTgY"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Asi Es La Vida",
         "url": "https://open.spotify.com/album/4EYa4M7e4FYqBqsJFwt3Vi"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 149647,
       "name": "Son\u0303e",
       "url": "https://open.spotify.com/track/35tKDCAmNFueq5KmvGkzRr"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Ya no tiene novio",
-        "url": "https://open.spotify.com/album/5WB2xJxhg8ruc09drfG7y0"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 108027,
-      "name": "Ya no tiene novio",
-      "url": "https://open.spotify.com/track/0h00BCiowVxRusovJAOTgY"
     }
   ],
   "unique_name": "Covers Ac\u00fasticos",

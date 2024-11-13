@@ -4,7 +4,7 @@
 
 > A happy place 🪩🪩
 
-471 songs - 1 day 5 hr 0 min
+472 songs - 1 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A&S](https://open.spotify.com/track/627wB1SaZ0HHinIiubj3UE) | [Ridney](https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD), [Roisto](https://open.spotify.com/artist/0zkoIIaqJT7WP0rly4rOMk) | [A&S](https://open.spotify.com/album/6axKcYTdVeXG0eRyZOHn2p) | 3:20 | 2024-05-10 | 2024-07-13 |
 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 | 2023-02-06 |  |
 | [Addicted \- Zerb Acid VIP](https://open.spotify.com/track/4iezPr4cPTjAbrcDLoQx4X) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [ADDICTED: REFRESHED](https://open.spotify.com/album/5WvdQ0rXunG7ZDLneivLio) | 3:09 | 2024-05-24 |  |
+| [After Five](https://open.spotify.com/track/4IQyORSJmEUrOFAdUvylW0) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [After Five](https://open.spotify.com/album/1mkM1tzlp0g7Ysicb8rFXe) | 3:36 | 2024-11-08 |  |
 | [Ain't No Stoppin Us Now](https://open.spotify.com/track/107W8c21mrB1oDCnqKEs3v) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd) | [Ain't No Stopping Us Now](https://open.spotify.com/album/3qS3S3PPAaJflTW3jTdbzK) | 4:08 | 2022-06-09 | 2022-08-06 |
 | [AIN'T NOBODY](https://open.spotify.com/track/5WikCHR54A4ZJBkUOwgiMm) | [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts), [Romina Johnson](https://open.spotify.com/artist/1NmCD7ZZqEs7Dfp6fSZkZ0) | [AIN'T NOBODY](https://open.spotify.com/album/6Qkpqtz88DeOTgxdYwRQH2) | 4:04 | 2024-06-28 |  |
 | [All 4 Love \(feat\. Tasty Lopez\)](https://open.spotify.com/track/0ib3Pdvgp2ZDk6nO1DC3sJ) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Rene Amesz](https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m), [Tasty Lopez](https://open.spotify.com/artist/6bGjAU1yRMvrVDQsN9Awc0) | [All 4 Love \(feat\. Tasty Lopez\)](https://open.spotify.com/album/5nG14C8xNuwcroL5obo4dq) | 3:25 | 2022-01-14 | 2022-12-17 |
@@ -185,7 +186,7 @@
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2024-01-12 | 2024-06-22 |
 | [House Music \- Edit](https://open.spotify.com/track/1doxuytmXDBTUdYcIT0gCp) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Yellow Productions : A French Touch by Bob Sinclar & Dj Yellow Vol\. 2](https://open.spotify.com/album/1RkCmF3rQDxfFe8h97OBSR) | 4:37 | 2024-09-06 |  |
 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 | 2024-04-19 |  |
-| [Hustle](https://open.spotify.com/track/0AIVZBiAQJDGmYLfDF2UDe) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Hustle](https://open.spotify.com/album/4tSRDTghTctng45CrZ7bwx) | 2:20 | 2024-09-13 |  |
+| [Hustle](https://open.spotify.com/track/0AIVZBiAQJDGmYLfDF2UDe) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Hustle](https://open.spotify.com/album/4tSRDTghTctng45CrZ7bwx) | 2:20 | 2024-09-13 | 2024-11-13 |
 | [Hypnotizin'](https://open.spotify.com/track/0jP7OiUfXGp6MQQ4f3HrVY) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy) | [Hypnotizin'](https://open.spotify.com/album/3ABh1hwpRcQgvNsszVYxig) | 3:58 | 2024-08-30 |  |
 | [I Discover](https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb) | [Felix Da Housecat](https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI), [Chris Trucher](https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D) | [I Discover](https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO) | 2:35 | 2022-01-14 | 2024-07-13 |
 | [I DON'T MIND](https://open.spotify.com/track/15Wc7dSC7ILzNAENd6GNqN) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [I DON'T MIND](https://open.spotify.com/album/2chmCC4pZhBaPwsev516jz) | 2:58 | 2024-07-05 | 2024-08-29 |

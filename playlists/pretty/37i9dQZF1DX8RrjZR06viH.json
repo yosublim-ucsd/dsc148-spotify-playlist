@@ -471,22 +471,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Revolve",
-        "url": "https://open.spotify.com/album/5gl0GYihYgfulQPOEZMKEH"
-      },
-      "artists": [
-        {
-          "name": "Aden Foyer",
-          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
-        }
-      ],
-      "duration_ms": 209078,
-      "name": "Revolve",
-      "url": "https://open.spotify.com/track/4c4SBx9iL4E8qqxOCNBHLP"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "A Potion For Love",
         "url": "https://open.spotify.com/album/79kiDzdz5iv1aQ68x4PJA0"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 216426,
       "name": "A Potion For Love",
       "url": "https://open.spotify.com/track/5Xk6GwwLwQaklody4DslTD"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Revolve",
+        "url": "https://open.spotify.com/album/5gl0GYihYgfulQPOEZMKEH"
+      },
+      "artists": [
+        {
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+        }
+      ],
+      "duration_ms": 209078,
+      "name": "Revolve",
+      "url": "https://open.spotify.com/track/4c4SBx9iL4E8qqxOCNBHLP"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Tjue \u00e5r",
+        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 176808,
+      "name": "F\u00f8r han for",
+      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Kor e du?",
         "url": "https://open.spotify.com/album/6vtM7D6DXolebuT8Jk5qHf"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 219672,
       "name": "Hellig",
       "url": "https://open.spotify.com/track/6M51NPgawQYMfPM03kuYQt"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Tjue \u00e5r",
-        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 176808,
-      "name": "F\u00f8r han for",
-      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Finaste s\u00e5 finns",
-        "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 190405,
-      "name": "Finaste s\u00e5 finns",
-      "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Summer Rain",
         "url": "https://open.spotify.com/album/2E1MUrxQRirP7wmVTzE82B"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 162930,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/3LVadaj97lffSz5nUD9mWC"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Finaste s\u00e5 finns",
+        "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 190405,
+      "name": "Finaste s\u00e5 finns",
+      "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Hollywood Hills",
-        "url": "https://open.spotify.com/album/6NJMVeFDvI0egKuknUyRWH"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 157791,
-      "name": "Hollywood Hills",
-      "url": "https://open.spotify.com/track/5jeRRvj8X1DWDrlCG23EI2"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "G\u00e5 bli lykkelig, du",
         "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 187281,
       "name": "G\u00e5 bli lykkelig, du",
       "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Hollywood Hills",
+        "url": "https://open.spotify.com/album/6NJMVeFDvI0egKuknUyRWH"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 157791,
+      "name": "Hollywood Hills",
+      "url": "https://open.spotify.com/track/5jeRRvj8X1DWDrlCG23EI2"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Thunder in my heart (music from the series)",
-        "url": "https://open.spotify.com/album/2VqDK3TlI9CJhV1nYurP7B"
-      },
-      "artists": [
-        {
-          "name": "Highasakite",
-          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
-        }
-      ],
-      "duration_ms": 169241,
-      "name": "Thunder in my heart (music from the series)",
-      "url": "https://open.spotify.com/track/3uv4Ypn1ZTT8Su05A8q0l6"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Happy Tears",
         "url": "https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "25 bare fem \u00e5r til",
-        "url": "https://open.spotify.com/album/5AJRaypaewaQL04QgPkz1L"
+        "name": "Thunder in my heart (music from the series)",
+        "url": "https://open.spotify.com/album/2VqDK3TlI9CJhV1nYurP7B"
       },
       "artists": [
         {
-          "name": "Emelie Hollow",
-          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
         }
       ],
-      "duration_ms": 165882,
-      "name": "25 bare fem \u00e5r til",
-      "url": "https://open.spotify.com/track/75gRDppqFWCiMLO7nKqxYL"
+      "duration_ms": 169241,
+      "name": "Thunder in my heart (music from the series)",
+      "url": "https://open.spotify.com/track/3uv4Ypn1ZTT8Su05A8q0l6"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1063,38 +1047,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Sommerfl\u00f8rt",
-        "url": "https://open.spotify.com/album/7gJqpQ14ZDjTGyGzqRqFxC"
+        "name": "25 bare fem \u00e5r til",
+        "url": "https://open.spotify.com/album/5AJRaypaewaQL04QgPkz1L"
       },
       "artists": [
         {
-          "name": "Isah",
-          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
-        },
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
         }
       ],
-      "duration_ms": 161750,
-      "name": "Sommerfl\u00f8rt",
-      "url": "https://open.spotify.com/track/7ELUUCWIHlyWIPlO2u1WT8"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "D\u00e5rlig id\u00e9",
-        "url": "https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx"
-      },
-      "artists": [
-        {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
-        }
-      ],
-      "duration_ms": 132616,
-      "name": "D\u00e5rlig id\u00e9",
-      "url": "https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk"
+      "duration_ms": 165882,
+      "name": "25 bare fem \u00e5r til",
+      "url": "https://open.spotify.com/track/75gRDppqFWCiMLO7nKqxYL"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1115,6 +1079,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "D\u00e5rlig id\u00e9",
+        "url": "https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "duration_ms": 132616,
+      "name": "D\u00e5rlig id\u00e9",
+      "url": "https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Hvalfangerbyen",
         "url": "https://open.spotify.com/album/6M2nSOHoe58dDU6dGluvWK"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 200531,
       "name": "Hvalfangerbyen",
       "url": "https://open.spotify.com/track/1gWzPGtQeTDbaA1ee8e1Ji"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Sommerfl\u00f8rt",
+        "url": "https://open.spotify.com/album/7gJqpQ14ZDjTGyGzqRqFxC"
+      },
+      "artists": [
+        {
+          "name": "Isah",
+          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
+        },
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 161750,
+      "name": "Sommerfl\u00f8rt",
+      "url": "https://open.spotify.com/track/7ELUUCWIHlyWIPlO2u1WT8"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Om hundre \u00e5r",
-        "url": "https://open.spotify.com/album/4Q7zV0oamgMerg3QsWhmJ9"
+        "name": "Marilyn Monroe",
+        "url": "https://open.spotify.com/album/1yKRXICOj4bFCRK75e8DDw"
       },
       "artists": [
         {
-          "name": "Ulrikke",
-          "url": "https://open.spotify.com/artist/5h9tiTx6BP5l5ZCrI7cUYh"
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Om hundre \u00e5r",
-      "url": "https://open.spotify.com/track/0fQ46jJDD5pjok8iX7XuCX"
+      "duration_ms": 174014,
+      "name": "Marilyn Monroe",
+      "url": "https://open.spotify.com/track/0LTzekaSg1V34NHCDhITP2"
     }
   ],
   "unique_name": "H\u00f8st i lufta",

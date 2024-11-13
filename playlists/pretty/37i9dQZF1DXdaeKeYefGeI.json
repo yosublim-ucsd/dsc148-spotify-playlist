@@ -1,28 +1,44 @@
 {
-  "description": "Wat kan het Nederlands toch mooi zijn. Cover: Ernst Jansz",
-  "num_followers": 29185,
+  "description": "Wat kan het Nederlands toch mooi zijn. Cover: Wende",
+  "num_followers": 29201,
   "original_name": "Mooi Nederlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy1GcAAAAABr53EhV1Q43BRCMuQyE2wW",
+  "snapshot_id": "ZzMWuwAAAABWv0hooj3t+CPvvDYZ5NQk",
   "tracks": [
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Er Is Een Lied Geschreven",
-        "url": "https://open.spotify.com/album/1MsOrf7YjeIIFLfbUThuWf"
+        "name": "Vrijplaats",
+        "url": "https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq"
       },
       "artists": [
         {
-          "name": "Ernst Jansz",
-          "url": "https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92"
+          "name": "Wende",
+          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
         }
       ],
-      "duration_ms": 187803,
-      "name": "Er Is Een Lied Geschreven",
-      "url": "https://open.spotify.com/track/2haBhftcHLtjso0v2ZhTgy"
+      "duration_ms": 233579,
+      "name": "Het Is Genoeg",
+      "url": "https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Eigenlijk",
+        "url": "https://open.spotify.com/album/5NFhfDJdvvY2F1OyF6HYNl"
+      },
+      "artists": [
+        {
+          "name": "Geejee",
+          "url": "https://open.spotify.com/artist/2jysfxpRRcfGOxuhSFV5CH"
+        }
+      ],
+      "duration_ms": 183141,
+      "name": "Vraag",
+      "url": "https://open.spotify.com/track/2sE1jPiettUbErPUZZCLgI"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -59,22 +75,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Eigenlijk",
-        "url": "https://open.spotify.com/album/5NFhfDJdvvY2F1OyF6HYNl"
-      },
-      "artists": [
-        {
-          "name": "Geejee",
-          "url": "https://open.spotify.com/artist/2jysfxpRRcfGOxuhSFV5CH"
-        }
-      ],
-      "duration_ms": 183141,
-      "name": "Vraag",
-      "url": "https://open.spotify.com/track/2sE1jPiettUbErPUZZCLgI"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Vaderdag (deel 2)",
         "url": "https://open.spotify.com/album/3SA3Wh7wmIS8K3xUtzVIUD"
       },
@@ -87,6 +87,22 @@
       "duration_ms": 198329,
       "name": "Vaderdag (deel 2)",
       "url": "https://open.spotify.com/track/34ihQUWfBW2pI0fVruWhkF"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Er Is Een Lied Geschreven",
+        "url": "https://open.spotify.com/album/1MsOrf7YjeIIFLfbUThuWf"
+      },
+      "artists": [
+        {
+          "name": "Ernst Jansz",
+          "url": "https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92"
+        }
+      ],
+      "duration_ms": 187803,
+      "name": "Er Is Een Lied Geschreven",
+      "url": "https://open.spotify.com/track/2haBhftcHLtjso0v2ZhTgy"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -123,22 +139,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Ik Was Amper 16 Jaar",
-        "url": "https://open.spotify.com/album/0v6neXuDhCvbs0OQmABhvA"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 van Duin",
-          "url": "https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF"
-        }
-      ],
-      "duration_ms": 198273,
-      "name": "Ik Was Amper 16 Jaar",
-      "url": "https://open.spotify.com/track/11COH0WOgKJiFQBmJiqTU4"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Boudewijn De Groot",
         "url": "https://open.spotify.com/album/6RWqHflqY4Y5AFmSfvVOiG"
       },
@@ -151,6 +151,22 @@
       "duration_ms": 179293,
       "name": "Het Geluid Van Stilte",
       "url": "https://open.spotify.com/track/4Gc4IS0KIKC64MYOZqkL9V"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Ik Was Amper 16 Jaar",
+        "url": "https://open.spotify.com/album/0v6neXuDhCvbs0OQmABhvA"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 van Duin",
+          "url": "https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF"
+        }
+      ],
+      "duration_ms": 198273,
+      "name": "Ik Was Amper 16 Jaar",
+      "url": "https://open.spotify.com/track/11COH0WOgKJiFQBmJiqTU4"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -215,22 +231,6 @@
       "duration_ms": 283361,
       "name": "Liefde Van Later",
       "url": "https://open.spotify.com/track/2x7ltK4hyYsRUALOqlKFk7"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Vrijplaats",
-        "url": "https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq"
-      },
-      "artists": [
-        {
-          "name": "Wende",
-          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
-        }
-      ],
-      "duration_ms": 233579,
-      "name": "Het Is Genoeg",
-      "url": "https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl"
     },
     {
       "added_at": "2024-11-07 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Peach Luffe
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,651 likes - 66 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,666 likes - 66 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

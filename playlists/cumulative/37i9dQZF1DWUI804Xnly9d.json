@@ -1808,18 +1808,6 @@
         {
           "name": "Taba Chake",
           "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
-        },
-        {
-          "name": "Sasha Alahm",
-          "url": "https://open.spotify.com/artist/4mMEwLhk5jZcK54yo3dCsK"
-        },
-        {
-          "name": "Dibakar Basumatary",
-          "url": "https://open.spotify.com/artist/0ikzExyz0FYevjszpRGOYg"
-        },
-        {
-          "name": "Dr. Tamachi Marina Taba",
-          "url": "https://open.spotify.com/artist/03m94pDeggOmctdZfxBpDw"
         }
       ],
       "date_added": "2024-11-11",
@@ -3037,6 +3025,32 @@
     },
     {
       "album": {
+        "name": "Ishq Ho Jaane Do",
+        "url": "https://open.spotify.com/album/6BjedZFO41pDpGSVou0T3w"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "TUSHAR JOSHI",
+          "url": "https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH"
+        },
+        {
+          "name": "Sagnik Kolay",
+          "url": "https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191371,
+      "name": "Ishq Ho Jaane Do",
+      "url": "https://open.spotify.com/track/4oDOTGCw3zyhoOjUK0V9q5"
+    },
+    {
+      "album": {
         "name": "Ishq Ho Jayega (Unplugged)",
         "url": "https://open.spotify.com/album/6KZpgBjy9zrw5y6uIZF7tL"
       },
@@ -3430,6 +3444,32 @@
       "duration_ms": 155706,
       "name": "Janeman",
       "url": "https://open.spotify.com/track/1nUZkGuF1JPLdnoyj5yTrP"
+    },
+    {
+      "album": {
+        "name": "SORA",
+        "url": "https://open.spotify.com/album/5mPpTBPEiOyCWAjI61ggXw"
+      },
+      "artists": [
+        {
+          "name": "Nikita Ahuja",
+          "url": "https://open.spotify.com/artist/1N9scLdWZukQAQ0p4ZeUUx"
+        },
+        {
+          "name": "Vayu",
+          "url": "https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL"
+        },
+        {
+          "name": "Manohar Rao",
+          "url": "https://open.spotify.com/artist/1uj0OPTnnHxeJdvLdaMZNF"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "Jaun Kahaan",
+      "url": "https://open.spotify.com/track/0468cWjc8U95lKGbUeH9bU"
     },
     {
       "album": {
@@ -5124,7 +5164,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 332727,
       "name": "Main Tujhe Phir Miloongi",
       "url": "https://open.spotify.com/track/0T0dczg8pK5vCsnj8GoRcR"
@@ -7692,7 +7732,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 214153,
       "name": "Thi Tu Kaha",
       "url": "https://open.spotify.com/track/5ukGuNbRQYrvVvCaEr5aUJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Sounds from the continent to the islands, with our guest curator: <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a> 🇯🇲 🇨🇦
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,396 likes - 52 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,424 likes - 52 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 51 | [Protein v2](https://open.spotify.com/track/3CrMbixptWnR1AiFujPap6) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Protein v2](https://open.spotify.com/album/0HEuPgvuiqiqQGXTowaJCI) | 3:08 |
 | 52 | [august fdm](https://open.spotify.com/track/265wm2oJ5T7y8ykW8tapxk) | [bambinodj](https://open.spotify.com/artist/1XZlMHqN41hHE8KTwrCDf7) | [Performance Enhancers](https://open.spotify.com/album/2NqcccDMX7hoouqZS5aBsC) | 4:19 |
 
-Snapshot ID: `Zy2a0AAAAAAYu1PKl+Q0Yaw4aR/wCAya`
+Snapshot ID: `ZzOrzgAAAACWfINZ0SJ2XdZ8maNVrlUW`

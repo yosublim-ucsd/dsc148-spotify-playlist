@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > The best new songs of the week! Cover: Sylvie Kreusch \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a> BNLX\-artist\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,483 likes - 89 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,487 likes - 89 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zeta. The essential tracks, all in one playlist.",
-  "num_followers": 2468,
+  "num_followers": 2467,
   "original_name": "This Is Banda Zeta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy/3gAAAAACwSMYykIpYcr4za94JZ5/5",
+  "snapshot_id": "ZzFJAAAAAAAlGJqkh+e11t2sfnvArnSe",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Calentura",
-        "url": "https://open.spotify.com/album/2NUDVbL3mZcLCsyx2QCrpi"
+        "name": "Lo Mas Caliente... La Ni\u00f1a Fresa",
+        "url": "https://open.spotify.com/album/16UZsarVMKLb5zvLd17S5a"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 184693,
-      "name": "La Calentura",
-      "url": "https://open.spotify.com/track/2m0pHZCgBtCad5Pv0RBCfw"
+      "duration_ms": 234857,
+      "name": "Revent\u00f3n Unixes",
+      "url": "https://open.spotify.com/track/7ke3SABFuGMPM18NJcJz6j"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mas Caliente... La Ni\u00f1a Fresa",
-        "url": "https://open.spotify.com/album/16UZsarVMKLb5zvLd17S5a"
+        "name": "La Calentura",
+        "url": "https://open.spotify.com/album/2NUDVbL3mZcLCsyx2QCrpi"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 234857,
-      "name": "Revent\u00f3n Unixes",
-      "url": "https://open.spotify.com/track/7ke3SABFuGMPM18NJcJz6j"
+      "duration_ms": 184693,
+      "name": "La Calentura",
+      "url": "https://open.spotify.com/track/2m0pHZCgBtCad5Pv0RBCfw"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 187266,
-      "name": "Acariciame",
-      "url": "https://open.spotify.com/track/4D4T9dfFC2D31OvolyhM3R"
+      "duration_ms": 185546,
+      "name": "A Pesar De Todo",
+      "url": "https://open.spotify.com/track/2DZmRvxjFzZZv6BnByxsAv"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revoluci\u00f3n Tecno 2021",
-        "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
+        "name": "Sorprendente",
+        "url": "https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 168677,
-      "name": "Zapatos Viejos",
-      "url": "https://open.spotify.com/track/2l6iFXyafbKbdp5pa6jXpj"
+      "duration_ms": 169377,
+      "name": "Cena de Plomo",
+      "url": "https://open.spotify.com/track/7oMDzR2APsPC2HfTxW78Sh"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 185546,
-      "name": "A Pesar De Todo",
-      "url": "https://open.spotify.com/track/2DZmRvxjFzZZv6BnByxsAv"
+      "duration_ms": 187266,
+      "name": "Acariciame",
+      "url": "https://open.spotify.com/track/4D4T9dfFC2D31OvolyhM3R"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorprendente",
-        "url": "https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my"
+        "name": "Revoluci\u00f3n Tecno 2021",
+        "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 169377,
-      "name": "Cena de Plomo",
-      "url": "https://open.spotify.com/track/7oMDzR2APsPC2HfTxW78Sh"
+      "duration_ms": 168677,
+      "name": "Zapatos Viejos",
+      "url": "https://open.spotify.com/track/2l6iFXyafbKbdp5pa6jXpj"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revoluci\u00f3n Tecno 2021",
-        "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 207642,
-      "name": "Gracias por Ser Mi Mujer",
-      "url": "https://open.spotify.com/track/1cYyS7rccvdPHzOgmVOCEf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como un Tatuaje",
         "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revoluci\u00f3n Tecno 2021",
+        "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 207642,
+      "name": "Gracias por Ser Mi Mujer",
+      "url": "https://open.spotify.com/track/1cYyS7rccvdPHzOgmVOCEf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Chispa",
         "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
       },
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 189800,
-      "name": "Con un poquito de amor",
-      "url": "https://open.spotify.com/track/241BmTaBzj3c96kzcZH34O"
+      "duration_ms": 179826,
+      "name": "Clases de baile",
+      "url": "https://open.spotify.com/track/5DjtOCqp7tDqT7Qv56Favq"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revoluci\u00f3n Tecno 2021",
-        "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 165214,
-      "name": "El Taladro",
-      "url": "https://open.spotify.com/track/5m69NmFGChAVKttLI0ImEL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Borracho Y Loco",
         "url": "https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revoluci\u00f3n Tecno 2021",
+        "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 165214,
+      "name": "El Taladro",
+      "url": "https://open.spotify.com/track/5m69NmFGChAVKttLI0ImEL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Chispa",
         "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
       },
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 179826,
-      "name": "Clases de baile",
-      "url": "https://open.spotify.com/track/5DjtOCqp7tDqT7Qv56Favq"
+      "duration_ms": 189800,
+      "name": "Con un poquito de amor",
+      "url": "https://open.spotify.com/track/241BmTaBzj3c96kzcZH34O"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cumbia Explosi\u00f3n",
+        "url": "https://open.spotify.com/album/5t5TDzXe1xvnMXQNoxjgoa"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 38666,
+      "name": "Ya parar\u00e1",
+      "url": "https://open.spotify.com/track/76H4nNPPwhFu9l4IqR0Vgc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/5X7cego1SYUkPvv7WKP1Vl"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 206067,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2heL7osf5TOVYLLczovWN6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cumbia Explosi\u00f3n",
-        "url": "https://open.spotify.com/album/5t5TDzXe1xvnMXQNoxjgoa"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 38666,
-      "name": "Ya parar\u00e1",
-      "url": "https://open.spotify.com/track/76H4nNPPwhFu9l4IqR0Vgc"
     },
     {
       "added_at": null,

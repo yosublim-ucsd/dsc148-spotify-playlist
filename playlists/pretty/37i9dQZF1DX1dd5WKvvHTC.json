@@ -1,13 +1,529 @@
 {
-  "description": "Highlighting key releases from this month's most exciting songwriters from around the globe. Cover: <a href=\"spotify:artist:52mkFCABBeP3KjkWFA4M2H\">Jenny Owen Youngs</a>",
-  "num_followers": 29616,
+  "description": "Highlighting key releases from this month's most exciting songwriters from around the globe. Cover: <a href=\"spotify:artist:0ZED1XzwlLHW4ZaG4lOT6m\">Julia Michaels",
+  "num_followers": 29645,
   "original_name": "Noteable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwbOdQAAAADxwxL+CbM9YFwVKLVoyZCv",
+  "snapshot_id": "ZzOVRQAAAADhIBG6XyDTCXZW5dyVD+NE",
   "tracks": [
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "Heaven II",
+        "url": "https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 147461,
+      "name": "Heaven II",
+      "url": "https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "Thick Of It All",
+        "url": "https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 199720,
+      "name": "Thick Of It All",
+      "url": "https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/7k4wACRSBft1L7IgbbjupL"
+      },
+      "artists": [
+        {
+          "name": "Paige Fish",
+          "url": "https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P"
+        }
+      ],
+      "duration_ms": 217618,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/0WoWLQX3MHAXaZogJspeZ4"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "Tough People",
+        "url": "https://open.spotify.com/album/6lyQYMu3krcoLPaCJbQ35V"
+      },
+      "artists": [
+        {
+          "name": "Drew Baldridge",
+          "url": "https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5"
+        }
+      ],
+      "duration_ms": 239873,
+      "name": "Tough People",
+      "url": "https://open.spotify.com/track/1DNVS0Q30pQf3Rr0KaXYRk"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "FRIENDZONE",
+        "url": "https://open.spotify.com/album/4Azxmej19KS4JDIEKiRJno"
+      },
+      "artists": [
+        {
+          "name": "_BY.ALEXANDER",
+          "url": "https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw"
+        },
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "duration_ms": 210998,
+      "name": "FRIENDZONE",
+      "url": "https://open.spotify.com/track/2CUWQEPhGo67JuDBng3jlN"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "Worries in the Woods",
+        "url": "https://open.spotify.com/album/2W9o5EP1SdiTm9W1h2IVnQ"
+      },
+      "artists": [
+        {
+          "name": "Iris Copperman",
+          "url": "https://open.spotify.com/artist/6RcGUg4682v0WCDSB852iD"
+        }
+      ],
+      "duration_ms": 181043,
+      "name": "Worries in the Woods",
+      "url": "https://open.spotify.com/track/2b2Ebf6Z21ifsbQgMpAOxO"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "So Happy It Hurts",
+        "url": "https://open.spotify.com/album/4hDwwxhVYbflKQVDKbhw6Z"
+      },
+      "artists": [
+        {
+          "name": "DINER",
+          "url": "https://open.spotify.com/artist/7dvHlnKgD5EWy243QylvvC"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "So Happy It Hurts",
+      "url": "https://open.spotify.com/track/7cANl7lpcIPFTHT11Xwy8O"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "Real As Ever",
+        "url": "https://open.spotify.com/album/1gyLv1ZWyuuwrkdpAZo4dM"
+      },
+      "artists": [
+        {
+          "name": "Jack Harris",
+          "url": "https://open.spotify.com/artist/27edmR0EqnlQYsj80VTusr"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "Real As Ever",
+      "url": "https://open.spotify.com/track/42WXfL2XJ5rHPC1q5puHDY"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "Don't Look Back",
+        "url": "https://open.spotify.com/album/5MHsq9gJsg8wshKxJ8SdnW"
+      },
+      "artists": [
+        {
+          "name": "STL GLD",
+          "url": "https://open.spotify.com/artist/4zFRkIEFDflyA730lgxqGB"
+        },
+        {
+          "name": "Anjimile",
+          "url": "https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp"
+        },
+        {
+          "name": "Rasheed Chappell",
+          "url": "https://open.spotify.com/artist/18QL8xB24RzcuwTcfX86Yw"
+        }
+      ],
+      "duration_ms": 187228,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/4byMr8mRFyv2ru4k8gNEkn"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "This Party Sucks",
+        "url": "https://open.spotify.com/album/37Ld8z5zVCOJa4PylMH0B4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        }
+      ],
+      "duration_ms": 181570,
+      "name": "This Party Sucks",
+      "url": "https://open.spotify.com/track/62r3cMCWOd8FuAuVU1yJD4"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/1yCSQb4cEiOwRqystGOuPB"
+      },
+      "artists": [
+        {
+          "name": "Rose Betts",
+          "url": "https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i"
+        }
+      ],
+      "duration_ms": 159212,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/4lSDX5eOnpN2DS5DY89iSm"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "born blue",
+        "url": "https://open.spotify.com/album/2c93Zr8BmUSod1qp2sdGev"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 211107,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/7w5kBkRGZoev12zHxDewlm"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "Monte Carlo",
+        "url": "https://open.spotify.com/album/3w4lUHrKK2urnIgE4CLBak"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "duration_ms": 227092,
+      "name": "Monte Carlo",
+      "url": "https://open.spotify.com/track/3RMHQtjlUAi4SDtinzCuy4"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "Love to Keep Me Warm",
+        "url": "https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Love to Keep Me Warm",
+      "url": "https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "AAA",
+        "url": "https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 197493,
+      "name": "Walk Like This",
+      "url": "https://open.spotify.com/track/6mZY9fLpgQxJKQYeOyzCdE"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "Fever Dream",
+        "url": "https://open.spotify.com/album/7lq3XRufGE1ro2ILpwIqqi"
+      },
+      "artists": [
+        {
+          "name": "Zoe Clark",
+          "url": "https://open.spotify.com/artist/1JLf53adsPkYiAQPir2Fn3"
+        }
+      ],
+      "duration_ms": 192128,
+      "name": "Fever Dream",
+      "url": "https://open.spotify.com/track/1z9PdmRuvpf3f9GrIJj4Cc"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "Blue Thunder",
+        "url": "https://open.spotify.com/album/0f60gFGMdj91gkqKj7tFo7"
+      },
+      "artists": [
+        {
+          "name": "Trudy and the Romance",
+          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
+        }
+      ],
+      "duration_ms": 174040,
+      "name": "Smashed Up My Fender",
+      "url": "https://open.spotify.com/track/0HZI1GcjRilES8m8RWJ0vQ"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "Pure Blue (Acoustic)",
+        "url": "https://open.spotify.com/album/0L3NTRUnwqB2pH9slv0euP"
+      },
+      "artists": [
+        {
+          "name": "Haile",
+          "url": "https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Pure Blue - Acoustic",
+      "url": "https://open.spotify.com/track/2wuec45w22blxGVKfsfmi5"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "Something Inside",
+        "url": "https://open.spotify.com/album/0fYDNJuacVVMAyOdYpYVmy"
+      },
+      "artists": [
+        {
+          "name": "MONTMARTRE",
+          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
+        },
+        {
+          "name": "Jinadu",
+          "url": "https://open.spotify.com/artist/0o9k6CmDuy07gP28ov82wp"
+        }
+      ],
+      "duration_ms": 202695,
+      "name": "Something Inside",
+      "url": "https://open.spotify.com/track/3HuCmm2yPlLpGtSqMxOcUC"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "Dreamstate",
+        "url": "https://open.spotify.com/album/4OL7O0xoj0xjyRrTA3clwd"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "duration_ms": 330126,
+      "name": "Dreamstate",
+      "url": "https://open.spotify.com/track/6jpMHF5tzxRdWExRDoDG87"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "Growing Through It",
+        "url": "https://open.spotify.com/album/3QGYowAWcYKXjbapjtHL5v"
+      },
+      "artists": [
+        {
+          "name": "Brye",
+          "url": "https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC"
+        }
+      ],
+      "duration_ms": 183108,
+      "name": "Chasm",
+      "url": "https://open.spotify.com/track/0g13OMBTYZ8OTYllWnrJhy"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/2qK3BwuD392XoXTqI3B6JN"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 248215,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/2zs0Oae871mUHpS0iOMJ7O"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "casandra",
+        "url": "https://open.spotify.com/album/2Isyha8kYfpcmi5VZijLyY"
+      },
+      "artists": [
+        {
+          "name": "Dinamarca",
+          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
+        },
+        {
+          "name": "Irenegarry",
+          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "casandra",
+      "url": "https://open.spotify.com/track/5xxlq2rPFNbO3uTi8bRNUe"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "What If",
+        "url": "https://open.spotify.com/album/2wMvRkueUbvXZHYEg0CSs0"
+      },
+      "artists": [
+        {
+          "name": "Mia Wray",
+          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
+        }
+      ],
+      "duration_ms": 218813,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/3PcFKgSulT1nbrMXiic7xe"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "HYBRID",
+        "url": "https://open.spotify.com/album/3YFFZvdk4pBBmygzLocYjG"
+      },
+      "artists": [
+        {
+          "name": "Fourth Daughter",
+          "url": "https://open.spotify.com/artist/39tnRWNqVYGhzm1SipX6cA"
+        }
+      ],
+      "duration_ms": 203973,
+      "name": "Look What You\u2019ve Done",
+      "url": "https://open.spotify.com/track/3gRpQbO5YT6D7dYaV51FMR"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "Break A Promise",
+        "url": "https://open.spotify.com/album/6iCjFxkd0iZu2ZkeCO7wdg"
+      },
+      "artists": [
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        },
+        {
+          "name": "Caleb Hearn",
+          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Break A Promise",
+      "url": "https://open.spotify.com/track/0GhN5uzkfnVTWzmI2RpWBX"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "Slow Dancing",
+        "url": "https://open.spotify.com/album/4XmDVuOYl1nrdV2SifuKRr"
+      },
+      "artists": [
+        {
+          "name": "Stuck On Planet Earth",
+          "url": "https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS"
+        }
+      ],
+      "duration_ms": 191342,
+      "name": "Slow Dancing",
+      "url": "https://open.spotify.com/track/3p8rcrb4coHHA6889lfQTC"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "The Crying Room",
+        "url": "https://open.spotify.com/album/2p4I7bpUfaiXTROsPgbHL8"
+      },
+      "artists": [
+        {
+          "name": "The Yagas",
+          "url": "https://open.spotify.com/artist/2ryRF1xeUbHB9FXczC2uBg"
+        }
+      ],
+      "duration_ms": 307426,
+      "name": "The Crying Room",
+      "url": "https://open.spotify.com/track/2KXBQ8U6U6E7MjG8NB5GFB"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/243xtJO49rvMqy5yx1DYxz"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 190060,
+      "name": "Head Above Water",
+      "url": "https://open.spotify.com/track/280voyNiWMpSELBtCuMVCs"
+    },
+    {
+      "added_at": "2024-11-12 17:27:01",
+      "album": {
+        "name": "Sexy Goodbye",
+        "url": "https://open.spotify.com/album/2d6EKgrtfckOuFgGi4SdFK"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 206293,
+      "name": "Sexy Goodbye",
+      "url": "https://open.spotify.com/track/5UHepEU0zMnz5sx1V9idJ5"
+    },
     {
       "added_at": "2024-10-04 16:39:21",
       "album": {

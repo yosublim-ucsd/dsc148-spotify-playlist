@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: Johnny Rotten ",
-  "num_followers": 1593425,
+  "num_followers": 1593567,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -111,8 +111,8 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Songs The Lord Taught Us",
-        "url": "https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay"
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
       "artists": [
         {
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
         }
       ],
-      "duration_ms": 183866,
-      "name": "I Was A Teenage Werewolf - Remastered 1989",
-      "url": "https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9"
+      "duration_ms": 136426,
+      "name": "Human Fly",
+      "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -223,8 +223,8 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+        "name": "Songs The Lord Taught Us",
+        "url": "https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
         }
       ],
-      "duration_ms": 136426,
-      "name": "Human Fly",
-      "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
+      "duration_ms": 183866,
+      "name": "I Was A Teenage Werewolf - Remastered 1989",
+      "url": "https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Candy Apple Grey",
-        "url": "https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1"
-      },
-      "artists": [
-        {
-          "name": "H\u00fcsker D\u00fc",
-          "url": "https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Don't Want to Know If You Are Lonely",
-      "url": "https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "No Control",
         "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 106693,
       "name": "No Control",
       "url": "https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Candy Apple Grey",
+        "url": "https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1"
+      },
+      "artists": [
+        {
+          "name": "H\u00fcsker D\u00fc",
+          "url": "https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Don't Want to Know If You Are Lonely",
+      "url": "https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 107323,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/7AoWDXgfVQO8pK4hb0Kswt"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Young, Loud And Snotty",
         "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 232960,
       "name": "See No Evil",
       "url": "https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 107323,
-      "name": "Suffer",
-      "url": "https://open.spotify.com/track/7AoWDXgfVQO8pK4hb0Kswt"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Entertainment!",
-        "url": "https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy"
-      },
-      "artists": [
-        {
-          "name": "Gang Of Four",
-          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "Natural's Not in It",
-      "url": "https://open.spotify.com/track/6Rsf9POXEmgQHzxXr6ubTg"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Never Mind The Bollocks, Here's The Sex Pistols",
         "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 198160,
       "name": "Pretty Vacant",
       "url": "https://open.spotify.com/track/2mKj8Em0GLFu8I78yM1CfU"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Entertainment!",
+        "url": "https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy"
+      },
+      "artists": [
+        {
+          "name": "Gang Of Four",
+          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "Natural's Not in It",
+      "url": "https://open.spotify.com/track/6Rsf9POXEmgQHzxXr6ubTg"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "The Crack",
-        "url": "https://open.spotify.com/album/6BP8vPyK1EKId2CGoX1UKq"
-      },
-      "artists": [
-        {
-          "name": "The Ruts",
-          "url": "https://open.spotify.com/artist/1uJKSAvQROYPgm7qhZkqd3"
-        }
-      ],
-      "duration_ms": 155186,
-      "name": "Babylon's Burning",
-      "url": "https://open.spotify.com/track/3T4pAHAgTbvLgGfUcTdYKa"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "A Million In Prizes: Iggy Pop Anthology (Edited Version)",
         "url": "https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 312040,
       "name": "Lust For Life",
       "url": "https://open.spotify.com/track/0kvH59HS2T2m4bsXJhBGNC"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "The Crack",
+        "url": "https://open.spotify.com/album/6BP8vPyK1EKId2CGoX1UKq"
+      },
+      "artists": [
+        {
+          "name": "The Ruts",
+          "url": "https://open.spotify.com/artist/1uJKSAvQROYPgm7qhZkqd3"
+        }
+      ],
+      "duration_ms": 155186,
+      "name": "Babylon's Burning",
+      "url": "https://open.spotify.com/track/3T4pAHAgTbvLgGfUcTdYKa"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "This Year's Model",
-        "url": "https://open.spotify.com/album/0mUFefHSr0Ovi9vNcUGppt"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Pump It Up",
-      "url": "https://open.spotify.com/track/0JgMHia55MBfhfqZIRi3kF"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Ramones (Expanded)",
         "url": "https://open.spotify.com/album/4X44NrhroDDaWXheAhcvYY"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 133440,
       "name": "Blitzkrieg Bop - 2001 Remastered Version",
       "url": "https://open.spotify.com/track/33iQW2OneB0oNh2NfrAzqW"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "This Year's Model",
+        "url": "https://open.spotify.com/album/0mUFefHSr0Ovi9vNcUGppt"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/0JgMHia55MBfhfqZIRi3kF"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "First Two Seven Inches",
+        "url": "https://open.spotify.com/album/29cV9KKP4Wr07poFUHBsbC"
+      },
+      "artists": [
+        {
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
+        }
+      ],
+      "duration_ms": 91240,
+      "name": "Minor Threat",
+      "url": "https://open.spotify.com/track/6yIaRcvzhIrukxS4VVhil0"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Love Bites (Special Edition)",
         "url": "https://open.spotify.com/album/7p6Nh183RUdsEM5wltdv9Q"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 206666,
       "name": "Hurry Up Harry",
       "url": "https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "First Two Seven Inches",
-        "url": "https://open.spotify.com/album/29cV9KKP4Wr07poFUHBsbC"
-      },
-      "artists": [
-        {
-          "name": "Minor Threat",
-          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
-        }
-      ],
-      "duration_ms": 91240,
-      "name": "Minor Threat",
-      "url": "https://open.spotify.com/track/6yIaRcvzhIrukxS4VVhil0"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/4XWwIu1eCmIQKGfep49T1y"
+      },
+      "artists": [
+        {
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
+        }
+      ],
+      "duration_ms": 166120,
+      "name": "Salad Days",
+      "url": "https://open.spotify.com/track/0VWhKY45C8eM1zfaJUlqsj"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Operation Ivy",
         "url": "https://open.spotify.com/album/4qpRn6UJpBmbfRSsXzzI3e"
       },
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/4XWwIu1eCmIQKGfep49T1y"
-      },
-      "artists": [
-        {
-          "name": "Minor Threat",
-          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
-        }
-      ],
-      "duration_ms": 166120,
-      "name": "Salad Days",
-      "url": "https://open.spotify.com/track/0VWhKY45C8eM1zfaJUlqsj"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Hypnotised (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6Yk98WBeFh20pqDPyE0kHd"
       },
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Bad Brains",
+        "url": "https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc"
+      },
+      "artists": [
+        {
+          "name": "Bad Brains",
+          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
+        }
+      ],
+      "duration_ms": 132786,
+      "name": "Banned In D.C.",
+      "url": "https://open.spotify.com/track/6MYusHmom4vpQN4qGyHl0h"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/5qwqMAvWEPdUkprxmfceir"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 231706,
       "name": "Happy House",
       "url": "https://open.spotify.com/track/0oU1wL8FqgKwTPa50nACdd"
-    },
-    {
-      "added_at": "2024-01-11 00:51:37",
-      "album": {
-        "name": "Germ Free Adolescents: The Anthology",
-        "url": "https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9"
-      },
-      "artists": [
-        {
-          "name": "X-Ray Spex",
-          "url": "https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt"
-        }
-      ],
-      "duration_ms": 145506,
-      "name": "Identity",
-      "url": "https://open.spotify.com/track/7xvIF8xmq2HsN2jvNcrEiv"
     },
     {
       "added_at": "2022-11-28 15:26:19",

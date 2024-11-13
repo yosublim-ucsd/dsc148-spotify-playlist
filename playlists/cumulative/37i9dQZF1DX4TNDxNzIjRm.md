@@ -4,7 +4,7 @@
 
 > Cuando el jangueo está mejor que la fiesta\. Hanging out jams.
 
-372 songs - 20 hr 30 min
+372 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Hora Loca](https://open.spotify.com/track/2E5NKtMEuJoDkbWTRbRuXy) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Hora Loca](https://open.spotify.com/album/10Z3jEKBIQs2xzzOB4VfYc) | 3:30 | 2022-05-10 | 2022-08-07 |
 | [Hoy](https://open.spotify.com/track/2Rq1HMitTCyDarpNbtJ5b9) | [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Hoy](https://open.spotify.com/album/5NpLWVbpJ0q1iFRDkPaOjK) | 2:55 | 2023-01-27 | 2023-03-08 |
 | [Huellas](https://open.spotify.com/track/6zAnj2RqKMo16ioTmwpM0s) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Huellas](https://open.spotify.com/album/3XuSgPkpzVPVaYD0n0a8Pd) | 2:58 | 2022-07-11 | 2022-07-13 |
-| [IA](https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [IA](https://open.spotify.com/album/3DXj5cbdAXHzjG9Yy2rDn3) | 2:51 | 2024-10-31 |  |
+| [IA](https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [IA](https://open.spotify.com/album/3DXj5cbdAXHzjG9Yy2rDn3) | 4:00 | 2024-10-31 |  |
 | [Imposible Amor](https://open.spotify.com/track/0fehAJVm4Yk9a1jlKi1B0q) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Imposible Amor](https://open.spotify.com/album/4RScGVrfhjGu0X0A2AbwhP) | 3:08 | 2022-05-10 | 2022-07-29 |
 | [Imposible Amor](https://open.spotify.com/track/5zRusJsWuFeLu2sICWvVDF) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:08 | 2022-07-11 | 2022-10-15 |
 | [Indeciso](https://open.spotify.com/track/59s0s39NFWScuHDbHytI14) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Indeciso](https://open.spotify.com/album/4qecT0ZJrf35thz2WaEm6P) | 3:37 | 2022-05-10 |  |

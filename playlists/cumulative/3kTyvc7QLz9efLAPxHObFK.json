@@ -887,6 +887,28 @@
     },
     {
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/0dDuT61zl0ZK4i3WhmGQOu"
+      },
+      "artists": [
+        {
+          "name": "Avi8",
+          "url": "https://open.spotify.com/artist/1GNl1iTql0c4P9brn1Fj6m"
+        },
+        {
+          "name": "Gearbox Digital",
+          "url": "https://open.spotify.com/artist/32Eil9DTJeGj6fnhyXn9L6"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205008,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/1FTtU8pGRwEYNUjhAf0hWb"
+    },
+    {
+      "album": {
         "name": "The Wreckoning",
         "url": "https://open.spotify.com/album/18Mnzx0terGHSvFhPyzaCB"
       },

@@ -4,7 +4,7 @@
 
 > the sound of a new generation
 
-375 songs - 23 hr 33 min
+376 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Feel You \(Beside Me\)](https://open.spotify.com/track/2Y7TA1fnjoZWHvAhi70TUv) | [LUPA](https://open.spotify.com/artist/58Y24OWJla2epBPf0toBTo) | [Feel You \(Beside Me\)](https://open.spotify.com/album/4NvXD68wMwVrgzHSSkhQGC) | 5:29 | 2023-03-10 | 2023-04-28 |
 | [Feeling Gold](https://open.spotify.com/track/6JdUDhDszeEpzTuRVKKn0g) | [L.zwo](https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1) | [Feeling Gold](https://open.spotify.com/album/4rwLTbGy5VDJXVzwfGBO1K) | 4:04 | 2024-10-10 | 2024-10-18 |
 | [Fight](https://open.spotify.com/track/7Gmq9uNMrZoB3QamiIm4zT) | [ADB](https://open.spotify.com/artist/12YduHZJsgoAQlzLEDdT8T) | [Fight](https://open.spotify.com/album/7IiP9ggy5PCKjfpTFIkWGx) | 4:38 | 2023-09-07 | 2023-09-13 |
+| [Fight Club](https://open.spotify.com/track/2oOUZQpxxcjlqOpgXSOgsi) | [David Löhlein](https://open.spotify.com/artist/2RibmjRGf8SiwxdCQZ9N1C) | [Fight Club](https://open.spotify.com/album/1KS4vA06SmccoAiFFjpyCG) | 4:08 | 2024-11-12 |  |
 | [FILTY ACID](https://open.spotify.com/track/5pQE39FojbnW0fiXLswMdI) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [ACID TRAXXX](https://open.spotify.com/album/0ZNaxa4WrvuHmyBwZY49UA) | 6:07 | 2023-10-20 | 2023-10-27 |
 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 | 2023-07-12 |  |
 | [Flow My Tears](https://open.spotify.com/track/40Wai7PhvLeegNZe9iDJud) | [Simone De Kunovich](https://open.spotify.com/artist/6qEYuBlZWeehY6RxWCpA0r) | [Flow My Tears](https://open.spotify.com/album/2CFhxHIc7rihE0lzqAZYYO) | 6:10 | 2023-07-07 | 2023-07-18 |
@@ -179,7 +180,7 @@
 | [In Your Arms](https://open.spotify.com/track/38LQJiREi2QNoc6iL8nTXJ) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [In Your Arms](https://open.spotify.com/album/5u6OdIduUpROG052H662kO) | 3:31 | 2024-02-15 | 2024-04-13 |
 | [Irre \- Komacasper Remix](https://open.spotify.com/track/1jlxES60xD5USpvzckJDNO) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo), [Haexxa](https://open.spotify.com/artist/0GY1LiRaEjFG0n8rP8wvrC), [KomaCasper](https://open.spotify.com/artist/5yYwA7jmFlU01EKoLfeNpV) | [Irre](https://open.spotify.com/album/6XEuoKZxz5zuNkYFFx5doW) | 3:20 | 2023-04-27 | 2023-06-10 |
 | [Irre \- KomaCasper Remix](https://open.spotify.com/track/4W2Xk8VUlrPkPSsLUaeMS3) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo), [Haexxa](https://open.spotify.com/artist/0GY1LiRaEjFG0n8rP8wvrC), [KomaCasper](https://open.spotify.com/artist/5yYwA7jmFlU01EKoLfeNpV) | [Irre \(KomaCasper Remix\)](https://open.spotify.com/album/0BmdJkFTMBtqBt0d1ZwrQ4) | 3:20 | 2023-06-09 | 2024-04-19 |
-| [It Ain't Over](https://open.spotify.com/track/2CXgBOHvaylFWhzk8aoNPG) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [It Ain't Over](https://open.spotify.com/album/1JOMt08TLz8kwa9GJXP4Ya) | 3:35 | 2023-06-29 |  |
+| [It Ain't Over](https://open.spotify.com/track/2CXgBOHvaylFWhzk8aoNPG) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [It Ain't Over](https://open.spotify.com/album/1JOMt08TLz8kwa9GJXP4Ya) | 3:35 | 2023-06-29 | 2024-11-13 |
 | [It's That Time](https://open.spotify.com/track/2YlrFLQMDvkvnAlyS94zo8) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [It's That Time](https://open.spotify.com/album/0kUIijubTS9zx7cBu6HiVv) | 4:00 | 2023-04-27 | 2024-08-23 |
 | [It's That Time](https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [It's That Time](https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt) | 4:00 | 2023-08-25 | 2024-04-19 |
 | [Italo Disco](https://open.spotify.com/track/42H7zXATS1GpuFGawmNKqU) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf) | 3:18 | 2023-04-06 | 2023-06-29 |

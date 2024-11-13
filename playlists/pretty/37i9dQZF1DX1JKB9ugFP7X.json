@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop electr\u00f3nico latino. Foto: Javiera Mena",
-  "num_followers": 24263,
+  "num_followers": 24267,
   "original_name": "Electropop",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-10-24 20:32:23",
       "album": {
+        "name": "Postal",
+        "url": "https://open.spotify.com/album/7Fhi1gzWFYIFOJqI4cX6QV"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        }
+      ],
+      "duration_ms": 210002,
+      "name": "TODO LO QUE HICIMOS.",
+      "url": "https://open.spotify.com/track/0XLgejotJO28IcZwptFNpa"
+    },
+    {
+      "added_at": "2024-10-24 20:32:23",
+      "album": {
         "name": "Rayo El\u00e9ctrico",
         "url": "https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 258629,
       "name": "Rayo El\u00e9ctrico",
       "url": "https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8"
-    },
-    {
-      "added_at": "2024-10-24 20:32:23",
-      "album": {
-        "name": "Postal",
-        "url": "https://open.spotify.com/album/7Fhi1gzWFYIFOJqI4cX6QV"
-      },
-      "artists": [
-        {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
-        }
-      ],
-      "duration_ms": 210002,
-      "name": "TODO LO QUE HICIMOS.",
-      "url": "https://open.spotify.com/track/0XLgejotJO28IcZwptFNpa"
     },
     {
       "added_at": "2024-10-24 20:32:23",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-10-24 20:32:23",
       "album": {
-        "name": "En el Palacio (REMIX)",
-        "url": "https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS"
-      },
-      "artists": [
-        {
-          "name": "Alejo y Valentin",
-          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
-        }
-      ],
-      "duration_ms": 246144,
-      "name": "En la Torre - AV Remix",
-      "url": "https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc"
-    },
-    {
-      "added_at": "2024-10-24 20:32:23",
-      "album": {
         "name": "Autosabotear (Uffie & Lokoy Remix)",
         "url": "https://open.spotify.com/album/0d7ZiyUl0iBTBgbWBq13H5"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 196641,
       "name": "Autosabotear (Uffie & Lokoy Remix)",
       "url": "https://open.spotify.com/track/5qJbuq0Z72wXoMVIF7qtRD"
+    },
+    {
+      "added_at": "2024-10-24 20:32:23",
+      "album": {
+        "name": "En el Palacio (REMIX)",
+        "url": "https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS"
+      },
+      "artists": [
+        {
+          "name": "Alejo y Valentin",
+          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+        }
+      ],
+      "duration_ms": 246144,
+      "name": "En la Torre - AV Remix",
+      "url": "https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc"
     },
     {
       "added_at": "2024-10-24 20:32:23",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2024-10-24 20:32:23",
       "album": {
-        "name": "Nada que ver",
-        "url": "https://open.spotify.com/album/65G9K1ZVORf6C2esI96EGI"
-      },
-      "artists": [
-        {
-          "name": "Halpe",
-          "url": "https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy"
-        },
-        {
-          "name": "Solo Juan",
-          "url": "https://open.spotify.com/artist/6RokCoxONJFwZ3myq6unmI"
-        }
-      ],
-      "duration_ms": 193971,
-      "name": "Nada que ver",
-      "url": "https://open.spotify.com/track/3lD8DZfzilDTI0R42VSCvr"
-    },
-    {
-      "added_at": "2024-10-24 20:32:23",
-      "album": {
         "name": "Zentaura",
         "url": "https://open.spotify.com/album/5QkPxWYBgDfEnkNzL9zy1m"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 186158,
       "name": "Zentaura",
       "url": "https://open.spotify.com/track/5n8wmlh90HNlV0VnAhxw0Z"
+    },
+    {
+      "added_at": "2024-10-24 20:32:23",
+      "album": {
+        "name": "Nada que ver",
+        "url": "https://open.spotify.com/album/65G9K1ZVORf6C2esI96EGI"
+      },
+      "artists": [
+        {
+          "name": "Halpe",
+          "url": "https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy"
+        },
+        {
+          "name": "Solo Juan",
+          "url": "https://open.spotify.com/artist/6RokCoxONJFwZ3myq6unmI"
+        }
+      ],
+      "duration_ms": 193971,
+      "name": "Nada que ver",
+      "url": "https://open.spotify.com/track/3lD8DZfzilDTI0R42VSCvr"
     },
     {
       "added_at": "2024-10-24 20:32:23",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-10-24 20:32:23",
       "album": {
-        "name": "Bienvenide Mi Sue\u00f1o",
-        "url": "https://open.spotify.com/album/5QRldahJAIMGdrUjFNLWPW"
-      },
-      "artists": [
-        {
-          "name": "Renata Di Croce",
-          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Bienvenide Mi Sue\u00f1o",
-      "url": "https://open.spotify.com/track/5rdsEOl9SgGwcNz9X3Fbl7"
-    },
-    {
-      "added_at": "2024-10-24 20:32:23",
-      "album": {
         "name": "Reprimiendo",
         "url": "https://open.spotify.com/album/77QPWd67DcTtHxTNI9gEkR"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 242622,
       "name": "Reprimiendo",
       "url": "https://open.spotify.com/track/4jmmS4n61wGZJLpfPoggeC"
+    },
+    {
+      "added_at": "2024-10-24 20:32:23",
+      "album": {
+        "name": "Bienvenide Mi Sue\u00f1o",
+        "url": "https://open.spotify.com/album/5QRldahJAIMGdrUjFNLWPW"
+      },
+      "artists": [
+        {
+          "name": "Renata Di Croce",
+          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Bienvenide Mi Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5rdsEOl9SgGwcNz9X3Fbl7"
     },
     {
       "added_at": "2024-10-24 20:32:23",

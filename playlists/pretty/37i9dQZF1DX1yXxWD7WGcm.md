@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 
 > Les classiques du zouk\. Photo : Slaï
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,682 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,708 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [La dernière danse \(ne rentre pas chez toi ce soir\) \- Radio Edit](https://open.spotify.com/track/40XHrZZ9KKX7Vdp4NLGCGO) | [Slaï](https://open.spotify.com/artist/7y4UMLXo4Gz5NQbXE7v2Kt) | [Florilège](https://open.spotify.com/album/2lopM9cqpqzJoG1gpYOlQf) | 3:28 |
+| 1 | [La dernière danse \(Ne rentre pas chez toi ce soir\) \- Radio Edit](https://open.spotify.com/track/40XHrZZ9KKX7Vdp4NLGCGO) | [Slaï](https://open.spotify.com/artist/7y4UMLXo4Gz5NQbXE7v2Kt) | [Florilège](https://open.spotify.com/album/2lopM9cqpqzJoG1gpYOlQf) | 3:28 |
 | 2 | [Emmène\-Moi Avec Toi](https://open.spotify.com/track/4Ql7ivqB2u0YjPLBhLQRLW) | [Perle Lama](https://open.spotify.com/artist/3JCfgXnyQBwjAp61EctbQP) | [Mizikasoleil](https://open.spotify.com/album/3gC1be7qMtmhU60jD1mrlH) | 3:35 |
 | 3 | [Ancrée à ton port](https://open.spotify.com/track/05xLOpipHWbGG0CboVVrXy) | [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [Vous les hommes](https://open.spotify.com/album/02mxvQUtyiMKLMfnfjhaLD) | 4:06 |
 | 4 | [On A Changé](https://open.spotify.com/track/33CNefpUrDUefPDQb3GWyt) | [Les Deesses](https://open.spotify.com/artist/4zXAitgkrWokZ0zolMyJh9) | [Saveurs exotiques](https://open.spotify.com/album/38bAlD66F2VYmx56KQZrZS) | 3:27 |

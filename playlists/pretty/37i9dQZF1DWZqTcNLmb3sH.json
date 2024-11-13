@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Bhairathi Ranagal",
-  "num_followers": 60140,
+  "num_followers": 60155,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy4PMwAAAAAdli1U4wzvnThW+ZqEKm5K",
+  "snapshot_id": "ZzMtrgAAAADA1/6Kb1iFDmhKAYkvBqdZ",
   "tracks": [
     {
       "added_at": "2024-11-07 07:34:58",
@@ -77,6 +77,30 @@
       "url": "https://open.spotify.com/track/2MHEEKQUJn1TDPtslw31mS"
     },
     {
+      "added_at": "2024-11-12 10:27:58",
+      "album": {
+        "name": "Avanu Sanju Avalu Geetha (From \"Sanju Weds Geetha 2\")",
+        "url": "https://open.spotify.com/album/744mHsDB3kZ1md1s7WzH4j"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Sangeetha Ravindranath",
+          "url": "https://open.spotify.com/artist/7jgOOSGT9VG1PSH90uFx43"
+        },
+        {
+          "name": "Sridhar .V.Sambhram",
+          "url": "https://open.spotify.com/artist/4GDPI9FapQXUVKxdWwTfCE"
+        }
+      ],
+      "duration_ms": 335585,
+      "name": "Avanu Sanju Avalu Geetha (From \"Sanju Weds Geetha 2\")",
+      "url": "https://open.spotify.com/track/63JmL6r2p9OO2SqLL9EYa1"
+    },
+    {
       "added_at": "2024-10-29 05:51:48",
       "album": {
         "name": "Usire (From\"Murphy\")",
@@ -101,6 +125,98 @@
       "url": "https://open.spotify.com/track/6moEke4PVgbQl7aOifSqeX"
     },
     {
+      "added_at": "2024-11-12 10:08:46",
+      "album": {
+        "name": "Nanna Bala Bangariye (From \"Kanasalu\")",
+        "url": "https://open.spotify.com/album/4ro0SgXBPHuuAyPdKUVX3c"
+      },
+      "artists": [
+        {
+          "name": "Manjunath Hosval",
+          "url": "https://open.spotify.com/artist/0UDZmXR8h32CEt3czICfO9"
+        },
+        {
+          "name": "Dr. Shrishail Madannavar",
+          "url": "https://open.spotify.com/artist/5wVfPk88weJ3unowkc69Uh"
+        }
+      ],
+      "duration_ms": 208453,
+      "name": "Nanna Bala Bangariye (From \"Kanasalu\")",
+      "url": "https://open.spotify.com/track/2ilXSzhOWqbuVSBlzV4jKp"
+    },
+    {
+      "added_at": "2024-11-12 10:26:37",
+      "album": {
+        "name": "Paraloka Harihoguva (From \"Matka\")(Kannada)",
+        "url": "https://open.spotify.com/album/12fkfnoukSPmYRexergrIe"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "LN. Surya",
+          "url": "https://open.spotify.com/artist/0njPpkEpftProSoKUNXGkn"
+        },
+        {
+          "name": "Meghana Haliyal",
+          "url": "https://open.spotify.com/artist/2IVFHDXsOnIyrfA2BQ4f9i"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Paraloka Harihoguva (From \"Matka\")(Kannada)",
+      "url": "https://open.spotify.com/track/3845Q0Ipf5Qfqs2uQJHSov"
+    },
+    {
+      "added_at": "2024-11-12 10:08:46",
+      "album": {
+        "name": "Kannalli Kannidu (From \"Bagheera\")",
+        "url": "https://open.spotify.com/album/6rASzFHPJmakA4qkeoNGSr"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Pramod Maravante",
+          "url": "https://open.spotify.com/artist/072hm2tGA2geeswvhueVQe"
+        },
+        {
+          "name": "Harshika Devanath",
+          "url": "https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S"
+        }
+      ],
+      "duration_ms": 278528,
+      "name": "Kannalli Kannidu (From \"Bagheera\")",
+      "url": "https://open.spotify.com/track/514KLhApZ7OFZ2Vfl9be2W"
+    },
+    {
+      "added_at": "2024-11-12 10:08:46",
+      "album": {
+        "name": "Himada Hoovina (From \"Dvija\")",
+        "url": "https://open.spotify.com/album/780xjHNHVeN30hAzZSfKy8"
+      },
+      "artists": [
+        {
+          "name": "Manojavvam Aatreya",
+          "url": "https://open.spotify.com/artist/1WVNxpYnjVGKkrnurJrBCY"
+        },
+        {
+          "name": "Prabodh Shyam",
+          "url": "https://open.spotify.com/artist/0zz9ZvcHxm0jX0QfN00Kwc"
+        },
+        {
+          "name": "Hemadri Srinivas",
+          "url": "https://open.spotify.com/artist/6aQdaiSZVQn4Eq1cKtNR8F"
+        }
+      ],
+      "duration_ms": 315491,
+      "name": "Himada Hoovina (From \"Dvija\")",
+      "url": "https://open.spotify.com/track/31DI27HDjWbRW89NuXDsPZ"
+    },
+    {
       "added_at": "2024-11-07 13:03:35",
       "album": {
         "name": "Mannisu (From \"Kanguva\") (Kannada)",
@@ -123,6 +239,34 @@
       "duration_ms": 316875,
       "name": "Mannisu (From \"Kanguva\") (Kannada)",
       "url": "https://open.spotify.com/track/4eUjuiWAWWOfXgF5bAuLHF"
+    },
+    {
+      "added_at": "2024-11-12 10:08:46",
+      "album": {
+        "name": "Cinema Maklu (From \"Shivamma\")",
+        "url": "https://open.spotify.com/album/5dilp0mV213c04QEIpzc0h"
+      },
+      "artists": [
+        {
+          "name": "Nachiketa Sharma Miganakallu",
+          "url": "https://open.spotify.com/artist/0YOmPeFkxSLO1Nk25k9N83"
+        },
+        {
+          "name": "Jayalaxmi Patil",
+          "url": "https://open.spotify.com/artist/5Bqvmdf1toH9XTWvSf37m3"
+        },
+        {
+          "name": "Jaishankar Aryar",
+          "url": "https://open.spotify.com/artist/4liUBmdq2pWKVc0dxHmxex"
+        },
+        {
+          "name": "Sangeetha Katti",
+          "url": "https://open.spotify.com/artist/20K7c4KKuOy98zaujRNNTg"
+        }
+      ],
+      "duration_ms": 269250,
+      "name": "Cinema Maklu (From \"Shivamma\")",
+      "url": "https://open.spotify.com/track/1m1vU0OP8NPYDGtm9Sju7v"
     },
     {
       "added_at": "2024-11-08 13:16:35",

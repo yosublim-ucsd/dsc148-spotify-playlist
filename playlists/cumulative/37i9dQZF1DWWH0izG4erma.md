@@ -4,7 +4,7 @@
 
 > Country music that rocks\. Cover: Ryan Hurd
 
-386 songs - 22 hr 5 min
+387 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Places To Run](https://open.spotify.com/track/4XXXLj4SKynrgyIEwibD9x) | [Dusty Black](https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO) | [Places To Run](https://open.spotify.com/album/7cA953EqbwfrTJ3DYy5Zc6) | 2:58 | 2021-11-01 | 2022-07-28 |
 | [Poor Everybody Else](https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:45 | 2022-06-10 |  |
 | [Pray All The Way Home](https://open.spotify.com/track/7mhe8marcC1uyu17L5oxyF) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Pray All The Way Home](https://open.spotify.com/album/55BEOWkidLBWuSVaavBmRn) | 2:24 | 2024-01-12 |  |
+| [PRETTY LITTLE WAIST](https://open.spotify.com/track/6hDmlzoJt6MtkjVsZMdIoI) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [PRETTY LITTLE WAIST](https://open.spotify.com/album/2p5j8XVUOtDYv5aOb49FhV) | 3:40 | 2024-11-08 |  |
 | [Promiseland](https://open.spotify.com/track/3vDRPNARUjauckJY6VnmG0) | [Colin Stough](https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds) | [Promiseland](https://open.spotify.com/album/2fqe9pxRWIEk27VrLRFBf7) | 2:35 | 2023-11-17 | 2023-12-02 |
 | [Promiseland](https://open.spotify.com/track/5QUhfrmKG93HXYmyvqoLfm) | [Colin Stough](https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds) | [Promiseland](https://open.spotify.com/album/2y0FPrFN1IoM5U4cqxVYKq) | 2:35 | 2023-09-08 | 2023-11-18 |
 | [Proof](https://open.spotify.com/track/5ASY9hrg61fOhdQ1isNbQm) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ), [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Proof](https://open.spotify.com/album/5zVhUz76UL3A1VXftq6g76) | 3:30 | 2024-07-26 |  |
@@ -349,7 +350,7 @@
 | [Up to Me](https://open.spotify.com/track/45eogTRy1OqfhJ2KQaOL2W) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [Up to Me](https://open.spotify.com/album/5vqC9GDUqWT1f6PDzPjwO4) | 4:02 | 2022-02-11 | 2022-07-22 |
 | [Up To No Good](https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Up To No Good](https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW) | 2:13 | 2022-07-22 |  |
 | [Varsity Type](https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Varsity Type](https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP) | 3:22 | 2022-05-27 | 2022-11-19 |
-| [Wait For It](https://open.spotify.com/track/1wrrEHQGT433ZOUA5wvXaX) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Wait For It](https://open.spotify.com/album/5QmNGPE9HijPfyy6ggJf9X) | 3:46 | 2024-11-01 |  |
+| [Wait For It](https://open.spotify.com/track/1wrrEHQGT433ZOUA5wvXaX) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Wait For It](https://open.spotify.com/album/5QmNGPE9HijPfyy6ggJf9X) | 3:46 | 2024-11-01 | 2024-11-13 |
 | [Wait Outside](https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 3:21 | 2021-11-01 | 2024-08-24 |
 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 | 2021-11-01 |  |
 | [Wake Up Without Me](https://open.spotify.com/track/0eseAsEdgDdUYaVL0Duikp) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Wake Up Without Me](https://open.spotify.com/album/4W92R9tdOKea59NHW0MaS2) | 2:53 | 2024-05-03 | 2024-08-13 |

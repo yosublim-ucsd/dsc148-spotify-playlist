@@ -732,7 +732,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 144000,
       "name": "Another Side (feat. Nenashi)",
       "url": "https://open.spotify.com/track/0R6uVOK29yCQg4K1ILmX7m"
@@ -2099,6 +2099,28 @@
     },
     {
       "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223443,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
+    },
+    {
+      "album": {
         "name": "celeste feat. Haruno",
         "url": "https://open.spotify.com/album/0vZK7EGOEaKHWScSOnKJ5O"
       },
@@ -2234,6 +2256,28 @@
       "duration_ms": 202204,
       "name": "Charge It Remix (feat. Smino)",
       "url": "https://open.spotify.com/track/4GKzznETPVyGoBe6vHr2lS"
+    },
+    {
+      "album": {
+        "name": "Charlie (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/64Ds4fDPQ901b25uuULZ10"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291536,
+      "name": "Charlie (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/4eetH1a8sk7WMcxUokfkGa"
     },
     {
       "album": {
@@ -3848,7 +3892,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 204893,
       "name": "F64",
       "url": "https://open.spotify.com/track/5DFi6D7SrYHRIgZbY5MqqE"
@@ -3866,7 +3910,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 163027,
       "name": "fairy godmother",
       "url": "https://open.spotify.com/track/7zstoq2sK1AKvlnzJNVEol"
@@ -5120,7 +5164,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 194550,
       "name": "Good Care",
       "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
@@ -6536,6 +6580,24 @@
       "duration_ms": 182680,
       "name": "ira",
       "url": "https://open.spotify.com/track/7AwHsYxLFMFrrpU7ykqfWJ"
+    },
+    {
+      "album": {
+        "name": "AWE",
+        "url": "https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155080,
+      "name": "IS THIS LOVE",
+      "url": "https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar"
     },
     {
       "album": {
@@ -9278,7 +9340,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 239057,
       "name": "New Morning",
       "url": "https://open.spotify.com/track/6q8pY6ONUEaDXT7q191ha8"
@@ -10719,6 +10781,24 @@
     },
     {
       "album": {
+        "name": "Pick you up",
+        "url": "https://open.spotify.com/album/5ec6P46lMezGX5zBzpHRvy"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218839,
+      "name": "Pick you up",
+      "url": "https://open.spotify.com/track/7lEamS5mWLjjnxYDHS3Z5R"
+    },
+    {
+      "album": {
         "name": "Pictures of You",
         "url": "https://open.spotify.com/album/4VykpJKWx1lQ0b4r9cRCTP"
       },
@@ -10752,7 +10832,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 158642,
       "name": "Pieces Of A Dream",
       "url": "https://open.spotify.com/track/2HBjPMwy9yAoMkUB1cSg2p"
@@ -13106,7 +13186,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 164827,
       "name": "Stupid Dumb",
       "url": "https://open.spotify.com/track/6RFvRQfwSV5kvF9NodnZnb"
@@ -13746,7 +13826,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 200926,
       "name": "Tell Me (feat. ikkubaru)",
       "url": "https://open.spotify.com/track/0CADqD68QbiDuGkIGBusP4"
@@ -14536,7 +14616,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 206571,
       "name": "Trust",
       "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
@@ -16290,7 +16370,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 131730,
       "name": "\u3044\u3044\u6e6f\u3060\u306a",
       "url": "https://open.spotify.com/track/2CB5Cqj4j5RaUJRw8U4KpG"
@@ -16526,7 +16606,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 135405,
       "name": "\u306a\u3093\u3067\u3082\u306a\u3044",
       "url": "https://open.spotify.com/track/5P4B6Qvtojsw8wfp5rUeaT"
@@ -17182,7 +17262,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 150885,
       "name": "\u53cb\u9054\u3055",
       "url": "https://open.spotify.com/track/5vGQOBvW6CjTURv0eWzRD5"

@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Kane Brown",
-  "num_followers": 119461,
+  "num_followers": 119485,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -775,18 +775,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Take Me as I Am",
-        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
+        "name": "She Will Be Loved",
+        "url": "https://open.spotify.com/album/7H5bbyW3GjKzXVR1WK5aY8"
       },
       "artists": [
         {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+          "name": "Gareth",
+          "url": "https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq"
         }
       ],
-      "duration_ms": 241280,
-      "name": "Piece of My Heart",
-      "url": "https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88"
+      "duration_ms": 240000,
+      "name": "She Will Be Loved",
+      "url": "https://open.spotify.com/track/5sRDaug6JVkjuppYLOLBR4"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Take Me as I Am",
+        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 241280,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Seven Bridges Road",
         "url": "https://open.spotify.com/album/6GXkpobqUCBNcak0es2wJ7"
       },
@@ -827,6 +843,26 @@
       "duration_ms": 190174,
       "name": "Seven Bridges Road",
       "url": "https://open.spotify.com/track/24T44qdZXhaFn92pW2OHWh"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Unwell (Cover)",
+        "url": "https://open.spotify.com/album/6R4Y22EzAkJdKaPJFUcrXk"
+      },
+      "artists": [
+        {
+          "name": "Jesse Slack",
+          "url": "https://open.spotify.com/artist/4nfh7BMMFe3UQP4XMHtWCN"
+        },
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "duration_ms": 208341,
+      "name": "Unwell - Cover",
+      "url": "https://open.spotify.com/track/3tDhiP9TGN9pl3Nil13CsT"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -867,26 +903,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Unwell (Cover)",
-        "url": "https://open.spotify.com/album/6R4Y22EzAkJdKaPJFUcrXk"
-      },
-      "artists": [
-        {
-          "name": "Jesse Slack",
-          "url": "https://open.spotify.com/artist/4nfh7BMMFe3UQP4XMHtWCN"
-        },
-        {
-          "name": "Robyn Ottolini",
-          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
-        }
-      ],
-      "duration_ms": 208341,
-      "name": "Unwell - Cover",
-      "url": "https://open.spotify.com/track/3tDhiP9TGN9pl3Nil13CsT"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "You're Still The One",
         "url": "https://open.spotify.com/album/7eDDPso1MhI1Uc4SsbLVnD"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 195455,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/2krzZT5Sk5268fKCalESbe"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Simply The Hits",
-        "url": "https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv"
-      },
-      "artists": [
-        {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
-        }
-      ],
-      "duration_ms": 257733,
-      "name": "Walking In Memphis",
-      "url": "https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Eastside",
-        "url": "https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k"
+        "name": "Simply The Hits",
+        "url": "https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv"
       },
       "artists": [
         {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
         }
       ],
-      "duration_ms": 167142,
-      "name": "Eastside",
-      "url": "https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc"
+      "duration_ms": 257733,
+      "name": "Walking In Memphis",
+      "url": "https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -963,6 +963,22 @@
       "duration_ms": 201600,
       "name": "Hold On, We're Going Home - Country Version",
       "url": "https://open.spotify.com/track/2Hie8F7KYwDtxAZf9rZPwd"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Eastside",
+        "url": "https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Eastside",
+      "url": "https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1003,18 +1019,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "She Will Be Loved",
-        "url": "https://open.spotify.com/album/7H5bbyW3GjKzXVR1WK5aY8"
+        "name": "Dammit",
+        "url": "https://open.spotify.com/album/0dWV3dZmZvr2ku5ho29GeU"
       },
       "artists": [
         {
-          "name": "Gareth",
-          "url": "https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq"
+          "name": "Alexandra Kay",
+          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
         }
       ],
-      "duration_ms": 240000,
-      "name": "She Will Be Loved",
-      "url": "https://open.spotify.com/track/5sRDaug6JVkjuppYLOLBR4"
+      "duration_ms": 199445,
+      "name": "Dammit",
+      "url": "https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1031,22 +1047,6 @@
       "duration_ms": 193868,
       "name": "Good Luck Babe",
       "url": "https://open.spotify.com/track/0axqxD4estjwwqDuQ3DYZr"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Dammit",
-        "url": "https://open.spotify.com/album/0dWV3dZmZvr2ku5ho29GeU"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Kay",
-          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
-        }
-      ],
-      "duration_ms": 199445,
-      "name": "Dammit",
-      "url": "https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Dancing with Myself",
-        "url": "https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 251309,
-      "name": "Dancing with Myself",
-      "url": "https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Pure BS (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1Y2uUDf2eqGm2KxvlvaJbe"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 230453,
       "name": "Home",
       "url": "https://open.spotify.com/track/78NDstvbMtbdiPsYmGrHid"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Dancing with Myself",
+        "url": "https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 251309,
+      "name": "Dancing with Myself",
+      "url": "https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "This Land Is Your Land (From Bright: The Album)",
+        "url": "https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 154893,
+      "name": "This Land Is Your Land",
+      "url": "https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Flying High Again (feat. Cody Jinks)",
         "url": "https://open.spotify.com/album/2R6wzyBxtmJqJ279S3cBts"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 279056,
       "name": "Flying High Again (feat. Cody Jinks)",
       "url": "https://open.spotify.com/track/5VRYOiXSnh8d4VNdaafLPr"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "This Land Is Your Land (From Bright: The Album)",
-        "url": "https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 154893,
-      "name": "This Land Is Your Land",
-      "url": "https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Clay Pigeons",
+        "url": "https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Clay Pigeons",
+      "url": "https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
         "url": "https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 216546,
       "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
       "url": "https://open.spotify.com/track/32bfqEO7JcH2x0XFxVVVf0"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Clay Pigeons",
-        "url": "https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz"
-      },
-      "artists": [
-        {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Clay Pigeons",
-      "url": "https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Have You Ever Seen The Rain",
-        "url": "https://open.spotify.com/album/09HJ1H3SPXjlWqiZziB879"
-      },
-      "artists": [
-        {
-          "name": "Callista Clark",
-          "url": "https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm"
-        }
-      ],
-      "duration_ms": 176339,
-      "name": "Have You Ever Seen The Rain",
-      "url": "https://open.spotify.com/track/76LyXt6aLIIcRAlt0HdXwz"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "1979",
         "url": "https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 190813,
       "name": "Feathered Indians",
       "url": "https://open.spotify.com/track/2WRQB0pN5ddmTM8XgjqRHV"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Have You Ever Seen The Rain",
+        "url": "https://open.spotify.com/album/09HJ1H3SPXjlWqiZziB879"
+      },
+      "artists": [
+        {
+          "name": "Callista Clark",
+          "url": "https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm"
+        }
+      ],
+      "duration_ms": 176339,
+      "name": "Have You Ever Seen The Rain",
+      "url": "https://open.spotify.com/track/76LyXt6aLIIcRAlt0HdXwz"
     },
     {
       "added_at": "2024-11-08 05:00:00",

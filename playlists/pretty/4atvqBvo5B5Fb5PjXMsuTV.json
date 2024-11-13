@@ -1,13 +1,61 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 12 Nov 02:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 13 Nov 02:01 UTC.",
   "num_followers": 85,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAANQCwcyMrwL8DM278R3WDYo4gCswnV",
+  "snapshot_id": "AAANShF30A6nUmELizAJsmBn/xoB38nm",
   "tracks": [
+    {
+      "added_at": "2024-11-12 20:02:00",
+      "album": {
+        "name": "Star Signs",
+        "url": "https://open.spotify.com/album/3V9OWu0finGlIhiPkf2XUv"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 160629,
+      "name": "Star Signs",
+      "url": "https://open.spotify.com/track/21ZvC8aUTJIe5IBT34sLbG"
+    },
+    {
+      "added_at": "2024-11-12 08:02:09",
+      "album": {
+        "name": "El Mero Cero",
+        "url": "https://open.spotify.com/album/7tVA8yTAh6togtLGILdHhr"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 178722,
+      "name": "El Mero Cero",
+      "url": "https://open.spotify.com/track/2qGTMK4NlzXfdCZMWFrhWu"
+    },
+    {
+      "added_at": "2024-11-12 08:02:09",
+      "album": {
+        "name": "Long Gone",
+        "url": "https://open.spotify.com/album/7IyWrMFgNHZjbtSJhNn9cc"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "Long Gone",
+      "url": "https://open.spotify.com/track/1JqovbqNQa5deYzyNsy7nR"
+    },
     {
       "added_at": "2024-11-11 23:03:11",
       "album": {
@@ -35,6 +83,134 @@
       "duration_ms": 226777,
       "name": "Keep Pushing",
       "url": "https://open.spotify.com/track/1E7PjlgEcRsGB4oT6SNaYW"
+    },
+    {
+      "added_at": "2024-11-12 20:02:00",
+      "album": {
+        "name": "Crispy Skin",
+        "url": "https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "duration_ms": 379400,
+      "name": "Crispy Skin",
+      "url": "https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5"
+    },
+    {
+      "added_at": "2024-11-12 14:02:05",
+      "album": {
+        "name": "Free Smurk, BigEddie & Cam",
+        "url": "https://open.spotify.com/album/61MjAXWVlxg8NsASSwcKSy"
+      },
+      "artists": [
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        }
+      ],
+      "duration_ms": 194558,
+      "name": "Free Smurk, BigEddie & Cam",
+      "url": "https://open.spotify.com/track/3Gr7dbIvWFsiqrnyJWaFcC"
+    },
+    {
+      "added_at": "2024-11-12 17:02:02",
+      "album": {
+        "name": "The Laugh Is in the Eyes",
+        "url": "https://open.spotify.com/album/4dGlRIF8CjkOzHDxhZeyx2"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 275584,
+      "name": "The Laugh Is in the Eyes",
+      "url": "https://open.spotify.com/track/0rLaqmy7yVAJpysriTYmT1"
+    },
+    {
+      "added_at": "2024-11-12 08:02:09",
+      "album": {
+        "name": "Kanashibari",
+        "url": "https://open.spotify.com/album/2w3AKaPJs1x60ggseznHCy"
+      },
+      "artists": [
+        {
+          "name": "Within Destruction",
+          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
+        }
+      ],
+      "duration_ms": 210179,
+      "name": "Kanashibari",
+      "url": "https://open.spotify.com/track/30qUMRHx5DIDLgTul2ogFy"
+    },
+    {
+      "added_at": "2024-11-12 20:02:00",
+      "album": {
+        "name": "Drugstore Drastic",
+        "url": "https://open.spotify.com/album/1ka7z6LbeS9Te92ttZeyQO"
+      },
+      "artists": [
+        {
+          "name": "Throwing Muses",
+          "url": "https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4"
+        }
+      ],
+      "duration_ms": 207530,
+      "name": "Drugstore Drastic",
+      "url": "https://open.spotify.com/track/2Wj8waS9T1jcFYx97sW3pS"
+    },
+    {
+      "added_at": "2024-11-12 14:02:05",
+      "album": {
+        "name": "John on the Ceiling",
+        "url": "https://open.spotify.com/album/3nyceFRPsa3uKbY2i0oWTM"
+      },
+      "artists": [
+        {
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+        }
+      ],
+      "duration_ms": 218626,
+      "name": "John on the Ceiling",
+      "url": "https://open.spotify.com/track/2JiZW02xDHJkoI6LQm9uPR"
+    },
+    {
+      "added_at": "2024-11-12 08:02:09",
+      "album": {
+        "name": "Mile A Minute",
+        "url": "https://open.spotify.com/album/0Q4sb6SSenLenPbHFoZgpB"
+      },
+      "artists": [
+        {
+          "name": "Koyo",
+          "url": "https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9"
+        }
+      ],
+      "duration_ms": 234096,
+      "name": "Ten Digits Away - Deluxe",
+      "url": "https://open.spotify.com/track/7prs826yu72cFE8GJzp1uo"
+    },
+    {
+      "added_at": "2024-11-13 02:01:56",
+      "album": {
+        "name": "Found",
+        "url": "https://open.spotify.com/album/3bT5QXdb2v749mHriSXs7g"
+      },
+      "artists": [
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/2tN9oaZZPlCcJRnchNBqdf"
     },
     {
       "added_at": "2024-11-11 08:03:03",
@@ -149,6 +325,22 @@
       "url": "https://open.spotify.com/track/77YzQXREERjyTjahtKnjPS"
     },
     {
+      "added_at": "2024-11-12 20:02:00",
+      "album": {
+        "name": "Earworm",
+        "url": "https://open.spotify.com/album/39zC1s6fOY2MMYOpjRm4KK"
+      },
+      "artists": [
+        {
+          "name": "Savant",
+          "url": "https://open.spotify.com/artist/5RBdF1pJSLF3ugc2Y2PoB8"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Earworm",
+      "url": "https://open.spotify.com/track/4F01xpsjNKn2Ui2JEgFQJB"
+    },
+    {
       "added_at": "2024-11-11 05:03:06",
       "album": {
         "name": "Dareda?",
@@ -231,6 +423,30 @@
       "duration_ms": 266440,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/79hId72GmlSVZZHqq91M6U"
+    },
+    {
+      "added_at": "2024-11-12 14:02:05",
+      "album": {
+        "name": "MOJA WINA",
+        "url": "https://open.spotify.com/album/7IjX82nnhLPWUPh1il8B9x"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142y ATZ",
+          "url": "https://open.spotify.com/artist/1PKW5LFWjU0jJGK2dYS1IE"
+        },
+        {
+          "name": "UNDADASEA",
+          "url": "https://open.spotify.com/artist/6hZYddpRlNr42XnhZwcbgb"
+        },
+        {
+          "name": "Misza",
+          "url": "https://open.spotify.com/artist/2SYfs5oBqJPZaNtSEhlt4h"
+        }
+      ],
+      "duration_ms": 174676,
+      "name": "MOJA WINA",
+      "url": "https://open.spotify.com/track/5aFau6dtoRGG6M1QGSlA2Q"
     },
     {
       "added_at": "2024-11-09 11:02:26",
@@ -699,230 +915,6 @@
       "duration_ms": 228146,
       "name": "NO ICE",
       "url": "https://open.spotify.com/track/7jpJGaSJhEEwpX45SqFdXg"
-    },
-    {
-      "added_at": "2024-11-09 17:02:36",
-      "album": {
-        "name": "ghost inside a shadow",
-        "url": "https://open.spotify.com/album/1uu8MxAeoozl8tJaEjzJQ4"
-      },
-      "artists": [
-        {
-          "name": "Wifisfuneral",
-          "url": "https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV"
-        }
-      ],
-      "duration_ms": 130463,
-      "name": "ghost inside a shadow",
-      "url": "https://open.spotify.com/track/2dSZnykJ0zhSRJIt82rq2X"
-    },
-    {
-      "added_at": "2024-11-08 05:03:14",
-      "album": {
-        "name": "Certe bugie",
-        "url": "https://open.spotify.com/album/5lgdyo1ZiB1N7eNMyhcxZ3"
-      },
-      "artists": [
-        {
-          "name": "Nayt",
-          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "Certe bugie",
-      "url": "https://open.spotify.com/track/5AajFA0IrhC8Qp4wFS0IjV"
-    },
-    {
-      "added_at": "2024-11-08 11:02:48",
-      "album": {
-        "name": "Heaven Feels Like",
-        "url": "https://open.spotify.com/album/6b9FZARXpkujci1C3uzozn"
-      },
-      "artists": [
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
-        },
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "Heaven Feels Like",
-      "url": "https://open.spotify.com/track/0nSxiyRH74IpDiVdYLVjsv"
-    },
-    {
-      "added_at": "2024-11-08 08:02:43",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 232290,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v"
-    },
-    {
-      "added_at": "2024-11-08 05:03:14",
-      "album": {
-        "name": "good luck, stranger - \u9811\u5f35\u3063\u3066\u3001\u30b9\u30c8\u30ec\u30f3\u30b8\u30e3",
-        "url": "https://open.spotify.com/album/2cOvlKHVsGu5jwWE2453kl"
-      },
-      "artists": [
-        {
-          "name": "NateWantsToBattle",
-          "url": "https://open.spotify.com/artist/0Vb15td3iKkAzdGD5Sj9Ky"
-        },
-        {
-          "name": "Neito Han",
-          "url": "https://open.spotify.com/artist/4Y3rxFBx5prd3cAJiyZqVu"
-        }
-      ],
-      "duration_ms": 130320,
-      "name": "good luck, stranger - \u9811\u5f35\u3063\u3066\u3001\u30b9\u30c8\u30ec\u30f3\u30b8\u30e3",
-      "url": "https://open.spotify.com/track/7twgHsv32mIXDV4QhYeh0X"
-    },
-    {
-      "added_at": "2024-11-08 17:02:44",
-      "album": {
-        "name": "Christmas Day (Harp Visions)",
-        "url": "https://open.spotify.com/album/7f21zrYbDXQb8qNI0PT8vZ"
-      },
-      "artists": [
-        {
-          "name": "Bat For Lashes",
-          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
-        },
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 113346,
-      "name": "Christmas Day - Harp Visions",
-      "url": "https://open.spotify.com/track/02oJRWXTDKd3qklNrqBLdI"
-    },
-    {
-      "added_at": "2024-11-08 05:03:14",
-      "album": {
-        "name": "last night's mascara",
-        "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 177350,
-      "name": "last night's mascara",
-      "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
-    },
-    {
-      "added_at": "2024-11-08 05:03:14",
-      "album": {
-        "name": "New Sport",
-        "url": "https://open.spotify.com/album/26tr0TFxCiinhbEcNrlGiu"
-      },
-      "artists": [
-        {
-          "name": "Rizzle Kicks",
-          "url": "https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF"
-        }
-      ],
-      "duration_ms": 186320,
-      "name": "New Sport",
-      "url": "https://open.spotify.com/track/0usOlPnt5aAAmpkVCrVz67"
-    },
-    {
-      "added_at": "2024-11-08 08:02:43",
-      "album": {
-        "name": "Missin' Me Missin' You",
-        "url": "https://open.spotify.com/album/2l4JHk7D0lEV0Re533bzMe"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 160774,
-      "name": "Missin' Me Missin' You",
-      "url": "https://open.spotify.com/track/6ioFnr4tVGy4kHhyK2fOAw"
-    },
-    {
-      "added_at": "2024-11-08 14:02:43",
-      "album": {
-        "name": "seventeen",
-        "url": "https://open.spotify.com/album/1tzd5ftXur0C44WJA86auY"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 219266,
-      "name": "seventeen",
-      "url": "https://open.spotify.com/track/1wJUVM97tEquQtyuwmAE9B"
-    },
-    {
-      "added_at": "2024-11-08 05:03:14",
-      "album": {
-        "name": "WYA",
-        "url": "https://open.spotify.com/album/2R0ZoawSIxeykFOJqAmqrs"
-      },
-      "artists": [
-        {
-          "name": "Leah Kate",
-          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
-        },
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        }
-      ],
-      "duration_ms": 131124,
-      "name": "WYA",
-      "url": "https://open.spotify.com/track/19d6ySq61vARL7hayVuoWZ"
-    },
-    {
-      "added_at": "2024-11-08 05:03:14",
-      "album": {
-        "name": "HOODRAT",
-        "url": "https://open.spotify.com/album/4XWwHApX8SOxSPv59uAaTm"
-      },
-      "artists": [
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        }
-      ],
-      "duration_ms": 148645,
-      "name": "HOODRAT",
-      "url": "https://open.spotify.com/track/4XQxY73r8Mo65rDZI3htCJ"
-    },
-    {
-      "added_at": "2024-11-08 17:02:44",
-      "album": {
-        "name": "Take A Picture",
-        "url": "https://open.spotify.com/album/5DPvkZHGqus5zPLRcWyJ6K"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 336400,
-      "name": "Take A Picture",
-      "url": "https://open.spotify.com/track/1DeAGiPjHLeEVtDZbJYhwu"
     }
   ],
   "unique_name": "New Singles Now",

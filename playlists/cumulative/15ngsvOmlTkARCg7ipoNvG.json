@@ -21996,10 +21996,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 61602,
       "name": "Pluto Revisited - Cello Version",
       "url": "https://open.spotify.com/track/62hv4yEYfW8lSdDmqjm6Ej"
+    },
+    {
+      "album": {
+        "name": "Pluto Revisited",
+        "url": "https://open.spotify.com/album/0UXejMsrRkbzpsWmXnVoNb"
+      },
+      "artists": [
+        {
+          "name": "Harmony Night",
+          "url": "https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61165,
+      "name": "Pluto Revisited - Violin Version",
+      "url": "https://open.spotify.com/track/2igLl52XOM4Ybkl6rT5bpA"
     },
     {
       "album": {

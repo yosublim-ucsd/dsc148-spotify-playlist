@@ -2,26 +2,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 
 ### [Mooi Nederlands](https://open.spotify.com/playlist/37i9dQZF1DXdaeKeYefGeI)
 
-> Wat kan het Nederlands toch mooi zijn\. Cover: Ernst Jansz
+> Wat kan het Nederlands toch mooi zijn\. Cover: Wende
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,185 likes - 70 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,201 likes - 70 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Er Is Een Lied Geschreven](https://open.spotify.com/track/2haBhftcHLtjso0v2ZhTgy) | [Ernst Jansz](https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92) | [Er Is Een Lied Geschreven](https://open.spotify.com/album/1MsOrf7YjeIIFLfbUThuWf) | 3:07 |
-| 2 | [Door De Wind](https://open.spotify.com/track/58trym7xUwRuXnBY7hKqC9) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Beste Zangers Seizoen 2020 \(Miss Montreal\)](https://open.spotify.com/album/51TTjYKKpHX2zlaRejnpaS) | 2:50 |
-| 3 | [Liefde Van Later](https://open.spotify.com/track/06IedMIA8r8jSgWzGcW6o5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 4:12 |
-| 4 | [Vraag](https://open.spotify.com/track/2sE1jPiettUbErPUZZCLgI) | [Geejee](https://open.spotify.com/artist/2jysfxpRRcfGOxuhSFV5CH) | [Eigenlijk](https://open.spotify.com/album/5NFhfDJdvvY2F1OyF6HYNl) | 3:03 |
+| 1 | [Het Is Genoeg](https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Vrijplaats](https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq) | 3:53 |
+| 2 | [Vraag](https://open.spotify.com/track/2sE1jPiettUbErPUZZCLgI) | [Geejee](https://open.spotify.com/artist/2jysfxpRRcfGOxuhSFV5CH) | [Eigenlijk](https://open.spotify.com/album/5NFhfDJdvvY2F1OyF6HYNl) | 3:03 |
+| 3 | [Door De Wind](https://open.spotify.com/track/58trym7xUwRuXnBY7hKqC9) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Beste Zangers Seizoen 2020 \(Miss Montreal\)](https://open.spotify.com/album/51TTjYKKpHX2zlaRejnpaS) | 2:50 |
+| 4 | [Liefde Van Later](https://open.spotify.com/track/06IedMIA8r8jSgWzGcW6o5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 4:12 |
 | 5 | [Vaderdag \(deel 2\)](https://open.spotify.com/track/34ihQUWfBW2pI0fVruWhkF) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Vaderdag \(deel 2\)](https://open.spotify.com/album/3SA3Wh7wmIS8K3xUtzVIUD) | 3:18 |
-| 6 | [Dat heb jij gedaan](https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1) | 3:31 |
-| 7 | [6 Ballonnen](https://open.spotify.com/track/6XVsIYpztiNeakFrzMSD9R) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [drift](https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y) | 3:49 |
-| 8 | [Ik Was Amper 16 Jaar](https://open.spotify.com/track/11COH0WOgKJiFQBmJiqTU4) | [André van Duin](https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF) | [Ik Was Amper 16 Jaar](https://open.spotify.com/album/0v6neXuDhCvbs0OQmABhvA) | 3:18 |
+| 6 | [Er Is Een Lied Geschreven](https://open.spotify.com/track/2haBhftcHLtjso0v2ZhTgy) | [Ernst Jansz](https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92) | [Er Is Een Lied Geschreven](https://open.spotify.com/album/1MsOrf7YjeIIFLfbUThuWf) | 3:07 |
+| 7 | [Dat heb jij gedaan](https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1) | 3:31 |
+| 8 | [6 Ballonnen](https://open.spotify.com/track/6XVsIYpztiNeakFrzMSD9R) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [drift](https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y) | 3:49 |
 | 9 | [Het Geluid Van Stilte](https://open.spotify.com/track/4Gc4IS0KIKC64MYOZqkL9V) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Boudewijn De Groot](https://open.spotify.com/album/6RWqHflqY4Y5AFmSfvVOiG) | 2:59 |
-| 10 | [Lindeboom](https://open.spotify.com/track/3XEMH6bcN5yI3ALWRwyfcq) | [Brent Beukelaer](https://open.spotify.com/artist/1Ngq1CTE4lYGXg2OBWfhVg) | [Ramen Als Ogen](https://open.spotify.com/album/3aMPLrQQ4vk5VaQie7Pjmj) | 4:09 |
-| 11 | [Alle Tijd \- met strijkkwartet](https://open.spotify.com/track/4qMCB0CBcOx3iAVabVgDxm) | [Stephanie Struijk](https://open.spotify.com/artist/2D2KkoPYCe9SDUQwp6G8ff) | [Alle Tijd \(met strijkkwartet\)](https://open.spotify.com/album/598oGC430zLkUlXltaXLgq) | 3:12 |
-| 12 | [Boze Wolven](https://open.spotify.com/track/2b0qtpy1kAISyhpGTOfj25) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Boze Wolven](https://open.spotify.com/album/1Cqk1oec5jI5pZA5zR265q) | 3:39 |
-| 13 | [Liefde Van Later](https://open.spotify.com/track/2x7ltK4hyYsRUALOqlKFk7) | [Paskal Jakobsen](https://open.spotify.com/artist/22shUi37uDfZmZQ8H6YuWr) | [Liefde Van Later](https://open.spotify.com/album/1vA8Pw95YH4zNCxOPaM1Zm) | 4:43 |
-| 14 | [Het Is Genoeg](https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Vrijplaats](https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq) | 3:53 |
+| 10 | [Ik Was Amper 16 Jaar](https://open.spotify.com/track/11COH0WOgKJiFQBmJiqTU4) | [André van Duin](https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF) | [Ik Was Amper 16 Jaar](https://open.spotify.com/album/0v6neXuDhCvbs0OQmABhvA) | 3:18 |
+| 11 | [Lindeboom](https://open.spotify.com/track/3XEMH6bcN5yI3ALWRwyfcq) | [Brent Beukelaer](https://open.spotify.com/artist/1Ngq1CTE4lYGXg2OBWfhVg) | [Ramen Als Ogen](https://open.spotify.com/album/3aMPLrQQ4vk5VaQie7Pjmj) | 4:09 |
+| 12 | [Alle Tijd \- met strijkkwartet](https://open.spotify.com/track/4qMCB0CBcOx3iAVabVgDxm) | [Stephanie Struijk](https://open.spotify.com/artist/2D2KkoPYCe9SDUQwp6G8ff) | [Alle Tijd \(met strijkkwartet\)](https://open.spotify.com/album/598oGC430zLkUlXltaXLgq) | 3:12 |
+| 13 | [Boze Wolven](https://open.spotify.com/track/2b0qtpy1kAISyhpGTOfj25) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Boze Wolven](https://open.spotify.com/album/1Cqk1oec5jI5pZA5zR265q) | 3:39 |
+| 14 | [Liefde Van Later](https://open.spotify.com/track/2x7ltK4hyYsRUALOqlKFk7) | [Paskal Jakobsen](https://open.spotify.com/artist/22shUi37uDfZmZQ8H6YuWr) | [Liefde Van Later](https://open.spotify.com/album/1vA8Pw95YH4zNCxOPaM1Zm) | 4:43 |
 | 15 | [Dan ben jij weer hier \(feat\. Red Limo Quartet\)](https://open.spotify.com/track/6ec3NKQLnV7LcV319qvHan) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV), [Red Limo Quartet](https://open.spotify.com/artist/2rdJcBg2tEvmo0lVpYDizQ) | [Dan ben jij weer hier \(feat\. Red Limo Quartet\)](https://open.spotify.com/album/2ROH24w8CUD7bAUQ66nRSK) | 4:40 |
 | 16 | [Vanmorgen Vloog Ze Nog](https://open.spotify.com/track/2WZBD5MI3pVaKIweuZj5pc) | [Robert Long](https://open.spotify.com/artist/4e345XgeCOfD96TnOVhH7f), [Martine Bijl](https://open.spotify.com/artist/5ayboLANPe5lXssiZopVb8), [Simone Kleinsma](https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0), [Robert Paul](https://open.spotify.com/artist/0esNt1hWsO271oogWw8c2o) | [Tsjechov \- De Musical Van Dimitri Frenkel Frank En Robert Lo](https://open.spotify.com/album/5bsv5G1wExKRiRGcu2emUl) | 5:06 |
 | 17 | [Nu jij dan bent geboren](https://open.spotify.com/track/441HNWL3Vau3QAL9XHMeiw) | [Ernst Jansz](https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92) | [Een liefdeslied](https://open.spotify.com/album/5O1U8qlqnJ1jyK4guAmsOn) | 4:11 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 | 69 | [Geen Kind Meer](https://open.spotify.com/track/4ZMBna8ky5JR1gocyYCiML) | [Karin Bloemen](https://open.spotify.com/artist/7CKdAdmSeZxUgSZqugSkKx) | [Kameleon](https://open.spotify.com/album/7bEv36tsd3IBSvP4TJRDpA) | 4:23 |
 | 70 | [Kronenburg Park](https://open.spotify.com/track/5l0mUA4hwewx7cj8KzBGGE) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Foto Van Een Mooie Dag](https://open.spotify.com/album/69JWMizDVll3nRlU7YIEEF) | 4:03 |
 
-Snapshot ID: `Zy1GcAAAAABr53EhV1Q43BRCMuQyE2wW`
+Snapshot ID: `ZzMWuwAAAABWv0hooj3t+CPvvDYZ5NQk`

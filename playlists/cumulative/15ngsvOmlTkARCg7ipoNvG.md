@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,834 songs - 1 day 13 hr 39 min
+1,835 songs - 1 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1226,7 +1226,8 @@
 | [Placidity](https://open.spotify.com/track/0EgNQMcsugDTktpBe6XrGP) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Piano for Peaceful Retreat](https://open.spotify.com/album/6hHnu99nMMCbxNZXe8OeHH) | 3:49 | 2022-01-12 | 2024-02-13 |
 | [Pleasant Thoughts](https://open.spotify.com/track/12ui14mO6tnHV6jTkMo9Lz) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Connection](https://open.spotify.com/album/0Q6C4bH216tRRiee56rBWa) | 1:23 | 2022-01-20 | 2024-01-30 |
 | [Pluto](https://open.spotify.com/track/2eHV2ifdM8FAtWbEklUUbS) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [The Planets](https://open.spotify.com/album/7ljRCBTVAkXyyDmZ2qNOgT) | 1:11 | 2022-01-12 |  |
-| [Pluto Revisited \- Cello Version](https://open.spotify.com/track/62hv4yEYfW8lSdDmqjm6Ej) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Pluto Revisited](https://open.spotify.com/album/0UXejMsrRkbzpsWmXnVoNb) | 1:01 | 2024-02-09 | 2024-02-13 |
+| [Pluto Revisited \- Cello Version](https://open.spotify.com/track/62hv4yEYfW8lSdDmqjm6Ej) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Pluto Revisited](https://open.spotify.com/album/0UXejMsrRkbzpsWmXnVoNb) | 1:01 | 2024-02-09 |  |
+| [Pluto Revisited \- Violin Version](https://open.spotify.com/track/2igLl52XOM4Ybkl6rT5bpA) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Pluto Revisited](https://open.spotify.com/album/0UXejMsrRkbzpsWmXnVoNb) | 1:01 | 2024-11-12 |  |
 | [Poetry In The Sky \- Strings Version](https://open.spotify.com/track/1g1Nypwzsl3IORvIXoHrQd) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [In The Sky](https://open.spotify.com/album/108Ne03biolnIT539PYFaT) | 1:11 | 2024-02-09 | 2024-02-13 |
 | [Possibilities \- Cello And Rain Version](https://open.spotify.com/track/01HSuPqdzBU5oi2NZ58kIj) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Possibilities \(Cello And Rain Version\)](https://open.spotify.com/album/5x7cCk8kyPlNkkycDXds3U) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Possibilities \- Cello Version](https://open.spotify.com/track/1LN8mfOvwiaCyrx66giosv) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Possibilities](https://open.spotify.com/album/4UDDOyBMoxYNTfkaUvzqj3) | 1:01 | 2024-02-09 | 2024-02-13 |

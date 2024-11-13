@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español\. Foto: Kapo, Manuel Turizo
 
-588 songs - 1 day 5 hr 28 min
+591 songs - 1 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Caigo \(Stumblin' In\)](https://open.spotify.com/track/0BFVoZViKatuNpRthpxIUP) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Essa Gante](https://open.spotify.com/artist/3dYgPy7idZRW4mnP9P05aK) | [Caigo \(Stumblin' In\)](https://open.spotify.com/album/6DZLdaSUl1uuhGTd4WAhe3) | 3:28 | 2024-09-30 | 2024-10-22 |
 | [Calor](https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Calor](https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8) | 3:20 | 2023-08-31 | 2024-02-16 |
 | [Campeón](https://open.spotify.com/track/4nOq3daqKP7XXSDckP6zyS) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Campeón](https://open.spotify.com/album/1upIoTXyEpfmtNVsTfBure) | 2:34 | 2023-05-22 | 2023-06-13 |
+| [Canalla](https://open.spotify.com/track/0UEGkBGiQRyjqgbWypHN2n) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Canalla](https://open.spotify.com/album/6ZIMuzMVOnHqaXFkTqHN5g) | 3:05 | 2024-11-12 |  |
 | [Canción de pop](https://open.spotify.com/track/3rnQohmD9nBKD6mMX6QQJD) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [Canción de pop](https://open.spotify.com/album/0GonIhSgK1AuasYbr8xbYH) | 2:19 | 2023-06-12 | 2023-11-14 |
 | [Cansado de estar triste](https://open.spotify.com/track/0KhvJklV4bqAuXwFLEEX3x) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Cansado de estar triste](https://open.spotify.com/album/65JzMj5NQD539KQ0FzGBU2) | 2:55 | 2023-04-17 | 2023-05-04 |
 | [Cardenal Cisneros](https://open.spotify.com/track/5O4mnBvus90sZA1g5IMFXE) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Cardenal Cisneros](https://open.spotify.com/album/6RBKGZxneqj8Ygzpn7POMc) | 4:12 | 2023-11-28 | 2023-12-12 |
@@ -243,6 +244,7 @@
 | [I Miss You](https://open.spotify.com/track/65oSp7rdpLddlRGUgogU24) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [I Miss You](https://open.spotify.com/album/6izmkq2r6t3yT7mCvSHQQ0) | 2:53 | 2024-10-21 |  |
 | [Ibiza](https://open.spotify.com/track/5YpDCc4c7XCcJ3Pj9kd7r8) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Ibiza](https://open.spotify.com/album/7IySKrXiQULxSpJYy9eYgX) | 2:59 | 2023-05-03 | 2023-09-26 |
 | [Igual Que Un Ángel \(with Peso Pluma\)](https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 4:20 | 2024-01-11 | 2024-01-19 |
+| [Imagínate](https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Imagínate](https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8) | 2:50 | 2024-11-12 |  |
 | [IMAN \(Two Of Us\)](https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [IMAN \(Two Of Us\)](https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb) | 2:02 | 2024-05-20 | 2024-06-04 |
 | [Inmortal](https://open.spotify.com/track/2Xkxoluz9GQnQYAjxXImGG) | [Malmö 040](https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP) | [Los Cobardes Viven Siempre](https://open.spotify.com/album/3XlG8WaWzdjhDXuaRmOlaC) | 3:35 | 2023-03-13 | 2023-03-25 |
 | [INSOMNIO](https://open.spotify.com/track/2LnUHC7HB5n5e5LzHxQuJi) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [INSOMNIO](https://open.spotify.com/album/5uMSlAYTRCqjqGP32e30pC) | 3:38 | 2024-08-12 |  |
@@ -558,6 +560,7 @@
 | [ULTRAVIOLETA](https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:41 | 2023-04-13 | 2023-04-26 |
 | [Un Beso a Mi Crush](https://open.spotify.com/track/2VdPyembKc89MgImIVcQyl) | [Orión](https://open.spotify.com/artist/1QOKIsJjvDd9sHkSj96fI3) | [Un Beso a Mi Crush](https://open.spotify.com/album/2qSa8URXgIcrt3AeDnB7eO) | 3:31 | 2023-03-21 | 2023-04-04 |
 | [Un Clásico](https://open.spotify.com/track/1U6oVlu9LhCCj7mRfsomDp) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Un Clásico](https://open.spotify.com/album/5LIYLxHtGfeJkFJjfePMo0) | 2:52 | 2023-03-13 | 2023-08-15 |
+| [UN DOMINGO TRISTE VOL\. I](https://open.spotify.com/track/0hQyAxsrOqM4xsJRtEjEiE) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [UN DOMINGO TRISTE VOL\. I](https://open.spotify.com/album/7FchlNKxp2sLkOa7GNyazu) | 2:37 | 2024-11-12 |  |
 | [Un millón de locuras](https://open.spotify.com/track/4lLbBQWUqnWsxAiT1FcY6Z) | [Dellacruz](https://open.spotify.com/artist/1SQBmAQTSx9Zj9uyM3c3qW), [Pepe Bernabé](https://open.spotify.com/artist/1CatgsvZ6RfKSHiwyqPZ32), [Tatiana Delalvz](https://open.spotify.com/artist/4rFr57FRQgkd7FSwvQxBNP) | [Un millón de locuras](https://open.spotify.com/album/71XshjyIez0R36caojRrIL) | 3:15 | 2023-03-21 | 2023-04-18 |
 | [Un Momento](https://open.spotify.com/track/5Gp3koyDVex3ocaWA78Dni) | [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Un Momento](https://open.spotify.com/album/4tssRvycB6QesAFRpzMS0a) | 2:21 | 2023-09-18 | 2023-10-17 |
 | [Un Rato pa Siempre](https://open.spotify.com/track/3rEBrW8QTAq0lZiZX8LNBL) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [Un Rato pa Siempre](https://open.spotify.com/album/6VkLEGEcb8GBrHPbpVC21m) | 2:43 | 2023-07-17 | 2024-01-09 |

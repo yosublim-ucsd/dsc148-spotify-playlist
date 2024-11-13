@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0vazKoFv2TDrHUfBarjJ0n">Boy Blue</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44 likes - 47 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 44 likes - 48 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,14 +46,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPmzCqY925Cm.md) - [plain]
 | 36 | [Psychopath](https://open.spotify.com/track/5dODr3iRHeaaHb2bx2j8O5) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [MY MASOCHISTIC MIND](https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt) | 3:00 |
 | 37 | [Bounce It](https://open.spotify.com/track/6VGCWfHwYWG6M165U4KKgw) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Bounce It](https://open.spotify.com/album/64MdNVoHUIU6aKRXViwTx5) | 2:10 |
 | 38 | [Start Again](https://open.spotify.com/track/5At7gSpB6XBsnEnyK8c7TN) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4), [Wish I Was](https://open.spotify.com/artist/4VbviNI348014tlDIHdL33), [Brennley Brown](https://open.spotify.com/artist/4NNo3cmxrg4Z4ROBXfuEf8) | [Start Again](https://open.spotify.com/album/0ScC02LEXO2Cvf5sCaRe0c) | 3:01 |
-| 39 | [never goes down like that \(ft\. Ezekiel\)](https://open.spotify.com/track/2kwuHsLUrCCFDxPwOu1b11) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr), [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [never goes down like that \(ft\. Ezekiel\)](https://open.spotify.com/album/603LFBRrrCMiwfQlBaQNwl) | 2:15 |
-| 40 | [Olé](https://open.spotify.com/track/6yIZtAcmvCraPlmh0f1hwG) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Olé](https://open.spotify.com/album/5zUfNmpkyRgjOGRex63arR) | 2:22 |
-| 41 | [Do It](https://open.spotify.com/track/66FcNBFB1rh6sXgFR1YkfG) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Cheques ‘n’ Respect](https://open.spotify.com/album/1xWKjBPJnX1rxnIRoFKG3p) | 1:51 |
-| 42 | [I Can't Be Sad](https://open.spotify.com/track/0pXkLZoYe43k0ZDQSYm3YA) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [I Can't Be Sad](https://open.spotify.com/album/7631gVK7n6wyEWQnsNSHHu) | 2:19 |
-| 43 | [Go Crazy](https://open.spotify.com/track/4RBCfqM0kITfgZDCMbfUDb) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Cheques ‘n’ Respect](https://open.spotify.com/album/1xWKjBPJnX1rxnIRoFKG3p) | 2:44 |
-| 44 | [CATMAN](https://open.spotify.com/track/3bOROMrockT8lnUTkNpyes) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [CATMAN](https://open.spotify.com/album/2Hw0EziKCpVRDVqMzhpidf) | 3:01 |
-| 45 | [Keep It Moving](https://open.spotify.com/track/1snB7DZSDXs8FizxMf9Z6T) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Cheques ‘n’ Respect](https://open.spotify.com/album/1xWKjBPJnX1rxnIRoFKG3p) | 2:09 |
-| 46 | [Nerve](https://open.spotify.com/track/7i2byKvq0t1ZFM2gRF08gM) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4), [Geena Fontanella](https://open.spotify.com/artist/10wiqOOU6bWDY4TavxRO42) | [Nerve](https://open.spotify.com/album/3zt0WesxwZxCUdvhF2EavU) | 2:48 |
-| 47 | [make u miss me](https://open.spotify.com/track/5NZGTvM5SYxifaJIMz3XZI) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [make u miss me](https://open.spotify.com/album/0USpfZlo9OlFDkNy9cgFR8) | 3:08 |
+| 39 | [boyfriends/girlfriends](https://open.spotify.com/track/6pnGJhKuluYoxJMuJwuhy0) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [i really like being here](https://open.spotify.com/album/37CgwpUsINEYuVPdYG9Ub1) | 2:42 |
+| 40 | [never goes down like that \(ft\. Ezekiel\)](https://open.spotify.com/track/2kwuHsLUrCCFDxPwOu1b11) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr), [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [never goes down like that \(ft\. Ezekiel\)](https://open.spotify.com/album/603LFBRrrCMiwfQlBaQNwl) | 2:15 |
+| 41 | [Olé](https://open.spotify.com/track/6yIZtAcmvCraPlmh0f1hwG) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Olé](https://open.spotify.com/album/5zUfNmpkyRgjOGRex63arR) | 2:22 |
+| 42 | [Do It](https://open.spotify.com/track/66FcNBFB1rh6sXgFR1YkfG) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Cheques ‘n’ Respect](https://open.spotify.com/album/1xWKjBPJnX1rxnIRoFKG3p) | 1:51 |
+| 43 | [I Can't Be Sad](https://open.spotify.com/track/0pXkLZoYe43k0ZDQSYm3YA) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [I Can't Be Sad](https://open.spotify.com/album/7631gVK7n6wyEWQnsNSHHu) | 2:19 |
+| 44 | [Go Crazy](https://open.spotify.com/track/4RBCfqM0kITfgZDCMbfUDb) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Cheques ‘n’ Respect](https://open.spotify.com/album/1xWKjBPJnX1rxnIRoFKG3p) | 2:44 |
+| 45 | [CATMAN](https://open.spotify.com/track/3bOROMrockT8lnUTkNpyes) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [CATMAN](https://open.spotify.com/album/2Hw0EziKCpVRDVqMzhpidf) | 3:01 |
+| 46 | [Keep It Moving](https://open.spotify.com/track/1snB7DZSDXs8FizxMf9Z6T) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Cheques ‘n’ Respect](https://open.spotify.com/album/1xWKjBPJnX1rxnIRoFKG3p) | 2:09 |
+| 47 | [Nerve](https://open.spotify.com/track/7i2byKvq0t1ZFM2gRF08gM) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4), [Geena Fontanella](https://open.spotify.com/artist/10wiqOOU6bWDY4TavxRO42) | [Nerve](https://open.spotify.com/album/3zt0WesxwZxCUdvhF2EavU) | 2:48 |
+| 48 | [make u miss me](https://open.spotify.com/track/5NZGTvM5SYxifaJIMz3XZI) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [make u miss me](https://open.spotify.com/album/0USpfZlo9OlFDkNy9cgFR8) | 3:08 |
 
-Snapshot ID: `AbhQHgAAAABcnpcFFdX0YAKiLq6b9Tay`
+Snapshot ID: `AbhVvgAAAACMPoWJtpDu84QX57V23PQb`

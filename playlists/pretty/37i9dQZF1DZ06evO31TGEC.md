@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 
 > This is El Chapo De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,235 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,245 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 49 | [De Cristal O De Papel](https://open.spotify.com/track/0Jj7P3kjgJ96iU1NvcPPde) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Te Va A Gustar](https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU) | 3:10 |
 | 50 | [Celoso](https://open.spotify.com/track/5MFfc5NY6gN8dBhGJXTrlX) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t), [LUCKY RICH](https://open.spotify.com/artist/0POO98DJpZXkFVDQSygyRf) | [Celoso](https://open.spotify.com/album/1KAhDlBrljisYzGlu8xa5U) | 3:00 |
 
-Snapshot ID: `Zy/3gAAAAAD63WZOCmDALOwCQ/ft+enz`
+Snapshot ID: `ZzFJAAAAAABWqGRPM1Lye8bMIGQh8kko`

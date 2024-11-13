@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of tech house ⛏️⛏️  with Michael Bibi
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,478 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,662 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 87 | [I Am Somebody](https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [I Am Somebody](https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv) | 6:57 |
 | 88 | [Origins \- 3AM Tusi Mix](https://open.spotify.com/track/6OCycJBRIG7ItttiTWlWQr) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Harvy Valencia](https://open.spotify.com/artist/0pgx8lzqNK3ywq4WWvaIO4) | [Origins EP](https://open.spotify.com/album/3tManJXRjY1UCJVXb7QTYN) | 3:56 |
 | 89 | [Don't Need You](https://open.spotify.com/track/6xPppH1jLltk5L7HBN1srb) | [Archie Hamilton](https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv) | [Don't Need You](https://open.spotify.com/album/0PPkYyY12AtX7YeI4N0xuX) | 3:09 |
-| 90 | [Bass Go Boom \- Collier Remix](https://open.spotify.com/track/1nTHK6Qln7sWicfmlhMUe7) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Collier](https://open.spotify.com/artist/44KWTN5dWQd0oAzu1p5xCj) | [Bass Go Boom \(Collier Remix\)](https://open.spotify.com/album/7jDzqqtw3O7q33iLA7LhlH) | 2:48 |
-| 91 | [How the Story Goes](https://open.spotify.com/track/76tzY5YVsAa8kKEVdr1ZI8) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [How the Story Goes](https://open.spotify.com/album/1sRsh8lpMEwq9OXmSkcxiE) | 3:04 |
+| 90 | [How the Story Goes](https://open.spotify.com/track/76tzY5YVsAa8kKEVdr1ZI8) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [How the Story Goes](https://open.spotify.com/album/1sRsh8lpMEwq9OXmSkcxiE) | 3:04 |
+| 91 | [Bass Go Boom \- Collier Remix](https://open.spotify.com/track/1nTHK6Qln7sWicfmlhMUe7) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Collier](https://open.spotify.com/artist/44KWTN5dWQd0oAzu1p5xCj) | [Bass Go Boom \(Collier Remix\)](https://open.spotify.com/album/7jDzqqtw3O7q33iLA7LhlH) | 2:48 |
 | 92 | [ROCK THIS](https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV) | [Sergio Saffe](https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT) | [ROCK THIS](https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE) | 3:24 |
 | 93 | [SIMPLE ONE](https://open.spotify.com/track/7IfSrPPESiPzPDwHBllPVf) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [SIMPLE ONE](https://open.spotify.com/album/6JD65vVCXYIbdc6LAp4EGV) | 3:56 |
 | 94 | [Wake Up](https://open.spotify.com/track/6QtKYHsFWJvBUBmoxHabsD) | [Bastian Bux](https://open.spotify.com/artist/6K6JhQaED2RUjMyhBtR9eD), [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [Wake Up](https://open.spotify.com/album/25f1FggBA5ONTSmjJGTvxf) | 3:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XGAZS8f0X7.md) - [plain]
 
 > <a href="spotify:genre:0JQ5DAqbMKFER3phdsNMHT">Casa Spotify</a> is coming to Miami on November 12!
 
-[Spotify](https://open.spotify.com/user/spotify) - 215 likes - 125 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 235 likes - 125 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

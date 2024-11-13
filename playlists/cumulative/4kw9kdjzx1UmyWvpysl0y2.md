@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-858 songs - 2 day 0 hr 51 min
+859 songs - 2 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Arcus](https://open.spotify.com/track/4R7b39fZnotCrzV2CTQTvC) | [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Feathervane](https://open.spotify.com/artist/7j32fTp3oaXsRUmnIQixaX) | [Nimbus](https://open.spotify.com/album/48HBe77kw2NQ0s5ohCCRyx) | 3:59 | 2022-11-14 | 2022-11-16 |
 | [Arise](https://open.spotify.com/track/5sYFhAc4iVN7qEXgEK0Bhf) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4) | [Arise](https://open.spotify.com/album/27XE3ZqaYVHk90dFLDJMLv) | 3:16 | 2022-08-03 | 2022-10-19 |
 | [Arms Race](https://open.spotify.com/track/7eHBCHw9oLRYv2zlSDdY9Q) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Arms Race](https://open.spotify.com/album/08McMk6ovWxi4Ww51wARoZ) | 3:59 | 2022-01-18 | 2022-03-26 |
-| [Around Me](https://open.spotify.com/track/6US34V1ml2fkN33kPzu5Ut) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF) | [Around Me](https://open.spotify.com/album/6Rn2V0wlOJgl7h4CdLCBci) | 3:18 | 2024-08-20 |  |
+| [Around Me](https://open.spotify.com/track/6US34V1ml2fkN33kPzu5Ut) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF) | [Around Me](https://open.spotify.com/album/6Rn2V0wlOJgl7h4CdLCBci) | 3:18 | 2024-08-20 | 2024-11-13 |
 | [Around You](https://open.spotify.com/track/54EKXaigl9tDnVZINeLKtO) | [Eminence](https://open.spotify.com/artist/1hHhlYmo4C03IoCJ7RnpS2), [Weston & Teston](https://open.spotify.com/artist/29Ao31axAkL4n3L5OEbFpA) | [Around You](https://open.spotify.com/album/4ywO9E6gyjRuFUBa2FenKj) | 3:09 | 2022-11-29 | 2023-02-24 |
 | [As I Wander](https://open.spotify.com/track/4z9xtib1MazaujgJmSBxUB) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL) | [As I Wander](https://open.spotify.com/album/4vimkzGnMvAaGc1eqtzx2u) | 2:48 | 2022-03-16 | 2022-05-28 |
 | [Assassins](https://open.spotify.com/track/7fUtz2v6funYLn8G1W8TdD) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [Asketa](https://open.spotify.com/artist/2rJlTPC0ClcoQmNWci4C03) | [Assassins](https://open.spotify.com/album/2AQN1Enb8Sj4GXPQe3LnpK) | 2:54 | 2024-08-28 |  |
@@ -137,6 +137,7 @@
 | [CINEMA](https://open.spotify.com/track/1KUlGcqkfUjnoTL20bhtPr) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [CINEMA](https://open.spotify.com/album/4fqBn6j0jf2eLaBhZwA1dp) | 3:08 | 2022-03-14 | 2022-05-26 |
 | [CINEMA \- Fame & Fortune VIP](https://open.spotify.com/track/2MTgMyZGPnxdA4YOg3oE7w) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [CINEMA \(incl\. Fame & Fortune VIP\)](https://open.spotify.com/album/1H0JMgsdaYfxkn5n4rDkIf) | 2:14 | 2022-08-22 | 2022-11-01 |
 | [Cirrus](https://open.spotify.com/track/5ckFfWq62GHZVuhQiilShT) | [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA) | [Nimbus](https://open.spotify.com/album/48HBe77kw2NQ0s5ohCCRyx) | 3:24 | 2022-11-14 | 2022-11-16 |
+| [Cityscape](https://open.spotify.com/track/3djes6FzZxMlssxLbMCdVx) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [Cityscape](https://open.spotify.com/album/0Q5hFiuIYsMw6nwNrln6xP) | 2:47 | 2024-11-12 |  |
 | [Closer](https://open.spotify.com/track/0dl1KPentnYfyXSQnK1eUD) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Closer](https://open.spotify.com/album/0lqnYWgBm6wxmvTPwwjduy) | 3:38 | 2021-11-19 | 2022-02-16 |
 | [Coast](https://open.spotify.com/track/5Fcr8cxJhB5lzigrAO6zy3) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [miksklim](https://open.spotify.com/artist/1PQT3gGx4JUciQyvvJUeVz) | [Coast / Together](https://open.spotify.com/album/7k8M4tm1mp1DfdVTcTtItQ) | 3:32 | 2022-08-26 | 2022-11-01 |
 | [CODES](https://open.spotify.com/track/7HNsbDFhZhs2qhEjC2W3om) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Macntaj](https://open.spotify.com/artist/0erl2oe9fDqYo37ueBiG8K) | [CODES](https://open.spotify.com/album/1VNGWcGNCBkUGFyFiC0Kdj) | 2:31 | 2022-11-03 | 2023-01-27 |
@@ -354,7 +355,7 @@
 | [Horizon](https://open.spotify.com/track/6C2RhafaJZZ8kKN9ExyLlp) | [Odsen](https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V), [Katrine Stenbekk](https://open.spotify.com/artist/6Nxgeg0RW2lIaU35QlmJpo) | [Horizon](https://open.spotify.com/album/2ogg97CuneZYdfjrDLqx8S) | 4:15 | 2022-02-11 | 2022-04-22 |
 | [HOT SHOT](https://open.spotify.com/track/3W4Kg9woGNvTG0TpR9gJs2) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [HOT SHOT](https://open.spotify.com/album/3RK2td9YkPkFCiFvKHmXwQ) | 3:47 | 2024-05-17 | 2024-08-14 |
 | [Hypnosis](https://open.spotify.com/track/2Gcufl4PVGv384tmFpi6QS) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Hypnosis](https://open.spotify.com/album/0i4UodNeG7dNTr0QfjoDPE) | 3:18 | 2024-02-14 | 2024-05-07 |
-| [I AM A GOD](https://open.spotify.com/track/25v3NCfgs0QGwcZ4cekGhg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [I AM A GOD](https://open.spotify.com/album/6IQ6Bt4HuUqE8MXZS9hwMk) | 2:08 | 2024-08-21 |  |
+| [I AM A GOD](https://open.spotify.com/track/25v3NCfgs0QGwcZ4cekGhg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [I AM A GOD](https://open.spotify.com/album/6IQ6Bt4HuUqE8MXZS9hwMk) | 2:08 | 2024-08-21 | 2024-11-13 |
 | [i can feel your eyes on me](https://open.spotify.com/track/3R1lKIXCkHnzKvHkBtdRhP) | [Scarr.](https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV), [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [this feeling that never ends](https://open.spotify.com/album/3PKuwfjGrZmyjcPykCLjJv) | 2:23 | 2022-12-03 | 2023-02-25 |
 | [I Don't Mind](https://open.spotify.com/track/1qZaxI41cw3Px4UpJlB5CU) | [Angara](https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3) | [I Don't Mind](https://open.spotify.com/album/4gMm64L99dgOqHqHiBxjyb) | 3:33 | 2024-06-04 | 2024-08-27 |
 | [I Don't Really Care](https://open.spotify.com/track/5JplqjpRscO4GlnXGhSqNd) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Neville](https://open.spotify.com/artist/2gt9YfYa9tUbY9grQKYwi1) | [I Don't Really Care](https://open.spotify.com/album/1xaNQmsdY7M9X4DhcLSyy2) | 2:54 | 2022-04-29 | 2022-07-12 |

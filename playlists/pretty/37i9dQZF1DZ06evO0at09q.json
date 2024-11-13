@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy/3gAAAAAD7ZgRhX8TQein8USsa1js0",
+  "snapshot_id": "ZzFJAAAAAAB/2UOw/h+mQCGegH1NcAfC",
   "tracks": [
     {
       "added_at": null,
@@ -155,26 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dollar Stack",
-        "url": "https://open.spotify.com/album/23jIIMZiOL1ajReCPEYvMe"
-      },
-      "artists": [
-        {
-          "name": "Corrupt (UK)",
-          "url": "https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ"
-        },
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "Dollar Stack",
-      "url": "https://open.spotify.com/track/2KE6SIDlHjWBdKrnfZ3e9B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Modern Mechanics",
         "url": "https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD"
       },
@@ -195,6 +175,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dollar Stack",
+        "url": "https://open.spotify.com/album/23jIIMZiOL1ajReCPEYvMe"
+      },
+      "artists": [
+        {
+          "name": "Corrupt (UK)",
+          "url": "https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ"
+        },
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 151874,
+      "name": "Dollar Stack",
+      "url": "https://open.spotify.com/track/2KE6SIDlHjWBdKrnfZ3e9B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RUMBLE IN THE DISCO",
         "url": "https://open.spotify.com/album/5lWro0c8Rek7HBvXeRKI46"
       },
@@ -211,6 +211,22 @@
       "duration_ms": 243750,
       "name": "HAMMER (FIRE AGAIN)",
       "url": "https://open.spotify.com/track/4ftYyke3ojGfJb1ZnQR7q7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yup",
+        "url": "https://open.spotify.com/album/1vU1lIYBioS4MTWvECBnSp"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "Yup",
+      "url": "https://open.spotify.com/track/53URohpgcBoGfGsmG0iqpv"
     },
     {
       "added_at": null,
@@ -251,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yup",
-        "url": "https://open.spotify.com/album/1vU1lIYBioS4MTWvECBnSp"
+        "name": "Cataclysm",
+        "url": "https://open.spotify.com/album/7zohwMTAFoqBaVhM7ll8h3"
       },
       "artists": [
         {
@@ -260,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
         }
       ],
-      "duration_ms": 228571,
-      "name": "Yup",
-      "url": "https://open.spotify.com/track/53URohpgcBoGfGsmG0iqpv"
+      "duration_ms": 182580,
+      "name": "On Time",
+      "url": "https://open.spotify.com/track/39c7seNRijZVUBqXVDtJ42"
     },
     {
       "added_at": null,
@@ -299,22 +315,6 @@
       "duration_ms": 246240,
       "name": "L.R.L.D.",
       "url": "https://open.spotify.com/track/2vlAFPryTEcJhdGAlh5xQo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cataclysm",
-        "url": "https://open.spotify.com/album/7zohwMTAFoqBaVhM7ll8h3"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 182580,
-      "name": "On Time",
-      "url": "https://open.spotify.com/track/39c7seNRijZVUBqXVDtJ42"
     },
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Workshop",
+        "url": "https://open.spotify.com/album/7C4EF6v2yK5XRigNC8D8fC"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 303750,
+      "name": "The Count",
+      "url": "https://open.spotify.com/track/7jxOB6F6JyAdlGDG9JdJoE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Movement",
         "url": "https://open.spotify.com/album/6IVeajoC6n1iTPlYk2ACRP"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 166875,
       "name": "Movement",
       "url": "https://open.spotify.com/track/1T9DXPyT430MYJwFbyykZf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Workshop",
-        "url": "https://open.spotify.com/album/7C4EF6v2yK5XRigNC8D8fC"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 303750,
-      "name": "The Count",
-      "url": "https://open.spotify.com/track/7jxOB6F6JyAdlGDG9JdJoE"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Workshop",
+        "url": "https://open.spotify.com/album/7C4EF6v2yK5XRigNC8D8fC"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Outta Nothing",
+      "url": "https://open.spotify.com/track/1CNKVBJdbQEVRWoUmpzrWX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boss EP",
         "url": "https://open.spotify.com/album/3ntS4eh1rFf6YpmfwYyRQ6"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 232320,
       "name": "I Want Your Love",
       "url": "https://open.spotify.com/track/5gtBHjBPfN3x7XAhtmIsDP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Workshop",
-        "url": "https://open.spotify.com/album/7C4EF6v2yK5XRigNC8D8fC"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Outta Nothing",
-      "url": "https://open.spotify.com/track/1CNKVBJdbQEVRWoUmpzrWX"
     },
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
         }
       ],
-      "duration_ms": 261120,
-      "name": "Dip",
-      "url": "https://open.spotify.com/track/3PGf14hxHUHQR38Yqxd80m"
+      "duration_ms": 243809,
+      "name": "Drunk",
+      "url": "https://open.spotify.com/track/4FgfOab3GFJWaYpd6jhlqj"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Litterbox 08",
+        "url": "https://open.spotify.com/album/3H4XJ6Mpv3YgcYtX6CCMJJ"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 368640,
+      "name": "Want It.",
+      "url": "https://open.spotify.com/track/60RyuJbnrTLuyVCZolzN9m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Get It",
         "url": "https://open.spotify.com/album/6TEyfWinjOan6oz4KsTo9E"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Litterbox 08",
-        "url": "https://open.spotify.com/album/3H4XJ6Mpv3YgcYtX6CCMJJ"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 368640,
-      "name": "Want It.",
-      "url": "https://open.spotify.com/track/60RyuJbnrTLuyVCZolzN9m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Weird Times",
         "url": "https://open.spotify.com/album/0017tXr04i2yUFverqdgEc"
       },
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
         }
       ],
-      "duration_ms": 243809,
-      "name": "Drunk",
-      "url": "https://open.spotify.com/track/4FgfOab3GFJWaYpd6jhlqj"
+      "duration_ms": 261120,
+      "name": "Dip",
+      "url": "https://open.spotify.com/track/3PGf14hxHUHQR38Yqxd80m"
     },
     {
       "added_at": null,
@@ -632,9 +632,25 @@
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
         }
       ],
-      "duration_ms": 249600,
-      "name": "Alien",
-      "url": "https://open.spotify.com/track/41Y3AarQVkAq87Q4OEL34A"
+      "duration_ms": 230400,
+      "name": "Ohh",
+      "url": "https://open.spotify.com/track/7oiS5Rx9iAmdFNsIoo6Oeh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Modern Mechanics",
+        "url": "https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Pretty Deep",
+      "url": "https://open.spotify.com/track/2Y68ObWFspu2EHB4vqMC3k"
     },
     {
       "added_at": null,
@@ -679,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Modern Mechanics",
-        "url": "https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Pretty Deep",
-      "url": "https://open.spotify.com/track/2Y68ObWFspu2EHB4vqMC3k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alien",
         "url": "https://open.spotify.com/album/7rsCAGnLldVpyhXYbLWTSa"
       },
@@ -704,9 +704,25 @@
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Ohh",
-      "url": "https://open.spotify.com/track/7oiS5Rx9iAmdFNsIoo6Oeh"
+      "duration_ms": 249600,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/41Y3AarQVkAq87Q4OEL34A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Night Bass: Vol. 9",
+        "url": "https://open.spotify.com/album/2qPjmivZfeNJbxhKNGvEBw"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Lose My Control",
+      "url": "https://open.spotify.com/track/2eWFHw8EdrmS7sOK1rNT2u"
     },
     {
       "added_at": null,
@@ -751,22 +767,6 @@
       "duration_ms": 213441,
       "name": "Fast Beats (Mixed)",
       "url": "https://open.spotify.com/track/5oYFyzwBY1UcPIbqpszII5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is Night Bass: Vol. 9",
-        "url": "https://open.spotify.com/album/2qPjmivZfeNJbxhKNGvEBw"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Lose My Control",
-      "url": "https://open.spotify.com/track/2eWFHw8EdrmS7sOK1rNT2u"
     },
     {
       "added_at": null,
@@ -819,34 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/3oDdeYg9u3T81ohIeMz6mX"
+        "name": "All Talk",
+        "url": "https://open.spotify.com/album/3kHWyrNZeswPGLAoGsSS5A"
       },
       "artists": [
         {
           "name": "Qlank",
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 228571,
-      "name": "Mood - Original Mix",
-      "url": "https://open.spotify.com/track/7txqfcqM25RaArohJ5OmdY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Machine EP",
-        "url": "https://open.spotify.com/album/3GphtxLMyfK9FDcxoh8c53"
-      },
-      "artists": [
+        },
         {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+          "name": "Isenberg",
+          "url": "https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal"
         }
       ],
-      "duration_ms": 233280,
-      "name": "Jack's House",
-      "url": "https://open.spotify.com/track/2dr4JgwrPI9BVuuBsRzO5v"
+      "duration_ms": 256976,
+      "name": "All Talk",
+      "url": "https://open.spotify.com/track/1SMfme1fHq7eWc5mH1Mvj2"
     },
     {
       "added_at": null,
@@ -871,22 +859,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Talk",
-        "url": "https://open.spotify.com/album/3kHWyrNZeswPGLAoGsSS5A"
+        "name": "Machine EP",
+        "url": "https://open.spotify.com/album/3GphtxLMyfK9FDcxoh8c53"
       },
       "artists": [
         {
           "name": "Qlank",
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        },
-        {
-          "name": "Isenberg",
-          "url": "https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal"
         }
       ],
-      "duration_ms": 256976,
-      "name": "All Talk",
-      "url": "https://open.spotify.com/track/1SMfme1fHq7eWc5mH1Mvj2"
+      "duration_ms": 233280,
+      "name": "Jack's House",
+      "url": "https://open.spotify.com/track/2dr4JgwrPI9BVuuBsRzO5v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/3oDdeYg9u3T81ohIeMz6mX"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "Mood - Original Mix",
+      "url": "https://open.spotify.com/track/7txqfcqM25RaArohJ5OmdY"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Come closer and see..\. into the dark\. The Cure on cover.
 
-289 songs - 21 hr 41 min
+290 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Alice \- John Peel Session: 1982](https://open.spotify.com/track/6nefKdxxJKH9dWlDqdCXmm) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [John Peel Session: 1982](https://open.spotify.com/album/6G7TJnef3i2Yc0bj9UIwaU) | 3:31 | 2021-10-15 | 2022-07-16 |
 | [All We Ever Wanted Was Everything](https://open.spotify.com/track/5ZpXCWCfCL4S6lwrzkmMPQ) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Sky's Gone Out](https://open.spotify.com/album/0Hh7gRebN47X3Ls1dk0ZDV) | 3:52 | 2021-10-15 | 2022-07-29 |
 | [All We Ever Wanted Was Everything](https://open.spotify.com/track/6Q9kdCHXpAef5YbKXKeG9M) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Sky's Gone Out](https://open.spotify.com/album/42L0285NmWnp6lF0Tf6uyw) | 3:52 | 2021-10-15 | 2024-04-19 |
+| [All Your Pain](https://open.spotify.com/track/1G3YnLyBs329AAIohKXoLX) | [Nite](https://open.spotify.com/artist/2tXXoTykabsZNETr1Sr1zC) | [Have Mercy](https://open.spotify.com/album/5qt6OZwknTuEmEfLOJpkvL) | 4:00 | 2024-11-12 |  |
 | [Allegedly, Dancefloor Tragedy](https://open.spotify.com/track/2KYF6LmjFoB3VfHHm2Pm6B) | [Suspiria](https://open.spotify.com/artist/2xig25GcvhEOvuNb4ZDBg8) | [The Gothic Sounds Of Nightbreed Volumes One & Two](https://open.spotify.com/album/4LiJCQ0Sso8HCgRnMHzn1l) | 4:38 | 2021-10-15 |  |
 | [Arabian Knights](https://open.spotify.com/track/2o1Deu2r99ZkkQwQ27LnZd) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:05 | 2021-10-15 |  |
 | [Arabian Knights](https://open.spotify.com/track/5qcwtuCx1TFicvpcWcPGqJ) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Best Of...](https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX) | 3:07 | 2021-10-15 | 2024-04-19 |
@@ -117,7 +118,7 @@
 | [Helena](https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Famous Monsters](https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE) | 3:19 | 2021-10-15 |  |
 | [Hex](https://open.spotify.com/track/0ly1XWGeXQLaZM8Cng8PJV) | [Crone Visions](https://open.spotify.com/artist/12MHSwdVzUugwDgfhf3p0J) | [Hex](https://open.spotify.com/album/36FcnufhmxEwHxSPPZIH9l) | 3:24 | 2023-01-04 | 2024-06-30 |
 | [His Box](https://open.spotify.com/track/4auQElRGeVu94YhwonIdek) | [Dalis Car](https://open.spotify.com/artist/26K835MEHI621LFChKL16Z) | [The Waking Hour](https://open.spotify.com/album/7HmNnZyCLb2tkxwdwDtpqd) | 4:42 | 2021-10-15 | 2022-07-29 |
-| [Hit](https://open.spotify.com/track/1lYjZUzStLNGtawS2RbvMj) | [Section 25](https://open.spotify.com/artist/0WvBaBwebA8SOLSXUVh4ge) | [Always Now](https://open.spotify.com/album/2rt8lRE5VoWwI5GpfmMHqZ) | 2:58 | 2021-10-15 |  |
+| [Hit](https://open.spotify.com/track/1lYjZUzStLNGtawS2RbvMj) | [Section 25](https://open.spotify.com/artist/0WvBaBwebA8SOLSXUVh4ge) | [Always Now](https://open.spotify.com/album/2rt8lRE5VoWwI5GpfmMHqZ) | 2:58 | 2021-10-15 | 2024-11-13 |
 | [Holiday on the Moon](https://open.spotify.com/track/5ND2AEOcEZX4xD1w0Mgl5W) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Sorted! The Best Of](https://open.spotify.com/album/2XJblHmHQJiopDHW3aUaWg) | 6:05 | 2021-10-15 | 2022-07-29 |
 | [Holiday on the Moon](https://open.spotify.com/track/6Tmvb9B7cFnTJXr2L2MCd8) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Express](https://open.spotify.com/album/0frqimF9uZsUooB7DEUYgv) | 6:05 | 2021-10-15 | 2024-03-30 |
 | [Hollow Eyes](https://open.spotify.com/track/1Vm4cPqMS50k2zM70viOOl) | [Red Lorry Yellow Lorry](https://open.spotify.com/artist/6ixeWfTvnU1VOVPEVP5Bcq) | [Talk About The Weather](https://open.spotify.com/album/3uAvHdRx5uat8LE97Uq9c8) | 3:39 | 2021-10-15 | 2022-07-27 |
@@ -174,7 +175,7 @@
 | [Mr Clarinet](https://open.spotify.com/track/2zNjck6Vtrfn6rLqlSjVij) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Hee Haw](https://open.spotify.com/album/6ospyfDSkoyS7wrBIpzN38) | 3:43 | 2021-10-15 | 2022-07-29 |
 | [Muscoviet Mosquito](https://open.spotify.com/track/0VkLpkFFjIRS4XDCdW6NdO) | [Clan of Xymox](https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha) | [Lonely Is An Eyesore](https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc) | 4:03 | 2022-08-09 |  |
 | [Nag, Nag, Nag](https://open.spotify.com/track/5KwcUvb8PYj690XQ5K06ld) | [Cabaret Voltaire](https://open.spotify.com/artist/2kS4yz85MaZlxp2VaS3BEe) | [The Living Legends](https://open.spotify.com/album/2GStT6GQ5HtjeZcCQJWdYh) | 4:41 | 2021-10-15 | 2022-04-17 |
-| [New Liberty](https://open.spotify.com/track/1aPmHyd7NDfugpIzgZ3Opx) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Fuse](https://open.spotify.com/album/3xNaY8J0j7efWpaNFWNfUw) | 3:08 | 2024-08-19 |  |
+| [New Liberty](https://open.spotify.com/track/1aPmHyd7NDfugpIzgZ3Opx) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Fuse](https://open.spotify.com/album/3xNaY8J0j7efWpaNFWNfUw) | 3:08 | 2024-08-19 | 2024-11-13 |
 | [Nick The Stripper](https://open.spotify.com/track/5Oxdn1XWn1Gvreq0aTLNh8) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Lilliput](https://open.spotify.com/album/1c2QIcoBAm2fB2YUcDe0v7) | 3:54 | 2021-10-15 | 2022-04-21 |
 | [No Big Deal \- \(Single Edit\)](https://open.spotify.com/track/77DLCTxsPYFU1qA4Q66DPC) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Sorted! The Best Of](https://open.spotify.com/album/2XJblHmHQJiopDHW3aUaWg) | 3:55 | 2021-10-15 | 2022-07-14 |
 | [No Motion](https://open.spotify.com/track/0ug0vJeHQBLKT82Unk6Q4m) | [Dif Juz](https://open.spotify.com/artist/1iVd0LTjfJ6xROplaIBApL) | [Soundpool](https://open.spotify.com/album/7JF7379AWJZW651M6zYWbJ) | 4:51 | 2021-10-15 | 2022-04-19 |
@@ -223,7 +224,7 @@
 | [She's In Parties](https://open.spotify.com/track/1JhORTF6h6N2lpb3lLWeqv) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Bauhaus \- 1979\-1983 Volume Two](https://open.spotify.com/album/12U3k2UeDnmqE4id0G7uOb) | 3:51 | 2021-10-15 | 2022-07-29 |
 | [She's Lost Control](https://open.spotify.com/track/0I5YIX3Hxr5JKvHWbUTGzo) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Substance](https://open.spotify.com/album/7z7Q623XMKn7w6K6BWzOtO) | 4:56 | 2021-10-15 | 2022-07-11 |
 | [Shimmering, Warm & Bright](https://open.spotify.com/track/2agj6uHYuUwlQoOjEuiM7n) | [bel canto](https://open.spotify.com/artist/5Bz8k8phXRsAtBB6xrIR83) | [Shimmering, Warm and Bright](https://open.spotify.com/album/6d2yDqhmiZi054fXscl4Sn) | 3:17 | 2021-10-15 |  |
-| [Shining Road](https://open.spotify.com/track/1XeQKXz0WF8Opaz0mzQczK) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Loved](https://open.spotify.com/album/2indFH0tGfNSPt7MnIXKX0) | 3:51 | 2021-10-15 | 2024-11-04 |
+| [Shining Road](https://open.spotify.com/track/1XeQKXz0WF8Opaz0mzQczK) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Loved](https://open.spotify.com/album/2indFH0tGfNSPt7MnIXKX0) | 3:51 | 2021-10-15 |  |
 | [Six Bells Chime](https://open.spotify.com/track/7Gob6Y2DedEcACcSpNn5SL) | [Crime & the City Solution](https://open.spotify.com/artist/1JHNDcYDgecLVApixUMQY2) | [Room of Lights](https://open.spotify.com/album/0A3h8NxkkYlgyf6UAgUe38) | 5:40 | 2021-10-15 | 2022-07-06 |
 | [Snake Dance](https://open.spotify.com/track/20CMNatKGvGsH9H1WjSYYZ) | [The March Violets](https://open.spotify.com/artist/03FKngvcynr4H8PuTP8n19) | [The Botanic Verses](https://open.spotify.com/album/5ZgrlWIPhODOEV0kTpiuYh) | 4:06 | 2021-10-15 |  |
 | [So Alive](https://open.spotify.com/track/7pfP8Z9M9KRUtzTLcnjem5) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Love and Rockets](https://open.spotify.com/album/3lqy9ZOzLlwDTfXOkpubgU) | 4:17 | 2021-10-15 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36798,
+  "num_followers": 36802,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-11-09 06:44:52",
       "album": {
-        "name": "cause of death",
-        "url": "https://open.spotify.com/album/0BNsz8vbgm8NLMbCQ9chMs"
-      },
-      "artists": [
-        {
-          "name": "Julia Alexa",
-          "url": "https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "cause of death",
-      "url": "https://open.spotify.com/track/2kC4xH9tfMlYGxUu9BKyxW"
-    },
-    {
-      "added_at": "2024-11-09 06:44:52",
-      "album": {
         "name": "i always remember all of my dreams",
         "url": "https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 171800,
       "name": "that life",
       "url": "https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk"
+    },
+    {
+      "added_at": "2024-11-09 06:44:52",
+      "album": {
+        "name": "cause of death",
+        "url": "https://open.spotify.com/album/0BNsz8vbgm8NLMbCQ9chMs"
+      },
+      "artists": [
+        {
+          "name": "Julia Alexa",
+          "url": "https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "cause of death",
+      "url": "https://open.spotify.com/track/2kC4xH9tfMlYGxUu9BKyxW"
     },
     {
       "added_at": "2024-11-09 06:44:52",
@@ -503,26 +503,6 @@
     {
       "added_at": "2024-11-09 06:44:52",
       "album": {
-        "name": "Descontrol",
-        "url": "https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r"
-      },
-      "artists": [
-        {
-          "name": "Loco Escrito",
-          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
-        },
-        {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
-        }
-      ],
-      "duration_ms": 158838,
-      "name": "Descontrol",
-      "url": "https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18"
-    },
-    {
-      "added_at": "2024-11-09 06:44:52",
-      "album": {
         "name": "Ready For It All",
         "url": "https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 152816,
       "name": "Ready For It All",
       "url": "https://open.spotify.com/track/0oIlZ9KBMQnhHOw9uFAJm8"
+    },
+    {
+      "added_at": "2024-11-09 06:44:52",
+      "album": {
+        "name": "Descontrol",
+        "url": "https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r"
+      },
+      "artists": [
+        {
+          "name": "Loco Escrito",
+          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
+        },
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        }
+      ],
+      "duration_ms": 158838,
+      "name": "Descontrol",
+      "url": "https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18"
     },
     {
       "added_at": "2024-11-09 06:44:52",
@@ -595,18 +595,18 @@
     {
       "added_at": "2024-11-09 06:44:52",
       "album": {
-        "name": "Tribut",
-        "url": "https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP"
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
       },
       "artists": [
         {
-          "name": "Lo & Leduc",
-          "url": "https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe"
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
         }
       ],
-      "duration_ms": 197992,
-      "name": "Tribut",
-      "url": "https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy"
+      "duration_ms": 157906,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
     },
     {
       "added_at": "2024-11-09 06:44:52",
@@ -643,18 +643,18 @@
     {
       "added_at": "2024-11-09 06:44:52",
       "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
+        "name": "Tribut",
+        "url": "https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP"
       },
       "artists": [
         {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+          "name": "Lo & Leduc",
+          "url": "https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe"
         }
       ],
-      "duration_ms": 157906,
-      "name": "Hurting",
-      "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
+      "duration_ms": 197992,
+      "name": "Tribut",
+      "url": "https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy"
     },
     {
       "added_at": "2024-11-09 06:44:52",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-11-09 06:44:52",
       "album": {
-        "name": "Generation",
-        "url": "https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv"
-      },
-      "artists": [
-        {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
-        }
-      ],
-      "duration_ms": 182609,
-      "name": "smile",
-      "url": "https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y"
-    },
-    {
-      "added_at": "2024-11-09 06:44:52",
-      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/469y0vPtya1jZBoNIfqoQe"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 192078,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/7MrNK0Fyp8pCMTtWYoDRYt"
+    },
+    {
+      "added_at": "2024-11-09 06:44:52",
+      "album": {
+        "name": "Generation",
+        "url": "https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv"
+      },
+      "artists": [
+        {
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+        }
+      ],
+      "duration_ms": 182609,
+      "name": "smile",
+      "url": "https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y"
     },
     {
       "added_at": "2024-11-09 06:44:52",
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-11-09 06:44:52",
       "album": {
-        "name": "Where Were You",
-        "url": "https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG"
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A"
       },
       "artists": [
         {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+          "name": "Jared Lembo",
+          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
         }
       ],
-      "duration_ms": 162836,
-      "name": "Where Were You",
-      "url": "https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ"
+      "duration_ms": 214404,
+      "name": "Fcuk!",
+      "url": "https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm"
     },
     {
       "added_at": "2024-11-09 06:44:52",
@@ -903,6 +903,22 @@
       "duration_ms": 164089,
       "name": "Coastline",
       "url": "https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV"
+    },
+    {
+      "added_at": "2024-11-09 06:44:52",
+      "album": {
+        "name": "Where Were You",
+        "url": "https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG"
+      },
+      "artists": [
+        {
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+        }
+      ],
+      "duration_ms": 162836,
+      "name": "Where Were You",
+      "url": "https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ"
     },
     {
       "added_at": "2024-11-09 06:44:52",
@@ -951,22 +967,6 @@
       "duration_ms": 165946,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/4nOfERRA2RjU40hNSRshs5"
-    },
-    {
-      "added_at": "2024-11-09 06:44:52",
-      "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A"
-      },
-      "artists": [
-        {
-          "name": "Jared Lembo",
-          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
-        }
-      ],
-      "duration_ms": 214404,
-      "name": "Fcuk!",
-      "url": "https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm"
     },
     {
       "added_at": "2024-11-09 06:44:52",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-11-09 06:44:52",
       "album": {
-        "name": "POWERTRIP!",
-        "url": "https://open.spotify.com/album/64IVGikaihpthJq66Fk0bf"
+        "name": "Long Year",
+        "url": "https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI"
       },
       "artists": [
         {
-          "name": "Skyler Wind",
-          "url": "https://open.spotify.com/artist/6NgwMYnjqJakjMbMECN2qT"
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
         }
       ],
-      "duration_ms": 172180,
-      "name": "POWERTRIP!",
-      "url": "https://open.spotify.com/track/0gABOHjuxkdwZpLmKVlEQI"
+      "duration_ms": 196246,
+      "name": "Long Year",
+      "url": "https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc"
     },
     {
       "added_at": "2024-11-09 06:44:52",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-11-09 06:44:52",
       "album": {
-        "name": "Long Year",
-        "url": "https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI"
+        "name": "POWERTRIP!",
+        "url": "https://open.spotify.com/album/64IVGikaihpthJq66Fk0bf"
       },
       "artists": [
         {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+          "name": "Skyler Wind",
+          "url": "https://open.spotify.com/artist/6NgwMYnjqJakjMbMECN2qT"
         }
       ],
-      "duration_ms": 196246,
-      "name": "Long Year",
-      "url": "https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc"
+      "duration_ms": 172180,
+      "name": "POWERTRIP!",
+      "url": "https://open.spotify.com/track/0gABOHjuxkdwZpLmKVlEQI"
     },
     {
       "added_at": "2024-11-09 06:44:52",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-11-09 06:44:52",
       "album": {
-        "name": "T\u00fa y Yo",
-        "url": "https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e"
-      },
-      "artists": [
-        {
-          "name": "Loco Escrito",
-          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
-        }
-      ],
-      "duration_ms": 164425,
-      "name": "T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz"
-    },
-    {
-      "added_at": "2024-11-09 06:44:52",
-      "album": {
         "name": "Neui Welt (feat. Adrian Stern)",
         "url": "https://open.spotify.com/album/54VNWPvDVs5dRHalNJB0ki"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 188013,
       "name": "Neui Welt (feat. Adrian Stern)",
       "url": "https://open.spotify.com/track/16q5oIhLu2pWxcAXen7p6D"
+    },
+    {
+      "added_at": "2024-11-09 06:44:52",
+      "album": {
+        "name": "T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e"
+      },
+      "artists": [
+        {
+          "name": "Loco Escrito",
+          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
+        }
+      ],
+      "duration_ms": 164425,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz"
     },
     {
       "added_at": "2024-11-09 06:44:52",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di  Skinny e Rkomi, DrefGold, Nayt, Glocky, CoCo e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,771 likes - 85 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,773 likes - 85 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 46 | [Per un paio di dollari](https://open.spotify.com/track/6ay7V0EJQ43hrNgYI3E2tg) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [Per un paio di dollari](https://open.spotify.com/album/62GrAgEymztEQlcnOVRNGf) | 3:01 |
 | 47 | [FAMMI SORRIDERE](https://open.spotify.com/track/2p8cVYrKgRG2jHTSVSwEAB) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Smookid](https://open.spotify.com/artist/2mLQ8JfGyC8pFZTNIhejPR), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [FAMMI SORRIDERE](https://open.spotify.com/album/7MwyGus32DX1M867YzS720) | 2:18 |
 | 48 | [Kobe](https://open.spotify.com/track/5jeouY0P7U13rTiswb5b8v) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Hybrid](https://open.spotify.com/album/1hlNp7808dp9wq80nqldHe) | 4:10 |
-| 49 | [PSL](https://open.spotify.com/track/5pG6fUIEot9XfRmkPJovCG) | [Gordo Mendoza](https://open.spotify.com/artist/01BsDBqdooDuru7PTircPQ) | [PSL](https://open.spotify.com/album/2QQM5aPKSnk1SEGwhKF70B) | 1:57 |
+| 49 | [PSL](https://open.spotify.com/track/5pG6fUIEot9XfRmkPJovCG) | [Gordo Mendoza](https://open.spotify.com/artist/01BsDBqdooDuru7PTircPQ), [Tropic Thunder](https://open.spotify.com/artist/6uvs1fRGySw5xUeAOrdyWm) | [PSL](https://open.spotify.com/album/2QQM5aPKSnk1SEGwhKF70B) | 1:57 |
 | 50 | [SESSO RISPETTO](https://open.spotify.com/track/0zZlLEiCmKwXrCDG6F172W) | [DALAI XV](https://open.spotify.com/artist/54qf1p4GvCN28bNLkutNn6) | [SESSO RISPETTO](https://open.spotify.com/album/3ytwhALqzLsWWh5PwNxhPw) | 2:21 |
 | 51 | [Sembra scritto](https://open.spotify.com/track/75ABtnZla7EfemFVkUr2BD) | [DJ Skizo](https://open.spotify.com/artist/22ZKZgLocbcA5rGu5KgXBZ), [Mattak](https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK), [Jack The Smoker](https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS), [DJ Bront](https://open.spotify.com/artist/62vW0gU3UTCWeCaYWc1nhv), [Dj Ghost aka Steeni](https://open.spotify.com/artist/6ztRFZRLvogVldoYGP8PGO) | [Sembra scritto](https://open.spotify.com/album/4Hm99WxUTNe9dHLumJUQQb) | 4:09 |
 | 52 | [Regionale](https://open.spotify.com/track/1BUeHMGaeAT6zPPxX8gNd2) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [IL BELLO DI ESSERE VIVO](https://open.spotify.com/album/0FSX2lZvKNrvwRVbDUWFTa) | 2:34 |

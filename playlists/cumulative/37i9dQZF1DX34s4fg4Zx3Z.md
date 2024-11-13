@@ -4,7 +4,7 @@
 
 > Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: VƯƠNG BÌNH
 
-1,885 songs - 4 day 14 hr 25 min
+1,886 songs - 4 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -815,7 +815,7 @@
 | [KÝ ỨC SÓT LẠI](https://open.spotify.com/track/6DJJ7a9gVUB5OOw9hOXo4V) | [Hast](https://open.spotify.com/artist/0LIZC1GStlO5tEEYC0cB1e), [Piens](https://open.spotify.com/artist/20anqSscVLyuwX6dcu6IAJ), [Khiem](https://open.spotify.com/artist/2xyEAgqFAAy5yqRZ7mHd9c) | [KÝ ỨC SÓT LẠI](https://open.spotify.com/album/6ClEvUdXTAkpjJNiwc4A83) | 3:25 | 2023-12-28 | 2024-01-12 |
 | [KĨ THUẬT SỐ?](https://open.spotify.com/track/0AEXHdm461T9pk9MoeSM5j) | [TJ](https://open.spotify.com/artist/1Bw4CavQqopAPF6hBNdOY4) | [KĨ THUẬT SỐ?](https://open.spotify.com/album/20RwEVTYZ3sMlPqHkApa0v) | 2:43 | 2024-07-31 | 2024-09-20 |
 | [Kẹo Bốn Mùa \(feat\. Zer Nguyễn\)](https://open.spotify.com/track/1ESWgyaXZ6ImfcX9wTgm6b) | [Ân ngờ](https://open.spotify.com/artist/3Myoe574gxIKLU5bKqjkFk), [Zer Nguyễn](https://open.spotify.com/artist/62WhadRyBmRJO56wP9oyPz) | [Kẹo Bốn Mùa \(feat\. Zer Nguyễn\)](https://open.spotify.com/album/2NL6tGwwpH7IQoaIUsB9Xs) | 4:01 | 2024-03-14 | 2024-08-07 |
-| [Kẻ Phản Diện](https://open.spotify.com/track/4MzIJwaPGxLDDWb0hcVC5t) | [datfitzx](https://open.spotify.com/artist/2rkSOVm1YGlmjYTgmmfZd7), [Jazzie](https://open.spotify.com/artist/7jfv9Pfel8IjICyRj8XXie), [Slick](https://open.spotify.com/artist/03TPtam3TYOTrTYLZLZQx7) | [Kẻ Phản Diện](https://open.spotify.com/album/4nLBpaZWRxaWN6WPH9MxAe) | 3:44 | 2024-10-17 |  |
+| [Kẻ Phản Diện](https://open.spotify.com/track/4MzIJwaPGxLDDWb0hcVC5t) | [datfitzx](https://open.spotify.com/artist/2rkSOVm1YGlmjYTgmmfZd7), [Jazzie](https://open.spotify.com/artist/7jfv9Pfel8IjICyRj8XXie), [Slick](https://open.spotify.com/artist/03TPtam3TYOTrTYLZLZQx7) | [Kẻ Phản Diện](https://open.spotify.com/album/4nLBpaZWRxaWN6WPH9MxAe) | 3:44 | 2024-10-17 | 2024-11-13 |
 | [Kẻ Đáng Thương](https://open.spotify.com/track/0uYlDhNMjcJzOhDAA5kew7) | [Lưu Nhược Ni](https://open.spotify.com/artist/353pRfQ5LTOpsj1SNkuBqx) | [Kẻ Đáng Thương](https://open.spotify.com/album/4Ajn78VcYnVabznryriN22) | 4:20 | 2022-01-06 | 2022-04-16 |
 | [Kết Thúc Rồi](https://open.spotify.com/track/3960OGU24sDOaZ3FwgSKP9) | [Feetz](https://open.spotify.com/artist/5BFrTBJ4Dw4cp50wOsrSu4), [Pajn](https://open.spotify.com/artist/4BleJN4feDcg2qIQ60zh4G) | [Kết Thúc Rồi](https://open.spotify.com/album/5SBb6lAlVAAYkCsLSuSx3P) | 3:23 | 2023-06-26 | 2023-07-27 |
 | [Kết Thúc Được Rồi](https://open.spotify.com/track/7Grf0neGJlSaF7wCLYGopC) | [UKI UYEN](https://open.spotify.com/artist/428TaIAAzUY4mE9CrlXTZf), [Freaky](https://open.spotify.com/artist/3JlzPlR5FYYa402qPCCaAm) | [Kết Thúc Được Rồi](https://open.spotify.com/album/0tj7Cn1cCm0Pw51ui4GA0l) | 4:27 | 2023-08-31 | 2023-10-20 |
@@ -1108,6 +1108,7 @@
 | [Nhà Là](https://open.spotify.com/track/5AvRGexnnUw4pKc0yvWyuJ) | [Marr D](https://open.spotify.com/artist/03hVdiz1KdQ9rhIKQoJXsE) | [Nhà Là](https://open.spotify.com/album/0ec0y0iEHDqeEsKNMXLNug) | 5:08 | 2024-01-05 | 2024-03-29 |
 | [NHÀN \(feat\. Winno\)](https://open.spotify.com/track/39DOE48ns0RWvCCFzPAgOR) | [Heily](https://open.spotify.com/artist/73JDHHjsNGy85o3EbEqOLk), [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB) | [NHÀN \(feat\. Winno\)](https://open.spotify.com/album/3WR9mQ1uarGCsJrVrG1fav) | 5:11 | 2023-03-31 | 2023-04-11 |
 | [Nhàn Vi](https://open.spotify.com/track/3f2JxiVfRYSIFTmjEYAv6x) | [Jombie](https://open.spotify.com/artist/4P5sYDkznyMel8jtD0CgE4), [Bảo Jen](https://open.spotify.com/artist/5enf5EVeJOebbN33LoC2n1) | [Nhàn Vi](https://open.spotify.com/album/562qD5UeBHMjUn866mhFqH) | 3:33 | 2022-02-21 | 2022-03-03 |
+| [Nhân Danh Tình Yêu](https://open.spotify.com/track/299ZggyOu3Udr4rgnmCifo) | [LyHan](https://open.spotify.com/artist/70swmqj7c3SHkkdf2SrSUy) | [Nhân Danh Tình Yêu](https://open.spotify.com/album/2xvxyK7Q4VLjGpdRK7ZRSU) | 2:44 | 2024-11-12 |  |
 | [Nhìn Theo Bóng Em](https://open.spotify.com/track/40VSxpF8g5sToquWQPkaue) | [Tony Hoàng Anh](https://open.spotify.com/artist/055tKHSCudU5z9QjDbxUox), [Đức Duy](https://open.spotify.com/artist/3MZmokiIjkEBQ6uAb0NRDo), [The Dø](https://open.spotify.com/artist/32RntR1i4WuepdmjwMo95b) | [Nhìn Theo Bóng Em](https://open.spotify.com/album/5xWMJ9Ab4MfSI7xg5YoPgK) | 3:30 | 2024-01-24 | 2024-09-13 |
 | [Như Chưa Từng](https://open.spotify.com/track/6XjqZ9lQkNxsBXAepCOuQs) | [Shimin](https://open.spotify.com/artist/6oVbQjNoM4BHY40a3Fbm1T) | [Như Chưa Từng](https://open.spotify.com/album/7qYhKzn7R0U6TbVX8W0U06) | 2:25 | 2024-08-22 | 2024-09-04 |
 | [Như Là Mơ \- Acoustic Version](https://open.spotify.com/track/5fXanLx95qkXjufZfVwHpJ) | [Ymai](https://open.spotify.com/artist/3G2dFolgIn10dKe81WtwGI) | [Như Là Mơ \(Acoustic Version\)](https://open.spotify.com/album/79uEgDj5hxr7x7CQC52T2s) | 2:49 | 2022-06-26 | 2022-09-15 |

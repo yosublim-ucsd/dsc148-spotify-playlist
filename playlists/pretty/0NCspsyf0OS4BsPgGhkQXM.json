@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2034939,
+  "num_followers": 2034946,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "AAA5y0McoEfgscF+aNZjlJIu2jOhoi9E",
+  "snapshot_id": "AAA5zcN7hOg1j9a9u1ZK8515c+6hOhx8",
   "tracks": [
     {
       "added_at": "2024-01-29 22:53:51",
@@ -1363,6 +1363,30 @@
       "duration_ms": 149798,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/3WNJYcfFVvlTCTi7bGltnV"
+    },
+    {
+      "added_at": "2024-11-12 21:01:54",
+      "album": {
+        "name": "In My Bones",
+        "url": "https://open.spotify.com/album/2NQM7lP9XRO7JY0QrdJUia"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        },
+        {
+          "name": "CHPTR.",
+          "url": "https://open.spotify.com/artist/15ha0mOZUeMNOMJuL9ea3e"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "In My Bones",
+      "url": "https://open.spotify.com/track/2YoWM3j6C41afmEXqiKaNV"
     },
     {
       "added_at": "2024-01-29 22:53:51",

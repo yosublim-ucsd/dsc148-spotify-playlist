@@ -4,7 +4,7 @@
 
 > Llévatela tranqui con los hits más relajados del urbano.
 
-417 songs - 21 hr 23 min
+417 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [HOY ME PORTO MAL](https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [HOY ME PORTO MAL](https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ) | 2:13 | 2023-09-08 | 2023-11-26 |
 | [Humo](https://open.spotify.com/track/2OqQWWjjzVAehMsneR3zeD) | [Jeudy García](https://open.spotify.com/artist/6wpV5rsBp59VKGmUxjKtSz), [Ndrey Botto](https://open.spotify.com/artist/5iOU7GvWyx3JiaxjJxesd9) | [Humo](https://open.spotify.com/album/4fhp8Sw7bLpL0Q9mFxF2tz) | 2:31 | 2023-03-20 | 2023-04-15 |
 | [I Miss You](https://open.spotify.com/track/65oSp7rdpLddlRGUgogU24) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [I Miss You](https://open.spotify.com/album/6izmkq2r6t3yT7mCvSHQQ0) | 2:53 | 2024-10-25 |  |
-| [IA](https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [IA](https://open.spotify.com/album/3DXj5cbdAXHzjG9Yy2rDn3) | 2:51 | 2024-10-25 |  |
+| [IA](https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [IA](https://open.spotify.com/album/3DXj5cbdAXHzjG9Yy2rDn3) | 4:00 | 2024-10-25 |  |
 | [Igual Que Un Ángel \(with Peso Pluma\)](https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 4:20 | 2024-01-16 |  |
 | [Ilógico](https://open.spotify.com/track/6a2PRnRqeXkzIaX0a3oLY2) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Ilógico](https://open.spotify.com/album/57sfaJzjp4CP6UcqZc7cm9) | 2:30 | 2023-05-19 | 2023-05-27 |
 | [INGRATA4 \(dime si aún\)](https://open.spotify.com/track/6PBvW3ndFy2YafGRIniiNZ) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [INGRATA4 \(dime si aún\)](https://open.spotify.com/album/2ze4ym7uREFXo0nvswNpek) | 2:38 | 2024-06-21 | 2024-07-13 |

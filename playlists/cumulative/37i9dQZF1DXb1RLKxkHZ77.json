@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Lagu-lagu yang terbaik di Malaysia. Cover: Mahalini",
+  "description": "Lagu-lagu yang terbaik di Malaysia. Cover: Insomniacks",
   "name": "Carta Malaysia 50",
   "tracks": [
     {
@@ -540,7 +540,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 241142,
       "name": "Alkisah Jiwa",
       "url": "https://open.spotify.com/track/5fWhCb1uiaz60JFIC96IHf"
@@ -6709,6 +6709,24 @@
     },
     {
       "album": {
+        "name": "Menyala",
+        "url": "https://open.spotify.com/album/6XTZRKGyQEXUdboMDCMOE1"
+      },
+      "artists": [
+        {
+          "name": "Stacy",
+          "url": "https://open.spotify.com/artist/6nuWJJNVyTzEiwG8gWFtuX"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "Menyala",
+      "url": "https://open.spotify.com/track/3jW9BV1LqhddkaYrFA2MCy"
+    },
+    {
+      "album": {
         "name": "Menyendiri",
         "url": "https://open.spotify.com/album/1zM8FqFBAV45IUnuhOB4ok"
       },
@@ -7928,6 +7946,24 @@
       "duration_ms": 210658,
       "name": "Ragu",
       "url": "https://open.spotify.com/track/6EfM9gZnVkp3f13ifmOOz8"
+    },
+    {
+      "album": {
+        "name": "Rahasia Hati (New Version)",
+        "url": "https://open.spotify.com/album/2irA4FZKAdkCn7y6iceOhx"
+      },
+      "artists": [
+        {
+          "name": "Nidji",
+          "url": "https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259599,
+      "name": "Rahasia Hati (New Version)",
+      "url": "https://open.spotify.com/track/5ljoPIZmzmXVoTdF7ebfwE"
     },
     {
       "album": {
@@ -10326,7 +10362,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-13",
       "duration_ms": 251538,
       "name": "Tegap Berdiri",
       "url": "https://open.spotify.com/track/1sb51YxJXoqcd8HiFCYbNj"

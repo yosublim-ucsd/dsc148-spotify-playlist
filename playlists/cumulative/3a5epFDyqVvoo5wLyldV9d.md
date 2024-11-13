@@ -4,7 +4,7 @@
 
 > 
 
-813 songs - 2 day 16 hr 4 min
+818 songs - 2 day 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Aloula](https://open.spotify.com/track/29m5S52N8hdny9n5l3Q5J4) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Maarifti Feek](https://open.spotify.com/album/3MgbAO1v05g0eanxlyz922) | 4:38 | 2021-06-21 |  |
 | [Alteleyeshegnem](https://open.spotify.com/track/547fHlns6D8pUibw6C1sJd) | [Alemayehu Eshete](https://open.spotify.com/artist/1IqLubILFDd8vFQhhAHwN9) | [Alteleyeshegnem](https://open.spotify.com/album/144ZxBBOzKl0mq8d2mVrFW) | 4:54 | 2023-09-19 |  |
 | [Alto Cutelo](https://open.spotify.com/track/0eYxLWecT4bIL5wRUydLrO) | [Os Tubarões](https://open.spotify.com/artist/7k1xtKMpdzF4wUttO6nv1f) | [Pépé Lopi](https://open.spotify.com/album/2fN2QiROKeSg5Gt89kCCGZ) | 4:12 | 2022-11-28 |  |
+| [Amale](https://open.spotify.com/track/7sSv8JLuFRQVuP1fkxJMV4) | [Jembaa Groove](https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs) | [Amale](https://open.spotify.com/album/79hVaSUdiBt2BZVdKevMke) | 4:57 | 2024-11-12 |  |
 | [Amarsi un po' \- Remastered](https://open.spotify.com/track/5MHUCw9nrw2RpHbl384ZAR) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Io tu noi tutti](https://open.spotify.com/album/2MU5YedaxyeNA8gKh1BfMJ) | 5:03 | 2023-02-16 |  |
 | [Amor](https://open.spotify.com/track/0yzzbkMrWPfW5FcBWSdSMl) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:52 | 2022-01-08 |  |
 | [Amore..\. aiuto](https://open.spotify.com/track/4jirWiFuNz9HnzlFmFUpnD) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Vado al massimo \(Remastered\)](https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM) | 4:41 | 2021-01-26 |  |
@@ -177,6 +178,7 @@
 | [David](https://open.spotify.com/track/5PWldQer2GqQerAohzsueU) | [Celia](https://open.spotify.com/artist/71mZktYgZiBSmsYanRREQP) | [Dose Dupla Célia](https://open.spotify.com/album/6oRhQ60w5j11uK5njdH65Z) | 2:33 | 2020-01-20 |  |
 | [De I Comahlee Ah \(extended\)](https://open.spotify.com/track/5zoS3kOy5N0kVM7rAF7hVr) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA), [Michael Carvin](https://open.spotify.com/artist/3CBMQWrDKDfioTV0i5THvv) | [Melodies Record Club \#001: Four Tet selects](https://open.spotify.com/album/0ySm0vZ7EzRu4YkxSZibSQ) | 12:24 | 2022-01-05 |  |
 | [DEAR BREEZE](https://open.spotify.com/track/0DCzMvkONMvWDiOtVzyRUX) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [ANOTHER SUMMER](https://open.spotify.com/album/1ZluSoV6IVEiQxEfrnIYBB) | 4:01 | 2020-09-12 |  |
+| [Deep Down In Zanzibar](https://open.spotify.com/track/4EjzZPy2wXaRVIhU5ytysS) | [Afrodesia](https://open.spotify.com/artist/6hUdkBNGkpsiHn86bnw6LG), [Mystic Jungle](https://open.spotify.com/artist/0h3E1GEycmeNQ5USViniCF), [Whodamanny](https://open.spotify.com/artist/2qy5mylsZfOZcHYmzrOUIY) | [Afrodesia – Episode One](https://open.spotify.com/album/1Wu4MNQF4ybWoj8LzGRQUU) | 6:44 | 2024-11-12 |  |
 | [Deixa a Tristeza](https://open.spotify.com/track/3AZCLawFCY4vkPfULZkfZu) | [Neno Exporta Som](https://open.spotify.com/artist/4KNx7O3WMhmJtp5T3C2YBT) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r) | 3:27 | 2020-10-12 |  |
 | [Del Ey Del](https://open.spotify.com/track/758thIpD2IUEH6L0Mvzgk5) | [Leila Forouhar](https://open.spotify.com/artist/5DKMxoSsZBKkZG22hJHbfq) | [Hediyeh \- Persian Music](https://open.spotify.com/album/2A1z4ZiDGNMHueCd9G7sKE) | 5:51 | 2023-11-08 |  |
 | [Demais](https://open.spotify.com/track/4LpQ6p7RQjz1xu79BoUfwh) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Brazilian Soul](https://open.spotify.com/album/6545nVJ7YqhmuSolOxkjTE) | 4:18 | 2020-12-22 |  |
@@ -468,6 +470,7 @@
 | [Mundo Deserto](https://open.spotify.com/track/2x6ztBh9TsTqAS5mX9ttEw) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Ela](https://open.spotify.com/album/00v6XMJH8URR26deMot450) | 2:36 | 2021-05-11 |  |
 | [Music de Carnaval](https://open.spotify.com/track/5NqQovaNr0L2VVn9Svdlmf) | [Magdy Al Hussainy](https://open.spotify.com/artist/1xo3eWzfxA5p7tkBahC6MD) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/0PkKIo93pKAnqpo0mi5yb1) | 5:10 | 2022-12-05 |  |
 | [My Country](https://open.spotify.com/track/2ahWD5RUT7SIwDII6Z9lAO) | [Américo Brito](https://open.spotify.com/artist/7qPxIkKHTXFtFuTV4urY0Q) | [Sintado Na Pracinha \(Sodad Serie 4 \- Vol\. 3\)](https://open.spotify.com/album/2yU729Nwsv7jUqbdqlIyCt) | 5:15 | 2023-02-23 |  |
+| [Más Profundo](https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt) | [Bruxas](https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7) | [Más Profundo](https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx) | 6:12 | 2024-11-12 |  |
 | [Na boca do sol](https://open.spotify.com/track/5oiueCPkJCU9wCmQO5HDTj) | [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Arthur Verocai](https://open.spotify.com/album/4yv17Q486G8QoqM001kFKO) | 2:59 | 2018-01-04 |  |
 | [Na Real Sekele Fo'Ya](https://open.spotify.com/track/1fReqnUh1Rcatgk8YfZUN7) | [Pasteur Lappe](https://open.spotify.com/artist/3RDxL9p4jBPGdoaKVcD2Ff) | [African Funk Experimentals \(1979 to 1981\)](https://open.spotify.com/album/4PEeoZc8Qar7mNvgL01Nnm) | 6:20 | 2021-02-26 |  |
 | [Nabarlek](https://open.spotify.com/track/6ebqWyNhpx1n6h2Hm1CsKq) | [Black Rock Band](https://open.spotify.com/artist/4HxoPeQX9fDkKiT7QgDUNW) | [Identity](https://open.spotify.com/album/5khXp3MooTl5CyguJHr59l) | 3:37 | 2021-03-14 |  |
@@ -641,6 +644,7 @@
 | [Sexy Pummarola](https://open.spotify.com/track/6gXj04PNcGzYS0LjNVrxNh) | [Gibo & Pummarola Band](https://open.spotify.com/artist/7fDyEm4yGOFMKnWv9GFRXA) | [Napoli Segreta Vol.2](https://open.spotify.com/album/4OFycCEd9tvzBSXGc3tVaG) | 3:31 | 2023-11-03 |  |
 | [Shabi\-Bi\-Di\-Do](https://open.spotify.com/track/689huiGtmrIQa42NKjcoks) | [The Dutch Benglos](https://open.spotify.com/artist/0s2zD6fZ9wIi8Irzi9VrcM) | [Straight from the Decks, Vol\. 2 \(Guts Finest Selection from His Famous DJ Sets\)](https://open.spotify.com/album/1e3t98nd6oAI4qsVWTRGDW) | 5:36 | 2021-07-13 |  |
 | [Shaka Bundu](https://open.spotify.com/track/3dEHR9etpw4v8ui2sJEjfS) | [Penny Penny](https://open.spotify.com/artist/06Q8GDhLVAoLAQwwFCPiAp) | [Shaka Bundu](https://open.spotify.com/album/64SxVLbnnQ2jYgHuBosDi4) | 4:50 | 2020-04-26 |  |
+| [Shakaboom](https://open.spotify.com/track/57hdy1BPfsLbIUqasY4us1) | [Tito Del Monte](https://open.spotify.com/artist/1q2oWTDN817eGcvUv2T61K) | [Invencible](https://open.spotify.com/album/4icsMRMLxJ0VBEFtxjAbt0) | 3:06 | 2024-11-12 |  |
 | [Sharazan](https://open.spotify.com/track/3QykjIsOz7tAH4G1OrRDT7) | [Al Bano And Romina Power](https://open.spotify.com/artist/1c0wBsDBu0NqpvxBqjYjZS) | [Felicità](https://open.spotify.com/album/6rYKh2EVXdWs5Pe8MugvSM) | 4:24 | 2024-03-22 |  |
 | [She Knows](https://open.spotify.com/track/6Nig7VH7y2iBZcdy1zyaM3) | [Sean Innit](https://open.spotify.com/artist/6s1uCVZ4zwLsqfPANWSlWX) | [African Disco Juice](https://open.spotify.com/album/1T36tgCcRLC7p5U0hlMDti) | 8:05 | 2021-01-26 |  |
 | [Siakwaa / Nana Agyei \- Medley](https://open.spotify.com/track/510hOuZSl4wqLLDARSddjn) | [The Polyversal Souls](https://open.spotify.com/artist/6ucByLJIHHN6HfdMyZylyi), [Sir Frank Karikari](https://open.spotify.com/artist/7ooUPeumSe2dVxkPYD9xmS) | [Siakwaa / Nana Agyei \(Medley\)](https://open.spotify.com/album/7vpecaht2VUeB04vCxL62E) | 4:17 | 2021-07-13 |  |
@@ -652,6 +656,7 @@
 | [Sodade](https://open.spotify.com/track/7xzMrUmlooPa1Fmp88hlYc) | [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Miss Perfumado](https://open.spotify.com/album/5JDeqzJVs53ZJT1KCjO6Jp) | 4:53 | 2019-12-12 |  |
 | [Solar Flares](https://open.spotify.com/track/2c4PAjYO0Ym9DB3iCGcM4I) | [Sven Libaek](https://open.spotify.com/artist/5mfMhhHDACKNJbXdrsbrm2) | [Barry 7's Connectors \- 21 Rare Library Tracks](https://open.spotify.com/album/6uyowSgnmd2zfkBw8g6ho2) | 3:31 | 2022-10-18 |  |
 | [Soleil Soleil](https://open.spotify.com/track/7c5LPjnFfNRWIhKGje5X5b) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Mots D'amour](https://open.spotify.com/album/4SpLpWMyS9k6mrn4po8AFC) | 3:58 | 2020-04-12 |  |
+| [Son Montuno](https://open.spotify.com/track/7n8hYSBU0U7ZAy8cZdIiGU) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Acapulco](https://open.spotify.com/album/2s40kpu6uD0VownTOxAEuc) | 2:55 | 2024-11-12 |  |
 | [Song Of The Sleeping Forest](https://open.spotify.com/track/0zNnrjAohPi8ghYD3t5HIX) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Symbol](https://open.spotify.com/album/0ntm3YaiXVkkGitWl2XASV) | 4:19 | 2022-02-28 |  |
 | [Sono pronto](https://open.spotify.com/track/5A9oF0HJJC8W63AjMGKzV5) | [Roberto Colombo](https://open.spotify.com/artist/3WBrljf7sExe9kbdahLAd5) | [Sfogatevi bestie](https://open.spotify.com/album/5RDyQvTa2C354c7tnj1iha) | 2:19 | 2023-04-03 |  |
 | [Sorriso Dela](https://open.spotify.com/track/4JEXDH5Slf6MEQvN5qj4Rz) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Sonhos E Memórias \- 1941 / 1972](https://open.spotify.com/album/0UFcljWRWT4oEpls4E1l46) | 3:07 | 2022-11-08 |  |

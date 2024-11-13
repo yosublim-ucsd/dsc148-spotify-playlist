@@ -5219,6 +5219,24 @@
     },
     {
       "album": {
+        "name": "Quiet Sky",
+        "url": "https://open.spotify.com/album/7F3GAMnlnyehjRASL9zm5v"
+      },
+      "artists": [
+        {
+          "name": "Xaverius Love",
+          "url": "https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121712,
+      "name": "Quiet Sky",
+      "url": "https://open.spotify.com/track/1LIybLsVVg5oRJgVsMAWlD"
+    },
+    {
+      "album": {
         "name": "Quieta",
         "url": "https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk"
       },
@@ -8034,6 +8052,24 @@
       "duration_ms": 202250,
       "name": "Wide Skies",
       "url": "https://open.spotify.com/track/7dgAZemjrAuLHTOikyWtbA"
+    },
+    {
+      "album": {
+        "name": "Winds of Distance",
+        "url": "https://open.spotify.com/album/0LGZJLAwysvGKC4VbEnFxy"
+      },
+      "artists": [
+        {
+          "name": "Into the Harmonies",
+          "url": "https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h"
+        }
+      ],
+      "date_added": "2024-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157601,
+      "name": "Winds of Distance",
+      "url": "https://open.spotify.com/track/2l2vDxXCwLAt9KKjtWO3lH"
     },
     {
       "album": {

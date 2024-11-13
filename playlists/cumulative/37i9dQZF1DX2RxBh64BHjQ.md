@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1K15GRZZATsCJyGJ4bYiEz">Luh Tyler</a>
 
-2,053 songs - 3 day 19 hr 35 min
+2,054 songs - 3 day 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1837,7 +1837,7 @@
 | [Tomorrow](https://open.spotify.com/track/2RkyV0KXNLstEKn2qb1KZ6) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 1:53 | 2022-07-15 | 2022-08-27 |
 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb) | 3:29 | 2022-09-23 | 2023-01-28 |
 | [Ton1ght \(Bonus\)](https://open.spotify.com/track/1AxglUIgkkLQ0RnMI67e3f) | [Exøtix](https://open.spotify.com/artist/558RX1PVNFmCYmOhveATIb) | [Mÿ Türn](https://open.spotify.com/album/2QqvTgBwhrV3NSI0CvfwfV) | 2:30 | 2022-11-11 | 2023-01-06 |
-| [Too Slow \(feat\. STAR BANDZ\)](https://open.spotify.com/track/1opgZsZPJJhZuEytACUaKH) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [ANIMALS ONLY](https://open.spotify.com/album/6m3DNzm0j8VH4YBX7g7WI0) | 2:30 | 2024-10-04 |  |
+| [Too Slow \(feat\. STAR BANDZ\)](https://open.spotify.com/track/1opgZsZPJJhZuEytACUaKH) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [ANIMALS ONLY](https://open.spotify.com/album/6m3DNzm0j8VH4YBX7g7WI0) | 2:30 | 2024-10-04 | 2024-11-13 |
 | [Took A While \(Be Us\)](https://open.spotify.com/track/2hM9XK7CRG631EdAbu5zFQ) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Took A While \(Be Us\)](https://open.spotify.com/album/3rE930Bcle8R4AEzVZm5sP) | 2:36 | 2024-08-02 | 2024-10-19 |
 | [Toot It Up \(with Flo Milli\)](https://open.spotify.com/track/3WKralGDklxTjxcMkGKx2g) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Toot It Up \(with Flo Milli\)](https://open.spotify.com/album/26TdIHP2CgrCBAfcwbexhP) | 2:49 | 2022-03-25 | 2022-04-29 |
 | [Top 5](https://open.spotify.com/track/2GVfGPj0USjI7zLgoZCsoU) | [T\-Shyne](https://open.spotify.com/artist/14qypx78D3Jd1mm7c2BqQb), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO) | [Top 5](https://open.spotify.com/album/4OJOkiJruc9KRJczjoiZ8c) | 2:51 | 2022-03-18 | 2022-04-02 |
@@ -1902,6 +1902,7 @@
 | [Very Demure \(feat\. NLE Choppa\)](https://open.spotify.com/track/2KGVhsXYpwnjrwJDCgjR1B) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Very Demure \(feat\. NLE Choppa\)](https://open.spotify.com/album/416CEavuvizR7lBjaFXvSd) | 2:03 | 2024-11-08 |  |
 | [Very Special](https://open.spotify.com/track/3S6DSiBFZuQrkqirp33iSB) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Mr\. Crawford Sampler](https://open.spotify.com/album/3wTBdbTjE7aGH1e7WEs7A3) | 2:17 | 2022-04-15 | 2022-07-29 |
 | [Very Special](https://open.spotify.com/track/63udrqw7YGYVqTNdBqgyKy) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Mr\. Crawford](https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7) | 2:17 | 2022-05-06 | 2022-08-06 |
+| [Viking](https://open.spotify.com/track/1TUHiLBQ6CVYZQOgnLjHbM) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [Saaheem](https://open.spotify.com/album/6PnO5SKESj6TTQWoWr72TA) | 2:44 | 2024-11-12 |  |
 | [Violence](https://open.spotify.com/track/0NFkmpm2jYEWqxO7bTXOBJ) | [Metro Marrs](https://open.spotify.com/artist/4mnXd7tspPHEPPJij1swWX), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [Violence](https://open.spotify.com/album/42RXC73YnQQ3kbN5FKl6zj) | 2:47 | 2022-07-08 | 2022-07-30 |
 | [Viral \(feat\. Lil Durk\)](https://open.spotify.com/track/2HNB1KfLWpQ3i7jG8LcOLU) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [4GOD II \(Deluxe\)](https://open.spotify.com/album/6nKbzw2rIciCleGWUui9Mw) | 3:06 | 2023-08-11 | 2023-10-14 |
 | [Vision Blurry](https://open.spotify.com/track/2d88S13urqCz2WgWonX48Z) | [SCY Jimm](https://open.spotify.com/artist/5vhUGtJ92TFdOlyZMDCXyT) | [Trench Baby](https://open.spotify.com/album/7fBPTnVPQVPJBMCx7SZxEf) | 3:00 | 2023-04-14 | 2023-06-03 |

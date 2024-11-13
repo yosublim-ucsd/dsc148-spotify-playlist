@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > All new music with an Indie twist\. Cover: la loye
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,380 likes - 76 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,379 likes - 76 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

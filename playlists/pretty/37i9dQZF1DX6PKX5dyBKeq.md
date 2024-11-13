@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Mazza\_l20
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,392,437 likes - 84 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,392,464 likes - 84 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 27 | [Tyla](https://open.spotify.com/track/2qzI2cIKKqMM7lCxbgRWFM) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [Tyla](https://open.spotify.com/album/2gpVnc299Vw2l5pqjSpHlt) | 2:14 |
 | 28 | [FSSH](https://open.spotify.com/track/7rhBC0NllkFAaLfxxjv4IL) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly) | [FSSH](https://open.spotify.com/album/7Hv1UGF3PZzXZ3ZTxGuIn4) | 3:10 |
 | 29 | [Moi](https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Moi](https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw) | 2:54 |
-| 30 | [DRAMA](https://open.spotify.com/track/0onShXGnisu2meDKLJtzix) | [D7](https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS) | [DRAMA](https://open.spotify.com/album/3j81wWqxgPUrXX2cWhOICJ) | 3:12 |
+| 30 | [DRAMA](https://open.spotify.com/track/0onShXGnisu2meDKLJtzix) | [D7](https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS), [RJ](https://open.spotify.com/artist/71IfPn1mb6lVyoHpjTntAF) | [DRAMA](https://open.spotify.com/album/3j81wWqxgPUrXX2cWhOICJ) | 3:12 |
 | 31 | [Lavender](https://open.spotify.com/track/4gy1QpxVe2DX4JoZ4HKnyU) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [A Man After God's Own Heart](https://open.spotify.com/album/7rTc2mMKVKpXG7DJVVdtCz) | 3:04 |
 | 32 | [No Hook](https://open.spotify.com/track/6p4ZXhG1JvoKDSQXPWaaBK) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [No Hook](https://open.spotify.com/album/4s7wzQo9sxeBz8TvS1uBHz) | 2:19 |
 | 33 | [Stack](https://open.spotify.com/track/6WYzRCJehnFlUqu2R41Og2) | [StudioWyzz](https://open.spotify.com/artist/6tC7M8WRbLtGchCdmCAhGJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Stack](https://open.spotify.com/album/0FmrJR7qIDLaviefashSum) | 1:54 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,897 likes - 161 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,959 likes - 161 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 92 | [Where Is My Mind? \- Instrumental Version](https://open.spotify.com/track/766XB704U3TCxAyU9xMthL) | [Gal Dahan](https://open.spotify.com/artist/21x9QjLzTIpMonjnMzVvQB), [Ezraz](https://open.spotify.com/artist/63DrGLldYLdFyqmDsy1m2S) | [Where Is My Mind? \(Instrumental Version\)](https://open.spotify.com/album/7AG3bIphLFGTtCeJbSdN0m) | 1:27 |
 | 93 | [Umbrella](https://open.spotify.com/track/5cfUalgs5w98W14C4Lt0Xh) | [Slowzy](https://open.spotify.com/artist/3DTvvf1uRWl4XzJdpsoERl) | [Umbrella](https://open.spotify.com/album/7nhVqmRzva6w501zTLcZJn) | 1:48 |
 | 94 | [You'll Be In My Heart](https://open.spotify.com/track/3XXemjIqQleJMVtae2Vsb6) | [Jeff Kaale](https://open.spotify.com/artist/6HbFnvkO1zsyxqyyfbNRwL), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi Minnie: Chill](https://open.spotify.com/album/37Fq2lVxXUoEVOekYAo9Pm) | 4:48 |
-| 95 | [Euá](https://open.spotify.com/track/5mLHyg1Ljqvo1lZlDgYhdc) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [HUGØ](https://open.spotify.com/artist/17DJNYAUPmyxap4CY4hCDK) | [Euá](https://open.spotify.com/album/4PsJG28AZlO1BehvVQVHBj) | 2:44 |
+| 95 | [Euá](https://open.spotify.com/track/5mLHyg1Ljqvo1lZlDgYhdc) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Hugo Santini](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos) | [Euá](https://open.spotify.com/album/4PsJG28AZlO1BehvVQVHBj) | 2:44 |
 | 96 | [Children](https://open.spotify.com/track/7JcLj7YKRbjFnoMFHOPTi3) | [RetroBlend](https://open.spotify.com/artist/0RbBkpf8a8qyPt7hi8ouT7), [Vincent Lee](https://open.spotify.com/artist/0cuXND9aMsZhko0y3w8uxw), [2Bough](https://open.spotify.com/artist/5oie92RnkCpuSHGWiReZtq) | [Children](https://open.spotify.com/album/6geMwmmof8UzPHf1Sa601e) | 2:05 |
 | 97 | [Love Yourself](https://open.spotify.com/track/3ZTOe4igHH1Di0taZWXJh7) | [Pacific](https://open.spotify.com/artist/5WLsGgfxV206tL7KD41Ft1) | [Love Yourself](https://open.spotify.com/album/5w0HSHiP2Dzfq9W4kOTO10) | 1:50 |
 | 98 | [Let Her Go](https://open.spotify.com/track/1AEGSdFCige8XcJHyzzP0Z) | [Mount Eminest](https://open.spotify.com/artist/4oUcWvCNxqNZv4l7BXlE0y) | [Let Her Go](https://open.spotify.com/album/7GcWIv4pQ0PsEBzmH3Ya6w) | 2:22 |

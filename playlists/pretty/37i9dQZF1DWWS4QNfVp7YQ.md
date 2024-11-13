@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,580 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,635 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 17 | [Baila Tribal](https://open.spotify.com/track/2MGSQFNoGCmkX4eduyeZUv) | [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv) | [Huapango Tribal](https://open.spotify.com/album/2mIbKhtHembnY7MpRyewj4) | 3:19 |
 | 18 | [Ya Se Tardaron](https://open.spotify.com/track/4CJokP3z9dm9oPOocuCbed) | [Fierro Pa Dubai](https://open.spotify.com/artist/79K7zwm0V8H5AH1nP6Jhze), [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv), [Maxx Gallo](https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2) | [Ya Se Tardaron](https://open.spotify.com/album/4wKTQKjevGrmYplMzNAaVm) | 2:55 |
 | 19 | [Chiquetere vs Rockstar Tribal Mix](https://open.spotify.com/track/4vPRVHNmPf310sQRYJmSQO) | [Dj Gecko](https://open.spotify.com/artist/6nYkQZXt1BPbVrmd4vAXJZ) | [Chiquetere vs Rockstar Tribal Mix](https://open.spotify.com/album/2NBtKwtr7Nd38M6wKlRYDn) | 3:23 |
-| 20 | [Si Me Tocan Esta Play, Si Bailo \- Guaracha, Aleteo, Zapateo, Tribal, House](https://open.spotify.com/track/1em725YNxISJ79QoT5ruUE) | [J\-Alex Stylee](https://open.spotify.com/artist/2LAyRJWNuuNRbok5t3K70i) | [Si Me Tocan Esta Play, Si Bailo \(Guaracha\)](https://open.spotify.com/album/0jK7zKpYPn2TcudoAvylOd) | 3:14 |
+| 20 | [vaMos](https://open.spotify.com/track/4bgV7f02Yt2wIdKRVwVYSn) | [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ), [Dj Zetian](https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy), [Dj Monst3r5](https://open.spotify.com/artist/2DAs7dxh1jqGtGmK9DWeAe) | [vaMos](https://open.spotify.com/album/4nrtKr0c1QbQDyr8llymgr) | 2:51 |
 | 21 | [Luego Luegito \[Electro Huapango\]](https://open.spotify.com/track/5HjFgPcDGw2aheShNLvoFq) | [Dj Gecko](https://open.spotify.com/artist/6nYkQZXt1BPbVrmd4vAXJZ), [Chunti](https://open.spotify.com/artist/0ygGyoQL8ERbkZFOmwZWPb) | [Luego Luegito \[Electro Huapango\]](https://open.spotify.com/album/0Qqm11AsJS2mnGNYiStZ6k) | 2:37 |
-| 22 | [vaMos](https://open.spotify.com/track/4bgV7f02Yt2wIdKRVwVYSn) | [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ), [Dj Zetian](https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy), [Dj Monst3r5](https://open.spotify.com/artist/2DAs7dxh1jqGtGmK9DWeAe) | [vaMos](https://open.spotify.com/album/4nrtKr0c1QbQDyr8llymgr) | 2:51 |
+| 22 | [Si Me Tocan Esta Play, Si Bailo \- Guaracha, Aleteo, Zapateo, Tribal, House](https://open.spotify.com/track/1em725YNxISJ79QoT5ruUE) | [J\-Alex Stylee](https://open.spotify.com/artist/2LAyRJWNuuNRbok5t3K70i) | [Si Me Tocan Esta Play, Si Bailo \(Guaracha\)](https://open.spotify.com/album/0jK7zKpYPn2TcudoAvylOd) | 3:14 |
 | 23 | [Bao Bao](https://open.spotify.com/track/1PzVGPTfbvlcFcHf8HDlGh) | [Tribal Stars](https://open.spotify.com/artist/2sYpzC6VrAQzY3AIXkDSVR), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [Bao Bao](https://open.spotify.com/album/1FuElQORi4fKKJdzRESi9n) | 3:23 |
 | 24 | [Imagínate](https://open.spotify.com/track/6dc7BsgtDwxlq4z7WyGE6Z) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [CID MX](https://open.spotify.com/artist/7l5dXp0vXYWwkOiLVJ06qx), [TBX](https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp) | [Imagínate](https://open.spotify.com/album/1DPWhGySSW1Jgf2AbaQOrx) | 2:37 |
 | 25 | [Meneando Cadera](https://open.spotify.com/track/23Ds3J2wLjXw1SkN3qICzv) | [Erick Rincon](https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba) | [Meneando Cadera](https://open.spotify.com/album/12keArBDvY9uckQtaIEbSS) | 2:11 |
