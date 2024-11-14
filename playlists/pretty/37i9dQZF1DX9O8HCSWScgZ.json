@@ -1,6 +1,6 @@
 {
   "description": "warm and cozy beats to watch the leaves fall, focus, study or chill to.",
-  "num_followers": 5344,
+  "num_followers": 5598,
   "original_name": "lofi autumn beats \ud83c\udf41\ud83c\udf42",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-11-08 04:00:00",
       "album": {
-        "name": "Big Fish",
-        "url": "https://open.spotify.com/album/2Ldz0ZfQh8GKRl43TlLjiT"
-      },
-      "artists": [
-        {
-          "name": "Hi Hat Henry",
-          "url": "https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52"
-        }
-      ],
-      "duration_ms": 155120,
-      "name": "Big Fish",
-      "url": "https://open.spotify.com/track/2zoSvGZXm4NSLHd5oBNtUc"
-    },
-    {
-      "added_at": "2024-11-08 04:00:00",
-      "album": {
         "name": "Maze",
         "url": "https://open.spotify.com/album/3WxO5DzS0MwIIOoVocv5ZW"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 132281,
       "name": "Maze",
       "url": "https://open.spotify.com/track/1sqmpPaAAI2rsepYYUMxkc"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Big Fish",
+        "url": "https://open.spotify.com/album/2Ldz0ZfQh8GKRl43TlLjiT"
+      },
+      "artists": [
+        {
+          "name": "Hi Hat Henry",
+          "url": "https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52"
+        }
+      ],
+      "duration_ms": 155120,
+      "name": "Big Fish",
+      "url": "https://open.spotify.com/track/2zoSvGZXm4NSLHd5oBNtUc"
     },
     {
       "added_at": "2024-11-08 04:00:00",
@@ -187,38 +187,6 @@
     {
       "added_at": "2024-11-08 04:00:00",
       "album": {
-        "name": "Vanisher",
-        "url": "https://open.spotify.com/album/4iQPUoFL9Z5jpIb4qtXGh8"
-      },
-      "artists": [
-        {
-          "name": "Justnormal",
-          "url": "https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs"
-        }
-      ],
-      "duration_ms": 132692,
-      "name": "Fika",
-      "url": "https://open.spotify.com/track/5jyT2q8NpSWblcifLzsAuY"
-    },
-    {
-      "added_at": "2024-11-08 04:00:00",
-      "album": {
-        "name": "Island Bounce",
-        "url": "https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq"
-      },
-      "artists": [
-        {
-          "name": "Hi Hat Henry",
-          "url": "https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52"
-        }
-      ],
-      "duration_ms": 147788,
-      "name": "Island Bounce",
-      "url": "https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F"
-    },
-    {
-      "added_at": "2024-11-08 04:00:00",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/6QSE30idLxJehzQjUyVIGf"
       },
@@ -251,6 +219,22 @@
     {
       "added_at": "2024-11-08 04:00:00",
       "album": {
+        "name": "Vanisher",
+        "url": "https://open.spotify.com/album/4iQPUoFL9Z5jpIb4qtXGh8"
+      },
+      "artists": [
+        {
+          "name": "Justnormal",
+          "url": "https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs"
+        }
+      ],
+      "duration_ms": 132692,
+      "name": "Fika",
+      "url": "https://open.spotify.com/track/5jyT2q8NpSWblcifLzsAuY"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
         "name": "Ends",
         "url": "https://open.spotify.com/album/05xppISFeHiGDlYUmgRqrc"
       },
@@ -267,22 +251,6 @@
     {
       "added_at": "2024-11-08 04:00:00",
       "album": {
-        "name": "Marupe Blues",
-        "url": "https://open.spotify.com/album/0Tz0WZwkhyKxtvvXlssb32"
-      },
-      "artists": [
-        {
-          "name": "Gooee",
-          "url": "https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Marupe Blues",
-      "url": "https://open.spotify.com/track/0LF6QrzIozQBkdR4OXECEm"
-    },
-    {
-      "added_at": "2024-11-08 04:00:00",
-      "album": {
         "name": "Northern Lights",
         "url": "https://open.spotify.com/album/4BxtzD2DCHFUaGoPqfCCfY"
       },
@@ -295,6 +263,38 @@
       "duration_ms": 149333,
       "name": "Cherry Orchards",
       "url": "https://open.spotify.com/track/5U3OfS34ggwIzho56omJzv"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Island Bounce",
+        "url": "https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq"
+      },
+      "artists": [
+        {
+          "name": "Hi Hat Henry",
+          "url": "https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52"
+        }
+      ],
+      "duration_ms": 147788,
+      "name": "Island Bounce",
+      "url": "https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Marupe Blues",
+        "url": "https://open.spotify.com/album/0Tz0WZwkhyKxtvvXlssb32"
+      },
+      "artists": [
+        {
+          "name": "Gooee",
+          "url": "https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Marupe Blues",
+      "url": "https://open.spotify.com/track/0LF6QrzIozQBkdR4OXECEm"
     },
     {
       "added_at": "2024-11-08 04:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-11-08 04:00:00",
       "album": {
-        "name": "Beam Me Up",
-        "url": "https://open.spotify.com/album/2eAXEuljSiuSlxT9i3tYj4"
-      },
-      "artists": [
-        {
-          "name": "Adam Space",
-          "url": "https://open.spotify.com/artist/3q9oOLVN8jaGI6Ui3qB2LU"
-        }
-      ],
-      "duration_ms": 123750,
-      "name": "Beam Me Up",
-      "url": "https://open.spotify.com/track/4iuQ5DwUqpOXfazF3S4pHG"
-    },
-    {
-      "added_at": "2024-11-08 04:00:00",
-      "album": {
         "name": "fika",
         "url": "https://open.spotify.com/album/0DqHffRxIV0AoPVIl6uZJq"
       },
@@ -503,18 +487,34 @@
     {
       "added_at": "2024-11-08 04:00:00",
       "album": {
-        "name": "temporary approved",
-        "url": "https://open.spotify.com/album/3nRBtSNytK87rJY1mZVKEa"
+        "name": "Beam Me Up",
+        "url": "https://open.spotify.com/album/2eAXEuljSiuSlxT9i3tYj4"
       },
       "artists": [
         {
-          "name": "Oroshi",
-          "url": "https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh"
+          "name": "Adam Space",
+          "url": "https://open.spotify.com/artist/3q9oOLVN8jaGI6Ui3qB2LU"
         }
       ],
-      "duration_ms": 120604,
-      "name": "temporary approved",
-      "url": "https://open.spotify.com/track/2kt3LN3iDaQMRINPRsGaJJ"
+      "duration_ms": 123750,
+      "name": "Beam Me Up",
+      "url": "https://open.spotify.com/track/4iuQ5DwUqpOXfazF3S4pHG"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "late nights",
+        "url": "https://open.spotify.com/album/4MyA7lyAneHYWnuR9S7NeA"
+      },
+      "artists": [
+        {
+          "name": "Slowday",
+          "url": "https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz"
+        }
+      ],
+      "duration_ms": 157021,
+      "name": "late nights",
+      "url": "https://open.spotify.com/track/7eFgCZQYH6fHKxwn6HPMas"
     },
     {
       "added_at": "2024-11-08 04:00:00",
@@ -535,6 +535,38 @@
       "duration_ms": 150389,
       "name": "Open Doors",
       "url": "https://open.spotify.com/track/7GhpBmlLkehIvowAgeU7wU"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "temporary approved",
+        "url": "https://open.spotify.com/album/3nRBtSNytK87rJY1mZVKEa"
+      },
+      "artists": [
+        {
+          "name": "Oroshi",
+          "url": "https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh"
+        }
+      ],
+      "duration_ms": 120604,
+      "name": "temporary approved",
+      "url": "https://open.spotify.com/track/2kt3LN3iDaQMRINPRsGaJJ"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Long Road Home",
+        "url": "https://open.spotify.com/album/6xJA1S3vUfAmujzyk8Ayx9"
+      },
+      "artists": [
+        {
+          "name": "Nova Night",
+          "url": "https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Long Road Home",
+      "url": "https://open.spotify.com/track/0AiFPymAPPa9wt5Lzw8GHM"
     },
     {
       "added_at": "2024-11-08 04:00:00",
@@ -563,38 +595,6 @@
     {
       "added_at": "2024-11-08 04:00:00",
       "album": {
-        "name": "Long Road Home",
-        "url": "https://open.spotify.com/album/6xJA1S3vUfAmujzyk8Ayx9"
-      },
-      "artists": [
-        {
-          "name": "Nova Night",
-          "url": "https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Long Road Home",
-      "url": "https://open.spotify.com/track/0AiFPymAPPa9wt5Lzw8GHM"
-    },
-    {
-      "added_at": "2024-11-08 04:00:00",
-      "album": {
-        "name": "late nights",
-        "url": "https://open.spotify.com/album/4MyA7lyAneHYWnuR9S7NeA"
-      },
-      "artists": [
-        {
-          "name": "Slowday",
-          "url": "https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz"
-        }
-      ],
-      "duration_ms": 157021,
-      "name": "late nights",
-      "url": "https://open.spotify.com/track/7eFgCZQYH6fHKxwn6HPMas"
-    },
-    {
-      "added_at": "2024-11-08 04:00:00",
-      "album": {
         "name": "Autumn In New York",
         "url": "https://open.spotify.com/album/7cz2pYe6rJnJxpc6xR8q9u"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 105397,
       "name": "Autumn In New York",
       "url": "https://open.spotify.com/track/0zDJijiN6g2nIKp5IqTKmC"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "The Tallest Mountain",
+        "url": "https://open.spotify.com/album/38OaG5sdb67iy5IFNPpcwy"
+      },
+      "artists": [
+        {
+          "name": "Cyber Bloom",
+          "url": "https://open.spotify.com/artist/3zeayfTUAD4ekNKbjFmRA7"
+        }
+      ],
+      "duration_ms": 136750,
+      "name": "The Tallest Mountain",
+      "url": "https://open.spotify.com/track/14rZzlYzQ5emCMpb5FLeR5"
     },
     {
       "added_at": "2024-11-08 04:00:00",
@@ -663,22 +679,6 @@
       "duration_ms": 180791,
       "name": "midnight escape",
       "url": "https://open.spotify.com/track/1H1wSRhMTiGB6cgrNQO4gw"
-    },
-    {
-      "added_at": "2024-11-08 04:00:00",
-      "album": {
-        "name": "The Tallest Mountain",
-        "url": "https://open.spotify.com/album/38OaG5sdb67iy5IFNPpcwy"
-      },
-      "artists": [
-        {
-          "name": "Cyber Bloom",
-          "url": "https://open.spotify.com/artist/3zeayfTUAD4ekNKbjFmRA7"
-        }
-      ],
-      "duration_ms": 136750,
-      "name": "The Tallest Mountain",
-      "url": "https://open.spotify.com/track/14rZzlYzQ5emCMpb5FLeR5"
     },
     {
       "added_at": "2024-11-08 04:00:00",
@@ -747,18 +747,18 @@
     {
       "added_at": "2024-11-08 04:00:00",
       "album": {
-        "name": "flying on the clouds",
-        "url": "https://open.spotify.com/album/6ERlD8xNArGmJwqvzmWRQr"
+        "name": "Paper Kites",
+        "url": "https://open.spotify.com/album/2aw3cgdHzSrknrSdyYqhHp"
       },
       "artists": [
         {
-          "name": "Chapter IX",
-          "url": "https://open.spotify.com/artist/6mKDo2EqkJiOtF3cs1CIZV"
+          "name": "Loose Principles",
+          "url": "https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk"
         }
       ],
-      "duration_ms": 145687,
-      "name": "flying on the clouds",
-      "url": "https://open.spotify.com/track/4cwRE9jaIOcAsuuTpelpC4"
+      "duration_ms": 138987,
+      "name": "Paper Kites",
+      "url": "https://open.spotify.com/track/6OVR1eAheHHPaiQVka10Mg"
     },
     {
       "added_at": "2024-11-08 04:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-11-08 04:00:00",
       "album": {
-        "name": "Paper Kites",
-        "url": "https://open.spotify.com/album/2aw3cgdHzSrknrSdyYqhHp"
-      },
-      "artists": [
-        {
-          "name": "Loose Principles",
-          "url": "https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk"
-        }
-      ],
-      "duration_ms": 138987,
-      "name": "Paper Kites",
-      "url": "https://open.spotify.com/track/6OVR1eAheHHPaiQVka10Mg"
-    },
-    {
-      "added_at": "2024-11-08 04:00:00",
-      "album": {
         "name": "Maple Sunsets",
         "url": "https://open.spotify.com/album/2iV1rlCaAVV88O8zyUSls2"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 118153,
       "name": "Maple Sunsets",
       "url": "https://open.spotify.com/track/42OVQFMwtsVVgND9Pl9RXm"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "flying on the clouds",
+        "url": "https://open.spotify.com/album/6ERlD8xNArGmJwqvzmWRQr"
+      },
+      "artists": [
+        {
+          "name": "Chapter IX",
+          "url": "https://open.spotify.com/artist/6mKDo2EqkJiOtF3cs1CIZV"
+        }
+      ],
+      "duration_ms": 145687,
+      "name": "flying on the clouds",
+      "url": "https://open.spotify.com/track/4cwRE9jaIOcAsuuTpelpC4"
     },
     {
       "added_at": "2024-11-08 04:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-11-08 04:00:00",
       "album": {
-        "name": "Natsumi",
-        "url": "https://open.spotify.com/album/72FhFkkn8epsa96noAjLMJ"
-      },
-      "artists": [
-        {
-          "name": "Neko Kedi",
-          "url": "https://open.spotify.com/artist/785Hs8MoBt2oTIRtfEtsuw"
-        }
-      ],
-      "duration_ms": 126153,
-      "name": "Natsumi",
-      "url": "https://open.spotify.com/track/4GQ8CyrjkROX6hiM7q1d2H"
-    },
-    {
-      "added_at": "2024-11-08 04:00:00",
-      "album": {
         "name": "broth",
         "url": "https://open.spotify.com/album/4r5vFtlHvYzp23Xn34Oj8Y"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 186666,
       "name": "broth",
       "url": "https://open.spotify.com/track/1V07rv74k9FinkehDGR14N"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Natsumi",
+        "url": "https://open.spotify.com/album/72FhFkkn8epsa96noAjLMJ"
+      },
+      "artists": [
+        {
+          "name": "Neko Kedi",
+          "url": "https://open.spotify.com/artist/785Hs8MoBt2oTIRtfEtsuw"
+        }
+      ],
+      "duration_ms": 126153,
+      "name": "Natsumi",
+      "url": "https://open.spotify.com/track/4GQ8CyrjkROX6hiM7q1d2H"
     },
     {
       "added_at": "2024-11-08 04:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-11-08 04:00:00",
       "album": {
+        "name": "Muscot",
+        "url": "https://open.spotify.com/album/4SND1sjGy3qhhQYL13UjLI"
+      },
+      "artists": [
+        {
+          "name": "ORANCHA",
+          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
+        }
+      ],
+      "duration_ms": 157894,
+      "name": "Hotaru",
+      "url": "https://open.spotify.com/track/6dOgXIJVo4FPXN1dKaVzeS"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
         "name": "decorate",
         "url": "https://open.spotify.com/album/3T1DwyLHdDde5oOxNGmwyt"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 122357,
       "name": "routine",
       "url": "https://open.spotify.com/track/0HZsLTBHkIrtDC0qmCOAtg"
-    },
-    {
-      "added_at": "2024-11-08 04:00:00",
-      "album": {
-        "name": "Muscot",
-        "url": "https://open.spotify.com/album/4SND1sjGy3qhhQYL13UjLI"
-      },
-      "artists": [
-        {
-          "name": "ORANCHA",
-          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
-        }
-      ],
-      "duration_ms": 157894,
-      "name": "Hotaru",
-      "url": "https://open.spotify.com/track/6dOgXIJVo4FPXN1dKaVzeS"
     },
     {
       "added_at": "2024-11-08 04:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-11-08 04:00:00",
       "album": {
-        "name": "Porcelain Nebula",
-        "url": "https://open.spotify.com/album/1OE5DSycVW3eHCONqFsPAc"
-      },
-      "artists": [
-        {
-          "name": "Bandarr",
-          "url": "https://open.spotify.com/artist/7rOTQynBDwYkAxZpy9bSEi"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Golden Spices",
-      "url": "https://open.spotify.com/track/4fqT0kNekNtRVzGu6Ln5bB"
-    },
-    {
-      "added_at": "2024-11-08 04:00:00",
-      "album": {
         "name": "raphael",
         "url": "https://open.spotify.com/album/21oJkldyM7lbK0Ki87qnFA"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2024-11-08 04:00:00",
       "album": {
-        "name": "Occasions",
-        "url": "https://open.spotify.com/album/4KADYqV6KjvdtxhY8MulEA"
+        "name": "Porcelain Nebula",
+        "url": "https://open.spotify.com/album/1OE5DSycVW3eHCONqFsPAc"
       },
       "artists": [
         {
-          "name": "cloudsonmymind",
-          "url": "https://open.spotify.com/artist/2YS55Gaa9L2WvDtG3kYRy7"
+          "name": "Bandarr",
+          "url": "https://open.spotify.com/artist/7rOTQynBDwYkAxZpy9bSEi"
         }
       ],
-      "duration_ms": 142516,
-      "name": "Occasions",
-      "url": "https://open.spotify.com/track/5Bf3tZzkgcnpqaGLKkInmV"
+      "duration_ms": 160941,
+      "name": "Golden Spices",
+      "url": "https://open.spotify.com/track/4fqT0kNekNtRVzGu6Ln5bB"
     },
     {
       "added_at": "2024-11-08 04:00:00",
@@ -1147,6 +1131,22 @@
       "duration_ms": 157935,
       "name": "clouded",
       "url": "https://open.spotify.com/track/02yaLWrbBD6rjztw6b0cLL"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Occasions",
+        "url": "https://open.spotify.com/album/4KADYqV6KjvdtxhY8MulEA"
+      },
+      "artists": [
+        {
+          "name": "cloudsonmymind",
+          "url": "https://open.spotify.com/artist/2YS55Gaa9L2WvDtG3kYRy7"
+        }
+      ],
+      "duration_ms": 142516,
+      "name": "Occasions",
+      "url": "https://open.spotify.com/track/5Bf3tZzkgcnpqaGLKkInmV"
     },
     {
       "added_at": "2024-11-08 04:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-11-08 04:00:00",
       "album": {
-        "name": "Glowing Tears",
-        "url": "https://open.spotify.com/album/4VEGzMvsvquNr4Mc3C9rBD"
-      },
-      "artists": [
-        {
-          "name": "JAKKARTA",
-          "url": "https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Glowing Tears",
-      "url": "https://open.spotify.com/track/32m44mzFzkX6id2ERis5qj"
-    },
-    {
-      "added_at": "2024-11-08 04:00:00",
-      "album": {
         "name": "Drizzle",
         "url": "https://open.spotify.com/album/5pCz6ijkmoUi0SW8mN4seh"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 124931,
       "name": "Drizzle",
       "url": "https://open.spotify.com/track/5upFjPY4295n6g5AAr9LZq"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Glowing Tears",
+        "url": "https://open.spotify.com/album/4VEGzMvsvquNr4Mc3C9rBD"
+      },
+      "artists": [
+        {
+          "name": "JAKKARTA",
+          "url": "https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Glowing Tears",
+      "url": "https://open.spotify.com/track/32m44mzFzkX6id2ERis5qj"
     }
   ],
   "unique_name": "lofi autumn beats \ud83c\udf41\ud83c\udf42",

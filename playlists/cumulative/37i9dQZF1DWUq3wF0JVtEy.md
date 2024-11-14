@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-491 songs - 23 hr 59 min
+492 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Dance No More \(with Kaleena Zanders\)](https://open.spotify.com/track/7gDgphzQU0urJU3AtoLJup) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Dance No More \(with Kaleena Zanders\)](https://open.spotify.com/album/7uvMgsCSqtqOGaUfTRMZpL) | 3:22 | 2023-12-08 | 2024-04-19 |
 | [Dancefloor](https://open.spotify.com/track/7lk1IsQ6oS8c0cmW5Qr2EE) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO) | [Dancefloor](https://open.spotify.com/album/1jq4DZb0TM25hTPAssCQKa) | 3:26 | 2023-12-29 | 2024-02-24 |
 | [Dancin'](https://open.spotify.com/track/33ZmeSclK7iCu8HtHChTQw) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa), [KEYTON](https://open.spotify.com/artist/5Tfpom9xTru2xTcnd2QBLi) | [Dancin'](https://open.spotify.com/album/6XI0fO1BWw9u0cD2wMRg2c) | 3:25 | 2023-11-24 | 2023-12-09 |
+| [Dancin'](https://open.spotify.com/track/0lmFObF53iIn8d21SM3RUL) | [Riggi & Piros](https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH) | [Dancin'](https://open.spotify.com/album/0lJSRavFYfu6iCh9l5B2yP) | 2:24 | 2024-11-08 |  |
 | [dashstar\*](https://open.spotify.com/track/0dAfw35k2hBsnbSl74AVJF) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [dashstar\*](https://open.spotify.com/album/3AQFV0Eye3fdkpPHODbxlG) | 3:18 | 2022-07-22 |  |
 | [Daybreak](https://open.spotify.com/track/4VgZlIY58oEZPLKahmLbeP) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Daybreak](https://open.spotify.com/album/2J8jC1c6qGfQEf8X7NlGy3) | 3:22 | 2021-10-29 | 2022-03-13 |
 | [Deep Blue Sea](https://open.spotify.com/track/5lmTPyCJMKuNJG1g1ULozO) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Deep Blue Sea](https://open.spotify.com/album/3jNulGujlsPSAUsWBoRiEd) | 4:19 | 2023-11-17 | 2023-12-16 |
@@ -409,7 +410,7 @@
 | [Sick](https://open.spotify.com/track/2GbDbMyyLggfBWh8NCMBLj) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Sick](https://open.spotify.com/album/1IEHHhA8ZT0AqC6LLiWOp2) | 2:48 | 2023-04-21 | 2023-05-24 |
 | [Sickness](https://open.spotify.com/track/0BwEzkVtELJI3suZINw6Yb) | [AdamDarling](https://open.spotify.com/artist/3ymgkFheVJc8RE98s1yMM6), [Ruta](https://open.spotify.com/artist/7mL413dtjZt1cIHhEkgm4D) | [Sickness](https://open.spotify.com/album/4VeM580tSutZmK3cLH7lZ8) | 2:36 | 2021-10-29 | 2022-07-29 |
 | [Silent](https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Silent](https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs) | 3:10 | 2022-08-05 |  |
-| [Sinnerman Riddim](https://open.spotify.com/track/1DppIKxWwxHlAqe2NbFHiW) | [Vato Gonzalez](https://open.spotify.com/artist/4mDTB962RcRuArrhQazgOG) | [Sinnerman Riddim](https://open.spotify.com/album/6BvS770hMdIWKzMJLYxBPv) | 2:16 | 2024-05-31 |  |
+| [Sinnerman Riddim](https://open.spotify.com/track/1DppIKxWwxHlAqe2NbFHiW) | [Vato Gonzalez](https://open.spotify.com/artist/4mDTB962RcRuArrhQazgOG) | [Sinnerman Riddim](https://open.spotify.com/album/6BvS770hMdIWKzMJLYxBPv) | 2:16 | 2024-05-31 | 2024-11-14 |
 | [Sleepless](https://open.spotify.com/track/0AQ1twwDGVlIVpcHDkGkXD) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Sleepless](https://open.spotify.com/album/4YnRwV3h9R5SrDyp3PYUYH) | 3:05 | 2021-10-29 | 2022-11-12 |
 | [Smack That](https://open.spotify.com/track/2ttKP17aZtsb96c6sK1QDK) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [CJ.](https://open.spotify.com/artist/1EUvNOgSHmGTn7sAkKGopj) | [Smack That](https://open.spotify.com/album/6coZsT8OiaHO1a98kJkjVQ) | 2:40 | 2023-04-21 |  |
 | [So We Go \- Martin Jensen Edit](https://open.spotify.com/track/0cWDechbo7Tmf6nk0QRLhI) | [Katy Tiz](https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW), [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [So We Go \(Martin Jensen Edit\)](https://open.spotify.com/album/1Dh413qT2GcFUGdcRqJZB6) | 2:24 | 2021-10-29 | 2022-08-06 |

@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Holden & mew
 
-540 songs - 1 day 1 hr 2 min
+541 songs - 1 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,9 +423,10 @@
 | [Roulette](https://open.spotify.com/track/6WCXJhQsP3ykIr1kOfO7dh) | [Sarah](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Roulette](https://open.spotify.com/album/6xSWwCb4pBor8WwaMQ9GWW) | 2:50 | 2024-07-25 | 2024-10-04 |
 | [RUMORE](https://open.spotify.com/track/21ue7kSKtFBqGQNV23uGW8) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 2:39 | 2023-09-28 | 2023-10-06 |
 | [RUMORE](https://open.spotify.com/track/7fxAFWmMsl86C60gW5yooG) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [RUMORE](https://open.spotify.com/album/6Lo4MzfKF6e0mwnEGtdGgd) | 2:39 | 2023-09-12 | 2023-10-04 |
-| [Salire](https://open.spotify.com/track/5kuVlOHjzutgkyopjJn8A2) | [Lucy](https://open.spotify.com/artist/4UH11YIdiHkl8rCyRdSR0P) | [Salire](https://open.spotify.com/album/4HYUidAJGBAxq8sxTEd3iV) | 3:09 | 2024-09-26 |  |
+| [Salire](https://open.spotify.com/track/5kuVlOHjzutgkyopjJn8A2) | [Lucy](https://open.spotify.com/artist/4UH11YIdiHkl8rCyRdSR0P) | [Salire](https://open.spotify.com/album/4HYUidAJGBAxq8sxTEd3iV) | 3:09 | 2024-09-26 | 2024-11-14 |
 | [Sangue e Aria](https://open.spotify.com/track/2FGQvZ0P8QcOqAshENIbK2) | [Sercho](https://open.spotify.com/artist/1YzDKK9gJRBqqkL5wxQQTa) | [Sangue e Aria](https://open.spotify.com/album/3FIG3AbOwcV8Ww8ur0jZ55) | 2:35 | 2023-09-21 | 2023-10-20 |
 | [Scappi da me](https://open.spotify.com/track/75vgIeiaO6DtqrToQby1Qg) | [Crytical](https://open.spotify.com/artist/1zcq8tjytfCbpj2VHmGfck) | [Solo Francesco](https://open.spotify.com/album/6xPawfNwFStXqQHms84B2R) | 2:50 | 2023-03-23 | 2023-04-27 |
+| [Scarabocchi](https://open.spotify.com/track/4X4R6qsIicxIQIFbnDcJLO) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7) | 3:00 | 2024-11-13 |  |
 | [Schiava della Vita](https://open.spotify.com/track/3uXafV40eOIYmrGaSg7af3) | [LINDA](https://open.spotify.com/artist/50c2SwGX2DmpRjwespS3mv) | [Schiava della Vita](https://open.spotify.com/album/3O7kIq8JQAcWd5MmoPY1jc) | 2:45 | 2024-10-10 |  |
 | [Scivola](https://open.spotify.com/track/4xWsKYuIZS3Y5wSk7S5HyS) | [Federica\_](https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g) | [Scivola](https://open.spotify.com/album/2wYSqbGIQePGdEMCcKKufh) | 2:38 | 2023-03-23 | 2023-06-16 |
 | [Scusa](https://open.spotify.com/track/7w9URuxEODwcChkFCpsf5Q) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 2:55 | 2023-04-13 | 2023-06-09 |

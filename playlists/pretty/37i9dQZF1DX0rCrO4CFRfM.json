@@ -1,6 +1,6 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 992401,
+  "num_followers": 992571,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-10-25 07:41:44",
       "album": {
-        "name": "Order In Decline B-Sides",
-        "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 240019,
-      "name": "Catching Fire (Acoustic)",
-      "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
-    },
-    {
-      "added_at": "2024-10-25 07:41:44",
-      "album": {
         "name": "Talihina Sky",
         "url": "https://open.spotify.com/album/7f9i3ESobBA31kfdfqXQSG"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 206253,
       "name": "Talihina Sky - Acoustic Version",
       "url": "https://open.spotify.com/track/1DNM1bkIEzqGrCcQndWl1C"
+    },
+    {
+      "added_at": "2024-10-25 07:41:44",
+      "album": {
+        "name": "Order In Decline B-Sides",
+        "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 240019,
+      "name": "Catching Fire (Acoustic)",
+      "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
     },
     {
       "added_at": "2024-10-25 07:41:44",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-10-25 07:41:44",
       "album": {
-        "name": "Broken Heart of Gold (Acoustic)",
-        "url": "https://open.spotify.com/album/7neFui3IJyMhntotCcfVvW"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "Broken Heart of Gold - Acoustic",
-      "url": "https://open.spotify.com/track/2dQipRQrdclKwgHm6yHh43"
-    },
-    {
-      "added_at": "2024-10-25 07:41:44",
-      "album": {
         "name": "Many of Horror (MTV Unplugged Live; Edit)",
         "url": "https://open.spotify.com/album/0XFIPAAY4ECJbLrWe9jBzu"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 254510,
       "name": "Many of Horror - MTV Unplugged Live; Edit",
       "url": "https://open.spotify.com/track/1DNP8yFg3tMYmX6Afm1Lud"
+    },
+    {
+      "added_at": "2024-10-25 07:41:44",
+      "album": {
+        "name": "Broken Heart of Gold (Acoustic)",
+        "url": "https://open.spotify.com/album/7neFui3IJyMhntotCcfVvW"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Broken Heart of Gold - Acoustic",
+      "url": "https://open.spotify.com/track/2dQipRQrdclKwgHm6yHh43"
     },
     {
       "added_at": "2024-10-25 07:41:44",

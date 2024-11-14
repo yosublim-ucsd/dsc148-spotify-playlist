@@ -2781,6 +2781,24 @@
     },
     {
       "album": {
+        "name": "Ultimo",
+        "url": "https://open.spotify.com/album/7cK8rxHPtgIYcp417wQg2V"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sitts",
+          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155778,
+      "name": "Ultimo",
+      "url": "https://open.spotify.com/track/1eiVzLJEZ9Fn3ubDec4Vnm"
+    },
+    {
+      "album": {
         "name": "Basement Boom",
         "url": "https://open.spotify.com/album/5hrt23hzfo8qFMJxpJOXdy"
       },

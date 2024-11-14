@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Nina Chuba
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,094 likes - 96 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,148 likes - 96 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 70 | [Treibsand](https://open.spotify.com/track/1pdJrLMzYp2WuPTNS28I3i) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Treibsand](https://open.spotify.com/album/3gR16JoDHevYtkTABKoVAj) | 2:14 |
 | 71 | [Only You](https://open.spotify.com/track/73tNHdm3oeKcJrh0Xsrii1) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Only You](https://open.spotify.com/album/60r5RIcDErYpf1LrrpbjZT) | 3:01 |
 | 72 | [Vernetzt](https://open.spotify.com/track/3WquCmFXrhti6cLBeXn6CS) | [RAPK](https://open.spotify.com/artist/7b4qgFeygnbXxcH3cvKl1D), [Big Pat](https://open.spotify.com/artist/1ZpLpz4tFdvUocboq1KX3M) | [Streben nach Glück 01](https://open.spotify.com/album/1bVM3CTDHvxNaQEUPrUNWK) | 2:33 |
-| 73 | [For Me \(with Brent Faiyaz\)](https://open.spotify.com/track/2mo4wJKJJR2lQCZYnTaI4Y) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Nardy World](https://open.spotify.com/album/546FvdeuoSf9FA2o6RMpOy) | 3:23 |
+| 73 | [For Me \(feat\. Brent Faiyaz\) \- Remix](https://open.spotify.com/track/2mo4wJKJJR2lQCZYnTaI4Y) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Nardy World](https://open.spotify.com/album/546FvdeuoSf9FA2o6RMpOy) | 3:23 |
 | 74 | [Stay](https://open.spotify.com/track/3bxx1fc2NxE8ZJa6zLskNf) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Die Happy](https://open.spotify.com/album/1A80UhpC8KIRVJWhLSkcdI) | 3:25 |
 | 75 | [FEARLESS \- TC/TC](https://open.spotify.com/track/1ICZ3cwNl76BkWUI04Qjyd) | [TC/TC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94), [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [FEARLESS \(TC/TC\)](https://open.spotify.com/album/35bQtPvqumVqr8SQXknxvE) | 4:33 |
 | 76 | [Ego Maniacs](https://open.spotify.com/track/55qnnjyxq5LuXq6WyZd9Er) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Ego Maniacs](https://open.spotify.com/album/0Ox81bEz1Hjj6KPiI65yjB) | 3:38 |

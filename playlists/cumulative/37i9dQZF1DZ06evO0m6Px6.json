@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 85883,
       "name": "A View From The Sky",
       "url": "https://open.spotify.com/track/10N0I9KcAZ7dJKs6n3x7WQ"
@@ -390,7 +390,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 164125,
       "name": "Checkpoint Titanium",
       "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-05",
+      "date_removed": null,
       "duration_ms": 129382,
       "name": "Overhead",
       "url": "https://open.spotify.com/track/3kzoBgu32qNmaCLNCHhStO"
@@ -1316,6 +1316,28 @@
       "duration_ms": 194000,
       "name": "So Far From Home",
       "url": "https://open.spotify.com/track/4uxotSDHxQehaHnkaVA9uR"
+    },
+    {
+      "album": {
+        "name": "Checkpoint Titanium",
+        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Seamus Hamilton",
+          "url": "https://open.spotify.com/artist/7h3INHhaa4Iom1a5vBfkgO"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194125,
+      "name": "Social Stimulus",
+      "url": "https://open.spotify.com/track/0S0lnAxY9vvFgumbUEMyGF"
     },
     {
       "album": {

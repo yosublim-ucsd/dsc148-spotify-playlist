@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。XG, MISAMO, imase, Myles Smith, Primal Scream and more! cover: XG
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,185 likes - 76 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,194 likes - 76 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 52 | [Dece \(Heavy\)](https://open.spotify.com/track/0hYbXX6Tjgtj1MdNtEYyRI) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Dece \(Heavy\) \- A COLORS SHOW](https://open.spotify.com/album/5gYRkmhO4fIdhJw8TQbka1) | 2:33 |
 | 53 | [Night Light \(feat\. CBS\)](https://open.spotify.com/track/0pxIoIZd8OY40f3BmPZtEy) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [CBS](https://open.spotify.com/artist/7AHhB1P3XhzSw4oPT2unag) | [City to City , Coast to Coast](https://open.spotify.com/album/4DioDvfg5HKaP0Y0dxkKIj) | 4:06 |
 | 54 | [The Ravine FEAT\. Shing02](https://open.spotify.com/track/2v1ajfnlPRZupbMvy4bYAA) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [The Ravine FEAT\. Shing02](https://open.spotify.com/album/0sHgH36UPj3OLfUQk2gSV8) | 3:18 |
-| 55 | [For Me \(with Brent Faiyaz\)](https://open.spotify.com/track/2mo4wJKJJR2lQCZYnTaI4Y) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Nardy World](https://open.spotify.com/album/546FvdeuoSf9FA2o6RMpOy) | 3:23 |
+| 55 | [For Me \(feat\. Brent Faiyaz\) \- Remix](https://open.spotify.com/track/2mo4wJKJJR2lQCZYnTaI4Y) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Nardy World](https://open.spotify.com/album/546FvdeuoSf9FA2o6RMpOy) | 3:23 |
 | 56 | [B3 \(be free\)](https://open.spotify.com/track/4AZ5ZO1EndDvbxrRdH9mnd) | [J\-Sol](https://open.spotify.com/artist/0moTgm8lXIQpK1EXLSgJFR), [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [B3 \(be free\)](https://open.spotify.com/album/4FImsanGD52HhxUJsa3jKP) | 3:00 |
 | 57 | [CALL BACK](https://open.spotify.com/track/3iNi1rYa9FCDKSjA7cMBbN) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [CALL BACK \- The 1st Album](https://open.spotify.com/album/1VePAESUefVV2SCMFeo3TY) | 3:18 |
 | 58 | [The Story](https://open.spotify.com/track/1RgojDREKMLTMyhhD66LWj) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [The Story](https://open.spotify.com/album/0nqC5SAcOnxL5v78tDSXCJ) | 3:06 |

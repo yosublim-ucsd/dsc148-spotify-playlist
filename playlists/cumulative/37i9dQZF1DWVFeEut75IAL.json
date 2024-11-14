@@ -2663,7 +2663,7 @@
     },
     {
       "album": {
-        "name": "Debussy/Poulenc/Franck/Ravel:Music for Cello & Piano",
+        "name": "Debussy - Poulenc - Franck & Ravel: Music for Cello and Piano",
         "url": "https://open.spotify.com/album/1cUtLiXmkRNUw9j9eyyPgM"
       },
       "artists": [
@@ -2672,8 +2672,12 @@
           "url": "https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY"
         },
         {
-          "name": "Daniel M\u00fcller-Schott/Robert Kulek",
-          "url": "https://open.spotify.com/artist/4VUYXi3DM3kMe8ifsgz4vD"
+          "name": "Daniel M\u00fcller-Schott",
+          "url": "https://open.spotify.com/artist/13kYI59V1rOIh9nmzNMzXJ"
+        },
+        {
+          "name": "Robert Kulek",
+          "url": "https://open.spotify.com/artist/4RSJRhT5GelylFFXUrDPBf"
         }
       ],
       "date_added": "2021-11-15",

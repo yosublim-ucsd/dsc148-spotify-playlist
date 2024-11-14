@@ -1,12 +1,12 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: KhoslaRaghu",
-  "num_followers": 176099,
+  "num_followers": 176114,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzGmxgAAAAC+BCrHFCbcfxPQMDd+SmTb",
+  "snapshot_id": "ZzRByAAAAABxeXKhMFtQITyQlf0yPq0k",
   "tracks": [
     {
       "added_at": "2024-11-10 11:36:41",
@@ -79,6 +79,34 @@
       "duration_ms": 134139,
       "name": "Uljhan",
       "url": "https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY"
+    },
+    {
+      "added_at": "2024-11-13 06:06:00",
+      "album": {
+        "name": "Doob Rahe",
+        "url": "https://open.spotify.com/album/0KILWgIiuzqtP99zanSeFB"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        },
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        },
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        }
+      ],
+      "duration_ms": 143111,
+      "name": "Doob Rahe",
+      "url": "https://open.spotify.com/track/1WRDp1AySdILhmOmMNx20r"
     },
     {
       "added_at": "2024-11-10 11:36:41",
@@ -1107,22 +1135,6 @@
       "duration_ms": 134857,
       "name": "Kaho na",
       "url": "https://open.spotify.com/track/5znUlfypbCVjEzqGvzy0Xw"
-    },
-    {
-      "added_at": "2024-11-10 11:36:41",
-      "album": {
-        "name": "Khaak",
-        "url": "https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ"
-      },
-      "artists": [
-        {
-          "name": "Ramil Ganjoo",
-          "url": "https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "Khaak",
-      "url": "https://open.spotify.com/track/1Y74Rn3fLUbYRNhzXpFMx4"
     },
     {
       "added_at": "2024-11-10 11:36:41",

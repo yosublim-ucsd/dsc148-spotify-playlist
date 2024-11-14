@@ -693,6 +693,28 @@
     },
     {
       "album": {
+        "name": "Plano do Senhor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3P7kaN3yU9kqsLYFWDbyts"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448926,
+      "name": "Plano do Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/2PD5MtZK2es46ZmjgSunUA"
+    },
+    {
+      "album": {
         "name": "Plano Original",
         "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
       },

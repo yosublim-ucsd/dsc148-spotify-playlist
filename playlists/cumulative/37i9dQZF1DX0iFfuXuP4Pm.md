@@ -2,7 +2,7 @@
 
 ### [Tatak Pinoy](https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm)
 
-> Mga nangunguna sa mundo ng OPM\. <br/>Cover: Adie
+> Mga nangunguna sa mundo ng OPM\. <br/>Cover: MATÉO
 
 222 songs - 13 hr 37 min
 

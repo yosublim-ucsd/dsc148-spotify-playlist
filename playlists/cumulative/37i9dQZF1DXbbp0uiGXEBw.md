@@ -4,7 +4,7 @@
 
 > Tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: 52Hz
 
-280 songs - 18 hr 0 min
+281 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,7 @@
 | [Vũ Trụ Có Anh](https://open.spotify.com/track/2fZ2YiLZWcRGugosefLKJH) | [Phuong My Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG), [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9) | [Vũ Trụ Có Anh](https://open.spotify.com/album/4AB7jTEqKQICkM5DV4f5ZX) | 3:42 | 2023-05-02 | 2023-07-14 |
 | [Vũ Trụ Có Anh \(feat\. Pháo\)](https://open.spotify.com/track/4bOwnJwm4Zy1vjnndHFLHj) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG), [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9) | [Vũ Trụ Cò Bay](https://open.spotify.com/album/1ksb2CCSSuCuu4TdoJp5cH) | 3:40 | 2024-08-01 |  |
 | [Vườn Hoa Con Cá \(feat\. Ngắn\)](https://open.spotify.com/track/1YbrWGgFMzIoO6FP1vN975) | [O.lew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY), [Ngắn](https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P) | [Vườn Hoa Con Cá \(feat\. Ngắn\)](https://open.spotify.com/album/5c2sPcxLeCUn0kbwhg0A0U) | 3:54 | 2023-06-08 | 2023-12-09 |
-| [Vườn Địa Đàng](https://open.spotify.com/track/3TRtspBNij2TnfbE2nfXLp) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Minh Tinh](https://open.spotify.com/album/2jNxIyiGLvQz7UPCRUuU76) | 3:07 | 2024-08-01 |  |
+| [Vườn Địa Đàng](https://open.spotify.com/track/3TRtspBNij2TnfbE2nfXLp) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Minh Tinh](https://open.spotify.com/album/2jNxIyiGLvQz7UPCRUuU76) | 3:07 | 2024-08-01 | 2024-11-14 |
 | [Xin loi anh qua phien](https://open.spotify.com/track/0ZJcKRLc0dZp24G6MkvSnq) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [Ten On Ten](https://open.spotify.com/album/7nKT6mGRVlK7P6JZEMIvgX) | 4:05 | 2022-04-06 | 2022-06-01 |
 | [Xin Lỗi](https://open.spotify.com/track/2XowCGRbycR53BUf8Y5b4d) | [Nguyen Ha](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Xin Lỗi](https://open.spotify.com/album/5oaGXglA49juUjE5WwLCZS) | 4:04 | 2021-12-07 | 2022-07-29 |
 | [Xin Lỗi](https://open.spotify.com/track/5oqsevCqWkDwk61Y41bDQA) | [Nguyen Ha](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Xin Lỗi](https://open.spotify.com/album/0g3uKyhjDjSeaLzT2MjT6r) | 4:04 | 2022-07-24 | 2023-01-24 |
@@ -288,5 +288,6 @@
 | [Đừng kết thúc hôm nay](https://open.spotify.com/track/3VkPKSc5HU1WPahoLOCRnj) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Đừng kết thúc hôm nay](https://open.spotify.com/album/4h0hGD95lTVKwSjNZAvfp3) | 3:32 | 2023-12-09 | 2024-01-10 |
 | [Đừng Nói Tôi Điên](https://open.spotify.com/track/2SBUmN7mgGikl6oESlNWS7) | [Thu Minh](https://open.spotify.com/artist/4mzMFxVZNS2uCVNdsVFoj5), [Myra Trần](https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd) | [Đừng Nói Tôi Điên](https://open.spotify.com/album/6mxpoaAVFBasybCf2NHaPN) | 4:30 | 2023-11-29 | 2024-03-06 |
 | [ƯỚC ANH TAN NÁT CON TIM](https://open.spotify.com/track/4r12MbGoZQBt6SQpFyFXq8) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [ƯỚC ANH TAN NÁT CON TIM](https://open.spotify.com/album/3rBSN7zMui46ss81lhh6zU) | 3:50 | 2024-09-10 |  |
+| [ở nhà một mình](https://open.spotify.com/track/5r3mcoFfYljX47zAAlaGSQ) | [52Hz](https://open.spotify.com/artist/1y28JlO6rDMUB5rkcA4RAh) | [ở nhà một mình](https://open.spotify.com/album/5UsZGUTh4OScmYkqy7Ydsj) | 3:17 | 2024-11-13 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Il meglio dell'R&B italiano\. Cover: Martino
 
-670 songs - 1 day 9 hr 19 min
+671 songs - 1 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [FATTI MALE](https://open.spotify.com/track/49MxfE9IRattxfhQ1YRchL) | [Etra](https://open.spotify.com/artist/6JRfxcL7i196DWSogbqilF) | [FATTI MALE](https://open.spotify.com/album/14Qq14QzGl9cEJHEPxM0T4) | 2:47 | 2024-02-29 | 2024-04-16 |
 | [Favole](https://open.spotify.com/track/6x0zZolR37lU4nupnEfOJ0) | [Paola Pizzino](https://open.spotify.com/artist/6qZnOElnoaba63XsIts7ug) | [Favole](https://open.spotify.com/album/3aozojEXJ4fzpRBSgxwLiA) | 3:13 | 2024-02-22 | 2024-03-29 |
 | [FCCV](https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [VANITAS](https://open.spotify.com/album/3cDE2dajma7EPMu5j9QKCT) | 2:37 | 2023-03-23 | 2023-06-30 |
+| [Feeling](https://open.spotify.com/track/2fwe8oxvNUUvvEDAth54jN) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY), [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Feeling](https://open.spotify.com/album/4sNOezg86EAOcM3iAEHy3d) | 2:40 | 2024-11-13 |  |
 | [Felpa](https://open.spotify.com/track/6u4G4dVFHQCwWOWs822Puk) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr) | [Felpa](https://open.spotify.com/album/23UwjDGJgmbbTNdFgDGIVR) | 2:45 | 2022-05-05 | 2022-07-29 |
 | [Felpa Blu](https://open.spotify.com/track/7lUJXeZSVnPuv9ihy6Z5xC) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [Felpa Blu](https://open.spotify.com/album/6eOwrCImdIYh5tHKFSZAME) | 2:55 | 2022-07-14 | 2022-09-30 |
 | [Fidarti di me \(feat\. Coez\)](https://open.spotify.com/track/5uisDrJM8rnWmmUrUTVJMw) | [Big Joe](https://open.spotify.com/artist/4QoNMSDOoT1DkexKr6VqQR), [Louis Dee](https://open.spotify.com/artist/0cqKe5aIp6diwasKdXzJF6), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Fidarti di me \(feat\. Coez\)](https://open.spotify.com/album/0kqngU92rC6rrcWfdjQUSA) | 2:40 | 2022-07-17 | 2023-01-27 |

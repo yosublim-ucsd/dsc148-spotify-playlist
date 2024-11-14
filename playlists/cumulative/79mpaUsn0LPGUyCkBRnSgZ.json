@@ -6303,6 +6303,24 @@
     },
     {
       "album": {
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47373,
+      "name": "Introduction - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/42quL9yU8hlWW2w4oaxLGF"
+    },
+    {
+      "album": {
         "name": "Adventure (Deluxe)",
         "url": "https://open.spotify.com/album/3uKLwDjku2Us0c81LEmftR"
       },

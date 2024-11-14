@@ -1,6 +1,6 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 200902,
+  "num_followers": 200946,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
@@ -575,26 +575,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Illusion Of Time",
-        "url": "https://open.spotify.com/album/0337WPtUhYFk11ykBc1j6Z"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        },
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 262373,
-      "name": "Illusion Of Time",
-      "url": "https://open.spotify.com/track/3dQiW5N2mVmYSmpI2suOIA"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Fading In And Out",
         "url": "https://open.spotify.com/album/6j1FkmIUkgTADDADZUNnHh"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 181666,
       "name": "Fading In",
       "url": "https://open.spotify.com/track/1TbBWoY5ztVqoNcpdCiuE6"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Illusion Of Time",
+        "url": "https://open.spotify.com/album/0337WPtUhYFk11ykBc1j6Z"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 262373,
+      "name": "Illusion Of Time",
+      "url": "https://open.spotify.com/track/3dQiW5N2mVmYSmpI2suOIA"
     },
     {
       "added_at": "2024-05-30 01:04:31",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Inter-Dimensional Music",
+        "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
+      },
+      "artists": [
+        {
+          "name": "Iasos",
+          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
+        }
+      ],
+      "duration_ms": 252146,
+      "name": "Lueena Coast",
+      "url": "https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Fungipedia",
         "url": "https://open.spotify.com/album/0PxR7nUAhAVcaMLfbshIBO"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 232000,
       "name": "Sugi",
       "url": "https://open.spotify.com/track/7hRCR3RepAA1LEK0iJfRoS"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Inter-Dimensional Music",
-        "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
-      },
-      "artists": [
-        {
-          "name": "Iasos",
-          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
-        }
-      ],
-      "duration_ms": 252146,
-      "name": "Lueena Coast",
-      "url": "https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Plays Bee Mask",
-        "url": "https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc"
-      },
-      "artists": [
-        {
-          "name": "Donato Dozzy",
-          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
-        }
-      ],
-      "duration_ms": 363380,
-      "name": "Vaporware 05",
-      "url": "https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Tilting On Windmills",
         "url": "https://open.spotify.com/album/0EUkYGPFu3duNURukbpleg"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 498065,
       "name": "Tilting On Windmills",
       "url": "https://open.spotify.com/track/7mvnU6KO4nC2C37BrbF4YL"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Plays Bee Mask",
+        "url": "https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc"
+      },
+      "artists": [
+        {
+          "name": "Donato Dozzy",
+          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
+        }
+      ],
+      "duration_ms": 363380,
+      "name": "Vaporware 05",
+      "url": "https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Post Tropical Cyclone, Vol. 1",
-        "url": "https://open.spotify.com/album/5gFSffmdxzmdV4RpW748wG"
-      },
-      "artists": [
-        {
-          "name": "Yuuki Matthews",
-          "url": "https://open.spotify.com/artist/6p5igBFAfMJlJRLDIcUP7n"
-        }
-      ],
-      "duration_ms": 157312,
-      "name": "Post Tropical Cyclone",
-      "url": "https://open.spotify.com/track/2WkPJh5pGbUX0PDjrrNvmA"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Forget The Curse",
         "url": "https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Goatherder",
-        "url": "https://open.spotify.com/album/3kay810nPv6SykhqhrUCeI"
+        "name": "Post Tropical Cyclone, Vol. 1",
+        "url": "https://open.spotify.com/album/5gFSffmdxzmdV4RpW748wG"
       },
       "artists": [
         {
-          "name": "Capitol K",
-          "url": "https://open.spotify.com/artist/2Nrvi6wKKZ0iAaxaBPDBzj"
+          "name": "Yuuki Matthews",
+          "url": "https://open.spotify.com/artist/6p5igBFAfMJlJRLDIcUP7n"
         }
       ],
-      "duration_ms": 239794,
-      "name": "Landlocked",
-      "url": "https://open.spotify.com/track/23QUBd5ZfFw0fI3UepHHx1"
+      "duration_ms": 157312,
+      "name": "Post Tropical Cyclone",
+      "url": "https://open.spotify.com/track/2WkPJh5pGbUX0PDjrrNvmA"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1027,6 +1011,22 @@
       "duration_ms": 390000,
       "name": "Das Unheimliche",
       "url": "https://open.spotify.com/track/64EQZLoqKiaxjghEeaxVxQ"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Goatherder",
+        "url": "https://open.spotify.com/album/3kay810nPv6SykhqhrUCeI"
+      },
+      "artists": [
+        {
+          "name": "Capitol K",
+          "url": "https://open.spotify.com/artist/2Nrvi6wKKZ0iAaxaBPDBzj"
+        }
+      ],
+      "duration_ms": 239794,
+      "name": "Landlocked",
+      "url": "https://open.spotify.com/track/23QUBd5ZfFw0fI3UepHHx1"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1097,22 +1097,6 @@
       "url": "https://open.spotify.com/track/2o2kesEPWqDCcvOkFpkoUT"
     },
     {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Sequences",
-        "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
-      },
-      "artists": [
-        {
-          "name": "Idee Du Femelle",
-          "url": "https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm"
-        }
-      ],
-      "duration_ms": 457487,
-      "name": "Come Back To Bali",
-      "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
-    },
-    {
       "added_at": "2023-06-07 02:21:46",
       "album": {
         "name": "Majestic sapphire island",
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Auroras",
-        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
+        "name": "Sequences",
+        "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
       },
       "artists": [
         {
-          "name": "Aeromancias",
-          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
+          "name": "Idee Du Femelle",
+          "url": "https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm"
         }
       ],
-      "duration_ms": 154838,
-      "name": "Boreal",
-      "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
+      "duration_ms": 457487,
+      "name": "Come Back To Bali",
+      "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1183,6 +1167,22 @@
       "duration_ms": 278000,
       "name": "Possibilities",
       "url": "https://open.spotify.com/track/11HL6JG9JFu0WLZEZhpv5V"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Auroras",
+        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
+      },
+      "artists": [
+        {
+          "name": "Aeromancias",
+          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Boreal",
+      "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Ventricular Beats",
-        "url": "https://open.spotify.com/album/6fqSZwvHnBFe25MQVJ0yFD"
-      },
-      "artists": [
-        {
-          "name": "Dean Valentine",
-          "url": "https://open.spotify.com/artist/4G43eq2dV3QIfSHIIGycxq"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "A Thin Place",
-      "url": "https://open.spotify.com/track/4hkBBETgY4EWr98jdoDPyx"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Endlessness",
         "url": "https://open.spotify.com/album/0pHwRR0CdmJTwTU96ZCrIE"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Picnic",
-        "url": "https://open.spotify.com/album/0Kd8yf0aMa6IgjV3KJS2RE"
+        "name": "Ventricular Beats",
+        "url": "https://open.spotify.com/album/6fqSZwvHnBFe25MQVJ0yFD"
       },
       "artists": [
         {
-          "name": "Picnic",
-          "url": "https://open.spotify.com/artist/1AA7uvh7SPsyMW0x8tATOo"
+          "name": "Dean Valentine",
+          "url": "https://open.spotify.com/artist/4G43eq2dV3QIfSHIIGycxq"
         }
       ],
-      "duration_ms": 436796,
-      "name": "Plush Hooves",
-      "url": "https://open.spotify.com/track/4xqdlgyj4LQvP13GBmP3AN"
+      "duration_ms": 211080,
+      "name": "A Thin Place",
+      "url": "https://open.spotify.com/track/4hkBBETgY4EWr98jdoDPyx"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1447,6 +1431,22 @@
       "duration_ms": 385998,
       "name": "How A Spiral Works",
       "url": "https://open.spotify.com/track/7eGYkcCZMNTLpJZ0sc4Jgc"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Picnic",
+        "url": "https://open.spotify.com/album/0Kd8yf0aMa6IgjV3KJS2RE"
+      },
+      "artists": [
+        {
+          "name": "Picnic",
+          "url": "https://open.spotify.com/artist/1AA7uvh7SPsyMW0x8tATOo"
+        }
+      ],
+      "duration_ms": 436796,
+      "name": "Plush Hooves",
+      "url": "https://open.spotify.com/track/4xqdlgyj4LQvP13GBmP3AN"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Lost Transmissions From the Off-World Territories",
-        "url": "https://open.spotify.com/album/1TkXeWxIqiesvsvTTwwWHQ"
-      },
-      "artists": [
-        {
-          "name": "Komodo Kolektif",
-          "url": "https://open.spotify.com/artist/1UpUB8v9H7gSpVMMDFYFVo"
-        }
-      ],
-      "duration_ms": 237036,
-      "name": "Fire Walk",
-      "url": "https://open.spotify.com/track/6AaqehFAOsFvmZGOVrBba9"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Northern Skies",
         "url": "https://open.spotify.com/album/2CQlQUHsZIiLKJkDyXZhj0"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 170000,
       "name": "1969",
       "url": "https://open.spotify.com/track/6AP8cZgUPZbbxlV40H98Xv"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Lost Transmissions From the Off-World Territories",
+        "url": "https://open.spotify.com/album/1TkXeWxIqiesvsvTTwwWHQ"
+      },
+      "artists": [
+        {
+          "name": "Komodo Kolektif",
+          "url": "https://open.spotify.com/artist/1UpUB8v9H7gSpVMMDFYFVo"
+        }
+      ],
+      "duration_ms": 237036,
+      "name": "Fire Walk",
+      "url": "https://open.spotify.com/track/6AaqehFAOsFvmZGOVrBba9"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Lago Escondido",
-        "url": "https://open.spotify.com/album/0wMehjx81rurqgjDHKheRI"
-      },
-      "artists": [
-        {
-          "name": "Samuel Aguilar",
-          "url": "https://open.spotify.com/artist/1gXqzPzUGPeM2E1rixPWrj"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Lago Escondido",
-      "url": "https://open.spotify.com/track/5iUOejpBYg3sXiwD8poRAq"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "A Pale Shelter",
         "url": "https://open.spotify.com/album/4A4urd6gIK7PGxRC2E6Q1B"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 344026,
       "name": "Mourning Shadows We Perish",
       "url": "https://open.spotify.com/track/5AWooNwNN205pZYMrx7jLj"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Lago Escondido",
+        "url": "https://open.spotify.com/album/0wMehjx81rurqgjDHKheRI"
+      },
+      "artists": [
+        {
+          "name": "Samuel Aguilar",
+          "url": "https://open.spotify.com/artist/1gXqzPzUGPeM2E1rixPWrj"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Lago Escondido",
+      "url": "https://open.spotify.com/track/5iUOejpBYg3sXiwD8poRAq"
     },
     {
       "added_at": "2023-04-21 14:41:23",

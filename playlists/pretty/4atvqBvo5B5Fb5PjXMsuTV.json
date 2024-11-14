@@ -1,13 +1,205 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 13 Nov 02:01 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 13 Nov 17:02 UTC.",
   "num_followers": 85,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAANShF30A6nUmELizAJsmBn/xoB38nm",
+  "snapshot_id": "AAANVG7yHO+wQYtFVD8aNXmKxqw4N0GE",
   "tracks": [
+    {
+      "added_at": "2024-11-13 05:02:04",
+      "album": {
+        "name": "Lucif\u00e8rine",
+        "url": "https://open.spotify.com/album/38VCD1EtDYyiRE8iTolIS5"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "duration_ms": 301907,
+      "name": "Lucif\u00e8rine",
+      "url": "https://open.spotify.com/track/6yi1BE15fXy72Js1uvxf3v"
+    },
+    {
+      "added_at": "2024-11-13 05:02:04",
+      "album": {
+        "name": "Merry Christmas, Please Don't Call",
+        "url": "https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 202132,
+      "name": "Merry Christmas, Please Don't Call",
+      "url": "https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH"
+    },
+    {
+      "added_at": "2024-11-13 11:01:55",
+      "album": {
+        "name": "Puppet Stringers",
+        "url": "https://open.spotify.com/album/23gzdvkfw6DHXhNU2FK1XZ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 169659,
+      "name": "Puppet Stringers",
+      "url": "https://open.spotify.com/track/4LW2otQQtTwdzuQ4nZPbhN"
+    },
+    {
+      "added_at": "2024-11-13 05:02:04",
+      "album": {
+        "name": "So Many Wishes",
+        "url": "https://open.spotify.com/album/1DWmOpiOTBphuwE2WevjbF"
+      },
+      "artists": [
+        {
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "So Many Wishes",
+      "url": "https://open.spotify.com/track/4RDOcskNo7zjJYUhP2aIgN"
+    },
+    {
+      "added_at": "2024-11-13 11:01:55",
+      "album": {
+        "name": "Fashion",
+        "url": "https://open.spotify.com/album/5hQnZ9ekQs79grRDzeKmrj"
+      },
+      "artists": [
+        {
+          "name": "Heidi Montag",
+          "url": "https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG"
+        }
+      ],
+      "duration_ms": 175423,
+      "name": "Fashion",
+      "url": "https://open.spotify.com/track/2XPLtPHwVqzCQt6EqxwNIs"
+    },
+    {
+      "added_at": "2024-11-13 08:02:04",
+      "album": {
+        "name": "your wedding",
+        "url": "https://open.spotify.com/album/26D68txe714qfGvzXi6ZXu"
+      },
+      "artists": [
+        {
+          "name": "PRYVT",
+          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
+        }
+      ],
+      "duration_ms": 216741,
+      "name": "your wedding",
+      "url": "https://open.spotify.com/track/1mrwfndSc4xemZcavXuJFq"
+    },
+    {
+      "added_at": "2024-11-13 05:02:04",
+      "album": {
+        "name": "Redshift",
+        "url": "https://open.spotify.com/album/1H4dtkYGscdjYNjPTjFVEY"
+      },
+      "artists": [
+        {
+          "name": "F.O.O.L",
+          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
+        }
+      ],
+      "duration_ms": 223108,
+      "name": "Redshift",
+      "url": "https://open.spotify.com/track/1kXwc02M6g1OhRb7SVsKJA"
+    },
+    {
+      "added_at": "2024-11-13 08:02:04",
+      "album": {
+        "name": "\u6ce1\u5439",
+        "url": "https://open.spotify.com/album/4PYcHByJYp9cZvoHmT2sZL"
+      },
+      "artists": [
+        {
+          "name": "adieu",
+          "url": "https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y"
+        }
+      ],
+      "duration_ms": 223440,
+      "name": "\u6ce1\u5439",
+      "url": "https://open.spotify.com/track/17nAb0ZqT4J6qnoXbPZ3jw"
+    },
+    {
+      "added_at": "2024-11-13 05:02:04",
+      "album": {
+        "name": "Hotel Sphinx",
+        "url": "https://open.spotify.com/album/4BhW8SgM0s7j5e4fG2nXVu"
+      },
+      "artists": [
+        {
+          "name": "Imperial Triumphant",
+          "url": "https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO"
+        }
+      ],
+      "duration_ms": 289466,
+      "name": "Hotel Sphinx",
+      "url": "https://open.spotify.com/track/0I4KEXWHq6jgx2VC0yq2ut"
+    },
+    {
+      "added_at": "2024-11-13 11:01:55",
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/5Xe3dvXh5794nQ7DZxHw9U"
+      },
+      "artists": [
+        {
+          "name": "Bleach Lab",
+          "url": "https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8"
+        }
+      ],
+      "duration_ms": 242922,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/5vu75r7llyBcRpQiQuLu8L"
+    },
+    {
+      "added_at": "2024-11-13 17:02:09",
+      "album": {
+        "name": "Ugly",
+        "url": "https://open.spotify.com/album/3HGsS4htM8Q7mmVWck2uJL"
+      },
+      "artists": [
+        {
+          "name": "Prima Queen",
+          "url": "https://open.spotify.com/artist/52fhNGn51RhUvjlapHT5T2"
+        }
+      ],
+      "duration_ms": 196399,
+      "name": "Ugly",
+      "url": "https://open.spotify.com/track/3KUj1zMidEyCqJC5EBnWb5"
+    },
+    {
+      "added_at": "2024-11-13 08:02:04",
+      "album": {
+        "name": "arbor lumia theme",
+        "url": "https://open.spotify.com/album/03ud00023GhoInqvYdTPtN"
+      },
+      "artists": [
+        {
+          "name": "voljum",
+          "url": "https://open.spotify.com/artist/0jnkmdkJ4CffUd8240Vypf"
+        }
+      ],
+      "duration_ms": 380700,
+      "name": "arbor lumia theme",
+      "url": "https://open.spotify.com/track/5FsZcLBZ5wCDizkcvu1t2I"
+    },
     {
       "added_at": "2024-11-12 20:02:00",
       "album": {
@@ -165,6 +357,22 @@
       "url": "https://open.spotify.com/track/2Wj8waS9T1jcFYx97sW3pS"
     },
     {
+      "added_at": "2024-11-13 14:01:53",
+      "album": {
+        "name": "Purple Snowflakes",
+        "url": "https://open.spotify.com/album/6iKOSo7BK2upVDTVQiO7QZ"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "duration_ms": 225440,
+      "name": "Purple Snowflakes",
+      "url": "https://open.spotify.com/track/6xsacBkUuy32IMngfVBhXl"
+    },
+    {
       "added_at": "2024-11-12 14:02:05",
       "album": {
         "name": "John on the Ceiling",
@@ -211,6 +419,22 @@
       "duration_ms": 163636,
       "name": "Found",
       "url": "https://open.spotify.com/track/2tN9oaZZPlCcJRnchNBqdf"
+    },
+    {
+      "added_at": "2024-11-13 11:01:55",
+      "album": {
+        "name": "Charlemagne",
+        "url": "https://open.spotify.com/album/5LlizgM110s9gcVyQYzcgb"
+      },
+      "artists": [
+        {
+          "name": "Mourning High",
+          "url": "https://open.spotify.com/artist/0QlpcfYezulIhd9eLuWphj"
+        }
+      ],
+      "duration_ms": 286300,
+      "name": "Charlemagne",
+      "url": "https://open.spotify.com/track/16ujZCXaH2c372SswLt8sC"
     },
     {
       "added_at": "2024-11-11 08:03:03",
@@ -667,254 +891,6 @@
       "duration_ms": 205765,
       "name": "FEEL",
       "url": "https://open.spotify.com/track/7eDUdsz2b3R2qs0k1fNIzx"
-    },
-    {
-      "added_at": "2024-11-08 05:03:14",
-      "album": {
-        "name": "Heaven II",
-        "url": "https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 147461,
-      "name": "Heaven II",
-      "url": "https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN"
-    },
-    {
-      "added_at": "2024-11-08 05:03:14",
-      "album": {
-        "name": "Supernova Love",
-        "url": "https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 199504,
-      "name": "Supernova Love",
-      "url": "https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n"
-    },
-    {
-      "added_at": "2024-11-08 08:02:43",
-      "album": {
-        "name": "Glad You Came",
-        "url": "https://open.spotify.com/album/2RYVwOEFppOjw7TodiC5lV"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 145517,
-      "name": "Glad You Came",
-      "url": "https://open.spotify.com/track/6kLEz38AjUXwYj9XUTiT5j"
-    },
-    {
-      "added_at": "2024-11-08 08:02:43",
-      "album": {
-        "name": "Love Is The Only Thing",
-        "url": "https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "Love Is The Only Thing",
-      "url": "https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW"
-    },
-    {
-      "added_at": "2024-11-09 02:02:36",
-      "album": {
-        "name": "Where Do I Go",
-        "url": "https://open.spotify.com/album/2j6oBklvVZk5D8ExS1280q"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Vikkstar",
-          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
-        },
-        {
-          "name": "Alpharock",
-          "url": "https://open.spotify.com/artist/629Fs7UJp6tWqOYZi8t8ET"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "Where Do I Go",
-      "url": "https://open.spotify.com/track/287x3GNRnwnyn6mjkmDHUU"
-    },
-    {
-      "added_at": "2024-11-09 08:02:40",
-      "album": {
-        "name": "Cherish In The Dark",
-        "url": "https://open.spotify.com/album/5Nwi6iHE0TTMhtZRKdeVC1"
-      },
-      "artists": [
-        {
-          "name": "CG5",
-          "url": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
-        }
-      ],
-      "duration_ms": 205776,
-      "name": "Cherish In The Dark",
-      "url": "https://open.spotify.com/track/5f3rHcLiOVXgdHSNBsq9cV"
-    },
-    {
-      "added_at": "2024-11-09 02:02:36",
-      "album": {
-        "name": "Consequences",
-        "url": "https://open.spotify.com/album/7tqRVA7szzPnBJIxFJ7KtQ"
-      },
-      "artists": [
-        {
-          "name": "K CAMP",
-          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
-        }
-      ],
-      "duration_ms": 156029,
-      "name": "Consequences",
-      "url": "https://open.spotify.com/track/3INtLhPBhvpoH9BQtpzBTe"
-    },
-    {
-      "added_at": "2024-11-08 05:03:14",
-      "album": {
-        "name": "Forever Cold",
-        "url": "https://open.spotify.com/album/4WmIS78V0gBBoYpKvXSZtc"
-      },
-      "artists": [
-        {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
-        }
-      ],
-      "duration_ms": 283714,
-      "name": "Forever Cold",
-      "url": "https://open.spotify.com/track/3uhvjTmAuHRlpgEAfj6SGY"
-    },
-    {
-      "added_at": "2024-11-08 23:02:37",
-      "album": {
-        "name": "Bus Stop Please",
-        "url": "https://open.spotify.com/album/06HEvSJ6i3ML7nXAiTVt94"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        },
-        {
-          "name": "Daniel Steinberg",
-          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
-        }
-      ],
-      "duration_ms": 215300,
-      "name": "Bus Stop Please",
-      "url": "https://open.spotify.com/track/69qwWu8dQwaTABh5B9r8xn"
-    },
-    {
-      "added_at": "2024-11-08 23:02:37",
-      "album": {
-        "name": "Feelings Never Die",
-        "url": "https://open.spotify.com/album/71JOXHFVRlGJ6MoHCMddFI"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 222250,
-      "name": "Feelings Never Die",
-      "url": "https://open.spotify.com/track/3rkuBuf0QhxlSLzvzrjVTU"
-    },
-    {
-      "added_at": "2024-11-08 08:02:43",
-      "album": {
-        "name": "Hard Fought Hallelujah",
-        "url": "https://open.spotify.com/album/2ZRoUKXGiyxc63Q6xLAIh5"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 316000,
-      "name": "Hard Fought Hallelujah",
-      "url": "https://open.spotify.com/track/6ye2zG3DhdwDf6VRVyj4jx"
-    },
-    {
-      "added_at": "2024-11-08 05:03:14",
-      "album": {
-        "name": "Fata Morgana",
-        "url": "https://open.spotify.com/album/3Abw9UTsnzAEEf3nC87Lvx"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 164585,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/1v1cijv1qjMJ5o9OvMWACS"
-    },
-    {
-      "added_at": "2024-11-08 05:03:14",
-      "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/4ePPG76qeRNo0VifEH6P6b"
-      },
-      "artists": [
-        {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
-        },
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 200487,
-      "name": "Songs",
-      "url": "https://open.spotify.com/track/39GSMevjvCjRjO4FRVjFCf"
-    },
-    {
-      "added_at": "2024-11-08 08:02:43",
-      "album": {
-        "name": "NO ICE",
-        "url": "https://open.spotify.com/album/1btboxBhDp7DvlW39EAC16"
-      },
-      "artists": [
-        {
-          "name": "Z-Ro",
-          "url": "https://open.spotify.com/artist/6MrdwyCIKbpXmTKQBlG3uq"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "NO ICE",
-      "url": "https://open.spotify.com/track/7jpJGaSJhEEwpX45SqFdXg"
     }
   ],
   "unique_name": "New Singles Now",

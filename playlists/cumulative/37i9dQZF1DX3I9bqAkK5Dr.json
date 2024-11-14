@@ -6461,6 +6461,24 @@
     },
     {
       "album": {
+        "name": "Yegase Alale Aagenu",
+        "url": "https://open.spotify.com/album/2zqZOHHk3j8hf4trL0Oiok"
+      },
+      "artists": [
+        {
+          "name": "Soujanya Bhagavatula",
+          "url": "https://open.spotify.com/artist/31UYKXflHGE5QEAc2U6mBt"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251647,
+      "name": "Yegase Alale Aagenu",
+      "url": "https://open.spotify.com/track/7GD712DrdONrL5ukngdkXQ"
+    },
+    {
+      "album": {
         "name": "Yekamaipodhuma",
         "url": "https://open.spotify.com/album/3pydpMyNsxUtKIW8jYFTAa"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent prog rock track\. Cover: VOLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,502 likes - 75 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,562 likes - 75 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 47 | [Like a Sunken Ship](https://open.spotify.com/track/3x2ZT5BPPLCKX0ZuRD6Oaq) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Like a Sunken Ship](https://open.spotify.com/album/6YUOHmRM9RlwTqpsfbCZ1W) | 4:04 |
 | 48 | [This Red Sky](https://open.spotify.com/track/5UzbnYlSq3H4XsC9KUqpV8) | [Coma Rossi](https://open.spotify.com/artist/5IxE24msVbzRsG6cDxg7KA) | [Void](https://open.spotify.com/album/6oLjcbgkrpJjZmPeJwOkZc) | 8:51 |
 | 49 | [Untouchable Part 3](https://open.spotify.com/track/6s9852tBFBI3DgKB0Wo12y) | [Weather Systems](https://open.spotify.com/artist/79pII4A4OPL8CZRfAmAZOq) | [Ocean Without A Shore](https://open.spotify.com/album/4cFRMe9xsqQ47SmaSDklKb) | 5:55 |
-| 50 | [Cannibal \(feat\. Anders Fridén of In Flames\)](https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI), [Anders Friden](https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Cannibal \(feat\. Anders Fridén\)](https://open.spotify.com/album/4KcqdaoWTikvUlU7vEVrhP) | 5:02 |
+| 50 | [Cannibal \(feat\. Anders Fridén\)](https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI), [Anders Friden](https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Cannibal \(feat\. Anders Fridén\)](https://open.spotify.com/album/4KcqdaoWTikvUlU7vEVrhP) | 5:02 |
 | 51 | [Phantom Island](https://open.spotify.com/track/4nLZhCmYLNN4rAHdXomhjp) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Phantom Island](https://open.spotify.com/album/0PFSE0ufsMJPTM7bDTv5Rc) | 5:16 |
 | 52 | [The Piper's Call](https://open.spotify.com/track/4gS6q6RhJfM2QBr8g1U8Mu) | [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Luck and Strange](https://open.spotify.com/album/5ds8DFWVozMIxRP3qr5Vii) | 5:15 |
 | 53 | [Fugl Fønix](https://open.spotify.com/track/5vSWdH3Fh9vdT9ehTOsGg3) | [Elephant9](https://open.spotify.com/artist/7fX6TkG03KYZv7jAaZKC5v), [Terje Rypdal](https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1) | [Catching Fire](https://open.spotify.com/album/0dajrPs2fJEscLd1EC2IV0) | 10:42 |

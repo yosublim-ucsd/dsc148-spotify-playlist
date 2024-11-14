@@ -1,13 +1,385 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6634,
+  "num_followers": 6635,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AAClENkldFPq/u+GjuNmukui2ZhGioHq",
+  "snapshot_id": "AAClKc5LsK4ovgZjpLh1IyJw2z22Q9PG",
   "tracks": [
+    {
+      "added_at": "2024-11-13 19:56:10",
+      "album": {
+        "name": "Este cielo naranja",
+        "url": "https://open.spotify.com/album/4vyyh6C9Tm2lDeJXsXETQY"
+      },
+      "artists": [
+        {
+          "name": "Pau Vegas",
+          "url": "https://open.spotify.com/artist/5os3rIfiiErtNRocvMePpc"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "Este cielo naranja",
+      "url": "https://open.spotify.com/track/1Q3BoXI9BngliT7BL4k1go"
+    },
+    {
+      "added_at": "2024-11-13 20:59:00",
+      "album": {
+        "name": "Like The End",
+        "url": "https://open.spotify.com/album/4AowOP1g2H6JAUTCYyAFxQ"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 319561,
+      "name": "Like The End",
+      "url": "https://open.spotify.com/track/08MCWw0tB5BAPKJuSgQMqZ"
+    },
+    {
+      "added_at": "2024-11-13 19:59:01",
+      "album": {
+        "name": "Ordenador",
+        "url": "https://open.spotify.com/album/6vdD9Bs5OETeWi2amNpmn8"
+      },
+      "artists": [
+        {
+          "name": "Sistema Nervioso",
+          "url": "https://open.spotify.com/artist/3NmIbNtA9v3NxFB1Gi7yfG"
+        }
+      ],
+      "duration_ms": 67031,
+      "name": "Ordenador",
+      "url": "https://open.spotify.com/track/0GV4OeGw5H5hEkiluCZDCu"
+    },
+    {
+      "added_at": "2024-11-13 20:14:53",
+      "album": {
+        "name": "Heaven In Your Arms",
+        "url": "https://open.spotify.com/album/6fKXXD48aSKEBID5hwaQ8n"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 248415,
+      "name": "Heaven In Your Arms",
+      "url": "https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi"
+    },
+    {
+      "added_at": "2024-11-13 20:17:00",
+      "album": {
+        "name": "Drugstore Drastic",
+        "url": "https://open.spotify.com/album/1ka7z6LbeS9Te92ttZeyQO"
+      },
+      "artists": [
+        {
+          "name": "Throwing Muses",
+          "url": "https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4"
+        }
+      ],
+      "duration_ms": 207530,
+      "name": "Drugstore Drastic",
+      "url": "https://open.spotify.com/track/2Wj8waS9T1jcFYx97sW3pS"
+    },
+    {
+      "added_at": "2024-11-13 20:03:24",
+      "album": {
+        "name": "The Laugh Is in the Eyes",
+        "url": "https://open.spotify.com/album/4dGlRIF8CjkOzHDxhZeyx2"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 275584,
+      "name": "The Laugh Is in the Eyes",
+      "url": "https://open.spotify.com/track/0rLaqmy7yVAJpysriTYmT1"
+    },
+    {
+      "added_at": "2024-11-13 20:12:54",
+      "album": {
+        "name": "Cubierto de Sal",
+        "url": "https://open.spotify.com/album/5tcAMc5c9x0ErIGxXbPDhp"
+      },
+      "artists": [
+        {
+          "name": "S\u00ddN",
+          "url": "https://open.spotify.com/artist/2XtStijr8DG7Acn0kokU0g"
+        }
+      ],
+      "duration_ms": 200524,
+      "name": "Cubierto de Sal",
+      "url": "https://open.spotify.com/track/31p0rCw7DWO2n3AwvK7YUd"
+    },
+    {
+      "added_at": "2024-11-13 20:04:11",
+      "album": {
+        "name": "Crispy Skin",
+        "url": "https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "duration_ms": 379400,
+      "name": "Crispy Skin",
+      "url": "https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5"
+    },
+    {
+      "added_at": "2024-11-13 20:13:30",
+      "album": {
+        "name": "Route 9 Falls",
+        "url": "https://open.spotify.com/album/6kcHvhTuCyDVIjr9nmUoPK"
+      },
+      "artists": [
+        {
+          "name": "Geologist",
+          "url": "https://open.spotify.com/artist/1OU3T32kZ15hIAUwqAjd2m"
+        },
+        {
+          "name": "D.S",
+          "url": "https://open.spotify.com/artist/2QvOUTt74YgZZ8yGX5zcth"
+        }
+      ],
+      "duration_ms": 246346,
+      "name": "Route 9 Falls",
+      "url": "https://open.spotify.com/track/1M8wRb72se4rHFf3Vet0uY"
+    },
+    {
+      "added_at": "2024-11-13 20:02:42",
+      "album": {
+        "name": "Christmasville UK",
+        "url": "https://open.spotify.com/album/6Ce1TrHZZrZbKHQTxph2fb"
+      },
+      "artists": [
+        {
+          "name": "A Certain Ratio",
+          "url": "https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk"
+        }
+      ],
+      "duration_ms": 187525,
+      "name": "Now and Laughter",
+      "url": "https://open.spotify.com/track/3dy6k7KDsWmoNgsSdC5Wxl"
+    },
+    {
+      "added_at": "2024-11-13 20:03:50",
+      "album": {
+        "name": "Merry Christmas, Please Don't Call",
+        "url": "https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 202132,
+      "name": "Merry Christmas, Please Don't Call",
+      "url": "https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH"
+    },
+    {
+      "added_at": "2024-11-13 20:03:43",
+      "album": {
+        "name": "Just Be Friends",
+        "url": "https://open.spotify.com/album/3HJmmpkG2ZlgJwGS4zYJFG"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "duration_ms": 217392,
+      "name": "Just Be Friends",
+      "url": "https://open.spotify.com/track/6dVY2aszSEmDNRuopAZLJp"
+    },
+    {
+      "added_at": "2024-11-13 20:14:17",
+      "album": {
+        "name": "Long Gone",
+        "url": "https://open.spotify.com/album/7IyWrMFgNHZjbtSJhNn9cc"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "Long Gone",
+      "url": "https://open.spotify.com/track/1JqovbqNQa5deYzyNsy7nR"
+    },
+    {
+      "added_at": "2024-11-13 20:15:30",
+      "album": {
+        "name": "Detroit",
+        "url": "https://open.spotify.com/album/0kn58aoB2rFG0oYWGXUUd0"
+      },
+      "artists": [
+        {
+          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
+        }
+      ],
+      "duration_ms": 339413,
+      "name": "Detroit",
+      "url": "https://open.spotify.com/track/2hmc0k5WWlDBmhRhDbpi9o"
+    },
+    {
+      "added_at": "2024-11-13 20:03:08",
+      "album": {
+        "name": "Found You Again",
+        "url": "https://open.spotify.com/album/1frGfIwa0RGCzgkOeqXukj"
+      },
+      "artists": [
+        {
+          "name": "fantasy of a broken heart",
+          "url": "https://open.spotify.com/artist/7fgs0Ym1ukMZDgKjx8mbMe"
+        },
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Found You Again",
+      "url": "https://open.spotify.com/track/3lMLS8UAUrT2PiMqrL0qGR"
+    },
+    {
+      "added_at": "2024-11-13 20:17:42",
+      "album": {
+        "name": "Stay Here",
+        "url": "https://open.spotify.com/album/1CVqowMvToHt4p2wGRUoqg"
+      },
+      "artists": [
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        },
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "duration_ms": 351459,
+      "name": "Stay Here",
+      "url": "https://open.spotify.com/track/1y5R89Y60XQEaB3d4ZziqD"
+    },
+    {
+      "added_at": "2024-11-13 20:04:24",
+      "album": {
+        "name": "Found",
+        "url": "https://open.spotify.com/album/3bT5QXdb2v749mHriSXs7g"
+      },
+      "artists": [
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/2tN9oaZZPlCcJRnchNBqdf"
+    },
+    {
+      "added_at": "2024-11-13 20:11:35",
+      "album": {
+        "name": "Keep Pushing",
+        "url": "https://open.spotify.com/album/0dnmwmD83U5t6es4eoJURO"
+      },
+      "artists": [
+        {
+          "name": "clipping.",
+          "url": "https://open.spotify.com/artist/5HJ2kX5UTwN4Ns8fB5Rn1I"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Jonathan Snipes",
+          "url": "https://open.spotify.com/artist/5v69lcKunkvGk1SimYwL0M"
+        },
+        {
+          "name": "William Hutson",
+          "url": "https://open.spotify.com/artist/709RUroHgigfxfOrPwVDAm"
+        }
+      ],
+      "duration_ms": 226777,
+      "name": "Keep Pushing",
+      "url": "https://open.spotify.com/track/1E7PjlgEcRsGB4oT6SNaYW"
+    },
+    {
+      "added_at": "2024-11-13 20:15:59",
+      "album": {
+        "name": "Satisfied Soul EP",
+        "url": "https://open.spotify.com/album/60IcrtB8SgqNdUg5P8kvHU"
+      },
+      "artists": [
+        {
+          "name": "Brother Ali",
+          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
+        },
+        {
+          "name": "Ant",
+          "url": "https://open.spotify.com/artist/71C1AXi9lDQXnSKZjeTYiI"
+        }
+      ],
+      "duration_ms": 187192,
+      "name": "Deep Cuts",
+      "url": "https://open.spotify.com/track/3Pp7oNLlILdmCm83VZQa9J"
+    },
+    {
+      "added_at": "2024-11-13 20:12:11",
+      "album": {
+        "name": "Avalanches",
+        "url": "https://open.spotify.com/album/3okMQ4UXZBXnj8OE8T78tQ"
+      },
+      "artists": [
+        {
+          "name": "Joni",
+          "url": "https://open.spotify.com/artist/1K9ioYi2XAVkS3Ky53IELe"
+        }
+      ],
+      "duration_ms": 167224,
+      "name": "Avalanches",
+      "url": "https://open.spotify.com/track/4mBtIxkeltqlbMIVDMTjLB"
+    },
+    {
+      "added_at": "2024-11-13 20:16:48",
+      "album": {
+        "name": "Walking Contradiction (feat. Steve Ignorant)",
+        "url": "https://open.spotify.com/album/1stwbUbB36rb50D7S5ddzj"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        },
+        {
+          "name": "Steve Ignorant",
+          "url": "https://open.spotify.com/artist/6j2TgxYyBUVwhFg7fYaDEY"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Walking Contradiction - feat. Steve Ignorant",
+      "url": "https://open.spotify.com/track/1hWhFP0TQTEJ3EUxt7VnHW"
+    },
     {
       "added_at": "2024-11-08 05:36:14",
       "album": {

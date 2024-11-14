@@ -1,13 +1,29 @@
 {
-  "description": "A collection of songs from Spotify's original video series OUTSIDE, plus more of our favorite tracks from featured artists. Cover: Carin Le\u00f3n",
-  "num_followers": 1671,
+  "description": "A collection of songs from Spotify's original video series OUTSIDE.",
+  "num_followers": 1672,
   "original_name": "OUTSIDE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzOlQgAAAABgOXVvT5rcSjxCKUAytB5m",
+  "snapshot_id": "ZzUgsAAAAACQa3zxx8H5kA96nAM6blH/",
   "tracks": [
+    {
+      "added_at": "2024-11-13 21:57:03",
+      "album": {
+        "name": "between i and she (Spotify OUTSIDE Version) (Live from Los Angeles, CA)",
+        "url": "https://open.spotify.com/album/4SkzS3t6aZjD7XnHMEo9QB"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 162337,
+      "name": "between i and she (Spotify OUTSIDE Version) - Live from Los Angeles, CA",
+      "url": "https://open.spotify.com/track/5jbWysg5DmllNiKPVeW33n"
+    },
     {
       "added_at": "2024-10-12 00:53:10",
       "album": {

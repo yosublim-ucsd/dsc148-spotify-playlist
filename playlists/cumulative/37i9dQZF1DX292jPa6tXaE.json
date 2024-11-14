@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Harry Dhaliwal",
+  "description": "Discover the future of Punjabi Pop! Cover: Rav",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -181,6 +181,24 @@
     },
     {
       "album": {
+        "name": "Anti Anthem",
+        "url": "https://open.spotify.com/album/09GGl9LjY8mXSzOoLmg1N9"
+      },
+      "artists": [
+        {
+          "name": "Vicky Chani",
+          "url": "https://open.spotify.com/artist/7oSl9zsI4sxfTGn5H0jfs9"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148050,
+      "name": "Anti Anthem",
+      "url": "https://open.spotify.com/track/7vErJDmZuH1HaguaU0smCw"
+    },
+    {
+      "album": {
         "name": "Att",
         "url": "https://open.spotify.com/album/7vIksV0AHUeZNYWasymdPw"
       },
@@ -222,7 +240,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 195187,
       "name": "Bach Bach",
       "url": "https://open.spotify.com/track/7tvyTWcypYJw71UltNKJBE"
@@ -262,7 +280,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 146400,
       "name": "Bandana",
       "url": "https://open.spotify.com/track/4Tx8bpMOSikMMrpXAdEbxo"
@@ -678,6 +696,28 @@
       "duration_ms": 152692,
       "name": "Dear Brother",
       "url": "https://open.spotify.com/track/16rCo9vtSAGFce8ZqVuBZt"
+    },
+    {
+      "album": {
+        "name": "Debi Ale Geet",
+        "url": "https://open.spotify.com/album/1yVXoby2H0ZSvKwkcUUCQZ"
+      },
+      "artists": [
+        {
+          "name": "Opinder Dhillon",
+          "url": "https://open.spotify.com/artist/4EzDYRmwrNVuHLYdCw7eFW"
+        },
+        {
+          "name": "FREEZZY BEATZ",
+          "url": "https://open.spotify.com/artist/5eMuqVgMZ4fFnkSKjpMEs1"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196092,
+      "name": "Debi Ale Geet",
+      "url": "https://open.spotify.com/track/5UzfxWB9l0A4590iAmpnjm"
     },
     {
       "album": {
@@ -1188,7 +1228,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 203802,
       "name": "I AM Done",
       "url": "https://open.spotify.com/track/5RWQ7vMGl48OAazZh4m0SZ"
@@ -1254,10 +1294,28 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 185322,
       "name": "Jadunagri",
       "url": "https://open.spotify.com/track/6iAVJrfxbbddOnzFepUeJ8"
+    },
+    {
+      "album": {
+        "name": "Jawani",
+        "url": "https://open.spotify.com/album/4ylWXL2qwXlIwelrfOAAiR"
+      },
+      "artists": [
+        {
+          "name": "Nimaan Sidhu",
+          "url": "https://open.spotify.com/artist/7DVxAhVVgwu4KC5kNl3nEV"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154197,
+      "name": "Jawani",
+      "url": "https://open.spotify.com/track/2Ymc0aIHa3ifiHlXHvrQhI"
     },
     {
       "album": {
@@ -1294,6 +1352,24 @@
       "duration_ms": 140525,
       "name": "Jhanjar",
       "url": "https://open.spotify.com/track/6yb8rhOJTnEZteHR2RUkwz"
+    },
+    {
+      "album": {
+        "name": "Just LV Me",
+        "url": "https://open.spotify.com/album/2hAYiCi9R40mrMMG7NPEKx"
+      },
+      "artists": [
+        {
+          "name": "DAWAR",
+          "url": "https://open.spotify.com/artist/66i9EbqPeRwPMZnO1IRH3z"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "Just LV Me",
+      "url": "https://open.spotify.com/track/7HdHsiMwYBNU9KFzO5oUhr"
     },
     {
       "album": {
@@ -1348,7 +1424,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 114181,
       "name": "Keep It Hundo",
       "url": "https://open.spotify.com/track/2DdHsOXcs49IRdIMU6rwaq"
@@ -1472,6 +1548,28 @@
       "duration_ms": 184273,
       "name": "Let's Ride Together",
       "url": "https://open.spotify.com/track/02dbngFtyEzsKdk85n7LPi"
+    },
+    {
+      "album": {
+        "name": "Level Up",
+        "url": "https://open.spotify.com/album/4TSNQa5aBW9x1P39MUDNL4"
+      },
+      "artists": [
+        {
+          "name": "Lucky Maan",
+          "url": "https://open.spotify.com/artist/09nbL4fECiLx91JQc7iONs"
+        },
+        {
+          "name": "Mr Harry",
+          "url": "https://open.spotify.com/artist/6Aik27VekUXuiW9xnuWlIg"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/2LNjZwyjOcxqsqRR1Lep4f"
     },
     {
       "album": {
@@ -1842,7 +1940,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 171000,
       "name": "Muqabala (Original)",
       "url": "https://open.spotify.com/track/1xbINZWX2G5PXnYLQ3O6WO"
@@ -2249,6 +2347,24 @@
     },
     {
       "album": {
+        "name": "Swaad",
+        "url": "https://open.spotify.com/album/4ciHsRXFiKt9bStbc0Xrrh"
+      },
+      "artists": [
+        {
+          "name": "Vikramjeet Singh Virk",
+          "url": "https://open.spotify.com/artist/693ZEmDxJl6OJk84zp5X5Y"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158048,
+      "name": "Swaad",
+      "url": "https://open.spotify.com/track/01s8pvYQ6yCayelr8d4BoK"
+    },
+    {
+      "album": {
         "name": "Takkre",
         "url": "https://open.spotify.com/album/4BR3PsRX5bPbWHsf99N4NE"
       },
@@ -2359,6 +2475,28 @@
     },
     {
       "album": {
+        "name": "Ten Toes",
+        "url": "https://open.spotify.com/album/1iaFCntnYXo2Lbpv9S85fP"
+      },
+      "artists": [
+        {
+          "name": "Param Pannu",
+          "url": "https://open.spotify.com/artist/7oM10RkgjEOA2dP6mEXfse"
+        },
+        {
+          "name": "Meavin",
+          "url": "https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118657,
+      "name": "Ten Toes",
+      "url": "https://open.spotify.com/track/6N0d7tVAqr4fyIIKX8xj4K"
+    },
+    {
+      "album": {
         "name": "Tera Khayal",
         "url": "https://open.spotify.com/album/5h81rQX3YY2dTGlvWe1NsH"
       },
@@ -2392,7 +2530,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 122352,
       "name": "Tere Sher",
       "url": "https://open.spotify.com/track/2QsH4fYTyCjamaBBUQP41z"
@@ -2458,6 +2596,46 @@
       "duration_ms": 165714,
       "name": "Town",
       "url": "https://open.spotify.com/track/1OrOIX7DXmrrOpBDbSLOVl"
+    },
+    {
+      "album": {
+        "name": "Trapped",
+        "url": "https://open.spotify.com/album/7sTKRjpWHCIyS3Z8g297pU"
+      },
+      "artists": [
+        {
+          "name": "Gurmukh Singh",
+          "url": "https://open.spotify.com/artist/3Xpr78EWwOFNg8gae63jnf"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180779,
+      "name": "Trapped",
+      "url": "https://open.spotify.com/track/7zCll1uhKPmX3ldMKvPsY1"
+    },
+    {
+      "album": {
+        "name": "Two Door",
+        "url": "https://open.spotify.com/album/4R4tCnJsDyArBrv2bS4szn"
+      },
+      "artists": [
+        {
+          "name": "Deep Cheema",
+          "url": "https://open.spotify.com/artist/4GT2Mg0rIloPbQVRZiSt6y"
+        },
+        {
+          "name": "Lotas",
+          "url": "https://open.spotify.com/artist/2aWn5hToh9eXWggdaoUig2"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Two Door",
+      "url": "https://open.spotify.com/track/7xHqhtZNUonVBREtrCMHCT"
     },
     {
       "album": {
@@ -2652,7 +2830,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 142857,
       "name": "Yaar Da Viah",
       "url": "https://open.spotify.com/track/18qQLgwJI7hrge4gI2oUxr"
@@ -2674,7 +2852,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 137806,
       "name": "Yaar Tera Ni",
       "url": "https://open.spotify.com/track/1vgF047kQq1a7i9nlpfTBl"

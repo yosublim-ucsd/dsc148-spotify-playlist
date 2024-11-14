@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 
 > The ultimate collection of D&B bangers 💥
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,640 likes - 74 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,658 likes - 74 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Incredible](https://open.spotify.com/track/2Q9F3D53QeclwbsY24cuxO) | [M\-Beat](https://open.spotify.com/artist/42tN6kVgx34E0Oqk2nef4g), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Knowledge](https://open.spotify.com/album/2AA3AFHAMtp2J0nUVxv1kh) | 4:29 |
+| 1 | [Incredible](https://open.spotify.com/track/2Q9F3D53QeclwbsY24cuxO) | [M\-Beat](https://open.spotify.com/artist/2KDNAkR001T3BGyYYTOSN4), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Knowledge](https://open.spotify.com/album/2AA3AFHAMtp2J0nUVxv1kh) | 4:29 |
 | 2 | [End Credits](https://open.spotify.com/track/3smRhYgAgsyr5uT6e4zJTG) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Plan B](https://open.spotify.com/artist/7qlh1IM1XMeQXA9ukp59au) | [No More Idols \(Platinum Edition\)](https://open.spotify.com/album/6NcFWs4RTh6ICkhSh3gSaO) | 3:20 |
 | 3 | [Inner City Life \- Radio Edit](https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Inner City Life](https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY) | 3:51 |
 | 4 | [Hometown Glory \- High Contrast Remix](https://open.spotify.com/track/5L3o8IfmlLhxGcSnXQIHcz) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY), [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Hometown Glory](https://open.spotify.com/album/1BooHlsI6JWUssl89UaqfF) | 6:36 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLuQOEJ7Qn4.md) - [plain]
 | 40 | [Disconnect](https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Disconnect](https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA) | 2:44 |
 | 41 | [Atlantis \(I Need You\)](https://open.spotify.com/track/2527WUoKIauHY1tx5TCetu) | [LTJ Bukem](https://open.spotify.com/artist/5Wfn5sc1w3DhMTpU7oPJZL) | [Producer 01](https://open.spotify.com/album/2YgeSuxQWw3NjUPYhjoTFl) | 6:34 |
 | 42 | [Control](https://open.spotify.com/track/3aE4H40sir4lVzMG7MxYBj) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Mystery Machine](https://open.spotify.com/album/7tIUXWWbdUtPvzZRWrn7zj) | 3:48 |
-| 43 | [Sweet Love](https://open.spotify.com/track/3NH1UALlEirErCATEZLu6c) | [M\-Beat](https://open.spotify.com/artist/42tN6kVgx34E0Oqk2nef4g), [Nazlin \(Voltress\)](https://open.spotify.com/artist/5ZvzPx2k29Yngpv7GCtjym) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/7Im3jS9sJosOTJ7VY3adtG) | 3:58 |
+| 43 | [Sweet Love](https://open.spotify.com/track/3NH1UALlEirErCATEZLu6c) | [M\-Beat](https://open.spotify.com/artist/2KDNAkR001T3BGyYYTOSN4), [Nazlin \(Voltress\)](https://open.spotify.com/artist/5ZvzPx2k29Yngpv7GCtjym) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/7Im3jS9sJosOTJ7VY3adtG) | 3:58 |
 | 44 | [Golddust \- Original Mix](https://open.spotify.com/track/2RVzFgH0MReeXG0EZ0j3VS) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC) | [Kryptonite](https://open.spotify.com/album/5CrnU0GdPQvgI5hiUWIEDE) | 3:11 |
 | 45 | [Crazy World \- Extended Mix](https://open.spotify.com/track/2KjwCdPjD0FrZiGMVRq2w3) | [J Majik](https://open.spotify.com/artist/59hUvYHHq6pDHDbfNafjVb), [Wickaman](https://open.spotify.com/artist/3uUmHbRpblPtDIM0Dc4GqE) | [Crazy World \(Remixes\)](https://open.spotify.com/album/4D6PDMvVdDgBsqjyv1QcaG) | 5:48 |
 | 46 | [Turbulence](https://open.spotify.com/track/5QSXKcVw4PQzxVE0yFLcEI) | [Moving Fusion](https://open.spotify.com/artist/4S2udpRV9DTZ2PimP7VzL0) | [RAM 15X15 Vol 2](https://open.spotify.com/album/3iLcOLgL4le3upUXBtezpm) | 4:32 |

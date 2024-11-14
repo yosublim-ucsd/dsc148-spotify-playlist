@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-348 songs - 18 hr 2 min
+349 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-03-07 | 2024-05-01 |
 | [EXTASI](https://open.spotify.com/track/6ORtRmV7rswtzcMZZ4sl2o) | [Dibona](https://open.spotify.com/artist/6fxpScTzxpssTBbxQSpPVY) | [EXTASI](https://open.spotify.com/album/2lu7qZsqPBEGx0mghY3mgN) | 3:47 | 2024-01-19 | 2024-03-14 |
 | [Eyes On You](https://open.spotify.com/track/3u36EF49p2ysKoof6CLQL5) | [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Eyes On You](https://open.spotify.com/album/5ftgTZhsh7UGGgYmhmD2Xt) | 2:38 | 2023-07-07 | 2024-03-14 |
+| [Falling](https://open.spotify.com/track/3sfkfL1jjKMSWbPgDr4Bu1) | [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e) | [Falling](https://open.spotify.com/album/7eZtyBYCVpNAh6nRVqWqIu) | 2:57 | 2024-11-13 |  |
 | [Faster](https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Faster](https://open.spotify.com/album/4cIrSFEwm1MVc53X9XdACU) | 3:00 | 2023-04-26 | 2024-05-01 |
 | [Fed Up](https://open.spotify.com/track/0W2FEBuoaaipzs6pMLJEbu) | [Bessey](https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA) | [Fed Up](https://open.spotify.com/album/3476yoDproOwL6af1dZKgH) | 2:33 | 2024-08-16 | 2024-10-19 |
 | [Feel The Passion](https://open.spotify.com/track/1FsIirLTiqFlbgEPnmdNzT) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Feel The Passion](https://open.spotify.com/album/01J5Pl4PZKt3wfwOGM4ffA) | 3:00 | 2024-11-11 |  |

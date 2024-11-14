@@ -4,7 +4,7 @@
 
 > Enter another dimension of classical music with these atmospheric Sci\-fi soundtracks.
 
-75 songs - 4 hr 59 min
+76 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [To the Stars \- From "Ad Astra" Soundtrack](https://open.spotify.com/track/2UcUL4jytfVpW0jSXi3Ggi) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [To The Stars \(From "Ad Astra" Soundtrack\)](https://open.spotify.com/album/3SapFtmMw8WCjCRLaABmZ1) | 3:30 | 2021-12-16 |  |
 | [Together We Will Live Forever](https://open.spotify.com/track/2pr6us08iPNzIex5q6fMvI) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [The Fountain OST](https://open.spotify.com/album/7q18n1Pnq7mx6satptDoJ3) | 5:01 | 2021-12-16 |  |
 | [Truman Sleeps](https://open.spotify.com/track/4N7h4IHWRaJCOo1VFdTMHV) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [The Truman Show \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2uMsRKnaZ0Iy9wVI4F0X8a) | 1:51 | 2022-07-20 |  |
+| [Túndra](https://open.spotify.com/track/7l4zfFpyo8a1zKNsevVcDT) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Túndra](https://open.spotify.com/album/7wZskJqToFDU8RmWXLzUXi) | 2:23 | 2024-11-13 |  |
 | [Welcome to Lunar Industries](https://open.spotify.com/track/4NkxNXR19hl20qlB2DOgAx) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [Moon \(Original Score\)](https://open.spotify.com/album/0ux9vxJhJoFKaD66UH3160) | 7:11 | 2021-12-16 | 2022-07-21 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

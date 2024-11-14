@@ -1,6 +1,6 @@
 {
   "description": "The most calming classical music.",
-  "num_followers": 972072,
+  "num_followers": 972526,
   "original_name": "Calming Classical",
   "owner": {
     "name": "Spotify",
@@ -1571,7 +1571,7 @@
     {
       "added_at": "2024-10-17 09:15:42",
       "album": {
-        "name": "Debussy/Poulenc/Franck/Ravel:Music for Cello & Piano",
+        "name": "Debussy - Poulenc - Franck & Ravel: Music for Cello and Piano",
         "url": "https://open.spotify.com/album/1cUtLiXmkRNUw9j9eyyPgM"
       },
       "artists": [
@@ -1580,8 +1580,12 @@
           "url": "https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY"
         },
         {
-          "name": "Daniel M\u00fcller-Schott/Robert Kulek",
-          "url": "https://open.spotify.com/artist/4VUYXi3DM3kMe8ifsgz4vD"
+          "name": "Daniel M\u00fcller-Schott",
+          "url": "https://open.spotify.com/artist/13kYI59V1rOIh9nmzNMzXJ"
+        },
+        {
+          "name": "Robert Kulek",
+          "url": "https://open.spotify.com/artist/4RSJRhT5GelylFFXUrDPBf"
         }
       ],
       "duration_ms": 386506,

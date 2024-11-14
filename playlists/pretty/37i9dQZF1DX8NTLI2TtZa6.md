@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,415,886 likes - 206 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,415,985 likes - 206 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,29 +13,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 3 | [Catching the Wind](https://open.spotify.com/track/5F6eiRwJQyVl8TLtNhGL3k) | [Börn Visor](https://open.spotify.com/artist/6MWFWTJoRkiPVQzwvmrXai) | [Catching the Wind](https://open.spotify.com/album/7kYsXRcPUW3sckQsgySIUI) | 2:01 |
 | 4 | [The Last Goodbye](https://open.spotify.com/track/0CFHCZ9LKhFA1DqExQHkf9) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [The Last Goodbye](https://open.spotify.com/album/2iY03z9xsWzIeLkLiJ5iB7) | 2:50 |
 | 5 | [Hope 希望](https://open.spotify.com/track/3urizsCookzGTWmwl5zS3M) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Hope 希望](https://open.spotify.com/album/388eJjJEdCAnY07p4xHRYy) | 3:14 |
-| 6 | [Penumbra](https://open.spotify.com/track/4gLQLTrX35MDaVlFSLPUrg) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Penumbra](https://open.spotify.com/album/2ORmDGwBuXes6QBLKF7EAf) | 2:22 |
+| 6 | [The inner core](https://open.spotify.com/track/6a2tb8bOrFn6S5jbdt5f3j) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [The inner core](https://open.spotify.com/album/7jBoh80XYgDNl8RVL0txEq) | 2:13 |
 | 7 | [Bølgene](https://open.spotify.com/track/2AkfsWt3ZtzqkvMN6q3g2t) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Bølgene](https://open.spotify.com/album/4gBUCW3OYJTPtpiKK9nIGa) | 2:50 |
 | 8 | [Skyward](https://open.spotify.com/track/2qFujpWVqfb1kXJaMouLWr) | [Finley Rhone](https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V) | [Skyward](https://open.spotify.com/album/4vSY1jflRK7V4o13WC92f1) | 2:19 |
-| 9 | [The inner core](https://open.spotify.com/track/6a2tb8bOrFn6S5jbdt5f3j) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [The inner core](https://open.spotify.com/album/7jBoh80XYgDNl8RVL0txEq) | 2:13 |
+| 9 | [Rivers Wide](https://open.spotify.com/track/6CKxNZvRKtUSCmumhtmI6r) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Rivers Wide](https://open.spotify.com/album/23SAyFDy3jUqDNArqcJ87k) | 2:57 |
 | 10 | [June](https://open.spotify.com/track/7rl3w6GFrwBA5cnbVd3vIC) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [June](https://open.spotify.com/album/5f0Nwusj5eiz92QhCatBtu) | 2:43 |
-| 11 | [Stratus](https://open.spotify.com/track/4alvTD1Zcf8beHgVaVzaL5) | [Zoran Tudor](https://open.spotify.com/artist/0wuwIPLU0OZWWO97izTsZO) | [Stratus](https://open.spotify.com/album/1mZs0ztiX0WaYTVeq2FsTv) | 2:14 |
-| 12 | [Rivers Wide](https://open.spotify.com/track/6CKxNZvRKtUSCmumhtmI6r) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Rivers Wide](https://open.spotify.com/album/23SAyFDy3jUqDNArqcJ87k) | 2:57 |
-| 13 | [Monfalcone](https://open.spotify.com/track/139UoQFvV4JuEelwLnjQgh) | [Domizio Ada](https://open.spotify.com/artist/5JvIC1Y9TPK32GZhKIYlSz) | [Monfalcone](https://open.spotify.com/album/5Wg1kQWDl2HitZ4HCewB5w) | 2:33 |
-| 14 | [Viaggio](https://open.spotify.com/track/6fr5ojni7gVUkfLafVXb2R) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Viaggio](https://open.spotify.com/album/3Kq2tqhyD2bGvp78aQkxsH) | 2:38 |
-| 15 | [Rewind](https://open.spotify.com/track/6vNeLU4DFoFbCihyqYYjKa) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Rewind](https://open.spotify.com/album/33b3wSOh9CZ4oex91USFX1) | 2:26 |
+| 11 | [Rewind](https://open.spotify.com/track/6vNeLU4DFoFbCihyqYYjKa) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Rewind](https://open.spotify.com/album/33b3wSOh9CZ4oex91USFX1) | 2:26 |
+| 12 | [Stratus](https://open.spotify.com/track/4alvTD1Zcf8beHgVaVzaL5) | [Zoran Tudor](https://open.spotify.com/artist/0wuwIPLU0OZWWO97izTsZO) | [Stratus](https://open.spotify.com/album/1mZs0ztiX0WaYTVeq2FsTv) | 2:14 |
+| 13 | [Penumbra](https://open.spotify.com/track/4gLQLTrX35MDaVlFSLPUrg) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Penumbra](https://open.spotify.com/album/2ORmDGwBuXes6QBLKF7EAf) | 2:22 |
+| 14 | [Monfalcone](https://open.spotify.com/track/139UoQFvV4JuEelwLnjQgh) | [Domizio Ada](https://open.spotify.com/artist/5JvIC1Y9TPK32GZhKIYlSz) | [Monfalcone](https://open.spotify.com/album/5Wg1kQWDl2HitZ4HCewB5w) | 2:33 |
+| 15 | [Viaggio](https://open.spotify.com/track/6fr5ojni7gVUkfLafVXb2R) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Viaggio](https://open.spotify.com/album/3Kq2tqhyD2bGvp78aQkxsH) | 2:38 |
 | 16 | [Into the Unknown](https://open.spotify.com/track/6xhu6te5zJFLn4sgavp5Xz) | [Lexi Bradley](https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm) | [Into the Unknown](https://open.spotify.com/album/38EOJDVjA48a1OsabohitZ) | 2:39 |
 | 17 | [Hope Eternal](https://open.spotify.com/track/6GvQPlQorNwMFqDS3DkLbU) | [Phil Servati](https://open.spotify.com/artist/297Q5ZWFQEZFXwiGa54day) | [Hope Eternal](https://open.spotify.com/album/4ROGSC2ytUc4aDKP2tyMOJ) | 2:48 |
-| 18 | [The Weaver](https://open.spotify.com/track/2LxVm0nL8MOuJd6CtWpaKM) | [Brooklyn Meir](https://open.spotify.com/artist/7oRlC8DQY3Xj6KAj8KVWft) | [The Weaver](https://open.spotify.com/album/23zWzkzL1LknfgpcwYbTH8) | 3:39 |
-| 19 | [Paradigm](https://open.spotify.com/track/28g9qzHCr2DFas0Uf5W23h) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Paradigm](https://open.spotify.com/album/0tFUtq4lxoR8uP3oI2Uygs) | 2:41 |
-| 20 | [Time in its fury](https://open.spotify.com/track/0VtPANl5cMiIwhZj7Wb26v) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Time in its fury](https://open.spotify.com/album/4x4LYQ1bmp8yf9HE58WLeL) | 2:23 |
-| 21 | [Resplendent](https://open.spotify.com/track/0MeQbzpMevEuSdp5oWXuRO) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [Resplendent](https://open.spotify.com/album/4gMyqPbXXeFmQadOrKK6GN) | 2:33 |
-| 22 | [Chimera](https://open.spotify.com/track/05WnKb5zsyWOQksKqU7LQ9) | [Joshua Ware](https://open.spotify.com/artist/6FMxrKi6qjCJnoY4rMNIHT) | [Chimera](https://open.spotify.com/album/20xZuGYZiJoz7BxlbkBzOC) | 2:15 |
-| 23 | [Charcoaled Walls](https://open.spotify.com/track/0XWMf2z7iX2p8E5kNNRzX3) | [Jean\-Marie Bussiere](https://open.spotify.com/artist/1hZuEKockN0pWOxGImbcUF) | [Charcoaled Walls](https://open.spotify.com/album/6wxHC0jzaRgpbscPfafecz) | 2:04 |
-| 24 | [Hallstatt](https://open.spotify.com/track/03s95WJwNOg7elfFlfG9fF) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Hallstatt](https://open.spotify.com/album/4lliWkRCrXuGWdT9qUi3b6) | 3:04 |
-| 25 | [Profondeur](https://open.spotify.com/track/4c6CZzNkSB8TGdej0Vdj8r) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Profondeur](https://open.spotify.com/album/2avm7Eiash9dQXQYtXrE8x) | 2:20 |
-| 26 | [Stones in my pocket](https://open.spotify.com/track/54Citz4ic3Ox2Q2fBPXdgk) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Stones in my pocket](https://open.spotify.com/album/27OEJqAF2BbRD2w9fAMsGA) | 2:13 |
-| 27 | [Concentrada](https://open.spotify.com/track/7knnkIB1nGfuDK9XeBpbhI) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [Concentrada](https://open.spotify.com/album/5aWPvJXCQ67QQT9LfIYj3U) | 2:24 |
-| 28 | [Monza](https://open.spotify.com/track/3gIH8SK0HmuP4HNSncw2Vw) | [Lorcan Ó Faoláin](https://open.spotify.com/artist/0Gi9Zi1kMh4fJVXEhl4J2t) | [Monza](https://open.spotify.com/album/6TgUE8ZVMeh610Tka4URfk) | 2:13 |
+| 18 | [Paradigm](https://open.spotify.com/track/28g9qzHCr2DFas0Uf5W23h) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Paradigm](https://open.spotify.com/album/0tFUtq4lxoR8uP3oI2Uygs) | 2:41 |
+| 19 | [Time in its fury](https://open.spotify.com/track/0VtPANl5cMiIwhZj7Wb26v) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Time in its fury](https://open.spotify.com/album/4x4LYQ1bmp8yf9HE58WLeL) | 2:23 |
+| 20 | [Resplendent](https://open.spotify.com/track/0MeQbzpMevEuSdp5oWXuRO) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [Resplendent](https://open.spotify.com/album/4gMyqPbXXeFmQadOrKK6GN) | 2:33 |
+| 21 | [Chimera](https://open.spotify.com/track/05WnKb5zsyWOQksKqU7LQ9) | [Joshua Ware](https://open.spotify.com/artist/6FMxrKi6qjCJnoY4rMNIHT) | [Chimera](https://open.spotify.com/album/20xZuGYZiJoz7BxlbkBzOC) | 2:15 |
+| 22 | [Charcoaled Walls](https://open.spotify.com/track/0XWMf2z7iX2p8E5kNNRzX3) | [Jean\-Marie Bussiere](https://open.spotify.com/artist/1hZuEKockN0pWOxGImbcUF) | [Charcoaled Walls](https://open.spotify.com/album/6wxHC0jzaRgpbscPfafecz) | 2:04 |
+| 23 | [Hallstatt](https://open.spotify.com/track/03s95WJwNOg7elfFlfG9fF) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Hallstatt](https://open.spotify.com/album/4lliWkRCrXuGWdT9qUi3b6) | 3:04 |
+| 24 | [Profondeur](https://open.spotify.com/track/4c6CZzNkSB8TGdej0Vdj8r) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Profondeur](https://open.spotify.com/album/2avm7Eiash9dQXQYtXrE8x) | 2:20 |
+| 25 | [Stones in my pocket](https://open.spotify.com/track/54Citz4ic3Ox2Q2fBPXdgk) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Stones in my pocket](https://open.spotify.com/album/27OEJqAF2BbRD2w9fAMsGA) | 2:13 |
+| 26 | [Concentrada](https://open.spotify.com/track/7knnkIB1nGfuDK9XeBpbhI) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [Concentrada](https://open.spotify.com/album/5aWPvJXCQ67QQT9LfIYj3U) | 2:24 |
+| 27 | [Monza](https://open.spotify.com/track/3gIH8SK0HmuP4HNSncw2Vw) | [Lorcan Ó Faoláin](https://open.spotify.com/artist/0Gi9Zi1kMh4fJVXEhl4J2t) | [Monza](https://open.spotify.com/album/6TgUE8ZVMeh610Tka4URfk) | 2:13 |
+| 28 | [The Weaver](https://open.spotify.com/track/2LxVm0nL8MOuJd6CtWpaKM) | [Brooklyn Meir](https://open.spotify.com/artist/7oRlC8DQY3Xj6KAj8KVWft) | [The Weaver](https://open.spotify.com/album/23zWzkzL1LknfgpcwYbTH8) | 3:39 |
 | 29 | [Night Dancer](https://open.spotify.com/track/0G8i9lLEmuRp1RcirmYVLB) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Night Dancer](https://open.spotify.com/album/6IGbOBB7g1vDVCAnQ1IhZR) | 2:05 |
 | 30 | [Life Unfolding](https://open.spotify.com/track/2Giy2LFS5WAlI092sozZPl) | [San Fiore](https://open.spotify.com/artist/2dVta8IapeaopXnWcmKUSm) | [Life Unfolding](https://open.spotify.com/album/0TgicuXFyvuNHkSbYWR7fU) | 2:18 |
 | 31 | [Here Comes the Rain Again](https://open.spotify.com/track/0NKXMhwFfn5mnMhoWFyL3N) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [Here Comes the Rain Again](https://open.spotify.com/album/4bmvPZxTLO2LZmSKcQlPIQ) | 2:27 |
@@ -215,4 +215,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 205 | [Yesterdays Answer](https://open.spotify.com/track/4RcazdOk2fclED0uZ1S2K9) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Yesterdays Answer](https://open.spotify.com/album/7FSU0f8jsIuxR2RzK1XndN) | 2:39 |
 | 206 | [a new love](https://open.spotify.com/track/4DOUtqXfuYKR6RqZ3O6TIi) | [Albrecht Valiery](https://open.spotify.com/artist/3GyopzakL0G5uqjcv56M9h) | [a new love](https://open.spotify.com/album/1OCzduP701HjAIhRhGaBts) | 3:02 |
 
-Snapshot ID: `ZytS/wAAAAAsnNwKstWRtf5YLbKz/dCO`
+Snapshot ID: `ZzRxIAAAAABWbfOcZZ09YjFhrngvttAq`

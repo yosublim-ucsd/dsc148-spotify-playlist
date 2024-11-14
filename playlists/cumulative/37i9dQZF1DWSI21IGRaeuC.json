@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 222923,
       "name": "Cold",
       "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
@@ -2003,6 +2003,24 @@
     },
     {
       "album": {
+        "name": "Feel The Bass EP",
+        "url": "https://open.spotify.com/album/3Ch9ksgJ5kbuqeSeZx21XZ"
+      },
+      "artists": [
+        {
+          "name": "Ozzie Guven",
+          "url": "https://open.spotify.com/artist/6VjxkdeZYfc1U2pC3JmwLy"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377142,
+      "name": "Feel The Bass",
+      "url": "https://open.spotify.com/track/5oHvb2k4wbH2BnaI7GeUEn"
+    },
+    {
+      "album": {
         "name": "Femme Tech",
         "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
       },
@@ -2040,6 +2058,24 @@
       "duration_ms": 483840,
       "name": "Fia",
       "url": "https://open.spotify.com/track/5TREoPShL4tfACMEbHxuzL"
+    },
+    {
+      "album": {
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/6X5dCT7VZAJOz4bKnAzGEC"
+      },
+      "artists": [
+        {
+          "name": "Pedro Borlado",
+          "url": "https://open.spotify.com/artist/4uPPVg3u7IDBNqcDSNsJA7"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238153,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/07Jz0As8Arxyk2Lv65Evhd"
     },
     {
       "album": {
@@ -2902,7 +2938,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 223384,
       "name": "HAVE TO SAY",
       "url": "https://open.spotify.com/track/489FhtqpM5uHbVc1vs4f3X"
@@ -3210,7 +3246,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 202490,
       "name": "Indianism",
       "url": "https://open.spotify.com/track/5fu3j3svVApb0Y5VOxyPvT"
@@ -3718,6 +3754,24 @@
       "duration_ms": 303149,
       "name": "Lezzgo",
       "url": "https://open.spotify.com/track/1NwKx6qj7QbWjFmQ7QlpkE"
+    },
+    {
+      "album": {
+        "name": "Put Your Hands Up For Cologne",
+        "url": "https://open.spotify.com/album/3M6t0CRcKMGlGVHYDoEKQT"
+      },
+      "artists": [
+        {
+          "name": "J.K. Rollin",
+          "url": "https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408941,
+      "name": "Lick It",
+      "url": "https://open.spotify.com/track/7F2eNxJ5ZrGAwd83sIhBud"
     },
     {
       "album": {
@@ -5830,7 +5884,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 325453,
       "name": "Sense - Original Mix",
       "url": "https://open.spotify.com/track/0AD2JWtU8fMOP9FzxXuTys"
@@ -6042,6 +6096,24 @@
       "duration_ms": 176264,
       "name": "Slim Shady",
       "url": "https://open.spotify.com/track/4SWHIURgjr6c3B7J7TxorD"
+    },
+    {
+      "album": {
+        "name": "Smack Yo'",
+        "url": "https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245669,
+      "name": "Smack Yo'",
+      "url": "https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR"
     },
     {
       "album": {

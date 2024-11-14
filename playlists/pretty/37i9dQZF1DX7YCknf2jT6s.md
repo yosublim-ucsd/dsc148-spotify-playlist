@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Butcher Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,135 likes - 100 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,154 likes - 100 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 12 | [OCEAN BREEZE](https://open.spotify.com/track/49mY1tLJTGJIbrDVZS06nK) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [OCEAN BREEZE](https://open.spotify.com/album/5BNxp2Iz7IQRUbxHO1hQam) | 4:38 |
 | 13 | [Three Piece Suit \(feat\. Azekel\)](https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA) | [Three Piece Suit \(feat\. Azekel\)](https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ) | 4:36 |
 | 14 | [Shaking Body](https://open.spotify.com/track/1LisJs3UsHmNKbk3O0pXtq) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 3:12 |
-| 15 | [wanted \(feat\. kamasi washington\)](https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [ceremonial contrafact \(empathogen deluxe\)](https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE) | 2:39 |
+| 15 | [wanted](https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [ceremonial contrafact \(empathogen deluxe\)](https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE) | 2:39 |
 | 16 | [Ashes to Gold \- Pt\. 2](https://open.spotify.com/track/2TUumOIclVLf1F6CltFJQl) | [Avishai Cohen](https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG), [Yonathan Avishai](https://open.spotify.com/artist/71Ek3rVXvYuvaRamNMs5k7), [Barak Mori](https://open.spotify.com/artist/2B9m3RQnberKMSfKcPZjNP), [Ziv Ravitz](https://open.spotify.com/artist/3yiH9RLazhAed3ir9K7D2o) | [Ashes to Gold](https://open.spotify.com/album/6fI5mkMgCIHlF8NCoWSDL8) | 6:44 |
 | 17 | [Echo Sax End](https://open.spotify.com/track/0wd3OKU2d2KW7QxAjCpkye) | [Caleb Arredondo](https://open.spotify.com/artist/48X3AlBcfBle0OsLFRIOrl) | [Echo Sax End](https://open.spotify.com/album/0H23rXwBGa2V7tsD3HUJNh) | 1:17 |
 | 18 | [Echo of a Scream](https://open.spotify.com/track/7oGxFXISaWWEOF4buQAjAZ) | [George Cables](https://open.spotify.com/artist/2UESE6AjDHmxcy9J30M29R) | [Echo of a Scream](https://open.spotify.com/album/4ja7oVc2UfOa9fX2PuJh6b) | 6:10 |

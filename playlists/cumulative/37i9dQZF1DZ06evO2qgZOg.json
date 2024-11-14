@@ -23,6 +23,36 @@
     },
     {
       "album": {
+        "name": "American Horse (feat. John Cooper of Skillet and Ayron Jones)",
+        "url": "https://open.spotify.com/album/4XSZtfqgfpWiqmfEc7lOtE"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        },
+        {
+          "name": "Ayron Jones",
+          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
+        },
+        {
+          "name": "John Cooper",
+          "url": "https://open.spotify.com/artist/6F6yFWTDuaw4cZTjmHxdY8"
+        },
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223992,
+      "name": "American Horse (feat. John Cooper of Skillet and Ayron Jones)",
+      "url": "https://open.spotify.com/track/30Qr90fqL0EvHCqc0pJz7H"
+    },
+    {
+      "album": {
         "name": "Victorious",
         "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
       },
@@ -848,7 +878,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 206182,
       "name": "Shout Your Freedom",
       "url": "https://open.spotify.com/track/4tLvkZX8t5bVltQwe4Cj7P"

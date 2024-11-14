@@ -23701,6 +23701,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3044\u3057\u3066\u308b",
+        "url": "https://open.spotify.com/album/28LObq2FDfWvs8tAvQy9L4"
+      },
+      "artists": [
+        {
+          "name": "MOROHA",
+          "url": "https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339466,
+      "name": "\u3042\u3044\u3057\u3066\u308b",
+      "url": "https://open.spotify.com/track/6trUP516D5vXLLBrNgyn2Y"
+    },
+    {
+      "album": {
         "name": "\u3042\u3051\u307c\u306e (2023)",
         "url": "https://open.spotify.com/album/7DEvmHRVHWr0g4eFyKuW87"
       },

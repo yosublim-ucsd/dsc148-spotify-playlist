@@ -753,6 +753,24 @@
     },
     {
       "album": {
+        "name": "God Rest Ye Merry Gentlemen",
+        "url": "https://open.spotify.com/album/449dMkw6EUBuQRAXbBFinU"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215306,
+      "name": "God Rest Ye Merry Gentlemen",
+      "url": "https://open.spotify.com/track/3ScEjLOQDxCqp2l9NsVdzB"
+    },
+    {
+      "album": {
         "name": "God Rest Ye Merry Gentlemen (Spotify Singles Holiday)",
         "url": "https://open.spotify.com/album/6gwykwTqf7AToBqlTgYSbJ"
       },
@@ -768,24 +786,6 @@
       "duration_ms": 215306,
       "name": "God Rest Ye Merry Gentlemen (Spotify Singles Holiday)",
       "url": "https://open.spotify.com/track/5U1edKpf8zZ04KtkvBOvbu"
-    },
-    {
-      "album": {
-        "name": "God Rest Ye Merry Gentlemen (Spotify Singles Holiday)",
-        "url": "https://open.spotify.com/album/449dMkw6EUBuQRAXbBFinU"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "date_added": "2023-11-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 215306,
-      "name": "God Rest Ye Merry Gentlemen - Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/3ScEjLOQDxCqp2l9NsVdzB"
     },
     {
       "album": {

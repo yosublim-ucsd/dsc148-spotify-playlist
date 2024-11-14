@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "Endurance (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3wTe4VGa505UfU4U0R6GMj"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171686,
+      "name": "Endurance",
+      "url": "https://open.spotify.com/track/6CSTaZVO2cbdmEqJuO3p5h"
+    },
+    {
+      "album": {
         "name": "Everything Is Gonna Be Alright",
         "url": "https://open.spotify.com/album/1vdb0jkqoNi8AQc6WFQrpp"
       },

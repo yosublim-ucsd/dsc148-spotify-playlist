@@ -1,13 +1,285 @@
 {
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Caroline Says",
-  "num_followers": 80535,
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Annahstasia",
+  "num_followers": 80683,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxkwmwAAAAABpbpfLwtO57ooAIR8OZmL",
+  "snapshot_id": "ZzQyUAAAAAAVTojPrn6MuDsVhOu9LORj",
   "tracks": [
+    {
+      "added_at": "2024-11-13 05:00:00",
+      "album": {
+        "name": "Surface Tension",
+        "url": "https://open.spotify.com/album/632eFniptp1u6saHBEN06y"
+      },
+      "artists": [
+        {
+          "name": "Annahstasia",
+          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+        }
+      ],
+      "duration_ms": 180853,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/56iI3wUG7z7VjLtxgVhE1j"
+    },
+    {
+      "added_at": "2024-11-13 05:00:00",
+      "album": {
+        "name": "bullet",
+        "url": "https://open.spotify.com/album/1U0SmNSU5uz64FpxkLPOSy"
+      },
+      "artists": [
+        {
+          "name": "Gloria Laing",
+          "url": "https://open.spotify.com/artist/3aO4DL5c2uBGD8EUuP7sxi"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "bullet",
+      "url": "https://open.spotify.com/track/75lYAI7qAfomG0DdpQw5vV"
+    },
+    {
+      "added_at": "2024-11-13 05:00:00",
+      "album": {
+        "name": "ellipsis",
+        "url": "https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "duration_ms": 243314,
+      "name": "ellipsis",
+      "url": "https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV"
+    },
+    {
+      "added_at": "2024-11-13 05:00:00",
+      "album": {
+        "name": "'Til I Come Around",
+        "url": "https://open.spotify.com/album/3M9J7HOHDNf0CboCMSpOdi"
+      },
+      "artists": [
+        {
+          "name": "Clara Mann",
+          "url": "https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0"
+        }
+      ],
+      "duration_ms": 182840,
+      "name": "'Til I Come Around",
+      "url": "https://open.spotify.com/track/02LqtUPTOQ8wcouIumUKQM"
+    },
+    {
+      "added_at": "2024-11-13 05:00:00",
+      "album": {
+        "name": "hot chocolate",
+        "url": "https://open.spotify.com/album/16IanB9lxAMfOcOrMOtbtR"
+      },
+      "artists": [
+        {
+          "name": "Potwash",
+          "url": "https://open.spotify.com/artist/1iVHeBxXih6iVhdTN7iOfe"
+        }
+      ],
+      "duration_ms": 139849,
+      "name": "hot chocolate",
+      "url": "https://open.spotify.com/track/7h4yLuLxWKFGL60Y6TKurF"
+    },
+    {
+      "added_at": "2024-11-13 05:00:00",
+      "album": {
+        "name": "not what professionals do",
+        "url": "https://open.spotify.com/album/2STeuxyEhy2W3w1UdipyDK"
+      },
+      "artists": [
+        {
+          "name": "Khatumu",
+          "url": "https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu"
+        }
+      ],
+      "duration_ms": 198850,
+      "name": "not what professionals do",
+      "url": "https://open.spotify.com/track/4ggirt6m4GN4E3702rpP80"
+    },
+    {
+      "added_at": "2024-11-13 05:00:00",
+      "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "duration_ms": 272214,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy"
+    },
+    {
+      "added_at": "2024-11-13 05:00:00",
+      "album": {
+        "name": "So Blue",
+        "url": "https://open.spotify.com/album/6C1eTB3Tc19mkHlISe1QHo"
+      },
+      "artists": [
+        {
+          "name": "Blacktop",
+          "url": "https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "So Blue",
+      "url": "https://open.spotify.com/track/6iA7KvLZqd5O3SqqzTTlH4"
+    },
+    {
+      "added_at": "2024-11-13 05:00:00",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/67f9QDKMsM7EVmfkUCEhqW"
+      },
+      "artists": [
+        {
+          "name": "Faunavision",
+          "url": "https://open.spotify.com/artist/1zJDeOTjMNYssPK6eo3nKj"
+        }
+      ],
+      "duration_ms": 64397,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/5z7lGY28ajZOmjdzcSpLyR"
+    },
+    {
+      "added_at": "2024-11-13 05:00:00",
+      "album": {
+        "name": "Exceptions to the Rule",
+        "url": "https://open.spotify.com/album/0AHaZZB2lu7X2OLne0bEP9"
+      },
+      "artists": [
+        {
+          "name": "Finnish Postcard",
+          "url": "https://open.spotify.com/artist/00EyXo9LBxWZOQlWDKFv4X"
+        }
+      ],
+      "duration_ms": 132461,
+      "name": "Mom Built an Altar in the Backyard",
+      "url": "https://open.spotify.com/track/0fOaQRJJoTuvoISryO6Yhh"
+    },
+    {
+      "added_at": "2024-11-13 05:00:00",
+      "album": {
+        "name": "bed bugs",
+        "url": "https://open.spotify.com/album/1LMwbC01wbvT0c8TCOjIHz"
+      },
+      "artists": [
+        {
+          "name": "Trinity Mei",
+          "url": "https://open.spotify.com/artist/1YOMPfQ7CVa7EOfL88t9iA"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "bed bugs",
+      "url": "https://open.spotify.com/track/1BIljFZSsyo3UfWEPFjfYe"
+    },
+    {
+      "added_at": "2024-11-13 05:00:00",
+      "album": {
+        "name": "At Your Best",
+        "url": "https://open.spotify.com/album/5dH19COkc78Fgdgn403VD2"
+      },
+      "artists": [
+        {
+          "name": "Grace Gardner",
+          "url": "https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt"
+        }
+      ],
+      "duration_ms": 304417,
+      "name": "At Your Best",
+      "url": "https://open.spotify.com/track/1kvyA5x85r6gkOqrXW6g1d"
+    },
+    {
+      "added_at": "2024-11-13 05:00:00",
+      "album": {
+        "name": "The Hitchhiker Effect",
+        "url": "https://open.spotify.com/album/3uCSMk218Eie2hltYX7XLE"
+      },
+      "artists": [
+        {
+          "name": "Angus Maude",
+          "url": "https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo"
+        }
+      ],
+      "duration_ms": 253285,
+      "name": "Freaking Out!",
+      "url": "https://open.spotify.com/track/7skubolDyNbKpA2R0e6FyG"
+    },
+    {
+      "added_at": "2024-11-13 05:00:00",
+      "album": {
+        "name": "Willie Pearl",
+        "url": "https://open.spotify.com/album/1VWP3B4Fms7NgEv6CdfMbX"
+      },
+      "artists": [
+        {
+          "name": "Willie Pearl",
+          "url": "https://open.spotify.com/artist/2WPrUOZjxPSvCnbeC8mNO8"
+        }
+      ],
+      "duration_ms": 264259,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3C5hGTfQ9ikxFhmZEW0kLr"
+    },
+    {
+      "added_at": "2024-11-13 05:00:00",
+      "album": {
+        "name": "Loretta",
+        "url": "https://open.spotify.com/album/6jNrFPQisi2cuHUGzTKrzw"
+      },
+      "artists": [
+        {
+          "name": "The Maes",
+          "url": "https://open.spotify.com/artist/6zdezqzQF6UyMqd7c9aYJa"
+        }
+      ],
+      "duration_ms": 196186,
+      "name": "Loretta",
+      "url": "https://open.spotify.com/track/1sryurSTYGWOUSrFMyoqft"
+    },
+    {
+      "added_at": "2024-11-13 05:00:00",
+      "album": {
+        "name": "It's Okay, They Won't Relate",
+        "url": "https://open.spotify.com/album/2awLhFLJtqYtvY0lmpyDmW"
+      },
+      "artists": [
+        {
+          "name": "NumbDome",
+          "url": "https://open.spotify.com/artist/2dt0CUEEL1u22uqRoocBQP"
+        }
+      ],
+      "duration_ms": 301521,
+      "name": "It's Okay, They Won't Relate",
+      "url": "https://open.spotify.com/track/6Ss05YXt0k0oK43xJiP0Om"
+    },
+    {
+      "added_at": "2024-11-13 05:00:00",
+      "album": {
+        "name": "I don't know what I'm doing yet",
+        "url": "https://open.spotify.com/album/4CuEqc4cZZSdzqNoYg7wf0"
+      },
+      "artists": [
+        {
+          "name": "Brendan Walter",
+          "url": "https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat"
+        }
+      ],
+      "duration_ms": 178606,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/3fq9FVl7B9brIdRs66T9E4"
+    },
     {
       "added_at": "2024-10-23 17:21:31",
       "album": {
@@ -637,22 +909,6 @@
       "url": "https://open.spotify.com/track/4kMeYFx7mHMagqSGPs73Al"
     },
     {
-      "added_at": "2024-09-18 16:00:00",
-      "album": {
-        "name": "Smaller",
-        "url": "https://open.spotify.com/album/6qVgYeLlFOUbotEbTGomHV"
-      },
-      "artists": [
-        {
-          "name": "Grace Gardner",
-          "url": "https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt"
-        }
-      ],
-      "duration_ms": 299126,
-      "name": "Smaller",
-      "url": "https://open.spotify.com/track/4dJ7GtHADpM0zopmsbACZK"
-    },
-    {
       "added_at": "2024-09-25 16:00:00",
       "album": {
         "name": "Second Chances",
@@ -875,118 +1131,6 @@
       "duration_ms": 290003,
       "name": "Watch Me Drive Them Dogs Wild",
       "url": "https://open.spotify.com/track/6iu45OgK2U9qgefiUzQT7l"
-    },
-    {
-      "added_at": "2024-09-11 16:51:45",
-      "album": {
-        "name": "spring will come",
-        "url": "https://open.spotify.com/album/08gU4cgs5HdjAZvFINhRat"
-      },
-      "artists": [
-        {
-          "name": "Nessa McHugh",
-          "url": "https://open.spotify.com/artist/3ctqz5L44tn6Rx0kPHNct6"
-        }
-      ],
-      "duration_ms": 176500,
-      "name": "spring will come",
-      "url": "https://open.spotify.com/track/5E7N0nr63wL3A5lWwlMxHq"
-    },
-    {
-      "added_at": "2024-09-11 16:51:45",
-      "album": {
-        "name": "Get-Go",
-        "url": "https://open.spotify.com/album/1ZkdGFemrVA53TyXujwC5f"
-      },
-      "artists": [
-        {
-          "name": "His His",
-          "url": "https://open.spotify.com/artist/2TMWd2oE1MAzSt4V10lnVO"
-        }
-      ],
-      "duration_ms": 113600,
-      "name": "Get-Go",
-      "url": "https://open.spotify.com/track/6bg7tfA7D8VHhsDdbhsnuU"
-    },
-    {
-      "added_at": "2024-09-11 16:51:45",
-      "album": {
-        "name": "Spooky",
-        "url": "https://open.spotify.com/album/6PDhjBmxVy7exXHUCwjnnS"
-      },
-      "artists": [
-        {
-          "name": "soft star",
-          "url": "https://open.spotify.com/artist/5EpWCM5quwzO5FPjkDxB8E"
-        }
-      ],
-      "duration_ms": 235802,
-      "name": "Spooky",
-      "url": "https://open.spotify.com/track/6ocgYwn6Z0iw3OZkAPhJKO"
-    },
-    {
-      "added_at": "2024-09-11 16:51:45",
-      "album": {
-        "name": "The Upside",
-        "url": "https://open.spotify.com/album/5O7kvXJ8oCFIp03N2NNBtj"
-      },
-      "artists": [
-        {
-          "name": "Raavi",
-          "url": "https://open.spotify.com/artist/2TOe8Cf1hnlJTQWcTStQ64"
-        }
-      ],
-      "duration_ms": 122845,
-      "name": "The Upside",
-      "url": "https://open.spotify.com/track/6nQB4Rrniz1gXtgwHRvR2l"
-    },
-    {
-      "added_at": "2024-09-11 16:51:45",
-      "album": {
-        "name": "Mushrooms",
-        "url": "https://open.spotify.com/album/1GfpD8vxZgfB8YyDLRcM6F"
-      },
-      "artists": [
-        {
-          "name": "Skydaddy",
-          "url": "https://open.spotify.com/artist/3D0kSdrilgR4uCW5smIzEX"
-        }
-      ],
-      "duration_ms": 202739,
-      "name": "Mushrooms",
-      "url": "https://open.spotify.com/track/5snn7VQMZEe41kKoREQf88"
-    },
-    {
-      "added_at": "2024-08-28 04:00:00",
-      "album": {
-        "name": "Jessie's House",
-        "url": "https://open.spotify.com/album/4CChj4YlzZQ7qCWfZYSuiH"
-      },
-      "artists": [
-        {
-          "name": "Findlay",
-          "url": "https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn"
-        }
-      ],
-      "duration_ms": 196892,
-      "name": "Jessie's House",
-      "url": "https://open.spotify.com/track/5XqflTC9Cn3YCdDvIXSDFK"
-    },
-    {
-      "added_at": "2024-08-28 04:00:00",
-      "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/5cWc6ZCExd4pwkE3SFAItu"
-      },
-      "artists": [
-        {
-          "name": "Blacktop",
-          "url": "https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc"
-        }
-      ],
-      "duration_ms": 218689,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/4836c60FYoDyiMVshhZzev"
     },
     {
       "added_at": "2024-08-21 20:53:22",
@@ -1443,22 +1587,6 @@
     {
       "added_at": "2024-07-24 13:34:16",
       "album": {
-        "name": "RJB",
-        "url": "https://open.spotify.com/album/7nyvLUD121rnySDnAYFNY8"
-      },
-      "artists": [
-        {
-          "name": "Eli Riccardi",
-          "url": "https://open.spotify.com/artist/2sAsWXrp3h7Co0Nkwh5Wxg"
-        }
-      ],
-      "duration_ms": 111003,
-      "name": "RJB",
-      "url": "https://open.spotify.com/track/3FegyjbqT64ujLQmnFBaeH"
-    },
-    {
-      "added_at": "2024-07-24 13:34:16",
-      "album": {
         "name": "Red Cedar",
         "url": "https://open.spotify.com/album/6N69lFEemWGCfl3SpI2Rim"
       },
@@ -1557,22 +1685,6 @@
       "url": "https://open.spotify.com/track/2637H4or8sjAJ08Dnvq7fX"
     },
     {
-      "added_at": "2024-06-05 04:00:00",
-      "album": {
-        "name": "gut health",
-        "url": "https://open.spotify.com/album/0fHoOMkM8YOuSlPWNOvjnP"
-      },
-      "artists": [
-        {
-          "name": "Pem",
-          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
-        }
-      ],
-      "duration_ms": 243469,
-      "name": "gut health",
-      "url": "https://open.spotify.com/track/6sDD5wCAJIGjCqPlPwSOck"
-    },
-    {
       "added_at": "2024-05-29 12:56:53",
       "album": {
         "name": "The Rock / Magical Thinking",
@@ -1587,138 +1699,6 @@
       "duration_ms": 142718,
       "name": "The Rock",
       "url": "https://open.spotify.com/track/6IgenNSTsv9vVYVP9ZlNAq"
-    },
-    {
-      "added_at": "2024-07-17 16:23:52",
-      "album": {
-        "name": "Fool\u2019s Parade",
-        "url": "https://open.spotify.com/album/32SQc8kyN2hbwgokkXfLwQ"
-      },
-      "artists": [
-        {
-          "name": "Color Green",
-          "url": "https://open.spotify.com/artist/42Aj8msFQ4idllOK09Jj8Z"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "Ball And Key",
-      "url": "https://open.spotify.com/track/6rodsrcCg5rqABZiE2RgFk"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "pretty out",
-        "url": "https://open.spotify.com/album/5UO3cqD7xbri2gxDrbjNQG"
-      },
-      "artists": [
-        {
-          "name": "frans asthma",
-          "url": "https://open.spotify.com/artist/09biooH630jXVJKFhTdzoL"
-        },
-        {
-          "name": "Qozy",
-          "url": "https://open.spotify.com/artist/3LGjZxZ3jr5Cx9M4oj66Mh"
-        }
-      ],
-      "duration_ms": 184363,
-      "name": "pretty out",
-      "url": "https://open.spotify.com/track/5HOclWyzX8iunVPnnFB0g1"
-    },
-    {
-      "added_at": "2024-07-03 04:00:00",
-      "album": {
-        "name": "Affinity",
-        "url": "https://open.spotify.com/album/2WD7ociXjnjpwYSLQgee2A"
-      },
-      "artists": [
-        {
-          "name": "Loma",
-          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
-        }
-      ],
-      "duration_ms": 283688,
-      "name": "Affinity",
-      "url": "https://open.spotify.com/track/1ZKX3dKAhJd35RmEGPug1Y"
-    },
-    {
-      "added_at": "2024-06-19 16:02:06",
-      "album": {
-        "name": "Comedown",
-        "url": "https://open.spotify.com/album/3RZ86ppFRmYMLs0cOTMl5P"
-      },
-      "artists": [
-        {
-          "name": "Leonie Biney",
-          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
-        }
-      ],
-      "duration_ms": 148236,
-      "name": "Comedown",
-      "url": "https://open.spotify.com/track/0VgXzmh9mT3BAgSMjqMonn"
-    },
-    {
-      "added_at": "2024-07-03 04:00:00",
-      "album": {
-        "name": "Drive & Drive b/w Hyde Park",
-        "url": "https://open.spotify.com/album/5c6YGxBcgjXgMl2D1Lffvj"
-      },
-      "artists": [
-        {
-          "name": "hemlock",
-          "url": "https://open.spotify.com/artist/2urQCjxehNpSQWZW83h1L2"
-        }
-      ],
-      "duration_ms": 101836,
-      "name": "Hyde Park",
-      "url": "https://open.spotify.com/track/0oBd3Cqiq5noxJSDZgUVaU"
-    },
-    {
-      "added_at": "2024-07-03 04:00:00",
-      "album": {
-        "name": "Foreverish",
-        "url": "https://open.spotify.com/album/3zbD2yPc5wZxIJn3nJzLPY"
-      },
-      "artists": [
-        {
-          "name": "slimdan",
-          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
-        }
-      ],
-      "duration_ms": 105496,
-      "name": "Foreverish",
-      "url": "https://open.spotify.com/track/0QwLkSBMDiLI8mIKQPmThk"
-    },
-    {
-      "added_at": "2024-06-05 18:13:23",
-      "album": {
-        "name": "Colorado",
-        "url": "https://open.spotify.com/album/2lUUoJrmkwVTYzOKvzSoWN"
-      },
-      "artists": [
-        {
-          "name": "Sister.",
-          "url": "https://open.spotify.com/artist/3QooTofa3QjkPWjB7sMHCY"
-        }
-      ],
-      "duration_ms": 267540,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/3LGptYQodNdJAxgtKPIbRb"
-    },
-    {
-      "added_at": "2024-06-05 04:00:00",
-      "album": {
-        "name": "down the falls",
-        "url": "https://open.spotify.com/album/1SZljZSRYNXAfMy1vi7Atq"
-      },
-      "artists": [
-        {
-          "name": "COULOU",
-          "url": "https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl"
-        }
-      ],
-      "duration_ms": 145390,
-      "name": "down the falls",
-      "url": "https://open.spotify.com/track/4uD3YUPqv2iqwz5puK7xru"
     }
   ],
   "unique_name": "Fresh Finds Folk ",

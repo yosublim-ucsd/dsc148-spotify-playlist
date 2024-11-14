@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,007 songs - 4 day 11 hr 46 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,009 songs - 4 day 11 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2015,5 +2015,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2005 | [Baby G](https://open.spotify.com/track/4n4doJ9RMuarUvkSjwcF7U) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 4:31 |
 | 2006 | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4) | 3:39 |
 | 2007 | [U Weren't Here I Really Miss You](https://open.spotify.com/track/61iJknbAXSuBflDz3vSQ0b) | [Cult Member](https://open.spotify.com/artist/1pR1W2iWfLwtMK776UeIcF) | [U Weren't Here I Really Miss You](https://open.spotify.com/album/6Ky5coUkQosChvDtdzjBWE) | 2:40 |
+| 2008 | [wutiwant](https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/1ymKniZ31tQMi6lVuM95Ic) | 3:13 |
+| 2009 | [You Could Be The One](https://open.spotify.com/track/0rJvdHXHV9xOXAsq8bna7Q) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 2](https://open.spotify.com/album/1SHqiM8BmiWkZlZ3ozOi5q) | 2:21 |
 
-Snapshot ID: `AAADjbwZWhUceZSvh1YlgybJx214UJLX`
+Snapshot ID: `AAADj3CfPFZo6ArtWoIdr0UgFx2Tn2LT`

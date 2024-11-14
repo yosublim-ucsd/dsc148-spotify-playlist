@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-319 songs - 15 hr 48 min
+320 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [Smooth Rush](https://open.spotify.com/track/5Jw8bFyOFGSHc76SufSoZd) | [Hanni](https://open.spotify.com/artist/14E7RzXOsb9iMithqexVOd), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Victor Staal](https://open.spotify.com/artist/2bgAoii05IWMcjX8TBPWMp) | [Smooth Rush](https://open.spotify.com/album/71xU082Io0evYU0s9ICVBA) | 2:00 | 2024-10-25 |  |
 | [Soft Moments](https://open.spotify.com/track/3fkJhN1UvLO1yy6gpoxmC2) | [flwrz](https://open.spotify.com/artist/1e6Ke7g6UOnYMqXt4Da9kU) | [Soft Moments](https://open.spotify.com/album/1laFeTsAZGskVBQxGrRdIm) | 2:24 | 2024-10-06 |  |
 | [Solace](https://open.spotify.com/track/6XF3THa6lb0wN4gXWJcyDw) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Solace](https://open.spotify.com/album/7CQknjOhZ2NC1bCiPIeFpx) | 2:00 | 2024-06-04 |  |
-| [Sometimes](https://open.spotify.com/track/4GxjXLt3QmNK86kZH3YX84) | [catch92](https://open.spotify.com/artist/3yXLoJ2Yak6kiuXbSIssRo) | [Sometimes](https://open.spotify.com/album/50DOyzaTfAWF0eFJSgZden) | 1:52 | 2024-09-27 |  |
+| [Sometimes](https://open.spotify.com/track/4GxjXLt3QmNK86kZH3YX84) | [catch92](https://open.spotify.com/artist/3yXLoJ2Yak6kiuXbSIssRo) | [Sometimes](https://open.spotify.com/album/50DOyzaTfAWF0eFJSgZden) | 1:52 | 2024-09-27 | 2024-11-14 |
 | [Sono Qui Pt\. 2](https://open.spotify.com/track/46GHEqmKAkkF9JmKQduQaT) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [Francesco Giampaoli](https://open.spotify.com/artist/4JL4brCLF4fbNBdRt21tFX), [Opek](https://open.spotify.com/artist/1CUV6UEfyGRCZXqBbXJ5f7) | [Sono Qui Pt\. 2](https://open.spotify.com/album/6vWQ3YgWhg94oxf7llA2q7) | 2:21 | 2024-09-13 | 2024-09-16 |
 | [Space Lady](https://open.spotify.com/track/5jUsq0C0j5GVpGJ7k2aRuo) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [Space Lady](https://open.spotify.com/album/60rYxheF93A0mh2U1tPMtO) | 2:18 | 2024-10-11 |  |
 | [Space Patrol](https://open.spotify.com/track/04DOoRqn0mhGrVSXWWFZy5) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Space Patrol](https://open.spotify.com/album/4SygTOSMqssPhZLMVtT3ss) | 2:42 | 2024-09-13 |  |
@@ -291,6 +291,7 @@
 | [The Colour Purple \- Live From Malibu](https://open.spotify.com/track/6OCawhDsDWOyyhWwoumwsT) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [The Yussef Dayes Experience \(Live From Malibu\)](https://open.spotify.com/album/3PGNm2ibnsl8rldfXjQ1wB) | 2:43 | 2024-01-26 | 2024-04-19 |
 | [The Elephant in the Room](https://open.spotify.com/track/3KZkUgDEdCX5RGFYGDN962) | [An0](https://open.spotify.com/artist/7bGMJI5extdRfbKjw1NufB), [kevin](https://open.spotify.com/artist/3S8QW0sAq2cXykM7MKCC0z), [An0kevin](https://open.spotify.com/artist/31UWwbJn6pacSbQ499Ubw4) | [Motions](https://open.spotify.com/album/6VcLyA6KkelIAWkmmyQhuh) | 4:29 | 2024-03-20 | 2024-06-05 |
 | [The Elephant in the Room](https://open.spotify.com/track/4kG68VmZZJcRqCR5r2tg0Z) | [An0](https://open.spotify.com/artist/7bGMJI5extdRfbKjw1NufB), [kevin](https://open.spotify.com/artist/3S8QW0sAq2cXykM7MKCC0z), [An0kevin](https://open.spotify.com/artist/31UWwbJn6pacSbQ499Ubw4) | [Motions](https://open.spotify.com/album/4kI3cs7XkyzACcl9suYQ6s) | 4:29 | 2023-08-22 | 2024-04-19 |
+| [The painter and the boxer](https://open.spotify.com/track/7xWDF3iSo1zrY4Poci5TRt) | [Airelle Besson](https://open.spotify.com/artist/7wmRujhwjUN04pL50mZuQT), [Jonas Burgwinkel](https://open.spotify.com/artist/3IYogdLlTqqqaOmEEXl0QR), [Sebastian Sternal](https://open.spotify.com/artist/3uYaI9pblcTHZCV5zSoNzK) | [Surprise !](https://open.spotify.com/album/1j4xK9XyXJkh7tQtkRwbHT) | 3:56 | 2024-11-08 |  |
 | [The Pearl That Glitters](https://open.spotify.com/track/4Vsi0U4B1ECmquKgeco8b0) | [SHOLTO](https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u) | [The Pearl That Glitters](https://open.spotify.com/album/2padzsKqfrIWHBZjlOl2gW) | 3:43 | 2023-10-13 | 2024-09-01 |
 | [The Pleasure Principle](https://open.spotify.com/track/4BT2EgvDvzQUki9ixfqQls) | [SHOLTO](https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u) | [The Changing Tides of Dreams](https://open.spotify.com/album/2eeg6bbrUX1NWJRix0wi4I) | 3:01 | 2023-11-17 |  |
 | [The Portal](https://open.spotify.com/track/18S4fMwB1dE6dgjLZXlL79) | [pantology](https://open.spotify.com/artist/6BmJQyuJW3ghQ8qLROaOt0) | [The Portal](https://open.spotify.com/album/7tXAy7j7gTTOkvChmnplAt) | 2:34 | 2024-08-23 | 2024-10-05 |

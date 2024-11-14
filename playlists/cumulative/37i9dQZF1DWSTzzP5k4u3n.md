@@ -4,7 +4,7 @@
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Irina.
 
-207 songs - 12 hr 12 min
+208 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Uus normi](https://open.spotify.com/track/2mQQRDkKqewjrcf6SnCiwI) | [HALKO](https://open.spotify.com/artist/79IxWunX0jajGf0HAUY4kJ) | [Uus normi](https://open.spotify.com/album/2MtgE4AUFaonlZTSFnq96C) | 2:55 | 2024-08-15 |  |
 | [Uusi päivä](https://open.spotify.com/track/2zwM91t2i3IUjfTwhw5xJo) | [Ikirouta](https://open.spotify.com/artist/1WVtxnETRvbUC9ZyUbJ3Ao) | [Uusi päivä](https://open.spotify.com/album/2AmiHzuCzZr2BpNqXaANVo) | 3:00 | 2024-10-11 |  |
 | [Vakavaa](https://open.spotify.com/track/5JT6AkFVdJBDg6Mqufjo3x) | [Jere Valkonen](https://open.spotify.com/artist/0FtRSBfEsyAf0Wo7yOXW9A) | [Vakavaa](https://open.spotify.com/album/6OQJ4DEZbhCZY2uDFdbpJ2) | 3:36 | 2024-10-03 | 2024-11-01 |
+| [Valtatie Tuonelaan](https://open.spotify.com/track/3RrSsuJPFQBx5u11R7H0Xm) | [MINÄMINÄ](https://open.spotify.com/artist/3xuRSjlTXFHrbECRrQLTdl) | [Valtatie Tuonelaan](https://open.spotify.com/album/17NL4b2ssvOyIifGBEPBvW) | 3:27 | 2024-11-13 |  |
 | [Vapauteen](https://open.spotify.com/track/4OTlbuDEqWBdVWrAEA1Nvr) | [Varissuo](https://open.spotify.com/artist/4FbCm0KhTyrFMuKu9ykGLE) | [Vapauteen](https://open.spotify.com/album/08LDifosqmFUiqOHzf2FgY) | 4:25 | 2024-09-26 |  |
 | [Verivala](https://open.spotify.com/track/63wjcCy16aXLDK9G1t7lNP) | [kytät](https://open.spotify.com/artist/49jF8kdHtxnwhnQa5wiknv) | [Verivala](https://open.spotify.com/album/4CwyveLUU9sPzTWxdix0XS) | 2:37 | 2024-07-02 | 2024-09-13 |
 | [Vihaa ja rakkautta](https://open.spotify.com/track/796ubEueApvI9WRFBgTkkM) | [Freesi](https://open.spotify.com/artist/4sRObLNOtgx4bdcOmMzwad) | [Vihaa ja rakkautta](https://open.spotify.com/album/4Qz9J3ZUGhN2Dk6hIuLsao) | 3:06 | 2024-10-31 |  |

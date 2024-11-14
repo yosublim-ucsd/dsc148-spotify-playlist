@@ -1,12 +1,12 @@
 {
   "description": "This is Steven Price. The essential tracks, all in one playlist.",
-  "num_followers": 1331,
+  "num_followers": 1332,
   "original_name": "This Is Steven Price",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzFJAAAAAACkqSBUIcPFWwPdlFL0HpAD",
+  "snapshot_id": "ZzKagAAAAADeuo/OQxzXrSSaLVMsB58A",
   "tracks": [
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 164053,
-      "name": "I Should Tell You My Story Myself",
-      "url": "https://open.spotify.com/track/5ei9JGRHRb4Yu9WNUnWslc"
+      "duration_ms": 174186,
+      "name": "You Are Like a Dream I Had",
+      "url": "https://open.spotify.com/track/0yJp0q45dJgyZ5JSfwA3qg"
     },
     {
       "added_at": null,
@@ -807,22 +807,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Night In Soho (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/4Mnn0ufXhd94rvmMLRyTlL"
+        "name": "Over the Moon (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
       },
       "artists": [
-        {
-          "name": "Anya Taylor-Joy",
-          "url": "https://open.spotify.com/artist/5RAMfpOCoBthlipim1IaUa"
-        },
         {
           "name": "Steven Price",
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 138373,
-      "name": "You're My World - Soho Version",
-      "url": "https://open.spotify.com/track/1YEhtRxWc1BiHh3Xt0fXJW"
+      "duration_ms": 98293,
+      "name": "This Road is a Suicide Mission",
+      "url": "https://open.spotify.com/track/15Vk6UHrHlpCpgwqhSQN7d"
     }
   ],
   "unique_name": "This Is Steven Price",

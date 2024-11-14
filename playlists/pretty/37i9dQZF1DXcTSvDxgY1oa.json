@@ -1,6 +1,6 @@
 {
   "description": "S\u00e4m Wilder op de cover van de Popronde 2024. Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten. ",
-  "num_followers": 1837,
+  "num_followers": 1838,
   "original_name": "Popronde 2024",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Dream Big",
-        "url": "https://open.spotify.com/album/4wWjPHLH59SIBcjKj48FED"
-      },
-      "artists": [
-        {
-          "name": "Rindue",
-          "url": "https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw"
-        }
-      ],
-      "duration_ms": 185238,
-      "name": "Where To Go",
-      "url": "https://open.spotify.com/track/6xKKBbIWCnWB0SYcFrNCGY"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Tide",
         "url": "https://open.spotify.com/album/6xkoo0lC94cz5ry7nicfZ9"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 112810,
       "name": "Tide",
       "url": "https://open.spotify.com/track/25r4hGcPiLIh1sl6FK7TZV"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "Dream Big",
+        "url": "https://open.spotify.com/album/4wWjPHLH59SIBcjKj48FED"
+      },
+      "artists": [
+        {
+          "name": "Rindue",
+          "url": "https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw"
+        }
+      ],
+      "duration_ms": 185238,
+      "name": "Where To Go",
+      "url": "https://open.spotify.com/track/6xKKBbIWCnWB0SYcFrNCGY"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Chica Chica",
-        "url": "https://open.spotify.com/album/2pQmS4a76AppFbEWSpW5pS"
-      },
-      "artists": [
-        {
-          "name": "Chica Chica",
-          "url": "https://open.spotify.com/artist/24YYk80fvpykj3JxGIJMef"
-        }
-      ],
-      "duration_ms": 234453,
-      "name": "Chica Chica",
-      "url": "https://open.spotify.com/track/6vn6NaH3HWO9rLsJ8FwrJP"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Nothing Ever Happens Around Here",
         "url": "https://open.spotify.com/album/6SDfF97SR7lQQWE50Nq3Qj"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 135447,
       "name": "Belong",
       "url": "https://open.spotify.com/track/23herECwL0FJOKSvAO3Ens"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "Chica Chica",
+        "url": "https://open.spotify.com/album/2pQmS4a76AppFbEWSpW5pS"
+      },
+      "artists": [
+        {
+          "name": "Chica Chica",
+          "url": "https://open.spotify.com/artist/24YYk80fvpykj3JxGIJMef"
+        }
+      ],
+      "duration_ms": 234453,
+      "name": "Chica Chica",
+      "url": "https://open.spotify.com/track/6vn6NaH3HWO9rLsJ8FwrJP"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/3LEUBYC0dxVu43CKR1Umgd"
-      },
-      "artists": [
-        {
-          "name": "Howen Justin",
-          "url": "https://open.spotify.com/artist/1LTaWRYPFuvUvthUmc5d8N"
-        }
-      ],
-      "duration_ms": 151730,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/1rYYVVhwcjvaA7fmuDffDf"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Lost In Love",
         "url": "https://open.spotify.com/album/6fXQ2QVG2l5IyM1UsvjGul"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 248344,
       "name": "Leave It",
       "url": "https://open.spotify.com/track/67YsbY7DgPcKNdM98lMpXM"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/3LEUBYC0dxVu43CKR1Umgd"
+      },
+      "artists": [
+        {
+          "name": "Howen Justin",
+          "url": "https://open.spotify.com/artist/1LTaWRYPFuvUvthUmc5d8N"
+        }
+      ],
+      "duration_ms": 151730,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/1rYYVVhwcjvaA7fmuDffDf"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "All Is Me",
-        "url": "https://open.spotify.com/album/7cEgRgjGay0shcthca5IKR"
-      },
-      "artists": [
-        {
-          "name": "Dreamer",
-          "url": "https://open.spotify.com/artist/2ZtELmYTWzfnlVKkT0kJUk"
-        }
-      ],
-      "duration_ms": 194370,
-      "name": "Old Town",
-      "url": "https://open.spotify.com/track/3REox2ZEVX7XzbYjU3d5T2"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Waiting for You",
         "url": "https://open.spotify.com/album/4qWy88xzbtgneQ3USXZWLh"
       },
@@ -703,18 +687,18 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Zoals Jij",
-        "url": "https://open.spotify.com/album/4uNTLh7yEtxmI40JBLymIA"
+        "name": "All Is Me",
+        "url": "https://open.spotify.com/album/7cEgRgjGay0shcthca5IKR"
       },
       "artists": [
         {
-          "name": "ANDRO",
-          "url": "https://open.spotify.com/artist/2VOCs6lYNw7KgXminnltr5"
+          "name": "Dreamer",
+          "url": "https://open.spotify.com/artist/2ZtELmYTWzfnlVKkT0kJUk"
         }
       ],
-      "duration_ms": 129272,
-      "name": "Zoals Jij",
-      "url": "https://open.spotify.com/track/7mOnZDmJEpBrAPlWpSm4G9"
+      "duration_ms": 194370,
+      "name": "Old Town",
+      "url": "https://open.spotify.com/track/3REox2ZEVX7XzbYjU3d5T2"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -735,34 +719,18 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Windkracht 8",
-        "url": "https://open.spotify.com/album/0ZPr21jW83B6D0SIdEqRGF"
+        "name": "Leave The Light On",
+        "url": "https://open.spotify.com/album/0McGq9TH4ClPe1k6s9dOOk"
       },
       "artists": [
         {
-          "name": "geosy",
-          "url": "https://open.spotify.com/artist/3nS38ibeuCXkxnkUiQ3ne5"
+          "name": "Henk Johannes",
+          "url": "https://open.spotify.com/artist/3CZHiwnbmEiNa5WqjkPUwG"
         }
       ],
-      "duration_ms": 162341,
-      "name": "Windkracht 8",
-      "url": "https://open.spotify.com/track/2WM4Y3iC9PzMMUGJ3trUhU"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
-        "name": "High Wire",
-        "url": "https://open.spotify.com/album/0KFppbLNzRuWtVOTIXShRh"
-      },
-      "artists": [
-        {
-          "name": "Sol Power",
-          "url": "https://open.spotify.com/artist/09YruwmKMkdwBgREy572ao"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "High Wire",
-      "url": "https://open.spotify.com/track/3dS2XIA1WQAaPHVTYYKiYQ"
+      "duration_ms": 297506,
+      "name": "Everything Is Falling Apart",
+      "url": "https://open.spotify.com/track/4zpyErgPuHCA9gd9Cv12sX"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -783,18 +751,50 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Leave The Light On",
-        "url": "https://open.spotify.com/album/0McGq9TH4ClPe1k6s9dOOk"
+        "name": "Zoals Jij",
+        "url": "https://open.spotify.com/album/4uNTLh7yEtxmI40JBLymIA"
       },
       "artists": [
         {
-          "name": "Henk Johannes",
-          "url": "https://open.spotify.com/artist/3CZHiwnbmEiNa5WqjkPUwG"
+          "name": "ANDRO",
+          "url": "https://open.spotify.com/artist/2VOCs6lYNw7KgXminnltr5"
         }
       ],
-      "duration_ms": 297506,
-      "name": "Everything Is Falling Apart",
-      "url": "https://open.spotify.com/track/4zpyErgPuHCA9gd9Cv12sX"
+      "duration_ms": 129272,
+      "name": "Zoals Jij",
+      "url": "https://open.spotify.com/track/7mOnZDmJEpBrAPlWpSm4G9"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "High Wire",
+        "url": "https://open.spotify.com/album/0KFppbLNzRuWtVOTIXShRh"
+      },
+      "artists": [
+        {
+          "name": "Sol Power",
+          "url": "https://open.spotify.com/artist/09YruwmKMkdwBgREy572ao"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "High Wire",
+      "url": "https://open.spotify.com/track/3dS2XIA1WQAaPHVTYYKiYQ"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "Windkracht 8",
+        "url": "https://open.spotify.com/album/0ZPr21jW83B6D0SIdEqRGF"
+      },
+      "artists": [
+        {
+          "name": "geosy",
+          "url": "https://open.spotify.com/artist/3nS38ibeuCXkxnkUiQ3ne5"
+        }
+      ],
+      "duration_ms": 162341,
+      "name": "Windkracht 8",
+      "url": "https://open.spotify.com/track/2WM4Y3iC9PzMMUGJ3trUhU"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Melanotan - Detonate",
-        "url": "https://open.spotify.com/album/3UP1BYVn91UiOg7ISywkg7"
-      },
-      "artists": [
-        {
-          "name": "Cardigan Inn",
-          "url": "https://open.spotify.com/artist/0ejgubWGr4S1CiUnLVTuL2"
-        }
-      ],
-      "duration_ms": 142734,
-      "name": "Melanotan",
-      "url": "https://open.spotify.com/track/5xfBI89BbIwHcwJ8SSiL2L"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Payback",
         "url": "https://open.spotify.com/album/7k2jLfPPv0qYgpcg5B0mu9"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 142386,
       "name": "Payback",
       "url": "https://open.spotify.com/track/1H4PeFDmnt4QCRtJTVa7a0"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "Melanotan - Detonate",
+        "url": "https://open.spotify.com/album/3UP1BYVn91UiOg7ISywkg7"
+      },
+      "artists": [
+        {
+          "name": "Cardigan Inn",
+          "url": "https://open.spotify.com/artist/0ejgubWGr4S1CiUnLVTuL2"
+        }
+      ],
+      "duration_ms": 142734,
+      "name": "Melanotan",
+      "url": "https://open.spotify.com/track/5xfBI89BbIwHcwJ8SSiL2L"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/1xEMS9J4vMOvzUtL4zg20x"
-      },
-      "artists": [
-        {
-          "name": "ISA\u00cf",
-          "url": "https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2"
-        }
-      ],
-      "duration_ms": 118500,
-      "name": "Hot Mess",
-      "url": "https://open.spotify.com/track/4iOuFrWCo1Nr3LyXLWgcGz"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Sirocco",
         "url": "https://open.spotify.com/album/66n3hUwcOBU8vOzxkqu3J0"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 262039,
       "name": "Vientu",
       "url": "https://open.spotify.com/track/3JBoHXPeA0muUhjDg34K3Z"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/1xEMS9J4vMOvzUtL4zg20x"
+      },
+      "artists": [
+        {
+          "name": "ISA\u00cf",
+          "url": "https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2"
+        }
+      ],
+      "duration_ms": 118500,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/4iOuFrWCo1Nr3LyXLWgcGz"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
+        "name": "Everything I Need Is Here",
+        "url": "https://open.spotify.com/album/7twIkHqsj1l15RLves3bls"
+      },
+      "artists": [
+        {
+          "name": "Melanie Ryan",
+          "url": "https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Everything I Need Is Here",
+      "url": "https://open.spotify.com/track/1d2uzY2eIhYA1n7rcZpo2u"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
         "name": "Sin Pausa",
         "url": "https://open.spotify.com/album/4jG9K3AOYsGTk9uKDYpHwV"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 100408,
       "name": "Sin Pausa",
       "url": "https://open.spotify.com/track/7obtxgMXDCIWiAkRvhKR01"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
-        "name": "Everything I Need Is Here",
-        "url": "https://open.spotify.com/album/7twIkHqsj1l15RLves3bls"
-      },
-      "artists": [
-        {
-          "name": "Melanie Ryan",
-          "url": "https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "Everything I Need Is Here",
-      "url": "https://open.spotify.com/track/1d2uzY2eIhYA1n7rcZpo2u"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
+        "name": "Zwemmen In Het Geld",
+        "url": "https://open.spotify.com/album/0jZgZPtXtb0EnLxNeH9qlj"
+      },
+      "artists": [
+        {
+          "name": "Zeevlinder",
+          "url": "https://open.spotify.com/artist/1SQxjouaMdQ33xLh15463l"
+        }
+      ],
+      "duration_ms": 170883,
+      "name": "Zwemmen In Het Geld",
+      "url": "https://open.spotify.com/track/0GKRQlXAFUEFWi2mc5eqb3"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
         "name": "Maankind",
         "url": "https://open.spotify.com/album/14ScUgJJXyRXGLvgHmXxBm"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 163032,
       "name": "wist je niet",
       "url": "https://open.spotify.com/track/3hwIQDZxwEF7iLV4T637Yh"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
-        "name": "Zwemmen In Het Geld",
-        "url": "https://open.spotify.com/album/0jZgZPtXtb0EnLxNeH9qlj"
-      },
-      "artists": [
-        {
-          "name": "Zeevlinder",
-          "url": "https://open.spotify.com/artist/1SQxjouaMdQ33xLh15463l"
-        }
-      ],
-      "duration_ms": 170883,
-      "name": "Zwemmen In Het Geld",
-      "url": "https://open.spotify.com/track/0GKRQlXAFUEFWi2mc5eqb3"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Way Too Deep",
-        "url": "https://open.spotify.com/album/4NTIBkGxuLScx1ouZHgVEV"
-      },
-      "artists": [
-        {
-          "name": "HALF CAB",
-          "url": "https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Way Too Deep",
-      "url": "https://open.spotify.com/track/1LAlC9JwewGe2aj9brUxrC"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "English Silence",
         "url": "https://open.spotify.com/album/2qdOTZUPt0akgV5cW1iwqL"
       },
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
+        "name": "Way Too Deep",
+        "url": "https://open.spotify.com/album/4NTIBkGxuLScx1ouZHgVEV"
+      },
+      "artists": [
+        {
+          "name": "HALF CAB",
+          "url": "https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Way Too Deep",
+      "url": "https://open.spotify.com/track/1LAlC9JwewGe2aj9brUxrC"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
         "name": "YOYO",
         "url": "https://open.spotify.com/album/21uX5sFA6RULtHc25bFHBW"
       },
@@ -1175,22 +1175,6 @@
       "duration_ms": 283124,
       "name": "YOYO",
       "url": "https://open.spotify.com/track/6Tc9xfkxp7JscJMhlziEeL"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
-        "name": "Isaak's Marble",
-        "url": "https://open.spotify.com/album/7321BrsYapb3m0FDpRDBte"
-      },
-      "artists": [
-        {
-          "name": "Heath",
-          "url": "https://open.spotify.com/artist/36sKW4QJcMcBkYqavKY5xX"
-        }
-      ],
-      "duration_ms": 601682,
-      "name": "Isaak's Marble",
-      "url": "https://open.spotify.com/track/3IPB6IxdbYD5nOJzQljoun"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
+        "name": "Isaak's Marble",
+        "url": "https://open.spotify.com/album/7321BrsYapb3m0FDpRDBte"
+      },
+      "artists": [
+        {
+          "name": "Heath",
+          "url": "https://open.spotify.com/artist/36sKW4QJcMcBkYqavKY5xX"
+        }
+      ],
+      "duration_ms": 601682,
+      "name": "Isaak's Marble",
+      "url": "https://open.spotify.com/track/3IPB6IxdbYD5nOJzQljoun"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
         "name": "Day n Night",
         "url": "https://open.spotify.com/album/3FlftLqY9fgrTTGDy2fKLr"
       },
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "High On The Moon",
-        "url": "https://open.spotify.com/album/0O1sBTZe2g6yxslc9UJhy5"
-      },
-      "artists": [
-        {
-          "name": "Mikki Wood",
-          "url": "https://open.spotify.com/artist/3nTgiwWZj38hvLhaigK9CO"
-        }
-      ],
-      "duration_ms": 162798,
-      "name": "Two Times In A Moment",
-      "url": "https://open.spotify.com/track/4UAzaQT3EVnIqLBHFwETJo"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Black Beach",
         "url": "https://open.spotify.com/album/2beZWwj39t1TxNo76LzwUS"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 371520,
       "name": "8888",
       "url": "https://open.spotify.com/track/7AnbsWeUbz0cKGlye9wcKG"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "High On The Moon",
+        "url": "https://open.spotify.com/album/0O1sBTZe2g6yxslc9UJhy5"
+      },
+      "artists": [
+        {
+          "name": "Mikki Wood",
+          "url": "https://open.spotify.com/artist/3nTgiwWZj38hvLhaigK9CO"
+        }
+      ],
+      "duration_ms": 162798,
+      "name": "Two Times In A Moment",
+      "url": "https://open.spotify.com/track/4UAzaQT3EVnIqLBHFwETJo"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "FUEGO",
-        "url": "https://open.spotify.com/album/5q6I6ow3dPKubgxi4kbnRS"
-      },
-      "artists": [
-        {
-          "name": "QUANZA",
-          "url": "https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy"
-        }
-      ],
-      "duration_ms": 220068,
-      "name": "FUEGO",
-      "url": "https://open.spotify.com/track/28hQYkZ3uRTXZE1UoRH7CB"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Happy Child",
         "url": "https://open.spotify.com/album/2uF3BVy1VWtmJhwwuazAXK"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 298999,
       "name": "Danse lunaire",
       "url": "https://open.spotify.com/track/6xaD7BY0O0w4nF6KLnAerp"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "FUEGO",
+        "url": "https://open.spotify.com/album/5q6I6ow3dPKubgxi4kbnRS"
+      },
+      "artists": [
+        {
+          "name": "QUANZA",
+          "url": "https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy"
+        }
+      ],
+      "duration_ms": 220068,
+      "name": "FUEGO",
+      "url": "https://open.spotify.com/track/28hQYkZ3uRTXZE1UoRH7CB"
     },
     {
       "added_at": "2024-10-21 10:10:26",

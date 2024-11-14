@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Leo e Matheus
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,782 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,781 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 33 | [Proporcional \- Ao Vivo](https://open.spotify.com/track/3AKMvNOTMHoqiL08yt92d4) | [Theo & Luan](https://open.spotify.com/artist/7E3ROnYOaeZZk20pxrvPLc), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Simples Assim 2 \(Ao Vivo / EP2\)](https://open.spotify.com/album/1A6fzpL93HxUjkShBWq1Oq) | 2:34 |
 | 34 | [Vício Emocional](https://open.spotify.com/track/461LedE4ECifMKZJM8ejVq) | [Carol Villa](https://open.spotify.com/artist/1nr8Q8WNEAb3znVkAlZGOO) | [Vício Emocional](https://open.spotify.com/album/0F9TJyx9sdMcbqHQhGOJt2) | 2:31 |
 | 35 | [Meu Erro \- Ao Vivo](https://open.spotify.com/track/4f5D8O8j7NMQUG81Mk8CDu) | [Hugo Alvarez](https://open.spotify.com/artist/3j6w3csiIbvwOYbYFMv5KI) | [Ao Vivo Em Goiânia \(Vol.2\)](https://open.spotify.com/album/70W73FkvwDVz87UN6pCx7T) | 3:31 |
-| 36 | [Dedo Podre \- Ao Vivo](https://open.spotify.com/track/0cyllrwXTzj7AWfxIfNS1G) | [Buteco dos Cinco](https://open.spotify.com/artist/0eCd6SpC5FeQlBnQn8peU1), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR), [Netto & Henrique](https://open.spotify.com/artist/7a6OmakIInI0Q0VjbYCASe) | [Dedo Podre \(Ao Vivo\)](https://open.spotify.com/album/3WC4K7hP80HFe7YhnwuRf1) | 2:52 |
+| 36 | [Dedo Podre \- Ao Vivo](https://open.spotify.com/track/0cyllrwXTzj7AWfxIfNS1G) | [Buteco dos Cinco](https://open.spotify.com/artist/0eCd6SpC5FeQlBnQn8peU1), [Netto & Henrique](https://open.spotify.com/artist/7a6OmakIInI0Q0VjbYCASe) | [Dedo Podre \(Ao Vivo\)](https://open.spotify.com/album/3WC4K7hP80HFe7YhnwuRf1) | 2:52 |
 | 37 | [Tomara Que Não Seja Eu \- Ao Vivo](https://open.spotify.com/track/14DziEGNZUfIi5H0M5YpVM) | [Lorena Cristine](https://open.spotify.com/artist/2QVNBzkqMGqtwHiLyobYln) | [Tomara Que Não Seja Eu \(Ao Vivo\)](https://open.spotify.com/album/4jUhgRrM8jB1oK6nQMe22v) | 3:28 |
 | 38 | [Eu Não Vou Te Pegar \- Ao Vivo](https://open.spotify.com/track/1H4F3GB8oqJNn78mqpeZNg) | [Pedro e Rafael](https://open.spotify.com/artist/2DFCklgpKvgnjLY8CoCwVZ), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR) | [Eu Não Vou Te Pegar \(Ao Vivo\)](https://open.spotify.com/album/7w4YVfYCfDkEhYyFX7rO8N) | 3:06 |
 | 39 | [Álcool Sabotando \- Vê Se Pod, Ao Vivo](https://open.spotify.com/track/7GwI64OEdSo2yTlKFUIN4o) | [Tales e Conrado](https://open.spotify.com/artist/7fcLHcV1WevmunmSl3NkoN), [João Carreiro](https://open.spotify.com/artist/3BwCvUfnT11B2jJtFZMtfH), [New Music Play](https://open.spotify.com/artist/3k7MPOrJwbfxQS4ArgsNEG) | [Álcool Sabotando \(Vê Se Pod\)](https://open.spotify.com/album/3vUdqLFrH10taKHBmgBmTx) | 2:45 |

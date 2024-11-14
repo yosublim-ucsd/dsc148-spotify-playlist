@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Ludmilla, Belo
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,628 likes - 75 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,825 likes - 75 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 39 | [Você Sempre Será / Não Dá Pra Resistir \- Ao Vivo](https://open.spotify.com/track/3nKNLeDJowBgJfPLX2TNRT) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 3:55 |
 | 40 | [Luz na Escuridão / Adivinha / Fatalmente \- Ao Vivo](https://open.spotify.com/track/2cicREalc7LMXuXlGLeKVw) | [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq) | [Subúrbio, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3cN5jv2eOEBHco9aa50qEf) | 4:51 |
 | 41 | [Pot\-Pourri: Me Olha Nos Olhos / Futuro Prometido / Ainda Gosto de Você \- Ao Vivo](https://open.spotify.com/track/07b6vu21xExj1m3DhqNP6o) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [De Volta Pro Amanhã, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/7qzwgpW2dmXGDigu3mVbUv) | 6:04 |
-| 42 | [Amor De Fim De Noite / Mina De Fé \- Ao Vivo](https://open.spotify.com/track/2WedJjvJK63JuWHcsWd8q4) | [DaPaz](https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Pagode DaPaz \(Ao Vivo\)](https://open.spotify.com/album/7hfhY7lryzSuA60O0M3ZUP) | 4:05 |
+| 42 | [Amor De Fim De Noite / Mina De Fé \- Ao Vivo](https://open.spotify.com/track/2WedJjvJK63JuWHcsWd8q4) | [DaPaz](https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx) | [Pagode DaPaz \(Ao Vivo\)](https://open.spotify.com/album/7hfhY7lryzSuA60O0M3ZUP) | 4:05 |
 | 43 | [Inigualável Paixão / Pra Ser Minha Musa \- Ao Vivo](https://open.spotify.com/track/7rIzAG8RsiGHt6W0t1qRU6) | [Vou Zuar](https://open.spotify.com/artist/5x2zeeLVXEDaMHRaRmH3FD), [Renato da Rocinha](https://open.spotify.com/artist/2bRmiOcLOpBKxnMRZ9Nqiv) | [Inigualável Paixão / Pra Ser Minha Musa \(Ao Vivo\)](https://open.spotify.com/album/0C6nYu2ouiXhjm1tFXq8og) | 4:46 |
 | 44 | [É Na Madrugada / Amor Bipolar / A Casa Caiu \- Ao Vivo](https://open.spotify.com/track/1r7Ik46RmpvfQAfBu40No6) | [Bom Gosto](https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd), [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Guerêguerê, Bloco 6 \(Ao Vivo\)](https://open.spotify.com/album/5ABomsOe78kUOdG1ZJHt7V) | 4:27 |
 | 45 | [Clichê / Sobrenome / Amanhã \- Ao Vivo](https://open.spotify.com/track/77ya2SnTsokkD7s2Gq82L1) | [Puro Clima](https://open.spotify.com/artist/0tqBQWnmKCi741dnOHbVkq) | [Pra Quem Não Conhece, Ep\. 01 \(Ao Vivo\)](https://open.spotify.com/album/4NGOlC5CIiLYoLEGI12TEr) | 6:02 |

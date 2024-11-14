@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover: Chani Nattan, Inderpal Moga & Sukha
 
-255 songs - 11 hr 57 min
+256 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Assault](https://open.spotify.com/track/373YKVi1jskf5VEOQLHe2y) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Kanji Porh](https://open.spotify.com/artist/1b98mtrHsQw4TsaFTZTNFt), [Sobit](https://open.spotify.com/artist/0IHV9OaDBM0RQ4I3ZBrVv4) | [Assault](https://open.spotify.com/album/5Bcvt4DnYTfJUrrq1aRvYt) | 2:17 | 2024-10-24 |  |
 | [At The Afterparty](https://open.spotify.com/track/2IZOYSnYAaYgbfAQZwbmxK) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Deorachit](https://open.spotify.com/artist/2ZtfmE2WlGjnaHwtwHbZXh) | [At The Afterparty](https://open.spotify.com/album/3XhhCe9VFT7Ai41MbdabBj) | 2:22 | 2023-12-14 | 2024-01-04 |
 | [Attach](https://open.spotify.com/track/5dOOepMv3psX67DJAP5D6I) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Attach](https://open.spotify.com/album/6DB7R2re4tUi2oak4SoLwV) | 3:32 | 2024-09-06 |  |
-| [Bach Sohnie](https://open.spotify.com/track/0keFxoNryQPlMLMXTR8OUZ) | [Sajjn](https://open.spotify.com/artist/1B4OT0DMB0gnluv2UIukCT) | [Bach Sohnie](https://open.spotify.com/album/0P7XjvZhP4cZUI7W3tLuLc) | 2:19 | 2024-10-08 |  |
+| [Bach Sohnie](https://open.spotify.com/track/0keFxoNryQPlMLMXTR8OUZ) | [Sajjn](https://open.spotify.com/artist/1B4OT0DMB0gnluv2UIukCT) | [Bach Sohnie](https://open.spotify.com/album/0P7XjvZhP4cZUI7W3tLuLc) | 2:19 | 2024-10-08 | 2024-11-14 |
 | [Bad Ass Boy](https://open.spotify.com/track/1PanDlK13SWPjKvOdCjHK1) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Sky 38](https://open.spotify.com/artist/6pciHEnBi4NOwZohw7jB1f), [Inder D Last Level](https://open.spotify.com/artist/5mHnBqe0ORanNO0oeIWX2d) | [Time Will Tell](https://open.spotify.com/album/60hP5BO12BmQs3KjUgGyqc) | 2:21 | 2024-09-03 | 2024-10-05 |
 | [Bandana](https://open.spotify.com/track/4Tx8bpMOSikMMrpXAdEbxo) | [Jujhar](https://open.spotify.com/artist/5LJ2jcTSVpzhlQfZN4vco6) | [Bandana](https://open.spotify.com/album/0dcnzIxSYZuNI81AKVOogV) | 2:26 | 2024-09-03 | 2024-09-29 |
 | [BANDIT](https://open.spotify.com/track/2LnSeX9FsOj3ugF4vZy8Nj) | [GAGG E](https://open.spotify.com/artist/1bLhM3jn76Q9wKJSF23x8R), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G), [Glixzy](https://open.spotify.com/artist/5ZIksrTp5QKB7uiDofkU8Y) | [MONEY OVER MATTERS](https://open.spotify.com/album/6lpZZ6lgUvznUuCjBK36Gp) | 2:55 | 2024-08-30 | 2024-09-25 |
@@ -163,6 +163,7 @@
 | [Midnight Mob](https://open.spotify.com/track/6phxf8uhi3eQ0EGefpTeTA) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Jagga](https://open.spotify.com/artist/6eRi6fEqY6bxzFN2iNPSwz), [Vitamin](https://open.spotify.com/artist/4pYzHNIyEnFmGEdy6lomXR) | [Midnight Mob](https://open.spotify.com/album/5ysc3i4fJbBo9hPivlXslV) | 3:22 | 2023-03-18 | 2023-10-12 |
 | [Mitran Di Hood \(From "Pendu Boyz"\)](https://open.spotify.com/track/1L6KZjvkF1Pa9p6dCR9YDd) | [A Kay](https://open.spotify.com/artist/4ZPiabRclxJHc90C0eY8xh), [Pendu Boyz](https://open.spotify.com/artist/77gJmotGj52JsPMGuFuvBW) | [Mitran Di Hood \(From "Pendu Boyz"\)](https://open.spotify.com/album/1gugWAwXrXiQzDCzejFRH6) | 2:00 | 2024-10-18 |  |
 | [Moosedrilla \(feat\. DIVINE\)](https://open.spotify.com/track/67KTXqxMEyBMq3LApqCgNV) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:52 | 2023-03-18 | 2023-12-15 |
+| [MTCD](https://open.spotify.com/track/02PIqG8MByA1eaLsdsWvE6) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Japjeet Sandhu](https://open.spotify.com/artist/38hUZEN7hCJfaZRMQgg0Hd) | [MTCD](https://open.spotify.com/album/2fxtRrHh3XGrK2ImBzkfoq) | 2:36 | 2024-11-13 |  |
 | [My Aura](https://open.spotify.com/track/5Mx6BZltl9Xk7QZqtd4BKX) | [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [My Aura](https://open.spotify.com/album/3VoZc4pBGN7ig2qCI4mbsc) | 2:26 | 2024-09-16 | 2024-11-05 |
 | [My Talk](https://open.spotify.com/track/1blSrivSm7CgTwoy3JeIC9) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [My Talk](https://open.spotify.com/album/6QedbscvibNXbm8MIKy9Kz) | 3:09 | 2023-03-18 | 2024-08-14 |
 | [my turn/meri vaari](https://open.spotify.com/track/1lnRtzXxijmzDRixUHz1aL) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk) | [my turn/meri vaari](https://open.spotify.com/album/1vpMvJS3I00wguWHQjx3pQ) | 3:01 | 2023-03-18 | 2023-10-12 |

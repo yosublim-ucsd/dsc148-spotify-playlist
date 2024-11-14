@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Aspas",
+        "url": "https://open.spotify.com/album/1co5kKp9zITSEMIr4sdYHC"
+      },
+      "artists": [
+        {
+          "name": "Flughand",
+          "url": "https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92000,
+      "name": "Aspas",
+      "url": "https://open.spotify.com/track/5b2isDzu4jC6Yk1EJxcRGm"
+    },
+    {
+      "album": {
         "name": "Dope On Plastic 3",
         "url": "https://open.spotify.com/album/3GPCHpKBqHQk2a0UcfpLjV"
       },

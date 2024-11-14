@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/3pi8AlHZo5bq0mFi3wZDW8?si=TgeWgTQnQeGABCgE3L9RXg">TRON PYRE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,940 likes - 62 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,955 likes - 62 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

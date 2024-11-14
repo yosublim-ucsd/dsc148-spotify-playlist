@@ -4,7 +4,7 @@
 
 > You don't want to miss these episodes from creators you want to keep on your RADAR
 
-25 songs - 20 hr 38 min
+29 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,9 @@
 | [1701: The Doula part 1](https://open.spotify.com/episode/2Fpu1lFKkeJL4IZHMelaQG) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 27:21 | 2024-10-03 |  |
 | [1704: Hockey Dad Poses as Delta Force Agent to Scam Parents part 1](https://open.spotify.com/episode/0sWz317aIGbSt7tTqDRLAl) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 33:09 | 2024-10-03 |  |
 | [1801: Who's Afraid of LaDonna Humphrey part 1](https://open.spotify.com/episode/7sb1mbmRUeoT2yXRHb2UKt) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 38:56 | 2024-10-03 |  |
+| [1905: LaDonna's Surrogates part 1](https://open.spotify.com/episode/7wzQMxsDvuwpWw1XCh4UNl) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 25:00 | 2024-11-13 |  |
 | [Are NBA Fans Too Eager To "Blow It Up"?](https://open.spotify.com/episode/2W5DI2EkNhApyJN1o18sJs) | [Small Ball with Kenny Beecham](https://open.spotify.com/show/6eTEBCz1PHcQ4wg0yhi6RF) | [Small Ball with Kenny Beecham](https://open.spotify.com/album/6eTEBCz1PHcQ4wg0yhi6RF) | 52:11 | 2024-10-03 |  |
+| [Being a Swiftie: Right or Wrong?](https://open.spotify.com/episode/6mN7QxeUT0UPQURmox9Zrz) | [I'm Right You're Wrong](https://open.spotify.com/show/6wu9msV7ZBaOledxroPzmj) | [I'm Right You're Wrong](https://open.spotify.com/album/6wu9msV7ZBaOledxroPzmj) | 40:25 | 2024-11-13 |  |
 | [Black People Love Conspiracy Theories ft\. Langston Kerman & David Gborie](https://open.spotify.com/episode/4fo5EbeBW4HLc6HgFVw3C5) | [Black People Love Paramore](https://open.spotify.com/show/0aNC945DJjS2GbgAqRc1v3) | [Black People Love Paramore](https://open.spotify.com/album/0aNC945DJjS2GbgAqRc1v3) | 52:14 | 2024-10-03 |  |
 | [Black People Love Love Is Blind S6 Ft\. Justine and Natasha \(2 Black Girls, 1 Rose\)](https://open.spotify.com/episode/6RXppd6BkPltVqGEcgEGwh) | [Black People Love Paramore](https://open.spotify.com/show/0aNC945DJjS2GbgAqRc1v3) | [Black People Love Paramore](https://open.spotify.com/album/0aNC945DJjS2GbgAqRc1v3) | 55:55 | 2024-10-03 |  |
 | [Black People Love Paramore ft\. Hayley Williams \(!!!!!\)](https://open.spotify.com/episode/4AX6JpjSgfm6kDHozDqOUq) | [Black People Love Paramore](https://open.spotify.com/show/0aNC945DJjS2GbgAqRc1v3) | [Black People Love Paramore](https://open.spotify.com/album/0aNC945DJjS2GbgAqRc1v3) | 17:12 | 2024-10-03 |  |
@@ -26,6 +28,8 @@
 | [Don’t date “successful” people.](https://open.spotify.com/episode/0zD3h3vvBFKfsnrMfmFJUR) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/show/0sJAtVorz8TsYDzzyM04cq) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/album/0sJAtVorz8TsYDzzyM04cq) | 51:55 | 2024-10-03 |  |
 | [I Tried To Summarize Every NBA Team In 45 Minutes](https://open.spotify.com/episode/1VcPEF8oJoPO7oNzHHHXor) | [Small Ball with Kenny Beecham](https://open.spotify.com/show/6eTEBCz1PHcQ4wg0yhi6RF) | [Small Ball with Kenny Beecham](https://open.spotify.com/album/6eTEBCz1PHcQ4wg0yhi6RF) | 49:00 | 2024-10-03 |  |
 | [I'm Single\. Again.](https://open.spotify.com/episode/7BHn9T7O3W62Lsi5HLob9r) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/show/0sJAtVorz8TsYDzzyM04cq) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/album/0sJAtVorz8TsYDzzyM04cq) | 1:08:11 | 2024-10-03 |  |
+| [Love Is Blind SZN 7 FT\. Garrick Bernard](https://open.spotify.com/episode/7a8Kx5gvf0xNq1uRKLq4m8) | [Black People Love Paramore](https://open.spotify.com/show/0aNC945DJjS2GbgAqRc1v3) | [Black People Love Paramore](https://open.spotify.com/album/0aNC945DJjS2GbgAqRc1v3) | 1:13:02 | 2024-11-13 |  |
+| [NBA Contenders or Pretenders](https://open.spotify.com/episode/6FRtTHMIQOEyTBE4d3DkkX) | [Small Ball with Kenny Beecham](https://open.spotify.com/show/6eTEBCz1PHcQ4wg0yhi6RF) | [Small Ball with Kenny Beecham](https://open.spotify.com/album/6eTEBCz1PHcQ4wg0yhi6RF) | 1:08:04 | 2024-11-13 |  |
 | [Nepo Babies: Right or Wrong? ](https://open.spotify.com/episode/3ABKivR25DeLsDI6Ruv96Y) | [I'm Right You're Wrong](https://open.spotify.com/show/6wu9msV7ZBaOledxroPzmj) | [I'm Right You're Wrong](https://open.spotify.com/album/6wu9msV7ZBaOledxroPzmj) | 50:54 | 2024-10-03 |  |
 | [Networking as an Introvert.](https://open.spotify.com/episode/2A4qXznNALKVNONM5mSiUV) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/show/0sJAtVorz8TsYDzzyM04cq) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/album/0sJAtVorz8TsYDzzyM04cq) | 1:13:09 | 2024-10-03 |  |
 | [Ranking The 25 Best NBA Players Under 25 Years Old](https://open.spotify.com/episode/7wjPh9sATTgDCEtRhG6uBp) | [Small Ball with Kenny Beecham](https://open.spotify.com/show/6eTEBCz1PHcQ4wg0yhi6RF) | [Small Ball with Kenny Beecham](https://open.spotify.com/album/6eTEBCz1PHcQ4wg0yhi6RF) | 54:39 | 2024-10-03 |  |

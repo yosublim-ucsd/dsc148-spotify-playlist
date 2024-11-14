@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: IDLES
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,877 likes - 979 songs - 2 day 11 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,879 likes - 979 songs - 2 day 11 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 69 | [Arnaq \- Spotify Singles](https://open.spotify.com/track/0T4IShtGeuGZS3siXj4MJe) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Spotify Singles](https://open.spotify.com/album/5bbRNKzRs3j44dxQR9SzJ3) | 3:39 |
 | 70 | [I'm On Fire \- Spotify Singles](https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [I'm On Fire \- Spotify Singles](https://open.spotify.com/album/6Oe8Xx4xBMAAfPYisJZKKV) | 3:29 |
 | 71 | [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 |
-| 72 | [God Rest Ye Merry Gentlemen \- Spotify Singles Holiday](https://open.spotify.com/track/3ScEjLOQDxCqp2l9NsVdzB) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [God Rest Ye Merry Gentlemen \(Spotify Singles Holiday\)](https://open.spotify.com/album/449dMkw6EUBuQRAXbBFinU) | 3:35 |
+| 72 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/3ScEjLOQDxCqp2l9NsVdzB) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/449dMkw6EUBuQRAXbBFinU) | 3:35 |
 | 73 | [Joy To The World \- Spotify Singles Holiday](https://open.spotify.com/track/7eY3FLrGc3cdEj3xbMOfHl) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Joy To The World \- Spotify Singles Holiday](https://open.spotify.com/album/7gHKfU5w1qlLNoOp9DNnyv) | 3:57 |
 | 74 | [Un Vaquero En Navidad \- Spotify Singles Holiday](https://open.spotify.com/track/1nOpu7a0wobR8Fa9zUqS2s) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Un Vaquero En Navidad \(Spotify Singles Holiday\)](https://open.spotify.com/album/53N3BvckuE8dwVPMNNNdfB) | 3:53 |
 | 75 | [A Little Bit Happy \- Spotify Singles](https://open.spotify.com/track/7zNQs0jlDtar52exQYUrxS) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Spotify Singles](https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4) | 3:25 |

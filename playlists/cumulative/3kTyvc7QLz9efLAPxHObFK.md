@@ -4,7 +4,7 @@
 
 > 
 
-1,825 songs - 4 day 1 hr 43 min
+1,827 songs - 4 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Anywhere \(Cardination Remix\)](https://open.spotify.com/track/1ZGCsLdoBBrrVfAP0d6JAP) | [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8), [Cardination](https://open.spotify.com/artist/4toQz3bR47E3eTqP8PssZm) | [Anywhere \(Cardination Remix\)](https://open.spotify.com/album/4iNCzY6IHsTwI0t7uRuGnv) | 2:57 | 2024-08-28 |  |
 | [Armageddon \- Noxiouz Remix](https://open.spotify.com/track/3dG65iBK18eyggmHfVdCfM) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [Armageddon \(Noxiouz Remix\)](https://open.spotify.com/album/00QlryN6MeGXvja8Z5diFR) | 3:02 | 2023-12-02 |  |
 | [Armageddon Of The Mind](https://open.spotify.com/track/787sAtQKf4MjW9Nmzby94F) | [Zero Decay](https://open.spotify.com/artist/6jeIVSYtovQyTuskys78hD), [Eggedd](https://open.spotify.com/artist/0c41gp29ZkkV0ty4CGZ5SL), [MC Prime](https://open.spotify.com/artist/41E3AGIWTIVpYAHqMWkmYf) | [Armageddon Of The Mind](https://open.spotify.com/album/0Fcdx0OotNmGwUno1oGEUA) | 2:39 | 2022-12-02 |  |
+| [Around](https://open.spotify.com/track/3X7MtlBdVoqp9xsXbFCTng) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Around](https://open.spotify.com/album/08zRhZq1IrNXErHtnV5Xa8) | 2:35 | 2024-11-14 |  |
 | [AROUND THE WORLD](https://open.spotify.com/track/3mgQBnxRvpOVZ2dsYzxmsh) | [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l), [Michelle Barth](https://open.spotify.com/artist/4ypSIxnbDQtY4LjdzLS9DO) | [AROUND THE WORLD](https://open.spotify.com/album/7ecd07HBfKzESTmmRP18eG) | 2:55 | 2024-04-05 |  |
 | [Around The World](https://open.spotify.com/track/7uN9WRG4rdoK4qODDdwvu2) | [Samynator](https://open.spotify.com/artist/0stG6nm18OkbJlJHWHxrPw), [BreakStyle](https://open.spotify.com/artist/1FtR1QSTaxYFJdsiHDc4ZF) | [Around The World](https://open.spotify.com/album/7rCtNIWYCRNazQ7duXlWXE) | 2:18 | 2024-04-19 |  |
 | [As It Was \- Hardstyle Mix](https://open.spotify.com/track/1ZJw273I4EbJCXsaChJLDA) | [Matduke](https://open.spotify.com/artist/2iTdqBeEWz0QriMt81o9CN) | [As It Was \(Hardstyle Mix\)](https://open.spotify.com/album/0kDjioV0UoDp22cQZ0dz8h) | 2:51 | 2023-04-10 |  |
@@ -1508,6 +1509,7 @@
 | [Sweater Weather](https://open.spotify.com/track/3ezoEY4TKU8frUXAYFJstC) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Sweater Weather](https://open.spotify.com/album/4WpAMWarbK8ebialie40qZ) | 3:50 | 2022-09-06 |  |
 | [SWEET & SPACY](https://open.spotify.com/track/5cc14ihZRyD02vheBBOFeS) | [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K) | [SWEET & SPACY](https://open.spotify.com/album/4rFJkgdSirJH1qL35895zG) | 3:07 | 2023-05-13 |  |
 | [Sweet Bomb](https://open.spotify.com/track/6IViZEF35o1v3kZeUJNYFD) | [BreakStyle](https://open.spotify.com/artist/1FtR1QSTaxYFJdsiHDc4ZF), [Mind Controller](https://open.spotify.com/artist/3XfbViVU6Z8LKK1YkO4lOc) | [Sweet Bomb](https://open.spotify.com/album/5MjIcsSYot5K5ZqVBOug3e) | 3:28 | 2024-04-26 | 2024-04-28 |
+| [Sweet But Psycho](https://open.spotify.com/track/4tuAQKIOvR2y93N2b8zI9m) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Sweet But Psycho](https://open.spotify.com/album/4OB4IRGAHNxCDqriQJuWT9) | 2:51 | 2024-11-13 |  |
 | [SWEETHEART](https://open.spotify.com/track/1pm53W5JpBdkVyE72mm7W3) | [Synthion](https://open.spotify.com/artist/4YqfXU53VVYBunSuvrDZYO) | [SWEETHEART](https://open.spotify.com/album/4G8JnLQhOF8w234GbjKaOD) | 2:13 | 2023-02-11 |  |
 | [Switch](https://open.spotify.com/track/0cOs1S8cu4zdJUzuMYcIav) | [Lumex](https://open.spotify.com/artist/5mmH8aPIBykETuGLc97VOi), [Kickdown](https://open.spotify.com/artist/4qUiWm8m64r7UAdlirKZS9), [MC Nox](https://open.spotify.com/artist/4bGqjqPVxUobMKKwJr4kF2) | [Switch](https://open.spotify.com/album/0POiPQEi56Yc9kLCEItLjB) | 3:43 | 2023-09-06 |  |
 | [Switch It Up](https://open.spotify.com/track/2R7B7qcXjMbMl5DmhuYLXv) | [T.M.O.](https://open.spotify.com/artist/6F9ptlr1dr47cW4CjSQDiK), [Violent Suspect](https://open.spotify.com/artist/2n8PKKbm89aTbUsWfuc8mB) | [Switch It Up](https://open.spotify.com/album/1hxrmgAaGmM0dnACa99Z2I) | 2:53 | 2024-08-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Mazza_l20",
-  "num_followers": 1392464,
+  "num_followers": 1392490,
   "original_name": "Rap UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy1UgAAAAAA8Kl3bdansLm22EB8c2WJF",
+  "snapshot_id": "ZzTTrgAAAACN7Ginq6qBSMTa/RHnZOo2",
   "tracks": [
     {
       "added_at": "2024-11-08 00:00:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
-        "name": "East2Essex",
-        "url": "https://open.spotify.com/album/2GjHFK4AukzIoknJ6FN34B"
-      },
-      "artists": [
-        {
-          "name": "BERNA",
-          "url": "https://open.spotify.com/artist/4r533q4JGGMJ5ufDV6iOed"
-        },
-        {
-          "name": "Tiny Boost",
-          "url": "https://open.spotify.com/artist/7AXuWUXnSqeOfW4Wv29760"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Know Me",
-      "url": "https://open.spotify.com/track/4JKjLAoG5vvDeyOraHyl74"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
         "name": "Both Ways",
         "url": "https://open.spotify.com/album/1XepienSx2jLSK05Yex8p2"
       },
@@ -1195,22 +1175,6 @@
     {
       "added_at": "2024-11-08 00:00:00",
       "album": {
-        "name": "Mr Brown",
-        "url": "https://open.spotify.com/album/34mLFgw2MYc1SOUBW0M0JZ"
-      },
-      "artists": [
-        {
-          "name": "SR",
-          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
-        }
-      ],
-      "duration_ms": 187124,
-      "name": "Mr Brown",
-      "url": "https://open.spotify.com/track/3fU6ckIJpYFLgS5JhYDHo9"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
         "name": "Beyond Rea5onable Doubt",
         "url": "https://open.spotify.com/album/2zrRASXuB791xdPFFGWtTV"
       },
@@ -1495,46 +1459,6 @@
       "duration_ms": 151714,
       "name": "Cross Waters (feat. Pozer)",
       "url": "https://open.spotify.com/track/3sNe53NZGqyJ7OtKyQqjh4"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
-        "name": "SHYLO",
-        "url": "https://open.spotify.com/album/5byuY0SyANjYF7NyKvn0iu"
-      },
-      "artists": [
-        {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
-        },
-        {
-          "name": "Potter Payper",
-          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
-        },
-        {
-          "name": "Tiny Boost",
-          "url": "https://open.spotify.com/artist/7AXuWUXnSqeOfW4Wv29760"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Beretta",
-      "url": "https://open.spotify.com/track/0f8chi9Bk1SstR3Rla6bJs"
-    },
-    {
-      "added_at": "2024-11-08 00:00:00",
-      "album": {
-        "name": "Like Me",
-        "url": "https://open.spotify.com/album/2Iiv3G3y4YBBxvqR0SCZVE"
-      },
-      "artists": [
-        {
-          "name": "Yizzy",
-          "url": "https://open.spotify.com/artist/4uCUBeUgVSrYFwLDeklA7g"
-        }
-      ],
-      "duration_ms": 162061,
-      "name": "Like Me",
-      "url": "https://open.spotify.com/track/04OZG5UQwgNAY3iHKffiAQ"
     }
   ],
   "unique_name": "Rap UK",

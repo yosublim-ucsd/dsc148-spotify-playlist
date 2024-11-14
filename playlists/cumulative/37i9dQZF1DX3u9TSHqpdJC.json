@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music by independent artists and labels. Cover:  TEHYA.  Artwork by Paola Saliby",
+  "description": "The best new pop music by independent artists and labels. Cover:  Dani Marchio.  Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -496,7 +496,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 226000,
       "name": "2018",
       "url": "https://open.spotify.com/track/6S9sqqVGCau6PzteziaEIn"
@@ -9396,7 +9396,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 229717,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/1p8aAyqOd7RUiKV8BkY4ev"
@@ -11464,7 +11464,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 159309,
       "name": "Coconut",
       "url": "https://open.spotify.com/track/0LhqjgKRBaJx5qsEN4rBMh"
@@ -12805,6 +12805,24 @@
     },
     {
       "album": {
+        "name": "Crocodile Seesaw",
+        "url": "https://open.spotify.com/album/1zwbVTfs5QOnjDpji6Vou8"
+      },
+      "artists": [
+        {
+          "name": "purpl",
+          "url": "https://open.spotify.com/artist/0qLq938YLoXapahHpnzVSO"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182946,
+      "name": "Crocodile Seesaw",
+      "url": "https://open.spotify.com/track/3Vk1B0byKLz2Iq2FBkwSt6"
+    },
+    {
+      "album": {
         "name": "Crooked Crown",
         "url": "https://open.spotify.com/album/5nWsiOHNUJll7IwbZRegqz"
       },
@@ -14014,6 +14032,24 @@
     {
       "album": {
         "name": "Daydreamer",
+        "url": "https://open.spotify.com/album/7qWs0rEbw6ZHP0UuRLCPbq"
+      },
+      "artists": [
+        {
+          "name": "Dani Marchio",
+          "url": "https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216261,
+      "name": "Daydreamer",
+      "url": "https://open.spotify.com/track/16v7MKE8cy4EfHJ4ZgDSlG"
+    },
+    {
+      "album": {
+        "name": "Daydreamer",
         "url": "https://open.spotify.com/album/2IMpX3GQKbO9g9Xm0BIWBK"
       },
       "artists": [
@@ -15218,7 +15254,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 258200,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/7Lfs6kd0Jbefn9FWHYNd5m"
@@ -15446,6 +15482,24 @@
       "duration_ms": 178247,
       "name": "Do You Feel the Same?",
       "url": "https://open.spotify.com/track/324l0fiiyqnAg8TH5QM2PQ"
+    },
+    {
+      "album": {
+        "name": "Do You Hate Me? EP",
+        "url": "https://open.spotify.com/album/0abHrs7DkJU4rXHgCCBtgt"
+      },
+      "artists": [
+        {
+          "name": "Tender Misfit",
+          "url": "https://open.spotify.com/artist/1fkaNNQRGflvAClVJM0b6I"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188437,
+      "name": "Do You Hate Me?",
+      "url": "https://open.spotify.com/track/1aHFl2Phf6PRMj1Mt1065m"
     },
     {
       "album": {
@@ -29136,7 +29190,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 151060,
       "name": "I Love U Loving Me",
       "url": "https://open.spotify.com/track/1YJJJNcE1wI882U2XdbPiw"
@@ -31028,6 +31082,24 @@
       "duration_ms": 317226,
       "name": "In Basque Country",
       "url": "https://open.spotify.com/track/5helUHXRyVFqojgZd11mku"
+    },
+    {
+      "album": {
+        "name": "in for the kill",
+        "url": "https://open.spotify.com/album/2nVnNDYvKM2VbiorqJRw18"
+      },
+      "artists": [
+        {
+          "name": "Kayla Grace",
+          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198680,
+      "name": "in for the kill",
+      "url": "https://open.spotify.com/track/3aTPG3soNZ7UImihfDABXx"
     },
     {
       "album": {
@@ -35578,7 +35650,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 218000,
       "name": "Lock Me Up",
       "url": "https://open.spotify.com/track/3H3pGg2qLJOzd1KZEhIQa2"
@@ -38616,7 +38688,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 154796,
       "name": "MEAT",
       "url": "https://open.spotify.com/track/5J1ceKHtPthS0TWkKfHaFN"
@@ -38948,6 +39020,24 @@
       "duration_ms": 202913,
       "name": "Mexican Holiday",
       "url": "https://open.spotify.com/track/20dCE2xkSJl0dQBIIkkeqQ"
+    },
+    {
+      "album": {
+        "name": "Kissing With a Cavity",
+        "url": "https://open.spotify.com/album/4RDaj8I6NoHOs7tF30zWlo"
+      },
+      "artists": [
+        {
+          "name": "Sophie Truax",
+          "url": "https://open.spotify.com/artist/5yM4OHXlRyyq28o76xejrk"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117557,
+      "name": "MFPR1US",
+      "url": "https://open.spotify.com/track/4BkQZuTz9ZCVzlQnWDsdwP"
     },
     {
       "album": {
@@ -39432,6 +39522,24 @@
       "duration_ms": 141164,
       "name": "Miss America",
       "url": "https://open.spotify.com/track/4h48JciRHkK8WieE1Y7TLA"
+    },
+    {
+      "album": {
+        "name": "miss my flight",
+        "url": "https://open.spotify.com/album/5NAi7nNYLEx4KuGCs7ctUt"
+      },
+      "artists": [
+        {
+          "name": "Yana Rose",
+          "url": "https://open.spotify.com/artist/5pC28dnohJ0RhlvlZkYJQ5"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190153,
+      "name": "miss my flight",
+      "url": "https://open.spotify.com/track/5nE25XQ9GiS0JxhoSBkZ8q"
     },
     {
       "album": {
@@ -46927,6 +47035,24 @@
     },
     {
       "album": {
+        "name": "Practice",
+        "url": "https://open.spotify.com/album/4wWEslwP97WLcGQqbSk4Wh"
+      },
+      "artists": [
+        {
+          "name": "NIA NADURATA",
+          "url": "https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197025,
+      "name": "Practice",
+      "url": "https://open.spotify.com/track/34GzR0SBIwmqjgaGPdBWVv"
+    },
+    {
+      "album": {
         "name": "Prayer",
         "url": "https://open.spotify.com/album/0SBw5JQ9QC3IKbG3R2XiCo"
       },
@@ -48744,7 +48870,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 189223,
       "name": "red white & me",
       "url": "https://open.spotify.com/track/2lf1RpYl1VkjuRL82TQDD5"
@@ -51590,7 +51716,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 260790,
       "name": "Senopati in the Rain",
       "url": "https://open.spotify.com/track/1OUhKRN1EbjLIYJPTs91nk"
@@ -51918,7 +52044,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 183420,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx"
@@ -55021,6 +55147,24 @@
     },
     {
       "album": {
+        "name": "Standing at our grave",
+        "url": "https://open.spotify.com/album/4M2ZZQmGjN8Cu8EQH2mqrG"
+      },
+      "artists": [
+        {
+          "name": "Josie Oliver",
+          "url": "https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206935,
+      "name": "Standing at our grave",
+      "url": "https://open.spotify.com/track/1sbPzHVcvNITmbJkRw1avs"
+    },
+    {
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/2LkvQxadwdqE4kBp5V4bGW"
       },
@@ -55050,7 +55194,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 169423,
       "name": "Star Shaped Baby",
       "url": "https://open.spotify.com/track/7ybbe0cqxwhz0jhycOVOnJ"
@@ -56240,7 +56384,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 136000,
       "name": "Sucks",
       "url": "https://open.spotify.com/track/6AJ9ZMfQnuYtjOFrRCLtZe"
@@ -56940,7 +57084,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 149102,
       "name": "Superpowers",
       "url": "https://open.spotify.com/track/4Tm81rjIT3bEq5WXA4lG5e"
@@ -60935,6 +61079,24 @@
     },
     {
       "album": {
+        "name": "To Whoever Loves You Next",
+        "url": "https://open.spotify.com/album/4XLPyX3AlRGmuBjCHqoiTm"
+      },
+      "artists": [
+        {
+          "name": "Will Bryant",
+          "url": "https://open.spotify.com/artist/2uJRUFEELBSNirlF7oFHea"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216240,
+      "name": "To Whoever Loves You Next",
+      "url": "https://open.spotify.com/track/4qysFqC3uGGtyLQNPdBO6C"
+    },
+    {
+      "album": {
         "name": "TOGAF (Tired Of Giving A Fuck)",
         "url": "https://open.spotify.com/album/2inGUUMkCRM4J1Rc8yuHyK"
       },
@@ -60982,7 +61144,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 134754,
       "name": "TOLD YOU SO",
       "url": "https://open.spotify.com/track/18dQmBidrPG0BOOdVRjNyT"
@@ -61148,7 +61310,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 154363,
       "name": "Too Good For You",
       "url": "https://open.spotify.com/track/2sr0xg6xBOphi2NCuaafvl"
@@ -63846,7 +64008,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 172535,
       "name": "Wake up (I love you)",
       "url": "https://open.spotify.com/track/7iF3Igkn9c9o6GrTng8VOt"
@@ -66382,6 +66544,24 @@
       "duration_ms": 256071,
       "name": "Will You Want Me Now",
       "url": "https://open.spotify.com/track/37QsqR5wHmC6XbYRgwEbNY"
+    },
+    {
+      "album": {
+        "name": "Willing To Wait",
+        "url": "https://open.spotify.com/album/42hStPTLaxE3Uvp0PB3qdb"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cy",
+          "url": "https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140273,
+      "name": "Willing To Wait",
+      "url": "https://open.spotify.com/track/2cM1WarAAfBSUy3jPnhfRK"
     },
     {
       "album": {

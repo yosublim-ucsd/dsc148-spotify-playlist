@@ -4,7 +4,7 @@
 
 > It's time to return to the dojo\. Listen to all the music from Cobra Kai, new season coming soon to Netflix.
 
-198 songs - 11 hr 49 min
+202 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Cancion del Mariachi](https://open.spotify.com/track/2WAHi5ZJwDZqGjnhZgZYmU) | [Antonio Banderas](https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ), [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Mexico and Mariachis](https://open.spotify.com/album/4XPadpKr3aUdP3uFBZSsm9) | 2:07 | 2022-09-09 |  |
 | [Cancion Del Mariachi](https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls) | [Antonio Banderas/los Lobos](https://open.spotify.com/artist/0H3JH7wDy4Lh69D2EcZbLn) | [Mexico and Mariachis](https://open.spotify.com/album/6pAX4F1ruCFfldfRen3sju) | 2:07 | 2022-09-09 | 2024-04-19 |
 | [Cancion del Mariachi](https://open.spotify.com/track/3F2Aoenodyu2Yd8dIOP2e1) | [zeatynorival](https://open.spotify.com/artist/2SbUdSlv4PSue1SkaGuSGS), [Elianex](https://open.spotify.com/artist/2XIEM9f7J5MN9fTsdNthAM), [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL) | [Cancion del Mariachi](https://open.spotify.com/album/0kSKfnKXUMeVMKPCOfhovH) | 2:06 | 2022-09-09 | 2024-02-05 |
+| [Caramelos](https://open.spotify.com/track/1DQJrupuc1NUOPzIqDWWwz) | [Los Amaya](https://open.spotify.com/artist/0BSPrk9z6EHzPOac8r07bw) | [Mitos de la Música Española : Los Amaya](https://open.spotify.com/album/7ra6jUH6Gr4g2JK0NQP9AF) | 1:59 | 2024-11-13 |  |
 | [Christmas Wrapping](https://open.spotify.com/track/3nhzTOc939C4v4ecTEZTPl) | [The Waitresses](https://open.spotify.com/artist/57AKOY1SF1062tuVzgAPv8) | [The Best Of The Waitresses](https://open.spotify.com/album/5WBJTuam0c279awlGAfEaU) | 5:20 | 2022-01-07 | 2024-07-19 |
 | [Cinderelly](https://open.spotify.com/track/1tj53uXJoc0uvWSF74KSx7) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Cinderelly](https://open.spotify.com/album/39zIVvbgkZLTQMqBiUChgW) | 2:08 | 2022-01-06 | 2024-07-19 |
 | [Cinderelly](https://open.spotify.com/track/5KqcscxC2cHoq72DSypqIN) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Cinderelly](https://open.spotify.com/album/37UlnQ04FICxVBYaZ2uIWP) | 2:08 | 2022-01-06 | 2024-04-19 |
@@ -63,6 +64,7 @@
 | [Feel The Night](https://open.spotify.com/track/1feLODy7BXa0tjkHJ2fOeQ) | [Baxter Robinson](https://open.spotify.com/artist/6JmPvDxWnZ7iQJPhFj69Mr) | [The Karate Kid: The Original Motion Picture Soundtrack](https://open.spotify.com/album/1zNIDZncmWNpb1WkyfRPdH) | 3:16 | 2022-01-07 | 2024-07-19 |
 | [Fight Song](https://open.spotify.com/track/4YCssdAAHp8VPUzuBZj9i9) | [Sister Sin](https://open.spotify.com/artist/3MdnMzNMNENgdrx91CvGR8) | [Now And Forever](https://open.spotify.com/album/1UDaAmmTpoWWpkFIti7LGM) | 4:01 | 2022-01-07 | 2024-07-19 |
 | [Fight Song](https://open.spotify.com/track/6SnokqeMmGKiOzMlhag3Mb) | [Sister Sin](https://open.spotify.com/artist/3MdnMzNMNENgdrx91CvGR8) | [Now and Forever](https://open.spotify.com/album/3lOX8tvHmjj2EmnqBUyFy1) | 4:01 | 2022-01-07 | 2024-07-19 |
+| [Fite Nite](https://open.spotify.com/track/7JZCkcI84eKuopUUTTC0wF) | [Bill Conti](https://open.spotify.com/artist/272ygo5fv9cYsiCLcV0HV2) | [The Karate Kid \(Original Motion Picture Score\)](https://open.spotify.com/album/6uAYx7E7pH7oOt4WUHtaV0) | 2:01 | 2024-11-13 |  |
 | [Five Over Four](https://open.spotify.com/track/0c946BQlEOYlcVq8n6pAKt) | [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8), [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb) | [Cocktail Hour](https://open.spotify.com/album/69Ikde32ScwcMTnlNVKCr4) | 4:47 | 2022-01-06 | 2024-07-19 |
 | [Five Over Four](https://open.spotify.com/track/0qjGr8u3nLsmXEUfSCaUyn) | [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8), [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb) | [Cocktail Hour](https://open.spotify.com/album/32nctCTJPaQiJpdtIqXDof) | 4:47 | 2022-01-06 | 2024-04-19 |
 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 | 2024-07-17 |  |
@@ -83,6 +85,7 @@
 | [Here I Go Again](https://open.spotify.com/track/66yF4fCC4NiFZTjhegI90o) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Dig! Rock Classics](https://open.spotify.com/album/5LTC8pH1pEnDoPLhBO4AzZ) | 5:08 | 2022-01-07 | 2024-04-19 |
 | [Here I Go Again](https://open.spotify.com/track/29pzjF6ZkzcW3ofgOVbF0t) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Saints & Sinners](https://open.spotify.com/album/5HSdx1824FepWuf8NbG7B3) | 5:08 | 2022-01-07 | 2024-07-19 |
 | [Highway Down](https://open.spotify.com/track/4QifC5kFkaDACx0vbfDwQo) | [I See Hawks In L.A.](https://open.spotify.com/artist/1b5IKVz30ek0dp7zFOUdcQ) | [Hallowed Ground](https://open.spotify.com/album/7wbNlBcZ0b04oW8TwBfxLX) | 5:14 | 2022-01-07 | 2024-07-19 |
+| [Hold Me Now](https://open.spotify.com/track/43h4FonpCeaaURpFpiQsf9) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into the Gap \(Deluxe Edition\)](https://open.spotify.com/album/0Ev5WLJKbqwakkJlgGDcgo) | 4:46 | 2024-11-13 |  |
 | [Hold Steady](https://open.spotify.com/track/0EsDXxLglW6znXTnJ4hCz3) | [Justin Forrest](https://open.spotify.com/artist/0glyJh3jYJ2B2xlUPYgfbf) | [Hold Steady](https://open.spotify.com/album/3ORSmzn6M2xEIh0dZFnm8u) | 3:14 | 2022-01-07 | 2024-07-19 |
 | [I Wanna Be Somebody](https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [W.A.S.P.](https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog) | 3:43 | 2022-01-07 | 2024-07-19 |
 | [I Wanna Rock](https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 2:59 | 2022-01-07 | 2024-07-19 |
@@ -154,6 +157,7 @@
 | [Roll with the Changes](https://open.spotify.com/track/16x9viSmRS3PII71Pdeowc) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [You Can Tune a Piano, But You Can't Tuna Fish](https://open.spotify.com/album/3w0BIqN0uMoOT2l2ppKuXx) | 5:35 | 2024-07-17 |  |
 | [Round and Round](https://open.spotify.com/track/57P8gH8rjt4OqEoqzut1bL) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [The Essentials: Ratt](https://open.spotify.com/album/0zhBC0ytIvsL8Kvf0xtPMp) | 4:25 | 2022-01-07 | 2024-04-19 |
 | [Round and Round](https://open.spotify.com/track/5B6Z7NwVqA7W3UFiqBdEJC) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Out of the Cellar](https://open.spotify.com/album/6P3Fqm7z9wr5GeatpVZ5ut) | 4:25 | 2022-01-07 | 2024-07-19 |
+| [Rumba De Barcelona](https://open.spotify.com/track/37enJgsRqIrhOlEFniMd7j) | [Gato Pérez](https://open.spotify.com/artist/0xTE8Ru20PBrfPDxrwYAD9) | [Carabruta](https://open.spotify.com/album/1TcMghdY81Dg5L6BeP18C5) | 3:36 | 2024-11-13 |  |
 | [Runnin' Wild](https://open.spotify.com/track/1wXuogT7bvqnhuWzDBNOdV) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Runnin' Wild](https://open.spotify.com/album/5e11cqb5L0C6s9RBasePB8) | 3:38 | 2022-09-09 |  |
 | [Runnin' Wild](https://open.spotify.com/track/5XMnIXqKsjB4tWBYSqfUVm) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Runnin' Wild](https://open.spotify.com/album/0kNkrkBOlSqbcILQvceoZw) | 3:42 | 2022-09-09 | 2022-11-13 |
 | [Runnin' Wild](https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Runnin' Wild \(Special Edition\)](https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO) | 3:42 | 2022-09-09 | 2024-04-19 |

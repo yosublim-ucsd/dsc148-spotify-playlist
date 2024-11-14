@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > os louvores que dão força à irmã do cross, <a href="https://www.instagram.com/irmamarlucesantosof/">@irmamarluceof</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,591 likes - 18 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,730 likes - 19 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,5 +26,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 16 | [Louve Sempre](https://open.spotify.com/track/5l6g192T3TMv1Bv0prVYv3) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [25 Anos de Muito Louvor](https://open.spotify.com/album/1SRXsewpf8tTMGhBtv5U0A) | 5:26 |
 | 17 | [Triunfo](https://open.spotify.com/track/3MEgGj3EwsaN7sMrBFOvox) | [Rose Nascimento](https://open.spotify.com/artist/0L0h1GGHeljVSNWwnqbRfL) | [Para o Mundo Ouvir](https://open.spotify.com/album/1FtovQTRWabfNEBv4V2ccI) | 4:40 |
 | 18 | [Casa de Deus](https://open.spotify.com/track/6FQvtVvQhmJGYgEEH1ip7J) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Apocalipse](https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI) | 6:25 |
+| 19 | [O Escudo](https://open.spotify.com/track/2qkdDgfdWAcWt3KRLROmmG) | [Voz da Verdade](https://open.spotify.com/artist/6lNJyLZ53yiJlCfwcxtT71) | [O Melhor de Deus Esta Por Vir](https://open.spotify.com/album/6sEAKuCnpJY4PBsICA6Eb5) | 4:25 |
 
-Snapshot ID: `ZzN4fgAAAAAslqnbRpO7kKoQoVQ9eVMh`
+Snapshot ID: `ZzSiogAAAADCfX9D7sZ/k7TNydW6wh67`

@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACw68dvs/XiEg6m3AE2r9+8",
+  "snapshot_id": "AAAAAAAAAAAl7Tc2B+mAFowN9x1pD+tm",
   "tracks": [
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "Don't Go Away Mad (Just Go Away) [Live - 2024 Remaster]",
+        "url": "https://open.spotify.com/album/1jynS86jk9CDzTFlktHQbO"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 256199,
+      "name": "Don't Go Away Mad (Just Go Away) - Live - 2024 Remaster",
+      "url": "https://open.spotify.com/track/0wmdi5RjXdAHZ4Tsb2CqDm"
+    },
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
@@ -39,6 +55,30 @@
       "duration_ms": 283714,
       "name": "Forever Cold",
       "url": "https://open.spotify.com/track/3uhvjTmAuHRlpgEAfj6SGY"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "Ego Maniacs",
+        "url": "https://open.spotify.com/album/0Ox81bEz1Hjj6KPiI65yjB"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "duration_ms": 218111,
+      "name": "Ego Maniacs",
+      "url": "https://open.spotify.com/track/55qnnjyxq5LuXq6WyZd9Er"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -76,65 +116,9 @@
           "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
         }
       ],
-      "duration_ms": 234783,
-      "name": "All the young dudes - Delinquent version",
-      "url": "https://open.spotify.com/track/53lirEMCieWR6OqGLijcOL"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "Ategnatos (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5Bi58dQcLyqFioYNsmwZ3L"
-      },
-      "artists": [
-        {
-          "name": "Eluveitie",
-          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
-        }
-      ],
-      "duration_ms": 229914,
-      "name": "Ategnatos - Acoustic Version",
-      "url": "https://open.spotify.com/track/053s3teMq4Sg32sATG9fkL"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "The Reaping",
-        "url": "https://open.spotify.com/album/6UuOIfc4Zt4ktoWKcluneU"
-      },
-      "artists": [
-        {
-          "name": "Delain",
-          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
-        }
-      ],
-      "duration_ms": 227959,
-      "name": "The Reaping",
-      "url": "https://open.spotify.com/track/17ZxFTe5wxNTdQpXiMWwGL"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "Ego Maniacs",
-        "url": "https://open.spotify.com/album/0Ox81bEz1Hjj6KPiI65yjB"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        }
-      ],
-      "duration_ms": 218111,
-      "name": "Ego Maniacs",
-      "url": "https://open.spotify.com/track/55qnnjyxq5LuXq6WyZd9Er"
+      "duration_ms": 395098,
+      "name": "Beauty has laid siege to the city",
+      "url": "https://open.spotify.com/track/5o3d7GUlsrAznukedr75yv"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -155,6 +139,38 @@
       "duration_ms": 253560,
       "name": "Original Sin - Ian Green Mix",
       "url": "https://open.spotify.com/track/1LoG6GxBtdD5nD2AnsnsvH"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "The Reaping",
+        "url": "https://open.spotify.com/album/6UuOIfc4Zt4ktoWKcluneU"
+      },
+      "artists": [
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        }
+      ],
+      "duration_ms": 227959,
+      "name": "The Reaping",
+      "url": "https://open.spotify.com/track/17ZxFTe5wxNTdQpXiMWwGL"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "Ategnatos (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5Bi58dQcLyqFioYNsmwZ3L"
+      },
+      "artists": [
+        {
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
+        }
+      ],
+      "duration_ms": 229914,
+      "name": "Ategnatos - Acoustic Version",
+      "url": "https://open.spotify.com/track/053s3teMq4Sg32sATG9fkL"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -191,30 +207,26 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Pure Piano Compilation - 50 Tracks for Melodies for Your Soul",
-        "url": "https://open.spotify.com/album/6205SankuVPMzm7wMF9VqJ"
+        "name": "50 Yoga and Natural Tracks for Sleep and Healing",
+        "url": "https://open.spotify.com/album/3ypVNarhjQw9uTT7ELMBkA"
       },
       "artists": [
         {
-          "name": "Ivory Mood",
-          "url": "https://open.spotify.com/artist/6vvySZtW1kfq2277e0oUUp"
-        },
-        {
-          "name": "Music That Will Make You Cry",
-          "url": "https://open.spotify.com/artist/59wgMJe6XgbgcTYeWWCS2c"
-        },
-        {
-          "name": "Instrumental",
-          "url": "https://open.spotify.com/artist/0wMmGaXRfdHPhqSEAVQIr6"
+          "name": "Bedtime Lullabies",
+          "url": "https://open.spotify.com/artist/04kN6NJmRfgqQYrFgw095D"
         },
         {
           "name": "Meditaci\u00f3n",
           "url": "https://open.spotify.com/artist/1CXnoUdfelMmk8FPXwPtb7"
+        },
+        {
+          "name": "Study Hard",
+          "url": "https://open.spotify.com/artist/0MaDWeyEOqoD5JjOpsVOIa"
         }
       ],
-      "duration_ms": 157402,
-      "name": "Tranquil Nightfall Lullaby",
-      "url": "https://open.spotify.com/track/3dbHA1hp07qeW94bOqNCAB"
+      "duration_ms": 227096,
+      "name": "Everlasting Blissful Remembrance",
+      "url": "https://open.spotify.com/track/09XHudlpPGoWpbsAt8nyTQ"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -231,46 +243,6 @@
       "duration_ms": 292666,
       "name": "Mayonaka no Door~stay with me 2024",
       "url": "https://open.spotify.com/track/62hTf9Vj6CdT4esPv7YHrn"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "Mariposa Traicionera (Sped Up)",
-        "url": "https://open.spotify.com/album/60q5xKoDqN4JTrHSDaP6eM"
-      },
-      "artists": [
-        {
-          "name": "High and Low HITS",
-          "url": "https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y"
-        },
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 216458,
-      "name": "Mariposa Traicionera - Sped Up",
-      "url": "https://open.spotify.com/track/0ngJJTisoRct2WNiTNjM1l"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "6 Pieces, Op. 51: No. 6 in F Minor. Valse sentimentale. Tempo di Valse",
-        "url": "https://open.spotify.com/album/1sOHqAaBTLXzaM6W1pvG4h"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Luis Kolodin",
-          "url": "https://open.spotify.com/artist/3fvAFprt7ANdy6Yc6UR7LQ"
-        }
-      ],
-      "duration_ms": 259133,
-      "name": "6 Pieces, Op. 51: No. 6 in F Minor. Valse sentimentale. Tempo di Valse",
-      "url": "https://open.spotify.com/track/6F4SCkpa3oDCrR8sgKnPat"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -295,22 +267,22 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Preparado Para El Futuro",
-        "url": "https://open.spotify.com/album/04kXWF41XaOsElPRAsO2wc"
+        "name": "6 Pieces, Op. 51: No. 6 in F Minor. Valse sentimentale. Tempo di Valse",
+        "url": "https://open.spotify.com/album/1sOHqAaBTLXzaM6W1pvG4h"
       },
       "artists": [
         {
-          "name": "Eleicer",
-          "url": "https://open.spotify.com/artist/5usuxGn9wB0OUbuVahp2lN"
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
         },
         {
-          "name": "Machuca",
-          "url": "https://open.spotify.com/artist/7kwZDveB5qL9uZJcJF1Yds"
+          "name": "Luis Kolodin",
+          "url": "https://open.spotify.com/artist/3fvAFprt7ANdy6Yc6UR7LQ"
         }
       ],
-      "duration_ms": 248320,
-      "name": "LA CONDENA",
-      "url": "https://open.spotify.com/track/38TU5yNs5BCYRCrfSQ2bZH"
+      "duration_ms": 259133,
+      "name": "6 Pieces, Op. 51: No. 6 in F Minor. Valse sentimentale. Tempo di Valse",
+      "url": "https://open.spotify.com/track/6F4SCkpa3oDCrR8sgKnPat"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -335,6 +307,26 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
+        "name": "Preparado Para El Futuro",
+        "url": "https://open.spotify.com/album/04kXWF41XaOsElPRAsO2wc"
+      },
+      "artists": [
+        {
+          "name": "Eleicer",
+          "url": "https://open.spotify.com/artist/5usuxGn9wB0OUbuVahp2lN"
+        },
+        {
+          "name": "Machuca",
+          "url": "https://open.spotify.com/artist/7kwZDveB5qL9uZJcJF1Yds"
+        }
+      ],
+      "duration_ms": 248320,
+      "name": "LA CONDENA",
+      "url": "https://open.spotify.com/track/38TU5yNs5BCYRCrfSQ2bZH"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
         "name": "The Season 3",
         "url": "https://open.spotify.com/album/19WHVFUxoC46P4c2GxypNw"
       },
@@ -355,22 +347,6 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Songs Of A Lost World",
-        "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 321101,
-      "name": "All I Ever Am",
-      "url": "https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
         "name": "Democratic National Convention 2000 (Live)",
         "url": "https://open.spotify.com/album/6iIDS6pR8YMyhZi1UrGb2e"
       },
@@ -383,38 +359,6 @@
       "duration_ms": 236986,
       "name": "Sleep Now In the Fire - Live at 2000 Democratic National Convention",
       "url": "https://open.spotify.com/track/2d99olpB7A6w0Z0iAPy5eG"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "We Take No Prisoners (The Singles 1995 - 2006)",
-        "url": "https://open.spotify.com/album/6ZOKfW7b5wK3gXviW1s6l6"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 221400,
-      "name": "Over Your Shoulder (Live)",
-      "url": "https://open.spotify.com/track/7GxFfjJNE3P1ZGJssYZozc"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/195QGUKVD15clZE6ar1ECM"
-      },
-      "artists": [
-        {
-          "name": "Lacrimosa",
-          "url": "https://open.spotify.com/artist/57ekbx9PSS4ORs5wTZMSYp"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Avalon - Single Version",
-      "url": "https://open.spotify.com/track/1TaAGYyeV5R9iKlcHelwRU"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -439,18 +383,34 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "American Idiot (20th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/195QGUKVD15clZE6ar1ECM"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Lacrimosa",
+          "url": "https://open.spotify.com/artist/57ekbx9PSS4ORs5wTZMSYp"
         }
       ],
-      "duration_ms": 154983,
-      "name": "American Idiot (Alt. Version) - Demo",
-      "url": "https://open.spotify.com/track/3tSGHoEd3CKJ9E5OtHKFZ1"
+      "duration_ms": 272000,
+      "name": "Avalon - Single Version",
+      "url": "https://open.spotify.com/track/1TaAGYyeV5R9iKlcHelwRU"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "We Take No Prisoners (The Singles 1995 - 2006)",
+        "url": "https://open.spotify.com/album/6ZOKfW7b5wK3gXviW1s6l6"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 221400,
+      "name": "Over Your Shoulder (Live)",
+      "url": "https://open.spotify.com/track/7GxFfjJNE3P1ZGJssYZozc"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -471,18 +431,18 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Red (2024 Elemental Mixes)",
-        "url": "https://open.spotify.com/album/0XuQMccAX6Yupo9V2r5gLI"
+        "name": "American Idiot (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
       },
       "artists": [
         {
-          "name": "King Crimson",
-          "url": "https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 389870,
-      "name": "Red - 2024 Elemental Mix",
-      "url": "https://open.spotify.com/track/4Dw8TZ3Tx0Vu8qb0SJw8N7"
+      "duration_ms": 154983,
+      "name": "American Idiot (Alt. Version) - Demo",
+      "url": "https://open.spotify.com/track/3tSGHoEd3CKJ9E5OtHKFZ1"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -519,22 +479,6 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Thundercrest",
-        "url": "https://open.spotify.com/album/4YnzLz8y28D1YLygxsg5C7"
-      },
-      "artists": [
-        {
-          "name": "Pentagram",
-          "url": "https://open.spotify.com/artist/0xybuiDEYo3YuT3fLPaIyE"
-        }
-      ],
-      "duration_ms": 181053,
-      "name": "Thundercrest",
-      "url": "https://open.spotify.com/track/5v4FPdFmytFjOC36Fc0Loq"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
         "name": "VIVO AMOR",
         "url": "https://open.spotify.com/album/4M6hivo9Ahb4QRpNIVJpVI"
       },
@@ -551,18 +495,18 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "M.O.N.S.T.E.R",
-        "url": "https://open.spotify.com/album/2JGSSMxecWt7iAVsAN9asn"
+        "name": "Thundercrest",
+        "url": "https://open.spotify.com/album/4YnzLz8y28D1YLygxsg5C7"
       },
       "artists": [
         {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+          "name": "Pentagram",
+          "url": "https://open.spotify.com/artist/0xybuiDEYo3YuT3fLPaIyE"
         }
       ],
-      "duration_ms": 216116,
-      "name": "M.O.N.S.T.E.R",
-      "url": "https://open.spotify.com/track/4LGn1Irqotkdak6ZoRuTHt"
+      "duration_ms": 181053,
+      "name": "Thundercrest",
+      "url": "https://open.spotify.com/track/5v4FPdFmytFjOC36Fc0Loq"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -583,22 +527,6 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "She Wears Black",
-        "url": "https://open.spotify.com/album/6tWVMD8gYwPUkrB3k7KPcK"
-      },
-      "artists": [
-        {
-          "name": "Blutengel",
-          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "She Wears Black",
-      "url": "https://open.spotify.com/track/1xerduaLCz45mEbpUIBPOC"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
         "name": "Weezer 30 (Anniversary Super Deluxe)",
         "url": "https://open.spotify.com/album/2WBXvIfpIybjK1RSZKakrR"
       },
@@ -615,6 +543,22 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
+        "name": "She Wears Black",
+        "url": "https://open.spotify.com/album/6tWVMD8gYwPUkrB3k7KPcK"
+      },
+      "artists": [
+        {
+          "name": "Blutengel",
+          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "She Wears Black",
+      "url": "https://open.spotify.com/track/1xerduaLCz45mEbpUIBPOC"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
         "name": "Rest In Pieces",
         "url": "https://open.spotify.com/album/3RSwZfjCaUFDkA66KJptiq"
       },
@@ -627,6 +571,22 @@
       "duration_ms": 176249,
       "name": "Rest In Pieces",
       "url": "https://open.spotify.com/track/5r0b7F3MGee7IMeJxP1TKP"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "M.O.N.S.T.E.R",
+        "url": "https://open.spotify.com/album/2JGSSMxecWt7iAVsAN9asn"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 216116,
+      "name": "M.O.N.S.T.E.R",
+      "url": "https://open.spotify.com/track/4LGn1Irqotkdak6ZoRuTHt"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -663,34 +623,18 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Live... My Father's Place, Roslyn, 1978",
-        "url": "https://open.spotify.com/album/2GBdnJP33V15wItJ5PwJXw"
+        "name": "Time On My Hands",
+        "url": "https://open.spotify.com/album/3BIrRXUZQjsIvb6qQbVLnZ"
       },
       "artists": [
         {
-          "name": "Television",
-          "url": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
         }
       ],
-      "duration_ms": 348123,
-      "name": "(I Can't Get No) Satisfaction - Live",
-      "url": "https://open.spotify.com/track/6CfX8bUP61kC3JcqUgRbfc"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "Survivor\u2019s Guilt",
-        "url": "https://open.spotify.com/album/2DYEEgwe8OUoovnnKrLjuY"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 198417,
-      "name": "Survivors Guilt",
-      "url": "https://open.spotify.com/track/652PlanA5w5iJxTr04Za8U"
+      "duration_ms": 239733,
+      "name": "Time On My Hands",
+      "url": "https://open.spotify.com/track/5T8ON5PmKZmIBRP3EECkXG"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -711,18 +655,18 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/3xlErX99FVKbmlcgdH2TLQ"
+        "name": "Live... My Father's Place, Roslyn, 1978",
+        "url": "https://open.spotify.com/album/2GBdnJP33V15wItJ5PwJXw"
       },
       "artists": [
         {
-          "name": "Gothminister",
-          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
+          "name": "Television",
+          "url": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
         }
       ],
-      "duration_ms": 183840,
-      "name": "We Come Alive - In the End Version",
-      "url": "https://open.spotify.com/track/25ZYVIWCw7QvAJQHl7j8Ez"
+      "duration_ms": 348123,
+      "name": "(I Can't Get No) Satisfaction - Live",
+      "url": "https://open.spotify.com/track/6CfX8bUP61kC3JcqUgRbfc"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -759,34 +703,34 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Time On My Hands",
-        "url": "https://open.spotify.com/album/3BIrRXUZQjsIvb6qQbVLnZ"
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/3xlErX99FVKbmlcgdH2TLQ"
       },
       "artists": [
         {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+          "name": "Gothminister",
+          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
         }
       ],
-      "duration_ms": 239733,
-      "name": "Time On My Hands",
-      "url": "https://open.spotify.com/track/5T8ON5PmKZmIBRP3EECkXG"
+      "duration_ms": 183840,
+      "name": "We Come Alive - In the End Version",
+      "url": "https://open.spotify.com/track/25ZYVIWCw7QvAJQHl7j8Ez"
     },
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "El Pa\u00eds Que So\u00f1amos",
-        "url": "https://open.spotify.com/album/3Xk3YnOXzeEuZFccFmoauO"
+        "name": "Survivor\u2019s Guilt",
+        "url": "https://open.spotify.com/album/2DYEEgwe8OUoovnnKrLjuY"
       },
       "artists": [
         {
-          "name": "Inti-Illimani",
-          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
         }
       ],
-      "duration_ms": 324180,
-      "name": "Eleg\u00eda Para Una Muchacha Roja",
-      "url": "https://open.spotify.com/track/6I6hnYWEBtABe2PqwNs6UU"
+      "duration_ms": 198417,
+      "name": "Survivors Guilt",
+      "url": "https://open.spotify.com/track/652PlanA5w5iJxTr04Za8U"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -819,6 +763,22 @@
       "duration_ms": 342229,
       "name": "Careless Whisper - Live From Madison Square Garden",
       "url": "https://open.spotify.com/track/7BSyOLBcFhI6kD6ADNnxtr"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "El Pa\u00eds Que So\u00f1amos",
+        "url": "https://open.spotify.com/album/3Xk3YnOXzeEuZFccFmoauO"
+      },
+      "artists": [
+        {
+          "name": "Inti-Illimani",
+          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
+        }
+      ],
+      "duration_ms": 324180,
+      "name": "Eleg\u00eda Para Una Muchacha Roja",
+      "url": "https://open.spotify.com/track/6I6hnYWEBtABe2PqwNs6UU"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -871,22 +831,6 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "The Pronoia Sessions",
-        "url": "https://open.spotify.com/album/0s6KhXlfy0PtPrMbrs8DZK"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 149391,
-      "name": "Save Us - Reimagined",
-      "url": "https://open.spotify.com/track/4ir34QxYL1yZSrgxwJltuN"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
         "name": "L.A. Is My Lady (Deluxe Edition / 2024 Mix)",
         "url": "https://open.spotify.com/album/4Ca98FQtAMzv5h1SiFZjX8"
       },
@@ -903,22 +847,6 @@
       "duration_ms": 196493,
       "name": "L.A. Is My Lady - 2024 Mix",
       "url": "https://open.spotify.com/track/1ICfHpchiAJ9jfClA4hzHu"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "Still Not Getting Any... (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1ejcSGLsGY6IgxZkMmnwuN"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 190693,
-      "name": "Crash and Burn",
-      "url": "https://open.spotify.com/track/284JhOdJS6XEQLaVmSiq0k"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -951,22 +879,34 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "No es f\u00e1cil",
-        "url": "https://open.spotify.com/album/6fBpxd8IE62HrCiCReBo1L"
+        "name": "The Pronoia Sessions",
+        "url": "https://open.spotify.com/album/0s6KhXlfy0PtPrMbrs8DZK"
       },
       "artists": [
         {
-          "name": "Vicente Feli\u00fa Miranda",
-          "url": "https://open.spotify.com/artist/2vcROKPkhfUQwgg4yj3Akx"
-        },
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
         }
       ],
-      "duration_ms": 221831,
-      "name": "No es f\u00e1cil",
-      "url": "https://open.spotify.com/track/7CXXsjiY1fMO1ryUoB2OiE"
+      "duration_ms": 149391,
+      "name": "Save Us - Reimagined",
+      "url": "https://open.spotify.com/track/4ir34QxYL1yZSrgxwJltuN"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "Still Not Getting Any... (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1ejcSGLsGY6IgxZkMmnwuN"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 190693,
+      "name": "Crash and Burn",
+      "url": "https://open.spotify.com/track/284JhOdJS6XEQLaVmSiq0k"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -995,38 +935,18 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "It Makes No Difference (Live at Crypto.com Arena, Los Angeles, CA, 9/24/2023)",
-        "url": "https://open.spotify.com/album/2fZaiwMi09O93vj6PATGZo"
+        "name": "Wild World (Venom: The Last Dance)",
+        "url": "https://open.spotify.com/album/27V9mZDPfIV4h6YWNJAWMV"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
         }
       ],
-      "duration_ms": 387833,
-      "name": "It Makes No Difference - Live at Crypto.com Arena, Los Angeles, CA, 9/24/2023",
-      "url": "https://open.spotify.com/track/3gijvmsddBYUiTrxdvMoF1"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "MEGAN: ACT II",
-        "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 155767,
-      "name": "Mamushi (Remix) [feat. TWICE]",
-      "url": "https://open.spotify.com/track/0DanydI1wKqKkKjn0qKoVR"
+      "duration_ms": 200852,
+      "name": "Wild World (Venom: The Last Dance)",
+      "url": "https://open.spotify.com/track/2oYex4XLPn5NZ1uJJI4Kr1"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -1051,38 +971,18 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
-        "name": "Wild World (Venom: The Last Dance)",
-        "url": "https://open.spotify.com/album/27V9mZDPfIV4h6YWNJAWMV"
+        "name": "It Makes No Difference (Live at Crypto.com Arena, Los Angeles, CA, 9/24/2023)",
+        "url": "https://open.spotify.com/album/2fZaiwMi09O93vj6PATGZo"
       },
       "artists": [
         {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 200852,
-      "name": "Wild World (Venom: The Last Dance)",
-      "url": "https://open.spotify.com/track/2oYex4XLPn5NZ1uJJI4Kr1"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/0pPNexXQFja0xneDUveLTa"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Watkins",
-          "url": "https://open.spotify.com/artist/7MNKPc4ZSAqCa6qX3eG6xi"
-        },
-        {
-          "name": "Tiro De Gracia",
-          "url": "https://open.spotify.com/artist/3yIbPI61iAhMptDnfnyScb"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/687esSRIlcOYM5TwgbQYdf"
+      "duration_ms": 387833,
+      "name": "It Makes No Difference - Live at Crypto.com Arena, Los Angeles, CA, 9/24/2023",
+      "url": "https://open.spotify.com/track/3gijvmsddBYUiTrxdvMoF1"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -1115,6 +1015,46 @@
     {
       "added_at": "2024-11-08 03:00:00",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/0pPNexXQFja0xneDUveLTa"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Watkins",
+          "url": "https://open.spotify.com/artist/7MNKPc4ZSAqCa6qX3eG6xi"
+        },
+        {
+          "name": "Tiro De Gracia",
+          "url": "https://open.spotify.com/artist/3yIbPI61iAhMptDnfnyScb"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/687esSRIlcOYM5TwgbQYdf"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "Where Do We Go From Here? The Remixes EP",
+        "url": "https://open.spotify.com/album/0cS2hbnw0DfRqDHyqycEAm"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        },
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Where Do We Go From Here? - Fairlane Remix",
+      "url": "https://open.spotify.com/track/4VbnOwZ0CcBeDpr8t9dH54"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
         "name": "Lonely Heart",
         "url": "https://open.spotify.com/album/1r5dyhOBbZbiu8zs3AhVsH"
       },
@@ -1131,6 +1071,26 @@
       "duration_ms": 163333,
       "name": "Lonely Heart",
       "url": "https://open.spotify.com/track/3yWFV3cSt4w2R6btVPcc6T"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "Blah Blah",
+        "url": "https://open.spotify.com/album/2qnKfQdMsDZ1Z2GL31zR3q"
+      },
+      "artists": [
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        },
+        {
+          "name": "Mime 871",
+          "url": "https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI"
+        }
+      ],
+      "duration_ms": 222089,
+      "name": "Blah Blah",
+      "url": "https://open.spotify.com/track/5bXMA1AJokXLP0KbzzDola"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -1159,26 +1119,6 @@
       "duration_ms": 218630,
       "name": "Dominica",
       "url": "https://open.spotify.com/track/2Ga2A8jX1DYCkPCc8mzNgX"
-    },
-    {
-      "added_at": "2024-11-08 03:00:00",
-      "album": {
-        "name": "Blah Blah",
-        "url": "https://open.spotify.com/album/2qnKfQdMsDZ1Z2GL31zR3q"
-      },
-      "artists": [
-        {
-          "name": "Ojal De Ajaw",
-          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
-        },
-        {
-          "name": "Mime 871",
-          "url": "https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI"
-        }
-      ],
-      "duration_ms": 222089,
-      "name": "Blah Blah",
-      "url": "https://open.spotify.com/track/5bXMA1AJokXLP0KbzzDola"
     },
     {
       "added_at": "2024-11-08 03:00:00",
@@ -1319,6 +1259,30 @@
       "duration_ms": 201320,
       "name": "Last Dinosaur",
       "url": "https://open.spotify.com/track/2d3QMUL5LNCKAUYz7pCxEi"
+    },
+    {
+      "added_at": "2024-11-08 03:00:00",
+      "album": {
+        "name": "Snus (Tony Romera Remix)",
+        "url": "https://open.spotify.com/album/6RBBJmRSp748wbqTHEHXY3"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sebastien Drums",
+          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
+        },
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "duration_ms": 179047,
+      "name": "Snus - Tony Romera Remix",
+      "url": "https://open.spotify.com/track/3cgOIThWrE4g3WjNtOByOL"
     },
     {
       "added_at": "2024-11-08 03:00:00",

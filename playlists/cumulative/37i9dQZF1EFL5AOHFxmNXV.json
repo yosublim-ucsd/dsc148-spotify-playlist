@@ -122,10 +122,32 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 146000,
       "name": "back it up",
       "url": "https://open.spotify.com/track/58FoMgyT8VdsBXUe734mcQ"
+    },
+    {
+      "album": {
+        "name": "Back It Up",
+        "url": "https://open.spotify.com/album/0yUjuqWLKHrKPBQGzTKAgb"
+      },
+      "artists": [
+        {
+          "name": "Letoa",
+          "url": "https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV"
+        },
+        {
+          "name": "lilbubblegum",
+          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Back It Up",
+      "url": "https://open.spotify.com/track/5AKzfe0sWdn7UNV1gKbNYY"
     },
     {
       "album": {

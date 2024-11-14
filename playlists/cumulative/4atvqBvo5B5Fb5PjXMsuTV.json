@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 13 Nov 02:01 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 13 Nov 17:02 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -3742,6 +3742,24 @@
       "duration_ms": 269746,
       "name": "Arachnophobia",
       "url": "https://open.spotify.com/track/238SwKe4AlSzqa7lg1oHUz"
+    },
+    {
+      "album": {
+        "name": "arbor lumia theme",
+        "url": "https://open.spotify.com/album/03ud00023GhoInqvYdTPtN"
+      },
+      "artists": [
+        {
+          "name": "voljum",
+          "url": "https://open.spotify.com/artist/0jnkmdkJ4CffUd8240Vypf"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380700,
+      "name": "arbor lumia theme",
+      "url": "https://open.spotify.com/track/5FsZcLBZ5wCDizkcvu1t2I"
     },
     {
       "album": {
@@ -9010,7 +9028,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 215300,
       "name": "Bus Stop Please",
       "url": "https://open.spotify.com/track/69qwWu8dQwaTABh5B9r8xn"
@@ -10261,6 +10279,24 @@
     },
     {
       "album": {
+        "name": "Charlemagne",
+        "url": "https://open.spotify.com/album/5LlizgM110s9gcVyQYzcgb"
+      },
+      "artists": [
+        {
+          "name": "Mourning High",
+          "url": "https://open.spotify.com/artist/0QlpcfYezulIhd9eLuWphj"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286300,
+      "name": "Charlemagne",
+      "url": "https://open.spotify.com/track/16ujZCXaH2c372SswLt8sC"
+    },
+    {
+      "album": {
         "name": "Charlie (feat. Lil Yachty)",
         "url": "https://open.spotify.com/album/64Ds4fDPQ901b25uuULZ10"
       },
@@ -10638,7 +10674,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 205776,
       "name": "Cherish In The Dark",
       "url": "https://open.spotify.com/track/5f3rHcLiOVXgdHSNBsq9cV"
@@ -11972,7 +12008,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 156029,
       "name": "Consequences",
       "url": "https://open.spotify.com/track/3INtLhPBhvpoH9BQtpzBTe"
@@ -16481,6 +16517,24 @@
     },
     {
       "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/5Xe3dvXh5794nQ7DZxHw9U"
+      },
+      "artists": [
+        {
+          "name": "Bleach Lab",
+          "url": "https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242922,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/5vu75r7llyBcRpQiQuLu8L"
+    },
+    {
+      "album": {
         "name": "Drowning Therapy",
         "url": "https://open.spotify.com/album/4pYbjMjeqlKS6wwExr27G8"
       },
@@ -18889,6 +18943,24 @@
     },
     {
       "album": {
+        "name": "Fashion",
+        "url": "https://open.spotify.com/album/5hQnZ9ekQs79grRDzeKmrj"
+      },
+      "artists": [
+        {
+          "name": "Heidi Montag",
+          "url": "https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175423,
+      "name": "Fashion",
+      "url": "https://open.spotify.com/track/2XPLtPHwVqzCQt6EqxwNIs"
+    },
+    {
+      "album": {
         "name": "Fashion Icon (feat. Ayesha Erotica)",
         "url": "https://open.spotify.com/album/4bkN1XAiEBhDz3wDME6f25"
       },
@@ -18940,7 +19012,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 164585,
       "name": "Fata Morgana",
       "url": "https://open.spotify.com/track/1v1cijv1qjMJ5o9OvMWACS"
@@ -19368,7 +19440,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 222250,
       "name": "Feelings Never Die",
       "url": "https://open.spotify.com/track/3rkuBuf0QhxlSLzvzrjVTU"
@@ -20670,7 +20742,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 283714,
       "name": "Forever Cold",
       "url": "https://open.spotify.com/track/3uhvjTmAuHRlpgEAfj6SGY"
@@ -22776,7 +22848,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 145517,
       "name": "Glad You Came",
       "url": "https://open.spotify.com/track/6kLEz38AjUXwYj9XUTiT5j"
@@ -24584,7 +24656,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 316000,
       "name": "Hard Fought Hallelujah",
       "url": "https://open.spotify.com/track/6ye2zG3DhdwDf6VRVyj4jx"
@@ -25186,7 +25258,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 147461,
       "name": "Heaven II",
       "url": "https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN"
@@ -26696,6 +26768,24 @@
       "duration_ms": 101884,
       "name": "HOTEL EN HOTEL",
       "url": "https://open.spotify.com/track/1ZqdE2idBVhHLv7JasDrAu"
+    },
+    {
+      "album": {
+        "name": "Hotel Sphinx",
+        "url": "https://open.spotify.com/album/4BhW8SgM0s7j5e4fG2nXVu"
+      },
+      "artists": [
+        {
+          "name": "Imperial Triumphant",
+          "url": "https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289466,
+      "name": "Hotel Sphinx",
+      "url": "https://open.spotify.com/track/0I4KEXWHq6jgx2VC0yq2ut"
     },
     {
       "album": {
@@ -34668,7 +34758,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 171093,
       "name": "Love Is The Only Thing",
       "url": "https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW"
@@ -35146,6 +35236,24 @@
       "duration_ms": 202573,
       "name": "Lucid Girl",
       "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
+    },
+    {
+      "album": {
+        "name": "Lucif\u00e8rine",
+        "url": "https://open.spotify.com/album/38VCD1EtDYyiRE8iTolIS5"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301907,
+      "name": "Lucif\u00e8rine",
+      "url": "https://open.spotify.com/track/6yi1BE15fXy72Js1uvxf3v"
     },
     {
       "album": {
@@ -36570,6 +36678,24 @@
       "duration_ms": 133933,
       "name": "MEOW",
       "url": "https://open.spotify.com/track/1uDkEnRotp0jjoGmtZ31rL"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas, Please Don't Call",
+        "url": "https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202132,
+      "name": "Merry Christmas, Please Don't Call",
+      "url": "https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH"
     },
     {
       "album": {
@@ -40168,7 +40294,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 228146,
       "name": "NO ICE",
       "url": "https://open.spotify.com/track/7jpJGaSJhEEwpX45SqFdXg"
@@ -45303,6 +45429,24 @@
     },
     {
       "album": {
+        "name": "Puppet Stringers",
+        "url": "https://open.spotify.com/album/23gzdvkfw6DHXhNU2FK1XZ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169659,
+      "name": "Puppet Stringers",
+      "url": "https://open.spotify.com/track/4LW2otQQtTwdzuQ4nZPbhN"
+    },
+    {
+      "album": {
         "name": "Pure At The Heart",
         "url": "https://open.spotify.com/album/2y44bM9u5qiSq1OeEEmEng"
       },
@@ -45322,6 +45466,24 @@
       "duration_ms": 221306,
       "name": "Pure At The Heart",
       "url": "https://open.spotify.com/track/4hSgn7ges2PpZmCP3V6T0H"
+    },
+    {
+      "album": {
+        "name": "Purple Snowflakes",
+        "url": "https://open.spotify.com/album/6iKOSo7BK2upVDTVQiO7QZ"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225440,
+      "name": "Purple Snowflakes",
+      "url": "https://open.spotify.com/track/6xsacBkUuy32IMngfVBhXl"
     },
     {
       "album": {
@@ -46336,6 +46498,24 @@
       "duration_ms": 151626,
       "name": "RED OUT",
       "url": "https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB"
+    },
+    {
+      "album": {
+        "name": "Redshift",
+        "url": "https://open.spotify.com/album/1H4dtkYGscdjYNjPTjFVEY"
+      },
+      "artists": [
+        {
+          "name": "F.O.O.L",
+          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223108,
+      "name": "Redshift",
+      "url": "https://open.spotify.com/track/1kXwc02M6g1OhRb7SVsKJA"
     },
     {
       "album": {
@@ -51045,6 +51225,24 @@
     },
     {
       "album": {
+        "name": "So Many Wishes",
+        "url": "https://open.spotify.com/album/1DWmOpiOTBphuwE2WevjbF"
+      },
+      "artists": [
+        {
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209320,
+      "name": "So Many Wishes",
+      "url": "https://open.spotify.com/track/4RDOcskNo7zjJYUhP2aIgN"
+    },
+    {
+      "album": {
         "name": "So Stunning",
         "url": "https://open.spotify.com/album/77iJPDjDNyKhQdsiFBNkUy"
       },
@@ -51540,7 +51738,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 200487,
       "name": "Songs",
       "url": "https://open.spotify.com/track/39GSMevjvCjRjO4FRVjFCf"
@@ -54058,7 +54256,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 199504,
       "name": "Supernova Love",
       "url": "https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n"
@@ -59785,6 +59983,24 @@
     },
     {
       "album": {
+        "name": "Ugly",
+        "url": "https://open.spotify.com/album/3HGsS4htM8Q7mmVWck2uJL"
+      },
+      "artists": [
+        {
+          "name": "Prima Queen",
+          "url": "https://open.spotify.com/artist/52fhNGn51RhUvjlapHT5T2"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196399,
+      "name": "Ugly",
+      "url": "https://open.spotify.com/track/3KUj1zMidEyCqJC5EBnWb5"
+    },
+    {
+      "album": {
         "name": "ULTRA C",
         "url": "https://open.spotify.com/album/1UyxLrubhJ7WYhzcsxOVgL"
       },
@@ -62718,7 +62934,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 138461,
       "name": "Where Do I Go",
       "url": "https://open.spotify.com/track/287x3GNRnwnyn6mjkmDHUU"
@@ -64891,6 +65107,24 @@
     },
     {
       "album": {
+        "name": "your wedding",
+        "url": "https://open.spotify.com/album/26D68txe714qfGvzXi6ZXu"
+      },
+      "artists": [
+        {
+          "name": "PRYVT",
+          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216741,
+      "name": "your wedding",
+      "url": "https://open.spotify.com/track/1mrwfndSc4xemZcavXuJFq"
+    },
+    {
+      "album": {
         "name": "You're So Impatient",
         "url": "https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X"
       },
@@ -66176,6 +66410,24 @@
       "duration_ms": 182140,
       "name": "\u6bce\u65e5 - Every Day",
       "url": "https://open.spotify.com/track/6BBc24r3QbIP4Qt3gdUOtZ"
+    },
+    {
+      "album": {
+        "name": "\u6ce1\u5439",
+        "url": "https://open.spotify.com/album/4PYcHByJYp9cZvoHmT2sZL"
+      },
+      "artists": [
+        {
+          "name": "adieu",
+          "url": "https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223440,
+      "name": "\u6ce1\u5439",
+      "url": "https://open.spotify.com/track/17nAb0ZqT4J6qnoXbPZ3jw"
     },
     {
       "album": {

@@ -544,7 +544,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 65535,
       "name": "Bloody Beggar Announcement Theme - From \"Bloody Beggar\"",
       "url": "https://open.spotify.com/track/1BwnyNVjkE7FCY6AACRoPu"
@@ -3122,6 +3122,32 @@
       "duration_ms": 49151,
       "name": "The Name is Vikram - Background Score",
       "url": "https://open.spotify.com/track/0rMCafW7oH94gTtArlESWU"
+    },
+    {
+      "album": {
+        "name": "The OG Thug (From \"Thug Life\")",
+        "url": "https://open.spotify.com/album/6nwruUy2eySbzUPq86Yn1H"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Karthik Netha",
+          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
+        },
+        {
+          "name": "Alexandra Joy",
+          "url": "https://open.spotify.com/artist/3JohY0Ur2mASWnvr1Q6x79"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 42365,
+      "name": "The OG Thug (From \"Thug Life\")",
+      "url": "https://open.spotify.com/track/13BijBtySer5TbVfi2R8vN"
     },
     {
       "album": {

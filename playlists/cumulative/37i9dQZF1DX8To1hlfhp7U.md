@@ -4,7 +4,7 @@
 
 > Get ready for a full\-body workout
 
-61 songs - 3 hr 13 min
+62 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Chandigarh Returns](https://open.spotify.com/track/1YtCsXITbeFUa8x0fLDZWx) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Chandigarh Returns](https://open.spotify.com/album/4OWvJ8TGXHfZpwf5ijtYlD) | 3:37 | 2023-06-22 |  |
 | [Closer](https://open.spotify.com/track/6QokRHAKP1SZ36LVIoJYL8) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t), [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Closer](https://open.spotify.com/album/6XBjf2BnKke0TOXmNGgNLw) | 4:07 | 2024-04-05 |  |
 | [Closer](https://open.spotify.com/track/5HxFnwZFcfwKo4fHW7n6Ry) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t), [Tedi Pagg](https://open.spotify.com/artist/6tWHWFyjq1e6xsPDsOxhca), [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Closer](https://open.spotify.com/album/1HBumg2coiPeeEM2Gr3Naz) | 4:07 | 2023-06-22 | 2024-04-19 |
-| [Credit Card](https://open.spotify.com/track/1TJLM1A1zKZLQKdxrpmNUx) | [G\. Sidhu](https://open.spotify.com/artist/1cqZQSRjE8Bl0PABOkVU9c), [J\-Statik](https://open.spotify.com/artist/3qBOp2bo17mSbJS5Q3KxE2) | [Credit Card](https://open.spotify.com/album/1jM7Gl4l91pD3rlmmq1j3j) | 2:33 | 2023-06-22 |  |
+| [Credit Card](https://open.spotify.com/track/1TJLM1A1zKZLQKdxrpmNUx) | [G\. Sidhu](https://open.spotify.com/artist/1cqZQSRjE8Bl0PABOkVU9c), [J\-Statik](https://open.spotify.com/artist/3qBOp2bo17mSbJS5Q3KxE2) | [Credit Card](https://open.spotify.com/album/1jM7Gl4l91pD3rlmmq1j3j) | 2:33 | 2023-06-22 | 2024-11-14 |
 | [Drama](https://open.spotify.com/track/0CzmJDWIqkWL8GFsFh15Hw) | [Umair Butt](https://open.spotify.com/artist/4E2wX4DFQFhlLyVzRw0C1P), [Maizu](https://open.spotify.com/artist/4KB86rl9F9MdgIq3ilN6Ai) | [Drama](https://open.spotify.com/album/6ToiGbp7UpGG8LNWJNNN6l) | 2:29 | 2024-09-06 |  |
 | [G.O.A.T.](https://open.spotify.com/track/46QbY78ha62aiu6gBgC7lS) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:43 | 2023-06-22 |  |
 | [Gulabi Pagg](https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 2:50 | 2023-06-22 |  |
@@ -43,6 +43,7 @@
 | [Lakk Shake](https://open.spotify.com/track/0HLOJXIweMIAJZCRu1aVcX) | [Shibani Kashyap](https://open.spotify.com/artist/3C7kSV4XIr4XrrNctgAG1v), [Veen Ranjha](https://open.spotify.com/artist/0ZjEqhO82XGFs8LTXpySVK) | [Lakk Shake \- Single](https://open.spotify.com/album/2gRmUaxZuhpf7rzJun22ho) | 3:27 | 2023-06-22 |  |
 | [Lakk Shake](https://open.spotify.com/track/0f4TujezEkNaVWWjXyvBc8) | [Shibani Kashyap](https://open.spotify.com/artist/3C7kSV4XIr4XrrNctgAG1v), [Veen Ranjha](https://open.spotify.com/artist/0ZjEqhO82XGFs8LTXpySVK) | [Lakk Shake](https://open.spotify.com/album/30LYhokyyNWQIZGVLKYnr4) | 3:27 | 2023-09-04 | 2024-04-19 |
 | [Lakk Shake](https://open.spotify.com/track/3cwaNsmpsL67zVXzCttY6J) | [Shibani Kashyap](https://open.spotify.com/artist/3C7kSV4XIr4XrrNctgAG1v), [Veen Ranjha](https://open.spotify.com/artist/0ZjEqhO82XGFs8LTXpySVK) | [Lakk Shake](https://open.spotify.com/album/75QyRqP2a4MKuDZ3ayhoh5) | 3:27 | 2023-06-22 | 2023-11-02 |
+| [Level Up](https://open.spotify.com/track/2LNjZwyjOcxqsqRR1Lep4f) | [Lucky Maan](https://open.spotify.com/artist/09nbL4fECiLx91JQc7iONs), [Mr Harry](https://open.spotify.com/artist/6Aik27VekUXuiW9xnuWlIg) | [Level Up](https://open.spotify.com/album/4TSNQa5aBW9x1P39MUDNL4) | 2:51 | 2024-11-13 |  |
 | [Light Weight](https://open.spotify.com/track/7FeLqPl1Ds0QR8UOxyKLhp) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Light Weight \- Single](https://open.spotify.com/album/3XwTloJnC6Feq5pdfmhiQ6) | 3:36 | 2023-06-22 |  |
 | [Luna](https://open.spotify.com/track/1Hy2ZRkFGC3P47r6lDX2sy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:06 | 2023-06-22 |  |
 | [Moorni](https://open.spotify.com/track/0HMqknanFIn0efQ5U4nUHT) | [Panjabi MC](https://open.spotify.com/artist/74D1UgRzMhTSPz698exXmR) | [The Raj](https://open.spotify.com/album/3mrDe7cZuguaXCWDt0Gwtx) | 4:22 | 2023-06-22 | 2024-04-19 |

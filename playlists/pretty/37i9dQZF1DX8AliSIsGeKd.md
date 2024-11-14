@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Goom Gum
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,467 likes - 90 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,606 likes - 90 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 21 | [Vancouver Hotel](https://open.spotify.com/track/4K03Nf43vCe9JZNeqKMIgU) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Demos](https://open.spotify.com/album/7Fgaxg909s8j9sOYr9KPiM) | 4:09 |
 | 22 | [XTC](https://open.spotify.com/track/5a2eZzDF8RpdQV1YDOVbMA) | [Rhode & Brown](https://open.spotify.com/artist/3tA0d4G3jC6CXf6MXEZE5T) | [XTC](https://open.spotify.com/album/5GIBZrWxTCweMxe8ae3WKB) | 4:19 |
 | 23 | [Sylph \- Radio Edit](https://open.spotify.com/track/15HK0JXuSFmltDQ41eXc16) | [Arey](https://open.spotify.com/artist/3x6ZK03mrjzO19H544H9g9), [Soul Button](https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm) | [Sylph](https://open.spotify.com/album/6AGG7Gg9ABUlkyGB7Y2jwY) | 3:14 |
-| 24 | [The Infinite Edge \- Elif Remix](https://open.spotify.com/track/5ahckcnb7BjJUhOMkDeBRQ) | [Motip White](https://open.spotify.com/artist/15dJhuFBU2E0JB874wGanT), [Elif \(TR\)](https://open.spotify.com/artist/1yatuhSYBeceXdDRg67hrm) | [The Infinite Edge \(Elif Remix\)](https://open.spotify.com/album/04QfzzOGcbB8VSHIPr7O43) | 4:02 |
+| 24 | [The Infinite Edge \- ELIF Remix](https://open.spotify.com/track/5ahckcnb7BjJUhOMkDeBRQ) | [Motip White](https://open.spotify.com/artist/15dJhuFBU2E0JB874wGanT), [Elif \(TR\)](https://open.spotify.com/artist/1yatuhSYBeceXdDRg67hrm) | [The Infinite Edge \(ELIF Remix\)](https://open.spotify.com/album/04QfzzOGcbB8VSHIPr7O43) | 4:02 |
 | 25 | [Girls to the Front](https://open.spotify.com/track/4TWoHXFPPRBftyNhY0fkib) | [HOVR](https://open.spotify.com/artist/3OKJ15Et50JhoX1zbf0Cdz) | [Girls to the Front](https://open.spotify.com/album/7B30IB7FBfBKxfuKarXkNO) | 2:48 |
 | 26 | [Resonance](https://open.spotify.com/track/6MNhTW4kqUWcVZ7aMRrr8X) | [ANMA](https://open.spotify.com/artist/7slIYLXRRWtA4pxfwCd3LE), [Aves Volare](https://open.spotify.com/artist/1FC7XBOdJgycFFO3z14NGq) | [New Horizons](https://open.spotify.com/album/4Aeriq4XiZFbcxCQbLOUTP) | 6:35 |
 | 27 | [Inside My Mind \- Ryan Davis Rethink](https://open.spotify.com/track/0H6qJcvD43PuXnGfHi5JfG) | [Soma Soul](https://open.spotify.com/artist/2v1lMR0JYh6wjKxIfWwtXa), [Ryan Davis](https://open.spotify.com/artist/0AHClmU8AZuj9naaENhVrP), [Nelleke](https://open.spotify.com/artist/0gMqIo1XytRF3KiK8O2NUu) | [Inside My Mind \(Remixes\)](https://open.spotify.com/album/53o10oiuAWpkZ4gO3VrLlR) | 4:42 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Jordan Rakei, STUTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,645 likes - 80 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,653 likes - 80 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 12 | [Mandible](https://open.spotify.com/track/09MeHWMDhiEKRvF1JyFT4t) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Mandible](https://open.spotify.com/album/458Knv1njrFor2UyZWY1Zr) | 6:59 |
 | 13 | [Across the Reef](https://open.spotify.com/track/1aroWD5P3fcCMETRdik29l) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Across the Reef](https://open.spotify.com/album/3XGJntNmVI8Y3lu2ofkSxV) | 4:44 |
 | 14 | [Sweeter Than](https://open.spotify.com/track/1cWS52bKcX1YPqosye28Hf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Get The Message](https://open.spotify.com/album/2lBblu7sNDW7voZtOL9GAd) | 2:45 |
-| 15 | [wanted \(feat\. kamasi washington\)](https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [ceremonial contrafact \(empathogen deluxe\)](https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE) | 2:39 |
+| 15 | [wanted](https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [ceremonial contrafact \(empathogen deluxe\)](https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE) | 2:39 |
 | 16 | [Better Than Before](https://open.spotify.com/track/3gelo6F3S6OfyU1XFLhU1O) | [Rebecca Vasmant](https://open.spotify.com/artist/0a5lsotyiCdV0xmceU44oN), [Emilie Boyd](https://open.spotify.com/artist/0ZQNy5KGr7GRnwFWJ47w2p), [Sonedo](https://open.spotify.com/artist/4pKpMAxOjsmuIhLCBvXEwN) | [Better Than Before](https://open.spotify.com/album/2JMdv9JmDvUpQ14Pp9nmEP) | 6:26 |
 | 17 | [MEBAE](https://open.spotify.com/track/5ZLptCYUfgM5daGHcpObgk) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b), [YONCE](https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf) | [MEBAE](https://open.spotify.com/album/5GonM3oQ2zizSIdu6EVVY3) | 4:05 |
 | 18 | [Dancin' Your Own Time](https://open.spotify.com/track/4uTTEq6jnBkW3PmcDw44KC) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [Halfway Somewhere](https://open.spotify.com/album/0dZQ5a3iDoioa5wYeSc04E) | 4:03 |

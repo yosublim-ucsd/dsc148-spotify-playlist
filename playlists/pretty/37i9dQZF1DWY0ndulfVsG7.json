@@ -1,6 +1,6 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Ana Rafalli",
-  "num_followers": 58090,
+  "num_followers": 58101,
   "original_name": "Berjiran",
   "owner": {
     "name": "Spotify",
@@ -430,11 +430,15 @@
         {
           "name": "Acha Septriasa",
           "url": "https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv"
+        },
+        {
+          "name": "Irwansyah",
+          "url": "https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa"
         }
       ],
-      "duration_ms": 228413,
-      "name": "Sampai Menutup Mata",
-      "url": "https://open.spotify.com/track/6RbOugGEsbxhOmNCHJGqLu"
+      "duration_ms": 273120,
+      "name": "My Heart",
+      "url": "https://open.spotify.com/track/27xvsEVJolDpEDy5PtD0hq"
     },
     {
       "added_at": "2024-11-07 17:00:00",
@@ -510,15 +514,11 @@
         {
           "name": "Acha Septriasa",
           "url": "https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv"
-        },
-        {
-          "name": "Irwansyah",
-          "url": "https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa"
         }
       ],
-      "duration_ms": 273120,
-      "name": "My Heart",
-      "url": "https://open.spotify.com/track/27xvsEVJolDpEDy5PtD0hq"
+      "duration_ms": 228413,
+      "name": "Sampai Menutup Mata",
+      "url": "https://open.spotify.com/track/6RbOugGEsbxhOmNCHJGqLu"
     },
     {
       "added_at": "2024-11-07 17:00:00",

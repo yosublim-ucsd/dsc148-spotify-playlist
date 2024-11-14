@@ -1415,6 +1415,36 @@
     },
     {
       "album": {
+        "name": "Doob Rahe",
+        "url": "https://open.spotify.com/album/0KILWgIiuzqtP99zanSeFB"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        },
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        },
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143111,
+      "name": "Doob Rahe",
+      "url": "https://open.spotify.com/track/1WRDp1AySdILhmOmMNx20r"
+    },
+    {
+      "album": {
         "name": "Doobna Aata Hai",
         "url": "https://open.spotify.com/album/3og6i5UVjMjvZnFfVaOumg"
       },
@@ -2904,7 +2934,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 214500,
       "name": "Khaak",
       "url": "https://open.spotify.com/track/1Y74Rn3fLUbYRNhzXpFMx4"

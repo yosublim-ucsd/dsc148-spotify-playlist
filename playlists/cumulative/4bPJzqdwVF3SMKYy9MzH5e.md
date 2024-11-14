@@ -4,7 +4,7 @@
 
 > 
 
-2,020 songs - 4 day 12 hr 32 min
+2,021 songs - 4 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1980,7 +1980,7 @@
 | [WTF](https://open.spotify.com/track/7iZw6wgm7duXlA1uT5ACxF) | [Young Spool](https://open.spotify.com/artist/0yq8vmzSViFTXmrdPeWDrB), [Jakob](https://open.spotify.com/artist/28CcJl2mUKYXWpUhLGRqpd) | [WTF](https://open.spotify.com/album/7Fsnty3Gb788dnTXTxQCld) | 1:29 | 2021-08-05 |  |
 | [WTF Is Hardcore?](https://open.spotify.com/track/2wPZiBX5T9JVE4zSkNTUlO) | [Victor Krum](https://open.spotify.com/artist/7h7GP0dYKyRojU1lIt16QV) | [WTF Is Hardcore?](https://open.spotify.com/album/0gMypa6ITkmgk1fK5RvjpQ) | 4:05 | 2024-10-29 |  |
 | [wutiwant](https://open.spotify.com/track/6zsUUymWPtq5bkoc5y97cM) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/4NHsl52eIxHX3ZGh66ZYUx) | 3:13 | 2024-07-12 |  |
-| [wutiwant](https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/1ymKniZ31tQMi6lVuM95Ic) | 3:13 | 2024-08-06 | 2024-08-16 |
+| [wutiwant](https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/1ymKniZ31tQMi6lVuM95Ic) | 3:13 | 2024-08-06 |  |
 | [X](https://open.spotify.com/track/2W2QiVQs0TugOUUYWgnV8E) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Am I A Girl?](https://open.spotify.com/album/5QCXxPUwoOtxeZQmve6w2u) | 2:54 | 2022-11-03 |  |
 | [xanny](https://open.spotify.com/track/4QIo4oxwzzafcBWkKjDpXY) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:03 | 2021-08-05 |  |
 | [Xenobeat](https://open.spotify.com/track/0jwFNzGu6vnxQU9xomySQo) | [Goreshit](https://open.spotify.com/artist/2UyOnfaE8nWXKPwYQyp2La) | [Rituals](https://open.spotify.com/album/2wksMR06cu1z0P3UHB8rlJ) | 2:32 | 2022-06-09 |  |
@@ -2001,6 +2001,7 @@
 | [You Are My Music](https://open.spotify.com/track/4NXTg4Wzw1u7E0wErQxdhr) | [hi\-posi](https://open.spotify.com/artist/72S76MZxbGTfH2KuemK7Y5) | [Sushi \(4004\)](https://open.spotify.com/album/4hpBGLRgpvJhGO3mzpKsAY) | 5:16 | 2022-11-06 |  |
 | [you arent all cool and edgy just cuz you like lain](https://open.spotify.com/track/760Y4cz8AyJjCcJpHDbHA1) | [snafu](https://open.spotify.com/artist/6D9QrghftPFUTOPkxAJfSp) | [songs about self hatred](https://open.spotify.com/album/13itaA5Koqxnrqkyb3lPIN) | 1:16 | 2023-01-15 |  |
 | [You can always kill yourself tomorrow](https://open.spotify.com/track/3kLe2UArU1Cy5JmFZRoSsj) | [Dreams We've Had](https://open.spotify.com/artist/5LkgVE79AHNZN7kMukfJFv) | [Everything And You](https://open.spotify.com/album/6kAciYbK6C3Pz2oyHwzjPh) | 5:46 | 2021-12-30 |  |
+| [You Could Be The One](https://open.spotify.com/track/0rJvdHXHV9xOXAsq8bna7Q) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 2](https://open.spotify.com/album/1SHqiM8BmiWkZlZ3ozOi5q) | 2:21 | 2024-11-13 |  |
 | [You Know](https://open.spotify.com/track/6bCPvJryZvox9a7kyixAk3) | [Freddie Dredd](https://open.spotify.com/artist/0agn3gVIdjP4CickYCZlYa) | [You Know](https://open.spotify.com/album/1hhr3dyb1I7Atua7ZuyuuV) | 1:28 | 2021-12-30 |  |
 | [You Know How It Is](https://open.spotify.com/track/2rj5XqPLceqhzK65BMdpu6) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [TOTEP](https://open.spotify.com/album/1JRe4BK6irt43VvOESllLv) | 2:14 | 2023-02-07 |  |
 | [You Make Me High \(When You Go Down Low\)](https://open.spotify.com/track/1qnsn36DIvrNIZZpr0pW1O) | [Lolita Storm](https://open.spotify.com/artist/6YF9sFv4SPlpLL6808Gsny) | [Girls Fucking Shit Up](https://open.spotify.com/album/69wksuPldtwiKixYBHCsO0) | 1:24 | 2022-07-08 |  |

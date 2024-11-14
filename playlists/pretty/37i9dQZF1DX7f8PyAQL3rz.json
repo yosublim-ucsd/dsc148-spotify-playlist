@@ -1,6 +1,6 @@
 {
   "description": "e o pre\u00e7o da passagem t\u00e1 como, xam\u00e3?",
-  "num_followers": 1402884,
+  "num_followers": 1402885,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2024-11-08 03:03:00",
       "album": {
-        "name": "FOFOCA",
-        "url": "https://open.spotify.com/album/4SIFl6lye181i3ojcyb9yi"
-      },
-      "artists": [
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "DJ Oreia",
-          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
-        }
-      ],
-      "duration_ms": 176410,
-      "name": "FOFOCA",
-      "url": "https://open.spotify.com/track/3ikta3kos99WEPFkwJRrVp"
-    },
-    {
-      "added_at": "2024-11-08 03:03:00",
-      "album": {
         "name": "M.A.D 2",
         "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
       },
@@ -1679,6 +1659,26 @@
       "duration_ms": 181985,
       "name": "DVD",
       "url": "https://open.spotify.com/track/0bdSnGHhbELTZ4kf7FGWPT"
+    },
+    {
+      "added_at": "2024-11-08 03:03:00",
+      "album": {
+        "name": "FOFOCA",
+        "url": "https://open.spotify.com/album/4SIFl6lye181i3ojcyb9yi"
+      },
+      "artists": [
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+        }
+      ],
+      "duration_ms": 176410,
+      "name": "FOFOCA",
+      "url": "https://open.spotify.com/track/3ikta3kos99WEPFkwJRrVp"
     },
     {
       "added_at": "2024-11-08 03:03:00",

@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 117981,
       "name": "AGAIN3X",
       "url": "https://open.spotify.com/track/3ftsAK8dCcPdkoZyRTSsxo"
@@ -4962,6 +4962,24 @@
       "duration_ms": 132780,
       "name": "Astronaut In The Ocean",
       "url": "https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277"
+    },
+    {
+      "album": {
+        "name": "Atlantic City",
+        "url": "https://open.spotify.com/album/1PweqHI1YcNT4gfwyZDCWp"
+      },
+      "artists": [
+        {
+          "name": "Glassio",
+          "url": "https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319816,
+      "name": "Atlantic City",
+      "url": "https://open.spotify.com/track/707uBmJIwKPCpuUxyOmdNv"
     },
     {
       "album": {
@@ -9385,6 +9403,24 @@
     },
     {
       "album": {
+        "name": "breathe",
+        "url": "https://open.spotify.com/album/5V4QQy1FXNw62vRB2y9kMD"
+      },
+      "artists": [
+        {
+          "name": "Earl Hondo",
+          "url": "https://open.spotify.com/artist/6wtwOmHik96gteVK9Kt28x"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174666,
+      "name": "breathe",
+      "url": "https://open.spotify.com/track/1rRwEeIXxEPnmOGUXoqcXC"
+    },
+    {
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/3irsbuhJ1MSDjepNVUi7lC"
       },
@@ -9570,6 +9606,24 @@
       "duration_ms": 255438,
       "name": "Broken",
       "url": "https://open.spotify.com/track/4pyRniHDVjQTgMmuO2g0v9"
+    },
+    {
+      "album": {
+        "name": "Broken Heart Diamond Ring",
+        "url": "https://open.spotify.com/album/6PPeDHupUbrr1HjX3mSOuq"
+      },
+      "artists": [
+        {
+          "name": "Kenny Sharp",
+          "url": "https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172816,
+      "name": "Broken Heart Diamond Ring",
+      "url": "https://open.spotify.com/track/6oBllnn0HGgFJH87mUUwj7"
     },
     {
       "album": {
@@ -64680,7 +64734,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 450400,
       "name": "Summertime Montage",
       "url": "https://open.spotify.com/track/3ZQSdroXfYLQgrXZu6Rkoe"

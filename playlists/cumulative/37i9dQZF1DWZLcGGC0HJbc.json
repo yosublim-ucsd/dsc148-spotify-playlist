@@ -326,7 +326,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 260211,
       "name": "Ghazal",
       "url": "https://open.spotify.com/track/1UeVhgHhkh9wtBJgNVw64H"
@@ -618,6 +618,24 @@
       "duration_ms": 275533,
       "name": "it takes a long time to feel free",
       "url": "https://open.spotify.com/track/4zgjMTwle0M00Oz4ZJvvDo"
+    },
+    {
+      "album": {
+        "name": "Just As \u00cf Remember",
+        "url": "https://open.spotify.com/album/6hqGAasr7NP0iX4bIFU02Y"
+      },
+      "artists": [
+        {
+          "name": "Ja\u00efr Faria",
+          "url": "https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138001,
+      "name": "Just As I Remember",
+      "url": "https://open.spotify.com/track/3s6R5jk43ny98ruPcs8CFk"
     },
     {
       "album": {

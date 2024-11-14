@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: EKKSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,303 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,298 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 52 | [What A Ride](https://open.spotify.com/track/3cBF4HDE9gQiXTejZOVw9o) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [What A Ride](https://open.spotify.com/album/68drhawpnjdg4hjF1i171a) | 3:34 |
 | 53 | [The Celebration](https://open.spotify.com/track/37evMcWuAur7cLGkDJ9xp1) | [POESY](https://open.spotify.com/artist/5wzk9261aP0OGmpxLAgYfL) | [The Celebration](https://open.spotify.com/album/5krg2sr4pnI2N6qglTf6HI) | 2:40 |
 | 54 | [feminine adornments](https://open.spotify.com/track/4fDS9pq0XjGyv2GlQgxgbO) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [my anti\-aircraft friend](https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ) | 4:13 |
-| 55 | [Late To The Party \(feat\. Declan McKenna\)](https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0) | [Orla Gartland](https://open.spotify.com/artist/0MosRqpk3OZXYV91A1vSEn), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Late To The Party \(feat\. Declan McKenna\)](https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY) | 3:35 |
+| 55 | [Late To The Party \(feat\. Declan McKenna\)](https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Late To The Party \(feat\. Declan McKenna\)](https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY) | 3:35 |
 | 56 | [METHOD ACTING](https://open.spotify.com/track/5st2rxJDpyUS3IPtn1lxXF) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [METHOD ACTING](https://open.spotify.com/album/49O9fESC2mlA6Ek8K66Uzj) | 2:16 |
 | 57 | [belong \(another place\)](https://open.spotify.com/track/64dszp6SWEveU66npOgOyr) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Business Core](https://open.spotify.com/album/5OdAH4Et1G5crDieu9xroD) | 2:05 |
 | 58 | [Fangtasy](https://open.spotify.com/track/2ws9oLOmP7FfiKnj29BPZ5) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Fangtasy](https://open.spotify.com/album/78ZyKHkzcr5qauqnxNCyw6) | 2:52 |

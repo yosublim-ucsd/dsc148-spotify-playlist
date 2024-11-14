@@ -2,7 +2,7 @@
 
 ### [Rap Tuga Hits](https://open.spotify.com/playlist/37i9dQZF1DX5nVsobG0zBp)
 
-> Os maiores hits do rap português dos últimos anos\. Foto: Mizzy Miles, Van Zee, Bispo,
+> Os maiores hits do rap português dos últimos anos\. Foto: Mizzy Miles, Van Zee, Bispo
 
 253 songs - 14 hr 44 min
 

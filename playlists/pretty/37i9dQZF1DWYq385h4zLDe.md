@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYq385h4zLDe.md) - [plain]
 
 > It’s a call from the ancestors\. Listen to new music from Moana 2, in theaters soon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,638 likes - 69 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,689 likes - 69 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LD3ztJJK6Qq7SSpzESUmb.md) - [plain]
 
 > The hottest new songs rocking Kerrang!'s world, updated every Friday!
 
-[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,340 likes - 20 songs - 1 hr 13 min
+[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,339 likes - 20 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/5LD3ztJJK6Qq7SSpzESUmb.md) - [plain]
 | 7 | [Born To Destroy](https://open.spotify.com/track/2TDZzciUBjVhjLEro3qYhc) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Born To Destroy](https://open.spotify.com/album/32gSVXUOeD1nvgQldat1KT) | 2:20 |
 | 8 | [Fire to Burn](https://open.spotify.com/track/6rFwLSiUCSBg0b0wYkHCdI) | [Slung](https://open.spotify.com/artist/7EEluFWhabUJwqInW2J654) | [Fire To Burn](https://open.spotify.com/album/19Gkc7bPSfdkRtRITYCJv6) | 4:15 |
 | 9 | [The Constant](https://open.spotify.com/track/1J7ziZHUNgITzcKEWPWkxw) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [State Champs](https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v) | 3:23 |
-| 10 | [Self Sabotage \(feat\. Down And Out\)](https://open.spotify.com/track/3jhoLy0PX091ZnsIE0cQCL) | [Comastatic](https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF), [Down And Out](https://open.spotify.com/artist/7EfK0VXLHjPEysgWDnAyYH) | [Self Sabotage \(feat\. Down And Out\)](https://open.spotify.com/album/0JPXhtGlodWjU3H47VxT2K) | 2:47 |
+| 10 | [Self Sabotage](https://open.spotify.com/track/3jhoLy0PX091ZnsIE0cQCL) | [Comastatic](https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF), [Down And Out](https://open.spotify.com/artist/7EfK0VXLHjPEysgWDnAyYH) | [Self Sabotage](https://open.spotify.com/album/0JPXhtGlodWjU3H47VxT2K) | 2:47 |
 | 11 | [Fear](https://open.spotify.com/track/4Sly8l7P3M4jyItnrCszeB) | [Tayne](https://open.spotify.com/artist/0YhYfoCTZKEw5VwaC7dasF), [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI), [James Spence](https://open.spotify.com/artist/5o7HNIYhhCd8MNNvcV6gw2) | [Fear](https://open.spotify.com/album/1YyIQsF7te1vM4EBz2h1Bg) | 3:52 |
 | 12 | [Precious Stones](https://open.spotify.com/track/0aK0yLy1dJFig1m1vfv4z2) | [SPLIT DOGS](https://open.spotify.com/artist/2knguAkuatcKmqXZkBxaLs) | [Precious Stones](https://open.spotify.com/album/05xagHaffji9fwoDPWDT3a) | 2:04 |
 | 13 | [It Is What It Is](https://open.spotify.com/track/7rVC99NBBSpGPEtxv0M93e) | [Out Of Love](https://open.spotify.com/artist/405LgUfDn2WLYkBJaLSaDe), [Wade Macneil](https://open.spotify.com/artist/7FkwgNGMt64MpnIYoXnhK1) | [It Is What It Is](https://open.spotify.com/album/6Q4VflHDUpPMObnGDrA67m) | 1:56 |

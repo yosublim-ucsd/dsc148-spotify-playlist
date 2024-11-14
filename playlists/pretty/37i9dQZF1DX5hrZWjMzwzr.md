@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'\. Posłuchaj zwycięzców oraz wszystkich nominowanych na jednej playliście.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,133 likes - 82 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,132 likes - 82 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 14 | [Mały Książę](https://open.spotify.com/track/5ngOu7hZUAGnk0FTDPzBob) | [Avi](https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Mały Książę](https://open.spotify.com/album/0vklKK8tv39Onnd9DnZlUt) | 3:01 |
 | 15 | [Cherry Lady](https://open.spotify.com/track/4ZmWYEsdiGRPN9oMJgi96r) | [Louis Villain](https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv) | [Cherry Lady](https://open.spotify.com/album/73AskkkPaeQsljbltdSTur) | 3:04 |
 | 16 | [Makarena Freestyle](https://open.spotify.com/track/6Vzl09EVLdB1MTZdDwm2Zd) | [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ) | [1\-800\-OŚWIECENIE](https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU) | 3:28 |
-| 17 | [EXIT](https://open.spotify.com/track/79qk9XiwYlTfcgdptq6lH6) | [Hinol Polska Wersja](https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg), [Jano Polska Wersja](https://open.spotify.com/artist/0BBB9DjvskQV0oReJMxTP1), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Polska Wersja](https://open.spotify.com/artist/7jr5OpV6K3nyqwKbbwcYR3) | [EXIT](https://open.spotify.com/album/1ts5o3TOPjD9HkK3AVTaQu) | 4:42 |
-| 18 | [UZUMAKI FORMA OSTATECZNA](https://open.spotify.com/track/6zrAkmtbohurOiCKgWNBdO) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht) | [UZUMAKI FORMA OSTATECZNA](https://open.spotify.com/album/6qcbKRA7omOSjv0PoUVj79) | 3:18 |
+| 17 | [UZUMAKI FORMA OSTATECZNA](https://open.spotify.com/track/6zrAkmtbohurOiCKgWNBdO) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht) | [UZUMAKI FORMA OSTATECZNA](https://open.spotify.com/album/6qcbKRA7omOSjv0PoUVj79) | 3:18 |
+| 18 | [EXIT](https://open.spotify.com/track/79qk9XiwYlTfcgdptq6lH6) | [Hinol Polska Wersja](https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg), [Jano Polska Wersja](https://open.spotify.com/artist/0BBB9DjvskQV0oReJMxTP1), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Polska Wersja](https://open.spotify.com/artist/7jr5OpV6K3nyqwKbbwcYR3) | [EXIT](https://open.spotify.com/album/1ts5o3TOPjD9HkK3AVTaQu) | 4:42 |
 | 19 | [RONDO](https://open.spotify.com/track/6bj4cH8DseYmq9G1fQ8CZV) | [Asster](https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [MOWA WĘŻY](https://open.spotify.com/album/0mN6XUkbzU1zwUzHYWbA74) | 3:05 |
 | 20 | [same zmartwienia](https://open.spotify.com/track/2LMXAlcaN53mR1eHiwnJbb) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Quebonafide](https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [spokój.](https://open.spotify.com/album/54EPuj16oTPUXzE0YKBfgg) | 2:46 |
 | 21 | [Nicea](https://open.spotify.com/track/5OYaQw9IS8MMDFRgTPqDnR) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [Nicea](https://open.spotify.com/album/561wVB1MRTfJ0muUnsniNU) | 3:37 |

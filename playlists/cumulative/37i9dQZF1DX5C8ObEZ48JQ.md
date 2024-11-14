@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/131TscYap0HoOu1UIUsg2b?si=DywWOG1nRp\-V0fyRYS6jhA">WATERS</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G?si=rM\-9M\-\_LRumV7XBWJ\-50Ig">Saràh Phenom</a>\. Artwork: Isu Kim.
 
-1,147 songs - 2 day 9 hr 30 min
+1,148 songs - 2 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Be Free](https://open.spotify.com/track/6jT81iHttW5VwRV317yonX) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C) | [Be Free](https://open.spotify.com/album/1KA8eKZjMX1tCiY0q4mKTe) | 5:17 | 2023-02-22 | 2023-03-30 |
 | [Be Like Me](https://open.spotify.com/track/2elLsa24WXo9GSPoBUsOxZ) | [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf) | [Be Like Me](https://open.spotify.com/album/6LMO6nP1OFfF9QpN5Mtj4j) | 2:28 | 2024-02-06 | 2024-03-06 |
 | [Be Mine](https://open.spotify.com/track/3OpiUWJv4LPW4hyyP93EMR) | [LOTi](https://open.spotify.com/artist/0urGBe1Pism9xlVVwOmExn) | [Be Mine](https://open.spotify.com/album/2CQMDgRaDf38E9gcKXw2zD) | 2:57 | 2023-06-05 | 2024-02-07 |
+| [Be My Rescue](https://open.spotify.com/track/5MUyb4L8hZ37XgaQG8uaXo) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24) | [Sweet Sour Serenade](https://open.spotify.com/album/5vpuiuqaKIxzCDAzjXCS3t) | 3:08 | 2024-11-13 |  |
 | [Be Safe](https://open.spotify.com/track/1ahXNmXqjhT60A2I7tX0G4) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Echoes](https://open.spotify.com/album/4U2ZrbE8qKmOlYcEUuS9Hm) | 3:25 | 2022-09-02 | 2022-10-01 |
 | [Beautiful Lies](https://open.spotify.com/track/319NHi9Pdo152nUvVBWlgS) | [Runda](https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x) | [Beautiful Lies](https://open.spotify.com/album/6WlznjoXtwxdJvmTRabNxY) | 2:54 | 2023-07-26 | 2023-09-27 |
 | [BEBE](https://open.spotify.com/track/6g66M8kCsTHH62T7oT0K3I) | [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [BEBE/CINNAMON](https://open.spotify.com/album/1xNUH2MsviQz6p4firxKHR) | 2:45 | 2024-04-03 | 2024-05-02 |

@@ -4,7 +4,7 @@
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Nayt
 
-200 songs - 10 hr 32 min
+202 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Complicato](https://open.spotify.com/track/6d7BZ0WMfu6OlgA3hIh58P) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:13 | 2023-11-17 |  |
 | [COOLIN BREAK \(feat\. Nitro & Enzo Dong\)](https://open.spotify.com/track/5nt0lVfzmmuiU1Zk6PbWbM) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [INVISIBILI](https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL) | 3:00 | 2023-09-14 | 2023-11-03 |
 | [Cosa resterà di noi](https://open.spotify.com/track/4hfuteAlDAbNMbz0EsBTpZ) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [9K](https://open.spotify.com/album/1JTbdGtXi6D1y4o9s0SSUW) | 2:31 | 2024-10-09 |  |
+| [Crescere](https://open.spotify.com/track/2od3nRU5dcXVFqJagNco8p) | [Lorenzza](https://open.spotify.com/artist/0zyujuBCFt15GQ86pcAGk6) | [A LORENZZA](https://open.spotify.com/album/3uo3AECJ5Qw3Lwd6kXfQdL) | 1:30 | 2024-11-13 |  |
 | [CRIATUR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/147hzs261FAZBpwfQkOUCL) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu) | [CRIATUR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/4v2vbwWe9ongpkfgLJDbir) | 2:54 | 2024-03-06 | 2024-03-29 |
 | [CRINGE](https://open.spotify.com/track/0QdLe32rmGquRDdALuY92Q) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [CVLT](https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1) | 3:12 | 2023-11-02 | 2024-03-01 |
 | [C’era Una Volta In Italia](https://open.spotify.com/track/6qECCt8d4AQt0cEv307MLa) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:05 | 2024-01-12 |  |
@@ -173,6 +174,7 @@
 | [RAP MONEY \(feat\. Guè\)](https://open.spotify.com/track/4KyZqiE5MDR7gZNThBWjg0) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [CVLT \- HELLRAISERS](https://open.spotify.com/album/5QpNXrDu68PAmxEXYDSePw) | 3:33 | 2024-05-30 |  |
 | [Rappresento \(feat\. Jake La Furia\)](https://open.spotify.com/track/2nxiM1iVhNIITV0N2zlGE5) | [Mostro](https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [The Illest, Vol\. 3](https://open.spotify.com/album/6dQtxmHiNvZPh5te1zjW3P) | 3:07 | 2023-01-26 | 2023-03-18 |
 | [Re Mida](https://open.spotify.com/track/7fnHSgIITveyrYBAA1sxKR) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Re Mida](https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk) | 2:28 | 2022-04-15 |  |
+| [Ricordi](https://open.spotify.com/track/0HoCx0ikdzIBTtBIsLECYt) | [Lorenzza](https://open.spotify.com/artist/0zyujuBCFt15GQ86pcAGk6) | [A LORENZZA](https://open.spotify.com/album/3uo3AECJ5Qw3Lwd6kXfQdL) | 2:03 | 2024-11-13 |  |
 | [S.A.L.M.O.](https://open.spotify.com/track/2YZkw3wc0uDMSOnJaIXykX) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Midnite \(Deluxe Version\)](https://open.spotify.com/album/1gjwWKqjQMhi5OvWG38ZEW) | 3:55 | 2022-07-15 | 2024-04-19 |
 | [S.A.L.M.O.](https://open.spotify.com/track/4kpAz34vx3pPPGaKdD3j6Q) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Midnite \(Deluxe Version\)](https://open.spotify.com/album/0d0xhfyP9VIZ8V9IsyvUdg) | 3:55 | 2022-04-15 | 2024-08-30 |
 | [S.X.S.I.C.](https://open.spotify.com/track/3PDMXI7XWkuPOxZ1uNB5O7) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Tutti i Nomi del Diavolo](https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ) | 3:20 | 2024-11-04 |  |

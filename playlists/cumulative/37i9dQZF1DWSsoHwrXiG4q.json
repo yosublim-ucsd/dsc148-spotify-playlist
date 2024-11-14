@@ -187,6 +187,24 @@
     },
     {
       "album": {
+        "name": "Fragment / 1",
+        "url": "https://open.spotify.com/album/1bqWsFFF8vkGArDQ7Ewknr"
+      },
+      "artists": [
+        {
+          "name": "Alix Perez",
+          "url": "https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270100,
+      "name": "Bloomsbury",
+      "url": "https://open.spotify.com/track/4PrBHHTNDYrJU5rf03rg28"
+    },
+    {
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/3bti1dr6JCjaYudAsjH09S"
       },
@@ -264,7 +282,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 257042,
       "name": "Cast Away",
       "url": "https://open.spotify.com/track/7Jv6TQSJdOLzpHtsa4X0SE"
@@ -614,7 +632,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 339410,
       "name": "Dogs Behaving Badly",
       "url": "https://open.spotify.com/track/3zjYqFF5jsz7n2nUHTRaWl"
@@ -988,6 +1006,28 @@
       "duration_ms": 302000,
       "name": "Gift of mine",
       "url": "https://open.spotify.com/track/6wrLBtrQ31FUBh4vYIya95"
+    },
+    {
+      "album": {
+        "name": "Got Me Falling",
+        "url": "https://open.spotify.com/album/2qwsO3dSK9Uga2d8Mx2AUA"
+      },
+      "artists": [
+        {
+          "name": "Etherwood",
+          "url": "https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX"
+        },
+        {
+          "name": "Blean",
+          "url": "https://open.spotify.com/artist/75Du3d5UKwSJ6MY9mNvw8l"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Got Me Falling",
+      "url": "https://open.spotify.com/track/3QSEhvJBimqNpxKeUm4UgS"
     },
     {
       "album": {
@@ -2478,6 +2518,28 @@
       "duration_ms": 209655,
       "name": "Stars Above Us",
       "url": "https://open.spotify.com/track/4FkNIKe8KE52EJvK6QKsxm"
+    },
+    {
+      "album": {
+        "name": "Starstruck",
+        "url": "https://open.spotify.com/album/7uxcwm4Xte5CiO5YDXED1c"
+      },
+      "artists": [
+        {
+          "name": "Kublai",
+          "url": "https://open.spotify.com/artist/5X1qFHbp1qjN70qGo7wfmv"
+        },
+        {
+          "name": "Redeyes",
+          "url": "https://open.spotify.com/artist/6bFVG82TmMLbnFFBqG9LYa"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296019,
+      "name": "Starstruck",
+      "url": "https://open.spotify.com/track/6PV3QrIXYPgmSkgM14ginX"
     },
     {
       "album": {

@@ -5572,7 +5572,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 235770,
       "name": "Filthy Animals",
       "url": "https://open.spotify.com/track/2HQXLsU8j3chLoxIDxq3Vu"
@@ -9895,7 +9895,7 @@
         },
         {
           "name": "SikTh",
-          "url": "https://open.spotify.com/artist/03mz3G1gu1GPNgAWY4qR2w"
+          "url": "https://open.spotify.com/artist/0u6DHFbAF5yCLQ6KXJTEib"
         },
         {
           "name": "Stephen Carpenter (of Deftones)",
@@ -10342,7 +10342,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 165868,
       "name": "MEDZ",
       "url": "https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ"
@@ -14683,6 +14683,28 @@
     },
     {
       "album": {
+        "name": "Sincerity",
+        "url": "https://open.spotify.com/album/1uNfPU36BemCmrO2BTnHbE"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213493,
+      "name": "Sincerity",
+      "url": "https://open.spotify.com/track/32epANLwQ0112iterEB94m"
+    },
+    {
+      "album": {
         "name": "Sunrise on Slaughter Beach",
         "url": "https://open.spotify.com/album/2u8g60vELeT5gjh1aZRzO5"
       },
@@ -18950,6 +18972,28 @@
       "duration_ms": 265066,
       "name": "We Will Not Disband",
       "url": "https://open.spotify.com/track/54f4ILCiEdfu2VuSmrXJ8Z"
+    },
+    {
+      "album": {
+        "name": "WELCOME TO DYSTOPIA",
+        "url": "https://open.spotify.com/album/3cvFkywmck0T9fE9JomgGn"
+      },
+      "artists": [
+        {
+          "name": "The Veer Union",
+          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
+        },
+        {
+          "name": "Silent Theory",
+          "url": "https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197383,
+      "name": "WELCOME TO DYSTOPIA",
+      "url": "https://open.spotify.com/track/41qGDR2V9ocYrYEqOnGjcR"
     },
     {
       "album": {

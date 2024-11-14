@@ -1826,7 +1826,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 188684,
       "name": "SEXY SHOP",
       "url": "https://open.spotify.com/track/0GgIXlhkacCRh30t2Se92q"
@@ -2182,6 +2182,36 @@
       "duration_ms": 198740,
       "name": "VELENO",
       "url": "https://open.spotify.com/track/2K7bv4Q0FNNKPt4PPPCjOi"
+    },
+    {
+      "album": {
+        "name": "MAI PI\u00d9 FORSE",
+        "url": "https://open.spotify.com/album/31zOPRV9kLjtyq3eqiAMvj"
+      },
+      "artists": [
+        {
+          "name": "CoCo",
+          "url": "https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Startuffo",
+          "url": "https://open.spotify.com/artist/0n2eNz9IfMHag6sU0uEPVe"
+        },
+        {
+          "name": "D-Ross",
+          "url": "https://open.spotify.com/artist/3AJSAtfY4qkm7DfGdCK9ne"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186260,
+      "name": "Video hot (feat. Geolier)",
+      "url": "https://open.spotify.com/track/3o9OeBX0vgh51r15Ta7Dok"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 57639,
+  "num_followers": 57693,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
+        "name": "Hot Boppin Girls Vol. 1",
+        "url": "https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 130649,
+      "name": "Rock the Bop",
+      "url": "https://open.spotify.com/track/3EhF0bDSHc4pwyjLEnHpBq"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
         "name": "Blues Book and Beyond",
         "url": "https://open.spotify.com/album/7s8fUmFH40RAHThrPdx57E"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 240760,
       "name": "Bad Spell Blues",
       "url": "https://open.spotify.com/track/0GzE9pIJApHUOohOTGplUW"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
-        "name": "Hot Boppin Girls Vol. 1",
-        "url": "https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 130649,
-      "name": "Rock the Bop",
-      "url": "https://open.spotify.com/track/3EhF0bDSHc4pwyjLEnHpBq"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Capitol Records From The Vaults: \"Vine Street Divas\"",
-        "url": "https://open.spotify.com/album/5zgbJkwtiJlKxBRkuRzIrw"
-      },
-      "artists": [
-        {
-          "name": "Blue Lu Barker",
-          "url": "https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ"
-        }
-      ],
-      "duration_ms": 134240,
-      "name": "A Little Bird Told Me",
-      "url": "https://open.spotify.com/track/3Glgih28u8fdw7cac5Kv2j"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Sings Bessie Smith",
         "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 285400,
       "name": "Back Water Blues",
       "url": "https://open.spotify.com/track/2ABW9AYFdHh1QTGYNVmurr"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Capitol Records From The Vaults: \"Vine Street Divas\"",
+        "url": "https://open.spotify.com/album/5zgbJkwtiJlKxBRkuRzIrw"
+      },
+      "artists": [
+        {
+          "name": "Blue Lu Barker",
+          "url": "https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ"
+        }
+      ],
+      "duration_ms": 134240,
+      "name": "A Little Bird Told Me",
+      "url": "https://open.spotify.com/track/3Glgih28u8fdw7cac5Kv2j"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "The First Torch Singers, Vol. I: The Twenties",
-        "url": "https://open.spotify.com/album/2i5G9rq9OB4pBCFz1ul0im"
-      },
-      "artists": [
-        {
-          "name": "Eva Taylor",
-          "url": "https://open.spotify.com/artist/4tcdCfYOTLmHkjzfIIHocL"
-        }
-      ],
-      "duration_ms": 211324,
-      "name": "Moanin' Low",
-      "url": "https://open.spotify.com/track/2Eqx8kcEyuHkresgSFePM6"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Bertha \"Chippie\" Hill 1925-1929",
         "url": "https://open.spotify.com/album/6sA70gGM15Et2Ebw1AvsP9"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 164624,
       "name": "Trouble In Mind (9510)",
       "url": "https://open.spotify.com/track/3oUKkbX1oyjIKSDZBnADDT"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "The First Torch Singers, Vol. I: The Twenties",
+        "url": "https://open.spotify.com/album/2i5G9rq9OB4pBCFz1ul0im"
+      },
+      "artists": [
+        {
+          "name": "Eva Taylor",
+          "url": "https://open.spotify.com/artist/4tcdCfYOTLmHkjzfIIHocL"
+        }
+      ],
+      "duration_ms": 211324,
+      "name": "Moanin' Low",
+      "url": "https://open.spotify.com/track/2Eqx8kcEyuHkresgSFePM6"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Boogie Woogie Gals",
-        "url": "https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ"
-      },
-      "artists": [
-        {
-          "name": "Gladys Bentley",
-          "url": "https://open.spotify.com/artist/5byQk5bPDb10356SOJJeU9"
-        }
-      ],
-      "duration_ms": 155813,
-      "name": "Boogie'n My Woogie",
-      "url": "https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Female Blues - The Remaining Titles Vol. 2 (1938-1949)",
         "url": "https://open.spotify.com/album/5Cdll1bM00Aeg588xttgyU"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 179644,
       "name": "New That Ain't Right",
       "url": "https://open.spotify.com/track/2DP2o8uBWk14XUdRzVf91L"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Boogie Woogie Gals",
+        "url": "https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ"
+      },
+      "artists": [
+        {
+          "name": "Gladys Bentley",
+          "url": "https://open.spotify.com/artist/5byQk5bPDb10356SOJJeU9"
+        }
+      ],
+      "duration_ms": 155813,
+      "name": "Boogie'n My Woogie",
+      "url": "https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Female Crazy Blues (Classic Mood Experience)",
-        "url": "https://open.spotify.com/album/0qxCmVoI0KEnpT4dLazSeL"
-      },
-      "artists": [
-        {
-          "name": "Mamie Smith",
-          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
-        }
-      ],
-      "duration_ms": 204831,
-      "name": "Crazy Blues",
-      "url": "https://open.spotify.com/track/6ZBOpJnZTxTydaYaY4upt7"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Female Blues Singers Vol. 1 A/B (1924-1932)",
         "url": "https://open.spotify.com/album/0taoz29EBZr4cz9UKTrbIB"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 183667,
       "name": "I Crave Your Lovin' Every Day",
       "url": "https://open.spotify.com/track/2PyvydBuudmwj7BtCNY45U"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Female Crazy Blues (Classic Mood Experience)",
+        "url": "https://open.spotify.com/album/0qxCmVoI0KEnpT4dLazSeL"
+      },
+      "artists": [
+        {
+          "name": "Mamie Smith",
+          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
+        }
+      ],
+      "duration_ms": 204831,
+      "name": "Crazy Blues",
+      "url": "https://open.spotify.com/track/6ZBOpJnZTxTydaYaY4upt7"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Downhearted Blues",
-        "url": "https://open.spotify.com/album/0uGxY4y7NJupIs7b5Keeep"
-      },
-      "artists": [
-        {
-          "name": "Alberta Hunter",
-          "url": "https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA"
-        }
-      ],
-      "duration_ms": 151262,
-      "name": "My Castle's Rocking",
-      "url": "https://open.spotify.com/track/4Yza9eguJ9gSLPK7HypTIF"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Stationary Mama",
         "url": "https://open.spotify.com/album/7r099iFTUtERJVckKP5O7E"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 168973,
       "name": "How Come You Do Me Like You Do?",
       "url": "https://open.spotify.com/track/0t0zHxsrim0OQv0dkqy9EL"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Downhearted Blues",
+        "url": "https://open.spotify.com/album/0uGxY4y7NJupIs7b5Keeep"
+      },
+      "artists": [
+        {
+          "name": "Alberta Hunter",
+          "url": "https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA"
+        }
+      ],
+      "duration_ms": 151262,
+      "name": "My Castle's Rocking",
+      "url": "https://open.spotify.com/track/4Yza9eguJ9gSLPK7HypTIF"
     },
     {
       "added_at": "2024-06-02 16:39:20",

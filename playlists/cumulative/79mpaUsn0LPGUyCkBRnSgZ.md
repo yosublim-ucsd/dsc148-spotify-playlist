@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-768 songs - 2 day 3 hr 44 min
+769 songs - 2 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [Intro \(It's Album Time\)](https://open.spotify.com/track/2oa3MecguzBGHp2lF72pOh) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's Album Time](https://open.spotify.com/album/058No4Kiz8r284NwzBSBC2) | 1:40 | 2024-06-19 |  |
 | [Introduction](https://open.spotify.com/track/25BcBVAoG8bZ2m63bYiAAZ) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Shades Of Blue: Madlib Invades Blue Note](https://open.spotify.com/album/6jRvDpOc9oi3sjQuoPK7if) | 0:32 | 2024-02-11 |  |
 | [Introduction](https://open.spotify.com/track/2JLxaBGEmZSvK1tCcOjpO8) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K) | 1:32 | 2024-10-08 |  |
+| [Introduction \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/42quL9yU8hlWW2w4oaxLGF) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 0:47 | 2024-11-13 |  |
 | [Isometric \(Intro\)](https://open.spotify.com/track/4RWeizdES94TbsDWSrQdLU) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Adventure \(Deluxe\)](https://open.spotify.com/album/3uKLwDjku2Us0c81LEmftR) | 1:20 | 2022-08-20 |  |
 | [It Ain't Easy, It Ain't Easy \(feat\. Nyck Caution, Kirk Knight, CJ Fly & AKTHESAVIOR\)](https://open.spotify.com/track/4krhkcFf3OqxHSS1QUIsmc) | [Beast Coast](https://open.spotify.com/artist/1Nd1g8fezKoJ6DGauWbZIm), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Flatbush Zombies](https://open.spotify.com/artist/1dqGS5sT6PE2wEvP1gROZC), [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt), [Kirk Knight](https://open.spotify.com/artist/1nSpOxq3pcgomrfpXudQuq), [CJ Fly](https://open.spotify.com/artist/41yEdWozNYEzA2RfgYQHgr), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw) | [Escape From New York](https://open.spotify.com/album/1NPxBmG3k3UzybcaxxSVuB) | 3:40 | 2022-10-18 |  |
 | [It Is Not Meant To Be](https://open.spotify.com/track/3Yub3anoLj8w58TVpEXUJv) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 5:21 | 2024-09-19 |  |

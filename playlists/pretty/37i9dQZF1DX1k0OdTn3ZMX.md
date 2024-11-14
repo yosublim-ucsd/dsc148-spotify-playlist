@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Hollywood Undead.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,495 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,612 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 15 | [A Work of Art](https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [SHAVO](https://open.spotify.com/artist/3db7IWyJRHjZEViTutNdUR) | [A Work of Art \(feat\. Shavo of System of a Down\)](https://open.spotify.com/album/4iCfWNu1o6eNEadgJQa4hp) | 3:58 |
 | 16 | [ROC SH!T](https://open.spotify.com/track/5mQH7w7Cqphygl68gTsDBg) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:05 |
 | 17 | [Fake Ass Friends](https://open.spotify.com/track/5t3X72EbaFti38zPMlqeTC) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Fake Ass Friends](https://open.spotify.com/album/7H7jMWjWlDy75T59WbWYsv) | 2:18 |
-| 18 | [Self Sabotage \(feat\. Down And Out\)](https://open.spotify.com/track/3jhoLy0PX091ZnsIE0cQCL) | [Comastatic](https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF), [Down And Out](https://open.spotify.com/artist/7EfK0VXLHjPEysgWDnAyYH) | [Self Sabotage \(feat\. Down And Out\)](https://open.spotify.com/album/0JPXhtGlodWjU3H47VxT2K) | 2:47 |
+| 18 | [Self Sabotage](https://open.spotify.com/track/3jhoLy0PX091ZnsIE0cQCL) | [Comastatic](https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF), [Down And Out](https://open.spotify.com/artist/7EfK0VXLHjPEysgWDnAyYH) | [Self Sabotage](https://open.spotify.com/album/0JPXhtGlodWjU3H47VxT2K) | 2:47 |
 | 19 | [Tabula Rasa](https://open.spotify.com/track/7j8rM6qmKanhiaogz5EG1Y) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [HYPERVIOLENCE](https://open.spotify.com/album/45dtTykdSpSunaRsONUYqX) | 3:04 |
 | 20 | [SERPENTINE](https://open.spotify.com/track/75K9O7QpjCNkRcgVfRowwq) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [SERPENTINE](https://open.spotify.com/album/6uaVMHKaeF1vHiNfaNAEQR) | 3:18 |
 | 21 | [NO HOSTAGES](https://open.spotify.com/track/1JKl8OJifNb8TKABeeDi7F) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [NO HOSTAGES](https://open.spotify.com/album/4EHZn3KXmNfXDQqE8BU4AO) | 3:03 |

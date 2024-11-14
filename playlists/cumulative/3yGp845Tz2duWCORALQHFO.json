@@ -4725,6 +4725,24 @@
     },
     {
       "album": {
+        "name": "Colmar",
+        "url": "https://open.spotify.com/album/6yRMjOReivIMdw8iDshRzu"
+      },
+      "artists": [
+        {
+          "name": "Scissors",
+          "url": "https://open.spotify.com/artist/3lK4kf4vQZ51qa2LiodnZ4"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182109,
+      "name": "Colmar",
+      "url": "https://open.spotify.com/track/0WLmMBatSELqDbg6q3W1Ob"
+    },
+    {
+      "album": {
         "name": "Colorblind",
         "url": "https://open.spotify.com/album/77cInQFumMTB0g5W5WlMSa"
       },
@@ -14788,7 +14806,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 183234,
       "name": "Let The Bassline",
       "url": "https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0"

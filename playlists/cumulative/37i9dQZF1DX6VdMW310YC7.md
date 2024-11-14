@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,695 songs - 4 day 20 hr 6 min
+1,696 songs - 4 day 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -898,6 +898,7 @@
 | [Lost](https://open.spotify.com/track/5WYNZf8enqbyPk4bKXKpou) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Lost](https://open.spotify.com/album/0ksXLhcJTB8DLxoEFnV93Z) | 3:26 | 2022-02-18 | 2022-07-27 |
 | [Lost \(feat\. Chelsea Jade\)](https://open.spotify.com/track/50pEs4BEQlgoZo6rKHNtEA) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Chelsea Jade](https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO) | [Lost \(feat\. Chelsea Jade\)](https://open.spotify.com/album/5BFBhnlWveg1RCn6Q4RX7W) | 4:01 | 2020-03-20 | 2020-07-18 |
 | [Lost \- Vintage & Morelli Remix](https://open.spotify.com/track/0rftiAFRXwSXv9u6SWPW7l) | [Sunlounger](https://open.spotify.com/artist/39xJyKl2iYCAQywsUk4aWg), [Zara](https://open.spotify.com/artist/7L8a4XTzzBHolV2T6A9s9p), [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0) | [Lost \(Remixes\)](https://open.spotify.com/album/6htZI3xBXXxZaQLj4N9u6l) | 3:56 | 2020-05-18 | 2020-07-18 |
+| [Lost Home](https://open.spotify.com/track/3UcquXPl3pmUgKdVjxAIxy) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK) | [Lost Home / Solitude](https://open.spotify.com/album/6hJExzBylXcKb3F7fb0Wju) | 3:46 | 2024-11-08 |  |
 | [Lost in My Mind](https://open.spotify.com/track/2LcQebtolx6SwZS4zeHWWt) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 4:20 | 2020-05-19 | 2020-07-03 |
 | [Lost in My Mind \- Icarus Remix](https://open.spotify.com/track/4mhMgIkHg4fOgnYbD9HGUm) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [SOLACE REMIXES VOL\. 3](https://open.spotify.com/album/0JyrYXMS68GpBCC2I4iyNT) | 5:35 | 2020-03-18 | 2020-10-09 |
 | [Lost in Space](https://open.spotify.com/track/1OFMSWMwEiy5LJJCzzWknT) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Lost in Space](https://open.spotify.com/album/3yeNU4MOrkGAFMcH1LkXDa) | 3:42 | 2020-05-18 | 2022-04-20 |
@@ -1181,7 +1182,7 @@
 | [Points Beyond](https://open.spotify.com/track/4flMFYGf017exurWgh8scp) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Hardly A Day, Hardly A Night](https://open.spotify.com/album/3sXK7ip7DA3SZSKeYFbf6Q) | 5:26 | 2021-01-23 | 2022-04-21 |
 | [Polynesia](https://open.spotify.com/track/3MkIlbOnu8UCMt26nOQ31P) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Polynesia EP](https://open.spotify.com/album/0sieH424WlEgU2u6Z7YyfS) | 3:22 | 2020-03-17 | 2022-04-21 |
 | [Poolside Chill \(Super Chilled Lo\-Fi Remix\)](https://open.spotify.com/track/3aVpX48H8kYiAzeOrFql6N) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Poolside Chill \(Super Chilled Lo\-Fi Remix\)](https://open.spotify.com/album/4BvRQ4EI84ZyvNPLIpZKnF) | 3:18 | 2020-05-18 | 2021-03-10 |
-| [Portals](https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Portals](https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW) | 3:51 | 2024-03-08 |  |
+| [Portals](https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Portals](https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW) | 3:51 | 2024-03-08 | 2024-11-14 |
 | [Positive Vibe](https://open.spotify.com/track/1iPnHP67gobIfXyk6kjYrC) | [SAINT WKND](https://open.spotify.com/artist/4vO1cl2ndGrUPSl6IYTHs6) | [Big Beat Ignition Miami 2015](https://open.spotify.com/album/2MfAVFInryk5YQcaaJov8c) | 3:02 | 2020-05-18 | 2020-07-03 |
 | [POV \(with NEVRMIND\)](https://open.spotify.com/track/63fzBjCtxxS0peGMkyTfVP) | [LILO](https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA), [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [POV \(with NEVRMIND\)](https://open.spotify.com/album/3cHmRL9soTP6s1XFJNkUyo) | 2:34 | 2022-02-04 | 2022-02-09 |
 | [Pray for Us](https://open.spotify.com/track/49X931MF0VVnHFkhVU3M5r) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 4:46 | 2020-04-03 | 2020-10-09 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 10261,
+  "num_followers": 10312,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzFJAAAAAAAZLLK5Df7Qi6YkZPFOHqPX",
+  "snapshot_id": "ZzKagAAAAAAy9OkYcPconeCFVbJN00IJ",
   "tracks": [
     {
       "added_at": null,
@@ -171,26 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 204253,
-      "name": "ROSA PASTEL",
-      "url": "https://open.spotify.com/track/4yjeRuoVickg1G87LWeRes"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LA ODISEA",
         "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 123096,
       "name": "AMIRI",
       "url": "https://open.spotify.com/track/3dpBkXMbRdDQ6ZhcxFufQp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 204253,
+      "name": "ROSA PASTEL",
+      "url": "https://open.spotify.com/track/4yjeRuoVickg1G87LWeRes"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
       "duration_ms": 273200,
       "name": "Jugando a Perder",
       "url": "https://open.spotify.com/track/2HCBHEC5GOevDnWTIP7OH3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Made In Paris",
-        "url": "https://open.spotify.com/album/27IGVp8LfUUZTISwgB6rkC"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 158306,
-      "name": "Made In Paris",
-      "url": "https://open.spotify.com/track/3Wt5VJAfUegajg4F3BEpVK"
     },
     {
       "added_at": null,
@@ -474,6 +458,70 @@
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Flow Criminal",
+      "url": "https://open.spotify.com/track/6xpHwnPBjrYACg3PRn5ltL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA ODISEA",
+        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 164343,
+      "name": "BARCELONA",
+      "url": "https://open.spotify.com/track/2cUyXIrVaHYXLny9TcPzRq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una \u00daltima Ocasi\u00f3n",
+        "url": "https://open.spotify.com/album/7HMRedku7U6wK6qoh0KgQv"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "Una \u00daltima Ocasi\u00f3n",
+      "url": "https://open.spotify.com/track/1C6WlgKPr1f4WDMy4MkzBU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nos Entendemos",
+        "url": "https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 176016,
+      "name": "Nos Entendemos",
+      "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vueltas De La Vida",
+        "url": "https://open.spotify.com/album/1EwUWq8uTZHRoAfnmo51W7"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         },
         {
           "name": "El Juanpa",
@@ -496,25 +544,9 @@
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 164343,
-      "name": "BARCELONA",
-      "url": "https://open.spotify.com/track/2cUyXIrVaHYXLny9TcPzRq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nos Entendemos",
-        "url": "https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 176016,
-      "name": "Nos Entendemos",
-      "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
+      "duration_ms": 232509,
+      "name": "HOLOCAUSTO NUCLEAR",
+      "url": "https://open.spotify.com/track/4khbwjIk7vG1NA0W3ILdoF"
     },
     {
       "added_at": null,
@@ -535,54 +567,6 @@
       "duration_ms": 186983,
       "name": "Escuela 4 Letras",
       "url": "https://open.spotify.com/track/2PPBEIRP1RfRpq0eEUjg5v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vueltas De La Vida",
-        "url": "https://open.spotify.com/album/1EwUWq8uTZHRoAfnmo51W7"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Flow Criminal",
-      "url": "https://open.spotify.com/track/6xpHwnPBjrYACg3PRn5ltL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LA ODISEA",
-        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 232509,
-      "name": "HOLOCAUSTO NUCLEAR",
-      "url": "https://open.spotify.com/track/4khbwjIk7vG1NA0W3ILdoF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Una \u00daltima Ocasi\u00f3n",
-        "url": "https://open.spotify.com/album/7HMRedku7U6wK6qoh0KgQv"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "Una \u00daltima Ocasi\u00f3n",
-      "url": "https://open.spotify.com/track/1C6WlgKPr1f4WDMy4MkzBU"
     },
     {
       "added_at": null,

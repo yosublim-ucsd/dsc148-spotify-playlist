@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: No Te Va Gustar
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,058 likes - 100 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,090 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 23 | [Al Lado Del Camino](https://open.spotify.com/track/4kO3ytUsym4fw60Szcglc5) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [No Sé Si Es Baires O Madrid](https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs) | 7:12 |
 | 24 | [Sueles Dejarme Solo \- Me Verás Volver Gira 2007](https://open.spotify.com/track/4i3gnxuqstxIUvnIZVDarh) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Gira Me Verás Volver](https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC) | 4:21 |
 | 25 | [Te quiero igual \- En directo 2005](https://open.spotify.com/track/7wZ0ik66T55ZFOIVWZ82sX) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El regreso](https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N) | 3:53 |
-| 26 | [Demoliendo Hoteles \- Live](https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 5:29 |
-| 27 | [My Love \- Acústico Gran Rex Vol\. 2](https://open.spotify.com/track/3YmSjzUch6kPXI8gAc16Ug) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Acústico Gran Rex, Vol\. 2](https://open.spotify.com/album/5FhGXJP1oaVkRnjoloyz4u) | 4:38 |
+| 26 | [My Love \- Acústico Gran Rex Vol\. 2](https://open.spotify.com/track/3YmSjzUch6kPXI8gAc16Ug) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Acústico Gran Rex, Vol\. 2](https://open.spotify.com/album/5FhGXJP1oaVkRnjoloyz4u) | 4:38 |
+| 27 | [Demoliendo Hoteles \- Live](https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 5:29 |
 | 28 | [Toro y Pampa \- En Vivo](https://open.spotify.com/track/43c4oelxnp0cVeFZZ4L4QL) | [Almafuerte](https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV) | [En Vivo Obras](https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT) | 3:48 |
 | 29 | [Savia \- Vivo en Luna Park](https://open.spotify.com/track/7lY5sUTwLclisN4n6iKBdz) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Los Lunáticos Planes de una Mariposa Incandescente \(Vivo en Luna Park\)](https://open.spotify.com/album/4gPo6XbIQfVywsTVYrT42E) | 4:54 |
 | 30 | [Chivo Expiatorio \- En Vivo](https://open.spotify.com/track/08THvDquCuP6yqDo5g5JLe) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Chivo Expiatorio \(En Vivo\)](https://open.spotify.com/album/5XNijTvm4ucpICcNvOH5Aj) | 4:58 |

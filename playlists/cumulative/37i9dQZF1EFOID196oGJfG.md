@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/65nBq6bgZmJvMvlnrFxyud">Rory Adams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-40 songs - 2 hr 7 min
+41 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [LA](https://open.spotify.com/track/5nRuGEeeqRQZ71fwIBLMxl) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Crossing More Than City Lines](https://open.spotify.com/album/7KIPA6botKqAyQWwX8jeDb) | 3:20 | 2024-09-08 |  |
 | [Look At Me Now](https://open.spotify.com/track/7lPb9P7WJ0PX4DcJxFQjqn) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [It's Your Bed Babe, It's Your Funeral](https://open.spotify.com/album/1sbCW0I7rP05Zyru3gSyiH) | 3:09 | 2024-06-13 |  |
 | [Loving Means Leaving](https://open.spotify.com/track/2ySKEa16GDpwon90g1cILI) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [A Heart Is a Terrible Thing to Break](https://open.spotify.com/album/6mBNXZGN2V1JmcUhjlxU3q) | 3:03 | 2024-09-20 |  |
-| [Mad At You](https://open.spotify.com/track/4mLMiTNQEYs4K1S9ZPkBxA) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Mad At You](https://open.spotify.com/album/4kEWnZJmyrbhnAvRGvVyrK) | 3:28 | 2024-06-13 |  |
+| [Mad at You](https://open.spotify.com/track/15xawByQGSgYAztg5aRc7g) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Mad at You](https://open.spotify.com/album/4mdm9IcJ8c4ymN2625XVzx) | 3:28 | 2024-11-13 |  |
+| [Mad At You](https://open.spotify.com/track/4mLMiTNQEYs4K1S9ZPkBxA) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Mad At You](https://open.spotify.com/album/4kEWnZJmyrbhnAvRGvVyrK) | 3:28 | 2024-06-13 | 2024-11-14 |
 | [New Trick](https://open.spotify.com/track/5goujnab2lLFg4mYfYRFE6) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [New Trick](https://open.spotify.com/album/1tTmm9wofKTikenwiATM4j) | 3:13 | 2024-06-13 |  |
 | [No Hard Feelings](https://open.spotify.com/track/5jtaYUfnk3dZ3VXlWGa4gL) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [No Hard Feelings](https://open.spotify.com/album/4v0Xc0dglvpfRkwr7CKCR2) | 3:25 | 2024-06-13 | 2024-11-11 |
 | [No Hard Feelings](https://open.spotify.com/track/7qpPnapb1VUCvr74EnaI4q) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [No Hard Feelings](https://open.spotify.com/album/72WLSIvdo0R4NuNHu4pEz7) | 3:25 | 2024-11-10 |  |

@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "PRETEND",
+        "url": "https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo"
+      },
+      "artists": [
+        {
+          "name": "PRETEND",
+          "url": "https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1500813,
+      "name": "1905: LaDonna's Surrogates part 1",
+      "url": "https://open.spotify.com/episode/7wzQMxsDvuwpWw1XCh4UNl"
+    },
+    {
+      "album": {
         "name": "Small Ball with Kenny Beecham",
         "url": "https://open.spotify.com/album/6eTEBCz1PHcQ4wg0yhi6RF"
       },
@@ -92,6 +110,24 @@
       "duration_ms": 3131324,
       "name": "Are NBA Fans Too Eager To \"Blow It Up\"?",
       "url": "https://open.spotify.com/episode/2W5DI2EkNhApyJN1o18sJs"
+    },
+    {
+      "album": {
+        "name": "I'm Right You're Wrong",
+        "url": "https://open.spotify.com/album/6wu9msV7ZBaOledxroPzmj"
+      },
+      "artists": [
+        {
+          "name": "I'm Right You're Wrong",
+          "url": "https://open.spotify.com/show/6wu9msV7ZBaOledxroPzmj"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2425108,
+      "name": "Being a Swiftie: Right or Wrong?",
+      "url": "https://open.spotify.com/episode/6mN7QxeUT0UPQURmox9Zrz"
     },
     {
       "album": {
@@ -326,6 +362,42 @@
       "duration_ms": 4091817,
       "name": "I'm Single. Again.",
       "url": "https://open.spotify.com/episode/7BHn9T7O3W62Lsi5HLob9r"
+    },
+    {
+      "album": {
+        "name": "Black People Love Paramore",
+        "url": "https://open.spotify.com/album/0aNC945DJjS2GbgAqRc1v3"
+      },
+      "artists": [
+        {
+          "name": "Black People Love Paramore",
+          "url": "https://open.spotify.com/show/0aNC945DJjS2GbgAqRc1v3"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4382824,
+      "name": "Love Is Blind SZN 7 FT. Garrick Bernard",
+      "url": "https://open.spotify.com/episode/7a8Kx5gvf0xNq1uRKLq4m8"
+    },
+    {
+      "album": {
+        "name": "Small Ball with Kenny Beecham",
+        "url": "https://open.spotify.com/album/6eTEBCz1PHcQ4wg0yhi6RF"
+      },
+      "artists": [
+        {
+          "name": "Small Ball with Kenny Beecham",
+          "url": "https://open.spotify.com/show/6eTEBCz1PHcQ4wg0yhi6RF"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4084532,
+      "name": "NBA Contenders or Pretenders",
+      "url": "https://open.spotify.com/episode/6FRtTHMIQOEyTBE4d3DkkX"
     },
     {
       "album": {

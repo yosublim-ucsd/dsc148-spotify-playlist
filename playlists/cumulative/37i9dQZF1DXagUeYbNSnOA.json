@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring BADS. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring Daniela Arredondo. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 235294,
       "name": "(re) play",
       "url": "https://open.spotify.com/track/0EixxREQRVD04F9YkBsbdI"
@@ -7519,6 +7519,24 @@
     },
     {
       "album": {
+        "name": "Chapi",
+        "url": "https://open.spotify.com/album/1xyZfhDVkljU4gFUsHW1TN"
+      },
+      "artists": [
+        {
+          "name": "Bien Parecidos",
+          "url": "https://open.spotify.com/artist/242FQaQBKVz44zol1TCQEy"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225636,
+      "name": "Chapi",
+      "url": "https://open.spotify.com/track/1SA8us09erhQzmyPtmukmQ"
+    },
+    {
+      "album": {
         "name": "CHEKE-CHEKE",
         "url": "https://open.spotify.com/album/6CmWee1b2NwxX3S6xVC9qt"
       },
@@ -9467,6 +9485,28 @@
     },
     {
       "album": {
+        "name": "Cuentos de Hadas",
+        "url": "https://open.spotify.com/album/42YdWleChKhMQoMJI7st48"
+      },
+      "artists": [
+        {
+          "name": "Joven Breakfast",
+          "url": "https://open.spotify.com/artist/5kWpJQ4Bvmm1RcibWmx5tT"
+        },
+        {
+          "name": "Dumelefant",
+          "url": "https://open.spotify.com/artist/6Yaka3hMhE4DvmtSgxVgA2"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190143,
+      "name": "Cuentos de Hadas",
+      "url": "https://open.spotify.com/track/4vrEU9yR2WfaygWRcjo34L"
+    },
+    {
+      "album": {
         "name": "El Ruido de las Formas",
         "url": "https://open.spotify.com/album/0cdxOhTsRfKV7aNGfAbLZE"
       },
@@ -10951,6 +10991,24 @@
     },
     {
       "album": {
+        "name": "QUERER QUEDARSE QUERIENDO IRSE",
+        "url": "https://open.spotify.com/album/6GBGQ68zHOGo62jTErp4bN"
+      },
+      "artists": [
+        {
+          "name": "Chell",
+          "url": "https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93866,
+      "name": "Desde Que Te Fuiste",
+      "url": "https://open.spotify.com/track/4mz7RUK2FGuyNskC3CoHGT"
+    },
+    {
+      "album": {
         "name": "Deseo",
         "url": "https://open.spotify.com/album/4C5XlMxxgNZwKKGrg6M2gY"
       },
@@ -12146,7 +12204,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 175221,
       "name": "Domin\u00f3",
       "url": "https://open.spotify.com/track/7zMOd1xgXq55IGU7Gca1kd"
@@ -14310,7 +14368,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 182049,
       "name": "en el sill\u00f3n",
       "url": "https://open.spotify.com/track/5I9Dmz78zQanON1oipeJ8Y"
@@ -14966,7 +15024,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 201352,
       "name": "Es Hora",
       "url": "https://open.spotify.com/track/7aCZBkMatjmECHHuoVS3KE"
@@ -17514,6 +17572,28 @@
       "duration_ms": 197333,
       "name": "Go Do, Ep. 6",
       "url": "https://open.spotify.com/track/4AxzfkoaGo8dhuuVyXOHDK"
+    },
+    {
+      "album": {
+        "name": "En tu Ky Parqui\u00e9 mi <3",
+        "url": "https://open.spotify.com/album/05xxkPqSTZUe5iQQakS8Tz"
+      },
+      "artists": [
+        {
+          "name": "Laura Sof\u00eda",
+          "url": "https://open.spotify.com/artist/7JX6rkw6bRQ5ZPwPbtLbpf"
+        },
+        {
+          "name": "Janbo",
+          "url": "https://open.spotify.com/artist/5sMU7L9HxCDrHaQ88Fmt03"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/3Zv5FUXEvkQ6OT3U9u5owC"
     },
     {
       "album": {
@@ -20852,7 +20932,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 235250,
       "name": "LA SE\u00d1AL",
       "url": "https://open.spotify.com/track/77Ju9SRpHc9cB0cNJCRHCB"
@@ -26462,7 +26542,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 183126,
       "name": "Much Messi",
       "url": "https://open.spotify.com/track/6p5hkeUPrLvdkKQuJfYdil"
@@ -28784,7 +28864,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 141176,
       "name": "NO PUEDO VIVIR SIN TI",
       "url": "https://open.spotify.com/track/3LFmTL2Pe8DTl4kwGGVdGV"
@@ -29956,6 +30036,28 @@
       "duration_ms": 170307,
       "name": "Offline",
       "url": "https://open.spotify.com/track/4STNoDYDV4JzJcaL6ZocSU"
+    },
+    {
+      "album": {
+        "name": "Quema o Ilumina",
+        "url": "https://open.spotify.com/album/7j8xxj87pZFSbvdNgxxTpb"
+      },
+      "artists": [
+        {
+          "name": "La Zorra Zapata",
+          "url": "https://open.spotify.com/artist/3BuxRmHMbdWFDtwTQ2lwe5"
+        },
+        {
+          "name": "Ev",
+          "url": "https://open.spotify.com/artist/21EczEifDKebasemX58Jp8"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170185,
+      "name": "Oficio",
+      "url": "https://open.spotify.com/track/0GkHQzeq7UMQuTZSlOJ9xb"
     },
     {
       "album": {
@@ -31393,6 +31495,24 @@
     },
     {
       "album": {
+        "name": "Pastillas",
+        "url": "https://open.spotify.com/album/3mWjW6kkcyE2R1DF40BQqo"
+      },
+      "artists": [
+        {
+          "name": "Clara_mente",
+          "url": "https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200014,
+      "name": "Pastillas",
+      "url": "https://open.spotify.com/track/51SYnvMbQqIiw8EbGh2HZK"
+    },
+    {
+      "album": {
         "name": "Patio de Adelante",
         "url": "https://open.spotify.com/album/1J6C1qXMP2BCyCC2hRZrVj"
       },
@@ -32780,7 +32900,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 194278,
       "name": "Probablemente",
       "url": "https://open.spotify.com/track/4NGjlVVIzQeRYvrHMTatOp"
@@ -33819,6 +33939,24 @@
     },
     {
       "album": {
+        "name": "No Recuerdo Que So\u00f1\u00e9 Anoche o de Pronto Es Que Ya No Sue\u00f1o Xd",
+        "url": "https://open.spotify.com/album/3QF13IYyDQrMJJK7oIurOx"
+      },
+      "artists": [
+        {
+          "name": "Ricardito :c",
+          "url": "https://open.spotify.com/artist/6aZwZO827gIDumG0hzEqEA"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255711,
+      "name": "Qu\u00e9 Hacer en Caso de Perderlo Todo",
+      "url": "https://open.spotify.com/track/2dpz1cC8JBazX8zKC5CbmW"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Mal Se Me Da Fingir",
         "url": "https://open.spotify.com/album/03VsyO59eQOQ2Ev8EBpDUi"
       },
@@ -34238,6 +34376,24 @@
       "duration_ms": 163224,
       "name": "Rebotan",
       "url": "https://open.spotify.com/track/4K6IcDW1r3zienDyNRVXzD"
+    },
+    {
+      "album": {
+        "name": "recl\u00e1mame",
+        "url": "https://open.spotify.com/album/5kbXuLkceBpNq14EM4YjPV"
+      },
+      "artists": [
+        {
+          "name": "Daniela Arredondo",
+          "url": "https://open.spotify.com/artist/0HyOOT0sKxLVRVRNwN8stq"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179096,
+      "name": "recl\u00e1mame",
+      "url": "https://open.spotify.com/track/1dZMApRtYOp5QtKDgLYzPi"
     },
     {
       "album": {
@@ -36774,7 +36930,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 165111,
       "name": "Silencios",
       "url": "https://open.spotify.com/track/0Xt5hYcMixcTvxRohl5pxj"
@@ -41419,6 +41575,24 @@
     },
     {
       "album": {
+        "name": "Tu Llamada",
+        "url": "https://open.spotify.com/album/6E9iHBPtMROOTEHzLyxWyF"
+      },
+      "artists": [
+        {
+          "name": "Marala",
+          "url": "https://open.spotify.com/artist/2EbQ6mjR12geORA4D9DTVq"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138502,
+      "name": "Tu Llamada",
+      "url": "https://open.spotify.com/track/61nqvUkHZfCqZlzg4uW9j8"
+    },
+    {
+      "album": {
         "name": "Tu Locura",
         "url": "https://open.spotify.com/album/1XoJrWQI4e65mYDsrO7LYp"
       },
@@ -41878,6 +42052,24 @@
       "duration_ms": 155004,
       "name": "T\u00d3XICA",
       "url": "https://open.spotify.com/track/6ahdxx6xNTnA2MVDxhS3we"
+    },
+    {
+      "album": {
+        "name": "t\u00fa",
+        "url": "https://open.spotify.com/album/398lZcPaZlD7ZcHKUjluao"
+      },
+      "artists": [
+        {
+          "name": "Amuna",
+          "url": "https://open.spotify.com/artist/7gtLIOTPwX9CdZttm7ETVt"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179402,
+      "name": "t\u00fa",
+      "url": "https://open.spotify.com/track/0wClBN6LW9AiWHNDdkTsv3"
     },
     {
       "album": {
@@ -42638,7 +42830,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 198400,
       "name": "Unx Para El Otrx",
       "url": "https://open.spotify.com/track/28ygpQlr4cz9AQmopbJlIP"
@@ -44303,6 +44495,24 @@
     },
     {
       "album": {
+        "name": "Y Nada Sirve",
+        "url": "https://open.spotify.com/album/6uciJQidm2CY2M127Ei5Vq"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266666,
+      "name": "Y Nada Sirve",
+      "url": "https://open.spotify.com/track/4NtSf2833RafoCkuKrrSEi"
+    },
+    {
+      "album": {
         "name": "Y No Me Digan Nada",
         "url": "https://open.spotify.com/album/2AvUr6qexfvypIPEcL1bRI"
       },
@@ -44582,7 +44792,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 161531,
       "name": "Yanopuedom\u00e1s!",
       "url": "https://open.spotify.com/track/5GKrz9JSlnoYFs12Hzbm75"

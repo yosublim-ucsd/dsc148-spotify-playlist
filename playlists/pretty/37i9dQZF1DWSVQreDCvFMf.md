@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Denise Julia
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,087 likes - 79 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,117 likes - 79 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 6 | [KPG](https://open.spotify.com/track/0kFjcEbZKRy6IjtUTmNvC3) | [Liel](https://open.spotify.com/artist/1jrYfEdTDqMZBPQpXzEBlG) | [KPG](https://open.spotify.com/album/4jkjJKgRMRsjhgNbE6Ij8K) | 3:14 |
 | 7 | [kiss](https://open.spotify.com/track/4WoFk6eYCFzln1TlbmY9kB) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [kiss](https://open.spotify.com/album/00soTzV3z8l97RY0Z26l69) | 2:40 |
 | 8 | [When This Is Over](https://open.spotify.com/track/72ezguRtLrIJmYmKDlfwqU) | [Elise Huang](https://open.spotify.com/artist/7BpTHJjMVI0B2WFeO2UYTi), [barb.](https://open.spotify.com/artist/3c97nGqpNhVKMhxn8zEB33) | [When This Is Over](https://open.spotify.com/album/5jVbIiCW8adtS2s1JB1upv) | 3:30 |
-| 9 | [Ganda Gandahan](https://open.spotify.com/track/257uKMQiyZ4audCBnYOeHc) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Ganda Gandahan](https://open.spotify.com/album/2ks1JP6W8xJugERaZa4vYU) | 3:36 |
+| 9 | [Ganda Gandahan](https://open.spotify.com/track/7z0v3qOhT5DxMJIDdOsDb3) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Ganda Gandahan](https://open.spotify.com/album/1FmM5DN3H4TgA4c8gdEl7G) | 3:47 |
 | 10 | [Pag\-asa](https://open.spotify.com/track/6R7rgKajdeEl3SRL5sUCXo) | [Guddhist Gunatita](https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL), [LOIR](https://open.spotify.com/artist/2wNzD7tmG11cqjFBbzo7Qn) | [Pag\-asa](https://open.spotify.com/album/47DWeKvWujInh8xiR4MFWq) | 3:33 |
 | 11 | [Nobya](https://open.spotify.com/track/6eBIvH2ARm4psC3kkbARSn) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Nobya](https://open.spotify.com/album/5Bhm5NsqTDSjBdUzoWripN) | 6:18 |
 | 12 | [San Ka Na](https://open.spotify.com/track/06EgbrpVPxamQ0dl0aygNM) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [San Ka Na](https://open.spotify.com/album/1LclfphmHU5JfhtFnUEUHP) | 3:54 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 78 | [Halikana](https://open.spotify.com/track/2bdSVYtbQe5RWW6g4kXIsO) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD), [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76), [NEXXFRIDAY](https://open.spotify.com/artist/6yWj0mvdzglZZDHa0FHmpd) | [Halikana](https://open.spotify.com/album/6YOAxlb0s1MCSyfWsTdka3) | 3:23 |
 | 79 | [Nilalang](https://open.spotify.com/track/7eMn5OCApyTgqrPPoLJWBq) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Nilalang](https://open.spotify.com/album/7vTwHNQJy2vVhbhDfmF6NY) | 3:29 |
 
-Snapshot ID: `ZzFmdgAAAABhIWi9xXW5IGXsLJVe//EM`
+Snapshot ID: `ZzQ5MgAAAAB3p0TmRC1UqVqt+weRH7oZ`

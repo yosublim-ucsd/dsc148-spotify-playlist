@@ -4,7 +4,7 @@
 
 > This is The Orb\. The essential tracks, all in one playlist.
 
-151 songs - 17 hr 37 min
+152 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,13 +25,14 @@
 | [Afterlife Aftershave \- Edit](https://open.spotify.com/track/3ySjD4n8uzCOeToDXyvZdp) | [Sedibus](https://open.spotify.com/artist/1lUshJ8UbLawZ3bH85qgA4), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [The Heavens](https://open.spotify.com/album/2bTeiXCBjfsKnGnezvw7DB) | 2:58 | 2022-11-26 |  |
 | [Aftermath](https://open.spotify.com/track/1MEg8EFDiwoqGmfVHhwxCi) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/194FGE9Sv4NPR3PhV5qE4f) | 4:41 | 2024-11-13 |  |
 | [Alpine Evening](https://open.spotify.com/track/3oyl7c3ZpYHFXoHiXRN9HM) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Alpine](https://open.spotify.com/album/2aRIXuVdStO3RgqEco9JeF) | 7:04 | 2022-05-29 | 2023-04-17 |
+| [Appletree in My Back Yard \- Abakus Remix](https://open.spotify.com/track/5pWNaXf3UDvnHt8x5KqBkC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Abakus](https://open.spotify.com/artist/5EEbMGQOwrTuy51Vin8bL1) | [Orboretum: The Orb Collection](https://open.spotify.com/album/194FGE9Sv4NPR3PhV5qE4f) | 8:47 | 2024-11-14 |  |
 | [Ashes](https://open.spotify.com/track/1SFuW1Sh6V9JJf0ezWIPbJ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Presents the Orbserver in the Star House](https://open.spotify.com/album/6w2RmVdD0JqHDyeYOlzhIm) | 1:25 | 2022-07-20 | 2024-05-16 |
 | [Ashes \- Instrumental](https://open.spotify.com/track/5vlGUqV9vlrAFZ8fCDuCM7) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Orbserving the Star House in Dub](https://open.spotify.com/album/2AKZakkQgcQd6SDGhzjDYu) | 1:42 | 2023-08-19 | 2023-12-14 |
 | [Assassin \- 7" Mix](https://open.spotify.com/track/5WEvbsbM847PuXY9rN2oXK) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lewis Jeffrey Keogh](https://open.spotify.com/artist/3aconsfN9TuGZZLnpYc1aR), [Alex Paterson](https://open.spotify.com/artist/0Xz8JZqrvS1ArSRlyBSMIT), [Kris Weston](https://open.spotify.com/artist/4bmVsbWaYlwvy29rrWaA7b) | [The Orb \- History Of The Future \(Deluxe Edition\)](https://open.spotify.com/album/7cUZK5ii1GJqR4rYoVflfi) | 3:41 | 2022-05-31 |  |
 | [Asylum](https://open.spotify.com/track/07QwYSsx6bKV5Ye5OgHUJJ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orblivion](https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn) | 5:19 | 2022-05-29 |  |
 | [Back Side Of The Moon](https://open.spotify.com/track/26txolfsixS8C767jpTREx) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 14:14 | 2022-05-29 |  |
 | [Ball of Fire](https://open.spotify.com/track/41Dci0Gdz1RatEXwLEl8z9) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Presents the Orbserver in the Star House](https://open.spotify.com/album/6w2RmVdD0JqHDyeYOlzhIm) | 4:11 | 2022-05-29 | 2024-10-11 |
-| [Bedouin](https://open.spotify.com/track/0D657mUEeTbY2nmeNyU2Vq) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orblivion](https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn) | 4:31 | 2022-06-01 |  |
+| [Bedouin](https://open.spotify.com/track/0D657mUEeTbY2nmeNyU2Vq) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orblivion](https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn) | 4:31 | 2022-06-01 | 2024-11-14 |
 | [Blue Room \- 7" Mix](https://open.spotify.com/track/6yqPrme30dPVQqUSO8qSHA) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [The Orb \- History Of The Future \(Deluxe Edition\)](https://open.spotify.com/album/7cUZK5ii1GJqR4rYoVflfi) | 3:53 | 2022-05-29 |  |
 | [Centre of the Triangle](https://open.spotify.com/track/4prpxysBAaFArGqhqTg0Rc) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/5sUcXUKA5wS4YWL6IJ61Kv) | 4:35 | 2023-06-18 | 2024-01-11 |
 | [Close Encounters](https://open.spotify.com/track/1aeZX0loVCwqh1x9k7SpVw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/43IjwHiCTNByxDGZFpZ4Sb) | 10:27 | 2022-05-29 | 2023-05-14 |

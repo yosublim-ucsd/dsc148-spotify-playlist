@@ -3563,6 +3563,24 @@
     },
     {
       "album": {
+        "name": "Valtatie Tuonelaan",
+        "url": "https://open.spotify.com/album/17NL4b2ssvOyIifGBEPBvW"
+      },
+      "artists": [
+        {
+          "name": "MIN\u00c4MIN\u00c4",
+          "url": "https://open.spotify.com/artist/3xuRSjlTXFHrbECRrQLTdl"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207480,
+      "name": "Valtatie Tuonelaan",
+      "url": "https://open.spotify.com/track/3RrSsuJPFQBx5u11R7H0Xm"
+    },
+    {
+      "album": {
         "name": "Vapauteen",
         "url": "https://open.spotify.com/album/08LDifosqmFUiqOHzf2FgY"
       },

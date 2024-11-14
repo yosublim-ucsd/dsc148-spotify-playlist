@@ -1343,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "Laleler Beyaz",
+        "url": "https://open.spotify.com/album/6QlahLGtmsSu94e6dT9Gtd"
+      },
+      "artists": [
+        {
+          "name": "Dilhan \u015ee\u015fen",
+          "url": "https://open.spotify.com/artist/3Xq8A0LnlgWAIFOaRM6LE1"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264874,
+      "name": "Laleler Beyaz",
+      "url": "https://open.spotify.com/track/2QTpa3t9Jl913GbfiTJxjQ"
+    },
+    {
+      "album": {
         "name": "Mahvettim",
         "url": "https://open.spotify.com/album/5yiS1Re5SgJ3Q9VxRF8TyT"
       },
@@ -1372,7 +1390,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 180800,
       "name": "Mazide",
       "url": "https://open.spotify.com/track/78Ph3Ffyp3vV0BqaBLJRXN"
@@ -1924,7 +1942,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-13",
+      "date_removed": null,
       "duration_ms": 152699,
       "name": "S\u00f6yle",
       "url": "https://open.spotify.com/track/3GJtSiuMC5cGk2d3tYKPEy"
@@ -2652,7 +2670,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 171428,
       "name": "\u00c7\u00f6p\u00e7\u00fcler",
       "url": "https://open.spotify.com/track/3Mj1V9zwJpq7xtnaeLpVga"

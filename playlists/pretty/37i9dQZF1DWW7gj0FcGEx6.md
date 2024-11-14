@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,550 likes - 244 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,576 likes - 244 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 64 | [Main Title Theme \(from "The Regime"\)](https://open.spotify.com/track/2XqV2kzEGpFuBN9hNakrmz) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The Regime \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/2lknnn58t1IG0x5m4BLjYK) | 1:32 |
 | 65 | [New Year's Baby](https://open.spotify.com/track/61qUCJZLMegoHpwnowF08U) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l) | [We Live in Time \(Original Soundtrack\)](https://open.spotify.com/album/1PrU2ieOlBJw0DOIYeAkIi) | 1:16 |
 | 66 | [Can You Hear The Music](https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 1:50 |
-| 67 | [KAOS I](https://open.spotify.com/track/0F2qupuPej1RqXOq7v3ALs) | [Isabella Summers](https://open.spotify.com/artist/3lXo0AHcUyMiTt1VCtXJmj) | [KAOS \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7gp3Y9paQrfxmk0p6dSnuy) | 12:31 |
+| 67 | [KAOS I](https://open.spotify.com/track/0F2qupuPej1RqXOq7v3ALs) | [Isabella Summers](https://open.spotify.com/artist/3lXo0AHcUyMiTt1VCtXJmj) | [KAOS \(Score from the Netflix Series\)](https://open.spotify.com/album/7gp3Y9paQrfxmk0p6dSnuy) | 12:31 |
 | 68 | [A Time of Quiet Between the Storms](https://open.spotify.com/track/18bwTFfiQi3cGbU61l1OIj) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [A Time of Quiet Between the Storms / Harvester Attack \(from "Dune: Part Two"\)](https://open.spotify.com/album/31iFZsioqZFiA59rV3I4L7) | 4:21 |
 | 69 | [North Elm](https://open.spotify.com/track/54myHxp2QDSfB4EcVbaGvX) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK), [Julia Newman](https://open.spotify.com/artist/1vtV3L1qFm3hrZq5cGm0ll) | [Monsters: The Lyle and Erik Menendez Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0Jq2GDZ4mfpwHqlwmpofLu) | 1:41 |
 | 70 | [Is Robin Possessed?](https://open.spotify.com/track/2GS5z5c1xmyjfNNdyKjBgE) | [Fabrizio Mancinelli](https://open.spotify.com/artist/0EvQan1jy6OCJeQZYcTShK) | [Here After \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WKqEPD9T1YMlxm8pSIDhw) | 2:17 |

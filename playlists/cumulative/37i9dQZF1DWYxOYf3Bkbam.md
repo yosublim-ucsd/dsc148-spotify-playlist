@@ -4,7 +4,7 @@
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-178 songs - 9 hr 27 min
+179 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Mi Caballo Bayo](https://open.spotify.com/track/3iCMhCbsCPA91D1NQDZaNg) | [Conjunto Ivoti](https://open.spotify.com/artist/1hwojP1Bi7ipcn0qFbe8tP), [J\. C\. Mansilla](https://open.spotify.com/artist/2ZiY6mXjKkE7do2nMZ7R6b) | [30 Años Después](https://open.spotify.com/album/29qdVczira2f72fAfz51fB) | 2:57 | 2021-11-19 |  |
 | [Mi Estrella Perdida](https://open.spotify.com/track/47ugki7NC3Nb0lwUZQEqzd) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H) | [Mi Estrella Perdida](https://open.spotify.com/album/1gZEqHoM4jZF6OCHNZWuAu) | 4:08 | 2021-11-19 |  |
 | [Mi ponchillo colorado](https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP) | [Mario Millán Medina](https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:24 | 2021-11-19 |  |
+| [Mi Primer Amor \- Versión Chamamé](https://open.spotify.com/track/6MUOEPhADhWrwYk1JQLNQ6) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Mi Primer Amor \- Version Chamamé](https://open.spotify.com/album/6FApf1TbGRBTBuGqyhB3GE) | 2:43 | 2024-11-12 |  |
 | [Mi pueblo, mi casa, la soledad](https://open.spotify.com/track/2Svc7x1VqoBLhWwY8guJ0p) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY), [Jacques Morelenbaum](https://open.spotify.com/artist/7L1GdQNvBnvKltqr3HQchx) | [Eiké! \- Entrar en el alma](https://open.spotify.com/album/1cNTV1xuWtGY0J6hWTimjP) | 5:02 | 2023-06-09 | 2024-04-19 |
 | [Mi pueblo, mi casa, la soledad](https://open.spotify.com/track/3M1TkSTS4amqgMhRK70mu3) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d) | [Mi pueblo, mi casa, la soledad](https://open.spotify.com/album/1jZPXH4WVGKacnfL7Si41p) | 5:02 | 2023-04-21 | 2023-08-24 |
 | [Mi Triste Fantasia](https://open.spotify.com/track/3zak0TGVmH7wrFuwPXBfjC) | [Duo Cejas Solis](https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1) | [Dúo Cejas Solís](https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS) | 2:06 | 2021-11-19 | 2022-07-28 |

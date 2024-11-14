@@ -989,6 +989,24 @@
     },
     {
       "album": {
+        "name": "Las Grandes Damas",
+        "url": "https://open.spotify.com/album/0POeKgQRRh1ayPEY0wcj20"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163343,
+      "name": "El Yerberito Moderno",
+      "url": "https://open.spotify.com/track/5zyF3dvHQbarJH35TcCIde"
+    },
+    {
+      "album": {
         "name": "Serie Inmortales - Lo Mejor De Sus Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/221BOpmT0GayBh73DPISuF"
       },
@@ -1242,7 +1260,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 166200,
       "name": "Juancito Trucupey",
       "url": "https://open.spotify.com/track/2QPG2p6h37YhkJCzceqrrP"

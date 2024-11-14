@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Queendom, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Outsky, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -971,6 +971,28 @@
     },
     {
       "album": {
+        "name": "Ab Jab Milna",
+        "url": "https://open.spotify.com/album/0R3dOkOmwhynqHBfnByCYx"
+      },
+      "artists": [
+        {
+          "name": "Abhinav Rana",
+          "url": "https://open.spotify.com/artist/4AVvv8ekoOi3LYAkLUUCNi"
+        },
+        {
+          "name": "ISHH",
+          "url": "https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Ab Jab Milna",
+      "url": "https://open.spotify.com/track/0DcGxAwr6uxWGwiDNuqzdq"
+    },
+    {
+      "album": {
         "name": "Ab Meri Hai",
         "url": "https://open.spotify.com/album/1uJacZbgHiANozMekSodWq"
       },
@@ -1218,7 +1240,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 190399,
       "name": "Ajeeb Si Ladki",
       "url": "https://open.spotify.com/track/7FVpM7rBT9QfOYxfId4LlC"
@@ -1934,7 +1956,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 144000,
       "name": "Aur Tum",
       "url": "https://open.spotify.com/track/7fcQITSIckiN3LheIKX8yE"
@@ -2750,7 +2772,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 304000,
       "name": "Beautiful Mess",
       "url": "https://open.spotify.com/track/2HJnaaTpQhL8Y9Pea64fQt"
@@ -3012,7 +3034,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 154874,
       "name": "Bekhabar",
       "url": "https://open.spotify.com/track/2A6KE8vn1BBzPagGdZoKhi"
@@ -4781,6 +4803,28 @@
     },
     {
       "album": {
+        "name": "Coming for You",
+        "url": "https://open.spotify.com/album/4i3gPjOz4JnDJNPTZI7lfI"
+      },
+      "artists": [
+        {
+          "name": "Hommie Dilliwala",
+          "url": "https://open.spotify.com/artist/4nK9FAS3HuQXcJva8gEWYT"
+        },
+        {
+          "name": "Priyanshi Srivastava",
+          "url": "https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198230,
+      "name": "Coming for You",
+      "url": "https://open.spotify.com/track/3tWGbrRk2nfzd0LBeM8X1O"
+    },
+    {
+      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/1uH12t5IkBn95cmGf3GalY"
       },
@@ -5864,6 +5908,28 @@
       "duration_ms": 197877,
       "name": "Dil Reh Gaya Banke Tera",
       "url": "https://open.spotify.com/track/1iWiMEHO78omjd9riA77UB"
+    },
+    {
+      "album": {
+        "name": "Dil Se Jo Poocha",
+        "url": "https://open.spotify.com/album/1X8BE2TNnlSQd5BWmgf7Ku"
+      },
+      "artists": [
+        {
+          "name": "AKG",
+          "url": "https://open.spotify.com/artist/1p82NAmbk637NmFTzx8Drw"
+        },
+        {
+          "name": "Atul Gupta",
+          "url": "https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148374,
+      "name": "Dil Se Jo Poocha",
+      "url": "https://open.spotify.com/track/6L0bMBsrawngv4HxOYpouu"
     },
     {
       "album": {
@@ -8018,7 +8084,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 192608,
       "name": "Glory Days",
       "url": "https://open.spotify.com/track/2a61B7VtiXvHa8YgBGbBVR"
@@ -8178,6 +8244,24 @@
       "duration_ms": 129289,
       "name": "Gulmohar",
       "url": "https://open.spotify.com/track/0ijqrMfgYv1ZczeEHi8JnM"
+    },
+    {
+      "album": {
+        "name": "Gum Ho",
+        "url": "https://open.spotify.com/album/5kD37erDTPjLvdvx4OeAUo"
+      },
+      "artists": [
+        {
+          "name": "Leonard Hansda",
+          "url": "https://open.spotify.com/artist/6jlgxxWNs8DkVLNLzgstZk"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211867,
+      "name": "Gum Ho",
+      "url": "https://open.spotify.com/track/410H8hAZ6C3HD8fIfHsXiG"
     },
     {
       "album": {
@@ -10988,7 +11072,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 204451,
       "name": "Jag Changa",
       "url": "https://open.spotify.com/track/1JjbN8Mg1F3rfODww2rL6O"
@@ -13261,6 +13345,24 @@
     },
     {
       "album": {
+        "name": "Khoobsurat",
+        "url": "https://open.spotify.com/album/69aozNSI3ZyddwbuAmhdMV"
+      },
+      "artists": [
+        {
+          "name": "Outsky",
+          "url": "https://open.spotify.com/artist/6RXWOzECN3KD4QSr4V7dmg"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Khoobsurat",
+      "url": "https://open.spotify.com/track/2P3QMMnFUShtpfzZ5OpAje"
+    },
+    {
+      "album": {
         "name": "Khota Pyaar",
         "url": "https://open.spotify.com/album/4AqYTOcwbozZUZd1dkDpOh"
       },
@@ -15049,6 +15151,24 @@
     },
     {
       "album": {
+        "name": "Little White Door",
+        "url": "https://open.spotify.com/album/75EOInUK5niyR9Ylg421e2"
+      },
+      "artists": [
+        {
+          "name": "Zeba Tommy",
+          "url": "https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237480,
+      "name": "Little White Door",
+      "url": "https://open.spotify.com/track/0HPyticWnw9M0sqayUpLhh"
+    },
+    {
+      "album": {
         "name": "Log Kehte Hai",
         "url": "https://open.spotify.com/album/22WL7wESEsj5omycIyQ97q"
       },
@@ -15338,6 +15458,24 @@
       "duration_ms": 141323,
       "name": "Maan Jana",
       "url": "https://open.spotify.com/track/0eUNQDr5lOIRP2U741IKK5"
+    },
+    {
+      "album": {
+        "name": "Madam President",
+        "url": "https://open.spotify.com/album/5UbNoikBHpmzjII7fpi7VA"
+      },
+      "artists": [
+        {
+          "name": "Judy on the run",
+          "url": "https://open.spotify.com/artist/2Q40QosdAX9Ov9mlFO6oOB"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136128,
+      "name": "Madam President",
+      "url": "https://open.spotify.com/track/6K7Y2pklk1O2GewFajdREH"
     },
     {
       "album": {
@@ -16164,7 +16302,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 290307,
       "name": "Mayanagari",
       "url": "https://open.spotify.com/track/6sro9yMbJ6yTJPNT5uATi8"
@@ -23717,6 +23855,24 @@
     },
     {
       "album": {
+        "name": "Khudsar",
+        "url": "https://open.spotify.com/album/6Q8fOravYbUobeGtgQmROs"
+      },
+      "artists": [
+        {
+          "name": "Ehsaas Band",
+          "url": "https://open.spotify.com/artist/0O9IGVhIDZ5UxKptHpPzi7"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272701,
+      "name": "Tanhai",
+      "url": "https://open.spotify.com/track/5u6JqmciKTuGpOsWEYed8z"
+    },
+    {
+      "album": {
         "name": "Tarse Naina",
         "url": "https://open.spotify.com/album/1bFwgI59XKYIfKwHiyfiH9"
       },
@@ -24144,7 +24300,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 226875,
       "name": "Tere Liye",
       "url": "https://open.spotify.com/track/1XCwQgyGq2peFU9KugWdCr"

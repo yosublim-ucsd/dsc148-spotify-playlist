@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,368 likes - 115 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,367 likes - 115 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 66 | [Flame](https://open.spotify.com/track/4menArgtu2QyKU36ngRguV) | [Laine Hardy](https://open.spotify.com/artist/2e4sMCgdXD5TkFquoTEA4j) | [Flame](https://open.spotify.com/album/5WGyqoyK5USGcp30aBHdpm) | 2:38 |
 | 67 | [That's How I'm Feelin' \(feat\. Pitbull & Missy Elliott\)](https://open.spotify.com/track/6VKCyfMweQ2qQqNWOgUjU0) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:58 |
 | 68 | [Solo Quiero \(Somebody To Love\) \- From Songland](https://open.spotify.com/track/0eXEFvCwPFyGNo8SOSn0fB) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Solo Quiero \(Somebody To Love\) \[From Songland\]](https://open.spotify.com/album/72jUFUDCBSH8NVGH9TyDp8) | 2:52 |
-| 69 | [Love And War](https://open.spotify.com/track/4EmF2ApQBf996DrHIi2OGp) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [ORA](https://open.spotify.com/album/3wVudWLcF1D7jK5kTj6hlA) | 3:35 |
-| 70 | [Voir la nuit s'emballer](https://open.spotify.com/track/7n3FfSmWKuzeStLNzSqL7g) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [R.E.D\. \(Rythmes Extrêmement Dangereux\)](https://open.spotify.com/album/6nYZskSEVxpFZ0y0N4j7N5) | 4:02 |
+| 69 | [Voir la nuit s'emballer](https://open.spotify.com/track/7n3FfSmWKuzeStLNzSqL7g) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [R.E.D\. \(Rythmes Extrêmement Dangereux\)](https://open.spotify.com/album/6nYZskSEVxpFZ0y0N4j7N5) | 4:02 |
+| 70 | [Love And War](https://open.spotify.com/track/4EmF2ApQBf996DrHIi2OGp) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [ORA](https://open.spotify.com/album/3wVudWLcF1D7jK5kTj6hlA) | 3:35 |
 | 71 | [Psycho](https://open.spotify.com/track/4kvX7vpWzQ2dsLkpDKFxXA) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Space](https://open.spotify.com/album/7GwxgUetlgERKVoIuw7dUP) | 4:11 |
 | 72 | [All I Want \- From “Star” Season 2](https://open.spotify.com/track/3DXhdfi3qt6Mn8OAojIezA) | [Star Cast](https://open.spotify.com/artist/6UKDgKJpv0MCwiQHbllkfR), [Brittany O’Grady](https://open.spotify.com/artist/0d6oqX4dLHg29y8zf0K8Ab), [Evan Ross](https://open.spotify.com/artist/2DJndwwEpPtnmQn48NPBUM) | [All I Want \(From “Star” Season 2\)](https://open.spotify.com/album/2l3WaX3voHKcFCp7YFPhGG) | 3:05 |
 | 73 | [That High \(feat\. Kelly Rowland\)](https://open.spotify.com/track/0zbAkytd9gbRmWpmri6BbF) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:14 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 114 | [Gotta Get Up](https://open.spotify.com/track/4qfJUsO8ede16DZDcT5LA1) | [Haven Burton](https://open.spotify.com/artist/10ZqjgXYftp9SFt7f2wHZh), [Lilias White](https://open.spotify.com/artist/2vCRuRgI4PMtjQoNP1y4Fq), [Georgia Engel](https://open.spotify.com/artist/41ikFrMg552IvT5cpKTYE0), [Company of HALF TIME](https://open.spotify.com/artist/3fIoUPRtPSrCxWxOJFQPlx) | [HALF TIME \(Original Cast Recording\)](https://open.spotify.com/album/6HuEqXAEaG5Pvv4JnOKoR9) | 3:54 |
 | 115 | [Hurt Me](https://open.spotify.com/track/18LmvXtZWlNLzuQIqYi3IY) | [Remedy A Cappella](https://open.spotify.com/artist/3JvshbwnBNF1ESTeUVEgcN) | [Waves](https://open.spotify.com/album/7zup9UzCjOqh6wjVfuvpDV) | 3:20 |
 
-Snapshot ID: `AbhVoAAAAADC/y1PoFtZSsaciAuIyTka`
+Snapshot ID: `AbhbaAAAAACRRG1W8qg+8Oyy6YDlwJpJ`

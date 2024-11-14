@@ -1,28 +1,32 @@
 {
-  "description": "The best new dance & electronic by independent artists and labels. Cover: Andre Zimmer. Artwork by Rewina Beshue.",
-  "num_followers": 186977,
+  "description": "The best new dance & electronic by independent artists and labels. Cover: dublon. Artwork by Rewina Beshue.",
+  "num_followers": 187073,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy5nsQAAAACVtZ0h1LZele18SzAFlTh9",
+  "snapshot_id": "ZzUATwAAAAATM0VQ4y5D8lUoJXBBbAjr",
   "tracks": [
     {
-      "added_at": "2024-11-06 18:55:29",
+      "added_at": "2024-11-13 19:38:55",
       "album": {
-        "name": "Let It Burn",
-        "url": "https://open.spotify.com/album/0TNpCIirrR70VqXvT20I5J"
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5UcjmnionWq0WqmpxXmfjD"
       },
       "artists": [
         {
-          "name": "Andre Zimmer",
-          "url": "https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA"
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "Con Cook",
+          "url": "https://open.spotify.com/artist/6akmHflFVzgeDWJtP98n7v"
         }
       ],
-      "duration_ms": 292727,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/5U6Og9OE4rpXyX9Ira4O4d"
+      "duration_ms": 125084,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/13LojN5HDhICPdgLz6QmIG"
     },
     {
       "added_at": "2024-11-08 19:34:09",
@@ -39,6 +43,38 @@
       "duration_ms": 161622,
       "name": "Back 2 Me",
       "url": "https://open.spotify.com/track/4ZWwOIi4ZaXe3abTVLkedj"
+    },
+    {
+      "added_at": "2024-11-13 19:38:55",
+      "album": {
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
+      },
+      "artists": [
+        {
+          "name": "Demay\u00e4",
+          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+        }
+      ],
+      "duration_ms": 263250,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
+    },
+    {
+      "added_at": "2024-11-13 19:38:55",
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/0ZNLNGlAMyibdrhHXyBzQQ"
+      },
+      "artists": [
+        {
+          "name": "Marc Gonen",
+          "url": "https://open.spotify.com/artist/7xdcLkcWfAhUVQGmQFwoRf"
+        }
+      ],
+      "duration_ms": 175556,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/3a0AsqDY11P66dLEKy1Mzf"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -89,36 +125,76 @@
       "url": "https://open.spotify.com/track/6VvCjNeAYmxNJfAy1826Qz"
     },
     {
-      "added_at": "2024-11-06 18:55:29",
+      "added_at": "2024-11-13 19:38:55",
       "album": {
-        "name": "Talk To Me",
-        "url": "https://open.spotify.com/album/0gMFBHnR0sxDoPErhrkr2u"
+        "name": "MeloDub (828)",
+        "url": "https://open.spotify.com/album/6CX3i8a1BXWTcq6BjteDXZ"
       },
       "artists": [
         {
-          "name": "axxa*",
-          "url": "https://open.spotify.com/artist/4MuTo1P8rBfII96fchcoF5"
+          "name": "MELODOWNZ",
+          "url": "https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H"
+        },
+        {
+          "name": "Hyan",
+          "url": "https://open.spotify.com/artist/6vuDNxdLvvXkOoAL9rZJBU"
+        },
+        {
+          "name": "Caru",
+          "url": "https://open.spotify.com/artist/2W3HtoJXnap6BDGYr8PRuv"
         }
       ],
-      "duration_ms": 218769,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/75scn2CBdwvWOutI2DJTyL"
+      "duration_ms": 160444,
+      "name": "MeloDub (828)",
+      "url": "https://open.spotify.com/track/6Oso2KmxBSa1D6PozQMQ7z"
     },
     {
-      "added_at": "2024-10-23 16:55:20",
+      "added_at": "2024-11-08 19:34:09",
       "album": {
-        "name": "Love to Be",
-        "url": "https://open.spotify.com/album/79hEBPfDvTigDqMKCM4CuG"
+        "name": "Pulsion",
+        "url": "https://open.spotify.com/album/2UdbQfdmzrwULw2UVnV6Wt"
       },
       "artists": [
         {
-          "name": "BAVHU",
-          "url": "https://open.spotify.com/artist/16cM5HFziqNPx2h4esvrOd"
+          "name": "AMNES",
+          "url": "https://open.spotify.com/artist/1NWWdL1ttPLXOnDwqJFrbJ"
         }
       ],
-      "duration_ms": 234461,
-      "name": "Love to Be",
-      "url": "https://open.spotify.com/track/4wFu6LtUmK8MXSTDBQbiuZ"
+      "duration_ms": 145490,
+      "name": "Pulsion",
+      "url": "https://open.spotify.com/track/3qbWjVhtY2DEqoCQETqNLA"
+    },
+    {
+      "added_at": "2024-11-06 18:55:29",
+      "album": {
+        "name": "Let It Burn",
+        "url": "https://open.spotify.com/album/0TNpCIirrR70VqXvT20I5J"
+      },
+      "artists": [
+        {
+          "name": "Andre Zimmer",
+          "url": "https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA"
+        }
+      ],
+      "duration_ms": 292727,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/5U6Og9OE4rpXyX9Ira4O4d"
+    },
+    {
+      "added_at": "2024-11-13 19:38:55",
+      "album": {
+        "name": "You Hear Me Girl?",
+        "url": "https://open.spotify.com/album/23UL3q9e67OOLTEwnn0W2d"
+      },
+      "artists": [
+        {
+          "name": "King James Lee",
+          "url": "https://open.spotify.com/artist/3LYywVlxrZIWgGpETLDuu9"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "You Hear Me Girl?",
+      "url": "https://open.spotify.com/track/7HF0JjmKjBkRBJsYfsSs6y"
     },
     {
       "added_at": "2024-10-02 18:02:38",
@@ -157,20 +233,24 @@
       "url": "https://open.spotify.com/track/2k5FAxgu8aIazgH66dYqbn"
     },
     {
-      "added_at": "2024-11-08 19:34:09",
+      "added_at": "2024-11-13 19:38:55",
       "album": {
-        "name": "Pulsion",
-        "url": "https://open.spotify.com/album/2UdbQfdmzrwULw2UVnV6Wt"
+        "name": "I Want You To Know",
+        "url": "https://open.spotify.com/album/2zAwgvpAckW8rG7vgiDCZS"
       },
       "artists": [
         {
-          "name": "AMNES",
-          "url": "https://open.spotify.com/artist/1NWWdL1ttPLXOnDwqJFrbJ"
+          "name": "Sam Alfred",
+          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
+        },
+        {
+          "name": "Kyle Starkey",
+          "url": "https://open.spotify.com/artist/1crvHImsszKXTJr4wsOPhe"
         }
       ],
-      "duration_ms": 145490,
-      "name": "Pulsion",
-      "url": "https://open.spotify.com/track/3qbWjVhtY2DEqoCQETqNLA"
+      "duration_ms": 190302,
+      "name": "I Want You To Know",
+      "url": "https://open.spotify.com/track/3lXC7mTOd15oE6nmrG0HLW"
     },
     {
       "added_at": "2024-11-06 18:55:29",
@@ -187,6 +267,26 @@
       "duration_ms": 151764,
       "name": "WANT U TO FEEL",
       "url": "https://open.spotify.com/track/5CSZFETFcuFuuLyBCqP3mt"
+    },
+    {
+      "added_at": "2024-11-13 19:38:55",
+      "album": {
+        "name": "Grey on the Pavement",
+        "url": "https://open.spotify.com/album/7vz9OVwkhZvvyl2Xy2Arl2"
+      },
+      "artists": [
+        {
+          "name": "LUPO.THEBOY",
+          "url": "https://open.spotify.com/artist/1syxKeEMdMzXsF2Cq6v62w"
+        },
+        {
+          "name": "HUUE",
+          "url": "https://open.spotify.com/artist/5huJSf6weSItBn6djBYOuk"
+        }
+      ],
+      "duration_ms": 191346,
+      "name": "Grey on the Pavement",
+      "url": "https://open.spotify.com/track/5Wf0NPQ3jYzILyIFicmeyb"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -207,18 +307,34 @@
     {
       "added_at": "2024-11-06 18:55:29",
       "album": {
-        "name": "Faded",
-        "url": "https://open.spotify.com/album/0ZDVQuFIkj8Uip56Vun6Vg"
+        "name": "Chase The Sun",
+        "url": "https://open.spotify.com/album/2Rvu0U87UkAIV2npJGNfNy"
       },
       "artists": [
         {
-          "name": "SKAI",
-          "url": "https://open.spotify.com/artist/2g7geQWdr5NIudJUYYFycd"
+          "name": "Jimi Latifi",
+          "url": "https://open.spotify.com/artist/6ij0hQn6zLdWnysPie6qK0"
         }
       ],
-      "duration_ms": 182250,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/19MsxQkRPQWqu5ixq8h1Fc"
+      "duration_ms": 238212,
+      "name": "Chase The Sun",
+      "url": "https://open.spotify.com/track/2eNHV5sPdEVIlZn71pYCZN"
+    },
+    {
+      "added_at": "2024-11-06 18:55:29",
+      "album": {
+        "name": "Three of a kind",
+        "url": "https://open.spotify.com/album/5nq0pclhll7dlCB8b5C4K5"
+      },
+      "artists": [
+        {
+          "name": "Tom Mckeen",
+          "url": "https://open.spotify.com/artist/3QRHP3Oley1iHSfR9geMp2"
+        }
+      ],
+      "duration_ms": 187839,
+      "name": "Three of a kind",
+      "url": "https://open.spotify.com/track/4xijMYkjfsLALCoIdqS7dh"
     },
     {
       "added_at": "2024-11-08 19:34:09",
@@ -251,6 +367,22 @@
       "duration_ms": 295810,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/54B0TkuPjVJs1tuVaUl8yn"
+    },
+    {
+      "added_at": "2024-11-13 19:38:55",
+      "album": {
+        "name": "Mig & Dig",
+        "url": "https://open.spotify.com/album/4nuQeOVeW0U40iANuGp8hJ"
+      },
+      "artists": [
+        {
+          "name": "Eurohead",
+          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
+        }
+      ],
+      "duration_ms": 199794,
+      "name": "_on_call_",
+      "url": "https://open.spotify.com/track/2wBTvKILsBVlMwlMlFsZUX"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -303,6 +435,22 @@
     {
       "added_at": "2024-11-06 18:55:29",
       "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/0gMFBHnR0sxDoPErhrkr2u"
+      },
+      "artists": [
+        {
+          "name": "axxa*",
+          "url": "https://open.spotify.com/artist/4MuTo1P8rBfII96fchcoF5"
+        }
+      ],
+      "duration_ms": 218769,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/75scn2CBdwvWOutI2DJTyL"
+    },
+    {
+      "added_at": "2024-11-06 18:55:29",
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/4NblX5K1sl9J8F4b42YDIz"
       },
@@ -317,20 +465,36 @@
       "url": "https://open.spotify.com/track/3nGUY4SuZphDBet6JmbMCj"
     },
     {
-      "added_at": "2024-11-06 18:55:29",
+      "added_at": "2024-10-23 16:55:20",
       "album": {
-        "name": "Chase The Sun",
-        "url": "https://open.spotify.com/album/2Rvu0U87UkAIV2npJGNfNy"
+        "name": "i want ur love",
+        "url": "https://open.spotify.com/album/3YPWdMz2gBbokvxO9VBelW"
       },
       "artists": [
         {
-          "name": "Jimi Latifi",
-          "url": "https://open.spotify.com/artist/6ij0hQn6zLdWnysPie6qK0"
+          "name": "Midnight Dance Party",
+          "url": "https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj"
         }
       ],
-      "duration_ms": 238212,
-      "name": "Chase The Sun",
-      "url": "https://open.spotify.com/track/2eNHV5sPdEVIlZn71pYCZN"
+      "duration_ms": 178285,
+      "name": "i want ur love",
+      "url": "https://open.spotify.com/track/6Lt5gqL9Ke8XksHkJBJKQV"
+    },
+    {
+      "added_at": "2024-11-06 18:55:29",
+      "album": {
+        "name": "Sthlm In My <3",
+        "url": "https://open.spotify.com/album/4GHkgOqbKjs7YqQ8qADO23"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "duration_ms": 206865,
+      "name": "Sthlm In My <3",
+      "url": "https://open.spotify.com/track/7HrlxmJTE4B3HGFxPcUy2M"
     },
     {
       "added_at": "2024-08-28 16:35:01",
@@ -347,6 +511,22 @@
       "duration_ms": 188072,
       "name": "Dance With You (All Night)",
       "url": "https://open.spotify.com/track/6XhziaA2fyAnIy9NgnHxqX"
+    },
+    {
+      "added_at": "2024-10-23 16:55:20",
+      "album": {
+        "name": "Love to Be",
+        "url": "https://open.spotify.com/album/79hEBPfDvTigDqMKCM4CuG"
+      },
+      "artists": [
+        {
+          "name": "BAVHU",
+          "url": "https://open.spotify.com/artist/16cM5HFziqNPx2h4esvrOd"
+        }
+      ],
+      "duration_ms": 234461,
+      "name": "Love to Be",
+      "url": "https://open.spotify.com/track/4wFu6LtUmK8MXSTDBQbiuZ"
     },
     {
       "added_at": "2024-11-06 18:55:29",
@@ -397,6 +577,22 @@
       "url": "https://open.spotify.com/track/58mO9YgRePOUCrDX2u51sz"
     },
     {
+      "added_at": "2024-10-02 18:02:38",
+      "album": {
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/7cWNy3kWFzrzODFwR7k1Tg"
+      },
+      "artists": [
+        {
+          "name": "Tre Reynolds",
+          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
+        }
+      ],
+      "duration_ms": 144383,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/7lOWnzFtxRsPYpzeCG8OuS"
+    },
+    {
       "added_at": "2024-11-06 18:55:29",
       "album": {
         "name": "like a thief",
@@ -433,22 +629,6 @@
       "url": "https://open.spotify.com/track/3VNrV8uylABwQAhVl5xtVx"
     },
     {
-      "added_at": "2024-11-06 18:55:29",
-      "album": {
-        "name": "Three of a kind",
-        "url": "https://open.spotify.com/album/5nq0pclhll7dlCB8b5C4K5"
-      },
-      "artists": [
-        {
-          "name": "Tom Mckeen",
-          "url": "https://open.spotify.com/artist/3QRHP3Oley1iHSfR9geMp2"
-        }
-      ],
-      "duration_ms": 187839,
-      "name": "Three of a kind",
-      "url": "https://open.spotify.com/track/4xijMYkjfsLALCoIdqS7dh"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "U Know That",
@@ -469,36 +649,20 @@
       "url": "https://open.spotify.com/track/2dpGpd2kJ6yNqFGGImGP0m"
     },
     {
-      "added_at": "2024-10-23 16:55:20",
-      "album": {
-        "name": "i want ur love",
-        "url": "https://open.spotify.com/album/3YPWdMz2gBbokvxO9VBelW"
-      },
-      "artists": [
-        {
-          "name": "Midnight Dance Party",
-          "url": "https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "i want ur love",
-      "url": "https://open.spotify.com/track/6Lt5gqL9Ke8XksHkJBJKQV"
-    },
-    {
       "added_at": "2024-11-06 18:55:29",
       "album": {
-        "name": "Sthlm In My <3",
-        "url": "https://open.spotify.com/album/4GHkgOqbKjs7YqQ8qADO23"
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/0ZDVQuFIkj8Uip56Vun6Vg"
       },
       "artists": [
         {
-          "name": "Megra",
-          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+          "name": "SKAI",
+          "url": "https://open.spotify.com/artist/2g7geQWdr5NIudJUYYFycd"
         }
       ],
-      "duration_ms": 206865,
-      "name": "Sthlm In My <3",
-      "url": "https://open.spotify.com/track/7HrlxmJTE4B3HGFxPcUy2M"
+      "duration_ms": 182250,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/19MsxQkRPQWqu5ixq8h1Fc"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -565,22 +729,6 @@
       "url": "https://open.spotify.com/track/3pFiYcLcLL5XNdNgCBNpVp"
     },
     {
-      "added_at": "2024-10-23 16:55:20",
-      "album": {
-        "name": "evergreen",
-        "url": "https://open.spotify.com/album/5rxZ7x6Wp2LAgDzhbw2u35"
-      },
-      "artists": [
-        {
-          "name": "Baxter",
-          "url": "https://open.spotify.com/artist/44hRRRhNR9moRvxr2wQj6u"
-        }
-      ],
-      "duration_ms": 326166,
-      "name": "evergreen",
-      "url": "https://open.spotify.com/track/0sKxmZApSI1vzJB82XXY8l"
-    },
-    {
       "added_at": "2024-11-06 18:55:29",
       "album": {
         "name": "Rewind",
@@ -621,22 +769,6 @@
       "url": "https://open.spotify.com/track/0YZPdvkJVe3qEhAQKT2BJV"
     },
     {
-      "added_at": "2024-10-23 16:55:20",
-      "album": {
-        "name": "Tu Segredos",
-        "url": "https://open.spotify.com/album/5jnOm7Xv8UlQDnUmuDEOVS"
-      },
-      "artists": [
-        {
-          "name": "Pedroz",
-          "url": "https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "Tu Segredos",
-      "url": "https://open.spotify.com/track/1WV1pLRmDLBPKWfOdITw6y"
-    },
-    {
       "added_at": "2024-11-06 18:55:29",
       "album": {
         "name": "BAJAUS",
@@ -651,22 +783,6 @@
       "duration_ms": 174000,
       "name": "FOLLOW THRU",
       "url": "https://open.spotify.com/track/6fy9YOcaE9Pxr1vFHLnMm8"
-    },
-    {
-      "added_at": "2024-10-23 16:55:20",
-      "album": {
-        "name": "miss yr luv",
-        "url": "https://open.spotify.com/album/5f436KX0QmeczYwjLjdWUJ"
-      },
-      "artists": [
-        {
-          "name": "Flansie",
-          "url": "https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI"
-        }
-      ],
-      "duration_ms": 279209,
-      "name": "miss yr luv",
-      "url": "https://open.spotify.com/track/2tRhNYiH2VDRfutWkLAj8V"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -961,30 +1077,6 @@
       "url": "https://open.spotify.com/track/6xDwgVCTbBs95DZFSyeNhG"
     },
     {
-      "added_at": "2024-10-18 17:21:46",
-      "album": {
-        "name": "Big Groove",
-        "url": "https://open.spotify.com/album/7eLjdkucgBUaQwlZZgoEaZ"
-      },
-      "artists": [
-        {
-          "name": "Omicasa",
-          "url": "https://open.spotify.com/artist/5qAOSNmLnyp7kjuMooZyRb"
-        },
-        {
-          "name": "Craze",
-          "url": "https://open.spotify.com/artist/1CxiYuhxzUwYDPQSZw076D"
-        },
-        {
-          "name": "Matsu",
-          "url": "https://open.spotify.com/artist/2bFIsZ2C80LKx8Pdk8KW5U"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Big Groove",
-      "url": "https://open.spotify.com/track/2vAEXywiJ3DU9x2Ibi6FaT"
-    },
-    {
       "added_at": "2024-10-02 18:02:38",
       "album": {
         "name": "You Gotta Be Real",
@@ -1067,22 +1159,6 @@
       "duration_ms": 269500,
       "name": "please just hold on",
       "url": "https://open.spotify.com/track/09eUfQeNR5QKW9Co7Z2psY"
-    },
-    {
-      "added_at": "2024-10-18 17:21:46",
-      "album": {
-        "name": "Basking In The Rain",
-        "url": "https://open.spotify.com/album/6uYgjYYcFowIMfS3a4QIoI"
-      },
-      "artists": [
-        {
-          "name": "ST\u00dcM",
-          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
-        }
-      ],
-      "duration_ms": 166986,
-      "name": "Basking In The Rain",
-      "url": "https://open.spotify.com/track/0N3GPu7D73xaBTrkTya5np"
     },
     {
       "added_at": "2024-10-02 18:02:38",
@@ -1221,22 +1297,6 @@
       "url": "https://open.spotify.com/track/0h02oY1lJ4cvVLOHFxO2ET"
     },
     {
-      "added_at": "2024-10-10 04:44:17",
-      "album": {
-        "name": "Talk 2 The Deejay",
-        "url": "https://open.spotify.com/album/0rANHd4v8KcKO4TcS40lpa"
-      },
-      "artists": [
-        {
-          "name": "Auramatic",
-          "url": "https://open.spotify.com/artist/6oV38HtGDKckEhGBCmvDk9"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Talk 2 The Deejay",
-      "url": "https://open.spotify.com/track/699iI6trQdW6AQ2LHD0hSO"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "I Stay",
@@ -1253,26 +1313,6 @@
       "url": "https://open.spotify.com/track/6YEc6DRqlQTRcmKjYggOnN"
     },
     {
-      "added_at": "2024-10-04 20:08:58",
-      "album": {
-        "name": "Alicia (feat. Alvin Risk)",
-        "url": "https://open.spotify.com/album/3J1B1TXW08yBdBYjxS2ess"
-      },
-      "artists": [
-        {
-          "name": "Will Sass",
-          "url": "https://open.spotify.com/artist/1yCIbpGEKpVs3fZbGItAXc"
-        },
-        {
-          "name": "Alvin Risk",
-          "url": "https://open.spotify.com/artist/34PyHmCLNSwQGSH2AahyVN"
-        }
-      ],
-      "duration_ms": 146479,
-      "name": "Alicia (feat. Alvin Risk)",
-      "url": "https://open.spotify.com/track/4fv2v6hjonmOzhzOHhUI05"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "30% OFF",
@@ -1287,22 +1327,6 @@
       "duration_ms": 130560,
       "name": "30% OFF",
       "url": "https://open.spotify.com/track/7n2qgwgbvNMki4RCKMiJ0A"
-    },
-    {
-      "added_at": "2024-10-02 18:02:38",
-      "album": {
-        "name": "Me & U",
-        "url": "https://open.spotify.com/album/7cWNy3kWFzrzODFwR7k1Tg"
-      },
-      "artists": [
-        {
-          "name": "Tre Reynolds",
-          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
-        }
-      ],
-      "duration_ms": 144383,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/7lOWnzFtxRsPYpzeCG8OuS"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1443,26 +1467,6 @@
       "duration_ms": 159858,
       "name": "Come To Me",
       "url": "https://open.spotify.com/track/0oACHtiXrn3ByF1b0V5JvQ"
-    },
-    {
-      "added_at": "2024-10-04 17:15:55",
-      "album": {
-        "name": "Lose U",
-        "url": "https://open.spotify.com/album/5INa4Gj1eJQ3s94LUYMbTb"
-      },
-      "artists": [
-        {
-          "name": "Longo",
-          "url": "https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI"
-        },
-        {
-          "name": "Martina Corona",
-          "url": "https://open.spotify.com/artist/58tyddZEZ2XcaKSmTV19aA"
-        }
-      ],
-      "duration_ms": 134048,
-      "name": "Lose U",
-      "url": "https://open.spotify.com/track/4UxzIiAZU4FKsvamlYRWZz"
     },
     {
       "added_at": "2024-08-28 16:35:01",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 
 > 二日酔いに効くサウンド…そんなものがあるのだろうか？でもコレなら確かに効くかも！をテーマに、Spotifyとblock.fmがお届けするチルアウトでスロウなコラボプレイリスト。毎週土曜日更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,732 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,736 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 | 18 | [Feelings Never Die](https://open.spotify.com/track/3rkuBuf0QhxlSLzvzrjVTU) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Feelings Never Die](https://open.spotify.com/album/71JOXHFVRlGJ6MoHCMddFI) | 3:42 |
 | 19 | [RAISING UP THE HEAT](https://open.spotify.com/track/3bKWwGoY93Td5vmix72NJa) | [TAKUMI](https://open.spotify.com/artist/4WoHWcWvbQSg7fW9zfHPys) | [RAISING UP THE HEAT](https://open.spotify.com/album/5OnHbvrvpxM9KvLhx1rC0p) | 2:44 |
 | 20 | [atmosphere](https://open.spotify.com/track/4bJrli3AUsBRmUNRMIACid) | [Riley Wells](https://open.spotify.com/artist/6VOTGAWl1Ud1QxqQ4xNHVD) | [atmosphere](https://open.spotify.com/album/3kiaiqfxxHiamfVSqp5L2K) | 2:19 |
-| 21 | [all day](https://open.spotify.com/track/3MkVu9A4fsXzlVzmwxB5QI) | [Som](https://open.spotify.com/artist/25e7VNBZs2slmntthPkwZH), [pedestrian](https://open.spotify.com/artist/3EOq1cuFZnhuuRLBSRqb1q) | [all day](https://open.spotify.com/album/4JT5FHDN5sqXoudOUSch2j) | 2:40 |
+| 21 | [all day](https://open.spotify.com/track/3MkVu9A4fsXzlVzmwxB5QI) | [Som](https://open.spotify.com/artist/25e7VNBZs2slmntthPkwZH), [pedestrian](https://open.spotify.com/artist/5SWs8mdRBTOCjT7GICbmes) | [all day](https://open.spotify.com/album/4JT5FHDN5sqXoudOUSch2j) | 2:40 |
 | 22 | [Daily Life](https://open.spotify.com/track/55bzXAg8rWpAKNXSBvcbyO) | [FLEUR](https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV), [UNI\-Qreatives](https://open.spotify.com/artist/5i5sDbeYvK6eliuUwYgk11) | [Daily Life](https://open.spotify.com/album/7eLcX5k9NL86s5yt1K0gVL) | 3:01 |
 | 23 | [bed](https://open.spotify.com/track/1dnoHYgZPMi6DmMuamp3hq) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [Better Weather](https://open.spotify.com/album/1e3fPcbiW5ssTQOOYMyvoi) | 3:17 |
 | 24 | [Out My Hair](https://open.spotify.com/track/1TtdzDwa2r0REWVcFihwmT) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Heal U / Out My Hair](https://open.spotify.com/album/6w3SEOFS1XYWBKn4WKfg4J) | 2:58 |

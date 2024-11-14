@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Mad at You",
+        "url": "https://open.spotify.com/album/4mdm9IcJ8c4ymN2625XVzx"
+      },
+      "artists": [
+        {
+          "name": "Navvy",
+          "url": "https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208501,
+      "name": "Mad at You",
+      "url": "https://open.spotify.com/track/15xawByQGSgYAztg5aRc7g"
+    },
+    {
+      "album": {
         "name": "Mad At You",
         "url": "https://open.spotify.com/album/4kEWnZJmyrbhnAvRGvVyrK"
       },
@@ -406,7 +424,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 208501,
       "name": "Mad At You",
       "url": "https://open.spotify.com/track/4mLMiTNQEYs4K1S9ZPkBxA"

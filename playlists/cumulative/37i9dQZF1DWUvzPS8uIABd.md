@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Mirella.
 
-313 songs - 15 hr 37 min
+314 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 | 2024-11-07 |  |
 | [Neliapila](https://open.spotify.com/track/4CuNx6T9rJWbwZ4KyEHYmr) | [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD) | [Neliapila](https://open.spotify.com/album/3rTVnlLuXWS1f9yYNukwio) | 2:33 | 2024-08-26 |  |
 | [Nelkyt ja viis](https://open.spotify.com/track/5HIDCooNneGtzHInlkl51p) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR) | [Vol.7](https://open.spotify.com/album/7fHNgqxzdVJJjZ4xoosJkV) | 3:52 | 2024-09-12 | 2024-10-04 |
+| [Noitanainen](https://open.spotify.com/track/778YD2Oojx8S17w0r9GqMY) | [TINA](https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm) | [Noitanainen](https://open.spotify.com/album/6lz1cmhjE1NrucvvXZCQ1Y) | 3:07 | 2024-11-13 |  |
 | [Norjalaista puuta](https://open.spotify.com/track/3cTTpe7rLFrgdLPY9DQB0s) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Norjalaista puuta](https://open.spotify.com/album/36yFPOq7YIsFpIodxohXzu) | 2:45 | 2024-08-09 | 2024-10-25 |
 | [Norppa kivellä](https://open.spotify.com/track/2zFDRptDDg9FC5ZFM0UINl) | [Juhana Haukkala](https://open.spotify.com/artist/0JtYpxkop6SX7L5trzsmp7) | [Norppa kivellä](https://open.spotify.com/album/6zmw2zvlJilM3McRXvmIgg) | 2:46 | 2024-07-02 | 2024-07-12 |
 | [Nouse kyytiin](https://open.spotify.com/track/0zeycjLOtQNcinmx7uH5jg) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR) | [Nouse kyytiin](https://open.spotify.com/album/1tTRRFjAtEcpPM0ngmn1JW) | 3:57 | 2024-08-22 | 2024-09-06 |

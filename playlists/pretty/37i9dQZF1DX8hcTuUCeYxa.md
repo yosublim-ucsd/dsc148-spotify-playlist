@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Alice Phoebe Lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,781 likes - 90 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,788 likes - 90 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 59 | [Meditations](https://open.spotify.com/track/2XaZcy1CBRqfEpvy4JuJLr) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Meditations](https://open.spotify.com/album/2BRSukoWknGgMermHbSVt6) | 3:04 |
 | 60 | [Tear You Apart](https://open.spotify.com/track/5WHgcmjycaOklDNamT8JG1) | [Sohodolls](https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN) | [Tear You Apart](https://open.spotify.com/album/2KEaRcM15ezf2FwErcGzht) | 2:48 |
 | 61 | [Just Don't Know](https://open.spotify.com/track/7hEf8KIJpABeZssHjLnJsF) | [Anna Hauss](https://open.spotify.com/artist/3NGUdKdCdLI65sivxlSmOv) | [Just Don't Know](https://open.spotify.com/album/5gPOJChY8l7XYersv3b772) | 3:06 |
-| 62 | [The Beginning Of The End \(feat\. DMA'S\)](https://open.spotify.com/track/2H39sC1tPnvxNCFamU3m2N) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2), [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [The Beginning Of The End \(feat\. DMA'S\)](https://open.spotify.com/album/6Zx7KmsMOLDheCjXZAYaSE) | 3:41 |
+| 62 | [The Beginning Of The End \(feat\. DMA'S\)](https://open.spotify.com/track/0vtyxhoTo6eWHLQg8ewa9J) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2), [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Pink Cactus Café](https://open.spotify.com/album/1uqDCI2xkDcXYu6bX3UrXS) | 3:41 |
 | 63 | [Messages](https://open.spotify.com/track/0y2O2HwEenaEdHBGR32Lef) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Mirror Starts Moving Without Me](https://open.spotify.com/album/0D1VuKK2MQA5d25Nn2gyEK) | 2:44 |
 | 64 | [Bother](https://open.spotify.com/track/4dhvTdfp4z3PwFB7zF6BGr) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [SOAKED](https://open.spotify.com/album/6gEKRDWt0qB7V1iKLhj2Hs) | 2:48 |
 | 65 | [the silence](https://open.spotify.com/track/4LG79GYNvHWOuXKxirDcOS) | [theja](https://open.spotify.com/artist/38DT4VMpA3qK1UqZgUB9Ag) | [the silence](https://open.spotify.com/album/3DCESsSDT6wRGGt542PTPQ) | 3:16 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 89 | [Next To You](https://open.spotify.com/track/6hgdszgAp86eYw4Lng0WpI) | [Bayuk](https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw) | [Next To You](https://open.spotify.com/album/4fo34LTRTlhwPfGh0qyCPT) | 1:52 |
 | 90 | [bruises](https://open.spotify.com/track/7x8974NGwjDS0hD0ff0qdx) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [Daydream Therapy](https://open.spotify.com/album/17BAmPUeXzb7rlOvnPxvS8) | 3:00 |
 
-Snapshot ID: `Zy04YAAAAAAWkeUGa0xZm+B1VS/daG+m`
+Snapshot ID: `ZzThSgAAAACk7sXfD6wE5BqXJ/wUiTYj`

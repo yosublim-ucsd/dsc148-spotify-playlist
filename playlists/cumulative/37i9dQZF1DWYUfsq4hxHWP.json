@@ -2309,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "Anymore",
+        "url": "https://open.spotify.com/album/6bT4HmzUizSDsJIBu1MdsT"
+      },
+      "artists": [
+        {
+          "name": "Amanda Jordan",
+          "url": "https://open.spotify.com/artist/5UzX8YYER6nwjEoJjt6QCv"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167701,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/0lykwWN3wQsaPTIo8atfY5"
+    },
+    {
+      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/7mNvU7idxh84Uy8vnQyV9e"
       },
@@ -5408,7 +5426,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 175287,
       "name": "Boots In It",
       "url": "https://open.spotify.com/track/2Q12X0cIwDUvEUmpJnPoGI"
@@ -11266,7 +11284,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 171085,
       "name": "Doesn't Kill Ya",
       "url": "https://open.spotify.com/track/53g0gONZisFkaHqXgTa9yt"
@@ -15101,6 +15119,24 @@
     },
     {
       "album": {
+        "name": "Forgot To Take A Picture",
+        "url": "https://open.spotify.com/album/0lWc0nP8hMUkW1cJphA41g"
+      },
+      "artists": [
+        {
+          "name": "Demps",
+          "url": "https://open.spotify.com/artist/5Gx523vSXLobJkopSyany4"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188478,
+      "name": "Forgot To Take A Picture",
+      "url": "https://open.spotify.com/track/1K1jQF0HHYjgujeUfkiD1Y"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/5V9URppn3nkJMq68bVXkqV"
       },
@@ -16962,6 +16998,24 @@
       "duration_ms": 154447,
       "name": "Good Time for a Good Time",
       "url": "https://open.spotify.com/track/3mAw5aXqrjZtHzOrbwW6p8"
+    },
+    {
+      "album": {
+        "name": "Drinking In The Kitchen",
+        "url": "https://open.spotify.com/album/5xSJVh4AMIecnoYSdeQHfE"
+      },
+      "artists": [
+        {
+          "name": "Bobby Watson",
+          "url": "https://open.spotify.com/artist/3vJcThDRTiLEhLwNzJewSD"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173689,
+      "name": "Good To You",
+      "url": "https://open.spotify.com/track/4uWFBvXKmYeuheDU9ritsB"
     },
     {
       "album": {
@@ -20084,6 +20138,24 @@
       "duration_ms": 187113,
       "name": "Hometown Girl",
       "url": "https://open.spotify.com/track/0vZAKkSdmJUZRGDMD6GgMO"
+    },
+    {
+      "album": {
+        "name": "Hometown Hero",
+        "url": "https://open.spotify.com/album/7h1VgXYxwTBzPbjkuXz18r"
+      },
+      "artists": [
+        {
+          "name": "J.R. Carroll",
+          "url": "https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261066,
+      "name": "Hometown Hero",
+      "url": "https://open.spotify.com/track/03SC2QJJIkG4LMmQddcZDo"
     },
     {
       "album": {
@@ -24327,6 +24399,24 @@
     },
     {
       "album": {
+        "name": "Just Like Me",
+        "url": "https://open.spotify.com/album/4sUU64UBqJvfwPAZSu5Nb0"
+      },
+      "artists": [
+        {
+          "name": "Mike Parker",
+          "url": "https://open.spotify.com/artist/3hzCzAwJH36Ia5R5MIaW8m"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168181,
+      "name": "Just Like Me",
+      "url": "https://open.spotify.com/track/6vappVdqiYniLQ1xUJv9zX"
+    },
+    {
+      "album": {
         "name": "Just Like You",
         "url": "https://open.spotify.com/album/2FR7gaT9MkZ8nw135URdyC"
       },
@@ -26200,7 +26290,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 131072,
       "name": "light at the end of the tunnel",
       "url": "https://open.spotify.com/track/2a5kGBNVEeGx1h6ejNXYPE"
@@ -26518,6 +26608,24 @@
       "duration_ms": 232941,
       "name": "Like The Weather",
       "url": "https://open.spotify.com/track/3pocYUCyqUGbiD6Jj2GHgS"
+    },
+    {
+      "album": {
+        "name": "Like The Worlds On Fire",
+        "url": "https://open.spotify.com/album/0y2VG01yYHUuSBovEhNmOq"
+      },
+      "artists": [
+        {
+          "name": "Brandt Carmichael",
+          "url": "https://open.spotify.com/artist/65HDAlEXHrIu7e5ago87Ar"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213261,
+      "name": "Like The Worlds On Fire",
+      "url": "https://open.spotify.com/track/7nUH6NoUKCqiYuM6kzQHzQ"
     },
     {
       "album": {
@@ -27930,6 +28038,24 @@
       "duration_ms": 210813,
       "name": "Love You a Little Bit",
       "url": "https://open.spotify.com/track/0JlPeDabMkPpmC9W7TI3BM"
+    },
+    {
+      "album": {
+        "name": "Love You Back",
+        "url": "https://open.spotify.com/album/7rlz4vK3CQTV6MKRDJGARe"
+      },
+      "artists": [
+        {
+          "name": "Halle Kearns",
+          "url": "https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170600,
+      "name": "Love You Back",
+      "url": "https://open.spotify.com/track/5NknJEYLIjzQvoER6qLAuo"
     },
     {
       "album": {
@@ -33898,6 +34024,24 @@
       "duration_ms": 200020,
       "name": "Polly",
       "url": "https://open.spotify.com/track/0GlLLyXQXguleNyYMvGgJS"
+    },
+    {
+      "album": {
+        "name": "I don't know what I'm doing yet",
+        "url": "https://open.spotify.com/album/4CuEqc4cZZSdzqNoYg7wf0"
+      },
+      "artists": [
+        {
+          "name": "Brendan Walter",
+          "url": "https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240486,
+      "name": "Poor Man's Anthem",
+      "url": "https://open.spotify.com/track/1GSz8oace61JAcaFqKOtTn"
     },
     {
       "album": {
@@ -45733,6 +45877,24 @@
     },
     {
       "album": {
+        "name": "Up To You",
+        "url": "https://open.spotify.com/album/7nEUtPgAruyY1F85iUbDLR"
+      },
+      "artists": [
+        {
+          "name": "Caleb Lathrop",
+          "url": "https://open.spotify.com/artist/40bsTqQeta2NZ0KHrRqN7w"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161863,
+      "name": "Up To You",
+      "url": "https://open.spotify.com/track/46bwdJJ0wlNB5zlEiiaf2d"
+    },
+    {
+      "album": {
         "name": "Upbringing",
         "url": "https://open.spotify.com/album/3kCaVWSYGuEmReU6nDsxtW"
       },
@@ -47092,7 +47254,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 176818,
       "name": "What You Know",
       "url": "https://open.spotify.com/track/7Ei4vRTpM58BKgntE9E0Uh"

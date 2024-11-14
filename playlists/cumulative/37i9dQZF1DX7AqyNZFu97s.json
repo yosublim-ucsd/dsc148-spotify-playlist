@@ -5547,6 +5547,24 @@
     },
     {
       "album": {
+        "name": "southerngothic.",
+        "url": "https://open.spotify.com/album/2ZFeiHv9PkRkA0StT9L4We"
+      },
+      "artists": [
+        {
+          "name": "David Armada",
+          "url": "https://open.spotify.com/artist/0NCZoJwqMYvBpYFRnKnAMh"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197946,
+      "name": "break it off",
+      "url": "https://open.spotify.com/track/0AM47bTrpez5M8BnwmZaka"
+    },
+    {
+      "album": {
         "name": "break it off",
         "url": "https://open.spotify.com/album/4DhfVjUYj6CozR5putYP3A"
       },
@@ -5894,6 +5912,24 @@
       "duration_ms": 200813,
       "name": "Burner",
       "url": "https://open.spotify.com/track/2arEFpdh3Wh1VqO3S2IiUz"
+    },
+    {
+      "album": {
+        "name": "Now That I Know You",
+        "url": "https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7"
+      },
+      "artists": [
+        {
+          "name": "Connie Campsie",
+          "url": "https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200813,
+      "name": "Burner",
+      "url": "https://open.spotify.com/track/6HNkkRpmxRhfz0QMDcMB5G"
     },
     {
       "album": {
@@ -6769,6 +6805,24 @@
     },
     {
       "album": {
+        "name": "Catch Me",
+        "url": "https://open.spotify.com/album/6D1rJ4azeYokGfG0fX3rut"
+      },
+      "artists": [
+        {
+          "name": "Arjuna Oakes",
+          "url": "https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218678,
+      "name": "Catch Me",
+      "url": "https://open.spotify.com/track/65N7zJUzhZDdASJjeH1H7W"
+    },
+    {
+      "album": {
         "name": "Catholic",
         "url": "https://open.spotify.com/album/3sbgrOuwGE4xaq6hOYKJS5"
       },
@@ -7466,7 +7520,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 177630,
       "name": "Codependent",
       "url": "https://open.spotify.com/track/23gO6UnjPlFsTPGlHrVf5k"
@@ -7744,6 +7798,24 @@
       "duration_ms": 108291,
       "name": "come to me",
       "url": "https://open.spotify.com/track/0j6lE5uz5elSDglEtSaCYW"
+    },
+    {
+      "album": {
+        "name": "Come To My House",
+        "url": "https://open.spotify.com/album/1nEyXl2TPZv6F64RlhlVOm"
+      },
+      "artists": [
+        {
+          "name": "Lucy Tun",
+          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200744,
+      "name": "Come To My House",
+      "url": "https://open.spotify.com/track/0TmAYi33x07SXMYKVAkVMN"
     },
     {
       "album": {
@@ -11210,7 +11282,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-25",
+      "date_removed": null,
       "duration_ms": 162077,
       "name": "Drummer Boy",
       "url": "https://open.spotify.com/track/67Lv3Klg2HsfAY13iaig89"
@@ -15055,6 +15127,32 @@
     },
     {
       "album": {
+        "name": "Go Getta",
+        "url": "https://open.spotify.com/album/6JKgLRZeEGMbLP3X1v0JL8"
+      },
+      "artists": [
+        {
+          "name": "Niall T",
+          "url": "https://open.spotify.com/artist/7moBHCptFUmIhDYr9B2H0X"
+        },
+        {
+          "name": "Moda",
+          "url": "https://open.spotify.com/artist/2FTs2DgO1R1eDG14O0Fh0v"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198322,
+      "name": "Go Getta",
+      "url": "https://open.spotify.com/track/4AerE5mVI50W7w5aF8ITkQ"
+    },
+    {
+      "album": {
         "name": "Go Hard or Go Yard",
         "url": "https://open.spotify.com/album/1zmVKyrVhStxU1IYBEveZu"
       },
@@ -15554,6 +15652,24 @@
       "duration_ms": 246259,
       "name": "good enough",
       "url": "https://open.spotify.com/track/3DSuRVneU4kjxe4q15wRql"
+    },
+    {
+      "album": {
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/2HvEn8jo8GldIm4x8XNxJc"
+      },
+      "artists": [
+        {
+          "name": "Tia Gordon",
+          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/6FVxPZcVkOFmNITqXZfQgR"
     },
     {
       "album": {
@@ -20396,7 +20512,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 154285,
       "name": "In The Function",
       "url": "https://open.spotify.com/track/1qhaTJjO2l1Z6rDDwCpbF4"
@@ -22436,7 +22552,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 196603,
       "name": "Landmine!",
       "url": "https://open.spotify.com/track/4YOtWmWn8sKqBNLnWnxquF"
@@ -26098,6 +26214,24 @@
       "duration_ms": 203005,
       "name": "Miracle Worker",
       "url": "https://open.spotify.com/track/00vxSiF0HPPZcCTptA7khn"
+    },
+    {
+      "album": {
+        "name": "mirror",
+        "url": "https://open.spotify.com/album/3oLGebobmDyFqrRHt67rvb"
+      },
+      "artists": [
+        {
+          "name": "CARSTEN2X",
+          "url": "https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126197,
+      "name": "mirror",
+      "url": "https://open.spotify.com/track/3JrX8phrwsymuaiWyKRG2d"
     },
     {
       "album": {
@@ -31611,6 +31745,24 @@
     },
     {
       "album": {
+        "name": "Real Deal",
+        "url": "https://open.spotify.com/album/20QRMueqfMw1nHWOfXZGOL"
+      },
+      "artists": [
+        {
+          "name": "Honeyglaze",
+          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234566,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/1qjdgDgapvORPzzB45Qi1F"
+    },
+    {
+      "album": {
         "name": "Pretty Sweet",
         "url": "https://open.spotify.com/album/3Bx1eTPQ2CjkD1FGH5hnnj"
       },
@@ -34154,7 +34306,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 97784,
       "name": "SAY MY NAME",
       "url": "https://open.spotify.com/track/6T52Nwzdn3YkPefljuLfs2"
@@ -34604,6 +34756,24 @@
       "duration_ms": 160334,
       "name": "Self Made",
       "url": "https://open.spotify.com/track/6TzZr61mw0MOz7QcRtl9Av"
+    },
+    {
+      "album": {
+        "name": "self respect",
+        "url": "https://open.spotify.com/album/0eiGunQk1mDtmanz6Abv5V"
+      },
+      "artists": [
+        {
+          "name": "Nolais",
+          "url": "https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209525,
+      "name": "self respect",
+      "url": "https://open.spotify.com/track/1DdgO0Ag96Hx34Qd5dHvKD"
     },
     {
       "album": {
@@ -36150,7 +36320,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 296800,
       "name": "Soar When I'm Alone",
       "url": "https://open.spotify.com/track/1weYM28rRNsMuT69FFqPxJ"

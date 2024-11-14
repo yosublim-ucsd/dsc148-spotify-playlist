@@ -1,6 +1,6 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 269600,
+  "num_followers": 269746,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-11-01 14:28:57",
       "album": {
-        "name": "Mujer Que Mal Me Pagas",
-        "url": "https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6"
-      },
-      "artists": [
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        }
-      ],
-      "duration_ms": 218720,
-      "name": "Mujer Que Mal Me Pagas",
-      "url": "https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV"
-    },
-    {
-      "added_at": "2024-11-01 14:28:57",
-      "album": {
         "name": "Despu\u00e9s de T\u00ed, Que",
         "url": "https://open.spotify.com/album/3Mz010MHaDI7vdl546QozX"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 235280,
       "name": "Si Me Ves Llorar por Ti",
       "url": "https://open.spotify.com/track/0XFn0YkjPrKMSLLU4jsLAS"
+    },
+    {
+      "added_at": "2024-11-01 14:28:57",
+      "album": {
+        "name": "Mujer Que Mal Me Pagas",
+        "url": "https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 218720,
+      "name": "Mujer Que Mal Me Pagas",
+      "url": "https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV"
     },
     {
       "added_at": "2024-11-01 14:28:57",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-11-01 14:28:57",
       "album": {
-        "name": "El Aguante Contin\u00faa...En Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a"
-      },
-      "artists": [
-        {
-          "name": "Mario Pereyra y Su Banda",
-          "url": "https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y"
-        }
-      ],
-      "duration_ms": 137786,
-      "name": "Hasta el Sol de Hoy (En Vivo)",
-      "url": "https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy"
-    },
-    {
-      "added_at": "2024-11-01 14:28:57",
-      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 193853,
       "name": "Te Tengo que Olvidar",
       "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
+    },
+    {
+      "added_at": "2024-11-01 14:28:57",
+      "album": {
+        "name": "El Aguante Contin\u00faa...En Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a"
+      },
+      "artists": [
+        {
+          "name": "Mario Pereyra y Su Banda",
+          "url": "https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y"
+        }
+      ],
+      "duration_ms": 137786,
+      "name": "Hasta el Sol de Hoy (En Vivo)",
+      "url": "https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy"
     },
     {
       "added_at": "2024-11-01 14:28:57",
@@ -1063,22 +1063,18 @@
     {
       "added_at": "2024-11-01 14:28:57",
       "album": {
-        "name": "Enganchado Homenaje a Leo Mattioli (Padres e Hijos)",
-        "url": "https://open.spotify.com/album/2zy5hs0VuLBjYwpVo5Pq7Y"
+        "name": "A Pura Sangre",
+        "url": "https://open.spotify.com/album/6aK9E9vV53gVuZjzF2wnWz"
       },
       "artists": [
         {
-          "name": "Palmae",
-          "url": "https://open.spotify.com/artist/6UnXebpVutLe2rgBz108JR"
-        },
-        {
-          "name": "Nico Mattioli",
-          "url": "https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1"
+          "name": "Sergio Torres y Los Due\u00f1os Del Swing",
+          "url": "https://open.spotify.com/artist/61wjkDrxSXXH1yUOczhJmT"
         }
       ],
-      "duration_ms": 311456,
-      "name": "Enganchado Homenaje a Leo Mattioli - Cada vez te quiero m\u00e1s - Te llevo dentro de mi - Despu\u00e9s de ti - Te tengo que olvidar",
-      "url": "https://open.spotify.com/track/4TLBCFkqq1OPNd3USWzL9y"
+      "duration_ms": 294093,
+      "name": "Si Tu No Estas",
+      "url": "https://open.spotify.com/track/6cZ1wwLjxLgLqLlX6zuVkl"
     },
     {
       "added_at": "2024-11-01 14:28:57",
@@ -1099,18 +1095,22 @@
     {
       "added_at": "2024-11-01 14:28:57",
       "album": {
-        "name": "A Pura Sangre",
-        "url": "https://open.spotify.com/album/6aK9E9vV53gVuZjzF2wnWz"
+        "name": "Enganchado Homenaje a Leo Mattioli (Padres e Hijos)",
+        "url": "https://open.spotify.com/album/2zy5hs0VuLBjYwpVo5Pq7Y"
       },
       "artists": [
         {
-          "name": "Sergio Torres y Los Due\u00f1os Del Swing",
-          "url": "https://open.spotify.com/artist/61wjkDrxSXXH1yUOczhJmT"
+          "name": "Palmae",
+          "url": "https://open.spotify.com/artist/6UnXebpVutLe2rgBz108JR"
+        },
+        {
+          "name": "Nico Mattioli",
+          "url": "https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1"
         }
       ],
-      "duration_ms": 294093,
-      "name": "Si Tu No Estas",
-      "url": "https://open.spotify.com/track/6cZ1wwLjxLgLqLlX6zuVkl"
+      "duration_ms": 311456,
+      "name": "Enganchado Homenaje a Leo Mattioli - Cada vez te quiero m\u00e1s - Te llevo dentro de mi - Despu\u00e9s de ti - Te tengo que olvidar",
+      "url": "https://open.spotify.com/track/4TLBCFkqq1OPNd3USWzL9y"
     },
     {
       "added_at": "2024-11-01 14:28:57",
@@ -1163,6 +1163,22 @@
       "duration_ms": 241705,
       "name": "Esta Noche Quiero Brandy",
       "url": "https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK"
+    },
+    {
+      "added_at": "2024-11-01 14:28:57",
+      "album": {
+        "name": "A Pura Sangre",
+        "url": "https://open.spotify.com/album/6aK9E9vV53gVuZjzF2wnWz"
+      },
+      "artists": [
+        {
+          "name": "Sergio Torres y Los Due\u00f1os Del Swing",
+          "url": "https://open.spotify.com/artist/61wjkDrxSXXH1yUOczhJmT"
+        }
+      ],
+      "duration_ms": 218373,
+      "name": "Tu C\u00f3mo Est\u00e1s",
+      "url": "https://open.spotify.com/track/3ys4ck9oSE5NvxGdvVVKXx"
     },
     {
       "added_at": "2024-11-01 14:28:57",
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2024-11-01 14:28:57",
       "album": {
-        "name": "Cumbia Santafesina",
-        "url": "https://open.spotify.com/album/7mDi628GH3nmQeOH88RAIz"
-      },
-      "artists": [
-        {
-          "name": "Walter Encina",
-          "url": "https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "No Me Di Cuenta",
-      "url": "https://open.spotify.com/track/3XtkRaIHYhaeio9C5MK7MU"
-    },
-    {
-      "added_at": "2024-11-01 14:28:57",
-      "album": {
         "name": "Exitos de oro",
         "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
       },
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-11-01 14:28:57",
       "album": {
-        "name": "A Pura Sangre",
-        "url": "https://open.spotify.com/album/6aK9E9vV53gVuZjzF2wnWz"
+        "name": "Cumbia Santafesina",
+        "url": "https://open.spotify.com/album/7mDi628GH3nmQeOH88RAIz"
       },
       "artists": [
         {
-          "name": "Sergio Torres y Los Due\u00f1os Del Swing",
-          "url": "https://open.spotify.com/artist/61wjkDrxSXXH1yUOczhJmT"
+          "name": "Walter Encina",
+          "url": "https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp"
         }
       ],
-      "duration_ms": 218373,
-      "name": "Tu C\u00f3mo Est\u00e1s",
-      "url": "https://open.spotify.com/track/3ys4ck9oSE5NvxGdvVVKXx"
+      "duration_ms": 210426,
+      "name": "No Me Di Cuenta",
+      "url": "https://open.spotify.com/track/3XtkRaIHYhaeio9C5MK7MU"
     },
     {
       "added_at": "2024-11-01 14:28:57",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2024-11-01 14:28:57",
       "album": {
-        "name": "Dile",
-        "url": "https://open.spotify.com/album/0sKLgiXbjiyjIhK2XzANd9"
+        "name": "CUMBIA, CUMBIA, CUMBIA",
+        "url": "https://open.spotify.com/album/6xfbKv5OeSyeGxh12mGkHb"
       },
       "artists": [
         {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+          "name": "Los Lirios De Santa Fe",
+          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
         }
       ],
-      "duration_ms": 175545,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/48y0Ey2l6p9ECS98Euj7jr"
+      "duration_ms": 171526,
+      "name": "CUMBIA, CUMBIA, CUMBIA",
+      "url": "https://open.spotify.com/track/3suelWfLweuFrb1Fbgsg94"
     }
   ],
   "unique_name": "Cumbia Santafesina",

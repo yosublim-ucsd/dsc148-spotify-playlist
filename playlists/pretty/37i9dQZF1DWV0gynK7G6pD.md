@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Lang Lang.
 
-[Spotify](https://open.spotify.com/user/spotify) - 714,577 likes - 66 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,628 likes - 66 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

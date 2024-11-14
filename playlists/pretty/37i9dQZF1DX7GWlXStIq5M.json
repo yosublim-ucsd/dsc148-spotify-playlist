@@ -139,62 +139,6 @@
     {
       "added_at": "2024-11-11 13:07:41",
       "album": {
-        "name": "LITTLE LOVE",
-        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 202955,
-      "name": "NOSSA M\u00daSICA",
-      "url": "https://open.spotify.com/track/1Q1d5yjdXpcedKFJR3p7Ir"
-    },
-    {
-      "added_at": "2024-11-11 13:07:41",
-      "album": {
-        "name": "TEORIA DO CAOS",
-        "url": "https://open.spotify.com/album/6pgrd7YbbHVQAjmQllkFvD"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Klein",
-          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "A GENTE SE FERRA JUNTO",
-      "url": "https://open.spotify.com/track/0jRzWAw83heXTT5gbZarIL"
-    },
-    {
-      "added_at": "2024-11-11 13:07:41",
-      "album": {
-        "name": "Era uma vez",
-        "url": "https://open.spotify.com/album/2b9mEfDyiEnVoIHrTBSdbL"
-      },
-      "artists": [
-        {
-          "name": "Ana Laura Lopes",
-          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
-        }
-      ],
-      "duration_ms": 145996,
-      "name": "Fantasma",
-      "url": "https://open.spotify.com/track/42cbAqfGrflUTmn7N9jONd"
-    },
-    {
-      "added_at": "2024-11-11 13:07:41",
-      "album": {
         "name": "Alibi Pt. 2 (with Anitta, Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/68KhQJFTOVcrGovzksAsWm"
       },
@@ -219,6 +163,62 @@
       "duration_ms": 176771,
       "name": "Alibi Pt. 2 (with Anitta, Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/14ALB7xDkt5blJWUTQj4e6"
+    },
+    {
+      "added_at": "2024-11-11 13:07:41",
+      "album": {
+        "name": "TEORIA DO CAOS",
+        "url": "https://open.spotify.com/album/6pgrd7YbbHVQAjmQllkFvD"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Klein",
+          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "A GENTE SE FERRA JUNTO",
+      "url": "https://open.spotify.com/track/0jRzWAw83heXTT5gbZarIL"
+    },
+    {
+      "added_at": "2024-11-11 13:07:41",
+      "album": {
+        "name": "LITTLE LOVE",
+        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 202955,
+      "name": "NOSSA M\u00daSICA",
+      "url": "https://open.spotify.com/track/1Q1d5yjdXpcedKFJR3p7Ir"
+    },
+    {
+      "added_at": "2024-11-11 13:07:41",
+      "album": {
+        "name": "Era uma vez",
+        "url": "https://open.spotify.com/album/2b9mEfDyiEnVoIHrTBSdbL"
+      },
+      "artists": [
+        {
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
+        }
+      ],
+      "duration_ms": 145996,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/42cbAqfGrflUTmn7N9jONd"
     },
     {
       "added_at": "2024-11-11 13:07:41",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-11-11 13:07:41",
       "album": {
+        "name": "Marlboro",
+        "url": "https://open.spotify.com/album/6GIdy7bwny0WMeVry2XDp6"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 153810,
+      "name": "Marlboro",
+      "url": "https://open.spotify.com/track/7i6kdaN6o8M0fbJ15yNlqe"
+    },
+    {
+      "added_at": "2024-11-11 13:07:41",
+      "album": {
         "name": "LolOLove (feat. Pabllo Vittar)",
         "url": "https://open.spotify.com/album/7pxIQkKtEabdKufRaYJ00G"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 160480,
       "name": "LolOLove (feat. Pabllo Vittar)",
       "url": "https://open.spotify.com/track/2ZGXvRgRgUBpMTdflzPEOy"
-    },
-    {
-      "added_at": "2024-11-11 13:07:41",
-      "album": {
-        "name": "Marlboro",
-        "url": "https://open.spotify.com/album/6GIdy7bwny0WMeVry2XDp6"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 153810,
-      "name": "Marlboro",
-      "url": "https://open.spotify.com/track/7i6kdaN6o8M0fbJ15yNlqe"
     },
     {
       "added_at": "2024-11-11 13:07:41",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-11-11 13:07:41",
       "album": {
+        "name": "Rebordosa",
+        "url": "https://open.spotify.com/album/6spETHfCgTYjnmuVLAD3md"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        }
+      ],
+      "duration_ms": 162240,
+      "name": "Sem Ar",
+      "url": "https://open.spotify.com/track/6pPvyR6XrMkJysTugwPos7"
+    },
+    {
+      "added_at": "2024-11-11 13:07:41",
+      "album": {
         "name": "fetiche",
         "url": "https://open.spotify.com/album/73fSZb6scA6RE7BuHtKkPq"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 129399,
       "name": "fetiche",
       "url": "https://open.spotify.com/track/1wZDEMcxsjIxRJmbxsKgMV"
-    },
-    {
-      "added_at": "2024-11-11 13:07:41",
-      "album": {
-        "name": "Rebordosa",
-        "url": "https://open.spotify.com/album/6spETHfCgTYjnmuVLAD3md"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 162240,
-      "name": "Sem Ar",
-      "url": "https://open.spotify.com/track/6pPvyR6XrMkJysTugwPos7"
     },
     {
       "added_at": "2024-11-11 13:07:41",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2024-11-11 13:07:41",
       "album": {
-        "name": "A Vida De Uma Gostosa",
-        "url": "https://open.spotify.com/album/3lKFu66OVJkAGww20AjXoN"
-      },
-      "artists": [
-        {
-          "name": "Ananda Paix\u00e3o",
-          "url": "https://open.spotify.com/artist/5LCSzaHtMSsMqXOEjnASiJ"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "A Vida De Uma Gostosa",
-      "url": "https://open.spotify.com/track/5kENXCermYSISd7l9rSBNf"
-    },
-    {
-      "added_at": "2024-11-11 13:07:41",
-      "album": {
         "name": "Veste a Camisa",
         "url": "https://open.spotify.com/album/1C9WFYgLHljkxsNd58byks"
       },
@@ -1367,6 +1347,26 @@
     {
       "added_at": "2024-11-11 13:07:41",
       "album": {
+        "name": "A Vida De Uma Gostosa",
+        "url": "https://open.spotify.com/album/3lKFu66OVJkAGww20AjXoN"
+      },
+      "artists": [
+        {
+          "name": "Ananda Paix\u00e3o",
+          "url": "https://open.spotify.com/artist/5LCSzaHtMSsMqXOEjnASiJ"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "A Vida De Uma Gostosa",
+      "url": "https://open.spotify.com/track/5kENXCermYSISd7l9rSBNf"
+    },
+    {
+      "added_at": "2024-11-11 13:07:41",
+      "album": {
         "name": "Nem Me Convidou",
         "url": "https://open.spotify.com/album/55TjH29MJyGdJ9K62fMqyz"
       },
@@ -1387,22 +1387,6 @@
       "duration_ms": 127433,
       "name": "Nem Me Convidou",
       "url": "https://open.spotify.com/track/21e9s5DxDb1JepKDg0tsOC"
-    },
-    {
-      "added_at": "2024-11-11 13:07:41",
-      "album": {
-        "name": "EXCE\u00c7\u00c3O!",
-        "url": "https://open.spotify.com/album/0XbhhW3f6ER6SfN9iiLNtt"
-      },
-      "artists": [
-        {
-          "name": "Rafa Bicalho",
-          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
-        }
-      ],
-      "duration_ms": 178816,
-      "name": "EXCE\u00c7\u00c3O!",
-      "url": "https://open.spotify.com/track/1NVm3Ub1m8ONG4DLi6JHRY"
     },
     {
       "added_at": "2024-11-11 13:07:41",
@@ -1432,17 +1416,33 @@
           "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
         },
         {
-          "name": "Bahia Baby",
-          "url": "https://open.spotify.com/artist/7rwAj9PJhdlGmVQTz6GTd7"
-        },
-        {
           "name": "IVYO",
           "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
+        },
+        {
+          "name": "Bahia Baby",
+          "url": "https://open.spotify.com/artist/7rwAj9PJhdlGmVQTz6GTd7"
         }
       ],
       "duration_ms": 167619,
       "name": "P\u00f3s Love",
       "url": "https://open.spotify.com/track/29irNwrelJMk8wublGdvXg"
+    },
+    {
+      "added_at": "2024-11-11 13:07:41",
+      "album": {
+        "name": "EXCE\u00c7\u00c3O!",
+        "url": "https://open.spotify.com/album/0XbhhW3f6ER6SfN9iiLNtt"
+      },
+      "artists": [
+        {
+          "name": "Rafa Bicalho",
+          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
+        }
+      ],
+      "duration_ms": 178816,
+      "name": "EXCE\u00c7\u00c3O!",
+      "url": "https://open.spotify.com/track/1NVm3Ub1m8ONG4DLi6JHRY"
     },
     {
       "added_at": "2024-11-11 13:07:41",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-11-11 13:07:41",
       "album": {
-        "name": "7AM",
-        "url": "https://open.spotify.com/album/7mPRxm9UIyphSral2SKKYn"
-      },
-      "artists": [
-        {
-          "name": "Angela Destro",
-          "url": "https://open.spotify.com/artist/46EmarN1GVX5EQCRxRQaf6"
-        }
-      ],
-      "duration_ms": 167076,
-      "name": "7AM",
-      "url": "https://open.spotify.com/track/3EXbfIkQv77hwSPn1GEhnk"
-    },
-    {
-      "added_at": "2024-11-11 13:07:41",
-      "album": {
         "name": "Meia Luz",
         "url": "https://open.spotify.com/album/3SgdPPSgAiIJ4LmRmDyvtZ"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 194345,
       "name": "Meia Luz",
       "url": "https://open.spotify.com/track/1lGzIH7kcbOpn5AH00dg4a"
+    },
+    {
+      "added_at": "2024-11-11 13:07:41",
+      "album": {
+        "name": "7AM",
+        "url": "https://open.spotify.com/album/7mPRxm9UIyphSral2SKKYn"
+      },
+      "artists": [
+        {
+          "name": "Angela Destro",
+          "url": "https://open.spotify.com/artist/46EmarN1GVX5EQCRxRQaf6"
+        }
+      ],
+      "duration_ms": 167076,
+      "name": "7AM",
+      "url": "https://open.spotify.com/track/3EXbfIkQv77hwSPn1GEhnk"
     },
     {
       "added_at": "2024-11-11 13:07:41",

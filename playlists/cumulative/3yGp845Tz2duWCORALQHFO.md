@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-1,393 songs - 3 day 3 hr 47 min
+1,394 songs - 3 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [COLLECT THE COMMAS](https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [COLLECT THE COMMAS](https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY) | 3:41 | 2024-10-04 | 2024-10-12 |
 | [Collide](https://open.spotify.com/track/4PaBwFv5dmdOcgMlWXPFjb) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Bigfett](https://open.spotify.com/artist/7x68cYMeDnvneRvfFyEyae), [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [Collide](https://open.spotify.com/album/0W3ydXnmAlPbadePFzbYaQ) | 3:49 | 2024-10-21 | 2024-10-26 |
 | [Collision](https://open.spotify.com/track/0VjyTiicvQSo4O8ztlBq1k) | [Ralphie B](https://open.spotify.com/artist/5KZ8bXnO1Q3nGWP2UqmQ3f), [Frank Waanders](https://open.spotify.com/artist/00eZQLSi5N5mpBuvojLa7P), [Collide1](https://open.spotify.com/artist/1BQkaDW3ZEpSzF75p5CCXg) | [Collision](https://open.spotify.com/album/1ztauk88tgq1yNMF9o6U0q) | 4:00 | 2024-08-23 | 2024-08-31 |
+| [Colmar](https://open.spotify.com/track/0WLmMBatSELqDbg6q3W1Ob) | [Scissors](https://open.spotify.com/artist/3lK4kf4vQZ51qa2LiodnZ4) | [Colmar](https://open.spotify.com/album/6yRMjOReivIMdw8iDshRzu) | 3:02 | 2024-11-13 |  |
 | [Colorblind](https://open.spotify.com/track/4QuLvVp76ztgtugmHQ3AoM) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Colorblind](https://open.spotify.com/album/77cInQFumMTB0g5W5WlMSa) | 2:57 | 2024-07-05 | 2024-07-12 |
 | [Colour of Your Eyes](https://open.spotify.com/track/6MaBBvL7xr4bgJkk6MnLWI) | [Driftmoon](https://open.spotify.com/artist/4iMFxtzAcgUfbsagyY3Vla), [Ruben de Ronde](https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m), [88Birds](https://open.spotify.com/artist/20wsRh5iNQJ7dy3FBavRG1) | [Colour of Your Eyes](https://open.spotify.com/album/2xPRVUhQT809wD5bBkFs3r) | 2:50 | 2024-06-16 | 2024-06-21 |
 | [Colourful](https://open.spotify.com/track/1rBbwiV97GmqyPLN9KDFWt) | [Grey Vision](https://open.spotify.com/artist/7l3gRojjhIGpFq6y8iws3n) | [Colourful](https://open.spotify.com/album/3NznDIffEks1M3G6K61UDW) | 2:10 | 2024-10-04 | 2024-10-12 |
@@ -694,7 +695,7 @@
 | [Let Me Go](https://open.spotify.com/track/0YZjrWzJMCWl310yhzYMYD) | [Daniel Wanrooy](https://open.spotify.com/artist/2eWC3Ckg8BA2MDV2NoHBWd), [Rafael Osmo](https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5) | [Let Me Go](https://open.spotify.com/album/4gttr7xXh34B9q4Q3RFNh2) | 2:57 | 2024-07-25 | 2024-08-02 |
 | [Let Me Go](https://open.spotify.com/track/1HacAMT0gWQWqytCIHsCEZ) | [White Whale](https://open.spotify.com/artist/7iJ8iFAOikb11EdAAP4H5B) | [Let Me Go](https://open.spotify.com/album/1jlXyBiS1igy6FKg6GCdci) | 3:05 | 2024-11-04 | 2024-11-09 |
 | [Let Me Show You](https://open.spotify.com/track/2a7EPJ2PxMr2S4gRmKFmCR) | [Camisra](https://open.spotify.com/artist/1aHPNBPSjYv4vHc2pU37Xf), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Let Me Show You](https://open.spotify.com/album/3roc1FTj57pjPGUPzvO8Gy) | 2:47 | 2024-08-23 | 2024-08-31 |
-| [Let The Bassline](https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Let The Bassline](https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W) | 3:03 | 2024-11-08 |  |
+| [Let The Bassline](https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Let The Bassline](https://open.spotify.com/album/7ba0aNGkTofG4Iz4IDDa2W) | 3:03 | 2024-11-08 | 2024-11-14 |
 | [Let You Go](https://open.spotify.com/track/4LJN5ZRLNbU9R6MINd947R) | [DJ ALEX ALIDAD](https://open.spotify.com/artist/1auKza5PpAvjKT29nwVQYO) | [Let You Go](https://open.spotify.com/album/7FoI7XleumN6XGrSNPdK1s) | 2:56 | 2024-09-12 | 2024-09-27 |
 | [Let Your Spirit Fly](https://open.spotify.com/track/38GTyO4wWpc3EO5O7h48lT) | [Sunlounger](https://open.spotify.com/artist/39xJyKl2iYCAQywsUk4aWg), [Ambedo](https://open.spotify.com/artist/58TFIrb4R2yFMkiGv5b5HV), [Ambedoverse](https://open.spotify.com/artist/6kROPcICNOAoOgkXcvoCx7) | [Let Your Spirit Fly](https://open.spotify.com/album/1q4XRTSbys5MfvKpe5Pm78) | 3:46 | 2024-10-21 | 2024-10-26 |
 | [Let's Go](https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Let's Go](https://open.spotify.com/album/44KFMrvFfUfkcBeKjJLjN6) | 2:39 | 2024-10-04 | 2024-10-12 |

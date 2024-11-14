@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > 2hollis\. Born and raised on the internet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,389,051 likes - 101 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,388,989 likes - 101 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 84 | [Diamondz n Roses \- Bring It Back!](https://open.spotify.com/track/0i2cjHxO2CKXfFoU3TkElS) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z), [VaporGod](https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm) | [Diamondz n Roses \(Bring It Back!\)](https://open.spotify.com/album/0mH3NierpqntsD7jc0Cv69) | 1:33 |
 | 85 | [JACKPOT](https://open.spotify.com/track/7MURXO8ygXnNxg1PMMlX3o) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [JACKPOT](https://open.spotify.com/album/6RFuLCFRPOPBDB61wgkNsQ) | 2:20 |
 | 86 | [Skidoo](https://open.spotify.com/track/5AZMFwVqoTIcx1mMSUZLXl) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Skidoo](https://open.spotify.com/album/2TFJlX6hLheRvmO1u4LW7R) | 3:09 |
-| 87 | [SEXX NOTE](https://open.spotify.com/track/350QjNeeZyUgeKtgOcchfh) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [SEXX NOTE](https://open.spotify.com/album/1eFQM6nSujm89z7HUqJghk) | 1:35 |
+| 87 | [SEXX NOTE](https://open.spotify.com/track/350QjNeeZyUgeKtgOcchfh) | [christian](https://open.spotify.com/artist/18SVpySrjBWD0zsd1PwlSm) | [SEXX NOTE](https://open.spotify.com/album/1eFQM6nSujm89z7HUqJghk) | 1:35 |
 | 88 | [Leaving the Lot](https://open.spotify.com/track/1VvcEtz05boxBKpM2tGPBL) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Leaving the Lot](https://open.spotify.com/album/0HbFiEvmw9DPQZJAcmRRja) | 3:09 |
 | 89 | [SHIMMY](https://open.spotify.com/track/0zRtPy5QKgiNjj9SJ3mNsW) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [SHIMMY](https://open.spotify.com/album/2PzdORjmPgsqEX0waPcV8Z) | 1:44 |
 | 90 | [Kitchen Stove](https://open.spotify.com/track/7diD1MucbcRUVjS6AA9ehm) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Kitchen Stove](https://open.spotify.com/album/132f6mj4FFCdfh5DnZUy7o) | 2:43 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 46728,
+  "num_followers": 46751,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzFJAAAAAABQ/ZuntnLAJRlme8VkD7WY",
+  "snapshot_id": "ZzKagAAAAACSq1w9jD/pR8fqejqtn/Gu",
   "tracks": [
     {
       "added_at": null,
@@ -611,22 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back to My Love",
-        "url": "https://open.spotify.com/album/0abytCO5C9R9BHsvQ52Kyk"
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
         }
       ],
-      "duration_ms": 235294,
-      "name": "Back to My Love",
-      "url": "https://open.spotify.com/track/3Qw29xE1UoPS5mdqoqVnWm"
+      "duration_ms": 233497,
+      "name": "where\u2019s my lighter",
+      "url": "https://open.spotify.com/track/6bh9O5b4eHIjdwtcOVbSMe"
     },
     {
       "added_at": null,
@@ -647,22 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drop 6",
-        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+        "name": "Back to My Love",
+        "url": "https://open.spotify.com/album/0abytCO5C9R9BHsvQ52Kyk"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         },
         {
-          "name": "Alewya",
-          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 233497,
-      "name": "where\u2019s my lighter",
-      "url": "https://open.spotify.com/track/6bh9O5b4eHIjdwtcOVbSMe"
+      "duration_ms": 235294,
+      "name": "Back to My Love",
+      "url": "https://open.spotify.com/track/3Qw29xE1UoPS5mdqoqVnWm"
     },
     {
       "added_at": null,

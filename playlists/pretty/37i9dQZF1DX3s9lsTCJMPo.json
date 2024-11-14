@@ -1,6 +1,6 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Alison Hinds",
-  "num_followers": 117439,
+  "num_followers": 117494,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Anthems Collection",
-        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
-      },
-      "artists": [
-        {
-          "name": "Spice & Co.",
-          "url": "https://open.spotify.com/artist/1Iz2YzkS477m4Jd3lvf7S9"
-        }
-      ],
-      "duration_ms": 260600,
-      "name": "Lift Ya Leg Up",
-      "url": "https://open.spotify.com/track/6pHBIt92RkPztpBh3PW2v1"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "The Mighty Duke Classic Collection 1986-1990",
         "url": "https://open.spotify.com/album/5Xeh8aExQtQo9KCaTIa0Z1"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 410644,
       "name": "Total Dis Order",
       "url": "https://open.spotify.com/track/5lGu6LnHAbZJyVyVk9cD8U"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Anthems Collection",
+        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
+      },
+      "artists": [
+        {
+          "name": "Spice & Co.",
+          "url": "https://open.spotify.com/artist/1Iz2YzkS477m4Jd3lvf7S9"
+        }
+      ],
+      "duration_ms": 260600,
+      "name": "Lift Ya Leg Up",
+      "url": "https://open.spotify.com/track/6pHBIt92RkPztpBh3PW2v1"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Trini Gold",
-        "url": "https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji"
-      },
-      "artists": [
-        {
-          "name": "Superblue",
-          "url": "https://open.spotify.com/artist/5D6aDi6RQZm5nGCgM2jy8M"
-        }
-      ],
-      "duration_ms": 255173,
-      "name": "Tribute to Sundar",
-      "url": "https://open.spotify.com/track/59Orcez9hIBe3KZ561J5f3"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Switch Vol. 5",
         "url": "https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 222733,
       "name": "Palms On De Ground",
       "url": "https://open.spotify.com/track/7gpveUm4dUjKEbh46W5KRL"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Trini Gold",
+        "url": "https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji"
+      },
+      "artists": [
+        {
+          "name": "Superblue",
+          "url": "https://open.spotify.com/artist/5D6aDi6RQZm5nGCgM2jy8M"
+        }
+      ],
+      "duration_ms": 255173,
+      "name": "Tribute to Sundar",
+      "url": "https://open.spotify.com/track/59Orcez9hIBe3KZ561J5f3"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -924,22 +924,6 @@
       },
       "artists": [
         {
-          "name": "Anslem Douglas",
-          "url": "https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm"
-        }
-      ],
-      "duration_ms": 292826,
-      "name": "Ragga Poom Poom",
-      "url": "https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Pure Soca",
-        "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
-      },
-      "artists": [
-        {
           "name": "CRAZY",
           "url": "https://open.spotify.com/artist/2gFPGGvyxyAZwwSeUeKBXZ"
         }
@@ -995,6 +979,22 @@
       "duration_ms": 179520,
       "name": "Savannah Grass",
       "url": "https://open.spotify.com/track/7aWK2UmGXMeOAfcVMxj8NX"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Pure Soca",
+        "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
+      },
+      "artists": [
+        {
+          "name": "Anslem Douglas",
+          "url": "https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm"
+        }
+      ],
+      "duration_ms": 292826,
+      "name": "Ragga Poom Poom",
+      "url": "https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Folklore Riddim",
-        "url": "https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Full Extreme",
         "url": "https://open.spotify.com/album/1l18YSF3VvABWpP7A2qsUj"
       },
@@ -1103,26 +1087,6 @@
       "duration_ms": 232500,
       "name": "Full Extreme",
       "url": "https://open.spotify.com/track/7cRPmS5EeTdWPjgNiDep8e"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Heavy Duty",
-        "url": "https://open.spotify.com/album/4rw2BiS4oNLnrHuT5drVs7"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Xtatik",
-          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
-        }
-      ],
-      "duration_ms": 250733,
-      "name": "Big Truck",
-      "url": "https://open.spotify.com/track/2YH84hlyInKrhJupJQMGtj"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1143,6 +1107,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
+        "name": "Happiest Man Alive",
+        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 218549,
+      "name": "Happiest Man Alive",
+      "url": "https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
         "name": "Soca Gold 2002",
         "url": "https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM"
       },
@@ -1155,6 +1135,22 @@
       "duration_ms": 258893,
       "name": "Blame It (on De Music)",
       "url": "https://open.spotify.com/track/5NPytt77xDitWfE98UeEDV"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Folklore Riddim",
+        "url": "https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1255,18 +1251,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Happiest Man Alive",
-        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
+        "name": "Heavy Duty",
+        "url": "https://open.spotify.com/album/4rw2BiS4oNLnrHuT5drVs7"
       },
       "artists": [
         {
           "name": "Machel Montano",
           "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Xtatik",
+          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
         }
       ],
-      "duration_ms": 218549,
-      "name": "Happiest Man Alive",
-      "url": "https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH"
+      "duration_ms": 250733,
+      "name": "Big Truck",
+      "url": "https://open.spotify.com/track/2YH84hlyInKrhJupJQMGtj"
     },
     {
       "added_at": "2024-08-06 01:00:53",

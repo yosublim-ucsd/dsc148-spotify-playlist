@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > Det bedste nye pop 💜 Julia Michaels
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,951 likes - 114 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,943 likes - 114 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

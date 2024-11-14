@@ -1,6 +1,6 @@
 {
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: Ken Yokoyama",
-  "num_followers": 124217,
+  "num_followers": 124224,
   "original_name": "Punk Japan",
   "owner": {
     "name": "Spotify",
@@ -435,18 +435,22 @@
     {
       "added_at": "2024-11-12 15:00:00",
       "album": {
-        "name": "\u307d",
-        "url": "https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY"
+        "name": "Straight Up (feat. Kj)",
+        "url": "https://open.spotify.com/album/4pIsjjQsa4krzRpcI2sds5"
       },
       "artists": [
         {
-          "name": "B-DASH",
-          "url": "https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz"
+          "name": "The BONEZ",
+          "url": "https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ"
+        },
+        {
+          "name": "Kj",
+          "url": "https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq"
         }
       ],
-      "duration_ms": 195533,
-      "name": "\u3061\u3087",
-      "url": "https://open.spotify.com/track/49pPQ1kOFA3gWhojvc1VEA"
+      "duration_ms": 252300,
+      "name": "Straight Up (feat. Kj)",
+      "url": "https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ"
     },
     {
       "added_at": "2024-11-12 15:00:00",
@@ -467,22 +471,18 @@
     {
       "added_at": "2024-11-12 15:00:00",
       "album": {
-        "name": "Straight Up (feat. Kj)",
-        "url": "https://open.spotify.com/album/4pIsjjQsa4krzRpcI2sds5"
+        "name": "\u307d",
+        "url": "https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY"
       },
       "artists": [
         {
-          "name": "The BONEZ",
-          "url": "https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ"
-        },
-        {
-          "name": "Kj",
-          "url": "https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq"
+          "name": "B-DASH",
+          "url": "https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz"
         }
       ],
-      "duration_ms": 252300,
-      "name": "Straight Up (feat. Kj)",
-      "url": "https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ"
+      "duration_ms": 195533,
+      "name": "\u3061\u3087",
+      "url": "https://open.spotify.com/track/49pPQ1kOFA3gWhojvc1VEA"
     },
     {
       "added_at": "2024-11-12 15:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-11-12 15:00:00",
       "album": {
-        "name": "\u6b7b\u306c\u307e\u3067\u306b\u4ffa\u304c\u3084\u308a\u305f\u3044\u3053\u3068",
-        "url": "https://open.spotify.com/album/4hwgXFx90Z2BmAOXu897c0"
-      },
-      "artists": [
-        {
-          "name": "yangskinny",
-          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
-        }
-      ],
-      "duration_ms": 100840,
-      "name": "\u6b7b\u306c\u307e\u3067\u306b\u4ffa\u304c\u3084\u308a\u305f\u3044\u3053\u3068",
-      "url": "https://open.spotify.com/track/4TF6wD2NlUn8CpZrQFSqUl"
-    },
-    {
-      "added_at": "2024-11-12 15:00:00",
-      "album": {
         "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc\u30fb\u30b7\u30fc\u30b5\u30a4\u30c9",
         "url": "https://open.spotify.com/album/0QByJcApTQCzRS2EvWy4gx"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 197269,
       "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc\u30fb\u30b7\u30fc\u30b5\u30a4\u30c9",
       "url": "https://open.spotify.com/track/2BSEWKPGXooXHbDDle1noH"
+    },
+    {
+      "added_at": "2024-11-12 15:00:00",
+      "album": {
+        "name": "\u6b7b\u306c\u307e\u3067\u306b\u4ffa\u304c\u3084\u308a\u305f\u3044\u3053\u3068",
+        "url": "https://open.spotify.com/album/4hwgXFx90Z2BmAOXu897c0"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "duration_ms": 100840,
+      "name": "\u6b7b\u306c\u307e\u3067\u306b\u4ffa\u304c\u3084\u308a\u305f\u3044\u3053\u3068",
+      "url": "https://open.spotify.com/track/4TF6wD2NlUn8CpZrQFSqUl"
     },
     {
       "added_at": "2024-11-12 15:00:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-11-12 15:00:00",
       "album": {
+        "name": "MUZIC",
+        "url": "https://open.spotify.com/album/4UfnTbzbPnLbF6K1RttHp5"
+      },
+      "artists": [
+        {
+          "name": "EGG BRAIN",
+          "url": "https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI"
+        }
+      ],
+      "duration_ms": 222093,
+      "name": "MUZIC",
+      "url": "https://open.spotify.com/track/1LrmWErruRbgfafzcilZNS"
+    },
+    {
+      "added_at": "2024-11-12 15:00:00",
+      "album": {
         "name": "LOVE THY DRUNX",
         "url": "https://open.spotify.com/album/1n2g5AkNNm468K3AG3INeo"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 228296,
       "name": "\u3055\u3089\u3070\u9752\u6625\u306e\u5149 feat. \u30b6\u30fb\u68ee\u6771",
       "url": "https://open.spotify.com/track/0NEhKgTtDyXvYy0uOdw0hN"
-    },
-    {
-      "added_at": "2024-11-12 15:00:00",
-      "album": {
-        "name": "MUZIC",
-        "url": "https://open.spotify.com/album/4UfnTbzbPnLbF6K1RttHp5"
-      },
-      "artists": [
-        {
-          "name": "EGG BRAIN",
-          "url": "https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI"
-        }
-      ],
-      "duration_ms": 222093,
-      "name": "MUZIC",
-      "url": "https://open.spotify.com/track/1LrmWErruRbgfafzcilZNS"
     },
     {
       "added_at": "2024-11-12 15:00:00",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-11-12 15:00:00",
       "album": {
-        "name": "\u8f1d\u304f\u3082\u306e\u5929\u3088\u308a\u5815\u3061",
-        "url": "https://open.spotify.com/album/77Ll0Q93NYrFRA6lsF5UpK"
+        "name": "DEAD UNICORN & VITAMIN",
+        "url": "https://open.spotify.com/album/4A1QgfUuJSNZZEIJ2ZioUB"
       },
       "artists": [
         {
-          "name": "PK shampoo",
-          "url": "https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ"
+          "name": "EGG BRAIN",
+          "url": "https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI"
         }
       ],
-      "duration_ms": 144653,
-      "name": "\u3072\u3068\u3064\u306e\u66f2\u304c\u3067\u304d\u308b\u307e\u3067",
-      "url": "https://open.spotify.com/track/5WzC0LHb2Ebb6Jz0v56D8y"
+      "duration_ms": 199293,
+      "name": "VITAMIN",
+      "url": "https://open.spotify.com/track/0nJdVhBNM9jkC0PiG4mYNf"
     }
   ],
   "unique_name": "Punk Japan",

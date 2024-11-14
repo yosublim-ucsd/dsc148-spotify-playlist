@@ -1,12 +1,12 @@
 {
   "description": "This is Queen. The essential tracks, all in one playlist.",
-  "num_followers": 4898598,
+  "num_followers": 4898746,
   "original_name": "This Is Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzFJAAAAAAChwe/1qOqiD5ofn625w+Tb",
+  "snapshot_id": "ZzKagAAAAACX/dKjDS5fV4EdmaMKC9NG",
   "tracks": [
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Modern Times Rock 'n' Roll (2024 Mix)",
-        "url": "https://open.spotify.com/album/70BdluKXapYjT5DaTlh9In"
+        "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 108373,
-      "name": "Modern Times Rock 'n\u2019 Roll - 2024 Mix",
-      "url": "https://open.spotify.com/track/4KJllBnrtAxxkHMBO1dk6A"
+      "duration_ms": 287426,
+      "name": "Tie Your Mother Down - Remastered 2011",
+      "url": "https://open.spotify.com/track/4mLKx7zsUdyT4Ax7rI7KXu"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
+        "name": "Modern Times Rock 'n' Roll (2024 Mix)",
+        "url": "https://open.spotify.com/album/70BdluKXapYjT5DaTlh9In"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 287426,
-      "name": "Tie Your Mother Down - Remastered 2011",
-      "url": "https://open.spotify.com/track/4mLKx7zsUdyT4Ax7rI7KXu"
+      "duration_ms": 108373,
+      "name": "Modern Times Rock 'n\u2019 Roll - 2024 Mix",
+      "url": "https://open.spotify.com/track/4KJllBnrtAxxkHMBO1dk6A"
     }
   ],
   "unique_name": "This Is Queen",

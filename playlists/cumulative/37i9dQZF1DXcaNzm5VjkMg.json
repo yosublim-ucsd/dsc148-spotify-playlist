@@ -520,7 +520,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 199844,
       "name": "Cerita",
       "url": "https://open.spotify.com/track/6Sa1QuExIuLuZwyDrmgbN3"
@@ -560,6 +560,24 @@
       "duration_ms": 302866,
       "name": "Cinta Sejati",
       "url": "https://open.spotify.com/track/7zoWyFMR4t8m4CWSmTAois"
+    },
+    {
+      "album": {
+        "name": "Cinta Setara",
+        "url": "https://open.spotify.com/album/3XOby4LLS6WlqCqkQMgomn"
+      },
+      "artists": [
+        {
+          "name": "Sisca Saras",
+          "url": "https://open.spotify.com/artist/2EB26dHYlQMV3VhPWQEJ7p"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227580,
+      "name": "Cinta Setara",
+      "url": "https://open.spotify.com/track/1kEeBXnUMkH8EVAUpvRs4V"
     },
     {
       "album": {
@@ -2452,6 +2470,24 @@
       "duration_ms": 252093,
       "name": "Terpukau",
       "url": "https://open.spotify.com/track/0irPA8LmsoQYkqE5I7v3aj"
+    },
+    {
+      "album": {
+        "name": "Tersemogakan",
+        "url": "https://open.spotify.com/album/09yLZPS9Puyw7DJHYyjSNi"
+      },
+      "artists": [
+        {
+          "name": "Keisya Levronka",
+          "url": "https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254189,
+      "name": "Tersemogakan",
+      "url": "https://open.spotify.com/track/4DOc22yZdsjVPvlrACYIqA"
     },
     {
       "album": {

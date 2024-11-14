@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Lhasa de Sela.
 
-702 songs - 1 day 17 hr 49 min
+703 songs - 1 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [La Malquerida \- En Vivo](https://open.spotify.com/track/4ad6yyRJHSd0AGUmXU1mvQ) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [La Malquerida](https://open.spotify.com/album/3DHUbCkvnVbIE6vCpgoh6n) | 8:05 | 2021-12-24 | 2023-12-16 |
 | [La Manzana](https://open.spotify.com/track/54PN4ud7Us7D0hR2tA43qK) | [Pol Batlle](https://open.spotify.com/artist/7DIjIDnFSYofxjb1ARdOM5), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [La Manzana](https://open.spotify.com/album/07TW9towdEJQC2Bs3f8r63) | 4:34 | 2021-12-24 | 2022-07-27 |
 | [La marea](https://open.spotify.com/track/3CqXY7QgkLyEAVcR1GDW7j) | [Bohe](https://open.spotify.com/artist/6QizHGIASn66CrcR8Fe1fk) | [La marea](https://open.spotify.com/album/557W3LTTj45OUt6P39Arop) | 2:58 | 2022-07-01 | 2022-07-19 |
+| [La Marea \- Directo en Portamérica](https://open.spotify.com/track/0Y7vJxCCdw42ZjlhQZq8Wi) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [La Marea](https://open.spotify.com/album/2yaTIFbjonLj5e1UM0xSKB) | 4:11 | 2024-11-11 |  |
 | [La Maza \- En Vivo Desde Fonobox](https://open.spotify.com/track/66N4z49zmWLC1oOsXRqu09) | [Priscila Félix](https://open.spotify.com/artist/4c5q2DE9662sfdf6DNTNbI) | [La Maza \(En Vivo Desde Fonobox\)](https://open.spotify.com/album/6FsFC9UhnjHs6kZOqlpbCh) | 5:03 | 2021-12-24 | 2022-07-29 |
 | [La Maza \- En Vivo Desde Fonobox](https://open.spotify.com/track/76fR1kHj38aYysA7cLsvle) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [La Maza \(Desde Fonobox\) \[En Vivo\]](https://open.spotify.com/album/0ZdXn6TRcIYKZutBHYVQHg) | 5:03 | 2023-09-15 | 2024-04-19 |
 | [La Melancolía](https://open.spotify.com/track/0rYCv51RoAHWVxkISDgXyU) | [Perropájaro](https://open.spotify.com/artist/1GEPR0e1faYM4A0q6TugVT), [Santiago Adano](https://open.spotify.com/artist/39x4k2KdpPJQ2rrzRLht7Q), [Victoria Fernández](https://open.spotify.com/artist/0Plbanani9vlKgJH0XteYu), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [La Melancolía](https://open.spotify.com/album/43naFQmoz0bkCXJOfbxM5t) | 1:49 | 2023-07-28 | 2023-08-21 |
@@ -361,7 +362,7 @@
 | [lo\_divino](https://open.spotify.com/track/3cINNpglikeD4NAuTFMOaX) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [lo\_divino](https://open.spotify.com/album/2g6RJzn4rdlFwB3UgCX63A) | 3:21 | 2024-01-12 | 2024-02-17 |
 | [Lobo](https://open.spotify.com/track/7yRhEZ11EWwbHwIUQmxT49) | [Elena Gadel](https://open.spotify.com/artist/1xRDIbNubdwQ6WGevJWCHO) | [Lobo](https://open.spotify.com/album/2LOiM1ZumqvUE6Imy2AdwT) | 4:36 | 2023-03-02 | 2023-03-18 |
 | [Lobo](https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6) | [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Lobo](https://open.spotify.com/album/4d3I9khxaMn5J7RxbpBkJk) | 3:06 | 2024-06-14 |  |
-| [Los amores perros](https://open.spotify.com/track/23bYhF4HNawfGoxR927Iuk) | [Soleado](https://open.spotify.com/artist/6GxANftnqrZYaBRulKsov8) | [Los amores perros](https://open.spotify.com/album/513UFrrW9KMHQjvTKigVLg) | 2:32 | 2024-10-25 |  |
+| [Los amores perros](https://open.spotify.com/track/23bYhF4HNawfGoxR927Iuk) | [Soleado](https://open.spotify.com/artist/6GxANftnqrZYaBRulKsov8) | [Los amores perros](https://open.spotify.com/album/513UFrrW9KMHQjvTKigVLg) | 2:32 | 2024-10-25 | 2024-11-14 |
 | [Los Ancestros](https://open.spotify.com/track/7epCtFajoM2z7QtbnY23W2) | [Lucio Mantel](https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk), [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Los Ancestros](https://open.spotify.com/album/2CUmklyaIJvfKBU65k5o24) | 4:10 | 2024-05-30 | 2024-08-31 |
 | [Los Andes](https://open.spotify.com/track/6bfd8pclPiJJ0Iunlt50xQ) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Los Andes](https://open.spotify.com/album/46HToLQXsQFmePBjJlF07j) | 2:35 | 2022-07-22 | 2022-08-03 |
 | [los ausentes](https://open.spotify.com/track/5JgHXc7awzk6q5WoYUjSJj) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [los ausentes](https://open.spotify.com/album/1EtqdQBg0c3m1iVJNctVF9) | 2:59 | 2024-11-11 |  |

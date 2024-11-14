@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,821 songs - 4 day 1 hr 29 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,823 songs - 4 day 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1829,5 +1829,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1819 | [Own The Game](https://open.spotify.com/track/6pt7wirXT60JFf7GT89K3u) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Own The Game](https://open.spotify.com/album/6T5ovc8wYZ4k0MKk7hTw6L) | 2:30 |
 | 1820 | [Nuclear](https://open.spotify.com/track/67tO9ueRmrXrU787RfLRyi) | [Madmize](https://open.spotify.com/artist/5teSCHoGlAzVoJC1SWwZPM) | [Nuclear](https://open.spotify.com/album/7fDjCFm4XBsYyWL9hze8vA) | 2:10 |
 | 1821 | [All I Need](https://open.spotify.com/track/1FTtU8pGRwEYNUjhAf0hWb) | [Avi8](https://open.spotify.com/artist/1GNl1iTql0c4P9brn1Fj6m), [Gearbox Digital](https://open.spotify.com/artist/32Eil9DTJeGj6fnhyXn9L6) | [All I Need](https://open.spotify.com/album/0dDuT61zl0ZK4i3WhmGQOu) | 3:25 |
+| 1822 | [Sweet But Psycho](https://open.spotify.com/track/4tuAQKIOvR2y93N2b8zI9m) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Sweet But Psycho](https://open.spotify.com/album/4OB4IRGAHNxCDqriQJuWT9) | 2:51 |
+| 1823 | [Around](https://open.spotify.com/track/3X7MtlBdVoqp9xsXbFCTng) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Around](https://open.spotify.com/album/08zRhZq1IrNXErHtnV5Xa8) | 2:35 |
 
-Snapshot ID: `AAAHUGrgeoqa+fHt0HVv6OjMSgt1yzlR`
+Snapshot ID: `AAAHUg0pNqi4MU0MQRACvHCQQGcpVlLT`

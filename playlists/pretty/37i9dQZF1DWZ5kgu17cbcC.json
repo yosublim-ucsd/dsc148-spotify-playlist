@@ -1,13 +1,29 @@
 {
   "description": "Music from shows and movies you love including Only Murders In The Building, now streaming on Hulu.",
-  "num_followers": 218662,
+  "num_followers": 218640,
   "original_name": "Hulu Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzKMuQAAAABHRFbtnTnICa/Y9oXuE5UF",
+  "snapshot_id": "ZzVLnQAAAABDXlc4IXpiAhk/oFtBxBck",
   "tracks": [
+    {
+      "added_at": "2024-11-14 01:00:13",
+      "album": {
+        "name": "Only Murders in the Building: Season 4 (Original Score)",
+        "url": "https://open.spotify.com/album/4aR8zf0r5WW8MHjDFJfU2r"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha Khosla",
+          "url": "https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY"
+        }
+      ],
+      "duration_ms": 81106,
+      "name": "The Meaning of Sazz",
+      "url": "https://open.spotify.com/track/23oeqz2xnins0mcJCiPwgd"
+    },
     {
       "added_at": "2024-04-01 18:12:12",
       "album": {

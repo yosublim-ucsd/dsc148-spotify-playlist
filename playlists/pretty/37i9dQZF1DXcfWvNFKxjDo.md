@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover:  Tiësto, Soaky Siren
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,467 likes - 77 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,475 likes - 77 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

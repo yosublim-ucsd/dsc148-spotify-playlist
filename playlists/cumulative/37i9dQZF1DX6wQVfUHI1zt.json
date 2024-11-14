@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 227853,
       "name": "Entre Cantina Y Cantina",
       "url": "https://open.spotify.com/track/7JGKCtGwKRGj70B3IQy0pp"
@@ -3018,6 +3018,24 @@
       "duration_ms": 209040,
       "name": "Un Millon de Rosas",
       "url": "https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo"
+    },
+    {
+      "album": {
+        "name": "Tejano Mix",
+        "url": "https://open.spotify.com/album/0puxxMHv59vd5G047pqTrg"
+      },
+      "artists": [
+        {
+          "name": "Ram Herrera",
+          "url": "https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222906,
+      "name": "Un Pobre Sonador",
+      "url": "https://open.spotify.com/track/0mHrYy6JzpFFDkIOd0q7js"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists every Wednesday. Cover: Stray View | Artwork: Nejc Prah",
+  "description": "New music by the heaviest independent artists every Wednesday. Cover: Knosis | Artwork: Nejc Prah",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -320,7 +320,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 184370,
       "name": "Blood $oda",
       "url": "https://open.spotify.com/track/3aY20b8Gp7v95zWYeyR9OK"
@@ -471,6 +471,24 @@
     },
     {
       "album": {
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/7seWR9BS10N3K8FOyaIuUF"
+      },
+      "artists": [
+        {
+          "name": "Whispers",
+          "url": "https://open.spotify.com/artist/62tqJaaK7ys8tATtp4334R"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176360,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/7sxNMD1pJTmGDx5xftYZZL"
+    },
+    {
+      "album": {
         "name": "Corrosion",
         "url": "https://open.spotify.com/album/31MEawLocr8OoEDFJyg6aa"
       },
@@ -518,7 +536,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 244736,
       "name": "Cross To Bear",
       "url": "https://open.spotify.com/track/0VughS6uwUoAmYAfpS2rZP"
@@ -576,6 +594,24 @@
       "duration_ms": 212914,
       "name": "Death Oath",
       "url": "https://open.spotify.com/track/6N5hpnvbfFYDQYZNhKl0Dz"
+    },
+    {
+      "album": {
+        "name": "Deep in the Mire",
+        "url": "https://open.spotify.com/album/6v0rQFKbG2vWSmUTQSkdDw"
+      },
+      "artists": [
+        {
+          "name": "The Hate Project",
+          "url": "https://open.spotify.com/artist/00LS9pzopfrTLw1Cv17GHo"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172507,
+      "name": "Deep in the Mire",
+      "url": "https://open.spotify.com/track/7Bik5U0sGl5n5UZqI35ram"
     },
     {
       "album": {
@@ -890,7 +926,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 213818,
       "name": "Feel The Pain",
       "url": "https://open.spotify.com/track/4g4BBy0kMhfTPTcObjQwk8"
@@ -1107,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "Hands",
+        "url": "https://open.spotify.com/album/428vU1rpDMtNYEMJFRqLFr"
+      },
+      "artists": [
+        {
+          "name": "Rioghan",
+          "url": "https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274073,
+      "name": "Hands",
+      "url": "https://open.spotify.com/track/0cM0oeHBcYNqnJq4FYXRPT"
+    },
+    {
+      "album": {
         "name": "Heart of Thorns",
         "url": "https://open.spotify.com/album/31tRafX6l8pVaplRXrtE4q"
       },
@@ -1166,6 +1220,24 @@
       "duration_ms": 236373,
       "name": "Horizon Of Spikes",
       "url": "https://open.spotify.com/track/1VNm5rSLXOGBXKP5i2A09O"
+    },
+    {
+      "album": {
+        "name": "What's Left Unsaid",
+        "url": "https://open.spotify.com/album/473iM0z7iwQsy74zcilsRw"
+      },
+      "artists": [
+        {
+          "name": "Foreign Hands",
+          "url": "https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180840,
+      "name": "Horror Domain",
+      "url": "https://open.spotify.com/track/2Kg3mbefgrNLys9uJ9yfSs"
     },
     {
       "album": {
@@ -1339,6 +1411,24 @@
     },
     {
       "album": {
+        "name": "Let His Servants Starve",
+        "url": "https://open.spotify.com/album/6x95rzZNKpRasmGwaVDSWw"
+      },
+      "artists": [
+        {
+          "name": "Tribal Gaze",
+          "url": "https://open.spotify.com/artist/0pm9kmowFxxE4hWYM04MxH"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Let His Servants Starve",
+      "url": "https://open.spotify.com/track/5uYgjQ7DTWxVNkvXXGkoFZ"
+    },
+    {
+      "album": {
         "name": "LIGHT",
         "url": "https://open.spotify.com/album/0fFmfmsqjtzb2LFy7gbqYv"
       },
@@ -1404,7 +1494,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 138133,
       "name": "Loved by None",
       "url": "https://open.spotify.com/track/2ByGgUe2Z0M2xOPbivUwpr"
@@ -1595,6 +1685,24 @@
     },
     {
       "album": {
+        "name": "On The Brink",
+        "url": "https://open.spotify.com/album/39bVJ3bstQjSHazht9mNct"
+      },
+      "artists": [
+        {
+          "name": "SPY",
+          "url": "https://open.spotify.com/artist/7vCI1d19vrokQuRkiAhwMC"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108913,
+      "name": "On The Brink",
+      "url": "https://open.spotify.com/track/3pZkECxp728z1JKMG9nHYK"
+    },
+    {
+      "album": {
         "name": "Holy Blade",
         "url": "https://open.spotify.com/album/4r746Nev4IR7H16OwCai2N"
       },
@@ -1610,6 +1718,24 @@
       "duration_ms": 172562,
       "name": "Only The Dead",
       "url": "https://open.spotify.com/track/2lR42t0KZxPcR1SC4gsMtP"
+    },
+    {
+      "album": {
+        "name": "The Butterfly Effect",
+        "url": "https://open.spotify.com/album/7koN7JpKmVQcvWVMqRMW8K"
+      },
+      "artists": [
+        {
+          "name": "Reeper",
+          "url": "https://open.spotify.com/artist/4BonO8uwa7ONxy7pZRBHCH"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185901,
+      "name": "Out of Color",
+      "url": "https://open.spotify.com/track/6I0VnpYcY5FqPltXkw4nSe"
     },
     {
       "album": {
@@ -1736,7 +1862,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 201176,
       "name": "Repetition",
       "url": "https://open.spotify.com/track/3ptxyqSBfqRJEYG7tVIPGt"
@@ -1794,6 +1920,28 @@
       "duration_ms": 212364,
       "name": "Secret",
       "url": "https://open.spotify.com/track/0H07jl1I7hV10nt6aso2sk"
+    },
+    {
+      "album": {
+        "name": "Self Sabotage",
+        "url": "https://open.spotify.com/album/0JPXhtGlodWjU3H47VxT2K"
+      },
+      "artists": [
+        {
+          "name": "Comastatic",
+          "url": "https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF"
+        },
+        {
+          "name": "Down And Out",
+          "url": "https://open.spotify.com/artist/7EfK0VXLHjPEysgWDnAyYH"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167611,
+      "name": "Self Sabotage",
+      "url": "https://open.spotify.com/track/3jhoLy0PX091ZnsIE0cQCL"
     },
     {
       "album": {
@@ -2406,7 +2554,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 150000,
       "name": "Twitching On The Cross",
       "url": "https://open.spotify.com/track/7Gq5GQwZbizhT8l5QvgzlA"
@@ -2442,7 +2590,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 178714,
       "name": "VIVE LA D\u00c9CEPTION",
       "url": "https://open.spotify.com/track/6OCECC88FRQD5PMmNewXCf"
@@ -2514,7 +2662,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 231911,
       "name": "waste",
       "url": "https://open.spotify.com/track/22uPsSttCJhrDGFhfx9zob"

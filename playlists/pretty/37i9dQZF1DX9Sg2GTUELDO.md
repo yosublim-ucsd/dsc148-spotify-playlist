@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover: Jasmine Yen
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,419 likes - 409 songs - 1 day 0 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,421 likes - 409 songs - 1 day 0 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

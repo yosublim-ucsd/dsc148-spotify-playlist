@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: EDDI CIRCA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,190 likes - 47 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,202 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,5 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 45 | [Acapulco](https://open.spotify.com/track/0RkmCeinDlQYldD8h9eVxE) | [Pacosan](https://open.spotify.com/artist/0YPY3Gvsmn1GXYIbuf7SSD) | [Marcos Cuadrado](https://open.spotify.com/album/2OWe7g2nsonQxgQCcTy3eZ) | 3:43 |
 | 46 | [SÉ BUENA](https://open.spotify.com/track/3r9YZdRvxmm2qaZ82qj2TJ) | [nyco](https://open.spotify.com/artist/4v8SZTSyNLDYU4ZksykE6F) | [SÉ BUENA](https://open.spotify.com/album/66THHj3tcSeQReDpOZqUhD) | 2:33 |
 | 47 | [Intermitente](https://open.spotify.com/track/0CDvujNq6V03QZvmgsU4mx) | [LOS VALIENTES](https://open.spotify.com/artist/2VAo8b6uvd5MlmpiqgqIFN) | [Intermitente](https://open.spotify.com/album/4KLL7Fe9TYVDwsgLtXFEuK) | 3:14 |
+| 48 | [Vamos a vivir para siempre](https://open.spotify.com/track/5vrxvyr7RL2WHxSyvNjuBo) | [Michael Foster](https://open.spotify.com/artist/5OmNL8cD7wnxaG0808fYXG) | [Vamos a vivir para siempre](https://open.spotify.com/album/34xPMp3gQRSOPld357y1iL) | 3:37 |
+| 49 | [Ojos bonitos](https://open.spotify.com/track/7ErcmpT4tRXiGYT5qnJ21U) | [Las Nenas](https://open.spotify.com/artist/5RMPrDy0GZ8rMsuhvw8cs9) | [Ojos bonitos](https://open.spotify.com/album/3njsGzpBLIdyHdOQH5Rc8v) | 1:32 |
+| 50 | [Fiesta en el Cementerio](https://open.spotify.com/track/4KpD9a1NviySqJHWjwSYGq) | [rumbos](https://open.spotify.com/artist/7qNftOu0DUIDh1Gd6Gy8LQ), [Anselmos](https://open.spotify.com/artist/2uUuNmTYEBiQEB5qOWbAHO) | [Fiesta en el Cementerio](https://open.spotify.com/album/63wm1svxEPCg1t6vd69oIv) | 2:56 |
 
-Snapshot ID: `ZzPd8AAAAABIDuQXT3S+L+wiwTCCrlVp`
+Snapshot ID: `ZzRtuAAAAADQzM9CAIjVWTuNQpP3YoyT`

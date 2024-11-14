@@ -7977,6 +7977,24 @@
     },
     {
       "album": {
+        "name": "Hubba Bubba Man",
+        "url": "https://open.spotify.com/album/5ayOZGEhHljBzOaV4Vi7aN"
+      },
+      "artists": [
+        {
+          "name": "Raq baby",
+          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116386,
+      "name": "Hubba Bubba Man",
+      "url": "https://open.spotify.com/track/7vLQkjA9X25TC3WhstSu6o"
+    },
+    {
+      "album": {
         "name": "ANIMALS ONLY",
         "url": "https://open.spotify.com/album/6m3DNzm0j8VH4YBX7g7WI0"
       },

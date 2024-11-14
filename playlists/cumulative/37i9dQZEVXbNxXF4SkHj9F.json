@@ -8439,6 +8439,24 @@
     },
     {
       "album": {
+        "name": "Every Moment With You",
+        "url": "https://open.spotify.com/album/3lqsRjiQWCyXoDHPGH5vhw"
+      },
+      "artists": [
+        {
+          "name": "JAESSBEE",
+          "url": "https://open.spotify.com/artist/17RX24onuwf8gksn9Xa8hq"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172280,
+      "name": "Every Moment With You",
+      "url": "https://open.spotify.com/track/04HGddGSz9qgxiFJkR7oMy"
+    },
+    {
+      "album": {
         "name": "The Book of Us : Negentropy - Chaos swallowed up in love",
         "url": "https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG"
       },
@@ -17032,7 +17050,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 165587,
       "name": "Melt Down",
       "url": "https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg"

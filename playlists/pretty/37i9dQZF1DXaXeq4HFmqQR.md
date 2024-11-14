@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Foto: KUINA
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,759 likes - 35 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,764 likes - 35 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [KARTIER](https://open.spotify.com/track/1tRdcf3UdVArra9G9rMDxH) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Viangogh](https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ) | [SOLO ESTOY JUGANDO MIXXXTAPE](https://open.spotify.com/album/3Xp05lTrokyNhmksd0knNL) | 2:14 |
-| 2 | [para siempre\(｡>﹏<\)](https://open.spotify.com/track/33BJHPx4bGPiHlE5Xo0x8K) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [epistolares](https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv) | 2:30 |
+| 2 | [POPPER!](https://open.spotify.com/track/41P9Z83VHtkpVYfpmDlkAA) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [epistolares](https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv) | 1:50 |
 | 3 | [inmortal](https://open.spotify.com/track/5fbWIu80QFDqcZV86kTnZj) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [inmortal](https://open.spotify.com/album/3VEKoNYDQgGUoQVADy6xuu) | 2:35 |
 | 4 | [LolOLove \(feat\. Pabllo Vittar\)](https://open.spotify.com/track/2ZGXvRgRgUBpMTdflzPEOy) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LolOLove \(feat\. Pabllo Vittar\)](https://open.spotify.com/album/7pxIQkKtEabdKufRaYJ00G) | 2:40 |
 | 5 | [777](https://open.spotify.com/track/2YfZe1Eicnm2JbHHjRvd8n) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF), [EKKI](https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5) | [La Niña de Oro](https://open.spotify.com/album/085DYgF7YJhcI1jPupJ4zA) | 3:35 |
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 7 | [KARO LUJOSO](https://open.spotify.com/track/6Em8fsqiOpU7pcuIdGyfD5) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [KARO LUJOSO](https://open.spotify.com/album/704iL3O0HhQ4Yrs0OdQrak) | 2:14 |
 | 8 | [ilegal.](https://open.spotify.com/track/2d5BsK5KVtv6GevWXeolNl) | [Mariana Bfly](https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw) | [ilegal.](https://open.spotify.com/album/1XV0mUCzpeicwz6rw0oOF5) | 2:13 |
 | 9 | [Culito](https://open.spotify.com/track/6qBUklJgQu1YtJ3Ermu57V) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Triste Y Linda: Linda](https://open.spotify.com/album/5CALTCDnmh9SAj1lx8VlHH) | 3:05 |
-| 10 | [POPPER!](https://open.spotify.com/track/41P9Z83VHtkpVYfpmDlkAA) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [epistolares](https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv) | 1:50 |
+| 10 | [para siempre\(｡>﹏<\)](https://open.spotify.com/track/33BJHPx4bGPiHlE5Xo0x8K) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [epistolares](https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv) | 2:30 |
 | 11 | [boca](https://open.spotify.com/track/6b4E2FsjscgN6CNuiASL7a) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [boca](https://open.spotify.com/album/2PgxxJfUwqVNdUF9w2pJpj) | 2:26 |
 | 12 | [Ryp](https://open.spotify.com/track/6lXy11iC3w8LLzhkXYXdF9) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [La Niña de Oro](https://open.spotify.com/album/085DYgF7YJhcI1jPupJ4zA) | 3:14 |
 | 13 | [duendes y hadas](https://open.spotify.com/track/6AhVA1tZ9N2BD91PZpVyTM) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Viangogh](https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ) | [anubi extraña a ra](https://open.spotify.com/album/6IyAGW0j09alsGYeZGHHd7) | 2:52 |
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 27 | [Queena](https://open.spotify.com/track/4Bnt9mnkdZ3hWDepcsx0Vp) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9), [Sarazul](https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0) | [Queena](https://open.spotify.com/album/0UqlBeCldXRxxU9xMBB8KV) | 4:05 |
 | 28 | [La Favorita de Dios](https://open.spotify.com/track/7zukEo2aDcfeLnmQl6uR65) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [La Favorita de Dios](https://open.spotify.com/album/5RwtDe8GVHaeauAJ4R6BgI) | 2:14 |
 | 29 | [LA JEFA](https://open.spotify.com/track/4TMVyMhuxHa9rfCQkoiWI6) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [LA CLASSE](https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT) | 3:00 |
-| 30 | [Bossma nova](https://open.spotify.com/track/12kx5tD6IZyi6bOlhimtGD) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [Bossma nova](https://open.spotify.com/album/1lb1Lht5l8BsC8BQLKsSnQ) | 2:49 |
+| 30 | [Oxígeno](https://open.spotify.com/track/7AvISl2VtO0kJylhLWZoUV) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Oxígeno](https://open.spotify.com/album/5akFysqbV2g2cENngJMIbI) | 3:19 |
 | 31 | [El Ultimo](https://open.spotify.com/track/0EYdD1EU7sFUkZM85GTB6f) | [Bby Lean](https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [El Ultimo](https://open.spotify.com/album/4nLe8Q4Hc6mCIJBpIDpS3z) | 3:02 |
-| 32 | [Oxígeno](https://open.spotify.com/track/7AvISl2VtO0kJylhLWZoUV) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Oxígeno](https://open.spotify.com/album/5akFysqbV2g2cENngJMIbI) | 3:19 |
+| 32 | [Bossma nova](https://open.spotify.com/track/12kx5tD6IZyi6bOlhimtGD) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [Bossma nova](https://open.spotify.com/album/1lb1Lht5l8BsC8BQLKsSnQ) | 2:49 |
 | 33 | [Love It](https://open.spotify.com/track/49LtBRkoqJutjJdZ64DecR) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Mal Augurio](https://open.spotify.com/album/2UWIBJqg78EqZrxp7ao0cA) | 2:10 |
 | 34 | [MI ULTIMO DESEO](https://open.spotify.com/track/3eG7VpFX2UjkSFCpWP4Zu9) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [MI ULTIMO DESEO](https://open.spotify.com/album/6VCLRqpks5Uh7t2inj2hx5) | 2:38 |
 | 35 | [Te Fuiste](https://open.spotify.com/track/2Zdi36ph1ngwW5pCRjjz8u) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Un Recuerdo](https://open.spotify.com/album/6RRlggxbDzDKkLUnFyNJ1M) | 3:16 |

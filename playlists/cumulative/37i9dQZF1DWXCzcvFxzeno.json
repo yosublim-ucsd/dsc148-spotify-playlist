@@ -765,6 +765,28 @@
     },
     {
       "album": {
+        "name": "Dance MothaF*cka (David Temessi Rework)",
+        "url": "https://open.spotify.com/album/2plhnrhPtvomfOwjj22Aoc"
+      },
+      "artists": [
+        {
+          "name": "Deep91",
+          "url": "https://open.spotify.com/artist/7k4JimOV8Sn7yXbPbjbvBW"
+        },
+        {
+          "name": "David Temessi",
+          "url": "https://open.spotify.com/artist/0SH8Lcl8vQXfyIDVRGSRwP"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315880,
+      "name": "Dance MothaF*cka - David Temessi Rework",
+      "url": "https://open.spotify.com/track/3nVdemOGu6iLeDFpyS8KIf"
+    },
+    {
+      "album": {
         "name": "Dance With The Devil (The 6th Gate) (Reinier Zonneveld Remix)",
         "url": "https://open.spotify.com/album/7eTVuYNi1UiN2cinZkJp56"
       },
@@ -846,7 +868,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 222724,
       "name": "DGAF",
       "url": "https://open.spotify.com/track/4KsCP6skdbY9xsYSYlxbU9"
@@ -991,6 +1013,32 @@
     },
     {
       "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/1nTLgIAwIekeX7HKUNy8ge"
+      },
+      "artists": [
+        {
+          "name": "Paolo Ferrara",
+          "url": "https://open.spotify.com/artist/1U7SiJjX2xOz8I0QFCEeDK"
+        },
+        {
+          "name": "LeStrange",
+          "url": "https://open.spotify.com/artist/01nL5y3UmnvmvusuBmzpN9"
+        },
+        {
+          "name": "Benefice",
+          "url": "https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207508,
+      "name": "Duality",
+      "url": "https://open.spotify.com/track/3f6LpfaDNDy7gtYZFHg5Km"
+    },
+    {
+      "album": {
         "name": "eat, sleep, slay, \ud83d\udd01",
         "url": "https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h"
       },
@@ -1002,7 +1050,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 149666,
       "name": "eat, sleep, slay, \ud83d\udd01",
       "url": "https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi"
@@ -1760,7 +1808,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 163215,
       "name": "I Am Cool",
       "url": "https://open.spotify.com/track/3MpyqUat9C6YkEVsmahdX6"
@@ -3486,6 +3534,28 @@
       "duration_ms": 366961,
       "name": "Torx",
       "url": "https://open.spotify.com/track/5DhIH97LtpstokHxGHyLht"
+    },
+    {
+      "album": {
+        "name": "Toter Schmetterling",
+        "url": "https://open.spotify.com/album/4DE6Bmt5GNbm4up60YkXe2"
+      },
+      "artists": [
+        {
+          "name": "Klangkuenstler",
+          "url": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233846,
+      "name": "Toter Schmetterling",
+      "url": "https://open.spotify.com/track/4LsYdWDeumtYjMndQVcA94"
     },
     {
       "album": {

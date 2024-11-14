@@ -8123,6 +8123,24 @@
     },
     {
       "album": {
+        "name": "No borders",
+        "url": "https://open.spotify.com/album/2vjcO7FPmXU1NQeVltwZKi"
+      },
+      "artists": [
+        {
+          "name": "Delaney & Delaney",
+          "url": "https://open.spotify.com/artist/6ypSxIupxGZQdQdv0ESPwW"
+        }
+      ],
+      "date_added": "2024-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "No borders",
+      "url": "https://open.spotify.com/track/6O9LAJMUgbtw2z8AdAiTin"
+    },
+    {
+      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/2tCWf4q7uiLupjpXgjPf4A"
       },

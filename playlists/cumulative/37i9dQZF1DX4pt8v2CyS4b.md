@@ -4,7 +4,7 @@
 
 > Inspiring the explorer in everyone\. Cover: National Parks USA, now streaming on Hulu.
 
-92 songs - 4 hr 38 min
+93 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Eagle's View](https://open.spotify.com/track/47EKnbnAoybWrmStgDY6rK) | [Neil Davidge](https://open.spotify.com/artist/0mJoamO2s8QKkuKhTpJpPe) | [Music from Earth Moods \(Original Soundtrack\)](https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv) | 3:25 | 2024-05-24 |  |
 | [Earth Stars](https://open.spotify.com/track/5NAGmtVv5y9lpM9F4RL7S5) | [Neil Davidge](https://open.spotify.com/artist/0mJoamO2s8QKkuKhTpJpPe) | [Music from Earth Moods \(Original Soundtrack\)](https://open.spotify.com/album/3Qr9IfjOBYFPRePsdZ1iWv) | 4:06 | 2023-12-15 |  |
 | [Earth Tides](https://open.spotify.com/track/0YE2poy8nH2iXVyNxgJaK1) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Welcome to Earth \(Original Series Soundtrack\)](https://open.spotify.com/album/1hvkCG5N7XxYzM1VGiwuOV) | 3:37 | 2023-12-15 |  |
+| [Endurance](https://open.spotify.com/track/6CSTaZVO2cbdmEqJuO3p5h) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Endurance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3wTe4VGa505UfU4U0R6GMj) | 2:51 | 2024-11-14 |  |
 | [Everything Is Gonna Be Alright](https://open.spotify.com/track/1OascjK1jVlEjrAN30OdC6) | [Bobi Wine](https://open.spotify.com/artist/6d7TH1WmN4YI15WAygkuMR) | [Everything Is Gonna Be Alright](https://open.spotify.com/album/1vdb0jkqoNi8AQc6WFQrpp) | 3:14 | 2023-12-15 | 2024-05-25 |
 | [Finding Elephants](https://open.spotify.com/track/11MrKQXwynEhHxAbDyNPXG) | [Tom Howe](https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6) | [Secrets of the Elephants \(Original Series Soundtrack\)](https://open.spotify.com/album/2NnRcr6edWAT1N2RfQdFOe) | 3:07 | 2023-12-15 |  |
 | [Flamingos: Finding the Perfect Lake](https://open.spotify.com/track/1ZgpuRulxbldoxlF9wRpNg) | [Jake Monaco](https://open.spotify.com/artist/0iJIcOGAPd2UFYRoJhx5FP) | [Incredible Animal Journeys \(Original Series Soundtrack\)](https://open.spotify.com/album/37196HVFnjbl6e9fsl0n5z) | 3:06 | 2023-12-15 |  |

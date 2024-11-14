@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,280 songs - 6 day 19 hr 15 min
+4,281 songs - 6 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -558,6 +558,7 @@
 | [Cabin Fever](https://open.spotify.com/track/2rPWwRkNwzNfkSudOUqsUs) | [khoa](https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj) | [Cabin Fever](https://open.spotify.com/album/1GE2evQnkTJHvgr3EzM9eB) | 1:52 | 2020-08-07 | 2021-04-16 |
 | [Cabriolet](https://open.spotify.com/track/05ZeiujqFx9XGekEXogxdZ) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI), [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Cabriolet](https://open.spotify.com/album/40SEs7WEPREj4xeb9mVNv2) | 2:42 | 2020-07-03 | 2020-10-29 |
 | [Cactus Orchard](https://open.spotify.com/track/11TyHVN8hoKlOouJjt5LWW) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Cactus Orchard](https://open.spotify.com/album/3bNfIpgg7WFESc1ditaMNk) | 2:20 | 2024-10-10 | 2024-10-25 |
+| [Cadillac](https://open.spotify.com/track/50HGX6tJZRnsQDRXD8tm4R) | [Odd Panda](https://open.spotify.com/artist/0Sd0BsazzL4j7U88C3v2iB), [freddo](https://open.spotify.com/artist/3md24KU4DgCAB1QjEOx4lL) | [Cadillac](https://open.spotify.com/album/0FZJkPMlB9Rijwytkc0zft) | 2:07 | 2024-11-11 |  |
 | [Cadim](https://open.spotify.com/track/0Xl2rD95ZarvEhelqn5vtw) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf), [Lock](https://open.spotify.com/artist/0gpKex5pDrVpQ6YGOrOb6A) | [Cadim](https://open.spotify.com/album/2JVvNxrzOWxH7LcecqZbCJ) | 2:24 | 2024-02-29 |  |
 | [Café](https://open.spotify.com/track/3fWo9d74IMcJzeyIwb4gst) | [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG), [Spencer Hunt](https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S) | [Café](https://open.spotify.com/album/1N4HRS8q3qk2H4l29Yc5ma) | 1:36 | 2023-11-13 | 2023-12-02 |
 | [Calabi](https://open.spotify.com/track/4aCqylC1TaJGfA91L9c5rx) | [KOMOREBI](https://open.spotify.com/artist/6izk2AxfY5QGz8SULMzdLI) | [Calabi](https://open.spotify.com/album/2sLThJkAuvJmmKZIQvBuvM) | 2:14 | 2020-10-23 | 2021-05-21 |
@@ -1764,7 +1765,7 @@
 | [It's All Good](https://open.spotify.com/track/6I96KSEuwVp6yTjMdXBotU) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [It's All Good](https://open.spotify.com/album/2ZErPPfRX7IMkcrj3hB6mN) | 2:20 | 2021-10-29 | 2022-07-01 |
 | [It's All Good Man](https://open.spotify.com/track/0JTvUlDFNgbrHoouTyHVQx) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [It's All Good Man](https://open.spotify.com/album/7KqSFWWbQKiTM9xZDxsS2W) | 2:11 | 2023-10-19 | 2023-11-14 |
 | [It's All Gravy](https://open.spotify.com/track/5quY9LzNMcCgKiahHsb7dU) | [Max I Million](https://open.spotify.com/artist/3E8ESEdLCBN9GiSZCUXgdf) | [It's All Gravy](https://open.spotify.com/album/3m5glKld4sPHBWauySAGHI) | 2:40 | 2020-12-11 | 2021-06-18 |
-| [It's Just](https://open.spotify.com/track/0QVnU496HifSee8R7YRHdj) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [It's Just](https://open.spotify.com/album/5VEhJ3xJooJS47GfC9PE3m) | 1:34 | 2024-04-25 |  |
+| [It's Just](https://open.spotify.com/track/0QVnU496HifSee8R7YRHdj) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [It's Just](https://open.spotify.com/album/5VEhJ3xJooJS47GfC9PE3m) | 1:34 | 2024-04-25 | 2024-11-14 |
 | [It's Like](https://open.spotify.com/track/5KxeUIVoQj2OGG0j1WRQoV) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [It's Like](https://open.spotify.com/album/3oBrEMQRMiF1nNlrmDBSxo) | 2:19 | 2021-02-26 | 2021-04-23 |
 | [It's Not Just Me](https://open.spotify.com/track/2XrXZ0DH1mqspN4mZWEp05) | [Ngyn](https://open.spotify.com/artist/0W03t1E2FUo9WAMBwhntuL), [Noah Rosen](https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ), [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM) | [It's Not Just Me](https://open.spotify.com/album/6kH8vRc89EBSXfHCl2TJ6E) | 2:51 | 2022-11-17 | 2023-11-24 |
 | [It's Ok](https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [It's Ok](https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek) | 2:48 | 2019-05-26\* | 2020-03-13 |

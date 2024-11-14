@@ -4631,24 +4631,6 @@
     },
     {
       "album": {
-        "name": "Sl\u00e5ss som en tjej",
-        "url": "https://open.spotify.com/album/0SIAtm0xtnqLdNipxYtRxZ"
-      },
-      "artists": [
-        {
-          "name": "Charta 77",
-          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
-        }
-      ],
-      "date_added": "2021-12-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 153053,
-      "name": "Sla\u030ass som en tjej",
-      "url": "https://open.spotify.com/track/3tfMZpt9jGnpq2ixAcwZPa"
-    },
-    {
-      "album": {
         "name": "Sent ska cynikern vakna",
         "url": "https://open.spotify.com/album/6QDC64k3A3QhXZKtJWBRgQ"
       },
@@ -4664,6 +4646,24 @@
       "duration_ms": 240137,
       "name": "Slumra in",
       "url": "https://open.spotify.com/track/4coFp7UReaPQ98O9lQN8Gg"
+    },
+    {
+      "album": {
+        "name": "Sl\u00e5ss som en tjej",
+        "url": "https://open.spotify.com/album/0SIAtm0xtnqLdNipxYtRxZ"
+      },
+      "artists": [
+        {
+          "name": "Charta 77",
+          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153053,
+      "name": "Sl\u00e5ss som en tjej",
+      "url": "https://open.spotify.com/track/3tfMZpt9jGnpq2ixAcwZPa"
     },
     {
       "album": {
@@ -5058,7 +5058,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 235308,
-      "name": "Tankar pa\u030a kammaren (\u00e4r det bara jag)",
+      "name": "Tankar p\u00e5 kammaren (\u00e4r det bara jag)",
       "url": "https://open.spotify.com/track/3qfYgvvsAcpIRz6re78bPV"
     },
     {

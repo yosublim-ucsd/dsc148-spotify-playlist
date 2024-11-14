@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:7c7ZeiPKWHf2E1rsf1P4VF">Medina</a> har lavet en kampsang til dig der har brug for det ❤️ <a href="spotify:track:3MIwXofeyDvXoYn7GQACCS">Kærlighed</a> ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,558 likes - 102 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,560 likes - 102 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

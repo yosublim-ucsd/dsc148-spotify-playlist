@@ -1,13 +1,29 @@
 {
   "description": "Inspiring the explorer in everyone. Cover: National Parks USA, now streaming on Hulu.  ",
-  "num_followers": 15486,
+  "num_followers": 15516,
   "original_name": "National Geographic Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhS/QAAAADyyivaaAs+jQZR4zMef71f",
+  "snapshot_id": "ZzVLyAAAAAAbSEVJZl4G0XRJE6C37vVs",
   "tracks": [
+    {
+      "added_at": "2024-11-14 01:00:56",
+      "album": {
+        "name": "Endurance (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3wTe4VGa505UfU4U0R6GMj"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "duration_ms": 171686,
+      "name": "Endurance",
+      "url": "https://open.spotify.com/track/6CSTaZVO2cbdmEqJuO3p5h"
+    },
     {
       "added_at": "2024-10-10 22:19:41",
       "album": {

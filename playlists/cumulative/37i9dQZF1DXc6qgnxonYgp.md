@@ -4,7 +4,7 @@
 
 > Featuring today's dopest MCs.<br/>Cover : Hip Hop Tamizha
 
-254 songs - 14 hr 18 min
+255 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Dhrogam](https://open.spotify.com/track/6TFbl8obc4PHOSVT4spvlj) | [Psychomantra](https://open.spotify.com/artist/3as8HCXqsoGHDGPMcqaJOW) | [Dhrogam](https://open.spotify.com/album/4tvT4BIYHQDZOKZD4rrm1W) | 4:22 | 2021-12-01 | 2022-06-16 |
 | [DIARY](https://open.spotify.com/track/2JxS54zjJrd7ljmhQnPR5X) | [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB), [MJ Melodies](https://open.spotify.com/artist/3lKheshxHCfbOVM21KcnZI) | [DIARY](https://open.spotify.com/album/3fVUyTQ9S54dbGLT3kWNb5) | 2:28 | 2022-09-13 |  |
 | [Don't Touch Me](https://open.spotify.com/track/4erLcheGVxTJeokOKeiImR) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Yunohoo](https://open.spotify.com/artist/79SPoI6mlBPKamBm21Q1ut) | [Don't Touch Me](https://open.spotify.com/album/5nYz61zMnv7ukmwHTYG0mn) | 4:18 | 2021-12-01 | 2023-04-29 |
-| [Dope](https://open.spotify.com/track/2XOd9q0WTWFemw9YOPp6UA) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf) | [Dope](https://open.spotify.com/album/3HvyVRO6AEYvuITlntbDk1) | 2:21 | 2023-04-28 |  |
+| [Dope](https://open.spotify.com/track/2XOd9q0WTWFemw9YOPp6UA) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf) | [Dope](https://open.spotify.com/album/3HvyVRO6AEYvuITlntbDk1) | 2:21 | 2023-04-28 | 2024-11-14 |
 | [Dope](https://open.spotify.com/track/6xkzTg34yOZdXsWkG0at4k) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf) | [Dope](https://open.spotify.com/album/1DP9Sd9EmMtfteqwatNRPZ) | 2:21 | 2023-04-28 | 2024-04-19 |
 | [Double Game](https://open.spotify.com/track/4vH5zXAxyruqjKuEgjOdKp) | [Buggimaan](https://open.spotify.com/artist/0r4YXuFgQ7PpwQpi9cVrSo), [Psychomantra](https://open.spotify.com/artist/3as8HCXqsoGHDGPMcqaJOW), [Punitha Raja](https://open.spotify.com/artist/3nlRk4xC0MZJbCa30mOwlk) | [Double Game](https://open.spotify.com/album/3s0nTuZy8Wb465hfnqibpj) | 3:38 | 2021-12-01 | 2022-07-29 |
 | [Double Game](https://open.spotify.com/track/3KT5ahHesWCLbSS5HjrqF4) | [Buggimaan](https://open.spotify.com/artist/0r4YXuFgQ7PpwQpi9cVrSo), [Punitha Raja](https://open.spotify.com/artist/3nlRk4xC0MZJbCa30mOwlk), [Psychomantra](https://open.spotify.com/artist/3as8HCXqsoGHDGPMcqaJOW) | [Double Game](https://open.spotify.com/album/3iJE35Ui1klXznqjHC0YHw) | 3:38 | 2021-12-01 | 2023-04-07 |
@@ -139,6 +139,7 @@
 | [Nee Poonal](https://open.spotify.com/track/772Huc3dRgVniRvwqr2sZg) | [Neroshen](https://open.spotify.com/artist/0jfg5hubgI0U5lVX2rnUan) | [Nee Poonal](https://open.spotify.com/album/20a2xQJxz5CfI8wZ0sz2Dq) | 2:20 | 2021-12-01 | 2024-08-09 |
 | [Neeye Oli](https://open.spotify.com/track/4TZb8HB5VEIRphX4CV7qXj) | [SVDP](https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb), [Navz\-47](https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Neeye Oli](https://open.spotify.com/album/7kteCK6dcvokkmehLt8Cxh) | 3:57 | 2021-12-01 | 2024-08-20 |
 | [Neram](https://open.spotify.com/track/0f9KUdTXGwjOYLINwuQ4SA) | [D2](https://open.spotify.com/artist/3WQqggHnLiOOa2cXL3RjqN), [MC Syze](https://open.spotify.com/artist/415RH1HJvYXcARc4o4CdBV) | [Neram](https://open.spotify.com/album/7rJQPszsf4i7gE2xnnZPT1) | 3:40 | 2021-12-01 | 2023-09-26 |
+| [Never Give Up](https://open.spotify.com/track/6b5UY3VnSSk6J0YJwXX9QP) | [Emcee D](https://open.spotify.com/artist/3N64thkbF77oi0Dl3bGqN8) | [Never Give Up](https://open.spotify.com/album/6dLC0hWQXl6wxKn9pe2ocu) | 2:57 | 2024-11-13 |  |
 | [Nilavae Vaa](https://open.spotify.com/track/6oS83sX3oWpAKhCf4g71ye) | [Mc Bhaashi](https://open.spotify.com/artist/7lZin56OSjFKERgNRdQetu), [Raghul KA](https://open.spotify.com/artist/1CsPEhOdVqfuOP2ShGjIhQ), [Stowe Francis](https://open.spotify.com/artist/7FvjLuuGbaJPo0S6KJFmBQ) | [Nilavae Vaa](https://open.spotify.com/album/5wdvGzU8ilsAUWeEXeCJQ3) | 3:06 | 2021-12-01 | 2022-06-16 |
 | [No God](https://open.spotify.com/track/6hWsjyoetXXMVF0zch4Yj2) | [Siva Gothra](https://open.spotify.com/artist/7ewrUNfULcmUOS73lzF8Yr), [Stan & Sam](https://open.spotify.com/artist/2zeEeBkAKWjSVenQDBHsGM) | [No God](https://open.spotify.com/album/3bfRVeTZUNHdR1ZZ4UPri5) | 3:37 | 2021-12-01 |  |
 | [No Hook](https://open.spotify.com/track/1NrPndNKZvSjU5DEmlIl26) | [San T](https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb), [Venkat GV](https://open.spotify.com/artist/050EyWCU4eCdFZMWjuxZyV) | [No Hook](https://open.spotify.com/album/4IPADE4SKN8I9AYSM5MHUV) | 2:12 | 2021-12-30 | 2024-09-14 |

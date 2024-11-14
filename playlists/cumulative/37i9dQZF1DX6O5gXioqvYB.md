@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: Mazzariello
 
-206 songs - 10 hr 7 min
+208 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Canzoni alla radio](https://open.spotify.com/track/715BG7KwhtLc6Lyi5PIZ3B) | [Lacrima](https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX) | [Canzoni alla radio](https://open.spotify.com/album/7l2sf9KBG6MBqVszdCC68V) | 2:54 | 2024-07-18 | 2024-09-27 |
 | [CAPELLI CORTI CALIFORNIA](https://open.spotify.com/track/11sVx6FxPPxfuPBCc4pYxp) | [Cartapesta](https://open.spotify.com/artist/1WbhtNbZgCyZaqYdKnAwKU) | [CAPELLI CORTI CALIFORNIA](https://open.spotify.com/album/5AEtPyvBjuCnH5TZWaYNMW) | 2:26 | 2024-08-22 | 2024-10-20 |
 | [Cartine](https://open.spotify.com/track/5mJTdLjHkmSKUpuVHu5bGQ) | [Rebecca](https://open.spotify.com/artist/4qglWCdo4uyHaBay75PWYM) | [Immobile](https://open.spotify.com/album/3a09IEJS59f4uNfCbVPwyc) | 2:54 | 2024-09-19 | 2024-09-27 |
-| [catramen](https://open.spotify.com/track/5qDSfaviNFKb78IwNWM98g) | [TFR](https://open.spotify.com/artist/67fpSSxFCzrocAWkKw4Kyn) | [catramen](https://open.spotify.com/album/1Uu6rPp1cKEvNU3OMFomY2) | 3:14 | 2024-10-24 |  |
+| [catramen](https://open.spotify.com/track/5qDSfaviNFKb78IwNWM98g) | [TFR](https://open.spotify.com/artist/67fpSSxFCzrocAWkKw4Kyn) | [catramen](https://open.spotify.com/album/1Uu6rPp1cKEvNU3OMFomY2) | 3:14 | 2024-10-24 | 2024-11-14 |
 | [Che voglia](https://open.spotify.com/track/3jy7pGk9ETfue0bi8ivfcn) | [Rokas](https://open.spotify.com/artist/7BUmFe61H2cYyKVgkwttxj), [Granato](https://open.spotify.com/artist/5pALJdF7dliaPdFzkw9OIy) | [In quella casa in fiamme ci sono dei bambini](https://open.spotify.com/album/1sB7HL8SAA2nRoUUW9Wko6) | 2:23 | 2024-06-27 | 2024-07-27 |
 | [Chinaglia](https://open.spotify.com/track/5WAFTRtlu3yBSVR7i2817K) | [Kinder Garden](https://open.spotify.com/artist/7By2W4RhZGhK9wCYGQr1Q1) | [Chinaglia](https://open.spotify.com/album/3q2fjUB20WvfjBSOOLwLtM) | 3:00 | 2024-06-27 | 2024-07-19 |
 | [Coca Malibù](https://open.spotify.com/track/0exExNFTaK4CFIu8nlAhWn) | [Sir Giove](https://open.spotify.com/artist/50Pi0iTbnC3hDmCx6Bge2i) | [Coca Malibù](https://open.spotify.com/album/0lkr2DmnU8rHWSdi9aPmlD) | 2:46 | 2024-07-25 | 2024-09-27 |
@@ -65,7 +65,7 @@
 | [Estate Inverno](https://open.spotify.com/track/4Vv6gdijmH1LPOI24IRyWe) | [Aria](https://open.spotify.com/artist/23ViK4DcmVkaLub6z4VLgW) | [Estate Inverno](https://open.spotify.com/album/6j4lubgJZ3exogp0Jt0tJp) | 2:45 | 2024-10-24 | 2024-11-08 |
 | [ex](https://open.spotify.com/track/2VfkDQelVVX0gVRRiQ5Ela) | [Tribo](https://open.spotify.com/artist/0I5wDcdDRRJpggrF6OcuTU) | [problemi di <3](https://open.spotify.com/album/7HmTgGbqO9YCqilo26IuLZ) | 3:39 | 2024-07-04 | 2024-07-27 |
 | [FANTASMA](https://open.spotify.com/track/20EFsnCjMkr4Mn40DIo1aG) | [GHE](https://open.spotify.com/artist/44k1ynsCAWZoXV0UtR7mAe) | [FANTASMA](https://open.spotify.com/album/60NnbiHAdcnfpfHjrUb2Wy) | 3:42 | 2024-09-05 | 2024-09-27 |
-| [Fare finta](https://open.spotify.com/track/3XpZTdwW9LwJTIlQG4K4HF) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [fuori dalla stanza](https://open.spotify.com/album/0Hlhcm4rte3kqHNHGNwabv) | 3:02 | 2024-09-19 |  |
+| [Fare finta](https://open.spotify.com/track/3XpZTdwW9LwJTIlQG4K4HF) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [fuori dalla stanza](https://open.spotify.com/album/0Hlhcm4rte3kqHNHGNwabv) | 3:02 | 2024-09-19 | 2024-11-14 |
 | [Farfalla](https://open.spotify.com/track/7tvhTjn5uZBNTBqeugZwPg) | [Pietro Mio](https://open.spotify.com/artist/51kKYDRaem5nTYfN58QAqb) | [Arriva..\. Pietro Mio!](https://open.spotify.com/album/6DdlmlMY96zeVY2hH1QyDS) | 2:39 | 2024-06-27 | 2024-07-05 |
 | [Farla Facile](https://open.spotify.com/track/3vFkSDqxkQ86gEzZHvNznx) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Farla Facile](https://open.spotify.com/album/4c13CaC4uNfNiGL3EnLUo8) | 3:54 | 2024-10-24 |  |
 | [Federico](https://open.spotify.com/track/7BoOBKS1Hjp8emEya78hA2) | [Oratio](https://open.spotify.com/artist/01hSOvWdEIjgEGkJGhNuHn), [RENEE](https://open.spotify.com/artist/3aDh7Ke1Zh28igid7zJhmZ) | [Cinque canzoni](https://open.spotify.com/album/49nKcArx2pJqBGJvvI6dug) | 3:43 | 2024-07-11 | 2024-09-27 |
@@ -156,7 +156,9 @@
 | [Posto Nuovo](https://open.spotify.com/track/1B1JlGhz2IycsOV8EmaJXi) | [Casadilego](https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT) | [Posto Nuovo](https://open.spotify.com/album/06E5ivgvPo3qLoX6jK8t82) | 5:43 | 2024-08-29 |  |
 | [Preda](https://open.spotify.com/track/44kebdQfiOBh5ID6u2Sxvc) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Preda](https://open.spotify.com/album/7la4ofRNquJmp6cqsdU3rj) | 2:36 | 2024-09-05 | 2024-11-11 |
 | [Profumo di dolore \(feat\. EDONiCO\)](https://open.spotify.com/track/5alocERr1H4Qy6mwidyBmV) | [Leonardo Zaccaria](https://open.spotify.com/artist/6TcPvpaSG1G3UjyhqxPY1f), [EDONiCO](https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7) | [Profumo di dolore \(feat\. EDONiCO\)](https://open.spotify.com/album/7tsEBf66mZeBamRgN7CNLK) | 2:39 | 2024-06-27 | 2024-07-12 |
+| [PSICHE .𓆩♡𓆪.](https://open.spotify.com/track/104Gk7WJkwOWrjPW7LGWtl) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS), [dNoise](https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe) | [PSICHE .𓆩♡𓆪.](https://open.spotify.com/album/5EHQltfEEdO4jgLG6QyoPZ) | 2:31 | 2024-11-12 |  |
 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 | 2024-09-05 |  |
+| [Quel che eravamo](https://open.spotify.com/track/1DQeXngkIzbBRSMOS51a1Z) | [Alma](https://open.spotify.com/artist/7epvheVlqCydbScEM57mV6) | [Quel che eravamo](https://open.spotify.com/album/3JFgbuPO0sEht5lFwqrT5k) | 2:57 | 2024-11-12 |  |
 | [Questa notte resta](https://open.spotify.com/track/3dzmfNVTS5y3DZkXIe6EsG) | [Fran e i Pensieri Molesti](https://open.spotify.com/artist/37dWYlSjeT4mB3sTyblB43) | [Questa notte resta](https://open.spotify.com/album/1HFj68aBxlVNUujEoSYVVw) | 2:49 | 2024-09-05 | 2024-09-27 |
 | [Raccontarsi favole](https://open.spotify.com/track/7I0jLHSjDKZ29BWrnqP4Ah) | [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s) | [Raccontarsi favole](https://open.spotify.com/album/3YwaqlCyDXMugZWmfifiHt) | 3:32 | 2024-08-29 | 2024-10-04 |
 | [Ragazza del Mare](https://open.spotify.com/track/5atffTGHbb9nkxwWIRO4aM) | [Napoleone](https://open.spotify.com/artist/4nQ1upAEMpLOBRRajwOoaG) | [Ragazza del Mare](https://open.spotify.com/album/5gQW2KkDP7CZNnPCbG0JuJ) | 2:45 | 2024-09-26 |  |

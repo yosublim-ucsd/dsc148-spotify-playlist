@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 ### [KALYE](https://open.spotify.com/playlist/37i9dQZF1DXbvIwPsyNnKl)
 
-> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Robeldo Timido
+> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Zae & Hev Abi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,254,580 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,255,281 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 | 49 | [Regrets](https://open.spotify.com/track/07TlwpmIzJE0nMffVhJDDx) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [BLUDEVL](https://open.spotify.com/album/2IjAbVlaGvgpWOUcVQjK8x) | 4:04 |
 | 50 | [Hmmm \(Masasawi\)](https://open.spotify.com/track/23XWtmVCCqqusWLmtxWUM8) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Hmmm \(Masasawi\)](https://open.spotify.com/album/3LYlh3KDntUE3YrsNW9Ui4) | 3:01 |
 
-Snapshot ID: `ZzQDhQAAAAC2Sab+JjcvMqgYNlLtI6rx`
+Snapshot ID: `ZzQ7DQAAAABrCpAJ4XZdDDmJ55pg2wNj`

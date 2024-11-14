@@ -640,7 +640,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-14",
       "duration_ms": 184813,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/79t7AWh419e1BHYWRkdOGY"
@@ -4022,6 +4022,24 @@
       "duration_ms": 222936,
       "name": "Shakin' Off The Rust",
       "url": "https://open.spotify.com/track/5PUlGG3xO8PUuDcYKuaeZH"
+    },
+    {
+      "album": {
+        "name": "Mishaps Of My Mid Twenties",
+        "url": "https://open.spotify.com/album/5Rjyhc3YdFNM3qv6wikP8E"
+      },
+      "artists": [
+        {
+          "name": "Mouth Culture",
+          "url": "https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd"
+        }
+      ],
+      "date_added": "2024-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211520,
+      "name": "Sharkbait",
+      "url": "https://open.spotify.com/track/2XybqMpL67EfQErfR00HID"
     },
     {
       "album": {

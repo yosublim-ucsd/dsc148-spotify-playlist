@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Emilia
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,959 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,022 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 70 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
 | 71 | [CRINGE](https://open.spotify.com/track/1QO0w1DZXOitOEg9PvOTHC) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [CRINGE](https://open.spotify.com/album/669qUaCZ3bB9CvONV51c9Q) | 3:27 |
 | 72 | [WACHITA](https://open.spotify.com/track/7jibA5xjCOiTopbQ7tpsZp) | [Brenda Asnicar](https://open.spotify.com/artist/0E8wKk7IC4Se6Z3gS7S3Uv) | [WACHITA](https://open.spotify.com/album/7mgjaSljPCYXevMnRJws0g) | 3:04 |
-| 73 | [TU RECUERDO](https://open.spotify.com/track/6ikJZOFKBKoXdc0P4vkn2z) | [Franco Rizzaro](https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB) | [TU RECUERDO](https://open.spotify.com/album/3JwHN6DUepK3K3VBhSPoEP) | 3:02 |
+| 73 | [Tu Recuerdo](https://open.spotify.com/track/6ikJZOFKBKoXdc0P4vkn2z) | [Franco Rizzaro](https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB) | [Tu Recuerdo](https://open.spotify.com/album/3JwHN6DUepK3K3VBhSPoEP) | 3:02 |
 | 74 | [Salgo a Bailar](https://open.spotify.com/track/7xX7bER73YZSE4m76OpMXV) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Salgo a Bailar](https://open.spotify.com/album/0uRoHlgfvgSwumltupp9vs) | 2:37 |
 | 75 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 |
 | 76 | [BABY HELLO](https://open.spotify.com/track/21N77gfWYoQDvrLvaeiQgi) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:42 |

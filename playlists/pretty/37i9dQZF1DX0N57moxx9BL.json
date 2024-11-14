@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:49bzE5vRBRIota4qeHtQM8\">Skillet</a> ",
-  "num_followers": 157614,
+  "num_followers": 157645,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyRSQAAAAABx/+Nxk3OL8v2jVcQu42q9",
+  "snapshot_id": "ZzTmcwAAAAA//UvUjVjgfOQ1Db387+tn",
   "tracks": [
     {
       "added_at": "2024-11-01 04:00:00",
@@ -627,22 +627,6 @@
       "duration_ms": 200176,
       "name": "Feel",
       "url": "https://open.spotify.com/track/4Zi1CrhsOZdeg4RB9GeVXB"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/5Co6yLI3KGvUphFbkt4nRM"
-      },
-      "artists": [
-        {
-          "name": "Living Again",
-          "url": "https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6"
-        }
-      ],
-      "duration_ms": 179283,
-      "name": "Scarlet",
-      "url": "https://open.spotify.com/track/226x3SnfqKmWipiwilLE2G"
     },
     {
       "added_at": "2024-11-01 04:00:00",

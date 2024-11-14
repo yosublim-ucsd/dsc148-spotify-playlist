@@ -1,13 +1,29 @@
 {
   "description": "T\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: 52Hz",
-  "num_followers": 28336,
+  "num_followers": 28340,
   "original_name": "EQUAL Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZypPEAAAAAC8sQjq+beM/SAYo7L4HKCg",
+  "snapshot_id": "ZzSqFAAAAACji2M4AtX8st0vvdV5x1SO",
   "tracks": [
+    {
+      "added_at": "2024-11-13 13:31:00",
+      "album": {
+        "name": "\u1edf nh\u00e0 m\u1ed9t m\u00ecnh",
+        "url": "https://open.spotify.com/album/5UsZGUTh4OScmYkqy7Ydsj"
+      },
+      "artists": [
+        {
+          "name": "52Hz",
+          "url": "https://open.spotify.com/artist/1y28JlO6rDMUB5rkcA4RAh"
+        }
+      ],
+      "duration_ms": 197714,
+      "name": "\u1edf nh\u00e0 m\u1ed9t m\u00ecnh",
+      "url": "https://open.spotify.com/track/5r3mcoFfYljX47zAAlaGSQ"
+    },
     {
       "added_at": "2024-10-14 08:15:28",
       "album": {
@@ -871,26 +887,6 @@
       "duration_ms": 233730,
       "name": "Bu\u00f4n Tr\u0103ng",
       "url": "https://open.spotify.com/track/18AOhepmK6YUyfCDC3ui0h"
-    },
-    {
-      "added_at": "2024-10-14 08:15:28",
-      "album": {
-        "name": "Minh Tinh",
-        "url": "https://open.spotify.com/album/2jNxIyiGLvQz7UPCRUuU76"
-      },
-      "artists": [
-        {
-          "name": "V\u0103n Mai H\u01b0\u01a1ng",
-          "url": "https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm"
-        },
-        {
-          "name": "H\u1ee9a Kim Tuy\u1ec1n",
-          "url": "https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP"
-        }
-      ],
-      "duration_ms": 187619,
-      "name": "V\u01b0\u1eddn \u0110\u1ecba \u0110\u00e0ng",
-      "url": "https://open.spotify.com/track/3TRtspBNij2TnfbE2nfXLp"
     },
     {
       "added_at": "2024-10-14 08:15:28",
