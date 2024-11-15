@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 
 > Remembering the legendary outlaw Kris Kristofferson
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,211 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,363 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 99 | [God's Gonna Cut You Down](https://open.spotify.com/track/6RFkVsPmrM4pzlDkFswwJl) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American V: A Hundred Highways](https://open.spotify.com/album/40ObOkEaQKVmcJ6k1W2xMg) | 2:38 |
 | 100 | [El Camino](https://open.spotify.com/track/2dZGajSgL5XBmHmNLfyCZe) | [Elizabeth Cook](https://open.spotify.com/artist/0dyEUZv8ftA0dzL5vb2Y9s) | [Welder](https://open.spotify.com/album/1jAPI37kGuVJ1qYi1Uxu0X) | 2:43 |
 
-Snapshot ID: `ZxHdQAAAAAA1+Jyf3l1plTsf0Y4sWWD8`
+Snapshot ID: `ZxHdQAAAAABjmO+GY0ylZN+aZiyGquD1`

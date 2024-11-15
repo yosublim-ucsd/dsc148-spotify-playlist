@@ -1,12 +1,12 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 770629,
+  "num_followers": 770671,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzImLwAAAAAfTAqPEaLSSZy9MrmQxbTE",
+  "snapshot_id": "ZzImLwAAAADMC7rXVmAxQy2RcJsWEW3D",
   "tracks": [
     {
       "added_at": "2024-11-11 15:43:43",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-11-11 15:43:43",
       "album": {
+        "name": "Dunes",
+        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 184752,
+      "name": "Typa Girl",
+      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
+    },
+    {
+      "added_at": "2024-11-11 15:43:43",
+      "album": {
         "name": "Smile Boy",
         "url": "https://open.spotify.com/album/0GCPTSJvxI0pqUEuhOGSaS"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 144840,
       "name": "Smile Boy",
       "url": "https://open.spotify.com/track/686xawmVv1F1Ks5kJRkcVG"
-    },
-    {
-      "added_at": "2024-11-11 15:43:43",
-      "album": {
-        "name": "Dunes",
-        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 184752,
-      "name": "Typa Girl",
-      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
     },
     {
       "added_at": "2024-11-11 15:43:43",
@@ -1039,18 +1039,22 @@
     {
       "added_at": "2024-11-11 15:43:43",
       "album": {
-        "name": "Drinkin",
-        "url": "https://open.spotify.com/album/2M4jhdsyvC0xpuXXc1SKWE"
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq"
       },
       "artists": [
         {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        },
+        {
+          "name": "PHANTOMA",
+          "url": "https://open.spotify.com/artist/2nVkiO6d4vQJFWGZ4OQ5mC"
         }
       ],
-      "duration_ms": 136615,
-      "name": "Drinkin",
-      "url": "https://open.spotify.com/track/1Usa0Fv8L9NmRKY4UYk4sD"
+      "duration_ms": 147680,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz"
     }
   ],
   "unique_name": "Fit Beats ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,701 likes - 150 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,703 likes - 150 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 149 | [Afterspot](https://open.spotify.com/track/3pZiVS3HTGN4iTZ21zqzv4) | [FHAT](https://open.spotify.com/artist/6ltQmR519qfdWeirSIzCV8), [Leonardo Das Cabrio](https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI) | [Afterspot](https://open.spotify.com/album/5ur8mjobeo5p2DrXs05hyf) | 2:31 |
 | 150 | [So Full Of Love](https://open.spotify.com/track/0Vb4ByCBddUaXWyqr8Aj6B) | [Dave Leatherman](https://open.spotify.com/artist/6yIn9HZS8StotrpaKwAyzV), [Bruce Nolan](https://open.spotify.com/artist/5sKnJafPSfMttoO0ZqHMO8) | [So Full Of Love](https://open.spotify.com/album/52vPiQ46PABlhPjMhLRbD3) | 6:32 |
 
-Snapshot ID: `ZxZz3QAAAABDLQ7lzkyFKC8PjXdGMT40`
+Snapshot ID: `ZxZz3QAAAAC26Su7WwKpe/VSoq+3WQEL`

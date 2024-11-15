@@ -2204,7 +2204,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 280600,
       "name": "\u5149",
       "url": "https://open.spotify.com/track/16Jwl6WRsN8xvjVz9Tnw7L"
@@ -3891,6 +3891,24 @@
     },
     {
       "album": {
+        "name": "\u5e0c\u671b,\u6709\u4e00\u5929",
+        "url": "https://open.spotify.com/album/5dZ43s7lF9X9yljwRjJekR"
+      },
+      "artists": [
+        {
+          "name": "\u5f90\u9cf3\u5100",
+          "url": "https://open.spotify.com/artist/7FWjJt3edwELsTBsfLMYmY"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201527,
+      "name": "\u5e0c\u671b\u6709\u4e00\u5929",
+      "url": "https://open.spotify.com/track/7bqPWDqqyvGIps8igQ1CWK"
+    },
+    {
+      "album": {
         "name": "\u751f\u6ec5",
         "url": "https://open.spotify.com/album/4cwzJiqUbBAUjnmU16XbeW"
       },
@@ -3990,6 +4008,24 @@
       "duration_ms": 222979,
       "name": "\u5eb8\u4eba\u81ea\u64fe",
       "url": "https://open.spotify.com/track/6rGHytgJzvLLe756KwRaqb"
+    },
+    {
+      "album": {
+        "name": "\u5ef6\u9072\u7684\u7406\u60f3",
+        "url": "https://open.spotify.com/album/0WsnhVeZSK7eAcOrwYGTil"
+      },
+      "artists": [
+        {
+          "name": "Anni Hung",
+          "url": "https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232028,
+      "name": "\u5ef6\u9072\u7684\u7406\u60f3",
+      "url": "https://open.spotify.com/track/2Iq9fen8bWsR9eVMQqGNVV"
     },
     {
       "album": {
@@ -4220,7 +4256,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 136706,
       "name": "\u6084\u6084\u544a\u8a34\u4f60",
       "url": "https://open.spotify.com/track/7j34mUd15g3RrhZzVx3CgB"
@@ -5810,6 +5846,24 @@
       "duration_ms": 241893,
       "name": "\u6c7a\u5b9a\u4e0d\u60f3\u4f60",
       "url": "https://open.spotify.com/track/5Ps2mIW2fcPJRsNw5HGdd6"
+    },
+    {
+      "album": {
+        "name": "\u96d9\u751f\u706b\u7130",
+        "url": "https://open.spotify.com/album/2u6C7l72qZ9TmKlFz9MJzh"
+      },
+      "artists": [
+        {
+          "name": "Penny Tai",
+          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305013,
+      "name": "\u6c89\u9ed8",
+      "url": "https://open.spotify.com/track/6DzvjbpPRoH2vbTVvvdDcz"
     },
     {
       "album": {
@@ -8088,7 +8142,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 293833,
       "name": "\u96d9\u68f2\u52d5\u7269",
       "url": "https://open.spotify.com/track/03PKZKaaflLteXAbL58s2d"

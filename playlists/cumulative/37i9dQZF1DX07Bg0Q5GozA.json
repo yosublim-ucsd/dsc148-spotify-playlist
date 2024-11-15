@@ -786,7 +786,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 185160,
       "name": "Always Forever",
       "url": "https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO"
@@ -4137,6 +4137,28 @@
     },
     {
       "album": {
+        "name": "Drums of Death",
+        "url": "https://open.spotify.com/album/5O2iDeaXzm0HOsEkYartOo"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Koreless",
+          "url": "https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191360,
+      "name": "Drums of Death",
+      "url": "https://open.spotify.com/track/0s2kdkcG5N7ySBbEwTiFEF"
+    },
+    {
+      "album": {
         "name": "Dumb Love",
         "url": "https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO"
       },
@@ -4958,7 +4980,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 159000,
       "name": "Favourite Girl",
       "url": "https://open.spotify.com/track/4O2lcMh4Y5MaElHa2ec7WZ"
@@ -5662,6 +5684,28 @@
       "duration_ms": 188000,
       "name": "For You",
       "url": "https://open.spotify.com/track/5Ts6qXmwsHYrWrqnGrvzzf"
+    },
+    {
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/15JwpSbmrg94260qjQQYse"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Janet Planet",
+          "url": "https://open.spotify.com/artist/6WaeCF7BKSHfUuOj4ggRoq"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198483,
+      "name": "Forever Baby",
+      "url": "https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo"
     },
     {
       "album": {
@@ -7714,7 +7758,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 157808,
       "name": "I See You I Understand",
       "url": "https://open.spotify.com/track/6E9PGtboldVyogRJHW3rpb"
@@ -8995,6 +9039,24 @@
     },
     {
       "album": {
+        "name": "King of Cups / Communication",
+        "url": "https://open.spotify.com/album/64xiuxTBvROLazYEcyMFkm"
+      },
+      "artists": [
+        {
+          "name": "Elodie Gervaise",
+          "url": "https://open.spotify.com/artist/6unop8bfA1nenk8F2DpWZB"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "King of Cups",
+      "url": "https://open.spotify.com/track/1PHFpin9mNZTWhYEpXaEiS"
+    },
+    {
+      "album": {
         "name": "Kiss (Colyn & Konstantin Sibold Remix)",
         "url": "https://open.spotify.com/album/04IxzyKjiLFRXO6Pi15osR"
       },
@@ -9966,7 +10028,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 226565,
       "name": "Love Seeking",
       "url": "https://open.spotify.com/track/0tsy6nz8kxejwfHa2MIj42"
@@ -10672,7 +10734,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 221975,
       "name": "Mine",
       "url": "https://open.spotify.com/track/2hPA6eCXmilws9KXeKwOGN"
@@ -11268,6 +11330,28 @@
       "duration_ms": 213880,
       "name": "Mustang",
       "url": "https://open.spotify.com/track/33l4on0m8p7CMD4nFl9m7Z"
+    },
+    {
+      "album": {
+        "name": "Mutations (Empress Of Remix)",
+        "url": "https://open.spotify.com/album/3ZSqEx1tLfIZ6Cgrzwj5Zf"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192845,
+      "name": "Mutations - Empress Of Remix",
+      "url": "https://open.spotify.com/track/0vsEjfryxWNGtF0IOi0WMR"
     },
     {
       "album": {
@@ -13990,6 +14074,32 @@
       "duration_ms": 388056,
       "name": "Secret in the Dark (Juan Maclean Remix)",
       "url": "https://open.spotify.com/track/7BAunvyoG1qKCwgeOiR3Hh"
+    },
+    {
+      "album": {
+        "name": "Seek",
+        "url": "https://open.spotify.com/album/7q4EnMTzFchOlJsThi6m6x"
+      },
+      "artists": [
+        {
+          "name": "Klaus",
+          "url": "https://open.spotify.com/artist/0TtgAlKNutf5UgUpo6z3wT"
+        },
+        {
+          "name": "Scalarandis",
+          "url": "https://open.spotify.com/artist/27Jv5DkDe7VLUHdfW4wUQk"
+        },
+        {
+          "name": "Paul Brenning",
+          "url": "https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173280,
+      "name": "Seek",
+      "url": "https://open.spotify.com/track/1HHxOiGyEx41kAtx4f85gn"
     },
     {
       "album": {

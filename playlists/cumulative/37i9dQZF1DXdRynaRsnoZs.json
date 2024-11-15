@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Christmas Lullabies for Babies (2024)",
+        "url": "https://open.spotify.com/album/7u9tavkEHTc4tweyBdkDrA"
+      },
+      "artists": [
+        {
+          "name": "The Night Owl",
+          "url": "https://open.spotify.com/artist/0igPRkjHRxYJLdlstbp9MW"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186840,
+      "name": "Christmas Baby - Instrumental",
+      "url": "https://open.spotify.com/track/76c0nnqGOlznWQXwK2XulW"
+    },
+    {
+      "album": {
         "name": "The Joy of Christmas",
         "url": "https://open.spotify.com/album/6wIKUnFppzUPdkXF4AvWiD"
       },

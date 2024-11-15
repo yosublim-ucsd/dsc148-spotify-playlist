@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PROXIE",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: MABELZ PiXXiE",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -605,6 +605,24 @@
     },
     {
       "album": {
+        "name": "Choose Me",
+        "url": "https://open.spotify.com/album/6KONF8hVx4IKHJswTvxPir"
+      },
+      "artists": [
+        {
+          "name": "GoyNattyDream",
+          "url": "https://open.spotify.com/artist/3FkXFqPqFF7nZgNTAYXBFU"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174600,
+      "name": "Choose Me",
+      "url": "https://open.spotify.com/track/4BoZEcYmmCgANjVTCCyY76"
+    },
+    {
+      "album": {
         "name": "CHOP CHOP - Single",
         "url": "https://open.spotify.com/album/1Kfkj5kbTspOsC7iaBAK3o"
       },
@@ -746,6 +764,24 @@
       "duration_ms": 252709,
       "name": "Daily Magic",
       "url": "https://open.spotify.com/track/21gpUjOF7vYrqMMjQgMI3g"
+    },
+    {
+      "album": {
+        "name": "Dancing Queen",
+        "url": "https://open.spotify.com/album/64lqUumFXW0jNntoXqqWQA"
+      },
+      "artists": [
+        {
+          "name": "Jackie Jackrin",
+          "url": "https://open.spotify.com/artist/61wBtGF8ryUlEeb5lq4cnX"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195195,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/0kO4mdnP7JOXSmgjrZafac"
     },
     {
       "album": {
@@ -6388,7 +6424,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 233500,
       "name": "\u0e20\u0e32\u0e1e\u0e17\u0e35\u0e48\u0e2a\u0e27\u0e22\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14",
       "url": "https://open.spotify.com/track/6ytLne1WGhSYs99XXdn24r"
@@ -7052,6 +7088,24 @@
       "duration_ms": 216000,
       "name": "\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d (ONLY YOU) - From \u0e04\u0e48\u0e2d\u0e22\u0e46\u0e23\u0e31\u0e01 Step By Step",
       "url": "https://open.spotify.com/track/430P9zwgo2Nv56Znbzg3LB"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d\u0e43\u0e2b\u0e21\u0e48\u0e44\u0e14\u0e49\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 (one more chance)",
+        "url": "https://open.spotify.com/album/28jtQDJGCPVs1ftYQXNdVu"
+      },
+      "artists": [
+        {
+          "name": "MXFRUIT",
+          "url": "https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d\u0e43\u0e2b\u0e21\u0e48\u0e44\u0e14\u0e49\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 (one more chance)",
+      "url": "https://open.spotify.com/track/1YLPPIsDfcmmJU92uYmtRU"
     },
     {
       "album": {
@@ -7986,7 +8040,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 234330,
       "name": "\u0e2a\u0e48\u0e27\u0e19\u0e25\u0e36\u0e01",
       "url": "https://open.spotify.com/track/0pTVv3OK76OpnISr7hTlUn"
@@ -8588,7 +8642,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 192539,
       "name": "\u0e2d\u0e22\u0e48\u0e32\u0e15\u0e2d\u0e1a (Drunk Text)",
       "url": "https://open.spotify.com/track/34sbuqIjki92FozLCtR9yW"
@@ -8628,6 +8682,24 @@
       "duration_ms": 226086,
       "name": "\u0e2d\u0e22\u0e48\u0e32\u0e2d\u0e22\u0e39\u0e48\u0e40\u0e25\u0e22",
       "url": "https://open.spotify.com/track/61faGyAiv8zqm0EUUpRYma"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e22\u0e48\u0e32\u0e44\u0e1b\u0e23\u0e31\u0e01\u0e40\u0e02\u0e32\u0e40\u0e25\u0e22\u0e40\u0e18\u0e2d (Someone Who Cares)",
+        "url": "https://open.spotify.com/album/6gE0dUKN6dQcAggDrblEbR"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251379,
+      "name": "\u0e2d\u0e22\u0e48\u0e32\u0e44\u0e1b\u0e23\u0e31\u0e01\u0e40\u0e02\u0e32\u0e40\u0e25\u0e22\u0e40\u0e18\u0e2d (Someone Who Cares)",
+      "url": "https://open.spotify.com/track/7aODosiDkZoJdgny6F38Xs"
     },
     {
       "album": {
@@ -9764,7 +9836,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 176727,
       "name": "\u0e40\u0e2b\u0e19\u0e37\u0e48\u0e2d\u0e22\u0e2b\u0e19\u0e48\u0e2d\u0e22\u0e19\u0e30 (SOMEONE LIKE ME)",
       "url": "https://open.spotify.com/track/1iB4DlhihIiLpXB6rTDtkO"

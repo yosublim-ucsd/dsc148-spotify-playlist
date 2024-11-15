@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 
 > Chill house beats for hanging out in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,228 likes - 288 songs - 13 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,290 likes - 288 songs - 13 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -297,4 +297,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 287 | [Revival](https://open.spotify.com/track/4HS5hXkEL1rOdTQ3WG2LiR) | [Julian Tremolino](https://open.spotify.com/artist/5o5JIIWm9kQ1kCknZrw84F) | [Revival](https://open.spotify.com/album/1CyUxm0fFU994FDj32HJHj) | 2:56 |
 | 288 | [Dream Of You](https://open.spotify.com/track/0gmFwY4Oa0oBDu8OWTJ9gA) | [Pjuck](https://open.spotify.com/artist/4y7TV9mGqoi2fHB1RLhqZm) | [Dream Of You](https://open.spotify.com/album/261Z2xiEZ3qCBqmEVOA5ok) | 2:26 |
 
-Snapshot ID: `ZvFQCwAAAAANO2YeZtTjXdZpap0ZU06W`
+Snapshot ID: `ZvFQCwAAAACpOJouhqImJVVTkmc5HzTd`

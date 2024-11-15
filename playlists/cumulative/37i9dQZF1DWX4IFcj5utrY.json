@@ -4171,6 +4171,28 @@
     },
     {
       "album": {
+        "name": "Can't Let You Go",
+        "url": "https://open.spotify.com/album/3qzTRlqS7SH1Ea3KggjQuw"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Bantu",
+          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154293,
+      "name": "Can't Let You Go",
+      "url": "https://open.spotify.com/track/7E6KF4tYddZGxtBqv9J7YA"
+    },
+    {
+      "album": {
         "name": "Can't Wait (feat. Aubrey Qwana)",
         "url": "https://open.spotify.com/album/4QtX3HhLYYVrKURW5Lqxip"
       },
@@ -10862,7 +10884,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 359218,
       "name": "Iza Ngamandla",
       "url": "https://open.spotify.com/track/2WD39n5kBRiWBKMZmC1Lom"
@@ -15398,7 +15420,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 297949,
       "name": "Ngixolele",
       "url": "https://open.spotify.com/track/6HY5NwZ2Rli5kT8hwtdzWf"
@@ -24814,6 +24836,24 @@
       "duration_ms": 186000,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/5DTTaRnwS2m4K7xQVzuvwv"
+    },
+    {
+      "album": {
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
+      },
+      "artists": [
+        {
+          "name": "Demay\u00e4",
+          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263250,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
     },
     {
       "album": {

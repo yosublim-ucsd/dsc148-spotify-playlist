@@ -1,15 +1,31 @@
 {
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Giorgos Kakosaios",
-  "num_followers": 32109,
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Aspa",
+  "num_followers": 32118,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy04YAAAAACAZ9eEO/cV7buB+iHfo0/5",
+  "snapshot_id": "ZzZy4AAAAACzHTlChCYsAE/KTK79NBtW",
   "tracks": [
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
+      "album": {
+        "name": "Xeimwnas",
+        "url": "https://open.spotify.com/album/2gnvF2qjaKgS4tddJltNex"
+      },
+      "artists": [
+        {
+          "name": "Aspa",
+          "url": "https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Xeimwnas",
+      "url": "https://open.spotify.com/track/47DMuLoJzVMVCiAhgGw0e1"
+    },
+    {
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "Monaxia",
         "url": "https://open.spotify.com/album/6UneAU2jm2vCCM7l3cpoGP"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/2AnmJmjWb52KlIojfW7mU2"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "Logia",
         "url": "https://open.spotify.com/album/67ZfumS9xEJSvImcnUxCev"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/1UudyGXBTV2WxnULbhYXtp"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "Skoteine Mou Erota",
         "url": "https://open.spotify.com/album/44Yy04tr3fuqM278nG4wuO"
@@ -57,23 +73,7 @@
       "url": "https://open.spotify.com/track/2ne8nKFYuYTUnhsUAtELii"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
-        "name": "Psixi Me Psixi",
-        "url": "https://open.spotify.com/album/0C8jXZAjScZhZdNRxphyFC"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Sabanis",
-          "url": "https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd"
-        }
-      ],
-      "duration_ms": 261117,
-      "name": "Psixi Me Psixi",
-      "url": "https://open.spotify.com/track/7h6EQyOSzYyN1eDG1rpIK5"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "Agapi Mou Me Dioxneis",
         "url": "https://open.spotify.com/album/5WlF9YZekzepjqsncoD8LR"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/4u4kVeDK1ru1ekntEKL7OA"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "Parea Me Ton Pano - Live",
         "url": "https://open.spotify.com/album/2l6v9zoA8e61cZ0DAHsVth"
@@ -105,71 +105,7 @@
       "url": "https://open.spotify.com/track/47Mwkz2SSCReqoC74u86Az"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
-        "name": "Ferte Tin Piso",
-        "url": "https://open.spotify.com/album/12AJK5voCX09GdZGXHt3Bp"
-      },
-      "artists": [
-        {
-          "name": "Petros Iakovidis",
-          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
-        }
-      ],
-      "duration_ms": 227542,
-      "name": "Ferte Tin Piso",
-      "url": "https://open.spotify.com/track/2OexVDpovkx2sW5nKIDfg9"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
-        "name": "Giati S' Emena",
-        "url": "https://open.spotify.com/album/2dAmuI9hvOBW0R3YaddWkw"
-      },
-      "artists": [
-        {
-          "name": "Lena Zevgara",
-          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
-        }
-      ],
-      "duration_ms": 198875,
-      "name": "Giati S' Emena",
-      "url": "https://open.spotify.com/track/07VYoZedBJpgqRzGGPHg5P"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
-        "name": "Entelos Tipika",
-        "url": "https://open.spotify.com/album/2AOQM4h47bu7DWLtOCvg0c"
-      },
-      "artists": [
-        {
-          "name": "Stan",
-          "url": "https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2"
-        }
-      ],
-      "duration_ms": 210034,
-      "name": "Entelos Tipika",
-      "url": "https://open.spotify.com/track/3XejrskFrWwOkz5XKQrzWN"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
-        "name": "Tetoia Ora Tetoia Logia",
-        "url": "https://open.spotify.com/album/3kO8SldfCQ9QQHmJKhYdbS"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Kakosaios",
-          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
-        }
-      ],
-      "duration_ms": 192499,
-      "name": "Tetoia Ora Tetoia Logia",
-      "url": "https://open.spotify.com/track/54nRNSRJJXH1XIJZY4H5Xm"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "Planitis Gi",
         "url": "https://open.spotify.com/album/3NrhsZPgo6Z72XmnDizCTK"
@@ -185,7 +121,139 @@
       "url": "https://open.spotify.com/track/1jhWAV25iQBkWOtIlHe6a0"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
+      "album": {
+        "name": "To Viografiko",
+        "url": "https://open.spotify.com/album/6TZl1zhoavvZUkUKjPX2jr"
+      },
+      "artists": [
+        {
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+        }
+      ],
+      "duration_ms": 205202,
+      "name": "To Viografiko",
+      "url": "https://open.spotify.com/track/2AlQniZwMjUWcOqtawNvxF"
+    },
+    {
+      "added_at": "2024-11-14 22:00:00",
+      "album": {
+        "name": "Ferte Tin Piso",
+        "url": "https://open.spotify.com/album/12AJK5voCX09GdZGXHt3Bp"
+      },
+      "artists": [
+        {
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+        }
+      ],
+      "duration_ms": 227542,
+      "name": "Ferte Tin Piso",
+      "url": "https://open.spotify.com/track/2OexVDpovkx2sW5nKIDfg9"
+    },
+    {
+      "added_at": "2024-11-14 22:00:00",
+      "album": {
+        "name": "Gyrismos",
+        "url": "https://open.spotify.com/album/1dAWCzUopvEyjmSg7py5Cp"
+      },
+      "artists": [
+        {
+          "name": "Christos Mastoras",
+          "url": "https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu"
+        },
+        {
+          "name": "Melisses",
+          "url": "https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Gyrismos",
+      "url": "https://open.spotify.com/track/4LQd54eTyzSTld755Ke7yY"
+    },
+    {
+      "added_at": "2024-11-14 22:00:00",
+      "album": {
+        "name": "Entelos Tipika",
+        "url": "https://open.spotify.com/album/2AOQM4h47bu7DWLtOCvg0c"
+      },
+      "artists": [
+        {
+          "name": "Stan",
+          "url": "https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2"
+        }
+      ],
+      "duration_ms": 210034,
+      "name": "Entelos Tipika",
+      "url": "https://open.spotify.com/track/3XejrskFrWwOkz5XKQrzWN"
+    },
+    {
+      "added_at": "2024-11-14 22:00:00",
+      "album": {
+        "name": "Magnitis",
+        "url": "https://open.spotify.com/album/0dzQdpImmpz4KXZ1iLBdrS"
+      },
+      "artists": [
+        {
+          "name": "Apostolia Zoi",
+          "url": "https://open.spotify.com/artist/1Bkxsw4F0k3dwgA1GtpPaJ"
+        }
+      ],
+      "duration_ms": 179042,
+      "name": "Magnitis",
+      "url": "https://open.spotify.com/track/7IQt7j6Ii1DXmQwnbqqb71"
+    },
+    {
+      "added_at": "2024-11-14 22:00:00",
+      "album": {
+        "name": "To Mystiko",
+        "url": "https://open.spotify.com/album/0yaV7hs9aKvylS64s8mGLM"
+      },
+      "artists": [
+        {
+          "name": "Billie Isak",
+          "url": "https://open.spotify.com/artist/0RMH7M3gqLAv3DUeLvQzz6"
+        }
+      ],
+      "duration_ms": 226981,
+      "name": "To Mystiko",
+      "url": "https://open.spotify.com/track/1LIG2rKf68oPWdD3xx5rzf"
+    },
+    {
+      "added_at": "2024-11-14 22:00:00",
+      "album": {
+        "name": "Psixi Me Psixi",
+        "url": "https://open.spotify.com/album/0C8jXZAjScZhZdNRxphyFC"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Sabanis",
+          "url": "https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd"
+        }
+      ],
+      "duration_ms": 261117,
+      "name": "Psixi Me Psixi",
+      "url": "https://open.spotify.com/track/7h6EQyOSzYyN1eDG1rpIK5"
+    },
+    {
+      "added_at": "2024-11-14 22:00:00",
+      "album": {
+        "name": "Giati S' Emena",
+        "url": "https://open.spotify.com/album/2dAmuI9hvOBW0R3YaddWkw"
+      },
+      "artists": [
+        {
+          "name": "Lena Zevgara",
+          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
+        }
+      ],
+      "duration_ms": 198875,
+      "name": "Giati S' Emena",
+      "url": "https://open.spotify.com/track/07VYoZedBJpgqRzGGPHg5P"
+    },
+    {
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "Iroas Ise",
         "url": "https://open.spotify.com/album/6M0pY9mFCyV0F0JOaUO4HF"
@@ -201,7 +269,7 @@
       "url": "https://open.spotify.com/track/5GR7jdfBTJSQPRYdcB4DdZ"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "Mou Leipeis",
         "url": "https://open.spotify.com/album/5Cc4RmIM5j0VgZ810dzsLq"
@@ -217,7 +285,7 @@
       "url": "https://open.spotify.com/track/3kgso5eRwTQGaP6mCUrESU"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "Allo",
         "url": "https://open.spotify.com/album/13TWhaKSz5HPkVg7gVCKav"
@@ -237,7 +305,23 @@
       "url": "https://open.spotify.com/track/1iTNgKcDKw0b2mRA1rMSJ5"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
+      "album": {
+        "name": "Tetoia Ora Tetoia Logia",
+        "url": "https://open.spotify.com/album/3kO8SldfCQ9QQHmJKhYdbS"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Kakosaios",
+          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
+        }
+      ],
+      "duration_ms": 192499,
+      "name": "Tetoia Ora Tetoia Logia",
+      "url": "https://open.spotify.com/track/54nRNSRJJXH1XIJZY4H5Xm"
+    },
+    {
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "7/7",
         "url": "https://open.spotify.com/album/12VCx1n6ZMk1vl2ONqzhuv"
@@ -257,7 +341,7 @@
       "url": "https://open.spotify.com/track/5e8JV9r2vKrbebUQMRpBCy"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "Lekes",
         "url": "https://open.spotify.com/album/32OzRuOOFSRH69LzHEK0JF"
@@ -273,7 +357,7 @@
       "url": "https://open.spotify.com/track/48tVeEffiTEE6v8sMMQjf8"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "Psahno Na Vro",
         "url": "https://open.spotify.com/album/6YA76D7DzUuiBpktYltKwo"
@@ -289,83 +373,7 @@
       "url": "https://open.spotify.com/track/5DPZMOE3VA3fHXASNhtPRT"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
-        "name": "Me Ponaei",
-        "url": "https://open.spotify.com/album/5olYx0oR3jSnao5f6SeeNu"
-      },
-      "artists": [
-        {
-          "name": "Greg",
-          "url": "https://open.spotify.com/artist/3uBNVjDel3HFDLBmNt4ork"
-        },
-        {
-          "name": "Ilias Vrettos",
-          "url": "https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1"
-        },
-        {
-          "name": "Teo Tzimas",
-          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Me Ponaei",
-      "url": "https://open.spotify.com/track/2dK3r0Xn0GQ12ZbLIcNZ0d"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
-        "name": "Siko Kardia Mou",
-        "url": "https://open.spotify.com/album/5ajdrgdF5xCgO2GMLo5ecY"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Kakosaios",
-          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
-        }
-      ],
-      "duration_ms": 177029,
-      "name": "Siko Kardia Mou",
-      "url": "https://open.spotify.com/track/1p7kfXL2ny9cQrRiAXeIAC"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
-        "name": "Emeis",
-        "url": "https://open.spotify.com/album/2mzrqsgeLmp1aw9jRTL9Cs"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Livanis",
-          "url": "https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok"
-        },
-        {
-          "name": "Andromache",
-          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
-        }
-      ],
-      "duration_ms": 254192,
-      "name": "Ela Pali Apopse",
-      "url": "https://open.spotify.com/track/3bTPHtlPOQ7PQbSGB9d0kU"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
-        "name": "Siga To Prama",
-        "url": "https://open.spotify.com/album/6bJ8EvS1hhuqmR9ISbK2CO"
-      },
-      "artists": [
-        {
-          "name": "Anastasia",
-          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
-        }
-      ],
-      "duration_ms": 155586,
-      "name": "Siga To Prama",
-      "url": "https://open.spotify.com/track/6lLyJtACSS8hb9ySXuBfCF"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "Parallili Agapi",
         "url": "https://open.spotify.com/album/2S1gFwCroLJTVsPJoRbqxt"
@@ -381,23 +389,23 @@
       "url": "https://open.spotify.com/track/2SsaxxtqBdweyrZew2O6Ej"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
-        "name": "Ekptotos Aggelos",
-        "url": "https://open.spotify.com/album/5H0DhhMEDdRfVACaXtZaKM"
+        "name": "Den Proskinisa",
+        "url": "https://open.spotify.com/album/4y4By6vNrmQUkzacM91dR1"
       },
       "artists": [
         {
-          "name": "Nikos Oikonomopoulos",
-          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+          "name": "Christos Menidiatis",
+          "url": "https://open.spotify.com/artist/4SU6LvM9nyvqJqycIt1M0X"
         }
       ],
-      "duration_ms": 263015,
-      "name": "Ekptotos Aggelos",
-      "url": "https://open.spotify.com/track/7axy7PVFNdKylwB5JEuPV6"
+      "duration_ms": 222138,
+      "name": "Den Proskinisa",
+      "url": "https://open.spotify.com/track/6pdrwsbECUSEtQbI5n8Q5p"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "1994",
         "url": "https://open.spotify.com/album/6GpAkvjB1iVZ9ulHtkq1yp"
@@ -413,7 +421,71 @@
       "url": "https://open.spotify.com/track/4VJ7nzs9uF3i9rIVmaDyxt"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
+      "album": {
+        "name": "Na Pernas",
+        "url": "https://open.spotify.com/album/3HRF6TnVay0JANK4sWGABI"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "duration_ms": 261474,
+      "name": "Na Pernas",
+      "url": "https://open.spotify.com/track/26NCpU53AnjX6J148Xdsis"
+    },
+    {
+      "added_at": "2024-11-14 22:00:00",
+      "album": {
+        "name": "Siga To Prama",
+        "url": "https://open.spotify.com/album/6bJ8EvS1hhuqmR9ISbK2CO"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "duration_ms": 155586,
+      "name": "Siga To Prama",
+      "url": "https://open.spotify.com/track/6lLyJtACSS8hb9ySXuBfCF"
+    },
+    {
+      "added_at": "2024-11-14 22:00:00",
+      "album": {
+        "name": "Ekptotos Aggelos",
+        "url": "https://open.spotify.com/album/5H0DhhMEDdRfVACaXtZaKM"
+      },
+      "artists": [
+        {
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+        }
+      ],
+      "duration_ms": 263015,
+      "name": "Ekptotos Aggelos",
+      "url": "https://open.spotify.com/track/7axy7PVFNdKylwB5JEuPV6"
+    },
+    {
+      "added_at": "2024-11-14 22:00:00",
+      "album": {
+        "name": "Siko Kardia Mou",
+        "url": "https://open.spotify.com/album/5ajdrgdF5xCgO2GMLo5ecY"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Kakosaios",
+          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
+        }
+      ],
+      "duration_ms": 177029,
+      "name": "Siko Kardia Mou",
+      "url": "https://open.spotify.com/track/1p7kfXL2ny9cQrRiAXeIAC"
+    },
+    {
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "Tipota Tiheo",
         "url": "https://open.spotify.com/album/2vRFI2kSuYWDyLW9RKm5Aw"
@@ -433,71 +505,7 @@
       "url": "https://open.spotify.com/track/6ArqqI0uQLJ8Mgp3PiMexH"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
-        "name": "Den Proskinisa",
-        "url": "https://open.spotify.com/album/4y4By6vNrmQUkzacM91dR1"
-      },
-      "artists": [
-        {
-          "name": "Christos Menidiatis",
-          "url": "https://open.spotify.com/artist/4SU6LvM9nyvqJqycIt1M0X"
-        }
-      ],
-      "duration_ms": 222138,
-      "name": "Den Proskinisa",
-      "url": "https://open.spotify.com/track/6pdrwsbECUSEtQbI5n8Q5p"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
-        "name": "Na Pernas",
-        "url": "https://open.spotify.com/album/3HRF6TnVay0JANK4sWGABI"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Mazonakis",
-          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
-        }
-      ],
-      "duration_ms": 261474,
-      "name": "Na Pernas",
-      "url": "https://open.spotify.com/track/26NCpU53AnjX6J148Xdsis"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
-        "name": "Efhi",
-        "url": "https://open.spotify.com/album/3XXC0tdNTNAWmsNjSCL8gB"
-      },
-      "artists": [
-        {
-          "name": "Anastasia",
-          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
-        }
-      ],
-      "duration_ms": 180326,
-      "name": "Floga",
-      "url": "https://open.spotify.com/track/57uiFyexstQyJ04VAAXa49"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
-        "name": "Savvato Vrady",
-        "url": "https://open.spotify.com/album/2pwZE1wMOiMYZpPpBNIYpk"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Kakosaios",
-          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
-        }
-      ],
-      "duration_ms": 188067,
-      "name": "Savvato Vrady",
-      "url": "https://open.spotify.com/track/4v3ddZLCXUt947jF004vE7"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "De Mas Xorizei Tipota",
         "url": "https://open.spotify.com/album/6iOXetU4xwcNswf29HkTOE"
@@ -517,7 +525,7 @@
       "url": "https://open.spotify.com/track/66AEZAyDrD2bnVQxC3eOsW"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "S' Agapao Kai Den Pao Kala",
         "url": "https://open.spotify.com/album/66w9kLqtU9vOLEGllkaROT"
@@ -533,7 +541,7 @@
       "url": "https://open.spotify.com/track/4SQtq5RdjIvlyixVTthKqf"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "Alitheia",
         "url": "https://open.spotify.com/album/6zdvmUtelQ0yvWOu4sYoF2"
@@ -553,7 +561,7 @@
       "url": "https://open.spotify.com/track/6kRNvc7eOG6Lnb873QWYTL"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "Shik Shak Shock",
         "url": "https://open.spotify.com/album/3i27NwGotHd7ZOvFBVU8NL"
@@ -577,7 +585,23 @@
       "url": "https://open.spotify.com/track/6rddBYzxNSIzwMeksQKV8q"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
+      "album": {
+        "name": "Efhi",
+        "url": "https://open.spotify.com/album/3XXC0tdNTNAWmsNjSCL8gB"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "duration_ms": 180326,
+      "name": "Floga",
+      "url": "https://open.spotify.com/track/57uiFyexstQyJ04VAAXa49"
+    },
+    {
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "Efyge?",
         "url": "https://open.spotify.com/album/0AlIY3vTLJTYRGNTFevp94"
@@ -597,7 +621,7 @@
       "url": "https://open.spotify.com/track/30OqNOqaoqKrzg2ZcmHz83"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "24 Ores",
         "url": "https://open.spotify.com/album/1s2vwzk7gVBssZNHJR8844"
@@ -613,7 +637,7 @@
       "url": "https://open.spotify.com/track/0RBmHE4f7BaUuYEFDSWgHX"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "An Ikseres",
         "url": "https://open.spotify.com/album/2ekZxLSD9qz2AjEAMirKBc"
@@ -629,7 +653,23 @@
       "url": "https://open.spotify.com/track/5gzfPm5fNesR6080H18zBW"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
+      "album": {
+        "name": "Savvato Vrady",
+        "url": "https://open.spotify.com/album/2pwZE1wMOiMYZpPpBNIYpk"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Kakosaios",
+          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
+        }
+      ],
+      "duration_ms": 188067,
+      "name": "Savvato Vrady",
+      "url": "https://open.spotify.com/track/4v3ddZLCXUt947jF004vE7"
+    },
+    {
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "maZW Akoma (Ola Mou Ta Thelo)",
         "url": "https://open.spotify.com/album/3mLP9WM6GglShWbaMbYsPS"
@@ -645,7 +685,7 @@
       "url": "https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "Odos Monaxias",
         "url": "https://open.spotify.com/album/5mqQS5Dan3AKU9mh6zlZwS"
@@ -661,7 +701,7 @@
       "url": "https://open.spotify.com/track/2RI7X5IlysmDCYm5F7IFam"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "Ypervoles",
         "url": "https://open.spotify.com/album/3H9TOeoNzQmxLRQeWXJTZr"
@@ -681,7 +721,7 @@
       "url": "https://open.spotify.com/track/1WrpcYZsJkzJw5l95ECvpp"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "Pyrkagia",
         "url": "https://open.spotify.com/album/4uCEeBnYwu53WSl9WjPeYn"
@@ -697,7 +737,31 @@
       "url": "https://open.spotify.com/track/5RyMvI0aHmmJTkTt54z1Zk"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
+      "album": {
+        "name": "Me Ponaei",
+        "url": "https://open.spotify.com/album/5olYx0oR3jSnao5f6SeeNu"
+      },
+      "artists": [
+        {
+          "name": "Greg",
+          "url": "https://open.spotify.com/artist/3uBNVjDel3HFDLBmNt4ork"
+        },
+        {
+          "name": "Ilias Vrettos",
+          "url": "https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1"
+        },
+        {
+          "name": "Teo Tzimas",
+          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Me Ponaei",
+      "url": "https://open.spotify.com/track/2dK3r0Xn0GQ12ZbLIcNZ0d"
+    },
+    {
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "O,ti M' Aresei",
         "url": "https://open.spotify.com/album/2cK9ucMA41Z5BhhDiNkPqp"
@@ -713,7 +777,7 @@
       "url": "https://open.spotify.com/track/6Tg7PeHmUQZTZB4G3sb7zR"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "I Agapi Ayti",
         "url": "https://open.spotify.com/album/2ZELFXiSrDXLDNdN86m8RZ"
@@ -733,7 +797,7 @@
       "url": "https://open.spotify.com/track/3nwTkNIo35hnpArk0tokY8"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "Kalispera",
         "url": "https://open.spotify.com/album/6cKmGc7UdhVnGq17uautpx"
@@ -749,39 +813,7 @@
       "url": "https://open.spotify.com/track/4Llq9CnIodPmWO2wqfTmzy"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
-        "name": "Sou Eho Agapi Megali",
-        "url": "https://open.spotify.com/album/2vT4TdCYWKxcbBpg44f2g8"
-      },
-      "artists": [
-        {
-          "name": "Nikos Makropoulos",
-          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "Sou Eho Agapi Megali",
-      "url": "https://open.spotify.com/track/2urR866HTLJdAoGbVQFPx2"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
-        "name": "As Ta Leme Kala",
-        "url": "https://open.spotify.com/album/2KopKrIy2fKfggwNw8JtGz"
-      },
-      "artists": [
-        {
-          "name": "Lena Zevgara",
-          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
-        }
-      ],
-      "duration_ms": 173307,
-      "name": "As Ta Leme Kala",
-      "url": "https://open.spotify.com/track/1vX21J00Ck8YgzCtlUE4Gz"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
         "name": "As Tous Na Lene",
         "url": "https://open.spotify.com/album/3AjpvMusEJQuhIsAmWwwOT"
@@ -797,72 +829,36 @@
       "url": "https://open.spotify.com/track/0GVmpYnNFON6Tihcuo3ysQ"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
-        "name": "Xilia Spirta",
-        "url": "https://open.spotify.com/album/6TdaBD325HwRRt5ULUJ4uC"
+        "name": "Sou Eho Agapi Megali",
+        "url": "https://open.spotify.com/album/2vT4TdCYWKxcbBpg44f2g8"
       },
       "artists": [
         {
-          "name": "Antonis Remos",
-          "url": "https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG"
+          "name": "Nikos Makropoulos",
+          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
         }
       ],
-      "duration_ms": 222537,
-      "name": "Xilia Spirta",
-      "url": "https://open.spotify.com/track/2oROjBec2WOa4vMIUfFgj6"
+      "duration_ms": 198425,
+      "name": "Sou Eho Agapi Megali",
+      "url": "https://open.spotify.com/track/2urR866HTLJdAoGbVQFPx2"
     },
     {
-      "added_at": "2024-11-07 22:00:00",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
-        "name": "O Hartis",
-        "url": "https://open.spotify.com/album/6ESMhTCrJMvxRMrM3BFbRI"
+        "name": "As Ta Leme Kala",
+        "url": "https://open.spotify.com/album/2KopKrIy2fKfggwNw8JtGz"
       },
       "artists": [
         {
-          "name": "Natasa Theodoridou",
-          "url": "https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD"
-        },
-        {
-          "name": "Foivos",
-          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+          "name": "Lena Zevgara",
+          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
         }
       ],
-      "duration_ms": 227893,
-      "name": "O Hartis",
-      "url": "https://open.spotify.com/track/77veey2PBLf6KBMShrI0H7"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
-        "name": "Paraponaki Mou",
-        "url": "https://open.spotify.com/album/0nn4UNyLy5xgRka3bSIkMa"
-      },
-      "artists": [
-        {
-          "name": "Andromache",
-          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Paraponaki Mou",
-      "url": "https://open.spotify.com/track/1h9nXyBYPaxetP1ViK28gu"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
-        "name": "Palies Fotografies",
-        "url": "https://open.spotify.com/album/7dacWPJOwAKtfPPg4mhAuM"
-      },
-      "artists": [
-        {
-          "name": "Aspa",
-          "url": "https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Palies Fotografies",
-      "url": "https://open.spotify.com/track/4tBZzrNnxSgdjniMCzBqLD"
+      "duration_ms": 173307,
+      "name": "As Ta Leme Kala",
+      "url": "https://open.spotify.com/track/1vX21J00Ck8YgzCtlUE4Gz"
     }
   ],
   "unique_name": "Laika tou Simera",

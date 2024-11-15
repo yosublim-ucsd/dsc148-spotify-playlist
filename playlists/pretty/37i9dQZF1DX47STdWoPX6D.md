@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: <a href="spotify:artist:2d8NsBa8O4C6bgQatFP5V4">nobigdyl.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,283 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,298 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 99 | [Boost It Up](https://open.spotify.com/track/1M4xXF3ysXJhy0oOXYn60J) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [EGR](https://open.spotify.com/artist/4EJIkbig1thbV3C3B68c56) | [Boost It Up](https://open.spotify.com/album/4WnfeGJ9QVzmyrUa9v38Uc) | 2:37 |
 | 100 | [HALLELUJAH](https://open.spotify.com/track/6CriiU784tvt4ICuQURfz4) | [Condoseven](https://open.spotify.com/artist/20rqbefynSHHd079In5Ipa) | [HALLELUJAH](https://open.spotify.com/album/0T72QA4QGYYQulnWCJgqVa) | 3:22 |
 
-Snapshot ID: `Zy2a0AAAAABlER49sOLEYRQh12c5Efxt`
+Snapshot ID: `Zy2a0AAAAAAveUb/qH7w6uzz8lzwCrEC`

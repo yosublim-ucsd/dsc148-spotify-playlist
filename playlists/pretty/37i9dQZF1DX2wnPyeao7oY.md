@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists every Wednesday\. Cover: Knosis \| Artwork: Nejc Prah
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,500 likes - 85 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,568 likes - 85 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 84 | [Singularity](https://open.spotify.com/track/0EORJ4SKeXqkFm0YygZ2mE) | [Delusionist](https://open.spotify.com/artist/2ZQ8rHusHaKS9XgSdTDF2Q) | [Singularity](https://open.spotify.com/album/48dMZYznPzlM3DfFFk0Z23) | 5:10 |
 | 85 | [Death Oath](https://open.spotify.com/track/6N5hpnvbfFYDQYZNhKl0Dz) | [Venemous](https://open.spotify.com/artist/28an2UZBnMulKfdQxhNOBq) | [Death Oath](https://open.spotify.com/album/36SPNysziXOCW7n2BSfD1L) | 3:32 |
 
-Snapshot ID: `ZzQyUAAAAACsjHbM3kG9SUPqf21WmkWZ`
+Snapshot ID: `ZzQyUAAAAAAeJeAke4BEpwNvHpGw5l/G`

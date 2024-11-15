@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Bouss",
+  "description": "Photo : DJ Snake x Hamza",
   "name": "Best Life",
   "tracks": [
     {
@@ -752,7 +752,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 128197,
       "name": "Confidences",
       "url": "https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi"
@@ -916,10 +916,32 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 147682,
       "name": "Dans ta f\u00eate",
       "url": "https://open.spotify.com/track/7bXtqWW2eGzMfigXBa9UTI"
+    },
+    {
+      "album": {
+        "name": "Grossier Personnage",
+        "url": "https://open.spotify.com/album/3lSCqh2nPqHGaoRxgHVNHs"
+      },
+      "artists": [
+        {
+          "name": "Lisko Peligrosso",
+          "url": "https://open.spotify.com/artist/5DElZFaBSbm7KOzTWTOCO9"
+        },
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "DEFONCE",
+      "url": "https://open.spotify.com/track/3OVlg6EPvuhe44rrizXQkS"
     },
     {
       "album": {
@@ -942,6 +964,28 @@
       "duration_ms": 182037,
       "name": "DELLALI (feat. Hamza)",
       "url": "https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w"
+    },
+    {
+      "album": {
+        "name": "Diana (with Hamza)",
+        "url": "https://open.spotify.com/album/3A3EDLMrcdMWWsv2AcGgEf"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249115,
+      "name": "Diana (with Hamza)",
+      "url": "https://open.spotify.com/track/2c3MBL8fpnhzBGHFJWQ8yU"
     },
     {
       "album": {
@@ -1615,6 +1659,24 @@
     },
     {
       "album": {
+        "name": "KONGOLESE SOUS BBL",
+        "url": "https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164234,
+      "name": "KONGOLESE SOUS BBL",
+      "url": "https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF"
+    },
+    {
+      "album": {
         "name": "La Capitale",
         "url": "https://open.spotify.com/album/5jTEJD2cxm5u2naymHRBDN"
       },
@@ -1940,7 +2002,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 152626,
       "name": "Ma Life",
       "url": "https://open.spotify.com/track/7yIqiHZosw9LaQ2UHRjmuN"
@@ -2686,7 +2748,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 144985,
       "name": "Petit chaton",
       "url": "https://open.spotify.com/track/74oAPWAhHJDenq4vlzP10O"
@@ -3722,7 +3784,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 150029,
       "name": "Tout g\u00e2ch\u00e9",
       "url": "https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s"

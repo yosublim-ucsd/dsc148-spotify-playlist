@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-382 songs - 1 day 0 hr 55 min
+383 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [All Things New \- Reimagined](https://open.spotify.com/track/7qrTWsRVx2ePwTpgZwnPbH) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [All Things New \(Reimagined\)](https://open.spotify.com/album/7ywhX9qqyfDb9ZUBx8JmoX) | 4:49 | 2021-12-24 |  |
 | [All You Are](https://open.spotify.com/track/0BkZ5pna6FsPROtvBUUwUc) | [The Kramers](https://open.spotify.com/artist/4YQIgHKADGuqRbq7NvSQiV) | [All You Are](https://open.spotify.com/album/7ew7mqpVYNTN9ncPENf8vc) | 4:25 | 2021-12-24 | 2022-07-29 |
 | [Anchor of Our Hearts](https://open.spotify.com/track/5Ay9K9Pzf69aVq3SRFPT8A) | [Victory Worship](https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP) | [Here With Us](https://open.spotify.com/album/1y2mD6ErkiKM0S00QJkQPH) | 4:25 | 2021-12-24 |  |
-| [Angels](https://open.spotify.com/track/0d0wBhnr1S59sv4tYYYQtP) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Angels](https://open.spotify.com/album/1vtLtqeCvCkRSCXjnxuUHq) | 3:18 | 2021-12-24 |  |
+| [Angels](https://open.spotify.com/track/0d0wBhnr1S59sv4tYYYQtP) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Angels](https://open.spotify.com/album/1vtLtqeCvCkRSCXjnxuUHq) | 3:18 | 2021-12-24 | 2024-11-15 |
 | [Angels \(Glory To God\)](https://open.spotify.com/track/4ASV09jmQAEeFZ3HGhVd3W) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Angels \(Glory To God\)](https://open.spotify.com/album/53ZCLnZFLXNuZuMR85fN2u) | 3:43 | 2024-09-12 |  |
 | [Angels From the Realms of Glory](https://open.spotify.com/track/5ANHrVp2TiBxAcvasVBuBo) | [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2) | [Christmas \- The Greatest Story](https://open.spotify.com/album/2EwGLwaMzXBTH2j7rl12Ow) | 2:53 | 2021-12-24 | 2022-12-06 |
 | [Angels We Have Heard \(Glory Be\)](https://open.spotify.com/track/4LM76b7TackkkRLSRJs7DW) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | [Angels We Have Heard \(Glory Be\)](https://open.spotify.com/album/27NMKibjqADlJiUEQKBH25) | 3:52 | 2021-12-11 | 2024-08-01 |
@@ -287,6 +287,7 @@
 | [O Holy Night \- Live](https://open.spotify.com/track/4mBR7vdP33yfR2w4y3pKHR) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Emmanuel: Christmas Songs Of Worship \(Live\)](https://open.spotify.com/album/1z06qfsfaXA1QFSQ4gIzDf) | 4:19 | 2021-12-11 |  |
 | [O Holy Night \- Live](https://open.spotify.com/track/5UfIxD8DonTU1Be7eFNltI) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [John Marc Kohl](https://open.spotify.com/artist/1VB1PYfo6aOs53Vs65t4hA), [Myshel Wilkins](https://open.spotify.com/artist/4Q2GtdQpv47IIpxFGiu3uC) | [We Sing to You Jesus: Carols for Worship \(Live\)](https://open.spotify.com/album/15D91O1cc3V8oGoOeTSfc8) | 6:26 | 2021-12-24 | 2022-07-27 |
 | [O Holy Night \- Radio Version](https://open.spotify.com/track/3rWqSo85Y554bpc1XRmjmN) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16) | [O Holy Night \(Radio Version\)](https://open.spotify.com/album/4izT9J7YwgPndBfuA7j0dB) | 4:49 | 2021-12-11 | 2024-08-01 |
+| [O Little Town Of Bethlehem](https://open.spotify.com/track/4shQSnSGk0PnbzAOsp16BJ) | [David Brymer](https://open.spotify.com/artist/7GTnr8474MiGyAxQBXTdap), [Chris Beland](https://open.spotify.com/artist/589onAR28YIA48jFpfyEMT) | [O Little Town Of Bethlehem](https://open.spotify.com/album/0cSQ0JTIPidDhcsIUgowRJ) | 5:25 | 2024-10-27 |  |
 | [O What A King](https://open.spotify.com/track/4ZYP7XI3QZC0d1Zp2psPKn) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [O What A King](https://open.spotify.com/album/46eot52LKOTnBwDwIdOMfu) | 3:14 | 2022-11-26 |  |
 | [Oh Come All Ye Faithful \- Single Version](https://open.spotify.com/track/5ZC6CQUiZBgrqoYDviM3aV) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [Oh Come All Ye Faithful](https://open.spotify.com/album/18Gkhoj0Bddbm5uqzzgu78) | 3:04 | 2024-07-31 |  |
 | [Oh Holy Night](https://open.spotify.com/track/2Qz5hPpCS3txLnOPnDQdbA) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Oh Holy Night](https://open.spotify.com/album/7tbCilcZqkskC7Oef8ucBS) | 3:39 | 2022-11-26 | 2023-01-02 |

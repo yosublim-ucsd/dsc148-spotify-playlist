@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XHKvhxCIS5.md) - [plain]
 
 > Our editor’s picks of the freshest music from Ireland in 2023\. Cover: CMAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,431 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,430 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XHKvhxCIS5.md) - [plain]
 | 74 | [21st Century Panic Attack](https://open.spotify.com/track/5NlpbeBqfSf3z4yZu05PIx) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [21st Century Panic Attack](https://open.spotify.com/album/213n7NS8u1e328l1dBg1xZ) | 3:05 |
 | 75 | [WOOF](https://open.spotify.com/track/1x28zxdv6XBU3a6oiCBp17) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [PHANTOM OF THE AFTERS](https://open.spotify.com/album/5qTMbYlI0vyyAHtOhajcOy) | 3:02 |
 
-Snapshot ID: `ZWcrRAAAAAC5zt2yF5zDwWweZbDt04YK`
+Snapshot ID: `ZWcrRAAAAAB0MNDH1aKBXkfN4jtYEvNB`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. <br/>Cover: Fido
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,526 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,553 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 79 | [Portion \(Remix\)](https://open.spotify.com/track/3nlWMry3Bryo63kcgk63Xl) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [SOAH \(Sounds Of A Hustler\)](https://open.spotify.com/album/6Ri4ZyM3RfaThWbwOtJm26) | 2:51 |
 | 80 | [Pressure](https://open.spotify.com/track/0MGwGJTDAf6FDS98lIxcy6) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Like A Flower](https://open.spotify.com/album/3n5j84AVeaeRrQS17zXX7h) | 3:06 |
 
-Snapshot ID: `Zy1UvAAAAACSSc0UzZNhdyOxZEflZAfF`
+Snapshot ID: `Zy1UvAAAAACvlMIIZbwesU/7dM2fy6aR`

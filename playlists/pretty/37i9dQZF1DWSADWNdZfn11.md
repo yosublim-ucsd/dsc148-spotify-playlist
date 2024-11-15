@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 
 > Relax and unwind with gentle piano covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,292 likes - 218 songs - 11 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,358 likes - 218 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,4 +227,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 | 217 | [Cold Heart](https://open.spotify.com/track/2JR1wrR7VqWbVHjwuXl6uG) | [Samantha Foster](https://open.spotify.com/artist/0YBUHAWLRIYv0e1aTE6lJx) | [Cold Heart](https://open.spotify.com/album/2MiytJKrSJKjN8pdleNbyS) | 3:02 |
 | 218 | [Another Love](https://open.spotify.com/track/0KftI0uc1qEk2ZCbxdH1dI) | [Claire Haeving](https://open.spotify.com/artist/1TwEiPFLOc40tfIB7EvaWX) | [Another Love](https://open.spotify.com/album/22vJvIcxcejxBJxNYtV0uc) | 4:15 |
 
-Snapshot ID: `Zy4iywAAAAAXQ2MN1libT8RYT9Sd8qQp`
+Snapshot ID: `Zy4iywAAAAA+licJ+ebeAJ0DDUnyUNPh`

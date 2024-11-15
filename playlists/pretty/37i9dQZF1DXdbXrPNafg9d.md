@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Tunde Adebimpe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,281,409 likes - 170 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,281,510 likes - 170 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 169 | [XYZ](https://open.spotify.com/track/2TdDENg8bGsN8FsEo93Fqv) | [Outside Air](https://open.spotify.com/artist/1OYViPmBpWUeNUEwyHABdL), [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Forever](https://open.spotify.com/album/1kc8jZ3QoqycAkZ4JN6rhu) | 2:37 |
 | 170 | [Selfish](https://open.spotify.com/track/7zUSOBWsRO6AD7mRT0lEW7) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Jewel Box](https://open.spotify.com/album/5CiR2Jm9EBTNTbLDkqxtlE) | 3:27 |
 
-Snapshot ID: `Zy2a0AAAAAA9L0rCYUB3UkpdDV1r3lNP`
+Snapshot ID: `Zy2a0AAAAAAafUcBy0ZZ0DGhXpiyBdSO`

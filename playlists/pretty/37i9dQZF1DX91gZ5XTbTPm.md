@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Freddie Gibbs
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,934 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,989 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 74 | [I Wanna](https://open.spotify.com/track/1MjyHbLE8elgTlokBpNMk4) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw), [Enrgy Beats](https://open.spotify.com/artist/6SJRrLSt4KPytqQO8m7xzj) | [School Dance](https://open.spotify.com/album/5s7s0DlvA7zSx1W67StPa9) | 2:08 |
 | 75 | [Sponsor](https://open.spotify.com/track/5HsBhTl8ZuG6tmQ0OkZLxS) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [End Of Summer](https://open.spotify.com/album/1m6Fbs7gD3blwfpdWyePOB) | 2:52 |
 
-Snapshot ID: `ZzTPFgAAAADlXup+VaGpzdYxxBhqjM8F`
+Snapshot ID: `ZzTPFgAAAAArYYF6VNZkMWZfWnsHI6Vw`

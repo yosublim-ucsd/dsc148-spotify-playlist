@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:2t3aJxThQrMWaNJgqjMcU8">Lanberry</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,282 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,285 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 59 | [O co chodzi z nią](https://open.spotify.com/track/0dzbHMKNajQHkORS4OoSzu) | [Asia Nawojska](https://open.spotify.com/artist/5GymgO2A0NDEhmRk5RwCi3) | [O co chodzi z nią](https://open.spotify.com/album/59UdZ4ua3JLgEkOUaq8kKK) | 3:40 |
 | 60 | [Czułe Słówka](https://open.spotify.com/track/1tS7Lrzv09BhDshHTi4ZiO) | [Karolina Błońska](https://open.spotify.com/artist/4GgX4COV1BbwlWIE8kdtlW) | [Czułe Słówka](https://open.spotify.com/album/4ktTIMgoFlnsqzuawumCgu) | 3:21 |
 
-Snapshot ID: `Zy4JOwAAAAC7cazb/rUMXDnksxDYuZwL`
+Snapshot ID: `Zy4JOwAAAAAdInMa71YRa0IGvrVgYJje`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTm9yKt6pzaj.md) - [plain]
 
 > Le meilleur de la playlist Top of the Rock en 2023\. Photo : Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,408 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,409 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTm9yKt6pzaj.md) - [plain]
 | 49 | [Dress](https://open.spotify.com/track/1W5VCQ2rBjMBc1ePhXLReP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Dress](https://open.spotify.com/album/1XwMDs9UWnVkPVx4KVuYys) | 3:26 |
 | 50 | [Broken Bones](https://open.spotify.com/track/2ZTXDpAna2oX7SmxctOjmi) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Broken Bones](https://open.spotify.com/album/7Bo93WOR189AwOAt6RUvAD) | 3:25 |
 
-Snapshot ID: `ZWdL9AAAAABmg4dTqCxaInl4S2w2jF4O`
+Snapshot ID: `ZWdL9AAAAADxd9K44BWrZqA+gAw9Fj4H`

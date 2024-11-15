@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Charly Gynn en portada ",
-  "num_followers": 18940,
+  "num_followers": 18939,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtFf4AAAAAB9G7EcfaUas2+PmLLwLE4q",
+  "snapshot_id": "ZtFf4AAAAACjGm6BVx83gRKpoX87RVvo",
   "tracks": [
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Culo Arabe",
+        "url": "https://open.spotify.com/album/5vJcPE9KIFh0uxczunFUIT"
+      },
+      "artists": [
+        {
+          "name": "DJ Tona",
+          "url": "https://open.spotify.com/artist/5MzTbNyy68X6pjcq1zMzxB"
+        },
+        {
+          "name": "Kareem the Press",
+          "url": "https://open.spotify.com/artist/0TNzbgKXLX3V6CbbnQ6fpm"
+        }
+      ],
+      "duration_ms": 195736,
+      "name": "Culo Arabe",
+      "url": "https://open.spotify.com/track/4B4ayQqNLHv3fU2d2ln7iD"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "Que Bien Te Ves (feat. Andre Noriega, Jey F, Ovi\u00f1a)",
         "url": "https://open.spotify.com/album/43x0a0LF23uvXHtyUJ9QzP"
       },
@@ -1631,26 +1651,6 @@
       "duration_ms": 172800,
       "name": "Que Bien Te Ves (feat. Andre Noriega, Jey F, Ovi\u00f1a)",
       "url": "https://open.spotify.com/track/3kttLBZNxNodchxatGjlTv"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Culo Arabe",
-        "url": "https://open.spotify.com/album/5vJcPE9KIFh0uxczunFUIT"
-      },
-      "artists": [
-        {
-          "name": "DJ Tona",
-          "url": "https://open.spotify.com/artist/5MzTbNyy68X6pjcq1zMzxB"
-        },
-        {
-          "name": "Kareem the Press",
-          "url": "https://open.spotify.com/artist/0TNzbgKXLX3V6CbbnQ6fpm"
-        }
-      ],
-      "duration_ms": 195736,
-      "name": "Culo Arabe",
-      "url": "https://open.spotify.com/track/4B4ayQqNLHv3fU2d2ln7iD"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -2059,26 +2059,22 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "AJUAAA",
-        "url": "https://open.spotify.com/album/13ZWrnebRAxaUxdgAjSx37"
+        "name": "Bellatonika",
+        "url": "https://open.spotify.com/album/7KYtXp1eUTDVaNnyFZ8jEA"
       },
       "artists": [
         {
-          "name": "\u00d1ejo",
-          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+          "name": "Dj Aza",
+          "url": "https://open.spotify.com/artist/2qsETcaDdvTRTaL3nU4zNK"
         },
         {
-          "name": "Pirlo",
-          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
-        },
-        {
-          "name": "ElektrikBeat",
-          "url": "https://open.spotify.com/artist/4Plkm6MPQGXSteB9LHQ57U"
+          "name": "Chino El Gorila",
+          "url": "https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6"
         }
       ],
-      "duration_ms": 177551,
-      "name": "AJUAAA",
-      "url": "https://open.spotify.com/track/4GxgZ3h4FRnIOLd5gbFZKC"
+      "duration_ms": 174971,
+      "name": "Bellatonika",
+      "url": "https://open.spotify.com/track/5LZmNN1i28G1paszTfCGZh"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -2111,22 +2107,26 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Bellatonika",
-        "url": "https://open.spotify.com/album/7KYtXp1eUTDVaNnyFZ8jEA"
+        "name": "AJUAAA",
+        "url": "https://open.spotify.com/album/13ZWrnebRAxaUxdgAjSx37"
       },
       "artists": [
         {
-          "name": "Dj Aza",
-          "url": "https://open.spotify.com/artist/2qsETcaDdvTRTaL3nU4zNK"
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
         },
         {
-          "name": "Chino El Gorila",
-          "url": "https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6"
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "ElektrikBeat",
+          "url": "https://open.spotify.com/artist/4Plkm6MPQGXSteB9LHQ57U"
         }
       ],
-      "duration_ms": 174971,
-      "name": "Bellatonika",
-      "url": "https://open.spotify.com/track/5LZmNN1i28G1paszTfCGZh"
+      "duration_ms": 177551,
+      "name": "AJUAAA",
+      "url": "https://open.spotify.com/track/4GxgZ3h4FRnIOLd5gbFZKC"
     },
     {
       "added_at": "2024-08-30 06:00:00",

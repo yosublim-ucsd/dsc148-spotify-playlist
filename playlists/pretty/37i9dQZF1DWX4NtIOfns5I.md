@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > 🪞 all day, everyday, therapist, mother, maid 🪞
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,898 likes - 110 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,013 likes - 110 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 109 | [Dirty Fire](https://open.spotify.com/track/7Ktux01az60Et2QeCYu357) | [HAFFWAY](https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH) | [Prequel](https://open.spotify.com/album/3EkjlTMu4IDVHz759li7FO) | 2:48 |
 | 110 | [no fun/party](https://open.spotify.com/track/1HoSyT8MIKRUZ3q3ohEFiK) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 5:56 |
 
-Snapshot ID: `Zy2a0AAAAADYTKfBQbpwD7rjuZ+DgO8s`
+Snapshot ID: `Zy2a0AAAAADbKdlNeC+IH4WRBxzbzjhG`

@@ -731,6 +731,24 @@
     },
     {
       "album": {
+        "name": "Dead Or Alive",
+        "url": "https://open.spotify.com/album/1XI9tZmvcoof83ZShzUwTL"
+      },
+      "artists": [
+        {
+          "name": "Thundermother",
+          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223533,
+      "name": "Dead Or Alive",
+      "url": "https://open.spotify.com/track/122jYbqBkC5X3TO7AKpFgo"
+    },
+    {
+      "album": {
         "name": "Devilry of Ecstasy",
         "url": "https://open.spotify.com/album/0I8tTyfyVf3DHw9xHu5zym"
       },
@@ -1651,6 +1669,24 @@
     },
     {
       "album": {
+        "name": "Leave A Mark",
+        "url": "https://open.spotify.com/album/7MruLUGiVz8AoQIk33Q1Qr"
+      },
+      "artists": [
+        {
+          "name": "The Hellacopters",
+          "url": "https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321253,
+      "name": "Leave A Mark",
+      "url": "https://open.spotify.com/track/6SztZEsKAomuZDLAHXcZHV"
+    },
+    {
+      "album": {
         "name": "Liars & Thieves",
         "url": "https://open.spotify.com/album/5X9jrjEjUbdPwgoVcv6BCv"
       },
@@ -2393,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "Ohio Players (Trophy Edition)",
+        "url": "https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162311,
+      "name": "Sin City",
+      "url": "https://open.spotify.com/track/1bETkJvR6zcQ4C3KK4ePVT"
+    },
+    {
+      "album": {
         "name": "Good Clean Family Entertainment You Can Trust",
         "url": "https://open.spotify.com/album/5KitoHVnVKKznE2dA7ys5R"
       },
@@ -2422,7 +2476,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 226466,
       "name": "So Close",
       "url": "https://open.spotify.com/track/0IdFYp4PNFYgqzfjEeLzQf"
@@ -3046,6 +3100,24 @@
       "duration_ms": 240590,
       "name": "Top 10 staTues tHat CriEd bloOd",
       "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
+    },
+    {
+      "album": {
+        "name": "Two Faced",
+        "url": "https://open.spotify.com/album/4kksZlvAqineklmhltdTFe"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183584,
+      "name": "Two Faced",
+      "url": "https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt"
     },
     {
       "album": {

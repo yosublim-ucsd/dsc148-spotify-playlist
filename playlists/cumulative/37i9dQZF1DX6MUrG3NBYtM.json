@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 195306,
       "name": "Down The Rabbit Hole",
       "url": "https://open.spotify.com/track/23opA2C2jQS10uBL4DmQv4"
@@ -1720,6 +1720,24 @@
       "duration_ms": 297875,
       "name": "Well, Actually",
       "url": "https://open.spotify.com/track/5luU51yytlFbX2LwsYCizD"
+    },
+    {
+      "album": {
+        "name": "Where The Names Are Real",
+        "url": "https://open.spotify.com/album/0SnEZObvH4juxuuJEznkGV"
+      },
+      "artists": [
+        {
+          "name": "Warhaus",
+          "url": "https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321047,
+      "name": "Where The Names Are Real",
+      "url": "https://open.spotify.com/track/6anbHjGgQbYQH5FbF6bAvR"
     },
     {
       "album": {

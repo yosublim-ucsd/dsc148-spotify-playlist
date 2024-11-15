@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Halle Kearns
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,825 likes - 215 songs - 11 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,883 likes - 215 songs - 11 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 214 | [Bad News](https://open.spotify.com/track/1JnRbK4ebI7H48dNfquZrm) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z) | [Bad News](https://open.spotify.com/album/1vucaXS7CmRJEB0Ai7vmPr) | 3:12 |
 | 215 | [Make the Memory](https://open.spotify.com/track/4LHx5jUWQHaQQzOVzpUc2i) | [Trevor Martin](https://open.spotify.com/artist/1FeE27dT4UOntdjYV9uUgt) | [Make the Memory](https://open.spotify.com/album/0MMqx2LKELdxMyNPD5lMnt) | 2:51 |
 
-Snapshot ID: `Zy2a0AAAAABANHlB2KA3UUDqdw34aRdZ`
+Snapshot ID: `Zy2a0AAAAAAnFN7YoUXCRSIGJSrgQ+yc`

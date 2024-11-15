@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Mazza_l20",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Blanco",
   "name": "Rap UK",
   "tracks": [
     {
@@ -3059,6 +3059,24 @@
     },
     {
       "album": {
+        "name": "Avon",
+        "url": "https://open.spotify.com/album/4i8nkt0dTUpuA2o14rQY8L"
+      },
+      "artists": [
+        {
+          "name": "Frosty",
+          "url": "https://open.spotify.com/artist/2uaGbYYR6MVKSR371T3a7p"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Avon",
+      "url": "https://open.spotify.com/track/1ocoytg0zuTMvR9KXiyGde"
+    },
+    {
+      "album": {
         "name": "B***K",
         "url": "https://open.spotify.com/album/0XDklnajhZPo35b4BKIsEa"
       },
@@ -4839,6 +4857,28 @@
     },
     {
       "album": {
+        "name": "Afrikan Alien",
+        "url": "https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct"
+      },
+      "artists": [
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181600,
+      "name": "Big Smile (feat. ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/70kzTb35rANBc5TRvX2OH6"
+    },
+    {
+      "album": {
         "name": "Big Steppa",
         "url": "https://open.spotify.com/album/5GicUjA474y2Dnh2e7HPHu"
       },
@@ -4912,7 +4952,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 126315,
       "name": "Billion Streams Freestyle",
       "url": "https://open.spotify.com/track/3rxRWyJrdt6QoWxtFBDiPp"
@@ -7342,7 +7382,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 143333,
       "name": "Cardi",
       "url": "https://open.spotify.com/track/4c2rQg7jd1Y4BLOcnlt9Ix"
@@ -9060,7 +9100,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 151714,
       "name": "Cross Waters (feat. Pozer)",
       "url": "https://open.spotify.com/track/3sNe53NZGqyJ7OtKyQqjh4"
@@ -11330,10 +11370,6 @@
         {
           "name": "D7",
           "url": "https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS"
-        },
-        {
-          "name": "RJ",
-          "url": "https://open.spotify.com/artist/71IfPn1mb6lVyoHpjTntAF"
         }
       ],
       "date_added": "2024-09-19",
@@ -22707,6 +22743,24 @@
     },
     {
       "album": {
+        "name": "Meaningful Captions",
+        "url": "https://open.spotify.com/album/6TlYFIuZlp8y2IZWYlTrDG"
+      },
+      "artists": [
+        {
+          "name": "BlazeYL",
+          "url": "https://open.spotify.com/artist/59fXT8REPhYypqMiXMxSKs"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "Meaningful Captions",
+      "url": "https://open.spotify.com/track/2XcjUCCCa914LnuJDI7IND"
+    },
+    {
+      "album": {
         "name": "Meant To Be",
         "url": "https://open.spotify.com/album/4fZ5N0VHK0zb4JIuvft1cO"
       },
@@ -33342,7 +33396,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 208510,
       "name": "Soda Lime",
       "url": "https://open.spotify.com/track/4Sh1ElvYmdLIxO6KyGkirI"
@@ -33386,6 +33440,24 @@
       "duration_ms": 162223,
       "name": "SOLID",
       "url": "https://open.spotify.com/track/1wauKOz1FWvKOJZVWEnzoq"
+    },
+    {
+      "album": {
+        "name": "Sombrero",
+        "url": "https://open.spotify.com/album/49aLvfBQIRq91fymjEWAv2"
+      },
+      "artists": [
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156794,
+      "name": "Sombrero",
+      "url": "https://open.spotify.com/track/68SuR1Gufl0PFvpdF9uJhw"
     },
     {
       "album": {
@@ -37560,7 +37632,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 134370,
       "name": "Tyla",
       "url": "https://open.spotify.com/track/2qzI2cIKKqMM7lCxbgRWFM"
@@ -40656,6 +40728,24 @@
       "duration_ms": 209533,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/61A5bIc8kDHBVChrSfFb2o"
+    },
+    {
+      "album": {
+        "name": "You Don't Know Me",
+        "url": "https://open.spotify.com/album/0cK5EXeN5XlIoO53Jrb4bI"
+      },
+      "artists": [
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209655,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/3qAqyLkm92L6cnpOcAjjZs"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: Ahmed, With Love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,668 likes - 90 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,669 likes - 90 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 89 | [Afterglow](https://open.spotify.com/track/6jIjQHf2S6jVh25TbNV6TM) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Afterglow](https://open.spotify.com/album/4C3YEmyqlD0ceZoYEXZLrT) | 3:20 |
 | 90 | [Bloodstone](https://open.spotify.com/track/0T76V96CQdOjI8KNK2jIjw) | [Oscar Blue](https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z) | [Bloodstone](https://open.spotify.com/album/7fiTzVTiLIkgICTZ3t6NMt) | 3:15 |
 
-Snapshot ID: `ZxvX+wAAAABrSsAQzzatCp33jcR2LZ2H`
+Snapshot ID: `ZxvX+wAAAABEnOEs6GC2b0jIqDo/ppsk`

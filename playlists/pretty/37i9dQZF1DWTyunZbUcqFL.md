@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyunZbUcqFL.md) - [plain]
 
 > The perfect soundtrack for a trip to one of the most breath\-taking and iconic cities in the world: Kyoto / 様々な魅力に溢れる京都への旅のお供に、このサウンドトラックを是非お楽しみ下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,250 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,267 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyunZbUcqFL.md) - [plain]
 | 39 | [傘](https://open.spotify.com/track/3tnvtrKp719KqwclPDi0hK) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [オーパスゼロ](https://open.spotify.com/album/3skAGESOBjyEnHZJtqRxRd) | 4:16 |
 | 40 | [みまちがい](https://open.spotify.com/track/106MVOWcSInpn518DDKh6P) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [みまちがい](https://open.spotify.com/album/47AE25PbERBrFO857MmDFG) | 4:08 |
 | 41 | [メリーゴーランド](https://open.spotify.com/track/72VxnVlmdTNy5gePW3udEA) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [メリーゴーランド](https://open.spotify.com/album/614bxz7OLT117PPV9fssCJ) | 4:07 |
-| 42 | [素晴らしき朝帰り](https://open.spotify.com/track/1xyidjBgEYzApXqyafmxZ1) | [Sonodaband](https://open.spotify.com/artist/6iPpLVkmKkLZvRTe32cyzW) | [疾走\(はしれ はしれ\)](https://open.spotify.com/album/2DNjFjOAhHIyo4NdlTXbri) | 4:04 |
+| 42 | [素晴らしき朝帰り](https://open.spotify.com/track/1xyidjBgEYzApXqyafmxZ1) | [Sonodaband](https://open.spotify.com/artist/6iPpLVkmKkLZvRTe32cyzW) | [疾走（はしれ はしれ）](https://open.spotify.com/album/2DNjFjOAhHIyo4NdlTXbri) | 4:04 |
 | 43 | [オーロラ](https://open.spotify.com/track/6ApWNvN5MRk5MdyDoxoOh0) | [toggle](https://open.spotify.com/artist/6CGPuICwE9tU5mZyGDtTeB) | [オーロラ / 帰ろう \- Single](https://open.spotify.com/album/3iAMo6dnNoILyyvBjaSeE3) | 5:43 |
 | 44 | [早い話](https://open.spotify.com/track/59VqqJdqGIP1h14I797eO0) | [Verandah](https://open.spotify.com/artist/6beXhiFz00oHfw7Z3fu7j9) | [ANY LUCK TO YOU](https://open.spotify.com/album/24zBUaMhsSWGJs6S3KAwTN) | 3:50 |
 | 45 | [JOE \(KANADE KAGEYAMA IWAAIIWAAIGORORI SAN BANZAI MIX\)](https://open.spotify.com/track/7wy7BbKIBM29BagsxCAyhx) | [NABOWA](https://open.spotify.com/artist/2RoKrXDjKFkqCTtmIwtAha) | [JOE \(KANADE KAGEYAMA IWAAIIWAAIGORORI SAN BANZAI MIX\)](https://open.spotify.com/album/7KOEiChooZRvOpuklJ7238) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyunZbUcqFL.md) - [plain]
 | 49 | [Shinko](https://open.spotify.com/track/5re6UiqS8cjhzvEjSoa591) | [ihatemago](https://open.spotify.com/artist/4SMq39eDgIl79a7W2LFcmT), [Senritsu](https://open.spotify.com/artist/3Lgg4fqIYWtC0kYfYwqfMT) | [Shinko](https://open.spotify.com/album/66KVgNa64HVLJhTVmscg2z) | 3:41 |
 | 50 | [still have us MIDORI](https://open.spotify.com/track/3yPjYNSASD761VTR2HaRMB) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [night](https://open.spotify.com/album/6egjqhktHfCbiPIdjsYana) | 4:12 |
 
-Snapshot ID: `Zo4MAAAAAADbra5z3qG3ft0yKFMpoc1/`
+Snapshot ID: `Zo4MAAAAAADZi9RADxnDVgLKhUItk1z/`

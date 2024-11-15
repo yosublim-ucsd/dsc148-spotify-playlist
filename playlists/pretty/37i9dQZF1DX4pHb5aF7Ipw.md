@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Rap\. Cover: Chani Nattan, Inderpal Moga & Sukha
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,756 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,765 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 9 | [Frontline](https://open.spotify.com/track/1JCYIqHeyFZ2TLrfoGLAlH) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [HOTWIRE](https://open.spotify.com/album/2WkKWOqGDHOqlVwrXJusxn) | 3:02 |
 | 10 | [Nothin But Fax](https://open.spotify.com/track/0B9PvEpJsQOLOKNVhAVsWD) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [The Longia Groove](https://open.spotify.com/album/5MYLKbBe1LEGGXuKfBgvEb) | 2:32 |
 | 11 | [Trace](https://open.spotify.com/track/1MmkHWPbroNWhy4p2qIYAL) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Experimento](https://open.spotify.com/album/0wCgNMAaF9k3OUTRIIgcZY) | 2:16 |
-| 12 | [Jawani](https://open.spotify.com/track/2Ymc0aIHa3ifiHlXHvrQhI) | [Nimaan Sidhu](https://open.spotify.com/artist/7DVxAhVVgwu4KC5kNl3nEV) | [Jawani](https://open.spotify.com/album/4ylWXL2qwXlIwelrfOAAiR) | 2:34 |
-| 13 | [Sifar Safar](https://open.spotify.com/track/3lQPwCmD918SyoiIkw1zqx) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Sifar Safar](https://open.spotify.com/album/3QNOBqIMylNpZXZ8OtFoC2) | 3:00 |
-| 14 | [Hustle](https://open.spotify.com/track/56VeOPxdEti75KddXLOivp) | [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [Be The Change](https://open.spotify.com/album/3FSUBDoKXuJnBRqlS9I0Z4) | 3:37 |
-| 15 | [No Idea](https://open.spotify.com/track/3BPvdcvsczva4nGlIOgj40) | [Star Shah](https://open.spotify.com/artist/7GJ4wHYYwqqM8wnNtk8H1E) | [No Idea](https://open.spotify.com/album/1iVNFwFko3LRHRnP78O0on) | 2:52 |
-| 16 | [Vair](https://open.spotify.com/track/6eoS0Y0Ul97V63XSDAJTkX) | [Rav](https://open.spotify.com/artist/02YDIjAHza3dLqcFv3ivki), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Hood N Her](https://open.spotify.com/album/7JpJSLgRCT3OOFvrMuXwOU) | 2:27 |
+| 12 | [Check Out](https://open.spotify.com/track/7tKj33kIZYAEsuStiBwMo6) | [NVY](https://open.spotify.com/artist/1NcRcMDkVhDDwtHF53VfSa) | [Check Out](https://open.spotify.com/album/4l6upDKFQtHS5PTwEYAiiu) | 2:26 |
+| 13 | [Jawani](https://open.spotify.com/track/2Ymc0aIHa3ifiHlXHvrQhI) | [Nimaan Sidhu](https://open.spotify.com/artist/7DVxAhVVgwu4KC5kNl3nEV) | [Jawani](https://open.spotify.com/album/4ylWXL2qwXlIwelrfOAAiR) | 2:34 |
+| 14 | [Sifar Safar](https://open.spotify.com/track/3lQPwCmD918SyoiIkw1zqx) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Sifar Safar](https://open.spotify.com/album/3QNOBqIMylNpZXZ8OtFoC2) | 3:00 |
+| 15 | [Hustle](https://open.spotify.com/track/56VeOPxdEti75KddXLOivp) | [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [Be The Change](https://open.spotify.com/album/3FSUBDoKXuJnBRqlS9I0Z4) | 3:37 |
+| 16 | [No Idea](https://open.spotify.com/track/3BPvdcvsczva4nGlIOgj40) | [Star Shah](https://open.spotify.com/artist/7GJ4wHYYwqqM8wnNtk8H1E) | [No Idea](https://open.spotify.com/album/1iVNFwFko3LRHRnP78O0on) | 2:52 |
 | 17 | [Ten Toes](https://open.spotify.com/track/6N0d7tVAqr4fyIIKX8xj4K) | [Param Pannu](https://open.spotify.com/artist/7oM10RkgjEOA2dP6mEXfse), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV) | [Ten Toes](https://open.spotify.com/album/1iaFCntnYXo2Lbpv9S85fP) | 1:58 |
 | 18 | [Lalkaare](https://open.spotify.com/track/2aQn2FJ0MbhIp8OYcNWYEi) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [The Longia Groove](https://open.spotify.com/album/5MYLKbBe1LEGGXuKfBgvEb) | 2:14 |
 | 19 | [Noble](https://open.spotify.com/track/4vEUMuUXNpuJ6vmVKQVuoX) | [Harvi](https://open.spotify.com/artist/5rpl4dM4cZVFeseE6XT0AZ) | [Noble](https://open.spotify.com/album/3n3NtvcqTPlXk2wdOBaISk) | 2:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 74 | [Don't Play](https://open.spotify.com/track/5QOwPqJ4KF5SouXIS8lou0) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Don't Play](https://open.spotify.com/album/4XqLW7oyfGMfwbOlaoZPyB) | 2:43 |
 | 75 | [Unfreeze](https://open.spotify.com/track/1A629s5oIVLiBg03A2s4sl) | [Manwal](https://open.spotify.com/artist/591aJOvKL4jvZljzwGU9Df), [Mahiwaal](https://open.spotify.com/artist/0oYAdne8qNXVtzbuU88ssO) | [Unfreeze](https://open.spotify.com/album/6rCxVdX7xsN2HGPcmTKKP3) | 2:18 |
 
-Snapshot ID: `ZzQyigAAAACrrCeXk1VCFQJ6WWgMRssr`
+Snapshot ID: `ZzV4lgAAAACYauAaLKdWONxc988x+LQM`

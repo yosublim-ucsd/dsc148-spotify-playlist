@@ -1,13 +1,69 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER: Mike Williams &amp; YouNotUs",
-  "num_followers": 32545,
+  "num_followers": 32546,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAArkAbr7TlKbMPXr2yMtjJc93tPu2Cr",
+  "snapshot_id": "AAArlcfPQRqgLNelVupbCllIYisjXHum",
   "tracks": [
+    {
+      "added_at": "2024-11-14 16:02:31",
+      "album": {
+        "name": "Boadicea",
+        "url": "https://open.spotify.com/album/1IXrITahfXmq47OvyQcDiV"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Boadicea",
+      "url": "https://open.spotify.com/track/1lszxhcrquGtnledjcRHwb"
+    },
+    {
+      "added_at": "2024-11-14 16:02:31",
+      "album": {
+        "name": "Imagine (feat. Carbonne) [Timmy Trumpet Remix]",
+        "url": "https://open.spotify.com/album/0phsWfE0jsPYtAkQHp6eAE"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Carbonne",
+          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
+        }
+      ],
+      "duration_ms": 179653,
+      "name": "Imagine (feat. Carbonne) [Timmy Trumpet Remix]",
+      "url": "https://open.spotify.com/track/7fR9XIbcS2WGb7DbPwRPI3"
+    },
+    {
+      "added_at": "2024-11-07 10:16:47",
+      "album": {
+        "name": "Tantalizing",
+        "url": "https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Soaky Siren",
+          "url": "https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "Tantalizing",
+      "url": "https://open.spotify.com/track/799db91cR00On6N158VLHS"
+    },
     {
       "added_at": "2024-11-07 10:16:47",
       "album": {
@@ -29,24 +85,40 @@
       "url": "https://open.spotify.com/track/6yWIOzRdXKHzVBOVQDsfyW"
     },
     {
-      "added_at": "2024-11-07 10:16:47",
+      "added_at": "2024-11-14 16:02:31",
       "album": {
-        "name": "Tantalizing",
-        "url": "https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C"
+        "name": "Together As One",
+        "url": "https://open.spotify.com/album/5LJMDOl6eBXYwxt0Va8Kcs"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
         },
         {
-          "name": "Soaky Siren",
-          "url": "https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC"
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
         }
       ],
-      "duration_ms": 146341,
-      "name": "Tantalizing",
-      "url": "https://open.spotify.com/track/799db91cR00On6N158VLHS"
+      "duration_ms": 204500,
+      "name": "Together As One",
+      "url": "https://open.spotify.com/track/2YVJ0M0KWxVf7uMqWDneiF"
+    },
+    {
+      "added_at": "2024-11-14 16:02:31",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/1qSWxTgUBea8rYITfkX5Zo"
+      },
+      "artists": [
+        {
+          "name": "The MVI",
+          "url": "https://open.spotify.com/artist/3lNndpXHpx4oVT4rEt5MB4"
+        }
+      ],
+      "duration_ms": 193770,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/12vrDiCobFUGGqYqTGyyw7"
     },
     {
       "added_at": "2024-10-31 11:36:15",
@@ -279,170 +351,6 @@
       "duration_ms": 200000,
       "name": "Now We Are Free",
       "url": "https://open.spotify.com/track/0spV7kRavzOYJYKzOf8zSl"
-    },
-    {
-      "added_at": "2024-10-31 11:36:15",
-      "album": {
-        "name": "Middle Fingers (feat. Savage)",
-        "url": "https://open.spotify.com/album/4XDHATdsfhkKm5oCYTLnUn"
-      },
-      "artists": [
-        {
-          "name": "Sunset Bros",
-          "url": "https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ"
-        },
-        {
-          "name": "Strictly Business",
-          "url": "https://open.spotify.com/artist/7kC4umc8A1sRBGBnkeKVY1"
-        },
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
-        }
-      ],
-      "duration_ms": 143419,
-      "name": "Middle Fingers (feat. Savage)",
-      "url": "https://open.spotify.com/track/27VZcxppvzwqnzxEHjVxN7"
-    },
-    {
-      "added_at": "2024-10-31 11:36:15",
-      "album": {
-        "name": "Captain Sjaak",
-        "url": "https://open.spotify.com/album/1wgnNPMNI2MRHw0o378U4c"
-      },
-      "artists": [
-        {
-          "name": "Sjaak",
-          "url": "https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Captain Sjaak",
-      "url": "https://open.spotify.com/track/1CDp4zqDEPt75lYFooKR7r"
-    },
-    {
-      "added_at": "2024-10-31 11:36:15",
-      "album": {
-        "name": "Get Freaky (feat. Ricky Jay)",
-        "url": "https://open.spotify.com/album/6Y0MrvXNJP8sWi1im54I7J"
-      },
-      "artists": [
-        {
-          "name": "Cosmo & Skoro",
-          "url": "https://open.spotify.com/artist/5cF3C7YV5UCwODmFDcVhOz"
-        },
-        {
-          "name": "Crasca",
-          "url": "https://open.spotify.com/artist/6UsHiXVzlUH4azQvCcHAQx"
-        },
-        {
-          "name": "Ricky Jay",
-          "url": "https://open.spotify.com/artist/3qKOCBvBzuqroDAIptpfi1"
-        }
-      ],
-      "duration_ms": 169750,
-      "name": "Get Freaky (feat. Ricky Jay)",
-      "url": "https://open.spotify.com/track/2JpSWTnrYoyUjtt6QtjoWQ"
-    },
-    {
-      "added_at": "2024-10-24 11:32:26",
-      "album": {
-        "name": "Love The Way You Lie (feat. Norma Jean Martine)",
-        "url": "https://open.spotify.com/album/5P3i2e0G7OZFlHW6k01qNE"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
-        }
-      ],
-      "duration_ms": 160551,
-      "name": "Love The Way You Lie (feat. Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/0KEQ6X89UPO4wUFjLoIERl"
-    },
-    {
-      "added_at": "2024-11-07 12:53:56",
-      "album": {
-        "name": "You Know",
-        "url": "https://open.spotify.com/album/787Fe2sF7ApgAtMfu7O30C"
-      },
-      "artists": [
-        {
-          "name": "Benji (UK)",
-          "url": "https://open.spotify.com/artist/2rktaPoxmpCqSnjH8sG9Dq"
-        },
-        {
-          "name": "Julio Ade",
-          "url": "https://open.spotify.com/artist/0aBK6w9ueJgetANKMYQvrd"
-        }
-      ],
-      "duration_ms": 217821,
-      "name": "You Know",
-      "url": "https://open.spotify.com/track/2VGn8OmbvdSarXJV0PBauj"
-    },
-    {
-      "added_at": "2024-10-24 11:32:26",
-      "album": {
-        "name": "Higher State Of Consciousness",
-        "url": "https://open.spotify.com/album/2WHfvIIzdT7dLVLTajxjvv"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Firebeatz",
-          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
-        }
-      ],
-      "duration_ms": 183230,
-      "name": "Higher State Of Consciousness",
-      "url": "https://open.spotify.com/track/1szMXvAlWLszMADcwKwR64"
-    },
-    {
-      "added_at": "2024-10-24 11:32:26",
-      "album": {
-        "name": "If Only We Could",
-        "url": "https://open.spotify.com/album/5S131VhHVJQqETjvfbdk1F"
-      },
-      "artists": [
-        {
-          "name": "Sam AVSTIN",
-          "url": "https://open.spotify.com/artist/1LxUh0VA1qCSC0eBoQliyf"
-        }
-      ],
-      "duration_ms": 169019,
-      "name": "If Only We Could",
-      "url": "https://open.spotify.com/track/0aZJYGU8mWiLVOsLFsq44o"
-    },
-    {
-      "added_at": "2024-10-24 11:32:26",
-      "album": {
-        "name": "Don't Go",
-        "url": "https://open.spotify.com/album/2VNVxJujnV5BMlGNR4E3mZ"
-      },
-      "artists": [
-        {
-          "name": "Gil Glaze",
-          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 141479,
-      "name": "Don't Go",
-      "url": "https://open.spotify.com/track/7ewh7KBEKWY0zufqwpuTWf"
     }
   ],
   "unique_name": "New Dance Music Friday",

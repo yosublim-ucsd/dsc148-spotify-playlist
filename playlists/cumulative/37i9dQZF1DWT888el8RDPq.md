@@ -2,7 +2,7 @@
 
 ### [una playlist felice](https://open.spotify.com/playlist/37i9dQZF1DWT888el8RDPq)
 
-> canzoni felici italiane e internazionali per un'estate presa bene
+> canzoni felici emoji del sole eccetera
 
 373 songs - 18 hr 48 min
 

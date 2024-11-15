@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Annahstasia
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,683 likes - 105 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,744 likes - 105 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 104 | [Weeping Willow](https://open.spotify.com/track/2637H4or8sjAJ08Dnvq7fX) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Weeping Willow](https://open.spotify.com/album/7imiiEYZmcrbNMpSFq9JlN) | 2:56 |
 | 105 | [The Rock](https://open.spotify.com/track/6IgenNSTsv9vVYVP9ZlNAq) | [Gabe Goodman](https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF) | [The Rock / Magical Thinking](https://open.spotify.com/album/4NjzFN2XZl4YZxf1zhEx6O) | 2:22 |
 
-Snapshot ID: `ZzQyUAAAAAAVTojPrn6MuDsVhOu9LORj`
+Snapshot ID: `ZzQyUAAAAAC4+B1DvofXkXIMC7QyiC2H`

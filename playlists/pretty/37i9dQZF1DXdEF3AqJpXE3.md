@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEF3AqJpXE3.md) - [plain]
 
 > The best tracks from the world of music\. Cover: Sherman Zhuo
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,269 likes - 57 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,262 likes - 57 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEF3AqJpXE3.md) - [plain]
 | 56 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 |
 | 57 | [OTW](https://open.spotify.com/track/1z06EFZw57FScJTILcSRDR) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [RICK](https://open.spotify.com/artist/5czgwKH54SxujkR4aHsyDS) | [OTW](https://open.spotify.com/album/19SgkNmHCz1ePuQry6At8u) | 2:46 |
 
-Snapshot ID: `ZzOsggAAAADVR3phPf3DmKzLEP4iGWov`
+Snapshot ID: `ZzOsggAAAAAYy9Nxi8hECA9l3rsrJUmV`

@@ -4,11 +4,12 @@
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-129 songs - 9 hr 5 min
+134 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1/2 Singing Bowl \(Ascension\) \- Excerpt](https://open.spotify.com/track/4C4Cni4yKvGFthrJ3VRjfM) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Meditations](https://open.spotify.com/album/79EfVLabvmR4nUhpr2rF8s) | 4:30 | 2022-01-06 | 2024-01-23 |
+| [A Journey Within](https://open.spotify.com/track/1aHR0CE0nwtAmppo9J4xBD) | [Drums N' Bowls](https://open.spotify.com/artist/5KmLjJ47cAYvQaJAMvLwLO) | [A Journey Within](https://open.spotify.com/album/6J5ZnOkpFsgl0ufIZgSNhY) | 5:24 | 2024-11-14 |  |
 | [Abundance](https://open.spotify.com/track/0rhg4Ev9NAA9P6NNbD7f62) | [Sun Vibrations](https://open.spotify.com/artist/0Km084nANAUaHxyoThFDH6) | [Soundbath](https://open.spotify.com/album/3utL06Yt0D8eedA3BF7ERo) | 11:40 | 2022-01-06 | 2022-12-14 |
 | [Accepting Fate \(Sound Bath\)](https://open.spotify.com/track/5nwliGmNkUUuu5bFbpnu0T) | [JLM](https://open.spotify.com/artist/5qWC37TdUbKjGC9f7SLfWZ) | [Optimistic Outlook](https://open.spotify.com/album/05MztDn1w1Cv5n2Y6sW4i1) | 2:53 | 2022-01-06 | 2024-03-01 |
 | [Ahimsa](https://open.spotify.com/track/3SLS0ollgEPF6LXH9E7gYk) | [Skye Saraswati](https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3) | [Ahimsa](https://open.spotify.com/album/4ik1k0ZjV52DGDKqQXiZ4m) | 3:41 | 2022-12-13 | 2024-03-01 |
@@ -47,6 +48,7 @@
 | [Dormire Bowls](https://open.spotify.com/track/2jYioAcAHOTxS4IPu0zZxO) | [Temple of Schrawa](https://open.spotify.com/artist/246BPwHoKsivpZL7i7Q1Lt) | [Dormire Bowls](https://open.spotify.com/album/2Xh3s8zADoWWZ5Qzzch0sl) | 2:59 | 2022-12-13 |  |
 | [Dream](https://open.spotify.com/track/4Z9Tbjzne1mxyG2dfEhqwV) | [Cb10](https://open.spotify.com/artist/6U0sfjx2ckb6ZxQD51v6ny) | [Dream](https://open.spotify.com/album/0kpEc7JaXcQiW6mCmyWLFu) | 5:35 | 2024-08-30 |  |
 | [Dream Fountain](https://open.spotify.com/track/3mJS7piKK2rjjJsodqDge2) | [Everlights](https://open.spotify.com/artist/000HQdx4eaeWmI51PZmeMZ) | [Dream Fountain](https://open.spotify.com/album/2SLsIU2EdI4yDwFk2ypT22) | 2:38 | 2022-04-26 |  |
+| [Dreamless](https://open.spotify.com/track/67rH7GtQt1RmaYSbQpnpBO) | [Insomnia Curator](https://open.spotify.com/artist/2KOGEdahm8S9YknCwiUIHf) | [Dreamless](https://open.spotify.com/album/0gz0uzedaO2izDgmz5WHJM) | 2:41 | 2024-11-14 |  |
 | [Dreams Come True](https://open.spotify.com/track/1UpKTNPYvnvB5wIgYqcM7P) | [Singing Bowls](https://open.spotify.com/artist/2s9c0wEe3zF2sduGBd0iFX) | [Zen Meditation](https://open.spotify.com/album/1GQ8y81r8sMaxd91Z5fGL9) | 2:04 | 2022-01-06 |  |
 | [Echos Of Angels](https://open.spotify.com/track/21CRn1nc9hSAlCZomJrNhn) | [Crystal Voices](https://open.spotify.com/artist/1jFFGDV4GwVwWres1suUPC) | [Crystal Voices: The Harmonic Vibrations Of Crystal Singing Bowls](https://open.spotify.com/album/6k4BaemsQh3Aih4F2z1itg) | 4:32 | 2022-01-06 |  |
 | [Emotional Work](https://open.spotify.com/track/0VC9OeCCDfGC9WlmU101TH) | [Singing Bowls](https://open.spotify.com/artist/2s9c0wEe3zF2sduGBd0iFX) | [Healing Sound Waves for Meditation](https://open.spotify.com/album/5hiIGtbXnYu03Vck0nV7dY) | 2:55 | 2022-01-06 | 2024-03-01 |
@@ -74,6 +76,7 @@
 | [Kalimba & Bubbles](https://open.spotify.com/track/7HbowHc0rHx93ycFoVTcSU) | [Auditory Illusion](https://open.spotify.com/artist/5vUZV1vqrQaXFpVUbIBi46) | [Kalimba & Bubbles](https://open.spotify.com/album/5zbLxw4mvPTQLvEQ1Ccvsz) | 3:41 | 2022-02-28 |  |
 | [La mer](https://open.spotify.com/track/4wO4xOUrwsJ0qLyuBs9Bj1) | [RAURA](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN) | [Crystal Singing Bowl](https://open.spotify.com/album/0QagHXBlorv3P8jAGBNQiu) | 5:58 | 2022-01-06 |  |
 | [Let Thoughts Wonder](https://open.spotify.com/track/4SDVXD7zlrVrToo4kQE0T5) | [Singing Bowls](https://open.spotify.com/artist/2s9c0wEe3zF2sduGBd0iFX) | [Healing Sound Waves for Meditation](https://open.spotify.com/album/5hiIGtbXnYu03Vck0nV7dY) | 2:49 | 2022-01-06 |  |
+| [Liberathing Path](https://open.spotify.com/track/4xpU35Wjiba1iv0E52M2VV) | [Slow Circuit](https://open.spotify.com/artist/0pvG2ZrHv2x2SsFyGZWJDz) | [Liberathing Path](https://open.spotify.com/album/0eOZ6uWgtxbFUUnPgGNYdB) | 3:00 | 2024-11-14 |  |
 | [Light Mind](https://open.spotify.com/track/2O10XkNg3GV98VMqe3EbCb) | [Son Elixir](https://open.spotify.com/artist/1F9m2yDoNVKEvIjqipRIrM) | [Rainbow Song](https://open.spotify.com/album/5Qy1C3HilW9JoLG7RcxJWg) | 3:08 | 2022-01-06 |  |
 | [Lono](https://open.spotify.com/track/4hBngGXxfCEWInIcaOHk4Z) | [RAURA](https://open.spotify.com/artist/1ZMqKvnRUkZCSkk3dOMjyN) | [Crystal Singing Bowl Solo Collection](https://open.spotify.com/album/5IvrnPZDcq1aegFdnIXG08) | 4:11 | 2022-01-06 | 2024-03-01 |
 | [Love Bowls 396 Hz](https://open.spotify.com/track/7MqIXr9SyUJpl6wcz6uQ4b) | [Drone\-Dax](https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ) | [Love Bowls 396 Hz](https://open.spotify.com/album/3BALz4cCJB05dWOQB5f7C5) | 2:58 | 2022-12-13 |  |
@@ -114,6 +117,7 @@
 | [Sound Bath with Gong](https://open.spotify.com/track/48Qgj3Paj34o0nKiULGcl5) | [Jasmine Soft](https://open.spotify.com/artist/1VK5l4RiFvFSypcRxg8a0l) | [Tam Tam Gong Bath: Pure Healing Meditation](https://open.spotify.com/album/6oF7GoyOelYXe2G7tykDZS) | 4:02 | 2022-01-06 | 2024-03-01 |
 | [Sound of Sarvastivada \(Sound Bath\)](https://open.spotify.com/track/5WnYwONaiD9U262drLfcLv) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [Zen Gaya](https://open.spotify.com/album/2jGEItbwzeGSiVvU9lfKnf) | 2:34 | 2022-05-12 |  |
 | [Sounds of the Bowl](https://open.spotify.com/track/5rcYxWqLkv7GzhXncvb0hM) | [Satorio](https://open.spotify.com/artist/54dz2oZHyoh9ZmfldoKogN) | [Crystal Bowls & Tibetan Singing Bowls](https://open.spotify.com/album/0cJhl9uqOjDbSSLzJWi1KE) | 8:10 | 2022-01-06 |  |
+| [spiral energy](https://open.spotify.com/track/2pzqw1FKgDn5TkU7H4eSZI) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [spiral energy](https://open.spotify.com/album/727np887ncP1RuxuHNtLK8) | 2:57 | 2024-11-14 |  |
 | [Spiritual Bowls](https://open.spotify.com/track/7yb3y3PY6fxWwH4IJaBDBv) | [Mantratown](https://open.spotify.com/artist/2OWl1TNy7Drnvhb2Gso2CV) | [Spiritual Bowls](https://open.spotify.com/album/5K2boNHVqwPsO7IdovXZdt) | 3:48 | 2022-07-14 | 2022-12-14 |
 | [Spiritual Exercises](https://open.spotify.com/track/35NnGaTbwlgZoK1IZZ8gfI) | [Jasmine Soft](https://open.spotify.com/artist/1VK5l4RiFvFSypcRxg8a0l) | [Tam Tam Gong Bath: Pure Healing Meditation](https://open.spotify.com/album/6oF7GoyOelYXe2G7tykDZS) | 4:03 | 2022-01-06 |  |
 | [Texture Bowl 2](https://open.spotify.com/track/1AlSN7oXoEyG6XrJ3wvswK) | [Antique Bronze](https://open.spotify.com/artist/7ku4TYmlNvkaNzUvXLw6PX) | [Texture Bowl 2](https://open.spotify.com/album/18xPYoIjGjzQxmwGp0TzNt) | 3:42 | 2022-01-06 |  |
@@ -132,6 +136,7 @@
 | [Twin Flames](https://open.spotify.com/track/08tX9fPIXoMkI4C5no404e) | [JourneyBox](https://open.spotify.com/artist/0ocsTfx1K6pwl9U26u9sc1) | [Twin Flames](https://open.spotify.com/album/2xUlSc4nckmnFOnRDFbfFP) | 3:40 | 2024-08-30 |  |
 | [Two Buddhas](https://open.spotify.com/track/5nswj67iqjMehDWatDDd1v) | [Xumantra](https://open.spotify.com/artist/0VEyOGSIOChZJa2Di3auGm) | [Singing Bowls](https://open.spotify.com/album/15k2UpQBzV2oHMIlYfBAFl) | 5:25 | 2022-01-06 |  |
 | [Vartamāna Kṣana](https://open.spotify.com/track/5oXH7OFxehGaOYfNw90kXT) | [Shaolin Healing Bowls](https://open.spotify.com/artist/732WtPnj4sgGImwVF8Y9rW) | [Vartamāna Kṣana](https://open.spotify.com/album/4RZVaQqGdtiHjB4sN77B0h) | 2:58 | 2024-08-30 |  |
+| [Vejovis](https://open.spotify.com/track/6zuvpkflNuk1RhKOETRlZw) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Vejovis](https://open.spotify.com/album/5kj7jvDXpYeLppPnQSMyHn) | 3:19 | 2024-11-14 |  |
 | [Verdure](https://open.spotify.com/track/7iEfhRXZpaI1w7zkj9Np5U) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Verdure](https://open.spotify.com/album/4BNcZNVXeCRvxdIEdykxOi) | 2:45 | 2022-04-26 |  |
 | [Walking Earth Gong](https://open.spotify.com/track/7tZuNzE2ye0HCbILkCkH2f) | [Bagno Armonico](https://open.spotify.com/artist/6Okybq8PPGFAg18IJrKl4e) | [Healing Gongs](https://open.spotify.com/album/1QyYwuZzuEK9UIA54DqxKi) | 2:13 | 2022-01-06 | 2024-03-01 |
 | [Whispering Winter \- Sound Bath](https://open.spotify.com/track/08jB2g1DIVm96wQjywyNGb) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Whispering Winter](https://open.spotify.com/album/7wLCNTB7J063lWRwYMjjGC) | 3:00 | 2024-01-22 |  |

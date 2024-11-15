@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: Jazeek
 
-[Spotify](https://open.spotify.com/user/spotify) - 908,569 likes - 79 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,628 likes - 79 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 | 78 | [PALMA](https://open.spotify.com/track/13sDAmZXzKXctwIIvL9RFd) | [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [PALMA](https://open.spotify.com/album/6vndwDmNy7L0Pacfgu7NqR) | 2:27 |
 | 79 | [WOLLTEN FREI SEIN \(feat\. reezy\)](https://open.spotify.com/track/7BpQAkjefbApWBUtKmVMjh) | [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Safraoui](https://open.spotify.com/artist/1xlPEhjbFqhrDjaAvyvueX), [Jamal](https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU) | [XABAT](https://open.spotify.com/album/3y1jMB1QNho4bbmungXFxo) | 4:23 |
 
-Snapshot ID: `ZzIS8AAAAAA3xMbRk7WUv8nUNmUA2vg/`
+Snapshot ID: `ZzIS8AAAAACK09kz4pDFyLG1jKRkXKmU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: ん・フェニ
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,634 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,642 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [クラゲ](https://open.spotify.com/track/5WCTTvHU8ICdPouBNMSUVM) | [大東まみ](https://open.spotify.com/artist/7wU9E3B6VEbu1tuJMOUids) | [クラゲ](https://open.spotify.com/album/24PbkAVqRASdC053mq4A6Z) | 3:37 |
 | 80 | [吸血鬼 \(feat\. 重音テト & GUMI\)](https://open.spotify.com/track/7kUtuSQsuLsWdmzMdyshtK) | [カンザキイオリ](https://open.spotify.com/artist/54CcLaFcLnAElSbnjKGCm6), [Teto Kasane](https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR), [GUMI](https://open.spotify.com/artist/2XEx6N3gknSmtshM0PVuxu) | [吸血鬼 \(feat\. 重音テト & GUMI\)](https://open.spotify.com/album/641yxqqf1J9EqGoSEsRfik) | 3:51 |
 
-Snapshot ID: `ZzJ/IAAAAACA45cWlu6BWL1+Cdrl36ql`
+Snapshot ID: `ZzJ/IAAAAAClnMmdj0aBcOXfJCImLC3I`

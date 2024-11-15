@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: KAVE\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,522 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,519 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 49 | [Humming For Sunset](https://open.spotify.com/track/0aASmPgngno02hD1hQ1IeE) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [Humming For Sunset](https://open.spotify.com/album/38muvzltBhfYQEWr1bwq7V) | 4:33 |
 | 50 | [Sewer](https://open.spotify.com/track/5GRNf3MJ6uXAIwCapVMAJW) | [Seoyul](https://open.spotify.com/artist/38JkWE7udt33BlClPEOU6Z) | [Sewer](https://open.spotify.com/album/7tcEK9skePgz09OySRCAUL) | 4:02 |
 
-Snapshot ID: `ZzL9cwAAAAC/HaDUQ4sl9rfFyRJ9rkcj`
+Snapshot ID: `ZzL9cwAAAAAqX/RiiDoIlrh5lQXKUWm8`

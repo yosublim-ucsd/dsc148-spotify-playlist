@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > o melhor do trap dá o play e aumenta! Foto: Vulgo FK
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,529,884 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,530,077 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [A D I C T O <3](https://open.spotify.com/track/6LqZrpbGOaiSxciF7T9qPq) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Matheus Queiroz](https://open.spotify.com/artist/42M14UjNCtQbaa0L3t2lN7) | [A D I C T O <3](https://open.spotify.com/album/1ps2Q5sBq5Q3SiiJpYIh6u) | 2:58 |
 | 50 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 |
 
-Snapshot ID: `Zy1+7AAAAAA1CW4jtQ+iUu4nk6FDgFD1`
+Snapshot ID: `Zy1+7AAAAACwvToksXWTqYM66fVp5T7s`

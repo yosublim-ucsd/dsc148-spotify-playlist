@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Machos. The essential tracks, all in one playlist.",
-  "num_followers": 61478,
+  "num_followers": 61496,
   "original_name": "This Is Banda Machos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzKagAAAAAAZGYOp63fBjVj1jNmP4+K1",
+  "snapshot_id": "ZzPsAAAAAABPfp/uHicHSjtj6yjcbA8+",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 2) [USA]",
-        "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 185146,
-      "name": "No soy monedita de oro",
-      "url": "https://open.spotify.com/track/3ndJWgaFnw92IeICfSlTrP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las 20 Poderosas (USA)",
         "url": "https://open.spotify.com/album/6ZvT8iE0JiuguDiohKhcEF"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 198800,
       "name": "La suegra",
       "url": "https://open.spotify.com/track/0YIyyTbaIM0MYrfOLhvlrI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 2) [USA]",
+        "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 185146,
+      "name": "No soy monedita de oro",
+      "url": "https://open.spotify.com/track/3ndJWgaFnw92IeICfSlTrP"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura pasi\u00f3n",
-        "url": "https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 190226,
-      "name": "El mandilon",
-      "url": "https://open.spotify.com/track/6jLka2PiSCyGNpSTLiVB1l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Est\u00e1s Seleccionada",
         "url": "https://open.spotify.com/album/3ZVscmJ2sG4GsR7ymRSKO7"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 176093,
       "name": "Te Lavaste la Cara y el Mono No (El Mono de Marciana)",
       "url": "https://open.spotify.com/track/6oJBFXFuovJM9bYyIWf9QH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Estrellas de la Musica Mexicana (USA)",
+        "url": "https://open.spotify.com/album/2JOLFDLR0yxFWPQ2V8f2tY"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 216306,
+      "name": "Mi guitarra y yo",
+      "url": "https://open.spotify.com/track/0edkcVjFnMaLouhsMHlcXw"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Estrellas de la Musica Mexicana (USA)",
-        "url": "https://open.spotify.com/album/2JOLFDLR0yxFWPQ2V8f2tY"
+        "name": "Pura pasi\u00f3n",
+        "url": "https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 216306,
-      "name": "Mi guitarra y yo",
-      "url": "https://open.spotify.com/track/0edkcVjFnMaLouhsMHlcXw"
+      "duration_ms": 190226,
+      "name": "El mandilon",
+      "url": "https://open.spotify.com/track/6jLka2PiSCyGNpSTLiVB1l"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
       "duration_ms": 206120,
       "name": "El Pr\u00f3ximo Tonto",
       "url": "https://open.spotify.com/track/159vIWmmGLkVzYWqG2oHNb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pura pasi\u00f3n",
-        "url": "https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "La noche que Chicago muri\u00f3",
-      "url": "https://open.spotify.com/track/2fz0tjz7uUMY9jIxIUTd4H"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
       "duration_ms": 189266,
       "name": "Traficantes Michoacanos",
       "url": "https://open.spotify.com/track/4dZGvGTg2Jay6IfM30d0GT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura pasi\u00f3n",
+        "url": "https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "La noche que Chicago muri\u00f3",
+      "url": "https://open.spotify.com/track/2fz0tjz7uUMY9jIxIUTd4H"
     },
     {
       "added_at": null,

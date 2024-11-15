@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XGAZS8f0X7.md) - [plain]
 
 > <a href="spotify:genre:0JQ5DAqbMKFER3phdsNMHT">Casa Spotify</a> is coming to Miami on November 12!
 
-[Spotify](https://open.spotify.com/user/spotify) - 244 likes - 125 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 252 likes - 125 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XGAZS8f0X7.md) - [plain]
 | 124 | [pesimista](https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [pesimista](https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX) | 3:54 |
 | 125 | [CLASSICO](https://open.spotify.com/track/2kxFdDHh6BM0892RzpvA7u) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [CLASSICO](https://open.spotify.com/album/1uJhaFnc580OWUORK9HJpG) | 3:01 |
 
-Snapshot ID: `ZzA52gAAAADYCQ+f/0eaUuG2wpfDRihu`
+Snapshot ID: `ZzA52gAAAACrCk3gEK2wPz77jOdz1+JO`

@@ -4,7 +4,7 @@
 
 > Music from Tyler, The Creator, Gunna and GloRilla.
 
-2,216 songs - 4 day 18 hr 49 min
+2,217 songs - 4 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,6 +518,7 @@
 | [Drop \(feat\. DaBaby\)](https://open.spotify.com/track/6Ht7wDd0wi2wPDLde7m1Gr) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Drop \(feat\. DaBaby\)](https://open.spotify.com/album/0lziEfJ5vqzrFLev10QnAz) | 2:51 | 2021-06-05 | 2021-06-12 |
 | [Drop A Location](https://open.spotify.com/track/4UBicDBC9UqwGau3sWIw86) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Kommunity Service](https://open.spotify.com/album/79kXQIGEmAb2QlundO0hRi) | 2:14 | 2021-05-22 | 2021-05-29 |
 | [Drop A Tear \(feat\. Lil Baby\)](https://open.spotify.com/track/1b5bD9RZ2KFv34O9Dn5NNr) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Pain is Temporary](https://open.spotify.com/album/5SnWHdZfyNbnvpMFbab8N5) | 3:02 | 2020-06-29 | 2020-07-03 |
+| [Drop It Like It's Hot](https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 4:26 | 2024-11-14 |  |
 | [Drop Shit](https://open.spotify.com/track/416XBAqBQECEjtMS8dlPQM) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Drop Shit](https://open.spotify.com/album/56WJxTl9A4F6Sr5ibUsW0g) | 3:19 | 2021-12-17 | 2022-01-08 |
 | [Drugs You Should Try It](https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 3:28 | 2024-08-29 | 2024-08-31 |
 | [Drums](https://open.spotify.com/track/78MA8xdZCe4KS9SuIxs1Ce) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Red Eye](https://open.spotify.com/album/2rGZ4DEQqxseAXO9hVqNDo) | 3:01 | 2023-06-09 | 2023-06-17 |

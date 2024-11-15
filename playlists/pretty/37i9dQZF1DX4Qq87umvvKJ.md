@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Qq87umvvKJ.md) - [plain]
 
 > Underneath their cool, unbothered exterior, this character is an enigma to be unraveled.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,138 likes - 40 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,271 likes - 40 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Qq87umvvKJ.md) - [plain]
 | 39 | [明日もこの世は回るから](https://open.spotify.com/track/3ck36TRBcv022W4h4Cs9S1) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [CULTURE DOG](https://open.spotify.com/album/5a1bxguVm8EXhv8Mo1DePm) | 3:40 |
 | 40 | [c r a z y](https://open.spotify.com/track/3o86gmLtoG3jE9sFgVu4nn) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [no public sounds](https://open.spotify.com/album/6aO96YUjirdU0mPzy7mCHd) | 3:13 |
 
-Snapshot ID: `ZtEWKAAAAAAgooFJArHb5SnQ1n18O2ZO`
+Snapshot ID: `ZtEWKAAAAADnxHSB2OL4cwwzS3E4qlaR`

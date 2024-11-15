@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SiCzCxMDOH.md) - [plain]
 
 > Find your study focus with calm instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,753 likes - 545 songs - 1 day 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,033 likes - 545 songs - 1 day 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -554,4 +554,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SiCzCxMDOH.md) - [plain]
 | 544 | [Morning Light](https://open.spotify.com/track/5sZWLVuS8DTpRvbWdCNGwy) | [Green Trio](https://open.spotify.com/artist/6byy6cSUHfjBs0vgjgC5St) | [Morning Light](https://open.spotify.com/album/3940RmfnSgh2e1DSwrvsWa) | 2:50 |
 | 545 | [Litania](https://open.spotify.com/track/0ou3UbT1V1FaGU5oz6Q8Bo) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Litania](https://open.spotify.com/album/1h5ET74uSoTx5vr58suMeR) | 3:55 |
 
-Snapshot ID: `ZzIt0QAAAADi246sOMWywPSvOXxvXg9A`
+Snapshot ID: `ZzIt0QAAAABjXK06hCbLaWrnAelXnt2j`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 千葉雄喜 \*👉 <a href="https://spice.eplus.jp/articles/333374?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,793 likes - 86 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,801 likes - 86 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 30 | [You got my mind](https://open.spotify.com/track/3WWYacvB99p1NOKDqTFO0N) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [ECHOES of DUALITY](https://open.spotify.com/album/1OL8ShYfIqC64LwSqAozVm) | 3:05 |
 | 31 | [オレンジユース](https://open.spotify.com/track/0tyWACXs21qrDmFCCuVlmp) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [オレンジユース](https://open.spotify.com/album/3dB38r28Uyoi5ykhYFI0X7) | 3:32 |
 | 32 | [絶蝶](https://open.spotify.com/track/3j9yeUfShopGDJxpSxkApr) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [Dulcet](https://open.spotify.com/album/75xBUSK7YkL3H5GTQMSpRv) | 4:01 |
-| 33 | [ぬけがらの海](https://open.spotify.com/track/3I8kQW6EOVEbmODNbv5Mbh) | [田中ヤコブ](https://open.spotify.com/artist/2jSlLUl3HN5yfLhz11FJGk) | [ただようだけ \(Side A\)](https://open.spotify.com/album/3c6q1M9lq78uOPZSx1ua0G) | 3:40 |
+| 33 | [ぬけがらの海](https://open.spotify.com/track/3I8kQW6EOVEbmODNbv5Mbh) | [Jacob Tanaka](https://open.spotify.com/artist/1DxNEhiV9wnWn1ZcAjjOMG) | [ただようだけ \(Side A\)](https://open.spotify.com/album/3c6q1M9lq78uOPZSx1ua0G) | 3:40 |
 | 34 | [For a long time](https://open.spotify.com/track/3gYBa8w5iUYWJBtuN1keYB) | [TRIPPYHOUSING](https://open.spotify.com/artist/4pdZ66BsPUNzMSqlC1r9YN) | [For a long time](https://open.spotify.com/album/1hADWIvMFHjFmV3AoM3VGV) | 3:42 |
 | 35 | [Miracle Mantra](https://open.spotify.com/track/6HQBP9FCI9PtzNpV0ttAoJ) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [ビラル](https://open.spotify.com/artist/4YWGp2MeO7LQihs0cKDM0v) | [Shades of](https://open.spotify.com/album/4SnYHpDFwJcbi4VpAuPIfO) | 2:29 |
 | 36 | [きっと ずっと](https://open.spotify.com/track/3gPFzM3uedNKiQvT8Kg8Mc) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [きっと ずっと](https://open.spotify.com/album/5kxMrcNqd6jKOIOE4WMhxb) | 4:02 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 85 | [不意に](https://open.spotify.com/track/7a25rqzTE2WMsKazzrkmqZ) | [SACOYANS](https://open.spotify.com/artist/0wTERYV74C8OkJRQnNbrDn) | [SUN](https://open.spotify.com/album/4chFM2dpu6dCB0hXLItQkW) | 4:34 |
 | 86 | [わかんないセブンティーン](https://open.spotify.com/track/5jguO6cwuUWvyFL3oT0N1f) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [わかんないセブンティーン](https://open.spotify.com/album/3pqgbqHyMVWfgnfyQcDlR0) | 3:02 |
 
-Snapshot ID: `ZzSi0AAAAAAyw2E9KV8tV0UH1D/p19cq`
+Snapshot ID: `ZzSi0AAAAADQq/n3AjKF7EtMJZav4ErT`

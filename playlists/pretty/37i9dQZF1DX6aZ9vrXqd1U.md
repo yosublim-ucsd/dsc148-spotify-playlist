@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,441 likes - 132 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,473 likes - 132 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 105 | [Core](https://open.spotify.com/track/16efoleNNHcCHRGnB0la99) | [Mille Face](https://open.spotify.com/artist/3nLAIBYf5Ebm44Y1re9Wyg) | [Core](https://open.spotify.com/album/4liHmwW0xaX3uJtnhhQRVx) | 4:43 |
 | 106 | [罠](https://open.spotify.com/track/1flOkQIJUm6j8XluuFEJCy) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [BEST THE BACK HORN](https://open.spotify.com/album/0yaafXyRahYiHyT69hiP3v) | 4:22 |
 | 107 | [I CAN'T DO ANYTHING\-宇宙よ\-](https://open.spotify.com/track/1jGRCbz8D1prxGRbSy4Xir) | [服部隆之 Presents GUNDAM THE ORIGIN](https://open.spotify.com/artist/4E6kqE30CXyqBEFxeD8Pj6), [AYA](https://open.spotify.com/artist/5XboRZlTHep5d4fC6AmZkW) | [I CAN'T DO ANYTHING\-宇宙よ\-](https://open.spotify.com/album/4ADBrrYkMVaEBe4IP4Jqcl) | 5:24 |
-| 108 | [WINNERS FOREVER \~勝利者よ\~](https://open.spotify.com/track/04wlalTBq1NVUKShbyNGnw) | [infix](https://open.spotify.com/artist/4VPp8N09a28R2ssRz8FQne) | [WINNERS FOREVER \~勝利者よ\~](https://open.spotify.com/album/73ED2FQiqPDkIl1poyGUCu) | 3:44 |
+| 108 | [WINNERS FOREVER ～勝利者よ～](https://open.spotify.com/track/04wlalTBq1NVUKShbyNGnw) | [infix](https://open.spotify.com/artist/4VPp8N09a28R2ssRz8FQne) | [WINNERS FOREVER ～勝利者よ～](https://open.spotify.com/album/73ED2FQiqPDkIl1poyGUCu) | 3:44 |
 | 109 | [STAND UP TO THE VICTORY ～トゥ・ザ・ヴィクトリー～](https://open.spotify.com/track/4T81RNowuPk5LNXKAYs6fo) | [川添智久](https://open.spotify.com/artist/14yIpuKNGdFM87fiaKd0RT) | [STAND UP TO THE VICTORY ～トゥ・ザ・ヴィクトリー～](https://open.spotify.com/album/5p87iECgoz6gPa8sicNRNe) | 4:35 |
 | 110 | [Don't Stop!Carry On!](https://open.spotify.com/track/3cSciHvHIvOVtXGezkRd1M) | [RD](https://open.spotify.com/artist/4g7EG9jvj6IkGitrD2i5uH) | [Don't Stop!Carry On!](https://open.spotify.com/album/7FaNRsZ6CM8TVjQaKlKxCw) | 3:30 |
 | 111 | [Planet Zone](https://open.spotify.com/track/1AzDqUGSBTzexgNzzZjg0t) | [Risa Yuki](https://open.spotify.com/artist/4dE7mnDgdYAsXY4X9jfoPA) | [Planet Zone](https://open.spotify.com/album/3Km6CvcGjkq6BybVypKQGB) | 4:04 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 131 | [Next 2 U \-eUC\-](https://open.spotify.com/track/1auy1PkfwF6yCplcdhd8NK) | [SawanoHiroyuki\[nZk\]:naNami](https://open.spotify.com/artist/2EAfowJhmEii7OUOa44fAk) | [Into the Sky EP](https://open.spotify.com/album/6OThyKSLIsY2fVSBjQfSZU) | 4:04 |
 | 132 | [星空のBelieve](https://open.spotify.com/track/3KX9Ky0uBKGYvMNe1l4iWr) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Reply～Mami Ayukawa 25th Anniversary Best Album～](https://open.spotify.com/album/1zkooNcXkwSRYkM2e7blvM) | 3:30 |
 
-Snapshot ID: `ZoSXpgAAAABWk/ANOAvUPdZL4NJWG50L`
+Snapshot ID: `ZoSXpgAAAABt8FpvfKpn23zs4FD77CYE`

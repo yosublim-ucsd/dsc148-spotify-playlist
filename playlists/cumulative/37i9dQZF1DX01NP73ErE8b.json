@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Cover: Olly",
+  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Cover: Elodie e Tiziano Ferro ",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 142615,
       "name": "30\u00baC",
       "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "Dillo Solo Al Buio",
+        "url": "https://open.spotify.com/album/5DaUWuCz3CUye1DFBaD25T"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225365,
+      "name": "Dillo Solo Al Buio",
+      "url": "https://open.spotify.com/track/2Om8fOpJjFtSn7MGdj3aen"
+    },
+    {
+      "album": {
         "name": "DIRE FARE BACIARE",
         "url": "https://open.spotify.com/album/6r0iHqnfn9FvrIIhlu3CjE"
       },
@@ -500,7 +518,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 167338,
       "name": "ESTATE 80",
       "url": "https://open.spotify.com/track/5QJ2FsEt4kvkEbGW37L1VO"
@@ -821,6 +839,24 @@
     },
     {
       "album": {
+        "name": "Il morso di Tyson",
+        "url": "https://open.spotify.com/album/4SxlTcymVxxvlAXBWZQIzJ"
+      },
+      "artists": [
+        {
+          "name": "Brunori Sas",
+          "url": "https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Il morso di Tyson",
+      "url": "https://open.spotify.com/track/2UTQn14EQXOmzuTGerjSZ5"
+    },
+    {
+      "album": {
         "name": "ILY",
         "url": "https://open.spotify.com/album/1162FKlfeImaKaOiQVgvMs"
       },
@@ -888,6 +924,24 @@
       "duration_ms": 134880,
       "name": "IO X LEI",
       "url": "https://open.spotify.com/track/36f2RAAEUU6mfZkiY0je48"
+    },
+    {
+      "album": {
+        "name": "Islanda",
+        "url": "https://open.spotify.com/album/0awzpRHpQcLl76a8SRJ50R"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217213,
+      "name": "Islanda",
+      "url": "https://open.spotify.com/track/25mDnFOFyPmebNAok8mavk"
     },
     {
       "album": {
@@ -1525,6 +1579,24 @@
     },
     {
       "album": {
+        "name": "oh my god",
+        "url": "https://open.spotify.com/album/5eViZ16AVD34GQvTivZzye"
+      },
+      "artists": [
+        {
+          "name": "mew",
+          "url": "https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183488,
+      "name": "oh my god",
+      "url": "https://open.spotify.com/track/2C42NOgiXXkbpRePhTVjO0"
+    },
+    {
+      "album": {
         "name": "Ora che non ho pi\u00f9 te",
         "url": "https://open.spotify.com/album/0GjC6blqcboQAQExPBF4kf"
       },
@@ -2028,7 +2100,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 167263,
       "name": "SESSO E SAMBA (feat. Gaia)",
       "url": "https://open.spotify.com/track/2Q4Z2js0C6DDUVc7GuLGdF"
@@ -2202,7 +2274,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 174628,
       "name": "Torcida",
       "url": "https://open.spotify.com/track/50okpBf3MvXr4FyWB6jJIK"
@@ -2224,6 +2296,24 @@
       "duration_ms": 163636,
       "name": "Tornado",
       "url": "https://open.spotify.com/track/7HVSOhJfXg6aeRoULQqFQv"
+    },
+    {
+      "album": {
+        "name": "Tu sei il mattino",
+        "url": "https://open.spotify.com/album/0sbGgrjOyEt7maAqras9N3"
+      },
+      "artists": [
+        {
+          "name": "Lucio Corsi",
+          "url": "https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188151,
+      "name": "Tu sei il mattino",
+      "url": "https://open.spotify.com/track/1j58NLQYaQsLW1eYppRI02"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/57bqeusfyDsCIt1qDA1J9I\">wiesner</a>",
-  "num_followers": 20801,
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k?si=zsG4AiBaTyWV4-BZYzNchg\">We Kill Cowboys</a>",
+  "num_followers": 20814,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy4QNwAAAABJcDG0Vkudmx97mclAztCQ",
+  "snapshot_id": "ZzZy4AAAAADP2HSG0QXWCzE87Cfa0lFf",
   "tracks": [
+    {
+      "added_at": "2024-11-14 22:00:00",
+      "album": {
+        "name": "Burn The Witch",
+        "url": "https://open.spotify.com/album/6rxwdPtLqT7lAu2vN2GqNC"
+      },
+      "artists": [
+        {
+          "name": "We Kill Cowboys",
+          "url": "https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k"
+        }
+      ],
+      "duration_ms": 195711,
+      "name": "Burn The Witch",
+      "url": "https://open.spotify.com/track/1giJa0VnP9hpUN8IMdszl0"
+    },
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
@@ -41,22 +57,6 @@
       "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
     },
     {
-      "added_at": "2024-10-31 22:00:00",
-      "album": {
-        "name": "Mia, Jy",
-        "url": "https://open.spotify.com/album/5wHPieDfDaOum3eraaZhuO"
-      },
-      "artists": [
-        {
-          "name": "wiesner",
-          "url": "https://open.spotify.com/artist/57bqeusfyDsCIt1qDA1J9I"
-        }
-      ],
-      "duration_ms": 272250,
-      "name": "Mia, Jy",
-      "url": "https://open.spotify.com/track/0mwhB6Nb6WmmjPjjRteCHg"
-    },
-    {
       "added_at": "2024-07-28 19:12:15",
       "album": {
         "name": "Vanfokkingtasties Akoesties",
@@ -75,22 +75,6 @@
       "duration_ms": 210520,
       "name": "Dagdronk",
       "url": "https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex"
-    },
-    {
-      "added_at": "2024-11-08 13:20:55",
-      "album": {
-        "name": "Oor Jou",
-        "url": "https://open.spotify.com/album/0GKkRhtRDRjjj10Poa4bQi"
-      },
-      "artists": [
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 238112,
-      "name": "Oor Jou",
-      "url": "https://open.spotify.com/track/2y2Fx9kG3SBmAwSDNrZE0o"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -125,68 +109,20 @@
       "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
     },
     {
-      "added_at": "2024-07-28 19:12:15",
+      "added_at": "2024-10-31 22:00:00",
       "album": {
-        "name": "As Jy Met Vuur Speel Sal Jy Brand",
-        "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
+        "name": "Mia, Jy",
+        "url": "https://open.spotify.com/album/5wHPieDfDaOum3eraaZhuO"
       },
       "artists": [
         {
-          "name": "Fokofpolisiekar",
-          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
+          "name": "wiesner",
+          "url": "https://open.spotify.com/artist/57bqeusfyDsCIt1qDA1J9I"
         }
       ],
-      "duration_ms": 159253,
-      "name": "Hemel Op Die Platteland",
-      "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
-    },
-    {
-      "added_at": "2024-10-18 06:11:55",
-      "album": {
-        "name": "Die Brug",
-        "url": "https://open.spotify.com/album/0yC6sDUuyb6T1rf0ruJjwA"
-      },
-      "artists": [
-        {
-          "name": "Jo Black",
-          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Die Brug",
-      "url": "https://open.spotify.com/track/0MozIJQu2CAVWogDilKDKj"
-    },
-    {
-      "added_at": "2024-11-08 13:20:55",
-      "album": {
-        "name": "Holy Rollers",
-        "url": "https://open.spotify.com/album/37jMpkKSPlixwTqTXDrCOg"
-      },
-      "artists": [
-        {
-          "name": "Scream In Colours",
-          "url": "https://open.spotify.com/artist/2ua0EC6QA0j2zsvhS0ZTSb"
-        }
-      ],
-      "duration_ms": 171812,
-      "name": "Holy Rollers",
-      "url": "https://open.spotify.com/track/07lvzlEPEPskQMVbePhE9u"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
-        "name": "Judas Mind",
-        "url": "https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 244728,
-      "name": "Judas Mind - edit",
-      "url": "https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K"
+      "duration_ms": 272250,
+      "name": "Mia, Jy",
+      "url": "https://open.spotify.com/track/0mwhB6Nb6WmmjPjjRteCHg"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -205,20 +141,84 @@
       "url": "https://open.spotify.com/track/5mLtL3i6aZvscX0HlyNK5x"
     },
     {
-      "added_at": "2024-07-28 19:12:15",
+      "added_at": "2024-11-14 22:00:00",
       "album": {
-        "name": "Hello Crazy World -10th Anniversary Special",
-        "url": "https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34"
+        "name": "Forgotten Songs: E.P. 2 \u2013 Covers and Remixes",
+        "url": "https://open.spotify.com/album/6okRMNWu7PNStw4YTyJ6ub"
       },
       "artists": [
         {
-          "name": "Prime Circle",
-          "url": "https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB"
+          "name": "The Parlotones",
+          "url": "https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs"
         }
       ],
-      "duration_ms": 222666,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c"
+      "duration_ms": 181546,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/6uKOEk9ryr95USxLQvjoqK"
+    },
+    {
+      "added_at": "2024-11-08 13:20:55",
+      "album": {
+        "name": "Oor Jou",
+        "url": "https://open.spotify.com/album/0GKkRhtRDRjjj10Poa4bQi"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 238112,
+      "name": "Oor Jou",
+      "url": "https://open.spotify.com/track/2y2Fx9kG3SBmAwSDNrZE0o"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "Judas Mind",
+        "url": "https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 244728,
+      "name": "Judas Mind - edit",
+      "url": "https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K"
+    },
+    {
+      "added_at": "2024-10-18 06:11:55",
+      "album": {
+        "name": "Die Brug",
+        "url": "https://open.spotify.com/album/0yC6sDUuyb6T1rf0ruJjwA"
+      },
+      "artists": [
+        {
+          "name": "Jo Black",
+          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Die Brug",
+      "url": "https://open.spotify.com/track/0MozIJQu2CAVWogDilKDKj"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "As Jy Met Vuur Speel Sal Jy Brand",
+        "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
+      },
+      "artists": [
+        {
+          "name": "Fokofpolisiekar",
+          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
+        }
+      ],
+      "duration_ms": 159253,
+      "name": "Hemel Op Die Platteland",
+      "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Die Kortste Hier",
-        "url": "https://open.spotify.com/album/7bQzKeNQdvwiiPmOh4yAo8"
+        "name": "Hello Crazy World -10th Anniversary Special",
+        "url": "https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34"
       },
       "artists": [
         {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+          "name": "Prime Circle",
+          "url": "https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Die Kortste Hier",
-      "url": "https://open.spotify.com/track/5xO82P7iaRC0LoUc2pz21l"
+      "duration_ms": 222666,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -335,6 +335,22 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
+        "name": "Die Kortste Hier",
+        "url": "https://open.spotify.com/album/7bQzKeNQdvwiiPmOh4yAo8"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Die Kortste Hier",
+      "url": "https://open.spotify.com/track/5xO82P7iaRC0LoUc2pz21l"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
         "name": "Bloeisels",
         "url": "https://open.spotify.com/album/21Wolo015jpmELBve2nf8E"
       },
@@ -347,6 +363,22 @@
       "duration_ms": 202250,
       "name": "Kan Ek Met Jou Dans",
       "url": "https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx"
+    },
+    {
+      "added_at": "2024-11-14 22:00:00",
+      "album": {
+        "name": "WHEMG",
+        "url": "https://open.spotify.com/album/2FRFzYwjquRBBch0vC4Lry"
+      },
+      "artists": [
+        {
+          "name": "GSTRiNG",
+          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "WHEMG",
+      "url": "https://open.spotify.com/track/0dy8BVnoUkRROD0jBFWJHI"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -379,6 +411,22 @@
       "duration_ms": 206503,
       "name": "Kyk Op",
       "url": "https://open.spotify.com/track/24bJuGTgDMck1hxZHg7xFM"
+    },
+    {
+      "added_at": "2024-11-14 22:00:00",
+      "album": {
+        "name": "Horison",
+        "url": "https://open.spotify.com/album/4F6VkaQ8rveCiC7evrzhV7"
+      },
+      "artists": [
+        {
+          "name": "Zondagkraal",
+          "url": "https://open.spotify.com/artist/0k9d7PDNcw5uY0JlHmjTy7"
+        }
+      ],
+      "duration_ms": 222938,
+      "name": "Horison",
+      "url": "https://open.spotify.com/track/0z8OOFo7PRYBfXtIWQtPIW"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -443,22 +491,6 @@
       "duration_ms": 243720,
       "name": "Lonely-lonely",
       "url": "https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a"
-    },
-    {
-      "added_at": "2024-11-08 13:20:55",
-      "album": {
-        "name": "Good Time EP",
-        "url": "https://open.spotify.com/album/1JEKznqz12lnw3FEhjPJiA"
-      },
-      "artists": [
-        {
-          "name": "Phillip Taylor",
-          "url": "https://open.spotify.com/artist/1YYmkWArjQ9gVGDq4BLyVw"
-        }
-      ],
-      "duration_ms": 171827,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/3a0WSCG2YeMNPcAl97ZRJC"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -625,22 +657,6 @@
       "url": "https://open.spotify.com/track/0PZGBkKhUJfPt6kUYE9SPd"
     },
     {
-      "added_at": "2024-11-08 13:20:55",
-      "album": {
-        "name": "Stray Kids",
-        "url": "https://open.spotify.com/album/7qvbJJJZ5YDXP2dxyJkLZI"
-      },
-      "artists": [
-        {
-          "name": "Venus and the Snake",
-          "url": "https://open.spotify.com/artist/2Mhmgm1OYvVjqOBTLdar9O"
-        }
-      ],
-      "duration_ms": 233818,
-      "name": "Stray Kids",
-      "url": "https://open.spotify.com/track/0BB4pCXURF1l4Knji1e5ad"
-    },
-    {
       "added_at": "2024-07-28 19:12:15",
       "album": {
         "name": "Penny Sleeps",
@@ -689,22 +705,6 @@
       "url": "https://open.spotify.com/track/1mBEtvBdWd7i4X3TxGJ0Ud"
     },
     {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
-        "name": "Nagblind",
-        "url": "https://open.spotify.com/album/1YRRGTMMIfEySbyPWkXry7"
-      },
-      "artists": [
-        {
-          "name": "Arno Carstens",
-          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
-        }
-      ],
-      "duration_ms": 213973,
-      "name": "Nagblind",
-      "url": "https://open.spotify.com/track/2Kf0YUHmw60NJEvzJEIeum"
-    },
-    {
       "added_at": "2024-09-06 06:15:37",
       "album": {
         "name": "Kondisie",
@@ -721,20 +721,20 @@
       "url": "https://open.spotify.com/track/36SjYjhcFhamW4QESWInBa"
     },
     {
-      "added_at": "2024-10-04 04:33:39",
+      "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Moth Eater",
-        "url": "https://open.spotify.com/album/47tMFXdmZbZY67z1mmfvR3"
+        "name": "Nagblind",
+        "url": "https://open.spotify.com/album/1YRRGTMMIfEySbyPWkXry7"
       },
       "artists": [
         {
-          "name": "Ruff Majik",
-          "url": "https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL"
+          "name": "Arno Carstens",
+          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
         }
       ],
-      "duration_ms": 323357,
-      "name": "Moth Eater",
-      "url": "https://open.spotify.com/track/04M4i1FYoBEPM8GEMAercO"
+      "duration_ms": 213973,
+      "name": "Nagblind",
+      "url": "https://open.spotify.com/track/2Kf0YUHmw60NJEvzJEIeum"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -751,6 +751,22 @@
       "duration_ms": 217200,
       "name": "My Ek(skuus)",
       "url": "https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D"
+    },
+    {
+      "added_at": "2024-10-04 04:33:39",
+      "album": {
+        "name": "Moth Eater",
+        "url": "https://open.spotify.com/album/47tMFXdmZbZY67z1mmfvR3"
+      },
+      "artists": [
+        {
+          "name": "Ruff Majik",
+          "url": "https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL"
+        }
+      ],
+      "duration_ms": 323357,
+      "name": "Moth Eater",
+      "url": "https://open.spotify.com/track/04M4i1FYoBEPM8GEMAercO"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -799,22 +815,6 @@
       "duration_ms": 228434,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/7IdzKD9PrLnU7H8WOjgp0U"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
-        "name": "Net Om Die Geraas In Te Asem",
-        "url": "https://open.spotify.com/album/24XNRA90YKU8MOiI1Yaz65"
-      },
-      "artists": [
-        {
-          "name": "\u00e9F-\u00e9L",
-          "url": "https://open.spotify.com/artist/0I1HsrpXxDkMUiOYp3Mmka"
-        }
-      ],
-      "duration_ms": 141186,
-      "name": "Sindikaat",
-      "url": "https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs"
     }
   ],
   "unique_name": "SA Rock ",

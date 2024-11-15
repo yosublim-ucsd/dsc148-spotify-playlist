@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 
 > 11月14日\(木\)から開催！Stray Kids World Tour 『dominATE JAPAN』予習プレイリスト
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,887 likes - 43 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,065 likes - 43 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 | 42 | [Collision](https://open.spotify.com/track/66XSjjwZLBJ55s5ZhdlxkP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/5ZO7GSyxmHa2qwET9zsEe4) | 2:37 |
 | 43 | [CIRCUS](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CIRCUS](https://open.spotify.com/album/4IQHY28D4aHus9lGDlSdPp) | 3:14 |
 
-Snapshot ID: `ZzNtcAAAAAA1sBUEGGdLYAYaEM8ze2F5`
+Snapshot ID: `ZzNtcAAAAACvoTxMfUjQrlVKRYJ4ld2d`

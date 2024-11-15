@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Fazil
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,245 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,249 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [LETTER 222 DELE](https://open.spotify.com/track/5Mbo8cFWYs0Ww2MvoMWdwV) | [PDSTRN](https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv), [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [ROCK, PAPER, SCISSORS](https://open.spotify.com/album/6PeVBL2DDJgqkVyNUaHy2j) | 2:40 |
 | 80 | [Santorini](https://open.spotify.com/track/2UPFRDIBBlBPrcLoEG4D8Y) | [Cool Paul](https://open.spotify.com/artist/5s1Xo4HmiGN7i4Fi2rlvlX), [Spaceray](https://open.spotify.com/artist/0BOIHlez70gvxoqGXmCUQB) | [Santorini](https://open.spotify.com/album/795ErC3i2caERgRMek4BFV) | 2:59 |
 
-Snapshot ID: `Zy1UvAAAAAAc9mpivnVQruNloFGlB9Ec`
+Snapshot ID: `Zy1UvAAAAAAzlvDCuQ8d1qtr0hldqjdU`

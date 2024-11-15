@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Joey Bada$$
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,335,516 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,335,721 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Cookbook](https://open.spotify.com/track/6jyDMij0ZmioA3apknxkYf) | [WaveIQ](https://open.spotify.com/artist/5IhbkGKKSgqomquNJuT0oA), [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [The Pigeon Theory](https://open.spotify.com/album/0AEjFSK64oAPXQbGf9ro6h) | 3:09 |
 | 100 | [Breakfast in Gold Coast](https://open.spotify.com/track/5RAsCL4hyLAhz83TpZtvwl) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Doing It For Me](https://open.spotify.com/album/0dC5i4Es5TvsDuUHyQ33nA) | 2:22 |
 
-Snapshot ID: `Zy2a0AAAAACdiZkAnYqToe6jwww8Zv2n`
+Snapshot ID: `Zy2a0AAAAAAhI5riUwY490I580e0iPvV`

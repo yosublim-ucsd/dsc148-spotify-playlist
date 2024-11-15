@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Girl Scout
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,713 likes - 125 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,765 likes - 125 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 124 | [DEDBODY](https://open.spotify.com/track/08lHjNpuU9fJt4RJmhrFsw) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [DEDBODY](https://open.spotify.com/album/1M2k1vtw2UvyEUZxvJaVPK) | 3:27 |
 | 125 | [Hey](https://open.spotify.com/track/1ycdEKUvL03LLyexLASRxU) | [The Hard Quartet](https://open.spotify.com/artist/2fU2w19foGHouVAiJR7DJ6) | [The Hard Quartet](https://open.spotify.com/album/7tCKr50KVtUpGHGlWMhBsR) | 4:29 |
 
-Snapshot ID: `Zy2a0AAAAACi2Dqah6KdryvzoDNXWOlC`
+Snapshot ID: `Zy2a0AAAAADhIvQno4F+bZIl3FFri3gf`

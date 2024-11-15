@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,688 songs - 3 day 15 hr 38 min
+1,691 songs - 3 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,7 +475,7 @@
 | [Fjäder](https://open.spotify.com/track/7z7EbUeXvStvBOLwoGfJOE) | [Metin](https://open.spotify.com/artist/6eSot2vezArDhUu5g4hKNR), [Louis](https://open.spotify.com/artist/1pqyhTXoBNwHs4qhZFlRBZ), [Xavs](https://open.spotify.com/artist/6cthS8RRByX6tvYcBZbYJD) | [Fjäder](https://open.spotify.com/album/75RFUt0lpPpplbQzdRfT7p) | 2:39 | 2024-08-22 | 2024-09-07 |
 | [Flame](https://open.spotify.com/track/3wKrTUsTyHA0BPzoyOe1kO) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Flame](https://open.spotify.com/album/0k9Q5aNmzrppjIPQJXWk4o) | 2:53 | 2024-05-30 | 2024-06-28 |
 | [Flamma](https://open.spotify.com/track/69Ryae6S7mOorlm3MX0kuZ) | [Kayo](https://open.spotify.com/artist/1VbaXEYjZBuKXgW0uuVtIz) | [Flamma](https://open.spotify.com/album/46frGAgIvMsalRxiRByxLS) | 3:15 | 2024-08-08 | 2024-09-08 |
-| [Flowers at a Funeral](https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Flowers at a Funeral](https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg) | 3:27 | 2024-08-22 |  |
+| [Flowers at a Funeral](https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Flowers at a Funeral](https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg) | 3:27 | 2024-08-22 | 2024-11-15 |
 | [Fluent Stutter](https://open.spotify.com/track/3FnEbhsdwIbe9gPR0O1okt) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/23Moldp9m4ZHPUHokhwg3z) | 2:26 | 2023-04-13 | 2023-06-10 |
 | [Fluent Stutter](https://open.spotify.com/track/5ajwojfoQcgv1a7VVk20hb) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA) | 2:26 | 2023-06-08 | 2023-07-07 |
 | [Flyg Fula Fluga Flyg](https://open.spotify.com/track/01fQ3xuWfYAHmUIiFC1JVP) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Flyg Fula Fluga Flyg \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/5xwu2ZxKFPk1wM1JBEO2Jf) | 2:39 | 2021-12-16 | 2022-09-16 |
@@ -597,6 +597,7 @@
 | [Havanna](https://open.spotify.com/track/0ZN8XG8KwLP0gXOcLFETDA) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Havanna](https://open.spotify.com/album/4mBLs4HnnkV71UtvwdTRqg) | 3:31 | 2021-12-16 | 2022-03-10 |
 | [Headed North](https://open.spotify.com/track/6JnGmZTooUN8UW37syo8mV) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Headed North](https://open.spotify.com/album/3h9JCAbfodHxKpFVT5oXiL) | 2:56 | 2023-10-13 | 2024-01-26 |
 | [Hear Me Out](https://open.spotify.com/track/2DPvoJDAidOfXnB0QuFQiy) | [San Sebastian](https://open.spotify.com/artist/3i5CinvLDgkzioyuI1oa1E) | [Hear Me Out](https://open.spotify.com/album/1WRUI0cnE0LH0J9TJkNeQa) | 3:04 | 2024-06-13 | 2024-08-16 |
+| [Heart Full of Ghosts](https://open.spotify.com/track/79ckLAB8lpUqG508kAr1hV) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Mementos](https://open.spotify.com/album/5pVtLU7A9EufwffUMIFoDT) | 3:09 | 2024-11-14 |  |
 | [Heartbeat](https://open.spotify.com/track/7GK7HWp2xsLkVGU2apwFan) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Heartbeat](https://open.spotify.com/album/7hmdO5DOqskwVbiLPs2YGV) | 4:02 | 2024-06-13 | 2024-08-16 |
 | [Heartbreak Hotel](https://open.spotify.com/track/1GgYN93yWE3pA7wmbvkX1F) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG) | [Heartbreak Hotel](https://open.spotify.com/album/6AEhJn5nqGPP6bGXO7HJYq) | 2:37 | 2022-04-07 | 2022-04-21 |
 | [Heartbreakmiljonär](https://open.spotify.com/track/2li3Mf9nEwOkvQ43QUNh0j) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Heartbreakmiljonär](https://open.spotify.com/album/0b4MV4Nget3iV9y2vi7Ewz) | 3:13 | 2023-10-12 | 2023-11-19 |
@@ -704,6 +705,7 @@
 | [I Had Some Help](https://open.spotify.com/track/1exJmqcLsoq5h7RHDRzljm) | [Twenty One Two](https://open.spotify.com/artist/2A5VOguZzXMBrg27MEUZcp) | [I Had Some Help](https://open.spotify.com/album/0R3ZYHphV3n1PZTc7GKYSo) | 2:56 | 2024-06-27 | 2024-09-20 |
 | [I Had You By My Side](https://open.spotify.com/track/76TMobb4xIq90XBLOzf3WC) | [Isabel Neib](https://open.spotify.com/artist/7hsUdPSrlTdl9cHyGl7KL5) | [I Had You By My Side](https://open.spotify.com/album/43i3iARN8iEutbpyn5hZAu) | 4:07 | 2024-01-25 | 2024-01-28 |
 | [I HATE IT!](https://open.spotify.com/track/3VuVNNSD9gL6TBq43PeB5v) | [Hanna Mel](https://open.spotify.com/artist/5KZjB3QwCH7oFbualxmGq8) | [I HATE IT!](https://open.spotify.com/album/5354Xi5KXJ6EtjB1qrQP82) | 2:58 | 2024-06-27 | 2024-09-13 |
+| [I haven't let go](https://open.spotify.com/track/4MjIp7nv5HtwbVZEY7mZLD) | [4ever Falling](https://open.spotify.com/artist/42lwXNRrnNkxxyj0YVsxZG) | [I haven't let go](https://open.spotify.com/album/7GO4IpGBTU1NEJBVe365O5) | 3:29 | 2024-11-14 |  |
 | [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 | 2024-08-22 |  |
 | [I like u](https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme \(Extended Cut\)](https://open.spotify.com/album/4HqIEAaytAyzVPnnT0j9j3) | 3:10 | 2023-08-10 | 2023-10-20 |
 | [I like u](https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [I like u](https://open.spotify.com/album/4CD20ta8qwSZV5iqSDzo7w) | 3:10 | 2023-06-01 | 2023-08-14 |
@@ -1028,7 +1030,7 @@
 | [Nej tack](https://open.spotify.com/track/68FwlFokEVkTWjq4VXh6kp) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Nej tack](https://open.spotify.com/album/62QivIfT2Pc2XxEhVo93jL) | 2:29 | 2024-02-29 | 2024-04-19 |
 | [Nej tack, det är bra!](https://open.spotify.com/track/3C23RjOroCMUmbdtmpSPX4) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [+3 bpm](https://open.spotify.com/album/7fZMtaTLaGtmxTr92ELKbq) | 2:15 | 2023-04-27 | 2023-10-20 |
 | [Neon Lights](https://open.spotify.com/track/7yDgeEC1EKU5klYxQPLCMb) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Neon Lights](https://open.spotify.com/album/5ChvqR6pa683F4PFICJqWE) | 3:29 | 2022-05-12 | 2023-10-06 |
-| [Never Change](https://open.spotify.com/track/4heXO8AkvpBMCpknbfeEhm) | [Honey.](https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN) | [Halflove](https://open.spotify.com/album/6pQI6HbJIp2ztSPKTEQgyp) | 3:17 | 2024-10-04 |  |
+| [Never Change](https://open.spotify.com/track/4heXO8AkvpBMCpknbfeEhm) | [Honey.](https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN) | [Halflove](https://open.spotify.com/album/6pQI6HbJIp2ztSPKTEQgyp) | 3:17 | 2024-10-04 | 2024-11-15 |
 | [Never Enough](https://open.spotify.com/track/7dzSmIEjI8AO2ET2SLMUlw) | [Urban Cone](https://open.spotify.com/artist/3WOOglGBDGvr6c2WBeMAWn) | [Never Enough](https://open.spotify.com/album/3njKzpqfXbFpiZoSzPZeMe) | 3:06 | 2021-12-16 | 2022-02-15 |
 | [New World Coming](https://open.spotify.com/track/2vGSxCHc28CQFCLu45QGmL) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [New World Coming](https://open.spotify.com/album/6RkA5qwUrAGVe3mWn8KgFE) | 2:05 | 2022-11-10 | 2023-03-25 |
 | [Nightwalker](https://open.spotify.com/track/7eSoFXUfgb7QKPGcAHQ5IH) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Nightwalker](https://open.spotify.com/album/1mHq9ulE1PvexkZnpv5Lrs) | 2:32 | 2021-12-16 | 2022-05-13 |
@@ -1170,7 +1172,7 @@
 | [På väg](https://open.spotify.com/track/7GRJpXiYXZe4JXoUB29BzQ) | [PYK](https://open.spotify.com/artist/317eF06yGGhg5YgcNxDqvm) | [På väg](https://open.spotify.com/album/7mcVMcxukeuxXEKbKf1ijG) | 3:09 | 2024-09-19 | 2024-10-11 |
 | [Quit Your Job](https://open.spotify.com/track/48C7g2UR5m3LjwWrW3ZVry) | [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Quit Your Job](https://open.spotify.com/album/5WGrr3DlclMWNTwmQOr2oF) | 3:08 | 2021-12-16 | 2022-05-07 |
 | [RADIO INTERRUPTION ABOUT MY FEELINGS](https://open.spotify.com/track/2NeOYUqYCf1hWLTYz0LGS2) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [Nothing's TMI](https://open.spotify.com/album/6enIJfJkP7dJTBVkulFuG6) | 1:32 | 2024-10-10 | 2024-11-12 |
-| [Ramlar jag så faller allt](https://open.spotify.com/track/7x9s3qBALHJSuo87RNL4OW) | [J1](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Ramlar jag så faller allt](https://open.spotify.com/album/59TJFFQFmjUzzKaFHXw3l6) | 2:29 | 2024-09-12 |  |
+| [Ramlar jag så faller allt](https://open.spotify.com/track/7x9s3qBALHJSuo87RNL4OW) | [J1](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Ramlar jag så faller allt](https://open.spotify.com/album/59TJFFQFmjUzzKaFHXw3l6) | 2:29 | 2024-09-12 | 2024-11-15 |
 | [Rasar](https://open.spotify.com/track/6XsbS58qJE2iJlSCFMiFME) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Rasar](https://open.spotify.com/album/57riTGSkCE0lFqZZigg96O) | 2:28 | 2024-05-09 | 2024-06-07 |
 | [Real Life](https://open.spotify.com/track/7E9zn51wDqODrTgaIXkaek) | [Mimmi Bangoura](https://open.spotify.com/artist/2gbswy57P0Qof7Ti7rlOEI) | [Real Life](https://open.spotify.com/album/6fdhAWKpjpfdcte2aAswfc) | 3:19 | 2022-02-20 | 2022-05-09 |
 | [Real Love](https://open.spotify.com/track/0vUf73LNFXyyrdQkmXw2cZ) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Real Love](https://open.spotify.com/album/6QMFqBz7exj0lJEAM56HRB) | 3:42 | 2021-12-16 | 2022-01-12 |
@@ -1230,6 +1232,7 @@
 | [Samma säng](https://open.spotify.com/track/5yFdISVlABQqdLHOuJ0CpN) | [Anton Kyldahl](https://open.spotify.com/artist/4Xq9iwUmfiz0nAwhF9B1pD), [SIV](https://open.spotify.com/artist/7g1jXjtNKxyfZ2grW439rY) | [Samma säng](https://open.spotify.com/album/7gxoCqM92zDNiIykuLp2ky) | 2:43 | 2022-05-12 | 2022-07-26 |
 | [Samma vatten](https://open.spotify.com/track/3Y6tEqHNTRKydslZIB5lBB) | [Hanna Holter](https://open.spotify.com/artist/6GIY6X7ZWwBWXxzbLQpz3d) | [Samma vatten](https://open.spotify.com/album/5GygQ9n807O3GoXyZqolUh) | 2:56 | 2024-05-23 | 2024-06-21 |
 | [Sand i min hand](https://open.spotify.com/track/29WNvfSgvZJq3ye2hBf4tu) | [Alex Järvi](https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE) | [Sand i min hand](https://open.spotify.com/album/42Y2lawW7l7fUdzEUvefcQ) | 3:12 | 2023-05-25 | 2023-10-20 |
+| [SANNINGEN SVIDER](https://open.spotify.com/track/0yVA82YrlsFKXIuIHJhtEk) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [SANNINGEN SVIDER](https://open.spotify.com/album/6BoTdKPbMgyVNAbBAfw7Kz) | 3:16 | 2024-11-14 |  |
 | [Santiago](https://open.spotify.com/track/2H4wjqbzWgCKEPPdk9tPqQ) | [GAMMAL](https://open.spotify.com/artist/3O6DpqAKwn7L1KS9s9x0w5) | [Santiago](https://open.spotify.com/album/1WaSYY1PuUo1SteFBJSSJc) | 2:58 | 2022-05-12 | 2022-12-24 |
 | [Sarah](https://open.spotify.com/track/21xzvjoTUhKV2QYyIGDo8J) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [En gång i tiden](https://open.spotify.com/album/4shw3FqZjRgJinMpCBfNCr) | 3:13 | 2021-12-16 | 2022-03-11 |
 | [Satellit](https://open.spotify.com/track/0hQSNorAGipIT7lF8ssyIz) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Satellit](https://open.spotify.com/album/69LrfrvfBFYag9DoBuXtep) | 3:01 | 2023-08-03 | 2023-11-17 |

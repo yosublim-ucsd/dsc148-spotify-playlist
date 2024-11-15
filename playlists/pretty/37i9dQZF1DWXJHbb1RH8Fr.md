@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJHbb1RH8Fr.md) - [plain]
 
 > Ruhunu dinlendireceğin bu kutsal ayda yolculuğuna eşlik edecek ney ezgileri\. Görsel: Sultanahmet Camii
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,774 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,772 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJHbb1RH8Fr.md) - [plain]
 | 49 | [Dost Gerek Bize](https://open.spotify.com/track/2TfKlRep0SOFqE42VpA9n7) | [Murat Dağlı](https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr), [Rıfat Çalışkan](https://open.spotify.com/artist/7pfeyAQRfwuEX3DPWEzPeD) | [Sufi Ney\-III](https://open.spotify.com/album/6BgGj0UqHnhn8BBKO113kT) | 7:05 |
 | 50 | [Seyreyle Güzel](https://open.spotify.com/track/1WI8zikNGeqadTVYjjQ0Jq) | [Arzu Kopuz Çelik](https://open.spotify.com/artist/2hzE5PRtNqpb6HTjy9aaSp), [Pelin Başar](https://open.spotify.com/artist/10vB42Xbs9WZ5fNx1dfy41) | [Sufi Ney Box Set, Vol\. 2 \(4 Albüm 49 Eser\)](https://open.spotify.com/album/1rPOKsT7W6Yw0H3l7aeTWP) | 2:13 |
 
-Snapshot ID: `ZoQAFAAAAABOBQwLB72Q1EsfgjSAcLpu`
+Snapshot ID: `ZoQAFAAAAACKW2kbeBXjYpurFARxvCGU`

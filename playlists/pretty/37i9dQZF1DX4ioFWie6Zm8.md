@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,913 likes - 100 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,955 likes - 100 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 99 | [Mogoya \- Acoustic](https://open.spotify.com/track/4Bpxj43W9tnmjVrOzLn8ln) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Acoustic](https://open.spotify.com/album/3WPGTvO0ryY6LRMhrR6pZE) | 4:43 |
 | 100 | [Kagala namib](https://open.spotify.com/track/4IXceMAV2wjMe1gD9P8hPt) | [Elemotho](https://open.spotify.com/artist/5cbeD8yRFDT2rkmX2x1diB), [Emmanuel Karumazondo](https://open.spotify.com/artist/0SIZ7bBPfEP1UdRwBEHoui), [Jackson Jr\. Kaujeua](https://open.spotify.com/artist/6zsZzIaWZOXzVae17wc8KY), [Ermelinda Thataone](https://open.spotify.com/artist/4Nw5eQl9eIQ8jDW44e3rj1), [Polina Loubnina](https://open.spotify.com/artist/256czgZzckInCYYbYAZTzl), [Jackson Wahengo](https://open.spotify.com/artist/4cR93Kh0uITQFQ9C36RYSI), [Tulonga Wahengo](https://open.spotify.com/artist/5EOYNuEjtcOm1BDBouX9J1), [Erick Hamuntenya](https://open.spotify.com/artist/5vV6V9FeMwNlKCb9Pm9WHo), [Ralph Geiseb](https://open.spotify.com/artist/1qxxbFOeqNtrCPUbDUOmgw) | [My Africa](https://open.spotify.com/album/0smFP1o6q7725uN5uN7n7S) | 6:42 |
 
-Snapshot ID: `Zy4gtAAAAADwOifOB4gHP41ax5J1fpYO`
+Snapshot ID: `Zy4gtAAAAAAskXxDw76F6sTkb0zTA5TY`

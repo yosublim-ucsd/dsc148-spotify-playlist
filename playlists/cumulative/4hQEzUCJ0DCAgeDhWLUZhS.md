@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-445 songs - 1 day 2 hr 12 min
+449 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Oh Love \- Otis Big Guitar Mix](https://open.spotify.com/track/5lvwDxlYo15gorOJQvCAOR) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Otis Big Guitar Mix](https://open.spotify.com/album/48mhNIo0YlJQmcpxfW8oYl) | 4:52 | 2020-10-10\* | 2021-05-13 |
 | [Oh Yeah!](https://open.spotify.com/track/3QiNQFiueqnIc6rOPLZB3f) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Oh Yeah!](https://open.spotify.com/album/4YfXSuoJWZGcTNGAkFK8cO) | 2:51 | 2020-10-10\* | 2021-05-13 |
 | [Ohms](https://open.spotify.com/track/6mfrK1kvsOjiiH64Ier962) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/3IHClJIXFPxf3xa0BNaQOd) | 4:10 | 2020-10-10\* | 2022-03-18 |
+| [On Show](https://open.spotify.com/track/0dSmwYPN87nX17aHlocHkt) | [Secret World](https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k) | [Guilt Is Good](https://open.spotify.com/album/6svzoqghdKgjRJTtcm3Kvg) | 3:19 | 2024-11-15 |  |
 | [On The Game](https://open.spotify.com/track/4c7iXNRiy72rMXfRTR9V0V) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 4:02 | 2024-04-05 |  |
 | [Once In A Lifetime](https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Once In A Lifetime](https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd) | 3:09 | 2021-03-25 | 2022-03-18 |
 | [One Little Lie](https://open.spotify.com/track/4y8NnGih7SRWSf7kDMeEqK) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Everything Opposite](https://open.spotify.com/album/4W9hKpdYHa0hcuGh57btOW) | 3:15 | 2020-10-10\* | 2021-02-25 |
@@ -334,6 +335,7 @@
 | [Shy Away](https://open.spotify.com/track/2z0IupRlVRlDN5r2IVqHyN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Shy Away](https://open.spotify.com/album/4JFHfIYCtka66G0izGrJhz) | 2:55 | 2021-04-13 | 2022-03-18 |
 | [Sick of The Silence](https://open.spotify.com/track/2x9Hr7Fuf9E8Z7vONIHPyM) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Sick of The Silence](https://open.spotify.com/album/1Twv557qLgnS0hpVQLwDYD) | 3:08 | 2021-06-12 |  |
 | [Simple](https://open.spotify.com/track/4mNb2xRwNv3Kg9iA6FVwUb) | [The Hard Aches](https://open.spotify.com/artist/5GqFd0P1Vx3kbKyFxxTkqq) | [I Saw The Future](https://open.spotify.com/album/2m9fGyYjgPmS2xU0ugLHyc) | 3:29 | 2023-05-05 |  |
+| [Sin City](https://open.spotify.com/track/1bETkJvR6zcQ4C3KK4ePVT) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players \(Trophy Edition\)](https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo) | 2:42 | 2024-11-15 |  |
 | [Sing \- Reworked](https://open.spotify.com/track/1NCxmZdBcaaV7D4fc6NdKk) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [All These Countless Nights \(Reworked\)](https://open.spotify.com/album/2ERh42P9SszlEESjnV6cQp) | 2:47 | 2020-10-10\* | 2021-02-25 |
 | [Sing Along](https://open.spotify.com/track/5Q2gtn5mYtdlqu76kp20sR) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Sing Along](https://open.spotify.com/album/78jC17cW2py0Yw3NPSJIAG) | 2:54 | 2020-10-10\* | 2021-02-25 |
 | [Sinner](https://open.spotify.com/track/7z21IYXNRcxdmubc6YG13B) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [RITUALS](https://open.spotify.com/album/7gkXGlBcRhR8cBS9mXOXSE) | 3:27 | 2020-10-10\* | 2021-02-25 |
@@ -360,6 +362,7 @@
 | [St\. Anger](https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM) | 7:21 | 2020-10-10\* | 2021-02-25 |
 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 | 2023-06-30 |  |
 | [St\. Girlfriend](https://open.spotify.com/track/1nsjfntUpfBk7m11PENErT) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [St\. Girlfriend](https://open.spotify.com/album/6FwxID3XuZpc31zcqDQm5w) | 2:27 | 2022-07-04 |  |
+| [Stay The Same](https://open.spotify.com/track/1b4gM8Anj0piC4hcNUZwE9) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Stay The Same](https://open.spotify.com/album/5Ki28cE9svnGJdBbSuBT71) | 4:25 | 2024-11-15 |  |
 | [Strangers](https://open.spotify.com/track/07wX6N12kg4zZ2gI8IrB1y) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Strangers / History of Violence](https://open.spotify.com/album/0cQzfaeCuMomU3OfhzPEW7) | 3:25 | 2020-10-10\* | 2021-02-25 |
 | [Strawberry Daydream](https://open.spotify.com/track/19OPH0JC2d7ZCxCK0l1xVE) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Flowers](https://open.spotify.com/album/1jO18Vw412aDlvPgKn91eS) | 3:07 | 2023-05-05 |  |
 | [Stupid Is As Stupid Does \(feat\. K.Flay\)](https://open.spotify.com/track/7gpftvWH71HcwbYPe4CgMB) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Hurry Up And Wait](https://open.spotify.com/album/42pD3Dn7Oa7L3XLEzWYvDz) | 3:00 | 2020-10-10\* | 2021-05-13 |
@@ -411,6 +414,7 @@
 | [Trouble’s Coming](https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Trouble’s Coming](https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj) | 3:48 | 2020-10-10\* | 2022-03-18 |
 | [Trust Fund Glee](https://open.spotify.com/track/3QGRXZxtHdSqr3NlQlN9DD) | [Totally Unicorn](https://open.spotify.com/artist/3pSMLXDjk3lrfOK0xIZtq3) | [Trust Fund Glee](https://open.spotify.com/album/3Va0FWK51JNN7Hu5vvBI74) | 4:27 | 2021-08-28 |  |
 | [Try Better Next Time](https://open.spotify.com/track/6LGyIWROG7CFykLFo507XV) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Try Better Next Time](https://open.spotify.com/album/5moJUaoXwzjc9utuJ0Dk8f) | 3:07 | 2022-01-14 |  |
+| [Two Faced](https://open.spotify.com/track/6i5qhmmF9UNUBRyrPSGn4m) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:03 | 2024-11-15 |  |
 | [Typhoons](https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn) | 3:56 | 2021-01-23 | 2022-03-18 |
 | [Unknown Male 01](https://open.spotify.com/track/768wF93WAaExWS57CzNg45) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Unknown Male 01](https://open.spotify.com/album/3lV4G0BqDur5G7vZwlimpQ) | 6:08 | 2021-09-04 |  |
 | [Unsainted](https://open.spotify.com/track/2093eVNfimjmNjU1gk1ES7) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Unsainted](https://open.spotify.com/album/6OmUwiZBss5csDAD3IAhdD) | 4:20 | 2020-10-10\* | 2021-02-25 |

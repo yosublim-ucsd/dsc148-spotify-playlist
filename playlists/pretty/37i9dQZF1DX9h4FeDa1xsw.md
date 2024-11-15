@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h4FeDa1xsw.md) - [plain]
 
 > Photo : Tsew The Kid
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,456 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,457 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h4FeDa1xsw.md) - [plain]
 | 39 | [Bazar](https://open.spotify.com/track/4khrqV7xYJWCk0sesxhtwt) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Bazar](https://open.spotify.com/album/1N9W4DaURi0lQYOM7DpsDW) | 2:46 |
 | 40 | [Désaccord](https://open.spotify.com/track/0srZ2zTRUkzbuh4HRJEZA4) | [Shana](https://open.spotify.com/artist/6T5gJDpQypBj9Enps7vQn5) | [Désaccord](https://open.spotify.com/album/2Ac5lEYGIOpyqaDmUYoDGc) | 3:04 |
 
-Snapshot ID: `Zy1GcAAAAACH9In/SOuxsnGJq69EGxhM`
+Snapshot ID: `Zy1GcAAAAADIVKsr7gXVvHaJ40k36PyV`

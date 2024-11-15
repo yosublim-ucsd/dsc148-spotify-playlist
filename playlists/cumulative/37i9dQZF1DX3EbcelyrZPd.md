@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Jay Melody
+> Get your fill of vibes straight out of Tanzania\. Cover: Mavokali
 
-478 songs - 1 day 3 hr 24 min
+480 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Dear Ex](https://open.spotify.com/track/3aZTvjlq5maf7UF61SVlEF) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Dear Ex](https://open.spotify.com/album/64gX9zSmA9yb7wvWsl1ebI) | 4:10 | 2022-09-22 | 2023-09-22 |
 | [December](https://open.spotify.com/track/1Q1EJxStHwWYN0Wc3OPVx9) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [December](https://open.spotify.com/album/5hiZVgSe6Cnz4xrvDAz6RV) | 2:58 | 2024-10-10 |  |
 | [Deka \(feat\. Mabantu\)](https://open.spotify.com/track/7KjPkecOPSbOakRrlrfbZF) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Deka \(feat\. Mabantu\)](https://open.spotify.com/album/4hp2roWquO9nf8LZL8qF5m) | 3:08 | 2022-06-09 | 2023-06-16 |
+| [Densi](https://open.spotify.com/track/6HNSAY9YaF6jv0rPHuwyPa) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [Densi](https://open.spotify.com/album/4x565F1bILYjiejXljqpIc) | 2:59 | 2024-11-14 |  |
 | [Desh Desh](https://open.spotify.com/track/1ZDuaLvkiFkpsdY588XgO1) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Desh Desh](https://open.spotify.com/album/5TeobdTGGuqEeAJVmFMAe8) | 4:08 | 2022-09-01 | 2023-03-25 |
 | [Dharau](https://open.spotify.com/track/2UiH7lUXyxtccytHCixKQX) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Dharau](https://open.spotify.com/album/4fAfuvu9kF55EA8uqlhwcy) | 3:32 | 2024-02-22 |  |
 | [Disconnect \(feat\. Marioo\)](https://open.spotify.com/track/5QH75Csj5dy5eJA66cyOZ4) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Disconnect \(feat\. Marioo\)](https://open.spotify.com/album/5mMzFbsinhdB2lCXOwKc1j) | 3:25 | 2024-05-16 | 2024-10-25 |
@@ -224,7 +225,7 @@
 | [Milele](https://open.spotify.com/track/0EmxQAONJcrwsUBXEG0MHT) | [Ziddy Value](https://open.spotify.com/artist/5gXnyeKkqW4TntseWbzJ8I), [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Milele](https://open.spotify.com/album/6gVktkDRocUP5pn9WvVANr) | 3:04 | 2024-07-11 | 2024-08-09 |
 | [Mind Your Business](https://open.spotify.com/track/0RlgWDE08CHHKzACLWczCV) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Mind Your Business](https://open.spotify.com/album/7z4FyJhsRKM8TNepV4CwoM) | 3:08 | 2023-03-23 | 2023-09-22 |
 | [Miss Bantu \(feat\. Spice\)](https://open.spotify.com/track/25G0isuPtzCqMWDPm99yPS) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Miss Bantu \(feat\. Spice\)](https://open.spotify.com/album/3MUrDQrZLAlpUPniQ63wwZ) | 3:33 | 2022-07-22 | 2023-01-13 |
-| [Mmmah](https://open.spotify.com/track/286vfrzpWSpgM8iohLbjj4) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Lulu Diva](https://open.spotify.com/artist/351HQU1PawDtAmXb2DBHhr) | [Mmmah](https://open.spotify.com/album/4l67CzNVY7cG3vAv5IDDw2) | 2:22 | 2024-08-15 |  |
+| [Mmmah](https://open.spotify.com/track/286vfrzpWSpgM8iohLbjj4) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Lulu Diva](https://open.spotify.com/artist/351HQU1PawDtAmXb2DBHhr) | [Mmmah](https://open.spotify.com/album/4l67CzNVY7cG3vAv5IDDw2) | 2:22 | 2024-08-15 | 2024-11-15 |
 | [Mnyama](https://open.spotify.com/track/0navbPR1SEunqhg35VROOq) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Mnyama](https://open.spotify.com/album/0s7vrRLj3BoKhOz32rkWkm) | 2:58 | 2023-08-17 | 2023-12-01 |
 | [Mon Bebe](https://open.spotify.com/track/07GU7epMc4AY69kgNWR3L8) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Dedication](https://open.spotify.com/album/2POxnPAwIL0Lq9QKszh9Qg) | 2:57 | 2022-11-07 | 2023-02-17 |
 | [Monica](https://open.spotify.com/track/2YLLB3voKxIva76wcorNXa) | [10kleeroy](https://open.spotify.com/artist/2OSU31gPBXeqCgsq8K7T9k), [Modizo](https://open.spotify.com/artist/1h7r4cQfZUgOvSkF8ckAxN) | [Monica](https://open.spotify.com/album/0aRdcA9Utbd08sjGXpTVtx) | 2:52 | 2022-05-19 | 2022-09-23 |
@@ -237,6 +238,7 @@
 | [Msela](https://open.spotify.com/track/4upDXvDKpFZPSYRDLqB1hh) | [Hamadai](https://open.spotify.com/artist/78SJ8LXcqTSHyJ6nCxKLay), [Chidi Beenz](https://open.spotify.com/artist/4GFb7Q4qF3Jg3lchid0aYJ) | [Msela](https://open.spotify.com/album/7CIU4vCiIDpZwDN226FcZh) | 2:32 | 2023-02-09 | 2023-07-14 |
 | [Mtima](https://open.spotify.com/track/6YswmXBwQNySnGWeFKH0WF) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Mtima](https://open.spotify.com/album/4Lnyw7ZJuIIxeSf1WhTM0K) | 3:44 | 2023-07-13 | 2023-11-10 |
 | [Mubashara](https://open.spotify.com/track/0LJfViJHjkkqRmgo8cR5bs) | [DanZak](https://open.spotify.com/artist/3oNTjRNQ7IUHGKa5lF6Pbo), [Passo](https://open.spotify.com/artist/5LnngmOaUBviZk4qfJGNAr) | [Mubashara](https://open.spotify.com/album/3hvddaiwUCYM1VWMg15TY9) | 3:23 | 2022-09-22 | 2023-01-27 |
+| [Muhibu](https://open.spotify.com/track/5s8riorAHI0xfmgz6cTpM3) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Muhibu](https://open.spotify.com/album/20ZD3JWpTUb4VUPPVNkvvZ) | 3:13 | 2024-11-14 |  |
 | [Muntata](https://open.spotify.com/track/3yoO7snzo0WS0hnTlwR2BR) | [Dully Sykes](https://open.spotify.com/artist/0gy6YVLQnEbSdWzxap1ue6) | [Muntata](https://open.spotify.com/album/5ep5gQJmXTr3DubfkOWXA0) | 2:56 | 2023-02-02 | 2023-07-14 |
 | [Mwagia Ndani](https://open.spotify.com/track/6pZLBloNf2JvFAYdXJckD6) | [Abbah](https://open.spotify.com/artist/4hIkgBZ3paEVhtceKiMiBV), [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [The Evolution](https://open.spotify.com/album/4s92V0ea3iKn1qVJed1AsI) | 2:46 | 2021-09-23 | 2022-05-20 |
 | [Mwaka Wangu](https://open.spotify.com/track/2MDB7PF3rorpdz7oCZTVUe) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Mwaka Wangu](https://open.spotify.com/album/132f7fl4T8pB5APju7Z36P) | 3:13 | 2022-02-04 | 2022-07-30 |
@@ -319,7 +321,7 @@
 | [Ololo](https://open.spotify.com/track/3CTio0dVlFuBRjsH0bnStu) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Ololo](https://open.spotify.com/album/1Iff4SIo4M6kq4IaCdLLJg) | 4:01 | 2024-08-15 |  |
 | [OLOLUFE MI](https://open.spotify.com/track/74tI5k2JSmmmoD6RjdTDpV) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [OLOLUFE MI](https://open.spotify.com/album/7ofEghdu7e4o9t85i6cJCp) | 3:55 | 2024-09-13 |  |
 | [On Fire](https://open.spotify.com/track/1RzREeP3SPfTd4qMSTTUtg) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [On Fire](https://open.spotify.com/album/3UQRnsR6Ie8yozVIOoTHK8) | 3:27 | 2023-05-18 | 2023-09-08 |
-| [On Your Door](https://open.spotify.com/track/17wAjhPt1RgmwkpFYfAnaK) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [Boyfriends Life](https://open.spotify.com/album/01ymvuPgyJDy3LWEksJwzI) | 3:04 | 2024-09-27 |  |
+| [On Your Door](https://open.spotify.com/track/17wAjhPt1RgmwkpFYfAnaK) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [Boyfriends Life](https://open.spotify.com/album/01ymvuPgyJDy3LWEksJwzI) | 3:04 | 2024-09-27 | 2024-11-15 |
 | [Outside](https://open.spotify.com/track/0Gbt8huGfNeXD0qFjsBkl1) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [High School](https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu) | 3:06 | 2021-11-11 | 2022-05-06 |
 | [Ova](https://open.spotify.com/track/7uX7KgRXMVcwH5vA6MdtZo) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Ova](https://open.spotify.com/album/0CGUBjwQngYOV8uaOD4t4J) | 3:28 | 2024-10-03 |  |
 | [Overdose](https://open.spotify.com/track/0cNyOijJPgdObogcoke87K) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Overdose](https://open.spotify.com/album/4xGL4Q7LrSA1KQxDv9S3wN) | 3:51 | 2023-08-24 | 2023-12-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,105 likes - 9 songs - 26 min 43 sec
+[margeaux](https://open.spotify.com/user/1220511975) - 22,108 likes - 13 songs - 38 min 59 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,5 +17,9 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 7 | [Suedehead \- 2011 Remaster](https://open.spotify.com/track/76HJoPhDFxD7rizsbCmZND) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2014 Remaster\)](https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou) | 3:55 |
 | 8 | [Pure](https://open.spotify.com/track/0a82sKc2ZEDcvvl8aekakp) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Cloudcuckooland](https://open.spotify.com/album/0p9UOhjPADXDVJUzk4bZv0) | 3:47 |
 | 9 | [Still Feels Like Tears \[Demo\]](https://open.spotify.com/track/7oW1kR6WNzw0NRBmDFbdVj) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Distant Call \- Collected Demos 2000 \- 2006](https://open.spotify.com/album/3R66mzyY7RONq48WPfxPky) | 3:10 |
+| 10 | [Jean \- Julie's Version](https://open.spotify.com/track/21TDHg1ZWYJAb50dagD4iq) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Jean \(Julie's Version\)](https://open.spotify.com/album/5OebiGZlzk428vcNtpkuZd) | 3:14 |
+| 11 | [A/B \- 2023 Remaster](https://open.spotify.com/track/3a62IVw5rTTmcjQrvTT89M) | [Telex](https://open.spotify.com/artist/6PzO2zYVuLxLwhZJfnP1Wj) | [Neurovision \(Remastered\)](https://open.spotify.com/album/1TJQmSZTMlHRTxmUlBt0Ck) | 3:40 |
+| 12 | [Your New Boyfriend](https://open.spotify.com/track/1aNxWiJCgnFWIzsah4HNZ2) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Rarities](https://open.spotify.com/album/0UCekWcWFccf98HZ3kuTAP) | 1:51 |
+| 13 | [Marginalia \#181](https://open.spotify.com/track/6tH8WF8vtsJZn8fziscVXq) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia \#181](https://open.spotify.com/album/4hwb1r1XKuxn3gAS3VTr8i) | 3:28 |
 
-Snapshot ID: `AAALTp3rINFVZWtuzmVUGqo48gGwGEkA`
+Snapshot ID: `AAALUlP7WjCTows2Wr74UNxQ4JpyXlRg`

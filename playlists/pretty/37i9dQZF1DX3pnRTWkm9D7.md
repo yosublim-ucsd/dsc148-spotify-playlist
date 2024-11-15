@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pnRTWkm9D7.md) - [plain]
 | 49 | [That's Us](https://open.spotify.com/track/6Zb9YgTpQyQMIBp3C9SAwB) | [The Purest Blue](https://open.spotify.com/artist/4gLOH9QcvymfFLcsiPuf7G) | [All is True](https://open.spotify.com/album/2fuwzk57mTe1f9Cj6jA0Ne) | 3:06 |
 | 50 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 |
 
-Snapshot ID: `ZWcrRAAAAAClFEKClKrLH1vZwPC/6siS`
+Snapshot ID: `ZWcrRAAAAAA/QhOjTXqcoBt10go59tVJ`

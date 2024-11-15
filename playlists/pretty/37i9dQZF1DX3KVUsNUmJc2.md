@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUsNUmJc2.md) - [plain]
 
 > Every legend has a beginning\. Listen to music from Arcane, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,172 likes - 21 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,128 likes - 21 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUsNUmJc2.md) - [plain]
 | 20 | [When Everything Went Wrong \(from the series Arcane League of Legends\)](https://open.spotify.com/track/6YCW1g7XwaDZX7sUSM8LWq) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 3:13 |
 | 21 | [What Could Have Been feat\. Ray Chen \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4Oih3RDrSFg3afaOphBVuy) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Ray Chen](https://open.spotify.com/artist/5Cy6BjgpzVTTP4FURizqmQ) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 3:33 |
 
-Snapshot ID: `ZzPDrwAAAAD1VHt21XehiVEi5gS4PVlW`
+Snapshot ID: `ZzPDrwAAAABG+OUGRH3bktokkSL9VqQU`

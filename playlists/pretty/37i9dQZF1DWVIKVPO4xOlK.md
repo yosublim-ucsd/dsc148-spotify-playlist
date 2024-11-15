@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 
 > Welcome to L.A\. Lo que suena in the city of dreams\. Cover: LEGADO 7
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,990 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,994 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 | 49 | [Sera Inutil](https://open.spotify.com/track/3rfa1waFuNsnayIws1swq3) | [De'Migo](https://open.spotify.com/artist/2i4uinERLGWHenAHR0AQUD) | [Sera Inutil](https://open.spotify.com/album/3EXkBQmzOv4AVPCmXumBom) | 1:44 |
 | 50 | [S1R3N8](https://open.spotify.com/track/3eLQo60g3ZaTXyZniiJM6c) | [Stylolive](https://open.spotify.com/artist/3EaujiKlOBEK1KK6fUa3rJ), [Kilo Angeleno](https://open.spotify.com/artist/3siR4bg3Hd6cpwNRVCUYlm) | [S1R3N8](https://open.spotify.com/album/4aC22gOvB2wQALouh90byH) | 2:40 |
 
-Snapshot ID: `ZxH2/AAAAAB+djiJ4/N1JlzHmhWwGH8X`
+Snapshot ID: `ZxH2/AAAAADDeLAPZGixdIDR4QEZ2BUy`

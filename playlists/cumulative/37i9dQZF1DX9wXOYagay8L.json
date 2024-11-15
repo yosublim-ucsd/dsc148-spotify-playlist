@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/1NxUAhBblIWiJcJOKw3am3?si=nt8xqm97R6-LWPMhIhuHUw\">Thabsie</a>",
+  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/5jDxQtsQGEKqgulGcERXMn?si=QhA4GbuSQL2gjNSNAURtxQ\">Vernotile</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -2109,6 +2109,24 @@
     },
     {
       "album": {
+        "name": "So Much Love",
+        "url": "https://open.spotify.com/album/7u102rYCYvzq06KbWGF2oh"
+      },
+      "artists": [
+        {
+          "name": "Vernotile",
+          "url": "https://open.spotify.com/artist/5jDxQtsQGEKqgulGcERXMn"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281114,
+      "name": "Ekhoneni",
+      "url": "https://open.spotify.com/track/1kaz9V1xMm7TB4LtOTxmIq"
+    },
+    {
+      "album": {
         "name": "Mnyama",
         "url": "https://open.spotify.com/album/77hkpxS5qos4EGt4miSjsi"
       },
@@ -3598,7 +3616,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 232465,
       "name": "Ilanga",
       "url": "https://open.spotify.com/track/71ljcc2HUJFIvZlTpSjzyN"
@@ -7750,7 +7768,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 282958,
       "name": "Ngifuna Wena (feat. NtoMusica)",
       "url": "https://open.spotify.com/track/19ENk3Kq69Z62KvyhyFQq5"
@@ -11542,6 +11560,24 @@
       "duration_ms": 247578,
       "name": "Ukhona",
       "url": "https://open.spotify.com/track/1Dw7qFgJ9CIg4g0ynJAqUW"
+    },
+    {
+      "album": {
+        "name": "Ukuba nawe",
+        "url": "https://open.spotify.com/album/6a9lkkNhax8HJv5rJmBY1T"
+      },
+      "artists": [
+        {
+          "name": "Sbu Mbangeni",
+          "url": "https://open.spotify.com/artist/1C0IyrC7wvLNqkbXhzQ6aM"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206077,
+      "name": "Ukuba nawe",
+      "url": "https://open.spotify.com/track/5L1SocLP52SLzhR8DClD8o"
     },
     {
       "album": {

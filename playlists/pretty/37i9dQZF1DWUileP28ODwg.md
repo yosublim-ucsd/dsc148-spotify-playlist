@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:5X77nNxT45eR0OshjmAvKa">Mac Powell</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,319 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,442 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 74 | [Missing Jesus](https://open.spotify.com/track/1QJrfybxiLTlRvlkzlKMdU) | [Caleb & John](https://open.spotify.com/artist/25Yii55hUvvB2az8GGSsH0) | [Missing Jesus](https://open.spotify.com/album/3Tff2Ny5CaAhXaknxptafB) | 3:05 |
 | 75 | [Good Man](https://open.spotify.com/track/2lKe5e14qf4NQKH0cxWVh9) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Good Man](https://open.spotify.com/album/5HiOaHTajjhYIPIbrvnXAN) | 3:51 |
 
-Snapshot ID: `ZxtpDgAAAACwswYLKsZU8M0HarnB6RgR`
+Snapshot ID: `ZxtpDgAAAAACNN3QBtYYEdb1FKMTCN8x`

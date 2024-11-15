@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: Roy Blair
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,595 likes - 57 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,587 likes - 57 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 56 | [BUSS UR HEAD](https://open.spotify.com/track/1w8lmX9rLX5GTcoqkVoNtr) | [JD Cliffe](https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De) | [BUSS UR HEAD](https://open.spotify.com/album/34TQgVSVmTfzWO6JI8RtqK) | 2:41 |
 | 57 | [before](https://open.spotify.com/track/0sCMpAVa1zUomDJBsiwW1Q) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [before](https://open.spotify.com/album/7JWWN2weRRB4yTKkUcHwh5) | 3:07 |
 
-Snapshot ID: `ZyRSQAAAAABt0GtbsZwaqcS1u9nsgCoq`
+Snapshot ID: `ZyRSQAAAAACjKFjHpMDPdDZV8jPDSncM`

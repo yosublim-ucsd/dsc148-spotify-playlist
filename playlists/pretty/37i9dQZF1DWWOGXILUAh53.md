@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Blusher
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,490 likes - 76 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,400 likes - 76 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 75 | [Arrows](https://open.spotify.com/track/5I9XoDQZZBEM7GVoGZhqX0) | [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr), [Zwette](https://open.spotify.com/artist/6J2749jPHYhAZUq79rsNi0), [Klara Elias](https://open.spotify.com/artist/19XMKPAxNlkw7aASyD3XCa) | [Arrows](https://open.spotify.com/album/6O9yzqSCXz1mpZ3fPT375L) | 2:36 |
 | 76 | [Thick Of It All](https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Thick Of It All](https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx) | 3:19 |
 
-Snapshot ID: `ZzJIQAAAAAAVCItjyOCBftyebDvp/acj`
+Snapshot ID: `ZzJIQAAAAABzIHP/2A8sbrijapDvBY1K`

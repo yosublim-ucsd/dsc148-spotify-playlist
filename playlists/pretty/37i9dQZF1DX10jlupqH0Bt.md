@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,017 likes - 61 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,246 likes - 61 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 | 60 | [Resonare 852 Hz](https://open.spotify.com/track/4yeHkbeopZeDd0uGbvzmvq) | [Hertz\-Hunters](https://open.spotify.com/artist/2W9CWHtfJa5eJn2QTvK6KX) | [528 & 852](https://open.spotify.com/album/0wMnlSxk9JOM5GutgLLL5f) | 2:38 |
 | 61 | [Intuition 852 Hz](https://open.spotify.com/track/1nWNBqMuAlCruU0eEJPszl) | [Chalka](https://open.spotify.com/artist/4KeiTFOQUfYZW2T741yGFt) | [Intuition 852 Hz](https://open.spotify.com/album/2Z2sgcQhQAeQVBFamMFO3X) | 2:59 |
 
-Snapshot ID: `Zyy+SwAAAACmFgyoBU70UmALTkgEIEZA`
+Snapshot ID: `Zyy+SwAAAADwlC3gof5Ec+nuXvn24bMU`

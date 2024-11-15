@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Bhairathi Ranagal
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,179 likes - 76 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,197 likes - 76 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 75 | [Hesare Irada Bandha Namadhu \- From "Orange Marriage"](https://open.spotify.com/track/5q1Wr4SZowKXPQSMighi8v) | [Jaskaran Singh](https://open.spotify.com/artist/20Xvd4mO28iHfkdL3a5MRL), [Nazeeb Billu](https://open.spotify.com/artist/7qKOPvmYkqaCrl8pddYJnk), [Vinayak](https://open.spotify.com/artist/5gMKeMQFI4l9otWlXlea8b), [Venkatesh P Marakamdini](https://open.spotify.com/artist/3Q3DaP4c9L8ne4mWyMpYLY) | [Hesare Irada Bandha Namadhu \(From "Orange Marriage"\)](https://open.spotify.com/album/7EmFwRK8OgI2JjhdILhNhW) | 3:34 |
 | 76 | [Daavudi \(From "Devara Part 1"\)](https://open.spotify.com/track/3SnEdhM9uuwwxf33uUEiqa) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Daavudi \(From "Devara Part 1"\) \[KANNADA\]](https://open.spotify.com/album/3KwUSrnu9nNN69zwhsDpl1) | 3:49 |
 
-Snapshot ID: `ZzTspQAAAABexmCuXV4ChlWVrogepy2g`
+Snapshot ID: `ZzTspQAAAABhtNNeE/QRsrPT/zeeBxIJ`

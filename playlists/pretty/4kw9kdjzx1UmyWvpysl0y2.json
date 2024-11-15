@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125729,
+  "num_followers": 125725,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATThyXBeNkDXG2Qk+fA3y86AWPTmCg",
+  "snapshot_id": "AAATUJrgJjIGF96b5PLJQm5GfNjJ957A",
   "tracks": [
+    {
+      "added_at": "2024-11-14 10:22:18",
+      "album": {
+        "name": "Never Fall",
+        "url": "https://open.spotify.com/album/62QNsprfPKxxwXpGY2Hjab"
+      },
+      "artists": [
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "BOTCASH",
+          "url": "https://open.spotify.com/artist/2ohZgLU6lCv55yV3d05nMv"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "Never Fall",
+      "url": "https://open.spotify.com/track/0HMU8V4GlxxkhLIGD7bLJF"
+    },
     {
       "added_at": "2024-11-13 12:05:18",
       "album": {
@@ -1135,22 +1159,6 @@
       "duration_ms": 192000,
       "name": "GOOME",
       "url": "https://open.spotify.com/track/2xlkd2uQW8yfbh9r4eEhpb"
-    },
-    {
-      "added_at": "2024-08-23 13:46:43",
-      "album": {
-        "name": "Canal Street Crook",
-        "url": "https://open.spotify.com/album/5I2bOAOVhJmJ5MR8fnLzMf"
-      },
-      "artists": [
-        {
-          "name": "Codd Dubz",
-          "url": "https://open.spotify.com/artist/3SsxYsQwnhws0qW0fsO1s5"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Canal Street Crook",
-      "url": "https://open.spotify.com/track/4uNO3gJ1u3PYuaZjYbqU7P"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

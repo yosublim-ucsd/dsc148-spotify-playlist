@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 ### [BASSLINE THERAPY](https://open.spotify.com/playlist/0lVl7MriET3XEU0PJyDBfw)
 
-> Your Tech House therapy session for the dance floor \| SoundCloud for the mix series: Bassline Therapy Radio
+> Your Tech House therapy session for the dance floor \| SoundCloud mix series: Bassline Therapy Radio
 
 [Houseium Playlists](https://open.spotify.com/user/jayke0108) - 10,989 likes - 70 songs - 3 hr 51 min
 
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 69 | [CLOSER](https://open.spotify.com/track/1FWFoynNcE5JZFptZeDn0u) | [BOMBAYS](https://open.spotify.com/artist/7A4VOBpGKQHvPpbdNqQHmC), [Buitano](https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY) | [CLOSER](https://open.spotify.com/album/2FR08aSiSTFspktZhiv3Dh) | 2:49 |
 | 70 | [Shaka](https://open.spotify.com/track/4JjsTeJOcfvpj5t3IJijXr) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1) | [Discothèque Records Vol\. 5](https://open.spotify.com/album/3vhAcOznjYIbVQXfZnVcyI) | 2:33 |
 
-Snapshot ID: `AAAaRCxSRAUZxdUbMJb+TV5JqrFT0e24`
+Snapshot ID: `AAAaRSEQk9RLI/JYCWKM4Y9WF3+9KzSw`

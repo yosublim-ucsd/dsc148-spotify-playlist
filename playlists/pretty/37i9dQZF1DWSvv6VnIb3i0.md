@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 
 > Les plus grands hits français des années 2000\. Photo : Diam's
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,129 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,228 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 | 59 | [Cassé](https://open.spotify.com/track/1YqHug87ndn6HN6D00Smuw) | [Nolwenn Leroy](https://open.spotify.com/artist/6suRVbMTiFWlTpB6fdLdF2) | [Nolwenn Leroy](https://open.spotify.com/album/0OXTqDGWSYhKR0IzkBiVip) | 4:30 |
 | 60 | [Les voyages en train](https://open.spotify.com/track/1fhKFixA1BKke1I2evNUxQ) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [Midi 20](https://open.spotify.com/album/3KLf3aJPySlGsTYGdkWPbP) | 2:51 |
 
-Snapshot ID: `ZwjQJAAAAAAEp4zR5pAhmf80ZXBmMewU`
+Snapshot ID: `ZwjQJAAAAAC+7NngAR+b0J4EqivCqt9b`

@@ -496,10 +496,46 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 193027,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/4SVX7ZcbbSo7YJAUntxXhE"
+    },
+    {
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/7mfv2wp9VaGJ1IFedC0I5G"
+      },
+      "artists": [
+        {
+          "name": "Navvy",
+          "url": "https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193027,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/60X8wf919CCv2oveCWuZ0P"
+    },
+    {
+      "album": {
+        "name": "Rock Bottom",
+        "url": "https://open.spotify.com/album/0HSGtJsJzZQHLYh5fR7z5k"
+      },
+      "artists": [
+        {
+          "name": "Navvy",
+          "url": "https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162202,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/1ocK7qsRyyTRXzSFNO9qFY"
     },
     {
       "album": {
@@ -514,7 +550,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 162202,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/4dgEOMPfGPCVeyyF10Stwg"

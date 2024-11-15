@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 139803,
+  "num_followers": 139903,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzKagAAAAAAAUbL/IU39HQPZj5N/zS5v",
+  "snapshot_id": "ZzPsAAAAAADp9ECus4SLduP+I2FnQnmI",
   "tracks": [
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/5Fkw3MloOAO05hDVRyCze5"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 265899,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/7m5rlA8DFLoWB1XpfKYhWG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seraf\u00edn",
         "url": "https://open.spotify.com/album/4QMWgjMVSP4cvmZIhv1u1X"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 240605,
       "name": "Seraf\u00edn",
       "url": "https://open.spotify.com/track/7DKx7f5mwJIcDb62NG0PfV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/5Fkw3MloOAO05hDVRyCze5"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 265899,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/7m5rlA8DFLoWB1XpfKYhWG"
     },
     {
       "added_at": null,

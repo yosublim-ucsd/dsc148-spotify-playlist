@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Get ready for an evening filled with iconic hits and real feels\.  Cover: Afgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,723 likes - 28 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,698 likes - 28 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 | 27 | [Mengertilah Kasih](https://open.spotify.com/track/4p7NC3NRKNnSgSg7LQZAGM) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Mengertilah Kasih](https://open.spotify.com/album/2DPXenmakHEKVRShv74Nvp) | 5:19 |
 | 28 | [Setia Menunggu](https://open.spotify.com/track/2w15WAw8vHkPfkGDxfAmtr) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 4:34 |
 
-Snapshot ID: `Zy+HAAAAAACHPrIrfATVYNy4O3MLnOsr`
+Snapshot ID: `Zy+HAAAAAAByiOsYKu3Wu3uPN0CJ8lwg`

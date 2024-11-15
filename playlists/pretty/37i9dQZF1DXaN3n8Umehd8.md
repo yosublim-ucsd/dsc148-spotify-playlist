@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 
 > ¡Nos vemos el 18\-20 y 25\-27 de Octubre en la SEVENTEEN \(M12\) Pop Up Store! 곧 만나요! 💎🫰🏼✨ Reserva tu lugar <a href="https://go.weverse.io/RM44/gkgtr6mn"> aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,030 likes - 36 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,029 likes - 36 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 35 | [Mansae](https://open.spotify.com/track/5rIsrawNyPv1q8v11iwJsh) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2nd Mini Album ‘BOYS BE’](https://open.spotify.com/album/18aXrsD7zdPD6NSIfdwExD) | 3:06 |
 | 36 | [Adore U](https://open.spotify.com/track/6wtgR5ZVbOZPHIeMNQwugp) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 1st Mini Album ’17 CARAT’](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) | 3:06 |
 
-Snapshot ID: `Zw27DgAAAAAJp0BP/VqXNvMRWLgNnzHD`
+Snapshot ID: `Zw27DgAAAADjZ0FJwlxqeXTTYgLjiDBE`

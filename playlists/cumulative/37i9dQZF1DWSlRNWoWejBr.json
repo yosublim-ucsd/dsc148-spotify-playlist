@@ -2725,6 +2725,28 @@
     },
     {
       "album": {
+        "name": "Malvadinho",
+        "url": "https://open.spotify.com/album/0OSgbe5GNzV5ShonkfL6Ev"
+      },
+      "artists": [
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "DJ JB Mix",
+          "url": "https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120115,
+      "name": "Malvadinho",
+      "url": "https://open.spotify.com/track/3D06dCZbYilOFAB8kR5tYF"
+    },
+    {
+      "album": {
         "name": "Mam\u00e3e Passou A\u00e7\u00facar",
         "url": "https://open.spotify.com/album/0953UMW15jpkCJsBXsQWMU"
       },

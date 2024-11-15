@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Leo e Matheus
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,781 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,797 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 79 | [Minha Loucura de Amor \- Ao Vivo](https://open.spotify.com/track/1uigKf4kN647DGnyVDXnSG) | [Júlio Torres](https://open.spotify.com/artist/44P8fYRg0UVUGcPOuQHEqN), [Fátima Leão](https://open.spotify.com/artist/2d7EIdqRpKN43NEeyDzN83) | [Aô Moçada, Ep\. 3 \(Ao Vivo\)](https://open.spotify.com/album/0abRBX4YpBmeXDg402NHOj) | 3:37 |
 | 80 | [Cê Nunca Namorou Eu \- Ao Vivo](https://open.spotify.com/track/5Mt3jH3Jwbe7tXVDVzgAmk) | [Pedro e Rafael](https://open.spotify.com/artist/2DFCklgpKvgnjLY8CoCwVZ), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR) | [Cê Nunca Namorou Eu \(Ao Vivo\)](https://open.spotify.com/album/3CfgXVVQFmYAPqBZwYJ0y7) | 2:35 |
 
-Snapshot ID: `Zy1/ZAAAAAC9fLgs70DZbizym1qQmUFB`
+Snapshot ID: `Zy1/ZAAAAADKoqB1IozoeST1WczIFsgv`

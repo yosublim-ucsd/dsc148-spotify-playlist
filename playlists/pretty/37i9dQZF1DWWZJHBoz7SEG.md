@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Atrévete a escuchar LA NUBE EN EL JARDÍN,  el nuevo álbum de Ed Maverick, entregado en un solo track: 53:49 minutos de sublime tristeza!
 
-[Spotify](https://open.spotify.com/user/spotify) - 873,286 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 873,347 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Poeira Cosmica](https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Poeira Cosmica](https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn) | 4:13 |
 | 50 | [Doble Hogar](https://open.spotify.com/track/5SzwQIf9DpG2m9Q5ylzpZO) | [Yöels](https://open.spotify.com/artist/7nS08seSNCpGqZhkQORnZL), [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx) | [Doble Hogar](https://open.spotify.com/album/0dloE0WS5Keb7k49b423mV) | 2:51 |
 
-Snapshot ID: `Zy5XEgAAAABzEcg4mRSd4GlgiD6/bJ8b`
+Snapshot ID: `Zy5XEgAAAAAtN9A2nBd+QsKW2U3rW7dg`

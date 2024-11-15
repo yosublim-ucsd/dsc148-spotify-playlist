@@ -2,9 +2,9 @@
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: MONO
+> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Da LAB
 
-303 songs - 19 hr 15 min
+304 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU) | [Olew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/album/1gCpFjhvdR27Pgw5TljbFl) | 4:38 | 2023-01-31 |  |
 | [Sau Lưng Anh Có Ai Kìa](https://open.spotify.com/track/0IojBwrFi0lwPW1eE3BNdU) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl) | [Sau Lưng Anh Có Ai Kìa](https://open.spotify.com/album/36Dvo2mP3FZEERwagzc0YB) | 5:02 | 2022-05-27 | 2022-08-08 |
 | [Sau Lời Từ Khước \(Theme Song From "MAI"\)](https://open.spotify.com/track/36OyVzUmUFb1MTTzy3YXbh) | [Phan Mạnh Quỳnh](https://open.spotify.com/artist/0aNyWetkjBvIdZvJY00yEa) | [Sau Lời Từ Khước \(Theme Song From "MAI"\)](https://open.spotify.com/album/6HtXpKEimQ3bOZmIAnhvVe) | 4:10 | 2024-03-04 | 2024-06-17 |
+| [Say Sóng](https://open.spotify.com/track/4rIBbB1vt0lEKDG2UTmfP0) | [Tăng Duy Tân](https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ), [Drum7](https://open.spotify.com/artist/0gsqfuR0OFF5SSai7lsPrj), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Khu Vườn Tình](https://open.spotify.com/album/1NnHOgh9AdskLHBTjIFuC6) | 3:26 | 2024-11-14 |  |
 | [Say Yes \(Vietnamese Version\)](https://open.spotify.com/track/7mbWwlHgukuuW8r7Nc3FHv) | [Chọn gì? Chọn đi!](https://open.spotify.com/artist/61ydMyohF67xBZmWSPA3YQ), [OgeNus](https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p), [PiaLinh](https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54) | [Chọn Gì? Chọn Đi! Mùa 1](https://open.spotify.com/album/27m2MtfhK5YMZyCzZft8Xr) | 3:43 | 2024-09-22 |  |
 | [See Tình](https://open.spotify.com/track/3bZGGKrMQLDGg18y2QqKFF) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [See Tình](https://open.spotify.com/album/1AttOIOFrGkOPNSq5mB4pd) | 3:05 | 2022-05-27 | 2023-03-09 |
 | [shhhhhhh..](https://open.spotify.com/track/4jWmhzf53Q0ZvZMuGdiR9x) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [shhhhhhh..](https://open.spotify.com/album/3TfGWGY3mNNdK5LYxBzfXi) | 3:50 | 2023-10-14 |  |

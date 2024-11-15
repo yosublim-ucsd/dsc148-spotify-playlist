@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,141 songs - 3 day 9 hr 39 min
+2,142 songs - 3 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,7 +443,7 @@
 | [Dance The Night](https://open.spotify.com/track/40YoFnCDboRZe6lmoXcGvM) | [Analog Bow](https://open.spotify.com/artist/7kQ9kQ588r6INRWFlU1k1T) | [Dance The Night](https://open.spotify.com/album/4YE6LjBfsnLKV79C1ZUSeJ) | 2:39 | 2023-11-17 |  |
 | [dancing lights](https://open.spotify.com/track/6zYY5IxKrQqlq1gZvMiflo) | [Greene Labyrinth](https://open.spotify.com/artist/6oiYRGIhDRfbtZmzsfziUR) | [dancing lights](https://open.spotify.com/album/1yFc2Vo2a91Gk2OcaQnAYX) | 2:24 | 2024-09-27 |  |
 | [Dark Places](https://open.spotify.com/track/0JSQbdSkJ5xKu8OQB3g5wO) | [Kiabits](https://open.spotify.com/artist/7Iwn7mwI12WYQtlVoi4GAg), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Dark Places](https://open.spotify.com/album/3hpc6SGom48hjionKuXgjZ) | 2:18 | 2022-07-29 | 2022-08-12 |
-| [DaSpritzers](https://open.spotify.com/track/53x3IWruUKHjycanyVzzwb) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [DaSpritzers](https://open.spotify.com/album/4yfR0jwF5CrWmy6U02rgsU) | 2:24 | 2022-11-18 |  |
+| [DaSpritzers](https://open.spotify.com/track/53x3IWruUKHjycanyVzzwb) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [DaSpritzers](https://open.spotify.com/album/4yfR0jwF5CrWmy6U02rgsU) | 2:24 | 2022-11-18 | 2024-11-15 |
 | [Daunout](https://open.spotify.com/track/2NpcAVGqqapVHBPae0vwSb) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Daunout](https://open.spotify.com/album/0KypY3PnGTQyr5nz79njeR) | 1:54 | 2023-01-20 | 2024-07-27 |
 | [Daydream](https://open.spotify.com/track/01lS197HXZ7HwSd7LVy1ce) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y) | [Daydream](https://open.spotify.com/album/3gFsPMTHGuOB5N4ZUiXkVZ) | 2:08 | 2022-04-22 | 2022-11-12 |
 | [Daydream Thing](https://open.spotify.com/track/3Li5s9nmyXaZFTPqyGIO2x) | [Bnjo](https://open.spotify.com/artist/2ypA9JtiknHFRxTq1X36ry) | [Daydream Thing](https://open.spotify.com/album/0sul8DdAXX7bHDC4pv3bXX) | 2:08 | 2023-09-08 |  |
@@ -1101,6 +1101,7 @@
 | [lullaby sayonara](https://open.spotify.com/track/5gmGU21qJOnyhfLaVFLsc8) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [lullaby sayonara](https://open.spotify.com/album/7aEVz9aLIagUCYVZnR4L4C) | 2:11 | 2023-12-15 | 2024-06-22 |
 | [Lumbre](https://open.spotify.com/track/4uvIkNbOfh9w8VijIRn6EA) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Lumbre](https://open.spotify.com/album/5Ld9PgzYDbl4f42sN57ThN) | 2:00 | 2022-05-27 | 2023-04-04 |
 | [luminescence](https://open.spotify.com/track/4C5PiNdh6l3qJZyXGZnzAr) | [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [luminescence](https://open.spotify.com/album/6QoHfpdvlgwU1H2dLkpgPG) | 2:31 | 2024-09-27 |  |
+| [Lunaria](https://open.spotify.com/track/62YPMNQRB2MXuGr3gvPxaY) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Lunaria](https://open.spotify.com/album/6ZE3Lm7QVuN7DmIurWaTWp) | 1:21 | 2024-11-08 |  |
 | [Lunch Break Mantra](https://open.spotify.com/track/2FUBWrnfPAuZ8DQWQBqx9S) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Lunch Break Mantra](https://open.spotify.com/album/1v4Ao73yYn6S5spJOXlUmz) | 2:21 | 2022-04-15 | 2022-12-09 |
 | [Lunchbox](https://open.spotify.com/track/4HLiRjP724PGR9wWRD5EBB) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [Lunchbox](https://open.spotify.com/album/0gyxp0W1gjg7AREo5rBrgO) | 3:37 | 2022-04-15 | 2022-11-12 |
 | [Lupin](https://open.spotify.com/track/2NSA8n916vTmClZ6vBKPDm) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [Lupin](https://open.spotify.com/album/4rII78NQqbDm1re5xv7Zh4) | 2:21 | 2024-08-16 | 2024-10-11 |

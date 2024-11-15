@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: BABYMONSTER\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,295 likes - 55 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,304 likes - 55 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 54 | [Arcade](https://open.spotify.com/track/5ySxPHr8b8HNWZYHDD9i8H) | [Eric Minz](https://open.spotify.com/artist/6981nmtM6lqzMOVvtwk2Wo) | [Arcade](https://open.spotify.com/album/4QUbtvtuS9Maxyn2Cc3Ea1) | 3:19 |
 | 55 | [delivery \(feat\. BlankOnSpeaker\)](https://open.spotify.com/track/4jFEhJRxub8e7IzWMEP6K9) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [BlankOnSpeaker](https://open.spotify.com/artist/3zuKF08k13AmLcJtujyYNa) | [To you who has never been hurt](https://open.spotify.com/album/69lTEKAvPqfMKqahRoATWQ) | 4:00 |
 
-Snapshot ID: `Zyb+iwAAAAAQCnxIS4YqUxuyXdsta3Jl`
+Snapshot ID: `Zyb+iwAAAAA/l/FrS9rie7ycea92exMF`

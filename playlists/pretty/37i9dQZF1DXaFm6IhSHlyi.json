@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 145572,
+  "num_followers": 145585,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZIxWrAAAAAAMGpv6HhUr++s7VqbHu2Hq",
+  "snapshot_id": "ZIxWrAAAAAAyaQLTan/YN3O3LCEpH4df",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "I Miss You",
+        "url": "https://open.spotify.com/album/5tnHRJxTgH9mPdCThZFF5P"
+      },
+      "artists": [
+        {
+          "name": "Hansol",
+          "url": "https://open.spotify.com/artist/3lfv9X5P62DboYv1TBhGek"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/7AiZFV9YQFHGNXhajy0eFB"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Kyle",
         "url": "https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 255000,
       "name": "Something",
       "url": "https://open.spotify.com/track/4M2leU57ZJGJsjjXpIoh17"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "I Miss You",
-        "url": "https://open.spotify.com/album/5tnHRJxTgH9mPdCThZFF5P"
-      },
-      "artists": [
-        {
-          "name": "Hansol",
-          "url": "https://open.spotify.com/artist/3lfv9X5P62DboYv1TBhGek"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/7AiZFV9YQFHGNXhajy0eFB"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Lore",
+        "url": "https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m"
+      },
+      "artists": [
+        {
+          "name": "Qaayel",
+          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
+        }
+      ],
+      "duration_ms": 212610,
+      "name": "It Scares Me to Death",
+      "url": "https://open.spotify.com/track/7A26Q7EMjPnJQw7F3oAy17"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "\u767d\u663c\u5922",
         "url": "https://open.spotify.com/album/3LNHJ3ZReYcdf187yIi3uE"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 225082,
       "name": "\u767d\u663c\u5922",
       "url": "https://open.spotify.com/track/2IYtrfX0s3Wgm3thc0jCYH"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Mghayarni",
-        "url": "https://open.spotify.com/album/22ds05ymJ4OGeh9lupMtX2"
-      },
-      "artists": [
-        {
-          "name": "Rima Yussef",
-          "url": "https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Mghayarni",
-      "url": "https://open.spotify.com/track/1PlVVqV0gOGCeIuaiMuptU"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Lore",
-        "url": "https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m"
+        "name": "Mghayarni",
+        "url": "https://open.spotify.com/album/22ds05ymJ4OGeh9lupMtX2"
       },
       "artists": [
         {
-          "name": "Qaayel",
-          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
+          "name": "Rima Yussef",
+          "url": "https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl"
         }
       ],
-      "duration_ms": 212610,
-      "name": "It Scares Me to Death",
-      "url": "https://open.spotify.com/track/7A26Q7EMjPnJQw7F3oAy17"
+      "duration_ms": 237000,
+      "name": "Mghayarni",
+      "url": "https://open.spotify.com/track/1PlVVqV0gOGCeIuaiMuptU"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1719,6 +1719,22 @@
       "duration_ms": 275913,
       "name": "Maghihintay",
       "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Forever And Ever",
+        "url": "https://open.spotify.com/album/4KgQv1cSfo1soq5B2Uns9o"
+      },
+      "artists": [
+        {
+          "name": "Qaayel",
+          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
+        }
+      ],
+      "duration_ms": 191171,
+      "name": "Forever And Ever",
+      "url": "https://open.spotify.com/track/10mVmWuvnQpmwbCR1vYHWe"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1843,22 +1859,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Forever And Ever",
-        "url": "https://open.spotify.com/album/4KgQv1cSfo1soq5B2Uns9o"
-      },
-      "artists": [
-        {
-          "name": "Qaayel",
-          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
-        }
-      ],
-      "duration_ms": 191171,
-      "name": "Forever And Ever",
-      "url": "https://open.spotify.com/track/10mVmWuvnQpmwbCR1vYHWe"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Dahan",
         "url": "https://open.spotify.com/album/5ZMRUtgLCoeyhrDdRhSXij"
       },
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "July",
+        "url": "https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 156106,
+      "name": "July",
+      "url": "https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "\u56a3\u5f20",
         "url": "https://open.spotify.com/album/7HBIfL5J50gkUIjSWMRWqw"
       },
@@ -1959,22 +1975,6 @@
       "duration_ms": 253994,
       "name": "\u56a3\u5f20",
       "url": "https://open.spotify.com/track/3t8M86tiO0aKMMTXzRrFn8"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Maula",
-        "url": "https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu"
-      },
-      "artists": [
-        {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-        }
-      ],
-      "duration_ms": 237882,
-      "name": "Maula",
-      "url": "https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1995,18 +1995,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "July",
-        "url": "https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg"
+        "name": "Maula",
+        "url": "https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu"
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
         }
       ],
-      "duration_ms": 156106,
-      "name": "July",
-      "url": "https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr"
+      "duration_ms": 237882,
+      "name": "Maula",
+      "url": "https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2199,6 +2199,22 @@
       "duration_ms": 234986,
       "name": "The Hill of Yearning",
       "url": "https://open.spotify.com/track/0oZRDruCnbV2W9Z6VZaJ1v"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Sobreviviendo",
+        "url": "https://open.spotify.com/album/47TtqgVMHFpQnWDqrFvxxB"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 242315,
+      "name": "Sobreviviendo",
+      "url": "https://open.spotify.com/track/0nKKV7WclBn1UCJJiVgotc"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2447,6 +2463,30 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/2hntq8BeyRXcd87uEmxaqD"
+      },
+      "artists": [
+        {
+          "name": "Djouher",
+          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
+        },
+        {
+          "name": "Red Farrow",
+          "url": "https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8"
+        },
+        {
+          "name": "Lead Major",
+          "url": "https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "111",
+      "url": "https://open.spotify.com/track/3awqYya8UX0SwGL6bnuLdL"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Madhaniyan (Live) - Single",
         "url": "https://open.spotify.com/album/4cTYoTEenq525lP6832Nq5"
       },
@@ -2487,30 +2527,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/2hntq8BeyRXcd87uEmxaqD"
-      },
-      "artists": [
-        {
-          "name": "Djouher",
-          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
-        },
-        {
-          "name": "Red Farrow",
-          "url": "https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8"
-        },
-        {
-          "name": "Lead Major",
-          "url": "https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "111",
-      "url": "https://open.spotify.com/track/3awqYya8UX0SwGL6bnuLdL"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "\u0410 \u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c?",
         "url": "https://open.spotify.com/album/6wns67svPCJsRZIrCfkLIb"
       },
@@ -2523,22 +2539,6 @@
       "duration_ms": 240971,
       "name": "\u0410 \u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c?",
       "url": "https://open.spotify.com/track/1ose449N3hm96087FUw3Hl"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Stay Alive",
-        "url": "https://open.spotify.com/album/17ibSQkQUrD4LQ0uZSyQ7H"
-      },
-      "artists": [
-        {
-          "name": "Mustafa",
-          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
-        }
-      ],
-      "duration_ms": 181372,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/1COWb4m8g8jY7fi3wXzo5b"
     }
   ],
   "unique_name": "Ballads International",

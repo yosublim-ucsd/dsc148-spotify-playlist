@@ -1,12 +1,12 @@
 {
   "description": "This is Slipknot. The essential tracks, all in one playlist.",
-  "num_followers": 1000212,
+  "num_followers": 1000415,
   "original_name": "This Is Slipknot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzKagAAAAABzeX8NwVjZEZ1WyfGE5+cM",
+  "snapshot_id": "ZzPsAAAAAADvK0OdjROIE8nK1nf966ZX",
   "tracks": [
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": ".5: The Gray Chapter (Special Edition)",
-        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
+        "name": "We Are Not Your Kind",
+        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 325171,
-      "name": "The Negative One",
-      "url": "https://open.spotify.com/track/2ugAOltSeiFqKHItLMKFK3"
+      "duration_ms": 355540,
+      "name": "Solway Firth",
+      "url": "https://open.spotify.com/track/6WCkyaVmut83CtBFEUhDo4"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Are Not Your Kind",
-        "url": "https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju"
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 355540,
-      "name": "Solway Firth",
-      "url": "https://open.spotify.com/track/6WCkyaVmut83CtBFEUhDo4"
+      "duration_ms": 325171,
+      "name": "The Negative One",
+      "url": "https://open.spotify.com/track/2ugAOltSeiFqKHItLMKFK3"
     },
     {
       "added_at": null,
@@ -551,38 +551,6 @@
       "duration_ms": 123400,
       "name": "Get This",
       "url": "https://open.spotify.com/track/5GOfjX6UN5yyDkMGl8nrnn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": ".5: The Gray Chapter (Special Edition)",
-        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 332906,
-      "name": "AOV",
-      "url": "https://open.spotify.com/track/2qfLaOWD7bB4J1Val3vO4K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Hope Is Gone",
-        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 345693,
-      "name": "'Til We Die",
-      "url": "https://open.spotify.com/track/7bhfCl1a1InaSy8NOWVswk"
     },
     {
       "added_at": null,
@@ -628,9 +596,9 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 286560,
-      "name": "Skeptic",
-      "url": "https://open.spotify.com/track/7yzFUknHiad4kRBfHq2ki1"
+      "duration_ms": 332906,
+      "name": "AOV",
+      "url": "https://open.spotify.com/track/2qfLaOWD7bB4J1Val3vO4K"
     },
     {
       "added_at": null,
@@ -644,9 +612,9 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 315506,
-      "name": "Vendetta",
-      "url": "https://open.spotify.com/track/5frNnyWkKzKdiKPLhkdY9L"
+      "duration_ms": 345693,
+      "name": "'Til We Die",
+      "url": "https://open.spotify.com/track/7bhfCl1a1InaSy8NOWVswk"
     },
     {
       "added_at": null,
@@ -683,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 286560,
+      "name": "Skeptic",
+      "url": "https://open.spotify.com/track/7yzFUknHiad4kRBfHq2ki1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Hope Is Gone",
         "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
       },
@@ -692,9 +676,9 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 284760,
-      "name": "All Hope Is Gone",
-      "url": "https://open.spotify.com/track/431a6o9W8aYTQWNGmdgDm0"
+      "duration_ms": 315506,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/5frNnyWkKzKdiKPLhkdY9L"
     },
     {
       "added_at": null,
@@ -740,9 +724,9 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 361533,
-      "name": "Gematria (The Killing Name)",
-      "url": "https://open.spotify.com/track/5rAIqtGPZNiCojmpRjuZW5"
+      "duration_ms": 284760,
+      "name": "All Hope Is Gone",
+      "url": "https://open.spotify.com/track/431a6o9W8aYTQWNGmdgDm0"
     },
     {
       "added_at": null,
@@ -759,6 +743,22 @@
       "duration_ms": 340400,
       "name": "Adderall",
       "url": "https://open.spotify.com/track/1PcANFoqnDsexSHXpWrn8Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Hope Is Gone",
+        "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 361533,
+      "name": "Gematria (The Killing Name)",
+      "url": "https://open.spotify.com/track/5rAIqtGPZNiCojmpRjuZW5"
     }
   ],
   "unique_name": "This Is Slipknot",

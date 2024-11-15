@@ -1,87 +1,31 @@
 {
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Moha MMZ",
-  "num_followers": 355121,
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Elh Kmer",
+  "num_followers": 355129,
   "original_name": "Cloud Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy1GcAAAAABHp0XhyVgiofvU0FRvEB9u",
+  "snapshot_id": "ZzaA8AAAAAAw1XJP4QcTVTJBKbcJBfoE",
   "tracks": [
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "La Plage",
-        "url": "https://open.spotify.com/album/2ldkEQVrh5ThTEnkDoOntZ"
+        "name": "2 Sistas",
+        "url": "https://open.spotify.com/album/0evJCpJxMHBN6IArIcrHaR"
       },
       "artists": [
         {
-          "name": "Moha MMZ",
-          "url": "https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T"
+          "name": "Elh Kmer",
+          "url": "https://open.spotify.com/artist/6DTpmzMa0Gz93kRKUo4JfQ"
         }
       ],
-      "duration_ms": 227729,
-      "name": "Lily Rose",
-      "url": "https://open.spotify.com/track/0RbdtKmvL8wkz8tok82IAq"
+      "duration_ms": 198643,
+      "name": "2 Sistas",
+      "url": "https://open.spotify.com/track/6o3FclgTyuqsxE2z64AVAN"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "NUEVE SEAZON",
-        "url": "https://open.spotify.com/album/7iCHeixFKFguzMJSeoKFLl"
-      },
-      "artists": [
-        {
-          "name": "J9ueve",
-          "url": "https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1"
-        }
-      ],
-      "duration_ms": 160253,
-      "name": "DERNIERE DANSE",
-      "url": "https://open.spotify.com/track/2pZpMH4DwjrDmE46HPVOVv"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "S\u0113nsus",
-        "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
-      },
-      "artists": [
-        {
-          "name": "Madd",
-          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
-        },
-        {
-          "name": "Khali",
-          "url": "https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS"
-        }
-      ],
-      "duration_ms": 131052,
-      "name": "All You Need Is You (feat. Khali)",
-      "url": "https://open.spotify.com/track/5oN3cmVhKIeaQUX0ygMB1v"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Petit feu",
-        "url": "https://open.spotify.com/album/4Z8LiQuNbXuN5oiHv8Fe97"
-      },
-      "artists": [
-        {
-          "name": "Yams",
-          "url": "https://open.spotify.com/artist/0wEDL8w6Yy6ti1IGW2Yy40"
-        },
-        {
-          "name": "DTF",
-          "url": "https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM"
-        }
-      ],
-      "duration_ms": 233741,
-      "name": "Spider - feat. DTF",
-      "url": "https://open.spotify.com/track/0qOmIfARNl6Ny3T7uAmoM3"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "DEUX SOLEILS",
         "url": "https://open.spotify.com/album/4ivkixGkC1ibxjTxWtSVgE"
@@ -105,59 +49,95 @@
       "url": "https://open.spotify.com/track/0Bg6fSiWWcU9CoScLWICVy"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "CONTRE LA GALERE",
-        "url": "https://open.spotify.com/album/7C01Ua8kaCqSSZOwZCgqZ9"
+        "name": "La v\u00e9rit\u00e9",
+        "url": "https://open.spotify.com/album/17zdMc6qzoHxgxoRjPMeNc"
+      },
+      "artists": [
+        {
+          "name": "GS",
+          "url": "https://open.spotify.com/artist/5rtvBFj4IeWDwKjf9cmeKv"
+        }
+      ],
+      "duration_ms": 140084,
+      "name": "La v\u00e9rit\u00e9",
+      "url": "https://open.spotify.com/track/4HgrXhFMT1CED72ea1WPWN"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "BLESSED",
+        "url": "https://open.spotify.com/album/3egy1qJcCXdsTLPqXOYcgL"
+      },
+      "artists": [
+        {
+          "name": "JaySoCold",
+          "url": "https://open.spotify.com/artist/4HH0q0eB1ANsFsLZ1gqn5F"
+        },
+        {
+          "name": "Smeels",
+          "url": "https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "FAST LIFE",
+      "url": "https://open.spotify.com/track/1lXpuN0QfupyovgfJPgSsz"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "LE DERNIER RAYON DE SOLEIL",
+        "url": "https://open.spotify.com/album/0RKowuKEHhFPmQlLbZi9Qv"
       },
       "artists": [
         {
           "name": "HOUDI",
           "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "CONTRE LA GALERE",
-      "url": "https://open.spotify.com/track/5c1WHENe0qdFgBg265gYiX"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "E-TRAP",
-        "url": "https://open.spotify.com/album/00pCPUMJXYJBCB77aC6A0c"
-      },
-      "artists": [
-        {
-          "name": "TH",
-          "url": "https://open.spotify.com/artist/4k0UwfZq3WOpZiZosq3vQC"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "PILULE",
-      "url": "https://open.spotify.com/track/5M6EKddObIwYdo0Rt9eoDV"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Anh\u00e9donie",
-        "url": "https://open.spotify.com/album/3GlInzLWZqAf3dkxO5CzEE"
-      },
-      "artists": [
-        {
-          "name": "USKY",
-          "url": "https://open.spotify.com/artist/0VbfTzGkMlei0XtibnO466"
         },
         {
-          "name": "Green Montana",
-          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
+          "name": "So La Lune",
+          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
         }
       ],
-      "duration_ms": 162750,
-      "name": "Aaliyah",
-      "url": "https://open.spotify.com/track/0nR4wEOdxieaU7gX5W4zxj"
+      "duration_ms": 203000,
+      "name": "DALIDA",
+      "url": "https://open.spotify.com/track/0tMQTxZBDZydVHi2YUwJOz"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "paris, 31 ao\u00fbt",
+        "url": "https://open.spotify.com/album/43bBfboTeCISZ91I6Z047v"
+      },
+      "artists": [
+        {
+          "name": "Django",
+          "url": "https://open.spotify.com/artist/5gU8eqolA1bziWv6e3Wjp3"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "j'r\u00eave c'est mieux",
+      "url": "https://open.spotify.com/track/73gxSyX96MwUAqfYz8rbyO"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Par la main",
+        "url": "https://open.spotify.com/album/5ZvXkdD6jLp0DitqWdgq7S"
+      },
+      "artists": [
+        {
+          "name": "YUNG POOR ALO",
+          "url": "https://open.spotify.com/artist/4n9g9O44xmv7k4ET9NLvds"
+        }
+      ],
+      "duration_ms": 125666,
+      "name": "Par la main",
+      "url": "https://open.spotify.com/track/4biJTjii4iXvLJ0lXZ5uXs"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Noum",
         "url": "https://open.spotify.com/album/3unn5HfOzp1U74E10ESWTk"
@@ -177,23 +157,191 @@
       "url": "https://open.spotify.com/track/6t9NUy0fxDCoctPzGJB2bf"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Vents & Mar\u00e9es",
-        "url": "https://open.spotify.com/album/3AginXbPLe3Uf0G1h0PawE"
+        "name": "LE RICHE EST SOURD",
+        "url": "https://open.spotify.com/album/2lmhKVBSrjlLp7eXxNFGqG"
       },
       "artists": [
         {
-          "name": "AMIN",
-          "url": "https://open.spotify.com/artist/0CA8jbz5CnyVRLR807BskD"
+          "name": "Leith",
+          "url": "https://open.spotify.com/artist/0DQx7HJhLzjbSQNsNhrpLT"
         }
       ],
-      "duration_ms": 185413,
-      "name": "Ma vie d'avant",
-      "url": "https://open.spotify.com/track/0L1I6VmStVwKx4R5ZsOlMN"
+      "duration_ms": 151013,
+      "name": "Paris Tanger",
+      "url": "https://open.spotify.com/track/19Qk0blqgKX3uW0F79dBO1"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "La Plage",
+        "url": "https://open.spotify.com/album/2ldkEQVrh5ThTEnkDoOntZ"
+      },
+      "artists": [
+        {
+          "name": "Moha MMZ",
+          "url": "https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T"
+        }
+      ],
+      "duration_ms": 227729,
+      "name": "Lily Rose",
+      "url": "https://open.spotify.com/track/0RbdtKmvL8wkz8tok82IAq"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "phileas fogg",
+        "url": "https://open.spotify.com/album/64y23hxA0OtaC66UscChre"
+      },
+      "artists": [
+        {
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
+        }
+      ],
+      "duration_ms": 113093,
+      "name": "phileas fogg",
+      "url": "https://open.spotify.com/track/03ijxNalYn4V6467YMGMP3"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "NUEVE SEAZON",
+        "url": "https://open.spotify.com/album/7iCHeixFKFguzMJSeoKFLl"
+      },
+      "artists": [
+        {
+          "name": "J9ueve",
+          "url": "https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1"
+        }
+      ],
+      "duration_ms": 160253,
+      "name": "DERNIERE DANSE",
+      "url": "https://open.spotify.com/track/2pZpMH4DwjrDmE46HPVOVv"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "RADIO",
+        "url": "https://open.spotify.com/album/7JDIVb7zX3qYslaNUGK9wY"
+      },
+      "artists": [
+        {
+          "name": "Gemen",
+          "url": "https://open.spotify.com/artist/38Ey7an6lpTlez98WKnAd2"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "RADIO",
+      "url": "https://open.spotify.com/track/5vuQDHV1Athh4u9h8IMEG1"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "LES VOIX",
+        "url": "https://open.spotify.com/album/69qjY0Ei6IyvCXW4BdWc4O"
+      },
+      "artists": [
+        {
+          "name": "mademoiselle lou",
+          "url": "https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N"
+        },
+        {
+          "name": "MadeInParis",
+          "url": "https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU"
+        }
+      ],
+      "duration_ms": 157448,
+      "name": "LES VOIX",
+      "url": "https://open.spotify.com/track/1huSfoDNZogC8dA2WSJGRA"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "OKOCHA",
+        "url": "https://open.spotify.com/album/488uHoP3aFtNqQPi9jKeYM"
+      },
+      "artists": [
+        {
+          "name": "Elh Kmer",
+          "url": "https://open.spotify.com/artist/6DTpmzMa0Gz93kRKUo4JfQ"
+        }
+      ],
+      "duration_ms": 221950,
+      "name": "OKOCHA",
+      "url": "https://open.spotify.com/track/7caYhBo57VGdfk5K6NqZ4x"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "MADAME LA LUNE",
+        "url": "https://open.spotify.com/album/1xLiUJNxGDmandqLtWDOzZ"
+      },
+      "artists": [
+        {
+          "name": "Fawzi",
+          "url": "https://open.spotify.com/artist/7KksiYW66eM3fAsOkQJsEv"
+        }
+      ],
+      "duration_ms": 144985,
+      "name": "MADAME LA LUNE",
+      "url": "https://open.spotify.com/track/2HWI0eskLgc8ynUKLMEH6r"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "CONTRE LA GALERE",
+        "url": "https://open.spotify.com/album/7C01Ua8kaCqSSZOwZCgqZ9"
+      },
+      "artists": [
+        {
+          "name": "HOUDI",
+          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "CONTRE LA GALERE",
+      "url": "https://open.spotify.com/track/5c1WHENe0qdFgBg265gYiX"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Anh\u00e9donie",
+        "url": "https://open.spotify.com/album/3GlInzLWZqAf3dkxO5CzEE"
+      },
+      "artists": [
+        {
+          "name": "USKY",
+          "url": "https://open.spotify.com/artist/0VbfTzGkMlei0XtibnO466"
+        },
+        {
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
+        }
+      ],
+      "duration_ms": 162750,
+      "name": "Aaliyah",
+      "url": "https://open.spotify.com/track/0nR4wEOdxieaU7gX5W4zxj"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "E-TRAP",
+        "url": "https://open.spotify.com/album/00pCPUMJXYJBCB77aC6A0c"
+      },
+      "artists": [
+        {
+          "name": "TH",
+          "url": "https://open.spotify.com/artist/4k0UwfZq3WOpZiZosq3vQC"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "PILULE",
+      "url": "https://open.spotify.com/track/5M6EKddObIwYdo0Rt9eoDV"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Geneva",
         "url": "https://open.spotify.com/album/4u84K5dAcGP8ew41zNnqKu"
@@ -217,7 +365,7 @@
       "url": "https://open.spotify.com/track/0qfXETr4UazAeIbOzhsZJm"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "N\u00e9 sp\u00e9cial",
         "url": "https://open.spotify.com/album/6G2n483g1GNVq9AHLNKtEO"
@@ -237,167 +385,27 @@
       "url": "https://open.spotify.com/track/5TFrDVXvqGrYaFwRt5Wrf1"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "LE RICHE EST SOURD",
-        "url": "https://open.spotify.com/album/2lmhKVBSrjlLp7eXxNFGqG"
+        "name": "Petit feu",
+        "url": "https://open.spotify.com/album/4Z8LiQuNbXuN5oiHv8Fe97"
       },
       "artists": [
         {
-          "name": "Leith",
-          "url": "https://open.spotify.com/artist/0DQx7HJhLzjbSQNsNhrpLT"
-        }
-      ],
-      "duration_ms": 151013,
-      "name": "Paris Tanger",
-      "url": "https://open.spotify.com/track/19Qk0blqgKX3uW0F79dBO1"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "La v\u00e9rit\u00e9",
-        "url": "https://open.spotify.com/album/17zdMc6qzoHxgxoRjPMeNc"
-      },
-      "artists": [
-        {
-          "name": "GS",
-          "url": "https://open.spotify.com/artist/5rtvBFj4IeWDwKjf9cmeKv"
-        }
-      ],
-      "duration_ms": 140084,
-      "name": "La v\u00e9rit\u00e9",
-      "url": "https://open.spotify.com/track/4HgrXhFMT1CED72ea1WPWN"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "phileas fogg",
-        "url": "https://open.spotify.com/album/64y23hxA0OtaC66UscChre"
-      },
-      "artists": [
-        {
-          "name": "Green Montana",
-          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
-        }
-      ],
-      "duration_ms": 113093,
-      "name": "phileas fogg",
-      "url": "https://open.spotify.com/track/03ijxNalYn4V6467YMGMP3"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "OKOCHA",
-        "url": "https://open.spotify.com/album/488uHoP3aFtNqQPi9jKeYM"
-      },
-      "artists": [
-        {
-          "name": "Elh Kmer",
-          "url": "https://open.spotify.com/artist/6DTpmzMa0Gz93kRKUo4JfQ"
-        }
-      ],
-      "duration_ms": 221950,
-      "name": "OKOCHA",
-      "url": "https://open.spotify.com/track/7caYhBo57VGdfk5K6NqZ4x"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "BLESSED",
-        "url": "https://open.spotify.com/album/3egy1qJcCXdsTLPqXOYcgL"
-      },
-      "artists": [
-        {
-          "name": "JaySoCold",
-          "url": "https://open.spotify.com/artist/4HH0q0eB1ANsFsLZ1gqn5F"
+          "name": "Yams",
+          "url": "https://open.spotify.com/artist/0wEDL8w6Yy6ti1IGW2Yy40"
         },
         {
-          "name": "Smeels",
-          "url": "https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ"
+          "name": "DTF",
+          "url": "https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM"
         }
       ],
-      "duration_ms": 147096,
-      "name": "FAST LIFE",
-      "url": "https://open.spotify.com/track/1lXpuN0QfupyovgfJPgSsz"
+      "duration_ms": 233741,
+      "name": "Spider - feat. DTF",
+      "url": "https://open.spotify.com/track/0qOmIfARNl6Ny3T7uAmoM3"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "LES VOIX",
-        "url": "https://open.spotify.com/album/69qjY0Ei6IyvCXW4BdWc4O"
-      },
-      "artists": [
-        {
-          "name": "mademoiselle lou",
-          "url": "https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N"
-        },
-        {
-          "name": "MadeInParis",
-          "url": "https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU"
-        }
-      ],
-      "duration_ms": 157448,
-      "name": "LES VOIX",
-      "url": "https://open.spotify.com/track/1huSfoDNZogC8dA2WSJGRA"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "La For\u00eat",
-        "url": "https://open.spotify.com/album/3T1dYDNBR756KLRdaOBn83"
-      },
-      "artists": [
-        {
-          "name": "Mac Amish",
-          "url": "https://open.spotify.com/artist/2Z1KbXZk5p5DqqvUSJVUEi"
-        },
-        {
-          "name": "Oddbox",
-          "url": "https://open.spotify.com/artist/6IjSW1JQwRHB9cPFyu2tn5"
-        }
-      ],
-      "duration_ms": 149347,
-      "name": "La For\u00eat",
-      "url": "https://open.spotify.com/track/1NQZonbTxEZ2OuzPw3xvZ9"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "LE DERNIER RAYON DE SOLEIL",
-        "url": "https://open.spotify.com/album/0RKowuKEHhFPmQlLbZi9Qv"
-      },
-      "artists": [
-        {
-          "name": "HOUDI",
-          "url": "https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6"
-        },
-        {
-          "name": "So La Lune",
-          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "DALIDA",
-      "url": "https://open.spotify.com/track/0tMQTxZBDZydVHi2YUwJOz"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "paris, 31 ao\u00fbt",
-        "url": "https://open.spotify.com/album/43bBfboTeCISZ91I6Z047v"
-      },
-      "artists": [
-        {
-          "name": "Django",
-          "url": "https://open.spotify.com/artist/5gU8eqolA1bziWv6e3Wjp3"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "j'r\u00eave c'est mieux",
-      "url": "https://open.spotify.com/track/73gxSyX96MwUAqfYz8rbyO"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/3kQSDPKVnveJnWm85cFzb0"
@@ -413,63 +421,27 @@
       "url": "https://open.spotify.com/track/0Wi4xj3xkdUeIRrFQGTZuS"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Coeur trop petit pour deux",
-        "url": "https://open.spotify.com/album/6Dgq9UHso7w1M412cmoe4x"
+        "name": "S\u0113nsus",
+        "url": "https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS"
       },
       "artists": [
         {
-          "name": "Nina Rossell",
-          "url": "https://open.spotify.com/artist/76GOZCc1Fa0aXqh4edNsuw"
+          "name": "Madd",
+          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
         },
         {
-          "name": "OUENZA",
-          "url": "https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8"
+          "name": "Khali",
+          "url": "https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS"
         }
       ],
-      "duration_ms": 187445,
-      "name": "Coeur trop petit pour deux",
-      "url": "https://open.spotify.com/track/5rseoSZlvuhGn9RAVRYbv8"
+      "duration_ms": 131052,
+      "name": "All You Need Is You (feat. Khali)",
+      "url": "https://open.spotify.com/track/5oN3cmVhKIeaQUX0ygMB1v"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Paradis",
-        "url": "https://open.spotify.com/album/3o4OTeK8xiFLdltBwjjgu1"
-      },
-      "artists": [
-        {
-          "name": "Saan",
-          "url": "https://open.spotify.com/artist/0fCV53y12NSwAgq3WnwO99"
-        }
-      ],
-      "duration_ms": 173906,
-      "name": "Paradis",
-      "url": "https://open.spotify.com/track/3eegA0ExCU0DojAv1S6zfZ"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "KISAME",
-        "url": "https://open.spotify.com/album/0boS7L678ymaQI47fJWul6"
-      },
-      "artists": [
-        {
-          "name": "Costa",
-          "url": "https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX"
-        },
-        {
-          "name": "Bakari",
-          "url": "https://open.spotify.com/artist/6ENue1D9ypy32vI8BWQx33"
-        }
-      ],
-      "duration_ms": 211781,
-      "name": "KISAME",
-      "url": "https://open.spotify.com/track/39xb3Uv1eiXLVkmEvY96vO"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "SAUDADE",
         "url": "https://open.spotify.com/album/5ORwfRIZBQiJ1dQ2cQDIFO"
@@ -493,59 +465,7 @@
       "url": "https://open.spotify.com/track/5KRbR612c2andWTf4vvAhs"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "NUMERO 11",
-        "url": "https://open.spotify.com/album/21VZamyCjVgontQhKMaQkL"
-      },
-      "artists": [
-        {
-          "name": "So La Lune",
-          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
-        }
-      ],
-      "duration_ms": 156144,
-      "name": "TITULAIRE",
-      "url": "https://open.spotify.com/track/1aGH38NuMmqBkYtKchy6F1"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "PLEURE PLEURE PLEURE",
-        "url": "https://open.spotify.com/album/0h6ymbMfKM89ZiuRdjzFPp"
-      },
-      "artists": [
-        {
-          "name": "Sovajon",
-          "url": "https://open.spotify.com/artist/41XEyClazvR6Ao77iD8qex"
-        }
-      ],
-      "duration_ms": 211452,
-      "name": "PLEURE PLEURE PLEURE",
-      "url": "https://open.spotify.com/track/0z9Pjd0DJMvvh8x159hGLN"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "MOTEL STUDIO 2",
-        "url": "https://open.spotify.com/album/27bVtUy9JrOK0QCK0P7PAQ"
-      },
-      "artists": [
-        {
-          "name": "Karmen",
-          "url": "https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq"
-        },
-        {
-          "name": "J9ueve",
-          "url": "https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1"
-        }
-      ],
-      "duration_ms": 153290,
-      "name": "LA LUNE",
-      "url": "https://open.spotify.com/track/6qz8nDdpuW5RvrDjzcYAwa"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "A.D.N",
         "url": "https://open.spotify.com/album/6QbCOOjR8N3AKhaBVVNhdQ"
@@ -569,47 +489,39 @@
       "url": "https://open.spotify.com/track/2DrjbrGDb6s1RlAfs8kwvn"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "20 Benz",
-        "url": "https://open.spotify.com/album/1yUAbvGfkcHGID3l8QvCXE"
+        "name": "PLEURE PLEURE PLEURE",
+        "url": "https://open.spotify.com/album/0h6ymbMfKM89ZiuRdjzFPp"
       },
       "artists": [
         {
-          "name": "Lost",
-          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
-        },
-        {
-          "name": "Kekra",
-          "url": "https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS"
-        },
-        {
-          "name": "FREAKEY!",
-          "url": "https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY"
+          "name": "Sovajon",
+          "url": "https://open.spotify.com/artist/41XEyClazvR6Ao77iD8qex"
         }
       ],
-      "duration_ms": 202197,
-      "name": "20 Benz",
-      "url": "https://open.spotify.com/track/36HjmuPWCb5OJ991fwA4c8"
+      "duration_ms": 211452,
+      "name": "PLEURE PLEURE PLEURE",
+      "url": "https://open.spotify.com/track/0z9Pjd0DJMvvh8x159hGLN"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Personne n'est sp\u00e9cial",
-        "url": "https://open.spotify.com/album/4K2wpaeIVxcc9bGWHu7zmh"
+        "name": "Paradis",
+        "url": "https://open.spotify.com/album/3o4OTeK8xiFLdltBwjjgu1"
       },
       "artists": [
         {
-          "name": "Savage Toddy",
-          "url": "https://open.spotify.com/artist/6eZmUcps7ec36kCUw0LLWw"
+          "name": "Saan",
+          "url": "https://open.spotify.com/artist/0fCV53y12NSwAgq3WnwO99"
         }
       ],
-      "duration_ms": 209080,
-      "name": "Laisse tomber",
-      "url": "https://open.spotify.com/track/2nHl8cd6sfEAAm0tV7jqAP"
+      "duration_ms": 173906,
+      "name": "Paradis",
+      "url": "https://open.spotify.com/track/3eegA0ExCU0DojAv1S6zfZ"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "APHANTASIA",
         "url": "https://open.spotify.com/album/1njQ4QdbKaz7d5aATknk5J"
@@ -625,71 +537,59 @@
       "url": "https://open.spotify.com/track/7ciz0C3oekfibO6zLUiZEO"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "SANG DE GREC",
-        "url": "https://open.spotify.com/album/59qRCX0kBi4gV2r1NiWwHM"
+        "name": "Vents & Mar\u00e9es",
+        "url": "https://open.spotify.com/album/3AginXbPLe3Uf0G1h0PawE"
       },
       "artists": [
         {
-          "name": "Chanje",
-          "url": "https://open.spotify.com/artist/5BZQ1LKKtw3uu6NIJdlU4Y"
+          "name": "AMIN",
+          "url": "https://open.spotify.com/artist/0CA8jbz5CnyVRLR807BskD"
         }
       ],
-      "duration_ms": 178000,
-      "name": "SANG DE GREC",
-      "url": "https://open.spotify.com/track/33f15XHAGuesiY95LpTW6K"
+      "duration_ms": 185413,
+      "name": "Ma vie d'avant",
+      "url": "https://open.spotify.com/track/0L1I6VmStVwKx4R5ZsOlMN"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Corrida",
-        "url": "https://open.spotify.com/album/0tVz8bJgm1ILiHHCMD7LLi"
+        "name": "NUMERO 11",
+        "url": "https://open.spotify.com/album/21VZamyCjVgontQhKMaQkL"
       },
       "artists": [
         {
-          "name": "Tizzy Miller",
-          "url": "https://open.spotify.com/artist/4iTNjeINIl3PGMz8HI6Mdj"
+          "name": "So La Lune",
+          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
         }
       ],
-      "duration_ms": 129473,
-      "name": "Corrida",
-      "url": "https://open.spotify.com/track/20EqhjIfTYZYW0LdL1HUD1"
+      "duration_ms": 156144,
+      "name": "TITULAIRE",
+      "url": "https://open.spotify.com/track/1aGH38NuMmqBkYtKchy6F1"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "A perte",
-        "url": "https://open.spotify.com/album/79CEfpo0U9HpHpJn56B4mK"
+        "name": "La For\u00eat",
+        "url": "https://open.spotify.com/album/3T1dYDNBR756KLRdaOBn83"
       },
       "artists": [
         {
-          "name": "Billi",
-          "url": "https://open.spotify.com/artist/4c0fM3fOFU8S3xM2JzGq88"
-        }
-      ],
-      "duration_ms": 192560,
-      "name": "A perte",
-      "url": "https://open.spotify.com/track/5wmyF6drfu8jkNZ0JPNvKZ"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "2NIGHT",
-        "url": "https://open.spotify.com/album/2d30RfMMwt30GqIAtF3Z6O"
-      },
-      "artists": [
+          "name": "Mac Amish",
+          "url": "https://open.spotify.com/artist/2Z1KbXZk5p5DqqvUSJVUEi"
+        },
         {
-          "name": "JaySoCold",
-          "url": "https://open.spotify.com/artist/4HH0q0eB1ANsFsLZ1gqn5F"
+          "name": "Oddbox",
+          "url": "https://open.spotify.com/artist/6IjSW1JQwRHB9cPFyu2tn5"
         }
       ],
-      "duration_ms": 120027,
-      "name": "2NIGHT",
-      "url": "https://open.spotify.com/track/49Gvm7VttDM9nZGb02LgDh"
+      "duration_ms": 149347,
+      "name": "La For\u00eat",
+      "url": "https://open.spotify.com/track/1NQZonbTxEZ2OuzPw3xvZ9"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Hades",
         "url": "https://open.spotify.com/album/6UyP5B5pMp9SL4azvp8JLL"
@@ -705,7 +605,111 @@
       "url": "https://open.spotify.com/track/1bbZpuuo4xHr8uvsv0ZONl"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "KISAME",
+        "url": "https://open.spotify.com/album/0boS7L678ymaQI47fJWul6"
+      },
+      "artists": [
+        {
+          "name": "Costa",
+          "url": "https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX"
+        },
+        {
+          "name": "Bakari",
+          "url": "https://open.spotify.com/artist/6ENue1D9ypy32vI8BWQx33"
+        }
+      ],
+      "duration_ms": 211781,
+      "name": "KISAME",
+      "url": "https://open.spotify.com/track/39xb3Uv1eiXLVkmEvY96vO"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Personne n'est sp\u00e9cial",
+        "url": "https://open.spotify.com/album/4K2wpaeIVxcc9bGWHu7zmh"
+      },
+      "artists": [
+        {
+          "name": "Savage Toddy",
+          "url": "https://open.spotify.com/artist/6eZmUcps7ec36kCUw0LLWw"
+        }
+      ],
+      "duration_ms": 209080,
+      "name": "Laisse tomber",
+      "url": "https://open.spotify.com/track/2nHl8cd6sfEAAm0tV7jqAP"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "SANG DE GREC",
+        "url": "https://open.spotify.com/album/59qRCX0kBi4gV2r1NiWwHM"
+      },
+      "artists": [
+        {
+          "name": "Chanje",
+          "url": "https://open.spotify.com/artist/5BZQ1LKKtw3uu6NIJdlU4Y"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "SANG DE GREC",
+      "url": "https://open.spotify.com/track/33f15XHAGuesiY95LpTW6K"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "MOTEL STUDIO 2",
+        "url": "https://open.spotify.com/album/27bVtUy9JrOK0QCK0P7PAQ"
+      },
+      "artists": [
+        {
+          "name": "Karmen",
+          "url": "https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq"
+        },
+        {
+          "name": "J9ueve",
+          "url": "https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1"
+        }
+      ],
+      "duration_ms": 153290,
+      "name": "LA LUNE",
+      "url": "https://open.spotify.com/track/6qz8nDdpuW5RvrDjzcYAwa"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "2NIGHT",
+        "url": "https://open.spotify.com/album/2d30RfMMwt30GqIAtF3Z6O"
+      },
+      "artists": [
+        {
+          "name": "JaySoCold",
+          "url": "https://open.spotify.com/artist/4HH0q0eB1ANsFsLZ1gqn5F"
+        }
+      ],
+      "duration_ms": 120027,
+      "name": "2NIGHT",
+      "url": "https://open.spotify.com/track/49Gvm7VttDM9nZGb02LgDh"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Corrida",
+        "url": "https://open.spotify.com/album/0tVz8bJgm1ILiHHCMD7LLi"
+      },
+      "artists": [
+        {
+          "name": "Tizzy Miller",
+          "url": "https://open.spotify.com/artist/4iTNjeINIl3PGMz8HI6Mdj"
+        }
+      ],
+      "duration_ms": 129473,
+      "name": "Corrida",
+      "url": "https://open.spotify.com/track/20EqhjIfTYZYW0LdL1HUD1"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Wolverine",
         "url": "https://open.spotify.com/album/5IzvSeWOJQk8yTDyHDQRcD"
@@ -719,22 +723,6 @@
       "duration_ms": 102516,
       "name": "Wolverine",
       "url": "https://open.spotify.com/track/1CxsBUL6NC5XUzyyOZF43l"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "LADY GAGA",
-        "url": "https://open.spotify.com/album/4ncCuaNlrgUfGQHrOceMgB"
-      },
-      "artists": [
-        {
-          "name": "LUMJR",
-          "url": "https://open.spotify.com/artist/3c5EoD3rQqbkXYSL22CRJh"
-        }
-      ],
-      "duration_ms": 150889,
-      "name": "LADY GAGA",
-      "url": "https://open.spotify.com/track/3WVegsSwuVkiO0SAg9S87V"
     }
   ],
   "unique_name": "Cloud Rap",

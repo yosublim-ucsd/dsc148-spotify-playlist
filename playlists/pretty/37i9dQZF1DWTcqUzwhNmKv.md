@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Make Them Suffer on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,523,982 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,524,185 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Love As An Act Of Rebellion](https://open.spotify.com/track/4lMfUuTWCFEbXx0CwdDMiI) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [Love As An Act Of Rebellion](https://open.spotify.com/album/7xxx4U3ShanMD7Q5cbfbyN) | 3:19 |
 | 75 | [Masc](https://open.spotify.com/track/7rmubB7CWxuSfSGSoFHZRE) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Cool World](https://open.spotify.com/album/3k7GhMNdQ0KXGkC84qVRf2) | 4:09 |
 
-Snapshot ID: `Zy2a0AAAAAB/at9D2at9fN1C6DRey9ua`
+Snapshot ID: `Zy2a0AAAAACnEfU2lbaOaQYNt0OnDLtW`

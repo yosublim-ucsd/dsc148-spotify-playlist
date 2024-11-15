@@ -1,12 +1,12 @@
 {
   "description": "The best songs from the new shows and the buzziest hits. Cover: Romeo + Juliet",
-  "num_followers": 111005,
+  "num_followers": 111017,
   "original_name": "Broadway Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy2MwAAAAADkWDjR30XZraybJ/RZH/qp",
+  "snapshot_id": "Zy2MwAAAAAAxEzefP/GsQVwg/P0zcNn5",
   "tracks": [
     {
       "added_at": "2024-10-25 04:00:00",
@@ -23,6 +23,30 @@
       "duration_ms": 173000,
       "name": "Man Of The House",
       "url": "https://open.spotify.com/track/3aIvJqEB3SN3aNvOfOo3CS"
+    },
+    {
+      "added_at": "2024-11-08 04:00:00",
+      "album": {
+        "name": "Starlight Express",
+        "url": "https://open.spotify.com/album/4QUyvzfxm7Njf88dFYSrr9"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Jeevan Braich",
+          "url": "https://open.spotify.com/artist/6LopWizUGU7UICdQ7MEkGr"
+        },
+        {
+          "name": "Kayna Montecillo",
+          "url": "https://open.spotify.com/artist/2IHsK4JgDj7rDVHQkLQ4Kx"
+        }
+      ],
+      "duration_ms": 257545,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/4hkPIQY5aulr2uH19cyVJl"
     },
     {
       "added_at": "2024-10-25 04:00:00",

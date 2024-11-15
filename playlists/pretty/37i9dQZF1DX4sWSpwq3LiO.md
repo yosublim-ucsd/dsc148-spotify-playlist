@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,616,331 likes - 198 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,616,991 likes - 198 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 197 | [Nightfall](https://open.spotify.com/track/3hy3BLtI2pYAGZOjNvg8Hy) | [Michael Lavigne](https://open.spotify.com/artist/1WzXXEpMoYGcwJbHPCUeXH) | [Nightfall](https://open.spotify.com/album/5z98Le17wsSnniPu0n3a0P) | 2:22 |
 | 198 | [inverno 1](https://open.spotify.com/track/4dHsrfybYMwR47LWYjLxR5) | [Sebastián Voyage](https://open.spotify.com/artist/6W70NZ4bj5yPSfEXH99JYN) | [inverno](https://open.spotify.com/album/1utXo2tIXx4QD4hxu7IiZC) | 2:00 |
 
-Snapshot ID: `ZzMsZQAAAACyEwhonQR/cVlp9sTv+XzY`
+Snapshot ID: `ZzMsZQAAAAAJxMfJCAvmVIkh0figKj8B`

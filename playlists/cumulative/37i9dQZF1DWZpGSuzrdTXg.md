@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zondag met deze zachte popliedjes.
 
-199 songs - 11 hr 22 min
+201 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Brother Sun/Sister Moon \- acoustic](https://open.spotify.com/track/1BbWvpPdh9rpy0ELSgfx6e) | [LYS](https://open.spotify.com/artist/6Kp9gMLqYA14HIrTitRJEQ) | [Brother Sun/Sister Moon \(acoustic\)](https://open.spotify.com/album/19OUAko1152hDfFkY9PM4F) | 3:34 | 2022-12-22 | 2024-03-15 |
 | [Burning Bodies \- Stripped Down Sessions](https://open.spotify.com/track/6u9zuTh8p4mZ6reEmtRY28) | [Sophie van Hasselt](https://open.spotify.com/artist/3r68N4ZRD3j8AfGrGvhMVm), [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Burning Bodies \(Stripped Down Sessions\)](https://open.spotify.com/album/5wVHMsxeEQWolOug4Z2odi) | 2:46 | 2023-04-27 |  |
 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 | 2023-02-16 |  |
+| [Carry You](https://open.spotify.com/track/7f1vgZPMtOj8g8V85pa3ld) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [A Little Light in the Dark](https://open.spotify.com/album/1lsjasOLDY9fe5MSAC1amY) | 3:22 | 2024-11-14 |  |
 | [Cat 13](https://open.spotify.com/track/5nFCcnOHsn6ORG0nzEctKo) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Cat 13](https://open.spotify.com/album/2F0d12TCgGRc5RbYHitxAN) | 3:03 | 2022-12-22 |  |
 | [Cesar \- Acoustic Version](https://open.spotify.com/track/5fThShCO8TaU6P6EoV2hQQ) | [Rosa Butsi](https://open.spotify.com/artist/2tcIUL0ZNEo2gnrBzNBz3L) | [Cesar \(Acoustic Version\)](https://open.spotify.com/album/0rsfDjem7f6t9yc5NPdzfl) | 3:00 | 2024-03-28 |  |
 | [Choose](https://open.spotify.com/track/0ALBvFlwYodhGu6COmVspJ) | [Joseph & Maia](https://open.spotify.com/artist/2dXGyySsUY7yYzCfMf6OSZ) | [Choose](https://open.spotify.com/album/5uXVaWOm6gjQLj4KQL3Cyc) | 2:50 | 2023-04-13 |  |
@@ -146,8 +147,9 @@
 | [Right Through Me](https://open.spotify.com/track/7HQ0kkdIswgLxz2X9Qm4ci) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [Right Through Me](https://open.spotify.com/album/60916foyRWkGRNvS0pDcEa) | 3:33 | 2022-12-22 | 2023-02-17 |
 | [Running Out \- Live From The Studio](https://open.spotify.com/track/2iAy8pc1c5qEyHBETuiVP4) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Running Out \(Live From The Studio\)](https://open.spotify.com/album/4UBss9tPBdE1Pjh5tvz6Vf) | 2:45 | 2022-12-22 | 2023-11-10 |
 | [Slow \- live from the van](https://open.spotify.com/track/5MYVjYsBYWWyMzGP628maz) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [Slow \(live from the van\)](https://open.spotify.com/album/7h7SwY5wjq13e42mKsr1x6) | 2:52 | 2024-07-18 |  |
+| [Soaking Skin](https://open.spotify.com/track/4NA7AmM3ZzekeRdAcVy3B7) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Troubled Waters](https://open.spotify.com/album/26PBL1D0ltBX7cXWm3luIm) | 3:04 | 2024-11-14 |  |
 | [Some Say](https://open.spotify.com/track/4poybupy26pTWPr9zY1i7h) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Some Say](https://open.spotify.com/album/5pCAWYym13GcQN8CXEb89m) | 2:55 | 2022-12-22 | 2023-10-21 |
-| [Something](https://open.spotify.com/track/7IJQuaOIWCR7g12hYTUO03) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl) | [Nowhere Land](https://open.spotify.com/album/4021vHEEjd1O4BRhW835UL) | 3:11 | 2022-12-22 |  |
+| [Something](https://open.spotify.com/track/7IJQuaOIWCR7g12hYTUO03) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl) | [Nowhere Land](https://open.spotify.com/album/4021vHEEjd1O4BRhW835UL) | 3:11 | 2022-12-22 | 2024-11-15 |
 | [Standing On The Edge \- Acoustic](https://open.spotify.com/track/3jgdUDYQC7JrENjQ5lWzdB) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [Standing On The Edge \(Acoustic\)](https://open.spotify.com/album/4H0brVQx6svIimL2T368KW) | 4:07 | 2023-10-20 |  |
 | [Stay cool](https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Stay cool](https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo) | 3:27 | 2024-02-14 |  |
 | [Stayed Up Late \- Sunrise Version](https://open.spotify.com/track/7utiiIHn9CNo9vVVBH0lss) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [Stayed Up Late \(Sunrise Version\)](https://open.spotify.com/album/1aixYOsjkfhVEIHUIbK2Zk) | 3:26 | 2023-03-16 |  |
@@ -190,7 +192,7 @@
 | [To Love Somebody](https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [To Love Somebody](https://open.spotify.com/album/5AvAQALNYpsHoHK98JE6j9) | 2:40 | 2022-12-22 |  |
 | [Trauma Queen](https://open.spotify.com/track/6mwsas6R2huXOPWsSHwwdd) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Trauma Queen](https://open.spotify.com/album/36UVYZUlxVJeff1qb61BMn) | 3:37 | 2024-07-25 |  |
 | [Twilight \- Acoustic](https://open.spotify.com/track/4th4jbIThqfYRY1x3U5zAw) | [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR) | [Twilight \(Acoustic\)](https://open.spotify.com/album/6SewIeR2LVxT7AQQw3oAL6) | 3:18 | 2024-05-09 |  |
-| [U&I](https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [U&I](https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB) | 2:33 | 2024-07-18 |  |
+| [U&I](https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [U&I](https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB) | 2:33 | 2024-07-18 | 2024-11-15 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2022-12-22 | 2023-02-24 |
 | [Wasn't Expecting That](https://open.spotify.com/track/1IWv7yYMFplrKaZDUldFJn) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Jamie Lawson](https://open.spotify.com/album/7qrYgKHSH8bIE5gSqXD5pR) | 3:21 | 2022-12-22 | 2023-04-26 |
 | [Weathered \- Stripped](https://open.spotify.com/track/3AnaM2KjdnVzEsyZJeWpa3) | [James Walker](https://open.spotify.com/artist/08cmuH6uJGH9dQjvvdkTvR) | [Weathered \(Stripped\)](https://open.spotify.com/album/5EwUclGhBBOHWtVbu8AIGu) | 4:08 | 2022-12-22 | 2023-12-16 |

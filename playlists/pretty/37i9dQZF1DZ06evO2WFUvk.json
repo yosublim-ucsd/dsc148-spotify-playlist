@@ -1,12 +1,12 @@
 {
   "description": "This is Rodrigo Gonzalez. The essential tracks, all in one playlist.",
-  "num_followers": 3557,
+  "num_followers": 3559,
   "original_name": "This Is Rodrigo Gonzalez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzKagAAAAAAuENHb0rUf1ciBYrhNOZty",
+  "snapshot_id": "ZzPsAAAAAAD+vc2PzNhy868zcxS4PJrJ",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,42 @@
       "duration_ms": 456000,
       "name": "Make Me Feel - Original Mix",
       "url": "https://open.spotify.com/track/77LQaMRRaciUEzl0NgQN2v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Decibels Loudness And Perception",
+        "url": "https://open.spotify.com/album/1KoSQBf2ODU0X0Udp5elrg"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 559369,
+      "name": "Close The Door - Original Mix",
+      "url": "https://open.spotify.com/track/3MJRf5wkPowDhcpiYEqidr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get In",
+        "url": "https://open.spotify.com/album/6yhTxkPv6HT28HS4k1hXef"
+      },
+      "artists": [
+        {
+          "name": "Mekane",
+          "url": "https://open.spotify.com/artist/5D9jBfim9QHqi1yijIEDLx"
+        },
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 390236,
+      "name": "Get In - Bass In A Box Remix",
+      "url": "https://open.spotify.com/track/4K2nNErTVNliBxHld6yBJM"
     }
   ],
   "unique_name": "This Is Rodrigo Gonzalez",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-12",
-  "description": "Suomen suurin ja paras rock-soittolista \u2620\ufe0f Kannessa AC/DC.",
+  "description": "Suomen suurin ja paras rock-soittolista \u2620\ufe0f Kannessa Linkin Park.",
   "name": "VOLUME SUOMI",
   "tracks": [
     {
@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "Dead Or Alive",
+        "url": "https://open.spotify.com/album/1XI9tZmvcoof83ZShzUwTL"
+      },
+      "artists": [
+        {
+          "name": "Thundermother",
+          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223533,
+      "name": "Dead Or Alive",
+      "url": "https://open.spotify.com/track/122jYbqBkC5X3TO7AKpFgo"
+    },
+    {
+      "album": {
         "name": "Rammstein",
         "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
       },
@@ -1066,6 +1084,24 @@
       "duration_ms": 204933,
       "name": "Last Call for Alcohol",
       "url": "https://open.spotify.com/track/0PpwlEkocq2ii1L9UELKMo"
+    },
+    {
+      "album": {
+        "name": "Leave A Mark",
+        "url": "https://open.spotify.com/album/7MruLUGiVz8AoQIk33Q1Qr"
+      },
+      "artists": [
+        {
+          "name": "The Hellacopters",
+          "url": "https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321253,
+      "name": "Leave A Mark",
+      "url": "https://open.spotify.com/track/6SztZEsKAomuZDLAHXcZHV"
     },
     {
       "album": {
@@ -2142,6 +2178,24 @@
       "duration_ms": 213028,
       "name": "Tokyo Love",
       "url": "https://open.spotify.com/track/3RgaZ9OAFzH3w58KKfIHoa"
+    },
+    {
+      "album": {
+        "name": "Two Faced",
+        "url": "https://open.spotify.com/album/4kksZlvAqineklmhltdTFe"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183584,
+      "name": "Two Faced",
+      "url": "https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt"
     },
     {
       "album": {

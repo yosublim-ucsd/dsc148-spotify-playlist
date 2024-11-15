@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lCCwWMB0TQ.md) - [plain]
 
 > Indie Brandneu presents..\. Die besten Indie Songs aus 2023\. Cover: Giant Rooks
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,208 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,205 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lCCwWMB0TQ.md) - [plain]
 | 49 | [Deep End](https://open.spotify.com/track/7pMn6EQalh10oL9cLInpHz) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [To Feel Something At All](https://open.spotify.com/album/46vIcaJA2Si8q22eFQkGEH) | 2:12 |
 | 50 | [Nowhere Game](https://open.spotify.com/track/3yT6Ho87fAxrvsbys6TGUx) | [Patrick Wolf](https://open.spotify.com/artist/6s92YZUPkTK1HL1WIGrPKE) | [Nowhere Game](https://open.spotify.com/album/3JZkS9acXygfFkIpMhi7o1) | 4:31 |
 
-Snapshot ID: `ZWcrgAAAAACoD4bK4ltkwNojZzaefqCK`
+Snapshot ID: `ZWcrgAAAAACT07QWhUgD7c5N6y4N2HCq`

@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: <spotify:artist:0qZ8aSF0iMCQI99AAXikF8\">ELEVATION RHYTHM</a>",
-  "num_followers": 137640,
+  "num_followers": 137674,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zno5BwAAAAA3XuLBMl6BtqengKdhE3aG",
+  "snapshot_id": "Zno5BwAAAAAegWBF5iRe/x8NvfpV9dkb",
   "tracks": [
     {
       "added_at": "2024-06-25 03:27:03",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Found in You",
-        "url": "https://open.spotify.com/album/3btcSIZAuSE60EVKR9nA0S"
-      },
-      "artists": [
-        {
-          "name": "Royal Company",
-          "url": "https://open.spotify.com/artist/1mXlcFsIJEMuF5GGXZcQ8t"
-        }
-      ],
-      "duration_ms": 194335,
-      "name": "Found in You",
-      "url": "https://open.spotify.com/track/1lMoKrAaLYNqkk2pyrqj0K"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Father, Son and Holy Ghost",
         "url": "https://open.spotify.com/album/7gXMkLx45jfDEZuw8zwJQk"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 245248,
       "name": "Father, Son and Holy Ghost",
       "url": "https://open.spotify.com/track/2AMk9AgjMvsIKbTvsT2bSE"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Found in You",
+        "url": "https://open.spotify.com/album/3btcSIZAuSE60EVKR9nA0S"
+      },
+      "artists": [
+        {
+          "name": "Royal Company",
+          "url": "https://open.spotify.com/artist/1mXlcFsIJEMuF5GGXZcQ8t"
+        }
+      ],
+      "duration_ms": 194335,
+      "name": "Found in You",
+      "url": "https://open.spotify.com/track/1lMoKrAaLYNqkk2pyrqj0K"
     },
     {
       "added_at": "2024-06-25 03:27:03",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 
 > From the alternative scene in Ghana\. Cover: Anabel Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,454 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,457 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 | 19 | [Work](https://open.spotify.com/track/3c0apNttNexOLb7QIliIdq) | [B4bonah](https://open.spotify.com/artist/533nTGirqEiUKwUcVxYWv8) | [Work](https://open.spotify.com/album/1nWVhBEmIBJiNN5vyuDmow) | 2:45 |
 | 20 | [227](https://open.spotify.com/track/7uaRn34hfMmwzDTNdTNvsY) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 4:13 |
 | 21 | [More Is More](https://open.spotify.com/track/7dGy7cVTTgS8arFD5lOYvP) | [ELi A Free](https://open.spotify.com/artist/6OO7XtWXbXexb35OPRtTsE), [Leon Eckard](https://open.spotify.com/artist/3M3Wa9QZFCbgxNmN5gg99t) | [More Is More](https://open.spotify.com/album/0qxfrOWBire8azbDPsIQHC) | 4:16 |
-| 22 | [LIE ME](https://open.spotify.com/track/0B1mjyJLEfM9dONF0i3gJz) | [Wanlov The Kubolor](https://open.spotify.com/artist/2XLD6g0IGqvFw7BLedIZqV) | [LIE ME](https://open.spotify.com/album/48AJnztPfgA5yXMvuskrQU) | 4:08 |
+| 22 | [Lie Me](https://open.spotify.com/track/0B1mjyJLEfM9dONF0i3gJz) | [Wanlov The Kubolor](https://open.spotify.com/artist/2XLD6g0IGqvFw7BLedIZqV) | [Lie Me](https://open.spotify.com/album/48AJnztPfgA5yXMvuskrQU) | 4:08 |
 | 23 | [Rollin'](https://open.spotify.com/track/28WdABswL19KArcoOwosy3) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Allan Harvey](https://open.spotify.com/artist/2CgKpJdeCBt658rjmY5DZt) | [Rollin'](https://open.spotify.com/album/3uFLUmeQvVrEoGqEbVwn6x) | 2:39 |
 | 24 | [Pasa \- Remix](https://open.spotify.com/track/5cp6IukocVZv2nfuC0IzIG) | [Korshi T](https://open.spotify.com/artist/6LYgIKATg0RJj86yCqAxnc), [B4bonah](https://open.spotify.com/artist/533nTGirqEiUKwUcVxYWv8) | [Pasa \(Remix\)](https://open.spotify.com/album/7IpuhVSAmSbo77kGi3vzhm) | 2:51 |
 | 25 | [Childish Things](https://open.spotify.com/track/24LP0o1fyKcGphTmVAM1BX) | [Dessireé](https://open.spotify.com/artist/56oWbpiLZ9gyUqOStbymZV), [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj), [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK) | [Childish Things](https://open.spotify.com/album/2Erd5FwOxshePLM7FbWujK) | 3:01 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 | 79 | [Replica \(The Greatest\)](https://open.spotify.com/track/14ptimZIzywSLwUrM178ls) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Replica \(The Greatest\)](https://open.spotify.com/album/2LyRbu8qkgdOnBJByouEil) | 2:23 |
 | 80 | [Come Follow Me](https://open.spotify.com/track/56T8loOtxEaHfa6R6zkDO3) | [Sena Dagadu](https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH) | [Come Follow Me](https://open.spotify.com/album/4f3SmSUYbf384SthvKjjFf) | 5:42 |
 
-Snapshot ID: `Zy1UvAAAAACT6lQtFV/oKKD/r38bA0S7`
+Snapshot ID: `Zy1UvAAAAAB6jcuzd0W6mx1O3X/XwRYC`

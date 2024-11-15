@@ -769,6 +769,24 @@
     },
     {
       "album": {
+        "name": "Imminent Light",
+        "url": "https://open.spotify.com/album/1QMLibbaVhq5CEdI0Wgx73"
+      },
+      "artists": [
+        {
+          "name": "Celtic Charm",
+          "url": "https://open.spotify.com/artist/3GRwfeqk1Aep2RmOliU5ix"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Distant Stone",
+      "url": "https://open.spotify.com/track/1voD0ahvtY5NRq7Ayb6jHM"
+    },
+    {
+      "album": {
         "name": "Down the River",
         "url": "https://open.spotify.com/album/1zU33D5pT0hbgkgRV7ThZj"
       },
@@ -2544,7 +2562,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 210416,
       "name": "Relax Me",
       "url": "https://open.spotify.com/track/0Bl3VuqBQMr38qvQe3Ct2c"
@@ -3588,6 +3606,24 @@
       "duration_ms": 122362,
       "name": "Written on the Sky",
       "url": "https://open.spotify.com/track/23Gjcxh2nK5cy1EnToKaCL"
+    },
+    {
+      "album": {
+        "name": "Zinnia",
+        "url": "https://open.spotify.com/album/22i7ONKuIruRnxv9EbHzXb"
+      },
+      "artists": [
+        {
+          "name": "Astral Equations",
+          "url": "https://open.spotify.com/artist/1Fzp7IB3LGYPLv1Xbot6ZM"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164345,
+      "name": "Zinnia",
+      "url": "https://open.spotify.com/track/4MgyFMLMPvaFgc9UmUgpVt"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6dZ7oW0l88P"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: VƯƠNG BÌNH
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,732 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,735 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Đêm dài miên man](https://open.spotify.com/track/5cJnsQW8Dkw8adRchRdgVS) | [Tin](https://open.spotify.com/artist/47RShPTeT0u9JaD1U0xhfF) | [Đêm dài miên man](https://open.spotify.com/album/2lBorok4F7cYEkArztZqs5) | 3:38 |
 | 100 | [The Moon](https://open.spotify.com/track/49xpOFWY0ZE6i0CMRbZWrE) | [Raven x Rabbit](https://open.spotify.com/artist/3EbhwySdn2EFUhSF55GM2v) | [The Moon](https://open.spotify.com/album/63MBBGv1incoPmXs0K1InV) | 3:50 |
 
-Snapshot ID: `ZzMXNAAAAADe3yqz/I1aP2Z9mWkdj3nV`
+Snapshot ID: `ZzMXNAAAAADoZjhqXEeHPXjGiMRdkn2l`

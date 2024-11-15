@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549?si=q1ZSuBFaSU6MjBSmr34w7A\">Porcelain Moon</a>",
+  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl?si=6utSTSAfRUauXA8Qe3OqUg\">Tyler Page</a>",
   "name": "Indie GO",
   "tracks": [
     {
@@ -1897,6 +1897,24 @@
     },
     {
       "album": {
+        "name": "BLUEBERRY",
+        "url": "https://open.spotify.com/album/4YBz6DeSzUCaQucSUTuW77"
+      },
+      "artists": [
+        {
+          "name": "NOT THE TWOS",
+          "url": "https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "BLUEBERRY",
+      "url": "https://open.spotify.com/track/7tTZKcbvZzbpPBjyLFj4UO"
+    },
+    {
+      "album": {
         "name": "Blueberry",
         "url": "https://open.spotify.com/album/0XkSA1wolCq7sk1P40FOZA"
       },
@@ -2942,7 +2960,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 180819,
       "name": "Close to Dying",
       "url": "https://open.spotify.com/track/4IpTVJKJU7Em4INGFY07EG"
@@ -3408,6 +3426,24 @@
       "duration_ms": 185010,
       "name": "Dancing By Myself",
       "url": "https://open.spotify.com/track/1FGS4DKeGwZdXStDpwyAxh"
+    },
+    {
+      "album": {
+        "name": "Dark Cities",
+        "url": "https://open.spotify.com/album/64zM4xWR7jXHrSacrhvOX4"
+      },
+      "artists": [
+        {
+          "name": "Tyler Page",
+          "url": "https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143571,
+      "name": "Dark Cities",
+      "url": "https://open.spotify.com/track/4jqyL1KFHD5PPOoAZrOcYe"
     },
     {
       "album": {
@@ -8909,6 +8945,24 @@
     },
     {
       "album": {
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/7j2JDbaGwdVfK1EmsBKyRi"
+      },
+      "artists": [
+        {
+          "name": "Joshua Morris",
+          "url": "https://open.spotify.com/artist/0fgysuyIdg2ZjnSePctoPn"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224132,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/3Fq1E1vErJKnx9j42rJG41"
+    },
+    {
+      "album": {
         "name": "Mended Dreams",
         "url": "https://open.spotify.com/album/2qFn1tpZeMBN2JX8RM1l2j"
       },
@@ -9786,7 +9840,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 151408,
       "name": "Nevermind.",
       "url": "https://open.spotify.com/track/31lU9LGAQ9UhrDBTwdvNm5"
@@ -14664,7 +14718,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 218933,
       "name": "The Story I've Told",
       "url": "https://open.spotify.com/track/0bKvBldhrGDTEmZrwAN9bO"

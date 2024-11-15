@@ -538,7 +538,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 223360,
       "name": "BABY U WANT ME (feat. Geolier & Michelangelo)",
       "url": "https://open.spotify.com/track/1VzaOchDWZJ5PliyvO24h7"
@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 147085,
       "name": "CORAGGIO",
       "url": "https://open.spotify.com/track/2l9Rb59UAkpSkX7QEuk2jz"
@@ -2442,7 +2442,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 189293,
       "name": "GI\u00c0 LO SAI (feat. Luch\u00e8)",
       "url": "https://open.spotify.com/track/0SxncNbbzm0Sq8SBy5N0Np"
@@ -2984,7 +2984,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 164739,
       "name": "JACQUEMUS BLU",
       "url": "https://open.spotify.com/track/4gkEnpK3NVo3mTQ2cBjgE0"
@@ -3266,7 +3266,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 188888,
       "name": "La Notte di San Lorenzo",
       "url": "https://open.spotify.com/track/3R3S0yqtESkFwJDpscvKfd"
@@ -3656,7 +3656,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 158700,
       "name": "MAKAI",
       "url": "https://open.spotify.com/track/7cIQHtaKW3l7OEEtFWm1pc"
@@ -6733,6 +6733,28 @@
     },
     {
       "album": {
+        "name": "CON I MIEI OCCHI",
+        "url": "https://open.spotify.com/album/0YB6tfcu3Te6wO80NCubtQ"
+      },
+      "artists": [
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Dele",
+          "url": "https://open.spotify.com/artist/58bdmuoVnCLzq3gqATaLLB"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184079,
+      "name": "SHOTGUN (Red Bull 64 Bars)",
+      "url": "https://open.spotify.com/track/2EKhvDiIAhUVOQx0bM1zR6"
+    },
+    {
+      "album": {
         "name": "Sincer (feat. Lele Blade & Icy Subzero)",
         "url": "https://open.spotify.com/album/7BBkLJQiEzHkFDbHy48rjd"
       },
@@ -6756,6 +6778,28 @@
       "duration_ms": 221204,
       "name": "Sincer (feat. Lele Blade & Icy Subzero)",
       "url": "https://open.spotify.com/track/5NA6KErStFT0zPk1VJiSWI"
+    },
+    {
+      "album": {
+        "name": "SKCH",
+        "url": "https://open.spotify.com/album/1zFMrXm2DOGoGHCpf8QWBn"
+      },
+      "artists": [
+        {
+          "name": "Shavi",
+          "url": "https://open.spotify.com/artist/6j3cFwWsq5GHasOrEIeqQk"
+        },
+        {
+          "name": "Andrea 17",
+          "url": "https://open.spotify.com/artist/5Vn0dDQGOTSdEyPVsXi0eo"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130692,
+      "name": "SKCH",
+      "url": "https://open.spotify.com/track/15tX3iZC62J4kn7CJOuB5o"
     },
     {
       "album": {
@@ -7545,6 +7589,24 @@
     },
     {
       "album": {
+        "name": "SKUGNIZZO",
+        "url": "https://open.spotify.com/album/1poMIogJXCAXbUhaVfc3P6"
+      },
+      "artists": [
+        {
+          "name": "Nicola Siciliano",
+          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155847,
+      "name": "TRAP",
+      "url": "https://open.spotify.com/track/3yNNheP6f1qfSvIPUcZIik"
+    },
+    {
+      "album": {
         "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e"
       },
@@ -7704,7 +7766,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 140307,
       "name": "TUTT 'OK",
       "url": "https://open.spotify.com/track/7v8iAdePrZZstcxNhiLpE5"
@@ -7856,7 +7918,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 174681,
       "name": "Umore",
       "url": "https://open.spotify.com/track/0jMQyLlQKwHoYKw2cAXbKs"

@@ -10703,6 +10703,28 @@
     },
     {
       "album": {
+        "name": "Si te Vas",
+        "url": "https://open.spotify.com/album/4C1XtgaJyNHJGmIg1v9jYV"
+      },
+      "artists": [
+        {
+          "name": "Facundo Majdalani",
+          "url": "https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A"
+        },
+        {
+          "name": "DANDARA",
+          "url": "https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225853,
+      "name": "Si te Vas",
+      "url": "https://open.spotify.com/track/6WRLeJo5Z889waku7dElld"
+    },
+    {
+      "album": {
         "name": "Sigo Buscandote",
         "url": "https://open.spotify.com/album/791xP0ZKGxYQtZo5CbUOXM"
       },

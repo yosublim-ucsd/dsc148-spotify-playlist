@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: <a href="spotify:artist:4KK2BzTIojD7LTz9ndsVGF">Lamboginny</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,064 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,118 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [I Will Always Love You](https://open.spotify.com/track/795eAv6Ix1XPJGvouopbuS) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [JOY](https://open.spotify.com/album/1jAFoyfgaKyHYq6GS9jvQS) | 5:05 |
 | 100 | [Giving Up](https://open.spotify.com/track/6Twxdjtv8rRPKs1MGhvnpi) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [A New Reality \(Deluxe Version\)](https://open.spotify.com/album/7cLkLPRP2tcPihrTg3Ciqf) | 3:35 |
 
-Snapshot ID: `Zy3pHwAAAAAcp6jbKUoCxgEC0fZf72YE`
+Snapshot ID: `Zy3pHwAAAADGCapFVRHmZrXfV0K4c+0X`

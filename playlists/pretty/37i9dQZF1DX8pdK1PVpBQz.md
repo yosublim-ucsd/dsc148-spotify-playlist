@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. <br/>Cover: Kee'ahn, Anthony Liddell, Jake Amy
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,895 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,916 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Saskia](https://open.spotify.com/track/1UGuySsNSRb93OSO2PWy76) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [If I Get In, Where Would I Go?](https://open.spotify.com/album/6wA2IXHY4Bsi6uZA2BgezN) | 4:12 |
 | 100 | [Lords Of Lithium](https://open.spotify.com/track/0dLpHtlWPyUbQI1thmPsHk) | [Pipe\-eye](https://open.spotify.com/artist/0Sh9OyckiAu6tBP2yiN6wf) | [Lords Of Lithium](https://open.spotify.com/album/6wqo3FDxv7Bms4zqsltDfp) | 3:23 |
 
-Snapshot ID: `ZzNRjAAAAABFR04hrVEPyaDZ5tg9tc33`
+Snapshot ID: `ZzNRjAAAAAD8FN2x4C0XnKFWAae4jcB8`

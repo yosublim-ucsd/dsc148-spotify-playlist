@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:0WqsT2a4CBuQ0LC7vrJD0H">Nino Paid</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,752 likes - 80 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,897 likes - 80 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 27 | [Hell & Back](https://open.spotify.com/track/5MeYjJQzooFInileBI8sep) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3) | [Hell & Back](https://open.spotify.com/album/7botdG14MtmZah2wMDh1Rf) | 2:45 |
 | 28 | [PAYMEAGRIP](https://open.spotify.com/track/5Ge82v421JbdEDzasoSchN) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [KAST GOT WINGS](https://open.spotify.com/album/39wP7bJBE7c61XHR4Sgp1N) | 2:04 |
 | 29 | [No Questions](https://open.spotify.com/track/5fBF6TcN4zJXmI9M8PW1Ri) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Yard Work 3](https://open.spotify.com/album/78CT8v621JLojFqkXVv17G) | 1:50 |
-| 30 | [DRAMA](https://open.spotify.com/track/0onShXGnisu2meDKLJtzix) | [D7](https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS), [RJ](https://open.spotify.com/artist/71IfPn1mb6lVyoHpjTntAF) | [DRAMA](https://open.spotify.com/album/3j81wWqxgPUrXX2cWhOICJ) | 3:12 |
+| 30 | [DRAMA](https://open.spotify.com/track/0onShXGnisu2meDKLJtzix) | [D7](https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS) | [DRAMA](https://open.spotify.com/album/3j81wWqxgPUrXX2cWhOICJ) | 3:12 |
 | 31 | [For Us](https://open.spotify.com/track/4PZInlAe9norwHBqjZGZTV) | [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a) | [Lovers & Friends \(Deluxe\)](https://open.spotify.com/album/0giPLwNlEMmok6u3QWcjBW) | 2:50 |
 | 32 | [sleepy & sheff \(feat\. Cash Cobain\)](https://open.spotify.com/track/53XCrYyxSyfC3rk7HcwARn) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [SEX DRIVE](https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh) | 2:32 |
 | 33 | [Masterpiece](https://open.spotify.com/track/6tnpw5No4aPQaYvh53AiPJ) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [MR\. R2R](https://open.spotify.com/album/3wayBXXQkgzlcK2LDVsJlv) | 2:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 79 | [Saint](https://open.spotify.com/track/7G9ONI7qXonWrsQCxiF3Ij) | [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Saint](https://open.spotify.com/album/3GfFsmvB3ZDsCIlIyStZx5) | 2:13 |
 | 80 | [GooD KarMa \(feat\. G Herbo\) \(Remix\)](https://open.spotify.com/track/7hxNLVhlL0rSt43qqfblGd) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [GooD KarMa \(feat\. G Herbo\) \(Remix\)](https://open.spotify.com/album/2KQypLnEPqHHtxVkFflHkP) | 2:30 |
 
-Snapshot ID: `ZzTi5wAAAADgeI9kcmWhOFAZmEuw5vcp`
+Snapshot ID: `ZzTi5wAAAABDrM3wq+9dc0JJ+LCxiT1k`

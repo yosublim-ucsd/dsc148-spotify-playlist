@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: MAMIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,821 likes - 55 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,828 likes - 55 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 54 | [Night Drive](https://open.spotify.com/track/7ayIUc03E8IinoiUDG2j6c) | [mints](https://open.spotify.com/artist/6mehI8OceoNGRHfevtc4l0) | [Night Drive](https://open.spotify.com/album/1TM1qazICftPwAhrhgeQtm) | 2:42 |
 | 55 | [UNIVERSE](https://open.spotify.com/track/5HQORp1f3Or6GZlnjZCjJI) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [UNIVERSE](https://open.spotify.com/album/6Q2X4utZSZjSV0suqWmESx) | 4:57 |
 
-Snapshot ID: `Zy3sCAAAAAAUnQfB7kKdpCLdNdZbSZ3s`
+Snapshot ID: `Zy3sCAAAAAAvcpn4uVpjyUECMILvVb1k`

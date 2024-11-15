@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Martino",
+  "description": "Il meglio dell'R&B italiano. Cover: anice, Night Skinny",
   "name": "anima R&B",
   "tracks": [
     {
@@ -226,7 +226,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 158974,
       "name": "713",
       "url": "https://open.spotify.com/track/7j40WhUtQj7BEkfzvfUSLF"
@@ -1027,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "basta",
+        "url": "https://open.spotify.com/album/1Ahdfr8AZZG2bfU7PVGrju"
+      },
+      "artists": [
+        {
+          "name": "Lil Markiese",
+          "url": "https://open.spotify.com/artist/3raaszvUEmOauJOMrrhg4I"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151333,
+      "name": "basta",
+      "url": "https://open.spotify.com/track/6kaIWnv5YDXbsRb5w69Euv"
+    },
+    {
+      "album": {
         "name": "BASTA SESSION N\u00b05 (feat. Mecna, Rare\u015f, fenoaltea, Goedi)",
         "url": "https://open.spotify.com/album/3sQ64U9PsBozOLzeBpma83"
       },
@@ -1544,7 +1562,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 171176,
       "name": "CALICE",
       "url": "https://open.spotify.com/track/1wkcCVyriNdZZhZRFPBb1j"
@@ -3182,7 +3200,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 121519,
       "name": "DISCESA",
       "url": "https://open.spotify.com/track/4UusFIpxBLxJVZZMeIJ1VU"
@@ -7350,7 +7368,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 156111,
       "name": "Nankurunaisa",
       "url": "https://open.spotify.com/track/7A8F6HdwUBYkE7TxpkxVCj"
@@ -7700,7 +7718,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 144025,
       "name": "No Me Llames",
       "url": "https://open.spotify.com/track/7qNPXRA4f17HVwrTvSQv54"
@@ -10305,6 +10323,24 @@
     },
     {
       "album": {
+        "name": "Scorpione",
+        "url": "https://open.spotify.com/album/6zyNdgewCfx6Hstz3g5xQi"
+      },
+      "artists": [
+        {
+          "name": "Angie",
+          "url": "https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143051,
+      "name": "Scorpione",
+      "url": "https://open.spotify.com/track/5AERJKSE77keQOpneV26rl"
+    },
+    {
+      "album": {
         "name": "Scusame (feat. SVM)",
         "url": "https://open.spotify.com/album/4xgf5oNHQaVvNkSCDepWUO"
       },
@@ -10320,7 +10356,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 166000,
       "name": "Scusame (feat. SVM)",
       "url": "https://open.spotify.com/track/6pXyhPamzXn79LFvMSrYZQ"
@@ -11044,7 +11080,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 183825,
       "name": "SONO IO",
       "url": "https://open.spotify.com/track/3gJLtSkDcgj1K8RDUej7H7"
@@ -11098,7 +11134,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 172079,
       "name": "Sotto Effetto",
       "url": "https://open.spotify.com/track/5AoTOyFrguTiDH1YCCHZMh"
@@ -11783,6 +11819,28 @@
     },
     {
       "album": {
+        "name": "T CHIED SCUS (feat. MV Killa)",
+        "url": "https://open.spotify.com/album/6lGW9erOSZJYSrCLdDXKMG"
+      },
+      "artists": [
+        {
+          "name": "Plug",
+          "url": "https://open.spotify.com/artist/0PWa13NHPcTgfyBlIkjjBx"
+        },
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180358,
+      "name": "T CHIED SCUS (feat. MV Killa)",
+      "url": "https://open.spotify.com/track/4jRjSo35oT1FjdOgUTuS1i"
+    },
+    {
+      "album": {
         "name": "Tabasco",
         "url": "https://open.spotify.com/album/6pN5JrrVnouYM8LSYmOFMe"
       },
@@ -11972,6 +12030,28 @@
       "duration_ms": 155948,
       "name": "Threeway",
       "url": "https://open.spotify.com/track/0JhPjKFuDsmBvMBdzcu8uS"
+    },
+    {
+      "album": {
+        "name": "tiv\u00f9 (prod. Night Skinny)",
+        "url": "https://open.spotify.com/album/4XS9V9SP8L92wLHgyn7z7n"
+      },
+      "artists": [
+        {
+          "name": "anice",
+          "url": "https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "tiv\u00f9 (prod. Night Skinny)",
+      "url": "https://open.spotify.com/track/6rLucMumW03LDVEUU2yxB1"
     },
     {
       "album": {

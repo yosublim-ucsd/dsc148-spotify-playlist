@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2024.",
-  "num_followers": 2946,
+  "num_followers": 2947,
   "original_name": "BISE Festival 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZaVr9AAAAACiAZjZJhXxvlFShN6GJZVV",
+  "snapshot_id": "ZaVr9AAAAABGyRq6+72kw/+kY+ZrfMnf",
   "tracks": [
     {
       "added_at": "2023-11-23 11:08:33",
@@ -489,6 +489,38 @@
       "url": "https://open.spotify.com/track/3dArn7SqBbcAXsS4cExG7K"
     },
     {
+      "added_at": "2024-01-15 17:31:32",
+      "album": {
+        "name": "528Hz",
+        "url": "https://open.spotify.com/album/7i6HxReY7m9wHSOdh3au8V"
+      },
+      "artists": [
+        {
+          "name": "\u00c9NA\u00c9",
+          "url": "https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM"
+        }
+      ],
+      "duration_ms": 165833,
+      "name": "Don't Waste My Time",
+      "url": "https://open.spotify.com/track/4fJ0WgBtMm3pFlt8E0IBql"
+    },
+    {
+      "added_at": "2024-01-15 17:31:32",
+      "album": {
+        "name": "Otak\u00e9",
+        "url": "https://open.spotify.com/album/4TvKEe8IhuQfjJ8OmDBY5X"
+      },
+      "artists": [
+        {
+          "name": "Makoto San",
+          "url": "https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr"
+        }
+      ],
+      "duration_ms": 393146,
+      "name": "Otak\u00e9",
+      "url": "https://open.spotify.com/track/3n6228HfZMeTX07O1XkZDc"
+    },
+    {
       "added_at": "2023-11-23 11:08:33",
       "album": {
         "name": "Disquette #1 Roots",
@@ -511,38 +543,6 @@
       "duration_ms": 143281,
       "name": "Massage Gun",
       "url": "https://open.spotify.com/track/7vI6yGTEqPtZ1qKdF9KVoq"
-    },
-    {
-      "added_at": "2024-01-15 17:31:32",
-      "album": {
-        "name": "Otak\u00e9",
-        "url": "https://open.spotify.com/album/4TvKEe8IhuQfjJ8OmDBY5X"
-      },
-      "artists": [
-        {
-          "name": "Makoto San",
-          "url": "https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr"
-        }
-      ],
-      "duration_ms": 393146,
-      "name": "Otak\u00e9",
-      "url": "https://open.spotify.com/track/3n6228HfZMeTX07O1XkZDc"
-    },
-    {
-      "added_at": "2024-01-15 17:31:32",
-      "album": {
-        "name": "528Hz",
-        "url": "https://open.spotify.com/album/7i6HxReY7m9wHSOdh3au8V"
-      },
-      "artists": [
-        {
-          "name": "\u00c9NA\u00c9",
-          "url": "https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM"
-        }
-      ],
-      "duration_ms": 165833,
-      "name": "Don't Waste My Time",
-      "url": "https://open.spotify.com/track/4fJ0WgBtMm3pFlt8E0IBql"
     },
     {
       "added_at": "2023-11-23 11:08:33",

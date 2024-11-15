@@ -1,13 +1,89 @@
 {
-  "description": "Naye Indie gaano ka khazana! Cover - Anumita Nadesan",
-  "num_followers": 72667,
+  "description": "Naye Indie gaano ka khazana! Cover - Raghav Meattle, Mali",
+  "num_followers": 72682,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy24MQAAAABmqU1MdnnXAGJ4KsAfvMZf",
+  "snapshot_id": "ZzaPAAAAAABXRQT4HqMnqAO8OhZUZSG8",
   "tracks": [
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
+        "name": "Waiting On",
+        "url": "https://open.spotify.com/album/3W5FsrJWiH3k2pymn0AK4O"
+      },
+      "artists": [
+        {
+          "name": "Raghav Meattle",
+          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
+        },
+        {
+          "name": "Mali",
+          "url": "https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN"
+        }
+      ],
+      "duration_ms": 155838,
+      "name": "Waiting On",
+      "url": "https://open.spotify.com/track/2m17uAqJyX5bGorHtA6NF0"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
+        "name": "Laage Re",
+        "url": "https://open.spotify.com/album/6x1vRmmbWzbMJEsYT9vI0d"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Rao",
+          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
+        }
+      ],
+      "duration_ms": 181318,
+      "name": "Laage Re",
+      "url": "https://open.spotify.com/track/0xVIhYZR0407dviqiPIUk6"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
+        "name": "Baalam",
+        "url": "https://open.spotify.com/album/2PjcTTSCszEjfMRT7hiIK2"
+      },
+      "artists": [
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        },
+        {
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+        }
+      ],
+      "duration_ms": 260952,
+      "name": "Baalam",
+      "url": "https://open.spotify.com/track/6nVouCfWYhoA5mxaCeezNy"
+    },
+    {
+      "added_at": "2024-11-15 00:00:00",
+      "album": {
+        "name": "Aitbaar",
+        "url": "https://open.spotify.com/album/0qS3hXrt4HizWoH0S6Icfq"
+      },
+      "artists": [
+        {
+          "name": "Garvit - Priyansh",
+          "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
+        },
+        {
+          "name": "Vision",
+          "url": "https://open.spotify.com/artist/0SqdljKM9fqIV6fuxQOlUI"
+        }
+      ],
+      "duration_ms": 158350,
+      "name": "Aitbaar",
+      "url": "https://open.spotify.com/track/3FV4KyYTCRgt9SYhVqi9ss"
+    },
     {
       "added_at": "2024-11-08 07:05:21",
       "album": {
@@ -995,26 +1071,6 @@
     {
       "added_at": "2024-11-08 07:05:21",
       "album": {
-        "name": "Khud Se",
-        "url": "https://open.spotify.com/album/0ykRojAnPphahWgJswdACe"
-      },
-      "artists": [
-        {
-          "name": "NAALAYAK",
-          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
-        },
-        {
-          "name": "Firaag",
-          "url": "https://open.spotify.com/artist/1M3X7wjEBGGXvVY9z6E1bz"
-        }
-      ],
-      "duration_ms": 131400,
-      "name": "Khud Se",
-      "url": "https://open.spotify.com/track/0JKq0Alek0Is1goCLJfxaz"
-    },
-    {
-      "added_at": "2024-11-08 07:05:21",
-      "album": {
         "name": "Kaise",
         "url": "https://open.spotify.com/album/3PIVEeI66FaG2u0IFiSHpa"
       },
@@ -1059,26 +1115,6 @@
       "duration_ms": 204000,
       "name": "Bandh Aankhein",
       "url": "https://open.spotify.com/track/5RDas0NITNlZ5auekdbHiP"
-    },
-    {
-      "added_at": "2024-11-08 07:05:21",
-      "album": {
-        "name": "Koi Aayega",
-        "url": "https://open.spotify.com/album/1GG363ypMjGaD4Y89Jd0iF"
-      },
-      "artists": [
-        {
-          "name": "Pulkit Jain",
-          "url": "https://open.spotify.com/artist/1XUV920NkslALtUg2Msk4U"
-        },
-        {
-          "name": "PALAK",
-          "url": "https://open.spotify.com/artist/647Uu49eunQT9Xe1LIFykI"
-        }
-      ],
-      "duration_ms": 186874,
-      "name": "Koi Aayega",
-      "url": "https://open.spotify.com/track/4rAW3JZn2LjEueC8OKVQQV"
     },
     {
       "added_at": "2024-11-08 07:05:21",
@@ -1171,26 +1207,6 @@
     {
       "added_at": "2024-11-08 07:05:21",
       "album": {
-        "name": "Chaand Ye Taare",
-        "url": "https://open.spotify.com/album/7Ily4txr7VnJ7pBW3SuHYl"
-      },
-      "artists": [
-        {
-          "name": "Shriya Jain",
-          "url": "https://open.spotify.com/artist/0c387MWgOTvHKXGmulrUtZ"
-        },
-        {
-          "name": "Abir",
-          "url": "https://open.spotify.com/artist/0XHapa0VH6XHwA3wlqextO"
-        }
-      ],
-      "duration_ms": 188081,
-      "name": "Chaand Ye Taare",
-      "url": "https://open.spotify.com/track/6ubWEMPGH6hHcjv7QATbpR"
-    },
-    {
-      "added_at": "2024-11-08 07:05:21",
-      "album": {
         "name": "Dastaan",
         "url": "https://open.spotify.com/album/0tvlw2SKjRe1h2XnKWAprx"
       },
@@ -1215,30 +1231,6 @@
       "duration_ms": 186760,
       "name": "Dastaan",
       "url": "https://open.spotify.com/track/1D8SWLARFABifWTJ0QMELf"
-    },
-    {
-      "added_at": "2024-11-08 07:05:21",
-      "album": {
-        "name": "Bolo Na",
-        "url": "https://open.spotify.com/album/3DbjQTbIy679U7SufnWRuf"
-      },
-      "artists": [
-        {
-          "name": "Aditi Raj",
-          "url": "https://open.spotify.com/artist/2D793ikB8gkaPFFbFkMgS7"
-        },
-        {
-          "name": "Khwaab",
-          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
-        },
-        {
-          "name": "Rahul Shah",
-          "url": "https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu"
-        }
-      ],
-      "duration_ms": 182408,
-      "name": "Bolo Na",
-      "url": "https://open.spotify.com/track/4gykSpn0bOprFfyfDtHfKd"
     },
     {
       "added_at": "2024-11-08 07:05:21",

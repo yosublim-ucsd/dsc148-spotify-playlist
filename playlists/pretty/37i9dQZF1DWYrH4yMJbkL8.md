@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Carsen Gray.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,063 likes - 30 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,069 likes - 30 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 29 | [Turtle Island](https://open.spotify.com/track/6IKdfnT4mCKAxVLATqFcU6) | [David Strickland](https://open.spotify.com/artist/3uiLDKuZbSyPRh7wdzT56G), [Supaman](https://open.spotify.com/artist/0GBYlnXBzFnCGiaH6dLb6j), [Artson](https://open.spotify.com/artist/7Dzu0aRbGc5HeuinVd5dMW), [Spade](https://open.spotify.com/artist/4HQRRPsZ2GjBkF0VHk3iiO), [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs), [Whitey Don](https://open.spotify.com/artist/2iYf0bMHFlBAseIQ6tgMZD) | [Spirit of Hip Hop](https://open.spotify.com/album/7zZe66cl3DdsQAcTe5QkC3) | 4:33 |
 | 30 | [The Creator](https://open.spotify.com/track/4EdmupTydFCm7YnkK671Io) | [Rhonda Head](https://open.spotify.com/artist/3TM5QL6rMaRf3b4ktSrX8N) | [Nikumoon](https://open.spotify.com/album/2SDpvNWyquIfvczgJiXX5R) | 2:23 |
 
-Snapshot ID: `Zy2a0AAAAACWgDnq82mCjMDG8RlrcGw/`
+Snapshot ID: `Zy2a0AAAAAD//XAaYMeLxk+jhNSuStPw`

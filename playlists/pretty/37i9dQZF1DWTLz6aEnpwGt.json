@@ -1,12 +1,12 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 56632,
+  "num_followers": 56666,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw6I/gAAAAAf6KjvTJaiLH8oqDP8eiBh",
+  "snapshot_id": "Zw6I/gAAAABVLjZNvI4T6qB4Ku3zM9G0",
   "tracks": [
     {
       "added_at": "2024-10-15 15:23:42",
@@ -303,6 +303,26 @@
     {
       "added_at": "2024-10-15 15:23:42",
       "album": {
+        "name": "Johann Sebastian Bach: The French Suites",
+        "url": "https://open.spotify.com/album/50Tp1V8zhhorvJmhWBVSY8"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "duration_ms": 144280,
+      "name": "French Suite No. 4 in E-Flat Major, BWV 815: VII. Gigue",
+      "url": "https://open.spotify.com/track/6R0Snb8fZUpfmzX7jCvSfc"
+    },
+    {
+      "added_at": "2024-10-15 15:23:42",
+      "album": {
         "name": "Bach",
         "url": "https://open.spotify.com/album/5kKkGS4pzAehXKcvrZEF9M"
       },
@@ -323,26 +343,6 @@
       "duration_ms": 297280,
       "name": "Concerto for 2 Harpsichords, Strings & Continuo in C Major, BWV 1061: 2. Adagio ovvero Largo (performed on two pianos)",
       "url": "https://open.spotify.com/track/1MikehMkm3ZWWV1R7C0sgG"
-    },
-    {
-      "added_at": "2024-10-15 15:23:42",
-      "album": {
-        "name": "Johann Sebastian Bach: The French Suites",
-        "url": "https://open.spotify.com/album/50Tp1V8zhhorvJmhWBVSY8"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Murray Perahia",
-          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
-        }
-      ],
-      "duration_ms": 144280,
-      "name": "French Suite No. 4 in E-Flat Major, BWV 815: VII. Gigue",
-      "url": "https://open.spotify.com/track/6R0Snb8fZUpfmzX7jCvSfc"
     },
     {
       "added_at": "2024-10-15 15:23:42",
@@ -619,26 +619,6 @@
     {
       "added_at": "2024-10-15 15:23:42",
       "album": {
-        "name": "Bach, J.S.: Favourite Piano Works",
-        "url": "https://open.spotify.com/album/77gPyAB4JVRfevI48PRIpS"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Janos Sebestyen",
-          "url": "https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "Concerto in the Italian Style in F Major, BWV 971: I. Allegro",
-      "url": "https://open.spotify.com/track/5vaj19JrnNJfkdKgMRXUiV"
-    },
-    {
-      "added_at": "2024-10-15 15:23:42",
-      "album": {
         "name": "Bach: Concertos italiens",
         "url": "https://open.spotify.com/album/5evVqOt9b6mgDO6Cqfik0F"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 253413,
       "name": "Adagio in D Minor, BWV 974: II. Adagio",
       "url": "https://open.spotify.com/track/4a8dR8XKOBOMxUSr8UT58W"
+    },
+    {
+      "added_at": "2024-10-15 15:23:42",
+      "album": {
+        "name": "Bach, J.S.: Favourite Piano Works",
+        "url": "https://open.spotify.com/album/77gPyAB4JVRfevI48PRIpS"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Janos Sebestyen",
+          "url": "https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Concerto in the Italian Style in F Major, BWV 971: I. Allegro",
+      "url": "https://open.spotify.com/track/5vaj19JrnNJfkdKgMRXUiV"
     },
     {
       "added_at": "2024-10-15 15:23:42",

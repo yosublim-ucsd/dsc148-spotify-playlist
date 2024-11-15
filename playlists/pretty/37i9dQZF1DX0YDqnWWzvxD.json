@@ -1,12 +1,12 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 164930,
+  "num_followers": 165216,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzS/9wAAAABJ9w+e9AqOnonsuRCvoKzC",
+  "snapshot_id": "ZzS/9wAAAAAtkjWRiRj+K1I9xLxVfTxh",
   "tracks": [
     {
       "added_at": "2023-12-01 09:10:43",
@@ -245,22 +245,6 @@
       "url": "https://open.spotify.com/track/3DNakDCMuqiAruLyfFpGo2"
     },
     {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Bedside Angels",
-        "url": "https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Stills",
-          "url": "https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r"
-        }
-      ],
-      "duration_ms": 134504,
-      "name": "Bedside Angels",
-      "url": "https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k"
-    },
-    {
       "added_at": "2023-12-01 09:10:43",
       "album": {
         "name": "Yoga Dream",
@@ -279,18 +263,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Romantic Evening Ragas'",
-        "url": "https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM"
+        "name": "Bedside Angels",
+        "url": "https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq"
       },
       "artists": [
         {
-          "name": "Rakesh Chaurasia",
-          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+          "name": "Sleepy Stills",
+          "url": "https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r"
         }
       ],
-      "duration_ms": 172640,
-      "name": "Raga Hemavati (Flute)",
-      "url": "https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F"
+      "duration_ms": 134504,
+      "name": "Bedside Angels",
+      "url": "https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -307,6 +291,22 @@
       "duration_ms": 161442,
       "name": "The Healing Process",
       "url": "https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Romantic Evening Ragas'",
+        "url": "https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM"
+      },
+      "artists": [
+        {
+          "name": "Rakesh Chaurasia",
+          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+        }
+      ],
+      "duration_ms": 172640,
+      "name": "Raga Hemavati (Flute)",
+      "url": "https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F"
     },
     {
       "added_at": "2023-12-01 09:10:43",
@@ -495,6 +495,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Benny Bernstein",
+        "url": "https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM"
+      },
+      "artists": [
+        {
+          "name": "Benny Bernstein",
+          "url": "https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM"
+        }
+      ],
+      "duration_ms": 154246,
+      "name": "Conscious Jorney",
+      "url": "https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Chakra Healing",
         "url": "https://open.spotify.com/album/6t4rYseNh2Ct0QXXoXH56O"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 465893,
       "name": "Heart Chakra - Breath of Love",
       "url": "https://open.spotify.com/track/0AvQspmvZCDfbTAJVphhwW"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Benny Bernstein",
-        "url": "https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM"
-      },
-      "artists": [
-        {
-          "name": "Benny Bernstein",
-          "url": "https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM"
-        }
-      ],
-      "duration_ms": 154246,
-      "name": "Conscious Jorney",
-      "url": "https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -625,6 +625,30 @@
       "url": "https://open.spotify.com/track/2dzq1Q3e8ojTtuaB70DT9j"
     },
     {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Harmonic Way",
+        "url": "https://open.spotify.com/album/61O6B4dVDTH1WutQUSd9W0"
+      },
+      "artists": [
+        {
+          "name": "Dean Evenson",
+          "url": "https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi"
+        },
+        {
+          "name": "Scott Huckabay",
+          "url": "https://open.spotify.com/artist/5NO9Da4kOYrg9E6iGhYQjg"
+        },
+        {
+          "name": "Phil Heaven",
+          "url": "https://open.spotify.com/artist/2LvimbnpvtfVNDdv37EoUQ"
+        }
+      ],
+      "duration_ms": 335533,
+      "name": "Resonant Wave",
+      "url": "https://open.spotify.com/track/6HwWUWAb0LofLu9TmdlPen"
+    },
+    {
       "added_at": "2023-06-27 05:36:24",
       "album": {
         "name": "Silhouette",
@@ -655,30 +679,6 @@
       "duration_ms": 332333,
       "name": "At Ease",
       "url": "https://open.spotify.com/track/3Y60FrikUPyqB0LQkxxsbf"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Harmonic Way",
-        "url": "https://open.spotify.com/album/61O6B4dVDTH1WutQUSd9W0"
-      },
-      "artists": [
-        {
-          "name": "Dean Evenson",
-          "url": "https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi"
-        },
-        {
-          "name": "Scott Huckabay",
-          "url": "https://open.spotify.com/artist/5NO9Da4kOYrg9E6iGhYQjg"
-        },
-        {
-          "name": "Phil Heaven",
-          "url": "https://open.spotify.com/artist/2LvimbnpvtfVNDdv37EoUQ"
-        }
-      ],
-      "duration_ms": 335533,
-      "name": "Resonant Wave",
-      "url": "https://open.spotify.com/track/6HwWUWAb0LofLu9TmdlPen"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -747,6 +747,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "OM Yoga Mix",
+        "url": "https://open.spotify.com/album/29AsaeGR8iCXv5hBxYzP9P"
+      },
+      "artists": [
+        {
+          "name": "Steve Gorn",
+          "url": "https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC"
+        }
+      ],
+      "duration_ms": 686333,
+      "name": "Indian Nights",
+      "url": "https://open.spotify.com/track/0tqngYytTrZi44CRIWnVz7"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Long Long Sleep",
         "url": "https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 581266,
       "name": "Descending",
       "url": "https://open.spotify.com/track/2zyIF3bu7REVrFEbCkKeqR"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "OM Yoga Mix",
-        "url": "https://open.spotify.com/album/29AsaeGR8iCXv5hBxYzP9P"
-      },
-      "artists": [
-        {
-          "name": "Steve Gorn",
-          "url": "https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC"
-        }
-      ],
-      "duration_ms": 686333,
-      "name": "Indian Nights",
-      "url": "https://open.spotify.com/track/0tqngYytTrZi44CRIWnVz7"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -959,6 +959,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "E T",
+        "url": "https://open.spotify.com/album/1NSrJbZlKyM30VqMvMucwd"
+      },
+      "artists": [
+        {
+          "name": "Intentional Vibes",
+          "url": "https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr"
+        }
+      ],
+      "duration_ms": 226363,
+      "name": "...There You Are!",
+      "url": "https://open.spotify.com/track/37bWNUTzhM1DvYyOEXY0rC"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Zen Music for Relaxation Vol. 1 & 2",
         "url": "https://open.spotify.com/album/1BfQqPK7yJwwTsyfCyXrts"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 288298,
       "name": "REM Deep Sleep Inducing",
       "url": "https://open.spotify.com/track/3X1At2FYGBPDDvrAkWUXCZ"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "E T",
-        "url": "https://open.spotify.com/album/1NSrJbZlKyM30VqMvMucwd"
-      },
-      "artists": [
-        {
-          "name": "Intentional Vibes",
-          "url": "https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr"
-        }
-      ],
-      "duration_ms": 226363,
-      "name": "...There You Are!",
-      "url": "https://open.spotify.com/track/37bWNUTzhM1DvYyOEXY0rC"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Surya Namaskar Yoga \u2013 Sun Salutation, Daily Hatha Yoga Positions for Flexibility, Inner Harmony, Self Realization, Restorative Exercises",
-        "url": "https://open.spotify.com/album/35ttLwLhafRkRqUs3NdcKu"
-      },
-      "artists": [
-        {
-          "name": "Kundalini Yoga Group",
-          "url": "https://open.spotify.com/artist/4L2nirlX7Znfz3XXxapKoV"
-        }
-      ],
-      "duration_ms": 215020,
-      "name": "Savasana Yoga",
-      "url": "https://open.spotify.com/track/30U8kxFDv8QL8fHKBoImSq"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Zen Music for Massage: Tranquility & Total Relax, Ambient Nature Sounds, Gentle Touch, Relaxing Music",
         "url": "https://open.spotify.com/album/6cIqo6O7PyK0u2ojZG9FsA"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Meditation: Calming Music for the Mind",
-        "url": "https://open.spotify.com/album/2xhFslzajcYSY1mHYD4j0k"
+        "name": "Surya Namaskar Yoga \u2013 Sun Salutation, Daily Hatha Yoga Positions for Flexibility, Inner Harmony, Self Realization, Restorative Exercises",
+        "url": "https://open.spotify.com/album/35ttLwLhafRkRqUs3NdcKu"
       },
       "artists": [
         {
-          "name": "Ambient",
-          "url": "https://open.spotify.com/artist/3J3ZL8cDJpD90GxfzsQG69"
+          "name": "Kundalini Yoga Group",
+          "url": "https://open.spotify.com/artist/4L2nirlX7Znfz3XXxapKoV"
         }
       ],
-      "duration_ms": 236067,
-      "name": "Charukeshi",
-      "url": "https://open.spotify.com/track/4wxYGoGV4pJjr2fGi0TOUI"
+      "duration_ms": 215020,
+      "name": "Savasana Yoga",
+      "url": "https://open.spotify.com/track/30U8kxFDv8QL8fHKBoImSq"
     },
     {
       "added_at": "2023-06-27 05:36:24",
@@ -1335,6 +1319,22 @@
       "duration_ms": 160374,
       "name": "Beauty of Hope",
       "url": "https://open.spotify.com/track/2FEewP7EII83tgFLNp6BuV"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Meditation: Calming Music for the Mind",
+        "url": "https://open.spotify.com/album/2xhFslzajcYSY1mHYD4j0k"
+      },
+      "artists": [
+        {
+          "name": "Ambient",
+          "url": "https://open.spotify.com/artist/3J3ZL8cDJpD90GxfzsQG69"
+        }
+      ],
+      "duration_ms": 236067,
+      "name": "Charukeshi",
+      "url": "https://open.spotify.com/track/4wxYGoGV4pJjr2fGi0TOUI"
     },
     {
       "added_at": "2021-06-15 08:38:14",

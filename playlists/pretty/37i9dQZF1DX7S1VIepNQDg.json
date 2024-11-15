@@ -1,12 +1,12 @@
 {
   "description": "Got that summertime feeling \ud83c\udf34",
-  "num_followers": 60387,
+  "num_followers": 60386,
   "original_name": "Pool Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZYFdTwAAAADMQfl7zq8L4NmkvgefwVpn",
+  "snapshot_id": "ZYFdTwAAAAC/0IrYhyuu0kN+B9YMqXXn",
   "tracks": [
     {
       "added_at": "2023-12-19 09:07:27",
@@ -703,18 +703,22 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Chiaroscuro",
-        "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
+        "name": "Things Don't Always Go The Way You Plan",
+        "url": "https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n"
       },
       "artists": [
         {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Isabella Manfredi",
+          "url": "https://open.spotify.com/artist/0ROrzjhRCZbJil5PjS9yG9"
         }
       ],
-      "duration_ms": 253076,
-      "name": "Confidence",
-      "url": "https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3"
+      "duration_ms": 233859,
+      "name": "Rhinestone 1.7.2 [2018 Export Wav] feat. Isabella Manfredi",
+      "url": "https://open.spotify.com/track/06gtPF7fljlItis2PohQP0"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -735,22 +739,18 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Things Don't Always Go The Way You Plan",
-        "url": "https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n"
+        "name": "Chiaroscuro",
+        "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Isabella Manfredi",
-          "url": "https://open.spotify.com/artist/0ROrzjhRCZbJil5PjS9yG9"
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
         }
       ],
-      "duration_ms": 233859,
-      "name": "Rhinestone 1.7.2 [2018 Export Wav] feat. Isabella Manfredi",
-      "url": "https://open.spotify.com/track/06gtPF7fljlItis2PohQP0"
+      "duration_ms": 253076,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3"
     },
     {
       "added_at": "2023-12-19 09:07:27",

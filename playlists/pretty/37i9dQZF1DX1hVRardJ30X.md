@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Danny Ocean and Kapo, KAROL G, Nicki Nicole and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,867 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,905 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 49 | [Stripper Xxx](https://open.spotify.com/track/0x212FYWTiJ6pSp2hXvgTq) | [Derek Santana](https://open.spotify.com/artist/5NX9cIWJ0YF8qUugwmiacs) | [Stripper Xxx](https://open.spotify.com/album/1vh8IdfAI8DfO3F9WCsdId) | 2:30 |
 | 50 | [Himnos](https://open.spotify.com/track/1vqN01KAW5EQKcMjyPfKUW) | [Chune](https://open.spotify.com/artist/0M8yh4QnShC2YBY1TGznCm), [Ajota](https://open.spotify.com/artist/6OhyIe7fqCtjJ34draKJQt) | [Himnos](https://open.spotify.com/album/6QYTNzPwwMMc2cSPzitQm1) | 2:32 |
 
-Snapshot ID: `Zy57RgAAAACIKn15QCosVwU23nSWWSz5`
+Snapshot ID: `Zy57RgAAAABcXkXBrM95AuC9UO5uvs9Y`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/57bqeusfyDsCIt1qDA1J9I\">wiesner</a>",
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k?si=zsG4AiBaTyWV4-BZYzNchg\">We Kill Cowboys</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -1223,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "Burn The Witch",
+        "url": "https://open.spotify.com/album/6rxwdPtLqT7lAu2vN2GqNC"
+      },
+      "artists": [
+        {
+          "name": "We Kill Cowboys",
+          "url": "https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195711,
+      "name": "Burn The Witch",
+      "url": "https://open.spotify.com/track/1giJa0VnP9hpUN8IMdszl0"
+    },
+    {
+      "album": {
         "name": "Burning Building",
         "url": "https://open.spotify.com/album/7L0sDlplj7LoHjZ7mj2ETT"
       },
@@ -1494,6 +1512,24 @@
       "duration_ms": 249782,
       "name": "Come Back to Me",
       "url": "https://open.spotify.com/track/6IaBSKJbUHfH3MgRmLIr5p"
+    },
+    {
+      "album": {
+        "name": "Forgotten Songs: E.P. 2 \u2013 Covers and Remixes",
+        "url": "https://open.spotify.com/album/6okRMNWu7PNStw4YTyJ6ub"
+      },
+      "artists": [
+        {
+          "name": "The Parlotones",
+          "url": "https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181546,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/6uKOEk9ryr95USxLQvjoqK"
     },
     {
       "album": {
@@ -3396,7 +3432,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 171827,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/3a0WSCG2YeMNPcAl97ZRJC"
@@ -3812,7 +3848,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 171812,
       "name": "Holy Rollers",
       "url": "https://open.spotify.com/track/07lvzlEPEPskQMVbePhE9u"
@@ -3852,6 +3888,24 @@
       "duration_ms": 177713,
       "name": "Hoop (In Die Donker)",
       "url": "https://open.spotify.com/track/0rewZ2OgrKpqifSqioVWs8"
+    },
+    {
+      "album": {
+        "name": "Horison",
+        "url": "https://open.spotify.com/album/4F6VkaQ8rveCiC7evrzhV7"
+      },
+      "artists": [
+        {
+          "name": "Zondagkraal",
+          "url": "https://open.spotify.com/artist/0k9d7PDNcw5uY0JlHmjTy7"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222938,
+      "name": "Horison",
+      "url": "https://open.spotify.com/track/0z8OOFo7PRYBfXtIWQtPIW"
     },
     {
       "album": {
@@ -7432,7 +7486,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 141186,
       "name": "Sindikaat",
       "url": "https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs"
@@ -7936,7 +7990,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 233818,
       "name": "Stray Kids",
       "url": "https://open.spotify.com/track/0BB4pCXURF1l4Knji1e5ad"
@@ -9490,6 +9544,24 @@
       "duration_ms": 290301,
       "name": "What Would You Do? [Feat. Gavin Rossdale]",
       "url": "https://open.spotify.com/track/61bvjHRHHFB0gNab4kKqCK"
+    },
+    {
+      "album": {
+        "name": "WHEMG",
+        "url": "https://open.spotify.com/album/2FRFzYwjquRBBch0vC4Lry"
+      },
+      "artists": [
+        {
+          "name": "GSTRiNG",
+          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "WHEMG",
+      "url": "https://open.spotify.com/track/0dy8BVnoUkRROD0jBFWJHI"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296552,
+  "num_followers": 296615,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyiTtAAAAAAVV+4Vr8Gcv/cwBZazMNcy",
+  "snapshot_id": "ZyiTtAAAAABfPSXBD8YOltc1EbiIQLKd",
   "tracks": [
     {
       "added_at": "2024-11-04 09:28:20",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Bad Vibrations (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 200676,
-      "name": "Paranoia",
-      "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -387,18 +371,18 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Endgame",
-        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
+        "name": "Bad Vibrations (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
       },
       "artists": [
         {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
         }
       ],
-      "duration_ms": 237480,
-      "name": "Help Is On The Way",
-      "url": "https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO"
+      "duration_ms": 200676,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -415,6 +399,22 @@
       "duration_ms": 248306,
       "name": "Slither",
       "url": "https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Endgame",
+        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "Help Is On The Way",
+      "url": "https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Won\u2019t Stand Down",
-        "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 209061,
-      "name": "Won\u2019t Stand Down",
-      "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Handwritten (Deluxe Version)",
         "url": "https://open.spotify.com/album/3et3fAEh76eTu4O99WTtfY"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 207546,
       "name": "\"45\"",
       "url": "https://open.spotify.com/track/5LQN7c99Q8gvmh6xJcTZgj"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Won\u2019t Stand Down",
+        "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 209061,
+      "name": "Won\u2019t Stand Down",
+      "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Drop Me Out",
-        "url": "https://open.spotify.com/album/1WqBdPB6qkcWD8HbNWdMTo"
-      },
-      "artists": [
-        {
-          "name": "High Vis",
-          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
-        }
-      ],
-      "duration_ms": 237122,
-      "name": "Drop Me Out",
-      "url": "https://open.spotify.com/track/64C9Mimhyd333spyj1P8c0"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Life Under The Gun",
         "url": "https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 228852,
       "name": "The Rift",
       "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Drop Me Out",
+        "url": "https://open.spotify.com/album/1WqBdPB6qkcWD8HbNWdMTo"
+      },
+      "artists": [
+        {
+          "name": "High Vis",
+          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
+        }
+      ],
+      "duration_ms": 237122,
+      "name": "Drop Me Out",
+      "url": "https://open.spotify.com/track/64C9Mimhyd333spyj1P8c0"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy"
+        "name": "Freak Show",
+        "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
       },
       "artists": [
         {
-          "name": "Money",
-          "url": "https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s"
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
         }
       ],
-      "duration_ms": 207620,
-      "name": "Fuct",
-      "url": "https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF"
+      "duration_ms": 258466,
+      "name": "Learn to Hate",
+      "url": "https://open.spotify.com/track/0HLrgX6j6ubJ4wh0kzVVwA"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Freak Show",
-        "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy"
       },
       "artists": [
         {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+          "name": "Money",
+          "url": "https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s"
         }
       ],
-      "duration_ms": 258466,
-      "name": "Learn to Hate",
-      "url": "https://open.spotify.com/track/0HLrgX6j6ubJ4wh0kzVVwA"
+      "duration_ms": 207620,
+      "name": "Fuct",
+      "url": "https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Cheap Grills",
-        "url": "https://open.spotify.com/album/3OicTD14V4nO5N1lLvcKRz"
-      },
-      "artists": [
-        {
-          "name": "Sincere Engineer",
-          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
-        }
-      ],
-      "duration_ms": 233146,
-      "name": "California King",
-      "url": "https://open.spotify.com/track/2Outc4FsFTt0k1W1qO1fV5"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Split",
         "url": "https://open.spotify.com/album/2WvEGTkP8WlvsPitQUlFQ8"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 244500,
       "name": "Halley",
       "url": "https://open.spotify.com/track/5Hqumcun0UcSFX8HvqSXQD"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Cheap Grills",
+        "url": "https://open.spotify.com/album/3OicTD14V4nO5N1lLvcKRz"
+      },
+      "artists": [
+        {
+          "name": "Sincere Engineer",
+          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
+        }
+      ],
+      "duration_ms": 233146,
+      "name": "California King",
+      "url": "https://open.spotify.com/track/2Outc4FsFTt0k1W1qO1fV5"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Jawbreaker",
-        "url": "https://open.spotify.com/album/2WNj8Gr6pTbW3EVnPofLEd"
-      },
-      "artists": [
-        {
-          "name": "Love Is Noise",
-          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
-        }
-      ],
-      "duration_ms": 129729,
-      "name": "Jawbreaker",
-      "url": "https://open.spotify.com/track/5cPbvHaeKI38kDrXQnKmok"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Opposites (Deluxe)",
         "url": "https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 265113,
       "name": "Stingin' Belle",
       "url": "https://open.spotify.com/track/6UdQdaEFdIES9YG9abWyrZ"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Jawbreaker",
+        "url": "https://open.spotify.com/album/2WNj8Gr6pTbW3EVnPofLEd"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        }
+      ],
+      "duration_ms": 129729,
+      "name": "Jawbreaker",
+      "url": "https://open.spotify.com/track/5cPbvHaeKI38kDrXQnKmok"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Feel It All Around",
-        "url": "https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy"
-      },
-      "artists": [
-        {
-          "name": "Soul Blind",
-          "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
-        }
-      ],
-      "duration_ms": 212980,
-      "name": "Bruise The Sore",
-      "url": "https://open.spotify.com/track/1pOuGYBVi9BIzQHqIJXTHJ"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 187482,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Feel It All Around",
+        "url": "https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy"
+      },
+      "artists": [
+        {
+          "name": "Soul Blind",
+          "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
+        }
+      ],
+      "duration_ms": 212980,
+      "name": "Bruise The Sore",
+      "url": "https://open.spotify.com/track/1pOuGYBVi9BIzQHqIJXTHJ"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Feel It All Around",
-        "url": "https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy"
-      },
-      "artists": [
-        {
-          "name": "Soul Blind",
-          "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
-        }
-      ],
-      "duration_ms": 191543,
-      "name": "Ain't Hard To Tell",
-      "url": "https://open.spotify.com/track/1Oip40rPQ0RsFKL2zBdGMN"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "All These Countless Nights (Reworked - Deluxe Version)",
         "url": "https://open.spotify.com/album/3uFlKT7oKZFybvN7IE3MBm"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 258453,
       "name": "Cassiopeia - Bonus Track",
       "url": "https://open.spotify.com/track/2lP3rtlDDTG0mgSuR2oWww"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Feel It All Around",
+        "url": "https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy"
+      },
+      "artists": [
+        {
+          "name": "Soul Blind",
+          "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
+        }
+      ],
+      "duration_ms": 191543,
+      "name": "Ain't Hard To Tell",
+      "url": "https://open.spotify.com/track/1Oip40rPQ0RsFKL2zBdGMN"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Fortress",
-        "url": "https://open.spotify.com/album/0qnxV6pF12u35kEVqlujBH"
-      },
-      "artists": [
-        {
-          "name": "Modern Color",
-          "url": "https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l"
-        }
-      ],
-      "duration_ms": 181951,
-      "name": "Fortress",
-      "url": "https://open.spotify.com/track/2yQiSbPAwHXCFOoSGkLCzA"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Antenna",
         "url": "https://open.spotify.com/album/4c0qhRcK2cIa7cgxaZf585"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 248426,
       "name": "Stained Silver",
       "url": "https://open.spotify.com/track/6WnG5MU8GbAiQVFnXZQorG"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Fortress",
+        "url": "https://open.spotify.com/album/0qnxV6pF12u35kEVqlujBH"
+      },
+      "artists": [
+        {
+          "name": "Modern Color",
+          "url": "https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l"
+        }
+      ],
+      "duration_ms": 181951,
+      "name": "Fortress",
+      "url": "https://open.spotify.com/track/2yQiSbPAwHXCFOoSGkLCzA"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "duality",
-        "url": "https://open.spotify.com/album/0YpkjYPstGWDkffW3SL9mQ"
-      },
-      "artists": [
-        {
-          "name": "swim school",
-          "url": "https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F"
-        }
-      ],
-      "duration_ms": 186474,
-      "name": "over now",
-      "url": "https://open.spotify.com/track/7fBre9lJfuG40HU2NLoCt8"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "The Blue EP",
         "url": "https://open.spotify.com/album/3plAf4w7eRDvDqY2qxFouS"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 215147,
       "name": "Bad Intentions",
       "url": "https://open.spotify.com/track/6qpLrHNWL51KQCytTh5Zfq"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "duality",
+        "url": "https://open.spotify.com/album/0YpkjYPstGWDkffW3SL9mQ"
+      },
+      "artists": [
+        {
+          "name": "swim school",
+          "url": "https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F"
+        }
+      ],
+      "duration_ms": 186474,
+      "name": "over now",
+      "url": "https://open.spotify.com/track/7fBre9lJfuG40HU2NLoCt8"
     },
     {
       "added_at": "2024-11-04 09:28:20",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2024-11-04 09:28:20",
       "album": {
-        "name": "Static King",
-        "url": "https://open.spotify.com/album/6Ff2MALnanTK465bO5rIsa"
-      },
-      "artists": [
-        {
-          "name": "Dead Horse One",
-          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Static King",
-      "url": "https://open.spotify.com/track/30c7yitaxCPDer72DuJMpw"
-    },
-    {
-      "added_at": "2024-11-04 09:28:20",
-      "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/3ZTodB8gVsIWAzYb6znSl7"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 193770,
       "name": "Queen",
       "url": "https://open.spotify.com/track/6FoB7cNbQ28gsKhh24YI4I"
+    },
+    {
+      "added_at": "2024-11-04 09:28:20",
+      "album": {
+        "name": "Static King",
+        "url": "https://open.spotify.com/album/6Ff2MALnanTK465bO5rIsa"
+      },
+      "artists": [
+        {
+          "name": "Dead Horse One",
+          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Static King",
+      "url": "https://open.spotify.com/track/30c7yitaxCPDer72DuJMpw"
     },
     {
       "added_at": "2024-11-04 09:28:20",

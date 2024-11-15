@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Jay Melody",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Mavokali",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -1250,6 +1250,24 @@
       "duration_ms": 188454,
       "name": "Deka (feat. Mabantu)",
       "url": "https://open.spotify.com/track/7KjPkecOPSbOakRrlrfbZF"
+    },
+    {
+      "album": {
+        "name": "Densi",
+        "url": "https://open.spotify.com/album/4x565F1bILYjiejXljqpIc"
+      },
+      "artists": [
+        {
+          "name": "Mavokali",
+          "url": "https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179099,
+      "name": "Densi",
+      "url": "https://open.spotify.com/track/6HNSAY9YaF6jv0rPHuwyPa"
     },
     {
       "album": {
@@ -4584,7 +4602,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 142737,
       "name": "Mmmah",
       "url": "https://open.spotify.com/track/286vfrzpWSpgM8iohLbjj4"
@@ -4832,6 +4850,24 @@
       "duration_ms": 203529,
       "name": "Mubashara",
       "url": "https://open.spotify.com/track/0LJfViJHjkkqRmgo8cR5bs"
+    },
+    {
+      "album": {
+        "name": "Muhibu",
+        "url": "https://open.spotify.com/album/20ZD3JWpTUb4VUPPVNkvvZ"
+      },
+      "artists": [
+        {
+          "name": "Abigail Chams",
+          "url": "https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193997,
+      "name": "Muhibu",
+      "url": "https://open.spotify.com/track/5s8riorAHI0xfmgz6cTpM3"
     },
     {
       "album": {
@@ -6546,7 +6582,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 184352,
       "name": "On Your Door",
       "url": "https://open.spotify.com/track/17wAjhPt1RgmwkpFYfAnaK"

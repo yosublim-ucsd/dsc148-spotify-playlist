@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,110 likes - 235 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,310 likes - 235 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 234 | [Meu Deus](https://open.spotify.com/track/5W5dEOtQ1R9jLtGWRXWYTY) | [Random Dinu](https://open.spotify.com/artist/3mfI1TXFW4tXPQEklMqSsP) | [Itaparica](https://open.spotify.com/album/01IMooT9ibT3cLTiz6g4al) | 2:00 |
 | 235 | [Mind Massage](https://open.spotify.com/track/1vFAE2GL7YqPalMDan8BN4) | [Phlo X](https://open.spotify.com/artist/7wpjhdiboISbPKE8SBwCet) | [Mind Massage](https://open.spotify.com/album/3qhrSaDI24kXJhIcBS1K3a) | 2:24 |
 
-Snapshot ID: `Zy4ehQAAAAA9R7xywvjBhMamblVU8nqk`
+Snapshot ID: `Zy4ehQAAAAA16rSXIri0lo3U+wz0sfBr`

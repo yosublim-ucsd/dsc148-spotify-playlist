@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/2WDSk4ZbwCw2E99XV6gkRk?si=dH4kgps7SiqBPx2o\_ern8Q">BeMyFiasco</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,306 likes - 321 songs - 15 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,366 likes - 321 songs - 15 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -330,4 +330,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 320 | [Don't Want A Love Song](https://open.spotify.com/track/7LTovppsXm7ncfRF0lA6q8) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Don't Want A Love Song](https://open.spotify.com/album/3s5TTh0Xv3hEthrOKpRZTe) | 3:03 |
 | 321 | [WAKE UP](https://open.spotify.com/track/6Rn0E6cj7o9y1HreiMv0Aw) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [WAKE UP](https://open.spotify.com/album/3mI0rvBdda0WogdFHQI2Uu) | 2:44 |
 
-Snapshot ID: `Zyu3mQAAAABHy35qeq4TQu7SRgOAehJv`
+Snapshot ID: `Zyu3mQAAAABDcpJ056uQhD7Ljz7Ghllz`

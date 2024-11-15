@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,002 likes - 132 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,006 likes - 132 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 131 | [落霞挽霓虹](https://open.spotify.com/track/4ppPf42GqHvxmOsCXc1G0c) | [鄒沛沛](https://open.spotify.com/artist/2g4dv9Y0lV9CVXxUoc0a42) | [鄒沛沛](https://open.spotify.com/album/5SI9TV3LUAgrZ15IS1ff8T) | 3:28 |
 | 132 | [雙生火焰](https://open.spotify.com/track/7biw6GhyozDIshdvOrV819) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [雙生火焰](https://open.spotify.com/album/4OuMhx8IFWNtzcSBhlceQ3) | 3:54 |
 
-Snapshot ID: `ZzF9RAAAAADQrezqfrNSFVEqs+ybTDp5`
+Snapshot ID: `ZzF9RAAAAABP/MFaJw4+tQkE77XpWs06`

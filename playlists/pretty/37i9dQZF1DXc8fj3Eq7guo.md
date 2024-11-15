@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8fj3Eq7guo.md) - [plain]
 
 > Tag your location, we shall pass by as we go around Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,121 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,135 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8fj3Eq7guo.md) - [plain]
 | 49 | [Jinja](https://open.spotify.com/track/2Vmghmiz5piVjU2AbhYqB1) | [Cxnrvd](https://open.spotify.com/artist/2hgk9A3fWriCu0wZQkUuwQ), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [Rulz](https://open.spotify.com/artist/3dxuyx3F7NkYMg2BfVhG9I), [Ridym](https://open.spotify.com/artist/4Ewa9Ix2mlKs0lkDO2ol9j) | [RWA](https://open.spotify.com/album/4GBAc63hCEwHjRBFApfU0P) | 2:58 |
 | 50 | [Ghana](https://open.spotify.com/track/6sOITd3VYPzrGOWZnHqwYM) | [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky), [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S) | [Ghana](https://open.spotify.com/album/2qjTD6OsQqyry3q7J0yETh) | 4:11 |
 
-Snapshot ID: `ZxsiowAAAADY/qcAOpPX2VpTPdiZ5STh`
+Snapshot ID: `ZxsiowAAAADYjzDPlVv/OY7FG0nmF8w5`

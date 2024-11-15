@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 
 > Ascultă  la volum maxim vocile feminine din România într\-un playlist realizat împreună cu Alexandra Stan
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,860 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,863 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 | 49 | [Hanorac](https://open.spotify.com/track/47DlUxcVui51KXcIpKJtLt) | [Aria Moon](https://open.spotify.com/artist/4cE6cMg8gPOmoFNO8yYRbj) | [Hanorac](https://open.spotify.com/album/5AWeuk3lQwxl85qn56QkHw) | 2:34 |
 | 50 | [Fii tu](https://open.spotify.com/track/1ayrlFSnYpRA4Qwsxwd496) | [Mara Trefas](https://open.spotify.com/artist/0mRH9oO5trSJOhXFYFwHKT) | [Fii tu](https://open.spotify.com/album/2bjQVSBxXxPtcvANTzYwm5) | 2:32 |
 
-Snapshot ID: `ZyqVYAAAAAAx6i0m7S1vJz7pKPwGOqoZ`
+Snapshot ID: `ZyqVYAAAAACy0lkGsaV4olZJyT/K01lR`

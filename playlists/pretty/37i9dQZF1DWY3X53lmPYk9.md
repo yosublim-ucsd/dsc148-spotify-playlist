@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,884 likes - 410 songs - 20 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,958 likes - 410 songs - 20 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -419,4 +419,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 | 409 | [Detour Ahead](https://open.spotify.com/track/3u2omsu82aD46ikO68QT8L) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Detour Ahead](https://open.spotify.com/album/7EcCJcaKsJZucb5PtYAtih) | 4:27 |
 | 410 | [Stay Here Tonight](https://open.spotify.com/track/1TBHU4rckRwhSTxklMUXhb) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Polka Dots and Moonbeams](https://open.spotify.com/album/609qfgCjjErut4a17FegjN) | 2:48 |
 
-Snapshot ID: `ZwUrsgAAAACYrUdBWlZFg2p6jv3mlo89`
+Snapshot ID: `ZwUrsgAAAACIUXT9Gl5xpEFk3PiFhN8Z`

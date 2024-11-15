@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Dillom, Marilina Bertoldi, Juliana Gattas y Airbag  en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,497 likes - 48 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,500 likes - 48 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 47 | [Zapatillas con luces de color \- acústico](https://open.spotify.com/track/31eu3LrKlJgM3oyD86k3mQ) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Las Cosas Temporales](https://open.spotify.com/artist/04QFjhXUk1SasB1VwIZsrm) | [Fotonovela](https://open.spotify.com/album/1pBwQQJIszYaQIx7g7RzgO) | 4:18 |
 | 48 | [Vacaciones de Invierno \- acústico](https://open.spotify.com/track/2BsKJQ3GZMEf5FFNSqLgM3) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN) | [Vacaciones de Invierno \(acústico\)](https://open.spotify.com/album/64s6CIsbBLV2OLWHWrBzS2) | 3:02 |
 
-Snapshot ID: `Zy4l2QAAAACkDifT79yW2pnZgY5DlxAx`
+Snapshot ID: `Zy4l2QAAAABvc8CUCCoOh+szSYhFqTNe`

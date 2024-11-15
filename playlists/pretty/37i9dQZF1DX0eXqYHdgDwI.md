@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 
 > canzoni su cui piangere 🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,088 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,081 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 | 59 | [if this is the last time](https://open.spotify.com/track/2ccNaerby1wXA993dY6XsR) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [if this is the last time](https://open.spotify.com/album/3G2RelPzbgYpjSIsi0YS0J) | 3:23 |
 | 60 | [Let Her Go \- Acoustic](https://open.spotify.com/track/7CzVAhQeZfTLqNnzdAiqrH) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights](https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF) | 4:26 |
 
-Snapshot ID: `ZrObkQAAAABEfmxqdSTJ+/kLtmAlXH/Q`
+Snapshot ID: `ZrObkQAAAABV/uLtyFpe/ezugLNRKIXk`

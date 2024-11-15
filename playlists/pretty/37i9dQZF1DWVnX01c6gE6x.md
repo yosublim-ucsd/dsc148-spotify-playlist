@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 | 10 | [31\. Monsanto: El Legado del Mal Heredado a Bayer](https://open.spotify.com/episode/2sOOjnbgpLB7zcGGv2Xjky) | [Chisme Corporativo](https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf) | [Chisme Corporativo](https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf) | 1:08:01 |
 | 11 | [Capítulo 33: Micheladas](https://open.spotify.com/episode/35Sfu6rZ6Zork6UHaaOPbF) | [Casos de la Risa Real](https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ) | [Casos de la Risa Real](https://open.spotify.com/album/1oqmfEuvybQ41YrSbPgEhZ) | 1:28:41 |
 
-Snapshot ID: `ZyUcSAAAAACm6UIBG4YbbrzolB9iaZpq`
+Snapshot ID: `ZyUcSAAAAACOQ+RSYCqW/SCegzl4swXC`

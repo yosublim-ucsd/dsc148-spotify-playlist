@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Aliocha Schneider",
-  "num_followers": 42566,
+  "num_followers": 42570,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy4+/gAAAACawhicHrSEOHpkkJBfGz+m",
+  "snapshot_id": "Zy4+/gAAAAA9QgOFJYFLrqV6lKBHzOep",
   "tracks": [
     {
       "added_at": "2024-11-08 05:00:00",
@@ -163,22 +163,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "POP (feat. La Mano 1.9)",
-        "url": "https://open.spotify.com/album/7Itb8iBp11bbasa17mHILM"
+        "name": "Stigmates",
+        "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
       },
       "artists": [
         {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
         }
       ],
-      "duration_ms": 216261,
-      "name": "POP (feat. La Mano 1.9)",
-      "url": "https://open.spotify.com/track/23fxyoCF4qEXS5RSZ8xWPq"
+      "duration_ms": 293746,
+      "name": "Stigmates",
+      "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -231,38 +227,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Stigmates",
-        "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
-      },
-      "artists": [
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 293746,
-      "name": "Stigmates",
-      "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/6UtBF8mZYbiL0lhmHvl13u"
-      },
-      "artists": [
-        {
-          "name": "Caroline Savoie",
-          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Encore",
-      "url": "https://open.spotify.com/track/0fwqRA13Is4S1HCDW5NeuS"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Guardia",
         "url": "https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa"
       },
@@ -283,18 +247,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Tout va bien",
-        "url": "https://open.spotify.com/album/6E9sPaFsaf2Fv7UI8M6jn2"
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/6UtBF8mZYbiL0lhmHvl13u"
       },
       "artists": [
         {
-          "name": "Minou",
-          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
+          "name": "Caroline Savoie",
+          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
         }
       ],
-      "duration_ms": 198422,
-      "name": "L'ordre naturel des choses",
-      "url": "https://open.spotify.com/track/0ZZKJhvDHSHawdSKJkxPpC"
+      "duration_ms": 226000,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/0fwqRA13Is4S1HCDW5NeuS"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -315,18 +279,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Attaque \u00e0 cinq",
-        "url": "https://open.spotify.com/album/71XdYuOf1H7TWaUOsEHklR"
+        "name": "Tout va bien",
+        "url": "https://open.spotify.com/album/6E9sPaFsaf2Fv7UI8M6jn2"
       },
       "artists": [
         {
-          "name": "Les Dales Hawerchuk",
-          "url": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
+          "name": "Minou",
+          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
         }
       ],
-      "duration_ms": 162613,
-      "name": "Megastar",
-      "url": "https://open.spotify.com/track/2yJ3ULFBKKC5MX0x9e9NVW"
+      "duration_ms": 198422,
+      "name": "L'ordre naturel des choses",
+      "url": "https://open.spotify.com/track/0ZZKJhvDHSHawdSKJkxPpC"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -351,18 +315,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Testament",
-        "url": "https://open.spotify.com/album/0zRtuGqoJR41mwDLRBOMk0"
+        "name": "Attaque \u00e0 cinq",
+        "url": "https://open.spotify.com/album/71XdYuOf1H7TWaUOsEHklR"
       },
       "artists": [
         {
-          "name": "Rick et les Bons Moments",
-          "url": "https://open.spotify.com/artist/3ZTHWlS8bpAA446rY8ntVQ"
+          "name": "Les Dales Hawerchuk",
+          "url": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
         }
       ],
-      "duration_ms": 218773,
-      "name": "La t\u00eate ailleurs",
-      "url": "https://open.spotify.com/track/2YvxF2qQruCoBtWcOfzwZP"
+      "duration_ms": 162613,
+      "name": "Megastar",
+      "url": "https://open.spotify.com/track/2yJ3ULFBKKC5MX0x9e9NVW"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -383,6 +347,42 @@
       "duration_ms": 161079,
       "name": "'Ndrangheta",
       "url": "https://open.spotify.com/track/1oVh1vm3jJVugrY0hTHkFO"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Testament",
+        "url": "https://open.spotify.com/album/0zRtuGqoJR41mwDLRBOMk0"
+      },
+      "artists": [
+        {
+          "name": "Rick et les Bons Moments",
+          "url": "https://open.spotify.com/artist/3ZTHWlS8bpAA446rY8ntVQ"
+        }
+      ],
+      "duration_ms": 218773,
+      "name": "La t\u00eate ailleurs",
+      "url": "https://open.spotify.com/track/2YvxF2qQruCoBtWcOfzwZP"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "POP (feat. La Mano 1.9)",
+        "url": "https://open.spotify.com/album/7Itb8iBp11bbasa17mHILM"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "duration_ms": 216261,
+      "name": "POP (feat. La Mano 1.9)",
+      "url": "https://open.spotify.com/track/23fxyoCF4qEXS5RSZ8xWPq"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -471,18 +471,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "La 17",
-        "url": "https://open.spotify.com/album/2z4jzFw2X78jeHJSHZXNm9"
+        "name": "\u00c9videmment",
+        "url": "https://open.spotify.com/album/3qvdIPyaNhixZHKX1hVkLb"
       },
       "artists": [
         {
-          "name": "Timal",
-          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
         }
       ],
-      "duration_ms": 163704,
-      "name": "La 17",
-      "url": "https://open.spotify.com/track/4fwoQriiroBecN5Ys52GMh"
+      "duration_ms": 183960,
+      "name": "\u00c9videmment",
+      "url": "https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -503,22 +507,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "\u00c9videmment",
-        "url": "https://open.spotify.com/album/3qvdIPyaNhixZHKX1hVkLb"
+        "name": "La 17",
+        "url": "https://open.spotify.com/album/2z4jzFw2X78jeHJSHZXNm9"
       },
       "artists": [
         {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        },
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
         }
       ],
-      "duration_ms": 183960,
-      "name": "\u00c9videmment",
-      "url": "https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v"
+      "duration_ms": 163704,
+      "name": "La 17",
+      "url": "https://open.spotify.com/track/4fwoQriiroBecN5Ys52GMh"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -627,18 +627,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Absent",
-        "url": "https://open.spotify.com/album/42GxEIIABO7xY0gMxaGZW5"
+        "name": "IMPOSTEUR",
+        "url": "https://open.spotify.com/album/530vPuQlxS2kq2jNJIx59g"
       },
       "artists": [
         {
-          "name": "Timal",
-          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
         }
       ],
-      "duration_ms": 179555,
-      "name": "Absent",
-      "url": "https://open.spotify.com/track/3uIjsEqU6q78itijkqbGlM"
+      "duration_ms": 208560,
+      "name": "Les d\u00e9mons de minuit",
+      "url": "https://open.spotify.com/track/0FJxWDiOrOuSUwCwhVS7wT"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -655,6 +655,22 @@
       "duration_ms": 152679,
       "name": "Dans ma bulle",
       "url": "https://open.spotify.com/track/5Duyl1dabYWFFMfObBFBPH"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Absent",
+        "url": "https://open.spotify.com/album/42GxEIIABO7xY0gMxaGZW5"
+      },
+      "artists": [
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        }
+      ],
+      "duration_ms": 179555,
+      "name": "Absent",
+      "url": "https://open.spotify.com/track/3uIjsEqU6q78itijkqbGlM"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -695,22 +711,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Ah les crocodiles",
-        "url": "https://open.spotify.com/album/0WxicFS99fD7dwj7ZP4SsT"
-      },
-      "artists": [
-        {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
-        }
-      ],
-      "duration_ms": 165386,
-      "name": "Ah les crocodiles",
-      "url": "https://open.spotify.com/track/0KQFtDbj2NfrQRrZMgSKwY"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "La v\u00e9rit\u00e9",
         "url": "https://open.spotify.com/album/7e8nS0AlDriC8MoE3ybRj9"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 140583,
       "name": "La v\u00e9rit\u00e9",
       "url": "https://open.spotify.com/track/5vbWxSxdmhXpAtgw44ykAP"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Ah les crocodiles",
+        "url": "https://open.spotify.com/album/0WxicFS99fD7dwj7ZP4SsT"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "duration_ms": 165386,
+      "name": "Ah les crocodiles",
+      "url": "https://open.spotify.com/track/0KQFtDbj2NfrQRrZMgSKwY"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -851,26 +867,6 @@
       "duration_ms": 179080,
       "name": "petite musique",
       "url": "https://open.spotify.com/track/4qVY03Ook13G2yisPjYawd"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Voyage (Part II)",
-        "url": "https://open.spotify.com/album/26y7m3SRcbfHXk5KDdLgfl"
-      },
-      "artists": [
-        {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
-        },
-        {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Habiba",
-      "url": "https://open.spotify.com/track/6yI6k66NwtpEcMYjSBk3YB"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

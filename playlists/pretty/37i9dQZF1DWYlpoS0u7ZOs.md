@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > A new wave of rock music\. Cover: Peter Xan
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,471 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,475 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 79 | [Body In Your Basement](https://open.spotify.com/track/54wMMdzLQ9FieLP3zoyKIV) | [Lizzy Farrall](https://open.spotify.com/artist/6ifpb96yDqUFuSIpM62FTa) | [Body In Your Basement](https://open.spotify.com/album/3L6YPRXTg6KSIBIbKbVcXx) | 3:03 |
 | 80 | [Tangerine](https://open.spotify.com/track/2dtp4K6INdf7FjZJnYUGBp) | [Saloon Dion](https://open.spotify.com/artist/5jyDRjrVTg2M6uHOQF5MhU) | [Where You'll Find Me](https://open.spotify.com/album/5uriQhRrYZbapUWJhsI0yg) | 4:39 |
 
-Snapshot ID: `Zy4NTQAAAAB+kRj+0KjtpOXjwO3apBiR`
+Snapshot ID: `Zy4NTQAAAABJdf0mdDtRiXKk4ObaEY/3`

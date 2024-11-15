@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. Cover: Champion, Four Tet, Skrillex, Naisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,654 likes - 90 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,653 likes - 90 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 89 | [Senseless](https://open.spotify.com/track/4lTBsmVpYwcNe3i2RC5oMR) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Georgie Winchester](https://open.spotify.com/artist/4hGuPtl3s6oIY1B8P64Qpj) | [Senseless](https://open.spotify.com/album/2WlnVdiqmlKpu0elP95n02) | 3:39 |
 | 90 | [Gem Lingo \(ovr now\)](https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Gem Lingo \(ovr now\)](https://open.spotify.com/album/3r4QpzGNuewu0vLvapRZS7) | 3:50 |
 
-Snapshot ID: `Zy1o1gAAAADiqXM/bp//FI13ZON9XEUn`
+Snapshot ID: `Zy1o1gAAAAC21ppwKqFfEhn0jxbCWmCB`

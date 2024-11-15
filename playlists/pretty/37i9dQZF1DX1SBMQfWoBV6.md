@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 
 > Light electronic movements for study, focus and flow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,271 likes - 75 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,354 likes - 75 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 | 74 | [In Gleam](https://open.spotify.com/track/65n315tA59gt8sAUdG4Bcc) | [Nadia Khan](https://open.spotify.com/artist/0loiPes37ZaRogGkUvPRNQ) | [In Gleam](https://open.spotify.com/album/2IJI1sCPaJvqx9yInRORd0) | 5:31 |
 | 75 | [solaria\_](https://open.spotify.com/track/3x7uXaVxr8f4APs8ztqtZR) | [The Surrealist](https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy) | [solaria\_](https://open.spotify.com/album/3z6yDp5T1h1jM1wV9chpqy) | 2:45 |
 
-Snapshot ID: `ZvF0PgAAAAD0bZreVTFgsZxRzKSr22/x`
+Snapshot ID: `ZvF0PgAAAADdB8KdBFjap+UGhEG6bE0C`

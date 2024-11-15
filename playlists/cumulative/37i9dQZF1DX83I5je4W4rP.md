@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-339 songs - 20 hr 9 min
+340 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Dancing on the Moon \(feat\. Edley Shine\)](https://open.spotify.com/track/2dl5nrPMAWkTORDIpyaXLP) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT), [Edley Shine](https://open.spotify.com/artist/06JuLnn54mv4EjrICHOHgi) | [Makai](https://open.spotify.com/album/4iIZhPokjZV42t4zRl8yo3) | 4:29 | 2024-03-05 |  |
 | [Dancing On The Radio](https://open.spotify.com/track/0B5iOjvAs57ZQSJWoJ3zZ2) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a), [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3) | [YAK: A Collection Of Truck Songs](https://open.spotify.com/album/6OAAliu22icFYIaidsV4V7) | 2:56 | 2022-01-10 | 2022-06-22 |
 | [Date Rape](https://open.spotify.com/track/2nS4sfMUR5mOSXQWvPhVol) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Date Rape](https://open.spotify.com/album/4V4DnIDHvrKquBfbTSXsPf) | 4:28 | 2021-12-10 | 2022-01-11 |
-| [Dawn of Time](https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd) | [Tribal Seeds](https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02) | [Tribal Seeds](https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN) | 4:16 | 2022-07-06 |  |
+| [Dawn of Time](https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd) | [Tribal Seeds](https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02) | [Tribal Seeds](https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN) | 4:16 | 2022-07-06 | 2024-11-15 |
 | [Daydreaming](https://open.spotify.com/track/3VXvKTOQoY0kWvpjU67uq2) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Daydreaming](https://open.spotify.com/album/30kvONotzSeqLplcsaa1SH) | 3:17 | 2024-03-05 |  |
 | [Daydreaming](https://open.spotify.com/track/0sgwQ68fvcBjsQXzogGC1O) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Mind The Moon](https://open.spotify.com/album/39EHgpDs6VgKlx0RY0E37J) | 3:19 | 2023-07-28 | 2024-04-19 |
 | [Daydreaming](https://open.spotify.com/track/3v5OftOHxaVpaaJ8NArHos) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Mind The Moon](https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2) | 3:19 | 2022-07-06 | 2023-11-04 |
@@ -210,6 +210,7 @@
 | [New World \(with Matisyahu, Bumpin Uglies, & The Elovaters\)](https://open.spotify.com/track/1uvhSFCX6bQrbLIWhQsWiQ) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw), [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [New World \(with Matisyahu, Bumpin Uglies, & The Elovaters\)](https://open.spotify.com/album/71E4rQgy2LBt3dkGU9hOsr) | 3:59 | 2021-12-10 |  |
 | [Not The End](https://open.spotify.com/track/4ixFMrVEG00LY963KBkIXE) | [4th & Orange](https://open.spotify.com/artist/3ku7StZmU0VzVwq5d9YEXf) | [Not The End](https://open.spotify.com/album/6QgzRDqpIays9JGCzv3HdR) | 2:50 | 2021-12-10 |  |
 | [Nothing Lasts Forever](https://open.spotify.com/track/7qinjgTnynlZGAdq8PCf4p) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Nothing Lasts Forever](https://open.spotify.com/album/2MibDtCJiyd4PrJLouOYdV) | 4:01 | 2024-03-05 |  |
+| [Nyabingi Love](https://open.spotify.com/track/4Mlx6OFE8MGSW2knMeAHiN) | [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7), [Clive Hunt](https://open.spotify.com/artist/0TYvtIjZSDStLhh3wfKHy8) | [Nyabingi Love](https://open.spotify.com/album/6xwdclmwTqIjKMSdL44Upm) | 3:56 | 2024-07-26 |  |
 | [Ocean Eyes](https://open.spotify.com/track/1x9oZ6w67OMi1z6WoA6K2y) | [Nick Hexum](https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY) | [Ocean Eyes](https://open.spotify.com/album/5zKQRDvSP8oOvpw8fi6Bph) | 3:22 | 2021-12-10 |  |
 | [Old School Feeling](https://open.spotify.com/track/54GuCaNBEr3dcPAZq4SNkB) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Old School Feeling](https://open.spotify.com/album/6BsIV30xUdK2QDmP9UdYO7) | 3:56 | 2021-12-10 | 2022-07-29 |
 | [On & On \(with Iration\)](https://open.spotify.com/track/56XNpU7rDh8fUShQR7BXtO) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [On & On \(with Iration\)](https://open.spotify.com/album/26s88nuixgzDosdvHyr4AO) | 4:15 | 2022-06-14 | 2024-07-27 |

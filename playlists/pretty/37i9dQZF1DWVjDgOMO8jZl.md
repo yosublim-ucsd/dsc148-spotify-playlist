@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > STE in cover di RADAR Italia, la playlist dedicata agli artisti che Spotify ha scelto come emergenti dell'anno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,844 likes - 34 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,843 likes - 34 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 33 | [Non ci penso](https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:40 |
 | 34 | [T'aggio vuluto bene](https://open.spotify.com/track/62GSCLUoW8SWXh9v3xLaiZ) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI) | [T'aggio vuluto bene](https://open.spotify.com/album/0JFgZQDWr2NSXQ5vlU7vpe) | 2:36 |
 
-Snapshot ID: `Zy3sBQAAAADgv2RwX8ZArDaUIqqS+U2j`
+Snapshot ID: `Zy3sBQAAAAAjYgod0TST3Ixqj0Hjhhet`

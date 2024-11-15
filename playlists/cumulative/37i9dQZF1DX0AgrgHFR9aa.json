@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : SCH",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Limsa d'Aulnay x Soprano",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -93,6 +93,24 @@
     },
     {
       "album": {
+        "name": "50 piges",
+        "url": "https://open.spotify.com/album/1Kk6V6yamt9KDmLJDMuF3U"
+      },
+      "artists": [
+        {
+          "name": "Zoxea",
+          "url": "https://open.spotify.com/artist/2uuaoYjn1Pk0Y3NOyMR0KR"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149354,
+      "name": "50 piges",
+      "url": "https://open.spotify.com/track/4qK7AT3mb1J5oLyALf5i8j"
+    },
+    {
+      "album": {
         "name": "7 VIES (feat. Sofiane Pamart) [Bonus]",
         "url": "https://open.spotify.com/album/7n7B2br4veokMC1M7mVutH"
       },
@@ -141,6 +159,24 @@
     },
     {
       "album": {
+        "name": "A la bien, avec la haine",
+        "url": "https://open.spotify.com/album/0elHVySe9X5VZCc7jTQ5AS"
+      },
+      "artists": [
+        {
+          "name": "Double Zulu",
+          "url": "https://open.spotify.com/artist/3p5keqAzDnuOoAVya8laK6"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146341,
+      "name": "A la bien, avec la haine",
+      "url": "https://open.spotify.com/track/1VXm7U859FXJI9eRUMKlNN"
+    },
+    {
+      "album": {
         "name": "A propos",
         "url": "https://open.spotify.com/album/5tozyKVQZGr5lPdYDwQksY"
       },
@@ -152,7 +188,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 222279,
       "name": "A propos",
       "url": "https://open.spotify.com/track/7mWbONmkFQUJpLzJBp0AOJ"
@@ -799,6 +835,24 @@
     },
     {
       "album": {
+        "name": "LA CHUTE",
+        "url": "https://open.spotify.com/album/2fdig9S3CKRYHkYJ25THdD"
+      },
+      "artists": [
+        {
+          "name": "Lasco",
+          "url": "https://open.spotify.com/artist/3dJuPTbC8aP88uCs6qB3Ra"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "LA CHUTE",
+      "url": "https://open.spotify.com/track/7tV20ulK6Ms7pmo5OegLdi"
+    },
+    {
+      "album": {
         "name": "La Cour des Miracles",
         "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
       },
@@ -1142,7 +1196,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 179630,
       "name": "Paix",
       "url": "https://open.spotify.com/track/3qWNQvfLnnkg9K3ZvOmYkK"
@@ -1236,7 +1290,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 156284,
       "name": "Plaine des Asphod\u00e8les",
       "url": "https://open.spotify.com/track/4feZ8pmKWjttSJnq2hYxjc"
@@ -1356,7 +1410,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 145013,
       "name": "Rebellion",
       "url": "https://open.spotify.com/track/1JtOe5JDDjASnbcNsiPlD0"
@@ -1458,10 +1512,32 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 497746,
       "name": "R\u00e9pondez-moi 2024 / Humain",
       "url": "https://open.spotify.com/track/5BphWiCC0CWGbLXtygIqXT"
+    },
+    {
+      "album": {
+        "name": "Si tu savais",
+        "url": "https://open.spotify.com/album/1xlQ3BxNYhjlMn15MVhPmt"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        },
+        {
+          "name": "Limsa d'Aulnay",
+          "url": "https://open.spotify.com/artist/7l6m2BySHwnjJuw22SXwh5"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169346,
+      "name": "Si tu savais",
+      "url": "https://open.spotify.com/track/18vqG7GOyoUIVE9LBbvrh1"
     },
     {
       "album": {
@@ -1680,6 +1756,24 @@
       "duration_ms": 180051,
       "name": "\u00c0 long terme",
       "url": "https://open.spotify.com/track/0fPHcL6jj7A1xiL6ylPi42"
+    },
+    {
+      "album": {
+        "name": "\u00c7a parle de",
+        "url": "https://open.spotify.com/album/1MJBxB6MS3Rv8pLpgKXlHI"
+      },
+      "artists": [
+        {
+          "name": "Demi Portion",
+          "url": "https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206862,
+      "name": "\u00c7a parle de",
+      "url": "https://open.spotify.com/track/7cI4ZRhQKSvtDj4cgJytRC"
     },
     {
       "album": {

@@ -335,6 +335,24 @@
     },
     {
       "album": {
+        "name": "Astra",
+        "url": "https://open.spotify.com/album/4SgCRjI9SLeqLopiibQiVM"
+      },
+      "artists": [
+        {
+          "name": "Paulo Lucas",
+          "url": "https://open.spotify.com/artist/6ojxO4yKau2YGdnIZOBwzV"
+        }
+      ],
+      "date_added": "2024-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263208,
+      "name": "Astra",
+      "url": "https://open.spotify.com/track/2Qo0025pMUTB00Hqm9KVRZ"
+    },
+    {
+      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY"
       },
@@ -2382,7 +2400,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 148146,
       "name": "Jo\u00e3ozinho Boa Pinta",
       "url": "https://open.spotify.com/track/1cqaZpuQpbrPQGzcnPPHfB"

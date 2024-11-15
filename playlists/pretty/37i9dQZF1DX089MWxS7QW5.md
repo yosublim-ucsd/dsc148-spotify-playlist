@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: g0nny\(거니\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,170 likes - 51 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,198 likes - 51 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 50 | [Butterflies](https://open.spotify.com/track/41wU3rrHdHoQlNlGqy2tzX) | [Gyeongree](https://open.spotify.com/artist/5YF2nij1cyiWmWFB8TLZtj) | [Eternal Bloom](https://open.spotify.com/album/3EwJyf1lxKa26PQvLWJUtC) | 2:38 |
 | 51 | [Call Me](https://open.spotify.com/track/0Vj6qVJYN84hmV5vxQ4dYk) | [ISHA](https://open.spotify.com/artist/7IZVQOfFqJtCQLtdV5ieTt) | [Call Me](https://open.spotify.com/album/1Q8y5BWNiEptm6TYvm7Zyr) | 2:34 |
 
-Snapshot ID: `ZyINzAAAAAAgcUn0HmpjsrZGM5jmeTSA`
+Snapshot ID: `ZyINzAAAAADfrAGuU6PwrE9Xs7fDfX+H`

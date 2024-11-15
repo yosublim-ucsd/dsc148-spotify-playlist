@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Tombochio
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,358 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,390 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 99 | [Beyonce](https://open.spotify.com/track/32n44FJQOYB4DPWiDfi1N3) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Beyonce](https://open.spotify.com/album/3NI6t8o1YTwIDdPMx3yGfR) | 2:46 |
 | 100 | [Ojos Verdes](https://open.spotify.com/track/4wSpGbhAdr7XEJ7Yjr186h) | [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z), [La Misma Escuela](https://open.spotify.com/artist/4JFkd2wkvR2eZ0z6m0BYQW) | [Ojos Verdes](https://open.spotify.com/album/7MniSCDTmMiFnkrJuxwqtz) | 3:20 |
 
-Snapshot ID: `Zy2o4AAAAACIQPEbEsnlGJGr295ukFxL`
+Snapshot ID: `Zy2o4AAAAAB4sae4/Z3jfRzprEaLQJor`

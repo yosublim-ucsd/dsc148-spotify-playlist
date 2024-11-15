@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Colo de Deus
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,053 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,074 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 49 | [Sei que não mereço](https://open.spotify.com/track/7laS1jbQi6yOVbZ8duWRbu) | [Danielle Barros](https://open.spotify.com/artist/0qLHQRhdl0GtCxDXjfEQBI) | [Sei que não mereço](https://open.spotify.com/album/1zV9qLkkphsNagNOZwtqWx) | 4:01 |
 | 50 | [Teu Lugar](https://open.spotify.com/track/5iYi3V1N5WXhGIVrZA0b6b) | [Rich Lima](https://open.spotify.com/artist/3Zlx3oFGZAMzJo0ZVVCggJ) | [Teu Lugar](https://open.spotify.com/album/0VEUiHa0F6zinkhi5pmxYs) | 3:59 |
 
-Snapshot ID: `Zy6KiAAAAACZwmGCtsHOqsXYsChNu/mY`
+Snapshot ID: `Zy6KiAAAAAB9bvILeOeilsFlJqpFUcaj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยที่นี่เลย\. ปก: VIIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,889 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,897 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [ขอให้เรื่องของเราไม่มีตอนจบ \(I Wish\)](https://open.spotify.com/track/3BJEGjNxCELlKPLAhgudYy) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ขอให้เรื่องของเราไม่มีตอนจบ \(I Wish\)](https://open.spotify.com/album/4pBBHOfDPAH14MJOKgRfVr) | 3:09 |
 | 50 | [หมดหน้าตัก \(All\-in\)](https://open.spotify.com/track/1WULkNN7oSBHUWIGLiS5K9) | [Tippsy](https://open.spotify.com/artist/49oJblk17bkNV5DeZhd3OG) | [หมดหน้าตัก \(All\-in\) \- Single](https://open.spotify.com/album/1enCxlco0Zy7xj22B1ydP4) | 2:47 |
 
-Snapshot ID: `Zyn6yAAAAAAL+58eUhiHily2SzdroOQM`
+Snapshot ID: `Zyn6yAAAAAAdKbHcFJLd5kpljJrGFe2o`

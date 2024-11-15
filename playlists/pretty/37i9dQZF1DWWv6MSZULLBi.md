@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Zach Bryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,248 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,254 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Ba Ba Song](https://open.spotify.com/track/1Ety9Dt4hIaKZGyocjilLJ) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Ba Ba Song](https://open.spotify.com/album/3p2eePj2vNHZLn8s1WVgJ2) | 2:58 |
 | 100 | [Heaven in the Right Light](https://open.spotify.com/track/6HEpTm4JrCTKKEXMnoYc0e) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Heaven in the Right Light](https://open.spotify.com/album/5kkjoTcwN0TkOjSSC55TCA) | 3:40 |
 
-Snapshot ID: `Zy2a0AAAAAAwgnNfjjN5+ugetbmLVY5W`
+Snapshot ID: `Zy2a0AAAAAAELlo7Uule/RUfOUsBD04f`

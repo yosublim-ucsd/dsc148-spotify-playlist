@@ -4,7 +4,7 @@
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/3pi8AlHZo5bq0mFi3wZDW8?si=TgeWgTQnQeGABCgE3L9RXg">TRON PYRE</a>
 
-399 songs - 21 hr 4 min
+400 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 | 2024-02-08 | 2024-08-31 |
 | [Blue Skies](https://open.spotify.com/track/2N764q9ENCgLLV1FBvIy00) | [Ava like Lava](https://open.spotify.com/artist/2L7QE83MaWKPuIwaxSyEfk) | [Blue Skies](https://open.spotify.com/album/56RwXwctDE9KLYEJcO6EHV) | 3:25 | 2023-11-09 | 2024-03-22 |
 | [Body Party](https://open.spotify.com/track/2tkPJsgycUtCTpK6rob0CA) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [hold me when it's cold: the cuddle pack](https://open.spotify.com/album/6Qgr0c19to4RJXIbwfxKST) | 4:22 | 2023-11-16 | 2024-02-09 |
-| [Borderline](https://open.spotify.com/track/1ETbyYXz3tUyFj9VRMGsEQ) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [All Things Considered](https://open.spotify.com/album/3dXzrmCSb1CHRz8HgyWvyP) | 2:50 | 2023-11-16 |  |
+| [Borderline](https://open.spotify.com/track/1ETbyYXz3tUyFj9VRMGsEQ) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [All Things Considered](https://open.spotify.com/album/3dXzrmCSb1CHRz8HgyWvyP) | 2:50 | 2023-11-16 | 2024-11-15 |
 | [Boyfriend](https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Boyfriend](https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf) | 3:46 | 2023-10-12 | 2023-11-10 |
 | [Brand New Me](https://open.spotify.com/track/3e1WiZKZSPqjejsE95MaLJ) | [Yashna](https://open.spotify.com/artist/7tUJZBp4pit6GbiSI1kZzH) | [Brand New Me](https://open.spotify.com/album/2tUgcQUy5QVJEAgjr4XdNa) | 2:51 | 2024-08-30 | 2024-09-03 |
 | [Bring Me Back](https://open.spotify.com/track/3hbTnk9RBhEhpNLttJZLf2) | [SARU](https://open.spotify.com/artist/7MmOG25zvGwa2Pk1KTsiVL) | [Bring Me Back](https://open.spotify.com/album/1s8qgMLi22f8flpgWVDDca) | 2:48 | 2024-06-07 | 2024-09-03 |
@@ -100,9 +100,10 @@
 | [Dream Girl](https://open.spotify.com/track/1TOuTSykx0UbCB2sypGBPs) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [Bad Weather](https://open.spotify.com/album/5jSExNcBRGAhDFQdX3dkAV) | 3:56 | 2024-02-14 | 2024-02-23 |
 | [Dream Girl](https://open.spotify.com/track/6sefxeZxiA07DbMSQB498S) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Dream Girl](https://open.spotify.com/album/0Alr1YFzlqXuaCswGzgFsj) | 3:39 | 2024-06-27 | 2024-09-03 |
 | [DRINK CHAMPS](https://open.spotify.com/track/6krwmAVXbzAcGWVYhLCf8j) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [DRINK CHAMPS](https://open.spotify.com/album/1rsnNjPDTYFUtjtE95m2Ph) | 2:20 | 2023-11-03 | 2024-03-15 |
+| [Drip](https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw) | [Tamara Mneney](https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV) | [Drip](https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R) | 3:50 | 2024-11-15 |  |
 | [Duet \(feat\. Jillz\)](https://open.spotify.com/track/7m07xNnm2xJnpkRN9JRScv) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [Tshego](https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY), [Jillz](https://open.spotify.com/artist/5qov3hiFB9QhOcdqDEL839) | [ForPlay](https://open.spotify.com/album/4SSFMsLPlXZ1ZA2boX5iUX) | 3:41 | 2023-11-16 | 2024-03-01 |
 | [EBBS & FLOWS: Endlessly](https://open.spotify.com/track/7mgeMBOFtXugHlK0C27UXx) | [LANDMARQUE](https://open.spotify.com/artist/1IPbTwMsCPZBA97EBCYBYL), [Ayanda Jiya](https://open.spotify.com/artist/3fHajGrVzPPPfrsY6OJ3Nl) | [EBBS & FLOWS: Endlessly](https://open.spotify.com/album/5zuD21xL4m084eqTonEZ6b) | 3:05 | 2023-10-26 | 2024-01-26 |
-| [ebi from Waterside](https://open.spotify.com/track/2py8kc44JBLG6FDecO4eC3) | [OLOOTÙ](https://open.spotify.com/artist/2r8dLv6MC4fUri2tk2jSJe), [Kevo Realsound](https://open.spotify.com/artist/23kU8wzX05FI78OwrySKOw) | [ebi from Waterside](https://open.spotify.com/album/2gvDwd9j7ESgS3xJTFtgyG) | 3:55 | 2024-09-11 |  |
+| [ebi from Waterside](https://open.spotify.com/track/2py8kc44JBLG6FDecO4eC3) | [OLOOTÙ](https://open.spotify.com/artist/2r8dLv6MC4fUri2tk2jSJe), [Kevo Realsound](https://open.spotify.com/artist/23kU8wzX05FI78OwrySKOw) | [ebi from Waterside](https://open.spotify.com/album/2gvDwd9j7ESgS3xJTFtgyG) | 3:55 | 2024-09-11 | 2024-11-15 |
 | [Emotional Home](https://open.spotify.com/track/3ONXONRB7KYAgh8TZSzGzu) | [Mx Blouse](https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE), [dronezz](https://open.spotify.com/artist/4qaoALS2X6hdiXnhBC7aDo), [OLOTU](https://open.spotify.com/artist/2DmyeIzUYJ2G2h5uZ04yVL) | [Emotional Home](https://open.spotify.com/album/0rY5tMhcmXGzDzjoJw7oN8) | 2:54 | 2024-07-25 | 2024-09-03 |
 | [Emotions](https://open.spotify.com/track/3YajlRfdwOHXedzlQKDBbr) | [Love, Tumi](https://open.spotify.com/artist/2wKEplM0fJagFSsFAXGpnD) | [Emotions](https://open.spotify.com/album/7tF5ODlbKj6FoKrDJsgDmJ) | 2:42 | 2024-02-14 | 2024-02-23 |
 | [End Of Summer](https://open.spotify.com/track/2ENNmSeAFS7Dc8Sgou8VzJ) | [Obembe](https://open.spotify.com/artist/3BtuRQMNvyNMsXQneahybl) | [End Of Summer](https://open.spotify.com/album/2mmLte0m7zdhb0f2ndVp0e) | 2:21 | 2024-01-11 | 2024-04-06 |
@@ -334,7 +335,7 @@
 | [Sunday Morning](https://open.spotify.com/track/4J82fy5b9EdYwVSogEh8Xw) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [In the beginning was the end](https://open.spotify.com/album/2BGE8IaqHURKrGb14FHygQ) | 2:28 | 2024-09-02 | 2024-09-12 |
 | [sunsets](https://open.spotify.com/track/7Cqjt0ObvdBrzHMs08Tdyz) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [sunsets](https://open.spotify.com/album/1cYkWCj8fKozpflR6TSypg) | 1:44 | 2024-09-02 | 2024-09-12 |
 | [Superpowers](https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 2:54 | 2024-02-08 | 2024-06-14 |
-| [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2024-09-11 |  |
+| [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2024-09-11 | 2024-11-15 |
 | [Sure thing \- Remix](https://open.spotify.com/track/4xGIKc8ga6tINIswutI5OP) | [Dominiique](https://open.spotify.com/artist/3RNtAKOtBRnrMYOwtSpoaa) | [Sure thing \(Remix\)](https://open.spotify.com/album/4aYzjNMXVLmeJJgNshYs4j) | 3:16 | 2024-09-02 | 2024-09-12 |
 | [sweeeet](https://open.spotify.com/track/5j34I5WUnKZVHP14J0Mlcb) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [roses are red, tears are blue — A Fountain Baby Extended Play](https://open.spotify.com/album/5PG3V76DdkOmlZT7RyrvPU) | 1:51 | 2024-09-11 |  |
 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 | 2024-06-27 | 2024-09-03 |

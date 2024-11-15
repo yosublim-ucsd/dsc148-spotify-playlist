@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de hits pra te acompanhar no home office.",
-  "num_followers": 232775,
+  "num_followers": 232791,
   "original_name": "Trabalhando de Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zd5CyQAAAADxu0ngq+y0lbHYiP6Q1+CJ",
+  "snapshot_id": "Zd5CyQAAAABQInksXhktu2M5uWhHiKsc",
   "tracks": [
     {
       "added_at": "2024-02-27 20:15:05",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Ocean Rain (Expanded; 2007 Remaster)",
-        "url": "https://open.spotify.com/album/3V4j1tMdQqpq8nwW02UOiW"
-      },
-      "artists": [
-        {
-          "name": "Echo & the Bunnymen",
-          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
-        }
-      ],
-      "duration_ms": 348293,
-      "name": "The Killing Moon",
-      "url": "https://open.spotify.com/track/35E2eKIEXXnP5q9L51iOAk"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Steal This Album!",
         "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 201200,
       "name": "Roulette",
       "url": "https://open.spotify.com/track/4sM7v7wyRAuV6ZTO2dvnCA"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Ocean Rain (Expanded; 2007 Remaster)",
+        "url": "https://open.spotify.com/album/3V4j1tMdQqpq8nwW02UOiW"
+      },
+      "artists": [
+        {
+          "name": "Echo & the Bunnymen",
+          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+        }
+      ],
+      "duration_ms": 348293,
+      "name": "The Killing Moon",
+      "url": "https://open.spotify.com/track/35E2eKIEXXnP5q9L51iOAk"
     },
     {
       "added_at": "2024-02-27 20:15:05",

@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 115840,
+  "num_followers": 116002,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzIIhwAAAADJrnpUBwLbBgtNP1rD3UP3",
+  "snapshot_id": "ZzIIhwAAAAAU4jkWSWb9KRFbAXGWfD8/",
   "tracks": [
     {
       "added_at": "2024-11-11 13:37:11",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-11-11 13:37:11",
       "album": {
-        "name": "The Man With The Bag",
-        "url": "https://open.spotify.com/album/21Xq5vgILkNpVZiGKjBgdd"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 123241,
-      "name": "The Man With The Bag",
-      "url": "https://open.spotify.com/track/2R60AwEI6yNX8iJ0EEfKPD"
-    },
-    {
-      "added_at": "2024-11-11 13:37:11",
-      "album": {
         "name": "Mr. Christmas",
         "url": "https://open.spotify.com/album/5JPo6hwhiDvkRXXizqE71B"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 216042,
       "name": "Mr. Christmas",
       "url": "https://open.spotify.com/track/20JGzStdmjMwqOZw4w7Grt"
+    },
+    {
+      "added_at": "2024-11-11 13:37:11",
+      "album": {
+        "name": "The Man With The Bag",
+        "url": "https://open.spotify.com/album/21Xq5vgILkNpVZiGKjBgdd"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 123241,
+      "name": "The Man With The Bag",
+      "url": "https://open.spotify.com/track/2R60AwEI6yNX8iJ0EEfKPD"
     },
     {
       "added_at": "2024-11-11 13:37:11",
@@ -639,18 +639,18 @@
     {
       "added_at": "2024-11-11 13:37:11",
       "album": {
-        "name": "Here We Come A-Caroling",
-        "url": "https://open.spotify.com/album/5aux4vuQsbLHr84UvKtx5t"
+        "name": "Christmas Time Is Here",
+        "url": "https://open.spotify.com/album/5HfF8IPJadrq9DMVw7Yp7U"
       },
       "artists": [
         {
-          "name": "Dries Riesen",
-          "url": "https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL"
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
         }
       ],
-      "duration_ms": 68707,
-      "name": "Here We Come A-Caroling",
-      "url": "https://open.spotify.com/track/2Vh915f8W7DKMRq56upIEJ"
+      "duration_ms": 144953,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/6BiJEPqMY3IvsvXLYe5tTh"
     },
     {
       "added_at": "2024-11-11 13:37:11",
@@ -671,6 +671,22 @@
       "duration_ms": 204000,
       "name": "Little White Berry",
       "url": "https://open.spotify.com/track/04i0n52ZpDuITt7uQpaWnt"
+    },
+    {
+      "added_at": "2024-11-11 13:37:11",
+      "album": {
+        "name": "Here We Come A-Caroling",
+        "url": "https://open.spotify.com/album/5aux4vuQsbLHr84UvKtx5t"
+      },
+      "artists": [
+        {
+          "name": "Dries Riesen",
+          "url": "https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL"
+        }
+      ],
+      "duration_ms": 68707,
+      "name": "Here We Come A-Caroling",
+      "url": "https://open.spotify.com/track/2Vh915f8W7DKMRq56upIEJ"
     },
     {
       "added_at": "2024-11-11 13:37:11",
@@ -711,22 +727,6 @@
     {
       "added_at": "2024-11-11 13:37:11",
       "album": {
-        "name": "Christmas Time Is Here",
-        "url": "https://open.spotify.com/album/5HfF8IPJadrq9DMVw7Yp7U"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 144953,
-      "name": "Santa Claus Is Coming To Town",
-      "url": "https://open.spotify.com/track/6BiJEPqMY3IvsvXLYe5tTh"
-    },
-    {
-      "added_at": "2024-11-11 13:37:11",
-      "album": {
         "name": "Holiday For Swing!",
         "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 153533,
       "name": "Mele Kalikimaka",
       "url": "https://open.spotify.com/track/0UqkDwuC21kH8aBghYK5gd"
-    },
-    {
-      "added_at": "2024-11-11 13:37:11",
-      "album": {
-        "name": "What A Night! A Christmas Album",
-        "url": "https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/0d6akjLICicFPbTghnJkFP"
     },
     {
       "added_at": "2024-11-11 13:37:11",
@@ -787,6 +771,22 @@
       "duration_ms": 175243,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/76zNFKrXOPYwHoiYGZ4xmV"
+    },
+    {
+      "added_at": "2024-11-11 13:37:11",
+      "album": {
+        "name": "What A Night! A Christmas Album",
+        "url": "https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/0d6akjLICicFPbTghnJkFP"
     },
     {
       "added_at": "2024-11-11 13:37:11",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-11-11 13:37:11",
       "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/1fJInYY8L0zWFIIzpoeVgx"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/3Z5g0II4PtIdyhLLSRXERg"
+    },
+    {
+      "added_at": "2024-11-11 13:37:11",
+      "album": {
         "name": "Pretty/Groovy (Expanded Edition)",
         "url": "https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 141621,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/1FP675TZfSRXvc6sS9X91z"
-    },
-    {
-      "added_at": "2024-11-11 13:37:11",
-      "album": {
-        "name": "Winter Wonderland",
-        "url": "https://open.spotify.com/album/1fJInYY8L0zWFIIzpoeVgx"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/3Z5g0II4PtIdyhLLSRXERg"
     },
     {
       "added_at": "2024-11-11 13:37:11",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-11-11 13:37:11",
       "album": {
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/4MC3Lul2Dm1ooAtGVARP0a"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 225596,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2E55IaqlqMsF0NxU7oIIpC"
+    },
+    {
+      "added_at": "2024-11-11 13:37:11",
+      "album": {
         "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
         "url": "https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2024-11-11 13:37:11",
       "album": {
-        "name": "Christmas Jazz With The Stars",
-        "url": "https://open.spotify.com/album/4sfq7INKFIAYi8NEigZ7RY"
-      },
-      "artists": [
-        {
-          "name": "Sammy Davis Jr.",
-          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
-        }
-      ],
-      "duration_ms": 154306,
-      "name": "Christmas Time All Over the World",
-      "url": "https://open.spotify.com/track/2KTDECCXQYjGftNlpsCkya"
-    },
-    {
-      "added_at": "2024-11-11 13:37:11",
-      "album": {
         "name": "The Pianoman at Christmas",
         "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
       },
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2024-11-11 13:37:11",
       "album": {
-        "name": "Jingle Bells",
-        "url": "https://open.spotify.com/album/4MC3Lul2Dm1ooAtGVARP0a"
+        "name": "Christmas Jazz With The Stars",
+        "url": "https://open.spotify.com/album/4sfq7INKFIAYi8NEigZ7RY"
       },
       "artists": [
         {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
         }
       ],
-      "duration_ms": 225596,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2E55IaqlqMsF0NxU7oIIpC"
+      "duration_ms": 154306,
+      "name": "Christmas Time All Over the World",
+      "url": "https://open.spotify.com/track/2KTDECCXQYjGftNlpsCkya"
     },
     {
       "added_at": "2024-11-11 13:37:11",
@@ -1163,6 +1163,22 @@
       "duration_ms": 126284,
       "name": "Mary's Boy Child",
       "url": "https://open.spotify.com/track/0cbzNKDJPIpNOKfBGiRmn2"
+    },
+    {
+      "added_at": "2024-11-11 13:37:11",
+      "album": {
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 145640,
+      "name": "Skating",
+      "url": "https://open.spotify.com/track/7hK9jnESeCfc5fIHH76jKh"
     },
     {
       "added_at": "2024-11-11 13:37:11",
@@ -1199,22 +1215,6 @@
       "duration_ms": 162559,
       "name": "(Everybody's Waitin' For) The Man With The Bag - Remastered",
       "url": "https://open.spotify.com/track/27icEh09mKhDVMcxgvu7cK"
-    },
-    {
-      "added_at": "2024-11-11 13:37:11",
-      "album": {
-        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
-        "url": "https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 145640,
-      "name": "Skating",
-      "url": "https://open.spotify.com/track/7hK9jnESeCfc5fIHH76jKh"
     },
     {
       "added_at": "2024-11-11 13:37:11",

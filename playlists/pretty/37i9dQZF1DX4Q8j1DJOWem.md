@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: sarah salola
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,862 likes - 40 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,861 likes - 40 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 39 | [Beautiful](https://open.spotify.com/track/3eCPoj189vDT8ltJvoOvHK) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [PERSES FIRST EP MY TIME](https://open.spotify.com/album/0XNIQbcMBIXSIal5BeBcoK) | 3:21 |
 | 40 | [ฟีลลิ่งแบบว่าอู้วว!](https://open.spotify.com/track/330spX93u5K5XINCCJzko3) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ฟีลลิ่งแบบว่าอู้วว!](https://open.spotify.com/album/3WGthfl2NKI9tuX4z4R7CP) | 4:22 |
 
-Snapshot ID: `ZyUWcwAAAABa5knkFzsPS08Ibo5D7TuI`
+Snapshot ID: `ZyUWcwAAAAC2HUOOD7k+19q0Q3M+FlsH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent writing their own songs\. Cover: Maeve Zamuner
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,921 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,949 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 74 | [Sticks and Stones](https://open.spotify.com/track/3CdMzFEOICekztAAcJw3ct) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [Sticks and Stones](https://open.spotify.com/album/4QGuaJoRjdOw326Ex7xzwp) | 3:32 |
 | 75 | [Move On](https://open.spotify.com/track/6vTzONIAVZMzG9UGAtv7Xv) | [Temm](https://open.spotify.com/artist/1TCG4phIm3YNXPLzKhHPoD) | [Move On](https://open.spotify.com/album/3OA28iQCKxCSiuIkWaykhZ) | 3:42 |
 
-Snapshot ID: `Zy2a0AAAAABNEfXLZAXrgbBYzbqcUT2s`
+Snapshot ID: `Zy2a0AAAAADlgmalrzWXQL6LfyJsCTyf`

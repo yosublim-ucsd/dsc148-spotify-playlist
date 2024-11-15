@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:0jChaPqRQFGVIjnwTqeZiD">Tá com Tempo?</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,755 likes - 11 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,753 likes - 11 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 | 10 | [A bizarra história do ator de Sons Of Anarchy](https://open.spotify.com/episode/742GqYTFTyQhbux4rWTngQ) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/show/6bSPrd8qTvWFk6e2NtZBbR) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/album/6bSPrd8qTvWFk6e2NtZBbR) | 14:48 |
 | 11 | [a vida é uma questão de tempo](https://open.spotify.com/episode/35kfoVykhStq4eFGLUwS4n) | [fiz o que pude ¯\\\_\(ツ\)\_/¯ ](https://open.spotify.com/show/6yTHTc5kaZj85vstsFV7GP) | [fiz o que pude ¯\\\_\(ツ\)\_/¯ ](https://open.spotify.com/album/6yTHTc5kaZj85vstsFV7GP) | 10:56 |
 
-Snapshot ID: `ZyixRQAAAACa+UxUe114pJdFoK4ENKqB`
+Snapshot ID: `ZyixRQAAAADWk+7FQE6eLJOmfvsGbuCN`

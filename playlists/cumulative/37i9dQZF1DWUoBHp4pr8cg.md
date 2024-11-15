@@ -2,9 +2,9 @@
 
 ### [Hip Hop Circle](https://open.spotify.com/playlist/37i9dQZF1DWUoBHp4pr8cg)
 
-> Only the hottest Hip Hop from Usimamane, DJ Slique, Tyler, The Creator, and more...
+> Only the hottest Hip Hop from Brotherkupa, DJ Slique, Tyler, The Creator, and more...
 
-337 songs - 18 hr 13 min
+338 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [HOPE](https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW) | 4:24 | 2023-02-23 | 2023-03-11 |
 | [Hot Sauce](https://open.spotify.com/track/0Mtk1CAT9lAISJjvBY8CbT) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Hot Sauce](https://open.spotify.com/album/6jeeHsOvUDczcJ17R7ozlc) | 2:57 | 2023-05-05 | 2023-09-23 |
 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy) | 2:22 | 2022-07-14 | 2024-07-19 |
+| [How I feel](https://open.spotify.com/track/14XWobfiEPsQnVgTNsdMC0) | [Brotherkupa](https://open.spotify.com/artist/2SRkMY6LxkfTMqktaFn32r) | [Teen Revolution](https://open.spotify.com/album/2GMA0txzGTDB2MZiKTPx6H) | 3:03 | 2024-11-15 |  |
 | [I Aint Got The Answers](https://open.spotify.com/track/4JrBckJi6ntTg2883PLOFD) | [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz), [Ginger Trill](https://open.spotify.com/artist/6RBOLfqkI4jKZxRw2X89rI) | [I Ain't Got The Answers](https://open.spotify.com/album/7FvIp2G42YVskYHRbvoWBy) | 4:20 | 2023-11-23 | 2024-02-09 |
 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 | 2023-09-22 | 2024-03-16 |
 | [I'll Always Have Me](https://open.spotify.com/track/21IPXg9zJBfJRPzwMuVjpN) | [Touchline](https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz), [Veena](https://open.spotify.com/artist/4hSFcNs4ESZUO7f4LDYqOn) | [S.O.O.N 2 \(A Better Year\) \[Deluxe Edition\]](https://open.spotify.com/album/6Xp9Tw8YX3689PRvd23Rl6) | 5:00 | 2023-01-23 | 2023-02-24 |
@@ -279,7 +280,7 @@
 | [Stadiums](https://open.spotify.com/track/5Sqya98MFN0RHN2oglnTTX) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg) | [Stadiums](https://open.spotify.com/album/40F5ywKIXAvpWHrsRc0Ufo) | 2:52 | 2023-01-23 | 2023-02-24 |
 | [Start Over \(feat\. 6LACK\)](https://open.spotify.com/track/2d9MYGHDxjUB8P7qAI6bhe) | [Trey Bond](https://open.spotify.com/artist/6BWvzCLOnxDse9KYROLCHs), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Start Over \(feat\. 6LACK\)](https://open.spotify.com/album/4QlBtOJAooYJjTOlmOEDLO) | 3:25 | 2022-09-29 | 2022-11-11 |
 | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok) | 2:58 | 2022-09-29 | 2023-06-24 |
-| [stoners](https://open.spotify.com/track/3tYBsGcHQS8OqkLlE72Lm7) | [Michael Tuohy](https://open.spotify.com/artist/5FeEPMjFuqvtxQzU2hl6Y5), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [worth it + stoners](https://open.spotify.com/album/3rTmgPoF2CqroawhmSIZDR) | 2:43 | 2024-04-22 |  |
+| [stoners](https://open.spotify.com/track/3tYBsGcHQS8OqkLlE72Lm7) | [Michael Tuohy](https://open.spotify.com/artist/5FeEPMjFuqvtxQzU2hl6Y5), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [worth it + stoners](https://open.spotify.com/album/3rTmgPoF2CqroawhmSIZDR) | 2:43 | 2024-04-22 | 2024-11-15 |
 | [Stop Breathing](https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Stop Breathing](https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe) | 1:50 | 2022-09-29 | 2023-01-24 |
 | [str8 to hell](https://open.spotify.com/track/5iRGJi0Nd7uIbSfLXlMKzs) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [Kill The King: the mixtape](https://open.spotify.com/album/5XxghpaGYOjMYfaggN0g0t) | 2:28 | 2024-09-13 |  |
 | [Strike \(Holster\)](https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 2:28 | 2023-04-11 | 2024-04-05 |

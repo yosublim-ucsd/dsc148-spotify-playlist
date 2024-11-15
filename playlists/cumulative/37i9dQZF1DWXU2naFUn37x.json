@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Il top dello street rap italiano \ud83d\udd25 Cover: Kid Yugi",
+  "description": "Il top dello street rap italiano \ud83d\udd25 Cover: Don Joe, Niky Savage, Emis Killa",
   "name": "Street Culto",
   "tracks": [
     {
@@ -1660,6 +1660,28 @@
       "duration_ms": 154405,
       "name": "BALLAS RMX (feat. MamboLosco, Janga ODT)",
       "url": "https://open.spotify.com/track/61Tc6VFFrxANwYbKp9ZYWT"
+    },
+    {
+      "album": {
+        "name": "BALLIN",
+        "url": "https://open.spotify.com/album/5NlYTLOJa5rVz5qLJf1lXf"
+      },
+      "artists": [
+        {
+          "name": "Rasty Kilo",
+          "url": "https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8"
+        },
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "BALLIN",
+      "url": "https://open.spotify.com/track/3TFMHw1vYWUWc5QALZQf2K"
     },
     {
       "album": {
@@ -3430,7 +3452,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 149473,
       "name": "CHIARA",
       "url": "https://open.spotify.com/track/6SVpLJB1wm9OAbAjPt48hj"
@@ -4017,6 +4039,28 @@
     },
     {
       "album": {
+        "name": "No Pressure, No Diamonds",
+        "url": "https://open.spotify.com/album/5gRvTwwvyRN2vYNBM9hmQu"
+      },
+      "artists": [
+        {
+          "name": "Faneto",
+          "url": "https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162644,
+      "name": "Cos\u00ec Non Va Bene (feat. Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/5eRy8OYaPS3XB5DCzDolks"
+    },
+    {
+      "album": {
         "name": "SILENZIO",
         "url": "https://open.spotify.com/album/39NYzf6GQLB8KZyyxfYKRh"
       },
@@ -4320,7 +4364,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 167272,
       "name": "Dissennatori (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/5qV4HuHG5pJYrIIvfAuo55"
@@ -5959,6 +6003,32 @@
     },
     {
       "album": {
+        "name": "BISHA",
+        "url": "https://open.spotify.com/album/4s1b2WEZ7veqh7QcxrQGxx"
+      },
+      "artists": [
+        {
+          "name": "Il Ghost",
+          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
+        },
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        },
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "GUAI (feat. N\u00e9za, Nabi)",
+      "url": "https://open.spotify.com/track/460LskH33h1kqiXfNx1ehm"
+    },
+    {
+      "album": {
         "name": "GUARDA COME FL3XO",
         "url": "https://open.spotify.com/album/3WoOhPK946IoZwevCoayvR"
       },
@@ -6120,7 +6190,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 182957,
       "name": "Hania",
       "url": "https://open.spotify.com/track/15RAs4OBrCzCelLxwl1Qeg"
@@ -9665,6 +9735,28 @@
     },
     {
       "album": {
+        "name": "FERITE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7g7002AcxLMerhLQEA8naR"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171125,
+      "name": "Nuovo Inizio (feat. Shiva)",
+      "url": "https://open.spotify.com/track/3Fg8eOwcv5ctsjYYajBzFk"
+    },
+    {
+      "album": {
         "name": "SEVEN 7oo Mixtape",
         "url": "https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG"
       },
@@ -10252,6 +10344,32 @@
       "duration_ms": 148250,
       "name": "Pezzi Che Cadono (feat. Tony Boy)",
       "url": "https://open.spotify.com/track/3ck23O4wJjSdl1q7WpFWmk"
+    },
+    {
+      "album": {
+        "name": "IN PIAZZA CI MUORI",
+        "url": "https://open.spotify.com/album/4wtJX1nuRVQrFA1zsbM9rE"
+      },
+      "artists": [
+        {
+          "name": "167 Gang",
+          "url": "https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145548,
+      "name": "Piazza di spaccio 2 (feat. Simba La Rue)",
+      "url": "https://open.spotify.com/track/52B1qAwWCajgFC1kgVqGjj"
     },
     {
       "album": {
@@ -12988,7 +13106,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 151348,
       "name": "TIK TOK (feat. Niky Savage)",
       "url": "https://open.spotify.com/track/7GJtNxsYTi0LwJG6SA4tjO"
@@ -13848,7 +13966,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 183889,
       "name": "Vecchio stampo & West Coast",
       "url": "https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP"

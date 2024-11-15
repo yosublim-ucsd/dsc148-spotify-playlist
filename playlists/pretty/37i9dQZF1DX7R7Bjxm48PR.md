@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 
 > Calming and inspiring piano music for yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,342 likes - 114 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,370 likes - 114 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 113 | [Les débuts](https://open.spotify.com/track/4R6L0FlLprIsVMJ9bdDd1e) | [Kathrin Holtz](https://open.spotify.com/artist/6okzShndL8TdXSW8hKm17P) | [Les débuts](https://open.spotify.com/album/3nK1eHhGeRlFfD2PDMYiQY) | 2:13 |
 | 114 | [Noctiphany](https://open.spotify.com/track/2bzHADVvOnECWhqpLf5Rwi) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Noctiphany](https://open.spotify.com/album/7lfk1JKUKGhYCt0oPn5spO) | 3:01 |
 
-Snapshot ID: `ZzRr7QAAAAAFFp2vy3A+QrIAS9HGM5Jr`
+Snapshot ID: `ZzRr7QAAAABa3DweRuKRy6xmovCTmpzm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and artists in the soul space\. Cover: Noha Saré
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,615 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,679 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 79 | [Somedays](https://open.spotify.com/track/7mhNOMlEyc3X6kT2p8q12H) | [Beau Zwart](https://open.spotify.com/artist/0yuIEVxJaq3DUSo0ShzdZm), [Sykes](https://open.spotify.com/artist/2JmhEj7PPMlCxACWXxqSGA) | [Somedays](https://open.spotify.com/album/1zopJzaNTErG0DT8yEE1s0) | 2:35 |
 | 80 | [Expectations](https://open.spotify.com/track/6ExaJyKDD0Jaq7KTTe3b1Q) | [ROSEYE](https://open.spotify.com/artist/5OgVIGurum64YtfpEjicYy), [Hessel Du Mark](https://open.spotify.com/artist/4NvjzlewQiiQArGcgQFPBK) | [Expectations](https://open.spotify.com/album/1ZJRQkOGD04iBxQsL23Lzx) | 4:06 |
 
-Snapshot ID: `ZzTn3gAAAADy0jQf7WGfu95bq6pr5W0m`
+Snapshot ID: `ZzTn3gAAAAC9faLSysq23Pte+tEntxni`

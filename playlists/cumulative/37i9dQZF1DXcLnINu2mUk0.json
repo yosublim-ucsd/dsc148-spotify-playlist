@@ -4092,7 +4092,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 265011,
       "name": "Estrela Maior",
       "url": "https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF"
@@ -6634,7 +6634,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 197333,
       "name": "Lugar Favorito",
       "url": "https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3"
@@ -7754,6 +7754,28 @@
       "duration_ms": 164732,
       "name": "NADA DE NOVO",
       "url": "https://open.spotify.com/track/4O1Uk0lAty6YBmrAdmYk2A"
+    },
+    {
+      "album": {
+        "name": "NADA \u00c9 COMO ANTES",
+        "url": "https://open.spotify.com/album/58z9LFCp2cTPUPuCWcakEv"
+      },
+      "artists": [
+        {
+          "name": "Monsta",
+          "url": "https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS"
+        },
+        {
+          "name": "Deezy",
+          "url": "https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185714,
+      "name": "NADA \u00c9 COMO ANTES",
+      "url": "https://open.spotify.com/track/2TTPw3ABfLAznAZAWplpdM"
     },
     {
       "album": {
@@ -9958,6 +9980,24 @@
       "duration_ms": 159250,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/5zLtHIHaJ4O1EVVl76xvJi"
+    },
+    {
+      "album": {
+        "name": "Rico",
+        "url": "https://open.spotify.com/album/4XaCt1n13B6VkhzqLzAgTu"
+      },
+      "artists": [
+        {
+          "name": "Paulelson",
+          "url": "https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153396,
+      "name": "Rico",
+      "url": "https://open.spotify.com/track/2v8HWzaIKCOlKuctXLZY7T"
     },
     {
       "album": {

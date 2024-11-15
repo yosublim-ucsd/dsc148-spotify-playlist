@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 
 > 
 
-[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,639 likes - 20 songs - 1 hr 4 min
+[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,643 likes - 20 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 | 6 | [Time To Go](https://open.spotify.com/track/12hypREWe3wQFb6xgAbwtT) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Time To Go](https://open.spotify.com/album/3ejTqXB3AbW6bGO8iJGmQJ) | 3:22 |
 | 7 | [Praise To The Bass](https://open.spotify.com/track/79dJRAdykQcSXlGTKdMThu) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Praise To The Bass](https://open.spotify.com/album/01WXivam8OeD3OrHuYyHFX) | 3:07 |
 | 8 | [Shaky](https://open.spotify.com/track/4hSDDnDiSaTSqIB8u9Zoap) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Shaky](https://open.spotify.com/album/423ScEexLkxNgdlxeFfT5L) | 2:31 |
-| 9 | [Pasto Y Perico](https://open.spotify.com/track/1JtqmmPyjuSS6mgYDuvtP9) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Hotel Dieu](https://open.spotify.com/artist/3QDq76AYkHaotSMANOG1W9), [Jay Vázquez](https://open.spotify.com/artist/65it9QYg2Trf2APW4GjpQj) | [Pasto Y Perico](https://open.spotify.com/album/301NeU6R2RZXAN5Q8S5qud) | 2:47 |
+| 9 | [Pasto Y Perico \(feat Jay Vazquez\)](https://open.spotify.com/track/1JtqmmPyjuSS6mgYDuvtP9) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Hotel Dieu](https://open.spotify.com/artist/3QDq76AYkHaotSMANOG1W9), [Jay Vázquez](https://open.spotify.com/artist/65it9QYg2Trf2APW4GjpQj) | [Pasto Y Perico \(feat Jay Vazquez\)](https://open.spotify.com/album/301NeU6R2RZXAN5Q8S5qud) | 2:47 |
 | 10 | [Sleepy](https://open.spotify.com/track/5jdSp3QthmtzUmc0pJtlMB) | [Trace](https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX), [Side B](https://open.spotify.com/artist/3hm9D6w73Erm43Ym0gtmjR) | [Sleepy](https://open.spotify.com/album/0FapnX0tNRjEqsOelkTq4A) | 2:41 |
 | 11 | [Lost My Mind](https://open.spotify.com/track/56oSAE73OjWcUeXUafx0RV) | [Bessey](https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA) | [Lost My Mind](https://open.spotify.com/album/3ylxiWdtlLfACBWcECw5sb) | 3:03 |
 | 12 | [Paddling Out](https://open.spotify.com/track/7uUxuvyPhUrb2SeqH46hQZ) | [SHIFTY](https://open.spotify.com/artist/4nbgTxHw3R2Lc8P6ytQIU8) | [Paddling Out](https://open.spotify.com/album/71hwVURKmGMHxqEOdscSkc) | 2:46 |

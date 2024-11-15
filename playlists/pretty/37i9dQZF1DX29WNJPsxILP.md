@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 
 > Rap from the hoods of Dilli featuring Karma
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,184 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,218 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 4 | [Tere Jaisi](https://open.spotify.com/track/7ebzprvKL2Z1tMOfBC40YG) | [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF), [Meena](https://open.spotify.com/artist/0oyqGTqiIZuiybcnkmKUId), [Richcal](https://open.spotify.com/artist/0jyKZurcbzfe3kD7nxaKAb) | [Tere Jaisi](https://open.spotify.com/album/6WQ9T9HcO88ki3uX1comJi) | 2:49 |
 | 5 | [Karta Kya Hai](https://open.spotify.com/track/55rsHTpDenL0DajypexEI6) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [How Much a Rhyme Costs?](https://open.spotify.com/album/6adVQtQUqBzdWx49n03C4G) | 3:24 |
 | 6 | [Maa Ka Call](https://open.spotify.com/track/30J1YSP7njH6AqPpGTNQuW) | [Bekhauf](https://open.spotify.com/artist/11TNfhP5pMAgWbDwPhvdg0), [THOUGHT](https://open.spotify.com/artist/5GZklBtmZD8WZsLGVbHQqC) | [Maa Ka Call](https://open.spotify.com/album/0ao10oa3mdiFfPfRhS5rrH) | 2:52 |
-| 7 | [Prarthana](https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd) | [FAR FROM OVER](https://open.spotify.com/album/4013u1RNEHieH8NwnN0vNh) | 3:19 |
+| 7 | [Prarthana](https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [FAR FROM OVER](https://open.spotify.com/album/4013u1RNEHieH8NwnN0vNh) | 3:19 |
 | 8 | [Raat Ki Rani](https://open.spotify.com/track/1alInstEk6TQMuPyjCgI4K) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [SHAKTI](https://open.spotify.com/album/6Mwca6sXGKb25VkAc1e6X3) | 3:31 |
 | 9 | [Woh Raat](https://open.spotify.com/track/27xsLWmSmEAiXABnOngOw7) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Woh Raat](https://open.spotify.com/album/7MKr5NF5sZUWjheSa1NXFf) | 3:12 |
 | 10 | [Duniya Makkaar](https://open.spotify.com/track/78C9fInl0QUYAQBsEenYVC) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Eyes On The Prize](https://open.spotify.com/album/1b46lR5SZxbKQrwNikXDQe) | 2:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 74 | [Inner Circle](https://open.spotify.com/track/1yJyVPkov6bAAFV9jEXdEH) | [BAWA](https://open.spotify.com/artist/397KJT6AbxxE3UgpLktTvR) | [Inner Circle](https://open.spotify.com/album/0Cgye1OU6oXhSqVC2JjWmX) | 2:31 |
 | 75 | [Das Matt Lena](https://open.spotify.com/track/4GOADgwjYJXFbAmTnSuwkO) | [Preet Sandhu](https://open.spotify.com/artist/65vX07QbbDkq0m0WSJvSmq), [Nisha Bhatt](https://open.spotify.com/artist/1QzODDwIuW8yLOnpch343j), [Crowny](https://open.spotify.com/artist/1ff7RRGYaqGGsOpUrEm5un) | [Das Matt Lena](https://open.spotify.com/album/45O495a22u8N3UVOCH5zyU) | 2:40 |
 
-Snapshot ID: `ZxiWXgAAAACzBdWHiEHvL8K+mVO824ps`
+Snapshot ID: `ZxiWXgAAAABY/3lb851Q9qwik4B3Yd7h`

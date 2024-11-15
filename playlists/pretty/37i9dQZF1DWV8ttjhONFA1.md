@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: Mica Sotera
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,070 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,094 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 65 | [Ritmo de la Noche](https://open.spotify.com/track/66XpgMyLOVkxaaFIZNCeHE) | [Los Reyes del Falsete](https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd), [Susi Pireli](https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN) | [Operación Abrazo y Beso](https://open.spotify.com/album/1mHTYUqs4h4lnQYMu52KXb) | 5:06 |
 | 66 | [Siempre](https://open.spotify.com/track/3tkbJtsTpgsjiB9zMXByy0) | [Ruido Cassette](https://open.spotify.com/artist/2YiahtiLSZAAMIHoV8uZlx), [Camila Coccia](https://open.spotify.com/artist/6Kx2DXNALSAnsFwQHK5mhm) | [Siempre](https://open.spotify.com/album/4VOkgMhd0vF1msSlm3HuRs) | 3:18 |
 | 67 | [Nada Que Decir](https://open.spotify.com/track/7n6Judorbmi3LyykG9AcYP) | [Cerro Dublín](https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7) | [Nada Que Decir](https://open.spotify.com/album/0QMciV8uK7PpIVr5Uy3eEX) | 3:28 |
-| 68 | [El Dato \- Vivo La Plata](https://open.spotify.com/track/2SWPX0mV4nKYIKaywDV3W7) | [Viva Elástico](https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ) | [Vivo La Plata](https://open.spotify.com/album/4YwDTYXtEJOK4HJhN8IZtA) | 3:36 |
+| 68 | [El Dato \- Vivo La Plata](https://open.spotify.com/track/2SWPX0mV4nKYIKaywDV3W7) | [Viva Elastico](https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ) | [Vivo La Plata](https://open.spotify.com/album/4YwDTYXtEJOK4HJhN8IZtA) | 3:36 |
 | 69 | [Donde Guardo la Tristeza](https://open.spotify.com/track/05pK0QbkKS4VS4CcBUBMtr) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Donde Guardo la Tristeza](https://open.spotify.com/album/5JHUvDcDV7bySop8ml6l6T) | 4:00 |
 | 70 | [Imitándote](https://open.spotify.com/track/3DyTHxOyaqFyVma3LUJYMn) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Imitándote](https://open.spotify.com/album/1vIOTSqcNOHM6OEhcGpfsf) | 2:54 |
 | 71 | [Vos y Yo :3](https://open.spotify.com/track/27PskjLeAML4aATbWz0b8g) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Vos y Yo :3](https://open.spotify.com/album/5Fqn9d8KrTFajcCOBcDi6i) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 99 | [Leopardos](https://open.spotify.com/track/6YEe62bQirKl9Wcg93j7RJ) | [Ine Güemes](https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR) | [Leopardos](https://open.spotify.com/album/67sfwNS6PquCyhLNVgHykg) | 3:18 |
 | 100 | [Palabras](https://open.spotify.com/track/2j5RzSlt5pXvb2KWjF5pK0) | [Galean](https://open.spotify.com/artist/3usCwS0jcb6SFJe3ZPiFA8), [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz) | [Del otro lado de la vidriera](https://open.spotify.com/album/36b4FRKLtMv0Z75NCtoOZP) | 3:30 |
 
-Snapshot ID: `Zy1+sAAAAAAiBbPJWSlf1szzWvwBgWhD`
+Snapshot ID: `Zy1+sAAAAACJFpkUo0Ip2Fp/B6wg2tYL`

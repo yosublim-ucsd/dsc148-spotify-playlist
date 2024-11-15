@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The shape of noise to come with Superheaven \(pictured\), Cloned Apparition, trauma ray, Koyo and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,844 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,864 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 69 | [ONE NATION](https://open.spotify.com/track/7oZn1w8pspTBu7Bps6WRfj) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [ONE NATION](https://open.spotify.com/album/5JJ4MejqGy8oAdPevTNi3Q) | 3:03 |
 | 70 | [Verano](https://open.spotify.com/track/1LLMCNwviNpkuKQfIpMxO0) | [Daze](https://open.spotify.com/artist/570hYppifPXSy1q9odRQwy) | [Verano](https://open.spotify.com/album/3QoNPTDcYq6Nw6Joo2YZWK) | 3:55 |
 
-Snapshot ID: `ZzLg0AAAAACVCmh0+il+RQ9MpDCvOO9t`
+Snapshot ID: `ZzLg0AAAAAChiT7dL68geuo0skjTgDSo`

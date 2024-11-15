@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan\. Cover: Anuv Jain
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,717 likes - 61 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,773 likes - 61 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 60 | [Tum Se Hi](https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Jab We Met](https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO) | 5:21 |
 | 61 | [Kamlee](https://open.spotify.com/track/3W81Nm3KNOYUPaDHrwMzWz) | [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Kamlee](https://open.spotify.com/album/7vVDDJV4smCfEEerr0wlRC) | 3:29 |
 
-Snapshot ID: `ZxjLiwAAAABX9x7m1D48KVZJEIHB68ss`
+Snapshot ID: `ZxjLiwAAAACttYV49g7vrOTZFcPk3xa8`

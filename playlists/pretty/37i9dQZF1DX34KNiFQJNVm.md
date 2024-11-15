@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC PH com Baco Exu do Blues, Jorge & Mateus, Xamã e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,953,025 likes - 69 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,953,289 likes - 69 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 68 | [SAFADIN GOXTOZIN](https://open.spotify.com/track/41cwufPxmSrMMQthgNf9Xf) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [RDD](https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW) | [ANJO](https://open.spotify.com/album/6qHhupVEPR5We3gEM7tnng) | 2:02 |
 | 69 | [Poeira Cosmica](https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Poeira Cosmica](https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn) | 4:13 |
 
-Snapshot ID: `Zy2GuAAAAACa9KNJ435VlxBK8TN2NRL1`
+Snapshot ID: `Zy2GuAAAAAAP1RGQuwQZcrCNwA3VQQMy`

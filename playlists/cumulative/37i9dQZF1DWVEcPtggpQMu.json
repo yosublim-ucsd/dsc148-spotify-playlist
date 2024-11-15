@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/0w2p769eAX32IMb6u5v1eP?si=fOL1gQL5SqCK9OBbh_O3sw\">HENNYBELIT</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn?si=SSBX2UrZQ2qfeFD6frjywQ\">Thato Saul</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -5691,6 +5691,32 @@
     },
     {
       "album": {
+        "name": "GA$",
+        "url": "https://open.spotify.com/album/7CXrSquIbRoNOcYHbomgPN"
+      },
+      "artists": [
+        {
+          "name": "IMP THA DON",
+          "url": "https://open.spotify.com/artist/3KAvQwjBAq1Cs6Y65G2YPE"
+        },
+        {
+          "name": "Tyson Sybateli",
+          "url": "https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy"
+        },
+        {
+          "name": "MashBeatz",
+          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179984,
+      "name": "GA$",
+      "url": "https://open.spotify.com/track/6ItTOHNjwYaXWsPiL0PONi"
+    },
+    {
+      "album": {
         "name": "CELESTIAL BLUES 2",
         "url": "https://open.spotify.com/album/2QvH0gR4Mczx0kw6pZsGic"
       },
@@ -8323,6 +8349,28 @@
     },
     {
       "album": {
+        "name": "Location Hurting 3 (Mixtape)",
+        "url": "https://open.spotify.com/album/5WPt6PcUue6KOMOcZVEkpm"
+      },
+      "artists": [
+        {
+          "name": "Lucasraps",
+          "url": "https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193608,
+      "name": "KING KAI (feat. Nasty C)",
+      "url": "https://open.spotify.com/track/0jspR3US1OGEElaum3nSxY"
+    },
+    {
+      "album": {
         "name": "King Size",
         "url": "https://open.spotify.com/album/5soD0R2cSUhh0IIp73OV6B"
       },
@@ -8364,6 +8412,24 @@
       "duration_ms": 204837,
       "name": "Kisses (feat. AB Crazy)",
       "url": "https://open.spotify.com/track/3Rbjd9oF0wQolDZPRSlnV7"
+    },
+    {
+      "album": {
+        "name": "All Doggs Go To Heaven",
+        "url": "https://open.spotify.com/album/3uPB3KuOcXdC2PWIs53wSf"
+      },
+      "artists": [
+        {
+          "name": "Thato Saul",
+          "url": "https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158808,
+      "name": "Klipa",
+      "url": "https://open.spotify.com/track/7HNIksvHGztXtjLPGLxzE6"
     },
     {
       "album": {
@@ -15461,6 +15527,24 @@
     },
     {
       "album": {
+        "name": "Swag Through pain",
+        "url": "https://open.spotify.com/album/6QwJRv1jHLtwA0GLUdFOXn"
+      },
+      "artists": [
+        {
+          "name": "jaykatana",
+          "url": "https://open.spotify.com/artist/0LTpOj4R3IrWZAkwKqHqLj"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115572,
+      "name": "Swag Through pain",
+      "url": "https://open.spotify.com/track/2G34Ip33U7PUMFWtstWVlN"
+    },
+    {
+      "album": {
         "name": "SWEET AROMA",
         "url": "https://open.spotify.com/album/4GGBezBvSipeWjomPsLXFo"
       },
@@ -17573,6 +17657,24 @@
     },
     {
       "album": {
+        "name": "Uyingozi",
+        "url": "https://open.spotify.com/album/0sRKMmWdoxlQzIbeUTWIPv"
+      },
+      "artists": [
+        {
+          "name": "Bad Milk",
+          "url": "https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100392,
+      "name": "Uyingozi",
+      "url": "https://open.spotify.com/track/1yFeCXNuXBEyK6IdXAba5y"
+    },
+    {
+      "album": {
         "name": "Boxed Out",
         "url": "https://open.spotify.com/album/2dvxSFbGXXcXmvc26ixLh9"
       },
@@ -17988,7 +18090,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 185917,
       "name": "WAR",
       "url": "https://open.spotify.com/track/3V3hlZ0gWcYSGCwMW6EDOs"

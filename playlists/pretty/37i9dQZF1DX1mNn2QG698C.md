@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mNn2QG698C.md) - [plain]
 
 > La playlist ufficiale del nuovo rap show di Netflix! Vincitore: Kid Lost
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,285 likes - 53 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,295 likes - 53 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mNn2QG698C.md) - [plain]
 | 52 | [Siamo la Nuova Scena \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/4ZagW6mxEeUEZsdyvGAsuv) | [Artisti di Nuova Scena](https://open.spotify.com/artist/5hhA7pbz87cLlkdVezlHyK), [Pyrmds](https://open.spotify.com/artist/6SJuw22gyr94vqmn6ANPrO) | [Siamo la Nuova Scena \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/54xVrL9XcNkck6qL08lPZT) | 1:22 |
 | 53 | [Nuova Scena è Pronta \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/5SECfDnf3gKjYd1cOX079G) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Nuova Scena è Pronta \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/4Ag6kNMNh5lMkL1R6SnFBX) | 0:28 |
 
-Snapshot ID: `ZfsMZQAAAACPR7QKn+S5ghVUwpieqpgN`
+Snapshot ID: `ZfsMZQAAAABu7xEUo2vjLf2trbF+kf4v`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Eddy de Pretto",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Yoa",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "CIN\u00c9MA",
+        "url": "https://open.spotify.com/album/1haJVnTC4CrfC6WZMtpRjh"
+      },
+      "artists": [
+        {
+          "name": "Marguerite Thiam",
+          "url": "https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "CIN\u00c9MA",
+      "url": "https://open.spotify.com/track/4BFNzsg8KIL0quoCNU4kFE"
+    },
+    {
+      "album": {
         "name": "Les histoires tristes me collent au corps",
         "url": "https://open.spotify.com/album/1An8Iq7N30VqKjuEmyPcJU"
       },
@@ -878,6 +896,24 @@
       "duration_ms": 165826,
       "name": "CONS\u2019 DE LOVE",
       "url": "https://open.spotify.com/track/73eih2FtSIuGkKvqZpMGnW"
+    },
+    {
+      "album": {
+        "name": "Contre-c\u0153ur",
+        "url": "https://open.spotify.com/album/0NgRqhtpe32D07BGbdxTAR"
+      },
+      "artists": [
+        {
+          "name": "Yoa",
+          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201905,
+      "name": "Contre-c\u0153ur",
+      "url": "https://open.spotify.com/track/4gE1HeO2U1UmnnF6angfva"
     },
     {
       "album": {
@@ -1616,7 +1652,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 205176,
       "name": "Hollywood Boulevard",
       "url": "https://open.spotify.com/track/5JC29enMuSB0uAXhZTTu41"
@@ -2050,6 +2086,24 @@
       "duration_ms": 166206,
       "name": "L'Atlantique",
       "url": "https://open.spotify.com/track/2M9JOD1W6AUSkbnpsDaWce"
+    },
+    {
+      "album": {
+        "name": "L'hiver sur tes l\u00e8vres",
+        "url": "https://open.spotify.com/album/1LIMvjkva2o23ZLESOGn04"
+      },
+      "artists": [
+        {
+          "name": "Lescop",
+          "url": "https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222776,
+      "name": "L'hiver sur tes l\u00e8vres",
+      "url": "https://open.spotify.com/track/7JO6qzrdKcydC5rPHhbeXH"
     },
     {
       "album": {
@@ -2762,7 +2816,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 221846,
       "name": "M\u00e9lancolie",
       "url": "https://open.spotify.com/track/3Ndb2yAdF5B5mLocz7iIyf"
@@ -3560,7 +3614,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 187160,
       "name": "Rester Pur.e",
       "url": "https://open.spotify.com/track/553SFuQ2AzrnvsXI2f5VtH"
@@ -4059,7 +4113,7 @@
     },
     {
       "album": {
-        "name": "TOUT PERDU",
+        "name": "TOUT PERDU / MIRAGE NOCTURNE",
         "url": "https://open.spotify.com/album/1E2lZ16kLL0r0db688qhuI"
       },
       "artists": [

@@ -520,7 +520,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 258118,
       "name": "Chakra Flute",
       "url": "https://open.spotify.com/track/1RVE3qgDAvaiD5zDOq3uE0"
@@ -1070,6 +1070,24 @@
       "duration_ms": 147640,
       "name": "Haathee",
       "url": "https://open.spotify.com/track/2iIEvKccENdTBtmLElhqOp"
+    },
+    {
+      "album": {
+        "name": "Healing Garden",
+        "url": "https://open.spotify.com/album/5SpMwisr4L8bZYSrlPD32X"
+      },
+      "artists": [
+        {
+          "name": "Aman Nandi",
+          "url": "https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Healing Garden",
+      "url": "https://open.spotify.com/track/6x7xECuEr6vwoNf3j7wb1z"
     },
     {
       "album": {
@@ -3171,6 +3189,24 @@
     },
     {
       "album": {
+        "name": "Supreme Emotions",
+        "url": "https://open.spotify.com/album/5GIK4JTZq6zUTcjulnHvVY"
+      },
+      "artists": [
+        {
+          "name": "LaYam",
+          "url": "https://open.spotify.com/artist/6onKBpb8AkKid8BFhLWtBH"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144307,
+      "name": "Supreme Emotions",
+      "url": "https://open.spotify.com/track/0bwFC1Z3CATH1XfTua9j2C"
+    },
+    {
+      "album": {
         "name": "Taaja Shaanti",
         "url": "https://open.spotify.com/album/5f81aZDQK5PHGOt7Mi4Iwm"
       },
@@ -3402,7 +3438,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 308766,
       "name": "The Smile",
       "url": "https://open.spotify.com/track/5wKC89heaxElqcfbNUueay"

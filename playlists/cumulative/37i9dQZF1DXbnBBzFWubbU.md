@@ -4,7 +4,7 @@
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-150 songs - 9 hr 49 min
+151 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [TAAL](https://open.spotify.com/track/7prf1EivUElMLAQKBIoAcq) | [No Nazar](https://open.spotify.com/artist/2UUScVfE9qx9DAaWaD77DV), [DJ SUDI](https://open.spotify.com/artist/2pWqceB8JtcmbGm1WzWwgO), [Bianca Maieli](https://open.spotify.com/artist/5l5EeVNICQYXxMTe5oRqtG), [MTooray](https://open.spotify.com/artist/04bM00N2mc60qymFNlhElS) | [Piano Bazaar](https://open.spotify.com/album/0lx2QNZKKM2eE7YRqnnvBK) | 4:50 | 2023-08-18 | 2023-12-30 |
 | [TAKA](https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [TAKA](https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40) | 2:54 | 2024-03-22 |  |
 | [TAKA \- Taiki Nulight Remix](https://open.spotify.com/track/0tdHittlEah9GOXVRx3CHu) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [TAKA \(Taiki Nulight Remix\)](https://open.spotify.com/album/13DYWnl7vnV6gMGMGiDai8) | 3:29 | 2024-06-07 | 2024-06-14 |
+| [Talk To Me](https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Talk To Me](https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7) | 3:52 | 2024-11-14 |  |
 | [Talk to Me Nice](https://open.spotify.com/track/5Szg2d8qKYke3PXmiW5jPF) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Talk to Me Nice](https://open.spotify.com/album/7pj8cEsl1Na2QmndvovNMe) | 3:18 | 2023-12-21 | 2024-01-27 |
 | [Tarka](https://open.spotify.com/track/10tUxnculTXzMGFAcj3ZNr) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Turbo \(Deluxe\)](https://open.spotify.com/album/5AqK0sYFr4bVWAtVKTmXcz) | 1:56 | 2024-02-13 | 2024-03-23 |
 | [Tell Me Why](https://open.spotify.com/track/3onsfEgU1PhhxfYuF4VNOT) | [Insowmya](https://open.spotify.com/artist/3DbDp2eOPCBKqQiuVhlQVC) | [Tell Me Why](https://open.spotify.com/album/62MddR3vq1uZJGljqGbJcM) | 3:15 | 2024-10-18 |  |

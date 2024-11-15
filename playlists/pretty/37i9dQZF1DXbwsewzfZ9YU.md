@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > the best in hardcore\. open the pit w/ SPY
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,442 likes - 100 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,501 likes - 100 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 99 | [Hiraeth](https://open.spotify.com/track/7f6yurNY0FZ9FNijUvQkx0) | [Adrienne](https://open.spotify.com/artist/2yiMAdlyDI7ZoGoyo87wIw) | [Adrienne](https://open.spotify.com/album/4iWeUpsbopMaaoLJSTe8pr) | 2:59 |
 | 100 | [Temple Of The Worm](https://open.spotify.com/track/6GkEjsXDfAaHUbJoehtnph) | [Rejoice](https://open.spotify.com/artist/74t8gOskGO2qibLmbu8zi3) | [All Of Heaven's Luck](https://open.spotify.com/album/0eoFObPed0D6MTmxGegosa) | 2:03 |
 
-Snapshot ID: `Zy2a0AAAAADyKY+DkkjiHb0Uj///oaXN`
+Snapshot ID: `Zy2a0AAAAADK+m9DMhX+HSwidwamG+3F`

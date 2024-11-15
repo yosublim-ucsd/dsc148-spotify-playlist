@@ -4,7 +4,7 @@
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Jailer
 
-189 songs - 5 hr 42 min
+190 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Muthu In Love](https://open.spotify.com/track/3StXcqxenx47t0YHqQrYvK) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Vendhu Thanindhathu Kaadu \(Original Score\)](https://open.spotify.com/album/5N3d00pvonn9vvse6TI42m) | 1:00 | 2023-02-13 | 2023-04-21 |
 | [Muthuvel Pandian Theme \(From "Jailer"\)](https://open.spotify.com/track/6Y4it0x4uP5rI0lv05ymk1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Muthuvel Pandian Theme \(From "Jailer"\)](https://open.spotify.com/album/610ByI4AyDj3TdrMDZbKWS) | 1:43 | 2022-12-15 |  |
 | [Narasimha Theme \(From "Jailer"\)](https://open.spotify.com/track/3lHH6j1JzcCYVct83zihWs) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Narasimha Theme \(From "Jailer"\)](https://open.spotify.com/album/4MGAcD1ZvQPy2r6FQcgAx7) | 1:03 | 2023-09-08 |  |
+| [New Thug In Town \(From "Thug Life"\)](https://open.spotify.com/track/6BHnAPTG2hyOqM2gLO2rt5) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [New Thug In Town \(From "Thug Life"\)](https://open.spotify.com/album/4x4k5W1QK5rkPUYp3VP7f7) | 0:44 | 2024-11-13 |  |
 | [Oru Katha Sollatta?](https://open.spotify.com/track/0wK8MG9pulX8sPu3Xw0Qg9) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Sethu Thankachan](https://open.spotify.com/artist/2ntgTx2dpzxCQDh6vG3CZp), [Kannan M](https://open.spotify.com/artist/12U7XXDgQkyIzT40PhuRak), [Ravi Kumar](https://open.spotify.com/artist/6vNENfWSIJLmHJXn6303sQ), [Chennai Orchestra](https://open.spotify.com/artist/7IR1HDrZCLQc3rXicDU3wW) | [Vikram Vedha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70cftH7NeXGgJYH3iyos0m) | 1:24 | 2021-11-01 | 2023-06-09 |
 | [Pablo Sandhanam \- Background Score](https://open.spotify.com/track/5iUbq311UD3MZYmfi2a1Ob) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:45 | 2022-07-08 |  |
 | [Party Dance Theme](https://open.spotify.com/track/1atGZUjXggmG1UANsJ51C6) | [Arrol Corelli](https://open.spotify.com/artist/0vOmOWhCwishGqWUpiiv5o) | [Ippadikku Kadhal](https://open.spotify.com/album/3mlUMYBxmBsdqATLB4GaqG) | 1:15 | 2024-02-12 | 2024-04-27 |
@@ -193,7 +194,7 @@
 | [Village Kuthu Theme Music \- Instrumental](https://open.spotify.com/track/7sMqVuOCJxK9jlMUqjMjYT) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Annaatthe \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2E3gGgI2ai0bdeHsMNHCN7) | 1:55 | 2021-11-01 | 2022-01-05 |
 | [Wedding Party \- Background Score](https://open.spotify.com/track/0APxSVP73DpITxWovXrEZj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:36 | 2022-07-08 |  |
 | [What's Cookin? \- Background Score](https://open.spotify.com/track/3oWVw2H0cMJwsxLEKboZy4) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:19 | 2022-07-08 | 2023-04-21 |
-| [Whistle Theme \(From "Valimai"\)](https://open.spotify.com/track/3Ls6V9lzNaXH4MSoDQ0kcm) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Whistle Theme \(From "Valimai"\)](https://open.spotify.com/album/27AQuPFXz96xKlkBRzZWB2) | 1:31 | 2021-12-22 |  |
+| [Whistle Theme \(From "Valimai"\)](https://open.spotify.com/track/3Ls6V9lzNaXH4MSoDQ0kcm) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Whistle Theme \(From "Valimai"\)](https://open.spotify.com/album/27AQuPFXz96xKlkBRzZWB2) | 1:31 | 2021-12-22 | 2024-11-15 |
 | [Yaanai Theme Satani Entry](https://open.spotify.com/track/7LLOVGdedSyh39E9dIswg9) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jigarthanda DoubleX \(Original Score\)](https://open.spotify.com/album/5mOvkOWuNDJ4knaJFMHgRo) | 1:36 | 2024-05-15 | 2024-06-08 |
 | [Young Nandini & Karikalan](https://open.spotify.com/track/2sXeEnJdq1AkPMroDfiENy) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Ponniyin Selvan \(Original Score\)](https://open.spotify.com/album/23HAmfHXpbuaGW2PRgHUu1) | 2:05 | 2024-01-08 | 2024-05-16 |
 | [Yuthame \(Theme\) \(From "Pokkiri"\)](https://open.spotify.com/track/4xjaNv5CVb1HCwe1Jkwyj2) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss) | [Hits of Mani Sharma](https://open.spotify.com/album/3ML3D2fO7nA1UoKN8jYIP5) | 2:34 | 2021-11-01 | 2023-08-05 |

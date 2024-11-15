@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWv69X.md) - [plain]
 | 8 | [Ramera](https://open.spotify.com/track/0X3d4JZSeh3Fu4TREaviYr) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Todos los Singles 1993\-2006](https://open.spotify.com/album/6OthgAS7EYRLPuGJKTitu8) | 3:20 |
 | 9 | [Tras Esa Puerta](https://open.spotify.com/track/4U7cTH2CGIp1qhgxOMU5Ro) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Entre los Árboles](https://open.spotify.com/album/2j0iKUIDasypZ0UhG5nwgM) | 5:29 |
 | 10 | [Llévame](https://open.spotify.com/track/6kYHsyU4KzdMf49gC4CmRl) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Si algo así como el amor está en el aire](https://open.spotify.com/album/4Z2EOWKODHlBbLnvewyQwW) | 6:13 |
-| 11 | [Dulce y Veloz](https://open.spotify.com/track/75FSoDobii3528jGAMVCd0) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Mar de Copas](https://open.spotify.com/album/08mPDAxP3cAeqUga7266QQ) | 3:47 |
+| 11 | [No Me Imagino](https://open.spotify.com/track/4RtuS9cCFMytWPPhVnmZOe) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Lado B](https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t) | 3:01 |
 | 12 | [Adiós Amor](https://open.spotify.com/track/7KIY1H6TG5ygADaaPE9YRA) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Todos los Singles 1993\-2006](https://open.spotify.com/album/6OthgAS7EYRLPuGJKTitu8) | 3:36 |
 | 13 | [Prendí Otro Fuego por Ella](https://open.spotify.com/track/7plZoJlP6OBG0jSChVmit1) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Entre los Árboles](https://open.spotify.com/album/2j0iKUIDasypZ0UhG5nwgM) | 3:23 |
 | 14 | [Si Algo Así Como el Amor Está en el Aire](https://open.spotify.com/track/160l5r7WExN0zm1bKEOQmS) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Si algo así como el amor está en el aire](https://open.spotify.com/album/4Z2EOWKODHlBbLnvewyQwW) | 3:33 |
-| 15 | [No Me Imagino](https://open.spotify.com/track/4RtuS9cCFMytWPPhVnmZOe) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Lado B](https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t) | 3:01 |
+| 15 | [Dulce y Veloz](https://open.spotify.com/track/75FSoDobii3528jGAMVCd0) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Mar de Copas](https://open.spotify.com/album/08mPDAxP3cAeqUga7266QQ) | 3:47 |
 | 16 | [Dos Caras](https://open.spotify.com/track/5k3EMsbDz4lJVfDBASbiNV) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Seis](https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx) | 3:30 |
 | 17 | [País de Tus Sueños](https://open.spotify.com/track/05RT1AgIYaPPWYKpw6DZiO) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Entre los Árboles](https://open.spotify.com/album/2j0iKUIDasypZ0UhG5nwgM) | 3:39 |
 | 18 | [Perdido](https://open.spotify.com/track/6DLfKxy6w3DOMojFHt0Maa) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Si algo así como el amor está en el aire](https://open.spotify.com/album/4Z2EOWKODHlBbLnvewyQwW) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWv69X.md) - [plain]
 | 49 | [C.p.a.m.](https://open.spotify.com/track/3gjYndqMoWw0xrO0ZzfTD7) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [El Soundtrack de una Vida](https://open.spotify.com/album/11Hk6UODnh7sWurat5D7Jt) | 5:25 |
 | 50 | [Canción](https://open.spotify.com/track/17Te5QkNgs4KdHPlNcqGcB) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Mar de Copas](https://open.spotify.com/album/08mPDAxP3cAeqUga7266QQ) | 4:15 |
 
-Snapshot ID: `ZzKagAAAAACiejxnmSDSQpOs3ITjm4pO`
+Snapshot ID: `ZzPsAAAAAABhejGZrETAZ9x3U4Vu/RKo`

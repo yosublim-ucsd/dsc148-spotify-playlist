@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Murica
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,423 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,520 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [A luz e o Elo](https://open.spotify.com/track/1qfpq7MHmtKLF7sodAaDqj) | [Old Dirty Bacon](https://open.spotify.com/artist/47u3qUpiwYT0NFBO75umme), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [A Origem](https://open.spotify.com/album/4GSewDaotJrOML2iXwIC3X) | 3:22 |
 | 75 | [Quantos São?](https://open.spotify.com/track/7yICWklR1S4NldM1y1m1cO) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Quantos São?](https://open.spotify.com/album/317P1ydLQMI6g8JcGT1IHa) | 3:00 |
 
-Snapshot ID: `Zy938wAAAACAuTEcTSJWDuAqPtVWhh/t`
+Snapshot ID: `Zy938wAAAADVjhR2Pry8Cw46l1Auzksq`

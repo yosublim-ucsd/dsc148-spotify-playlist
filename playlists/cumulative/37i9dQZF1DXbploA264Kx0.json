@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Kowen Ko (\u67ef\u667a\u68e0)",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: CED x LEO37 x BRADD",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -793,6 +793,28 @@
     },
     {
       "album": {
+        "name": "comet",
+        "url": "https://open.spotify.com/album/6cjbyBdq6V6ZIvzqvUxy8b"
+      },
+      "artists": [
+        {
+          "name": "KIRE",
+          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+        },
+        {
+          "name": "TIAB",
+          "url": "https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155217,
+      "name": "comet",
+      "url": "https://open.spotify.com/track/2lpTOVFBkhdAJV9wNRxWks"
+    },
+    {
+      "album": {
         "name": "Confessions Of A Baddie",
         "url": "https://open.spotify.com/album/1Wto1tcfzt387E1Lk8srgZ"
       },
@@ -1028,7 +1050,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 259161,
       "name": "English Song",
       "url": "https://open.spotify.com/track/41oIwYzv9rEuUAreANKf3u"
@@ -1740,7 +1762,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 270533,
       "name": "I Want To Be With You",
       "url": "https://open.spotify.com/track/2vZhQcFme5X52JfVTcRk2R"
@@ -2014,7 +2036,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 232213,
       "name": "Kitchen feat. 9m88",
       "url": "https://open.spotify.com/track/5oHBt8OoRWUZw0VwPUZZa7"
@@ -2326,7 +2348,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 183500,
       "name": "Meteor Shower",
       "url": "https://open.spotify.com/track/4U04CJyjD2HzMjHMBnVn0h"
@@ -2870,6 +2892,24 @@
       "duration_ms": 267477,
       "name": "Paradise... How Far?",
       "url": "https://open.spotify.com/track/1gKnFeolxWkGBHDXk2XZLG"
+    },
+    {
+      "album": {
+        "name": "Pay Money to Wonderland",
+        "url": "https://open.spotify.com/album/2JlrOB3nvj3oI18aTNRPvR"
+      },
+      "artists": [
+        {
+          "name": "Fire EX.",
+          "url": "https://open.spotify.com/artist/7qBIgabdHdcr6NLujDxWAU"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58128,
+      "name": "Pay Money to Wonderland",
+      "url": "https://open.spotify.com/track/79G0a7PcfACuuOHV4cOJIS"
     },
     {
       "album": {
@@ -3430,7 +3470,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 203720,
       "name": "Sparkling Wine",
       "url": "https://open.spotify.com/track/6Dm85sCyjcsq3JFmP7T4e8"
@@ -3572,7 +3612,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 337692,
       "name": "Story From The Hill",
       "url": "https://open.spotify.com/track/1kwc24o5EMK0YnuLfFi1K4"
@@ -3916,7 +3956,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 203853,
       "name": "TIME",
       "url": "https://open.spotify.com/track/03WkNEYCdNfhtU93wocU9g"
@@ -4076,6 +4116,32 @@
       "duration_ms": 168936,
       "name": "trust me",
       "url": "https://open.spotify.com/track/6riw7EvS6amwDkv7RXsQAG"
+    },
+    {
+      "album": {
+        "name": "Twisted Game",
+        "url": "https://open.spotify.com/album/4DFtnQthhszMknevVxEAEE"
+      },
+      "artists": [
+        {
+          "name": "CED",
+          "url": "https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC"
+        },
+        {
+          "name": "LEO37",
+          "url": "https://open.spotify.com/artist/1K4p8nRSSUoO6e3Npn77U6"
+        },
+        {
+          "name": "BRADD",
+          "url": "https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194502,
+      "name": "Twisted Game",
+      "url": "https://open.spotify.com/track/57VBEAAou12D7EedFDxZcY"
     },
     {
       "album": {
@@ -4400,7 +4466,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 200689,
       "name": "\u4e00\u8def\u9078",
       "url": "https://open.spotify.com/track/4WUEGiAxwFeGFpbbEsIiPB"

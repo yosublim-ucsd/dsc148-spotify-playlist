@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,015 likes - 230 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,155 likes - 230 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 229 | [Cadillac Moon](https://open.spotify.com/track/6L0akuFYGDxpuqhcbMBX37) | [Juna](https://open.spotify.com/artist/1v8lZNkqxJzsn8KsRGDsUm) | [Cadillac Moon](https://open.spotify.com/album/6De3gGKyllrv8bn01ihpds) | 1:33 |
 | 230 | [Only Memories](https://open.spotify.com/track/087DXuWYOFFXpslcEpD3mY) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Only Memories](https://open.spotify.com/album/6J9Coi8rv4rv7l27AoiSIv) | 2:14 |
 
-Snapshot ID: `ZxsXwAAAAABYnJjpUEBMq8aty7nEb5P9`
+Snapshot ID: `ZxsXwAAAAAB0oOo+Vm+yKHX5pQNJxbpy`

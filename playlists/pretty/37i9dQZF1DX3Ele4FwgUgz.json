@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Love Live! Nijigasaki High School Idol Club\" \u300c\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\n\u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
-  "num_followers": 16944,
+  "num_followers": 16955,
   "original_name": "Love Live! Nijigasaki High School Idol Club \u30e9\u30d6\u30e9\u30a4\u30d6!\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvLT8AAAAABMepyNg9nrFq2Ur3O49YWQ",
+  "snapshot_id": "ZvLT8AAAAADl2mDRb8EgLjampfVaFYGw",
   "tracks": [
     {
       "added_at": "2024-09-24 15:00:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "Eutopia / EMOTION / stars we chase (\u4e09\u8239\u681e\u5b50\u76e4)",
-        "url": "https://open.spotify.com/album/0LiQMHhv95LfzN5RkdkP5T"
-      },
-      "artists": [
-        {
-          "name": "\u4e09\u8239\u681e\u5b50 (CV.\u5c0f\u6cc9\u840c\u9999)",
-          "url": "https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "EMOTION",
-      "url": "https://open.spotify.com/track/5hi5zEqlG3kXMDVH84i7N7"
-    },
-    {
-      "added_at": "2024-09-24 15:00:00",
-      "album": {
         "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8 / La Bella Patria / \u30c4\u30ca\u30ac\u30eb\u30b3\u30cd\u30af\u30c8 (\u5929\u738b\u5bfa\u7483\u5948\u76e4)",
         "url": "https://open.spotify.com/album/7KjQ0RvxpgVELdpiIOkCSv"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 237640,
       "name": "\u30c4\u30ca\u30ac\u30eb\u30b3\u30cd\u30af\u30c8",
       "url": "https://open.spotify.com/track/5STRLlJ8d8O8cImBgyxvNv"
+    },
+    {
+      "added_at": "2024-09-24 15:00:00",
+      "album": {
+        "name": "Eutopia / EMOTION / stars we chase (\u4e09\u8239\u681e\u5b50\u76e4)",
+        "url": "https://open.spotify.com/album/0LiQMHhv95LfzN5RkdkP5T"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u8239\u681e\u5b50 (CV.\u5c0f\u6cc9\u840c\u9999)",
+          "url": "https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "EMOTION",
+      "url": "https://open.spotify.com/track/5hi5zEqlG3kXMDVH84i7N7"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "Dream with You / Poppin' Up! / DIVE! (\u512a\u6728\u305b\u3064\u83dc\u76e4)",
-        "url": "https://open.spotify.com/album/2B6zWwAKJXh0RMSne3pQvZ"
-      },
-      "artists": [
-        {
-          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
-          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
-        }
-      ],
-      "duration_ms": 243480,
-      "name": "DIVE!",
-      "url": "https://open.spotify.com/track/1U1MCOvXcpTguCzyXyBE90"
-    },
-    {
-      "added_at": "2024-09-24 15:00:00",
-      "album": {
         "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
         "url": "https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 244653,
       "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
       "url": "https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu"
+    },
+    {
+      "added_at": "2024-09-24 15:00:00",
+      "album": {
+        "name": "Dream with You / Poppin' Up! / DIVE! (\u512a\u6728\u305b\u3064\u83dc\u76e4)",
+        "url": "https://open.spotify.com/album/2B6zWwAKJXh0RMSne3pQvZ"
+      },
+      "artists": [
+        {
+          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
+          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
+        }
+      ],
+      "duration_ms": 243480,
+      "name": "DIVE!",
+      "url": "https://open.spotify.com/track/1U1MCOvXcpTguCzyXyBE90"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -379,18 +379,18 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "Love U my friends",
-        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+        "name": "Dream with You / Poppin' Up! / DIVE! (\u4e0a\u539f\u6b69\u5922\u76e4)",
+        "url": "https://open.spotify.com/album/5azLupKAc7jhnLpGV6n2O1"
       },
       "artists": [
         {
-          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
-          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
+          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
+          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
         }
       ],
-      "duration_ms": 269453,
-      "name": "MELODY",
-      "url": "https://open.spotify.com/track/6DmIItjA98dekA0MvIeiHC"
+      "duration_ms": 258105,
+      "name": "Dream with You",
+      "url": "https://open.spotify.com/track/2pOgQuNCRUmDvAKjqwmGR9"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "Dream with You / Poppin' Up! / DIVE! (\u4e0a\u539f\u6b69\u5922\u76e4)",
-        "url": "https://open.spotify.com/album/5azLupKAc7jhnLpGV6n2O1"
+        "name": "Dream with You / Poppin' Up! / DIVE! (\u4e2d\u9808\u304b\u3059\u307f\u76e4)",
+        "url": "https://open.spotify.com/album/3lChyBrPhbKYt1uEL0o0ar"
       },
       "artists": [
         {
-          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
-          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
         }
       ],
-      "duration_ms": 258105,
-      "name": "Dream with You",
-      "url": "https://open.spotify.com/track/2pOgQuNCRUmDvAKjqwmGR9"
+      "duration_ms": 258146,
+      "name": "Poppin' Up!",
+      "url": "https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -443,18 +443,18 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "Dream with You / Poppin' Up! / DIVE! (\u4e2d\u9808\u304b\u3059\u307f\u76e4)",
-        "url": "https://open.spotify.com/album/3lChyBrPhbKYt1uEL0o0ar"
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
       },
       "artists": [
         {
-          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
-          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
+          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
         }
       ],
-      "duration_ms": 258146,
-      "name": "Poppin' Up!",
-      "url": "https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe"
+      "duration_ms": 269453,
+      "name": "MELODY",
+      "url": "https://open.spotify.com/track/6DmIItjA98dekA0MvIeiHC"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "Just Believe!!!",
-        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
-      },
-      "artists": [
-        {
-          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
-          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
-        }
-      ],
-      "duration_ms": 261013,
-      "name": "LIKE IT!LOVE IT!",
-      "url": "https://open.spotify.com/track/4PeeXkEdUeIucB7kbcp2u9"
-    },
-    {
-      "added_at": "2024-09-24 15:00:00",
-      "album": {
         "name": "SUPER NOVA",
         "url": "https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH"
       },
@@ -603,6 +587,22 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+      },
+      "artists": [
+        {
+          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
+          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
+        }
+      ],
+      "duration_ms": 261013,
+      "name": "LIKE IT!LOVE IT!",
+      "url": "https://open.spotify.com/track/4PeeXkEdUeIucB7kbcp2u9"
+    },
+    {
+      "added_at": "2024-09-24 15:00:00",
+      "album": {
         "name": "\u30cb\u30b8\u30ac\u30af \u30dc\u30fc\u30ca\u30b9\u30c8\u30e9\u30c3\u30af \u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.2",
         "url": "https://open.spotify.com/album/6yzn8cwXu3mQ12GWPU8FSp"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8 / La Bella Patria / \u30c4\u30ca\u30ac\u30eb\u30b3\u30cd\u30af\u30c8 (\u5bae\u4e0b \u611b\u76e4)",
-        "url": "https://open.spotify.com/album/1qvo8Ajhwj2DRa3slc7rkn"
-      },
-      "artists": [
-        {
-          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
-          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
-        }
-      ],
-      "duration_ms": 252280,
-      "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/7fR786eNI8rp2sKxQM5jK0"
-    },
-    {
-      "added_at": "2024-09-24 15:00:00",
-      "album": {
         "name": "SUPER NOVA",
         "url": "https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 254013,
       "name": "SUPER NOVA",
       "url": "https://open.spotify.com/track/4AN5xcopsmXq2JSF1SNHEz"
+    },
+    {
+      "added_at": "2024-09-24 15:00:00",
+      "album": {
+        "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8 / La Bella Patria / \u30c4\u30ca\u30ac\u30eb\u30b3\u30cd\u30af\u30c8 (\u5bae\u4e0b \u611b\u76e4)",
+        "url": "https://open.spotify.com/album/1qvo8Ajhwj2DRa3slc7rkn"
+      },
+      "artists": [
+        {
+          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
+          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
+        }
+      ],
+      "duration_ms": 252280,
+      "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/7fR786eNI8rp2sKxQM5jK0"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -795,8 +795,8 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "\u30cb\u30b8\u30ac\u30af \u30dc\u30fc\u30ca\u30b9\u30c8\u30e9\u30c3\u30af \u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.2",
-        "url": "https://open.spotify.com/album/6yzn8cwXu3mQ12GWPU8FSp"
+        "name": "Eternal Light",
+        "url": "https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
         }
       ],
-      "duration_ms": 199480,
-      "name": "Fashionista",
-      "url": "https://open.spotify.com/track/5mvYrPSjXzcx7KuHo0ULMj"
+      "duration_ms": 228213,
+      "name": "\u604b\u3059\u308bMagic!!",
+      "url": "https://open.spotify.com/track/6XhJEnIFAqMQxoiLSlelgn"
     },
     {
       "added_at": "2024-09-24 15:00:00",

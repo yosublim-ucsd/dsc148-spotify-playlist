@@ -1,12 +1,12 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 52438,
+  "num_followers": 52435,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmfmlgAAAAB/nAdDO5Ao6ABuAVZVTOJD",
+  "snapshot_id": "ZmfmlgAAAABVqmUDwPvle8QEfX/nbTeb",
   "tracks": [
     {
       "added_at": "2021-06-24 10:58:44",
@@ -515,22 +515,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF"
-      },
-      "artists": [
-        {
-          "name": "Berlioz",
-          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
-        }
-      ],
-      "duration_ms": 106050,
-      "name": "Origami",
-      "url": "https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Envision",
         "url": "https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 143000,
       "name": "Vague",
       "url": "https://open.spotify.com/track/3IOXceWmoCrTyl5TXFDzWu"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF"
+      },
+      "artists": [
+        {
+          "name": "Berlioz",
+          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
+        }
+      ],
+      "duration_ms": 106050,
+      "name": "Origami",
+      "url": "https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -643,22 +643,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "More than Close",
-        "url": "https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq"
-      },
-      "artists": [
-        {
-          "name": "Oneke",
-          "url": "https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg"
-        }
-      ],
-      "duration_ms": 162478,
-      "name": "More than Close",
-      "url": "https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Dream Dependence",
         "url": "https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 155459,
       "name": "Dream dependence",
       "url": "https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "More than Close",
+        "url": "https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq"
+      },
+      "artists": [
+        {
+          "name": "Oneke",
+          "url": "https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg"
+        }
+      ],
+      "duration_ms": 162478,
+      "name": "More than Close",
+      "url": "https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1059,38 +1059,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "In My Quiet Hour",
-        "url": "https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Sipka",
-          "url": "https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4"
-        }
-      ],
-      "duration_ms": 126049,
-      "name": "In my quiet hour",
-      "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Sleep Well",
-        "url": "https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx"
-      },
-      "artists": [
-        {
-          "name": "Josep Alba",
-          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
-        }
-      ],
-      "duration_ms": 146624,
-      "name": "Violin Lullaby",
-      "url": "https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Winter Garden",
         "url": "https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH"
       },
@@ -1115,18 +1083,34 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Linger",
-        "url": "https://open.spotify.com/album/67x2G6YcVVzuPCNR0kGBkI"
+        "name": "Sleep Well",
+        "url": "https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx"
       },
       "artists": [
         {
-          "name": "Alexander Molina",
-          "url": "https://open.spotify.com/artist/3zHtPCK9MEwzFqwuJwuYkW"
+          "name": "Josep Alba",
+          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
         }
       ],
-      "duration_ms": 163012,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0LRcLz3D9bHLPPVegJoFZL"
+      "duration_ms": 146624,
+      "name": "Violin Lullaby",
+      "url": "https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "In My Quiet Hour",
+        "url": "https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Sipka",
+          "url": "https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4"
+        }
+      ],
+      "duration_ms": 126049,
+      "name": "In my quiet hour",
+      "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1143,6 +1127,22 @@
       "duration_ms": 160250,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/6Qur3sb3jen75OnKG2Omv6"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/67x2G6YcVVzuPCNR0kGBkI"
+      },
+      "artists": [
+        {
+          "name": "Alexander Molina",
+          "url": "https://open.spotify.com/artist/3zHtPCK9MEwzFqwuJwuYkW"
+        }
+      ],
+      "duration_ms": 163012,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0LRcLz3D9bHLPPVegJoFZL"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Stelliferous",
-        "url": "https://open.spotify.com/album/1gQFGbrdBfYpcg2MMsZbnE"
-      },
-      "artists": [
-        {
-          "name": "Szigeti Aliz",
-          "url": "https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Stelliferous",
-      "url": "https://open.spotify.com/track/2mXs5X2hDss3gdOAwaWgl7"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Storybook",
         "url": "https://open.spotify.com/album/5KwSIcT8RrbxnKscueYIxI"
       },
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "A Missing Piece",
-        "url": "https://open.spotify.com/album/5N4as2iSANQpt1HIUa0wYv"
+        "name": "Stelliferous",
+        "url": "https://open.spotify.com/album/1gQFGbrdBfYpcg2MMsZbnE"
       },
       "artists": [
         {
-          "name": "Vincent Sparro",
-          "url": "https://open.spotify.com/artist/1fkVeQuRUagDehsQrRfh99"
+          "name": "Szigeti Aliz",
+          "url": "https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA"
         }
       ],
-      "duration_ms": 125656,
-      "name": "A Missing Piece",
-      "url": "https://open.spotify.com/track/4fr2dY1gNyl1J8nz5GUWTs"
+      "duration_ms": 207000,
+      "name": "Stelliferous",
+      "url": "https://open.spotify.com/track/2mXs5X2hDss3gdOAwaWgl7"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "A Missing Piece",
+        "url": "https://open.spotify.com/album/5N4as2iSANQpt1HIUa0wYv"
+      },
+      "artists": [
+        {
+          "name": "Vincent Sparro",
+          "url": "https://open.spotify.com/artist/1fkVeQuRUagDehsQrRfh99"
+        }
+      ],
+      "duration_ms": 125656,
+      "name": "A Missing Piece",
+      "url": "https://open.spotify.com/track/4fr2dY1gNyl1J8nz5GUWTs"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/3ZNnzT63UWTBmWMF7yjbY7"
       },
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Broadchurch (Music From The Original TV Series)",
-        "url": "https://open.spotify.com/album/3GmecFBWNs4fTi0PkLF7qR"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 263347,
-      "name": "Danny",
-      "url": "https://open.spotify.com/track/3ApyQUpg6me0GcLmOx9bcz"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "New Romantic Classical Piano and Violin Duets",
         "url": "https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 311146,
       "name": "Canon in D",
       "url": "https://open.spotify.com/track/5b7rilZzZG7QbiaXiMyWqz"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Broadchurch (Music From The Original TV Series)",
+        "url": "https://open.spotify.com/album/3GmecFBWNs4fTi0PkLF7qR"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 263347,
+      "name": "Danny",
+      "url": "https://open.spotify.com/track/3ApyQUpg6me0GcLmOx9bcz"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "New Romantic Classical Piano and Violin Duets",
+        "url": "https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax"
+      },
+      "artists": [
+        {
+          "name": "Violin Music",
+          "url": "https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt"
+        }
+      ],
+      "duration_ms": 266778,
+      "name": "Wind",
+      "url": "https://open.spotify.com/track/1xTxbktonB8OnloUIfvogm"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/6zRMPCiscrkVp1rIeylCLk"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 131605,
       "name": "Balance",
       "url": "https://open.spotify.com/track/67VwaFnie5tKXclaRO2Fer"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "New Romantic Classical Piano and Violin Duets",
-        "url": "https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax"
-      },
-      "artists": [
-        {
-          "name": "Violin Music",
-          "url": "https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt"
-        }
-      ],
-      "duration_ms": 266778,
-      "name": "Wind",
-      "url": "https://open.spotify.com/track/1xTxbktonB8OnloUIfvogm"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "New Romantic Classical Piano and Violin Duets",
+        "url": "https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax"
+      },
+      "artists": [
+        {
+          "name": "Violin Music",
+          "url": "https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt"
+        }
+      ],
+      "duration_ms": 272730,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/47yf6KungKlUDUJdfvIItH"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Koyasan: Reiki Sound Healing",
         "url": "https://open.spotify.com/album/4iVHdg8bb5lkUZGhAbwVCf"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 445040,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/5ZfQjYCKtLZZR7e5PAFTgM"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "New Romantic Classical Piano and Violin Duets",
-        "url": "https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax"
-      },
-      "artists": [
-        {
-          "name": "Violin Music",
-          "url": "https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt"
-        }
-      ],
-      "duration_ms": 272730,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/47yf6KungKlUDUJdfvIItH"
     },
     {
       "added_at": "2021-06-24 10:58:44",

@@ -6015,6 +6015,24 @@
     },
     {
       "album": {
+        "name": "TVPE!",
+        "url": "https://open.spotify.com/album/5wanAthaCks3AjCXPuvox5"
+      },
+      "artists": [
+        {
+          "name": "Bad Neighbors",
+          "url": "https://open.spotify.com/artist/06q2qsH9V7Ayk2DQmM03Ez"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120340,
+      "name": "kerosene",
+      "url": "https://open.spotify.com/track/1flHnIDcymDmUeUUWNlIM2"
+    },
+    {
+      "album": {
         "name": "(III)",
         "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
       },

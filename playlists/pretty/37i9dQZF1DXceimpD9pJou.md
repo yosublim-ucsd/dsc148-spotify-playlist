@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:4fdudhIT1GNNvtvM309dyM">Indiomar</a> y <a href="spotify:artist:5njxJJEEXE6Kxkr4yiFeJi">Kim Richards</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,515 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,537 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Canción Santa \(Holy Song\)](https://open.spotify.com/track/6RCYWlazOK1Z612l9tNHUN) | [Jorge Caicedo](https://open.spotify.com/artist/2AahrkcBJ0W6cUW7zv8Y0P), [Mariana Michelle](https://open.spotify.com/artist/5y6BlN7Upv1rDL15vDVadU) | [Canción Santa \(Holy Song\)](https://open.spotify.com/album/3R24H2cwqqBQbzFMyhWWSu) | 4:46 |
 | 100 | [A Tu Gusto](https://open.spotify.com/track/5XGVoRp97RpQT6GM2W5083) | [Che Róga Band](https://open.spotify.com/artist/3bDd34UPjTQpkCKqL0LinW) | [El Mundo No Me Sacia](https://open.spotify.com/album/5ibNxSwKBgeofcTtyQaEAq) | 3:32 |
 
-Snapshot ID: `Zy3a1gAAAAAnMiMiVxpbxxPPt2vy5eoQ`
+Snapshot ID: `Zy3a1gAAAADLADC5+PECdpmSSaEPPXA2`

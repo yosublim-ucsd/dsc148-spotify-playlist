@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40F1hlCueZ7.md) - [plain]
 
 > Lo mejor del año en el mundo alternativo, como La La Love You.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,614 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,629 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40F1hlCueZ7.md) - [plain]
 | 49 | [Con Miedo a Ti](https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [Alto Cielo](https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V) | 4:51 |
 | 50 | [Lucero](https://open.spotify.com/track/5x4ABlEY8sacVOLDR3y0RG) | [Ede](https://open.spotify.com/artist/1O3NvmKUV1bKyER3apqx3Q) | [Lucero](https://open.spotify.com/album/3oSrzEyGxXoZXB2t9V7hU0) | 4:24 |
 
-Snapshot ID: `ZWcrgAAAAACdMmfHcfU0FgjglEjFkhlr`
+Snapshot ID: `ZWcrgAAAAAAJExLOTCOayME/i8HwcJeU`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ?si=wUNYIxQUS9OVGCr6nIqucw\">Jemma Catherine</a>",
+  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp?si=ufhnx8LgQAWApuinQ8qIYQ\">Demi Lee Moore</a> & <a href=\"https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR?si=EN_-CVCNRAKPMqi5d7THtw\">Eloff</a>",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -1209,6 +1209,28 @@
     },
     {
       "album": {
+        "name": "As Ek Dalk (feat. Eloff)",
+        "url": "https://open.spotify.com/album/3MkLaVX6W7iwRdRz5q5GWs"
+      },
+      "artists": [
+        {
+          "name": "Demi Lee Moore",
+          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
+        },
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189183,
+      "name": "As Ek Dalk (feat. Eloff)",
+      "url": "https://open.spotify.com/track/0avIG6N4JT2tHb8GyVHz1w"
+    },
+    {
+      "album": {
         "name": "As Ek Jou Hoor Lag",
         "url": "https://open.spotify.com/album/3GW8Df9g7461vot9mVJN29"
       },
@@ -1798,6 +1820,24 @@
       "duration_ms": 204076,
       "name": "Bang",
       "url": "https://open.spotify.com/track/4ZPyhcno3i1QEiLLR5Bjyz"
+    },
+    {
+      "album": {
+        "name": "Bang Babelas",
+        "url": "https://open.spotify.com/album/4HfPyWF705DYBH6EkNMaX5"
+      },
+      "artists": [
+        {
+          "name": "Dawid de Koning en die Kommuniste",
+          "url": "https://open.spotify.com/artist/3e1L6NN9GvUjXIoG50dsN2"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170311,
+      "name": "Bang Babelas",
+      "url": "https://open.spotify.com/track/5XMjATjDmhYKGW1adrii5d"
     },
     {
       "album": {
@@ -3154,7 +3194,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 187586,
       "name": "Briefie vir Kersfees",
       "url": "https://open.spotify.com/track/4Rzf8IskXPEQvsJzrILvuE"
@@ -3743,6 +3783,24 @@
     },
     {
       "album": {
+        "name": "Daantjie",
+        "url": "https://open.spotify.com/album/6OKqvIty7LwEyiitLieV7u"
+      },
+      "artists": [
+        {
+          "name": "Inspirasie Veelvoud",
+          "url": "https://open.spotify.com/artist/3r1BRjgeZHFN40DD6aWMMo"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141826,
+      "name": "Daantjie",
+      "url": "https://open.spotify.com/track/75qgMhoCR0LfOeraIEL2xI"
+    },
+    {
+      "album": {
         "name": "Die Vallei",
         "url": "https://open.spotify.com/album/7gGsMnhc6lmdUU5cyzLcD4"
       },
@@ -4008,7 +4066,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 174322,
       "name": "Dans In Die Aand",
       "url": "https://open.spotify.com/track/4RYjKmWJEN6SrySPcVdXOp"
@@ -5284,7 +5342,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 201229,
       "name": "Dis 'n Dans",
       "url": "https://open.spotify.com/track/4ywV3todGcHHR9w7Wlfqh2"
@@ -5802,6 +5860,24 @@
       "duration_ms": 193043,
       "name": "DOODGEWOON",
       "url": "https://open.spotify.com/track/3Wc9LoitkRgisx0jE9Lvhq"
+    },
+    {
+      "album": {
+        "name": "Doodloopstraat",
+        "url": "https://open.spotify.com/album/4a4DnNBs6qpmet5uMobDYQ"
+      },
+      "artists": [
+        {
+          "name": "Saterdag Vanaand",
+          "url": "https://open.spotify.com/artist/6O6o1uzcMIdSzyouBGiUjc"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175826,
+      "name": "Doodloopstraat",
+      "url": "https://open.spotify.com/track/6VTjIJihT6YR98Hb7Cxnr6"
     },
     {
       "album": {
@@ -6839,6 +6915,28 @@
     },
     {
       "album": {
+        "name": "En Ek Wag",
+        "url": "https://open.spotify.com/album/2Vcm4piE024QzXOyohlrCy"
+      },
+      "artists": [
+        {
+          "name": "Nuwe Lof",
+          "url": "https://open.spotify.com/artist/6CDeMbGPacYljmQ1ry9RET"
+        },
+        {
+          "name": "Deon Meiring",
+          "url": "https://open.spotify.com/artist/5h2VPrb5uczuK8foqa2jby"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "En Ek Wag",
+      "url": "https://open.spotify.com/track/4QEgV2IJd9UPchyTMXLEES"
+    },
+    {
+      "album": {
         "name": "Engel Dood",
         "url": "https://open.spotify.com/album/57iPWRFGzWEqydNzJWIUBU"
       },
@@ -7092,7 +7190,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 173617,
       "name": "Ford Fairlane",
       "url": "https://open.spotify.com/track/2FNZbWmwMZ8NsSowjmif6H"
@@ -7897,6 +7995,24 @@
     },
     {
       "album": {
+        "name": "Hakke",
+        "url": "https://open.spotify.com/album/4XLMHXbCGcXXqmbUuAGSae"
+      },
+      "artists": [
+        {
+          "name": "Rea Le Roux",
+          "url": "https://open.spotify.com/artist/0Nj4m42HGyiWVW9LyECOp6"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175543,
+      "name": "Hakke",
+      "url": "https://open.spotify.com/track/6keRWpRdmUfvyMSi6JVGkH"
+    },
+    {
+      "album": {
         "name": "Hallo, Medemens.",
         "url": "https://open.spotify.com/album/2ifnfDWYW06LS5fXar7OlT"
       },
@@ -8285,6 +8401,24 @@
     },
     {
       "album": {
+        "name": "Hemel Op Die Aarde",
+        "url": "https://open.spotify.com/album/3DiRpHm0a7V7UWZAMtS16Z"
+      },
+      "artists": [
+        {
+          "name": "Vrede",
+          "url": "https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225379,
+      "name": "Hemel Op Die Aarde",
+      "url": "https://open.spotify.com/track/3QlKVFn5qe3ZhGpXhZqfkz"
+    },
+    {
+      "album": {
         "name": "Hemel se Deur",
         "url": "https://open.spotify.com/album/6Z4VE4i1riW3upnaGJ3IYl"
       },
@@ -8653,6 +8787,28 @@
     },
     {
       "album": {
+        "name": "Hiers Ons Nou",
+        "url": "https://open.spotify.com/album/0LmA6knyYZmTgOql97V7Mt"
+      },
+      "artists": [
+        {
+          "name": "Vanilla Dutchman",
+          "url": "https://open.spotify.com/artist/2b6sTB2pVc2QeKX0QPgQpA"
+        },
+        {
+          "name": "Kevboii",
+          "url": "https://open.spotify.com/artist/4Mp36UE9keQ7vXLcVLWzmN"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164363,
+      "name": "Hiers Ons Nou",
+      "url": "https://open.spotify.com/track/6w3k6Zupq08qc4jnYE24hR"
+    },
+    {
+      "album": {
         "name": "Hittegolf",
         "url": "https://open.spotify.com/album/587lT0bB5OIiTFYBXS27VR"
       },
@@ -8931,6 +9087,24 @@
     },
     {
       "album": {
+        "name": "Horison",
+        "url": "https://open.spotify.com/album/4F6VkaQ8rveCiC7evrzhV7"
+      },
+      "artists": [
+        {
+          "name": "Zondagkraal",
+          "url": "https://open.spotify.com/artist/0k9d7PDNcw5uY0JlHmjTy7"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222938,
+      "name": "Horison",
+      "url": "https://open.spotify.com/track/0z8OOFo7PRYBfXtIWQtPIW"
+    },
+    {
+      "album": {
         "name": "Hou Aan Seil",
         "url": "https://open.spotify.com/album/3qtbcK4cy4mvZdwSUfuzI4"
       },
@@ -9206,7 +9380,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 165000,
       "name": "Hulle",
       "url": "https://open.spotify.com/track/7hmbosZu6xfpYCGcKGuTjE"
@@ -9520,7 +9694,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 210103,
       "name": "In my drome",
       "url": "https://open.spotify.com/track/6HKdY1i6LetGfzWYFbRgLN"
@@ -10563,6 +10737,24 @@
     },
     {
       "album": {
+        "name": "Kan Jy Onthou",
+        "url": "https://open.spotify.com/album/6UYTOq84mOmkoEZPSQmGsF"
+      },
+      "artists": [
+        {
+          "name": "Rnk",
+          "url": "https://open.spotify.com/artist/4wHx4YLcpQ4wBnTk0XDvCE"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229608,
+      "name": "Kan Jy Onthou",
+      "url": "https://open.spotify.com/track/0pILoRQW6Yvqx857FMeOvH"
+    },
+    {
+      "album": {
         "name": "KANNIE WARRIE",
         "url": "https://open.spotify.com/album/2chOPP9olG7mcTVGALmcrG"
       },
@@ -11290,6 +11482,24 @@
       "duration_ms": 185625,
       "name": "Klomp Keer Lekker",
       "url": "https://open.spotify.com/track/40FGZ56Zjax8fsqsKw9fo9"
+    },
+    {
+      "album": {
+        "name": "Klop",
+        "url": "https://open.spotify.com/album/6wxYzVPbXx0mx0q0yy8Jmu"
+      },
+      "artists": [
+        {
+          "name": "Christi van Niekerk",
+          "url": "https://open.spotify.com/artist/27viqr3X2WsBIyDzGPr9s4"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179217,
+      "name": "Klop",
+      "url": "https://open.spotify.com/track/2RX2A8tOqmHoyCrE0tylxA"
     },
     {
       "album": {
@@ -12672,6 +12882,24 @@
       "duration_ms": 157232,
       "name": "Lentekind - Dans Remix",
       "url": "https://open.spotify.com/track/3jp5MWHkhUMNKvTcKoEC21"
+    },
+    {
+      "album": {
+        "name": "Lentere\u00ebn",
+        "url": "https://open.spotify.com/album/5xrVUiCRlJHPZhJvKGQ3KX"
+      },
+      "artists": [
+        {
+          "name": "Derrick David Ruthven",
+          "url": "https://open.spotify.com/artist/6HbdTUf21NBv79LHbJZcHQ"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241967,
+      "name": "Lentere\u00ebn",
+      "url": "https://open.spotify.com/track/4BtaEhHeTNzgBnxM94Akv1"
     },
     {
       "album": {
@@ -15763,6 +15991,24 @@
     },
     {
       "album": {
+        "name": "Nuwe Maan",
+        "url": "https://open.spotify.com/album/7pLG6unGnqASOVjzEcpETg"
+      },
+      "artists": [
+        {
+          "name": "Rudi Kleingeld",
+          "url": "https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235434,
+      "name": "Nuwe Maan",
+      "url": "https://open.spotify.com/track/19zRGRU3CNuzTfsvSAErBU"
+    },
+    {
+      "album": {
         "name": "Nuwe Reise",
         "url": "https://open.spotify.com/album/2eTnfCXIPXQ6ZGKRs30Uy4"
       },
@@ -16136,6 +16382,24 @@
       "duration_ms": 218131,
       "name": "Onbeskof",
       "url": "https://open.spotify.com/track/6ktQxlkq1gSbDDCDlqYOrw"
+    },
+    {
+      "album": {
+        "name": "Ondankbaar",
+        "url": "https://open.spotify.com/album/4JA5Ih6m8EvCxBu9g1Dbbg"
+      },
+      "artists": [
+        {
+          "name": "Ander Frekwensie",
+          "url": "https://open.spotify.com/artist/5py6BVEodbeOtAbeQD1slx"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241232,
+      "name": "Ondankbaar",
+      "url": "https://open.spotify.com/track/4fliMCgMdQmXO4zdCdZSFT"
     },
     {
       "album": {
@@ -16722,6 +16986,24 @@
       "duration_ms": 153984,
       "name": "Ou Kraalliedjie",
       "url": "https://open.spotify.com/track/3uyiLQ7snZ6Njes5kNyyrD"
+    },
+    {
+      "album": {
+        "name": "Ou Ryperd",
+        "url": "https://open.spotify.com/album/2uLXSjlX0nlHP8oaIm7vta"
+      },
+      "artists": [
+        {
+          "name": "Armand Hofmeyr",
+          "url": "https://open.spotify.com/artist/5PH4LwIhIerQCgMZrsQuIh"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160565,
+      "name": "Ou Ryperd",
+      "url": "https://open.spotify.com/track/2nXLcw0LljCX9aBGaAaywl"
     },
     {
       "album": {
@@ -17548,6 +17830,32 @@
       "duration_ms": 226326,
       "name": "Prys Die Here",
       "url": "https://open.spotify.com/track/1FHnxk7lCVAi5CiWGrwvKQ"
+    },
+    {
+      "album": {
+        "name": "Random",
+        "url": "https://open.spotify.com/album/6UioAijgNX6PopWmSrdUI6"
+      },
+      "artists": [
+        {
+          "name": "Chessiwessi",
+          "url": "https://open.spotify.com/artist/6llfxl71GpFMJ7SLQibAcT"
+        },
+        {
+          "name": "Kobus.",
+          "url": "https://open.spotify.com/artist/5TaTOVjpyrpX5GDZdkgueu"
+        },
+        {
+          "name": "Op Die Plaas",
+          "url": "https://open.spotify.com/artist/7BRNJ64qLpEYgLnczJ0Hhu"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161192,
+      "name": "Random",
+      "url": "https://open.spotify.com/track/3kko7DumisBeLbmhy9mK0V"
     },
     {
       "album": {
@@ -18548,7 +18856,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 199500,
       "name": "Serotonien",
       "url": "https://open.spotify.com/track/4sdBWfxzejQd50Fk82OzC6"
@@ -19126,7 +19434,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 165948,
       "name": "Slegte Gewoontes",
       "url": "https://open.spotify.com/track/4eAul0DAmF9TfwUNb9n7NY"
@@ -19970,7 +20278,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 135782,
       "name": "Spook by My",
       "url": "https://open.spotify.com/track/35epM76n7gnUapzw5DqhiO"
@@ -20180,7 +20488,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 178253,
       "name": "Stap Saam",
       "url": "https://open.spotify.com/track/7A99Rk5wBh7rytGN6a9Rjd"
@@ -22013,6 +22321,24 @@
     },
     {
       "album": {
+        "name": "Vader Abraham",
+        "url": "https://open.spotify.com/album/7Ix3pntXk8FJuKrjbcBE2r"
+      },
+      "artists": [
+        {
+          "name": "Il\u00e1n van Staden",
+          "url": "https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142816,
+      "name": "Vader Abraham",
+      "url": "https://open.spotify.com/track/2toBRsM9iGAchvwQu94CRi"
+    },
+    {
+      "album": {
         "name": "Vakansie Vir My Siel",
         "url": "https://open.spotify.com/album/3lkkoC0gKDx7uplWEymzAk"
       },
@@ -22714,7 +23040,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 200291,
       "name": "Vinnig N\u00earens Heen",
       "url": "https://open.spotify.com/track/2lnw0bODQBW9wiCE5fh4J7"
@@ -24265,6 +24591,24 @@
     },
     {
       "album": {
+        "name": "WHEMG",
+        "url": "https://open.spotify.com/album/2FRFzYwjquRBBch0vC4Lry"
+      },
+      "artists": [
+        {
+          "name": "GSTRiNG",
+          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "WHEMG",
+      "url": "https://open.spotify.com/track/0dy8BVnoUkRROD0jBFWJHI"
+    },
+    {
+      "album": {
         "name": "Whiskey (Hoe Sy Proe)",
         "url": "https://open.spotify.com/album/5f3BJnPvdSi0o5Y1TJqcpH"
       },
@@ -24749,6 +25093,24 @@
     },
     {
       "album": {
+        "name": "Yskas Skuif",
+        "url": "https://open.spotify.com/album/6d3LnzJ7KMQSeSN2CpUfAZ"
+      },
+      "artists": [
+        {
+          "name": "Danny Smoke",
+          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204335,
+      "name": "Yskas Skuif",
+      "url": "https://open.spotify.com/track/5n2KIUk8fQT6O7pZqVwlJE"
+    },
+    {
+      "album": {
         "name": "I in the Sky",
         "url": "https://open.spotify.com/album/2lZJA3EPcTxsKqWGkmvDC9"
       },
@@ -24818,6 +25180,24 @@
       "duration_ms": 207899,
       "name": "ZAR",
       "url": "https://open.spotify.com/track/3tPhyCjhQLvEBbUbOPHHmv"
+    },
+    {
+      "album": {
+        "name": "Zombie Kwekery",
+        "url": "https://open.spotify.com/album/5BM5Z56K0iNL8MnUJmpX5O"
+      },
+      "artists": [
+        {
+          "name": "Hendriek Bleik",
+          "url": "https://open.spotify.com/artist/4k0tcb0DEpNlQzOD8mKtCT"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148238,
+      "name": "Zombie Kwekery",
+      "url": "https://open.spotify.com/track/1zJlxqLHPlxJruUefg9Qr5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX20N6YlBoCpF"

@@ -1,35 +1,15 @@
 {
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Dadju x Jungeli",
-  "num_followers": 186103,
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Tiakola",
+  "num_followers": 186125,
   "original_name": "R&Bae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzMapQAAAABPMXNL6V2UEs2mu93aFSHb",
+  "snapshot_id": "ZzaA8AAAAADySLsnhnMJkR58DGaAYhsR",
   "tracks": [
     {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "\u00c9videmment",
-        "url": "https://open.spotify.com/album/3qvdIPyaNhixZHKX1hVkLb"
-      },
-      "artists": [
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        },
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "\u00c9videmment",
-      "url": "https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "BDLM VOL.1",
         "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
@@ -53,27 +33,7 @@
       "url": "https://open.spotify.com/track/6yg2N05MAebATBiYQytC6N"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "SALE",
-        "url": "https://open.spotify.com/album/5tvPovo3aWrL31HlfBzL1K"
-      },
-      "artists": [
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        },
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        }
-      ],
-      "duration_ms": 185635,
-      "name": "SALE",
-      "url": "https://open.spotify.com/track/6C2ovFhNrKlJRoLbOKmCMJ"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Dans les veines",
         "url": "https://open.spotify.com/album/5VSzl7ioWGOpoQTV4ZBqWG"
@@ -97,23 +57,47 @@
       "url": "https://open.spotify.com/track/0ewiAClIyaKosExdgSuqew"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Love Machine",
-        "url": "https://open.spotify.com/album/06NSjZUXswJ1dl3oxDDQur"
+        "name": "\u00c9videmment",
+        "url": "https://open.spotify.com/album/3qvdIPyaNhixZHKX1hVkLb"
       },
       "artists": [
         {
-          "name": "Ya Levis",
-          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Commandante",
-      "url": "https://open.spotify.com/track/6rYd1MzEmpmHquYaRLtFQ4"
+      "duration_ms": 183960,
+      "name": "\u00c9videmment",
+      "url": "https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "SALE",
+        "url": "https://open.spotify.com/album/5tvPovo3aWrL31HlfBzL1K"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        },
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "duration_ms": 185635,
+      "name": "SALE",
+      "url": "https://open.spotify.com/track/6C2ovFhNrKlJRoLbOKmCMJ"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "En chemin II",
         "url": "https://open.spotify.com/album/3guI5LNHiG7JE59DuAlyiQ"
@@ -129,7 +113,7 @@
       "url": "https://open.spotify.com/track/4Oz5nbenyDDb9AaeNDzZMw"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Rappel",
         "url": "https://open.spotify.com/album/5lo9NrxVfWLQLcQ9D8WAaX"
@@ -145,7 +129,35 @@
       "url": "https://open.spotify.com/track/7CjR90qslGmLW5dsnaKZay"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Goumin (Acoustic remix)",
+        "url": "https://open.spotify.com/album/5KIdJ7aYvYk0TsxOdBQLcl"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        },
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        },
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        },
+        {
+          "name": "Cadie Nelva",
+          "url": "https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG"
+        }
+      ],
+      "duration_ms": 189724,
+      "name": "Goumin - Acoustic remix",
+      "url": "https://open.spotify.com/track/1mwVP0H0Zm9dCb7cCkSIy9"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "H\u00c9RITAGE",
         "url": "https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn"
@@ -165,7 +177,7 @@
       "url": "https://open.spotify.com/track/2AtnAly14IUP5I8mPo8QAc"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Apr\u00e8s l'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/2f8C6frz9IoOaNxStASa0X"
@@ -181,7 +193,7 @@
       "url": "https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Instable",
         "url": "https://open.spotify.com/album/2R73xRr7bH7473XAjVgfeH"
@@ -197,23 +209,23 @@
       "url": "https://open.spotify.com/track/4QnMdkE93o6XUQWCxfoneV"
     },
     {
-      "added_at": "2024-11-12 09:06:45",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "FACE",
-        "url": "https://open.spotify.com/album/28hVtxEQbJK9A15H7DH7Re"
+        "name": "Love Machine",
+        "url": "https://open.spotify.com/album/06NSjZUXswJ1dl3oxDDQur"
       },
       "artists": [
         {
-          "name": "Sassy",
-          "url": "https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2"
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
         }
       ],
-      "duration_ms": 200275,
-      "name": "FACE",
-      "url": "https://open.spotify.com/track/5zNKgKLWCrxF1YPSOipgh3"
+      "duration_ms": 160000,
+      "name": "Commandante",
+      "url": "https://open.spotify.com/track/6rYd1MzEmpmHquYaRLtFQ4"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Reviens jamais",
         "url": "https://open.spotify.com/album/746WkKV7QPnIwwupgfGDaU"
@@ -229,59 +241,7 @@
       "url": "https://open.spotify.com/track/6xmLySMOP7u8AG5RCMTYre"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Paqueta",
-        "url": "https://open.spotify.com/album/7z0iznP5UOTtityREHUvX0"
-      },
-      "artists": [
-        {
-          "name": "Merveille",
-          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
-        }
-      ],
-      "duration_ms": 160142,
-      "name": "Paqueta",
-      "url": "https://open.spotify.com/track/1EXYDolm4Q74aoGv2qcjxZ"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "CADILLAC",
-        "url": "https://open.spotify.com/album/3ylfUBBmPiRXupFpmSfawO"
-      },
-      "artists": [
-        {
-          "name": "Ocevne",
-          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
-        }
-      ],
-      "duration_ms": 96981,
-      "name": "CADILLAC",
-      "url": "https://open.spotify.com/track/4eQ2L4muTCOHID7hQ7Tm7N"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "15 Vol.2 : La polyvalence est un don",
-        "url": "https://open.spotify.com/album/0X943C64oj0FwgOnZDaTm9"
-      },
-      "artists": [
-        {
-          "name": "AMK",
-          "url": "https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi"
-        },
-        {
-          "name": "Yorssy",
-          "url": "https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Recommencer Pt.2",
-      "url": "https://open.spotify.com/track/7qekyyp9UZWV3ZgAbGXanv"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Prie Pour Moi",
         "url": "https://open.spotify.com/album/7GQlUc3nmWlRkCtQU74Cup"
@@ -305,7 +265,55 @@
       "url": "https://open.spotify.com/track/24crm1CmCOg633efjOSduY"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Paqueta",
+        "url": "https://open.spotify.com/album/7z0iznP5UOTtityREHUvX0"
+      },
+      "artists": [
+        {
+          "name": "Merveille",
+          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
+        }
+      ],
+      "duration_ms": 160142,
+      "name": "Paqueta",
+      "url": "https://open.spotify.com/track/1EXYDolm4Q74aoGv2qcjxZ"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Message",
+        "url": "https://open.spotify.com/album/3IE0dP0bSQwjJ3wmrAm1Mv"
+      },
+      "artists": [
+        {
+          "name": "Matieu White",
+          "url": "https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9"
+        }
+      ],
+      "duration_ms": 123495,
+      "name": "Message",
+      "url": "https://open.spotify.com/track/0QU4iEkvqUKyh0vFfLekxC"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/28hVtxEQbJK9A15H7DH7Re"
+      },
+      "artists": [
+        {
+          "name": "Sassy",
+          "url": "https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2"
+        }
+      ],
+      "duration_ms": 200275,
+      "name": "FACE",
+      "url": "https://open.spotify.com/track/5zNKgKLWCrxF1YPSOipgh3"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "H\u00c9RITAGE",
         "url": "https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn"
@@ -325,55 +333,43 @@
       "url": "https://open.spotify.com/track/1QfNvkcNwlnoUpFlHu2AX8"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "GOUMIN TERMIN\u00c9",
-        "url": "https://open.spotify.com/album/4Mg5umCU5pSuHhPcQL3p5f"
+        "name": "TATOU\u00c9",
+        "url": "https://open.spotify.com/album/6ro8Nl19IsywrFfVsTp4UP"
       },
       "artists": [
         {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+          "name": "Robin",
+          "url": "https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD"
         }
       ],
-      "duration_ms": 190413,
-      "name": "Merci \u00e0 mon ex",
-      "url": "https://open.spotify.com/track/62oV66GdctcTKgq0QfyCRt"
+      "duration_ms": 149769,
+      "name": "TATOU\u00c9",
+      "url": "https://open.spotify.com/track/3CDifXFzLvme87LHVMTmGL"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/0fcNC3bKauNpJxD0Gybq8H"
+        "name": "15 Vol.2 : La polyvalence est un don",
+        "url": "https://open.spotify.com/album/0X943C64oj0FwgOnZDaTm9"
       },
       "artists": [
         {
-          "name": "Cadie Nelva",
-          "url": "https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG"
-        }
-      ],
-      "duration_ms": 201176,
-      "name": "Pure",
-      "url": "https://open.spotify.com/track/0RiGonmxuaUosBQH3L3E1Z"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Bahinileek",
-        "url": "https://open.spotify.com/album/1qMsq1oqugqTR3nQQGcF3S"
-      },
-      "artists": [
+          "name": "AMK",
+          "url": "https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi"
+        },
         {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+          "name": "Yorssy",
+          "url": "https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc"
         }
       ],
-      "duration_ms": 197023,
-      "name": "Bahinileek",
-      "url": "https://open.spotify.com/track/5QkDN5bbfoi2RXMpFO1Lj9"
+      "duration_ms": 170000,
+      "name": "Recommencer Pt.2",
+      "url": "https://open.spotify.com/track/7qekyyp9UZWV3ZgAbGXanv"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "GINGER BOY",
         "url": "https://open.spotify.com/album/1FT8GPtOWpPQzh7SyizD9i"
@@ -393,59 +389,7 @@
       "url": "https://open.spotify.com/track/0WZIEenmTdjetpUh7iWWN1"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/30NbO4a04CGi1zryzKe1mB"
-      },
-      "artists": [
-        {
-          "name": "Meesyz",
-          "url": "https://open.spotify.com/artist/3ygeE9AJfIQ1QmhdSHM9ZK"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "Fresh",
-      "url": "https://open.spotify.com/track/2mchGKgluNZJ3dY8Z0pKck"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Solide",
-        "url": "https://open.spotify.com/album/1HIdu8IIaYSb5awkKL4Md8"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 135593,
-      "name": "Solide",
-      "url": "https://open.spotify.com/track/19WSNgI0RNwB8zcXaomnpF"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Main B****",
-        "url": "https://open.spotify.com/album/1CVizIswK8OyrMgxHEzvtc"
-      },
-      "artists": [
-        {
-          "name": "IPNDEGO",
-          "url": "https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj"
-        },
-        {
-          "name": "Ocevne",
-          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
-        }
-      ],
-      "duration_ms": 224369,
-      "name": "Main B****",
-      "url": "https://open.spotify.com/track/16UI5CNYBmvAHFMyXOyKkk"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "IDENTIT\u00c9",
         "url": "https://open.spotify.com/album/1lvkzsrpDy7LWSYGDKCk6X"
@@ -461,59 +405,55 @@
       "url": "https://open.spotify.com/track/4xRRSPrUQmxcvtPuRQmqzN"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Fatigu\u00e9",
-        "url": "https://open.spotify.com/album/6ua3siioK5BmuAFMvuUdDp"
+        "name": "Bahinileek",
+        "url": "https://open.spotify.com/album/1qMsq1oqugqTR3nQQGcF3S"
       },
       "artists": [
         {
-          "name": "Louzio",
-          "url": "https://open.spotify.com/artist/1RpZELzUnXRdGMTrKB72WU"
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
         }
       ],
-      "duration_ms": 158260,
-      "name": "Fatigu\u00e9",
-      "url": "https://open.spotify.com/track/69HPx9bIKMCiBgTDa9Yg3P"
+      "duration_ms": 197023,
+      "name": "Bahinileek",
+      "url": "https://open.spotify.com/track/5QkDN5bbfoi2RXMpFO1Lj9"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "FALLAIT M\u2019DIRE",
-        "url": "https://open.spotify.com/album/3a56sPBNa7KhD66Frsyz5P"
+        "name": "GOUMIN TERMIN\u00c9",
+        "url": "https://open.spotify.com/album/4Mg5umCU5pSuHhPcQL3p5f"
       },
       "artists": [
         {
-          "name": "Still Fresh",
-          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
         }
       ],
-      "duration_ms": 174117,
-      "name": "FALLAIT M\u2019DIRE",
-      "url": "https://open.spotify.com/track/7JB7r7AV0sUWu96fZ3rwCC"
+      "duration_ms": 190413,
+      "name": "Merci \u00e0 mon ex",
+      "url": "https://open.spotify.com/track/62oV66GdctcTKgq0QfyCRt"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/4ziU4cUCiPShT8TSaERrQi"
+        "name": "Solide",
+        "url": "https://open.spotify.com/album/1HIdu8IIaYSb5awkKL4Md8"
       },
       "artists": [
-        {
-          "name": "Arma Jackson",
-          "url": "https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN"
-        },
         {
           "name": "Franglish",
           "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 173790,
-      "name": "Voyager",
-      "url": "https://open.spotify.com/track/2AfDJqcpnqU8Y2XEMzfcjK"
+      "duration_ms": 135593,
+      "name": "Solide",
+      "url": "https://open.spotify.com/track/19WSNgI0RNwB8zcXaomnpF"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "W",
         "url": "https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5"
@@ -533,7 +473,23 @@
       "url": "https://open.spotify.com/track/47nJBT9KJwJjBbFR7un0e1"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/0fcNC3bKauNpJxD0Gybq8H"
+      },
+      "artists": [
+        {
+          "name": "Cadie Nelva",
+          "url": "https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG"
+        }
+      ],
+      "duration_ms": 201176,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/0RiGonmxuaUosBQH3L3E1Z"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/2jwhlGrdKvvcBKx1JYqGiX"
@@ -549,79 +505,43 @@
       "url": "https://open.spotify.com/track/6D1SBrgvBx6fy25syegHtf"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "L\u2019envers du d\u00e9cor",
-        "url": "https://open.spotify.com/album/3KuXTV8osR0iFA9NlnEubP"
+        "name": "FALLAIT M\u2019DIRE",
+        "url": "https://open.spotify.com/album/3a56sPBNa7KhD66Frsyz5P"
       },
       "artists": [
         {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
         }
       ],
-      "duration_ms": 161142,
-      "name": "L\u2019envers du d\u00e9cor",
-      "url": "https://open.spotify.com/track/4UiQhF0AKFQvLssBUj2bJe"
+      "duration_ms": 174117,
+      "name": "FALLAIT M\u2019DIRE",
+      "url": "https://open.spotify.com/track/7JB7r7AV0sUWu96fZ3rwCC"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "ELA M",
-        "url": "https://open.spotify.com/album/3iZuHsvqzdnzRGKHGIojyA"
+        "name": "Main B****",
+        "url": "https://open.spotify.com/album/1CVizIswK8OyrMgxHEzvtc"
       },
       "artists": [
         {
-          "name": "Monsieur Nov",
-          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
-        }
-      ],
-      "duration_ms": 169791,
-      "name": "Doudou",
-      "url": "https://open.spotify.com/track/6Gjm6vFZqzoXvHiokZLIeO"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "SPECIAL",
-        "url": "https://open.spotify.com/album/6pMzJiuXyTW3Gx5p6aS0c5"
-      },
-      "artists": [
-        {
-          "name": "Feejoke",
-          "url": "https://open.spotify.com/artist/2MQAUk1nYj86hAwsxfHQ1i"
+          "name": "IPNDEGO",
+          "url": "https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj"
         },
         {
-          "name": "kadiata",
-          "url": "https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv"
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
         }
       ],
-      "duration_ms": 172173,
-      "name": "SPECIAL",
-      "url": "https://open.spotify.com/track/45PAHYgD8cwdnzS1drgjGR"
+      "duration_ms": 224369,
+      "name": "Main B****",
+      "url": "https://open.spotify.com/track/16UI5CNYBmvAHFMyXOyKkk"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "OG",
-        "url": "https://open.spotify.com/album/2MIrhvnmAv7ODwQz1sPcBa"
-      },
-      "artists": [
-        {
-          "name": "Low Jay",
-          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
-        },
-        {
-          "name": "BOLEMVN",
-          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
-        }
-      ],
-      "duration_ms": 153606,
-      "name": "OG",
-      "url": "https://open.spotify.com/track/7Gjyi5WwgUP46MQlcepxec"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "D\u00e9cibels",
         "url": "https://open.spotify.com/album/3gnD4Xi42JDhk4vk6A1VxD"
@@ -637,23 +557,7 @@
       "url": "https://open.spotify.com/track/5CuTvuJxQEIwI9JS8LiI3k"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "M\u00e9lodie c\u00e9leste",
-        "url": "https://open.spotify.com/album/0edoQ68sCLx1FjlM0Nai2c"
-      },
-      "artists": [
-        {
-          "name": "JEY BROWNIE",
-          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "Day & night",
-      "url": "https://open.spotify.com/track/49IEOx7anHYA2XFEe7hU2l"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "D.S.L (feat. Merveille)",
         "url": "https://open.spotify.com/album/16UxdYbqp0V1qt8dPcHirV"
@@ -673,7 +577,63 @@
       "url": "https://open.spotify.com/track/6ZJ1i1Jjb4AmmW8BHHzgft"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/4ziU4cUCiPShT8TSaERrQi"
+      },
+      "artists": [
+        {
+          "name": "Arma Jackson",
+          "url": "https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 173790,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/2AfDJqcpnqU8Y2XEMzfcjK"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "OG",
+        "url": "https://open.spotify.com/album/2MIrhvnmAv7ODwQz1sPcBa"
+      },
+      "artists": [
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        },
+        {
+          "name": "BOLEMVN",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        }
+      ],
+      "duration_ms": 153606,
+      "name": "OG",
+      "url": "https://open.spotify.com/track/7Gjyi5WwgUP46MQlcepxec"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "CADILLAC",
+        "url": "https://open.spotify.com/album/3ylfUBBmPiRXupFpmSfawO"
+      },
+      "artists": [
+        {
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        }
+      ],
+      "duration_ms": 96981,
+      "name": "CADILLAC",
+      "url": "https://open.spotify.com/track/4eQ2L4muTCOHID7hQ7Tm7N"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Concentr\u00e9e",
         "url": "https://open.spotify.com/album/09LetmVw1hDVGa1pCAhxDS"
@@ -693,7 +653,75 @@
       "url": "https://open.spotify.com/track/5SQo1jGdGwmlBXp9ES2SOL"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "L\u2019envers du d\u00e9cor",
+        "url": "https://open.spotify.com/album/3KuXTV8osR0iFA9NlnEubP"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "L\u2019envers du d\u00e9cor",
+      "url": "https://open.spotify.com/track/4UiQhF0AKFQvLssBUj2bJe"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/30NbO4a04CGi1zryzKe1mB"
+      },
+      "artists": [
+        {
+          "name": "Meesyz",
+          "url": "https://open.spotify.com/artist/3ygeE9AJfIQ1QmhdSHM9ZK"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "Fresh",
+      "url": "https://open.spotify.com/track/2mchGKgluNZJ3dY8Z0pKck"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "M\u00e9lodie c\u00e9leste",
+        "url": "https://open.spotify.com/album/0edoQ68sCLx1FjlM0Nai2c"
+      },
+      "artists": [
+        {
+          "name": "JEY BROWNIE",
+          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "Day & night",
+      "url": "https://open.spotify.com/track/49IEOx7anHYA2XFEe7hU2l"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "SPECIAL",
+        "url": "https://open.spotify.com/album/6pMzJiuXyTW3Gx5p6aS0c5"
+      },
+      "artists": [
+        {
+          "name": "Feejoke",
+          "url": "https://open.spotify.com/artist/2MQAUk1nYj86hAwsxfHQ1i"
+        },
+        {
+          "name": "kadiata",
+          "url": "https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "SPECIAL",
+      "url": "https://open.spotify.com/track/45PAHYgD8cwdnzS1drgjGR"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "T'essaies Pas",
         "url": "https://open.spotify.com/album/5iHayQ10U75yUExpuf05xC"
@@ -707,22 +735,6 @@
       "duration_ms": 164954,
       "name": "T'essaies Pas",
       "url": "https://open.spotify.com/track/2Mwl6yoADqOaRCf7aiYXmL"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Alli\u00e9es",
-        "url": "https://open.spotify.com/album/2nw6TpQGN46cfC9IecyfV2"
-      },
-      "artists": [
-        {
-          "name": "Mibsy",
-          "url": "https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "Alli\u00e9es",
-      "url": "https://open.spotify.com/track/1tOGpuxggC1Zt08X1X7R9U"
     }
   ],
   "unique_name": "R&Bae",

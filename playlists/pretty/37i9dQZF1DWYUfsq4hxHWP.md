@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Jordana Bryant, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,428 likes - 195 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,470 likes - 195 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 194 | [Philly or Malibu](https://open.spotify.com/track/0UC1mbCTSOfQY33jKI3aM4) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Philly or Malibu](https://open.spotify.com/album/48zKZriHKsDYfI4D1YGxYC) | 2:40 |
 | 195 | [Cant Go Home](https://open.spotify.com/track/6QBjsyaQUJOGCy2lL62Qum) | [Tyson Ray Borsboom](https://open.spotify.com/artist/5pJeBtKZlfZCFnq9HB0eTC) | [Cant Go Home](https://open.spotify.com/album/6nNZu0SLhEsYT2Rgphh59z) | 3:54 |
 
-Snapshot ID: `ZzUO7QAAAAAFJB4mMnktFb5hS5XBd9Ze`
+Snapshot ID: `ZzUO7QAAAACEqZJye6hZXHfXVpFxpddA`

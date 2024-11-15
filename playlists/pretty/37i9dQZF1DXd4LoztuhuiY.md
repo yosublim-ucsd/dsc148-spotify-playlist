@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4LoztuhuiY.md) - [plain]
 
 > Enjoy the soundtrack of My Liberation Notes! \(드라마 나의 해방일지의 사운드트랙을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,896 likes - 54 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,900 likes - 54 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4LoztuhuiY.md) - [plain]
 | 53 | [Homeground](https://open.spotify.com/track/3CgVQDDq902NtzGJRSQZ2Y) | [옹성은](https://open.spotify.com/artist/4Lrfu5mYixpaBOQH1MwkQW) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 2:26 |
 | 54 | [Happy Ending](https://open.spotify.com/track/2Ya6w0aZbfzejyxKeAHZay) | [YOON CHAE YOUNG](https://open.spotify.com/artist/0smXYOAMSbrVwZlZzL4PHi) | [My Liberation Notes OST](https://open.spotify.com/album/41DOBN48kjQv9eDJj7C9xw) | 1:26 |
 
-Snapshot ID: `ZIsSggAAAAAZvfpZuYrqfULFQ4BzeWA0`
+Snapshot ID: `ZIsSggAAAAC/NZ7fi5Ec4cN0XhDNrVI5`

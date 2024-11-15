@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Griff
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,597 likes - 94 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,642 likes - 94 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 93 | [Scary](https://open.spotify.com/track/6NeYuyQpG3F3BdEtnTo0j2) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Scary](https://open.spotify.com/album/2O7cbXVIIW5ASZmj4hPLIg) | 2:56 |
 | 94 | [Silly Crush](https://open.spotify.com/track/7nxAUHgAVEc05252R7NmdA) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Silly Crush](https://open.spotify.com/album/1pYage8VPhO07sUXkdkzqN) | 2:59 |
 
-Snapshot ID: `ZzJUAwAAAAAESABzghB7qopQ9x3IPqGt`
+Snapshot ID: `ZzJUAwAAAAD1Wiv9BQVb3AWtxJRio2f3`

@@ -4217,6 +4217,28 @@
     },
     {
       "album": {
+        "name": "Usurper",
+        "url": "https://open.spotify.com/album/7lLQhAy2wayD8je3xYGID8"
+      },
+      "artists": [
+        {
+          "name": "NXCRE",
+          "url": "https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw"
+        },
+        {
+          "name": "The Villains",
+          "url": "https://open.spotify.com/artist/3u5FARONWz8eCYD5hPsd5k"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215275,
+      "name": "Usurper",
+      "url": "https://open.spotify.com/track/2N6OKoPGG9UzBoYDxw3b3j"
+    },
+    {
+      "album": {
         "name": "Vagrant",
         "url": "https://open.spotify.com/album/7KPjaI7hStPVhmGW7UM6ay"
       },

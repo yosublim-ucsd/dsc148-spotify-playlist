@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FnQY7eQxRt.md) - [plain]
 
 > Your favourite Christmas carols, performed and re\-imagined by the world's greatest choirs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,525 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,678 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FnQY7eQxRt.md) - [plain]
 | 69 | [Traditional: Angels from the Realms of Glory \(Arr\. Ledger\)](https://open.spotify.com/track/2oP2CNXLq2MwZ1VTI75e7V) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Philip Ledger](https://open.spotify.com/artist/66xtCjvWWjyvuD96T7uMXc) | [Christmas At King's](https://open.spotify.com/album/4hjLcbcLZVJN7twx4sMaYe) | 2:38 |
 | 70 | [I Wonder as I Wander \(arr\. S\. Pilkington for voice and choir\)](https://open.spotify.com/track/5l8F71WY0kXRwBvx8J9ysa) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Steve Pilkington](https://open.spotify.com/artist/7ho80ABePjM5kMLrfRsBHE), [Megan Gallagher](https://open.spotify.com/artist/0GDI71xrtmsjvGgTxsipCq), [Westminster Williamson Voices](https://open.spotify.com/artist/15lRUiqnNSQsU2oIawSYrr), [James Jordan](https://open.spotify.com/artist/61UExWH2clZAUQFKTL6i26) | [Whitbourn: Carolae – Music for Christmas](https://open.spotify.com/album/5FQaP3lkpARGMlSZ3oRuPD) | 3:58 |
 
-Snapshot ID: `ZwkRgwAAAABGZGAuFgReH+WleTgndQ6v`
+Snapshot ID: `ZwkRgwAAAACEXURQAAqN+KSPt3zF8vei`

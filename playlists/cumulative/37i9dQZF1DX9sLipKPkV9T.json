@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "Big Love",
+        "url": "https://open.spotify.com/album/1XLeAVNFwtytHMwLW4gzhO"
+      },
+      "artists": [
+        {
+          "name": "Netta",
+          "url": "https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164363,
+      "name": "Big Love",
+      "url": "https://open.spotify.com/track/2NwhnLbGudUmHVNIUqZ3IM"
+    },
+    {
+      "album": {
         "name": "THE VANDALIST",
         "url": "https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ"
       },
@@ -417,6 +435,24 @@
     },
     {
       "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/0wGiU6GwlizuWAIJM9rPgh"
+      },
+      "artists": [
+        {
+          "name": "as1one",
+          "url": "https://open.spotify.com/artist/4GSOOZ1ohoVKnlHyryv3DH"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204031,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/38vUVTdH7kwrSjClH1X6z1"
+    },
+    {
+      "album": {
         "name": "\u05d0 \u05d9\u05d9\u05d3\u05d9\u05e9\u05e2 \u05e8\u05d0\u05e1\u05d8\u05d4\u05de\u05d0\u05df",
         "url": "https://open.spotify.com/album/13Z3HKPuJMuoG9YOVeTYY1"
       },
@@ -486,7 +522,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 213085,
       "name": "\u05d0\u05d1\u05e8\u05d4\u05dd",
       "url": "https://open.spotify.com/track/6nqa5sryEWWUWEQU538Hyj"
@@ -566,6 +602,24 @@
       "duration_ms": 173684,
       "name": "\u05d0\u05d5\u05e8",
       "url": "https://open.spotify.com/track/1HNItVZCGypC82tE0M82NP"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05d5\u05ea\u05da",
+        "url": "https://open.spotify.com/album/1U9HqftN6l2v4o73wGg9sU"
+      },
+      "artists": [
+        {
+          "name": "Narkis",
+          "url": "https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208125,
+      "name": "\u05d0\u05d5\u05ea\u05da",
+      "url": "https://open.spotify.com/track/57zJjiEZ0bvmcmkIEn0Hax"
     },
     {
       "album": {
@@ -1792,7 +1846,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 215500,
       "name": "\u05db\u05dc \u05d9\u05d5\u05dd \u05de\u05d7\u05d3\u05e9",
       "url": "https://open.spotify.com/track/6nxmm9rzACLHYAwwfAiFIp"
@@ -1858,6 +1912,24 @@
       "duration_ms": 144000,
       "name": "\u05db\u05e4\u05e8\u05d4 \u05dc\u05e0\u05d3",
       "url": "https://open.spotify.com/track/1Sw4FRafnTe0BLumLcpi3N"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05d0 \u05d1\u05d0\u05de\u05ea \u05db\u05dc\u05d5\u05dd",
+        "url": "https://open.spotify.com/album/14t2NznGGkbO8r0ScpgWxk"
+      },
+      "artists": [
+        {
+          "name": "Eli Huli",
+          "url": "https://open.spotify.com/artist/0pVfuGHwDRXhSWJw7tzygH"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182432,
+      "name": "\u05dc\u05d0 \u05d1\u05d0\u05de\u05ea \u05db\u05dc\u05d5\u05dd",
+      "url": "https://open.spotify.com/track/70D3t1kTUZRef1ZZKClOxu"
     },
     {
       "album": {
@@ -2336,7 +2408,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 168760,
       "name": "\u05de\u05d9\u05e9\u05d4\u05d5 \u05d0\u05d7\u05d3",
       "url": "https://open.spotify.com/track/53dNDMTgxyha4yEU34igbG"
@@ -2750,7 +2822,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 168000,
       "name": "\u05e2\u05de\u05de\u05d9\u05d4",
       "url": "https://open.spotify.com/track/52BDVbcJ37rWktwgdX4Asl"

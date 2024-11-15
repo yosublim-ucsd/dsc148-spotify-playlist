@@ -469,24 +469,6 @@
     },
     {
       "album": {
-        "name": "Depuis le temps (Part. 2)",
-        "url": "https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6"
-      },
-      "artists": [
-        {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
-        }
-      ],
-      "date_added": "2024-10-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 176248,
-      "name": "Ca parle mal",
-      "url": "https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi"
-    },
-    {
-      "album": {
         "name": "Chaos",
         "url": "https://open.spotify.com/album/2uCtJ4tCg3I3NKHFCkFqAX"
       },
@@ -3464,6 +3446,24 @@
       "duration_ms": 183400,
       "name": "\u00c0 QUOI TU JOUES",
       "url": "https://open.spotify.com/track/2fAymB6lhuXEQOhIrJZERU"
+    },
+    {
+      "album": {
+        "name": "Depuis le temps (Part. 2)",
+        "url": "https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176248,
+      "name": "\u00c7a parle mal",
+      "url": "https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi"
     },
     {
       "album": {

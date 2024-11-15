@@ -4,7 +4,7 @@
 
 > Mental illness
 
-46 songs - 2 hr 35 min
+47 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [People Are Strange](https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 2:10 | 2024-09-17 |  |
 | [Playing With Fire](https://open.spotify.com/track/3yG3qyAffoYLExAjhZTuJG) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:28 | 2024-10-03 |  |
 | [Problems](https://open.spotify.com/track/2GxzBF4jpZRYDzJO6A32d6) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Problems](https://open.spotify.com/album/4lBNSreUSPpeHYRti8gjee) | 3:22 | 2024-02-19 |  |
+| [Resonant Bell World](https://open.spotify.com/track/2xkusgD5mDOEzzVcrDJqZd) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beautiful Rat Sunset](https://open.spotify.com/album/4Matl0g5l7qXKvsoorZ1Bf) | 2:36 | 2024-11-14 |  |
 | [Self Esteem](https://open.spotify.com/track/3t4OeuZLxYUKjWgCaZMFDP) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Can't Maintain](https://open.spotify.com/album/0nm6MlBgiFUET6shfchd8l) | 1:36 | 2023-12-05 |  |
 | [Skeleton Appreciation Day in Vestal, NY \(Bones\)](https://open.spotify.com/track/0YP2c4aqvZehpngSGScVkn) | [Will Wood and the Tapeworms](https://open.spotify.com/artist/13pwqHspIhcy1IcAooefso) | [Everything Is a Lot](https://open.spotify.com/album/3mXf3xH8ODKxWUOsSe7joK) | 4:04 | 2023-03-31 |  |
 | [Spite](https://open.spotify.com/track/3bidCIZWpP17uKbpnsuEAs) | [Vandaveer](https://open.spotify.com/artist/3SP3zwx9ot2sOEf80VJA5A) | [Dig Down Deep](https://open.spotify.com/album/6jKZVWF3GLgh7nnWg5jpYE) | 2:39 | 2023-04-02 |  |

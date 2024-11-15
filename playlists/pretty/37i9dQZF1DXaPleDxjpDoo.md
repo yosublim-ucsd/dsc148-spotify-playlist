@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,529 likes - 91 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,825 likes - 91 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 90 | [Sweet Nature](https://open.spotify.com/track/323vDrUSVxJTm7SsV5Oftw) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Sweet Nature](https://open.spotify.com/album/5JpnDhrCd3I5bOLl9C8WKg) | 2:50 |
 | 91 | [Moving Forward](https://open.spotify.com/track/5wUcZKUVpLr1mA9cn542BI) | [moon echo](https://open.spotify.com/artist/36RuEVYPpPQPNKGjmrp3hN) | [Moving Forward](https://open.spotify.com/album/0nginUJK6TyxW1XEZhdelg) | 2:36 |
 
-Snapshot ID: `ZxpNkQAAAACc2D0MGApU+46N6drqKGxo`
+Snapshot ID: `ZxpNkQAAAADbAavIzk2TsJO0Dc/U5EQt`

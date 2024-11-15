@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Kubla
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,369 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,405 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 74 | [Surgery](https://open.spotify.com/track/6QMoxBOuYHCEC6YsUsfoVS) | [Gray Hawken](https://open.spotify.com/artist/6qFnkXKWazlAU0OPb4Q4a1) | [Surgery](https://open.spotify.com/album/6dg1kPUvtMptalqVeLHKZy) | 2:28 |
 | 75 | [U SAY](https://open.spotify.com/track/66Q5eNqcKKFyqING1FrCQ4) | [Dom Dias](https://open.spotify.com/artist/68ptFxNNKKJOxy7Y8x5K0B) | [ALL I NEED](https://open.spotify.com/album/6epSDpx4tZ6cvzrOf6V1r8) | 2:03 |
 
-Snapshot ID: `ZzQyUAAAAACii8Hz04mJarjbsgw9abKu`
+Snapshot ID: `ZzQyUAAAAADt40a2P+WFnbDfU29CXNSw`

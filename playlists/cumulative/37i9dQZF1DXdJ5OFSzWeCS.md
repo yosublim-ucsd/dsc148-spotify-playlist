@@ -4,7 +4,7 @@
 
 > Soft music for sleepy babies.
 
-722 songs - 21 hr 38 min
+723 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [Heart Of Gold](https://open.spotify.com/track/0MDpvtbdWeLZPw1kpynlry) | [Sandra Forster](https://open.spotify.com/artist/3TLHL40IaEycdPNoxTqK3a) | [Heart Of Gold](https://open.spotify.com/album/3f0yAEneJ07D1pFz0KEBLe) | 1:59 | 2023-12-22 |  |
 | [Here and Now](https://open.spotify.com/track/37OI6ky8R9ZjEBnr77tIai) | [Bobbi Rafferty](https://open.spotify.com/artist/0m9pUjmNedBWPtNVf0ZVlt) | [Here and Now](https://open.spotify.com/album/0DuLIM02jLW7ZbpKNK6MJU) | 1:31 | 2022-02-10 | 2024-03-29 |
 | [Hey Diddle Diddle](https://open.spotify.com/track/60SZfskdGikre1zIj1Gv0v) | [Grant Littleton](https://open.spotify.com/artist/3E3lYC2lzd6qqvKet09ZkA) | [Humpty Dumpty](https://open.spotify.com/album/2ZyOawyfUZIh4CLud2qcnx) | 1:41 | 2022-06-08 |  |
-| [Hide and Seek](https://open.spotify.com/track/6lsADUk8BszOpWlAm4h7NO) | [Monty Monte](https://open.spotify.com/artist/1EIGA4peNLm3OyRlYVGZMi) | [Hide and Seek](https://open.spotify.com/album/0TmyiJrOYFPIkeFTeFock1) | 1:29 | 2022-02-10 |  |
+| [Hide and Seek](https://open.spotify.com/track/6lsADUk8BszOpWlAm4h7NO) | [Monty Monte](https://open.spotify.com/artist/1EIGA4peNLm3OyRlYVGZMi) | [Hide and Seek](https://open.spotify.com/album/0TmyiJrOYFPIkeFTeFock1) | 1:29 | 2022-02-10 | 2024-11-15 |
 | [Ho Hey](https://open.spotify.com/track/3dlA9HQfeOu8v2imrO4LIh) | [Anastasia Knight](https://open.spotify.com/artist/26vHNLSCd3e0hcplHwNc6g) | [Ho Hey](https://open.spotify.com/album/6KoEQ7bdnNLm4cvQXuipQN) | 1:55 | 2022-04-25 | 2023-08-25 |
 | [Hold Your Hand](https://open.spotify.com/track/3E2XQBhF15JCXjEmDiLpD3) | [Jenifer Layne](https://open.spotify.com/artist/33hBOxkn6uwTrhH5UMZ812) | [Hold Your Hand](https://open.spotify.com/album/4AvJ6gRSv0K4x3eQzFt58O) | 2:11 | 2022-02-10 | 2024-05-17 |
 | [Home On The Range](https://open.spotify.com/track/3tWEhxmRQ0fs4fxCfNqP3n) | [Little Sugar Piano](https://open.spotify.com/artist/1qUlqHISkBjUryDH3m69xw) | [Head, Shoulders, Knees and Toes](https://open.spotify.com/album/0KPYZtsNHup7cSxDfbgnAG) | 2:52 | 2022-06-08 |  |
@@ -347,6 +347,7 @@
 | [Lavender's Blue](https://open.spotify.com/track/2fx4Zt7CaDEyShOuCqKSQF) | [Carolina Laurel](https://open.spotify.com/artist/4KQIvd8xhteThiwnEhjO7p) | [Mommy & Daddy Love You](https://open.spotify.com/album/2hzy2byPq9A9VPhooQ9OFo) | 1:28 | 2022-02-10 | 2023-02-10 |
 | [Lavender's Blue](https://open.spotify.com/track/04WO0f93EAAAVyu9Nh1uJB) | [Emmet April](https://open.spotify.com/artist/3Hx2KupJkTFnYSctvk83Iv) | [Lavender's Blue](https://open.spotify.com/album/170S6zTHVCCJMS7xJqoRf7) | 1:45 | 2022-02-10 | 2023-04-07 |
 | [Lavender's Blue](https://open.spotify.com/track/7LBz9droYdZnaCVHgDbqvo) | [Vanessa Khan](https://open.spotify.com/artist/6cjzprtxAqmx74FtQbotMV) | [Lavender's Blue](https://open.spotify.com/album/7syJVFFBJLoedz18nxr5RX) | 1:47 | 2022-12-23 | 2024-03-29 |
+| [Lavender's Blue \- Instrumental](https://open.spotify.com/track/0Zwt0Q9NTjo8ASYPtIkRLG) | [The Night Owl](https://open.spotify.com/artist/0igPRkjHRxYJLdlstbp9MW) | [Lullabies for Babies: Calming Lullaby Songs for Babies and Toddlers \- Relaxing Music for Bedtime](https://open.spotify.com/album/3XdwVPfTgopA49t9CV7BJw) | 1:59 | 2024-11-14 |  |
 | [Left And Right](https://open.spotify.com/track/0H9uhbL0BrrV7iMnNovlIr) | [Francine Miller](https://open.spotify.com/artist/5vxAOWWWvD46wo9rxyELlv) | [Left And Right](https://open.spotify.com/album/6TsQmkqi4FGV7umaH5v7c1) | 1:56 | 2024-03-01 |  |
 | [Lightly Row](https://open.spotify.com/track/1sacy8TpS19p2dvQAQ4Rwk) | [Otis Meadow](https://open.spotify.com/artist/4vnYAza7qzjL5eUwP0yAN8) | [Lightly Row](https://open.spotify.com/album/3gxVaMfXE1w67zbrzueuzU) | 1:22 | 2023-12-08 |  |
 | [Lights Down](https://open.spotify.com/track/6tet9ALh2ZiQrJilAJCjCz) | [Lynn Kay](https://open.spotify.com/artist/1y2zzoYNLRN6jCwiUzcKgE) | [Lights Down](https://open.spotify.com/album/2ltEGd5XzxNHCGYKcptlNl) | 1:54 | 2024-02-09 |  |

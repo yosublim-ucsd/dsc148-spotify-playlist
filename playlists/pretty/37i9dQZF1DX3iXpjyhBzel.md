@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Fernandinho, Gabriela Rocha
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,092,489 likes - 100 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,974 likes - 100 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 99 | [Seu Amor / Diante da Cruz](https://open.spotify.com/track/2OmZjKpXjbDWXEsw1JEy1x) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Seu Amor / Diante da Cruz](https://open.spotify.com/album/416qFfcOtOGNzeWaCARGMS) | 8:17 |
 | 100 | [Espírito, Enche A Minha Vida / Ao Único](https://open.spotify.com/track/6ajZdpWUlSnUWad6VAE154) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Espírito, Enche A Minha Vida / Ao Único](https://open.spotify.com/album/6ktiX7byZbgFcAaAKR1UMN) | 4:36 |
 
-Snapshot ID: `ZxHPbAAAAABytJqSjCWq7xBJr1kQkpkn`
+Snapshot ID: `ZxHPbAAAAADlmaluXIydx/7LOFxsi75B`

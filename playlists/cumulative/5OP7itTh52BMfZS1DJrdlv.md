@@ -4,7 +4,7 @@
 
 > Celebrate the holiday season in style with this timeless playlist of Xmas favorites old and new\.  Merry Christmas, Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
 
-118 songs - 6 hr 10 min
+119 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,9 +76,10 @@
 | [Merry Christmas](https://open.spotify.com/track/5PudLgyFZMHvtcI9qTs9Uf) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:28 | 2023-12-09 |  |
 | [Merry Christmas Baby](https://open.spotify.com/track/1cOxg22X8lIVuB4MdF7v3j) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:35 | 2023-12-09 |  |
 | [Merry Christmas Darling](https://open.spotify.com/track/0sgg1TbWuzUTopDgB1ieS3) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:20 | 2023-12-09 |  |
+| [Merry Christmas Everyone](https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [Merry Christmas Everyone](https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa) | 3:40 | 2024-11-14 |  |
 | [Merry Christmas Everyone \- 2005 \- Remaster](https://open.spotify.com/track/08m7d6eBPCzKVLdYzTDbNN) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [Christmas Hits](https://open.spotify.com/album/1vu7E88Du7iTQHf9bW4bSn) | 3:40 | 2023-12-09 | 2023-12-20 |
 | [Merry Xmas Everybody](https://open.spotify.com/track/4dBQWyoZmmgvFBlALGlqZi) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Merry Xmas Everybody](https://open.spotify.com/album/05p2SZoivHg20xFgM0ibTy) | 3:43 | 2023-12-09 | 2023-12-20 |
-| [Might Ruin Christmas](https://open.spotify.com/track/4ySQAwFvKldxXphT7VdoQt) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Might Ruin Christmas](https://open.spotify.com/album/1hJBU4t7IAFrHRG9qQeLHZ) | 2:39 | 2023-12-09 |  |
+| [Might Ruin Christmas](https://open.spotify.com/track/4ySQAwFvKldxXphT7VdoQt) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Might Ruin Christmas](https://open.spotify.com/album/1hJBU4t7IAFrHRG9qQeLHZ) | 2:39 | 2023-12-09 | 2024-11-15 |
 | [Mistletoe and Wine](https://open.spotify.com/track/6z5poUMwOJIQID5wAfZUjQ) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 4:05 | 2023-12-09 |  |
 | [Must Mean It's Christmas](https://open.spotify.com/track/0VMBFz9yMt9L81uzTKLj92) | [Chasing Abbey](https://open.spotify.com/artist/6toMXnM9tcozz7OmgxWtZg) | [Learning To Dance \(Lanigan’s Ball\)](https://open.spotify.com/album/7iMnWMLVJNky9Mrdzr0aiC) | 3:05 | 2023-12-09 |  |
 | [My Only Wish \(feat\. Christopher\)](https://open.spotify.com/track/0zavRY9lIR1UZIX0vRZImx) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [My Only Wish \(feat\. Christopher\)](https://open.spotify.com/album/4EYmRuwHd0urc6gLA2JNYJ) | 2:31 | 2023-12-09 | 2023-12-25 |

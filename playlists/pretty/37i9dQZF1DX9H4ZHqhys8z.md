@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου αυτές τις απίθανες καλλιτέχνιδες στη διαπασών\. Μια playlist που συνυπογράφει η LILA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,542 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,561 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Nemouta](https://open.spotify.com/track/2KzVSadpL59J42DuhBVi70) | [Nandra](https://open.spotify.com/artist/213p95pA1lI8enoM31pC2b), [Billie Kark](https://open.spotify.com/artist/6hDmweft2NBTVSnCPJ5pMc) | [Chi V/A](https://open.spotify.com/album/70e09AQIJEAKJvrBwn3qHm) | 5:03 |
 | 50 | [Breaking Point](https://open.spotify.com/track/1ehAe4yogluI0rWZYlmkyj) | [Katherine Filippeos](https://open.spotify.com/artist/5n2gXCi6H2BtRWmEKb8Hjd) | [Breaking Point](https://open.spotify.com/album/4RxG3zHsoePXgu0v9OyxfV) | 4:17 |
 
-Snapshot ID: `ZzM4dwAAAAA437SmWZ8iKSLwUO6FYoCV`
+Snapshot ID: `ZzM4dwAAAAC3EXIO/4vUD+rrl7F0WsvT`

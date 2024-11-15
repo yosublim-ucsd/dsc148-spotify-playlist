@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYq385h4zLDe.md) - [plain]
 
 > It’s a call from the ancestors\. Listen to new music from Moana 2, in theaters soon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,689 likes - 69 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,734 likes - 69 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYq385h4zLDe.md) - [plain]
 | 68 | [Sea Monsters \- Score Demo](https://open.spotify.com/track/2CBm77LCNuHLiEhnmiZnHm) | [Mark Mancina](https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 0:45 |
 | 69 | [Tala Returns \- Score Demo](https://open.spotify.com/track/4D4Fhfexqg5hFyH6Zjha1r) | [Mark Mancina](https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 1:15 |
 
-Snapshot ID: `Zy5SpgAAAACzPuSuG1HUguWavdzd/Deo`
+Snapshot ID: `Zy5SpgAAAADYSDImCLSEmRUBopjKT2bP`

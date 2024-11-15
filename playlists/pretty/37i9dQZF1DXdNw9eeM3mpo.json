@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. Dancing Mood en portada.",
-  "num_followers": 469406,
+  "num_followers": 469473,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyElDgAAAABOui6LViTtLZwqucLSp7EY",
+  "snapshot_id": "ZyElDgAAAABE44y/c6nDqhyLPTUf8+J8",
   "tracks": [
     {
       "added_at": "2024-10-29 18:10:22",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-10-29 18:10:22",
       "album": {
+        "name": "Mugre",
+        "url": "https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca"
+    },
+    {
+      "added_at": "2024-10-29 18:10:22",
+      "album": {
         "name": "Mucho Mejor",
         "url": "https://open.spotify.com/album/53KzF0G9feWSiJ76Psj3LE"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 175942,
       "name": "Mucho Mejor",
       "url": "https://open.spotify.com/track/74hKdpN6CifwRlsg5VItCX"
-    },
-    {
-      "added_at": "2024-10-29 18:10:22",
-      "album": {
-        "name": "Mugre",
-        "url": "https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Recuerdos",
-      "url": "https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca"
     },
     {
       "added_at": "2024-10-29 18:10:22",
@@ -1391,6 +1391,22 @@
       "duration_ms": 210164,
       "name": "Qui\u00e9n devuelve el tiempo?",
       "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
+    },
+    {
+      "added_at": "2024-10-29 18:10:22",
+      "album": {
+        "name": "Chamuyo",
+        "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 190580,
+      "name": "Caras y Caretas",
+      "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
     },
     {
       "added_at": "2024-10-29 18:10:22",
@@ -1451,22 +1467,6 @@
     {
       "added_at": "2024-10-29 18:10:22",
       "album": {
-        "name": "5 A\u00f1os Con Sabor a 20",
-        "url": "https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY"
-      },
-      "artists": [
-        {
-          "name": "Los Victorios",
-          "url": "https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "La Ca\u00edda y la Gloria",
-      "url": "https://open.spotify.com/track/5A1tWza8ztAzZSgvhZzdXe"
-    },
-    {
-      "added_at": "2024-10-29 18:10:22",
-      "album": {
         "name": "Que Empiece Ya!",
         "url": "https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti"
       },
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2024-10-29 18:10:22",
       "album": {
-        "name": "Chamuyo",
-        "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
+        "name": "5 A\u00f1os Con Sabor a 20",
+        "url": "https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY"
       },
       "artists": [
         {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+          "name": "Los Victorios",
+          "url": "https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj"
         }
       ],
-      "duration_ms": 190580,
-      "name": "Caras y Caretas",
-      "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
+      "duration_ms": 137000,
+      "name": "La Ca\u00edda y la Gloria",
+      "url": "https://open.spotify.com/track/5A1tWza8ztAzZSgvhZzdXe"
     },
     {
       "added_at": "2024-10-29 18:10:22",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-10-29 18:10:22",
       "album": {
-        "name": "A medio camino",
-        "url": "https://open.spotify.com/album/3LIlsKOlDzWYosREO60Cgs"
-      },
-      "artists": [
-        {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
-        }
-      ],
-      "duration_ms": 172811,
-      "name": "A partir de ah\u00ed",
-      "url": "https://open.spotify.com/track/1FMsxyf8w9PnhcA6POZ0vV"
-    },
-    {
-      "added_at": "2024-10-29 18:10:22",
-      "album": {
         "name": "Baile Infinito",
         "url": "https://open.spotify.com/album/1zpggciAeGOsTlKKaSJxMR"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 198188,
       "name": "Es lo que hay",
       "url": "https://open.spotify.com/track/4sYiGhu0HEL0ZlkbHesfYC"
+    },
+    {
+      "added_at": "2024-10-29 18:10:22",
+      "album": {
+        "name": "A medio camino",
+        "url": "https://open.spotify.com/album/3LIlsKOlDzWYosREO60Cgs"
+      },
+      "artists": [
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "duration_ms": 172811,
+      "name": "A partir de ah\u00ed",
+      "url": "https://open.spotify.com/track/1FMsxyf8w9PnhcA6POZ0vV"
     },
     {
       "added_at": "2024-10-29 18:10:22",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-10-29 18:10:22",
       "album": {
-        "name": "As\u00ed No Se Puede Querer",
-        "url": "https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw"
-      },
-      "artists": [
-        {
-          "name": "Los Inconformes",
-          "url": "https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy"
-        }
-      ],
-      "duration_ms": 216859,
-      "name": "As\u00ed No Se Puede Querer",
-      "url": "https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e"
-    },
-    {
-      "added_at": "2024-10-29 18:10:22",
-      "album": {
         "name": "Don't Worry Be Happy",
         "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 225018,
       "name": "Don`t Worry Be Happy",
       "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
+    },
+    {
+      "added_at": "2024-10-29 18:10:22",
+      "album": {
+        "name": "As\u00ed No Se Puede Querer",
+        "url": "https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw"
+      },
+      "artists": [
+        {
+          "name": "Los Inconformes",
+          "url": "https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy"
+        }
+      ],
+      "duration_ms": 216859,
+      "name": "As\u00ed No Se Puede Querer",
+      "url": "https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e"
     },
     {
       "added_at": "2024-10-29 18:10:22",

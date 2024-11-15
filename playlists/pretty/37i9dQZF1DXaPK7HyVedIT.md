@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Malive
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,244,675 likes - 90 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,244,718 likes - 90 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 89 | [Raving](https://open.spotify.com/track/1U6hOheaJGUCWzn3ot1cbm) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Raving](https://open.spotify.com/album/7ILVMHef9eJsQi27KM56Hf) | 2:18 |
 | 90 | [Allein Allein](https://open.spotify.com/track/0FlTOYJxfZvYsXf8Cyahyt) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [INNERVERSE](https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf), [FREY](https://open.spotify.com/artist/5F96KjVVl5nnGRkXs8E8Za) | [Allein Allein](https://open.spotify.com/album/2xSMhp31viwXmp1oZGKdLs) | 2:39 |
 
-Snapshot ID: `Zy1/ZAAAAAA8QV1k5y70la/Bxa1HFw4w`
+Snapshot ID: `Zy1/ZAAAAAC+7bkYNyfvohHefTNN0TBC`

@@ -2057,6 +2057,32 @@
     },
     {
       "album": {
+        "name": "Des Choses",
+        "url": "https://open.spotify.com/album/6HSL1XRfNmkBkPWJ4Ix5YH"
+      },
+      "artists": [
+        {
+          "name": "Scratch Massive",
+          "url": "https://open.spotify.com/artist/5udXThiZTVoHa4g0GDjgxA"
+        },
+        {
+          "name": "Yelle",
+          "url": "https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd"
+        },
+        {
+          "name": "Maud Geffray",
+          "url": "https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192250,
+      "name": "Des Choses",
+      "url": "https://open.spotify.com/track/1zvmRYVcCbdr2ml6U9cqxw"
+    },
+    {
+      "album": {
         "name": "Des nuits de \u00e7a",
         "url": "https://open.spotify.com/album/6l4mLyttDO3ius8bjQN2gy"
       },
@@ -3850,7 +3876,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 166972,
       "name": "I see you up tomorrow",
       "url": "https://open.spotify.com/track/4tdwnzkNsPyb3MAFnhuETN"
@@ -4270,6 +4296,24 @@
       "duration_ms": 163013,
       "name": "Je reviens des enfers",
       "url": "https://open.spotify.com/track/4vmRrETjLhbXDKpJVqmMrT"
+    },
+    {
+      "album": {
+        "name": "Je-m'en-foutisme",
+        "url": "https://open.spotify.com/album/3MtHZHhYxhiMheSNTObC1R"
+      },
+      "artists": [
+        {
+          "name": "Bolivard",
+          "url": "https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147413,
+      "name": "Je-m'en-foutisme",
+      "url": "https://open.spotify.com/track/2HVbMBvaLBk8r9N2JkoSdr"
     },
     {
       "album": {
@@ -5474,7 +5518,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 160005,
       "name": "Love Scares",
       "url": "https://open.spotify.com/track/2eEKfCcbnCmpevVJfmqcPU"

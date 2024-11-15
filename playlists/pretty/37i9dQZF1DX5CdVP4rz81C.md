@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Keshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,808 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,778 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 99 | [Blowing Kisses](https://open.spotify.com/track/4PYHJBvwWzMRyh6OCVTb0K) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Blowing Kisses](https://open.spotify.com/album/6Oajf1XG7NyTjo4xcH7C6F) | 3:38 |
 | 100 | [Mudroom](https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Mudroom](https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc) | 3:59 |
 
-Snapshot ID: `ZxHdQAAAAAAGSa1FNHoO5l8bZ0DC8bmg`
+Snapshot ID: `ZxHdQAAAAAC015K99UMXS9n5o81QXCod`

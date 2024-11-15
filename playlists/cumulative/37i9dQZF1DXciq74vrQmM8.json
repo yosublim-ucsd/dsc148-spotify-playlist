@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Deijuvhs",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. Poppy",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -460,7 +460,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 171980,
       "name": "ALL AMERICAN NIGHTMARE",
       "url": "https://open.spotify.com/track/6urGFOw5gaknvtYxTXxYi3"
@@ -3514,7 +3514,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 196988,
       "name": "Coz I Luv You",
       "url": "https://open.spotify.com/track/4s0daDLItvytr238oPNt4e"
@@ -5210,6 +5210,24 @@
     {
       "album": {
         "name": "Empty Space",
+        "url": "https://open.spotify.com/album/0PN6oB3NFC0QzUnKi8b4sj"
+      },
+      "artists": [
+        {
+          "name": "Peter Xan",
+          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Empty Space",
+      "url": "https://open.spotify.com/track/7iAZgolVfFtP5n1EEdL4c1"
+    },
+    {
+      "album": {
+        "name": "Empty Space",
         "url": "https://open.spotify.com/album/2zMI60Yy1HxU2B7ICjgYMx"
       },
       "artists": [
@@ -5274,7 +5292,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 138955,
       "name": "escape 2nite",
       "url": "https://open.spotify.com/track/4AijasxFX4OxpAUO1HMZEi"
@@ -9280,7 +9298,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 159000,
       "name": "INSECT",
       "url": "https://open.spotify.com/track/2vI0ZtZJSz5HAfJGJUFA7g"
@@ -9540,7 +9558,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 189127,
       "name": "ITS A MIRACLE!!!!!!!",
       "url": "https://open.spotify.com/track/4QOb5qpuIcpA8sXRp6OUxt"
@@ -10992,7 +11010,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 183000,
       "name": "Love",
       "url": "https://open.spotify.com/track/6SX7h9XaGEsUZiJIwjXU47"
@@ -11068,7 +11086,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 204843,
       "name": "Love Me When You're Angry",
       "url": "https://open.spotify.com/track/7tHxrWEV6Gsq5QtcUhcyxe"
@@ -12182,10 +12200,32 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 157029,
       "name": "My Drummer's Girlfriend",
       "url": "https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp"
+    },
+    {
+      "album": {
+        "name": "My Drummer's Girlfriend (feat. Wheatus)",
+        "url": "https://open.spotify.com/album/5DHouGmGppqYocTJGRL1hO"
+      },
+      "artists": [
+        {
+          "name": "ALT BLK ERA",
+          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
+        },
+        {
+          "name": "Wheatus",
+          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154065,
+      "name": "My Drummer's Girlfriend (feat. Wheatus)",
+      "url": "https://open.spotify.com/track/4jX0GaZfGE9H8QmMBT5XhR"
     },
     {
       "album": {
@@ -14995,6 +15035,24 @@
     },
     {
       "album": {
+        "name": "serenity in torture",
+        "url": "https://open.spotify.com/album/7KHbMAxCrDjK0htuxqNlZZ"
+      },
+      "artists": [
+        {
+          "name": "CRIM",
+          "url": "https://open.spotify.com/artist/095h4p1W4McMH96nJ5KWIu"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181694,
+      "name": "serenity in torture",
+      "url": "https://open.spotify.com/track/67xtvgmVx5IPQ6Ofs1qESS"
+    },
+    {
+      "album": {
         "name": "I've Seen The Lizard People",
         "url": "https://open.spotify.com/album/3T1lBPGKa3vEt2hIqrfzAf"
       },
@@ -16476,7 +16534,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 164599,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/4bVl1QANpKT2KSuHaDCl9S"
@@ -16610,6 +16668,24 @@
       "duration_ms": 165750,
       "name": "the boy has to go",
       "url": "https://open.spotify.com/track/4FjpjCIamZBgedcleaCvXW"
+    },
+    {
+      "album": {
+        "name": "Negative Spaces",
+        "url": "https://open.spotify.com/album/0YIOpXQvcbiDNPusSqi5Ew"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145032,
+      "name": "the center\u2019s falling out",
+      "url": "https://open.spotify.com/track/5PZZ3G5djpINln9xcMxcmB"
     },
     {
       "album": {
@@ -17572,6 +17648,24 @@
       "duration_ms": 137926,
       "name": "under (feat. phem)",
       "url": "https://open.spotify.com/track/3DJ0kDrc9nE4cy92xx0cxD"
+    },
+    {
+      "album": {
+        "name": "Under The Table",
+        "url": "https://open.spotify.com/album/6xQxmSMnt7HM7toUWaSyYz"
+      },
+      "artists": [
+        {
+          "name": "DEAR-GOD",
+          "url": "https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133125,
+      "name": "Under The Table",
+      "url": "https://open.spotify.com/track/6B5NoqyeXRjS3tfq8MZNcy"
     },
     {
       "album": {

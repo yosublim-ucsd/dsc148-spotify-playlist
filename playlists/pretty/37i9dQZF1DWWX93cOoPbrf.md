@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2024\. Gustavo Palafox & Martin Castillo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 850,436 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 850,515 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 99 | [A Los 16](https://open.spotify.com/track/7dJ2QfrkOCyMoA5RhnGl6i) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [A Los 16](https://open.spotify.com/album/2PNjv7aCC0qIqrRZNeQUT2) | 2:51 |
 | 100 | [La Fiesta](https://open.spotify.com/track/2jjrH4sgaGxgDWss3XWenX) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Fiesta](https://open.spotify.com/album/0H2PeujiXUo7qOnRLLmrKz) | 3:09 |
 
-Snapshot ID: `Zy6TSgAAAACsT37j/duOH8nw6DnF9Jal`
+Snapshot ID: `Zy6TSgAAAACg/JDBWRiRICXq1skJn0HM`

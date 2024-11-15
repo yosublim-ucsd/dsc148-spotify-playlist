@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZWcrvAAAAAAg8eK9b+cLi8DThzO6Xkk8",
+  "snapshot_id": "ZWcrvAAAAADuZSBJItGhCSYP99/IoBDG",
   "tracks": [
     {
       "added_at": "2023-11-29 12:17:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "MAGNANIMITY",
-        "url": "https://open.spotify.com/album/7AVe1Cc7Uns0mN2sy6KHBL"
-      },
-      "artists": [
-        {
-          "name": "Jaycov",
-          "url": "https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV"
-        }
-      ],
-      "duration_ms": 194800,
-      "name": "perfume bottle",
-      "url": "https://open.spotify.com/track/7wmwpkiGOVNJUfhAHztsW0"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "BF",
         "url": "https://open.spotify.com/album/4rQNdqxfjwv16sF8OxNp9C"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 127963,
       "name": "BF",
       "url": "https://open.spotify.com/track/5RAYG4rkqeW3WE5zkVHgdv"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "MAGNANIMITY",
+        "url": "https://open.spotify.com/album/7AVe1Cc7Uns0mN2sy6KHBL"
+      },
+      "artists": [
+        {
+          "name": "Jaycov",
+          "url": "https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV"
+        }
+      ],
+      "duration_ms": 194800,
+      "name": "perfume bottle",
+      "url": "https://open.spotify.com/track/7wmwpkiGOVNJUfhAHztsW0"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Watching Strangers Smile",
-        "url": "https://open.spotify.com/album/0zpSsEuwv5VbuiyuvfpjmZ"
-      },
-      "artists": [
-        {
-          "name": "FILLY",
-          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
-        }
-      ],
-      "duration_ms": 148900,
-      "name": "Spinning",
-      "url": "https://open.spotify.com/track/336VLQGsf6tdMpTYW1z7Mb"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "M\u00f6rdare",
         "url": "https://open.spotify.com/album/1K4iKMXv7ZQbKyeloEqeZW"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 169565,
       "name": "M\u00f6rdare",
       "url": "https://open.spotify.com/track/5QQjRDmhxjCMZC7VtqTTag"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Watching Strangers Smile",
+        "url": "https://open.spotify.com/album/0zpSsEuwv5VbuiyuvfpjmZ"
+      },
+      "artists": [
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        }
+      ],
+      "duration_ms": 148900,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/336VLQGsf6tdMpTYW1z7Mb"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "forget me",
-        "url": "https://open.spotify.com/album/54Vx2zv8ukijrui8BCWh3i"
-      },
-      "artists": [
-        {
-          "name": "Orion Sisters",
-          "url": "https://open.spotify.com/artist/1FjsO3rN6iI9liiSXMVb7u"
-        }
-      ],
-      "duration_ms": 175704,
-      "name": "forget me",
-      "url": "https://open.spotify.com/track/6K3HbXrmO6WIv0uRZe5SfS"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "2 MARTINIS ON THE GO",
         "url": "https://open.spotify.com/album/0Bi4rmdRjCNYPQ85hHeRdG"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 109112,
       "name": "2 MARTINIS ON THE GO",
       "url": "https://open.spotify.com/track/39ErQKxX5vWCjzIQvAtTZM"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "forget me",
+        "url": "https://open.spotify.com/album/54Vx2zv8ukijrui8BCWh3i"
+      },
+      "artists": [
+        {
+          "name": "Orion Sisters",
+          "url": "https://open.spotify.com/artist/1FjsO3rN6iI9liiSXMVb7u"
+        }
+      ],
+      "duration_ms": 175704,
+      "name": "forget me",
+      "url": "https://open.spotify.com/track/6K3HbXrmO6WIv0uRZe5SfS"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "TIAMA l",
-        "url": "https://open.spotify.com/album/0NwiFSNyO7F8Hig1bIauxg"
+        "name": "YOUNG",
+        "url": "https://open.spotify.com/album/4T7DIdvs8FB3yObNPG6dY3"
       },
       "artists": [
         {
-          "name": "Duvchi",
-          "url": "https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc"
+          "name": "Izza Gara",
+          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
         }
       ],
-      "duration_ms": 173045,
-      "name": "If You (Papapa)",
-      "url": "https://open.spotify.com/track/19NCANVZm5Me4PBhP9weUh"
+      "duration_ms": 148044,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/0KYiuNWDyw9G08164XTCdS"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "YOUNG",
-        "url": "https://open.spotify.com/album/4T7DIdvs8FB3yObNPG6dY3"
+        "name": "TIAMA l",
+        "url": "https://open.spotify.com/album/0NwiFSNyO7F8Hig1bIauxg"
       },
       "artists": [
         {
-          "name": "Izza Gara",
-          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
+          "name": "Duvchi",
+          "url": "https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc"
         }
       ],
-      "duration_ms": 148044,
-      "name": "Young",
-      "url": "https://open.spotify.com/track/0KYiuNWDyw9G08164XTCdS"
+      "duration_ms": 173045,
+      "name": "If You (Papapa)",
+      "url": "https://open.spotify.com/track/19NCANVZm5Me4PBhP9weUh"
     },
     {
       "added_at": "2023-11-29 12:17:00",

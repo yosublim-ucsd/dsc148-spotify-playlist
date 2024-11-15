@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 22079,
+  "num_followers": 22084,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy3IHAAAAADkR9cPD/QQb7FPUoAhY0g3",
+  "snapshot_id": "Zy3IHAAAAACgfdDh27Eefr6nHmlgR+O1",
   "tracks": [
     {
       "added_at": "2024-11-08 08:13:16",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-11-08 08:13:16",
       "album": {
-        "name": "Owe To You - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/06IwA9kDQ5U0VrKJ7xn372"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "Owe To You - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3CkJ5kQNtNlgiQMhIqWufA"
-    },
-    {
-      "added_at": "2024-11-08 08:13:16",
-      "album": {
         "name": "Take Your Time (feat. 6LACK)",
         "url": "https://open.spotify.com/album/2wLeTuNrfg5OVQ5OLbghX6"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 235461,
       "name": "Take Your Time (feat. 6LACK)",
       "url": "https://open.spotify.com/track/36zutQQkUnFPbLYIcVxJi8"
+    },
+    {
+      "added_at": "2024-11-08 08:13:16",
+      "album": {
+        "name": "Owe To You - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/06IwA9kDQ5U0VrKJ7xn372"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "Owe To You - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3CkJ5kQNtNlgiQMhIqWufA"
     },
     {
       "added_at": "2024-11-08 08:13:16",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2024-11-08 08:13:16",
       "album": {
+        "name": "Can't Save You (feat. Roy Woods)",
+        "url": "https://open.spotify.com/album/0cFBvQZXXthbjQb93WRumJ"
+      },
+      "artists": [
+        {
+          "name": "Dimi",
+          "url": "https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY"
+        },
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "duration_ms": 195750,
+      "name": "Can't Save You (feat. Roy Woods)",
+      "url": "https://open.spotify.com/track/0N3IlFOcL5vlwrV63wct3b"
+    },
+    {
+      "added_at": "2024-11-08 08:13:16",
+      "album": {
         "name": "Ah Well",
         "url": "https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho"
       },
@@ -1123,26 +1143,6 @@
     {
       "added_at": "2024-11-08 08:13:16",
       "album": {
-        "name": "Can't Save You (feat. Roy Woods)",
-        "url": "https://open.spotify.com/album/0cFBvQZXXthbjQb93WRumJ"
-      },
-      "artists": [
-        {
-          "name": "Dimi",
-          "url": "https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY"
-        },
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 195750,
-      "name": "Can't Save You (feat. Roy Woods)",
-      "url": "https://open.spotify.com/track/0N3IlFOcL5vlwrV63wct3b"
-    },
-    {
-      "added_at": "2024-11-08 08:13:16",
-      "album": {
         "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
       },
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-11-08 08:13:16",
       "album": {
-        "name": "Female Intuition",
-        "url": "https://open.spotify.com/album/7wpaCoJbebCK3FeSySNgpE"
+        "name": "X",
+        "url": "https://open.spotify.com/album/2IuH6EgGRGkFNmEmaLMdrt"
       },
       "artists": [
         {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
         }
       ],
-      "duration_ms": 134457,
-      "name": "Female Intuition",
-      "url": "https://open.spotify.com/track/3irbvUcejyhvW0Zg4wqz9R"
+      "duration_ms": 93099,
+      "name": "X",
+      "url": "https://open.spotify.com/track/4evzUQNNDpgP8mnlV2OVkf"
     },
     {
       "added_at": "2024-11-08 08:13:16",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2024-11-08 08:13:16",
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/2IuH6EgGRGkFNmEmaLMdrt"
+        "name": "Female Intuition",
+        "url": "https://open.spotify.com/album/7wpaCoJbebCK3FeSySNgpE"
       },
       "artists": [
         {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
         }
       ],
-      "duration_ms": 93099,
-      "name": "X",
-      "url": "https://open.spotify.com/track/4evzUQNNDpgP8mnlV2OVkf"
+      "duration_ms": 134457,
+      "name": "Female Intuition",
+      "url": "https://open.spotify.com/track/3irbvUcejyhvW0Zg4wqz9R"
     },
     {
       "added_at": "2024-11-08 08:13:16",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-11-08 08:13:16",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/0h4bfuIZCi5NyQSyTfQjif"
-      },
-      "artists": [
-        {
-          "name": "Taner\u00e9lle",
-          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
-        }
-      ],
-      "duration_ms": 154729,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/0XU9CVVZm0q6DEY9kbCY6C"
-    },
-    {
-      "added_at": "2024-11-08 08:13:16",
-      "album": {
         "name": "Home - A COLORS SHOW",
         "url": "https://open.spotify.com/album/5ckAHp1ePv5NQvC6dN7hPo"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 144413,
       "name": "Home",
       "url": "https://open.spotify.com/track/37DkD7AlTuPQIh97hO8hVI"
+    },
+    {
+      "added_at": "2024-11-08 08:13:16",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/0h4bfuIZCi5NyQSyTfQjif"
+      },
+      "artists": [
+        {
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        }
+      ],
+      "duration_ms": 154729,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0XU9CVVZm0q6DEY9kbCY6C"
     },
     {
       "added_at": "2024-11-08 08:13:16",
@@ -1455,22 +1455,22 @@
     {
       "added_at": "2024-11-08 08:13:16",
       "album": {
-        "name": "Abeke",
-        "url": "https://open.spotify.com/album/1ixs4iAmZOhqTu6ZK3VrFv"
+        "name": "RECKLESS",
+        "url": "https://open.spotify.com/album/4zGdm3XwogvJ62gxsSeM77"
       },
       "artists": [
         {
-          "name": "Godwin",
-          "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
+          "name": "Noni",
+          "url": "https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti"
         },
         {
-          "name": "KITSCHKRIEG",
-          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+          "name": "Rai Anvio",
+          "url": "https://open.spotify.com/artist/6y4WbKZooQzBGNHGDsEG0u"
         }
       ],
-      "duration_ms": 247880,
-      "name": "Abeke",
-      "url": "https://open.spotify.com/track/1rOcCMymtbyZBsbO6ADHtg"
+      "duration_ms": 236000,
+      "name": "RECKLESS",
+      "url": "https://open.spotify.com/track/2aKOHXO2JQG9m7BImL7b0e"
     }
   ],
   "unique_name": "Cocoa Butter ",

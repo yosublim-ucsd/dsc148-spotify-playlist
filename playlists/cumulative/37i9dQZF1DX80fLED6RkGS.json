@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: Exray Taniua",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: Trio Mio ",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -750,7 +750,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 192052,
       "name": "Bazuu",
       "url": "https://open.spotify.com/track/7oi7yLkEGOdAJp6jIN5h8G"
@@ -1678,6 +1678,28 @@
       "duration_ms": 135972,
       "name": "Cocoa Butter",
       "url": "https://open.spotify.com/track/0RorhnHkgmBKkam8tMkc2M"
+    },
+    {
+      "album": {
+        "name": "Come",
+        "url": "https://open.spotify.com/album/6PhdAwzcPxoAEUJyPpFgU9"
+      },
+      "artists": [
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        },
+        {
+          "name": "Martha Mukisa",
+          "url": "https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154096,
+      "name": "Come",
+      "url": "https://open.spotify.com/track/41ozj4FQtPzMYVaHJIqunU"
     },
     {
       "album": {
@@ -3124,7 +3146,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 237614,
       "name": "JIBAMBEZ",
       "url": "https://open.spotify.com/track/3h0E0CYbU0vCN4pR6i5ntC"
@@ -3334,7 +3356,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 196129,
       "name": "Kanashikia Wapi",
       "url": "https://open.spotify.com/track/2zBh5l14db5LdrB5mxNVSp"
@@ -4387,6 +4409,24 @@
     },
     {
       "album": {
+        "name": "Light Work",
+        "url": "https://open.spotify.com/album/3Q48DNaScAEhM5gPMAZY1S"
+      },
+      "artists": [
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142769,
+      "name": "Light Work",
+      "url": "https://open.spotify.com/track/5QaoPiwHPuoXiFMPc4imMN"
+    },
+    {
+      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/5HSnQUDLG6vxwHQeAGQsnl"
       },
@@ -5124,6 +5164,32 @@
       "duration_ms": 213991,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL"
+    },
+    {
+      "album": {
+        "name": "Moss Moss",
+        "url": "https://open.spotify.com/album/2CUYQN4HSG1GY9YTdOvYeE"
+      },
+      "artists": [
+        {
+          "name": "Iphoolish",
+          "url": "https://open.spotify.com/artist/4vgL7NjTcEXAmObSdo5nmp"
+        },
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "NDOVU KUU",
+          "url": "https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223076,
+      "name": "Moss Moss",
+      "url": "https://open.spotify.com/track/5t6Tg34RBPWt8WaOSMqZur"
     },
     {
       "album": {
@@ -8269,6 +8335,32 @@
     },
     {
       "album": {
+        "name": "To Whom It May Concern",
+        "url": "https://open.spotify.com/album/3YK5jddQvLHV3tii5y1PtQ"
+      },
+      "artists": [
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        },
+        {
+          "name": "Kingpheezle",
+          "url": "https://open.spotify.com/artist/1sgjYTcJndjhZuh24qI8Ma"
+        },
+        {
+          "name": "Scar Mkadinali",
+          "url": "https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176283,
+      "name": "To Whom It May Concern",
+      "url": "https://open.spotify.com/track/1lSRpXLOCKddD3BLo830MZ"
+    },
+    {
+      "album": {
         "name": "Token",
         "url": "https://open.spotify.com/album/2wzTbfTBbyBrrwjgR92fS5"
       },
@@ -9258,7 +9350,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 171047,
       "name": "Yout Mkora",
       "url": "https://open.spotify.com/track/6TvJ7Rmloh0wpO1xpHrnrx"

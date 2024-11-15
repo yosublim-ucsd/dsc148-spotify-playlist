@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste talentuose artiste italiane! Cover: Fiorella Mannoia
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,677 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,681 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 49 | [Bagno](https://open.spotify.com/track/7caqKefrNovYPMx1HRru1R) | [Tutto Piange](https://open.spotify.com/artist/6DT43WnFjH7srsE8BplDcP) | [Bagno](https://open.spotify.com/album/5MGgflTk9CBbSHHYhUqsor) | 4:36 |
 | 50 | [Tancagioia](https://open.spotify.com/track/6CbIQG1c0w4YL6cq3lA1Ye) | [Möly](https://open.spotify.com/artist/4GBjWACIYE3kPxTLNkBiPo) | [Tancagioia](https://open.spotify.com/album/13rtsbm8OGRuHuJLzLPd7Z) | 3:30 |
 
-Snapshot ID: `ZyqjrAAAAAD4ZDaVeIyU/nAXhFvkAI7i`
+Snapshot ID: `ZyqjrAAAAAD41Br8YdC64IM7KxbAfbf9`

@@ -13038,7 +13038,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 184032,
       "name": "Close To Me",
       "url": "https://open.spotify.com/track/3Cnm6nlYa1lbkPbkEsIYlu"
@@ -21878,7 +21878,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 151000,
       "name": "Falling",
       "url": "https://open.spotify.com/track/2C9xZh47Bq79SvmmNpwTSJ"
@@ -28294,7 +28294,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 224798,
       "name": "Grow",
       "url": "https://open.spotify.com/track/00nkZnm3K2nw8ZZ1GHEE9M"
@@ -33754,6 +33754,24 @@
       "duration_ms": 150983,
       "name": "If Pretty Was A Contest",
       "url": "https://open.spotify.com/track/2EG7MWiRGL3zLjV7Axg9vM"
+    },
+    {
+      "album": {
+        "name": "If We Try",
+        "url": "https://open.spotify.com/album/3tJYT4FVXlc38BBExGXSLI"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e9ment Bindzi",
+          "url": "https://open.spotify.com/artist/4r4yiJl5T8xG80tFnUGIxv"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147477,
+      "name": "If We Try",
+      "url": "https://open.spotify.com/track/1jrJHev4XBkiWrVZgJZsBX"
     },
     {
       "album": {
@@ -50628,7 +50646,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 216756,
       "name": "One Day",
       "url": "https://open.spotify.com/track/0ESTI5KsnlsXcCNVCa4Tuq"
@@ -53355,6 +53373,24 @@
     },
     {
       "album": {
+        "name": "Fabrics",
+        "url": "https://open.spotify.com/album/7buSjpIxgQ1zNvWtVdFoJ5"
+      },
+      "artists": [
+        {
+          "name": "Avry",
+          "url": "https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165110,
+      "name": "Pick My Pockets",
+      "url": "https://open.spotify.com/track/4m8GEreu4bGUsUBJOcAiGD"
+    },
+    {
+      "album": {
         "name": "Heaux Tales",
         "url": "https://open.spotify.com/album/1btIckWsQDd7fAx0BBZF0n"
       },
@@ -54730,6 +54766,24 @@
       "duration_ms": 171092,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
+    },
+    {
+      "album": {
+        "name": "HABITUAL",
+        "url": "https://open.spotify.com/album/3QHvckwzHrVGYDSBIiA4Ea"
+      },
+      "artists": [
+        {
+          "name": "Phantom Sugar",
+          "url": "https://open.spotify.com/artist/4r75bJsAkat7raE5mplgKR"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121630,
+      "name": "PUNCH DRUNK",
+      "url": "https://open.spotify.com/track/4qvwKZZDO2FKjxvY0ggokJ"
     },
     {
       "album": {
@@ -60598,7 +60652,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 252925,
       "name": "Sin ti",
       "url": "https://open.spotify.com/track/0bU1vcFRJRzMSvRW5ye3Gc"

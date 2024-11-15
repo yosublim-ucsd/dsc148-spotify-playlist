@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: ASTRO\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,083 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,084 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [GHORBA](https://open.spotify.com/track/6bIPcudk3VzLyYyMC0xY0k) | [DJIZA](https://open.spotify.com/artist/21wg9OKxtB2sZVuhBaEwCk) | [Solo](https://open.spotify.com/album/6ZDxReuxHMGratcdTG2iPN) | 2:29 |
 | 50 | [El Beit \- البيت](https://open.spotify.com/track/0qLQsLK8HRChdTdCvO8tRn) | [Hadi Birajakli](https://open.spotify.com/artist/6KsP0EBpYgQ4hlex3c1Zmm) | [El Beit \- البيت](https://open.spotify.com/album/0UmUPQJ69Tk0wKWTMNnTaU) | 2:52 |
 
-Snapshot ID: `ZyssLgAAAAD+tKXgvl6lvLe+CCs04xAL`
+Snapshot ID: `ZyssLgAAAABI+pmPOsgbuoledZbifkjy`

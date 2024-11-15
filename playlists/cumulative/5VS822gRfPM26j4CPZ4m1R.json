@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "A Little Love",
+        "url": "https://open.spotify.com/album/1v1VAU5U5R77LeZJKmL8vp"
+      },
+      "artists": [
+        {
+          "name": "Shakuhachi on the Minipops",
+          "url": "https://open.spotify.com/artist/4AWrTzW7zfCFWRCPg9FJsJ"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199266,
+      "name": "A Little Love",
+      "url": "https://open.spotify.com/track/0j1OdOdqFlKZemZSTpexvz"
+    },
+    {
+      "album": {
         "name": "Reprise Vol. 1",
         "url": "https://open.spotify.com/album/2cQwGuRwSG5XBP9OTXhSYt"
       },
@@ -352,6 +370,24 @@
       "duration_ms": 229767,
       "name": "Always on Time",
       "url": "https://open.spotify.com/track/0xGAzPx7FP5LokR9KRjcPB"
+    },
+    {
+      "album": {
+        "name": "Caper",
+        "url": "https://open.spotify.com/album/6ZNqwyJkgq7af0nvWNNTsz"
+      },
+      "artists": [
+        {
+          "name": "Joe Ghatt",
+          "url": "https://open.spotify.com/artist/2YiwZQDl2NHiYXTggmtDZ3"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292452,
+      "name": "Always Remember",
+      "url": "https://open.spotify.com/track/1ExYYvPf8qmUxtAg5dO196"
     },
     {
       "album": {
@@ -1645,6 +1681,24 @@
     },
     {
       "album": {
+        "name": "Play What's Not There",
+        "url": "https://open.spotify.com/album/3IYUez6K996YNQruiyV5zI"
+      },
+      "artists": [
+        {
+          "name": "PWNT",
+          "url": "https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233272,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/1S0daLd7anlC2gKrxhu6dq"
+    },
+    {
+      "album": {
         "name": "Colleen",
         "url": "https://open.spotify.com/album/7E2W8E6zrSEmtKJcMWEyvX"
       },
@@ -1858,7 +1912,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 213059,
       "name": "Crystal Lake (GooGooGaga)",
       "url": "https://open.spotify.com/track/0dGHmcSGn7dJcPcTV8LHvs"
@@ -2166,6 +2220,24 @@
       "duration_ms": 245131,
       "name": "Disorder",
       "url": "https://open.spotify.com/track/6PHd6lj7ILzzUzQz1NgCTy"
+    },
+    {
+      "album": {
+        "name": "Everything Must Change",
+        "url": "https://open.spotify.com/album/7JrbVR92TUZZAe1b7PlYay"
+      },
+      "artists": [
+        {
+          "name": "Mild Universe",
+          "url": "https://open.spotify.com/artist/5yoKxCrbs3rGiUMUuPcknJ"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249761,
+      "name": "Divine Energy",
+      "url": "https://open.spotify.com/track/5Z7KxFM4Rh9G30pT7p6PRs"
     },
     {
       "album": {
@@ -5495,6 +5567,24 @@
     },
     {
       "album": {
+        "name": "Reasonings",
+        "url": "https://open.spotify.com/album/4KmHuc0BNk5nMlZVMaL1c4"
+      },
+      "artists": [
+        {
+          "name": "Blue Material",
+          "url": "https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194246,
+      "name": "Meadows",
+      "url": "https://open.spotify.com/track/7nDR1d156re6DK9C3uP0bk"
+    },
+    {
+      "album": {
         "name": "So Sweet So Nice",
         "url": "https://open.spotify.com/album/15mLrCaxxDCyMrMfdr8sRy"
       },
@@ -6033,6 +6123,42 @@
     },
     {
       "album": {
+        "name": "No Rush",
+        "url": "https://open.spotify.com/album/4mWyF0S5n3m6lHKLLQ5x11"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264454,
+      "name": "No Rush",
+      "url": "https://open.spotify.com/track/2LtiO0h0TzdN74yXNjDgZj"
+    },
+    {
+      "album": {
+        "name": "Nobody's Perfect",
+        "url": "https://open.spotify.com/album/3I9FpnzIRxnktCGwDdKeZK"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160754,
+      "name": "Nobody's Perfect",
+      "url": "https://open.spotify.com/track/53SirzTK2fEruERQoZ8egL"
+    },
+    {
+      "album": {
         "name": "Aperana",
         "url": "https://open.spotify.com/album/13jmABcP5MQyMDd9TIGjfZ"
       },
@@ -6048,6 +6174,24 @@
       "duration_ms": 143061,
       "name": "Nublado",
       "url": "https://open.spotify.com/track/4H6Nq1nMoqPpjoH2eKEJfo"
+    },
+    {
+      "album": {
+        "name": "Reasonings",
+        "url": "https://open.spotify.com/album/4KmHuc0BNk5nMlZVMaL1c4"
+      },
+      "artists": [
+        {
+          "name": "Blue Material",
+          "url": "https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231220,
+      "name": "NWO",
+      "url": "https://open.spotify.com/track/3KfiI3V6V1RAkrPThLFEj0"
     },
     {
       "album": {
@@ -6326,6 +6470,24 @@
       "duration_ms": 211090,
       "name": "Pacific",
       "url": "https://open.spotify.com/track/1uUveXLcTNyQSDbyo47RBm"
+    },
+    {
+      "album": {
+        "name": "Caper",
+        "url": "https://open.spotify.com/album/6ZNqwyJkgq7af0nvWNNTsz"
+      },
+      "artists": [
+        {
+          "name": "Joe Ghatt",
+          "url": "https://open.spotify.com/artist/2YiwZQDl2NHiYXTggmtDZ3"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220504,
+      "name": "Pale Blue Dot",
+      "url": "https://open.spotify.com/track/7bLIf5jLgRYJLgdI1v1Cok"
     },
     {
       "album": {
@@ -6835,6 +6997,24 @@
     },
     {
       "album": {
+        "name": "Reasonings",
+        "url": "https://open.spotify.com/album/4KmHuc0BNk5nMlZVMaL1c4"
+      },
+      "artists": [
+        {
+          "name": "Blue Material",
+          "url": "https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168507,
+      "name": "Reasonings",
+      "url": "https://open.spotify.com/track/4PbWIgXxmTXyQrI3LdBOEi"
+    },
+    {
+      "album": {
         "name": "Sue\u00f1os Que Sobran",
         "url": "https://open.spotify.com/album/6nZbtlkiDmpxWxVNpyNMgz"
       },
@@ -7100,6 +7280,24 @@
       "duration_ms": 155961,
       "name": "Running for Mayor",
       "url": "https://open.spotify.com/track/21R8zR40xWUBEcKIlJsAiH"
+    },
+    {
+      "album": {
+        "name": "Ruri Ru",
+        "url": "https://open.spotify.com/album/3ZEmV18AILKIwKQ3JkVjTK"
+      },
+      "artists": [
+        {
+          "name": "Shakuhachi on the Minipops",
+          "url": "https://open.spotify.com/artist/4AWrTzW7zfCFWRCPg9FJsJ"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218255,
+      "name": "Ruri Ru",
+      "url": "https://open.spotify.com/track/04bOpDFJQ6vKQW8jrgoWzu"
     },
     {
       "album": {
@@ -8331,6 +8529,24 @@
     },
     {
       "album": {
+        "name": "Reasonings",
+        "url": "https://open.spotify.com/album/4KmHuc0BNk5nMlZVMaL1c4"
+      },
+      "artists": [
+        {
+          "name": "Blue Material",
+          "url": "https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222876,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/0L38Ai6MDjMkI21CwsgOEz"
+    },
+    {
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/3ej7W2e6VBty9PGjowpPB1"
       },
@@ -8556,6 +8772,24 @@
       "duration_ms": 184897,
       "name": "Television Sets",
       "url": "https://open.spotify.com/track/5ijfrUpvuif7sOeVqI0w0Z"
+    },
+    {
+      "album": {
+        "name": "Tell Me How",
+        "url": "https://open.spotify.com/album/6eyqtiXZ28uTVsIwAcmZnv"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197389,
+      "name": "Tell Me How",
+      "url": "https://open.spotify.com/track/01CMi6BTasSxDv2sSDqv6q"
     },
     {
       "album": {
@@ -8866,6 +9100,24 @@
       "duration_ms": 210266,
       "name": "Things will be fine",
       "url": "https://open.spotify.com/track/5fDVGTBnAnB8K0Kcn3Lmf6"
+    },
+    {
+      "album": {
+        "name": "Reasonings",
+        "url": "https://open.spotify.com/album/4KmHuc0BNk5nMlZVMaL1c4"
+      },
+      "artists": [
+        {
+          "name": "Blue Material",
+          "url": "https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188589,
+      "name": "This World Can Wait",
+      "url": "https://open.spotify.com/track/0yFCbNI02sCBbSSr5O7mer"
     },
     {
       "album": {
@@ -9400,6 +9652,24 @@
       "duration_ms": 196911,
       "name": "Voodoo on Gold",
       "url": "https://open.spotify.com/track/1yLRz16NS8aWKH3ybbToRE"
+    },
+    {
+      "album": {
+        "name": "Waiting by the Phone",
+        "url": "https://open.spotify.com/album/0ij3iTBmB231VrgLP8tnMZ"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134765,
+      "name": "Waiting by the Phone",
+      "url": "https://open.spotify.com/track/166qPsm4hCjDRzuhNUacjZ"
     },
     {
       "album": {

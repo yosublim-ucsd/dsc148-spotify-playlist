@@ -1,12 +1,12 @@
 {
   "description": "John Otto, take 'em to the Matthews Bridge!",
-  "num_followers": 1950392,
+  "num_followers": 1950896,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqPQGwAAAAAPPePpw3O0BFEm9vwrtx54",
+  "snapshot_id": "ZqPQGwAAAABB3Xwssf5ccnG/e+3vr7cM",
   "tracks": [
     {
       "added_at": "2024-07-26 16:34:35",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-07-26 16:34:35",
       "album": {
-        "name": "The Height of Callousness",
-        "url": "https://open.spotify.com/album/5EdPM4V1kWFrFPniEvS5LL"
-      },
-      "artists": [
-        {
-          "name": "Spineshank",
-          "url": "https://open.spotify.com/artist/6fmbbxNvgHkglIakp1Wrv4"
-        }
-      ],
-      "duration_ms": 194733,
-      "name": "New Disease",
-      "url": "https://open.spotify.com/track/5xqi4X6J5PHwndSJc7YLYH"
-    },
-    {
-      "added_at": "2024-07-26 16:34:35",
-      "album": {
         "name": "Get Some",
         "url": "https://open.spotify.com/album/73HoiOlintxrZhZHV9zSda"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 232426,
       "name": "Stoopid",
       "url": "https://open.spotify.com/track/3lvMZTPh9snQKo4OiP13CU"
+    },
+    {
+      "added_at": "2024-07-26 16:34:35",
+      "album": {
+        "name": "The Height of Callousness",
+        "url": "https://open.spotify.com/album/5EdPM4V1kWFrFPniEvS5LL"
+      },
+      "artists": [
+        {
+          "name": "Spineshank",
+          "url": "https://open.spotify.com/artist/6fmbbxNvgHkglIakp1Wrv4"
+        }
+      ],
+      "duration_ms": 194733,
+      "name": "New Disease",
+      "url": "https://open.spotify.com/track/5xqi4X6J5PHwndSJc7YLYH"
     },
     {
       "added_at": "2024-07-26 16:34:35",

@@ -1389,6 +1389,32 @@
     },
     {
       "album": {
+        "name": "\u0421\u043f\u0430\u043b\u044c\u043d\u0438\u0439",
+        "url": "https://open.spotify.com/album/3uNnCjavL1xVjW7Vy1o6gP"
+      },
+      "artists": [
+        {
+          "name": "KRBK",
+          "url": "https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE"
+        },
+        {
+          "name": "dim.slavyanin",
+          "url": "https://open.spotify.com/artist/0AfLEABICJVRqs0NYXgKck"
+        },
+        {
+          "name": "\u0410\u0440\u0425\u0430\u043d\u0433\u0435\u043b",
+          "url": "https://open.spotify.com/artist/7Lkrx8ZHssF4eRu7lSHJxJ"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154497,
+      "name": "\u0421\u043f\u0430\u043b\u044c\u043d\u0438\u0439",
+      "url": "https://open.spotify.com/track/4N1rVhNEDZgojA0FJo2fLw"
+    },
+    {
+      "album": {
         "name": "\u0421\u043f\u043e\u043a\u0456\u0439\u043d\u043e",
         "url": "https://open.spotify.com/album/78vCVFOdr8Nf3tLyhvGoB4"
       },
@@ -1614,7 +1640,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 118762,
       "name": "\u0427\u0435\u043a\u0430\u044e \u043d\u0430 \u043d\u0456\u0447",
       "url": "https://open.spotify.com/track/6uwvm0ZMHCMVxE9XPU6UA5"

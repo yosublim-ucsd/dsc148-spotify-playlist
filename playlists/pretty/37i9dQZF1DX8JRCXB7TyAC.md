@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,153 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,169 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [Choudhar](https://open.spotify.com/track/4A6ZZI5c6u598KGM5OL1RK) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2) | [Choudhar](https://open.spotify.com/album/0oyh3wxqoJTTsdv7CLLr4C) | 2:53 |
 | 50 | [Street Fighter](https://open.spotify.com/track/6ezpV5Ed5K3pxbgSp0aNti) | [Parv Dahiya](https://open.spotify.com/artist/7kMapJs8YANqYWoc9VqZQ2), [Tarun Haritas](https://open.spotify.com/artist/2nYjdyBBeLWFuKaqfUWStD) | [Street Fighter](https://open.spotify.com/album/6w1kw9aXKpC3tJri75Nxyp) | 2:35 |
 
-Snapshot ID: `Zxi/9QAAAAD3jquQ5S61WqAgVjOQef9s`
+Snapshot ID: `Zxi/9QAAAABwC+TjGOWZ2+JF5Tj4qWEt`

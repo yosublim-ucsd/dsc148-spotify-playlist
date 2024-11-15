@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech that was born in South Africa, as it travels the world's dancefloors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,862 likes - 51 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,875 likes - 51 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 50 | [Thula](https://open.spotify.com/track/2oGJRoKav60Mddy3c6RKZG) | [Blanka Mazimela](https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C), [Khonaye](https://open.spotify.com/artist/05QAPP670eYB6veuT6aSzO) | [Thula EP](https://open.spotify.com/album/2QyWyvrhEVnBaLG4loqEi1) | 7:21 |
 | 51 | [T.R.O.A](https://open.spotify.com/track/1iaF44Uh61Non8nnHxDphC) | [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [The Republic of Atmofrika](https://open.spotify.com/album/6Yv3Pc9Wq9muZCdi9aRHHh) | 6:52 |
 
-Snapshot ID: `Zy2eZQAAAAALVdKKF1nSmi0tLRRFPEcB`
+Snapshot ID: `Zy2eZQAAAAAIFPyK4J8wa4jdmBE9R+ys`

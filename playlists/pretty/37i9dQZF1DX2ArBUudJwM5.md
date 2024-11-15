@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen, con La Valenti en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,463 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,462 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 7 | [V13](https://open.spotify.com/track/5oKKNT5mBFvCx068uXCKwn) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX) | [V13](https://open.spotify.com/album/3nVZrraklAxaq0VlJSdmLZ) | 2:55 |
 | 8 | [Kerosene](https://open.spotify.com/track/5mDbbvhvaf8ObKttnHXn0s) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [Kerosene](https://open.spotify.com/album/5TMl7Qr7UBoBAFqbiH39zG) | 3:05 |
 | 9 | [ME FUI DE LA FIESTA](https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [ME FUI DE LA FIESTA](https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN) | 2:38 |
-| 10 | [Breaking Bad](https://open.spotify.com/track/51lUwiop70vQfBtif5sFsW) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 1:51 |
-| 11 | [Pensamientos intrusivos](https://open.spotify.com/track/00fA8U2HVDVBHgpfoCXdmE) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [La Fuerza](https://open.spotify.com/album/6Z9DBFIWEnKxGyx0Vgs4ee) | 4:17 |
+| 10 | [Pensamientos intrusivos](https://open.spotify.com/track/00fA8U2HVDVBHgpfoCXdmE) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [La Fuerza](https://open.spotify.com/album/6Z9DBFIWEnKxGyx0Vgs4ee) | 4:17 |
+| 11 | [Breaking Bad](https://open.spotify.com/track/51lUwiop70vQfBtif5sFsW) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 1:51 |
 | 12 | [Panamericana](https://open.spotify.com/track/58rDV9zGkwcuHd0BZLIKc6) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Todo vuelve al punto de partida](https://open.spotify.com/album/4hVgE3zYsNG70rMTcQ0vyW) | 3:15 |
-| 13 | [Es Hora](https://open.spotify.com/track/7aCZBkMatjmECHHuoVS3KE) | [Luciana Tagliapietra](https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk) | [Sean Felices](https://open.spotify.com/album/0D9mV5BEMT3UfDy1jottO6) | 3:21 |
-| 14 | [los ausentes](https://open.spotify.com/track/5JgHXc7awzk6q5WoYUjSJj) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [los ausentes](https://open.spotify.com/album/1EtqdQBg0c3m1iVJNctVF9) | 2:59 |
+| 13 | [los ausentes](https://open.spotify.com/track/5JgHXc7awzk6q5WoYUjSJj) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [los ausentes](https://open.spotify.com/album/1EtqdQBg0c3m1iVJNctVF9) | 2:59 |
+| 14 | [Es Hora](https://open.spotify.com/track/7aCZBkMatjmECHHuoVS3KE) | [Luciana Tagliapietra](https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk) | [Sean Felices](https://open.spotify.com/album/0D9mV5BEMT3UfDy1jottO6) | 3:21 |
 | 15 | [No Te Olvidaras De Mi](https://open.spotify.com/track/6HsaOUdhk1j8Na70BI4Iyh) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [No Te Olvidarás de Mí](https://open.spotify.com/album/1tXtQSNP3Pxa4uzFnyvHrr) | 2:40 |
 | 16 | [Pedazo de Cielo](https://open.spotify.com/track/4XnRvw9vNKN9tGolXFDZrR) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 3:29 |
 | 17 | [Tu bebotear](https://open.spotify.com/track/3jEDXtkqlgEUAW7V0Nsilp) | [Lola Parda](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [Dolores](https://open.spotify.com/album/0pA9AZv8Looc0TBrAc6tox) | 3:00 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 23 | [Buena Moza](https://open.spotify.com/track/5V6GFrJ7hKEyxik8yJgH6P) | [Júpiter en Casa](https://open.spotify.com/artist/2FtkAsOkCkHCUbUj0Us8Wd) | [Buena Moza](https://open.spotify.com/album/21rx7vRolwU9mNDPC1KRdH) | 2:10 |
 | 24 | [Lpm](https://open.spotify.com/track/5OtpeR63kiTwWHq8y1A0jJ) | [Babeblade](https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm) | [el cielo es un lugar hostil](https://open.spotify.com/album/7d0B1NueHTKNW7j5hvl80V) | 3:39 |
 | 25 | [En una](https://open.spotify.com/track/0riyx1sdujDzzDaHghveJN) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [OTRA MANERA](https://open.spotify.com/album/3EbAvw4gcs1kaZ0esTQDSo) | 3:39 |
-| 26 | [DOSMILUNO](https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd) | [cata carpena](https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx) | [LOS VIEJOS CON GUITA](https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso) | 4:04 |
-| 27 | [Hola Mami](https://open.spotify.com/track/1IqA39UMIRcP7iwHRijjrU) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq), [mailo](https://open.spotify.com/artist/4aWstdI7ruPKad46HEI98Q) | [Vladi](https://open.spotify.com/album/7fu4kjCZwX5r2ZheVRSiDQ) | 2:13 |
+| 26 | [Hola Mami](https://open.spotify.com/track/1IqA39UMIRcP7iwHRijjrU) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq), [mailo](https://open.spotify.com/artist/4aWstdI7ruPKad46HEI98Q) | [Vladi](https://open.spotify.com/album/7fu4kjCZwX5r2ZheVRSiDQ) | 2:13 |
+| 27 | [DOSMILUNO](https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd) | [cata carpena](https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx) | [LOS VIEJOS CON GUITA](https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso) | 4:04 |
 | 28 | [Hacia el Sur](https://open.spotify.com/track/7vYVOMJAUkbAAfCez5K1Ws) | [Rocio Igarzabal](https://open.spotify.com/artist/7HzX50l6Oi0gFLTkdHJcOZ), [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Hacia el Sur](https://open.spotify.com/album/3A4gTFvYE7MPNdfmoEvgx4) | 3:31 |
 | 29 | [Aforismos](https://open.spotify.com/track/1xlNttatz94ku8vVjH7OMS) | [Maria Codino](https://open.spotify.com/artist/7zuaGTLVm6z97wydRCyUdj), [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Tiene Que Haber Un Mapa](https://open.spotify.com/album/4Nurj8APmgekx15HgXOyYB) | 3:28 |
 | 30 | [Ahí voy](https://open.spotify.com/track/0VksMOX15AZxwOH75UVpNU) | [Micaela Basadoni](https://open.spotify.com/artist/387j8PTLEmNKehaqkFBlnU) | [Árboles](https://open.spotify.com/album/723CHSqVq5WP5MBgmKrtbA) | 2:42 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 40 | [Conocerte más](https://open.spotify.com/track/7eVXHsa36NHl28QSDgmYWP) | [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf) | [A veces está bien](https://open.spotify.com/album/4MleecvCYX58tOnuIb0nAR) | 2:50 |
 | 41 | [Volcán](https://open.spotify.com/track/2QkaRrAMx0akBN4gSMo7na) | [Esmeralda Escalante](https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC) | [Santa Basura \[1\]](https://open.spotify.com/album/5JD5doGcCXgJMZiIYdFTk9) | 3:56 |
 | 42 | [GUSTAS DE MÍ](https://open.spotify.com/track/5KEKdWpFrDCldRhQvL4aOR) | [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2) | [GUSTAS DE MÍ](https://open.spotify.com/album/0Hal3GsMFyELKC5Wiypu2I) | 3:01 |
-| 43 | [No Llores](https://open.spotify.com/track/01RLcajwLJM2uy5eyVZv5Y) | [La Maurette](https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI) | [ALTER EGO](https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG) | 2:58 |
-| 44 | [Soy un volcán](https://open.spotify.com/track/4V6olQFw9EAJtJbadBm2XG) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [Soy un volcán](https://open.spotify.com/album/7bPKFYp3OnYlIX6NdYsx9A) | 2:49 |
-| 45 | [Tu Piel](https://open.spotify.com/track/6vuoUjfpcqkExaprHJ5PMs) | [Agus Martino](https://open.spotify.com/artist/6CZLM4K9GGjboR7mZoqF70), [n.a.n.o](https://open.spotify.com/artist/7aVrFkKzVbDCQsKclkEYpm) | [Tu Piel](https://open.spotify.com/album/5mYUx5I3OYVgnse52gtBar) | 2:35 |
-| 46 | [OTRA VEZ](https://open.spotify.com/track/2txXEci8u7GYq4NfxveM82) | [Martuca](https://open.spotify.com/artist/5ie22c1WT4imB3IUfgbjEZ) | [CONTRADICTORIA](https://open.spotify.com/album/3lmOKuDHwREFVZV2cSNBYM) | 2:46 |
+| 43 | [Soy un volcán](https://open.spotify.com/track/4V6olQFw9EAJtJbadBm2XG) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [Soy un volcán](https://open.spotify.com/album/7bPKFYp3OnYlIX6NdYsx9A) | 2:49 |
+| 44 | [No Llores](https://open.spotify.com/track/01RLcajwLJM2uy5eyVZv5Y) | [La Maurette](https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI) | [ALTER EGO](https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG) | 2:58 |
+| 45 | [OTRA VEZ](https://open.spotify.com/track/2txXEci8u7GYq4NfxveM82) | [Martuca](https://open.spotify.com/artist/5ie22c1WT4imB3IUfgbjEZ) | [CONTRADICTORIA](https://open.spotify.com/album/3lmOKuDHwREFVZV2cSNBYM) | 2:46 |
+| 46 | [Tu Piel](https://open.spotify.com/track/6vuoUjfpcqkExaprHJ5PMs) | [Agus Martino](https://open.spotify.com/artist/6CZLM4K9GGjboR7mZoqF70), [n.a.n.o](https://open.spotify.com/artist/7aVrFkKzVbDCQsKclkEYpm) | [Tu Piel](https://open.spotify.com/album/5mYUx5I3OYVgnse52gtBar) | 2:35 |
 | 47 | [YA WEY](https://open.spotify.com/track/7pFpL34LA8ApmRSwGFNyPl) | [Lolita Fiamma](https://open.spotify.com/artist/0u8bWPzFscvQGljoHXUsDW), [Paz Faga](https://open.spotify.com/artist/5vG1tsUc4MtVWTgaUxf4W3) | [YA WEY](https://open.spotify.com/album/5L9gpF5XMzJGh79Fc3sJp5) | 4:11 |
 | 48 | [What is Art?](https://open.spotify.com/track/4BUU51Mnbm8J4Fsr51pfvk) | [Audia Valdez](https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg) | [What is Art?](https://open.spotify.com/album/3U1kz43G0YoKYsYA3xwpCX) | 3:55 |
 | 49 | [Mi Opening](https://open.spotify.com/track/71HdE42Cx5v3EivRmkiRtZ) | [Sofi Terán](https://open.spotify.com/artist/31KuvYNsxdSKqFyaIKfBDD), [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf) | [Ya me hicieron efecto los antidepresivos](https://open.spotify.com/album/3J5yvKmEjJ6yuXWmYWD0Uh) | 2:57 |
 | 50 | [Luna](https://open.spotify.com/track/0HVQprFOHF4AZ6iXhN9YLO) | [JUSTINA](https://open.spotify.com/artist/2hrHeIfHBeHjgIs5A7G5uc) | [Conmigo y Mi Soledad](https://open.spotify.com/album/6eaxU1d4gm31JTvoTY7MUG) | 3:39 |
 
-Snapshot ID: `ZywtMAAAAABycDvTGWE+HrYyVlmXFV7j`
+Snapshot ID: `ZywtMAAAAAD0vPkf68h6rQriderFLWoj`

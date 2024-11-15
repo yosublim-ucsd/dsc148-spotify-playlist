@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Mon Doux Saigneur
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,313 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,338 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [You can have it all](https://open.spotify.com/track/62ciFxmwDZB4O3ZHu9rTrq) | [Or Bleu](https://open.spotify.com/artist/1UZOfkZHdPNjus7591XY2G), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Beaucoup](https://open.spotify.com/album/5Lpgfnms4qU0uwtTDGBetH) | 2:37 |
 | 100 | [Invisible](https://open.spotify.com/track/5Oq7LoIwDH77lzOUtg1Z0z) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys) | [Invisible](https://open.spotify.com/album/7tj6xJzuw7GMlE7PIs1gxx) | 2:56 |
 
-Snapshot ID: `Zy2a0AAAAAD+ZH++dExnTKKCjnqOr/d4`
+Snapshot ID: `Zy2a0AAAAAB796bTdDQwsYsPLbmDJ0SX`

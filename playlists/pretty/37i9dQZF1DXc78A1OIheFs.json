@@ -1,12 +1,12 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Fat Freddy's Drop",
-  "num_followers": 18592,
+  "num_followers": 18594,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyydsAAAAABmdFhXSPQNywEJSZZe4gNu",
+  "snapshot_id": "ZyydsAAAAABxJiNfWH4YseV92CmvP69M",
   "tracks": [
     {
       "added_at": "2024-11-07 11:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "SENESCENCE",
-        "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "East Coast",
         "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 194933,
       "name": "East Coast",
       "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "SENESCENCE",
+        "url": "https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Catacombs",
-        "url": "https://open.spotify.com/album/3lbE1QpGyzIBCzVBBQqp1H"
-      },
-      "artists": [
-        {
-          "name": "South Summit",
-          "url": "https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1"
-        }
-      ],
-      "duration_ms": 175494,
-      "name": "Catacombs",
-      "url": "https://open.spotify.com/track/5vdEQtEFRwVQhTX2HIVg5k"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 156055,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Catacombs",
+        "url": "https://open.spotify.com/album/3lbE1QpGyzIBCzVBBQqp1H"
+      },
+      "artists": [
+        {
+          "name": "South Summit",
+          "url": "https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1"
+        }
+      ],
+      "duration_ms": 175494,
+      "name": "Catacombs",
+      "url": "https://open.spotify.com/track/5vdEQtEFRwVQhTX2HIVg5k"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "Everything Is Going To Be Alright",
+        "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
+      },
+      "artists": [
+        {
+          "name": "Princess Chelsea",
+          "url": "https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t"
+        }
+      ],
+      "duration_ms": 191812,
+      "name": "Forever Is A Charm",
+      "url": "https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "A Thousand Years",
         "url": "https://open.spotify.com/album/2HtUSVtR5RtYmFUrOEzVkv"
       },
@@ -755,18 +771,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Everything Is Going To Be Alright",
-        "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/4z6z440xRZYzZsQmmkMKWQ"
       },
       "artists": [
         {
-          "name": "Princess Chelsea",
-          "url": "https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t"
+          "name": "Jon Toogood",
+          "url": "https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8"
         }
       ],
-      "duration_ms": 191812,
-      "name": "Forever Is A Charm",
-      "url": "https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP"
+      "duration_ms": 214624,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/6gQmQi4GYJWN2Lxr4cArJ2"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -791,22 +807,6 @@
       "duration_ms": 160000,
       "name": "MELLOW CALM & CHILL",
       "url": "https://open.spotify.com/track/74AQtgxo3NLWoV9ukri8LU"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/4z6z440xRZYzZsQmmkMKWQ"
-      },
-      "artists": [
-        {
-          "name": "Jon Toogood",
-          "url": "https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8"
-        }
-      ],
-      "duration_ms": 214624,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/6gQmQi4GYJWN2Lxr4cArJ2"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Run It Back",
-        "url": "https://open.spotify.com/album/58XdVll8nynryYv4602rua"
-      },
-      "artists": [
-        {
-          "name": "Home Brew",
-          "url": "https://open.spotify.com/artist/6pAk8OZVCX1nMiYgtAauSH"
-        }
-      ],
-      "duration_ms": 233413,
-      "name": "Drinking In The Morning",
-      "url": "https://open.spotify.com/track/0HicFSg1HAgkDPTUKFA9nu"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "I Want More",
         "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 221000,
       "name": "It's You",
       "url": "https://open.spotify.com/track/4lTgTn4FTzk3IJWy7icNLL"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Run It Back",
+        "url": "https://open.spotify.com/album/58XdVll8nynryYv4602rua"
+      },
+      "artists": [
+        {
+          "name": "Home Brew",
+          "url": "https://open.spotify.com/artist/6pAk8OZVCX1nMiYgtAauSH"
+        }
+      ],
+      "duration_ms": 233413,
+      "name": "Drinking In The Morning",
+      "url": "https://open.spotify.com/track/0HicFSg1HAgkDPTUKFA9nu"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "TREES: The Remix EP",
-        "url": "https://open.spotify.com/album/6pyl3320masvP5uc2SvXgK"
-      },
-      "artists": [
-        {
-          "name": "Avantdale Bowling Club",
-          "url": "https://open.spotify.com/artist/5Cs7q4jgkzn0pmj34qncqw"
-        },
-        {
-          "name": "DUSTY & GHOS",
-          "url": "https://open.spotify.com/artist/45QADodjk5TcKefkz4SEww"
-        }
-      ],
-      "duration_ms": 174799,
-      "name": "GOLDTOPS",
-      "url": "https://open.spotify.com/track/7mXUVbJYlfYg6frK2icDCD"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Handyman.",
         "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
       },
@@ -1171,6 +1151,26 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "TREES: The Remix EP",
+        "url": "https://open.spotify.com/album/6pyl3320masvP5uc2SvXgK"
+      },
+      "artists": [
+        {
+          "name": "Avantdale Bowling Club",
+          "url": "https://open.spotify.com/artist/5Cs7q4jgkzn0pmj34qncqw"
+        },
+        {
+          "name": "DUSTY & GHOS",
+          "url": "https://open.spotify.com/artist/45QADodjk5TcKefkz4SEww"
+        }
+      ],
+      "duration_ms": 174799,
+      "name": "GOLDTOPS",
+      "url": "https://open.spotify.com/track/7mXUVbJYlfYg6frK2icDCD"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "Boys & Guitars",
         "url": "https://open.spotify.com/album/7z3zXiBIHkhGuEqvAi84vf"
       },
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "right now, forever",
-        "url": "https://open.spotify.com/album/0hxvUFor8krta7TpudUW1U"
-      },
-      "artists": [
-        {
-          "name": "Lucian Rice",
-          "url": "https://open.spotify.com/artist/2xxHXXg3zOxOsdb3cODhgs"
-        }
-      ],
-      "duration_ms": 204080,
-      "name": "FFS",
-      "url": "https://open.spotify.com/track/4bfWDJBebYt4IttaK1pk3m"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "RNZ\u014c SZN",
         "url": "https://open.spotify.com/album/588yZw8Jw8V6j50sXFXOpn"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 166250,
       "name": "RNZ\u014c SZN",
       "url": "https://open.spotify.com/track/4Ztf04FJYPyvpEvnlFVMLd"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "right now, forever",
+        "url": "https://open.spotify.com/album/0hxvUFor8krta7TpudUW1U"
+      },
+      "artists": [
+        {
+          "name": "Lucian Rice",
+          "url": "https://open.spotify.com/artist/2xxHXXg3zOxOsdb3cODhgs"
+        }
+      ],
+      "duration_ms": 204080,
+      "name": "FFS",
+      "url": "https://open.spotify.com/track/4bfWDJBebYt4IttaK1pk3m"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "YOYOTTA",
-        "url": "https://open.spotify.com/album/2UI9xc0QpD3SC2lQOLbaFp"
+        "name": "Mumma and Me",
+        "url": "https://open.spotify.com/album/23nYljb31SbYhVd2a3kUAl"
       },
       "artists": [
         {
-          "name": "Molly Payton",
-          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+          "name": "Mitch James",
+          "url": "https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le"
         }
       ],
-      "duration_ms": 216000,
-      "name": "You're On Your Own This Time, Again",
-      "url": "https://open.spotify.com/track/6refloGDPQzdncMkazz7ED"
+      "duration_ms": 212615,
+      "name": "Mumma and Me",
+      "url": "https://open.spotify.com/track/0iurM3sY0Su2R7XG2WHYDn"
     }
   ],
   "unique_name": "The Local List Aotearoa",

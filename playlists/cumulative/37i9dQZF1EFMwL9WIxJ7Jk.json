@@ -1575,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "Infinite Icon",
+        "url": "https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164973,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/4arU96wjVUSEb4r2q4Iswf"
+    },
+    {
+      "album": {
         "name": "A Very Trainor Christmas (Deluxe)",
         "url": "https://open.spotify.com/album/7cZBXcpZ2VMJovpQqYOYhy"
       },

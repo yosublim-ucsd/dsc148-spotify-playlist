@@ -4,7 +4,7 @@
 
 > ginga y balança
 
-275 songs - 11 hr 44 min
+276 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [MAGRÃO SUPREMO](https://open.spotify.com/track/7eZE5ob4uWJkAZYQyAIFdP) | [DJ Idk](https://open.spotify.com/artist/5zKrn256dtGXDCpOVlr22G), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [MAGRÃO SUPREMO](https://open.spotify.com/album/6QxXpdAJWcNjwyFi9Xbewi) | 3:26 | 2023-10-06 |  |
 | [Magrão Supremo](https://open.spotify.com/track/5btUKrOZ9wnwuaVR04nqw1) | [DJ Idk](https://open.spotify.com/artist/5zKrn256dtGXDCpOVlr22G), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [Magrão Supremo](https://open.spotify.com/album/3YcSwrHaUcS8NspX6CTvoz) | 3:26 | 2024-03-12 | 2024-04-19 |
 | [Maluca De Tudo](https://open.spotify.com/track/7vIk9K4J67L5zKeyxuegj4) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Maluca De Tudo](https://open.spotify.com/album/2jvF6MpxOkW7wRGPXDRR8n) | 2:22 | 2023-10-06 | 2023-10-25 |
+| [Malvadinho](https://open.spotify.com/track/3D06dCZbYilOFAB8kR5tYF) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [DJ JB Mix](https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w) | [Malvadinho](https://open.spotify.com/album/0OSgbe5GNzV5ShonkfL6Ev) | 2:00 | 2024-11-14 |  |
 | [Mamãe Passou Açúcar](https://open.spotify.com/track/4lBKhZVY80VaEOWQojyUeG) | [dj andreoli](https://open.spotify.com/artist/6Y7e2jet1yvaymbzwOn4Fa), [Duduzinho](https://open.spotify.com/artist/5lneW4gwuALhTWZSDdz1rY) | [Mamãe Passou Açúcar](https://open.spotify.com/album/0953UMW15jpkCJsBXsQWMU) | 2:20 | 2024-09-10 | 2024-10-12 |
 | [MARIA MARIAH](https://open.spotify.com/track/4rvhvKePtR2c08LvALVLXV) | [AN0S 2002](https://open.spotify.com/artist/1cZBcvGgea6U5diHP9jdpi), [VISIXN](https://open.spotify.com/artist/0O5ZiaqbQiMFrYfjiyRihX), [codependency](https://open.spotify.com/artist/79Q0IhoK1JMM0c3jQrNvtF) | [2 hot 4 u](https://open.spotify.com/album/5Qdw3s4xfnB4MDug6NGIL1) | 1:58 | 2024-01-15 | 2024-01-19 |
 | [Maria Mariah](https://open.spotify.com/track/00rxTS5TKv3oXpDA6nWfBi) | [JC NO BEAT](https://open.spotify.com/artist/1xglv0oUbyJaycWFhyec8U), [DJ F7](https://open.spotify.com/artist/1L5QOwu01wcDbozwIL1XXd), [MC Meno Dani](https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI), [Silva Mc](https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3) | [Maria Mariah](https://open.spotify.com/album/4F1j6L2ncVLyIiAaG8jgo1) | 1:58 | 2023-12-18 | 2024-01-27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Mala Agatha",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Ndarboy Genk",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -592,6 +592,24 @@
       "duration_ms": 247384,
       "name": "Bahagiamu Loroku",
       "url": "https://open.spotify.com/track/2klu3MQzMY8SLw2s680TCP"
+    },
+    {
+      "album": {
+        "name": "Bajirut",
+        "url": "https://open.spotify.com/album/63aUmI5XPt0Bt2BhM1bx6i"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305493,
+      "name": "Bajirut",
+      "url": "https://open.spotify.com/track/2d7MsxaYJC0NSNw0u0WrWv"
     },
     {
       "album": {
@@ -1905,6 +1923,32 @@
     },
     {
       "album": {
+        "name": "Ikhlas Ngenteni",
+        "url": "https://open.spotify.com/album/6cda0taIjtzoAxexbbPYxf"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        },
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        },
+        {
+          "name": "Safira Inema",
+          "url": "https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294634,
+      "name": "Ikhlas Ngenteni",
+      "url": "https://open.spotify.com/track/03vCFyLTKlAXkUti7plxtN"
+    },
+    {
+      "album": {
         "name": "Iki Uripku",
         "url": "https://open.spotify.com/album/2CssuqpQHqtx1fhUbGjwyp"
       },
@@ -2496,6 +2540,24 @@
       "duration_ms": 349016,
       "name": "Kecelik",
       "url": "https://open.spotify.com/track/136vKucQWIKVj8Zjg2JVyQ"
+    },
+    {
+      "album": {
+        "name": "Kelangan (Orchestra Version)",
+        "url": "https://open.spotify.com/album/6BGYkoc7ffge62htPpigIs"
+      },
+      "artists": [
+        {
+          "name": "Wandra Restusiyan",
+          "url": "https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351931,
+      "name": "Kelangan - Orchestra Version",
+      "url": "https://open.spotify.com/track/71bEfMQcwDNk9mMNmEMYCO"
     },
     {
       "album": {
@@ -4639,6 +4701,24 @@
     },
     {
       "album": {
+        "name": "Nresnani",
+        "url": "https://open.spotify.com/album/2viXoe6IXeZjSCUHZoM5cp"
+      },
+      "artists": [
+        {
+          "name": "Safira Inema",
+          "url": "https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "Nresnani",
+      "url": "https://open.spotify.com/track/3GErPF0Jefm11hx6b8xh0c"
+    },
+    {
+      "album": {
         "name": "Nutupi Laraku",
         "url": "https://open.spotify.com/album/1QxCes90f7uLhU6swcCyHw"
       },
@@ -5402,6 +5482,28 @@
       "duration_ms": 336000,
       "name": "Piye Kabarmu",
       "url": "https://open.spotify.com/track/0Xwy9IezFUwQhOXDDaVPhs"
+    },
+    {
+      "album": {
+        "name": "PNS (Pengangguran Nampak Sukses)",
+        "url": "https://open.spotify.com/album/7BUM53d2BGGavSYn1WPN2O"
+      },
+      "artists": [
+        {
+          "name": "Didik Budi",
+          "url": "https://open.spotify.com/artist/4sy1TsEotKwjBHrQGPIwzZ"
+        },
+        {
+          "name": "Tri Suaka",
+          "url": "https://open.spotify.com/artist/4rLkBI8sdayXhNaGmfW3nC"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279196,
+      "name": "PNS - Pengangguran Nampak Sukses",
+      "url": "https://open.spotify.com/track/4EQYNmuCs3vOuAwJrYbLa8"
     },
     {
       "album": {

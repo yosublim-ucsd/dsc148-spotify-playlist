@@ -1283,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "GIANT",
+        "url": "https://open.spotify.com/album/2vVMz605sZeoefSLbbBNeb"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174800,
+      "name": "GIANT",
+      "url": "https://open.spotify.com/track/5cZUp0PoAYzsXefD0pdALc"
+    },
+    {
+      "album": {
         "name": "GLOCKHARDT (WockhardtXGlockpit)",
         "url": "https://open.spotify.com/album/3EnjBEWe7VDZGBEFnjA934"
       },
@@ -6018,7 +6036,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 120000,
       "name": "\u043f\u0443\u0441\u043a\u0430\u044e\u0442 \u0441\u0442\u0440\u0435\u043b\u044b",
       "url": "https://open.spotify.com/track/2z7DQkasXOP96pReH2ZdQI"
@@ -6746,7 +6764,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 132649,
       "name": "\u0422\u0435\u0441\u043d\u043e",
       "url": "https://open.spotify.com/track/4oHEJ5KPf9hW1pDyQYIRIw"
@@ -7048,7 +7066,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 147000,
       "name": "\u0423\u0442\u0440\u043e",
       "url": "https://open.spotify.com/track/0aKl63MnUIVKkXlVtp2vLr"

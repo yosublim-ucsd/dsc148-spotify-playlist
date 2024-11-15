@@ -1,29 +1,13 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Parkineos",
-  "num_followers": 215638,
+  "num_followers": 215629,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzI9gAAAAABa5XD0rYOmBLLJDDcCJ5p5",
+  "snapshot_id": "ZzI9gAAAAACJp0BAmRyas6iz+2OF3uky",
   "tracks": [
-    {
-      "added_at": "2024-11-11 17:23:12",
-      "album": {
-        "name": "Her\u00e1ldica +",
-        "url": "https://open.spotify.com/album/5uC2ijosFc8oET650PF88C"
-      },
-      "artists": [
-        {
-          "name": "Saramalacara",
-          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
-        }
-      ],
-      "duration_ms": 115016,
-      "name": "Fotolove!",
-      "url": "https://open.spotify.com/track/2iKkPx35MLrK527bW59OOw"
-    },
     {
       "added_at": "2024-11-11 17:23:12",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 101917,
       "name": "coraz\u00f3n part\u00edo",
       "url": "https://open.spotify.com/track/2iGlLyQBdzt319UImwEmm7"
+    },
+    {
+      "added_at": "2024-11-11 17:23:12",
+      "album": {
+        "name": "Her\u00e1ldica +",
+        "url": "https://open.spotify.com/album/5uC2ijosFc8oET650PF88C"
+      },
+      "artists": [
+        {
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        }
+      ],
+      "duration_ms": 115016,
+      "name": "Fotolove!",
+      "url": "https://open.spotify.com/track/2iKkPx35MLrK527bW59OOw"
     },
     {
       "added_at": "2024-11-11 17:23:12",
@@ -135,6 +135,22 @@
     {
       "added_at": "2024-11-11 17:23:12",
       "album": {
+        "name": "contacto visual",
+        "url": "https://open.spotify.com/album/19iYFIFDOV38H7FdbFou4e"
+      },
+      "artists": [
+        {
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        }
+      ],
+      "duration_ms": 116454,
+      "name": "contacto visual",
+      "url": "https://open.spotify.com/track/3QDb9qWDXBbwO9dlMIpvOc"
+    },
+    {
+      "added_at": "2024-11-11 17:23:12",
+      "album": {
         "name": "digital",
         "url": "https://open.spotify.com/album/5hTdN9SyFP2RbYUDrbVdfg"
       },
@@ -151,26 +167,6 @@
       "duration_ms": 127384,
       "name": "digital",
       "url": "https://open.spotify.com/track/0UYqOY6AXRxYHOIkL3TIbs"
-    },
-    {
-      "added_at": "2024-11-11 17:23:12",
-      "album": {
-        "name": "BABAYAGA",
-        "url": "https://open.spotify.com/album/2p8CEb59obQ62nhqLbTE6I"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        },
-        {
-          "name": "Saramalacara",
-          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
-        }
-      ],
-      "duration_ms": 159732,
-      "name": "brujita",
-      "url": "https://open.spotify.com/track/6kYLN1jiNx0e7cdj6QsHrM"
     },
     {
       "added_at": "2024-11-11 17:23:12",
@@ -203,18 +199,22 @@
     {
       "added_at": "2024-11-11 17:23:12",
       "album": {
-        "name": "contacto visual",
-        "url": "https://open.spotify.com/album/19iYFIFDOV38H7FdbFou4e"
+        "name": "BABAYAGA",
+        "url": "https://open.spotify.com/album/2p8CEb59obQ62nhqLbTE6I"
       },
       "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        },
         {
           "name": "Saramalacara",
           "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
         }
       ],
-      "duration_ms": 116454,
-      "name": "contacto visual",
-      "url": "https://open.spotify.com/track/3QDb9qWDXBbwO9dlMIpvOc"
+      "duration_ms": 159732,
+      "name": "brujita",
+      "url": "https://open.spotify.com/track/6kYLN1jiNx0e7cdj6QsHrM"
     },
     {
       "added_at": "2024-11-11 17:23:12",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-11-11 17:23:12",
       "album": {
-        "name": "para siempre(\uff61>\ufe4f<)",
-        "url": "https://open.spotify.com/album/6a2xobMbJhGbFVK9rWseSi"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        }
-      ],
-      "duration_ms": 150902,
-      "name": "para siempre(\uff61>\ufe4f<)",
-      "url": "https://open.spotify.com/track/5Ir8RQngyI0ny6Aq4zhAVp"
-    },
-    {
-      "added_at": "2024-11-11 17:23:12",
-      "album": {
         "name": "XOBXO",
         "url": "https://open.spotify.com/album/4A00oi9TwsdeJdHchuId0S"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 166518,
       "name": "XOBXO",
       "url": "https://open.spotify.com/track/1hLQvd6uhBybEGGRWa4Iml"
+    },
+    {
+      "added_at": "2024-11-11 17:23:12",
+      "album": {
+        "name": "para siempre(\uff61>\ufe4f<)",
+        "url": "https://open.spotify.com/album/6a2xobMbJhGbFVK9rWseSi"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "duration_ms": 150902,
+      "name": "para siempre(\uff61>\ufe4f<)",
+      "url": "https://open.spotify.com/track/5Ir8RQngyI0ny6Aq4zhAVp"
     },
     {
       "added_at": "2024-11-11 17:23:12",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-11-11 17:23:12",
       "album": {
-        "name": "El Angel eres t\u00fa",
-        "url": "https://open.spotify.com/album/1XkaSlYhT9za7PGwAI2cjh"
-      },
-      "artists": [
-        {
-          "name": "Nevo Angel",
-          "url": "https://open.spotify.com/artist/32QXlAgEc8RDhZvZGipVyw"
-        }
-      ],
-      "duration_ms": 212015,
-      "name": "El Angel eres t\u00fa",
-      "url": "https://open.spotify.com/track/79w7zBDLsyaITdPlgUUWYU"
-    },
-    {
-      "added_at": "2024-11-11 17:23:12",
-      "album": {
         "name": "Lejos del ruido",
         "url": "https://open.spotify.com/album/0GTiRd3k4OSuXhdu7eIK7Q"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 188903,
       "name": "Lejos del ruido",
       "url": "https://open.spotify.com/track/3fqfkvTBREX3tMumY4d6bb"
+    },
+    {
+      "added_at": "2024-11-11 17:23:12",
+      "album": {
+        "name": "El Angel eres t\u00fa",
+        "url": "https://open.spotify.com/album/1XkaSlYhT9za7PGwAI2cjh"
+      },
+      "artists": [
+        {
+          "name": "Nevo Angel",
+          "url": "https://open.spotify.com/artist/32QXlAgEc8RDhZvZGipVyw"
+        }
+      ],
+      "duration_ms": 212015,
+      "name": "El Angel eres t\u00fa",
+      "url": "https://open.spotify.com/track/79w7zBDLsyaITdPlgUUWYU"
     },
     {
       "added_at": "2024-11-11 17:23:12",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-11-11 17:23:12",
       "album": {
+        "name": "Salud Mental",
+        "url": "https://open.spotify.com/album/4n4C9mf3PtE9qEGBawFp1I"
+      },
+      "artists": [
+        {
+          "name": "Brai",
+          "url": "https://open.spotify.com/artist/3tmTU2K3wyM0x0XRTHOAcH"
+        }
+      ],
+      "duration_ms": 174196,
+      "name": "Salud Mental",
+      "url": "https://open.spotify.com/track/4v1b1Cr66DOLDhTpMLDYjc"
+    },
+    {
+      "added_at": "2024-11-11 17:23:12",
+      "album": {
         "name": "oniria",
         "url": "https://open.spotify.com/album/1Btj0VH3tWjhuIMilXh4qJ"
       },
@@ -1063,6 +1079,22 @@
     {
       "added_at": "2024-11-11 17:23:12",
       "album": {
+        "name": "AERIAL DISPLAY",
+        "url": "https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G"
+      },
+      "artists": [
+        {
+          "name": "NICO B.",
+          "url": "https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe"
+        }
+      ],
+      "duration_ms": 106071,
+      "name": "GALGO",
+      "url": "https://open.spotify.com/track/76k17bHB4HGkrQ66CSJB7Z"
+    },
+    {
+      "added_at": "2024-11-11 17:23:12",
+      "album": {
         "name": "FFANTAS\u00cdAAX2",
         "url": "https://open.spotify.com/album/5pGOgHSECYJdvvHIPKEPcB"
       },
@@ -1079,22 +1111,6 @@
       "duration_ms": 172020,
       "name": "FFANTAS\u00cdAAX2",
       "url": "https://open.spotify.com/track/1puTWgQhPd0HPVCXddVqaG"
-    },
-    {
-      "added_at": "2024-11-11 17:23:12",
-      "album": {
-        "name": "AERIAL DISPLAY",
-        "url": "https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G"
-      },
-      "artists": [
-        {
-          "name": "NICO B.",
-          "url": "https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe"
-        }
-      ],
-      "duration_ms": 106071,
-      "name": "GALGO",
-      "url": "https://open.spotify.com/track/76k17bHB4HGkrQ66CSJB7Z"
     },
     {
       "added_at": "2024-11-11 17:23:12",
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2024-11-11 17:23:12",
       "album": {
-        "name": "Salud Mental",
-        "url": "https://open.spotify.com/album/4n4C9mf3PtE9qEGBawFp1I"
-      },
-      "artists": [
-        {
-          "name": "Brai",
-          "url": "https://open.spotify.com/artist/3tmTU2K3wyM0x0XRTHOAcH"
-        }
-      ],
-      "duration_ms": 174196,
-      "name": "Salud Mental",
-      "url": "https://open.spotify.com/track/4v1b1Cr66DOLDhTpMLDYjc"
-    },
-    {
-      "added_at": "2024-11-11 17:23:12",
-      "album": {
         "name": "PIENSONTI",
         "url": "https://open.spotify.com/album/3ZJH2y7S0zHlpMbH3tx77A"
       },
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2024-11-11 17:23:12",
       "album": {
+        "name": "OBSESI\u00d3N",
+        "url": "https://open.spotify.com/album/7oTTGkCyu156jFSWIT05Bh"
+      },
+      "artists": [
+        {
+          "name": "Ratchet Racer",
+          "url": "https://open.spotify.com/artist/41YGhblkQx83QlcTseXks5"
+        },
+        {
+          "name": "BETWEENLINES",
+          "url": "https://open.spotify.com/artist/5MEv3ijpoLWwsmYksxyzNW"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "OBSESI\u00d3N",
+      "url": "https://open.spotify.com/track/4KtI4DjdVhTT2oueVV70Xi"
+    },
+    {
+      "added_at": "2024-11-11 17:23:12",
+      "album": {
         "name": "Perra Alfa (Neukrapsio Remix)",
         "url": "https://open.spotify.com/album/3BhYJxBc3dW7OJz4IcRqvt"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 171764,
       "name": "Perra Alfa - Neukrapsio Remix",
       "url": "https://open.spotify.com/track/4PFM0ds7hIRea4bsKqEgWw"
-    },
-    {
-      "added_at": "2024-11-11 17:23:12",
-      "album": {
-        "name": "OBSESI\u00d3N",
-        "url": "https://open.spotify.com/album/7oTTGkCyu156jFSWIT05Bh"
-      },
-      "artists": [
-        {
-          "name": "Ratchet Racer",
-          "url": "https://open.spotify.com/artist/41YGhblkQx83QlcTseXks5"
-        },
-        {
-          "name": "BETWEENLINES",
-          "url": "https://open.spotify.com/artist/5MEv3ijpoLWwsmYksxyzNW"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "OBSESI\u00d3N",
-      "url": "https://open.spotify.com/track/4KtI4DjdVhTT2oueVV70Xi"
     },
     {
       "added_at": "2024-11-11 17:23:12",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-11-11 17:23:12",
       "album": {
+        "name": "DESNUDO X DAIGUAL",
+        "url": "https://open.spotify.com/album/5VqJmKc8IyvvSWHTJs5h9M"
+      },
+      "artists": [
+        {
+          "name": "VALENTINO",
+          "url": "https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0"
+        }
+      ],
+      "duration_ms": 155571,
+      "name": "DESNUDO",
+      "url": "https://open.spotify.com/track/0i7TORs3qf9QMMc5fLYFID"
+    },
+    {
+      "added_at": "2024-11-11 17:23:12",
+      "album": {
         "name": "Rituales",
         "url": "https://open.spotify.com/album/12aUm7ohtYlLLu8S0sh1Uk"
       },
@@ -1439,26 +1455,6 @@
     {
       "added_at": "2024-11-11 17:23:12",
       "album": {
-        "name": "Sed",
-        "url": "https://open.spotify.com/album/763dSAPuxFSCCskbyPkym1"
-      },
-      "artists": [
-        {
-          "name": "Aguh",
-          "url": "https://open.spotify.com/artist/4pyl3CSt9krwN97yVF6fj8"
-        },
-        {
-          "name": "Leirosee",
-          "url": "https://open.spotify.com/artist/0Vlphxx9US07CsfgR3dTK9"
-        }
-      ],
-      "duration_ms": 142151,
-      "name": "Sed",
-      "url": "https://open.spotify.com/track/1vUjjjIFNHmcD7IBBAGM6e"
-    },
-    {
-      "added_at": "2024-11-11 17:23:12",
-      "album": {
         "name": "Hello Moto",
         "url": "https://open.spotify.com/album/1YZjTk9esPoHyqRn0RcXwv"
       },
@@ -1475,18 +1471,22 @@
     {
       "added_at": "2024-11-11 17:23:12",
       "album": {
-        "name": "DESNUDO X DAIGUAL",
-        "url": "https://open.spotify.com/album/5VqJmKc8IyvvSWHTJs5h9M"
+        "name": "Sed",
+        "url": "https://open.spotify.com/album/763dSAPuxFSCCskbyPkym1"
       },
       "artists": [
         {
-          "name": "VALENTINO",
-          "url": "https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0"
+          "name": "Aguh",
+          "url": "https://open.spotify.com/artist/4pyl3CSt9krwN97yVF6fj8"
+        },
+        {
+          "name": "Leirosee",
+          "url": "https://open.spotify.com/artist/0Vlphxx9US07CsfgR3dTK9"
         }
       ],
-      "duration_ms": 155571,
-      "name": "DESNUDO",
-      "url": "https://open.spotify.com/track/0i7TORs3qf9QMMc5fLYFID"
+      "duration_ms": 142151,
+      "name": "Sed",
+      "url": "https://open.spotify.com/track/1vUjjjIFNHmcD7IBBAGM6e"
     },
     {
       "added_at": "2024-11-11 17:23:12",
@@ -1547,6 +1547,30 @@
     {
       "added_at": "2024-11-11 17:23:12",
       "album": {
+        "name": "NIGHTMARE",
+        "url": "https://open.spotify.com/album/0OVY5ETbo57WeEGAR2mV0b"
+      },
+      "artists": [
+        {
+          "name": "keko",
+          "url": "https://open.spotify.com/artist/096WT4GVoi1my7nHuZVei5"
+        },
+        {
+          "name": "Chesko",
+          "url": "https://open.spotify.com/artist/3TkaxdLWnJNwuEmpDigCwJ"
+        },
+        {
+          "name": "albwhisp",
+          "url": "https://open.spotify.com/artist/05pwTgoRDUVSr8VegYBu0g"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "NIGHTMARE",
+      "url": "https://open.spotify.com/track/7noqHBzCAmHwlj0OqMvz6E"
+    },
+    {
+      "added_at": "2024-11-11 17:23:12",
+      "album": {
         "name": "CUTE",
         "url": "https://open.spotify.com/album/0BF7WXthRwQS2Z3ZY0dm71"
       },
@@ -1599,6 +1623,22 @@
     {
       "added_at": "2024-11-11 17:23:12",
       "album": {
+        "name": "mario crush",
+        "url": "https://open.spotify.com/album/7l8GKbKPx8iUPyOyC2p8xZ"
+      },
+      "artists": [
+        {
+          "name": "resaca emocional",
+          "url": "https://open.spotify.com/artist/15uHkHsjAPqZHsliqQbaa7"
+        }
+      ],
+      "duration_ms": 187086,
+      "name": "mario crush",
+      "url": "https://open.spotify.com/track/7rbPqcfGBdQFeD9r871Azi"
+    },
+    {
+      "added_at": "2024-11-11 17:23:12",
+      "album": {
         "name": "Vivir De M\u00e1s",
         "url": "https://open.spotify.com/album/7CxjPuuWonyOvxHsanVIBG"
       },
@@ -1619,46 +1659,6 @@
     {
       "added_at": "2024-11-11 17:23:12",
       "album": {
-        "name": "mario crush",
-        "url": "https://open.spotify.com/album/7l8GKbKPx8iUPyOyC2p8xZ"
-      },
-      "artists": [
-        {
-          "name": "resaca emocional",
-          "url": "https://open.spotify.com/artist/15uHkHsjAPqZHsliqQbaa7"
-        }
-      ],
-      "duration_ms": 187086,
-      "name": "mario crush",
-      "url": "https://open.spotify.com/track/7rbPqcfGBdQFeD9r871Azi"
-    },
-    {
-      "added_at": "2024-11-11 17:23:12",
-      "album": {
-        "name": "NIGHTMARE",
-        "url": "https://open.spotify.com/album/0OVY5ETbo57WeEGAR2mV0b"
-      },
-      "artists": [
-        {
-          "name": "keko",
-          "url": "https://open.spotify.com/artist/096WT4GVoi1my7nHuZVei5"
-        },
-        {
-          "name": "Chesko",
-          "url": "https://open.spotify.com/artist/3TkaxdLWnJNwuEmpDigCwJ"
-        },
-        {
-          "name": "albwhisp",
-          "url": "https://open.spotify.com/artist/05pwTgoRDUVSr8VegYBu0g"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "NIGHTMARE",
-      "url": "https://open.spotify.com/track/7noqHBzCAmHwlj0OqMvz6E"
-    },
-    {
-      "added_at": "2024-11-11 17:23:12",
-      "album": {
         "name": "AnKur",
         "url": "https://open.spotify.com/album/40SX8MUqAxrVtI6XpsgnsW"
       },
@@ -1671,26 +1671,6 @@
       "duration_ms": 176000,
       "name": "AnKur",
       "url": "https://open.spotify.com/track/7JOarBKVSJ72L5y3hlbi9R"
-    },
-    {
-      "added_at": "2024-11-11 17:23:12",
-      "album": {
-        "name": "rez\u00e1ndole a dios",
-        "url": "https://open.spotify.com/album/5hbndvSUgEj71m7Ujaxqui"
-      },
-      "artists": [
-        {
-          "name": "solopepe",
-          "url": "https://open.spotify.com/artist/6Bzp5cHR93uKQpbHTUVSF0"
-        },
-        {
-          "name": "catculator",
-          "url": "https://open.spotify.com/artist/4rATlgc18rtJ0xKhFci8Wi"
-        }
-      ],
-      "duration_ms": 101470,
-      "name": "rez\u00e1ndole a dios",
-      "url": "https://open.spotify.com/track/6evXLYfdQM7fgrIAeVyaoL"
     },
     {
       "added_at": "2024-11-11 17:23:12",
@@ -1711,6 +1691,26 @@
       "duration_ms": 153528,
       "name": "M\u00cdRAME",
       "url": "https://open.spotify.com/track/700g28J73EOD1uPGlowABj"
+    },
+    {
+      "added_at": "2024-11-11 17:23:12",
+      "album": {
+        "name": "rez\u00e1ndole a dios",
+        "url": "https://open.spotify.com/album/5hbndvSUgEj71m7Ujaxqui"
+      },
+      "artists": [
+        {
+          "name": "solopepe",
+          "url": "https://open.spotify.com/artist/6Bzp5cHR93uKQpbHTUVSF0"
+        },
+        {
+          "name": "catculator",
+          "url": "https://open.spotify.com/artist/4rATlgc18rtJ0xKhFci8Wi"
+        }
+      ],
+      "duration_ms": 101470,
+      "name": "rez\u00e1ndole a dios",
+      "url": "https://open.spotify.com/track/6evXLYfdQM7fgrIAeVyaoL"
     },
     {
       "added_at": "2024-11-11 17:23:12",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2024-11-11 17:23:12",
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/5XU0GCVgw9iVdmcY4An5jQ"
+      },
+      "artists": [
+        {
+          "name": "Leisy",
+          "url": "https://open.spotify.com/artist/37yn5m1od6yo2HeQe19fmE"
+        }
+      ],
+      "duration_ms": 116742,
+      "name": "PRST1",
+      "url": "https://open.spotify.com/track/3I3535V3GtAK1XQ5VQOUR8"
+    },
+    {
+      "added_at": "2024-11-11 17:23:12",
+      "album": {
         "name": "Clavao en visto",
         "url": "https://open.spotify.com/album/4PieOcv1NKQUUS0j1usMh6"
       },
@@ -1771,18 +1787,18 @@
     {
       "added_at": "2024-11-11 17:23:12",
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/5XU0GCVgw9iVdmcY4An5jQ"
+        "name": "Cansao de to",
+        "url": "https://open.spotify.com/album/5eiE9AqooDUJJDJKO3m1YN"
       },
       "artists": [
         {
-          "name": "Leisy",
-          "url": "https://open.spotify.com/artist/37yn5m1od6yo2HeQe19fmE"
+          "name": "M. Nieto",
+          "url": "https://open.spotify.com/artist/2Q0yEuio24OQjTukeA703c"
         }
       ],
-      "duration_ms": 116742,
-      "name": "PRST1",
-      "url": "https://open.spotify.com/track/3I3535V3GtAK1XQ5VQOUR8"
+      "duration_ms": 179166,
+      "name": "Cansao de to",
+      "url": "https://open.spotify.com/track/536MbY3uZmOOpk7hhfZ5MF"
     },
     {
       "added_at": "2024-11-11 17:23:12",
@@ -1807,22 +1823,6 @@
     {
       "added_at": "2024-11-11 17:23:12",
       "album": {
-        "name": "Cansao de to",
-        "url": "https://open.spotify.com/album/5eiE9AqooDUJJDJKO3m1YN"
-      },
-      "artists": [
-        {
-          "name": "M. Nieto",
-          "url": "https://open.spotify.com/artist/2Q0yEuio24OQjTukeA703c"
-        }
-      ],
-      "duration_ms": 179166,
-      "name": "Cansao de to",
-      "url": "https://open.spotify.com/track/536MbY3uZmOOpk7hhfZ5MF"
-    },
-    {
-      "added_at": "2024-11-11 17:23:12",
-      "album": {
         "name": "Peke\u00f1o",
         "url": "https://open.spotify.com/album/6wa8pd2HULtIvq2P7pOgvH"
       },
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2024-11-11 17:23:12",
       "album": {
+        "name": "Tantas Maneras de Morir",
+        "url": "https://open.spotify.com/album/2wd82K5p6RB5v9QAzB3SfH"
+      },
+      "artists": [
+        {
+          "name": "Soullv",
+          "url": "https://open.spotify.com/artist/1dQSvcgeVWQpSznO8jI27D"
+        }
+      ],
+      "duration_ms": 119183,
+      "name": "Tantas Maneras de Morir",
+      "url": "https://open.spotify.com/track/0BEbMqn94Myy0Zq4Bi9mOw"
+    },
+    {
+      "added_at": "2024-11-11 17:23:12",
+      "album": {
         "name": "cara de malo",
         "url": "https://open.spotify.com/album/27ZWne6YsErPmzAeHmwV0J"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 110480,
       "name": "cara de malo",
       "url": "https://open.spotify.com/track/71Tsxr3RIJESbtABSm8GUg"
-    },
-    {
-      "added_at": "2024-11-11 17:23:12",
-      "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/4tyqDEepS16cNO2fRAgZPE"
-      },
-      "artists": [
-        {
-          "name": "Lil Zhark",
-          "url": "https://open.spotify.com/artist/3FI7NS91eeSjBP3V0znDuB"
-        }
-      ],
-      "duration_ms": 111000,
-      "name": "cartas a cupido",
-      "url": "https://open.spotify.com/track/0uxvK5viTt9zowB5vfBMQi"
     },
     {
       "added_at": "2024-11-11 17:23:12",
@@ -1911,18 +1911,22 @@
     {
       "added_at": "2024-11-11 17:23:12",
       "album": {
-        "name": "Tantas Maneras de Morir",
-        "url": "https://open.spotify.com/album/2wd82K5p6RB5v9QAzB3SfH"
+        "name": "RADIKKHAL",
+        "url": "https://open.spotify.com/album/5RHcppeOzmc7wjwo2AfW4h"
       },
       "artists": [
         {
-          "name": "Soullv",
-          "url": "https://open.spotify.com/artist/1dQSvcgeVWQpSznO8jI27D"
+          "name": "Richard Sie",
+          "url": "https://open.spotify.com/artist/5PTfRln4bU7YX7htXdZRrB"
+        },
+        {
+          "name": "mauvetrip",
+          "url": "https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR"
         }
       ],
-      "duration_ms": 119183,
-      "name": "Tantas Maneras de Morir",
-      "url": "https://open.spotify.com/track/0BEbMqn94Myy0Zq4Bi9mOw"
+      "duration_ms": 151724,
+      "name": "RADIKKHAL",
+      "url": "https://open.spotify.com/track/3uEcYZ1W4swiLAqPEqOBOe"
     }
   ],
   "unique_name": "helium",

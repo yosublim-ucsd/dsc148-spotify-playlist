@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvpagAAAAABt6Mx1Fo/S0cq05l5AP7FS",
+  "snapshot_id": "ZvpagAAAAAC93XQ26jG0FRzXCPK8aflM",
   "tracks": [
     {
       "added_at": "2024-09-30 08:00:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
+        "name": "Cocktail love",
+        "url": "https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws"
+      },
+      "artists": [
+        {
+          "name": "YEWON",
+          "url": "https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0"
+        }
+      ],
+      "duration_ms": 204053,
+      "name": "Cocktail love",
+      "url": "https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
         "name": "A song from the past",
         "url": "https://open.spotify.com/album/6lCUp7Ijtg2VJeZ8CZbyoC"
       },
@@ -567,18 +583,18 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Cocktail love",
-        "url": "https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws"
+        "name": "Here, This Moment",
+        "url": "https://open.spotify.com/album/4NjnvUDqzaOVE5pLT5SSBl"
       },
       "artists": [
         {
-          "name": "YEWON",
-          "url": "https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0"
+          "name": "ARTLOVEU",
+          "url": "https://open.spotify.com/artist/3o93aoLsZL0csTtbotjJdO"
         }
       ],
-      "duration_ms": 204053,
-      "name": "Cocktail love",
-      "url": "https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8"
+      "duration_ms": 226173,
+      "name": "Here, This Moment",
+      "url": "https://open.spotify.com/track/7sQmOXlFUZzlggFaRRG1C0"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -595,22 +611,6 @@
       "duration_ms": 218880,
       "name": "Elastic Love",
       "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
-        "name": "Here, This Moment",
-        "url": "https://open.spotify.com/album/4NjnvUDqzaOVE5pLT5SSBl"
-      },
-      "artists": [
-        {
-          "name": "ARTLOVEU",
-          "url": "https://open.spotify.com/artist/3o93aoLsZL0csTtbotjJdO"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "Here, This Moment",
-      "url": "https://open.spotify.com/track/7sQmOXlFUZzlggFaRRG1C0"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "5min to heartbreak",
-        "url": "https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa"
-      },
-      "artists": [
-        {
-          "name": "Choi HEART",
-          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "5min to heartbreak",
-      "url": "https://open.spotify.com/track/7Ei4gfGU4wrXLTw2xcBcYw"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "Sparkling",
         "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Ending",
-        "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
+        "name": "5min to heartbreak",
+        "url": "https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa"
       },
       "artists": [
         {
-          "name": "JUNE",
-          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
+          "name": "Choi HEART",
+          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
         }
       ],
-      "duration_ms": 226453,
-      "name": "A day of weather",
-      "url": "https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw"
+      "duration_ms": 200053,
+      "name": "5min to heartbreak",
+      "url": "https://open.spotify.com/track/7Ei4gfGU4wrXLTw2xcBcYw"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -755,6 +739,22 @@
       "duration_ms": 241144,
       "name": "Brave New World",
       "url": "https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "Ending",
+        "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
+      },
+      "artists": [
+        {
+          "name": "JUNE",
+          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
+        }
+      ],
+      "duration_ms": 226453,
+      "name": "A day of weather",
+      "url": "https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
+        "name": "RE_vive",
+        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 243381,
       "name": "Ondo (with LeeHi)",
       "url": "https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
-        "name": "RE_vive",
-        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Shining Love Song",
-        "url": "https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0"
-      },
-      "artists": [
-        {
-          "name": "SURAN",
-          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
-        }
-      ],
-      "duration_ms": 191706,
-      "name": "Shining Love Song",
-      "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "\uc5b4\ub9b0\uc655\uc790 The Little Prince - The 1st Mini Album",
         "url": "https://open.spotify.com/album/6I6CK3eLNgufEnfz7Se93z"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 201223,
       "name": "\uadf8\ub300 Hello",
       "url": "https://open.spotify.com/track/4XFCMuCMB62vIRPRbHEEiX"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "Shining Love Song",
+        "url": "https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0"
+      },
+      "artists": [
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        }
+      ],
+      "duration_ms": 191706,
+      "name": "Shining Love Song",
+      "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "I\u2019m not good at",
-        "url": "https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc"
-      },
-      "artists": [
-        {
-          "name": "Mitty",
-          "url": "https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ"
-        }
-      ],
-      "duration_ms": 223653,
-      "name": "I\u2019m not good at",
-      "url": "https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "mojo",
         "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 194266,
       "name": "Desire (Feat. \uc815\uc9c4\ud615, Vince)",
       "url": "https://open.spotify.com/track/0sMSGLrwt5KFttn3ksv8CK"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "I\u2019m not good at",
+        "url": "https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc"
+      },
+      "artists": [
+        {
+          "name": "Mitty",
+          "url": "https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ"
+        }
+      ],
+      "duration_ms": 223653,
+      "name": "I\u2019m not good at",
+      "url": "https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1379,38 +1379,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "My Universe - Home Recording Project #4",
-        "url": "https://open.spotify.com/album/1XZD87d6fZmsBcIS4qfeCk"
-      },
-      "artists": [
-        {
-          "name": "W24",
-          "url": "https://open.spotify.com/artist/2SJQjeKXsMqPziotLsmEit"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "My Universe - Home Recording Project #4",
-      "url": "https://open.spotify.com/track/0ljn4YeQP7xgEZ1vznVDCx"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/64hw34kgQuqdjf5NidMHoo"
-      },
-      "artists": [
-        {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        }
-      ],
-      "duration_ms": 280778,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/6hsefiVeZtpyExvPcI1Rt3"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/60zXXx58lbLisnStPn442S"
       },
@@ -1431,6 +1399,38 @@
       "duration_ms": 278226,
       "name": "Forget You (Feat. Rainbow note, Louie)",
       "url": "https://open.spotify.com/track/6s9WfGSYC8dh9Tk6ATQhlC"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/64hw34kgQuqdjf5NidMHoo"
+      },
+      "artists": [
+        {
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        }
+      ],
+      "duration_ms": 280778,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/6hsefiVeZtpyExvPcI1Rt3"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "My Universe - Home Recording Project #4",
+        "url": "https://open.spotify.com/album/1XZD87d6fZmsBcIS4qfeCk"
+      },
+      "artists": [
+        {
+          "name": "W24",
+          "url": "https://open.spotify.com/artist/2SJQjeKXsMqPziotLsmEit"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "My Universe - Home Recording Project #4",
+      "url": "https://open.spotify.com/track/0ljn4YeQP7xgEZ1vznVDCx"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1527,18 +1527,22 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/1CODuNXGPQKbT82dQtOKGw"
+        "name": "Afterlife (Feat. OOHYO)",
+        "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
       },
       "artists": [
         {
-          "name": "Nahee Kim",
-          "url": "https://open.spotify.com/artist/6PsdTnZrbimJm8FMc7i6nl"
+          "name": "Space Cowboy",
+          "url": "https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7"
+        },
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
         }
       ],
-      "duration_ms": 194331,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/6wZSjTWqs8E6EZylSqemLc"
+      "duration_ms": 252208,
+      "name": "Afterlife (Feat. OOHYO) - Voradory Ver.",
+      "url": "https://open.spotify.com/track/2CAZNT7E7ZZMDuJrh1f69Q"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1559,22 +1563,18 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Afterlife (Feat. OOHYO)",
-        "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/1CODuNXGPQKbT82dQtOKGw"
       },
       "artists": [
         {
-          "name": "Space Cowboy",
-          "url": "https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7"
-        },
-        {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+          "name": "Nahee Kim",
+          "url": "https://open.spotify.com/artist/6PsdTnZrbimJm8FMc7i6nl"
         }
       ],
-      "duration_ms": 252208,
-      "name": "Afterlife (Feat. OOHYO) - Voradory Ver.",
-      "url": "https://open.spotify.com/track/2CAZNT7E7ZZMDuJrh1f69Q"
+      "duration_ms": 194331,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/6wZSjTWqs8E6EZylSqemLc"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Late summer late night",
-        "url": "https://open.spotify.com/album/4CQOPjJ7l5jHPJTEYfViZO"
-      },
-      "artists": [
-        {
-          "name": "tang.erine",
-          "url": "https://open.spotify.com/artist/3EYKQMtUKUH5LnfJVNjv7S"
-        }
-      ],
-      "duration_ms": 146800,
-      "name": "City 1:00",
-      "url": "https://open.spotify.com/track/0JsaFslY2aeK0gTWfASl9O"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "Passing",
         "url": "https://open.spotify.com/album/5oUO7dUg3pRcaO5SnpLef3"
       },
@@ -1691,6 +1675,26 @@
       "duration_ms": 179393,
       "name": "Passing Light",
       "url": "https://open.spotify.com/track/0eXreZ3kZDgnqhvgXz6Mav"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "INCHEON CITYPOP Vol. 1",
+        "url": "https://open.spotify.com/album/73rd6npj17FEsbxfNfEdJH"
+      },
+      "artists": [
+        {
+          "name": "QUDO",
+          "url": "https://open.spotify.com/artist/5tlKesRTuMzjFhGMxoDRqf"
+        },
+        {
+          "name": "Sehwan Hong",
+          "url": "https://open.spotify.com/artist/3djMK9mGuqKGYH4h9putId"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "I\u2032m Alright",
+      "url": "https://open.spotify.com/track/1EmSHvEUIwjzJOHXSXNhzj"
     }
   ],
   "unique_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",

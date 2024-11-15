@@ -686,7 +686,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 229656,
       "name": "Curtindo a Vida / Deixa Acontecer - Ao Vivo",
       "url": "https://open.spotify.com/track/2P0JinBBrDEIOCl8bepeFG"
@@ -1501,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "Churrasquinho 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4o4fRzbvBpmoiSpkr68mmC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378960,
+      "name": "Inigual\u00e1vel Paix\u00e3o / Sentimento de Posse / O Teu Chamego / De Tanto Sofrer - Ao Vivo",
+      "url": "https://open.spotify.com/track/6NBjOJbOigFGq1rFSmgJUQ"
+    },
+    {
+      "album": {
         "name": "Inten\u00e7\u00e3o / N\u00e3o Precisa Mudar (Ao Vivo)",
         "url": "https://open.spotify.com/album/6apTRqVsxzni4NhabOtiMB"
       },
@@ -1704,6 +1722,28 @@
       "duration_ms": 299726,
       "name": "Me Redimir / Preciso Desabafar / Felina - Ao Vivo",
       "url": "https://open.spotify.com/track/5ZwsfeygdXJEJDxPMyUwSe"
+    },
+    {
+      "album": {
+        "name": "Mega Star / Telegrama (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5K4F8AQpRCJrDjJH0IsFDr"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "Chrigor",
+          "url": "https://open.spotify.com/artist/6J2dPGeS2VqFZrpu7dhdZk"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247880,
+      "name": "Mega Star / Telegrama - Ao Vivo",
+      "url": "https://open.spotify.com/track/1VToYenItqkmYkGfmJSV4X"
     },
     {
       "album": {
@@ -3622,7 +3662,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 281909,
       "name": "\u00c9 Tudo / Supera / Antes de Dizer Adeus",
       "url": "https://open.spotify.com/track/3nsmA5tGffd57415GzUIwa"

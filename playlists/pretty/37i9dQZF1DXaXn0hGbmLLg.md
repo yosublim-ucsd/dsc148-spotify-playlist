@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! BNLX ambassador: <a href="spotify:artist:4hj9dun9KpnBukLv7Hgfkr">Rikki \(RONDÉ\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,765 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,763 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 99 | [Pon Mi](https://open.spotify.com/track/3CUY2ta4BVNkok9kK8gJUL) | [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6) | [Pon Mi](https://open.spotify.com/album/5cB54UV3G4QNOfMJj8xVwn) | 2:26 |
 | 100 | [Videotheek](https://open.spotify.com/track/2iZXgpnN2CfCiJHYXegZTc) | [BERBER](https://open.spotify.com/artist/3InQDZx90dX0arwVY9JyMP) | [Videotheek](https://open.spotify.com/album/6Q7BoxR9QUff5NhFVtKeN8) | 3:13 |
 
-Snapshot ID: `ZyqVYAAAAABwmv7fTQyuZQyNnwJtapHW`
+Snapshot ID: `ZyqVYAAAAAAI2H8Y6DjQd/dO9Riu6Yyt`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc29CDb7hd8Z.md) - [plain]
 
 > Everything will look beautiful if you're inspired by the simplicity of instrumental music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,569 likes - 138 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,575 likes - 138 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc29CDb7hd8Z.md) - [plain]
 | 137 | [River Flows In You \- Original](https://open.spotify.com/track/47ZWr1Nb0PUgmKgyg5JkgO) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [First Love \(Yiruma Piano Collection\)](https://open.spotify.com/album/7mQySyLxOukXItkdPBs90U) | 3:05 |
 | 138 | [India Song \(piano\)](https://open.spotify.com/track/1oqrEcuxbzibmFx8Ebn4Z6) | [Carlos D'Alessio](https://open.spotify.com/artist/5tj60o8qX6VLwdc9zaVvqF) | [India Song et autres musiques de films](https://open.spotify.com/album/1ZVLjN4opMPA2pFyHs63Fs) | 2:46 |
 
-Snapshot ID: `ZwA7bwAAAACebDfyJ5KesxZT+zLBPZej`
+Snapshot ID: `ZwA7bwAAAAANnvslJkIpXq0k20oudf68`

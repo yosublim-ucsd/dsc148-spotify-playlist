@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,177 likes - 150 songs - 11 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,193 likes - 150 songs - 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 149 | [I Can Live Again \(Reimagined\)](https://open.spotify.com/track/4BNZyOQEWDrnpltb4IjKjV) | [thelukasband](https://open.spotify.com/artist/6QZIw3ZNQkMlypwr0xkwKE), [Julz Savard](https://open.spotify.com/artist/4zqtMz5qTefYQAwhQg3rUt) | [I Can Live Again \(Reimagined\)](https://open.spotify.com/album/7CpXmwCa0CRjBfBTCuse2Y) | 3:52 |
 | 150 | [Remember Me My Lord](https://open.spotify.com/track/0TmWgjV5ipkl906KUPw1UL) | [Cocoy Claravall](https://open.spotify.com/artist/7or90S16MNx8VogdeOqlKq), [Paul Tagle](https://open.spotify.com/artist/2mElsd377gxOFa8sDNYK93) | [Remember Me My Lord](https://open.spotify.com/album/6yvfzk36IpK6sujZy4OGY8) | 5:09 |
 
-Snapshot ID: `Zxp0GQAAAADd15kFpr9ZO1hYNuC6GtbR`
+Snapshot ID: `Zxp0GQAAAACkUruchlUxNEg4RQ/uJxf0`

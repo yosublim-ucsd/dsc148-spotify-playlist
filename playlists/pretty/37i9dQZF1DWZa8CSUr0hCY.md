@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,175 likes - 150 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,201 likes - 150 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 | 149 | [i completely forgot i exist](https://open.spotify.com/track/5GyNl6UzfdozPq0aT194ld) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [the beginning of everything](https://open.spotify.com/album/5Matz1eedO5orhIpJEuUVO) | 3:05 |
 | 150 | [Letdown](https://open.spotify.com/track/27Yu59D18hcYTp03CAo3vY) | [Paoz](https://open.spotify.com/artist/1qTfRbMkItLTntzS9ehXQT), [Tea box records](https://open.spotify.com/artist/0WFElMoec6Fv9lifejuv0r) | [Letdown](https://open.spotify.com/album/36rlZHCSOIgwDvQSjXa282) | 2:40 |
 
-Snapshot ID: `ZvXZYAAAAADJqmPSii6B374tS86+BEBf`
+Snapshot ID: `ZvXZYAAAAAC7dOeEzG0ovRkWX5QVCVtm`

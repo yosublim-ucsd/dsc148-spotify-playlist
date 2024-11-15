@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. غلاف: اصالة نصري
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,158 likes - 51 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,177 likes - 51 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 50 | [Methl Alwaraq](https://open.spotify.com/track/3z1TMHr7B2TfvGTbsSlUsB) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Methl Alwaraq](https://open.spotify.com/album/6iO98fd8Diozs5jDySZRuv) | 3:02 |
 | 51 | [Rabea Youm](https://open.spotify.com/track/1JC6xks3zK45wSeRR9AYvX) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Rabea Youm](https://open.spotify.com/album/0ttIhY7IARi9VAsKgEs0Ae) | 4:26 |
 
-Snapshot ID: `ZzHz+AAAAAAublXrKQYbmc7DmJ667rwP`
+Snapshot ID: `ZzHz+AAAAAB6DLn9jT9P3LXBYW3WlnJL`

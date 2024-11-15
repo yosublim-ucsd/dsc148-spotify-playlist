@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 37143,
+  "num_followers": 37168,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZIsRVQAAAADScxzB3E2p1crOMCbg9Hwc",
+  "snapshot_id": "ZIsRVQAAAADIKOFhLltFKClsk2ppUEvR",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -103,6 +103,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Zulu",
+        "url": "https://open.spotify.com/album/4af9t45AsFlQR6CgWTsYqn"
+      },
+      "artists": [
+        {
+          "name": "Circle Children",
+          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
+        }
+      ],
+      "duration_ms": 474560,
+      "name": "Zulu - Change Mix",
+      "url": "https://open.spotify.com/track/3bnX6J2heDwJcMW01WYupB"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "House Of Love",
         "url": "https://open.spotify.com/album/0UnVmFFjZJDh2o1OktIy60"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 546586,
       "name": "Beautiful People - Underground Network Mix",
       "url": "https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Zulu",
-        "url": "https://open.spotify.com/album/4af9t45AsFlQR6CgWTsYqn"
-      },
-      "artists": [
-        {
-          "name": "Circle Children",
-          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
-        }
-      ],
-      "duration_ms": 474560,
-      "name": "Zulu - Change Mix",
-      "url": "https://open.spotify.com/track/3bnX6J2heDwJcMW01WYupB"
     },
     {
       "added_at": "2022-03-03 13:59:16",

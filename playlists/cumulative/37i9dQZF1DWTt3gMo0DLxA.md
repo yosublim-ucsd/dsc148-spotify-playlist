@@ -4,7 +4,7 @@
 
 > Trending songs from Tollywood! <br/>Cover: Devara
 
-186 songs - 12 hr 9 min
+187 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Dai Dai Dhamma](https://open.spotify.com/track/02VVOQId2O83I5hLJ1GFmH) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH) | [Indra](https://open.spotify.com/album/6DCevkH61bKK4qIxQV50eB) | 5:20 | 2024-08-23 | 2024-10-22 |
 | [Darlingey](https://open.spotify.com/track/5PXmfhFNAxiqK86Xknc1HB) | [Devi Sri Prasad, Geetha Madhuri](https://open.spotify.com/artist/6JFfnpWaCNY5MOlv2CEAVa) | [Mirchi](https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf) | 3:44 | 2023-05-22 | 2023-08-31 |
 | [Darshana](https://open.spotify.com/track/3eIkuy5Fr7kuQXiro0czUM) | [Chaitan Bharadwaj](https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Vinaro Bhagyamu Vishnu Katha](https://open.spotify.com/album/5IYnCIHoayjRyzW6OiumQb) | 3:38 | 2023-08-30 |  |
+| [Devara Thandavam \(From "Devara Part 1"\)](https://open.spotify.com/track/6oNYUEGuQdpwwj0xWnzSP5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Devara Thandavam \(From "Devara Part 1"\)](https://open.spotify.com/album/2YYDheNxSwR6Zgtnj7YhB4) | 2:18 | 2024-11-14 |  |
 | [Dinchak \(From "Red"\)](https://open.spotify.com/track/0iT2FnhutL3yJh7DXy1SOG) | [Keerthana Sharma](https://open.spotify.com/artist/3MVZmcDNyoI81ZmAu0YiF7), [Saketh Komanduri](https://open.spotify.com/artist/3MoBedNBt9D9IRmhRJxV3L), [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss) | [Dinchak \(From "Red"\)](https://open.spotify.com/album/1935AnvPstXORnGqOf8rgW) | 5:19 | 2021-09-24 | 2023-08-31 |
 | [Drunk and Drive](https://open.spotify.com/track/13AC9I9D1SMZDxoZBXkiUV) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Chalo](https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX) | 4:12 | 2021-09-24 | 2023-08-31 |
 | [Dum Masala](https://open.spotify.com/track/3yNhGgQMPOdqVFpjRu8k8x) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Saraswati Putra Ramajogayya Sastry](https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk) | [Guntur Kaaram](https://open.spotify.com/album/2JTcQYxkWCph2DFYHljgnS) | 3:26 | 2023-11-08 | 2024-02-13 |

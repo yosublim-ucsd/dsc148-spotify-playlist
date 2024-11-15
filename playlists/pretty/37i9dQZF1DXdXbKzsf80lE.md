@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,964 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,037 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 99 | [Hackearam\-Me](https://open.spotify.com/track/5NeBu4oKweDXIjhvYqtbLo) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Hackearam\-Me](https://open.spotify.com/album/3KHR8xoze8HO6SGTCeCGQt) | 3:29 |
 | 100 | [Alô @](https://open.spotify.com/track/0qjCRnaKCaTcOfQ6TWaYt5) | [Weliton O Gordinho](https://open.spotify.com/artist/6nGLbk2FTxxQnyy1EeKwFP) | [Alô @](https://open.spotify.com/album/6JsnblEneXG3RPNIMteagm) | 2:57 |
 
-Snapshot ID: `Zowr0wAAAAA0Y6Fzjv6AyJvbuk8dtmmI`
+Snapshot ID: `Zowr0wAAAABHhIb/ZW4u/UHB8egcSyOO`

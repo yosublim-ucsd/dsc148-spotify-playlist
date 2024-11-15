@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,544 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,587 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 99 | [You Are Faithful](https://open.spotify.com/track/50eFFgwaLVqP2oKiJ9oeNV) | [Activate Music](https://open.spotify.com/artist/1CvJjbeELK5b5VGyiF9a9p) | [The King Is Here](https://open.spotify.com/album/5Q1aMEy0isDuhbE0v2bFoN) | 4:23 |
 | 100 | [Rebel Heart \- Remix](https://open.spotify.com/track/0I7MvJkQlfVstwL4qWrVR0) | [Sam Hibbard](https://open.spotify.com/artist/08mV0xcJ2gAanEFGjWJsCT) | [Rebel Heart \(Remix\)](https://open.spotify.com/album/0d47Lg1z2zhmmVKoioyjPo) | 2:54 |
 
-Snapshot ID: `ZprbAwAAAAD75G4DlX3dIYMYWqrzTjJo`
+Snapshot ID: `ZprbAwAAAADVNz1b2LXmfYBeYKwdcCqf`

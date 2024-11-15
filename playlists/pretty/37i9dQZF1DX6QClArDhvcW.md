@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 
 > Laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,194 likes - 270 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,261 likes - 270 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 269 | [Popsicle](https://open.spotify.com/track/3YkTd9wRFuVLBn2yWm9jDm) | [LIAR.](https://open.spotify.com/artist/3WWfY5srwuTUAD85I6dQr6) | [Popsicle](https://open.spotify.com/album/3megiTdeoMiHET8bxY2g5A) | 2:02 |
 | 270 | [Morning Routine](https://open.spotify.com/track/78ESZt9YZhiOgrAqPoheJ0) | [bedroom lofi](https://open.spotify.com/artist/2LrcxltMHRqQBYByx4rtW2) | [Morning Routine](https://open.spotify.com/album/7sQ4Mqn5YlAg8NfcIJDkbw) | 0:59 |
 
-Snapshot ID: `ZxJQcgAAAAATls5GykFHHGuVXMSRfN+q`
+Snapshot ID: `ZxJQcgAAAADZTLqQwjUHv/JzkvedRec1`

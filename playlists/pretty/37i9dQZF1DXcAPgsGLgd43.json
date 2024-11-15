@@ -1,12 +1,12 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 61947,
+  "num_followers": 61988,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy2a0AAAAAB5WeckLbjxzLZbkQYrAhao",
+  "snapshot_id": "Zy2a0AAAAABCsAuDIFregvXba6FDEBrb",
   "tracks": [
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1399,18 +1399,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Barah\u00fanda",
-        "url": "https://open.spotify.com/album/1FQDhOTFGyuBHt3jSULiOv"
+        "name": "Matadora (Radio Edit)",
+        "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
       },
       "artists": [
         {
-          "name": "Monge",
-          "url": "https://open.spotify.com/artist/6DZ0EGYRySI2aVb4NVSDd1"
+          "name": "Maahez",
+          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
         }
       ],
-      "duration_ms": 139082,
-      "name": "Barah\u00fanda",
-      "url": "https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS"
+      "duration_ms": 180000,
+      "name": "Matadora - Radio Edit",
+      "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1431,22 +1435,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Matadora (Radio Edit)",
-        "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
+        "name": "Barah\u00fanda",
+        "url": "https://open.spotify.com/album/1FQDhOTFGyuBHt3jSULiOv"
       },
       "artists": [
         {
-          "name": "Maahez",
-          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
-        },
-        {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+          "name": "Monge",
+          "url": "https://open.spotify.com/artist/6DZ0EGYRySI2aVb4NVSDd1"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Matadora - Radio Edit",
-      "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
+      "duration_ms": 139082,
+      "name": "Barah\u00fanda",
+      "url": "https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1655,8 +1655,8 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Bonito",
-        "url": "https://open.spotify.com/album/69UvyIqfB5VUm1n0NMwZEU"
+        "name": "Pasto Y Perico (feat Jay Vazquez)",
+        "url": "https://open.spotify.com/album/301NeU6R2RZXAN5Q8S5qud"
       },
       "artists": [
         {
@@ -1664,17 +1664,17 @@
           "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
         },
         {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+          "name": "Hotel Dieu",
+          "url": "https://open.spotify.com/artist/3QDq76AYkHaotSMANOG1W9"
         },
         {
-          "name": "MichaelBM",
-          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
+          "name": "Jay V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/65it9QYg2Trf2APW4GjpQj"
         }
       ],
-      "duration_ms": 163468,
-      "name": "Bonito",
-      "url": "https://open.spotify.com/track/33qvQJ5MmwdSJlJcVDlx8i"
+      "duration_ms": 167441,
+      "name": "Pasto Y Perico (feat Jay Vazquez)",
+      "url": "https://open.spotify.com/track/1JtqmmPyjuSS6mgYDuvtP9"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/56EvRHiuKxCqqOvH7MX9z2"
+      },
+      "artists": [
+        {
+          "name": "Fabi Hernandez",
+          "url": "https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np"
+        }
+      ],
+      "duration_ms": 155004,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/6v2nSzwwpoShFhE8r4siG6"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Tu Sabor",
         "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 175357,
       "name": "Tu Sabor",
       "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/56EvRHiuKxCqqOvH7MX9z2"
-      },
-      "artists": [
-        {
-          "name": "Fabi Hernandez",
-          "url": "https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np"
-        }
-      ],
-      "duration_ms": 155004,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/6v2nSzwwpoShFhE8r4siG6"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1787,8 +1787,8 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Pasto Y Perico",
-        "url": "https://open.spotify.com/album/301NeU6R2RZXAN5Q8S5qud"
+        "name": "Bonito",
+        "url": "https://open.spotify.com/album/69UvyIqfB5VUm1n0NMwZEU"
       },
       "artists": [
         {
@@ -1796,17 +1796,17 @@
           "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
         },
         {
-          "name": "Hotel Dieu",
-          "url": "https://open.spotify.com/artist/3QDq76AYkHaotSMANOG1W9"
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
         },
         {
-          "name": "Jay V\u00e1zquez",
-          "url": "https://open.spotify.com/artist/65it9QYg2Trf2APW4GjpQj"
+          "name": "MichaelBM",
+          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
         }
       ],
-      "duration_ms": 167441,
-      "name": "Pasto Y Perico",
-      "url": "https://open.spotify.com/track/1JtqmmPyjuSS6mgYDuvtP9"
+      "duration_ms": 163468,
+      "name": "Bonito",
+      "url": "https://open.spotify.com/track/33qvQJ5MmwdSJlJcVDlx8i"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Locamente",
-        "url": "https://open.spotify.com/album/5akhXBcvTPaVGrKDwvi711"
-      },
-      "artists": [
-        {
-          "name": "Paskman",
-          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
-        }
-      ],
-      "duration_ms": 139687,
-      "name": "Locamente",
-      "url": "https://open.spotify.com/track/54LL57cecNcm6sNmTglKPH"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Cuarto Oscuro / BAQ Spicy",
         "url": "https://open.spotify.com/album/4aYbDplG4136xb7Umtfq6r"
       },
@@ -1955,6 +1939,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Locamente",
+        "url": "https://open.spotify.com/album/5akhXBcvTPaVGrKDwvi711"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        }
+      ],
+      "duration_ms": 139687,
+      "name": "Locamente",
+      "url": "https://open.spotify.com/track/54LL57cecNcm6sNmTglKPH"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "La Santa",
         "url": "https://open.spotify.com/album/5RWwj0Z3WDYmBSvVacIjQA"
       },
@@ -1971,26 +1971,6 @@
       "duration_ms": 149769,
       "name": "La Santa",
       "url": "https://open.spotify.com/track/1JWCzNYRYMbt8m39RVc0Wd"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Sin Nada",
-        "url": "https://open.spotify.com/album/2KJB4mcVhzudkb8epTJwWT"
-      },
-      "artists": [
-        {
-          "name": "MelyJones",
-          "url": "https://open.spotify.com/artist/3vsmaQBqqp770E9fi4hQqG"
-        },
-        {
-          "name": "Juan Dileju",
-          "url": "https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0"
-        }
-      ],
-      "duration_ms": 199687,
-      "name": "Sin Nada",
-      "url": "https://open.spotify.com/track/6gzSd5XFpIWXWoVbS3V9ow"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2015,6 +1995,26 @@
       "duration_ms": 156923,
       "name": "HAHAHA",
       "url": "https://open.spotify.com/track/4MBcx34MIGhVcjbjUb5WAs"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Sin Nada",
+        "url": "https://open.spotify.com/album/2KJB4mcVhzudkb8epTJwWT"
+      },
+      "artists": [
+        {
+          "name": "MelyJones",
+          "url": "https://open.spotify.com/artist/3vsmaQBqqp770E9fi4hQqG"
+        },
+        {
+          "name": "Juan Dileju",
+          "url": "https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0"
+        }
+      ],
+      "duration_ms": 199687,
+      "name": "Sin Nada",
+      "url": "https://open.spotify.com/track/6gzSd5XFpIWXWoVbS3V9ow"
     },
     {
       "added_at": "2024-11-08 05:00:00",

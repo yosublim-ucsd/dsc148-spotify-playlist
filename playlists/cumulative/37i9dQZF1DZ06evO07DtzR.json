@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "\u30ea\u30ed\u30fc\u30c7\u30c3\u30c9",
+        "url": "https://open.spotify.com/album/7ISfH1G7GDz5VPAi200l2B"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324066,
+      "name": "Ghost of a smile -Instrumental-",
+      "url": "https://open.spotify.com/track/2kTIkgJpJHrNNMdE9kZjNj"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/0AMQOXe131J5SlkABq1ass"
       },

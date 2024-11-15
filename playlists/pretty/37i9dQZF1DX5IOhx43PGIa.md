@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\.  Cover: grentperez
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,155 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,162 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 99 | [Baby Blue](https://open.spotify.com/track/2P6qhc0PFVsu9xtoNfsBuo) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Baby Blue](https://open.spotify.com/album/7rBXqPaeYu6m0krqErIjs2) | 2:51 |
 | 100 | [Every Second](https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:02 |
 
-Snapshot ID: `Zy2a0AAAAACXvkWdXjJnrBIT0xUQi28+`
+Snapshot ID: `Zy2a0AAAAABTfc0E+afucIF+1TxpmJ0k`

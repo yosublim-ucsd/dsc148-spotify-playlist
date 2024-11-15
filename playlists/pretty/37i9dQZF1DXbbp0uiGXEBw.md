@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: 52Hz
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,340 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,341 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [Buôn Trăng](https://open.spotify.com/track/18AOhepmK6YUyfCDC3ui0h) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG) | [Vũ Trụ Cò Bay \(Deluxe Version\)](https://open.spotify.com/album/626xyudaD4ySeXlaelOujb) | 3:53 |
 | 50 | [Kiệt Tác Đẹp Nhất Của Thượng Đế](https://open.spotify.com/track/1eRWYJaM8jeDbliG4erWSx) | [Dinh Huong](https://open.spotify.com/artist/5BYivses3rt9TZ0SwjlAeM) | [Kiệt Tác Đẹp Nhất Của Thượng Đế](https://open.spotify.com/album/2VLMwmZXRtlTgCqdiXTphT) | 3:38 |
 
-Snapshot ID: `ZzSqFAAAAACji2M4AtX8st0vvdV5x1SO`
+Snapshot ID: `ZzSqFAAAAADYZsCfe+MEDLjMxAq/DFq9`

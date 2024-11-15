@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Simge Pınar
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,535 likes - 53 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,531 likes - 53 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 52 | [bi yol](https://open.spotify.com/track/1ddbGjxAWpshgbWoJ47Bu4) | [Gizem Kosif](https://open.spotify.com/artist/3Foixw44zgTLNs1ASHCR5I), [Eda Suluki](https://open.spotify.com/artist/1yAMATU04rAd820To5cmrb) | [bi yol](https://open.spotify.com/album/7kCN8u6QddkzCFh4Uip5vI) | 2:38 |
 | 53 | [Eskisi Gibi](https://open.spotify.com/track/1im5jYc8hO0Gc2ZdaW7FRE) | [Maral Ataman](https://open.spotify.com/artist/6WeCkvYT5OHm3Pt6h8ZgXj) | [Eskisi Gibi](https://open.spotify.com/album/5uuaBKOJaYXloTIbDRvZNx) | 3:26 |
 
-Snapshot ID: `ZzM+AAAAAABw4RXatLRxhK5JIxxcDtFW`
+Snapshot ID: `ZzM+AAAAAACWh4XK5/VU5IPcTxGIRpl8`

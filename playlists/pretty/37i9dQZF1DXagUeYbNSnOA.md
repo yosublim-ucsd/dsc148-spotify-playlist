@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Daniela Arredondo\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,776 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,782 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [4am](https://open.spotify.com/track/361sc5ItkD32f05Ss5NTfy) | [Mora Fisz](https://open.spotify.com/artist/5lWxgEnbDJYj5cetVbFmC5) | [SINESTESIA](https://open.spotify.com/album/2kuKAfS7ZFFr6uv1aW9KzE) | 3:06 |
 | 50 | [Delincuente](https://open.spotify.com/track/6rmaNeta75977RVxJ1Dj0b) | [Adames](https://open.spotify.com/artist/50oizCQ7oVszhE3QYboCqv), [Alanis Gomez](https://open.spotify.com/artist/4J0NIc3in2pXuiAeI5jnL9) | [Delincuente](https://open.spotify.com/album/01AGoOyALoEnWAzCTKcAlP) | 2:55 |
 
-Snapshot ID: `ZzQyFAAAAADDhxBfHIaHhA0y/CyY3W+N`
+Snapshot ID: `ZzQyFAAAAAA8j4IVXcf7qBlnToXg88tw`

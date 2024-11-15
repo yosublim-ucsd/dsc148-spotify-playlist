@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Hollywood Undead.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,612 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,700 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 49 | [Rockstar](https://open.spotify.com/track/7dq9owG0R2pznVhh2oLmXy) | [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa) | [Rockstar](https://open.spotify.com/album/2MNWFQngS2qlOBWU6T9AZp) | 2:55 |
 | 50 | [Our Demise](https://open.spotify.com/track/0zgRriKSxerBMB4IjyHQ6n) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [ENMY](https://open.spotify.com/album/1D3qYb40QKAHQW5RVFNwRH) | 3:10 |
 
-Snapshot ID: `Zy2a0AAAAAAnjF+SHnuQhuB5lz5jPEIw`
+Snapshot ID: `Zy2a0AAAAAADXsR3EgKU8uynV1Hs1nw8`

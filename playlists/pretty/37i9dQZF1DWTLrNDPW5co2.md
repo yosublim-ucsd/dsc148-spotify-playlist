@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: horsegiirL
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,576 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,621 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 74 | [After Afters](https://open.spotify.com/track/4sRMCWKdHIUgmaMfcJwEbB) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [Missy](https://open.spotify.com/artist/1YILZCOXQSwtHs7CbbU0S4) | [After Afters](https://open.spotify.com/album/6kEjq6GW5F5lmfDC2M8HRA) | 5:57 |
 | 75 | [Get Your Fckin Laws Off My Body](https://open.spotify.com/track/3K6QWANCq9qHhnynKAmETM) | [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [Get Your Fckin Laws Off My Body](https://open.spotify.com/album/0lJgF52PRsbQu7nYRCqZmE) | 3:07 |
 
-Snapshot ID: `Zy5exgAAAABgjpjlZ6hLwXlT5zM9SJ67`
+Snapshot ID: `Zy5exgAAAACHplpWTCvzkYQ/aIiur86c`

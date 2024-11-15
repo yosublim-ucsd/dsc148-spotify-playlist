@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,035 likes - 223 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,122 likes - 223 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -232,4 +232,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 222 | [S.E.P Field](https://open.spotify.com/track/4ObvyyrbAQGDkT0cc9pOFd) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [S.E.P Field](https://open.spotify.com/album/3vvfdE4FuWwArRf3n8E7hE) | 3:02 |
 | 223 | [Joseph's Well](https://open.spotify.com/track/1qfKWLhAOL9PBvZ5wsOhsU) | [Orange Roundabout](https://open.spotify.com/artist/5MLibyV1Zt03HCKOvJCHnB) | [Joseph's Well](https://open.spotify.com/album/7EZfQDTuKmTGircFR8XA9A) | 2:07 |
 
-Snapshot ID: `ZxY7/wAAAABCwBmMCl60EDJ4ZGF9Gi6h`
+Snapshot ID: `ZxY7/wAAAABxwieVMjoqadAOzZe47tn6`

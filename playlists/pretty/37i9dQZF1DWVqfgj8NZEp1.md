@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,579,048 likes - 123 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,579,695 likes - 123 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 122 | [Trust](https://open.spotify.com/track/1UceH3dNaxzKSG4qQ1kbp2) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Nothing Serious](https://open.spotify.com/album/5sjpnIdONG9n6c6ipjpAFo) | 5:25 |
 | 123 | [Ev'rytime We Say Goodbye](https://open.spotify.com/track/72KHUsa4UyTXpSf7jRb1ih) | [Mark Sherman](https://open.spotify.com/artist/18AQ9nxWckf5yw7XuEvten) | [My Other Voice](https://open.spotify.com/album/4bLtP25ArMR6Athup5vBTH) | 7:07 |
 
-Snapshot ID: `Zy4MuQAAAADFFi92phPkpF9AopdlXEDK`
+Snapshot ID: `Zy4MuQAAAADLnMnEsG06ROT9O/oiw7iz`

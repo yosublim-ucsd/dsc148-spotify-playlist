@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH?si=7jfvStp6S8aIJauRerC6Og\">Vigro Deep</a>, <a href=\"https://open.spotify.com/artist/1okK7TdfTbLQbgSG1hejiY?si=GoLYWoT2SuGnEVXm4g2w3A\">Freddy K</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro?si=tONXoEx0QYmhyBszhMMhvw\">Zee Nxumalo</a>",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -4180,7 +4180,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 323207,
       "name": "Bavelelwe (feat. De Soul, DJ 2K & Philharmonic)",
       "url": "https://open.spotify.com/track/1uOiRbyrwib7lZaci5vhMp"
@@ -8738,13 +8738,21 @@
         {
           "name": "Springle",
           "url": "https://open.spotify.com/artist/2MrjOkIsQao28a0Xf1Gy7F"
+        },
+        {
+          "name": "Choco Dynasty",
+          "url": "https://open.spotify.com/artist/5CiUI0GY7DG8QYBjj8vnON"
+        },
+        {
+          "name": "ManKay",
+          "url": "https://open.spotify.com/artist/6FnWTHSE2z8QRwCTnwMRyX"
         }
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 265970,
-      "name": "Endofaya (feat. Eltee & Springle)",
+      "name": "Endofaya (feat. Eltee, Springle, ChocoDynasty & Mankay)",
       "url": "https://open.spotify.com/track/5c8wNC0Q0pxOS0qWHoGPeF"
     },
     {
@@ -13352,6 +13360,48 @@
       "duration_ms": 297770,
       "name": "Intelezi",
       "url": "https://open.spotify.com/track/2tSkIpx1INBuSOaCvgiyNg"
+    },
+    {
+      "album": {
+        "name": "Lucent",
+        "url": "https://open.spotify.com/album/0zJPWuHZWvGyw8urFFcxxx"
+      },
+      "artists": [
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "DJ Exit",
+          "url": "https://open.spotify.com/artist/15sAWkoV7fE9oMkllDie9u"
+        },
+        {
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+        },
+        {
+          "name": "Marsey",
+          "url": "https://open.spotify.com/artist/1jDW08W8qgSySjjvrT8zBs"
+        },
+        {
+          "name": "CowBoii",
+          "url": "https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1"
+        },
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        },
+        {
+          "name": "Tyrone Dee",
+          "url": "https://open.spotify.com/artist/7xjxiSO9chy2VFLMbCkyog"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364247,
+      "name": "Intsango (feat. Marsey, CowBoii, Khalil Harrison, Ceeka RSA & Tyrone Dee)",
+      "url": "https://open.spotify.com/track/6qdWfZpxqVwdRryjws4oda"
     },
     {
       "album": {
@@ -27570,7 +27620,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 409529,
       "name": "Sondela (feat. TurnUpKiid, P L U T O & Lady Steezy)",
       "url": "https://open.spotify.com/track/1tHrdF8csWbQwsOpcmZl0H"
@@ -31708,6 +31758,40 @@
       "duration_ms": 364445,
       "name": "Ubuye",
       "url": "https://open.spotify.com/track/3umrhEqBQWwkK4mB4DFkge"
+    },
+    {
+      "album": {
+        "name": "Inja Ye Game",
+        "url": "https://open.spotify.com/album/6TWzyRXLmO6GW36BQDhppr"
+      },
+      "artists": [
+        {
+          "name": "Zee Nxumalo",
+          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
+        },
+        {
+          "name": "Sly",
+          "url": "https://open.spotify.com/artist/77o0pvX2EnC66Zw0nqsJmA"
+        },
+        {
+          "name": "GL_Ceejay",
+          "url": "https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Shakes & Les",
+          "url": "https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416500,
+      "name": "Ucingo",
+      "url": "https://open.spotify.com/track/10vBMr3VJCWpfnFjHM7zOf"
     },
     {
       "album": {

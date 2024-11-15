@@ -217,6 +217,32 @@
     },
     {
       "album": {
+        "name": "51 GARH",
+        "url": "https://open.spotify.com/album/7fzEw7guk8NI9GnrUdbXdd"
+      },
+      "artists": [
+        {
+          "name": "FEROZI",
+          "url": "https://open.spotify.com/artist/7MlaJqW5l4zH0FF5OyaZK8"
+        },
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "ZeroToOne",
+          "url": "https://open.spotify.com/artist/1SzCp8v0seFsO2KFHpzLVY"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161933,
+      "name": "51 GARH",
+      "url": "https://open.spotify.com/track/0mjUJvap4UkCm4K6eLGmlx"
+    },
+    {
+      "album": {
         "name": "Aadhi Si Raat",
         "url": "https://open.spotify.com/album/0BZSPb786JGd61nmAbqrPP"
       },
@@ -1048,7 +1074,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 205961,
       "name": "Chadh Chadh ke",
       "url": "https://open.spotify.com/track/0ePcqkdh2G3L8SlpxiiRTy"
@@ -1641,6 +1667,24 @@
     },
     {
       "album": {
+        "name": "Delhi X Haryana",
+        "url": "https://open.spotify.com/album/1o506YaqTbg3EaVqG3Pt5c"
+      },
+      "artists": [
+        {
+          "name": "Star Boy Loc",
+          "url": "https://open.spotify.com/artist/3fa7rhEoajjrGyb6a3IAqv"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Delhi X Haryana",
+      "url": "https://open.spotify.com/track/5hVJ9jc2YN3KGFH50AazEV"
+    },
+    {
+      "album": {
         "name": "Desi Balak Gama Ke",
         "url": "https://open.spotify.com/album/0I3sskaV7KxSZ4NVG9T7Yt"
       },
@@ -2206,7 +2250,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 227465,
       "name": "Gaama Aale",
       "url": "https://open.spotify.com/track/5ijTdZimop76sb9e7hyKbW"
@@ -2918,7 +2962,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 173333,
       "name": "Illegal",
       "url": "https://open.spotify.com/track/6L7EJzsVd50jBakdBHFDC4"
@@ -3538,7 +3582,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 167172,
       "name": "Kede Kede Yaar",
       "url": "https://open.spotify.com/track/1aeIfm41wcpQiNSN9tjs6B"
@@ -4410,7 +4454,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 185525,
       "name": "No Mercy",
       "url": "https://open.spotify.com/track/5vdsRp6ExGxmfuJ2cG5Kqx"
@@ -6036,7 +6080,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 160932,
       "name": "The Man",
       "url": "https://open.spotify.com/track/3K0egsuQ6XWbF7FFB4wwJ9"
@@ -6192,7 +6236,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 137241,
       "name": "Up-14 J & G",
       "url": "https://open.spotify.com/track/5wzyhBuKjAfPgC0H10tZUJ"
@@ -6294,7 +6338,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 144801,
       "name": "War",
       "url": "https://open.spotify.com/track/2RH3ujtsY8AqN7qfVWCQhA"

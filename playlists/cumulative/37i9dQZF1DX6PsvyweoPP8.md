@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-257 songs - 12 hr 38 min
+258 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Com saudade do pretin](https://open.spotify.com/track/7MvhbbIcTdgBSgK0cftty4) | [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Real Bege](https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP) | [Com saudade do pretin](https://open.spotify.com/album/5TJR0wrbOBZsttQjGso2Gv) | 2:14 | 2023-08-04 | 2023-12-16 |
 | [Completa](https://open.spotify.com/track/5NZME2xyp0vbOA3HdIWfWb) | [Chardii](https://open.spotify.com/artist/2f9hnj3YhZyPADXhUX69na), [AçúK](https://open.spotify.com/artist/7371NJait6rRIpctnfbuWM) | [Completa](https://open.spotify.com/album/222IQL4mF0i8DpZJbRSmwe) | 2:35 | 2023-02-17 | 2023-07-01 |
 | [Contando Malote](https://open.spotify.com/track/7shdzRK0IER1VzqQgJTtwN) | [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Contando Malote](https://open.spotify.com/album/6LK8QTYhYZtJurm38occbm) | 3:30 | 2024-06-21 |  |
+| [Contramão \(Uma série Netflix "Nova Cena"\)](https://open.spotify.com/track/1zzXD11q5023VPWNDN6cD5) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Novak Mc](https://open.spotify.com/artist/2zjtNuJYQ1BIgQxXYyDnWr) | [Contramão \(Uma série Netflix "Nova Cena"\)](https://open.spotify.com/album/0XDYhw0QFJEXaMHbKhIlpK) | 3:43 | 2024-11-15 |  |
 | [Corpo Quente](https://open.spotify.com/track/6RRVJ39Nu1GfiWhxBvixMg) | [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Corpo Quente](https://open.spotify.com/album/5kRUXL80sJ8ToO1YqbruoN) | 4:00 | 2022-03-18 |  |
 | [Criminal](https://open.spotify.com/track/4IaO5GKWcR6LdMOQH6heJM) | [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH) | [Criminal](https://open.spotify.com/album/1rl7k8GfvRB3F1MuIWyW8L) | 2:01 | 2024-09-27 |  |
 | [Curvas Finas](https://open.spotify.com/track/6yQ58h9qNLLjWfGEFLLd0Q) | [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3), [ZSS Ent.](https://open.spotify.com/artist/1L7rw4mLVQFgIkknFHkk47) | [Curvas Finas](https://open.spotify.com/album/2eGCZcCXGf1yLSEpddlgnh) | 3:04 | 2022-03-18 | 2023-09-02 |

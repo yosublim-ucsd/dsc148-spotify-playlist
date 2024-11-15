@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Nilusi",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : aupinard",
   "name": "le miel",
   "tracks": [
     {
@@ -900,7 +900,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 197122,
       "name": "DANSER DANS LES OMBRES",
       "url": "https://open.spotify.com/track/3QwMdvOkjr1Or4iFOduwD5"
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 166688,
       "name": "journ\u00e9e \u00e0 paris",
       "url": "https://open.spotify.com/track/1JNqH2aVfVqMWtZnfGyln0"
@@ -2142,7 +2142,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 172208,
       "name": "Loin",
       "url": "https://open.spotify.com/track/2dznBLafwc1Ra3wN65Rvs1"
@@ -2875,6 +2875,24 @@
     },
     {
       "album": {
+        "name": "penelope",
+        "url": "https://open.spotify.com/album/1v7dN8dszUQLX0MNQ7OT6R"
+      },
+      "artists": [
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194902,
+      "name": "penelope",
+      "url": "https://open.spotify.com/track/5NA4Hc8DDXZJRSSkYt2pUO"
+    },
+    {
+      "album": {
         "name": "Pense \u00e0 moi",
         "url": "https://open.spotify.com/album/2GYitgU6elNH7vlCqQvbKE"
       },
@@ -3024,6 +3042,24 @@
       "duration_ms": 178825,
       "name": "Pointer du doigt",
       "url": "https://open.spotify.com/track/2ZkSqGFLWlUMwDMgTIaCSQ"
+    },
+    {
+      "album": {
+        "name": "Pour nous",
+        "url": "https://open.spotify.com/album/4Hapxyg84X6fbRPUKjDduU"
+      },
+      "artists": [
+        {
+          "name": "Hind",
+          "url": "https://open.spotify.com/artist/7hn0avwajECN2szcpBTBQr"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171063,
+      "name": "Pour nous",
+      "url": "https://open.spotify.com/track/2n8kNkbHsrA0KnrN2lIPIF"
     },
     {
       "album": {
@@ -3396,6 +3432,24 @@
       "duration_ms": 176595,
       "name": "R\u00e8gles du Game",
       "url": "https://open.spotify.com/track/0mitC7wQ4uDagan8O6seV2"
+    },
+    {
+      "album": {
+        "name": "S.O.S",
+        "url": "https://open.spotify.com/album/2H8xyJFKbtT8Zp5tvDqmfE"
+      },
+      "artists": [
+        {
+          "name": "KOKE\u00cfNEJTD",
+          "url": "https://open.spotify.com/artist/1QiNcFh9MLHHNvKxjntbsP"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "S.O.S",
+      "url": "https://open.spotify.com/track/3ZQ2XyZDDcE8zyaQQTiw6t"
     },
     {
       "album": {

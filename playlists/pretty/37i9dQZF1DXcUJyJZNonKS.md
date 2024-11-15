@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUJyJZNonKS.md) - [plain]
 
 > A brand new anime season has arrived! Check back often to discover your next favorite fall anime tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,249 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,308 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUJyJZNonKS.md) - [plain]
 | 49 | [未完成ランデヴー](https://open.spotify.com/track/1LTR3KSXruE1pQCmMAPPDp) | [Lezel](https://open.spotify.com/artist/6Dt654Ld9lg3i6fjLGClz7) | [未完成ランデヴー](https://open.spotify.com/album/4SQ9TPDLGnUfuATw6HrURi) | 2:56 |
 | 50 | [おどるポンポコリン](https://open.spotify.com/track/4lEB1tqILbUcCkUDdLvNSW) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN), [まるちゃんと仲間たち](https://open.spotify.com/artist/2baYbl0HvDdfNZMJptPx3w) | [おどるポンポコリン](https://open.spotify.com/album/5GKa7qrRZbLrlZmeERGuqp) | 3:17 |
 
-Snapshot ID: `ZwlihgAAAACTLVcbi7i820d+j0E8Udbw`
+Snapshot ID: `ZwlihgAAAABlcr+SwM8x8rW/mK8D0HP7`

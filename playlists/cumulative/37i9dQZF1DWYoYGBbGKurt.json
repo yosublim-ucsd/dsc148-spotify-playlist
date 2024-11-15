@@ -8228,7 +8228,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 141176,
       "name": "Donuts",
       "url": "https://open.spotify.com/track/29aKlnFemuICJhqZPuZ1po"
@@ -8784,7 +8784,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 117804,
       "name": "Dreams Of The Broken",
       "url": "https://open.spotify.com/track/3Mt7n41cPt3oRsG9tp26LD"
@@ -10058,7 +10058,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 191999,
       "name": "Euphorie",
       "url": "https://open.spotify.com/track/3nfGBv0j5NYMMSmpSv10Ik"
@@ -16057,6 +16057,24 @@
     },
     {
       "album": {
+        "name": "itori",
+        "url": "https://open.spotify.com/album/0la60KCgnZLlyQd51CuidZ"
+      },
+      "artists": [
+        {
+          "name": "Curly Tree",
+          "url": "https://open.spotify.com/artist/4YjWmgjadiQn7HLwkb9UbQ"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132880,
+      "name": "itori",
+      "url": "https://open.spotify.com/track/1CD2MgEdfoNHPSRgSfYkn8"
+    },
+    {
+      "album": {
         "name": "Jailhouse Rock (Elvis Theme - lofi edit)",
         "url": "https://open.spotify.com/album/2qFiaEVZ8JPIIo7dOehMgx"
       },
@@ -20576,6 +20594,24 @@
       "duration_ms": 126657,
       "name": "memories",
       "url": "https://open.spotify.com/track/5R0TJAkO6H1u1ZIp5auDIc"
+    },
+    {
+      "album": {
+        "name": "memories we memories we share",
+        "url": "https://open.spotify.com/album/19yj9XW6biEBOq1BV9UtNJ"
+      },
+      "artists": [
+        {
+          "name": "Zupa Fitz",
+          "url": "https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124397,
+      "name": "memories we memories we share",
+      "url": "https://open.spotify.com/track/44cZtxOv8dYUpYPtxLkVRA"
     },
     {
       "album": {
@@ -25322,6 +25358,24 @@
       "duration_ms": 124235,
       "name": "Raincoat",
       "url": "https://open.spotify.com/track/5T41z0Wg9mPbPGXvquzaiK"
+    },
+    {
+      "album": {
+        "name": "rainfall",
+        "url": "https://open.spotify.com/album/3N3Q2QbcZdx7Oao0Cpzp5s"
+      },
+      "artists": [
+        {
+          "name": "Cozy Nordic",
+          "url": "https://open.spotify.com/artist/5bXNQJuvFUMikwDTTOg5ou"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "rainfall",
+      "url": "https://open.spotify.com/track/09pqU72mUtEf18YHWlnNkd"
     },
     {
       "album": {
@@ -30788,7 +30842,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 145945,
       "name": "Swaype",
       "url": "https://open.spotify.com/track/0YRWFGr8QkH3GhmcLYOUTv"
@@ -33006,7 +33060,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 211572,
       "name": "Transformational",
       "url": "https://open.spotify.com/track/6ryGqXtiG3azBVqCFBHIM8"

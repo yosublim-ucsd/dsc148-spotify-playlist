@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Casero.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Yarea.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -297,6 +297,24 @@
     },
     {
       "album": {
+        "name": "Canciones Inestimables",
+        "url": "https://open.spotify.com/album/08rkWDKoRJ7sGyih1sAsIO"
+      },
+      "artists": [
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202906,
+      "name": "Antes nubes",
+      "url": "https://open.spotify.com/track/6qdKpF4TtjaAHdhL7dwgRG"
+    },
+    {
+      "album": {
         "name": "Arena x mis Venas",
         "url": "https://open.spotify.com/album/1gGTholtzoCEZfQ29miWdK"
       },
@@ -587,6 +605,24 @@
     },
     {
       "album": {
+        "name": "Involuntario",
+        "url": "https://open.spotify.com/album/6LfnEvb70qUCNej8pjSThO"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164538,
+      "name": "Capacidad",
+      "url": "https://open.spotify.com/track/3a05DEOKql1GI1dqLXHzJf"
+    },
+    {
+      "album": {
         "name": "Cardio y caladas",
         "url": "https://open.spotify.com/album/5Ovc1AHGFdDn3m03phgIHU"
       },
@@ -857,6 +893,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n vaquero",
+        "url": "https://open.spotify.com/album/6vzNVVfoMoxv9oga5Yj7Q5"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187128,
+      "name": "Coraz\u00f3n vaquero",
+      "url": "https://open.spotify.com/track/7eU3gSFZRfaX48jQ8tT1sd"
+    },
+    {
+      "album": {
         "name": "Cortingl\u00e9s",
         "url": "https://open.spotify.com/album/0kIU4OpzZk14GM24f3Av2Q"
       },
@@ -1122,7 +1176,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 207140,
       "name": "Digna De Ti",
       "url": "https://open.spotify.com/track/19odA5QVIAUWOoicTBduJ5"
@@ -1422,7 +1476,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 242168,
       "name": "Enamorado de tu reverb",
       "url": "https://open.spotify.com/track/5vL5TRZdmuP7OGY93zaFRs"
@@ -1636,7 +1690,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 189600,
       "name": "ETERNO RESPLANDOR",
       "url": "https://open.spotify.com/track/3CZBERnMlSszfxH5I4SGQS"
@@ -2166,6 +2220,28 @@
       "duration_ms": 216373,
       "name": "la del cretino",
       "url": "https://open.spotify.com/track/3FqV5v3r3WZ0NFlFc1WgPX"
+    },
+    {
+      "album": {
+        "name": "La Luna y el Sol",
+        "url": "https://open.spotify.com/album/0ToGibJOn1bfAdexcLgAwp"
+      },
+      "artists": [
+        {
+          "name": "Colectivo Da Silva",
+          "url": "https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY"
+        },
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216001,
+      "name": "La Luna y el Sol",
+      "url": "https://open.spotify.com/track/22dPq3GM82vwX3WXi1lQQf"
     },
     {
       "album": {
@@ -2886,7 +2962,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 199600,
       "name": "Morir en otra habitaci\u00f3n",
       "url": "https://open.spotify.com/track/5edvbrdzSYTOunsFgog4xq"
@@ -3346,7 +3422,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 150820,
       "name": "Pastillas",
       "url": "https://open.spotify.com/track/36mMs8JprenzdxI1FYa08k"
@@ -3707,6 +3783,24 @@
     },
     {
       "album": {
+        "name": "Salvavidas",
+        "url": "https://open.spotify.com/album/7fR1EcIUbc5P3KdxSBTEfG"
+      },
+      "artists": [
+        {
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179408,
+      "name": "Salvavidas",
+      "url": "https://open.spotify.com/track/5YGrazDskXyeiUFhGLjHj1"
+    },
+    {
+      "album": {
         "name": "Se siente bien",
         "url": "https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI"
       },
@@ -3888,6 +3982,24 @@
       "duration_ms": 187013,
       "name": "Stratocarte",
       "url": "https://open.spotify.com/track/2h8PMO2V40LE6xXq3oX9pO"
+    },
+    {
+      "album": {
+        "name": "SUSANA",
+        "url": "https://open.spotify.com/album/2Nsd5rzzglUvOMPW92wJ0s"
+      },
+      "artists": [
+        {
+          "name": "Confeti de Odio",
+          "url": "https://open.spotify.com/artist/3C1CPJ9K2aeHuj1x22B0qJ"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165280,
+      "name": "SUSANA",
+      "url": "https://open.spotify.com/track/58hxPfgSJZKp2AoRlU0mQS"
     },
     {
       "album": {
@@ -4192,7 +4304,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 145408,
       "name": "Tu Buen Chaval",
       "url": "https://open.spotify.com/track/3co2WqpeIhiQI21jz2l2qm"

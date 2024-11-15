@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158794,
+  "num_followers": 158800,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy1+7AAAAAC2rETFmMEMc00eaC7HbiwX",
+  "snapshot_id": "Zy1+7AAAAABeWHFAYNhxqGcL7SsFvOAa",
   "tracks": [
     {
       "added_at": "2024-11-08 03:01:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
+        "name": "De Peito Aberto",
+        "url": "https://open.spotify.com/album/1ApkjW1tSvt1tDghtCPJOl"
+      },
+      "artists": [
+        {
+          "name": "Tx\u00e9llo",
+          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
+        }
+      ],
+      "duration_ms": 121429,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/4h0HYqFb5w2CUm7fbLTn8z"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
         "name": "Fim de Semana",
         "url": "https://open.spotify.com/album/1VseR4x7w6UFb9BlxQAZqM"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 200040,
       "name": "Talvez",
       "url": "https://open.spotify.com/track/0Pxcs6Fywg3Tvr7trl8FjC"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "De Peito Aberto",
-        "url": "https://open.spotify.com/album/1ApkjW1tSvt1tDghtCPJOl"
-      },
-      "artists": [
-        {
-          "name": "Tx\u00e9llo",
-          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
-        }
-      ],
-      "duration_ms": 121429,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/4h0HYqFb5w2CUm7fbLTn8z"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -1195,34 +1195,6 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Elementar",
-        "url": "https://open.spotify.com/album/5ovrFL7jWNeZo4G60HlOAq"
-      },
-      "artists": [
-        {
-          "name": "Gabi Terreiro",
-          "url": "https://open.spotify.com/artist/47h0ARjXa0XT33CgBF0o2G"
-        },
-        {
-          "name": "Theus Terreiro",
-          "url": "https://open.spotify.com/artist/20lXAO0WbrxNENfAnsj1wg"
-        },
-        {
-          "name": "YellowLab",
-          "url": "https://open.spotify.com/artist/4oI7Lvu0tN4iZyMmGe93k4"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        }
-      ],
-      "duration_ms": 170700,
-      "name": "Deixa Queimar",
-      "url": "https://open.spotify.com/track/6jj0UwiD4y1LnlNJ5FuxZf"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
         "name": "Stories",
         "url": "https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R"
       },
@@ -1255,6 +1227,34 @@
       "duration_ms": 105600,
       "name": "Mar Azul",
       "url": "https://open.spotify.com/track/0O7mQ3AEwQnfRctOT7n8tt"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "Elementar",
+        "url": "https://open.spotify.com/album/5ovrFL7jWNeZo4G60HlOAq"
+      },
+      "artists": [
+        {
+          "name": "Gabi Terreiro",
+          "url": "https://open.spotify.com/artist/47h0ARjXa0XT33CgBF0o2G"
+        },
+        {
+          "name": "Theus Terreiro",
+          "url": "https://open.spotify.com/artist/20lXAO0WbrxNENfAnsj1wg"
+        },
+        {
+          "name": "YellowLab",
+          "url": "https://open.spotify.com/artist/4oI7Lvu0tN4iZyMmGe93k4"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "duration_ms": 170700,
+      "name": "Deixa Queimar",
+      "url": "https://open.spotify.com/track/6jj0UwiD4y1LnlNJ5FuxZf"
     },
     {
       "added_at": "2024-11-08 03:01:00",

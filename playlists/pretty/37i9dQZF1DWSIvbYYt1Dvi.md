@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > quem deu AULAS em poetas no topo 4??
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,178,536 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,178,470 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Seu](https://open.spotify.com/track/20uJrdNdBRS6L1SMlaWTyR) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [de: para:](https://open.spotify.com/album/5eWtjMLQlSVVC7fa1f7hk3) | 2:30 |
 | 50 | [Sessão de Descarrego](https://open.spotify.com/track/3XbzoSACIrINiWM440rXBT) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Mano Fler](https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Sessão de Descarrego](https://open.spotify.com/album/0a0UA8zteU2rkHogTnI7Zg) | 5:02 |
 
-Snapshot ID: `Zy1+7AAAAABhlD8tAtfokX9+vaAMJlBN`
+Snapshot ID: `Zy1+7AAAAAC7Ekwr8DG65+9me6Ol3wtm`

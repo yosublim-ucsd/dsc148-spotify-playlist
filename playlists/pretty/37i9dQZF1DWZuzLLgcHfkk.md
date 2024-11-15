@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuzLLgcHfkk.md) - [plain]
 
 > Summer breeze, makes me feel fine...
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,424 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,425 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuzLLgcHfkk.md) - [plain]
 | 59 | [Long Hot Summer \- Single Edit](https://open.spotify.com/track/3Flian08Kq8EunBTEsQxb4) | [The Style Council](https://open.spotify.com/artist/3loflELg7MzgrOyNqERolN) | [Greatest Hits](https://open.spotify.com/album/1fJOCKaWZLrglALU9yAH8T) | 3:49 |
 | 60 | [Red Red Wine](https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [The Very Best Of](https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum) | 3:03 |
 
-Snapshot ID: `ZXgfWAAAAABOGXAOdz2sCMB/j9NhW4HN`
+Snapshot ID: `ZXgfWAAAAAAVsfW/sXDF6lsCql/xw6MY`

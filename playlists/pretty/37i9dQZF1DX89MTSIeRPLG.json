@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 19720,
+  "num_followers": 19732,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZIsTuAAAAABU31LL0xOcN9eUGvyKOcDq",
+  "snapshot_id": "ZIsTuAAAAABpiVzQITipcb//5AiDLM5i",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "B.H.D. (Black Hearted Demon)",
+        "url": "https://open.spotify.com/album/2Qeie0AYfdOr2Y0Gp9qCIT"
+      },
+      "artists": [
+        {
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Hands Down",
+      "url": "https://open.spotify.com/track/0AjxDudmpT7MMkqtwCtJbE"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Freaky As Me",
         "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 129662,
       "name": "Freaky As Me (feat. latto)",
       "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "B.H.D. (Black Hearted Demon)",
-        "url": "https://open.spotify.com/album/2Qeie0AYfdOr2Y0Gp9qCIT"
-      },
-      "artists": [
-        {
-          "name": "Seddy Hendrinx",
-          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Hands Down",
-      "url": "https://open.spotify.com/track/0AjxDudmpT7MMkqtwCtJbE"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Daily Bread",
-        "url": "https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "Daily Bread",
-      "url": "https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 255093,
       "name": "LOVE (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/19FE7YCq8xxijzQNqFnGAd"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Daily Bread",
+        "url": "https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 171773,
+      "name": "Daily Bread",
+      "url": "https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh"
     },
     {
       "added_at": "2022-10-01 20:31:11",

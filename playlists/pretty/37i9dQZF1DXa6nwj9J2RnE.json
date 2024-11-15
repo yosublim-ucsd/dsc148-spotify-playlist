@@ -1,47 +1,15 @@
 {
-  "description": "edgy en met karakter. cover: NOAH",
-  "num_followers": 26345,
+  "description": "edgy en met karakter. cover: Fresku",
+  "num_followers": 26346,
   "original_name": "karakter.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxrDYAAAAABXEEsSwcE8o8KUsgkFNULa",
+  "snapshot_id": "ZzaA8AAAAADGGfX5XeNLnsKCqQioeslr",
   "tracks": [
     {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Zeeziek / Kijken Kijken Niet Kopen",
-        "url": "https://open.spotify.com/album/6zcBCWHmXtCCaJKxaEJ8Ms"
-      },
-      "artists": [
-        {
-          "name": "NOAH",
-          "url": "https://open.spotify.com/artist/79sYawfJOgDrPi0FtRsYRy"
-        }
-      ],
-      "duration_ms": 195187,
-      "name": "Kijken Kijken Niet Kopen",
-      "url": "https://open.spotify.com/track/1KDkIyyEKXRKeOT3SLGRR3"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Zonneschijn",
-        "url": "https://open.spotify.com/album/1p4Kk4pC4kdG2lKFsIpAMP"
-      },
-      "artists": [
-        {
-          "name": "Sticks",
-          "url": "https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Zonneschijn",
-      "url": "https://open.spotify.com/track/3YNi7SUz1wRA7MK0QLKJFy"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Begrijpen",
         "url": "https://open.spotify.com/album/0Uc96KfRENg7XxjYbntHfd"
@@ -57,7 +25,79 @@
       "url": "https://open.spotify.com/track/6KQa90WZ8CYiurAmAULQ2A"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Oude Westen",
+        "url": "https://open.spotify.com/album/4ufmikIw2vPqeEmgzj2psB"
+      },
+      "artists": [
+        {
+          "name": "Winne",
+          "url": "https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9"
+        }
+      ],
+      "duration_ms": 322443,
+      "name": "Oude Westen",
+      "url": "https://open.spotify.com/track/2Lc8tW0PUPjinHvX41Mw8p"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Zonneschijn",
+        "url": "https://open.spotify.com/album/1p4Kk4pC4kdG2lKFsIpAMP"
+      },
+      "artists": [
+        {
+          "name": "Sticks",
+          "url": "https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Zonneschijn",
+      "url": "https://open.spotify.com/track/3YNi7SUz1wRA7MK0QLKJFy"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "EQUINOX",
+        "url": "https://open.spotify.com/album/44sDk4Wtd4pqw4ZEOAKxJC"
+      },
+      "artists": [
+        {
+          "name": "Zwangere Guy",
+          "url": "https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0"
+        },
+        {
+          "name": "gala dragot",
+          "url": "https://open.spotify.com/artist/5bec6G42etdHwqurstmocM"
+        },
+        {
+          "name": "Chuki Beats",
+          "url": "https://open.spotify.com/artist/3I2KQWCAh5aOh1YJ62LIlQ"
+        }
+      ],
+      "duration_ms": 263333,
+      "name": "EQUINOX - from \u201cPUTAIN\u201d",
+      "url": "https://open.spotify.com/track/6yRz2tVRLuDjsOZdPnRLL3"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Zeeziek / Kijken Kijken Niet Kopen",
+        "url": "https://open.spotify.com/album/6zcBCWHmXtCCaJKxaEJ8Ms"
+      },
+      "artists": [
+        {
+          "name": "NOAH",
+          "url": "https://open.spotify.com/artist/79sYawfJOgDrPi0FtRsYRy"
+        }
+      ],
+      "duration_ms": 195187,
+      "name": "Kijken Kijken Niet Kopen",
+      "url": "https://open.spotify.com/track/1KDkIyyEKXRKeOT3SLGRR3"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Narco X Styn, Vol. 2",
         "url": "https://open.spotify.com/album/6od93VFVENEY1ONPaZxXSt"
@@ -81,7 +121,55 @@
       "url": "https://open.spotify.com/track/6YsPVmEVQLHKv8ekF7Kkom"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "okaaay!",
+        "url": "https://open.spotify.com/album/2LM60WZ3dGz86bf0Lo3Q9A"
+      },
+      "artists": [
+        {
+          "name": "Viccens",
+          "url": "https://open.spotify.com/artist/2K8dGC0TSoOaL4DpuoZBB7"
+        }
+      ],
+      "duration_ms": 209189,
+      "name": "okaaay!",
+      "url": "https://open.spotify.com/track/62QAdptvaXqFx4o1SfjRLJ"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Nachtblind",
+        "url": "https://open.spotify.com/album/24DodGp1X7O17mu0kiKInY"
+      },
+      "artists": [
+        {
+          "name": "ISA\u00cf",
+          "url": "https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2"
+        }
+      ],
+      "duration_ms": 171600,
+      "name": "Piramide",
+      "url": "https://open.spotify.com/track/0vUfd8TGyDlK8lTa9mxywv"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Ik Kijk Soms Naar Jou",
+        "url": "https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx"
+      },
+      "artists": [
+        {
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        }
+      ],
+      "duration_ms": 182621,
+      "name": "Ik Kijk Soms Naar Jou",
+      "url": "https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Safari",
         "url": "https://open.spotify.com/album/6Ls71z8Zwbzw6zMwxWkv2a"
@@ -101,7 +189,7 @@
       "url": "https://open.spotify.com/track/63m0FSZlrlvZsw4NqC2ZJA"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Cherry Jenna",
         "url": "https://open.spotify.com/album/2VHfRNDamToZvkCwOJPJeX"
@@ -117,23 +205,7 @@
       "url": "https://open.spotify.com/track/0h24UrPhMr4JfpedGFYCJ7"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Ik Kijk Soms Naar Jou",
-        "url": "https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx"
-      },
-      "artists": [
-        {
-          "name": "Mula B",
-          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
-        }
-      ],
-      "duration_ms": 182621,
-      "name": "Ik Kijk Soms Naar Jou",
-      "url": "https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Scherpe Knuffels",
         "url": "https://open.spotify.com/album/0anx93DQrlfeKHUrghM61f"
@@ -149,7 +221,7 @@
       "url": "https://open.spotify.com/track/6617xQW6elVgqDInCMI1wu"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Vergeet Jou Niet (feat. Wally)",
         "url": "https://open.spotify.com/album/0BOxEoEM87IXA7Pw0XTIcz"
@@ -173,7 +245,7 @@
       "url": "https://open.spotify.com/track/648kXsKKtNVzzZeQiTAjQg"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "OPEN",
         "url": "https://open.spotify.com/album/6ofyMWnnOfhJ7KiCQxtqvx"
@@ -189,7 +261,7 @@
       "url": "https://open.spotify.com/track/0ITnIwJPzu6GDXgPnM3gFk"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "RAFTING GOODS VOLUME 3: B",
         "url": "https://open.spotify.com/album/1qiWLvHbZIYft7i0fnLRYj"
@@ -221,7 +293,7 @@
       "url": "https://open.spotify.com/track/4GdGRygo9vCACh7OsVRGCq"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "het mag ook eens stil zijn",
         "url": "https://open.spotify.com/album/58PcHZcFJS46s1JxKD2iWt"
@@ -241,7 +313,7 @@
       "url": "https://open.spotify.com/track/65ksmDOUjUvSiky8MRpnma"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "IJSLAND",
         "url": "https://open.spotify.com/album/3Rqpc58WsgqBIDG3KVMiNB"
@@ -265,7 +337,7 @@
       "url": "https://open.spotify.com/track/5G541x6fM9OfUWBPjg9qqZ"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/0MMxrTsLuIeiTYEK8alNJc"
@@ -281,23 +353,7 @@
       "url": "https://open.spotify.com/track/1jAJ9FXLqs3HdBZ7o1TF02"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Het Valt Niet Uit De Lucht",
-        "url": "https://open.spotify.com/album/5r3l8KL9HprbvEvOOPGzZm"
-      },
-      "artists": [
-        {
-          "name": "Sammie Sedano",
-          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
-        }
-      ],
-      "duration_ms": 124448,
-      "name": "Het Valt Niet Uit De Lucht",
-      "url": "https://open.spotify.com/track/58imytk9xaRuOmyyMDPXlz"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "met de tijd",
         "url": "https://open.spotify.com/album/59XkvhOOonvoAZkgnHYCSg"
@@ -317,7 +373,7 @@
       "url": "https://open.spotify.com/track/2AqLfjC2r4jBJZ95MqyUGa"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Huilen In De Rokersruimte",
         "url": "https://open.spotify.com/album/4xnKLvwiSiEibu83ZhQt8C"
@@ -345,7 +401,7 @@
       "url": "https://open.spotify.com/track/0x8UNO5jrfgzkg9fxSdcKJ"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Who Sees",
         "url": "https://open.spotify.com/album/6GUZ4D4qd2XmNw6JQXpC1V"
@@ -361,23 +417,23 @@
       "url": "https://open.spotify.com/track/4BTCelgKznFzvPM4Nz93Sz"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "No Control",
-        "url": "https://open.spotify.com/album/04LCjxpQJP69yCB5ZPMHvz"
+        "name": "Het Valt Niet Uit De Lucht",
+        "url": "https://open.spotify.com/album/5r3l8KL9HprbvEvOOPGzZm"
       },
       "artists": [
         {
-          "name": "Lilian Hak",
-          "url": "https://open.spotify.com/artist/3h5PRBvE4jKVjXZq1cqMqH"
+          "name": "Sammie Sedano",
+          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
         }
       ],
-      "duration_ms": 174786,
-      "name": "No Control",
-      "url": "https://open.spotify.com/track/0iLvu7hCQfd5gt5pdd3hj2"
+      "duration_ms": 124448,
+      "name": "Het Valt Niet Uit De Lucht",
+      "url": "https://open.spotify.com/track/58imytk9xaRuOmyyMDPXlz"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Heilig",
         "url": "https://open.spotify.com/album/6zGVciLVEfYWzPK24jgerH"
@@ -393,7 +449,7 @@
       "url": "https://open.spotify.com/track/51HKork5xatPaqGjyxQ2Bt"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "RAFTING GOODS VOLUME 3: C",
         "url": "https://open.spotify.com/album/5P7UtbJRaDlXvBX8jdTi55"
@@ -421,7 +477,7 @@
       "url": "https://open.spotify.com/track/0hze0MR3gxkWaCSMx7wYYN"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Zeeziek / Kijken Kijken Niet Kopen",
         "url": "https://open.spotify.com/album/6zcBCWHmXtCCaJKxaEJ8Ms"
@@ -437,7 +493,7 @@
       "url": "https://open.spotify.com/track/7zKV5vAHdAW2PUWeSoveFb"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "In Mijn Ritme",
         "url": "https://open.spotify.com/album/53zn3XqI41ya1dosLPr2Ky"
@@ -453,7 +509,7 @@
       "url": "https://open.spotify.com/track/4NypvDwmgKjZ9UYFQ7mxIW"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "2 SCHORPIOENEN / MENSEN ZOALS WIJ",
         "url": "https://open.spotify.com/album/1LOXaDwD16CU5WVcrcDD9t"
@@ -473,7 +529,7 @@
       "url": "https://open.spotify.com/track/70kKaMHh92fiWfElpJSMLj"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "MASQUERADE",
         "url": "https://open.spotify.com/album/0VFnIiRSSQgULtV8kZPEcr"
@@ -493,7 +549,7 @@
       "url": "https://open.spotify.com/track/4lItc3a4LKpKeTlpKvlj4r"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Twintig (Deluxe)",
         "url": "https://open.spotify.com/album/3XMS2yUTeOaTGaqovGhAci"
@@ -513,7 +569,7 @@
       "url": "https://open.spotify.com/track/4fNLoZ0PmHqO0dY5xorh2L"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "mensenkind",
         "url": "https://open.spotify.com/album/2ezRCf4Loqn8azlJxAV6QM"
@@ -529,7 +585,7 @@
       "url": "https://open.spotify.com/track/26QmlgDd3OyGvXPjueLSHW"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Ik Geloof In Ons",
         "url": "https://open.spotify.com/album/6wGDNiaxQTLoENHVDdOKzk"
@@ -545,7 +601,7 @@
       "url": "https://open.spotify.com/track/2r0qqqYJW7eMhAUaDMSKmH"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Spuug van God",
         "url": "https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM"
@@ -565,7 +621,7 @@
       "url": "https://open.spotify.com/track/0QjKb4z3dZK6a3unYnki1C"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Narcopop",
         "url": "https://open.spotify.com/album/0oWnZBk90oMGqXRIueDk98"
@@ -581,7 +637,7 @@
       "url": "https://open.spotify.com/track/59B2swrX8DdCl0zDXrHXu9"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "De Herontdekking van de Hemel",
         "url": "https://open.spotify.com/album/172ilQwAfgCFlnRLgFw21K"
@@ -601,7 +657,7 @@
       "url": "https://open.spotify.com/track/3g017qh4UEXI197SLGOTHH"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "VOLGEND WATER",
         "url": "https://open.spotify.com/album/5spkxtK1yVIfaJTXKF7gil"
@@ -617,7 +673,7 @@
       "url": "https://open.spotify.com/track/1GTiOgLHzzCnrIyWQY0ehe"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "insane",
         "url": "https://open.spotify.com/album/7kPnvLJER6IwTXXZOcP4Fr"
@@ -633,7 +689,7 @@
       "url": "https://open.spotify.com/track/1muvuktoG1chI2mOSEf7W1"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Maankind",
         "url": "https://open.spotify.com/album/14ScUgJJXyRXGLvgHmXxBm"
@@ -649,7 +705,7 @@
       "url": "https://open.spotify.com/track/795QtrTw8oPj6A3r37VRLk"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "ENERGIE",
         "url": "https://open.spotify.com/album/4DAAPsmrW61T7EuhrQHzpl"
@@ -669,35 +725,7 @@
       "url": "https://open.spotify.com/track/3GeYpZcJMoSraXaiKG4yqq"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Mayhem (feat. Naaz)",
-        "url": "https://open.spotify.com/album/7iEPz4WQ618rjOYC5QYy96"
-      },
-      "artists": [
-        {
-          "name": "Pete Philly & Perquisite",
-          "url": "https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3"
-        },
-        {
-          "name": "Pete Philly",
-          "url": "https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO"
-        },
-        {
-          "name": "Perquisite",
-          "url": "https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2"
-        },
-        {
-          "name": "Naaz",
-          "url": "https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8"
-        }
-      ],
-      "duration_ms": 204839,
-      "name": "Mayhem (feat. Naaz)",
-      "url": "https://open.spotify.com/track/5bwPnJFIx1DdkycTgmtRTM"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Glimlach",
         "url": "https://open.spotify.com/album/0sp4L9XfnB46QDVXSK4e0w"
@@ -713,39 +741,7 @@
       "url": "https://open.spotify.com/track/1afTlfRCu5cMYOJWoFoXe1"
     },
     {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "UTTERLY MISTAKEN",
-        "url": "https://open.spotify.com/album/0IkT1RbrxEQLDv59ySR6ca"
-      },
-      "artists": [
-        {
-          "name": "FLORA",
-          "url": "https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W"
-        }
-      ],
-      "duration_ms": 145073,
-      "name": "OUT LOUD",
-      "url": "https://open.spotify.com/track/7BMOCSHP4JqzgRa4Dukf2W"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Marathon I",
-        "url": "https://open.spotify.com/album/4bvQPPSsD0iGIjqf1OYEu5"
-      },
-      "artists": [
-        {
-          "name": "Jacht",
-          "url": "https://open.spotify.com/artist/6idnmcf67erjR8vE9qLIoO"
-        }
-      ],
-      "duration_ms": 131400,
-      "name": "Marathon I",
-      "url": "https://open.spotify.com/track/5VBT9JcgyoBvM7Uau4X57d"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Narco X Styn, Vol. 1",
         "url": "https://open.spotify.com/album/4gI8wrYyoWCFbUBwkYbJ1l"

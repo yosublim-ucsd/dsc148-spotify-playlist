@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 90226,
       "name": "Crescere",
       "url": "https://open.spotify.com/track/2od3nRU5dcXVFqJagNco8p"
@@ -1800,6 +1800,32 @@
       "duration_ms": 166574,
       "name": "HATTORI HANZO (feat. Madame)",
       "url": "https://open.spotify.com/track/5e6Qu6LyjBJ3xROHLhwcTT"
+    },
+    {
+      "album": {
+        "name": "Hyundai (feat. Nitro & Vegas Jones)",
+        "url": "https://open.spotify.com/album/63DSYQz1kJNpQvzzd8pXkO"
+      },
+      "artists": [
+        {
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+        },
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        },
+        {
+          "name": "Vegas Jones",
+          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163800,
+      "name": "Hyundai (feat. Nitro & Vegas Jones)",
+      "url": "https://open.spotify.com/track/3T7gz5HBmHlkAWcUJqbMAS"
     },
     {
       "album": {
@@ -3652,7 +3678,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 123798,
       "name": "Ricordi",
       "url": "https://open.spotify.com/track/0HoCx0ikdzIBTtBIsLECYt"

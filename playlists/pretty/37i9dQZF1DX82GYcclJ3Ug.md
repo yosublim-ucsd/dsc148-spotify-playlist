@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: half•alive
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,129,277 likes - 126 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,129,346 likes - 126 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 125 | [Defense](https://open.spotify.com/track/7MarkM3buE9DyaEZ59b7vy) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Cindy Lee](https://open.spotify.com/artist/0TZExq5Dma8hecEIAKwQYA) | [Defense](https://open.spotify.com/album/5gWXFTEpeIaxjXo97WTy27) | 4:35 |
 | 126 | [I'm So Happy](https://open.spotify.com/track/4kwGTSGsvfoU8pNDpdntzw) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [I'm So Happy](https://open.spotify.com/album/1YhROhBLGiTjyyC9lCTk7s) | 2:26 |
 
-Snapshot ID: `Zy2dcwAAAACxVOPVxWINp5ovgAZgK2tt`
+Snapshot ID: `Zy2dcwAAAADYGGakNO7fHbWg/9YnlwGh`

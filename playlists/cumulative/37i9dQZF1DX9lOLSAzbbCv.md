@@ -4,7 +4,7 @@
 
 > Хіти українського репу\. Обкладинка: Santorin
 
-91 songs - 4 hr 7 min
+92 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Світло](https://open.spotify.com/track/1p77OCNbIxAS5LgFcgCsYe) | [BITZ](https://open.spotify.com/artist/6XiC61alnuiMUVER6692Y1) | [Світло](https://open.spotify.com/album/2tpRUaFGcgiwW5MkrVD9zK) | 3:12 | 2024-06-27 |  |
 | [Силует](https://open.spotify.com/track/0mbcTZx7O3AuzGUq6gr8cP) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Силует](https://open.spotify.com/album/0tSdTxlQfSG4RAbJ4oeqaV) | 2:16 | 2024-06-27 |  |
 | [Скло](https://open.spotify.com/track/5y0Au3AVRCl39nYhWheASD) | [BOTASHE](https://open.spotify.com/artist/1sKj3mJo5bTjxYbrcXjgtE) | [Скло](https://open.spotify.com/album/3zWoJ0mqmwIUiGv5mRWI9a) | 3:51 | 2024-11-08 |  |
+| [Спальний](https://open.spotify.com/track/4N1rVhNEDZgojA0FJo2fLw) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE), [dim.slavyanin](https://open.spotify.com/artist/0AfLEABICJVRqs0NYXgKck), [АрХангел](https://open.spotify.com/artist/7Lkrx8ZHssF4eRu7lSHJxJ) | [Спальний](https://open.spotify.com/album/3uNnCjavL1xVjW7Vy1o6gP) | 2:34 | 2024-11-14 |  |
 | [Спокійно](https://open.spotify.com/track/5ZzJLKhtA6u1Y2DlnvckKl) | [DOVI](https://open.spotify.com/artist/3PI6jFJpFKYyrHmTw0yxo5) | [Спокійно](https://open.spotify.com/album/78vCVFOdr8Nf3tLyhvGoB4) | 2:48 | 2024-06-27 | 2024-08-02 |
 | [Сумую](https://open.spotify.com/track/01sV1rP6ZzESFNrxiYiRiB) | [Шершень](https://open.spotify.com/artist/1cyp9wA0OBU8KiqZdb8Xdc), [ТИША](https://open.spotify.com/artist/3tFAzGuMTXgSd5TpUdaTTi) | [Сумую](https://open.spotify.com/album/1VLHjSCWGeZfXJiFeg0feU) | 3:32 | 2024-11-08 |  |
 | [Там де](https://open.spotify.com/track/49kUtDPC9MfiKvA6mf9QV5) | [BOTASHE](https://open.spotify.com/artist/1sKj3mJo5bTjxYbrcXjgtE) | [Там де](https://open.spotify.com/album/00GEtthzXcPEkxnkCbxY1m) | 3:47 | 2024-06-27 |  |
@@ -89,7 +90,7 @@
 | [Хтось знов](https://open.spotify.com/track/0Vm4NWdhNGw3h7sfuMwHtR) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Agape](https://open.spotify.com/artist/1eoBefJrss6NPw15LCfPN7) | [Хтось знов](https://open.spotify.com/album/6p7dEuW2UhfgUFHEks3yil) | 2:31 | 2024-06-27 | 2024-08-16 |
 | [Це любов](https://open.spotify.com/track/1wC8M93ofAwfrV9a4mDzYa) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Це любов](https://open.spotify.com/album/2kZi9EkuwliINWGlTF4PXR) | 2:36 | 2024-06-27 |  |
 | [Час](https://open.spotify.com/track/3YUlBCX1qQoyA4ese1Zjk7) | [Олександр Положинський](https://open.spotify.com/artist/6NKa3iTFT9Yifg6vJnoIw1), [Тарас Петриненко](https://open.spotify.com/artist/7HrbK9tqBnxqIZJM6G2Nkv) | [Час](https://open.spotify.com/album/2Y2pz9BwOUod8nTE1JunDy) | 3:14 | 2024-09-12 | 2024-11-09 |
-| [Чекаю на ніч](https://open.spotify.com/track/6uwvm0ZMHCMVxE9XPU6UA5) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE) | [Чекаю на ніч](https://open.spotify.com/album/4IQuXEYq1dRFFhPunJRCS6) | 1:58 | 2024-06-27 |  |
+| [Чекаю на ніч](https://open.spotify.com/track/6uwvm0ZMHCMVxE9XPU6UA5) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE) | [Чекаю на ніч](https://open.spotify.com/album/4IQuXEYq1dRFFhPunJRCS6) | 1:58 | 2024-06-27 | 2024-11-15 |
 | [Червона нитка](https://open.spotify.com/track/69KPutzqYvBjVGnp3k2cf1) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Ann in Black](https://open.spotify.com/artist/4HSiAq2sw2h2nGx8KMW0ik) | [Червона нитка](https://open.spotify.com/album/1UAHXsFvxWNi9pnlsiTqdp) | 2:37 | 2024-08-15 |  |
 | [Честер](https://open.spotify.com/track/4sUa5WnOxAeNItdV3vhoX3) | [Міша Правильний](https://open.spotify.com/artist/6yvtjGJV6Q5XayHVYb3Q1N), [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [Честер](https://open.spotify.com/album/2rDRBKyMrXyY0eETN0Zke3) | 3:17 | 2024-09-12 |  |
 | [Чуттєво й зворушливо](https://open.spotify.com/track/69d7LFyrraty4buwYsXeGf) | [VovaZiLvova](https://open.spotify.com/artist/7MFvm8pwjLdmVBZddGNiQH), [Схожа](https://open.spotify.com/artist/70MEj6TnbVEjYdKgE8ZRGC) | [Чуттєво й зворушливо](https://open.spotify.com/album/3CLJUopbto0GE7LitWF5wr) | 2:27 | 2024-06-27 | 2024-08-02 |

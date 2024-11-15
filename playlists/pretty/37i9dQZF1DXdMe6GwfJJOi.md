@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMe6GwfJJOi.md) - [plain]
 
 > Protect the one you love\. Listen to the music from Supacell, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,631 likes - 40 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,636 likes - 40 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMe6GwfJJOi.md) - [plain]
 | 39 | [2man Step](https://open.spotify.com/track/3HdOD7bspjx1kwcypPhl4O) | [DeeOrSlim](https://open.spotify.com/artist/0RKAtzzwqFICIFLTCTTHDN) | [2man Step](https://open.spotify.com/album/5u8OmEdcTKo8wMZIvKuqAi) | 2:30 |
 | 40 | [Ambush](https://open.spotify.com/track/0D6hupFxwsw3Ue73xCT4B7) | [Sillkey](https://open.spotify.com/artist/0fgcY5ts0pifTedzkGuScP) | [Supacell \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6fxbgAPvjEzrPgB2M6tNC2) | 1:04 |
 
-Snapshot ID: `ZpmRGQAAAAD2EAC0yP77zrH1CkV2McYz`
+Snapshot ID: `ZpmRGQAAAABybmhKw+5bGsYI+taUpHSE`

@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: a\u5b50",
-  "num_followers": 59330,
+  "num_followers": 59344,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzQBEAAAAADXgATnYV24xYCciN9JnZC7",
+  "snapshot_id": "ZzQBEAAAAADpAcEA14qgjAjmHSCdcufo",
   "tracks": [
     {
       "added_at": "2024-11-13 01:29:52",
@@ -100,8 +100,8 @@
       },
       "artists": [
         {
-          "name": "\u7530\u4e2d\u30e4\u30b3\u30d6",
-          "url": "https://open.spotify.com/artist/2jSlLUl3HN5yfLhz11FJGk"
+          "name": "Jacob Tanaka",
+          "url": "https://open.spotify.com/artist/1DxNEhiV9wnWn1ZcAjjOMG"
         }
       ],
       "duration_ms": 220279,
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-11-13 01:29:52",
       "album": {
-        "name": "\u30d6\u30eb\u30fc\u30e9\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/13FfzSty8Mw77tHNyPE3cu"
-      },
-      "artists": [
-        {
-          "name": "muque",
-          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "\u30d6\u30eb\u30fc\u30e9\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/6PbCnxdWt2sxv1V4cDRDS9"
-    },
-    {
-      "added_at": "2024-11-13 01:29:52",
-      "album": {
         "name": "ZERO",
         "url": "https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 191666,
       "name": "\u30ab\u30b2\u30ed\u30a6",
       "url": "https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH"
+    },
+    {
+      "added_at": "2024-11-13 01:29:52",
+      "album": {
+        "name": "\u30d6\u30eb\u30fc\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/13FfzSty8Mw77tHNyPE3cu"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "duration_ms": 235500,
+      "name": "\u30d6\u30eb\u30fc\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/6PbCnxdWt2sxv1V4cDRDS9"
     },
     {
       "added_at": "2024-11-13 01:29:52",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-11-13 01:29:52",
       "album": {
-        "name": "Correspondances",
-        "url": "https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z"
-      },
-      "artists": [
-        {
-          "name": "CHO CO PA CO CHO CO QUIN QUIN",
-          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "\u58f0\u3092\u805e\u304b\u305b\u3066",
-      "url": "https://open.spotify.com/track/0ZJmMINFDqxtS5QhZzMjWh"
-    },
-    {
-      "added_at": "2024-11-13 01:29:52",
-      "album": {
         "name": "\u6e1a\u3067\u4f1a\u3044\u307e\u3057\u3087\u3046",
         "url": "https://open.spotify.com/album/1tR10RiFgLv50ZWl6EjF4T"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 319336,
       "name": "\u6e1a\u3067\u4f1a\u3044\u307e\u3057\u3087\u3046",
       "url": "https://open.spotify.com/track/07y4uMenyskCjDuxfdXuGB"
+    },
+    {
+      "added_at": "2024-11-13 01:29:52",
+      "album": {
+        "name": "Correspondances",
+        "url": "https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "\u58f0\u3092\u805e\u304b\u305b\u3066",
+      "url": "https://open.spotify.com/track/0ZJmMINFDqxtS5QhZzMjWh"
     },
     {
       "added_at": "2024-11-13 01:29:52",
@@ -987,8 +987,8 @@
     {
       "added_at": "2024-11-13 01:29:52",
       "album": {
-        "name": "Make a Move",
-        "url": "https://open.spotify.com/album/3N1fwVfpKuz6y2DWuCAZo7"
+        "name": "Sick!!!",
+        "url": "https://open.spotify.com/album/0MMBAMCR1kJEtSZr9z6D6d"
       },
       "artists": [
         {
@@ -996,9 +996,25 @@
           "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
         }
       ],
-      "duration_ms": 157133,
-      "name": "Make a Move",
-      "url": "https://open.spotify.com/track/0Bqqnzb5F6dJZdOe4j2UzU"
+      "duration_ms": 244416,
+      "name": "Sick!!!",
+      "url": "https://open.spotify.com/track/7FSlB8echKJVC9yjf9caGK"
+    },
+    {
+      "added_at": "2024-11-13 01:29:52",
+      "album": {
+        "name": "\u67d4\u8edf\u5264DOPE",
+        "url": "https://open.spotify.com/album/2lkc4Gh2NVhHGA2qI9h1y7"
+      },
+      "artists": [
+        {
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "\u67d4\u8edf\u5264DOPE",
+      "url": "https://open.spotify.com/track/4spejADF7LvzAgJgQ5mALs"
     },
     {
       "added_at": "2024-11-13 01:29:52",
@@ -1015,22 +1031,6 @@
       "duration_ms": 164992,
       "name": "Thirsty",
       "url": "https://open.spotify.com/track/3RuXVFUyACarEYmHBimSkr"
-    },
-    {
-      "added_at": "2024-11-13 01:29:52",
-      "album": {
-        "name": "\u597d\u4eba\u7d00\u884c",
-        "url": "https://open.spotify.com/album/0PPj5HcWUa6ltwCmR0lRun"
-      },
-      "artists": [
-        {
-          "name": "luv",
-          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
-        }
-      ],
-      "duration_ms": 243100,
-      "name": "\u597d\u4eba\u7d00\u884c",
-      "url": "https://open.spotify.com/track/77y1TjSTPoJpK4Qfvi2gHP"
     },
     {
       "added_at": "2024-11-13 01:29:52",
@@ -1131,8 +1131,8 @@
     {
       "added_at": "2024-11-13 01:29:52",
       "album": {
-        "name": "Sick!!!",
-        "url": "https://open.spotify.com/album/0MMBAMCR1kJEtSZr9z6D6d"
+        "name": "Make a Move",
+        "url": "https://open.spotify.com/album/3N1fwVfpKuz6y2DWuCAZo7"
       },
       "artists": [
         {
@@ -1140,25 +1140,25 @@
           "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
         }
       ],
-      "duration_ms": 244416,
-      "name": "Sick!!!",
-      "url": "https://open.spotify.com/track/7FSlB8echKJVC9yjf9caGK"
+      "duration_ms": 157133,
+      "name": "Make a Move",
+      "url": "https://open.spotify.com/track/0Bqqnzb5F6dJZdOe4j2UzU"
     },
     {
       "added_at": "2024-11-13 01:29:52",
       "album": {
-        "name": "\u300cGarden of Remembrance\u300d\u5287\u4e2d\u66f2",
-        "url": "https://open.spotify.com/album/5EWWd1nPJMu0XtKvpNSwkz"
+        "name": "\u597d\u4eba\u7d00\u884c",
+        "url": "https://open.spotify.com/album/0PPj5HcWUa6ltwCmR0lRun"
       },
       "artists": [
         {
-          "name": "Lovely Summer Chan",
-          "url": "https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips"
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
         }
       ],
-      "duration_ms": 436349,
-      "name": "Garden of Remembrance",
-      "url": "https://open.spotify.com/track/1z2BwXcCg7udJjekN3JuMh"
+      "duration_ms": 243100,
+      "name": "\u597d\u4eba\u7d00\u884c",
+      "url": "https://open.spotify.com/track/77y1TjSTPoJpK4Qfvi2gHP"
     },
     {
       "added_at": "2024-11-13 01:29:52",
@@ -1179,38 +1179,34 @@
     {
       "added_at": "2024-11-13 01:29:52",
       "album": {
-        "name": "\u67d4\u8edf\u5264DOPE",
-        "url": "https://open.spotify.com/album/2lkc4Gh2NVhHGA2qI9h1y7"
+        "name": "\u9006\u3089\u3046\u7fbd",
+        "url": "https://open.spotify.com/album/7lGyp88PLnR60gw7HHOkSU"
       },
       "artists": [
         {
-          "name": "luv",
-          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
+          "name": "\u677e\u6728\u7f8e\u5b9a",
+          "url": "https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA"
         }
       ],
-      "duration_ms": 186666,
-      "name": "\u67d4\u8edf\u5264DOPE",
-      "url": "https://open.spotify.com/track/4spejADF7LvzAgJgQ5mALs"
+      "duration_ms": 195133,
+      "name": "\u9006\u3089\u3046\u7fbd",
+      "url": "https://open.spotify.com/track/6Tft44KxfwDbrNUSqT3Rlh"
     },
     {
       "added_at": "2024-11-13 01:29:52",
       "album": {
-        "name": "B.B.M. (feat. PinocchioP)",
-        "url": "https://open.spotify.com/album/15uxM8fUHm8e8TzLxuaW68"
+        "name": "\u300cGarden of Remembrance\u300d\u5287\u4e2d\u66f2",
+        "url": "https://open.spotify.com/album/5EWWd1nPJMu0XtKvpNSwkz"
       },
       "artists": [
         {
-          "name": "PAS TASTA",
-          "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
-        },
-        {
-          "name": "PinocchioP",
-          "url": "https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC"
+          "name": "Lovely Summer Chan",
+          "url": "https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips"
         }
       ],
-      "duration_ms": 186293,
-      "name": "B.B.M. (feat. PinocchioP)",
-      "url": "https://open.spotify.com/track/3V1xn3JpZe09yaQrvmaLwg"
+      "duration_ms": 436349,
+      "name": "Garden of Remembrance",
+      "url": "https://open.spotify.com/track/1z2BwXcCg7udJjekN3JuMh"
     },
     {
       "added_at": "2024-11-13 01:29:52",
@@ -1235,26 +1231,22 @@
     {
       "added_at": "2024-11-13 01:29:52",
       "album": {
-        "name": "SUKIYAKI",
-        "url": "https://open.spotify.com/album/02CLGJbTjSEvYeqa9SIUz0"
+        "name": "B.B.M. (feat. PinocchioP)",
+        "url": "https://open.spotify.com/album/15uxM8fUHm8e8TzLxuaW68"
       },
       "artists": [
         {
-          "name": "DONGROSSO",
-          "url": "https://open.spotify.com/artist/7nRjb0R3RLVlbwHq3f5gTA"
+          "name": "PAS TASTA",
+          "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
         },
         {
-          "name": "DONGURIZU",
-          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
-        },
-        {
-          "name": "Mondo Grosso",
-          "url": "https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb"
+          "name": "PinocchioP",
+          "url": "https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC"
         }
       ],
-      "duration_ms": 149271,
-      "name": "SUKIYAKI",
-      "url": "https://open.spotify.com/track/1Ps2Yky3EWKGuB48xK0xti"
+      "duration_ms": 186293,
+      "name": "B.B.M. (feat. PinocchioP)",
+      "url": "https://open.spotify.com/track/3V1xn3JpZe09yaQrvmaLwg"
     }
   ],
   "unique_name": "Edge!",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hzQwGhYRlj.md) - [plain]
 
 > A collection of Grieg's finest songs, symphonies and suites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,269 likes - 60 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,273 likes - 60 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hzQwGhYRlj.md) - [plain]
 | 59 | [Piano Sonata in E Minor, Op\. 7: I\. Allegro moderato \(1887 revised Version\)](https://open.spotify.com/track/2zyLYFU0clRveRVdiLZM7u) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Einar Steen\-Nøkleberg](https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ) | [Grieg: Piano Music, Vol\. 1](https://open.spotify.com/album/07IYZiT8k6webWPS63sANZ) | 4:27 |
 | 60 | [Andantino Serioso, No 4 Of Four Album Leaves, Op.28](https://open.spotify.com/track/69C928dibKQSx6sraITqk4) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Geir Botnen](https://open.spotify.com/artist/6YcsDA7VnJvOKg6VLxwrKa) | [Edvard Grieg In Hardanger](https://open.spotify.com/album/4E12FxFihDIbJ57ZqirJUd) | 4:45 |
 
-Snapshot ID: `ZIxWZQAAAACIxNyzBuNUCpBJOOKDhak0`
+Snapshot ID: `ZIxWZQAAAADCP5fuzOx5R4FWfLiEHOoG`

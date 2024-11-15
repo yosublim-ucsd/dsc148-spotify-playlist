@@ -949,6 +949,24 @@
     },
     {
       "album": {
+        "name": "Healing Garden",
+        "url": "https://open.spotify.com/album/5SpMwisr4L8bZYSrlPD32X"
+      },
+      "artists": [
+        {
+          "name": "Aman Nandi",
+          "url": "https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Healing Garden",
+      "url": "https://open.spotify.com/track/6x7xECuEr6vwoNf3j7wb1z"
+    },
+    {
+      "album": {
         "name": "Healing State (528 Hz)",
         "url": "https://open.spotify.com/album/0cOMbJ1RBe4rhgwFkxnnDt"
       },
@@ -2030,6 +2048,24 @@
       "duration_ms": 172640,
       "name": "Raga Hemavati (Flute)",
       "url": "https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F"
+    },
+    {
+      "album": {
+        "name": "Rare Astra",
+        "url": "https://open.spotify.com/album/1XdZM894doi2XbdZsVCZZL"
+      },
+      "artists": [
+        {
+          "name": "Bright Lens",
+          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Rare Astra",
+      "url": "https://open.spotify.com/track/5JqwjWauNVttvtXHDLn7E3"
     },
     {
       "album": {

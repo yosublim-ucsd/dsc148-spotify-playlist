@@ -1635,6 +1635,28 @@
     },
     {
       "album": {
+        "name": "Contram\u00e3o (Uma s\u00e9rie Netflix \"Nova Cena\")",
+        "url": "https://open.spotify.com/album/0XDYhw0QFJEXaMHbKhIlpK"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Novak Mc",
+          "url": "https://open.spotify.com/artist/2zjtNuJYQ1BIgQxXYyDnWr"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223285,
+      "name": "Contram\u00e3o (Uma s\u00e9rie Netflix \"Nova Cena\")",
+      "url": "https://open.spotify.com/track/1zzXD11q5023VPWNDN6cD5"
+    },
+    {
+      "album": {
         "name": "Corpo Quente",
         "url": "https://open.spotify.com/album/5kRUXL80sJ8ToO1YqbruoN"
       },

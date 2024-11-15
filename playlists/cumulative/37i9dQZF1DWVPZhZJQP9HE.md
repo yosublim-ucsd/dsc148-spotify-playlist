@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-586 songs - 1 day 10 hr 35 min
+587 songs - 1 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [Rayil Pogum Idam](https://open.spotify.com/track/2pWUNHtUmNNKfvLGIsSKLN) | [Vijaynarain](https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi) | [Rayil Pogum Idam](https://open.spotify.com/album/3DgXRTUhQVT4mk7xSKwU3i) | 3:07 | 2023-11-23 | 2024-06-14 |
 | [Rekka](https://open.spotify.com/track/5fvjGfHr43rs3UW4ebBw6i) | [Vathshan](https://open.spotify.com/artist/6ri9k2w6ZVXHghuukFQjcz), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [MJ Melodies](https://open.spotify.com/artist/3lKheshxHCfbOVM21KcnZI) | [Rekka](https://open.spotify.com/album/4hEAUQ42uB9QYWFfbn83dx) | 2:55 | 2024-08-14 |  |
 | [Rendu Bottle Vodka \- From "Cosmo Kadhal"](https://open.spotify.com/track/54cWlnscttOqFY0tsNLNLW) | [Josh Vivian](https://open.spotify.com/artist/0C48t0nOfxy7ZymGQVpEP8), [Roe Vincent](https://open.spotify.com/artist/5FP2oei0td30JwMSj5jm2f), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Rendu Bottle Vodka \(From "Cosmo Kadhal"\)](https://open.spotify.com/album/5rXK24JqIrZzCRZZhgpDpQ) | 3:40 | 2022-04-07 | 2022-08-12 |
+| [Rhythm Of Coimbatore](https://open.spotify.com/track/4x4GF8K6T4rYRHVGK2TRln) | [V2 Vijay Vicky](https://open.spotify.com/artist/7zyTYIiNKFMRW0NlZZAeBF), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Ramesh Venkat](https://open.spotify.com/artist/7CNjcqN8pnHO6SjVBwtn4k) | [Rhythm Of Coimbatore](https://open.spotify.com/album/26WjyicgKcfLi8AUgbQuJZ) | 3:55 | 2024-11-14 |  |
 | [Rider Fighter](https://open.spotify.com/track/1wMJESbiqngTGJvDNhy4Xi) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI) | [Rider Fighter](https://open.spotify.com/album/5qikTzQxzJT79i2Ng3yhbI) | 3:53 | 2022-02-01 | 2022-07-18 |
 | [Rotoram Pakayila](https://open.spotify.com/track/6A63e8EqB42KzE7VtfAoUW) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Rotoram Pakayila](https://open.spotify.com/album/5M0jTe8qJQ5u4vrI1i2Dq7) | 3:19 | 2023-06-26 |  |
 | [Rubaiyat Kavithai](https://open.spotify.com/track/7Lgbhyegdkv1ZUjTkgO1eS) | [Shabir Sulthan](https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng) | [Rubaiyat Kavithai](https://open.spotify.com/album/3S8cLJs8WJ68DWYl72zRcI) | 3:10 | 2022-08-12 | 2023-02-09 |

@@ -4,7 +4,7 @@
 
 > dk rap og den vibe 💎
 
-253 songs - 10 hr 55 min
+255 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bedøvende](https://open.spotify.com/track/1XillHPBk3C21iDpnpLmSR) | [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N), [Babyface Mo](https://open.spotify.com/artist/4HLdhkirMBFxuir7hgDtmf) | [Bedøvende](https://open.spotify.com/album/75hr6dG6BNro3Nx61Jc4La) | 2:45 | 2024-08-29 | 2024-09-13 |
 | [Bellingham Freestyle](https://open.spotify.com/track/3iDvA9yErFpMUNhvx9KiqU) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Bellingham Freestyle](https://open.spotify.com/album/1WzzRG4FdwNgBPxiVuhdT7) | 1:24 | 2024-07-18 | 2024-11-01 |
 | [BENZ](https://open.spotify.com/track/0VfA42lvkgmpCE73fFxKjE) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [BENZ](https://open.spotify.com/album/4yU3IEVdrCYGldYLiUIxqq) | 2:20 | 2024-03-07 | 2024-11-08 |
+| [BeskidtSex:RenLove](https://open.spotify.com/track/7dKPeMm0tpK7y7qFKO806v) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [BeskidtSex:RenLove](https://open.spotify.com/album/0OHLCenPpS6dRHu03J4YkA) | 2:04 | 2024-11-14 |  |
 | [Black Ops](https://open.spotify.com/track/7J1DgyE3mGoazGOHqZ2Kh2) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Black Ops](https://open.spotify.com/album/5NjzqSjhoAgxoN3uNk3YHT) | 2:36 | 2024-04-11 | 2024-09-13 |
 | [Bombay \(feat\. Belly\)](https://open.spotify.com/track/5XfLvZjDEwgOjpLNKS0Nv0) | [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU), [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [Bombay \(feat\. Belly\)](https://open.spotify.com/album/75anG1EjD6Ui4MV3wY1YXb) | 2:16 | 2024-07-11 | 2024-09-13 |
 | [Booty Up](https://open.spotify.com/track/0rcIh1T4A2EH5TzqXmu63m) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:03 | 2024-08-08 |  |
@@ -169,6 +170,7 @@
 | [Mi Amor](https://open.spotify.com/track/0uUbeTMGlvqFWdtMuqLTEB) | [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N) | [Mi Amor](https://open.spotify.com/album/08bFLkMDwhsO59XMM9qobU) | 2:35 | 2023-09-21 | 2023-12-14 |
 | [Miguel Félix](https://open.spotify.com/track/5uQvsr0OBicAIl0DJJAQeC) | [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Miguel Félix](https://open.spotify.com/album/5rJSr8ejGeIEmteVDHyTVO) | 3:14 | 2023-09-21 | 2024-01-19 |
 | [MINUTTER, TIMER](https://open.spotify.com/track/7G8pVonwyErF4HRkSdG16I) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl) | [MINUTTER, TIMER](https://open.spotify.com/album/7sZH0d6hb3Q0s7CXuW2l7w) | 2:42 | 2024-06-17 | 2024-06-22 |
+| [MOLLY](https://open.spotify.com/track/4XmuzEhU6LPRL4fdWqt6LU) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr) | [MOLLY](https://open.spotify.com/album/508PdlAqwptvHS6IuII1H7) | 1:44 | 2024-11-14 |  |
 | [Money Talks](https://open.spotify.com/track/0hjlzcCK6cOnKKb5jo9esn) | [HAM fra Syd](https://open.spotify.com/artist/142bVo1OspxTJbxwyawU5h), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Money Talks](https://open.spotify.com/album/3tPZCAN5x9qk2KIwjqfyPN) | 2:16 | 2024-02-22 | 2024-04-05 |
 | [Moneycall \(feat\. Fam & Smiley\)](https://open.spotify.com/track/3BwnaNDE0xNyveWURXjyGV) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF), [Fam](https://open.spotify.com/artist/6o330LG7yXCDHiFTiGIyX8), [Smiley](https://open.spotify.com/artist/0VAbWUQfLnhk5rggicyL8f) | [Moneycall \(feat\. Fam & Smiley\)](https://open.spotify.com/album/1LYSciBvfi1dxYc4dh0WNE) | 3:06 | 2024-06-27 | 2024-09-13 |
 | [MOULAGA](https://open.spotify.com/track/5MzZ0U4Zihj9iAR9c7uUyy) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [MOULAGA](https://open.spotify.com/album/16WOsN6JTgg1QV4VwrdlXm) | 2:15 | 2023-09-21 | 2023-12-14 |

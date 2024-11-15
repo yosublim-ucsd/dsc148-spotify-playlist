@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XrA0OT5b6M.md) - [plain]
 
 > Music from TV Anime "ONE PIECE" /TVアニメ「ONE PIECE」の楽曲を1つのプレイリストで。©️尾田栄一郎／集英社・フジテレビ・東映アニメーション
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,362 likes - 52 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,440 likes - 52 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XrA0OT5b6M.md) - [plain]
 | 51 | [エースを受け継ぐ!!!](https://open.spotify.com/track/2Ib0XkjwhDsu9LHWl5sr2H) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.2\)](https://open.spotify.com/album/4ws5nZWlUQ50f3wt2zho95) | 2:20 |
 | 52 | [ビンクスの酒](https://open.spotify.com/track/0GTBuk8CRs2ra4KNK5r0lC) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b), [KAZBONGO](https://open.spotify.com/artist/6nvDGAhoidfJLJkCZuewDY) | [ONE PIECE Arrange Collection \(EDM\)](https://open.spotify.com/album/1rPBgOa02pHRy3sOvdW5Hf) | 3:27 |
 
-Snapshot ID: `ZyhZEAAAAAC2+Lw/CMo56fB9lf0f2Ps+`
+Snapshot ID: `ZyhZEAAAAACMdlAjw2E2anTsMzi+KNpm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Summer Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,745,773 likes - 175 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,745,752 likes - 175 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 174 | [Feelings \(feat\. J Hus\)](https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:57 |
 | 175 | [wherever u r \(feat\. V of BTS\)](https://open.spotify.com/track/0cGpKQ8RxxLOFqhktEURIj) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(feat\. V of BTS\)](https://open.spotify.com/album/2RJDptxusaOBdqoa3cxKFS) | 2:33 |
 
-Snapshot ID: `Zy4vLgAAAAAavQf4l5q/exy5YpY6JvGH`
+Snapshot ID: `Zy4vLgAAAACz1B3nCRvQ+5HXF3GMm9zm`

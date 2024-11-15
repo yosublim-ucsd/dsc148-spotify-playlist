@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 
 > Work and study to the sound of soft electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,081 likes - 190 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,178 likes - 190 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 | 189 | [Keeping](https://open.spotify.com/track/7J6zJzF5nBfW610gUHT6gE) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Keeping](https://open.spotify.com/album/1as5ri9NKFQcZN9YZJUIh4) | 2:58 |
 | 190 | [Aurora](https://open.spotify.com/track/6wHt80ii2pZjjffzLfM1mg) | [Penga Scain](https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2) | [Aurora](https://open.spotify.com/album/6K3FYQWAQcANDZjQgcxaCM) | 4:34 |
 
-Snapshot ID: `Zyy1sQAAAACyjFtJuPtoYrHVh2og+lXQ`
+Snapshot ID: `Zyy1sQAAAACrCuvUkzBDEYh23IQbUInt`

@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: TroyBoi",
-  "num_followers": 886454,
+  "num_followers": 886448,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy42eQAAAADEAlds5u37zm5YYGKHAbIR",
+  "snapshot_id": "Zy42eQAAAABSY7ttU3uI4/cAMxubcP48",
   "tracks": [
     {
       "added_at": "2024-11-08 16:04:09",
@@ -883,6 +883,46 @@
     {
       "added_at": "2024-11-08 16:04:09",
       "album": {
+        "name": "Blue Mile",
+        "url": "https://open.spotify.com/album/77I9ebOxX1nxDk8vlJNUH9"
+      },
+      "artists": [
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        },
+        {
+          "name": "Barclay Crenshaw",
+          "url": "https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR"
+        },
+        {
+          "name": "Strategy",
+          "url": "https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Blue Mile",
+      "url": "https://open.spotify.com/track/5EIyuLTiZwAmmlsqxdLJC0"
+    },
+    {
+      "added_at": "2024-11-08 16:04:09",
+      "album": {
+        "name": "ARE WE HAVING FUN OR WHAT?",
+        "url": "https://open.spotify.com/album/4O4RcK8tOjhR5hC4XqbIkq"
+      },
+      "artists": [
+        {
+          "name": "Hgods",
+          "url": "https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA"
+        }
+      ],
+      "duration_ms": 147487,
+      "name": "ARE WE HAVING FUN OR WHAT?",
+      "url": "https://open.spotify.com/track/1haJ3BSPGuZ7f3CCkZwHnA"
+    },
+    {
+      "added_at": "2024-11-08 16:04:09",
+      "album": {
         "name": "4EVR",
         "url": "https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB"
       },
@@ -907,46 +947,6 @@
       "duration_ms": 203571,
       "name": "SIGNAL",
       "url": "https://open.spotify.com/track/2lI0NirbWze2kWcIsB7Nqo"
-    },
-    {
-      "added_at": "2024-11-08 16:04:09",
-      "album": {
-        "name": "ARE WE HAVING FUN OR WHAT?",
-        "url": "https://open.spotify.com/album/4O4RcK8tOjhR5hC4XqbIkq"
-      },
-      "artists": [
-        {
-          "name": "Hgods",
-          "url": "https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA"
-        }
-      ],
-      "duration_ms": 147487,
-      "name": "ARE WE HAVING FUN OR WHAT?",
-      "url": "https://open.spotify.com/track/1haJ3BSPGuZ7f3CCkZwHnA"
-    },
-    {
-      "added_at": "2024-11-08 16:04:09",
-      "album": {
-        "name": "Blue Mile",
-        "url": "https://open.spotify.com/album/77I9ebOxX1nxDk8vlJNUH9"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        },
-        {
-          "name": "Barclay Crenshaw",
-          "url": "https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR"
-        },
-        {
-          "name": "Strategy",
-          "url": "https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Blue Mile",
-      "url": "https://open.spotify.com/track/5EIyuLTiZwAmmlsqxdLJC0"
     },
     {
       "added_at": "2024-11-08 16:04:09",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2024-11-08 16:04:09",
       "album": {
-        "name": "ALL MFS",
-        "url": "https://open.spotify.com/album/4MYyoKorYFc2NqSiHbyHi4"
-      },
-      "artists": [
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 149034,
-      "name": "ALL MFS",
-      "url": "https://open.spotify.com/track/5mixDqBHkUKreGTaX1K3YK"
-    },
-    {
-      "added_at": "2024-11-08 16:04:09",
-      "album": {
         "name": "CAN YOU SEE ME?",
         "url": "https://open.spotify.com/album/6tQ1vjB7ZXy8sKkGEtHs1X"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 187200,
       "name": "The Descent",
       "url": "https://open.spotify.com/track/6xIxr1N7UZaXiwOUNVScsn"
+    },
+    {
+      "added_at": "2024-11-08 16:04:09",
+      "album": {
+        "name": "ALL MFS",
+        "url": "https://open.spotify.com/album/4MYyoKorYFc2NqSiHbyHi4"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 149034,
+      "name": "ALL MFS",
+      "url": "https://open.spotify.com/track/5mixDqBHkUKreGTaX1K3YK"
     },
     {
       "added_at": "2024-11-08 16:04:09",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2024-11-08 16:04:09",
       "album": {
-        "name": "Breach",
-        "url": "https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE"
-      },
-      "artists": [
-        {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 249090,
-      "name": "Breach",
-      "url": "https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn"
-    },
-    {
-      "added_at": "2024-11-08 16:04:09",
-      "album": {
         "name": "Thrilla",
         "url": "https://open.spotify.com/album/0huroHZfl6hAgdFdfp2dhL"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 134222,
       "name": "Thrilla",
       "url": "https://open.spotify.com/track/2ePOVtay20vRQ33E1k1Qft"
+    },
+    {
+      "added_at": "2024-11-08 16:04:09",
+      "album": {
+        "name": "Breach",
+        "url": "https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 249090,
+      "name": "Breach",
+      "url": "https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn"
     },
     {
       "added_at": "2024-11-08 16:04:09",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-11-08 16:04:09",
       "album": {
+        "name": "EYES ON ME",
+        "url": "https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS"
+      },
+      "artists": [
+        {
+          "name": "Control Freak",
+          "url": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
+        }
+      ],
+      "duration_ms": 217846,
+      "name": "EYES ON ME",
+      "url": "https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg"
+    },
+    {
+      "added_at": "2024-11-08 16:04:09",
+      "album": {
         "name": "So What",
         "url": "https://open.spotify.com/album/4JJULQ9cPENN67nIzQOw8Q"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 176800,
       "name": "So What",
       "url": "https://open.spotify.com/track/1ZrEy4fu5wiHOmNf1tN2HP"
-    },
-    {
-      "added_at": "2024-11-08 16:04:09",
-      "album": {
-        "name": "EYES ON ME",
-        "url": "https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS"
-      },
-      "artists": [
-        {
-          "name": "Control Freak",
-          "url": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
-        }
-      ],
-      "duration_ms": 217846,
-      "name": "EYES ON ME",
-      "url": "https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg"
     },
     {
       "added_at": "2024-11-08 16:04:09",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-11-08 16:04:09",
       "album": {
-        "name": "12345678",
-        "url": "https://open.spotify.com/album/6LgzQ07mU3E9sTSNWgNz78"
-      },
-      "artists": [
-        {
-          "name": "Holy Molly",
-          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
-        }
-      ],
-      "duration_ms": 124804,
-      "name": "12345678",
-      "url": "https://open.spotify.com/track/4TbuW9pROHEgQxEXptleTu"
-    },
-    {
-      "added_at": "2024-11-08 16:04:09",
-      "album": {
         "name": "Shift",
         "url": "https://open.spotify.com/album/6mT3Y11cQk2dSQBdjhrgCP"
       },
@@ -1715,6 +1699,22 @@
     {
       "added_at": "2024-11-08 16:04:09",
       "album": {
+        "name": "12345678",
+        "url": "https://open.spotify.com/album/6LgzQ07mU3E9sTSNWgNz78"
+      },
+      "artists": [
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        }
+      ],
+      "duration_ms": 124804,
+      "name": "12345678",
+      "url": "https://open.spotify.com/track/4TbuW9pROHEgQxEXptleTu"
+    },
+    {
+      "added_at": "2024-11-08 16:04:09",
+      "album": {
         "name": "Lollo",
         "url": "https://open.spotify.com/album/5K2nM0JZcOhnWx7q1KiWho"
       },
@@ -1751,30 +1751,6 @@
     {
       "added_at": "2024-11-08 16:04:09",
       "album": {
-        "name": "Foul",
-        "url": "https://open.spotify.com/album/2Ih0SUroIXP1GRigQxuc8B"
-      },
-      "artists": [
-        {
-          "name": "G-Rex",
-          "url": "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
-        },
-        {
-          "name": "STUCA",
-          "url": "https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb"
-        },
-        {
-          "name": "ICECOLDBISHOP",
-          "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
-        }
-      ],
-      "duration_ms": 179262,
-      "name": "Foul",
-      "url": "https://open.spotify.com/track/6mtSPyT95BNKiUQ4SyijQ3"
-    },
-    {
-      "added_at": "2024-11-08 16:04:09",
-      "album": {
         "name": "DICC (feat. Moore Kismet & UNIIQU3)",
         "url": "https://open.spotify.com/album/2g6jlp3C1Fa3QoqCwixrTG"
       },
@@ -1799,6 +1775,30 @@
     {
       "added_at": "2024-11-08 16:04:09",
       "album": {
+        "name": "Foul",
+        "url": "https://open.spotify.com/album/2Ih0SUroIXP1GRigQxuc8B"
+      },
+      "artists": [
+        {
+          "name": "G-Rex",
+          "url": "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
+        },
+        {
+          "name": "STUCA",
+          "url": "https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb"
+        },
+        {
+          "name": "ICECOLDBISHOP",
+          "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
+        }
+      ],
+      "duration_ms": 179262,
+      "name": "Foul",
+      "url": "https://open.spotify.com/track/6mtSPyT95BNKiUQ4SyijQ3"
+    },
+    {
+      "added_at": "2024-11-08 16:04:09",
+      "album": {
         "name": "Ultra",
         "url": "https://open.spotify.com/album/28RsRYQ1rnryxiV4EaYAMq"
       },
@@ -1815,26 +1815,6 @@
       "duration_ms": 195000,
       "name": "Ultra",
       "url": "https://open.spotify.com/track/6TIA5ZatZiia8215uOPclf"
-    },
-    {
-      "added_at": "2024-11-08 16:04:09",
-      "album": {
-        "name": "SEEING DOUBLE EP",
-        "url": "https://open.spotify.com/album/3lxZ6nSst67I8FZsqPoF43"
-      },
-      "artists": [
-        {
-          "name": "WINK",
-          "url": "https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu"
-        },
-        {
-          "name": "nikko",
-          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
-        }
-      ],
-      "duration_ms": 237428,
-      "name": "MERCY",
-      "url": "https://open.spotify.com/track/2QoDGwJUabNMyJnxGJIy8w"
     },
     {
       "added_at": "2024-11-08 16:04:09",
@@ -1879,6 +1859,26 @@
     {
       "added_at": "2024-11-08 16:04:09",
       "album": {
+        "name": "SEEING DOUBLE EP",
+        "url": "https://open.spotify.com/album/3lxZ6nSst67I8FZsqPoF43"
+      },
+      "artists": [
+        {
+          "name": "WINK",
+          "url": "https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu"
+        },
+        {
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+        }
+      ],
+      "duration_ms": 237428,
+      "name": "MERCY",
+      "url": "https://open.spotify.com/track/2QoDGwJUabNMyJnxGJIy8w"
+    },
+    {
+      "added_at": "2024-11-08 16:04:09",
+      "album": {
         "name": "DYSPHORIA",
         "url": "https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe"
       },
@@ -1919,18 +1919,18 @@
     {
       "added_at": "2024-11-08 16:04:09",
       "album": {
-        "name": "My Demons",
-        "url": "https://open.spotify.com/album/6LtMVGgLL9hb3c7wlftFJQ"
+        "name": "WE RUN THIS",
+        "url": "https://open.spotify.com/album/4tHMYveYbsqqCJVfpxnxk6"
       },
       "artists": [
         {
-          "name": "KEPIK",
-          "url": "https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn"
+          "name": "Control Freak",
+          "url": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
         }
       ],
-      "duration_ms": 270000,
-      "name": "My Demons",
-      "url": "https://open.spotify.com/track/31Mn08SEsadcIXVqWPGsqO"
+      "duration_ms": 194142,
+      "name": "WE RUN THIS",
+      "url": "https://open.spotify.com/track/54wQjNf7HIae8K2I9KI58T"
     },
     {
       "added_at": "2024-11-08 16:04:09",
@@ -1955,18 +1955,18 @@
     {
       "added_at": "2024-11-08 16:04:09",
       "album": {
-        "name": "WE RUN THIS",
-        "url": "https://open.spotify.com/album/4tHMYveYbsqqCJVfpxnxk6"
+        "name": "My Demons",
+        "url": "https://open.spotify.com/album/6LtMVGgLL9hb3c7wlftFJQ"
       },
       "artists": [
         {
-          "name": "Control Freak",
-          "url": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
+          "name": "KEPIK",
+          "url": "https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn"
         }
       ],
-      "duration_ms": 194142,
-      "name": "WE RUN THIS",
-      "url": "https://open.spotify.com/track/54wQjNf7HIae8K2I9KI58T"
+      "duration_ms": 270000,
+      "name": "My Demons",
+      "url": "https://open.spotify.com/track/31Mn08SEsadcIXVqWPGsqO"
     },
     {
       "added_at": "2024-11-08 16:04:09",

@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-125 songs - 6 hr 40 min
+126 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,12 +111,13 @@
 | [Secret \- sad orchestra](https://open.spotify.com/track/5PbI70YyDqhCYCN2QArxG5) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Secret \(sad orchestra\)](https://open.spotify.com/album/1nzeYc8gvWMvGvmJeXLRx0) | 3:08 | 2023-11-20 |  |
 | [Selfish Love \(with Selena Gomez\) \- Acoustic Mix](https://open.spotify.com/track/4Am0QoksGA70r4ZdsgV2Y9) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Selfish Love \(with Selena Gomez\) EP](https://open.spotify.com/album/5gaTlwqxtq9ciRVqgOfusR) | 2:49 | 2022-12-21 | 2024-02-09 |
 | [Shivers \- Acoustic Version](https://open.spotify.com/track/7BiRw4sgXQMyNx8nPltnQr) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers \(Acoustic Version\)](https://open.spotify.com/album/1CM3OBIxS9yzSiIAOW0gIF) | 3:26 | 2022-12-21 | 2023-06-03 |
+| [Si seulement..\. \- Guitare / voix](https://open.spotify.com/track/13RezTtAB3j8w8C9h1oRsI) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Si seulement...](https://open.spotify.com/album/5WeG2R2qrK0vfJBfMR9Vap) | 2:56 | 2024-11-14 |  |
 | [SNAP \- Acoustic](https://open.spotify.com/track/6OQ84LoCVGxLkH95LOjIC1) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7) | 3:28 | 2023-06-16 |  |
 | [Stay \- Spotify Singles](https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c) | 2:55 | 2022-12-21 | 2024-03-15 |
 | [Strangers \- sad acoustic version](https://open.spotify.com/track/2BRgLIB3KV9EYdUkOgDgWs) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers \(sad acoustic version\)](https://open.spotify.com/album/5r46y111iubU3MZRsC5ZPK) | 3:04 | 2023-10-26 | 2024-04-19 |
 | [Strangers \- sad acoustic version](https://open.spotify.com/track/3FdmZW1QbdYwV1Iqomtbrt) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers \(sad acoustic version\)](https://open.spotify.com/album/5IbJJqixgNWbwpipRhOagt) | 3:04 | 2023-10-26 |  |
 | [Sweet but Psycho \- Acoustic](https://open.spotify.com/track/10WVEHOf1FZf5XgK6dUWvN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Sweet but Psycho \(Acoustic\)](https://open.spotify.com/album/2oKx85K5SRVksSS9aN1Lon) | 2:59 | 2022-12-21 |  |
-| [Take On Me \- 2017 Acoustic](https://open.spotify.com/track/6NK9sI0Lnsiwn6I0MbWWxn) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Take On Me \(2017 Acoustic\)](https://open.spotify.com/album/475VP8QRLP0eQ5wfeyrCS1) | 3:04 | 2024-04-12 |  |
+| [Take On Me \- 2017 Acoustic](https://open.spotify.com/track/6NK9sI0Lnsiwn6I0MbWWxn) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Take On Me \(2017 Acoustic\)](https://open.spotify.com/album/475VP8QRLP0eQ5wfeyrCS1) | 3:04 | 2024-04-12 | 2024-11-15 |
 | [Tattoo \- Acoustic](https://open.spotify.com/track/5V2wCtKTQEQlWr0igELU4x) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo \(Acoustic\)](https://open.spotify.com/album/6EtQsunaDhISsreHCSplVY) | 3:34 | 2023-05-14 |  |
 | [Te Amo \- DJ Youcef Remix – Version Acoustique](https://open.spotify.com/track/5DiKjTMmJfdIROpZXAzLwY) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Te Amo \(DJ Youcef Remix – Version Acoustique\)](https://open.spotify.com/album/4we58LKZyy9dtDRIJXeUJs) | 4:18 | 2022-12-21 | 2023-06-03 |
 | [TEXAS HOLD 'EM \- Acoustic Version](https://open.spotify.com/track/1LRHlYrMb8Bn3poC5lixyV) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [TEXAS HOLD 'EM \(Acoustic Version\)](https://open.spotify.com/album/69DFowWwyCZmU9rD4uJZvB) | 3:10 | 2024-05-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 
 > Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Josi Cuen en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,333 likes - 85 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,388 likes - 85 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 | 84 | [Generación Tumbada](https://open.spotify.com/track/4UTahnQbQsLzCrQ7KHRTuc) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Ulises Flores](https://open.spotify.com/artist/194zxYYGqenaKZJyQ3CsLY), [Alejandro’s](https://open.spotify.com/artist/5Xdh9PyfYDL6dzpVvZuPXa) | [Generación Tumbada](https://open.spotify.com/album/2rdWfqqq1lVoDmuhuMHMhF) | 3:54 |
 | 85 | [Cachín](https://open.spotify.com/track/4ACD3NpWOVetddcRoo4vHl) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Cachín](https://open.spotify.com/album/7jp45E7U0ulzdh3KGzH1dx) | 2:45 |
 
-Snapshot ID: `ZxJ+3gAAAABIMKiotArv01W4j4edKS85`
+Snapshot ID: `ZxJ+3gAAAABq+h2Xiuk/K6Ziuqe1h855`

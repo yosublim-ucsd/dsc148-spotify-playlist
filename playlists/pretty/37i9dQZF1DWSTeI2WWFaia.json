@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Freddie Gibbs",
-  "num_followers": 1590563,
+  "num_followers": 1590626,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy2dcwAAAABPMgFmHz+OpqY0m4VUhUq/",
+  "snapshot_id": "Zy2dcwAAAABa3pxvWU6r5Dios6srhe0g",
   "tracks": [
     {
       "added_at": "2024-11-08 05:11:15",
@@ -391,26 +391,6 @@
     {
       "added_at": "2024-11-08 05:11:15",
       "album": {
-        "name": "Crazier",
-        "url": "https://open.spotify.com/album/1Arbdb9aoP2xwTRymKSqRI"
-      },
-      "artists": [
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 169464,
-      "name": "Crazier",
-      "url": "https://open.spotify.com/track/32MRzH8knxhm1pXeBzHA0F"
-    },
-    {
-      "added_at": "2024-11-08 05:11:15",
-      "album": {
         "name": "Still Praying",
         "url": "https://open.spotify.com/album/6Y4gDBghxCfpGkQKc9czVQ"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 309678,
       "name": "Dr. Britt Baker",
       "url": "https://open.spotify.com/track/08vyopstusuqW5qtK9EVh2"
+    },
+    {
+      "added_at": "2024-11-08 05:11:15",
+      "album": {
+        "name": "Crazier",
+        "url": "https://open.spotify.com/album/1Arbdb9aoP2xwTRymKSqRI"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 169464,
+      "name": "Crazier",
+      "url": "https://open.spotify.com/track/32MRzH8knxhm1pXeBzHA0F"
     },
     {
       "added_at": "2024-11-08 05:11:15",
@@ -543,6 +543,34 @@
     {
       "added_at": "2024-11-08 05:11:15",
       "album": {
+        "name": "And Then You Pray For Me",
+        "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Cartier A Williams",
+          "url": "https://open.spotify.com/artist/2Fsw6Hh9wWybcZPZZEGYPj"
+        }
+      ],
+      "duration_ms": 299270,
+      "name": "Mamas PrimeTime",
+      "url": "https://open.spotify.com/track/5DBkCzSGttobRr6ApIEd4f"
+    },
+    {
+      "added_at": "2024-11-08 05:11:15",
+      "album": {
         "name": "Ecstasy (Freestyle)",
         "url": "https://open.spotify.com/album/4l5ytI2ykKixML9AQwbL9X"
       },
@@ -579,34 +607,6 @@
       "duration_ms": 291038,
       "name": "oHio (feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu"
-    },
-    {
-      "added_at": "2024-11-08 05:11:15",
-      "album": {
-        "name": "And Then You Pray For Me",
-        "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
-      },
-      "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "Cartier A Williams",
-          "url": "https://open.spotify.com/artist/2Fsw6Hh9wWybcZPZZEGYPj"
-        }
-      ],
-      "duration_ms": 299270,
-      "name": "Mamas PrimeTime",
-      "url": "https://open.spotify.com/track/5DBkCzSGttobRr6ApIEd4f"
     },
     {
       "added_at": "2024-11-08 05:11:15",
@@ -651,26 +651,6 @@
     {
       "added_at": "2024-11-08 05:11:15",
       "album": {
-        "name": "The Genuine Articulate",
-        "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
-      },
-      "artists": [
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 157880,
-      "name": "Diego Maradona",
-      "url": "https://open.spotify.com/track/384lbjCji1ciQLiKRIMHiK"
-    },
-    {
-      "added_at": "2024-11-08 05:11:15",
-      "album": {
         "name": "BRAVADO + INTiMO",
         "url": "https://open.spotify.com/album/6QfICnbrJhdEwyM4Hd0n3R"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 210729,
       "name": "SWiTCH (i)",
       "url": "https://open.spotify.com/track/2RzRgSOR4joxfzW7zj0b2K"
+    },
+    {
+      "added_at": "2024-11-08 05:11:15",
+      "album": {
+        "name": "The Genuine Articulate",
+        "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 157880,
+      "name": "Diego Maradona",
+      "url": "https://open.spotify.com/track/384lbjCji1ciQLiKRIMHiK"
     },
     {
       "added_at": "2024-11-08 05:11:15",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-11-08 05:11:15",
       "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 236960,
+      "name": "Love Life",
+      "url": "https://open.spotify.com/track/4NW3t9GA7CyBisyoROefUs"
+    },
+    {
+      "added_at": "2024-11-08 05:11:15",
+      "album": {
         "name": "Set The Tone (Guns & Roses)",
         "url": "https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 275750,
       "name": "No Face",
       "url": "https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF"
-    },
-    {
-      "added_at": "2024-11-08 05:11:15",
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 236960,
-      "name": "Love Life",
-      "url": "https://open.spotify.com/track/4NW3t9GA7CyBisyoROefUs"
     },
     {
       "added_at": "2024-11-08 05:11:15",
@@ -955,18 +955,18 @@
     {
       "added_at": "2024-11-08 05:11:15",
       "album": {
-        "name": "Buried Alive",
-        "url": "https://open.spotify.com/album/7weKMGw4crGVeeKQJ6lQ94"
+        "name": "Burning Desire",
+        "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
       },
       "artists": [
         {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
         }
       ],
-      "duration_ms": 122413,
-      "name": "Buried Alive",
-      "url": "https://open.spotify.com/track/17hgE2h9PhLC6RJuFm2BEQ"
+      "duration_ms": 108281,
+      "name": "Burning Desire",
+      "url": "https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp"
     }
   ],
   "unique_name": "Spilled Ink",

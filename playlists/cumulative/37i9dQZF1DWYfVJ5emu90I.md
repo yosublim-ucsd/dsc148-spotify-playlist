@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-183 songs - 8 hr 56 min
+184 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 | 2024-01-23 |  |
 | [Dangerous Original](https://open.spotify.com/track/5qKNfUOpZxOpC7msvthofm) | [Red Eye](https://open.spotify.com/artist/4yu1crXDHBTb27yiM5otx5), [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3) | [LIVING](https://open.spotify.com/album/7CE9sEe21E4vhdE1MWTw9b) | 2:44 | 2022-11-19 | 2023-05-24 |
 | [Dangerous Original \- Remix](https://open.spotify.com/track/765uD9FR8SK8IQFAgQiDla) | [Red Eye](https://open.spotify.com/artist/4yu1crXDHBTb27yiM5otx5), [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [D.O](https://open.spotify.com/artist/0uwSiUPpmfE6SNGryFGZPS) | [Dangerous Original \(Remix\)](https://open.spotify.com/album/7f8aPar9SBe19TMju166Rt) | 2:35 | 2022-11-19 | 2023-05-24 |
+| [DEATH NOTE](https://open.spotify.com/track/2OCQMg5OLGIMEWHHZcHABc) | [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [Pxrge Trxxxper](https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie), [NEMLAND](https://open.spotify.com/artist/2Sim83TyMbBiQ9m9uh7V6j) | [DEATH NOTE](https://open.spotify.com/album/173yOrrgkqrUFwte1Pd7VW) | 2:54 | 2024-11-12 |  |
 | [DFR](https://open.spotify.com/track/1KWg2XVU3zAffSV2LHhdle) | [BHS Svve](https://open.spotify.com/artist/6uFfH7ZHSnHMXjNCgpIWb2), [levi](https://open.spotify.com/artist/2i8z6rKtx4CoaQmajp10fP), [Filix王](https://open.spotify.com/artist/2a58G4RDpD2sloCYWYkMXC) | [lasted](https://open.spotify.com/album/1O3TzJvKplUGYkLuFjbSxG) | 3:18 | 2024-07-24 | 2024-08-21 |
 | [Dishhh!](https://open.spotify.com/track/1tilWqUcyihECFShzZP543) | [Hiyadam](https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD) | [Dishhh!](https://open.spotify.com/album/0uaMpP3kZjNoqbG2AKSv0S) | 2:51 | 2022-12-06 | 2022-12-08 |
 | [Dishhh!](https://open.spotify.com/track/6xEYN6QXI1SIpWgNcSSpp8) | [Hiyadam](https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD) | [Dishhh!](https://open.spotify.com/album/1o3AaUlBFhw0sM5euTgU2P) | 2:51 | 2022-12-06 | 2023-05-24 |
@@ -46,7 +47,7 @@
 | [DOUGH? feat\. BENXNI, TAHITI](https://open.spotify.com/track/2UZRzZjt75ZlYfsNylclCr) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [TARVETHZ](https://open.spotify.com/artist/67Ofry6ZPlecTnaGUS5tVR), [BENXNI](https://open.spotify.com/artist/6XH0kHK5G7kGgDGu2Id6a2), [TAHITI](https://open.spotify.com/artist/11Ihrdsc07m7HGvqmbGCbp) | [DOUGH? feat\. BENXNI, TAHITI](https://open.spotify.com/album/48SEEUyGMnImibdwHeVgRA) | 2:23 | 2024-07-17 | 2024-08-21 |
 | [DRILL KING](https://open.spotify.com/track/1S9tGcdVKbngeSnrnE3f1o) | [SATORU](https://open.spotify.com/artist/3dLTvvJ3HQZy0dcozfallB) | [DRILL KING](https://open.spotify.com/album/2k8X00C4i54JaqBJQOHrls) | 3:12 | 2022-11-19 | 2023-05-24 |
 | [EDO](https://open.spotify.com/track/07OJpiSTwt4hCJPcXveRHa) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Chawalit](https://open.spotify.com/album/3aD4xnihNEcPPnMdd3FuEF) | 3:00 | 2022-11-19 | 2023-06-22 |
-| [EDO](https://open.spotify.com/track/7qdVue4d2eL78VYdl4BXdZ) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Chawalit](https://open.spotify.com/album/1QpwzysSvWVFZR3Lkr2lPH) | 3:00 | 2024-11-06 |  |
+| [EDO](https://open.spotify.com/track/7qdVue4d2eL78VYdl4BXdZ) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Chawalit](https://open.spotify.com/album/1QpwzysSvWVFZR3Lkr2lPH) | 3:00 | 2024-11-06 | 2024-11-15 |
 | [egirl wanna do bdsm.nsfw](https://open.spotify.com/track/23H7hqMiuNHrPU8AR9JNoy) | [JAY DVRDEN](https://open.spotify.com/artist/3mZ0TiDpjzDJU5qttTDHXq), [XNI](https://open.spotify.com/artist/3ibuYNQ2Oxu7lWcNf6Ww7c), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [egirl wanna do bdsm.nsfw](https://open.spotify.com/album/4Pt415qukXaaPjSmxWtFgr) | 2:36 | 2022-11-19 | 2024-07-12 |
 | [Fast](https://open.spotify.com/track/4IwBeoakiZGK5h8KE7Ns3I) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [Frankkiss](https://open.spotify.com/artist/7uj4zg34enYInzpT64qAB2), [Kiyoki](https://open.spotify.com/artist/4YqDFjvk7ovTE8bYLHr2ux) | [Fast](https://open.spotify.com/album/654vDrOAbeRErsaIuIi0Js) | 3:02 | 2024-10-02 |  |
 | [Fast Pass](https://open.spotify.com/track/39wnOZkUJODG6ZxGqHkXoT) | [Harka](https://open.spotify.com/artist/6GcZguCVovv7iXEPq98VFI) | [Fast Pass](https://open.spotify.com/album/1d0Zd9cEVBugHOAuJQYNu9) | 2:58 | 2024-07-12 | 2024-08-21 |

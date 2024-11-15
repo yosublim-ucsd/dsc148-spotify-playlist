@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,980 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,977 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [dead end.](https://open.spotify.com/track/57EHa4bjlEm8Cr63Ue4BGZ) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [here we go again...](https://open.spotify.com/album/1TQmMkWDju1CTomVO866ju) | 3:18 |
 | 100 | [Sans visage](https://open.spotify.com/track/5wiFUVh9aB0MQh4n2AHCwK) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Sans visage](https://open.spotify.com/album/7sIEiWP721eUrnOD9E6AAS) | 4:12 |
 
-Snapshot ID: `Zy2a0AAAAAABBZjED/TigfVH4vU4+Gks`
+Snapshot ID: `Zy2a0AAAAACAJPaJ0kxfUzs1BajKCnHu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3QiPV2C1uJQ3L8sKaykshJ.md) - [plain]
 
 > Listen to A\-List tracks from RCA Records featuring music from Doja Cat, Latto, Tate McRae, SZA, and more\. Cover: Doja Cat
 
-[RCA Records](https://open.spotify.com/user/rcarecords) - 13,320 likes - 82 songs - 4 hr 26 min
+[RCA Records](https://open.spotify.com/user/rcarecords) - 13,318 likes - 82 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

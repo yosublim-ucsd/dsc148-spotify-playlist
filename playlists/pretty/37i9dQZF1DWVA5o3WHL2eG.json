@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume. Cover: Naomi Lareine",
-  "num_followers": 35467,
+  "num_followers": 35460,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyqjcAAAAABNKJelqQidOzDh3GGCPhsW",
+  "snapshot_id": "ZyqjcAAAAACaBWIKyNpRRrWGHet5rTRe",
   "tracks": [
     {
       "added_at": "2024-11-05 23:00:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-11-05 23:00:00",
       "album": {
+        "name": "echo",
+        "url": "https://open.spotify.com/album/2llIzlRhG7iFLtiK5hR0mw"
+      },
+      "artists": [
+        {
+          "name": "Mia Morgan",
+          "url": "https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB"
+        }
+      ],
+      "duration_ms": 213475,
+      "name": "echo",
+      "url": "https://open.spotify.com/track/0jklwASgujfNjubQ6O3O7n"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
         "name": "Color Theory",
         "url": "https://open.spotify.com/album/6MN4nhwzXMmckOZUllSvfr"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 241965,
       "name": "Don't Wake Me Up",
       "url": "https://open.spotify.com/track/609yi6SMFUPTKLEQON8vT2"
-    },
-    {
-      "added_at": "2024-11-05 23:00:00",
-      "album": {
-        "name": "echo",
-        "url": "https://open.spotify.com/album/2llIzlRhG7iFLtiK5hR0mw"
-      },
-      "artists": [
-        {
-          "name": "Mia Morgan",
-          "url": "https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB"
-        }
-      ],
-      "duration_ms": 213475,
-      "name": "echo",
-      "url": "https://open.spotify.com/track/0jklwASgujfNjubQ6O3O7n"
     },
     {
       "added_at": "2024-11-05 23:00:00",

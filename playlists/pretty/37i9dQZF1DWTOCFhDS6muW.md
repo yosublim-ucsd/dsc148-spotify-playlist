@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 
 > ¡Esto es punta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,203 likes - 38 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,218 likes - 38 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 37 | [Imagenes](https://open.spotify.com/track/70T2o1RBFIaOImnNiP7J5t) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Con el Ritmo Punta, Vol\. 1](https://open.spotify.com/album/6EuZoWfCGfjeXVMs06m4K7) | 4:10 |
 | 38 | [Nafagua](https://open.spotify.com/track/4nxGdxGI4DmH5wKbNBE9Yu) | [Aurelio](https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h) | [Lándini](https://open.spotify.com/album/4X7kDkmya4KmYTPM4albiP) | 3:25 |
 
-Snapshot ID: `ZpGu/AAAAAAmGBDjxKF2mR1V1fWl6Qyh`
+Snapshot ID: `ZpGu/AAAAADEOsQ6QlBzP5m2uPXScVKK`

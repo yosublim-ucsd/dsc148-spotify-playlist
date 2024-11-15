@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing acoustic guitar.
 
-177 songs - 8 hr 45 min
+180 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Awakening](https://open.spotify.com/track/0ebnYLExhairdQKLJGRgDb) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Awakening](https://open.spotify.com/album/0AChUaHjN3SbGsBf68Awll) | 1:49 | 2022-12-30 | 2023-07-29 |
 | [Awareness](https://open.spotify.com/track/2RBhMHPkJBQMrVTjqpwtbW) | [Zen Wuan](https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY) | [Yoga Meditation](https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo) | 3:15 | 2022-02-28 |  |
 | [Awe and Wonder](https://open.spotify.com/track/61TPtjqb4lT7RgzB9FJq5s) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [History Of The Sublime](https://open.spotify.com/album/45lIatZPk8qwDIkw7bje7o) | 3:20 | 2022-03-29 | 2023-10-06 |
+| [Becoming Whole](https://open.spotify.com/track/37TD68NoX5h5ITjz2C6Zl8) | [Polarsken](https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH) | [Becoming Whole](https://open.spotify.com/album/4YvxgMPH4Qf99ktvlTdRE0) | 3:58 | 2024-11-14 |  |
 | [Bedside Angels](https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Bedside Angels](https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq) | 2:14 | 2022-02-28 | 2023-09-09 |
 | [Before I Disappear](https://open.spotify.com/track/0D2NQGump2lZJpXMyGKE84) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Before I Disappear](https://open.spotify.com/album/4XqP9tgcozo06TbOUiVedP) | 1:49 | 2022-02-28 | 2023-07-29 |
 | [Beginners Mind](https://open.spotify.com/track/750EM9eXVnU3XeHW945rJv) | [Delta Lab](https://open.spotify.com/artist/54v62EvD3dmxVaEo3LTVYe) | [Beginners Mind](https://open.spotify.com/album/7wjigSjvD3ERxDtKS9o7f0) | 3:53 | 2022-02-28 |  |
@@ -39,6 +40,7 @@
 | [Changes](https://open.spotify.com/track/4ZhzH1W6DUDPXcXzkqSYrb) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Changes](https://open.spotify.com/album/7MqcHPgnwEyuIzw1zfA2Ol) | 2:41 | 2022-04-08 |  |
 | [Chill Spa Music](https://open.spotify.com/track/1Nvjwg3i5wiWOoG1SN0J8q) | [Michael Marc](https://open.spotify.com/artist/3fcQI5iYhwISYHwUf3G4Ok) | [Guitar Meditation](https://open.spotify.com/album/7oJFr5m28N95DBG6dv54UX) | 2:13 | 2022-04-08 |  |
 | [Clermont](https://open.spotify.com/track/0WNOQLJP7OsYJ9nLUO1IPY) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Clermont](https://open.spotify.com/album/0XciGzBUV8HJUcSkYo0vku) | 2:11 | 2022-07-08 | 2023-10-06 |
+| [Cloudbusting](https://open.spotify.com/track/5gCVXiPN2ckerDHO5P36MM) | [An Valsa](https://open.spotify.com/artist/6HewoxUySYf1z3cY1Vzigr) | [Cloudbusting](https://open.spotify.com/album/3YLZhUuZ4LVfLiOvHoGVwj) | 2:52 | 2024-11-14 |  |
 | [Cold Space](https://open.spotify.com/track/33oiYhxqhWDNq4j4gVtb6t) | [Jo Quinn](https://open.spotify.com/artist/29czqjCABTikrt0O7y1wBr) | [Cold Space](https://open.spotify.com/album/3k1SxanqNeUuQYV3UD8DT6) | 3:13 | 2023-02-09 |  |
 | [Consapevolezza](https://open.spotify.com/track/1FrBUnhD9T673kr9nfbdGP) | [Trinitah](https://open.spotify.com/artist/50MIKfXvxiyqZDE3xFm9iC) | [Consapevolezza](https://open.spotify.com/album/2QMr6qobtdVlPn7Y6UZdf2) | 2:05 | 2022-12-02 |  |
 | [contextures](https://open.spotify.com/track/7vE97xuXIoWRAzKRPk3TuI) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [mise\-en\-scène](https://open.spotify.com/album/3TKTuzJj6Wdngg3Fm7dVzZ) | 1:47 | 2022-06-24 | 2023-07-29 |
@@ -182,6 +184,7 @@
 | [Way Of Life](https://open.spotify.com/track/08dGh7Xg9ipUo1o7tLIvl8) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [Way Of Life](https://open.spotify.com/album/7loccJFmLOoynAmTy4Ltr4) | 2:37 | 2023-04-06 |  |
 | [Wherever You Go](https://open.spotify.com/track/29vkYjTn6LlSkyLKzhvNhM) | [Yasmin Ryan](https://open.spotify.com/artist/5yNo2UDxYyUsMrH7UdPW1g) | [Wherever You Go](https://open.spotify.com/album/6rfPi75eYBbCaiHCIAIW7U) | 2:35 | 2022-11-11 |  |
 | [Whisper in the wind](https://open.spotify.com/track/5ZSqAynin0lj0U8fVA5p8W) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Whisper in the wind](https://open.spotify.com/album/5BZ2gwkDuYlpVkObyPMCr3) | 3:02 | 2023-01-27 |  |
+| [Whispering](https://open.spotify.com/track/5vrt8YKWcd5Js4vnaerfGK) | [Starstrum](https://open.spotify.com/artist/1UeSZoTyfTgvI34TuJIjJ3) | [Whispering](https://open.spotify.com/album/18NGThjiGxQK9Ky9lq917C) | 2:14 | 2024-11-14 |  |
 | [Whispers of Rest](https://open.spotify.com/track/4EMWK2dNi6leMozs4PVH4i) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [Whispers of Rest](https://open.spotify.com/album/56ISW5BsAhkyXXpYD5qhhn) | 3:01 | 2023-11-17 |  |
 | [You´re All I Need](https://open.spotify.com/track/0hSiaMpXMWhtgNXu3bpIIi) | [Amat Leony](https://open.spotify.com/artist/4K1GXs9pVanGFIl1LIPCms) | [You´re All I Need](https://open.spotify.com/album/43Hsx3jgETYWnsv7qg1xvy) | 2:40 | 2023-04-06 |  |
 | [Zenya](https://open.spotify.com/track/5ks86NE9jyrLfQJinAcfiA) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Zenya](https://open.spotify.com/album/3loauhCt2lDAVpdhYSTgrE) | 4:21 | 2022-08-05 | 2023-08-25 |

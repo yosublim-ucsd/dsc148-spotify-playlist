@@ -1,12 +1,12 @@
 {
   "description": "All new music with an Indie twist. Cover: la loye",
-  "num_followers": 102379,
+  "num_followers": 102383,
   "original_name": "Indie Update",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy3CiAAAAAC4NgE/8gyq3aQ6z+t8vXSi",
+  "snapshot_id": "ZzaA8AAAAADE+iutEu+VSURxI8KveG1o",
   "tracks": [
     {
       "added_at": "2024-11-08 07:49:28",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/6jWsP2neKDqX4YWNK46njD"
     },
     {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "the side-effects of living in a fantasy",
+        "url": "https://open.spotify.com/album/0ng21MzkTevZ3JfDUiehKh"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "duration_ms": 185480,
+      "name": "matter",
+      "url": "https://open.spotify.com/track/4iDxcTqrjvAZVzJQp6Vhov"
+    },
+    {
       "added_at": "2024-11-08 07:49:28",
       "album": {
         "name": "TASTE",
@@ -57,6 +73,22 @@
       "url": "https://open.spotify.com/track/4rHi4Tx5snrpF3ALRmfXa2"
     },
     {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Game of Pretend",
+        "url": "https://open.spotify.com/album/4XJdTyFjkq9hcngkIDSMmM"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 259568,
+      "name": "Game of Pretend",
+      "url": "https://open.spotify.com/track/0CUUFKKSFn4xoDHAnS8AFL"
+    },
+    {
       "added_at": "2024-11-08 07:49:28",
       "album": {
         "name": "Babylon",
@@ -71,6 +103,22 @@
       "duration_ms": 341764,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/4iZxUb2hnfS9TLgXoLgGaG"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "labour",
+        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 237744,
+      "name": "labour",
+      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
     },
     {
       "added_at": "2024-11-08 07:49:28",
@@ -123,6 +171,38 @@
       "duration_ms": 243350,
       "name": "Better, I Swear",
       "url": "https://open.spotify.com/track/74rfrufWL0TF6ORmled9w8"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Broken Bottles",
+        "url": "https://open.spotify.com/album/5mWU14MdyONaYi7wW8nGQe"
+      },
+      "artists": [
+        {
+          "name": "Waltzburg",
+          "url": "https://open.spotify.com/artist/69vKqcCUoTUAwHaooT1pzv"
+        }
+      ],
+      "duration_ms": 215840,
+      "name": "Broken Bottles",
+      "url": "https://open.spotify.com/track/2ankNd24u6zEyE0EhN32cS"
+    },
+    {
+      "added_at": "2024-11-08 07:49:28",
+      "album": {
+        "name": "Arrow, Four",
+        "url": "https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz"
+      },
+      "artists": [
+        {
+          "name": "Bobbi Lu",
+          "url": "https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4"
+        }
+      ],
+      "duration_ms": 165558,
+      "name": "Surgical Love",
+      "url": "https://open.spotify.com/track/67BKAU4FSq0KHMtFzbFzbe"
     },
     {
       "added_at": "2024-11-08 07:49:28",
@@ -351,22 +431,6 @@
       "duration_ms": 200589,
       "name": "THINGS BEHIND THINGS BEHIND THINGS",
       "url": "https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj"
-    },
-    {
-      "added_at": "2024-11-08 07:49:28",
-      "album": {
-        "name": "Arrow, Four",
-        "url": "https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz"
-      },
-      "artists": [
-        {
-          "name": "Bobbi Lu",
-          "url": "https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4"
-        }
-      ],
-      "duration_ms": 165558,
-      "name": "Surgical Love",
-      "url": "https://open.spotify.com/track/67BKAU4FSq0KHMtFzbFzbe"
     },
     {
       "added_at": "2024-11-08 07:49:28",
@@ -759,26 +823,6 @@
     {
       "added_at": "2024-11-08 07:49:28",
       "album": {
-        "name": "Petit Boy",
-        "url": "https://open.spotify.com/album/4V9Cce5LCcaxbWxzHIyTVg"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "Porij",
-          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
-        }
-      ],
-      "duration_ms": 189268,
-      "name": "Petit Boy",
-      "url": "https://open.spotify.com/track/0MSN9A0nVONYW8E3Ml7k3E"
-    },
-    {
-      "added_at": "2024-11-08 07:49:28",
-      "album": {
         "name": "Send Me Flowers",
         "url": "https://open.spotify.com/album/1U83vSAotohihqF292ZcaN"
       },
@@ -991,22 +1035,6 @@
     {
       "added_at": "2024-11-08 07:49:28",
       "album": {
-        "name": "Lose Myself",
-        "url": "https://open.spotify.com/album/6pSh0WsivEGbF1utMlDBSN"
-      },
-      "artists": [
-        {
-          "name": "\u00c1slaug",
-          "url": "https://open.spotify.com/artist/1y11BpoSKV2cOGKk8TFVOz"
-        }
-      ],
-      "duration_ms": 188010,
-      "name": "Lose Myself",
-      "url": "https://open.spotify.com/track/0NgxNRkuEfytKKf89f12h9"
-    },
-    {
-      "added_at": "2024-11-08 07:49:28",
-      "album": {
         "name": "In My House",
         "url": "https://open.spotify.com/album/2VLG0K4y9i7eTeaNOzuYXb"
       },
@@ -1023,18 +1051,18 @@
     {
       "added_at": "2024-11-08 07:49:28",
       "album": {
-        "name": "Somehow/Somewhere",
-        "url": "https://open.spotify.com/album/5nmq3ZCCcYshME2b9poIV6"
+        "name": "Ready for You",
+        "url": "https://open.spotify.com/album/0uJPUSMaKFyzTH86xMAlPK"
       },
       "artists": [
         {
-          "name": "Gos Rosling",
-          "url": "https://open.spotify.com/artist/2zJha56ZWbPFutom5jySwf"
+          "name": "TEUN",
+          "url": "https://open.spotify.com/artist/2HYKtKJ5ZbUaz3BoDpRSYv"
         }
       ],
-      "duration_ms": 211665,
-      "name": "Somehow/Somewhere",
-      "url": "https://open.spotify.com/track/4Uh25olyNzbWPBm5IELAhy"
+      "duration_ms": 229346,
+      "name": "Ready for You",
+      "url": "https://open.spotify.com/track/1DfBi72sHWOVjAK9euaoPF"
     },
     {
       "added_at": "2024-11-08 07:49:28",
@@ -1071,42 +1099,6 @@
     {
       "added_at": "2024-11-08 07:49:28",
       "album": {
-        "name": "Synergy",
-        "url": "https://open.spotify.com/album/77nBglD9sGkrHzLY7od26x"
-      },
-      "artists": [
-        {
-          "name": "Jungle by Night",
-          "url": "https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO"
-        },
-        {
-          "name": "Pitou",
-          "url": "https://open.spotify.com/artist/27aUOc2h4pz72oZen497Va"
-        }
-      ],
-      "duration_ms": 240040,
-      "name": "Dive (feat. Pitou)",
-      "url": "https://open.spotify.com/track/6jPG58CblDA29dE38FWMUb"
-    },
-    {
-      "added_at": "2024-11-08 07:49:28",
-      "album": {
-        "name": "This Is How Tomorrow Moves",
-        "url": "https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 158866,
-      "name": "Take A Bite",
-      "url": "https://open.spotify.com/track/1GClDyMiSLrpzjzwIfWRIa"
-    },
-    {
-      "added_at": "2024-11-08 07:49:28",
-      "album": {
         "name": "Wristwatch",
         "url": "https://open.spotify.com/album/5lpIqexNhzFxvwyhzTIeTF"
       },
@@ -1119,22 +1111,6 @@
       "duration_ms": 222453,
       "name": "Wristwatch",
       "url": "https://open.spotify.com/track/6HsIV3KVhmY20DAyt5u0ug"
-    },
-    {
-      "added_at": "2024-11-08 07:49:28",
-      "album": {
-        "name": "Cake for Dinner",
-        "url": "https://open.spotify.com/album/7IWXAJ8AlDb2mCxwpemrot"
-      },
-      "artists": [
-        {
-          "name": "Galine",
-          "url": "https://open.spotify.com/artist/1DFbUtrAHgEHrZOnptv03D"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "Cake for Dinner",
-      "url": "https://open.spotify.com/track/4QvBSHosNhkteUbnqkyzHK"
     },
     {
       "added_at": "2024-11-08 07:49:28",
@@ -1167,90 +1143,6 @@
       "duration_ms": 205318,
       "name": "confused",
       "url": "https://open.spotify.com/track/5mVD6EqHjznlT9vjOQV2bA"
-    },
-    {
-      "added_at": "2024-11-08 07:49:28",
-      "album": {
-        "name": "Imaginal Disk",
-        "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "Image",
-      "url": "https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB"
-    },
-    {
-      "added_at": "2024-11-08 07:49:28",
-      "album": {
-        "name": "Ready for You",
-        "url": "https://open.spotify.com/album/0uJPUSMaKFyzTH86xMAlPK"
-      },
-      "artists": [
-        {
-          "name": "TEUN",
-          "url": "https://open.spotify.com/artist/2HYKtKJ5ZbUaz3BoDpRSYv"
-        }
-      ],
-      "duration_ms": 229346,
-      "name": "Ready for You",
-      "url": "https://open.spotify.com/track/1DfBi72sHWOVjAK9euaoPF"
-    },
-    {
-      "added_at": "2024-11-08 07:49:28",
-      "album": {
-        "name": "Back Again",
-        "url": "https://open.spotify.com/album/2OetjekECC900yqLwMGRfH"
-      },
-      "artists": [
-        {
-          "name": "Sophie van Hasselt",
-          "url": "https://open.spotify.com/artist/3r68N4ZRD3j8AfGrGvhMVm"
-        },
-        {
-          "name": "GOSTO",
-          "url": "https://open.spotify.com/artist/5CEZ2102fh2JlfPrsBdSeJ"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Back Again",
-      "url": "https://open.spotify.com/track/4cOoQ3HjF2bwnDOJvhxOKg"
-    },
-    {
-      "added_at": "2024-11-08 07:49:28",
-      "album": {
-        "name": "THERE'S A FIRE",
-        "url": "https://open.spotify.com/album/7rkOszblkgluUk6G07im21"
-      },
-      "artists": [
-        {
-          "name": "Muylike",
-          "url": "https://open.spotify.com/artist/4HL9htdNiAsJHadqEBvb7T"
-        }
-      ],
-      "duration_ms": 178040,
-      "name": "THERE'S A FIRE",
-      "url": "https://open.spotify.com/track/2nXAaAr45W3nhDQ63k9EjM"
-    },
-    {
-      "added_at": "2024-11-08 07:49:28",
-      "album": {
-        "name": "Long Dark Sleep",
-        "url": "https://open.spotify.com/album/7Aixb2p4RnrOCOdKECOK6h"
-      },
-      "artists": [
-        {
-          "name": "Robin Kester",
-          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
-        }
-      ],
-      "duration_ms": 175573,
-      "name": "Long Dark Sleep",
-      "url": "https://open.spotify.com/track/6NHxA1LJZjpexoXo8cwiCz"
     },
     {
       "added_at": "2024-11-08 07:49:28",

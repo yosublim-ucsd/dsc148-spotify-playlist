@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Lycinaïs Jean
+> Les hits zouk du moment\. Photo : Stony x Kalipsxau
 
-183 songs - 9 hr 50 min
+185 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Amor](https://open.spotify.com/track/2VuKKcW0QtVfpuhpQhy0ui) | [MC DY](https://open.spotify.com/artist/0wFT0h2jZOxhpBlXFbO4Ds), [Chabsy](https://open.spotify.com/artist/2UhHFaDD6E4ISzi44nyKuW) | [Amor](https://open.spotify.com/album/0jaer6BFPXUjaV1LqKXJ30) | 2:30 | 2024-01-18 | 2024-01-24 |
 | [Amour Consumé \(version zouk\)](https://open.spotify.com/track/4nfB6Y2HprMwNMOQFg3JQh) | [Algéric](https://open.spotify.com/artist/6V788FEftK2VvhtleSaPwY), [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [Amour Consumé \(version zouk\)](https://open.spotify.com/album/5PcNLMgAd1lK7ACg4oK4xK) | 2:48 | 2024-02-29 | 2024-09-20 |
 | [ANTANANARIVO](https://open.spotify.com/track/2Gg8Cmnzoi2wbgRiVgTHWm) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5) | [Antananarivo](https://open.spotify.com/album/376mfcAcLzP0TuKmrzvX0R) | 3:00 | 2024-01-11 | 2024-06-07 |
+| [Ashanti](https://open.spotify.com/track/2JsCWEV3SFrnwSCmorOzIl) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU) | [Ashanti](https://open.spotify.com/album/23N2GypZNpGM90u5gIgEGQ) | 2:46 | 2024-11-14 |  |
 | [Aye](https://open.spotify.com/track/0HRjNyAZvKYLhPIAA6AyIf) | [SAÏK](https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I) | [Aye](https://open.spotify.com/album/5S5iTH2m8zvyVV1oMJdntf) | 3:03 | 2024-06-13 | 2024-08-23 |
 | [Baby Oh](https://open.spotify.com/track/6w08Z9Jgjkh1A4jjbhZKZg) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Baby Oh](https://open.spotify.com/album/5Ru2z5Wz4hgmle5aexU4pM) | 2:37 | 2023-09-28 | 2023-11-24 |
 | [Bam Bam \(Ma Jolie\)](https://open.spotify.com/track/3MgDEWy7SXqSftFvovNOnv) | [King Serenity](https://open.spotify.com/artist/2olAiF4WinkdELTgU2Rllu), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Bam Bam \(Ma Jolie\)](https://open.spotify.com/album/3XdVsdE1LETgzTufgIpvnP) | 2:23 | 2024-01-25 | 2024-03-08 |
@@ -89,6 +90,7 @@
 | [Loin d'ici](https://open.spotify.com/track/22nGLFY5Ak7DYjCoIAYl2V) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [POISON](https://open.spotify.com/album/2tHdpuWyzPzGZuNxErPaPG) | 3:09 | 2024-06-06 |  |
 | [LOUD](https://open.spotify.com/track/4jJBZuAd8KHFS9ALEZsAM3) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz) | [LOUD](https://open.spotify.com/album/1YrHvEby37Qg6RkeB0Kdyg) | 3:00 | 2023-11-09 | 2024-01-19 |
 | [Ma dose](https://open.spotify.com/track/6uZezXA1pDL4NcwxLdrnGD) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Ma dose](https://open.spotify.com/album/2LFPrhcBAXLKzl99gVgj7z) | 2:55 | 2024-02-08 | 2024-09-06 |
+| [Ma Moitié](https://open.spotify.com/track/36Ed4SQiiWmMLRxiiX1Df7) | [Varaine Ben](https://open.spotify.com/artist/6dP1hrA6zbtVabsfbjiTL8) | [Ma Moitié](https://open.spotify.com/album/5177w6bdw8TMXVlSF3NVIm) | 3:30 | 2024-11-14 |  |
 | [Ma partition](https://open.spotify.com/track/4uokP7DOEf7LKERqIEsHat) | [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [Ma partition](https://open.spotify.com/album/3w5UZizv5UTz34NJXGuJE7) | 3:35 | 2024-08-22 |  |
 | [Ma Vie](https://open.spotify.com/track/0NaxyxpoxUugFeGx4B2YW3) | [Axel Tony](https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh), [Princess' Lover](https://open.spotify.com/artist/2MR0CohJ0bX97VcvgcIhsl) | [En Boucle \(Deluxe\)](https://open.spotify.com/album/2zNXO3bjMY3VJI1ASnhqNs) | 3:06 | 2023-09-28 | 2023-12-22 |
 | [Ma woman](https://open.spotify.com/track/5mxkWPEeK9xtESvK7dA8in) | [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [Ma woman](https://open.spotify.com/album/0zxfdqT2f5DqI3u35Ki3ed) | 3:42 | 2024-10-17 |  |
@@ -144,7 +146,7 @@
 | [Reviens\-moi](https://open.spotify.com/track/4fRONCP1im6oryMMLXgVfl) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Reviens\-moi](https://open.spotify.com/album/2V32gRmGl9lrYANBh9F3U4) | 2:44 | 2023-09-28 | 2023-10-06 |
 | [Rosalie](https://open.spotify.com/track/17lQCngPjOFEgHwprsVYif) | [Ayewai](https://open.spotify.com/artist/2vWk6xDLXH6q0aqIfqMwM3), [Dj Skyro](https://open.spotify.com/artist/6G97rMBD9PiOYqKgMrpRBo) | [On di Road](https://open.spotify.com/album/4sVuvKPam9nXw9PzBbdG0m) | 2:27 | 2024-06-27 | 2024-10-18 |
 | [Résignée](https://open.spotify.com/track/6dilPsFJWBb7UiyLVOYY7n) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L) | [Résignée](https://open.spotify.com/album/1AW1TKdEei7KQRYmjsLcNs) | 3:15 | 2023-09-28 | 2023-12-08 |
-| [San vou](https://open.spotify.com/track/2yzerewN8VNbVTy8Iuvzbj) | [Ina Lina](https://open.spotify.com/artist/2U6xeaHwqVrGgiKhnZyUlT), [Venssy](https://open.spotify.com/artist/5aEyUm5wfsHdn0z3QCcPlf), [Rohane](https://open.spotify.com/artist/4sOYdAl0sCehEnO9T1BqS4) | [San vou](https://open.spotify.com/album/1hp1wuS70Pyt4WaP0FV6OH) | 3:26 | 2024-09-19 |  |
+| [San vou](https://open.spotify.com/track/2yzerewN8VNbVTy8Iuvzbj) | [Ina Lina](https://open.spotify.com/artist/2U6xeaHwqVrGgiKhnZyUlT), [Venssy](https://open.spotify.com/artist/5aEyUm5wfsHdn0z3QCcPlf), [Rohane](https://open.spotify.com/artist/4sOYdAl0sCehEnO9T1BqS4) | [San vou](https://open.spotify.com/album/1hp1wuS70Pyt4WaP0FV6OH) | 3:26 | 2024-09-19 | 2024-11-15 |
 | [Serment \- Radio edit](https://open.spotify.com/track/62O7y8OPglCh7J70MMAowI) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW), [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [Serment](https://open.spotify.com/album/2EaYozbzaEtekOYF3WLFVB) | 2:57 | 2024-05-16 | 2024-10-25 |
 | [Serre\-moi fort](https://open.spotify.com/track/1TfH1H8BmFn81hwWmPtRef) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Serre\-moi fort](https://open.spotify.com/album/5su35ho6QuT12QzASVupHO) | 3:36 | 2024-01-25 |  |
 | [SERRER CONTRE MOI](https://open.spotify.com/track/11KzpAtpu1YW79xeU4kSJ1) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno) | [SERRER CONTRE MOI](https://open.spotify.com/album/7rr5vAOEmBosZyFFR3B4hw) | 3:08 | 2023-09-28 | 2024-04-19 |

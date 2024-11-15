@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 
 > Fue durante los '70 que el Rock se manifestó como un gigante a nivel mundial\. Argentina no fue la excepción\.  Foto: <a href="spotify:artist:10vtHOCA3qPLmrGylgO2F1">Manal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,213 likes - 55 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,217 likes - 55 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 54 | [Apocalipsis](https://open.spotify.com/track/30czyV8neTmYprYxbOd5mY) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [La Biblia](https://open.spotify.com/album/1gwVgLfNVV7xb8Ke0qlTna) | 4:47 |
 | 55 | [La mamá de Jimmy \- León Gieco](https://open.spotify.com/track/5ZOOHkuzNi2e2zdwphse4e) | [Porsuigieco](https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG) | [PorSuiGieco](https://open.spotify.com/album/4tYYZ1hDtg6A8CjtuBarb2) | 3:39 |
 
-Snapshot ID: `ZmozJAAAAABKxe9Lh7Z28oV1nBg3j7IN`
+Snapshot ID: `ZmozJAAAAABD4MELKZWRiOV2AyC0k6l7`

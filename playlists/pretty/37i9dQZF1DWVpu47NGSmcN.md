@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 
 > Jejeran artis perempuan inspiratif Indonesia\. Cover: Feby Putri
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,747 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,752 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 | 49 | [Wahai Tuan](https://open.spotify.com/track/5MNUpUqsp1pj8rpQrktIg1) | [bungareyza](https://open.spotify.com/artist/6HvcThrt4sOkqXk5oXb2QQ) | [Wahai Tuan](https://open.spotify.com/album/7mzOdhe8Huo3uWF2RIJ6Kz) | 3:14 |
 | 50 | [Satu\-Satu](https://open.spotify.com/track/3d6BjQ0QOLTzuKoOQbeGgG) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Mengudara](https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY) | 4:45 |
 
-Snapshot ID: `ZvwqkAAAAADuHLHrNnCGMBWEZSOFp/Ng`
+Snapshot ID: `ZvwqkAAAAADBe0eYKXXk8H+gbFMtH5i0`

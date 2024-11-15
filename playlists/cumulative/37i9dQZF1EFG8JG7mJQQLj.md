@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-499 songs - 1 day 4 hr 39 min
+501 songs - 1 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Enemy](https://open.spotify.com/track/0fC0DPtpNvrc3jQmLdPGIb) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Scream](https://open.spotify.com/album/5S0nZaBZCnu3bN5UjfjtmZ) | 4:35 | 2024-01-29 |  |
 | [Erase You](https://open.spotify.com/track/6FATUHeXuMpHg0u0UPnVD5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Erase You](https://open.spotify.com/album/0gqv9uDThyDmIPxIh4YdA7) | 2:29 | 2024-10-22 |  |
 | [Everybody Loves Me](https://open.spotify.com/track/0Q0Vl9fKJF5MDxfVKbD78e) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 3:34 | 2024-01-29 |  |
+| [Everyone Bleeds](https://open.spotify.com/track/4fTTSo54eiSHqL7sb93JMM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:22 | 2024-11-14 |  |
 | [Everything I Did to Get to You \(from Songland\)](https://open.spotify.com/track/7jnHuJ0HDcAYt7Anv77h4X) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Everything I Did to Get to You \(from Songland\)](https://open.spotify.com/album/40lf12fnzCVNE6t6MV2dvA) | 3:07 | 2024-01-29 |  |
 | [exes](https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:39 | 2024-01-29 |  |
 | [Faith \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/3KuZx7FPNcqXG8YFN5Y0OG) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Faith \(From "Sing" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2vcfCbzB0B72zI8fF5zBEv) | 2:40 | 2024-01-29 |  |
@@ -459,6 +460,7 @@
 | [Unbroken](https://open.spotify.com/track/1PDmepvxFGC6jP1GTs7rne) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [From The Inside Out](https://open.spotify.com/album/5ZvaQq8cnyHgYzPOkgMLR7) | 4:33 | 2024-01-29 |  |
 | [Unbroken \- Israel Remix](https://open.spotify.com/track/4fijxCLZxkask6LJH51Hzg) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Israel](https://open.spotify.com/artist/6ZIjO7ivv7IxVuyD4HqrAD) | [From The Inside Out](https://open.spotify.com/album/1AlBB0rTOKDXK2k7lf9tUT) | 3:46 | 2024-07-31 |  |
 | [Undone](https://open.spotify.com/track/4toeIDt20W3pA6hoce1P8W) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is Us](https://open.spotify.com/album/08wSk6XJ7365lO47E1278L) | 4:14 | 2024-01-29 |  |
+| [Unpretty](https://open.spotify.com/track/6eyFfSsaYDSGYWOHXTuJsZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:44 | 2024-11-14 |  |
 | [Used To Be](https://open.spotify.com/track/2n6red10oCd6YhlEUp6jXy) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:04 | 2024-01-29 |  |
 | [Victim](https://open.spotify.com/track/5U6xqaCXsyh6Xmt4BEFznq) | [Esmée Denters](https://open.spotify.com/artist/4ZfZ9troLXZsAVxcvXKXnV) | [Outta Here \(International Version\)](https://open.spotify.com/album/2qhJWYrgBn0oqSIlutu5xh) | 3:36 | 2024-01-29 |  |
 | [Vita mia](https://open.spotify.com/track/5hCavKp6KRvtKq1HPwVkOf) | [Arianna](https://open.spotify.com/artist/3EXJ8NNRFsjxtnqErEZ2jv), [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Vita mia](https://open.spotify.com/album/7D7xv6vOP9Y72AdQF7hgiv) | 3:19 | 2024-01-29 |  |

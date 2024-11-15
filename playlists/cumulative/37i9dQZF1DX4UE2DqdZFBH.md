@@ -4,10 +4,11 @@
 
 > Unwind to the real beauty of Instrumentals!
 
-137 songs - 10 hr 59 min
+138 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [5th Gear](https://open.spotify.com/track/5kQzb3hVQUBa5pk5WhT1KU) | [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [5th Gear](https://open.spotify.com/album/3ZIc6Y7x7ETamH9b2nF4px) | 5:19 | 2024-11-14 |  |
 | [A Mother's Lullaby \- Live](https://open.spotify.com/track/2pWLZPs7fj9zHKgccr6J88) | [Bharath Kashyap](https://open.spotify.com/artist/64gIAKUTHEFa94DBnvFdXR) | [Live at Gray Spark Audio](https://open.spotify.com/album/3cjjBxqy2u5qaEoNHgSn3g) | 5:00 | 2022-06-10 |  |
 | [A Tune for Peace \- an Interlude](https://open.spotify.com/track/1IsJo7jMClxOoNCpfQuiBs) | [Vinay Kaushal](https://open.spotify.com/artist/397mfo5Gp4jT72aYLnnSDZ) | [Naked on a Train](https://open.spotify.com/album/1Nd6oKZfCjqr2RzLfCRB6i) | 3:44 | 2022-06-10 |  |
 | [A Walk Through Brindavan \(feat\. Vijay Gopal & Nel Bucktowar\)](https://open.spotify.com/track/4IUm1uqTDRkyIA1T33GrnR) | [Devan Ekambaram](https://open.spotify.com/artist/1HUZ6vfsSWpfLoxjgDavEB), [Vijay Gopal](https://open.spotify.com/artist/5aRP9KONz01wF6kUFA173F), [Nel Bucktowar](https://open.spotify.com/artist/1IRL56HV87GLsLg71g4REl) | [A Walk Through Brindavan \(feat\. Vijay Gopal & Nel Bucktowar\)](https://open.spotify.com/album/38oyyrR3JnQKZjQOzIq2xn) | 4:28 | 2022-06-10 |  |
@@ -50,7 +51,7 @@
 | [Emotive Conversation](https://open.spotify.com/track/4TtP5t0uihrLtFbnDV2ImP) | [Avik Ganguly](https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks) | [Emotive Conversation](https://open.spotify.com/album/2Ig7cVIgBMpH2i4myl0NT1) | 2:52 | 2022-06-10 |  |
 | [Enna Thavam Seithanai \- Instrumental](https://open.spotify.com/track/0VOozVf5ZLEbMIVhBAdr9a) | [Ramachandra Murthy](https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736) | [This Is Carnatic Fusion, Vol\. 3](https://open.spotify.com/album/6g9Gc0j2bW30vFBK3Ltzq9) | 4:17 | 2022-06-10 |  |
 | [Entharo Pallavi & Charanam](https://open.spotify.com/track/4RIsoFzJNlHPhDso4oN2wF) | [Karnatriix](https://open.spotify.com/artist/0rhuXpjseoAieJYuBKQwR6) | [Namaste](https://open.spotify.com/album/1gXEGqRmzf1wIdefis4hKi) | 4:54 | 2022-06-10 |  |
-| [Ex\-Animo](https://open.spotify.com/track/0XBzo4dHYYwaruVBJjd6cd) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa) | [Abhay Nayampally](https://open.spotify.com/album/0PHqvL0508Pp8PSESdRrih) | 3:24 | 2022-06-10 |  |
+| [Ex\-Animo](https://open.spotify.com/track/0XBzo4dHYYwaruVBJjd6cd) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa) | [Abhay Nayampally](https://open.spotify.com/album/0PHqvL0508Pp8PSESdRrih) | 3:24 | 2022-06-10 | 2024-11-15 |
 | [Ex\-Animo](https://open.spotify.com/track/11eiYSPEAaifhDMswWLpdy) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa) | [Abhay Nayampally](https://open.spotify.com/album/6QhwQscRUGJ0C4E1xj9Uga) | 3:24 | 2022-06-10 | 2024-04-19 |
 | [Ex\-Animo](https://open.spotify.com/track/5msnjQgoFGir5Wn9NFIMmm) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa) | [Abhay Nayampally](https://open.spotify.com/album/3IkUBDxwNCrjavADJMynrN) | 3:24 | 2022-06-10 | 2023-11-05 |
 | [Garden Lounge](https://open.spotify.com/track/5yYy5YAfL3KaheD5qlRAnp) | [Sharat Chandra Srivastava](https://open.spotify.com/artist/3CPeq5bCgG560Ixb2DcM8U) | [No Passport Control](https://open.spotify.com/album/3PJf1a7bCNUqdJSX28wb1I) | 9:42 | 2022-06-10 |  |

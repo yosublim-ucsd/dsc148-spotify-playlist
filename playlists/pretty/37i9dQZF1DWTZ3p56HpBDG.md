@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 > Best of South Asian diaspora\. Cover: Raf Saperra
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,790 likes - 78 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,791 likes - 78 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 77 | [Wild One \- Jai Wolf Club Babu Remix](https://open.spotify.com/track/2PITIYqQKjiFMDDasXuYgd) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Wild One \(Jai Wolf Club Babu Remix\)](https://open.spotify.com/album/32HMPGIwpx49uQr5dtt9KG) | 3:03 |
 | 78 | [Sri Lanka](https://open.spotify.com/track/28zAYZ5BW3A9u6KAEFdPWM) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [LAFANDAR](https://open.spotify.com/album/0txwScooV6S8rd8uhWfUGe) | 2:06 |
 
-Snapshot ID: `Zy35AwAAAADlbcrAv+xWgCnJpYZfTaT9`
+Snapshot ID: `Zy35AwAAAABLTokH20h4EG1upt5leAha`

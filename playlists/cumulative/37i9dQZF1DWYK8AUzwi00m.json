@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "A Merry Little XMAS",
+        "url": "https://open.spotify.com/album/0Ucerz2HM5MYkdr2W1ZvvN"
+      },
+      "artists": [
+        {
+          "name": "Approachable Animals",
+          "url": "https://open.spotify.com/artist/6nceKCpE6e0TmuXMxg37IR"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "A Merry Little XMAS",
+      "url": "https://open.spotify.com/track/3KYhdw2FCJPe4OYFhZki2P"
+    },
+    {
+      "album": {
         "name": "Merry Christmas (Lofi beats)",
         "url": "https://open.spotify.com/album/3nFx4sv8We0GyLBq1tk7pa"
       },
@@ -1078,7 +1096,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 150000,
       "name": "cozy winter",
       "url": "https://open.spotify.com/track/27DbLUyeQa4I2vMdZhQQ73"
@@ -3190,7 +3208,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 135482,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/1bYOSfl3K0csaEpZTUJ0ZS"
@@ -3594,6 +3612,24 @@
       "duration_ms": 190403,
       "name": "oh! christmas! tree!",
       "url": "https://open.spotify.com/track/3zaGxvoz9D6tQAfrdhdicV"
+    },
+    {
+      "album": {
+        "name": "pinecone",
+        "url": "https://open.spotify.com/album/3PL8nzgWtTYiLaVT8G1OCS"
+      },
+      "artists": [
+        {
+          "name": "okayokay",
+          "url": "https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129438,
+      "name": "pinecone",
+      "url": "https://open.spotify.com/track/65Vg9y4WCpOBN6I9xMNZRo"
     },
     {
       "album": {
@@ -5530,6 +5566,24 @@
       "duration_ms": 103514,
       "name": "Yuletide",
       "url": "https://open.spotify.com/track/4SqfEcfHRqR522BleRT5Rr"
+    },
+    {
+      "album": {
+        "name": "Yuletide Kisses",
+        "url": "https://open.spotify.com/album/0n6EpwfcTkId1k2yckAywJ"
+      },
+      "artists": [
+        {
+          "name": "Uneven Cream",
+          "url": "https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116493,
+      "name": "Yuletide Kisses",
+      "url": "https://open.spotify.com/track/2hvZZK9ayvtcTxwEX1ZJJZ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYK8AUzwi00m"

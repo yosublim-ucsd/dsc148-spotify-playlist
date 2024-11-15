@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 
 > Positive and uplifting ambient instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,168 likes - 233 songs - 11 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,157 likes - 233 songs - 11 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -242,4 +242,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOhRIDwDB7M.md) - [plain]
 | 232 | [Clear Sight](https://open.spotify.com/track/2APpB3CYW0XThDZtaGFpQ9) | [Morning Flowers](https://open.spotify.com/artist/1DeMgRnkbGP7ESjYVVP8CA) | [Clear Sight](https://open.spotify.com/album/1jiA5TfiHFMVrmdXhGDX90) | 2:13 |
 | 233 | [Cross My Heart](https://open.spotify.com/track/1c8FmuRVU394oqbNKDX6mH) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/2oL51NXTh3XyG4ZQBYo5qd) | 2:27 |
 
-Snapshot ID: `ZxJuDgAAAACsuXXRfGSj4stw/ZbjPQkV`
+Snapshot ID: `ZxJuDgAAAACY7/4TKYYou3RI/7w/J4kr`

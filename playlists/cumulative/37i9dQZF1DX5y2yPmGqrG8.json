@@ -1675,6 +1675,24 @@
     },
     {
       "album": {
+        "name": "Breve",
+        "url": "https://open.spotify.com/album/3pv2MeVmzPomW7kGyO4JHb"
+      },
+      "artists": [
+        {
+          "name": "Hainbach",
+          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252689,
+      "name": "Breve",
+      "url": "https://open.spotify.com/track/0rPolyYcE1EFWfyHp9OxlT"
+    },
+    {
+      "album": {
         "name": "Music for Animals",
         "url": "https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ"
       },
@@ -1888,7 +1906,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 282695,
       "name": "C2 - Misplaced in time",
       "url": "https://open.spotify.com/track/5T8IT6Qq5eH08c5T95j1ON"
@@ -4824,7 +4842,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 125030,
       "name": "image no. 4",
       "url": "https://open.spotify.com/track/1TbDfkXAw8sbd3oewgAOW4"
@@ -5830,7 +5848,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-13",
+      "date_removed": null,
       "duration_ms": 240282,
       "name": "May As Well Be",
       "url": "https://open.spotify.com/track/3bPrZswZF1OiWToRkgB7i8"

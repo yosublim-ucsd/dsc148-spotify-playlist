@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeucCBlpRLm.md) - [plain]
 
 > Kickstart your Diwali party with these bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,886 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,929 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeucCBlpRLm.md) - [plain]
 | 99 | [Makhna](https://open.spotify.com/track/7A9zMoPZw4fN7zSVXINeEF) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Singhsta](https://open.spotify.com/artist/2JkJfNbvLY88Fvzspynu6G), [Pinaki](https://open.spotify.com/artist/4HaSmpjHgMGtwS8HRkewJM), [Sean](https://open.spotify.com/artist/6EWOMj5R4Ipyv0AgMjmL4T), [Allistair](https://open.spotify.com/artist/6WoyKYy6jUSlTtwQj3nNCn) | [Makhna](https://open.spotify.com/album/05TSwmxg7wMt4yIMx7dnIc) | 3:11 |
 | 100 | [Abhi Toh Party Shuru Hui Hai \(From "Khoobsurat"\)](https://open.spotify.com/track/51ZN0MyxxJ0VmCN2Hlscfw) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Aastha](https://open.spotify.com/artist/6OUer1U5KXv9ewP3qfo8LR) | [Badshah Party Hits](https://open.spotify.com/album/110clEeXAiACmSXM78nK0h) | 2:59 |
 
-Snapshot ID: `ZxYd/QAAAADQOmCZftWFgiifK0MjldcA`
+Snapshot ID: `ZxYd/QAAAAAiEHsko/KHiXlJJDZ9P6Bu`

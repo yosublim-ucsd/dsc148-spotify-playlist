@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: LUISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,227 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,231 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 49 | [guardian angel](https://open.spotify.com/track/7cmydLPOy8B9V6WAYXF7Wo) | [THERA](https://open.spotify.com/artist/2e6l2oHiK9UszKm6jVT1AG) | [I Wish I Called](https://open.spotify.com/album/4YKJV90ykQoDDwOr0p6kYg) | 4:18 |
 | 50 | [Leto](https://open.spotify.com/track/6M21tCY3hiT9Uz1SgruwAZ) | [POLINA BABIY](https://open.spotify.com/artist/54pGOUKNSBidUJiz9RBtm5) | [Leto](https://open.spotify.com/album/6UbQnBVjFniAk7ObJCvT7D) | 2:31 |
 
-Snapshot ID: `Zys2zgAAAABg+t4SQ5VoJzbL8Zrq4JNf`
+Snapshot ID: `Zys2zgAAAAAxyy/H+hyPosBeQSIRLpYx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Brett Eldredge
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,688 likes - 105 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,053 likes - 105 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 104 | [Holly Jolly Christmas](https://open.spotify.com/track/3RToWSH2mkKq8QfI8bgMH3) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Cheers, It's Christmas \(Super Deluxe\)](https://open.spotify.com/album/7BKMLhbGps9SDjUh8FEv8o) | 2:11 |
 | 105 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1C85AHCMc9BjX5SWeUEsHo) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [A Classic Christmas](https://open.spotify.com/album/5zPiyi6NAqHkuETPjhBHW1) | 2:33 |
 
-Snapshot ID: `Zy2a0AAAAACNeInEWRTunkQi4Y9sy1S+`
+Snapshot ID: `Zy2a0AAAAADYC1VWO5rStx71qfwfEmXQ`

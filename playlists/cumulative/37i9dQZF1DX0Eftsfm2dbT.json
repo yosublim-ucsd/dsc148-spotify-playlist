@@ -1371,6 +1371,40 @@
     },
     {
       "album": {
+        "name": "03-",
+        "url": "https://open.spotify.com/album/6UDMcdHADQNlasMhRyDejF"
+      },
+      "artists": [
+        {
+          "name": "03- Performance",
+          "url": "https://open.spotify.com/artist/6s8icbnXfmBIWKZBOeapej"
+        },
+        {
+          "name": "Rommy Montana",
+          "url": "https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM"
+        },
+        {
+          "name": "Loar",
+          "url": "https://open.spotify.com/artist/1x75eUguNz9MqxUp03iiPj"
+        },
+        {
+          "name": "DADA",
+          "url": "https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN"
+        },
+        {
+          "name": "AMO",
+          "url": "https://open.spotify.com/artist/7ymzaplgxOHvLpqgsv0FcO"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215013,
+      "name": "All In (feat. Loar, DADA & AMO)",
+      "url": "https://open.spotify.com/track/4vP6CWDPUsZdXL3S8J2Ssx"
+    },
+    {
+      "album": {
         "name": "All My Life",
         "url": "https://open.spotify.com/album/1nVOfilyAErWuZsYWqzmPQ"
       },
@@ -1792,7 +1826,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 157108,
       "name": "Assassin",
       "url": "https://open.spotify.com/track/6bCMGLL7p8RT64nK7IH7Tp"
@@ -11324,7 +11358,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 196875,
       "name": "Keys",
       "url": "https://open.spotify.com/track/2mGwoHVlVXzgkW4HMK0NTs"
@@ -27104,6 +27138,32 @@
       "duration_ms": 155253,
       "name": "\u8a00\u3063\u305f!! - Remix",
       "url": "https://open.spotify.com/track/07EetFndMCGo6AOzTInkwH"
+    },
+    {
+      "album": {
+        "name": "\u8a00\u3063\u305f!! (Remix)",
+        "url": "https://open.spotify.com/album/775vuu1UGoMMhsoWhy2api"
+      },
+      "artists": [
+        {
+          "name": "MIKADO",
+          "url": "https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM"
+        },
+        {
+          "name": "Yvng Patra",
+          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
+        },
+        {
+          "name": "042ghxst",
+          "url": "https://open.spotify.com/artist/2qFj0xavjiYws9KyyfKytb"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156200,
+      "name": "\u8a00\u3063\u305f!! - Remix",
+      "url": "https://open.spotify.com/track/1L2WkdPGNAU3UKtGcuUsYT"
     },
     {
       "album": {

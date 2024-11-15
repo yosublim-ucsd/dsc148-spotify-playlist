@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 638,884 likes - 152 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,877 likes - 152 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 151 | [Breakfast In Birmingham \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/3GOgNvOS69nv122eNjYGUG) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Breakfast In Birmingham \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/2R5MdULbrzeoioeTF7xrpj) | 3:30 |
 | 152 | [All I Really Wanna Do](https://open.spotify.com/track/2pdN1F1hOI1At7GepafDMT) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Love You Anyway](https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG) | 3:42 |
 
-Snapshot ID: `ZxsXwAAAAAA+lOtBN/B/Fehrm9Z4nads`
+Snapshot ID: `ZxsXwAAAAABwn9gUtWQxhCWZZlJDcw8Y`

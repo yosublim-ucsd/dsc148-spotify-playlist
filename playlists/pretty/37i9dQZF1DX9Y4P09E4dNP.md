@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > The big Hip\-Life hits rn\. Cover: Sarkodie and Victony
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,842 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,858 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 49 | [Effiakuma Broken Heart](https://open.spotify.com/track/3ebcYH7mX3q6muQUBiWhNT) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Effiakuma Broken Heart](https://open.spotify.com/album/4lpN5pNVf6HDWpIrBFd3aC) | 3:09 |
 | 50 | [Abena](https://open.spotify.com/track/2RlQiNWMoTNx7JLO9ltAhn) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:54 |
 
-Snapshot ID: `Zy3LsAAAAAAxB173DCCNophCD5wa2cIA`
+Snapshot ID: `Zy3LsAAAAACh9InP6xaYg8CINqsn36jY`

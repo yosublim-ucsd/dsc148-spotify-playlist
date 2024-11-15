@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 620703,
+  "num_followers": 620830,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzKagAAAAACFTHYawdX13c+sZ9uJS923",
+  "snapshot_id": "ZzPsAAAAAABRfT3cnCgfbcfn9vaAu0fD",
   "tracks": [
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stop Staring At the Shadows",
-        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 106340,
-      "name": "What the Fuck is Happening",
-      "url": "https://open.spotify.com/track/29iepR0ydOuYFaZp8um6H8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KILL YOURSELF Part XIV: The Vulture Saga",
         "url": "https://open.spotify.com/album/4shih0Tkjmn2JWJHSHlF2s"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 123285,
       "name": "Venom",
       "url": "https://open.spotify.com/track/4RYhSQFFlquCTb8XRMJgFU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stop Staring At the Shadows",
+        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 106340,
+      "name": "What the Fuck is Happening",
+      "url": "https://open.spotify.com/track/29iepR0ydOuYFaZp8um6H8"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "High Tide in the Snake's Nest",
+        "url": "https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 192168,
+      "name": "Diemonds",
+      "url": "https://open.spotify.com/track/4PYYfhYIP7TyzxeMU4xvp3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "YUNGDEATHLILLIFE",
         "url": "https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 162138,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/2UbMJbQq6G0TJnmnubgolV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "High Tide in the Snake's Nest",
-        "url": "https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 192168,
-      "name": "Diemonds",
-      "url": "https://open.spotify.com/track/4PYYfhYIP7TyzxeMU4xvp3"
     },
     {
       "added_at": null,

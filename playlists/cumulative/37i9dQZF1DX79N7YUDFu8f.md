@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte popliedjes.
 
-238 songs - 14 hr 10 min
+239 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Even on Bad Days](https://open.spotify.com/track/1Yn0e8tam3k9rNHIhI5GNg) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Even on Bad Days](https://open.spotify.com/album/02fIwZWAMLUPo5OI7LVnr9) | 4:38 | 2023-10-06 |  |
 | [Everything Grows](https://open.spotify.com/track/1SjWBuWiOuEWyZQJZI7aLZ) | [Nagasaki Swim](https://open.spotify.com/artist/4KRpZy44q6xnBkjylQ4p5T) | [Everything Grows](https://open.spotify.com/album/3bUHdR32jmz04qR2DNSF8B) | 4:17 | 2023-02-23 |  |
 | [Everything Grows](https://open.spotify.com/track/7dTGW4xLjjkpEMGWdvGf4V) | [Nagasaki Swim](https://open.spotify.com/artist/4KRpZy44q6xnBkjylQ4p5T) | [Everything Grows](https://open.spotify.com/album/2aUUlYum6c8SSwLEdj0f1M) | 4:17 | 2023-04-27 | 2024-04-19 |
+| [Everything In Harmony \- Acoustic](https://open.spotify.com/track/6sDV1rXmmx4e3PFFYscTnk) | [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw) | [Fuzz / Everything In Harmony \(Acoustic\)](https://open.spotify.com/album/3YnQm8Q7dtsxlLhpgoPx9o) | 3:04 | 2024-11-14 |  |
 | [Find The River](https://open.spotify.com/track/3SBgn3VyF9blrHYcJ5bg1k) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/3ImeTxETbPlg8S6cFNlova) | 3:49 | 2021-11-24 | 2022-02-04 |
 | [For All You Give](https://open.spotify.com/track/59GNu8e5TeFC8RsdkdXJsz) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [For All You Give](https://open.spotify.com/album/7CgedGQTmESdQxTg2FE3mR) | 3:11 | 2022-11-03 | 2022-11-13 |
 | [For All You Give](https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:11 | 2022-06-03 | 2023-12-15 |
@@ -169,7 +170,7 @@
 | [Realize It All \- Acoustic](https://open.spotify.com/track/608CINyj8dNwdOWUKgkyNs) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Realize It All \(Acoustic\)](https://open.spotify.com/album/4Ywiib2uibpXnvFFmYVDRg) | 3:36 | 2022-06-03 | 2024-04-19 |
 | [Right Through Me](https://open.spotify.com/track/5dPREVUsHP468JeuqHNkuQ) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [Right Through Me](https://open.spotify.com/album/498cZKg8d0Wp1uDna2wZ5p) | 3:33 | 2021-11-24 | 2022-07-29 |
 | [Right Through Me](https://open.spotify.com/track/7HQ0kkdIswgLxz2X9Qm4ci) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [Right Through Me](https://open.spotify.com/album/60916foyRWkGRNvS0pDcEa) | 3:33 | 2022-06-03 | 2022-11-04 |
-| [Roller Coaster](https://open.spotify.com/track/1Xx7NsxXA91Jgt1fJ3NfNp) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Roller Coaster](https://open.spotify.com/album/7bNCCK8eObScVeCpbW9jQx) | 4:29 | 2021-11-24 |  |
+| [Roller Coaster](https://open.spotify.com/track/1Xx7NsxXA91Jgt1fJ3NfNp) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Roller Coaster](https://open.spotify.com/album/7bNCCK8eObScVeCpbW9jQx) | 4:29 | 2021-11-24 | 2024-11-15 |
 | [Roller Coaster](https://open.spotify.com/track/5B5YKjgne3TZzNpMsN9aj1) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Pressure Makes Diamonds](https://open.spotify.com/album/0A9Ozy729zqiSdMVkBMizh) | 4:29 | 2022-06-03 | 2024-04-19 |
 | [Roller Coaster](https://open.spotify.com/track/742x5JWzzPYXA60xM64xwE) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Roller Coaster](https://open.spotify.com/album/17gdWDwcZffnaZfjSptALP) | 4:29 | 2022-11-03 | 2022-11-13 |
 | [Sacrifice](https://open.spotify.com/track/3XuIsQe0Z00LlyMLul6h8r) | [Gyo Kretz](https://open.spotify.com/artist/0JvKdVXySsrLWA3TO4uSnE) | [Sacrifice](https://open.spotify.com/album/7xkRFlCoYQe8bXgwFuFIqt) | 3:35 | 2021-11-24 |  |

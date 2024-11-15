@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > Celebrate 'Don't Ask' and Ausmusic Month with Tina Arena's picks of iconic Aussie women and non\-binary artists\. Cover: Tina Arena
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,677 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,790 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 49 | [Friends with Feelings](https://open.spotify.com/track/6fjLHqumARq82yruyMNE1m) | [Alice Skye](https://open.spotify.com/artist/0vi9khHSAwMRQx1R65dIFR) | [Friends With Feelings](https://open.spotify.com/album/62pNDsP5spxImRyDVaaKmo) | 4:15 |
 | 50 | [Every Day’s The Weekend](https://open.spotify.com/track/6igEXTKqOFuOEJDIAEUU9F) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [I Love You Like A Brother](https://open.spotify.com/album/5PyPauobzmwT3iWtSjWNvK) | 3:10 |
 
-Snapshot ID: `ZzSjDAAAAAAm1X/qQZu+1IUkObf5hdNW`
+Snapshot ID: `ZzSjDAAAAABUpFwp2k7kRc2mXBlR1tAB`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,470 likes - 92 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,508 likes - 92 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 | 91 | [Angry Minimal \- Mixed](https://open.spotify.com/track/5Tk4lRS7lCjM7bHAXsQPnm) | [Jani Ho](https://open.spotify.com/artist/2AF1D7VRZr1fIKe3wWRb21) | [ASW is Live Mixed by Carl Cox \(DJ Mix\)](https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv) | 3:40 |
 | 92 | [Non Stop \- Mixed](https://open.spotify.com/track/42fTcKAVODxkjMRSwd1lqs) | [Saytek](https://open.spotify.com/artist/51c1s2fN5DVKxQJ0mMhSHD) | [ASW is Live Mixed by Carl Cox \(DJ Mix\)](https://open.spotify.com/album/7lMs8PyOHkAMQd7Zzkmtyv) | 6:09 |
 
-Snapshot ID: `Zyj2nQAAAABAbstriqw7kAoCVdGIrS31`
+Snapshot ID: `Zyj2nQAAAACnVyIyyGJ0+COe+gqIVfIl`

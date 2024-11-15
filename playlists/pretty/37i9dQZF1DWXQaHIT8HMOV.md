@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Elijah Kitaka
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,742 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,758 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 59 | [Co\-Driver](https://open.spotify.com/track/0DqGxOwrd4D3UzMqkiN0pe) | [Jenesis Kimera](https://open.spotify.com/artist/6YmseNp2UAHXEbAepWOv4c) | [Co\-Driver](https://open.spotify.com/album/42Zut1b44a5bVEZfmAvVHo) | 3:13 |
 | 60 | [Fancida](https://open.spotify.com/track/2JLJ44jLjJ0N9EyyujMz9l) | [Martha Mukisa](https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6) | [Fancida](https://open.spotify.com/album/5EISezh0Z3BLzv8HxDyyW1) | 2:53 |
 
-Snapshot ID: `Zy1URAAAAADfCFkxNxvhqAkmbFsQbU+Z`
+Snapshot ID: `Zy1URAAAAABXLT+SygeaSr2Uciwg0xE8`

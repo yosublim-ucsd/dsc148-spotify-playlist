@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Laurel Bloom,  Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,962 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,968 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [RIV](https://open.spotify.com/track/48cB4tKFQdIXfMnzt70VOU) | [HCL](https://open.spotify.com/artist/59wQb8V2WmZCD6xWr0STof) | [RIV](https://open.spotify.com/album/3yF20AL0vAetFSrDx10RcN) | 6:03 |
 | 80 | [Wild Child](https://open.spotify.com/track/2fkSyPwJri6uojBODKOqkh) | [Johnny Fab Kaufmann](https://open.spotify.com/artist/5NCy7ptNpWhJZKY3oUqZzS) | [Wild Child](https://open.spotify.com/album/4CJv7pZfwH0hjaPcOul4mO) | 3:54 |
 
-Snapshot ID: `ZzR4oAAAAAA/ScOgAQ33Q2pVFona3a0A`
+Snapshot ID: `ZzR4oAAAAAAINdg7l92VLbzcDEO/GZQ6`

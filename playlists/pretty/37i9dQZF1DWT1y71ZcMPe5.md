@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: XG
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,280,085 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,280,162 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [OTW](https://open.spotify.com/track/1z06EFZw57FScJTILcSRDR) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [RICK](https://open.spotify.com/artist/5czgwKH54SxujkR4aHsyDS) | [OTW](https://open.spotify.com/album/19SgkNmHCz1ePuQry6At8u) | 2:46 |
 | 50 | [magician](https://open.spotify.com/track/2SLhkE9yEJiIOYZPu7JRiI) | [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [magician](https://open.spotify.com/album/0VJ4A5GTbfGmdwRdgscWRu) | 3:00 |
 
-Snapshot ID: `ZzF50gAAAADdplp/Ahp9UVlCl7mxseWV`
+Snapshot ID: `ZzF50gAAAADKdMA8CrvbhrUeQX4va+bq`

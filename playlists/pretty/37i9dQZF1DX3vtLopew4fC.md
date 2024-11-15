@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: Goldie Boutilier
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,949 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,955 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 49 | [brand new girl, brand new machine](https://open.spotify.com/track/1dkv7Wet7tohrkQTPXzdvw) | [Chiara Savasta](https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR) | [brand new girl, brand new machine](https://open.spotify.com/album/1yycghdjLunxBCSDEviMHF) | 2:47 |
 | 50 | [I Hope It Hurts](https://open.spotify.com/track/4baf3XBeEdPUTXFMGa77vv) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Golden](https://open.spotify.com/album/1NVXFnpdszTez8PHw65c7N) | 2:51 |
 
-Snapshot ID: `Zyr30AAAAABE5u+1+1uWfbUBa5RgJPOS`
+Snapshot ID: `Zyr30AAAAABe/Cw8fo3b8rLGMc9IcuC8`

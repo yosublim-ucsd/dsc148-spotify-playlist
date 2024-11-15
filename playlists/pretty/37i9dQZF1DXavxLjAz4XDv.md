@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavxLjAz4XDv.md) - [plain]
 
 > Essential tracks from "Resident Evil" series\. 25周年を迎えたホラーゲームの金字塔、バイオハザードシリーズの音楽をプレイリストで。©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,306 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,315 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavxLjAz4XDv.md) - [plain]
 | 59 | [Tofu on Fire \- Remastered 2021](https://open.spotify.com/track/0Wq4TlALpYIXDsMeKyT8TD) | [中山翔太郎](https://open.spotify.com/artist/50O6Y1sf1UMxmSpjH7Khan), [藤澤鯛介](https://open.spotify.com/artist/7wHWK8TXkOueqk2sxnfAXO) | [バイオハザードサウンドクロニクルIII](https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v) | 3:38 |
 | 60 | [Go Tell Aunt Rhody \-Dixiland Jazz\- \- Alternative Ver\. Remastered 2021](https://open.spotify.com/track/3JZwsuajLgxNPXrU4rV9FG) | [堀諭史](https://open.spotify.com/artist/56JQzzYTLuEO1MvPct6Tfg) | [バイオハザードサウンドクロニクルIII](https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v) | 4:01 |
 
-Snapshot ID: `ZIsPLQAAAABnBKC346Ngw2y2soH7+KzK`
+Snapshot ID: `ZIsPLQAAAAARcUVhO51/0IH/N8F0lv0c`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 
 > Bluesy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,068 likes - 72 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,074 likes - 72 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 71 | [A Blues Malfunktion \- Original Mix](https://open.spotify.com/track/4jhcv2U1ixMKewjowApJYK) | [Beat Fatigue](https://open.spotify.com/artist/02m3zUZ22DsQCXQsjjSCwQ) | [Malfunktionality Part One](https://open.spotify.com/album/5gEOlPNZqkxTDafDyAqz2Z) | 4:18 |
 | 72 | [Reasons](https://open.spotify.com/track/4hGyxsLEwbuwlLsxunnMoT) | [PARTY SHIRT](https://open.spotify.com/artist/5QsM7I7aDux4F7lm8aWBNA) | [Reasons](https://open.spotify.com/album/4eehdx5DtW9A6RvfLaVirQ) | 5:00 |
 
-Snapshot ID: `ZrWUQAAAAAArMnTkbwwt4b4GV++ULqq2`
+Snapshot ID: `ZrWUQAAAAAA0tDUn7O99kZx/sAaxpoV5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Calm and quiet piano music for reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,203,578 likes - 212 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,203,814 likes - 212 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 211 | [Dolce](https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Dolce](https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv) | 2:23 |
 | 212 | [After a Visit](https://open.spotify.com/track/3rKSpzc4iNd7kiihS6V7ZY) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [After a Visit](https://open.spotify.com/album/17wW4OptqVkAC4xNZLWM7H) | 2:01 |
 
-Snapshot ID: `ZzNOjQAAAADCfpl9nxR20lGlbh2aas24`
+Snapshot ID: `ZzNOjQAAAAASFmKloWrggbPc554DpHqQ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CM2xT3aAkN.md) - [plain]
 
 > Choral and instrumental classical music from the Renaissance era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,944 likes - 65 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,001 likes - 65 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CM2xT3aAkN.md) - [plain]
 | 64 | [Mass For Four Voices: 1\. Gloria](https://open.spotify.com/track/2PhclxPrZW16t67YAGRYoR) | [Thomas Tallis](https://open.spotify.com/artist/1XmMnFJ9jhW4tI7bQuNYFG), [The Hilliard Ensemble](https://open.spotify.com/artist/0L8W3JzyTX29RLKZgc3bqS), [Paul Hillier](https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF) | [Tallis: The Lamentations Of Jeremiah](https://open.spotify.com/album/5gMOEzoVfghYeo9sPedL5d) | 5:09 |
 | 65 | [The King of Denmarks Delight](https://open.spotify.com/track/2PosJTq6obVASb20uOSmgC) | [Tobias Hume](https://open.spotify.com/artist/1z5IeyRbd7iLgu1fpxFRLe), [Jordi Savall](https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL) | [Hume: Poeticall Musicke](https://open.spotify.com/album/1X1HfR9db93Nr2gOBAX2Hn) | 2:31 |
 
-Snapshot ID: `ZxDHfAAAAADN+IS7J1+OTcVDdSorxvLf`
+Snapshot ID: `ZxDHfAAAAABu8TODvCfeH3Vbz+KJl9q2`

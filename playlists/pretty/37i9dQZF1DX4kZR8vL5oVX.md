@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Clara Luciani \(du titre \#2 au \#16\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,168 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,187 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [Exister](https://open.spotify.com/track/4LdgaYjFuTjx4BpiLqa865) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Exister](https://open.spotify.com/album/2pJpWWUKSoPgXQ5F8UTCy8) | 3:19 |
 | 50 | [Décibels](https://open.spotify.com/track/5CuTvuJxQEIwI9JS8LiI3k) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Décibels](https://open.spotify.com/album/3gnD4Xi42JDhk4vk6A1VxD) | 3:06 |
 
-Snapshot ID: `ZyqVYAAAAAB/cYIZxCBuIAU346dVElDA`
+Snapshot ID: `ZyqVYAAAAACB/LCyP/dw8+ccSsGUnfuY`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > os louvores que dão força à irmã do cross, <a href="https://www.instagram.com/irmamarlucesantosof/">@irmamarluceof</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,730 likes - 19 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,820 likes - 19 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 18 | [Casa de Deus](https://open.spotify.com/track/6FQvtVvQhmJGYgEEH1ip7J) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Apocalipse](https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI) | 6:25 |
 | 19 | [O Escudo](https://open.spotify.com/track/2qkdDgfdWAcWt3KRLROmmG) | [Voz da Verdade](https://open.spotify.com/artist/6lNJyLZ53yiJlCfwcxtT71) | [O Melhor de Deus Esta Por Vir](https://open.spotify.com/album/6sEAKuCnpJY4PBsICA6Eb5) | 4:25 |
 
-Snapshot ID: `ZzSiogAAAADCfX9D7sZ/k7TNydW6wh67`
+Snapshot ID: `ZzSiogAAAACwA01DtWZaUKCrt4k9aOj9`

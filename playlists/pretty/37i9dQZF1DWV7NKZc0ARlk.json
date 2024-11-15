@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 219111,
+  "num_followers": 219394,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqwG1wAAAACKvPcl4gjn0SOtaRaP000C",
+  "snapshot_id": "ZqwG1wAAAACxJ9WySnjBxkHlHhwNtaFm",
   "tracks": [
     {
       "added_at": "2024-08-01 22:06:14",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-08-01 22:06:14",
       "album": {
-        "name": "La Guzm\u00e1n en Primera Fila",
-        "url": "https://open.spotify.com/album/1yqJDX1lRCrWaXpkww9Pd6"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "Yo Te Esperaba - Primera Fila [En Vivo]",
-      "url": "https://open.spotify.com/track/3YT6mjbJ2VL7wBI95LDzNR"
-    },
-    {
-      "added_at": "2024-08-01 22:06:14",
-      "album": {
         "name": "Thalia En Primera Fila",
         "url": "https://open.spotify.com/album/1gquXke1WKYRz3VSxlZDxa"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 249360,
       "name": "El Pr\u00f3ximo Viernes - Live Version",
       "url": "https://open.spotify.com/track/3ug4KguxOFtVOpq2zDY6uh"
+    },
+    {
+      "added_at": "2024-08-01 22:06:14",
+      "album": {
+        "name": "La Guzm\u00e1n en Primera Fila",
+        "url": "https://open.spotify.com/album/1yqJDX1lRCrWaXpkww9Pd6"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "Yo Te Esperaba - Primera Fila [En Vivo]",
+      "url": "https://open.spotify.com/track/3YT6mjbJ2VL7wBI95LDzNR"
     },
     {
       "added_at": "2024-08-01 22:06:14",

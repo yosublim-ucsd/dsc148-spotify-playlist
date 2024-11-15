@@ -268,7 +268,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 145314,
       "name": "All Is Good",
       "url": "https://open.spotify.com/track/2taX1reIQRP5APwN3AYmDq"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 212874,
       "name": "anhelo",
       "url": "https://open.spotify.com/track/7dgNKgQTOXvDyL4oX1xrZ3"
@@ -578,6 +578,24 @@
       "duration_ms": 159500,
       "name": "At Rest",
       "url": "https://open.spotify.com/track/1qox7A6GvcVMcqhpOoIzsX"
+    },
+    {
+      "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/3GYeeFdeoxLMMBe5kg8fby"
+      },
+      "artists": [
+        {
+          "name": "Ventura Lumi",
+          "url": "https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152439,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/70qrjTSITI223cRd3vplUI"
     },
     {
       "album": {
@@ -866,7 +884,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 192500,
       "name": "Bo\u00f6tes",
       "url": "https://open.spotify.com/track/1nIVZg8EmaIZD5FuJ5nOuw"
@@ -1136,7 +1154,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 142511,
       "name": "Circular Again",
       "url": "https://open.spotify.com/track/1K4JORhE9W021L84RJLlp6"
@@ -1856,7 +1874,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 196000,
       "name": "D\u00e9sir",
       "url": "https://open.spotify.com/track/3OHBNZSVpnXmKBiLkXIXZS"
@@ -2278,7 +2296,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 170500,
       "name": "feather",
       "url": "https://open.spotify.com/track/0lFk8GCAu5gbxNCxPGuoOU"
@@ -3196,7 +3214,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 203113,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/7j0rOyP9heljOUoUuFTr1Z"
@@ -3308,6 +3326,24 @@
       "duration_ms": 172358,
       "name": "It Can Wait",
       "url": "https://open.spotify.com/track/1dEGL08epUeUDXNr5qfSSX"
+    },
+    {
+      "album": {
+        "name": "Jewel of Jupiter",
+        "url": "https://open.spotify.com/album/6zH5nzubHCL7zkhAVCBbak"
+      },
+      "artists": [
+        {
+          "name": "Malec Redoun",
+          "url": "https://open.spotify.com/artist/72hcnd4I2B0Th67NLZM2Q6"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236712,
+      "name": "Jewel of Jupiter",
+      "url": "https://open.spotify.com/track/5qwMXfAdHgT2QT1xOALC7B"
     },
     {
       "album": {
@@ -3826,7 +3862,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 180000,
       "name": "Midnight Meandering (Peace)",
       "url": "https://open.spotify.com/track/6pxESpr2mORBYPLA63wy3D"
@@ -4319,6 +4355,24 @@
     },
     {
       "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/6GniRMiPkWWL8YdSfHCrXY"
+      },
+      "artists": [
+        {
+          "name": "Sol Reya",
+          "url": "https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157524,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/3lIMt3XL0CRwWGeaNZNlub"
+    },
+    {
+      "album": {
         "name": "Nimbus Voyage",
         "url": "https://open.spotify.com/album/59JjF47HO8J3yNZPQAn7El"
       },
@@ -4636,7 +4690,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 183659,
       "name": "Patience",
       "url": "https://open.spotify.com/track/013eYaVKpTVsX41dEPSFt8"
@@ -4978,7 +5032,7 @@
       ],
       "date_added": "2020-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 170498,
       "name": "Promise of Sleep",
       "url": "https://open.spotify.com/track/2QEHcsBQREcE989pKQPviK"
@@ -5068,7 +5122,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 191428,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/2KCD0Kx46ftF8quaA1I0cP"
@@ -5590,7 +5644,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 204090,
       "name": "Sintra - Ambient Mix",
       "url": "https://open.spotify.com/track/6Jvp6beybIW9umUJkjkWXV"
@@ -6764,7 +6818,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 128084,
       "name": "To Me",
       "url": "https://open.spotify.com/track/5R6uVJy58OxgyA0BQbY7Tk"
@@ -7268,7 +7322,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 175813,
       "name": "Way of Shadows",
       "url": "https://open.spotify.com/track/71mN9aVMlm4vBZ6YzKPKeR"
@@ -7376,7 +7430,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 185188,
       "name": "White Light",
       "url": "https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG"

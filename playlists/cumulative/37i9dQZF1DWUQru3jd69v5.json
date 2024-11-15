@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Glocky in cover della playlist con la nuova generazione del rap italiano. ",
+  "description": "Lorenzza in cover della playlist con la nuova generazione del rap italiano. ",
   "name": "Raptopia",
   "tracks": [
     {
@@ -570,6 +570,28 @@
       "duration_ms": 120833,
       "name": "200%",
       "url": "https://open.spotify.com/track/4uHe0ruDjF9fLfhmwLfNLf"
+    },
+    {
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/7KA4HQshkUPNtpP3UDpowQ"
+      },
+      "artists": [
+        {
+          "name": "MBOSS",
+          "url": "https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az"
+        },
+        {
+          "name": "SPOOKYPBL",
+          "url": "https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185760,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/118lBaOeoRLNnySo8DOKRc"
     },
     {
       "album": {
@@ -3334,7 +3356,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 216639,
       "name": "BIG RACKS",
       "url": "https://open.spotify.com/track/4LGZESTCi9isN6j6A0lcni"
@@ -3492,6 +3514,24 @@
       "duration_ms": 148384,
       "name": "Bimba",
       "url": "https://open.spotify.com/track/6O0URMZLhNyS2d6Ip1jOTC"
+    },
+    {
+      "album": {
+        "name": "BIMBA",
+        "url": "https://open.spotify.com/album/7D0PvYTBHrqk22q3SY3Nas"
+      },
+      "artists": [
+        {
+          "name": "Tokyo",
+          "url": "https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165721,
+      "name": "BIMBA",
+      "url": "https://open.spotify.com/track/0yQYsWMiMenj6XiMj5E3eo"
     },
     {
       "album": {
@@ -6520,7 +6560,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 207634,
       "name": "Control",
       "url": "https://open.spotify.com/track/5cMn8cSZzsM1Xb337JWExL"
@@ -6900,6 +6940,32 @@
       "duration_ms": 126196,
       "name": "Cristiano Rollando",
       "url": "https://open.spotify.com/track/5WqOwUM7AfUPURxpO6O3L5"
+    },
+    {
+      "album": {
+        "name": "ESTERO",
+        "url": "https://open.spotify.com/album/0stK8Rc90Nn33ZONHqq2dj"
+      },
+      "artists": [
+        {
+          "name": "Sosa Priority",
+          "url": "https://open.spotify.com/artist/0gDbGOh9itthM6koQpDLoc"
+        },
+        {
+          "name": "Fiore Akamono",
+          "url": "https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB"
+        },
+        {
+          "name": "18K",
+          "url": "https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200620,
+      "name": "Croce Ortodossa (DEVA) feat. Fiore Akamono, 18K",
+      "url": "https://open.spotify.com/track/7GE0hBMT8PJfC1jcGCUsqQ"
     },
     {
       "album": {
@@ -8022,7 +8088,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 133548,
       "name": "DRIP (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/2PITEsf2iAwNBAH4FBVNCr"
@@ -9830,7 +9896,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 140309,
       "name": "Fotografia",
       "url": "https://open.spotify.com/track/5ZWi4wyfjozOlEA6AyjCRc"
@@ -10276,6 +10342,28 @@
       "duration_ms": 171428,
       "name": "Gabbana",
       "url": "https://open.spotify.com/track/54cmnDAECHzgNsvIHt6E4r"
+    },
+    {
+      "album": {
+        "name": "GACHA",
+        "url": "https://open.spotify.com/album/2EELavIJF247zj1n55sRA4"
+      },
+      "artists": [
+        {
+          "name": "Diss Gacha",
+          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135428,
+      "name": "GACHA",
+      "url": "https://open.spotify.com/track/6epc4bpQjEwGPuV8zy2APf"
     },
     {
       "album": {
@@ -12328,6 +12416,24 @@
       "duration_ms": 194042,
       "name": "IN PI\u00d9",
       "url": "https://open.spotify.com/track/4qanxGjKd2ts4MvOkcDTIp"
+    },
+    {
+      "album": {
+        "name": "in punta di piedi #124",
+        "url": "https://open.spotify.com/album/3xFaa0Fi5QqhIqT63jrReh"
+      },
+      "artists": [
+        {
+          "name": "dedde",
+          "url": "https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159677,
+      "name": "in punta di piedi #124",
+      "url": "https://open.spotify.com/track/2egPprb2OJCB6YITWh2iU8"
     },
     {
       "album": {
@@ -15491,6 +15597,24 @@
     },
     {
       "album": {
+        "name": "Mammasantissima",
+        "url": "https://open.spotify.com/album/69lHQ4ncU3ZP5dWKq1fLww"
+      },
+      "artists": [
+        {
+          "name": "AJ AJ",
+          "url": "https://open.spotify.com/artist/6Nk7pVYQU3SKDYQAKZwUSo"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114846,
+      "name": "Mammasantissima",
+      "url": "https://open.spotify.com/track/35xJtauzDIWOkp2AYF188B"
+    },
+    {
+      "album": {
         "name": "Mamy Freestyle",
         "url": "https://open.spotify.com/album/35td96bqxOCf5NE1eRH12o"
       },
@@ -15924,6 +16048,28 @@
       "duration_ms": 157241,
       "name": "Masri (feat. ZiYou)",
       "url": "https://open.spotify.com/track/1hfd9La1uFtxQAY9OzDVBL"
+    },
+    {
+      "album": {
+        "name": "MASSA",
+        "url": "https://open.spotify.com/album/574d5MW5hAaDc3D05LLTfa"
+      },
+      "artists": [
+        {
+          "name": "Rosolo Roso",
+          "url": "https://open.spotify.com/artist/4v6IUouJ3henBgdkXXBfLg"
+        },
+        {
+          "name": "G Coal",
+          "url": "https://open.spotify.com/artist/2vvXqIv6N4huXqIngC3ces"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115555,
+      "name": "MASSA",
+      "url": "https://open.spotify.com/track/3gQqUQwoF9t1TpCFNNSgx2"
     },
     {
       "album": {
@@ -16692,7 +16838,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 114929,
       "name": "MILANOBELLADADIO",
       "url": "https://open.spotify.com/track/3zuAkAuftpDMWOBgVBjI1F"
@@ -17156,7 +17302,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 142285,
       "name": "MON AMI",
       "url": "https://open.spotify.com/track/41MriyKRwP0eMriWsmId52"
@@ -18001,6 +18147,36 @@
     },
     {
       "album": {
+        "name": "Osama 2",
+        "url": "https://open.spotify.com/album/3hTj9C1jqATON2UDb4vvzz"
+      },
+      "artists": [
+        {
+          "name": "Melons",
+          "url": "https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe"
+        },
+        {
+          "name": "Ddusi",
+          "url": "https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa"
+        },
+        {
+          "name": "Faneto",
+          "url": "https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4"
+        },
+        {
+          "name": "Glocky",
+          "url": "https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164285,
+      "name": "Nene (feat. Faneto & Glocky)",
+      "url": "https://open.spotify.com/track/4GGmXpTMHEiTT9m8o3e2iM"
+    },
+    {
+      "album": {
         "name": "NESSUNA SCELTA",
         "url": "https://open.spotify.com/album/3UJJH40qGFghJgTsaMv2UZ"
       },
@@ -18196,6 +18372,28 @@
       "duration_ms": 129573,
       "name": "NO $KIP (feat. Cimo)",
       "url": "https://open.spotify.com/track/1QKed6RGn5Z8JhhBBW89ms"
+    },
+    {
+      "album": {
+        "name": "No Competitor (feat. Kuremino)",
+        "url": "https://open.spotify.com/album/63EZ2IqViAkj0sXlD9twkW"
+      },
+      "artists": [
+        {
+          "name": "Rame",
+          "url": "https://open.spotify.com/artist/4jQQ2yfZyDgktZW5eI6BA7"
+        },
+        {
+          "name": "Kuremino",
+          "url": "https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117650,
+      "name": "No Competitor (feat. Kuremino)",
+      "url": "https://open.spotify.com/track/3IyjQj937s626boOoALnqi"
     },
     {
       "album": {
@@ -19828,7 +20026,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 121607,
       "name": "PALETTE",
       "url": "https://open.spotify.com/track/24v7M7PETkMSimX79C1cT4"
@@ -19902,6 +20100,32 @@
       "duration_ms": 199679,
       "name": "PANAMA",
       "url": "https://open.spotify.com/track/0MzGKQtVElVJcmW0sXJpWa"
+    },
+    {
+      "album": {
+        "name": "Panette Twix",
+        "url": "https://open.spotify.com/album/2ECBv0m3TUSXA6Y9YH5uTg"
+      },
+      "artists": [
+        {
+          "name": "Raspyy",
+          "url": "https://open.spotify.com/artist/06aQxTBpi11b8LTWNw4yCd"
+        },
+        {
+          "name": "Flaco G",
+          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        },
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199833,
+      "name": "Panette Twix",
+      "url": "https://open.spotify.com/track/5G3lJHH7j6ZUhQRoj5WlKl"
     },
     {
       "album": {
@@ -20164,7 +20388,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 146939,
       "name": "PARIS TIRANA",
       "url": "https://open.spotify.com/track/7dWvoT1g6eErhQDnZSO2UB"
@@ -20336,6 +20560,24 @@
       "duration_ms": 150000,
       "name": "PASSWORD",
       "url": "https://open.spotify.com/track/3lQWOnCqWKIayV6nxhPfwt"
+    },
+    {
+      "album": {
+        "name": "PAVAROTTI",
+        "url": "https://open.spotify.com/album/0dtHi5W2AZyOPNlSxCMKkA"
+      },
+      "artists": [
+        {
+          "name": "Myto",
+          "url": "https://open.spotify.com/artist/7ArCICJwpNMHWiDMCXiEZO"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173858,
+      "name": "PAVAROTTI",
+      "url": "https://open.spotify.com/track/7wEg5sQaODnNKsbeuZNNGz"
     },
     {
       "album": {
@@ -22143,6 +22385,28 @@
     },
     {
       "album": {
+        "name": "QUIERES (feat. Yunes LaGrintaa)",
+        "url": "https://open.spotify.com/album/0rgv2ztq7icRIrwSo0I9X6"
+      },
+      "artists": [
+        {
+          "name": "Kassimi",
+          "url": "https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd"
+        },
+        {
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165622,
+      "name": "QUIERES (feat. Yunes LaGrintaa)",
+      "url": "https://open.spotify.com/track/2yRItriPSSZ76EA3PJqB26"
+    },
+    {
+      "album": {
         "name": "R&R",
         "url": "https://open.spotify.com/album/17SGMxNqxsNMk0ZrFI24jQ"
       },
@@ -22684,6 +22948,24 @@
       "duration_ms": 136171,
       "name": "RINASCITA",
       "url": "https://open.spotify.com/track/2N8gO97yxtn10cBIklCllK"
+    },
+    {
+      "album": {
+        "name": "RIO",
+        "url": "https://open.spotify.com/album/2V3WlnQxmtKru1w5KWro1x"
+      },
+      "artists": [
+        {
+          "name": "Boyka",
+          "url": "https://open.spotify.com/artist/5osiBkJhu6mLTbUdjXiGbK"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141271,
+      "name": "RIO",
+      "url": "https://open.spotify.com/track/20z1Tm588sIU3jpgQ0OaJD"
     },
     {
       "album": {
@@ -24420,7 +24702,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 158350,
       "name": "SINALOA",
       "url": "https://open.spotify.com/track/5hCzsUlrXljyHXSKTHlKyg"
@@ -28072,6 +28354,24 @@
       "duration_ms": 143816,
       "name": "VELENOSA",
       "url": "https://open.spotify.com/track/1C3hJZssnqltvnQ4jThim2"
+    },
+    {
+      "album": {
+        "name": "VERO HUSTLA",
+        "url": "https://open.spotify.com/album/6Iq7NCFolLT6HzXTEl81Wy"
+      },
+      "artists": [
+        {
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130854,
+      "name": "VERO HUSTLA",
+      "url": "https://open.spotify.com/track/1mFF01eXfnQQb2gkjg4wvw"
     },
     {
       "album": {

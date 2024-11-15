@@ -1,12 +1,12 @@
 {
   "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05db\u05dd. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e2\u05d8\u05d9\u05e4\u05d4: \u05d0\u05d5\u05d3\u05d9\u05d4",
-  "num_followers": 25568,
+  "num_followers": 25566,
   "original_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy04YAAAAABJljEFFvx74tIppBg63b0g",
+  "snapshot_id": "Zy04YAAAAABks/q4C4/60nt6lmeShVSF",
   "tracks": [
     {
       "added_at": "2024-11-07 22:00:00",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
-        "name": "\u05de\u05e9\u05e7\u05e4\u05d9\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/3NL9vuLMHWJI2Qc9llGWSm"
-      },
-      "artists": [
-        {
-          "name": "Noa Kirel",
-          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        },
-        {
-          "name": "Itay Galo",
-          "url": "https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "\u05de\u05e9\u05e7\u05e4\u05d9\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/5OQrgklT1x9uOr2ee5hlHB"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
         "name": "\u05d0\u05d9\u05df \u05d0\u05d5\u05ea\u05e0\u05d5 \u05d9\u05d5\u05ea\u05e8 (By Tamar Yahalomy & Yonatan Kalimi)",
         "url": "https://open.spotify.com/album/3e0NsW70ttnopNfVzZ2P6r"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 184675,
       "name": "\u05d0\u05d9\u05df \u05d0\u05d5\u05ea\u05e0\u05d5 \u05d9\u05d5\u05ea\u05e8 (By Tamar Yahalomy & Yonatan Kalimi)",
       "url": "https://open.spotify.com/track/1zZ9bah4HU0TtICQzCFXp3"
+    },
+    {
+      "added_at": "2024-11-07 22:00:00",
+      "album": {
+        "name": "\u05de\u05e9\u05e7\u05e4\u05d9\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/3NL9vuLMHWJI2Qc9llGWSm"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        },
+        {
+          "name": "Itay Galo",
+          "url": "https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "\u05de\u05e9\u05e7\u05e4\u05d9\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/5OQrgklT1x9uOr2ee5hlHB"
     },
     {
       "added_at": "2024-11-07 22:00:00",
@@ -1703,18 +1703,26 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
-        "name": "\u05ea\u05e9\u05d5\u05d1\u05d4?",
-        "url": "https://open.spotify.com/album/239QSa9yG5pSpwFPIVRqYN"
+        "name": "\u05d0\u05d4 \u05d5\u05d5\u05d0\u05d5",
+        "url": "https://open.spotify.com/album/4CTHpPBeE6Fvx8uSYh98gs"
       },
       "artists": [
         {
-          "name": "Narkis",
-          "url": "https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6"
+          "name": "Jimbo J",
+          "url": "https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu"
+        },
+        {
+          "name": "\u05d0\u05d5\u05e8\u05d9\u05ea \u05d8\u05e9\u05d5\u05de\u05d4",
+          "url": "https://open.spotify.com/artist/0X36xboo0vsPER5eeULxle"
+        },
+        {
+          "name": "\u05d0\u05d1\u05e8\u05d4\u05dd \u05dc\u05d2\u05e1\u05d4",
+          "url": "https://open.spotify.com/artist/0zaM690YAtisdp82OI4ukt"
         }
       ],
-      "duration_ms": 161600,
-      "name": "\u05d4\u05db\u05dc \u05dc\u05d8\u05d5\u05d1\u05d4",
-      "url": "https://open.spotify.com/track/0REMSQVoHQU9U1v5m657bx"
+      "duration_ms": 256000,
+      "name": "\u05d1\u05de\u05e7\u05d5\u05dd \u05d1\u05d5 \u05d0\u05e0\u05d9 \u05d2\u05e8",
+      "url": "https://open.spotify.com/track/7J5ArQWauNXPMJpsw02L8Q"
     },
     {
       "added_at": "2024-11-07 22:00:00",

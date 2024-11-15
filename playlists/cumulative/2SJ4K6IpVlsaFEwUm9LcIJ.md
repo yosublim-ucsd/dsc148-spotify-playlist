@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-348 songs - 18 hr 28 min
+352 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Summer Long Since Passed](https://open.spotify.com/track/0OPAfFVbyXiGJTHsXqrC7o) | [Virginia Astley](https://open.spotify.com/artist/0Cc6v6tsUT1FktqPQYXME3) | [80s Deep Dive](https://open.spotify.com/album/1MFWguVP2tNTVncqcZhZiK) | 4:37 | 2024-01-05 | 2024-03-10 |
 | [A Whole New Shape](https://open.spotify.com/track/0TTyYV1dQAcB5uDH9VJKbQ) | [Happyness](https://open.spotify.com/artist/4nddgNqdf0SFeeqhbDN6rN) | [Weird Little Birthday](https://open.spotify.com/album/64hZe9D1dLyyq0s3NLBfsB) | 3:25 | 2024-06-23 | 2024-07-12 |
 | [A/B](https://open.spotify.com/track/6XSxFVLPizXBjvRj1LSLMa) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [A/B](https://open.spotify.com/album/6KSS1RgmJO0eqNglGiLrhU) | 4:57 | 2024-04-25 | 2024-05-16 |
+| [A/B \- 2023 Remaster](https://open.spotify.com/track/3a62IVw5rTTmcjQrvTT89M) | [Telex](https://open.spotify.com/artist/6PzO2zYVuLxLwhZJfnP1Wj) | [Neurovision \(Remastered\)](https://open.spotify.com/album/1TJQmSZTMlHRTxmUlBt0Ck) | 3:40 | 2024-11-14 |  |
 | [Aaron & Maria](https://open.spotify.com/track/2Uis5SlTxVJGLii6QYlHl1) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know By Heart](https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG) | 3:10 | 2024-04-12 | 2024-05-16 |
 | [Above Your Head](https://open.spotify.com/track/3gMbaUdsgtdM0TX24Pdy5W) | [Memory Of Jane](https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM) | [In The Double](https://open.spotify.com/album/6ArXQJGo5C2UbKEM2hbqEb) | 2:43 | 2024-09-18 | 2024-10-07 |
 | [After the Farmer's Wife](https://open.spotify.com/track/3IAnFuQUscnMQdCwz0HS81) | [Benny Benji](https://open.spotify.com/artist/31Fp7TWqvWz0fnyCvOEfZP) | [Hitch Your Wagon to a Star](https://open.spotify.com/album/5UpLbFxtP5aWQhIfKZlvSQ) | 1:31 | 2024-03-20 | 2024-05-16 |
@@ -167,6 +168,7 @@
 | [Jamais Pars](https://open.spotify.com/track/5EWODrhxDCGt2NbkCpawQa) | [Black Tape For A Blue Girl](https://open.spotify.com/artist/2LM56NUYjaQzmYyQkZjBlZ) | [Mesmerized By The Sirens](https://open.spotify.com/album/6KT9A3E9daKXl1N2FJNbLg) | 2:09 | 2024-03-11 | 2024-05-16 |
 | [Jamie](https://open.spotify.com/track/1rp9edo80ULMdwXkZt0TX5) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Ethiopian Knights](https://open.spotify.com/album/5LwAQWAsoxwekrpdEgfzPq) | 3:38 | 2024-02-27 | 2024-03-10 |
 | [Japan](https://open.spotify.com/track/7gUexbkQ4hUsrdDxcIifAw) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Tauhid](https://open.spotify.com/album/4RTqDJ4oYVxpgd8Hbt73Bt) | 3:24 | 2024-07-15 | 2024-09-08 |
+| [Jean \- Julie's Version](https://open.spotify.com/track/21TDHg1ZWYJAb50dagD4iq) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Jean \(Julie's Version\)](https://open.spotify.com/album/5OebiGZlzk428vcNtpkuZd) | 3:14 | 2024-11-14 |  |
 | [Joker Lips](https://open.spotify.com/track/6tYgLXfFUhNDe6QHZmsJzX) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Joker Lips](https://open.spotify.com/album/5J3znEDi6fLt9hRSVF8Ukc) | 3:01 | 2024-07-30 | 2024-09-08 |
 | [Just My Love And I](https://open.spotify.com/track/0idB3v41MLVIC7oDPV7cJh) | [Walter Wanderley](https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA) | [When It Was Done](https://open.spotify.com/album/53R4fFqWs9yIxMOnoMzmYF) | 2:18 | 2024-03-11 | 2024-05-16 |
 | [Justice](https://open.spotify.com/track/0f64uzujl3Pn1Tcu5AlbAG) | [Jennifer Castle](https://open.spotify.com/artist/2RzmnX5DXwcryxwUyREPbK) | [Monarch Season](https://open.spotify.com/album/3xduOjWzIFvmMOnk0L4888) | 1:40 | 2024-10-29 | 2024-11-14 |
@@ -191,6 +193,7 @@
 | [mahou no hiroba](https://open.spotify.com/track/7N3FBdEMvKhzL0qhADdt2N) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Songbook](https://open.spotify.com/album/54LKAKGckAwMNo64tN5LO7) | 9:04 | 2024-03-09 | 2024-05-16 |
 | [Make My Bed](https://open.spotify.com/track/1st16i7UZSXuNteGAJ5pMR) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [i.v](https://open.spotify.com/artist/1j2x2XlKDXkrz52H1BrocF) | [100% PROD I.V.](https://open.spotify.com/album/4MGjgJ8yPEZmmjwE4IgW6y) | 2:00 | 2024-03-20 | 2024-05-16 |
 | [March 8](https://open.spotify.com/track/4jRcB4wbhwhYVLYQr6fB8Y) | [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [Ya Chaika](https://open.spotify.com/album/4tVFs4nSvfiD2TubHFYR0B) | 1:21 | 2024-01-31 | 2024-03-10 |
+| [Marginalia \#181](https://open.spotify.com/track/6tH8WF8vtsJZn8fziscVXq) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia \#181](https://open.spotify.com/album/4hwb1r1XKuxn3gAS3VTr8i) | 3:28 | 2024-11-14 |  |
 | [Mario's Cafe](https://open.spotify.com/track/0DphBni42F0bpa2E7ptWjV) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [So Tough](https://open.spotify.com/album/2FTeecYAHUqD087fRHHuNF) | 4:37 | 2024-06-02 | 2024-07-12 |
 | [Mario's Flaming Whiskers III](https://open.spotify.com/track/3Bktyrnmrdw05133ofR9Dl) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Breakup Song](https://open.spotify.com/album/5JunU3flt52yhYBKhmUnM1) | 2:30 | 2024-08-02 | 2024-09-08 |
 | [Me and My Arrow](https://open.spotify.com/track/5KjRITicSHJM88w3U9LwLM) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [The Point!](https://open.spotify.com/album/6Y7Or7kCbTUjnzv40TyU63) | 2:05 | 2024-11-13 |  |
@@ -351,6 +354,7 @@
 | [You Go Where I Go](https://open.spotify.com/track/3GHI7zfOFyQigfGBiJc2Ya) | [Walter Becker](https://open.spotify.com/artist/3yf5bmiturJVzQYIK1QbWX), [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb) | [Becker and Fagen \- The Early Years](https://open.spotify.com/album/5IKG0ke9HxlwfB5E8QpJEu) | 2:04 | 2024-05-22 | 2024-07-12 |
 | [You got it](https://open.spotify.com/track/3edBcJprxqa0uNyiM9cq5k) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Are You Looking Up / You got it](https://open.spotify.com/album/7l0sG15g8sYyDgebPA5UyX) | 2:14 | 2024-01-19 | 2024-03-10 |
 | [You're Too Young](https://open.spotify.com/track/7Lka4stiULYgZnEYxF9o65) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Here Comes...Rocketship](https://open.spotify.com/album/0gyvoicwrAC6ma7fkm1Vdf) | 2:39 | 2024-01-31 | 2024-03-10 |
+| [Your New Boyfriend](https://open.spotify.com/track/1aNxWiJCgnFWIzsah4HNZ2) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Rarities](https://open.spotify.com/album/0UCekWcWFccf98HZ3kuTAP) | 1:51 | 2024-11-14 |  |
 | [Yr Broom](https://open.spotify.com/track/7vtvaC8cBykfsBGoSfUB7N) | [Someone Still Loves You Boris Yeltsin](https://open.spotify.com/artist/28V657x2IVJnSW3Srw6Ubd) | [Broom](https://open.spotify.com/album/1UfpKUcPn3fHIF3g8OoApJ) | 1:37 | 2024-08-05 | 2024-09-08 |
 | [Água](https://open.spotify.com/track/29ZUFEjGpprL595i3JEF50) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan](https://open.spotify.com/album/72O5JvUfLI71iSMqaOdNAY) | 3:39 | 2024-07-12 | 2024-09-08 |
 | [あなたから遠くへ](https://open.spotify.com/track/6hFK7qLwkhxcOZw3ywEq8l) | [金延幸子](https://open.spotify.com/artist/5rT9yvOxKxNBsDevOiKKGs) | [み空](https://open.spotify.com/album/3FnRt5aR3UNby43dumedN9) | 3:29 | 2024-09-18 | 2024-11-14 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Jon Batiste",
+  "description": "The best jazz new releases. Cover: Rhoda Scott",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -2164,7 +2164,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 270476,
       "name": "Chop Chop",
       "url": "https://open.spotify.com/track/0ZlQkKHDOcwAty65oY9riS"
@@ -7374,7 +7374,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 116226,
       "name": "Luned\u00ec Cinema",
       "url": "https://open.spotify.com/track/69Me4kAmiwMxyqarz4zZVW"
@@ -7901,6 +7901,28 @@
     },
     {
       "album": {
+        "name": "Mirages",
+        "url": "https://open.spotify.com/album/4ObfObixfY5IT99cjmhiAr"
+      },
+      "artists": [
+        {
+          "name": "Grand Discovery",
+          "url": "https://open.spotify.com/artist/6M79SZ509xyT6yq3VxpqU8"
+        },
+        {
+          "name": "Celestial Aeon Project",
+          "url": "https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185763,
+      "name": "Mirages",
+      "url": "https://open.spotify.com/track/0k5EgyCKDWP1RCjpTzAPyv"
+    },
+    {
+      "album": {
         "name": "Jazz Contenders",
         "url": "https://open.spotify.com/album/3mXgDyvdLx9UMolgzxemJZ"
       },
@@ -7990,6 +8012,28 @@
       "duration_ms": 244640,
       "name": "Money",
       "url": "https://open.spotify.com/track/0KD6pNagSVwjpNaSjnuE7o"
+    },
+    {
+      "album": {
+        "name": "Monkey System",
+        "url": "https://open.spotify.com/album/2v1Gz0K9cp6gdxkLp7MB4n"
+      },
+      "artists": [
+        {
+          "name": "Black Flower",
+          "url": "https://open.spotify.com/artist/3sWzPqn412qggAJRtI6Bvz"
+        },
+        {
+          "name": "Meskerem Mees",
+          "url": "https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326440,
+      "name": "Monkey System",
+      "url": "https://open.spotify.com/track/082cOUifUly6CMsnHJ6Okp"
     },
     {
       "album": {
@@ -10043,6 +10087,24 @@
     },
     {
       "album": {
+        "name": "Sacred Conversations",
+        "url": "https://open.spotify.com/album/6q92oHcuhpaPiLaq9uLhro"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253320,
+      "name": "Sacred Conversations",
+      "url": "https://open.spotify.com/track/50nrTCws5S6Yrg3ehCPYu2"
+    },
+    {
+      "album": {
         "name": "Safely Far",
         "url": "https://open.spotify.com/album/66MMnVPMTFD2yRIApV7CDn"
       },
@@ -11531,6 +11593,24 @@
     },
     {
       "album": {
+        "name": "The Barber",
+        "url": "https://open.spotify.com/album/0D6dwxMpqFmFmxIt4GJFFV"
+      },
+      "artists": [
+        {
+          "name": "Fanou Torracinta",
+          "url": "https://open.spotify.com/artist/0Yo2W6yJSwbZydJ0f6xNER"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193879,
+      "name": "The Barber",
+      "url": "https://open.spotify.com/track/0CepbR21k7urTljw1WC45E"
+    },
+    {
+      "album": {
         "name": "Yummy Beats",
         "url": "https://open.spotify.com/album/1Qraz9ig8k4CJTvy6vGlqO"
       },
@@ -12836,7 +12916,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 233377,
       "name": "Voicemail Blues",
       "url": "https://open.spotify.com/track/2hq7WCG25nmQmr3Z4K6CnE"
@@ -13818,7 +13898,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 275080,
       "name": "You Stepped Out Of A Dream",
       "url": "https://open.spotify.com/track/6Gr1sxmN6CrLbudpzx3ZHQ"

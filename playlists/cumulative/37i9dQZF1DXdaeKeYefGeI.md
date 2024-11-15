@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Wende
 
-186 songs - 11 hr 27 min
+187 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Het Is Genoeg](https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Vrijplaats](https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq) | 3:53 | 2024-10-24 |  |
 | [Het Komt Wel Goed](https://open.spotify.com/track/47lHoLg9VVAxoAtzFMrQoJ) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Het Komt Wel Goed](https://open.spotify.com/album/5UDg7wDgkbBQjMI5G3dd9H) | 3:55 | 2023-12-05 | 2024-10-04 |
 | [Het Land van Koning Jan](https://open.spotify.com/track/4szdNd2JPBB9ZbKQbg3MFs) | [Josee Koning](https://open.spotify.com/artist/3PRhhgaXVHQakRPsQ7AOHR), [Jim de Groot](https://open.spotify.com/artist/2FfF1kzEqtGUJ4dmvt6ssc), [Sjors Van Der Panne](https://open.spotify.com/artist/73VtXHJjAxyr9p5NsHxTLO) | [Testament \- Lennaert Nijgh 75 Jaar](https://open.spotify.com/album/5Doruzt40llLcaa2k886Kh) | 4:26 | 2023-02-10 | 2023-09-15 |
-| [Het licht in je ogen \(feat\. Red Limo Quartet\)](https://open.spotify.com/track/54Ktari4z02c9eMdCVoUxF) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV), [Red Limo Quartet](https://open.spotify.com/artist/2rdJcBg2tEvmo0lVpYDizQ) | [Het licht in je ogen \(feat\. Red Limo Quartet\)](https://open.spotify.com/album/5UFfNN07X4BAsvwsieCixE) | 3:30 | 2024-02-08 |  |
+| [Het licht in je ogen \(feat\. Red Limo Quartet\)](https://open.spotify.com/track/54Ktari4z02c9eMdCVoUxF) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV), [Red Limo Quartet](https://open.spotify.com/artist/2rdJcBg2tEvmo0lVpYDizQ) | [Het licht in je ogen \(feat\. Red Limo Quartet\)](https://open.spotify.com/album/5UFfNN07X4BAsvwsieCixE) | 3:30 | 2024-02-08 | 2024-11-15 |
 | [Het park](https://open.spotify.com/track/2kKW77CdWhsDrNNVnkOTTb) | [Frank Boeijen](https://open.spotify.com/artist/0e6dXSbAaFM0M9SlsgHIBj) | [Subliem gebaar](https://open.spotify.com/album/74d18jk8XwTHMRYXpQOxrT) | 4:59 | 2023-02-10 | 2023-04-26 |
 | [Het Regende Zon](https://open.spotify.com/track/6SDQYfdsaLlOoRRUPyv3Ix) | [Ellen Ten Damme](https://open.spotify.com/artist/3DbOvEIWluNeH6rhPuFexv) | [Het Regende Zon](https://open.spotify.com/album/7HA5p6GD27rnBOxb06MtfG) | 3:23 | 2023-02-10 | 2023-03-09 |
 | [Het Werd Zomer](https://open.spotify.com/track/7J7fNdedcP2urV48omGkHu) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Tussen Zomer En Winter \(Expanded Edition\)](https://open.spotify.com/album/6C1i4zs6YQtinLbZh9pz9u) | 4:07 | 2023-02-10 | 2023-09-15 |
@@ -159,6 +159,7 @@
 | [Telkens Weer](https://open.spotify.com/track/45PcTtMMf5qUGhSTj43ZnE) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Liedjes Uit De Film Rooie Sien \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1mejiAFSmPftZbBTq43Bee) | 3:14 | 2023-02-10 | 2024-01-12 |
 | [Testament](https://open.spotify.com/track/0iqLx1WpZdKT3E2oqLLO3f) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Voor De Overlevenden](https://open.spotify.com/album/1YMJs20ztVXARUtRGkRb0y) | 3:15 | 2024-04-18 | 2024-06-13 |
 | [Testament](https://open.spotify.com/track/6uWWbsGYJT8d4wvQKqkJEG) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [De Vrienden Van Vroeger \(1966\-1973\)](https://open.spotify.com/album/5mTJI3gIyjVfK4UV0Li4AX) | 3:15 | 2023-02-10 | 2024-04-19 |
+| [Traag Naar De Hemel](https://open.spotify.com/track/2M1OBzpqNliMeYOI47LOWK) | [May Evans](https://open.spotify.com/artist/5k9sSEBSrvpLVxBJqCgs6f) | [\(On\)eindig Leven](https://open.spotify.com/album/7905rdTj8KpgPywpclbmtR) | 2:57 | 2024-11-14 |  |
 | [Troostliedje](https://open.spotify.com/track/3wjD0K6q3g81Eo9hT9Pkii) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [Troostliedje](https://open.spotify.com/album/5NewFgJdkg0r6rhELb8RHZ) | 3:18 | 2023-02-10 | 2023-11-11 |
 | [Vaderdag \(deel 2\)](https://open.spotify.com/track/34ihQUWfBW2pI0fVruWhkF) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Vaderdag \(deel 2\)](https://open.spotify.com/album/3SA3Wh7wmIS8K3xUtzVIUD) | 3:18 | 2024-10-03 |  |
 | [Vaderland](https://open.spotify.com/track/2tD9WSm02XImRDAc5jsvCD) | [Frank Boeijen](https://open.spotify.com/artist/0e6dXSbAaFM0M9SlsgHIBj) | [Vaderland](https://open.spotify.com/album/47eizTmbC25xFfzp0kB8sD) | 6:28 | 2023-02-10 | 2023-06-02 |

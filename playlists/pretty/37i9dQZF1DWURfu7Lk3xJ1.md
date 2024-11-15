@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,673 likes - 201 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,754 likes - 201 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 200 | [Cloudy Nights](https://open.spotify.com/track/4AlvhJMmJYi8ppDW7bGDqy) | [Asokiah](https://open.spotify.com/artist/4uGUzUAhZFtLDYLCR6THc5) | [Cloudy Nights](https://open.spotify.com/album/44SfWeleJe2QWCbngSSImJ) | 2:11 |
 | 201 | [ZMOOTH](https://open.spotify.com/track/3FOvS4B32VeOvRG6sQyL0m) | [Written On Glass](https://open.spotify.com/artist/0flGLaDtO2VB3ETpqoZhwg) | [ZMOOTH](https://open.spotify.com/album/3L3ORj0iQxym4SDCe0fTew) | 2:04 |
 
-Snapshot ID: `Zyt8zwAAAACPpSzX6ldNyt8wEAlsGc7D`
+Snapshot ID: `Zyt8zwAAAACm3lkI9QH8xnWgAncrQsZP`

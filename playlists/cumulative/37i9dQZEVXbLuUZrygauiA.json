@@ -19856,12 +19856,16 @@
         {
           "name": "Clarent",
           "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         }
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-13",
-      "duration_ms": 171428,
+      "date_removed": null,
+      "duration_ms": 240000,
       "name": "IA",
       "url": "https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo"
     },
@@ -20778,7 +20782,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 248430,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/6LCjRqUVqLjYI6AWOZxZIw"
@@ -20800,6 +20804,24 @@
       "duration_ms": 143000,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/25pmPsla5NEPR3PW6w4Zo8"
+    },
+    {
+      "album": {
+        "name": "KAMIKAZE",
+        "url": "https://open.spotify.com/album/3v95Y09kazz8dC0ut8OGWu"
+      },
+      "artists": [
+        {
+          "name": "Jhojan Velasco",
+          "url": "https://open.spotify.com/artist/6rv0OESbghsczG3KIuzgys"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247035,
+      "name": "KAMIKAZE",
+      "url": "https://open.spotify.com/track/43A1lr8yTda6eHFFD2nHOB"
     },
     {
       "album": {
@@ -36320,10 +36342,32 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 154000,
       "name": "Robando",
       "url": "https://open.spotify.com/track/5cZIDOH5DaLSXFqo21G24Z"
+    },
+    {
+      "album": {
+        "name": "Robando",
+        "url": "https://open.spotify.com/album/5cK59Mwl3tOAbpQ1CmwFry"
+      },
+      "artists": [
+        {
+          "name": "DJ Lalo",
+          "url": "https://open.spotify.com/artist/4BPiDIdCGWgKy8UzVS1a4S"
+        },
+        {
+          "name": "J\u00f8tta",
+          "url": "https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154852,
+      "name": "Robando",
+      "url": "https://open.spotify.com/track/154Z7wsFaHxSTwc1MX1Jk7"
     },
     {
       "album": {
@@ -39460,7 +39504,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 202875,
       "name": "Somebody's Girl",
       "url": "https://open.spotify.com/track/2NeDBEgUv6SbsFLFZC06dZ"

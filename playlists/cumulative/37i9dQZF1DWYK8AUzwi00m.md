@@ -4,7 +4,7 @@
 
 > have yourself a chill and lofi xmas
 
-302 songs - 11 hr 43 min
+305 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Dream Present](https://open.spotify.com/track/5wc7OAxwpUE89bAD5Taco1) | [Mantrick](https://open.spotify.com/artist/4WfXJIC30dh3ezNzAmVi3m) | [A Dream Present](https://open.spotify.com/album/4QailWei2sNgGgk15VMv7f) | 2:12 | 2021-12-20 | 2024-04-19 |
 | [A Dream Present](https://open.spotify.com/track/6BvyFxhCplQNQ5YH7oFRZ6) | [Mantrick](https://open.spotify.com/artist/4WfXJIC30dh3ezNzAmVi3m) | [A Dream Present](https://open.spotify.com/album/10AjmZLhpwN9J3i7Vxb3Ot) | 2:12 | 2021-12-20 |  |
 | [A Holy Jolly Christmas](https://open.spotify.com/track/66TPQ0Cw4SvXbCPJGdfwM6) | [Estelas](https://open.spotify.com/artist/2fVSVXAO5UftuzBca9SZQ6) | [A Holy Jolly Christmas](https://open.spotify.com/album/4zgAtGu8evTT3OU541WbcK) | 3:01 | 2022-11-11 |  |
+| [A Merry Little XMAS](https://open.spotify.com/track/3KYhdw2FCJPe4OYFhZki2P) | [Approachable Animals](https://open.spotify.com/artist/6nceKCpE6e0TmuXMxg37IR) | [A Merry Little XMAS](https://open.spotify.com/album/0Ucerz2HM5MYkdr2W1ZvvN) | 2:10 | 2024-11-14 |  |
 | [Aesthetic Christmas](https://open.spotify.com/track/2IwjwcZbQbkAPgwtGu8G0s) | [lofi geek](https://open.spotify.com/artist/1hqeRW1EQZ1flf02acnGVU) | [Merry Christmas \(Lofi beats\)](https://open.spotify.com/album/3nFx4sv8We0GyLBq1tk7pa) | 2:57 | 2021-12-20 |  |
 | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/track/2h8EHpeJcIVOvWS4r4LwCo) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/album/1E7eg4EWi1s52uiVxp0UfH) | 2:26 | 2022-11-11 | 2023-10-20 |
 | [all i want for christmas is lofi](https://open.spotify.com/track/7rNTCi9j9WIc1kxQSor5Ak) | [Kumo City](https://open.spotify.com/artist/0WLyZCjbiZcpPPfM73TtmA) | [all i want for christmas is lofi](https://open.spotify.com/album/1wG31235BfrJ6nbjRmArhT) | 3:02 | 2022-12-25 | 2023-10-20 |
@@ -67,7 +68,7 @@
 | [Coming Home To You](https://open.spotify.com/track/4dDi8kUvINu40e2BkiFrr7) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Coming Home To You](https://open.spotify.com/album/6v7C90jdAwnKQzKbV5FoIP) | 2:06 | 2022-11-11 |  |
 | [Corre Caballito](https://open.spotify.com/track/4i7iZE9YYPiUUcT9ycUb1m) | [Jaire Tiraxi](https://open.spotify.com/artist/0lq4gjKRUvC0TL8CJdHFEs) | [Corre Caballito](https://open.spotify.com/album/2FvpUgEVdbFnInaFPfgEsb) | 2:07 | 2022-12-16 |  |
 | [Cozy Fireplace](https://open.spotify.com/track/6l29buL3HPRKy36vzDuNJp) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Snowbound](https://open.spotify.com/album/6joo22r88KqXxvOgEORO9R) | 1:52 | 2021-12-20 | 2023-09-29 |
-| [cozy winter](https://open.spotify.com/track/27DbLUyeQa4I2vMdZhQQ73) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 2:30 | 2021-12-20 |  |
+| [cozy winter](https://open.spotify.com/track/27DbLUyeQa4I2vMdZhQQ73) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 2:30 | 2021-12-20 | 2024-11-15 |
 | [December](https://open.spotify.com/track/0JzcRVJEZIgbxSKhQxxUXd) | [Kikou](https://open.spotify.com/artist/1AqcVmVp7Ggxu1oJuJL8tn), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Lofi Christmas](https://open.spotify.com/album/5uC1btcQmcIyTZaAfoPlnZ) | 2:08 | 2021-12-20 | 2022-11-12 |
 | [December](https://open.spotify.com/track/17xn1pufA0IlyxxdDZ6cSu) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [December](https://open.spotify.com/album/5VfRCAnMEbgyvxWc3RuDnI) | 3:00 | 2021-12-20 |  |
 | [December Dreams](https://open.spotify.com/track/4Bd76Hwfk2E5dUrBCqJL0Q) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [December Dreams](https://open.spotify.com/album/2DttvcgcNIEzrf9WMXHUbX) | 2:25 | 2022-12-09 |  |
@@ -183,7 +184,7 @@
 | [merry lofi](https://open.spotify.com/track/0sYMwcydVgZk8aYESIG2gM) | [maja andino](https://open.spotify.com/artist/4zGvgGIRSFQmOjfLG5qQuh) | [merry lofi](https://open.spotify.com/album/62W803hCRq4i2aq3WINogd) | 2:10 | 2022-11-11 |  |
 | [Mistle Bro](https://open.spotify.com/track/6PRLxBcEboXH7xB17n7xFo) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:21 | 2021-12-20 |  |
 | [Mistletoe](https://open.spotify.com/track/0hgcqoAcfZGC1P15XQc5FZ) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow, Vol\. 2](https://open.spotify.com/album/7cz8iPcPXUJp0ol0khYo71) | 2:15 | 2022-11-11 | 2024-04-19 |
-| [Mistletoe](https://open.spotify.com/track/1bYOSfl3K0csaEpZTUJ0ZS) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow, Vol\. 2](https://open.spotify.com/album/2CVbSAcKER5tALZbqTgGN9) | 2:15 | 2021-12-20 |  |
+| [Mistletoe](https://open.spotify.com/track/1bYOSfl3K0csaEpZTUJ0ZS) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow, Vol\. 2](https://open.spotify.com/album/2CVbSAcKER5tALZbqTgGN9) | 2:15 | 2021-12-20 | 2024-11-15 |
 | [Mistletoe And Holly](https://open.spotify.com/track/6z0xdPPk9yxzTxUyLr65mC) | [Bops Galores](https://open.spotify.com/artist/0IP9JN9LCiK6ni3DDeEb2E) | [Mistletoe And Holly](https://open.spotify.com/album/3ZVINz77EguCAXlPf9xiDz) | 2:01 | 2022-11-11 |  |
 | [miztle](https://open.spotify.com/track/5ImHG3884XuiC3zNQ0iL0c) | [Adrianeck](https://open.spotify.com/artist/1cMDy15rx7PXkheWsdXqUo) | [miztle](https://open.spotify.com/album/25DbPAfVXxVYeTN4o2yg8f) | 1:54 | 2022-11-11 |  |
 | [My Christmas in Brooklyn](https://open.spotify.com/track/2TafYvQY6ABtnDeWVBkHNd) | [Lomery](https://open.spotify.com/artist/6MJePaEUCor6hhvc0Pjxgj) | [My Christmas in Brooklyn](https://open.spotify.com/album/00C32wsRQi76yAIBVOnL4j) | 1:41 | 2021-12-20 |  |
@@ -206,6 +207,7 @@
 | [O Little Town Of Bethlehem](https://open.spotify.com/track/4JwbRapYxPE883XUslPwIS) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/2JO5EUMtP6BxGAHr3dyETU) | 1:57 | 2023-10-27 |  |
 | [office christmas party](https://open.spotify.com/track/3SzhquDlNLS0LMj7ghULb1) | [Baby Bwoy](https://open.spotify.com/artist/7iEOzm5FQi6hdSe460hENE) | [office christmas party](https://open.spotify.com/album/0lbgCm7v5uEofQTDC3oXmW) | 2:24 | 2022-11-11 |  |
 | [oh! christmas! tree!](https://open.spotify.com/track/3zaGxvoz9D6tQAfrdhdicV) | [Santa BeatBeat](https://open.spotify.com/artist/50UV8GqkoBFiVVtxbO5UBX) | [Holiday Lofi](https://open.spotify.com/album/1CTK60QMHvpRHKjuNdGaIa) | 3:10 | 2022-11-11 |  |
+| [pinecone](https://open.spotify.com/track/65Vg9y4WCpOBN6I9xMNZRo) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [pinecone](https://open.spotify.com/album/3PL8nzgWtTYiLaVT8G1OCS) | 2:09 | 2024-11-14 |  |
 | [polar bear plunge](https://open.spotify.com/track/0SPN9jcNRZJqsxYOYffStJ) | [Kings Chair](https://open.spotify.com/artist/0P9hXeh3wwCn1B0Etj03ac) | [Holiday Beats](https://open.spotify.com/album/7n1IZHrf5dqB8yxvegeUM4) | 2:05 | 2022-11-11 |  |
 | [Portal De Belen](https://open.spotify.com/track/2BeiJVc1bT0Tox1CXDRLn3) | [Antiguos Hop](https://open.spotify.com/artist/6FmavXbmV5c0c7cg1vgjjZ) | [Portal De Belen](https://open.spotify.com/album/7ojC4Ip648NdAe046Exggh) | 2:41 | 2022-12-16 |  |
 | [pure imagination](https://open.spotify.com/track/2Hdm6UGkZyY0wilfOCo6w5) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP) | [Winter](https://open.spotify.com/album/667XsaoWLaNtMdRPhBAkAI) | 1:13 | 2022-11-11 | 2023-09-29 |
@@ -310,5 +312,6 @@
 | [Yule Tide](https://open.spotify.com/track/4wFco5b2VsRaPD0XbqYsv9) | [iluvu](https://open.spotify.com/artist/0A5IvugTETbHDLHsM5Ro3j), [Lazy Tree Records](https://open.spotify.com/artist/5Qvy6aHj0WZS8fwt7Z5WUf) | [A Lofi Christmas](https://open.spotify.com/album/06HI45dJEHqNVyTkJMB7OJ) | 2:11 | 2021-12-20 | 2024-04-19 |
 | [Yule Tide](https://open.spotify.com/track/0WRloctZv2KVQDA3NvVSHq) | [iluvu, Lazy Tree Records](https://open.spotify.com/artist/2K3jQRQLEyB3AzhBAOyvYe) | [A Lofi Christmas](https://open.spotify.com/album/6TRZqtG48tlSbwat2dzg3J) | 2:11 | 2021-12-20 |  |
 | [Yuletide](https://open.spotify.com/track/4SqfEcfHRqR522BleRT5Rr) | [Eye Tide](https://open.spotify.com/artist/1jEP1ZVf7FIRHLof2S0j48) | [Lo\-fi Christmas](https://open.spotify.com/album/5a4JddrBEJGsKbMzzunBIH) | 1:43 | 2022-11-11 |  |
+| [Yuletide Kisses](https://open.spotify.com/track/2hvZZK9ayvtcTxwEX1ZJJZ) | [Uneven Cream](https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf) | [Yuletide Kisses](https://open.spotify.com/album/0n6EpwfcTkId1k2yckAywJ) | 1:56 | 2024-11-14 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

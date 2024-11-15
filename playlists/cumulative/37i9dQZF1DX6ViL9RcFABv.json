@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Calema",
+  "description": "Uma playlist de pura alma pop! Foto: Diogo Pi\u00e7arra",
   "name": "Pop PT",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 220950,
       "name": "AMAR-TE - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3LintSc7Y6RlQAsJT9aJPc"
@@ -415,6 +415,24 @@
     },
     {
       "album": {
+        "name": "Cara Metade",
+        "url": "https://open.spotify.com/album/2F0Evqu0vpNMIL6fhhMOam"
+      },
+      "artists": [
+        {
+          "name": "Filipe Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/63PA6qLxy0FJNUxT00SctL"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Cara Metade",
+      "url": "https://open.spotify.com/track/1dKJdxD4RQKklbrx970AGI"
+    },
+    {
+      "album": {
         "name": "Finda",
         "url": "https://open.spotify.com/album/5BBWda4ImqHa9rZ6Qy4f19"
       },
@@ -477,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Casa",
+        "url": "https://open.spotify.com/album/170bqQovxNhbXxtitpS6QQ"
+      },
+      "artists": [
+        {
+          "name": "Mariza",
+          "url": "https://open.spotify.com/artist/65nZq8l5VZRG4X445F5kmN"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232106,
+      "name": "Casa",
+      "url": "https://open.spotify.com/track/3tfx1jUB8t5xIRygSqquH8"
+    },
+    {
+      "album": {
         "name": "Celebrau",
         "url": "https://open.spotify.com/album/5QFdJ1MSVXmZx8RNC6kbnQ"
       },
@@ -536,6 +572,24 @@
       "duration_ms": 160000,
       "name": "CHIQUITINHA",
       "url": "https://open.spotify.com/track/7CCbwO2bTJYavz61WU8OsK"
+    },
+    {
+      "album": {
+        "name": "Chuva",
+        "url": "https://open.spotify.com/album/0lHM4lNFAuARUulDjQALh4"
+      },
+      "artists": [
+        {
+          "name": "Diogo Pi\u00e7arra",
+          "url": "https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Chuva",
+      "url": "https://open.spotify.com/track/2uB7S2blkS8H0HnzwWAQDS"
     },
     {
       "album": {
@@ -1262,7 +1316,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 204760,
       "name": "Flash",
       "url": "https://open.spotify.com/track/6bUbxSQqLIS7zzgjCF7hKi"
@@ -1448,7 +1502,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 181900,
       "name": "H\u00e1 Sempre Uma M\u00fasica",
       "url": "https://open.spotify.com/track/1dqbBoLNdmUUOhTfPPsBcE"
@@ -1554,7 +1608,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 233147,
       "name": "Jorge Micael",
       "url": "https://open.spotify.com/track/34yOAavutq1twuCrY41573"
@@ -2117,6 +2171,28 @@
     },
     {
       "album": {
+        "name": "Por ti Amor",
+        "url": "https://open.spotify.com/album/3YVyoehZPAYBgr5q4GtCnu"
+      },
+      "artists": [
+        {
+          "name": "Matias Dam\u00e1sio",
+          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
+        },
+        {
+          "name": "D.A.M.A",
+          "url": "https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188849,
+      "name": "Por ti Amor",
+      "url": "https://open.spotify.com/track/2ZrBQjL7BS9y1zXUgWSf4U"
+    },
+    {
+      "album": {
         "name": "portas do sol",
         "url": "https://open.spotify.com/album/0Ik78gbm575dclbfvP4y9T"
       },
@@ -2172,7 +2248,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 154600,
       "name": "Promessas",
       "url": "https://open.spotify.com/track/5nQoajzUX1uJ70yLCPU3kI"
@@ -2584,6 +2660,24 @@
       "duration_ms": 184269,
       "name": "Talvez...",
       "url": "https://open.spotify.com/track/65BXCyoVQ1sSGj0z6UxRcL"
+    },
+    {
+      "album": {
+        "name": "Temos Pena!",
+        "url": "https://open.spotify.com/album/3Y8NyBrhqvvHAu5ZEeLMML"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194724,
+      "name": "Temos Pena!",
+      "url": "https://open.spotify.com/track/1i2t55Ls2wNthz6QDUUfDC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/65nBq6bgZmJvMvlnrFxyud">Rory Adams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-41 songs - 2 hr 10 min
+43 songs - 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,8 +34,10 @@
 | [New Trick](https://open.spotify.com/track/5goujnab2lLFg4mYfYRFE6) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [New Trick](https://open.spotify.com/album/1tTmm9wofKTikenwiATM4j) | 3:13 | 2024-06-13 |  |
 | [No Hard Feelings](https://open.spotify.com/track/5jtaYUfnk3dZ3VXlWGa4gL) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [No Hard Feelings](https://open.spotify.com/album/4v0Xc0dglvpfRkwr7CKCR2) | 3:25 | 2024-06-13 | 2024-11-11 |
 | [No Hard Feelings](https://open.spotify.com/track/7qpPnapb1VUCvr74EnaI4q) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [No Hard Feelings](https://open.spotify.com/album/72WLSIvdo0R4NuNHu4pEz7) | 3:25 | 2024-11-10 |  |
-| [Pieces](https://open.spotify.com/track/4SVX7ZcbbSo7YJAUntxXhE) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Pieces](https://open.spotify.com/album/6HIbhplOzkVk3IN4kZj9S3) | 3:13 | 2024-06-13 |  |
-| [Rock Bottom](https://open.spotify.com/track/4dgEOMPfGPCVeyyF10Stwg) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Rock Bottom](https://open.spotify.com/album/7zYxJgC4lH4Cz5aOasUTV5) | 2:42 | 2024-06-13 |  |
+| [Pieces](https://open.spotify.com/track/4SVX7ZcbbSo7YJAUntxXhE) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Pieces](https://open.spotify.com/album/6HIbhplOzkVk3IN4kZj9S3) | 3:13 | 2024-06-13 | 2024-11-15 |
+| [Pieces](https://open.spotify.com/track/60X8wf919CCv2oveCWuZ0P) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Pieces](https://open.spotify.com/album/7mfv2wp9VaGJ1IFedC0I5G) | 3:13 | 2024-11-14 |  |
+| [Rock Bottom](https://open.spotify.com/track/1ocK7qsRyyTRXzSFNO9qFY) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Rock Bottom](https://open.spotify.com/album/0HSGtJsJzZQHLYh5fR7z5k) | 2:42 | 2024-11-14 |  |
+| [Rock Bottom](https://open.spotify.com/track/4dgEOMPfGPCVeyyF10Stwg) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Rock Bottom](https://open.spotify.com/album/7zYxJgC4lH4Cz5aOasUTV5) | 2:42 | 2024-06-13 | 2024-11-15 |
 | [Ruin](https://open.spotify.com/track/5Vox7L6Cw47f26umXwDQ53) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Ruin](https://open.spotify.com/album/2ZCT35yKJ0HLLmQcuXzfk4) | 3:24 | 2024-06-13 |  |
 | [Scared to Be Happy](https://open.spotify.com/track/22gqgp77iH9XnPTjs4U6JM) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Scared to Be Happy](https://open.spotify.com/album/3jwBuaG80L637u5zCIYegb) | 2:37 | 2024-11-11 |  |
 | [Scared to Be Happy](https://open.spotify.com/track/65iJBVVAcYGNeTnpFU8T09) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Scared to Be Happy](https://open.spotify.com/album/0UshNP4GGmz8xVW9mvtXBc) | 2:37 | 2024-06-13 | 2024-11-12 |

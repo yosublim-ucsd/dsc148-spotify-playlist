@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBevLcUtH0o.md) - [plain]
 
 > When the music and the message is honest, songs can be both personal and universal\.   Here is a list that pushes and reflects the culture at large\. Cover: <a href="spotify:artist:7wGizTRCLYwsLnTuCBbJ6t">Propaganda</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,776 likes - 65 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,782 likes - 65 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBevLcUtH0o.md) - [plain]
 | 64 | [Perfect Timing](https://open.spotify.com/track/56HrsgODoPTk5qqE3F71yt) | [Shane Kidd](https://open.spotify.com/artist/0UdYqgh9lUSJSkFvtb36Xi), [Jordyn](https://open.spotify.com/artist/12ls8gzqFGKVtONYregvwY), [R.J\. Allen](https://open.spotify.com/artist/3BLRWl3XAGsQDdMUY5qRBC) | [Perfect Timing](https://open.spotify.com/album/1qeUAvJvxd3eF2YhmBdxIZ) | 3:08 |
 | 65 | [Blessed to Breathe](https://open.spotify.com/track/4LmwmVFxg5aQlRkSe7vaUB) | [Jeremiah Bonds](https://open.spotify.com/artist/3z6G8rh5Hw6IEHMZjDVh0C), [Shane Newville](https://open.spotify.com/artist/0wxxEnJDlItCTOWl1DemaJ) | [Blessed to Breathe](https://open.spotify.com/album/02ZyAo0UsmC7pNJSVAT5Th) | 2:41 |
 
-Snapshot ID: `ZodvwAAAAABHu4P2AThR52i8gzwHMRD6`
+Snapshot ID: `ZodvwAAAAACsMVf8M5c5kI93lXLlWWqH`

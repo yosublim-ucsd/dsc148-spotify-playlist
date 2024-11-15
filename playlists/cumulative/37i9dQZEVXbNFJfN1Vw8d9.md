@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-1,202 songs - 2 day 17 hr 24 min
+1,203 songs - 2 day 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [COMPETENCIA](https://open.spotify.com/track/1hrRcfsancQb92OcifmMV1) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA PANTERA NEGRA](https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z) | 3:10 | 2024-08-24 | 2024-08-27 |
 | [COMUNA 3](https://open.spotify.com/track/7B8FKzh1mzjPp9GxjED0MT) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8) | [COMUNA 3](https://open.spotify.com/album/3RxNHAxKiItFU1qbAI3T2B) | 2:34 | 2024-05-15 | 2024-09-18 |
 | [Conexión](https://open.spotify.com/track/1o2Emfl8HNQwgrWgmBc9ue) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Conexión](https://open.spotify.com/album/6TG3Yjuc9jf0e2KSMn10NA) | 3:08 | 2024-10-24 | 2024-10-27 |
-| [Conexión](https://open.spotify.com/track/2znYZuZsjd52WgMkp6iVwL) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Triana](https://open.spotify.com/album/47wk0lhqRt1MWuCxPfctcc) | 3:08 | 2024-10-26 |  |
+| [Conexión](https://open.spotify.com/track/2znYZuZsjd52WgMkp6iVwL) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Triana](https://open.spotify.com/album/47wk0lhqRt1MWuCxPfctcc) | 3:08 | 2024-10-26 | 2024-11-15 |
 | [Constelación](https://open.spotify.com/track/4hphx3cA8mjPJR99B6XtBD) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [Constelación](https://open.spotify.com/album/2UCtRZWKRk0Uwhi5FWdPcV) | 3:20 | 2024-10-31 | 2024-11-03 |
 | [Constelación](https://open.spotify.com/track/7wH1efzwFeSsaLoOIxx0YT) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:20 | 2024-11-02 | 2024-11-11 |
 | [Contento](https://open.spotify.com/track/4xuxWQbprzIOE3BGRULn75) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Contento](https://open.spotify.com/album/4iyoO6tOGnEaR2CYrUmukL) | 3:30 | 2024-04-13 | 2024-04-15 |
@@ -507,6 +507,7 @@
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-05-27 | 2021-06-06 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-09-20 | 2023-01-14 |
 | [IA](https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [IA](https://open.spotify.com/album/3DXj5cbdAXHzjG9Yy2rDn3) | 4:00 | 2024-10-19 |  |
+| [Imagínate](https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Imagínate](https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8) | 2:50 | 2024-11-14 |  |
 | [Imperio](https://open.spotify.com/track/63rRgkllF0FDeZ9fpOkFKl) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 2:48 | 2024-11-02 |  |
 | [In Da Getto](https://open.spotify.com/track/1q0PYXTbDsirp2l74ng6pn) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:10 | 2021-09-12 | 2021-10-10 |
 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 | 2021-07-21 | 2021-09-12 |

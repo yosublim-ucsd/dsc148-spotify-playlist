@@ -4,7 +4,7 @@
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-195 songs - 9 hr 52 min
+197 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Daydream](https://open.spotify.com/track/61en4Qpk67pYS8N8odt8qM) | [Ivy Ravenwood](https://open.spotify.com/artist/4sch5lw4B8tfy0uWtQ4lfn) | [Dream the Day Away \- Beautiful Harp Music](https://open.spotify.com/album/7l2FWpV3ev698tW6VjCkw7) | 3:30 | 2022-05-11 |  |
 | [Dharmachakra / Wheel of Dharma](https://open.spotify.com/track/1C4OjtdybVfym3Zr5IZZAE) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Wheel of Dharma](https://open.spotify.com/album/0Serh6qslduvkUBcwpBSLT) | 3:30 | 2023-07-11 |  |
 | [Dimensions](https://open.spotify.com/track/73vGj4BNyEWG9g6OSXLelI) | [Valéry Guilloux](https://open.spotify.com/artist/75SvP483ULjCCmGKmGnBL7) | [Dimensions](https://open.spotify.com/album/4IfuoDG0kJ4AYcQ3o0hMMb) | 3:14 | 2023-10-09 |  |
+| [Distant Stone](https://open.spotify.com/track/1voD0ahvtY5NRq7Ayb6jHM) | [Celtic Charm](https://open.spotify.com/artist/3GRwfeqk1Aep2RmOliU5ix) | [Imminent Light](https://open.spotify.com/album/1QMLibbaVhq5CEdI0Wgx73) | 3:24 | 2024-11-14 |  |
 | [Down the River](https://open.spotify.com/track/6IcLI0Fo5egePIjWt05mUp) | [Morris Warwick](https://open.spotify.com/artist/6Wg9YE1YeFo3CIPJjBvisW) | [Down the River](https://open.spotify.com/album/1zU33D5pT0hbgkgRV7ThZj) | 1:08 | 2022-05-11 | 2023-10-05 |
 | [Dreamful Love Story](https://open.spotify.com/track/3pVtn2rtZwlSifaGWELKDn) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Serenity: A Collection Of Mindful Meditations](https://open.spotify.com/album/1nMQ5l2yzr6EjpsO24O4Aj) | 3:26 | 2024-07-26 |  |
 | [Echoes in the Chapel](https://open.spotify.com/track/0R4wW7bU9CsNeHqb4xCiFi) | [The Harp on the Hill](https://open.spotify.com/artist/2YJfV8rDuyZd1BNmWcPezU) | [For All Eternity](https://open.spotify.com/album/6KYaJUK5yIjiaKBgEF2eh0) | 2:36 | 2022-05-11 |  |
@@ -146,7 +147,7 @@
 | [Reflections](https://open.spotify.com/track/2nSYUTPHzzSQbBLdogb377) | [Sound Haven](https://open.spotify.com/artist/3UjSXLe8R1x6SipIecocL8) | [Reflections](https://open.spotify.com/album/45kRaQsb4lgkQQAx1qk8PY) | 2:05 | 2022-05-11 |  |
 | [Rejuvenate](https://open.spotify.com/track/7tutHE61EVexcCIEOobZMw) | [Zaid Kharal](https://open.spotify.com/artist/51C9KR7C0MbdzUwQ7uRiLj) | [Rejuvenate](https://open.spotify.com/album/1z8AgbybdrhxqLSP0cH3b0) | 3:05 | 2024-07-16 |  |
 | [Relax Harp](https://open.spotify.com/track/593hwLr6dmt7HkKr9WolF9) | [Prayer Pray](https://open.spotify.com/artist/3XA8ZDL6L44ZdeD9KrnHQD) | [Heavenly Harp Music \(Relaxing Instrumentals\)](https://open.spotify.com/album/4ZAyhGtenHfhLraKj9kYdP) | 3:47 | 2022-05-11 | 2024-07-17 |
-| [Relax Me](https://open.spotify.com/track/0Bl3VuqBQMr38qvQe3Ct2c) | [Prayer Pray](https://open.spotify.com/artist/3XA8ZDL6L44ZdeD9KrnHQD) | [Relaxing Harp Music \(Harp Instrumentals\)](https://open.spotify.com/album/6kxlMO6zxMuPaxGvJ8Cdw0) | 3:30 | 2022-05-11 |  |
+| [Relax Me](https://open.spotify.com/track/0Bl3VuqBQMr38qvQe3Ct2c) | [Prayer Pray](https://open.spotify.com/artist/3XA8ZDL6L44ZdeD9KrnHQD) | [Relaxing Harp Music \(Harp Instrumentals\)](https://open.spotify.com/album/6kxlMO6zxMuPaxGvJ8Cdw0) | 3:30 | 2022-05-11 | 2024-11-15 |
 | [Relaxing Harp](https://open.spotify.com/track/6BdDlXdELLGgLlSD9fxodd) | [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w), [Músicas Para Relaxar](https://open.spotify.com/artist/1GpHohMWr8ZzO6CkaKOC6G), [Relaxing Musics](https://open.spotify.com/artist/4yfZySvyTem0vYS7RiaGyD) | [The Harp of Heaven Relaxing Healing Harps Musics](https://open.spotify.com/album/1NBsYTU5EvP55o3mqhzbR9) | 2:45 | 2022-05-11 | 2024-07-17 |
 | [Relaxing Harp](https://open.spotify.com/track/3BnRMdI0hOH4SO3YWYCkem) | [Músicas Para Relaxar](https://open.spotify.com/artist/1GpHohMWr8ZzO6CkaKOC6G), [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w) | [The Harp of Heaven Relaxing Healing Harps Musics](https://open.spotify.com/album/1s7dbimo6JmbOmlJNekmV6) | 2:46 | 2022-08-10 | 2024-04-19 |
 | [Relieving](https://open.spotify.com/track/2DWYBGBzNQKQ7sB1IJDnRz) | [Degravitated](https://open.spotify.com/artist/5X78BhxOkF4gr6Q0WD1CoY) | [Relieving](https://open.spotify.com/album/6ACa4v7ue1vczGy03tJkH0) | 3:37 | 2023-09-20 |  |
@@ -203,5 +204,6 @@
 | [Written on the Sky](https://open.spotify.com/track/0I6Pbgf7fjPMqu3Ah9jOhI) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp), [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Actus Tragicus](https://open.spotify.com/album/5y3BawuYMUk0iOdKsAepdr) | 2:02 | 2023-02-10 | 2023-03-25 |
 | [Written on the Sky](https://open.spotify.com/track/0x1sDBH8c2eAqmBSjwv4yd) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Spring](https://open.spotify.com/album/1JY1BKv5rj8ILQvHdz2Aaw) | 2:02 | 2023-03-09 | 2024-04-19 |
 | [Written on the Sky](https://open.spotify.com/track/23Gjcxh2nK5cy1EnToKaCL) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Billow Gently](https://open.spotify.com/album/12A7tN2PisImkNMTb7es9f) | 2:02 | 2023-03-09 | 2023-04-14 |
+| [Zinnia](https://open.spotify.com/track/4MgyFMLMPvaFgc9UmUgpVt) | [Astral Equations](https://open.spotify.com/artist/1Fzp7IB3LGYPLv1Xbot6ZM) | [Zinnia](https://open.spotify.com/album/22i7ONKuIruRnxv9EbHzXb) | 2:44 | 2024-11-14 |  |
 
 \*This playlist was first scraped on 2022-06-20. Prior content cannot be recovered.

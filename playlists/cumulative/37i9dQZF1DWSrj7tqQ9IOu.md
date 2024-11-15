@@ -4,7 +4,7 @@
 
 > The best French indie tracks right now\. Cover : Miki
 
-546 songs - 1 day 5 hr 49 min
+548 songs - 1 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [De passage](https://open.spotify.com/track/4qF7Zmu83lewHKTjP8sHqD) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Nouvelle Ère](https://open.spotify.com/album/5fDeHvOOrCb7iOw7V90OQm) | 3:06 | 2024-01-18 | 2024-04-19 |
 | [De passage](https://open.spotify.com/track/5mkGCuxXJfqo8Ed5dlQWdF) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [De passage](https://open.spotify.com/album/7w8YGqzXswTDFkUQ4edlRw) | 3:06 | 2024-01-04 | 2024-01-22 |
 | [De ta faute](https://open.spotify.com/track/5oj0j8VDbNscUAfv7acteK) | [Adamé](https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe), [Lili Poli](https://open.spotify.com/artist/0hSW0pdwbtPmPaJTOlBz8a) | [De ta faute](https://open.spotify.com/album/7Ggkx1UE9wCQ0vFu4h80Mo) | 2:53 | 2023-08-24 | 2024-02-09 |
+| [Des Choses](https://open.spotify.com/track/1zvmRYVcCbdr2ml6U9cqxw) | [Scratch Massive](https://open.spotify.com/artist/5udXThiZTVoHa4g0GDjgxA), [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd), [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij) | [Des Choses](https://open.spotify.com/album/6HSL1XRfNmkBkPWJ4Ix5YH) | 3:12 | 2024-11-14 |  |
 | [Des nuits de ça](https://open.spotify.com/track/4Ns96VeAFjAjtTxYSdSQ2f) | [Since Charles](https://open.spotify.com/artist/7pHGQcurcGNZ2M3018eH8o) | [Des nuits de ça](https://open.spotify.com/album/6l4mLyttDO3ius8bjQN2gy) | 3:22 | 2023-01-26 | 2023-02-24 |
 | [Dessus\-dessous](https://open.spotify.com/track/2TdEBZtsNm1yd6O7zImH9x) | [Mado](https://open.spotify.com/artist/2FDZzdKv337dodxZfRgvXT), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [Molitor 3](https://open.spotify.com/album/7pLkJhE3XRZEQUTMhAdPS6) | 2:48 | 2022-07-07 | 2022-10-28 |
 | [Destination l'amour](https://open.spotify.com/track/0Iol63wVJyT2kaRhYix6iH) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Seule sous ma frange](https://open.spotify.com/album/2mu9cesnOqR7w5otGmRYgS) | 3:15 | 2022-05-19 | 2022-06-24 |
@@ -209,7 +210,7 @@
 | [HOW STRANGE?](https://open.spotify.com/track/4IQw9pS2PfMsYYeTkZ5CGy) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [HOW STRANGE?](https://open.spotify.com/album/29KjlAdATsp7XF6Pp08fXa) | 2:57 | 2023-10-19 | 2023-11-24 |
 | [Humains après tout](https://open.spotify.com/track/1SddnrGqOScznWZNnhWnv8) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Humains après tout](https://open.spotify.com/album/32C0qziCh9lCnOujTtF3gd) | 2:22 | 2022-04-21 | 2022-05-13 |
 | [I Made It](https://open.spotify.com/track/3GGs5TGfMh675Tvg08VjLQ) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Picard Brothers](https://open.spotify.com/artist/1bATQwgDSJlmYJ4obvTFmN) | [I Made It](https://open.spotify.com/album/4EolaFLE1ii1Xw3Lb6lLbj) | 2:40 | 2022-09-22 | 2022-12-09 |
-| [I see you up tomorrow](https://open.spotify.com/track/4tdwnzkNsPyb3MAFnhuETN) | [Scratch Massive](https://open.spotify.com/artist/5udXThiZTVoHa4g0GDjgxA), [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij) | [I see you up tomorrow](https://open.spotify.com/album/2XDwROWOGBYPQ7ZX7CVB3j) | 2:46 | 2024-08-29 |  |
+| [I see you up tomorrow](https://open.spotify.com/track/4tdwnzkNsPyb3MAFnhuETN) | [Scratch Massive](https://open.spotify.com/artist/5udXThiZTVoHa4g0GDjgxA), [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij) | [I see you up tomorrow](https://open.spotify.com/album/2XDwROWOGBYPQ7ZX7CVB3j) | 2:46 | 2024-08-29 | 2024-11-15 |
 | [I Will Wait For You](https://open.spotify.com/track/0u53F1Zdk6xsknG1Uie2jL) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [I Will Wait For You](https://open.spotify.com/album/0f2cFqPY4v3WXmHGDyaWD7) | 2:21 | 2022-07-14 | 2022-08-26 |
 | [I'll Think About It](https://open.spotify.com/track/0RLKhd3wbu8733GCu03nNn) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [I'll Think About It](https://open.spotify.com/album/5cnqcRrObA48AfCvSxH54G) | 3:08 | 2022-09-22 | 2022-10-28 |
 | [Il Faudra Bien](https://open.spotify.com/track/2NEL9RbgWhmFl0zeQpyLB6) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [Il Faudra Bien](https://open.spotify.com/album/0oLHRQFyXLMjVrHW3Lxejo) | 3:03 | 2024-09-05 |  |
@@ -232,6 +233,7 @@
 | [Je ne t'appartiens pas](https://open.spotify.com/track/4BHHWZKuwXCD4ipP8WhFhD) | [Toboggan](https://open.spotify.com/artist/2OSWGDW8nA4BvPZSw9K7tG) | [Je ne t'appartiens pas](https://open.spotify.com/album/4GN8F1jaywulz1Y88JkdEc) | 2:37 | 2022-11-17 | 2022-12-02 |
 | [Je reste cool](https://open.spotify.com/track/6FDJmxbrJLBM1ODvP1I3MU) | [LE NOISEUR](https://open.spotify.com/artist/5Hunwp6tQa4z3l9CFwHE7K) | [Je reste cool](https://open.spotify.com/album/5vRvczFRaV4KYk0e3fwJr4) | 3:29 | 2022-10-06 | 2022-12-16 |
 | [Je reviens des enfers](https://open.spotify.com/track/4vmRrETjLhbXDKpJVqmMrT) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [dani](https://open.spotify.com/album/2aHnnm5f9FmXmtwUEPae4f) | 2:43 | 2022-06-23 | 2022-07-22 |
+| [Je\-m'en\-foutisme](https://open.spotify.com/track/2HVbMBvaLBk8r9N2JkoSdr) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Je\-m'en\-foutisme](https://open.spotify.com/album/3MtHZHhYxhiMheSNTObC1R) | 2:27 | 2024-11-14 |  |
 | [Jericho](https://open.spotify.com/track/0EReTW8JFj00nBZszTFivN) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [Dans cent ans](https://open.spotify.com/album/5GbVEUDKSF372hQLZMcbUb) | 2:19 | 2023-03-16 | 2023-09-22 |
 | [Johnny](https://open.spotify.com/track/1bMt3LbZFKOu6yBYz26Qet) | [Nina Lili J](https://open.spotify.com/artist/4pFzPeaxtoh7hF3XOXKicA) | [Johnny](https://open.spotify.com/album/1qMUT2E2k5Ri7Haqrgq9IB) | 3:29 | 2023-03-02 | 2023-09-22 |
 | [Juste toi et moi](https://open.spotify.com/track/2LsigtUd0PhjrtVIibZOQB) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Juste toi et moi](https://open.spotify.com/album/4UzT23o7A0FSi1rwsplBkW) | 2:55 | 2024-02-15 |  |
@@ -295,7 +297,7 @@
 | [Lost and found](https://open.spotify.com/track/3o5inGcKklTC2NwrCSUhQl) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Lost and found](https://open.spotify.com/album/3AVDhfJj8lyxdhLgSia94h) | 4:02 | 2023-09-21 | 2024-09-20 |
 | [Love](https://open.spotify.com/track/2DdwX6AeNWHtM2MDVBwosk) | [Nusky & Vaati](https://open.spotify.com/artist/4hQg3HQhXpqDWA0xi8rplg), [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Love](https://open.spotify.com/album/0w4szfJWUyvDX0zHhGHUPS) | 4:10 | 2022-06-30 | 2023-01-13 |
 | [Love from the Other Side](https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Love from the Other Side](https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n) | 4:09 | 2024-05-02 |  |
-| [Love Scares](https://open.spotify.com/track/2eEKfCcbnCmpevVJfmqcPU) | [Naive New Beaters](https://open.spotify.com/artist/0xW1QQBD5O09HptO2fEaI4) | [FVTVRVM](https://open.spotify.com/album/2BxOeDV8tqsRRqIS5fk9QE) | 2:40 | 2024-06-06 |  |
+| [Love Scares](https://open.spotify.com/track/2eEKfCcbnCmpevVJfmqcPU) | [Naive New Beaters](https://open.spotify.com/artist/0xW1QQBD5O09HptO2fEaI4) | [FVTVRVM](https://open.spotify.com/album/2BxOeDV8tqsRRqIS5fk9QE) | 2:40 | 2024-06-06 | 2024-11-15 |
 | [Love! love! love!](https://open.spotify.com/track/0VUrBTBFYX8tkGUbWJ5wkD) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [BLOWSOM & friends](https://open.spotify.com/album/3ixRxq63i9d7drvJJf8UGs) | 3:22 | 2023-01-05 | 2023-04-14 |
 | [Loving Soft](https://open.spotify.com/track/59ZKmw2qa1w0IWcYZxk25s) | [Please](https://open.spotify.com/artist/07xx8lFWESVjZnqCpm43ku) | [Loving Soft](https://open.spotify.com/album/6cS7DGBdv2IRcTOF4Ed7e3) | 3:54 | 2023-01-26 | 2023-03-10 |
 | [Ma plus belle aventure](https://open.spotify.com/track/6O0kgPvEUySOADRg4eNuvh) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Ma plus belle aventure](https://open.spotify.com/album/3pHIOSWVoT7vaYswR0rLQO) | 3:17 | 2022-02-03 | 2022-09-16 |

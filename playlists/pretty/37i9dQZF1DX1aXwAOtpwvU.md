@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: Daniel Godson, Jea Mira, Livka, Lotta, MAJA, Zaleś
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,779 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,777 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 79 | [Luksus](https://open.spotify.com/track/032wbCjB0T5yY6B1Sp7t5b) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH), [Trill Pem](https://open.spotify.com/artist/0x4xJCGDyTlKr47RF2WXzu) | [Luksus](https://open.spotify.com/album/59qNkAOwe8LEdKRqwocPD6) | 2:44 |
 | 80 | [Słoneczniki](https://open.spotify.com/track/2ila27UsX8EzLvTy6CcOAE) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Słoneczniki](https://open.spotify.com/album/0udfrdwqGWI0kWUJ7YtxOk) | 3:31 |
 
-Snapshot ID: `ZwjniwAAAAAkr/rzIFDTOpIl8iztTSzb`
+Snapshot ID: `ZwjniwAAAABZhuukHoD2QhhDpJ+GhrJ1`

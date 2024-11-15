@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Jasiel Nuñez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,771 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,067 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Beyonce](https://open.spotify.com/track/32n44FJQOYB4DPWiDfi1N3) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Beyonce](https://open.spotify.com/album/3NI6t8o1YTwIDdPMx3yGfR) | 2:46 |
 | 50 | [When I was your Man \- En Vivo](https://open.spotify.com/track/4uD5lKiR8j3rVLVzCsEzSq) | [Designo Celestial](https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb) | [En Vivo Con DC](https://open.spotify.com/album/0WoAtQOZEwpwFCMCZXsdwu) | 2:31 |
 
-Snapshot ID: `Zy2o4AAAAAC0c/hwaE/Go9AvNduykD85`
+Snapshot ID: `Zy2o4AAAAABltX4fkwD1dPg9B+HHL4zH`

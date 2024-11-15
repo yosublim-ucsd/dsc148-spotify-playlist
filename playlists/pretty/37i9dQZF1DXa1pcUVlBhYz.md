@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Jazzy & KILIMANJARO
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,727 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,747 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 59 | [Bad B\*tch](https://open.spotify.com/track/515DlGs3ur3soKeIomMFbL) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Eurostar](https://open.spotify.com/album/5WWpnaOe9Jq6EV8wHNHD3m) | 1:31 |
 | 60 | [You Are In My System \- Faster Horses Sport Mix](https://open.spotify.com/track/4cxpgHXbVh4sGwb1C7TAG2) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul), [Troy Denari](https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv), [Faster Horses](https://open.spotify.com/artist/3LpHT7su9Y4DLfV6NCfZKZ) | [You Are In My System \(Faster Horses Sport Mix\)](https://open.spotify.com/album/4x5rQlOXx23lz5aImLGMOt) | 3:17 |
 
-Snapshot ID: `ZypS7gAAAABjR1aXepwl4zQK87btjuj5`
+Snapshot ID: `ZypS7gAAAAAGHyoFziESX+bcb/wF0k64`

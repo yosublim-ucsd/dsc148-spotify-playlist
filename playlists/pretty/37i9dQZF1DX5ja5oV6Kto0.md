@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: AYLØ
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,884 likes - 79 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,911 likes - 79 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 78 | [Patience Ozokwor](https://open.spotify.com/track/1LNvzS4MixvOYyAIHorfVO) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0) | [Patience Ozokwor](https://open.spotify.com/album/3Iur68f8UK7ZNeBZ2iGNwA) | 2:33 |
 | 79 | [Special](https://open.spotify.com/track/77jS1yL8OuZjXP2omoc7Bf) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi) | [Special](https://open.spotify.com/album/1Khrq0VrvwzxhY5gZlsQLT) | 2:14 |
 
-Snapshot ID: `Zy1UvAAAAABUWYfVeYOY1XErb683V4dv`
+Snapshot ID: `Zy1UvAAAAAC+6idPKf9ba016oMXVO5YX`

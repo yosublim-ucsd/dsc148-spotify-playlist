@@ -1,12 +1,12 @@
 {
   "description": "Playlist",
-  "num_followers": 17234,
+  "num_followers": 17237,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAALjufGEP/H9ZwyLq0WmH40RxhUk53a",
+  "snapshot_id": "AAALnv03MaDygWHN3zmuykktEAzMr20Q",
   "tracks": [
     {
       "added_at": "2024-11-02 09:39:57",
@@ -1791,22 +1791,6 @@
       "duration_ms": 196911,
       "name": "Voodoo on Gold",
       "url": "https://open.spotify.com/track/1yLRz16NS8aWKH3ybbToRE"
-    },
-    {
-      "added_at": "2023-10-25 08:54:21",
-      "album": {
-        "name": "Crystal Lake (GooGooGaga)",
-        "url": "https://open.spotify.com/album/0y0ey7W6Fl0lGJOEXWuc85"
-      },
-      "artists": [
-        {
-          "name": "Shane Tyler",
-          "url": "https://open.spotify.com/artist/05hDnhvWwtQKibC73ksjQS"
-        }
-      ],
-      "duration_ms": 213059,
-      "name": "Crystal Lake (GooGooGaga)",
-      "url": "https://open.spotify.com/track/0dGHmcSGn7dJcPcTV8LHvs"
     },
     {
       "added_at": "2023-10-25 08:54:21",
@@ -8987,6 +8971,246 @@
       "duration_ms": 141000,
       "name": "Fore to the Come",
       "url": "https://open.spotify.com/track/1M2M9XKJqLBh53vFNZaTJ3"
+    },
+    {
+      "added_at": "2024-11-14 15:35:41",
+      "album": {
+        "name": "A Little Love",
+        "url": "https://open.spotify.com/album/1v1VAU5U5R77LeZJKmL8vp"
+      },
+      "artists": [
+        {
+          "name": "Shakuhachi on the Minipops",
+          "url": "https://open.spotify.com/artist/4AWrTzW7zfCFWRCPg9FJsJ"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "A Little Love",
+      "url": "https://open.spotify.com/track/0j1OdOdqFlKZemZSTpexvz"
+    },
+    {
+      "added_at": "2024-11-14 15:35:49",
+      "album": {
+        "name": "Ruri Ru",
+        "url": "https://open.spotify.com/album/3ZEmV18AILKIwKQ3JkVjTK"
+      },
+      "artists": [
+        {
+          "name": "Shakuhachi on the Minipops",
+          "url": "https://open.spotify.com/artist/4AWrTzW7zfCFWRCPg9FJsJ"
+        }
+      ],
+      "duration_ms": 218255,
+      "name": "Ruri Ru",
+      "url": "https://open.spotify.com/track/04bOpDFJQ6vKQW8jrgoWzu"
+    },
+    {
+      "added_at": "2024-11-14 15:38:51",
+      "album": {
+        "name": "Reasonings",
+        "url": "https://open.spotify.com/album/4KmHuc0BNk5nMlZVMaL1c4"
+      },
+      "artists": [
+        {
+          "name": "Blue Material",
+          "url": "https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI"
+        }
+      ],
+      "duration_ms": 222876,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/0L38Ai6MDjMkI21CwsgOEz"
+    },
+    {
+      "added_at": "2024-11-14 15:38:58",
+      "album": {
+        "name": "Reasonings",
+        "url": "https://open.spotify.com/album/4KmHuc0BNk5nMlZVMaL1c4"
+      },
+      "artists": [
+        {
+          "name": "Blue Material",
+          "url": "https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI"
+        }
+      ],
+      "duration_ms": 194246,
+      "name": "Meadows",
+      "url": "https://open.spotify.com/track/7nDR1d156re6DK9C3uP0bk"
+    },
+    {
+      "added_at": "2024-11-14 15:39:05",
+      "album": {
+        "name": "Reasonings",
+        "url": "https://open.spotify.com/album/4KmHuc0BNk5nMlZVMaL1c4"
+      },
+      "artists": [
+        {
+          "name": "Blue Material",
+          "url": "https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI"
+        }
+      ],
+      "duration_ms": 231220,
+      "name": "NWO",
+      "url": "https://open.spotify.com/track/3KfiI3V6V1RAkrPThLFEj0"
+    },
+    {
+      "added_at": "2024-11-14 15:39:38",
+      "album": {
+        "name": "Reasonings",
+        "url": "https://open.spotify.com/album/4KmHuc0BNk5nMlZVMaL1c4"
+      },
+      "artists": [
+        {
+          "name": "Blue Material",
+          "url": "https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI"
+        }
+      ],
+      "duration_ms": 168507,
+      "name": "Reasonings",
+      "url": "https://open.spotify.com/track/4PbWIgXxmTXyQrI3LdBOEi"
+    },
+    {
+      "added_at": "2024-11-14 15:39:49",
+      "album": {
+        "name": "Reasonings",
+        "url": "https://open.spotify.com/album/4KmHuc0BNk5nMlZVMaL1c4"
+      },
+      "artists": [
+        {
+          "name": "Blue Material",
+          "url": "https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI"
+        }
+      ],
+      "duration_ms": 188589,
+      "name": "This World Can Wait",
+      "url": "https://open.spotify.com/track/0yFCbNI02sCBbSSr5O7mer"
+    },
+    {
+      "added_at": "2024-11-14 15:40:15",
+      "album": {
+        "name": "Nobody's Perfect",
+        "url": "https://open.spotify.com/album/3I9FpnzIRxnktCGwDdKeZK"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 160754,
+      "name": "Nobody's Perfect",
+      "url": "https://open.spotify.com/track/53SirzTK2fEruERQoZ8egL"
+    },
+    {
+      "added_at": "2024-11-14 15:40:29",
+      "album": {
+        "name": "Waiting by the Phone",
+        "url": "https://open.spotify.com/album/0ij3iTBmB231VrgLP8tnMZ"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 134765,
+      "name": "Waiting by the Phone",
+      "url": "https://open.spotify.com/track/166qPsm4hCjDRzuhNUacjZ"
+    },
+    {
+      "added_at": "2024-11-14 15:40:41",
+      "album": {
+        "name": "Tell Me How",
+        "url": "https://open.spotify.com/album/6eyqtiXZ28uTVsIwAcmZnv"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 197389,
+      "name": "Tell Me How",
+      "url": "https://open.spotify.com/track/01CMi6BTasSxDv2sSDqv6q"
+    },
+    {
+      "added_at": "2024-11-14 15:40:49",
+      "album": {
+        "name": "No Rush",
+        "url": "https://open.spotify.com/album/4mWyF0S5n3m6lHKLLQ5x11"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 264454,
+      "name": "No Rush",
+      "url": "https://open.spotify.com/track/2LtiO0h0TzdN74yXNjDgZj"
+    },
+    {
+      "added_at": "2024-11-14 15:41:50",
+      "album": {
+        "name": "Play What's Not There",
+        "url": "https://open.spotify.com/album/3IYUez6K996YNQruiyV5zI"
+      },
+      "artists": [
+        {
+          "name": "PWNT",
+          "url": "https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v"
+        }
+      ],
+      "duration_ms": 233272,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/1S0daLd7anlC2gKrxhu6dq"
+    },
+    {
+      "added_at": "2024-11-14 15:42:22",
+      "album": {
+        "name": "Caper",
+        "url": "https://open.spotify.com/album/6ZNqwyJkgq7af0nvWNNTsz"
+      },
+      "artists": [
+        {
+          "name": "Joe Ghatt",
+          "url": "https://open.spotify.com/artist/2YiwZQDl2NHiYXTggmtDZ3"
+        }
+      ],
+      "duration_ms": 220504,
+      "name": "Pale Blue Dot",
+      "url": "https://open.spotify.com/track/7bLIf5jLgRYJLgdI1v1Cok"
+    },
+    {
+      "added_at": "2024-11-14 15:42:30",
+      "album": {
+        "name": "Caper",
+        "url": "https://open.spotify.com/album/6ZNqwyJkgq7af0nvWNNTsz"
+      },
+      "artists": [
+        {
+          "name": "Joe Ghatt",
+          "url": "https://open.spotify.com/artist/2YiwZQDl2NHiYXTggmtDZ3"
+        }
+      ],
+      "duration_ms": 292452,
+      "name": "Always Remember",
+      "url": "https://open.spotify.com/track/1ExYYvPf8qmUxtAg5dO196"
+    },
+    {
+      "added_at": "2024-11-14 15:43:33",
+      "album": {
+        "name": "Everything Must Change",
+        "url": "https://open.spotify.com/album/7JrbVR92TUZZAe1b7PlYay"
+      },
+      "artists": [
+        {
+          "name": "Mild Universe",
+          "url": "https://open.spotify.com/artist/5yoKxCrbs3rGiUMUuPcknJ"
+        }
+      ],
+      "duration_ms": 249761,
+      "name": "Divine Energy",
+      "url": "https://open.spotify.com/track/5Z7KxFM4Rh9G30pT7p6PRs"
     }
   ],
   "unique_name": "Nice Guys | 24/7 Radio",

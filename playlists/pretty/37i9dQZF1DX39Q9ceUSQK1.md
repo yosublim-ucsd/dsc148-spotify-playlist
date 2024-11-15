@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe indie, rock en alternative\. Cover: The Vices \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a> BNLX\-artiest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,040 likes - 70 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,053 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 69 | [All Night](https://open.spotify.com/track/2VHlTLNsbMuhxiTasirOIn) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7yscvqpYCcpNEgByHSzwrN) | 3:53 |
 | 70 | [Rock and Roll](https://open.spotify.com/track/3133Uct5LILQV4A9A1HY4S) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Revelation](https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51) | 4:54 |
 
-Snapshot ID: `Zy1GcAAAAABVDbtISE5dMLm/5CKbPMAQ`
+Snapshot ID: `Zy1GcAAAAADqvFSppARn2KrozjXQSFh6`

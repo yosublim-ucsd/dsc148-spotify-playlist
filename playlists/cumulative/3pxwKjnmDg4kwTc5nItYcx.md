@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-811 songs - 1 day 19 hr 31 min
+813 songs - 1 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [ALL MINE](https://open.spotify.com/track/0xoEZgqN7bQZ21wbTfFru2) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [ALL MINE](https://open.spotify.com/album/5MVN44ryoa6sLFsv42BoCb) | 2:59 | 2023-05-17 |  |
 | [All My Friends](https://open.spotify.com/track/0XKeX2a57RKZrYikf5tmPa) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [All My Friends](https://open.spotify.com/album/2vIpHxPa1g5KQvIlrR1FGK) | 2:48 | 2020-05-22 | 2021-05-12 |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-04 |  |
+| [All There Is](https://open.spotify.com/track/2HHyINNaWkOq05vI2UvPX3) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [All There Is](https://open.spotify.com/album/57BqI7ioPCm0XsOcyVPxbo) | 2:23 | 2024-11-15 |  |
 | [American Town](https://open.spotify.com/track/4rDvBpFgKbgJepZTaP0rD6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:17 | 2023-11-10 |  |
 | [And It Breaks My Heart](https://open.spotify.com/track/658x3phIzux5VYryVBOET4) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [And It Breaks My Heart / Who You Lovin / In a Stranger's Arms](https://open.spotify.com/album/5aTeJSdirpRjxl9IIpWx8v) | 4:06 | 2020-07-01 | 2021-05-12 |
 | [Another Falling Star](https://open.spotify.com/track/6ie3zhD4Yyrz35wCouSk8T) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 3:39 | 2022-03-10 |  |
@@ -114,6 +115,7 @@
 | [Bubble](https://open.spotify.com/track/2ohheZzavZxvs6Gm3o8EUS) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Bubble](https://open.spotify.com/album/2lkx1nUXlyvRiKtZoHEyeN) | 2:37 | 2020-07-06 | 2021-01-18 |
 | [Built To Last \(feat\. RØRY\)](https://open.spotify.com/track/3OmKuGbtu4U2UnQpDqLXHi) | [Feki](https://open.spotify.com/artist/3oZDqlOiOQTolPJZsxivaN), [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [Built To Last \(feat\. RØRY\)](https://open.spotify.com/album/0kxZB0MTOz0PIUfHGrVRIj) | 2:45 | 2019-08-27\* | 2020-02-12 |
 | [BULLET TO THE HEART](https://open.spotify.com/track/1HMMRRcLsRARU4fzuycnRo) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [BULLET TO THE HEART](https://open.spotify.com/album/4e2ISy1Q6CSMwlDNfnYXkO) | 2:25 | 2019-09-27 | 2020-02-12 |
+| [Burn](https://open.spotify.com/track/1f28i2xBtCv1L053hFvNPt) | [BOBI ANDONOV](https://open.spotify.com/artist/5EXfqUleFQVrNrQIDpuAxy) | [SAINT \(Deluxe EP\)](https://open.spotify.com/album/0fq6wER0iJ958hiL1SqAzE) | 3:10 | 2024-11-15 |  |
 | [Burning Down](https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Burning Down](https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V) | 2:59 | 2024-09-20 |  |
 | [BUTTERFLIES](https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [BUTTERFLIES](https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg) | 3:11 | 2021-06-25 |  |
 | [BYO](https://open.spotify.com/track/3cTnUzT5Xqwwlh6nnngmcQ) | [Ojikae](https://open.spotify.com/artist/3moDp3eFeUgBTCqUSxcPZF) | [3033](https://open.spotify.com/album/6t1Fw8UPVG4Q8699YLgKYs) | 3:19 | 2021-03-06 |  |

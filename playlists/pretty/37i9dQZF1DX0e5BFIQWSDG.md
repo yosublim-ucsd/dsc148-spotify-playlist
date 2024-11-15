@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Roi 6/12
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,169 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,259 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 49 | [Agapi Mou Me Dioxneis](https://open.spotify.com/track/4u4kVeDK1ru1ekntEKL7OA) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Agapi Mou Me Dioxneis](https://open.spotify.com/album/5WlF9YZekzepjqsncoD8LR) | 2:50 |
 | 50 | [Kodikas](https://open.spotify.com/track/2BeeUc34GdKf3SubbqSX76) | [Tsaki](https://open.spotify.com/artist/2S6IpjPbMmKLJMhUJCIFMB), [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw) | [Kodikas](https://open.spotify.com/album/0UMWCCRPN89z7SqOlPSwzZ) | 2:44 |
 
-Snapshot ID: `ZzIWfwAAAACrjzxnS5W9iiRmc0+zprlX`
+Snapshot ID: `ZzIWfwAAAABaoFulsiYYhcc5OJcxbG2Z`

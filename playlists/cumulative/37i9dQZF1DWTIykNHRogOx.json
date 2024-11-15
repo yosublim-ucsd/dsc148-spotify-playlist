@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : H\u00e9l\u00e8ne Sio",
+  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : Terrenoire",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -418,7 +418,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 200720,
       "name": "Hauteurs",
       "url": "https://open.spotify.com/track/02r4REGMZ3JPjKL43w5pe0"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 216026,
       "name": "Je dis merci",
       "url": "https://open.spotify.com/track/6cxrdRDk7FvkPwkSJioki2"
@@ -946,6 +946,24 @@
       "duration_ms": 240573,
       "name": "Le sais-tu \u00bf (feat. Marguerite Thiam)",
       "url": "https://open.spotify.com/track/1Hyyaf12M5APsTxHilyZ8U"
+    },
+    {
+      "album": {
+        "name": "Le secret",
+        "url": "https://open.spotify.com/album/2pkqJCNYaXmJdHNOKN66Zq"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185066,
+      "name": "Le secret",
+      "url": "https://open.spotify.com/track/1iLTV03L1kSo2M5AN0z3BE"
     },
     {
       "album": {
@@ -1350,7 +1368,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 219546,
       "name": "Patineuse",
       "url": "https://open.spotify.com/track/2cd9VxehmOVPTsCRTzjgRK"
@@ -1538,6 +1556,24 @@
       "duration_ms": 167520,
       "name": "Rome - Version acoustique",
       "url": "https://open.spotify.com/track/0PtbSikU0FekxFY2o6pNiP"
+    },
+    {
+      "album": {
+        "name": "R\u00eaveur, R\u00eaveur",
+        "url": "https://open.spotify.com/album/3kqttZxgp69ma3RYmscTdB"
+      },
+      "artists": [
+        {
+          "name": "Louis Chedid",
+          "url": "https://open.spotify.com/artist/2rBb2WwvpcIHNiofmw22vn"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177786,
+      "name": "R\u00eaveur, R\u00eaveur",
+      "url": "https://open.spotify.com/track/63qs1xM7ReJTFEi3pKdN3R"
     },
     {
       "album": {
@@ -1762,6 +1798,24 @@
       "duration_ms": 169400,
       "name": "Tu parles trop",
       "url": "https://open.spotify.com/track/1uzdxvQmlPJDOqxgHKL9IR"
+    },
+    {
+      "album": {
+        "name": "un chien sur le port",
+        "url": "https://open.spotify.com/album/466DsSP9xrs0UYtY3tk7dD"
+      },
+      "artists": [
+        {
+          "name": "Terrenoire",
+          "url": "https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215320,
+      "name": "un chien sur le port",
+      "url": "https://open.spotify.com/track/4dOmICDdEiOiqgiDhD1XrU"
     },
     {
       "album": {

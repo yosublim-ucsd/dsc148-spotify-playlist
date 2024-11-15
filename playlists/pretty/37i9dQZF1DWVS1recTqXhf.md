@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1recTqXhf.md) - [plain]
 
 > Guided meditations for a variety of needs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,134 likes - 99 songs - 10 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,370 likes - 99 songs - 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1recTqXhf.md) - [plain]
 | 98 | [Deepening Relaxation with Guided Sleep Visualization](https://open.spotify.com/track/0gMTqpdHED35G1REqaPUK5) | [Sacred Body Scans](https://open.spotify.com/artist/0mpuyeMeBxHhE1JTGLWyic) | [Serenity Slumber: Guided Body Scan Meditation for Deep Sleep](https://open.spotify.com/album/6AyZZ64fA5O9Wl84vtRIcg) | 2:04 |
 | 99 | [Guided Sleep Meditation Part 1](https://open.spotify.com/track/5uoJfHp1C2jjyr4nVPKKWG) | [Anders Rhedin](https://open.spotify.com/artist/4ywbRnYCXjL7Jnb0RVwJmM) | [Guided Sleep Meditation](https://open.spotify.com/album/1I9gIM27EJx8hSdpCsiaEI) | 2:43 |
 
-Snapshot ID: `ZysshAAAAACPbE0AzI0boSe0InsD9JsO`
+Snapshot ID: `ZysshAAAAAAMXzv2nBN3x5bl40DCqWlr`

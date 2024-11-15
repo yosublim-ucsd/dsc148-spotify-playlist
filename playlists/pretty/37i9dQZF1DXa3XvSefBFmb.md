@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas no volume máximo\. Uma playlist co\-curada por Irina Barros
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,131 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,133 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Esse Teu Riso](https://open.spotify.com/track/1uUMH1wvPaIEHAp0FXlWS9) | [Ana Mariano](https://open.spotify.com/artist/7MUZ4F7lryA5Hf2d2aTafU) | [Esse Teu Riso](https://open.spotify.com/album/2gyhdosEYJI2l0akhnF09q) | 3:31 |
 | 50 | [Se Me Vens Salvar](https://open.spotify.com/track/4BWxkZDn0IU8zd910YdKYh) | [Mónica Teotónio](https://open.spotify.com/artist/1nXBp09VXajQAxVCbP1Jh4), [Latte](https://open.spotify.com/artist/4hUwAsnHVXjrHIeI27HQ0Y) | [Se Me Vens Salvar](https://open.spotify.com/album/6ilrjQ0tj5N5hEx11BC2Qy) | 3:13 |
 
-Snapshot ID: `ZyqxgAAAAACCQhsqYPI2lka6eIOqJyxj`
+Snapshot ID: `ZyqxgAAAAAAYghFJZpCa05KPbS+R4g2T`

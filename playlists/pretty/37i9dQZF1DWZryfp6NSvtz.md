@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: The Amazons
 
-[Spotify](https://open.spotify.com/user/spotify) - 895,125 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 895,250 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Wishing Away](https://open.spotify.com/track/1axgavmq00XzrUcPbgSghz) | [FREESPIRITS](https://open.spotify.com/artist/0nPrFoUuwcB27aaf1qEOak) | [Wishing Away](https://open.spotify.com/album/3ZKG80dis0rGVS4Am99lYh) | 3:31 |
 | 50 | [The Great Survey](https://open.spotify.com/track/2IYAnNjwqYDXfe9Fl5IMIN) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [Instant Rewards](https://open.spotify.com/album/54n8MiXmukz3tjTs9294Bm) | 7:30 |
 
-Snapshot ID: `Zy2a0AAAAABU5NSlpdWsGuIli+ri1NU9`
+Snapshot ID: `Zy2a0AAAAAAEaUEAqy251DqQUpYavaBa`

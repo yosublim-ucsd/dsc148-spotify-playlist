@@ -1,12 +1,12 @@
 {
   "description": "This is Japanese Breakfast. The essential tracks, all in one playlist.",
-  "num_followers": 18934,
+  "num_followers": 18935,
   "original_name": "This Is Japanese Breakfast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzKagAAAAAB5wpgXA0OeEI1peHIpGgUk",
+  "snapshot_id": "ZzPsAAAAAADIrXg5qVtIkpTqL/gA5Bw7",
   "tracks": [
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 250906,
-      "name": "Exploration (Ruins)",
-      "url": "https://open.spotify.com/track/6TWyBecuHVquzKm4kPN0Jw"
+      "duration_ms": 64000,
+      "name": "Main Menu",
+      "url": "https://open.spotify.com/track/43193ICguBqjuTGEvIsXG9"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 64000,
-      "name": "Main Menu",
-      "url": "https://open.spotify.com/track/43193ICguBqjuTGEvIsXG9"
+      "duration_ms": 250906,
+      "name": "Exploration (Ruins)",
+      "url": "https://open.spotify.com/track/6TWyBecuHVquzKm4kPN0Jw"
     },
     {
       "added_at": null,

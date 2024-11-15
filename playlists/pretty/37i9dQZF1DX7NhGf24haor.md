@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Dual Damage
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,145 likes - 90 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,207 likes - 90 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 89 | [Fighting Spirit](https://open.spotify.com/track/3kOaXmfDI1seg5DpnBgsrm) | [Lowriderz](https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6), [Bassbrain](https://open.spotify.com/artist/2FpmZwomIGHEVAICcfIg5T) | [Fighting Spirit](https://open.spotify.com/album/3u7Jxr2m1zNRUA0G04ya5s) | 4:03 |
 | 90 | [High](https://open.spotify.com/track/6qtlHmS5i5J2MIFZqZ27cT) | [Deluzion](https://open.spotify.com/artist/3r40SMXcvhhDUE1xhU8MSB), [Code Black](https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB) | [High](https://open.spotify.com/album/6i5xe5ANEkAZJsuiCu9phb) | 2:52 |
 
-Snapshot ID: `Zy3HqwAAAADRSWE8Gy7N559zYW019bo+`
+Snapshot ID: `Zy3HqwAAAAD2raI5DoUa8q+5obLldsTz`

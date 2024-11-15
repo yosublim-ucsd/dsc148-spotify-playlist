@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Tarasinta
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,893 likes - 108 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,897 likes - 108 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 107 | [No One Else](https://open.spotify.com/track/3THtnG1bwcN8slSt4GJeEG) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Perak](https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb) | 1:56 |
 | 108 | [Wax & Feathers](https://open.spotify.com/track/0tcIc5MaCp672N7iI9qtIV) | [MANJA](https://open.spotify.com/artist/20pZIP8Eb3BEOdPiNqupRX) | [Wax & Feathers](https://open.spotify.com/album/0dFp2sdyM8QzDFHedQnQTc) | 4:10 |
 
-Snapshot ID: `ZyzzpQAAAABF+D6r/gyV7nQ1bLOJE/+A`
+Snapshot ID: `ZyzzpQAAAAD70qNseCbWTkiJJM6jWtTH`

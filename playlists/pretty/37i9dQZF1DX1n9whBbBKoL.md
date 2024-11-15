@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 
 > Ambient drone to make you feel weightless.
 
-[Spotify](https://open.spotify.com/user/spotify) - 835,923 likes - 148 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,169 likes - 148 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 | 147 | [Nomadic](https://open.spotify.com/track/5LaWbjk16aj6DB747lFJAx) | [Mirandah](https://open.spotify.com/artist/6plLmm84QvtMJs297VEFYh) | [Nomadic](https://open.spotify.com/album/16GztFsNQKFWKChyhY8Zre) | 2:29 |
 | 148 | [Endless](https://open.spotify.com/track/7nQT0pn9pURr5rLqHzfBXq) | [Asteeõs](https://open.spotify.com/artist/59r2DpcsbqkntoA9Xfkw9K) | [Endless](https://open.spotify.com/album/5tAiXuJzbpP2ADCqn3a7GW) | 3:09 |
 
-Snapshot ID: `Zyto2AAAAAAO5hSxCC29jI0PC7jR5Vc8`
+Snapshot ID: `Zyto2AAAAACFpsFavU6IbCUDf8VaxoV6`

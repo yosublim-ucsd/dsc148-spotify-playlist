@@ -1,13 +1,29 @@
 {
   "description": "alice phoebe lou <3 ",
-  "num_followers": 1172833,
+  "num_followers": 1172867,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzT4VgAAAADLH3xUJYK9PMVBOswoBBxW",
+  "snapshot_id": "ZzaXqwAAAADi2WOsE8+79xnTEejUhpdK",
   "tracks": [
+    {
+      "added_at": "2024-11-14 19:19:39",
+      "album": {
+        "name": "Details",
+        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
+      },
+      "artists": [
+        {
+          "name": "Frou Frou",
+          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+        }
+      ],
+      "duration_ms": 277333,
+      "name": "Breathe In",
+      "url": "https://open.spotify.com/track/03kZca43rgVgphYctcopJU"
+    },
     {
       "added_at": "2024-11-13 18:49:27",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 251768,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/46YtvsW5mJyp3slPgOhBKD"
+    },
+    {
+      "added_at": "2024-11-15 00:36:59",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Austins",
+          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
+        }
+      ],
+      "duration_ms": 157664,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -123,6 +155,22 @@
       "duration_ms": 215454,
       "name": "Image - Grimes Special",
       "url": "https://open.spotify.com/track/6dYwNIqAYid4wRh9zdDNkT"
+    },
+    {
+      "added_at": "2024-11-14 19:19:39",
+      "album": {
+        "name": "Speak for Yourself",
+        "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 180558,
+      "name": "Just for Now",
+      "url": "https://open.spotify.com/track/6ifbPf9vldlIJwYKrBFktx"
     },
     {
       "added_at": "2024-11-07 18:40:39",
@@ -1035,22 +1083,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Enemy",
-        "url": "https://open.spotify.com/album/3lw8rxXPOtJVG1HVHC4ahM"
-      },
-      "artists": [
-        {
-          "name": "SANDY",
-          "url": "https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL"
-        }
-      ],
-      "duration_ms": 253882,
-      "name": "Enemy",
-      "url": "https://open.spotify.com/track/05FUbCmZfAynRkcSkOizUX"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Submarine",
         "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
       },
@@ -1297,22 +1329,6 @@
       "url": "https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce"
     },
     {
-      "added_at": "2024-09-25 21:06:21",
-      "album": {
-        "name": "Two Star & The Dream Police",
-        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 174824,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/6TeJroHNM4rXP4GluTvKXV"
-    },
-    {
       "added_at": "2024-09-20 04:28:18",
       "album": {
         "name": "Bittersweet Notions",
@@ -1525,22 +1541,6 @@
       "url": "https://open.spotify.com/track/3BHymW78YPy7i2CWVljoe9"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Sad Boiii",
-        "url": "https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 166026,
-      "name": "Sad Boiii",
-      "url": "https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay"
-    },
-    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "I Don't Know Ya",
@@ -1667,22 +1667,6 @@
       "duration_ms": 169651,
       "name": "Let's Go Back",
       "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "to love me",
-        "url": "https://open.spotify.com/album/7B1eDWH2UGu7aTLeim9dlq"
-      },
-      "artists": [
-        {
-          "name": "Amy Allen",
-          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
-        }
-      ],
-      "duration_ms": 207866,
-      "name": "to love me",
-      "url": "https://open.spotify.com/track/36QORZpibXC1szSTXKPk7i"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1865,22 +1849,6 @@
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     },
     {
-      "added_at": "2024-08-13 16:27:15",
-      "album": {
-        "name": "Nightcall",
-        "url": "https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ"
-      },
-      "artists": [
-        {
-          "name": "Kavinsky",
-          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
-        }
-      ],
-      "duration_ms": 258413,
-      "name": "Nightcall",
-      "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j"
-    },
-    {
       "added_at": "2024-07-04 17:14:57",
       "album": {
         "name": "Summer Song",
@@ -1943,22 +1911,6 @@
       "duration_ms": 311500,
       "name": "Kid Muscle",
       "url": "https://open.spotify.com/track/7t0XbjgX6diwEjOHW2LxwC"
-    },
-    {
-      "added_at": "2024-07-25 01:53:10",
-      "album": {
-        "name": "Can't Be Replaced",
-        "url": "https://open.spotify.com/album/7xJIMVxZethRdgC4RR2XLV"
-      },
-      "artists": [
-        {
-          "name": "Faye Meana",
-          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
-        }
-      ],
-      "duration_ms": 219374,
-      "name": "Can't Be Replaced",
-      "url": "https://open.spotify.com/track/5CNIP9G7LJX4JeaVF1XxBd"
     },
     {
       "added_at": "2024-08-07 17:26:36",
@@ -2295,22 +2247,6 @@
       "duration_ms": 186666,
       "name": "Colors",
       "url": "https://open.spotify.com/track/49aBr2lBFh0LkR84IbsIQz"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Wella",
-        "url": "https://open.spotify.com/album/60xPwrb6N69CjjBPkiqQtF"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 169631,
-      "name": "Wella",
-      "url": "https://open.spotify.com/track/6RQcErRRynAvt37stMDWqD"
     },
     {
       "added_at": "2024-03-01 18:10:47",

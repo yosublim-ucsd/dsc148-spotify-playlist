@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "have you noticed? \ud83d\udeac\ud83e\udde1",
+  "description": "\ud83e\udea9\ud83e\udea9\ud83e\udea9\ud83e\udea9",
   "name": "ung, dum & lovende",
   "tracks": [
     {
@@ -82,6 +82,24 @@
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+    },
+    {
+      "album": {
+        "name": "Alt For L\u00e6ga",
+        "url": "https://open.spotify.com/album/4VeBRiPu1ThlmCPQ8lUJ16"
+      },
+      "artists": [
+        {
+          "name": "Golfklubb",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159236,
+      "name": "Alt For L\u00e6ga",
+      "url": "https://open.spotify.com/track/3zNpSGHrx6aVDFN3qnTqpx"
     },
     {
       "album": {
@@ -745,6 +763,32 @@
     },
     {
       "album": {
+        "name": "Hva Vil Du",
+        "url": "https://open.spotify.com/album/6ixMSXKsUgGFYyW1nYAaUS"
+      },
+      "artists": [
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        },
+        {
+          "name": "Greekazo",
+          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
+        },
+        {
+          "name": "Philippe",
+          "url": "https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121629,
+      "name": "Hva Vil Du",
+      "url": "https://open.spotify.com/track/31YHU4e3AaomzCYvuLHXom"
+    },
+    {
+      "album": {
         "name": "I Sent My Therapist To Therapy",
         "url": "https://open.spotify.com/album/23nGL24RjKEvIEbiY2DVob"
       },
@@ -858,7 +902,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 164246,
       "name": "Ingen andre (feat. Chris Holsten)",
       "url": "https://open.spotify.com/track/6a2kA9madk3baDAq7QmPdb"
@@ -1080,6 +1124,24 @@
       "duration_ms": 198068,
       "name": "Lies Lies Lies",
       "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
+    },
+    {
+      "album": {
+        "name": "Go Find Your Lover!",
+        "url": "https://open.spotify.com/album/1pcAjs1D1zNBfyd5GPVzGR"
+      },
+      "artists": [
+        {
+          "name": "Cupid Girl",
+          "url": "https://open.spotify.com/artist/1SfyDxRQj4ro8cluxkCaLq"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173210,
+      "name": "Like I Tried To Save You",
+      "url": "https://open.spotify.com/track/6fiYBguLSNJaEjiEaSDnvH"
     },
     {
       "album": {
@@ -1676,7 +1738,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 137559,
       "name": "S\u00f8lvskje",
       "url": "https://open.spotify.com/track/6XuknnhHp56njzcXXnHuJg"
@@ -1698,7 +1760,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 195929,
       "name": "S\u00f8tt&salt (feat. Peg Parnevik)",
       "url": "https://open.spotify.com/track/0x6GH84ivlsgENm1ALvyaE"

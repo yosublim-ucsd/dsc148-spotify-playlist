@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,255,180 likes - 230 songs - 11 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,255,245 likes - 230 songs - 11 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 229 | [Te Urewera](https://open.spotify.com/track/5phPjqe0T4phCAXczNnYgS) | [Jay Belshaw](https://open.spotify.com/artist/5g3sUkuQbNRfpCCKsmJGl0) | [Te Urewera](https://open.spotify.com/album/6tFLZ7gy4Hdn224gUYvkAy) | 3:04 |
 | 230 | [Lunar Waves](https://open.spotify.com/track/4V63oszHOnXfNM3ZHAmYqi) | [David Payne](https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0) | [Lunar Waves](https://open.spotify.com/album/2qvPTn1MjnyvdMChzShb0k) | 2:29 |
 
-Snapshot ID: `ZxJa6gAAAAA2N5Zyv4JhCqq17thRW2s3`
+Snapshot ID: `ZxJa6gAAAAANTSqoK9KqrtAJZqpjv402`

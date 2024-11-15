@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\. Photo: Jay Scøtt
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,770 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,782 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 74 | [Tout passe](https://open.spotify.com/track/3yniAyLXkezWkXNKP2lW4O) | [France D'Amour](https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI) | [Quatorze](https://open.spotify.com/album/3xyvKLl5f6FvmM3JjwOl4m) | 2:58 |
 | 75 | [Chasing Sunsets \(V.F\)](https://open.spotify.com/track/4XGom6Qy5JpWqsjALQMDve) | [Blue Ridge Band](https://open.spotify.com/artist/2yE8COtZJKf4SgSNz3wW6u) | [Chasing Sunsets \(V.F\)](https://open.spotify.com/album/44t8sMpi3uiGbK7E9z22tu) | 3:06 |
 
-Snapshot ID: `Zy2a0AAAAABsjICPJz117bOlEsevyFTE`
+Snapshot ID: `Zy2a0AAAAACNfM7irXA42MEkxoJyLFPO`

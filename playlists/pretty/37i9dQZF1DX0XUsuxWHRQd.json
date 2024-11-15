@@ -1,12 +1,12 @@
 {
   "description": "Music from Tyler, The Creator, Gunna and GloRilla.",
-  "num_followers": 16092694,
+  "num_followers": 16093206,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzDiEAAAAAAGhIiIvT7EFBnAeo7pUAnV",
+  "snapshot_id": "ZzWD0AAAAAD1mZgVde7LQqfWAmvuVS4a",
   "tracks": [
     {
       "added_at": "2024-11-10 16:40:48",
@@ -175,6 +175,26 @@
       "duration_ms": 199165,
       "name": "Or What",
       "url": "https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2"
+    },
+    {
+      "added_at": "2024-11-14 05:00:00",
+      "album": {
+        "name": "R&G (Rhythm & Gangsta): The Masterpiece",
+        "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 266066,
+      "name": "Drop It Like It's Hot",
+      "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
     },
     {
       "added_at": "2024-11-10 16:40:48",

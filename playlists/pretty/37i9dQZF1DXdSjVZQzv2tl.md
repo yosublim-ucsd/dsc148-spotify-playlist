@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Maiara & Maraísa
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,758,400 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,759,740 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Ativou a Saudade \- Ao Vivo](https://open.spotify.com/track/513hO8ivMCeHoV25e1ivOa) | [Rionegro & Solimões](https://open.spotify.com/artist/33NrinbbEctw1wsdKNgZeZ), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ativou a Saudade \(Ao Vivo\)](https://open.spotify.com/album/7Abtn5OTa0B4CsJP0EFlDw) | 2:53 |
 | 50 | [Gotejou No Celular \- Ao Vivo](https://open.spotify.com/track/1sTGINNEM4sT3H2hDdQiPe) | [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8), [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Gotejou No Celular \(Ao Vivo\)](https://open.spotify.com/album/1n4L1WBeL8o3NTArmtXGUr) | 2:56 |
 
-Snapshot ID: `ZzOHOQAAAAAs1coxHeX+XT6q8qIUISeq`
+Snapshot ID: `ZzOHOQAAAACFc3czN8oZ8qKgvP1qJFle`

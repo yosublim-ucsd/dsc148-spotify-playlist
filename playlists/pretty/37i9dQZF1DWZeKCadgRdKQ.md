@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient and post\-rock music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,600,504 likes - 157 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,601,740 likes - 157 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 156 | [save the date](https://open.spotify.com/track/0MeFxDLrLaw3n0sSjIXYvn) | [Shape Of Our Dreams](https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc) | [save the date](https://open.spotify.com/album/2obIyNPkzIdyVTTnndchxT) | 2:44 |
 | 157 | [Origins](https://open.spotify.com/track/0U5OKIZb2n35xNBmsxuSiH) | [Yavannah](https://open.spotify.com/artist/2i9RUDCIF8Aqr3sq19hTZI) | [Origins](https://open.spotify.com/album/5wdRzws51iFoyCB87klzVQ) | 3:30 |
 
-Snapshot ID: `ZytxmwAAAABHEfcikfAF+lKm7c/TEeM4`
+Snapshot ID: `ZytxmwAAAADqMcfxlIhD/QxluGP3IgGk`

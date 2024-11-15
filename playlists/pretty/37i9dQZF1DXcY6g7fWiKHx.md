@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,634 likes - 264 songs - 21 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,646 likes - 264 songs - 21 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -273,4 +273,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 263 | [No Boys Allowed \- OG House Mix](https://open.spotify.com/track/5ECEMutDIhmSKM6MkJuVc3) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Locomotiva Ibiza 2099 II](https://open.spotify.com/album/6nIry8iPceW6XDXT8UTSUm) | 5:52 |
 | 264 | [Birthday Club](https://open.spotify.com/track/0wfZuSr3J9mAaTKCj05ir1) | [Panthera Krause](https://open.spotify.com/artist/6vpvDZ1hqY1GUPUjvyiCjU) | [It's A Business Doing Pleasure With You](https://open.spotify.com/album/1HVcRSp1s3I9e0eJB3RI27) | 5:13 |
 
-Snapshot ID: `ZyiNEAAAAAC44zVw53ZkM0DHI3Ze0bWs`
+Snapshot ID: `ZyiNEAAAAAChYki6nTt8vUflphhaPicD`

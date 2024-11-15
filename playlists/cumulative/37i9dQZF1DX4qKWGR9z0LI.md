@@ -4,7 +4,7 @@
 
 > Lo último y lo mejor de la salsa\. Cover: Gilberto Santa Rosa
 
-286 songs - 20 hr 59 min
+287 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Amarte Hasta la Muerte](https://open.spotify.com/track/2thJdhgnelJ8yEQsHRbqmS) | [Jair Mendoza](https://open.spotify.com/artist/0xB8euVKujrw0bbj9MBgyr), [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [Amarte Hasta la Muerte](https://open.spotify.com/album/5giToj99boJgcQQKCY8JVI) | 3:57 | 2022-02-18 | 2022-05-29 |
 | [Aparentemente](https://open.spotify.com/track/5MhLjE5KvAfqFx8hxQi3eW) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf) | 7:29 | 2022-01-01 | 2022-06-24 |
 | [Aparentemente \- En Vivo](https://open.spotify.com/track/07gAN8AX9sxHolRg9MtFqW) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 7:29 | 2022-05-20 | 2024-04-19 |
-| [Aroma](https://open.spotify.com/track/5kS75vYtuoUbTNRnKU8wL2) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Yo](https://open.spotify.com/album/24QR1IzAVqsPFPeY9je0NY) | 3:24 | 2023-07-14 |  |
+| [Aroma](https://open.spotify.com/track/5kS75vYtuoUbTNRnKU8wL2) | [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [Yo](https://open.spotify.com/album/24QR1IzAVqsPFPeY9je0NY) | 3:24 | 2023-07-14 | 2024-11-15 |
 | [Arrebatao \(feat\. Eliot El Mago D Oz\) \- Salsa Remix](https://open.spotify.com/track/32LMurCUOhA6WKZoJ1sL3n) | [El Pepo Show](https://open.spotify.com/artist/12DrMYv3haAHRxjWzxVRFB), [Zepekeño El Lominero](https://open.spotify.com/artist/4IOdLkM2rliL56j0upeiFG), [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp), [Eliot El Mago D Oz](https://open.spotify.com/artist/7sLfBZWvYiIFjuTtRBLmIS) | [Arrebatao \(Salsa Remix\) \[feat\. Eliot El Mago D Oz\]](https://open.spotify.com/album/5I3AWkmLSMBKyJZpN577uI) | 2:24 | 2023-02-07 | 2023-03-04 |
 | [Así Es la Mujer](https://open.spotify.com/track/6Mo9TgSE7iKBNSoIdLaP40) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Historia De Un Sonero](https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4) | 5:09 | 2022-01-01 | 2022-07-25 |
 | [Así Es la Vida](https://open.spotify.com/track/72AMsl79P96E6rz36zQ7Rc) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Mis Favoritas](https://open.spotify.com/album/2egG2DlANQY3fxAI3gOaCZ) | 4:41 | 2022-01-01 | 2022-07-29 |
@@ -138,6 +138,7 @@
 | [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 | 2022-01-01 | 2022-07-16 |
 | [LA RONDA](https://open.spotify.com/track/6LsXU5cUoOqC2YnUCu7b5E) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:29 | 2023-12-01 |  |
 | [La Rumba Que Yo Te Traigo](https://open.spotify.com/track/1o2hixb9ZedXPpNANypMwd) | [Manyoma Brothers](https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3) | [La Rumba Que Yo Te Traigo](https://open.spotify.com/album/5xC1o0vtWDY1etRTSnTIia) | 3:14 | 2022-05-20 | 2022-05-29 |
+| [La Salsa No Engorda](https://open.spotify.com/track/746IWyI43tMSdJieEi0rKZ) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [La Salsa No Engorda](https://open.spotify.com/album/1OkJgk2s8lHaRKT4j4zQlb) | 2:40 | 2024-11-08 |  |
 | [La Salsa No Morirá](https://open.spotify.com/track/43OLMu6IYEpIpmHUUHw8MR) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw), [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [La Salsa No Morirá](https://open.spotify.com/album/7rRQGIEySk1jXhG4AeIopE) | 3:46 | 2024-07-26 |  |
 | [La Vamo a Tumbar](https://open.spotify.com/track/2PshFuRSc4uiKik36z3xDy) | [Grupo Saboreo](https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9) | [Exploring Latin Heritage, Vol.3](https://open.spotify.com/album/6mwGbnCkv1CfNJ5Y3e8Or6) | 5:35 | 2023-03-03 | 2024-04-19 |
 | [La Vamo a Tumbar](https://open.spotify.com/track/2XqkEVVCSNHV8IYbAXVaG4) | [Grupo Saboreo](https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9) | [Colombian Street Party](https://open.spotify.com/album/2Ff2R5yM4pblzzhyxnYpel) | 5:35 | 2022-01-01 | 2022-07-29 |

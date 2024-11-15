@@ -4,7 +4,7 @@
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-163 songs - 10 hr 32 min
+164 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Hark the Herald Angels Sing](https://open.spotify.com/track/4nas0awE85EWzlwwgb7Tw7) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [A Mary Mary Christmas](https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73) | 3:35 | 2021-12-15 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3KJLdBI3jRmVrS71p23RJC) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas With Brandy](https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk) | 3:32 | 2023-11-10 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/4F95vQhCC2bXJEo1Yb11TL) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Bethlehem](https://open.spotify.com/album/3T5pFreGo7XKhGJprOqtRU) | 3:59 | 2021-12-15 | 2022-07-29 |
+| [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/7sCq3Z3xqytO4aOdsjx16A) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/1y4RiFdd1TpCrWAx7dVkNd) | 2:31 | 2022-11-25 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1amnjEGpBPQIokjg3Np1kb) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [A Classic Christmas Night \- EP](https://open.spotify.com/album/0Bbyrq0VrznrBl9lGUVOvE) | 3:18 | 2021-12-15 | 2023-10-09 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5e0ZoBIiEcB883wyjRDD8g) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 5:18 | 2021-12-15 |  |
 | [Have Yourself a Merry Little Christmas \(feat\. Esperanza Spalding\)](https://open.spotify.com/track/0FuXrVBkBEn7WmPm8rT4GV) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 3:43 | 2021-12-15 | 2022-10-31 |
@@ -151,7 +152,7 @@
 | [This Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/1CalzG9Lg4X5Y1njQPeQf8) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5iWUd0pLqgRWZpMULl71TN) | 3:08 | 2021-12-15 | 2022-11-26 |
 | [This Day \(feat\. Kiana Ledé\) \- from the Netflix Original Motion Picture Jingle Jangle](https://open.spotify.com/track/1ub1mjaj5QG9fdaCIBSPsH) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [This Day \(feat\. Kiana Ledé\) \[from the Netflix Original Motion Picture Jingle Jangle\]](https://open.spotify.com/album/18Y2FVvp3r41QQ5asBYWzl) | 3:48 | 2021-12-15 | 2022-11-26 |
 | [This Holiday](https://open.spotify.com/track/3IFrqRG94j0CCZwGJgVQlx) | [WanMor](https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h) | [This Holiday](https://open.spotify.com/album/0PqbB0pvi22Y4I1P2ecr6z) | 2:56 | 2023-11-03 |  |
-| [To: You](https://open.spotify.com/track/49cvMCuOr2xeSG3SWLl43x) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [To: You \(a holiday joint\)](https://open.spotify.com/album/5PdpBmiQ5z0u706zZeQ3Df) | 3:12 | 2022-11-25 |  |
+| [To: You](https://open.spotify.com/track/49cvMCuOr2xeSG3SWLl43x) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [To: You \(a holiday joint\)](https://open.spotify.com/album/5PdpBmiQ5z0u706zZeQ3Df) | 3:12 | 2022-11-25 | 2024-11-15 |
 | [Try A Little Tenderness](https://open.spotify.com/track/34sxylPJvXX86OD4mtvGcl) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 6:13 | 2022-11-25 |  |
 | [Under the Mistletoe \(with Kendra Jae\)](https://open.spotify.com/track/6sMaVcsbSyWZWK0wFBzRRH) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 2:51 | 2022-11-25 |  |
 | [Very Merry Christmas](https://open.spotify.com/track/0Wigv8bZvAWXI9KnzMDbql) | [Phaedra](https://open.spotify.com/artist/7INtiKMHZb5e9tOpMj5vUS), [Teddy Riley](https://open.spotify.com/artist/5VDmBevaLkMLnK0rLOjijw), [J\-Sol](https://open.spotify.com/artist/0moTgm8lXIQpK1EXLSgJFR) | [Love at Christmas](https://open.spotify.com/album/2673S2JiNKmPHvbuct5oLs) | 4:31 | 2021-12-15 | 2022-11-26 |

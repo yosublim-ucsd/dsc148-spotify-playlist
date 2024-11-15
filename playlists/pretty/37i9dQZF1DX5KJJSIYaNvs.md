@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to women at full volume\. Cover \- Kanika Kapoor
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,751 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,761 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 11 | [Ami Je Tomar 3.0](https://open.spotify.com/track/4REtpfjRcdcC1uYfQrqfw7) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sameer Anjaan](https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Bhool Bhulaiyaa 3](https://open.spotify.com/album/2DNzidacofd4SvmOyj620R) | 5:15 |
 | 12 | [Pyaar Ho Gaya](https://open.spotify.com/track/7bL6G6qXHmlr4ge38YcuMX) | [Aishwarya Anand](https://open.spotify.com/artist/0TSQQywcuIDd2T7fQ0oJ0U), [Gourov Dasgupta](https://open.spotify.com/artist/3o3G8YHpQHYo70WtJ4Hg8W), [Rajesh Manthan](https://open.spotify.com/artist/0Mk4IEoAa8sHz3ktemQuno) | [Pyaar Ho Gaya](https://open.spotify.com/album/7DkQZjp1TQjfhI8ikMfz0C) | 2:31 |
 | 13 | [Nazar](https://open.spotify.com/track/6E7vS08PptIEpZW1PNeN01) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Nazar](https://open.spotify.com/album/6aqgxCtAd96JPvM4unprZz) | 2:25 |
-| 14 | [Move](https://open.spotify.com/track/2F9WI3m2EoNmc6fGoUseOd) | [Mansheel Gujral](https://open.spotify.com/artist/7zfceKY7I04Tc0J2o7043h), [Jeffrey Iqbal](https://open.spotify.com/artist/0QJN3RYr6xAyScRqhkephw) | [Move](https://open.spotify.com/album/6gP3oDaHkBemHv7340JvUA) | 2:55 |
+| 14 | [Move](https://open.spotify.com/track/2F9WI3m2EoNmc6fGoUseOd) | [Mansheel Gujral](https://open.spotify.com/artist/7zfceKY7I04Tc0J2o7043h), [Harshit Jain](https://open.spotify.com/artist/2AodR8abevN2PdYshu9oE1), [Jeffrey Iqbal](https://open.spotify.com/artist/0QJN3RYr6xAyScRqhkephw) | [Move](https://open.spotify.com/album/6gP3oDaHkBemHv7340JvUA) | 2:55 |
 | 15 | [Churaaiyaan \- From "Call Me Bae"](https://open.spotify.com/track/2PXTtT8rFOzODvpXwscGdJ) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8), [Mudit Chaturvedi](https://open.spotify.com/artist/6g7fXak9dPmoZnzbU3Hia9), [Suvarna Tiwari](https://open.spotify.com/artist/1Uy4rDTdXHBBSAjDTOKoRC) | [Call Me Bae \(Original Series Soundtrack\)](https://open.spotify.com/album/0lIHIDrZbRZK20gn5Cw3uL) | 3:48 |
 | 16 | [Thukraaya Kyun](https://open.spotify.com/track/7gwUQpTcZHmWItPqDraji0) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY) | [Thukraaya Kyun](https://open.spotify.com/album/1GNdYqeJ4d4IUcNVxgdDgJ) | 3:29 |
 | 17 | [Baat Itni Si](https://open.spotify.com/track/4ISPpMP57Se1MYcDobKNnF) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Baat Itni Si](https://open.spotify.com/album/2jMB523HNQd8eMeZsspmhY) | 5:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 49 | [Phir Aur Kya Chahiye \- Asees Version](https://open.spotify.com/track/7jETHbaPh8RFgScgbcrvJP) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Phir Aur Kya Chahiye \- Asees Version](https://open.spotify.com/album/05yKAO9uqdAuIPw0woHFsG) | 3:58 |
 | 50 | [Tu Kya Jaane \(From "Amar Singh Chamkila"\)](https://open.spotify.com/track/0d3AAUuuQ3Br9J1krTWJnd) | [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Tu Kya Jaane \(From "Amar Singh Chamkila"\)](https://open.spotify.com/album/5mSz0WBgCI7hnpRTGXGU2s) | 4:18 |
 
-Snapshot ID: `ZzQtUgAAAAALD1RIpizBPYvIe6Tb5I4B`
+Snapshot ID: `ZzQtUgAAAAC4CW5g3p/O/EEi6HhxDZTe`

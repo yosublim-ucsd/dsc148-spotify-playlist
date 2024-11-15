@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,104 likes - 216 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,233 likes - 216 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 215 | [Cold Air](https://open.spotify.com/track/01FewOTOeVj75RV6BYygod) | [Color of Time](https://open.spotify.com/artist/5GhEh1BgnOafsIAUgNtF02), [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV), [Tyresta](https://open.spotify.com/artist/0HgueusJAiyVI6iQPSFquL) | [Color of Time](https://open.spotify.com/album/7uEqAuTyaC02sBgYRQb8gI) | 2:52 |
 | 216 | [Autumn](https://open.spotify.com/track/6C0xrpCLSiAIm242vKE7HA) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [Minimal Sounds](https://open.spotify.com/album/7FtBKp3NQyxi3cUBi4BMC4) | 3:46 |
 
-Snapshot ID: `ZxJTKQAAAAAvGA35mxhE/0A+wwpgJX08`
+Snapshot ID: `ZxJTKQAAAAArBJREwnS3PdPbf/M4BZGi`

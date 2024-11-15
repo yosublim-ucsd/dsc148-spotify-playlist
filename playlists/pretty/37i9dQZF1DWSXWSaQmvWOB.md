@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Leon Bridges
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,359 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 774,409 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 99 | [Missing Me](https://open.spotify.com/track/0MVsZJICj2iMFCzDPWbjAk) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Missing Me](https://open.spotify.com/album/78A3guqOdVjh266qoxmcOT) | 3:00 |
 | 100 | [Where Is the Peace](https://open.spotify.com/track/1ACBSADdmaiAcvVB5Yzd2F) | [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Where Is the Peace](https://open.spotify.com/album/3Yv75Tv8dMqxt6uHWsXikC) | 3:36 |
 
-Snapshot ID: `ZzUvcAAAAAAaQOqi0uRUyBCKl4C6gTQm`
+Snapshot ID: `ZzUvcAAAAACqDlswGhcLY/IeK4MN1e/C`

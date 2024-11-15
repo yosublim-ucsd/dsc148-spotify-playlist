@@ -899,6 +899,24 @@
     },
     {
       "album": {
+        "name": "The Sabarmati Report (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7j3jVY48xjC1BneABfkVAf"
+      },
+      "artists": [
+        {
+          "name": "Arko",
+          "url": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Ik Baat Kahoon - From \"The Sabarmati Report\"",
+      "url": "https://open.spotify.com/track/1tG0yOgP9Cr52ZJZaWzWJM"
+    },
+    {
+      "album": {
         "name": "Mausam",
         "url": "https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP"
       },
@@ -2470,7 +2488,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 224457,
       "name": "Ranjha - Reprise",
       "url": "https://open.spotify.com/track/4tQeEHoii36QEGOEacAybz"
@@ -3373,6 +3391,28 @@
     },
     {
       "album": {
+        "name": "Tumhare Hi Rahenge Hum - Unplugged",
+        "url": "https://open.spotify.com/album/7ElxCKoUQWNuVxanJDgvpB"
+      },
+      "artists": [
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        },
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79198,
+      "name": "Tumhare Hi Rahenge Hum - Unplugged",
+      "url": "https://open.spotify.com/track/1BnXYmT4IC7sOxHWuhd4eR"
+    },
+    {
+      "album": {
         "name": "Savi",
         "url": "https://open.spotify.com/album/1y88LjCqrGBeuSEoExLUAX"
       },
@@ -3454,7 +3494,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 334500,
       "name": "Zaroorat Se Zyada - Female Version - From \"Vedaa\"",
       "url": "https://open.spotify.com/track/1UrVeNKlZD1Ib6v8rhEtEk"

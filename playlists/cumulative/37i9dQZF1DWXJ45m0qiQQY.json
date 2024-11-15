@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "empty hallways",
+        "url": "https://open.spotify.com/album/6LIFDs34NUyPMc0nwk00YD"
+      },
+      "artists": [
+        {
+          "name": "Almst",
+          "url": "https://open.spotify.com/artist/07qY3LqWnWfsCpyJtvWJ57"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142682,
+      "name": "empty hallways",
+      "url": "https://open.spotify.com/track/6dfbnOrZdeHszv3jSVHkq7"
+    },
+    {
+      "album": {
         "name": "Run!",
         "url": "https://open.spotify.com/album/57n59GNS2R6QEmeHigDap1"
       },
@@ -438,7 +456,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 108300,
       "name": "Ghost Sanctuary",
       "url": "https://open.spotify.com/track/18qoREx4xQReEaoFsELBpt"
@@ -584,6 +602,24 @@
       "duration_ms": 113108,
       "name": "Glowing Pumpkins",
       "url": "https://open.spotify.com/track/6vGenQAhPjefKWHZzTwch2"
+    },
+    {
+      "album": {
+        "name": "Gravewalker",
+        "url": "https://open.spotify.com/album/6wJDw7AADYtPQJ1hZKMhgf"
+      },
+      "artists": [
+        {
+          "name": "Corse Cane",
+          "url": "https://open.spotify.com/artist/1kAJeRSyH7gjg1HM2UW4oT"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139436,
+      "name": "Gravewalker",
+      "url": "https://open.spotify.com/track/7ACw3nP8TjrWGimJruyit7"
     },
     {
       "album": {
@@ -860,7 +896,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 111853,
       "name": "i see dead people",
       "url": "https://open.spotify.com/track/5jq3CU2rlykNX1ijVGQm7X"
@@ -1221,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "Sinister Look",
+        "url": "https://open.spotify.com/album/5CtoP0PUbj3XZrdd4pdzlo"
+      },
+      "artists": [
+        {
+          "name": "evelina mist",
+          "url": "https://open.spotify.com/artist/0AUIG5gLgUZhMGeCNBLfcr"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133600,
+      "name": "Sinister Look",
+      "url": "https://open.spotify.com/track/3VzSWtuD4E3jsTC5Gi9ZEs"
+    },
+    {
+      "album": {
         "name": "Skeleton Dance",
         "url": "https://open.spotify.com/album/1yI9tGQQVSFNETjeyewUbn"
       },
@@ -1458,6 +1512,24 @@
       "duration_ms": 113333,
       "name": "Trick or Treats",
       "url": "https://open.spotify.com/track/090ynlUUvHNeUFv1oOGwp3"
+    },
+    {
+      "album": {
+        "name": "Under the bed",
+        "url": "https://open.spotify.com/album/2RTe5Yn75l7oSymgxHHt8z"
+      },
+      "artists": [
+        {
+          "name": "cmd f",
+          "url": "https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146823,
+      "name": "Under the bed",
+      "url": "https://open.spotify.com/track/3m8djpTVksIn7BMBgN5R3U"
     },
     {
       "album": {

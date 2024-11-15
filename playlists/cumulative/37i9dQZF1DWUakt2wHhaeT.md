@@ -4,7 +4,7 @@
 
 > The best songs from the new shows and the buzziest hits\. Cover: Romeo + Juliet
 
-135 songs - 8 hr 25 min
+136 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [I Can Do Better Than That](https://open.spotify.com/track/5TypCJ3deIfYKD9S1YWElB) | [Betsy Wolfe](https://open.spotify.com/artist/2GpXUAHwbk1AO5h0kF4Ty1) | [The Last Five Years \(2013 Off\-Broadway Cast Recording\)](https://open.spotify.com/album/53PXrUEPZup4B2GaOwtEts) | 5:25 | 2021-12-14 | 2024-05-11 |
 | [I Can Hear the Bells](https://open.spotify.com/track/0sPvfw8oGQkFpaQvGe6G1F) | [Marissa Jaret Winokur](https://open.spotify.com/artist/4zdCODAJOsWFl6I9H7z1bX), [Hairspray Ensemble](https://open.spotify.com/artist/429JG9MlqrYJuazWbIN0ng), [Original Broadway Cast of Hairspray](https://open.spotify.com/artist/2fonmVretCT6oQ7woD6p4E) | [Hairspray \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3XPjEfpawBvohxBMDXwXXW) | 4:04 | 2021-12-14 | 2024-05-11 |
 | [I Can't Stand Still](https://open.spotify.com/track/3WC57WAZwoj56XYcCzliOC) | [Jeremy Kushnier](https://open.spotify.com/artist/2lIEXxk8hjg3RtNAk3W250) | [Footloose: The Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2ZeVcSvFqTunjpbIGFIjVh) | 2:10 | 2021-12-14 | 2024-05-11 |
+| [I Do](https://open.spotify.com/track/4hkPIQY5aulr2uH19cyVJl) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Jeevan Braich](https://open.spotify.com/artist/6LopWizUGU7UICdQ7MEkGr), [Kayna Montecillo](https://open.spotify.com/artist/2IHsK4JgDj7rDVHQkLQ4Kx) | [Starlight Express](https://open.spotify.com/album/4QUyvzfxm7Njf88dFYSrr9) | 4:17 | 2024-11-08 |  |
 | [I Just Can't Wait To Be King](https://open.spotify.com/track/2hmX7OquuyHXFphptTW68R) | [Scott Irby\-Ranniar](https://open.spotify.com/artist/1W90Na0WyqYkbQkKiBvrPV), [Ensemble \- The Lion King](https://open.spotify.com/artist/0s0Hfb6ckk9qTjDeUOZXJp), [Geoff Hoyle](https://open.spotify.com/artist/1amAcZpoesNgBsGypTU6qs), [Kajuana Shuford](https://open.spotify.com/artist/19lzhCGyMdYlxjtCwHi1Ee) | [The Lion King: Original Broadway Cast Recording](https://open.spotify.com/album/1y6p6tINBthUWsQVQJmiYK) | 3:02 | 2021-12-14 | 2024-05-11 |
 | [I Know It's Today](https://open.spotify.com/track/6zEEGZVvTnbyPtaovocFwy) | [Leah Greenhaus](https://open.spotify.com/artist/1A2zTDBNQAtGRaHX9lISZ5), [Marissa O'Donnell](https://open.spotify.com/artist/7uKEMkjW2Y8VCqE8c29ARz), [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G) | [Shrek The Musical](https://open.spotify.com/album/5VeD79fcAGrvxWTwiWSVfh) | 5:18 | 2021-12-14 | 2024-05-11 |
 | [I Miss the Mountains](https://open.spotify.com/track/1R8tYJptEJYgHtX7zlysN1) | [Alice Ripley](https://open.spotify.com/artist/7KLUKenP88WNsnb7MKa70M) | [Next To Normal \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0HLCM1PkLwDz5NLr5Kl4a4) | 3:46 | 2021-12-14 | 2024-05-11 |

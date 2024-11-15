@@ -1,12 +1,12 @@
 {
   "description": "This is Santa Fe Klan. The essential tracks, all in one playlist.",
-  "num_followers": 556625,
+  "num_followers": 556696,
   "original_name": "This Is Santa Fe Klan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzKagAAAAAA9pRg3FCTvG5do/BZhM62S",
+  "snapshot_id": "ZzPsAAAAAABoTLXLrPcuQGs40xoHDY79",
   "tracks": [
     {
       "added_at": null,
@@ -1022,11 +1022,15 @@
         {
           "name": "Santa Fe Klan",
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
-      "duration_ms": 199397,
-      "name": "K.A.R.M.A.",
-      "url": "https://open.spotify.com/track/7c0IyStm73PMyup1OQGEMy"
+      "duration_ms": 224000,
+      "name": "SE\u00d1ORA",
+      "url": "https://open.spotify.com/track/3fdNWxt28fmjxYuGnYn6ME"
     },
     {
       "added_at": null,
@@ -1106,15 +1110,11 @@
         {
           "name": "Santa Fe Klan",
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
-      "duration_ms": 224000,
-      "name": "SE\u00d1ORA",
-      "url": "https://open.spotify.com/track/3fdNWxt28fmjxYuGnYn6ME"
+      "duration_ms": 199397,
+      "name": "K.A.R.M.A.",
+      "url": "https://open.spotify.com/track/7c0IyStm73PMyup1OQGEMy"
     },
     {
       "added_at": null,
@@ -1219,18 +1219,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "JEFA",
-        "url": "https://open.spotify.com/album/2zvYaINxNZhmYFEbThH1hg"
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/1LeAb5GZflp1DqblYgrXFT"
       },
       "artists": [
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        },
         {
           "name": "Santa Fe Klan",
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 254117,
-      "name": "JEFA",
-      "url": "https://open.spotify.com/track/5xYYC5YUeghCAErY0tbgTf"
+      "duration_ms": 198620,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/3wCNtOcpj4spnlKlenpDZ2"
     }
   ],
   "unique_name": "This Is Santa Fe Klan",

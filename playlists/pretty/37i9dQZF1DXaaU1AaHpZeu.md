@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina, con Ed Maverick \(y su álbum entregado en un sólo track!\) en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,102 likes - 49 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,107 likes - 49 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 48 | [Gallo Negro](https://open.spotify.com/track/4DZ2ujAbTdycgmrJUO61Zs) | [Villanueva](https://open.spotify.com/artist/4qZ11Ptpqf6E77yYRT2qOq) | [Gallo Negro](https://open.spotify.com/album/1AU51uKNMoa0OTsUIcCxKn) | 3:11 |
 | 49 | [Hollow](https://open.spotify.com/track/55VBy6cXzAnzb5Hdcl2YWA) | [Maria Usbeck](https://open.spotify.com/artist/16pdeeyke2dzEJXSj0MPft) | [Hollow](https://open.spotify.com/album/6GQZ3Pv8Onq5pVWWLQYS0i) | 4:52 |
 
-Snapshot ID: `Zy4mogAAAAAc0P4cifr6XtfDcx3oBuv6`
+Snapshot ID: `Zy4mogAAAABaU66O9TkaWdA9kZexhtSy`

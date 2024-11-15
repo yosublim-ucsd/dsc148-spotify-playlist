@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Souldia
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,268 likes - 74 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,275 likes - 74 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 73 | [On va blow up](https://open.spotify.com/track/0s0BYBZMmsGqLojBNQopsI) | [Lanuit](https://open.spotify.com/artist/0Cwq8OSwWcEHfMlMTW0EJG), [D\-track](https://open.spotify.com/artist/4l54qFvTRzDW7zixG6k42z) | [On va blow up](https://open.spotify.com/album/5Owing5I1VQkPKtWfhgAwZ) | 2:36 |
 | 74 | [Gâchis](https://open.spotify.com/track/1IJ7Hr9WZdMDVuscN0guwi) | [Soraï](https://open.spotify.com/artist/38SOUOhlDoh1y9dHlGDbTL) | [Synesthésies](https://open.spotify.com/album/7kRHE7Xjb7sxShWTWC4uf9) | 2:32 |
 
-Snapshot ID: `Zy2a0AAAAAAktqkTdyl5JghDVOm+C5CV`
+Snapshot ID: `Zy2a0AAAAAAjKXk8/ffz7s0Z8N0k0Dh8`

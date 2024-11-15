@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: Fievel Is Glauque
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,735 likes - 110 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,946 likes - 110 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 109 | [Some Of Us Are Brave \(Georgia Anne Muldrow's Geemix\)](https://open.spotify.com/track/0kVJEG5pdADLbeyEabOyYi) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ), [Georgia Anne Muldrow](https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31) | [Some Of Us Are Brave \(Deluxe\)](https://open.spotify.com/album/5YZgQjRn0dTBZDKBFhokgA) | 2:53 |
 | 110 | [Time Out](https://open.spotify.com/track/3EyKj3YyiJoyb4rnYfSfcD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [PANIC](https://open.spotify.com/album/3kuA7IDrIq2FqIJXDoFeSZ) | 3:41 |
 
-Snapshot ID: `ZxsXwAAAAAA0d0Qmv/BM+/ZOBMHI4G4w`
+Snapshot ID: `ZxsXwAAAAABEQn2PZnjgVF+B5DMCQqgK`

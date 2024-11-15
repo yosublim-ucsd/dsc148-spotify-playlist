@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZP5oobcNgA.md) - [plain]
 
 > Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,105 likes - 61 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,138 likes - 61 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZP5oobcNgA.md) - [plain]
 | 60 | [Giulio Cesare / Act 2: "V'adoro, pupille"](https://open.spotify.com/track/35w4JniG0eqFchonJycQ39) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Renée Fleming](https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8), [Orchestra of the Age of Enlightenment](https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB), [Harry Bicket](https://open.spotify.com/artist/634i1ptyc5dA18xYg9hHL9) | [Renée Fleming \- Handel Arias](https://open.spotify.com/album/2Jn5XTpSMBwnzF4Wn3A3SY) | 4:52 |
 | 61 | [Rodelinda / Act 3: Vivi, tiranno, io t'ho scampato](https://open.spotify.com/track/7cTmdaL6cGWzHk1GVy7L4Y) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Marijana Mijanovic](https://open.spotify.com/artist/1vLaIsYTkk542cZ0ZUEnH7), [Il Complesso Barocco](https://open.spotify.com/artist/0tEcOib2nBnCi6OM5jgC87), [Alan Curtis](https://open.spotify.com/artist/5Y7iJYhrTiihtH6hmph8fR) | [Handel: Rodelinda](https://open.spotify.com/album/4XMKStre7PB6P9EvrzVJLI) | 5:24 |
 
-Snapshot ID: `ZIxXQgAAAAB3B31QWG4p111m/pBaAGhe`
+Snapshot ID: `ZIxXQgAAAABocNxDN93y41T27yfEFozP`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 
 > Indigenous Australian Storytellers\. Curator: Rhianna Patrick\. <br/>Aboriginal and Torres Strait Islander listeners are advised that the following playlist may contain voices and images of people who have passed away\. Cover: Jada Weazel
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,834 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,836 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 | 49 | [Bloodshed \- Radio Edit](https://open.spotify.com/track/0TWW1JzXgiomzCSeXgPd2j) | [Jamiesha](https://open.spotify.com/artist/5OZCyyK8Hu6UOOu3ZFC9Kj) | [Bloodshed \(Radio Edit\)](https://open.spotify.com/album/0qoTBJ5WZkBkzKCiVXWH5K) | 3:34 |
 | 50 | [KING](https://open.spotify.com/track/1EJZHdYWwlZvbe3CwScZIQ) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK) | [KING](https://open.spotify.com/album/5w5i4W7IDdDA4fvPTDjEyV) | 2:53 |
 
-Snapshot ID: `Zv5ouAAAAADXEgBEzhigtW6Kwziu0Q+y`
+Snapshot ID: `Zv5ouAAAAABqiETvm2QHGHmgEmBp2OMX`

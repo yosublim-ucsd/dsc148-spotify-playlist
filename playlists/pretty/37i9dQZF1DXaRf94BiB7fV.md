@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: Outsky, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,239 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,258 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Behne Do](https://open.spotify.com/track/5TwYWjL6aHrpBgLEI1YkBk) | [Sanjana Devarajan](https://open.spotify.com/artist/3kWyp6jo8u9mSrg4q5dxRr) | [Behne Do](https://open.spotify.com/album/4rcZks1ed9aG4Ab8PA3l0B) | 3:00 |
 | 100 | [Kabhi Kabhi](https://open.spotify.com/track/6mh140yXGpf0ABlVna1out) | [Pho](https://open.spotify.com/artist/3QXoQ4PbVx1LgzFFVOnvbu), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Kabhi Kabhi](https://open.spotify.com/album/2LLfecd85UR1XtvIm1o7vc) | 3:18 |
 
-Snapshot ID: `ZzR7sQAAAAD591sZdukxF1nMPiJQeNSn`
+Snapshot ID: `ZzR7sQAAAACxELPncDv/ZMtB+jf4mih5`

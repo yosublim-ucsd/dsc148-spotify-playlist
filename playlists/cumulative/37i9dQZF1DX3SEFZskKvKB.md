@@ -4,10 +4,11 @@
 
 > Ambient and percussion to move the body and heal the soul.
 
-146 songs - 8 hr 0 min
+147 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [936 Hz \- Solfeggio For Clarity \(Dream House\)](https://open.spotify.com/track/0VxNsjxLl7NbQ8XLO8IrOT) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [936 Hz \- Solfeggio For Clarity \(Dream House\)](https://open.spotify.com/album/7FceTVx3596dgOCVP1WKuS) | 1:54 | 2024-11-14 |  |
 | [A Flute of Brass](https://open.spotify.com/track/75kHcUvAMwFtpOEnnZCuWJ) | [Star Lions](https://open.spotify.com/artist/3oyABNjDzJ2BL5tshlzpf0) | [A Flute of Brass](https://open.spotify.com/album/1EswLuSIJhZD8tdZdQwftw) | 3:36 | 2022-09-13 |  |
 | [A Peaceful Discovery](https://open.spotify.com/track/6DwsfsHcR0WCdfXvNNR73H) | [Gadaragh](https://open.spotify.com/artist/2htCgKICdd3y3WpVjh5hyR) | [A Peaceful Discovery](https://open.spotify.com/album/7HGUGkjlxkzckpNwqPzFid) | 2:27 | 2022-05-26 |  |
 | [African Drums](https://open.spotify.com/track/7doTlELThWgVXRy97siLVn) | [Deep Massage Tribe](https://open.spotify.com/artist/1yRoPKZb7xwcVdDLPMfaTd) | [Energetic Massage to the Sounds of Drums, Deep and Healing Massage](https://open.spotify.com/album/71JWjUnNTXbUf5PATt7JtO) | 3:41 | 2022-05-26 |  |
@@ -90,7 +91,7 @@
 | [Meditation Hang](https://open.spotify.com/track/271abQ3QNCSWfqZqHva4zL) | [Ebenholthz](https://open.spotify.com/artist/638ZZLvfjyR45K1N6yD5Ip) | [Meditation Hang](https://open.spotify.com/album/7eHNKcRzBykX6q5Xyf9U5N) | 2:58 | 2022-05-26 | 2023-08-19 |
 | [Mile High](https://open.spotify.com/track/0uy0kSHBpBjkwR29GmCbV7) | [Meh Met](https://open.spotify.com/artist/215AS9kH8CZt63FZwq8hln) | [Halluu Duu](https://open.spotify.com/album/3eyPI3n8QHBAgsPsN90fT3) | 2:29 | 2023-04-28 |  |
 | [Morning flow](https://open.spotify.com/track/5abLxfl7Yrfv3RnKx0zf0g) | [Tin Shui](https://open.spotify.com/artist/5hSVBR00vPBcQuAfvY1sZs) | [Morning flow](https://open.spotify.com/album/2yddrC2yfvY7AcD9gtsqHu) | 2:29 | 2024-06-11 |  |
-| [Morning Love](https://open.spotify.com/track/4R83pqkJdJjWTeNRZ7tatQ) | [Tantra Healing Paradise](https://open.spotify.com/artist/18AjIEO4HRSbvIsseptkUo) | [African Tantra \- Love Rituals, Ethnic Chants for Fertility, Exotic Healing, Erotic Tribal Drums](https://open.spotify.com/album/1JWVLkcogCHiLyiTXztqIx) | 3:31 | 2022-05-26 |  |
+| [Morning Love](https://open.spotify.com/track/4R83pqkJdJjWTeNRZ7tatQ) | [Tantra Healing Paradise](https://open.spotify.com/artist/18AjIEO4HRSbvIsseptkUo) | [African Tantra \- Love Rituals, Ethnic Chants for Fertility, Exotic Healing, Erotic Tribal Drums](https://open.spotify.com/album/1JWVLkcogCHiLyiTXztqIx) | 3:31 | 2022-05-26 | 2024-11-15 |
 | [Muon](https://open.spotify.com/track/32ixWlZj670PuS7R4YhNEa) | [Lonely Roads](https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5) | [Muon](https://open.spotify.com/album/5Lp42dVspU4w75MdHR9dF5) | 2:40 | 2022-05-26 |  |
 | [Nuptse Deep Trance](https://open.spotify.com/track/0tGdkHSQ1BlXrGhsP4YrEi) | [Sharp Sherpas](https://open.spotify.com/artist/5r9svDa5Rt0haSeGAuwSbJ) | [Himalayan Beat Meditation](https://open.spotify.com/album/4XtmTuLPZAgLrnnN3Dr8wS) | 2:02 | 2022-05-26 |  |
 | [Ocean](https://open.spotify.com/track/7sxjVl3UEVtdahOAtDDzTB) | [ZoneMan](https://open.spotify.com/artist/4mzinlkJyhkA2mAmZlZ07E) | [Ocean](https://open.spotify.com/album/0BeA6VrvtxXYhAzoPBMcll) | 2:02 | 2023-05-26 |  |

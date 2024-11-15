@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Andy C, Becky Hill
+> The UK's biggest dance playlist! Cover: Sammy Virji
 
 631 songs - 1 day 8 hr 59 min
 

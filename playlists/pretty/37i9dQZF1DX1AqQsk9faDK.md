@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 
 > Mensagens de Fé por Padre Marcelo Rossi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,430 likes - 30 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,423 likes - 30 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 | 29 | [Queima de Novo](https://open.spotify.com/track/7EN0G28C18dLHEcUAHcn7n) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Fogo Santo](https://open.spotify.com/album/42E0wqjdjlyBcwsvcJHKgt) | 6:16 |
 | 30 | [Senhor,Que Vieste Salvar...](https://open.spotify.com/track/6Wcy2EJLrCM8zE32kBmliF) | [Padre Zeca](https://open.spotify.com/artist/5dVYfMmLcYaPlb6zlejjLp) | [Dez E Deus](https://open.spotify.com/album/39zG4tao57xA43AKMh1Tt1) | 2:25 |
 
-Snapshot ID: `Zwk2XwAAAADNkunkW2sd8xiUD22YpO0K`
+Snapshot ID: `Zwk2XwAAAADraZ6ZuXUMj6YWC9S6Yc+5`

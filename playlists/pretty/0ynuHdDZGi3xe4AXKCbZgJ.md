@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ynuHdDZGi3xe4AXKCbZgJ.md) - [plain]
 
 > Fugitive flavored trauma
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 15 songs - 55 min 14 sec
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 16 songs - 57 min 25 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,5 +23,6 @@ pretty - [cumulative](/playlists/cumulative/0ynuHdDZGi3xe4AXKCbZgJ.md) - [plain]
 | 13 | [There Is a Light That Never Goes Out \- 2017 Master](https://open.spotify.com/track/3mkS1alZdcdBQuIMad8aee) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead \(Deluxe Edition\)](https://open.spotify.com/album/0vlgxCvO6LQXTR06b8r2rj) | 4:02 |
 | 14 | [Mama](https://open.spotify.com/track/0Zh3tKIphLOvQux4dA6PFZ) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 4:39 |
 | 15 | [Cao Dai Blowout](https://open.spotify.com/track/0EQ7zZroo7GOnHyMYafHFi) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [New Asian Cinema](https://open.spotify.com/album/6eYdoKO1PHJfl7yaD9JO6A) | 2:08 |
+| 16 | [I Know You've Come To Take My Toys Away](https://open.spotify.com/track/3rxEmM5drvb2v6SWGN5eTr) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Nine Black Poppies](https://open.spotify.com/album/6M04qhJl6Fx1Vn3QIHbm1A) | 2:10 |
 
-Snapshot ID: `AAAAEqx1EYvZxEhFTqryu/zwUVEMoXzp`
+Snapshot ID: `AAAAE4qUrIhDog1/t3NBHEJxWI9jw2XI`

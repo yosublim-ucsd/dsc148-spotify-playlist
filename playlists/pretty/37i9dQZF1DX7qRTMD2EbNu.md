@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Skyface SDW
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,351 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,358 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [Only You](https://open.spotify.com/track/75z4tYzgDaisr9rc03cavg) | [Chicogod](https://open.spotify.com/artist/1uNsXjSgAHP9q7oWBKJa1E), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Only You](https://open.spotify.com/album/6cKH0RbIFH9YOfKaGBZfDB) | 3:39 |
 | 80 | [Flow Proper](https://open.spotify.com/track/3aXdWV0LWeVlG6rvn0tsMu) | [Avit](https://open.spotify.com/artist/1pWNPxR4s1pbNP9bouFeqO) | [Flow Proper](https://open.spotify.com/album/2cD12BFj5Mw3gpK9cjQICu) | 3:10 |
 
-Snapshot ID: `Zy1UvAAAAACIiarh9AR8sPAQg1M6p1qj`
+Snapshot ID: `Zy1UvAAAAADDTe0ZABBwPec9KL7+FrAB`

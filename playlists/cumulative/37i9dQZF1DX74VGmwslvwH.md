@@ -4,7 +4,7 @@
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-170 songs - 11 hr 12 min
+172 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Happiness \(with drums\)](https://open.spotify.com/track/5uO4ehg7RkW0GNZWVkIuik) | [Nambara Nim](https://open.spotify.com/artist/3At7zeaoPY1lvcdRNioifv) | [Happiness](https://open.spotify.com/album/4yfV7rBQ4zDMOV5cOh9PBd) | 3:20 | 2023-02-10 | 2024-08-31 |
 | [Harmonious](https://open.spotify.com/track/1w83dXv1Q6za9P3oh8bujC) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Harmonious](https://open.spotify.com/album/6CkC2eoJZLZr73f2LVreEx) | 6:44 | 2023-02-10 |  |
 | [Healing Forest](https://open.spotify.com/track/3IHG0LxWiwcRQRDJZBYmPB) | [Percussion As Medicine](https://open.spotify.com/artist/3FRJVDCXmMrOEnjzr24ful) | [Healing Forest](https://open.spotify.com/album/6f6O581b2i2giL3jRJ8sVb) | 3:08 | 2023-03-07 |  |
+| [Healing Garden](https://open.spotify.com/track/6x7xECuEr6vwoNf3j7wb1z) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Healing Garden](https://open.spotify.com/album/5SpMwisr4L8bZYSrlPD32X) | 4:32 | 2024-11-14 |  |
 | [Healing State \(528 Hz\)](https://open.spotify.com/track/1sW6M4j9gYX3OaJQFPVtIA) | [Modern Headspace](https://open.spotify.com/artist/1R9pWwzgOIsl5XMI4WCBRH) | [Healing State \(528 Hz\)](https://open.spotify.com/album/0cOMbJ1RBe4rhgwFkxnnDt) | 5:07 | 2022-05-13 | 2024-03-09 |
 | [Healing Water](https://open.spotify.com/track/61AViX47CvGaOYvZ7qneDi) | [Bahn Kramina](https://open.spotify.com/artist/3fBzknNOKdMhLJ0oSuYMqA) | [Healing Water](https://open.spotify.com/album/3yXp26mMmx5RVPHgGtZTsG) | 3:06 | 2022-09-30 | 2024-08-31 |
 | [Himalaya](https://open.spotify.com/track/5bx1gFT0aKeBgKnDSEzvwo) | [AG Sintonia Project](https://open.spotify.com/artist/1us57VQ78Hp3nvNoPyozqF) | [Himalaya](https://open.spotify.com/album/7aL5MzV1V51hQ7lNdNBRXj) | 3:34 | 2022-08-10 |  |
@@ -118,6 +119,7 @@
 | [Raga Bhoopali](https://open.spotify.com/track/2FvS3T9QA1K7RibQDrTYqc) | [Sangit Om](https://open.spotify.com/artist/51OgTOMeriyJbz07cpve3u) | [The Spirit of Yoga](https://open.spotify.com/album/3twYsK4gKVEaBVOUUdeT88) | 3:52 | 2022-05-13 | 2024-03-27 |
 | [Raga Hemant \- Alap](https://open.spotify.com/track/6imQ2eamWdJ6vFTIoQZGD2) | [Bidyut Khan Band](https://open.spotify.com/artist/1gOYLPSgVPPiSIsaBHh5Xd), [Lucyan](https://open.spotify.com/artist/00iiLc3ejnD5C6rjCjWned) | [Ragas: Classical Indian music for sarod, sitar and tabla](https://open.spotify.com/album/08CSfF5H2SWzz5KKX5tngY) | 7:30 | 2022-05-13 | 2022-12-17 |
 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 | 2022-05-13 | 2024-03-27 |
+| [Rare Astra](https://open.spotify.com/track/5JqwjWauNVttvtXHDLn7E3) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Rare Astra](https://open.spotify.com/album/1XdZM894doi2XbdZsVCZZL) | 2:34 | 2024-11-14 |  |
 | [Resilience](https://open.spotify.com/track/7ad0Y8DIZtWtZCvHefq3xg) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Resilience](https://open.spotify.com/album/3nHcATi2dBX2I0IWwvxWMj) | 4:13 | 2022-05-13 | 2024-03-27 |
 | [Restful Dream](https://open.spotify.com/track/57wGsyF2YSyRkHZrksQXrB) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Restful Dream](https://open.spotify.com/album/6wZFjc47KdhamOOPBMrSHL) | 6:06 | 2022-09-06 |  |
 | [River](https://open.spotify.com/track/5noFpnVfIGs7nLUkfNuEFu) | [Darma Waters](https://open.spotify.com/artist/4nN4oxcvDaWafW2VAmvf7Y) | [River](https://open.spotify.com/album/4Bn5tjd6zeja3ggftvOcf8) | 2:53 | 2022-05-13 |  |

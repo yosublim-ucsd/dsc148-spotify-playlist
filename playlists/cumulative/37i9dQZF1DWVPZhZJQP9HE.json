@@ -9755,6 +9755,32 @@
     },
     {
       "album": {
+        "name": "Rhythm Of Coimbatore",
+        "url": "https://open.spotify.com/album/26WjyicgKcfLi8AUgbQuJZ"
+      },
+      "artists": [
+        {
+          "name": "V2 Vijay Vicky",
+          "url": "https://open.spotify.com/artist/7zyTYIiNKFMRW0NlZZAeBF"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Ramesh Venkat",
+          "url": "https://open.spotify.com/artist/7CNjcqN8pnHO6SjVBwtn4k"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235395,
+      "name": "Rhythm Of Coimbatore",
+      "url": "https://open.spotify.com/track/4x4GF8K6T4rYRHVGK2TRln"
+    },
+    {
+      "album": {
         "name": "Rider Fighter",
         "url": "https://open.spotify.com/album/5qikTzQxzJT79i2Ng3yhbI"
       },

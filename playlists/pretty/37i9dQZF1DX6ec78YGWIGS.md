@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Emilia
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,022 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,093 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 99 | [pulso](https://open.spotify.com/track/2tfJVQbAo4tVrF2KkgzqsW) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [pulso](https://open.spotify.com/album/1FaeR19KFxfVOnlOiGG6E1) | 2:28 |
 | 100 | [tenerte otra vez](https://open.spotify.com/track/2qp42faU1rEKhsbTxn82aL) | [Ambik](https://open.spotify.com/artist/4QIM495B5wWD9B24Fsi4aR) | [origen](https://open.spotify.com/album/1ANcYaz96YLqD2IPZjQ7Pe) | 2:54 |
 
-Snapshot ID: `Zy0cQQAAAACRccawgiG1cK9LXe2ZHCBE`
+Snapshot ID: `Zy0cQQAAAAC0ZJiZIEGvClsXC1tvETV7`

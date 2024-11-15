@@ -396,7 +396,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 188806,
       "name": "Green",
       "url": "https://open.spotify.com/track/7kPHa9XgJ7AR8zD4bloBQU"
@@ -854,7 +854,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 266000,
       "name": "\u05d0\u05d3\u05dd \u05dc\u05dc\u05d0 \u05d0\u05d3\u05dd",
       "url": "https://open.spotify.com/track/2p3MxQx5jEMJ97itxrd7tp"
@@ -966,7 +966,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 245600,
       "name": "\u05d1\u05d9\u05e7\u05d5\u05e8 \u05de\u05d5\u05dc\u05d3\u05ea",
       "url": "https://open.spotify.com/track/4rT56VSPuaAJMbK73oHxzy"
@@ -1198,6 +1198,28 @@
       "duration_ms": 183142,
       "name": "\u05d4\u05d9\u05d0 \u05ea\u05de\u05e9\u05d9\u05da \u05d2\u05dd \u05d1\u05dc\u05e2\u05d3\u05d9\u05da",
       "url": "https://open.spotify.com/track/63MZV8fBPGsf7ub7ZadhpX"
+    },
+    {
+      "album": {
+        "name": "\u05d4\u05d9\u05d5\u05dd \u05e9\u05d0\u05d7\u05e8\u05d9 \u05de\u05d7\u05e8",
+        "url": "https://open.spotify.com/album/4Ypg8xywp1ct6Fb36abZGm"
+      },
+      "artists": [
+        {
+          "name": "Ziv Shachar",
+          "url": "https://open.spotify.com/artist/3iXZqQqLD0RZpOu6qHj6AX"
+        },
+        {
+          "name": "Shazamat",
+          "url": "https://open.spotify.com/artist/0uo5SLiIan9YDCQWy20wyV"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199615,
+      "name": "\u05d4\u05d9\u05d5\u05dd \u05e9\u05d0\u05d7\u05e8\u05d9 \u05de\u05d7\u05e8",
+      "url": "https://open.spotify.com/track/2QdmP4yEgD0uwb1kSSPjb1"
     },
     {
       "album": {
@@ -1525,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "\u05d9\u05e0\u05d9\u05d1",
+        "url": "https://open.spotify.com/album/0ARNB2ea95YtPyljVOzh7Y"
+      },
+      "artists": [
+        {
+          "name": "Tomer Yeshayahu",
+          "url": "https://open.spotify.com/artist/3R34esIv5e5MxzuuCMde0Q"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238867,
+      "name": "\u05d9\u05e0\u05d9\u05d1",
+      "url": "https://open.spotify.com/track/17x2UNi0ffC16WCvfw6Ysc"
+    },
+    {
+      "album": {
         "name": "\u05db\u05d9\u05e1\u05d5\u05e4\u05d9\u05dd (\u05e9\u05d9\u05e8 \u05d4\u05e0\u05d5\u05e9\u05d0 \u05de\u05ea\u05d5\u05da \u05d4\u05e1\u05e8\u05d8)",
         "url": "https://open.spotify.com/album/03bftBUfd3xjJSIJ9tlMaR"
       },
@@ -1790,7 +1830,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 220360,
       "name": "\u05dc\u05d4\u05d9\u05d5\u05ea \u05dc\u05d1\u05d3 - \u05d1\u05d0\u05e8\u05d1\u05d9 Live",
       "url": "https://open.spotify.com/track/4IUuctG736RauTKMbWCP3T"
@@ -2265,6 +2305,28 @@
     },
     {
       "album": {
+        "name": "\u05e4\u05d0\u05e1\u05d5\u05df",
+        "url": "https://open.spotify.com/album/0ymPFQmwvWlwOTHJT2NGqP"
+      },
+      "artists": [
+        {
+          "name": "Shir Hadas Meir",
+          "url": "https://open.spotify.com/artist/5mJI5zeyvCvk0h2OysNRAn"
+        },
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209651,
+      "name": "\u05e4\u05d0\u05e1\u05d5\u05df",
+      "url": "https://open.spotify.com/track/4eF5QnWZXHLhimV1qlidV8"
+    },
+    {
+      "album": {
         "name": "\u05e4\u05e6\u05e2 \u05e2\u05dc \u05e4\u05e6\u05e2",
         "url": "https://open.spotify.com/album/0Vrm96p9OoFluFInH3eFsx"
       },
@@ -2309,6 +2371,24 @@
     },
     {
       "album": {
+        "name": "\u05e7\u05d4\u05dc\u05ea \u05e4\u05e8\u05e7 \u05d8\u05f3",
+        "url": "https://open.spotify.com/album/13Gu91gVZ6j4llq2Fi6M4B"
+      },
+      "artists": [
+        {
+          "name": "Yehudit Ravitz",
+          "url": "https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188485,
+      "name": "\u05e7\u05d4\u05dc\u05ea \u05e4\u05e8\u05e7 \u05d8\u05f3",
+      "url": "https://open.spotify.com/track/0v8xvuvOzRC5Y6S351PLLN"
+    },
+    {
+      "album": {
         "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
         "url": "https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM"
       },
@@ -2332,7 +2412,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 190259,
       "name": "\u05e9\u05d5\u05d1 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05dc\u05d9\u05e9\u05d5\u05df",
       "url": "https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw"
@@ -2402,6 +2482,24 @@
       "duration_ms": 195494,
       "name": "\u05e9\u05d9\u05e8 \u05d0\u05d4\u05d1\u05d4 \u05d0\u05d9\u05e0\u05d3\u05d9\u05d0\u05e0\u05d9",
       "url": "https://open.spotify.com/track/7hAU0v73HDHE4XQPvL1xVH"
+    },
+    {
+      "album": {
+        "name": "\u05e9\u05d9\u05e8 \u05d5\u05e8\u05d5\u05d3",
+        "url": "https://open.spotify.com/album/31j4tjDTrlyRYEXaSQiCTE"
+      },
+      "artists": [
+        {
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184721,
+      "name": "\u05e9\u05d9\u05e8 \u05d5\u05e8\u05d5\u05d3 - \u05d2\u05e8\u05e1\u05ea \u05e1\u05ea\u05d9\u05d5",
+      "url": "https://open.spotify.com/track/0jU9g9jIAzzhxnFcDqGJvv"
     },
     {
       "album": {

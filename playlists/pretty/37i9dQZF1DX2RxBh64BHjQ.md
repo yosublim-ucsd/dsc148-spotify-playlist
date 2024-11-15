@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1K15GRZZATsCJyGJ4bYiEz">Luh Tyler</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,786,060 likes - 100 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,786,062 likes - 100 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [B's inna club](https://open.spotify.com/track/6Rc3E6TDwyCZIVvIJsptbp) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Freshman Grad.](https://open.spotify.com/album/44TpQtfROIJvYF4bwYxoPn) | 1:27 |
 | 100 | [Sh\*t Sad](https://open.spotify.com/track/48GihjnmhKG9a6wbKJC6MF) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Goodbye Horses](https://open.spotify.com/album/0I3cC1B19vTlERLgrYkeU9) | 3:14 |
 
-Snapshot ID: `ZzQZUwAAAABdR+IP5Xa+0wkIxcmvJYc5`
+Snapshot ID: `ZzQZUwAAAAB2Ci9BRhUDCcMqwcetArA0`

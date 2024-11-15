@@ -1,12 +1,12 @@
 {
   "description": "This is SPYAIR. The essential tracks, all in one playlist.",
-  "num_followers": 25706,
+  "num_followers": 25714,
   "original_name": "This Is SPYAIR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzKagAAAAADfsGkhDcnf8yjDW2vn5c6c",
+  "snapshot_id": "ZzPsAAAAAADYxhia9ikW52ITemoNaQUf",
   "tracks": [
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 225173,
-      "name": "COME IN SUMMER",
-      "url": "https://open.spotify.com/track/1qmg9NdpEaRE70MgSjLath"
+      "duration_ms": 232973,
+      "name": "\u30d5\u30a1\u30a4\u30a2\u30b9\u30bf\u30fc\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/34zx9CE9xviVXZk5tyj5Ut"
     },
     {
       "added_at": null,
@@ -644,25 +644,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 232973,
-      "name": "\u30d5\u30a1\u30a4\u30a2\u30b9\u30bf\u30fc\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/34zx9CE9xviVXZk5tyj5Ut"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u8f4d\uff5eWadachi\uff5e",
-        "url": "https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 266506,
-      "name": "\u30b9\u30af\u30e9\u30f3\u30d6\u30eb",
-      "url": "https://open.spotify.com/track/4jBUKFupufxaeaVrwSozbl"
+      "duration_ms": 225173,
+      "name": "COME IN SUMMER",
+      "url": "https://open.spotify.com/track/1qmg9NdpEaRE70MgSjLath"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
       "duration_ms": 296866,
       "name": "\u3042\u306e\u9803\u3001\u50d5\u3089\u306f\u540c\u3058\u672a\u6765\u3092",
       "url": "https://open.spotify.com/track/1gR5yiekZEQtB0XLS4LBx5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u8f4d\uff5eWadachi\uff5e",
+        "url": "https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 266506,
+      "name": "\u30b9\u30af\u30e9\u30f3\u30d6\u30eb",
+      "url": "https://open.spotify.com/track/4jBUKFupufxaeaVrwSozbl"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Do It",
-        "url": "https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "Come on",
-      "url": "https://open.spotify.com/track/30W9ifepbiFfbwypA27eQl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30a4\u30de\u30b8\u30cd\u30fc\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/7agIWNYo87cjSudbijhzVu"
       },
@@ -763,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNITE",
-        "url": "https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4"
+        "name": "Just Do It",
+        "url": "https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33"
       },
       "artists": [
         {
@@ -772,9 +756,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 214893,
-      "name": "INSIDE OF ME",
-      "url": "https://open.spotify.com/track/2kI6bq6q3Ab0FlYFHWInAE"
+      "duration_ms": 216520,
+      "name": "Come on",
+      "url": "https://open.spotify.com/track/30W9ifepbiFfbwypA27eQl"
     },
     {
       "added_at": null,
@@ -791,6 +775,22 @@
       "duration_ms": 222266,
       "name": "Radio",
       "url": "https://open.spotify.com/track/4Li77YJ1PAvh1H3l3E6AiB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNITE",
+        "url": "https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 214893,
+      "name": "INSIDE OF ME",
+      "url": "https://open.spotify.com/track/2kI6bq6q3Ab0FlYFHWInAE"
     },
     {
       "added_at": null,

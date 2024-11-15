@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Black Sherif",
-  "num_followers": 161177,
+  "num_followers": 161235,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxsXSwAAAACH2cqvTR57rcEhkF+KN22E",
+  "snapshot_id": "ZxsXSwAAAACv23Dgyr/lqNus969khBkL",
   "tracks": [
     {
       "added_at": "2024-10-25 03:58:03",
@@ -495,26 +495,6 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
-        "name": "Time Of My Life",
-        "url": "https://open.spotify.com/album/68LmZVzRuCex2vfwAYar5J"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "ArrDee",
-          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
-        }
-      ],
-      "duration_ms": 155028,
-      "name": "Time Of My life",
-      "url": "https://open.spotify.com/track/0GVWa6o5Kfai286WCKB1d0"
-    },
-    {
-      "added_at": "2024-10-25 03:58:03",
-      "album": {
         "name": "BDLM VOL.1",
         "url": "https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y"
       },
@@ -535,6 +515,42 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
+        "name": "Time Of My Life",
+        "url": "https://open.spotify.com/album/68LmZVzRuCex2vfwAYar5J"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        }
+      ],
+      "duration_ms": 155028,
+      "name": "Time Of My life",
+      "url": "https://open.spotify.com/track/0GVWa6o5Kfai286WCKB1d0"
+    },
+    {
+      "added_at": "2024-10-25 03:58:03",
+      "album": {
+        "name": "RAVAGE",
+        "url": "https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 185500,
+      "name": "Don't Leave",
+      "url": "https://open.spotify.com/track/3e7FAWKNVUGQJvyUQMZ5EB"
+    },
+    {
+      "added_at": "2024-10-25 03:58:03",
+      "album": {
         "name": "Otan",
         "url": "https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1"
       },
@@ -547,26 +563,6 @@
       "duration_ms": 196951,
       "name": "Otan",
       "url": "https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5"
-    },
-    {
-      "added_at": "2024-10-25 03:58:03",
-      "album": {
-        "name": "100 MILLION",
-        "url": "https://open.spotify.com/album/6zOr6njR2rEbkVlTHncEju"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "100 MILLION (feat. Tiwa Savage)",
-      "url": "https://open.spotify.com/track/455xPBUG4AFMMGiVEv91fC"
     },
     {
       "added_at": "2024-10-25 03:58:03",
@@ -591,18 +587,22 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
-        "name": "RAVAGE",
-        "url": "https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9"
+        "name": "100 MILLION",
+        "url": "https://open.spotify.com/album/6zOr6njR2rEbkVlTHncEju"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 185500,
-      "name": "Don't Leave",
-      "url": "https://open.spotify.com/track/3e7FAWKNVUGQJvyUQMZ5EB"
+      "duration_ms": 136000,
+      "name": "100 MILLION (feat. Tiwa Savage)",
+      "url": "https://open.spotify.com/track/455xPBUG4AFMMGiVEv91fC"
     },
     {
       "added_at": "2024-10-25 03:58:03",
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
-        "name": "NOT ALL THAT",
-        "url": "https://open.spotify.com/album/69s31hDJvmYWwJx2TOIUHo"
+        "name": "Fire on Me",
+        "url": "https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 142285,
-      "name": "NOT ALL THAT",
-      "url": "https://open.spotify.com/track/2K0ULBaljOe2NCOqtuqyxB"
+      "duration_ms": 134187,
+      "name": "Fire on Me",
+      "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
     },
     {
       "added_at": "2024-10-25 03:58:03",
@@ -723,18 +723,18 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
-        "name": "Fire on Me",
-        "url": "https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT"
+        "name": "NOT ALL THAT",
+        "url": "https://open.spotify.com/album/69s31hDJvmYWwJx2TOIUHo"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 134187,
-      "name": "Fire on Me",
-      "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
+      "duration_ms": 142285,
+      "name": "NOT ALL THAT",
+      "url": "https://open.spotify.com/track/2K0ULBaljOe2NCOqtuqyxB"
     },
     {
       "added_at": "2024-10-25 03:58:03",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
+        "name": "Haibo Freestyle",
+        "url": "https://open.spotify.com/album/4XsBdsCxQXl6QzeuLxbIeb"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 145195,
+      "name": "Haibo Freestyle",
+      "url": "https://open.spotify.com/track/7E8XRyfpF1zboV8whQ0pZr"
+    },
+    {
+      "added_at": "2024-10-25 03:58:03",
+      "album": {
         "name": "AREA BOYZ",
         "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 164844,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/0c6cJ10SmaO6Ev4XVWIi5Z"
-    },
-    {
-      "added_at": "2024-10-25 03:58:03",
-      "album": {
-        "name": "Haibo Freestyle",
-        "url": "https://open.spotify.com/album/4XsBdsCxQXl6QzeuLxbIeb"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 145195,
-      "name": "Haibo Freestyle",
-      "url": "https://open.spotify.com/track/7E8XRyfpF1zboV8whQ0pZr"
     },
     {
       "added_at": "2024-10-25 03:58:03",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
-        "name": "Believer",
-        "url": "https://open.spotify.com/album/5rb4fEmvkfDSPP9A7YxkPf"
-      },
-      "artists": [
-        {
-          "name": "Emtee",
-          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
-        }
-      ],
-      "duration_ms": 230426,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/36o7zjnqf5ouMXZTOkI0MK"
-    },
-    {
-      "added_at": "2024-10-25 03:58:03",
-      "album": {
         "name": "The Championship",
         "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 168000,
       "name": "TRAUMA",
       "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
+    },
+    {
+      "added_at": "2024-10-25 03:58:03",
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/5rb4fEmvkfDSPP9A7YxkPf"
+      },
+      "artists": [
+        {
+          "name": "Emtee",
+          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+        }
+      ],
+      "duration_ms": 230426,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/36o7zjnqf5ouMXZTOkI0MK"
     },
     {
       "added_at": "2024-10-25 03:58:03",

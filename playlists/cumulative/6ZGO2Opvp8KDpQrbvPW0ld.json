@@ -2726,7 +2726,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 167588,
       "name": "Arrecife",
       "url": "https://open.spotify.com/track/1sjtoUdOCd5PEhO62l2PbB"
@@ -7746,6 +7746,32 @@
       "duration_ms": 153750,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/0Gm4BeYcTySszUvkb5wkrR"
+    },
+    {
+      "album": {
+        "name": "nightlife",
+        "url": "https://open.spotify.com/album/5duAbScfnzm4KwJ1M7FH6A"
+      },
+      "artists": [
+        {
+          "name": "pikaa",
+          "url": "https://open.spotify.com/artist/0aAUWuZKCQlpXXld45oGGt"
+        },
+        {
+          "name": "b.wub",
+          "url": "https://open.spotify.com/artist/1pCEnT5PUnUjcdIU0v1LZX"
+        },
+        {
+          "name": "Brandon Worth",
+          "url": "https://open.spotify.com/artist/2CFz1yy1tn17sJH3ROQedQ"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54346,
+      "name": "butterfly",
+      "url": "https://open.spotify.com/track/1CgnUzZaisjAF2n3HphxZ0"
     },
     {
       "album": {
@@ -23358,7 +23384,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 104571,
       "name": "Inspiration",
       "url": "https://open.spotify.com/track/1mfAWrYhxkBuMsId2Xik6a"
@@ -28495,6 +28521,28 @@
     },
     {
       "album": {
+        "name": "Lunar Serenade",
+        "url": "https://open.spotify.com/album/7yUVCpD3CUhW2tWhHboR6C"
+      },
+      "artists": [
+        {
+          "name": "Igor Utzig",
+          "url": "https://open.spotify.com/artist/0SK3nj1aKuSNtBRvEow982"
+        },
+        {
+          "name": "moon.walken",
+          "url": "https://open.spotify.com/artist/5pTqDNiEoLwzpjkW05ygeN"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140689,
+      "name": "Lunar Serenade",
+      "url": "https://open.spotify.com/track/3nlmGyOHuob75DAZvUZ9Ey"
+    },
+    {
+      "album": {
         "name": "Lush",
         "url": "https://open.spotify.com/album/792kKflsBc9HpDxJbKFFk6"
       },
@@ -29448,6 +29496,24 @@
       "duration_ms": 78841,
       "name": "Mellow",
       "url": "https://open.spotify.com/track/2DIUSYF3lWSqRPeBwMNgPW"
+    },
+    {
+      "album": {
+        "name": "Mellow Madness",
+        "url": "https://open.spotify.com/album/5TZFz0jbPEaHESWkmA2qIa"
+      },
+      "artists": [
+        {
+          "name": "B\u01b1BBLE",
+          "url": "https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85714,
+      "name": "Mellow Madness",
+      "url": "https://open.spotify.com/track/3heLKCJrVPnDdNYE82NCTY"
     },
     {
       "album": {
@@ -32420,7 +32486,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 154572,
       "name": "New Horizons",
       "url": "https://open.spotify.com/track/12tW37jykC9aH2ylMqM98f"

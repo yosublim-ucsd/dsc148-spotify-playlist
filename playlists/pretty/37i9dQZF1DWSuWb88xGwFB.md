@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,143 likes - 75 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,168 likes - 75 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 3 | [Higher State of Consciousness \- Tweekin Acid Funk](https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [Higher State Of Consciousness](https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S) | 6:17 |
 | 4 | [Follow Me \- Club Mix](https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU) | [Aly\-Us](https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r) | [Follow Me](https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O) | 6:24 |
 | 5 | [I Like to Move It \(feat\. The Mad Stuntman\) \- Erick "More" Club Mix](https://open.spotify.com/track/1r4ZkSJevA68TQzLzJeXeb) | [Reel 2 Real](https://open.spotify.com/artist/4AXX8UN3xaPrxHSqrgE3Ta), [The Mad Stuntman](https://open.spotify.com/artist/2rC7eyIFrDIYnFsxsbSxF5) | [I Like To Move It \(feat\. The Mad Stuntman\)](https://open.spotify.com/album/2e0wWL0G1nwwS16yNekdVP) | 5:52 |
-| 6 | [House Of Love \- Love Mix](https://open.spotify.com/track/4bvxaVUSKV2fJXQUDwaLCX) | [Smooth Touch](https://open.spotify.com/artist/5h2vIb1P2w4idUI6kCFLT7) | [House Of Love](https://open.spotify.com/album/0UnVmFFjZJDh2o1OktIy60) | 4:51 |
-| 7 | [Beautiful People \- Underground Network Mix](https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Beautiful People \(Remixes\)](https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN) | 9:06 |
-| 8 | [Zulu \- Change Mix](https://open.spotify.com/track/3bnX6J2heDwJcMW01WYupB) | [Circle Children](https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP) | [Zulu](https://open.spotify.com/album/4af9t45AsFlQR6CgWTsYqn) | 7:54 |
+| 6 | [Zulu \- Change Mix](https://open.spotify.com/track/3bnX6J2heDwJcMW01WYupB) | [Circle Children](https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP) | [Zulu](https://open.spotify.com/album/4af9t45AsFlQR6CgWTsYqn) | 7:54 |
+| 7 | [House Of Love \- Love Mix](https://open.spotify.com/track/4bvxaVUSKV2fJXQUDwaLCX) | [Smooth Touch](https://open.spotify.com/artist/5h2vIb1P2w4idUI6kCFLT7) | [House Of Love](https://open.spotify.com/album/0UnVmFFjZJDh2o1OktIy60) | 4:51 |
+| 8 | [Beautiful People \- Underground Network Mix](https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Beautiful People \(Remixes\)](https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN) | 9:06 |
 | 9 | [The Warning \- Inner Mix](https://open.spotify.com/track/0EThIfEDrSIszyhVATkCoi) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [Strictly Rhythm Est\. 1989: 20 Years of Classics](https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn) | 8:09 |
 | 10 | [My People \- My People Mix](https://open.spotify.com/track/0Wf3Ko5HwW390Y08KWh90L) | [Shadii](https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2) | [The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC \(Unmixed\)](https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr) | 5:42 |
 | 11 | [\(Who?\) Keeps Changing Your Mind? \- The Night Mix](https://open.spotify.com/track/5XrnMnFLf7sQ6R9nRXIAGS) | [South Street Player](https://open.spotify.com/artist/2KnAxJh4OfnNG3Db0Ueway) | [\(Who?\) Keeps Changing Your Mind](https://open.spotify.com/album/1dHGk4t778mMsQ02eHNFR1) | 7:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 74 | [Master Blaster \(Turn It Up\)](https://open.spotify.com/track/4VxHkPiLhUwK4s7q2WpLN4) | [Joint Venture](https://open.spotify.com/artist/3zgNoLwSZuO6ibqfilnnU2) | [Master Blaster \(Turn It Up\)](https://open.spotify.com/album/4WEycFfBXOHo3nbBjzy7Ew) | 15:38 |
 | 75 | [Set My Spirit Free](https://open.spotify.com/track/04RY88ENJbbJIbKgpCvyHk) | [Kings Of Tomorrow](https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX) | [Set My Spirit Free / Czar](https://open.spotify.com/album/0tOqlita8PHDWvWXhnVPSt) | 7:48 |
 
-Snapshot ID: `ZIsRVQAAAADScxzB3E2p1crOMCbg9Hwc`
+Snapshot ID: `ZIsRVQAAAADIKOFhLltFKClsk2ppUEvR`

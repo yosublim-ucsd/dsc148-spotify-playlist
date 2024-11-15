@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Angelia
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,645 likes - 83 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,652 likes - 83 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 82 | [Peg Puff](https://open.spotify.com/track/5eC3OAusoEhHz8bJLrGEoT) | [October Rain](https://open.spotify.com/artist/4zpG6DIFB0kUbe5EASV5DY) | [Peg Puff](https://open.spotify.com/album/4hLdIprDJlIm5iaBxEj1QR) | 3:53 |
 | 83 | [BOBA MILK TEA](https://open.spotify.com/track/3mMFJnnEV57aQeEFHwlcM3) | [TEKKAMAKKI](https://open.spotify.com/artist/1coOwnY6wKoKPcgEdFBENc) | [BOBA MILK TEA](https://open.spotify.com/album/1k0OwYpZAZMYImFq88OVPZ) | 2:56 |
 
-Snapshot ID: `Zyz0ZwAAAAAucuxq1hd4LMzzYdWH5G/t`
+Snapshot ID: `Zyz0ZwAAAACPVNBDfVh6TP6SVxOUoeMN`

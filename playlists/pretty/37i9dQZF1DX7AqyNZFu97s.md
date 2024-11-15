@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: bib sama.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,456 likes - 115 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,473 likes - 115 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 114 | [Geek Love](https://open.spotify.com/track/6mAx6HpOuJDRbrcj9olnPD) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [Geek Love](https://open.spotify.com/album/3tgHVBF744MI6SU0QrpT0J) | 3:56 |
 | 115 | [Head Above Water](https://open.spotify.com/track/280voyNiWMpSELBtCuMVCs) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Head Above Water](https://open.spotify.com/album/243xtJO49rvMqy5yx1DYxz) | 3:10 |
 
-Snapshot ID: `ZzTBggAAAAAMoh6R05ZoA9e50JgjOcpm`
+Snapshot ID: `ZzTBggAAAAD6jl4Gkr2FVaGnzBnlHoF1`

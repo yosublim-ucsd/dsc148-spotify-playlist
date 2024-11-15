@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,431 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,439 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 | 49 | [The Cat](https://open.spotify.com/track/3accySZJEWnG4okxKazrFe) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6), [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1) | [Walk On The Wild Side: Best Of The Verve Years](https://open.spotify.com/album/3oRxz25doj2HKXUjoNO2ti) | 3:26 |
 | 50 | [Je Me Sens Bien Auprès De Toi](https://open.spotify.com/track/5vzRM8egqzJlRNe5U1cS09) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est Ma Chanson](https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1) | 2:24 |
 
-Snapshot ID: `ZiCdoAAAAADkEKEdA9nxFECMove2Mq6q`
+Snapshot ID: `ZiCdoAAAAABLrgiQX4ITm3MZs/TWYPZA`

@@ -1,12 +1,12 @@
 {
   "description": "Country music that rocks. Cover: Ryan Hurd",
-  "num_followers": 610005,
+  "num_followers": 610052,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy2a0AAAAADW7PmoZNTd7IG2clfmFi8q",
+  "snapshot_id": "Zy2a0AAAAABJ/oXinJ3kNPSdx2gOFhpw",
   "tracks": [
     {
       "added_at": "2024-11-08 05:00:00",
@@ -651,6 +651,42 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Made It This Far",
+        "url": "https://open.spotify.com/album/4YWnZxfLD36E9tFhAfBqzx"
+      },
+      "artists": [
+        {
+          "name": "Chase McDaniel",
+          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
+        }
+      ],
+      "duration_ms": 164313,
+      "name": "Made It This Far",
+      "url": "https://open.spotify.com/track/59CfGhdkuJ9ufOcu43Alh7"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Greener (with Mitchell Tenpenny)",
+        "url": "https://open.spotify.com/album/2UdCM4OKs6455gkT1Gqc0f"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        },
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 175566,
+      "name": "Greener (with Mitchell Tenpenny)",
+      "url": "https://open.spotify.com/track/1YhiHwFFJ73j8nMnT1CkGt"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Something's Gonna Kill Me",
         "url": "https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It"
       },
@@ -683,22 +719,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Made It This Far",
-        "url": "https://open.spotify.com/album/4YWnZxfLD36E9tFhAfBqzx"
-      },
-      "artists": [
-        {
-          "name": "Chase McDaniel",
-          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
-        }
-      ],
-      "duration_ms": 164313,
-      "name": "Made It This Far",
-      "url": "https://open.spotify.com/track/59CfGhdkuJ9ufOcu43Alh7"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/5Y8hv9mXolK9hQej1MOlwF"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 288121,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/22AYv6oubrOclu24nNux0M"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Greener (with Mitchell Tenpenny)",
-        "url": "https://open.spotify.com/album/2UdCM4OKs6455gkT1Gqc0f"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        },
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 175566,
-      "name": "Greener (with Mitchell Tenpenny)",
-      "url": "https://open.spotify.com/track/1YhiHwFFJ73j8nMnT1CkGt"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "What I Know Now",
-        "url": "https://open.spotify.com/album/2djQN7IpTj79iHIFWR8iLl"
-      },
-      "artists": [
-        {
-          "name": "Lakeview",
-          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
-        }
-      ],
-      "duration_ms": 173573,
-      "name": "What I Know Now",
-      "url": "https://open.spotify.com/track/77uUGdoehrjJPP9IZlVq5F"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Black Powder Soul",
         "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 216153,
       "name": "Black Powder Soul",
       "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "What I Know Now",
+        "url": "https://open.spotify.com/album/2djQN7IpTj79iHIFWR8iLl"
+      },
+      "artists": [
+        {
+          "name": "Lakeview",
+          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+        }
+      ],
+      "duration_ms": 173573,
+      "name": "What I Know Now",
+      "url": "https://open.spotify.com/track/77uUGdoehrjJPP9IZlVq5F"
     },
     {
       "added_at": "2024-11-08 05:00:00",

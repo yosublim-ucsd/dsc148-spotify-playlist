@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JHAMXPtau2.md) - [plain]
 
 > Soft and cozy piano versions of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,819 likes - 40 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,935 likes - 40 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JHAMXPtau2.md) - [plain]
 | 39 | [Light of the World](https://open.spotify.com/track/5HmHdOfFEGyrFihRHtx8jv) | [Faye Mosley](https://open.spotify.com/artist/50JVQBWkJTwvTOAvhgcBhv) | [Light of the World](https://open.spotify.com/album/2yNYgL3DzPYgnChLSAS5h7) | 1:45 |
 | 40 | [O Come All Ye Faithful \(Bornlöf Piano Version\)](https://open.spotify.com/track/2xHCs5TFxAmOCo3lR6r7D3) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Christmas Cheer](https://open.spotify.com/album/4YT1l7sAjsWq86iZLyEef0) | 2:41 |
 
-Snapshot ID: `ZzIERQAAAAAI0KR2Ah2REhf7bAe8nHfg`
+Snapshot ID: `ZzIERQAAAAAFlx/hnm7BdiYRxK35OXMg`

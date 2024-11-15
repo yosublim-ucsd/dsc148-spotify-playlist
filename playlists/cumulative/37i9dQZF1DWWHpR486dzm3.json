@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Suomi-indien tuoreimpia helmi\u00e4. Kannessa Kemopetrol.",
+  "description": "Suomi-indien tuoreimpia helmi\u00e4. Kannessa Bad Sauna.",
   "name": "Suomi-indie t\u00e4n\u00e4\u00e4n",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 182601,
       "name": "5AM",
       "url": "https://open.spotify.com/track/6DVO1YMYhnGVzMhGJ6YTYj"
+    },
+    {
+      "album": {
+        "name": "A Bittersweet Goodbye",
+        "url": "https://open.spotify.com/album/1pJVHzgmPR0oGzaYDOdtFq"
+      },
+      "artists": [
+        {
+          "name": "Indigo Dream",
+          "url": "https://open.spotify.com/artist/3nxQ0z5TpFCavqaRB1lJka"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254493,
+      "name": "A Bittersweet Goodbye",
+      "url": "https://open.spotify.com/track/3tPmsa9D8pkv9GBu6Zsmcs"
     },
     {
       "album": {
@@ -348,7 +366,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 337929,
       "name": "Amerikanska skatter",
       "url": "https://open.spotify.com/track/5GRiNGDrXfmXyFU0a2CNJ9"
@@ -606,7 +624,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 225146,
       "name": "Beaujolais",
       "url": "https://open.spotify.com/track/0sLKm2eouN9LvAEtB29bS3"
@@ -768,7 +786,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 163374,
       "name": "Body Remembers",
       "url": "https://open.spotify.com/track/04eKsQo2ssmxcxOx57FYul"
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 229053,
       "name": "Epilogi",
       "url": "https://open.spotify.com/track/57E3v3ytNyBFeHXAdkNjJC"
@@ -1320,7 +1338,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 169403,
       "name": "Eva",
       "url": "https://open.spotify.com/track/6VZeHQ3aiKYvfSsPJMmn12"
@@ -1360,6 +1378,24 @@
       "duration_ms": 161641,
       "name": "Falling To Pieces",
       "url": "https://open.spotify.com/track/2r4VKmW8dnyosgZGZfPPQT"
+    },
+    {
+      "album": {
+        "name": "Plenty",
+        "url": "https://open.spotify.com/album/1mK53QazuVzxpUoaqiJVfq"
+      },
+      "artists": [
+        {
+          "name": "VON KONOW",
+          "url": "https://open.spotify.com/artist/22j1dLSC6MsQS2Fm0EhZTB"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226216,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/6jvKzA0VWGRyMc8F4OQbVd"
     },
     {
       "album": {
@@ -1504,7 +1540,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 207907,
       "name": "Ghosting",
       "url": "https://open.spotify.com/track/5EcIDakGLGize4iTVjCbhm"
@@ -1645,6 +1681,24 @@
     },
     {
       "album": {
+        "name": "Background Music For Family Arguments",
+        "url": "https://open.spotify.com/album/7bjMcZmqjjabgJQjHSuqES"
+      },
+      "artists": [
+        {
+          "name": "Drug Store Raid",
+          "url": "https://open.spotify.com/artist/53dLQQZFdX3WuK7RjFB5UP"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213615,
+      "name": "Gutter",
+      "url": "https://open.spotify.com/track/1VxKOaUAZNNyLMJsMuad8H"
+    },
+    {
+      "album": {
         "name": "Hajonneet",
         "url": "https://open.spotify.com/album/3OxmINoGWVzYpG4uqck89U"
       },
@@ -1735,6 +1789,24 @@
     },
     {
       "album": {
+        "name": "Hedelm\u00e4t homehtuu",
+        "url": "https://open.spotify.com/album/7cUcpPmEXqSNQTGI7LOGuY"
+      },
+      "artists": [
+        {
+          "name": "Kirsikkapuu",
+          "url": "https://open.spotify.com/artist/0e9IBdj2kYHrIMUb5vvrXb"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243356,
+      "name": "Hedelm\u00e4t homehtuu",
+      "url": "https://open.spotify.com/track/7qBCM99MZa92OVuha94t7V"
+    },
+    {
+      "album": {
         "name": "Hei Anna (discolove)",
         "url": "https://open.spotify.com/album/4VzwRMAdMyulKf8brSjb1A"
       },
@@ -1772,6 +1844,28 @@
       "duration_ms": 167720,
       "name": "Hei kuski (feat. Elias Gould)",
       "url": "https://open.spotify.com/track/4KBaamH6sQDzO71LxFHXLJ"
+    },
+    {
+      "album": {
+        "name": "Hetkeksi sun luo",
+        "url": "https://open.spotify.com/album/5HWYb3p9yLdjS0uoSZSgJs"
+      },
+      "artists": [
+        {
+          "name": "Eva Louhivuori",
+          "url": "https://open.spotify.com/artist/7DX4xa1cd1vBFt2kipYgfq"
+        },
+        {
+          "name": "Juho Raja",
+          "url": "https://open.spotify.com/artist/0Kfl4z5IPPT2oO0s5glUWe"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189498,
+      "name": "Hetkeksi sun luo",
+      "url": "https://open.spotify.com/track/1mpttyiiqcBDisdDhGp23q"
     },
     {
       "album": {
@@ -2179,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "Ohikulkija",
+        "url": "https://open.spotify.com/album/2pC1pQLiJ71YhUznB0JxCy"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9n Pime\u00e4 Puoli",
+          "url": "https://open.spotify.com/artist/0lgBoewZAmVb5NInEJ5b0n"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228600,
+      "name": "Ihmeen p\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/0eYbfN2ktdBTLGyLFqkWrB"
+    },
+    {
+      "album": {
         "name": "Ilotalo",
         "url": "https://open.spotify.com/album/5MN9wEeWJB0WewDfvbwVPY"
       },
@@ -2226,7 +2338,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 168480,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/1PZPz8ZGHCVoM1dLBXqyjy"
@@ -2292,6 +2404,24 @@
       "duration_ms": 271790,
       "name": "Iso kirkko palaa",
       "url": "https://open.spotify.com/track/2GZZSOjEAorIgSqvVruMgu"
+    },
+    {
+      "album": {
+        "name": "Kerro sille milt\u00e4 susta tuntuu",
+        "url": "https://open.spotify.com/album/3FrTK1exrDisrmK4YM2mDP"
+      },
+      "artists": [
+        {
+          "name": "Bad Sauna",
+          "url": "https://open.spotify.com/artist/2ZG33QoV5Nd96TA4RwEsZT"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294293,
+      "name": "Iso tunne siit\u00e4 ett\u00e4 ollaan tosi pieni\u00e4",
+      "url": "https://open.spotify.com/track/5N8LMBUx36wU53rr1yKjVs"
     },
     {
       "album": {
@@ -2454,7 +2584,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 277986,
       "name": "Kaikki kauniit sanat",
       "url": "https://open.spotify.com/track/2P4twR4evusRsFtqwhNQWv"
@@ -2966,7 +3096,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 145133,
       "name": "Kukat voi huonosti",
       "url": "https://open.spotify.com/track/4j8TwVjJJu920fEuZ2Clmc"
@@ -3064,6 +3194,42 @@
       "duration_ms": 223661,
       "name": "Kyyhkynen ja tuuli",
       "url": "https://open.spotify.com/track/557jjvXvVdUT1r9P6WTRH0"
+    },
+    {
+      "album": {
+        "name": "K\u00f6mpel\u00f6 kummitus",
+        "url": "https://open.spotify.com/album/3CTadz4Z35IGYbWAKuFj8q"
+      },
+      "artists": [
+        {
+          "name": "Ullalintulampi",
+          "url": "https://open.spotify.com/artist/2TNzRO3MpKoFBA0DrPTbdY"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204986,
+      "name": "K\u00f6mpel\u00f6 kummitus",
+      "url": "https://open.spotify.com/track/0twR3fm6dvrJ6zsPssNP7g"
+    },
+    {
+      "album": {
+        "name": "Laatikkoon",
+        "url": "https://open.spotify.com/album/7dFJNYMTDhf4GyGcD7KLlM"
+      },
+      "artists": [
+        {
+          "name": "Ne Lintuizet",
+          "url": "https://open.spotify.com/artist/6Oygx8XzWbloL8MsTl1Zhc"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204666,
+      "name": "Laatikkoon",
+      "url": "https://open.spotify.com/track/5HM5spmQh0wLUNLn2hEp0m"
     },
     {
       "album": {
@@ -3277,6 +3443,24 @@
     },
     {
       "album": {
+        "name": "LOL (Liika on liikaa)",
+        "url": "https://open.spotify.com/album/0dFVKKAq0Gg7OgZ5JwgC9P"
+      },
+      "artists": [
+        {
+          "name": "Okkim",
+          "url": "https://open.spotify.com/artist/0ddugsnMCMlH53rBe8zR1o"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215077,
+      "name": "LOL (Liika on liikaa)",
+      "url": "https://open.spotify.com/track/0MXXKYIGZc7JNJnaKoV22f"
+    },
+    {
+      "album": {
         "name": "Liikaa Liikaa",
         "url": "https://open.spotify.com/album/3UeKaaNqEOllkFKLast7JZ"
       },
@@ -3324,7 +3508,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 229906,
       "name": "Lost in a Dream",
       "url": "https://open.spotify.com/track/1uAa4fsYfheOYU3ZWc2OB2"
@@ -3494,7 +3678,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 203946,
       "name": "Man Without a Name",
       "url": "https://open.spotify.com/track/37Bahti4gb141DWxnzC1YF"
@@ -4319,6 +4503,24 @@
     },
     {
       "album": {
+        "name": "Oona Amalia",
+        "url": "https://open.spotify.com/album/21C9OLePWUlPeQDVrhHvOy"
+      },
+      "artists": [
+        {
+          "name": "Kas Kan",
+          "url": "https://open.spotify.com/artist/0FJJWDQ8141Y1JQzthtEnG"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240666,
+      "name": "Oona Amalia",
+      "url": "https://open.spotify.com/track/4TBWQONKcwLm1XQyeHfMVP"
+    },
+    {
+      "album": {
         "name": "Ordinary Joys",
         "url": "https://open.spotify.com/album/1xt8yeG0rX1SRRE5JzbHBS"
       },
@@ -4522,7 +4724,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 242906,
       "name": "Party Freak",
       "url": "https://open.spotify.com/track/3azCLHtmdQNNk2fJBO2yC6"
@@ -5062,7 +5264,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 279426,
       "name": "Ride",
       "url": "https://open.spotify.com/track/5o1VFI9pkftoG25k2M8j0Q"
@@ -5188,7 +5390,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 274040,
       "name": "Samanlaisii",
       "url": "https://open.spotify.com/track/5I6AXxre7RMWk3L1rTQMML"
@@ -5558,7 +5760,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 274000,
       "name": "Stadion",
       "url": "https://open.spotify.com/track/4CrJH1SsGoRfcc85MRBJLs"
@@ -5670,7 +5872,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 222584,
       "name": "Sun eleet",
       "url": "https://open.spotify.com/track/60c70e4asQDKYgW4vwfCPd"
@@ -5962,7 +6164,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 240600,
       "name": "The Wolves",
       "url": "https://open.spotify.com/track/3zYxUsvUDKFqSdrPVoSqvb"
@@ -6226,6 +6428,24 @@
       "duration_ms": 108679,
       "name": "Tuu tuu tuonelahan",
       "url": "https://open.spotify.com/track/2IIRq8e6apN2qYgx0yPDcW"
+    },
+    {
+      "album": {
+        "name": "Tuuli",
+        "url": "https://open.spotify.com/album/6MNqve56wAXWpnQkzVpzqP"
+      },
+      "artists": [
+        {
+          "name": "Ananas",
+          "url": "https://open.spotify.com/artist/3KOt3hXeyD4RpBjbbTXUBP"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219866,
+      "name": "Tuuli",
+      "url": "https://open.spotify.com/track/3mWoYA6ffvMfqXAgEk3JYE"
     },
     {
       "album": {
@@ -6569,6 +6789,24 @@
     },
     {
       "album": {
+        "name": "Valons\u00e4teet",
+        "url": "https://open.spotify.com/album/6rw1MPEfyjLJd3XbyZcgDK"
+      },
+      "artists": [
+        {
+          "name": "Aksel Kankaanranta",
+          "url": "https://open.spotify.com/artist/6IEH2DB0MSkCSY3uro9za2"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193960,
+      "name": "Valons\u00e4teet",
+      "url": "https://open.spotify.com/track/3xCIF7RAaUPU0teP44pOjA"
+    },
+    {
+      "album": {
         "name": "Veljeni leijonamieli",
         "url": "https://open.spotify.com/album/1BgNPi8c5Vynw5ng4AE84A"
       },
@@ -6710,7 +6948,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 272053,
       "name": "Voittajan ainesta",
       "url": "https://open.spotify.com/track/4lvwtpLCJdsVfHlQpY26J0"
@@ -6750,7 +6988,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 205262,
       "name": "V\u00e4likadun divari",
       "url": "https://open.spotify.com/track/6eTUgK4fXPsQHIeXOJEjq0"

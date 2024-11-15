@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWF3yivn1m3D.md) - [plain]
 
 > The best of the legendary composer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,450 likes - 79 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,786 likes - 79 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWF3yivn1m3D.md) - [plain]
 | 78 | [Run Free](https://open.spotify.com/track/75OrTolKEnimJj625JUIft) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Spirit: Stallion Of The Cimarron \(Music From The Original Motion Picture\)](https://open.spotify.com/album/3pDG0vQ5LfL2BQZJJtkbg8) | 6:21 |
 | 79 | [Iris And Jasper](https://open.spotify.com/track/4JCi6FpV6DHi0OBFhmrKGy) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Holiday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wJZSN3VrWTR8OcFJ4lp9I) | 3:24 |
 
-Snapshot ID: `ZeHS/wAAAAA1Z0DbiMFh93Ezli1WU0xY`
+Snapshot ID: `ZeHS/wAAAAB1PGrCmms5D+XLgxsprLn0`

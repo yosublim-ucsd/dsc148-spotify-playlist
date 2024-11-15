@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Jordan Rakei, STUTS",
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: WONK",
   "name": "X-Over \u30b8\u30e3\u30ba!",
   "tracks": [
     {
@@ -433,6 +433,28 @@
     },
     {
       "album": {
+        "name": "Black Hole (feat. Reggie Watts)",
+        "url": "https://open.spotify.com/album/77dFEarLbOf6T1NwafEfsl"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        },
+        {
+          "name": "Reggie Watts",
+          "url": "https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252026,
+      "name": "Black Hole (feat. Reggie Watts)",
+      "url": "https://open.spotify.com/track/4PnekQ16RE2bFx4e9dYOsx"
+    },
+    {
+      "album": {
         "name": "BLOWING / STEP3",
         "url": "https://open.spotify.com/album/0Sv3ULvoT9ywD8STcmwpCb"
       },
@@ -736,7 +758,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 243240,
       "name": "Dancin' Your Own Time",
       "url": "https://open.spotify.com/track/4uTTEq6jnBkW3PmcDw44KC"
@@ -935,6 +957,24 @@
     },
     {
       "album": {
+        "name": "Shades of",
+        "url": "https://open.spotify.com/album/4SnYHpDFwJcbi4VpAuPIfO"
+      },
+      "artists": [
+        {
+          "name": "WONK",
+          "url": "https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220221,
+      "name": "Endless Gray",
+      "url": "https://open.spotify.com/track/7uoQI2brv0ESHgzM6BMEI9"
+    },
+    {
+      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/16wbiKEGGx4qXKMgPF7bkt"
       },
@@ -958,6 +998,24 @@
       "duration_ms": 220672,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/68WxRXjtVXccZOfH69H44v"
+    },
+    {
+      "album": {
+        "name": "FIGO",
+        "url": "https://open.spotify.com/album/5i5twc3cP95rZqYDDc21yO"
+      },
+      "artists": [
+        {
+          "name": "Nujakasha",
+          "url": "https://open.spotify.com/artist/6cyDwv8RqKLeSjs5IKPJnI"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195769,
+      "name": "FIGO",
+      "url": "https://open.spotify.com/track/31Q21Hm063OcE5FK03svmr"
     },
     {
       "album": {
@@ -1312,10 +1370,32 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 233749,
       "name": "Howlin' collective",
       "url": "https://open.spotify.com/track/4WHnPGqTUL3N6cZUnlpFs3"
+    },
+    {
+      "album": {
+        "name": "I Feel the Same (edbl Remix)",
+        "url": "https://open.spotify.com/album/5LoqBVBEnl4gHzosCZpeEQ"
+      },
+      "artists": [
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        },
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182726,
+      "name": "I Feel the Same - edbl Remix",
+      "url": "https://open.spotify.com/track/2UsrfYHrbrK4j6xdkdJthh"
     },
     {
       "album": {
@@ -1788,7 +1868,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 197135,
       "name": "Lights (feat. Blu)",
       "url": "https://open.spotify.com/track/0ivm0kmxQLyp6njZ7QerWn"
@@ -1894,7 +1974,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 245274,
       "name": "MEBAE",
       "url": "https://open.spotify.com/track/5ZLptCYUfgM5daGHcpObgk"
@@ -2033,6 +2113,24 @@
     },
     {
       "album": {
+        "name": "A Willed and Conscious Balance",
+        "url": "https://open.spotify.com/album/4luVtiNLWDNazKssZCh2La"
+      },
+      "artists": [
+        {
+          "name": "Tomin",
+          "url": "https://open.spotify.com/artist/0YMLTyB0Y3pZLxKK2tXcTj"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317200,
+      "name": "movement",
+      "url": "https://open.spotify.com/track/7yB54Gb2VGwFdaCVvtfF9V"
+    },
+    {
+      "album": {
         "name": "N29 to Berlin - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1WVhUbFeBd2VYfzxfL3Nx6"
       },
@@ -2114,7 +2212,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 346133,
       "name": "No More Blues",
       "url": "https://open.spotify.com/track/1Y8FFe5ZLw3k002uBeXQJU"
@@ -2352,6 +2450,24 @@
       "duration_ms": 232202,
       "name": "Passione",
       "url": "https://open.spotify.com/track/5kv3DjlfH5GLQAKHOsS7zv"
+    },
+    {
+      "album": {
+        "name": "Patterns",
+        "url": "https://open.spotify.com/album/2teUQYp1JnDutjyOjSk5MZ"
+      },
+      "artists": [
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280626,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/2sf29HgWtkohQBZRpb7HZx"
     },
     {
       "album": {
@@ -2639,6 +2755,24 @@
     },
     {
       "album": {
+        "name": "ECHOES OF PRAYER",
+        "url": "https://open.spotify.com/album/37gmVglfhCEkWwiefTKuC6"
+      },
+      "artists": [
+        {
+          "name": "Bnnyhunna",
+          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194678,
+      "name": "Should've Been You",
+      "url": "https://open.spotify.com/track/2oLADoIPrqnGoRC4q7xHgO"
+    },
+    {
+      "album": {
         "name": "Silent Chaos",
         "url": "https://open.spotify.com/album/0T73FUjssfu3pYJC0kg6dT"
       },
@@ -2668,7 +2802,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 250079,
       "name": "Silent Dancer",
       "url": "https://open.spotify.com/track/6QePiHLvjWrVITs8ddewDG"
@@ -2697,6 +2831,28 @@
     },
     {
       "album": {
+        "name": "Sorrow (feat. Liam Bailey)",
+        "url": "https://open.spotify.com/album/5A8H1eVSWckghg7Szj9oGp"
+      },
+      "artists": [
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        },
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282931,
+      "name": "Sorrow - feat. Liam Bailey",
+      "url": "https://open.spotify.com/track/0fi1XZO45Zn60uMkiqV025"
+    },
+    {
+      "album": {
         "name": "Speak In The Dark",
         "url": "https://open.spotify.com/album/0b13zZwIhnVC4ODUZh5ilo"
       },
@@ -2708,7 +2864,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 202105,
       "name": "Speak In The Dark",
       "url": "https://open.spotify.com/track/37pcSLdJ9GW4E0LN7B998Z"
@@ -2919,6 +3075,28 @@
     },
     {
       "album": {
+        "name": "Timepieces",
+        "url": "https://open.spotify.com/album/6X3hE0Vv5ffYNI2Jjqkjlb"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        },
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142066,
+      "name": "Timepieces (feat. Billy Woods)",
+      "url": "https://open.spotify.com/track/3EN3dG3umzscCVexyyTSxw"
+    },
+    {
+      "album": {
         "name": "Tranxit",
         "url": "https://open.spotify.com/album/4JQlMc2S92oia3nGxWETMz"
       },
@@ -3080,7 +3258,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 159200,
       "name": "wanted",
       "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
@@ -3318,7 +3496,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 219398,
       "name": "\u308f\u308c\u308f\u308c\u306e\u3057\u307e",
       "url": "https://open.spotify.com/track/7lMPVBtPdoxVENSe16W9Hn"

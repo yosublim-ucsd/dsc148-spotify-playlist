@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Channi Nattan, Sukha and Inderpal Moga
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,957 likes - 48 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,962 likes - 48 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 47 | [Money Virus](https://open.spotify.com/track/6oORSxwCUW8fYS3eixTmVh) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Money Virus](https://open.spotify.com/album/3cmKtSMu8u1xXwfR5kQUqo) | 2:33 |
 | 48 | [BLAH](https://open.spotify.com/track/7zsSnv9ff1GMvf0LxXHpnP) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [BLAH](https://open.spotify.com/album/7mQxz688kGblo1TPYp40VM) | 2:27 |
 
-Snapshot ID: `Zy2a0AAAAACE9SPcqWnRptv3saUFGE98`
+Snapshot ID: `Zy2a0AAAAAAKgqpRTtU6w+oh7HSolGFX`

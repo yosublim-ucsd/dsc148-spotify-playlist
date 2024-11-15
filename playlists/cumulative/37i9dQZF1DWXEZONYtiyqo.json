@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Raluka",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: IRAIDA",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -126,6 +126,24 @@
       "duration_ms": 135766,
       "name": "Alarm\u0103 fals\u0103",
       "url": "https://open.spotify.com/track/1WEoUIepliQWyDp2aY0S7L"
+    },
+    {
+      "album": {
+        "name": "Alchimistul",
+        "url": "https://open.spotify.com/album/1msF2JTO39BJPj8io9W4e9"
+      },
+      "artists": [
+        {
+          "name": "IRAIDA",
+          "url": "https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151111,
+      "name": "Alchimistul",
+      "url": "https://open.spotify.com/track/7D2WfODZho5lLmMN6MgtIl"
     },
     {
       "album": {
@@ -644,6 +662,28 @@
       "duration_ms": 120000,
       "name": "Dau tonul",
       "url": "https://open.spotify.com/track/7mxhGM5DkAWdBg1YDHiUyG"
+    },
+    {
+      "album": {
+        "name": "De ce plang chitarele",
+        "url": "https://open.spotify.com/album/4kXNDZdMEpJIGIKjUnG9Dt"
+      },
+      "artists": [
+        {
+          "name": "Alessiah",
+          "url": "https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw"
+        },
+        {
+          "name": "Mark Stam",
+          "url": "https://open.spotify.com/artist/2TfjCSwYNNsUvw3uhjK9mh"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159692,
+      "name": "De ce plang chitarele",
+      "url": "https://open.spotify.com/track/1LviVFquiwbz2qsiVzbC4W"
     },
     {
       "album": {
@@ -1199,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "Lalele",
+        "url": "https://open.spotify.com/album/4y1jBOFhRMOvXQ7uKr8H4V"
+      },
+      "artists": [
+        {
+          "name": "Carla's Dreams",
+          "url": "https://open.spotify.com/artist/1n5LD9Ar3D6RK2X2ewGvXb"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226791,
+      "name": "Lalele",
+      "url": "https://open.spotify.com/track/0WxfUn0nvxIpHMRYKLHtYA"
+    },
+    {
+      "album": {
         "name": "Las-o a\u0219a",
         "url": "https://open.spotify.com/album/2flsDPjDVpyrv62IByLCcj"
       },
@@ -1294,7 +1352,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 178800,
       "name": "Luna \u0219i Stelele",
       "url": "https://open.spotify.com/track/56Oz8aheDELcGHiAEr4NSy"
@@ -1370,7 +1428,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 180000,
       "name": "Momentu\u2019",
       "url": "https://open.spotify.com/track/52kDCWnqVOwnU9weX3Khj7"
@@ -1701,6 +1759,24 @@
     },
     {
       "album": {
+        "name": "O nou\u0103 via\u021b\u0103",
+        "url": "https://open.spotify.com/album/2yKIVLtFm6v7fmCZIN7uqE"
+      },
+      "artists": [
+        {
+          "name": "Andrei Ursu",
+          "url": "https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "O nou\u0103 via\u021b\u0103",
+      "url": "https://open.spotify.com/track/0Ey8ZOPxPIzZjLLQzjlv5r"
+    },
+    {
+      "album": {
         "name": "O \u0219ans\u0103",
         "url": "https://open.spotify.com/album/5iEhZpaC3aM4hf4AFBrFqd"
       },
@@ -1934,7 +2010,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 204562,
       "name": "Plou\u0103 cu \u0219erve\u021bele",
       "url": "https://open.spotify.com/track/48DgeRTC8dVtUIw24o1RGD"
@@ -2108,7 +2184,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 171000,
       "name": "Scena vie\u021bii",
       "url": "https://open.spotify.com/track/76NVHK5VDIAyzqoQ5PlHRk"
@@ -2282,10 +2358,32 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 203195,
       "name": "Te strig",
       "url": "https://open.spotify.com/track/5JmvuBgj4ODK4pLH7NQVlb"
+    },
+    {
+      "album": {
+        "name": "TLS",
+        "url": "https://open.spotify.com/album/07dbbcAmgNGigoAIUpiQrp"
+      },
+      "artists": [
+        {
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+        },
+        {
+          "name": "Loredana",
+          "url": "https://open.spotify.com/artist/5aU8qm9nbrIaXO8ieyKlTa"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166417,
+      "name": "TLS",
+      "url": "https://open.spotify.com/track/3j8VKfpN2aDOQXvjjipWM4"
     },
     {
       "album": {
@@ -2369,6 +2467,24 @@
     },
     {
       "album": {
+        "name": "Ultima",
+        "url": "https://open.spotify.com/album/3Sl6dC3dAyRghTITCG89YD"
+      },
+      "artists": [
+        {
+          "name": "3 Sud Est",
+          "url": "https://open.spotify.com/artist/0niQ4Q9nI1Qh0BHpT3b4NC"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210007,
+      "name": "Ultima",
+      "url": "https://open.spotify.com/track/47uguUF6h9NSOLexfbrgep"
+    },
+    {
+      "album": {
         "name": "Ultima Balad\u0103",
         "url": "https://open.spotify.com/album/3X7P65KaLa4IgYe4eTTNT5"
       },
@@ -2402,7 +2518,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 118008,
       "name": "UNDEVA",
       "url": "https://open.spotify.com/track/3Puwiup8Zx3QecTPv7Cmnn"

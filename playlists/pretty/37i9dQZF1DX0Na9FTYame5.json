@@ -1,12 +1,12 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Monet192",
-  "num_followers": 585705,
+  "num_followers": 585682,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzIkwgAAAACnyagJgAvkUt6u5i130ifZ",
+  "snapshot_id": "ZzIkwgAAAAAcJFAiy8ybUIFmyBG19hnJ",
   "tracks": [
     {
       "added_at": "2024-11-11 15:37:38",
@@ -763,26 +763,6 @@
     {
       "added_at": "2024-11-11 15:37:38",
       "album": {
-        "name": "Happy ohne dich",
-        "url": "https://open.spotify.com/album/2lJ71g8MyDBA21XD06TiTV"
-      },
-      "artists": [
-        {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
-        },
-        {
-          "name": "Maxe",
-          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
-        }
-      ],
-      "duration_ms": 133846,
-      "name": "Happy ohne dich",
-      "url": "https://open.spotify.com/track/39RD5peOciUGQEHzYt3rJe"
-    },
-    {
-      "added_at": "2024-11-11 15:37:38",
-      "album": {
         "name": "Ich Liebe Dich",
         "url": "https://open.spotify.com/album/5t6CZCpZTS2hOVZLVEuvGa"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 155152,
       "name": "Ich Liebe Dich",
       "url": "https://open.spotify.com/track/2mVrSw1sSk3v8GanOZj9wF"
+    },
+    {
+      "added_at": "2024-11-11 15:37:38",
+      "album": {
+        "name": "Happy ohne dich",
+        "url": "https://open.spotify.com/album/2lJ71g8MyDBA21XD06TiTV"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        },
+        {
+          "name": "Maxe",
+          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
+        }
+      ],
+      "duration_ms": 133846,
+      "name": "Happy ohne dich",
+      "url": "https://open.spotify.com/track/39RD5peOciUGQEHzYt3rJe"
     },
     {
       "added_at": "2024-11-11 15:37:38",
@@ -1155,38 +1155,6 @@
     {
       "added_at": "2024-11-11 15:37:38",
       "album": {
-        "name": "Gott wei\u00df wie",
-        "url": "https://open.spotify.com/album/2S1CkjKoS2NFpx98IfoFIY"
-      },
-      "artists": [
-        {
-          "name": "C\u00c9LINE",
-          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
-        }
-      ],
-      "duration_ms": 142361,
-      "name": "Gott wei\u00df wie",
-      "url": "https://open.spotify.com/track/6Yr5PW6L7rZ47M6fzFlTTg"
-    },
-    {
-      "added_at": "2024-11-11 15:37:38",
-      "album": {
-        "name": "Ich brauche dich",
-        "url": "https://open.spotify.com/album/4dAv7gO2ACUpUV43hxflTN"
-      },
-      "artists": [
-        {
-          "name": "FANJI",
-          "url": "https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy"
-        }
-      ],
-      "duration_ms": 147973,
-      "name": "Ich brauche dich",
-      "url": "https://open.spotify.com/track/7qj80xIKTGfCS2JI0wzjtN"
-    },
-    {
-      "added_at": "2024-11-11 15:37:38",
-      "album": {
         "name": "Majestic",
         "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
       },
@@ -1207,6 +1175,22 @@
     {
       "added_at": "2024-11-11 15:37:38",
       "album": {
+        "name": "Ich brauche dich",
+        "url": "https://open.spotify.com/album/4dAv7gO2ACUpUV43hxflTN"
+      },
+      "artists": [
+        {
+          "name": "FANJI",
+          "url": "https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy"
+        }
+      ],
+      "duration_ms": 147973,
+      "name": "Ich brauche dich",
+      "url": "https://open.spotify.com/track/7qj80xIKTGfCS2JI0wzjtN"
+    },
+    {
+      "added_at": "2024-11-11 15:37:38",
+      "album": {
         "name": "Meilen",
         "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 139920,
       "name": "Meilen",
       "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
+    },
+    {
+      "added_at": "2024-11-11 15:37:38",
+      "album": {
+        "name": "Gott wei\u00df wie",
+        "url": "https://open.spotify.com/album/2S1CkjKoS2NFpx98IfoFIY"
+      },
+      "artists": [
+        {
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
+        }
+      ],
+      "duration_ms": 142361,
+      "name": "Gott wei\u00df wie",
+      "url": "https://open.spotify.com/track/6Yr5PW6L7rZ47M6fzFlTTg"
     },
     {
       "added_at": "2024-11-11 15:37:38",
@@ -1599,66 +1599,6 @@
     {
       "added_at": "2024-11-11 15:37:38",
       "album": {
-        "name": "BERETTA",
-        "url": "https://open.spotify.com/album/01Vdj2RKaAShfenS7e9wvh"
-      },
-      "artists": [
-        {
-          "name": "Farid Bang",
-          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
-        },
-        {
-          "name": "Capital Bra",
-          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
-        },
-        {
-          "name": "SANNA",
-          "url": "https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd"
-        }
-      ],
-      "duration_ms": 212006,
-      "name": "BERETTA",
-      "url": "https://open.spotify.com/track/5T8d11vkU2b3bIRSMIBrCC"
-    },
-    {
-      "added_at": "2024-11-11 15:37:38",
-      "album": {
-        "name": "1000 Sterne",
-        "url": "https://open.spotify.com/album/6v5nqgBpLAGyIWoL4KRGYc"
-      },
-      "artists": [
-        {
-          "name": "1986zig",
-          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
-        },
-        {
-          "name": "AYLIVA",
-          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
-        }
-      ],
-      "duration_ms": 123280,
-      "name": "1000 Sterne",
-      "url": "https://open.spotify.com/track/1WTWjnCrjwzktuY2UFGUx1"
-    },
-    {
-      "added_at": "2024-11-11 15:37:38",
-      "album": {
-        "name": "verstecken",
-        "url": "https://open.spotify.com/album/2PoecB4132E7hBtLC0uBgy"
-      },
-      "artists": [
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        }
-      ],
-      "duration_ms": 162975,
-      "name": "verstecken",
-      "url": "https://open.spotify.com/track/6LliQsJvqpEBrP1Bhf6HEw"
-    },
-    {
-      "added_at": "2024-11-11 15:37:38",
-      "album": {
         "name": "BOI",
         "url": "https://open.spotify.com/album/48xBOWLlBupgfhNKkErgDJ"
       },
@@ -1683,6 +1623,66 @@
     {
       "added_at": "2024-11-11 15:37:38",
       "album": {
+        "name": "BERETTA",
+        "url": "https://open.spotify.com/album/01Vdj2RKaAShfenS7e9wvh"
+      },
+      "artists": [
+        {
+          "name": "Farid Bang",
+          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
+        },
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "SANNA",
+          "url": "https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd"
+        }
+      ],
+      "duration_ms": 212006,
+      "name": "BERETTA",
+      "url": "https://open.spotify.com/track/5T8d11vkU2b3bIRSMIBrCC"
+    },
+    {
+      "added_at": "2024-11-11 15:37:38",
+      "album": {
+        "name": "verstecken",
+        "url": "https://open.spotify.com/album/2PoecB4132E7hBtLC0uBgy"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 162975,
+      "name": "verstecken",
+      "url": "https://open.spotify.com/track/6LliQsJvqpEBrP1Bhf6HEw"
+    },
+    {
+      "added_at": "2024-11-11 15:37:38",
+      "album": {
+        "name": "1000 Sterne",
+        "url": "https://open.spotify.com/album/6v5nqgBpLAGyIWoL4KRGYc"
+      },
+      "artists": [
+        {
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+        },
+        {
+          "name": "AYLIVA",
+          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
+        }
+      ],
+      "duration_ms": 123280,
+      "name": "1000 Sterne",
+      "url": "https://open.spotify.com/track/1WTWjnCrjwzktuY2UFGUx1"
+    },
+    {
+      "added_at": "2024-11-11 15:37:38",
+      "album": {
         "name": "sag was",
         "url": "https://open.spotify.com/album/2biK8sXdAObBs6oRqNpTEs"
       },
@@ -1699,6 +1699,22 @@
       "duration_ms": 202657,
       "name": "sag was",
       "url": "https://open.spotify.com/track/1phFx4XBj9VOSV5c8s4PQr"
+    },
+    {
+      "added_at": "2024-11-11 15:37:38",
+      "album": {
+        "name": "Ende der Strasse",
+        "url": "https://open.spotify.com/album/2FeJYliSXXAzXG3lO5XqFZ"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 156200,
+      "name": "Ende der Strasse",
+      "url": "https://open.spotify.com/track/3fl9kXdEeCFrs9ydRkNjVF"
     },
     {
       "added_at": "2024-11-11 15:37:38",
@@ -1723,18 +1739,22 @@
     {
       "added_at": "2024-11-11 15:37:38",
       "album": {
-        "name": "Ende der Strasse",
-        "url": "https://open.spotify.com/album/2FeJYliSXXAzXG3lO5XqFZ"
+        "name": "Panikwei\u00df",
+        "url": "https://open.spotify.com/album/759SIsxU0p4v2TJ2yrplV5"
       },
       "artists": [
         {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+          "name": "MAJAN",
+          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
+        },
+        {
+          "name": "Schmyt",
+          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
         }
       ],
-      "duration_ms": 156200,
-      "name": "Ende der Strasse",
-      "url": "https://open.spotify.com/track/3fl9kXdEeCFrs9ydRkNjVF"
+      "duration_ms": 170016,
+      "name": "Panikwei\u00df",
+      "url": "https://open.spotify.com/track/2sledoZeAbV6vtTo6HsrqG"
     },
     {
       "added_at": "2024-11-11 15:37:38",
@@ -1819,26 +1839,6 @@
     {
       "added_at": "2024-11-11 15:37:38",
       "album": {
-        "name": "Zeiten \u00e4ndern nichts (feat. Kool Savas)",
-        "url": "https://open.spotify.com/album/0q3LXCOcFj6Kdu1zNYQgKu"
-      },
-      "artists": [
-        {
-          "name": "1986zig",
-          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
-        },
-        {
-          "name": "Kool Savas",
-          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
-        }
-      ],
-      "duration_ms": 151026,
-      "name": "Zeiten \u00e4ndern nichts (feat. Kool Savas)",
-      "url": "https://open.spotify.com/track/2qlO9odnqUIVu8MMyhdmFY"
-    },
-    {
-      "added_at": "2024-11-11 15:37:38",
-      "album": {
         "name": "Mufasa",
         "url": "https://open.spotify.com/album/7gkyr2RLvlijFDtzXtXnz1"
       },
@@ -1855,22 +1855,22 @@
     {
       "added_at": "2024-11-11 15:37:38",
       "album": {
-        "name": "Panikwei\u00df",
-        "url": "https://open.spotify.com/album/759SIsxU0p4v2TJ2yrplV5"
+        "name": "Zeiten \u00e4ndern nichts (feat. Kool Savas)",
+        "url": "https://open.spotify.com/album/0q3LXCOcFj6Kdu1zNYQgKu"
       },
       "artists": [
         {
-          "name": "MAJAN",
-          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
         },
         {
-          "name": "Schmyt",
-          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
         }
       ],
-      "duration_ms": 170016,
-      "name": "Panikwei\u00df",
-      "url": "https://open.spotify.com/track/2sledoZeAbV6vtTo6HsrqG"
+      "duration_ms": 151026,
+      "name": "Zeiten \u00e4ndern nichts (feat. Kool Savas)",
+      "url": "https://open.spotify.com/track/2qlO9odnqUIVu8MMyhdmFY"
     },
     {
       "added_at": "2024-11-11 15:37:38",

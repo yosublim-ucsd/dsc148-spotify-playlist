@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcND7hNAhMeu.md) - [plain]
 
 > Geleceğin seslerini dinle! Kapak: <a href="spotify:artist:07eEGn8bSAJF9sUqeTtAmN">Baran Mengüç</a>, <a href="spotify:artist:4F85cxjAmlT0r7DZKu3ABX">Ceren Sagu</a>, <a href="spotify:artist:0nllPfFG95RzZnqdWLLDCD">Lotusx</a>, <a href="spotify:artist:2FkaZzzDTwnz1l1mK9DoT6">TUANA</a>, <a href="spotify:artist:71B1UV4HrPQk6TdNHM3h9h">Rana Türkyılmaz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,439 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,324 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcND7hNAhMeu.md) - [plain]
 | 35 | [İstemedim Hiç](https://open.spotify.com/track/2BEjilqxCgQi6W9tnwoSsW) | [Soner Han](https://open.spotify.com/artist/6rwdqGbhoOisi9wCeLKJs8) | [İstemedim Hiç](https://open.spotify.com/album/14NEYnXSR1wEJQYebUlGY5) | 2:53 |
 | 36 | [N'olur Gelsen](https://open.spotify.com/track/7gh5AmydKfR9wfTQOyRZrP) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [N'olur Gelsen](https://open.spotify.com/album/1LRfz2siYTDHkYfZNkGDEr) | 2:48 |
 | 37 | [Yanlışım Olma](https://open.spotify.com/track/3uwIKbE9iyhrmkzejA5gjT) | [Evden Uzak](https://open.spotify.com/artist/0vRq3n88TpLFrreBF9GmIh) | [Yanlışım Olma](https://open.spotify.com/album/64TzwFTOjHjsgXiq6f5wJA) | 3:26 |
-| 38 | [TELKİN](https://open.spotify.com/track/2A2y2qdwQaylXZBT2ctwJ5) | [Billur Battal](https://open.spotify.com/artist/3mWHQa3vlJRkvIyw87YFTu), [Arsan](https://open.spotify.com/artist/2t0HoK4ZvyYkVg58G6fvbZ) | [TELKİN](https://open.spotify.com/album/63E5fNUxgRcprFlkELgtVZ) | 3:14 |
+| 38 | [TELKİN](https://open.spotify.com/track/2A2y2qdwQaylXZBT2ctwJ5) | [Billur Battal](https://open.spotify.com/artist/3mWHQa3vlJRkvIyw87YFTu), [Valfi](https://open.spotify.com/artist/36UGIRe1bc27QQnLgym03q) | [TELKİN](https://open.spotify.com/album/63E5fNUxgRcprFlkELgtVZ) | 3:14 |
 | 39 | [Aldırma](https://open.spotify.com/track/23EQ6UrFPQCDT2eyQtCWvL) | [Aleyna Kalaycıoğlu](https://open.spotify.com/artist/3TKB1G75mSojFCZPks5KGJ) | [Aldırma](https://open.spotify.com/album/0rvOfWjSecdQrRCJivc5JN) | 2:26 |
 | 40 | [BELKİ](https://open.spotify.com/track/1oQ1gRCZQw5RGUmCrUcd6D) | [DOU](https://open.spotify.com/artist/2J8Nce1x2zTbkW3RCXCYtn) | [BELKİ](https://open.spotify.com/album/5KDcJ564cJUCIrZiU8BTKk) | 2:16 |
 | 41 | [Geri Ver](https://open.spotify.com/track/4pCEueB6H48Ge1vPEecj3b) | [Furkan Halıcı](https://open.spotify.com/artist/6W1El4pLfVxwgMnAqfX4O7) | [Geri Ver](https://open.spotify.com/album/1JUJFvRGs0GJhFOsudsP2W) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcND7hNAhMeu.md) - [plain]
 | 49 | [Yine Seni Severim](https://open.spotify.com/track/1cwaAXBp74JnMXBOdhLfjD) | [Tolga Ayaz](https://open.spotify.com/artist/7G2ZpX14n32mQ9k61IdLmY) | [Yine Seni Severim](https://open.spotify.com/album/0h3PL3HJJ8bw4qqSWF9gAn) | 3:13 |
 | 50 | [Durdurulmaz](https://open.spotify.com/track/5XO60bjTDzUdxPnHrnWbu8) | [Belki Biraz](https://open.spotify.com/artist/447yNY9cW9O0mMJ7B5QObd) | [Durdurulmaz](https://open.spotify.com/album/65lrcxD38SIHlYWYOOiIAh) | 3:42 |
 
-Snapshot ID: `ZytHiQAAAAA7lqWeEoqik0ZbUPFyjYDy`
+Snapshot ID: `ZytHiQAAAACFNRTk7sD1AHh6A4NV2S8y`

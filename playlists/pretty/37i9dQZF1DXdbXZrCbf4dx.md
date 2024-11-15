@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXZrCbf4dx.md) - [plain]
 
 > Music from "Ranking of Kings" /「王様ランキング」の楽曲を1つのプレイリストで。© 十日草輔・KADOKAWA刊／アニメ「王様ランキング 勇気の宝箱」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,837 likes - 40 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,843 likes - 40 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXZrCbf4dx.md) - [plain]
 | 34 | [剣王の戦い方](https://open.spotify.com/track/0SMHWFULPThxDPLSmzsIAT) | [MAYUKO](https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL) | [「王様ランキング 勇気の宝箱」オリジナルサウンドトラック](https://open.spotify.com/album/4iCgluNQOh6oojlvcfjmc8) | 1:57 |
 | 35 | [代償](https://open.spotify.com/track/3xwtCigmVhqWN1SX1cly0d) | [MAYUKO](https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL) | [「王様ランキング 勇気の宝箱」オリジナルサウンドトラック](https://open.spotify.com/album/4iCgluNQOh6oojlvcfjmc8) | 1:51 |
 | 36 | [カゲはお人好し](https://open.spotify.com/track/3ghS0PxQk7vkppEWIDCcJk) | [MAYUKO](https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL) | [「王様ランキング 勇気の宝箱」オリジナルサウンドトラック](https://open.spotify.com/album/4iCgluNQOh6oojlvcfjmc8) | 1:39 |
-| 37 | [胡散臭いぞ?](https://open.spotify.com/track/1Lf5s1JiTIAEd6A5AsxSXV) | [MAYUKO](https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL) | [「王様ランキング 勇気の宝箱」オリジナルサウンドトラック](https://open.spotify.com/album/4iCgluNQOh6oojlvcfjmc8) | 1:29 |
+| 37 | [胡散臭いぞ？](https://open.spotify.com/track/1Lf5s1JiTIAEd6A5AsxSXV) | [MAYUKO](https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL) | [「王様ランキング 勇気の宝箱」オリジナルサウンドトラック](https://open.spotify.com/album/4iCgluNQOh6oojlvcfjmc8) | 1:29 |
 | 38 | [オウケンの憤り](https://open.spotify.com/track/41z8enfi8rYIPnS5GWCj4m) | [MAYUKO](https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL) | [「王様ランキング 勇気の宝箱」オリジナルサウンドトラック](https://open.spotify.com/album/4iCgluNQOh6oojlvcfjmc8) | 1:38 |
 | 39 | [この国の未来のために](https://open.spotify.com/track/0bOK0moAbNLZ7jAoiQFLKe) | [MAYUKO](https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL) | [「王様ランキング 勇気の宝箱」オリジナルサウンドトラック](https://open.spotify.com/album/4iCgluNQOh6oojlvcfjmc8) | 2:06 |
 | 40 | [小さかったあの頃](https://open.spotify.com/track/31aoDsr3aufeDF9V2yxWcR) | [MAYUKO](https://open.spotify.com/artist/0DaPPhbajdbIWfFVC8G1OL) | [「王様ランキング 勇気の宝箱」オリジナルサウンドトラック](https://open.spotify.com/album/4iCgluNQOh6oojlvcfjmc8) | 1:59 |
 
-Snapshot ID: `ZsNB0AAAAACgcMZsfsJWKXYzmUnxNLSK`
+Snapshot ID: `ZsNB0AAAAABu6p4mHoO40OWqaiZY0Fam`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: DoFlame
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,980 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,987 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Wallflower](https://open.spotify.com/track/4uzPfhoVU3Dp9lANiOZtDu) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Wallflower](https://open.spotify.com/album/3hKcxfrvnSiqyqqlzEvcHS) | 2:21 |
 | 50 | [Hope U Find](https://open.spotify.com/track/5vS2MTI8r3DcjSfz4U3A8e) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [Hope U Find](https://open.spotify.com/album/7BgcpFE0IaaVY2rnAfszlF) | 2:51 |
 
-Snapshot ID: `Zy2a0AAAAACkZ04/r9nubuZsUDCYa/KL`
+Snapshot ID: `Zy2a0AAAAABxNk7xntrZkFLQARvpRirU`

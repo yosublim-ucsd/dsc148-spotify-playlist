@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Tiscore, 89ers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,847,363 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,847,432 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Butzemann](https://open.spotify.com/track/02f3D5d3XZw3icIBVvgYb6) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [NoooN](https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X) | [Butzemann](https://open.spotify.com/album/0HwqPFr3m75mcNTP2eJ2pp) | 2:40 |
 | 50 | [Enjoy the Silence](https://open.spotify.com/track/6JjSReyiX0pm6PkdqjP8nB) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Maurice Lessing](https://open.spotify.com/artist/6Y4NTIEU6tHHoxM3s0FO4r), [RELOVA](https://open.spotify.com/artist/2Q5CZXc158WHwKp1rYOfSn) | [Enjoy the Silence](https://open.spotify.com/album/4BRmWsSzXnjit1n43RxhD8) | 3:41 |
 
-Snapshot ID: `ZzRs/wAAAAB6V0zS+H4mqZLpmf+x9gzT`
+Snapshot ID: `ZzRs/wAAAABuIG8QcBJ6MvDcUQkLo3o2`

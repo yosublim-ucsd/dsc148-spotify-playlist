@@ -1,47 +1,79 @@
 {
-  "description": "\"Tu vas me quitter encore longtemps ?\" d'Hoshi est le Grand Hit de la semaine.",
-  "num_followers": 1014387,
+  "description": "\"Sans toi\" de Lenie est le Grand Hit de la semaine.",
+  "num_followers": 1014397,
   "original_name": "Grand Hit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy1GcAAAAAAYOc1ukPEFg37s7zIKNnYh",
+  "snapshot_id": "ZzaA8AAAAABUAklZJy3hlpMmpdUZG6Dj",
   "tracks": [
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Tu vas me quitter encore longtemps ?",
-        "url": "https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR"
+        "name": "Sans toi",
+        "url": "https://open.spotify.com/album/6XRgeirorxvr1SNfZGcnVI"
       },
       "artists": [
         {
-          "name": "Hoshi",
-          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+          "name": "Lenie",
+          "url": "https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF"
         }
       ],
-      "duration_ms": 231213,
-      "name": "Tu vas me quitter encore longtemps ?",
-      "url": "https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh"
+      "duration_ms": 214807,
+      "name": "Sans toi",
+      "url": "https://open.spotify.com/track/6o7M2MVp3DrPGJcR3ZHRsv"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Ton regard",
-        "url": "https://open.spotify.com/album/1988pIjDPXPRwSLJQHIKvH"
+        "name": "T'en aller",
+        "url": "https://open.spotify.com/album/00nbP0PHv8JjqtS82B1hYN"
       },
       "artists": [
         {
-          "name": "Joseph Kamel",
-          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
         }
       ],
-      "duration_ms": 153266,
-      "name": "Ton regard",
-      "url": "https://open.spotify.com/track/4FrlgpyAzw4a3gErecQqUO"
+      "duration_ms": 191655,
+      "name": "T'en aller",
+      "url": "https://open.spotify.com/track/59MVdyazjn9ExcL2C8xuTY"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
+        "url": "https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 229939,
+      "name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
+      "url": "https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "CIEL",
+        "url": "https://open.spotify.com/album/6qU5xBM7guK1Gwb3LTLufL"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "CIEL",
+      "url": "https://open.spotify.com/track/78FNSZkI1968KTtyf2s315"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Recommence-moi",
         "url": "https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y"
@@ -57,7 +89,7 @@
       "url": "https://open.spotify.com/track/40dY4995mT1ZJAD0lyDkST"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Si seulement...",
         "url": "https://open.spotify.com/album/2HCm7GfuJdM5wrhpkosFV2"
@@ -73,23 +105,55 @@
       "url": "https://open.spotify.com/track/26h53EWKImRbyo9vO6FB59"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Pas de seum pour le summer",
-        "url": "https://open.spotify.com/album/3vgEOmPIh31vdESnU8CtYA"
+        "name": "Je pense \u00e0 vous",
+        "url": "https://open.spotify.com/album/0zTLRs6F2UXlju8OkmGAc4"
       },
       "artists": [
         {
-          "name": "Helena",
-          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+          "name": "Linh",
+          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
         }
       ],
-      "duration_ms": 179866,
-      "name": "Summer Body",
-      "url": "https://open.spotify.com/track/2jg0zwe6fa4oWjzy1EvcWg"
+      "duration_ms": 172263,
+      "name": "Je pense \u00e0 vous",
+      "url": "https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Ton regard",
+        "url": "https://open.spotify.com/album/1988pIjDPXPRwSLJQHIKvH"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        }
+      ],
+      "duration_ms": 153266,
+      "name": "Ton regard",
+      "url": "https://open.spotify.com/track/4FrlgpyAzw4a3gErecQqUO"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Tu vas me quitter encore longtemps ?",
+        "url": "https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "duration_ms": 231213,
+      "name": "Tu vas me quitter encore longtemps ?",
+      "url": "https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Chaque seconde (feat. M. Pokora)",
         "url": "https://open.spotify.com/album/6tksgNrY872kjEs4q2v3Um"
@@ -109,135 +173,23 @@
       "url": "https://open.spotify.com/track/1pnzctM9itTsKupaQWDQwe"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Je pense \u00e0 vous",
-        "url": "https://open.spotify.com/album/0zTLRs6F2UXlju8OkmGAc4"
+        "name": "Pas de seum pour le summer",
+        "url": "https://open.spotify.com/album/3vgEOmPIh31vdESnU8CtYA"
       },
       "artists": [
         {
-          "name": "Linh",
-          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
         }
       ],
-      "duration_ms": 172263,
-      "name": "Je pense \u00e0 vous",
-      "url": "https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX"
+      "duration_ms": 179866,
+      "name": "Summer Body",
+      "url": "https://open.spotify.com/track/2jg0zwe6fa4oWjzy1EvcWg"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "T'en aller",
-        "url": "https://open.spotify.com/album/00nbP0PHv8JjqtS82B1hYN"
-      },
-      "artists": [
-        {
-          "name": "Claudio Cap\u00e9o",
-          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
-        }
-      ],
-      "duration_ms": 191655,
-      "name": "T'en aller",
-      "url": "https://open.spotify.com/track/59MVdyazjn9ExcL2C8xuTY"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Avec un H",
-        "url": "https://open.spotify.com/album/5MKuByPteUpw5FLpGfVPR5"
-      },
-      "artists": [
-        {
-          "name": "Maheva",
-          "url": "https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz"
-        }
-      ],
-      "duration_ms": 143331,
-      "name": "La vie n'attend pas",
-      "url": "https://open.spotify.com/track/2Y7b1M2BRPtyXR8Py3w4Zx"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
-        "url": "https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 229939,
-      "name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
-      "url": "https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Merveille",
-        "url": "https://open.spotify.com/album/5VSUcPO9tV48OXEescmNG7"
-      },
-      "artists": [
-        {
-          "name": "Jean-Louis Aubert",
-          "url": "https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs"
-        }
-      ],
-      "duration_ms": 205228,
-      "name": "Merveille",
-      "url": "https://open.spotify.com/track/0NuqaUaWYvsd9bbPkeC7YV"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Le chant des cygnes",
-        "url": "https://open.spotify.com/album/66tfL8ySR7cx4YAlGo54a3"
-      },
-      "artists": [
-        {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
-        }
-      ],
-      "duration_ms": 217386,
-      "name": "Le chant des cygnes - Single Version",
-      "url": "https://open.spotify.com/track/76cAQOMWaqiRAoi6SgggNo"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/4PgjK4gAk0R7d4pUTURMvz"
-      },
-      "artists": [
-        {
-          "name": "RIDSA",
-          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
-        }
-      ],
-      "duration_ms": 136185,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/6rbgsiBe28janVH7ysQO3a"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Elo\u00efz",
-        "url": "https://open.spotify.com/album/4ObYKveQSgGAkso5gHUHfp"
-      },
-      "artists": [
-        {
-          "name": "Elo\u00efz",
-          "url": "https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t"
-        }
-      ],
-      "duration_ms": 149546,
-      "name": "C'est \u00e7a la vie",
-      "url": "https://open.spotify.com/track/6e4r8NwrEH18d9lNF3eVby"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Ensemble (Radio Edit)",
         "url": "https://open.spotify.com/album/0KAc9578FWtoMFmv78oZKu"
@@ -253,7 +205,7 @@
       "url": "https://open.spotify.com/track/73G5Qtfwq7lSFR9MlpQDlj"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Faut que tu m'aimes",
         "url": "https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7"
@@ -269,155 +221,7 @@
       "url": "https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Nous on sait",
-        "url": "https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx"
-      },
-      "artists": [
-        {
-          "name": "Pierre Garnier",
-          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "Nous on sait",
-      "url": "https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "La symphonie des \u00e9clairs",
-        "url": "https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW"
-      },
-      "artists": [
-        {
-          "name": "Zaho de Sagazan",
-          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
-        }
-      ],
-      "duration_ms": 198789,
-      "name": "La symphonie des \u00e9clairs",
-      "url": "https://open.spotify.com/track/4QIH0XYnCLoCl1WZIV08Pn"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Toutes les femmes de ta vie",
-        "url": "https://open.spotify.com/album/6ssnzGVbWrn8zssfMS3Aol"
-      },
-      "artists": [
-        {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
-        }
-      ],
-      "duration_ms": 234173,
-      "name": "Toutes les femmes de ta vie",
-      "url": "https://open.spotify.com/track/4FCPmgBL7GBcSmhC2cxKEb"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Charlotte",
-        "url": "https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9"
-      },
-      "artists": [
-        {
-          "name": "Vitaa",
-          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
-        }
-      ],
-      "duration_ms": 158066,
-      "name": "Ton amoureuse",
-      "url": "https://open.spotify.com/track/3GlDnq2U3v4cWdTYDWfw65"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Comment tu vas ?",
-        "url": "https://open.spotify.com/album/0XgNTa4jdLxcmbE4AGp1kM"
-      },
-      "artists": [
-        {
-          "name": "Elo\u00efz",
-          "url": "https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t"
-        },
-        {
-          "name": "RIDSA",
-          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
-        }
-      ],
-      "duration_ms": 176467,
-      "name": "Comment tu vas ?",
-      "url": "https://open.spotify.com/track/0pE2J5ZvVckFsTQGqZZDdt"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Comment tu fais \u00e7a ?",
-        "url": "https://open.spotify.com/album/4uenXkbXhN2VCgvkp2uoOo"
-      },
-      "artists": [
-        {
-          "name": "Eko Eko",
-          "url": "https://open.spotify.com/artist/3cxkXrcBFcbFgTmrvG6rOY"
-        }
-      ],
-      "duration_ms": 181162,
-      "name": "Comment tu fais \u00e7a ?",
-      "url": "https://open.spotify.com/track/7zDcBYvKt0xN33bNY7OOyX"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "L'id\u00e9e de toi",
-        "url": "https://open.spotify.com/album/55r8lz3hQkCVjOUd2u30Yf"
-      },
-      "artists": [
-        {
-          "name": "Satine",
-          "url": "https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B"
-        }
-      ],
-      "duration_ms": 122117,
-      "name": "L'id\u00e9e de toi",
-      "url": "https://open.spotify.com/track/6RfkKFLWWTKslcXvnOm4T9"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "R\u00e9sister (What about Peace?)",
-        "url": "https://open.spotify.com/album/3lrK6iynnWj1oO1fONiQ9I"
-      },
-      "artists": [
-        {
-          "name": "Slimane",
-          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "R\u00e9sister (What about Peace?)",
-      "url": "https://open.spotify.com/track/46fePeAZ2ui3QHDoGxpDMx"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "la pluie",
-        "url": "https://open.spotify.com/album/13N4j77R6XsNHGwwtl6npd"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 161375,
-      "name": "la pluie",
-      "url": "https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Compl\u00e9mentaires",
         "url": "https://open.spotify.com/album/5D06Ps9NI6YjURP8W81xde"
@@ -433,59 +237,23 @@
       "url": "https://open.spotify.com/track/0Td2ZM1GoIj8SJ3IITcehD"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Ma ch\u00e9rie",
-        "url": "https://open.spotify.com/album/12SKaGibhGHQ091b1Iqgdz"
+        "name": "L'id\u00e9e de toi",
+        "url": "https://open.spotify.com/album/55r8lz3hQkCVjOUd2u30Yf"
       },
       "artists": [
         {
-          "name": "St\u00e9phane",
-          "url": "https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif"
+          "name": "Satine",
+          "url": "https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B"
         }
       ],
-      "duration_ms": 181388,
-      "name": "Ma ch\u00e9rie",
-      "url": "https://open.spotify.com/track/6HP89eE4a0PQv0emwrstu2"
+      "duration_ms": 122117,
+      "name": "L'id\u00e9e de toi",
+      "url": "https://open.spotify.com/track/6RfkKFLWWTKslcXvnOm4T9"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Moi c'est Jeck",
-        "url": "https://open.spotify.com/album/5IA4BoY6B9rGNTNMAJnXZj"
-      },
-      "artists": [
-        {
-          "name": "Jeck",
-          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
-        }
-      ],
-      "duration_ms": 176306,
-      "name": "Immortel",
-      "url": "https://open.spotify.com/track/18yOklwm2I8X5VJ0wGVeQP"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "En \u00e9quipe",
-        "url": "https://open.spotify.com/album/5zIcjorc0ObGwvSoUl7p4a"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        },
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        }
-      ],
-      "duration_ms": 206973,
-      "name": "En \u00e9quipe (feat. Vacra)",
-      "url": "https://open.spotify.com/track/0cP0V18rkyNvIjoVc5wY3N"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Gamins des sables",
         "url": "https://open.spotify.com/album/7i6lctPeWsgOFi2YecT4tG"
@@ -501,23 +269,215 @@
       "url": "https://open.spotify.com/track/0dzdbXvbbHNTiPkaNPgZLf"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Il \u00e9tait une fois",
-        "url": "https://open.spotify.com/album/6C8PoyDBrHfl7DQ7ZrLo6l"
+        "name": "la pluie",
+        "url": "https://open.spotify.com/album/13N4j77R6XsNHGwwtl6npd"
       },
       "artists": [
         {
-          "name": "Ouidad",
-          "url": "https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El"
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
         }
       ],
-      "duration_ms": 198637,
-      "name": "Quitte",
-      "url": "https://open.spotify.com/track/0dYX1WMinCmUTwkRY7WEC4"
+      "duration_ms": 161375,
+      "name": "la pluie",
+      "url": "https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/4PgjK4gAk0R7d4pUTURMvz"
+      },
+      "artists": [
+        {
+          "name": "RIDSA",
+          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
+        }
+      ],
+      "duration_ms": 136185,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/6rbgsiBe28janVH7ysQO3a"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Elo\u00efz",
+        "url": "https://open.spotify.com/album/4ObYKveQSgGAkso5gHUHfp"
+      },
+      "artists": [
+        {
+          "name": "Elo\u00efz",
+          "url": "https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t"
+        }
+      ],
+      "duration_ms": 149546,
+      "name": "C'est \u00e7a la vie",
+      "url": "https://open.spotify.com/track/6e4r8NwrEH18d9lNF3eVby"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Nous on sait",
+        "url": "https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "Nous on sait",
+      "url": "https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Avec un H",
+        "url": "https://open.spotify.com/album/5MKuByPteUpw5FLpGfVPR5"
+      },
+      "artists": [
+        {
+          "name": "Maheva",
+          "url": "https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz"
+        }
+      ],
+      "duration_ms": 143331,
+      "name": "La vie n'attend pas",
+      "url": "https://open.spotify.com/track/2Y7b1M2BRPtyXR8Py3w4Zx"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Moi c'est Jeck",
+        "url": "https://open.spotify.com/album/5IA4BoY6B9rGNTNMAJnXZj"
+      },
+      "artists": [
+        {
+          "name": "Jeck",
+          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
+        }
+      ],
+      "duration_ms": 176306,
+      "name": "Immortel",
+      "url": "https://open.spotify.com/track/18yOklwm2I8X5VJ0wGVeQP"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Charlotte",
+        "url": "https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "duration_ms": 158066,
+      "name": "Ton amoureuse",
+      "url": "https://open.spotify.com/track/3GlDnq2U3v4cWdTYDWfw65"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "La symphonie des \u00e9clairs",
+        "url": "https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        }
+      ],
+      "duration_ms": 198789,
+      "name": "La symphonie des \u00e9clairs",
+      "url": "https://open.spotify.com/track/4QIH0XYnCLoCl1WZIV08Pn"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Toutes les femmes de ta vie",
+        "url": "https://open.spotify.com/album/6ssnzGVbWrn8zssfMS3Aol"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "duration_ms": 234173,
+      "name": "Toutes les femmes de ta vie",
+      "url": "https://open.spotify.com/track/4FCPmgBL7GBcSmhC2cxKEb"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "R\u00e9sister (What about Peace?)",
+        "url": "https://open.spotify.com/album/3lrK6iynnWj1oO1fONiQ9I"
+      },
+      "artists": [
+        {
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "R\u00e9sister (What about Peace?)",
+      "url": "https://open.spotify.com/track/46fePeAZ2ui3QHDoGxpDMx"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Comment tu fais \u00e7a ?",
+        "url": "https://open.spotify.com/album/4uenXkbXhN2VCgvkp2uoOo"
+      },
+      "artists": [
+        {
+          "name": "Eko Eko",
+          "url": "https://open.spotify.com/artist/3cxkXrcBFcbFgTmrvG6rOY"
+        }
+      ],
+      "duration_ms": 181162,
+      "name": "Comment tu fais \u00e7a ?",
+      "url": "https://open.spotify.com/track/7zDcBYvKt0xN33bNY7OOyX"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Ma ch\u00e9rie",
+        "url": "https://open.spotify.com/album/12SKaGibhGHQ091b1Iqgdz"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phane",
+          "url": "https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif"
+        }
+      ],
+      "duration_ms": 181388,
+      "name": "Ma ch\u00e9rie",
+      "url": "https://open.spotify.com/track/6HP89eE4a0PQv0emwrstu2"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "On est plein",
+        "url": "https://open.spotify.com/album/3RaPUwYRoMim1mYm7si46l"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9man",
+          "url": "https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ"
+        }
+      ],
+      "duration_ms": 146253,
+      "name": "On est plein",
+      "url": "https://open.spotify.com/track/2ICuCWhGgRjDrwWwLU6BZL"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Trop t\u00f4t",
         "url": "https://open.spotify.com/album/0b1MHM0bqn9ovncFVQs49z"
@@ -533,23 +493,7 @@
       "url": "https://open.spotify.com/track/5jIXED6iAgytXBQSmkyhGc"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Par nous-m\u00eames",
-        "url": "https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA"
-      },
-      "artists": [
-        {
-          "name": "Carbonne",
-          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Bene",
-      "url": "https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Tout pour moi",
         "url": "https://open.spotify.com/album/76RWA8RdhYOHnqDTgRptOl"
@@ -565,7 +509,39 @@
       "url": "https://open.spotify.com/track/0lWVNLcBpzwzeH67Cv3QOp"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Le chant des cygnes",
+        "url": "https://open.spotify.com/album/66tfL8ySR7cx4YAlGo54a3"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "duration_ms": 217386,
+      "name": "Le chant des cygnes - Single Version",
+      "url": "https://open.spotify.com/track/76cAQOMWaqiRAoi6SgggNo"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Merveille",
+        "url": "https://open.spotify.com/album/5VSUcPO9tV48OXEescmNG7"
+      },
+      "artists": [
+        {
+          "name": "Jean-Louis Aubert",
+          "url": "https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs"
+        }
+      ],
+      "duration_ms": 205228,
+      "name": "Merveille",
+      "url": "https://open.spotify.com/track/0NuqaUaWYvsd9bbPkeC7YV"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Seul au monde (feat. Soolking)",
         "url": "https://open.spotify.com/album/6FDNPF6pWDiunpZicIU2fa"
@@ -585,55 +561,59 @@
       "url": "https://open.spotify.com/track/0KrYHoN0qRDv4IO9EDP6gX"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "On est plein",
-        "url": "https://open.spotify.com/album/3RaPUwYRoMim1mYm7si46l"
+        "name": "Comment tu vas ?",
+        "url": "https://open.spotify.com/album/0XgNTa4jdLxcmbE4AGp1kM"
       },
       "artists": [
         {
-          "name": "L\u00e9man",
-          "url": "https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ"
+          "name": "Elo\u00efz",
+          "url": "https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t"
+        },
+        {
+          "name": "RIDSA",
+          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
         }
       ],
-      "duration_ms": 146253,
-      "name": "On est plein",
-      "url": "https://open.spotify.com/track/2ICuCWhGgRjDrwWwLU6BZL"
+      "duration_ms": 176467,
+      "name": "Comment tu vas ?",
+      "url": "https://open.spotify.com/track/0pE2J5ZvVckFsTQGqZZDdt"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Sans toi",
-        "url": "https://open.spotify.com/album/6XRgeirorxvr1SNfZGcnVI"
+        "name": "Par nous-m\u00eames",
+        "url": "https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA"
       },
       "artists": [
         {
-          "name": "Lenie",
-          "url": "https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF"
+          "name": "Carbonne",
+          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
         }
       ],
-      "duration_ms": 214807,
-      "name": "Sans toi",
-      "url": "https://open.spotify.com/track/6o7M2MVp3DrPGJcR3ZHRsv"
+      "duration_ms": 193200,
+      "name": "Bene",
+      "url": "https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
-        "name": "Curriculum Vitae",
-        "url": "https://open.spotify.com/album/1dLy2Ga5RBZJXqx9pGVVbF"
+        "name": "Il \u00e9tait une fois",
+        "url": "https://open.spotify.com/album/6C8PoyDBrHfl7DQ7ZrLo6l"
       },
       "artists": [
         {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs"
+          "name": "Ouidad",
+          "url": "https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El"
         }
       ],
-      "duration_ms": 211255,
-      "name": "Madame",
-      "url": "https://open.spotify.com/track/3jVyvWR2utzufpdw2ZoHkT"
+      "duration_ms": 198637,
+      "name": "Quitte",
+      "url": "https://open.spotify.com/track/0dYX1WMinCmUTwkRY7WEC4"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "Tout ira bien",
         "url": "https://open.spotify.com/album/4I0IDPYWMSVOwBCmhSxnuj"
@@ -649,7 +629,7 @@
       "url": "https://open.spotify.com/track/6khbmpr97wNMcU7wa9uE4E"
     },
     {
-      "added_at": "2024-11-07 23:00:00",
+      "added_at": "2024-11-14 23:00:00",
       "album": {
         "name": "\u00d4 travers",
         "url": "https://open.spotify.com/album/4ONcUIWMX3t41Aju8oQCr9"
@@ -663,6 +643,22 @@
       "duration_ms": 161912,
       "name": "\u00d4 travers",
       "url": "https://open.spotify.com/track/2GK0yEfMHJg7pXloAtVQSb"
+    },
+    {
+      "added_at": "2024-11-14 23:00:00",
+      "album": {
+        "name": "Curriculum Vitae",
+        "url": "https://open.spotify.com/album/1dLy2Ga5RBZJXqx9pGVVbF"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs"
+        }
+      ],
+      "duration_ms": 211255,
+      "name": "Madame",
+      "url": "https://open.spotify.com/track/3jVyvWR2utzufpdw2ZoHkT"
     }
   ],
   "unique_name": "Grand Hit",

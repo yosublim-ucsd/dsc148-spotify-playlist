@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > Fresh new music by independent artists and labels, featuring Neto Becerra Updates every Wednesday
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,762 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,780 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 79 | [Ya Me La Sé](https://open.spotify.com/track/7dzYmvrC2TKIgAoRTkinMZ) | [Angelina Victoria](https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL) | [Ya Me La Sé](https://open.spotify.com/album/6wo8Aa48ArztIxHyjvHyaH) | 2:39 |
 | 80 | [Que No Me Faltes Tu](https://open.spotify.com/track/48hTXrjbMzawf9L1HHZns2) | [Edgar Alejandro](https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri) | [Que No Me Faltes Tu](https://open.spotify.com/album/5aEszkNkmKR87TFAV6E1I5) | 3:24 |
 
-Snapshot ID: `Zy6Z9gAAAADTD5MiaiBSAwyB+zVrOqPk`
+Snapshot ID: `Zy6Z9gAAAABGH4WjAtYgDe1WjjC9rRQD`

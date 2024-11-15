@@ -12109,6 +12109,32 @@
     },
     {
       "album": {
+        "name": "Thanks",
+        "url": "https://open.spotify.com/album/6I6ZR4qurPXJLhmsHKBpz1"
+      },
+      "artists": [
+        {
+          "name": "Lively",
+          "url": "https://open.spotify.com/artist/18nz1a1XnTU1vKLqsGzgKa"
+        },
+        {
+          "name": "Mati Troglia",
+          "url": "https://open.spotify.com/artist/0AeSX3EccdQA1NALPJye0E"
+        },
+        {
+          "name": "Anna-Sophia Henry",
+          "url": "https://open.spotify.com/artist/7eMgHO3ZOlcpWKM3OFnnS8"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134285,
+      "name": "Thanks",
+      "url": "https://open.spotify.com/track/5vvOIzEOE9ZaeMiipJnH5P"
+    },
+    {
+      "album": {
         "name": "That Could Be Us",
         "url": "https://open.spotify.com/album/17Z8BUgk8JdLKb44JZROU6"
       },

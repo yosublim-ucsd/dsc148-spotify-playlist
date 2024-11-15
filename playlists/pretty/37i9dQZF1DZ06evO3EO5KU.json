@@ -1,12 +1,12 @@
 {
   "description": "This is Los Plebes del Rancho de Ariel Camacho. The essential tracks, all in one playlist.",
-  "num_followers": 157543,
+  "num_followers": 157584,
   "original_name": "This Is Los Plebes del Rancho de Ariel Camacho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzKagAAAAABiXu2DtK1jLLpHTb6/vRav",
+  "snapshot_id": "ZzPsAAAAAAB4wSloRJHuCYVmJJ8BmeHD",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 146790,
+      "name": "Con Palabras Sencillas",
+      "url": "https://open.spotify.com/track/0uedFJSnQfc6uw7mXbTc7g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recordando A Una Leyenda",
         "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 227986,
       "name": "El Rey De Corazones",
       "url": "https://open.spotify.com/track/2ICYrKS9mBUgV0yp3S5rWM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 146790,
-      "name": "Con Palabras Sencillas",
-      "url": "https://open.spotify.com/track/0uedFJSnQfc6uw7mXbTc7g"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entre Cuerdas y Recuerdos (En Vivo)",
+        "url": "https://open.spotify.com/album/0PRUW6gyaSHBNAep6I4EQV"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 209565,
+      "name": "Yo Ya Sabia Pa' Donde Iba - En Vivo",
+      "url": "https://open.spotify.com/track/7fbN1oIzqmdNmotd0GhpPv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recordando A Una Leyenda",
         "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 291720,
       "name": "Yo Quisiera Entrar",
       "url": "https://open.spotify.com/track/5sbnGS8meG63nqxeihnAQv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entre Cuerdas y Recuerdos (En Vivo)",
-        "url": "https://open.spotify.com/album/0PRUW6gyaSHBNAep6I4EQV"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 209565,
-      "name": "Yo Ya Sabia Pa' Donde Iba - En Vivo",
-      "url": "https://open.spotify.com/track/7fbN1oIzqmdNmotd0GhpPv"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00edganle A Mi Ex",
-        "url": "https://open.spotify.com/album/0t0rQcO5MICiLAjTwVZZbn"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 180659,
-      "name": "D\u00edganle A Mi Ex",
-      "url": "https://open.spotify.com/track/3wAB6BoHzcy4OQg040Jydm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una M\u00e1s Desde el Llano 1ra. Funci\u00f3n (En Vivo)",
         "url": "https://open.spotify.com/album/445QAYvPjeVuxZ4a1yztc8"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 183574,
       "name": "Hablemos - En Vivo",
       "url": "https://open.spotify.com/track/1dGDAgXnqtOdZElH0QoMMu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00edganle A Mi Ex",
+        "url": "https://open.spotify.com/album/0t0rQcO5MICiLAjTwVZZbn"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 180659,
+      "name": "D\u00edganle A Mi Ex",
+      "url": "https://open.spotify.com/track/3wAB6BoHzcy4OQg040Jydm"
     },
     {
       "added_at": null,
@@ -731,6 +731,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rey de Corazones (En Vivo)",
+        "url": "https://open.spotify.com/album/0VAAZsQ8EOTxchWZ4v4sjR"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Barron",
+          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 224260,
+      "name": "Rey de Corazones - En Vivo",
+      "url": "https://open.spotify.com/track/0yJqHRmryTQI4MB4xTmE2B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Versos De Muel",
         "url": "https://open.spotify.com/album/5xM2wgz9pBT3E9ohuJOY8a"
       },
@@ -755,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EN VIVO con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa (En Vivo)",
-        "url": "https://open.spotify.com/album/0FLKfCwVfCW9GKHBlrPm0s"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 169214,
-      "name": "El Mencho - En Vivo",
-      "url": "https://open.spotify.com/track/2Za9V65HXmc5QD3IVhe0lR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre Cuerdas y Recuerdos (En Vivo)",
         "url": "https://open.spotify.com/album/0PRUW6gyaSHBNAep6I4EQV"
       },
@@ -787,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EN VIVO con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa (En Vivo)",
+        "url": "https://open.spotify.com/album/0FLKfCwVfCW9GKHBlrPm0s"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 169214,
+      "name": "El Mencho - En Vivo",
+      "url": "https://open.spotify.com/track/2Za9V65HXmc5QD3IVhe0lR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor Pasajero",
         "url": "https://open.spotify.com/album/2u7lP3WGZ7QusWcvPaqzXo"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 210681,
       "name": "Amor Pasajero",
       "url": "https://open.spotify.com/track/4G4SU5CjZZuzneQlkpb8zJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rey de Corazones (En Vivo)",
-        "url": "https://open.spotify.com/album/0VAAZsQ8EOTxchWZ4v4sjR"
-      },
-      "artists": [
-        {
-          "name": "Hijos De Barron",
-          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
-        },
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 224260,
-      "name": "Rey de Corazones - En Vivo",
-      "url": "https://open.spotify.com/track/0yJqHRmryTQI4MB4xTmE2B"
     },
     {
       "added_at": null,

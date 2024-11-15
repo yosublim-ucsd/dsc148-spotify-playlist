@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Yasmin Williams
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,103 likes - 165 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,107 likes - 165 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 164 | [Ocean Bed](https://open.spotify.com/track/2BWuYpaqwipELjFdTlui9P) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Fish Pond Fish](https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7) | 4:00 |
 | 165 | [The Crow and The Raven \(III\)](https://open.spotify.com/track/23ET0QBqjrlDjxau5lf8Hx) | [Kitchen Dwellers](https://open.spotify.com/artist/5JiwO4LnQq3F6MGCRh3D31), [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ) | [The Crow and The Raven \(III\)](https://open.spotify.com/album/4UUIZjLtkjxMEeCAH8d3Cu) | 5:52 |
 
-Snapshot ID: `Zxt+lwAAAABP5hB1bgoIdrtkouNlmz+f`
+Snapshot ID: `Zxt+lwAAAAB3g/yvIE5OvbHpMhAmFSFi`

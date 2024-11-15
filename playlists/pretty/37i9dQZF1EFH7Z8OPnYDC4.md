@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444 likes - 330 songs - 19 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 443 likes - 330 songs - 19 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,8 +168,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 158 | [Cinderella: The Wedding](https://open.spotify.com/track/3hdGQUrF2UkVvP4PcghmR1) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Edith Adams](https://open.spotify.com/artist/0VvyvMBxObf98gOYcHy89t), [Cinderella Ensemble](https://open.spotify.com/artist/0cZ3xHq3BMAaTdyxK6IM0r), [Alfredo Antonini](https://open.spotify.com/artist/5KwbYVPlau3m029WrFyZq7) | [Cinderella \(Original Television Cast Recording\)](https://open.spotify.com/album/7pZhd8nyjuy8tMbmQCJ4uc) | 3:49 |
 | 159 | [The Pacific Boils Over \- 1992 Remastered](https://open.spotify.com/track/0lZaOUVzaZr4oxE0L2C9ZS) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [Victory At Sea](https://open.spotify.com/album/4SOKN30TAd2xSUdimFLDXd) | 5:43 |
 | 160 | [Theme of the Fast Carriers \- 1992 Remastered](https://open.spotify.com/track/6pJNcwPhFhVqjCSZcImHdu) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [Victory At Sea](https://open.spotify.com/album/4SOKN30TAd2xSUdimFLDXd) | 6:44 |
-| 161 | [イーガー・ビーバー](https://open.spotify.com/track/2wTsNc77FA13OLbvZNbScV) | [BBCビッグバンド](https://open.spotify.com/artist/4j3UsaMzU4Ut0drw6zrKA8) | [栄光のビッグバンド・ジャズ 3](https://open.spotify.com/album/1iRQzVNkXjkQjKvvRRO8U9) | 3:22 |
-| 162 | [Love Makes the World Go](https://open.spotify.com/track/1V8i6a57Zr5cvFRXAkXZSJ) | [Billy May & His Orchestra](https://open.spotify.com/artist/2BFsBQuaspauXaT95x12Zw) | [Remastered Classics, Vol\. 6, Billy May](https://open.spotify.com/album/5l2PIiKh9lsM0znc9mCNjw) | 1:48 |
+| 161 | [Love Makes the World Go](https://open.spotify.com/track/1V8i6a57Zr5cvFRXAkXZSJ) | [Billy May & His Orchestra](https://open.spotify.com/artist/2BFsBQuaspauXaT95x12Zw) | [Remastered Classics, Vol\. 6, Billy May](https://open.spotify.com/album/5l2PIiKh9lsM0znc9mCNjw) | 1:48 |
+| 162 | [イーガー・ビーバー](https://open.spotify.com/track/2wTsNc77FA13OLbvZNbScV) | [BBCビッグバンド](https://open.spotify.com/artist/4j3UsaMzU4Ut0drw6zrKA8) | [栄光のビッグバンド・ジャズ 3](https://open.spotify.com/album/1iRQzVNkXjkQjKvvRRO8U9) | 3:22 |
 | 163 | [Down By The River \- Single Version](https://open.spotify.com/track/61y4b9KVuaqc347er7vZzs) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing\-His Legendary Years 1931\-1957](https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw) | 2:53 |
 | 164 | [Zip](https://open.spotify.com/track/0mX8IFooUYgQqNq4sPCuks) | [Original Broadway Cast of 'Pal Joey'](https://open.spotify.com/artist/11LEVxRCItwUu8jD6pprpR) | [Pal Joey \(1952 Broadway Cast\)](https://open.spotify.com/album/0ulhJMwIAu09ICF9ngP2O5) | 3:13 |
 | 165 | [Hard Work and Horseplay \- 1992 Remastered](https://open.spotify.com/track/7zeZZvIuXqpmgushCpkxhA) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [Victory At Sea](https://open.spotify.com/album/4SOKN30TAd2xSUdimFLDXd) | 3:45 |
@@ -339,4 +339,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 329 | [I Can Do Wonders with You](https://open.spotify.com/track/4K5mjacswcVXXu7EQcnWD3) | [Harold "Scrappy" Lambert](https://open.spotify.com/artist/4Ia4tLsFNJlCd9y2Gv1fhD) | [Top 100 Classics \- The Very Best of Harold 'Scrappy'Lambert](https://open.spotify.com/album/4PkdJTJNLUMn3HyIdUQ0GH) | 2:38 |
 | 330 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 
-Snapshot ID: `AbhbXgAAAACtcGR/i4e2UkFuw1OkVSbf`
+Snapshot ID: `Abhg/gAAAADTlHCTAUwuBPHoaVHdXs3m`

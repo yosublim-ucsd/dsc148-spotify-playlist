@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 
 > Gentle, relaxing music from around the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,892 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,018 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 | 74 | [Milena's Theme \(Duduk\)](https://open.spotify.com/track/290GVez1qXhK2Dmx9JIauj) | [Mandala Ohm](https://open.spotify.com/artist/7DxNYkd18YNFvJnVJ8tSPu) | [Milena's Theme \(Duduk\)](https://open.spotify.com/album/1VfvW4Pw4IQECc9nsWTo1Q) | 3:20 |
 | 75 | [Water Colour](https://open.spotify.com/track/2u1ZOGZAtmB9xOrRsgfFm1) | [Re\-Orient](https://open.spotify.com/artist/0RqWnXbkqTgG8zHJDJwxgG) | [Tranquility: Music for Relaxation](https://open.spotify.com/album/3bsOxgmj7z8LlTazivH3DK) | 5:07 |
 
-Snapshot ID: `ZxuIvAAAAACE9jvoDpGRFG6eLhETEUQM`
+Snapshot ID: `ZxuIvAAAAADPKxHD3DIZQO5FuRYDtnBE`

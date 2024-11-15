@@ -2,7 +2,7 @@
 
 ### [EQUAL Hungary](https://open.spotify.com/playlist/37i9dQZF1DX79N7buKOmiE)
 
-> Hallgasd teljes hangerővel ezeket a kíváló női előadókat\. A lejátszási listát részben csherihanna készítette
+> Hallgasd teljes hangerővel ezeket a kíváló női előadókat\. A lejátszási listát részben cserihanna készítette
 
 117 songs - 6 hr 8 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 
 > Dance tracks for your power moves
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,296 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,298 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 | 99 | [What You Need](https://open.spotify.com/track/2KR32tVW39lfG4tO1yOwdq) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [What You Need](https://open.spotify.com/album/36WVqPt4HocsuiPQer82ob) | 3:38 |
 | 100 | [Breathe](https://open.spotify.com/track/5WzW9TJyM9crru0ATLE1tm) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U) | [Breathe](https://open.spotify.com/album/12svB8ZOlbG8t3wXr8l84b) | 2:36 |
 
-Snapshot ID: `Zy1GcAAAAAA9U2Rq8iYP2RokmTuQq5mZ`
+Snapshot ID: `Zy1GcAAAAAB+Wtk+q2VYmA4KvSs4TnbN`

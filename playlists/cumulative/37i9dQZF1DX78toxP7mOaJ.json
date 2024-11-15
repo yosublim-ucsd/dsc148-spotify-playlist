@@ -27439,6 +27439,24 @@
     },
     {
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/7i2f02Piux1havnG4wIMN9"
+      },
+      "artists": [
+        {
+          "name": "9Million",
+          "url": "https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127871,
+      "name": "The Trick",
+      "url": "https://open.spotify.com/track/6UuBstrUsBQiGihV4kOmpI"
+    },
+    {
+      "album": {
         "name": "The Truth",
         "url": "https://open.spotify.com/album/4Lljy0BcRHBZ7OMkx1pYiD"
       },

@@ -1,12 +1,12 @@
 {
   "description": "the sweetest new indie pop, featuring Ziggy 2000 \ud83c\udf51",
-  "num_followers": 29376,
+  "num_followers": 29377,
   "original_name": "peach",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu1fDwAAAABsLosfJgwK0SwBOBBXBt0C",
+  "snapshot_id": "Zu1fDwAAAACBIZ2YOBV4aidoYH6b2SQL",
   "tracks": [
     {
       "added_at": "2024-09-20 11:39:59",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Spells",
-        "url": "https://open.spotify.com/album/1gcAlm1ulSCN41rVh5jXxN"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 194910,
-      "name": "Spells",
-      "url": "https://open.spotify.com/track/5eSsvk6nelxQoMYu6tLEM5"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "crush (tom verlaine)",
         "url": "https://open.spotify.com/album/4jELKPy6P8FQK2UmYOzz33"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 182498,
       "name": "crush (tom verlaine)",
       "url": "https://open.spotify.com/track/5LtjfCzRlKVERVaNjJqmUq"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Spells",
+        "url": "https://open.spotify.com/album/1gcAlm1ulSCN41rVh5jXxN"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "duration_ms": 194910,
+      "name": "Spells",
+      "url": "https://open.spotify.com/track/5eSsvk6nelxQoMYu6tLEM5"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Living In A Dream",
-        "url": "https://open.spotify.com/album/0pXGJiiO2fysQYXmyQqG6A"
-      },
-      "artists": [
-        {
-          "name": "The Flints",
-          "url": "https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v"
-        }
-      ],
-      "duration_ms": 196011,
-      "name": "Living In A Dream",
-      "url": "https://open.spotify.com/track/4lKXmQEGW64zHKnkMcLvbR"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Boys",
         "url": "https://open.spotify.com/album/5PzrhYhmTEb8Wao6CmZe66"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 192444,
       "name": "Boys",
       "url": "https://open.spotify.com/track/3wRLsbybqoHVncYouMQvp3"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Living In A Dream",
+        "url": "https://open.spotify.com/album/0pXGJiiO2fysQYXmyQqG6A"
+      },
+      "artists": [
+        {
+          "name": "The Flints",
+          "url": "https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v"
+        }
+      ],
+      "duration_ms": 196011,
+      "name": "Living In A Dream",
+      "url": "https://open.spotify.com/track/4lKXmQEGW64zHKnkMcLvbR"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Deeply Still In Love",
-        "url": "https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 242544,
-      "name": "Deeply Still In Love",
-      "url": "https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Million Dollar Baby",
         "url": "https://open.spotify.com/album/1KMsICBCmERIbb4GAc5X7C"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 160426,
       "name": "Basement",
       "url": "https://open.spotify.com/track/4wr8ROgkWDQaqmOElFAent"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Deeply Still In Love",
+        "url": "https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 242544,
+      "name": "Deeply Still In Love",
+      "url": "https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Split Lip",
-        "url": "https://open.spotify.com/album/4kMYV9lnrcVFIMWmzOaDn9"
-      },
-      "artists": [
-        {
-          "name": "Dolores Forever",
-          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
-        }
-      ],
-      "duration_ms": 189866,
-      "name": "Split Lip",
-      "url": "https://open.spotify.com/track/69Ghh9jP9OXebzBtEq6lsE"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/03riWRKUyOb4WIpmMRRWnG"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 206067,
       "name": "Brother",
       "url": "https://open.spotify.com/track/2OW2UL12X7vzpd2TRHw5Et"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Split Lip",
+        "url": "https://open.spotify.com/album/4kMYV9lnrcVFIMWmzOaDn9"
+      },
+      "artists": [
+        {
+          "name": "Dolores Forever",
+          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
+        }
+      ],
+      "duration_ms": 189866,
+      "name": "Split Lip",
+      "url": "https://open.spotify.com/track/69Ghh9jP9OXebzBtEq6lsE"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Different This Time?",
-        "url": "https://open.spotify.com/album/67DJaYzEwXwfJ4ofIF3QaC"
+        "name": "Losing By A Landslide",
+        "url": "https://open.spotify.com/album/16D48mNNTX9JtuKUuVMnKP"
       },
       "artists": [
         {
-          "name": "Tonia",
-          "url": "https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx"
+          "name": "Sophia Alexa",
+          "url": "https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ"
         }
       ],
-      "duration_ms": 189316,
-      "name": "What Have I Become?",
-      "url": "https://open.spotify.com/track/08MQRS8nISdiYeZq4Dq2I8"
+      "duration_ms": 194741,
+      "name": "Losing By A Landslide",
+      "url": "https://open.spotify.com/track/3rmUh491bZcjZlzv2zn1xa"
     }
   ],
   "unique_name": "peach",

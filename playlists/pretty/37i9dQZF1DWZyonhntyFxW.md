@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > الخطة ملوك من اللفه انا استاهل منكوا الصقفة\. غلاف: مهاب
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,577 likes - 40 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,657 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 39 | [Rayah](https://open.spotify.com/track/2e4R6mIfs3uTYvS8msMVfk) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z) | [Rayah](https://open.spotify.com/album/7HobmIfM5WV7nJIo1xfs4R) | 3:11 |
 | 40 | [Adina Bengarab](https://open.spotify.com/track/3FvJUxZIG180cmXf1T87ZJ) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo) | [SHHHH](https://open.spotify.com/album/6IUNaccoWcghuFLBJ8OUP6) | 2:48 |
 
-Snapshot ID: `Zy3P2wAAAABkVVk2M7LcptjDfenCpEBB`
+Snapshot ID: `Zy3P2wAAAACHwC99jBg/Sm6vlx1ABqgs`

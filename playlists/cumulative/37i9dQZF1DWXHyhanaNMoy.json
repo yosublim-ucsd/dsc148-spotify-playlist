@@ -1457,6 +1457,32 @@
     },
     {
       "album": {
+        "name": "Ba Ba Bad",
+        "url": "https://open.spotify.com/album/6M8IIwUeP50mLIM55s5yXK"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144489,
+      "name": "Ba Ba Bad",
+      "url": "https://open.spotify.com/track/4jW4qcZrYF0uy0WwGi9Fwt"
+    },
+    {
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA"
       },
@@ -2968,6 +2994,24 @@
       "duration_ms": 144491,
       "name": "Better",
       "url": "https://open.spotify.com/track/6sVpYIMty1Y20RxjaGUm1y"
+    },
+    {
+      "album": {
+        "name": "Bewijsdrang",
+        "url": "https://open.spotify.com/album/0z3y0N05VG9UuoQoLT70DS"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134604,
+      "name": "Bewijsdrang",
+      "url": "https://open.spotify.com/track/3KfIrIgWIoKePRXo5Z5ei3"
     },
     {
       "album": {
@@ -5288,7 +5332,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 133894,
       "name": "Coucou",
       "url": "https://open.spotify.com/track/2SihVopuJ1Bs5gPKuFfvkg"
@@ -5946,7 +5990,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 156854,
       "name": "Deim Van Je",
       "url": "https://open.spotify.com/track/4xyLHd9CyBt3ky2BxtwDxL"
@@ -7558,7 +7602,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 133646,
       "name": "Fasta Days",
       "url": "https://open.spotify.com/track/2lDLyjGLoyWydHzz28FdCZ"
@@ -7774,7 +7818,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 159339,
       "name": "Fi Kan We Kan",
       "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
@@ -8546,6 +8590,28 @@
       "duration_ms": 157440,
       "name": "Geen ID",
       "url": "https://open.spotify.com/track/3RvZ5mxHFiVZYCpTT4rPjx"
+    },
+    {
+      "album": {
+        "name": "Geen Reden",
+        "url": "https://open.spotify.com/album/75GRNlffSzpbCMnVppY0dM"
+      },
+      "artists": [
+        {
+          "name": "Delany",
+          "url": "https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP"
+        },
+        {
+          "name": "Yxng Le",
+          "url": "https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176268,
+      "name": "Geen Reden",
+      "url": "https://open.spotify.com/track/654lS8GBJbj3suBin5ndVi"
     },
     {
       "album": {
@@ -10029,6 +10095,44 @@
     },
     {
       "album": {
+        "name": "I Adore You (with J Balvin & Ellie Goulding)",
+        "url": "https://open.spotify.com/album/7AcEvOjGlIzl1P9EDrOooc"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "I Adore You (with J Balvin & Ellie Goulding)",
+      "url": "https://open.spotify.com/track/03L6HaDf0AFmlsHhq7Ewoi"
+    },
+    {
+      "album": {
         "name": "I Dey Slide",
         "url": "https://open.spotify.com/album/3DPXpC2nWKUoSFmU9ejvgo"
       },
@@ -11485,6 +11589,24 @@
     },
     {
       "album": {
+        "name": "Kese (Dance)",
+        "url": "https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174053,
+      "name": "Kese (Dance)",
+      "url": "https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4"
+    },
+    {
+      "album": {
         "name": "Luxeprobleem",
         "url": "https://open.spotify.com/album/6knvd9gtuhGbZNMNxjpJWy"
       },
@@ -12754,6 +12876,28 @@
       "duration_ms": 174330,
       "name": "Liefde In De Lucht",
       "url": "https://open.spotify.com/track/65hZ0SrvAHOfPVxyBJTolH"
+    },
+    {
+      "album": {
+        "name": "LIEG TEGEN MIJ",
+        "url": "https://open.spotify.com/album/0VLZxAGTufI4PpAfR48M6r"
+      },
+      "artists": [
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+        },
+        {
+          "name": "Melissa Lopes",
+          "url": "https://open.spotify.com/artist/67qIVZfLi2zNpwqyrrOMCP"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142140,
+      "name": "LIEG TEGEN MIJ",
+      "url": "https://open.spotify.com/track/58ackvPocCW9jRJIu05bj6"
     },
     {
       "album": {
@@ -14644,7 +14788,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 183662,
       "name": "MIA",
       "url": "https://open.spotify.com/track/338Nv6tQdYT1DMwlVPRLwv"
@@ -15344,6 +15488,24 @@
       "duration_ms": 127477,
       "name": "Mo\u00ebt, Vodka, Henny",
       "url": "https://open.spotify.com/track/2WPrtBzxEFywU09psLTrbp"
+    },
+    {
+      "album": {
+        "name": "Mr Lover",
+        "url": "https://open.spotify.com/album/3EwlDCtp5B6A5SVtaemftK"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136266,
+      "name": "Mr Lover",
+      "url": "https://open.spotify.com/track/3eFcKC5LPq4jgyPa9xh4ak"
     },
     {
       "album": {
@@ -16362,7 +16524,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 155368,
       "name": "Nogolie",
       "url": "https://open.spotify.com/track/5bE7ZGfzTbUsXbWyoCXFSf"
@@ -16606,6 +16768,28 @@
       "duration_ms": 159130,
       "name": "Obsessed Met Jou",
       "url": "https://open.spotify.com/track/60C3am9SLnzkzJxSXjucT3"
+    },
+    {
+      "album": {
+        "name": "ODO",
+        "url": "https://open.spotify.com/album/66DGjtXR8JW7tZv9ozLTzW"
+      },
+      "artists": [
+        {
+          "name": "Rhema & Bethel",
+          "url": "https://open.spotify.com/artist/2mhQjvqnRV83cj1G1b8ToN"
+        },
+        {
+          "name": "Priceless",
+          "url": "https://open.spotify.com/artist/2408j875K0AESndCiOw5UO"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121061,
+      "name": "ODO",
+      "url": "https://open.spotify.com/track/0azFj9TH82vjUeNRvsIrEU"
     },
     {
       "album": {
@@ -17621,6 +17805,24 @@
     },
     {
       "album": {
+        "name": "Partners In Crime",
+        "url": "https://open.spotify.com/album/4mILdEmzUxQe9RgY8xEfxJ"
+      },
+      "artists": [
+        {
+          "name": "Yssine",
+          "url": "https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122258,
+      "name": "Partners In Crime",
+      "url": "https://open.spotify.com/track/3xtvRyie2IZNDr2BNtoTuE"
+    },
+    {
+      "album": {
         "name": "Party No Dey Stop",
         "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
       },
@@ -18092,7 +18294,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 151016,
       "name": "PGS",
       "url": "https://open.spotify.com/track/0QfxzAZP55JCJGDFEuYFnj"
@@ -23480,7 +23682,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 128531,
       "name": "Untouchable",
       "url": "https://open.spotify.com/track/20Pw7zjNu4MxNOOOfNTeaG"
@@ -23998,7 +24200,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 158000,
       "name": "Vierdaagse",
       "url": "https://open.spotify.com/track/1gHu4yrPxYfkurM3r5b5Lv"

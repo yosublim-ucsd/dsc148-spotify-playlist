@@ -1,12 +1,12 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN.",
-  "num_followers": 108426,
+  "num_followers": 108451,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy1GcAAAAAA5JlErnu/vJCLGM+kTOYVC",
+  "snapshot_id": "Zy1GcAAAAACZ2E1M8b3oCXQCNsE20mNK",
   "tracks": [
     {
       "added_at": "2024-11-07 23:00:00",
@@ -823,6 +823,30 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "No Sabemos Perder",
+        "url": "https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        },
+        {
+          "name": "Rotten XIII",
+          "url": "https://open.spotify.com/artist/17qPb5DXDDbJixc4cmwJiF"
+        },
+        {
+          "name": "Dinamita",
+          "url": "https://open.spotify.com/artist/7zmOHB4a4Fo9oS3ZgoHz9x"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "No Sabemos Perder",
+      "url": "https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "El Infierno Es Demasiado Dulce",
         "url": "https://open.spotify.com/album/66xSqjqAaAlwUgaXEeQJmu"
       },
@@ -847,30 +871,6 @@
       "duration_ms": 170290,
       "name": "El Infierno Es Demasiado Dulce",
       "url": "https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "No Sabemos Perder",
-        "url": "https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz"
-      },
-      "artists": [
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        },
-        {
-          "name": "Rotten XIII",
-          "url": "https://open.spotify.com/artist/17qPb5DXDDbJixc4cmwJiF"
-        },
-        {
-          "name": "Dinamita",
-          "url": "https://open.spotify.com/artist/7zmOHB4a4Fo9oS3ZgoHz9x"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "No Sabemos Perder",
-      "url": "https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Cuidado",
-        "url": "https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8"
+        "name": "Placer Al Fin",
+        "url": "https://open.spotify.com/album/2HZDQ1vcqxpsTDtNsLlK3W"
       },
       "artists": [
         {
-          "name": "Zirrosis",
-          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
+          "name": "Vinodium",
+          "url": "https://open.spotify.com/artist/6yYXEgfDFIsxKXyoKm828Q"
         }
       ],
-      "duration_ms": 177560,
-      "name": "Cuidado",
-      "url": "https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN"
+      "duration_ms": 162609,
+      "name": "Placer Al fin",
+      "url": "https://open.spotify.com/track/7pKs0NK6zlPICc2BPyqteC"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Placer Al Fin",
-        "url": "https://open.spotify.com/album/2HZDQ1vcqxpsTDtNsLlK3W"
+        "name": "Cuidado",
+        "url": "https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8"
       },
       "artists": [
         {
-          "name": "Vinodium",
-          "url": "https://open.spotify.com/artist/6yYXEgfDFIsxKXyoKm828Q"
+          "name": "Zirrosis",
+          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
         }
       ],
-      "duration_ms": 162609,
-      "name": "Placer Al fin",
-      "url": "https://open.spotify.com/track/7pKs0NK6zlPICc2BPyqteC"
+      "duration_ms": 177560,
+      "name": "Cuidado",
+      "url": "https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Vieja Guardia",
-        "url": "https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl"
-      },
-      "artists": [
-        {
-          "name": "Karne Cruda",
-          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
-        }
-      ],
-      "duration_ms": 170585,
-      "name": "Vieja Guardia",
-      "url": "https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Antifascismo",
         "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
       },
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Vieja Guardia",
+        "url": "https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl"
+      },
+      "artists": [
+        {
+          "name": "Karne Cruda",
+          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
+        }
+      ],
+      "duration_ms": 170585,
+      "name": "Vieja Guardia",
+      "url": "https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Narco",
         "url": "https://open.spotify.com/album/6C6NaXzXrBnAHaa9orpiFS"
       },
@@ -1135,22 +1135,6 @@
       "duration_ms": 64999,
       "name": "Narco",
       "url": "https://open.spotify.com/track/64I6KsFDkGNg639k69Yt4D"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Esta es una Noche de Rock & Roll",
-        "url": "https://open.spotify.com/album/6DK1XCDO0wA5W9kDauT88D"
-      },
-      "artists": [
-        {
-          "name": "Zirrosis",
-          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
-        }
-      ],
-      "duration_ms": 180444,
-      "name": "Esta es una Noche de Rock & Roll",
-      "url": "https://open.spotify.com/track/4nJ2SE3AZm9qNh5hXH03uR"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Esta es una Noche de Rock & Roll",
+        "url": "https://open.spotify.com/album/6DK1XCDO0wA5W9kDauT88D"
+      },
+      "artists": [
+        {
+          "name": "Zirrosis",
+          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
+        }
+      ],
+      "duration_ms": 180444,
+      "name": "Esta es una Noche de Rock & Roll",
+      "url": "https://open.spotify.com/track/4nJ2SE3AZm9qNh5hXH03uR"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Todos Mis Enemigos Se Llaman Cayetano",
         "url": "https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL"
       },
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Ser Libre",
-        "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
-      },
-      "artists": [
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        }
-      ],
-      "duration_ms": 216250,
-      "name": "Ser Libre",
-      "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Asesinos",
         "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 176117,
       "name": "Asesinos",
       "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Borratxos y Orgullosos",
+        "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
+      },
+      "artists": [
+        {
+          "name": "Josetxu Piperrak & The Riber Rock Band",
+          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
+        }
+      ],
+      "duration_ms": 223950,
+      "name": "Borratxos y Orgullosos",
+      "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Borratxos y Orgullosos",
-        "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
+        "name": "Ser Libre",
+        "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
       },
       "artists": [
         {
-          "name": "Josetxu Piperrak & The Riber Rock Band",
-          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
         }
       ],
-      "duration_ms": 223950,
-      "name": "Borratxos y Orgullosos",
-      "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
+      "duration_ms": 216250,
+      "name": "Ser Libre",
+      "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "All Cayetanos Are Bastards",
-        "url": "https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t"
-      },
-      "artists": [
-        {
-          "name": "Lo Blanco Del Jam\u00f3n",
-          "url": "https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR"
-        }
-      ],
-      "duration_ms": 160034,
-      "name": "All Cayetanos Are Bastards",
-      "url": "https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Pudredumbre",
         "url": "https://open.spotify.com/album/5mdIYVaHslsllN0EcvmxLr"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 125727,
       "name": "Pudredumbre",
       "url": "https://open.spotify.com/track/37jtZC34k0gkAaoI5g7a5v"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "All Cayetanos Are Bastards",
+        "url": "https://open.spotify.com/album/30MZ64Kx7H1eNkGvXa898t"
+      },
+      "artists": [
+        {
+          "name": "Lo Blanco Del Jam\u00f3n",
+          "url": "https://open.spotify.com/artist/1mTe6RvJvqSRZPKhRMd9gR"
+        }
+      ],
+      "duration_ms": 160034,
+      "name": "All Cayetanos Are Bastards",
+      "url": "https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Love the Antros",
-        "url": "https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv"
-      },
-      "artists": [
-        {
-          "name": "Karne Cruda",
-          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
-        }
-      ],
-      "duration_ms": 155469,
-      "name": "Love the Antros",
-      "url": "https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
         "name": "Lev\u00e1ntate",
         "url": "https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5"
       },
@@ -1399,6 +1383,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Love the Antros",
+        "url": "https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv"
+      },
+      "artists": [
+        {
+          "name": "Karne Cruda",
+          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
+        }
+      ],
+      "duration_ms": 155469,
+      "name": "Love the Antros",
+      "url": "https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Sabor a Plomo",
         "url": "https://open.spotify.com/album/4CR0loWGYTsMyIgY8kybeh"
       },
@@ -1415,8 +1415,8 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "No tengo solucion para ese problema",
-        "url": "https://open.spotify.com/album/4vddeU0f9ZtVa9S5oD11aa"
+        "name": "Nada que me haga resurgir",
+        "url": "https://open.spotify.com/album/6adyHHRjUSRHF3P7ZzENEI"
       },
       "artists": [
         {
@@ -1424,9 +1424,9 @@
           "url": "https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ"
         }
       ],
-      "duration_ms": 175058,
-      "name": "No tengo solucion para ese problema",
-      "url": "https://open.spotify.com/track/42ySJfPHlWx0jKRDyttptR"
+      "duration_ms": 187200,
+      "name": "Nada que me haga resurgir",
+      "url": "https://open.spotify.com/track/0HIfkUaLyb4V3F3sFdu6zt"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1511,8 +1511,8 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
-        "name": "Nada que me haga resurgir",
-        "url": "https://open.spotify.com/album/6adyHHRjUSRHF3P7ZzENEI"
+        "name": "No tengo solucion para ese problema",
+        "url": "https://open.spotify.com/album/4vddeU0f9ZtVa9S5oD11aa"
       },
       "artists": [
         {
@@ -1520,25 +1520,9 @@
           "url": "https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ"
         }
       ],
-      "duration_ms": 187200,
-      "name": "Nada que me haga resurgir",
-      "url": "https://open.spotify.com/track/0HIfkUaLyb4V3F3sFdu6zt"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "Sombra y Luz",
-        "url": "https://open.spotify.com/album/0sTzX1wBi75FyQhzYmLAZm"
-      },
-      "artists": [
-        {
-          "name": "La Inquisici\u00f3n",
-          "url": "https://open.spotify.com/artist/4aDrkFWtl83fnLRJ0SWXtJ"
-        }
-      ],
-      "duration_ms": 157991,
-      "name": "Sombra y Luz - Sombra y Luz",
-      "url": "https://open.spotify.com/track/4tBjhicwmWAxDDblcDHbN0"
+      "duration_ms": 175058,
+      "name": "No tengo solucion para ese problema",
+      "url": "https://open.spotify.com/track/42ySJfPHlWx0jKRDyttptR"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1555,6 +1539,22 @@
       "duration_ms": 180257,
       "name": "Corre, Escapa",
       "url": "https://open.spotify.com/track/23qJwmWJysiJYky8U5zpaS"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
+        "name": "Sombra y Luz",
+        "url": "https://open.spotify.com/album/0sTzX1wBi75FyQhzYmLAZm"
+      },
+      "artists": [
+        {
+          "name": "La Inquisici\u00f3n",
+          "url": "https://open.spotify.com/artist/4aDrkFWtl83fnLRJ0SWXtJ"
+        }
+      ],
+      "duration_ms": 157991,
+      "name": "Sombra y Luz - Sombra y Luz",
+      "url": "https://open.spotify.com/track/4tBjhicwmWAxDDblcDHbN0"
     },
     {
       "added_at": "2024-11-07 23:00:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2024-11-07 23:00:00",
       "album": {
+        "name": "Ka\u00f1a a los Que Nos Quieren Pisar",
+        "url": "https://open.spotify.com/album/475lQDKfTnB0nSuGgnov06"
+      },
+      "artists": [
+        {
+          "name": "Zirrosis",
+          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
+        }
+      ],
+      "duration_ms": 276058,
+      "name": "Ka\u00f1a",
+      "url": "https://open.spotify.com/track/77UVdHUTHvECJJ0xcmooGX"
+    },
+    {
+      "added_at": "2024-11-07 23:00:00",
+      "album": {
         "name": "Un, Dos, Tres, Fuego",
         "url": "https://open.spotify.com/album/6KqECOoCoekQjpDd0oIYxS"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 240986,
       "name": "Herida de guerra",
       "url": "https://open.spotify.com/track/16MDTJlQK8LcZW9IkladLD"
-    },
-    {
-      "added_at": "2024-11-07 23:00:00",
-      "album": {
-        "name": "4 A\u00f1os, 2 Meses y 1 D\u00eda",
-        "url": "https://open.spotify.com/album/3yPZHsg4nV3oH8ZZsxiwPD"
-      },
-      "artists": [
-        {
-          "name": "Cicatriz",
-          "url": "https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz"
-        }
-      ],
-      "duration_ms": 220943,
-      "name": "Lola",
-      "url": "https://open.spotify.com/track/1KWMzs6oRaLkQRVv1KbRbZ"
     }
   ],
   "unique_name": "Punk Espa\u00f1ol",

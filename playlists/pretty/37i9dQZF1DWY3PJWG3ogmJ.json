@@ -1,12 +1,12 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 673237,
+  "num_followers": 673354,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZppzBQAAAAANtnRx/xwcBt44A/J62FFm",
+  "snapshot_id": "ZppzBQAAAADFwqyidULrpo59Hl6vO3Kf",
   "tracks": [
     {
       "added_at": "2024-07-19 14:07:01",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-07-19 10:55:24",
       "album": {
-        "name": "on the verge",
-        "url": "https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230"
-      },
-      "artists": [
-        {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "on the verge",
-      "url": "https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC"
-    },
-    {
-      "added_at": "2024-07-19 10:55:24",
-      "album": {
         "name": "CARNAL",
         "url": "https://open.spotify.com/album/0ivYaIK4SxXpiSiKXTNvtF"
       },
@@ -325,20 +309,20 @@
       "url": "https://open.spotify.com/track/6ZObKi7oiOXcFOPFzssJHH"
     },
     {
-      "added_at": "2024-07-19 14:07:01",
+      "added_at": "2024-07-19 10:55:24",
       "album": {
-        "name": "Epitaph",
-        "url": "https://open.spotify.com/album/2xCkPvQQX7GcUiwIu495v9"
+        "name": "on the verge",
+        "url": "https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230"
       },
       "artists": [
         {
-          "name": "Make Them Suffer",
-          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
         }
       ],
-      "duration_ms": 217026,
-      "name": "Epitaph",
-      "url": "https://open.spotify.com/track/3zABOvRWEmMhtoyRqUawVS"
+      "duration_ms": 134400,
+      "name": "on the verge",
+      "url": "https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC"
     },
     {
       "added_at": "2024-07-19 14:07:01",
@@ -355,6 +339,22 @@
       "duration_ms": 187629,
       "name": "Wake The Dead",
       "url": "https://open.spotify.com/track/2DayUFU47R0WQQsvB3KPk3"
+    },
+    {
+      "added_at": "2024-07-19 14:07:01",
+      "album": {
+        "name": "Epitaph",
+        "url": "https://open.spotify.com/album/2xCkPvQQX7GcUiwIu495v9"
+      },
+      "artists": [
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "duration_ms": 217026,
+      "name": "Epitaph",
+      "url": "https://open.spotify.com/track/3zABOvRWEmMhtoyRqUawVS"
     },
     {
       "added_at": "2024-07-19 14:07:01",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Here Comes The Boom",
-        "url": "https://open.spotify.com/album/1pIuEG8M02eyQkR6HVdd83"
-      },
-      "artists": [
-        {
-          "name": "Rise Of The Northstar",
-          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "Here Comes The Boom",
-      "url": "https://open.spotify.com/track/7foMdEhJevqESQw39FQcuv"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Nonstop",
         "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 165720,
       "name": "Scratch the Surface",
       "url": "https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Here Comes The Boom",
+        "url": "https://open.spotify.com/album/1pIuEG8M02eyQkR6HVdd83"
+      },
+      "artists": [
+        {
+          "name": "Rise Of The Northstar",
+          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "Here Comes The Boom",
+      "url": "https://open.spotify.com/track/7foMdEhJevqESQw39FQcuv"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "The Legacy of Shi",
-        "url": "https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ"
-      },
-      "artists": [
-        {
-          "name": "Rise Of The Northstar",
-          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
-        }
-      ],
-      "duration_ms": 191746,
-      "name": "Nekketsu",
-      "url": "https://open.spotify.com/track/6xfLi5JSmJVXovRRziN7Tz"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Welcome to the West Coast II",
         "url": "https://open.spotify.com/album/0koMGPUKzfeKYT376Unywa"
       },
@@ -995,22 +979,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Dreh auf!",
-        "url": "https://open.spotify.com/album/6wfCf6I0akMdGasL0DcywD"
-      },
-      "artists": [
-        {
-          "name": "We Butter The Bread With Butter",
-          "url": "https://open.spotify.com/artist/1oA1SW4FRAis6e8krh5YAf"
-        }
-      ],
-      "duration_ms": 184363,
-      "name": "Dreh auf!",
-      "url": "https://open.spotify.com/track/2lU7wi6V6RpYKYdelZqms6"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Strength in Numbers",
         "url": "https://open.spotify.com/album/5GVpTi1IWHZWsb6FMUhwrN"
       },
@@ -1023,6 +991,38 @@
       "duration_ms": 295560,
       "name": "Preachers of Death",
       "url": "https://open.spotify.com/track/2WQXTG8wjeMf9lkSJTmG0L"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "The Legacy of Shi",
+        "url": "https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ"
+      },
+      "artists": [
+        {
+          "name": "Rise Of The Northstar",
+          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+        }
+      ],
+      "duration_ms": 191746,
+      "name": "Nekketsu",
+      "url": "https://open.spotify.com/track/6xfLi5JSmJVXovRRziN7Tz"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Dreh auf!",
+        "url": "https://open.spotify.com/album/6wfCf6I0akMdGasL0DcywD"
+      },
+      "artists": [
+        {
+          "name": "We Butter The Bread With Butter",
+          "url": "https://open.spotify.com/artist/1oA1SW4FRAis6e8krh5YAf"
+        }
+      ],
+      "duration_ms": 184363,
+      "name": "Dreh auf!",
+      "url": "https://open.spotify.com/track/2lU7wi6V6RpYKYdelZqms6"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Chainbreaker",
-        "url": "https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B"
-      },
-      "artists": [
-        {
-          "name": "Shrine of Malice",
-          "url": "https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ"
-        }
-      ],
-      "duration_ms": 275807,
-      "name": "Chainbreaker",
-      "url": "https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "The Level Above Human",
         "url": "https://open.spotify.com/album/2nUvjugCEOHrvjxSoJiknN"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Annihilation",
-        "url": "https://open.spotify.com/album/1NGoxSNqRAzHNr0BbfWlHV"
+        "name": "Chainbreaker",
+        "url": "https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B"
       },
       "artists": [
         {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+          "name": "Shrine of Malice",
+          "url": "https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ"
         }
       ],
-      "duration_ms": 190549,
-      "name": "Annihilation",
-      "url": "https://open.spotify.com/track/4ugsTxjvUc7iGuY1fMNWzO"
+      "duration_ms": 275807,
+      "name": "Chainbreaker",
+      "url": "https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1119,6 +1103,22 @@
       "duration_ms": 213533,
       "name": "At War with Love",
       "url": "https://open.spotify.com/track/5FQWkrXcQjbmTVgVWnP0Ed"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Annihilation",
+        "url": "https://open.spotify.com/album/1NGoxSNqRAzHNr0BbfWlHV"
+      },
+      "artists": [
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "duration_ms": 190549,
+      "name": "Annihilation",
+      "url": "https://open.spotify.com/track/4ugsTxjvUc7iGuY1fMNWzO"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Brotherhood EP",
+        "url": "https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy"
+      },
+      "artists": [
+        {
+          "name": "Fallbrawl",
+          "url": "https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP"
+        }
+      ],
+      "duration_ms": 143493,
+      "name": "Brotherhood",
+      "url": "https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "A New Responsibility",
         "url": "https://open.spotify.com/album/4GSurokfXPeI3CJTvh0r5W"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 202215,
       "name": "Hammer of the Witch",
       "url": "https://open.spotify.com/track/0Q7XROBkDRBMNAAVD6E4jn"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Brotherhood EP",
-        "url": "https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy"
-      },
-      "artists": [
-        {
-          "name": "Fallbrawl",
-          "url": "https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP"
-        }
-      ],
-      "duration_ms": 143493,
-      "name": "Brotherhood",
-      "url": "https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0"
     },
     {
       "added_at": "2023-01-18 15:54:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Chase Matthew, Zach Bryan, Flatland Cavalry and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,417 likes - 62 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,572 likes - 62 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 61 | [Summer to Fall](https://open.spotify.com/track/00o6BXUklmL0JbdlwviXxl) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Summer to Fall](https://open.spotify.com/album/5hrKd2n1ts1tRojsBVSR4h) | 3:23 |
 | 62 | [Old Oak Tree](https://open.spotify.com/track/27SoxpqPsNchtIZtZQJEl6) | [Dylan Wright](https://open.spotify.com/artist/0XjUzkpgj8t1MnxhROumUe) | [Half a World Away](https://open.spotify.com/album/6WC3xEuYX5CNgIomR3EWqg) | 2:50 |
 
-Snapshot ID: `Zy2ijwAAAADenpCByR784P4jyN8JVCuI`
+Snapshot ID: `Zy2ijwAAAADVKv7d03gjEbmosOb54rtY`

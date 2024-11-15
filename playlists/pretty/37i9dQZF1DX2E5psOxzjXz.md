@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Taha G
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,422 likes - 90 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,423 likes - 90 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 89 | [Tamasha](https://open.spotify.com/track/4nX0hE5O7O5ssZ0RBnBRUf) | [The Tamaashbeens](https://open.spotify.com/artist/6dArdZ3NhrB1sbyo2s5poV) | [Tamasha](https://open.spotify.com/album/70R43DKN4pKOHBE7guBU6m) | 3:48 |
 | 90 | [Alag Sa Andaaz](https://open.spotify.com/track/5X9k9lKxDcqFZ3mrxrPjlI) | [blal bloch](https://open.spotify.com/artist/2PKXVvqPC7pNaLWnDbr1RF) | [Alag Sa Andaaz](https://open.spotify.com/album/441WZue3qHT2rfI6s6ZSK8) | 2:33 |
 
-Snapshot ID: `ZyycSQAAAABPPR2104XgKZ+Kv3hsiPUX`
+Snapshot ID: `ZyycSQAAAAAS/I8DayvuOoIxQFbKknuG`

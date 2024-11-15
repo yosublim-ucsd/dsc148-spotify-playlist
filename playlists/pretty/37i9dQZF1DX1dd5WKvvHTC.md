@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:0ZED1XzwlLHW4ZaG4lOT6m">Julia Michaels
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,683 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,728 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 79 | [The Women Who Raised Me](https://open.spotify.com/track/5KQsuSeWwKZCpQwL151Ue7) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [The Women Who Raised Me](https://open.spotify.com/album/54ugQecBEpbHSCrjBodBtn) | 3:12 |
 | 80 | [On My Knees](https://open.spotify.com/track/11UoPW4Prydd4ctzMrlFAW) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i), [ELLUM](https://open.spotify.com/artist/4Fu8Bml2a3p5D6jw0zhOPC) | [On My Knees](https://open.spotify.com/album/6HMuLaICyaecLbj8t3o6Fk) | 3:38 |
 
-Snapshot ID: `ZzOVRQAAAADhIBG6XyDTCXZW5dyVD+NE`
+Snapshot ID: `ZzOVRQAAAAAw3dq1VVQashIBFyGeSBMN`

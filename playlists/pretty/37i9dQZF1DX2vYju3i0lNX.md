@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 
 > Mellow jazz to stay focused or unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,305 likes - 655 songs - 1 day 13 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,528 likes - 655 songs - 1 day 13 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -664,4 +664,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 654 | [London Plane](https://open.spotify.com/track/0ehejUJtOzYTWpmysmXaMI) | [Luc Brooks](https://open.spotify.com/artist/3Kqbdl8JFUxNSbbJns8OMU) | [London Plane](https://open.spotify.com/album/3YTNLaYxr52XxHIGAeDSIk) | 3:19 |
 | 655 | [Late Afternoon](https://open.spotify.com/track/4ySYI3lRedo9iXbrraPsQN) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [Late Afternoon](https://open.spotify.com/album/4xHxAFDudO7yvkMVf0kiVB) | 3:36 |
 
-Snapshot ID: `ZzMNgQAAAAClR6NNFU2Y8G02O/mWEA6P`
+Snapshot ID: `ZzMNgQAAAAAqUEJCIQGPCsnLE6eB/17A`

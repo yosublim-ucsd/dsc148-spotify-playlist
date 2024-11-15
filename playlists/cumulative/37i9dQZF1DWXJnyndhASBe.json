@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Kubi Producent, Fukaj, Chivas, Livka",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: White 2115, Bedoes 2115",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -354,7 +354,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 150968,
       "name": "6 Nieodebranych",
       "url": "https://open.spotify.com/track/40pG0zUU8nkh8Z3uujSwYP"
@@ -886,6 +886,24 @@
       "duration_ms": 147500,
       "name": "ANORAK",
       "url": "https://open.spotify.com/track/1CnWxa71t13iEYsIY6IgmA"
+    },
+    {
+      "album": {
+        "name": "Antrakt",
+        "url": "https://open.spotify.com/album/7f3xtCxNXjL3UwxDid836T"
+      },
+      "artists": [
+        {
+          "name": "Avi",
+          "url": "https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176275,
+      "name": "Antrakt",
+      "url": "https://open.spotify.com/track/2MHEXLyLu7FnpWWOhu1QAh"
     },
     {
       "album": {
@@ -1571,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "CAROLINE",
+        "url": "https://open.spotify.com/album/3xo0DaQRf5bV94HKjeUHRm"
+      },
+      "artists": [
+        {
+          "name": "Eryk Moczko",
+          "url": "https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146865,
+      "name": "CAROLINE",
+      "url": "https://open.spotify.com/track/70VHwSnDNX9Vu4gDCYz3iL"
+    },
+    {
+      "album": {
         "name": "Cartier",
         "url": "https://open.spotify.com/album/13w9q0479xVbAnpJAxA8Sq"
       },
@@ -1830,6 +1866,32 @@
       "duration_ms": 147750,
       "name": "Chevy Tahoe",
       "url": "https://open.spotify.com/track/0CLiYWy7oPUicVElT0woQH"
+    },
+    {
+      "album": {
+        "name": "Cho\u0107 nie wida\u0107 na zewn\u0105trz",
+        "url": "https://open.spotify.com/album/094bivxsNiwTsHwQaQZtUV"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "Bedoes 2115",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        },
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Cho\u0107 nie wida\u0107 na zewn\u0105trz",
+      "url": "https://open.spotify.com/track/7ku8Eh5guoneeMmuuzzWmN"
     },
     {
       "album": {
@@ -2692,7 +2754,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 150500,
       "name": "DM",
       "url": "https://open.spotify.com/track/2EwQaHnQWJK8zWv9W44FsE"
@@ -4172,7 +4234,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 120000,
       "name": "INTERNATIONAL",
       "url": "https://open.spotify.com/track/55RyJS8aJQACDQvXMdq3QS"
@@ -4880,6 +4942,28 @@
       "duration_ms": 135000,
       "name": "Kocha\u0142em to co wulgarne",
       "url": "https://open.spotify.com/track/1FRHqTK2Rzof2zHxGTQfFR"
+    },
+    {
+      "album": {
+        "name": "Kocie oczy",
+        "url": "https://open.spotify.com/album/0l6Lgu9yVhB7HjQLCj0mOX"
+      },
+      "artists": [
+        {
+          "name": "Cheatz",
+          "url": "https://open.spotify.com/artist/4ZA66hsvIPVsSelQsobJ0B"
+        },
+        {
+          "name": "buffalo",
+          "url": "https://open.spotify.com/artist/1bVkR5pJgnHF3XwmKbhv5v"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141288,
+      "name": "Kocie oczy",
+      "url": "https://open.spotify.com/track/5elP52iIC8BW92SVbXQYYz"
     },
     {
       "album": {
@@ -6272,7 +6356,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 178604,
       "name": "MONEY",
       "url": "https://open.spotify.com/track/2dHTM7rxqfbe81yC2jS4TP"
@@ -6420,6 +6504,28 @@
       "duration_ms": 106975,
       "name": "MUSZ\u0118 TO WYKRZYCZE\u0106",
       "url": "https://open.spotify.com/track/6RUbdD23fL9PQYnOMd8L7b"
+    },
+    {
+      "album": {
+        "name": "m\u0142ody gandolfini",
+        "url": "https://open.spotify.com/album/3hzZqUcymHfXpnuo9Czhig"
+      },
+      "artists": [
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1"
+        },
+        {
+          "name": "Favst",
+          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "m\u0142ody gandolfini",
+      "url": "https://open.spotify.com/track/3tf8gSdD6Ch9Rz4H2uJKOO"
     },
     {
       "album": {
@@ -7242,7 +7348,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 146400,
       "name": "NOT THE SAME",
       "url": "https://open.spotify.com/track/6SsZgjhyk3bUK8TEgv70v1"
@@ -8733,6 +8839,28 @@
     },
     {
       "album": {
+        "name": "P\u0118-TLA",
+        "url": "https://open.spotify.com/album/1fANUIU5t2Atd1HqMUJnK2"
+      },
+      "artists": [
+        {
+          "name": "NOON",
+          "url": "https://open.spotify.com/artist/217g6UPKLNKLuJmZK9nDDE"
+        },
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115851,
+      "name": "P\u0118-TLA",
+      "url": "https://open.spotify.com/track/24qErivFb4fp512LeGn2Vf"
+    },
+    {
+      "album": {
         "name": "RAP",
         "url": "https://open.spotify.com/album/4PSXiixxn1Qhqofe4qwf05"
       },
@@ -9662,7 +9790,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 149294,
       "name": "Sto tysi\u0119cy razy",
       "url": "https://open.spotify.com/track/3RlAPj4lqXQXdJOtim4exV"

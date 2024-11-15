@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Обкладинка: Маша Кондратенко
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,001 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,009 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 49 | [Тільки ти](https://open.spotify.com/track/0la7Rdsp1ddsPfdQc9Aovz) | [GLASOVA](https://open.spotify.com/artist/0iaWbkHT0UbDhOBOJY177C) | [Тільки ти](https://open.spotify.com/album/7ysgice1nSMCsEDAJqYeX1) | 2:59 |
 | 50 | [Кави чорні, турки срібні](https://open.spotify.com/track/2PUxg4jz5k1sXvvBz6Gcvs) | [Shopping Hour](https://open.spotify.com/artist/1dVLbi3cBOdwu68IX5ka3U) | [Кави чорні, турки срібні](https://open.spotify.com/album/3PR7ta2WwXFHM8hEaTLYxu) | 3:07 |
 
-Snapshot ID: `Zy04YAAAAAAIKct/JW7ooAucG9xo4iBM`
+Snapshot ID: `Zy04YAAAAAB38ZBwnGgH8/zhq3D36pgO`

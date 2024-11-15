@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Hudson Westbrook
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,256,142 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,256,253 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Icing](https://open.spotify.com/track/2RVt7eNsTP8XC63vEtg8Nj) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Icing](https://open.spotify.com/album/6SiYJpe4huq9wMn2otDJmk) | 2:28 |
 | 100 | [I Love the Way You Love Me](https://open.spotify.com/track/48oLajvNQsUqGHl6r24hMY) | [Walker Montgomery](https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl) | [I Love the Way You Love Me](https://open.spotify.com/album/2XCOqR6y7UzbLmGnhTh4tV) | 3:55 |
 
-Snapshot ID: `Zy2a0AAAAADCZ68j0u/GzbHtrugRs8CF`
+Snapshot ID: `Zy2a0AAAAAA11JJV1r+L/n+Y7OgET57v`

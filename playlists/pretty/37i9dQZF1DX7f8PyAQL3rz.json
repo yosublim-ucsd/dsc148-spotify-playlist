@@ -1,12 +1,12 @@
 {
   "description": "e o pre\u00e7o da passagem t\u00e1 como, xam\u00e3?",
-  "num_followers": 1402885,
+  "num_followers": 1402960,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy1/ZAAAAAB9KuhxBixJVDv5wdRjcPdC",
+  "snapshot_id": "Zy1/ZAAAAABbZ/Enzwgo7qt2vMMueiHm",
   "tracks": [
     {
       "added_at": "2024-11-08 03:03:00",
@@ -307,42 +307,6 @@
     {
       "added_at": "2024-11-08 03:03:00",
       "album": {
-        "name": "THE BOX MEDLEY FUNK 2",
-        "url": "https://open.spotify.com/album/0dW6ozKchun19vdN4BSIUy"
-      },
-      "artists": [
-        {
-          "name": "THE BOX",
-          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
-        },
-        {
-          "name": "Mc Brinquedo",
-          "url": "https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP"
-        },
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "MC Tuto",
-          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
-        },
-        {
-          "name": "Mc Laranjinha",
-          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
-        },
-        {
-          "name": "DJ Oreia",
-          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "THE BOX MEDLEY FUNK 2",
-      "url": "https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD"
-    },
-    {
-      "added_at": "2024-11-08 03:03:00",
-      "album": {
         "name": "365 Dias (Vida Mansa)",
         "url": "https://open.spotify.com/album/49TkAXV7QtwIAHwJ6Xusjt"
       },
@@ -375,6 +339,42 @@
       "duration_ms": 527220,
       "name": "365 Dias (Vida Mansa)",
       "url": "https://open.spotify.com/track/2drZGdAOxfE2KoMGTkidmq"
+    },
+    {
+      "added_at": "2024-11-08 03:03:00",
+      "album": {
+        "name": "THE BOX MEDLEY FUNK 2",
+        "url": "https://open.spotify.com/album/0dW6ozKchun19vdN4BSIUy"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "Mc Brinquedo",
+          "url": "https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP"
+        },
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Mc Laranjinha",
+          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
+        },
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "THE BOX MEDLEY FUNK 2",
+      "url": "https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD"
     },
     {
       "added_at": "2024-11-08 03:03:00",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2024-11-08 03:03:00",
       "album": {
-        "name": "Funk Supera\u00e7\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2KvTPBd1l052Tnk3RxU6tt"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/2CuqyqrWjGKGIN5mgSqT1i"
-        }
-      ],
-      "duration_ms": 208241,
-      "name": "Novos Ricos - Ao Vivo",
-      "url": "https://open.spotify.com/track/68eRXsHoxQMBxtTR60hKPv"
-    },
-    {
-      "added_at": "2024-11-08 03:03:00",
-      "album": {
         "name": "Set Ajc 2",
         "url": "https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 265234,
       "name": "Set Ajc 2",
       "url": "https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK"
+    },
+    {
+      "added_at": "2024-11-08 03:03:00",
+      "album": {
+        "name": "Funk Supera\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2KvTPBd1l052Tnk3RxU6tt"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/2CuqyqrWjGKGIN5mgSqT1i"
+        }
+      ],
+      "duration_ms": 208241,
+      "name": "Novos Ricos - Ao Vivo",
+      "url": "https://open.spotify.com/track/68eRXsHoxQMBxtTR60hKPv"
     },
     {
       "added_at": "2024-11-08 03:03:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G?si=rM\-9M\-\_LRumV7XBWJ\-50Ig">Saràh Phenom</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,447 likes - 56 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,468 likes - 56 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 55 | [Wàsérè](https://open.spotify.com/track/6QeLXEmMJsuu3r9RtKncCT) | [Shakez Baba](https://open.spotify.com/artist/00PhKPpeUoTjBkHBhqA4Ky), [Jamz FR](https://open.spotify.com/artist/0ogU1vFCg3izozUsK7ij5q) | [Wàsérè](https://open.spotify.com/album/5v8BKpKUZEfIJ91uB7AjYE) | 2:36 |
 | 56 | [Talk About Us](https://open.spotify.com/track/5EWWL5T40EHpeJIwgFSLS5) | [Kipsang](https://open.spotify.com/artist/4cI5lpdbDYDbsEMMU7kAK3) | [You](https://open.spotify.com/album/1oFkiGFMyPQxD6Huv7EMB3) | 3:50 |
 
-Snapshot ID: `ZzRHXwAAAAAmdY7bN3HcE1q1eoM+XEVm`
+Snapshot ID: `ZzRHXwAAAADDJK0ubK08M/AYzGI7mfZh`

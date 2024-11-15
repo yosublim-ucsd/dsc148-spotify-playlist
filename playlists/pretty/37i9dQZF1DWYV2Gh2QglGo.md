@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Tyler Joe Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,632 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,626 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 49 | [I Need A Saviour](https://open.spotify.com/track/0lULeUjpSe1fA2nh6n8FPk) | [Luke Boland](https://open.spotify.com/artist/703HJRpit4XmHFG0Cv72ok) | [I Need A Saviour](https://open.spotify.com/album/59WY5p3CaRPtkp84mXjYrc) | 4:39 |
 | 50 | [Somewhere Tonight](https://open.spotify.com/track/5WKvFzLf56YHXBkHEhfNCB) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [Somewhere Tonight](https://open.spotify.com/album/7kyYOT9mx5VaYu8iVoIK57) | 3:01 |
 
-Snapshot ID: `Zy2a0AAAAAAR4DG1euM068k3cj8Yb3y0`
+Snapshot ID: `Zy2a0AAAAABQllRWgjaWDzlGJU6l5hKI`

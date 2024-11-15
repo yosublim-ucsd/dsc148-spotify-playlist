@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYCFw2RcTh.md) - [plain]
 | 9 | [PREMIER LEAGUE ÄR ÖVERSKATTAT! \| ”LAMINE YAMAL ÄR VÄRLDENS BÄSTA SPELARE!”](https://open.spotify.com/episode/1Pnph5XK9oVpyqVzgk4x2C) | [Fri Roll \- Studion](https://open.spotify.com/show/52hz4OODwSu70PhIkzdTYv) | [Fri Roll \- Studion](https://open.spotify.com/album/52hz4OODwSu70PhIkzdTYv) | 1:33:38 |
 | 10 | [ISAK HIEN GÄSTAR FRI ROLL \| JANNE ANDERSSON ELLER JON DAHL TOMASSON?!](https://open.spotify.com/episode/1tcCU7GR7pHqaScbaQSEaR) | [Fri Roll \- Studion](https://open.spotify.com/show/52hz4OODwSu70PhIkzdTYv) | [Fri Roll \- Studion](https://open.spotify.com/album/52hz4OODwSu70PhIkzdTYv) | 1:13:59 |
 
-Snapshot ID: `Zyza6gAAAABE4HqELhVAC6S3MnVDbvPZ`
+Snapshot ID: `Zyza6gAAAAAtxZUteGiotFqq39laZqrD`

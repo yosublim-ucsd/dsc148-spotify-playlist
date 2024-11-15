@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 766 likes - 131 songs - 14 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 767 likes - 131 songs - 14 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 81 | [Journey \(feat\. Mitch Wong\)](https://open.spotify.com/track/2tG2nzOL2dsQaWZ8ic5xsF) | [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Not Just Stories](https://open.spotify.com/album/1fpsdfEyu0qiyGGGWWyGfO) | 7:01 |
 | 82 | [i wanna know you](https://open.spotify.com/track/63kpls0IOhujK5BG0lv0GY) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 3:38 |
 | 83 | [keep going](https://open.spotify.com/track/4YwCyPMelfD7BRiUyU1jki) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 3:11 |
-| 84 | [How Did You Find Me?](https://open.spotify.com/track/0eRzWtiUEhXOVdiXAXpJRc) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 2:28 |
-| 85 | [Worthy \(Spontaneous\) \[feat\. Dante Bowe\]](https://open.spotify.com/track/7N3RQ53JsW95PzLUcvjS4F) | [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Tribl Nights Atlanta](https://open.spotify.com/album/1FCLtg80IaZgG5WDJirlqt) | 8:50 |
+| 84 | [Worthy \(Spontaneous\) \[feat\. Dante Bowe\]](https://open.spotify.com/track/7N3RQ53JsW95PzLUcvjS4F) | [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Tribl Nights Atlanta](https://open.spotify.com/album/1FCLtg80IaZgG5WDJirlqt) | 8:50 |
+| 85 | [How Did You Find Me?](https://open.spotify.com/track/0eRzWtiUEhXOVdiXAXpJRc) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 2:28 |
 | 86 | [Every Worship Song Ever](https://open.spotify.com/track/587PUyOpjizhIflg4G1nDH) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Worship Medleys](https://open.spotify.com/album/7N1ho46uf68qsA1yaGsP7M) | 3:38 |
 | 87 | [all god's children](https://open.spotify.com/track/60rKXvSk2x9zKrkHvwrBmi) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 2:56 |
 | 88 | [over and over](https://open.spotify.com/track/0Qeo804O6a6O5Ad3zsNkFm) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 3:37 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 130 | [We Win](https://open.spotify.com/track/1s5hLtSYY4OxWvaVgxoSRK) | [Christina Bell](https://open.spotify.com/artist/3qNDQQUVRmXjr8wRuRUuI0) | [Still Faithful](https://open.spotify.com/album/5UWqdrtfkYqIYczMQn0W9M) | 6:36 |
 | 131 | [Champion/Gratitude \- Live](https://open.spotify.com/track/4L7EfoJTqBiGJlHde4zncx) | [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/1geSpbhN3fFFhDCkkq385b) | 10:46 |
 
-Snapshot ID: `AbhbaAAAAAAR5wkvrIh7G4bzcEVm0EQ4`
+Snapshot ID: `Abhg/gAAAADz60Qz9BR5Kr8frhyFwTlt`

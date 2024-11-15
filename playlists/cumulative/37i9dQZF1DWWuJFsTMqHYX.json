@@ -476,7 +476,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 252633,
       "name": "Azawad",
       "url": "https://open.spotify.com/track/5qXNi29uI1RWLhMx2DHiHk"
@@ -1766,6 +1766,24 @@
       "duration_ms": 223973,
       "name": "Sinanon Saran (Chant de griot)",
       "url": "https://open.spotify.com/track/1ASQZ8acmZj1IOFoXggUf9"
+    },
+    {
+      "album": {
+        "name": "Idrache (Traces Of The Past)",
+        "url": "https://open.spotify.com/album/7jb5uGv2a578i7xRM063ZZ"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313626,
+      "name": "Soixante Trois",
+      "url": "https://open.spotify.com/track/2PY1sEINloyS5qE2c8pZ9M"
     },
     {
       "album": {

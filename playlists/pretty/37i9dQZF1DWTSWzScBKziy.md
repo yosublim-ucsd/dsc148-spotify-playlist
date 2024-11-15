@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover: <a href="spotify:artist:6zuKZ8dwAsS828nS4xyZ9y">Lydia Laird</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,948 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,966 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 54 | [never felt this before](https://open.spotify.com/track/1CSoqxLEv6kKF7biUnKY76) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [never felt this before](https://open.spotify.com/album/4Tqbo9Hpzp5NveefCkPMkJ) | 4:07 |
 | 55 | [Your Cross Is Everything](https://open.spotify.com/track/0ze66t6iOmallLyPADgeZ3) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [Your Cross Is Everything](https://open.spotify.com/album/6HWTO02Y2LAPsPQ8vuaVXR) | 3:55 |
 
-Snapshot ID: `Zwj64gAAAAD1tj2ijqRLFXW4qQDiNN3g`
+Snapshot ID: `Zwj64gAAAAAg4Tp/NflnZNqtVwd9Zhay`

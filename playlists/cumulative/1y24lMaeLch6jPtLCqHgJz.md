@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-373 songs - 18 hr 56 min
+374 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2023-06-02 |  |
 | [Dudada](https://open.spotify.com/track/1GENOPUqhM4POXH65ZnqZm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Goldcher](https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Dudada](https://open.spotify.com/album/6IvbfG3vczBLqQITICdpKR) | 2:08 | 2024-10-04 |  |
 | [Edge Of Tonight](https://open.spotify.com/track/06XwKR1TK5VqEkAmtxBfdn) | [Yohann Warren](https://open.spotify.com/artist/0KPaZqSst478dYqODQG37L), [Brunetti](https://open.spotify.com/artist/57HqYJzEeUisul8wKeOrOB) | [Edge Of Tonight](https://open.spotify.com/album/48V7kmffIm49A37EyyLUPH) | 2:48 | 2022-07-29 | 2022-08-27 |
+| [El Matatan](https://open.spotify.com/track/7xpM4PDiSvw7Xurt6xrLrd) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [El Matatan](https://open.spotify.com/album/3DnleWV2TK0aQwbIyntnsj) | 2:11 | 2024-11-14 |  |
 | [Empty](https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Empty](https://open.spotify.com/album/5UPw5Z0vsHExBhH56uS3iQ) | 3:18 | 2024-03-08 | 2024-04-12 |
 | [Empty City](https://open.spotify.com/track/4kV5j4OqLxLPD6i3kCIKoD) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [Empty City](https://open.spotify.com/album/05qA73wEVpqEmOcDpEutiy) | 3:11 | 2022-09-09 | 2022-12-17 |
 | [Energy Flow Eternal](https://open.spotify.com/track/66TbpLvQxLqEctvObaZL3y) | [Isildur](https://open.spotify.com/artist/0aFceuqfrsUjmily2OAgW4) | [Energy Flow Eternal](https://open.spotify.com/album/67INXDCZGg6iHi9gxJVCxm) | 2:06 | 2024-02-14 |  |

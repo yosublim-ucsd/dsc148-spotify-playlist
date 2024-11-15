@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: State Champs
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,673 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,697 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Enjoy](https://open.spotify.com/track/12sB4k4JIOvvlKqJzEHt3U) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Enjoy](https://open.spotify.com/album/7pKWkydV4yy6huq1W4EGKf) | 4:03 |
 | 100 | [No Obligation](https://open.spotify.com/track/5AnKgZ8Ctag36HxyPP5Uzn) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [No Obligation](https://open.spotify.com/album/1HVe5wBBPAASqbV4j6qhQg) | 2:06 |
 
-Snapshot ID: `Zy1UgAAAAACJ1vsWBMzHExSFnickW13h`
+Snapshot ID: `Zy1UgAAAAACsosooUsmwjrIGEosLB/i9`

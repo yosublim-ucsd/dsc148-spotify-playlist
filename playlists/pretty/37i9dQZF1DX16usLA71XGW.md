@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > East Africa queens in their music bag\. Cover: Maua Sama
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,508 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,513 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 59 | [On my way!](https://open.spotify.com/track/5gafkd7SV0YJZ3xriEJEqv) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk) | [PINK PM](https://open.spotify.com/album/7Mwbp0ArZhIjOpRdzrGyb8) | 2:34 |
 | 60 | [Otulo](https://open.spotify.com/track/0P1NDu5JWfCXnAA0CdLf1w) | [Zafaran](https://open.spotify.com/artist/1rnLZUBB2QLpNeTrdOElWw) | [Otulo](https://open.spotify.com/album/6kCT9FtonNw8R8cG7Hy4yV) | 3:37 |
 
-Snapshot ID: `Zy1URAAAAADOuliHXlywFJVnLSaRLtHS`
+Snapshot ID: `Zy1URAAAAAAqXSo6U7Q+/h5+6WEjmQ6x`

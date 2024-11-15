@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,790 likes - 64 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,808 likes - 64 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 63 | [My Mind](https://open.spotify.com/track/5Rd2FpUs8UZJvbZln1yfy3) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [My Mind](https://open.spotify.com/album/3iq5wc6NOJSHigqnc4yXsX) | 5:54 |
 | 64 | [Begin Again](https://open.spotify.com/track/7ITermg9dAEVvxepO1LQgM) | [XIXI](https://open.spotify.com/artist/6hkvnjLeIb4gSHy3GImvqw) | [Begin Again](https://open.spotify.com/album/4QmKRGfqYpNRVwIbM3PbRB) | 3:22 |
 
-Snapshot ID: `ZyiARAAAAAArhbePZZXNakQe/vhxlZm6`
+Snapshot ID: `ZyiARAAAAABtVIxyTIe6G6V/0jORPAzu`

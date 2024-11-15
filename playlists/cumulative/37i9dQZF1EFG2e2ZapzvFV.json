@@ -2778,10 +2778,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 249303,
       "name": "Stay",
       "url": "https://open.spotify.com/track/753BbSf5WbaXOJjQgOgxY6"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/5j0FgJxARSQd91znRQrVkd"
+      },
+      "artists": [
+        {
+          "name": "indi",
+          "url": "https://open.spotify.com/artist/1m7azj0LWTDGWAPvgvGPGa"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249303,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/7l8HiGTHMix5788jAiekrb"
     },
     {
       "album": {

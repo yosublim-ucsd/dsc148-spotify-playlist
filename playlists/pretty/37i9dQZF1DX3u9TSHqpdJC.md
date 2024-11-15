@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists and labels\. Cover:  Dani Marchio\.  Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,284 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,333 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 99 | [Famous](https://open.spotify.com/track/5x1TPsoSvyrZkJM9JXRiWj) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [Famous](https://open.spotify.com/album/1qhzuAx20QoG9IIcl2X4Me) | 3:00 |
 | 100 | [Can't Complain](https://open.spotify.com/track/1vDMeYgFqDeicy8OtIr9nB) | [Chase Behar](https://open.spotify.com/artist/28B346ru2FJIXLEW859YbG) | [Can't Complain](https://open.spotify.com/album/0nRdDiS1USIQgFr0fCLhQL) | 2:40 |
 
-Snapshot ID: `ZzQyUAAAAAB4C0/JUaiM+9lVQit0rvxy`
+Snapshot ID: `ZzQyUAAAAACLBMb3vPc3Rhjefte88FIZ`

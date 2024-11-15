@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Party\-ready, the biggest Bollywood dance tracks\. Cover \- Stree 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 949,407 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,169 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 | 74 | [Tamma Tamma Again](https://open.spotify.com/track/5sqPE9h98DkO5ms20NUiUg) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Badrinath Ki Dulhania](https://open.spotify.com/album/26ska1StQhwbWADLTg2hky) | 3:19 |
 | 75 | [Chamma Chamma](https://open.spotify.com/track/00NksXMaWtsTARuoZmt0GJ) | [Neha Kakkar](https://open.spotify.com/artist/1xhSZgJOFzhEyd1Zn0nTSq), [Romy](https://open.spotify.com/artist/23SOvueHCnImFcoym7pqEd), [Arun](https://open.spotify.com/artist/7gWRtSKGQ95UXoYMnOn83L), [Ikka](https://open.spotify.com/artist/2YqdhX6ZdyIM5a5GtnUIlQ) | [Fraud Saiyaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74YnleSJc8taZEOtTJX5vp) | 3:16 |
 
-Snapshot ID: `ZzRNUwAAAADgRSgLDz2dx+RRd6EYawLP`
+Snapshot ID: `ZzRNUwAAAACdT6qaaz7jW28QaFVIhDbv`

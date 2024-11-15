@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 > Listen to women at full volume, featuring ambassador Bea and her Business 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,549 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,557 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 39 | [Late to the World](https://open.spotify.com/track/3duHt1lSXBP7OnyWnVbhJG) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Late to the World](https://open.spotify.com/album/4i6RhvT0tM0B5hRTbBJTwJ) | 3:32 |
 | 40 | [Someone Else](https://open.spotify.com/track/4vkXqsEML2t4PJuWdGLKrU) | [TS Graye](https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9) | [Someone Else](https://open.spotify.com/album/0qeDAljm3Up71IapQ1Oy5n) | 3:19 |
 
-Snapshot ID: `ZyqxgAAAAABKxCmZaQSpm+uRZNTpskLB`
+Snapshot ID: `ZyqxgAAAAABaokiLzu7wMohysJ8P0lX8`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > a unique mix of rock, punk, alt & indie\. Cover: Pixies
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,124 likes - 105 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,140 likes - 105 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 104 | [The Bonnie Banks](https://open.spotify.com/track/0mJyky6GQhSABg8qX2Au4p) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [The Bonnie Banks](https://open.spotify.com/album/77VQlxZYP0S3jNDnSoK6jC) | 3:18 |
 | 105 | [Tongues ii](https://open.spotify.com/track/5hsiKHlyGKPgJgxKRzU01O) | [Slomo Sapiens](https://open.spotify.com/artist/1TDdS4QH1Z5hNQNe4YeM3Q) | [Tongues ii](https://open.spotify.com/album/39eb7GTOFKzbixXcKZBA3p) | 5:36 |
 
-Snapshot ID: `ZyonIwAAAADlCwb6on/HiyjmOueh24Q9`
+Snapshot ID: `ZyonIwAAAAAhtOy2JmzZx51PmcfMyIbn`

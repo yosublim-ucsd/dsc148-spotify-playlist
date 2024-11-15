@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,969 likes - 40 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,970 likes - 40 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 39 | [Tower Of Song](https://open.spotify.com/track/0qPgVf2honwvo1D1y2yAQV) | [Henry Wagons](https://open.spotify.com/artist/3jRsf763TfMHcHVvRhE2TK) | [Tower Of Song](https://open.spotify.com/album/1o9q9Kju40TUi39gcOzHNZ) | 3:33 |
 | 40 | [Priests](https://open.spotify.com/track/2oSuNL0HLPFVe9VKpMVPOj) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Judy Collins Sings Leonard Cohen: Democracy](https://open.spotify.com/album/7Ferd5c8F0JJOptUiMmxqZ) | 4:57 |
 
-Snapshot ID: `ZMLPJgAAAAAYHImLqr4DDvFJ2yIrOleC`
+Snapshot ID: `ZMLPJgAAAACweFGrAoWCX5RsvcKhZ0Ib`

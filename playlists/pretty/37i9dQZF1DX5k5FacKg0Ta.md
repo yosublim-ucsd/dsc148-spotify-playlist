@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,914 likes - 89 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,916 likes - 89 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 | 88 | [Celestial Heights](https://open.spotify.com/track/4mPtjZ3GTE6vrjo20YcQ2b) | [North of Kallio Ensemble](https://open.spotify.com/artist/7sB7k5nRT61iJ4HDliQRtQ) | [Constellations](https://open.spotify.com/album/3PWjcHNKxKXs2uGGOCRVqO) | 5:01 |
 | 89 | [Ask Me Now](https://open.spotify.com/track/1JRBmuvgDW9rcoJst2oJre) | [Teemu Viinikainen](https://open.spotify.com/artist/0OgaFFwXXVXsIpAaPS2EBR) | [Ask Me Now](https://open.spotify.com/album/0DBEAQOu9OhVK4BUE3tiJf) | 2:30 |
 
-Snapshot ID: `Zxq1jAAAAABaZ5OxyKnTOd/TgIDVnRgB`
+Snapshot ID: `Zxq1jAAAAACRTt4D8l25EaEtFUgTTauJ`

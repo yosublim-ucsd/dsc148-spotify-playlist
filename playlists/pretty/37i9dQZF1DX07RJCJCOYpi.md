@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Oscar Maydon & Steve Aoki
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,940,305 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,940,267 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 59 | [BEACHY \(Play\-N\-Skillz House Remix\)](https://open.spotify.com/track/73DBgvxxWCJxgwqhlBK4pa) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [BEACHY \(Play\-N\-Skillz House Remix\)](https://open.spotify.com/album/3uLcK52pbcbW74QQZseCYv) | 3:25 |
 | 60 | [Hueso](https://open.spotify.com/track/4ghBopBP7XwIiqdnkH7hUv) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Lucy Vives](https://open.spotify.com/artist/38J4nu5eGAEtwWH9fSWEj4) | [Hueso](https://open.spotify.com/album/3slBqlYuBO49cney0hb3hk) | 5:12 |
 
-Snapshot ID: `Zy2a0AAAAADe+i9+ON9CNf98qPHPCGL/`
+Snapshot ID: `Zy2a0AAAAAAXBj/oTOlmNvtO1a7eud5H`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,226 likes - 231 songs - 14 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,244 likes - 231 songs - 14 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -240,4 +240,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 230 | [Hot \(Remix\) \[with Cha Cha Malone\]](https://open.spotify.com/track/20DnballHnEphPm9uwkvz8) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Cha Cha Malone](https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF) | [Evolution](https://open.spotify.com/album/5nDgTF3gUrgk9UZmUHonhp) | 3:57 |
 | 231 | [나나 Nana \(feat\. 로꼬 Loco\)](https://open.spotify.com/track/1RBGPgMpH4zPMGANycx267) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Evolution](https://open.spotify.com/album/5nDgTF3gUrgk9UZmUHonhp) | 3:23 |
 
-Snapshot ID: `ZweiXAAAAABk+NEvXpJMHgBz6m1rZkSV`
+Snapshot ID: `ZweiXAAAAACTKUs45dkFYp3V3o7EyngW`

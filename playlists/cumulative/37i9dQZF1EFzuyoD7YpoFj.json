@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "Carla Boni con Angelini",
+        "url": "https://open.spotify.com/album/55jSs8KhXVChUs430bgkez"
+      },
+      "artists": [
+        {
+          "name": "Carla Boni",
+          "url": "https://open.spotify.com/artist/2J7iEpAkPqe41okCsm4Ja5"
+        }
+      ],
+      "date_added": "2024-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188035,
+      "name": "Acquerello Napoletano",
+      "url": "https://open.spotify.com/track/4J1fAfXhkKmFb7n66dgodJ"
+    },
+    {
+      "album": {
         "name": "2010 Texas Music Educators Association (TMEA): Lake Jackson Intermediate Men's Choir, Friendswood Jr. High School Varsity Treble Choir & Cook Middle School Advanced Girls Choir",
         "url": "https://open.spotify.com/album/183BMTpq5VxADcY2TCpVT1"
       },
@@ -316,24 +334,6 @@
       "duration_ms": 149533,
       "name": "Allez-Vous-En",
       "url": "https://open.spotify.com/track/7sknEj9q99PrdxoonlAniZ"
-    },
-    {
-      "album": {
-        "name": "Carla Boni con Angelini",
-        "url": "https://open.spotify.com/album/55jSs8KhXVChUs430bgkez"
-      },
-      "artists": [
-        {
-          "name": "Carla Boni",
-          "url": "https://open.spotify.com/artist/2J7iEpAkPqe41okCsm4Ja5"
-        }
-      ],
-      "date_added": "2024-07-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 161053,
-      "name": "Amo Parigi (I love Paris)",
-      "url": "https://open.spotify.com/track/4J1fAfXhkKmFb7n66dgodJ"
     },
     {
       "album": {

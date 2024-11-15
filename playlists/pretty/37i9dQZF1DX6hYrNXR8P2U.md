@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Más música, menos etiquetas\.  <br/>📷 La Valenti
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,483 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,515 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 99 | [Costumbres Argentinas](https://open.spotify.com/track/4UnFhfC8IecX4iulGDE5W5) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Costumbres Argentinas](https://open.spotify.com/album/5HuDHspsc6Km4gEH1HabDS) | 3:05 |
 | 100 | [¿Cuánto Tiempo?](https://open.spotify.com/track/2KPJZGGDiU4AXImDydkP3s) | [SANTACRUZ](https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2) | [¿Cuánto Tiempo?](https://open.spotify.com/album/5mgaOULjcVaPxLFLKvVDFn) | 2:45 |
 
-Snapshot ID: `ZzIbnQAAAABIiyU0v1ymcrtD4+INNtlg`
+Snapshot ID: `ZzIbnQAAAACbvMemTjU9e5GuPH3GzRq6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Jazzy & KILIMANJARO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,951,213 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,951,241 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 74 | [Half Alive](https://open.spotify.com/track/3SgaIF7QF3DgRG3yFLlzVe) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Half Alive](https://open.spotify.com/album/6yKFZg4f9lFfEQ0cPNqFgY) | 3:32 |
 | 75 | [be gentle with me](https://open.spotify.com/track/1XEYRXmLvTdTfGR1ZKhPf7) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Two Shell](https://open.spotify.com/album/4jZZgPpyDqLuTq0LKgXwK6) | 3:51 |
 
-Snapshot ID: `Zy2a0AAAAABNKLa5uD9NKm9JM64RvnYv`
+Snapshot ID: `Zy2a0AAAAABzjydUxQenWSCkt+Ap059R`

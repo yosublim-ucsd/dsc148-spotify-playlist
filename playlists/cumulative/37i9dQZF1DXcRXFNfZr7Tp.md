@@ -2,7 +2,7 @@
 
 ### [just hits](https://open.spotify.com/playlist/37i9dQZF1DXcRXFNfZr7Tp)
 
-> Current favorites and exciting new music\. Cover: Kylie Minogue
+> Current favorites and exciting new music\. Cover: ROSÉ & Bruno Mars
 
 1,258 songs - 2 day 16 hr 57 min
 

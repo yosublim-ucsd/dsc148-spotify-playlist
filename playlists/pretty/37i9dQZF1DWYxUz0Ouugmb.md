@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Rizwan Fadilah
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,355 likes - 42 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,360 likes - 42 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 41 | [Bodoh](https://open.spotify.com/track/3sC5zNoeqCirdTFtuvpJ0D) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Bodoh](https://open.spotify.com/album/0W6CtBfGyNGW7fwiUwL81Z) | 4:08 |
 | 42 | [CAN I](https://open.spotify.com/track/7CX5DuU2TbX3eA0PFGysr7) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [CAN I](https://open.spotify.com/album/3yRgWoSiDOQQZmieXeXL75) | 3:46 |
 
-Snapshot ID: `Zv7NkAAAAADuf9+V7tJPl5Tfx9aGfBav`
+Snapshot ID: `Zv7NkAAAAADJA6LPIR3IG89qkxyGjX5p`

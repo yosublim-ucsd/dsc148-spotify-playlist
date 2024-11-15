@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzKagAAAAADUnRljBtMpS4i/0gvjOutZ",
+  "snapshot_id": "ZzPsAAAAAAAVBFbviOXT8UgR7ZbhozdH",
   "tracks": [
     {
       "added_at": null,
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 164293,
-      "name": "my conscience weighs a ton",
-      "url": "https://open.spotify.com/track/3QNDMB1kuF99oWG5aFKhYe"
+      "duration_ms": 237960,
+      "name": "shira",
+      "url": "https://open.spotify.com/track/0HykTfW0Y0FmjzEJuA7H8U"
     },
     {
       "added_at": null,
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 272413,
-      "name": "When One Eight Becomes Two Zeroes - 2009 Remaster",
-      "url": "https://open.spotify.com/track/3bdJiWDQFunhHDp3JWpyG7"
+      "duration_ms": 249480,
+      "name": "Lovebites and Razorblades - 2009 Remaster",
+      "url": "https://open.spotify.com/track/1QVIkU9GNUiIqciY2mJphl"
     },
     {
       "added_at": null,
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 237960,
-      "name": "shira",
-      "url": "https://open.spotify.com/track/0HykTfW0Y0FmjzEJuA7H8U"
+      "duration_ms": 164293,
+      "name": "my conscience weighs a ton",
+      "url": "https://open.spotify.com/track/3QNDMB1kuF99oWG5aFKhYe"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 249480,
-      "name": "Lovebites and Razorblades - 2009 Remaster",
-      "url": "https://open.spotify.com/track/1QVIkU9GNUiIqciY2mJphl"
+      "duration_ms": 272413,
+      "name": "When One Eight Becomes Two Zeroes - 2009 Remaster",
+      "url": "https://open.spotify.com/track/3bdJiWDQFunhHDp3JWpyG7"
     },
     {
       "added_at": null,
@@ -579,6 +579,38 @@
       "duration_ms": 344560,
       "name": "Oxycodone",
       "url": "https://open.spotify.com/track/0wZqLhJhaAxlDr8tVvpj9O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Rabbits",
+        "url": "https://open.spotify.com/album/4chJfqrlyXTDBVfVWH1nat"
+      },
+      "artists": [
+        {
+          "name": "Bad Rabbits",
+          "url": "https://open.spotify.com/artist/534rgZ76LDMlM7xLt9xSGR"
+        },
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        },
+        {
+          "name": "Black Sheep",
+          "url": "https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf"
+        },
+        {
+          "name": "Justin Beck",
+          "url": "https://open.spotify.com/artist/6Hdgvg4uQprLkVgPe5p5Nq"
+        },
+        {
+          "name": "Dres",
+          "url": "https://open.spotify.com/artist/1lwe4A6M5NIIAx7BiMoCUg"
+        }
+      ],
+      "duration_ms": 98776,
+      "name": "U Mean I'm Not",
+      "url": "https://open.spotify.com/track/2N97fOrsGpwkwTYtCvrPHd"
     }
   ],
   "unique_name": "This Is Glassjaw",

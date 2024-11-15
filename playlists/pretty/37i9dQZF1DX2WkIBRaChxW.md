@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in r&b, right now – featuring Ella Mai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,222 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,233 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 74 | [Want 2](https://open.spotify.com/track/6yWain3Q65m9WJzq48q24f) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Gap Year!](https://open.spotify.com/album/2ObDRU1wRJ2fZ2yD9WXNYy) | 2:26 |
 | 75 | [CARPINTERIA \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/70W3zEXIxCdMv8l8XfbhoG) | [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [CRYBABY](https://open.spotify.com/album/5ixcAtS032Nfn3Begu5I1y) | 3:37 |
 
-Snapshot ID: `Zy5jLwAAAAAhUvHChcRYU7rGbxwAFHJQ`
+Snapshot ID: `Zy5jLwAAAAAPIG+TkT0Pr0UJhml1OXKD`

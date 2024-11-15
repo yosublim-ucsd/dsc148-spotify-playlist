@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Tyler, The Creator
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,339,975 likes - 101 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,339,994 likes - 101 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 100 | [RAL2222 \- Radio Edit](https://open.spotify.com/track/3FInZ2hV2VEfiX6GL5xmNL) | [SEES00000](https://open.spotify.com/artist/6w3jNIUXSNbtWXNnAiBK45) | [If I Promise To Miss You, Will You Go Away](https://open.spotify.com/album/5l22b8qA3UUkrYFLfVWsnI) | 2:53 |
 | 101 | [HERE WE GO](https://open.spotify.com/track/3q0O02k68i5oaBgFKGij1j) | [H.LLS](https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD) | [HERE WE GO](https://open.spotify.com/album/4I98MShyUAObVPwcHeEEYd) | 3:00 |
 
-Snapshot ID: `ZzPEEAAAAACSJ7Pz5+T+32GQKhL0oh0e`
+Snapshot ID: `ZzPEEAAAAABL8rKjzju+P9E0L/x/feHW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,312 likes - 59 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,297 likes - 59 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 58 | [The Straw](https://open.spotify.com/track/3F9SgmBWLbDp0qD0WVAPkF) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [The Straw](https://open.spotify.com/album/7t9QfUb17D24LRVDinqbZR) | 4:04 |
 | 59 | [Closer \(feat\. Bantu\)](https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom) | [Closer \(feat\. Bantu\)](https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl) | 3:01 |
 
-Snapshot ID: `ZzO4PgAAAAAEg2JWVmQFu/qCaHJ1jk0f`
+Snapshot ID: `ZzO4PgAAAADaUSIKQ21XM/jHursdkaIl`

@@ -1,12 +1,12 @@
 {
   "description": "Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.",
-  "num_followers": 134820,
+  "num_followers": 134982,
   "original_name": "Cancionero Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpDGYAAAAABHqIrbKtHX3S2xCv8S7JcF",
+  "snapshot_id": "ZpDGYAAAAADluNQWO9gzR1ifKcEmpoau",
   "tracks": [
     {
       "added_at": "2024-07-12 06:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Homenaje a un Poeta",
-        "url": "https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO"
-      },
-      "artists": [
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 243495,
-      "name": "Carrera a Muerte",
-      "url": "https://open.spotify.com/track/5Sn7H60c3q068ywPNMeTWX"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Volar\u00e9",
         "url": "https://open.spotify.com/album/0yP1BBqUrfPnRBai5d63Yf"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 182276,
       "name": "Un idiota",
       "url": "https://open.spotify.com/track/35euE6BwKwWF3DeEoINvE9"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Homenaje a un Poeta",
+        "url": "https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 243495,
+      "name": "Carrera a Muerte",
+      "url": "https://open.spotify.com/track/5Sn7H60c3q068ywPNMeTWX"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -571,18 +571,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Homenaje a un Poeta",
-        "url": "https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO"
+        "name": "Un Lu*Jo",
+        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
       },
       "artists": [
         {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        },
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 195880,
-      "name": "El Padrino",
-      "url": "https://open.spotify.com/track/7zqJRHLM9MfoHj0WRRgAn2"
+      "duration_ms": 199573,
+      "name": "Esc\u00e1ndalo Social",
+      "url": "https://open.spotify.com/track/0AYYjkTEMtPFLrQ7YrzcWC"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -603,22 +607,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Un Lu*Jo",
-        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
+        "name": "Homenaje a un Poeta",
+        "url": "https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO"
       },
       "artists": [
         {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        },
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
         }
       ],
-      "duration_ms": 199573,
-      "name": "Esc\u00e1ndalo Social",
-      "url": "https://open.spotify.com/track/0AYYjkTEMtPFLrQ7YrzcWC"
+      "duration_ms": 195880,
+      "name": "El Padrino",
+      "url": "https://open.spotify.com/track/7zqJRHLM9MfoHj0WRRgAn2"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Homenaje a Joan Sebastian",
+        "url": "https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos Del Norte",
+          "url": "https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc"
+        }
+      ],
+      "duration_ms": 138083,
+      "name": "Un Carino Como Tu",
+      "url": "https://open.spotify.com/track/3Jgpbe7rXleRDdOJzsWCzJ"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Soy Como Quiero Ser (Deluxe)",
         "url": "https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe"
       },
@@ -691,38 +707,6 @@
       "duration_ms": 183768,
       "name": "Bandido de Amores",
       "url": "https://open.spotify.com/track/3Vqdfo6gPXVRdU5WdQi2VT"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Homenaje a un Poeta",
-        "url": "https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO"
-      },
-      "artists": [
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 189930,
-      "name": "Como T\u00fa Decidas",
-      "url": "https://open.spotify.com/track/7atNmWz49se35HjJG7rAqC"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Homenaje a Joan Sebastian",
-        "url": "https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos Del Norte",
-          "url": "https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc"
-        }
-      ],
-      "duration_ms": 138083,
-      "name": "Un Carino Como Tu",
-      "url": "https://open.spotify.com/track/3Jgpbe7rXleRDdOJzsWCzJ"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -759,6 +743,22 @@
       "duration_ms": 330696,
       "name": "Manuel Juarez",
       "url": "https://open.spotify.com/track/3u0O5ZhOuTYzFzRPRpyYsF"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Homenaje a un Poeta",
+        "url": "https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 189930,
+      "name": "Como T\u00fa Decidas",
+      "url": "https://open.spotify.com/track/7atNmWz49se35HjJG7rAqC"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Soy Como Quiero Ser (Deluxe)",
-        "url": "https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 155742,
-      "name": "Soy Como Quiero Ser",
-      "url": "https://open.spotify.com/track/2tOuiMcYx7f4dH2odXuArQ"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "La Mas Completa Coleccion (Disco 2)",
         "url": "https://open.spotify.com/album/4WcJ3z0XyHH6KMtpz6HthD"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 176453,
       "name": "La Mam\u00e1 De Los Pollitos",
       "url": "https://open.spotify.com/track/5LwKNFgJDGF2dMKOkDuPqn"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Soy Como Quiero Ser (Deluxe)",
+        "url": "https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 155742,
+      "name": "Soy Como Quiero Ser",
+      "url": "https://open.spotify.com/track/2tOuiMcYx7f4dH2odXuArQ"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Soy Como Quiero Ser (Deluxe)",
-        "url": "https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 195232,
-      "name": "25 Rosas",
-      "url": "https://open.spotify.com/track/0lrDFehYH6mT8tycGoZ7Z8"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "La Mas Completa Coleccion (Disco 2)",
         "url": "https://open.spotify.com/album/4WcJ3z0XyHH6KMtpz6HthD"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 186933,
       "name": "Dos Mares M\u00e1s Que Tu",
       "url": "https://open.spotify.com/track/7nLfZmxHpA4ITHpB2olVcc"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Soy Como Quiero Ser (Deluxe)",
+        "url": "https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 195232,
+      "name": "25 Rosas",
+      "url": "https://open.spotify.com/track/0lrDFehYH6mT8tycGoZ7Z8"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/7ARafZyz3I2D7aI2DsTF5P"
-      },
-      "artists": [
-        {
-          "name": "Los Dinnosaurios",
-          "url": "https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "El Taxista",
-      "url": "https://open.spotify.com/track/6vsxXwgCpGppUKFSDOildp"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Soy Como Quiero Ser (Deluxe)",
         "url": "https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 212427,
       "name": "Estuve",
       "url": "https://open.spotify.com/track/7ajsD2zgkQv3XnW05CGXPL"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/7ARafZyz3I2D7aI2DsTF5P"
+      },
+      "artists": [
+        {
+          "name": "Los Dinnosaurios",
+          "url": "https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "El Taxista",
+      "url": "https://open.spotify.com/track/6vsxXwgCpGppUKFSDOildp"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "A Qui\u00e9n Vas A Amar M\u00e1s Que A M\u00ed",
+        "url": "https://open.spotify.com/album/0ER0ByDLQTlDQ5jHruKjMO"
+      },
+      "artists": [
+        {
+          "name": "Los Nietos De Ter\u00e1n",
+          "url": "https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf"
+        },
+        {
+          "name": "La Abuela Irma Silva",
+          "url": "https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq"
+        }
+      ],
+      "duration_ms": 171613,
+      "name": "A Qui\u00e9n Vas A Amar M\u00e1s Que A M\u00ed",
+      "url": "https://open.spotify.com/track/1rjoK1uBEVZjOPGzxZbWDJ"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Soy Como Quiero Ser (Deluxe)",
         "url": "https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 213774,
       "name": "Botellita de Tequila",
       "url": "https://open.spotify.com/track/6BVvJ0yh983lZdDL04EXJz"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "A Qui\u00e9n Vas A Amar M\u00e1s Que A M\u00ed",
-        "url": "https://open.spotify.com/album/0ER0ByDLQTlDQ5jHruKjMO"
-      },
-      "artists": [
-        {
-          "name": "Los Nietos De Ter\u00e1n",
-          "url": "https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf"
-        },
-        {
-          "name": "La Abuela Irma Silva",
-          "url": "https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq"
-        }
-      ],
-      "duration_ms": 171613,
-      "name": "A Qui\u00e9n Vas A Amar M\u00e1s Que A M\u00ed",
-      "url": "https://open.spotify.com/track/1rjoK1uBEVZjOPGzxZbWDJ"
     },
     {
       "added_at": "2024-07-12 06:00:00",

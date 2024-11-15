@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZS3UUOdld0Q.md) - [plain]
 
 > Pra vencer no rap, é preciso dominar os palcos\. Rappers do Brasil se enfrentam nessa competição com Djonga, Filipe Ret e Tasha & Tracie\. Agora no Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,284 likes - 14 songs - 44 min 46 sec
+[Spotify](https://open.spotify.com/user/spotify) - 12,322 likes - 14 songs - 44 min 46 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,4 +23,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZS3UUOdld0Q.md) - [plain]
 | 13 | [ARRUME\-SE COMIGO](https://open.spotify.com/track/5uEC8WWulHOHNjEOgLAliZ) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [ARRUME\-SE COMIGO](https://open.spotify.com/album/2LXHRtoW5kSOWsW2eXmlsa) | 3:46 |
 | 14 | [JUNHO DE 94](https://open.spotify.com/track/2JLlkW8sNBoEpSCHJODPDH) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 5:29 |
 
-Snapshot ID: `ZzTu2QAAAACCeo6rf1SYMSOIrdM8uQIi`
+Snapshot ID: `ZzTu2QAAAAAyZC58APDvmOZo1YAnMiMC`

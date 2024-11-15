@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,490 songs - 2 day 8 hr 5 min
+1,492 songs - 2 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Chinatown](https://open.spotify.com/track/4JFEywEZvco1yrUW4UHC36) | [Call Lane](https://open.spotify.com/artist/0AJ4Z8Q5D5OM3llGtJXnXy) | [Capone](https://open.spotify.com/album/2WIJoDYo5qEnNBhwIcY5oQ) | 3:45 | 2022-01-27 | 2022-07-08 |
 | [Chirping Birds](https://open.spotify.com/track/5UQ6gqiN2mmbZJ7VhgGCb3) | [Snooze Operator](https://open.spotify.com/artist/5qtHCB1wotOjSqqexujcbk), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Chirping Birds](https://open.spotify.com/album/2k80liCYDxjaW4KaL2fIY6) | 1:48 | 2023-08-03 |  |
 | [Chocolate Cosmos](https://open.spotify.com/track/0sl6nQZO7BNqSLcKBVgKJp) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Summer Dusk](https://open.spotify.com/album/3WfgziQVxnrHbwQtFEsqey) | 2:10 | 2024-08-30 | 2024-10-26 |
+| [Choose Wisely](https://open.spotify.com/track/29XlsvVzwcO0WuawQvC3kv) | [Trish Lupin](https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz) | [Choose Wisely](https://open.spotify.com/album/5BHGnoAeiKv9N3qjItBSqr) | 2:10 | 2024-11-14 |  |
 | [Chop](https://open.spotify.com/track/1wfE8a7yX0KRzpEc83Vjfs) | [Flingu](https://open.spotify.com/artist/0fpxSOtcY0UGK16Vl8RCjt), [éurdún](https://open.spotify.com/artist/1JRioB3bu3XOIosyPBiVma) | [Chop](https://open.spotify.com/album/5EMRF4lcFiE6hXu3do4DtH) | 2:00 | 2022-10-08 | 2023-09-22 |
 | [Cinnamon](https://open.spotify.com/track/4pyVqxmgjlgKp4PWY9VdJp) | [Tinad](https://open.spotify.com/artist/15CCe8N73vvOy2ZYLEKmFs) | [Cinnamon](https://open.spotify.com/album/6ye2vtm17HqV3Rh74NVZzb) | 2:27 | 2023-02-13 | 2023-11-17 |
 | [City Blues](https://open.spotify.com/track/6SifLfcOTml8LV7f9LaVwH) | [Dulcet](https://open.spotify.com/artist/7kOMTlIze4HK68RCpaLBTp) | [City Blues](https://open.spotify.com/album/4FrDCGWpPCPaX370mJgiAj) | 1:30 | 2022-04-22 | 2022-11-26 |
@@ -595,7 +596,7 @@
 | [I'll See Myself Out](https://open.spotify.com/track/1TBsrLMWBcPPEtzwYzYPkb) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [I'll See Myself Out](https://open.spotify.com/album/6A9hTaAFPDgeKQE9Ulqxxi) | 2:09 | 2022-05-27 | 2022-06-03 |
 | [I'll Wait](https://open.spotify.com/track/4gTsqVEBYNVgdwzJligeIM) | [Lomoplay](https://open.spotify.com/artist/0R7NYzygUKT8QjUpDTylUo) | [I'll Wait](https://open.spotify.com/album/2WFVu3UGokQwdMCXNTr5BH) | 2:02 | 2022-01-27 | 2022-06-10 |
 | [I'm Out](https://open.spotify.com/track/50oE6KjOO1CrikNQ7DTlS1) | [Glass Globe](https://open.spotify.com/artist/0crpGDMvXANXQ6wyjkcDzu) | [Home Alone](https://open.spotify.com/album/1BcrJRI3FXOpFqxUUeoXeN) | 2:02 | 2022-01-27 | 2022-12-24 |
-| [Ice Mountain](https://open.spotify.com/track/3NKrot2fwnmwbNL8MUsWZw) | [Shogi Boy](https://open.spotify.com/artist/6Ye1lnToliYlxUujEDXip1) | [Ice Mountain](https://open.spotify.com/album/6uccgGz13yQU6L2bGKzsiq) | 1:48 | 2022-05-20 |  |
+| [Ice Mountain](https://open.spotify.com/track/3NKrot2fwnmwbNL8MUsWZw) | [Shogi Boy](https://open.spotify.com/artist/6Ye1lnToliYlxUujEDXip1) | [Ice Mountain](https://open.spotify.com/album/6uccgGz13yQU6L2bGKzsiq) | 1:48 | 2022-05-20 | 2024-11-15 |
 | [Iced Pandan Latte](https://open.spotify.com/track/6mSfWNWb8c5kIkahN4Glix) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY) | [Iced Pandan Latte](https://open.spotify.com/album/0iJ5jwKjklnvYcAxLjaOO9) | 2:27 | 2022-07-15 | 2022-12-10 |
 | [Iced Skinny Latte](https://open.spotify.com/track/4hukQ9nia9ZgGrSsZ4hN8t) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Iced Skinny Latte](https://open.spotify.com/album/5QSFp8O3JuVkB4YrVlqbPH) | 2:05 | 2022-10-15 | 2023-09-22 |
 | [Iced Tea](https://open.spotify.com/track/0Oi6aHYgfr4COgmxDGwo8n) | [ben the bird](https://open.spotify.com/artist/1i5mrAjdJZ6NHsruDGXVN1) | [Iced Tea](https://open.spotify.com/album/4C5mkfc3AZwaY8bFRV2vm0) | 2:23 | 2022-09-16 | 2023-09-05 |
@@ -789,7 +790,7 @@
 | [Medicinal Sushi](https://open.spotify.com/track/3mbwQJDnCQxyclWLlj47FG) | [Chris Mazuera](https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE), [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm) | [Medicinal Sushi](https://open.spotify.com/album/46UGUGL6oz0XVuSN6SkMcs) | 2:24 | 2022-01-27 | 2022-06-10 |
 | [Melancholy Day](https://open.spotify.com/track/3T7MF3XTwynzBtjK90uQrq) | [Slo Five](https://open.spotify.com/artist/5irIh5qdcXwDG9p7EWegeN) | [Melancholy Day](https://open.spotify.com/album/1aQVcBW6FOpE6X6OGbg1wS) | 2:18 | 2022-08-12 | 2022-10-15 |
 | [mellow](https://open.spotify.com/track/2a4h0dv6sfDs8UN4p54RN3) | [rwethree](https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT) | [mellow](https://open.spotify.com/album/0FNTsPW58jkxgq6X5GWGfc) | 1:57 | 2022-01-27 | 2022-05-27 |
-| [Mellow Out](https://open.spotify.com/track/3L5lVeJ7jOounMQFa4Q1dO) | [Poof Tricks](https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q) | [Mellow Out](https://open.spotify.com/album/7gZ6sGJpzHS4yQHJ9uBabA) | 2:50 | 2023-09-22 |  |
+| [Mellow Out](https://open.spotify.com/track/3L5lVeJ7jOounMQFa4Q1dO) | [Poof Tricks](https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q) | [Mellow Out](https://open.spotify.com/album/7gZ6sGJpzHS4yQHJ9uBabA) | 2:50 | 2023-09-22 | 2024-11-15 |
 | [Mellow Soul](https://open.spotify.com/track/2PTqDoJuM3W9Z9Zn1ddJfU) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Highway](https://open.spotify.com/album/0mk205AAszddbq1ogyLECX) | 2:28 | 2022-01-27 | 2023-04-21 |
 | [Memories](https://open.spotify.com/track/5llvDpJbfpRKqMpYh8Zem6) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi), [PBdR](https://open.spotify.com/artist/2f4COA6IKZu722NBWix5od) | [Memories](https://open.spotify.com/album/2O1AbZ6WJw2IpkgWVNGweR) | 2:03 | 2024-10-04 |  |
 | [Memphis](https://open.spotify.com/track/5bIGzdHT1CQzFLx3oM5HEk) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa), [Nathan Kay](https://open.spotify.com/artist/0nnry0bfORXrg0du8Ml10f), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Memphis](https://open.spotify.com/album/2PbkjD4087IcLhi28LIZUM) | 2:39 | 2022-08-19 | 2023-01-13 |
@@ -1095,6 +1096,7 @@
 | [S'all good](https://open.spotify.com/track/0un7JYCIAX5rQhMov6X3eU) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0) | [S'all good](https://open.spotify.com/album/3luUDxfzRT7kokLDX2mylJ) | 2:26 | 2022-10-08 | 2023-09-22 |
 | [Safe](https://open.spotify.com/track/6AmxUi6c3tBWe3TPKAwKwQ) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Safe](https://open.spotify.com/album/3LQbjJ9OnZJ1H43qhYbh6o) | 2:14 | 2022-08-19 |  |
 | [saffron echoes](https://open.spotify.com/track/2TixM05WePykQVfmxs1ojS) | [gnerf](https://open.spotify.com/artist/74bY9Mn9CdYFwFSkoDDxmP) | [saffron echoes](https://open.spotify.com/album/2ND2PhkXYVVBk8QQpm95kO) | 2:24 | 2023-09-22 |  |
+| [Sage Murmurs](https://open.spotify.com/track/0UkcmQSMRRT58xdbB36zq9) | [botanical alchemy](https://open.spotify.com/artist/66f4PoIR3xXkcFuciZNBdv) | [Sage Murmurs](https://open.spotify.com/album/0Rvi3oXE5kEbhFbUmandJC) | 1:57 | 2024-11-14 |  |
 | [sahara](https://open.spotify.com/track/3dnJ9V91tzRy6QjwyagZtu) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [sahara](https://open.spotify.com/album/4Kh5T5zUaRj3UfLuS5bhHU) | 1:50 | 2023-05-19 | 2023-09-29 |
 | [Sailing](https://open.spotify.com/track/6TwQwNXuUqMoGma4iyDkNW) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Sailing](https://open.spotify.com/album/4txjb7Ss3tZeBZF9Hd763R) | 2:28 | 2023-11-17 | 2024-10-10 |
 | [Sake Dab](https://open.spotify.com/track/3WSalxGbHnV3wIW5qP0OFi) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [Sake Dab](https://open.spotify.com/album/53SUXmywMUEMqbu16rbNYq) | 2:12 | 2024-08-23 |  |

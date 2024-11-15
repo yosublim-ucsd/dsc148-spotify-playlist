@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด และเพลงอิงกระแสตอนนี้\. ศิลปิน: Paper Planes
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,703 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,783 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 99 | [ดาวหางฮัลเลย์](https://open.spotify.com/track/56wDFSIa9Tr7zbEXUVMwjP) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ดาวหางฮัลเลย์](https://open.spotify.com/album/3ZqqQUWMeZasXiZhu7L1Zl) | 3:44 |
 | 100 | [ไม่คิดว่าจะเจ็บขนาดนี้](https://open.spotify.com/track/18nwXd2wrksn4ELwtglCOy) | [First Anuwat](https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny) | [ไม่คิดว่าจะเจ็บขนาดนี้](https://open.spotify.com/album/47Mmmv9hMKrda3jBQ1zpbR) | 3:38 |
 
-Snapshot ID: `Zy29sQAAAADCnuRqg1OzrYWl4x0/HGPH`
+Snapshot ID: `Zy29sQAAAACyTVSI7qrwAmTyUe3PIR7l`

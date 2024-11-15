@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,339 likes - 126 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,412 likes - 126 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 125 | [Venus](https://open.spotify.com/track/4EnHspKqEoHm7Y7qWsHiio) | [Suzi Quizas](https://open.spotify.com/artist/0uIPCZ3Iae8JJDDmEEuIon) | [Venus](https://open.spotify.com/album/1yi25ZYDp30WwXwQwMkvlu) | 1:43 |
 | 126 | [How High \- Instrumental](https://open.spotify.com/track/4HGXJaw3H9ED4ACfYd6ZhV) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [How High](https://open.spotify.com/album/4qlXsDXdQMHdWWZzqf6Hzm) | 3:49 |
 
-Snapshot ID: `ZzT0kwAAAABAsxNrYVg98gkpQZfjGT05`
+Snapshot ID: `ZzT0kwAAAAAGH6XXgj5gTTpQKhbUFNhY`

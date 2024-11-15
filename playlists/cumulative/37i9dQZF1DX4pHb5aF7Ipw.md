@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover: Chani Nattan, Inderpal Moga & Sukha
 
-256 songs - 11 hr 59 min
+257 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Cash Flow](https://open.spotify.com/track/3N8QJXbV2PjxbkC1wVMNdu) | [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M) | [Cash Flow](https://open.spotify.com/album/6oToj3eQlsBeuKcZnFBE2t) | 4:22 | 2024-10-22 |  |
 | [Chakkar](https://open.spotify.com/track/6cVA32Qy5BJH7tfSd3SvRm) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Eyepatch](https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj) | [Chakkar](https://open.spotify.com/album/1J4fg0GhFDmnqtimUJZZE3) | 2:36 | 2024-05-15 | 2024-07-30 |
 | [Challa](https://open.spotify.com/track/02CNhdsx0gHla9gNpuMc3E) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [King Love](https://open.spotify.com/artist/2DsVv0ixEl72QgRhMGAB1P), [Sukh Knight](https://open.spotify.com/artist/2NskCY8L26IYipQhRWousM) | [Challa](https://open.spotify.com/album/4gg6yNLDRY3NUo4lsIK0hB) | 2:48 | 2024-10-23 |  |
+| [Check Out](https://open.spotify.com/track/7tKj33kIZYAEsuStiBwMo6) | [NVY](https://open.spotify.com/artist/1NcRcMDkVhDDwtHF53VfSa) | [Check Out](https://open.spotify.com/album/4l6upDKFQtHS5PTwEYAiiu) | 2:26 | 2024-11-14 |  |
 | [Chhalla](https://open.spotify.com/track/449kMnMfoDIy55ELNelpWJ) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G) | [MTV Hustle 03 Represent Episode 6](https://open.spotify.com/album/1IbAnKLZjXigERXiukqkiq) | 3:31 | 2023-11-08 | 2023-11-16 |
 | [Chote Pind](https://open.spotify.com/track/0cLJd1HTOKvpsCtnnDc9Eo) | [Sanj Gosal](https://open.spotify.com/artist/7qZf0PxnU7SpoTwcbCXYcv), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv), [Deep Ror](https://open.spotify.com/artist/02Dwx3ku9Ahk3gzZn1d9BF) | [Chote Pind](https://open.spotify.com/album/59LcDLSdtfcOjaLPOKtfhW) | 3:06 | 2024-10-03 | 2024-11-13 |
 | [Clutch Baliye](https://open.spotify.com/track/3qWI4prgSotUOGR4BfOreW) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Gagan](https://open.spotify.com/artist/3kfNgIiPN2rdxVEQg6L3lW) | [Clutch Baliye](https://open.spotify.com/album/2a7G4hLUBoE9vnPOBeyb4C) | 2:32 | 2023-03-18 | 2024-01-25 |
@@ -248,7 +249,7 @@
 | [Untouchable](https://open.spotify.com/track/6iaZ3W10Oy9s8GgXq2TN28) | [Deep Dhaliwal](https://open.spotify.com/artist/49rpuSgVLanEVfk2vuAKEU) | [Untouchable](https://open.spotify.com/album/6timgyCLIHf64gsUxxfcxp) | 2:25 | 2024-09-02 | 2024-09-21 |
 | [Ustaadi \(feat\. Faris Shafi\)](https://open.spotify.com/track/0chpoH9CmYkczejkJihaxj) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [DSP](https://open.spotify.com/album/1K7j7CMe82qIGH1OfxuGel) | 2:50 | 2024-09-09 | 2024-10-04 |
 | [Vair](https://open.spotify.com/track/2O0JPaSa1g9yKuid511Pb4) | [AKKASH AD](https://open.spotify.com/artist/59xsDgxFDAtdkOwMODQvgi), [Prince Saggu](https://open.spotify.com/artist/0Y0MpZ3QOgITrLikOqB1q4) | [Vair](https://open.spotify.com/album/4xrWgrHyUleB3xQxFOrLif) | 2:44 | 2024-09-13 | 2024-10-24 |
-| [Vair](https://open.spotify.com/track/6eoS0Y0Ul97V63XSDAJTkX) | [Rav](https://open.spotify.com/artist/02YDIjAHza3dLqcFv3ivki), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Hood N Her](https://open.spotify.com/album/7JpJSLgRCT3OOFvrMuXwOU) | 2:27 | 2024-11-06 |  |
+| [Vair](https://open.spotify.com/track/6eoS0Y0Ul97V63XSDAJTkX) | [Rav](https://open.spotify.com/artist/02YDIjAHza3dLqcFv3ivki), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Hood N Her](https://open.spotify.com/album/7JpJSLgRCT3OOFvrMuXwOU) | 2:27 | 2024-11-06 | 2024-11-15 |
 | [Villian](https://open.spotify.com/track/6rTzAfcwO8JHqAY0XhngkY) | [Jaggi Bathinde Wala](https://open.spotify.com/artist/1Jbvo4pjRoe615tEiA12X0), [Sobit](https://open.spotify.com/artist/0IHV9OaDBM0RQ4I3ZBrVv4) | [Attention](https://open.spotify.com/album/5ZGq2uLf9eaM9puwbjMlDi) | 2:47 | 2024-11-07 |  |
 | [VOW](https://open.spotify.com/track/1eR5lUXBuUhNqZjBY1EzNu) | [Kaash](https://open.spotify.com/artist/48PKxzIZa6Th3Mu4N5Ordh) | [VOW](https://open.spotify.com/album/0cUQNUKTIQLzb7IX9GaVhg) | 5:59 | 2024-09-02 | 2024-09-26 |
 | [W](https://open.spotify.com/track/2c4J01PS0n3oGz0uTHBnK8) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [TVGUCCI](https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [W](https://open.spotify.com/album/0lOS792KEOjaIjlAMW4dNP) | 3:09 | 2023-03-18 | 2023-05-27 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABA9jYf3zsBBkmbDLTo60mx",
+  "snapshot_id": "AAAAAAAAAAAronBzVxx3YRxZwsnLaNDF",
   "tracks": [
     {
       "added_at": "2024-11-08 05:00:00",
@@ -204,13 +204,21 @@
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         },
         {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 253834,
-      "name": "Darling, I (feat. Teezo Touchdown)",
-      "url": "https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk"
+      "duration_ms": 255915,
+      "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+      "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -247,6 +255,26 @@
       "duration_ms": 147961,
       "name": "Passenger Princess (feat. Smino)",
       "url": "https://open.spotify.com/track/2umsnslJOVbg2BHwi42H39"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "How to Impress God",
+        "url": "https://open.spotify.com/album/7pJJ3QKvYRqPAShAqzwQFs"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "No ID",
+          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "How to Impress God",
+      "url": "https://open.spotify.com/track/1o5j4OuuHUVMTG0sv35Lsa"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -303,26 +331,6 @@
       "duration_ms": 256328,
       "name": "Survive The Night",
       "url": "https://open.spotify.com/track/25YJpVrQBDAh6Zu8frDwgp"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "How to Impress God",
-        "url": "https://open.spotify.com/album/7pJJ3QKvYRqPAShAqzwQFs"
-      },
-      "artists": [
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        },
-        {
-          "name": "No ID",
-          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "How to Impress God",
-      "url": "https://open.spotify.com/track/1o5j4OuuHUVMTG0sv35Lsa"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -419,6 +427,38 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "In Paris - The complete 1955-1956 Barclay sessions",
+        "url": "https://open.spotify.com/album/3m8bBFXdYcflYWPZuHZpp9"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "Dinah - Complete Take 2",
+      "url": "https://open.spotify.com/track/5ienEnB4QkJXUZrmz0f29p"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/1Aa7IJ0XzdyMISGbORyIHO"
+      },
+      "artists": [
+        {
+          "name": "Attica Riots",
+          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/5UHCmvbQn8UoM6Zsv8LKyc"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "No More Costumes",
         "url": "https://open.spotify.com/album/1pq8LSaDQvvkICYojowtGn"
       },
@@ -439,22 +479,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "In Paris - The complete 1955-1956 Barclay sessions",
-        "url": "https://open.spotify.com/album/3m8bBFXdYcflYWPZuHZpp9"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 186866,
-      "name": "Dinah - Complete Take 2",
-      "url": "https://open.spotify.com/track/5ienEnB4QkJXUZrmz0f29p"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Feeling So Real 2024",
         "url": "https://open.spotify.com/album/5ooyW11I1KrkzS2nE3ZPCY"
       },
@@ -467,26 +491,6 @@
       "duration_ms": 202200,
       "name": "Feeling So Real 2024",
       "url": "https://open.spotify.com/track/4bzrhnr9taRlRvKgoPEl4p"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Never Be (Hold Of Me)",
-        "url": "https://open.spotify.com/album/3ai2PcaTP9sZDkLGLzEwdZ"
-      },
-      "artists": [
-        {
-          "name": "K.E.F",
-          "url": "https://open.spotify.com/artist/29vtxkqKcEYzya1LvRUHan"
-        },
-        {
-          "name": "Unusual Demont",
-          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
-        }
-      ],
-      "duration_ms": 210120,
-      "name": "Never Be (Hold Of Me)",
-      "url": "https://open.spotify.com/track/4Vd56qPvULa5ayS47c9cDO"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -507,6 +511,54 @@
       "duration_ms": 173538,
       "name": "8 Days - Wuki Remix",
       "url": "https://open.spotify.com/track/4lY3nqqbiBpK9LM59EWJTb"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Like A Tree It Grows",
+        "url": "https://open.spotify.com/album/23W15PVhBPoAUh2EcELrtW"
+      },
+      "artists": [
+        {
+          "name": "Igmar Thomas\u2019 Revive Big Band",
+          "url": "https://open.spotify.com/artist/7uIAgElmviS97UBia9I6BP"
+        },
+        {
+          "name": "Raydar Ellis",
+          "url": "https://open.spotify.com/artist/47KSKJqnuS5OwOt1vo2z91"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        }
+      ],
+      "duration_ms": 431950,
+      "name": "TO KINDA LOUNGE AROUND",
+      "url": "https://open.spotify.com/track/7nyhRSu4PFOJJtQ9ZXILB8"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Never Be (Hold Of Me)",
+        "url": "https://open.spotify.com/album/3ai2PcaTP9sZDkLGLzEwdZ"
+      },
+      "artists": [
+        {
+          "name": "K.E.F",
+          "url": "https://open.spotify.com/artist/29vtxkqKcEYzya1LvRUHan"
+        },
+        {
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
+        }
+      ],
+      "duration_ms": 210120,
+      "name": "Never Be (Hold Of Me)",
+      "url": "https://open.spotify.com/track/4Vd56qPvULa5ayS47c9cDO"
     },
     {
       "added_at": "2024-11-08 05:00:00",

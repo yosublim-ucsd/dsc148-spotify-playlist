@@ -1,12 +1,12 @@
 {
   "description": "viral, trend ve y\u00fckselenler. Kapak: Emir Can \u0130\u011frek",
-  "num_followers": 498814,
+  "num_followers": 499118,
   "original_name": "trend 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy0qUAAAAAB8PVw+Mr/UJXkuU1zCPnDf",
+  "snapshot_id": "Zy0qUAAAAAAlp+2nCcq/ld7mMMBUrqRC",
   "tracks": [
     {
       "added_at": "2024-11-07 21:00:00",
@@ -279,42 +279,6 @@
     {
       "added_at": "2024-11-07 21:00:00",
       "album": {
-        "name": "Ortak",
-        "url": "https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI"
-      },
-      "artists": [
-        {
-          "name": "Melike \u015eahin",
-          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
-        }
-      ],
-      "duration_ms": 205224,
-      "name": "Ortak",
-      "url": "https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz"
-    },
-    {
-      "added_at": "2024-11-07 21:00:00",
-      "album": {
-        "name": "K\u00fcle D\u00f6nm\u00fc\u015fs\u00fcn",
-        "url": "https://open.spotify.com/album/69XrCiTVTxzFDxvk6RorEG"
-      },
-      "artists": [
-        {
-          "name": "Semicenk",
-          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
-        },
-        {
-          "name": "Do\u011fu Swag",
-          "url": "https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy"
-        }
-      ],
-      "duration_ms": 142973,
-      "name": "K\u00fcle D\u00f6nm\u00fc\u015fs\u00fcn",
-      "url": "https://open.spotify.com/track/2CZzw0He9fzyi2FkBkn4Bk"
-    },
-    {
-      "added_at": "2024-11-07 21:00:00",
-      "album": {
         "name": "ILTIMAS X SUBMARINER",
         "url": "https://open.spotify.com/album/43yjmZvIXU6NjFoMul1Uw2"
       },
@@ -339,6 +303,42 @@
       "duration_ms": 181874,
       "name": "ILTIMAS X SUBMARINER",
       "url": "https://open.spotify.com/track/1ppnRAPv8zJjrNy4TW5w7M"
+    },
+    {
+      "added_at": "2024-11-07 21:00:00",
+      "album": {
+        "name": "K\u00fcle D\u00f6nm\u00fc\u015fs\u00fcn",
+        "url": "https://open.spotify.com/album/69XrCiTVTxzFDxvk6RorEG"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        },
+        {
+          "name": "Do\u011fu Swag",
+          "url": "https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy"
+        }
+      ],
+      "duration_ms": 142973,
+      "name": "K\u00fcle D\u00f6nm\u00fc\u015fs\u00fcn",
+      "url": "https://open.spotify.com/track/2CZzw0He9fzyi2FkBkn4Bk"
+    },
+    {
+      "added_at": "2024-11-07 21:00:00",
+      "album": {
+        "name": "Ortak",
+        "url": "https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI"
+      },
+      "artists": [
+        {
+          "name": "Melike \u015eahin",
+          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
+        }
+      ],
+      "duration_ms": 205224,
+      "name": "Ortak",
+      "url": "https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz"
     },
     {
       "added_at": "2024-11-07 21:00:00",

@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Becoming Whole",
+        "url": "https://open.spotify.com/album/4YvxgMPH4Qf99ktvlTdRE0"
+      },
+      "artists": [
+        {
+          "name": "Polarsken",
+          "url": "https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238028,
+      "name": "Becoming Whole",
+      "url": "https://open.spotify.com/track/37TD68NoX5h5ITjz2C6Zl8"
+    },
+    {
+      "album": {
         "name": "Bedside Angels",
         "url": "https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq"
       },
@@ -564,6 +582,24 @@
       "duration_ms": 131995,
       "name": "Clermont",
       "url": "https://open.spotify.com/track/0WNOQLJP7OsYJ9nLUO1IPY"
+    },
+    {
+      "album": {
+        "name": "Cloudbusting",
+        "url": "https://open.spotify.com/album/3YLZhUuZ4LVfLiOvHoGVwj"
+      },
+      "artists": [
+        {
+          "name": "An Valsa",
+          "url": "https://open.spotify.com/artist/6HewoxUySYf1z3cY1Vzigr"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172632,
+      "name": "Cloudbusting",
+      "url": "https://open.spotify.com/track/5gCVXiPN2ckerDHO5P36MM"
     },
     {
       "album": {
@@ -3142,6 +3178,24 @@
       "duration_ms": 182924,
       "name": "Whisper in the wind",
       "url": "https://open.spotify.com/track/5ZSqAynin0lj0U8fVA5p8W"
+    },
+    {
+      "album": {
+        "name": "Whispering",
+        "url": "https://open.spotify.com/album/18NGThjiGxQK9Ky9lq917C"
+      },
+      "artists": [
+        {
+          "name": "Starstrum",
+          "url": "https://open.spotify.com/artist/1UeSZoTyfTgvI34TuJIjJ3"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134043,
+      "name": "Whispering",
+      "url": "https://open.spotify.com/track/5vrt8YKWcd5Js4vnaerfGK"
     },
     {
       "album": {

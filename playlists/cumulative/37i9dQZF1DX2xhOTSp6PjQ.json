@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Khuphuka lapho\u2026 seku-late! Cover:  <a href=\"https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg?si=nt023_xYTE6MHXXszrOssA\">Sminofu</a>",
+  "description": "Khuphuka lapho\u2026 seku-late! Cover:  <a href=\"https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs?si=E4K0jnN2SaO_uYljBpxttQ\">Khuzani</a>",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -2020,7 +2020,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 255272,
       "name": "Khaya Lami",
       "url": "https://open.spotify.com/track/0KG5PG0nz6MmKLbDWtmpdk"
@@ -2984,6 +2984,24 @@
       "duration_ms": 258142,
       "name": "Phakathi Komhlane nembeleko",
       "url": "https://open.spotify.com/track/5tcWJFn9w9BDUWXssZ5Q1A"
+    },
+    {
+      "album": {
+        "name": "iPolotiki",
+        "url": "https://open.spotify.com/album/7fVwjMqcNty3YMad1n9BIg"
+      },
+      "artists": [
+        {
+          "name": "Phuzekhemisi",
+          "url": "https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274892,
+      "name": "Phumani Ematarven",
+      "url": "https://open.spotify.com/track/78eZeVX1CsiqZ3aD10HjhT"
     },
     {
       "album": {

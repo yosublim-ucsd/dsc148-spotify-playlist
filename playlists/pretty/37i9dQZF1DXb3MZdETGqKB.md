@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Sonny Gullage
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,335 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,339 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 15 | [Oil & Water](https://open.spotify.com/track/3BIxy1SXeYRybqVgqID10B) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj), [Mr Foster](https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm) | [Highway 17](https://open.spotify.com/album/7DejChlWq4GfKaIBvBs0BY) | 2:24 |
 | 16 | [Worried About the Young \(feat\. Christone "Kingfish" Ingram\)](https://open.spotify.com/track/0frJeuQhpyPeDVt6zJGI6y) | [Sonny Gullage](https://open.spotify.com/artist/7ksIopzJPOkJXP9Hz61oU7), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Worried About the Young \(feat\. Christone "Kingfish" Ingram\)](https://open.spotify.com/album/6eD6kNl8lOlydWGkVzmNfi) | 3:14 |
 | 17 | [1972](https://open.spotify.com/track/32X3sf3uRuASTVyb3u2E0p) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [1972](https://open.spotify.com/album/2cAtlM1eIoFTV0iWMpylP3) | 2:48 |
-| 18 | [Mother](https://open.spotify.com/track/1VIuh0pmfz3vGGrte8738e) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Mother](https://open.spotify.com/album/7Emv4cUBw1Sjbpa1iq3Q8Y) | 2:57 |
+| 18 | [Mother](https://open.spotify.com/track/1VIuh0pmfz3vGGrte8738e) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Mother](https://open.spotify.com/album/7Emv4cUBw1Sjbpa1iq3Q8Y) | 2:56 |
 | 19 | [Short Change Hero \- Edit](https://open.spotify.com/track/1IyCXqedk72kIPyCf7sNPh) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [Short Change Hero \(Edit\)](https://open.spotify.com/album/4DJ1fx8Z1sAFZzOM3zqZaI) | 2:07 |
 | 20 | [Mr\. Mechanic Man](https://open.spotify.com/track/0x5Jhx9pmRvqYdEDpnegfq) | [Sheba Potts\-Wright](https://open.spotify.com/artist/0YhLEuRkRqKV3cXBsSb0Ty) | [Mr\. Mechanic Man](https://open.spotify.com/album/1gm77KuKLDfyPzBy3UgAvm) | 3:33 |
 | 21 | [Leaving in 3/4 Time](https://open.spotify.com/track/1wil07vTmtw9SyDq4XuXOn) | [Honeybear, the Band](https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk) | [Leaving in 3/4 Time](https://open.spotify.com/album/7HeySAN5T1fvUCpXitFGLm) | 2:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 99 | [Strike Gold](https://open.spotify.com/track/3eFCcD8aZJIc2wRmJm6Vyx) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Strike Gold](https://open.spotify.com/album/5YPy3q0MV7e5fJHFYNutjV) | 3:20 |
 | 100 | [Without You](https://open.spotify.com/track/0P3d2XgHvQraoTdcCql217) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Without You](https://open.spotify.com/album/7I4v2j4ueGOtCgCKzuRjPp) | 3:20 |
 
-Snapshot ID: `ZxsXwAAAAAB2jp9fBfmKwhYzSxdH+TjZ`
+Snapshot ID: `ZxsXwAAAAABdDpCxkOVZ60GNbiyAQ8tT`

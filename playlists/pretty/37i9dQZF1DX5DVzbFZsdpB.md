@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 
 > Creators you need to have on your RADAR: Big Small Talk, Relatables, Far East Confessions and I'm Wigging Out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,453 likes - 12 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,452 likes - 12 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 | 11 | [A THIEF STOLE OUR THINGS!! \| EP 32 \| Far East Confessions](https://open.spotify.com/episode/0ELDrrAsl0JbOpEzsXxtxK) | [Far East Confessions](https://open.spotify.com/show/6e5Jt3I6XGNtUDzwj5nZLi) | [Far East Confessions](https://open.spotify.com/album/6e5Jt3I6XGNtUDzwj5nZLi) | 43:26 |
 | 12 | [Presidential Debate, The VMA's & Barry Keoghan](https://open.spotify.com/episode/6DVeoc9AOH73UckV1TnaTX) | [Big Small Talk](https://open.spotify.com/show/73sgbEhXdXbFqKZoc1zgqk) | [Big Small Talk](https://open.spotify.com/album/73sgbEhXdXbFqKZoc1zgqk) | 52:51 |
 
-Snapshot ID: `ZwiQ4wAAAADtc/KmYD/Bnyc6fr8h430u`
+Snapshot ID: `ZwiQ4wAAAABWSLOs1/2mRvCpi3ZEzDFU`

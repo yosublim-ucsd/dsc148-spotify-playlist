@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 
 > Soft piano music to help you focus and chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,795,579 likes - 278 songs - 11 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,795,630 likes - 278 songs - 11 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -287,4 +287,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 277 | [Concepts](https://open.spotify.com/track/2VRtvXFwINloiZyYE5GGNG) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Concepts](https://open.spotify.com/album/32MCK2MQSiyfyQxGElbKuy) | 2:30 |
 | 278 | [The Seventh](https://open.spotify.com/track/6zcqQGrFvzNacJmzAm8Ga0) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [The Seventh](https://open.spotify.com/album/3NoIordFGz8Rcb4BTAoEF3) | 2:13 |
 
-Snapshot ID: `ZzNKjQAAAAC7DDWjWUSGBrvr8kMLTQDN`
+Snapshot ID: `ZzNKjQAAAACPR81HbdwWKxGVUcVmGIVT`

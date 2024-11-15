@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Cord Martin<br/>\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,556 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,599 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [Hummingbird](https://open.spotify.com/track/6hOV3Hhz6YqIenxlR9GLLM) | [betahost](https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W), [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T) | [Hummingbird](https://open.spotify.com/album/5sN3R9czQfzr7dfrxDNyel) | 2:49 |
 | 50 | [Alpha Bete](https://open.spotify.com/track/4c72L4HOOYGQuWLM1xZuPR) | [Nick Marks](https://open.spotify.com/artist/24oDE0vaH0JH83VNAQ7pGL), [Doron Lev](https://open.spotify.com/artist/5uLyADgoaWkfY0YYhnH9uU), [Dave Levy](https://open.spotify.com/artist/7gBlwt8sGulq5GXOmgCY0x), [Andrew Gould](https://open.spotify.com/artist/43x1BBwvvb5NXdjg1VTHY0), [Chase Baird](https://open.spotify.com/artist/6bOdATrvhzr4uWsePPqCwJ), [Jimmy O'Connell](https://open.spotify.com/artist/4Ocgpkc6g80L6Qul0ATaIl), [Bob Lanzetti](https://open.spotify.com/artist/2mGngESqZt9pUPlyLGpDPY), [Sarpay Ozcagatay](https://open.spotify.com/artist/1eIZ7Vm6CvnaQog3Bs1JaH), [Budapest Art Orchestra](https://open.spotify.com/artist/6OepiS5BXsCRgfBGf5CD9N) | [Alpha Bete](https://open.spotify.com/album/113RxUccpaDn0sl0mRdaL7) | 4:56 |
 
-Snapshot ID: `ZyuQLgAAAAAa9bwAAY0ZNXgN+CYZekNf`
+Snapshot ID: `ZyuQLgAAAADUm1vwP5WaDUBcU1V98Rmi`

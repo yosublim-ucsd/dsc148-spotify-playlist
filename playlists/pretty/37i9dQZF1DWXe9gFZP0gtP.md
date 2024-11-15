@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,545,857 likes - 200 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,546,238 likes - 200 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 199 | [Blending](https://open.spotify.com/track/6qCWUSwJoULsz0tv9vGEv8) | [Matt Deep](https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm) | [Blending](https://open.spotify.com/album/4uP72u2kEEUKhsWqiA1ekR) | 3:46 |
 | 200 | [Hush](https://open.spotify.com/track/13CYT9XLC54qtyg0U8aqb7) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Hush](https://open.spotify.com/album/7B4bF2l6xVB640JDVyu4jP) | 3:10 |
 
-Snapshot ID: `ZxJW6QAAAABifEqDUaDYx44mM8bBSSI4`
+Snapshot ID: `ZxJW6QAAAAB0+GtEisYkcp/t9XBQTGkU`

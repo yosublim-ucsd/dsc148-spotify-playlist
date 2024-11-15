@@ -1,12 +1,12 @@
 {
   "description": "This is Fall Out Boy. The essential tracks, all in one playlist.",
-  "num_followers": 575172,
+  "num_followers": 575228,
   "original_name": "This Is Fall Out Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzKagAAAAADSiAfF5j6NiuhgYA4g+Kel",
+  "snapshot_id": "ZzPsAAAAAAD0gbbOUl/AXenlWESeo2IX",
   "tracks": [
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take This to Your Grave",
-        "url": "https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY"
+        "name": "American Beauty/American Psycho",
+        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 194493,
-      "name": "Dead on Arrival",
-      "url": "https://open.spotify.com/track/7naGWci9bflvfdzxphFjAw"
+      "duration_ms": 226866,
+      "name": "Novocaine",
+      "url": "https://open.spotify.com/track/5F0bmCjKUufNz1bHXfgRwe"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Beauty/American Psycho",
-        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+        "name": "Take This to Your Grave",
+        "url": "https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 226866,
-      "name": "Novocaine",
-      "url": "https://open.spotify.com/track/5F0bmCjKUufNz1bHXfgRwe"
+      "duration_ms": 194493,
+      "name": "Dead on Arrival",
+      "url": "https://open.spotify.com/track/7naGWci9bflvfdzxphFjAw"
     },
     {
       "added_at": null,

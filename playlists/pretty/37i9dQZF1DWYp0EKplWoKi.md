@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 
 > La esquina donde las estrellas de la Música Mexicana se juntan\.  Victor Valverde, JR Torres en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,657 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,679 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 | 49 | [El Don del Sombrero](https://open.spotify.com/track/6b9j71HemuE2HXPto7V1IB) | [La Cuadrilla Oficial](https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI), [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD) | [El Don del Sombrero](https://open.spotify.com/album/00SCT4HscEELQJTwasEAuy) | 3:08 |
 | 50 | [Morro Dolido](https://open.spotify.com/track/0UijcdiQn3GWgZruY5MPAy) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Morro Dolido](https://open.spotify.com/album/3ijLDnCY3DxAvdFzFpcuq4) | 3:14 |
 
-Snapshot ID: `ZxJ8jgAAAABdixc2SS4v9kqR1e+e7NEV`
+Snapshot ID: `ZxJ8jgAAAAChB9nUnnGKdxFFuZIzGTy4`

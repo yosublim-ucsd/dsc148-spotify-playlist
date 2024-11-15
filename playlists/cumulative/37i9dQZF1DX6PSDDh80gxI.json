@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Dente e Colapesce sulla cover della playlist con il meglio dell\u2019indie italiano! ",
+  "description": "Lucio Corsi in cover della playlist con il meglio dell\u2019indie italiano! ",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -298,7 +298,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 228466,
       "name": "BALLA",
       "url": "https://open.spotify.com/track/0mlZdAdXr19dGJ1tNHBvr7"
@@ -995,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Islanda",
+        "url": "https://open.spotify.com/album/0awzpRHpQcLl76a8SRJ50R"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217213,
+      "name": "Islanda",
+      "url": "https://open.spotify.com/track/25mDnFOFyPmebNAok8mavk"
+    },
+    {
+      "album": {
         "name": "Giorni Felici",
         "url": "https://open.spotify.com/album/6iQVTMWUzVeIYFnH9LGEFO"
       },
@@ -1118,6 +1136,28 @@
       "duration_ms": 194865,
       "name": "La malvagit\u00e0",
       "url": "https://open.spotify.com/track/7GE817B6wK5cJ1POIxRqZP"
+    },
+    {
+      "album": {
+        "name": "La mia preghiera (feat. Sick Tamburo)",
+        "url": "https://open.spotify.com/album/7E5wvDTv3sh4PPeltBtfyo"
+      },
+      "artists": [
+        {
+          "name": "Espa\u00f1a Circo Este",
+          "url": "https://open.spotify.com/artist/76pubHNMZnrWQ721Fy8SRq"
+        },
+        {
+          "name": "Sick Tamburo",
+          "url": "https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194470,
+      "name": "La mia preghiera (feat. Sick Tamburo)",
+      "url": "https://open.spotify.com/track/7bG4rA1Jnr9jbEb0asntQ3"
     },
     {
       "album": {
@@ -1345,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "Cerchi",
+        "url": "https://open.spotify.com/album/62XasxTrsETcBPriqlJ1g0"
+      },
+      "artists": [
+        {
+          "name": "Erica Mou",
+          "url": "https://open.spotify.com/artist/7CkPMtYIA3Vrn1mmekWZAD"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186773,
+      "name": "Mani d\u2019ortica",
+      "url": "https://open.spotify.com/track/6iu6Zq1uaI01PuSKo3VXka"
+    },
+    {
+      "album": {
         "name": "Manifesto Egoista (feat. Carlo Amleto)",
         "url": "https://open.spotify.com/album/37TzRpbavzizY6wHoXwSBp"
       },
@@ -1433,6 +1491,24 @@
     },
     {
       "album": {
+        "name": "MIELE (Scusa)",
+        "url": "https://open.spotify.com/album/3tzuzJ0IlYtGy2IWfONuSo"
+      },
+      "artists": [
+        {
+          "name": "Greta",
+          "url": "https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147906,
+      "name": "MIELE (scusa)",
+      "url": "https://open.spotify.com/track/6pmIgVimnQs8dgohYE9SSB"
+    },
+    {
+      "album": {
         "name": "Mosche",
         "url": "https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE"
       },
@@ -1448,6 +1524,24 @@
       "duration_ms": 155036,
       "name": "Mosche",
       "url": "https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl"
+    },
+    {
+      "album": {
+        "name": "my baby!",
+        "url": "https://open.spotify.com/album/4bUidnmyokkkKhHJRlYalD"
+      },
+      "artists": [
+        {
+          "name": "GINEVRA",
+          "url": "https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177641,
+      "name": "my baby!",
+      "url": "https://open.spotify.com/track/5sTCvL92Efyd6TZYr3SVID"
     },
     {
       "album": {
@@ -1740,10 +1834,28 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 169533,
       "name": "Per me \u00e8 ok (feat. Angelica)",
       "url": "https://open.spotify.com/track/3t1xFmZjn2a2klm4G9H5k7"
+    },
+    {
+      "album": {
+        "name": "Perch\u00e9?",
+        "url": "https://open.spotify.com/album/4Hmy4uGcFPhvlwyvXXvLGf"
+      },
+      "artists": [
+        {
+          "name": "chiamamifaro",
+          "url": "https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219414,
+      "name": "Perch\u00e9?",
+      "url": "https://open.spotify.com/track/5mQgkvtfhFCfmCaBf7q0t4"
     },
     {
       "album": {
@@ -1798,7 +1910,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 135607,
       "name": "piccola",
       "url": "https://open.spotify.com/track/23rvrgsyz8UfDcdJ0Q2n6W"
@@ -2335,6 +2447,24 @@
     },
     {
       "album": {
+        "name": "Tu sei il mattino",
+        "url": "https://open.spotify.com/album/0sbGgrjOyEt7maAqras9N3"
+      },
+      "artists": [
+        {
+          "name": "Lucio Corsi",
+          "url": "https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188151,
+      "name": "Tu sei il mattino",
+      "url": "https://open.spotify.com/track/1j58NLQYaQsLW1eYppRI02"
+    },
+    {
+      "album": {
         "name": "tutta vera",
         "url": "https://open.spotify.com/album/7AqEBqBlUnAxfQ3cELhFD5"
       },
@@ -2566,6 +2696,24 @@
       "duration_ms": 206140,
       "name": "Una vita normale",
       "url": "https://open.spotify.com/track/7KXiNcodDshozttV90Ensd"
+    },
+    {
+      "album": {
+        "name": "Venere",
+        "url": "https://open.spotify.com/album/7eCTsM1ZpUo8PRbkJ6jAjP"
+      },
+      "artists": [
+        {
+          "name": "Marianne Mirage",
+          "url": "https://open.spotify.com/artist/1hhYq9Huoi1NVi4BXkRBn0"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219360,
+      "name": "Venere",
+      "url": "https://open.spotify.com/track/5AwfzS5XZ7giXnTjV5BhfV"
     },
     {
       "album": {

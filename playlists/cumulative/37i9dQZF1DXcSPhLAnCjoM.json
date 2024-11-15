@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Tu vas me quitter encore longtemps ?\" d'Hoshi est le Grand Hit de la semaine.",
+  "description": "\"Sans toi\" de Lenie est le Grand Hit de la semaine.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -541,6 +541,24 @@
     },
     {
       "album": {
+        "name": "CIEL",
+        "url": "https://open.spotify.com/album/6qU5xBM7guK1Gwb3LTLufL"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186461,
+      "name": "CIEL",
+      "url": "https://open.spotify.com/track/78FNSZkI1968KTtyf2s315"
+    },
+    {
+      "album": {
         "name": "Comment on fait",
         "url": "https://open.spotify.com/album/6fx6DbXhISVfj2T3mySNmS"
       },
@@ -998,7 +1016,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 206973,
       "name": "En \u00e9quipe (feat. Vacra)",
       "url": "https://open.spotify.com/track/0cP0V18rkyNvIjoVc5wY3N"

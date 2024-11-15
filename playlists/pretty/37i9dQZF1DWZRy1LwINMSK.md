@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno al mando de Lleflight & Jairo Vera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,442 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,489 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 99 | [SHISHIBROKE](https://open.spotify.com/track/6y4mDVEMke0cnfdTCApqlv) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [SHISHI Mixtape](https://open.spotify.com/album/3OOWyNrYPawBa9GJxbrwJY) | 3:04 |
 | 100 | [512 \- Remix](https://open.spotify.com/track/1Fs8wvSOyhNiFyMS35AufX) | [Maickyel](https://open.spotify.com/artist/3iuxTg8tCKBuRDIrAADvqI), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [512 \(Remix\)](https://open.spotify.com/album/4cgQ9rirfimR3nOxZ4fXvb) | 2:58 |
 
-Snapshot ID: `ZxHPMAAAAABzICfRfAK9+ZH7ATsyjewd`
+Snapshot ID: `ZxHPMAAAAACGMd1LcbV1WVKENznR+sFD`

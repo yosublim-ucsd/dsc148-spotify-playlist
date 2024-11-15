@@ -4,7 +4,7 @@
 
 > Music from shows and movies you love including Only Murders In The Building, now streaming on Hulu.
 
-114 songs - 5 hr 24 min
+115 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Green Gloves](https://open.spotify.com/track/4IxOGS1DnoBXyem7be8Ezo) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN) | [Suncoast \(Original Soundtrack\)](https://open.spotify.com/album/5h4yMJibNgzJ47rytW6v5t) | 3:33 | 2024-02-23 |  |
 | [Heaven Is a Hand to Hold](https://open.spotify.com/track/5z2aQl5Kn9N2B6mwOfdXlx) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 2:41 | 2024-01-05 |  |
 | [Here, There And Everywhere \- Remastered 2009](https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 2:24 | 2024-01-05 | 2024-07-03 |
+| [Hold on Loosely](https://open.spotify.com/track/2hcs0QeP8ZVGljqHtSZWFo) | [Bob's Burgers](https://open.spotify.com/artist/0NZ4IxTtMSEx59a0H0ikLE), [Larry Murphy](https://open.spotify.com/artist/4UFzjuzrMcQXveS7xK92aR) | [Bob's Burgers Open Mic Night \(From "Bob's Burgers"\)](https://open.spotify.com/album/7ecMSvumawVFZunzKD9n2c) | 1:43 | 2024-11-14 |  |
 | [Horses](https://open.spotify.com/track/3oI3fqoP8HCXscOb7JNqIN) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Gabriel Mann](https://open.spotify.com/artist/33dnQjRlbxp0FzvlNpy50B), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Tiny Beautiful Things \(Original Series Soundtrack\)](https://open.spotify.com/album/0wfB1zTsdAIq2DoiXMzIKy) | 0:59 | 2024-01-05 |  |
 | [I'll Make Love to You](https://open.spotify.com/track/3scm95h4jqzKCRLt1XgKq4) | [Thomas Doherty](https://open.spotify.com/artist/4QS6MMKct3F3LkN7cr6vHg) | [High Fidelity \(Original Soundtrack\)](https://open.spotify.com/album/0zXA2xmkw5x4iN4Cb3j13P) | 3:55 | 2024-01-05 |  |
 | [I'm Making Believe](https://open.spotify.com/track/156cGz1jvMWNN44oMdJSaE) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [A Small Light \(Songs from the Limited Series\)](https://open.spotify.com/album/5OMNsSmLzeb3ZPpCBmw6SD) | 2:15 | 2024-01-05 |  |

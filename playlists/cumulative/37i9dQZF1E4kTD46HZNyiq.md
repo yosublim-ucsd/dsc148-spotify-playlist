@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With LAVE, The Wild Wind, The Strike and more
+> With LAVE, The Strike, The Wild Wind and more
 
 1,388 songs - 3 day 17 hr 0 min
 
@@ -481,7 +481,7 @@
 | [Give Me Your Fire, Give Me Your Rain](https://open.spotify.com/track/7xT7S9uNrRkYTl4U4xps4M) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Corner Where You Live](https://open.spotify.com/album/4iiL0cdvbQoPNEbvyDTkOU) | 3:32 | 2024-04-19 | 2024-11-13 |
 | [Giving up on Giving In](https://open.spotify.com/track/1DhlWoZRRntROMyxgjeGNN) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [En Masse](https://open.spotify.com/album/2rBTBvbPLnR0M64UrLTy6Z) | 3:20 | 2024-01-04 | 2024-04-09 |
 | [Glue](https://open.spotify.com/track/6KlnHl4ehm8q5HZ73U1Gsp) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [Glue](https://open.spotify.com/album/4k3pqlmyL93ZLg15ImAlut) | 3:21 | 2024-01-20 | 2024-01-25 |
-| [Go With You](https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [THRESHOLDS](https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs) | 3:31 | 2022-03-09 |  |
+| [Go With You](https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [THRESHOLDS](https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs) | 3:31 | 2022-03-09 | 2024-11-15 |
 | [Go With You \- Acoustic](https://open.spotify.com/track/2Dbif50Xjh8G3hWUdz4AMn) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [Thresholds \(Acoustic EP\)](https://open.spotify.com/album/5kppaTiRbPJ1x1cs2XIqDy) | 3:42 | 2022-03-10 | 2022-07-07 |
 | [God Complex](https://open.spotify.com/track/6YAWleGUmNzAk2cAZOdw6a) | [The True Blue](https://open.spotify.com/artist/1mVhWJe3qmfTXM7ByuoryV) | [If That's How You Feel](https://open.spotify.com/album/03fstIQNQryWN5VeW1Vz7X) | 3:30 | 2021-12-13 | 2022-03-04 |
 | [God Only Knows](https://open.spotify.com/track/7lvhkeywZvorogGBNsLMxc) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Singles 2020 \- 2021](https://open.spotify.com/album/0dyTtlGRslN0ZOGtA4rTlx) | 3:47 | 2022-11-08 | 2022-11-09 |
@@ -530,7 +530,7 @@
 | [Hey Carolina](https://open.spotify.com/track/5O46BpWmJNF6HL3sowDLuj) | [Yøuth](https://open.spotify.com/artist/26fAgSvQl82rjfl9yP4uqH) | [Blame](https://open.spotify.com/album/4izScx5MWR1sWCIo0gm6au) | 3:50 | 2022-03-09 | 2022-10-05 |
 | [Hey Virginia](https://open.spotify.com/track/3uM990IarzbCmalKV5LAOH) | [Dudl3y](https://open.spotify.com/artist/428WsCPZce3b6nn7qpkaqV) | [Uppers & Downers](https://open.spotify.com/album/6AoNQGAKuMBMdOaPqB7XcC) | 3:57 | 2022-04-03 | 2022-04-07 |
 | [hey, u up?](https://open.spotify.com/track/1QrSb4jtviL0fLxIW13fSa) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [III](https://open.spotify.com/album/1R5Dyfrb7j6YpOu23jaGkB) | 4:12 | 2022-10-12 | 2022-10-15 |
-| [hey, u up?](https://open.spotify.com/track/26tfWIJV39o1MXBnGCqKt1) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [III](https://open.spotify.com/album/2uo26B9q3QJwI6ihiQDJvm) | 4:12 | 2024-04-19 | 2024-11-06 |
+| [hey, u up?](https://open.spotify.com/track/26tfWIJV39o1MXBnGCqKt1) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [III](https://open.spotify.com/album/2uo26B9q3QJwI6ihiQDJvm) | 4:12 | 2024-04-19 |  |
 | [Hi G](https://open.spotify.com/track/4J9zX5SEL4GBnoOeHyT4FP) | [Neova](https://open.spotify.com/artist/79yIl5eBPMfpjUZ63gkAXP) | [Hi G](https://open.spotify.com/album/5zcN7uV1PnPsGpnbma5lNP) | 4:33 | 2022-04-29 | 2022-11-11 |
 | [High School](https://open.spotify.com/track/5LpcRat8db3T8rMGVqiK5N) | [90's Kids](https://open.spotify.com/artist/6vPr4VCSFC3nJMw0mEBsn0) | [High School](https://open.spotify.com/album/2oDQfsKmIBMesRkJOQWhHY) | 3:00 | 2021-12-01\* | 2022-03-03 |
 | [HLYTW](https://open.spotify.com/track/4wbe7z56dPMnPr36yCWkG2) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [HLYTW](https://open.spotify.com/album/5jqnnvVT2ETofdjd0qD7mz) | 3:03 | 2024-11-12 |  |
@@ -947,7 +947,7 @@
 | [Painkillers](https://open.spotify.com/track/7tlzhzVWxGQaJ1OmELtnbu) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [Painkillers](https://open.spotify.com/album/409yphur86d7jChA8slfAb) | 3:57 | 2022-05-05 | 2022-09-05 |
 | [Paint](https://open.spotify.com/track/5lHA0VtRqd0jsaT46xC3Ae) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K), [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Paint](https://open.spotify.com/album/5acGmCJHKwbGdnguz1Bpnz) | 4:31 | 2022-04-04 | 2022-04-06 |
 | [Pale Ash](https://open.spotify.com/track/5udeA3sg1rTBxSBMmc9o5y) | [LAVE](https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp) | [Pale Ash](https://open.spotify.com/album/5OJo9rpvpcFLhrN9lk2gBN) | 3:26 | 2022-10-10 |  |
-| [Parachute](https://open.spotify.com/track/7AFTfujw3igAr8FZLxUXe6) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Vacation Manor](https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF) | 3:31 | 2022-08-07 | 2024-10-27 |
+| [Parachute](https://open.spotify.com/track/7AFTfujw3igAr8FZLxUXe6) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Vacation Manor](https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF) | 3:31 | 2022-08-07 |  |
 | [Paranoid](https://open.spotify.com/track/0ZcDMe3lfj0lUAtgS9BjVd) | [LOYALS](https://open.spotify.com/artist/1yilHVaoQ33wVwL9HaODSA), [Josh Manuel](https://open.spotify.com/artist/33XCGkscDih2VsMHZSkHMW) | [Paranoid](https://open.spotify.com/album/1iXcojiGWJEwMvuObcceXg) | 3:51 | 2022-05-21 | 2022-05-22 |
 | [Part of Me](https://open.spotify.com/track/6tFcQWz3awZaYxbZqmSXRh) | [By The Coast](https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm) | [You](https://open.spotify.com/album/6W7ekW1v9CXxa33uhb1xp2) | 4:12 | 2021-12-06 | 2024-05-29 |
 | [Part of Me \(Acoustic\)](https://open.spotify.com/track/3tOvEreu7apG6rGQTZWjOj) | [By The Coast](https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm) | [Part of Me \(Acoustic\)](https://open.spotify.com/album/5QFxcRS4ZFkO5q1CUTYSYc) | 3:42 | 2022-06-03 | 2023-06-01 |
@@ -1221,7 +1221,7 @@
 | [This Could Be](https://open.spotify.com/track/1B3q53I9zJk6NROKVE3EBz) | [Joel Ansett](https://open.spotify.com/artist/49IjdVEbQcukWy36sdRMzl) | [A Place I Knew Before](https://open.spotify.com/album/3kYWkZB8Y1QusFpcybeoRp) | 3:50 | 2022-03-17 | 2022-08-22 |
 | [This Love Rightfully Belongs To Somebody Else](https://open.spotify.com/track/1BsxnX3LtOGrvdvjsN3Ctj) | [Hotel Apache](https://open.spotify.com/artist/2zKbqRqx22axcZA2mUw71Y) | [This Love Rightfully Belongs To Somebody Else](https://open.spotify.com/album/5qXuYjx5p7eN5MNOk9wJkU) | 3:14 | 2022-10-13 | 2022-10-14 |
 | [This Love Rightfully Belongs To Somebody Else](https://open.spotify.com/track/1NKshgxaawDSlAoS7572iR) | [Hotel Apache](https://open.spotify.com/artist/2zKbqRqx22axcZA2mUw71Y) | [This Love Rightfully Belongs To Somebody Else](https://open.spotify.com/album/3S4WnJumUmzDQY5FsLgCk0) | 3:14 | 2022-03-12 | 2022-07-22 |
-| [Thoughts in Progress](https://open.spotify.com/track/7DJwq1g845tYWMuZ0hzfiK) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Vacation Manor](https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF) | 3:56 | 2022-10-07 |  |
+| [Thoughts in Progress](https://open.spotify.com/track/7DJwq1g845tYWMuZ0hzfiK) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Vacation Manor](https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF) | 3:56 | 2022-10-07 | 2024-11-15 |
 | [Thoughts in Progress](https://open.spotify.com/track/5gW1n8D0sjqa5nDF6226VP) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Vacation Manor](https://open.spotify.com/album/48XpsbZn6EBi2qKKG0Fr0n) | 3:57 | 2022-04-07 | 2022-04-08 |
 | [Thousand Stars](https://open.spotify.com/track/5SXWvv9e1KKEO2RYBE13kx) | [Francis Moon](https://open.spotify.com/artist/34vKz2ZsiJJiB2W1YMHtCG), [The Hollow Men](https://open.spotify.com/artist/2n1XDJJ6HBSQvn4essanna) | [Thousand Stars](https://open.spotify.com/album/3mJLWdE4CO6QEAyjI4kMLz) | 2:56 | 2022-09-22 | 2024-03-01 |
 | [Thousand Stars](https://open.spotify.com/track/71S0HhZLwWXOo5wAc0ECak) | [Francis Moon](https://open.spotify.com/artist/34vKz2ZsiJJiB2W1YMHtCG), [The Hollow Men](https://open.spotify.com/artist/2n1XDJJ6HBSQvn4essanna) | [Thousand Stars](https://open.spotify.com/album/2mPZJhSgQCtGcYY6ouqxc0) | 2:56 | 2022-03-11 | 2022-09-12 |

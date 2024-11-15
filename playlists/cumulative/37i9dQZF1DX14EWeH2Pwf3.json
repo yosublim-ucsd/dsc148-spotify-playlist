@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Lele Blade in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
+  "description": "Nayt in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -3542,7 +3542,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 177777,
       "name": "CONVOGLIO (feat. Tony Effe)",
       "url": "https://open.spotify.com/track/0AMQo5EwkBmYaedxmy4BuI"
@@ -4112,7 +4112,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 133548,
       "name": "DRIP (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/2PITEsf2iAwNBAH4FBVNCr"
@@ -4464,7 +4464,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 128450,
       "name": "Etc (feat. Nardo Wick)",
       "url": "https://open.spotify.com/track/7onFHCj8W40kYT3MFCotVG"
@@ -5226,6 +5226,28 @@
       "duration_ms": 229253,
       "name": "G63",
       "url": "https://open.spotify.com/track/0lqGKcPzUX4RO4PYysoLes"
+    },
+    {
+      "album": {
+        "name": "GACHA",
+        "url": "https://open.spotify.com/album/2EELavIJF247zj1n55sRA4"
+      },
+      "artists": [
+        {
+          "name": "Diss Gacha",
+          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135428,
+      "name": "GACHA",
+      "url": "https://open.spotify.com/track/6epc4bpQjEwGPuV8zy2APf"
     },
     {
       "album": {
@@ -6726,6 +6748,28 @@
       "duration_ms": 135934,
       "name": "Italiano Anthem",
       "url": "https://open.spotify.com/track/0oMq1JmynUHMCOfH40k7B8"
+    },
+    {
+      "album": {
+        "name": "A LORENZZA",
+        "url": "https://open.spotify.com/album/3uo3AECJ5Qw3Lwd6kXfQdL"
+      },
+      "artists": [
+        {
+          "name": "Lorenzza",
+          "url": "https://open.spotify.com/artist/0zyujuBCFt15GQ86pcAGk6"
+        },
+        {
+          "name": "Nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165111,
+      "name": "J (feat. Nayt)",
+      "url": "https://open.spotify.com/track/2JwXWydDD5ASONulGVLzHJ"
     },
     {
       "album": {
@@ -8951,6 +8995,28 @@
     },
     {
       "album": {
+        "name": "FERITE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7g7002AcxLMerhLQEA8naR"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151090,
+      "name": "Nati Bastardi (feat. Tony Effe)",
+      "url": "https://open.spotify.com/track/3KjhBp5a2tFcmN9YSPR5r3"
+    },
+    {
+      "album": {
         "name": "Nato Per Questo",
         "url": "https://open.spotify.com/album/3nrUsKXZlLAEKE5HUeoc0v"
       },
@@ -10496,7 +10562,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 220588,
       "name": "Perdere \u2018a capa (feat. Geolier)",
       "url": "https://open.spotify.com/track/4vd7gUuDg8Ks19SzZxzeHD"
@@ -13920,6 +13986,24 @@
       "duration_ms": 194106,
       "name": "Veleno",
       "url": "https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi"
+    },
+    {
+      "album": {
+        "name": "VERGINE MARIA",
+        "url": "https://open.spotify.com/album/67iNHtyQUxt4eWZJBlbrVa"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152653,
+      "name": "VERGINE MARIA",
+      "url": "https://open.spotify.com/track/4QxvX0QHRWK10WfuOUiuMp"
     },
     {
       "album": {

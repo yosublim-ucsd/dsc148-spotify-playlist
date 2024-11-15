@@ -2,9 +2,9 @@
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> The best voices in R&B\. Cover: Cleo Sol
+> The best voices in R&B\. Cover: Odeal
 
-380 songs - 19 hr 56 min
+382 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [All I Need](https://open.spotify.com/track/4zrUf784IvoBhlKhbX1Gar) | [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [All I Need](https://open.spotify.com/album/04A0QePJ2bXEuRje6wEEwF) | 2:37 | 2023-11-24 | 2024-04-26 |
 | [All In Again](https://open.spotify.com/track/3onrZuNE1XLM7YnTPL5BtW) | [Duchess](https://open.spotify.com/artist/6s0EQIA8heD6JVi8jNW207) | [All In Again](https://open.spotify.com/album/6Q607fMYWp8ms1brTs0yY6) | 3:51 | 2023-05-14 | 2023-09-23 |
 | [All or Nothing \(feat\. Ella Mai\)](https://open.spotify.com/track/4SPazIWgMqArA81XKxgDZa) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [After the Butterflies](https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80) | 3:10 | 2023-11-24 | 2024-06-01 |
+| [alone](https://open.spotify.com/track/62JbZPGa7SEYbF0rJJXT05) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [alone](https://open.spotify.com/album/078mNMvgotfFlDzQge83em) | 3:06 | 2024-11-15 |  |
 | [Already Yours](https://open.spotify.com/track/6CNzC5wJNXDPumzQp13BYa) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Already Yours](https://open.spotify.com/album/3c1dHRVoVtPBAPIv2h282h) | 3:11 | 2023-02-23 | 2023-10-28 |
 | [Anchor](https://open.spotify.com/track/1KPwT9OnDkaKk4smsUysgq) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [L.I.T \(Lost In Translation\)](https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F) | 2:49 | 2023-11-10 | 2024-06-15 |
 | [Another Guy \- Acoustic](https://open.spotify.com/track/7rWkd70fyKUGw00s6BBSGz) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 3:00 | 2023-02-23 | 2023-07-22 |
@@ -325,7 +326,7 @@
 | [Stay Long \(feat\. Summer Walker\)](https://open.spotify.com/track/4Ep3FZomL0EAKeYqW0riz6) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 2:25 | 2023-09-22 | 2023-11-24 |
 | [Stay Out of It](https://open.spotify.com/track/1PNjp7pcqumAOhOcOJOEy0) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Peace in the Madness](https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw) | 3:24 | 2024-03-19 | 2024-04-26 |
 | [Still The Same](https://open.spotify.com/track/1ALggh912tizrjndhRLY63) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Still The Same](https://open.spotify.com/album/3bGZJDlp1lBNJYrcdGR1F4) | 3:14 | 2024-09-19 |  |
-| [Storm](https://open.spotify.com/track/0Eu04DI103YBXJSodU4WLv) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Peace in the Madness](https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw) | 3:39 | 2024-04-25 |  |
+| [Storm](https://open.spotify.com/track/0Eu04DI103YBXJSodU4WLv) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Peace in the Madness](https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw) | 3:39 | 2024-04-25 | 2024-11-15 |
 | [Subtle Games \- Remix](https://open.spotify.com/track/6PF4h4F2wkskBlO4XbqT5U) | [Mezraa](https://open.spotify.com/artist/6oT0L9KXaIDDW38IpYuvRs), [jjad](https://open.spotify.com/artist/245muEmgdPNuYVuvtnykJF), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [Subtle Games \(Remix\)](https://open.spotify.com/album/3aMR26kSe8rzHjj7VXLk1R) | 2:34 | 2023-05-24 | 2023-08-19 |
 | [Suite Life \(Familiar\) \- Bonus Track](https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [3 of Us](https://open.spotify.com/album/3d8fLEZMdkLiqAKJAAktsu) | 2:34 | 2023-07-21 | 2023-11-02 |
 | [Suite Life \(Familiar\) \[Feat\. Bellah\] \- Bonus Track](https://open.spotify.com/track/2X5hOPvGUp800KM7GG6tXn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [3 of Us](https://open.spotify.com/album/3K4ezkdiUh18fKYTLNF5at) | 2:34 | 2023-10-27 | 2023-11-24 |
@@ -348,7 +349,7 @@
 | [the one](https://open.spotify.com/track/3N1kTwDdzYW0R6oHwkgENB) | [NGE\-THE\-PRODUCER](https://open.spotify.com/artist/5oV5Wd6ZbxfzzlHqlOchXS), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [the one](https://open.spotify.com/album/1r6ei26yZTJDOMktiyOAzE) | 2:59 | 2024-02-28 | 2024-05-11 |
 | [The Process](https://open.spotify.com/track/0aeoV8KYkGPOxNaFsaHegU) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [The Process](https://open.spotify.com/album/0cV67XvouTlEbAWb31q3vM) | 2:20 | 2023-05-14 | 2023-07-22 |
 | [THERAPY](https://open.spotify.com/track/49Lbka7DlfHkooF7ZIkQl2) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [THERAPY](https://open.spotify.com/album/13pHhMjxP0rRnWm7o0CZHw) | 2:06 | 2023-05-14 | 2023-11-10 |
-| [There Will Be No Crying](https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:49 | 2023-09-29 |  |
+| [There Will Be No Crying](https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:49 | 2023-09-29 | 2024-11-15 |
 | [These Four Walls](https://open.spotify.com/track/7tzeZLMnqlke2raEMeDZ9S) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [A Brief Nirvana](https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd) | 3:05 | 2023-08-25 | 2024-07-25 |
 | [Things Change](https://open.spotify.com/track/5iV1Ob5cBDcxiZROELgeur) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [25!](https://open.spotify.com/album/5LUwpHUf8ba46od1ru404A) | 3:18 | 2024-09-05 | 2024-10-04 |
 | [Thinking Less](https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Thinking Less](https://open.spotify.com/album/3nlJCjmJXerAEitId6gwFW) | 2:42 | 2024-02-28 | 2024-06-15 |
@@ -388,5 +389,6 @@
 | [Wish You Were Here](https://open.spotify.com/track/1Ft2AZ6MlRlhNUb0ylOCG7) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Peace in the Madness](https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw) | 3:09 | 2024-04-19 |  |
 | [Wish You Wouldn't](https://open.spotify.com/track/4C9QPaM63xlVh4u6cqW1V6) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Wish You Wouldn't](https://open.spotify.com/album/1C0fzrQke15VOfaSRcuzBD) | 3:17 | 2023-11-24 |  |
 | [Woman Now \- A COLORS SHOW](https://open.spotify.com/track/3YpoYC2zVGfL01IfWJXOAr) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Woman Now \- A COLORS SHOW](https://open.spotify.com/album/6gHGhc6bhweJtpGLSQZG5N) | 2:40 | 2024-09-05 |  |
+| [You're Stuck \(feat\. Summer Walker\)](https://open.spotify.com/track/4kCfyoPOYHqev60dmNPXzF) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 4:04 | 2024-11-15 |  |
 
 \*This playlist was first scraped on 2023-02-24. Prior content cannot be recovered.

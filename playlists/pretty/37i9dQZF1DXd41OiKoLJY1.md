@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Leah Halili Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,430 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,447 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [SOUTH BAY](https://open.spotify.com/track/01xwI2jyNkIiEPtnivZNBa) | [JAE LAURENT](https://open.spotify.com/artist/3EJs0FdPkTc8I458xLapuf) | [DEMOTAPES 1](https://open.spotify.com/album/18MiErmS6MbLcUsKAClbw2) | 2:54 |
 | 100 | [Septifive](https://open.spotify.com/track/0KCItY61YBgndtRBfnJgG7) | [Roses Between Pages](https://open.spotify.com/artist/70z4svyfxQXrjQUtBF1xuq) | [SEPTIFIVE](https://open.spotify.com/album/6oqrAKF9WmYvcD5ZElrZeK) | 4:40 |
 
-Snapshot ID: `ZyzkAAAAAABUmAl5J++LgCrZA8WNZNLz`
+Snapshot ID: `ZyzkAAAAAACInaHhVwJCHt6PiZm3yZwH`

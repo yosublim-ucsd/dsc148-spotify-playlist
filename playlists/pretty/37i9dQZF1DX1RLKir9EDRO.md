@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: UZUM3 x Robin Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,074 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,069 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 48 | [Kumdan Kale](https://open.spotify.com/track/3VPltfpSoEr4mRCdfQWwLS) | [Uçaksavar](https://open.spotify.com/artist/2qNb7jITPdb2TlMYNgEqF3), [Candaş Öztürk](https://open.spotify.com/artist/3h6Ajn47XzpHygEV31dhrn) | [Kumdan Kale](https://open.spotify.com/album/76nNZ7oKpSxDXVf9XsCTx2) | 4:02 |
 | 49 | [Duvarlar](https://open.spotify.com/track/4ASfk0oaG3A2NWsZNuf11n) | [Elif Işık](https://open.spotify.com/artist/7FB2UZiSTRXRHcgRRVnrti) | [Boşlukları Doldurun](https://open.spotify.com/album/3aYij959kgBNlsDYRl1x1h) | 3:10 |
 
-Snapshot ID: `Zys8qwAAAAAjWuhC2xld4ftEsOPqpdrO`
+Snapshot ID: `Zys8qwAAAACKaFnhbUajpgp9ul76Y3sh`

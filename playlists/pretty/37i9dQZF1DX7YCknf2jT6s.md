@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Butcher Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,154 likes - 100 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,206 likes - 100 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Shutdown Stomp](https://open.spotify.com/track/2QUaxTbNwiPr2S3YLlkJ4v) | [Jenny Scheinman](https://open.spotify.com/artist/5etpJzeeCBoFC8P5l2tkjd), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Shutdown Stomp](https://open.spotify.com/album/1Yabluqjz0tK724zqK7Z7S) | 4:26 |
 | 100 | [Calling Dreams \(feat\. Flyana Boss\)](https://open.spotify.com/track/1thdb2b3h04HS0n3du72uN) | [Ebonie Smith](https://open.spotify.com/artist/3N2TVDR39zCIpfsg73ZzJS), [On Imagination](https://open.spotify.com/artist/7FB5WHVSU9Flq5TTbV11Fs), [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [On Imagination](https://open.spotify.com/album/1hcghxF9FXgIE7zeQ3C9Ev) | 1:17 |
 
-Snapshot ID: `Zy2a0AAAAAASSyviNR0bKM1bQEX9g/th`
+Snapshot ID: `Zy2a0AAAAADOsGq2ZQoxvkHHfq+SwMZJ`

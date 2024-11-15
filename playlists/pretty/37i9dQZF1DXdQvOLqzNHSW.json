@@ -1,12 +1,12 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 1002489,
+  "num_followers": 1002547,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr/aDgAAAABaeeSsMa8US6haTRvmUi9d",
+  "snapshot_id": "Zr/aDgAAAAB7i6zlMBcJaL05iXURJnzt",
   "tracks": [
     {
       "added_at": "2024-08-14 03:53:43",
@@ -77,22 +77,6 @@
       "url": "https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo"
     },
     {
-      "added_at": "2024-08-16 23:00:30",
-      "album": {
-        "name": "Come Over And Love Me",
-        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "Come Over And Love Me",
-      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
-    },
-    {
       "added_at": "2024-08-14 03:53:43",
       "album": {
         "name": "Coping Habits",
@@ -107,6 +91,22 @@
       "duration_ms": 131842,
       "name": "It Soothes Me",
       "url": "https://open.spotify.com/track/6sgnvABaQ82zq4Pm6abqb1"
+    },
+    {
+      "added_at": "2024-08-16 23:00:30",
+      "album": {
+        "name": "Come Over And Love Me",
+        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "Come Over And Love Me",
+      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
+        "name": "Last a While",
+        "url": "https://open.spotify.com/album/73N9ZCHUsbSaIyoTyLFbcK"
+      },
+      "artists": [
+        {
+          "name": "Arc De Soleil",
+          "url": "https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5"
+        }
+      ],
+      "duration_ms": 166819,
+      "name": "Ghost of Fatalia",
+      "url": "https://open.spotify.com/track/551kejKz9qZRgGyCDa7ujF"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
         "name": "Art Collection",
         "url": "https://open.spotify.com/album/2hDRqm8t3u7E8O1t4zojqB"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 150839,
       "name": "Mr. Moon",
       "url": "https://open.spotify.com/track/46gce56bpmcADKw3i00Lju"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
-        "name": "Last a While",
-        "url": "https://open.spotify.com/album/73N9ZCHUsbSaIyoTyLFbcK"
-      },
-      "artists": [
-        {
-          "name": "Arc De Soleil",
-          "url": "https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5"
-        }
-      ],
-      "duration_ms": 166819,
-      "name": "Ghost of Fatalia",
-      "url": "https://open.spotify.com/track/551kejKz9qZRgGyCDa7ujF"
     },
     {
       "added_at": "2024-08-16 22:59:05",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
-        "name": "What\u2019s In The Tea?",
-        "url": "https://open.spotify.com/album/2ML4FOvwSSfe9W6Tacf4OO"
-      },
-      "artists": [
-        {
-          "name": "Calimossa",
-          "url": "https://open.spotify.com/artist/5JNB3hSkXlJODWH9EOYb5Q"
-        }
-      ],
-      "duration_ms": 173052,
-      "name": "What\u2019s In The Tea?",
-      "url": "https://open.spotify.com/track/6T8uyq0ah50RBGnu1c3e45"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
         "name": "Sweetness",
         "url": "https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 251894,
       "name": "Sweetness",
       "url": "https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
+        "name": "What\u2019s In The Tea?",
+        "url": "https://open.spotify.com/album/2ML4FOvwSSfe9W6Tacf4OO"
+      },
+      "artists": [
+        {
+          "name": "Calimossa",
+          "url": "https://open.spotify.com/artist/5JNB3hSkXlJODWH9EOYb5Q"
+        }
+      ],
+      "duration_ms": 173052,
+      "name": "What\u2019s In The Tea?",
+      "url": "https://open.spotify.com/track/6T8uyq0ah50RBGnu1c3e45"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -823,6 +823,22 @@
       "duration_ms": 206394,
       "name": "Your Touch",
       "url": "https://open.spotify.com/track/0V5y62WNCbiceiQSGkW4M2"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/2pAsVVVtQe4MyuazsoclcH"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/0NTlrh71EoG5wGBZkP6uBW"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -879,18 +895,22 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/2pAsVVVtQe4MyuazsoclcH"
+        "name": "Caf\u00e9 Noir",
+        "url": "https://open.spotify.com/album/44x1XWvcEwzLN9EBxRIwDI"
       },
       "artists": [
         {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+          "name": "Flwr Chyld",
+          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
+        },
+        {
+          "name": "Grimm Lynn",
+          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
         }
       ],
-      "duration_ms": 188764,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/0NTlrh71EoG5wGBZkP6uBW"
+      "duration_ms": 140800,
+      "name": "Fallin 4 Ya Luv",
+      "url": "https://open.spotify.com/track/2oCNvjR0wSsPzfDxmcoyqb"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -911,26 +931,6 @@
       "duration_ms": 164211,
       "name": "High",
       "url": "https://open.spotify.com/track/3B9NEjn6V9kLsYmGc2RsSo"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
-        "name": "Caf\u00e9 Noir",
-        "url": "https://open.spotify.com/album/44x1XWvcEwzLN9EBxRIwDI"
-      },
-      "artists": [
-        {
-          "name": "Flwr Chyld",
-          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
-        },
-        {
-          "name": "Grimm Lynn",
-          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Fallin 4 Ya Luv",
-      "url": "https://open.spotify.com/track/2oCNvjR0wSsPzfDxmcoyqb"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -1135,38 +1135,6 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
-        "name": "Above Me",
-        "url": "https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "Above Me",
-      "url": "https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
-        "name": "R\u00eaverie",
-        "url": "https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO"
-      },
-      "artists": [
-        {
-          "name": "Les Imprim\u00e9s",
-          "url": "https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf"
-        }
-      ],
-      "duration_ms": 197511,
-      "name": "I'll Never Leave",
-      "url": "https://open.spotify.com/track/1NsUICf9ugoSbpyue5qcDh"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
         "name": "Holy Waters",
         "url": "https://open.spotify.com/album/0lKhpZwGFHDSKctDYk1dhy"
       },
@@ -1183,6 +1151,22 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
+        "name": "Above Me",
+        "url": "https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "Above Me",
+      "url": "https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
         "name": "Lucid Dreams",
         "url": "https://open.spotify.com/album/7G7v6Di7EhJ1fuldgIoUkN"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 182453,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/4BGcVxS20x7sLA2uKp5wJU"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
+        "name": "R\u00eaverie",
+        "url": "https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO"
+      },
+      "artists": [
+        {
+          "name": "Les Imprim\u00e9s",
+          "url": "https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf"
+        }
+      ],
+      "duration_ms": 197511,
+      "name": "I'll Never Leave",
+      "url": "https://open.spotify.com/track/1NsUICf9ugoSbpyue5qcDh"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
+        "name": "Dick Arkive: Issue 2",
+        "url": "https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV"
+      },
+      "artists": [
+        {
+          "name": "r mccarthy",
+          "url": "https://open.spotify.com/artist/0NXGquUwII6z0ukB4xmvS7"
+        }
+      ],
+      "duration_ms": 242345,
+      "name": "I Think I Lost That Love",
+      "url": "https://open.spotify.com/track/0UqRhRTH7FqsnOR0AZ16rX"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
         "name": "Lover\u2019s Rock",
         "url": "https://open.spotify.com/album/7oeGRapHeKODWlsNGdOZ8Z"
       },
@@ -1343,18 +1359,18 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
-        "name": "Dick Arkive: Issue 2",
-        "url": "https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV"
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/2mhUlq89PNUsG0iRweZ8no"
       },
       "artists": [
         {
-          "name": "r mccarthy",
-          "url": "https://open.spotify.com/artist/0NXGquUwII6z0ukB4xmvS7"
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
         }
       ],
-      "duration_ms": 242345,
-      "name": "I Think I Lost That Love",
-      "url": "https://open.spotify.com/track/0UqRhRTH7FqsnOR0AZ16rX"
+      "duration_ms": 218848,
+      "name": "Really You",
+      "url": "https://open.spotify.com/track/51jPeV7Ece8amGS37cBC80"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/2mhUlq89PNUsG0iRweZ8no"
-      },
-      "artists": [
-        {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
-        }
-      ],
-      "duration_ms": 218848,
-      "name": "Really You",
-      "url": "https://open.spotify.com/track/51jPeV7Ece8amGS37cBC80"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/3a4JBDsQCybVTSAn3KDdrN"
       },
@@ -1423,102 +1423,6 @@
       "duration_ms": 239604,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/4firXMx3LKEH8a5hiJeL5D"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
-        "name": "Move San, L\u00e8t Gate",
-        "url": "https://open.spotify.com/album/6gVG0djijF2sU0KLYFObKE"
-      },
-      "artists": [
-        {
-          "name": "TWEAKS",
-          "url": "https://open.spotify.com/artist/0Eee47Sroig9UczLZGtyVn"
-        }
-      ],
-      "duration_ms": 175707,
-      "name": "Plastic Beach",
-      "url": "https://open.spotify.com/track/6tqBvXpnAqeHTzINQlhbKp"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
-        "name": "Anak Ko",
-        "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
-      },
-      "artists": [
-        {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
-        }
-      ],
-      "duration_ms": 237865,
-      "name": "Get Well",
-      "url": "https://open.spotify.com/track/2HL9AWMPtGWxPEYyEdpdaU"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
-        "name": "Pixie Dust",
-        "url": "https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8"
-      },
-      "artists": [
-        {
-          "name": "Ethel",
-          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
-        }
-      ],
-      "duration_ms": 183716,
-      "name": "Pixie Dust",
-      "url": "https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
-        "name": "East",
-        "url": "https://open.spotify.com/album/7ANkteUr95wzf2nEoxKkqf"
-      },
-      "artists": [
-        {
-          "name": "MOSSS",
-          "url": "https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey"
-        }
-      ],
-      "duration_ms": 214243,
-      "name": "What Happens In Your Head?",
-      "url": "https://open.spotify.com/track/0n0ou3PHz61mtfgnnvxA6E"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
-        "name": "Rabid Dog",
-        "url": "https://open.spotify.com/album/2ll3i9DmecdeFcW0kUy4vw"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 239814,
-      "name": "Rabid Dog",
-      "url": "https://open.spotify.com/track/4DhufpFtJhDjlCI3vYNXRo"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
-        "name": "Prince",
-        "url": "https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A"
-      },
-      "artists": [
-        {
-          "name": "Jelly Crystal",
-          "url": "https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP"
-        }
-      ],
-      "duration_ms": 221692,
-      "name": "Don Lemon",
-      "url": "https://open.spotify.com/track/78qzUOwcFqXdA5npQMLwAh"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -1539,6 +1443,102 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
+        "name": "Move San, L\u00e8t Gate",
+        "url": "https://open.spotify.com/album/6gVG0djijF2sU0KLYFObKE"
+      },
+      "artists": [
+        {
+          "name": "TWEAKS",
+          "url": "https://open.spotify.com/artist/0Eee47Sroig9UczLZGtyVn"
+        }
+      ],
+      "duration_ms": 175707,
+      "name": "Plastic Beach",
+      "url": "https://open.spotify.com/track/6tqBvXpnAqeHTzINQlhbKp"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A"
+      },
+      "artists": [
+        {
+          "name": "Jelly Crystal",
+          "url": "https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP"
+        }
+      ],
+      "duration_ms": 221692,
+      "name": "Don Lemon",
+      "url": "https://open.spotify.com/track/78qzUOwcFqXdA5npQMLwAh"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
+        "name": "Pixie Dust",
+        "url": "https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8"
+      },
+      "artists": [
+        {
+          "name": "Ethel",
+          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
+        }
+      ],
+      "duration_ms": 183716,
+      "name": "Pixie Dust",
+      "url": "https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
+        "name": "Anak Ko",
+        "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
+      },
+      "artists": [
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        }
+      ],
+      "duration_ms": 237865,
+      "name": "Get Well",
+      "url": "https://open.spotify.com/track/2HL9AWMPtGWxPEYyEdpdaU"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
+        "name": "Rabid Dog",
+        "url": "https://open.spotify.com/album/2ll3i9DmecdeFcW0kUy4vw"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 239814,
+      "name": "Rabid Dog",
+      "url": "https://open.spotify.com/track/4DhufpFtJhDjlCI3vYNXRo"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
+        "name": "East",
+        "url": "https://open.spotify.com/album/7ANkteUr95wzf2nEoxKkqf"
+      },
+      "artists": [
+        {
+          "name": "MOSSS",
+          "url": "https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey"
+        }
+      ],
+      "duration_ms": 214243,
+      "name": "What Happens In Your Head?",
+      "url": "https://open.spotify.com/track/0n0ou3PHz61mtfgnnvxA6E"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
         "name": "NYC Stuff and NYC Bags - EP",
         "url": "https://open.spotify.com/album/2BbHRqsqZmJOkIWXlQXGsS"
       },
@@ -1551,22 +1551,6 @@
       "duration_ms": 115773,
       "name": "Outro 4 NYC",
       "url": "https://open.spotify.com/track/5po3pk15QRCg1jf9thg39N"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
-        "name": "Iris and I",
-        "url": "https://open.spotify.com/album/0OF4M8g6GOgUvMUX21ypu1"
-      },
-      "artists": [
-        {
-          "name": "Ralph Castelli",
-          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "Iris and I",
-      "url": "https://open.spotify.com/track/0keKUvQlMR21BPpZfJAMlW"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -1619,6 +1603,22 @@
       "duration_ms": 272000,
       "name": "swan hug (feat. jjared)",
       "url": "https://open.spotify.com/track/1JTUU1q0ilxfcsqAQKh9Lm"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
+        "name": "Iris and I",
+        "url": "https://open.spotify.com/album/0OF4M8g6GOgUvMUX21ypu1"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "Iris and I",
+      "url": "https://open.spotify.com/track/0keKUvQlMR21BPpZfJAMlW"
     },
     {
       "added_at": "2024-08-14 03:53:43",

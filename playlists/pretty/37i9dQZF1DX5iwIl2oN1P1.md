@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > Get your Sunday sound right with this collection of current Gospel essentials\. Cover: <a href="spotify:artist:3NYwlCIjzmWwNdLPGT9UV8">Phil Thompson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,477 likes - 63 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,534 likes - 63 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 62 | [Tomorrow](https://open.spotify.com/track/2GTB5IhZqhdYLBGpAIfAPL) | [Freddy Washington Jr.](https://open.spotify.com/artist/7kGuR5CJOPkQ1wt1TiVWNE) | [Tomorrow](https://open.spotify.com/album/3idokIb9ZCAu6nBxKjV8mk) | 3:23 |
 | 63 | [Great Is Thy Faithfulness \- Live](https://open.spotify.com/track/0l3kvrgNlFiSMQEHYLa2Hj) | [Christopher L\. Ervin](https://open.spotify.com/artist/3xQjyrHvymBqXttrCdTqkU), [Abraham's Descendants](https://open.spotify.com/artist/5M8O5yIkzwAMsRg01muXyC), [Michael Lampkin](https://open.spotify.com/artist/2caS1FCJovrjbyz7zXb44l) | [Recover \(Live\)](https://open.spotify.com/album/3DZmGUvsHzWSDnXba5wlDv) | 4:28 |
 
-Snapshot ID: `Zr1BNQAAAAAeIu+zFBp5xGjLQitU2+LT`
+Snapshot ID: `Zr1BNQAAAADHwNxiaKnO5Ewv9tMSD4i6`

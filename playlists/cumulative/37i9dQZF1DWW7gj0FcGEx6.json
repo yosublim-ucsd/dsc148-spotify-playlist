@@ -601,6 +601,24 @@
     },
     {
       "album": {
+        "name": "Ave Maria",
+        "url": "https://open.spotify.com/album/1L9knhxczvNe1TNnOcYoYC"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286014,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/7jkV6uU9wKgczd7UjS6Rdv"
+    },
+    {
+      "album": {
         "name": "Meet Me Next Christmas (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/0PVoECRcbVY10o85e1fq6l"
       },

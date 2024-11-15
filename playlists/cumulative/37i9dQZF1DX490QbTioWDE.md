@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Ulises Bueno & La K´onga.
 
-495 songs - 1 day 6 hr 39 min
+496 songs - 1 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Aunque Sea En Otra Vida](https://open.spotify.com/track/3vqqZWAdmThQFxMAiuEZzK) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [Aunque Sea En Otra Vida](https://open.spotify.com/album/2xzf1jeqi5Fe3FkP8EI2fo) | 3:51 | 2023-05-05 | 2024-02-29 |
 | [Aventura \- En Vivo](https://open.spotify.com/track/3eaI7pm5Epr3Wurhe36sfG) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Valentina Olguin](https://open.spotify.com/artist/4bFcNlqngm7XibeU7HW3IR) | [Aventura \(En Vivo\)](https://open.spotify.com/album/0yXcCgUKJLkaCGsH9BiXfI) | 3:06 | 2024-09-27 |  |
 | [Aún Te Quiero \- \(En Vivo\)](https://open.spotify.com/track/3Pp8IwkIi9SNPrgRyC5G00) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [Aún Te Quiero](https://open.spotify.com/album/0QSc8pvSbZBkAJsGLSiB6h) | 3:52 | 2024-02-23 | 2024-08-24 |
+| [Baby Nueva](https://open.spotify.com/track/4YTEBvMH7uuUhwcRpiLNVW) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [Baby Nueva](https://open.spotify.com/album/2PIFBB0XSEQnP5k3Cg97JB) | 2:47 | 2024-11-08 |  |
 | [Balas Perdidas](https://open.spotify.com/track/1IvUu9AOjyUdYZpAvUxjAo) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Balas Perdidas](https://open.spotify.com/album/3FuOxabcnQnmG1AykUZOR3) | 3:01 | 2024-10-04 |  |
 | [Basta de Cuernos](https://open.spotify.com/track/4d8UC0Lp6ciZO1WDTP2TbB) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Basta de Cuernos](https://open.spotify.com/album/73duWKQhJTT6jmpXofZAfp) | 2:30 | 2022-03-02 | 2022-05-20 |
 | [Basta de Jugar](https://open.spotify.com/track/3J4iy8bc9nCebnbfJS6h5a) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv), [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Basta de Jugar](https://open.spotify.com/album/4DivYjZqWyEUsU6IyjsGJQ) | 2:54 | 2024-02-16 | 2024-03-18 |
@@ -284,7 +285,7 @@
 | [Mujeriego](https://open.spotify.com/track/2vPg7rh3zgQ587xjODXF4S) | [ARRIBA LAS PALMAS](https://open.spotify.com/artist/3UwhcTFnEvxWVudjilDwu2) | [Mujeriego](https://open.spotify.com/album/6Y9bY68cLZTtx9wE6qpmE0) | 3:32 | 2023-01-20 | 2023-01-24 |
 | [Mujeriego](https://open.spotify.com/track/5zP7ijJJYdq7aMyZBy9HK5) | [La Groza](https://open.spotify.com/artist/54yxNOqC1kt6hM34wpNKtL) | [Mujeriego](https://open.spotify.com/album/46nz8Ed88HH93oOWdSf8TZ) | 2:10 | 2022-08-05 | 2022-08-13 |
 | [MYA LIVE P2: Corazón Guerrero](https://open.spotify.com/track/4Rs4ijFlNvhJ2fuRFNCH9h) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [MYA LIVE P2: Corazón Guerrero](https://open.spotify.com/album/4abxB4hx5B9197BK6hAccz) | 2:59 | 2023-06-09 |  |
-| [Más](https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Más](https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i) | 4:04 | 2021-12-24 |  |
+| [Más](https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Más](https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i) | 4:04 | 2021-12-24 | 2024-11-15 |
 | [Más Que Amigos](https://open.spotify.com/track/7h4ce3ciRt2Qhmxtkm5I6h) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Más Que Amigos](https://open.spotify.com/album/3Vy7X6iHw45fFwqdJGTEW7) | 3:21 | 2021-12-24 | 2023-08-13 |
 | [Mátame](https://open.spotify.com/track/1Ppfw00BnRqGSOPA9b3HQD) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Mátame](https://open.spotify.com/album/6ciuelvQH0bQvxDkBxFf8l) | 2:38 | 2022-11-04 | 2022-11-12 |
 | [Mírame](https://open.spotify.com/track/1kJjTCNnD5rmKOy02dViQA) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Mírame](https://open.spotify.com/album/0IuztiLZWWbaIACNbPU5xT) | 3:06 | 2024-08-16 | 2024-09-28 |

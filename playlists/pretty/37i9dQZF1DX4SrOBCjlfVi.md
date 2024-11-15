@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Real Boston Richey, Cordae, Young Nudy and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,376 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,481 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Mr\. Fantastic](https://open.spotify.com/track/6fJBbbh5zAGePQAE5agieW) | [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [Mr\. Fantastic](https://open.spotify.com/album/6XV9Qs5p4AtqmEFHYQpg3m) | 2:50 |
 | 50 | [ALL ON ME](https://open.spotify.com/track/2dyEq6oJXOC4l9C3bpdAi6) | [BigKlit](https://open.spotify.com/artist/0POkErJcpuhWNnCXAhgJoZ) | [ALL ON ME](https://open.spotify.com/album/1a3yh4BUosXVkM6CMj5bHg) | 2:06 |
 
-Snapshot ID: `Zy2mYQAAAABjmrNMXebfldannFkTxvKP`
+Snapshot ID: `Zy2mYQAAAAB0r/fCjsn30sau2aWHDyXI`

@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 71 | [ランカとボビーのSMS小隊の歌](https://open.spotify.com/track/1FbziiIJNJIRJLJD0oOUEk) | [ランカ・リー with ボビー・マルゴ](https://open.spotify.com/artist/1HDrVcFaTLJZOCy0OTpcuN) | [「マクロスF」ランカとボビーのSMS小隊の歌 など。](https://open.spotify.com/album/79YQDWWXD3zzLwXUSS71ky) | 1:00 |
 | 72 | [おてもやん](https://open.spotify.com/track/19kZmy3DQQxLbsHdAot5I6) | [Sayuri Ishikawa](https://open.spotify.com/artist/1tYbvS6Nkq4Rxvx8ZRTzJP) | [民 ～Tami～](https://open.spotify.com/album/7fOVjAaS7rqZFoVpyr6wZK) | 3:36 |
 
-Snapshot ID: `ZR7iVgAAAADQsNcGZs6Qg7mHPEgdhaDA`
+Snapshot ID: `ZR7iVgAAAAAcBSrc+V9QGrENeJdm6dqH`

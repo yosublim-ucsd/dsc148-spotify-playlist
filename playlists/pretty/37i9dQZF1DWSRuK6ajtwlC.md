@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax\. La Pocima Norteña en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,437 likes - 87 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,580 likes - 87 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 86 | [El Clima](https://open.spotify.com/track/3ekdUF4cZDzsR87Orn3LyW) | [Adverzo](https://open.spotify.com/artist/0NMJh5gFRAkN5uUsCujlCV) | [El Clima](https://open.spotify.com/album/5uMshEH40InYCbjNrmnwat) | 2:58 |
 | 87 | [En Automático](https://open.spotify.com/track/3kGeAU2fVqf72NCoAJdxbT) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p), [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0) | [En Automático](https://open.spotify.com/album/1ZQqsASquT4yZ6mXzWs3af) | 2:30 |
 
-Snapshot ID: `ZxHvYAAAAACvJEYex3F51O/eCWIoZfyt`
+Snapshot ID: `ZxHvYAAAAACcn9U6EYJtbkThqp9JOr1Y`

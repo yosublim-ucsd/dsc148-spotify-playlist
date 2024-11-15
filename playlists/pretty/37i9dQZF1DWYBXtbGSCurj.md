@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Hungria
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,448 likes - 74 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,536 likes - 74 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 73 | [SE ENVOLVE](https://open.spotify.com/track/2qcSN7Mhg5Pq1erd1O5ebK) | [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [MAGIC SHOW](https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW) | 2:09 |
 | 74 | [Tá Interessante \(200 Por Hora\)](https://open.spotify.com/track/7mzuvMZc2NnBS0dsJNYEzD) | [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Tá Interessante \(200 Por Hora\)](https://open.spotify.com/album/7tsXfedOhZSI3VxcZQXB0I) | 5:05 |
 
-Snapshot ID: `Zy1+7AAAAAC50D2h/v+/YyCpRoIIXVdB`
+Snapshot ID: `Zy1+7AAAAAA8ECRtPZebbJIWHSH4pcpK`

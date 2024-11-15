@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/3vb3BBR8GER9qqqfEtPlIi"
+      },
+      "artists": [
+        {
+          "name": "Safe Wave",
+          "url": "https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/5RS5whcXwDoZpwXk12zGPj"
+    },
+    {
+      "album": {
         "name": "Body on Fire",
         "url": "https://open.spotify.com/album/3B90f5X9qYr2MFflbC8tRu"
       },
@@ -1452,7 +1470,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 171250,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/1sc14QCYBn4jtuoQx8wECt"
@@ -2534,7 +2552,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 157512,
       "name": "I Came For You",
       "url": "https://open.spotify.com/track/7GzMPJZYGgWW7VbcHYG21I"
@@ -2596,6 +2614,36 @@
       "duration_ms": 141954,
       "name": "Iawah",
       "url": "https://open.spotify.com/track/17VWtILiXRAg9hr4XE32ZS"
+    },
+    {
+      "album": {
+        "name": "If I Have To",
+        "url": "https://open.spotify.com/album/4QuTyx5bLbYPRqzhUymkID"
+      },
+      "artists": [
+        {
+          "name": "Ajna (BE)",
+          "url": "https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN"
+        },
+        {
+          "name": "Mosoo",
+          "url": "https://open.spotify.com/artist/4tb4RmDN2nG89wOo7SQLzh"
+        },
+        {
+          "name": "Samm (BE)",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        },
+        {
+          "name": "Morane",
+          "url": "https://open.spotify.com/artist/6UaAGwEkZDSzBtMbfPcDeB"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246024,
+      "name": "If I Have To",
+      "url": "https://open.spotify.com/track/3YL13hNz8ssxUsPHG7GgUP"
     },
     {
       "album": {
@@ -2970,7 +3018,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 128709,
       "name": "Lie",
       "url": "https://open.spotify.com/track/7iJM2yX8oSRtHRTICv8g1W"
@@ -3350,7 +3398,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 146129,
       "name": "MAGNETS",
       "url": "https://open.spotify.com/track/1DARVvN0RpBRhZpVal39VL"
@@ -3402,7 +3450,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 132000,
       "name": "Meant To Be",
       "url": "https://open.spotify.com/track/0oeKRF8BpMKRFUCeQMVypR"
@@ -3628,6 +3676,24 @@
       "duration_ms": 221500,
       "name": "My Favourite Game",
       "url": "https://open.spotify.com/track/4GGu1HfGUG5qOBXgN1slUa"
+    },
+    {
+      "album": {
+        "name": "My Girl",
+        "url": "https://open.spotify.com/album/6GNd7VlA7cEi2wrrweJSbu"
+      },
+      "artists": [
+        {
+          "name": "Janieck",
+          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/4vnCOTT3hRLXWogSFfFd1j"
     },
     {
       "album": {
@@ -5253,6 +5319,24 @@
     },
     {
       "album": {
+        "name": "Trampolines",
+        "url": "https://open.spotify.com/album/6P3wd3aFVwuwF3tYbzCskk"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242500,
+      "name": "The Sun Will Come Again",
+      "url": "https://open.spotify.com/track/77sqWKCdxGlxjEmJn3fg9F"
+    },
+    {
+      "album": {
         "name": "This Love",
         "url": "https://open.spotify.com/album/1zMyK6lBwXheSrJkRlwb9o"
       },
@@ -5312,6 +5396,24 @@
       "duration_ms": 129573,
       "name": "Thousand Lullabies",
       "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
+    },
+    {
+      "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/2h0Dp9MCVUU0Vp8wyHAMt8"
+      },
+      "artists": [
+        {
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142909,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/50FC8Y5QFcRA8VtI2qiGDV"
     },
     {
       "album": {

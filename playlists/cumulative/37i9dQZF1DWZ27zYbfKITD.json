@@ -847,6 +847,24 @@
     },
     {
       "album": {
+        "name": "Music of Game of Thrones",
+        "url": "https://open.spotify.com/album/5tOw54FtPE69YiTYF9aHke"
+      },
+      "artists": [
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186373,
+      "name": "Goodbye Brother - From \"Game of Thrones\"",
+      "url": "https://open.spotify.com/track/3yod3xafuKTpIeTI2o3E2x"
+    },
+    {
+      "album": {
         "name": "The Lord of the Rings Online (10th Anniversary Commemorative Soundtrack)",
         "url": "https://open.spotify.com/album/1lkI0MpnnccE364waiYGOY"
       },
@@ -1325,6 +1343,28 @@
     },
     {
       "album": {
+        "name": "Darkest Hour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/30EMkMigIgNjrdL3BD88vd"
+      },
+      "artists": [
+        {
+          "name": "Dario Marianelli",
+          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93386,
+      "name": "One Of Them",
+      "url": "https://open.spotify.com/track/6fA0poqfdv8OOblDXiRGaQ"
+    },
+    {
+      "album": {
         "name": "Inside Out 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7GxqnKjMYDDxdAftzeAGfD"
       },
@@ -1477,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Room With A View",
+        "url": "https://open.spotify.com/album/7sVLlSfIXsqyH46CxBy8Go"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Room With A View",
+      "url": "https://open.spotify.com/track/7ftyxy2znzl4k3Ojwe8QZm"
+    },
+    {
+      "album": {
         "name": "Half Brothers (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6Hvhg2DNn8ECerbfhHpDXe"
       },
@@ -1510,6 +1568,28 @@
       "duration_ms": 205750,
       "name": "Searching (Foundation Track)",
       "url": "https://open.spotify.com/track/3Xw5J2mgjVQOnbDwD4qDLN"
+    },
+    {
+      "album": {
+        "name": "Soule: Secunda (Transcr. Trifonov for Piano) [From \"The Elder Scrolls: Skyrim\"]",
+        "url": "https://open.spotify.com/album/4Ue8hjaZEDACgXgZTbp2x9"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Soule",
+          "url": "https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147142,
+      "name": "Secunda (Transcr. Trifonov for Piano) - From \"The Elder Scrolls: Skyrim\"",
+      "url": "https://open.spotify.com/track/4xEbrGC6A3Bw7hCw3yuwJz"
     },
     {
       "album": {

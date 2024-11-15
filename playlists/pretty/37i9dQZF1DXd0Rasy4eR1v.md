@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you have not heard before\. Cover: Ali & Shjr
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,890 likes - 93 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,894 likes - 93 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 92 | [Kamli](https://open.spotify.com/track/5wgaY24bpil186z4skJsWI) | [Ahsan Samraa](https://open.spotify.com/artist/60AyZ7poR9Mj27ZtDEhqVV), [Beatsbykanwar](https://open.spotify.com/artist/4NtATyMmXfykvzWyKtEOZH) | [Kamli](https://open.spotify.com/album/7whqshrWRpD89eKzJx8dnU) | 2:36 |
 | 93 | [Rangrasiya](https://open.spotify.com/track/4QLIRTVyCqhUHJT8wl0gWk) | [Nirmala Maghani](https://open.spotify.com/artist/0jzxT5aCMdsjU2QHtIEGS3) | [Rangrasiya](https://open.spotify.com/album/3iwqspTZHMhQPy2z2weVvZ) | 3:10 |
 
-Snapshot ID: `ZyyebQAAAAAzTYUnDBrbC6wfKMoDyOpF`
+Snapshot ID: `ZyyebQAAAABnSlW0jEK3DuIyGrib6ehw`

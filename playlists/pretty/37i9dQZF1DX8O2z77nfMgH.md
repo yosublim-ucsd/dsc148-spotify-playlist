@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Danny Ocean, Kapo
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,682 likes - 53 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,683 likes - 53 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 52 | [Te Quema](https://open.spotify.com/track/2fVSyIdnmJqmRsI2I1k1PO) | [Lysee](https://open.spotify.com/artist/2M04wRJIasnLQxiYFkSLaL) | [Te Quema](https://open.spotify.com/album/3y6e8icb0LVDa26HFnC2RS) | 2:31 |
 | 53 | [Ai Que Calor](https://open.spotify.com/track/4T8ox558vnY7tCdWvdOhan) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 2:24 |
 
-Snapshot ID: `ZzJPygAAAAAMCA4pQWGnaCY9viT2G4YF`
+Snapshot ID: `ZzJPygAAAABNBY7nwUmvgJxwGPw0kX1j`

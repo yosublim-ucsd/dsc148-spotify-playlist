@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: xena giam\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,588 likes - 121 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,589 likes - 121 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 120 | [COME THRU](https://open.spotify.com/track/0VSAn2bij65QTrgs1s4jk3) | [Joogi](https://open.spotify.com/artist/5KK7a8MlnPK04dZCq0IXXs), [Brendonse7an](https://open.spotify.com/artist/65T1SQqoFSFXgUZxSWfpMN) | [COME THRU](https://open.spotify.com/album/6RTvskxkCkMta6DmFRj4Cz) | 3:37 |
 | 121 | [If only I could](https://open.spotify.com/track/6R0b4W7A7cPFJrDQI7pXbf) | [ALICIA DC](https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E) | [If only I could](https://open.spotify.com/album/7e54UA8KhvYICFr2NW6cfD) | 4:27 |
 
-Snapshot ID: `ZtCbAAAAAACcCB0gH2+87U4ptrwvAtmd`
+Snapshot ID: `ZtCbAAAAAAACt5xf6TP2IwwpqI5N24PJ`

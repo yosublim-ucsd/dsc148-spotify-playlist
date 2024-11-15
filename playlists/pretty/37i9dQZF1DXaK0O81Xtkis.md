@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Peach Luffe
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,663 likes - 66 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,665 likes - 66 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 65 | [Let It Rain](https://open.spotify.com/track/11zgphiq5vlwjis2uFi271) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Let It Rain](https://open.spotify.com/album/274sh16x8L1VQQZvTeTJzC) | 3:29 |
 | 66 | [GIRLFRIEND](https://open.spotify.com/track/4fVa3oskSSMCsKyvlAGMPv) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [GIRLFRIEND](https://open.spotify.com/album/6G4udJxDgLFrXnsNm8hSs5) | 3:24 |
 
-Snapshot ID: `ZzJZpgAAAAC0b5U65gzzScWxUfCXUIB6`
+Snapshot ID: `ZzJZpgAAAACPQ8UyIXrQYTPsKY9zIXiR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Rav
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,807 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,823 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 49 | [Takkre](https://open.spotify.com/track/6mk8Crg34K7YadjQbWwFGm) | [Mauji](https://open.spotify.com/artist/2HdSfvPp2Q6XCpK5AWEcV5) | [Takkre](https://open.spotify.com/album/4BR3PsRX5bPbWHsf99N4NE) | 2:09 |
 | 50 | [Well Off](https://open.spotify.com/track/25E2REAAzyZqPSU7suoRtn) | [Jas Dhillon](https://open.spotify.com/artist/2airdhY6xFwKcT9xEvYkHO), [SXRPANCH](https://open.spotify.com/artist/4BrIojCbr3rc1I2tJBdNYv) | [Well Off](https://open.spotify.com/album/0bS8KwZxyqPymb7ZkVkH3n) | 2:24 |
 
-Snapshot ID: `ZzRGngAAAAAa+NZYcZ0Gm9B6w+T2cK9/`
+Snapshot ID: `ZzRGngAAAAA6hhQaUyxV21cYiJd4+WM/`

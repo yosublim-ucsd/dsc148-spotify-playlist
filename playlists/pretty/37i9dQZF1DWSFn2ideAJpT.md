@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 
 > Crystal Clear Solfeggio Frequencies 963 Hertz
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,502 likes - 63 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,688 likes - 63 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 | 62 | [Spiritual Connection \- 963Hz](https://open.spotify.com/track/2Hg9zXiCO2TV9NBeXbFXEn) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Spiritual Connection \- 963Hz](https://open.spotify.com/album/6olr1fxyePg6UmYUMf9OFQ) | 2:43 |
 | 63 | [Golden Intuition 963Hz](https://open.spotify.com/track/0HFNgMACGjYIen6R3vf4dk) | [Introspective Release](https://open.spotify.com/artist/0lOSiJ1BplaLxVIEEw3CHS) | [Golden Intuition 963Hz](https://open.spotify.com/album/6OvmLeuNefIkVJ879kpoc6) | 3:06 |
 
-Snapshot ID: `Zyy9zwAAAABl63hvKJ2H53h0gkiwiyq5`
+Snapshot ID: `Zyy9zwAAAAAg5pJN0eKAmEReqgakWOmr`

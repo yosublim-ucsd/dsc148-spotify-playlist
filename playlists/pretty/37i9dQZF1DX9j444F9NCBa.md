@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 869,156 likes - 294 songs - 15 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 869,678 likes - 294 songs - 15 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -303,4 +303,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 293 | [Inside Of Me](https://open.spotify.com/track/2XyVb6wPtV92EqwIPBhcJB) | [Jack Pelayo](https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG) | [Inside Of Me](https://open.spotify.com/album/1feTbnUKnfGDWKQYiGVjUc) | 2:38 |
 | 294 | [I'm Yours](https://open.spotify.com/track/2OW93KcFnwdMBvfdDs2ZU1) | [Mary Lou Stephens](https://open.spotify.com/artist/5NkQxYTi4qXxNUqH2GJkPH) | [I'm Yours](https://open.spotify.com/album/0dmMyKWLPKzNgnC0DlEJQq) | 2:43 |
 
-Snapshot ID: `Zy4h4AAAAAAVnB77tDEPbtmL33/hUCyv`
+Snapshot ID: `Zy4h4AAAAACiJup/qzZF1+7boir2mxss`

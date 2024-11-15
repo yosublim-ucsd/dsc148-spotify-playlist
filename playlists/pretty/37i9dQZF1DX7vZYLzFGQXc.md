@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: verycoybunny\(베리코이버니\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,647 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,742 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [You Look Stunning](https://open.spotify.com/track/49OA28vZqXIIUZrtWwe29U) | [MRT](https://open.spotify.com/artist/2wczizmPu6o01FTA7XpIYj) | [You Look Stunning](https://open.spotify.com/album/14QhabL43BROoePN79sojH) | 2:53 |
 | 100 | [Over The Line](https://open.spotify.com/track/1lhKnMuCw5Ssmmng3BSRet) | [CODA BRIDGE](https://open.spotify.com/artist/4EHj2EYtaVfrMnQqvSw0ca) | [Over The Line](https://open.spotify.com/album/0jxgHkAP3XDPf973i3MRpV) | 3:32 |
 
-Snapshot ID: `ZzHOkgAAAADvE7YHGmu8TaWdHGaPQ4+e`
+Snapshot ID: `ZzHOkgAAAABQACxex+0ffY56c5zxsZiC`

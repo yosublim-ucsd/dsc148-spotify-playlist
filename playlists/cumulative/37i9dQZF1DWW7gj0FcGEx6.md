@@ -4,7 +4,7 @@
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-460 songs - 22 hr 22 min
+461 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Auguries of Innocence](https://open.spotify.com/track/3KWPNzOY4hYY9jPYp2sSUY) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Rebel Moon — Part Two: The Scargiver \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/3ei7cP8CR25l9mgzMZC8Qw) | 4:11 | 2024-04-12 |  |
 | [Aurora](https://open.spotify.com/track/3lve6DLYGjfrYe2QsoDoeu) | [Fernando Velázquez](https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF) | [Alma \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0anuS0gAUcyLl9426vSdrU) | 2:57 | 2022-11-11 | 2024-04-19 |
 | [Aurora](https://open.spotify.com/track/60W0NU4SBa2I2yC7b44Kja) | [Fernando Velázquez](https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF) | [Alma \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0WTosvMJLB7LhIWZ6sea1l) | 2:57 | 2022-08-19 | 2024-10-12 |
+| [Ave Maria](https://open.spotify.com/track/7jkV6uU9wKgczd7UjS6Rdv) | [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E) | [Ave Maria](https://open.spotify.com/album/1L9knhxczvNe1TNnOcYoYC) | 4:46 | 2024-11-08 |  |
 | [Back to Brooklyn](https://open.spotify.com/track/02EM3FStjDy10CIwYe7anc) | [Dara Taylor](https://open.spotify.com/artist/6DXeA5nK5RwxNAs8a3nHLG) | [Meet Me Next Christmas \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0PVoECRcbVY10o85e1fq6l) | 0:39 | 2024-11-08 |  |
 | [Bagman Main Title](https://open.spotify.com/track/6kYndH7CwSzuZcitSXDZ67) | [Timothy Williams](https://open.spotify.com/artist/3rYGGDSKzvvH2JdqgVvfee) | [Bagman \(Original Motion Picture Score\)](https://open.spotify.com/album/31gOi5lxTcVv9DJpFdoC9o) | 2:07 | 2024-10-01 |  |
 | [Bathroom Dance](https://open.spotify.com/track/4WiqPbWvLbv317E8fB4SJC) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 2:08 | 2021-12-20 | 2022-07-09 |

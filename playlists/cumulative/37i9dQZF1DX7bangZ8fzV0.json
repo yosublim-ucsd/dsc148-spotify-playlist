@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg?si=bHx_mzHWTAeG8eL0gDNy_Q\">Ricus Nel</a> & <a href=\"https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q?si=NeHI_U3TTQaHVBKQAz0dQg\">Chris Steyn</a> ",
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd?si=nFKXPm6UTYiJZRICzI1pDA\">Kurt Darren</a> ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 198995,
       "name": "Haai Haai",
       "url": "https://open.spotify.com/track/7oNaAYHagyDVzB8YoyhuMm"
@@ -1673,6 +1673,24 @@
     },
     {
       "album": {
+        "name": "100%",
+        "url": "https://open.spotify.com/album/2axcE5ad6XVpFn0Szm2auS"
+      },
+      "artists": [
+        {
+          "name": "Kurt Darren",
+          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180534,
+      "name": "Hop Hop Spinnekop",
+      "url": "https://open.spotify.com/track/4NG32lh3Z2wHxrDptfiQd3"
+    },
+    {
+      "album": {
         "name": "Hou Bene Hou",
         "url": "https://open.spotify.com/album/4kmNdny53K7oNhsJHAliYl"
       },
@@ -1799,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "Jan Asseblief",
+        "url": "https://open.spotify.com/album/1rGDaJtxnzwDDPBgKpg3M2"
+      },
+      "artists": [
+        {
+          "name": "Irene-Louise Van Wyk",
+          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178313,
+      "name": "Jan Asseblief",
+      "url": "https://open.spotify.com/track/1BbgTIFrI7uNHg189LjkqJ"
+    },
+    {
+      "album": {
         "name": "Jannie Bloemfontein",
         "url": "https://open.spotify.com/album/25Ar72ANXBJmlwYqh56d8u"
       },
@@ -1918,7 +1954,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 194142,
       "name": "Jou Tyd Is Nou",
       "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"

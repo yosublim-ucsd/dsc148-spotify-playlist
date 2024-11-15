@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Más vivo que nunca, más nuestro que siempre\. Foto: Airbag.
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,526 likes - 90 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,537 likes - 90 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 89 | [JAZMINES](https://open.spotify.com/track/5stOSNyy1mDr9VKGM3Nsds) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk) | [JAZMINES](https://open.spotify.com/album/5AaX07apcNQnIlouDBRJmK) | 4:21 |
 | 90 | [La Partida](https://open.spotify.com/track/4xtItebw9T2izlrySJSdjD) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [La Partida](https://open.spotify.com/album/2o6LMhakBENYkTspLtQHnR) | 3:27 |
 
-Snapshot ID: `ZywDPAAAAABMto/fVQW3sJ8S7ZJskYsK`
+Snapshot ID: `ZywDPAAAAADxvPR1h99jKzfTHw1LeAdw`

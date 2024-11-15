@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Wende
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,216 likes - 70 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,235 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,18 +42,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 | 32 | [Eindstation](https://open.spotify.com/track/39WJTiCtjJDmKlOZZy4bYd) | [Esther de Jong](https://open.spotify.com/artist/3w50bIKKcdV5MfRf7LG0WV), [Kaspar](https://open.spotify.com/artist/0Fwk4xcdt4FqaYhJ7uwi5z) | [Eindstation](https://open.spotify.com/album/3KxFm1DB1FD8JRhpZia4E5) | 3:44 |
 | 33 | [Neem Me Mee](https://open.spotify.com/track/5lVqvFE37CbpD75XnAIhPn) | [André van Duin](https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF) | [Neem Me Mee](https://open.spotify.com/album/6YmoIcfsjJVggNYE7gzPwk) | 2:54 |
 | 34 | [De steen](https://open.spotify.com/track/0C6fXVxj0nPqjkp59RpDjm) | [Bram Vermeulen](https://open.spotify.com/artist/4ymKPNzHwzhCvJbOGWLviV) | [Voltooid Verleden Tijd](https://open.spotify.com/album/7qYL5WgJIzwEYCZszBG5vO) | 4:23 |
-| 35 | [Plastic Rozen](https://open.spotify.com/track/2Tr9FOnn1mqqewSynDt2eV) | [The Kik](https://open.spotify.com/artist/5vEW6oifezRitpxbykJSw8) | [Plastic Rozen](https://open.spotify.com/album/0R82ZImoVaZMUQCahYFlVy) | 3:16 |
-| 36 | [Heel misschien](https://open.spotify.com/track/4I3c9zXY66K19n4OyYNaUa) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Heel Misschien](https://open.spotify.com/album/08Bgpk12R7S2xMIV5Ez2Pw) | 2:16 |
-| 37 | [Jouw Angst](https://open.spotify.com/track/79HOUdP3zGZS3NXuMFjWei) | [FIERE](https://open.spotify.com/artist/27flAoHPs3qOBdlNsKM4Sr) | [Jouw Angst](https://open.spotify.com/album/6bni2Kl8d0mjmXxN5upriC) | 4:25 |
-| 38 | [Zomer](https://open.spotify.com/track/2vbFcIIVaftdr2ZgnVa3rQ) | [Toon Gezet](https://open.spotify.com/artist/2Cj6egfxg8THB8bLE4EPFf) | [Zomer](https://open.spotify.com/album/4i5MkLb9nrznaeg9QUtFk6) | 3:20 |
-| 39 | [Anne](https://open.spotify.com/track/33fJyGfQksR6hDzJCJUkrg) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 3:45 |
-| 40 | [Omarm](https://open.spotify.com/track/2hEqbMDgjr86WBWQi0pIIo) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Omarm](https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv) | 4:12 |
-| 41 | [Onderwater](https://open.spotify.com/track/208q1Mqq8Y9Sbn5o88qaBC) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Onderwater](https://open.spotify.com/album/5tTBQdqzBW0s3uA4pWzf55) | 3:01 |
-| 42 | [Oude Maasweg](https://open.spotify.com/track/0rY0wiJbmpy42X0EUtgkd6) | [The Amazing Stroopwafels](https://open.spotify.com/artist/4j32y3UVJaypInH9lOKcZ4) | [Badmuts Verplicht](https://open.spotify.com/album/3hiFSfbf6VOf0EfTEUvhem) | 3:25 |
-| 43 | [Mag Ik Alsjeblieft \(In Het Wiel II\)](https://open.spotify.com/track/7De0CL6kj5lJ2xFtwIBoin) | [Leo Alkemade](https://open.spotify.com/artist/0dhYbvBvHUyhMTeoqwvus1) | [Mag Ik Alsjeblieft \(In Het Wiel II\)](https://open.spotify.com/album/6I5Q1NF4WrhiQf9F2rFpiX) | 3:26 |
-| 44 | [Voor Haar](https://open.spotify.com/track/5qKdMteVok1Rog4vIKz75q) | [Frans Halsema](https://open.spotify.com/artist/6AppB7gke4WXNRhtlTdSJy) | [Frans Halsema 1939\-1984](https://open.spotify.com/album/0440RuDjeEIRAo5bwADBav) | 2:52 |
-| 45 | [Altijd iemand](https://open.spotify.com/track/3LsZn1eGywgz7llFGZId7h) | [Ricky Koole](https://open.spotify.com/artist/5fBVM70bd9z2d70XwIgKyS) | [Altijd Iemand](https://open.spotify.com/album/76ecoEvQrwYITnL3Vrq5Pk) | 5:50 |
-| 46 | [Het licht in je ogen \(feat\. Red Limo Quartet\)](https://open.spotify.com/track/54Ktari4z02c9eMdCVoUxF) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV), [Red Limo Quartet](https://open.spotify.com/artist/2rdJcBg2tEvmo0lVpYDizQ) | [Het licht in je ogen \(feat\. Red Limo Quartet\)](https://open.spotify.com/album/5UFfNN07X4BAsvwsieCixE) | 3:30 |
+| 35 | [Traag Naar De Hemel](https://open.spotify.com/track/2M1OBzpqNliMeYOI47LOWK) | [May Evans](https://open.spotify.com/artist/5k9sSEBSrvpLVxBJqCgs6f) | [\(On\)eindig Leven](https://open.spotify.com/album/7905rdTj8KpgPywpclbmtR) | 2:57 |
+| 36 | [Anne](https://open.spotify.com/track/33fJyGfQksR6hDzJCJUkrg) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 3:45 |
+| 37 | [Plastic Rozen](https://open.spotify.com/track/2Tr9FOnn1mqqewSynDt2eV) | [The Kik](https://open.spotify.com/artist/5vEW6oifezRitpxbykJSw8) | [Plastic Rozen](https://open.spotify.com/album/0R82ZImoVaZMUQCahYFlVy) | 3:16 |
+| 38 | [Omarm](https://open.spotify.com/track/2hEqbMDgjr86WBWQi0pIIo) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Omarm](https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv) | 4:12 |
+| 39 | [Heel misschien](https://open.spotify.com/track/4I3c9zXY66K19n4OyYNaUa) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Heel Misschien](https://open.spotify.com/album/08Bgpk12R7S2xMIV5Ez2Pw) | 2:16 |
+| 40 | [Jouw Angst](https://open.spotify.com/track/79HOUdP3zGZS3NXuMFjWei) | [FIERE](https://open.spotify.com/artist/27flAoHPs3qOBdlNsKM4Sr) | [Jouw Angst](https://open.spotify.com/album/6bni2Kl8d0mjmXxN5upriC) | 4:25 |
+| 41 | [Zomer](https://open.spotify.com/track/2vbFcIIVaftdr2ZgnVa3rQ) | [Toon Gezet](https://open.spotify.com/artist/2Cj6egfxg8THB8bLE4EPFf) | [Zomer](https://open.spotify.com/album/4i5MkLb9nrznaeg9QUtFk6) | 3:20 |
+| 42 | [Onderwater](https://open.spotify.com/track/208q1Mqq8Y9Sbn5o88qaBC) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Onderwater](https://open.spotify.com/album/5tTBQdqzBW0s3uA4pWzf55) | 3:01 |
+| 43 | [Oude Maasweg](https://open.spotify.com/track/0rY0wiJbmpy42X0EUtgkd6) | [The Amazing Stroopwafels](https://open.spotify.com/artist/4j32y3UVJaypInH9lOKcZ4) | [Badmuts Verplicht](https://open.spotify.com/album/3hiFSfbf6VOf0EfTEUvhem) | 3:25 |
+| 44 | [Mag Ik Alsjeblieft \(In Het Wiel II\)](https://open.spotify.com/track/7De0CL6kj5lJ2xFtwIBoin) | [Leo Alkemade](https://open.spotify.com/artist/0dhYbvBvHUyhMTeoqwvus1) | [Mag Ik Alsjeblieft \(In Het Wiel II\)](https://open.spotify.com/album/6I5Q1NF4WrhiQf9F2rFpiX) | 3:26 |
+| 45 | [Voor Haar](https://open.spotify.com/track/5qKdMteVok1Rog4vIKz75q) | [Frans Halsema](https://open.spotify.com/artist/6AppB7gke4WXNRhtlTdSJy) | [Frans Halsema 1939\-1984](https://open.spotify.com/album/0440RuDjeEIRAo5bwADBav) | 2:52 |
+| 46 | [Altijd iemand](https://open.spotify.com/track/3LsZn1eGywgz7llFGZId7h) | [Ricky Koole](https://open.spotify.com/artist/5fBVM70bd9z2d70XwIgKyS) | [Altijd Iemand](https://open.spotify.com/album/76ecoEvQrwYITnL3Vrq5Pk) | 5:50 |
 | 47 | [Laat Me](https://open.spotify.com/track/6XzBlaRUFcps7zkKgZWh7E) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Dag En Nacht](https://open.spotify.com/album/7Mjuv0IphBgLcHXhUyzCJe) | 5:05 |
 | 48 | [Jouw Ogen](https://open.spotify.com/track/54MtBoHYiT2c3NyJswx2xw) | [Sjors Van Der Panne](https://open.spotify.com/artist/73VtXHJjAxyr9p5NsHxTLO) | [Jouw Ogen](https://open.spotify.com/album/4dkc4FlkKVgUHtnPEc8RMe) | 3:30 |
 | 49 | [Barst](https://open.spotify.com/track/0Jk7KsjS1bmE72SKAs3lPA) | [Sophie](https://open.spotify.com/artist/4s5ENnBFGHPG0N6W6QKwGV) | [Barst](https://open.spotify.com/album/3C3DN6AvjB685STfdKJGNT) | 4:11 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 | 69 | [Geen Kind Meer](https://open.spotify.com/track/4ZMBna8ky5JR1gocyYCiML) | [Karin Bloemen](https://open.spotify.com/artist/7CKdAdmSeZxUgSZqugSkKx) | [Kameleon](https://open.spotify.com/album/7bEv36tsd3IBSvP4TJRDpA) | 4:23 |
 | 70 | [Kronenburg Park](https://open.spotify.com/track/5l0mUA4hwewx7cj8KzBGGE) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Foto Van Een Mooie Dag](https://open.spotify.com/album/69JWMizDVll3nRlU7YIEEF) | 4:03 |
 
-Snapshot ID: `ZzMWuwAAAABWv0hooj3t+CPvvDYZ5NQk`
+Snapshot ID: `ZzaA8AAAAAAiIWxARhuLlilU9S9rUYUh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q3zClOVaZA.md) - [plain]
 
 > \(\-\) "Connection, Discovery, & Growth"
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,497 likes - 98 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,735 likes - 98 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q3zClOVaZA.md) - [plain]
 | 97 | [Flicker](https://open.spotify.com/track/3TgPwLFXV6GEIsDZANHktY) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 2:24 |
 | 98 | [Outro : Cross the Line](https://open.spotify.com/track/3jkDtDzZKCmWtDccH7UUsq) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 1:55 |
 
-Snapshot ID: `ZxtDxgAAAADt6efYPV0/gdjztsZCB4Kt`
+Snapshot ID: `ZxtDxgAAAACuppqnesa0JbbIZdHvWp5f`

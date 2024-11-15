@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdU6D36RN4M1.md) - [plain]
 
 > y no llore, nomás acuérdese 🍺✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,425 likes - 84 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,762 likes - 84 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdU6D36RN4M1.md) - [plain]
 | 83 | [Como Perro Con Rabia](https://open.spotify.com/track/16BvcgxOhZDnHIXl5r8Ihd) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Rey Del Jaripeo](https://open.spotify.com/album/0YMffBHath50IgFqdb36LB) | 3:14 |
 | 84 | [Me Pones A Temblar](https://open.spotify.com/track/5lOEI6CBTnLQrVVoIswN8Q) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Mundo Diferente](https://open.spotify.com/album/1Dxy2q1OCv3zUr1hO2HM0J) | 3:10 |
 
-Snapshot ID: `ZzJUhQAAAACleyRoGuNBZ20ot4WXWYOB`
+Snapshot ID: `ZzJUhQAAAABmIQPUJBtY9o/M1bGZ/BXs`

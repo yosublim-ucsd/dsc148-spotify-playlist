@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: <spotify:artist:0qZ8aSF0iMCQI99AAXikF8">ELEVATION RHYTHM</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,640 likes - 90 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,674 likes - 90 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 48 | [Keep In Step \- Live](https://open.spotify.com/track/1sGVoxezS8GxpH3caseKg2) | [Dreamers](https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51) | [Keep In Step \(Live\)](https://open.spotify.com/album/3Nr38C2V90IH9kUG9ieK24) | 4:03 |
 | 49 | [Till the Earth](https://open.spotify.com/track/4w3FvBgO5lso4A7AcG8VKM) | [Southview Worship](https://open.spotify.com/artist/2tvS8eHZou9wcXN2ZdE4SK), [B\. Cooper](https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq) | [Till the Earth](https://open.spotify.com/album/0Ik1QIF3jLAW2s8ibXgU9Q) | 3:28 |
 | 50 | [King of My Heart](https://open.spotify.com/track/221wISKB6AmZqZjrhrIrTv) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [King of My Heart](https://open.spotify.com/album/3LCnkn9T7aaHT3PLMrQWtb) | 4:03 |
-| 51 | [Found in You](https://open.spotify.com/track/1lMoKrAaLYNqkk2pyrqj0K) | [Royal Company](https://open.spotify.com/artist/1mXlcFsIJEMuF5GGXZcQ8t) | [Found in You](https://open.spotify.com/album/3btcSIZAuSE60EVKR9nA0S) | 3:14 |
-| 52 | [Father, Son and Holy Ghost](https://open.spotify.com/track/2AMk9AgjMvsIKbTvsT2bSE) | [Ocean & The Ghost](https://open.spotify.com/artist/3ytwqUISAunRjhTvQwNTQg), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Father, Son and Holy Ghost](https://open.spotify.com/album/7gXMkLx45jfDEZuw8zwJQk) | 4:05 |
+| 51 | [Father, Son and Holy Ghost](https://open.spotify.com/track/2AMk9AgjMvsIKbTvsT2bSE) | [Ocean & The Ghost](https://open.spotify.com/artist/3ytwqUISAunRjhTvQwNTQg), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Father, Son and Holy Ghost](https://open.spotify.com/album/7gXMkLx45jfDEZuw8zwJQk) | 4:05 |
+| 52 | [Found in You](https://open.spotify.com/track/1lMoKrAaLYNqkk2pyrqj0K) | [Royal Company](https://open.spotify.com/artist/1mXlcFsIJEMuF5GGXZcQ8t) | [Found in You](https://open.spotify.com/album/3btcSIZAuSE60EVKR9nA0S) | 3:14 |
 | 53 | [Lay My Life Down](https://open.spotify.com/track/0TiZq0k9qa5ert1tToofZX) | [LUMINS](https://open.spotify.com/artist/0vl0q3Jy5VN0GXyNWdnOyC), [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [Vol 1](https://open.spotify.com/album/0Dgm0ZiKnnlLTcaKOi3WBI) | 4:10 |
 | 54 | [Introspection](https://open.spotify.com/track/4bWIOGHOtUP2RGFulZLFCo) | [Equanimous](https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn), [John Pattern](https://open.spotify.com/artist/7jpG13xu7wCcAixo3DuOvD), [Ruby Chase](https://open.spotify.com/artist/7z3jWevFVKWVvlSbPVpjeq) | [Introspection](https://open.spotify.com/album/04kCPiYgaj7QN3wdaZbXMV) | 3:31 |
 | 55 | [Surrounded \(Fight My Battles\)](https://open.spotify.com/track/6V6gP9CIMr1GmyzhvzknOv) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [NEON Worship](https://open.spotify.com/artist/2j8LVMBgv0dkPvGrkh2k7z), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [Surrounded \(Fight My Battles\)](https://open.spotify.com/album/34Wo5KdLAnaF6LxMFQGOz0) | 3:00 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 89 | [Falling Up](https://open.spotify.com/track/4LJCaeXCP3cAkVpdMBA3wM) | [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [LET YOURSELF BE LOVED](https://open.spotify.com/album/0zDzV5qt4vpwVkv7xmliUe) | 3:19 |
 | 90 | [Tightrope](https://open.spotify.com/track/4OFgV7VLucicq9q6Fii4Wy) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Tightrope](https://open.spotify.com/album/4Ux6A6SaLPueWDwfEemqwh) | 3:43 |
 
-Snapshot ID: `Zno5BwAAAAA3XuLBMl6BtqengKdhE3aG`
+Snapshot ID: `Zno5BwAAAAAegWBF5iRe/x8NvfpV9dkb`

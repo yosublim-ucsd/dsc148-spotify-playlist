@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyczwg2TmSH.md) - [plain]
 
 > Music from and inspired by Thelma the Unicorn, now streaming on Netflix\.  Cover and curated by: Brittany Howard
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,610 likes - 21 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,631 likes - 21 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyczwg2TmSH.md) - [plain]
 | 20 | [Sticky](https://open.spotify.com/track/1rfGO3N4DPGodJLSSY9Re5) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Sticky](https://open.spotify.com/album/3bbWimQMs8QB4634y9BRDd) | 3:16 |
 | 21 | [Once in a Lifetime](https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 5:48 |
 
-Snapshot ID: `ZkKRLwAAAABLMK1AX14VvCCv/zRp59si`
+Snapshot ID: `ZkKRLwAAAABezSJLoYABB0vvR0bPXAI9`

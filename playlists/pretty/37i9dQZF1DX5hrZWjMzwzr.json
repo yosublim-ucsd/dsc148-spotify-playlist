@@ -1,12 +1,12 @@
 {
   "description": "Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'. Pos\u0142uchaj zwyci\u0119zc\u00f3w oraz wszystkich nominowanych na jednej playli\u015bcie. ",
-  "num_followers": 10132,
+  "num_followers": 10131,
   "original_name": "Popkillery 2024: Singiel Roku",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zg8sWwAAAADHSckUfB6xZsndwP06ghDl",
+  "snapshot_id": "Zg8sWwAAAADE3NKkE188LOkTu/3ZD2Yu",
   "tracks": [
     {
       "added_at": "2024-02-27 08:21:33",
@@ -707,6 +707,26 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "Czarne czy Czerwone",
+        "url": "https://open.spotify.com/album/0FKv1ADVk4Ny68dnk8CweL"
+      },
+      "artists": [
+        {
+          "name": "VHS",
+          "url": "https://open.spotify.com/artist/7ho5bL4sZl37F4xc9lr36q"
+        },
+        {
+          "name": "E V",
+          "url": "https://open.spotify.com/artist/5siFxISlT9JdSaadvmFoBX"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Czarne czy Czerwone",
+      "url": "https://open.spotify.com/track/7x5xSPtTM2bbbdL6OFfDoU"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "Stary Pezet (klasyczny)",
         "url": "https://open.spotify.com/album/6RUYNWJ7uAsDKHO6ahhfOO"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 207032,
       "name": "Stary Pezet (klasyczny)",
       "url": "https://open.spotify.com/track/0o7zgQODoJbMsaYMvCFviQ"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "Czarne czy Czerwone",
-        "url": "https://open.spotify.com/album/0FKv1ADVk4Ny68dnk8CweL"
-      },
-      "artists": [
-        {
-          "name": "VHS",
-          "url": "https://open.spotify.com/artist/7ho5bL4sZl37F4xc9lr36q"
-        },
-        {
-          "name": "E V",
-          "url": "https://open.spotify.com/artist/5siFxISlT9JdSaadvmFoBX"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Czarne czy Czerwone",
-      "url": "https://open.spotify.com/track/7x5xSPtTM2bbbdL6OFfDoU"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -795,30 +795,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Kr\u00f3l jest nagi",
-        "url": "https://open.spotify.com/album/6b9NF0T18WzviHeExbcGeT"
-      },
-      "artists": [
-        {
-          "name": "ReTo",
-          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
-        },
-        {
-          "name": "S\u0142o\u0144",
-          "url": "https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV"
-        },
-        {
-          "name": "Wroobel",
-          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Kr\u00f3l jest nagi",
-      "url": "https://open.spotify.com/track/0G7iH8Fs6PHELkLK0lQUlp"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Inny \u015awiat",
         "url": "https://open.spotify.com/album/3NAOi7pSOXdX6mGS0GptTt"
       },
@@ -839,6 +815,30 @@
       "duration_ms": 145401,
       "name": "Inny \u015awiat",
       "url": "https://open.spotify.com/track/3f0nuItdnejs29CxqAABFG"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Kr\u00f3l jest nagi",
+        "url": "https://open.spotify.com/album/6b9NF0T18WzviHeExbcGeT"
+      },
+      "artists": [
+        {
+          "name": "ReTo",
+          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
+        },
+        {
+          "name": "S\u0142o\u0144",
+          "url": "https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV"
+        },
+        {
+          "name": "Wroobel",
+          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Kr\u00f3l jest nagi",
+      "url": "https://open.spotify.com/track/0G7iH8Fs6PHELkLK0lQUlp"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "Mi\u0142o\u015b\u0107 zawsze jest",
+        "url": "https://open.spotify.com/album/2KzELKFk8kCzBu8aP10iNi"
+      },
+      "artists": [
+        {
+          "name": "Sok\u00f3\u0142",
+          "url": "https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "duration_ms": 184260,
+      "name": "Mi\u0142o\u015b\u0107 zawsze jest",
+      "url": "https://open.spotify.com/track/1xDgtJWs37XRF2PWFBcCz0"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "NIE MA CI\u0118",
         "url": "https://open.spotify.com/album/5YgEYtpToICxfF8duu9b00"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 171932,
       "name": "NIE MA CI\u0118",
       "url": "https://open.spotify.com/track/5AzCwwnB7XHoZZIusuHeXJ"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "Mi\u0142o\u015b\u0107 zawsze jest",
-        "url": "https://open.spotify.com/album/2KzELKFk8kCzBu8aP10iNi"
-      },
-      "artists": [
-        {
-          "name": "Sok\u00f3\u0142",
-          "url": "https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot"
-        },
-        {
-          "name": "@atutowy",
-          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
-        }
-      ],
-      "duration_ms": 184260,
-      "name": "Mi\u0142o\u015b\u0107 zawsze jest",
-      "url": "https://open.spotify.com/track/1xDgtJWs37XRF2PWFBcCz0"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1327,6 +1327,30 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "North Face",
+        "url": "https://open.spotify.com/album/4CEROKZeYrxychEgxqhcYH"
+      },
+      "artists": [
+        {
+          "name": "Filipek",
+          "url": "https://open.spotify.com/artist/5hqRsNHDZH1jHzI9LgxFRZ"
+        },
+        {
+          "name": "Inee",
+          "url": "https://open.spotify.com/artist/30UBxEPvKc0CPtKeRfp6Ih"
+        },
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        }
+      ],
+      "duration_ms": 238723,
+      "name": "North Face",
+      "url": "https://open.spotify.com/track/0UanLlnE4Vzp42RoHVjrOP"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "SQNHEAD",
         "url": "https://open.spotify.com/album/4zWkYzMYNwvCwFAVloExPA"
       },
@@ -1367,30 +1391,6 @@
       "duration_ms": 153746,
       "name": "SQNHEAD",
       "url": "https://open.spotify.com/track/6kdAn7zMHOp57RlOgDel4j"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "North Face",
-        "url": "https://open.spotify.com/album/4CEROKZeYrxychEgxqhcYH"
-      },
-      "artists": [
-        {
-          "name": "Filipek",
-          "url": "https://open.spotify.com/artist/5hqRsNHDZH1jHzI9LgxFRZ"
-        },
-        {
-          "name": "Inee",
-          "url": "https://open.spotify.com/artist/30UBxEPvKc0CPtKeRfp6Ih"
-        },
-        {
-          "name": "Gibbs",
-          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
-        }
-      ],
-      "duration_ms": 238723,
-      "name": "North Face",
-      "url": "https://open.spotify.com/track/0UanLlnE4Vzp42RoHVjrOP"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1547,30 +1547,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "nigdy wi\u0119cej 2022",
-        "url": "https://open.spotify.com/album/4Zh0KGSolRFUL55kEnsNJ5"
-      },
-      "artists": [
-        {
-          "name": "Solar",
-          "url": "https://open.spotify.com/artist/1KJvuZHmkpnrjIyTLhhwpb"
-        },
-        {
-          "name": "Bia\u0142as",
-          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
-        },
-        {
-          "name": "SB Maffija",
-          "url": "https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "nigdy wi\u0119cej 2022",
-      "url": "https://open.spotify.com/track/6BCqzFZ2is57XTs2kSMVWq"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "KOCYK",
         "url": "https://open.spotify.com/album/6otKunCaKoVcwp8kwzQD0t"
       },
@@ -1591,6 +1567,30 @@
       "duration_ms": 261293,
       "name": "KOCYK",
       "url": "https://open.spotify.com/track/14F0eGV9bXZYwSPuyKTTlP"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "nigdy wi\u0119cej 2022",
+        "url": "https://open.spotify.com/album/4Zh0KGSolRFUL55kEnsNJ5"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/1KJvuZHmkpnrjIyTLhhwpb"
+        },
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        },
+        {
+          "name": "SB Maffija",
+          "url": "https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "nigdy wi\u0119cej 2022",
+      "url": "https://open.spotify.com/track/6BCqzFZ2is57XTs2kSMVWq"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1635,30 +1635,6 @@
       "duration_ms": 215160,
       "name": "Hemp Groove",
       "url": "https://open.spotify.com/track/0Jno2E4TZcRibcAbansDGJ"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "Mam Ci\u0119",
-        "url": "https://open.spotify.com/album/0wMWyIDW56FjxvAmFrBI0V"
-      },
-      "artists": [
-        {
-          "name": "Paluch",
-          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
-        },
-        {
-          "name": "Miroff",
-          "url": "https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD"
-        },
-        {
-          "name": "Poly",
-          "url": "https://open.spotify.com/artist/1MnE9cGhEaRAX9EzLtU9PS"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "Mam Ci\u0119",
-      "url": "https://open.spotify.com/track/3moDqdYK90QDw3Lk9q5yDE"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1723,6 +1699,30 @@
       "duration_ms": 203996,
       "name": "Skills (IDA 2023 Promo)",
       "url": "https://open.spotify.com/track/0RNb80kBSHMR8EE9srMLsi"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Mam Ci\u0119",
+        "url": "https://open.spotify.com/album/0wMWyIDW56FjxvAmFrBI0V"
+      },
+      "artists": [
+        {
+          "name": "Paluch",
+          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
+        },
+        {
+          "name": "Miroff",
+          "url": "https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD"
+        },
+        {
+          "name": "Poly",
+          "url": "https://open.spotify.com/artist/1MnE9cGhEaRAX9EzLtU9PS"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "Mam Ci\u0119",
+      "url": "https://open.spotify.com/track/3moDqdYK90QDw3Lk9q5yDE"
     },
     {
       "added_at": "2024-02-27 08:21:33",

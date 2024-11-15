@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 122263,
       "name": "All I Wish for Christmas",
       "url": "https://open.spotify.com/track/3TmxaVbyvTP8EOq8mQGp2H"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 167926,
       "name": "Frosty the Snowman",
       "url": "https://open.spotify.com/track/1X9UR1fhvcAFDIpZPlJqxH"
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 129642,
       "name": "Have A Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/5R4WCVOXkIhzD4BR3wtOOb"
@@ -2097,6 +2097,24 @@
     },
     {
       "album": {
+        "name": "Santa's Delight",
+        "url": "https://open.spotify.com/album/6P8hC3DkP5TDiCM6mq6E3Z"
+      },
+      "artists": [
+        {
+          "name": "Zap Strap",
+          "url": "https://open.spotify.com/artist/26um9QT84sVd1uLgI3K6lN"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Santa's Delight",
+      "url": "https://open.spotify.com/track/2CISlQAxMNLeEvOQqxYUzC"
+    },
+    {
+      "album": {
         "name": "Santa's jam",
         "url": "https://open.spotify.com/album/3aeJZMAh18XVC75Gtx3hcE"
       },
@@ -2148,6 +2166,24 @@
       "duration_ms": 132154,
       "name": "Santas Coming",
       "url": "https://open.spotify.com/track/0CtSFxqyI6JtPhKJxgAUSp"
+    },
+    {
+      "album": {
+        "name": "Winter - EP",
+        "url": "https://open.spotify.com/album/3cZL9q3RB7wpIXwes9a9FL"
+      },
+      "artists": [
+        {
+          "name": "Bassti",
+          "url": "https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90908,
+      "name": "should go christmas shopping",
+      "url": "https://open.spotify.com/track/5Nk2T3FhYxcRLPzJoKKVzj"
     },
     {
       "album": {
@@ -2544,7 +2580,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 198741,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/78lSbopkbWY2IeZzCcwpzT"
@@ -2652,7 +2688,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 196896,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/20C3pgZ4KN8gtsgthPaOtc"
@@ -2796,7 +2832,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 126346,
       "name": "xmas day",
       "url": "https://open.spotify.com/track/4vYDFykBZbyG2oxYDkFeXn"

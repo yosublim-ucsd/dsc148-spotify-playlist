@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PTGGjeMigF.md) - [plain]
 
 > Relive the excitement of that day by listening to the setlist of SEVENTEEN's world tour <RIGHT HERE> Seoul concert! \(세븐틴의 월드투어 <RIGHT HERE> 서울 콘서트의 셋리스트를 감상하며 그 날의 감동을 다시 느껴보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,910 likes - 26 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,212 likes - 26 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PTGGjeMigF.md) - [plain]
 | 25 | [IF you leave me](https://open.spotify.com/track/0ilwFWjTwXszzwaG3XlNWj) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:32 |
 | 26 | [VERY NICE](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter repackage album](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:12 |
 
-Snapshot ID: `ZyR/NwAAAAAo1hTAbSsVnxiCVVzaavqS`
+Snapshot ID: `ZyR/NwAAAACvqeAgwV69G+CucWpsBpk6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Unlock the Beats of ADE 2024! Prepare for an unforgettable experience as we spotlight the electrifying tracks from 2,500+ artists who will define this year's 1,000+ ADE events\. This is your exclusive sneak peek into this years’ line\-up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,135 likes - 45 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,097 likes - 45 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 44 | [Spooky Dub](https://open.spotify.com/track/7AF5LKQ0hheJryaXR0kyV1) | [Amaliah](https://open.spotify.com/artist/5AAsEhGqZPvRhe423mdfN9) | [Manifold EP](https://open.spotify.com/album/1V3w9WIVMqJGbtZ7TxlxZh) | 5:48 |
 | 45 | [Vampire Workout](https://open.spotify.com/track/2ECpeOf9qEUivoQhAFTI48) | [Cera Khin](https://open.spotify.com/artist/49QMv0RvuxcUG8Xk6YweEz) | [Vampire Workout](https://open.spotify.com/album/5n2T2UG4dN1rAxlhfQpwS8) | 4:54 |
 
-Snapshot ID: `Zv9oQAAAAAA0HKUbEpLlHUU3uEIKbhic`
+Snapshot ID: `Zv9oQAAAAADgr7jylSCypS8FUVqFr+dv`

@@ -59,6 +59,36 @@
     },
     {
       "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/7wXbWbTfGux6rSDODkAJNe"
+      },
+      "artists": [
+        {
+          "name": "CTT Beats",
+          "url": "https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt"
+        },
+        {
+          "name": "21 Promo & Pengii",
+          "url": "https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0"
+        },
+        {
+          "name": "Hannah V",
+          "url": "https://open.spotify.com/artist/0zKzgw5rfDZ2PdgOZo8G8f"
+        },
+        {
+          "name": "TDV Ricky Vani Frontline",
+          "url": "https://open.spotify.com/artist/6CoWyB0XfRRCMB9iFuGzyL"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198260,
+      "name": "911 - TDV Ricky Vani Frontline Version",
+      "url": "https://open.spotify.com/track/3fT4u2fljv6SFHFijwbYbP"
+    },
+    {
+      "album": {
         "name": "Asemrowers",
         "url": "https://open.spotify.com/album/1qkUI57JztayVSb6ReQkTv"
       },
@@ -528,7 +558,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 128026,
       "name": "Consistent",
       "url": "https://open.spotify.com/track/0GxNPXSZMmJ6bUm1Xkv0Yo"
@@ -2226,7 +2256,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 196595,
       "name": "OGlizzy",
       "url": "https://open.spotify.com/track/1NlWi9AEB4vB9z7MxoalXS"
@@ -2798,6 +2828,28 @@
       "duration_ms": 147428,
       "name": "Staan Uit",
       "url": "https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47"
+    },
+    {
+      "album": {
+        "name": "Stalaza Gedrik",
+        "url": "https://open.spotify.com/album/5i4wNu9pjANht2ln7xBkh7"
+      },
+      "artists": [
+        {
+          "name": "KYLEO FROM THE WEST",
+          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+        },
+        {
+          "name": "ceiling on tha deck",
+          "url": "https://open.spotify.com/artist/6KNNk3hqbEktQfIRBGHpbC"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149942,
+      "name": "Stalaza Gedrik",
+      "url": "https://open.spotify.com/track/6TnLVVsoFFcN1lPYbLAp9s"
     },
     {
       "album": {

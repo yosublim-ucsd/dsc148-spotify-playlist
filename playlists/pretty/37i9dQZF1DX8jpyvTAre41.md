@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: EKKSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,298 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,287 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [Deep Cut](https://open.spotify.com/track/1Pi8ozHOCHuH5j561Df2XI) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [American Hero](https://open.spotify.com/album/21HMENCxfw31djGv60lk88) | 3:14 |
 | 100 | [Cold Caller](https://open.spotify.com/track/5QKbilwxACHAIJMNGjt6rX) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Cold Caller](https://open.spotify.com/album/6cu9qXzpFVNGU8ARlfqvH2) | 3:05 |
 
-Snapshot ID: `Zy2a0AAAAAABWYqMqioXnIXe2RECYuum`
+Snapshot ID: `Zy2a0AAAAAAUCUeq061KSMvh51OOu2Ey`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 
 > Music & Episodes of “Sword Art Online” series! 「ソードアート・オンライン オルタナティブ ガンゲイル オンラインⅡ」の放送を記念し、2期放送期間中SAOプレイリストをGGOがジャック！©2023 時雨沢恵一/KADOKAWA/GGO2 Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,506 likes - 89 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,525 likes - 89 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 | 88 | [Disorder](https://open.spotify.com/track/1wlo67jw5f53oT6DMR25t8) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/7lxa43tv2RRDbU5cLTQGIz) | 4:04 |
 | 89 | [レプリカ](https://open.spotify.com/track/3UriDyfO1fiP0DJjJjLzXc) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR) | [ELZA](https://open.spotify.com/album/7lxa43tv2RRDbU5cLTQGIz) | 3:29 |
 
-Snapshot ID: `ZwAC8AAAAADfD2OU2oCueOYb5GTg7QrY`
+Snapshot ID: `ZwAC8AAAAACcLO3BhM1Hl1coX+Av/D8E`

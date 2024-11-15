@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauMQRH2JBCJ.md) - [plain]
 
 > All your favorite Disney songs wrapped up with love!
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,449 likes - 84 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,612 likes - 84 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauMQRH2JBCJ.md) - [plain]
 | 83 | [In a Heartbeat](https://open.spotify.com/track/50aQzxo1D1emR771D3qxgc) | [Frankie Rodriguez](https://open.spotify.com/artist/4c1j4vQueDvjOFPNr2aJ2e), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [High School Musical: The Musical: The Series \(Original Soundtrack/Season 2\)](https://open.spotify.com/album/5j8ccf2ePPuzngz8j1xcVM) | 3:01 |
 | 84 | [Reception At The Palace / So This Is Love](https://open.spotify.com/track/5R0oa0GOwH8pjWMYyDxQ9M) | [Ilene Woods](https://open.spotify.com/artist/4DovRSplr3yJIeE3r0RtHj), [Mike Douglas](https://open.spotify.com/artist/4lwnV2S8BCbclu9nqBPGvI) | [Cinderella Special Edition \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/3QAxBLpXRLVMh1dRtuQa0q) | 5:44 |
 
-Snapshot ID: `ZylUVgAAAABM8pt8v61Rn0aQjFY30NwJ`
+Snapshot ID: `ZylUVgAAAAB9KN2qcYwNUDSHgD+gNiYg`

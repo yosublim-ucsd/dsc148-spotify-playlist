@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Mediapunta.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Carolina Durante.",
   "name": "Rock 2024",
   "tracks": [
     {
@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Amor de oficina",
+        "url": "https://open.spotify.com/album/5F7MI0eNGyLFRROq3fsuQd"
+      },
+      "artists": [
+        {
+          "name": "piti y me voy",
+          "url": "https://open.spotify.com/artist/334ZIJVugvR3DZxCXNnusx"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210117,
+      "name": "Amor de oficina",
+      "url": "https://open.spotify.com/track/3TspMHDZMLMuzUSolTzX15"
+    },
+    {
+      "album": {
         "name": "Entre Amores y Errores",
         "url": "https://open.spotify.com/album/071E2UPxi3oZfLm9vHTxpc"
       },
@@ -406,10 +424,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 160301,
       "name": "Azul Oscuro Casi Negro",
       "url": "https://open.spotify.com/track/5WkLIlcbax45uOOoNqFacQ"
+    },
+    {
+      "album": {
+        "name": "Dos De Cal",
+        "url": "https://open.spotify.com/album/62b3eeUu0eK48yBVfFMHlQ"
+      },
+      "artists": [
+        {
+          "name": "LOS VALIENTES",
+          "url": "https://open.spotify.com/artist/2VAo8b6uvd5MlmpiqgqIFN"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181558,
+      "name": "A\u00fan Quedan Sensaciones",
+      "url": "https://open.spotify.com/track/3MbNt4JrYB1rHYk5ZfgrVu"
     },
     {
       "album": {
@@ -442,7 +478,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 185174,
       "name": "Barrio",
       "url": "https://open.spotify.com/track/3vfxWUBtICQbiSlemtDSmL"
@@ -1077,6 +1113,24 @@
     },
     {
       "album": {
+        "name": "Ni un paso atr\u00e1s",
+        "url": "https://open.spotify.com/album/1RtxhZyJWsjTh7e4GqXiPv"
+      },
+      "artists": [
+        {
+          "name": "Pinpilinpussies",
+          "url": "https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163405,
+      "name": "En tu portal",
+      "url": "https://open.spotify.com/track/4zx728yaOZ4zIy6VsXAEkg"
+    },
+    {
+      "album": {
         "name": "Entre las nubes",
         "url": "https://open.spotify.com/album/2gNrMDx4aVs2XNolOvcRJJ"
       },
@@ -1686,7 +1740,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 211882,
       "name": "La Novedad",
       "url": "https://open.spotify.com/track/2upHYVNdcEuk7pnTPsPfDN"
@@ -1942,7 +1996,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 190183,
       "name": "Mandarinas",
       "url": "https://open.spotify.com/track/2lLnBNnbxcJCZ6oUxsKSIs"
@@ -2719,6 +2773,28 @@
     },
     {
       "album": {
+        "name": "Piropos",
+        "url": "https://open.spotify.com/album/1bktsgFPfHw9XRiVaGsWoE"
+      },
+      "artists": [
+        {
+          "name": "Naitinain",
+          "url": "https://open.spotify.com/artist/75k1x4oYTR0db8FBm9VbCy"
+        },
+        {
+          "name": "Joder Juan",
+          "url": "https://open.spotify.com/artist/6aBkrLdqbTaGgefSznMub9"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Piropos",
+      "url": "https://open.spotify.com/track/3gIH0fYBDdpsINlYv1feqs"
+    },
+    {
+      "album": {
         "name": "Pitbull",
         "url": "https://open.spotify.com/album/5zYMSBCpGIxNYNNHij1YPw"
       },
@@ -3148,10 +3224,28 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 244146,
       "name": "Si Piensas en M\u00ed",
       "url": "https://open.spotify.com/track/1LGZYAqFUZli9lE8ZkAGvp"
+    },
+    {
+      "album": {
+        "name": "Si se muere tu perro",
+        "url": "https://open.spotify.com/album/7DVoODiQPhkWYpcNhA9M37"
+      },
+      "artists": [
+        {
+          "name": "Las Petunias",
+          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234819,
+      "name": "Si se muere tu perro",
+      "url": "https://open.spotify.com/track/2oFveyq4ZI1qyG69qqOsVk"
     },
     {
       "album": {

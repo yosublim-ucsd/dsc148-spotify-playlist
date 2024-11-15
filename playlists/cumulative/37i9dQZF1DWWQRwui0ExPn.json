@@ -19446,7 +19446,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-21",
+      "date_removed": null,
       "duration_ms": 146129,
       "name": "carpool lane",
       "url": "https://open.spotify.com/track/4Yr6oYb6llf2yvjJXiDgdb"
@@ -23220,6 +23220,28 @@
       "duration_ms": 137831,
       "name": "Co0kies",
       "url": "https://open.spotify.com/track/3TGtkSzbcxmGSCr6FwnTVA"
+    },
+    {
+      "album": {
+        "name": "Coastal",
+        "url": "https://open.spotify.com/album/61GmtflvX6lhJRf5fARkZ6"
+      },
+      "artists": [
+        {
+          "name": "Leavv",
+          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
+        },
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107408,
+      "name": "Coastal",
+      "url": "https://open.spotify.com/track/2zI8kItxIqtyFYfFsy3ngx"
     },
     {
       "album": {
@@ -44799,6 +44821,24 @@
     },
     {
       "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/45uUHHvqSBVq5cl3ufJ9id"
+      },
+      "artists": [
+        {
+          "name": "Two Scents",
+          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110833,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/7GmAZTd0h6PCzVXfGKa9co"
+    },
+    {
+      "album": {
         "name": "full moon",
         "url": "https://open.spotify.com/album/38tbxqyu74TSgh485VOT5V"
       },
@@ -52874,7 +52914,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 174000,
       "name": "Homealone",
       "url": "https://open.spotify.com/track/2fOsQYqYQ2FUFx6mZgvBtU"
@@ -81480,7 +81520,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 144000,
       "name": "Never Going Back",
       "url": "https://open.spotify.com/track/1EPgfVfxPaaispfsgXBXcs"
@@ -134504,7 +134544,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 101661,
       "name": "Winter Stories",
       "url": "https://open.spotify.com/track/6jwzGn9qLJn8dPkat001na"

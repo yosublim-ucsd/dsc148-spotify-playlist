@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Karol G, Zach Bryan, Lil Uzi Vert, Myles Smith, Ella Mai, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,234,573 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,234,742 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Turkey Leg](https://open.spotify.com/track/4iX8WFt1kAKkMOLpr8PVm6) | [Certainly So](https://open.spotify.com/artist/0VmYiMeoVRP5bSkfBs0PSR) | [Probably Not](https://open.spotify.com/album/0obB40xCXKfuJW2c7YHJoo) | 5:11 |
 | 100 | [No Soy El Mismo](https://open.spotify.com/track/43Cn4CVlpTBOseALvTsjUY) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [No Soy El Mismo \(Lado C\)](https://open.spotify.com/album/08chYpaWTSopN4t0AR3elu) | 2:26 |
 
-Snapshot ID: `Zy2a0AAAAABpucYAwK8L1xibHNEP6BKk`
+Snapshot ID: `Zy2a0AAAAACYpID2v869suSC9Yxt/IIr`

@@ -1,12 +1,12 @@
 {
   "description": "Top Sharqi hits right now. Cover: AL SHAMI",
-  "num_followers": 69038,
+  "num_followers": 69097,
   "original_name": "Top Sharqi Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzOINgAAAABIpsKtcINzbORN1Yplmsic",
+  "snapshot_id": "ZzXfyAAAAACuL/HguSVlPhx0zwB2P6/v",
   "tracks": [
     {
       "added_at": "2024-11-12 16:54:14",
@@ -59,22 +59,6 @@
       "duration_ms": 205500,
       "name": "Reef Al Ain",
       "url": "https://open.spotify.com/track/4XJLSMhfdZF5l8dltDLDFM"
-    },
-    {
-      "added_at": "2024-11-12 16:54:14",
-      "album": {
-        "name": "Ray'a",
-        "url": "https://open.spotify.com/album/5WO6hG0bdZpueHDgFWCbDe"
-      },
-      "artists": [
-        {
-          "name": "Amr Diab",
-          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
-        }
-      ],
-      "duration_ms": 246110,
-      "name": "Ray'a",
-      "url": "https://open.spotify.com/track/0gSwBFfNxzCEmswl2iluW1"
     },
     {
       "added_at": "2024-11-12 16:54:14",
@@ -207,6 +191,22 @@
       "duration_ms": 184000,
       "name": "\u0644\u0645\u0627 \u0637\u0644",
       "url": "https://open.spotify.com/track/1XYVKPZq2gDkwBbi3iX8Dj"
+    },
+    {
+      "added_at": "2024-11-12 16:54:14",
+      "album": {
+        "name": "Ray'a",
+        "url": "https://open.spotify.com/album/5WO6hG0bdZpueHDgFWCbDe"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        }
+      ],
+      "duration_ms": 246110,
+      "name": "Ray'a",
+      "url": "https://open.spotify.com/track/0gSwBFfNxzCEmswl2iluW1"
     },
     {
       "added_at": "2024-11-12 16:54:14",

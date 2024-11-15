@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Man/Woman/Chainsaw
 
-1,704 songs - 3 day 22 hr 3 min
+1,705 songs - 3 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1519,6 +1519,7 @@
 | [The Strangest Thing](https://open.spotify.com/track/5J3zyhpXUXHAanKc9fxUWz) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Homeschool: Book II](https://open.spotify.com/album/2rkNEWuFnxefRu2C4BXHwE) | 4:13 | 2022-04-13 | 2022-06-30 |
 | [The Strangest Thing](https://open.spotify.com/track/7sumQuqsfJOuQERyfDq6FP) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Homeschool: Book II](https://open.spotify.com/album/5c7spvnif2WCfBfUArnKgz) | 4:13 | 2022-11-30 | 2023-01-12 |
 | [The Thief](https://open.spotify.com/track/4VgwQttkrdly8kcYM2DXdc) | [Blair Gun](https://open.spotify.com/artist/3Zo3lxLN17TNyV910OMiZT) | [There Are No Rival Clones Here](https://open.spotify.com/album/1P2ADTwkQbDMhAKidZ1oZr) | 2:09 | 2024-07-03 | 2024-09-19 |
+| [The Trick](https://open.spotify.com/track/6UuBstrUsBQiGihV4kOmpI) | [9Million](https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna) | [Lucky](https://open.spotify.com/album/7i2f02Piux1havnG4wIMN9) | 2:07 | 2024-11-14 |  |
 | [The Truth](https://open.spotify.com/track/1H9NFOK9igDd0aOJKQN55d) | [Candid](https://open.spotify.com/artist/2eSdPS2sIENi2M3IO0mpwa) | [The Truth](https://open.spotify.com/album/4Lljy0BcRHBZ7OMkx1pYiD) | 2:46 | 2022-06-15 | 2022-09-01 |
 | [The View From Halfway Down \- Spotify Singles](https://open.spotify.com/track/3E4gPkcqnyaAnv1nrdukwp) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP), [Henry D'Arthenay](https://open.spotify.com/artist/25Dx0mB7FWXFxNjsYVfcCL) | [The View From Halfway Down \- Spotify Singles](https://open.spotify.com/album/1S08DnwybFOPu8wswBn5gj) | 3:50 | 2022-05-25 | 2022-07-07 |
 | [The Wiper](https://open.spotify.com/track/6S0eZIhC88aWtepgAzo5sI) | [Harvey Rushmore & the Octopus](https://open.spotify.com/artist/7mrAXYivr97fQvPoROjUGm) | [Freedomspacecake](https://open.spotify.com/album/06QP0yI5lEp7BkpNBUiV2E) | 2:57 | 2022-09-21 | 2022-12-01 |

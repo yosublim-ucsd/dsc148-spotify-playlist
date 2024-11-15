@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Myles Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 866,499 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,526 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [HOWLING](https://open.spotify.com/track/2uaZaTMbYE5KAk8gbdzBgW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 3:08 |
 | 40 | [Time To Go](https://open.spotify.com/track/12hypREWe3wQFb6xgAbwtT) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Time To Go](https://open.spotify.com/album/3ejTqXB3AbW6bGO8iJGmQJ) | 3:22 |
 
-Snapshot ID: `ZzO3kwAAAAA5gacjfjRlLOgB5oWjhZIQ`
+Snapshot ID: `ZzO3kwAAAACPizwYntB1ixF6kyePnlbu`

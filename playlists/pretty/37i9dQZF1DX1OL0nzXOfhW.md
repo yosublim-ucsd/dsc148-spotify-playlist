@@ -2,35 +2,35 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2024 RADAR登場！持續發掘世一超新聲！Cover: Goo Chan
+> 2024 RADAR登場！持續發掘世一超新聲！Cover: Joya
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,124 likes - 63 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,125 likes - 63 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Say No 2024](https://open.spotify.com/track/24hIgVRp6AVfknZnF3aAXm) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn), [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws), [Fylo](https://open.spotify.com/artist/4nmGhKCt70kDNlgUhNHkCx) | [Say No 2024](https://open.spotify.com/album/7qdC7yJrGml0MOpmU7cTuZ) | 3:40 |
-| 2 | [Dear Vicky](https://open.spotify.com/track/0lB8tgI8wTnejGm4ARBDyT) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [Dear Vicky](https://open.spotify.com/album/2KG65Y4EddM3fmtJvK03ws) | 4:05 |
-| 3 | [5pm](https://open.spotify.com/track/0wDSJ6wGMl8SdDoWHt4uTf) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [5pm](https://open.spotify.com/album/3qcaV9TKqscYkc6Wgjcu1W) | 3:44 |
-| 4 | [相逢實驗](https://open.spotify.com/track/6eblAIsM4cnlGAdxFKJFwY) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [相逢實驗](https://open.spotify.com/album/6lRE98Vlhmr7TzZ4jgc8ay) | 4:05 |
-| 5 | [這裡等](https://open.spotify.com/track/0oMRpIiFKeVinsWubA39bv) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [十月八日記](https://open.spotify.com/album/6Ulo2WTKUB1feiJ89URvci) | 3:30 |
-| 6 | [你只需要保持可愛](https://open.spotify.com/track/751ZpB5hwmXxxjrJpB8U6s) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [你只需要保持可愛](https://open.spotify.com/album/19SxeODofSVCAQV0IjN0yE) | 3:10 |
-| 7 | [Soufflé](https://open.spotify.com/track/6Z79p0EQm2PNCST8EQfaQ2) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [PLAYGROUND](https://open.spotify.com/artist/6jcd1FALUEzaGDl7Syikem) | [Soufflé](https://open.spotify.com/album/0r7EKnvPN4a3t4QrIN78GB) | 3:02 |
-| 8 | [Girl, let's dance](https://open.spotify.com/track/5nywwZ634HioYXawXsujaZ) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [PLAYGROUND](https://open.spotify.com/artist/6jcd1FALUEzaGDl7Syikem) | [Girl, let's dance](https://open.spotify.com/album/0gGzZsU0Uv5MRw4kOtYJ5M) | 3:22 |
-| 9 | [ODDESSY](https://open.spotify.com/track/6RDEv3g48vfu0B51BoEeSp) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [ODDESSY](https://open.spotify.com/album/08KcmPvH8mRDBN7ccqEge9) | 2:42 |
-| 10 | [RIDE](https://open.spotify.com/track/0fUFyXhlo9VOXAky3rFWhu) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [RIDE](https://open.spotify.com/album/5OHjroUvvNuhV8cwxHK6UV) | 3:11 |
-| 11 | [Summer Night Rock](https://open.spotify.com/track/4kH5ecTAKSjyK3hKBKpZiP) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [Summer Night Rock](https://open.spotify.com/album/667ABOBs4DiQmG5FHMRhZu) | 2:32 |
-| 12 | [heartbreak\_demo](https://open.spotify.com/track/7paQoUMrXYEFJvucVmS8nl) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [heartbreak\_demo](https://open.spotify.com/album/0uS2NDetcgz7WXm98XdLHw) | 3:39 |
-| 13 | [That’s Life](https://open.spotify.com/track/4fyOgvqzyo1U5WNy2fQdAW) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [That's Life](https://open.spotify.com/album/6LV0XTTfXauQKnAYSCDf0A) | 3:06 |
-| 14 | [Voodoo](https://open.spotify.com/track/4FXyCbM9p5MG7W77fx8aoP) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw), [Eric Sisco](https://open.spotify.com/artist/3CrVovDwDm5J4T5Ql8ludA), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu) | [Voodoo](https://open.spotify.com/album/7H9iqUhpuBNriCSnYi1yp9) | 2:43 |
-| 15 | [NOT OVER YOU \- Demo](https://open.spotify.com/track/0NAKaGZeBHWYXOEFwDahb5) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [NOT OVER YOU \(Demo\)](https://open.spotify.com/album/4syqsrCwBHxiAoAILBEPyG) | 3:45 |
-| 16 | [2myself](https://open.spotify.com/track/7vRKbFoml08cLlOip1DHhv) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [2myself](https://open.spotify.com/album/6Zcsm5NSEf0aqEeYtsEMi2) | 1:59 |
-| 17 | [21](https://open.spotify.com/track/74qTkUdWvA41zDIETDRlzb) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [21](https://open.spotify.com/album/0Ft9M2KyqYSKuBm6cxi138) | 1:36 |
-| 18 | [Strings Attached](https://open.spotify.com/track/6IMAEIoIOnQX5j5YXyRpaX) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Strings Attached](https://open.spotify.com/album/1HUhxa50VNtgwX3Tc8rCX8) | 2:58 |
-| 19 | [Birds of a Feather](https://open.spotify.com/track/4DG3IzN5U3inciYBjO2bms) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu), [Grey Brisson](https://open.spotify.com/artist/7th9azSFAuJoeGRCrh6OMS) | [Birds of a Feather](https://open.spotify.com/album/1O3NSXKqzKEY2CeyNwfu4m) | 2:15 |
-| 20 | [Fireflies](https://open.spotify.com/track/26BGPHSmjchqcViaelHuJj) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu), [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [Fireflies](https://open.spotify.com/album/5mMABLGwyj57ar2ltq9LQ7) | 3:10 |
-| 21 | [Confetti](https://open.spotify.com/track/1gdGrigcX8XMqs0mIYsxTo) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Confetti](https://open.spotify.com/album/0j8IM4yNhayiWsBL4Vuedy) | 1:57 |
-| 22 | [In Between](https://open.spotify.com/track/46HV59uHgPKBntPWvVIQdZ) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [In Between](https://open.spotify.com/album/4FKYyvK7jc7pfGTUB5RIsw) | 2:13 |
-| 23 | [沉積岩](https://open.spotify.com/track/7abzorNnx5iI2r4Q7Ash9V) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [沉積岩](https://open.spotify.com/album/5Fq40jwqBSAtUJpLkp4BLe) | 3:33 |
+| 1 | [Let's Stay In](https://open.spotify.com/track/4ez32AQQjqjw4F1hItmqA0) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Let's Stay In](https://open.spotify.com/album/6zMofv6OrGxA1VG1Kuex1r) | 2:30 |
+| 2 | [Strings Attached](https://open.spotify.com/track/6IMAEIoIOnQX5j5YXyRpaX) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Strings Attached](https://open.spotify.com/album/1HUhxa50VNtgwX3Tc8rCX8) | 2:58 |
+| 3 | [Birds of a Feather](https://open.spotify.com/track/4DG3IzN5U3inciYBjO2bms) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu), [Grey Brisson](https://open.spotify.com/artist/7th9azSFAuJoeGRCrh6OMS) | [Birds of a Feather](https://open.spotify.com/album/1O3NSXKqzKEY2CeyNwfu4m) | 2:15 |
+| 4 | [Confetti](https://open.spotify.com/track/1gdGrigcX8XMqs0mIYsxTo) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Confetti](https://open.spotify.com/album/0j8IM4yNhayiWsBL4Vuedy) | 1:57 |
+| 5 | [In Between](https://open.spotify.com/track/46HV59uHgPKBntPWvVIQdZ) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [In Between](https://open.spotify.com/album/4FKYyvK7jc7pfGTUB5RIsw) | 2:13 |
+| 6 | [沉積岩](https://open.spotify.com/track/7abzorNnx5iI2r4Q7Ash9V) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [沉積岩](https://open.spotify.com/album/5Fq40jwqBSAtUJpLkp4BLe) | 3:33 |
+| 7 | [Say No 2024](https://open.spotify.com/track/24hIgVRp6AVfknZnF3aAXm) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn), [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws), [Fylo](https://open.spotify.com/artist/4nmGhKCt70kDNlgUhNHkCx) | [Say No 2024](https://open.spotify.com/album/7qdC7yJrGml0MOpmU7cTuZ) | 3:40 |
+| 8 | [Dear Vicky](https://open.spotify.com/track/0lB8tgI8wTnejGm4ARBDyT) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [Dear Vicky](https://open.spotify.com/album/2KG65Y4EddM3fmtJvK03ws) | 4:05 |
+| 9 | [5pm](https://open.spotify.com/track/0wDSJ6wGMl8SdDoWHt4uTf) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [5pm](https://open.spotify.com/album/3qcaV9TKqscYkc6Wgjcu1W) | 3:44 |
+| 10 | [相逢實驗](https://open.spotify.com/track/6eblAIsM4cnlGAdxFKJFwY) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [相逢實驗](https://open.spotify.com/album/6lRE98Vlhmr7TzZ4jgc8ay) | 4:05 |
+| 11 | [這裡等](https://open.spotify.com/track/0oMRpIiFKeVinsWubA39bv) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [十月八日記](https://open.spotify.com/album/6Ulo2WTKUB1feiJ89URvci) | 3:30 |
+| 12 | [你只需要保持可愛](https://open.spotify.com/track/751ZpB5hwmXxxjrJpB8U6s) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [你只需要保持可愛](https://open.spotify.com/album/19SxeODofSVCAQV0IjN0yE) | 3:10 |
+| 13 | [Soufflé](https://open.spotify.com/track/6Z79p0EQm2PNCST8EQfaQ2) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [PLAYGROUND](https://open.spotify.com/artist/6jcd1FALUEzaGDl7Syikem) | [Soufflé](https://open.spotify.com/album/0r7EKnvPN4a3t4QrIN78GB) | 3:02 |
+| 14 | [Girl, let's dance](https://open.spotify.com/track/5nywwZ634HioYXawXsujaZ) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [PLAYGROUND](https://open.spotify.com/artist/6jcd1FALUEzaGDl7Syikem) | [Girl, let's dance](https://open.spotify.com/album/0gGzZsU0Uv5MRw4kOtYJ5M) | 3:22 |
+| 15 | [ODDESSY](https://open.spotify.com/track/6RDEv3g48vfu0B51BoEeSp) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [ODDESSY](https://open.spotify.com/album/08KcmPvH8mRDBN7ccqEge9) | 2:42 |
+| 16 | [RIDE](https://open.spotify.com/track/0fUFyXhlo9VOXAky3rFWhu) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [RIDE](https://open.spotify.com/album/5OHjroUvvNuhV8cwxHK6UV) | 3:11 |
+| 17 | [Summer Night Rock](https://open.spotify.com/track/4kH5ecTAKSjyK3hKBKpZiP) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [Summer Night Rock](https://open.spotify.com/album/667ABOBs4DiQmG5FHMRhZu) | 2:32 |
+| 18 | [heartbreak\_demo](https://open.spotify.com/track/7paQoUMrXYEFJvucVmS8nl) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [heartbreak\_demo](https://open.spotify.com/album/0uS2NDetcgz7WXm98XdLHw) | 3:39 |
+| 19 | [That’s Life](https://open.spotify.com/track/4fyOgvqzyo1U5WNy2fQdAW) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [That's Life](https://open.spotify.com/album/6LV0XTTfXauQKnAYSCDf0A) | 3:06 |
+| 20 | [Voodoo](https://open.spotify.com/track/4FXyCbM9p5MG7W77fx8aoP) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw), [Eric Sisco](https://open.spotify.com/artist/3CrVovDwDm5J4T5Ql8ludA), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu) | [Voodoo](https://open.spotify.com/album/7H9iqUhpuBNriCSnYi1yp9) | 2:43 |
+| 21 | [NOT OVER YOU \- Demo](https://open.spotify.com/track/0NAKaGZeBHWYXOEFwDahb5) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [NOT OVER YOU \(Demo\)](https://open.spotify.com/album/4syqsrCwBHxiAoAILBEPyG) | 3:45 |
+| 22 | [2myself](https://open.spotify.com/track/7vRKbFoml08cLlOip1DHhv) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [2myself](https://open.spotify.com/album/6Zcsm5NSEf0aqEeYtsEMi2) | 1:59 |
+| 23 | [21](https://open.spotify.com/track/74qTkUdWvA41zDIETDRlzb) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [21](https://open.spotify.com/album/0Ft9M2KyqYSKuBm6cxi138) | 1:36 |
 | 24 | [我想 I Want](https://open.spotify.com/track/1fuyf4kGxjdEF6ScAR5k0C) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [想是南 Want Am Nam](https://open.spotify.com/album/1xoswUs26cYFezapHEqxDS) | 8:51 |
 | 25 | [南 Nam](https://open.spotify.com/track/4lUDA9q4iIM9IoQherQIn7) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [南 Nam](https://open.spotify.com/album/5pRm6QGxFNByZDzCvUhmqo) | 6:15 |
 | 26 | [是 Am](https://open.spotify.com/track/7uMHJYzGXsSPeeFrGEIxjI) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [是 Am](https://open.spotify.com/album/0bMv2UDQtyg5ww8D61LrVX) | 6:29 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 62 | [Letter](https://open.spotify.com/track/2lbvrvkQz9KBViH9DqIHh3) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [Letter](https://open.spotify.com/album/4FHTXsdIaOURNZksJ5OduD) | 2:52 |
 | 63 | [Hidey](https://open.spotify.com/track/2gxqb9SIEdO2GNsXMGy6RA) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:18 |
 
-Snapshot ID: `ZyOpgAAAAADBGRDcTVEnVb0uT412IDlJ`
+Snapshot ID: `ZzYegAAAAAD9DMjZ0Y9cwLLWxAtyfMij`

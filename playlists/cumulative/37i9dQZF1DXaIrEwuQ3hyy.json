@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Barefoot",
+        "url": "https://open.spotify.com/album/03XY58JRHWAShkdO6L4ic7"
+      },
+      "artists": [
+        {
+          "name": "Jacob Leo",
+          "url": "https://open.spotify.com/artist/2odk6veMu6QLbd8cqJwELA"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "Barefoot",
+      "url": "https://open.spotify.com/track/2v3wP0540bmkM7CFEqtqYy"
+    },
+    {
+      "album": {
         "name": "Nur",
         "url": "https://open.spotify.com/album/5bDisUecxjM8WhpK7HKmrK"
       },
@@ -536,7 +554,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-10",
+      "date_removed": null,
       "duration_ms": 160200,
       "name": "Blau",
       "url": "https://open.spotify.com/track/27BDgmEjgMdHLYIWogdnIU"
@@ -648,6 +666,24 @@
       "duration_ms": 190426,
       "name": "Brush Fire",
       "url": "https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF"
+    },
+    {
+      "album": {
+        "name": "Built To Break",
+        "url": "https://open.spotify.com/album/1ZEvKDsf5wcTSzrfJ2LDGh"
+      },
+      "artists": [
+        {
+          "name": "COSIE",
+          "url": "https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182889,
+      "name": "Built To Break",
+      "url": "https://open.spotify.com/track/01YbTRYArW2qEQb3hQjnSB"
     },
     {
       "album": {
@@ -937,6 +973,24 @@
     },
     {
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/24j6IoQ8Junn1mIXfgijU4"
+      },
+      "artists": [
+        {
+          "name": "Wallners",
+          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267100,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4LIRPQO4jzel3t4aN5J8PN"
+    },
+    {
+      "album": {
         "name": "effort in",
         "url": "https://open.spotify.com/album/7rC7eOZPlaNImntVvrhRRi"
       },
@@ -1068,6 +1122,28 @@
       "duration_ms": 257500,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
+    },
+    {
+      "album": {
+        "name": "For The Night",
+        "url": "https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw"
+      },
+      "artists": [
+        {
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        },
+        {
+          "name": "NAVENI",
+          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "For The Night",
+      "url": "https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR"
     },
     {
       "album": {
@@ -1208,7 +1284,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 221870,
       "name": "Greed",
       "url": "https://open.spotify.com/track/08ieGNMFXGov5zk7VZ6box"
@@ -1298,7 +1374,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 193017,
       "name": "heartache in july",
       "url": "https://open.spotify.com/track/42rTk25vRoiJUpBayPRaOR"
@@ -1775,6 +1851,24 @@
     },
     {
       "album": {
+        "name": "Like a Song",
+        "url": "https://open.spotify.com/album/55ccEeNUbwGJ1qkJGezry0"
+      },
+      "artists": [
+        {
+          "name": "OSKA",
+          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207036,
+      "name": "Like a Song",
+      "url": "https://open.spotify.com/track/4ZCvntQK1mmnQIHUEj9OEl"
+    },
+    {
+      "album": {
         "name": "Caramel",
         "url": "https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o"
       },
@@ -1804,7 +1898,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "little me",
       "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
@@ -1826,7 +1920,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 240066,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6AIMiXP9fD6e9JTc1hbcvy"
@@ -1896,6 +1990,24 @@
       "duration_ms": 178000,
       "name": "luft (feat. Friedberg)",
       "url": "https://open.spotify.com/track/2bi2Sfu6PNmQByYPKrE1l9"
+    },
+    {
+      "album": {
+        "name": "Make me think of you",
+        "url": "https://open.spotify.com/album/1LCyjbwY18GGpobrSlv8ZJ"
+      },
+      "artists": [
+        {
+          "name": "ELIS NOA",
+          "url": "https://open.spotify.com/artist/6jLDzjrANnkIEhgdEL8gZf"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199006,
+      "name": "Make me think of you",
+      "url": "https://open.spotify.com/track/2VAjQDNPTToTFUVrjFy7Mw"
     },
     {
       "album": {
@@ -2012,6 +2124,32 @@
       "duration_ms": 145833,
       "name": "missin something",
       "url": "https://open.spotify.com/track/790xAaylcgzyKm40GM95Gl"
+    },
+    {
+      "album": {
+        "name": "Mitternacht (feat. Josi Miller)",
+        "url": "https://open.spotify.com/album/6YnEJWrRSfdmd1nZuNiaoO"
+      },
+      "artists": [
+        {
+          "name": "KLAN",
+          "url": "https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8"
+        },
+        {
+          "name": "Moglii",
+          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
+        },
+        {
+          "name": "Josi Miller",
+          "url": "https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Mitternacht (feat. Josi Miller)",
+      "url": "https://open.spotify.com/track/4eiBSDEa9x6fEpA2fy94vU"
     },
     {
       "album": {
@@ -2475,6 +2613,28 @@
     },
     {
       "album": {
+        "name": "Psychopath",
+        "url": "https://open.spotify.com/album/0IzbtB39XZSmjXKAlcdAhd"
+      },
+      "artists": [
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        },
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192989,
+      "name": "Psychopath",
+      "url": "https://open.spotify.com/track/2yyBy2p36rPZnfa1G1PjDI"
+    },
+    {
+      "album": {
         "name": "Put Your Head On My Shoulder",
         "url": "https://open.spotify.com/album/5X0gns8uxKffX6hU74foJ9"
       },
@@ -2677,6 +2837,24 @@
     },
     {
       "album": {
+        "name": "shades",
+        "url": "https://open.spotify.com/album/56hNHlahRLNbdDGhcXdYcz"
+      },
+      "artists": [
+        {
+          "name": "ilayda",
+          "url": "https://open.spotify.com/artist/2JctEubYrAEVMCbHAfdYPU"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176142,
+      "name": "save myself",
+      "url": "https://open.spotify.com/track/2mqgFt9mypTriVwkXzDeJW"
+    },
+    {
+      "album": {
         "name": "Say Yes To Heaven",
         "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
       },
@@ -2746,7 +2924,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 205609,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/2hwAADrapspxkmLsZzvqIv"
@@ -2804,6 +2982,28 @@
       "duration_ms": 267880,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/6EXCQbPhpBf5RTQZ4F1raZ"
+    },
+    {
+      "album": {
+        "name": "Slow It Down",
+        "url": "https://open.spotify.com/album/5xeGFga33wKgIuTcef2wKn"
+      },
+      "artists": [
+        {
+          "name": "BILBAO",
+          "url": "https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH"
+        },
+        {
+          "name": "Thala",
+          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218786,
+      "name": "Slow It Down",
+      "url": "https://open.spotify.com/track/3BCA5KOKE7RRcrx0tK7kDK"
     },
     {
       "album": {
@@ -2981,6 +3181,24 @@
     },
     {
       "album": {
+        "name": "spain",
+        "url": "https://open.spotify.com/album/3PaV5GaBkDJ4bDVk0xI328"
+      },
+      "artists": [
+        {
+          "name": "theja",
+          "url": "https://open.spotify.com/artist/38DT4VMpA3qK1UqZgUB9Ag"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219999,
+      "name": "spain",
+      "url": "https://open.spotify.com/track/0ZVuWqJtiM8BJdqyEEta01"
+    },
+    {
+      "album": {
         "name": "Stand up and Dance",
         "url": "https://open.spotify.com/album/507a77zJ1BTZZQJbVi4cbs"
       },
@@ -3144,7 +3362,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-16",
+      "date_removed": null,
       "duration_ms": 151792,
       "name": "Superbloodmoon (feat. d4vd)",
       "url": "https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl"
@@ -3424,7 +3642,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 226146,
       "name": "Tides",
       "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
@@ -3464,7 +3682,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 153491,
       "name": "Tissues",
       "url": "https://open.spotify.com/track/07rDOk6qeP4CpqlkJmUo5x"
@@ -3598,7 +3816,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 218727,
       "name": "Versailles (Hold) - Edit",
       "url": "https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX"
@@ -3706,7 +3924,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 176495,
       "name": "when words fail",
       "url": "https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA"

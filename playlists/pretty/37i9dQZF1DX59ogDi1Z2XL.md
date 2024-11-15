@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Clairmont The Second
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,320 likes - 74 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,358 likes - 74 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 73 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 |
 | 74 | [Kelowna](https://open.spotify.com/track/4qQXyneWW84vaXPQwQ6ctt) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J) | [Kelowna](https://open.spotify.com/album/4j0rUtyuBfQUixdyPR29IB) | 2:17 |
 
-Snapshot ID: `Zy2a0AAAAADbUOVdRJpO1CDzAWZkTJMI`
+Snapshot ID: `Zy2a0AAAAAAY6BtX1ljRa6vwuLJ1zLHJ`

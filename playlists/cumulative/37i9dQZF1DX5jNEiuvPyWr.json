@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Moha MMZ",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Elh Kmer",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "2 Sistas",
+        "url": "https://open.spotify.com/album/0evJCpJxMHBN6IArIcrHaR"
+      },
+      "artists": [
+        {
+          "name": "Elh Kmer",
+          "url": "https://open.spotify.com/artist/6DTpmzMa0Gz93kRKUo4JfQ"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198643,
+      "name": "2 Sistas",
+      "url": "https://open.spotify.com/track/6o3FclgTyuqsxE2z64AVAN"
+    },
+    {
+      "album": {
         "name": "20 Benz",
         "url": "https://open.spotify.com/album/1yUAbvGfkcHGID3l8QvCXE"
       },
@@ -194,7 +212,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 202197,
       "name": "20 Benz",
       "url": "https://open.spotify.com/track/36HjmuPWCb5OJ991fwA4c8"
@@ -328,7 +346,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 192560,
       "name": "A perte",
       "url": "https://open.spotify.com/track/5wmyF6drfu8jkNZ0JPNvKZ"
@@ -1748,7 +1766,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 187445,
       "name": "Coeur trop petit pour deux",
       "url": "https://open.spotify.com/track/5rseoSZlvuhGn9RAVRYbv8"
@@ -4374,7 +4392,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 150889,
       "name": "LADY GAGA",
       "url": "https://open.spotify.com/track/3WVegsSwuVkiO0SAg9S87V"
@@ -4940,6 +4958,24 @@
       "duration_ms": 185413,
       "name": "Ma vie d'avant",
       "url": "https://open.spotify.com/track/0L1I6VmStVwKx4R5ZsOlMN"
+    },
+    {
+      "album": {
+        "name": "MADAME LA LUNE",
+        "url": "https://open.spotify.com/album/1xLiUJNxGDmandqLtWDOzZ"
+      },
+      "artists": [
+        {
+          "name": "Fawzi",
+          "url": "https://open.spotify.com/artist/7KksiYW66eM3fAsOkQJsEv"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144985,
+      "name": "MADAME LA LUNE",
+      "url": "https://open.spotify.com/track/2HWI0eskLgc8ynUKLMEH6r"
     },
     {
       "album": {
@@ -5949,6 +5985,24 @@
     },
     {
       "album": {
+        "name": "Par la main",
+        "url": "https://open.spotify.com/album/5ZvXkdD6jLp0DitqWdgq7S"
+      },
+      "artists": [
+        {
+          "name": "YUNG POOR ALO",
+          "url": "https://open.spotify.com/artist/4n9g9O44xmv7k4ET9NLvds"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125666,
+      "name": "Par la main",
+      "url": "https://open.spotify.com/track/4biJTjii4iXvLJ0lXZ5uXs"
+    },
+    {
+      "album": {
         "name": "Erreurs",
         "url": "https://open.spotify.com/album/18zqFhr6pzfcvQmKnPcvMc"
       },
@@ -6724,6 +6778,24 @@
       "duration_ms": 181649,
       "name": "Quali",
       "url": "https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY"
+    },
+    {
+      "album": {
+        "name": "RADIO",
+        "url": "https://open.spotify.com/album/7JDIVb7zX3qYslaNUGK9wY"
+      },
+      "artists": [
+        {
+          "name": "Gemen",
+          "url": "https://open.spotify.com/artist/38Ey7an6lpTlez98WKnAd2"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "RADIO",
+      "url": "https://open.spotify.com/track/5vuQDHV1Athh4u9h8IMEG1"
     },
     {
       "album": {

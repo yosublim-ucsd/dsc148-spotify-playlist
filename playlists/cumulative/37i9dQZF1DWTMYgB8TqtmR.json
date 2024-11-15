@@ -169,6 +169,24 @@
     },
     {
       "album": {
+        "name": "2 hands",
+        "url": "https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181820,
+      "name": "2 hands",
+      "url": "https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ"
+    },
+    {
+      "album": {
         "name": "20-n\u00e5nting",
         "url": "https://open.spotify.com/album/5bJi4q157OiMjxJJVzbQCL"
       },
@@ -2106,6 +2124,28 @@
       "duration_ms": 203884,
       "name": "Bullet",
       "url": "https://open.spotify.com/track/3DMq9xe5H8TTwi1FQfvcDF"
+    },
+    {
+      "album": {
+        "name": "YEMAYA",
+        "url": "https://open.spotify.com/album/0fgZAQlnfw5ryaq9LAMGQx"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "Y4ska",
+          "url": "https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153277,
+      "name": "Burna Boy",
+      "url": "https://open.spotify.com/track/0BSUPnydTkUctGwgpsl20B"
     },
     {
       "album": {
@@ -5082,7 +5122,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 162162,
       "name": "Fuck ditt liv",
       "url": "https://open.spotify.com/track/29w6XkR2SlXSd6avlHvejW"
@@ -8920,7 +8960,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 139705,
       "name": "Maraton (feat. Eah J\u00e9)",
       "url": "https://open.spotify.com/track/0FAWHFKFtk9eUQK6gLxBkw"
@@ -15192,7 +15232,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 158062,
       "name": "V\u00e4lkommen ner",
       "url": "https://open.spotify.com/track/29YN98sTVSpfYMpPzFXaGU"

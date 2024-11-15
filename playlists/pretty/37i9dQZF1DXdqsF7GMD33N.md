@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqsF7GMD33N.md) - [plain]
 
 > Belt it out\. Cover: Nichelle Lewis in The Wiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,347 likes - 74 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,404 likes - 74 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqsF7GMD33N.md) - [plain]
 | 73 | [Always Starting Over](https://open.spotify.com/track/1lO05gLIDY3HgGmQMWAGXH) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [If/Then: A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3Fhp5BdCLeLnUzl069FlJK) | 4:42 |
 | 74 | [Annie: Tomorrow](https://open.spotify.com/track/1AXO42HiJSTgPq7KbJAEjp) | [Charles Strouse](https://open.spotify.com/artist/1HO6dUh3pea34OKnmsmjQx), [Andrea McArdle](https://open.spotify.com/artist/74AUP6Y3N7vo7s043wFa0m), [Annie \(Original Broadway Cast\)](https://open.spotify.com/artist/3RreZNGP8ixMXsm1iHabA3), [Peter Howard](https://open.spotify.com/artist/6kSSIddrp6LMEAUfbiacVv) | [Annie \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0T1lQv20NNCoFlZkVHN3SQ) | 2:07 |
 
-Snapshot ID: `Zmy1bQAAAADRgRdGNAE0Jw1ssTSPNYxD`
+Snapshot ID: `Zmy1bQAAAAABbcIpREP/qf4qKS5NjVd7`

@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "CHILDSTAR",
+        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205533,
+      "name": "A\u00daN TE QUIERO",
+      "url": "https://open.spotify.com/track/7n4xPM0BSzorEz2BVGD5oC"
+    },
+    {
+      "album": {
         "name": "Bagels y Caf\u00e9",
         "url": "https://open.spotify.com/album/0LxNYYgAewdpU7HQiPYtg4"
       },

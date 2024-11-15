@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,098 likes - 94 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,105 likes - 94 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 93 | [To the vibe \(rework\)](https://open.spotify.com/track/51Kc6kYlpkoPAGj91BEcx2) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 004 \- Leave it to the vibe](https://open.spotify.com/album/2TEGnFtUygzOSU3o9thNhs) | 7:36 |
 | 94 | [Cyber Sunshine \- Angel D'lite & Eoin DJ Remix](https://open.spotify.com/track/30mCeDo8Gr6MVJ24N1r5JD) | [Match Box](https://open.spotify.com/artist/4d8xBGF8IuHVSHRSpB0dTn), [Angel D'lite](https://open.spotify.com/artist/3hTukG4F04etkdZSQBsPOf), [Eoin DJ](https://open.spotify.com/artist/61lnAG9y0PG9hYkqpTWsLz) | [Cyber Sunshine \(Deluxe Remix Pack\)](https://open.spotify.com/album/4gnlErpA5VWMzrpXF982ys) | 5:46 |
 
-Snapshot ID: `ZyoHzQAAAADMMK4bf8HQvo0gwE0iT23W`
+Snapshot ID: `ZyoHzQAAAAD8Bm/cs6eUMH640NvSIbUx`

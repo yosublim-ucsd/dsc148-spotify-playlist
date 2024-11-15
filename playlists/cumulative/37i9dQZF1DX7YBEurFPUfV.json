@@ -281,6 +281,24 @@
     },
     {
       "album": {
+        "name": "Automatique (Mc Artisan)",
+        "url": "https://open.spotify.com/album/337pw8AGafu2kM3Un5ctr8"
+      },
+      "artists": [
+        {
+          "name": "Le Sa",
+          "url": "https://open.spotify.com/artist/1fdwt0BjCekrhXeRX8Ouq9"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277710,
+      "name": "Automatique (Mc Artisan)",
+      "url": "https://open.spotify.com/track/0CgYatpXXpOWh6dGlYGCzZ"
+    },
+    {
+      "album": {
         "name": "Bambina",
         "url": "https://open.spotify.com/album/6DXZbH9Gx61B5sWlVQXNzH"
       },
@@ -1606,7 +1624,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 220000,
       "name": "Souk",
       "url": "https://open.spotify.com/track/0xbh3QhQx7S3GLEOWXWzGr"

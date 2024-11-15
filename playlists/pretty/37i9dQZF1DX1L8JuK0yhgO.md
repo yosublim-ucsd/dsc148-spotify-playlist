@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,285 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,280 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 69 | [Keep On Moving Up](https://open.spotify.com/track/0eO5J4bjVgjSLDB579BlkE) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Keep On Moving Up](https://open.spotify.com/album/5Wbi8QUhBMmpwUbEjnN7KX) | 3:05 |
 | 70 | [BCF](https://open.spotify.com/track/419ODGrNFDvYiRv5X72hO3) | [XTAL](https://open.spotify.com/artist/2t07wCTjaVSrObNSvgMyLi) | [BCF](https://open.spotify.com/album/2nugIrGQiJZFruff54Lpif) | 2:53 |
 
-Snapshot ID: `ZzFc7gAAAADKv3SMkzZYOTVAFFBcAu8t`
+Snapshot ID: `ZzFc7gAAAACyD+EXRorE6ehXwWl2jE64`

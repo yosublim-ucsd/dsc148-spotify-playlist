@@ -4,7 +4,7 @@
 
 > De beste Alternative, Indie en Rock van nu! Cover: Royel Otis
 
-99 songs - 5 hr 48 min
+100 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Digitaline](https://open.spotify.com/track/6Hmp32UZ6zhekOdlH2qFA9) | [Eosine](https://open.spotify.com/artist/0Md3VgBtmaO6hemIn4gIIP) | [Digitaline](https://open.spotify.com/album/7nuek3x9WHIOFw5auG7TmN) | 4:32 | 2024-10-03 |  |
 | [Don’t Say It’s Over](https://open.spotify.com/track/6PrOPwz8YdN4idSUwPffRh) | [Gaz Coombes](https://open.spotify.com/artist/6ho33Vt1tjZyf8m7Z5NZhx) | [Don't Say It's Over](https://open.spotify.com/album/72yH1PXnzGt8Gs1OPPUVqx) | 3:46 | 2024-06-26 | 2024-07-12 |
 | [Dopamine](https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 3:06 | 2024-06-26 |  |
-| [Down The Rabbit Hole](https://open.spotify.com/track/23opA2C2jQS10uBL4DmQv4) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [Down The Rabbit Hole](https://open.spotify.com/album/2cXmUukaT3vR1INZOajMTd) | 3:15 | 2024-06-26 |  |
+| [Down The Rabbit Hole](https://open.spotify.com/track/23opA2C2jQS10uBL4DmQv4) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [Down The Rabbit Hole](https://open.spotify.com/album/2cXmUukaT3vR1INZOajMTd) | 3:15 | 2024-06-26 | 2024-11-15 |
 | [DRIVE ME CRAZY](https://open.spotify.com/track/7xF8oyiBBOwgwiwPN9JRFx) | [Jean Valery](https://open.spotify.com/artist/3nKZLWQbRQ57Tj4ZfeGEek) | [DRIVE ME CRAZY](https://open.spotify.com/album/0cFljihYG2lv3kGCygyYFm) | 2:45 | 2024-09-26 |  |
 | [Easy Now](https://open.spotify.com/track/3i3LMvWC04mFEdiFJfqPfH) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 3:53 | 2024-06-26 | 2024-09-25 |
 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-06-26 | 2024-11-07 |
@@ -101,6 +101,7 @@
 | [Walk Through Fire](https://open.spotify.com/track/1Mdmg7rBIqT1FxAge95Xmx) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Walk Through Fire](https://open.spotify.com/album/7vn1PoVj0mi2MgASHVQoYc) | 3:23 | 2024-09-24 |  |
 | [We Made It](https://open.spotify.com/track/3nVuglijxmqA2eb4iFrprH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [We Made It](https://open.spotify.com/album/261XhHuUmuav4NV5gwTaPI) | 3:14 | 2024-11-06 |  |
 | [Well, Actually](https://open.spotify.com/track/5luU51yytlFbX2LwsYCizD) | [Library Card](https://open.spotify.com/artist/2PNgtvSYvlo95zq1d5uEiT) | [Well, Actually](https://open.spotify.com/album/6Lt5cUgg82xW0dRnEHpaua) | 4:57 | 2024-06-26 | 2024-10-04 |
+| [Where The Names Are Real](https://open.spotify.com/track/6anbHjGgQbYQH5FbF6bAvR) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [Where The Names Are Real](https://open.spotify.com/album/0SnEZObvH4juxuuJEznkGV) | 5:21 | 2024-11-14 |  |
 | [Where We Go \(Calypso\)](https://open.spotify.com/track/1nhGzT3G5FXh6sJoXsw9Kz) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5) | [The Signal](https://open.spotify.com/album/1M31YPVDNtnRoyeDbPgWhQ) | 3:25 | 2024-06-26 |  |
 | [Wish I Could](https://open.spotify.com/track/3s4zyagYB9xcolyQCOTY15) | [Galine](https://open.spotify.com/artist/1DFbUtrAHgEHrZOnptv03D) | [Wish I Could](https://open.spotify.com/album/7ndbNJdFAqyaFKsdP0709m) | 3:29 | 2024-10-03 |  |
 | [Wreckage](https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:00 | 2024-07-11 |  |

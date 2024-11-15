@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\. Cover: <a href="spotify:artist:6y7frW1RUq3XBBXbYowVpk"> Chandler Moore </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,972 likes - 100 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,089 likes - 100 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [Aileyipada](https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Aileyipada](https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ) | 6:35 |
 | 100 | [You Carried Me \- Jekalyn's Version](https://open.spotify.com/track/2q6utlOBBdiOMZ4TcQ1CRj) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [JEKALYN](https://open.spotify.com/album/4juJvUDtZiY996RJKlIxrK) | 5:03 |
 
-Snapshot ID: `Zy3hqQAAAADa01L/qUXTLl8SVryVCR44`
+Snapshot ID: `Zy3hqQAAAAAXhQZPuXf2btTlqbhak9O3`

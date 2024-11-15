@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest in pop\. Cover: Shawn Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,967 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,973 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [broken](https://open.spotify.com/track/592U0yWrX8m2XP6VGSenOG) | [Mackenzie Arromba](https://open.spotify.com/artist/1BdbPr0jIW0h7HurLRlekq) | [broken](https://open.spotify.com/album/6pmB3QBZAbNCY8YZTXqr4X) | 2:49 |
 | 100 | [Somebody Else's](https://open.spotify.com/track/23MKdzfnkrDggafK7JWOHj) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Somebody Else's](https://open.spotify.com/album/31ruqJWGHD6c3d45HUGPcy) | 3:44 |
 
-Snapshot ID: `Zy2a0AAAAABKHAdUTwi/kdZlqe6NrMur`
+Snapshot ID: `Zy2a0AAAAABhG2qweN0B7LGCX0NH6t8/`

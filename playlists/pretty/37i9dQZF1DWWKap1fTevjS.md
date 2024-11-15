@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,626 likes - 180 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,679 likes - 180 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 179 | [Leontopodium](https://open.spotify.com/track/27mYRqQbA13UomGHQkpsTt) | [Alegro Moya](https://open.spotify.com/artist/15YhDrOSaJa3ZoiwykoifX) | [Leontopodium](https://open.spotify.com/album/6m0863uAuoweadPHYEmDze) | 2:57 |
 | 180 | [Nautica](https://open.spotify.com/track/0chPcJHRNvBJfq8SOwoVHV) | [Zooids](https://open.spotify.com/artist/67VSC1OWyqo4z4X9dOTYkZ) | [Nautica](https://open.spotify.com/album/6AuvwZNSnUwD2OCn5Ga3iY) | 2:35 |
 
-Snapshot ID: `ZyovYwAAAAC1JhdqMl0hCCpzKE4tgsWm`
+Snapshot ID: `ZyovYwAAAABVhMkeg7dpudZe2YwBeJ7k`

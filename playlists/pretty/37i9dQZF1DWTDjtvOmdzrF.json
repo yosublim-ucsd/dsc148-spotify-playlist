@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 556736,
+  "num_followers": 556737,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyhKZAAAAAD86vTo225OHZX2GxmItSA4",
+  "snapshot_id": "ZyhKZAAAAAA5qZP0EB+KXfgOf2adQDrs",
   "tracks": [
     {
       "added_at": "2024-11-04 04:15:32",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-11-04 04:15:32",
       "album": {
-        "name": "Bercinta Lewat Kata (From \"Jatuh Cinta Seperti di Film-Film\")",
-        "url": "https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd"
-      },
-      "artists": [
-        {
-          "name": "Donne Maula",
-          "url": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Bercinta Lewat Kata - From \"Jatuh Cinta Seperti di Film-Film\"",
-      "url": "https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u"
-    },
-    {
-      "added_at": "2024-11-04 04:15:32",
-      "album": {
         "name": "Tresno liyane",
         "url": "https://open.spotify.com/album/1HGbZYI4A31w3hBtXsQ3FE"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 290000,
       "name": "Tresno liyane",
       "url": "https://open.spotify.com/track/528jcoA4DKyxBAHlmCU8je"
+    },
+    {
+      "added_at": "2024-11-04 04:15:32",
+      "album": {
+        "name": "Bercinta Lewat Kata (From \"Jatuh Cinta Seperti di Film-Film\")",
+        "url": "https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd"
+      },
+      "artists": [
+        {
+          "name": "Donne Maula",
+          "url": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Bercinta Lewat Kata - From \"Jatuh Cinta Seperti di Film-Film\"",
+      "url": "https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u"
     },
     {
       "added_at": "2024-11-04 04:15:32",
@@ -1207,18 +1207,22 @@
     {
       "added_at": "2024-11-04 04:15:32",
       "album": {
-        "name": "Sekilas Info",
-        "url": "https://open.spotify.com/album/4TwZfsV3Rrj1XMbqMkTfxh"
+        "name": "Tak Ingin Pisah Lagi",
+        "url": "https://open.spotify.com/album/55EPRJFc0JAWKeLEFJogQ4"
       },
       "artists": [
         {
-          "name": "Jason Ranti",
-          "url": "https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv"
+          "name": "Marion Jola",
+          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
+        },
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
         }
       ],
-      "duration_ms": 350626,
-      "name": "Lagunya Begini, Nadanya Begitu",
-      "url": "https://open.spotify.com/track/4YVBE2CDqxtNRGTPEMOQet"
+      "duration_ms": 265518,
+      "name": "Tak Ingin Pisah Lagi",
+      "url": "https://open.spotify.com/track/67L0rPX2z7n44XBYStoHDg"
     },
     {
       "added_at": "2024-11-04 04:15:32",
@@ -1239,22 +1243,18 @@
     {
       "added_at": "2024-11-04 04:15:32",
       "album": {
-        "name": "Tak Ingin Pisah Lagi",
-        "url": "https://open.spotify.com/album/55EPRJFc0JAWKeLEFJogQ4"
+        "name": "Sekilas Info",
+        "url": "https://open.spotify.com/album/4TwZfsV3Rrj1XMbqMkTfxh"
       },
       "artists": [
         {
-          "name": "Marion Jola",
-          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
-        },
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+          "name": "Jason Ranti",
+          "url": "https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv"
         }
       ],
-      "duration_ms": 265518,
-      "name": "Tak Ingin Pisah Lagi",
-      "url": "https://open.spotify.com/track/67L0rPX2z7n44XBYStoHDg"
+      "duration_ms": 350626,
+      "name": "Lagunya Begini, Nadanya Begitu",
+      "url": "https://open.spotify.com/track/4YVBE2CDqxtNRGTPEMOQet"
     }
   ],
   "unique_name": "Kopikustik",

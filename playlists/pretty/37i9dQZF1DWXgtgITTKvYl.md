@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent prog rock track\. Cover: VOLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,562 likes - 75 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,616 likes - 75 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 74 | [We Will Not Disband](https://open.spotify.com/track/54f4ILCiEdfu2VuSmrXJ8Z) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI) | [Friend Of A Phantom](https://open.spotify.com/album/2Ry1qg9QGKAoAVImEjreSX) | 4:25 |
 | 75 | [Knuckledragger](https://open.spotify.com/track/3ut1Ywcb4pyHF1X5gqr6cX) | [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [PowerNerd \(Commentary Version\)](https://open.spotify.com/album/0YfOoDfixgytscAEf7NP0K) | 4:30 |
 
-Snapshot ID: `Zy2a0AAAAABy91N6sOw/4BEWdNOMyqdN`
+Snapshot ID: `Zy2a0AAAAAA7P3+7ic1momBcHwCxB917`

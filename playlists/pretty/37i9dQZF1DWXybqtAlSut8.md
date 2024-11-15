@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,568 likes - 61 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,650 likes - 61 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 | 60 | [Where the Roses Never Fade](https://open.spotify.com/track/7sQ9OH1DrisPzjoTOoxIZQ) | [Billie Chandler](https://open.spotify.com/artist/2j8sEmdITbTiI0ZABw6FR1) | [Where the Roses Never Fade](https://open.spotify.com/album/1gdqSzsLn5ExDEzaophMDr) | 3:51 |
 | 61 | [In Christ Alone](https://open.spotify.com/track/0oFzpmAIsjEDui3iZ2cfvj) | [Divine Refrains](https://open.spotify.com/artist/0ORcsXfAGHEFzVNBGobA1p) | [Great Is Thy Faithfulness](https://open.spotify.com/album/1NmCBI4tY3Y4rhutZzoLp2) | 2:30 |
 
-Snapshot ID: `Zysz5wAAAAA4ItXRyobBQxREe5JGu2dZ`
+Snapshot ID: `Zysz5wAAAAAcYg56onCtTzyPXTgYCZrD`

@@ -4,7 +4,7 @@
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-102 songs - 3 hr 59 min
+103 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Be Thou My Vision Lullaby](https://open.spotify.com/track/3P96LOcJuE4Aqzetsqnou2) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Calming Christmas Flow](https://open.spotify.com/album/3aXKEnziDwXCVJqbx97Jj9) | 1:06 | 2022-12-23 |  |
 | [Caroling, caroling](https://open.spotify.com/track/06zCr3KozocS9gzSAxmQwY) | [Manny Heights](https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb) | [Deck the hall](https://open.spotify.com/album/3IhZrMCx2OHwEqydGWTol4) | 2:26 | 2023-10-27 |  |
 | [Christ Child's Lullaby \(Instrumental Version\)](https://open.spotify.com/track/4mIDI8cbAsw2sVD4oG3vCl) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Christmas Sounds on Harp](https://open.spotify.com/album/4jiBc5Y3OuHOlllmKb0zb3) | 3:14 | 2021-12-22 |  |
+| [Christmas Baby \- Instrumental](https://open.spotify.com/track/76c0nnqGOlznWQXwK2XulW) | [The Night Owl](https://open.spotify.com/artist/0igPRkjHRxYJLdlstbp9MW) | [Christmas Lullabies for Babies \(2024\)](https://open.spotify.com/album/7u9tavkEHTc4tweyBdkDrA) | 3:06 | 2024-11-14 |  |
 | [Christmas Peace](https://open.spotify.com/track/5Jxv7KoYizZe91nA4PpaDY) | [Amy Yeager](https://open.spotify.com/artist/5xfWkvMNQZUL93sfFVRQqj) | [The Joy of Christmas](https://open.spotify.com/album/6wIKUnFppzUPdkXF4AvWiD) | 2:54 | 2021-12-22 |  |
 | [Christmas Traditions](https://open.spotify.com/track/4iyxrcCCOGaG3VYp2lMc04) | [Lue Miles](https://open.spotify.com/artist/2cxel74Dv32TWXq5q9sqAU) | [Christmas Traditions](https://open.spotify.com/album/4WoFoO86STGkrZmx7VtZpc) | 2:11 | 2023-10-27 |  |
 | [Deck The Halls](https://open.spotify.com/track/4E4q1ISp6Q416ozStCAZoK) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Do You Want to Build A Snowman?](https://open.spotify.com/album/6vaGiLu1MD3JcsZmkQXp6Q) | 1:50 | 2022-10-14 |  |

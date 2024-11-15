@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > <d4vd \- My House Is Not A Home Tour> 2024년 11월 7일\(목\) 오후 8시 @YES 24 라이브 홀\(서울\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,008 likes - 20 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,006 likes - 20 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 | 19 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 |
 | 20 | [Hollow Prayers](https://open.spotify.com/track/08uumZhgj0kq2AbQUoONHm) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:46 |
 
-Snapshot ID: `Zyif3AAAAAAzXAviR83FBE22r/4thmSX`
+Snapshot ID: `Zyif3AAAAADI4tjj9JXtafN8UR2ydOjh`

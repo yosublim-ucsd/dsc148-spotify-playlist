@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Stela Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,891 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,897 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 74 | [What Girls Do](https://open.spotify.com/track/7D3xPNBJRaGB7XBFYF1By4) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [What Girls Do](https://open.spotify.com/album/6JMfi3fZWlTORb7RK9odSj) | 2:16 |
 | 75 | [LIQUORLIPS](https://open.spotify.com/track/1F5EX18FztnE78ZHO4RwZV) | [MINOE](https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi), [Renon](https://open.spotify.com/artist/66puVL22TUX3DM6r0uZyyY) | [LIQUORLIPS](https://open.spotify.com/album/03eheqbsnGtzQThzoCkMj1) | 1:58 |
 
-Snapshot ID: `ZzJU6gAAAAAn/urhL9jNli1XnGBCRYWd`
+Snapshot ID: `ZzJU6gAAAAC05BQuFO51dijjpsuI4Vdh`

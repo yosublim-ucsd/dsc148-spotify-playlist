@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,898 likes - 40 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,902 likes - 40 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 39 | [背中](https://open.spotify.com/track/6PrYXrV8e4qS4Ur32gTDZB) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [背中](https://open.spotify.com/album/6TG3auKL2HVqJxXTTQYeeb) | 3:54 |
 | 40 | [3036](https://open.spotify.com/track/6OhKCdcuurrj5aQn9zLwfW) | [Hump Back](https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI) | [3036](https://open.spotify.com/album/76eUSTo7xPCKnXMOjWqDdX) | 1:10 |
 
-Snapshot ID: `ZzS+8AAAAAC5ekH+91J6VSnfWkhB2p+l`
+Snapshot ID: `ZzS+8AAAAADmxCeQoQjk8FovMh3kfLnS`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: 緑黄色社会
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,859 likes - 99 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,894 likes - 99 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 98 | [白紙](https://open.spotify.com/track/1AFl3lIvHdcOb7iQFW59xa) | [3markets\[ \]](https://open.spotify.com/artist/0HxV66MjdNTz6E2oHZxS6g) | [白紙](https://open.spotify.com/album/6WXtPVulGbLQwmExfNwQVe) | 3:15 |
 | 99 | [bug](https://open.spotify.com/track/5fehnt7xDsn8CIeKMrL1oF) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [inside = RED](https://open.spotify.com/album/4WhI9tKAQBCnMl5V9vocVY) | 2:46 |
 
-Snapshot ID: `ZzQA4AAAAACjjXJMBFQXXRj0PNnSBVSa`
+Snapshot ID: `ZzQA4AAAAACbbw1A+d9Zeij4059/nCW+`

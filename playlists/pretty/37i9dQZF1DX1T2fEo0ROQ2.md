@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 
 > Relaxing and salutary ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,132 likes - 222 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,248 likes - 222 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -231,4 +231,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 221 | [Sineway](https://open.spotify.com/track/5BuUke8soY1IIEeJK4eNkk) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Sineway](https://open.spotify.com/album/3pm1lsNsbrEeOAJqts6hOO) | 2:21 |
 | 222 | [Tempered Moon](https://open.spotify.com/track/5cK8BiZ9mdqO4gQbdb4ZzM) | [Brent Dockery](https://open.spotify.com/artist/08G5ITlau5oxxn5DnIGhQ2) | [Tempered Moon](https://open.spotify.com/album/1tUhnUIDFje9mfl2IxGU0Y) | 3:40 |
 
-Snapshot ID: `ZxJgFAAAAADrkYUrGTje9294l+WkxC92`
+Snapshot ID: `ZxJgFAAAAAA+86FcAzi6P1yVcqJQGkZA`

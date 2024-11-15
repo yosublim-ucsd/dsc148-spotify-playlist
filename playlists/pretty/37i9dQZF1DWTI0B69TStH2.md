@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:13oSIaWO38a4nof0RhZEh4">mimikyu</a>\. Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,430 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,429 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Matrix](https://open.spotify.com/track/7L3ndhJWSUitFAXWqrmFhz) | [Martwy piksel](https://open.spotify.com/artist/0iMBdu2ZCBkHyrnZbtHJzh) | [Martwy piksel](https://open.spotify.com/album/23NixRJw5Q3YUajKCDq7dG) | 3:22 |
 | 100 | [Dzień](https://open.spotify.com/track/7CsGNWI7nmh5uWiRuIXTdu) | [Kamil Wrona](https://open.spotify.com/artist/2ewJF8ZQ9MHv6Uljen8w8h), [Olga Okoń](https://open.spotify.com/artist/6G92WE7S7ghDg6h97hJqEn) | [Dzień](https://open.spotify.com/album/2Di5GTWwlBbSCqUlrAAFKd) | 3:29 |
 
-Snapshot ID: `ZzPsAAAAAACFLJyCFUJOzpH1dYqSotNm`
+Snapshot ID: `ZzPsAAAAAAAXtPbA40NGrzi+c/K1hATf`

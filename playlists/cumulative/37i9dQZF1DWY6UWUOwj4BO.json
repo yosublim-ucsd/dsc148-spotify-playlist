@@ -1991,6 +1991,24 @@
     },
     {
       "album": {
+        "name": "Si seulement...",
+        "url": "https://open.spotify.com/album/5WeG2R2qrK0vfJBfMR9Vap"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176106,
+      "name": "Si seulement... - Guitare / voix",
+      "url": "https://open.spotify.com/track/13RezTtAB3j8w8C9h1oRsI"
+    },
+    {
+      "album": {
         "name": "SNAP PACK",
         "url": "https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7"
       },
@@ -2092,7 +2110,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 184326,
       "name": "Take On Me - 2017 Acoustic",
       "url": "https://open.spotify.com/track/6NK9sI0Lnsiwn6I0MbWWxn"

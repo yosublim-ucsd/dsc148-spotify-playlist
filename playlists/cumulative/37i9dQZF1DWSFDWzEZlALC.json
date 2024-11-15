@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: JEREMIAS",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: frytz, Dominik Hartz",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "20iger",
+        "url": "https://open.spotify.com/album/4d4aAQfBHsJTjKWa6hpuGR"
+      },
+      "artists": [
+        {
+          "name": "AMBRA",
+          "url": "https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159622,
+      "name": "20iger",
+      "url": "https://open.spotify.com/track/60zfaAyColbs9dCXlykgGf"
+    },
+    {
+      "album": {
         "name": "21 N\u00e4chte wach",
         "url": "https://open.spotify.com/album/6caZhxBvEwyK4Am6qdSZXx"
       },
@@ -362,7 +380,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 148978,
       "name": "3 buchstaben",
       "url": "https://open.spotify.com/track/7nH2cvTPsZWW7kJiCjCGxg"
@@ -2306,7 +2324,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 136700,
       "name": "Blumenregen",
       "url": "https://open.spotify.com/track/1i74FVQ9rPwW9fpE3dnIGz"
@@ -2490,7 +2508,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 152933,
       "name": "bulletholes",
       "url": "https://open.spotify.com/track/1rhBLp3LOrjVWn8nxKgbZO"
@@ -2638,7 +2656,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 174707,
       "name": "charlie chaplin",
       "url": "https://open.spotify.com/track/4Hy9vWOgbNRCLL98dupmyB"
@@ -2844,7 +2862,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 189333,
       "name": "Daheim",
       "url": "https://open.spotify.com/track/70jxUq8a5GgI6rdQjksbx8"
@@ -3972,7 +3990,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 135082,
       "name": "eehhhyyy",
       "url": "https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq"
@@ -4080,7 +4098,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 130166,
       "name": "ein St\u00fcck meiner Angst",
       "url": "https://open.spotify.com/track/7KaVLknQCWw0WlQTZLvcsn"
@@ -4722,7 +4740,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 158808,
       "name": "Fall f\u00fcr dich",
       "url": "https://open.spotify.com/track/2ZLSbkFvtJlc8oMlm4qFaG"
@@ -5177,6 +5195,24 @@
     },
     {
       "album": {
+        "name": "freier fall",
+        "url": "https://open.spotify.com/album/5KUqQkMQVBolCpoJaAXW3D"
+      },
+      "artists": [
+        {
+          "name": "JOPPE",
+          "url": "https://open.spotify.com/artist/32SGyqDBvd9HrVhL3ulIvE"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164232,
+      "name": "freier fall",
+      "url": "https://open.spotify.com/track/4vGNeCPpopWVulbYqo7npP"
+    },
+    {
+      "album": {
         "name": "DUNKLSCHWARZ",
         "url": "https://open.spotify.com/album/5hRlIt8JdV5DaAMb1ANBfW"
       },
@@ -5210,7 +5246,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 165814,
       "name": "Fr\u00fchst\u00fcck bei Tiffany",
       "url": "https://open.spotify.com/track/19AcOqKvhhgagNly6AcHQC"
@@ -6078,7 +6114,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 130500,
       "name": "Gschpusi",
       "url": "https://open.spotify.com/track/7GeXLKwzAMLfld3bTBZUm0"
@@ -6194,6 +6230,28 @@
       "duration_ms": 120732,
       "name": "Hallo",
       "url": "https://open.spotify.com/track/66kh9O5vsEh4nKAb5jM5vc"
+    },
+    {
+      "album": {
+        "name": "Hals \u00fcber Kopf",
+        "url": "https://open.spotify.com/album/43o5uTxyHMoY9J4WHg9hya"
+      },
+      "artists": [
+        {
+          "name": "frytz",
+          "url": "https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO"
+        },
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139964,
+      "name": "Hals \u00fcber Kopf",
+      "url": "https://open.spotify.com/track/0bJET87Db6DDCGEbvaChdg"
     },
     {
       "album": {
@@ -8606,7 +8664,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 212600,
       "name": "lauf",
       "url": "https://open.spotify.com/track/2BoFXyQK51mh6C9lUQd8Ok"
@@ -8696,7 +8754,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 136744,
       "name": "LAVENDEL IM PARK",
       "url": "https://open.spotify.com/track/2PwfE3zcFtyqK7TYG24ypb"
@@ -9609,6 +9667,24 @@
     },
     {
       "album": {
+        "name": "mein bruder",
+        "url": "https://open.spotify.com/album/54UICToJ81Ouz3iwYyBZ3T"
+      },
+      "artists": [
+        {
+          "name": "Tiavo",
+          "url": "https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195750,
+      "name": "mein bruder",
+      "url": "https://open.spotify.com/track/5JDHokvDLJCfxwkTno51FM"
+    },
+    {
+      "album": {
         "name": "Mein Hass tritt dir die Haust\u00fcr ein",
         "url": "https://open.spotify.com/album/07k1Sn3IKG5YSVtEaWnJgp"
       },
@@ -9939,6 +10015,24 @@
     },
     {
       "album": {
+        "name": "mitternacht",
+        "url": "https://open.spotify.com/album/6p6oE4QlYjl9MDyS1bFx8H"
+      },
+      "artists": [
+        {
+          "name": "OSWALD",
+          "url": "https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146894,
+      "name": "mitternacht",
+      "url": "https://open.spotify.com/track/4AHCFsAT9wNWFHv0hxq3tb"
+    },
+    {
+      "album": {
         "name": "Mo-Fr",
         "url": "https://open.spotify.com/album/4etBEAEb9JcVFw1CwmgUmt"
       },
@@ -10066,6 +10160,24 @@
       "duration_ms": 121022,
       "name": "Moshpit",
       "url": "https://open.spotify.com/track/6QFyquVHheJrzJbuv8tWFY"
+    },
+    {
+      "album": {
+        "name": "mund zu mund",
+        "url": "https://open.spotify.com/album/2FzbNkp7DebWDas3H9bW2c"
+      },
+      "artists": [
+        {
+          "name": "Wolke 8",
+          "url": "https://open.spotify.com/artist/390O0PpgkmEe86SJOeqc26"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101461,
+      "name": "mund zu mund",
+      "url": "https://open.spotify.com/track/5IrYhQj2ej1EvxFxf0ke0i"
     },
     {
       "album": {
@@ -10565,6 +10677,24 @@
     },
     {
       "album": {
+        "name": "niemand",
+        "url": "https://open.spotify.com/album/2TZMcmePJ1zcZgjKKRu9tG"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146999,
+      "name": "niemand",
+      "url": "https://open.spotify.com/track/06jhkzbAB3mnnZGnySBnrh"
+    },
+    {
+      "album": {
         "name": "kleine Feuer",
         "url": "https://open.spotify.com/album/7pEVxmXGwVioPkQtRI1frc"
       },
@@ -10912,7 +11042,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 120926,
       "name": "Ohne Mich",
       "url": "https://open.spotify.com/track/37zLjLX8gKEnvUd0lKOy1v"
@@ -13477,6 +13607,24 @@
     },
     {
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/5o0H06rGfbETsssJeok0YI"
+      },
+      "artists": [
+        {
+          "name": "nand",
+          "url": "https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/0bhyA6wgnTz8ivLKMwNA41"
+    },
+    {
+      "album": {
         "name": "sowas von da (hellwach)",
         "url": "https://open.spotify.com/album/6apTYDBoUc9GxiSPyLZawl"
       },
@@ -13998,6 +14146,24 @@
       "duration_ms": 184985,
       "name": "Tanz In Deiner Wohnung",
       "url": "https://open.spotify.com/track/1HK0OkZNHBGUwG4BkcydKB"
+    },
+    {
+      "album": {
+        "name": "Tanzen",
+        "url": "https://open.spotify.com/album/22IcAvyJCl7mLyENnc0vAu"
+      },
+      "artists": [
+        {
+          "name": "BIBIZA",
+          "url": "https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162001,
+      "name": "Tanzen",
+      "url": "https://open.spotify.com/track/43VBNtrjwo5RMxfoeHp8ST"
     },
     {
       "album": {
@@ -14730,7 +14896,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 151097,
       "name": "unter uns",
       "url": "https://open.spotify.com/track/58Xbgro7vZDEtw0Zlky0kg"
@@ -16779,6 +16945,24 @@
     },
     {
       "album": {
+        "name": "\u00d6lgem\u00e4lde",
+        "url": "https://open.spotify.com/album/1iy5cLHpmnyu1bDZ7sc3Cb"
+      },
+      "artists": [
+        {
+          "name": "herbst",
+          "url": "https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184941,
+      "name": "\u00d6lgem\u00e4lde",
+      "url": "https://open.spotify.com/track/56yiPTwmaA4UzYVaIrsD2y"
+    },
+    {
+      "album": {
         "name": "\u00dcberdosis Mensch",
         "url": "https://open.spotify.com/album/0PF2ijCRI6Cs2Q5cD80nMe"
       },
@@ -16826,7 +17010,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 122874,
       "name": "\u00dcberlebt",
       "url": "https://open.spotify.com/track/6nlgaWkhi3E4VFPNwTMf0j"

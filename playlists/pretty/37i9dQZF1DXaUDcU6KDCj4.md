@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover:  Sarah Julia
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,608 likes - 150 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,800 likes - 150 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [The Idiot's Maze](https://open.spotify.com/track/08yVOTAwd1rwO6Vuqtajp5) | [Tucker Zimmerman](https://open.spotify.com/artist/6c3XGRQEI4x3hvu19S2X09), [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ), [Iji](https://open.spotify.com/artist/577ncuQtxXrM7Xi5itVG35), [Twain](https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW) | [The Idiot's Maze / The Season](https://open.spotify.com/album/1jUl6VvsQyQ7j5LfsFs2RE) | 6:03 |
 | 150 | [Whiskey Angel](https://open.spotify.com/track/4dkJAQlRswrkaapPJcOfys) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Ever\-Shifting, Continual Blossoming](https://open.spotify.com/album/2jHVzEpvZ8gV5zn5IywmRB) | 2:50 |
 
-Snapshot ID: `Zy2a0AAAAAC19IktKi+EVGVrgeKIgB2L`
+Snapshot ID: `Zy2a0AAAAACe9ccL2ph52e6+Yc65WdQm`

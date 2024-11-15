@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 
 > Découvrez les créateurs de demain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,901 likes - 15 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,905 likes - 15 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 | 14 | [A écouter en allant au travail pour te motiver](https://open.spotify.com/episode/3aB81PsRYPBhmsDsgtilKp) | [Pause Active ⏸️](https://open.spotify.com/show/63ARCSJ6dmDcfJ5oOHxTtX) | [Pause Active ⏸️](https://open.spotify.com/album/63ARCSJ6dmDcfJ5oOHxTtX) | 16:54 |
 | 15 | [Les trucs que j'ai kiffés en octobre](https://open.spotify.com/episode/41FhSnk3p4EonyyQTR9EmD) | [Pause Active ⏸️](https://open.spotify.com/show/63ARCSJ6dmDcfJ5oOHxTtX) | [Pause Active ⏸️](https://open.spotify.com/album/63ARCSJ6dmDcfJ5oOHxTtX) | 22:10 |
 
-Snapshot ID: `ZzMz9QAAAABgEZEs9J10uAqpPk8/4DHj`
+Snapshot ID: `ZzMz9QAAAAAWR44eI8t7ujrxdS4O0nuw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,877 likes - 130 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,466 likes - 130 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 129 | [Gamma Waves 89 + 86 hz](https://open.spotify.com/track/1C5ODl6oza5zRbwngivAK8) | [Electronic Waves](https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT) | [Gamma Waves](https://open.spotify.com/album/5Dp0GDyVIllMmM7yys2j3Z) | 3:01 |
 | 130 | [Alpha Thoughts 107Hz \- 114Hz](https://open.spotify.com/track/3ZQ5luO4yWFWf6GTp7P78b) | [Luna Waterfall](https://open.spotify.com/artist/4egqkDMoLIKSjt8gspCvyU) | [Flow State](https://open.spotify.com/album/1zPCdcZNYXqmltzGzRpkVU) | 4:35 |
 
-Snapshot ID: `ZyzMNgAAAAC8Mjexzgf7P+H3uesEiESl`
+Snapshot ID: `ZyzMNgAAAAAwiShbgV4JJD+MtqoTc7Ix`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: <a href="spotify:artist:1bdnGJxkbIIys5Jhk1T74v">Brandon Lake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,547 likes - 80 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,677 likes - 80 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 79 | [Take You At Your Word \(with Benjamin William Hastings\) \- Live](https://open.spotify.com/track/7k6FvX8WhPoYDHMl4QCavz) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [God Is Good! \(Live\)](https://open.spotify.com/album/4qZwzswmv5lNwLftPcVNBH) | 5:16 |
 | 80 | [Pour My Love On You](https://open.spotify.com/track/0THyR6FIUIrWVOQIYePq2p) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [Johnathan Lewis](https://open.spotify.com/artist/2B4QP8YMqWv21wljq3Cxwl) | [Moments: Near 007](https://open.spotify.com/album/4WAhiiG3HkSMh7OvFMGqRA) | 11:31 |
 
-Snapshot ID: `ZtGWSAAAAAAF1UbyXUHqltAYGj5wJHHq`
+Snapshot ID: `ZtGWSAAAAAB2+vHs1Js9UIjEGMuiDWOS`

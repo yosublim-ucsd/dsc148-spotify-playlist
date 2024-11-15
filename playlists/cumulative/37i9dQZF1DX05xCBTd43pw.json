@@ -817,6 +817,24 @@
     },
     {
       "album": {
+        "name": "Trottinette",
+        "url": "https://open.spotify.com/album/2sQnRepY5FEm0rgQpAvfKq"
+      },
+      "artists": [
+        {
+          "name": "Marie Jay",
+          "url": "https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214340,
+      "name": "Fomo",
+      "url": "https://open.spotify.com/track/1iho6JCCMpTS2yLHocyOeQ"
+    },
+    {
+      "album": {
         "name": "For The Night",
         "url": "https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw"
       },
@@ -2478,7 +2496,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 164425,
       "name": "T\u00fa y Yo",
       "url": "https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > The calming space of Japanese Ambient and Environmental music\. Kenichiro Isoda on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,775 likes - 169 songs - 12 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,872 likes - 169 songs - 12 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 168 | [Celeste = Sky Blue](https://open.spotify.com/track/77AxYrrtLw02YTBZvSvota) | [ワールドスタンダード](https://open.spotify.com/artist/5RptDaZ5MAjH5IYykyt3DI) | [World Standard II \(2021 Remastered\)](https://open.spotify.com/album/5bfEOTKHIu0ECorUAIog9D) | 5:02 |
 | 169 | [Origami Rework](https://open.spotify.com/track/6O1SMGwmO1cfTaZQss2Th5) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Origami Rework](https://open.spotify.com/album/6sb6CRPwYwl3HuHlJstQS3) | 3:05 |
 
-Snapshot ID: `Zxx2MwAAAABEg2S1Rcl0KNj0jieTNrTZ`
+Snapshot ID: `Zxx2MwAAAACYtb7/2a9QXjqsPQUStsOV`

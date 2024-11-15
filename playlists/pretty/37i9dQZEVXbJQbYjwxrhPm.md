@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 616 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 620 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 |
 | 50 | [К'ъв съм як](https://open.spotify.com/track/6z6PaDoMisMAHCB2OKwsrf) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [К'ъв съм як](https://open.spotify.com/album/7j3nIj23kSaqcZ0bYaWswl) | 3:15 |
 
-Snapshot ID: `LsgTyAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LslnoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2024 RADAR登場！持續發掘世一超新聲！Cover: Goo Chan
+> 2024 RADAR登場！持續發掘世一超新聲！Cover: Joya
 
-214 songs - 12 hr 26 min
+215 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Doll](https://open.spotify.com/track/718j4dLgigKSHiRYiHuhMC) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Doll](https://open.spotify.com/album/233GhcZaDayKcSfRtx5rW3) | 3:31 | 2024-01-11 |  |
 | [Feelings](https://open.spotify.com/track/0WkAHpwITTLqlhYVoxMOYp) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [Feelings](https://open.spotify.com/album/0fze6yVFkk6MrYRcneUrZq) | 3:33 | 2022-05-26 | 2023-04-14 |
 | [FINE WINE](https://open.spotify.com/track/2TKieTpuTR9fs9u476JpQ3) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6) | [FINE WINE](https://open.spotify.com/album/0fQfupuh1UH7VTkUx4kM1l) | 2:49 | 2023-09-15 | 2024-03-29 |
-| [Fireflies](https://open.spotify.com/track/26BGPHSmjchqcViaelHuJj) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu), [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [Fireflies](https://open.spotify.com/album/5mMABLGwyj57ar2ltq9LQ7) | 3:10 | 2024-07-04 |  |
+| [Fireflies](https://open.spotify.com/track/26BGPHSmjchqcViaelHuJj) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu), [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [Fireflies](https://open.spotify.com/album/5mMABLGwyj57ar2ltq9LQ7) | 3:10 | 2024-07-04 | 2024-11-15 |
 | [FIREFLY](https://open.spotify.com/track/2BCiUbp91GsIFGJ5STNJb5) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [FIREFLY](https://open.spotify.com/album/47RtToMA85gdb9x5weDMLy) | 3:37 | 2023-04-13 | 2024-03-29 |
 | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/track/3ksUlJXEkMyLt7Tm4sC2aq) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/album/02xnWnxfcuIKgAXpj1qsx9) | 3:04 | 2023-07-06 | 2024-03-29 |
 | [FreeRider](https://open.spotify.com/track/1JKg8ZhDLC3GDBqTGLfoAI) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [FreeRider](https://open.spotify.com/album/5VHmrHGQOVgx9pOqPo9UWJ) | 3:34 | 2022-05-26 | 2023-04-14 |
@@ -65,6 +65,7 @@
 | [Jennie](https://open.spotify.com/track/07ZymFLkrJfiWIJBbr2HAG) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:16 | 2022-05-26 | 2023-04-14 |
 | [L\-O\-V\-E](https://open.spotify.com/track/16t8e2uj33zEgLCFMITC8P) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6) | [L\-O\-V\-E](https://open.spotify.com/album/4OCkp5uGvoBYHAegskOy8C) | 3:00 | 2023-09-15 | 2024-03-29 |
 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 | 2022-05-26 | 2023-04-14 |
+| [Let's Stay In](https://open.spotify.com/track/4ez32AQQjqjw4F1hItmqA0) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Let's Stay In](https://open.spotify.com/album/6zMofv6OrGxA1VG1Kuex1r) | 2:30 | 2024-11-14 |  |
 | [Letter](https://open.spotify.com/track/2lbvrvkQz9KBViH9DqIHh3) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [Letter](https://open.spotify.com/album/4FHTXsdIaOURNZksJ5OduD) | 2:52 | 2022-11-10 |  |
 | [Like A Fool](https://open.spotify.com/track/74KUVmTg0RB1lqyfNIRN2Z) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [Like A Fool](https://open.spotify.com/album/6aSI7yKwnsDDr6JL0oSZud) | 2:24 | 2024-02-22 |  |
 | [Like a moth to a flame](https://open.spotify.com/track/3cOKFEcuKcOz1DkVqcdLCu) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Like a moth to a flame](https://open.spotify.com/album/4icgEpwdhmocUOOqL9wtC6) | 3:23 | 2022-05-26 | 2023-03-31 |

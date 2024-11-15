@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,582 likes - 290 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,874 likes - 290 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -299,4 +299,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 289 | [Comets](https://open.spotify.com/track/0ccinu2Kf1KDBWFIzqiWEb) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Comets](https://open.spotify.com/album/5t8o0o0pI1QJQGx9COpQMf) | 2:05 |
 | 290 | [Lilac](https://open.spotify.com/track/4c3RnkPEPZPZINK6l9GPZp) | [Colours in Context](https://open.spotify.com/artist/4CHVFfmgOpcOMB3d3B0uwO) | [Lilac](https://open.spotify.com/album/4FcL5BbWZxsNVVBlLqjVIl) | 2:22 |
 
-Snapshot ID: `ZxsXwAAAAAAPh+uWo9AoHzyBYfoA5WQy`
+Snapshot ID: `ZxsXwAAAAABD1zw4k7ElImhhzoLN2Wpp`

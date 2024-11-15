@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Kybba",
+  "description": "Les hits dancehall du moment. Photo : Meryl",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -151,6 +151,24 @@
     },
     {
       "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/51rgTb76bM2qKhLKHXwu01"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138890,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/6ezATTHYnflOCxzHmRCgRN"
+    },
+    {
+      "album": {
         "name": "Ah wa do dem",
         "url": "https://open.spotify.com/album/2H6Si7tmU9EdlKxQl7AoGA"
       },
@@ -224,6 +242,28 @@
       "duration_ms": 172970,
       "name": "Alegria",
       "url": "https://open.spotify.com/track/22LdVB5ygfxXiaAJuStP2s"
+    },
+    {
+      "album": {
+        "name": "J'AI MENTI.",
+        "url": "https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        },
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Alpha",
+      "url": "https://open.spotify.com/track/1y7dY7Xu4nWM4SK2dEnoAT"
     },
     {
       "album": {
@@ -1220,7 +1260,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 138000,
       "name": "BONBON",
       "url": "https://open.spotify.com/track/1RYyZOfxHdNRP8iddTFsr4"
@@ -2875,6 +2915,24 @@
     },
     {
       "album": {
+        "name": "Fanm Kapab",
+        "url": "https://open.spotify.com/album/5AHse63gIiYEWbsgi8rm8G"
+      },
+      "artists": [
+        {
+          "name": "T-Jy",
+          "url": "https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120254,
+      "name": "Fanm kapab",
+      "url": "https://open.spotify.com/track/5hmiTNxm6RbyO3mfeAJ89x"
+    },
+    {
+      "album": {
         "name": "Fanm Paka M\u00e9rit\u00e9 Mwen",
         "url": "https://open.spotify.com/album/3AiXDCnhgh5K9tf3hiNB6Z"
       },
@@ -2992,7 +3050,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 102276,
       "name": "FEELING",
       "url": "https://open.spotify.com/track/4ER1c7cbu2CUfcAcNk3ZIz"
@@ -3862,7 +3920,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 163369,
       "name": "Hmm (feat. Popcaan)",
       "url": "https://open.spotify.com/track/6NlCxCDyNBtjwXw2sa9gkU"
@@ -4682,6 +4740,24 @@
       "duration_ms": 112279,
       "name": "Kompet",
       "url": "https://open.spotify.com/track/5xsXZb32iVcnWrjSURBCkC"
+    },
+    {
+      "album": {
+        "name": "KONGOLESE SOUS BBL",
+        "url": "https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164234,
+      "name": "KONGOLESE SOUS BBL",
+      "url": "https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF"
     },
     {
       "album": {
@@ -5674,7 +5750,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 117600,
       "name": "Mon BB est f\u00e2ch\u00e9",
       "url": "https://open.spotify.com/track/6QAGhkjWPHdZCkYVIgwwIr"
@@ -9495,6 +9571,28 @@
     },
     {
       "album": {
+        "name": "WDMD",
+        "url": "https://open.spotify.com/album/3WxmAyAR6bafW8qVZg63IP"
+      },
+      "artists": [
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        },
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "WDMD",
+      "url": "https://open.spotify.com/track/7GirVr6QNVzWIMzotndrjs"
+    },
+    {
+      "album": {
         "name": "We Caa Done (feat. Drake)",
         "url": "https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5"
       },
@@ -9682,7 +9780,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 157935,
       "name": "Whippin",
       "url": "https://open.spotify.com/track/73jr3utBPfn5ro0m4v2YQV"

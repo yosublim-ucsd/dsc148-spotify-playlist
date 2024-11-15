@@ -1,12 +1,12 @@
 {
   "description": "the deep & minimal side of tech house \u26cf\ufe0f\u26cf\ufe0f  with Michael Bibi",
-  "num_followers": 42883,
+  "num_followers": 43357,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzTfvgAAAADuoKk+4f6BnW5wEqOlgkx1",
+  "snapshot_id": "ZzYW0QAAAAApsf6CKLfvjPFqLkvdjsR7",
   "tracks": [
     {
       "added_at": "2024-11-06 22:50:08",
@@ -153,6 +153,22 @@
       "url": "https://open.spotify.com/track/2kOP8eEvrgn2L53r4HXRpg"
     },
     {
+      "added_at": "2024-11-13 17:19:58",
+      "album": {
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/6X5dCT7VZAJOz4bKnAzGEC"
+      },
+      "artists": [
+        {
+          "name": "Pedro Borlado",
+          "url": "https://open.spotify.com/artist/4uPPVg3u7IDBNqcDSNsJA7"
+        }
+      ],
+      "duration_ms": 238153,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/07Jz0As8Arxyk2Lv65Evhd"
+    },
+    {
       "added_at": "2024-11-06 22:50:08",
       "album": {
         "name": "Big Smoke's",
@@ -171,22 +187,6 @@
       "duration_ms": 141395,
       "name": "Big Smoke's",
       "url": "https://open.spotify.com/track/59UkpYdovZOPwPFxJ7QfKB"
-    },
-    {
-      "added_at": "2024-11-13 17:19:58",
-      "album": {
-        "name": "Smack Yo'",
-        "url": "https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 245669,
-      "name": "Smack Yo'",
-      "url": "https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -243,18 +243,18 @@
     {
       "added_at": "2024-11-13 17:19:58",
       "album": {
-        "name": "First Light",
-        "url": "https://open.spotify.com/album/6X5dCT7VZAJOz4bKnAzGEC"
+        "name": "Smack Yo'",
+        "url": "https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm"
       },
       "artists": [
         {
-          "name": "Pedro Borlado",
-          "url": "https://open.spotify.com/artist/4uPPVg3u7IDBNqcDSNsJA7"
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
         }
       ],
-      "duration_ms": 238153,
-      "name": "First Light",
-      "url": "https://open.spotify.com/track/07Jz0As8Arxyk2Lv65Evhd"
+      "duration_ms": 245669,
+      "name": "Smack Yo'",
+      "url": "https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
+        "name": "Trip Advisor EP",
+        "url": "https://open.spotify.com/album/1410SX4Jl2z7RmU7uP1zH8"
+      },
+      "artists": [
+        {
+          "name": "Sidney Charles",
+          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Trip Advisor (Rhythm, Snare, Bass)",
+      "url": "https://open.spotify.com/track/5kimJnpTUUYKMs8wccI0w2"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
         "name": "Little Man (Proud Of You)",
         "url": "https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 136615,
       "name": "Stolen Dub",
       "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Trip Advisor EP",
-        "url": "https://open.spotify.com/album/1410SX4Jl2z7RmU7uP1zH8"
-      },
-      "artists": [
-        {
-          "name": "Sidney Charles",
-          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Trip Advisor (Rhythm, Snare, Bass)",
-      "url": "https://open.spotify.com/track/5kimJnpTUUYKMs8wccI0w2"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "In You",
-        "url": "https://open.spotify.com/album/3E6s76Yr4EoYnGOrV1CivY"
-      },
-      "artists": [
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        }
-      ],
-      "duration_ms": 373920,
-      "name": "In You",
-      "url": "https://open.spotify.com/track/5NBkCWj7qzq2pKix4wHOQh"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Playing With Foc...",
         "url": "https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 390000,
       "name": "Playing With Foc...",
       "url": "https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "In You",
+        "url": "https://open.spotify.com/album/3E6s76Yr4EoYnGOrV1CivY"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        }
+      ],
+      "duration_ms": 373920,
+      "name": "In You",
+      "url": "https://open.spotify.com/track/5NBkCWj7qzq2pKix4wHOQh"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1443,22 +1443,6 @@
       "duration_ms": 300041,
       "name": "Ready For The Blues",
       "url": "https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Fascinator EP",
-        "url": "https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR"
-      },
-      "artists": [
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        }
-      ],
-      "duration_ms": 369230,
-      "name": "Break It Down",
-      "url": "https://open.spotify.com/track/5o73OVgK6juFXhIZiP4yKf"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
+        "name": "Fascinator EP",
+        "url": "https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        }
+      ],
+      "duration_ms": 369230,
+      "name": "Break It Down",
+      "url": "https://open.spotify.com/track/5o73OVgK6juFXhIZiP4yKf"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
         "name": "Don't Need You",
         "url": "https://open.spotify.com/album/0PPkYyY12AtX7YeI4N0xuX"
       },
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
+        "name": "ROCK THIS",
+        "url": "https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE"
+      },
+      "artists": [
+        {
+          "name": "Sergio Saffe",
+          "url": "https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT"
+        }
+      ],
+      "duration_ms": 204375,
+      "name": "ROCK THIS",
+      "url": "https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
         "name": "Bass Go Boom (Collier Remix)",
         "url": "https://open.spotify.com/album/7jDzqqtw3O7q33iLA7LhlH"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 168327,
       "name": "Bass Go Boom - Collier Remix",
       "url": "https://open.spotify.com/track/1nTHK6Qln7sWicfmlhMUe7"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "ROCK THIS",
-        "url": "https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE"
-      },
-      "artists": [
-        {
-          "name": "Sergio Saffe",
-          "url": "https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "ROCK THIS",
-      "url": "https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV"
     },
     {
       "added_at": "2024-11-06 22:50:08",

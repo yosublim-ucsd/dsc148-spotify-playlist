@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NeseHaSkSz.md) - [plain]
 
 > Indian flute and nature sounds transport you to a hidden sacred place deep in the woods..\. Escape to your inner sanctuary to find recovery, healing and tranquility.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,312 likes - 115 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,448 likes - 115 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NeseHaSkSz.md) - [plain]
 | 114 | [Forest Zen](https://open.spotify.com/track/5XMYAJZVTKVDLwWHu5bjV9) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Forest Zen](https://open.spotify.com/album/4RXntU6pbX3LWLXQFQGgrp) | 2:35 |
 | 115 | [Hope](https://open.spotify.com/track/65jM7hkw0Nm0fJMiVMYw5b) | [Inner Soundscape](https://open.spotify.com/artist/4kzC9vZGmg6KYDHlI7f3ce), [Jonas Sjöblom](https://open.spotify.com/artist/3jglZKe9rgIy3nielm7ORi) | [Hope](https://open.spotify.com/album/1szdQT7PlIeZaZQ06MkKP8) | 3:48 |
 
-Snapshot ID: `ZwY//QAAAACNSxNsE7Y71eOdnrlsvz2y`
+Snapshot ID: `ZwY//QAAAABPxLmKFPDWcGPpQJZ735VJ`

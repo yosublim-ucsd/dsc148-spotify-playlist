@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 
 > An immersive solfeggio frequency used by many for balance, healing and removing negative energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,706 likes - 86 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,755 likes - 86 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 | 85 | [417 Hz Harmonic Shift](https://open.spotify.com/track/1DnOEBxHsGKMAhhrHGMf2K) | [Sigmund Clyde](https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F) | [Harmonic Shift 417 Hz](https://open.spotify.com/album/4ydVRSRbizt3dBpAS0PUQ5) | 2:50 |
 | 86 | [417 Hz Energetic Reset](https://open.spotify.com/track/3ipz2zfAzd5mWn7xPtnAQb) | [Tottori](https://open.spotify.com/artist/2cxaVq3RTbmSCpIv1jBvSp) | [417 Hz Energetic Reset](https://open.spotify.com/album/0JII5OGX9LqCRTvn7thHwI) | 2:45 |
 
-Snapshot ID: `ZxpTJgAAAABrrdVZK/kJyVGA3MfMiP7L`
+Snapshot ID: `ZxpTJgAAAAD/jz9FrTcklnbjL44n6TZM`

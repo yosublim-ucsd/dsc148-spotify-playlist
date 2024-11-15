@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFbKNOYZlTp.md) - [plain]
 
 > Our editor’s picks for the biggest songs from Our Generation in 2023\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,933 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,932 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFbKNOYZlTp.md) - [plain]
 | 74 | [London Outta Luck](https://open.spotify.com/track/0VyASRiKcrlG0Dmb1f9G5I) | [NiNE8](https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG) | [London Outta Luck](https://open.spotify.com/album/0Of10mX9WffyzeGjSsSDi5) | 4:09 |
 | 75 | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 2:30 |
 
-Snapshot ID: `ZWcrRAAAAAAb95AeJlOo/YTrkcpU6X13`
+Snapshot ID: `ZWcrRAAAAAAerG9N1OBYFvTO4/CHsZQA`

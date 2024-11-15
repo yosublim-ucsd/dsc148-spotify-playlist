@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Billy Strings
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,427 likes - 149 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,463 likes - 149 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 148 | [Too Cool](https://open.spotify.com/track/4XXrg1gGffTbij2VT4tXH8) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [Too Cool](https://open.spotify.com/album/6GFiyFBfPaIbjqa8aHsRrn) | 2:13 |
 | 149 | [I Can’t Find You at All](https://open.spotify.com/track/0mERVF4Cd50jflV6c51ZKY) | [AJ Lee & Blue Summit](https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [I Can’t Find You at All](https://open.spotify.com/album/4E3OhWp4jOtAGhVIbIviRf) | 3:22 |
 
-Snapshot ID: `ZzPoqQAAAAD0x6yY9BUqnHka5i6ANe/V`
+Snapshot ID: `ZzPoqQAAAAAOXc565Wk1Kk/EDsUJEn6U`

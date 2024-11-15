@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > rock never dies\. Cover: Amira Elfeky
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,562,254 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,562,144 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 74 | [Under My Skin](https://open.spotify.com/track/2YL1nqQAZbiJFey1mwVCXu) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Under My Skin](https://open.spotify.com/album/1eKbAWza2LQkWIe2PBBjyG) | 3:32 |
 | 75 | [Thought You Were Waving](https://open.spotify.com/track/6kPUaajgvBhYzPaOZvJu40) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Thought You Were Waving](https://open.spotify.com/album/1mE2RqG2uYU5AllM8m2LMv) | 3:02 |
 
-Snapshot ID: `Zy2a0AAAAAD8kYOESGYzFfr20OKZ+LOc`
+Snapshot ID: `Zy2a0AAAAADlK7zKlJXA538ci/2SrMq4`

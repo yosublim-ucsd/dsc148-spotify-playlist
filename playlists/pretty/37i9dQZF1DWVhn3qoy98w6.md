@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: EDDI CIRCA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,202 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,207 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Ojos bonitos](https://open.spotify.com/track/7ErcmpT4tRXiGYT5qnJ21U) | [Las Nenas](https://open.spotify.com/artist/5RMPrDy0GZ8rMsuhvw8cs9) | [Ojos bonitos](https://open.spotify.com/album/3njsGzpBLIdyHdOQH5Rc8v) | 1:32 |
 | 50 | [Fiesta en el Cementerio](https://open.spotify.com/track/4KpD9a1NviySqJHWjwSYGq) | [rumbos](https://open.spotify.com/artist/7qNftOu0DUIDh1Gd6Gy8LQ), [Anselmos](https://open.spotify.com/artist/2uUuNmTYEBiQEB5qOWbAHO) | [Fiesta en el Cementerio](https://open.spotify.com/album/63wm1svxEPCg1t6vd69oIv) | 2:56 |
 
-Snapshot ID: `ZzRtuAAAAADQzM9CAIjVWTuNQpP3YoyT`
+Snapshot ID: `ZzRtuAAAAAD5AgmiHIwXK4Q2yk10slrm`

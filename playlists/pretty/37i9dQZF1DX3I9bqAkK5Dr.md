@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,723 likes - 77 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,727 likes - 77 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 76 | [Naa Friendhemo Pelli](https://open.spotify.com/track/1Xdn6Jvs5Z5WntxmciIwCP) | [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk), [Jayathi](https://open.spotify.com/artist/6qcblFUBA90tZxWievgx3G) | [Naa Friendhemo Pelli](https://open.spotify.com/album/5R1mBqMQYhJRGY4ONj88Yv) | 4:43 |
 | 77 | [Kannullo Kala \- Manoharam](https://open.spotify.com/track/1GPnihVegNhrL1qbV2WMqh) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Kannullo Kala \(Manoharam\)](https://open.spotify.com/album/0vClCsoWXpytyztm9vWEcs) | 3:44 |
 
-Snapshot ID: `ZzSq3gAAAADaKm7n3b8XNqRcDPRp/iy9`
+Snapshot ID: `ZzSq3gAAAABOh5qu0KwOwcKHFnQ9dXHN`

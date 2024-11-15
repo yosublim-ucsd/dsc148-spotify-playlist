@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 
 ### [EQUAL Hungary](https://open.spotify.com/playlist/37i9dQZF1DX79N7buKOmiE)
 
-> Hallgasd teljes hangerővel ezeket a kíváló női előadókat\. A lejátszási listát részben csherihanna készítette
+> Hallgasd teljes hangerővel ezeket a kíváló női előadókat\. A lejátszási listát részben cserihanna készítette
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,434 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,436 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 48 | [lucky](https://open.spotify.com/track/4xBHs2zyixjfWAF7OSycQM) | [boebeck](https://open.spotify.com/artist/6Bdydd2cS9I76SEGl4uqmH) | [lucky](https://open.spotify.com/album/4an2ZAOlPeC9tehLeMHH8c) | 5:12 |
 | 49 | [d.a.u.g.h.t.e.r](https://open.spotify.com/track/3N8kLOPD2r86iVNWqOhy3N) | [The Anahit](https://open.spotify.com/artist/1MaK1Vfc104UBALiVspffb) | [d.a.u.g.h.t.e.r](https://open.spotify.com/album/08EjEsSZIxuJPjTducxUYC) | 2:28 |
 
-Snapshot ID: `ZyqjcAAAAACr+lPMx9Va3+0eGrZBaoMN`
+Snapshot ID: `ZzXFQAAAAAACY2t7zs9qi0onKyQPZROT`

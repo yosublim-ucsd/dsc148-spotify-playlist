@@ -4,7 +4,7 @@
 
 > 
 
-223 songs - 15 hr 10 min
+224 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks) | 4:27 | 2024-07-26 |  |
 | [U Got That](https://open.spotify.com/track/6raUUjOswDxI6c4ELU0KnQ) | [Halogen](https://open.spotify.com/artist/0Za5KjrhmN4OYMr04f3g1e) | [U Got That](https://open.spotify.com/album/53TgsMdAWXNmBx7BJMJiJz) | 3:07 | 2019-08-03 |  |
 | [Underwater \(feat\. Meron Ryan\)](https://open.spotify.com/track/3SIsf8XxAkmVamndeRNVa1) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Meron Ryan](https://open.spotify.com/artist/5sp1KhgKd6NVt83alP5T7G) | [Timeless EP](https://open.spotify.com/album/1bQSMFIWID72F4LIluCnB9) | 4:52 | 2016-01-15 |  |
+| [Usurper](https://open.spotify.com/track/2N6OKoPGG9UzBoYDxw3b3j) | [NXCRE](https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw), [The Villains](https://open.spotify.com/artist/3u5FARONWz8eCYD5hPsd5k) | [Usurper](https://open.spotify.com/album/7lLQhAy2wayD8je3xYGID8) | 3:35 | 2024-11-15 |  |
 | [Vagrant](https://open.spotify.com/track/1M85o2ruB9uTj68dIXj6dJ) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Vagrant](https://open.spotify.com/album/7KPjaI7hStPVhmGW7UM6ay) | 4:28 | 2016-07-14 |  |
 | [Valentine](https://open.spotify.com/track/3jTVk3yYzJ1QMkymFjIjid) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Kingdom in Blue](https://open.spotify.com/album/4n4VJqnZTaPg41iDIakpmE) | 3:51 | 2020-10-05 |  |
 | [Wait](https://open.spotify.com/track/042vge6apfznZWHPOLIMZ9) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa) | [Wait](https://open.spotify.com/album/4hMqqOHorCn79YxfBB9eNL) | 4:33 | 2016-01-14 |  |

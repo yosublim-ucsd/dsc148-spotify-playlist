@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 94515,
+  "num_followers": 94544,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZTrO6gAAAABYQjqWbp/RxazQE581ZkLV",
+  "snapshot_id": "ZTrO6gAAAADl3V2hZx8qiBm/3awCT7fx",
   "tracks": [
     {
       "added_at": "2023-10-26 20:41:14",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Maintain",
+        "url": "https://open.spotify.com/album/6DebFF03htFDbSBppriyyM"
+      },
+      "artists": [
+        {
+          "name": "Cybotron",
+          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
+        }
+      ],
+      "duration_ms": 296013,
+      "name": "Maintain",
+      "url": "https://open.spotify.com/track/3YEtKgCDIWcMpX7tSndngc"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "When We Used To Play",
         "url": "https://open.spotify.com/album/6pIUwQ9AJrFCIeEoo1H2nC"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 341106,
       "name": "Tedra",
       "url": "https://open.spotify.com/track/6Au8dwqW17E3rykzOtXzqn"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Maintain",
-        "url": "https://open.spotify.com/album/6DebFF03htFDbSBppriyyM"
-      },
-      "artists": [
-        {
-          "name": "Cybotron",
-          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
-        }
-      ],
-      "duration_ms": 296013,
-      "name": "Maintain",
-      "url": "https://open.spotify.com/track/3YEtKgCDIWcMpX7tSndngc"
     }
   ],
   "unique_name": "Detroit Techno",

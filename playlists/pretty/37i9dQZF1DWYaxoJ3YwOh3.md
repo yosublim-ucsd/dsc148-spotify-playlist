@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,511 likes - 89 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,590 likes - 89 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 | 88 | [432hz Sea of Fog](https://open.spotify.com/track/6sV4fBPsUMAiEIygFXViK1) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [432hz Healing Sounds from the Middle East](https://open.spotify.com/album/7b9a4k1YkKNFFreXM6Z6Jn) | 3:54 |
 | 89 | [Raqsat Albedoi](https://open.spotify.com/track/6wWZm0XT0b6OGL1tv9NXbk) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Ahmed Mukhtar](https://open.spotify.com/artist/1hx8suKwq86AfSk8LcgFTa), [Sattar Al\-Saadi](https://open.spotify.com/artist/7jVCcEEugAHRdcJDtoALXH) | [Music form Iraq: Rhythms of Baghdad](https://open.spotify.com/album/6w5z3w1ERocTpLeC242aEz) | 5:27 |
 
-Snapshot ID: `ZxubrgAAAADhufl3y/UIB7DYYTOWrYBh`
+Snapshot ID: `ZxubrgAAAAATMYDu6G13syzbSu80gtH6`

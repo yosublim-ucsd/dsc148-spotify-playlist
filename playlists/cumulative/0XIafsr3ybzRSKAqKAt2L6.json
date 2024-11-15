@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Sweden",
+        "url": "https://open.spotify.com/album/4GrOQPr3gfZe2rXCrTKiFV"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245533,
+      "name": "Prana Ferox",
+      "url": "https://open.spotify.com/track/4slVzDazfrXQrJRcXT6fsS"
+    },
+    {
+      "album": {
         "name": "The Fall of Hobo Johnson",
         "url": "https://open.spotify.com/album/3QrkHSj8pBzE1Kwhpnktkw"
       },

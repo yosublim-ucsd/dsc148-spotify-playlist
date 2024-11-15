@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Shaka Ponk",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Last Train",
   "name": "Volume France",
   "tracks": [
     {
@@ -254,7 +254,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 301000,
       "name": "All These Boys",
       "url": "https://open.spotify.com/track/5X3tiRohIHEtioK3pSqdSj"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 162000,
       "name": "B/W Rainbow",
       "url": "https://open.spotify.com/track/0jhy2QigktS8s6StS0eJPW"
@@ -1057,6 +1057,28 @@
     },
     {
       "album": {
+        "name": "Crush The Mirrors (feat. Chunk! No, Captain Chunk!)",
+        "url": "https://open.spotify.com/album/54wXLq9h6wGR36g1HZuDE9"
+      },
+      "artists": [
+        {
+          "name": "Storm Orchestra",
+          "url": "https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR"
+        },
+        {
+          "name": "Chunk! No, Captain Chunk!",
+          "url": "https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236187,
+      "name": "Crush The Mirrors (feat. Chunk! No, Captain Chunk!)",
+      "url": "https://open.spotify.com/track/1PoheUFbSwY776XkboYweZ"
+    },
+    {
+      "album": {
         "name": "Curse",
         "url": "https://open.spotify.com/album/3prw2GR8dd3xJB9b1jWSx5"
       },
@@ -1086,7 +1108,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 143994,
       "name": "Cut Me Down",
       "url": "https://open.spotify.com/track/6rhLBMMmq3CysCX1yz2utB"
@@ -1212,7 +1234,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 244296,
       "name": "Downcast",
       "url": "https://open.spotify.com/track/2u87z2dIbSA5PNIik6bLM5"
@@ -1597,6 +1619,24 @@
     },
     {
       "album": {
+        "name": "Get Free",
+        "url": "https://open.spotify.com/album/7nKORKUXHUBeUrEFjlGU6n"
+      },
+      "artists": [
+        {
+          "name": "No Money Kids",
+          "url": "https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134622,
+      "name": "Get Free",
+      "url": "https://open.spotify.com/track/5UHgI0oJJNhfGiPf3MzED7"
+    },
+    {
+      "album": {
         "name": "Get Over",
         "url": "https://open.spotify.com/album/2t5JTvKhXebh2X6WSwim44"
       },
@@ -1810,7 +1850,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 273285,
       "name": "Hole",
       "url": "https://open.spotify.com/track/3PoIPfMHUqAzXm33jdWXXn"
@@ -2318,7 +2358,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 300364,
       "name": "Keep My Head",
       "url": "https://open.spotify.com/track/4XlAOyhVWgOgelpqScS1YE"
@@ -2336,7 +2376,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 175084,
       "name": "Kiss Of Death",
       "url": "https://open.spotify.com/track/3OYp1OJFwgv3gNzqG2Dq7X"
@@ -2642,7 +2682,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 199573,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/2fqmP6cuTPi6gqPZo5Grxn"
@@ -3211,6 +3251,24 @@
     },
     {
       "album": {
+        "name": "Serenades & Damnation",
+        "url": "https://open.spotify.com/album/79QIKppGtZMRDgLInxJy0B"
+      },
+      "artists": [
+        {
+          "name": "Dead Chic",
+          "url": "https://open.spotify.com/artist/4hCjCdMZF65nKTdjsPUvfh"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252074,
+      "name": "Pain Love Joy",
+      "url": "https://open.spotify.com/track/2fGgUw1WuhAQroHjdL2PUb"
+    },
+    {
+      "album": {
         "name": "Painful Attraction",
         "url": "https://open.spotify.com/album/43Eq97wg7bmKBwOWGxuzqf"
       },
@@ -3280,6 +3338,24 @@
       "duration_ms": 119053,
       "name": "Perdu !",
       "url": "https://open.spotify.com/track/3PIF5IalvXFUmghnlRqRMY"
+    },
+    {
+      "album": {
+        "name": "INSIDE OUT MVMT",
+        "url": "https://open.spotify.com/album/30wfO7BWBORF5xmFF0NEqZ"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e9",
+          "url": "https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220080,
+      "name": "Play Pause",
+      "url": "https://open.spotify.com/track/5IIw1wllfNMAJlYvAlNOXW"
     },
     {
       "album": {
@@ -4072,7 +4148,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 222493,
       "name": "Stalker",
       "url": "https://open.spotify.com/track/3DqRN9Vy5GqDKOWjXNSbLU"
@@ -4259,6 +4335,24 @@
     },
     {
       "album": {
+        "name": "Suicide Sunday. Pt. 1",
+        "url": "https://open.spotify.com/album/2F1l7oap0lpXiFPnvjm7H3"
+      },
+      "artists": [
+        {
+          "name": "Deportivo",
+          "url": "https://open.spotify.com/artist/7k8b9tyD9a0WEoPgidHrGK"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225060,
+      "name": "Suicide Sunday. Pt. 1",
+      "url": "https://open.spotify.com/track/4a7cPaaV2YCLowPqJMKo4u"
+    },
+    {
+      "album": {
         "name": "Summery Land",
         "url": "https://open.spotify.com/album/7syFPlSaclu0L5tBX41Fl6"
       },
@@ -4332,6 +4426,24 @@
       "duration_ms": 144211,
       "name": "Take Me Away When You Go",
       "url": "https://open.spotify.com/track/37bXnEg4XoBeRPHBJJS6uS"
+    },
+    {
+      "album": {
+        "name": "Take Me With You",
+        "url": "https://open.spotify.com/album/4rIYd1E2RiefpflF9ni3qk"
+      },
+      "artists": [
+        {
+          "name": "Back On Earth",
+          "url": "https://open.spotify.com/artist/0O21EWCzkKnl0tLOsg1hms"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Take Me With You",
+      "url": "https://open.spotify.com/track/223SUGeV8UppvoAAQqLrjZ"
     },
     {
       "album": {
@@ -4444,6 +4556,24 @@
       "duration_ms": 180883,
       "name": "The Clocks Are Bleeding",
       "url": "https://open.spotify.com/track/2WX9OLhzayGFjKk75r4zII"
+    },
+    {
+      "album": {
+        "name": "The Coral Wounds",
+        "url": "https://open.spotify.com/album/0i8BGVHfXJKZ7385zqZUVG"
+      },
+      "artists": [
+        {
+          "name": "daria",
+          "url": "https://open.spotify.com/artist/44dVdbbHLKb31Q5V8LPi67"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219029,
+      "name": "The Coral Wounds",
+      "url": "https://open.spotify.com/track/5tgJa7koluOQO1tY8egWt8"
     },
     {
       "album": {
@@ -4610,6 +4740,24 @@
       "duration_ms": 206186,
       "name": "The Plan",
       "url": "https://open.spotify.com/track/6aXsqO4vskXScn6EuLAvCz"
+    },
+    {
+      "album": {
+        "name": "The Plan",
+        "url": "https://open.spotify.com/album/18PTt4ep1M8tRUbsSs0atb"
+      },
+      "artists": [
+        {
+          "name": "Last Train",
+          "url": "https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173866,
+      "name": "The Plan",
+      "url": "https://open.spotify.com/track/14k3Iz1IkfJPNF3smNCxz4"
     },
     {
       "album": {
@@ -5262,6 +5410,24 @@
       "duration_ms": 149411,
       "name": "Zebra",
       "url": "https://open.spotify.com/track/4IQo93gyRO7MjOtcRFXNKl"
+    },
+    {
+      "album": {
+        "name": "\u00c9l\u00e9phant",
+        "url": "https://open.spotify.com/album/1BWy6ieXek7Q6iCwjewpl8"
+      },
+      "artists": [
+        {
+          "name": "Astonvilla",
+          "url": "https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233252,
+      "name": "\u00c9l\u00e9phant",
+      "url": "https://open.spotify.com/track/0cfj8ZKy0mCOgU078ZQ9yP"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8HxJlVUR3HN"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,528 likes - 90 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,574 likes - 90 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 89 | [Burst](https://open.spotify.com/track/5YvcKRXYHqdu5FawbLLzw4) | [Joel Dre](https://open.spotify.com/artist/5DyaR5YlAjYxC0HcRHihY5) | [Burst](https://open.spotify.com/album/1mOKhKlHDnEO07kiSOFjav) | 2:34 |
 | 90 | [Alowonle](https://open.spotify.com/track/64Sth2Q4hbD0OPdHx00bPQ) | [GINGO](https://open.spotify.com/artist/68R99JNwcSkTFtF4csRRJV) | [GINGO IS ACTIVE \(EP\)](https://open.spotify.com/album/4tIN9iUJ0ZEBEIGsiu8RC2) | 3:17 |
 
-Snapshot ID: `Zy3OTgAAAADKrNDROw3sEboY3NcrncIG`
+Snapshot ID: `Zy3OTgAAAAAobChp3Palw0ez0CY3jrmE`

@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-198 songs - 14 hr 6 min
+200 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Brahman](https://open.spotify.com/track/7k3lKBWa8ptckauaJvolEF) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Brahman](https://open.spotify.com/album/2jm6msuaCU8UPxL3zM24Qw) | 3:12 | 2023-01-20 |  |
 | [Calm](https://open.spotify.com/track/3uHdKaAsG53vKxp5hKYxYU) | [Govinda](https://open.spotify.com/artist/0il1nryhnpaNrP63qYWWCC) | [Worlds Within](https://open.spotify.com/album/6ckfZUWTBzZGKzEzNLToET) | 5:12 | 2022-04-04 | 2024-03-27 |
 | [Chaahat Ki Raah Mein](https://open.spotify.com/track/60XG7j84eh6GnkXM594t2a) | [Chunder Bakshi](https://open.spotify.com/artist/5qL5i2KvJuODfZWlHEEBZD) | [Chaahat Ki Raah Mein](https://open.spotify.com/album/1chCspvsOJq2ULLazAnUbU) | 3:17 | 2023-05-26 |  |
-| [Chakra Flute](https://open.spotify.com/track/1RVE3qgDAvaiD5zDOq3uE0) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Chakra Flute](https://open.spotify.com/album/4LSng7C1CBzdkReeEq2zCR) | 4:18 | 2023-11-24 |  |
+| [Chakra Flute](https://open.spotify.com/track/1RVE3qgDAvaiD5zDOq3uE0) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Chakra Flute](https://open.spotify.com/album/4LSng7C1CBzdkReeEq2zCR) | 4:18 | 2023-11-24 | 2024-11-15 |
 | [Charukeshi Night](https://open.spotify.com/track/5G5NoxyuuL3DqYw3UInwro) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Indigo Sky](https://open.spotify.com/album/10s61p3x4e2Y3wBR7kgQz5) | 3:02 | 2022-10-08 | 2023-10-05 |
 | [Chennai Anthem](https://open.spotify.com/track/7ihw8cWsxvc3GqkoGp7JM4) | [Dolkar Gurung](https://open.spotify.com/artist/6kMFvbChvt6LSvBY4361ZR) | [Chennai Anthem](https://open.spotify.com/album/32ABJ1jAshHThHKanHTozL) | 3:47 | 2022-04-04 | 2024-03-27 |
 | [Colors of Love](https://open.spotify.com/track/06qxVIUENc5A9YhR02onIF) | [Sudhir Din](https://open.spotify.com/artist/7Hfu3XWHwdd2PgF0CAxIAr) | [Colors of Love](https://open.spotify.com/album/0celRHv5GlfB3k5Xsj2eHw) | 3:51 | 2022-04-04 |  |
@@ -66,6 +66,7 @@
 | [Ganges](https://open.spotify.com/track/4RZB877JhzYTNzzFdixZPD) | [Morgentau](https://open.spotify.com/artist/5z2Z0tyyjq1lSTqci3Yejo) | [Ganges](https://open.spotify.com/album/2Lm2ZsJm7htVuUtiD0j08z) | 4:28 | 2022-04-04 |  |
 | [Garden Dancers](https://open.spotify.com/track/12d7WctzYFosYgHNi3d21n) | [Ganesh Punja](https://open.spotify.com/artist/1pSufonJe7BruoBM2qLwgx) | [Paradisio](https://open.spotify.com/album/0W277zieZ5gyuFGMVEatBY) | 4:02 | 2022-12-02 |  |
 | [Haathee](https://open.spotify.com/track/2iIEvKccENdTBtmLElhqOp) | [Kshitij Lata](https://open.spotify.com/artist/0MZblRhmt61Jd2QRnuLhG0) | [Amarujala](https://open.spotify.com/album/15cPIQVlhbw9pPuqfOJbfX) | 2:27 | 2022-05-09 |  |
+| [Healing Garden](https://open.spotify.com/track/6x7xECuEr6vwoNf3j7wb1z) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Healing Garden](https://open.spotify.com/album/5SpMwisr4L8bZYSrlPD32X) | 4:32 | 2024-11-14 |  |
 | [Heartbreak \(From "White Note"\)](https://open.spotify.com/track/5qXNfo9GL49GtJfhAVAzpK) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [In The Lounge](https://open.spotify.com/album/0s3INweVmhtbCmBzDcK3Qg) | 6:25 | 2022-04-04 | 2022-07-29 |
 | [Hope](https://open.spotify.com/track/0UcmCmfs4dwM2d931pgyjy) | [The Sinis Spirit](https://open.spotify.com/artist/4FQayJgrEjwuTnwghtmrE9) | [Hope](https://open.spotify.com/album/56Is3vrKgrVrgEyLXwyAed) | 3:42 | 2022-04-04 |  |
 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 | 2022-04-04 |  |
@@ -179,6 +180,7 @@
 | [Sumati Arya](https://open.spotify.com/track/33dVebZSHCWHN4H6pV8OCY) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Sumati Arya](https://open.spotify.com/album/2bAxEHExcAAFGR1tDeWYqR) | 2:35 | 2024-03-26 |  |
 | [Sun Riser](https://open.spotify.com/track/26vVwggMW8iUbDDxlDygMJ) | [Daya Misra](https://open.spotify.com/artist/4ym3cVsniN8Zfiq6c2mKb2) | [Sun Riser](https://open.spotify.com/album/1CtGzSHFnQW6THLOu4U1ZK) | 4:26 | 2022-04-04 |  |
 | [Sunsets](https://open.spotify.com/track/2NTE2WKQjhA8pWI0aVNHvr) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Sunsets](https://open.spotify.com/album/5FYGIORjchWocCVAyVI3c3) | 4:08 | 2023-01-13 |  |
+| [Supreme Emotions](https://open.spotify.com/track/0bwFC1Z3CATH1XfTua9j2C) | [LaYam](https://open.spotify.com/artist/6onKBpb8AkKid8BFhLWtBH) | [Supreme Emotions](https://open.spotify.com/album/5GIK4JTZq6zUTcjulnHvVY) | 2:24 | 2024-11-14 |  |
 | [Taaja Shaanti](https://open.spotify.com/track/1ilZEo94ZDPvU7Yj1tocRO) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Taaja Shaanti](https://open.spotify.com/album/5f81aZDQK5PHGOt7Mi4Iwm) | 4:22 | 2022-05-23 |  |
 | [Tathy](https://open.spotify.com/track/0gDypzWjp6hHkcs0OEzP3A) | [Bhramara](https://open.spotify.com/artist/0VbAnyXFoNqhQQetaK3CLk) | [Tathy](https://open.spotify.com/album/04cDrfEcA7WzkXf0bjM70Q) | 3:18 | 2024-07-18 |  |
 | [Ten Horses](https://open.spotify.com/track/4VzBi4yTPzR4kGl6kDgRbN) | [Banaras Baba & Kolkata Kid](https://open.spotify.com/artist/1sKc8FjKRB835PrHYJ77Nj) | [From North to South](https://open.spotify.com/album/4wRtJEazDyldXESARKSCmx) | 2:32 | 2022-04-04 | 2024-03-27 |
@@ -191,7 +193,7 @@
 | [The Namesake Opening Titles](https://open.spotify.com/track/3IVjSLTk4Ojf7iJCnuafbi) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [The Namesake \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2wv0qcdV5iokGLTD4VMdQI) | 2:56 | 2022-04-04 |  |
 | [The Namesake Opening Titles](https://open.spotify.com/track/5SdihxfRHLWUBtvwEMEKyU) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [The Namesake \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3nziFdCTmqxIlYl82Lz9UW) | 2:56 | 2022-07-18 | 2024-04-19 |
 | [The Nomad](https://open.spotify.com/track/4niholgEfhqnE5ibXj51IB) | [Niraj Chag](https://open.spotify.com/artist/0GcVFL5IbFUWK4qj1ZNxk6), [Melissa Baten](https://open.spotify.com/artist/1hop7lgm5DhS5O0ku1OUxu) | [Along The Dusty Road](https://open.spotify.com/album/2OX1EL4s2oyro3ujGRIM1L) | 5:09 | 2022-04-04 | 2023-02-25 |
-| [The Smile](https://open.spotify.com/track/5wKC89heaxElqcfbNUueay) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Peace and Quiet](https://open.spotify.com/album/7FppjfxFZLD1bO80GhAYqF) | 5:08 | 2022-04-04 |  |
+| [The Smile](https://open.spotify.com/track/5wKC89heaxElqcfbNUueay) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Peace and Quiet](https://open.spotify.com/album/7FppjfxFZLD1bO80GhAYqF) | 5:08 | 2022-04-04 | 2024-11-15 |
 | [the start](https://open.spotify.com/track/5f4MmyB0T4AMvBpn1R6aDZ) | [The Calm Within](https://open.spotify.com/artist/4bGT4F2c2EVVA9kZYCvbvM) | [the start](https://open.spotify.com/album/7GJM6LI1cSWrqUxZAeqL9O) | 5:29 | 2022-04-04 |  |
 | [The Sweetest Bansuri](https://open.spotify.com/track/61dYKNEcKbV6Cq494FuOcv) | [Golgon Kami](https://open.spotify.com/artist/1tkEL3kkz3cp0QnCPKuomr) | [The Sweetest Bansuri](https://open.spotify.com/album/5Yq1yNWHSgiFFAcrKUu0JY) | 2:46 | 2022-07-08 |  |
 | [This Strange Isolation](https://open.spotify.com/track/5xQDDJPpZ5fmRujXZX9HMR) | [Kaya Project](https://open.spotify.com/artist/4TFmgYfhLJxF6nL8WDSnWV) | [Body.Mind.Soul](https://open.spotify.com/album/6tbT222rFV6qbso1ZqQ3ZY) | 1:11 | 2022-04-04 | 2023-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,706 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,746 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 62 | [Cuarto De Siglo](https://open.spotify.com/track/3eTgegtLXfjpr0IY2E2AKg) | [Skool 77](https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX), [Zaheed Santana](https://open.spotify.com/artist/4U6A7XTrz6J9D7FKHvkCMQ), [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV) | [Cuarto De Siglo](https://open.spotify.com/album/22VXblIBThalOjB8xPsXWJ) | 4:04 |
 | 63 | [La Brujula](https://open.spotify.com/track/3tlWHdkvsANcrocCjwzaoP) | [Sekreto](https://open.spotify.com/artist/10AZXGM20MM2f3bAm7ZjR8), [Caballeros Del Plan G](https://open.spotify.com/artist/568lw0anJJJnjTXII3gHaf), [Skool 77](https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX) | [La Brujula](https://open.spotify.com/album/6zWeN2rVEAbIHrEgbfVYu6) | 2:42 |
 | 64 | [Despiertas](https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ) | [Despiertas](https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu) | 2:51 |
-| 65 | [Nosotras Tenemos Otros Datos](https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [Nosotras Tenemos Otros Datos](https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4) | 3:21 |
-| 66 | [Vive Libre](https://open.spotify.com/track/2upEDhmJRBtGgcFCXhQ7nV) | [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW), [Choko Rap De Luz](https://open.spotify.com/artist/4F1rAi3ITTqb3Vq5feXiZU), [Maniobra Bits](https://open.spotify.com/artist/10lD2iNiTNdw9GXnDqp5Sn) | [Vive Libre](https://open.spotify.com/album/0SnSjPBRaLFhrxXJbpfd3h) | 3:48 |
+| 65 | [Vive Libre](https://open.spotify.com/track/2upEDhmJRBtGgcFCXhQ7nV) | [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW), [Choko Rap De Luz](https://open.spotify.com/artist/4F1rAi3ITTqb3Vq5feXiZU), [Maniobra Bits](https://open.spotify.com/artist/10lD2iNiTNdw9GXnDqp5Sn) | [Vive Libre](https://open.spotify.com/album/0SnSjPBRaLFhrxXJbpfd3h) | 3:48 |
+| 66 | [Nosotras Tenemos Otros Datos](https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [Nosotras Tenemos Otros Datos](https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4) | 3:21 |
 | 67 | [Matar o Morir](https://open.spotify.com/track/1ApXrpI3xopc2kaOpq46vV) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Psicofonia](https://open.spotify.com/album/1G7aXRkiE08dm6tlf93qQw) | 3:04 |
 | 68 | [Benedicto](https://open.spotify.com/track/7FGDgc6tYMmK2BMavtJf6h) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5) | [Benedicto](https://open.spotify.com/album/73R2cCN0UrSP3CvaDZ7ZGw) | 3:14 |
 | 69 | [Tiempos Felices](https://open.spotify.com/track/4lS1HxKXFMinRnsz6PqywA) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Nax](https://open.spotify.com/artist/2tywCc8kh9RzR0XY8HYekn) | [Tiempos Felices](https://open.spotify.com/album/7AHNb6VALxScuuUYcmd90L) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 99 | [En el Aire](https://open.spotify.com/track/4xG6U1KukXdSuHqDjlPsvk) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i) | [En el Aire](https://open.spotify.com/album/6DbjJ9rsVYlzrwe3fQKrea) | 3:01 |
 | 100 | [Bienvenidx](https://open.spotify.com/track/4AZ9qnUdWe1r7twDSTRhCw) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Siempreviva](https://open.spotify.com/album/263pNkZ0JorxekXYAmCkO0) | 3:10 |
 
-Snapshot ID: `ZtqaYAAAAABfBMi7pkmEWO44vQKF60SS`
+Snapshot ID: `ZtqaYAAAAADO313S63HKhsa3PmDCDSzi`

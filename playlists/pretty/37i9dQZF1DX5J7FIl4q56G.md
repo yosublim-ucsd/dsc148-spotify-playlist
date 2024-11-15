@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: Counterparts
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,257 likes - 55 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,373 likes - 55 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 54 | [Like Dogs](https://open.spotify.com/track/4TiQxCDeZfeFuBZZiMzV1J) | [Earthburner](https://open.spotify.com/artist/7fqhfpH3XM8547KokH7tZm) | [Permanent Dawn](https://open.spotify.com/album/4O2r5qZAw7G4teyOsYcQmj) | 0:37 |
 | 55 | [Extinction](https://open.spotify.com/track/2V3pbF5l8eLViSFMmjZsDk) | [Primal Code](https://open.spotify.com/artist/4WqVEj84IeYPpGXwvaIR2z) | [Extinction](https://open.spotify.com/album/4j0eA7z8THEFpCwSzKCoZx) | 5:12 |
 
-Snapshot ID: `Zy2a0AAAAACL+aGchbA5wkcPXm70jU2x`
+Snapshot ID: `Zy2a0AAAAAB3IBBbQs/2858SNkeCOWa9`

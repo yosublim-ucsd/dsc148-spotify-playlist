@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 
 > BESKRES' favorite tracks\. Updated regularly\. Curated by BESKRES\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,694 likes - 77 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,696 likes - 77 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 | 76 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 |
 | 77 | [Wastelands](https://open.spotify.com/track/5YtSWp5JNIavIxYJAt6DPx) | [La Giang](https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3) | [Wastelands](https://open.spotify.com/album/2rZP17BCBNBEn2JE5y4XMJ) | 7:21 |
 
-Snapshot ID: `ZnyPYQAAAACLMqB69f77EZB9DXFgQ/GB`
+Snapshot ID: `ZnyPYQAAAABDheYpiMpbjrMTEFYxEvtH`

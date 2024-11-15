@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 全セットリスト公開: 2024年5月18日\(土\), 19日\(日\)に幕張メッセで開催！国内最大規模のヒップホップフェスティバル<a href="https://popyours.jp/">『POP YOURS』</a>のラインナップをチェック。
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,696 likes - 263 songs - 13 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,694 likes - 263 songs - 13 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -272,4 +272,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 262 | [Super Ocean Man](https://open.spotify.com/track/3M3tWWm40ZGGvku8Iptp5L) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [banvox](https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY) | [t\-mix](https://open.spotify.com/album/37iRNosGlSpeWHa8uhcLUK) | 3:13 |
 | 263 | [Phenomeno](https://open.spotify.com/track/0wl9EqNY9yd4IZldcaOAfd) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [frozen rain](https://open.spotify.com/album/469ZbSjv1aWBl9AIPSRhDu) | 2:45 |
 
-Snapshot ID: `ZlBZBAAAAABPgmGOxW2ceFqDEtrKMnx5`
+Snapshot ID: `ZlBZBAAAAADh5+S7r2AY0x8I295GNEv5`

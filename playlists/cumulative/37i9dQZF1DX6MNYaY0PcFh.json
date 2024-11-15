@@ -877,6 +877,28 @@
     },
     {
       "album": {
+        "name": "Damager",
+        "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224591,
+      "name": "Damager",
+      "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
+    },
+    {
+      "album": {
         "name": "Dart",
         "url": "https://open.spotify.com/album/6PCFhgjvZglMGPLPd5en3W"
       },
@@ -2174,7 +2196,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 145865,
       "name": "Listen To The DJ",
       "url": "https://open.spotify.com/track/2niu0LfmPAIMr4xVbasWgO"
@@ -2724,7 +2746,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 310072,
       "name": "Nothing Left",
       "url": "https://open.spotify.com/track/1B4pQC2XvYz29yKPgRSEHq"
@@ -3928,6 +3950,36 @@
       "duration_ms": 119545,
       "name": "Top Bins",
       "url": "https://open.spotify.com/track/0VWVhmYPwdFRce984U8VVv"
+    },
+    {
+      "album": {
+        "name": "Treasure (feat. Shayan)",
+        "url": "https://open.spotify.com/album/0HYCqwuloY3sN3U2HLiuIJ"
+      },
+      "artists": [
+        {
+          "name": "BVNQUET",
+          "url": "https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv"
+        },
+        {
+          "name": "Star.One",
+          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        },
+        {
+          "name": "Shayan",
+          "url": "https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Treasure (feat. Shayan)",
+      "url": "https://open.spotify.com/track/26vpqc0rM2q8140DI75xcB"
     },
     {
       "album": {

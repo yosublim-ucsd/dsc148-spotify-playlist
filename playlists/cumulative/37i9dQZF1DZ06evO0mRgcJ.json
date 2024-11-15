@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Corridos Underground Desde Culiacan Sin (En Vivo)",
+        "url": "https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179680,
+      "name": "Ace of Spades (En Vivo)",
+      "url": "https://open.spotify.com/track/4XFgCRUD6Ys1z4VPP759nC"
+    },
+    {
+      "album": {
         "name": "Agradecido Estoy",
         "url": "https://open.spotify.com/album/5VdlW7YpcqdDjpkPt2gciG"
       },
@@ -114,7 +132,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 185816,
       "name": "Al Ver Te Vas",
       "url": "https://open.spotify.com/track/1lbMP2pv0OXI9jU0LgK5LX"

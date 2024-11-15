@@ -1,12 +1,12 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Vesica Piscis en portada.",
-  "num_followers": 32764,
+  "num_followers": 32773,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwAuBwAAAADQFejlFqk0Hl4q+VLmrpO1",
+  "snapshot_id": "ZwAuBwAAAAD781KcOjXVF+4AYEQrdDAM",
   "tracks": [
     {
       "added_at": "2024-10-04 18:03:51",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "vampiro",
-        "url": "https://open.spotify.com/album/0Mic1a4JCZSEf1dAujC8x4"
-      },
-      "artists": [
-        {
-          "name": "Kiddie Gang",
-          "url": "https://open.spotify.com/artist/1BIPunmLho7BYxe9gD4bFg"
-        }
-      ],
-      "duration_ms": 178275,
-      "name": "vampiro",
-      "url": "https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Cielos Desconocidos",
         "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 328040,
       "name": "Hasta Que el Tiempo No Nos Separe",
       "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "vampiro",
+        "url": "https://open.spotify.com/album/0Mic1a4JCZSEf1dAujC8x4"
+      },
+      "artists": [
+        {
+          "name": "Kiddie Gang",
+          "url": "https://open.spotify.com/artist/1BIPunmLho7BYxe9gD4bFg"
+        }
+      ],
+      "duration_ms": 178275,
+      "name": "vampiro",
+      "url": "https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Figura de Cristal",
+        "url": "https://open.spotify.com/album/7Fj3Ex7rvD1rjHJMYPPoVH"
+      },
+      "artists": [
+        {
+          "name": "Estrella del Sol",
+          "url": "https://open.spotify.com/artist/5oQPWni89oK2A4pM3TLFh0"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Figura de Cristal",
+      "url": "https://open.spotify.com/track/4aZIaHfXGIcDFMCrGaEoFS"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Hay Veces",
         "url": "https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 186445,
       "name": "Hay Veces",
       "url": "https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Ausencia",
-        "url": "https://open.spotify.com/album/4OAE4XgmFZfiqBmu4UbYDG"
-      },
-      "artists": [
-        {
-          "name": "A Rose Dying In The Rain",
-          "url": "https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG"
-        }
-      ],
-      "duration_ms": 100036,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/57hPi0hmEHQNMhzpyp9E8P"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -679,34 +679,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Figura de Cristal",
-        "url": "https://open.spotify.com/album/7Fj3Ex7rvD1rjHJMYPPoVH"
+        "name": "Ausencia",
+        "url": "https://open.spotify.com/album/4OAE4XgmFZfiqBmu4UbYDG"
       },
       "artists": [
         {
-          "name": "Estrella del Sol",
-          "url": "https://open.spotify.com/artist/5oQPWni89oK2A4pM3TLFh0"
+          "name": "A Rose Dying In The Rain",
+          "url": "https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Figura de Cristal",
-      "url": "https://open.spotify.com/track/4aZIaHfXGIcDFMCrGaEoFS"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Estrella Fugaz",
-        "url": "https://open.spotify.com/album/1zlpHqJLyYmfqzSOytAT5D"
-      },
-      "artists": [
-        {
-          "name": "Se\u00f1or Kino",
-          "url": "https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG"
-        }
-      ],
-      "duration_ms": 262955,
-      "name": "Estrella Fugaz",
-      "url": "https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa"
+      "duration_ms": 100036,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/57hPi0hmEHQNMhzpyp9E8P"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -727,6 +711,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Estrella Fugaz",
+        "url": "https://open.spotify.com/album/1zlpHqJLyYmfqzSOytAT5D"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1or Kino",
+          "url": "https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG"
+        }
+      ],
+      "duration_ms": 262955,
+      "name": "Estrella Fugaz",
+      "url": "https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Como Rei Ayanami",
         "url": "https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 177354,
       "name": "Como Rei Ayanami",
       "url": "https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
-      },
-      "artists": [
-        {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
-        }
-      ],
-      "duration_ms": 381868,
-      "name": "The Sound of all Things",
-      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -775,18 +759,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "El Tiempo",
-        "url": "https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su"
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
       },
       "artists": [
         {
-          "name": "Flores",
-          "url": "https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt"
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
         }
       ],
-      "duration_ms": 277443,
-      "name": "El Tiempo",
-      "url": "https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC"
+      "duration_ms": 381868,
+      "name": "The Sound of all Things",
+      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -803,6 +787,22 @@
       "duration_ms": 386604,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "El Tiempo",
+        "url": "https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su"
+      },
+      "artists": [
+        {
+          "name": "Flores",
+          "url": "https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt"
+        }
+      ],
+      "duration_ms": 277443,
+      "name": "El Tiempo",
+      "url": "https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC"
     },
     {
       "added_at": "2024-09-27 06:00:00",

@@ -4,7 +4,7 @@
 
 > A happy place 🪩🪩
 
-472 songs - 1 day 5 hr 4 min
+473 songs - 1 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Can't Stop](https://open.spotify.com/track/2XtyzqHaIb1ejF0n8uCtAK) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf) | [Can't Stop](https://open.spotify.com/album/5r11OiEuYQuWXeem5H3Pa6) | 2:34 | 2024-03-01 |  |
 | [Celebration](https://open.spotify.com/track/5aFK3KNMaCkMKJWeU78xB4) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Celebration](https://open.spotify.com/album/69TDYss3NTUG1MlHq1AkvK) | 2:39 | 2022-06-09 | 2024-08-10 |
 | [Centocelle Nightmare](https://open.spotify.com/track/5AGmBzhFiZINB9icr6PXzi) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI), [Le Feste Antonacci](https://open.spotify.com/artist/1RoRpJGQ2bVPfzYGoUr4fe) | [Centocelle Nightmare](https://open.spotify.com/album/23Ws9k70pKIRbNTECWqZwe) | 3:01 | 2022-04-06 | 2022-04-21 |
-| [CHAMPAGNE](https://open.spotify.com/track/5XonTYRglyiZIYXhGhCu0K) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [CHAMPAGNE](https://open.spotify.com/album/6EEgDsH1ugmPm5otG11hzK) | 2:20 | 2024-08-23 |  |
+| [CHAMPAGNE](https://open.spotify.com/track/5XonTYRglyiZIYXhGhCu0K) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [CHAMPAGNE](https://open.spotify.com/album/6EEgDsH1ugmPm5otG11hzK) | 2:20 | 2024-08-23 | 2024-11-15 |
 | [Chemicals](https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:15 | 2022-01-14 | 2024-05-18 |
 | [Chicago](https://open.spotify.com/track/2sJLAv6morhsfspLyV6XeS) | [East Coast Love Affair](https://open.spotify.com/artist/0FKqQAbZijrpGaRw6PqDDI) | [Chicago](https://open.spotify.com/album/2B6XynX7Yeijpi4C73pJKs) | 6:36 | 2022-06-09 | 2022-07-29 |
 | [CHIKI](https://open.spotify.com/track/70N3YPPhkg9pFsoV5ZaTlG) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [STARLIGHT](https://open.spotify.com/album/5gwWdcSkwAwyLQeDinaHx8) | 2:50 | 2024-07-26 | 2024-09-21 |
@@ -318,6 +318,7 @@
 | [Never Knew Love Like This Before](https://open.spotify.com/track/7oNT84XA7GAxohEKbTGDMZ) | [QUINZE](https://open.spotify.com/artist/20gDD3CGKvzoW5nVHT8oPa), [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Never Knew Love Like This Before](https://open.spotify.com/album/61ltNUgRtP1DymAGD7XuE3) | 3:02 | 2023-06-09 | 2024-03-17 |
 | [Never The Same](https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Never The Same](https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj) | 3:32 | 2022-05-10 | 2023-06-07 |
 | [New Way](https://open.spotify.com/track/11H4y3J3uZiTRMKLQCcmSD) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN), [Yogi](https://open.spotify.com/artist/5B9P0p88CmlArc27XLyRnB) | [Disco Nights](https://open.spotify.com/album/393ujegMe0hYDFSeNupT9p) | 3:01 | 2024-09-13 |  |
+| [Night Time \- Bad Milk Remix](https://open.spotify.com/track/4NFRVdkss14n6jEJ40fUKZ) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa), [Bad Milk](https://open.spotify.com/artist/68pfAx9ScJhEfTjrEmiM8X) | [Night Time \(Bad Milk Remix\)](https://open.spotify.com/album/5egZEVizf7vaTBvW3hpjny) | 2:16 | 2024-11-08 |  |
 | [Nineteen 84](https://open.spotify.com/track/2AJ8OYa9kLdieL7oOZCy4b) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Veni, Vidi, Vici](https://open.spotify.com/album/0y5X3mEY5gtzpMATESTlp8) | 3:31 | 2024-03-22 |  |
 | [No Love, No Life](https://open.spotify.com/track/5ito7KV8kZzuA7SLFV0oMw) | [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [Elliot Fitch](https://open.spotify.com/artist/2KgR6IARKVVczX7fhfDDrB) | [No Love, No Life](https://open.spotify.com/album/42x5j34Hcxm0puZv92VnDH) | 2:19 | 2022-06-09 | 2022-07-10 |
 | [No More Talking](https://open.spotify.com/track/4fosKodky8p83kkpsRznXf) | [Tiger & Woods](https://open.spotify.com/artist/0AEi1DK5ehyvkZzOUlqEVz) | [On The Green Again](https://open.spotify.com/album/1ASGNkMTcydM6JMFOWzMmD) | 7:02 | 2022-04-06 | 2022-04-14 |

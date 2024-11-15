@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Lola Young along with the hottest alternative songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,547 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,622 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 74 | [Something In The Air](https://open.spotify.com/track/7rvhBrHKRK7G4SJFgclkr7) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Something In The Air](https://open.spotify.com/album/2RoSPQyzfjJl6ADhGFUnhr) | 3:47 |
 | 75 | [STRANGE FRIENDS](https://open.spotify.com/track/3FW4X3cgPYtL7yla6YyPfu) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [STRANGE FRIENDS](https://open.spotify.com/album/4t7gJ5vOuIDtQtULQcqKR5) | 2:34 |
 
-Snapshot ID: `Zy2a0AAAAAAxJn6pl+4dCjBm1uTrY82A`
+Snapshot ID: `Zy2a0AAAAAAkiuaT9ssx8oTIYgDkj4aJ`

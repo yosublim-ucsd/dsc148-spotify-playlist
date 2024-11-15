@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,511 likes - 91 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,935 likes - 91 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 90 | [Angels \(Glory To God\)](https://open.spotify.com/track/2Z10kVEtDJwjJsdJmKRxNi) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Angels \(Glory To God\)](https://open.spotify.com/album/2GYpoWJkp7M5q87410tEbb) | 3:43 |
 | 91 | [It's Christmas](https://open.spotify.com/track/205rj1MyclvbP8T2ppLhBx) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Joy To The World // It's Christmas](https://open.spotify.com/album/2Cvwzmfbf8VnhhXLvdsNT2) | 4:55 |
 
-Snapshot ID: `ZzE8ZwAAAADttAov0WvHPFS10Y4fuSgy`
+Snapshot ID: `ZzE8ZwAAAAD+PGizkl+y3AwYgalNf3tC`

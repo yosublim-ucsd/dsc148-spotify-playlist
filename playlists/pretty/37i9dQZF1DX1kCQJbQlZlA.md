@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam\. Ảnh bìa: Tố My
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,526 likes - 75 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,527 likes - 75 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 74 | [Chờ anh hát lý duyên tình](https://open.spotify.com/track/6GvtLglQzLNcxcbYo5f9vG) | [Bảo Trân](https://open.spotify.com/artist/0UV3QBxHETfHbFGJaqMtCj) | [Anh ba chị tư](https://open.spotify.com/album/5RtDxInFhzmbIixAdK5KFC) | 5:52 |
 | 75 | [Con Gái Miền Tây](https://open.spotify.com/track/4ZiIsVoMSYVgk8XH1RIV3S) | [Ngọc Hân](https://open.spotify.com/artist/3Wdyn05ATQMon3kvCQiyER) | [Dân Ca Quê Hương](https://open.spotify.com/album/2AXlkLS0nFFfis8rJVWlzH) | 4:31 |
 
-Snapshot ID: `Zr6lJgAAAAB7OlPo797suECczsDky5O0`
+Snapshot ID: `Zr6lJgAAAAANjd5mykI1TH9w0i+Yq5cd`

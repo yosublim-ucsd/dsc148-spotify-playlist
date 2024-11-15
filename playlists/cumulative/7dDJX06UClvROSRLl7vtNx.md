@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-632 songs - 1 day 3 hr 33 min
+633 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,6 +544,7 @@
 | [Talk To Me](https://open.spotify.com/track/2vpK9DsFJJHRNinZyoK18C) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Talk To Me](https://open.spotify.com/album/7rpfJUWZSEhx5u5mxPN0RG) | 2:00 | 2024-04-12 | 2024-06-23 |
 | [Teenage Dream](https://open.spotify.com/track/6mSJPeIzfqbQH83qkMBS7I) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB), [Raphael DeLove](https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA) | [Teenage Dream](https://open.spotify.com/album/5wZOs9KxbL30axtsoIoe2p) | 2:33 | 2024-06-09 | 2024-07-09 |
 | [Tell Me You Love Me](https://open.spotify.com/track/7lak0WdbGJiJDbyBiZcLgH) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [AALLAR](https://open.spotify.com/artist/0Zo4tbJKj4xYiidcaYRtz1), [Che'Nelle](https://open.spotify.com/artist/7zVOa12T0RhNRzpbwZ4OCt) | [Tell Me You Love Me](https://open.spotify.com/album/4Kt5Ph2XYQTBjqP9988Vqo) | 2:42 | 2023-11-26 | 2024-01-28 |
+| [Thanks](https://open.spotify.com/track/5vvOIzEOE9ZaeMiipJnH5P) | [Lively](https://open.spotify.com/artist/18nz1a1XnTU1vKLqsGzgKa), [Mati Troglia](https://open.spotify.com/artist/0AeSX3EccdQA1NALPJye0E), [Anna\-Sophia Henry](https://open.spotify.com/artist/7eMgHO3ZOlcpWKM3OFnnS8) | [Thanks](https://open.spotify.com/album/6I6ZR4qurPXJLhmsHKBpz1) | 2:14 | 2024-11-14 |  |
 | [That Could Be Us](https://open.spotify.com/track/5Jo1DvQ6auXLFx6QD3SC5I) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [Ben Samama](https://open.spotify.com/artist/3MICPvsOVZdedC4KnDT0S4) | [That Could Be Us](https://open.spotify.com/album/17Z8BUgk8JdLKb44JZROU6) | 2:04 | 2023-09-22 | 2024-07-13 |
 | [The Boys Of Summer](https://open.spotify.com/track/5oeG2dP6Qda3ueQEllB7pW) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Geoff Duncan](https://open.spotify.com/artist/1oXBhBpbEfp8p2mp5ipx2N) | [The Boys Of Summer](https://open.spotify.com/album/31XBvtJJ3fQkQUrRukoq1E) | 2:17 | 2024-07-30 |  |
 | [The Coast](https://open.spotify.com/track/2stURTZNZ9ewQrku3C0KIW) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16), [Joel Winterflood](https://open.spotify.com/artist/6SW28suhyCreYrl00Amk36) | [The Coast](https://open.spotify.com/album/5sRT5OqDQUM7JmYZkJ98yx) | 2:54 | 2024-07-06 | 2024-09-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock & Alt driving the current\. Cover: Lenny Kravitz
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,371 likes - 77 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,383 likes - 77 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 76 | [Fight 4 luv](https://open.spotify.com/track/2uP2DSCbBr8vXo5PWeYHNO) | [Dimitri Miller](https://open.spotify.com/artist/2ZKmcBDtaUAUMnNbCvNdhC) | [Bro...it's not that deep](https://open.spotify.com/album/4CDRjB3gXtisl1KinHU7f9) | 2:54 |
 | 77 | [YOU'RE SO POLITE](https://open.spotify.com/track/1S2QiFXMbfFENSZ9aSOBRZ) | [FISHLORD](https://open.spotify.com/artist/1Hv9p9zMYy3gc2VWQfK5gg) | [YOU LOOK LIKE YOU TREAT YOUR DOGS LIKE PEOPLE](https://open.spotify.com/album/5UV9GkDE8P00zLyBMloD2g) | 1:58 |
 
-Snapshot ID: `ZoLkOwAAAAArHLe4OmoQ09vdK9OBhzXM`
+Snapshot ID: `ZoLkOwAAAABiuhfDoPjK+ABkkKpg7IwY`

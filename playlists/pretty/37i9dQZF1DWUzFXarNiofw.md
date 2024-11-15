@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: PARTYNEXTDOOR
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,052,287 likes - 225 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,052,394 likes - 225 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 224 | [send help](https://open.spotify.com/track/5YkRE7LdEegeX3eGEGW1lM) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [send help](https://open.spotify.com/album/5Dm5BLynlZv76AXXvS6BOH) | 2:31 |
 | 225 | [Get down](https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Get down / Lovin you](https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv) | 2:25 |
 
-Snapshot ID: `Zy2wQgAAAAD77bVnIdl3n+J0qbyIoujF`
+Snapshot ID: `Zy2wQgAAAACwHBk96cgvAFZv71r62pK8`

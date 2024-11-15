@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 
 > Para subir la temperatura\. Foto: Lebrón Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,405 likes - 50 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,479 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 | 49 | [Cúcala](https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Tremendo Cache](https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN) | 3:49 |
 | 50 | [Tal Vez Vuelvas a Llamarme](https://open.spotify.com/track/6tEovPZnOeNMvELOhmWAxn) | [Son 14](https://open.spotify.com/artist/0O4bXqUZGYZQj5ztLrDDht), [Adalberto Alvarez](https://open.spotify.com/artist/4DD1MuIOSWjkD1DmUbWZn0) | [Tumi Cuba Classics Volume 4: Son](https://open.spotify.com/album/1UKOkRav56nHZ5v3SgfxqS) | 6:05 |
 
-Snapshot ID: `Znnx4wAAAABDK89gcGh00suVfDKmBpEe`
+Snapshot ID: `Znnx4wAAAAAxlJpPTMo7L6nkRnrqlQw/`

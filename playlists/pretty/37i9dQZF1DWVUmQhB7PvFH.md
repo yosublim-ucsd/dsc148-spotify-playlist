@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 陶喆 \(David Tao\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,918 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,957 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 | 49 | [防空洞](https://open.spotify.com/track/2g4JgSr26VxzlpYuRQW9hQ) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [好佩妮](https://open.spotify.com/album/2OOTZLeuCbSC1xboNYLKgs) | 4:32 |
 | 50 | [今天妳要嫁給我](https://open.spotify.com/track/1kEbEoz2MJqapQSGXefXhc) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL), [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [太美麗](https://open.spotify.com/album/46N0w5RaWwCBgdEaCjQpv5) | 4:32 |
 
-Snapshot ID: `ZzF5PgAAAAC5sbNDznC08OSOYmhiJWBg`
+Snapshot ID: `ZzF5PgAAAADdP4XQliDWDZXFbYsIsAtu`

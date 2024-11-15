@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,960,042 likes - 239 songs - 11 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,960,160 likes - 239 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -248,4 +248,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 238 | [Kujtimet](https://open.spotify.com/track/283VpOIFxubROj0o6mHD83) | [Qetesia](https://open.spotify.com/artist/1E7RDm6USh7HGKtdVF9TZM) | [Kujtimet](https://open.spotify.com/album/0XDfEjLWDo0Sv1KsQnROmp) | 2:15 |
 | 239 | [Hygga](https://open.spotify.com/track/5wkoZ9boDE4xt4wtam3a4e) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Hygga](https://open.spotify.com/album/3yYGBU1AIq9TgkzMG1R1ID) | 2:25 |
 
-Snapshot ID: `ZypBOAAAAAB8cMyeCrmsMWLC5//xogoZ`
+Snapshot ID: `ZypBOAAAAADki8ZMnE6Teo+teuUJqPYU`

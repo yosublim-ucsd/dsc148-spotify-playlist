@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Konyikeh",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Douvelle19",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -864,6 +864,28 @@
       "duration_ms": 249147,
       "name": "Convalesce (feat. REGALJASON)",
       "url": "https://open.spotify.com/track/4Unohs1Js8HlyFeKBrNeL5"
+    },
+    {
+      "album": {
+        "name": "Crawl",
+        "url": "https://open.spotify.com/album/3SMtJBpLi1vw0WdZM3s2Xl"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        },
+        {
+          "name": "SIPHO.",
+          "url": "https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Crawl",
+      "url": "https://open.spotify.com/track/4enPTcEhKS40yyfvUEUntA"
     },
     {
       "album": {

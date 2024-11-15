@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Ana Rafalli",
+  "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Dato Aishah",
   "name": "Berjiran",
   "tracks": [
     {
@@ -605,6 +605,24 @@
     },
     {
       "album": {
+        "name": "Disebut Jangan Dikenang Jangan",
+        "url": "https://open.spotify.com/album/049BoEvbGWb4fXDQAhgha7"
+      },
+      "artists": [
+        {
+          "name": "Aishah",
+          "url": "https://open.spotify.com/artist/4YSKGMF40IgP6ouU5jbhnb"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "Disebut Jangan Dikenang Jangan",
+      "url": "https://open.spotify.com/track/4nuUpXxTPDvqJmKEb69oEW"
+    },
+    {
+      "album": {
         "name": "Dusta",
         "url": "https://open.spotify.com/album/0L2BSiF3Zq82ayk5Yt08pE"
       },
@@ -870,7 +888,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 254013,
       "name": "Kamu Yang Kutunggu",
       "url": "https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g"
@@ -942,7 +960,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 261562,
       "name": "Kasmaran",
       "url": "https://open.spotify.com/track/5MkEW02j6Lu7uMxaieHxVZ"
@@ -960,7 +978,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 256272,
       "name": "Kau OK?",
       "url": "https://open.spotify.com/track/2TPURz2VZ3TBmVN7NcdqeZ"
@@ -1364,7 +1382,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 249146,
       "name": "Penantian",
       "url": "https://open.spotify.com/track/6v9LrcHY72rvk1HtKOeAwj"
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 259599,
       "name": "Rahasia Hati (New Version)",
       "url": "https://open.spotify.com/track/5ljoPIZmzmXVoTdF7ebfwE"
@@ -1552,6 +1570,24 @@
       "duration_ms": 228386,
       "name": "Sedih Tak Berujung",
       "url": "https://open.spotify.com/track/6xMUMMK64AUpstGjlDvoNn"
+    },
+    {
+      "album": {
+        "name": "Sejarah",
+        "url": "https://open.spotify.com/album/7lBtDKBzA20gyH6H6VAznx"
+      },
+      "artists": [
+        {
+          "name": "Dato' Sri Siti Nurhaliza",
+          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Sejarah",
+      "url": "https://open.spotify.com/track/60xSTxt4GWoic7LwndDtRN"
     },
     {
       "album": {
@@ -2022,7 +2058,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 266823,
       "name": "Udang Di Balik Batu (Remix)",
       "url": "https://open.spotify.com/track/71rVtd8AhDehICyzfOc9U9"

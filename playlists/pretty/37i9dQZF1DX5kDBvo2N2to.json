@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy3WKgAAAAC4AjURekqSh/4MfEody9CB",
+  "snapshot_id": "Zy3WKgAAAADFICxAJWM3vx49s8uk9/fC",
   "tracks": [
     {
       "added_at": "2024-11-08 09:13:14",
@@ -655,22 +655,18 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Zoey",
-        "url": "https://open.spotify.com/album/0FUo6zTonfZsCnKR6C9GCX"
+        "name": "Headache",
+        "url": "https://open.spotify.com/album/6baKpbxBMBisqqThtQ1TyZ"
       },
       "artists": [
         {
-          "name": "Josef Slunge",
-          "url": "https://open.spotify.com/artist/1CcUIkJudKxfk8SZMLL1sd"
-        },
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
         }
       ],
-      "duration_ms": 183054,
-      "name": "Zoey",
-      "url": "https://open.spotify.com/track/1gwPACfYbsG7CTLqJdBGUf"
+      "duration_ms": 240826,
+      "name": "I'm So Sorry",
+      "url": "https://open.spotify.com/track/66UdYj3MIsMI8WryDpRZwb"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -691,6 +687,26 @@
       "duration_ms": 164628,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/3nxtdmT0yTl8236nuyyVdC"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Zoey",
+        "url": "https://open.spotify.com/album/0FUo6zTonfZsCnKR6C9GCX"
+      },
+      "artists": [
+        {
+          "name": "Josef Slunge",
+          "url": "https://open.spotify.com/artist/1CcUIkJudKxfk8SZMLL1sd"
+        },
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 183054,
+      "name": "Zoey",
+      "url": "https://open.spotify.com/track/1gwPACfYbsG7CTLqJdBGUf"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -743,18 +759,18 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Headache",
-        "url": "https://open.spotify.com/album/6baKpbxBMBisqqThtQ1TyZ"
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc"
       },
       "artists": [
         {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+          "name": "Sunnan",
+          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
         }
       ],
-      "duration_ms": 240826,
-      "name": "I'm So Sorry",
-      "url": "https://open.spotify.com/track/66UdYj3MIsMI8WryDpRZwb"
+      "duration_ms": 231000,
+      "name": "Wild Horses",
+      "url": "https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -775,18 +791,18 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Cinema",
-        "url": "https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc"
+        "name": "NYLON",
+        "url": "https://open.spotify.com/album/4Q2qRFbmPxoeSqsVPDXYNm"
       },
       "artists": [
         {
-          "name": "Sunnan",
-          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
+          "name": "Mwuana",
+          "url": "https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX"
         }
       ],
-      "duration_ms": 231000,
-      "name": "Wild Horses",
-      "url": "https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr"
+      "duration_ms": 158267,
+      "name": "NYLON",
+      "url": "https://open.spotify.com/track/3HHPXH26eIh32DFqY4vdD4"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -803,22 +819,6 @@
       "duration_ms": 243440,
       "name": "When she holds me",
       "url": "https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
-        "name": "NYLON",
-        "url": "https://open.spotify.com/album/4Q2qRFbmPxoeSqsVPDXYNm"
-      },
-      "artists": [
-        {
-          "name": "Mwuana",
-          "url": "https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX"
-        }
-      ],
-      "duration_ms": 158267,
-      "name": "NYLON",
-      "url": "https://open.spotify.com/track/3HHPXH26eIh32DFqY4vdD4"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "GODDESS",
-        "url": "https://open.spotify.com/album/0TwdkBnX2yvXhR8TePUnKx"
-      },
-      "artists": [
-        {
-          "name": "SCARLET",
-          "url": "https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "GODDESS",
-      "url": "https://open.spotify.com/track/4MARqIBLNGWgouDvlZbmon"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Samma Sak",
         "url": "https://open.spotify.com/album/7d3OXIO5dQABLh3r0UAudW"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 149538,
       "name": "Samma Sak",
       "url": "https://open.spotify.com/track/0HVjpl9YfZd5z0KoqJAo6C"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "GODDESS",
+        "url": "https://open.spotify.com/album/0TwdkBnX2yvXhR8TePUnKx"
+      },
+      "artists": [
+        {
+          "name": "SCARLET",
+          "url": "https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "GODDESS",
+      "url": "https://open.spotify.com/track/4MARqIBLNGWgouDvlZbmon"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Stockholm",
-        "url": "https://open.spotify.com/album/5eq8VZ9uOInt7pIE9bIFt8"
-      },
-      "artists": [
-        {
-          "name": "Christian Nanou",
-          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
-        }
-      ],
-      "duration_ms": 166043,
-      "name": "Stockholm",
-      "url": "https://open.spotify.com/track/53v7VYAmBEmH7ju6zSGhc4"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Hils Din Mor (feat. Anne Linnet)",
         "url": "https://open.spotify.com/album/4SK7VjGM1MnUT9mQIzolPe"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 172998,
       "name": "Hils Din Mor (feat. Anne Linnet)",
       "url": "https://open.spotify.com/track/52fqmaEIDQdmWONvwXbvf8"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Stockholm",
+        "url": "https://open.spotify.com/album/5eq8VZ9uOInt7pIE9bIFt8"
+      },
+      "artists": [
+        {
+          "name": "Christian Nanou",
+          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
+        }
+      ],
+      "duration_ms": 166043,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/53v7VYAmBEmH7ju6zSGhc4"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/5uxKAFGxOeWPRmbga9sRHE"
-      },
-      "artists": [
-        {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
-        }
-      ],
-      "duration_ms": 224401,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/5NncZVh6eDXNFjIZF7oYKK"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Dying Light",
         "url": "https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 183843,
       "name": "Figure Out",
       "url": "https://open.spotify.com/track/7gZxG7pi9UV6Z8Cqx1tSG9"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/5uxKAFGxOeWPRmbga9sRHE"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 224401,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/5NncZVh6eDXNFjIZF7oYKK"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
+        "name": "Right?",
+        "url": "https://open.spotify.com/album/4jSF49BrBnMJHw60Aoowmw"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 176396,
+      "name": "Right?",
+      "url": "https://open.spotify.com/track/0rlQX2kAXfahhZdju8woGk"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
         "name": "Apple Cider Vinaigrette",
         "url": "https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 159661,
       "name": "Rock'n'Roll",
       "url": "https://open.spotify.com/track/0Oiy3oMloogzORJWupzheE"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
-        "name": "Right?",
-        "url": "https://open.spotify.com/album/4jSF49BrBnMJHw60Aoowmw"
-      },
-      "artists": [
-        {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
-        }
-      ],
-      "duration_ms": 176396,
-      "name": "Right?",
-      "url": "https://open.spotify.com/track/0rlQX2kAXfahhZdju8woGk"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1507,18 +1507,22 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Hejd\u00e5 f\u00f6r alltid",
-        "url": "https://open.spotify.com/album/6PkWYsNSD5l4lpT0x4gtzc"
+        "name": "Innerst Inne",
+        "url": "https://open.spotify.com/album/4mHCK5SAkgmrcUY6RTYQbU"
       },
       "artists": [
         {
-          "name": "Melissa Horn",
-          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        },
+        {
+          "name": "Elias Abbas",
+          "url": "https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6"
         }
       ],
-      "duration_ms": 205125,
-      "name": "Hejd\u00e5 f\u00f6r alltid",
-      "url": "https://open.spotify.com/track/6mYXbGfYFzLoYWSjEQD3zS"
+      "duration_ms": 155300,
+      "name": "Innerst Inne",
+      "url": "https://open.spotify.com/track/3NiibjPSAaQgCaEw62HTgl"
     }
   ],
   "unique_name": "p\u00e5 repeat",

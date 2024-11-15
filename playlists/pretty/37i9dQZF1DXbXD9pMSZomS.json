@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 478172,
+  "num_followers": 478285,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvxiPAAAAABpFI9H7ogTfbd6G9Q34AP0",
+  "snapshot_id": "ZvxiPAAAAAAo24iKswXA/a+1fDcuwX5B",
   "tracks": [
     {
       "added_at": "2024-10-01 20:57:32",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-10-01 20:57:32",
       "album": {
-        "name": "Brasil",
-        "url": "https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI"
-      },
-      "artists": [
-        {
-          "name": "blnkspc_",
-          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Brasil",
-      "url": "https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ"
-    },
-    {
-      "added_at": "2024-10-01 20:57:32",
-      "album": {
         "name": "Kindzmarauli",
         "url": "https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 256695,
       "name": "Random Places",
       "url": "https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ"
+    },
+    {
+      "added_at": "2024-10-01 20:57:32",
+      "album": {
+        "name": "Brasil",
+        "url": "https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI"
+      },
+      "artists": [
+        {
+          "name": "blnkspc_",
+          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Brasil",
+      "url": "https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ"
     },
     {
       "added_at": "2024-10-01 20:57:32",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-10-01 20:57:32",
       "album": {
-        "name": "Restless",
-        "url": "https://open.spotify.com/album/0k7JEia5VMjsgAMTSsvH61"
-      },
-      "artists": [
-        {
-          "name": "Luca Musto",
-          "url": "https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh"
-        }
-      ],
-      "duration_ms": 214602,
-      "name": "Restless",
-      "url": "https://open.spotify.com/track/5mQjywJBjvmuqWfWwYR0q0"
-    },
-    {
-      "added_at": "2024-10-01 20:57:32",
-      "album": {
         "name": "The Sinner \u2014 Time Traveller",
         "url": "https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2024-10-01 20:57:32",
       "album": {
-        "name": "Closer To The Essence",
-        "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/0k7JEia5VMjsgAMTSsvH61"
       },
       "artists": [
         {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+          "name": "Luca Musto",
+          "url": "https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh"
         }
       ],
-      "duration_ms": 161152,
-      "name": "Closer To The Essence",
-      "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
+      "duration_ms": 214602,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/5mQjywJBjvmuqWfWwYR0q0"
     },
     {
       "added_at": "2024-10-01 20:57:32",
@@ -491,6 +475,22 @@
       "duration_ms": 304272,
       "name": "About Our Amore",
       "url": "https://open.spotify.com/track/5KcLeL5iMfETgyRHnSD9zF"
+    },
+    {
+      "added_at": "2024-10-01 20:57:32",
+      "album": {
+        "name": "Closer To The Essence",
+        "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        }
+      ],
+      "duration_ms": 161152,
+      "name": "Closer To The Essence",
+      "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
     },
     {
       "added_at": "2024-10-01 20:57:32",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-10-01 20:57:32",
       "album": {
-        "name": "We Should Chill On The Windowsill More",
-        "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
-      },
-      "artists": [
-        {
-          "name": "Loz Goddard",
-          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
-        }
-      ],
-      "duration_ms": 326129,
-      "name": "Far From Home",
-      "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
-    },
-    {
-      "added_at": "2024-10-01 20:57:32",
-      "album": {
         "name": "Flutes of Gold",
         "url": "https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 422278,
       "name": "Flutes of Gold",
       "url": "https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M"
+    },
+    {
+      "added_at": "2024-10-01 20:57:32",
+      "album": {
+        "name": "We Should Chill On The Windowsill More",
+        "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
+      },
+      "artists": [
+        {
+          "name": "Loz Goddard",
+          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
+        }
+      ],
+      "duration_ms": 326129,
+      "name": "Far From Home",
+      "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
     },
     {
       "added_at": "2024-10-01 20:57:32",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-10-01 20:57:32",
       "album": {
-        "name": "I'm In Love",
-        "url": "https://open.spotify.com/album/5zxwIAueS6WhnZYn2Ikcze"
-      },
-      "artists": [
-        {
-          "name": "Social Lovers",
-          "url": "https://open.spotify.com/artist/7HE9KVyz6P11Dn791tNXpL"
-        }
-      ],
-      "duration_ms": 272760,
-      "name": "I'm In Love",
-      "url": "https://open.spotify.com/track/4VoOIOooZPtdn0syJ9fTg1"
-    },
-    {
-      "added_at": "2024-10-01 20:57:32",
-      "album": {
         "name": "Friday",
         "url": "https://open.spotify.com/album/1aoCK3kkl8HdyVBOHALzLb"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 274285,
       "name": "Friday",
       "url": "https://open.spotify.com/track/3rhgzuZEWlCb5rQaW5QNUr"
+    },
+    {
+      "added_at": "2024-10-01 20:57:32",
+      "album": {
+        "name": "I'm In Love",
+        "url": "https://open.spotify.com/album/5zxwIAueS6WhnZYn2Ikcze"
+      },
+      "artists": [
+        {
+          "name": "Social Lovers",
+          "url": "https://open.spotify.com/artist/7HE9KVyz6P11Dn791tNXpL"
+        }
+      ],
+      "duration_ms": 272760,
+      "name": "I'm In Love",
+      "url": "https://open.spotify.com/track/4VoOIOooZPtdn0syJ9fTg1"
     },
     {
       "added_at": "2024-10-01 20:57:32",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-10-01 20:57:32",
       "album": {
-        "name": "Limb Valley",
-        "url": "https://open.spotify.com/album/1cW1KQEfAhaDUk2MVlc2Gq"
-      },
-      "artists": [
-        {
-          "name": "Al Zanders",
-          "url": "https://open.spotify.com/artist/4udfBn2nJQ6bHoMrr2lKpz"
-        }
-      ],
-      "duration_ms": 450020,
-      "name": "Endcliffe Park",
-      "url": "https://open.spotify.com/track/4Uoy2ySRvBC1jnbj5FfusP"
-    },
-    {
-      "added_at": "2024-10-01 20:57:32",
-      "album": {
         "name": "Passeggiata",
         "url": "https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 135529,
       "name": "Tavolo",
       "url": "https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj"
+    },
+    {
+      "added_at": "2024-10-01 20:57:32",
+      "album": {
+        "name": "Limb Valley",
+        "url": "https://open.spotify.com/album/1cW1KQEfAhaDUk2MVlc2Gq"
+      },
+      "artists": [
+        {
+          "name": "Al Zanders",
+          "url": "https://open.spotify.com/artist/4udfBn2nJQ6bHoMrr2lKpz"
+        }
+      ],
+      "duration_ms": 450020,
+      "name": "Endcliffe Park",
+      "url": "https://open.spotify.com/track/4Uoy2ySRvBC1jnbj5FfusP"
     },
     {
       "added_at": "2024-10-01 20:57:32",

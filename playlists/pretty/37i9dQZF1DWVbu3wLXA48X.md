@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Peach Luffe
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,714 likes - 96 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,723 likes - 96 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 95 | [Moth To The Flame](https://open.spotify.com/track/68j8pmIJVodrP1Po29IdJj) | [The WAEVE](https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rose Elinor Dougall](https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC) | [City Lights](https://open.spotify.com/album/2mc8z8p5BSchhpD6wBcpEw) | 4:43 |
 | 96 | [Young\-Girl \(Illusion\)](https://open.spotify.com/track/7BXMOuzZnYYTj2mS0mbS7d) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Young\-Girl \(Illusion\)](https://open.spotify.com/album/10UrSqG6MvEutC0qfrZ1fK) | 3:09 |
 
-Snapshot ID: `Zy3f9AAAAADKIxD7thaXnq0KWaErbmDy`
+Snapshot ID: `Zy3f9AAAAAATeRCFvd9zD7k42DY8KrE6`

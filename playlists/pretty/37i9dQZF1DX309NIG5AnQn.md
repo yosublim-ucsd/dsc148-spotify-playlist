@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 Fin del Mundo
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,857 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,870 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 99 | [La calma del cementerio](https://open.spotify.com/track/6SRGt0viZAd4poDhikoAPj) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [Entre Sombras](https://open.spotify.com/album/1yADlmajIBrwhTQ51CqW8q) | 3:40 |
 | 100 | [Mentiroso Miente](https://open.spotify.com/track/3mCiPbSvvOgkhwfunAqmxL) | [Socorro](https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA) | [Mentiroso Miente](https://open.spotify.com/album/6fr6AARElMTnBKHTziuWPK) | 2:46 |
 
-Snapshot ID: `ZxqsWgAAAADAUVTROE3XkVVrMN5nQklt`
+Snapshot ID: `ZxqsWgAAAADDwys7ZhBabAnriDGGLG8f`

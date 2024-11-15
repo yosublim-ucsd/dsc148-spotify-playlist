@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,199,050 likes - 199 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,199,187 likes - 199 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 198 | [A Few Reasons](https://open.spotify.com/track/5f47RLk3HgmaCBrhI9Ibrf) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [A Few Reasons](https://open.spotify.com/album/6NAR2psL2E6ViUIZgHurEZ) | 2:31 |
 | 199 | [Omaggio](https://open.spotify.com/track/77uZ7sLDxL0COLYkmNL6f5) | [Mina Pellé](https://open.spotify.com/artist/5ULQkv4ZSPh4HDDvwuDzVp) | [Omaggio](https://open.spotify.com/album/03dAXeqgfRskUKqP4iBiid) | 2:06 |
 
-Snapshot ID: `ZzImxQAAAADB6+lYWLkgruT2JmFhsIJC`
+Snapshot ID: `ZzImxQAAAABt333QiFPZhzFOfRTi6eWw`

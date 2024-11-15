@@ -855,6 +855,28 @@
     },
     {
       "album": {
+        "name": "Bob's Burgers Open Mic Night (From \"Bob's Burgers\")",
+        "url": "https://open.spotify.com/album/7ecMSvumawVFZunzKD9n2c"
+      },
+      "artists": [
+        {
+          "name": "Bob's Burgers",
+          "url": "https://open.spotify.com/artist/0NZ4IxTtMSEx59a0H0ikLE"
+        },
+        {
+          "name": "Larry Murphy",
+          "url": "https://open.spotify.com/artist/4UFzjuzrMcQXveS7xK92aR"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103141,
+      "name": "Hold on Loosely",
+      "url": "https://open.spotify.com/track/2hcs0QeP8ZVGljqHtSZWFo"
+    },
+    {
+      "album": {
         "name": "Tiny Beautiful Things (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0wfB1zTsdAIq2DoiXMzIKy"
       },

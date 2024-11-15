@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Lycina\u00efs Jean",
+  "description": "Les hits zouk du moment. Photo : Stony x Kalipsxau",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -148,6 +148,24 @@
       "duration_ms": 180000,
       "name": "ANTANANARIVO",
       "url": "https://open.spotify.com/track/2Gg8Cmnzoi2wbgRiVgTHWm"
+    },
+    {
+      "album": {
+        "name": "Ashanti",
+        "url": "https://open.spotify.com/album/23N2GypZNpGM90u5gIgEGQ"
+      },
+      "artists": [
+        {
+          "name": "Scridge",
+          "url": "https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Ashanti",
+      "url": "https://open.spotify.com/track/2JsCWEV3SFrnwSCmorOzIl"
     },
     {
       "album": {
@@ -1671,6 +1689,24 @@
     },
     {
       "album": {
+        "name": "Ma Moiti\u00e9",
+        "url": "https://open.spotify.com/album/5177w6bdw8TMXVlSF3NVIm"
+      },
+      "artists": [
+        {
+          "name": "Varaine Ben",
+          "url": "https://open.spotify.com/artist/6dP1hrA6zbtVabsfbjiTL8"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210750,
+      "name": "Ma Moiti\u00e9",
+      "url": "https://open.spotify.com/track/36Ed4SQiiWmMLRxiiX1Df7"
+    },
+    {
+      "album": {
         "name": "Ma partition",
         "url": "https://open.spotify.com/album/3w5UZizv5UTz34NJXGuJE7"
       },
@@ -2792,7 +2828,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-15",
       "duration_ms": 206176,
       "name": "San vou",
       "url": "https://open.spotify.com/track/2yzerewN8VNbVTy8Iuvzbj"

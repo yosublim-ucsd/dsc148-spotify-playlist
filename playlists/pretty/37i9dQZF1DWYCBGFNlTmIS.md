@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 
 > I人心聲。
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,607 likes - 33 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,608 likes - 33 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 | 32 | [內向日葵](https://open.spotify.com/track/1LKWdGuwM5qwo04xAZseZM) | [kiwiseed](https://open.spotify.com/artist/1S13YkJMlcNKAB5QUbJPxZ) | [內向日葵](https://open.spotify.com/album/53L69Qp2YrrO5a7IXHoFdQ) | 3:07 |
 | 33 | [當代信任](https://open.spotify.com/track/4mwY3hBefrXukVHRfX0FEy) | [Carson Leung](https://open.spotify.com/artist/3g80FKOHJgeoD51aYOaV1w), [Ryanleeisgod](https://open.spotify.com/artist/02Hhkeh8JMihnNCW1pWyTB) | [有出口 無盡頭](https://open.spotify.com/album/4BMbXPtNIV0UjGtygN18Xh) | 3:36 |
 
-Snapshot ID: `ZzGumwAAAABFHvySWdfFXAw9nm2qfpPV`
+Snapshot ID: `ZzGumwAAAACBjuW4SFlCyVThNlRH7C6R`

@@ -4,7 +4,7 @@
 
 > best sigma male \- sigma workout \- sad sigma songs
 
-647 songs - 1 day 3 hr 44 min
+648 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [JUNBI](https://open.spotify.com/track/6XlA9l2mv5czqDrMkR9wp2) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [Anar](https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP) | [JUNBI](https://open.spotify.com/album/4EMSvqstx2Dwo1Fe9HCjJK) | 1:36 | 2024-06-08 | 2024-07-12 |
 | [Keraunos](https://open.spotify.com/track/5ZKyj00XSlmEoKnDGH4JZa) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Keraunos](https://open.spotify.com/album/4NlCk3xPB0LE5Ab9UwSK7A) | 2:24 | 2023-06-12 |  |
 | [Keraunos Killer](https://open.spotify.com/track/2rdSnAJHaASxsC8EwGaM7i) | [4WHEEL](https://open.spotify.com/artist/40Teyg4qSzR04DzHpPP0o6) | [Keraunos Killer](https://open.spotify.com/album/76lI16y0j41xwPVpbYGT0V) | 2:07 | 2023-06-12 |  |
+| [kerosene](https://open.spotify.com/track/1flHnIDcymDmUeUUWNlIM2) | [Bad Neighbors](https://open.spotify.com/artist/06q2qsH9V7Ayk2DQmM03Ez) | [TVPE!](https://open.spotify.com/album/5wanAthaCks3AjCXPuvox5) | 2:00 | 2024-11-14 |  |
 | [Kerosene](https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:12 | 2023-06-12 |  |
 | [Kerosene \- Slowed](https://open.spotify.com/track/2weO22kObPnyX1jKQStb40) | [fam0uz](https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo) | [Kerosene \(Slowed\)](https://open.spotify.com/album/1mAU33mqJDs4eekzZAQZvf) | 2:22 | 2024-02-07 |  |
 | [KEROSENE PHONK](https://open.spotify.com/track/0J2r17bLiJix2C9K9ZPGWy) | [Rushex](https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti) | [KEROSENE PHONK](https://open.spotify.com/album/1qlY2jln5YqeUqQX3T0GCx) | 1:55 | 2023-08-05 | 2023-09-26 |

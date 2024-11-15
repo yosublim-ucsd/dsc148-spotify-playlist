@@ -1017,6 +1017,32 @@
     },
     {
       "album": {
+        "name": "Starlight Express",
+        "url": "https://open.spotify.com/album/4QUyvzfxm7Njf88dFYSrr9"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Jeevan Braich",
+          "url": "https://open.spotify.com/artist/6LopWizUGU7UICdQ7MEkGr"
+        },
+        {
+          "name": "Kayna Montecillo",
+          "url": "https://open.spotify.com/artist/2IHsK4JgDj7rDVHQkLQ4Kx"
+        }
+      ],
+      "date_added": "2024-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257545,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/4hkPIQY5aulr2uH19cyVJl"
+    },
+    {
+      "album": {
         "name": "The Lion King: Original Broadway Cast Recording",
         "url": "https://open.spotify.com/album/1y6p6tINBthUWsQVQJmiYK"
       },

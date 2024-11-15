@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 
 > ¡Márquele sección! Los corridones tronando en vivo\. Noel Torres, Régulo Caro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,967 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,033 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 | 74 | [Cara de Bala \(En Vivo\)](https://open.spotify.com/track/1Tm3LXsJK7V9BV9mhtCJYD) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Zap Garcia](https://open.spotify.com/artist/1H1ADeCEi7Lu2OVorvGshg) | [Cara de Bala \(En Vivo\)](https://open.spotify.com/album/7MvjnbGjvMeMDOrG3lvARK) | 2:31 |
 | 75 | [No Me Falten Al Respeto \(En Vivo\)](https://open.spotify.com/track/3emzOQZynRBtP3DVFg8xJA) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG), [Banda La Experta](https://open.spotify.com/artist/3fptmCH7rgFpe0Iw6fsor5) | [No Me Falten Al Respeto \(En Vivo\)](https://open.spotify.com/album/6kpfWnsv0yxILzTonbcnWP) | 2:42 |
 
-Snapshot ID: `Zo8lVgAAAABQwWG/guXPz9ybLLzHJaiZ`
+Snapshot ID: `Zo8lVgAAAABZso2fOp5DNkxy4sxJS7Aw`

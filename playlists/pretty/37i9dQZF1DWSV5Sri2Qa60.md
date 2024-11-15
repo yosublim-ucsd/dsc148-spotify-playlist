@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 
 > Where your new favourite bands are discovered\. Cover: Man/Woman/Chainsaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,250 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,248 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 | 49 | [One More Day](https://open.spotify.com/track/544xcMdny7JqmMbkVxHoiX) | [Umarells](https://open.spotify.com/artist/3xrZ3BiHelQXsoQJoP90Yh) | [One More Day](https://open.spotify.com/album/1MKpe4kToXSOWcgdCnnDCE) | 5:40 |
 | 50 | [Situations](https://open.spotify.com/track/2FqWxImxyiH1i8cEvQEtXG) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Situations](https://open.spotify.com/album/4hCRTTJk2gUDZr7NteckzK) | 2:52 |
 
-Snapshot ID: `Zy4QMAAAAACDjFuf5wCP/ZpNTdnoP4nC`
+Snapshot ID: `Zy4QMAAAAABiGKIK41wFbt2uqksUjCQ2`

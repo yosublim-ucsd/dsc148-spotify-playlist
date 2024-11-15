@@ -549,6 +549,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Rat Sunset",
+        "url": "https://open.spotify.com/album/4Matl0g5l7qXKvsoorZ1Bf"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2024-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156133,
+      "name": "Resonant Bell World",
+      "url": "https://open.spotify.com/track/2xkusgD5mDOEzzVcrDJqZd"
+    },
+    {
+      "album": {
         "name": "Can't Maintain",
         "url": "https://open.spotify.com/album/0nm6MlBgiFUET6shfchd8l"
       },
